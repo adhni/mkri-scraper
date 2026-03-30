@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mkri-scraper"
+version = "0.1.0"
+description = "Pure-Python parser for Mahkamah Konstitusi Republik Indonesia decisions and determinations."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "pypdf>=4.2.0",
+  "PyPDF2>=3.0.0",
+  "jsonschema>=4.23.0",
+]
+
+[tool.setuptools]
+package-dir = {"" = "."}
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

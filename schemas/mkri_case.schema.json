@@ -1,0 +1,218 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MKRI Case Parse",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "source",
+    "parser",
+    "document",
+    "sections",
+    "parties",
+    "legal_basis",
+    "proceedings",
+    "outcome",
+    "adjudicators",
+    "relations"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "source": {
+      "type": "object",
+      "required": ["pdf_path", "file_name"],
+      "properties": {
+        "pdf_path": {"type": "string"},
+        "file_name": {"type": "string"},
+        "page_count": {"type": ["integer", "null"]},
+        "text_extraction_engine": {"type": ["string", "null"]}
+      }
+    },
+    "parser": {
+      "type": "object",
+      "required": ["status", "warnings"],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["ok", "partial", "failed"]
+        },
+        "warnings": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "failed_extractors": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "document": {
+      "type": "object",
+      "required": ["document_type", "case_type", "case_number"],
+      "properties": {
+        "document_type": {
+          "type": ["string", "null"],
+          "enum": ["putusan", "ketetapan", null]
+        },
+        "case_type": {"type": ["string", "null"]},
+        "case_number": {"type": ["string", "null"]},
+        "related_case_numbers": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "title": {"type": ["string", "null"]},
+        "decision_date": {"type": ["string", "null"]},
+        "decision_date_raw": {"type": ["string", "null"]},
+        "summary": {"type": ["string", "null"]}
+      }
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["heading", "slug", "text"],
+        "properties": {
+          "heading": {"type": "string"},
+          "slug": {"type": "string"},
+          "text": {"type": "string"},
+          "start_line": {"type": ["integer", "null"]},
+          "end_line": {"type": ["integer", "null"]}
+        }
+      }
+    },
+    "parties": {
+      "type": "object",
+      "required": [
+        "applicants",
+        "legal_counsels",
+        "respondents",
+        "experts",
+        "witnesses",
+        "amicus_curiae"
+      ],
+      "properties": {
+        "applicants": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/personLike"}
+        },
+        "legal_counsels": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/personLike"}
+        },
+        "respondents": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/personLike"}
+        },
+        "experts": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/personLike"}
+        },
+        "witnesses": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/personLike"}
+        },
+        "amicus_curiae": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/personLike"}
+        }
+      }
+    },
+    "legal_basis": {
+      "type": "object",
+      "required": [
+        "object_of_review",
+        "constitutional_articles",
+        "procedural_articles",
+        "evidence"
+      ],
+      "properties": {
+        "object_of_review": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "constitutional_articles": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "procedural_articles": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "evidence": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "proceedings": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "outcome": {
+      "type": "object",
+      "required": ["decision_type", "dictum", "summary"],
+      "properties": {
+        "decision_type": {"type": ["string", "null"]},
+        "dictum": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "summary": {"type": ["string", "null"]}
+      }
+    },
+    "adjudicators": {
+      "type": "object",
+      "required": ["judges", "clerks"],
+      "properties": {
+        "judges": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "clerks": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "relations": {
+      "type": "object",
+      "required": ["joined_cases", "referenced_cases"],
+      "properties": {
+        "joined_cases": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "referenced_cases": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "validation": {
+      "type": "object",
+      "properties": {
+        "schema_errors": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "business_rule_errors": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    }
+  },
+  "$defs": {
+    "personLike": {
+      "type": "object",
+      "required": ["name", "role"],
+      "properties": {
+        "name": {"type": "string"},
+        "role": {"type": "string"},
+        "description": {"type": ["string", "null"]}
+      }
+    }
+  }
+}
+
