@@ -32,6 +32,13 @@ source .venv/bin/activate
 pip install -e .
 ```
 
+Untuk mode browser opsional pada scraper discovery:
+
+```bash
+pip install -e '.[browser]'
+playwright install chromium
+```
+
 ## CLI
 
 Parse satu file PDF:
@@ -76,12 +83,14 @@ Sinkronkan perkara baru dari web MKRI tracking:
 ```bash
 python -m src.cli sync-new --case-type PUU --year 2025
 python -m src.cli sync-new --case-type PUU --year 2025 --download-decisions
+python -m src.cli sync-new --case-type PUU --year 2025 --browser
 ```
 
 Jalankan discovery + download + parse + validate dalam satu command:
 
 ```bash
 python -m src.cli sync-and-ingest --case-type PUU --year 2025
+python -m src.cli sync-and-ingest --case-type PUU --year 2025 --browser
 ```
 
 ## Alur Pipeline
@@ -126,6 +135,18 @@ Command tersebut akan:
 3. parse PDF ke `data/parsed_json/`
 4. validate ke `data/validated_json/` atau `data/review_queue/`
 5. membuat hasil baru langsung terbaca oleh viewer web
+
+Jika endpoint MKRI memunculkan Cloudflare challenge, gunakan mode browser:
+
+```bash
+python -m src.cli sync-and-ingest --case-type PUU --year 2025 --browser
+```
+
+Untuk sesi interaktif pertama kali, mode headful bisa membantu:
+
+```bash
+python -m src.cli sync-and-ingest --case-type PUU --year 2025 --browser --browser-headful
+```
 
 Flag yang berguna:
 

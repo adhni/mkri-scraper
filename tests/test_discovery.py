@@ -24,6 +24,50 @@ SAMPLE_TRACKING_HTML = """
 
 
 class DiscoveryTests(unittest.TestCase):
+    def test_sync_new_cases_can_use_browser_session(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            root = Path(tmp_dir)
+            html_dir = root / "html"
+            snapshot_dir = root / "snapshots"
+            pdf_dir = root / "pdfs"
+            state_path = root / "state.json"
+
+            class FakeBrowserSession:
+                def __enter__(self):
+                    return self
+
+                def __exit__(self, exc_type, exc, tb) -> None:
+                    return None
+
+                def fetch_html(self, url: str) -> str:
+                    return SAMPLE_TRACKING_HTML
+
+                def download_from_current_page(self, target_url: str, destination: str | Path) -> Path:
+                    destination = Path(destination)
+                    destination.parent.mkdir(parents=True, exist_ok=True)
+                    destination.write_bytes(b"%PDF-1.4")
+                    return destination
+
+            with patch("src.discovery.create_browser_session", return_value=FakeBrowserSession()):
+                result = sync_new_cases(
+                    case_type="PUU",
+                    year=2025,
+                    start_sequence=133,
+                    max_candidates=1,
+                    max_misses=1,
+                    state_path=state_path,
+                    html_dir=html_dir,
+                    snapshot_dir=snapshot_dir,
+                    pdf_dir=pdf_dir,
+                    download_decisions=True,
+                    use_browser=True,
+                    sleep_seconds=0.0,
+                )
+
+            self.assertEqual(result["new_cases"], ["133/PUU-XXIII/2025"])
+            self.assertTrue(result["browser_mode_used"])
+            self.assertTrue((pdf_dir / "133_PUU-XXIII_2025.pdf").exists())
+
     def test_sync_new_cases_writes_snapshots_and_state(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             root = Path(tmp_dir)

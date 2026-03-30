@@ -1,3 +1,4 @@
+from .browser import BrowserAutomationUnavailableError, BrowserSessionConfig, MkriBrowserSession, create_browser_session
 from .mkri_tracking import (
     TrackingCaseSnapshot,
     TrackingAccessBlockedError,
@@ -11,6 +12,10 @@ from .mkri_tracking import (
 )
 
 __all__ = [
+    "BrowserAutomationUnavailableError",
+    "BrowserSessionConfig",
+    "MkriBrowserSession",
+    "create_browser_session",
     "TrackingCaseSnapshot",
     "TrackingAccessBlockedError",
     "TrackingDocumentLink",

@@ -9,6 +9,7 @@ from typing import Any
 from urllib.error import HTTPError, URLError
 
 from .pipeline import ingest_pdf_files
+from .scrapers.browser import BrowserAutomationUnavailableError, create_browser_session
 from .scrapers.mkri_tracking import (
     TrackingCaseSnapshot,
     TrackingAccessBlockedError,
@@ -90,6 +91,9 @@ def sync_new_cases(
     snapshot_dir: str | Path = "data/discovery/tracking_cases",
     pdf_dir: str | Path = "data/raw_pdfs",
     download_decisions: bool = False,
+    use_browser: bool = False,
+    browser_headless: bool = True,
+    browser_storage_state_path: str | Path | None = None,
     sleep_seconds: float = 0.2,
     timeout: float = 20.0,
     force: bool = False,
@@ -109,73 +113,99 @@ def sync_new_cases(
     checked_urls: list[str] = []
     last_checked_sequence = state.last_checked_sequence
     consecutive_misses = 0
+    browser_mode_used = False
 
-    for sequence in range(current_sequence, current_sequence + max_candidates):
-        case_number = build_case_number(sequence, case_type, year)
-        tracking_url = build_tracking_url(case_number)
-        checked_urls.append(tracking_url)
-        last_checked_sequence = sequence
+    def _scan(session: Any | None) -> None:
+        nonlocal last_checked_sequence, consecutive_misses, browser_mode_used
+        for sequence in range(current_sequence, current_sequence + max_candidates):
+            case_number = build_case_number(sequence, case_type, year)
+            tracking_url = build_tracking_url(case_number)
+            checked_urls.append(tracking_url)
+            last_checked_sequence = sequence
 
-        try:
-            html = fetch_url_text(tracking_url, timeout=timeout)
-        except HTTPError as exc:
-            if exc.code == 404:
+            try:
+                if session is None:
+                    html = fetch_url_text(tracking_url, timeout=timeout)
+                else:
+                    browser_mode_used = True
+                    html = session.fetch_html(tracking_url)
+            except HTTPError as exc:
+                if exc.code == 404:
+                    consecutive_misses += 1
+                    if consecutive_misses >= max_misses:
+                        break
+                    continue
+                failures.append(f"{case_number}: HTTP {exc.code}")
                 consecutive_misses += 1
                 if consecutive_misses >= max_misses:
                     break
                 continue
-            failures.append(f"{case_number}: HTTP {exc.code}")
-            consecutive_misses += 1
-            if consecutive_misses >= max_misses:
+            except TrackingAccessBlockedError as exc:
+                failures.append(f"{case_number}: {exc}")
                 break
-            continue
-        except TrackingAccessBlockedError as exc:
-            failures.append(f"{case_number}: {exc}")
-            break
-        except URLError as exc:
-            failures.append(f"{case_number}: {exc.reason}")
-            break
-        except Exception as exc:
-            failures.append(f"{case_number}: {exc}")
-            break
-
-        snapshot = extract_tracking_case(html, tracking_url)
-        if snapshot is None:
-            consecutive_misses += 1
-            if consecutive_misses >= max_misses:
+            except BrowserAutomationUnavailableError as exc:
+                failures.append(f"{case_number}: {exc}")
                 break
-            continue
+            except URLError as exc:
+                failures.append(f"{case_number}: {exc.reason}")
+                break
+            except Exception as exc:
+                failures.append(f"{case_number}: {exc}")
+                break
 
-        consecutive_misses = 0
-        slug = slugify_case_number(snapshot.case_number)
-        html_path = html_dir / f"{slug}.html"
-        snapshot_path = snapshot_dir / f"{slug}.json"
-        existed_before = snapshot_path.exists()
+            snapshot = extract_tracking_case(html, tracking_url)
+            if snapshot is None:
+                consecutive_misses += 1
+                if consecutive_misses >= max_misses:
+                    break
+                continue
 
-        if force or not html_path.exists():
-            html_path.parent.mkdir(parents=True, exist_ok=True)
-            html_path.write_text(html, encoding="utf-8")
-        _write_snapshot(snapshot, snapshot_path)
+            consecutive_misses = 0
+            slug = slugify_case_number(snapshot.case_number)
+            html_path = html_dir / f"{slug}.html"
+            snapshot_path = snapshot_dir / f"{slug}.json"
+            existed_before = snapshot_path.exists()
 
-        found_cases.append(snapshot.case_number)
-        if not existed_before:
-            new_cases.append(snapshot.case_number)
+            if force or not html_path.exists():
+                html_path.parent.mkdir(parents=True, exist_ok=True)
+                html_path.write_text(html, encoding="utf-8")
+            _write_snapshot(snapshot, snapshot_path)
 
-        if download_decisions:
-            decision_url = _pick_decision_link(snapshot)
-            if decision_url:
-                pdf_path = pdf_dir / f"{slug}.pdf"
-                if force or not pdf_path.exists():
-                    try:
-                        download_binary(decision_url, pdf_path, timeout=max(timeout, 30.0))
+            found_cases.append(snapshot.case_number)
+            if not existed_before:
+                new_cases.append(snapshot.case_number)
+
+            if download_decisions:
+                decision_url = _pick_decision_link(snapshot)
+                if decision_url:
+                    pdf_path = pdf_dir / f"{slug}.pdf"
+                    if force or not pdf_path.exists():
+                        try:
+                            if session is None:
+                                download_binary(decision_url, pdf_path, timeout=max(timeout, 30.0))
+                            else:
+                                session.download_from_current_page(decision_url, pdf_path)
+                            downloaded_pdfs.append(str(pdf_path))
+                        except Exception as exc:
+                            failures.append(f"{snapshot.case_number} decision download: {exc}")
+                    else:
                         downloaded_pdfs.append(str(pdf_path))
-                    except Exception as exc:
-                        failures.append(f"{snapshot.case_number} decision download: {exc}")
-                else:
-                    downloaded_pdfs.append(str(pdf_path))
 
-        if sleep_seconds > 0:
-            time.sleep(sleep_seconds)
+            if sleep_seconds > 0:
+                time.sleep(sleep_seconds)
+
+    if use_browser:
+        try:
+            with create_browser_session(
+                headless=browser_headless,
+                timeout_ms=int(max(timeout, 20.0) * 1000),
+                storage_state_path=browser_storage_state_path,
+            ) as browser_session:
+                _scan(browser_session)
+        except BrowserAutomationUnavailableError as exc:
+            failures.append(str(exc))
+    else:
+        _scan(None)
 
     state.next_sequence = last_checked_sequence + 1
     state.last_checked_sequence = last_checked_sequence
@@ -196,6 +226,7 @@ def sync_new_cases(
         "next_sequence": state.next_sequence,
         "last_checked_sequence": state.last_checked_sequence,
         "consecutive_misses": state.consecutive_misses,
+        "browser_mode_used": browser_mode_used,
     }
 
 
@@ -215,6 +246,9 @@ def sync_and_ingest_cases(
     review_dir: str | Path = "data/review_queue",
     manual_truth_dir: str | Path | None = None,
     download_decisions: bool = True,
+    use_browser: bool = False,
+    browser_headless: bool = True,
+    browser_storage_state_path: str | Path | None = None,
     sleep_seconds: float = 0.2,
     timeout: float = 20.0,
     force: bool = False,
@@ -230,6 +264,9 @@ def sync_and_ingest_cases(
         snapshot_dir=snapshot_dir,
         pdf_dir=pdf_dir,
         download_decisions=download_decisions,
+        use_browser=use_browser,
+        browser_headless=browser_headless,
+        browser_storage_state_path=browser_storage_state_path,
         sleep_seconds=sleep_seconds,
         timeout=timeout,
         force=force,

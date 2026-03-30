@@ -115,6 +115,9 @@ def cmd_sync_new(args: argparse.Namespace) -> int:
         snapshot_dir=args.snapshot_dir,
         pdf_dir=args.pdf_dir,
         download_decisions=args.download_decisions,
+        use_browser=args.browser,
+        browser_headless=not args.browser_headful,
+        browser_storage_state_path=args.browser_storage_state,
         sleep_seconds=args.sleep_seconds,
         timeout=args.timeout,
         force=args.force,
@@ -139,6 +142,9 @@ def cmd_sync_and_ingest(args: argparse.Namespace) -> int:
         review_dir=args.review_dir,
         manual_truth_dir=args.manual_truth_dir if args.with_manual_truth else None,
         download_decisions=not args.no_download_decisions,
+        use_browser=args.browser,
+        browser_headless=not args.browser_headful,
+        browser_storage_state_path=args.browser_storage_state,
         sleep_seconds=args.sleep_seconds,
         timeout=args.timeout,
         force=args.force,
@@ -194,6 +200,9 @@ def build_parser() -> argparse.ArgumentParser:
     sync_cmd.add_argument("--snapshot-dir", type=Path, default=Path("data/discovery/tracking_cases"))
     sync_cmd.add_argument("--pdf-dir", type=Path, default=Path("data/raw_pdfs"))
     sync_cmd.add_argument("--download-decisions", action="store_true")
+    sync_cmd.add_argument("--browser", action="store_true")
+    sync_cmd.add_argument("--browser-headful", action="store_true")
+    sync_cmd.add_argument("--browser-storage-state", type=Path, default=Path("data/discovery/browser_state.json"))
     sync_cmd.add_argument("--sleep-seconds", type=float, default=0.2)
     sync_cmd.add_argument("--timeout", type=float, default=20.0)
     sync_cmd.add_argument("--force", action="store_true")
@@ -215,6 +224,9 @@ def build_parser() -> argparse.ArgumentParser:
     sync_ingest_cmd.add_argument("--manual-truth-dir", type=Path, default=Path("tests/manual_truth"))
     sync_ingest_cmd.add_argument("--with-manual-truth", action="store_true")
     sync_ingest_cmd.add_argument("--no-download-decisions", action="store_true")
+    sync_ingest_cmd.add_argument("--browser", action="store_true")
+    sync_ingest_cmd.add_argument("--browser-headful", action="store_true")
+    sync_ingest_cmd.add_argument("--browser-storage-state", type=Path, default=Path("data/discovery/browser_state.json"))
     sync_ingest_cmd.add_argument("--sleep-seconds", type=float, default=0.2)
     sync_ingest_cmd.add_argument("--timeout", type=float, default=20.0)
     sync_ingest_cmd.add_argument("--force", action="store_true")
