@@ -2,9 +2,11 @@ from __future__ import annotations
 
 import argparse
 import json
+from datetime import date
 from pathlib import Path
 from typing import Sequence
 
+from .discovery import sync_and_ingest_cases, sync_new_cases
 from .parser import MkriParser
 from .pipeline import run_pipeline
 from .reporting import build_pipeline_report, write_pipeline_report
@@ -101,6 +103,50 @@ def cmd_report(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_sync_new(args: argparse.Namespace) -> int:
+    result = sync_new_cases(
+        case_type=args.case_type,
+        year=args.year,
+        start_sequence=args.start_sequence,
+        max_candidates=args.max_candidates,
+        max_misses=args.max_misses,
+        state_path=args.state_path,
+        html_dir=args.html_dir,
+        snapshot_dir=args.snapshot_dir,
+        pdf_dir=args.pdf_dir,
+        download_decisions=args.download_decisions,
+        sleep_seconds=args.sleep_seconds,
+        timeout=args.timeout,
+        force=args.force,
+    )
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0
+
+
+def cmd_sync_and_ingest(args: argparse.Namespace) -> int:
+    result = sync_and_ingest_cases(
+        case_type=args.case_type,
+        year=args.year,
+        start_sequence=args.start_sequence,
+        max_candidates=args.max_candidates,
+        max_misses=args.max_misses,
+        state_path=args.state_path,
+        html_dir=args.html_dir,
+        snapshot_dir=args.snapshot_dir,
+        pdf_dir=args.pdf_dir,
+        parsed_dir=args.parsed_dir,
+        validated_dir=args.validated_dir,
+        review_dir=args.review_dir,
+        manual_truth_dir=args.manual_truth_dir if args.with_manual_truth else None,
+        download_decisions=not args.no_download_decisions,
+        sleep_seconds=args.sleep_seconds,
+        timeout=args.timeout,
+        force=args.force,
+    )
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     ap = argparse.ArgumentParser(prog="mkri-scraper")
     sub = ap.add_subparsers(dest="command", required=True)
@@ -136,6 +182,43 @@ def build_parser() -> argparse.ArgumentParser:
     report_cmd.add_argument("--review-dir", type=Path, default=Path("data/review_queue"))
     report_cmd.add_argument("--output", type=Path)
     report_cmd.set_defaults(func=cmd_report)
+
+    sync_cmd = sub.add_parser("sync-new", help="Discover new MKRI tracking cases and optionally download decision PDFs")
+    sync_cmd.add_argument("--case-type", default="PUU")
+    sync_cmd.add_argument("--year", type=int, default=date.today().year)
+    sync_cmd.add_argument("--start-sequence", type=int, default=1)
+    sync_cmd.add_argument("--max-candidates", type=int, default=50)
+    sync_cmd.add_argument("--max-misses", type=int, default=20)
+    sync_cmd.add_argument("--state-path", type=Path)
+    sync_cmd.add_argument("--html-dir", type=Path, default=Path("data/discovery/raw_html"))
+    sync_cmd.add_argument("--snapshot-dir", type=Path, default=Path("data/discovery/tracking_cases"))
+    sync_cmd.add_argument("--pdf-dir", type=Path, default=Path("data/raw_pdfs"))
+    sync_cmd.add_argument("--download-decisions", action="store_true")
+    sync_cmd.add_argument("--sleep-seconds", type=float, default=0.2)
+    sync_cmd.add_argument("--timeout", type=float, default=20.0)
+    sync_cmd.add_argument("--force", action="store_true")
+    sync_cmd.set_defaults(func=cmd_sync_new)
+
+    sync_ingest_cmd = sub.add_parser("sync-and-ingest", help="Discover new MKRI cases, download decisions, parse PDFs, and validate JSON")
+    sync_ingest_cmd.add_argument("--case-type", default="PUU")
+    sync_ingest_cmd.add_argument("--year", type=int, default=date.today().year)
+    sync_ingest_cmd.add_argument("--start-sequence", type=int, default=1)
+    sync_ingest_cmd.add_argument("--max-candidates", type=int, default=50)
+    sync_ingest_cmd.add_argument("--max-misses", type=int, default=20)
+    sync_ingest_cmd.add_argument("--state-path", type=Path)
+    sync_ingest_cmd.add_argument("--html-dir", type=Path, default=Path("data/discovery/raw_html"))
+    sync_ingest_cmd.add_argument("--snapshot-dir", type=Path, default=Path("data/discovery/tracking_cases"))
+    sync_ingest_cmd.add_argument("--pdf-dir", type=Path, default=Path("data/raw_pdfs"))
+    sync_ingest_cmd.add_argument("--parsed-dir", type=Path, default=Path("data/parsed_json"))
+    sync_ingest_cmd.add_argument("--validated-dir", type=Path, default=Path("data/validated_json"))
+    sync_ingest_cmd.add_argument("--review-dir", type=Path, default=Path("data/review_queue"))
+    sync_ingest_cmd.add_argument("--manual-truth-dir", type=Path, default=Path("tests/manual_truth"))
+    sync_ingest_cmd.add_argument("--with-manual-truth", action="store_true")
+    sync_ingest_cmd.add_argument("--no-download-decisions", action="store_true")
+    sync_ingest_cmd.add_argument("--sleep-seconds", type=float, default=0.2)
+    sync_ingest_cmd.add_argument("--timeout", type=float, default=20.0)
+    sync_ingest_cmd.add_argument("--force", action="store_true")
+    sync_ingest_cmd.set_defaults(func=cmd_sync_and_ingest)
     return ap
 
 

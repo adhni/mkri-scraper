@@ -21,6 +21,7 @@ data/raw_pdfs/
 data/parsed_json/
 data/validated_json/
 data/review_queue/
+data/discovery/
 ```
 
 ## Instalasi
@@ -70,6 +71,19 @@ python -m src.cli report
 python -m src.cli report --output data/pipeline_reports/latest.json
 ```
 
+Sinkronkan perkara baru dari web MKRI tracking:
+
+```bash
+python -m src.cli sync-new --case-type PUU --year 2025
+python -m src.cli sync-new --case-type PUU --year 2025 --download-decisions
+```
+
+Jalankan discovery + download + parse + validate dalam satu command:
+
+```bash
+python -m src.cli sync-and-ingest --case-type PUU --year 2025
+```
+
 ## Alur Pipeline
 
 1. `src.pdf_text` mengekstrak teks mentah PDF memakai `pypdf`.
@@ -81,6 +95,44 @@ python -m src.cli report --output data/pipeline_reports/latest.json
 7. Template anotasi manual bisa dihasilkan ke `tests/manual_truth/` untuk membuat ground truth bertahap.
 8. Report operasional bisa dihasilkan dari `parsed_json`, `validated_json`, dan `review_queue`.
 9. Viewer web membaca hasil JSON yang sama untuk prototype visualisasi dan demo internal.
+
+## Discovery Scraper
+
+Scraper discovery memakai `tracking.mkri.id` untuk menemukan perkara baru dan link dokumen pendukung.
+
+Output utamanya:
+
+- snapshot HTML tracking ke `data/discovery/raw_html/`
+- metadata tracking ke `data/discovery/tracking_cases/`
+- checkpoint scan ke `data/discovery/checkpoints/`
+- opsional unduhan `File Putusan` ke `data/raw_pdfs/`
+
+Command utama:
+
+```bash
+python -m src.cli sync-new --case-type PUU --year 2025
+```
+
+Untuk pipeline otomatis sampai masuk ke viewer:
+
+```bash
+python -m src.cli sync-and-ingest --case-type PUU --year 2025
+```
+
+Command tersebut akan:
+
+1. scan perkara baru dari `tracking.mkri.id`
+2. unduh `File Putusan` bila tersedia
+3. parse PDF ke `data/parsed_json/`
+4. validate ke `data/validated_json/` atau `data/review_queue/`
+5. membuat hasil baru langsung terbaca oleh viewer web
+
+Flag yang berguna:
+
+- `--download-decisions` untuk mengunduh `File Putusan` bila tersedia
+- `--max-candidates` untuk membatasi jumlah nomor perkara yang discan per run
+- `--max-misses` untuk berhenti setelah sekian nomor kosong berturut-turut
+- `--force` untuk refresh snapshot HTML dan metadata walau file lokal sudah ada
 
 ## Batasan Parser V1
 

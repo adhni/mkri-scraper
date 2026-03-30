@@ -120,3 +120,57 @@ def run_pipeline(
         "review_summary": summarize_json_directory([Path(item) for item in review_outputs]) if review_outputs else {},
         "validated_summary": summarize_json_directory([Path(item) for item in validate_outputs]) if validate_outputs else {},
     }
+
+
+def ingest_pdf_files(
+    pdf_paths: list[str | Path],
+    parsed_dir: str | Path = "data/parsed_json",
+    validated_dir: str | Path = "data/validated_json",
+    review_dir: str | Path = "data/review_queue",
+    manual_truth_dir: str | Path | None = None,
+) -> dict[str, Any]:
+    parser = MkriParser()
+    parsed_dir = Path(parsed_dir)
+    validated_dir = Path(validated_dir)
+    review_dir = Path(review_dir)
+
+    parse_failures: list[str] = []
+    parse_outputs: list[str] = []
+    for pdf_path in [Path(item) for item in pdf_paths]:
+        if not pdf_path.is_file():
+            parse_failures.append(f"{pdf_path}: file not found")
+            continue
+        try:
+            out_path = parser.parse_pdf_file_to_json(pdf_path, output_dir=parsed_dir)
+            parse_outputs.append(str(out_path))
+        except Exception as exc:
+            parse_failures.append(f"{pdf_path.name}: {exc}")
+
+    validate_outputs: list[str] = []
+    review_outputs: list[str] = []
+    parsed_json_paths = [Path(item) for item in parse_outputs]
+    for json_path in parsed_json_paths:
+        try:
+            out_path = parser.validate_json_file(json_path, output_dir=validated_dir, review_dir=review_dir)
+            validate_outputs.append(str(out_path))
+            if Path(out_path).parent == review_dir:
+                review_outputs.append(str(out_path))
+        except Exception as exc:
+            parse_failures.append(f"{json_path.name}: {exc}")
+
+    manual_truth_outputs: list[str] = []
+    if manual_truth_dir is not None:
+        manual_truth_outputs = [
+            str(item) for item in parser.scaffold_manual_truth([Path(item) for item in review_outputs], output_dir=manual_truth_dir)
+        ]
+
+    return {
+        "pdf_inputs": [str(Path(item)) for item in pdf_paths],
+        "parse_outputs": parse_outputs,
+        "validate_outputs": validate_outputs,
+        "manual_truth_outputs": manual_truth_outputs,
+        "failures": parse_failures,
+        "parsed_summary": summarize_json_directory(parsed_json_paths) if parsed_json_paths else {},
+        "review_summary": summarize_json_directory([Path(item) for item in review_outputs]) if review_outputs else {},
+        "validated_summary": summarize_json_directory([Path(item) for item in validate_outputs]) if validate_outputs else {},
+    }
