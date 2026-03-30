@@ -199,6 +199,13 @@
         "business_rule_errors": {
           "type": "array",
           "items": {"type": "string"}
+        },
+        "review_flags": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "needs_manual_review": {
+          "type": "boolean"
         }
       }
     }
@@ -215,4 +222,3 @@
     }
   }
 }
-

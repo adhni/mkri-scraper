@@ -7,6 +7,8 @@ import unittest
 from src.models import SourceInfo
 from src.parser import MkriParser
 from src.normalizers import normalize_case_number, normalize_indonesian_date, normalize_party_name
+from src.validators import collect_review_flags
+from src.manual_truth import build_manual_truth_template
 
 
 ROOT = Path(__file__).parent
@@ -69,7 +71,45 @@ class ParserGoldenTests(unittest.TestCase):
         self.assertEqual(normalize_indonesian_date("12 maret 2024"), "2024-03-12")
         self.assertEqual(normalize_party_name("Pemohon: PT Contoh"), "PT Contoh")
 
+    def test_review_flags_detect_suspicious_output(self) -> None:
+        payload = {
+            "document": {"document_type": "putusan", "decision_date": None},
+            "parties": {
+                "applicants": [{"name": "Andi", "role": "applicant"}],
+                "legal_counsels": [],
+                "respondents": [],
+                "experts": [],
+                "witnesses": [],
+                "amicus_curiae": [],
+            },
+            "outcome": {"summary": "berdasarkan pertimbangan hukum di atas", "dictum": ["berdasarkan pertimbangan hukum di atas"]},
+            "legal_basis": {"constitutional_articles": [], "procedural_articles": [], "object_of_review": [], "evidence": []},
+            "adjudicators": {"judges": [], "clerks": []},
+            "sections": [{"heading": "Pembuka", "slug": "pembuka", "text": "..."}, {"heading": "Menimbang", "slug": "menimbang", "text": "..."}],
+        }
+        flags = collect_review_flags(payload)
+        self.assertIn("decision_date_missing", flags)
+        self.assertIn("judges_not_extracted", flags)
+        self.assertIn("outcome_summary_not_in_amar_style", flags)
+        self.assertIn("constitutional_articles_missing_for_putusan", flags)
+
+    def test_manual_truth_template(self) -> None:
+        payload = {
+            "source": {"file_name": "sample.pdf"},
+            "document": {"document_type": "putusan", "case_number": "12/PUU-XX/2024", "decision_date": "2024-03-12"},
+            "parties": {
+                "applicants": [{"name": "Andi", "role": "applicant"}],
+                "legal_counsels": [{"name": "Budi", "role": "legal_counsel"}],
+                "respondents": [{"name": "DPR", "role": "respondent"}],
+            },
+            "legal_basis": {"constitutional_articles": ["Pasal 28D ayat (1)"], "procedural_articles": [], "object_of_review": [], "evidence": []},
+            "outcome": {"summary": "Menolak permohonan", "dictum": ["Menolak permohonan"]},
+        }
+        template = build_manual_truth_template(payload)
+        self.assertEqual(template["source_file"], "sample.pdf")
+        self.assertEqual(template["verified_fields"]["case_number"], "12/PUU-XX/2024")
+        self.assertEqual(template["verified_fields"]["applicants"], ["Andi"])
+
 
 if __name__ == "__main__":
     unittest.main()
-

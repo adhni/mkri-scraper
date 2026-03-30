@@ -86,6 +86,8 @@ class Relations:
 class ValidationInfo:
     schema_errors: list[str] = field(default_factory=_empty_list)
     business_rule_errors: list[str] = field(default_factory=_empty_list)
+    review_flags: list[str] = field(default_factory=_empty_list)
+    needs_manual_review: bool = False
 
 
 @dataclass

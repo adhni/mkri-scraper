@@ -11,7 +11,9 @@ def main() -> None:
         payload = json.loads(path.read_text(encoding="utf-8"))
         status = payload.get("parser", {}).get("status")
         if status in {"partial", "failed"}:
-            failed.append(path.name)
+            flags = payload.get("validation", {}).get("review_flags", [])
+            suffix = f" | review_flags={','.join(flags)}" if flags else ""
+            failed.append(f"{path.name}{suffix}")
     for item in failed:
         print(item)
 

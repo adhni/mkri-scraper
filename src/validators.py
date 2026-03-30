@@ -106,3 +106,84 @@ def validate_business_rules(payload: dict[str, Any]) -> list[str]:
     if not payload.get("outcome", {}).get("dictum"):
         errors.append("outcome.dictum should not be empty")
     return errors
+
+
+def collect_review_flags(payload: dict[str, Any]) -> list[str]:
+    flags: list[str] = []
+    document = payload.get("document", {})
+    parties = payload.get("parties", {})
+    outcome = payload.get("outcome", {})
+    adjudicators = payload.get("adjudicators", {})
+    legal_basis = payload.get("legal_basis", {})
+    sections = payload.get("sections", [])
+
+    applicants = parties.get("applicants", [])
+    respondents = parties.get("respondents", [])
+    legal_counsels = parties.get("legal_counsels", [])
+    experts = parties.get("experts", [])
+    witnesses = parties.get("witnesses", [])
+    amici = parties.get("amicus_curiae", [])
+
+    if len(sections) < 3:
+        flags.append("too_few_sections_detected")
+    if not document.get("decision_date"):
+        flags.append("decision_date_missing")
+    if not adjudicators.get("judges"):
+        flags.append("judges_not_extracted")
+    if len(applicants) == 0:
+        flags.append("applicants_missing")
+    if len(applicants) > 15:
+        flags.append("applicant_count_high")
+    if len(respondents) > 4:
+        flags.append("respondent_count_high")
+    if len(legal_counsels) > 8:
+        flags.append("legal_counsel_count_high")
+    if len(experts) > 5:
+        flags.append("expert_count_high")
+    if len(witnesses) > 5:
+        flags.append("witness_count_high")
+    if len(amici) > 3:
+        flags.append("amicus_count_high")
+
+    suspicious_party_markers = [
+        "alamat",
+        "pekerjaan",
+        "menimbang",
+        "membaca",
+        "mendengar",
+        "rapat permusyawaratan hakim",
+    ]
+    for group_name in ["applicants", "legal_counsels", "respondents", "experts", "witnesses", "amicus_curiae"]:
+        for item in parties.get(group_name, []):
+            name = (item.get("name") or "").lower()
+            if not name:
+                flags.append(f"{group_name}_contains_empty_name")
+                continue
+            if len(name) > 120:
+                flags.append(f"{group_name}_contains_very_long_name")
+                break
+            if any(marker in name for marker in suspicious_party_markers):
+                flags.append(f"{group_name}_contains_suspicious_text")
+                break
+
+    outcome_summary = (outcome.get("summary") or "").strip()
+    normalized_outcome = outcome_summary.lower()
+    allowed_outcome_prefixes = (
+        "mengabulkan",
+        "menolak",
+        "menyatakan",
+        "menerima",
+        "memerintahkan",
+        "menetapkan",
+    )
+    if not normalized_outcome:
+        flags.append("outcome_summary_missing")
+    elif not normalized_outcome.startswith(allowed_outcome_prefixes):
+        flags.append("outcome_summary_not_in_amar_style")
+    if len(outcome.get("dictum", [])) == 1 and len(outcome_summary) > 160:
+        flags.append("outcome_summary_too_long")
+
+    if document.get("document_type") == "putusan" and not legal_basis.get("constitutional_articles"):
+        flags.append("constitutional_articles_missing_for_putusan")
+
+    return list(dict.fromkeys(flags))

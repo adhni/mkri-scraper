@@ -8,6 +8,10 @@ tests/fixtures/pdfs/*.pdf
 !tests/fixtures/pdfs/.gitkeep
 !tests/fixtures/pdfs/README.md
 
+tests/manual_truth/*.json
+!tests/manual_truth/.gitkeep
+!tests/manual_truth/README.md
+
 data/parsed_json/*.json
 !data/parsed_json/.gitkeep
 
@@ -20,3 +24,4 @@ data/review_queue/*.json
 data/raw_pdfs/*.pdf
 !data/raw_pdfs/.gitkeep
 
+data/pipeline_reports/*.json

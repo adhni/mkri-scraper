@@ -8,8 +8,11 @@
     ]
   },
   "parser": {
-    "status": "ok",
-    "warnings": [],
+    "status": "partial",
+    "warnings": [
+      "review:decision_date_missing",
+      "review:judges_not_extracted"
+    ],
     "failed_extractors": []
   },
   "parties": {

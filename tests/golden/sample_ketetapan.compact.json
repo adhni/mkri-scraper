@@ -6,8 +6,12 @@
     "related_case_numbers": []
   },
   "parser": {
-    "status": "ok",
-    "warnings": [],
+    "status": "partial",
+    "warnings": [
+      "review:decision_date_missing",
+      "review:judges_not_extracted",
+      "review:outcome_summary_not_in_amar_style"
+    ],
     "failed_extractors": []
   },
   "parties": {
