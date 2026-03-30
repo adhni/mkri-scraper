@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from html import escape
 from pathlib import Path
 from typing import Any, Callable
@@ -9,6 +10,31 @@ from urllib.parse import parse_qs, urlencode
 from wsgiref.simple_server import make_server
 
 from .webdata import build_case_catalog, build_dashboard_stats, filter_case_summaries, get_case_record, summarize_case
+
+
+_NOISY_NAME_TOKENS = (
+    "mahkamah konstitusi",
+    "undang",
+    "pasal",
+    "permohonan",
+    "tanggal",
+    "bukti",
+    "nomor",
+    "dalam hal ini",
+    "kepaniteraan",
+)
+_SECTION_KEYWORDS = (
+    "putusan",
+    "ketetapan",
+    "duduk perkara",
+    "pertimbangan",
+    "amar",
+    "konklusi",
+    "petitum",
+    "kewenangan",
+    "kedudukan hukum",
+    "pokok permohonan",
+)
 
 
 STYLES_CSS = """
@@ -387,9 +413,135 @@ def _query_href(current_query: dict[str, str], **updates: str | None) -> str:
     return "/cases" + (f"?{urlencode(merged)}" if merged else "")
 
 
+def _dedupe_strings(items: list[str]) -> list[str]:
+    seen: set[str] = set()
+    out: list[str] = []
+    for item in items:
+        normalized = " ".join(str(item or "").split()).strip()
+        if not normalized:
+            continue
+        key = normalized.casefold()
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(normalized)
+    return out
+
+
+def _compact_items(
+    items: list[str],
+    *,
+    max_items: int = 8,
+    max_length: int = 80,
+    max_words: int | None = None,
+    predicate: Callable[[str], bool] | None = None,
+) -> tuple[list[str], int]:
+    cleaned = _dedupe_strings(items)
+    kept: list[str] = []
+    hidden = 0
+    for item in cleaned:
+        if len(item) > max_length:
+            hidden += 1
+            continue
+        if max_words is not None and len(item.split()) > max_words:
+            hidden += 1
+            continue
+        if predicate and not predicate(item):
+            hidden += 1
+            continue
+        if len(kept) < max_items:
+            kept.append(item)
+        else:
+            hidden += 1
+    return kept, hidden
+
+
+def _looks_like_person_name(value: str) -> bool:
+    lowered = value.casefold()
+    if any(token in lowered for token in _NOISY_NAME_TOKENS):
+        return False
+    if any(char.isdigit() for char in value):
+        return False
+    words = value.replace(",", " ").split()
+    return 1 < len(words) <= 8
+
+
+def _looks_like_case_reference(value: str) -> bool:
+    parts = value.split("/")
+    if len(parts) not in {3, 4}:
+        return False
+    if not re.fullmatch(r"\d{4}", parts[-1]):
+        return False
+    return all(part and len(part) <= 20 and " " not in part for part in parts)
+
+
+def _display_date(document: dict[str, Any], review_flags: set[str]) -> str:
+    if "decision_date_missing" in review_flags:
+        return "perlu review"
+    return str(document.get("decision_date") or document.get("decision_date_raw") or "-")
+
+
+def _clean_people(items: list[dict[str, Any]], max_items: int = 8) -> tuple[list[str], int]:
+    names = [item.get("name", "") for item in items if isinstance(item, dict)]
+    return _compact_items(names, max_items=max_items, max_length=80, max_words=8)
+
+
+def _clean_names(items: list[str], max_items: int = 9) -> tuple[list[str], int]:
+    return _compact_items(items, max_items=max_items, max_length=60, max_words=8, predicate=_looks_like_person_name)
+
+
+def _clean_proceedings(items: list[str], max_items: int = 6) -> tuple[list[str], int]:
+    return _compact_items(items, max_items=max_items, max_length=64, max_words=8)
+
+
+def _clean_case_refs(items: list[str], max_items: int = 8) -> tuple[list[str], int]:
+    return _compact_items(items, max_items=max_items, max_length=32, predicate=_looks_like_case_reference)
+
+
+def _clean_evidence(items: list[str], max_items: int = 12) -> tuple[list[str], int]:
+    return _compact_items(
+        items,
+        max_items=max_items,
+        max_length=20,
+        predicate=lambda item: item.upper().startswith("BUKTI "),
+    )
+
+
+def _clean_article_refs(items: list[str], max_items: int = 8) -> tuple[list[str], int]:
+    return _compact_items(items, max_items=max_items, max_length=40, max_words=6)
+
+
+def _clean_section_headings(sections: list[dict[str, Any]], max_items: int = 8) -> tuple[list[str], int]:
+    headings = [str(section.get("heading") or "").strip() for section in sections]
+    kept: list[str] = []
+    hidden = 0
+    for heading in _dedupe_strings(headings):
+        lowered = heading.casefold()
+        is_keyword = any(keyword in lowered for keyword in _SECTION_KEYWORDS)
+        is_short = len(heading) <= 48 and len(heading.split()) <= 6
+        if not (is_keyword or is_short):
+            hidden += 1
+            continue
+        if len(kept) < max_items:
+            kept.append(heading)
+        else:
+            hidden += 1
+    return kept, hidden
+
+
+def _format_display_list(items: list[str], hidden_count: int = 0) -> str:
+    if not items:
+        return "-"
+    text = "; ".join(items)
+    if hidden_count:
+        text += f" (+{hidden_count} item lain disembunyikan)"
+    return text
+
+
 def _render_case_card(item: dict[str, Any]) -> str:
     status = item.get("status") or "unknown"
     review_badge = '<span class="badge review">needs review</span>' if item.get("needs_manual_review") else ""
+    date_display = "perlu review" if "decision_date_missing" in item.get("review_flags", []) else (item.get("decision_date") or "tanggal belum terbaca")
     flags = "".join(
         f'<a class="flag flag-link" href="{_safe(_query_href({}, review_flag=flag))}">{_safe(flag)}</a>'
         for flag in item.get("review_flags", [])
@@ -412,7 +564,7 @@ def _render_case_card(item: dict[str, Any]) -> str:
       <div class="case-meta">
         <span class="badge">pemohon {item.get('applicant_count', 0)}</span>
         <span class="badge">termohon {item.get('respondent_count', 0)}</span>
-        <span class="badge">{_safe(item.get('decision_date') or 'tanggal belum terbaca')}</span>
+        <span class="badge">{_safe(date_display)}</span>
       </div>
       <div class="flag-list">{flags}</div>
     </article>
@@ -425,21 +577,56 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> s
     legal_basis = payload.get("legal_basis", {})
     outcome = payload.get("outcome", {})
     adjudicators = payload.get("adjudicators", {})
-    proceedings = payload.get("proceedings", {})
-    relations = payload.get("case_relations", {})
+    proceedings = payload.get("proceedings", [])
+    relations = payload.get("relations", {})
     sections = payload.get("sections", [])
+    review_flag_set = set(record_summary.get("review_flags", []))
+    proceeding_items = proceedings if isinstance(proceedings, list) else list(proceedings.get("hearing_events", []))
+    relation_joined = relations.get("joined_cases", []) if isinstance(relations, dict) else []
+    relation_referenced = relations.get("referenced_cases", []) if isinstance(relations, dict) else []
+    display_date = _display_date(document, review_flag_set)
+    applicant_names, hidden_applicants = _clean_people(parties.get("applicants", []))
+    counsel_names, hidden_counsels = _clean_people(parties.get("legal_counsels", []))
+    respondent_names, hidden_respondents = _clean_people(parties.get("respondents", []))
+    expert_names, hidden_experts = _clean_people(parties.get("experts", []), max_items=6)
+    witness_names, hidden_witnesses = _clean_people(parties.get("witnesses", []), max_items=6)
+    amicus_names, hidden_amicus = _clean_people(parties.get("amicus_curiae", []), max_items=6)
+    judge_names, hidden_judges = _clean_names(adjudicators.get("judges", []))
+    clerk_names, hidden_clerks = _clean_names(adjudicators.get("clerks", []), max_items=4)
+    proceeding_items, hidden_proceedings = _clean_proceedings(proceeding_items)
+    relation_joined, hidden_joined = _clean_case_refs(relation_joined)
+    relation_referenced, hidden_referenced = _clean_case_refs(relation_referenced)
+    object_of_review, hidden_object = _compact_items(legal_basis.get("object_of_review", []), max_items=4, max_length=80, max_words=12)
+    constitutional_articles, hidden_constitutional = _clean_article_refs(legal_basis.get("constitutional_articles", []))
+    procedural_articles, hidden_procedural = _clean_article_refs(legal_basis.get("procedural_articles", []))
+    evidence_items, hidden_evidence = _clean_evidence(legal_basis.get("evidence", []))
+    section_heading_items, hidden_headings = _clean_section_headings(sections)
+    viewer_notes: list[str] = []
+    if "decision_date_missing" in review_flag_set:
+        viewer_notes.append("Tanggal putusan disembunyikan dari tampilan utama karena masih ditandai perlu review.")
+    if hidden_judges or hidden_clerks:
+        viewer_notes.append("Blok hakim dan panitera diringkas karena ekstraksi nama masih tercemar narasi.")
+    if hidden_joined or hidden_referenced:
+        viewer_notes.append("Relasi perkara dibatasi ke nomor perkara yang tampak valid agar tidak menampilkan referensi liar.")
+    if hidden_proceedings:
+        viewer_notes.append("Proses persidangan hanya menampilkan item singkat yang paling terbaca.")
+    if hidden_evidence:
+        viewer_notes.append("Daftar alat bukti dipotong ke bukti inti agar panel tetap terbaca.")
+    if hidden_headings:
+        viewer_notes.append("Heading dokumen diringkas agar chip hanya menampilkan section yang paling informatif.")
     source_links = "".join(
         f'<div class="source-item"><div class="source-name">{_safe(source)}</div><div class="source-path mono">{_safe(path)}</div></div>'
         for source, path in sorted(record_summary.get("available_sources", {}).items())
     ) or '<div class="empty">Tidak ada sumber tambahan.</div>'
     section_chips = "".join(
-        f'<span class="chip">{_safe(section.get("heading") or "section")}</span>'
-        for section in sections[:10]
+        f'<span class="chip">{_safe(heading)}</span>'
+        for heading in section_heading_items
     ) or '<span class="chip">section belum tersedia</span>'
     review_flags = "".join(
         f'<a class="flag flag-link" href="{_safe(_query_href({}, review_flag=flag))}">{_safe(flag)}</a>'
         for flag in record_summary.get("review_flags", [])
     ) or '<span class="flag">tidak ada</span>'
+    viewer_notes_block = _list_block(viewer_notes, label="Catatan") if viewer_notes else '<div class="empty">Tidak ada catatan tambahan.</div>'
     body = f"""
     <section class="hero">
       <div class="hero-card">
@@ -457,7 +644,7 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> s
         <div class="hero-stats">
           <div class="mini-stat"><div class="label">Pemohon</div><div class="value">{record_summary.get('applicant_count', 0)}</div></div>
           <div class="mini-stat"><div class="label">Termohon</div><div class="value">{record_summary.get('respondent_count', 0)}</div></div>
-          <div class="mini-stat"><div class="label">Tanggal</div><div class="value">{_safe(document.get('decision_date') or document.get('decision_date_raw') or '-')}</div></div>
+          <div class="mini-stat"><div class="label">Tanggal</div><div class="value">{_safe(display_date)}</div></div>
         </div>
       </div>
       <div class="panel">
@@ -471,31 +658,36 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> s
             ('Nomor Perkara', document.get('case_number')),
             ('Jenis Dokumen', document.get('document_type')),
             ('Jenis Perkara', document.get('case_type')),
-            ('Tanggal', document.get('decision_date') or document.get('decision_date_raw')),
+            ('Tanggal', display_date),
             ('Sumber', record_summary.get('source')),
         ]))}
-        {_panel('Pihak', _party_group('Pemohon', parties.get('applicants', [])) + _party_group('Kuasa Hukum', parties.get('legal_counsels', [])) + _party_group('Termohon / Pihak', parties.get('respondents', [])))}
+        {_panel('Pihak', _kv_rows([
+            ('Pemohon', _format_display_list(applicant_names, hidden_applicants)),
+            ('Kuasa Hukum', _format_display_list(counsel_names, hidden_counsels)),
+            ('Termohon / Pihak', _format_display_list(respondent_names, hidden_respondents)),
+        ]))}
         {_panel('Sumber JSON', f'<div class="source-list">{source_links}</div>')}
         {_panel('Hakim & Panitera', _kv_rows([
-            ('Hakim', ', '.join(adjudicators.get('judges', []))),
-            ('Panitera', ', '.join(adjudicators.get('clerks', []))),
+            ('Hakim', _format_display_list(judge_names, hidden_judges)),
+            ('Panitera', _format_display_list(clerk_names, hidden_clerks)),
         ]))}
+        {_panel('Catatan Viewer', viewer_notes_block)}
       </div>
       <div class="stack">
         {_panel('Amar', _list_block(outcome.get('dictum', [])))}
         {_panel('Dasar Hukum', _kv_rows([
-            ('Objek Uji', '; '.join(legal_basis.get('object_of_review', []))),
-            ('Batu Uji UUD', '; '.join(legal_basis.get('constitutional_articles', []))),
-            ('Pasal Prosedural', '; '.join(legal_basis.get('procedural_articles', []))),
-            ('Alat Bukti', '; '.join(legal_basis.get('evidence', []))),
+            ('Objek Uji', _format_display_list(object_of_review, hidden_object)),
+            ('Batu Uji UUD', _format_display_list(constitutional_articles, hidden_constitutional)),
+            ('Pasal Prosedural', _format_display_list(procedural_articles, hidden_procedural)),
+            ('Alat Bukti', _format_display_list(evidence_items, hidden_evidence)),
         ]))}
         {_panel('Proses & Relasi', _kv_rows([
-            ('Proses Persidangan', '; '.join(proceedings.get('hearing_events', []))),
-            ('Ahli', ', '.join(proceedings.get('experts', []))),
-            ('Saksi', ', '.join(proceedings.get('witnesses', []))),
-            ('Amicus Curiae', ', '.join(proceedings.get('amicus_curiae', []))),
-            ('Perkara Terkait', '; '.join(relations.get('related_cases', []))),
-            ('Sidang Gabungan', '; '.join(relations.get('joint_hearing_cases', []))),
+            ('Proses Persidangan', _format_display_list(proceeding_items, hidden_proceedings)),
+            ('Ahli', _format_display_list(expert_names, hidden_experts)),
+            ('Saksi', _format_display_list(witness_names, hidden_witnesses)),
+            ('Amicus Curiae', _format_display_list(amicus_names, hidden_amicus)),
+            ('Perkara Gabungan', _format_display_list(relation_joined, hidden_joined)),
+            ('Perkara Dirujuk', _format_display_list(relation_referenced, hidden_referenced)),
         ]))}
         {_panel('Struktur Ringkas', f'<div class="section-chips">{section_chips}</div>')}
         {_panel('Struktur Dokumen', _sections_block(sections))}
@@ -523,22 +715,34 @@ def _party_group(title: str, items: list[dict[str, Any]]) -> str:
     return _kv_rows([(title, values)])
 
 
-def _list_block(items: list[str]) -> str:
+def _list_block(items: list[str], label: str = "Item") -> str:
     if not items:
         return '<div class="empty">Tidak ada item.</div>'
-    rendered = "".join(f'<div class="kv-row"><div class="kv-key">Item</div><div>{_safe(item)}</div></div>' for item in items)
+    rendered = "".join(
+        f'<div class="kv-row"><div class="kv-key">{_safe(label)}</div><div>{_safe(item)}</div></div>'
+        for item in items
+    )
     return f'<div class="kv">{rendered}</div>'
 
 
 def _sections_block(sections: list[dict[str, Any]]) -> str:
     if not sections:
         return '<div class="empty">Section belum tersedia.</div>'
+    allowed_headings, _ = _clean_section_headings(sections, max_items=18)
+    allowed_lookup = {heading.casefold() for heading in allowed_headings}
     blocks = []
-    for section in sections[:18]:
+    for section in sections:
+        heading = str(section.get("heading") or "").strip()
+        if allowed_lookup and heading.casefold() not in allowed_lookup:
+            continue
         excerpt = (section.get("text") or "")[:280]
         blocks.append(
-            f'<div class="kv-row"><div class="kv-key">{_safe(section.get("heading"))}</div><div>{_safe(excerpt)}{"..." if len(section.get("text") or "") > 280 else ""}</div></div>'
+            f'<div class="kv-row"><div class="kv-key">{_safe(heading)}</div><div>{_safe(excerpt)}{"..." if len(section.get("text") or "") > 280 else ""}</div></div>'
         )
+        if len(blocks) >= 18:
+            break
+    if not blocks:
+        return '<div class="empty">Section yang cukup informatif belum tersedia.</div>'
     return f'<div class="kv">{"".join(blocks)}</div>'
 
 
