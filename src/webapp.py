@@ -6,7 +6,7 @@ import re
 from html import escape
 from pathlib import Path
 from typing import Any, Callable
-from urllib.parse import parse_qs, urlencode
+from urllib.parse import parse_qs, quote, urlencode
 from wsgiref.simple_server import make_server
 
 from .webdata import build_case_catalog, build_dashboard_stats, filter_case_summaries, get_case_record, summarize_case
@@ -35,6 +35,35 @@ _SECTION_KEYWORDS = (
     "kedudukan hukum",
     "pokok permohonan",
 )
+_STATUS_LABELS = {
+    "ok": "Siap",
+    "partial": "Parsial",
+    "failed": "Gagal",
+    "unknown": "Tidak diketahui",
+}
+_SOURCE_LABELS = {
+    "review_queue": "Perlu review",
+    "validated_json": "Tervalidasi",
+    "parsed_json": "Hasil parse",
+}
+_DOCUMENT_TYPE_LABELS = {
+    "putusan": "Putusan",
+    "ketetapan": "Ketetapan",
+    "unknown": "Tidak diketahui",
+}
+_REVIEW_FLAG_LABELS = {
+    "decision_date_missing": "Tanggal putusan belum terbaca",
+    "outcome_summary_not_in_amar_style": "Ringkasan amar belum rapi",
+    "respondent_count_high": "Jumlah pihak termohon terlalu tinggi",
+    "judges_missing": "Daftar hakim belum terbaca",
+    "constitutional_articles_missing": "Batu uji UUD belum terbaca",
+}
+_SORT_LABELS = {
+    "review_priority": "Paling perlu review",
+    "case_number": "Nomor perkara",
+    "document_type": "Jenis dokumen",
+    "status": "Status parse",
+}
 
 
 STYLES_CSS = """
@@ -119,10 +148,11 @@ a { color: inherit; text-decoration: none; }
 }
 .toolbar {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr 1.3fr auto auto;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 12px;
   padding: 18px;
   margin-bottom: 18px;
+  align-items: end;
 }
 .toolbar input, .toolbar select, .toolbar button {
   width: 100%;
@@ -139,10 +169,24 @@ a { color: inherit; text-decoration: none; }
   border-color: var(--accent);
   cursor: pointer;
 }
+.field {
+  display: grid;
+  gap: 6px;
+}
+.field.search {
+  grid-column: span 2;
+}
+.field-label {
+  color: var(--muted);
+  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
 .toolbar .toggle {
   display: flex;
   align-items: center;
   gap: 10px;
+  min-height: 46px;
   padding: 0 14px;
   border: 1px solid var(--line);
   border-radius: 14px;
@@ -184,6 +228,7 @@ a { color: inherit; text-decoration: none; }
 .badge.partial { background: var(--warn-soft); color: var(--warn); }
 .badge.ok { background: var(--accent-soft); color: var(--accent); }
 .badge.review { background: #efe4ff; color: #6b46a8; }
+.badge.source { background: #ebe6da; color: #5a6257; }
 .summary {
   margin-top: 14px;
   color: var(--muted);
@@ -247,6 +292,9 @@ a { color: inherit; text-decoration: none; }
   background: #efe9db;
   color: #4c5248;
   font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
+}
+.subtle {
+  color: var(--muted);
 }
 .source-list {
   display: grid;
@@ -338,6 +386,22 @@ def _safe(value: Any) -> str:
     return escape("" if value is None else str(value))
 
 
+def _label_status(value: str | None) -> str:
+    return _STATUS_LABELS.get(value or "unknown", value or "Tidak diketahui")
+
+
+def _label_source(value: str | None) -> str:
+    return _SOURCE_LABELS.get(value or "unknown", value or "Tidak diketahui")
+
+
+def _label_document_type(value: str | None) -> str:
+    return _DOCUMENT_TYPE_LABELS.get(value or "unknown", value or "Tidak diketahui")
+
+
+def _label_review_flag(value: str) -> str:
+    return _REVIEW_FLAG_LABELS.get(value, value.replace("_", " "))
+
+
 def _render_layout(title: str, body: str) -> str:
     return f"""<!doctype html>
 <html lang="id">
@@ -358,7 +422,7 @@ def _render_layout(title: str, body: str) -> str:
 def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], query: dict[str, str]) -> str:
     cards = "".join(_render_case_card(item) for item in summaries) or '<div class="case-card empty">Belum ada perkara yang cocok dengan filter.</div>'
     top_flags = "".join(
-        f'<a class="flag flag-link" href="{_safe(_query_href(query, review_flag=name))}">{_safe(name)} ({count})</a>'
+        f'<a class="flag flag-link" href="{_safe(_query_href(query, review_flag=name))}">{_safe(_label_review_flag(name))} ({count})</a>'
         for name, count in list(stats["review_flag_counts"].items())[:6]
     ) or '<span class="flag">tidak ada review flag</span>'
     review_checked = ' checked' if query.get("review_only") == "1" else ""
@@ -366,8 +430,8 @@ def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], qu
     <section class="hero">
       <div class="hero-card">
         <span class="hero-kicker">MKRI Visual Prototype</span>
-        <h1>Case Viewer</h1>
-        <p>Prototype visualisasi untuk menelusuri hasil parse putusan dan ketetapan MKRI, dengan fokus pada status pipeline dan review semantik.</p>
+        <h1>Daftar Perkara MKRI</h1>
+        <p>Telaah hasil parse putusan dan ketetapan Mahkamah Konstitusi, lalu fokuskan review ke perkara yang masih paling bermasalah.</p>
       </div>
       <div class="stats">
         <div class="stat"><div class="stat-label">Total Perkara</div><div class="stat-value">{stats['total_cases']}</div></div>
@@ -377,27 +441,38 @@ def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], qu
       </div>
     </section>
     <form method="get" action="/cases" class="panel toolbar">
-      <input type="text" name="q" value="{_safe(query.get('q', ''))}" placeholder="Cari nomor perkara, title, outcome">
-      {_select('status', query.get('status', ''), ['', 'ok', 'partial', 'failed'])}
-      {_select('document_type', query.get('document_type', ''), ['', 'putusan', 'ketetapan'])}
-      {_select('source', query.get('source', ''), ['', 'review_queue', 'validated_json', 'parsed_json'])}
-      {_select('review_flag', query.get('review_flag', ''), [''] + list(stats['review_flag_counts'].keys())[:12])}
-      <label class="toggle"><input type="checkbox" name="review_only" value="1"{review_checked}>hanya review</label>
-      <button type="submit">Apply</button>
+      <label class="field search"><span class="field-label">Cari</span><input type="text" name="q" value="{_safe(query.get('q', ''))}" placeholder="Cari nomor perkara, judul, atau amar singkat"></label>
+      <label class="field"><span class="field-label">Status Parse</span>{_select('status', query.get('status', ''), ['', 'ok', 'partial', 'failed'], labels=_STATUS_LABELS, empty_label='Semua status')}</label>
+      <label class="field"><span class="field-label">Jenis Dokumen</span>{_select('document_type', query.get('document_type', ''), ['', 'putusan', 'ketetapan'], labels=_DOCUMENT_TYPE_LABELS, empty_label='Semua jenis')}</label>
+      <label class="field"><span class="field-label">Sumber Data</span>{_select('source', query.get('source', ''), ['', 'review_queue', 'validated_json', 'parsed_json'], labels=_SOURCE_LABELS, empty_label='Semua sumber')}</label>
+      <label class="field"><span class="field-label">Sinyal Review</span>{_select('review_flag', query.get('review_flag', ''), [''] + list(stats['review_flag_counts'].keys())[:12], labels=_REVIEW_FLAG_LABELS, empty_label='Semua sinyal')}</label>
+      <label class="field"><span class="field-label">Urutkan</span>{_select('sort', query.get('sort', 'review_priority'), list(_SORT_LABELS.keys()), labels=_SORT_LABELS)}</label>
+      <label class="toggle"><input type="checkbox" name="review_only" value="1"{review_checked}>Hanya yang perlu review</label>
+      <button type="submit">Terapkan</button>
     </form>
     <section class="panel">
-      <h2>Review Signals</h2>
+      <h2>Sinyal Review</h2>
       <div class="flag-list">{top_flags}</div>
     </section>
     <section class="grid">{cards}</section>
     """
-    return _render_layout("MKRI Case Viewer", body)
+    return _render_layout("Daftar Perkara MKRI", body)
 
 
-def _select(name: str, current: str, options: list[str]) -> str:
+def _select(
+    name: str,
+    current: str,
+    options: list[str],
+    *,
+    labels: dict[str, str] | None = None,
+    empty_label: str | None = None,
+) -> str:
     opts = []
     for option in options:
-        label = option or f"all {name.replace('_', ' ')}"
+        if option == "":
+            label = empty_label or f"Semua {name.replace('_', ' ')}"
+        else:
+            label = labels.get(option, option) if labels else option
         selected = " selected" if option == current else ""
         opts.append(f'<option value="{_safe(option)}"{selected}>{_safe(label)}</option>')
     return f'<select name="{_safe(name)}">{"".join(opts)}</select>'
@@ -481,6 +556,65 @@ def _display_date(document: dict[str, Any], review_flags: set[str]) -> str:
     return str(document.get("decision_date") or document.get("decision_date_raw") or "-")
 
 
+def _infer_case_type(document: dict[str, Any]) -> str | None:
+    explicit = str(document.get("case_type") or "").strip()
+    if explicit:
+        return explicit
+    case_number = str(document.get("case_number") or "").strip()
+    match = re.search(r"/([A-Z]+)(?:-[A-Z0-9]+)?/", case_number)
+    return match.group(1) if match else None
+
+
+def _mkri_case_url(document: dict[str, Any]) -> str | None:
+    case_number = str(document.get("case_number") or "").strip()
+    if not case_number:
+        return None
+    params = {"search": case_number}
+    case_type = _infer_case_type(document)
+    if case_type:
+        params["jenis"] = case_type
+    return f"https://www.mkri.id/perkara/persidangan/putusan?{urlencode(params)}"
+
+
+def _mkri_tracking_url(document: dict[str, Any]) -> str | None:
+    case_number = str(document.get("case_number") or "").strip()
+    if not case_number:
+        return None
+    return f"https://tracking.mkri.id/index.php?id={quote(case_number, safe='')}&page=web.TrackPerkara"
+
+
+def _sort_case_summaries(items: list[dict[str, Any]], sort_key: str) -> list[dict[str, Any]]:
+    if sort_key == "case_number":
+        return sorted(items, key=lambda item: ((item.get("case_number") or item.get("case_id") or "").casefold(), item.get("case_id") or ""))
+    if sort_key == "document_type":
+        return sorted(
+            items,
+            key=lambda item: (
+                _label_document_type(item.get("document_type")).casefold(),
+                (item.get("case_number") or item.get("case_id") or "").casefold(),
+            ),
+        )
+    if sort_key == "status":
+        status_rank = {"failed": 0, "partial": 1, "ok": 2, "unknown": 3}
+        return sorted(
+            items,
+            key=lambda item: (
+                status_rank.get(item.get("status") or "unknown", 9),
+                (item.get("case_number") or item.get("case_id") or "").casefold(),
+            ),
+        )
+    status_rank = {"failed": 0, "partial": 1, "ok": 2, "unknown": 3}
+    return sorted(
+        items,
+        key=lambda item: (
+            0 if item.get("needs_manual_review") else 1,
+            -len(item.get("review_flags", [])),
+            status_rank.get(item.get("status") or "unknown", 9),
+            (item.get("case_number") or item.get("case_id") or "").casefold(),
+        ),
+    )
+
+
 def _clean_people(items: list[dict[str, Any]], max_items: int = 8) -> tuple[list[str], int]:
     names = [item.get("name", "") for item in items if isinstance(item, dict)]
     return _compact_items(names, max_items=max_items, max_length=80, max_words=8)
@@ -540,21 +674,22 @@ def _format_display_list(items: list[str], hidden_count: int = 0) -> str:
 
 def _render_case_card(item: dict[str, Any]) -> str:
     status = item.get("status") or "unknown"
-    review_badge = '<span class="badge review">needs review</span>' if item.get("needs_manual_review") else ""
+    review_badge = '<span class="badge review">Perlu review</span>' if item.get("needs_manual_review") else ""
     date_display = "perlu review" if "decision_date_missing" in item.get("review_flags", []) else (item.get("decision_date") or "tanggal belum terbaca")
     flags = "".join(
-        f'<a class="flag flag-link" href="{_safe(_query_href({}, review_flag=flag))}">{_safe(flag)}</a>'
-        for flag in item.get("review_flags", [])
+        f'<a class="flag flag-link" href="{_safe(_query_href({}, review_flag=flag))}">{_safe(_label_review_flag(flag))}</a>'
+        for flag in item.get("review_flags", [])[:3]
     )
+    hidden_flags = max(len(item.get("review_flags", [])) - 3, 0)
+    extra_flags = f'<span class="flag">+{hidden_flags} sinyal lain</span>' if hidden_flags else ""
     return f"""
     <article class="case-card">
       <div class="case-top">
         <div>
           <a href="/cases/{_safe(item['case_id'])}"><h3 class="case-number">{_safe(item.get('case_number') or item['case_id'])}</h3></a>
           <div class="case-meta">
-            <span class="badge {status}">{_safe(status)}</span>
-            <span class="badge">{_safe(item.get('document_type') or 'unknown')}</span>
-            <span class="badge">{_safe(item.get('source') or 'unknown')}</span>
+            <span class="badge {status}">{_safe(_label_status(status))}</span>
+            <span class="badge">{_safe(_label_document_type(item.get('document_type')))}</span>
             {review_badge}
           </div>
         </div>
@@ -565,8 +700,9 @@ def _render_case_card(item: dict[str, Any]) -> str:
         <span class="badge">pemohon {item.get('applicant_count', 0)}</span>
         <span class="badge">termohon {item.get('respondent_count', 0)}</span>
         <span class="badge">{_safe(date_display)}</span>
+        <span class="badge source">{_safe(_label_source(item.get('source')))}</span>
       </div>
-      <div class="flag-list">{flags}</div>
+      <div class="flag-list">{flags}{extra_flags}</div>
     </article>
     """
 
@@ -614,16 +750,24 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> s
         viewer_notes.append("Daftar alat bukti dipotong ke bukti inti agar panel tetap terbaca.")
     if hidden_headings:
         viewer_notes.append("Heading dokumen diringkas agar chip hanya menampilkan section yang paling informatif.")
-    source_links = "".join(
-        f'<div class="source-item"><div class="source-name">{_safe(source)}</div><div class="source-path mono">{_safe(path)}</div></div>'
-        for source, path in sorted(record_summary.get("available_sources", {}).items())
-    ) or '<div class="empty">Tidak ada sumber tambahan.</div>'
     section_chips = "".join(
         f'<span class="chip">{_safe(heading)}</span>'
         for heading in section_heading_items
     ) or '<span class="chip">section belum tersedia</span>'
+    mkri_url = _mkri_case_url(document)
+    mkri_tracking_url = _mkri_tracking_url(document)
+    mkri_link = (
+        f'<a href="{_safe(mkri_url)}" class="inline-link mono" target="_blank" rel="noopener noreferrer">Lihat di mkri.id</a>'
+        if mkri_url
+        else ""
+    )
+    mkri_tracking_link = (
+        f'<a href="{_safe(mkri_tracking_url)}" class="inline-link mono" target="_blank" rel="noopener noreferrer">Tracking MKRI</a>'
+        if mkri_tracking_url
+        else ""
+    )
     review_flags = "".join(
-        f'<a class="flag flag-link" href="{_safe(_query_href({}, review_flag=flag))}">{_safe(flag)}</a>'
+        f'<a class="flag flag-link" href="{_safe(_query_href({}, review_flag=flag))}">{_safe(_label_review_flag(flag))}</a>'
         for flag in record_summary.get("review_flags", [])
     ) or '<span class="flag">tidak ada</span>'
     viewer_notes_block = _list_block(viewer_notes, label="Catatan") if viewer_notes else '<div class="empty">Tidak ada catatan tambahan.</div>'
@@ -632,14 +776,18 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> s
       <div class="hero-card">
         <div class="topbar">
           <a href="/cases" class="hero-kicker">Kembali ke daftar</a>
-          <a href="/api/cases/{_safe(record_summary['case_id'])}" class="inline-link mono">/api/cases/{_safe(record_summary['case_id'])}</a>
+          <div class="stack">
+            {mkri_link}
+            {mkri_tracking_link}
+            <a href="/api/cases/{_safe(record_summary['case_id'])}" class="inline-link mono">/api/cases/{_safe(record_summary['case_id'])}</a>
+          </div>
         </div>
         <h1>{_safe(document.get('case_number') or record_summary['case_id'])}</h1>
         <p>{_safe(document.get('title') or outcome.get('summary') or 'Outcome belum tersedia')}</p>
         <div class="case-meta">
-          <span class="badge {record_summary.get('status')}">{_safe(record_summary.get('status'))}</span>
-          <span class="badge">{_safe(document.get('document_type') or 'unknown')}</span>
-          <span class="badge">{_safe(record_summary.get('source'))}</span>
+          <span class="badge {record_summary.get('status')}">{_safe(_label_status(record_summary.get('status')))}</span>
+          <span class="badge">{_safe(_label_document_type(document.get('document_type')))}</span>
+          <span class="badge source">{_safe(_label_source(record_summary.get('source')))}</span>
         </div>
         <div class="hero-stats">
           <div class="mini-stat"><div class="label">Pemohon</div><div class="value">{record_summary.get('applicant_count', 0)}</div></div>
@@ -659,14 +807,14 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> s
             ('Jenis Dokumen', document.get('document_type')),
             ('Jenis Perkara', document.get('case_type')),
             ('Tanggal', display_date),
-            ('Sumber', record_summary.get('source')),
+            ('mkri.id', mkri_url or '-'),
+            ('tracking.mkri.id', mkri_tracking_url or '-'),
         ]))}
         {_panel('Pihak', _kv_rows([
             ('Pemohon', _format_display_list(applicant_names, hidden_applicants)),
             ('Kuasa Hukum', _format_display_list(counsel_names, hidden_counsels)),
             ('Termohon / Pihak', _format_display_list(respondent_names, hidden_respondents)),
         ]))}
-        {_panel('Sumber JSON', f'<div class="source-list">{source_links}</div>')}
         {_panel('Hakim & Panitera', _kv_rows([
             ('Hakim', _format_display_list(judge_names, hidden_judges)),
             ('Panitera', _format_display_list(clerk_names, hidden_clerks)),
@@ -775,6 +923,7 @@ def create_app(
                 review_flag=query.get("review_flag", ""),
                 review_only=query.get("review_only") == "1",
             )
+            filtered = _sort_case_summaries(filtered, query.get("sort", "review_priority"))
             return _json_response(start_response, {"items": filtered, "stats": build_dashboard_stats(filtered)})
 
         if path.startswith("/api/cases/"):
@@ -801,6 +950,7 @@ def create_app(
                 review_flag=query.get("review_flag", ""),
                 review_only=query.get("review_only") == "1",
             )
+            filtered = _sort_case_summaries(filtered, query.get("sort", "review_priority"))
             return _text_response(start_response, _render_dashboard(filtered, build_dashboard_stats(filtered), query))
 
         return _text_response(start_response, _render_layout("Not Found", '<div class="panel empty">Route tidak ditemukan.</div>'), status="404 Not Found")

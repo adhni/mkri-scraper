@@ -9,6 +9,37 @@ from src.webapp import create_app
 
 
 class WebAppTests(unittest.TestCase):
+    def test_dashboard_uses_human_labels(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            root = Path(tmp_dir)
+            review = root / "review"
+            review.mkdir()
+            payload = {
+                "source": {"file_name": "case_dashboard.pdf"},
+                "document": {"case_number": "303/PUU/2025", "document_type": "putusan"},
+                "parser": {"status": "partial", "failed_extractors": []},
+                "validation": {"review_flags": ["decision_date_missing"], "needs_manual_review": True},
+                "parties": {"applicants": [], "respondents": []},
+                "outcome": {"summary": "Menolak permohonan"},
+            }
+            (review / "case_dashboard.json").write_text(json.dumps(payload), encoding="utf-8")
+
+            app = create_app(parsed_dir=root / "parsed", validated_dir=root / "validated", review_dir=review)
+            status_headers: dict[str, object] = {}
+
+            def start_response(status: str, headers: list[tuple[str, str]]) -> None:
+                status_headers["status"] = status
+                status_headers["headers"] = headers
+
+            body = b"".join(app({"PATH_INFO": "/cases", "QUERY_STRING": ""}, start_response)).decode("utf-8")
+
+            self.assertEqual(status_headers["status"], "200 OK")
+            self.assertIn("Daftar Perkara MKRI", body)
+            self.assertIn("Status Parse", body)
+            self.assertIn("Terapkan", body)
+            self.assertIn("Tanggal putusan belum terbaca", body)
+            self.assertIn("Perlu review", body)
+
     def test_api_cases_supports_review_flag_filter(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             root = Path(tmp_dir)
@@ -72,7 +103,8 @@ class WebAppTests(unittest.TestCase):
 
             self.assertEqual(status_headers["status"], "200 OK")
             self.assertIn("/api/cases/case_detail", body)
-            self.assertIn("Sumber JSON", body)
+            self.assertIn("https://www.mkri.id/perkara/persidangan/putusan?search=202%2FPUU%2F2025&amp;jenis=PUU", body)
+            self.assertIn("https://tracking.mkri.id/index.php?id=202%2FPUU%2F2025&amp;page=web.TrackPerkara", body)
             self.assertIn("Duduk Perkara", body)
             self.assertIn("sidang pleno", body)
             self.assertIn("100/PUU/2025", body)
