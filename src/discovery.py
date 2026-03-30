@@ -11,6 +11,7 @@ from urllib.error import HTTPError, URLError
 from .pipeline import ingest_pdf_files
 from .scrapers.mkri_tracking import (
     TrackingCaseSnapshot,
+    TrackingAccessBlockedError,
     build_case_number,
     build_tracking_url,
     download_binary,
@@ -128,6 +129,9 @@ def sync_new_cases(
             if consecutive_misses >= max_misses:
                 break
             continue
+        except TrackingAccessBlockedError as exc:
+            failures.append(f"{case_number}: {exc}")
+            break
         except URLError as exc:
             failures.append(f"{case_number}: {exc.reason}")
             break

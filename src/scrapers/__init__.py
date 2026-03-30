@@ -1,5 +1,6 @@
 from .mkri_tracking import (
     TrackingCaseSnapshot,
+    TrackingAccessBlockedError,
     TrackingDocumentLink,
     build_case_number,
     build_tracking_url,
@@ -11,6 +12,7 @@ from .mkri_tracking import (
 
 __all__ = [
     "TrackingCaseSnapshot",
+    "TrackingAccessBlockedError",
     "TrackingDocumentLink",
     "build_case_number",
     "build_tracking_url",

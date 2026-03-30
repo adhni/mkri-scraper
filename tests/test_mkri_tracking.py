@@ -2,7 +2,12 @@ from __future__ import annotations
 
 import unittest
 
-from src.scrapers.mkri_tracking import build_case_number, build_tracking_url, extract_tracking_case
+from src.scrapers.mkri_tracking import (
+    _looks_like_cloudflare_challenge,
+    build_case_number,
+    build_tracking_url,
+    extract_tracking_case,
+)
 
 
 SAMPLE_TRACKING_HTML = """
@@ -27,6 +32,10 @@ SAMPLE_TRACKING_HTML = """
 
 
 class MkriTrackingScraperTests(unittest.TestCase):
+    def test_detects_cloudflare_challenge_page(self) -> None:
+        html = "<html><title>Just a moment...</title><script>window._cf_chl_opt={};</script></html>"
+        self.assertTrue(_looks_like_cloudflare_challenge(html))
+
     def test_build_case_number_and_tracking_url(self) -> None:
         case_number = build_case_number(176, "PUU", 2025)
         self.assertEqual(case_number, "176/PUU-XXIII/2025")

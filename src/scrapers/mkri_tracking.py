@@ -7,11 +7,27 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote, urljoin, urlparse
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 
 TRACKING_BASE_URL = "https://tracking.mkri.id/index.php"
-DEFAULT_USER_AGENT = "mkri-scraper/0.1 (+https://tracking.mkri.id)"
+DEFAULT_USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+)
+DEFAULT_HEADERS = {
+    "User-Agent": DEFAULT_USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9,id;q=0.8",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "Upgrade-Insecure-Requests": "1",
+}
+
+
+class TrackingAccessBlockedError(RuntimeError):
+    pass
 
 
 @dataclass
@@ -223,19 +239,40 @@ def build_tracking_url(case_number: str) -> str:
 
 
 def fetch_url_text(url: str, timeout: float = 20.0, user_agent: str = DEFAULT_USER_AGENT) -> str:
-    request = Request(url, headers={"User-Agent": user_agent})
-    with urlopen(request, timeout=timeout) as response:
-        charset = response.headers.get_content_charset() or "utf-8"
-        return response.read().decode(charset, errors="replace")
+    headers = dict(DEFAULT_HEADERS)
+    headers["User-Agent"] = user_agent
+    headers["Referer"] = "https://www.mkri.id/"
+    request = Request(url, headers=headers)
+    try:
+        with urlopen(request, timeout=timeout) as response:
+            charset = response.headers.get_content_charset() or "utf-8"
+            text = response.read().decode(charset, errors="replace")
+    except HTTPError as exc:
+        charset = exc.headers.get_content_charset() or "utf-8"
+        text = exc.read().decode(charset, errors="replace")
+        if _looks_like_cloudflare_challenge(text):
+            raise TrackingAccessBlockedError("MKRI is serving a Cloudflare managed challenge; plain server-side requests are blocked") from exc
+        raise
+    if _looks_like_cloudflare_challenge(text):
+        raise TrackingAccessBlockedError("MKRI is serving a Cloudflare managed challenge; plain server-side requests are blocked")
+    return text
 
 
 def download_binary(url: str, destination: str | Path, timeout: float = 30.0, user_agent: str = DEFAULT_USER_AGENT) -> Path:
     destination = Path(destination)
     destination.parent.mkdir(parents=True, exist_ok=True)
-    request = Request(url, headers={"User-Agent": user_agent})
+    headers = dict(DEFAULT_HEADERS)
+    headers["User-Agent"] = user_agent
+    headers["Referer"] = "https://tracking.mkri.id/"
+    request = Request(url, headers=headers)
     with urlopen(request, timeout=timeout) as response:
         destination.write_bytes(response.read())
     return destination
+
+
+def _looks_like_cloudflare_challenge(html: str) -> bool:
+    lowered = html.casefold()
+    return "cf-chl-opt" in lowered or "just a moment" in lowered or "enable javascript and cookies to continue" in lowered
 
 
 def extract_tracking_case(html: str, tracking_url: str) -> TrackingCaseSnapshot | None:
