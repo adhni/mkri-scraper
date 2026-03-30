@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: mkri-scraper-viewer
+    env: python
+    plan: starter
+    buildCommand: pip install -e .
+    startCommand: python -m src.webapp

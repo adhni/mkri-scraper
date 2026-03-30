@@ -80,6 +80,7 @@ python -m src.cli report --output data/pipeline_reports/latest.json
 6. JSON valid disalin ke `data/validated_json`; JSON yang perlu review masuk `data/review_queue`.
 7. Template anotasi manual bisa dihasilkan ke `tests/manual_truth/` untuk membuat ground truth bertahap.
 8. Report operasional bisa dihasilkan dari `parsed_json`, `validated_json`, dan `review_queue`.
+9. Viewer web membaca hasil JSON yang sama untuk prototype visualisasi dan demo internal.
 
 ## Batasan Parser V1
 
@@ -115,6 +116,42 @@ Output command tersebut berisi:
 - daftar kegagalan bila ada
 - summary jumlah status `ok/partial/failed`
 - summary `review_flags` yang paling sering muncul
+
+## Visual Prototype
+
+Viewer web tersedia di:
+
+```text
+python -m src.webapp
+```
+
+Jika environment Anda tidak punya alias `python`, gunakan `python3 -m src.webapp`.
+
+Route utama:
+
+- `/` atau `/cases` untuk daftar perkara
+- `/cases/<case_id>` untuk detail perkara
+- `/api/cases` untuk daftar perkara dalam JSON
+- `/api/cases/<case_id>` untuk detail perkara dalam JSON
+
+Viewer ini membaca sumber yang diprioritaskan sebagai berikut:
+
+1. `data/review_queue`
+2. `data/validated_json`
+3. `data/parsed_json`
+
+Jadi bila satu perkara ada di `review_queue`, viewer akan menampilkan versi itu sebagai sumber utama.
+Filter dashboard mendukung `status`, `document_type`, `source`, `review_flag`, dan opsi `hanya review`.
+
+## Render
+
+Repo sudah memiliki [`render.yaml`](/Users/adhni/Desktop/MK/render.yaml) untuk jalur deploy awal di Render.
+
+Start command:
+
+```text
+python -m src.webapp
+```
 
 ## Tempat Meletakkan PDF Contoh
 
