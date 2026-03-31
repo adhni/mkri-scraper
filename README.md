@@ -233,13 +233,28 @@ Filter dashboard mendukung `status`, `document_type`, `source`, `review_flag`, d
 
 ## Render
 
-Repo sudah memiliki [`render.yaml`](/Users/adhni/Desktop/MK/render.yaml) untuk jalur deploy awal di Render.
+Repo sudah memiliki [`render.yaml`](/Users/adhni/Desktop/MK/render.yaml) untuk jalur deploy awal di Render. File ini tidak lagi mengunci plan berbayar.
 
 Start command:
 
 ```text
 python -m src.webapp
 ```
+
+Jika `Blueprint` di Render tetap mengarah ke plan berbayar, deploy manual saja:
+
+1. `New +` -> `Web Service`
+2. pilih repo GitHub `mkri-scraper`
+3. isi:
+   - Environment: `Python`
+   - Build Command: `pip install -e .`
+   - Start Command: `python -m src.webapp`
+   - Plan: `Free`
+
+Catatan:
+
+- deploy free cocok untuk viewer demo
+- filesystem Render free bersifat ephemeral, jadi jangan mengandalkan server Render untuk menyimpan PDF atau hasil ingest lokal jangka panjang
 
 ## Tempat Meletakkan PDF Contoh
 
