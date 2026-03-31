@@ -128,7 +128,7 @@ class DiscoveryTests(unittest.TestCase):
             pdf_path.write_bytes(b"%PDF-1.4")
 
             fake_discovery = {
-                "new_cases": ["176/PUU-XXIII/2025"],
+                "new_cases": [],
                 "downloaded_pdfs": [str(pdf_path)],
                 "failures": [],
             }

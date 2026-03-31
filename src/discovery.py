@@ -79,6 +79,157 @@ def _pick_decision_link(snapshot: TrackingCaseSnapshot) -> str | None:
     return None
 
 
+def _copy_html_snapshot(source_path: Path, destination_path: Path, *, force: bool) -> Path:
+    destination_path.parent.mkdir(parents=True, exist_ok=True)
+    if force or not destination_path.exists():
+        destination_path.write_text(source_path.read_text(encoding="utf-8"), encoding="utf-8")
+    return destination_path
+
+
+def ingest_tracking_html_file(
+    *,
+    html_path: str | Path,
+    tracking_url: str | None = None,
+    html_dir: str | Path = "data/discovery/raw_html",
+    snapshot_dir: str | Path = "data/discovery/tracking_cases",
+    pdf_dir: str | Path = "data/raw_pdfs",
+    parsed_dir: str | Path = "data/parsed_json",
+    validated_dir: str | Path = "data/validated_json",
+    review_dir: str | Path = "data/review_queue",
+    manual_truth_dir: str | Path | None = None,
+    download_decision: bool = True,
+    use_browser: bool = False,
+    browser_headless: bool = True,
+    browser_storage_state_path: str | Path | None = None,
+    timeout: float = 30.0,
+    force: bool = False,
+) -> dict[str, Any]:
+    html_path = Path(html_path)
+    html_dir = Path(html_dir)
+    snapshot_dir = Path(snapshot_dir)
+    pdf_dir = Path(pdf_dir)
+
+    html = html_path.read_text(encoding="utf-8")
+    base_tracking_url = tracking_url or "https://tracking.mkri.id/index.php"
+    snapshot = extract_tracking_case(html, base_tracking_url)
+    if snapshot is None:
+        return {
+            "html_input": str(html_path),
+            "snapshot_output": None,
+            "downloaded_pdf": None,
+            "ingest": {
+                "pdf_inputs": [],
+                "parse_outputs": [],
+                "validate_outputs": [],
+                "manual_truth_outputs": [],
+                "failures": [],
+                "parsed_summary": {},
+                "review_summary": {},
+                "validated_summary": {},
+            },
+            "failures": [f"{html_path.name}: tracking HTML did not contain a recognizable case record"],
+        }
+
+    snapshot.tracking_url = tracking_url or build_tracking_url(snapshot.case_number)
+    slug = slugify_case_number(snapshot.case_number)
+    html_output_path = html_dir / f"{slug}.html"
+    snapshot_output_path = snapshot_dir / f"{slug}.json"
+    _copy_html_snapshot(html_path, html_output_path, force=force)
+    _write_snapshot(snapshot, snapshot_output_path)
+
+    failures: list[str] = []
+    downloaded_pdf: str | None = None
+    pdf_inputs: list[Path] = []
+    if download_decision:
+        decision_url = _pick_decision_link(snapshot)
+        if decision_url:
+            pdf_path = pdf_dir / f"{slug}.pdf"
+            try:
+                if force or not pdf_path.exists():
+                    if use_browser:
+                        with create_browser_session(
+                            headless=browser_headless,
+                            timeout_ms=int(max(timeout, 20.0) * 1000),
+                            storage_state_path=browser_storage_state_path,
+                        ) as browser_session:
+                            browser_session.download_url(decision_url, pdf_path)
+                    else:
+                        download_binary(decision_url, pdf_path, timeout=max(timeout, 30.0))
+                downloaded_pdf = str(pdf_path)
+                pdf_inputs.append(pdf_path)
+            except Exception as exc:
+                failures.append(f"{snapshot.case_number} decision download: {exc}")
+        else:
+            failures.append(f"{snapshot.case_number}: no decision link found in tracking HTML")
+
+    ingest_result = ingest_pdf_files(
+        pdf_paths=pdf_inputs,
+        parsed_dir=parsed_dir,
+        validated_dir=validated_dir,
+        review_dir=review_dir,
+        manual_truth_dir=manual_truth_dir,
+    )
+    return {
+        "html_input": str(html_path),
+        "html_output": str(html_output_path),
+        "snapshot_output": str(snapshot_output_path),
+        "case_number": snapshot.case_number,
+        "downloaded_pdf": downloaded_pdf,
+        "ingest": ingest_result,
+        "failures": failures,
+    }
+
+
+def ingest_decision_url(
+    *,
+    case_number: str,
+    decision_url: str,
+    pdf_dir: str | Path = "data/raw_pdfs",
+    parsed_dir: str | Path = "data/parsed_json",
+    validated_dir: str | Path = "data/validated_json",
+    review_dir: str | Path = "data/review_queue",
+    manual_truth_dir: str | Path | None = None,
+    use_browser: bool = False,
+    browser_headless: bool = True,
+    browser_storage_state_path: str | Path | None = None,
+    timeout: float = 30.0,
+    force: bool = False,
+) -> dict[str, Any]:
+    pdf_dir = Path(pdf_dir)
+    slug = slugify_case_number(case_number)
+    pdf_path = pdf_dir / f"{slug}.pdf"
+
+    failures: list[str] = []
+    if force or not pdf_path.exists():
+        try:
+            if use_browser:
+                with create_browser_session(
+                    headless=browser_headless,
+                    timeout_ms=int(max(timeout, 20.0) * 1000),
+                    storage_state_path=browser_storage_state_path,
+                ) as browser_session:
+                    browser_session.download_url(decision_url, pdf_path)
+            else:
+                download_binary(decision_url, pdf_path, timeout=max(timeout, 30.0))
+        except Exception as exc:
+            failures.append(f"{case_number} decision download: {exc}")
+
+    ingest_result = ingest_pdf_files(
+        pdf_paths=[pdf_path] if pdf_path.exists() else [],
+        parsed_dir=parsed_dir,
+        validated_dir=validated_dir,
+        review_dir=review_dir,
+        manual_truth_dir=manual_truth_dir,
+    )
+    return {
+        "case_number": case_number,
+        "decision_url": decision_url,
+        "downloaded_pdf": str(pdf_path) if pdf_path.exists() else None,
+        "ingest": ingest_result,
+        "failures": failures,
+    }
+
+
 def sync_new_cases(
     *,
     case_type: str,
@@ -274,10 +425,21 @@ def sync_and_ingest_cases(
 
     pdf_dir = Path(pdf_dir)
     pdf_inputs: list[Path] = []
-    for case_number in discovery_result["new_cases"]:
-        candidate = pdf_dir / f"{slugify_case_number(case_number)}.pdf"
-        if candidate.exists():
+    seen_pdf_paths: set[Path] = set()
+
+    # Prefer the actual download results so a case can still be ingested
+    # when its tracking snapshot already existed from a previous run.
+    for raw_path in discovery_result.get("downloaded_pdfs", []):
+        candidate = Path(raw_path)
+        if candidate.exists() and candidate not in seen_pdf_paths:
             pdf_inputs.append(candidate)
+            seen_pdf_paths.add(candidate)
+
+    for case_number in discovery_result.get("new_cases", []):
+        candidate = pdf_dir / f"{slugify_case_number(case_number)}.pdf"
+        if candidate.exists() and candidate not in seen_pdf_paths:
+            pdf_inputs.append(candidate)
+            seen_pdf_paths.add(candidate)
 
     ingest_result = ingest_pdf_files(
         pdf_paths=pdf_inputs,

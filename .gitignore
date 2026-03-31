@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
+*.egg-info/
 
 tests/fixtures/pdfs/*.pdf
 !tests/fixtures/pdfs/.gitkeep
@@ -22,7 +23,14 @@ data/review_queue/*.json
 !data/review_queue/.gitkeep
 
 data/raw_pdfs/*.pdf
+data/raw_pdfs/**/*.pdf
 !data/raw_pdfs/.gitkeep
+
+data/inbox_pdfs/*.pdf
+!data/inbox_pdfs/.gitkeep
+
+data/pipeline_state/*.json
+!data/pipeline_state/.gitkeep
 
 data/pipeline_reports/*.json
 data/discovery/**/*.json

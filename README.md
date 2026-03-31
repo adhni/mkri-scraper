@@ -18,6 +18,7 @@ tests/fixtures/pdfs/
 schemas/
 scripts/
 data/raw_pdfs/
+data/inbox_pdfs/
 data/parsed_json/
 data/validated_json/
 data/review_queue/
@@ -69,6 +70,13 @@ Jalankan pipeline end-to-end:
 
 ```bash
 python -m src.cli run-pipeline data/raw_pdfs --with-manual-truth
+```
+
+Proses hanya PDF baru dari folder inbox:
+
+```bash
+python -m src.cli ingest-inbox
+python -m src.cli ingest-inbox data/inbox_pdfs --with-manual-truth
 ```
 
 Buat report ringkas pipeline:
@@ -179,16 +187,23 @@ Contoh sinyal review:
 Command yang paling praktis untuk kerja harian:
 
 ```bash
-python -m src.cli run-pipeline data/raw_pdfs
+python -m src.cli ingest-inbox
 ```
 
 Output command tersebut berisi:
 
-- daftar file hasil parse
-- daftar file hasil validate
+- jumlah file baru yang diproses
+- jumlah file yang di-skip karena sudah pernah diproses
+- jumlah file yang masuk `processed`, `review`, dan `failed`
 - daftar kegagalan bila ada
-- summary jumlah status `ok/partial/failed`
-- summary `review_flags` yang paling sering muncul
+
+Workflow yang disarankan:
+
+1. taruh PDF baru ke `data/inbox_pdfs/`
+2. jalankan `python -m src.cli ingest-inbox`
+3. file yang sudah diproses dipindah ke `data/raw_pdfs/processed/`
+4. file yang gagal parse dipindah ke `data/raw_pdfs/failed/`
+5. website otomatis membaca JSON baru dari `data/parsed_json/`, `data/validated_json/`, dan `data/review_queue`
 
 ## Visual Prototype
 
@@ -238,6 +253,12 @@ Kalau ingin diproses sebagai korpus kerja, taruh di:
 
 ```text
 data/raw_pdfs/
+```
+
+Untuk workflow harian yang lebih stabil, taruh PDF baru di:
+
+```text
+data/inbox_pdfs/
 ```
 
 ## Fallback LLM

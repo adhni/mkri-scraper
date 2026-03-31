@@ -6,9 +6,10 @@ from datetime import date
 from pathlib import Path
 from typing import Sequence
 
-from .discovery import sync_and_ingest_cases, sync_new_cases
+from .discovery import ingest_decision_url, ingest_tracking_html_file, sync_and_ingest_cases, sync_new_cases
+from .inbox import ingest_inbox
 from .parser import MkriParser
-from .pipeline import run_pipeline
+from .pipeline import ingest_pdf_files, run_pipeline
 from .reporting import build_pipeline_report, write_pipeline_report
 
 
@@ -153,6 +154,76 @@ def cmd_sync_and_ingest(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_ingest_tracking_html(args: argparse.Namespace) -> int:
+    result = ingest_tracking_html_file(
+        html_path=args.html,
+        tracking_url=args.tracking_url,
+        html_dir=args.html_dir,
+        snapshot_dir=args.snapshot_dir,
+        pdf_dir=args.pdf_dir,
+        parsed_dir=args.parsed_dir,
+        validated_dir=args.validated_dir,
+        review_dir=args.review_dir,
+        manual_truth_dir=args.manual_truth_dir if args.with_manual_truth else None,
+        download_decision=not args.no_download_decision,
+        use_browser=args.browser,
+        browser_headless=not args.browser_headful,
+        browser_storage_state_path=args.browser_storage_state,
+        timeout=args.timeout,
+        force=args.force,
+    )
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0
+
+
+def cmd_ingest_decision_url(args: argparse.Namespace) -> int:
+    result = ingest_decision_url(
+        case_number=args.case_number,
+        decision_url=args.url,
+        pdf_dir=args.pdf_dir,
+        parsed_dir=args.parsed_dir,
+        validated_dir=args.validated_dir,
+        review_dir=args.review_dir,
+        manual_truth_dir=args.manual_truth_dir if args.with_manual_truth else None,
+        use_browser=args.browser,
+        browser_headless=not args.browser_headful,
+        browser_storage_state_path=args.browser_storage_state,
+        timeout=args.timeout,
+        force=args.force,
+    )
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0
+
+
+def cmd_ingest_pdf(args: argparse.Namespace) -> int:
+    result = ingest_pdf_files(
+        pdf_paths=[args.pdf],
+        parsed_dir=args.parsed_dir,
+        validated_dir=args.validated_dir,
+        review_dir=args.review_dir,
+        manual_truth_dir=args.manual_truth_dir if args.with_manual_truth else None,
+    )
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0
+
+
+def cmd_ingest_inbox(args: argparse.Namespace) -> int:
+    result = ingest_inbox(
+        inbox_dir=args.inbox_dir,
+        processed_dir=args.processed_dir,
+        failed_dir=args.failed_dir,
+        manifest_path=args.manifest_path,
+        parsed_dir=args.parsed_dir,
+        validated_dir=args.validated_dir,
+        review_dir=args.review_dir,
+        manual_truth_dir=args.manual_truth_dir if args.with_manual_truth else None,
+        move_files=not args.no_move,
+        force=args.force,
+    )
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     ap = argparse.ArgumentParser(prog="mkri-scraper")
     sub = ap.add_subparsers(dest="command", required=True)
@@ -231,6 +302,64 @@ def build_parser() -> argparse.ArgumentParser:
     sync_ingest_cmd.add_argument("--timeout", type=float, default=20.0)
     sync_ingest_cmd.add_argument("--force", action="store_true")
     sync_ingest_cmd.set_defaults(func=cmd_sync_and_ingest)
+
+    ingest_html_cmd = sub.add_parser("ingest-tracking-html", help="Ingest one local tracking HTML snapshot, optionally download its decision PDF, then parse and validate it")
+    ingest_html_cmd.add_argument("html", type=Path)
+    ingest_html_cmd.add_argument("--tracking-url")
+    ingest_html_cmd.add_argument("--html-dir", type=Path, default=Path("data/discovery/raw_html"))
+    ingest_html_cmd.add_argument("--snapshot-dir", type=Path, default=Path("data/discovery/tracking_cases"))
+    ingest_html_cmd.add_argument("--pdf-dir", type=Path, default=Path("data/raw_pdfs"))
+    ingest_html_cmd.add_argument("--parsed-dir", type=Path, default=Path("data/parsed_json"))
+    ingest_html_cmd.add_argument("--validated-dir", type=Path, default=Path("data/validated_json"))
+    ingest_html_cmd.add_argument("--review-dir", type=Path, default=Path("data/review_queue"))
+    ingest_html_cmd.add_argument("--manual-truth-dir", type=Path, default=Path("tests/manual_truth"))
+    ingest_html_cmd.add_argument("--with-manual-truth", action="store_true")
+    ingest_html_cmd.add_argument("--no-download-decision", action="store_true")
+    ingest_html_cmd.add_argument("--browser", action="store_true")
+    ingest_html_cmd.add_argument("--browser-headful", action="store_true")
+    ingest_html_cmd.add_argument("--browser-storage-state", type=Path, default=Path("data/discovery/browser_state.json"))
+    ingest_html_cmd.add_argument("--timeout", type=float, default=30.0)
+    ingest_html_cmd.add_argument("--force", action="store_true")
+    ingest_html_cmd.set_defaults(func=cmd_ingest_tracking_html)
+
+    ingest_url_cmd = sub.add_parser("ingest-decision-url", help="Download one decision PDF by URL, then parse and validate it")
+    ingest_url_cmd.add_argument("url")
+    ingest_url_cmd.add_argument("--case-number", required=True)
+    ingest_url_cmd.add_argument("--pdf-dir", type=Path, default=Path("data/raw_pdfs"))
+    ingest_url_cmd.add_argument("--parsed-dir", type=Path, default=Path("data/parsed_json"))
+    ingest_url_cmd.add_argument("--validated-dir", type=Path, default=Path("data/validated_json"))
+    ingest_url_cmd.add_argument("--review-dir", type=Path, default=Path("data/review_queue"))
+    ingest_url_cmd.add_argument("--manual-truth-dir", type=Path, default=Path("tests/manual_truth"))
+    ingest_url_cmd.add_argument("--with-manual-truth", action="store_true")
+    ingest_url_cmd.add_argument("--browser", action="store_true")
+    ingest_url_cmd.add_argument("--browser-headful", action="store_true")
+    ingest_url_cmd.add_argument("--browser-storage-state", type=Path, default=Path("data/discovery/browser_state.json"))
+    ingest_url_cmd.add_argument("--timeout", type=float, default=30.0)
+    ingest_url_cmd.add_argument("--force", action="store_true")
+    ingest_url_cmd.set_defaults(func=cmd_ingest_decision_url)
+
+    ingest_pdf_cmd = sub.add_parser("ingest-pdf", help="Parse and validate one local PDF so it appears in the website data pipeline")
+    ingest_pdf_cmd.add_argument("pdf", type=Path)
+    ingest_pdf_cmd.add_argument("--parsed-dir", type=Path, default=Path("data/parsed_json"))
+    ingest_pdf_cmd.add_argument("--validated-dir", type=Path, default=Path("data/validated_json"))
+    ingest_pdf_cmd.add_argument("--review-dir", type=Path, default=Path("data/review_queue"))
+    ingest_pdf_cmd.add_argument("--manual-truth-dir", type=Path, default=Path("tests/manual_truth"))
+    ingest_pdf_cmd.add_argument("--with-manual-truth", action="store_true")
+    ingest_pdf_cmd.set_defaults(func=cmd_ingest_pdf)
+
+    ingest_inbox_cmd = sub.add_parser("ingest-inbox", help="Process only new PDFs from an inbox folder, archive them by status, and update website JSON outputs")
+    ingest_inbox_cmd.add_argument("inbox_dir", type=Path, nargs="?", default=Path("data/inbox_pdfs"))
+    ingest_inbox_cmd.add_argument("--processed-dir", type=Path, default=Path("data/raw_pdfs/processed"))
+    ingest_inbox_cmd.add_argument("--failed-dir", type=Path, default=Path("data/raw_pdfs/failed"))
+    ingest_inbox_cmd.add_argument("--manifest-path", type=Path, default=Path("data/pipeline_state/inbox_manifest.json"))
+    ingest_inbox_cmd.add_argument("--parsed-dir", type=Path, default=Path("data/parsed_json"))
+    ingest_inbox_cmd.add_argument("--validated-dir", type=Path, default=Path("data/validated_json"))
+    ingest_inbox_cmd.add_argument("--review-dir", type=Path, default=Path("data/review_queue"))
+    ingest_inbox_cmd.add_argument("--manual-truth-dir", type=Path, default=Path("tests/manual_truth"))
+    ingest_inbox_cmd.add_argument("--with-manual-truth", action="store_true")
+    ingest_inbox_cmd.add_argument("--no-move", action="store_true")
+    ingest_inbox_cmd.add_argument("--force", action="store_true")
+    ingest_inbox_cmd.set_defaults(func=cmd_ingest_inbox)
     return ap
 
 
