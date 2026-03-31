@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "tests/fixtures/pdfs/putusan_mkri_13737_1769738974.pdf",
+    "file_name": "putusan_mkri_13737_1769738974.pdf",
+    "page_count": 5,
+    "text_extraction_engine": "pypdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:decision_date_missing"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "ketetapan",
+    "case_type": "PUU",
+    "case_number": "11/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "9/PUU/PAN.MK/AP3/01/2026"
+    ],
+    "title": "KETETAPAN",
+    "decision_date": null,
+    "decision_date_raw": "1 Tahun 2025",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "KETETAPAN \nNOMOR 11/PUU-XXIV/2026",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,  \nYang mengadili pengujian undang-undang pada tingkat pertama dan  terakhir, \nmenjatuhkan Ketetapan dalam Permohonan Pengujian Undang-Undang Nomor  \n1 Tahun 2025 tentang Perubahan Ketiga Atas Undang-Undang Nomor 19 Tahun \n2003 tentang Badan Usaha Milik Negara terhadap Undang-Undang Da sar Negara \nRepublik Indonesia Tahun 1945, sebagai berikut: \nMenimbang : a. bahwa Mahkamah Konstitusi (selanjutnya disebut \nMahkamah) telah menerima permohonan bertanggal \n5 Januari 2026, yang diajukan oleh perorangan warga negara \nIndonesia atas nama Hertika Sihotang (selanjutnya disebut \nPemohon), yang diterima Kepaniteraan Mahkamah pada tanggal 5 Januari 2026 berdasarkan Akta Pengajuan \nPermohonan Pemohon Nomor 9/PUU/PAN.MK/AP3/ \n01/2026, dan telah dicatat dalam Buku Registrasi Perkara \nKonstitusi Elektronik (e-BRPK) pada tanggal 6 Januari 2026 \ndengan Permohonan Nomor 11/PUU-XXIV/2026 perihal \nPermohonan Pengujian Undang-Undang Nomor 1 Tahun \n2025 tentang Perubahan Atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun \n1945; \n  b. bahwa berdasarkan ketentuan dalam Pasal 28 ayat (4) dan \nPasal 34 ayat (1) Undang-Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi sebagaimana telah diubah \nterakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran \nNegara Republik Indonesia Tahun 2020 Nomor 216, \nTambahan Lembaran Negara Republik Indonesia Nomor \n\n\n2 \n \n6554, selanjutnya disebut UU MK), terhadap Permohonan \nNomor 11/PUU-XXIV/2026 tersebut Mahkamah telah \nmenerbitkan: \n1) Ketetapan Ketua Mahkamah Konstitusi \nNomor 11.11/PUU/TAP.MK/Panel/01/2026 tentang \nPembentukan Panel Hakim Untuk Memeriksa Perkara Nomor 11/PUU-XXIV/2026, bertanggal 6 Januari 2026; \n2) Ketetapan Ketua Panel Hakim Mahkamah Konstitusi \nNomor 11.11/PUU/TAP.MK/HS/01/2026 tentang Penetapan Hari Sidang Pertama Untuk memeriksa \nPerkara Nomor 11/PUU-XXIV/2026, bertanggal 6 Januari \n2026;",
+      "start_line": 4,
+      "end_line": 44
+    },
+    {
+      "heading": "c. bahwa berdasarkan ketentuan dalam Pasal 34 UU MK,",
+      "slug": "c-bahwa-berdasarkan-ketentuan-dalam-pasal-34-uu-mk",
+      "text": "Mahkamah telah menjadwalkan sidang dengan agenda Pemeriksaan Pendahuluan terhadap permohonan a quo  \nmelalui sidang Panel yang dijadwalkan pada tanggal 21 \nJanuari 2026 pukul 14.30 WIB;",
+      "start_line": 46,
+      "end_line": 48
+    },
+    {
+      "heading": "d. bahwa berkenaan dengan persidangan Pemeriksaan",
+      "slug": "d-bahwa-berkenaan-dengan-persidangan-pemeriksaan",
+      "text": "Pendahuluan tersebut, Mahkamah telah memanggil Pemohon secara sah dan patut dengan surat Panitera \nMahkamah Nomor 29.11/PUU/PAN.MK/PS/01/2026, \nbertanggal 8 Januari 2026 perihal Panggilan Sidang dengan \nagenda Pemeriksaan Pendahuluan melalui pesan singkat WhatsApp dan e-mail  yakni pada tanggal 8 Januari 2026 \npukul 16.03 WIB. Selanjutnya, 1 (satu) hari kerja sebelum \npersidangan dilaksanakan, Mahkamah telah melakukan \nkonfirmasi ulang kepada Pemohon melalui pesan singkat \nWhatsApp pada tanggal 20 Januari 2026 pukul 15.01 WIB \nterkait dengan konfirmasi kehadiran Pemohon dalam \npersidangan yang dijadwalkan pada hari Rabu, 21 Januari \n2026 pukul 14.30 WIB, akan tetapi tidak mendapatkan jawaban atau respon dari Pemohon. Bahkan, sampai dengan \ndibukanya persidangan pada pukul 14.47 WIB hingga \n\n3 \n \ndipanggil kembali dalam persidangan dimaksud, Pemohon \nbelum juga hadir dalam sidang tersebut. Berkenaan dengan \nketidakhadiran Pemohon tersebut, Mahkamah tetap \nmembuka sidang untuk kembali memastikan kehadiran \nPemohon, dan ternyata sampai dengan berakhirnya sidang \nyang telah ditentukan, Pemohon tetap tidak hadir tanpa alasan yang sah [vide Risalah Sidang, tanggal 21 Januari \n2026, hlm. 1]. \n  e.  bahwa ketentuan Pasal 36 ayat (4) Peraturan Mahkamah \nKonstitusi Nomor 7 Tahun 2025 tentang Tata Beracara \nDalam Perkara Pengujian Undang-Undang (PMK 7/2025) menyatakan, “Dalam hal Pemohon dan/atau kuasa hukum \ntidak hadir dalam Pemeriksaan Pendahuluan sebagaimana \ndimaksud pada ayat (1) tanpa alasan yang sah meskipun \ntelah dipanggil secara sah dan patut, Mahkamah menyatakan \nPermohonan gugur”. Lebih lanjut, Pasal 69 ayat (1) huruf c PMK 7/2025 menyatakan, “Mahkamah menerbitkan putusan \nberupa Ketetapan dalam hal: c. Pemohon tidak hadir pada \nsidang pertama Pemeriksaan Pendahuluan”. Selain itu, \nberdasarkan Pasal 2 ayat (4) Undang-Undang Nomor 48 \nTahun 2009 tentang Kekuasaan Kehakiman menyatakan, \n“Peradilan dilakukan dengan sederhana, cepat, dan biaya \nringan”; \n  f. bahwa berdasarkan fakta hukum dan ketentuan \nsebagaimana dimaksud pada huruf c sampai dengan huruf e",
+      "start_line": 50,
+      "end_line": 86
+    },
+    {
+      "heading": "di atas, Rapat Permusyawaratan Hakim pada tanggal 22 Januari 2026 telah berkesimpulan ketidakhadiran Pemohon",
+      "slug": "di-atas-rapat-permusyawaratan-hakim-pada-tanggal-22-januari-2026-telah-berkesimpulan-ketidakhadiran-pemohon",
+      "text": "pada sidang panel Pemeriksaan Pendahuluan tanpa alasan \nyang sah meskipun telah dipanggil secara sah dan patut \nmenunjukkan Pemohon tidak sungguh-sungguh dalam \nmengajukan permohonan a quo . Dengan demikian, \npermohonan Pemohon harus dinyatakan gugur dan oleh \n\n4 \n \nkarenanya terhadap permohonan a quo  Mahkamah \nmengeluarkan Ketetapan. \nMengingat : 1. Undang-Undang Dasar Negara Republik Indonesia Ta hun \n1945;",
+      "start_line": 88,
+      "end_line": 99
+    },
+    {
+      "heading": "2. Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah",
+      "slug": "2-undang-undang-nomor-24-tahun-2003-tentang-mahkamah",
+      "text": "Konstitusi sebagaimana telah diubah terakhir dengan \nUndang-Undang Nomor 7 Tahun 2020 tentang Perubahan \nKetiga Atas Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6554);",
+      "start_line": 101,
+      "end_line": 105
+    },
+    {
+      "heading": "3. Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan",
+      "slug": "3-undang-undang-nomor-48-tahun-2009-tentang-kekuasaan",
+      "text": "Kehakiman (Lembaran Negara Republik Indonesia Tahun \n2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 5076);",
+      "start_line": 107,
+      "end_line": 108
+    },
+    {
+      "heading": "4. Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025",
+      "slug": "4-peraturan-mahkamah-konstitusi-nomor-7-tahun-2025",
+      "text": "tentang Tata Beracara Dalam Perkara Pengujian Undang-\nUndang. \nMENETAPKAN: \nMenyatakan permohonan Pemohon gugur\n. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh delapan  \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nRidwan Mansyur, Arsul Sani, Anwar Usman, Enny Nurbaningsih, Dan iel Yusmic P. \nFoekh, dan M. Guntur Hamzah, masing-masing sebagai Anggota, pad a hari  Kamis , \ntanggal  dua puluh dua , bulan Januari , tahun  dua ribu dua puluh enam , yang \ndiucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari  \nJumat,  tanggal tiga puluh , bulan Januari , tahun  dua ribu dua puluh enam , selesai \ndiucapkan pukul  08.45 WIB , oleh sembilan Hakim Konstitusi yaitu Suhartoyo selaku \nKetua merangkap Anggota, Saldi Isra, Ridwan Mansyur, Arsul Sani , Anwar Usman, \nArief Hidayat, Enny Nurbaningsih, Daniel Yusmic P. Foekh, dan M . Guntur Hamzah, \nmasing-masing sebagai Anggota, dengan dibantu oleh Syukri Asy’a ri sebagai \n\n5 \n \nPanitera Pengganti, serta dihadiri oleh Dewan Perwakilan Rakyat  atau yang mewakili \ndan Presiden atau yang mewakili, tanpa dihadiri Pemohon.  \nKETUA, \nttd.  \nSuhartoyo \n ANGGOTA-ANGGOTA, \n ttd. \nSaldi Isra ttd.  \nRidwan Mansyur  \nttd. \nArsul Sani   ttd. \nAnwar Usman  \nttd. \nArief Hidayat ttd. \nEnny Nurbaningsih \nttd. \nDaniel Yusmic P. Foekh ttd. \nM. Guntur Hamzah \nPANITERA PENGGANTI, \nttd. \nSyukri Asy’ari",
+      "start_line": 110,
+      "end_line": 150
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Nomor 9/PUU/PAN.MK/AP3/",
+        "role": "applicant",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Mahkamah Konstitusi",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Pengujian Undang-Undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga Atas Undang-Undang Nomor 19 Tahun",
+      "Pengujian Undang-Undang Nomor 1 Tahun"
+    ],
+    "constitutional_articles": [],
+    "procedural_articles": [
+      "Pasal 36 ayat (4)"
+    ],
+    "evidence": [
+      "REFERENSI:11/PUU-XXIV/2026",
+      "REFERENSI:9/PUU/PAN.MK/AP3/01/2026",
+      "REFERENSI:11/PUU/TAP.MK/Panel/01/2026tentangPembentukanPanelHakimUntukMemeriksaPerkaraNomor11/PUU-XXIV/2026",
+      "REFERENSI:11/PUU/TAP.MK/HS/01/2026tentangPenetapanHariSidangPertamaUntukmemeriksaPerkaraNomor11/PUU-XXIV/2026",
+      "REFERENSI:11/PUU/PAN.MK/PS/01/2026"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "melalui sidang Panel yang dijadwalkan pada tanggal 21",
+    "bertanggal 8 Januari 2026 perihal Panggilan Sidang dengan",
+    "persidangan dilaksanakan, Mahkamah telah melakukan",
+    "persidangan yang dijadwalkan pada hari Rabu, 21 Januari",
+    "dibukanya persidangan pada pukul 14.47 WIB hingga",
+    "dipanggil kembali dalam persidangan dimaksud, Pemohon",
+    "belum juga hadir dalam sidang tersebut. Berkenaan dengan",
+    "membuka sidang untuk kembali memastikan kehadiran",
+    "Pemohon, dan ternyata sampai dengan berakhirnya sidang",
+    "tidak hadir dalam Pemeriksaan Pendahuluan sebagaimana",
+    "sidang pertama Pemeriksaan Pendahuluan”. Selain itu,",
+    "pada sidang panel Pemeriksaan Pendahuluan tanpa alasan",
+    "d. bahwa berkenaan dengan persidangan Pemeriksaan"
+  ],
+  "outcome": {
+    "decision_type": "ketetapan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon gugur"
+    ],
+    "summary": "Menyatakan permohonan Pemohon gugur"
+  },
+  "adjudicators": {
+    "judges": [
+      "KETETAPAN",
+      "NOMOR 11/PUU-XXIV/2026",
+      "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "menjatuhkan Ketetapan dalam Permohonan Pengujian Undang-Undang Nomor",
+      "1 Tahun 2025 tentang Perubahan Ketiga Atas Undang-Undang Nomor 19 Tahun",
+      "2003 tentang Badan Usaha Milik Negara terhadap Undang-Undang Da sar Negara",
+      "Republik Indonesia Tahun 1945, sebagai berikut",
+      "Menimbang : a. bahwa Mahkamah Konstitusi (selanjutnya disebut",
+      "Indonesia atas nama Hertika Sihotang (selanjutnya disebut",
+      "Permohonan Pemohon Nomor 9/PUU/PAN.MK/AP3/",
+      "01/2026, dan telah dicatat dalam Buku Registrasi Perkara",
+      "Konstitusi Elektronik (e-BRPK) pada tanggal 6 Januari 2026",
+      "dengan Permohonan Nomor 11/PUU-XXIV/2026 perihal",
+      "Permohonan Pengujian Undang-Undang Nomor 1 Tahun",
+      "Undang-Undang Dasar Negara Republik Indonesia Tahun",
+      "Pasal 34 ayat (1) Undang-Undang Nomor 24 Tahun 2003",
+      "tentang Mahkamah Konstitusi sebagaimana telah diubah",
+      "terakhir dengan Undang-Undang Nomor 7 Tahun 2020",
+      "tentang Perubahan Ketiga Atas Undang-Undang Nomor 24",
+      "Tahun 2003 tentang Mahkamah Konstitusi (Lembaran",
+      "Negara Republik Indonesia Tahun 2020 Nomor 216",
+      "Tambahan Lembaran Negara Republik Indonesia Nomor",
+      "Ketetapan Ketua Mahkamah Konstitusi",
+      "Perkara Nomor 11/PUU-XXIV/2026, bertanggal 6 Januari",
+      "Mahkamah Nomor 29.11/PUU/PAN.MK/PS/01/2026",
+      "bertanggal 8 Januari 2026 perihal Panggilan Sidang dengan",
+      "e. bahwa ketentuan Pasal 36 ayat (4) Peraturan Mahkamah",
+      "Konstitusi Nomor 7 Tahun 2025 tentang Tata Beracara",
+      "tidak hadir dalam Pemeriksaan Pendahuluan sebagaimana",
+      "sidang pertama Pemeriksaan Pendahuluan”. Selain itu",
+      "berdasarkan Pasal 2 ayat (4) Undang-Undang Nomor 48",
+      "Tahun 2009 tentang Kekuasaan Kehakiman menyatakan",
+      "pada sidang panel Pemeriksaan Pendahuluan tanpa alasan",
+      "Mengingat : 1. Undang-Undang Dasar Negara Republik Indonesia Ta hun",
+      "Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan",
+      "Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 tentang",
+      "Republik Indonesia Nomor 6554)",
+      "Kehakiman (Lembaran Negara Republik Indonesia Tahun",
+      "2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 5076)",
+      "tentang Tata Beracara Dalam Perkara Pengujian Undang",
+      "MENETAPKAN",
+      "Ridwan Mansyur, Arsul Sani, Anwar Usman, Enny Nurbaningsih, Dan iel Yusmic P",
+      "Foekh, dan M. Guntur Hamzah, masing-masing sebagai Anggota, pad a hari Kamis",
+      "diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari",
+      "Ketua merangkap Anggota, Saldi Isra, Ridwan Mansyur, Arsul Sani , Anwar Usman",
+      "Arief Hidayat, Enny Nurbaningsih, Daniel Yusmic P. Foekh, dan M . Guntur Hamzah",
+      "masing-masing sebagai Anggota, dengan dibantu oleh Syukri Asy’a ri sebagai",
+      "KETUA",
+      "ANGGOTA-ANGGOTA",
+      "Saldi Isra ttd",
+      "Ridwan Mansyur",
+      "Arsul Sani ttd",
+      "Anwar Usman",
+      "Arief Hidayat ttd",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh ttd",
+      "M. Guntur Hamzah",
+      "Syukri Asy’ari",
+      "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah",
+      "Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan",
+      "Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025"
+    ],
+    "clerks": [
+      "), yang diterima Kepaniteraan Mahkamah pada tanggal 5 Januari 2026 berdasarkan Akta Pengajuan",
+      "Pendahuluan tersebut, Mahkamah telah memanggil Pemohon secara sah dan patut dengan surat Panitera",
+      "Panitera Pengganti, serta dihadiri oleh Dewan Perwakilan Rakyat atau yang mewakili",
+      "PANITERA PENGGANTI"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "11/PUU-XXIV/2026",
+      "9/PUU/PAN.MK/AP3/01/2026",
+      "11/PUU/TAP.MK/Panel/01/2026tentangPembentukanPanelHakimUntukMemeriksaPerkaraNomor11/PUU-XXIV/2026",
+      "11/PUU/TAP.MK/HS/01/2026tentangPenetapanHariSidangPertamaUntukmemeriksaPerkaraNomor11/PUU-XXIV/2026",
+      "11/PUU/PAN.MK/PS/01/2026"
+    ],
+    "referenced_cases": [
+      "11/PUU-XXIV/2026",
+      "9/PUU/PAN.MK/AP3/01/2026",
+      "11/PUU/TAP.MK/Panel/01/2026tentangPembentukanPanelHakimUntukMemeriksaPerkaraNomor11/PUU-XXIV/2026",
+      "11/PUU/TAP.MK/HS/01/2026tentangPenetapanHariSidangPertamaUntukmemeriksaPerkaraNomor11/PUU-XXIV/2026",
+      "11/PUU/PAN.MK/PS/01/2026"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [
+      "decision_date_missing"
+    ],
+    "needs_manual_review": true
+  }
+}

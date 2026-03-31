@@ -1,0 +1,1224 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "tests/fixtures/pdfs/putusan_mkri_13907_1772419957.pdf",
+    "file_name": "putusan_mkri_13907_1772419957.pdf",
+    "page_count": 38,
+    "text_extraction_engine": "pypdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:decision_date_missing"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "281/PUU-XXIII/2025",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": null,
+    "decision_date_raw": "1 Tahun 2023",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 281/PUU-XXIII/2025",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1]  Yang mengadili pengujian undang-undang pada tingkat pertama dan  \nterakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang \nNomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana ter hadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 5,
+      "end_line": 9
+    },
+    {
+      "heading": "1. Nama : Vendy Setiawan",
+      "slug": "1-nama-vendy-setiawan",
+      "text": "Pekerjaan : Mahasiswa  Alamat : KP. Pasir Bayur RT/RW 002/004  \nKelurahan/Desa Mulyasari Kecamatan Silaku Kabupaten Cianjur, Jawa Barat \nSelanjutnya disebut sebagai --- -------------------------------- -------------------- Pemohon I;",
+      "start_line": 11,
+      "end_line": 13
+    },
+    {
+      "heading": "2. Nama : Novita Ayu Fitriani",
+      "slug": "2-nama-novita-ayu-fitriani",
+      "text": "Pekerjaan : Mahasiwa \n Alamat : Jalan Slamet Riyadi IV/No. 03 RT/RW 008/004 \nKelurahan Kebon Manggis Kecamatan Matraman Jakarta Timur \nSelanjutnya disebut sebagai ----------------------------------- ------------------- Pemohon II;",
+      "start_line": 15,
+      "end_line": 18
+    },
+    {
+      "heading": "3. Nama : Sofia Arfind Putri",
+      "slug": "3-nama-sofia-arfind-putri",
+      "text": "Pekerjaan : Mahasiswa  Alamat : Jalan Rawa Domba Raya Kav. 8 – 9  \nRT/RW 003/016 Kelurahan Duren Sawit Kecamatan Duren Sawit Jakarta Timur \nSelanjutnya disebut sebagai ----------------------------------- ------------------ Pemohon III;",
+      "start_line": 20,
+      "end_line": 22
+    },
+    {
+      "heading": "4. Nama : Pangestu Sarah Hapsari",
+      "slug": "4-nama-pangestu-sarah-hapsari",
+      "text": "Pekerjaan : Mahasiswa  Alamat : Jalan Kampung Baru II No. 32B RT/RW 003/005 \nKelurahan Pondok Pinang Kecamatan Kebayoran Lama Jakarta Selatan \nSelanjutnya disebut sebagai ----------------------------------- ------------------ Pemohon IV;\n\n\n 2",
+      "start_line": 24,
+      "end_line": 29
+    },
+    {
+      "heading": "5. Nama : Aulia Ananta Setiawan",
+      "slug": "5-nama-aulia-ananta-setiawan",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : KP. Doyong RT/RW 006/006 Kelurahan Alam Jaya \nKecamatan Jatiuwung Kota Tangerang \nSelanjutnya disebut sebagai ----------------------------------- ------------------- Pemohon V;",
+      "start_line": 31,
+      "end_line": 34
+    },
+    {
+      "heading": "6. Nama : Iis Rahmawati",
+      "slug": "6-nama-iis-rahmawati",
+      "text": "Pekerjaan : Mahasiswa  Alamat : Dusun Kliwon RT/RW 001/001  \nKelurahan/Desa Kamarang Kecamatan Greged Kabupaten Cirebon, Jawa Barat \nSelanjutnya disebut sebagai ----------------------------------- ------------------ Pemohon VI;",
+      "start_line": 36,
+      "end_line": 38
+    },
+    {
+      "heading": "7. Nama : Zerlina Keyla Maryam",
+      "slug": "7-nama-zerlina-keyla-maryam",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Gunungsari Indah VV 15 RT/RW 001/009 \nKelurahan/Desa Kedurus Kecamatan Karang Pilang Kota Surabaya, Jawa Timur \nSelanjutnya disebut sebagai ----------------------------------- ----------------- Pemohon VII;\nBerdasarkan Surat Kuasa Khusus bertanggal 15 Januari 2026 membe ri kuasa \nkepada Zico Leonard Djagardo Simanjuntak, S.H., Leon Maulana Mi rza Pasha, \nS.H., Priskila Octaviani, S.H., Ratu Eka Shaira, S.H., Ni Kadek  Sri Yulianti, Gusti \nPutu Agung Cinta Arya Diningrat, dan Dody Pradipto YS, kesemuan ya adalah \nadvokat dan konsultan hukum pada Kantor Hukum Leo & Partners, b eralamat di \nGrand Slipi Tower lantai 5 Unit F, Jalan S. Parman Kav. 22 – 24 , Kelurahan \nPalmerah, Kecamatan Palmerah, DKI Jakarta, yang mewakili pember i kuasa baik \nsecara bersama-sama maupun sendiri-sendiri bertindak untuk dan atas nama \npemberi kuasa; \nSelanjutnya Pemohon I sampai dengan Pemohon VII disebut sebagai  -----------------\n-------------------------------- --------------- ---------------- ------------------------- para Pemohon; \n[1.2] Membaca permohonan para Pemohon; \n Mendengar keterangan para Pemohon; \n Memeriksa bukti-bukti para Pemohon;  \n\n 3",
+      "start_line": 40,
+      "end_line": 59
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 30 Desember 2025 yang diterima Kepaniteraan Mahkamah  Konstitusi  \npada tanggal 30 Desember 2025 berdasarkan Akta Pengajuan Permoh onan \nPemohon Nomor 287/PUU/PAN.MK/AP3/12/2025 dan telah dicatat dala m Buku \nRegistrasi Perkara Konstitusi Elektronik (e-BRPK) pada tanggal 30 Desember 2025 \ndengan Nomor 281/PUU-XXIII/2025, yang telah diperbaiki dan dite rima Mahkamah \npada tanggal 27 Januari 2026, pada pokoknya menguraikan hal-hal  sebagai berikut: \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 61,
+      "end_line": 68
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD NRI 1945 ) \nmenyatakan:   \n“kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada dibawahnya dalam lingkungan peradil an \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkama h \nKonstitusi”;",
+      "start_line": 70,
+      "end_line": 76
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) Perubahan Keempat UUD N RI 1945:",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-perubahan-keempat-uud-n-ri-1945",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-\nUndang Dasar, memutus perubahan partai politik dan memutus \nperselisihan tentang hasil pemilihan umum”;",
+      "start_line": 78,
+      "end_line": 83
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-t-ahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana te lah \ndiubah terakhir dalam Undang-Undang (UU) Nomor 13 Tahun 2022 te ntang \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan menegaskan bahwa:   \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 85,
+      "end_line": 90
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 T ahun",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-t-ahun",
+      "text": "2009 tentang Kekuasaan Kehakiman, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai \n\n 4\npolitik; d. memutus perselisihan tentang hasil pemilihan umum; dan e. \nkewenangan lain yang diberikan oleh undang-undang”",
+      "start_line": 92,
+      "end_line": 102
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-t-ahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah terakhir \ndengan Undang-undang (UU) Nomor 7 Tahun 2020 tentang Perubahan \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi, menyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai \npolitik; dan d. memutus perselisihan tentang hasil pemilihan um um.”",
+      "start_line": 104,
+      "end_line": 113
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konst itusi Nomor",
+      "slug": "6-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konst-itusi-nomor",
+      "text": "7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujian Unda ng-\nUndang, menyatakan :   \n“Objek Permohonan PUU adalah Undang-Undang dan Perppu”;  \nOleh karenanya, Mahkamah Konstitusi berwenang mengadili perkara  a quo  \nkarena PARA PEMOHON  mengajukan permohonan pengujian \nkonstitusionalitas undang-undang yaitu: Undang-Undang Nomor 1 Tahun \n2023 tentang Kitab Undang-Undang Hukum Pidana [Lembaran Negara \nRepublik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara  \nRepublik Indonesia Nomor 6842];",
+      "start_line": 115,
+      "end_line": 123
+    },
+    {
+      "heading": "7. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah nyata bahwa",
+      "slug": "7-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-nyata-bahwa",
+      "text": "objek permohonan a quo  memenuhi syarat sebagai objek permohonan \npengujian materiil Undang-Unda ng terhadap UUD NRI 1945. Oleh \nkarenanya, Mahkamah Konstitusi berwenang untuk memeriksa, menga dili, \ndan memutus konstitusionalitas Undang-Undang terhadap UUD NRI 1 945 \ndalam perkara a quo yang diajukan oleh PARA PEMOHON .   \nII. KEDUDUKAN HUKUM (LEGAL STANDING)  DAN KERUGIAN",
+      "start_line": 125,
+      "end_line": 130
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan ba hwa",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menyatakan-ba-hwa",
+      "text": "PARA PEMOHON  adalah pihak yang menganggap hak dan/atau \nkewenangan konstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu:  \na. perorangan WNI; \n\n 5\nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip negara \nkesatuan RI yang diatur dalam undang-undang;",
+      "start_line": 133,
+      "end_line": 140
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, maka terlebih dahulu PARA",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-maka-terlebih-dahulu-para",
+      "text": "PEMOHON  menguraikan kedudukan hukum ( legal standing ), sebagai \nberikut, PARA PEMOHON  merupakan perseorangan warga negara \nIndonesia yang dibuktikan dengan kepemilikan Kartu Tanda Pendud uk \n( B u k t i  P - 3  –  P - 9 )  dan berstatus sebagai Mahasiswa Ilmu Hukum \nUniversitas Terbuka dibuktikan dengan Kartu Tanda Mahasiswa (Bukti \nP-10 – P-16) ;",
+      "start_line": 143,
+      "end_line": 148
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2) menegaskan",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaskan",
+      "text": "PARA PEMOHON memenuhi dan memiliki kedudukan hukum ( legal \nstanding ) sebagai perseorangan warga negara Indonesia  sehingga \nPARA PEMOHON  dapat mengajukan permohonan pengujian UU \nterhadap UUD NRI 1945. Selanjutnya, PARA PEMOHON akan \nmenguraikan kerugian konstitusional yang dialami sehubungan den gan \nberlakunya UU yang diujikan konstitusionalitasnya dalam perkara  a quo.",
+      "start_line": 150,
+      "end_line": 155
+    },
+    {
+      "heading": "4. Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi N omor 7",
+      "slug": "4-bahwa-dalam-pasal-4-ayat-2-peraturan-mahkamah-konstitusi-n-omor-7",
+      "text": "Tahun 2025 tentang Pedoman Beracara Dalam Perkara Pengujian Undang-Undang ditentukan 5 syarat mengenai kerugian konstitusio nal, \nyaitu:  \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia 1945.  \nb. Bahwa hak konstitusional pemohon  tersebut dianggap oleh para \npemohon  telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 157,
+      "end_line": 162
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat",
+      "text": "spesifik atau khusus dan aktual atau setidaknya potensial yang \nmenurut penalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 164,
+      "end_line": 165
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan untuk diuji.  \n\n 6\ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian konstitusional yang didalilkan tidak akan atau ti dak \nterjadi lagi.",
+      "start_line": 167,
+      "end_line": 172
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional PARA PEMOHON",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-para-pemohon",
+      "text": "dijamin oleh UUD NRI 1945 yang telah diatur dalam beberapa pasa l yang \ndigunakan sebagai dasar pengujian dalam perkara a quo, yaitu:  \na. Pasal 28D ayat (1) UUD NRI 1945, menyatakan “Setiap orang be rhak \natas pengakuan, jaminan, perlindungan, dan kepastian hukum yang  \nadil serta perlakuan yang sama di hadapan hukum.”  \nb. Pasal 1 ayat (3) UUD NRI 1945, menyatakan  “Negara Indonesia \nadalah negara hukum.”",
+      "start_line": 174,
+      "end_line": 180
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam",
+      "text": "UUD NRI 1945 tersebut telah dirugikan  dengan Pasal 102 Undang-\nUndang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana [Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842]  sebaga i \nberikut:  \nPasal 102 KUHP yang menyatakan:  \n“Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana m ati \ndiatur dengan Undang-Undang.”",
+      "start_line": 182,
+      "end_line": 187
+    },
+    {
+      "heading": "7. Bahwa dengan berlakunya pasal sebagaimana tersebut dalam poi n 6),",
+      "slug": "7-bahwa-dengan-berlakunya-pasal-sebagaimana-tersebut-dalam-poi-n-6",
+      "text": "PARA PEMOHON  telah mengalami kerugian konstitusional, baik yang \nbersifat spesifik (aktual) maupun potensial yang akan dijelaska n sebagai \nberikut:  \na) Bahwa PARA PEMOHON  seluruhnya merupakan warga negara \nIndonesia yang secara aktual dan berkelanjutan berstatus sebaga i \nmahasiswa Program Studi Ilmu Hukum Universitas Terbuka, yang secara normatif diwajibkan oleh sistem dan kurikulum pendidikan  \ntinggi hukum untuk mempelajari, menganalisis, serta \nmempertanggungjawabkan keberlakuan Kitab Undang-Undang \nHukum Pidana sebagai hukum pidana nasional yang berlaku dan mengikat. \nb) Bahwa kewajiban akademik PARA PEMOHON  tersebut bukan \nbersifat pilihan atau kepentingan teoritis semata, melainkan kewajiban hukum-akademik yang berdampak langsung pada \n\n 7\npenilaian akademik, kelulusan, dan legitimasi keilmuan PARA \nPEMOHON  sebagai subjek pendidikan hukum, sehingga PARA \nPEMOHON  berada dalam posisi hukum yang secara aktif terikat oleh \nkeberlakuan norma KUHP. \nc) Bahwa dalam menjalankan kewajiban tersebut, PARA PEMOHON  \ndituntut untuk mampu menjelaskan secara normatif, rasional, dan  \ndapat dipertanggungjawabkan mengenai mekanisme hukum pelaksanaan pidana mati, termasuk bagaimana penilaian selama masa percobaan pidana mati dilakukan serta lembaga apa yang \nberwenang melakukan penilaian tersebut. \nd) Bahwa keberlakuan Pasal 102 KUHP yang hanya merumuskan frasa  \n“tata cara pelaksanaan pidana mati” tanpa secara tegas mencakup  \npengaturan mengenai lembaga yang berwenang, kriteria penilaian,  \ndan tata cara penilaian selama masa percobaan pidana mati, tela h \nmenimbulkan kekosongan norma, sehingga PARA PEMOHON  \nsecara aktual kehilangan kepastian hukum dalam memahami, menjelaskan, dan mempertanggungjawabkan mekanisme hukum \nyang menentukan apakah pidana mati dilaksanakan atau diubah. \ne) Bahwa kondisi tersebut secara langsung dan aktual merugikan \nPARA PEMOHON , karena PARA PEMOHON  dipaksa oleh sistem \npendidikan hukum yang bersandar pada hukum positif yang berlaku  \nuntuk memahami dan menerima keberlakuan suatu norma pidana yang tidak lengkap secara normatif, tidak menyediakan standar \npenilaian yang jelas, dan tidak memungkinkan prediksi akibat hu kum, \nkhususnya terkait pidana paling berat dalam sistem hukum pidana  \nIndonesia. \nf) Bahwa kerugian konstitusional PARA PEMOHON  tidak berhenti \npada ranah akademik saat ini, melainkan bersifat potensial yang  \nsecara rasional pasti akan terjadi ( reasonable certainty ), mengingat \nPARA PEMOHON  dipersiapkan oleh sistem pendidikan tinggi hukum \nuntuk menjalankan fungsi profesional sebagai advokat, peneliti hukum, akademisi, atau aparatur penegak hukum yang akan memberikan pendampingan, pembelaan, pendapat hukum, dan \n\n 8\npenilaian normatif terhadap perkara pidana, termasuk perkara ya ng \ndiancam dengan pidana mati. \ng) Bahwa dalam kapasitas profesional tersebut, ketidakjelasan n orma \nPasal 102 KUHP secara langsung berpotensi membatasi kemampuan PARA PEMOHON  untuk memberikan nasihat hukum \nyang akurat, dapat diprediksi, dan bertanggung jawab secara konstitusional, sehingga menimbulkan kerugian konstitusional at as \nhak PARA PEMOHON  untuk memperoleh kepastian hukum yang adil \nsebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI 1945. \nh) Bahwa oleh karena itu, akibat berlakunya Pasal 102 KUHP \nsebagaimana dimaknai saat ini, PARA PEMOHON  telah dan akan \nterus kehilangan hak konstitusional atas kepastian hukum yang a dil \nserta legitimate expectation  untuk mengetahui secara jelas sejak \nawal bagaimana negara menilai dan menentukan kelanjutan pidana mati. \ni) Bahwa kerugian konstitusional PARA PEMOHON  tidak semata-mata \ntimbul dari aktivitas akademik yang bersifat teoritis, melainka n karena \nPasal 102 KUHP merupakan hukum positif yang secara resmi \ndijadikan rujukan dalam sistem pendidikan hukum nasional yang diselenggarakan atau diakui oleh negara, sehingga kekosongan norma tersebut secara langsung mempengaruhi kewajiban akademik PARA PEMOHON  yang dinilai secara formal. \nj) Bahwa ketidakjelasan norma Pasal 102 KUHP juga merugikan PARA \nPEMOHON  dalam menjalankan hak konstitusional untuk membentuk \ndan menyampaikan pendapat hukum yang rasional dan bertanggung jawab, karena ketiadaan norma penilaian pelaksanaan pidana mati  \nselama masa percobaan memaksa PARA PEMOHON  membangun \npendapat hukum tanpa dasar normatif yang memadai. \nk) Bahwa kondisi tersebut mengaburkan standar etika dan tanggun g \njawab profesi hukum yang sejak dini ditanamkan kepada PARA \nPEMOHON  sebagai calon profesional hukum, sehingga merugikan \nhak PARA PEMOHON  untuk dibentuk sebagai subjek hukum yang \nberintegritas dalam negara hukum. \n\n 9\nl) Bahwa PARA PEMOHON  memiliki legitimate expectation sebagai \nwarga negara dan subjek hukum terdidik agar pembentuk undang-\nundang merumuskan norma pidana, terlebih yang mengatur pidana mati, secara lengkap, jelas, dan dapat diprediksi akibat hukumn ya. \nNamun, Pasal 102 KUHP telah mereduksi legitimate expectation  \ntersebut dan menempatkan PARA PEMOHON  dalam kondisi \nketidakpastian hukum yang berkelanjutan.",
+      "start_line": 189,
+      "end_line": 264
+    },
+    {
+      "heading": "8. Bahwa setelah diuraikan kerugian yang sifatnya spesifik (akt ual) maupun",
+      "slug": "8-bahwa-setelah-diuraikan-kerugian-yang-sifatnya-spesifik-akt-ual-maupun",
+      "text": "sifatnya potensial dipastikan dapat terjadi tersebut maka selan jutnya \nPARA PEMOHON akan menguraikan hubungan sebab akibat ( causal \nlink) antara kerugian dan berlakunya undang-undang yang dimohonkan \nuntuk diuji: \na) Bahwa Pasal 102 Undang-Undang Nomor 1 Tahun 2023 tentang \nKitab Undang-Undang Hukum Pidana merupakan norma delegasi yang menentukan ruang lingkup pengaturan lebih lanjut mengenai pelaksanaan pidana mati, sehingga isi dan batas norma a quo  \nsecara langsung menentukan ada atau tidaknya kepastian hukum \ndalam pengaturan mekanisme penilaian selama masa percobaan \npidana mati. \nb) Bahwa karena Pasal 102 KUHP hanya membatasi delegasi pada \nfrasa “tata cara pelaksanaan pidana mati” tanpa secara tegas mencakup pengaturan mengenai lembaga yang berwenang, kriteria penilaian, dan tata cara penilaian selama masa percoba an \npidana mati, maka sejak norma a quo  berlaku telah terjadi \nkekosongan norma yang bersifat struktural dalam sistem hukum pidana nasional. \nc) Bahwa kekosongan norma tersebut secara langsung \nmenimbulkan ketidakpastian hukum, karena tidak tersedia standar  \nhukum yang dapat digunakan untuk memahami, menjelaskan, dan mempertanggungjawabkan secara normatif bagaimana negara menilai terpenuhinya syarat selama masa percobaan pidana mati serta siapa pihak yang berwenang melakukan penilaian tersebut. \nd) Bahwa kondisi ketidakpastian hukum tersebut secara langsung \ndan aktual merugikan PARA PEMOHON , karena PARA \n\n 10\nPEMOHON  berada dalam kedudukan hukum yang secara \nberkelanjutan diwajibkan untuk mempelajari, menganalisis, dan \nmempertanggungjawabkan keberlakuan KUHP sebagai hukum positif yang berlaku, namun dihadapkan pada norma pidana yang tidak lengkap dan tidak dapat diprediksi akibat hukumnya. \ne) Bahwa sepanjang Pasal 102 KUHP tetap dimaknai secara sempit \ndan tidak mencakup kewajiban pengaturan mengenai lembaga yang berwenang, kriteria penilaian, dan tata cara penilaian sel ama \nmasa percobaan pidana mati, maka kerugian konstitusional PARA \nPEMOHON  akan terus berlangsung dan bersifat berkelanjutan, \nbaik dalam konteks kewajiban akademik PARA PEMOHON  saat \nini maupun dalam kedudukan PARA PEMOHON  sebagai subjek \nhukum yang tunduk pada KUHP; oleh karena itu, hanya melalui putusan Mahkamah Konstitusi yang memberikan pemaknaan konstitusional terhadap Pasal 102 KUHP, kerugian konstitusional  \nPARA PEMOHON  tersebut dapat dipulihkan. \nf) Bahwa kekosongan norma yang timbul akibat rumusan Pasal 102 \nKUHP tersebut bukan sekadar persoalan teknis pembentukan \nperaturan perundang-undangan atau kebijakan legislasi terbuka (open legal policy ), melainkan merupakan persoalan konstitusional \nkarena secara langsung menyangkut pemenuhan prinsip kepastian hukum yang adil sebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI 1945, terlebih dalam pengaturan pidana mati \nsebagai pidana yang paling berat dan paling represif dalam sist em \nhukum pidana Indonesia. Oleh karena itu, untuk memulihkan kerugian konstitusional PARA PEMOHON  dan memastikan \nbahwa pelaksanaan pidana mati tunduk pada standar hukum yang \njelas, objektif, dan dapat dipertanggungjawabkan, Mahkamah Konstitusi perlu memberikan pemaknaan konstitusional terhadap Pasal 102 KUHP sebagaimana dimohonkan dalam petitum permohonan a quo .",
+      "start_line": 266,
+      "end_line": 304
+    },
+    {
+      "heading": "9. Bahwa oleh karena kerugian konstitusional yang telah dijabar kan telah",
+      "slug": "9-bahwa-oleh-karena-kerugian-konstitusional-yang-telah-dijabar-kan-telah",
+      "text": "nyata dialami PARA PEMOHON , maka PARA PEMOHON  memiliki \nkedudukan hukum ( legal standing ) sebagai PEMOHON  Pengujian \n\n 11\nUndang-Undang dalam perkara a quo telah memenuhi ketentuan Pasal \n51 ayat (1) Undang-Undang Mahkamah Konstitusi beserta \npenjelasannya dan syarat kerugian konstitusional sebagaimana te rtuang \ndalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi Nomor 7 Ta hun \n2025. \nIII. ALASAN PERMOHONAN  \nA. Pasal 102 KUHP bertentangan dengan Pasal 28D ayat (1) UUD NR I 1945",
+      "start_line": 306,
+      "end_line": 316
+    },
+    {
+      "heading": "1. Bahwa Pasal 102 Undang-Undang Nomor 1 Tahun 2023 tentang Kit ab",
+      "slug": "1-bahwa-pasal-102-undang-undang-nomor-1-tahun-2023-tentang-kit-ab",
+      "text": "Undang-Undang Hukum Pidana pada pokoknya hanya menyatakan \nbahwa “ketentuan lebih lanjut mengenai tata cara pelaksanaan pi dana \nmati diatur dengan undang-undang”. Rumusan tersebut secara sistematis menunjukkan bahwa Pasal 102 KUHP bukan merupakan norma substantif yang mengatur secara langsung mengenai pelaksanaan pidana mati, melainkan norma delegasi yang menyerahkan pengaturan lebih lanjut kepada undang-undang lanjut an. \nNamun demikian, pendelegasian tersebut tidak disertai dengan penegasan mengenai ruang lingkup, arah, maupun substansi minimu m \nyang wajib diatur, sehingga sejak awal norma a quo  telah mengandung \nketidakjelasan normatif yang berdampak langsung pada kepastian hukum.",
+      "start_line": 318,
+      "end_line": 323
+    },
+    {
+      "heading": "2. Bahwa dalam konstruksi hukum pidana modern, pelaksanaan pida na",
+      "slug": "2-bahwa-dalam-konstruksi-hukum-pidana-modern-pelaksanaan-pida-na",
+      "text": "mati tidak dapat dimaknai secara sempit sebagai tindakan ekseku si fisik \nsemata, melainkan harus dipahami sebagai keseluruhan rangkaian \nproses hukum yang menentukan apakah pidana mati yang telah \ndijatuhkan oleh pengadilan benar-benar akan dilaksanakan atau t idak. \nDengan demikian, pelaksanaan pidana mati mencakup pula tahap-\ntahap sebelum eksekusi, termasuk proses evaluasi dan penentuan akhir \nterhadap pidana tersebut, karena justru pada tahap inilah negar a \nmenetapkan konsekuensi hukum paling fundamental bagi terpidana,  \nyakni menyangkut hak hidup.",
+      "start_line": 325,
+      "end_line": 333
+    },
+    {
+      "heading": "3. Bahwa karena pelaksanaan pidana mati mencakup proses penentu an",
+      "slug": "3-bahwa-karena-pelaksanaan-pidana-mati-mencakup-proses-penentu-an",
+      "text": "akhir terhadap nasib pidana tersebut, maka pengaturan mengenai pelaksanaan pidana mati secara konseptual tidak dapat dilepaska n dari \nadanya mekanisme penilaian terhadap terpidana sebelum pidana ma ti \n\n 12\ndilaksanakan. Mekanisme penilaian tersebut bukan merupakan aspe k \ntambahan atau pelengkap, melainkan bagian yang inheren dan esen sial \ndari pelaksanaan pidana mati itu sendiri. Tanpa adanya mekanism e \npenilaian yang diatur secara jelas, negara tidak memiliki dasar  hukum \nyang rasional, objektif, dan terukur untuk menentukan apakah pi dana \nmati akan direalisasikan atau tidak.",
+      "start_line": 335,
+      "end_line": 344
+    },
+    {
+      "heading": "4. Bahwa meskipun mekanisme penilaian sebelum pelaksanaan pidan a",
+      "slug": "4-bahwa-meskipun-mekanisme-penilaian-sebelum-pelaksanaan-pidan-a",
+      "text": "mati memiliki kedudukan yang sangat menentukan, Pasal 102 KUHP hanya mendelegasikan pengaturan mengenai “tata cara pelaksanaan  \npidana mati” secara umum, tanpa secara eksplisit mencakup \npengaturan mengenai lembaga yang berwenang melakukan penilaian,  \nkriteria penilaian yang harus digunakan, serta tata cara penila ian yang \nwajib ditempuh. Akibatnya, norma delegasi Pasal 102 KUHP tidak memberikan kerangka hukum yang utuh dan operasional mengenai bagaimana pelaksanaan pidana mati seharusnya dijalankan secara pasti, adil, dan dapat diprediksi oleh subjek hukum.",
+      "start_line": 346,
+      "end_line": 350
+    },
+    {
+      "heading": "5. Bahwa ketidaklengkapan norma delegasi dalam Pasal 102 KUHP",
+      "slug": "5-bahwa-ketidaklengkapan-norma-delegasi-dalam-pasal-102-kuhp",
+      "text": "tersebut menimbulkan ketidakpastian hukum yang bersifat mendasa r, \nkarena norma a quo  tidak memberikan kejelasan mengenai parameter \nhukum apa yang digunakan negara dalam menentukan terlaksana ata u \ntidaknya pidana mati. Subjek hukum yang dijatuhi pidana mati ti dak \ndapat mengetahui secara pasti ukuran hukum yang akan diterapkan  \nterhadap dirinya, baik terkait proses penilaian, pihak yang men ilai, \nmaupun tolok ukur yang digunakan. Oleh karena itu, Pasal 102 KU HP, \nsepanjang tidak dimaknai mencakup delegasi pengaturan mengenai lembaga yang berwenang, kriteria penilaian, dan tata cara penil aian \nsebelum pelaksanaan pidana mati, telah bertentangan dengan hak atas \nkepastian hukum yang adil sebagaimana dijamin dalam Pasal 28D a yat \n(1) UUD NRI 1945 dan berimplikasi langsung pada dasar petitum permohonan a quo .",
+      "start_line": 352,
+      "end_line": 362
+    },
+    {
+      "heading": "6. Bahwa ketidakpastian hukum tersebut menjadi semakin serius k arena",
+      "slug": "6-bahwa-ketidakpastian-hukum-tersebut-menjadi-semakin-serius-k-arena",
+      "text": "menyangkut pidana paling berat yang konsekuensinya bersifat fin al dan \ntidak dapat diperbaiki. Dalam konteks pidana mati, kesalahan at au \nketidakjelasan dalam mekanisme penentuan pelaksanaan pidana tid ak \n\n 13\ndapat dikoreksi setelah akibat hukumnya terjadi. Oleh karena it u, \nkeberadaan norma yang jelas dan lengkap mengenai seluruh rangka ian \npelaksanaan pidana mati merupakan prasyarat konstitusional yang  \ntidak dapat ditawar. Ketika Pasal 102 KUHP tidak menjamin kejel asan \ntersebut, maka subjek hukum ditempatkan dalam posisi yang sanga t \nrentan terhadap ketidakpastian hukum yang bersifat permanen.",
+      "start_line": 364,
+      "end_line": 374
+    },
+    {
+      "heading": "7. Bahwa dalam negara hukum, kepastian hukum tidak cukup dipenu hi",
+      "slug": "7-bahwa-dalam-negara-hukum-kepastian-hukum-tidak-cukup-dipenu-hi",
+      "text": "dengan keberadaan norma delegasi secara formal, melainkan harus  \ndiwujudkan melalui kejelasan mengenai keseluruhan mekanisme \nhukum yang menentukan akibat akhir dari suatu pidana. Kepastian  \nhukum mensyaratkan bahwa sejak awal subjek hukum dapat mengetahui bagaimana hukum akan bekerja terhadap dirinya. Dalam  \nkonteks Pasal 102 KUHP, ketiadaan pengaturan yang tegas mengena i \napakah mekanisme penilaian sebelum pelaksanaan pidana mati merupakan kewajiban hukum atau sekadar kebijakan yang bersifat opsional menyebabkan tidak adanya jaminan bahwa proses tersebut  \nakan dijalankan secara konsisten dan mengikat.",
+      "start_line": 376,
+      "end_line": 382
+    },
+    {
+      "heading": "8. Bahwa ketiadaan penegasan mengenai sifat wajib atau tidaknya",
+      "slug": "8-bahwa-ketiadaan-penegasan-mengenai-sifat-wajib-atau-tidaknya",
+      "text": "mekanisme penilaian sebelum pelaksanaan pidana mati menempatkan  \nmekanisme tersebut dalam wilayah kebijakan semata, bukan perint ah \nnorma hukum. Akibatnya, keberadaan atau ketiadaan penilaian sepenuhnya bergantung pada pilihan atau praktik yang berkembang , \nbukan pada kewajiban hukum yang dapat dituntut dan diuji. Kondi si \ndemikian bertentangan dengan prinsip kepastian hukum yang adil,  \nkarena keputusan mengenai hidup atau mati seseorang tidak boleh  \ndiletakkan pada ruang kebijakan yang tidak memiliki dasar norma tif \nyang jelas dan mengikat.",
+      "start_line": 384,
+      "end_line": 391
+    },
+    {
+      "heading": "9. Bahwa Pasal 102 KUHP juga tidak memberikan kepastian hukum",
+      "slug": "9-bahwa-pasal-102-kuhp-juga-tidak-memberikan-kepastian-hukum",
+      "text": "mengenai lembaga yang berwenang melakukan penilaian sebelum pelaksanaan pidana mati. Ketiadaan penegasan mengenai lembaga yang berwenang tersebut menimbulkan ketidakjelasan mengenai sia pa \nyang secara sah memiliki kewenangan hukum untuk menentukan atau  \nsetidaknya merekomendasikan terlaksana atau tidaknya pidana mat i. \nDalam konteks pidana paling berat, ketidakjelasan kewenangan in i \n\n 14\nmerupakan persoalan fundamental, karena keputusan yang \nmenyangkut hidup atau mati seseorang tidak dapat diserahkan pad a \nmekanisme yang tidak ditentukan secara tegas oleh hukum.",
+      "start_line": 393,
+      "end_line": 401
+    },
+    {
+      "heading": "10. Bahwa selain tidak mengatur lembaga yang berwenang, Pasal 1 02",
+      "slug": "10-bahwa-selain-tidak-mengatur-lembaga-yang-berwenang-pasal-1-02",
+      "text": "KUHP juga tidak memberikan kepastian hukum mengenai kriteria penilaian yang harus digunakan dalam menentukan pelaksanaan pidana mati. Ketiadaan kriteria penilaian yang dirumuskan secar a \nnormatif menyebabkan tidak adanya ukuran hukum yang objektif da n \nseragam dalam menilai terpidana. Akibatnya, penilaian berpotens i \ndilakukan berdasarkan pertimbangan subjektif, kebijakan interna l, atau \nstandar yang berbeda-beda, yang seluruhnya tidak dapat dipredik si oleh \nsubjek hukum sejak awal dan berimplikasi pada terlanggarnya hak  atas \nkepastian hukum yang adil sebagaimana dijamin dalam Pasal 28D a yat \n(1) UUD NRI 1945.",
+      "start_line": 403,
+      "end_line": 410
+    },
+    {
+      "heading": "11. Bahwa Pasal 102 KUHP juga tidak mendelegasikan pengaturan",
+      "slug": "11-bahwa-pasal-102-kuhp-juga-tidak-mendelegasikan-pengaturan",
+      "text": "mengenai tata cara penilaian sebelum pelaksanaan pidana mati, termasuk prosedur, tahapan, jangka waktu, serta kedudukan hasil  \npenilaian tersebut dalam proses pengambilan keputusan. Ketiadaa n \npengaturan prosedural ini menyebabkan tidak adanya kepastian mengenai bagaimana penilaian dilakukan secara sah, kapan penila ian \nharus dilaksanakan, serta bagaimana hasil penilaian tersebut digunakan secara hukum untuk menentukan terlaksana atau tidakny a \npidana mati.",
+      "start_line": 412,
+      "end_line": 416
+    },
+    {
+      "heading": "12. Bahwa ketiadaan pengaturan mengenai lembaga yang berwenang,",
+      "slug": "12-bahwa-ketiadaan-pengaturan-mengenai-lembaga-yang-berwenang",
+      "text": "kriteria penilaian, dan tata cara penilaian dalam norma delegas i Pasal \n102 KUHP secara kumulatif menimbulkan ketidakpastian hukum yang  \nbersifat sistemik. Subjek hukum tidak hanya tidak mengetahui uk uran \nhukum yang digunakan negara, tetapi juga tidak memiliki jaminan  \nbahwa proses penentuan pelaksanaan pidana mati dilakukan melalu i \nmekanisme yang sah, rasional, dan dapat diuji secara hukum. Kon disi \nini secara nyata bertentangan dengan hak atas kepastian hukum y ang \nadil sebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 418,
+      "end_line": 425
+    },
+    {
+      "heading": "13. Bahwa dalam doktrin hukum pidana dan hukum tata negara dike nal",
+      "slug": "13-bahwa-dalam-doktrin-hukum-pidana-dan-hukum-tata-negara-dike-nal",
+      "text": "prinsip lex certa  dan foreseeability of law , yang menuntut agar norma \n\n 15\nhukum, khususnya norma hukum pidana, dirumuskan secara jelas \nsehingga subjek hukum dapat memahami dan memperkirakan akibat \nhukum dari suatu ketentuan. Prinsip tersebut tidak hanya berlak u pada \nperumusan delik, tetapi juga pada pengaturan pelaksanaan pidana , \nterlebih pidana mati yang berimplikasi langsung pada hak hidup.  Norma \ndelegasi yang tidak memuat batasan substansi minimum mengenai lembaga yang berwenang, kriteria penilaian, dan tata cara penil aian \ntidak memenuhi prinsip lex certa , karena akibat hukum paling \nfundamental ditentukan melalui mekanisme yang tidak dapat dipre diksi \nsecara normatif.",
+      "start_line": 427,
+      "end_line": 438
+    },
+    {
+      "heading": "14. Bahwa Mahkamah Konstitusi dalam berbagai putusannya secara",
+      "slug": "14-bahwa-mahkamah-konstitusi-dalam-berbagai-putusannya-secara",
+      "text": "konsisten menegaskan bahwa norma undang-undang yang memuat pendelegasian pengaturan lebih lanjut tidak boleh dirumuskan se cara \nkosong atau terbuka tanpa batas, melainkan wajib secara tegas memuat arah kebijakan ( policy direction ), batasan kewenangan, dan \nsubstansi minimum pengaturan, terutama apabila norma tersebut berpotensi membatasi atau menentukan akibat hukum terhadap hak \nasasi manusia. Dalam Putusan M ahkamah Konstitusi Nomor 27/PUU-\nVII/2009, Mahkamah menegaskan bahwa pembatasan hak asasi manusia harus ditentukan secara jelas, tegas, dan tidak multita fsir oleh \nundang-undang, serta tidak boleh diserahkan sepenuhnya kepada pengaturan lanjutan. Selanjutnya, melalui Putusan Mahkamah Konstitusi Nomor 3/PUU-VIII/2010 dan Putusan Nomor 7/PUU-XII/20 14, \nMahkamah menegaskan bahwa pendelegasian yang konstitusional \nharus menunjukkan arah kebijakan yang hendak dicapai oleh pembentuk undang-undang, sehingga peraturan pelaksana hanya \nberfungsi melaksanakan kebijakan tersebut dan tidak membentuk a tau \nmenentukan sendiri norma yang bersifat esensial.",
+      "start_line": 440,
+      "end_line": 449
+    },
+    {
+      "heading": "15. Bahwa apabila standar konstitusional tersebut diterapkan te rhadap",
+      "slug": "15-bahwa-apabila-standar-konstitusional-tersebut-diterapkan-te-rhadap",
+      "text": "Pasal 102 KUHP, maka nyata bahwa norma a quo  tidak memuat arah \nkebijakan yang jelas mengenai bagaimana negara seharusnya menjalankan pelaksanaan pidana mati, apakah kebijakan tersebut diarahkan pada pelaksanaan pidana secara otomatis, pembatasan pelaksanaan melalui mekanisme penilaian, atau penundaan dengan \n\n 16\ntujuan evaluatif. Ketiadaan arah kebijakan tersebut, yang diper parah \ndengan tidak ditetapkannya lembaga yang berwenang, kriteria \npenilaian, dan tata cara penilaian, menunjukkan bahwa Pasal 102  \nKUHP menyerahkan penentuan akibat hukum paling fundamental—yakni terlaksana atau tidaknya pidana mati—ke dalam ruang pengaturan lanjutan yang terbuka dan berbasis diskresi.",
+      "start_line": 451,
+      "end_line": 458
+    },
+    {
+      "heading": "16. Bahwa norma delegasi Pasal 102 KUHP yang tidak memberikan",
+      "slug": "16-bahwa-norma-delegasi-pasal-102-kuhp-yang-tidak-memberikan",
+      "text": "batasan substansial mengenai lembaga yang berwenang, kriteria penilaian, serta tata cara penilaian sebelum pelaksanaan pidana  mati \nsecara langsung mengakibatkan tidak adanya penentuan pihak yang  \nbertanggung jawab secara hukum atas keputusan akhir pelaksanaan  \npidana mati. Ketidakjelasan ini menyebabkan mekanisme pengambil an \nkeputusan mengenai hidup atau mati seseorang tidak memiliki tit ik \npertanggungjawaban hukum yang tegas, sehingga bertentangan dengan prinsip negara hukum yang menuntut kejelasan kewenangan dan akuntabilitas.",
+      "start_line": 460,
+      "end_line": 465
+    },
+    {
+      "heading": "17. Bahwa ketiadaan pengaturan yang jelas mengenai mekanisme",
+      "slug": "17-bahwa-ketiadaan-pengaturan-yang-jelas-mengenai-mekanisme",
+      "text": "penilaian sebelum pelaksanaan pidana mati juga membuka ruang \ndiskresi yang sangat luas bagi organ negara. Diskresi tersebut tidak lagi \nbersifat teknis-administratif, melainkan menyentuh aspek paling  \nfundamental dalam hukum pidana, yaitu penentuan apakah pidana m ati \nyang telah dijatuhkan akan benar-benar dilaksanakan atau tidak.  Dalam \nkondisi demikian, hukum kehilangan fungsinya sebagai pembatas \nkekuasaan, dan berubah menjadi sekadar legitimasi bagi pengguna an \nkewenangan yang tidak terukur.",
+      "start_line": 467,
+      "end_line": 474
+    },
+    {
+      "heading": "18. Bahwa diskresi yang tidak dibatasi oleh parameter normatif yang jelas",
+      "slug": "18-bahwa-diskresi-yang-tidak-dibatasi-oleh-parameter-normatif-yang-jelas",
+      "text": "berpotensi melahirkan kekuasaan yang bersifat sewenang-wenang \n(arbitrary power ). Keputusan mengenai pelaksanaan pidana mati dapat \nditentukan berdasarkan pertimbangan kebijakan, praktik internal , atau \npreferensi institusional tertentu, bukan berdasarkan ukuran huk um yang \nobjektif dan dapat diuji. Dalam konteks pidana mati yang menyan gkut \nhak hidup, kondisi tersebut merupakan bentuk penyimpangan seriu s \ndari prinsip due process of law . \n\n 17",
+      "start_line": 476,
+      "end_line": 484
+    },
+    {
+      "heading": "19. Bahwa selain membuka ruang kesewenang-wenangan, ketiadaan",
+      "slug": "19-bahwa-selain-membuka-ruang-kesewenang-wenangan-ketiadaan",
+      "text": "standar hukum yang baku dalam Pasal 102 KUHP juga berpotensi \nmenimbulkan perlakuan yang tidak setara terhadap terpidana mati  \ndalam kondisi hukum yang serupa. Tanpa adanya kriteria dan pros edur \npenilaian yang ditentukan secara normatif, negara tidak memilik i dasar \nhukum yang rasional untuk menjamin bahwa setiap terpidana mati diperlakukan secara konsisten dan setara. Akibatnya, prinsip persamaan di hadapan hukum ( equality before the law ) tidak \nmemperoleh jaminan perlindungan yang memadai.",
+      "start_line": 486,
+      "end_line": 491
+    },
+    {
+      "heading": "20. Bahwa ketidakpastian hukum akibat ketiadaan pengaturan meka nisme",
+      "slug": "20-bahwa-ketidakpastian-hukum-akibat-ketiadaan-pengaturan-meka-nisme",
+      "text": "penilaian sebelum pelaksanaan pidana mati sebagaimana dimaksud dalam Pasal 102 KUHP bukanlah persoalan teoritis, melainkan tercermin secara nyata dalam kondisi faktual terpidana mati di Indonesia. Hingga Oktober 2025, tercatat terdapat 596 (lima rat us \nsembilan puluh enam) orang terpidana mati yang masih berada dal am \nstatus menunggu eksekusi ( death row ) di lembaga pemasyarakatan \nIndonesia. Fakta tersebut diperparah dengan kondisi bahwa sejak  tahun \n2016 tidak pernah dilaksanakan eksekusi pidana mati, sementara \npengadilan tetap menjatuhkan vonis pidana mati setiap tahunnya,  \ntermasuk 114 (seratus empat belas) vonis pidana mati sepanjang tahun",
+      "start_line": 493,
+      "end_line": 499
+    },
+    {
+      "heading": "2024. Namun demikian, terhadap ratusan terpidana mati tersebut tidak",
+      "slug": "2024-namun-demikian-terhadap-ratusan-terpidana-mati-tersebut-tidak",
+      "text": "terdapat kepastian hukum mengenai apakah telah dilakukan penila ian \nsebelum pelaksanaan pidana mati, siapa lembaga yang berwenang \nmelakukan penilaian, kriteria apa yang digunakan dalam penilaia n, serta \nbagaimana hasil penilaian tersebut menentukan apakah pidana mat i \nakan dilaksanakan, diubah, atau tidak dilaksanakan sama sekali.  \nKondisi faktual ini menunjukkan bahwa ketiadaan norma penilaian  \ndalam Pasal 102 KUHP telah menyebabkan ratusan terpidana mati berada dalam keadaan menunggu tanpa kepastian hukum yang berlarut-larut, sehingga keberadaan norma penilaian yang jelas,  terukur, \ndan mengikat secara hukum merupakan kebutuhan konstitusional ya ng \ntidak dapat dipisahkan dari pengaturan pelaksanaan pidana mati itu \nsendiri. \n\n 18",
+      "start_line": 501,
+      "end_line": 512
+    },
+    {
+      "heading": "21. Bahwa kondisi ratusan terpidana mati yang berada dalam stat us",
+      "slug": "21-bahwa-kondisi-ratusan-terpidana-mati-yang-berada-dalam-stat-us",
+      "text": "menunggu eksekusi selama bertahun-tahun tanpa kepastian mengena i \npelaksanaan pidana matinya mencerminkan fenomena yang dalam doktrin hukum pidana dan hukum HAM dikenal sebagai death row \nphenomenon . Fenomena ini merujuk pada situasi ketika terpidana mati \nharus menjalani masa tunggu yang sangat panjang dalam ketidakpastian mengenai nasib hukumnya, yang secara substansial  \nberbeda dengan pelaksanaan pidana pada umumnya karena menyangkut ancaman penghilangan hak hidup yang terus-menerus.",
+      "start_line": 514,
+      "end_line": 518
+    },
+    {
+      "heading": "22. Bahwa death row phenomenon tidak lahir semata-mata karena lamanya",
+      "slug": "22-bahwa-death-row-phenomenon-tidak-lahir-semata-mata-karena-lamanya",
+      "text": "masa tunggu, melainkan terutama disebabkan oleh ketiadaan mekanisme hukum yang jelas dan terukur untuk menilai apakah pid ana \nmati yang telah dijatuhkan akan dilaksanakan atau tidak. Dalam konteks \nIndonesia, ketiadaan norma penilaian sebelum pelaksanaan pidana  \nmati sebagaimana tercermin dalam Pasal 102 KUHP menyebabkan masa tunggu tersebut tidak memiliki batas, arah, maupun tujuan hukum \nyang pasti, sehingga ketidakpastian hukum menjadi kondisi struk tural \nyang melekat pada status terpidana mati.",
+      "start_line": 520,
+      "end_line": 525
+    },
+    {
+      "heading": "23. Bahwa dalam kondisi tersebut, terpidana mati tidak hanya me njalani",
+      "slug": "23-bahwa-dalam-kondisi-tersebut-terpidana-mati-tidak-hanya-me-njalani",
+      "text": "pidana penjara, tetapi juga berada dalam keadaan tekanan psikol ogis \ndan penderitaan hukum yang berkelanjutan akibat ketidakjelasan nasib \nhukumnya. Negara, melalui ketiadaan norma penilaian yang jelas,  \nsecara tidak langsung membiarkan situasi di mana ancaman pidana  \nmati terus menggantung tanpa mekanisme hukum yang dapat \ndiprediksi. Keadaan ini menunjukkan bahwa ketidakpastian hukum akibat Pasal 102 KUHP memiliki dampak nyata dan serius terhadap  \nperlindungan hak asasi manusia, khususnya dalam konteks pidana \npaling berat.",
+      "start_line": 527,
+      "end_line": 534
+    },
+    {
+      "heading": "24. Bahwa secara normatif, kondisi death row phenomenon tersebut",
+      "slug": "24-bahwa-secara-normatif-kondisi-death-row-phenomenon-tersebut",
+      "text": "seharusnya dapat dicegah apabila hukum memberikan kerangka penilaian yang jelas sebelum pelaksanaan pidana mati, termasuk penentuan lembaga yang berwenang, kriteria penilaian yang objek tif, \nserta prosedur dan jangka waktu penilaian yang pasti. Tanpa ada nya \nnorma penilaian tersebut, pelaksanaan pidana mati tidak berjala n dalam \n\n 19\nsuatu sistem hukum yang terstruktur, melainkan berada dalam rua ng \nketidakpastian yang bergantung pada kebijakan dan praktik semat a, \nbukan pada perintah norma hukum yang mengikat.",
+      "start_line": 536,
+      "end_line": 543
+    },
+    {
+      "heading": "25. Bahwa oleh karena itu, keberlanjutan kondisi death row phenomenon",
+      "slug": "25-bahwa-oleh-karena-itu-keberlanjutan-kondisi-death-row-phenomenon",
+      "text": "yang dialami oleh ratusan terpidana mati di Indonesia merupakan  \nkonsekuensi langsung dari ketiadaan norma penilaian dalam pengaturan pelaksanaan pidana mati. Situasi ini menegaskan bahw a \npengaturan mengenai pelaksanaan pidana mati tidak dapat dipisah kan \ndari kewajiban negara untuk menetapkan norma penilaian yang jel as, \nterukur, dan dapat diprediksi, agar status hukum terpidana mati  tidak \nberada dalam ketidakpastian yang berlarut-larut dan bertentanga n \ndengan prinsip kepastian hukum yang adil sebagaimana dijamin da lam \nPasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 545,
+      "end_line": 552
+    },
+    {
+      "heading": "26. Bahwa dalam negara hukum, setiap pembatasan atau penguranga n hak",
+      "slug": "26-bahwa-dalam-negara-hukum-setiap-pembatasan-atau-penguranga-n-hak",
+      "text": "asasi manusia, terlebih hak hidup yang bersifat fundamental, ha rus \ndiatur secara jelas melalui norma hukum yang memberikan kepasti an, \narah, dan batasan yang tegas. Pelaksanaan pidana mati, sebagai \nbentuk pembatasan paling ekstrem terhadap hak hidup, secara \nkonstitusional menuntut adanya kerangka hukum yang ketat dan terukur, termasuk norma penilaian yang menentukan apakah pidana  \nmati tersebut patut dan layak untuk dilaksanakan dalam kondisi konkret \nterpidana yang bersangkutan.",
+      "start_line": 554,
+      "end_line": 560
+    },
+    {
+      "heading": "27. Bahwa ketiadaan norma penilaian sebelum pelaksanaan pidana mati",
+      "slug": "27-bahwa-ketiadaan-norma-penilaian-sebelum-pelaksanaan-pidana-mati",
+      "text": "dalam Pasal 102 KUHP menyebabkan negara tidak memiliki instrume n \nhukum yang sah untuk menilai perkembangan perilaku terpidana, kemungkinan rehabilitasi, serta faktor-faktor kemanusiaan lain yang \nrelevan setelah putusan pengadilan berkekuatan hukum tetap. Tan pa \nnorma penilaian tersebut, pelaksanaan pidana mati terlepas dari  prinsip \nrasionalitas dan proporsionalitas, karena negara tidak lagi mel akukan \npenilaian berbasis hukum terhadap kondisi aktual terpidana.",
+      "start_line": 562,
+      "end_line": 567
+    },
+    {
+      "heading": "28. Bahwa secara konseptual, norma penilaian dalam pelaksanaan pidana",
+      "slug": "28-bahwa-secara-konseptual-norma-penilaian-dalam-pelaksanaan-pidana",
+      "text": "mati berfungsi sebagai jembatan antara putusan pengadilan dan tindakan eksekusi oleh negara. Norma tersebut memastikan bahwa pelaksanaan pidana mati tidak dijalankan secara otomatis dan me kanis, \n\n 20\nmelainkan melalui proses hukum lanjutan yang terstruktur, trans paran, \ndan dapat dipertanggungjawabkan. Ketiadaan norma penilaian \nmenjadikan pelaksanaan pidana mati sebagai tindakan yang terput us \ndari sistem due process of law  secara utuh.",
+      "start_line": 569,
+      "end_line": 575
+    },
+    {
+      "heading": "29. Bahwa tanpa adanya norma penilaian yang jelas, terukur, dan mengikat,",
+      "slug": "29-bahwa-tanpa-adanya-norma-penilaian-yang-jelas-terukur-dan-mengikat",
+      "text": "pelaksanaan pidana mati berpotensi dilakukan tanpa standar huku m \nyang sama bagi setiap terpidana. Negara tidak memiliki dasar no rmatif \nuntuk memastikan bahwa keputusan mengenai pelaksanaan atau tidaknya pidana mati diambil berdasarkan ukuran hukum yang \nkonsisten, sehingga membuka ruang ketidaksetaraan, ketidakpasti an, \ndan penyimpangan dari prinsip kepastian hukum yang adil.",
+      "start_line": 577,
+      "end_line": 581
+    },
+    {
+      "heading": "30. Bahwa oleh karena itu, ketiadaan norma penilaian dalam peng aturan",
+      "slug": "30-bahwa-oleh-karena-itu-ketiadaan-norma-penilaian-dalam-peng-aturan",
+      "text": "pelaksanaan pidana mati sebagaimana tercermin dalam Pasal 102 KUHP menimbulkan problematika konstitusional yang bersifat mendasar, karena hukum tidak menyediakan mekanisme yang memadai untuk mengendalikan penggunaan kekuasaan negara dalam menentukan pelaksanaan pidana mati. Kondisi ini menegaskan \nperlunya pengaturan norma penilaian sebagai bagian inheren dari  \npelaksanaan pidana mati, agar seluruh proses penentuan tersebut  \nberada dalam kerangka hukum yang pasti, rasional, dan dapat diprediksi. \nB. Pasal 102 KUHP bertentangan dengan Pasal 1 ayat (3) UUD NRI 1945",
+      "start_line": 583,
+      "end_line": 587
+    },
+    {
+      "heading": "1. Bahwa Pasal 1 ayat (3) UUD NRI 1945 menegaskan bahwa Indones ia",
+      "slug": "1-bahwa-pasal-1-ayat-3-uud-nri-1945-menegaskan-bahwa-indones-ia",
+      "text": "adalah negara hukum ( rechtstaat ), yang mengandung makna bahwa \nseluruh tindakan dan penggunaan kewenangan oleh negara harus didasarkan pada hukum yang jelas, rasional, dan dapat \ndipertanggungjawabkan. Prinsip negara hukum mensyaratkan adanya  \nsupremasi hukum, pembatasan kekuasaan negara, serta jaminan perlindungan hak asasi manusia melalui mekanisme hukum yang pas ti \ndan terukur.",
+      "start_line": 589,
+      "end_line": 593
+    },
+    {
+      "heading": "2. Bahwa dalam negara hukum, hukum berfungsi sebagai instrumen",
+      "slug": "2-bahwa-dalam-negara-hukum-hukum-berfungsi-sebagai-instrumen",
+      "text": "utama untuk mengendalikan dan membatasi penggunaan kekuasaan negara, khususnya ketika kekuasaan tersebut berdampak langsung terhadap hak-hak fundamental warga negara. Oleh karena itu, set iap \n\n 21\nkewenangan negara yang berpotensi menghilangkan hak hidup \nseseorang harus diatur secara ketat melalui norma hukum yang \nmemberikan batasan, prosedur, dan parameter yang jelas.",
+      "start_line": 595,
+      "end_line": 600
+    },
+    {
+      "heading": "3. Bahwa pelaksanaan pidana mati merupakan bentuk penggunaan",
+      "slug": "3-bahwa-pelaksanaan-pidana-mati-merupakan-bentuk-penggunaan",
+      "text": "kekuasaan negara yang paling ekstrem, karena berimplikasi langs ung \npada penghilangan hak hidup. Dalam kerangka negara hukum, pelaksanaan pidana mati tidak dapat diserahkan pada mekanisme y ang \ntidak diatur secara jelas oleh undang-undang, apalagi melalui n orma \ndelegasi yang tidak memuat batasan substansi minimum mengenai \nbagaimana kewenangan tersebut harus dijalankan.",
+      "start_line": 602,
+      "end_line": 606
+    },
+    {
+      "heading": "4. Bahwa Pasal 102 KUHP yang hanya menyerahkan pengaturan “tata",
+      "slug": "4-bahwa-pasal-102-kuhp-yang-hanya-menyerahkan-pengaturan-tata",
+      "text": "cara pelaksanaan pidana mati” kepada undang-undang tanpa menetapkan arah, batasan, dan substansi minimum pengaturan tersebut telah menyebabkan kewenangan negara dalam menentukan pelaksanaan pidana mati tidak berada sepenuhnya dalam kendali hukum. Ketiadaan norma penilaian sebelum pelaksanaan pidana mat i \nmenjadikan penggunaan kekuasaan negara bergantung pada kebijaka n \ndan praktik semata, bukan pada perintah norma hukum yang mengik at.",
+      "start_line": 608,
+      "end_line": 610
+    },
+    {
+      "heading": "5. Bahwa kondisi tersebut bertentangan dengan prinsip negara hu kum",
+      "slug": "5-bahwa-kondisi-tersebut-bertentangan-dengan-prinsip-negara-hu-kum",
+      "text": "sebagaimana dijamin dalam Pasal 1 ayat (3) UUD NRI 1945, karena  \nhukum gagal menjalankan fungsinya sebagai pembatas kekuasaan negara. Tanpa norma penilaian yang jelas, terukur, dan mengikat , \npelaksanaan pidana mati berpotensi dijalankan melalui kekuasaan  \ndiskresioner yang luas dan tidak terkontrol, sehingga membuka r uang \nkesewenang-wenangan dalam penggunaan kewenangan negara.",
+      "start_line": 612,
+      "end_line": 616
+    },
+    {
+      "heading": "6. Bahwa salah satu ciri esensial negara hukum adalah tidak bol ehnya",
+      "slug": "6-bahwa-salah-satu-ciri-esensial-negara-hukum-adalah-tidak-bol-ehnya",
+      "text": "kekuasaan negara dijalankan semata-mata berdasarkan kebijakan \n(policy based power ), melainkan harus didasarkan pada hukum ( rule \nbased power ). Dalam konteks pelaksanaan pidana mati, hukum harus \nberfungsi sebagai pedoman yang mengikat bagi negara dalam menentukan apakah kewenangan untuk melaksanakan pidana mati akan digunakan atau tidak, serta bagaimana kewenangan tersebut dijalankan. Ketika Pasal 102 KUHP tidak memuat norma penilaian yang \n\n 22\njelas, maka pelaksanaan pidana mati bergerak dari ranah hukum k e \nranah kebijakan, yang bertentangan dengan prinsip negara hukum.",
+      "start_line": 618,
+      "end_line": 625
+    },
+    {
+      "heading": "7. Bahwa ketiadaan norma penilaian dalam Pasal 102 KUHP telah",
+      "slug": "7-bahwa-ketiadaan-norma-penilaian-dalam-pasal-102-kuhp-telah",
+      "text": "mengakibatkan terjadinya pergeseran kewenangan yang bersifat konstitusional menjadi kewenangan yang bersifat diskresioner. D iskresi \ntersebut tidak lagi terbatas pada aspek teknis administratif, m elainkan \nmenyentuh substansi paling fundamental, yaitu penentuan hidup a tau \nmatinya seseorang. Dalam negara hukum, diskresi semacam ini han ya \ndapat dibenarkan apabila dibatasi secara tegas oleh norma hukum  yang \njelas, terukur, dan dapat diuji, yang dalam hal ini tidak ditem ukan dalam \nrumusan Pasal 102 KUHP.",
+      "start_line": 627,
+      "end_line": 633
+    },
+    {
+      "heading": "8. Bahwa diskresi yang tidak dibatasi oleh norma hukum yang jel as",
+      "slug": "8-bahwa-diskresi-yang-tidak-dibatasi-oleh-norma-hukum-yang-jel-as",
+      "text": "berpotensi melahirkan kekuasaan yang bersifat sewenang-wenang (arbitrary power ). Negara hukum secara tegas menolak penggunaan \nkekuasaan yang arbitrer, karena kekuasaan tersebut tidak tunduk  pada \nstandar hukum yang objektif dan tidak dapat dipertanggungjawabk an \nsecara normatif. Dengan tidak adanya norma penilaian yang mengi kat \ndalam Pasal 102 KUHP, tidak terdapat jaminan bahwa keputusan \nmengenai pelaksanaan pidana mati diambil berdasarkan standar hu kum \nyang sama, konsisten, dan rasional.",
+      "start_line": 635,
+      "end_line": 641
+    },
+    {
+      "heading": "9. Bahwa prinsip negara hukum juga mensyaratkan adanya mekanism e",
+      "slug": "9-bahwa-prinsip-negara-hukum-juga-mensyaratkan-adanya-mekanism-e",
+      "text": "pengawasan dan pengujian terhadap penggunaan kewenangan negara. Pengawasan tersebut hanya dapat dilakukan secara efekti f \napabila kewenangan negara dijalankan berdasarkan norma hukum \nyang jelas. Dalam hal Pasal 102 KUHP tidak menetapkan norma penilaian sebelum pelaksanaan pidana mati, maka tidak tersedia \nstandar hukum yang dapat digunakan untuk menilai apakah negara \ntelah menggunakan kewenangannya secara sah atau justru melampau i \nbatas kewenangan yang dibenarkan oleh hukum.",
+      "start_line": 643,
+      "end_line": 648
+    },
+    {
+      "heading": "10. Bahwa akibat ketiadaan norma penilaian dalam Pasal 102 KUHP ,",
+      "slug": "10-bahwa-akibat-ketiadaan-norma-penilaian-dalam-pasal-102-kuhp",
+      "text": "pelaksanaan pidana mati tidak sepenuhnya berada dalam kerangka government under law , melainkan berpotensi menjadi government by \ndiscretion . Kondisi tersebut bertentangan secara langsung dengan \nPasal 1 ayat (3) UUD NRI 1945, karena negara hukum mensyaratkan  \n\n 23\nbahwa setiap penggunaan kekuasaan negara terlebih kekuasaan yan g \nberimplikasi pada penghilangan hak hidup harus sepenuhnya tundu k \npada hukum, bukan pada kebijakan atau praktik yang tidak memili ki \ndasar normatif yang jelas.",
+      "start_line": 650,
+      "end_line": 658
+    },
+    {
+      "heading": "11. Bahwa dalam doktrin negara hukum klasik, baik dalam konsep rule of",
+      "slug": "11-bahwa-dalam-doktrin-negara-hukum-klasik-baik-dalam-konsep-rule-of",
+      "text": "law (A.V. Dicey) maupun rechtsstaat  (Friedrich Julius Stahl), salah satu \nelemen utama negara hukum adalah adanya pembatasan kekuasaan negara melalui hukum tertulis yang jelas dan mengikat. Pembatas an \ntersebut bertujuan untuk mencegah negara menggunakan \nkewenangannya secara sewenang-wenang, khususnya ketika \nkewenangan tersebut berdampak langsung pada hak-hak dasar warga  \nnegara. Dalam konteks ini, Pasal 102 KUHP tidak menunjukkan ada nya \npembatasan normatif yang memadai terhadap kewenangan negara dalam melaksanakan pidana mati.",
+      "start_line": 660,
+      "end_line": 666
+    },
+    {
+      "heading": "12. Bahwa konsep negara hukum modern juga menuntut adanya legal",
+      "slug": "12-bahwa-konsep-negara-hukum-modern-juga-menuntut-adanya-legal",
+      "text": "certainty dan due process of law  sebagai satu kesatuan yang tidak \nterpisahkan. Kepastian hukum tidak hanya berkaitan dengan kejel asan \nrumusan norma, tetapi juga dengan kejelasan mekanisme penilaian  dan \npengambilan keputusan oleh negara. Ketiadaan norma penilaian da lam \nPasal 102 KUHP menyebabkan proses penentuan pelaksanaan pidana mati tidak memiliki kerangka due process  yang dapat diprediksi dan diuji \nsecara hukum.",
+      "start_line": 668,
+      "end_line": 673
+    },
+    {
+      "heading": "13. Bahwa dalam kerangka due process of law , hukum harus menyediakan",
+      "slug": "13-bahwa-dalam-kerangka-due-process-of-law-hukum-harus-menyediakan",
+      "text": "standar objektif yang dapat digunakan untuk menilai apakah suat u \ntindakan negara telah dilakukan secara adil, proporsional, dan rasional. \nTanpa adanya norma penilaian yang ditentukan oleh undang-undang , \nkeputusan mengenai pelaksanaan pidana mati tidak memiliki ukura n \nhukum yang jelas untuk menilai aspek keadilan dan proporsionalitasnya. Kondisi ini menunjukkan bahwa Pasal 102 KU HP \nbelum sepenuhnya mencerminkan prinsip due process of law  \nsebagaimana dituntut dalam negara hukum.",
+      "start_line": 675,
+      "end_line": 681
+    },
+    {
+      "heading": "14. Bahwa negara hukum juga mensyaratkan adanya kesetaraan di",
+      "slug": "14-bahwa-negara-hukum-juga-mensyaratkan-adanya-kesetaraan-di",
+      "text": "hadapan hukum ( equality before the law ), termasuk dalam pelaksanaan \npidana. Ketika tidak terdapat norma penilaian yang mengikat, te rdapat \n\n 24\npotensi bahwa pelaksanaan pidana mati terhadap terpidana terten tu \ndilakukan dengan standar yang berbeda dengan terpidana lainnya,  \nmeskipun berada dalam kondisi hukum yang serupa. Ketidaksamaan standar tersebut bertentangan dengan prinsip persamaan di hadap an \nhukum yang merupakan bagian integral dari Pasal 1 ayat (3) UUD NRI \n1945.",
+      "start_line": 683,
+      "end_line": 691
+    },
+    {
+      "heading": "15. Bahwa dengan demikian, Pasal 102 KUHP tidak hanya bermasala h dari",
+      "slug": "15-bahwa-dengan-demikian-pasal-102-kuhp-tidak-hanya-bermasala-h-dari",
+      "text": "sisi teknis pengaturan pelaksanaan pidana mati, tetapi juga sec ara \nkonseptual bertentangan dengan prinsip-prinsip fundamental nega ra \nhukum. Ketiadaan norma penilaian sebelum pelaksanaan pidana mat i \nmenunjukkan bahwa hukum belum berfungsi secara optimal sebagai instrumen pembatas kekuasaan negara, penjaga kepastian hukum, d an \npenjamin proses hukum yang adil, sebagaimana dikehendaki oleh P asal \n1 ayat (3) UUD NRI 1945.",
+      "start_line": 693,
+      "end_line": 698
+    },
+    {
+      "heading": "di bidang hukum pidana, pelaksanaan pidana mati merupakan bentu k",
+      "slug": "di-bidang-hukum-pidana-pelaksanaan-pidana-mati-merupakan-bentu-k",
+      "text": "penggunaan kekuasaan negara yang paling ekstrem karena \nmenyangkut penghilangan hak hidup secara permanen. Oleh karena itu, \ndalam negara hukum, setiap tahapan yang menentukan pelaksanaan pidana mati wajib berada sepenuhnya di bawah kendali hukum ( under \nthe law ), bukan semata-mata berada dalam ruang kebijakan atau \ndiskresi administratif. Ketiadaan norma penilaian dalam Pasal 1 02 \nKUHP menunjukkan bahwa pengendalian hukum terhadap kekuasaan \nnegara tersebut belum dirumuskan secara memadai.",
+      "start_line": 701,
+      "end_line": 707
+    },
+    {
+      "heading": "17. Bahwa tanpa norma penilaian yang diatur secara eksplisit da lam",
+      "slug": "17-bahwa-tanpa-norma-penilaian-yang-diatur-secara-eksplisit-da-lam",
+      "text": "undang-undang, kekuasaan negara dalam menentukan terlaksana ata u \ntidaknya pidana mati berpotensi bergeser dari rule of law  menuju rule by \ndiscretion . Dalam kondisi demikian, hukum tidak lagi menjadi instrumen \nutama yang mengarahkan dan membatasi kekuasaan, melainkan sekadar menjadi legitimasi formal bagi keputusan yang pada haki katnya \nditentukan di luar parameter hukum yang jelas. Pergeseran ini bertentangan secara prinsipil dengan konsepsi negara hukum sebagaimana dimaksud Pasal 1 ayat (3) UUD NRI 1945. \n\n 25",
+      "start_line": 709,
+      "end_line": 715
+    },
+    {
+      "heading": "18. Bahwa doktrin negara hukum menolak keberadaan kekuasaan yan g",
+      "slug": "18-bahwa-doktrin-negara-hukum-menolak-keberadaan-kekuasaan-yan-g",
+      "text": "bersifat absolut dan tidak terkontrol, terlebih dalam ranah huk um pidana. \nKekuasaan untuk menentukan hidup atau mati seseorang tidak dapa t \ndilepaskan dari standar hukum yang ketat, terukur, dan dapat di uji. \nKetika Pasal 102 KUHP tidak memuat atau setidaknya mewajibkan adanya norma penilaian yang jelas, maka mekanisme pengawasan terhadap penggunaan kekuasaan negara menjadi lemah, sehingga membuka ruang terjadinya tindakan yang bersifat arbitrer.",
+      "start_line": 717,
+      "end_line": 720
+    },
+    {
+      "heading": "19. Bahwa dalam perspektif constitutionalism , hukum harus berfungsi",
+      "slug": "19-bahwa-dalam-perspektif-constitutionalism-hukum-harus-berfungsi",
+      "text": "sebagai alat untuk menjinakkan kekuasaan ( taming power ), bukan \nsebaliknya. Norma yang membiarkan aspek paling menentukan dari pidana mati—yakni penilaian sebelum pelaksanaan—diatur secara terbuka tanpa batasan substansi minimum, pada hakikatnya gagal menjalankan fungsi konstitusional hukum tersebut. Akibatnya, pr insip \nsupremasi hukum sebagai ciri utama negara hukum tidak terwujud secara utuh dalam pengaturan Pasal 102 KUHP.",
+      "start_line": 722,
+      "end_line": 724
+    },
+    {
+      "heading": "20. Bahwa oleh karena itu, ketiadaan norma penilaian sebelum",
+      "slug": "20-bahwa-oleh-karena-itu-ketiadaan-norma-penilaian-sebelum",
+      "text": "pelaksanaan pidana mati dalam Pasal 102 KUHP menegaskan adanya \nmasalah struktural dalam pemenuhan prinsip negara hukum. Norma a \nquo belum memastikan bahwa seluruh penggunaan kekuasaan negara \ndalam pelaksanaan pidana mati benar-benar tunduk pada hukum yan g \njelas, rasional, dan dapat dipertanggungjawabkan. Kondisi ini menunjukkan adanya pertentangan antara Pasal 102 KUHP dengan \nPasal 1 ayat (3) UUD NRI 1945, sejauh norma tersebut tidak dima knai \nmewajibkan pengaturan norma penilaian sebagai bagian integral d ari \npelaksanaan pidana mati.",
+      "start_line": 726,
+      "end_line": 733
+    },
+    {
+      "heading": "21. Bahwa dalam praktik ketatanegaraan dan penegakan hukum pida na di",
+      "slug": "21-bahwa-dalam-praktik-ketatanegaraan-dan-penegakan-hukum-pida-na-di",
+      "text": "Indonesia, pelaksanaan pidana mati tidak selalu berjalan dengan  pola \ndan standar yang konsisten. Terdapat terpidana mati yang menung gu \neksekusi dalam jangka waktu yang sangat panjang, sementara terhadap terpidana lain eksekusi dilakukan dalam waktu yang rel atif \nlebih singkat. Perbedaan tersebut tidak disertai dengan penjela san \nnormatif yang jelas mengenai dasar hukum, parameter penilaian, \n\n 26\nmaupun mekanisme pengambilan keputusan yang digunakan negara \ndalam menentukan waktu dan kepastian pelaksanaan pidana mati.",
+      "start_line": 735,
+      "end_line": 743
+    },
+    {
+      "heading": "22. Bahwa kondisi tersebut menunjukkan adanya ruang kebijakan y ang",
+      "slug": "22-bahwa-kondisi-tersebut-menunjukkan-adanya-ruang-kebijakan-y-ang",
+      "text": "sangat luas dalam pelaksanaan pidana mati, yang pada praktiknya  tidak \nsepenuhnya dikendalikan oleh norma hukum yang tegas. Ketika perbedaan perlakuan terhadap terpidana mati tidak didasarkan pa da \nnorma penilaian yang ditentukan oleh undang-undang, maka perbed aan \ntersebut berpotensi mencerminkan penggunaan diskresi yang tidak  \nterukur. Dalam negara hukum, diskresi yang tidak dibatasi oleh hukum \njustru menjadi indikator lemahnya supremasi hukum.",
+      "start_line": 745,
+      "end_line": 750
+    },
+    {
+      "heading": "23. Bahwa ketiadaan norma penilaian juga mengakibatkan tidak ad anya",
+      "slug": "23-bahwa-ketiadaan-norma-penilaian-juga-mengakibatkan-tidak-ad-anya",
+      "text": "alat uji hukum untuk menilai apakah tindakan negara dalam menun da \natau melaksanakan pidana mati telah dilakukan secara sah dan proporsional. Tanpa standar hukum yang jelas, tindakan negara tersebut sulit, bahkan tidak mungkin, untuk diuji secara objekt if melalui \nmekanisme pengawasan hukum. Akibatnya, pelaksanaan pidana mati berada dalam wilayah yang relatif kebal dari kontrol hukum, yan g \nbertentangan dengan prinsip akuntabilitas dalam negara hukum.",
+      "start_line": 752,
+      "end_line": 755
+    },
+    {
+      "heading": "24. Bahwa risiko penyalahgunaan kewenangan ( abuse of power ) menjadi",
+      "slug": "24-bahwa-risiko-penyalahgunaan-kewenangan-abuse-of-power-menjadi",
+      "text": "semakin nyata ketika keputusan mengenai pelaksanaan pidana mati  \ntidak dibingkai oleh norma penilaian yang mengikat. Keputusan y ang \nmenyangkut hidup atau mati seseorang dapat dipengaruhi oleh fak tor-\nfaktor di luar hukum, seperti pertimbangan kebijakan sesaat, te kanan \npolitik, atau praktik administrat if internal yang tidak transpa ran. Dalam \nnegara hukum, kondisi semacam ini tidak dapat dibenarkan, karen a \nkekuasaan negara seharusnya selalu dapat dipertanggungjawabkan \nsecara hukum.",
+      "start_line": 757,
+      "end_line": 764
+    },
+    {
+      "heading": "25. Bahwa oleh karena itu, keberadaan norma penilaian sebelum",
+      "slug": "25-bahwa-oleh-karena-itu-keberadaan-norma-penilaian-sebelum",
+      "text": "pelaksanaan pidana mati merupakan elemen esensial untuk memastikan bahwa penggunaan kekuasaan negara tetap berada dalam  \nkoridor negara hukum. Tanpa norma penilaian yang jelas, terukur , dan \nmengikat, Pasal 102 KUHP tidak mampu menjamin bahwa pelaksanaan  \npidana mati dilaksanakan secara konsisten, akuntabel, dan bebas  dari \npotensi kesewenang-wenangan. Kondisi ini semakin menegaskan \n\n 27\npertentangan antara Pasal 102 KUHP dengan prinsip negara hukum \nsebagaimana diamanatkan Pasal 1 ayat (3) UUD NRI 1945.",
+      "start_line": 766,
+      "end_line": 774
+    },
+    {
+      "heading": "26. Bahwa dalam negara hukum sebagaimana dimaksud Pasal 1 ayat (3)",
+      "slug": "26-bahwa-dalam-negara-hukum-sebagaimana-dimaksud-pasal-1-ayat-3",
+      "text": "UUD NRI 1945, norma delegasi tidak dapat dipahami sebagai pelimpahan kekuasaan tanpa batas, melainkan harus ditempatkan sebagai instrumen hukum yang tetap tunduk pada prinsip pembatas an \nkekuasaan negara. Norma delegasi yang tidak menetapkan kerangka  \nnormatif minimum mengenai substansi yang didelegasikan pada hakikatnya bukan sekadar norma yang belum lengkap, melainkan \nnorma yang mengandung cacat struktural karena membiarkan \nkekuasaan negara bergerak tanpa kendali hukum yang memadai.",
+      "start_line": 776,
+      "end_line": 780
+    },
+    {
+      "heading": "27. Bahwa Pasal 102 KUHP, dengan menyerahkan penilaian pelaksan aan",
+      "slug": "27-bahwa-pasal-102-kuhp-dengan-menyerahkan-penilaian-pelaksan-aan",
+      "text": "pidana mati kepada pengaturan lebih lanjut tanpa menentukan lem baga \nyang berwenang, kriteria penilaian, dan prosedur penilaian seca ra \nimperatif, telah menggeser pusat pengendalian dari hukum ke kebijakan. Dalam konstruksi demikian, hukum tidak lagi berfungs i \nsebagai pembatas kekuasaan, melainkan sekadar membuka ruang bag i \nkekuasaan untuk menentukan sendiri ukuran dan prosedur yang \nmengikat subjek hukum. Kondisi ini bertentangan dengan esensi n egara \nhukum yang menempatkan hukum sebagai pengendali utama setiap tindakan negara.",
+      "start_line": 782,
+      "end_line": 788
+    },
+    {
+      "heading": "28. Bahwa oleh karena itu, persoalan konstitusional Pasal 102 K UHP tidak",
+      "slug": "28-bahwa-oleh-karena-itu-persoalan-konstitusional-pasal-102-k-uhp-tidak",
+      "text": "terletak semata-mata pada belum terbentuknya undang-undang \npelaksana, melainkan pada ketiadaan desain normatif dasar dalam  \nnorma a quo  itu sendiri. Selama Pasal 102 KUHP tidak dimaknai secara \nkonstitusional sebagai delegasi yang secara imperatif mencakup norma \npenilaian pelaksanaan pidana mati, maka norma tersebut mengandu ng \ncacat yang bertentangan dengan prinsip negara hukum dan membuka  \nruang bagi penggunaan kekuasaan negara yang tidak sepenuhnya tunduk pada hukum.",
+      "start_line": 790,
+      "end_line": 796
+    },
+    {
+      "heading": "29. Bahwa dalam prinsip negara hukum sebagaimana ditegaskan Pas al 1",
+      "slug": "29-bahwa-dalam-prinsip-negara-hukum-sebagaimana-ditegaskan-pas-al-1",
+      "text": "ayat (3) UUD NRI 1945, setiap penggunaan kekuasaan negara yang menentukan akibat hukum paling fundamental dan bersifat final h arus \nberada di bawah pengendalian hukum dan pengawasan yudisial yang  \n\n 28\nefektif. Pengendalian yudisial tersebut hanya dapat dijalankan secara \nbermakna apabila hukum menetapkan secara jelas lembaga yang \nberwenang, kriteria penilaian, serta prosedur yang wajib ditemp uh \ndalam pelaksanaan pidana.",
+      "start_line": 798,
+      "end_line": 805
+    },
+    {
+      "heading": "30. Bahwa dengan tidak menetapkan norma penilaian pelaksanaan p idana",
+      "slug": "30-bahwa-dengan-tidak-menetapkan-norma-penilaian-pelaksanaan-p-idana",
+      "text": "mati secara eksplisit dalam Pasal 102 KUHP, negara pada hakikat nya \nmemindahkan keputusan yang seharusnya berada dalam ranah pengendalian yudisial ke dalam ruang kebijakan administratif at au \neksekutif. Pergeseran tersebut menimbulkan ketidakseimbangan re lasi \nantara hukum dan kekuasaan, karena keputusan mengenai \npelaksanaan pidana mati tidak lagi sepenuhnya tunduk pada mekanisme hukum yang dapat diuji secara yudisial, melainkan bergantung pada kebijakan yang tidak selalu memiliki standar hu kum \nyang mengikat.",
+      "start_line": 807,
+      "end_line": 812
+    },
+    {
+      "heading": "31. Bahwa kondisi demikian bertentangan dengan prinsip negara h ukum",
+      "slug": "31-bahwa-kondisi-demikian-bertentangan-dengan-prinsip-negara-h-ukum",
+      "text": "yang menuntut supremasi hukum atas kekuasaan, karena tanpa norm a \npenilaian yang jelas dan mengikat, pengawasan yudisial kehilang an \nobjek normatif yang dapat diuji. Oleh karena itu, untuk menjaga  \nkonsistensi Pasal 102 KUHP dengan prinsip negara hukum, norma a \nquo harus dimaknai secara konstitusional sebagai delegasi yang sec ara \nimperatif mencakup norma penilaian pelaksanaan pidana mati, sehingga setiap keputusan mengenai pelaksanaan pidana tersebut tetap berada dalam koridor hukum dan pengendalian yudisial yang  \nefektif. \nIV. PETITUM  \nBahwa dari seluruh dalil-dalil yang diuraikan diatas dan bukti- bukti terlampir, dengan \nini PARA PEMOHON  mohon kepada Yang Mulia Majelis Hakim Mahkamah \nKonstitusi untuk kiranya memberikan putusan sebagai berikut:",
+      "start_line": 814,
+      "end_line": 824
+    },
+    {
+      "heading": "1. Menerima dan mengabulkan permohonan PARA PEMOHON u n t u k",
+      "slug": "1-menerima-dan-mengabulkan-permohonan-para-pemohon-u-n-t-u-k",
+      "text": "seluruhnya;",
+      "start_line": 826,
+      "end_line": 826
+    },
+    {
+      "heading": "2. Menyatakan Pasal 102 Undang-Undang Nomor 1 Tahun 2023 tentan g Kitab",
+      "slug": "2-menyatakan-pasal-102-undang-undang-nomor-1-tahun-2023-tentan-g-kitab",
+      "text": "Undang-Undang Hukum Pidana [Lembaran Negara Republik Indonesia \nTahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia  \nNomor 6842] bertentangan dengan Undang-Undang Dasar Negara Repu blik \n\n 29\nIndonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengika t \nsepanjang tidak dimaknai: \n“Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana m ati diatur \ndengan Undang-Undang yang sekurang-kurangnya memuat pengaturan \nmengenai indikator penilaian dan lembaga yang berwenang menilai  dalam \nmasa percobaan pidana mati”;",
+      "start_line": 828,
+      "end_line": 838
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya.  \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain  mohon putusan \nyang seadil-adilnya ( ex aequo et bono ).  \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 1 8  \nsebagai berikut:",
+      "start_line": 840,
+      "end_line": 845
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 1 Tahun 2023 tentan g",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-1-tahun-2023-tentan-g",
+      "text": "Kitab Undang-Undang Hukum Pidana;",
+      "start_line": 847,
+      "end_line": 847
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang–Undang Dasar Negara Republik",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945;",
+      "start_line": 849,
+      "end_line": 849
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ve ndy",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-ve-ndy",
+      "text": "Setiawan;",
+      "start_line": 851,
+      "end_line": 851
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama No vita",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-no-vita",
+      "text": "Ayu Fitriani;",
+      "start_line": 853,
+      "end_line": 853
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama So fia",
+      "slug": "5-bukti-p-5-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-so-fia",
+      "text": "Arfind Putri;",
+      "start_line": 855,
+      "end_line": 855
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama",
+      "slug": "6-bukti-p-6-fotokopi-kartu-tanda-penduduk-ktp-atas-nama",
+      "text": "Pangestu Sarah Hapsari;",
+      "start_line": 857,
+      "end_line": 857
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Au lia",
+      "slug": "7-bukti-p-7-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-au-lia",
+      "text": "Ananta Setiawan;",
+      "start_line": 859,
+      "end_line": 859
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Lo la",
+      "slug": "8-bukti-p-8-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-lo-la",
+      "text": "Pebiana (bukti tidak diperlukan lagi menurut para \nPemohon);",
+      "start_line": 861,
+      "end_line": 862
+    },
+    {
+      "heading": "9. Butki P-9 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ze rlina",
+      "slug": "9-butki-p-9-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-ze-rlina",
+      "text": "Keyla Maryam;",
+      "start_line": 864,
+      "end_line": 864
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Iis",
+      "slug": "10-bukti-p-10-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-iis",
+      "text": "Rahmawati;",
+      "start_line": 866,
+      "end_line": 866
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Vendy",
+      "slug": "11-bukti-p-11-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-vendy",
+      "text": "Setiawan;",
+      "start_line": 868,
+      "end_line": 868
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Novita",
+      "slug": "12-bukti-p-12-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-novita",
+      "text": "Ayu Fitriani;",
+      "start_line": 870,
+      "end_line": 870
+    },
+    {
+      "heading": "13. Bukti P-13 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Sofia",
+      "slug": "13-bukti-p-13-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-sofia",
+      "text": "Arfind Putri; \n\n 30",
+      "start_line": 872,
+      "end_line": 874
+    },
+    {
+      "heading": "14. Bukti P-14 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama",
+      "slug": "14-bukti-p-14-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama",
+      "text": "Pangestu Sarah Hapsari;",
+      "start_line": 876,
+      "end_line": 876
+    },
+    {
+      "heading": "15. Bukti P-15 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Aulia",
+      "slug": "15-bukti-p-15-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-aulia",
+      "text": "Ananta Setiawan;",
+      "start_line": 878,
+      "end_line": 878
+    },
+    {
+      "heading": "16. Bukti P-16 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Lola",
+      "slug": "16-bukti-p-16-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-lola",
+      "text": "Pebiana (bukti tidak diperlukan lagi menurut para Pemohon);",
+      "start_line": 880,
+      "end_line": 880
+    },
+    {
+      "heading": "17. Bukti P-17 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama",
+      "slug": "17-bukti-p-17-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama",
+      "text": "Zerlina Keyla Maryam;",
+      "start_line": 882,
+      "end_line": 882
+    },
+    {
+      "heading": "18. Bukti P-18 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama I i s",
+      "slug": "18-bukti-p-18-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-i-i-s",
+      "text": "Rahmawati. \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup merujuk Berita  Acara Persidangan \nyang merupakan satu kesatuan yang tidak terpisahkan dengan putu san ini.",
+      "start_line": 884,
+      "end_line": 887
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut  UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republ ik Indonesia \nNomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) h uruf a Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Nega ra Republik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadi li pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan Pemohon adalah \npermohonan untuk menguji konstitusionalitas undang-undang, in casu norma Pasal \n102 Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undan g Hukum \nPidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan \nLembaran Negara Republik Indonesia Nomor 6842, selanjutnya dise but UU 1/2023) \n\n 31\nterhadap Pasal 1 ayat (3) dan Pasal 28D ayat (1) UUD NRI Tahun 1945, maka \nMahkamah berwenang mengadili permohonan a quo . \nKedudukan Hukum Pemohon \n[3.3]  Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu:  \na. perorangan warga negara Indonesia (termasuk kelompok orang y ang \nmempunyai kepentingan sama); \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 889,
+      "end_line": 922
+    },
+    {
+      "heading": "c. badan hukum publik atau privat; atau d. lembaga negara;",
+      "slug": "c-badan-hukum-publik-atau-privat-atau-d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  UUD NRI \nTahun 1945 harus menjelaskan terlebih dahulu: a. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4]  Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, Mahkamah tela h berpendirian \nbahwa kerugian hak dan/atau kewenangan konstitusional sebagaima na dimaksud \ndalam Pasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, y aitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \n\n 32\nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan penguji an;",
+      "start_line": 924,
+      "end_line": 943
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar da pat dipastikan \nakan terjadi;",
+      "start_line": 945,
+      "end_line": 946
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau  tidak lagi terjadi. \n \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon yang pad a \npokoknya sebagai berikut:",
+      "start_line": 948,
+      "end_line": 956
+    },
+    {
+      "heading": "1. Bahwa Pemohon I sampai dengan Pemohon VII mengajukan penguji an materiil",
+      "slug": "1-bahwa-pemohon-i-sampai-dengan-pemohon-vii-mengajukan-penguji-an-materiil",
+      "text": "Pasal 102 UU 1/2023 yang menyatakan sebagai berikut: \nPasal 102 UU 1/2023 \n“Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana m ati diatur \ndengan Undang-Undang.”",
+      "start_line": 958,
+      "end_line": 961
+    },
+    {
+      "heading": "2. Bahwa Pemohon I sampai dengan Pemohon VII menjelaskan memili ki hak",
+      "slug": "2-bahwa-pemohon-i-sampai-dengan-pemohon-vii-menjelaskan-memili-ki-hak",
+      "text": "konstitusional antara lain sebagaimana dijamin dalam Pasal 28D ayat (1) UUD \nNRI Tahun 1945.",
+      "start_line": 963,
+      "end_line": 964
+    },
+    {
+      "heading": "3. Bahwa Pemohon I sampai dengan Pemohon VII adalah perseoranga n warga",
+      "slug": "3-bahwa-pemohon-i-sampai-dengan-pemohon-vii-adalah-perseoranga-n-warga",
+      "text": "negara Indonesia yang dibuktikan dengan identitas kepemilikan K artu Tanda \nPenduduk (KTP) [vide Bukti P-3 sampai dengan Bukti P-7, Bukti P -9, dan Bukti \nP-10] yang berstatus sebagai mahasiswa program studi ilmu hukum  Universitas \nTerbuka [vide Bukti P-11 sampai dengan Bukti P-15, Bukti P-17, dan Bukti P-\n18]. Sebagai mahasiwa, Pemohon I sampai dengan Pemohon VII memi liki \nkewajiban akademik untuk mempelajari, menganalisis, dan \nmempertanggungjawabkan keberlakuan Kitab Undang-Undang Hukum Pi dana \n(KUHP), serta menjelaskan secara normatif, rasional, dan dapat dipertanggungjawabkan mengenai mekanisme hukum pelaksanaan pida na \nmati, penilaian selama masa percobaan pidana mati, dan lembaga apa yang \nberwenang melakukan penilaian tersebut. \n\n 33",
+      "start_line": 966,
+      "end_line": 977
+    },
+    {
+      "heading": "4. Bahwa Pemohon I sampai dengan Pemohon VII menjelaskan anggap an",
+      "slug": "4-bahwa-pemohon-i-sampai-dengan-pemohon-vii-menjelaskan-anggap-an",
+      "text": "kerugian hak konstitusional akibat berlakunya norma Pasal 102 U U 1/2023 \nsebagai berikut: \na. bahwa norma Pasal 102 UU 1/2023 hanya merumuskan frasa “tata  c ara \npelaksanaan pidana mati” tanpa secara tegas mengatur mengenai l embaga \nyang berwenang, kriteria penilaian, dan tata cara penilaian sel ama masa \npercobaan pidana mati, sehingga menimbulkan kekosongan norma ya ng \nmengakibatkan Pemohon I sampai dengan Pemohon VII secara aktual  \nkehilangan kepastian hukum dalam memahami, menjelaskan, dan \nmempertanggungjawabkan mekanisme hukum yang menentukan apakah \npidana mati dilaksanakan atau diubah; \nb. bahwa kerugian konstitusional Pemohon I sampai dengan Pemoho n VII \nbersifat potensial yang dapat dipastikan akan terjadi karena Pe mohon I \nsampai dengan Pemohon VII dipersiapkan oleh pendidikan tinggi h ukum \nuntuk menjalankan fungsi profesional sebagai advokat, peneliti hukum, \nakademisi, atau aparatur penegak hukum yang akan memberikan pendampingan, pembelaan, pendapat hukum, dan penilaian normatif  \nterhadap perkara pidana, termasuk perkara yang diancam dengan p idana \nmati. Ketidakjelasan norma Pasal 102 UU 1/2023 secara langsung berpotensi membatasi kemampuan Pemohon I sampai dengan Pemohon VII untuk memberikan nasihat hukum yang akurat, dapat diprediks i, dan \nbertanggungjawab secara konstitusional, sehingga menimbulkan ke rugian \nhak konstitusional bagi Pemohon I sampai dengan Pemohon VII unt uk \nmengetahui secara jelas bagaimana negara menilai dan menentukan  \nkelanjutan pidana mati, yang menyebabkan Pemohon I sampai denga n \nPemohon VII tidak memperoleh kepastian hukum yang adil sebagaim ana \ndijamin oleh Pasal 28D ayat (1) UUD NRI Tahun 1945;",
+      "start_line": 979,
+      "end_line": 1001
+    },
+    {
+      "heading": "c. bahwa ketidakjelasan norma Pasal 102 UU 1/2023 merugikan hak",
+      "slug": "c-bahwa-ketidakjelasan-norma-pasal-102-uu-1-2023-merugikan-hak",
+      "text": "konstitusional Pemohon I sampai dengan Pemohon VII untuk membua t dan \nmenyampaikan pendapat hukum yang rasional dan bertanggungjawab karena ketiadaan norma penilaian pelaksanaan pidana mati selama  masa \npercobaan menyebabkan Pemohon I sampai dengan Pemohon VII membangun pendapat hukum tanpa dasar normatif yang memadai. Kon disi \ntersebut mengaburkan standar etika dan tanggung jawab profesi h ukum \n\n 34\nyang sejak dini ditanamkan kepada Pemohon I sampai dengan Pemoh on \nVII sebagai calon profesional hukum yang berintegritas;",
+      "start_line": 1003,
+      "end_line": 1010
+    },
+    {
+      "heading": "d. Bahwa norma Pasal 102 UU 1/2023 merupakan norma delegasi yan g",
+      "slug": "d-bahwa-norma-pasal-102-uu-1-2023-merupakan-norma-delegasi-yan-g",
+      "text": "menentukan ruang lingkup pengaturan lebih lanjut mengenai pelak sanaan \npidana mati yang hanya membatasi delegasi pada frasa “tata cara  \npelaksanaan pidana mati” tanpa secara tegas mencakup pengaturan  \nmengenai lembaga yang berwenang, kriteria penilaian, dan tata c ara \npenilaian selama masa percobaan pidana mati, sehingga menyebabk an \nterjadinya kekosongan hukum yang secara langsung menimbulkan \nketidakpastian hukum yang dijamin dalam Pasal 28D ayat (1) UUD NRI \nTahun 1945 dalam menilai terpenuhinya syarat selama masa percob aan \npidana mati dan lembaga yang menilainya. \n[3.6]  Menimbang bahwa setelah memeriksa secara saksama uraian dalam \nmenjelaskan anggapan kerugian hak konstitusionalnya sebagaimana  diuraikan \npada Paragraf [3.5] di atas, selanjutnya Mahkamah akan mempertimbangkan \nkedudukan hukum Pemohon I sampai dengan Pemohon VII (selanjutny a disebut \npara Pemohon) sebagai berikut. \n Bahwa para Pemohon telah menguraikan kualifikasinya sebagai \nperseorangan warga negara Indonesia yang dibuktikan dengan Kart u Tanda \nPenduduk [vide Bukti P-3 sampai dengan Bukti P-7, Bukti P-9, da n Bukti P-10], yang \nberstatus sebagai mahasiswa program studi ilmu hukum Universita s Terbuka [vide \nBukti P-11 sampai dengan Bukti P-15, Bukti P-17, dan Bukti P-18 ], para Pemohon \nmenjelaskan memiliki kewajiban akademik untuk mempelajari, meng analisis, dan \nmempertanggungjawabkan keberlakuan Kitab Undang-Undang Hukum Pi dana \n(KUHP), termasuk menjelaskan mekanisme hukum pelaksanaan pidana  m a t i ,  \npenilaian selama masa percobaan pidana mati, dan lembaga yang b erwenang \nmelakukan penilaian tersebut. \n Bahwa dalam kualifikasi tersebut, para Pemohon beranggapan hak  \nkonstitusionalnya dirugikan karena berlakunya norma Pasal 102 U U 1/2023 yang \nhanya merumuskan frasa “tata cara pelaksanaan pidana mati” tanp a adanya \nkejelasan yang mengatur mengenai lembaga yang berwenang, kriter ia penilaian, \ndan tata cara penilaian selama masa percobaan pidana mati sehin gga merugikan \nhak konstitusional para Pemohon yang tidak dapat memahami, menj elaskan, dan \n\n 35\nmempertanggungjawabkan mekanisme hukum yang menentukan apakah p idana \nmati dilaksanakan atau diubah. Ketidakjelasan norma Pasal a quo  juga secara \npotensial membatasi kemampuan para Pemohon untuk memberikan pen dapat \nhukum yang akurat, rasional, dapat diprediksi, dan bertanggungj awab secara \nkonstitusional untuk mengetahui secara jelas bagaimana negara m enilai dan \nmenentukan kelanjutan pidana mati. Menurut para Pemohon, berlak unya Pasal 102 \nUU 1/2023 memiliki hubungan sebab-akibat (causal verband) dengan kerugian hak \nkonstitusional karena menyebabkan terjadinya kekosongan hukum y ang secara \nlangsung menimbulkan ketidakpastian hukum karena ketiadaan stan dar hukum \nbagaimana negara menilai terpenuhinya syarat selama masa percob aan pidana \nmati serta siapa pihak berwenang melakukan penilaian tersebut. \nBahwa terhadap anggapan kerugian hak konstitusional para Pemoho n \nyang dijelaskan di atas, setelah Mahkamah mencermati secara sak sama, menurut \nMahkamah para Pemohon tidak dapat membuktikan secara spesifik b entuk \nanggapan kerugian hak konstitusional yang dialaminya karena ber lakunya norma \nPasal 102 UU 1/2023 yang menentukan “Ketentuan lebih lanjut men genai tata cara \npelaksanaan pidana mati diatur dengan Undang-Undang”. Dalam ura ian anggapan \nkerugian hak konstitusionalnya, para Pemohon tidak dapat membuk tikan secara \nspesifik dan aktual atau setidak-tidaknya potensial mengenai an ggapan kerugian \nhak konstitusional yang dialami dengan berlakunya norma yang di mohonkan \npengujian. Dalam hal ini, para Pemohon hanya menjelaskan sebaga i mahasiswa \nprogram studi ilmu hukum Universitas Terbuka, yang sesungguhnya  tidak terhalang \nkewajiban akademiknya untuk menjelaskan, mempelajari, menganali sis atau \nmeneliti keberlakuan KUHP , termasuk menjelaskan secara normatif  d a n  r a s i o n a l  \nmengenai mekanisme hukum pelaksanaan pidana mati dalam ketentua n KUHP. \nSelain itu, berlakunya norma Pasal 102 UU 1/2023 yang esensinya  mengatur lebih \nlanjut tata cara hukuman mati, para Pemohon tidak terdampak sec ara langsung dan \nspesifik atau setidak-tidaknya potensial akibat berlakunya Pasa l 102 UU 1/2023. \nDalam hal ini, para Pemohon sama sekali tidak membuktikan sedan g menjalani \nproses pemeriksaan perkara yang dijatuhi pidana mati, tidak sed ang mendampingi \nselaku penasihat hukum atau setidak-tidaknya tidak sedang melak ukan advokasi \nterhadap terpidana mati. Di samping itu, para Pemohon juga tida k dapat \nmembuktikan sedang mendapatkan kuasa menjadi Pemohon dalam perm ohonan di \n\n 36\nMahkamah yang diancam pidana mati atau sudah menjadi terpidana mati akibat \nberlakunya norma Pasal 102 UU 1/2023.  \n Oleh karena itu, para Pemohon tidak dapat menjelaskan secara s pesifik \nanggapan kerugian hak konstitusional yang memiliki hubungan seb ab-akibat (causal \nverband)  yang jelas dengan berlakunya norma undang-undang yang dimohonk an \npengujian, sehingga Mahkamah tidak mendapatkan bukti yang meyak inkan adanya \nhubungan sebab-akibat antara anggapan kerugian hak konstitusion al yang dialami \npara Pemohon tersebut adalah akibat dari berlakunya norma yang dimohonkan \npengujian. Dengan demikian, tidak terdapat keraguan bagi Mahkam ah untuk \nmenyatakan para Pemohon tidak memiliki kedudukan hukum untuk be rtindak \nsebagai Pemohon dalam mengajukan permohonan a quo . \n[3.7]  Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan a quo , namun oleh karena para Pemohon tidak memiliki kedudukan \nhukum untuk mengajukan permohonan a quo  maka Mahkamah tidak \nmempertimbangkan lebih lanjut permohonan para Pemohon. \n[3.8] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansi nya.",
+      "start_line": 1012,
+      "end_line": 1095
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an",
+      "start_line": 1097,
+      "end_line": 1097
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1]  Mahkamah berwenang mengadili permohonan a quo ; \n[4.2]  Para Pemohon tidak memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3]  Permohonan para Pemohon tidak dipertimbangkan lebih lanjut.  \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n\n 37\n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Nega ra Republik \nIndonesia Nomor 5076);",
+      "start_line": 1099,
+      "end_line": 1113
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan para Pemohon tidak dapat diterima. \n Demikian diputus dalam Rapat Permusyawaratan Hakim oleh delapa n \nHakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggot a, Saldi Isra, \nEnny Nurbaningsih, Anwar Usman, Daniel Yusmic P. Foekh, M. Gunt ur Hamzah, \nRidwan Mansyur, dan Arsul Sani, masing-masing sebagai Anggota, pada hari \nKamis,  tanggal lima, bulan Februari, tahun dua ribu dua puluh enam yang \ndiucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari \nSenin,  tanggal dua, bulan Maret, tahun dua ribu dua puluh enam, selesai \ndiucapkan pukul  09.11 WIB  oleh sembilan Hakim Konstitusi, yaitu Suhartoyo selaku \nKetua merangkap Anggota, Saldi Isra, Enny Nurbaningsih, Anwar U sman, Daniel \nYusmic P. Foekh, M. Guntur Hamzah, Ridwan Mansyur, Arsul Sani, dan Adies Kadir \ndengan dibantu oleh Dewi Nurul Savitri sebagai Panitera Penggan ti, serta dihadiri \noleh para Pemohon dan/atau kuasanya, Dewan Perwakilan Rakyat at au yang \nmewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo  \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra ttd. \nEnny Nurbaningsih \n\n 38\nttd. \nAnwar Usman ttd. \nDaniel Yusmic P. Foekh \nttd. \nM. Guntur Hamzah ttd. \nRidwan Mansyur \nttd. \nArsul Sani ttd. \nAdies Kadir \nPANITERA PENGGANTI, \nttd. \nDewi Nurul Savitri",
+      "start_line": 1115,
+      "end_line": 1151
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Vendy Setiawan",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Novita Ayu Fitriani",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Sofia Arfind Putri",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Pangestu Sarah Hapsari",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Aulia Ananta Setiawan",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Iis Rahmawati",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Zerlina Keyla Maryam",
+        "role": "applicant",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Mahkamah Konstitusi",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 102",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (2)",
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-10",
+      "BUKTI P-1",
+      "BUKTI P-3",
+      "BUKTI P-7",
+      "BUKTI P -9",
+      "BUKTI P-11",
+      "BUKTI P-15",
+      "BUKTI P-17",
+      "BUKTI P- 18",
+      "BUKTI P-9",
+      "BUKTI P-18",
+      "BUKTI P-2",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-8",
+      "BUKTI P-12",
+      "BUKTI P-13",
+      "BUKTI P-14",
+      "BUKTI P-16",
+      "REFERENSI:281/PUU-XXIII/2025",
+      "REFERENSI:287/PUU/PAN.MK/AP3/12/2025",
+      "REFERENSI:27/PUU-VII/2009",
+      "REFERENSI:3/PUU-VIII/2010",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan para Pemohon tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "NOMOR 281/PUU-XXIII/2025",
+      "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang",
+      "Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana ter hadap",
+      "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh",
+      "Pekerjaan : Mahasiswa Alamat : KP. Pasir Bayur RT/RW 002/004",
+      "Kelurahan/Desa Mulyasari Kecamatan Silaku Kabupaten Cianjur, Jawa Barat",
+      "Alamat : Jalan Slamet Riyadi IV/No. 03 RT/RW 008/004",
+      "Kelurahan Kebon Manggis Kecamatan Matraman Jakarta Timur",
+      "Pekerjaan : Mahasiswa Alamat : Jalan Rawa Domba Raya Kav. 8 – 9",
+      "RT/RW 003/016 Kelurahan Duren Sawit Kecamatan Duren Sawit Jakarta Timur",
+      "Pekerjaan : Mahasiswa Alamat : Jalan Kampung Baru II No. 32B RT/RW 003/005",
+      "Kelurahan Pondok Pinang Kecamatan Kebayoran Lama Jakarta Selatan",
+      "Alamat : KP. Doyong RT/RW 006/006 Kelurahan Alam Jaya",
+      "Kecamatan Jatiuwung Kota Tangerang",
+      "Pekerjaan : Mahasiswa Alamat : Dusun Kliwon RT/RW 001/001",
+      "Kelurahan/Desa Kamarang Kecamatan Greged Kabupaten Cirebon, Jawa Barat",
+      "Alamat : Gunungsari Indah VV 15 RT/RW 001/009",
+      "Kelurahan/Desa Kedurus Kecamatan Karang Pilang Kota Surabaya, Jawa Timur",
+      "Berdasarkan Surat Kuasa Khusus bertanggal 15 Januari 2026 membe ri kuasa",
+      "kepada Zico Leonard Djagardo Simanjuntak, S.H., Leon Maulana Mi rza Pasha",
+      "Putu Agung Cinta Arya Diningrat, dan Dody Pradipto YS, kesemuan ya adalah",
+      "advokat dan konsultan hukum pada Kantor Hukum Leo & Partners, b eralamat di",
+      "Grand Slipi Tower lantai 5 Unit F, Jalan S. Parman Kav. 22 – 24 , Kelurahan",
+      "Palmerah, Kecamatan Palmerah, DKI Jakarta, yang mewakili pember i kuasa baik",
+      "bertanggal 30 Desember 2025 yang diterima Kepaniteraan Mahkamah Konstitusi",
+      "pada tanggal 30 Desember 2025 berdasarkan Akta Pengajuan Permoh onan",
+      "Nomor 287/PUU/PAN.MK/AP3/12/2025 dan telah dicatat dala m Buku",
+      "Registrasi Perkara Konstitusi Elektronik (e-BRPK) pada tanggal 30 Desember 2025",
+      "I. KEWENANGAN MAHKAMAH",
+      "Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD NRI 1945 )",
+      "“kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan",
+      "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an",
+      "terhadap Undang-Undang Dasar, memutus sengketa kewenangan",
+      "Undang Dasar, memutus perubahan partai politik dan memutus",
+      "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana te lah",
+      "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "pengujiannya dilakukan oleh Mahkamah Konstitusi”",
+      "2009 tentang Kekuasaan Kehakiman, menyatakan",
+      "undang terhadap Undang-Undang Dasar Negara Republik Indonesia",
+      "kewenangannya diberikan oleh Undang-Undang Dasar Negara",
+      "Republik Indonesia Tahun 1945; c. memutus pembubaran partai",
+      "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah terakhir",
+      "7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujian Unda ng",
+      "“Objek Permohonan PUU adalah Undang-Undang dan Perppu”",
+      "Oleh karenanya, Mahkamah Konstitusi berwenang mengadili perkara a quo",
+      "konstitusionalitas undang-undang yaitu: Undang-Undang Nomor 1 Tahun",
+      "2023 tentang Kitab Undang-Undang Hukum Pidana [Lembaran Negara",
+      "Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara",
+      "Republik Indonesia Nomor 6842]",
+      "karenanya, Mahkamah Konstitusi berwenang untuk memeriksa, menga dili",
+      "II. KEDUDUKAN HUKUM (LEGAL STANDING) DAN KERUGIAN",
+      "Indonesia yang dibuktikan dengan kepemilikan Kartu Tanda Pendud uk",
+      "( B u k t i P - 3 – P - 9 ) dan berstatus sebagai Mahasiswa Ilmu Hukum",
+      "Universitas Terbuka dibuktikan dengan Kartu Tanda Mahasiswa (Bukti",
+      "P-10 – P-16)",
+      "Undang Dasar Negara Republik Indonesia 1945",
+      "b. Pasal 1 ayat (3) UUD NRI 1945, menyatakan “Negara Indonesia",
+      "mempertanggungjawabkan keberlakuan Kitab Undang-Undang",
+      "Hukum Pidana sebagai hukum pidana nasional yang berlaku dan mengikat",
+      "a) Bahwa Pasal 102 Undang-Undang Nomor 1 Tahun 2023 tentang",
+      "51 ayat (1) Undang-Undang Mahkamah Konstitusi beserta",
+      "dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi Nomor 7 Ta hun",
+      "III. ALASAN PERMOHONAN",
+      "Undang-Undang Hukum Pidana pada pokoknya hanya menyatakan",
+      "tidak dapat ditawar. Ketika Pasal 102 KUHP tidak menjamin kejel asan",
+      "(1) UUD NRI 1945",
+      "asasi manusia. Dalam Putusan M ahkamah Konstitusi Nomor 27/PUU",
+      "law (A.V. Dicey) maupun rechtsstaat (Friedrich Julius Stahl), salah satu",
+      "norma a quo itu sendiri. Selama Pasal 102 KUHP tidak dimaknai secara",
+      "IV. PETITUM",
+      "Undang-Undang Hukum Pidana [Lembaran Negara Republik Indonesia",
+      "Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia",
+      "Nomor 6842] bertentangan dengan Undang-Undang Dasar Negara Repu blik",
+      "Indonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengika t",
+      "Kitab Undang-Undang Hukum Pidana",
+      "Indonesia Tahun 1945",
+      "Ayu Fitriani",
+      "Arfind Putri",
+      "Pangestu Sarah Hapsari",
+      "Ananta Setiawan",
+      "Keyla Maryam",
+      "Zerlina Keyla Maryam",
+      "Kewenangan Mahkamah",
+      "Dasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun",
+      "Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang",
+      "Mahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang",
+      "Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang",
+      "Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik",
+      "Indonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republ ik Indonesia",
+      "Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara",
+      "Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Nega ra Republik",
+      "Indonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadi li pada tingkat",
+      "102 Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undan g Hukum",
+      "Pidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan",
+      "Lembaran Negara Republik Indonesia Nomor 6842, selanjutnya dise but UU 1/2023)",
+      "Kedudukan Hukum Pemohon",
+      "perkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia",
+      "(1) UU MK",
+      "[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi",
+      "pada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU",
+      "mempertanggungjawabkan keberlakuan Kitab Undang-Undang Hukum Pi dana",
+      "program studi ilmu hukum Universitas Terbuka, yang sesungguhnya tidak terhalang",
+      "[4.2] Para Pemohon tidak memiliki kedudukan hukum untuk mengajukan",
+      "Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n",
+      "1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi",
+      "sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020",
+      "tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 tentang",
+      "Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor",
+      "216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang",
+      "Indonesia Nomor 5076)",
+      "Enny Nurbaningsih, Anwar Usman, Daniel Yusmic P. Foekh, M. Gunt ur Hamzah",
+      "Ridwan Mansyur, dan Arsul Sani, masing-masing sebagai Anggota, pada hari",
+      "diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari",
+      "Ketua merangkap Anggota, Saldi Isra, Enny Nurbaningsih, Anwar U sman, Daniel",
+      "Yusmic P. Foekh, M. Guntur Hamzah, Ridwan Mansyur, Arsul Sani, dan Adies Kadir",
+      "oleh para Pemohon dan/atau kuasanya, Dewan Perwakilan Rakyat at au yang",
+      "KETUA",
+      "ANGGOTA-ANGGOTA",
+      "Saldi Isra ttd",
+      "Enny Nurbaningsih",
+      "Anwar Usman ttd",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah ttd",
+      "Ridwan Mansyur",
+      "Arsul Sani ttd",
+      "Adies Kadir",
+      "Dewi Nurul Savitri",
+      "PUTUSAN",
+      "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "Nama : Vendy Setiawan",
+      "Nama : Novita Ayu Fitriani",
+      "Nama : Sofia Arfind Putri",
+      "Nama : Pangestu Sarah Hapsari",
+      "Nama : Aulia Ananta Setiawan",
+      "Nama : Iis Rahmawati",
+      "Nama : Zerlina Keyla Maryam",
+      "DUDUK PERKARA",
+      "Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "Bahwa selanjutnya Pasal 24C ayat (1) Perubahan Keempat UUD N RI 1945",
+      "Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 T ahun",
+      "Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konst itusi Nomor",
+      "KONSTITUSIONAL PARA PEMOHON",
+      "Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan ba hwa",
+      "Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi N omor 7",
+      "Bahwa Pasal 102 Undang-Undang Nomor 1 Tahun 2023 tentang Kit ab",
+      "Bahwa Pasal 102 KUHP juga tidak memberikan kepastian hukum",
+      "Bahwa Pasal 102 KUHP juga tidak mendelegasikan pengaturan",
+      "Bahwa Mahkamah Konstitusi dalam berbagai putusannya secara",
+      "Bahwa Pasal 1 ayat (3) UUD NRI 1945 menegaskan bahwa Indones ia",
+      "Bahwa Pasal 102 KUHP yang hanya menyerahkan pengaturan “tata",
+      "Bahwa Pasal 102 KUHP, dengan menyerahkan penilaian pelaksan aan",
+      "Menyatakan Pasal 102 Undang-Undang Nomor 1 Tahun 2023 tentan g Kitab",
+      "Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "Bukti P-1 : Fotokopi Undang-Undang Nomor 1 Tahun 2023 tentan g",
+      "Bukti P-2 : Fotokopi Undang–Undang Dasar Negara Republik",
+      "Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ve ndy",
+      "Bukti P-4 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama No vita",
+      "Bukti P-5 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama So fia",
+      "Bukti P-6 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama",
+      "Bukti P-7 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Au lia",
+      "Bukti P-8 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Lo la",
+      "Butki P-9 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ze rlina",
+      "Bukti P-10 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Iis",
+      "Bukti P-11 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Vendy",
+      "Bukti P-12 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Novita",
+      "Bukti P-13 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Sofia",
+      "Bukti P-14 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama",
+      "Bukti P-15 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Aulia",
+      "Bukti P-16 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Lola",
+      "Bukti P-17 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama",
+      "Bukti P-18 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama I i s",
+      "PERTIMBANGAN HUKUM",
+      "Bahwa Pemohon I sampai dengan Pemohon VII mengajukan penguji an materiil",
+      "Bahwa Pemohon I sampai dengan Pemohon VII menjelaskan memili ki hak",
+      "Bahwa Pemohon I sampai dengan Pemohon VII adalah perseoranga n warga",
+      "Bahwa Pemohon I sampai dengan Pemohon VII menjelaskan anggap an",
+      "KONKLUSI",
+      "AMAR PUTUSAN"
+    ],
+    "clerks": [
+      "bertanggal 30 Desember 2025 yang diterima Kepaniteraan Mahkamah Konstitusi",
+      "dengan dibantu oleh Dewi Nurul Savitri sebagai Panitera Penggan ti, serta dihadiri",
+      "PANITERA PENGGANTI"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "281/PUU-XXIII/2025",
+      "287/PUU/PAN.MK/AP3/12/2025",
+      "27/PUU-VII/2009",
+      "3/PUU-VIII/2010",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "281/PUU-XXIII/2025",
+      "287/PUU/PAN.MK/AP3/12/2025",
+      "27/PUU-VII/2009",
+      "3/PUU-VIII/2010",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [
+      "decision_date_missing"
+    ],
+    "needs_manual_review": true
+  }
+}

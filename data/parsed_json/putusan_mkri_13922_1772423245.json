@@ -1,0 +1,1313 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "tests/fixtures/pdfs/putusan_mkri_13922_1772423245.pdf",
+    "file_name": "putusan_mkri_13922_1772423245.pdf",
+    "page_count": 42,
+    "text_extraction_engine": "pypdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:decision_date_missing"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "271/PUU-XXIII/2025",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": null,
+    "decision_date_raw": "1 Tahun 2023",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 271/PUU-XXIII/2025",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1]  Yang mengadili pengujian undang- undang pada tingkat pertama dan  \nterakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang \nNomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana ter hadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 6,
+      "end_line": 10
+    },
+    {
+      "heading": "1. Nama : Tommy Juliandi",
+      "slug": "1-nama-tommy-juliandi",
+      "text": "Alamat : Banjar Agung, Banjar Agung Mataram, Seputih \nMataram, Lampung Tengah, Lampung  \n Sebagai ------------------------------------------------------ ------------------- Pemohon I ;",
+      "start_line": 12,
+      "end_line": 14
+    },
+    {
+      "heading": "2. Nama : Ika Aniyati",
+      "slug": "2-nama-ika-aniyati",
+      "text": "Alamat : Dusun Balak Kidul, Balak, Songgon, Banyuwangi, \nJawa Timur \n Sebagai ------------------------------------------------------ ------------------ Pemohon II ;",
+      "start_line": 16,
+      "end_line": 18
+    },
+    {
+      "heading": "3. Nama : Siti Fatimah",
+      "slug": "3-nama-siti-fatimah",
+      "text": "Alamat : Kampung Tanah Koja III, Jatinegara Kaum, Pulo \nGadung, Jakart Timur, DKI Jakarta \n Sebagai ------------------------------------------------------ ----------------- Pemohon III ;",
+      "start_line": 20,
+      "end_line": 22
+    },
+    {
+      "heading": "4. Nama : Ali Fahmi",
+      "slug": "4-nama-ali-fahmi",
+      "text": "Alamat : Jalan A. Yani, Utan Kayu Utara, Matraman, Jakarta \nTimur, DKI Jakarta \n Sebagai ------------------------------------------------------ ----------------- Pemohon IV ;",
+      "start_line": 24,
+      "end_line": 26
+    },
+    {
+      "heading": "5. Nama : Septian Abdiansyah",
+      "slug": "5-nama-septian-abdiansyah",
+      "text": "Alamat : Jalan H. Jusin, Sususkan, Ciracas, Jakarta Timur, \nDKI Jakarta \n Sebagai ------------------------------------------------------ ------------------ Pemohon V ;",
+      "start_line": 28,
+      "end_line": 30
+    },
+    {
+      "heading": "6. Nama : Sadira Fahmi",
+      "slug": "6-nama-sadira-fahmi",
+      "text": "Alamat : Jalan A. Yani, Utan Kayu Utara, Matraman, Jakarta \nTimur, DKI Jakarta \n\n\n \n \n \n 2\n Sebagai ------------------------------------------------------ ----------------- Pemohon VI ;",
+      "start_line": 32,
+      "end_line": 40
+    },
+    {
+      "heading": "7. Nama : Narendra A. Reza",
+      "slug": "7-nama-narendra-a-reza",
+      "text": "Alamat : Jalan Cemara VIII Nomor 58 B, Pasteur, Sukajadi, \nBandung, Jawa Barat \n Sebagai ------------------------------------------------------ ---------------- Pemohon VI I;",
+      "start_line": 42,
+      "end_line": 44
+    },
+    {
+      "heading": "8. Nama : Khaerul Imam Azam",
+      "slug": "8-nama-khaerul-imam-azam",
+      "text": "Alamat : Dukuh Tengah, Dukuh Tengah, Ketanggungan, \nBrebes, Jawa Tengah \n Sebagai ------------------------------------------------------ --------------- Pemohon VIII ;",
+      "start_line": 46,
+      "end_line": 48
+    },
+    {
+      "heading": "9. Nama : Shidqi Ilham Zhafiri",
+      "slug": "9-nama-shidqi-ilham-zhafiri",
+      "text": "Alamat : Gang Bakti, Duren Jaya, Bekasi Timur, Bekasi, Jawa \nBarat \n Sebagai ------------------------------------------------------ ----------------- Pemohon IX ;",
+      "start_line": 50,
+      "end_line": 52
+    },
+    {
+      "heading": "10. Nama : Bagus Adiputro Putra Pratama",
+      "slug": "10-nama-bagus-adiputro-putra-pratama",
+      "text": "Alamat : Kaligung, Kalirejo, Kraton, Pasuruan, Jawa Timur \n Sebagai ------------------------------------------------------ ------------------ Pemohon X ;",
+      "start_line": 54,
+      "end_line": 55
+    },
+    {
+      "heading": "11. Nama : Attaubah",
+      "slug": "11-nama-attaubah",
+      "text": "Alamat : Kp. Bolang, Bolang, Lebak Wangi, Serang, Banten \n Sebagai ------------------------------------------------------ ----------------- Pemohon XI ;",
+      "start_line": 57,
+      "end_line": 58
+    },
+    {
+      "heading": "12. Nama : Fahri Heriansyah",
+      "slug": "12-nama-fahri-heriansyah",
+      "text": "Alamat : Gunung Agung pauh, Agung Lawangan, Dempo \nUtara, Pagar Alam, Sumatera Selatan \n Sebagai ------------------------------------------------------ ---------------- Pemohon XII ;",
+      "start_line": 60,
+      "end_line": 62
+    },
+    {
+      "heading": "13. Nama : Rifky Andy Darmawan",
+      "slug": "13-nama-rifky-andy-darmawan",
+      "text": "Alamat : Jatimulya, Jati Mulya, Kosambi, Tangerang, Banten \n Sebagai ------------------------------------------------------ --------------- Pemohon XIII ;",
+      "start_line": 64,
+      "end_line": 65
+    },
+    {
+      "heading": "14. Nama : Febby Isranto Yudisthira",
+      "slug": "14-nama-febby-isranto-yudisthira",
+      "text": "Alamat : Pademangan Timur, Pademangan, Jakarta Utara, \nDKI Jakarta \n Sebagai ------------------------------------------------------ --------------- Pemohon XIV ;\nDalam hal ini berdasarkan Surat Kuasa Khusus bertanggal 14 Janu ari 2026 \nmemberikan kuasa kepada Zico Leonard Djagardo Simanjuntak, S.H. , Leon \nMaulana Mirza Pasha, S.H., Priskila Octaviani, S.H., Ratu Eka S haira, S.H., Ni \nKadek Sri Yulianti, Gusti Putu Agung Cinta Arya Diningrat, dan Shalza Ivalyne Dyvta \n\n \n \n \n 3\nSaputro, kesemuanya merupakan Advokat dan Konsultan Hukum pada Kantor \nHukum Leo & Partners, beralamat di Grand Slipi Tower Lantai 5 U nit F, Jalan S. \nParman Kav. 22-24, Kelurahan Palmerah, Kecamatan Palmerah, Jaka rta Barat, DKI \nJakarta, baik bersama-sama maupun sendiri-sendiri, bertindak un tuk dan atas nama \npemberi kuasa; \nSelanjutnya Pemohon I sampai dengan Pemohon XIV disebut sebagai  ----------------\n--------------------------------------------------------------- ------------------------- para  Pemohon ; \n[1.2] Membaca permohonan para Pemohon; \n  Mendengar keterangan para Pemohon; \n  Memeriksa bukti-bukti para Pemohon.",
+      "start_line": 67,
+      "end_line": 88
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]   Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 24 Desember 2025 yang diterima di Kepaniteraan Mahka mah Konstitusi \npada tanggal 24 Desember 2025 berdasarkan Akta Pengajuan Permoh onan \nPemohon Nomor 277/PUU/PAN.MK/AP3/12/2025 dan telah dicatat dala m Buku \nRegistrasi Perkara Konstitusi Elektronik (e-BRPK) dengan Nomor 271/PUU-\nXXIII/2025 pada tanggal 24 Desember 2025, yang telah diperbaiki  dan diterima \nMahkamah pada tanggal 26 Januari 2026, yang pada pokoknya mengu raikan hal-\nhal sebagai berikut. \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 90,
+      "end_line": 98
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar",
+      "text": "Negara Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD N RI \n1945) menyatakan: \n“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung \ndan badan peradilan yang berada di bawahnya dalam lingkungan \nperadilan umum, lingkungan peradilan agama, lingkungan peradila n \nmiliter, lingkungan peradilan tata usaha negara, dan oleh sebua h \nMahkamah Konstitusi”;",
+      "start_line": 100,
+      "end_line": 106
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Mahkamah Konstitusi (selanjutnya disebut M K)",
+      "slug": "2-bahwa-selanjutnya-mahkamah-konstitusi-selanjutnya-disebut-m-k",
+      "text": "sebagai salah satu pelaku kekuasaan kehakiman diberikan kewenan gan \nkonstitusional yang tertuang pada Pasal 24C ayat (1) Perubahan Keempat \nUUD NRI 1945: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama \n\n \n \n \n 4\ndan terakhir yang putusannya bersifat final untuk menguji undan g-\nundang terhadap Undang-Undang Dasar, memutus sengketa \nkewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar, memutus pembubaran partai politik dan \nmemutus perselisihan tentang hasil Pemilihan Umum”",
+      "start_line": 108,
+      "end_line": 120
+    },
+    {
+      "heading": "3. Bahwa berdasarkan Pasal 9 ayat (1) Undang-Undang Nomor 12 Ta hun",
+      "slug": "3-bahwa-berdasarkan-pasal-9-ayat-1-undang-undang-nomor-12-ta-hun",
+      "text": "2011 tentang Pembentukan Peraturan Perundang-Undangan sebagaimana telah diubah terakhir dalam Undang-Undang Nomor 13 \nTahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 12 \nTahun 2011 tentang Pembentukan Peraturan Perundang-Undangan \nmenegaskan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 122,
+      "end_line": 128
+    },
+    {
+      "heading": "4. Bahwa berdasarkan ketentuan di atas selanjutnya Pasal 29 aya t (1)",
+      "slug": "4-bahwa-berdasarkan-ketentuan-di-atas-selanjutnya-pasal-29-aya-t-1",
+      "text": "Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman \n(selanjutnya disebut UU Kekuasaan Kehakiman), menyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama \ndan terakhir yang putusannya bersifat final untuk: a. menguji u ndang-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; b. memutus sengketa kewenangan lembaga negara \nyang kewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai politik; d. memutus perselisihan tentang hasil pemilihan umum; dan \ne. Kewenangan lain yang diberikan oleh undang-undang”;",
+      "start_line": 130,
+      "end_line": 137
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-t-ahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah \nterakhir dengan Undang-Undang Nomor 7 Tahun 2020 tentang Peruba han \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (selanjutnya disebut UU MK), menyatakan sebagai beri kut: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama \ndan terakhir yang putusannya bersifat final untuk: a. menguji u ndang-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; b. memutus sengketa kewenangan lembaga negara \nyang kewenangannya diberikan oleh Undang-Undang Dasar Negara   \nRepublik   Indonesia   Tahun   1945; c. Memutus pembubaran part ai \npolitik; dan d. memutus perselisihan tentang hasil pemilihan um um”;",
+      "start_line": 139,
+      "end_line": 147
+    },
+    {
+      "heading": "6. Bahwa dalam melaksanakan kewenangannya dalam melakukan",
+      "slug": "6-bahwa-dalam-melaksanakan-kewenangannya-dalam-melakukan",
+      "text": "pengujian undang-undang terhadap UUD NRI 1945, MK memiliki 5 (l ima) \nfungsi, antara lain: \n1) Mahkamah Konstitusi sebagai Pengawal Konstitusi atau The Guardian \n\n \n \n \n 5\nof Constitution  \n2) Mahkamah Konstitusi sebagai Penafsir Akhir Konstitusi atau The Final \nInterpreter of Constitution  \n3) Mahkamah Konstitusi sebagai Pengawal Demokrasi atau The \nGuardian of Democracy  \n4) Mahkamah Konstitusi sebagai Pelindung Hak Konstitusional War ga \nNegara atau The Protector of Citizens Constitutional Rights  \n5) Mahkamah Konstitusi sebagai Pelindung Hak Asasi Manusia atau  The \nProtector of Human Rights ;",
+      "start_line": 149,
+      "end_line": 165
+    },
+    {
+      "heading": "7. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konsti tusi",
+      "slug": "7-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konsti-tusi",
+      "text": "Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujia n \nUndang-Undang, menyatakan bahwa: \n“Objek Permohonan PUU adalah undang-undang dan Perppu”;",
+      "start_line": 167,
+      "end_line": 169
+    },
+    {
+      "heading": "8. Bahwa permohonan para Pemohon adalah permohonan pengujian",
+      "slug": "8-bahwa-permohonan-para-pemohon-adalah-permohonan-pengujian",
+      "text": "Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang \nHukum Pidana terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, khususnya berkaitan dengan pengujian konstitusionalitas Pasal 256 UU KUHP karena dianggap bertentang an \ndengan Pasal 28D ayat (1), Pasal 28E ayat (3), Pasal 28F, dan P asal 28 I \nayat (4) UUD NRI 1945;",
+      "start_line": 171,
+      "end_line": 174
+    },
+    {
+      "heading": "9. Bahwa berdasarkan seluruh uraian di atas, maka Mahkamah Kons titusi",
+      "slug": "9-bahwa-berdasarkan-seluruh-uraian-di-atas-maka-mahkamah-kons-titusi",
+      "text": "berwenang untuk memeriksa, mengadili, dan memutus perkara pengu jian \nkonstitusionalitas UU KUHP terhadap UUD NRI 1945. \nII. KEDUDUKAN HUKUM ( LEGAL STANDING ) DAN KERUGIAN",
+      "start_line": 176,
+      "end_line": 178
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU MK menyatakan bahwa pemohon adala h",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mk-menyatakan-bahwa-pemohon-adala-h",
+      "text": "pihak yang menganggap hak dan/atau kewenangan konstitusionalnya  \ndirugikan oleh berlakunya undang-undang, yaitu: \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip negara \nkesatuan RI yang diatur dalam undang-undang;",
+      "start_line": 181,
+      "end_line": 186
+    },
+    {
+      "heading": "2. Bahwa dalam Penjelasan Pasal 51 ayat (1) UU MK ditegaskan ba hwa",
+      "slug": "2-bahwa-dalam-penjelasan-pasal-51-ayat-1-uu-mk-ditegaskan-ba-hwa",
+      "text": "\"…yang dimaksud dengan hak konstitusional adalah hak-hak yang d iatur \n\n \n \n \n 6\ndalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945” . \nSelanjutnya, dalam penjelasan huruf a ketentuan a quo dinyataka n bahwa \n“yang dimaksud dengan perorangan termasuk kelompok orang yang \nmempunyai kepentingan sama”.",
+      "start_line": 190,
+      "end_line": 199
+    },
+    {
+      "heading": "3. Bahwa untuk memenuhi syarat kedudukan hukum (legal standing)",
+      "slug": "3-bahwa-untuk-memenuhi-syarat-kedudukan-hukum-legal-standing",
+      "text": "sebagaimana diatur dalam Pasal 51 ayat (1) UU MK, para Pemohon  perlu \nmenguraikan mengenai kualifikasi kedudukan hukumnya, sebagai be rikut:  \na. Bahwa Pemohon I merupakan perseorangan WNI yang telah sah \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prodi Hukum, Fakultas Hukum Universitas Terbuka [Bukt i \nP-3 dan P-16]; \nb. Bahwa Pemohon II merupakan perseorangan WNI yang telah sah \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang \nmahasiswa Prodi Hukum Universita s Terbuka [Bukti P-4 dan P-17];",
+      "start_line": 201,
+      "end_line": 208
+    },
+    {
+      "heading": "c. Bahwa Pemohon III merupakan perseorangan WNI yang telah sah",
+      "slug": "c-bahwa-pemohon-iii-merupakan-perseorangan-wni-yang-telah-sah",
+      "text": "memiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-5 dan P-18];",
+      "start_line": 210,
+      "end_line": 210
+    },
+    {
+      "heading": "d. Bahwa Pemohon IV merupakan perseorangan WNI yang telah sah",
+      "slug": "d-bahwa-pemohon-iv-merupakan-perseorangan-wni-yang-telah-sah",
+      "text": "memiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-6 dan P-19];  \ne. Bahwa Pemohon V merupakan perseorangan WNI yang telah sah \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang \nmahasiswa Prodi Hukum Universita s Terbuka [Bukti P-7 dan P-20];  \nf. Bahwa Pemohon VI merupakan perseorangan WNI yang telah sah \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang \nmahasiswa Prodi Hukum Universita s Terbuka [Bukti P-8 dan P-21];  \ng. Bahwa Pemohon VII merupakan perseorangan WNI yang telah sah \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang \nmahasiswa Prodi Hukum Universita s Terbuka [Bukti P-9 dan P-22];  \nh. Bahwa Pemohon VIII merupakan perseorangan WNI yang telah sah  \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-10 dan P-23] ;",
+      "start_line": 212,
+      "end_line": 223
+    },
+    {
+      "heading": "i. Bahwa Pemohon IX merupakan perseorangan WNI yang telah sah",
+      "slug": "i-bahwa-pemohon-ix-merupakan-perseorangan-wni-yang-telah-sah",
+      "text": "memiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang \n\n \n \n \n 7\nmahasiswa Prodi Hukum Universita s Terbuka [Bukti P-11 dan P-24] . \nj. Bahwa Pemohon X merupakan perseorangan WNI yang telah sah \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang \nmahasiswa Prodi Hukum Universita s Terbuka [Bukti P-12 dan P-25] ; \nk. Bahwa Pemohon XI merupakan perseorangan WNI yang telah sah \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang \nmahasiswa Prodi Hukum Universita s Terbuka [Bukti P-13 dan P-26] ;",
+      "start_line": 225,
+      "end_line": 237
+    },
+    {
+      "heading": "l. Bahwa Pemohon XII merupakan perseorangan WNI yang telah sah",
+      "slug": "l-bahwa-pemohon-xii-merupakan-perseorangan-wni-yang-telah-sah",
+      "text": "memiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-14 dan P-27] ;",
+      "start_line": 239,
+      "end_line": 239
+    },
+    {
+      "heading": "m. Bahwa Pemohon XIII merupakan perseorangan WNI yang telah sah",
+      "slug": "m-bahwa-pemohon-xiii-merupakan-perseorangan-wni-yang-telah-sah",
+      "text": "memiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang \nmahasiswa Prodi Hukum Universita s Terbuka [Bukti P-15 dan P-29] ; \nn. Bahwa Pemohon XIV merupakan perseorangan WNI yang telah sah \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang \nmahasiswa Prodi Hukum Universita s Terbuka [Bukti P-28 dan P-30] ;",
+      "start_line": 241,
+      "end_line": 245
+    },
+    {
+      "heading": "4. Bahwa para Pemohon merupakan mahasiswa sekaligus warga negara",
+      "slug": "4-bahwa-para-pemohon-merupakan-mahasiswa-sekaligus-warga-negara",
+      "text": "Indonesia yang secara aktif menggunakan dan berhak menggunakan hak \nkonstitusional untuk menyampaikan pendapat di muka umum, baik m elalui \ndiskusi publik, aksi damai, maupun berbagai bentuk kegiatan lai nnya.",
+      "start_line": 247,
+      "end_line": 249
+    },
+    {
+      "heading": "5. Bahwa uraian sebagaimana disebutkan dalam poin 1 menegaskan para",
+      "slug": "5-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-1-menegaskan-para",
+      "text": "Pemohon  telah  memenuhi dan memiliki kedudukan hukum (legal standing)  \nsebagai perseorangan warga negara Indonesia sehingga pemohon da pat \nmengajukan permohonan pengujian UU terhadap UUD 1945. Selanjutn ya, \npara Pemohon  akan menguraikan kerugian konstitusional yang dialami \nsehubungan dengan berlakunya UU yang diujikan konstitusionalita snya \ndalam perkara a quo.",
+      "start_line": 251,
+      "end_line": 256
+    },
+    {
+      "heading": "6. Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi N omor 7",
+      "slug": "6-bahwa-dalam-pasal-4-ayat-2-peraturan-mahkamah-konstitusi-n-omor-7",
+      "text": "Tahun 2025 tentang Pedoman Beracara Dalam Perkara Pengujian \nUndang Undang ditentukan 5 syarat mengenai kerugian konstitusio nal, \nyaitu:  \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia 1945. \nb. Bahwa hak konstitusional pemohon tersebut dianggap oleh para  \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 258,
+      "end_line": 264
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat",
+      "text": "8\nspesifik atau khusus dan aktual atau setidaknya bersifat potens ial \nyang menurut penalaran yang wajar dapat dipastikan akan terjadi .",
+      "start_line": 266,
+      "end_line": 272
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan untuk diuji. \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian konstitusional yang didalilkan tidak akan atau ti dak \nterjadi lagi.",
+      "start_line": 274,
+      "end_line": 277
+    },
+    {
+      "heading": "7. Bahwa dalam hal ini terdapat kerugian hak dan/atau kewenanga n",
+      "slug": "7-bahwa-dalam-hal-ini-terdapat-kerugian-hak-dan-atau-kewenanga-n",
+      "text": "konstitusional para Pemohon  yang digunakan sebagai dasar pengujian \ndalam perkara a quo , yaitu:  \nPasal 28D ayat (1) UUD NRI 1945  \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum” \nPasal 28E ayat (3) UUD NRI 1945  \n“Setiap orang berhak atas kebebasan berserikat, berkumpul, dan \nmengeluarkan pendapat”. \n Pasal 28F UUD NRI 1945 \n“Setiap orang berhak untuk berkomunikasi dan memperoleh \ninformasi untuk mengembangkan pribadi dan lingkungan sosialnya,  \nserta berhak untuk mencari, memp eroleh, memiliki, menyimpan, \nmengolah, dan menyampaikan informasi dengan menggunakan segala jenis saluran yang tersedia.”  \nPasal 28 I ayat (4) UUD NRI 1945  \n“Perlindungan, pemajuan, penegakan, dan pemenuhan hak asasi \nmanusia adalah tanggung jawab negara, terutama pemerintah”.",
+      "start_line": 279,
+      "end_line": 295
+    },
+    {
+      "heading": "8. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam UUD",
+      "slug": "8-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam-uud",
+      "text": "1945 tersebut telah dirugikan dengan pasal sebagai berikut:  \nPasal 256 UU KUHP yang menyatakan:  \n“Setiap orang yang tanpa pemberitahuan terlebih dahulu kepada \nyang berwenang mengadakan pawai, unjuk rasa, atau demonstrasi",
+      "start_line": 297,
+      "end_line": 300
+    },
+    {
+      "heading": "di jalan umum atau tempat umum yang mengakibatkan terganggunya",
+      "slug": "di-jalan-umum-atau-tempat-umum-yang-mengakibatkan-terganggunya",
+      "text": "kepentingan umum, menimbulkan keonaran, atau huru-hara dalam \nmasyarakat, dipidana dengan pidana penjara paling lama 6 (enam)  \nBulan atau pidana denda paling banyak kategori II”.",
+      "start_line": 302,
+      "end_line": 304
+    },
+    {
+      "heading": "9. Bahwa dengan berlakunya Pasal 256 UU KUHP, para Pemohon",
+      "slug": "9-bahwa-dengan-berlakunya-pasal-256-uu-kuhp-para-pemohon",
+      "text": "mengalami kerugian konstitusional yang bersifat aktual dan pote nsial yang \nakan dijelaskan sebagai berikut:  \na) Bahwa  para Pemohon  merupakan mahasiswa Program Sarjana (S-1) \nJurusan Hukum pada Fakultas Hukum, Ilmu Sosial, dan Ilmu Politi k \nUniversitas Terbuka (FHISIP UT) dan secara aktif mempelajari hu kum \n\n \n \n \n 9\npidana serta hukum acara pidana. Dalam proses akademik tersebut , \npara Pemohon  memahami bahwa suatu norma pidana harus \ndirumuskan secara jelas, tegas, dan tidak menimbulkan penafsira n \nyang beragam atau  multi persepsi.  \nb) Bahwa  para Pemohon  berdasarkan ketentuan sebagaimana diatas, \nmenilai bahwa rumusan norma pasal a quo  berpotensi menimbulkan \npembatasan berlebihan terhadap kebebasan berpendapat, sehingga \nindikasi kemunduran dalam praktik berdemokrasi di Indonesia. \nRumusan norma a quo  menempatkan kebebasan berpendapat dalam \nposisi yang rentan karena berpotensi dianggap sebagai kejahatan",
+      "start_line": 306,
+      "end_line": 325
+    },
+    {
+      "heading": "10. Bahwa Pemohon XIII dan Pemohon XIV aktif menggunakan hak",
+      "slug": "10-bahwa-pemohon-xiii-dan-pemohon-xiv-aktif-menggunakan-hak",
+      "text": "konstitusionalnya untuk menyampaikan pendapat di muka umum seba gai \nbentuk partisipasi politik non-elektoral. Secara spesifik, Pemo hon XIII dan \nPemohon XIV telah melakukan, sedang melakukan, dan akan terus melakukan penyampaian pendapat melalui demonstrasi, unjuk rasa,  dan \nberbagai bentuk aksi damai lainnya untuk mengkritisi kebijakan pemerintah yang dinilai bermasalah dan membawa merugikan kepentingan publik (sebagaimana dibuktikan dengan dokumentasi \nfotografi aktivitas demonstrasi para Pemohon yang terlampir seb agai Bukti \nP-31)",
+      "start_line": 327,
+      "end_line": 332
+    },
+    {
+      "heading": "11. Bahwa sebagai Mahasiswa Ilmu Hukum yang memiliki pemahaman",
+      "slug": "11-bahwa-sebagai-mahasiswa-ilmu-hukum-yang-memiliki-pemahaman",
+      "text": "mengenai prinsip kepastian hukum dan asas legalitas, para Pemoh on \nmenilai bahwa penerapan Pasal 256 UU KUHP seharusnya memberikan  \nperlindungan dan kepastian hukum bagi warga negara. Namun demik ian, \nnorma a quo  justru mengaitkan ketentuan administratif dengan ancaman \nsanksi pidana tanpa rumusan yang jelas dan terukur. Kondisi ter sebut \nberpotensi memperluas ruang penafsiran terhadap suatu perbuatan  \npidana, membuka peluang terjadinya penyalahgunaan kewenangan ol eh \naparat penegak hukum, serta menimbulkan ketidakpastian hukum. O leh \nkarena itu, ketentuan Pasal 256 UU KUHP berpotensi bertentangan  \ndengan asas legalitas dan prinsip lex certa , karena tidak memungkinkan \nwarga negara untuk memprediksi secara jelas perbuatan “mengakib atkan \nterganggunya kepentingan umum, menimbulkan keonaran, atau huru- hara \ndalam masyarakat” yang dapat dikenai sanksi pidana. \n\n \n \n \n 10",
+      "start_line": 334,
+      "end_line": 351
+    },
+    {
+      "heading": "12. Bahwa berdasarkan pada pemahaman akademik para Pemohon sebagai",
+      "slug": "12-bahwa-berdasarkan-pada-pemahaman-akademik-para-pemohon-sebagai",
+      "text": "Mahasiswa Ilmu Hukum memandang penerapan Pasal 256 UU KUHP \nberpotensi menimbulkan beberapa implikasi hukum lainnya, yaitu:  \na. Kriminalisasi administratif atas tindakan konstitusional nor ma a quo \nmenjadikan tidak terpenuhinya prosedur administratif sebagai da sar \npidana. Dalam hal ini, hak untuk menyampaikan pendapat tidak \nbersifat licensed right atau menyaratkan adanya izin terlebih dahulu, \ntetapi merupakan guaranteed right yang dijamin secara langsung oleh \nUUD NRI 1945.  \nb. Adanya pembatasan ruang demokrasi, di mana hak warga untuk \nberpartisipasi dalam pengawasan kinerja atau kebijakan pemerint ahan \nmelalui diskusi publik, aksi damai atau demonstrasi adalah bent uk \npartisipasi politik non elektoral. Namun, Pasal 256 UU KUHP jus tru \nmendelegitimasi partisipasi politik rakyat dengan menempatkan aktivitas tersebut dalam posisi yang memiliki resiko dikualifik asikan \nsebagai perbuatan yang melanggar hukum.",
+      "start_line": 353,
+      "end_line": 366
+    },
+    {
+      "heading": "c. Ketentuan norma a quo ditafsirkan dapat memberikan dasar hukum",
+      "slug": "c-ketentuan-norma-a-quo-ditafsirkan-dapat-memberikan-dasar-hukum",
+      "text": "bagi aparat penegak hukum untuk melakukan penindakan kepada \nwarga yang menyampaikan pendapat tanpa pemberitahuan administratif. Selain itu, ancaman pidana yang terkandung dalam  \nnorma  a quo  secara nyata menimbulkan ketakutan dan pembatasan \ndiri masyarakat untuk melakukan unjuk rasa atau mengorganisir \nkegiatan sosial. Kerugian konstitusional tersebut tidak bersifa t \nhipotetis, melainkan nyata, aktual dan berpotensi terjadi kapan  p u n  \ndan kepada siapapun. Oleh karena itu, terdapat hubungan kausal yang \njelas antara berlakunya norma a quo dengan terancamnya \npemenuhan hak konstitusional warga negara.  \nIII. Sejak diundangkannya UU KUHP pada 2 Januari 2023 dan efektif be rlakunya \npada 2 Januari 2026 lalu, perlu adanya kejelasan perihal kerugi an \nkonstitusional para Pemohon. Adapun kaitannya antara kerugian k onstitusional \npara Pemohon  dan kaitannya dengan objek pengujian yaitu Pasal 256 UU \nKUHP dan hak yang dijamin dalam UUD NRI 1945, maka dapat diamat i pada \ntabel berikut ini.   \n \n\n \n \n \n 11\nTABEL 1 \nKerugian Konstitusional Pemohon dengan Objek Pengujian Pasal 25 6",
+      "start_line": 368,
+      "end_line": 390
+    },
+    {
+      "heading": "UU KUHP",
+      "slug": "uu-kuhp",
+      "text": "Objek Pengujian \nUndang-Undang Hak \nKonstitusional \nyang Dilanggar \ndalam UUD RI \n1945 Alasan Aktual dan Potensial \nPasal 256 UU KUHP \nyang berbunyi \n“Setiap orang yang \ntanpa \npemberitahuan \nterlebih dahulu \nkepada yang \nberwenang \nmengadakan pawai, \nunjuk rasa, atau \ndemonstrasi di jalan \numum atau tempat \numum yang \nmengakibatkan \nterganggunya \nkepentingan umum, \nmenimbulkan \nkeonaran, atau huru-\nhara dalam \nmasyarakat, \ndipidana dengan \npidana penjara \npaling lama 6 (enam) \nBulan atau pidana \ndenda paling banyak \nkategori II”. \n Pasal 28D ayat (1)  \nyang berbunyi \n“Setiap orang \nberhak atas \npengakuan, \njaminan, \nperlindungan, dan \nkepastian hukum \nyang adil serta \nperlakuan yang \nsama di hadapan \nhukum” \n Alasan Aktual: \npara Pemohon  memandang bahwa \npenjelasan yang terdapat dalam \nPasal 256 UU KUHP telah \nmenginisiasi terjadinya norma yang \nkabur atau vague  dan multi persepsi \ndalam perumusan penjelasan pasal \na quo. Pasal 256 UU KUHP dinilai \nmemiliki norma yang terbatas atau \nlimitatif yang dapat diamati pada \nkalimat “…tanpa pemberitahuan \nterlebih dahulu…”. Hal ini \nbertentangan dengan Pasal 28 E \nayat (3) dimana negara telah \nmenjamin dan telah memberikan \nperlindungan di hadapan hukum \nbagi setiap Warga Negara \nIndonesia. Pasal 256 UU KUHP juga \nmembuka peluang dan memberikan \ncelah kepada Aparat Penegak \nHukum untuk mempersepsikan \nbahwa pawai, unjuk rasa, atau \ndemonstrasi di jalan umum atau \ntempat umum dapat dipidana \ndengan penjara paling lama 6 (enam \nbulan) atau pidana dengan paling \nbanyak kategori II apabila tidak \nmemberikan pemberitahuan terlebih \ndahulu;  \n \nAlasan Potensial: \npara Pemohon  memandang bahwa \nhal ini berpotensi memunculkan \nketidakpastian hukum karena dapat \nmemperluas interpretasi dan \npenafsiran terkait tindak pidana \nyang terjadi. Ketidakpastian ini \nmeliputi: apakah diskusi publik yang \nmenghadirkan 50-100 peserta \nberpotensi menimbulkan keramaian",
+      "start_line": 392,
+      "end_line": 476
+    },
+    {
+      "heading": "di sekitar kampus dapat",
+      "slug": "di-sekitar-kampus-dapat",
+      "text": "dikategorikan sebagai \n“…terganggunya kepentingan \numum…”; apakah aksi damai yang \ndilakukan secara spontan sebagai \nrespons terhadap kebijakan yang \n\n \n \n \n 12\nkontroversial dapat dianggap \nsebagai tindakan “…tanpa \npemberitahuan terlebih dahulu \nkepada yang berwenang…”; dan \napakah orasi yang keras dan kritis \nterhadap kebijakan pemerintah \ndapat dikualifikasikan sebagai \n“…menimbulkan keonaran atau \nhuru-hara dalam masyarakat…”. \nBeragam spekulasi tersebut dapat \ndiminimalkan dengan memberikan \nkepastian hukum yang jelas.\n Pasal 28E ayat \n(3) yang berbunyi \n“Setiap orang \nberhak atas \nkebebasan \nberserikat, \nberkumpul, dan \nmengeluarkan \npendapat”. \n Alasan Aktual \npara Pemohon  memandang bahwa \ntindakan berserikat, berkumpul dan \nmengeluarkan pendapat di depan \numum memiliki batasan tegas yang \nharus dipenuhi dalam \npelaksanaanya. Hal tersebut \ntertuang dalam Pasal 256 UU KUHP \nyang dijelaskan dalam frase bahwa \n“Setiap orang yang tanpa \npemberitahuan terlebih dahulu…”. \nFrase ini dapat dimaknai sebagai hal \nyang harus dipenuhi oleh \nmasyarakat umum sebelum \nmelakukan pawai, unjuk rasa, atau \ndemonstrasi. Frase tersebut \nbertentangan dengan Pasal 28 ayat \n(3) dimana masyarakat umum telah \ndijamin atas haknya dalam \nkebebasan berserikat, berkumpul, \ndan mengeluarkan pendapat tanpa \nperlu adanya pemberitahuan \nterlebih dahulu kepada pihak yang \nberwajib. \n \nAlasan Potensial: \npara Pemohon  menganggap Pasal \n256 UU KUHP berpotensi \nmengabaikan asas legalitas yang \nmengharuskan setiap tindakan \npidana dan sanksi yang dijatuhkan \nharus jelas tercantum dalam UU dan \ndapat diprediksi sebelumnya. Jika \ndiamati frase dalam Pasal 256 \nKUHP yang berbunyi “…yang \nmengakibatkan terganggunya \nkepentingan umum, menimbulkan \nkeonaran, atau huru-hara dalam \nmasyarakat…” bagi setiap orang \nakan menimbulkan sebuah persepsi \nbaru yaitu bagaimana seseorang \ntahu bahwa kegiatan pawai, unjuk \nrasa, atau demonstrasi yang \ndilakukannya dapat mengakibatkan \n\n \n \n \n 13\nterganggunya kepentingan umum, \nmenimbulkan keonaran, atau huru-\nhara dalam masyarakat? Hal itu \ntentu dapat diketahui setelah \nkegiatan berlangsung. Artinya \nkegiatan yang bersifat administratif \nyaitu perlu adanya pemberitahuan \nkegiatan pawai, unjuk rasa, atau \ndemonstrasi menjadi suatu hal yang \ndapat diprediksi sebelumn ya.\n Pasal 28F yang  \nberbunyi “Setiap \norang berhak untuk \nberkomunikasi dan \nmemperoleh \ninformasi untuk \nmengembangkan \npribadi dan \nlingkungan \nsosialnya, serta \nberhak untuk \nmencari, \nmemperoleh, \nmemiliki, \nmenyimpan, \nmengolah, dan \nmenyampaikan \ninformasi dengan \nmenggunakan \nsegala jenis saluran \nyang tersedia. \n Alasan Aktual: \npara Pemohon memandang bahwa \nadanya pemangkasan ruang \npartisipasi publik dimana hak warga \nuntuk berpartisipasi dalam \npengawasan pemerintahan melalui \naksi damai atau demonstrasi adalah \nbentuk partisipasi politik non \nelektoral. Hal ini justru \nmendelegitimasi partisipasi politik \nrakyat dengan menjadikannya \nberisiko melanggar hukum yang \nberlaku dimana hal ini bertentangan \ndengan Pasal 28 F yang secara \ntegas menyatakan bahwa ada hak \nwarga negara yang dilindungi \nsecara hukum dalam komunikasi \ndan informasi.  \n \nAlasan Potensial \npara Pemohon menilai bahwa \nterdapat potensi kriminalisasi \nadministratif atas tindakan \nkonstitusional norma a quo , adanya \nefek jera sosial atau chilling effect , \nadanya pelanggaran prinsip \npersamaan di hadapan hukum atau \nequality before the law , dan adanya \npemangkasan ruang partisipasi \npublik. Disatu sisi Pasal 28 F \nmenerangkan ada hak untuk \nberkomunikasi, namun disisi lain \nPasal 256 UU KUHP tidak \nmemaknai sebagai hal yang mutlak. \nHal ini menjadi suatu hal yang saling \nbertolak belakang satu dengan yang \nlainn ya.\n Pasal 28 I ayat (4) \nyang berbunyi \n“Perlindungan, \npemajuan, \npenegakan, dan \npemenuhan hak \nasasi manusia \nadalah tanggung \njawab ne gara, Alasan Aktual: \npara Pemohon memandang bahwa \nhak-hak tersebut bersifat asasi, \nmelekat, dan tidak dapat dikurangi \noleh siapa pun, termasuk oleh \npembentuk undang-undang. Negara \nhanya boleh membatasi secara \nproporsional dan dalam kerangka \nhukum yang rasional, bukan \n\n \n \n \n 14\nterutama \npemerintah”. mengkriminalisasi pelaksanaan hak \nkonstitusional itu sendiri. Dalam hal \nini Pasal 256 UU KUHP secara \ntersirat membatasi hal tersebut dan \nsecara jelas bertolak belakang \ndengan apa yang dinyatakan dalam \nPasal 28 I ayat (2). \n \nAlasan Potensial: \npara Pemohon memandang hal ini \nsebagai sebuah hal yang serius dan \nmenciderai hak konsitusional Warga \nNegara Indonesia. Hak yang \nmerupakan bagian yang melekat \nbagi setiap warga negara sudah \nseyogyanya harus ditunjukkan \nmelalui keselarasan dalam Pasal a \nquo. Hal ini berkaitan dengan \nperlindungan, pemajuan, \npenegakan, dan pemenuhan hak \nasasi manusia yang sudah menjadi \ntanggung jawab negara, terutama \nPemerintah. para Pemohon juga \nmemandang penerapan Pasal a quo \nini juga berpotensi menimbulkan \ndampak diskriminasi dalam \nmengekspresikan pendapat di ruang \npublik. \nKerugian konstitusional yang telah dijabarkan tersebut, telah n yata dialami \noleh para Pemohon. Dalam hal ini para Pemohon memiliki keduduka n \nhukum ( legal standing ) sebagai pemohon Pengujian Undang-Undang dalam \nperkara a quo karena telah memenuhi ketentuan Pasal 51 ayat (1) UU \nMahkamah Konstitusi beserta Penjelasannya dan syarat kerugian h ak \nkonstitusional sebagaimana tertuang dalam Putusan Mahkamah Kons titusi \nNomor 006/PUU-III/2005 dan utusan Mahkamah KonstitusiNomor 011/ PUU-\nV/2007. \nIV. ALASAN PERMOHONAN",
+      "start_line": 478,
+      "end_line": 685
+    },
+    {
+      "heading": "1. Norma a quo melanggar Kepastian Hukum sehingga bertentangan dengan",
+      "slug": "1-norma-a-quo-melanggar-kepastian-hukum-sehingga-bertentangan-dengan",
+      "text": "Pasal 28D ayat (1) UUD NRI 1945 \nSalah satu prinsip fundamental dalam hukum pidana ini, yang \nmengharuskan rumusan delik pidana harus jelas, tegas, dan tidak  \nmultitafsir. Prinsip ini merupakan konsekuensi logis dari asas legalitas yaitu \nnullum delictum, nulla poena sine praevia lege poenali yang dijamin dalam \nPasal 1 ayat 1 KUHP. Frasa dalam Pasal 256 KUHP, khususnya \n\n \n \n \n 15\n\"terganggunya kepentingan umum\", \"menimbulkan keonaran\", \"huru- hara \ndalam masyarakat\" frasa tersebut merupakan konsep yang sangat a bstrak \ndan tidak memiliki parameter yang jelas.  \nResky Karty Kahar & Andi Marlina (2025) dalam penelitian berjud ul “Kajian \nLex Certa terhadap efektivitas penegakan hukum Pasal 221 ayat (2) KUHP \ntentang Obstruction of Justice perspektif Istihsan Istihna’i”  memberikan dalil \nbahwa terdapat ambiguitas pada Pasal 221 ayat (2) KUHP yang ber potensi \nmengurangi daya preventifnya sebagai norma pidana. Beberapa sol usi \ndalam mencegah hal tersebut yaitu melakukan klarifikasi termino logis \nmelalui penjelasan resmi explanatory note tentang unsur yang terkandung  \ndidalamnya  dan  penguatan  batasan pengecualian yang dapat dij abarkan \nlebih lanjut. Sama dengan keadaan yang terjadi pada Pasal 256 K UHP \ndimana terdapat ambiguitas dan multitafsir yang perlu diminimal kan.  \nDi sisi lain Michael Faure & Morag Goodwin (2014) dalam penelit iannya \ndengan judul “The regulator’s dilemma: caught between the need for \nflexibility & the demands of foreseeability, reassessing the lex certa principle” menambahkan bahwa dalam menerapkan regulasi baru perlu \nadanya unsur kepastian hukum yang menjadi prinsip dalam \npenggunaannya. Yang dimaksud dalam hal ini adalah menghindari multitafsir, menghindari potensial penyalahgunaan unsur dalam r egulasi \ntersebut, menjamin hak asasi manusia, dan norma yang berlaku. B eberapa \nkasus yang terjadi akibat prinsip lex certa yang tidak adekuat yaitu: \na. Kasus Robertus Robert tahun 2019 lalu yang dinilai adanya ke salahan \nmempersepsikan dan menggunakan Pasal 28 ayat (2) Undang-Undang \nNo. 19 tahun 2016 tentang Informasi dan Teknologi Elektronik pa dahal \nterdakwa melakukan orasi secara langsung alias offline . Sumber:  \nhttps://icjr/or.id/icjr-dan-lbh-pers-kasus-robertus-robet-adala h-\nancaman-serius-kebebasan-berekspresi/ (diakses pada 05 Desember  \n2025); \nb. Kasus Daniel Frits Maurits Tangkilisan tahun 2023 yang didak wa \nmenggunakan Pasal 45 A ayat (2) juncto Pasal 28 ayat (2) UU No.  11 \nTahun 2008 tentang ITE di mana hasil akhirnya Daniel Frits diny atakan \ntidak bersalah oleh Mahkamah Agung RI terkait dengan pencemaran  \nnama baik dimana Daniel Frits melaksanakan upaya promotif demi \n\n \n \n \n 16\nkelestarian lingkungan hidup. Sumber: \nhttps://www.hukumonline.com/berita/a/pemidanaan-daniel-tangkili san-\ndan-problematika-kebebasan-berekspresi-lt6607e448b7ac5/ (diakse s \npada 03 Desember 2025); \nKetidakjelasan dalam Pasal 256 KUHP tersebut secara jelas melan ggar \nprinsip lex certa dan menciptakan ketidakpastian hukum yang sangat \nberbahaya. Warga negara tidak dapat memprediksi dengan pasti ap akah \ntindakannya akan dipidana atau tidak, apakah tindakan berkumpul  tersebut \ndapat membuat terganggunya ketertiban umum, dan apakah persepsi  \nsemua Penegak Hukum akan sama dalam memaknai Pasal 256 KUHP  \ntersebut. Pertanyaan yang muncul :  \na. Apa yang dimaksud dengan \"kepentingan umum\"? Apakah kemaceta n \nlalu lintas selama 30 menit sudah termasuk mengganggu kepenting an \numum? Bagaimana dengan 1 jam? Atau 2 jam? \nb. Apa batas antara \"demonstrasi yang tertib\" dengan \"menimbulk an \nkeonaran\"? Apakah suara keras dari pengeras suara sudah termasu k \nkeonaran? Bagaimana dengan teriakan massa?",
+      "start_line": 687,
+      "end_line": 751
+    },
+    {
+      "heading": "c. Siapa yang berwenang menentukan apakah suatu demonstrasi tel ah",
+      "slug": "c-siapa-yang-berwenang-menentukan-apakah-suatu-demonstrasi-tel-ah",
+      "text": "\"menimbulkan huru-hara\"? Apakah standarnya subjektif atau objek tif? \nPenegak hukum berpotensi memiliki diskresi yang luas dalam \nmenginterpretasikan pasal 256 KUHP  ini, sehingga membuka peluang \npenyalahgunaan kewenangan dan penegakan hukum yang diskriminati f. \nJika hal itu terjadi, maka warga negaralah yang paling merasaka n \nkerugiannya.  \n Kilas balik dalam beberapa putusan Mahkamah Konstitusi terdahu lu, \nMahkamah Konstitusi sebagai salah satu lembaga resmi Yudikatif di \nIndonesia telah menegaskan pentingnya prinsip lex certa dalam setiap \namar putusannya. Melalui Putusan Mahkamah Konstitusi Nomor 003/ PUU-\nIV/2006, Mahkamah menyatakan dengan tegas pentingnya lex certa \ndimana norma hukum pidana harus dirumuskan secara jelas dan tid ak \nmultitafsir untuk memberikan kepastian hukum dan melindungi war ga \nnegara dari kesewenang-wenangan.",
+      "start_line": 753,
+      "end_line": 766
+    },
+    {
+      "heading": "2. Norma a quo melanggar prinsip proporsionalitas dalam tugas pemerintah",
+      "slug": "2-norma-a-quo-melanggar-prinsip-proporsionalitas-dalam-tugas-pemerintah",
+      "text": "membatasi maupun menegakkan hak asasi sehingga bertentangan den gan \n\n \n \n \n 17\nPasal 28 I ayat (4) UUD NRI 1945 \nPenerapan substansi hukum yang berkaitan dengan hak asasi manus ia baik \nInternasional maupun di Indonesia, pembatasan terhadap hak asas i \nmanusia hanya dapat dilakukan jika memenuhi tiga syarat kumulat if. Ketiga \nsyarat kumulatif tersebut yaitu  \na) Ditentukan oleh undang-undang atau prescribed by law , \nb) Memiliki tujuan yang sah atau legitimate aim,  \nc) Proporsional dan diperlukan dalam masyarakat demokratis atau  \nnecessary in a democratic society .  \nMeskipun Pasal 256 KUHP memenuhi syarat pertama yang ditentukan  oleh \nundang-undang, pasal ini gagal memenuhi syarat kedua dan ketiga . Berikut \nini adalah beberapa penjelasannya: \na) Bahwa tujuan menjaga ketertiban umum merupakan tujuan yang s ah \n(legitimate aim),  namun cara pembatasan yang ditempuh dalam Pasal \n256 KUHP tidak memenuhi prinsip proporsionalitas dan tidak sesu ai \ndengan kebutuhan dalam masyarakat demokratis. Dimana tampak jel as \ndalam tujuan Pasal 256 KUHP  adalah menjaga ketertiban umum, tujuan \ntersebut sebenarnya tidak sah atau illegitimate dalam konteks \ndemonstrasi yang demokratis. Berdasarkan hakikatnya, demonstras i \nmemang dimaksudkan untuk menciptakan gangguan atau disruption \nterhadap business as usual guna menarik perhatian publik dan \npengambil kebijakan terhadap suatu isu tertentu.  \nb) Penerapan Pasal 256 KUHP  dapat mengriminalisasi konsekuensi yang \ninherent dari demonstrasi yang sama artinya dengan mengkriminalisasi \ndemonstrasi itu sendiri, yang jelas bertentangan dengan jaminan  \nkonstitusional. Hal ini dapat ditunjukkan dengan adanya pembata san \nterhadap hak warga negara dalam melaksanakan demonstrasi melalu i \nproses pemberitahuan terlebih dahulu dalam melakukan demonstras i. \n Beberapa pertimbangan lain yang menunjukkan bahwa Pasal 256 \nKUHP ini bertentangan dengan prinsip proporsionalitas dalam pem batasan \nhak asasi manusia antara lain: a. Tidak memenuhi uji kesesuaian atau suitability test  \nPasal 256 KUHP dinilai tidak efektif dalam mencapai tujuan yang  diklaim \ndapat menjaga ketertiban umum. Pasal 256 KUHP justru mendorong \n\n \n \n \n 18\ndemonstrasi menjadi lebih ekstrem. Ketika saluran demonstrasi y ang \ntertib dan legal dikriminalisasi, warga negara yang frustasi ak an mencari \ncara-cara alternatif yang justru lebih disruptif dan berpotensi  anarkis. \nb. Tidak memenuhi uji kebutuhan atau necessity test \nTerdapat alternatif yang lebih ringan untuk mengatur demonstras i tanpa \nharus mengkriminalisasi konsekuensi yang tidak terhindarkan. \nMisalnya, sistem pemberitahuan yang sudah diatur dalam UU No. 9  \nTahun 1998 tentang Kemerdekaan Menyampaikan Pendapat di Muka \nUmum di mana sudah diterangkan dalam Pasal 1 ayat (1) yang berbunyi: \n“kemerdekaan menyampaikan pendapat adalah hak setiap \nwarga negara untuk menyampaikan pikiran dengan lisan, \ntulisan, dan sebagainya secara bebas dan bertanggung jawab sesuai dengan ketentuan peraturan perundang-undangan \nyang berlaku”. \nMenambahkan hal tersebut, Pasal 7 secara jelas menerangkan bahw a \nperan Aparat yang Berwajib yang berbunyi \n“Dalam pelaksanaan penyampaian pendapat di muka umum \noleh warga negara, aparatur pemerintah berkewajiban dan \nbertanggung jawab untuk (a) melindungi hak asasi manusia; \n(b) menghargai asas legalitas; (c) menghargai prinsip praduga \ntidak bersalah; dan (d) menyelenggarakan pengamanan”.  \nJika dikaitkan dengan prinsip lex specialis derogat legi generali Pasal  \na quo tersebut tidak relevan dengan UU yang secara spesifik mengatur \ntentang proses demonstrasi itu sendiri. Sehingga dalam hal ini tidak \nperlu adanya ancaman pidana tambahan untuk konsekuensi yang \ninheren dari demonstrasi yang dalam Pasal a quo berbunyi “…dipidana \ndengan pidana penjara paling lama 6 (enam) Bulan atau pidana de nda \npaling banyak kategori II”.",
+      "start_line": 768,
+      "end_line": 838
+    },
+    {
+      "heading": "c. Tidak memenuhi uji keseimbangan atau balancing test",
+      "slug": "c-tidak-memenuhi-uji-keseimbangan-atau-balancing-test",
+      "text": "Kerugian yang ditimbulkan oleh pasal ini berpotensi membungkam \nsuara rakyat, pengekangan demokrasi, dan terciptanya rezim otor iter \njauh lebih besar dibandingkan manfaat yang ingin dicapai. Hal i ni dapat \ndilihat dari adanya upaya untuk mengurangi gangguan ketertiban yang \ndilakukan oleh Aparat yang Berwajib seperti penertiban lalu lin tas, \nsosialisasi melalui media masa, dan rekayasa petugas penegak hu kum \ndalam menjaga ketertiban. Dalam masyarakat demokratis, apakah \n\n \n \n \n 19\nketidaknyamanan sementara akibat demonstrasi tersebut setara \ndengan apa yang harus dibayar untuk menjaga demokrasi di Indone sia \nini? \nBeberapa contoh kasus yang berkaitan dengan adanya pelanggaran prinsip \nproporsionalitas dapat dijumpai pada kasus berikut ini: \na. Aksi Buruh yang menolak Omnibus Law Cipta Kerja pada tahun 2 022 \nlalu. Hasilnya, dalam aksi tersebut International Amnesty melaporkan \nbahwa ada 45% peserta unjuk rasa mengalami intimidasi secara \nlangsung, sedangkan lebih dari 30% ditangkap secara administrat if \ntanpa dokumen penahanan. Sumber: \nhttps://www.kompasiana.com/carolinaunsaka/68a250c234777c77e670\n5a22/pelanggaran-ham-dalam-penanganan-aksi-demonstrasi \ndankebebasan-berpendapat (diakses pada 06 Desember 2025). \nb. Kasus Kanjuruhan Malang di mana sebanyak 135 orang meninggal  \ndunia dan ratusan lainnya mengalami luka-luka. Hal ini dikarena kan \nAparat Kepolisian menembakkan gas air mata di dalam stadion dan  \nmengakibatkan para penonton sepak bola panik sampai dengan berlarian ke arah luar stadion dengan berdesak-desakan. Sumber \nhttps://www.kompas.com/tren/read/2024/10/01/061500765/mengenang-dua-tahun-tragedi-kanjuruhan-peristiwa-terburuk-dalam-sejarah \n(diakses pada 05 Desember 2025).",
+      "start_line": 840,
+      "end_line": 870
+    },
+    {
+      "heading": "c. Penangkapan Delpedro dan rekannya sebagai aktivis Hak Asasi",
+      "slug": "c-penangkapan-delpedro-dan-rekannya-sebagai-aktivis-hak-asasi",
+      "text": "Manusia yang menyuarakan bahwa Polisi telah gagal membedakan \nmana ekspresi kebebasan berpendapat dan provokasi. Sumber \nhttps://www.msn.com/id-id/berita/ other/aktivis-lokataru-ditangk ap-\nbuntut-gelombang-demonstrasi-agustus-pola-yang-berulang-usai-unjuk-rasa-besar/ar-AA1LKiLF (diakses pada 06 Desember 2025). \nBeberapa penelitian terkait dengan pentingnya penerapan asas \nproporsionalitas dijelaskan oleh Willy Wicaksono, Vegitya RP, d an Laurel \nHeydir (2018) di mana dalam penelitiannya menerangkan bahwa \nmasyarakat memerlukan ruang untuk mengemukakan pendapat dimana salah satunya dapat dilakukan di ruang publik melalui berserika t dan \nberkelompok dalam suatu organisasi. Disisi lain, Bahar Eludllat sani, \nIsrahyanto, dan Agus Riwanto (2019)  menambahkan  bawa  ada  be berapa \n\n \n \n \n 20\npengaturan-pengaturan oleh Negara terhadap aneka bentuk dan jen is \norganisasi tersebut, sehingga perlu diperhatikan beberapa hal b erikut ini: \nprinsip pemisahan atau decoupling , prinsip legal and constitutional \norganization, prinsip good governance , dan kebutuhan akan organizational \nempowerment, perwujudan prinsip freedom of association , serta menjamin, \nmencerminkan, dan tidak mengurangi arti prinsip kebebasan berke yakinan, \nberpikir, dan berpendapat.  \nDi lingkungan Yudisial, asas proporsionalitas menjadi hal penti ng untuk \ndiketahui. Achjani (2011) menjelaskan bahwa hakim harus dapat merumuskan besaran sanksi dan penjatuhan hukum pidana harus ses uai \ndengan asas proporsionalitas dan sesuai dengan ketentuan undang -\nundang yang berlaku. Penelitian yang dilakukan oleh Rizkia, Ram adhan, \nAkmal, dan Hosnah (2025) tentang penerapan asas proporsionalita s oleh \nMahkamah Konstitusi dalam pengujian undang-undang menyimpulkan bahwa: \n“…asas proporsionalitas memiliki relevansi yang sangat penting \ndalam sistem pengujian undang-undang di Indonesia. Asas ini membantu Mahkamah Konstitusi menjaga keseimbangan antara efektivitas kebijakan publik dan perlindungan hak konstitusiona l \nwarga negara, sehingga pembentukan undang-undang tidak hanya \nsah secara prosedural, tetapi juga adil secara substansial. \nPenerapan asas proporsionalitas kedepannya perlu terus diperkua t \nagar kehidupan bernegara tetap berjalan dalam kerangka keadilan , \nkepastian hukum, dan kemanfaatan sesuai prinsip konstitusional \nyang menjadi dasar negara”. \nErgo , pemerintah telah melampaui proporsionalitas dalam pembatasan hak \nasasi yang berupa kebebasan menyampaikan pendapat berupa \ndemonstrasi.",
+      "start_line": 872,
+      "end_line": 910
+    },
+    {
+      "heading": "3. Norma a quo tidak menegakkan demonstrasi sebagai hak konstitusional",
+      "slug": "3-norma-a-quo-tidak-menegakkan-demonstrasi-sebagai-hak-konstitusional",
+      "text": "dalam berpendapat dan membangun negeri, serta memberikan potens i \nmenakut-nakuti sehingga bertentangan dengan Pasal 28E ayat (3) dan \n28F UUD NRI 1945 \n   Pasal 1 ayat 2 UUD 1945 menyatakan bahwa \"Kedaulatan berada",
+      "start_line": 912,
+      "end_line": 915
+    },
+    {
+      "heading": "di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar\".",
+      "slug": "di-tangan-rakyat-dan-dilaksanakan-menurut-undang-undang-dasar",
+      "text": "Prinsip kedaulatan rakyat ini meniscayakan adanya mekanisme bag i \nrakyat untuk berpartisipasi dalam proses politik dan menyampaik an \naspirasinya. Demonstrasi merupakan salah satu bentuk partisipas i \n\n \n \n \n 21\npolitik yang paling fundamental dalam demokrasi. Melalui demons trasi, \nkelompok-kelompok yang tidak memiliki akses ke media massa atau  \nkekuasaan politik dapat menyuarakan aspirasinya. Demonstrasi ju ga \nberfungsi sebagai kontrol sosial terhadap kekuasaan, sarana pembentukan opini publik, dan mekanisme perlindungan hak minori tas. \nDalam hal ini, pasal 256 UU KUHP pada hakikatnya dapat \nmengriminalisasi demonstrasi itu sendiri. Hal ini bertentangan dengan \nprinsip negara demokrasi yang dijamin oleh UUD 1945. \n   Sebuah penelitian hukum normatif yang ditulis oleh Rohman (202 0) \ntentang sisi positif dan negatif demonstrasi pada negara demokr asi \ndimasa pandemi menunjukkan bahwa sisi positif adanya demonstras i \nyaitu masih adanya semangat nasionalisme dan patriotisme pada \nmasyarakat Indonesia dalam rangka menegur pemerintah agar \nmenciptakan kesejahteraan rakyat meskipun COVID-19 menjadi musu h \nyang harus ditaklukan. Sedangkan sisi negatifnya yaitu terlamba tnya \npertumbuhan perekonomian Indonesia apabila akibat dari aksi ini  \nmasyarakat kembali tertular COVID-19. Menambahkan tentang pentingnya demokrasi, Carolina, Ras, Purwanto et al  (2022) dalam \nsebuah penelitian mixed study (description, literation, dan case study ) \nmenyimpulkan bahwa karakter bangsa merupakan andalan kehidupan \nmasyarakat Indonesia untuk menjaga jati diri bangsa ditengah \nlingkungan yang dinamis. Mereka juga berpesan bahwa berbagai \nancaman dan tantangan yang ada harus disikapi dengan bijak dan \nberpedoman pada Pancasila dan UUD NRI 1945.  \nDemonstrasi di berbagai wilayah di Indonesia memberikan gambara n \npenting dalam upaya penegakan supremasi hukum di Indonesia. \nBeberapa contoh tindakan demonstrasi tersebut adalah: \na. Organisasi Mahasiswa (Ormawa) UT Bogor melakukan aksi tolak \nKUHAP pada 29 November 2025 lalu. Dalam tuntutannya, Ormawa UT Bogor menyerukan penolakan pengesahan KUHAP 2025, \nmendesak percepatan pengesahan RUU Perampasan Aset, \nmenuntut pembebasan aktivis yang dikriminalisasi, menolak \nSoeharto sebagai Pahlawan Nasional, menuntut penetapan status \nbencana nasional di Sumatera, dan mendesak percepatan \n\n \n \n \n 22\npengesahan UU Masyarakat Adat. Hal ini menunjukkan bahwa \nMahasiswa sebagai elemen penting dalam masyarakat dengan \nkemampuan berfikir kritis mengadakan kegiatan demonstrasi untuk  \nmenyuarakan hak serta mendukung reformasi kebijakan publik. Sumber  https://trimedianews.com/mahasiswa-ut-bogor-gelar-aksi-\ntolak-kuhap-menyuarakan-isu-nasional-penting/ (Diakses pada 18 \nJanuari 2026).  \nb. Himpunan Mahasiswa Ilmu Hukum UT Bogor menggelar aksi damai \nbertajuk “Agustus Berdarah” pada Sabtu, 06 September 2025. Mahasiswa tersebut mengungkapkan rasa prihatin atas kejadian \ntimbulnya korban jiwa seorang ojek online (OJOL) yang dilindas \nmobil Brimob. Disamping itu, Mahasiswa juga mendesak Pemerintah  \nbertanggung jawab atas kekacauan sosial, politik, huku, dan \nekonomi yang terjadi akibat kejadian tersebut. Sumber : https://www.lead.co.id/mahasiswa-ut-bogor-bergerak-agustus-\nberdarah-september-menghitam/ (Diakses pada 18 Januari 2026).",
+      "start_line": 917,
+      "end_line": 973
+    },
+    {
+      "heading": "c. Menambahkan hal tersebut, pada momen lainnya unjuk rasa yang",
+      "slug": "c-menambahkan-hal-tersebut-pada-momen-lainnya-unjuk-rasa-yang",
+      "text": "dilakukan Ormawa UT Bogor berlangsung kondusif meskipun terjadi  \n‘cekcok’ dengan Polisi setempat. Hal ini dikarenakan aspirasi mahasiswa ditolak setelah menyampaikan keinginannya untuk \nbertemu secara langsung kepada Presiden Joko Widodo di Istana \nKepresidenan di Bogor. Sumber : \nhttps://radarbogor.jawapos.com/bogor/2474976808/ngotot demo-di-\nistana-bogor-aksi-demonstrasi-mahasiswa-ut-diwarnai cekcok-\ndengan-polisi (Diakses pada 18 Januari 2026).  \nDemonstrasi merupakan bagian penting dalam pembangunan jiwa \nnasionalisme warga negara Indonesia. Melalui demonstrasi, warga  \nnegara dapat menyuarakan pendapat, pemikirannya, serta aspirasi nya. \nHendaknya demokrasi yang dijalankan di Negara Indonesia harus memperhatikan beberapa hal seperti hak perlindungan demonstran,  hak \nkebebasan berpendapat di depan umum, dan hak lain yang diatur d alam \nkonstitusi di Indonesia. Bukan menciptakan peluang adanya prose s \nkriminalisasi seperti yang tertuang dalam Pasal 256 KUHP.  \n \n\n \n \n \n 23\nInkonsistensi dengan standar hukum internasional \nIndonesia telah meratifikasi International Covenant on Civil and Political \nRights atau ICCPR melalui UU No. 12 Tahun 2005. Pasal 21 ICCPR \nmenjamin hak atas kebebasan berkumpul secara damai dengan bunyi : \n\"The right of peaceful assembly shall be recognized. No restrictions \nmay be placed on the exercise of this right other than those imposed \nin conformity with the law and which are necessary in a democratic \nsociety in the interests of national secu rity or public safety, public order, \nthe protection of public health or morals or the protection of the rights \nand freedoms of others.\"  \nDi samping itu, regulasi lain yaitu UN Human Rights Committee  d a l a m  \nGeneral Comment  No. 37 tahun 2020 tentang right of peaceful assembly \njuga memberikan panduan yang jelas sebagai berikut: \na. Hak berkumpul secara damai adalah hak fundamental yang harus  \ndilindungi, bukan hanya ditoleransi. \nb. Pembatasan harus ditafsirkan ketat atau narrowly interpreted.",
+      "start_line": 975,
+      "end_line": 1010
+    },
+    {
+      "heading": "c. Gangguan terhadap lalu lintas atau aktivitas sehari-hari buk anlah",
+      "slug": "c-gangguan-terhadap-lalu-lintas-atau-aktivitas-sehari-hari-buk-anlah",
+      "text": "alasan yang sah untuk membatasi hak berkumpul;",
+      "start_line": 1012,
+      "end_line": 1012
+    },
+    {
+      "heading": "d. Notification system atau sistem pemberitahuan harus dibedakan",
+      "slug": "d-notification-system-atau-sistem-pemberitahuan-harus-dibedakan",
+      "text": "dengan authorization system atau sistem izin, dan negara tidak boleh \nmengkriminalisasi pelaksanaan hak berkumpul hanya karena tidak \nada pemberitahuan. \nHak asasi dalam kebebasan berpendapat merupakan hak mendasar \nyang dimiliki oleh setiap manusia. United Nation Development Programe  \n(UNDP) dalam bukunya yang berjudul Protest, Human Rights, and \nConflict Prevention: Proposals to rethink the models of state response \nto social mobilization  yang ditulis oleh Sapienza, Manzotti, dan Patel \n(2024) berbunyi: \n“Society is stronger and more resillient when woman and men can \nparticipate actively in political, economic, and social life and \ncontribute to the creation of the policies that affect their lives, \nespecially when they have the possibility to access information, \ndialogue, express their disagreement and unite to express their \nopinions”. \nDalam pernyataan tersebut, mereka mendorong ketahanan masyaraka t \nuntuk dapat terus berkontribusi secara aktif dalam kegiatan pol itik, \nekonomi, dan kehidupan sosial. Disamping itu, peran serta keakt ifan \n\n \n \n \n 24\ntersebut dapat mendorong perubahan kebijakan publik yang lebih \nberpihak kepada masyarakat. Sehingga, Pasal a quo yang justru \nmelanggar kebebasan tersebut dan justru menakut-nakuti sangatla h \nmelanggar hak konstitusional. \nV. PETITUM  \nBahwa dari seluruh dalil-dalil yang diuraikan di atas dan bukti -bukti terlampir, \ndengan ini para Pemohon memohon kepada para Yang Mulia Majelis Hakim \nMahkamah Konstitusi untuk memberikan putusan sebagai berikut:",
+      "start_line": 1014,
+      "end_line": 1044
+    },
+    {
+      "heading": "2. Menyatakan Pasal 256 Undang-Undang Nomor 1 Tahun 2023 tentan g Kitab",
+      "slug": "2-menyatakan-pasal-256-undang-undang-nomor-1-tahun-2023-tentan-g-kitab",
+      "text": "Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia \nTahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia  \nNomor 6842) bertentangan dengan Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945 dan tidak mempunyai kekuatan huku m \nmengikat;  \nAtau \nMenyatakan Pasal 256 Undang-Undang Nomor 1 Tahun 2023 tentang K itab \nUndang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia \nTahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia  \nNomor 6842) bertentangan dengan Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945 sepanjang tidak dimaknai sebagai \nperbuatan yang dilakukan secara sengaja, dengan maksud jahat (mens \nrea) yang nyata, dan menimbulkan ancaman nyata terhadap ketertiban \numum.",
+      "start_line": 1047,
+      "end_line": 1060
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila Mahkamah Konstitusi berpendapat lain, mohon putusan yan g seadil-\nadilnya (ex aequo et bono) . \n[2.2]   Menimbang bahwa untuk membuktikan dalilnya, para Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 3 1 ,  \nsebagai berikut:",
+      "start_line": 1062,
+      "end_line": 1067
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 1 Tahun 2023 tentan g",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-1-tahun-2023-tentan-g",
+      "text": "Kitab Undang-Undang Hukum Pidana; \n\n \n \n \n 25",
+      "start_line": 1069,
+      "end_line": 1074
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 1076,
+      "end_line": 1076
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama To mmy",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-to-mmy",
+      "text": "Juliandi;",
+      "start_line": 1078,
+      "end_line": 1078
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ik a",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-ik-a",
+      "text": "Aniyati;",
+      "start_line": 1080,
+      "end_line": 1080
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Si ti",
+      "slug": "5-bukti-p-5-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-si-ti",
+      "text": "Fatimah;",
+      "start_line": 1082,
+      "end_line": 1082
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Na rendra",
+      "slug": "6-bukti-p-6-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-na-rendra",
+      "text": "A. Reza;",
+      "start_line": 1084,
+      "end_line": 1084
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Se ptian",
+      "slug": "8-bukti-p-8-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-se-ptian",
+      "text": "Abdiansyah;",
+      "start_line": 1087,
+      "end_line": 1087
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Sa dira",
+      "slug": "9-bukti-p-9-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-sa-dira",
+      "text": "Fahmi;",
+      "start_line": 1089,
+      "end_line": 1089
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Khaerul",
+      "slug": "10-bukti-p-10-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-khaerul",
+      "text": "Mam Azam;",
+      "start_line": 1091,
+      "end_line": 1091
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Shidqi",
+      "slug": "11-bukti-p-11-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-shidqi",
+      "text": "Ilham Zhafiri;",
+      "start_line": 1093,
+      "end_line": 1093
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Bagus",
+      "slug": "12-bukti-p-12-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-bagus",
+      "text": "Adiptio Putra P;",
+      "start_line": 1095,
+      "end_line": 1095
+    },
+    {
+      "heading": "14. Bukti P-14 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Fahri",
+      "slug": "14-bukti-p-14-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-fahri",
+      "text": "Heriansyah;",
+      "start_line": 1098,
+      "end_line": 1098
+    },
+    {
+      "heading": "15. Bukti P-15 : Fotokopi Kartu Tanda Penduduk (KTP) a.n. Rifky Andy",
+      "slug": "15-bukti-p-15-fotokopi-kartu-tanda-penduduk-ktp-a-n-rifky-andy",
+      "text": "Darmawan;",
+      "start_line": 1100,
+      "end_line": 1100
+    },
+    {
+      "heading": "16. Bukti P-16 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Tommy",
+      "slug": "16-bukti-p-16-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-tommy",
+      "text": "Juliandi;",
+      "start_line": 1102,
+      "end_line": 1102
+    },
+    {
+      "heading": "17. Bukti P-17 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama I k a",
+      "slug": "17-bukti-p-17-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-i-k-a",
+      "text": "Aniyati ;",
+      "start_line": 1104,
+      "end_line": 1104
+    },
+    {
+      "heading": "18. Bukti P-18 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama S i t i",
+      "slug": "18-bukti-p-18-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-s-i-t-i",
+      "text": "Fatimah; \n1 9 .  B u k t i  P - 1 9  :  F o t o k o p i  K a r t u  T a n d a  M a h a s i s w a  ( K T M )  A t a s  N a m a  \nNarendra A. Reza;",
+      "start_line": 1106,
+      "end_line": 1108
+    },
+    {
+      "heading": "20. Bukti P-20 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama A l i",
+      "slug": "20-bukti-p-20-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-a-l-i",
+      "text": "Fahmi;",
+      "start_line": 1110,
+      "end_line": 1110
+    },
+    {
+      "heading": "21. Bukti P-21 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Septian",
+      "slug": "21-bukti-p-21-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-septian",
+      "text": "Abdiansyah;",
+      "start_line": 1112,
+      "end_line": 1112
+    },
+    {
+      "heading": "22. Bukti P-22 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Sadira",
+      "slug": "22-bukti-p-22-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-sadira",
+      "text": "Fahmi; \n\n \n \n \n 26",
+      "start_line": 1114,
+      "end_line": 1119
+    },
+    {
+      "heading": "23. Bukti P-23 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Khaerul",
+      "slug": "23-bukti-p-23-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-khaerul",
+      "text": "Mam Azam;",
+      "start_line": 1121,
+      "end_line": 1121
+    },
+    {
+      "heading": "24. Bukti P-24 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Shidqi",
+      "slug": "24-bukti-p-24-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-shidqi",
+      "text": "Ilham Zhafiri;",
+      "start_line": 1123,
+      "end_line": 1123
+    },
+    {
+      "heading": "25. Bukti P-25 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Bagus",
+      "slug": "25-bukti-p-25-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-bagus",
+      "text": "Adiptio Putra P; \n2 6 .  B u k t i  P - 2 6  :  F o t o k o p i  K a r t u  T a n d a  M a h a s i s w a  ( K T M )  A t a s  N a m a  \nAttaubah;",
+      "start_line": 1125,
+      "end_line": 1127
+    },
+    {
+      "heading": "28. Bukti P-28 : Fotokopi Kartu Tanda Penduduk (KTP) a.n. Febby I s r a n t o",
+      "slug": "28-bukti-p-28-fotokopi-kartu-tanda-penduduk-ktp-a-n-febby-i-s-r-a-n-t-o",
+      "text": "Yudhisthira;",
+      "start_line": 1130,
+      "end_line": 1130
+    },
+    {
+      "heading": "29. Bukti P-29 : Fotokopi Kartu Tanda Mahasiswa (KTM) a.n. Rifk y Andy",
+      "slug": "29-bukti-p-29-fotokopi-kartu-tanda-mahasiswa-ktm-a-n-rifk-y-andy",
+      "text": "Darmawan;",
+      "start_line": 1132,
+      "end_line": 1132
+    },
+    {
+      "heading": "30. Bukti P-30 : Fotokopi Kartu Tanda Mahasiswa (KTM) a.n. Febb y Isranto",
+      "slug": "30-bukti-p-30-fotokopi-kartu-tanda-mahasiswa-ktm-a-n-febb-y-isranto",
+      "text": "Yudhisthira;",
+      "start_line": 1134,
+      "end_line": 1134
+    },
+    {
+      "heading": "31. Bukti P-31 : Foto saat melakukan demonstrasi:",
+      "slug": "31-bukti-p-31-foto-saat-melakukan-demonstrasi",
+      "text": "a. Kamis, 18 Agustus 2025: demonstrasi “Menolak Kenaikan \nGaji dan Tunjangan Anggota DPR RI” di Gedung DPR RI \nJakarta. \nb. Kamis, 13 November 2025: Aksi KAMISAN dengan tema \n“Tolak Gelar Pahlawan Soeharto” yang diselenggarakan di Tugu Kujang, Kota Bogor;",
+      "start_line": 1136,
+      "end_line": 1140
+    },
+    {
+      "heading": "c. Sabtu, 29 November 2025: Mahasiswa UT yang",
+      "slug": "c-sabtu-29-november-2025-mahasiswa-ut-yang",
+      "text": "tergabung dalam Ormawa UT Bogor gelar aksi tolak \npengesahan KUHAP baru.  \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam  Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahka n dengan \nputusan ini.",
+      "start_line": 1142,
+      "end_line": 1147
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1]  Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut  UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \n\n \n \n \n 27\nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negar a Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadi li pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945.  \n[3.2]  Menimbang bahwa permohonan para Pemohon adalah permohonan \nuntuk menguji konstitusionalitas undang-undang, in casu  norma Pasal 256 Undang-\nUndang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pid ana \n(Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambaha n Lembaran \nNegara Republik Indonesia Nomor 6842, selanjutnya disebut UU 1/ 2023) terhadap \nUUD NRI Tahun 1945, sehingga Mahkamah berwenang mengadili permo honan        \na quo.  \nKedudukan Hukum Pemohon \n[3.3]  Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia (termasuk kelompok orang y ang \nmempunyai kepentingan sama); \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1149,
+      "end_line": 1185
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  UUD NRI \nTahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \n\n \n \n \n 28\nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a; \n[3.4]  Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, telah berpend irian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus m emenuhi 5 (lima) syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan penguji an;",
+      "start_line": 1188,
+      "end_line": 1211
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar da pat dipastikan \nakan terjadi;",
+      "start_line": 1213,
+      "end_line": 1214
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau  tidak lagi terjadi; \n[3.5]  Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1)  UU \nMK, Putusan Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan Putu san \nMahkamah Konstitusi Nomor 11/PUU-V/2007, serta syarat-syarat ke rugian hak \ndan/atau kewenangan konstitusional sebagaimana diuraikan pada P aragraf [3.3] \ndan Paragraf [3.4] di atas, selanjutnya Mahkamah akan mempertimbangkan \nmengenai kedudukan hukum para Pemohon, yang apabila dirumuskan Mahkamah \nsebagai berikut:",
+      "start_line": 1216,
+      "end_line": 1225
+    },
+    {
+      "heading": "1. Bahwa undang-undang yang dimohonkan pengujian konstitusional itas adalah",
+      "slug": "1-bahwa-undang-undang-yang-dimohonkan-pengujian-konstitusional-itas-adalah",
+      "text": "Pasal 256 UU 1/2023, yang rumusan selengkapnya sebagai berikut:  \n \n\n \n \n \n 29\nPasal 256 UU 1/2023 \nSetiap orang yang tanpa pemberitahuan terlebih dahulu kepada ya ng berwenang \nmengadakan pawai, unjuk rasa, atau demonstrasi di jalan umum at au tempat \numum yang mengakibatkan terganggunya kepentingan umum, menimbul kan \nkeonaran, atau huru-hara dalam masyarakat, dipidana dengan pida na penjara \npaling lama 6 (enam) bulan atau pidana denda paling banyak kate gori II.",
+      "start_line": 1227,
+      "end_line": 1239
+    },
+    {
+      "heading": "2. Bahwa para Pemohon menjelaskan memiliki hak konstitusional g una memeroleh",
+      "slug": "2-bahwa-para-pemohon-menjelaskan-memiliki-hak-konstitusional-g-una-memeroleh",
+      "text": "kepastian hukum, mengeluarkan pendapat, menyampaikan informasi,  d a n  \nperlindungan hak asasi manusia sebagaimana diatur dalam antara lain Pasal \n28D ayat (1), Pasal 28E ayat (3), Pasal 28F, dan Pasal 28I ayat  (4) UUD NRI \nTahun 1945;",
+      "start_line": 1241,
+      "end_line": 1244
+    },
+    {
+      "heading": "3. Bahwa para Pemohon adalah perseorangan warga negara Indonesi a, sebagai",
+      "slug": "3-bahwa-para-pemohon-adalah-perseorangan-warga-negara-indonesi-a-sebagai",
+      "text": "mahasiswa S-1 Fakultas Hukum. Pemohon I sampai dengan Pemohon X II \nberpotensi menggunakan hak konstitusional untuk menyampaikan pe ndapat di \nmuka umum, baik melalui diskusi publik, aksi damai, maupun berb agai bentuk \nkegiatan kolektif lainnya. Sementara Pemohon XIII dan Pemohon X IV aktif \nmenyampaikan pendapat di muka umum sebagai bentuk partisipasi p olitik non \nelektoral;",
+      "start_line": 1246,
+      "end_line": 1251
+    },
+    {
+      "heading": "4. Bahwa ketentuan norma Pasal 256 UU 1/2023 merugikan hak kons titusional",
+      "slug": "4-bahwa-ketentuan-norma-pasal-256-uu-1-2023-merugikan-hak-kons-titusional",
+      "text": "para Pemohon karena berpotensi memperluas ruang penafsiran terh adap suatu \nperbuatan pidana, membuka peluang terjadinya penyalahgunaan kew enangan \noleh aparat penegak hukum, serta menimbulkan ketidakpastian huk um;",
+      "start_line": 1253,
+      "end_line": 1255
+    },
+    {
+      "heading": "5. Bahwa menurut para Pemohon, norma Pasal 256 UU 1/2023 berpot ensi",
+      "slug": "5-bahwa-menurut-para-pemohon-norma-pasal-256-uu-1-2023-berpot-ensi",
+      "text": "menimbulkan beberapa implikasi hukum, yaitu: \na. Kriminalisasi administratif atas tindakan konstitusional nor ma a quo \nmenjadikan tidak terpenuhinya prosedur administratif sebagai da sar \npidana. Dalam hal ini, hak untuk menyampaikan pendapat tidak be rsifat \nlicensed right atau mensyaratkan adanya izin terlebih dahulu, tetapi \nmerupakan guaranteed right yang dijamin secara langsung oleh UUD NRI \n1945.  \nb. Pembatasan ruang demokrasi, di mana hak warga untuk berparti sipasi \ndalam pengawasan kinerja atau kebijakan pemerintahan melalui di skusi \npublik, aksi damai atau demonstrasi adalah bentuk partisipasi p olitik non-\nelektoral. Namun, norma a quo  justru mendelegitimasi partisipasi politik \nrakyat dengan menempatkan aktivitas tersebut dalam posisi yang memiliki \nresiko dikualifikasikan sebagai perbuatan yang melanggar hukum.  \n\n \n \n \n 30\nBerdasarkan uraian ihwal kedudukan hukum yang dikemukakan terse but",
+      "start_line": 1257,
+      "end_line": 1275
+    },
+    {
+      "heading": "di atas, menurut Mahkamah, Pemohon I sampai dengan Pemohon XIV dalam",
+      "slug": "di-atas-menurut-mahkamah-pemohon-i-sampai-dengan-pemohon-xiv-dalam",
+      "text": "kualifikasinya sebagai perseorangan warga negara Indonesia seka ligus mahasiswa \ntelah dapat menjelaskan memiliki hak konstitusional yang dijami n dalam UUD NRI \nTahun 1945. Anggapan kerugian hak konstitusional dimaksud bersi fat potensial \nkarena Pemohon I sampai dengan Pemohon XIV selaku mahasiswa ber potensi \ndapat dikenakan pidana saat mengadakan unjuk rasa atau demonstr asi di jalan \numum atau tempat umum yang mengakibatkan terganggunya kepenting an umum, \nmenimbulkan keonaran, atau huru-hara dalam masyarakat akibat be rlakunya Pasal \n256 UU 1/2023 yang menurut Pemohon I sampai dengan Pemohon XIV tidak \nmemberikan kepastian hukum yang adil, melanggar hak kebebasan m engeluarkan \npendapat dan penyampaian informasi, serta tidak memberi perlind ungan atas hak \nasasi manusia sebagaimana diatur dalam antara lain Pasal 28D ay at (1), Pasal 28E \nayat (3), Pasal 28F, dan Pasal 28I ayat (4) UUD NRI Tahun 1945.  Uraian anggapan \nkerugian hak konstitusional Pemohon I sampai Pemohon XIV terseb ut bersifat \nspesifik dan potensial yang dalam batas penalaran yang wajar da pat dipastikan akan \nterjadi, serta memiliki hubungan sebab akibat ( causal verband ) dengan berlakunya \nnorma yang dimohonkan pengujian. Oleh karena itu, apabila permo honan a quo  \ndikabulkan, anggapan ihwal potensi kerugian hak konstitusional seperti yang \ndijelaskan tersebut di atas tidak akan terjadi. Dengan demikian , terlepas dari terbukti \natau tidaknya inkonstitusionalitas norma yang dimohonkan penguj ian, menurut \nMahkamah, Pemohon I sampai dengan Pemohon XIV (selanjutnya dise but para \nPemohon) memiliki kedudukan hukum  untuk mengajukan permohonan a quo ; \n[3.6]  Menimbang bahwa oleh karena Mahkamah berwenang untuk mengadili  \npermohonan a quo  dan para Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai Pemohon , maka selanjutnya Mahkamah akan mempertimbangkan pokok \npermohonan para Pemohon; \nPokok Permohonan \n[3.7] Menimbang bahwa para Pemohon mendalilkan Pasal 256 UU 1/2023 \nbertentangan dengan Pasal 28D ayat (1), Pasal 28E ayat (3), Pas al 28F, dan Pasal \n28I ayat (4) UUD NRI Tahun 1945, dengan mengemukakan dalil-dali l (selengkapnya \n\n \n \n \n 31\ndimuat pada bagian Duduk Perkara) yang apabila dipahami dan dir umuskan oleh \nMahkamah pada pokoknya sebagai berikut:",
+      "start_line": 1277,
+      "end_line": 1312
+    },
+    {
+      "heading": "1. Bahwa menurut para Pemohon, frasa dalam Pasal 256 UU 1/2023, khususnya",
+      "slug": "1-bahwa-menurut-para-pemohon-frasa-dalam-pasal-256-uu-1-2023-khususnya",
+      "text": "“terganggunya kepentingan umum” , “menimbulkan keonaran” , “huru-hara dalam \nmasyarakat” frasa tersebut merupakan konsep yang sangat abstrak  dan tidak \nmemiliki parameter yang jelas;",
+      "start_line": 1314,
+      "end_line": 1316
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, ketidakjelasan norma Pasal 256 U U 1/2023",
+      "slug": "2-bahwa-menurut-para-pemohon-ketidakjelasan-norma-pasal-256-u-u-1-2023",
+      "text": "telah melanggar prinsip lex certa dan menciptakan ketidakpastian hukum yang \nsangat berbahaya. Dalam hal ini, warga negara tidak dapat mempr ediksi apakah \ntindakannya akan dipidana atau tidak, apakah tindakan berkumpul  tersebut \ndapat membuat terganggunya ketertiban umum, dan apakah persepsi  penegak \nhukum akan sama dalam memaknai Pasal 256 KUHP  tersebut. Dengan \ndemikian penegak hukum berpotensi memiliki diskresi yang luas d alam \nmenginterpretasikan norma a  quo, sehingga membuka peluang penyalahgunaan \nkewenangan dan penegakan hukum yang diskriminatif;",
+      "start_line": 1318,
+      "end_line": 1325
+    },
+    {
+      "heading": "3. Bahwa menurut para Pemohon, Pasal 256 UU 1/2023 tidak memenu hi syarat",
+      "slug": "3-bahwa-menurut-para-pemohon-pasal-256-uu-1-2023-tidak-memenu-hi-syarat",
+      "text": "pembatasan terhadap hak asasi manusia yaitu memiliki tujuan yan g sah \n(legitimate aim)  dan proporsional serta diperlukan dalam masyarakat demokratis \n(necessary in a democratic society).  Sebab tujuan Pasal 256 UU 1/2023  dalam \nmenjaga ketertiban umum adalah tidak sah ( illegitimate) apabila diletakkan \ndalam konteks demonstrasi yang demokratis serta penerapan pasal  a quo yang  \ndapat mengriminalisasi konsekuensi yang inherent dari demonstrasi sama \nartinya dengan mengkriminalisasi demonstrasi itu sendiri;",
+      "start_line": 1327,
+      "end_line": 1333
+    },
+    {
+      "heading": "4. Bahwa menurut para Pemohon, Pasal 256 UU 1/2023 pada hakikat nya dapat",
+      "slug": "4-bahwa-menurut-para-pemohon-pasal-256-uu-1-2023-pada-hakikat-nya-dapat",
+      "text": "mengkriminalisasi demonstrasi yang berdasarkan UUD NRI Tahun 19 45 dan \nPasal 21 ICCPR menjamin warga negara untuk dapat menyuarakan pe ndapat, \npemikirannya, serta aspirasinya salah satunya dengan cara demon strasi.  \n Bahwa berdasarkan uraian dalil-dalil tersebut di atas, para Pe mohon \nmengajukan petitum permohonan secara alternatif, yaitu pada pok oknya untuk \nmenyatakan Pasal 256 UU 1/2023 bertentangan dengan UUD NRI Tahu n 1945 atau \nmenyatakan Pasal 256 UU 1/2023 bertentangan dengan UUD NRI Tahu n 1945 \nsecara bersyarat sepanjang tidak dimaknai sebagai perbuatan yan g dilakukan \n\n \n \n \n 32\nsecara sengaja, dengan maksud jahat (mens rea) yang nyata, dan menimbulkan \nancaman nyata terhadap ketertiban umum. \n[3.8]   Menimbang bahwa untuk membuktikan dalil-dalil permohonannya, para \nPemohon telah mengajukan alat bukti yang diberi tanda Bukti P-1  sampai dengan \nBukti P-31 yang telah disahkan dalam persidangan Mahkamah pada tanggal 26 \nJanuari 2026 (selengkapnya dimuat pada bagian Duduk Perkara); \n[3.9]  Menimbang bahwa oleh karena permohonan a quo telah jelas, Mahkamah \nberpendapat tidak terdapat urgensi dan relevansinya untuk mende ngar keterangan \npihak-pihak sebagaimana disebutkan dalam Pasal 54 UU MK; \n[3.10]  Menimbang bahwa sebelum memper timbangkan lebih lanjut dalil-da lil \npermohonan para Pemohon berkenaan dengan persoalan konstitusion alitas norma \nPasal 256 UU 1/2023, Mahkamah akan mempertimbangkan pengujian n orma a quo  \ndengan ketentuan Pasal 60 UU MK dan Pasal 72 Peraturan Mahkamah  Konstitusi \nNomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujia n Undang-\nUndang (PMK 7/2025), sehingga norma a quo  dapat atau tidaknya dimohonkan \npengujian kembali. \n Bahwa Pasal 60 UU MK serta Pasal 72 PMK 7/2025, masing-masing \nmenyatakan sebagai berikut: Pasal 60 UU MK:  \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam u ndang-undang \nyang telah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecual ikan jika materi \nmuatan dalam Undang-Undang Dasar Negara Republik Indonesia Tahu n 1945 \nyang dijadikan dasar pengujian berbeda. \nPasal 72 PMK 7/2025:  \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam u ndang-undang \natau Perppu yang telah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecual ikan jika materi \nmuatan dalam UUD NRI Tahun 1945 yang dijadikan dasar pengujian berbeda \natau terdapat alasan permohonan yang berbeda. \n Berdasarkan ketentuan tersebut di atas, terhadap norma atau pa sal yang \ntelah dilakukan pengujian konstitusionalitasnya dan telah diput us Mahkamah hanya \ndapat dimohonkan pengujian kembali apabila terdapat dasar pengu jian dan/atau \n\n \n \n \n 33\nalasan permohonan yang berbeda. Berkenaan dengan permohonan a quo , ternyata \nMahkamah telah memeriksa dan memutus pengujian norma Pasal 256 UU 1/2023 \ndengan dasar pengujian Pasal 28 dan Pasal 28D ayat (1) UUD NRI Tahun 1945 \ndalam Putusan Mahkamah Konstitusi Nomor 10/PUU-XXI/2023, diucap kan dalam \nsidang pleno terbuka untuk umum pada tanggal 28 Februari 2023, dengan amar \nmenyatakan permohonan tidak dapat diterima karena alasan premat ur. Selain itu, \nnorma Pasal 256 UU 1/2023 juga telah dimohonkan pengujian denga n dasar \npengujian Pasal 28 dan Pasal 28D ayat (1) UUD NRI Tahun 1945, y ang telah diputus \ndalam Putusan Mahkamah Konstitusi Nomor 36/PUU-XXI/2023 yang di ucapkan \ndalam sidang pleno terbuka untuk umum pada tanggal 25 Mei 2023,  dengan amar \nmenyatakan permohonan tidak dapat diterima karena permohonan pr ematur.  \n Sementara itu, dalam permohonan a quo, para Pemohon mengajukan \npengujian norma Pasal 256 UU 1/2023 dengan dasar pengujian Pasa l 28D ayat (1), \nPasal 28E ayat (3), Pasal 28F, dan Pasal 28I ayat (4) UUD NRI T ahun 1945. Artinya, \nterdapat perbedaan dasar pengujian yang digunakan permohonan a quo  dengan \npermohonan-permohonan sebelumnya, yakni terhadap Pasal 28E ayat  (3), Pasal \n28F, dan Pasal 28I ayat (4) UUD NRI Tahun 1945. Dengan demikian , tanpa terlebih \nmenguraikan perbedaan alasan permohon a quo  dengan permohonan-permohonan \nsebelumnya, oleh karena secara faktual telah terbukti terdapat dasar pengujian yang \nberbeda dengan Permohonan Nomor 10/PUU-XXI/2023 dan Permohonan Nomor \n36/PUU-XXI/2023, secara formal permohonan a quo  tidak terhalang oleh ketentuan \nPasal 60 UU MK dan Pasal 72 PMK 7/2025. Terlebih, terhadap perm ohonan-\npermohonan sebelumnya Mahkamah belum menilai pokok permohonan. Dengan \ndemikian, terhadap norma Pasal 256 UU 1/2023 dapat dimohonkan p engujian \nkembali dan selanjutnya Mahkamah mempertimbangkan pokok permoho nan. \n[3.11]  Menimbang bahwa setelah Mahkamah membaca secara saksama \npermohonan a quo , memeriksa alat bukti yang diajukan, dan mempertimbangkan \nargumentasi pokok yang didalilkan, ternyata yang dipersoalkan a dalah berkenaan \ndengan konstitusionalitas norma Pasal 256 UU 1/2023 yang menuru t para Pemohon \nbertentangan dengan Pasal 28D ayat (1), Pasal 28E ayat (3), Pas al 28F, dan Pasal \n28I ayat (4) UUD NRI Tahun 1945 karena tidak memberikan kepasti an hukum yang \nadil, tidak menjamin hak kebebasan mengeluarkan pendapat, tidak  menjamin hak \npenyampaian informasi, dan tidak memberi perlindungan hak asasi  manusia bagi \n\n \n \n \n 34\nwarga negara menyampaikan pendapat. Terhadap masalah konstitusi onalitas Pasal \n256 UU 1/2023 yang didalilkan para Pemohon, Mahkamah terlebih d ahulu akan \nmempertimbangkan sebagai berikut.  \n[3.11.1] Bahwa kemerdekaan berserikat dan berkumpul merupakan hak dasar \ndalam negara hukum dan demokratis yang berkedaulatan rakyat ser ta dijamin dalam \nkonstitusi. Dalam hal ini, kebebasan warga negara untuk berseri kat dan berkumpul \ndiamanatkan antara lain dalam Pasal 28 UUD NRI Tahun 1945 yang menyatakan, \n“Kemerdekaan berserikat dan berkumpul, mengeluarkan pikiran den gan lisan dan \ntulisan dan sebagainya ditetapkan dengan undang-undang”. Terkai t dengan hal itu, \nPasal 28E ayat (3) UUD NRI Tahun 1945 menegaskan bahwa setiap o rang berhak \natas kebebasan berserikat, berkumpul, dan mengeluarkan pendapat . Pengaturan \nkedua norma UUD NRI Tahun 1945 ini sejalan dengan Article 19 Universal Declation \nof Human Rights  yang menyatakan, “Everyone has the right to freedom of opinion \nand expression; this right includes freedom to hold opinions without interference and \nto seek, receive and impart information and ideas through any media and regardless \nof frontiers” [setiap orang berhak atas kebebasan mempunyai dan mengeluarkan \npendapat, dalam hak ini termasuk kebebasan memiliki pendapat ta npa gangguan, \ndan untuk mencari, menerima dan menyampaikan informasi dan buah  p i k i r a n  \nmelalui media apa saja dan dengan tidak memandang batas-batas ( wilayah)].  \n Berkaitan dengan kemerdekaan untuk menyampaikan pendapat terse but",
+      "start_line": 1335,
+      "end_line": 1442
+    },
+    {
+      "heading": "di atas, pengaturan dalam UUD NRI Tahun 1945 hanya bersifat sin gkat dan terbatas",
+      "slug": "di-atas-pengaturan-dalam-uud-nri-tahun-1945-hanya-bersifat-sin-gkat-dan-terbatas",
+      "text": "pada hal yang mendasar saja. Oleh karena itu, beberapa undang-u ndang mengatur \nlebih lanjut, yakni antara lain dalam Undang-Undang Nomor 9 Tah un 1998 tentang \nKemerdekaan Menyampaikan Pendapat Di Muka Umum (UU 9/1998), Und ang-\nUndang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (UU 39/199 9), dan \nUndang-Undang Nomor 17 Tahun 2013 tentang Organisasi Kemasyarak atan (UU \n17/2013). Misalnya, Pasal 1 angka 1 UU 9/1998 menyatakan, “Keme rdekaan \nmenyampaikan pendapat adalah hak setiap warga negara untuk meny ampaikan \npikiran dengan lisan, tulisan, dan sebagainya secara bebas dan bertanggung jawab \nsesuai dengan ketentuan peraturan perundang-undangan yang berla ku”. Dengan \ndemikian, kemerdekaan setiap warga negara menyampaikan pendapat , termasuk di \nmuka umum, merupakan salah satu bentuk perwujudan demokrasi dal am tatanan \nkehidupan bermasyarakat, berbangsa, dan bernegara. \n\n \n \n \n 35\n[3.11.2]    Bahwa adanya jaminan warga negara dalam kebebasan menyampaikan \npendapat sudah seharusnya tetap memiliki suatu batasan atau atu ran agar \nkebebasan berpendapat tersebut tetap menghargai hak-hak asasi o rang lain dan \nmenjaga ketertiban umum serta memperhatikan moral dan etika seh ingga \nkebebasan dimaksud tidak menimbulkan konflik atau perpecahan. P enjelasan \nUmum UU 9/1998 menyatakan bahwa perwujudan kehendak warga negar a secara \nbebas dalam menyampaikan pikiran secara lisan dan tulisan dan s ebagainya harus \ntetap dipelihara agar seluruh tatanan sosial dan kelembagaan ba ik infrastruktur \nmaupun suprastruktur tetap terbebas dari penyimpangan atau pela nggaran hukum \nyang bertentangan dengan maksud, tujuan dan arah dari proses ke terbukaan dalam \npembentukan dan penegakan hukum sehingga tidak menciptakan disi ntegrasi \nsosial, tetapi justru harus dapat menjamin rasa aman dalam kehi dupan masyarakat. \nLebih lanjut, Article 29 (2) Universal Declation of Human Rights  menyatakan, “In the \nexercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and \nrespect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society”  (dalam \nmenjalankan hak-hak dan kebebasan-kebebasannya, setiap orang ha rus tunduk \nhanya pada pembatasan-pembatasan yang ditetapkan undang-undang dengan \nmaksud semata-mata untuk menjamin pengakuan serta penghormatan yang layak \nterhadap hak-hak dan kebebasan-kebebasan orang lain, dan untuk memenuhi \nsyarat-syarat yang adil dalam hal kesusilaan, ketertiban dan ke sejahteraan umum \ndalam suatu masyarakat yang demokratis). Artinya, kemerdekaan m enyampaikan \npendapat di muka umum harus dilaksanakan dengan penuh tanggung jawab, \nsejalan dengan ketentuan peraturan perundang-undang. \n[3.11.3]    Bahwa di antara bentuk pelaksanaan Pasal 28 dan Pasal 28E ayat (3) \nUUD NRI Tahun 1945 dalam menyampaikan pendapat di muka umum diw ujudkan \ndalam bentuk aksi unjuk rasa atau demonstrasi. Unjuk rasa atau demonstrasi adalah \nkegiatan yang dilakukan oleh seseorang atau lebih untuk mengelu arkan pikiran \ndengan lisan, tulisan, dan sebagainya secara demonstratif di mu ka umum [vide \nPasal 1 angka 3 UU 9/1998]. Adapun kebebasan hak atas bentuk ak si tersebut tidak \nbersifat mutlak, melainkan dibatasi undang-undang guna menjamin  pelaksanaan \naksi unjuk rasa atau demonstrasi dilakukan secara tertib dan be rtanggung jawab. \nSalah satu bentuk pembatasan dimaksud adalah kewajiban untuk me nyampaikan \n\n \n \n \n 36\npemberitahuan kepada pihak yang berwenang sebelum pelaksanaan a ksi unjuk \nrasa atau demonstrasi. Sebagai bentuk tanggung jawab dalam pela ksanaan unjuk \nrasa atau demonstrasi wajib dilakukan pemberitahuan terlebih da hulu kepada pihak \nyang berwenang, in casu  Kepolisian Negara Republik Indonesia (Polri), sebelum \nkegiatan aksi atau demonstrasi dilaksanakan [vide Pasal 10 ayat  (1) UU 9/1998]. \nBahkan, jika aksi unjuk rasa atau demonstrasi dilaksanakan tanp a adanya \npemberitahuan, aksi unjuk rasa atau demonstrasi dapat dibubarka n [vide Pasal 15 \nUU 9/1998].  \n Bahwa pengaturan mengenai kemerdekaan menyampaikan pendapat di  \nmuka umum salah satunya diatur dalam UU 9/1998, bertujuan untuk  mewujudkan \nkebebasan yang bertanggung jawab sebagai pelaksanaan hak asasi manusia \nsesuai dengan UUD NRI Tahun 1945. Selain itu, dengan pengaturan  dalam undang-\nundang diharapkan mampu mewujudkan iklim yang kondusif bagi ber kembangnya \npartisipasi dan kreativitas warga negara sebagai perwujudan hak  dan tanggung \njawab dalam kehidupan berdemokrasi dan merupakan perwujudan per lindungan \nhukum yang konsisten dalam menjamin kemerdekaan menyampaikan pe ndapat. \nBerkenaan dengan hal tersebut, Pasal 1 angka 1 UU 9/1998 menega skan bahwa \nsetiap warga negara memiliki hak untuk menyampaikan pikiran den gan lisan dan \ntulisan secara bebas serta bertanggung jawab sesuai dengan kete ntuan peraturan \nperundang-undangan. Lebih lanjut, Pasal 5 UU 9/1998 telah menja min kebebasan \ndan perlindungan hukum bagi setiap warga negara yang mengeluark an pendapat \nsecara bebas di muka umum. Dengan demikian negara telah memberi kan jaminan \nhak warga negara dalam menyampaikan pendapat di muka umum secar a bebas \nserta adanya kewajiban bagi negara memberikan perlindungan dan jaminan \nterhadap pelaksanaan hak tersebut. \n[3.12]   Menimbang bahwa setelah mempertimbangkan hal-hal tersebut di at as, \nselanjutnya Mahkamah akan menjawab permasalahan utama yang dida lilkan para \nPemohon, yaitu apakah norma Pasal 256 UU 1/2023 yang mengatur p elaksanaan \naksi unjuk rasa di muka umum tanpa pemberitahuan apabila diangg ap mengganggu \nketertiban umum dapat dipidana dinilai telah menghilangkan hak konstitusional para \nPemohon untuk memeroleh kepastian hukum yang adil, kebebasan me ngeluarkan \npendapat, menyampaikan informasi, dan memeroleh perlindungan ha k asasi \nmanusia. Artinya, sebagaimana dalil para Pemohon, norma Pasal 2 56 UU 1/2023 \n\n \n \n \n 37\nharus dinyatakan bertentangan dengan UUD NRI Tahun 1945 dan tid ak memiliki \nkekuatan hukum yang mengikat. Setidaknya, norma Pasal 256 UU 1/ 2023 dinilai \nb e r t e n t a n g a n d e n g a n  UU D N RI  T ah u n 1 9 4 5  d a n t i d ak  m e m i l ik i  k ek u a tan hukum \nyang mengikat jika tidak dimaknai sebagaimana petitum para Pemo hon. Terhadap \ndalil para Pemohon a quo , Mahkamah mempertimbangkan sebagai berikut. \n[3.12.1] Bahwa berkenaan dengan dalil para Pemohon yang mempersoalkan \nkonstitusionalitas norma Pasal 256 UU 1/2023 , Mahkamah perlu mengutip kembali \nsecara utuh Pasal 256 UU 1/2023 yang menyatakan, “Setiap orang yang tanpa \npemberitahuan terlebih dahulu kepada yang berwenang mengadakan pawai, unjuk \nr a s a ,  a t a u  d e m o n s t r a s i  d i  j a l a n  u m u m  a t a u  t e m p a t  u m u m  y a n g  m e n g akibatkan \nterganggunya kepentingan umum, menimbulkan keonaran, atau huru- hara dalam \nmasyarakat, dipidana dengan pidana penjara paling lama 6 (enam)  bulan atau \npidana denda paling banyak kategori II”. Secara substansial, no rma Pasal 256 UU \n1/2023 a quo  pada dasarnya mengatur keharusan dilakukan pemberitahuan kepad a \nyang berwenang (Polri) sebelum mengadakan pawai, unjuk rasa, at au demonstrasi",
+      "start_line": 1444,
+      "end_line": 1550
+    },
+    {
+      "heading": "di jalan umum atau tempat umum. Dalam hal pemberitahuan dimaksu d tidak",
+      "slug": "di-jalan-umum-atau-tempat-umum-dalam-hal-pemberitahuan-dimaksu-d-tidak",
+      "text": "dilakukan, kegiatan pawai, unjuk rasa, atau demonstrasi di jala n umum atau tempat \numum tersebut yang berakibat terganggunya kepentingan umum, men imbulkan \nkeonaran, atau huru-hara dalam masyarakat, maka diancam dengan pidana penjara \npaling lama 6 (enam) bulan atau pidana denda paling banyak kate gori II. Walakin, \npemberitahuan dimaksud tidak diperlukan atau tidak berlaku bagi  kegiatan ilmiah di \ndalam kampus dan kegiatan keagamaan [vide Pasal 10 ayat (4) UU 9/1998].    \n Bahwa terhadap ihwal pemberitahuan menyampaikan pendapat di mu ka \numum dalam norma Pasal 256 UU 1/2023 bukan sesuatu yang baru da lam sistem \nhukum Indonesia. Sebelum berlakunya UU 1/2023, norma Pasal 10 U U 9/1998 telah \nterlebih dahulu mengatur perihal pemberitahuan, yang pada intin ya menentukan, \nyaitu 1) penyampaian pendapat di muka umum wajib diberitahukan secara tertulis \nkepada Polri; 2) pemberitahuan disampaikan oleh yang bersangkut an, pemimpin, \natau penanggung jawab kelompok; 3) pemberitahuan selambat-lamba tnya 3 x 24 \n(tiga kali dua puluh empat) jam sebelum kegiatan dimulai telah diterima oleh Polri \nsetempat; dan 4) pemberitahuan secara tertulis tidak berlaku ba gi kegiatan ilmiah di \ndalam kampus dan kegiatan keagamaan. Oleh karenanya, dengan mem perhatikan \nketentuan Pasal 10 UU 9/1998, tanpa bermaksud menilai konstitus ionalitas norma \nPasal 10 UU 9/1998, menurut Mahkamah, norma Pasal 256 UU 1/2023  tidak tepat \n\n \n \n \n 38\ndipahami dan dimaknai sebagai bentuk penghalangan terhadap pela ksanaan hak \nkemerdekaan berserikat dan berkumpul serta hak penyampaian pend apat di muka \numum sebagaimana termaktub dalam Pasal 28 dan Pasal 28E ayat (3 ) UUD NRI \nTahun 1945. Dalam hal ini, pemberitahuan dimaksud harus dimakna i sebagai salah \nsatu cara memberikan perlindungan bagi peserta yang menyampaika n pendapat di \nmuka umum termasuk memberikan perlindungan bagi masyarakat. Den gan \npemberitahuan, sesuai dengan hakikat Pasal 30 ayat (4) UUD NRI Tahun 1945, Polri \nmemiliki kewajiban untuk menjaga keamanan dan ketertiban masyar akat, in casu  \npeserta pawai, unjuk rasa, atau demonstrasi dan masyarakat di s ekitar lokasi pawai, \nunjuk rasa, atau demonstrasi yang kemungkinan terdampak dari ke giatan \npenyampaian pendapat dimaksud. Namun demikian perlu Mahkamah te gaskan, \npemberitahuan tersebut sama sekali tidak boleh dimaknai oleh Po lri sebagai \ninstrumen perizinan. Bagaimanapun, norma Pasal 256 UU 1/2023 ti dak memberi \nwewenang kepada Polri untuk menolak maupun melarang kegiatan pe nyampaian \npendapat, baik berupa pawai, unjuk rasa atau demonstrasi.  \n[3.12.2] Bahwa selain itu, ihwal dalil penerapan norma Pasal 256 UU 1/20 23 yang \nmengatur sanksi pidana, menurut para Pemohon akan berdampak kri minalisasi atas \nhak untuk menyampaikan pendapat di muka umum yang dilakukan ber upa unjuk \nrasa atau demonstrasi bagi yang melanggarnya. Setelah Mahkamah mencermati \ndengan saksama, norma Pasal 256 UU 1/2023 bukan mengatur periha l hak untuk \nmenyampaikan pendapat di muka umum dan bukan mengatur ancaman p idana bagi \nyang menggunakan hak untuk menyampaikan pendapat di muka umum. Dalam hal \nini, norma Pasal 256 UU 1/2023 hanya mengatur sanksi pidana ata s penyampaian \npendapat di muka umum, berupa pawai, unjuk rasa, maupun demonst rasi di jalan \numum yang mengakibatkan terganggunya kepentingan umum, menimbul kan \nkeonaran, atau huru-hara dalam masyarakat yang dilakukan tanpa pemberitahuan \nterlebih dahulu kepada pihak yang berwenang (Polri). Artinya, j ika hak penyampaian \npendapat di muka umum dimaksud telah diberitahukan kepada pihak  yang \nberwenang, seandainya kegiatan pawai, unjuk rasa, maupun demons trasi tetap \nmengakibatkan terganggunya kepentingan umum, menimbulkan keonar an, atau \nhuru-hara dalam masyarakat, pelakunya tidak dapat dijerat denga n norma Pasal 256 \nUU 1/2023. Bahkan, secara normat if, jika kegiatan penyampaian p endapat di muka \numum dimaksud tidak diberitahukan kepada pihak yang berwenang d an tidak \nmenimbulkan terganggunya kepentingan umum, menimbulkan keonaran , atau huru-\n\n \n \n \n 39\nhara dalam masyarakat, maka pelaku kegiatan dimaksud tidak dapa t diancam \npidana dengan norma Pasal 256 UU 1/2023. Meskipun demikian, men urut \nMahkamah, pemberitahuan dimaksud sebaiknya dilakukan untuk menc egah agar \npenyampaian pendapat di muka umum tidak dibubarkan oleh aparat/ petugas \ndengan alasan adanya kekhawatiran terganggunya kepentingan umum , timbul \nkeonaran, dan huru-hara dalam masyarakat sebagaimana terancam k etentuan \nPasal 15 UU 9/1998. Sebagai suatu tindak pidana yang diformulas ikan dalam bentuk \ndelik materiil, ancaman pidana terhadap pawai, unjuk rasa, atau  demonstrasi terjadi \napabila unsur terganggunya kepentingan umum, timbul keonaran, a tau huru-hara \ndalam masyarakat telah terpenuhi. Oleh karena itu, dalam batas penalaran yang \nwajar, norma Pasal 256 UU 1/2023 harus dipandang bersifat kumul atif, yaitu \nancaman pidana baru dapat dijatuhkan apabila penanggung jawab, pemimpin, atau \npeserta pawai, unjuk rasa, atau demonstrasi tidak memberitahuka n terlebih dahulu \nkepada pihak yang berwenang dan kemudian menimbulkan gangguan k etertiban \numum, keonaran, dan huru-hara maka ancaman pidana dapat dikenak an. Namun \nsebaliknya, apabila tanpa atau tidak ada pemberitahuan dari pen anggung jawab, \npemimpin, atau peserta pawai, unjuk rasa, atau demonstrasi teta pi tidak \nterganggunya ketertiban umum maka orang tersebut tidak dapat di jerat sanksi \npidana. Dengan demikian, tindak pidana hanya dapat dikenakan te rhadap hak \npenyampaian pendapat di muka umum, baik yang berupa pawai, aksi  unjuk rasa \natau demonstrasi yang dilakukan tanpa pemberitahuan terlebih da hulu dan kegiatan \ndimaksud menimbulkan gangguan kepentingan umum, keonaran, dan h uru-hara.  \n Berkenaan dengan makna frasa “terganggunya kepentingan umum” t elah \ndijelaskan dalam Penjelasan Pasal 256 UU 1/2023, yaitu tidak be rfungsinya atau \ntidak dapat diaksesnya pelayanan publik akibat kerusakan yang t imbul dari adanya \npawai, unjuk rasa, atau demonstrasi. Lebih lanjut, frasa “keona ran” dan “huru-hara” \nmeski tidak dijelaskan lebih lanjut, menurut Mahkamah, unsur-un sur tersebut tidak \ndapat dilepaskan dengan unsur “terganggunya kepentingan umum” y ang terdapat \ndalam norma Pasal 256 UU 1/2023 tersebut. Namun demikian, secar a substansial, \nnorma Pasal 256 UU 1/2023, telah jelas dan tegas bahwa sanksi p idana dalam aksi \nunjuk rasa atau demonstrasi sebagaimana termaktub dalam Pasal 2 56 UU 1/2023, \ntidak dapat dikenakan sepanjang telah dilakukan pemberitahuan k epada pihak yang \nberwenang. Bahkan, sebagaimana diuraikan sebelumnya, sekalipun terhadap hak \npenyampaian pendapat di muka umum, baik yang berupa pawai, aksi  unjuk rasa \n\n \n \n \n 40\natau demonstrasi sekalipun yang mengakibatkan terganggunya kepe ntingan umum, \nmenimbulkan keonaran, dan menyebabkan huru-hara, sejauh penangg ung jawab, \npemimpin, atau peserta telah memberitahukan kepada aparat yang berwenang, \nancaman pidana dalam norma Pasal 256 UU 1/2023 tidak bisa diken akan kepada \npenanggung jawab, pemimpin, atau peserta pawai, pengunjuk rasa,  atau peserta \ndemonstrasi.  \n Berdasarkan seluruh uraian pertimbangan hukum di atas, sanksi pidana \nsebagaimana diatur dalam norma Pasal 256 UU 1/2023 bukanlah ket entuan yang \nmenghalang-halangi hak warga negara untuk memeroleh hak-haknya sebagaimana \nyang dijamin oleh UUD NRI Tahun 1945. Dengan demikian, dalil-da lil para Pemohon \nadalah tidak beralasan menurut hukum. \n[3.13]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum d i \natas, ketentuan norma Pasal 256 UU 1/2023 telah ternyata tidak menimbulkan \nketidakpastian hukum yang adil, tidak melanggar hak untuk bebas  mengeluarkan \npendapat, tidak melanggar hak untuk menyampaikan informasi, dan  tidak melanggar  \nperlindungan hak asasi manusia sebagaimana dijamin antara lain dalam Pasal 28D \nayat (1), Pasal 28E ayat (3), Pasal 28F, dan Pasal 28 I ayat (4) UUD NRI Tahun \n1945, bukan sebagaimana yang didalilkan oleh para Pemohon. Deng an demikian, \ndalil-dalil para Pemohon adalah tidak beralasan menurut hukum u ntuk seluruhnya; \n[3.14]   Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansi nya.",
+      "start_line": 1552,
+      "end_line": 1673
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Ma hkamah \nberkesimpulan:  \n[4.1]   Mahkamah berwenang mengadili permohonan a quo ;  \n[4.2]   Para Pemohon memiliki kedudukan hukum untuk mengajukan \npermohonan a quo ;  \n[4.3] Permohonan para Pemohon adalah tidak beralasan menurut hukum un tuk \nseluruhnya. \n\n \n \n \n 41\nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Nega ra Republik \nIndonesia Nomor 5076);",
+      "start_line": 1675,
+      "end_line": 1695
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan para Pemohon untuk seluruhnya. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh delapan  \nHakim Konstitusi yaitu Suhartoyo, selaku Ketua merangkap Anggot a, Saldi Isra, \nRidwan Mansyur, Arsul Sani, Anwar Usman, Enny Nurbaningsih, Dan iel Yusmic P. \nFoekh, dan M. Guntur Hamzah, masing-masing sebagai Anggota, pad a hari Kamis,  \ntanggal lima, bulan Februari, tahun dua ribu dua puluh enam, yang diucapkan \ndalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari Senin,  \ntanggal dua, bulan Maret, tahun dua ribu dua puluh enam, selesai diucapkan \npukul 10.01 WIB , oleh sembilan Hakim Konstitusi yaitu Suhartoyo, selaku Ketua \nmerangkap Anggota, Saldi Isra, Ridwan Mansyur, Arsul Sani, Anwa r Usman, Enny \nNurbaningsih, Daniel Yusmic P. Foekh, M. Guntur Hamzah, dan Adi es Kadir, \nmasing-masing sebagai Anggota, dengan dibantu oleh Nurlidya Ste phanny Hikmah \nsebagai Panitera Pengganti, serta dihadiri oleh para Pemohon da n/atau kuasanya, \nDewan Perwakilan Rakyat atau yang mewakili, dan Presiden atau y ang mewakili. \nKETUA, \nttd. \nSuhartoyo \n \n\n \n \n \n 42\nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra ttd. \nRidwan Mansyur \n ttd. \nArsul Sani ttd. \nAnwar Usman \n ttd. \nEnny Nurbaningsih ttd. \nDaniel Yusmic P. Foekh \n ttd. \nM. Guntur Hamzah ttd. \nAdies Kadir \nPANITERA PENGGANTI, \nttd. \nNurlid ya Stephann y Hikmah",
+      "start_line": 1697,
+      "end_line": 1737
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Tommy Juliandi",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Ika Aniyati",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Siti Fatimah",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Ali Fahmi",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Septian Abdiansyah",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Sadira Fahmi",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Narendra A. Reza",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Khaerul Imam Azam",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Shidqi Ilham Zhafiri",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Bagus Adiputro Putra Pratama",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Attaubah",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Fahri Heriansyah",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Rifky Andy Darmawan",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Febby Isranto Yudisthira",
+        "role": "applicant",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Zico Leonard Djagardo Simanjuntak, S.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Leon",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Mahkamah Konstitusi",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "pengujian Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang"
+    ],
+    "constitutional_articles": [
+      "Pasal 256",
+      "Pasal 28D ayat (1)",
+      "Pasal 28E ayat (3)",
+      "Pasal 28F",
+      "Pasal 28",
+      "Pasal 1",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 28I ayat (4)",
+      "Pasal 30 ayat (4)"
+    ],
+    "procedural_articles": [
+      "Pasal 60",
+      "Pasal 2 ayat (1)",
+      "Pasal 4 ayat (2)"
+    ],
+    "evidence": [
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "BUKTI P-13",
+      "BUKTI P-14",
+      "BUKTI P-15",
+      "BUKTI P-28",
+      "BUKTI P-31",
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-16",
+      "BUKTI P-17",
+      "BUKTI P-18",
+      "BUKTI P-20",
+      "BUKTI P-21",
+      "BUKTI P-22",
+      "BUKTI P-23",
+      "BUKTI P-24",
+      "BUKTI P-25",
+      "BUKTI P-27",
+      "BUKTI P-29",
+      "BUKTI P-30",
+      "REFERENSI:271/PUU-XXIII/2025",
+      "REFERENSI:277/PUU/PAN.MK/AP3/12/2025",
+      "REFERENSI:006/PUU-III/2005danutusanMahkamahKonstitusiNomor011/PUU-V/2007",
+      "REFERENSI:003/PUU-IV/2006",
+      "REFERENSI:2024/10/01/0615",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:1/2023bertentangandenganUUDNRITahun1945ataumenyatakanPasal256UU1/2023",
+      "REFERENSI:10/PUU-XXI/2023",
+      "REFERENSI:36/PUU-XXI/2023",
+      "REFERENSI:10/PUU-XXI/2023danPermohonanNomor36/PUU-XXI/2023",
+      "REFERENSI:1/2023bukansesuatuyangbarudalamsistemhukumIndonesia.SebelumberlakunyaUU1/2023"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan para Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan para Pemohon untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "NOMOR 271/PUU-XXIII/2025",
+      "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang",
+      "Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana ter hadap",
+      "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh",
+      "Alamat : Banjar Agung, Banjar Agung Mataram, Seputih",
+      "Mataram, Lampung Tengah, Lampung",
+      "Alamat : Dusun Balak Kidul, Balak, Songgon, Banyuwangi",
+      "Jawa Timur",
+      "Alamat : Kampung Tanah Koja III, Jatinegara Kaum, Pulo",
+      "Gadung, Jakart Timur, DKI Jakarta",
+      "Alamat : Jalan A. Yani, Utan Kayu Utara, Matraman, Jakarta",
+      "Alamat : Jalan H. Jusin, Sususkan, Ciracas, Jakarta Timur",
+      "Alamat : Jalan Cemara VIII Nomor 58 B, Pasteur, Sukajadi",
+      "Bandung, Jawa Barat",
+      "Alamat : Dukuh Tengah, Dukuh Tengah, Ketanggungan",
+      "Brebes, Jawa Tengah",
+      "Alamat : Gang Bakti, Duren Jaya, Bekasi Timur, Bekasi, Jawa",
+      "Alamat : Kaligung, Kalirejo, Kraton, Pasuruan, Jawa Timur",
+      "Alamat : Kp. Bolang, Bolang, Lebak Wangi, Serang, Banten",
+      "Alamat : Gunung Agung pauh, Agung Lawangan, Dempo",
+      "Utara, Pagar Alam, Sumatera Selatan",
+      "Alamat : Jatimulya, Jati Mulya, Kosambi, Tangerang, Banten",
+      "Alamat : Pademangan Timur, Pademangan, Jakarta Utara",
+      "Dalam hal ini berdasarkan Surat Kuasa Khusus bertanggal 14 Janu ari 2026",
+      "memberikan kuasa kepada Zico Leonard Djagardo Simanjuntak, S.H. , Leon",
+      "Maulana Mirza Pasha, S.H., Priskila Octaviani, S.H., Ratu Eka S haira, S.H., Ni",
+      "Saputro, kesemuanya merupakan Advokat dan Konsultan Hukum pada Kantor",
+      "Hukum Leo & Partners, beralamat di Grand Slipi Tower Lantai 5 U nit F, Jalan S",
+      "Parman Kav. 22-24, Kelurahan Palmerah, Kecamatan Palmerah, Jaka rta Barat, DKI",
+      "Selanjutnya Pemohon I sampai dengan Pemohon XIV disebut sebagai",
+      "bertanggal 24 Desember 2025 yang diterima di Kepaniteraan Mahka mah Konstitusi",
+      "pada tanggal 24 Desember 2025 berdasarkan Akta Pengajuan Permoh onan",
+      "Nomor 277/PUU/PAN.MK/AP3/12/2025 dan telah dicatat dala m Buku",
+      "Registrasi Perkara Konstitusi Elektronik (e-BRPK) dengan Nomor 271/PUU",
+      "I. KEWENANGAN MAHKAMAH",
+      "Negara Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD N RI",
+      "“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung",
+      "Mahkamah Konstitusi”",
+      "konstitusional yang tertuang pada Pasal 24C ayat (1) Perubahan Keempat",
+      "UUD NRI 1945",
+      "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama",
+      "undang terhadap Undang-Undang Dasar, memutus sengketa",
+      "memutus perselisihan tentang hasil Pemilihan Umum”",
+      "Tahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 12",
+      "Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan",
+      "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "pengujiannya dilakukan oleh Mahkamah Konstitusi”",
+      "Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "(selanjutnya disebut UU Kekuasaan Kehakiman), menyatakan",
+      "yang kewenangannya diberikan oleh Undang-Undang Dasar Negara",
+      "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah",
+      "terakhir dengan Undang-Undang Nomor 7 Tahun 2020 tentang Peruba han",
+      "Republik Indonesia Tahun 1945; c. Memutus pembubaran part ai",
+      "Mahkamah Konstitusi sebagai Pengawal Konstitusi atau The Guardian",
+      "Mahkamah Konstitusi sebagai Penafsir Akhir Konstitusi atau The Final",
+      "Mahkamah Konstitusi sebagai Pengawal Demokrasi atau The",
+      "Mahkamah Konstitusi sebagai Pelindung Hak Konstitusional War ga",
+      "Negara atau The Protector of Citizens Constitutional Rights",
+      "Mahkamah Konstitusi sebagai Pelindung Hak Asasi Manusia atau The",
+      "Protector of Human Rights",
+      "Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujia n",
+      "“Objek Permohonan PUU adalah undang-undang dan Perppu”",
+      "Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang",
+      "II. KEDUDUKAN HUKUM ( LEGAL STANDING ) DAN KERUGIAN",
+      "dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945”",
+      "a. Bahwa Pemohon I merupakan perseorangan WNI yang telah sah",
+      "b. Bahwa Pemohon II merupakan perseorangan WNI yang telah sah",
+      "memiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang",
+      "mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-4 dan P-17]",
+      "e. Bahwa Pemohon V merupakan perseorangan WNI yang telah sah",
+      "mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-7 dan P-20]",
+      "f. Bahwa Pemohon VI merupakan perseorangan WNI yang telah sah",
+      "mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-8 dan P-21]",
+      "g. Bahwa Pemohon VII merupakan perseorangan WNI yang telah sah",
+      "mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-9 dan P-22]",
+      "h. Bahwa Pemohon VIII merupakan perseorangan WNI yang telah sah",
+      "mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-11 dan P-24]",
+      "j. Bahwa Pemohon X merupakan perseorangan WNI yang telah sah",
+      "mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-12 dan P-25]",
+      "k. Bahwa Pemohon XI merupakan perseorangan WNI yang telah sah",
+      "mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-13 dan P-26]",
+      "mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-15 dan P-29]",
+      "n. Bahwa Pemohon XIV merupakan perseorangan WNI yang telah sah",
+      "mahasiswa Prodi Hukum Universita s Terbuka [Bukti P-28 dan P-30]",
+      "Tahun 2025 tentang Pedoman Beracara Dalam Perkara Pengujian",
+      "Undang Undang ditentukan 5 syarat mengenai kerugian konstitusio nal",
+      "Undang Dasar Negara Republik Indonesia 1945",
+      "a) Bahwa para Pemohon merupakan mahasiswa Program Sarjana (S-1)",
+      "Jurusan Hukum pada Fakultas Hukum, Ilmu Sosial, dan Ilmu Politi k",
+      "Universitas Terbuka (FHISIP UT) dan secara aktif mempelajari hu kum",
+      "P-31)",
+      "Mahasiswa Ilmu Hukum memandang penerapan Pasal 256 UU KUHP",
+      "TABEL 1",
+      "Kerugian Konstitusional Pemohon dengan Objek Pengujian Pasal 25 6",
+      "Objek Pengujian",
+      "Undang-Undang Hak",
+      "1945 Alasan Aktual dan Potensial",
+      "Alasan Aktual",
+      "bagi setiap Warga Negara",
+      "celah kepada Aparat Penegak",
+      "Alasan Potensial",
+      "jawab ne gara, Alasan Aktual",
+      "Negara Indonesia. Hak yang",
+      "hukum ( legal standing ) sebagai pemohon Pengujian Undang-Undang dalam",
+      "Mahkamah Konstitusi beserta Penjelasannya dan syarat kerugian h ak",
+      "konstitusional sebagaimana tertuang dalam Putusan Mahkamah Kons titusi",
+      "Nomor 006/PUU-III/2005 dan utusan Mahkamah KonstitusiNomor 011/ PUU",
+      "V/2007",
+      "IV. ALASAN PERMOHONAN",
+      "Resky Karty Kahar & Andi Marlina (2025) dalam penelitian berjud ul “Kajian",
+      "Lex Certa terhadap efektivitas penegakan hukum Pasal 221 ayat (2) KUHP",
+      "tentang Obstruction of Justice perspektif Istihsan Istihna’i” memberikan dalil",
+      "Di sisi lain Michael Faure & Morag Goodwin (2014) dalam penelit iannya",
+      "a. Kasus Robertus Robert tahun 2019 lalu yang dinilai adanya ke salahan",
+      "No. 19 tahun 2016 tentang Informasi dan Teknologi Elektronik pa dahal",
+      "b. Kasus Daniel Frits Maurits Tangkilisan tahun 2023 yang didak wa",
+      "Tahun 2008 tentang ITE di mana hasil akhirnya Daniel Frits diny atakan",
+      "tidak bersalah oleh Mahkamah Agung RI terkait dengan pencemaran",
+      "nama baik dimana Daniel Frits melaksanakan upaya promotif demi",
+      "semua Penegak Hukum akan sama dalam memaknai Pasal 256 KUHP",
+      "Kilas balik dalam beberapa putusan Mahkamah Konstitusi terdahu lu",
+      "Mahkamah Konstitusi sebagai salah satu lembaga resmi Yudikatif di",
+      "amar putusannya. Melalui Putusan Mahkamah Konstitusi Nomor 003/ PUU",
+      "Meskipun Pasal 256 KUHP memenuhi syarat pertama yang ditentukan oleh",
+      "b) Penerapan Pasal 256 KUHP dapat mengriminalisasi konsekuensi yang",
+      "Tahun 1998 tentang Kemerdekaan Menyampaikan Pendapat di Muka",
+      "a. Aksi Buruh yang menolak Omnibus Law Cipta Kerja pada tahun 2 022",
+      "lalu. Hasilnya, dalam aksi tersebut International Amnesty melaporkan",
+      "b. Kasus Kanjuruhan Malang di mana sebanyak 135 orang meninggal",
+      "Aparat Kepolisian menembakkan gas air mata di dalam stadion dan",
+      "proporsionalitas dijelaskan oleh Willy Wicaksono, Vegitya RP, d an Laurel",
+      "berkelompok dalam suatu organisasi. Disisi lain, Bahar Eludllat sani",
+      "Israhyanto, dan Agus Riwanto (2019) menambahkan bawa ada be berapa",
+      "Mahkamah Konstitusi dalam pengujian undang-undang menyimpulkan bahwa",
+      "28F UUD NRI 1945",
+      "a. Organisasi Mahasiswa (Ormawa) UT Bogor melakukan aksi tolak",
+      "mendesak percepatan pengesahan RUU Perampasan Aset",
+      "Soeharto sebagai Pahlawan Nasional, menuntut penetapan status",
+      "pengesahan UU Masyarakat Adat. Hal ini menunjukkan bahwa",
+      "b. Himpunan Mahasiswa Ilmu Hukum UT Bogor menggelar aksi damai",
+      "bertemu secara langsung kepada Presiden Joko Widodo di Istana",
+      "Indonesia telah meratifikasi International Covenant on Civil and Political",
+      "Di samping itu, regulasi lain yaitu UN Human Rights Committee d a l a m",
+      "General Comment No. 37 tahun 2020 tentang right of peaceful assembly",
+      "yang dimiliki oleh setiap manusia. United Nation Development Programe",
+      "(UNDP) dalam bukunya yang berjudul Protest, Human Rights, and",
+      "Conflict Prevention: Proposals to rethink the models of state response",
+      "V. PETITUM",
+      "Mahkamah Konstitusi untuk memberikan putusan sebagai berikut",
+      "Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia",
+      "Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia",
+      "Nomor 6842) bertentangan dengan Undang-Undang Dasar Negara",
+      "Republik Indonesia Tahun 1945 dan tidak mempunyai kekuatan huku m",
+      "Menyatakan Pasal 256 Undang-Undang Nomor 1 Tahun 2023 tentang K itab",
+      "Republik Indonesia Tahun 1945 sepanjang tidak dimaknai sebagai",
+      "Apabila Mahkamah Konstitusi berpendapat lain, mohon putusan yan g seadil",
+      "Kitab Undang-Undang Hukum Pidana",
+      "Mam Azam",
+      "Ilham Zhafiri",
+      "Adiptio Putra P",
+      "a. Kamis, 18 Agustus 2025: demonstrasi “Menolak Kenaikan",
+      "Gaji dan Tunjangan Anggota DPR RI” di Gedung DPR RI",
+      "“Tolak Gelar Pahlawan Soeharto” yang diselenggarakan di Tugu Kujang, Kota Bogor",
+      "segala sesuatu yang terjadi di persidangan cukup ditunjuk dalam Berita Acara",
+      "Kewenangan Mahkamah",
+      "Dasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun",
+      "Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang",
+      "Mahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang",
+      "Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24",
+      "Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia",
+      "Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor",
+      "Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negar a Republik",
+      "Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik",
+      "Indonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadi li pada tingkat",
+      "Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pid ana",
+      "(Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambaha n Lembaran",
+      "Negara Republik Indonesia Nomor 6842, selanjutnya disebut UU 1/ 2023) terhadap",
+      "Kedudukan Hukum Pemohon",
+      "perkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia",
+      "(1) UU MK",
+      "[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi",
+      "pada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU",
+      "MK, Putusan Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan Putu san",
+      "Mahkamah Konstitusi Nomor 11/PUU-V/2007, serta syarat-syarat ke rugian hak",
+      "mahasiswa S-1 Fakultas Hukum. Pemohon I sampai dengan Pemohon X II",
+      "kegiatan kolektif lainnya. Sementara Pemohon XIII dan Pemohon X IV aktif",
+      "Pokok Permohonan",
+      "dimuat pada bagian Duduk Perkara) yang apabila dipahami dan dir umuskan oleh",
+      "Januari 2026 (selengkapnya dimuat pada bagian Duduk Perkara)",
+      "dengan ketentuan Pasal 60 UU MK dan Pasal 72 Peraturan Mahkamah Konstitusi",
+      "Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujia n Undang",
+      "Bahwa Pasal 60 UU MK serta Pasal 72 PMK 7/2025, masing-masing",
+      "muatan dalam Undang-Undang Dasar Negara Republik Indonesia Tahu n 1945",
+      "dalam Putusan Mahkamah Konstitusi Nomor 10/PUU-XXI/2023, diucap kan dalam",
+      "dalam Putusan Mahkamah Konstitusi Nomor 36/PUU-XXI/2023 yang di ucapkan",
+      "berbeda dengan Permohonan Nomor 10/PUU-XXI/2023 dan Permohonan Nomor",
+      "kedua norma UUD NRI Tahun 1945 ini sejalan dengan Article 19 Universal Declation",
+      "of Human Rights yang menyatakan, “Everyone has the right to freedom of opinion",
+      "lebih lanjut, yakni antara lain dalam Undang-Undang Nomor 9 Tah un 1998 tentang",
+      "Kemerdekaan Menyampaikan Pendapat Di Muka Umum (UU 9/1998), Und ang",
+      "Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (UU 39/199 9), dan",
+      "Undang-Undang Nomor 17 Tahun 2013 tentang Organisasi Kemasyarak atan (UU",
+      "yang berwenang, in casu Kepolisian Negara Republik Indonesia (Polri), sebelum",
+      "UU 9/1998]",
+      "rasa atau demonstrasi bagi yang melanggarnya. Setelah Mahkamah mencermati",
+      "dijelaskan dalam Penjelasan Pasal 256 UU 1/2023, yaitu tidak be rfungsinya atau",
+      "[4.2] Para Pemohon memiliki kedudukan hukum untuk mengajukan",
+      "Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun",
+      "1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi",
+      "sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020",
+      "tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 tentang",
+      "Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor",
+      "216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang",
+      "Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara",
+      "Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Nega ra Republik",
+      "Indonesia Nomor 5076)",
+      "Ridwan Mansyur, Arsul Sani, Anwar Usman, Enny Nurbaningsih, Dan iel Yusmic P",
+      "Foekh, dan M. Guntur Hamzah, masing-masing sebagai Anggota, pad a hari Kamis",
+      "dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari Senin",
+      "merangkap Anggota, Saldi Isra, Ridwan Mansyur, Arsul Sani, Anwa r Usman, Enny",
+      "Nurbaningsih, Daniel Yusmic P. Foekh, M. Guntur Hamzah, dan Adi es Kadir",
+      "masing-masing sebagai Anggota, dengan dibantu oleh Nurlidya Ste phanny Hikmah",
+      "Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden atau y ang mewakili",
+      "KETUA",
+      "ANGGOTA-ANGGOTA",
+      "Saldi Isra ttd",
+      "Ridwan Mansyur",
+      "Arsul Sani ttd",
+      "Anwar Usman",
+      "Enny Nurbaningsih ttd",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah ttd",
+      "Adies Kadir",
+      "PUTUSAN",
+      "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "Nama : Tommy Juliandi",
+      "Nama : Ika Aniyati",
+      "Nama : Siti Fatimah",
+      "Nama : Ali Fahmi",
+      "Nama : Septian Abdiansyah",
+      "Nama : Sadira Fahmi",
+      "Nama : Khaerul Imam Azam",
+      "Nama : Shidqi Ilham Zhafiri",
+      "Nama : Bagus Adiputro Putra Pratama",
+      "Nama : Fahri Heriansyah",
+      "Nama : Rifky Andy Darmawan",
+      "Nama : Febby Isranto Yudisthira",
+      "DUDUK PERKARA",
+      "Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar",
+      "Bahwa selanjutnya Mahkamah Konstitusi (selanjutnya disebut M K)",
+      "Bahwa berdasarkan Pasal 9 ayat (1) Undang-Undang Nomor 12 Ta hun",
+      "Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konsti tusi",
+      "Bahwa berdasarkan seluruh uraian di atas, maka Mahkamah Kons titusi",
+      "KONSTITUSIONAL PARA PEMOHON",
+      "Bahwa Pasal 51 ayat (1) UU MK menyatakan bahwa pemohon adala h",
+      "Bahwa dalam Penjelasan Pasal 51 ayat (1) UU MK ditegaskan ba hwa",
+      "c. Bahwa Pemohon III merupakan perseorangan WNI yang telah sah",
+      "d. Bahwa Pemohon IV merupakan perseorangan WNI yang telah sah",
+      "i. Bahwa Pemohon IX merupakan perseorangan WNI yang telah sah",
+      "l. Bahwa Pemohon XII merupakan perseorangan WNI yang telah sah",
+      "m. Bahwa Pemohon XIII merupakan perseorangan WNI yang telah sah",
+      "Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi N omor 7",
+      "Bahwa Pemohon XIII dan Pemohon XIV aktif menggunakan hak",
+      "Bahwa sebagai Mahasiswa Ilmu Hukum yang memiliki pemahaman",
+      "UU KUHP",
+      "Norma a quo melanggar Kepastian Hukum sehingga bertentangan dengan",
+      "c. Penangkapan Delpedro dan rekannya sebagai aktivis Hak Asasi",
+      "di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar\"",
+      "Menyatakan Pasal 256 Undang-Undang Nomor 1 Tahun 2023 tentan g Kitab",
+      "Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "Bukti P-1 : Fotokopi Undang-Undang Nomor 1 Tahun 2023 tentan g",
+      "Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama To mmy",
+      "Bukti P-4 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ik a",
+      "Bukti P-5 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Si ti",
+      "Bukti P-6 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Na rendra",
+      "Bukti P-7 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Al i Fahmi",
+      "Bukti P-8 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Se ptian",
+      "Bukti P-9 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Sa dira",
+      "Bukti P-10 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Khaerul",
+      "Bukti P-11 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Shidqi",
+      "Bukti P-12 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Bagus",
+      "Bukti P-13 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Attaubah",
+      "Bukti P-14 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Fahri",
+      "Bukti P-15 : Fotokopi Kartu Tanda Penduduk (KTP) a.n. Rifky Andy",
+      "Bukti P-16 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Tommy",
+      "Bukti P-17 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama I k a",
+      "Bukti P-18 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama S i t i",
+      "Bukti P-20 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama A l i",
+      "Bukti P-21 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Septian",
+      "Bukti P-22 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Sadira",
+      "Bukti P-23 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Khaerul",
+      "Bukti P-24 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Shidqi",
+      "Bukti P-25 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Bagus",
+      "Bukti P-27 : Fotokopi Kartu Tanda Mahasiswa (KTM) Fahri Her iansyah",
+      "Bukti P-28 : Fotokopi Kartu Tanda Penduduk (KTP) a.n. Febby I s r a n t o",
+      "Bukti P-29 : Fotokopi Kartu Tanda Mahasiswa (KTM) a.n. Rifk y Andy",
+      "Bukti P-30 : Fotokopi Kartu Tanda Mahasiswa (KTM) a.n. Febb y Isranto",
+      "PERTIMBANGAN HUKUM",
+      "KONKLUSI",
+      "AMAR PUTUSAN"
+    ],
+    "clerks": [
+      "bertanggal 24 Desember 2025 yang diterima di Kepaniteraan Mahka mah Konstitusi",
+      "sebagai Panitera Pengganti, serta dihadiri oleh para Pemohon da n/atau kuasanya",
+      "PANITERA PENGGANTI"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "271/PUU-XXIII/2025",
+      "277/PUU/PAN.MK/AP3/12/2025",
+      "006/PUU-III/2005danutusanMahkamahKonstitusiNomor011/PUU-V/2007",
+      "003/PUU-IV/2006",
+      "2024/10/01/0615",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "1/2023bertentangandenganUUDNRITahun1945ataumenyatakanPasal256UU1/2023",
+      "10/PUU-XXI/2023",
+      "36/PUU-XXI/2023",
+      "10/PUU-XXI/2023danPermohonanNomor36/PUU-XXI/2023",
+      "1/2023bukansesuatuyangbarudalamsistemhukumIndonesia.SebelumberlakunyaUU1/2023"
+    ],
+    "referenced_cases": [
+      "271/PUU-XXIII/2025",
+      "277/PUU/PAN.MK/AP3/12/2025",
+      "006/PUU-III/2005danutusanMahkamahKonstitusiNomor011/PUU-V/2007",
+      "003/PUU-IV/2006",
+      "2024/10/01/0615",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "1/2023bertentangandenganUUDNRITahun1945ataumenyatakanPasal256UU1/2023",
+      "10/PUU-XXI/2023",
+      "36/PUU-XXI/2023",
+      "10/PUU-XXI/2023danPermohonanNomor36/PUU-XXI/2023",
+      "1/2023bukansesuatuyangbarudalamsistemhukumIndonesia.SebelumberlakunyaUU1/2023"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [
+      "decision_date_missing"
+    ],
+    "needs_manual_review": true
+  }
+}

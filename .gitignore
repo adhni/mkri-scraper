@@ -13,13 +13,10 @@ tests/manual_truth/*.json
 !tests/manual_truth/.gitkeep
 !tests/manual_truth/README.md
 
-data/parsed_json/*.json
 !data/parsed_json/.gitkeep
 
-data/validated_json/*.json
 !data/validated_json/.gitkeep
 
-data/review_queue/*.json
 !data/review_queue/.gitkeep
 
 data/raw_pdfs/*.pdf
