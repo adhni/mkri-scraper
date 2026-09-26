@@ -8,7 +8,7 @@ Fokus implementasi saat ini:
 
 - parser inti berbasis pure Python
 - tanpa OpenAI API di pipeline default
-- viewer web untuk review internal
+- MKRI ASTRA: explorer perkara dengan ringkasan, topik, dan pencarian teks dokumen
 - workflow ingest berbasis folder inbox
 - deploy viewer ke Render
 
@@ -20,7 +20,9 @@ Yang sudah jadi:
 - parser PDF v1 dengan output JSON terstruktur
 - schema validation + business rules + review flags
 - folder `review_queue` untuk kasus yang masih perlu review
-- viewer web untuk daftar perkara dan halaman detail
+- viewer dengan judul/ringkasan editorial, topik, filter tahun putusan dan hasil perkara, serta tampilan mobile
+- ekstraksi tanggal pengucapan (angka/ejaan), amar final, panel hakim bertanda tangan, dan pemohon ketetapan
+- 13 snapshot perkara diperbarui; catatan editorial terpisah agar aman dari re-import
 - workflow `ingest-inbox` untuk file PDF baru
 - deploy codebase ke GitHub private
 - deploy viewer ke Render free
@@ -131,7 +133,8 @@ Catatan:
 Saat ini repo membawa snapshot JSON viewer agar deploy Render tidak kosong:
 
 - `data/parsed_json/*.json`
-- `data/review_queue/*.json`
+- `data/validated_json/*.json`
+- `data/editorial/cases.json`
 
 Yang tidak ikut repo:
 
@@ -145,24 +148,22 @@ Yang tidak ikut repo:
 
 - parser masih heuristik untuk banyak blok naratif
 - field yang masih rentan:
-  - `decision_date`
-  - `judges`
-  - `clerks`
   - `relations`
   - `proceedings`
   - `legal_counsels`
   - `amicus_curiae`
-- banyak perkara nyata masih masuk `review_queue`
+- 13 perkara contoh kini lolos pemeriksaan otomatis; ini bukan jaminan seluruh field telah diverifikasi manual
+- format PDF baru atau OCR yang buruk masih dapat masuk `review_queue`
 - discovery dari MKRI belum bisa dianggap full otomatis dan stabil
 
 ## Arah Lanjut yang Masuk Akal
 
 Prioritas berikutnya yang paling bernilai:
 
-1. memperkuat kualitas extractor
-2. memperbaiki review workflow di UI
-3. menambah admin/upload flow langsung dari web
-4. merapikan strategi data untuk deploy hosted
+1. menambah admin/upload dan koreksi fakta langsung dari web
+2. penyimpanan permanen untuk PDF dan koreksi pada deploy hosted
+3. perbandingan dua perkara dan bookmark
+4. menambah koleksi tematik; memperkuat extractor saat format baru ditemukan
 
 ## Commit Penting
 

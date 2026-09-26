@@ -9,7 +9,7 @@ from typing import Any, Callable
 from urllib.parse import parse_qs, quote, urlencode
 from wsgiref.simple_server import make_server
 
-from .webdata import build_case_catalog, build_dashboard_stats, filter_case_summaries, get_case_record, summarize_case
+from .webdata import build_case_catalog, build_dashboard_stats, filter_case_summaries, get_case_record, summarize_case, public_summary, OUTCOME_LABELS
 
 
 _NOISY_NAME_TOKENS = (
@@ -55,10 +55,12 @@ _REVIEW_FLAG_LABELS = {
     "decision_date_missing": "Tanggal putusan belum terbaca",
     "outcome_summary_not_in_amar_style": "Ringkasan amar belum rapi",
     "respondent_count_high": "Jumlah pihak termohon terlalu tinggi",
-    "judges_missing": "Daftar hakim belum terbaca",
-    "constitutional_articles_missing": "Batu uji UUD belum terbaca",
+    "judges_not_extracted": "Daftar hakim belum terbaca",
+    "constitutional_articles_missing_for_putusan": "Batu uji UUD belum terbaca",
 }
 _SORT_LABELS = {
+    "newest": "Putusan terbaru",
+    "oldest": "Putusan terlama",
     "review_priority": "Paling perlu review",
     "case_number": "Nomor perkara",
     "document_type": "Jenis dokumen",
@@ -67,306 +69,64 @@ _SORT_LABELS = {
 
 
 STYLES_CSS = """
-:root {
-  --bg: #f4efe6;
-  --paper: #fffaf1;
-  --ink: #1c221b;
-  --muted: #5f6a5f;
-  --line: #d8d0c1;
-  --accent: #1d6b4f;
-  --accent-soft: #dcefe6;
-  --warn: #9d4d00;
-  --warn-soft: #fde9d7;
-  --shadow: 0 18px 60px rgba(28, 34, 27, 0.08);
-}
-* { box-sizing: border-box; }
-body {
-  margin: 0;
-  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
-  background:
-    radial-gradient(circle at top left, rgba(29,107,79,0.09), transparent 30%),
-    linear-gradient(180deg, #f7f1e8 0%, var(--bg) 100%);
-  color: var(--ink);
-}
-a { color: inherit; text-decoration: none; }
-.shell { max-width: 1280px; margin: 0 auto; padding: 28px; }
-.hero {
-  display: grid;
-  grid-template-columns: 1.2fr 0.8fr;
-  gap: 24px;
-  align-items: start;
-  margin-bottom: 24px;
-}
-.hero-card, .panel, .case-card {
-  background: rgba(255, 250, 241, 0.92);
-  border: 1px solid var(--line);
-  border-radius: 22px;
-  box-shadow: var(--shadow);
-}
-.hero-card { padding: 28px; }
-.hero-kicker {
-  display: inline-block;
-  padding: 6px 10px;
-  border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent);
-  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-.hero h1 {
-  margin: 14px 0 10px;
-  font-size: clamp(36px, 5vw, 58px);
-  line-height: 0.95;
-}
-.hero p {
-  margin: 0;
-  color: var(--muted);
-  font-size: 18px;
-}
-.stats {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px;
-}
-.stat {
-  padding: 18px;
-  background: var(--paper);
-  border: 1px solid var(--line);
-  border-radius: 18px;
-}
-.stat-label {
-  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
-  color: var(--muted);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-.stat-value {
-  margin-top: 8px;
-  font-size: 34px;
-  font-weight: 700;
-}
-.toolbar {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 12px;
-  padding: 18px;
-  margin-bottom: 18px;
-  align-items: end;
-}
-.toolbar input, .toolbar select, .toolbar button {
-  width: 100%;
-  border: 1px solid var(--line);
-  border-radius: 14px;
-  padding: 12px 14px;
-  background: #fffdf8;
-  color: var(--ink);
-  font: 500 14px/1.3 "Avenir Next", "Segoe UI", sans-serif;
-}
-.toolbar button {
-  background: var(--accent);
-  color: white;
-  border-color: var(--accent);
-  cursor: pointer;
-}
-.field {
-  display: grid;
-  gap: 6px;
-}
-.field.search {
-  grid-column: span 2;
-}
-.field-label {
-  color: var(--muted);
-  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-.toolbar .toggle {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  min-height: 46px;
-  padding: 0 14px;
-  border: 1px solid var(--line);
-  border-radius: 14px;
-  background: #fffdf8;
-  font: 500 14px/1.3 "Avenir Next", "Segoe UI", sans-serif;
-}
-.toolbar .toggle input {
-  width: auto;
-  margin: 0;
-}
-.grid {
-  display: grid;
-  gap: 16px;
-}
-.case-card { padding: 18px; }
-.case-top {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  align-items: start;
-}
-.case-number {
-  margin: 0;
-  font-size: 22px;
-}
-.case-meta {
-  margin-top: 10px;
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-.badge {
-  display: inline-flex;
-  padding: 6px 10px;
-  border-radius: 999px;
-  background: #f0ece3;
-  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
-}
-.badge.partial { background: var(--warn-soft); color: var(--warn); }
-.badge.ok { background: var(--accent-soft); color: var(--accent); }
-.badge.review { background: #efe4ff; color: #6b46a8; }
-.badge.source { background: #ebe6da; color: #5a6257; }
-.summary {
-  margin-top: 14px;
-  color: var(--muted);
-}
-.flag-list {
-  margin-top: 14px;
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-.flag {
-  padding: 6px 10px;
-  border-radius: 999px;
-  background: #f5eee0;
-  color: #71431b;
-  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
-}
-.flag-link {
-  display: inline-flex;
-  align-items: center;
-}
-.topbar {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  align-items: flex-start;
-  flex-wrap: wrap;
-}
-.hero-stats {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 12px;
-  margin-top: 18px;
-}
-.mini-stat {
-  padding: 14px 16px;
-  border: 1px solid var(--line);
-  border-radius: 16px;
-  background: var(--paper);
-}
-.mini-stat .label {
-  color: var(--muted);
-  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-.mini-stat .value {
-  margin-top: 6px;
-  font-size: 20px;
-  font-weight: 700;
-}
-.section-chips {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-.chip {
-  display: inline-flex;
-  padding: 7px 12px;
-  border-radius: 999px;
-  background: #efe9db;
-  color: #4c5248;
-  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
-}
-.subtle {
-  color: var(--muted);
-}
-.source-list {
-  display: grid;
-  gap: 10px;
-}
-.source-item {
-  display: flex;
-  justify-content: space-between;
-  gap: 12px;
-  padding-top: 10px;
-  border-top: 1px solid var(--line);
-}
-.source-item:first-child {
-  padding-top: 0;
-  border-top: 0;
-}
-.source-name {
-  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
-  color: var(--muted);
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-.source-path {
-  text-align: right;
-  word-break: break-all;
-}
-.inline-link {
-  color: var(--accent);
-  text-decoration: underline;
-  text-underline-offset: 2px;
-}
-.detail-layout {
-  display: grid;
-  grid-template-columns: 0.95fr 1.35fr;
-  gap: 18px;
-}
-.panel { padding: 20px; }
-.panel h2 {
-  margin: 0 0 14px;
-  font-size: 22px;
-}
-.kv { display: grid; gap: 10px; }
-.kv-row {
-  display: grid;
-  grid-template-columns: 150px 1fr;
-  gap: 12px;
-  padding-top: 10px;
-  border-top: 1px solid var(--line);
-}
-.kv-key {
-  color: var(--muted);
-  font: 600 12px/1.2 "Avenir Next", "Segoe UI", sans-serif;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-.stack {
-  display: grid;
-  gap: 14px;
-}
-.mono {
-  font-family: "SFMono-Regular", "JetBrains Mono", ui-monospace, monospace;
-  font-size: 13px;
-}
-.empty {
-  padding: 24px;
-  text-align: center;
-  color: var(--muted);
-}
-@media (max-width: 980px) {
-  .hero, .detail-layout { grid-template-columns: 1fr; }
-  .toolbar { grid-template-columns: 1fr; }
-}
+:root{--bg:#f5f3ec;--paper:#fffdf8;--ink:#23392f;--muted:#65716a;--line:#dcded3;--accent:#235c44;--accent-soft:#e5ecd9;--warn:#89531d;--warn-soft:#f7edda}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+a{color:inherit;text-decoration:none}
+a:hover{color:var(--accent)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #aa742d;outline-offset:4px}
+button,input,select{font:inherit}
+button{cursor:pointer}
+h1,h2,h3,p{margin-top:0}
+h1,h2,h3{font-family:Georgia,"Iowan Old Style",serif;font-weight:400;line-height:1.2}
+.shell{max-width:1200px;margin:auto;padding:0 36px}
+.site-header{min-height:94px;display:flex;justify-content:space-between;align-items:center;gap:20px;border-bottom:1px solid var(--line)}
+.wordmark{display:flex;align-items:center;gap:7px;font-size:16px;letter-spacing:.12em;white-space:nowrap}
+.wordmark strong{font-weight:750}.brand-symbol{font-size:38px;line-height:1;margin-right:8px}
+nav{display:flex;gap:28px;font-size:13px}nav a:hover,.read-link:hover{text-decoration:underline;text-underline-offset:5px}
+.hero{display:grid;grid-template-columns:1.75fr 1fr;gap:80px;align-items:center;padding:62px 0 46px}
+.eyebrow,.field-label{font-size:11px;font-weight:650;letter-spacing:.13em;text-transform:uppercase;color:var(--muted)}
+.hero h1{font-size:clamp(38px,4.6vw,59px);letter-spacing:-.045em;margin:20px 0;line-height:1.08}
+.hero h1 em{font-weight:400;color:var(--accent)}
+.hero p{max-width:500px;font-size:16px;color:var(--muted);margin-bottom:0}
+.collection-note{border-left:1px solid var(--line);padding:8px 0 8px 34px}
+.collection-count{font:76px/1.15 Georgia,serif;letter-spacing:-.04em;margin:12px 0}.collection-count span{font:14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;margin-left:12px;letter-spacing:0;color:var(--muted)}
+.collection-meta{display:flex;gap:25px;font-size:13px}.collection-note p{font-size:12px;line-height:1.6;margin-top:16px}
+.browse-topics{padding:4px 0 30px}.topic-list{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.chip{display:inline-flex;align-items:center;gap:12px;padding:7px 13px;border:1px solid var(--line);border-radius:4px;font-size:12px;background:transparent}
+.chip span{color:var(--muted);font-size:11px}.chip:hover,.chip.selected{background:var(--accent);color:white;border-color:var(--accent)}.chip.selected span,.chip:hover span{color:inherit}
+.panel{padding:26px;background:var(--paper);border:1px solid var(--line);border-radius:8px;min-width:0}.panel h2{font-size:23px;margin:12px 0 18px}.panel h3{font-size:20px}.panel p:last-child{margin-bottom:0}
+.search-panel{padding:24px;margin-bottom:30px;background:#eeeee5}
+.search-line{display:grid;grid-template-columns:1fr auto;gap:12px;align-items:end}
+.field{display:grid;gap:8px;min-width:0}.field input,.field select{width:100%;min-width:0;padding:12px;border:1px solid #c9d0c2;border-radius:4px;background:var(--paper);color:var(--ink);font-size:13px;min-height:46px}
+.search-line button,.small-button{background:var(--accent);color:#fff;border:1px solid var(--accent);border-radius:4px;padding:12px 22px;min-height:46px;font-size:13px}.search-line button:hover,.small-button:hover{background:#173f2d}.search-line button span{margin-left:20px}
+.filter-line{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-top:20px}
+.advanced{margin-top:20px;border-top:1px solid var(--line);padding-top:14px;font-size:12px}.advanced summary{color:var(--muted);cursor:pointer}.toggle{display:flex;gap:8px;align-items:center;margin-top:15px}
+.filter-actions{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-top:18px;font-size:11px;color:var(--muted)}.filter-actions>span{margin-right:auto}.small-button{min-height:32px;padding:6px 12px;font-size:11px}
+.results-heading{display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin:34px 0 18px}.results-heading h2{font-size:25px;margin:0}.results-heading>span{font-size:12px;color:var(--muted)}
+.grid{display:grid;gap:18px}.case-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.case-card{display:flex;flex-direction:column;min-width:0;padding:27px;background:var(--paper);border:1px solid var(--line);border-radius:8px;transition:border-color .15s,box-shadow .15s}.case-card:hover{border-color:#9dac97;box-shadow:0 5px 18px #263d2b08}
+.card-topline{display:flex;justify-content:space-between;gap:15px;align-items:baseline;margin-bottom:20px;font-size:11px}.topic-link{font-weight:650;color:var(--accent)}.topic-link+.topic-link{margin-left:10px}.document-label{color:var(--muted)}
+.case-title-link h3{font-size:26px;letter-spacing:-.02em;margin:0 0 12px;line-height:1.2}.case-title-link:hover h3{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+.case-reference{font-size:11px;color:var(--muted);letter-spacing:.015em;overflow-wrap:anywhere}.case-reference span{margin:0 7px}
+.summary{font-size:13px;line-height:1.8;color:#57665d;margin:18px 0 24px;flex:1}
+.card-bottom{display:flex;justify-content:space-between;gap:12px;align-items:center;padding-top:18px;border-top:1px solid var(--line)}
+.badge{display:inline-block;padding:5px 10px;border-radius:4px;background:#eeeee7;font:600 11px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#596359}
+.outcome-granted,.outcome-granted_partly{background:#e3eddc;color:#3c6230}.outcome-rejected{background:#f2e7dc;color:#805538}.outcome-inadmissible{background:#e8edf0;color:#4b6675}.outcome-withdrawn,.outcome-dismissed{background:#ede7ef;color:#735f7a}
+.read-link{font-size:12px;white-space:nowrap;font-weight:600}.read-link span{margin-left:8px}
+.data-note{display:block;font-size:11px;color:var(--warn);margin-top:14px}
+.back-link{display:inline-block;font-size:12px;color:var(--muted);margin-top:30px}.case-intro{padding:20px 0 32px;max-width:880px}.case-intro h1{font-size:clamp(32px,4.5vw,52px);letter-spacing:-.035em;margin:24px 0 18px;line-height:1.15}.case-intro .case-reference{font-size:13px}
+.detail-layout{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(0,1fr);gap:22px;align-items:start}.stack{display:grid;gap:18px;min-width:0}.detail-aside .panel{background:#efefe6}.story{font-size:17px;line-height:1.85}.story-panel h2{font-size:28px}.provenance{font-size:11px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}.provenance a{display:inline-block;margin-left:4px}.law-text{font-size:14px}.source-panel p{font-size:12px;color:var(--muted)}.source-panel .stack{gap:8px;font-size:12px}
+.kv{display:grid;gap:12px}.kv-row{display:grid;grid-template-columns:100px minmax(0,1fr);gap:16px;padding-top:12px;border-top:1px solid var(--line);font-size:13px;overflow-wrap:anywhere}.kv-key{font-size:10px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
+#amar .kv-row{grid-template-columns:42px minmax(0,1fr)}#amar{scroll-margin-top:24px}#amar .badge{font-size:13px}
+.inline-link{color:var(--accent);text-decoration:underline;text-underline-offset:3px}.subtle{color:var(--muted)}.mono{font-family:ui-monospace,monospace;font-size:11px;overflow-wrap:anywhere}
+.data-details{margin-top:20px;font-size:13px;background:transparent}.data-details>summary{cursor:pointer;font-size:13px;font-weight:600}.data-details[open]>summary{margin-bottom:20px}.document-text{max-height:650px;overflow:auto;padding:15px;background:var(--paper)}.document-text p{white-space:pre-wrap;font-size:13px;overflow-wrap:anywhere}.document-text h3{font-size:17px;overflow-wrap:anywhere}
+.flag-list{display:flex;gap:8px;flex-wrap:wrap}.flag{font-size:11px;background:var(--warn-soft);color:var(--warn);padding:4px 8px;border-radius:4px}.empty{grid-column:1/-1;text-align:center;padding:50px 20px}.empty p{color:var(--muted)}
+footer{margin-top:65px;padding:30px 0 40px;border-top:1px solid var(--line);display:flex;align-items:center;gap:35px}footer p{font-size:11px;color:var(--muted);margin:0;flex:1}footer>a{font-size:11px}
+@media(max-width:850px){.hero{gap:30px;grid-template-columns:1.5fr 1fr}.hero h1{font-size:44px}.collection-note{padding-left:24px}.detail-layout{grid-template-columns:1fr}.detail-aside{grid-template-columns:1fr 1fr}.source-panel{grid-column:1/-1}.filter-line{grid-template-columns:1fr 1fr}.case-title-link h3{font-size:23px}.case-card{padding:22px}.card-bottom{align-items:start;flex-direction:column}}
+@media(max-width:580px){.shell{padding:0 18px}.site-header{min-height:76px;gap:12px}.wordmark{font-size:13px;gap:5px}.brand-symbol{font-size:28px;margin-right:2px}nav{font-size:11px;gap:14px}nav a:last-child{display:none}.hero{grid-template-columns:1fr;padding:35px 0 24px;gap:24px}.hero h1{font-size:43px}.hero p{font-size:14px}.collection-note{border-left:0;border-top:1px solid var(--line);padding:18px 0 0}.collection-count{font-size:42px;margin:5px 0}.collection-note p{margin-top:8px}.collection-meta{font-size:12px}.browse-topics{padding-bottom:20px}.chip{padding:5px 9px;font-size:11px;gap:8px}.search-panel{padding:16px}.search-line{grid-template-columns:1fr}.search-line button{justify-self:start;padding:9px 14px;min-height:40px}.filter-line{gap:12px}.filter-actions{gap:12px}.filter-actions>span{flex-basis:100%}.case-grid{grid-template-columns:1fr}.results-heading h2{font-size:21px}.results-heading>span{font-size:11px}.case-card{padding:22px}.card-bottom{flex-direction:row;align-items:center}.case-intro h1{font-size:34px}.detail-aside{grid-template-columns:1fr}.panel{padding:20px}.kv-row{grid-template-columns:80px minmax(0,1fr);gap:10px}.story{font-size:15px}.data-details .detail-layout{gap:20px}footer{flex-wrap:wrap;gap:16px;margin-top:40px}footer p{flex-basis:100%}.field-label{font-size:10px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.case-card{transition:none}}
 """
 
 
@@ -413,50 +173,63 @@ def _render_layout(title: str, body: str) -> str:
 </head>
 <body>
   <div class="shell">
-    {body}
+    <header class="site-header"><a class="wordmark" href="/cases" aria-label="MKRI ASTRA — beranda"><span class="brand-symbol" aria-hidden="true">✳</span> MKRI <strong>ASTRA</strong></a><nav aria-label="Navigasi utama"><a href="/cases">Jelajahi perkara</a><a href="#tentang">Tentang</a></nav></header>
+    <main>{body}</main>
+    <footer id="tentang"><div class="wordmark">MKRI <strong>ASTRA</strong></div><p>Eksplorasi kecil untuk memahami perkara konstitusi.<br>Proyek independen, bukan situs resmi Mahkamah Konstitusi.</p><a class="inline-link" href="https://www.mkri.id" target="_blank" rel="noopener noreferrer">Situs resmi MKRI ↗</a></footer>
   </div>
 </body>
 </html>"""
 
 
 def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], query: dict[str, str]) -> str:
-    cards = "".join(_render_case_card(item) for item in summaries) or '<div class="case-card empty">Belum ada perkara yang cocok dengan filter.</div>'
-    top_flags = "".join(
+    cards = "".join(_render_case_card(item) for item in summaries) or '<div class="panel empty"><h2>Belum menemukan yang cocok.</h2><p>Coba kata lain atau longgarkan filter pencarian.</p><a class="inline-link" href="/cases">Lihat semua perkara</a></div>'
+    topics = "".join(
+        f'<a class="chip {"selected" if query.get("topic") == topic else ""}" href="{_safe(_query_href(query, topic=None if query.get("topic") == topic else topic))}">{_safe(topic)} <span>{count}</span></a>'
+        for topic, count in stats["topic_counts"].items()
+    )
+    flags = "".join(
         f'<a class="flag flag-link" href="{_safe(_query_href(query, review_flag=name))}">{_safe(_label_review_flag(name))} ({count})</a>'
-        for name, count in list(stats["review_flag_counts"].items())[:6]
-    ) or '<span class="flag">tidak ada review flag</span>'
+        for name, count in stats["review_flag_counts"].items()
+    )
     review_checked = ' checked' if query.get("review_only") == "1" else ""
+    advanced_open = " open" if any(query.get(key) for key in ("status", "source", "review_flag", "review_only", "document_type")) else ""
+    years = stats["years"]
+    span = "–".join([years[-1], years[0]]) if len(years) > 1 else (years[0] if years else "—")
     body = f"""
-    <section class="hero">
-      <div class="hero-card">
-        <span class="hero-kicker">MKRI Visual Prototype</span>
-        <h1>Daftar Perkara MKRI</h1>
-        <p>Telaah hasil parse putusan dan ketetapan Mahkamah Konstitusi, lalu fokuskan review ke perkara yang masih paling bermasalah.</p>
+    <section class="hero explorer-hero">
+      <div>
+        <span class="eyebrow">Koleksi putusan & ketetapan</span>
+        <h1>Kenali perkara.<br><em>Pahami putusannya.</em></h1>
+        <p>Jelajahi perkara Mahkamah Konstitusi lewat topik, ringkasan singkat, dan amar putusan.</p>
       </div>
-      <div class="stats">
-        <div class="stat"><div class="stat-label">Total Perkara</div><div class="stat-value">{stats['total_cases']}</div></div>
-        <div class="stat"><div class="stat-label">Perlu Review</div><div class="stat-value">{stats['needs_review']}</div></div>
-        <div class="stat"><div class="stat-label">Putusan</div><div class="stat-value">{stats['document_type_counts'].get('putusan', 0)}</div></div>
-        <div class="stat"><div class="stat-label">Ketetapan</div><div class="stat-value">{stats['document_type_counts'].get('ketetapan', 0)}</div></div>
-      </div>
+      <aside class="collection-note">
+        <span class="eyebrow">Di dalam koleksi</span>
+        <div class="collection-count">{stats['total_cases']}<span>perkara</span></div>
+        <div class="collection-meta"><span>{len(stats['topic_counts'])} topik</span><span>{_safe(span)}</span></div>
+        <p>Koleksi pilihan untuk dibaca dan ditelusuri. Belum mencakup seluruh perkara MKRI.</p>
+      </aside>
     </section>
-    <form method="get" action="/cases" class="panel toolbar">
-      <label class="field search"><span class="field-label">Cari</span><input type="text" name="q" value="{_safe(query.get('q', ''))}" placeholder="Cari nomor perkara, judul, atau amar singkat"></label>
-      <label class="field"><span class="field-label">Status Parse</span>{_select('status', query.get('status', ''), ['', 'ok', 'partial', 'failed'], labels=_STATUS_LABELS, empty_label='Semua status')}</label>
-      <label class="field"><span class="field-label">Jenis Dokumen</span>{_select('document_type', query.get('document_type', ''), ['', 'putusan', 'ketetapan'], labels=_DOCUMENT_TYPE_LABELS, empty_label='Semua jenis')}</label>
-      <label class="field"><span class="field-label">Sumber Data</span>{_select('source', query.get('source', ''), ['', 'review_queue', 'validated_json', 'parsed_json'], labels=_SOURCE_LABELS, empty_label='Semua sumber')}</label>
-      <label class="field"><span class="field-label">Sinyal Review</span>{_select('review_flag', query.get('review_flag', ''), [''] + list(stats['review_flag_counts'].keys())[:12], labels=_REVIEW_FLAG_LABELS, empty_label='Semua sinyal')}</label>
-      <label class="field"><span class="field-label">Urutkan</span>{_select('sort', query.get('sort', 'review_priority'), list(_SORT_LABELS.keys()), labels=_SORT_LABELS)}</label>
-      <label class="toggle"><input type="checkbox" name="review_only" value="1"{review_checked}>Hanya yang perlu review</label>
-      <button type="submit">Terapkan</button>
+    <section class="browse-topics" aria-label="Jelajahi topik"><span class="eyebrow">Mulai dari topik</span><div class="topic-list">{topics or '<span class="subtle">Topik akan tersedia setelah perkara diberi label.</span>'}</div></section>
+    <form method="get" action="/cases" class="panel search-panel">
+      <div class="search-line"><label class="field"><span class="field-label">Cari perkara</span><input type="search" name="q" value="{_safe(query.get('q', ''))}" placeholder="Nomor perkara, nama, undang-undang, atau kata dalam dokumen"></label><button type="submit">Cari perkara <span aria-hidden="true">↗</span></button></div>
+      <div class="filter-line">
+        <label class="field"><span class="field-label">Topik</span>{_select('topic', query.get('topic', ''), [''] + list(stats['topic_counts']), empty_label='Semua topik')}</label>
+        <label class="field"><span class="field-label">Tahun putusan</span>{_select('year', query.get('year', ''), [''] + years, empty_label='Semua tahun')}</label>
+        <label class="field"><span class="field-label">Hasil perkara</span>{_select('outcome', query.get('outcome', ''), [''] + list(OUTCOME_LABELS), labels=OUTCOME_LABELS, empty_label='Semua hasil')}</label>
+        <label class="field"><span class="field-label">Urutkan</span>{_select('sort', query.get('sort', 'newest'), list(_SORT_LABELS), labels=_SORT_LABELS)}</label>
+      </div>
+      <details class="advanced"{advanced_open}><summary>Filter & catatan data</summary><div class="filter-line">
+        <label class="field"><span class="field-label">Status Parse</span>{_select('status', query.get('status', ''), ['', 'ok', 'partial', 'failed'], labels=_STATUS_LABELS, empty_label='Semua status')}</label>
+        <label class="field"><span class="field-label">Jenis Dokumen</span>{_select('document_type', query.get('document_type', ''), ['', 'putusan', 'ketetapan'], labels=_DOCUMENT_TYPE_LABELS, empty_label='Semua jenis')}</label>
+        <label class="field"><span class="field-label">Sumber Data</span>{_select('source', query.get('source', ''), ['', 'review_queue', 'validated_json', 'parsed_json'], labels=_SOURCE_LABELS, empty_label='Semua sumber')}</label>
+        <label class="field"><span class="field-label">Sinyal Review</span>{_select('review_flag', query.get('review_flag', ''), [''] + list(stats['review_flag_counts']), labels=_REVIEW_FLAG_LABELS, empty_label='Semua sinyal')}</label>
+      </div><label class="toggle"><input type="checkbox" name="review_only" value="1"{review_checked}> Hanya yang perlu review</label><div class="flag-list">{flags}</div></details>
+      <div class="filter-actions"><span>Pencarian juga mencakup nama pihak dan isi dokumen.</span><a class="inline-link" href="/cases">Hapus filter</a><button class="small-button" type="submit">Terapkan</button></div>
     </form>
-    <section class="panel">
-      <h2>Sinyal Review</h2>
-      <div class="flag-list">{top_flags}</div>
-    </section>
-    <section class="grid">{cards}</section>
+    <div class="results-heading"><h2>Daftar Perkara MKRI</h2><span>{len(summaries)} dari {stats['total_cases']} perkara</span></div>
+    <section class="grid case-grid" aria-label="Hasil pencarian">{cards}</section>
     """
-    return _render_layout("Daftar Perkara MKRI", body)
+    return _render_layout("Jelajahi Perkara · MKRI ASTRA", body)
 
 
 def _select(
@@ -468,6 +241,8 @@ def _select(
     empty_label: str | None = None,
 ) -> str:
     opts = []
+    if current and current not in options:
+        options = options + [current]
     for option in options:
         if option == "":
             label = empty_label or f"Semua {name.replace('_', ' ')}"
@@ -475,7 +250,12 @@ def _select(
             label = labels.get(option, option) if labels else option
         selected = " selected" if option == current else ""
         opts.append(f'<option value="{_safe(option)}"{selected}>{_safe(label)}</option>')
-    return f'<select name="{_safe(name)}">{"".join(opts)}</select>'
+    field_labels = {
+        "topic": "Topik", "year": "Tahun putusan", "outcome": "Hasil perkara",
+        "sort": "Urutkan", "status": "Status Parse", "document_type": "Jenis Dokumen",
+        "source": "Sumber Data", "review_flag": "Sinyal Review",
+    }
+    return f'<select name="{_safe(name)}" aria-label="{_safe(field_labels.get(name, name))}">{"".join(opts)}</select>'
 
 
 def _query_href(current_query: dict[str, str], **updates: str | None) -> str:
@@ -538,7 +318,7 @@ def _looks_like_person_name(value: str) -> bool:
     if any(char.isdigit() for char in value):
         return False
     words = value.replace(",", " ").split()
-    return 1 < len(words) <= 8
+    return 1 <= len(words) <= 8
 
 
 def _looks_like_case_reference(value: str) -> bool:
@@ -584,6 +364,10 @@ def _mkri_tracking_url(document: dict[str, Any]) -> str | None:
 
 
 def _sort_case_summaries(items: list[dict[str, Any]], sort_key: str) -> list[dict[str, Any]]:
+    if sort_key in {"newest", "oldest"}:
+        dated = [item for item in items if item.get("decision_date")]
+        undated = [item for item in items if not item.get("decision_date")]
+        return sorted(dated, key=lambda item: (item["decision_date"], item.get("case_number") or ""), reverse=sort_key == "newest") + undated
     if sort_key == "case_number":
         return sorted(items, key=lambda item: ((item.get("case_number") or item.get("case_id") or "").casefold(), item.get("case_id") or ""))
     if sort_key == "document_type":
@@ -672,177 +456,101 @@ def _format_display_list(items: list[str], hidden_count: int = 0) -> str:
     return text
 
 
+def _display_short_date(value: str | None) -> str:
+    if not value:
+        return "Tanggal belum tersedia"
+    from .normalizers import MONTHS
+    try:
+        year, month, day = value.split("-")
+        return f"{int(day)} {list(MONTHS)[int(month) - 1].capitalize()} {year}"
+    except (ValueError, IndexError):
+        return value
+
+
 def _render_case_card(item: dict[str, Any]) -> str:
-    status = item.get("status") or "unknown"
-    review_badge = '<span class="badge review">Perlu review</span>' if item.get("needs_manual_review") else ""
-    date_display = "perlu review" if "decision_date_missing" in item.get("review_flags", []) else (item.get("decision_date") or "tanggal belum terbaca")
-    flags = "".join(
-        f'<a class="flag flag-link" href="{_safe(_query_href({}, review_flag=flag))}">{_safe(_label_review_flag(flag))}</a>'
-        for flag in item.get("review_flags", [])[:3]
-    )
-    hidden_flags = max(len(item.get("review_flags", [])) - 3, 0)
-    extra_flags = f'<span class="flag">+{hidden_flags} sinyal lain</span>' if hidden_flags else ""
+    topics = "".join(f'<a class="topic-link" href="{_safe(_query_href({}, topic=topic))}">{_safe(topic)}</a>' for topic in item.get("topics", []))
+    date_display = _display_short_date(item.get("decision_date"))
+    note = '<span class="data-note">Sebagian data perlu review</span>' if item.get("needs_manual_review") else ""
     return f"""
     <article class="case-card">
-      <div class="case-top">
-        <div>
-          <a href="/cases/{_safe(item['case_id'])}"><h3 class="case-number">{_safe(item.get('case_number') or item['case_id'])}</h3></a>
-          <div class="case-meta">
-            <span class="badge {status}">{_safe(_label_status(status))}</span>
-            <span class="badge">{_safe(_label_document_type(item.get('document_type')))}</span>
-            {review_badge}
-          </div>
-        </div>
-        <div class="mono">{_safe(item.get('file_name'))}</div>
-      </div>
-      <p class="summary">{_safe(item.get('outcome_summary') or 'Outcome belum tersedia')}</p>
-      <div class="case-meta">
-        <span class="badge">pemohon {item.get('applicant_count', 0)}</span>
-        <span class="badge">termohon {item.get('respondent_count', 0)}</span>
-        <span class="badge">{_safe(date_display)}</span>
-        <span class="badge source">{_safe(_label_source(item.get('source')))}</span>
-      </div>
-      <div class="flag-list">{flags}{extra_flags}</div>
+      <div class="card-topline"><div>{topics or '<span class="subtle">Belum dikelompokkan</span>'}</div><span class="document-label">{_safe(_label_document_type(item.get('document_type')))}</span></div>
+      <a class="case-title-link" href="/cases/{_safe(item['case_id'])}"><h3>{_safe(item.get('title'))}</h3></a>
+      <div class="case-reference">{_safe(item.get('case_number') or item['case_id'])} <span aria-hidden="true">·</span> {_safe(date_display)}</div>
+      <p class="summary">{_safe(item.get('description') or 'Ringkasan belum tersedia. Buka perkara untuk membaca dokumen.')}</p>
+      <div class="card-bottom"><span class="badge outcome-{_safe(item.get('outcome_key'))}">{_safe(item.get('outcome_label'))}</span><a class="read-link" href="/cases/{_safe(item['case_id'])}">Baca perkara <span aria-hidden="true">↗</span></a></div>
+      {note}
     </article>
     """
 
 
 def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> str:
-    parties = payload.get("parties", {})
     document = payload.get("document", {})
-    legal_basis = payload.get("legal_basis", {})
+    parties = payload.get("parties", {})
     outcome = payload.get("outcome", {})
+    legal_basis = payload.get("legal_basis", {})
     adjudicators = payload.get("adjudicators", {})
-    proceedings = payload.get("proceedings", [])
-    relations = payload.get("relations", {})
+    editorial = payload.get("editorial", {})
     sections = payload.get("sections", [])
-    review_flag_set = set(record_summary.get("review_flags", []))
-    proceeding_items = proceedings if isinstance(proceedings, list) else list(proceedings.get("hearing_events", []))
-    relation_joined = relations.get("joined_cases", []) if isinstance(relations, dict) else []
-    relation_referenced = relations.get("referenced_cases", []) if isinstance(relations, dict) else []
-    display_date = _display_date(document, review_flag_set)
-    applicant_names, hidden_applicants = _clean_people(parties.get("applicants", []))
-    counsel_names, hidden_counsels = _clean_people(parties.get("legal_counsels", []))
-    respondent_names, hidden_respondents = _clean_people(parties.get("respondents", []))
-    expert_names, hidden_experts = _clean_people(parties.get("experts", []), max_items=6)
-    witness_names, hidden_witnesses = _clean_people(parties.get("witnesses", []), max_items=6)
-    amicus_names, hidden_amicus = _clean_people(parties.get("amicus_curiae", []), max_items=6)
-    judge_names, hidden_judges = _clean_names(adjudicators.get("judges", []))
-    clerk_names, hidden_clerks = _clean_names(adjudicators.get("clerks", []), max_items=4)
-    proceeding_items, hidden_proceedings = _clean_proceedings(proceeding_items)
-    relation_joined, hidden_joined = _clean_case_refs(relation_joined)
-    relation_referenced, hidden_referenced = _clean_case_refs(relation_referenced)
-    object_of_review, hidden_object = _compact_items(legal_basis.get("object_of_review", []), max_items=4, max_length=80, max_words=12)
-    constitutional_articles, hidden_constitutional = _clean_article_refs(legal_basis.get("constitutional_articles", []))
-    procedural_articles, hidden_procedural = _clean_article_refs(legal_basis.get("procedural_articles", []))
-    evidence_items, hidden_evidence = _clean_evidence(legal_basis.get("evidence", []))
-    section_heading_items, hidden_headings = _clean_section_headings(sections)
-    viewer_notes: list[str] = []
-    if "decision_date_missing" in review_flag_set:
-        viewer_notes.append("Tanggal putusan disembunyikan dari tampilan utama karena masih ditandai perlu review.")
+    flags = record_summary.get("review_flags", [])
+    date = _display_short_date(document.get("decision_date"))
+    if "decision_date_missing" in flags:
+        date = "Tanggal perlu review"
+    topic_links = "".join(f'<a class="chip" href="{_safe(_query_href({}, topic=topic))}">{_safe(topic)}</a>' for topic in record_summary.get("topics", []))
+    source_links = "".join(
+        f'<a class="inline-link" href="{_safe(url)}" target="_blank" rel="noopener noreferrer">{label} ↗</a>'
+        for label, url in [('Lihat di mkri.id', _mkri_case_url(document)), ('Tracking MKRI', _mkri_tracking_url(document))] if url
+    )
+    people = []
+    for label, key in [('Pemohon', 'applicants'), ('Kuasa hukum', 'legal_counsels'), ('Pihak lain terdeteksi', 'respondents')]:
+        names, hidden = _clean_people(parties.get(key, []), max_items=30)
+        people.append((label, _format_display_list(names, hidden)))
+    judges, hidden_judges = _clean_names(adjudicators.get('judges', []))
+    clerks, hidden_clerks = _clean_names(adjudicators.get('clerks', []), max_items=4)
+    relation_data = payload.get('relations', {})
+    joined, _ = _clean_case_refs(relation_data.get('joined_cases', []))
+    referenced, _ = _clean_case_refs(relation_data.get('referenced_cases', []))
+    proceedings = payload.get('proceedings', [])
+    proceedings = proceedings if isinstance(proceedings, list) else proceedings.get('hearing_events', [])
+    proceedings, _ = _clean_proceedings(proceedings)
+    evidence, _ = _clean_evidence(legal_basis.get('evidence', []))
+    articles, _ = _clean_article_refs(legal_basis.get('constitutional_articles', []))
+    review_flags = ''.join(f'<li>{_safe(_label_review_flag(flag))}</li>' for flag in flags)
+    notes = '<p>Ekstraksi otomatis dapat melewatkan atau memotong informasi. Periksa dokumen sumber untuk detail lengkap.</p>'
     if hidden_judges or hidden_clerks:
-        viewer_notes.append("Blok hakim dan panitera diringkas karena ekstraksi nama masih tercemar narasi.")
-    if hidden_joined or hidden_referenced:
-        viewer_notes.append("Relasi perkara dibatasi ke nomor perkara yang tampak valid agar tidak menampilkan referensi liar.")
-    if hidden_proceedings:
-        viewer_notes.append("Proses persidangan hanya menampilkan item singkat yang paling terbaca.")
-    if hidden_evidence:
-        viewer_notes.append("Daftar alat bukti dipotong ke bukti inti agar panel tetap terbaca.")
-    if hidden_headings:
-        viewer_notes.append("Heading dokumen diringkas agar chip hanya menampilkan section yang paling informatif.")
-    section_chips = "".join(
-        f'<span class="chip">{_safe(heading)}</span>'
-        for heading in section_heading_items
-    ) or '<span class="chip">section belum tersedia</span>'
-    mkri_url = _mkri_case_url(document)
-    mkri_tracking_url = _mkri_tracking_url(document)
-    mkri_link = (
-        f'<a href="{_safe(mkri_url)}" class="inline-link mono" target="_blank" rel="noopener noreferrer">Lihat di mkri.id</a>'
-        if mkri_url
-        else ""
-    )
-    mkri_tracking_link = (
-        f'<a href="{_safe(mkri_tracking_url)}" class="inline-link mono" target="_blank" rel="noopener noreferrer">Tracking MKRI</a>'
-        if mkri_tracking_url
-        else ""
-    )
-    review_flags = "".join(
-        f'<a class="flag flag-link" href="{_safe(_query_href({}, review_flag=flag))}">{_safe(_label_review_flag(flag))}</a>'
-        for flag in record_summary.get("review_flags", [])
-    ) or '<span class="flag">tidak ada</span>'
-    viewer_notes_block = _list_block(viewer_notes, label="Catatan") if viewer_notes else '<div class="empty">Tidak ada catatan tambahan.</div>'
+        notes += '<p>Daftar hakim dan panitera menyembunyikan teks yang tidak menyerupai nama.</p>'
+    summary_label = 'Ringkasan editorial' if editorial else 'Ringkasan dokumen'
+    provenance = f"Disusun dari: {editorial.get('source_sections', '')}." if editorial else 'Diambil dari hasil ekstraksi dokumen.'
+    review_notice = '<p class="data-note">Sebagian data hasil ekstraksi masih perlu review. Lihat catatan data di bawah.</p>' if record_summary.get('needs_manual_review') else ''
+    full_text = ''.join(f'<section><h3>{_safe(section.get("heading"))}</h3><p>{_safe(section.get("text"))}</p></section>' for section in sections)
     body = f"""
-    <section class="hero">
-      <div class="hero-card">
-        <div class="topbar">
-          <a href="/cases" class="hero-kicker">Kembali ke daftar</a>
-          <div class="stack">
-            {mkri_link}
-            {mkri_tracking_link}
-            <a href="/api/cases/{_safe(record_summary['case_id'])}" class="inline-link mono">/api/cases/{_safe(record_summary['case_id'])}</a>
-          </div>
-        </div>
-        <h1>{_safe(document.get('case_number') or record_summary['case_id'])}</h1>
-        <p>{_safe(document.get('title') or outcome.get('summary') or 'Outcome belum tersedia')}</p>
-        <div class="case-meta">
-          <span class="badge {record_summary.get('status')}">{_safe(_label_status(record_summary.get('status')))}</span>
-          <span class="badge">{_safe(_label_document_type(document.get('document_type')))}</span>
-          <span class="badge source">{_safe(_label_source(record_summary.get('source')))}</span>
-        </div>
-        <div class="hero-stats">
-          <div class="mini-stat"><div class="label">Pemohon</div><div class="value">{record_summary.get('applicant_count', 0)}</div></div>
-          <div class="mini-stat"><div class="label">Termohon</div><div class="value">{record_summary.get('respondent_count', 0)}</div></div>
-          <div class="mini-stat"><div class="label">Tanggal</div><div class="value">{_safe(display_date)}</div></div>
-        </div>
-      </div>
-      <div class="panel">
-        <h2>Review Flags</h2>
-        <div class="flag-list">{review_flags}</div>
-      </div>
+    <a class="back-link" href="/cases">← Jelajahi semua perkara</a>
+    <section class="case-intro">
+      <div class="topic-list">{topic_links}</div>
+      <h1>{_safe(record_summary.get('title'))}</h1>
+      <div class="case-reference">{_safe(document.get('case_number'))} <span aria-hidden="true">·</span> {_safe(date)} <span aria-hidden="true">·</span> {_safe(_label_document_type(document.get('document_type')))}</div>
+      {review_notice}
     </section>
     <section class="detail-layout">
       <div class="stack">
-        {_panel('Metadata', _kv_rows([
-            ('Nomor Perkara', document.get('case_number')),
-            ('Jenis Dokumen', document.get('document_type')),
-            ('Jenis Perkara', document.get('case_type')),
-            ('Tanggal', display_date),
-            ('mkri.id', mkri_url or '-'),
-            ('tracking.mkri.id', mkri_tracking_url or '-'),
-        ]))}
-        {_panel('Pihak', _kv_rows([
-            ('Pemohon', _format_display_list(applicant_names, hidden_applicants)),
-            ('Kuasa Hukum', _format_display_list(counsel_names, hidden_counsels)),
-            ('Termohon / Pihak', _format_display_list(respondent_names, hidden_respondents)),
-        ]))}
-        {_panel('Hakim & Panitera', _kv_rows([
-            ('Hakim', _format_display_list(judge_names, hidden_judges)),
-            ('Panitera', _format_display_list(clerk_names, hidden_clerks)),
-        ]))}
-        {_panel('Catatan Viewer', viewer_notes_block)}
+        <section class="panel story-panel"><span class="eyebrow">{summary_label}</span><h2>Perkara ini tentang apa?</h2><p class="story">{_safe(record_summary.get('description') or 'Ringkasan belum tersedia.')}</p><p class="provenance">{_safe(provenance)} <a class="inline-link" href="#amar">Baca amar ↓</a></p></section>
+        <section id="amar" class="panel"><span class="eyebrow">Hasil perkara</span><h2><span class="badge outcome-{_safe(record_summary.get('outcome_key'))}">{_safe(record_summary.get('outcome_label'))}</span></h2><h3>Amar putusan / ketetapan</h3>{_list_block(outcome.get('dictum', []), label='Amar')}</section>
+        {_panel('Pemohon & pihak', _kv_rows(people))}
       </div>
-      <div class="stack">
-        {_panel('Amar', _list_block(outcome.get('dictum', [])))}
-        {_panel('Dasar Hukum', _kv_rows([
-            ('Objek Uji', _format_display_list(object_of_review, hidden_object)),
-            ('Batu Uji UUD', _format_display_list(constitutional_articles, hidden_constitutional)),
-            ('Pasal Prosedural', _format_display_list(procedural_articles, hidden_procedural)),
-            ('Alat Bukti', _format_display_list(evidence_items, hidden_evidence)),
-        ]))}
-        {_panel('Proses & Relasi', _kv_rows([
-            ('Proses Persidangan', _format_display_list(proceeding_items, hidden_proceedings)),
-            ('Ahli', _format_display_list(expert_names, hidden_experts)),
-            ('Saksi', _format_display_list(witness_names, hidden_witnesses)),
-            ('Amicus Curiae', _format_display_list(amicus_names, hidden_amicus)),
-            ('Perkara Gabungan', _format_display_list(relation_joined, hidden_joined)),
-            ('Perkara Dirujuk', _format_display_list(relation_referenced, hidden_referenced)),
-        ]))}
-        {_panel('Struktur Ringkas', f'<div class="section-chips">{section_chips}</div>')}
-        {_panel('Struktur Dokumen', _sections_block(sections))}
-      </div>
+      <aside class="stack detail-aside">
+        {_panel('Undang-undang yang diuji', '<p class="law-text">' + _safe(record_summary.get('law') or 'Belum teridentifikasi') + '</p>')}
+        {_panel('Hakim & panitera', _kv_rows([('Hakim', _format_display_list(judges, hidden_judges)), ('Panitera', _format_display_list(clerks, hidden_clerks))]))}
+        <section class="panel source-panel"><h2>Telusuri sumber</h2><p>Baca dokumen dan riwayat perkara di situs MKRI.</p><div class="stack">{source_links}<a class="inline-link" href="#teks-dokumen">Teks hasil ekstraksi ↓</a></div></section>
+      </aside>
     </section>
+    <details class="panel data-details"><summary>Catatan data & rincian tambahan</summary>
+      <div class="detail-layout">
+        <div><h2>Catatan Viewer</h2>{notes}<ul>{review_flags}</ul>{_kv_rows([('Status parse', _label_status(record_summary.get('status'))), ('Sumber data', _label_source(record_summary.get('source')))])}<p><a class="inline-link mono" href="/api/cases/{_safe(record_summary['case_id'])}">/api/cases/{_safe(record_summary['case_id'])}</a></p></div>
+        <div>{_kv_rows([('Batu uji UUD', _format_display_list(articles)), ('Alat bukti', _format_display_list(evidence)), ('Proses persidangan', _format_display_list(proceedings)), ('Perkara gabungan', _format_display_list(joined)), ('Perkara dirujuk', _format_display_list(referenced))])}</div>
+      </div>
+    </details>
+    <details id="teks-dokumen" class="panel data-details"><summary>Teks dokumen</summary><p class="subtle">Hasil ekstraksi otomatis dari PDF; pemenggalan kata dan judul bagian dapat berbeda dari dokumen asli.</p><div class="document-text">{full_text or 'Teks belum tersedia.'}</div></details>
     """
-    return _render_layout(f"MKRI Case {document.get('case_number') or record_summary['case_id']}", body)
+    return _render_layout(f"{record_summary.get('title')} · MKRI ASTRA", body)
 
 
 def _panel(title: str, content: str) -> str:
@@ -922,16 +630,17 @@ def create_app(
                 source=query.get("source", ""),
                 review_flag=query.get("review_flag", ""),
                 review_only=query.get("review_only") == "1",
+                topic=query.get("topic", ""), year=query.get("year", ""), outcome=query.get("outcome", ""),
             )
-            filtered = _sort_case_summaries(filtered, query.get("sort", "review_priority"))
-            return _json_response(start_response, {"items": filtered, "stats": build_dashboard_stats(filtered)})
+            filtered = _sort_case_summaries(filtered, query.get("sort", "newest"))
+            return _json_response(start_response, {"items": [public_summary(item) for item in filtered], "stats": build_dashboard_stats(filtered), "facets": build_dashboard_stats(summaries)})
 
         if path.startswith("/api/cases/"):
             case_id = path.rsplit("/", 1)[-1]
             record = get_case_record(case_id, parsed_dir=parsed_dir, validated_dir=validated_dir, review_dir=review_dir)
             if not record:
                 return _json_response(start_response, {"error": "case not found"}, status="404 Not Found")
-            return _json_response(start_response, {"summary": summarize_case(record), "payload": record.payload})
+            return _json_response(start_response, {"summary": public_summary(summarize_case(record)), "payload": record.payload})
 
         if path.startswith("/cases/"):
             case_id = path.rsplit("/", 1)[-1]
@@ -949,9 +658,10 @@ def create_app(
                 source=query.get("source", ""),
                 review_flag=query.get("review_flag", ""),
                 review_only=query.get("review_only") == "1",
+                topic=query.get("topic", ""), year=query.get("year", ""), outcome=query.get("outcome", ""),
             )
-            filtered = _sort_case_summaries(filtered, query.get("sort", "review_priority"))
-            return _text_response(start_response, _render_dashboard(filtered, build_dashboard_stats(filtered), query))
+            filtered = _sort_case_summaries(filtered, query.get("sort", "newest"))
+            return _text_response(start_response, _render_dashboard(filtered, build_dashboard_stats(summaries), query))
 
         return _text_response(start_response, _render_layout("Not Found", '<div class="panel empty">Route tidak ditemukan.</div>'), status="404 Not Found")
 

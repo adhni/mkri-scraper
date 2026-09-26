@@ -167,7 +167,7 @@ Flag yang berguna:
 
 - Format heading yang sangat tidak konsisten masih bisa lolos dari splitter.
 - Ekstraksi `kuasa hukum`, `alat bukti`, dan `proses persidangan` masih berbasis regex/heuristik.
-- Tanggal yang sepenuhnya ditulis dengan kata, bukan angka, belum dinormalisasi penuh.
+- Tanggal angka dan ejaan Indonesia didukung pada blok pengucapan putusan; layout/OCR yang tidak dikenal tetap perlu review.
 - Relasi antar-perkara sidang gabungan masih mengandalkan pola nomor perkara yang eksplisit.
 
 ## Review Queue
@@ -205,7 +205,36 @@ Workflow yang disarankan:
 4. file yang gagal parse dipindah ke `data/raw_pdfs/failed/`
 5. website otomatis membaca JSON baru dari `data/parsed_json/`, `data/validated_json/`, dan `data/review_queue`
 
-## Visual Prototype
+## MKRI ASTRA — Case Explorer
+
+Viewer kini mengutamakan topik dan isi perkara: judul deskriptif, ringkasan bahasa
+Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi awal berisi 13
+perkara dalam 9 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
+
+- Cari nomor perkara, nama pihak, undang-undang, atau kata dalam teks dokumen.
+- Gabungkan filter `topic`, `year` (tahun **putusan**, bukan tahun pendaftaran),
+  dan `outcome`; urutan awal adalah putusan terbaru.
+- Filter operasional lama tetap tersedia di **Filter & catatan data**.
+- Halaman detail memisahkan ringkasan editorial, amar asli hasil ekstraksi,
+  dan teks dokumen yang dapat dibuka. Tautan MKRI tetap tersedia.
+- API daftar mendukung filter yang sama; `stats` menghitung hasil pencarian,
+  sedangkan `facets` menyediakan pilihan filter dari seluruh koleksi.
+
+### Mengubah judul, ringkasan, atau topik
+
+Edit [`data/editorial/cases.json`](data/editorial/cases.json), dengan nomor perkara
+sebagai kunci. Field yang tersedia: `title`, `summary`, `topics`, `law`, dan
+`source_sections` (bagian dokumen yang menjadi dasar ringkasan). Viewer membaca
+perubahan pada request berikutnya. Catatan ini terpisah dari hasil parser sehingga
+tidak tertimpa saat PDF diimpor ulang. Perkara baru tanpa catatan tetap tampil
+dengan judul/amar hasil ekstraksi dan dapat dicari.
+
+Ringkasan koleksi awal disusun dari pembuka, konklusi, dan amar dokumen lokal;
+bukan penjelasan tentang status hukum terkini. Label `Tervalidasi` berarti lolos
+pemeriksaan otomatis, bukan seluruh field telah diverifikasi manual. Kuasa hukum,
+relasi, dan peserta lain masih memakai heuristik.
+
+### Menjalankan viewer
 
 Viewer web tersedia di:
 

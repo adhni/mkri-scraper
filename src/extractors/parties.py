@@ -124,7 +124,6 @@ def _extract_respondents(text: str) -> list[PersonLike]:
         ("DPR", r"\bDPR\b"),
         ("Presiden", r"\bPresiden\b"),
         ("Pemerintah", r"\bPemerintah\b"),
-        ("Mahkamah Konstitusi", r"\bMahkamah Konstitusi\b"),
         ("Pihak Terkait", r"\bPihak Terkait\b"),
     ]
     for name, pattern in mappings:
@@ -153,9 +152,20 @@ def extract_parties(sections: list[Section], source_text: str) -> Parties:
 
     parties.applicants.extend(_extract_people_from_name_blocks(opening_blob, "applicant"))
     if not parties.applicants:
-        match = re.search(r"pemohon[:\s]+(.+)", source_text, flags=re.IGNORECASE)
+        # Ketetapan introduces applicants in a sentence, not a 'Nama:' table.
+        opening = normalize_whitespace(source_text[:5000])
+        match = re.search(
+            r"(?:atas nama|bernama)\s+(.+?)(?=\s*\(|\s*,?\s*yang\b)", opening, re.I,
+        ) or re.search(
+            r"permohonan bertanggal\s+.+?\s+dari\s+(.+?)(?=,?\s+yang\b)", opening, re.I,
+        )
         if match:
-            parties.applicants.append(PersonLike(name=_clean_candidate(match.group(1)), role="applicant"))
+            for name in _split_name_list(match.group(1)):
+                parties.applicants.append(PersonLike(name=_clean_candidate(name), role="applicant"))
+        else:
+            match = re.search(r"(?im)^\s*Pemohon\s*:\s*(.+)$", source_text)
+            if match:
+                parties.applicants.append(PersonLike(name=_clean_candidate(match.group(1)), role="applicant"))
 
     parties.legal_counsels.extend(_extract_from_kuasa(opening_blob))
     parties.respondents.extend(_extract_respondents(section_blob + "\n" + heading_blob))

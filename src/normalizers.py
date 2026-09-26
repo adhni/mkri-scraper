@@ -18,6 +18,34 @@ MONTHS = {
     "desember": 12,
 }
 
+_NUMBERS = dict(zip(
+    "nol satu dua tiga empat lima enam tujuh delapan sembilan sepuluh sebelas".split(), range(12),
+))
+_NUMBER_WORD = r"(?:nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|sepuluh|sebelas|belas|puluh|ratus|ribu)"
+_NUMBER = rf"(?:\d+|{_NUMBER_WORD}(?:\s+{_NUMBER_WORD})*)"
+INDONESIAN_DATE_RE = re.compile(
+    rf"(?P<day>{_NUMBER})\s*,?\s*(?:bulan\s+)?"
+    rf"(?P<month>{'|'.join(MONTHS)})\s*,?\s*(?:tahun\s+)?(?P<year>{_NUMBER})\b", re.I,
+)
+
+
+def _indonesian_number(value: str) -> int:
+    if value.isdigit():
+        return int(value)
+    total = current = 0
+    for word in value.split():
+        if word in _NUMBERS:
+            current += _NUMBERS[word]
+        elif word == "belas":
+            current += 10
+        elif word in {"puluh", "ratus"}:
+            current *= 10 if word == "puluh" else 100
+        elif word == "ribu":
+            total += current * 1000
+            current = 0
+    return total + current
+
+
 CASE_NUMBER_RE = re.compile(
     r"(?P<number>\d+/\s*[A-Z0-9\-./ ]+/\s*\d{4})",
     re.IGNORECASE,
@@ -45,15 +73,18 @@ def normalize_case_number(text: str) -> str | None:
 
 def normalize_indonesian_date(text: str) -> str | None:
     text = normalize_whitespace(text.lower())
-    match = re.search(r"(\d{1,2})\s+([a-z]+)\s+(\d{4})", text)
+    match = INDONESIAN_DATE_RE.search(text)
     if not match:
         return None
-    day = int(match.group(1))
-    month = MONTHS.get(match.group(2))
-    year = int(match.group(3))
-    if not month:
+    day = _indonesian_number(match.group("day"))
+    month = MONTHS[match.group("month")]
+    year = _indonesian_number(match.group("year"))
+    if not 1900 <= year <= 2100:
         return None
-    return date(year, month, day).isoformat()
+    try:
+        return date(year, month, day).isoformat()
+    except ValueError:
+        return None
 
 
 def normalize_party_name(text: str) -> str:

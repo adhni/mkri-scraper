@@ -16,6 +16,9 @@ def summarize(payload: dict) -> dict:
     return {
         "document_type": payload["document"]["document_type"],
         "case_number": payload["document"]["case_number"],
+        "decision_date": payload["document"]["decision_date"],
+        "judges": payload["adjudicators"]["judges"],
+        "clerks": payload["adjudicators"]["clerks"],
         "applicant_count": len(payload["parties"]["applicants"]),
         "legal_counsel_count": len(payload["parties"]["legal_counsels"]),
         "respondent_count": len(payload["parties"]["respondents"]),

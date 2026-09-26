@@ -35,6 +35,14 @@ def extract_legal_basis(sections: list[Section], source_text: str) -> LegalBasis
             if candidate not in obj:
                 obj.append(candidate)
     basis.object_of_review = obj
+    opening = normalize_whitespace(source_text[:4000])
+    opening = re.sub(r"Undang\s*-\s*Undang", "Undang-Undang", opening, flags=re.I)
+    challenged_law = re.search(
+        r"Pengujian\s+(Undang-Undang\s+Nomor\s+.+?)\s+terhad\s*ap\s+Undang-Undang\s+Dasar",
+        opening, re.I,
+    )
+    if challenged_law:
+        basis.object_of_review = [challenged_law.group(1)]
     basis.constitutional_articles = constitutional_articles
     basis.procedural_articles = procedural_articles
 
