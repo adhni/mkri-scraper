@@ -236,6 +236,56 @@ relasi, dan peserta lain masih memakai heuristik.
 
 ### Menjalankan viewer
 
+Jalankan `python3 -m src.webapp`, lalu buka `http://localhost:8000/admin` atau
+klik **Kelola**. Server lokal kini mengikat ke `127.0.0.1`; pengelolaan tanpa
+kata sandi hanya tersedia dari mesin yang sama. Untuk bind nonlokal, gunakan
+`HOST=0.0.0.0` dan konfigurasi pemilik di bawah.
+
+### Upload, preview, dan koreksi
+
+1. Pilih/jatuhkan satu PDF (maksimal 25 MB dan 500 halaman).
+2. Periksa hasilnya sambil membuka PDF asli. Koreksi nomor, jenis, tanggal,
+   pemohon, hakim, panitera, amar, judul, ringkasan, topik, dan undang-undang.
+3. Klik **Simpan ke koleksi**. Draf belum masuk koleksi sebelum langkah ini.
+4. Untuk perkara lama, buka detail lalu **Ubah data perkara** atau **Ganti PDF**.
+
+PDF yang sama, atau dokumen dengan nomor/jenis perkara yang sama, memperbarui
+perkara yang ada. Koreksi pemilik disimpan terpisah dari ekstraksi dan dipakai
+kembali saat re-import. Bila ada dua tab yang mengubah perkara, penyimpanan
+kedua ditolak agar koreksi terbaru tidak tertimpa. PDF scan tanpa teks perlu
+OCR terlebih dahulu; PDF berkata sandi perlu dibuka kuncinya.
+
+### Penyimpanan dan backup
+
+PDF, draf, dan koreksi disimpan secara transaksional dalam
+`data/library/library.sqlite3` (tidak masuk Git). Snapshot awal tetap dibaca
+dari folder JSON; koreksi browser diprioritaskan atas snapshot/editorial file.
+Set `MKRI_STORAGE_DIR` untuk memindahkan database ke direktori lain.
+
+Klik **Unduh cadangan** pada halaman Kelola untuk mendapatkan salinan database
+yang konsisten. Untuk restore, hentikan server, simpan salinan database lama,
+letakkan file cadangan sebagai `library.sqlite3` di direktori penyimpanan,
+lalu jalankan server kembali. Backup ini meliputi seluruh unggahan dan koreksi;
+13 snapshot bawaan tetap berasal dari repo.
+
+### Mengaktifkan pemilik di hosting
+
+Situs hosted tetap hanya-baca sampai **kedua** environment variable tersedia:
+
+- `MKRI_STORAGE_DIR`: direktori pada disk permanen, misalnya `/var/data/mkri`.
+- `MKRI_ADMIN_PASSWORD`: kata sandi pemilik yang panjang dan unik; set melalui
+  pengaturan hosting, jangan masukkan ke Git. Login melalui `/admin`.
+
+Pada Render, pasang persistent disk dengan mount `/var/data` terlebih dahulu.
+Disk permanen memerlukan layanan berbayar; filesystem bawaan hilang saat
+restart/redeploy. Lihat [panduan resmi Render](https://render.com/docs/disks).
+Mengatur nama direktori saja **tidak** membuat disk menjadi permanen.
+`render.yaml` tetap untuk viewer yang ada dan tidak otomatis membeli disk.
+Gunakan satu instance aplikasi untuk database lokal ini. Sesi login berakhir
+setelah 8 jam atau restart; data koleksi tetap tersimpan pada disk.
+
+Jalankan verifikasi dengan `python3 -m unittest discover -s tests`.
+
 Viewer web tersedia di:
 
 ```text
