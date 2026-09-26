@@ -8,7 +8,7 @@ Fokus implementasi saat ini:
 
 - parser inti berbasis pure Python
 - tanpa OpenAI API di pipeline default
-- MKRI ASTRA: explorer perkara dengan ringkasan, topik, dan pencarian teks dokumen
+- MKRI: explorer perkara dengan ringkasan, topik, dan pencarian teks dokumen
 - workflow ingest berbasis folder inbox
 - deploy viewer ke Render
 
