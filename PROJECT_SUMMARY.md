@@ -16,6 +16,11 @@ Fokus implementasi saat ini:
 
 Yang sudah jadi:
 
+- halaman pemilik `/admin`: upload PDF, preview, koreksi, simpan, buang draf
+- edit perkara yang ada; koreksi bertahan saat re-import PDF
+- SQLite terpisah untuk PDF/draf/koreksi, unduh backup, dan deteksi perubahan dari tab lain
+- mode lokal di loopback; hosting memerlukan password pemilik dan direktori disk permanen
+
 - CLI parse, validate, batch parse, report, dan pipeline
 - parser PDF v1 dengan output JSON terstruktur
 - schema validation + business rules + review flags
@@ -160,8 +165,8 @@ Yang tidak ikut repo:
 
 Prioritas berikutnya yang paling bernilai:
 
-1. menambah admin/upload dan koreksi fakta langsung dari web
-2. penyimpanan permanen untuk PDF dan koreksi pada deploy hosted
+1. mencoba alur upload/koreksi lokal dengan koleksi nyata
+2. memasang disk permanen dan password sebelum mengaktifkan upload hosted
 3. perbandingan dua perkara dan bookmark
 4. menambah koleksi tematik; memperkuat extractor saat format baru ditemukan
 

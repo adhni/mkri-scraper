@@ -10,6 +10,8 @@ from urllib.parse import parse_qs, quote, urlencode
 from wsgiref.simple_server import make_server
 
 from .webdata import build_case_catalog, build_dashboard_stats, filter_case_summaries, get_case_record, summarize_case, public_summary, OUTCOME_LABELS
+from .admin import OwnerApp
+from .library import Library
 
 
 _NOISY_NAME_TOKENS = (
@@ -42,6 +44,7 @@ _STATUS_LABELS = {
     "unknown": "Tidak diketahui",
 }
 _SOURCE_LABELS = {
+    "library": "Disimpan pemilik",
     "review_queue": "Perlu review",
     "validated_json": "Tervalidasi",
     "parsed_json": "Hasil parse",
@@ -127,6 +130,8 @@ footer{margin-top:65px;padding:30px 0 40px;border-top:1px solid var(--line);disp
 @media(max-width:850px){.hero{gap:30px;grid-template-columns:1.5fr 1fr}.hero h1{font-size:44px}.collection-note{padding-left:24px}.detail-layout{grid-template-columns:1fr}.detail-aside{grid-template-columns:1fr 1fr}.source-panel{grid-column:1/-1}.filter-line{grid-template-columns:1fr 1fr}.case-title-link h3{font-size:23px}.case-card{padding:22px}.card-bottom{align-items:start;flex-direction:column}}
 @media(max-width:580px){.shell{padding:0 18px}.site-header{min-height:76px;gap:12px}.wordmark{font-size:13px;gap:5px}.brand-symbol{font-size:28px;margin-right:2px}nav{font-size:11px;gap:14px}nav a:last-child{display:none}.hero{grid-template-columns:1fr;padding:35px 0 24px;gap:24px}.hero h1{font-size:43px}.hero p{font-size:14px}.collection-note{border-left:0;border-top:1px solid var(--line);padding:18px 0 0}.collection-count{font-size:42px;margin:5px 0}.collection-note p{margin-top:8px}.collection-meta{font-size:12px}.browse-topics{padding-bottom:20px}.chip{padding:5px 9px;font-size:11px;gap:8px}.search-panel{padding:16px}.search-line{grid-template-columns:1fr}.search-line button{justify-self:start;padding:9px 14px;min-height:40px}.filter-line{gap:12px}.filter-actions{gap:12px}.filter-actions>span{flex-basis:100%}.case-grid{grid-template-columns:1fr}.results-heading h2{font-size:21px}.results-heading>span{font-size:11px}.case-card{padding:22px}.card-bottom{flex-direction:row;align-items:center}.case-intro h1{font-size:34px}.detail-aside{grid-template-columns:1fr}.panel{padding:20px}.kv-row{grid-template-columns:80px minmax(0,1fr);gap:10px}.story{font-size:15px}.data-details .detail-layout{gap:20px}footer{flex-wrap:wrap;gap:16px;margin-top:40px}footer p{flex-basis:100%}.field-label{font-size:10px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.case-card{transition:none}}
+.owner-intro{padding:38px 0 24px;max-width:760px}.owner-intro h1{font-size:38px;margin:12px 0}.owner-form{display:grid;gap:18px}.owner-form input,.owner-form textarea,.owner-form select{font:inherit;max-width:100%;padding:10px;border:1px solid var(--line);border-radius:4px;background:var(--paper);color:var(--ink)}.owner-form textarea{resize:vertical;width:100%}.owner-form label{font-size:13px}.owner-form .small-button{justify-self:start}.drop-zone{padding:30px 20px;border:2px dashed #9aac9c;border-radius:8px;text-align:center;background:#edf2e8}.drop-zone input{width:100%;font-size:12px}.form-error:empty{display:none}.form-error{color:#943b2e;background:#f9e8df;padding:12px;border-radius:4px}.review-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;align-items:start}.pdf-preview{position:sticky;top:20px;display:grid;gap:18px;min-width:0}.pdf-preview iframe{width:100%;height:650px;border:1px solid var(--line)}.save-bar{display:flex;align-items:center;gap:20px;position:sticky;bottom:0;padding:16px 0;background:var(--paper);border-top:1px solid var(--line)}.upload-progress{color:var(--accent);font-size:13px}@media(max-width:850px){.review-layout{grid-template-columns:1fr}.pdf-preview{position:static}.pdf-preview iframe{height:400px}.owner-intro h1{font-size:32px}}
+
 """
 
 
@@ -173,7 +178,7 @@ def _render_layout(title: str, body: str) -> str:
 </head>
 <body>
   <div class="shell">
-    <header class="site-header"><a class="wordmark" href="/cases" aria-label="MKRI — beranda"><span class="brand-symbol" aria-hidden="true">✳</span> <strong>MKRI</strong></a><nav aria-label="Navigasi utama"><a href="/cases">Jelajahi perkara</a><a href="#tentang">Tentang</a></nav></header>
+    <header class="site-header"><a class="wordmark" href="/cases" aria-label="MKRI — beranda"><span class="brand-symbol" aria-hidden="true">✳</span> <strong>MKRI</strong></a><nav aria-label="Navigasi utama"><a href="/cases">Jelajahi perkara</a><a href="/admin">Kelola</a><a href="#tentang">Tentang</a></nav></header>
     <main>{body}</main>
     <footer id="tentang"><div class="wordmark"><strong>MKRI</strong></div><p>Eksplorasi kecil untuk memahami perkara konstitusi.<br>Proyek independen, bukan situs resmi Mahkamah Konstitusi.</p><a class="inline-link" href="https://www.mkri.id" target="_blank" rel="noopener noreferrer">Situs resmi MKRI ↗</a></footer>
   </div>
@@ -221,7 +226,7 @@ def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], qu
       <details class="advanced"{advanced_open}><summary>Filter & catatan data</summary><div class="filter-line">
         <label class="field"><span class="field-label">Status Parse</span>{_select('status', query.get('status', ''), ['', 'ok', 'partial', 'failed'], labels=_STATUS_LABELS, empty_label='Semua status')}</label>
         <label class="field"><span class="field-label">Jenis Dokumen</span>{_select('document_type', query.get('document_type', ''), ['', 'putusan', 'ketetapan'], labels=_DOCUMENT_TYPE_LABELS, empty_label='Semua jenis')}</label>
-        <label class="field"><span class="field-label">Sumber Data</span>{_select('source', query.get('source', ''), ['', 'review_queue', 'validated_json', 'parsed_json'], labels=_SOURCE_LABELS, empty_label='Semua sumber')}</label>
+        <label class="field"><span class="field-label">Sumber Data</span>{_select('source', query.get('source', ''), ['', 'library', 'review_queue', 'validated_json', 'parsed_json'], labels=_SOURCE_LABELS, empty_label='Semua sumber')}</label>
         <label class="field"><span class="field-label">Sinyal Review</span>{_select('review_flag', query.get('review_flag', ''), [''] + list(stats['review_flag_counts']), labels=_REVIEW_FLAG_LABELS, empty_label='Semua sinyal')}</label>
       </div><label class="toggle"><input type="checkbox" name="review_only" value="1"{review_checked}> Hanya yang perlu review</label><div class="flag-list">{flags}</div></details>
       <div class="filter-actions"><span>Pencarian juga mencakup nama pihak dan isi dokumen.</span><a class="inline-link" href="/cases">Hapus filter</a><button class="small-button" type="submit">Terapkan</button></div>
@@ -483,7 +488,7 @@ def _render_case_card(item: dict[str, Any]) -> str:
     """
 
 
-def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> str:
+def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any], can_edit: bool = False) -> str:
     document = payload.get("document", {})
     parties = payload.get("parties", {})
     outcome = payload.get("outcome", {})
@@ -518,10 +523,13 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> s
     notes = '<p>Ekstraksi otomatis dapat melewatkan atau memotong informasi. Periksa dokumen sumber untuk detail lengkap.</p>'
     if hidden_judges or hidden_clerks:
         notes += '<p>Daftar hakim dan panitera menyembunyikan teks yang tidak menyerupai nama.</p>'
-    summary_label = 'Ringkasan editorial' if editorial else 'Ringkasan dokumen'
-    provenance = f"Disusun dari: {editorial.get('source_sections', '')}." if editorial else 'Diambil dari hasil ekstraksi dokumen.'
+    summary_label = 'Ringkasan editorial' if editorial.get('summary') else 'Ringkasan dokumen'
+    provenance = f"Disusun dari: {editorial.get('source_sections') or 'dokumen sumber'}." if editorial.get('summary') else 'Diambil dari hasil ekstraksi dokumen.'
     review_notice = '<p class="data-note">Sebagian data hasil ekstraksi masih perlu review. Lihat catatan data di bawah.</p>' if record_summary.get('needs_manual_review') else ''
     full_text = ''.join(f'<section><h3>{_safe(section.get("heading"))}</h3><p>{_safe(section.get("text"))}</p></section>' for section in sections)
+    owner_link = f'<a class="inline-link" href="/admin/cases/{quote(record_summary["case_id"])}">Ubah data perkara</a>' if can_edit else ''
+    pdf_link = f'<a class="inline-link" href="/cases/{quote(record_summary["case_id"])}/pdf" target="_blank" rel="noopener">Buka PDF asli ↗</a>' if payload.get('has_pdf') else ''
+    correction_note = '<p class="data-note">Data inti telah diperiksa dan disimpan oleh pemilik koleksi.</p>' if payload.get('owner_review') else ''
     body = f"""
     <a class="back-link" href="/cases">← Jelajahi semua perkara</a>
     <section class="case-intro">
@@ -529,6 +537,8 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> s
       <h1>{_safe(record_summary.get('title'))}</h1>
       <div class="case-reference">{_safe(document.get('case_number'))} <span aria-hidden="true">·</span> {_safe(date)} <span aria-hidden="true">·</span> {_safe(_label_document_type(document.get('document_type')))}</div>
       {review_notice}
+      {correction_note}
+      <div class="filter-actions">{owner_link}{pdf_link}</div>
     </section>
     <section class="detail-layout">
       <div class="stack">
@@ -606,10 +616,19 @@ def create_app(
     parsed_dir: str | Path = "data/parsed_json",
     validated_dir: str | Path = "data/validated_json",
     review_dir: str | Path = "data/review_queue",
+    *,
+    library_dir: str | Path | None = None,
+    admin_password: str | None = None,
+    local_admin: bool = False,
 ):
     parsed_dir = Path(parsed_dir)
     validated_dir = Path(validated_dir)
     review_dir = Path(review_dir)
+    storage = library_dir or os.environ.get('MKRI_STORAGE_DIR')
+    library = Library(storage or parsed_dir.parent / 'library')
+    password = admin_password if admin_password is not None else os.environ.get('MKRI_ADMIN_PASSWORD', '')
+    owner = OwnerApp(library, _render_layout, password=password, local=local_admin,
+                     enabled=bool(local_admin or (password and storage)))
 
     def app(environ: dict[str, Any], start_response: Callable[..., Any]) -> list[bytes]:
         path = environ.get("PATH_INFO", "/")
@@ -618,7 +637,16 @@ def create_app(
         if path == "/static/styles.css":
             return _text_response(start_response, STYLES_CSS, content_type="text/css; charset=utf-8")
 
-        catalog = build_case_catalog(parsed_dir=parsed_dir, validated_dir=validated_dir, review_dir=review_dir)
+        catalog = build_case_catalog(parsed_dir=parsed_dir, validated_dir=validated_dir, review_dir=review_dir, library_dir=library.directory)
+        admin_response = owner(environ, start_response, catalog)
+        if admin_response is not None:
+            return admin_response
+        pdf_match = re.fullmatch(r'/cases/([^/]+)/pdf', path)
+        if pdf_match:
+            content = library.pdf(case_id=pdf_match[1])
+            if content is None:
+                return _text_response(start_response, 'PDF belum tersedia.', status='404 Not Found')
+            return owner.binary(start_response, content, 'application/pdf', 'document.pdf')
         summaries = [summarize_case(record) for record in catalog]
 
         if path == "/api/cases":
@@ -637,17 +665,17 @@ def create_app(
 
         if path.startswith("/api/cases/"):
             case_id = path.rsplit("/", 1)[-1]
-            record = get_case_record(case_id, parsed_dir=parsed_dir, validated_dir=validated_dir, review_dir=review_dir)
+            record = next((record for record in catalog if record.case_id == case_id), None)
             if not record:
                 return _json_response(start_response, {"error": "case not found"}, status="404 Not Found")
             return _json_response(start_response, {"summary": public_summary(summarize_case(record)), "payload": record.payload})
 
         if path.startswith("/cases/"):
             case_id = path.rsplit("/", 1)[-1]
-            record = get_case_record(case_id, parsed_dir=parsed_dir, validated_dir=validated_dir, review_dir=review_dir)
+            record = next((record for record in catalog if record.case_id == case_id), None)
             if not record:
                 return _text_response(start_response, _render_layout("Not Found", '<div class="panel empty">Case tidak ditemukan.</div>'), status="404 Not Found")
-            return _text_response(start_response, _render_detail(summarize_case(record), record.payload))
+            return _text_response(start_response, _render_detail(summarize_case(record), record.payload, can_edit=owner.can_edit(environ)))
 
         if path in {"/", "/cases"}:
             filtered = filter_case_summaries(
@@ -669,9 +697,9 @@ def create_app(
 
 
 def main() -> None:
-    host = os.environ.get("HOST", "0.0.0.0")
+    host = os.environ.get("HOST", "0.0.0.0" if os.environ.get('RENDER') else "127.0.0.1")
     port = int(os.environ.get("PORT", "8000"))
-    app = create_app()
+    app = create_app(local_admin=host in {'127.0.0.1', 'localhost'} and not os.environ.get('RENDER') and not os.environ.get('MKRI_ADMIN_PASSWORD'))
     with make_server(host, port, app) as server:
         print(f"MKRI viewer running on http://{host}:{port}")
         server.serve_forever()

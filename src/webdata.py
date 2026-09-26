@@ -4,6 +4,7 @@ import json
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
+from .library import Library, apply_corrections
 
 SOURCE_PRIORITY = ["review_queue", "validated_json", "parsed_json"]
 OUTCOME_LABELS = {
@@ -24,6 +25,8 @@ class CaseRecord:
     path: Path
     payload: dict[str, Any]
     available_sources: dict[str, str]
+    raw_payload: dict[str, Any] | None = None
+    revision: int = 0
 
 
 def _iter_json_files(path: Path) -> list[Path]:
@@ -39,6 +42,7 @@ def build_case_catalog(
     validated_dir: str | Path = "data/validated_json",
     review_dir: str | Path = "data/review_queue",
     editorial_path: str | Path | None = None,
+    library_dir: str | Path | None = None,
 ) -> list[CaseRecord]:
     directories = {"parsed_json": Path(parsed_dir), "validated_json": Path(validated_dir), "review_queue": Path(review_dir)}
     # Separate editorial notes survive re-parsing. Never overwrite source facts.
@@ -56,7 +60,19 @@ def build_case_catalog(
         payload = _load_json(chosen_path)
         payload["editorial"] = notes.get(payload.get("document", {}).get("case_number"), {})
         records.append(CaseRecord(case_id, chosen_source, chosen_path, payload, {k: str(v) for k, v in source_map.items()}))
-    return records
+    library = Library(library_dir or Path(parsed_dir).parent / 'library')
+    by_id = {record.case_id: record for record in records}
+    for stored in library.cases():
+        prior = by_id.get(stored['id'])
+        raw = json.loads(stored['raw']) if stored['raw'] else (prior.payload if prior else None)
+        if raw is None:
+            continue
+        payload = apply_corrections(raw, json.loads(stored['edits']), json.loads(stored['editorial']))
+        payload['owner_review'] = {'updated_at': stored['updated_at'], 'revision': stored['revision']}
+        payload['has_pdf'] = bool(stored['document_hash'])
+        by_id[stored['id']] = CaseRecord(stored['id'], 'library', library.path, payload,
+                                        prior.available_sources if prior else {}, raw, stored['revision'])
+    return list(by_id.values())
 
 
 def classify_outcome(summary: str | None) -> str:
@@ -100,7 +116,7 @@ def summarize_case(record: CaseRecord) -> dict[str, Any]:
         "description": editorial.get("summary") or document.get("summary") or outcome.get("summary"),
         "topics": editorial.get("topics", []),
         "law": law,
-        "editorial": bool(editorial),
+        "editorial": bool(editorial.get('summary')),
         "status": parser_info.get("status"),
         "needs_manual_review": validation.get("needs_manual_review", False),
         "review_flags": validation.get("review_flags", []),

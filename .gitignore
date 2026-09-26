@@ -32,3 +32,10 @@ data/pipeline_state/*.json
 data/pipeline_reports/*.json
 data/discovery/**/*.json
 data/discovery/**/*.html
+
+# Local upload library, PDFs, drafts, and owner corrections
+data/library/
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm

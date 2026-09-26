@@ -91,7 +91,9 @@ class ExplorerTests(unittest.TestCase):
 class SavedCollectionTests(unittest.TestCase):
     def test_saved_cases_have_expected_core_facts_and_editorial(self):
         root = Path(__file__).resolve().parents[1] / 'data'
-        records = build_case_catalog(root/'parsed_json', root/'validated_json', root/'review_queue')
+        # Check the committed seed collection, independently of local owner edits.
+        with tempfile.TemporaryDirectory() as library_dir:
+            records = build_case_catalog(root/'parsed_json', root/'validated_json', root/'review_queue', library_dir=library_dir)
         dates = {
             '135/PUU-XXIII/2025': '2026-01-19', '225/PUU-XXIII/2025': '2026-01-19',
             '11/PUU-XXIV/2026': '2026-01-30', '262/PUU-XXIII/2025': '2026-01-30', '246/PUU-XXIII/2025': '2026-01-30',
