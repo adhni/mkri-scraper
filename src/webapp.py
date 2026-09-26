@@ -173,9 +173,9 @@ def _render_layout(title: str, body: str) -> str:
 </head>
 <body>
   <div class="shell">
-    <header class="site-header"><a class="wordmark" href="/cases" aria-label="MKRI ASTRA — beranda"><span class="brand-symbol" aria-hidden="true">✳</span> MKRI <strong>ASTRA</strong></a><nav aria-label="Navigasi utama"><a href="/cases">Jelajahi perkara</a><a href="#tentang">Tentang</a></nav></header>
+    <header class="site-header"><a class="wordmark" href="/cases" aria-label="MKRI — beranda"><span class="brand-symbol" aria-hidden="true">✳</span> <strong>MKRI</strong></a><nav aria-label="Navigasi utama"><a href="/cases">Jelajahi perkara</a><a href="#tentang">Tentang</a></nav></header>
     <main>{body}</main>
-    <footer id="tentang"><div class="wordmark">MKRI <strong>ASTRA</strong></div><p>Eksplorasi kecil untuk memahami perkara konstitusi.<br>Proyek independen, bukan situs resmi Mahkamah Konstitusi.</p><a class="inline-link" href="https://www.mkri.id" target="_blank" rel="noopener noreferrer">Situs resmi MKRI ↗</a></footer>
+    <footer id="tentang"><div class="wordmark"><strong>MKRI</strong></div><p>Eksplorasi kecil untuk memahami perkara konstitusi.<br>Proyek independen, bukan situs resmi Mahkamah Konstitusi.</p><a class="inline-link" href="https://www.mkri.id" target="_blank" rel="noopener noreferrer">Situs resmi MKRI ↗</a></footer>
   </div>
 </body>
 </html>"""
@@ -229,7 +229,7 @@ def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], qu
     <div class="results-heading"><h2>Daftar Perkara MKRI</h2><span>{len(summaries)} dari {stats['total_cases']} perkara</span></div>
     <section class="grid case-grid" aria-label="Hasil pencarian">{cards}</section>
     """
-    return _render_layout("Jelajahi Perkara · MKRI ASTRA", body)
+    return _render_layout("Jelajahi Perkara · MKRI", body)
 
 
 def _select(
@@ -550,7 +550,7 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any]) -> s
     </details>
     <details id="teks-dokumen" class="panel data-details"><summary>Teks dokumen</summary><p class="subtle">Hasil ekstraksi otomatis dari PDF; pemenggalan kata dan judul bagian dapat berbeda dari dokumen asli.</p><div class="document-text">{full_text or 'Teks belum tersedia.'}</div></details>
     """
-    return _render_layout(f"{record_summary.get('title')} · MKRI ASTRA", body)
+    return _render_layout(f"{record_summary.get('title')} · MKRI", body)
 
 
 def _panel(title: str, content: str) -> str:

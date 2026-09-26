@@ -205,7 +205,7 @@ Workflow yang disarankan:
 4. file yang gagal parse dipindah ke `data/raw_pdfs/failed/`
 5. website otomatis membaca JSON baru dari `data/parsed_json/`, `data/validated_json/`, dan `data/review_queue`
 
-## MKRI ASTRA — Case Explorer
+## MKRI — Case Explorer
 
 Viewer kini mengutamakan topik dan isi perkara: judul deskriptif, ringkasan bahasa
 Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi awal berisi 13
