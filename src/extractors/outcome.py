@@ -7,81 +7,39 @@ from ..normalizers import normalize_whitespace
 
 
 def extract_outcome(sections: list[Section], source_text: str, document_type: str | None) -> Outcome:
-    blob = source_text
-    outcome = Outcome(decision_type=document_type)
-    dictum: list[str] = []
-    preferred_sections = [
-        section
-        for section in sections
-        if re.search(r"(amar|mengadili|menetapkan|putusan|penetapan)", section.heading, flags=re.IGNORECASE)
-        or re.search(r"(amar|mengadili|menetapkan)", section.slug, flags=re.IGNORECASE)
-    ]
-    section_candidates = preferred_sections or sections
-    lines = blob.splitlines()
-    collecting = False
-    for raw_line in lines:
-        text = normalize_whitespace(raw_line)
-        if not text:
+    # Use the operative section, not a petitioner's request or quoted precedent.
+    headings = list(re.finditer(
+        r"(?im)^\s*(?:\d+\.\s*)?(?:AMAR\s+(?:PUTUSAN|PENETAPAN)|MENETAPKAN)\s*:?\s*$",
+        source_text,
+    ))
+    if not headings:
+        headings = list(re.finditer(r"(?im)^\s*MENGADILI\s*:?\s*$", source_text))
+    if not headings:
+        label = "ketetapan" if document_type == "ketetapan" else "amar putusan"
+        message = f"{label} tidak terdeteksi secara eksplisit"
+        return Outcome(decision_type=document_type, dictum=[message], summary=message)
+    body = source_text[headings[-1].end():]
+    body = re.split(
+        r"(?im)^\s*(?:\d+\.\s*)?(?:Demikian\b|ALASAN\s+BERBEDA|PENDAPAT\s+BERBEDA|DISSENTING\s+OPINION|KETUA\s*,)",
+        body, maxsplit=1,
+    )[0]
+    items: list[str] = []
+    current: list[str] = []
+    for line in body.splitlines():
+        line = normalize_whitespace(line)
+        if not line or re.fullmatch(r"\d+|[-–—]+|Mengadili\s*:?|Menetapkan\s*:?", line, re.I):
             continue
-        if re.search(r"^\s*MENETAPKAN:\s*$", raw_line, flags=re.IGNORECASE) or re.search(r"^\s*MENETAPKAN:\s*", raw_line, flags=re.IGNORECASE):
-            collecting = True
+        if re.match(r"^(?:Dalam (?:Provisi|Pokok Permohonan|Eksepsi)|DALAM POKOK)", line, re.I):
+            if current:
+                items.append(normalize_whitespace(" ".join(current)))
+                current = []
             continue
-        if not collecting:
-            continue
-        if re.fullmatch(r"\d+", text):
-            continue
-        if re.match(r"^(?:demikian|ditetapkan|mengingat|rapat permusyawaratan hakim)", text, flags=re.IGNORECASE):
-            break
-        bullet = re.match(r"^(?:\d+|[a-z])[\.\)]\s*(.+)$", text, flags=re.IGNORECASE)
-        if bullet:
-            item = normalize_whitespace(bullet.group(1))
-            if item and item not in dictum:
-                dictum.append(item)
-            continue
-        if dictum and len(dictum) < 4:
-            continue
-        if not dictum and len(text) > 10:
-            dictum.append(text)
-    outcome_patterns = [
-        r"mengabulkan",
-        r"menolak",
-        r"tidak dapat diterima",
-        r"menerima\s+permohonan",
-        r"menetapkan",
-        r"dicabut",
-        r"mengesahkan",
-        r"membatalkan",
-    ]
-    if not dictum:
-        for section in section_candidates:
-            for line in section.text.splitlines():
-                text = normalize_whitespace(line)
-                if not text:
-                    continue
-                if len(text) <= 20 and text.isupper():
-                    continue
-                if any(re.search(pattern, text, flags=re.IGNORECASE) for pattern in outcome_patterns):
-                    if text not in dictum:
-                        dictum.append(text)
-            if dictum:
-                break
-    if not dictum:
-        for line in blob.splitlines():
-            text = normalize_whitespace(line)
-            if not text:
-                continue
-            if len(text) <= 20 and text.isupper():
-                continue
-            if any(re.search(pattern, text, flags=re.IGNORECASE) for pattern in outcome_patterns):
-                if text not in dictum:
-                    dictum.append(text)
-    if dictum and len(dictum) > 1 and any(item.startswith("Mengabulkan") or item.startswith("Menyatakan") for item in dictum):
-        dictum = dictum[:4]
-    if not dictum:
-        if document_type == "ketetapan":
-            dictum.append("ketetapan tidak terdeteksi secara eksplisit")
-        elif document_type == "putusan":
-            dictum.append("amar putusan tidak terdeteksi secara eksplisit")
-    outcome.dictum = dictum[:20]
-    outcome.summary = dictum[0] if dictum else None
-    return outcome
+        numbered = re.match(r"^\d+[.)]\s*(.*)", line)
+        if numbered and current:
+            items.append(normalize_whitespace(" ".join(current)))
+            current = []
+        current.append(numbered.group(1) if numbered else line)
+    if current:
+        items.append(normalize_whitespace(" ".join(current)))
+    items = [re.sub(r"\s+([;,.])", r"\1", item) for item in items if item]
+    return Outcome(decision_type=document_type, dictum=items, summary=items[0] if items else None)

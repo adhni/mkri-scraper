@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import re
 
-from ..normalizers import extract_case_numbers, normalize_case_number, normalize_indonesian_date, normalize_whitespace
+from ..normalizers import INDONESIAN_DATE_RE, extract_case_numbers, normalize_case_number, normalize_indonesian_date, normalize_whitespace
 
 PUTUSAN_RE = re.compile(r"\bputusan\b", re.IGNORECASE)
 KETETAPAN_RE = re.compile(r"\bketetapan\b", re.IGNORECASE)
@@ -21,14 +21,22 @@ def detect_document_info(text: str) -> dict[str, str | list[str] | None]:
     case_number = normalize_case_number(head) or (extract_case_numbers(head)[0] if extract_case_numbers(head) else None)
     decision_date = None
     decision_date_raw = None
-    for pattern in [
-        r"(?:ditetapkan|diucapkan|diputuskan|dibacakan).*?(\d{1,2}\s+[a-z]+\s+\d{4})",
-        r"(?:jakarta|mahkamah konstitusi).*?(\d{1,2}\s+[a-z]+\s+\d{4})",
-    ]:
-        match = re.search(pattern, head, flags=re.IGNORECASE | re.DOTALL)
-        if match:
-            decision_date_raw = match.group(1)
-            decision_date = normalize_indonesian_date(decision_date_raw)
+    # Public pronouncement can occur months after the judges' deliberation.
+    closings = list(re.finditer(r"(?im)^\s*Demikian\s+(?:diputus\w*|ditetapkan)\b", text))
+    closing = text[closings[-1].start():] if closings else "\n".join(
+        line for line in text.splitlines()
+        if re.match(r"\s*(?:diucapkan|dibacakan|ditetapkan)\b", line, re.I)
+    )
+    closing = normalize_whitespace(re.sub(r"(?m)^\s*\d+\s*$", "", closing))
+    anchors = list(re.finditer(r"\b(?:diucapkan|dibacakan)\b", closing, re.I))
+    if not anchors:
+        anchors = list(re.finditer(r"\bditetapkan\b", closing, re.I))
+    for anchor in anchors:
+        candidate = closing[anchor.end():anchor.end() + 240]
+        match = INDONESIAN_DATE_RE.search(candidate)
+        if match and (parsed_date := normalize_indonesian_date(match.group())):
+            decision_date_raw = match.group()
+            decision_date = parsed_date
             break
 
     title = lines[0] if lines else None
@@ -46,4 +54,3 @@ def detect_document_info(text: str) -> dict[str, str | list[str] | None]:
         "decision_date": decision_date,
         "decision_date_raw": decision_date_raw,
     }
-

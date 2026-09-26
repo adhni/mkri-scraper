@@ -177,7 +177,11 @@ class WebAppTests(unittest.TestCase):
             self.assertIn("Catatan Viewer", body)
             self.assertNotIn("paragraf panjang yang seharusnya tidak tampil", body)
             self.assertNotIn("REFERENSI:230/PUU/PAN.MK/AP3/11/2025", body)
-            self.assertNotIn("heading palsu yang sangat panjang", body)
+            # The reader preview hides noisy headings; the explicitly labelled
+            # raw-text disclosure preserves the complete source for inspection.
+            preview, raw_text = body.split('<details id="teks-dokumen"', 1)
+            self.assertNotIn("heading palsu yang sangat panjang", preview)
+            self.assertIn("heading palsu yang sangat panjang", raw_text)
 
 
 if __name__ == "__main__":
