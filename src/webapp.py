@@ -12,6 +12,7 @@ from wsgiref.simple_server import make_server
 from .webdata import build_case_catalog, build_dashboard_stats, filter_case_summaries, get_case_record, summarize_case, public_summary, OUTCOME_LABELS
 from .admin import OwnerApp
 from .library import Library
+from .stories import load_stories, story_cards, story_navigation, render_story
 from .experience import (browse_return, case_href, pdf_source, search_matches, highlighted,
                          related_cases, judges_html, change_html, reasoning_html, thresholds_html, citation)
 
@@ -191,15 +192,13 @@ def _render_layout(title: str, body: str) -> str:
 </html>"""
 
 
-def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], query: dict[str, str]) -> str:
+def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], query: dict[str, str], stories: list | None = None) -> str:
     back = _query_href(query)
     cards = ''.join(_render_case_card(item, back=back, search=query.get('q', '')) for item in summaries) or '<div class="panel empty"><h2>Belum menemukan yang cocok.</h2><p>Coba kata lain atau hapus salah satu filter di atas.</p><a class="inline-link" href="/cases#results">Lihat semua perkara</a></div>'
     topics = ''.join(f'<a class="chip {"selected" if query.get("topic") == topic else ""}" href="{_safe(_query_href(query, topic=None if query.get("topic") == topic else topic))}">{_safe(topic)} <span>{count}</span></a>' for topic, count in stats['topic_counts'].items())
     flags = ''.join(f'<span class="flag">{_safe(_label_review_flag(name))} ({count})</span>' for name, count in stats['review_flag_counts'].items())
     filtered = any(query.get(k) for k in ('q', 'topic', 'year', 'outcome', 'status', 'source', 'review_flag', 'review_only', 'document_type'))
-    featured = sorted([i for i in summaries if i.get('featured_rank') is not None], key=lambda i: i['featured_rank'])[:4] if not filtered else []
-    feature_cards = ''.join(f'''<a class="featured-card" href="{_safe(case_href(i['case_id'], back))}" data-case-link><span class="eyebrow">{' / '.join(_safe(t) for t in i['topics'])}</span><h3>{_safe(i['title'])}</h3><p>{_safe(i.get('impact') or i.get('description'))}</p><span class="feature-foot">{_safe(i.get('year'))} <span aria-hidden="true">↗</span></span></a>''' for i in featured)
-    feature_section = f'<section class="featured-section"><div class="section-heading"><h2>Mulai dari perkara besar</h2><a class="inline-link" href="#results">Semua perkara ↓</a></div><div class="featured-grid">{feature_cards}</div></section>' if featured else ''
+    story_section = story_cards(stories or []) if not filtered else ''
     active = ''
     for key, label in [('q','Pencarian'),('topic','Topik'),('year','Tahun'),('outcome','Hasil'),('document_type','Jenis'),('status','Status'),('source','Sumber'),('review_flag','Review'),('review_only','Perlu review')]:
         if query.get(key):
@@ -209,6 +208,7 @@ def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], qu
     checked = ' checked' if query.get('review_only') == '1' else ''
     body = f'''
     <section class="browse-intro"><div><span class="eyebrow">Mahkamah Konstitusi · koleksi pilihan</span><h1>Putusan besar. Dampak nyata.</h1></div><p><strong>{stats['total_cases']}</strong> perkara · {len(stats['topic_counts'])} topik<br><span>Koleksi pilihan, bukan arsip lengkap.</span></p></section>
+    {story_section}
     <form method="get" action="/cases#results" class="search-panel panel compact-search">
       <div class="search-line"><label class="field"><span class="field-label">Cari perkara</span><input type="search" name="q" value="{_safe(query.get('q',''))}" placeholder="Coba: hutan adat, batas usia, Cipta Kerja…"></label><button type="submit">Cari perkara</button></div>
       <div class="filter-line">
@@ -225,7 +225,6 @@ def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], qu
         <label class="field"><span class="field-label">Sinyal Review</span>{_select('review_flag',query.get('review_flag',''),['']+list(stats['review_flag_counts']),labels=_REVIEW_FLAG_LABELS,empty_label='Semua sinyal')}</label>
       </div><label class="toggle"><input type="checkbox" name="review_only" value="1"{checked}> Hanya yang perlu review</label><div class="flag-list">{flags}</div><button class="small-button" type="submit">Terapkan filter data</button></details>
     </form>
-    {feature_section}
     <section id="results" class="browse-results"><div class="results-heading"><h2>{'Hasil pencarian' if filtered else 'Daftar Perkara MKRI'}</h2><span>{len(summaries)} dari {stats['total_cases']} perkara</span></div>
     <div class="active-filters">{active}{'<a class="inline-link" href="/cases#results">Hapus semua</a>' if active else ''}</div>
     <details class="topic-disclosure"><summary>Jelajahi {len(stats['topic_counts'])} topik</summary><div class="topic-list">{topics}</div></details>
@@ -483,7 +482,7 @@ def _render_case_card(item: dict[str, Any], back: str = '/cases#results', search
       <div class="card-bottom"><span class="document-label">{_safe(_label_document_type(item.get('document_type')))}</span><a class="read-link" href="{href}" data-case-link>Baca perkara <span aria-hidden="true">→</span></a></div>{note}</article>'''
 
 
-def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any], can_edit: bool = False, back: str = "/cases#results", related: list | None = None) -> str:
+def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any], can_edit: bool = False, back: str = "/cases#results", related: list | None = None, journey: str = '') -> str:
     document = payload.get("document", {})
     parties = payload.get("parties", {})
     outcome = payload.get("outcome", {})
@@ -556,6 +555,7 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any], can_
     <div class="source-reader-grid"><aside><span class="eyebrow">Yang sedang Anda baca</span><p id="source-context"></p><form id="pdf-page-form"><label for="pdf-page">Halaman PDF</label><div class="page-controls"><input id="pdf-page" type="number" min="1" max="{int(payload.get('source',{}).get('page_count') or 9999)}" value="1" required><button type="submit">Buka</button></div></form><a id="external-pdf" class="inline-link" href="{pdf_url}" target="_blank" rel="noopener">Buka di tab baru ↗</a><p class="subtle">Jika pratinjau tidak tampil, gunakan tautan tab baru.</p></aside><iframe id="source-frame" title="PDF putusan resmi" data-pdf-url="{pdf_url}"></iframe></div></dialog>''' if has_source else ''
     body = f'''
     <a class="back-link" href="{_safe(back)}" data-browse-back>← Kembali ke daftar perkara</a>
+    {journey}
     <section id="ringkasan" class="decision-hero reader-section">
       <div class="decision-top"><span class="eyebrow">{_safe(' / '.join(record_summary.get('topics',[])))}</span><span class="badge outcome-{_safe(record_summary.get('outcome_key'))}">{_safe(record_summary.get('outcome_label'))}</span></div>
       <h1>{_safe(record_summary.get('title'))}</h1>
@@ -719,7 +719,17 @@ def create_app(
             record = next((record for record in catalog if record.case_id == case_id), None)
             if not record:
                 return _text_response(start_response, _render_layout("Not Found", '<div class="panel empty">Case tidak ditemukan.</div>'), status="404 Not Found")
-            return _text_response(start_response, _render_detail(summarize_case(record), record.payload, can_edit=owner.can_edit(environ), back=browse_return(query.get("return")), related=related_cases(summarize_case(record), summaries)))
+            back = browse_return(query.get("return"))
+            stories = load_stories(parsed_dir.parent / 'editorial' / 'stories.json', summaries)
+            journey = story_navigation(record.payload.get('document', {}).get('case_number'), stories, summaries, back)
+            return _text_response(start_response, _render_detail(summarize_case(record), record.payload, can_edit=owner.can_edit(environ), back=back, related=related_cases(summarize_case(record), summaries), journey=journey))
+
+        if path.startswith('/stories/'):
+            stories = load_stories(parsed_dir.parent / 'editorial' / 'stories.json', summaries)
+            story = next((item for item in stories if path == '/stories/' + item['slug']), None)
+            if story is None:
+                return _text_response(start_response, _render_layout('Cerita tidak ditemukan', '<div class="panel empty"><h1>Cerita tidak ditemukan.</h1><a class="inline-link" href="/cases#stories">Kembali ke cerita & perkara →</a></div>'), status='404 Not Found')
+            return _text_response(start_response, _render_layout(story['title'] + ' · MKRI', render_story(story, summaries)))
 
         if path in {"/", "/cases"}:
             filtered = filter_case_summaries(
@@ -733,7 +743,8 @@ def create_app(
                 topic=query.get("topic", ""), year=query.get("year", ""), outcome=query.get("outcome", ""),
             )
             filtered = _sort_case_summaries(search_matches(filtered, query.get("q", "")), (query.get("sort") if query.get("sort") not in (None, "", "auto") else ("relevance" if query.get("q") else "newest")))
-            return _text_response(start_response, _render_dashboard(filtered, build_dashboard_stats(summaries), query))
+            stories = load_stories(parsed_dir.parent / 'editorial' / 'stories.json', summaries)
+            return _text_response(start_response, _render_dashboard(filtered, build_dashboard_stats(summaries), query, stories))
 
         return _text_response(start_response, _render_layout("Not Found", '<div class="panel empty">Route tidak ditemukan.</div>'), status="404 Not Found")
 

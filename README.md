@@ -226,9 +226,30 @@ PDF resmi, checksum, dan catatan pemeriksaan tersedia di
 [`landmark_sources.json`](data/editorial/landmark_sources.json). PDF disimpan lokal
 di `data/raw_pdfs`; snapshot JSON dan ringkasan ikut repo.
 
+### Mengikuti cerita putusan
+
+Tiga cerita menghubungkan delapan perkara: **Siapa boleh maju pemilu?**,
+**Apa yang berubah dalam Cipta Kerja?**, dan **Hak dalam keluarga**.
+Pilih kartu cerita di beranda untuk membaca urutan putusan, dampak, dan hubungan
+antarkasus. Setiap bab menautkan halaman perkara serta halaman PDF sumber.
+Perkara dalam cerita menampilkan tautan cerita dan perkara sebelumnya/berikutnya.
+
+Isi disimpan dalam `data/editorial/stories.json`: `slug`, judul/deskripsi,
+pengantar, daftar `entries`, dan penutup. Setiap entri memakai `case_number`,
+`heading`, `what`, `why`, `connection`, dan `source_pages` (nomor halaman PDF,
+dimulai dari 1). Urutkan entri menurut tanggal putusan. Halaman publik tersedia
+pada `/stories/<slug>`; slug yang tidak dikenal menghasilkan 404. Koleksi parsial
+menyembunyikan cerita yang referensi perkaranya belum lengkap.
+
+Penjelasan tambahan enam perkara berada di `data/editorial/insights.json`;
+`change.pages` dapat memuat beberapa halaman sumber, dengan `change.page`
+sebagai rujukan tunggal untuk catatan lama. Tidak ada perubahan skema API perkara
+atau database. Semua penjelasan bersifat historis dan tidak menambah klaim suara
+hakim yang belum diperiksa.
+
 ### Membaca keputusan dan posisi hakim
 
-Beranda menampilkan perkara pilihan; pencarian memprioritaskan nomor/judul/topik,
+Beranda menampilkan tiga cerita terkurasi; pencarian memprioritaskan nomor/judul/topik,
 menandai kata yang cocok, dan mempertahankan filter saat kembali dari detail.
 Halaman perkara menyediakan ringkasan keputusan, perubahan sebelum/sesudah bila
 tersedia, panel hakim, alasan, perkara dengan topik terkait, dan PDF dengan tautan
