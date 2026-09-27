@@ -194,3 +194,8 @@ Prioritas berikutnya yang paling bernilai:
 ## Perluasan koleksi: delapan perkara besar
 
 Koleksi menjadi 24 perkara dalam 13 topik: ambang batas presiden, UU ITE, jabatan polisi aktif, pendidikan dasar, pemisahan pemilu, ketenagakerjaan, penghayat kepercayaan, dan hubungan perdata anak. Sumber PDF resmi dan hash dicatat di `data/editorial/expansion_sources.json`. Ringkasan historis dan data inti dikurasi; posisi suara individual belum dikurasi untuk batch ini.
+
+
+## Perluasan lanjutan: sepuluh perkara
+
+Koleksi menjadi 34 perkara dalam 16 topik. Ditambahkan perkara perkawinan anak, perjanjian perkawinan, calon independen, ambang batas parlemen, model pemilu serentak, sumber daya air, BP Migas, KKR, praperadilan, dan jaminan fidusia. Sumber resmi dicatat dalam `data/editorial/expansion_sources.json`; posisi suara individual belum dikurasi. Flag jumlah pemohon pada perkara 36/PUU-X/2012 dipertahankan; daftar 42 pemohon telah diperiksa.
