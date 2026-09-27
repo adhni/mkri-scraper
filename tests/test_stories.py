@@ -55,17 +55,39 @@ class GuidedStoryTests(unittest.TestCase):
                 for page in payload['insights']['change'].get('pages', [payload['insights']['change']['page']]):
                     self.assertTrue(1 <= page <= payload['source']['page_count'])
                 count += sum(len(entry[key].split()) for key in ['heading', 'what', 'why', 'connection'])
-            self.assertEqual(dates, sorted(dates))
-            self.assertTrue(300 <= count <= 450, (story['slug'], count))
+            if story.get('chapters'):
+                groups = story['chapters']
+                self.assertEqual([g['id'] for g in groups], ['jalur', 'pribadi', 'dukungan'])
+                self.assertEqual([e['chapter'] for e in story['entries']], ['jalur'] * 2 + ['pribadi'] * 3 + ['dukungan'] * 3)
+                self.assertEqual(len(story['entries']), 8)
+                for group in groups:
+                    group_dates = [dates[i] for i, entry in enumerate(story['entries']) if entry['chapter'] == group['id']]
+                    self.assertEqual(group_dates, sorted(group_dates))
+                    count += len(group['title'].split()) + len(group['intro'].split())
+                for entry in story['entries']:
+                    self.assertIn(entry['office'], ['Pilkada', 'DPD', 'Presiden / Wapres'])
+                    for field in ['background', 'debate', 'before', 'after']:
+                        self.assertTrue(entry[field])
+                        count += len(entry[field].split())
+                    count += len(entry.get('opinion', '').split())
+                comparison = story['comparison']
+                self.assertEqual(len(comparison['rows']), 3)
+                count += len(comparison['title'].split()) + len(comparison['note'].split())
+                count += sum(len(cell.split()) for row in comparison['rows'] for cell in row)
+                self.assertTrue(1400 <= count <= 1700, count)
+            else:
+                self.assertEqual(dates, sorted(dates))
+                self.assertTrue(300 <= count <= 450, (story['slug'], count))
         self.assertEqual(set(referenced), {'5/PUU-V/2007', '60/PUU-XXII/2024', '62/PUU-XXII/2024',
                                          '91/PUU-XVIII/2020', '168/PUU-XXI/2023', '46/PUU-VIII/2010',
-                                         '69/PUU-XIII/2015', '22/PUU-XV/2017'})
+                                         '69/PUU-XIII/2015', '22/PUU-XV/2017', '90/PUU-XXI/2023',
+                                         '30/PUU-XVI/2018', '56/PUU-XVII/2019', '70/PUU-XXII/2024', '53/PUU-XV/2017'})
 
     def test_home_story_pages_and_not_found(self):
         status, home = self.request('/')
         self.assertEqual(status, '200 OK')
         self.assertEqual(home.count('class="story-card"'), 3)
-        self.assertEqual(home.count('class="case-card"'), 34)
+        self.assertEqual(home.count('class="case-card"'), 38)
         self.assertNotIn('class="featured-card"', home)
         by_number = {s['case_number']: s for s in self.summaries}
         for story in self.stories:
@@ -97,6 +119,26 @@ class GuidedStoryTests(unittest.TestCase):
         unrelated = by_number['35/PUU-X/2012']
         self.assertNotIn('class="story-context"', self.request('/cases/' + unrelated['case_id'])[1])
 
+    def test_election_chapters_and_navigation_cross_the_time_reset(self):
+        story = self.stories[0]
+        status, html = self.request('/stories/' + story['slug'])
+        self.assertEqual(status, '200 OK')
+        self.assertEqual(html.count('class="story-part"'), 3)
+        self.assertEqual(html.count('class="story-evidence"'), 8)
+        self.assertEqual(html.count('class="story-change"'), 8)
+        self.assertEqual(html.count('class="office-label"'), 8)
+        for group in story['chapters']:
+            self.assertIn('id="part-' + group['id'] + '"', html)
+            self.assertIn('href="#part-' + group['id'] + '"', html)
+        by_number = {s['case_number']: s for s in self.summaries}
+        # New chapter restarts in 2018; reading order must not become a global date sort.
+        body = self.request('/cases/' + by_number['70/PUU-XXII/2024']['case_id'])[1]
+        self.assertIn('/cases/' + by_number['53/PUU-XV/2017']['case_id'] + '?', body)
+        self.assertIn('Orangnya harus memenuhi syarat apa?', body)
+        self.assertIn('Amarnya menolak seluruh permohonan.', html)
+        self.assertIn('Ambang presiden tetap dipertahankan.', html)
+        self.assertIn('Ringkasan historis', html)
+
     def test_filters_and_api_remain_available(self):
         status, body = self.request('/cases', 'q=hutan+adat')
         self.assertEqual(status, '200 OK')
@@ -118,9 +160,15 @@ class GuidedStoryTests(unittest.TestCase):
         story = copy.deepcopy(self.stories[0])
         story['title'] = '<script>bad()</script>'
         story['entries'][0]['what'] = '<img src=x onerror=bad()>'
+        story['entries'][0]['debate'] = '<svg onload=bad()>'
+        story['chapters'][0]['title'] = '<script>group()</script>'
+        story['comparison']['rows'][0][0] = '<script>table()</script>'
         html = render_story(story, self.summaries)
         self.assertIn('&lt;script&gt;', html)
         self.assertIn('&lt;img', html)
+        self.assertIn('&lt;svg', html)
+        self.assertIn('&lt;script&gt;group()', html)
+        self.assertIn('&lt;script&gt;table()', html)
         self.assertNotIn('<script>', html)
         html = story_navigation('5/PUU-V/2007', [story], self.summaries)
         self.assertIn('&lt;script&gt;', html)

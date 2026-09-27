@@ -208,7 +208,7 @@ Workflow yang disarankan:
 ## MKRI — Case Explorer
 
 Viewer kini mengutamakan topik dan isi perkara: judul deskriptif, ringkasan bahasa
-Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi pilihan berisi 34
+Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi pilihan berisi 38
 perkara dalam 16 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
 
 - Cari nomor perkara, nama pihak, undang-undang, atau kata dalam teks dokumen.
@@ -228,7 +228,7 @@ di `data/raw_pdfs`; snapshot JSON dan ringkasan ikut repo.
 
 ### Mengikuti cerita putusan
 
-Tiga cerita menghubungkan delapan perkara: **Siapa boleh maju pemilu?**,
+Tiga cerita menghubungkan 13 perkara: **Siapa boleh maju pemilu?**,
 **Apa yang berubah dalam Cipta Kerja?**, dan **Hak dalam keluarga**.
 Pilih kartu cerita di beranda untuk membaca urutan putusan, dampak, dan hubungan
 antarkasus. Setiap bab menautkan halaman perkara serta halaman PDF sumber.
@@ -237,11 +237,17 @@ Perkara dalam cerita menampilkan tautan cerita dan perkara sebelumnya/berikutnya
 Isi disimpan dalam `data/editorial/stories.json`: `slug`, judul/deskripsi,
 pengantar, daftar `entries`, dan penutup. Setiap entri memakai `case_number`,
 `heading`, `what`, `why`, `connection`, dan `source_pages` (nomor halaman PDF,
-dimulai dari 1). Urutkan entri menurut tanggal putusan. Halaman publik tersedia
+dimulai dari 1). Cerita sederhana mengurutkan entri menurut tanggal putusan.
+Cerita pemilu memakai delapan perkara dalam tiga `chapters` (`id`, `title`,
+`intro`); setiap entri menunjuk `chapter` dan memuat `office`, `background`,
+`debate`, `before`, `after`, serta `opinion` bila sudah diverifikasi. Urutan entri
+mengikuti urutan bab, lalu tanggal di dalam bab. Navigasi sebelumnya/berikutnya
+mengikuti urutan baca tersebut. `comparison` memuat `title`, `note`, dan tiga
+kolom `rows` untuk ringkasan jalur. Perdebatan dan sumber dapat dibuka terpisah. Halaman publik tersedia
 pada `/stories/<slug>`; slug yang tidak dikenal menghasilkan 404. Koleksi parsial
 menyembunyikan cerita yang referensi perkaranya belum lengkap.
 
-Penjelasan tambahan enam perkara berada di `data/editorial/insights.json`;
+Penjelasan tambahan perkara berada di `data/editorial/insights.json`;
 `change.pages` dapat memuat beberapa halaman sumber, dengan `change.page`
 sebagai rujukan tunggal untuk catatan lama. Tidak ada perubahan skema API perkara
 atau database. Semua penjelasan bersifat historis dan tidak menambah klaim suara
@@ -313,7 +319,7 @@ Klik **Unduh cadangan** pada halaman Kelola untuk mendapatkan salinan database
 yang konsisten. Untuk restore, hentikan server, simpan salinan database lama,
 letakkan file cadangan sebagai `library.sqlite3` di direktori penyimpanan,
 lalu jalankan server kembali. Backup ini meliputi seluruh unggahan dan koreksi;
-34 snapshot bawaan tetap berasal dari repo.
+38 snapshot bawaan tetap berasal dari repo.
 
 ### Mengaktifkan pemilik di hosting
 

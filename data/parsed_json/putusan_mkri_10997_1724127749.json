@@ -1,0 +1,1123 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_10997_1724127749.pdf",
+    "file_name": "putusan_mkri_10997_1724127749.pdf",
+    "page_count": 53,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_10997_1724127749.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "70/PUU-XXII/2024",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2024-08-20",
+    "decision_date_raw": "dua puluh, bulan Agustus, tahun dua ribu dua puluh empat",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 3
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 70/PUU-XXII/2024",
+      "start_line": 5,
+      "end_line": 5
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam perkara Pengujian Undang-Undang Nomor 10 Tahun \n2016 tentang Perubahan Kedua Atas Undang-Undang Nomor 1 Tahun 2015 tentang \nPenetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 \ntentang Pemilihan Gubernur, Bupati, dan Walikota Menjadi Undang -Undang \nterhadap Undang -Undang Dasar Negara Republik Indonesia Tahun 1945, yang \ndiajukan oleh:",
+      "start_line": 8,
+      "end_line": 14
+    },
+    {
+      "heading": "1. Nama : A. Fahrur Rozi",
+      "slug": "1-nama-a-fahrur-rozi",
+      "text": "Pekerjaan : Mahasiswa Hukum Tata Negara UIN Syarif Hidayatullah \nJakarta \n Alamat : Dusun Gunung Malang RT02/RW14, Desa Poteran, \nKecamatan Talango, Sumenep \n Selanjutnya disebut------------------------------------------------------- Pemohon I;",
+      "start_line": 16,
+      "end_line": 20
+    },
+    {
+      "heading": "2. Nama : Anthony Lee",
+      "slug": "2-nama-anthony-lee",
+      "text": "Pekerjaan : Mahasiswa Podomoro University \n Alamat : Jalan Pluit Raya Nomor 8 Blok B 11, RT/RW. 012/007, \nPenjaringan, Kecamatan Penjaringan, Jakarta Utara; \n Selanjutnya disebut------------------------------------------------------ Pemohon II; \nBerdasarkan Surat Kuasa Khusus bertanggal 10 Juni 2024 memberi kuasa kepada \nAbdul Hakim, S.H.,  M.H., Abdul Hamid, S.H., M.H., Sipghotulloh Mujaddidi, S.H., \nM.H., Muhammad Zainul Arifin, S.H., M.H., Muhammad Abdul Kholiq Suhri, S.H.,            \nM.H., Bionda Anggara , S. E., S.H., M.H., Medioni Anggari, S.H., M .M, dan Moh. \nQusyairi, S.H., M.H., para Adv okat/Konsultan Hukum pada LAW OFFICE FIRMA \nANH, yang beralamat kantor di Jalan Wisma Nugra Santana, Lt. 13, Jalan Jenderal \n\n\n \n \n \n2 \nSudirman Kav. 7-8, Karet Tengsin, Tanah Abang, Jakarta Pusat, baik sendiri-sendiri \nmaupun bersama-sama bertindak untuk dan atas nama pemberi kuasa. \nSelanjutnya Pemohon I dan Pemohon II disebut sebagai -------------- para Pemohon; \n[1.2] Membaca permohonan para Pemohon; \nMendengar keterangan para Pemohon; \nMemeriksa bukti-bukti para Pemohon.",
+      "start_line": 22,
+      "end_line": 43
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 11 Juni 2024 yang diterima di Kepaniteraan Mahkamah Konstitusi pada \ntanggal 11 Juni 2024 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor \n69/PUU/PAN.MK/AP3/06/2024 dan telah dicatat dalam Buku Registrasi Pe rkara \nKonstitusi Elektronik (e -BRPK) dengan Nomor 70/PUU-XXII/2024 pada tanggal 4 \nJuli 2024, yang telah diperbaiki dan diterima di Kepaniteraan Mahkamah pada \ntanggal 25 Juli 2024, yang pada pokoknya menguraikan hal-hal sebagai berikut: \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 45,
+      "end_line": 52
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Undang-Undang Dasar Negara Republik Indonesia",
+      "slug": "1-bahwa-pasal-24-ayat-2-undang-undang-dasar-negara-republik-indonesia",
+      "text": "Tahun 1945 (Selanjutnya disebut UUD NRI 1945) menyatakan: \n\"Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada di bawahnya dalam lingkungan peradilan \numum, lingkungan peradilan agama, lingkungan peradilan militer, \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah \nKonstitusi\";",
+      "start_line": 54,
+      "end_line": 59
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) UUD 1945 menyatakan:",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-uud-1945-menyatakan",
+      "text": "\"Mahkamah Konstitusi berwenang mengadili pada tingkat p ertama dan \nterakhir yang putusannya bersifat final untuk menguji undang -undang \nterhadap Undang -Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang -Undang \nDasar, memutus pembubaran partai politik dan memutus per selisihan \ntentang hasil Pemilihan Umum\";",
+      "start_line": 61,
+      "end_line": 66
+    },
+    {
+      "heading": "3. Bahwa berdasarkan ketentuan Pasal 29 ayat (1) UU No. 48 Tahun 2009",
+      "slug": "3-bahwa-berdasarkan-ketentuan-pasal-29-ayat-1-uu-no-48-tahun-2009",
+      "text": "tentang Kekuasaan Kehakiman (Lem baran Negara Republik Indonesia \nTahun 2009 Nomor 157, Tambahan Lembaran Republik Indonesa Tahun \n5076) yang mengatakan bahwa: \n\n \n \n \n3 \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: \na. menguji undang -undang terhadap Undang -Undang Dasar Negara \nRepublik Indonesia Tahun 1945; \nb. memutus sengketa kewenangan lembaga negara ya ng \nkewenangannya diberikan oleh Undang -Undang Dasar Negara \nRepublik Indonesia Tahun 1945;",
+      "start_line": 68,
+      "end_line": 82
+    },
+    {
+      "heading": "d. memutus perselisihan tentang hasil pemilihan umum; dan",
+      "slug": "d-memutus-perselisihan-tentang-hasil-pemilihan-umum-dan",
+      "text": "e. kewenangan Iain yang diberikan oleh undang-undang\".",
+      "start_line": 85,
+      "end_line": 85
+    },
+    {
+      "heading": "4. Bahwa berdasarkan ketent uan di atas, Mahkamah Konstitusi mempunyai",
+      "slug": "4-bahwa-berdasarkan-ketent-uan-di-atas-mahkamah-konstitusi-mempunyai",
+      "text": "kewenangan un tuk melakukan pengujian undang -undang terhadap UUD \n1945 yang juga didasarkan pada Pasal 10 ayat (1) huruf a Undang-Undang \nNomor 7 Tahun 2020 tentang Perubahan ketiga Atas UU No. 24 Tahun 2003 \ntentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun \n2020, Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor \n6554) (selanjutnya disebut UU 7/2020) yang menyatakan: \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: (a) menguji undang -\nundang (UU) terhadap UUD RI tahun 1945\";",
+      "start_line": 87,
+      "end_line": 95
+    },
+    {
+      "heading": "5. Bahwa demikian pula kewenangan Mahkamah Konstitusi dalam menguji",
+      "slug": "5-bahwa-demikian-pula-kewenangan-mahkamah-konstitusi-dalam-menguji",
+      "text": "undang-undang terhadap UUD juga diatur dalam Pasal 9 Undang-Undang \nNomor 12 T ahun 2011 tentang Pembentukan Peraturan Perundang -\nundangan sebagaimana telah diubah dengan UU No. 13 Tahun 2022 \ntentang Perubahan Kedua atas UU No. 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-undangan, menyatakan: \n\"Dalam hal suatu U ndang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi.\"",
+      "start_line": 97,
+      "end_line": 104
+    },
+    {
+      "heading": "6. Bahwa Kewenangan Mahkamah Konstitusi dalam menguji Undang-Undang",
+      "slug": "6-bahwa-kewenangan-mahkamah-konstitusi-dalam-menguji-undang-undang",
+      "text": "terhadap UUD 1945 juga diatur dalam Pasal 1  angka 3 Peraturan \nMahkamah Konstitusi Nomor 2 Tahun 2021 tentang Tata Beracara dalam \nPerkara Pengujian Undang -Undang (Selanjutnya disebut PMK 2/2021), \nyang menyatakan: \n\"Pengujian Undang -Undang terhadap UUD 1945 yang selanjutnya \ndisebut P UU adalah Perkara konstitusi yang menjadi kewenangan \nMahkamah Konstitusi sebagaimana dimaksud dalam UUD 1945 dan \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undang -Undang Nomor 7 \n\n \n \n \n4 \nTahun 2020 tentang Mahkamah Konstitusi (UU MK), termasuk \npengujian Peraturan Pemerintah Pengganti Undang -Undang (Perppu) \nsebagaimana dimaksud dalam Putusan Mahkamah Konstitusi.\" \nBahwa berdasarkan seluruh uraian diatas, ketentuan norma yang diuji \nadalah materi muatan Pasal da lam undang-undang, oleh karenanya \nMahkamah berwenang menguji Pasal 7 ayat (2) huruf e Undang -Undang \nNomor 10 Tahun 2016 tentang Perubahan Kedua Atas Undang -Undang \nNomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti \nUndang-Undang Nomor 1 Tahun 2014 Tantang Pemilihan Gubernur, Bupati, \ndan Walikota Menjadi Undang-Undang terhadap UUD NRI 1945. \nII. KEDUDUKAN HUKUM  (LEGAL STANDING ) DAN KER UGIAN",
+      "start_line": 106,
+      "end_line": 130
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 51 ayat (1) UU 7/ 2020 mengatur para Pemohon",
+      "slug": "1-bahwa-ketentuan-pasal-51-ayat-1-uu-7-2020-mengatur-para-pemohon",
+      "text": "adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip negara kesatuan RI \nyang diatur dalam undang-undang;",
+      "start_line": 133,
+      "end_line": 138
+    },
+    {
+      "heading": "2. Bahwa terhadap syarat kedudukan para Pemohon juga diatur dalam Pasal",
+      "slug": "2-bahwa-terhadap-syarat-kedudukan-para-pemohon-juga-diatur-dalam-pasal",
+      "text": "4 ayat (1) PMK 2/2021, yang menyatakan: \nPemohon sebagaimana dimaksud dalam Pasal 3 huruf a adalah Pihak \nyang menganggap hak dan/atau kewenangan konstitusionalnya dirugikan \noleh berlakunya undang-undang atau perppu, yaitu: \na. Perorangan warga negara Indonesia atau kelompok orang yang \nmempunyai kepentingan sama; \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan  sesuai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 142,
+      "end_line": 150
+    },
+    {
+      "heading": "d. Lembaga negara.",
+      "slug": "d-lembaga-negara",
+      "text": "5",
+      "start_line": 153,
+      "end_line": 157
+    },
+    {
+      "heading": "3. Bahwa untuk mengukur apakah para Pemohon memiliki Kedudukan",
+      "slug": "3-bahwa-untuk-mengukur-apakah-para-pemohon-memiliki-kedudukan",
+      "text": "Hukum sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat (1) \nhuruf a UU 7/2020 dan Pasal 4 ayat (1) huruf a PMK 2/2021, yakni \nPemohon adalah Perorangan Warga Negara Indonesia, maka perlu \ndijelaskan bahwa para Pemohon adalah Warga Negara Indonesia yang \ndibuktikan dengan Kepemilikan Ka rtu Tanda Penduduk (Bukti P.3). Oleh \nkarenanya para Pemohon memenuhi syarat untuk menjadi Pemohon \ndalam pengujian UU 10/2016 terhadap UUD 1945.",
+      "start_line": 159,
+      "end_line": 165
+    },
+    {
+      "heading": "4. Bahwa selanjutnya terhadap kedudukan hukum para Pemohon yang",
+      "slug": "4-bahwa-selanjutnya-terhadap-kedudukan-hukum-para-pemohon-yang",
+      "text": "menganggap hak dan/atau kewenangan Konstitusionalnya dirugikan oleh \nberlakunya undang-undang, menurut Pasal 4 ayat (2) PMK 2/ 2021 yang \nmengacu pada Putusan MK No. 006/PUU -III/2005 dan No. 011/PUU -\nV/2007, apabila: \na. Ada hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD 1945. \nb. Hak dan/atau kewenangan konstitusional Pemohon dirugikan oleh \nberlakunya undang-undang atau Perppu yang dimohonkan pengujian;",
+      "start_line": 167,
+      "end_line": 174
+    },
+    {
+      "heading": "c. Kerugian konstitusional dimaksud bersifat spesifik (khusus) dan aktual",
+      "slug": "c-kerugian-konstitusional-dimaksud-bersifat-spesifik-khusus-dan-aktual",
+      "text": "atau setidak-tidaknya potensial yang menurut penal aran yang wajar \ndapat dipastikan akan terjadi;",
+      "start_line": 176,
+      "end_line": 177
+    },
+    {
+      "heading": "d. Ada hubungan sebab -akibat antara kerugian konstitusional dan",
+      "slug": "d-ada-hubungan-sebab-akibat-antara-kerugian-konstitusional-dan",
+      "text": "berlakunya undang-undang atau Perppu yang dimohonkan pengujian; \ndan \ne. Adanya kemungkinan bahwa dengan dikabulkannya Permohonan, \nkerugian konstitusiona l seperti yang didalilkan tidak lagi atau tidak \nakan terjadi.",
+      "start_line": 179,
+      "end_line": 183
+    },
+    {
+      "heading": "5. Bahwa untuk mengukur apakah para Pemohon memiliki kedudukan",
+      "slug": "5-bahwa-untuk-mengukur-apakah-para-pemohon-memiliki-kedudukan",
+      "text": "Hukum (legal standing) sebagai Pemohon sebagaimana dimaksud dalam \nPasal 4 ayat (2) huruf a PMK 2/2021, yakni adanya hak konstitusional  \nPemohon yang diberikan oleh UU D 1945, maka perlu dijelaskan sebagai \nberikut: \nHak Konstitusional dalam U UD 1945 yang menjadi dasar para Pemohon \nantara lain: \n\n \n \n \n6 \nPasal 1 ayat (3), menyatakan: \n\"Negara Indonesia adalah negara hukum\" \nPasal 18 ayat (4), menyatakan: \n\"Gubernur, Bupati, dan Walikota masing -masing sebagai kepala \npemerintahan daerah provinsi, kabupaten, dan kota dipilih secara \ndemokratis” \nPasal 28D ayat (1), menyatakan: \n\"Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perlakuan yang sama di  hadapan \nhukum\" \nOleh karenanya itu, para Pemohon telah memenuhi syarat sebagaimana \nyang ditentukan dalam Pasal 4 ayat (2) huruf a PMK 2/2021, karena \nmemiliki hak konstitusional yang dijamin dalam UUD NRI 1945.",
+      "start_line": 185,
+      "end_line": 208
+    },
+    {
+      "heading": "6. Bahwa untuk m engukur apakah para Pem ohon memiliki kedudukan",
+      "slug": "6-bahwa-untuk-m-engukur-apakah-para-pem-ohon-memiliki-kedudukan",
+      "text": "hukum (legal standing) sebagai Pemohon sebagaimana dimaksud dalam \nPasal 4 ayat (2) huruf b dan huruf c PMK 2/2021, yakni adanya kerugian \nkonstitusional bersifat spesifik (khusus) dan aktual, atau setidak -tidaknya \nmenurut penalaran yang wajar dapat dipastikan akan terjadi, maka perlu \ndijelaskan sebagai berikut: \nSebagai mahasiswa dan warga negara yang aktif mengadvokasikan isu \npolitik dan hukum yang berkembang berhak atas jaminan kepastian hukum \nyang adil. \n6.1 Bahwa para Pemohon merupakan mahasiswa aktif yang dibuktikan \ndengan kepunyaan kartu tanda mahasiswa (KTM) (Bukti P.4), \nPemohon I merupakan mahasiswa Hukum Tata Negara UIN Syarif \nHidayatullah Jakarta dan Pemohon Il adalah mahasiswa Podomoro \nUniversity. \n6.2 Bahwa sebagai mahasiswa, Pemohon I tergabung menjadi pengurus \naktif dalam sejumlah organisasi kemahasiswaan tingkat nasional, di \nantaranya Asosiasi Mahasiswa Hukum Tata Negara se -lndonesia \n(AMHTN-SI) dan Dema Fakultas Syariah Se -lndonesia (Demfasna) \nyang berfokus pada isu-isu ketatanegaraan dan belakangan ini aktif \nmelakukan diskusi dan advokasi terhadap keputusan dan  kebijakan \npemerintah, salah satu di antaranya menyangkut tentang agenda \n\n \n \n \n7 \nRevisi UU MK yang sarat dengan kepentingan politik: \nhttps://news.detik.com/berita/d7071016/asosiasi-mahasiswa-hukum-\ntata-negara-revisi-uu-mk-sangat-politis \n6.3 Bahwa sebagai mahasiswa hukum, Pemohon I juga aktif menulis di \nsejumlah media nasional baik cetak maupun online dalam merespon \nisu-isu politik hukum ketatanegaraan yang kontroversial dan menjadi \nperbincangan publik: \"Jerat Kuasa Politik Legislasi\" (detikNews, 3 \nJuni 2024); https://news.detik.com/kolom/d7371458/ierat-kuasa-\npolitik-legislasi \n6.4 Bahwa terhadap isu konstitusionalitas yang menjadi isu hukum dalam \npermohonan a quo , Pemohon I telah melakukan advokasi dal am \nbentuk \"suara mahasiswa\" di D etik News pada Jumat (31/05/2024). \nBaca artikel detiknews, \"Putusan MA soal Syarat Usia Calon di \nPilkada Dinilai Problematik\" selengkapnya \nhttps://news.detik.com/berita/d-7367373/putusan-ma-soal-syarat \nusia-calon-di-pilkada-dinilai-problematik (Bukti P.5). \n6.5 Bahwa dalam aktivitasnya sebagai mahasiswa tersebut, Pemohon I \nterbukti memiliki peminatan yang tinggi terhadap isu \nkonstitusionalitas dari suatu norma positif dalam peraturan \nperundang-undangan, keputusan, serta kebijakan lembaga negara. \nTidak cukup di sana, fakta kepunyaan pe minatan yang tinggi \nterhadap isu konstitusionalitas Pemohon I juga diekspresikan dalam \nlaku advokasi untuk memperjuangkan hak -hak konstitusionalitas \nsebagai warga negara yang keberadaannya diatur dalam konstitusi. \n6.6 Bahwa dalam kapasitasnya sebagai mahasiswa hukum dan \nperseorangan warga negara, para Pemohon berhak atas hukum yang \nberkepastian dan berkeadilan sebagaimana diatur dalam Pasal 28D \nayat (1) UUD NRI 1945. Para Pe mohon memiliki tanggungjawab \nmoral atas pengetahuan akademik yang telah melemba ga dalam \nsistem berfikir para Pemohon yang ditempa dalam dunia pendidikan",
+      "start_line": 210,
+      "end_line": 264
+    },
+    {
+      "heading": "di kampus. Dengan demikia n, para Pe mohon berkewajiban untuk",
+      "slug": "di-kampus-dengan-demikia-n-para-pe-mohon-berkewajiban-untuk",
+      "text": "memastikan semua bentuk aturan, hukum, dan norma yang berlaku \n\n \n \n \n8",
+      "start_line": 266,
+      "end_line": 271
+    },
+    {
+      "heading": "di Indonesia dan mengikat se mua warga negara, tidak menyimpang",
+      "slug": "di-indonesia-dan-mengikat-se-mua-warga-negara-tidak-menyimpang",
+      "text": "dari prinsip-prinsip keadilan dan kepastian hukum. \n6.7 Bahwa dalam hubungannya dengan pa sal a quo  yang diujikan \n(causal verband), sebagai perseorangan warga negara para \nPemohon terhalang untuk mendapatkan kepastian hukum yang adil. \nPasalnya, ketentuan norma dalam pasal a quo  tidak memberikan \nkepastian hukum terkait norma \"mekanisme penghitungan syarat \nminimal usia calon kepala daerah\". \n6.8 Bahwa ketentuan norma a quo hanya memuat frasa \"berusia paling \nrendah\" untuk menentukan angka umur dari seorang warga negara \nbisa mencalonkan diri sebagai kepala daerah. Akan tetapi, ketentuan \nnorma tersebut sama sekali tidak memberikan pengaturan dan \npenjelasan lebih lanjut terkait \"mekanisme penghitungan\" sejak \nkapan syarat umur tersebut dapat dihitung. \n6.9 Bahwa secara faktual, akibat dari ketiad aan norma \"mekanisme \npenghitungan\" yang diatur dalam pasal a quo , Para Pe mohon \ndihadapkan pada dua tafsir yang bersimpangan. Pertama, tafsir \ndengan mekanisme penghitungan \"sejak penetapan pasangan calon\" \nsebagaimana diatur dalam Pasal 4 ayat (1) huruf d PK PU 9/2020. \nKedua, tafsir dengan mekanisme penghitungan \"sejak pelantikan \npasangan calon terpilih\" sebagaimana tertuang dalam Putusan \nMahkamah Agung Nomor 23 P/HUM/2024 yang dibacakan terbuka \nuntuk umum pada Rabu, 29 Mei 2024. \n6.10 Bahwa secara faktual, kerugian  para Pemohon untuk mendapatkan \njaminan kepastian hukum menjadi jelas akibat munculnya tafsir yang \nbersimpangan terhadap pasal a quo  terkait \"mekanisme \npenghitungan\" yang terjadi ketika tahapan pencalonan atau proses \npelaksanaan Pilkada 2024 berlangsung. D engan demikian, para \nPemohon jelas dirugikan hak konstitusionalitasnya untuk \nmendapatkan jaminan kepastian hukum, in casu syarat minimal usia \ncalon kepala daerah yang diakibatkan ketiadaan norma \"mekanisme \npenghitungan\" dari Pasal a quo yang diujikan. \n\n \n \n \n9 \nSebagai Warga Negara yang Sudah Memiliki Hak Pilih dalam Pilkada 2024 \nBerhak Atas Penyelenggaraan Pilkada yang Demokratis dan Berkepastian \nHukum \n6.11 Bahwa hak memilih dan dipilih merupakan bagian dari hak \nkonstitusional sebagaimana ditegaskan dalam putusan MK Nomor \n011-17/PUU-l/2003, hak konstitusional warga negara yakni memiliki \nhak untuk memilih dan dipilih (right to vote and right to be candidate) \nmerupakan hak yang dijamin konstitusi, undang -undang, dan \nkonvensi internasional. \n6.12 Bahwa para Pemohon merupakan warga negara yang memiliki hak \npilih dalam Pilkada 2024 (Bukti P.6), sehingga berhak atas jaminan \npenyeleggaraan Pilkada yang demokratis sebagaimana diatur dalam \nPasal 18 ayat (4) UUD NRI 1945. Jaminan penye lenggaran Pilkada \nyang demokratis tidak hanya terbatas pada jaminan ketika seorang \nwarga negara memilih pasangan calon dalam bilik suara. Jaminan \ntersebut juga harus dipastikan sejak proses pelaksanaan Pilkada \nberlangsung. \n6.13 Bahwa salah satu karakter pe milu atau pilkada yang demokratis \nadalah memiliki prosedur dan kepastian hukum dalam \npelaksanaannya, serta memiliki regulasi yang jelas, tidak multitafsir, \ntidak saling ber tentangan dan tumpang tindih. Hal ini diakui secara \nuniversal sebagaimana tidak dapat dipisahkannya prinsip negara \ndemokrasi dan prinsip negara hukum yang dicirikan dengan adanya \nkepastian hukum yang berkeadilan. \n6.14 Bahwa secara faktual dalam hubungannya dengan pasal a quo yang \ndiujikan ( causal verband), para Pemohon berhalangan untuk \nmendapatkan adanya penyelenggaraan Pilkada yang demokratis dan \nberkepastian hukum, pasalnya, ketentuan norma dalam pasal a quo \nyang tidak memuat norma terkait \"mekanisme penghitungan\" syarat \nminimal usia calon kepala daerah telah menyebabkan proses \npencalonan menjadi tidak berkepastian dan berlanjut  pada proses \nyang tidak demokratis. \n\n\n \n \n \n10 \n6.15 Bahwa secara faktual penyelenggaraan Pilkada yang tidak \ndemokratis dan tidak berkepastian hukum terjadi akibat perubahan \ntafsir Pasal 7 ayat (2) e Undang-Undang Nomor 10 Tahun 2016 yang \ndiberlakukan pada saat proses pencalonan kepala daerah sedang \nberlangsung. Sebagai imbas dari Putusan Mahkamah Agung Nomor \n23 P/HUM/2024, sehingga kemudian KPU mengubah mekanisme \npenghitungan terhadap syarat minimal usia kepala daerah, dari yang \nawalnya \"terhitung sejak penetapan pasan gan calon\" (Pasal 4 ayat \n(1) huruf d PKPU 9/2020) menjadi \"terhitung sejak pelantikan \npasangan calon terpilih\" (vide Pasal 15 PKPU 8/2024). \n6.16 Bahwa perubahan ketentuan mekanisme penghitungan tersebut \nterjadi ketika tahapan penyerahan dokumen syarat dukungan \npasangan calon perseorangan kepada KPU Provinsi dan KPU \nKabupaten/Kota (8 Mei s/d 12 Mei 2024) serta verifikasi administrasi \ndokumen syarat dukungan calon perseorangan oleh KPU Provinsi \ndan KPU Kabupaten/Kota (13 Mei s/d 2 Juni 2024) sudah selesai \ndilakukan (vide Lampiran I PKPU 8/2024). \n6.17 Bahwa dengan demikian menjadi jelas terdapat perbedaan ketentuan \nnorma terkait \"mekanisme penghitungan\" syarat minimal usia calon \nkepala daerah yang diterapkan terhadap calon perseorangan dengan \ncalon dari partai politik pa da tahapan pendaftaran calon yang masih \nakan berlangsung pada 27 Agustus s/d 29 Agustus 2024 mendatang \n(vide Lampiran I PKPU 8/2024). \n6.18 Bahwa perbedaan penerapan ketentuan norma Pasa l 7 Ayat (2) e \nUndang-Undang Nomor 10 Tahun 2016 tersebut telah dengan jelas  \nmengakibatkan proses penyelenggaraan Pilkada 2024 menjadi tidak \ndemokratis. Dengan demikian, hak konstitusionalitas para Pemohon \nuntuk mendapat penyelenggaraan Pilkada yang demokratis dan \nberkepastian hukum sebagaimana dijamin dalam Pasal 18 ayat (4) \ndan Pasal 28D ayat (1) UUD NRI 1945 jelas dilanggar secara faktual \nsebab norma da lam pasa l a quo  yang diujikan tidak mengatur \n“mekanisme penghitungan” secara jelas terhadap syarat minimal usia \n\n \n \n \n11 \nkepala daerah mengakibatkan penerapan norma yang berbeda \nterhadap para calon kontestan.",
+      "start_line": 273,
+      "end_line": 385
+    },
+    {
+      "heading": "7. Bahwa para Pemohon dalam hal ini jelas dirugikan secara konstitusional",
+      "slug": "7-bahwa-para-pemohon-dalam-hal-ini-jelas-dirugikan-secara-konstitusional",
+      "text": "dengan berlakunya ketentuan dalam pasal a quo  karena menimbulkan \nketidakpastian hukum yang tidak sesuai dengan dengan prinsip negara \nhukum sebagaimana diatur dalam Pasal 1 ayat (3), penyelenggaraan \nPilkada yang tidak demokratis sebagaimana diatur dalam Pasal 18 ayat \n(4), serta tidak adanya pengakuan dan kepastian hukum y ang adil dalam \nPasal 28D ayat (1) UUD 1945 NRI 1945. \nBahwa Berdasarkan dalil -dalil dan dan dasar h ukum yang telah diuraikan di \natas, maka para Pemohon memiliki kedudukan hukum ( legal standing) untuk \nmengajukan permohonan uji mater i Pasal 7 ayat (2) huruf e Undang -Undang \nNomor 10 Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang Nomor \n1 Tahun 2015 tentang Penetapan Peraturan Pe merintah Pengganti Undang -\nUndang Nomor 1 Tahun 2014 tentang Pemilihan  Gubernur, Bupati, dan \nWalikota Menjadi U ndang-Undang terhadap Undang -Undang Dasar  Negara \nRepublik Indonesia Tahun 1945, karena telah memenuhi ketentuan dalam \nPasal 51 ayat (1) UU 7/2020 beserta penjelasannya dan syarat kerugian hak \nkonstitusional sebagaimana tertuang dalam Pasal 4 ayat (1) dan ayat (2) PMK \n2/2021. \nIII. ALASAN-ALASAN PERMOHONAN \nA. Ruang Lingkup Pasal yang Diuji",
+      "start_line": 387,
+      "end_line": 405
+    },
+    {
+      "heading": "1. Bahwa Pemohon dalam pengujian ini mengajukan permohonan tentang",
+      "slug": "1-bahwa-pemohon-dalam-pengujian-ini-mengajukan-permohonan-tentang",
+      "text": "konstitusionalitas Pasal 7 ayat (2) huruf e Undang -Undang Nomor 10 \nTahun 2016 Tentang Perubahan Kedua Atas Undang-Undang Nomor 1 \nTahun 2015 Tentang Penetapan Peraturan Pemerintah Pengganti \nUndang-Undang Nomor 1 Tahun 2014 Tentang Pemilihan Gubernur, \nBupati, dan Walikota Menjadi Undang -Undang yang memuat tentang \nmekanisme pencalonan dan syarat batas usia paling rendah 30 (tiga \npuluh) tahun untuk calon Gubernur dan Calon Wakil Gubernur serta 25 \n(dua puluh lima) untuk Calon Bupati dan Calon Wakil Bupati, serta Calon \nWalikota dan Calon Wakil Walikota. \n\n \n \n \n12",
+      "start_line": 407,
+      "end_line": 420
+    },
+    {
+      "heading": "2. Bahwa untuk lebih jelasnya, Pemohon kutip isi ketentuan Pasal 7 ayat",
+      "slug": "2-bahwa-untuk-lebih-jelasnya-pemohon-kutip-isi-ketentuan-pasal-7-ayat",
+      "text": "(2) Undang-Undang Nomor 10 Tahun 2016, sebagaimana berikut: \n(2) Calon Gubernur d an Calon Wakil Gubernur, Calon Bupati dan \nCalon Wakil  Bupati, se rta Calon Walikota dan Calon Waki/ \nWalikota sebagaimana dimaksud pada ayat (1) harus memenuhi \npersyaratan sebagai berikut:  \na. bertakwa kepada Tuhan Yang Maha Esa; \nb. setia kepada Pancasila, Undang -Undang Dasar Negara \nRepublik Indonesia  Tahun 1945, cita -cita Proklamasi \nKemerdekaan 17 Agustus 1945, dan Negara  Kesatuan \nRepublik Indonesia;",
+      "start_line": 422,
+      "end_line": 431
+    },
+    {
+      "heading": "c. berpendidikan paling rendah sekolah lanjutan tingkat atas",
+      "slug": "c-berpendidikan-paling-rendah-sekolah-lanjutan-tingkat-atas",
+      "text": "atau sederajat;",
+      "start_line": 433,
+      "end_line": 433
+    },
+    {
+      "heading": "d. dihapus;",
+      "slug": "d-dihapus",
+      "text": "e. berusia paling rendah 30 (tiga  puluh) tahun untuk calon \nGubernur dan  Calon Wakil Gubernur, serta 25 (dua puluh \nlima) untuk Calon Bupati dan Calon Wakil Bupati, serta Calon \nWalikota dan Calon Wakil Walikota; \nB. Dasar Pengujian UUD NRI 1945 \na) Pasal 1 ayat (3), menyatakan: \n\"Negara Indonesia adalah negara hukum” \nb) Pasal 18 ayat (4), menyatakan: \n\"Gubernur, Bupati, dan Walikota masing -masing sebagai kepala \npemerintahan daerah provinsi, kabupaten, dan kota dipilih secara \ndemokratis” \nc) Pasal 28D ayat (1), menyatakan: \n\"Setiap orang berhak atas pengakua n, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perlakuan yang sama dihadapan \nhukum” \nC. Alasan Permohonan Provisi \nSelanjutnya, sebelum masuk kepada bagian Alasan Pokok Permohonan, \nperkenankanlah para Pemohon meminta kebijaksanaan Yang Mulia Majelis \nHakim Konstitusi untuk dapat memberikan Putusan Sela (provisi) dengan \nalasan sebagai berikut:",
+      "start_line": 435,
+      "end_line": 454
+    },
+    {
+      "heading": "1. Bahwa Pasal 69 PMK 2/2021, menyatakan: \"Putusan Mahkamah dapat",
+      "slug": "1-bahwa-pasal-69-pmk-2-2021-menyatakan-putusan-mahkamah-dapat",
+      "text": "berupa Putusan, Putusan Sela, atau Ketetapan.”",
+      "start_line": 456,
+      "end_line": 456
+    },
+    {
+      "heading": "2. Bahwa Putusan Sela pertama kali ditetapkan oleh Mahkamah dalam",
+      "slug": "2-bahwa-putusan-sela-pertama-kali-ditetapkan-oleh-mahkamah-dalam",
+      "text": "Putusan Mahkamah Konstitusi Nomor 133/PUU -Vll/2009 yang \ndiucapkan pada tanggal 29 Oktober 2009. Alasan Mahkamah \n\n \n \n \n13 \nmemberikan Putus an Sela termuat dalam Paragraf [ 3.12] sampai \ndengan Paragraf [3.13], halaman 29-31, sebagai berikut: \n[3.12] Bahwa Mahkamah secara terus menerus mengikuti \nperkembangan kesadaran hukum dan rasa keadilan yang tumbuh",
+      "start_line": 458,
+      "end_line": 468
+    },
+    {
+      "heading": "di masyarakat yang menjadi dasar agar Mahkamah tidak berdiam",
+      "slug": "di-masyarakat-yang-menjadi-dasar-agar-mahkamah-tidak-berdiam",
+      "text": "diri atau membiarkan terjadinya pelanggaran hak konstitusional \nwarga negara. Oleh karenan ya, meskipun dalam UU MK tidak \ndikenal putusan provisi dalam perkara pengujian undang -undang, \nseiring dengan perkembangan kesadaran hukum, kebutuhan \npraktik dan tuntutan rasa keadilan masyarakat serta dalam rangka \nmemberikan perlindungan dan kepastian huku m yang adil, \nMahkamah memandang perlu menjatuhkan putusan provisi dalam \nperkara a quo  dengan mendasarkan pada aspek keadilan, \nkeseimbangan, kehatihatian, kejelasan tujuan, dan penafsiran yang \ndianut dan telah berlaku tentang kewenangan Mahkamah dalam \nmenetapkan putusan sela. \n[3.13] Menimbang bahwa dalam perkara a quo, terlepas apakah \npasal yang dimohonkan pengujian nantinya akan dinyatakan \nbertentangan atau tidak dengan UIJD 1945, Mahkamah \nmemandang terdapat cukup potensi terjadinya pelanggaran atas \nkepastian hukum yang adil, perlakuan yang sama di hadapan \nhukum [vide Pasal 27 ayat (1) dan Pasal 28D ayat (1) UUD 1945], \ndan kebebasan dari ancaman dari rasa takut untuk berbuat atau \ntidak berbuat sesuatu yang merupakan hak asasi [vide Pasal 28G \nayat (1)], sehingga Mahkamah harus memainkan peran yang besar \ndalam mempertegas dan memberikan rasa keadilan dalam perkara \na quo  melalui putusan provisi yang selengkapnya akan dimuat \ndalam amar putusan ini.",
+      "start_line": 470,
+      "end_line": 492
+    },
+    {
+      "heading": "3. Bahwa Putusan Sela kedua yang ditetapkan oleh Mahkamah Konstitusi",
+      "slug": "3-bahwa-putusan-sela-kedua-yang-ditetapkan-oleh-mahkamah-konstitusi",
+      "text": "yakni dalam Putusan Nomor 70 -PS/PUU-XX/2022 pada tanggal             \n11 Oktober 2022.",
+      "start_line": 494,
+      "end_line": 495
+    },
+    {
+      "heading": "4. Bahwa Pasal 7 ayat (2) huruf e UU 10/2016 telah diterjemahkan",
+      "slug": "4-bahwa-pasal-7-ayat-2-huruf-e-uu-10-2016-telah-diterjemahkan",
+      "text": "dengan penafsiran yang baru. Pasal a quo  telah mengalami \npergeseran tafsir yang mulanya \"terhitung sejak penetepan pasangan \ncalon\" sebagaiman a termuat pada Pasal 4 ayat (1) huruf d PKPU \n9/2020 menjadi \"terhitung sejak pelantikan pasangan calon terpil ih\" \nmelalui putusan MA Nomor 23 P/HUM/2024.",
+      "start_line": 497,
+      "end_line": 501
+    },
+    {
+      "heading": "5. Bahwa untuk melaksanakan Putusan MA Nomor 23 P/HUM/2024, KPU",
+      "slug": "5-bahwa-untuk-melaksanakan-putusan-ma-nomor-23-p-hum-2024-kpu",
+      "text": "telah menerbitkan Peraturan KPU No. 8 Tahun 2024 (PKPU 8/2023) \nuntuk mengakomodir calon kepal a daerah yang belum berusia genap \n30 tahun (Calon Gubernur dan Wakil  Gubernur) dan 25 tahun (Calon \n\n \n \n \n14 \nBupati dan Wakil Bupati serta Calon Walikota dan Wakil Walikota) pada \nsaat penetapan pasangan calon, tetapi genap usianya saat penetapan \npasangan calon terpilih.",
+      "start_line": 503,
+      "end_line": 513
+    },
+    {
+      "heading": "6. Bahwa padahal, ketentuan norma yang memuat pemaknaan baru",
+      "slug": "6-bahwa-padahal-ketentuan-norma-yang-memuat-pemaknaan-baru",
+      "text": "tersebut mengakibatkan penyelenggaraan Pilkada tidak demokratis. \nPasalnya, perubahan tersebut dilakukan ketika tahapan penyerahan \ndokumen syarat dukungan pasangan calon perseorangan (8 Mei s/d 12 \nMei 2024) serta verifikasi administrasi dokumen syarat dukungan calon \nperseorangan (13 Mei s/d 2 Juni 2024) sudah berlangsung (vide \nLampiran I PKPU 8/2024).",
+      "start_line": 515,
+      "end_line": 520
+    },
+    {
+      "heading": "7. Bahwa ketentuan pemaknaan baru tersebut akan diterapkan pada",
+      "slug": "7-bahwa-ketentuan-pemaknaan-baru-tersebut-akan-diterapkan-pada",
+      "text": "Pilkada 2024 di mana proses tahapan  demi tahapan sudah \nberlangsung, dalam batas penalaran yang wajar dapat dipastikan calon \nperseorangan tidak dapat merasakan adanya perubahan mekanisme \npenghitungan syarat minimal usia \"terhitung sejak pelantikan pasangan \ncalon terpilih\" (Bukti P.7).",
+      "start_line": 522,
+      "end_line": 526
+    },
+    {
+      "heading": "8. Bahwa dengan demikian menjadi jelas bahwa ketentuan norma a quo",
+      "slug": "8-bahwa-dengan-demikian-menjadi-jelas-bahwa-ketentuan-norma-a-quo",
+      "text": "mengandung ketidakpastian hukum bagi perseorangan warga negara \nyang telah memiliki hak pilih. Kerugian atas ketidakpastian hukum \nmenjadi jelas karena terdapat perubahan terhadap mekanisme \npenghitungan syarat minimal usia kepala daerah justru pada saat \ntahapan penyelenggaraan Pilkada berlangsung.",
+      "start_line": 528,
+      "end_line": 532
+    },
+    {
+      "heading": "9. Bahwa berdasarkan timeline penyelenggaraan Pilkada 2024",
+      "slug": "9-bahwa-berdasarkan-timeline-penyelenggaraan-pilkada-2024",
+      "text": "sebagaimana tertuang dalam PKPU 2/2024, pendaftaran pasangan \ncalon kepala daerah (sebagai tahapan dar i penerapan pemaknaan \nbaru tersebut) dipastikan akan dilaksanakan pada 27 Agustus s/d 29 \nAgustus 2024.",
+      "start_line": 534,
+      "end_line": 537
+    },
+    {
+      "heading": "10. Bahwa mengingat pentingnya Permohonan a quo untuk memastikan",
+      "slug": "10-bahwa-mengingat-pentingnya-permohonan-a-quo-untuk-memastikan",
+      "text": "pemaknaan atau tafsir mekanisme penghitungan dari Pasal 7 ayat (2) \nhuruf e UU 10/2016 berkep astian secara hukum dan tetap menjaga \npenyelenggaraan Pilkada yang demokratis, serta semakin dekatnya \npelaksanaan pendaftaran calon, penting bagi Mahkamah untuk \nmenjadikan Permohonan a quo  sebagai perkara prioritas dalam \n\n \n \n \n15 \npemeriksaannya sehingga Mahkamah da pat menjatuhkan putusan \nsebelum pelaksanaan pendaftaran calon kepala daerah, yaitu sebelum \ntanggal 27 Agustus 2024. \nHak Ingkar",
+      "start_line": 539,
+      "end_line": 552
+    },
+    {
+      "heading": "11. Bahwa berdasarkan Pasal 17 ayat (1) dan ayat (2) UU 48/2009, para",
+      "slug": "11-bahwa-berdasarkan-pasal-17-ayat-1-dan-ayat-2-uu-48-2009-para",
+      "text": "Pemohon diberikan hak ingkar terhadap hakim yang mengadili \nperkaranya. Untuk lebih jelasnya, norma hukum Pasal 17 ayat (1), ayat \n(2), ayat (3) ayat (4), dan ayat (5) Undang -Undang Nomor 48 Tahun \n2009 adalah sebagai berikut: \n(1) Pihak yang diadil i mempunyai hak ingkar terhadap hakim yang \nmengadili perkaranya. \n(2) Hak ingka r sebagaimana dimaksud pada ayat (1) ada lah hak \nseseorang yang diadili untuk mengajukan keberatan yang disertai \ndengan alasan terhadap seorang hakim yang mengadi li \nperkaranya. \n(3) Seorang hakim wajib mengundurkan diri dari persidangan apabila \nterikat hubungan keluarga sedarah atau semenda sampai derajat \nketiga, atau hubungan suami atau istri meskipun telah bercerai, \ndengan ketua, salah seorang hakim anggota, jaksa, advokat, atau \npanitera. \n(4) Ketua majelis, hakim anggota, jaksa, atau panitera wajib \nmengundurkan dir i dari persidangan apabila terikat hubungan \nkeluarga sedarah atau semenda sampai derajat ketiga, atau \nhubungan suami atau istri meskipun te lah bercerai dengan pihak \nyang diadili atau advokat. \n(5) Seorang hakim atau panitera wajib mengundurkan diri dari \npersidangan apabila ia mempunyai kepentingan langsung atau \ntidak langsung dengan perkara yang sedang diperiksa, baik atas \nkehendaknya sendiri maupun atas permintaan pihak yang \nberperkara.",
+      "start_line": 554,
+      "end_line": 578
+    },
+    {
+      "heading": "12. Bahwa Majelis Kehormatan Mahkamah Konstitusi (MKMK) dalam",
+      "slug": "12-bahwa-majelis-kehormatan-mahkamah-konstitusi-mkmk-dalam",
+      "text": "Putusan MKMK  02/MKMK/L/11/2023, menjelaskan bahwa ketentuan \nketentuan Pasal 17 ayat (1), ayat  (2), ayat (3), ayat (4), dan ayat (5), \n\n \n \n \n16 \npada prinsipnya harus dimaknai berlaku bagi Hakim Konstitusi dalam \nmemeriksa, mengadili, dan memutus perkara konstitusi yang menjadi \nkewenangan Mahkamah Konstitusi.",
+      "start_line": 580,
+      "end_line": 589
+    },
+    {
+      "heading": "13. Bahwa MKMK dalam Putusan MKMK 02/MKMK/L/11/2023",
+      "slug": "13-bahwa-mkmk-dalam-putusan-mkmk-02-mkmk-l-11-2023",
+      "text": "menjelaskan bahwa sepanjang perkara tersebut secara jelas \nmenyiratkan potensi kepentingan diri Hakim Konstitusi dan/atau \nkepentingan anggota keluarganya, sudah seharusnya Hakim Konstitusi \nmengundurkan diri dari proses pemeriksaan dan pengambilan \nkeputusan suatu perkara konstitusi. Lebih lanjut MKMK menjelaskan \nsebagai berikut: \n\"Bahwa dalam perkara konstitusi, in casu  perkara pengujian \nundang-undang, obyek pengujiannya ialah norma undang-undang, \nbukan perkara konkret. Namun sudah seharusnya, Hakim \nKonstitusi sebagai negarawan memiliki sense of ethics , perasaan \netis yang muncul dari dalam kesadaran nurani dan sanubari \nmasing-masing Hakim Konstitusi, untuk berinisitiatif mengambil \nsikap mengundurkan diri dari pemeriksaan dan pengambilan \nkeputusan terhadap suatu perkara manakala dirinya sebagai Hakim \nKonstitusi tidak akan dapat bersikap obyektif dan adil oleh karena \nperkara tersebut berhubungan atau setidak -tidaknya memiliki \nkepentingan la ngsung personal dirinya dan/atau anggota \nkeluarganya, termasuk untuk mencegah anggapan umum tentang \nkeberpihakan hakim yang semestinya sudah dapat diperkirakan \nsebelumnya. Sikap demikian semestinya diambil tanpa harus selalu \ndidahului adanya permintaan dar i pihak -pihak Iain di luar dirinya, \ntermasuk pihak-pihak yang beperkara, atau publik pada umumnya. \nTidak pula seharusnya Hakim Konstitusi menggunakan atau \nmengemukakan alasan yang pada pokoknya  berdalih bahwa \nMahkamah Konstitusi mengadili norma abstrak dan /atau dengan \ndalih pihak -pihak yang beperkara bukan merupakan anggota \nkeluarganya sebagaimana dimaksud dalam Pasal 17 UU 48/2009. \nDengan kata lain, sepanjang perkara tersebut secara jelas \nmenyiratkan potensi kepentingan diri Hakim Konstitusi dan/atau \nkepentingan anggota keluarganya, sudah seharusnya Hakim \nKonstitusi mengundurkan diri dari proses pemeriksaan dan \npengambilan keputusan suatu perkara konstitusi.”",
+      "start_line": 591,
+      "end_line": 622
+    },
+    {
+      "heading": "14. Bahwa dalam kaitannya dengan permohonan a quo , para Pemohon",
+      "slug": "14-bahwa-dalam-kaitannya-dengan-permohonan-a-quo-para-pemohon",
+      "text": "melihat bahwa terdapat satu fakta yang tidak dapat dielakkan yaitu, \nPasal 7 ayat (2) huruf e Undang-Undang Nomor 10 Tahun 2016 dengan \npenafsiran \"terhitung sejak pelantikan pasangan calon terpilih\", terkait \nlangsung atau tidak langsung dengan kepentingan, keinginan dan \ntujuan dari pihak tertentu (Sdr. Kaesang Pangarep) untuk mencalonkan \n\n \n \n \n17 \ndiri sebagai Calon Gubernur atau Wakil Gubernur pada Pilkada \nSerentak tahun 2024 mendatang.",
+      "start_line": 624,
+      "end_line": 635
+    },
+    {
+      "heading": "15. Bahwa Sdr. Kaesang Pangarep yang lahir pada 25 Desember 1994",
+      "slug": "15-bahwa-sdr-kaesang-pangarep-yang-lahir-pada-25-desember-1994",
+      "text": "atau berusia 29 Tahun 8 Bulan 28 hari (terhitung per 22 Sep tember \n2024) sejatinya belum memenuhi syarat batas usia minimum 30 Tahun \nuntuk menjadi Calon Gubernur atau Wakil Gubernur manakala Pasal 7 \nayat (2) huruf e Undang -Undang Nomor 10 Tahun 2016 ditafsirkan \n\"terhitung sejak penetapan calon\" dimana penetapan pas angan calon \nkepala daerah sendiri diagendakan pada tanggal 22 September 2024.",
+      "start_line": 637,
+      "end_line": 642
+    },
+    {
+      "heading": "16. Bahwa Sdr. Kaesang Pangarep merupakan keponakan dari salah satu",
+      "slug": "16-bahwa-sdr-kaesang-pangarep-merupakan-keponakan-dari-salah-satu",
+      "text": "Hakim Konstitusi Anwar Usman, oleh karena itu menyebabkan \nkedudukan Hakim Konstitusi Anwar Usman berada dalam konf lik \nkepentingan dan benturan kepentingan sebagaimana dimaksud oleh \nketentuan Pasal 17 ayat (3), ayat (4), ayat (5) UU No. 48 Tahun 2009 \ntentang Kekuasaan Kehakiman.",
+      "start_line": 644,
+      "end_line": 648
+    },
+    {
+      "heading": "17. Bahwa keberadaan Hakim Konstitusi Anwar Usman dalam",
+      "slug": "17-bahwa-keberadaan-hakim-konstitusi-anwar-usman-dalam",
+      "text": "pemeriksaan dan pengambilan putusan ter rhadap perkara a quo  \nbertentangan dengan salah satu Prinsip Ketakberpihakan \nsebagaimana diatur secara eksplisit dan ditegaskan dalam Peraturan \nMahkamah Konstitusi Republik Indonesia Nomor 09/PMK/2006 \ntentang Pemberlakuan Deklarasi Kode Etik dan Perilaku Ha kim \nKonstitusi (Sapta Karsa Hutama), Penerapan angka 5 b, yang \nmenyatakan: Hakim Konstitusi —kecuali mengakibatkan tidak \nterpenuhinya kuorum untuk melakukan persidangan —harus \nmengundurkan diri dari pemeriksaan suatu perkara apabila hakim \ntersebut tidak dap at atau dianggap tidak dapat bersikap tak berpihak \nkarena alasan-alasan di bawah ini: \na. Hakim konstitusi tersebut nyata -nyata mempunyai prasangka \nterhadap salah satu pihak; dan/atau \nb. Hakim konstitusi tersebut atau anggota keluarganya mempunyai \nkepentingan langsung terhadap putusan.",
+      "start_line": 650,
+      "end_line": 664
+    },
+    {
+      "heading": "18. Bahwa Hakim Konstitusi Anwar Usman pernah diputus dalam Putusan",
+      "slug": "18-bahwa-hakim-konstitusi-anwar-usman-pernah-diputus-dalam-putusan",
+      "text": "MKMK 02/MKMK/L/11/2023, terbukti melanggar kode etik berat \n\n\n \n \n \n18 \nterhadap Kode Etik dan Perilaku Hakim Konstitusi sebagaimana \ntertuang dalam Sapta Karsa Hutama, yang salah satunya adalah \nprinsip Ketakberpihakan karena tidak mengundurkan diri dalam \nperkara proses pemeriksaan dan pengambilan Putusan terhadap \nperkara uji m ateri yang memiliki tipologi yang sama dengan \npermohonan a quo, yaitu Nomor 90/PUUXXl/2023.",
+      "start_line": 666,
+      "end_line": 678
+    },
+    {
+      "heading": "19. Bahwa keberadaan Hakim Konstitusi Anwar Usman dalam",
+      "slug": "19-bahwa-keberadaan-hakim-konstitusi-anwar-usman-dalam",
+      "text": "pemeriksaan dan pengambilan putusan terhadap perkara a quo hanya \nakan menimbulkan satwa sangka dan kecurigaan da lam benak \nmasyarakat luas karena melanggar prinsip nemojudexin causa sua  \nsebagaimana diatur dalam pasal 17 ayat (3), ayat (4), ayat (5) UU No. \n48 Tahun 2009 tentang Kekuasaan Kehakiman dan diatur juga dalam \nPrinsip Ketakberpihakan Penerapan angka 5 b, Pera turan Mahkamah \nKonstitusi Republik Indonesia Nomor 09/PMK/2006 tentang \nPemberlakuan Deklarasi Kode Etik dan Perilaku Hakim Konstitusi \n(Sapta Karsa Hutama), yang pada akhirnya juga akan berdampak pada \nrusaknya wibawa dan marwah Mahkamah Konstitusi.",
+      "start_line": 680,
+      "end_line": 689
+    },
+    {
+      "heading": "20. Bahwa berdasarkan alasan-alasan di atas, Pemohon mengajukan hak",
+      "slug": "20-bahwa-berdasarkan-alasan-alasan-di-atas-pemohon-mengajukan-hak",
+      "text": "ingkar terhadap Hakim Konstitusi Anwar Usman dan meminta dengan \nhormat agar Hakim Konstitusi Anwar Usman dengan kesadaran diri \nmemundurkan diri atau tidak diikutsertakan dalam proses pemeriksaan \ndan pengambilan putusan terhadap perkara a quo. \nD. Dalil-Dalil Pokok Permohonan \nAlur Kronologis Ketidakpastian Hukum dan Posisi Mahkamah dalam \nMenafsirkan Pasal a quo",
+      "start_line": 691,
+      "end_line": 697
+    },
+    {
+      "heading": "1. Bahwa ketiadaan norma \"mekanisme penghitungan\" terhadap syarat",
+      "slug": "1-bahwa-ketiadaan-norma-mekanisme-penghitungan-terhadap-syarat",
+      "text": "minimal usia kepala daerah pada pasal a quo  jelas menimbulkan \nadanya ketidakpastian hukum sebagaimana ditegaskan pada Pasal \n28D ayat (1) yang secara faktual dapat merugikan  hak-hak para \nPemohon untuk mendapatkan penyelenggaraan Pilkada yang \ndemokratis sebagaimana ditegaskan pada Pasal 18 ayat (4) UUD NRI \nTahun 1945. \n\n \n \n \n19",
+      "start_line": 699,
+      "end_line": 709
+    },
+    {
+      "heading": "2. Bahwa terkait ketidakpastian hukum yang terdapat pada pasal a quo",
+      "slug": "2-bahwa-terkait-ketidakpastian-hukum-yang-terdapat-pada-pasal-a-quo",
+      "text": "sebenarnya telah diterjemahkan oleh KPU menjadi \"sejak penetapan \npasangan calon\" (vide Pasal 4 ayat (1) huruf d PKPU 9/2020). Namun, \nberkaitan dengan munculnya gugatan terhadap Pasal 4 ayat (1) huruf",
+      "start_line": 711,
+      "end_line": 713
+    },
+    {
+      "heading": "d PKPU 9/2020 yang diajukan oleh Partai Garuda, kemudia n",
+      "slug": "d-pkpu-9-2020-yang-diajukan-oleh-partai-garuda-kemudia-n",
+      "text": "Mahkamah Agung (MA) dalam Putusan Nomor 23 P/HUM/2023 \nmemberikan pemaknaan baru terhadap pasal yang diujikan tersebut, \nyang pada pokoknya menyatakan bahwa ketentuan usia minimal bagi \ncalon kepala daerah yang terdapat pada pasal a quo  ialah dihitung \nsejak pelantikan, bukan sejak penetapan calon kepala daerah. Namun \ndemikian, bagi para Pemohon Putusan MA tersebut tetap tidak \nmenyelesaikan problem ketidakpastian hukum yang terdapat pada \npasal a quo  yang dapat merugikan hak -hak para Pemohon sebagai \npemilih dalam Pilkada 2024.",
+      "start_line": 715,
+      "end_line": 723
+    },
+    {
+      "heading": "3. Bahwa Putusan MA Nomor 23 P/HUM/2023 dikatakan tetap tidak",
+      "slug": "3-bahwa-putusan-ma-nomor-23-p-hum-2023-dikatakan-tetap-tidak",
+      "text": "menyelesaikan problem ketidakpastian hukum pada pasal a quo sebab \nputusan MA justru menghadirkan norma baru \"terhitung sejak \npelantikan pasangan calon terpilih\" yang jika ditelusu ri dalam Pasal 7 \nayat (2) huruf e juga tidak ditemukan klausulnya. Artinya, putusan MA",
+      "start_line": 725,
+      "end_line": 728
+    },
+    {
+      "heading": "di sini seperti pribahasa \"tutup lubang gali lubang\", menghapus",
+      "slug": "di-sini-seperti-pribahasa-tutup-lubang-gali-lubang-menghapus",
+      "text": "ketidakpastian hukum sebelumnya namun pada saat yang sama juga \nmembuat ketidakpastian hukum baru (Bukti P.8).",
+      "start_line": 730,
+      "end_line": 731
+    },
+    {
+      "heading": "4. Bahwa terhadap posisi norma a quo yang tidak berkepastian hukum",
+      "slug": "4-bahwa-terhadap-posisi-norma-a-quo-yang-tidak-berkepastian-hukum",
+      "text": "tersebut, Komisi Pemilihan Umum justru mengakomodir dalam \nketentuan Peraturan KPU Nomor 8 Tahun 2024 tentang Pencalonan \nGubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota \ndan Wakil Walikota tertanggal 1 Juli 2024 (Bukti P.9).",
+      "start_line": 733,
+      "end_line": 736
+    },
+    {
+      "heading": "5. Bahwa ketika diteliti secara mendalam, ketidakpastian hukum tersebut",
+      "slug": "5-bahwa-ketika-diteliti-secara-mendalam-ketidakpastian-hukum-tersebut",
+      "text": "timbul karena tidak adanya penafsiran konstitusional terhadap norma a \nquo yang tertuang dalam produk undang -undang. Pembuat undang -\nundang sendiri sejak mengundangkan ketentuan pasal a quo pada UU \nNo. 1 Tahun 2015, UU No. 8 Tahun 2015, hingga perubahan yang \nterakhir dengan UU No. 10 Tahun 2016, baik dalam naskah akademik \n\n \n \n \n20 \nmaupun risalah rapat pembahasannya di DPR, sama sekali tidak \nmenjelaskan atau menafsirkan bagaimana mekanisme penghitungan \nsyarat minimal usia calon kepala daerah dari ketentuan norma a quo \n(original intent) (Bukti P.10). Artinya, penormaan syarat minimal usia \nkepala daerah memang dibiarkan tanpa penafsiran lebih lanju t dan \ntanpa pembahasan yang mendalam sejak dalam perumusannya. \nBahkan, ketiadaan penjelasan atau original intent  pembuat undang -\nundang terhadap mekanisme penghitungan syarat minimal usia kepala \ndaerah sudah berlangsung sejak norma tersebut diundangkan untu k \npertama kalinya pada Pasal 15 ayat (4) huruf a.3, huruf b.3, dan huruf \nc.3 Undang -Undang Nomor 18 Tahun 1965 tentang Pokok -Pokok \nPemerintahan Daerah.",
+      "start_line": 738,
+      "end_line": 759
+    },
+    {
+      "heading": "6. Bahwa ketiadaan penafsiran konstitusional terhadap norma a quo pada",
+      "slug": "6-bahwa-ketiadaan-penafsiran-konstitusional-terhadap-norma-a-quo-pada",
+      "text": "gilirannya menyebabkan adanya sejumlah penafsiran, in casu  \ntermasuk pemaknaan yang dilakukan oleh MA dalam putusannya yang \njustru berujung pada ketidakpastian yang baru pula.",
+      "start_line": 761,
+      "end_line": 763
+    },
+    {
+      "heading": "7. Bahwa ketiadaan tafsir konstitusional terhadap norma a quo dalam",
+      "slug": "7-bahwa-ketiadaan-tafsir-konstitusional-terhadap-norma-a-quo-dalam",
+      "text": "posisinya sebagai norma undang -undang, Mahkamah Konstitusi -lah \nyang justru berwenang dan seharusnya mengambil peran untuk \nmemberikan pemaknaan konstitusional dari suatu ketentuan undang -\nundang yang masih kabur ( the sole interpreter of the constitution ). \nKarena dalam posisi yang demikian, ketidakpastian hukum yang ada \nmerupakan suatu persoalan norma abstrak yang keberadaanya perlu \ndiuji kesesuaiannya dengan UUD 1945. Dalam posisi ini dibutuhkan \nsuatu pengujian konstitusionalitas norma yang persoalannya berada \ndalam ta taran undang -undang (bukan peraturan di bawah undang -\nundang).",
+      "start_line": 765,
+      "end_line": 774
+    },
+    {
+      "heading": "8. Bahwa dalam posisi yang demikian, menjadi jelas Mahkamah Agung",
+      "slug": "8-bahwa-dalam-posisi-yang-demikian-menjadi-jelas-mahkamah-agung",
+      "text": "tidak dibenarkan secara hukum mendudukkan diri untuk menafsirkan \nketentuan pada norma a quo. Karena posisi MA sendiri dalam menguji \nketentuan peraturan perundang -undangan hanya sebatas menilai \nlagalitas norma (norma konkret). Sejak awal, MA tidak memilki \nkewenangan untuk melakukan penafsiran atau penilaian \n\n \n \n \n21 \nkonstitusionalitas norma (norma abstrak) (Jimly Asshiddiqie, Hukum \nAcara Penguj ian Undang -Undang, Cetakan Kedua, Sekretariat \nJenderal dan Kepaniteraan Mahkamah Konstitusi RI, Jakarta, 2006, h. \n5-6).",
+      "start_line": 776,
+      "end_line": 789
+    },
+    {
+      "heading": "9. Bahwa oleh karena uraian posisi timbulnya ketidakpastian norma a quo,",
+      "slug": "9-bahwa-oleh-karena-uraian-posisi-timbulnya-ketidakpastian-norma-a-quo",
+      "text": "para Pemohon mengajukan uji materiil terhadap pasal a quo yang pada \npokoknya meminta Mahkamah untuk menafsirkan norma a quo terkait \n\"mekanisme penghitungan\" syarat minimal usia kepala daerah dalam \nkerangka yang konstitusional. Maka terhadap suatu norma undang -\nundang di mana timbul adanya ketidakpastian hukum, Mahkamah \nsebagai lembaga penafsir tertinggi konstitusi ( the sole and highest \ninterpreter of the constitution) berkewajiban untuk memberikan makna \nkonstitusional terhadap norma a quo.",
+      "start_line": 791,
+      "end_line": 798
+    },
+    {
+      "heading": "10. Bahwa dengan demikian, menjadi jelas bahwa permohonan a quo",
+      "slug": "10-bahwa-dengan-demikian-menjadi-jelas-bahwa-permohonan-a-quo",
+      "text": "sama sekali tidak mendudukkan Mahkamah Konstitusi sebagai \nperadilan banding dari Mahkamah Agung. Alih -alih demikian, \nPermohonan a quo justru mendudukkan Mahkamah Konstitusi sebagai \npenafsir tunggal konstitusi untuk memberikan pemaknaan terhadap \nketentuan norma a quo  yang jelas -jelas mengandung adanya \nketidakpastian hukum.",
+      "start_line": 800,
+      "end_line": 805
+    },
+    {
+      "heading": "11. Bahwa dalam posisi tersebut, para Pemohon meminta Mahkamah",
+      "slug": "11-bahwa-dalam-posisi-tersebut-para-pemohon-meminta-mahkamah",
+      "text": "untuk memaknai ketentuan norma syarat minimal usia kepala daerah \ndalam kerangka yang konstitusional terh itung \"sejak penetapan \npasangan calon\" dengan uraian alasan -alasan permohonan sebagai \nberikut: \nInterpretasi Gramatikal terhadap Norma \"Mekanisme Penghitungan\" \nSyarat Minimal Usia Kepala Daerah",
+      "start_line": 807,
+      "end_line": 812
+    },
+    {
+      "heading": "12. Bahwa untuk menafsirkan adanya norma undang -undang yang tidak",
+      "slug": "12-bahwa-untuk-menafsirkan-adanya-norma-undang-undang-yang-tidak",
+      "text": "jelas dibutuhkan adanya pendekatan interpetasi gramatikal dalam \nrangka menemukan makna hukum yang sesungguhnya. Hal tersebut \ndisandarkan pada postulat \" Quand elle est obscure, il faut en \napprofondir les dispositions pour en pénétrer l'esprit' , bahwa bahasa \nundang-undang yang tidak jelas atau ambigu harus ditafsirkan menurut \n\n \n \n \n22 \njiwanya dibandingkan kata-katanya dalam rangka menemukan makna \nhukumnya.",
+      "start_line": 814,
+      "end_line": 825
+    },
+    {
+      "heading": "13. Bahwa untuk itu, perlu dijelaskan terlebih dahulu ketentuan Pasal 7",
+      "slug": "13-bahwa-untuk-itu-perlu-dijelaskan-terlebih-dahulu-ketentuan-pasal-7",
+      "text": "ayat (1) Undang -Undang Nomor 10 Tahun 2016 sejatinya mengatur \ntentang hak untuk memperoleh kesempatan untuk mencalonkan diri \natau dicalonkan ( Right to Be Candidate ) dalam kontestasi pemilihan \nkepala daerah. Dalam hal ini, para Pemohon ingin memberikan \npenegasan khusus terhadap frasa \"mencalonkan diri dan dicalonkan\" \nyang memiliki arti suatu proses untuk menjadi calon atau ditetapkan \nsebagai calon sebagai calon kepala daerah.",
+      "start_line": 827,
+      "end_line": 833
+    },
+    {
+      "heading": "14. Bahwa kemudian Pasal 7 ayat (2) Undang -Undang Nomor 10 Tahun",
+      "slug": "14-bahwa-kemudian-pasal-7-ayat-2-undang-undang-nomor-10-tahun",
+      "text": "2016 mengatur tentang beberapa prasyarat untuk ditetapkan baik \nsebagai Calon Gubernur dan Calon Wakil Gubernur, Calon Bupati dan \nCalon Wakil Bupati, serta Calon Walikota dan Calon Wakil Walikota, \nyang di antaranya tercantum pada bagian huruf e, yaitu: \"berusia paling \nrendah 30 (tiga puluh) tahun untuk calon Gubernur dan Calon Wakil \nGubernur, se rta 25 (dua puluh lima) untuk Calon Bupati dan Calon \nWakil Bupati, serta Calon Walikota dan Calon Wakil Walikota\".",
+      "start_line": 835,
+      "end_line": 841
+    },
+    {
+      "heading": "15. Bahwa Pasal 7 ayat (1) dan Pasal 7 ayat (2) huruf e Undang -Undang",
+      "slug": "15-bahwa-pasal-7-ayat-1-dan-pasal-7-ayat-2-huruf-e-undang-undang",
+      "text": "Nomor 10 Tahun 2016 tersebut sejatinya berada dalam satu tarikan \nnafas sehi ngga oleh karenanya menjadi sangatlah jelas dan terang \nbenderang bahwa ketentuan \"berusia paling rendah 30 (tiga puluh) \ntahun\" harus diterjemahkan sebagai syarat wajib yang harus dipenuhi \noleh setiap warga negara untuk ditetapkan sebagai calon Gubernur dan \nCalon Wakil Gubernur. Begitu pula ketentuan \"berusia paling rendah \n25 (Dua puluh lima) tahun.\" harus diterjemahkan sebagai syarat wajib \nyang harus dipenuhi oleh setiap warga negara untuk ditetapkan \nsebagai calon Bupati dan Calon Wakil Bupati, serta Calon Walikota dan \nCalon Wakil Walikota.",
+      "start_line": 843,
+      "end_line": 852
+    },
+    {
+      "heading": "16. Bahwa oleh karena itu, sudah benar dan tepat jika Komisi Pemilihan",
+      "slug": "16-bahwa-oleh-karena-itu-sudah-benar-dan-tepat-jika-komisi-pemilihan",
+      "text": "Umum Republik Indonesia (KPU RI) menerjemahkan persyaratan usia \nminimal sebagaimana diatur dalam Pasal 7 ayat (2) huruf e Undang -\nUndang Nomor 10 Tahun 2016 di atas ke dalam ketentuan Pasal 4 ayat \n\n \n \n \n23 \n(1) huruf d Peraturan KPU Nomor 9 Tahun 2020, yang berbunyi: d. \nberusia paling rendah 30 (tiga puluh) tahun untuk Calon Gubernur dan \nWakil Gubernur dan 25 (dua puluh lima) tahun untuk Calon Bupati dan \nWakil Bupati atau Calon Walikota dan Wakil Walikota terhitung sejak \npenetapan Pasangan Calon\".",
+      "start_line": 854,
+      "end_line": 866
+    },
+    {
+      "heading": "17. Bahwa untuk menguji keabsahan penerjemahan dari norma tersebut,",
+      "slug": "17-bahwa-untuk-menguji-keabsahan-penerjemahan-dari-norma-tersebut",
+      "text": "perlu dibuatkan alur interpretasi gramatikal terhadap ketentuan norma \npasal a quo yang diujikan. Metode ini didasarkan pada penafsiran tata \nbahasa terhadap kata -kata yang tersusun di dalam bunyi dan isi \nperaturan perundang-undangan. Kata demi kata yang menyusun suatu \nnorma dalam suatu peraturan perundang-undangan akan diartikan dan \ndiberi makna serta dijelaskan da lam tata kebahasaan untuk \nmenghasilkan pemahaman komprehensif tentang hukum yang berlaku \nbagi suatu perbuatan hukum, hubungan hukum dan peristiwa hukum. \nDalam metode penafsian gramatikal tersebut, ada tiga pendekatan \nkontekstual yang dapat digunakan dalam metode penafsiran ini \n(Mertokusumo dan Pitlo dalam Safaat, 2015; 73), yaitu: \n17.1 noscitur a socis yang artinya suatu perkataan harus dinilai dari \nikatan dalam kumpulan-kumpulannya; \n17.2 ejusdem generis yang artinya perkataan yang digunakan dalam \nlingkungan atau kelompok yang sama; dan \n17.3 expressum facit cassare tacitum  yang artinya kata -kata yang \ndicantumkan secara tegas mengakhiri pencarian maksud dari \nsatu perundang-undangan.",
+      "start_line": 868,
+      "end_line": 885
+    },
+    {
+      "heading": "18. Bahwa berdasarkan pendekatan postulat metodologis noscitur a socis,",
+      "slug": "18-bahwa-berdasarkan-pendekatan-postulat-metodologis-noscitur-a-socis",
+      "text": "norma \"berusia paling rendah 30 (tiga puluh) tahu n untuk Calon \nGubernur dan Wakil  Gubernur dan 25 (dua puluh lima) tahun untuk \nCalon Bupati dan Wakil Bupati atau Calon Walikota dan Wakil \nWalikota\" haruslah dimaknai d alam konteks \"pencalonan kepala \ndaerah\". Hal tersebut karena norma a quo  menjadi syarat bagi \nterpenuhinya seorang warga negara menjadi calon kepala daerah. \nSyarat adalah sesuatu yang mesti ada yang keberadaannya dapat \nmenentukan absah -tidaknya suatu hal. S ebagai syarat, ketentuan \n\n \n \n \n24 \ntersebut haruslah terpenuhi terlebih dahulu sebelum predikat \"calon\" itu \ndilekatkan terhadap warga negara. Maka menjadi jelas bahwa syarat \nusia yang tertuang dalam norma a quo berada dalam satu -kesatuan \ndalam ketentuan pencalonan.",
+      "start_line": 887,
+      "end_line": 903
+    },
+    {
+      "heading": "19. Bahwa menjadi jelas adresat hukum atau predikat \"calon\" dapat",
+      "slug": "19-bahwa-menjadi-jelas-adresat-hukum-atau-predikat-calon-dapat",
+      "text": "ditempelkan kepada seorang warga negara jika sudah terpenuhinya \nsyarat berusia genap 30 tahun (untuk Gubernur dan Wakil Gubernur) \nserta genap 25 tahun (untuk Bupati dan Wakil Bupati, serta Walik ota \ndan Wakil Walikota). Maka dalam penalaran yang rasional, \nditempelkannya/ditetapkannya adresat hukum/predikat \"calon\" kepada \nseorang warga negara secara implisit juga menjadi batasan untuk \nmengukur genap atau tidaknya usia seorang warga negara untuk \nmencalonkan diri sebagai kepala daerah.",
+      "start_line": 905,
+      "end_line": 912
+    },
+    {
+      "heading": "20. Bahwa dengan demikian, menjadi tidak benar jika mekanisme",
+      "slug": "20-bahwa-dengan-demikian-menjadi-tidak-benar-jika-mekanisme",
+      "text": "penghitungan usia dalam norma a quo  dihitung \"sejak pelantikan \npasangan terpilih\". Pasalnya, antara pencalonan dan pelantikan \nmerupakan dua frasa dalam undang -undang yang mengandung \nketentuan berbeda dan pengaturannya secara sendiri -sendiri. Dalam \npenalaran logika formal, syarat -syarat pencalonan tersebut, in casu  \nsyarat usia, merupakan premis yang membentuk satu kesatuan dalam \nketentuan pencalonan. Dalam konteks ini, menjadi tidak benar jika \npremis tersebut dalam penafisirannya disandarkan pada suatu \nketentuan di luar dari konteks pengaturannya, yaitu ketentuan \npelantikan.",
+      "start_line": 914,
+      "end_line": 923
+    },
+    {
+      "heading": "21. Bahwa jika ditelusuri ulang dalam UU Nomor 1 Tahun 2015 tentang",
+      "slug": "21-bahwa-jika-ditelusuri-ulang-dalam-uu-nomor-1-tahun-2015-tentang",
+      "text": "Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 \nTahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota Menjadi \nUndang-Undang, antara persyaratan ca lon dan proses pengesahan \ndan pelantikan gubernur, bupati dan walikota diatur dalam dua bab \nyang berbada. Persyaratan  calon diatur dalam Bab III sedangkan \npengesahan dan pelantikan ca lon diatur dalam Bab XXI. Perbedaan \nbab perihal pengaturan persyaratan ca lon dan pelantikan ca lon i tu \ndengan jelas menggambarkan bahwa kedua ketentuan tersebut adalah \n\n \n \n \n25 \nmutlak berbeda. Oleh se bab i tu, adalah tidak tepat jika penafsiran \nterhadap kedua ketentuan tersebut dicampuraduk kan satu sama lain \nmengingat keduanya berdiri di dalam bangunan hukum yang berbeda. \nSatu ada pada rezim pencalonan dan satunya lagi ada dalam rezim \npelantikan. Seluruh uraian tersebut seperi dapat dilihat pada tabel \nberikut: \nTabel l: Uraian prasyarat peralihan status \n              Bab Il           Bab XXI \n          UU 10/2015        UU 10/2015 \n \n                 Syarat        Pelantikan \n        Pencalonan                              \n \nNorma a quo  Jika Tetap Diterjemahkan \"Terhitung Sejak Penetapan \nPasangan Ca lon Terpilih” Menjadi tidak Be rkepastian Hukum karena \nDisandarkan pada Sesuatu yang tidak Pasti Pula.",
+      "start_line": 925,
+      "end_line": 953
+    },
+    {
+      "heading": "22. Bahwa untuk mendalilkan adanya ketidakpastian hukum dalam norma",
+      "slug": "22-bahwa-untuk-mendalilkan-adanya-ketidakpastian-hukum-dalam-norma",
+      "text": "a quo dengan pemaknaan \"sejak penetapan pasangan ca lon terpilih”, \npenting terlebih dahulu memahami penggunaan konsep kepastian \nhukum dalam norma positif. Hans Kelsen dalam teorinya hukum murni \n(pure of law ), menyebut kepastian hukum i tu tidak hanya berjibaku \ndengan asas legalitas yang memuat hukum positif atau norma tertulis, \nmelainkan kepastian hukum i tu, kata kelsen, juga mencakup arti \nlegalitas yang menunjuk pada kualitas penerapan norma. Dengan kata \nlain kepastian dalam arti yang didasarkan pada proses bekerjanya \nhukum dalam masyarakat. Hal yang demikian itu dicerminkan pada \naspek prosedural guna terjaminnya asas kepastian hukum, in casu  \nmekanisme penghitungan syarat minimal usia calon kepala daerah.",
+      "start_line": 955,
+      "end_line": 965
+    },
+    {
+      "heading": "23. Bahwa untuk menilai suatu kaidah norma mengandung kepastian",
+      "slug": "23-bahwa-untuk-menilai-suatu-kaidah-norma-mengandung-kepastian",
+      "text": "hukum atau sebaliknya tidak serta -merta dapat dinilai sebatas pada \naspek bangunan legal positivisme atau asas legalitas dalam undang -\nundang, melainkan juga harus dinilai melalui aspek pe nerapan \n\n\n \n \n \n26 \nprosedural bagaimana suatu norma bekerja dalam kerangka hukum \nyang ada Kaidah tersebutlah yang selanjutnya akan digunakan sebagai \ndasaran dalam menilai penerapan norma \"syarat minimal usia kepala \ndaerah\" ketika dimaknai dengan mekanisme penghitunga n \"sejak \npelantikan pasangan calon terpilih\".",
+      "start_line": 967,
+      "end_line": 980
+    },
+    {
+      "heading": "24. Bahwa ketika norma \"syarat minimal usia kepala daerah\" dimaknai",
+      "slug": "24-bahwa-ketika-norma-syarat-minimal-usia-kepala-daerah-dimaknai",
+      "text": "dengan mekanisme penghitungan \"sejak pelantikan pasangan calon \nterpilih\" menyebabkan norma a quo  tidak berkepastian hukum. Hal \ntesebut disebabkan mekanisme penghitungan usia yang menjadi dasar \nsandaran penghitungan genap tidaknya usia seorang warga negara \njuga mengandung ketidakpastian. Hal tersebut dapat dijelaskan \ndengan dua hal; 1) secara formil, ketentuan pelantikan merupakan \nkewenangan mutlak Presiden sebagaimana diatur dalam Pasal 165 UU \n10/2016. Artinya, kewenangan ihwal ketentuan pelantikan berada di \nluar dari kewenangan penyelenggara Pilkada (KPU), dan; 2) secara \nmateriil, ketentuan pelantikan berada di luar dari pada rangkaian \ntahapan penyelenggaraan Pilkada.",
+      "start_line": 982,
+      "end_line": 992
+    },
+    {
+      "heading": "25. Bahwa terhadap alasan yang pertama, suatu ketentuan yang berada di",
+      "slug": "25-bahwa-terhadap-alasan-yang-pertama-suatu-ketentuan-yang-berada-di",
+      "text": "luar dari kewenangan penyelenggara Pilkada (KPU) membawa \nkonsekuensi ketidakpastian hukum terhadap kerangka norma \npencalonan Pilkada. Sejatinya secara wewenang kelembagaan, antara \npencalonan dan pelantikan telah diatribusikan dengan ketentuan rezim \n(pengaturan) yang berbeda. KPU sebagai lembaga penyelenggara \nPilkada tidak memiliki otoritas terhadap penyelenggaraan Pelantikan. \nDalam konteks ini, KPU tidak dapat memastikan secara definitif dan \nkehilangan kuasanya terhadap ketentuan dan jadwal pelantikan. Maka \ndalam posisi yang demikian, hilangnya kendali KPU terhadap \nketentuan pelantikan menyebabkan penentuan syarat pencalonan \nmenjadi tidak pasti. Karena pada dasarnya, keten tuan dan jadwal \npelantikan disesuaikan dengan kehendak politik (political will) presiden \ndan kondisi politik dan hukum yang berkembang. Dalam kondisi yang \ndemikian, tidak akan dijump ai suatu aturan yang baku dan hi tungan \npasti untuk mem astikan seorang warga negara benar -benar telah \n\n \n \n \n27 \ngenap usianya mencalonkan diri sebagai kepala daerah. Penghitungan \nusia akan menjadi hitungan karet, karena dalam kondisi tertentu bisa \njadi pelantikan lebih awal dari pendaftaran pencalonan, dalam kondisi \nyang la in pula bisa jadi pelantikan juga  lebih akhir dari pendaftaran \npencalonan. Oleh sebab itu, karena mekanisme penghitungan syarat \nminimal usia kepala daerah disandarkan pada sesuatu yang tidak pasti \ndan tidak prediktibel, maka penerapan norma dalam pasal a quo secara \ninheren menjadi tidak pasti pula.",
+      "start_line": 994,
+      "end_line": 1021
+    },
+    {
+      "heading": "26. Bahwa terhadap alasan yang kedua, tahapan -tahapan",
+      "slug": "26-bahwa-terhadap-alasan-yang-kedua-tahapan-tahapan",
+      "text": "penyelenggaraan Pilkada telah diatur secara jelas pada Pasal 5 ayat \n(3) UU 8/2015. Pasal tersebut telah menguraikan dengan jelas bahwa \npenyelenggaraan Pilkada meliputi tahapan pengumuman pendaftaran \npasangan calon; pendaftaran pasangan calon; penelitian persyaratan \ncalon; penetapan pasangan calon; pelaksanaan kampanye; \npelaksanaan pemungutan suara; penghitungan suara dan rekapitulasi \nhasil penghitungan suara; penet apan calon terpilih; penyelesaian \npelanggaran da n sengketa hasil pemilihan; ser ta pengusulan \npengesahan dan pengangkatan calon terpilih. Dengan demikian, syarat \nusia pencalonan yang menjadi bagian dari tahapan penyelenggaraan \nPilkada tidaklah tepat jika me kanisme penghitungannya disandarkan \npada pelantikan yang berada diluar tahapan penyelenggaraan Pilkada \nitu sendiri. Jika hal itu yang terjadi, maka kondisi penyelenggaraan \nPilkada menjadi tidak utuh dan tidak otonom lagi pelaksanannya \nkarena ditentukan secara kondisional dengan pelaksanaan pelantikan \nyang berada di luar dari pada tahapan penyelenggaraan.",
+      "start_line": 1023,
+      "end_line": 1038
+    },
+    {
+      "heading": "27. Oleh karena itu, sudah sewajarnya jika ketentuan syarat usia minimal",
+      "slug": "27-oleh-karena-itu-sudah-sewajarnya-jika-ketentuan-syarat-usia-minimal",
+      "text": "sebagaimana diatur dalam Pasal 7 ayat (2) huruf e Undang -Undang \nNomor 10 Tahun 2016 ditafsirkan harus dihitung sejak penetapan calon. \nKarena masih dalam satu bingkai tahapan yang sama, yaitu tahapan \npencalonan. \nPerbandingan Berlakunya Syarat Usia Minimal pada Jabatan Elected \nOfficial yang juga Dihitung Sejak Penetapan \n\n \n \n \n28",
+      "start_line": 1040,
+      "end_line": 1050
+    },
+    {
+      "heading": "28. Bahwa sekalipun ketent uan syarat usia minimal bagi calon pejabat",
+      "slug": "28-bahwa-sekalipun-ketent-uan-syarat-usia-minimal-bagi-calon-pejabat",
+      "text": "elected officials  berbeda-beda, akan tetapi terdapat satu kesamaan \nterkait titik hitung pemberlakuan syarat usia minimal, yaitu sejak \npenetapan calon, bukan sejak pelantikan sebagaimana diuraikan pada \ntabel berikut: \n  Tabel Il: Perbandingan berlakunya syarat usia jabatan elected officials \nElected Official Syarat usia \nminimal \nTitik hitung \nberlakunya \nsyarat usia \nminimal \nCalon Presiden dan \nWakil Presiden \nBerusia paling \nrendah 40 \n(Empat Puluh) \nmenurut Pasal \n169 huruf q UU \nNo. 7 Tahun \n2017) \nTerhitung sejak \npenetapan \npasangan calon \noleh KPU \n(Pasal 13 ayat (1) \nhuruf q juncto \nPasal 13 ayat (3) \nPKPU No. 23 \nTahun 2023 \nCalon anggota DPD \nBerusia minimal \n21 (Dua Puluh \nSatu) Tahun \nmenurut Pasal \n182 huruf a UU \nNo. 7 Tahun \n2017 \nTerhitung sejak \npenetapan DCT \n(daftar calon \ntetap) anggota \nDPD.  \n(Pasal 15 ayat (1) \nhuruf a juncto \nPasal 16 PKPU \nNo. 10 Tahun \n2022 \nsebagaimana \ndiubah terakhir \ndengan PKPU No. \n3 Tahun 2024 \nCalon anggota \nDPR, DPRD \nProvinsi, dan \nDPRD Kabupaten/ \nKota \nBerusia minimal \n21 (Dua Puluh \nSatu) Tahun \nmenurut \nPasal 240 Ayat \n(1) huruf a UU \nNo.7 Tahun 2017 \nTerhitung sejak \npenetapan DCT \n(daftar calon \ntetap) anggota \nDPD. \n(Pasal 11 ayat (1) \nhuruf a Juncto \nPasal 11 ayat (3) \nPKPU No. 4 \nTahun 2024",
+      "start_line": 1052,
+      "end_line": 1124
+    },
+    {
+      "heading": "29. Bahwa berdasarkan penjabaran data di atas, nyaris semua ketentuan",
+      "slug": "29-bahwa-berdasarkan-penjabaran-data-di-atas-nyaris-semua-ketentuan",
+      "text": "syarat minimal usia terkait dengan jabatan elected official diberlakukan \n\n \n \n \n29 \nsejak penetapan calon, bukan sejak pelantikan calon. Maka dengan itu, \ndengan menggunakan penalaran logika deduktif, seharusnya \nketentuan syarat mi nimal usia bagi calon kepala daerah juga \ndihitung/diberlakukan sejak penetapan calon, bukan sejak pelantikan. \nJika diformulasikan alur penalaran deduktif tersebut akan \nmenghasilkan suatu konklusi seperti di bawah ini: \n Semua ketentuan syarat usia minimal pencalonan jabatan elected \nofficial terhitung sejak penetapan calon   > premis mayor \nKepala Daerah adalah jabatan elected official > premis minor \nKetentuan syarat usia minimal pencalonan jabatan Kepala Daerah \nterhitung sejak penetapan pasangan calon > konklusi",
+      "start_line": 1126,
+      "end_line": 1142
+    },
+    {
+      "heading": "30. Bahwa secara aksiomatik, penalaran di atas juga dapat diterima",
+      "slug": "30-bahwa-secara-aksiomatik-penalaran-di-atas-juga-dapat-diterima",
+      "text": "sebagai metode penalaran yang benar. Dalam teori aksioma dikatakan \nbahwa: Benda yang sama -sama sama dengan benda yang sama \nadalah sama satu terhadap lainnya (a = x, b = x, dan y = x, maka a = b \n= y). Jika diformulasikan alur penalaran aksiomatik ini adalah seperti di \nbawah ini: \n Pemilihan Presiden (a) = Elected Officials (x) \n Pemilihan Anggota Legislatif (b) = Elected Officials  (x) \n Pemilihan Kepala Daerah  (y) = Elected Officials (x) \nDengan penalaran aksiomatik yang telah diformulasikan di atas, maka \nmenjadi jelas bahwa Pemilihan Kepala Daerah adalah sama dengan \nPemilihan Presiden dan juga Pemilihan Anggota Legislatif. Dengan \ndemikian, karena Pemilih an Kepala Daerah adalah sama dengan \nPemilihan Presiden dan Pemilihan Anggota Legislatif, maka menjadi \nkeniscayaan bilamana mekanisme penghitungan ketentuan syarat usia \nminimal pada Pemilihan Kepala Daerah juga diberlakukan sama \nsebagaimana pada Pemilihan P residen dan Pemilihan Anggota \nLegislatif.",
+      "start_line": 1144,
+      "end_line": 1160
+    },
+    {
+      "heading": "31. Bahwa jika Pasal a quo tetap diterjemahkan dengan \"terhitung sejak",
+      "slug": "31-bahwa-jika-pasal-a-quo-tetap-diterjemahkan-dengan-terhitung-sejak",
+      "text": "pelantikan pasangan calon terpilih\", terdapat suatu konsekuensi logis \nsecara hukum terhadap pemaknaan yang sama dalam menghitung \nketentuan syarat m inimal usia calon dengan jabatan yang dipilih \n\n \n \n \n30 \nlangsung dalam pemilihan u mum (elected officials). Pasalnya, dalam \npertimbangannya pada Putusan Perkara Nomor 55/PUUXVll/2019, \nMahkamah Konstitusi telah dengan jelas dan tegas menyebutkan tidak \nada lagi perbeda an antara rezim Pemilu dan rezim Pilkada. Artinya, \ndalam batas penalaran yang wajar pemaknaan \"terhitung sejak \npelantikan pasangan calon terpilih\" terhadap pasal a quo  akan \nmembawa konsekuensi perubahan serupa terhadap ketentuan syarat \nminimal usia calon P residen dan Wakil Presiden, calon Dewan \nPerwakilan Rakyat, serat Calon Dewan Perwakilan Daerah.",
+      "start_line": 1162,
+      "end_line": 1178
+    },
+    {
+      "heading": "32. Bahwa jika hal tersebut terjadi, mengingat pemaknaan \"terhitung sejak",
+      "slug": "32-bahwa-jika-hal-tersebut-terjadi-mengingat-pemaknaan-terhitung-sejak",
+      "text": "pelantikan pasangan calon terpilih\" terhadap pasal a quo telah jelas \ntidak berkepastian secara hukum, akan timbul ketidakpastian hukum \nmayor secara serupa terhadap mekanisme pencalonan jabatan elected \nofficial yang lain.",
+      "start_line": 1180,
+      "end_line": 1183
+    },
+    {
+      "heading": "33. Bahwa dengan demikian, menjadi jelas pemaknaan \"terhitung sejak",
+      "slug": "33-bahwa-dengan-demikian-menjadi-jelas-pemaknaan-terhitung-sejak",
+      "text": "pelantikan pasangan calon terpilih\" terhadap pasal a quo bertentangan \ndengan prinsip negara hukum sebagaimana diatur pada Pasal 1 ayat \n(3) UUD NRI 1945 karena pemaknaan tersebut tidak sesuai dengan \nkerangka berhukum yang ada serta membawa konsekuensi munculnya \nnorma yang tidak bekepastian secara hukum sebagaimana diatur pada \nPasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 1185,
+      "end_line": 1190
+    },
+    {
+      "heading": "34. Bahwa berdasarkan teori kepastian hukum ( Rechtssicherheit),",
+      "slug": "34-bahwa-berdasarkan-teori-kepastian-hukum-rechtssicherheit",
+      "text": "kepastian hukum diartikan sebagai perihal (keadaan) yang pasti, \nketentuan atau ketetapan. Hukum secara hakiki harus pas ti dan adil. \nPasti sebagai pedoman kelakukan dan adil karena pedoman kelakuan \nitu harus menunjang suatu tatanan yang dinilai wajar. Hanya karena \nbersifat adil dan dilaksanakan dengan pasti hukum dapat menjalankan \nfungsinya. Kepastian hukum merupakan pertan yaan yang hanya bisa \ndijawab secara normatif, bukan sosiologi. (Dominikus Rato, Filsafat \nHukum: Mencari dan Memahami Hukum, Yogyaka rta: Laksbang \nPressindo, 2010, hlm. 59). Menurut Gustav Radbruch, terdapat 4 \n(empat) hal mendasar yang berhubungan dengan mak na kepastian \nhukum, yaitu: \n\n \n \n \n31",
+      "start_line": 1192,
+      "end_line": 1207
+    },
+    {
+      "heading": "1. bahwa hukum itu positif, artinya bahwa hukum positif itu adalah",
+      "slug": "1-bahwa-hukum-itu-positif-artinya-bahwa-hukum-positif-itu-adalah",
+      "text": "perundang-undangan;",
+      "start_line": 1209,
+      "end_line": 1209
+    },
+    {
+      "heading": "2. bahwa hukum itu didasarkan pada fakta, artinya didasarkan pada",
+      "slug": "2-bahwa-hukum-itu-didasarkan-pada-fakta-artinya-didasarkan-pada",
+      "text": "kenyataan;",
+      "start_line": 1211,
+      "end_line": 1211
+    },
+    {
+      "heading": "3. bahwa fakta harus dirumuskan dengan cara yang jelas sehingga",
+      "slug": "3-bahwa-fakta-harus-dirumuskan-dengan-cara-yang-jelas-sehingga",
+      "text": "menghindari kekeliruan dalam pemaknaan, di samping mudah \ndilaksanakan;",
+      "start_line": 1213,
+      "end_line": 1214
+    },
+    {
+      "heading": "35. Bahwa mengutip Pendapat H.L.A. Hart dalam \"The Concept of La w'",
+      "slug": "35-bahwa-mengutip-pendapat-h-l-a-hart-dalam-the-concept-of-la-w",
+      "text": "mengemukakan pendapat bahwa kadang -kadang kata -kata dalam \nsebuah undang-undang dan apa yang diperintahkan undang-undang \ntersebut dalam suatu kasus ter tentu bisa jadi jelas sekali, namun \nterkadang mungkin ada keraguan terkait dengan penerapannya. \n\"Keraguan itu terkadang dapat diselesaikan melalui interpretasi atas \nperaturan hukum lainnya. Hal inil ah menurut H.L.A Hart salah satu \ncontoh ketidakpastian (legal uncenainty) hukum\" (M. Khozim, Konsep \nHukum, Bandung: Nusamedia, 2010, hlm. 230). Senada dengan itu \ndikemukakan oleh Tan Kamello bahwa Dalam suatu undang -undang, \nkepastian hukum (cenainty) meliputi dua hal yaitu: \na. Kepastian hukum dalam perumusan norma dan prinsip hukum yang \ntidak bertentangan antara satu dengan yang lainnya baik dari pasal-\npasal undang -undang itu secara keseluruhan maupun kaitannya \ndengan pasal -pasal lainnya yang berada di luar un dang-undang \ntersebut; \nb. Kepastian hukum juga berlaku dalam melaksanakan norma -norma \ndan prinsip-prinsip hukum undang-undang tersebut.",
+      "start_line": 1217,
+      "end_line": 1233
+    },
+    {
+      "heading": "36. Bahwa ketidakpastian hukum demikian tidak sesuai dengan semangat",
+      "slug": "36-bahwa-ketidakpastian-hukum-demikian-tidak-sesuai-dengan-semangat",
+      "text": "untuk menegakkan prinsip -prinsip negara hukum sebagaimana \ndiamanatkan oleh Pasal 1 ayat (3) UUD 1945 yang secara tegas \nmenyatakan bahwa Indonesia adalah negara hukum di mana kepastian \nhukum merupakan prasyarat yang tak dapat ditiadakan. \n \n \n\n \n \n \n32 \nIV. PETITUM \nBerdasarkan seluruh uraian -uraian sebagaimana disebutkan di atas, Para \nPemohon memohon kepada Majelis Hakim Mahkamah Konstitusi yang \nmemeriksa dan mengadili permohonan ini untuk berkenan memutuskan: \nDalam Provisi:",
+      "start_line": 1235,
+      "end_line": 1250
+    },
+    {
+      "heading": "2. Menjadikan Permohonan Pengujian Pasal 7 ayat (2) huruf e Undang -",
+      "slug": "2-menjadikan-permohonan-pengujian-pasal-7-ayat-2-huruf-e-undang",
+      "text": "Undang Nomor 10 Tahun 2016 tentang Perubah an Kedua Atas Undang -\nUndang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah \nPengganti Undang -Undang Nomor 1 Tahun 2014 tentang Pemilihan \nGubernur, Bupati, dan Walikota Menjadi Undang -Undang sebagai perkara \nprioritas yang diperiksa di Mahkamah Konstitusi untuk menjatuhkan \nputusan sebelum pelaksanaan pendaftaran calon Pilkada 2024 pada \ntanggal 27 Agustus 2024.",
+      "start_line": 1253,
+      "end_line": 1259
+    },
+    {
+      "heading": "3. Menyatakan Hakim Konstitusi Anwar Usman tidak diperkenankan terlibat",
+      "slug": "3-menyatakan-hakim-konstitusi-anwar-usman-tidak-diperkenankan-terlibat",
+      "text": "atau melibatkan diri dalam pemeriksaan dan pengambilan keputusan dalam \nPermohonan Pengujian Pasal 7 ayat (2) huruf e Undang-Undang Nomor 10 \nTahun 2016 tentang Per ubahan Kedua Atas Undang -Undang Nomor 1 \nTahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-\nUndang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan \nWalikota Menjadi Undang-Undang. \nDalam Pokok Permohonan:",
+      "start_line": 1261,
+      "end_line": 1267
+    },
+    {
+      "heading": "2. Menyatakan Pasal 7 ayat (2) huruf e Undang -Undang Nomor 10 Tahun",
+      "slug": "2-menyatakan-pasal-7-ayat-2-huruf-e-undang-undang-nomor-10-tahun",
+      "text": "2016 tentang Perubahan Kedua Atas Undang -Undang Nomor 1 Tahun \n2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang \nNomor 1 Tahun 2014 tentang Pemilih an Gubernur, Bupati, dan Walikota \nMenjadi Undang-Undang bertentangan dengan UUD NRI 1945 dan tidak \nmempunyai kekuatan hukum mengikat sepanjang tidak dimaknai \"berusia \npaling rendah 30 (tiga puluh) tahun untuk Calon Gubernur dan Wakil \nGubernur dan 25 (dua p uluh lima) tahun untuk Calon Bupati dan Wakil \nBupati atau Calon Walikota dan Wakil Walikota terhitung sejak penetapan \nPasangan Calon\"; \n\n \n \n \n33",
+      "start_line": 1270,
+      "end_line": 1283
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Republik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila Majelis Hakim Konstitusi Republik Indonesia berpendapat Iain, mohon \nputusan yang seadil-adilnya (ex aequo et bono) \n[2.2] Menimbang bahwa untuk me mbuktikan dalilnya, para Pemohon telah \nmengajukan alat bukti surat/tulisan yang diberi tanda bukti P-1 sampai dengan bukti \nP-10, yang disahkan dalam persidangan tanggal 25 Juli 2024, sebagai berikut:",
+      "start_line": 1285,
+      "end_line": 1290
+    },
+    {
+      "heading": "1. Bukti P-1 : : Fotokopi Undang-Undang Nomor 10 Tahun 2016",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-10-tahun-2016",
+      "text": "tentang Perubahan Kedua Atas Undang-Undang Nomor \n1 Tahun 2015 tentang Penetapan Peraturan Pemerintah \nPengganti Unda ng-Undang Nomor 1 Tahun 2014 \ntentang Pemilihan Gubernur, Bupati, dan Walikota \nMenjadi Undang-Undang;",
+      "start_line": 1292,
+      "end_line": 1296
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945;",
+      "start_line": 1298,
+      "end_line": 1298
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk Atas Nama A. Fahrur",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-atas-nama-a-fahrur",
+      "text": "Rozi dan Anthony Lee;",
+      "start_line": 1300,
+      "end_line": 1300
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Mahasiswa atas nama A. Fahrur",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-mahasiswa-atas-nama-a-fahrur",
+      "text": "Rozi dan Anthony Lee;",
+      "start_line": 1302,
+      "end_line": 1302
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Artikel Online “Putusan Ma Soal Syarat Usia",
+      "slug": "5-bukti-p-5-fotokopi-artikel-online-putusan-ma-soal-syarat-usia",
+      "text": "Calon Di Pilkada Dinilai Problematik”, detikNews.com, \n31 Mei 2024;",
+      "start_line": 1304,
+      "end_line": 1305
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Daftar Pemilih Tetap (DPT) Pilkada 2024 Para",
+      "slug": "6-bukti-p-6-fotokopi-daftar-pemilih-tetap-dpt-pilkada-2024-para",
+      "text": "Pemohon di Laman https://cekdptonline.kpu.go.id;",
+      "start_line": 1307,
+      "end_line": 1307
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Artikel Online “Calon Perseorangan Terancam",
+      "slug": "7-bukti-p-7-fotokopi-artikel-online-calon-perseorangan-terancam",
+      "text": "Tak Bisa Merasakan Dampak Putusan MA”, Kompas.id, \n14 Juli 2024;",
+      "start_line": 1309,
+      "end_line": 1310
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Artikel Online “Bawaslu Bingung Implementasi",
+      "slug": "8-bukti-p-8-fotokopi-artikel-online-bawaslu-bingung-implementasi",
+      "text": "Putusan Batas Usia Cakada Dimulai Saat Pelantikan”, \ndetikNews.com, 18 Juli 2024; \n\n \n \n \n34",
+      "start_line": 1312,
+      "end_line": 1318
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Salinan Peraturan Komisi Pemilihan Umum",
+      "slug": "9-bukti-p-9-fotokopi-salinan-peraturan-komisi-pemilihan-umum",
+      "text": "Nomor 8 Tahun 2024 tentang Pencalonan Gubernur dan \nWakil Gubernur, Bupati dan Wakil Bupati, Serta Walikota \ndan Wakil Walikota;",
+      "start_line": 1320,
+      "end_line": 1322
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Naskah Akademik dan Risalah Rapat Panitia",
+      "slug": "10-bukti-p-10-fotokopi-naskah-akademik-dan-risalah-rapat-panitia",
+      "text": "Kerja RUU Perubahan Kedua Atas Undang -Undang \nNomor 1 Tahun 2015 tentang Penetapan Peraturan \nPemerintah Pengganti Undang-Undang Nomor 1 Tahun \n2014 tentang Pemilihan Gubernur, Bupati, dan Walikota \nMenjadi Undang-Undang; \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1324,
+      "end_line": 1331
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun 1945), \nPasal 10 ayat (1) huruf a Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diub ah terakhir dengan Undang -Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang -Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang -Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076, selanjutnya disebut UU 48/2009), salah satu kewenangan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji undang -undang terhadap UUD NRI Tahun",
+      "start_line": 1333,
+      "end_line": 1346
+    },
+    {
+      "heading": "1945. Dengan demikian, Mahkamah berwenang untuk memeriksa, menga dili, dan",
+      "slug": "1945-dengan-demikian-mahkamah-berwenang-untuk-memeriksa-menga-dili-dan",
+      "text": "memutus pengujian Undang-Undang terhadap UUD NRI Tahun 1945. \n\n \n \n \n35 \n[3.2] Menimbang bahwa oleh karena permohonan a quo adalah pengujian \nkonstitusionalitas norma undang-undang, in casu pengujian materiil norma Pasal  7 \nayat (2) huruf e Undang-Undang Nomor 10 Tahun 2016 tentang Perubahan Kedua \nAtas Undang -Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan \nPemerintah Pengganti Undang -Undang Nomor 1 Tahun 2014 tentang Pemilihan \nGubernur, Bupati, dan Walikota Menjadi Undang -Undang (Lembaran Negara \nRepublik Indonesia Tahun 2016 Nomor 130, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5898, selanjutnya disebut UU 10/2016) terhadap UUD NRI Tahun \n1945 sehingga Mahkamah berwenang mengadili permohonan a quo. \nKedudukan Hukum para Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undang -undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak dan/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia (termasuk kelompok orang yang \nmempunyai kepentingan sama); \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai dengan \nperkembangan masyarakat dan prins ip Negara Kesatuan Republik Indonesia \nyang diatur dalam undang-undang;",
+      "start_line": 1348,
+      "end_line": 1373
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, para Pemohon dalam pengujian undang-undang terhadap \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedu dukan sebagaimana dimaksud pada \nhuruf a. \n\n \n \n \n36 \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi Nomor \n006/PUU-III/2005, bertanggal 31 Mei 2005, dan Putusan Mahkamah Konstitusi \nNomor 11/PUU -V/2007, bertanggal 20 September 2007, serta putusan -putusan \nselanjutnya berpendirian bahwa kerugian hak dan/atau kewenangan konstitusional \nsebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK harus memenuhi lima \nsyarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1376,
+      "end_line": 1398
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (khusus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-khusus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1400,
+      "end_line": 1401
+    },
+    {
+      "heading": "d. adanya hubungan sebab -akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU MK \ndan syarat-syarat kerugian hak dan/atau kewenangan konstitusional sebagaimana \ndikemukakan pada Paragraf [3.3] dan Paragraf  [3.4] di atas, selanjutnya Mahkamah \nakan mempertimbangkan kedudukan hukum para Pemohon yang apabila \ndirumuskan oleh Mahkamah, pada pokoknya sebagai berikut:",
+      "start_line": 1403,
+      "end_line": 1410
+    },
+    {
+      "heading": "1. Bahwa para Pemohon mengajukan pengujian norma Pasal 7 ayat (2) huruf e UU",
+      "slug": "1-bahwa-para-pemohon-mengajukan-pengujian-norma-pasal-7-ayat-2-huruf-e-uu",
+      "text": "10/2016, yang menyatakan sebagai berikut: \nCalon Gubernur dan Calon Wakil Gubernur, Calon Bupati dan Calon Wakil \nBupati, serta Calon Walikota dan Calon Wakil Walikota sebagaimana \ndimaksud pada ayat (1) harus memenuhi persyaratan sebagai berikut: \na. … \ne. berusia paling re ndah 30 (tiga puluh) tahun untuk Calon Gubernur dan \nCalon Wakil Gubernur serta 25 (dua puluh lima) tahun untuk Calon Bupati \ndan Calon Wakil Bupati serta Calon Walikota dan Calon Wakil Walikota; \nf. … \nterhadap Pasal 1 ayat (3), Pasal 18 ayat (4), dan Pasal 28D ayat (1) UUD NRI \nTahun 1945. \n\n \n \n \n37",
+      "start_line": 1412,
+      "end_line": 1427
+    },
+    {
+      "heading": "2. Bahwa para Pemohon adalah perseorangan warga negara Indonesia ,",
+      "slug": "2-bahwa-para-pemohon-adalah-perseorangan-warga-negara-indonesia",
+      "text": "mahasiswa, dan telah memiliki hak pilih dalam Pilkada 2024 yang dibuktikan \ndengan Kartu Tanda Penduduk (KTP) , Kartu Tanda Mahasiswa, dan telah \nterdaftar sebagai Pemilih Tetap dalam Pilkada 2024 [vide Bukti P -3, Bukti P -4, \ndan Bukti P-6];",
+      "start_line": 1429,
+      "end_line": 1432
+    },
+    {
+      "heading": "3. Bahwa menurut para Pemohon, dengan berlakunya Pasal 7 ayat (2) huruf e UU",
+      "slug": "3-bahwa-menurut-para-pemohon-dengan-berlakunya-pasal-7-ayat-2-huruf-e-uu",
+      "text": "10/2016 para Pemohon berhalangan mendapatkan penyele nggaraan Pilkada \nyang demokratis dan berkepastian hukum karena ketentuan norma pasal a quo \ntidak memuat norma terkait \"mekanisme penghitungan\" syarat minimum usia \ncalon kepala daerah sehingga menyebabkan proses pencalonan menjadi tidak \nberkepastian dan berlanjut pada proses yang tidak demokratis; \nBerdasarkan seluruh uraian tersebut di atas, para Pemohon adalah benar \nperorangan warga Negara Indonesia [vide Bukti P-3], berstatus sebagai mahasiswa \n[vide Bukti P -4], dan menerangkan telah terdaftar sebagai pemil ih dalam Pilkada",
+      "start_line": 1434,
+      "end_line": 1441
+    },
+    {
+      "heading": "2024. Dalam menguraikan kerugian hak konstitusionalnya, para Pemohon telah",
+      "slug": "2024-dalam-menguraikan-kerugian-hak-konstitusionalnya-para-pemohon-telah",
+      "text": "dapat menjelaskan secara spesifik dan aktual perihal anggapan kerugian hak \nkonstitusional dengan berlakunya norma yang dimohonkan pengujian, yakni para \nPemohon berh alangan mendapatkan penyelenggaraan Pilkada yang demokratis \ndan berkepastian hukum karena ketentuan norma pasal a quo tidak memuat kapan \n“penghitungan\" syarat minimum usia calon kepala daerah ditentukan sehingga \nmenyebabkan proses pencalonan menjadi tidak berkepastian dan sekaligus \nmengancam pemilihan yang demokratis. Lebih lanjut, para Pemohon telah dapat \nmenguraikan adanya hubungan sebab akibat ( causal verband ) antara anggapan \npotensi kerugian hak konstitusional dengan berlakunya norma Pasal 7 ayat (2) huruf \ne UU 10/2016 yakni adanya ketidakpastian hukum. Potensi kerugian hak \nkonstitusional dimaksud tidak akan terjadi apabila permohonan para Pemohon \ndikabulkan.  \nBerdasarkan uraian pertimbangan tersebut, terlepas dari terbukti atau tidak \nterbuktinya dalil para Pemohon perihal inkonstitusionalitas norma yang dimohonkan \npengujiannya terhadap UUD NRI Tahun 1945, Mahkamah berpendapat para \nPemohon memiliki kedudukan hukum untuk bertindak sebagai Pemohon dalam \npengujian norma Pasal 7 ayat (2) huruf e UU 10/2016. \n\n \n \n \n38 \n[3.6]  Menimbang bahwa oleh karena Mahkamah berwenang mengadili  \npermohonan a quo dan para Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai Pemohon dalam pengujian norma Pasal 7 ayat (2) huruf e UU 10/2016 \nmaka selanjutnya Mahkamah akan mempertimba ngkan permohonan provisi dan \npokok permohonan para Pemohon. \nDalam Provisi \n[3.7]  Menimbang bahwa para Pemohon mem ohon kepada Mahkamah agar \nperkara a quo diputus sebelum tanggal 27 Agustus 2024. Argumentasi permohonan \nprovisi demikian didasarkan pada timeline (tahapan) penyelenggaraan Pilkada 2024 \nsebagaimana tertuang dalam Peraturan Komisi Pemilihan Umum Nomor 2 Tahun \n2024 tentang Tahapan dan Jadwal Pemilihan Gubernur dan Wakil Gubernur, Bupati \ndan Wakil Bupati, Serta Walikota dan Wakil Walikota Tahun 2024 (PKPU 2/2024),",
+      "start_line": 1443,
+      "end_line": 1476
+    },
+    {
+      "heading": "di mana pendaftaran pasangan calon kepala daerah akan dilaksanakan pada",
+      "slug": "di-mana-pendaftaran-pasangan-calon-kepala-daerah-akan-dilaksanakan-pada",
+      "text": "tanggal 27 Agustus sampai dengan 29 Agustus 2024. Terhadap permohonan \ntersebut, karena norma Pasal 7 ayat (2) huruf e UU 10/2016 yang dimohonkan \npengujian telah jelas sehingga Mahkamah menilai tidak perlu menyelenggarakan \npersidangan untuk menghadirkan pihak-pihak sebagaimana termaktub dalam Pasal \n54 UU MK, bukan disebabkan pada pertimbangan atas tahapan penyelenggaraan \npilkada dimaksud. Oleh karenanya, permohonan provisi para Pemohon a quo  \nharuslah dinyatakan tidak beralasan menurut hukum.  \n[3.8]  Menimbang bahwa selain permohonan provisi sebagaimana telah diuraikan \npada Paragraf [3.7] di atas, pa ra Pemohon pun mengajukan hak ingkar terhadap \nHakim Konstitusi Anwar Usman dengan kesadaran diri untuk mengundurkan diri \natau tidak diikutsertakan dalam pemeriksaan dan pengambilan putusan perkara a \nquo. Terkait hal tersebut, Mahkamah dalam Persidangan Pem eriksaan \nPendahuluan dengan agenda perbaikan permohonan tanggal 25 Juli 2024 \nmenyampaikan bahwa dalam Rapat Permusyawaratan Hakim sebelumnya yang \nberkaitan dengan isu persyaratan usia minimum calon kepala daerah dan wakil \nkepala daerah, yaitu pada tanggal 17 Juli 2024 telah mendengar langsung dari \nHakim Konstitusi Anwar Usman untuk tidak akan ikut memutus permohonan yang \nberkaitan dengan syarat usia dimaksud. Hal demikian disampaikan Mahkamah agar \n\n \n \n \n39 \nsemua pihak tidak menaruh rasa curiga  terhadap proses pemeri ksaan perkara \nberkenaan dengan norma Pasal 7 ayat (2) huruf e UU 10/2016 [vide Risalah Sidang, \ntanggal 25 Juli 2024, hlm. 17].  Berdasarkan pertimbangan tersebut, permohonan \npara Pemohon ihwal hak ingkar Hakim Konstitusi Anwar Usman dimaksud menjadi \ntidak relevan lagi dipertimbangkan sehingga harus pula dinyatakan tidak beralasan \nmenurut hukum.   \nDalam Pokok Permohonan \n[3.9]  Menimbang bahwa dalam mendalilkan inkonstitusionalitas norma Pasal 7 \nayat (2) huruf e UU 10/2016 (selengkapnya dimuat dalam bagian Duduk Perkara), \npara Pemohon mengemukakan dalil -dalil permohonan yang apabila dirumuskan \noleh Mahkamah, pada pokoknya sebagai berikut: \na. Bahwa menurut para Pemohon, Pasal 7 ayat (1) dan Pasal 7 ayat (2) huruf e UU \n10/2016 sejatinya berada dalam satu tarikan nafas sehingga menjadi sangat \njelas bahwa ketentuan \"berusia paling rendah 30 (tiga puluh) tahun\" harus \nditerjemahkan sebagai syarat wajib yang harus dipenuhi oleh setiap warga \nnegara untuk ditetapkan sebagai calon gubernur dan calon wakil gubernur. \nBegitu pula ketentuan \"berusia paling rendah 25 (dua puluh lima) tahun\" harus \nditerjemahkan sebagai syarat wajib yang harus dipenuhi  oleh setiap warga \nnegara untuk ditetapkan sebagai calon bupati dan calon wakil bupati, serta calon \nwalikota dan calon wakil walikota; \nb. Bahwa menurut para Pemohon, tidak benar jika mekanisme penghitungan usia \ndalam norma a quo dihitung \"sejak pelantikan pas angan terpilih\" karena antara \npencalonan dan pelantikan merupakan dua frasa dalam undang -undang yang \nmengandung ketentuan berbeda dan pengaturannya secara sendiri -sendiri. \nDalam penalaran logika formal, syarat pencalonan tersebut, in casu syarat usia, \nmerupakan premis yang membentuk satu kesatuan dalam ketentuan \npencalonan. Dalam konteks ini, menjadi tidak benar jika premis tersebut dalam \npenafsirannya disandarkan pada ketentuan di luar dari konteks pengaturannya, \nyaitu dengan meletakkan d alam ketentuan atau dengan meletakkan pada \ntahapan pelantikan. Jikalau penghitungan syarat usia minimum diletakkan dalam \ntahapan pelantikan, hitungan demikian akan menjadi hitungan karet (tidak pasti), \nkarena dalam kondisi tertentu sangat mungkin ketika pe lantikan dilakukan, usia \n\n \n \n \n40 \nminimum belum terpenuhi. Terlebih, jikalau diletakkan dalam konteks tahapan, \npelantikan merupakan tahapan akhir dari semua tahapan penyelenggaraan \npilkada. Dengan menempatkan penghitungan syarat minimum usia kepala \ndaerah pada sesu atu yang tidak pasti dan tidak dapat diperkirakan, maka \npenerapan norma dalam pasal a quo secara inheren menjadi tidak pasti pula;",
+      "start_line": 1478,
+      "end_line": 1542
+    },
+    {
+      "heading": "c. Bahwa menurut para Pemohon, hampir semua ketentuan syarat minimum usia",
+      "slug": "c-bahwa-menurut-para-pemohon-hampir-semua-ketentuan-syarat-minimum-usia",
+      "text": "terkait dengan jabatan elected official  diberlakukan s ejak penetapan calon, \nbukan sejak pelantikan calon. Sehingga, dengan menggunakan penalaran logika \ndeduktif, seharusnya ketentuan syarat minimum usia bagi calon kepala daerah \njuga dihitung/diberlakukan sejak penetapan calon, bukan sejak pelantikan;   \nBahwa berdasarkan uraian dalil permohonan di atas, para Pemohon \nmemohon agar Mahkamah menyatakan Pasal 7 ayat (2) huruf e UU 10/2016 \nbertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai kekuatan hukum \nmengikat sepanjang tidak dimaknai \"berusia paling renda h 30 (tiga puluh) tahun \nuntuk Calon Gubernur dan Wakil Gubernur dan 25 (dua puluh lima) tahun untuk \nCalon Bupati dan Wakil Bupati atau Calon Walikota dan Wakil Walikota terhitung \nsejak penetapan Pasangan Calon.” \n[3.10]  Menimbang bahwa untuk membuktikan dalil -dalil permohonannya, para \nPemohon telah mengajukan alat bukti surat/tulisan yang diberi tanda Bukti P -1 \nsampai dengan Bukti P-10 yang telah disahkan dalam persidangan pada tanggal 25 \nJuli 2024 (selengkapnya dimuat dalam bagian Duduk Perkara). \n[3.11]  Menimbang bahwa oleh karena permohonan a quo telah jelas, Mahkamah \nberpendapat, sebagaimana telah pula dipertimbangkan pada Paragraf [3.7], tidak \nterdapat urgensi maupun kebutuhan untuk mendengar keterangan pihak -pihak \nsebagaimana dimaksud dalam Pasal 54 UU MK; \n[3.12] Menimbang bahwa selanjutnya, Mahkamah akan mempertimbangkan \ndalil pokok permohonan para Pemohon berkenaan dengan pengujian norma Pasal \n7 ayat (2) huruf e UU 10/2016. Namun demikian, sebelum mempertimbangkan lebih \nlanjut pokok permohonan para Pemohon berkenaan dengan pengujian norma Pasal \n7 ayat (2) huruf e UU 10/2016 tersebut, Mahkamah terlebih dahulu akan \n\n \n \n \n41 \nmempertimbangkan permohonan para Pemohon berkaitan dengan ketentuan \nkeberlakuan Pasal 60 UU MK dan Pasal 78 Peraturan Mahkamah Konstitusi Nomor \n2 Tahun 2021 tentang Tata Beracara Dalam Perkara Pengujian Undang -Undang \n(PMK 2/2021), sehingga terhadap norma a quo dapat dimohonkan kembali. \nPasal 60 UU MK menyatakan: \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang -\nundang yang telah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan jika \nmateri muatan dalam Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945 yang dijadikan dasar pengujian berbeda. \nPasal 78 PMK 2/2021 menyatakan: \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam UU yang \ntelah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan jika \nmateri muatan dalam UUD 1945 yang dijadikan dasar pengujian berbeda \natau terdapat alasan permohonan yang berbeda. \nTerhadap persoalan tersebut Mahkamah mempertimbangkan bahwa  \nketentuan Pasal 7 ayat (2) huruf e UU 10/2016  pernah diajukan sebelumnya dan \ntelah diputus dalam Putusan Mahkamah Konstitusi Nomor 58/PUU -XVII/2019 yang \ndiucapkan dalam sidang pleno terbuka untuk umum pada tanggal 11 Desember \n2019, dengan amar putusan menolak permohonan para Pemohon.  \nSetelah Mahkamah mempelajari secara saksama, Perkara Nomor 58/PUU-\nXVII/2019 menggunakan dasar pengujian Pasal 18 ayat (4), Pasal 28D ayat (1) dan \nayat (3), serta Pasal 28I ayat (2) UUD NRI Tahun 1945. Sementara itu, permohonan \na quo menggunakan dasar pengujian Pasal 1 ayat (3), Pasal 18 ayat (4), dan Pasal \n28D ayat (1)  UUD NRI Tahun 1945. Berkenaan dengan alasan pengujian \nkonstitusionalitas yang digunakan, dalam Perkara Nomor 58/PUU-XVII/2019 alasan \npengujian pokoknya ihwal pembatasan usia calon kepala daerah mengurangi \nmakna dari pemilihan yang demokratis, tidak memberikan perlakuan yang sama",
+      "start_line": 1544,
+      "end_line": 1601
+    },
+    {
+      "heading": "di hadapan hukum, dan bersifat diskriminatif . Sementara itu, alasan konstitusional",
+      "slug": "di-hadapan-hukum-dan-bersifat-diskriminatif-sementara-itu-alasan-konstitusional",
+      "text": "dalam permohonan a quo adalah perihal norma Pasal 7 ayat (2) huruf e UU 10/2016 \ntidak memuat kapan “penghitungan\" syarat minimum usia calon kepala daerah  \nditentukan sehingga menyebabkan proses pencalonan kepala daerah dan wakil \nkepala daerah menjadi tidak berkepastian hukum dan tidak demokratis. \n\n \n \n \n42 \nBerdasarkan uraian tersebut di atas, terdapat perbedaan dasar pengujian \nkonstitusionalitas antara Perkara Nomor 58/PUU-XVII/2019 dengan dasar pengujian \ndalam permohonan a quo,  yaitu norma Pasal 1 ayat (3) UUD NRI Tahun 1945 tidak \ndijadikan sebagai dasar pengujian dalam Perkara Nomor 58/PUU-XVII/2019. Selain \nitu, terdapat perbedaan alasan konstitusional dalam permohonan Perkara Nomor \n58/PUU-XVII/2019 dengan alasan konstitusional permohonan a quo terutama \nberkenaan dengan  penentuan kapan penghitungan batasan usia minimum calon \nkepala daerah  dalam penyelenggaraan pilkada . Oleh karena itu , terlepas secara \nsubstansial permohonan para Pemohon beralasan menurut hukum atau tidak, \nberdasarkan ketentuan Pasal 60 UU MK dan Pasal 78 PMK 2/2021, dengan \nterdapatnya dasar dan/atau alasan pengujian yang berbeda maka secara formal \npermohonan a quo dapat diajukan kembali. \n[3.13]  Menimbang bahwa oleh karena permohonan para Pemohon berdasarkan \nPasal 60 UU MK dan Pasal 78 PMK 2/2021 sepanjang berkenaan dengan Pasal 7 \nayat (2) huruf e UU 10/2016 dapat diajukan kembali, selanjutnya Mahkamah akan \nmempertimbangkan konstitusionalitas norma pasal tersebut lebih lanjut.  \n[3.14] Menimbang bahwa para Pemohon menguji konstitusionalitas norma \nPasal 7 ayat (2) huruf e UU 10/2016 yang menyatakan, “(2) Calon Gubernur dan \nCalon Wakil Gubernur, Calon Bupati dan Calon Wakil B upati, serta Calon Walikota \ndan Calon Wakil Walikota sebagaimana dimaksud pada ayat (1) harus memenuhi \npersyaratan sebagai berikut: e. berusia paling rendah 30 (tiga puluh) tahun untuk \nCalon Gubernur dan Calon Wakil Gubernur serta 25 (dua puluh lima) tahun  untuk \nCalon Bupati dan Calon Wakil Bupati serta Calon Walikota dan Calon Wakil \nWalikota”. Secara normatif, norma a quo mengandung substansi bahwa untuk dapat \ndiajukan sebagai calon, yaitu: calon gubernur dan calon wakil gubernur harus \nberusia paling rendah 30 (tiga puluh) tahun; dan calon bupati dan calon wakil bupati, \nserta calon walikota dan calon wakil walikota harus berusia paling rendah 25 (dua \npuluh lima) tahun. Berkenaan dengan norma Pasal 7 ayat (2) huruf e UU 10/2016    \na quo , para Pemohon mendalilkan norma dimaksud inkonstitusional secara \nbersyarat sepanjang tidak dimaknai “ berusia paling rendah 30 (tiga puluh) tahun \nuntuk calon gubernur dan calon wakil gubernur; dan berusia paling rendah 25 (dua \npuluh lima) tahun untuk calon bupati dan calon wakil bupati serta calon walikota dan \n\n \n \n \n43 \ncalon wakil walikota terhitung sejak penetapan pasangan calon”. Merujuk konstruksi \npemaknaan baru norma Pasal 7 ayat (2) huruf e UU 10/2016 yang dimohonkan, \nyaitu dengan menambahkan frasa “terhitung sejak penetapan pasangan calon”, \npara Pemohon sama sekali tidak keberatan atau tidak mempersoalkan batasan usia \nminimum untuk dapat diajukan sebagai calon gubernur dan calon wakil gubernur \n[yaitu berusia paling rendah 30 (tiga puluh) tahun]; dan batasan usia minimum untuk \ndapat diajukan sebagai calon bupati dan calon wakil bupati, serta calon walikota dan \ncalon wakil walikota [yaitu berusia paling rendah 25 (dua puluh lima) tahun]. Secara \nkeseluruhan, sebagaimana didalilkan oleh para Pemohon, norma Pasal 7 ayat (2) \nhuruf e UU 10/2016 menjadi inkonstitusional jika tidak dimaknai atau ditambahkan \nfrasa “terhitung sejak penetapan pasangan calon”. Secara tekstual, pemaknaan \nbaru yang dimohonkan para Pemohon, disebabkan tidak adanya pengaturan secara \neksplisit sejak kapan terhit ung atau dihitung oleh penyelenggara pemilihan kepala \ndaerah batas usia minimum 30 (tiga puluh) tahun bagi calon gubernur dan calon \nwakil gubernur atau batas usia minimum 25 (dua puluh lima) tahun bagi calon bupati \ndan calon wakil bupati, serta calon walikota dan calon wakil walikota dimaksud.  \n[3.15] Menimbang bahwa ihwal pemaknaan baru, yaitu dengan cara menambah \nfrasa “terhitung sejak penetapan pasangan calon” untuk dapat menilai norma Pasal \n7 ayat (2) huruf e UU 10/2016 tidak bertentangan dengan UUD NRI Tahun 1945 \n(konstitusional), Mahkamah mempertimbangkan sebagai berikut: \n[3.15.1] Bahwa apabila dibaca secara saksama pengaturan batas usia minimum, \nterutama yang membedakan usia minimum bagi calon gubernur dan calon wakil \ngubernur [berusia paling rendah 30 (tiga puluh) tahun]; dan calon bupati dan calon \nwakil bupati, serta calon walikota dan calon wakil walikota [berusia paling rendah 25 \n(dua puluh lima) tahun], pengaturan syarat usia minimum calon dimaksud tela h \ndiatur dalam empat undang-undang dan satu peraturan pemerintah pengganti \nundang-undang (perppu), sebagai berikut:",
+      "start_line": 1603,
+      "end_line": 1675
+    },
+    {
+      "heading": "1. Pasal 13 ayat (1) huruf e Undang -Undang Nomor 22 Tahun 2014 tentang",
+      "slug": "1-pasal-13-ayat-1-huruf-e-undang-undang-nomor-22-tahun-2014-tentang",
+      "text": "Pemilihan Gubernur, Bupati, dan Walikota (UU 22/2014) menyatakan: \n(1) Warga negara Republik Indonesia yang dapat ditetapkan menjadi calon \ngubernur, calon bupati, dan calon walikota adalah yang memenuhi \npersyaratan sebagai berikut: \n\n \n \n \n44 \ne. berusia paling rendah 30 (tiga puluh) tahun untuk calon gubernur dan \n25 (dua puluh lima) tahun untuk calon bupati dan calon walikota;",
+      "start_line": 1677,
+      "end_line": 1687
+    },
+    {
+      "heading": "2. Pasal 7 huruf e Peraturan Pemerintah Pengganti Undang -Undang Nomor 1",
+      "slug": "2-pasal-7-huruf-e-peraturan-pemerintah-pengganti-undang-undang-nomor-1",
+      "text": "Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota (Perppu 1/2014) \nmenyatakan: \nWarga negara Indonesia yang dapat menjadi Calon Gubernur, Calon Bupati, \ndan Calon Walikota adalah yang memenuhi persyaratan sebagai berikut: \ne. berusia paling rendah 30 (tiga puluh) tahun untuk Calon Gubernur dan 25 \n(dua puluh lima) tahun untuk Calon Bupati dan Calon Walikota;",
+      "start_line": 1689,
+      "end_line": 1694
+    },
+    {
+      "heading": "3. Pasal 7 huruf e Undang -Undang Nomor 1 Tahun 2015 tentang Penetapan",
+      "slug": "3-pasal-7-huruf-e-undang-undang-nomor-1-tahun-2015-tentang-penetapan",
+      "text": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang \nPemilihan Gubernur, Bupati, dan Walikota Menjadi Undang-Undang (UU 1/2015) \nmenyatakan:  \nWarga negara Indonesia yang dapat menjadi Calon Gubernur, Calon Bupati, \ndan Calon Walikota adalah yang memenuhi persyaratan sebagai berikut: \ne. berusia paling rendah 30 (tiga puluh) tahun untuk Calon Gubernur dan 25 \n(dua puluh lima) tahun untuk Calon Bupati dan Calon Walikota;",
+      "start_line": 1696,
+      "end_line": 1702
+    },
+    {
+      "heading": "4. Pasal 7 huruf e Undang-Undang Nomor 8 Tahun 2015 tentang Perubahan Atas",
+      "slug": "4-pasal-7-huruf-e-undang-undang-nomor-8-tahun-2015-tentang-perubahan-atas",
+      "text": "Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah \nPengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, \nBupati, dan Walikota Menjadi Undang-Undang (UU 8/2015) menyatakan:  \nWarga negara In donesia yang dapat menjadi Calon Gubernur dan Calon \nWakil Gubernur, Calon Bupati dan Calon Wakil Bupati, serta Calon Walikota \ndan Calon Wakil Walikota adalah yang memenuhi persyaratan sebagai \nberikut: \ne. Berusia paling rendah 30 (tiga puluh) tahun untuk Ca lon Gubernur dan \nCalon Wakil Gubernur serta 25 (dua puluh lima) tahun untuk Calon Bupati \ndan Calon Wakil Bupati serta Calon Walikota dan Calon Wakil Walikota;",
+      "start_line": 1704,
+      "end_line": 1713
+    },
+    {
+      "heading": "5. Pasal 7 ayat (2) huruf e UU 10/2016 menyatakan:",
+      "slug": "5-pasal-7-ayat-2-huruf-e-uu-10-2016-menyatakan",
+      "text": "(2) Calon Gubernur dan Calon Wakil Gubernur, Calon Bupati dan Calon Wakil \nBupati, serta Calon Walikota dan Calon Wakil Walikota sebagaimana \ndimaksud pada ayat (1) harus memenuhi persyaratan sebagai berikut:   \ne. berusia paling rendah 30 (tiga puluh) tahun untuk Calon Gubernur dan \nCalon Wakil Gubernur serta 25 (dua puluh lima) tahun untuk Calon \nBupati dan Calon Wakil Bupati serta Calon Walikota dan Calon Wakil \nWalikota \n  Berdasarkan pengaturan sejumlah ketentuan peraturan perundang -\nundangan tersebut di atas,  tidak pernah terjadi perubahan batas persyaratan usia \nminimum untuk menjadi calon gubernur dan calon wakil gubernur [yaitu berusia \n\n \n \n \n45 \npaling rendah 30 (tiga puluh) tahun]; dan calon bupati dan calon wakil bupati, serta \ncalon walikota dan calon wakil walikota  [yaitu berusia paling rendah 25 (dua puluh \nlima) tahun]. Selain itu, semua norma yang mensyaratkan batas usia minimum yang \ndiatur dalam empat undang-undang dan perppu tersebut sama sekali tidak pernah \nmencantumkan/mengatur secara eksplisit atau terang ben derang perihal frasa \n“terhitung sejak penetapan pasangan calon” dalam menentukan batasan untuk \nmenghitung usia minimum dimaksud.  \n[3.15.2] Bahwa selain pendekatan sejarah pengaturan (historical approach) di atas, \nsecara sistematis (systematic approach) , batasan usia minimum untuk dapat \ndiajukan sebagai calon gubernur dan calon wakil gubernur, dan calon bupati dan \ncalon wakil bupati, serta calon walikota dan calon wakil walikota selalu ditempatkan \ndalam bab yang mengatur mengenai “persyaratan calon”. Dalam hal ini, UU 22/2014 \nmengatur dalam Bab IV “Peserta Pemilihan dan Persyaratan Calon; Perppu 1/2014 \nmengatur dalam Bab III “Persyaratan Calon”; UU 1/2015 mengatur dalam Bab III \n“Persyaratan Calon”; UU 8/2015 mengatur dalam Bab III “Persyaratan Calon”; dan \nUU 10/2016 mengatur dalam Bab III “Persyaratan Calon”. Sete lah membaca \nsistematika 4 (empat) undang-undang dan perppu tersebut, persyaratan batas usia \nminimum selalu diatur atau ditempatkan pada kelompok bab yang mengatur ihwal \npersyaratan calon, bukan dalam bab lain.  \n  Pendekatan sistematis tersebut tidak cukup dengan hanya meletakkannya \ndalam struktur sistematis ketentuan peraturan perundang -undangan, tetapi juga \ndapat dibaca dan dipahami dalam konteks tahapan pemilihan kepala daerah. Dalam \nhal ini, norma Pasal 5 ayat (3) UU 8/2015 menentukan tahapan penyelengga raan \npemilihan kepala daerah dan wakil kepala daerah meliputi:  \na. pengumuman pendaftaran pasangan calon gubernur dan calon wakil \ngubernur, pasangan calon bupati dan calon wakil bupati, serta pasangan \ncalon walikota dan calon wakil walikota;  \nb. pendaftaran pasangan calon gubernur dan calon wakil gubernur, pasangan \ncalon bupati dan calon wakil bupati, serta pasangan calon walikota dan calon \nwakil walikota;",
+      "start_line": 1715,
+      "end_line": 1759
+    },
+    {
+      "heading": "c. penelitian persyaratan calon gubernur dan calon wakil gubernur, calon bupati",
+      "slug": "c-penelitian-persyaratan-calon-gubernur-dan-calon-wakil-gubernur-calon-bupati",
+      "text": "dan calon wakil bupati, serta calon walikota dan calon wakil walikota;",
+      "start_line": 1761,
+      "end_line": 1761
+    },
+    {
+      "heading": "d. penetapan pasangan calon gubernur dan calon wakil gubernur, pasangan",
+      "slug": "d-penetapan-pasangan-calon-gubernur-dan-calon-wakil-gubernur-pasangan",
+      "text": "calon bupati dan calon wakil bupati, serta pasangan calon walikota dan calon \nwakil walikota;  \ne. pelaksanaan kampanye;  \nf. pelaksanaan pemungutan suara;  \n\n \n \n \n46 \ng. penghitungan suara dan rekapitulasi hasil penghitungan suara;  \nh. penetapan calon terpilih;",
+      "start_line": 1763,
+      "end_line": 1773
+    },
+    {
+      "heading": "i. penyelesaian pelanggaran dan sengketa hasil Pemilihan; dan",
+      "slug": "i-penyelesaian-pelanggaran-dan-sengketa-hasil-pemilihan-dan",
+      "text": "j. pengusulan pengesahan pengangkatan calon terpilih. \nBerdasarkan uraian sebagaimana dikemukakan di atas, t erdapat urutan \nrangkaian atau tahapan kegiatan yang berada dalam satu kelindan, yaitu tahapan \npendaftaran, penelitian persyaratan calon, dan penetapan calon kepala daerah dan \nwakil kepala daerah. Karena berada dalam satu kelindan, semua yang menyangkut \npersyaratan harus dipenuhi sebelum dilakukan penetapan calon. Artinya, dalam \nbatas penalaran yang wajar, penelitian keterpenuhan persyaratan tersebut harus \ndilakukan sebelum tahapan penetapan pasangan calon. Dalam hal ini, semua syarat \nsebagaimana diatur dala m Pasal 7 UU 10/2016 harus dipastikan telah terpenuhi \nsebelum penyelenggara, in casu KPU, menetapkan calon kepala daerah dan wakil \nkepala daerah. Artinya lagi, tahapan-tahapan berikutnya, seperti pemungutan suara; \npenghitungan suara dan rekapitulasi hasil penghitungan suara; dan penetapan \ncalon terpilih bukan merupakan tahapan yang dapat dijadikan sebagai titik atau \nbatas untuk menilai dan menetapkan keterpenuhan syarat sebagai calon kepala \ndaerah dan wakil kepala daerah.    \n[3.15.3] Bahwa dalam tataran praktik selama ini, setidaknya sejak pemilihan kepala \ndaerah dan wakil kepala daerah dilaksanakan secara langsung oleh rakyat, titik atau \nbatas untuk menentukan keterpenuhan syarat dilakukan dalam kelindan rangkaian \nsebagaimana dikemukakan di atas. Artinya, batas penentuan keterpenuhan syarat \ndimaksud dilakukan pada tahapan penetapan pasanga n calon kepala daerah dan \nwakil kepala daerah. Fakta empirik yang membuktikan penentuan keterpenuhan \npersyaratan dihitung/ditentukan pada tahapan tersebut dapat ditelisik dari rangkaian \npelaksanaan tahapan yang dilakukan oleh penyelenggara pemilihan kepala daerah \nselama ini. Dalam hal ini, misalnya, sejak pemilihan kepala daerah dan wakil kepala \ndaerah yang diselenggarakan serentak terhitung mulai tahun 2015, 2017, 2018, dan \n2020, titik atau batas penentuan keterpenuhan persyaratan calon selalu dilakukan \npada tahapan penetapan pasangan calon kepala daerah dan wakil kepala daerah.    \n[3.15.4] Bahwa selain ketiga pendekatan di atas, Mahkamah perlu membandingkan \n(comparative approach) titik atau batas penentuan keterpenuhan persyaratan calon \nkepala daerah dan c alon wakil kepala daerah dengan titik atau batas penentuan \n\n \n \n \n47 \nketerpenuhan persyaratan calon anggota legislatif serta calon presiden dan calon \nwakil presiden. Dalam hal ini, penentuan keterpenuhan syarat sebagai peserta \npemilu calon anggota DPR/DPRD dilakukan  pada tahapan penetapan peserta \npemilihan umum. Misalnya, penetapan calon anggota DPR, DPD, dan DPRD \nditentukan ketika penetapan daftar calon tetap. Begitu pula, dalam pemilihan \npresiden dan wakil presiden, keterpenuhan syarat calon ditentukan ketika \npenetapan sebagai pasangan calon. Artinya, segala persyaratan yang harus \ndipenuhi pada tahapan pencalonan harus tuntas ketika ditetapkan sebagai calon \ndan harus selesai sebelum penyelenggaraan tahapan pemilihan berikutnya.  \n[3.16] Menimbang bahwa  setelah melaku kan berbagai pendekatan untuk \nmemahami secara komprehensif perihal penentuan titik atau batas keterpenuhan \nsyarat calon sebagaimana diuraikan dalam pertimbangan hukum pada Paragraf \n[3.15] di atas, penting bagi Mahkamah untuk menegaskan beberapa hal berikut  \nuntuk dijadikan sebagai pedoman dan dasar hukum bagi penyelenggara pemilihan \ndalam menilai dan/atau menetapkan keterpenuhan persyaratan usia minimum calon \nkepala daerah dan wakil kepala daerah, sebagai berikut: \n[3.16.1] Bahwa secara tekstual, norma Pasal 7 ayat (2) huruf e UU 10/2016 adalah \nbenar tidak mencantumkan secara eksplisit ihwal frasa “terhitung sejak penetapan \npasangan calon”. Namun, semua pengaturan yang terkait dengan penyelenggaraan \npemilihan umum, baik pemilihan calon anggota DPR/DPD/DPRD maupun pemilihan \ncalon presiden dan wakil presiden tidak mencantumkan frasa dimaksud. Sekalipun \ntidak mencantumkan secara eksplisit, secara historis, sistematis, praktik selama ini, \ndan perbandingan dengan pemilihan lain, penentuan batas usia minimum menjadi \nkepala daerah dan wakil kepala daerah selalu dihitung atau menggunakan titik atau \nbatas sejak penetapan calon. Penentuan titik atau batas demikian telah menjadi \nsemacam postulat dalam penyelenggaraan pemilihan sehingga tidak bisa dibuatkan \npengecualian dalam kontestasi pemilihan kepala daerah dan wakil kepala daerah. \nArtinya, jikalau pemilihan kepala daerah dan wakil kepala daerah dikecualikan, yaitu \npenentuan titik atau batas usia minimum bagi calon kepala daerah dan wakil kepala \ndaerah dibenarkan pada tahapan setelah penetapan calon, sama saja Mahkamah \nmembenarkan anomali dalam hukum pemilihan umum. Apabila diletakkan dalam \nharmonisasi dan sinkronisasi hukum pemilihan umum, peluang atau kemungkinan  \n\n \n \n \n48 \nadanya anomali dalam pemilihan kepala daerah harus dicegah karena tidak terdapat \nlagi perbedaan rezim dalam pemilihan, yaitu perbedaan antara rezim pemerintahan \ndaerah dan rezim pemilihan umum.  \n[3.16.2] Bahwa pengaturan mengenai persyaratan batas usia minimum calon \nkepala daerah tidak mengalami peru bahan mulai dari berlakunya UU 22/2014 \nsampai dengan UU 10/2016, yaitu berusia paling rendah 30 (tiga puluh) tahun untuk \ncalon gubernur dan calon wakil gubernur serta 25 (dua puluh lima) tahun untuk calon \nbupati dan calon wakil bupati serta calon walikota dan calon wakil walikota. Terkait \ndengan syarat usia dimaksud, selama tidak ada ketentuan yang mengatur mengenai \npembatasan usia dalam UUD NRI Tahun 1945, hal demikian berarti konstitusi atau \nhukum dasar menyerahkan penentuan batasan usia tersebut kepada p embentuk \nundang-undang untuk mengaturnya. Dengan kata lain, batasan persyaratan usia \nminimum dianggap sebagai bagian dari kebijakan hukum pembentuk undang -\nundang. Oleh karena itu, persyaratan usia minimum untuk pengisian jabatan dalam \npemerintahan, termasu k jabatan yang diisi melalui pemilihan umum dapat \nditentukan berbeda satu dengan yang lainnya.  \n[3.16.3] Bahwa sebagaimana telah diuraikan dalam pendekatan sistematis tersebut",
+      "start_line": 1775,
+      "end_line": 1863
+    },
+    {
+      "heading": "di atas, ketentuan mengenai pembatasan persyaratan usia minimum calon kepala",
+      "slug": "di-atas-ketentuan-mengenai-pembatasan-persyaratan-usia-minimum-calon-kepala",
+      "text": "daerah dan calon wakil kepala daerah berada dalam bab mengenai “Persyaratan \nCalon”. Berkenaan dengan hal tersebut , Undang-Undang Nomor 12 Tahun 2011 \ntentang Pembentukan Peraturan Perundang-Undangan (UU 12/2011) menjelaskan \nperihal batang tubuh peraturan perundang -undangan memuat semua materi atau \nmuatan peraturan perundang -undangan yang dirumuskan dalam pasal atau \nbeberapa pasal. Pengelompokan materi muatan tersebut dirumuskan secara \nlengkap sesuai dengan kesamaan materi yang bersangkutan. Jika terdapat materi \nmuatan yang diperlukan tetapi tidak dapat dikelompokkan dalam ruang lingkup \npengaturan yang sudah ada, materi  tersebut dimuat dalam bab “Ketentuan Lain -\nLain”. Pengelompokan materi muatan peraturan perundang -undangan dapat \ndisusun secara sistematis dalam buku, bab, bagian, dan paragraf. Pengelompokan \nmateri muatan dalam buku, bab, bagian, dan paragraf dilakukan at as dasar \nkesamaan materi [vide Lampiran II UU 12/2011 angka 61 -63]. Karena \npengelompokan materi tersebut, menjadi tidak tepat atau tidak relevan meletakkan \n\n \n \n \n49 \npenilaian keterpenuhan persyaratan usia minimum, misalnya pada tahapan \n“pemungutan suara”, “penetapan calon terpilih” atau pada tahapan “pelantikan”.  \n  Berdasarkan Penjelasan Lampiran II UU 12/2011 tersebut, bab mengenai \n“Persyaratan Calon” memuat materi yang sama yakni terkait dengan syarat -syarat \nyang harus dipenuhi dalam hal seseorang hendak mencalonkan diri atau dicalonkan \nsebagai calon kepala daerah dan calon wakil kepala daerah. Setelah dilakukan \npenelitian, persyaratan minimum tersebut harus dipenuhi ketika seseorang \nditetapkan sebagai calon. Tidak hanya usia minimum, semua syarat dalam Pasal 7 \nayat (2) UU 10/2016 harus dipenuhi pada tahapan pencalonan. Dalam  hal ini, \nsebagaimana permohonan a quo, ketentuan Pasal 7 ayat (2) huruf e UU 10/2016 \nmengenai syarat minimum usia calon kepala daerah harus dipenuhi apabila \nseseorang mendaftar untuk mencalonkan diri atau dicalonkan sebagai calon kepala \ndaerah dan calon wakil kepala daerah . Bahkan, Pasal 42 ayat (3) UU 10/2016 \nsecara eksplisit menentukan calon gubernur dan calon wakil gubernur; calon bupati \ndan calon wakil bupati, serta calon walikota dan calon wakil walikota harus \nmemenuhi persyaratan sebagaimana dimaksud  dalam Pasal 7 UU 10/2016”. \nKonstruksi norma dimaksud telah jelas mengamanatkan persyaratan sebagaimana \ndimaksud dalam Pasal 7 UU 10/2016, termasuk dalam hal ini persyaratan usia \nminimum, harus dipenuhi calon kepala daerah dan calon wakil kepala daerah ketika \nmendaftarkan diri sebagai calon. Kemudian oleh penyelenggara pemilihan, setelah \ndilakukan penelitian ihwal keterpenuhan persyaratan dimaksud, ditetapkan sebagai \ncalon.  \n[3.16.4] Bahwa terkait dengan pertimbangan hukum sebagaimana diuraikan pada \nSub-paragraf [3.16.1], [3.16.2], dan [3.16.3] di atas, sebagai penyelenggara, KPU \nmenetapkan batas usia minimum calon kepala daerah dan calon wakil kepala \ndaerah sesuai dengan batas usia minimum yang diatur dalam undang -undang. \nBerkenaan dengan ini, penting bagi Mahkamah menegaskan, titik atau batas untuk \nmenentukan usia minimum dimaksud dilakukan pada proses pencalonan, yang \nbermuara pada penetapan calon kepala daerah dan calon wakil kepala daerah. \nPerihal demikian, dalam posisi sebagai penyelenggara, bilamana KPU memerlukan \nperaturan teknis untuk menyelenggarakan materi dalam norma Pasal 7 ayat (2) \nhuruf e UU 10/2016, peraturan teknis dimaksud dibuat sesuai dengan materi dalam \nnorma a quo. Tidak hanya itu, sesuai dengan prinsip erga omnes, pertimbangan \n\n \n \n \n50 \nhukum dan pemaknaan Mahkamah terhadap norma Pasal 7 ayat (2) huruf e UU \n10/2016 mengikat semua penyelenggara, kontestan pemilihan, dan semua warga \nnegara. Dengan demikian, jika penyelenggara tidak mengikuti pertimbangan dalam \nputusan Mahkamah a quo, sebagai pemegang  kekuasaan kehakiman yang \nberwenang menyelesaikan sengketa hasil pemilihan, calon kepala daerah dan calon \nwakil kepala daerah yang tidak memenuhi syarat dan kondisi dimaksud, berpotensi \nuntuk dinyatakan tidak sah oleh Mahkamah.  \n[3.17] Menimbang bahwa  setelah Mahkamah mempertimbangkan secara utuh \ndan komprehensif berdasarkan pada pendekatan historis, sistematis, praktik selama \nini, dan perbandingan, Pasal 7 ayat (2) huruf e UU 10/2016 merupakan norma yang \nsudah jelas, terang -benderang, bak basuluh mato hari, cetho welo-welo, sehingga \nterhadapnya tidak dapat dan tidak perlu diberikan atau ditambahkan makna lain atau \nberbeda selain dari yang dipertimbangkan dalam putusan a quo, yaitu persyaratan \ndimaksud harus dipenuhi pada proses pencalonan yang bermuara pada penetapan \ncalon. Dalam batas penalaran yang wajar, menambahkan pemaknaan baru pada \nPasal 7 ayat (2) huruf e UU 10/2016, termasuk seperti yang dimohonkan para \nPemohon, justru akan memosisikan norma a quo menjadi berbeda sendiri (anomali)",
+      "start_line": 1865,
+      "end_line": 1938
+    },
+    {
+      "heading": "di antara semua norma dalam lingkup persyaratan calon kepala daerah dan calon",
+      "slug": "di-antara-semua-norma-dalam-lingkup-persyaratan-calon-kepala-daerah-dan-calon",
+      "text": "wakil kepala daerah. Bilamana terhadap norma Pasal 7 ayat (2) huruf e UU 10/2016 \nditambahkan makna seperti yang dimohonkan para Pemohon, norma lain yang \nberada dalam rumpun syarat calon berpot ensi dimaknai tidak harus dipenuhi saat \npendaftaran, penelitian, dan penetapan sebagai calon kepala daerah dan calon \nwakil kepala daerah. Kalau kondisi demikian terjadi, pemaknaan baru dimaksud \npotensial menimbulkan ketidakpastian hukum terhadap syarat lai n yang diatur \ndalam Pasal 7 ayat (2) UU 10/2016. Artinya, pemaknaan tersebut tidak sejalan \ndengan jaminan kepastian hukum sebagaimana diatur dalam Pasal 28D ayat (1) \nUUD NRI Tahun 1945.  \n[3.18]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum",
+      "start_line": 1940,
+      "end_line": 1949
+    },
+    {
+      "heading": "di atas telah ternyata norma Pasal 7 ayat (2) huruf e UU 10/2016 yang mengatur",
+      "slug": "di-atas-telah-ternyata-norma-pasal-7-ayat-2-huruf-e-uu-10-2016-yang-mengatur",
+      "text": "mengenai syarat minimum usia calon kepala daerah dan calon wakil kepala daerah \ntelah memberikan kepastian hukum yang adil sebagaimana dinyatakan dalam Pasal \n\n \n \n \n51 \n28D ayat (1) UUD NRI Tahun 1945, bukan seperti yang didalilkan oleh para \nPemohon. Dengan demikian, dalil -dalil para Pemohon adalah tidak beralasan \nmenurut hukum untuk seluruhnya. \n[3.19]  Menimbang bahwa t erhadap hal -hal selain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1951,
+      "end_line": 1962
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan",
+      "start_line": 1964,
+      "end_line": 1964
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2]  Para Pemohon memiliki kedudukan hukum untuk mengajukan permohonan           \na quo; \n[4.3] Permohonan provisi para Pemohon tidak beralasan menurut hukum; \n[4.4]  Pokok permohonan para Pemohon tidak beralasan menurut hukum untuk \nseluruhnya. \nBerdasarkan Undang -Undang Dasar Negara Republik Indonesia Tahun \n1945, Undang -Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang -\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan K ehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076); \n \n\n \n \n \n52",
+      "start_line": 1966,
+      "end_line": 1986
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nDalam Provisi \n Menolak permohonan provisi para Pemohon. \nDalam Pokok Permohonan \n Menolak permohonan para Pemohon untuk seluruhnya. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh delapan \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra,       \nM. Guntur Hamzah , Arsul Sani, Arief Hidayat, Enny Nurbaningsih, Daniel Yusmic \nP. Foekh, dan Ridwan Mansyur, masing -masing sebagai Anggota, pada hari  \nKamis, tanggal satu, bulan Agustus, tahun  dua ribu dua puluh empat , yang \ndiucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk u mum pada \nhari Selasa, tanggal dua puluh, bulan Agustus, tahun dua ribu dua puluh empat, \nselesai diucapkan pukul 10.13 WIB oleh tujuh Hakim Konstitusi yaitu Suhartoyo \nselaku Ketua merangkap Anggota, Saldi Isra, M. Guntur Hamzah, Arsul Sani, Arief \nHidayat, Enny Nurbaningsih, dan Daniel Yusmic P. Foekh, masing-masing sebagai \nAnggota, dengan dibantu oleh Rizki Amalia sebagai Panitera Pengga nti, serta \ndihadiri oleh para Pemohon dan/atau kuasanya, Dewan Perwakilan Rakyat atau \nyang mewakili, dan Presiden atau yang mewakili. \nKETUA, \n                                               ttd. \nSuhartoyo \n \n\n \n \n \n53 \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra  \nttd. \nM. Guntur Hamzah \nttd. \nArsul Sani  \nttd. \nArief Hidayat \nttd. \nEnny Nurbaningsih \nttd. \nDaniel Yusmic P. Foekh \nPANITERA PENGGANTI, \nttd. \nRizki Amalia",
+      "start_line": 1988,
+      "end_line": 2032
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "A. Fahrur Rozi",
+        "role": "applicant",
+        "description": null
+      },
+      {
+        "name": "Anthony Lee",
+        "role": "applicant",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Abdul Hakim, S.H., M.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Abdul Hamid, S.H., M.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Sipghotulloh Mujaddidi, S.H",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 10 Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota Menjadi Undang-Undang"
+    ],
+    "constitutional_articles": [
+      "Pasal 10 ayat (1) hur",
+      "Pasal 9",
+      "Pasal 1",
+      "Pasal 18 ayat (4)",
+      "Pasal 28D ayat (1)",
+      "Pasal 27 ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 28I ayat (2)",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 60"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-10",
+      "BUKTI P -3",
+      "BUKTI P -4",
+      "BUKTI P-6",
+      "BUKTI P-3",
+      "BUKTI P -1",
+      "BUKTI P-2",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "REFERENSI:70/PUU-XXII/2024",
+      "REFERENSI:69/PUU/PAN.MK/AP3/06/2024",
+      "REFERENSI:2/2021yangmengacupadaPutusanMKNo.006/PUU-III/2005danNo.011/PUU-V/2007",
+      "REFERENSI:31/05/2024",
+      "REFERENSI:17/PUU-l/2003",
+      "REFERENSI:133/PUU-Vll/2009",
+      "REFERENSI:02/MKMK/L/11/2023",
+      "REFERENSI:09/PMK/2006",
+      "REFERENSI:90/PUUXXl/2023",
+      "REFERENSI:10/2015UU10/2015",
+      "REFERENSI:55/PUUXVll/2019",
+      "REFERENSI:006/PUU-III/2005",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:10/2016pernahdiajukansebelumnyadantelahdiputusdalamPutusanMahkamahKonstitusiNomor58/PUU-XVII/2019",
+      "REFERENSI:58/PUU-XVII/2019",
+      "REFERENSI:22/2014sampaidenganUU10/2016"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "mengundurkan dir i dari persidangan apabila terikat hubungan",
+    "persidangan apabila ia mempunyai kepentingan langsung atau",
+    "mengundurkan diri dari proses pemeriksaan dan pengambilan",
+    "sikap mengundurkan diri dari pemeriksaan dan pengambilan",
+    "Konstitusi mengundurkan diri dari proses pemeriksaan dan",
+    "pemeriksaan dan pengambilan putusan ter rhadap perkara a quo",
+    "terpenuhinya kuorum untuk melakukan persidangan —harus",
+    "perkara proses pemeriksaan dan pengambilan Putusan terhadap"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan provisi para Pemohon.",
+      "Menolak permohonan para Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan para Pemohon untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "M. Guntur Hamzah",
+      "Arsul Sani",
+      "Arief Hidayat",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh"
+    ],
+    "clerks": [
+      "Rizki Amalia"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "70/PUU-XXII/2024",
+      "69/PUU/PAN.MK/AP3/06/2024",
+      "2/2021yangmengacupadaPutusanMKNo.006/PUU-III/2005danNo.011/PUU-V/2007",
+      "31/05/2024",
+      "17/PUU-l/2003",
+      "133/PUU-Vll/2009",
+      "02/MKMK/L/11/2023",
+      "09/PMK/2006",
+      "90/PUUXXl/2023",
+      "10/2015UU10/2015",
+      "55/PUUXVll/2019",
+      "006/PUU-III/2005",
+      "11/PUU-V/2007",
+      "10/2016pernahdiajukansebelumnyadantelahdiputusdalamPutusanMahkamahKonstitusiNomor58/PUU-XVII/2019",
+      "58/PUU-XVII/2019",
+      "22/2014sampaidenganUU10/2016"
+    ],
+    "referenced_cases": [
+      "70/PUU-XXII/2024",
+      "69/PUU/PAN.MK/AP3/06/2024",
+      "2/2021yangmengacupadaPutusanMKNo.006/PUU-III/2005danNo.011/PUU-V/2007",
+      "31/05/2024",
+      "17/PUU-l/2003",
+      "133/PUU-Vll/2009",
+      "02/MKMK/L/11/2023",
+      "09/PMK/2006",
+      "90/PUUXXl/2023",
+      "10/2015UU10/2015",
+      "55/PUUXVll/2019",
+      "006/PUU-III/2005",
+      "11/PUU-V/2007",
+      "10/2016pernahdiajukansebelumnyadantelahdiputusdalamPutusanMahkamahKonstitusiNomor58/PUU-XVII/2019",
+      "58/PUU-XVII/2019",
+      "22/2014sampaidenganUU10/2016"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}
