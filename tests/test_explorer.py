@@ -100,6 +100,8 @@ class SavedCollectionTests(unittest.TestCase):
             '281/PUU-XXIII/2025': '2026-03-02', '271/PUU-XXIII/2025': '2026-03-02', '21/PUU-XXIV/2026': '2026-03-02',
             '237/PUU-XXIII/2025': '2026-03-16', '176/PUU-XXIII/2025': '2026-03-16', '191/PUU-XXIII/2025': '2026-03-16',
             '90/PUU-XXI/2023': '2023-10-16', '160/PUU-XXI/2023': '2024-01-16',
+            '60/PUU-XXII/2024': '2024-08-20', '91/PUU-XVIII/2020': '2021-11-25',
+            '35/PUU-X/2012': '2013-05-16',
         }
         summaries = {summarize_case(r)['case_number']: summarize_case(r) for r in records}
         self.assertTrue(dates.keys() <= summaries.keys())
@@ -116,7 +118,7 @@ class SavedCollectionTests(unittest.TestCase):
                 self.assertIn(len(record.payload['adjudicators']['judges']), [8, 9])
                 self.assertNotEqual(summary['outcome_key'], 'unknown')
         self.assertEqual(summaries['237/PUU-XXIII/2025']['outcome_key'], 'rejected')
-        for case in ['191/PUU-XXIII/2025', '90/PUU-XXI/2023']:
+        for case in ['191/PUU-XXIII/2025', '90/PUU-XXI/2023', '60/PUU-XXII/2024', '91/PUU-XVIII/2020', '35/PUU-X/2012']:
             self.assertEqual(summaries[case]['outcome_key'], 'granted_partly')
         self.assertEqual(summaries['21/PUU-XXIV/2026']['applicant_count'], 2)
 

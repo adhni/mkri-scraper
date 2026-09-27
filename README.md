@@ -208,8 +208,8 @@ Workflow yang disarankan:
 ## MKRI — Case Explorer
 
 Viewer kini mengutamakan topik dan isi perkara: judul deskriptif, ringkasan bahasa
-Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi awal berisi 13
-perkara dalam 9 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
+Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi pilihan berisi 16
+perkara dalam 10 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
 
 - Cari nomor perkara, nama pihak, undang-undang, atau kata dalam teks dokumen.
 - Gabungkan filter `topic`, `year` (tahun **putusan**, bukan tahun pendaftaran),
@@ -219,6 +219,32 @@ perkara dalam 9 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
   dan teks dokumen yang dapat dibuka. Tautan MKRI tetap tersedia.
 - API daftar mendukung filter yang sama; `stats` menghitung hasil pencarian,
   sedangkan `facets` menyediakan pilihan filter dari seluruh koleksi.
+
+Tambahan perkara besar: 60/PUU-XXII/2024 (pencalonan kepala daerah),
+91/PUU-XVIII/2020 (uji formil Cipta Kerja), dan 35/PUU-X/2012 (hutan adat).
+PDF resmi, checksum, dan catatan pemeriksaan tersedia di
+[`landmark_sources.json`](data/editorial/landmark_sources.json). PDF disimpan lokal
+di `data/raw_pdfs`; snapshot JSON dan ringkasan ikut repo.
+
+### Membaca keputusan dan posisi hakim
+
+Beranda menampilkan perkara pilihan; pencarian memprioritaskan nomor/judul/topik,
+menandai kata yang cocok, dan mempertahankan filter saat kembali dari detail.
+Halaman perkara menyediakan ringkasan keputusan, perubahan sebelum/sesudah bila
+tersedia, panel hakim, alasan, perkara dengan topik terkait, dan PDF dengan tautan
+halaman. Amar panjang dapat dibuka terpisah; teks ekstraksi dapat dicari.
+
+Catatan terkurasi berada di `data/editorial/insights.json`. Posisi hakim tersedia
+untuk 90/PUU-XXI/2023, 60/PUU-XXII/2024, dan 91/PUU-XVIII/2020. Alasan berbeda
+(concurring) dipisahkan dari pendapat berbeda (dissenting). Pengelompokan hakim
+lainnya mengikuti amar merupakan inferensi dari panel pengambil putusan dan
+**daftar lengkap** pendapat terpisah; dasar ini ditampilkan. Tanda tangan saja
+tidak diperlakukan sebagai bukti suara. Perkara tanpa verifikasi hanya menampilkan
+nama, dan bagian analisis yang belum tersedia tidak ditampilkan.
+
+PDF bawaan dilayani dari file lokal yang dikenal; bila file tidak ikut deployment,
+tautan beralih ke host dokumen resmi MK. Preview memakai penampil PDF browser;
+tersedia tautan tab baru bila host resmi membatasi penyematan.
 
 ### Mengubah judul, ringkasan, atau topik
 
@@ -266,7 +292,7 @@ Klik **Unduh cadangan** pada halaman Kelola untuk mendapatkan salinan database
 yang konsisten. Untuk restore, hentikan server, simpan salinan database lama,
 letakkan file cadangan sebagai `library.sqlite3` di direktori penyimpanan,
 lalu jalankan server kembali. Backup ini meliputi seluruh unggahan dan koreksi;
-13 snapshot bawaan tetap berasal dari repo.
+16 snapshot bawaan tetap berasal dari repo.
 
 ### Mengaktifkan pemilik di hosting
 
