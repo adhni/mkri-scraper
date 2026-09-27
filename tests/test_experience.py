@@ -38,8 +38,8 @@ class ReaderExperienceTests(unittest.TestCase):
         self.assertEqual(positions['M. Guntur Hamzah'], 'dissenting')
         self.assertEqual(positions['Daniel Yusmic P. Foekh'], 'concurring')
         for case in data.values():
-            names = case['court']['names']
-            for p in case['court']['positions']:
+            names = case.get('court', {}).get('names', [])
+            for p in case.get('court', {}).get('positions', []):
                 self.assertIn(p['name'], names)
                 self.assertGreater(p['page'], 0)
                 self.assertTrue(p['explanation'])

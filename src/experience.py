@@ -132,7 +132,8 @@ def change_html(insights):
     change = insights.get('change')
     if not change:
         return ''
-    return f'''<section id="perubahan" class="reader-section"><div class="section-heading"><h2>Apa yang berubah?</h2>{citation(change.get('page'))}</div>
+    sources = ' '.join(citation(page) for page in change.get('pages', [change.get('page')]))
+    return f'''<section id="perubahan" class="reader-section"><div class="section-heading"><h2>Apa yang berubah?</h2><span class="story-sources">{sources}</span></div>
     <div class="change-grid"><div><span class="eyebrow">Sebelum putusan</span><p>{safe(change.get('before'))}</p></div><div><span class="eyebrow">Setelah putusan</span><p>{safe(change.get('after'))}</p></div></div>
     <p class="historical-note">Perubahan pada tanggal putusan; bukan keterangan status hukum terkini.</p></section>'''
 

@@ -1,0 +1,774 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_30_PUU_XVI_2018.pdf",
+    "file_name": "putusan_30_PUU_XVI_2018.pdf",
+    "page_count": 54,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_sidang_2814_20180723130136_30%20PUU%202018--UU_Pemilu-KABUL-telahucap-23Juli2018-ok-final%20-qrcode-%20wmActionWiz.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "30/PUU-XVI/2018",
+    "related_case_numbers": [
+      "59/PAN.MK/2018"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2018-07-23",
+    "decision_date_raw": "dua puluh tiga, bulan Juli, tahun dua ribu delapan belas",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 3
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 30/PUU-XVI/2018",
+      "start_line": 5,
+      "end_line": 5
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam perkara P engujian Undang-Undang Nomor 7 Tahun \n2017 tentang Pemilihan Um um terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, yang diajukan oleh:  \n Nama : Muhammad Hafidz \n Alamat  : Jalan Tatya Wuni IV, Blok F5, Nomor 2, RT 007, RW \n012, Kelurahan Cijujung, Kecamatan Sukaraja, \nKabupaten Bogor \nSelanjutnya disebut sebagai -------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon; \n  Mendengar keterangan Pemohon; \n  Mendengar dan membaca keterangan Presiden; \n  Membaca dan mendengar keterangan ahli Pemohon; \n  Memeriksa bukti-bukti Pemohon; \n  Membaca kesimpulan Pemohon dan Presiden;",
+      "start_line": 8,
+      "end_line": 22
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal \n4 April 2018 yang diterima di Kepaniter aan Mahkamah Konstitusi (selanjutnya  \ndisebut  Kepaniteraan  Mahkamah)  pada  tanggal 4 April 20 18 berdasarkan Akta \nPenerimaan Berkas Permohonan Nomor 59/PAN.MK/2018 dan telah dicatat dalam \nBuku Registrasi Perkara Konstitusi pada tanggal 9 April 2018 dengan Nomor \n30/PUU-XVI/2018, yang telah diperbaiki dengan perbaikan permohonan",
+      "start_line": 24,
+      "end_line": 29
+    },
+    {
+      "heading": "SALINAN",
+      "slug": "salinan",
+      "text": "2\nbertanggal 19 April 2018 dan diterima K epaniteraan Mahkamah pada tanggal 19 \nApril 2018, pada pokoknya menguraikan hal-hal sebagai berikut: \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 31,
+      "end_line": 38
+    },
+    {
+      "heading": "1. Bahwa berdasarkan Pasal 24 ayat (2) UUD 1945, selengkapnya",
+      "slug": "1-bahwa-berdasarkan-pasal-24-ayat-2-uud-1945-selengkapnya",
+      "text": "berbunyi:  \n“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada di bawahny a dalam lingkungan peradilan \numum, lingkungan peradilan agama , lingkungan peradilan militer, \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah \nKonstitusi”. \nSelain itu, Pasal 24C ayat (1) UUD 1945, juga menegaskan, bahwa:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap Undang-Undang Dasar, me mutus sengketa kewenangan \nlembaga negara yang kewenangannya di berikan oleh Undang-Undang \nDasar, memutus pembubaran partai politik, dan memutus perselisihan \ntentang hasil pemilihan umum”.",
+      "start_line": 40,
+      "end_line": 52
+    },
+    {
+      "heading": "2. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24",
+      "slug": "2-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24",
+      "text": "Tahun 2003 tentang Mahkamah Konstitu si (Lembaran Negara Republik \nIndonesia Tahun 2003 Nomor 98, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 4316) sebagaimana telah diubah dengan \nUndang-Undang Republik Indonesia Nomor 8 Tahun 2011 tentang \nPerubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran N egara Republik Indonesia Tahun \n2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia \nNomor 5076) [selanjutnya disebut UU MK], dinyatakan:  \n“Mahkamah Konstitusi berwenang me ngadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: (1) menguji undang-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945”.",
+      "start_line": 54,
+      "end_line": 65
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48",
+      "slug": "3-bahwa-lebih-lanjut-pasal-29-ayat-1-huruf-a-undang-undang-nomor-48",
+      "text": "Tahun 2009 tentang Kekuasaan K ehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran \nNegara Republik Indonesia Nomor 5076), dinyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: (a) menguji undang-\n\n \n \n3\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945”.",
+      "start_line": 67,
+      "end_line": 77
+    },
+    {
+      "heading": "4. Bahwa oleh karena objek permo honan pengujian ini adalah Pasal 182",
+      "slug": "4-bahwa-oleh-karena-objek-permo-honan-pengujian-ini-adalah-pasal-182",
+      "text": "huruf l UU Pemilu terhadap UUD 1945,  maka Mahkamah Konstitusi \nberwenang memeriksa, mengadili dan memutus permohonan a quo. \nII. KEDUDUKAN HUKUM PEMOHON",
+      "start_line": 79,
+      "end_line": 81
+    },
+    {
+      "heading": "1. Bahwa berdasarkan Pasal 51 ay at (1) UU Mahkamah Konstitusi,",
+      "slug": "1-bahwa-berdasarkan-pasal-51-ay-at-1-uu-mahkamah-konstitusi",
+      "text": "dinyatakan:  \n“Pemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu:  \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 83,
+      "end_line": 89
+    },
+    {
+      "heading": "2. Bahwa untuk memenuhi kualifik asi sebagai Pemohon perorangan",
+      "slug": "2-bahwa-untuk-memenuhi-kualifik-asi-sebagai-pemohon-perorangan",
+      "text": "warganegara Indonesia, Mahkamah Konstitusi telah memberikan \nsyarat-syarat sebagaimana dimaksud pada Putusan Mahkamah \nKonstitusi Nomor 006/PUU-III/2005 tanggal 31 Mei 2005 dan Nomor \n11/PUU-V/2007 tanggal 20 September 2007 serta putusan-putusan \nselanjutnya, bahwa yang dimaksud  dengan kerugian hak dan/atau \nkewenangan konstitusional haruslah memenuhi syarat-syarat: \na. adanya hak konstitusional Pemoho n yang diberikan oleh Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945.  \nb. bahwa hak konstitusional ters ebut dianggap oleh Pemohon telah \ndirugikan oleh suatu undang-undang yang diuji.",
+      "start_line": 93,
+      "end_line": 102
+    },
+    {
+      "heading": "c. kerugian konstitusional Pemohon yang dimaksud bersifat spesifik",
+      "slug": "c-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat-spesifik",
+      "text": "(khusus) dan aktual, atau setidak-ti daknya bersifat potensial yang \nmenurut penalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 104,
+      "end_line": 105
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat ( causal verband ) antara kerugian",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian",
+      "text": "dan berlakunya undang-undang yang dimohonkan untuk diuji; dan  \ne. adanya kemungkinan bahwa d engan dikabulkannya permohonan, \nmaka kerugian konstitusional yang didalilkan tidak akan atau tidak \nlagi terjadi. \n\n \n \n4",
+      "start_line": 107,
+      "end_line": 114
+    },
+    {
+      "heading": "3. Bahwa Pemohon hendak mengajukan pengujian norma sepanjang frasa",
+      "slug": "3-bahwa-pemohon-hendak-mengajukan-pengujian-norma-sepanjang-frasa",
+      "text": "“pekerjaan lain” pada Pasal 182 huruf l UU Pemilu, yang menyatakan:  \n“Perseorangan sebagaimana dimaksud dalam Pasal 181 dapat menjadi \nPeserta Pemilu setelah memenuhi persyaratan:  \n(l) bersedia untuk tidak berpraktik sebagai akuntan publik, advokat, \nnotaris, pejabat pembuat akta t anah, dan/atau tidak melakukan \npekerjaan penyedia barang dan jasa yang berhubungan dengan \nkeuangan negara serta pekerjaan lain yang dapat menimbulkan konflik \nkepentingan dengan tugas, wewenang, dan hak sebagai anggota DPD \nsesuai dengan ketentuan peraturan perundang-undangan”.",
+      "start_line": 116,
+      "end_line": 124
+    },
+    {
+      "heading": "4. Bahwa untuk memenuhi kualif ikasi sebagaimana tersebut dalam",
+      "slug": "4-bahwa-untuk-memenuhi-kualif-ikasi-sebagaimana-tersebut-dalam",
+      "text": "paragraph II.1 dan II.2 tersebut di at as, maka Pemohon menguraikan \nhal sebagai berikut: \na. Pemohon adalah perorangan warga negara Indonesia di Provinsi \nJawa Barat, Kabupaten Bogor, yang ber-Kartu Tanda Penduduk \n(KTP) dengan Nomor Induk Kependudukan (NIK) \n3173062609800003 [bukti P-3], yang merupakan Peserta Pemilihan \nUmum (Pemilu) Tahun 2014 dari Cal on Anggota Dewan Perwakilan \nDaerah (DPD) Republik Indonesia (R I) Provinsi Jawa Barat, yang \nditetapkan oleh Komisi Pemilihan Umum (KPU) di Jakarta, pada \ntanggal 28 Agustus 2013, dengan Nomo r Urut 19 [bukti P-4] dan \nmemperoleh 182.921 suara [bukti P-5]. \nPemohon diberikan hak konstitusional sebagaimana dimaksud dalam \nPasal 28D ayat (1) UUD 1945, yang berbunyi:  \n“Setiap orang berhak atas pengak uan, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum”. \nb. Sebagai perorangan warga negar a Indonesia yang belum pernah \nmenjadi anggota Partai Politik dan hendak kem bali menjadi Peserta \nPemilu dari Calon Perseorangan DP D RI di Tahun 2019, Pemohon \ntelah dijamin hak konstitusionalnya untuk mendapatkan kepastian \nhukum yang adil. Namun hak konstitusional Pemohon tersebut, \nberkaitan dengan hakikat keberadaan lembaga DPD sebagai \nrepresentasi masyarakat lokal un tuk mewakili daerahnya, berpotensi \nakan dirugikan dengan norma Pasal 182 huruf l UU Pemilu, \n\n \n \n5\nsepanjang frasa “ pekerjaan lain ” yang dalam penjelasannya tertulis \nCukup Jelas, dan tidak dijelaska n mengenai apakah yang dimaksud \npekerjaan lain, apakah diantaranya termasuk aktif sebagai pengurus \npartai politik?",
+      "start_line": 126,
+      "end_line": 157
+    },
+    {
+      "heading": "c. Sebagai Peserta Pemilu 2014 dari Calon Perseorangan, dengan",
+      "slug": "c-sebagai-peserta-pemilu-2014-dari-calon-perseorangan-dengan",
+      "text": "perolehan suara sebanyak 182. 921, Pemohon sebagai tokoh \nmasyarakat dari kalangan buruh yang mempunyai kehendak untuk \nmemperjuangkan aspirasi dan kepent ingan daerah, diantaranya juga \nberhak memberi penguatan kelem bagaan DPD sesuai dengan cita-\ncita pembentukannya, yaitu salah satunya keberadaan lembaga DPD \nyang bebas dari kepentingan partai politik. \nTidak adanya larangan baik anggota partai politik tertentu untuk maju \nmenjadi Peserta Pemilu dari Calon Perseorangan,  tidak berarti dapat \ndipersamakan dengan kebolehan bagi pe ngurus (fungsionaris) partai \npolitik yang memiliki jabatan, tugas, fungsi, tanggung jawab, dan \nkewenangan kepengurusan di partai politik untuk maju menjadi \nPeserta Pemilu dari Calon Pers eorangan. Menjadi hak bagi setiap \norang termasuk Pemohon, untuk menjaga maksud asli ( original \nintent) pembentukan lembaga negara manapun, khususnya lembaga \nnegara DPD dari kepentingan y ang bukan kepentingan daerah \nsebagai bentuk “improper purposes”. \nMenurut Pemohon, apabila terdapat Anggota DPD yang berasal dari \nPengurus Partai Politik tentu, maka Anggota DPD dimaksud akan \nlebih mengutamakan  kepentingan atau platform partai politik yang \npada dirinya melekat jabatan, t ugas, fungsi, tanggung jawab, dan \nkewenangan, ketimbang mengutamak an kepentingan daerah secara \nkeseluruhan. Apalagi sebagian besar partai politik di Indonesia masih \nbersifat sentralistik, di mana pengambilan keputusan masih \ntergantung pada pimpinan di tingkat pusat. Anggota DPD yang \nberasal dari pengurus partai politik diragukan efektivitasnya dalam \nmemperjuangkan aspirasi dan kepentingan daerah, karena adanya \nperan ganda yang melekat pada dirinya. Anggota DPD yang lebih \nmementingkan partai politik da ripada aspirasi dan kepentingan \ndaerah, jelas akan sangat merugikan Pemohon sebagai \n\n \n \n6\nperseorangan yang turut berkontri busi membayar pajak daerah \nbahkan juga merugikan warga negara lainnya. \nMeskipun DPD dan DPR mempunyai  kesamaan sebagai lembaga \nperwakilan, namun sesungguhnya mempunyai dua pintu masuk yang \nberbeda. Prasyarat Calon Pers eorangan haruslah mendapatkan \ndukungan langsung dari rakyat, dalam  bentuk fotokopi kartu tanda \npenduduk serta tanda-tangan dukungan.  Sedangkan DPR melalui \ndukungan dari Partai Politik yang merupakan suatu organisasi sejak \ntingkat desa atau kelurahan, keca matan, kota/kabupaten hingga \nprovinsi. Sehingga keduanya mempun yai tanggung jawab yang \nberbeda, yaitu jika DPD bertanggung jawab langsung ke rakyat, \nsedangkan DPR bertanggung jawab k epada rakyat melalui partai \npolitik.  \nDengan tidak adanya pemaknaan yang jelas dan terang benderang \nsepanjang frasa “ pekerjaan lain” pada Pasal 182 huruf l UU Pemilu, \ntelah memberikan kemungkinan bagi  pengurus partai politik untuk \nturut serta ikut dalam Pemilu  sebagai Calon Perseorangan DPD. \nSehingga, Pemohon merasa tidak  mendapatkan kepastian hukum \nyang adil, sepanjang hakikat k eberadaan lembaga DPD sebagai \nwujud representasi masyarakat lokal untuk mewakili daerah yang \nbebas dari kepentingan partai politik te rtentu. Terlebih telah diberikan \npenempatan yang adil dalam Bab VII dan Bab VIIA UUD 1945, \ndengan menyediakan ruang untuk mewakili aspirasi rakyat bagi partai \npolitik di DPR, dan ruang untuk  mewakili aspirasi daerah dalam \nkelembagaan DPD.",
+      "start_line": 159,
+      "end_line": 216
+    },
+    {
+      "heading": "d. Apabila sepanjang frasa “ pekerjaan lain” pada Pasal 182 huruf l UU",
+      "slug": "d-apabila-sepanjang-frasa-pekerjaan-lain-pada-pasal-182-huruf-l-uu",
+      "text": "Pemilu dinyatakan inkonstitusional bersyarat, maka Pemohon dan \nwarga negara lainnya yang dapat saja merasa terwakili \nkepentingannya oleh permohonan a quo  sebagai perorangan \nmasyarakat daerah, mempunyai harapan untuk terwakili kepentingan \ndaerahnya dari anggota DPD yang bebas  dari pengaruh kepentingan \nkepengurusan partai politik tertentu. \n\n \n \n7",
+      "start_line": 218,
+      "end_line": 227
+    },
+    {
+      "heading": "5. Bahwa berdasarkan uraian di atas, Pemohon berpendapat telah",
+      "slug": "5-bahwa-berdasarkan-uraian-di-atas-pemohon-berpendapat-telah",
+      "text": "memiliki kedudukan hukum ( legal standing) dalam pengujian Pasal 182 \nhuruf l UU Pemilu terhadap Pasal 28D ayat (1) UUD 1945. \nIII.  ALASAN-ALASAN PERMOHONAN",
+      "start_line": 229,
+      "end_line": 231
+    },
+    {
+      "heading": "1. Bahwa pada tanggal 15 Agustus 2017, Presiden mengesahkan Undang-",
+      "slug": "1-bahwa-pada-tanggal-15-agustus-2017-presiden-mengesahkan-undang",
+      "text": "Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum (Lembaran \nNegara Republik Indonesia Tahun 2017 Nomor 182, Tambahan \nLembaran Negara Republik Indonesia Nomor 6109) [selanjutnya disebut \nUU Pemilu, vide bukti P-1].",
+      "start_line": 233,
+      "end_line": 236
+    },
+    {
+      "heading": "2. Bahwa Pasal 22D UUD 1945, m engatur mengenai fungsi, tugas dan",
+      "slug": "2-bahwa-pasal-22d-uud-1945-m-engatur-mengenai-fungsi-tugas-dan",
+      "text": "kewenangan Dewan Perwakilan Daerah (DPD), yaitu: \n(1) Dewan Perwakilan Daerah dap at mengajukan kepada Dewan \nPerwakilan Rakyat rancangan undang-undang yang berkaitan \ndengan otonomi daerah, hubung an pusat dan daerah, \npembentukan dan pemekaran serta penggabungan daerah, \npengelolaan sumber daya alam dan sumber daya ekonomi lainnya, \nserta yang berkaitan dengan peri mbangan keuangan pusat dan \ndaerah. \n(2) Dewan Perwakilan Daerah ik ut membahas rancangan undang-\nundang yang berkaitan dengan otonomi daerah; hubungan pusat \ndan daerah; pembentukan, peme karan, dan penggabungan \ndaerah; pengelolaan sumber daya alam dan sumber daya ekonomi \nlainnya, serta perimbangan keu angan pusat dan daerah; serta \nmemberikan pertimbangan kepada Dewan Perwakilan Rakyat atas \nrancangan undang-undang anggaran pendapatan dan belanja \nnegara dan rancangan undang-undang yang berkaitan dengan \npajak, pendidikan, dan agama.  \n(3) Dewan Perwakilan Daerah dapat melakukan pengawasan atas \npelaksanaan undang-undang meng enai: otonomi daerah, \npembentukan, pemekaran dan penggabungan daerah, hubungan \npusat dan daerah, pengelolaan sumber daya alam dan sumber \ndaya ekonomi lainnya, pelaksanaan anggaran pendapatan dan \nbelanja negara, pajak, pendidikan, dan agama serta \nmenyampaikan hasil pengawasannya itu kepada Dewan \nPerwakilan Rakyat sebagai bahan pertimbangan untuk \nditindaklanjuti. \n(4) Anggota Dewan Perwakilan D aerah dapat diberhentikan dari \njabatannya, yang syarat-syarat dan tata caranya diatur dalam \nundang-undang.",
+      "start_line": 238,
+      "end_line": 266
+    },
+    {
+      "heading": "3. Bahwa selain itu, Mahkamah Konsti tusi telah pula menetapkan desain",
+      "slug": "3-bahwa-selain-itu-mahkamah-konsti-tusi-telah-pula-menetapkan-desain",
+      "text": "fungsi, tugas dan kewenangan kele mbagaan DPD sebagai bagian dari \n\n \n \n8\norgan konstitusi sebagaimana termuat dalam Putusan Nomor 10/PUU-\nVI/2008 tanggal 01 Juli 2008, dalam paragraph [3.18.1]  huruf f halaman \n205-206, yang menyatakan: Dengan demikian, dapat disimpulkan \nbahwa desain konstitusional DPD sebagai organ konstitusi adalah:  \n1) DPD merupakan represent asi daerah (territorial representation) yang \nmembawa dan memperjuangkan as pirasi dan kepentingan daerah \ndalam kerangka kepentingan nasiona l, sebagai imbangan atas dasar \nprinsip “checks and balances” terhadap DPR yang merupakan \nrepresentasi politik (political representati on) dari aspirasi dan \nkepentingan politik partai-partai po litik dalam kerangka kepentingan \nnasional; \n2) Keberadaan DPR dan DPD dalam sistem ketatanegaraan Indonesia \nyang seluruh anggotanya menjadi anggota MPR bukanlah berarti \nbahwa sistem perwakilan Indonesia  menganut sistem perwakilan \nbikameral, melainkan sebagai gambaran tentan g sistem perwakilan \nyang khas Indonesia;  \n3) Meskipun kewenangan konstitu sional DPD terbatas, namun dari \nseluruh kewenangannya di bidang legislasi, anggaran, pengawasan, \ndan pertimbangan sebagaimana diatur dalam Pasal 22D UUD 1945, \nkesemuanya terkait dan berorie ntasi kepada kepentingan daerah \nyang harus diperjuangkan secara nasional berdasarkan postulat \nkeseimbangan antara kepentingan nasional dan kepentingan daerah;  \n4) Bahwa sebagai representasi daerah dari setiap provinsi, anggota \nDPD dipilih melalui Pemilu dari setiap provinsi dengan jumlah yang \nsama, berdasarkan pencalonan seca ra perseorangan, bukan melalui \nPartai, sebagai peserta Pemilu;",
+      "start_line": 268,
+      "end_line": 298
+    },
+    {
+      "heading": "4. Bahwa UU Pemilu, diantaranya me muat Pasal 182, yang menyatakan:",
+      "slug": "4-bahwa-uu-pemilu-diantaranya-me-muat-pasal-182-yang-menyatakan",
+      "text": "Perseorangan sebagaimana dimaksud da lam Pasal 181 dapat menjadi \nPeserta Pemilu setelah memenuhi persyaratan: \na. warga negara Indonesia yang te lah berumur 21 (dua puluh satu \ntahun) atau lebih; \nb. bertakwa kepada Tuhan Yang Maha Esa;",
+      "start_line": 300,
+      "end_line": 304
+    },
+    {
+      "heading": "d. dapat berbicara, membaca, dan/atau menulis dalam bahasa",
+      "slug": "d-dapat-berbicara-membaca-dan-atau-menulis-dalam-bahasa",
+      "text": "Indonesia; \ne. berpendidikan paling rendah tamat sekolah menengah atas, \nmadrasah aliyah, sekolah me nengah kejuruan, m adrasah aliyah \nkejuruan, atau sekolah lain yang sederajat; \nf. setia kepada Pancasila, Undan g-Undang Dasar Negara Republik \nIndonesia, Negara Kesatuan Repub lik Indonesia, dan Bhinneka \nTunggal Ika; \ng. tidak pernah dipi dana penjara berdasarkan putusan pengadilan yang \ntelah memperoleh kekuatan hukum tetap karena melakukan tindak \npidana yang diancam dengan pidana pe njara 5 (lima) tahun atau \n\n \n \n9\nlebih, kecuali secara terbuka dan jujur mengemukakan kepada publik \nbahwa yang bersangkutan mantan narapidana; \nh. sehat jasmani dan rohani, dan bebas dari penyalahgunaan narkotika;",
+      "start_line": 307,
+      "end_line": 323
+    },
+    {
+      "heading": "i. terdaftar sebagai Pemilih;",
+      "slug": "i-terdaftar-sebagai-pemilih",
+      "text": "j. bersedia bekerja penuh waktu; \nk. mengundurkan diri sebagai kepala daerah, wakil kepala daerah, \nKepala Desa dan per angkat desa, Badan Permusyawaratan Desa, \naparatur sipil negara, anggota Tentar a Nasional Indonesia, anggota \nKepolisian Negara Republik Indonesia, direksi, komisaris, dewan \npengawas dan karyawan pada badan usaha milik negara dan/atau \nbadan usaha milik daer ah dan/atau badan usaha milik desa, atau \nbadan lain yang anggarannya bersumber dari keuangan negara, \nyang dinyatakan dengan surat pengunduran diri yang tidak dapat \nditarik kembali;",
+      "start_line": 325,
+      "end_line": 334
+    },
+    {
+      "heading": "l. bersedia untuk tidak berpraktik sebagai akuntan publik, advokat,",
+      "slug": "l-bersedia-untuk-tidak-berpraktik-sebagai-akuntan-publik-advokat",
+      "text": "notaris, pejabat pembuat akta tanah, dan/atau tidak melakukan \npekerjaan penyedia barang dan ja sa yang berhubungan dengan \nkeuangan negara serta pekerjaan lain yang dapat menimbulkan \nkonflik kepentingan dengan tugas, wewenang, dan hak sebagai \nanggota DPD sesuai ketentuan peraturan perundang-undangan;",
+      "start_line": 336,
+      "end_line": 340
+    },
+    {
+      "heading": "m. bersedia untuk tidak merangkap jabatan sebagai pejabat negara",
+      "slug": "m-bersedia-untuk-tidak-merangkap-jabatan-sebagai-pejabat-negara",
+      "text": "lainnya, direksi, komisaris, dewan pengawas dan karyawan pada \nbadan usaha milik negar a dan/atau badan usaha milik daerah serta \nbadan lain yang anggarannya bersumber dari keuangan negara; \nn. mencalonkan hanya untuk 1 (satu) lembaga perwakilan; \no. mencalonkan hanya untuk 1 (satu) daerah pemilihan; dan  \np. mendapatkan dukungan minimal dar i Pemilih di daerah pemilihan \nyang bersangkutan.",
+      "start_line": 342,
+      "end_line": 348
+    },
+    {
+      "heading": "5. Bahwa frasa “ pekerjaan lain ” yang diikuti dengan frasa “ yang dapat",
+      "slug": "5-bahwa-frasa-pekerjaan-lain-yang-diikuti-dengan-frasa-yang-dapat",
+      "text": "menimbulkan konflik kepentingan dengan tugas, wewenang, dan hak \nsebagai anggota DPD sesuai ke tentuan perat uran perundang-\nundangan” pada Pasal 182 huruf l UU Pemilu, haruslah dinyatakan \ninkonstitusional bersyarat terhadap Pasal 28D ayat (1) UUD 1945, yang \nberbunyi “Setiap orang berhak atas penga kuan, jaminan, perlindungan, \ndan kepastian hukum yang adil serta perlakuan yang sama dihadapan \nhukum”, karena: \n(a) DPD dalam ketatanegaraan di Indonesia, adalah untuk membangun \nmekanisme kontrol dan kese imbangan antar cabang kekuasaan \nnegara. Keberadaan DPD untuk menjamin dan menampung \nperwakilan daerah yang memadai un tuk memperjuangkan aspirasi \ndan kepentingan daerah. Secara polit is, sesuai dengan konsensus \n\n \n \n10\npolitik bangsa Indonesia, maka  keberadaan DPD juga ditujukan \nuntuk memperkuat ikatan daerah- daerah dalam NKRI; semakin \nmeneguhkan persatuan kebangsaan se luruh daerah; meningkatkan \nagregasi dan akomodasi aspirasi  dan kepentingan daerah dalam \nperumusan kebijakan nasional serta mendorong percepatan \ndemokrasi, pembangunan serta kemajuan daerah secara \nberkeadilan dan berkesinambungan.  \nSelain itu, keberadaan DPD unt uk memperjuangkan aspirasi \nmasyarakat (dan) daerah memiliki legitimasi yang kuat, seperti \nhalnya memberikan implikasi ha rapan dari rakyat kepada DPD, \nkarena anggota DPD secara perseorangan dan secara langsung \ndipilih oleh rakyat, berbeda dari pemilihan Anggota DPR yang dipilih \noleh rakyat melalui partai politik. \n(b) Kebolehan bagi anggota DPD untuk  menjadi anggota partai politik, \natau sebaliknya, anggota partai politik menjadi anggota DPD \nmemang merupakan hak konstitusional bagi setiap orang. \nPersoalan selanjutnya adalah, apakah bekerja atau berkegiatan \nsebagai pengurus (fungsionaris) par tai politik (baik terhadap partai \npolitik peserta pemilu atau bu kan peserta pemilu), yang juga \nsebagai anggota DPD, tidak ak an mengakibatkan benturan \nkepentingan dalam keadaan yang harus  menjalankan 2 (dua) peran \nsecara sekaligus, yaitu sebagai anggota DPD dan sebagai \npengurus (fungsionaris) partai politik?  \n(c) Meskipun dalam Putusan Mahkamah Konstitusi No. 10/PUU-\nVI/2008 tanggal 01 Juli 2008,  pada pertimbangan hukumnya \nmempertimbangkan kebolehan anggota pa rtai politik turut serta \nsebagai peserta Pemilu dari ca lon perseorangan dalam pencalonan \nanggota DPD, akan tetapi, kebe radaan DPD haruslah netral dan \nterbebas dari kepentingan partai politik. Sehingga, boleh jadi calon \nperseorangan dan/atau anggota DPD yang berasal dari anggota \npartai politik biasa, yang tidak mempunyai jabatan, tugas, fungsi, \ntanggung jawab, serta kewenangan k epengurusan di partai politik, \nakan menjadi kecil bahkan tidak ada kemungkinan adanya benturan \n\n \n \n11\nkepentingan dalam menjalankan tugas, wewenang dan haknya \nsebagai anggota DPD. \nTetapi apabila calon perseorang an dan/atau anggota DPD, juga \nberaktifitas kesehariannya sebagai  pengurus yang melekat fungsi \nsebuah partai politik, maka akan menjadi tidak terhindarkan \nterjadinya benturan kepentingan yang berujung pada berubahnya \noriginal intent  pembentukan DPD sebagai representasi daerah. \nSehingga, apabila calon per seorangan dan/atau anggota DPD \nmempunyai jabatan, tugas , fungsi, dan tanggung jawab \nkepengurusan di partai politik, dapat dipastikan menimbulkan konflik \nkepentingan dengan tugas dan we wenang anggota DPD sebagai \nrepresentasi masyarakat lokal untuk mewakili daerah yang bebas \ndari kepentingan partai politik tertentu. \nHingga akhir 2017, terdapat 78 dari 132 anggota DPD yang tidak \nhanya masuk menjadi anggota partai te tapi menjadi pengurus partai \npolitik, yaitu: \nNo. Partai Politik Jumlah Keanggotaan \nDPD \n1 Hanura 28 \n2 Golkar 14 \n3 PPP 8 \n4 PKS 6 \n5 PAN 5 \n6 Demokrat 3 \n7 PKB 3 \n8 PDI-P 2 \n9 Partai Aceh 2 \n10 Nasdem 1 \n11 Gerindra 1 \n12 PDS 1 \n13 Partai Buruh 1 \n14 PNI Marhaenisme 1 \n15 PPIB 1 \n16 Idaman 1 \nSumber: Indonesian Parliamentary Center (2017) \n\n \n \n12",
+      "start_line": 350,
+      "end_line": 441
+    },
+    {
+      "heading": "6. Bahwa sesungguhnya, persyara tan Calon Perseorangan DPD yang",
+      "slug": "6-bahwa-sesungguhnya-persyara-tan-calon-perseorangan-dpd-yang",
+      "text": "salah satunya tidak menjadi pengurus  partai politik, telah pernah \ndiundangkan oleh pembentuk undang- undang, yang sebagaimana \ndimaksud dalam Pasal 63 huruf b Undang-Undang Nomor 12 Tahun \n2003 tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, \nDewan Perwakilan Daerah, dan De wan Perwakilan Rakyat Daerah, \nyang menyatakan: Calon anggota DPD selain harus memenuhi syarat \ncalon sebagaimana dima ksud dalam Pasal 60, juga harus memenuhi \nsyarat: b. tidak menjadi pengurus par tai politik sekurang-kurangnya 4 \n(empat) tahun yang dihitung sampai dengan tanggal pengajuan calon. \nOleh karenanya, tidak adanya lagi pengaturan tidak menjadi pengurus \npartai politik sebagai per syaratan Calon Perseorangan DPD setelah UU \nNomor 12/2003 diubah dan diganti deng an UU Pemilu sesudahnya, \nmenimbulkan pertanyaan yang tida k dapat hanya sekedar dijawab \nsebagai open legal policy , yang seolah-olah mengaminkan demokrasi \nitu hanya sebatas undang-undang dan at uran. Keberadaan DPD yang \nbebas dari campur tangan partai polit ik, memungkinkan terciptanya \nDPD sebagai pilar demokrasi lokal.",
+      "start_line": 443,
+      "end_line": 459
+    },
+    {
+      "heading": "7. Bahwa dengan mempertimbangkan ha l-hal diatas, maka menurut",
+      "slug": "7-bahwa-dengan-mempertimbangkan-ha-l-hal-diatas-maka-menurut",
+      "text": "Pemohon, frasa “ pekerjaan lain ” pada Pasal 182 huruf l UU Pemilu, \nbelum memberikan kepastian hukum yang adil, apabila tidak dinyatakan \ninskonstitusional bersyarat, sepanjang tidak dimaknai termasuk sebagai \npengurus (fungsionaris) partai politik. \nIV.  PETITUM \nBerdasarkan uraian alasan-alasan te rsebut, Pemohon mohon kiranya Yang \nMulia Majelis Hakim Konstitusi ber kenan memutus dengan amar putusan \nsebagai berikut: \n Mengabulkan Permohonan Pemohon untuk seluruhnya. \n Menyatakan frasa “ pekerjaan lain ” pada Pasal 182 huruf l Undang-\nUndang Nomor 7 Tahun 2017 tent ang Pemilihan Umum (Lembaran \nNegara Republik Indonesia Tahun  2017 Nomor 182, Tambahan \nLembaran Negara Republik Indonesia  Nomor 6109) bertentangan \ndengan Undang-Undang Dasar Negara Re publik Indonesia Tahun 1945 \n\n \n \n13\ndan tidak memiliki kekuatan hukum mengikat, sepanjang tidak dimaknai \ntermasuk sebagai pengurus (fungsionaris) partai politik. \n Memerintahkan pemuatan putusan ini da lam Berita Negara Republik \nIndonesia sebagaimana mestinya. \nAtau,  \nApabila Yang Mulia Majelis Haki m Konstitusi berpendapat lain, mohon \nputusan yang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk menguatka n dalilnya, Pemohon telah \nmengajukan alat bukti surat/tulisan yang di beri tanda bukti P-1 sampai dengan \nbukti P-5, yang disahkan pada persidan gan Mahkamah tanggal 30 April 2018 \nsebagai  berikut:",
+      "start_line": 461,
+      "end_line": 489
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undan g-Undang Nomor 7 Tahun 2017 tentang",
+      "slug": "1-bukti-p-1-fotokopi-undan-g-undang-nomor-7-tahun-2017-tentang",
+      "text": "Pemilihan Umum;",
+      "start_line": 491,
+      "end_line": 491
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-U ndang Dasar Negara Republik Indonesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-u-ndang-dasar-negara-republik-indonesia",
+      "text": "Tahun 1945;",
+      "start_line": 493,
+      "end_line": 493
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk Pemohon dengan Nomo r",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-pemohon-dengan-nomo-r",
+      "text": "Induk Kependudukan (NIK) 3173062609800003;",
+      "start_line": 495,
+      "end_line": 495
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Keputusan Komisi Pemilihan Umum Nomo r",
+      "slug": "4-bukti-p-4-fotokopi-keputusan-komisi-pemilihan-umum-nomo-r",
+      "text": "679/Kpts/KPU/TAHUN 2013 tanggal 28 Agustus 2013,\ntentang Penetapan Daftar Calon Tetap Anggota Dewan\nPerwakilan Daerah Pemilihan Umum Tahun 2014;",
+      "start_line": 497,
+      "end_line": 499
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Sertifikat Rekapitulasi Hasil Perhitungan Suara Dari",
+      "slug": "5-bukti-p-5-fotokopi-sertifikat-rekapitulasi-hasil-perhitungan-suara-dari",
+      "text": "Setiap Kabupaten/Kota Calon Anggota Dewan Perwakilan\nDaerah, Daerah Pemilihan Provinsi Jawa Barat; \n Selain mengajukan bukti-bukti, Pemohon juga menghadirkan seorang ahli \nbernama Bivitri Susanti , yang didengarkan keterangannya dalam persidangan \nMahkamah bertanggal 10 Juli 2018, yang pada pokoknya sebagai berikut:",
+      "start_line": 501,
+      "end_line": 505
+    },
+    {
+      "heading": "1. Pendahuluan",
+      "slug": "1-pendahuluan",
+      "text": "Sejak dilahirkan dalam sistem keta tanegaraan Indonesia, Dewan Perwakilan \nDaerah (DPD) banyak diperdebatkan d an dipertanyakan. Tak hanya dalam \n\n \n \n14\nberbagai forum akademik dan politik, DPD juga telah beberapa kali diperiksa di \nMahkamah Konstitusi. Meski banyak dikr itik karena desainnya yang seringkali \ndikatakan tak efektif [FN], mengubahnya membutuhkan perubahan konstitusional \nyang panjang dan berikut [FN ke upaya yang gagal]. Karenanya, DPD telah \nmengalami perubahan bentuk secara perlahan dalam koridor konstitusional yang \nada, melalui undang-undang dan Putusan Mahkamah Konstitusi.  \nKarena sudah cukup banyak kajian, bahkan Putusan Mahkamah, yang \nmengelaborasi sejarah DPD, maka saya tidak akan membahasnya kembali secara \nmendalam dan akan langsung berfokus pada pertanyaan besar hari ini:",
+      "start_line": 507,
+      "end_line": 521
+    },
+    {
+      "heading": "1. Apakah adanya pengurus partai politik telah secara efektif membawa DPD",
+      "slug": "1-apakah-adanya-pengurus-partai-politik-telah-secara-efektif-membawa-dpd",
+      "text": "keluar dari koridor Konstitusi?",
+      "start_line": 523,
+      "end_line": 523
+    },
+    {
+      "heading": "2. Apakah kepengurusan dalam partai politik dapat dimaknai sebagai “pekerjaan",
+      "slug": "2-apakah-kepengurusan-dalam-partai-politik-dapat-dimaknai-sebagai-pekerjaan",
+      "text": "lain yang dapat menimbulkan konflik  kepentingan” dalam konteks Undang-\nUndang Nomor 7 Tahun 2017 tentang Pemilihan Umum Pasal 182 huruf l? \nUntuk membahas pertanyaan kunci tersebut, saya akan membagi Keterangan \nini menjadi 3 bagian, yaitu: pertama, pembahasan mengenai DPD dalam konteks \ndesain parlemen; kedua, relevansi masuknya pengurus partai politik ke dalam \nDPD; dan ketiga , pemaknaan frasa “pekerjaan la in” untuk masuknya pengurus \npartai politik.",
+      "start_line": 525,
+      "end_line": 531
+    },
+    {
+      "heading": "2. Gagasan Dewan Perwakilan Daerah dan Konsep Bikameral",
+      "slug": "2-gagasan-dewan-perwakilan-daerah-dan-konsep-bikameral",
+      "text": "Mahkamah pernah menyat akan dalam Putusannya bahwa keberadaan DPR \ndan DPD dalam sistem ketatanegaraan Indonesia yang seluruh anggotanya \nmenjadi anggota MPR merupakan “gambaran tentang sistem perwakilan yang \nkhas Indonesia,” dan bukan bikameral. Namun pernyataan ini tidak bisa dilepaskan \ndari konteks keanggotaan MPR yang ber sifat unik, bukan soal konsep \nbikameralisme secara luas.  \nTidak dapat dimungkiri, lahirnya DP D dan pembicaraan mengenai DPD tidak \ndapat dipisahkan dari berbagai konsep yang ada mengenai bikameralisme. Hal ini \nmisalnya terlihat dalam pembahasan amandemen Konstitusi pada 1999-2002. \nMeskipun pada akhirnya desain yang diputuskan tidak mengacu pada satu model \nsecara khusus, namun pembahasan nya mengacu pada berbagai praktik \nbikameralisme di berbagai negara, yang berasal dari pandangan para ahli dan \norganisasi yang memberikan pandangan. Ac uan ini tak terelakkan karena model \n\n \n \n15\ndua dewan ini memang sud ah banyak diterapkan dengan cara yang tidak \nseragam. Bukankah teori-t eori lahir dengan proses induksi dari praktik? Demikian \npula, berbagai teori mengenai bikameralisme, justru lahir dari praktik \nketatanegaraan yang sudah ada. Maka penerapannya di Indo nesia-pun, tentu \nakan ‘khas Indonesia’ dan tidak bisa disamakan secara serta merta dengan praktik",
+      "start_line": 533,
+      "end_line": 554
+    },
+    {
+      "heading": "di negara lain; namun ini bukan berarti konsep bikamrealisme tidak dapat dijadikan",
+      "slug": "di-negara-lain-namun-ini-bukan-berarti-konsep-bikamrealisme-tidak-dapat-dijadikan",
+      "text": "kerangka analisis. \nKarena itu, untuk membahas desain konstitusional DPD, saya akan \nmenggunakan beberapa pandangan terkait bikameralisme.  \nAdanya dua kamar perwakilan atau bikameralisme sebenarnya lahir untuk \nmendorong adanya checks and balances  di dalam  lembaga perwakilan. Perlu \ndigarisbawahi, kata kunci dalam konte ks parlemen bikameral (dan dalam politik \nsecara umum) adalah ‘kompetisi’. Perlu ada ‘kompetisi’ antara dewan tinggi dan \ndewan rendah untuk memunculkan kondisi  saling mengontrol yang menimbulkan \nkeseimbangan politik ( checks and balances ) di dalam parlemen itu sendiri. Dan \nmemang, kebutuhan akan ada nya dua dewan dalam satu lembaga perwakilan \nadalah untuk mewakili konstituensi yang berbeda sehingga terjadi proses \ndeliberasi yang lebih baik. Karena itu pula, biasanya wewenangnya dibuat \nsedemikian rupa sehingga ada kelebihan dan kekurangan yang didisain berbeda di \nantara keduanya. Dengan b egitu, dapat terjadi proses yang membatasi \nkewenangan yang berlebihan dari suatu lembaga politik. \nUntuk memberikan gambaran mengenai “k ompetisi politik” antara dua kamar \nini, penelitian yang dilakukan oleh Ar end Lijphart terhadap 36 negara yang \nmenganut bikameral dapat dijadikan refere nsi. Lijphart menyimpulkan adanya dua \nkarakter untuk melihat keberadaan sist em bikameral yang diterapkan kuat ( strong \nbicameralism) atau lemah ( weak bicameralism ) [FN] (Lijphart, 1999: 203-205). \nPertama, kewenangan konstitusional yang dimiliki oleh kedua kamar. \nKecenderungannya, kamar kedua ( Senate di Amerika Serikat, Bundesrat di \nJerman, atau DPD di Indonesia) biasany a mempunyai kewenangan yang lebih \nkecil daripada kamar pertama ( House of Representatives  di Amerika Serikat, \nBundestag di Jerman, atau DPR di Indonesia). Kedua, signifikansi politik kamar \nkedua tergantung tidak hanya dari kekuatan formal mereka, melainkan juga dari \ncara pemilihan anggotanya.  \n\n \n \n16\nKedua karakter ini saling berkaitan. Kamar kedua yang anggotanya tidak dipilih \nsecara langsung mempunyai legitimasi yang minimal dan karenanya biasanya \nmempunyai peran politik yang kurang pentin g. Oleh sebab itu, ada tendensi kamar \nkedua, yang anggotanya punya legitimasi kuat karena dipilih secara langsung, \ndiberikan wewenang yang lebih kecil daripada kamar pertama. Dari kedua karakter \nini, Lijphart kemudian mengklasifikasi par lemen bikameral menjadi dua kelompok, \nyaitu simetris dan asimetris. Bikameral di katakan simetris bila kekuatan di antara \nkamar pertama dan kedua relatif setara dan disebut asimetris bila kekuatan di \nantara keduanya sangat tidak berimbang. \nDi titik ini, yang penting untuk digarisbawah i adalah tesis Lijphart yang kedua, \nmengenai pentingnya cara pemilihan ang gotanya untuk menentukan seberapa \nbesar lembaga legislatif berkamar dua ini bisa menimbulkan situasi checks and \nbalances. Cara pemilihan dapat dipahami dari dua aspek, yaitu bagaimana \nanggota dipilih dan dari mana anggota berasal.  \nAspek pertama bicara sistem Pemilu dan aspek kedua berbicara soal \nkonstituensi, termasuk afiliasi politik  dan geografis. Aspek yang kedua kelihatan \ntidak berkaitan langsung, tetapi dalam kont eks politik, justru aspek ini menjadi \nsangat relevan karena kekuatan kompetisi akan bisa “diciptakan” melalui desain \nbagian ini. \nSeperti disampaikan sebelumnya, tidak ada template model bikameralisme \nyang efektif. Sehingga referensi pada model bikameral Amerika Serikat, misalnya, \ntidak bisa langsung dipadankan dengan model Indonesia. Amerika Serikat yang \njuga menganut sistem presidensil memang membuat aspek kepartaian sangat kuat",
+      "start_line": 556,
+      "end_line": 609
+    },
+    {
+      "heading": "di Senate, namun pembagian wewenang antara House of Representatives dan",
+      "slug": "di-senate-namun-pembagian-wewenang-antara-house-of-representatives-dan",
+      "text": "Senate, federalisme yang dianutnya, sert a kondisi kepartaian dalam ruang \ndemokrasi yang lebih tua membuatnya tidak bisa dijadikan acuan secara langsung.  \nKarena itu pula, dalam pandangan saya, Mahkamah telah sangat mendalam \ndalam pembahasannya untuk sampai pada konklusi bahwa syarat “bukan \npengurus dan/atau anggota partai politik” untuk calon anggota DPD bukan \nmerupakan norma konstitusi yang implisit melekat pada Pasal 22E ayat (4) UUD",
+      "start_line": 611,
+      "end_line": 616
+    },
+    {
+      "heading": "1945. Namun demikian, penafsi ran yang cenderung bercorak gramatikal itu perlu",
+      "slug": "1945-namun-demikian-penafsi-ran-yang-cenderung-bercorak-gramatikal-itu-perlu",
+      "text": "ditelaah lebih lanjut dengan menggunakan penafsiran historis atau original intent.  \n\n \n \n17\nSaya memahami penafsir an Mahkamah dalam Putusan Nomor 10/PUU-\nVI/2008 sebagai gramatikal meskipun Mahk amah menggunakan kata ‘implisit’ \n(bukan eksplisit) karena Mahkamah mem ahami Pasal 22E ayat (4) UUD 1945 \ndengan menegaskan perbedaan antara mencal onkan dirinya sendiri sebagai \nanggota DPD dengan dicalonkan oleh Partai Politik. Dikatakan:  \n“Mahkamah berdasarkan perspektif desai n konstitusional DPD dalam UUD \n1945 sebagaimana telah diur aikan dalam paragraf [3.18.1], berpendapat \nbahwa syarat non-Parpol bagi calon anggota DPD bukan merupakan norma \nkonstitusi yang implisit melekat pada Pasal 22E ayat (4) UUD 1945 yang \nberbunyi, “ Peserta pemilihan umum unt uk memilih anggota Dewan \nPerwakilan Daerah adalah perseorangan.” Kandungan norma yang \ntercantum dalam Pasal 22E ayat (4) UUD 1945 adalah bahwa untuk \nmencalonkan diri sebagai calon anggo ta DPD, perseorangan harus \n‘mencalonkan’ dirinya sendiri sebagai peserta Pemilu, bukan dicalonkan \noleh Parpol. Hal itu berbeda d engan calon anggota DPR, perseorangan \nyang ingin menjadi anggota DPR harus  dicalonkan oleh Parpol yang \nmerupakan peserta Pemilu [ vide Pasal 22E ayat (3) UUD 1945]. Dalam UU \n12/2003 dan draf RUU Pemilu versi Peme rintah yang dijadikan rujukan oleh \npara Pemohon, juga tidak ada istilah non-Parpol, melainkan hanya bukan \npengurus Parpol.” \nBila dibaca ulang perjalanan proses pembentukan DPD, akan terlihat adanya \nkeinginan yang kuat atau original intent  dari para pembahas Amandemen UUD \n1945 1999-2002 untuk membuat desain DPD tidak bercorak kuat sebagai \nperwakilan partai politik.  \nMunculnya gagasan bikameral bermula da ri pernyataan resmi Fraksi Utusan \nGolongan (F-UG) dalam rapat Badan Pe kerja (MPR BP MPR) yang ditugaskan \nmempersiapkan materi Sidang MPR.  Fraksi UG mengemukakan bahwa \nkeberadaannya tidak diperlukan lagi  di MPR karena merupakan hasil \npengangkatan dan bukan pemilihan. Hal ini bertentangan dengan semangat \ndemokrasi yang menghendaki bekerjanya prinsip perwakilan berdasarkan \npemilihan.  Anggota FUG memapark an dua pilihan yang tersedia. Pertama, \nkonsep awal UUD 1945 yaitu MPR yang mempersatukan kelompok yang ada \ndalam masyarakat. Kedua, menerapkan sistem perwakilan dua kamar dengan \nmemperhatikan prinsip bahwa semua wakil rakyat harus dipilih melalui Pemilu. \nLalu muncul gagasan untuk lebih m eningkatkan peran Utudan Daerah yang \nperannya terbatas pada penyusunan GBHN ya ng hanya dilakukan lima tahun \nsekali. Dalam suasana inilah, lahir gagasan  untuk melembagakan Utusan Daerah \n\n \n \n18\nyang lebih mencerminkan representasi wila yah dan bekerja secara efektif. Tidak \nhanya sekali dalam lima tahun.  \nMPR lantas menugaskan Badan Pekerja ( BP) MPR untuk melanjutkan proses \nperubahan tersebut melalui Ketetapan MP R Nomor IX/MPR/2000. Persiapan \nrancangan perubahan UUD 19 45 dilakukan dengan menggunakan materi-materi \ndalam lampiran ketetapan yang mer upakan hasil BP MPR periode 1999-2000. \nKetetapan itu juga memberikan bat as waktu pembahasan dan pengesahan \nperubahan UUD 1945 oleh MPR selambat-lambatnya pada Sidang Tahunan MPR \ntahun 2002. Materi mengenai DPD tercantum  pada Bab VIIA Pasal 22D dan 22E. \nUntuk usulan Pasal 22E ayat (2), diaj ukan dua alternatif terkait dengan wewenang \nDPD.  \nBP MPR kemudian menyiapkan kegiatan  yang meliputi penggalian aspirasi \nmasyarakat, pembahasan dan perumusan r ancangan, uji sahih rumusan dan \npembahasan akhir. Untuk keperluan ini dibentuklah Panitia Ad Hoc I (PAH I).   \nDalam pembahasan, perumusan, laporan -laporan diskusi di daerah yang \ndisampaikan di daerah, muncul keinginan kuat tentang adanya Dewan Perwakilan \nDaerah.  \nBerdasarkan Keputusan MPR Nomor 7/ MPR/2001 dibentuk Komisi A yang \nbertugas memusyawarahkan dan mengam bil putusan mengenai Rancangan \nPerubahan UUD 1945 dan Usul Rancangan Ketetapan MPR tentang \nPembentukan Komisi Konsitusi.  \nMekanisme pembahasan dilakukan tiap bab dengan dua putaran. Pada \nputaran pertama, pembahasan melalui cu rah pendapat anggota Komisi A. Lalu \nditeruskan dengan putaran kedua yang merupakan pendapat fraksi. Hasil \npembahasan tiap fraksi tersebut dilanjutk an dengan lobi. Selanjutnya, dilakukan \nperumusan oleh tim lobi dan tim perumus  yang terdiri dari pimpinan komisi dan \nsatu orang wakil dari masing-masing fraksi. \nDalam pembahasan di komisi A tersebut, dalam Pasal 2 ayat (1) muncul dua \nalternatif.  Pertama, MPR terdiri atas anggota DPR dan anggota DPD yang dipilih \nmelalui pemilihan umum ditambah dengan UG . Kedua , keberadaan UG \ndihapuskan dari susunan MPR. Hampir seluruh fraksi di Komisi A memilih alternatif \nkedua. Namun, hal ini dito lak tegas oleh F-UG sehingga sempat mengalami \ndeadlock. Sementara di sisi lain, Fraksi TNI dan Polri se ndiri, yang dipilih \n\n \n \n19\nberdasarkan pengangkatan, tidak lagi memaksa untuk menjadi wakil di MPR \npada periode transisi hingga tahun 2009.  Meski, jalan keluar yang disepakati \nadalah mengurangi jumlah keanggotaan fraksinya. Hal ini disebabkan karena \nTNI dan POLRI tidak memiliki hak pilih. \nSingkat kata, pada Sidang Paripurna  ke-7 8 November 2001, Komisi A \nmenyampaikan hasil pembahasannya yang disahkan keesokan harinya \nsebagai bagian dari perubahan ketiga UUD 1945. Rumusan ini akhirnya \ndisetujui sebagai bagian dari UUD 1945 yang di amandemen.  \nDari rangkaian peristiwa di atas, akan terlihat bahwa secara historis, ada \nkeinginan yang kuat untuk memiliki DPD yang tidak kuat bercorak partai politik. Hal \nitu memang tidak diungkapkan secara eksplisit maupun implisit dalam norma \nkonstitusi, namun saya ingin mengajak  kita semua mengambil sudut pandang \npenafsiran yang berbeda. \nIntensi dari para pembahas amandemen UUD 1999-2002 juga dapat dilihat \ndari latar belakang perubahan sistem ketatanegaraan kita. Dilihat dari Naskah \nPembahasan Amandemen 1999-2002, paling tidak terbaca tiga hal yang \nmelatarbelakangi diskusi mengenai DPD. Pertama, kebutuhan dalam pembenahan \nsistem ketatanegaraan yang berkait an dengan supremasi MPR dan adanya \nanggota-anggota yang tidak di pilih dan tidak efektif (utusan golongan dan utusan \ndaerah). Kedua, kebutuhan untuk mengakomodasikan  masyarakat daerah secara \nstruktural. Ketiga, kebutuhan Indonesia saat ini untuk menerapkan sistem checks \nand balances dan mendorong demokratisasi.",
+      "start_line": 618,
+      "end_line": 722
+    },
+    {
+      "heading": "3. Relevansi Masuknya Partai Politik ke DPD",
+      "slug": "3-relevansi-masuknya-partai-politik-ke-dpd",
+      "text": "Melewati kurun waktu 2002 sampai 2018, selanjutnya, sesuai dengan Putusan \nNomor 10/PUU-VI/2008, Undang-Undang a quo  memuat persyaratan yang tidak \nlagi memuat mengenai syarat domisil i dan non-parpol. Serupa dengan undang-\nundang a quo, undang-undang yang menjadi dasar hukum Pemilu sebelumnya, \nyaitu UU Nomor 8 Tahun 2012 tentang Pemilihan Anggota DPR, DPD, dan DPRD \ntidak lagi memuat ketentuan tersebut.  \nAkibatnya cukup banyak anggota partai politik yang terpilih menjadi anggota \nDPD. Seperti kemudian diketahui, pada akhir 2016 terjadi upaya perubahan Tata \nTertib DPD yang berujung pada pertikaian fi sik di dalam Sidang Paripurna karena \nadanya perebutan Pimpinan DPD.  Hal ini kemudian diik uti dengan upaya-upaya \n\n \n \n20\npada jalur hukum melalui Mahkamah Agung dan masih menyisakan berbagai \npersoalan hingga saat ini.  \nTentu saja banyak sebab yang membuat  pertikaian itu terjadi, namun saya \ndalam kesempatan ini ingin menunjukkan pula suatu fakta yang menarik mengenai \nkeanggotaan DPD. Hingga akhir 2017, pali ng tidak ada 78 dari 132 anggota DPD \nyang menjadi pengurus partai politik, seperti yang ditunjukkan pada gambar di \nbawah ini. Ini berarti lebih dari setengah jumlah anggota DPD adalah pengurus \npartai politik. \n \nSumber: IPC, 2017, dari http://ipc.or. id/katastrofi-dewan-perwakilan-daerah-\nparpolisasi-korupsi-dan-kemelut-konflik/ (diakses 26 Juni 2018) \nPertikaian tersebut menimbulkan skeptisisme di kalangan masyarakat \nmengenai DPD. Misalnya saja, dalam su rvei Poltracking Indonesia pada 8-15 \nNovember 2017 menunjukkan bahwa DPD adalah salah satu lembaga yang paling \ntidak dipercaya oleh publik, bersama deng an Partai Politik dan Dewan Perwakilan \nRakyat (DPR). Masing-masing mendapat persentase sebesar 48 persen untuk \npartai, 50 persen untuk DPR dan 52 persen untuk DPD. Berkaca dari peristiwa di \natas, ada dua hal yang membuat masukn ya pengurus partai -bukan sekadar \nanggota partai- menjadi semakin tidak relevan dengan karakter konstitusional DPD \n(dengan penafsiran historis di atas).  \n\n \n \n21\nPertama, adanya pengurus partai politik telah mendorong adanya perubahan \nkarakter keterwakilan DPD. DPD kini telah dilihat sebagai wadah baru bagi partai \npolitik untuk memperjuangkan kepentingannya secara langsung dan kasat mata. \nPertikaian yang terjadi untuk merebut Pimp inan DPD, harus dilihat dalam konteks \nyang lebih luas dari sekadar perebutan  fasilitasi keuangan dan protokoler. \nPimpinan DPD juga akan mempunya pengar uh pada konstelasi Pimpinan MPR \ndan juga kekuatan politik untuk kepentingan-kepentingan pemerintah vs. “oposisi.”  \nDPD menjadi lebih bercorak partai politik daripada kedaerahan. Keduanya \nmemang tidak mudah untuk dipilah dan di definisikan. Namun yang ingin saya \nsoroti adalah agenda politik partai di ti ngkat nasional, seperti perubahan UUD dan \nlegislasi yang berkaitan dengan politik ; dan agenda politik daerah yang lebih \nspesifik pada kepentingan daerah, seperti legislasi terkait pemerintahan daerah \ndan soal memperjuangkan kepentingan kons tituensi berbasis provinsi di dalam \nlegislasi. \nKedua, model atau cara kerja partai politik yang lebih berbasis pada massa \nanggota daripada konstituensi wilayah t anda sekat keanggotaan partai politik \nterbawa ke dalam DPD.  \nKonsisten dengan pandangan saya di atas mengenai kompetisi, \nsesungguhnya secara prinsip, saya m enyetujui pandangan mengenai partai politik \ndalam DPD dengan alasan kekuatan untuk berko mpetisi. Afiliasi ataupun sekadar \npemihakan pada partai politik, tidaklah bi sa dihindari, namun yang menjadi \npersoalan di sini adalah soal kepe ngurusan, bukan soal keanggotaan. \nKepengurusan dalam partai politik menjadikan karakter keterwakilan partai politik \nmenjadi menguat di dalam DPD sehingg a membawa DPD keluar dari koridor \nkonstitusionalnya sebagai perwakilan daerah.",
+      "start_line": 724,
+      "end_line": 786
+    },
+    {
+      "heading": "4. Konflik Kepentingan bagi Pengurus Partai Politik",
+      "slug": "4-konflik-kepentingan-bagi-pengurus-partai-politik",
+      "text": "Dalam bagian ini saya akan menjaw ab pertanyaan mengenai “apakah \nkepengurusan dalam partai politik dapat dima knai sebagai “pekerjaan lain yang \ndapat menimbulkan konflik kepentingan” dalam konteks Undang-Undang Nomor 7 \nTahun 2017 tentang Pemilihan Umum Pasal 182 huruf l?” \nBanyak definisi yang bisa kita ambil mengenai konflik kepentingan, apalagi \nyang berkaitan dengan tindak pidana korups i maupun transaksi bisnis. Namun \nkonflik kepentingan sesungguhnya jauh lebih luas daripada itu. Konflik kepentingan \n\n \n \n22\nterkait erat dengan etik dan tanggung jawab dal am menjalankan pekerjaan. Situasi \napapun di mana kepentingan pribadi maupun organisasi yang dibawa oleh \nseseorang akan mempengaruhi pekerjaan ataupun penilaian professional \nseseorang, maka konflik kepentingan telah terjadi.  \nKepentingan partai politik dilaksanakan se cara konkrit dan sistematis oleh \npengurus-pengurusnya. Sikap polit ik maupun ideologi partai politik akan selalu \ndiusung oleh anggota maupun simpatisan partai politik, namun agenda konkrit \npartai politik wajib dilaksanakan oleh pengurusnya.  \nPentingnya kepengurusan ini juga bisa  dilihat dari norma-norma dalam \nUndang-Undang Nomor 2 Tahun 2011 tent ang Perubahan Atas  Undang-Undang \nNomor 2 Tahun 2008 tentang Partai Politik. Negara mengatur partai politik melalui \npola kepengurusan serta kewajiban pelaporan k epengurusan partai politik secara \nadministratif.  \nKonflik kepentingan dalam konteks in i mengandaikan adanya kepentingan \nyang berbeda antara kepentingan pengurus partai politik dengan “kepentingan dan \nhak sebagai anggota DPD”. Pertanyaann ya, benarkah ada kepentingan yang \nberbeda dan dapat berkonflik? \n“Kepentingan sebagai anggot a DPD” di sini dapat  dimaknai sebagai \nkepentingan yang dilandaskan pada kondisi daerah. Dalam konteks yang mikro \nper daerah, tidak terlalu sulit untuk m engidentifikasinya, namun dalam konteks \nmakro dalam arti DPD yang lebih luas dan terdiri dari banyak daerah, kepentingan \nini seakan menjadi kabur, tetapi sebenarny a tetap ada. Kepentingan daerah yang \ndimaksud di sini misalnya saja mengenai berbagai legislasi yang terkait dengan \notonomi daerah serta yang secara spesifik disebut dalam Pasal 22D UUD 1945.  \nSedangkan kepentingan sebaga i “pengurus partai politik” terkait langsung \ndengan agenda jangka pendek partai politik, yang tergantung pada posisinya vis a \nvis pemerintah: apakah ia mendukung atau tidak mendukung pemerintah. Di \nsinilah kepentingan ini bisa berbenturan. Benturan ini bisa terjadi karena dua hal.  \nPertama, soal posisi politik terhadap pemer intah. Apa yang dianggap penting \nbagi daerahnya bisa jadi tidak dianggap pent ing karena tidak sesuai dengan posisi \npolitik partai yang bersangkutan.  \n\n \n \n23\nKedua, soal kepentingan politik dan ekonom i lokal, yang biasanya sudah \nterkapling dalam elite lokal yang tergambar dalam partai politik. Apa yang \nseharusnya diperjuangkan untuk daerahnya bisa jadi menimbulkan hambatan bagi \npartai politiknya untuk memenangkan pilk ada di daerahnya at au menutup akses \nekonomi tertentu seperti izin pertambangan atau investasi. \nKepentingan daerah dan kepent ingan partai politik memang tidak bisa \ndidikotomikan atau dihadap-hadapkan, nam un tetap bisa dibedakan sehingga \npada akhirnya bisa menimbulkan konflik kepentingan.  \nKita bisa berbicara mengenai ‘kepent ingan bangsa’ ataupun ‘kepentingan \nkonstituen’ dan berbagai istilah lainny a yang kerap dijadikan Bahasa undang-\nundang dan Bahasa pidato. Tetapi kita semua juga menyadari bahwa frasa-frasa \ntersebut kebanyakan berupa jargon yang sulit untuk diturunkan ke tingkat \noperasional. Sementara proses politik di dewan pada akhirnya akan berujung pada \noperasionalisasi kepentingan melalui legislasi, pengawasan, maupun anggaran.  \nPertanyaan berikutnya, buk ankah kepentingan daerah ti dak menjadi spesifik \nDPD karena anggota DPR juga dipilih berdasarkan daerah pemilihan? Tidak betul, \nkarena karakter keterwakilan DPR d an DPD berbeda. Dalam konteks inilah \nmengapa saya menafsirkan ulang desain konstitusional DPD dengan metode \noriginal intent . Karakter ini ditentukan oleh desain konstitusionalnya; dan dalam \npemahaman saya, DPD sebenarnya sudah didesain untuk mewakili daerah karena \nutusan daerah dalam MPR yang lama di anggap tidak efektif dalam mewakili \ndaerah sementara salah satu  tuntutan penting reformasi  (yang menjadi latar \nbelakang amandemen 1999-200 2) adalah untuk lebih menguatkan daerah untuk \ntujuan kesejahteraan rakyat yang lebih merata. DPD dimaksudkan oleh para \npembahas amandemen UUD 1945 1999-2002 untuk  bisa menjawab tuntutan ini. \nKarena itulah ia dibuat dengan wewenang yang lebih spesifik pad a urusan tertentu \ndan dengan model Pemilu yang berbeda, yaitu bukan dicalonkan oleh partai politik. \n[2.3] Menimbang bahwa terhadap perm ohonan Pemohon, Presiden \nmenyampaikan keterangan dalam per sidangan tanggal 24 Mei 2018 yang \nkemudian dilengkapi keterangan tertulis Presiden yang diterima di Kepaniteraan \nMahkamah pada tanggal 12 Juli 2018, yang pada pokoknya menerangkan hal \nsebagai berikut: \n\n \n \n24\nI. POKOK PERMOHONAN PEMOHON \nBahwa pada pokoknya Pemohon memohon untuk menguji frasa “pekerjaan \nlain” dalam Pasal 182 huruf l U ndang-Undang Nomor 7 Tahun 2017 tentang \nPemilihan Umum (yang selanjutnya dis ebut UU Pemilu), yang selengkapnya \nberbunyi sebagai berikut: “ Perseorangan sebagaimana dimaksud dalam Pasal \n181 dapat menjadi Peserta Pemilu setelah memenuhi persyaratan: (l) bersedia \nuntuk tidak berpraktik sebagai akuntan publik, advokat, notaris, pejabat \npembuat akta tanah, dan/atau tidak melakukan pekerjaan penyedia barang \ndan jasa yang berhubungan dengan keuangan negara serta pekerjaan lain  \nyang dapat menimbulkan konflik k epentingan dengan tugas , wewenang, dan \nhak sebagai anggota DPD sesuai dengan ketentuan per aturan perundang-\nundangan.” \nterhadap Pasal 28D ayat (1) Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 (yang selanjutnya disebut UUD 1945) yang berbunyi, \n“Setiap   orang   berhak   atas  pengakua n,   jaminan,   perlindungan,   dan \nkepastian  hukum  yang  adil  serta  per lakuan  yang  sama  di  hadapan \nhukum.” \nII. KEDUDUKAN HUKUM ( LEGAL STANDING) PEMOHON \nTerhadap kedudukan hukum ( legal standing ) tersebut, Pemerintah \nmenyerahkan sepenuhnya kepada Ketua/Ma jelis Hakim Mahkamah Konstitusi \nyang mulia untuk mempertimbangkan dan menilai apakah Pemohon memiliki \nkedudukan hukum ( legal standing ) atau tidak sebagaimana yang diatur oleh \nPasal 51 ayat (1) Undang-Undang t entang Mahkamah Konstitusi dan \nberdasarkan Putusan Mahkamah Kons titusi Nomor 006/PUU-III/2005 dan \nNomor 011/PUU-V/2007. \nIII. PENJELASAN PEMERINTAH TERHA DAP MATERI YANG DIMOHONKAN",
+      "start_line": 788,
+      "end_line": 895
+    },
+    {
+      "heading": "1. UUD 1945 Pasal 2 ayat (1) menyatakan bahwa \"kedaulatan berada di",
+      "slug": "1-uud-1945-pasal-2-ayat-1-menyatakan-bahwa-kedaulatan-berada-di",
+      "text": "tangan rakyat dan dilaksanakan menurut  Undang-Undang Dasar\". Makna \ndari “kedaulatan berada di tangan rakyat” adalah bahwa rakyat memiliki \nkedaulatan, tanggung jawab, hak dan ke wajiban untuk secara demokratis \nmemilih pemimpin yang akan mem bentuk pemerintahan guna mengurus \ndan melayani seluruh lapisan masyarakat serta memilih wakil-wakil rakyat \n\n \n \n25\nuntuk mengawasi jalannya pemerint ahan. Perwujudan kedaulatan rakyat \ndimaksud dilaksanakan melalui pemilihan umum secara langsung sebagai \nsarana bagi rakyat untuk memilih wakilwakilnya yang akan menjalankan \nfungsi melakukan pengawasan, menyal urkan aspirasi politik rakyat, \nmembuat undang-undang sebagai  landasan bagi semua pihak di Negara \nKesatuan Republik Indonesia dalam menjalankan fungsi masing-masing, \nserta merumuskan anggaran pendapatan dan belanja untuk membiayai \npelaksanaan fungsi-fungsi tersebut.",
+      "start_line": 898,
+      "end_line": 914
+    },
+    {
+      "heading": "2. Sesuai ketentuan Pasal 22E ay at (6) UUD 1945, pemilihan umum untuk",
+      "slug": "2-sesuai-ketentuan-pasal-22e-ay-at-6-uud-1945-pemilihan-umum-untuk",
+      "text": "memilih anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, \nPresiden dan Wakil Presiden dan Dewan Perwakilan Rakyat Daerah  \ndiselenggarakan berlandaskan asas langsung, umum, bebas, rahasia, jujur, \ndan adil setiap lima tahun sekali. Pemilihan umum dimaksud \ndiselenggarakan dengan menjamin prinsip keterwakilan, yang artinya setiap \norang Warga Negara Indonesia terjamin  memiliki wakil yang duduk di \nlembaga perwakilan yang akan menyuar akan aspirasi rakyat di setiap \ntingkatan pemerintahan, dari pusat hingga ke daerah.",
+      "start_line": 916,
+      "end_line": 923
+    },
+    {
+      "heading": "3. Dengan asas langsung, rakyat sebagai pemilih mempunyai hak untuk",
+      "slug": "3-dengan-asas-langsung-rakyat-sebagai-pemilih-mempunyai-hak-untuk",
+      "text": "memberikan suaranya secara langs ung sesuai dengan kehendak hati \nnuraninya, tanpa perantara. Pemilihan  yang bersifat umum mengandung \nmakna menjamin kesempatan yang berlaku menyeluruh bagi semua warga \nnegara, tanpa diskriminasi berdasarkan suku, agama, ras, golongan, jenis \nkelamin, kedaerahan, pekerjaan, dan status sosial. Setiap pemilih dan \npeserta Pemilu mendapat perlakuan yang sama, serta bebas dari \nkecurangan pihak manapun.",
+      "start_line": 925,
+      "end_line": 931
+    },
+    {
+      "heading": "4. DPD dibentuk dalam rangka menata struktur parlemen Indonesia menjadi",
+      "slug": "4-dpd-dibentuk-dalam-rangka-menata-struktur-parlemen-indonesia-menjadi",
+      "text": "dua kamar (bikameral) yang terdiri dari DPR dan DPD. Secara filosofis, \nmodel bikameral diharapkan dapat mer epresentasikan kepentingan rakyat \nsecara lebih utuh dan menyelur uh, yaitu DPR diharapkan dapat \nmencerminkan representasi politik dan DP D representasi wilayah. Artinya, \nDPR sebagai representasi politik anggotanya dipilih melalui pintu Parpol, \nsedangkan DPD sebagai representasi wil ayah, anggotanya dipilih melalui \ncalon perseorangan tanpa melalui Parpol dan \n\n \n \n26\nmerupakan wakil dari setiap provinsi.",
+      "start_line": 933,
+      "end_line": 944
+    },
+    {
+      "heading": "5. Selain itu, untuk me ngakomodasi aspirasi k eanekaragaman daerah, sesuai",
+      "slug": "5-selain-itu-untuk-me-ngakomodasi-aspirasi-k-eanekaragaman-daerah-sesuai",
+      "text": "dengan ketentuan Pasal 22C UUD 1945,  dibentuk Dewan Perwakilan \nDaerah (DPD) yang anggota- anggotanya dipilih dari  perseorangan yang \nmemenuhi persyaratan dalam pem ilihan umum bersamaan dengan \npemilihan umum untuk memilih anggota DPR dan DPRD.",
+      "start_line": 946,
+      "end_line": 949
+    },
+    {
+      "heading": "6. Perubahan UUD 1945 melahirkan sebuah lembaga baru dalam struktur",
+      "slug": "6-perubahan-uud-1945-melahirkan-sebuah-lembaga-baru-dalam-struktur",
+      "text": "ketatanegaraan Indonesia, yakni DPD yang dengan kehadirannya, sistem \nperwakilan di Indonesia DPR diduk ung dan diperkuat oleh DPD. DPR \nmerupakan lembaga perwakilan berdasar kan aspirasi dan paham politik \nrakyat sebagai pemegang kedaulat an, sedangkan DPD merupakan \nlembaga perwakilan penyalur ke anekaragaman aspirasi daerah. \nKeberadaan lembaga DPD merupak an upaya menampung prinsip \nperwakilan daerah (vide  Sekretariat Jenderal MPR RI, 2003: 180 dan \nSekretariat Jenderal MPR RI, 2006: 93)",
+      "start_line": 951,
+      "end_line": 958
+    },
+    {
+      "heading": "7. Sistem perwakilan ya ng dianut Indonesia merupakan sistem yang khas",
+      "slug": "7-sistem-perwakilan-ya-ng-dianut-indonesia-merupakan-sistem-yang-khas",
+      "text": "Indonesia karena dibentuk sebagai perwujudan kebutuhan, kepentingan, \nserta tantangan bangsa dan negara I ndonesia. Keberadaan DPD dalam \nstruktur ketatanegaraan di Indonesia dimaksudkan untuk: \n(1). memperkuat ikatan daerah-dae rah dalam wadah Negara Kesatuan \nRepublik Indonesia dan memperteguh persatuan kebangsaan seluruh \ndaerah; \n(2). meningkatkan agregasi dan akom odasi aspirasi dan kepentingan \ndaerah-daerah dalam perumusan kebijakan nasional berkaitan dengan \nnegara dan daerah;  \n(3). mendorong percepatan demok rasi, pembangunan, dan kemajuan \ndaerah secara serasi dan seimbang. \n Dengan demikian, k eberadaan daerah sebagaimana dimaksud dalam Pasal \n18 ayat (1) dan otonomi daerah sebagai mana dimaksud dalam Pasal 18 \nayat (5) berjalan sesuai dengan keragaman daerah dalam rangka kemajuan \nbangsa dan negara (vide Sekretariat Jenderal MPRI, 2003: 80 dan 2006: \n93) \n\n \n \n27",
+      "start_line": 960,
+      "end_line": 979
+    },
+    {
+      "heading": "8. Pembentukan Dewan Perwakilan D aerah (DPD) melalui pemilihan umum",
+      "slug": "8-pembentukan-dewan-perwakilan-d-aerah-dpd-melalui-pemilihan-umum",
+      "text": "dilaksanakan berdasarkan prinsip kesamaan hak dan kedudukan setiap \nwarga negara dalam menggunakan hakny a untuk dipilih, sehingga calon \nanggota Dewan Perwakilan Daerah (DPD) ti dak tidak dibatasi menurut latar \nbelakang atau status polit iknya (Parpol atau non-Parpol). Hal ini sesuai \ndengan prinsip kesamaan kedudukan hukum  warga negara dalam Negara \nKesatuan Republik Indonesia.",
+      "start_line": 981,
+      "end_line": 986
+    },
+    {
+      "heading": "9. Secara kelembagaan DPD sebagai le mbaga negara diberikan hak dan/atau",
+      "slug": "9-secara-kelembagaan-dpd-sebagai-le-mbaga-negara-diberikan-hak-dan-atau",
+      "text": "kewenangan konstitusional ya ng diatur dalam Pasal 22D ayat (1), ayat (2), \nayat (3), Pasal 23 ayat (2), Pasal 23E ayat (2), Pasal 23F ayat (1) UUD",
+      "start_line": 988,
+      "end_line": 989
+    },
+    {
+      "heading": "1945. Meskipun Pemohon a quo berkedudukan sebagai perorangan WNI,",
+      "slug": "1945-meskipun-pemohon-a-quo-berkedudukan-sebagai-perorangan-wni",
+      "text": "secara konstitusional tidak ada kerugian oleh berlakunya Pasal 182 huruf l \nUU Pemilu, karena secara perseorangan setiap WNI diberikan hak untuk \nmencalonkan diri menjadi anggota DP D. Dengan demikian Pemerintah \nberanggapan tidak ada kerugian konsti tusional Pemohon, mengingat \nPemohon tetap mempunyai hak konstitusional untuk menjadi peseta Pemilu \nDPD sepanjang memenuhi ketentuan UU a quo. Sehingga Pasal a quo \nsama sekali tidak menghalangi Pemo hon untuk dapat dipilih menjadi \nanggota DPD.",
+      "start_line": 991,
+      "end_line": 998
+    },
+    {
+      "heading": "10. Sebagai perorangan warga negara Indonesia, undang-undang memang",
+      "slug": "10-sebagai-perorangan-warga-negara-indonesia-undang-undang-memang",
+      "text": "mengatur hak memilih dan hak dipilih. Namun demikian UU Pemilu telah \nmemberikan jaminan  hak politik warga negara sebagaimana diatur dalam \nPasal 27 ayat (1) juncto  Pasal 28D ayat (1) UUD 1945 yang menjamin \nsetiap warga negara berhak atas pengak uan, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perlakuan yang sama di hadapan hukum. \nPasal yang diuji memberi perlakuan yang sama terhadap semua warga \nNegara yang berkedudukan sama dengan Pem ohon, serta tidak bersifat \ndiskriminarif dengan tidak membedakan  perlakuan berdasarkan suku, \nagama, rasa, golongan, keyakinan politik.",
+      "start_line": 1000,
+      "end_line": 1008
+    },
+    {
+      "heading": "11. Terhadap frasa “pekerjaan lain” merupakan pengaturan yang sifatnya",
+      "slug": "11-terhadap-frasa-pekerjaan-lain-merupakan-pengaturan-yang-sifatnya",
+      "text": "antisipatif terhadap jenis- jenis pekerjaan lainnya di luar yang telah diatur \ndalam UU a quo yang di kemudian hari dapat saja menimbulkan konflik \nkepentingan dengan tugas, wewenang, dan hak sebagai anggota DPD. \n\n \n \n28",
+      "start_line": 1010,
+      "end_line": 1016
+    },
+    {
+      "heading": "12. Sebagaimana diatur dalam Pasal 22D UUD 1945, kewenangan",
+      "slug": "12-sebagaimana-diatur-dalam-pasal-22d-uud-1945-kewenangan",
+      "text": "konstitusional DPD di  bidang legislasi, anggaran, pertimbangan dan \npengawasan selalu dikaitkan dengan kepentingan dan aspirasi daerah. \nSecara singkat dapat dikata kan bahwa UUD 1945 memberikan \nkewenangan konstitusional kepada DP D untuk memperjuangkan aspirasi \ndan kepentingan daerah dalam pengambilan keputusan politik di tingkat \npusat.",
+      "start_line": 1018,
+      "end_line": 1023
+    },
+    {
+      "heading": "13. Seharusnya Pemohon dapat sepenuhny a menyadari, ada pendapat yang",
+      "slug": "13-seharusnya-pemohon-dapat-sepenuhny-a-menyadari-ada-pendapat-yang",
+      "text": "menyatakan bahwa anggota DPD yang beras al dari Parpol belum tentu \ndengan sendirinya pasti tidak akan da pat menjadi wakil kepentingan/ \naspirasi daerah yang baik dan akan  lebih banyak mengutamakan \nkepentingan/aspirasi partainya, dengan mengemukakan contoh bahwa \nterdapat negara-negara demokrasi di dunia yang anggota Senatnya berasal \ndari Parpol atau boleh berasal dari Parpol tetapi dapat melaksanakan \namanatnya sebagai representasi daerah dengan baik, misalnya Amerika \nSerikat.",
+      "start_line": 1025,
+      "end_line": 1032
+    },
+    {
+      "heading": "14. Mengenai tiadanya pemaknaan frasa “ pekerjaan lain” sebagai termasuk",
+      "slug": "14-mengenai-tiadanya-pemaknaan-frasa-pekerjaan-lain-sebagai-termasuk",
+      "text": "pula “fungsionaris partai politik, maka dalam kaitannya dengan Pasal 22E \nayat (4) UUD 1945, justru mencerminkan prinsip “ equality before the law ” \ndalam kualifikasi subjek hukum per seorangan sebagai calon anggota DPD. \nPenormaan syarat “pekerjaan lain” sebagai termasuk didalamnya adalah \nbekerja sebagai fungsionaris partai po litik justru mengurangi esensi dari \nsemangat kata “perseorangan” yang pada prinsipnya boleh berasal dari \nmanapun. Mengenai permohona n pengujian pemaknaan frasa “pekerjaan \nlain” dalam UU a quo , in casu ketiadaan syarat bukan sebagai fungsionaris \npartai politik bagi calon anggota DPD, maka menurut  Pemerintah, apabila \nbelum berada dalam norma  undang-undang, hal itu tidak dapat dimintakan \npengujian, karena objeknya belum terbentuk.",
+      "start_line": 1034,
+      "end_line": 1044
+    },
+    {
+      "heading": "15. bahwa ketentuan Pasal 22E ayat (4) UUD 1945 mengandung makna bahwa",
+      "slug": "15-bahwa-ketentuan-pasal-22e-ayat-4-uud-1945-mengandung-makna-bahwa",
+      "text": "anggota DPD yang dipilih melalui pe milihan umum harus  calon dari \nperseorangan  (perseorangan berarti se tiap warga negara baik anggota \npartai politik maupun bukan anggota part ai politik), bukan calon yang \ndiajukan oleh partai politik, yang dapat juga menimbulkan tafsir \nkonstitusional bahwa meskipun cal on anggota DPD berasal dari partai \n\n \n \n29\npolitik, sepanjang yang bersangkutan menc alonkan diri atas nama pribadi \nsecara perseorangan, tidak diajukan atau dicalonkan oleh partai politik yang \nbersangkutan, maka atas nama perseorangan dapat mencalokan diri \nmenjadi anggota DPD.",
+      "start_line": 1046,
+      "end_line": 1058
+    },
+    {
+      "heading": "16. Sebagai wujud implementasi dari negara hukum yang demokratis tersebut,",
+      "slug": "16-sebagai-wujud-implementasi-dari-negara-hukum-yang-demokratis-tersebut",
+      "text": "dibangunnya suatu sistem pemilihan umum yang langsung dipilih rakyat \nmelalui suatu instrumen undang-undang yang dibentuk oleh DPR bersama \nPresiden. Bahwa esensi pemilihan umum adalah pelaksanaan kedaulatan \nrakyat. Kedaulatan adalah di tangan rakyat. Rakyat memiliki hak untuk \nmemilih wakilnya secara langsung. Inilah prinsip dasar pemilihan umum \nyang tidak boleh direduksi dengan cara apapun. Meskipun tidak ada syarat \ntidak bekerja sebagai fungsionaris partai politik, namun masih terdapat \nbeberapa tahapan-tahapan untuk menjadi a nggota DPD, yaitu \nmengumpulkan dukungan dan yang paling penting adalah dipilih oleh rakyat",
+      "start_line": 1060,
+      "end_line": 1068
+    },
+    {
+      "heading": "di provinsi tersebut. Hak untuk memberikan dukungan dan hak untuk",
+      "slug": "di-provinsi-tersebut-hak-untuk-memberikan-dukungan-dan-hak-untuk",
+      "text": "memilih tetap di tangan rakyat. Denga n demikian ada suatu lompatan cara \nberpikir dari para Pemohon dengan m enafikan keberadaan rakyat. Dalam \nsistem pemilihan umum yang demokratis maka rakyat pemilih-lah yang \nakan menentukan wakil mereka.",
+      "start_line": 1070,
+      "end_line": 1073
+    },
+    {
+      "heading": "17. Harus dipahami bahwa kata ”perseorangan” dalam Pasal 22E ayat (4) UUD",
+      "slug": "17-harus-dipahami-bahwa-kata-perseorangan-dalam-pasal-22e-ayat-4-uud",
+      "text": "1945 bermakna bahwa pencalonannya adalah tidak melalui partai politik \nyang mana arti ”perseorangan” itu lebi h bermakna tidak dicalonkan oleh \npartai politik meskipun yang bersangkutan adalah anggota partai politik.",
+      "start_line": 1075,
+      "end_line": 1077
+    },
+    {
+      "heading": "18. Bahwa yang dimaksud dengan perseorangan adalah tidak membedakan",
+      "slug": "18-bahwa-yang-dimaksud-dengan-perseorangan-adalah-tidak-membedakan",
+      "text": "apakah berasal dari perseorangan itu s endiri maupun perseorangan dari \npartai politik, artinya penekanannya pada proses pencalonan, walaupun \nberasal dari partai politik tetapi  orang tersebut mempunyai basis \nkemampuan yang besar dan tidak dicalonkan oleh partainya maka dia dapat \nmencalonkan diri secara pribadi sebagai anggota DPD.",
+      "start_line": 1079,
+      "end_line": 1083
+    },
+    {
+      "heading": "19. Menurut Pemerintah pengaturan Pasal 182 huruf l UU a quo sudah tepat",
+      "slug": "19-menurut-pemerintah-pengaturan-pasal-182-huruf-l-uu-a-quo-sudah-tepat",
+      "text": "dan selaras dengan konstitusi, hal te rsebut didasarkan pemikiran bahwa \nPasal 22E ayat (4) UUD 1945 yang berbunyi, “Peserta pemilihan umum \nuntuk memilih anggota Dewan Perwakilan Daerah adalah perseorangan” \n\n \n \n30\ntidak serta merta harus diartikan atau ditafsirkan bahwa warga negara yang \nberasal dari partai politik (Parpol) tidak boleh menjadi calon anggota DPD. \nSelain itu, pengaturan tersebut sama sekali tidak mengurangi hak calon \nperseorangan yang nonParpol untuk m enjadi calon anggota DPD dan juga \ntidak mengurangi ruang dan kesem patan mereka untuk mendapatkan \ndukungan dari penduduk/pemilih.",
+      "start_line": 1085,
+      "end_line": 1097
+    },
+    {
+      "heading": "20. Bahwa persoalan mengenai apakah persyaratan untuk dapat menjadi",
+      "slug": "20-bahwa-persoalan-mengenai-apakah-persyaratan-untuk-dapat-menjadi",
+      "text": "anggota DPD harus meliputi juga persya ratan tidak berkedudukan sebagai \nfungsionaris partai politik atau tidak berasal dari partai politik adalah \npersoalan yang pernah diputus oleh Mahkamah berdasarkan Putusan \nNomor 10/PUU-VI/2008 yang pada pok oknya menyatakan antara lain \nbahwa “Syarat “bukan pengurus dan/atau anggota partai politik” untuk calon \nanggota DPD bukan merupakan norma konstitusi yang implisit melekat \npada Pasal 22E ayat (4) UUD 1945, sehingga tidak merupakan syarat untuk \nmenjadi calon anggota DPD yang harus dic antumkan dalam Pasal 12 dan \nPasal 67 UU 10/2008 ” (vide Putusan Nomor 10/PUU-VI/2008 bagian \nKonklusi paragraph [4.3]).",
+      "start_line": 1099,
+      "end_line": 1108
+    },
+    {
+      "heading": "21. Bahwa apabila frasa “pekerjaan lain” dalam Pasal 182 huruf l adalah",
+      "slug": "21-bahwa-apabila-frasa-pekerjaan-lain-dalam-pasal-182-huruf-l-adalah",
+      "text": "conditionaly constitutional yakni bertentangan dengan UUD 1945 dan tidak \nmemiliki kekuatan hukum mengikat, sepanjang tidak dimaknai termasuk \nsebagai pengurus (fungsionaris) partai politik, maka justru dapat \nmenimbulkan ketidakpastian huku m dalam hal pengaturan persyaratan \nuntuk menjadi calon anggota Dewan Perwakilan Daerah (DPD) dengan \nalasan: \na. Dapat menjadi pintu masuk (entry point ) pihak-pihak tertentu untuk \nmengajukan keberatan-keberatan at au gugatan-gugatan terhadap hasil  \npenyelenggaraan pemilihan umum.  \nb. Dapat mengganggu pelaksanaan pr oses penyelenggaraan Pemilihan \nUmum secara keseluruhan, khususnya untuk pemilihan anggota DPD.",
+      "start_line": 1110,
+      "end_line": 1120
+    },
+    {
+      "heading": "22. Bahwa Pemerintah menghargai us aha-usaha yang dilakukan oleh",
+      "slug": "22-bahwa-pemerintah-menghargai-us-aha-usaha-yang-dilakukan-oleh",
+      "text": "masyarakat dalam ikut memberik an sumbangan dan partisipasi pemikiran \ndalam membangun pemahaman tentang ketatanegaraan. Pemikiran-\npemikiran masyarakat tersebut akan m enjadi sebuah rujukan yang sangat \n\n \n \n31\nberharga bagi Pemerintah pada khususnya dan masyarakat Indonesia pada \numumnya. Atas dasar pemikiran te rsebut, Pemerintah berharap agar \nPemohon nantinya dapat ikut sert a memberi masukan dan tanggapan \nterhadap penyempurnaan UU a quo di masa mendatang dalam bentuk \npartisipasi masyarakat dalam pembentukan peraturan perundang-\nundangan. Harapan Pemerintah pula bahwa  dialog antara masyarakat dan \nPemerintah tetap terus terjaga dengan satu tujuan bersama untuk \nmembangun kehidupan berbangsa dan bernegara demi masa depan \nIndonesia yang lebih baik dan mengembangkan dirinya dalam \nkepemerintahan dengan tujuan ikut berkont ribusi positif mewujudkan cita-\ncita bangsa Indonesia sebagaimana dalam Alinea Keempat UUD 1945. \nIV. PETITUM \nBerdasarkan keterangan tersebut di at as, Pemerintah memohon kepada Yang \nMulia Ketua/Anggota Majelis Hakim M ahkamah Konstitusi yang memeriksa, \nmengadili, dan memutus permohonan pengujian Pasal 182 huruf l Undang-\nUndang Nomor 7 Tahun 2017 tentang Pemilih an Umum terhadap Pasal Pasal \n28D ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, \nuntuk memberikan putusan sebagai berikut:",
+      "start_line": 1122,
+      "end_line": 1146
+    },
+    {
+      "heading": "1. Menolak permohonan pengujian para Pemohon seluruhnya atau setidak-",
+      "slug": "1-menolak-permohonan-pengujian-para-pemohon-seluruhnya-atau-setidak",
+      "text": "tidaknya menyatakan permohonan pengujian Pemohon tidak dapat diterima \n(niet ontvankelijk verklaard);",
+      "start_line": 1148,
+      "end_line": 1149
+    },
+    {
+      "heading": "3. Menyatakan Pasal 182 huruf l Undang-Undang Nomor 7 Tahun 2017",
+      "slug": "3-menyatakan-pasal-182-huruf-l-undang-undang-nomor-7-tahun-2017",
+      "text": "tentang Pemilihan Umum tidak ber tentangan dengan Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 dan tetap mempunyai \nkekuatan hukum mengikat. \nNamun apabila Ketua/Majelis Hakim Ma hkamah Konstitusi berpendapat lain \nmohon kiranya dapat mem berikan putusan yang bijaksana dan seadil-adilnya \n(ex aequo et bono). \n[2.4] Menimbang bahwa Pemohon telah menyerahkan kesimpulan yang \nditerima Kepaniteraan Mahkamah pada tanggal 16 Juli 2018 dan Presiden yang \n\n \n \n32\nditerima Kepaniteraan Mahkamah pada tanggal 17 Juli 2018, yang pada pokoknya \npara pihak tetap pada pendiriannya; \n[2.5] Menimbang bahwa untuk mempersi ngkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan  cukup ditunjuk dalam Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahkan dengan \nputusan ini.",
+      "start_line": 1152,
+      "end_line": 1169
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasa l 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD 1945, \nPasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diubah dengan Undang-Undang Nomor \n8 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi (Lembaran N egara Republik Indonesia Tahun 2011 \nNomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 5226, \nselanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor \n48 Tahun 2009 tentang Kekuasaan Kehakim an (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Ta mbahan Lembaran Negara Republik \nIndonesia Nomor 5076), M ahkamah berwenang, antara  lain, mengadili pada \ntingkat pertama dan terakhir yang putusannya bersifat final untuk menguji Undang-\nUndang terhadap UUD 1945; \n[3.2]   Menimbang bahwa oleh karena permohonan Pemohon adalah \npermohonan untuk menguji konstitu sionalitas norma undang-undang, in casu  \nUndang-Undang Nomor 7 Tahun 2017 tentan g Pemilihan Umum (Lembaran \nNegara Republik Indonesia Tahun 2017 No mor 182, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6109, selanjutnya disebut UU Pemilu) terhadap UUD \n1945, maka Mahkamah berwenang mengadili permohonan a quo; \nKedudukan Hukum (Legal Standing)  Pemohon \n[3.3]   Menimbang bahwa berdasar kan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajuk an permohonan pengujian undang-undang \n\n \n \n33\nterhadap UUD 1945 adalah mereka yang menganggap hak dan/atau kewenangan \nkonstitusionalnya yang diberikan oleh UUD 1945 dirugikan oleh berlakunya suatu \nundang-undang, yaitu: \na.  perorangan warga negara Indonesia (t ermasuk kelompok orang yang    \nmempunyai kepentingan sama); \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai dengan \nperkembangan masyarakat dan prinsip Ne gara Kesatuan Republik Indonesia \nyang diatur dalam undang-undang;",
+      "start_line": 1171,
+      "end_line": 1205
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap UUD 1945 \nharus menjelaskan terlebih dahulu: \na. kedudukannya sebagai para Pemohon sebagaimana dimaksud dalam Pasal 51 \nayat (1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional yang diberikan \noleh UUD 1945 yang diakibatkan oleh berlakunya undang-undang yang \ndimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada huruf a; \n[3.4]  Menimbang bahwa Mahkamah sejak Putusan Nomor 006/PUU-III/2005 \ntanggal 31 Mei 2005 dan Putusan Nomor 11/PUU-V/2007 tanggal 20 September \n2007 serta putusan-putusan sel anjutnya, telah berpendirian bahwa kerugian hak \ndan/atau kewenangan konstitusional sebaga imana dimaksud dalam Pasal 51 ayat \n(1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na.  adanya hak dan/atau kewenangan ko nstitusional para Pemohon yang \ndiberikan oleh UUD 1945; \nb.  hak dan/atau kewenangan konstitusi onal tersebut oleh para Pemohon \ndianggap dirugikan ol eh berlakunya undang- undang yang dimohonkan \npengujian;",
+      "start_line": 1208,
+      "end_line": 1224
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (khusus) dan aktual",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-khusus-dan-aktual",
+      "text": "atau setidak-tidaknya potensial yang menurut penalaran yang wajar dapat \ndipastikan akan terjadi;",
+      "start_line": 1226,
+      "end_line": 1227
+    },
+    {
+      "heading": "d. adanya hubungan sebab-aki bat antara kerugian dimaksud dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-aki-bat-antara-kerugian-dimaksud-dan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \n\n \n \n34\ne. adanya kemungkinan bahwa dengan di kabulkannya permohonan, maka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi; \n[3.5]  Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitusional \nsebagaimana diuraikan di at as, selanjutnya Mahkamah akan mempertimbangkan \nkedudukan hukum (legal standing) Pemohon sebagai berikut:",
+      "start_line": 1229,
+      "end_line": 1239
+    },
+    {
+      "heading": "1. Bahwa norma Undang-Undang yang dimohonkan dalam permohonan a quo",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-dalam-permohonan-a-quo",
+      "text": "adalah Pasal 182 huruf l UU Pemilu, yang rumusannya masing-masing \nberbunyi sebagai berikut: \nPerseorangan sebagaimana dimaksud dal am Pasal 181 dapat menjadi \nPeserta Pemilu setelah memenuhi persyaratan: \n(a) … \n(b) ... \n(l)  bersedia untuk tidak berprakti k sebagai akuntan publik, advokat, \nnotaris, pejabat pembuat akta t anah, dan/atau tidak melakukan \npekerjaan penyedia barang dan ja sa yang berhubungan dengan \nkeuangan negara serta pekerjaan lain yang dapat menimbulkan konflik \nkepentingan dengan tugas, wewenang, dan hak sebagai anggota DPD \nsesuai dengan ketentuan peraturan perundang-undangan.",
+      "start_line": 1241,
+      "end_line": 1253
+    },
+    {
+      "heading": "2. Bahwa Pemohon, Muhammad Hafidz, dalam kualifikasinya perseorangan",
+      "slug": "2-bahwa-pemohon-muhammad-hafidz-dalam-kualifikasinya-perseorangan",
+      "text": "warga negara Indonesia menganggap hak konstitusionalnya telah dirugikan \noleh berlakunya norma Undang-Undang sebagaimana dimaksud pada angka \n1 dengan argumentasi yang pada intinya sebagai berikut: \na. Pemohon adalah calon anggota DPD Provinsi Jawa Barat Peserta \nPemilihan Umum 2014 (bukti P-4 dan bukti P-5); \nb. Pemohon memiliki hak konstitusional atas pengakuan, jaminan, \nperlindungan, dan kepastian hukum yang adil serta perlakuan yang sama",
+      "start_line": 1255,
+      "end_line": 1261
+    },
+    {
+      "heading": "di hadapan hukum, sebagaim ana diatur dalam Pasal 28D ayat (1) UUD",
+      "slug": "di-hadapan-hukum-sebagaim-ana-diatur-dalam-pasal-28d-ayat-1-uud",
+      "text": "1945;",
+      "start_line": 1263,
+      "end_line": 1263
+    },
+    {
+      "heading": "c. Pemohon, yang belum pernah m enjadi anggota partai politik dan",
+      "slug": "c-pemohon-yang-belum-pernah-m-enjadi-anggota-partai-politik-dan",
+      "text": "bermaksud untuk kembali mencalonkan diri sebagai calon anggota DPD \npada Pemilu 2019, menganggap hak konsti tusionalnya atas kepastian \nhukum sebagaimana dimaksud dalam Pasal 28D ayat (1) UUD 1945 \ndirugikan oleh tidak jelasnya frasa “pekerjaan lain” dalam Pasal 182 huruf \nl \nUU Pemilu a quo; \n\n \n \n35",
+      "start_line": 1265,
+      "end_line": 1274
+    },
+    {
+      "heading": "d. Tidak adanya kejelasan perihal frasa “pekerjaan lain” sebagaimana",
+      "slug": "d-tidak-adanya-kejelasan-perihal-frasa-pekerjaan-lain-sebagaimana",
+      "text": "diuraikan pada huruf c di atas mem buka kemungkinan untuk diartikan \nbahwa pengurus partai politik untuk mencalonkan diri sebagai anggota \nDPD di mana hal tersebut bertentangan maksud asli ( original intent ) \ndibentuknya DPD sebagai wujud representasi masyarakat lokal yang harus \nbebas dari kepentingan partai politik tertentu. Dalam kaitan inilah Pemohon \nmenganggap tidak mendapatkan kepastian hukum yang adil sebagaimana \ndimaksud dalam Pasal 28D ayat (1) UUD 1945.  \nBerdasarkan penjelasan Pemohon sebagaimana diuraikan di atas, \nPemohon telah secara spesifik menjela skan hak konstitusionalnya yang potensial \ndirugikan dan potensi kerugian dimaks ud menurut penalaran yang wajar dapat \ndipastikan akan terjadi, sehingga telah tampak adanya hubungan kausal ( causal-\nverband) antara kerugian hak konstitusional yang didalilkan dan berlakunya Pasal \n182 huruf l UU Pemilu; oleh karena itu jika permohonan a quo dikabulkan, potensi \nkerugian hak konstitusional dimaksud tidak  akan terjadi. Dengan demikian, \nterlepas dari terbukti atau tidak terbuk tinya dalil Pemohon perihal pertentangan \nPasal 182 huruf  l  UU Pemilu dengan UUD 1945, Mahkamah berpendapat \nPemohon memiliki kedudukan hukum ( legal standing ) untuk bertindak sebagai \nPemohon dalam Permohonan a quo; \n[3.6]  Menimbang bahwa karena Mahk amah berwenang mengadili \nPermohonan a quo  dan Pemohon memiliki keduduk an hukum untuk bertindak \nsebagai Pemohon, maka selanjutnya Mahkamah akan mempertimbangkan pokok \npermohonan. \nPokok Permohonan \n[3.7]  Menimbang bahwa dalam mendalilka n inkonstitusionalitas frasa \n“pekerjaan lain” dalam Pasal 182 huruf l UU Pemilu Pemohon mengemukakan \nargumentasi yang pada pokoknya sebagai berikut:  \na. Bahwa Pasal 22D UUD 1945 telah meng atur fungsi, tugas, dan kewenangan \nDPD; \nb. Bahwa Mahkamah Konstitusi telah pul a menyatakan desain fungsi, tugas, dan \nkewenangan DPD sebagaimana termuat dal am Putusan Mahkamah Konstitusi \n\n \n \n36\nNomor 10/PUU-VI/2008, bertanggal 1 Juli 2008. Dalam paragraf [3.18.1] huruf f \n(halaman 205-206) Putusan tersebut, Mahkamah menyatakan: \nDengan demikian, dapat disimpulk an bahwa desain konstitusional DPD \nsebagai organ konstitusi adalah: \n1) DPD merupakan repr esentasi daerah (territorial representation) yang \nmembawa dan memperjuangkan aspirasi dan kepentingan daerah \ndalam kerangka kepentingan nasional, sebagai imbangan atas dasar \nprinsip “checks and balances”  terhadap DPR yang merupakan \nrepresentasi politik ( political representation ) dari aspirasi dan \nkepentingan partai-partai politik dalam kerangka kepentingan \nnasional; \n2) Keberadaan DPR dan DPD dalam sistem ketatanegaraan Indonesia \nyang seluruh anggotanya menjadi anggota MPR bukanlah berarti \nbahwa sistem perwakilan Indonesia  menganut sistem perwakilan \nbikameral, melainkan sebagai ga mbaran tentang sistem perwakilan \nyang khas Indonesia; \n3) Meskipun kewenangan konstitusi onal DPD terbatas, namun dari \nseluruh kewenangannya di bidang legislasi, anggaran, pengawasan, \ndan pertimbangan sebagaimana diatur dalam Pasal 22D UUD 1945, \nkesemuanya terkait dan berorie ntasi kepada kepentingan daerah \nyang harus diperjuangkan secara nasional berdasarkan postulat \nkeseimbangan antara kepentingan nasional dan kepentingan daerah; \n4) Bahwa sebagai representasi daer ah dari setiap provinsi, anggota \nDPD dipilih melalui Pemilu dari se tiap provinsi dengan jumlah yang \nsama, berdasarkan pencalonan secara perseorangan, bukan melalui \nPartai, sebagai peserta Pemilu.",
+      "start_line": 1276,
+      "end_line": 1336
+    },
+    {
+      "heading": "c. Bahwa, berdasarkan urai an pada huruf a dan huruf b di atas, frasa “pekerjaan",
+      "slug": "c-bahwa-berdasarkan-urai-an-pada-huruf-a-dan-huruf-b-di-atas-frasa-pekerjaan",
+      "text": "lain” yang diikuti dengan frasa “yang dapat  menimbulkan konflik kepentingan \ndengan tugas, wewenang, dan hak sebagai  anggota DPD sesuai dengan \nketentuan peraturan perundang-undangan” dalam Pasal 182 huruf l UU Pemilu \nharuslah dinyatakan inkonstitusional ber syarat terhadap Pasal 28D ayat (1) \nUUD 1945, karena: \n(i) Keberadaan DPD dalam sistem ketatanegaraan Indonesia adalah untuk \nmembangun mekanisme kontrol dan keseimbangan antarcabang \nkekuasaan negara. DPD dibentuk untuk  memperjuangkan aspirasi daerah \nsekaligus memperkuat ikatan-ikat an daerah dalam Negara Kesatuan \nRepublik Indonesia, makin meneguhkan persatuan kebangsaan seluruh \ndaerah, meningkatkan agregasi dan  kepentingan daerah dalam \nperumusan kebijakan nasional, sert a mendorong percepatan demokrasi, \npembangunan dan kemajuan daerah secara berkeadilan dan \nberkesinambungan; \n\n \n \n37\n(ii) Meskipun menjadi an ggota DPD adalah hak konstitusional setiap warga \nnegara, seorang anggota DPD yang juga pengurus partai politik akan \nmenimbulkan benturan kepentingan ka rena harus menjalankan dua peran \nsekaligus yaitu peran sebagai anggota DPD dan peran sebagai pengurus \n(fungsionaris) partai politik. Pemohon masih mentolerir adanya anggota \npartai politik menjadi anggota DPD kar ena kecil kemungkinan timbulnya \nbenturan kepentingan dalam menjalankan tugas, wewenang, dan haknya \nsebagai anggota DPD. Pemohon selanjut nya menyertakan tabel yang \nmemuat adanya sejumlah anggota DPD yang sekaligus merupakan \nfungsionaris partai politik di 16 (enam belas) partai politik; \n(iii) Syarat calon anggot a DPD tidak menjadi pengurus partai politik \nsesungguhnya telah pernah dimuat dalam Pasal 63 huruf b Undang-\nUndang Nomor 12 Tahun 2003 tentang Pemilihan Umum Anggota Dewan \nPerwakilan Rakyat, Dewan Perwakila n Daerah, dan Dewan Perwakilan \nRakyat Daerah, yaitu tidak menjadi pengurus partai politik sekurang-\nkurangnya 4 (empat) tahun yang di hitung sampai dengan tanggal \npengajuan calon. Tidak adanya lagi persyaratan demikian dalam UU \nPemilu a quo  tidak dapat dianggap sekadar sebagai open legal policy  \nsebab keberadaan DPD yang bebas dari campur tangan partai politik \nmemungkinkan hadirnya DPD sebagai pilar demokrasi lokal;",
+      "start_line": 1338,
+      "end_line": 1375
+    },
+    {
+      "heading": "d. Berdasarkan seluruh argumentasi di atas, Pe mohon kemudian memohon agar",
+      "slug": "d-berdasarkan-seluruh-argumentasi-di-atas-pe-mohon-kemudian-memohon-agar",
+      "text": "Mahkamah menyatak an Pasal 182 huruf l UU Pemilu bertentangan dengan \nUUD 1945 secara bersyarat yaitu sepanjang frasa “pekerjaan lain” dalam norma \nUndang-Undang a quo  tidak dimaknai termasuk sebagai pengurus \n(fungsionaris) partai politik. \n[3.8]  Menimbang bahwa untuk menguatkan dalil  permohonannya, Pemohon \ntelah mengajukan alat bukti surat/tulisan yang diberi tanda bukti P-1 sampai \ndengan bukti P-5 serta mengajukan satu orang ahli, yaitu Bivitri Susanti, yang telah \ndidengar keterangannya dalam persidangan tanggal 10 Juli 2018; \n[3.9]  Menimbang bahwa Mahkamah telah pula mendengar keterangan \nPresiden baik yang disampaikan langs ung dalam persidangan tanggal 24 Mei \n2018 maupun yang disampaikan secara tertulis sebagai bagian yang tak \n\n \n \n38\nterpisahkan dari keterangan yang disampaikan langsung dalam persidangan \ndimaksud. \n[3.10]  Menimbang bahwa setelah memeriksa  secara saksama permohonan     \na quo , persoalan konstitusional yang harus  dipertimbangkan oleh Mahkamah \nadalah: apakah yang dimaksud dengan frasa “pekerjaan lain yang dapat \nmenimbulkan konflik k epentingan dengan tugas, wew enang, dan hak sebagai \nanggota DPD” dalam Pasal 182 huruf l UU Pemilu a quo. Persoalan konstitusional \ndimaksud tidak mungkin dipahami secara  tepat jika tidak dihubungkan secara \nkontekstual dengan keberadaan DPD. Oleh karena itu, sebelum \nmempertimbangkan lebih jauh dalil-dalil Pemohon, menjadi keniscayaan bagi \nMahkamah untuk terlebih dahul u menelaah secara ringkas latar belakang historis \nlahirnya DPD. Tinjauan historis dem ikian bukanlah dimaksudkan untuk \nmengabsolutkan penafsiran sejarah dalam memahami suatu persoalan \nkonstitusional dengan berpegang teguh pada maksud asli (original intent) perumus \nUndang-Undang Dasar dengan mengabaikan per kembangan masyarakat tempat \nUndang-Undang Dasar itu berlaku, melain kan semata-mata untuk memahami \ndasar pemikiran pembentukan lembaga negar a ini (DPD) sebagai bagian dari \nsistem ketatanegaraan Indonesia setelah dilakukannya perubahan terhadap UUD",
+      "start_line": 1377,
+      "end_line": 1409
+    },
+    {
+      "heading": "1945. Pemahaman dasar pemikiran atau lata r belakang demikian diperlukan untuk",
+      "slug": "1945-pemahaman-dasar-pemikiran-atau-lata-r-belakang-demikian-diperlukan-untuk",
+      "text": "menilai relevansinya dengan perkembanga n dan kebutuhan masyarakat dalam \nkehidupan bernegara sehingga UUD 1945 senantiasa menjadi konstitusi yang \nhidup (living constitution). \n[3.11]  Menimbang bahwa kehadiran DPD merupakan bagian tak terpisahkan \ndari perubahan UUD 1945 yang telah m engubah secara mendasar sistem \nketatanegaraan Indonesia dari sistem ketatanegaraan yang memberlakukan \nprinsip supremasi MPR m enjadi sistem ketatanegar aan yang memberlakukan \nprinsip supremasi Konstitusi. MPR, selaku lembaga negara yang berwenang \nmengubah dan menetapkan U ndang-Undang Dasar, mendasarkan alasan \ndilakukannya perubahan itu pada hakikat  Pembukaan UUD 1945. Karena itu, \nseluruh fraksi yang ada di MPR pada saat awal dilakukannya perubahan UUD \n1945 secara aklamasi bersepakat untuk tidak mengubah Pembukaan UUD 1945. \nSebaliknya, justru menjadikan Pembuk aan UUD 1945 tersebut sebagai titik tolak \ndan landasan perubahan itu. Dalam kaitan ini, MPR menjelaskan antara lain: \n\n \n \n39\nPembukaan Undang-Undang Dasar 1945  memuat dasar filosofis dan \ndasar normatif yang mendasari selu ruh pasal dalam Undang-Undang \nDasar 1945. Pembukaan Undang- Undang Dasar 1945 mengandung \nstaatsidee berdirinya Negara Kesatuan Republik Indo nesia (NKRI), tujuan \n(haluan) negara, serta das ar negara yang harus te tap dipertahankan [vide \nMajelis Permusyawaratan Rakyat Republik Indonesia, 2003, Panduan \nPemasyarakatan Undang-Undang Da sar Negara Republik Indonesia \nTahun 1945: Latar Bela kang, Proses, dan Hasil Perubahan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, h. 23-24).  \n Pandangan dan pendirian MPR terhadap Pembukaan UUD 1945 \ntersebut yang kemudian dijadikan titik tolak melakukan perubahan terhadap UUD \n1945 bukan hanya memiliki legitimasi politik  tetapi juga legitimasi akademik. \nSecara doktriner, pembukaan suatu und ang-undang dasar (konstitusi tertulis) \nmencerminkan karakter ideologis undang-undang dasar yang bersangkutan (dan \nnegara yang hendak dibentuk berdasark an undang-undang dasar itu) yang \nmemuat gagasan-gagasan religius, moral,  dan politik yang hendak dikedepankan \natau dibangun. Dari rumusan yang tert uang dalam alinea keempat Pembukaan \nUUD 1945 terdapat sejumlah hal mendasar yang dapat diidentifikasi yang secara \nholistik dan sebagai satu kebulatan menggambarkan jiwa UUD 1945, yaitu: \n Pertama , bahwa Undang-Undang Dasa r Negara Indonesia itu \nmerupakan perwujudan Kemerdekaan Kebangsaan Indonesia. Hal ini jelas \nmerujuk pada Proklamasi Kemerdek aan 17 Agustus 1945, sehingga UUD 1945 \nadalah kelanjutan sekalig us penjabaran lebih jauh Kemerdekaan Kebangsaan \nIndonesia; \n Kedua , bahwa Undang-Undang Dasar Negara Indonesia itu perlu \ndisusun guna membentuk suatu Pemeri ntah Negara Indonesia. Hal ini jelas \nmerujuk pada syarat pendirian negara karena p ada saat itu (ketika Kemerdekaan \nKebangsaan Indonesia diproklamasikan)  baru memiliki wilayah dan penduduk \nyang mendiami wilayah itu namun belum memiliki pemerintahan; \n Ketiga, bahwa Pemerintah Negara Indonesia yang dibentuk berdasarkan \nUndang-Undang Dasar Negara Indonesia itu adalah pemerintah yang melindungi \nsegenap bangsa dan seluruh tumpah darah I ndonesia, memajukan kesejahteraan \numum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia. \nHal ini merupakan amanat se kaligus kewajiban konstitu sional yang ditujukan \nkepada siapa pun yang menjalankan pemerintahan di Indonesia berdasarkan UUD \n1945; \n\n \n \n40\n Keempat , bahwa dasar atau landasan keikutsertaan Pemerintah Negara \nIndonesia dalam melaksanakan keterti ban dunia itu adalah kemerdekaan, \nperdamaian abadi, dan keadilan sosial. Ha l ini, di satu pihak, menunjukkan \nkesadaran Bangsa Indonesia sebagai bagian dari masyarakat dunia (internasional) \ndan di lain pihak menentukan prinsip-prinsip dasar keikutsertaan Indonesia dalam \npergaulan internasional dalam rangka mewujudkan ketertiban dunia dimaksud; \n Kelima , bahwa Pemerintah Negara Indonesia yang hendak dibentuk \nberdasarkan Undang-Undang Dasar Negara Indonesia itu adalah sebuah Republik \nyang berkedaulatan rakyat. Hal ini jelas merujuk pada bentuk negara yang hendak \ndidirikan, yaitu republik bukan keraj aaan, di mana di dalamnya rakyatlah yang \nberdaulat. Dengan kata lain, negara yang hendak didirikan adalah sebuah republik \nyang berlandaskan prinsip-pr insip demokrasi sebab h anya dalam demokrasilah \nrakyat berdaulat; \n Keenam , bahwa Negara Republik Indones ia yang berkedaulatan rakyat \nyang hendak dibentuk berdasarkan Undang- Undang Dasar Negara Indonesia itu \nadalah berdasarkan Ketuhanan Yang Maha Esa, Kemanusiaan yang adil dan \nberadab, Persatuan Indonesia, Kerakya tan yang dipimpin oleh hikmat \nkebijaksanaan dalam permusyawaratan/ perwakilan, serta dengan mewujudkan \nsuatu Keadilan Sosial bagi seluruh rakyat Indonesia. Hal ini merujuk pada dasar \nnegara Pancasila yang sekaligus merupak an ideologi negara serta tujuan yang \nhendak dicapai atau diwujudkan. \n Dengan demikian, dari Pembukaan UUD 1945 tersebut, khususnya \nalinea keempat, dapat diidentifikasi buk an hanya gagasan religius, moral, dan \npolitik yang hendak dikedepankan tetapi juga sekaligus suasana atau arah yang \nhendak dituju oleh UUD 1945 tersebut ya itu sebagai Undang- Undang Dasar yang \nmerupakan perwujudan kehendak rakyat ( the will of the people ), bukan kehendak \nsekelompok orang atau elite; yang dengan kata lain berarti hendak mewujudkan \nkehidupan bernegara dan berbangsa yang demokratis, serta dasar negara yang \nsekaligus menggambarkan tujuan didiri kannya Negara Kesatuan Republik \nIndonesia.  \n Dengan menjadikan Pembukaan UUD 1945 sebagai landasan \nperubahan terhadap UUD 1945, MPR hendak  mewujudkan semangat yang \nterkandung dalam Pembukaan UUD 1945 te rsebut ke dalam pasal-pasal UUD \n1945 yang dalam pandangan MPR saat itu (ketika dilakukannya perubahan \n\n \n \n41\nterhadap UUD 1945) tidak terimplementasikan secara tepat dalam sistem \nketatanegaraan yang lama (sebelum dilakukan perubahan terhadap UUD 1945). \nDalam hubungan ini MPR menyatakan antara lain: \nUndang-Undang Dasar 1945 (maksudnya, UUD 1945 sebelum dilakukan \nperubahan) membentuk struktur ketatanegaraan yang bertumpu pada \nkekuasaan tertinggi di tangan MPR yang sepenuhnya melaksanakan \nkedaulatan rakyat. Hal ini ber akibat pada tidak terjadinya checks and \nbalances pada institusi-institusi ketat anegaraan. Penguasaan terhadap \nMPR adalah kata kunci bagi kekuasaan pemerintahan negara yang \nseakan-akan tanpa ada hubungannya lagi dengan rakyat… \nPerubahan ketentuan ini mengalihkan ne gara Indonesia dari sistem MPR \nkepada sistem kedaulatan rakyat yang  diatur melalui Undang-Undang \nDasar 1945. Undang-Undang Dasar 1945- lah yang menjadi dasar dan \nrujukan utama dalam menjalankan k edaulatan rakyat. Aturan dalam \nUndang-Undang Dasar 1945 itulah ya ng mengatur dan membagi \npelaksanaan kedaulatan rakyat kepada rakyat itu sendiri dan atau kepada \nberbagai lembaga negara. \nPerubahan ini menetapkan bahwa kedaulatan tetap di tangan rakyat, \nsedangkan lembaga-lembaga negara mela ksanakan bagian-bagian dari \nkedaulatan itu menurut wewenang, tugas, dan fungs i yang diberikan oleh \nUndang-Undang Dasar 1945. Dengan peru bahan ini maka tidak dikenal \nlagi istilah lembaga tertinggi negar a ataupun lembaga tinggi negara. \nKedudukan masing-masing lembaga negar a tergantung pada wewenang, \ntugas, dan fungsi yang diberikan ol eh Undang-Undang Dasar 1945 [vide \nMajelis Permusyawaratan Rakyat Republik Indonesia, 2003, Panduan \nPemasyarakatan Undang-Undang Da sar Negara Republik Indonesia \nTahun 1945: Latar Bela kang, Proses, dan Hasil Perubahan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 , halaman 11 dan \nhalaman 146). \n[3.12]  Menimbang bahwa setelah mengetahui hal-hal mendasar berkenaan \ndengan dasar pemikiran yang melandasi dilakukannya perubahan terhadap UUD \n1945 tersebut, pertanyaan konstitusional yang muncul dalam konteks permohonan \na quo  adalah: apa hakikat keberadaan DPD dala m sistem ketatanegaraan yang \nbaru tersebut? Secara historis, pembentuk an DPD dilandasi oleh pemikiran untuk \nlebih mengakomodasi aspirasi daer ah dan mengikutsertakannya dalam \npengambilan keputusan-keputusan politik di  tingkat nasional terutama yang \nlangsung berkait dengan kepentingan daerah.  Hal itu dipandang penting karena \ndalam sistem ketatanegaraan yang la ma (sebelum dilakukan perubahan UUD \n1945), aspirasi daerah dapat dikatakan hampir tidak terakomodasi. Aspirasi daerah \nsaat itu hanya diwadahi oleh Utusan Daerah sebagai bagian dari keanggotaan \nMPR yang hanya bersidang sekali dalam lima  tahun [vide Pasal 2 ayat (1) dan \nayat (2) UUD 1945 sebelum perubahan]. Pe ran Utusan Daerah inilah yang hendak \n\n \n \n42\nditingkatkan sehingga aspirasi daerah le bih terwadahi dan terakomodasi. Oleh \nkarena itu, sebelum dis epakati bernama DPD, nama le mbaga negara ini sempat \ndiusulkan bernama Dewan Utusan Daerah.  \n Pentingnya mendengar aspirasi  daerah dan melibatkannya dalam \npengambilan keputusan politik untuk hal- hal tertentu juga dimaksudkan sebagai \nbagian dari constitutional engineering  untuk mengatasi dan mencegah timbulnya \nketidakpuasan daerah yang disebabkan oleh  pengambilan keputus an politik yang \nbersifat sentralistik yang diberlakukan berdasarkan sistem ketatanegaraan yang \nlama (sebelum dilakukan perubahan UUD 1945) . Karena itulah, ketika dilakukan \npenambahan satu ayat dalam Pasal 33 UUD 1945 dimasukkan frasa “serta \ndengan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional”, \nsebagaimana terbaca saat ini dalam ru musan Pasal 33 ayat (4) UUD 1945.  \nDengan demikian, kehadir an DPD adalah bagian tak terpisahkan dari desain \nkonstitusional untuk memperkuat  keberadaan Negara Kesatuan Republik \nIndonesia. Itulah sebab ditolaknya gagas an membentuk sistem perwakilan \nberkamar dua (bikameral) yang sempat munc ul pada saat berlangsungnya proses \nperubahan UUD 1945 di Panitia Ad Hoc I Badan Pekerja MPR yang menghendaki \nadanya kedudukan sejajar dan kewenangan yang setara antara DPR dan DPD \nkarena dianggap tidak sesuai dengan keberadaan Indonesia sebagai negara \nkesatuan, terlepas dari soal benar atau tidaknya anggapan demikian jika ditinjau \nsecara akademik.  \n Selain itu, alasan penolakan terhadap gagasan membentuk lembaga \nperwakilan bikameral tersebut juga didasari oleh argumentasi bahwa jika gagasan \nitu diterima maka hal itu akan be rtentangan dengan Pasal 20 ayat (1) UUD 1945 \nyang telah disetujui sebelumnya dalam  perubahan tahap pertama UUD 1945 dan \ntelah berlaku yang secara tegas menyatakan bahwa kekuasaan membentuk \nundang-undang ada di tangan DPR. Maka, jalan keluar yang disepakati saat itu \nadalah kesepakatan yang wujudnya saat in i tertuang dalam rumusan Pasal 22D \nUUD 1945. Dengan rumusan demikian maka dua kebutuhan terpenuhi sekaligus, \nyaitu diakomodasinya aspirasi daerah dan tidak terjadinya pertentangan atau \nkontradiksi antarpasal dalam  UUD 1945 [vide lebih jauh Risalah Rapat-Rapat \nPanitia Ad Hoc I Badan Pekerja MPR , khususnya pembahasan pada Perubahan \nKedua dan Ketiga UUD 1945].  \n\n \n \n43\n[3.13]  Menimbang bahwa gagasan untuk lebih meningkatkan akomodasi \nterhadap aspirasi daerah yang diej awantahkan dengan pembentukan DPD \ntersebut akan terwujud apabila aspirasi daerah itu tercermin dalam keputusan \npolitik yang diambil di tingkat nasional,  khususnya dalam kebijakan legislasi, in \ncasu pembentukan undang-undang sebagai penjabar an lebih jauh dari gagasan \nyang tertuang dalam UUD 1945 yang berkait langsung dengan kepentingan \ndaerah. Dalam konteks demikian DPD di desain sebagai kekuatan pengimbang \nterhadap DPR sebagai lembaga negara yang oleh UUD 1945 diberi kekuasaan \nmembentuk undang-undang bersama Presiden [vide Pasal 20 juncto Pasal 5 ayat \n(1) UUD 1945]. Artinya, kebijakan legislasi dalam wujud pembentukan undang-\nundang yang berkait langsung dengan kepentingan daerah tidak boleh semata-\nmata lahir sebagai produk akomodasi dan kompromi politik kekuatan-kekuatan \nyang merupakan perwujudan representasi po litik, yaitu DPR dan Presiden yang \nmeskipun sama-sama dipilih oleh rakya t namun pengusulan dalam pengisian \njabatannya dilakukan melalui sarana partai politik. Oleh karena itu, untuk dapat \nmenjadi kekuatan pengimbang dimaksud maka pengisian jabatan anggota DPD \nharuslah berasal dari luar partai politik. Anggota DPD didesain berasal dari tokoh-\ntokoh daerah yang sungguh-sungguh me mahami kebutuhan daerahnya dan \nmemiliki kemampuan untuk (bersama-s ama dengan tokoh-tokoh dari daerah lain) \nmenyuarakan dan memperjuangkan kebutuhan itu dalam pengambilan keputusan \npolitik nasional yang berkait langsung dengan kepentingan da erah, khususnya \ndalam proses pembentukan undang-und ang. Gambaran itulah yang dapat \ndisarikan dari proses pembahasan yang terjadi  di Panitia Ad Hoc I Badan Pekerja \nMPR ketika merumuskan pelembagaan DPD [vide lebih jauh Risalah rapat-rapat \nPanitia Ad Hoc I Badan Pekerja MPR,  khususnya pembahasan pada Perubahan \nKedua dan Ketiga UUD 1945].  \n Pesan inilah yang juga ditegaskan oleh Mahkamah sebagaimana \ntercermin dalam Putusan Mahkamah Ko nstitusi Nomor 10/PUU-VI/2008 yang \ndalam pertimbangan hukumnya (halaman 204) antara lain menyatakan: \nPerubahan UUD 1945 melahirkan sebuah lembaga baru dalam struktur \nketatanegaraan Indonesia, yakni DPD yang dengan kehadirannya sistem \nperwakilan di Indonesia, DPR diduku ng dan diperkuat oleh DPD. DPR \nmerupakan lembaga perwakilan berdasar kan aspirasi dan paham politik \nrakyat sebagai pemegang kedaulatan, sedangkan DPD merupakan \nlembaga perwakilan penyalur keanek aragaman aspirasi daerah. \n\n \n \n44\nKeberadaan lembaga DPD mer upakan upaya menam pung prinsip \nperwakilan daerah. \n Lebih jauh, setelah mempertim bangkan dasar-dasar pemikiran dan \nperdebatan yang terjadi selama berlangsun gnya proses perubahan UUD 1945 di \nMPR, pada bagian lain pertimbangan hukumnya dalam Putusan di atas, \nMahkamah menegaskan hakikat keberadaan DPD dalam desain konstitusional \nUUD 1945: \nDengan demikian, dapat disimpulkan bahwa desain konstitusional DPD \nsebagai organ konstitusi adalah: \n1) DPD merupakan representasi daerah ( territorial representation ) yang \nmembawa dan memperjuangkan aspi rasi dan kepenti ngan daerah \ndalam kerangka kepentingan nasiona l, sebagai imbangan atas dasar \nprinsip “checks and balances”  terhadap DPR yang merupakan \nrepresentasi politik ( political representation ) dari aspirasi dan \nkepentingan politik partai-partai politik dalam kerangka kepentingan \nnasional; \n2) Keberadaan DPD dan DPR dalam sistem ketatanegaraan Indonesia \nyang seluruh anggotanya menjadi ang gota MPR bukanlah berarti \nbahwa sistem perwakilan Indonesia  menganut sistem perwakilan \nbikameral, melainkan sebagai gambaran tentang sistem perwakilan \nyang khas Indonesia; \n3) Meskipun kewenangan konstitusional DPD terbatas, namun dari \nseluruh kewenangannya di bidang legislasi, anggaran, pengawasan, \ndan pertimbangan sebagaimana diatur dalam Pasal 22D UUD 1945, \nkesemuanya terkait dan berorientasi kepada kepentingan daerah yang \nharus diperjuangkan secara nasional berdasarkan postulat \nkeseimbangan antara kepentingan nasional dan kepentingan daerah; \n4) Bahwa sebagai representasi daer ah dari setiap provinsi, anggota DPD \ndipilih melalui Pemilu dari setiap provinsi dengan jumlah yang sama, \nberdasarkan pencalonan secara pers eorangan, bukan melalui Partai, \nsebagai peserta Pemilu.    \n Secara analitis, original intent pembentukan DPD maupun pertimbangan \nMahkamah dalam putusan di atas mem iliki landasan rasional-faktual maupun \nkonsepsional yang kuat. Pertama, dilihat dari perspektif fu ngsi-fungsi ideal partai \npolitik, original intent pembentukan DPD maupun Putusan Mahkamah di atas tidak \ndapat dinilai menafikan fungsi-fungsi ideal partai politik, khususnya dalam hal ini \nfungsi komunikasi dan agregasi politik. Sebab, di negara-negara yang kehidupan \ndemokrasinya telah matang pun, partai politik tidak dapat  secara absolut dianggap \ntelah merepresentasikan aspirasi seluruh rakyat. Itulah yang secara rasional-\nfaktual menjelaskan munculnya fenomena,  antara lain, hadirnya calon-calon \npresiden independen di Amerika Serikat (yang sistem ketatanegaraannya memang \n\n \n \n45\nmemungkinkan hadirnya calon presiden demikian) ataupun calon-calon \nindependen/perseorangan dalam pemilihan kepala daerah di Indonesia yang \nbeberapa di antaranya berhas il mengalahkan calon-calon yang diajukan oleh \npartai politik. Pemikiran yang bertolak dari ketidakabsolutan fungsi komunikasi dan \nagregasi partai politik itu pula yang melahirkan wacana ( discourse) tentang \ndeliberative democracy di kalangan cerdik pandai , yang mulai berkembang sejak \nakhir abad ke-20, yang memandang pent ingnya warga negara biasa ( lay citizens) \nsebanyak mungkin terlibat  dalam pengambilan keputusan politik, bukan sekadar \noleh sekelompok elite yang direpresentasikan oleh partai-partai politik.  \n Kedua , persyaratan anggota DPD tidak boleh menjadi pengurus atau \nberasal dari pengurus partai politik mencegah terjadinya  distorsi politik berupa \nlahirnya perwakilan ganda ( double representation ) partai politik dalam \npengambilan keputusan, lebih-lebih keputus an politik penting seperti perubahan \nUndang-Undang Dasar. Pasal 2 ayat (1) UUD 1945 menyatakan bahwa MPR \nterdiri atas anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan \nDaerah. Sementara itu, menurut Pasa l 3 ayat (1) UUD 1945, MPR memiliki \nkewenangan mengubah dan menetapkan Undang-Undang Dasar. Dengan \ndemikian, jika anggota DPD dimungkinka n berasal dari penguru s partai politik, \nberarti akan terjadi perwa kilan ganda dalam keanggotaan  MPR di mana partai \npolitik yang sudah terwakili dalam  keanggotaan DPR juga terwakili dalam \nkeanggotaan DPD. Hal ini secara tida k langsung telah mengubah desain \nketatanegaraan perihal keanggotaan MPR yang hendak diwujudkan oleh UUD \n1945 yang memaksudkan MPR sebagai wujud atau pencerminan perwakilan politik \ndan perwakilan wilayah. Desain demikian merupakan hal mendasar karena secara \nfilosofis diturunkan dari gagasan Kebangsaan Indonesia yang bukan sekadar \nikatan persatuan politik yang lahir kar ena adanya persamaan nasib dari segenap \nsuku bangsa yang mendiami wilayah y ang bernama Indonesia tetapi juga \nmencakup gagasan persatuan segenap suku  bangsa dimaksud dengan wilayah \nyang didiaminya itu. Inilah salah satu hikmat kebijaksanaan mendasar yang harus \ntercermin dalam lembaga permusyawara tan/perwakilan yang bernama MPR \ntersebut sehingga keputusan politik pe nting yang diambil oleh lembaga ini \nsenantiasa mencerminkan keputusan Bangsa Indonesia.  \n Ketiga, sebagai catatan tambahan dan sekaligus mengingatkan kembali, \npada saat berlangsungnya per debatan di Panitia Ad Hoc I Badan Pekerja MPR \n\n \n \n46\nsaat membahas keanggotaan MPR,  alasan mencegah terjadinya double \nrepresentation inilah, bersama-sama dengan alasan untuk menerapkan prinsip \nperwakilan atas dasar pemilihan (representation by election), yang dijadikan dasar \nargumentasi menolak adanya anggota MPR yang pengisiannya dilakukan melalui \npengangkatan, dalam hal ini terk ait dengan keberadaan Utusan Golongan. \nSebagian besar fraksi yang ada di MPR saat itu berpandangan bahwa jika ada \nanggota MPR yang diangkat, yaitu mereka yang dianggap sebagai tokoh yang \nmerepresentasi golongan- golongan yang ada dalam masyarakat, maka besar \nkemungkinan akan terjadi perwakilan ga nda di MPR karena hadirnya anggota-\nanggota yang diangkat sebagai represent asi golongan, yang sangat mungkin \nberasal dari daerah, sement ara pada saat yang sama daerah telah pula memiliki \nwakil yang dipilih melalu i Pemilu, yaitu anggota DPD. Oleh karena itu, sesuai \ndengan prinsip representation by election  para tokoh yang dianggap \nmerepresentasikan golongan itu tidak cocok lagi diangkat melainkan diikutkan \ndalam kompetisi pemilihan anggota DP D, sehingga dalam keanggotaan DPD \ntersebut keberadaan golongan- golongan dalam masyarakat sesungguhnya telah \ndengan sendirinya tercermin melalui keterpilihan tokoh-tokoh daerah dalam \nkelembagaan DPD. Dengan cara demik ian maka kemungkinan munculnya \nperwakilan ganda akan tercegah dan pada saat  yang sama prinsip perwakilan \nmelalui pemilihan juga terpenuhi. Namun, s aat itu, wakil Utusan Golongan yang \nada di MPR tidak dapat menyetujui panda ngan ini sehingga pasal yang mengatur \nkeanggotaan MPR, sebagaimana saat ini tertuang dalam Pasal 2 ayat (1) UUD \n1945, tercatat sebagai satu-satunya pas al dalam UUD 1945 yang keputusannya \ndiambil melalui pemungutan suara.  \n[3.14]  Menimbang bahwa sejak putus an pertamanya yang berkait dengan \nkeanggotaaan DPD, yaitu Putusan Mahkam ah Konstitusi Nomor 10/PUU-VI/2008, \nMahkamah secara konsisten menunjukk an pendiriannya dalam menjaga hakikat \nkeberadaan DPD sesuai dengan desain UUD 1945. Hal itu tertuang dalam \npertimbangan hukum putusan-pu tusan Mahkamah selanjutny a, yaitu di antaranya \nPutusan Mahkamah Konstitusi Nomo r 92/PUU-X/2012 dan Putusan Mahkamah \nKonstitusi Nomor 79/PUU-XII/2014 yang keduanya berkait dengan kewenangan \nDPD.  \n\n \n \n47\n Dalam Putusan Mahkamah Konstitusi Nomor 92/PUU-X/2012, sebelum \nsampai pada pendapatnya mengenai kewenangan legislasi DPD, Mahkamah \ndalam pertimbangan hukumnya menek ankan keanggotaan DPD sebagai \nrepresentasi teritorial yang pengisian jabat annya bukan berasal dari partai politik \nserta perbedaannya dengan anggota DPR yang berasal dari partai politik. \nMahkamah antara lain menyatakan:",
+      "start_line": 1411,
+      "end_line": 1753
+    },
+    {
+      "heading": "4. DPD adalah sebuah lembaga negara yang dibentuk berdasarkan",
+      "slug": "4-dpd-adalah-sebuah-lembaga-negara-yang-dibentuk-berdasarkan",
+      "text": "perubahan UDD 1945. Pembentukan DPD merupakan upaya \nkonstitusional yang dimaksudkan untuk lebih mengakomodasi suara \ndaerah dengan memberi saluran, sekaligus peran kepada daerah-\ndaerah. Saluran dan peran tersebut  dilakukan dengan memberikan \ntempat bagi daerah-daerah untuk menempatkan wakilnya dalam \nbadan perwakilan tingkat nasi onal untuk memperjuangkan dan \nmenyuarakan kepentingan-kepentin gan daerahnya sehingga akan \nmemperkuat kesatuan Negara Republik  Indonesia. Perwakilan daerah \ndalam DPD mencerminkan prinsip repr esentasi teritorial atau regional \n(regional representation ) dari daerah, dalam hal ini provinsi. Dengan \ndemikian, keberadaan DPD tidak dapat dipisahkan dari adanya Utusan \nDaerah sebagai salah satu unsur MPR. Dengan ditetapkannya bahwa \nseluruh anggota MPR harus dipilih dalam Pemilihan Umum [vide Pasal \n2 ayat (1) UUD 1945], maka Utusan D aerah pun harus dipilih dalam \nPemilihan Umum.",
+      "start_line": 1756,
+      "end_line": 1770
+    },
+    {
+      "heading": "5. … Keterwakilan anggota DPR dan anggota DPD yang sama-sama",
+      "slug": "5-keterwakilan-anggota-dpr-dan-anggota-dpd-yang-sama-sama",
+      "text": "mewakili daerah di badan perwakila n tingkat nasional mengandung \nperbedaan, antara lain, anggota DPR dipilih berdasarkan daerah-\ndaerah pemilihan dari seluruh Indonesia. Adapun anggota DPR \ndicalonkan dan berasal dari partai politik peserta pemilihan umum, \nyang dalam posisinya sebagai anggota DPR mewakili dua kepentingan \nsekaligus, yaitu kepentingan part ai politik dan kepentingan rakyat \ndaerah yang diwakilinya. Pada sisi lain, anggota DPD berasal dari \nperseorangan yang dipilih secara l angsung oleh rakyat di daerah \ntersebut, sehingga anggota DPD hanya akan secara murni \nmenyuarakan kepentingan-kepentingan daerahnya, yaitu seluruh \naspek yang terkait dengan daerah yang diwakilinya. Berbeda dengan \nanggota DPR, yang oleh karena mewakili  partai politik tertentu sering \ndibebani oleh misi partai  politik yang bersangkutan.  Selain itu, wakil \nrakyat yang duduk di DPR yang berasal dari partai politik dan terpilih \ndari suatu daerah pemilihan dapat sa ja berdomisili atau berasal dari \ndaerah lain yang bisa saja tidak begitu mengenal daerah yang \ndiwakilinya. Hal semacam itu sangat  kecil kemungkinan terjadi bagi \nanggota DPD, karena mereka dipilih secara perseorangan dalam \npemilihan umum secara langsung ol eh rakyat di daerah yang \nbersangkutan;   \n Dengan pertimbangan yang menek ankan pada hakikat keberadaan DPD \nserta perbedaan antara anggota DPD dan anggota DPR demikian tampak jelas \n\n \n \n48\nbahwa Mahkamah tidak mengubah pendirianny a sebagaimana ditegaskan dalam \nputusan sebelumnya, in casu  Putusan Mahkamah Konsitusi Nomor 10/PUU-\nVI/2008, bahwa anggota DPD bukan berasal dari partai politik. Pendirian \nMahkamah tersebut koheren dengan pendi rian Mahkamah berkenaan dengan \nkewenangan legislasi yang dimiliki oleh DPD sebagaimana tertuang dalam \nPutusan Mahkamah Konstitusi Nomo r 79/PUU-XII/2014 yang pada intinya \nmenegaskan bahwa DPD harus secara maksimal dilibatkan dalam proses \npembentukan undang-undang yang berkait an dengan otonomi daerah, hubungan \npusat dan daerah, pembentukan dan peme karan serta penggabungan daerah, \npengelolaan sumber daya ekonomi lainny a, serta perimbangan keuangan pusat \ndan daerah [vide lebih jauh Putusan Mahkamah Konstitusi Nomor 79/PUU-\nXII/2014].  \n Dikatakan koheren sebab jika DPD tidak dilibatkan secara maksimal \ndalam proses penyusunan undang-undang yang berkait dengan soal-soal tersebut \nmaka hakikat representasi daerah y ang melekat dalam eksistensi DPD (yang \nanggota-anggotanya bukan berasal dari part ai politik) akan terdegradasi karena \nkeputusan politik yang diambil dalam soal-soal yang langsung berkait dengan \nkepentingan daerah tersebut akan lebih bany ak ditentukan oleh lembaga yang \nmerupakan representasi politik, yakni DP R (yang anggotanya berasal dari partai \npolitik). Apalagi, An ggota DPR yang berasal  dari daerah provinsi tidaklah selalu \nsepenuhnya dapat dikatakan mewakili pr ovinsi yang bersangkutan sebagaimana \nhalnya anggota DPD karena basis pencal onan Anggota DPR adalah berdasarkan \ndaerah pemilihan (Dapil) di suatu provinsi  meskipun untuk provinsi tertentu, \nprovinsi sekaligus menjadi Dapil karena jumlah Dapil-nya berjumlah tidak lebih dari \nsatu. Dengan demikian, dalam analisis se lanjutnya, apabila keanggotaan DPD \njuga dimungkinkan berasal dari partai politik, in casu pengurus partai politik, maka \nkeadaan demikian akan makin meneguhkan fenomena di mana keputusan politik \nyang berkait langsung dengan kepentingan daerah, khususnya dalam kebijakan \nlegislasi, secara faktual menjadi ber ada di tangan pihak yang semata-mata \nmerupakan representasi politik. Hal ini jelas tidak bersesuaian dengan semangat \nyang terkandung dalam Pasal 22D UUD 1945. \n[3.15]  Menimbang bahwa setelah memperti mbangkan konteks historis perihal \nlatar belakang atau dasar pemikiran pem bentukan DPD dan kaitannya dengan \n\n \n \n49\nperubahan sistem ketatanegaraan setelah dilakukan perubahan terhadap UUD \n1945 serta pendirian Mahkamah berkenaan dengan keberadaan DPD yang \ndituangkan dalam sejumlah putusannya, khususnya yang berkenaan dengan cara \npengisian keanggotaannya, sebagaimana diuraika n pada paragraf [3.11] sampai \ndengan paragraf [3.14] di atas, maka pertanyaan ya ng kemudian timbul adalah \napakah dasar pemikiran tersebut masih relevan dengan perkembangan \nmasyarakat saat ini atau sebaliknya dasar  pemikiran tersebut sudah tidak relevan \nlagi sehingga menuntut Mahkamah untuk mengubah pendi riannya yang telah \ndituangkan dalam putusan-putusan Mahkamah terdahulu. Pertanyaan ini berkait \nlangsung dengan dalil-dalil Pemohon yang pada hakikatnya berpegang pada dasar \npemikiran dibentuknya DPD dan fungsi-f ungsi DPD sebagaimana tercermin dalam \nkewenangan-kewenangan yang dimilikinya berdasarkan UUD 1945 beserta hak-\nhak yang diberikan kepada anggot a-anggotanya dalam melaksanakan \nkewenangan tersebut. \n Terhadap persoalan tersebut Mahk amah berpendapat tidak terdapat \nalasan kuat dan mendasar bagi Mahk amah untuk mengubah pendiriannya. \nSebaliknya, justru terdapat kebutuhan bagi Mahkamah untuk menegaskan kembali \npendiriannya yang berkait dengan keanggotaan DPD tersebut. Sebab, Pasal 182 \nUU Pemilu yang mengatur persyaratan perseorangan untuk menjadi calon anggota \nDPD tidak secara tegas menyebutkan adanya larangan bagi pengurus partai politik \nuntuk mencalonkan diri sebagai anggota DP D. Sebagai lembaga yang didirikan \ndengan fungsi mengawal Konstitusi dalam si stem ketatanegaraan yang menganut \nprinsip supremasi konstitusi, Mahkamah berkewajiban untuk menjamin \nterealisasinya semangat yang terk andung dalam Pasal 22D UUD 1945, sehingga \ngagasan bahwa DPD merupakan representas i daerah benar-benar terealisasi dan \ntidak terdistorsi dalam praktik kehidupan bernegara yang disebabkan tidak adanya \npembatasan berkenaan dengan persyaratan pencalonan terutama yang terkait \ndengan pengurus partai politik.  \n Dengan tidak adanya penjelasan terhadap frasa “pekerjaan lain yang \ndapat menimbulkan konflik kepentingan dengan tugas, wewenang, dan hak \nsebagai anggota DPD sesuai dengan peratu ran perundang-undangan” dalam \nPasal 182 huruf l UU Pemilu, timbul ketidakpastian hukum apakah perseorangan \nwarga negara Indonesia yang sekaligus pengur us partai politik dapat atau boleh \nmenjadi calon anggota DPD, sehingga bertentangan dengan Pasal 28D ayat (1) \n\n \n \n50\nUUD 1945. Jika ditafsirkan dapat atau boleh maka hal itu akan bertentangan \ndengan hakikat DPD sebagai wu jud representasi daerah dan sekaligus berpotensi \nlahirnya perwakilan ganda ( double representation) sebab, jika calon anggota DPD \nyang berasal dari pengurus parta i politik tersebut terpilih,  maka partai politik dari \nmana anggota DPD itu berasal secara faktual  akan memiliki wakil baik di DPR \nmaupun di DPD sekalipun yang bersangkut an menyatakan sebagai perseorangan \ntatkala mendaftarkan diri sebagai calon ang gota DPD. Hal ini berarti bertentangan \ndengan semangat Pasal 22D UUD 1945. Sebaliknya, jika ditafsirkan tidak dapat \natau tidak boleh, larangan demikian tidak secara ekplisit disebutkan dalam UU \nPemilu, khususnya Pasal 182 huruf l. Oleh karena itu Mahkamah penting \nmenegaskan bahwa perseorangan warga negara Indonesia yang mencalonkan diri \nsebagai anggota DPD tidak boleh merangkap se bagai pengurus partai politik \nsehingga Pasal 182 huruf l UU Pemilu harus dimaknai sebagaimana tertuang \ndalam amar Putusan ini. \n[3.16]  Menimbang bahwa oleh karena UU Pe milu, khususnya Pasal 182 tidak \nsecara tegas melarang pengurus partai politik untuk mencalonkan diri sebagai \ncalon anggota DPD maka secara a contrario pendirian Mahkamah sebagaimana \ntertuang dalam putusan-putusan sebelum nya yang pada intinya menyatakan \nbahwa calon anggota DPD tidak boleh berasal  dari partai politik sesungguhnya \ntetap berlaku. Sebab, putusan Mahkamah memiliki kekuatan hukum mengikat \nsederajat dengan und ang-undang, sebagaimana ditegaska n dalam Pasal 47 UU \nMK yang menyatakan, “Putusan Mahkamah Konstitusi memperoleh kekuatan \nhukum tetap sejak selesai diucapkan dalam sidang pleno terbuka untuk umum.” \nNamun, demi kepastian hukum, Mahkamah memandang penting untuk \nmenyatakan pendiriannya sebagaimana telah diuraikan pada paragraf [3.15] di \natas. \n Pertanyaan yang timbul kemudian, bagaimana dengan adanya fakta \nbahwa saat ini terdapat anggota DPD yang juga pengurus partai politik? Dalam \nkaitan ini Pasal 58 UU MK menyatakan, “Undang-udang yang diuji oleh Mahkamah \nKonstitusi tetap berlaku, sebelum ada putusan yang menyatakan bahwa undang-\nundang tersebut bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945.” Norma yang term uat dalam Pasal 58 UU MK tersebut \nmengandung dua pengertian. Pertama, bahwa dalam pengujian konstitusionalitas \nundang-undang berlaku prinsip presumption of contitutionality , artinya suatu \n\n \n \n51\nundang-undang harus dianggap tidak bert entangan dengan Konstitusi selama \nbelum ada putusan pengadilan, in casu  putusan Mahkamah Konstitusi, yang \nberkekuatan hukum tetap yang m enyatakan bahwa undang-undang tersebut \nbertentangan dengan Konstitusi. Kedua, bahwa sebagaimana pr insip umum yang \nberlaku dalam pengundangan suatu undang- undang, suatu undang-undang yang \ndibuat oleh pembentuk undang-undang ( positive legislature ) berlaku prospektif \natau ke depan, tidak boleh berlaku surut (retroactive). Hal itu juga berlaku terhadap \nputusan Mahkamah Konstitusi (selaku negative legislator ), sehingga putusan \nMahkamah pun keberlakuannya adalah prospek tif, terlepas dari adanya praktik di \nnegara lain yang memungkinkan disimpanginya prinsip ini dalam hal-hal tertentu. \nDengan demikian, terhadap pertanyaan di atas, oleh karena anggota DPD yang \njuga pengurus partai politik tersebut terpilih menjadi anggota DPD sebelum adanya \nPutusan ini maka sesuai dengan prinsip presumption of constitutionality \nkeanggotaan yang bersangkutan di lem baga tersebut (DPD) harus dianggap \ndidasarkan atas undang-undang yang konstitusional. Artinya, sejalan dengan sifat \nprospektif putusan Mahkamah maka Putusan ini tidak berlaku terhadap yang \nbersangkutan kecuali yang bersangkutan mencalonkan diri kembali sebagai \nanggota DPD setelah Putusan ini berl aku sesuai dengan Pasal 47 UU MK. \nMahkamah penting menegaskan bahwa yang di maksud dengan “pengurus Partai \nPolitik” dalam putusan ini adalah pengurus mu lai dari tingkat pusat sampai tingkat \npaling rendah sesuai dengan struktur organisasi partai politik yang bersangkutan. \n[3.17]  Menimbang bahwa untuk Pemilu 2019, karena proses pendaftaran calon \nanggota DPD telah dimulai, dalam hal terdapat bakal calon anggota DPD yang \nkebetulan merupakan pengurus partai politik terkena dampak oleh putusan ini, \nKPU dapat memberikan kesempatan k epada yang bersangkutan untuk tetap \nsebagai calon anggota DPD se panjang telah menyatakan mengundurkan diri dari \nkepengurusan Partai Politik yang dibuktik an dengan pernyataan tertulis yang \nbernilai hukum perihal pengunduran diri dimaksud.  Dengan demikian untuk \nselanjutnya, anggota DPD sejak Pemilu 2019 dan Pemilu-Pemilu setelahnya yang \nmenjadi pengurus partai politik adalah bertentangan dengan UUD 1945. \n[3.18]  Menimbang bahwa berdasarkan selu ruh pertimbangan hukum di atas, \nMahkamah berpendapat dalil Pemohon mengenai inkonstitusionalitas Pasal 182 \nhuruf l UU Pemilu adalah beralasan menurut  hukum sepanjang frasa “pekerjaan \n\n \n \n52\nlain” dalam Pasal 182 huruf l UU Pemilu dimaksud tidak dimaknai mencakup pula \npengurus partai politik.",
+      "start_line": 1772,
+      "end_line": 1949
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas  fakta dan hukum sebagaimana diuraikan",
+      "start_line": 1951,
+      "end_line": 1951
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan  a quo; \n[4.2]  Pemohon memiliki kedudukan hukum untuk  mengajukan permohonan        \na quo; \n[4.3]  Pokok permohonan beralasan menurut hukum. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah dengan Undang-U ndang Nomor 8 Tahun 2011 tentang \nPerubahan Atas Undang-Undang Nomo r 24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 70, \nTambahan Lembaran Negara Republik Indonesia Nomor 5226), dan Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomo r 157, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5076);",
+      "start_line": 1953,
+      "end_line": 1966
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili,",
+      "start_line": 1968,
+      "end_line": 1968
+    },
+    {
+      "heading": "2. Frasa “pekerjaan lain” dalam Pasal 182 huruf l Undang-Undang Nomor 7",
+      "slug": "2-frasa-pekerjaan-lain-dalam-pasal-182-huruf-l-undang-undang-nomor-7",
+      "text": "Tahun 2017 tentang Pemilihan Umum ( Lembaran Negara Republik Indonesia \nTahun 2017 Nomor 182, Tambahan Lembaran Negara Republik Indonesia \nNomor 6109) bertentangan dengan UUD 1945 dan tidak mempunyai kekuatan \nhukum mengikat secara bersyarat sepanj ang tidak dimaknai mencakup pula \npengurus (fungsionaris) partai politik;",
+      "start_line": 1971,
+      "end_line": 1975
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Republik Indonesia",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik-indonesia",
+      "text": "sebagaimana mestinya. \n\n \n \n53\nDemikian diputus dalam Rapat Pe rmusyawaratan Hakim oleh delapan \nHakim Konstitusi yaitu Anwar Usman se laku Ketua merangkap Anggota, Aswanto, \nSaldi Isra, I Dewa Gede Palguna, Su hartoyo, Arief Hidayat, Manahan MP \nSitompul, dan Wahiduddin Adams, masing-masing sebagai Anggota, pada hari  \nRabu, tanggal delapan belas, bulan  Juli, tahun dua ribu delapan belas , yang \ndiucapkan dalam Sidang Pl eno Mahkamah Konstitusi terbuka untuk umum pada \nhari Senin, tanggal dua puluh tiga, bulan Juli, tahun dua ribu delapan belas , \nselesai diucapkan pukul 12.12 WIB , oleh sembilan Hakim Konstitusi yaitu Anwar \nUsman selaku Ketua merangk ap Anggota, Aswanto, I De wa Gede Palguna, Saldi \nIsra, Maria Farida Indrati, Suhartoyo, Arief Hidayat, Manahan MP Sitompul, dan \nWahiduddin Adams, masing-masing s ebagai Anggota, dengan didampingi oleh \nYunita Rhamadani sebagai Panitera Pen gganti, serta dihadiri oleh Pemohon, \nPresiden atau yang mewakili, dan Dewan Perwakilan Rakyat atau yang mewakili. \nKETUA, \nttd.  \nAnwar Usman \nANGGOTA-ANGGOTA, \nttd.  \nAswanto \nttd.  \nI Dewa Gede Palguna \n ttd. \nSaldi Isra \nttd.  \nMaria Farida Indrati \n ttd. \nSuhartoyo \nttd.  \nArief Hidayat \n ttd. \nManahan MP Sitompul \nttd.  \nWahiduddin Adams  \n\n \n \n54\nPANITERA PENGGANTI, \nttd. \nYunita Rhamadani",
+      "start_line": 1977,
+      "end_line": 2022
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Muhammad Hafidz",
+        "role": "applicant",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "pengujian undang-undang terhadap UUD 1945"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 22D",
+      "Pasal 22E ayat (4)",
+      "Pasal 22E ayat (3)",
+      "Pasal 22C",
+      "Pasal 23 ayat (2)",
+      "Pasal 27 ayat (1)",
+      "Pasal 182 hur",
+      "Pasal 33",
+      "Pasal 33 ayat (4)",
+      "Pasal 20 ayat (1)",
+      "Pasal 2 ayat (1)",
+      "Pasal 58",
+      "Pasal 24 ayat (2)",
+      "Pasal 22E"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "REFERENSI:30/PUU-XVI/2018",
+      "REFERENSI:59/PAN.MK/2018dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal9April2018denganNomor30/PUU-XVI/2018",
+      "REFERENSI:006/PUU-III/2005tanggal31Mei2005danNomor11/PUU-V/2007",
+      "REFERENSI:10/PUU-VI/2008",
+      "REFERENSI:7/MPR/2001",
+      "REFERENSI:006/PUU-III/2005danNomor011/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005tanggal31Mei2005danPutusanNomor11/PUU-V/2007",
+      "REFERENSI:92/PUU-X/2012danPutusanMahkamahKonstitusiNomor79/PUU-XII/2014yangkeduanyaberkaitdengankewenanganDPD.47DalamPutusanMahkamahKonstitusiNomor92/PUU-X/2012",
+      "REFERENSI:79/PUU-XII/2014"
+    ]
+  },
+  "proceedings": [
+    "mendengar keterangan ahli",
+    "sidang pleno"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Mengabulkan permohonan Pemohon untuk seluruhnya;",
+      "Frasa “pekerjaan lain” dalam Pasal 182 huruf l Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum ( Lembaran Negara Republik Indonesia Tahun 2017 Nomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor 6109) bertentangan dengan UUD 1945 dan tidak mempunyai kekuatan hukum mengikat secara bersyarat sepanj ang tidak dimaknai mencakup pula pengurus (fungsionaris) partai politik;",
+      "Memerintahkan pemuatan putusan ini dalam Berita Negara Republik Indonesia sebagaimana mestinya."
+    ],
+    "summary": "Mengabulkan permohonan Pemohon untuk seluruhnya;"
+  },
+  "adjudicators": {
+    "judges": [
+      "Anwar Usman",
+      "Aswanto",
+      "I Dewa Gede Palguna",
+      "Saldi Isra",
+      "Maria Farida Indrati",
+      "Suhartoyo",
+      "Arief Hidayat",
+      "Manahan MP Sitompul",
+      "Wahiduddin Adams"
+    ],
+    "clerks": [
+      "Yunita Rhamadani"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "30/PUU-XVI/2018",
+      "59/PAN.MK/2018dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal9April2018denganNomor30/PUU-XVI/2018",
+      "006/PUU-III/2005tanggal31Mei2005danNomor11/PUU-V/2007",
+      "10/PUU-VI/2008",
+      "7/MPR/2001",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanNomor11/PUU-V/2007",
+      "92/PUU-X/2012danPutusanMahkamahKonstitusiNomor79/PUU-XII/2014yangkeduanyaberkaitdengankewenanganDPD.47DalamPutusanMahkamahKonstitusiNomor92/PUU-X/2012",
+      "79/PUU-XII/2014"
+    ],
+    "referenced_cases": [
+      "30/PUU-XVI/2018",
+      "59/PAN.MK/2018dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal9April2018denganNomor30/PUU-XVI/2018",
+      "006/PUU-III/2005tanggal31Mei2005danNomor11/PUU-V/2007",
+      "10/PUU-VI/2008",
+      "7/MPR/2001",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanNomor11/PUU-V/2007",
+      "92/PUU-X/2012danPutusanMahkamahKonstitusiNomor79/PUU-XII/2014yangkeduanyaberkaitdengankewenanganDPD.47DalamPutusanMahkamahKonstitusiNomor92/PUU-X/2012",
+      "79/PUU-XII/2014"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

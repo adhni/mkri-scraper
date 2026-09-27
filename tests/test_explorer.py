@@ -111,6 +111,8 @@ class SavedCollectionTests(unittest.TestCase):
             '21/PUU-XII/2014': '2015-04-28', '006/PUU-IV/2006': '2006-12-07',
             '36/PUU-X/2012': '2012-11-13', '116/PUU-XXI/2023': '2024-02-29',
             '55/PUU-XVII/2019': '2020-02-26', '18/PUU-XVII/2019': '2020-01-06',
+            '30/PUU-XVI/2018': '2018-07-23', '56/PUU-XVII/2019': '2019-12-11',
+            '70/PUU-XXII/2024': '2024-08-20', '53/PUU-XV/2017': '2018-01-11',
         }
         summaries = {summarize_case(r)['case_number']: summarize_case(r) for r in records}
         self.assertTrue(dates.keys() <= summaries.keys())
@@ -124,17 +126,23 @@ class SavedCollectionTests(unittest.TestCase):
                 self.assertTrue(summary['editorial'])
                 self.assertTrue(summary['topics'])
                 self.assertTrue(summary['law'])
-                self.assertIn(len(record.payload['adjudicators']['judges']), [7] if case in {'97/PUU-XIV/2016', '85/PUU-XI/2013', '21/PUU-XII/2014'} else [8, 9])
+                self.assertIn(len(record.payload['adjudicators']['judges']), [7] if case in {'97/PUU-XIV/2016', '85/PUU-XI/2013', '21/PUU-XII/2014', '70/PUU-XXII/2024'} else [8, 9])
                 self.assertNotEqual(summary['outcome_key'], 'unknown')
         self.assertEqual(summaries['237/PUU-XXIII/2025']['outcome_key'], 'rejected')
         self.assertEqual(summaries['55/PUU-XVII/2019']['outcome_key'], 'rejected')
+        self.assertEqual(summaries['70/PUU-XXII/2024']['outcome_key'], 'rejected')
+        self.assertEqual(summaries['30/PUU-XVI/2018']['outcome_key'], 'granted')
+        for case in ['53/PUU-XV/2017', '56/PUU-XVII/2019']:
+            self.assertEqual(summaries[case]['outcome_key'], 'granted_partly')
         for case in ['191/PUU-XXIII/2025', '90/PUU-XXI/2023', '60/PUU-XXII/2024', '91/PUU-XVIII/2020', '35/PUU-X/2012']:
             self.assertEqual(summaries[case]['outcome_key'], 'granted_partly')
         self.assertEqual(summaries['21/PUU-XXIV/2026']['applicant_count'], 2)
         for case, count in {'3/PUU-XXII/2024': 4, '135/PUU-XXII/2024': 1,
                             '168/PUU-XXI/2023': 7, '46/PUU-VIII/2010': 2,
                             '36/PUU-X/2012': 42, '85/PUU-XI/2013': 11,
-                            '006/PUU-IV/2006': 8, '116/PUU-XXI/2023': 1}.items():
+                            '006/PUU-IV/2006': 8, '116/PUU-XXI/2023': 1,
+                            '30/PUU-XVI/2018': 1, '56/PUU-XVII/2019': 2,
+                            '70/PUU-XXII/2024': 2, '53/PUU-XV/2017': 1}.items():
             self.assertEqual(summaries[case]['applicant_count'], count)
         for case in ['105/PUU-XXII/2024', '3/PUU-XXII/2024', '135/PUU-XXII/2024',
                      '168/PUU-XXI/2023', '46/PUU-VIII/2010', '22/PUU-XV/2017',

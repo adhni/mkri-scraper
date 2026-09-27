@@ -199,3 +199,13 @@ Koleksi menjadi 24 perkara dalam 13 topik: ambang batas presiden, UU ITE, jabata
 ## Perluasan lanjutan: sepuluh perkara
 
 Koleksi menjadi 34 perkara dalam 16 topik. Ditambahkan perkara perkawinan anak, perjanjian perkawinan, calon independen, ambang batas parlemen, model pemilu serentak, sumber daya air, BP Migas, KKR, praperadilan, dan jaminan fidusia. Sumber resmi dicatat dalam `data/editorial/expansion_sources.json`; posisi suara individual belum dikurasi. Flag jumlah pemohon pada perkara 36/PUU-X/2012 dipertahankan; daftar 42 pemohon telah diperiksa.
+
+
+## Cerita terkurasi
+
+Beranda kini membuka tiga cerita: pencalonan pemilu, Cipta Kerja, dan hak dalam keluarga. Delapan perkara terhubung melalui urutan waktu, penjelasan singkat, tautan PDF per halaman, serta navigasi sebelumnya/berikutnya. Enam perkara mendapat impact dan sebelum/sesudah tambahan; jumlah koleksi tetap 34. Konten di `data/editorial/stories.json`, halaman `/stories/<slug>`, tanpa perubahan API atau migrasi database. Suara individual hakim tidak ditambah.
+
+
+## Cerita pemilu diperluas
+
+“Siapa boleh maju pemilu?” kini delapan perkara dalam tiga bab: jalur, syarat pribadi, dan dukungan partai. Empat putusan baru (30/PUU-XVI/2018, 56/PUU-XVII/2019, 70/PUU-XXII/2024, 53/PUU-XV/2017) membawa koleksi menjadi 38; perkara 90 yang sudah tersedia ikut dihubungkan. Konten menambahkan pemohon, perdebatan, alasan, sebelum/sesudah, dan perbandingan jalur. Urutan waktu berlaku di dalam bab; navigasi mengikuti urutan baca. Dua cerita lain tetap. Hasil pokok perkara 53 dan 70 dibedakan dari isu atau pertimbangan tertentu. Sumber resmi dan hash ditambahkan ke manifest ekspansi.
