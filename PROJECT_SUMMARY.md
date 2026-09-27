@@ -182,3 +182,10 @@ Prioritas berikutnya yang paling bernilai:
 - Koleksi kini 16 perkara: ditambah putusan 60/PUU-XXII/2024, 91/PUU-XVIII/2020, dan 35/PUU-X/2012.
 - Tiga PDF resmi (728 halaman) diunduh lokal; snapshot dan ringkasan masuk repo.
 - Nomor, tanggal pengucapan, pemohon, hasil pokok, dan panel pengucapan diperiksa terhadap PDF. Catatan sumber: `data/editorial/landmark_sources.json`.
+
+## Pembaruan pengalaman desktop
+
+- Beranda perkara pilihan, pencarian relevan dengan cuplikan, filter aktif, dan navigasi kembali yang mempertahankan pencarian.
+- Detail mengutamakan keputusan, perubahan, hakim, pendapat terpisah, dan sumber PDF per halaman; amar panjang dapat dibuka.
+- Panel pengambil putusan dibedakan dari panel pengucapan untuk catatan terkurasi. Posisi tersedia pada tiga perkara; data yang belum diverifikasi tidak ditebak.
+- Perkara terkait berdasarkan topik, pencarian teks dokumen, dan tabel ambang Pilkada.

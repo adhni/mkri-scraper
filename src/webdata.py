@@ -72,6 +72,10 @@ def build_case_catalog(
         payload['has_pdf'] = bool(stored['document_hash'])
         by_id[stored['id']] = CaseRecord(stored['id'], 'library', library.path, payload,
                                         prior.available_sources if prior else {}, raw, stored['revision'])
+    insight_path = notes_path.parent / 'insights.json'
+    insights = _load_json(insight_path) if insight_path.is_file() else {}
+    for record in by_id.values():
+        record.payload['insights'] = insights.get(record.payload.get('document', {}).get('case_number'), {})
     return list(by_id.values())
 
 
@@ -131,6 +135,9 @@ def summarize_case(record: CaseRecord) -> dict[str, Any]:
     text = " ".join(str(fields.get(key) or "") for key in ["case_number", "title", "description", "law", "file_name", "document_type", "outcome_summary"])
     text += " " + " ".join(names + fields["topics"])
     text += " " + " ".join(f"{s.get('heading', '')} {s.get('text', '')}" for s in payload.get("sections", []))
+    fields["_excerpt_text"] = " ".join(text.split())
+    fields["featured_rank"] = payload.get('insights', {}).get('featured_rank')
+    fields["impact"] = payload.get('insights', {}).get('impact')
     fields["_search_text"] = " ".join(text.casefold().split())
     return fields
 

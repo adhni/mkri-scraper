@@ -34,7 +34,7 @@ def extract_outcome(sections: list[Section], source_text: str, document_type: st
                 items.append(normalize_whitespace(" ".join(current)))
                 current = []
             continue
-        numbered = re.match(r"^\d+[.)]\s*(.*)", line)
+        numbered = re.match(r"^\d+[.)](?!\d)\s*(.*)", line)
         if numbered and current:
             items.append(normalize_whitespace(" ".join(current)))
             current = []

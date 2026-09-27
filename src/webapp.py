@@ -12,6 +12,8 @@ from wsgiref.simple_server import make_server
 from .webdata import build_case_catalog, build_dashboard_stats, filter_case_summaries, get_case_record, summarize_case, public_summary, OUTCOME_LABELS
 from .admin import OwnerApp
 from .library import Library
+from .experience import (browse_return, case_href, pdf_source, search_matches, highlighted,
+                         related_cases, judges_html, change_html, reasoning_html, thresholds_html, citation)
 
 
 _NOISY_NAME_TOKENS = (
@@ -62,6 +64,8 @@ _REVIEW_FLAG_LABELS = {
     "constitutional_articles_missing_for_putusan": "Batu uji UUD belum terbaca",
 }
 _SORT_LABELS = {
+    "auto": "Otomatis",
+    "relevance": "Paling relevan",
     "newest": "Putusan terbaru",
     "oldest": "Putusan terlama",
     "review_priority": "Paling perlu review",
@@ -175,6 +179,7 @@ def _render_layout(title: str, body: str) -> str:
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{_safe(title)}</title>
   <link rel="stylesheet" href="/static/styles.css">
+  <script src="/static/reader.js" defer></script>
 </head>
 <body>
   <div class="shell">
@@ -187,54 +192,45 @@ def _render_layout(title: str, body: str) -> str:
 
 
 def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], query: dict[str, str]) -> str:
-    cards = "".join(_render_case_card(item) for item in summaries) or '<div class="panel empty"><h2>Belum menemukan yang cocok.</h2><p>Coba kata lain atau longgarkan filter pencarian.</p><a class="inline-link" href="/cases">Lihat semua perkara</a></div>'
-    topics = "".join(
-        f'<a class="chip {"selected" if query.get("topic") == topic else ""}" href="{_safe(_query_href(query, topic=None if query.get("topic") == topic else topic))}">{_safe(topic)} <span>{count}</span></a>'
-        for topic, count in stats["topic_counts"].items()
-    )
-    flags = "".join(
-        f'<a class="flag flag-link" href="{_safe(_query_href(query, review_flag=name))}">{_safe(_label_review_flag(name))} ({count})</a>'
-        for name, count in stats["review_flag_counts"].items()
-    )
-    review_checked = ' checked' if query.get("review_only") == "1" else ""
-    advanced_open = " open" if any(query.get(key) for key in ("status", "source", "review_flag", "review_only", "document_type")) else ""
-    years = stats["years"]
-    span = "–".join([years[-1], years[0]]) if len(years) > 1 else (years[0] if years else "—")
-    body = f"""
-    <section class="hero explorer-hero">
-      <div>
-        <span class="eyebrow">Koleksi putusan & ketetapan</span>
-        <h1>Kenali perkara.<br><em>Pahami putusannya.</em></h1>
-        <p>Jelajahi perkara Mahkamah Konstitusi lewat topik, ringkasan singkat, dan amar putusan.</p>
-      </div>
-      <aside class="collection-note">
-        <span class="eyebrow">Di dalam koleksi</span>
-        <div class="collection-count">{stats['total_cases']}<span>perkara</span></div>
-        <div class="collection-meta"><span>{len(stats['topic_counts'])} topik</span><span>{_safe(span)}</span></div>
-        <p>Koleksi pilihan untuk dibaca dan ditelusuri. Belum mencakup seluruh perkara MKRI.</p>
-      </aside>
-    </section>
-    <section class="browse-topics" aria-label="Jelajahi topik"><span class="eyebrow">Mulai dari topik</span><div class="topic-list">{topics or '<span class="subtle">Topik akan tersedia setelah perkara diberi label.</span>'}</div></section>
-    <form method="get" action="/cases" class="panel search-panel">
-      <div class="search-line"><label class="field"><span class="field-label">Cari perkara</span><input type="search" name="q" value="{_safe(query.get('q', ''))}" placeholder="Nomor perkara, nama, undang-undang, atau kata dalam dokumen"></label><button type="submit">Cari perkara <span aria-hidden="true">↗</span></button></div>
+    back = _query_href(query)
+    cards = ''.join(_render_case_card(item, back=back, search=query.get('q', '')) for item in summaries) or '<div class="panel empty"><h2>Belum menemukan yang cocok.</h2><p>Coba kata lain atau hapus salah satu filter di atas.</p><a class="inline-link" href="/cases#results">Lihat semua perkara</a></div>'
+    topics = ''.join(f'<a class="chip {"selected" if query.get("topic") == topic else ""}" href="{_safe(_query_href(query, topic=None if query.get("topic") == topic else topic))}">{_safe(topic)} <span>{count}</span></a>' for topic, count in stats['topic_counts'].items())
+    flags = ''.join(f'<span class="flag">{_safe(_label_review_flag(name))} ({count})</span>' for name, count in stats['review_flag_counts'].items())
+    filtered = any(query.get(k) for k in ('q', 'topic', 'year', 'outcome', 'status', 'source', 'review_flag', 'review_only', 'document_type'))
+    featured = sorted([i for i in summaries if i.get('featured_rank') is not None], key=lambda i: i['featured_rank'])[:4] if not filtered else []
+    feature_cards = ''.join(f'''<a class="featured-card" href="{_safe(case_href(i['case_id'], back))}" data-case-link><span class="eyebrow">{' / '.join(_safe(t) for t in i['topics'])}</span><h3>{_safe(i['title'])}</h3><p>{_safe(i.get('impact') or i.get('description'))}</p><span class="feature-foot">{_safe(i.get('year'))} <span aria-hidden="true">↗</span></span></a>''' for i in featured)
+    feature_section = f'<section class="featured-section"><div class="section-heading"><h2>Mulai dari perkara besar</h2><a class="inline-link" href="#results">Semua perkara ↓</a></div><div class="featured-grid">{feature_cards}</div></section>' if featured else ''
+    active = ''
+    for key, label in [('q','Pencarian'),('topic','Topik'),('year','Tahun'),('outcome','Hasil'),('document_type','Jenis'),('status','Status'),('source','Sumber'),('review_flag','Review'),('review_only','Perlu review')]:
+        if query.get(key):
+            value = OUTCOME_LABELS.get(query[key], query[key]) if key == 'outcome' else query[key]
+            active += f'<a class="chip selected" href="{_safe(_query_href(query, **{key: None}))}" aria-label="Hapus {_safe(label)}: {_safe(value)}">{_safe(label)}: {_safe(value)} <span aria-hidden="true">×</span></a>'
+    advanced_open = ' open' if any(query.get(k) for k in ('status','source','review_flag','review_only','document_type')) else ''
+    checked = ' checked' if query.get('review_only') == '1' else ''
+    body = f'''
+    <section class="browse-intro"><div><span class="eyebrow">Mahkamah Konstitusi · koleksi pilihan</span><h1>Putusan besar. Dampak nyata.</h1></div><p><strong>{stats['total_cases']}</strong> perkara · {len(stats['topic_counts'])} topik<br><span>Koleksi pilihan, bukan arsip lengkap.</span></p></section>
+    <form method="get" action="/cases#results" class="search-panel panel compact-search">
+      <div class="search-line"><label class="field"><span class="field-label">Cari perkara</span><input type="search" name="q" value="{_safe(query.get('q',''))}" placeholder="Coba: hutan adat, batas usia, Cipta Kerja…"></label><button type="submit">Cari perkara</button></div>
       <div class="filter-line">
-        <label class="field"><span class="field-label">Topik</span>{_select('topic', query.get('topic', ''), [''] + list(stats['topic_counts']), empty_label='Semua topik')}</label>
-        <label class="field"><span class="field-label">Tahun putusan</span>{_select('year', query.get('year', ''), [''] + years, empty_label='Semua tahun')}</label>
-        <label class="field"><span class="field-label">Hasil perkara</span>{_select('outcome', query.get('outcome', ''), [''] + list(OUTCOME_LABELS), labels=OUTCOME_LABELS, empty_label='Semua hasil')}</label>
-        <label class="field"><span class="field-label">Urutkan</span>{_select('sort', query.get('sort', 'newest'), list(_SORT_LABELS), labels=_SORT_LABELS)}</label>
+        <label class="field"><span class="field-label">Topik</span>{_select('topic', query.get('topic',''), ['']+list(stats['topic_counts']), empty_label='Semua topik')}</label>
+        <label class="field"><span class="field-label">Tahun putusan</span>{_select('year', query.get('year',''), ['']+stats['years'], empty_label='Semua tahun')}</label>
+        <label class="field"><span class="field-label">Hasil perkara</span>{_select('outcome', query.get('outcome',''), ['']+list(OUTCOME_LABELS), labels=OUTCOME_LABELS, empty_label='Semua hasil')}</label>
+        <label class="field"><span class="field-label">Urutkan</span>{_select('sort', query.get('sort') or 'auto', ['auto','relevance','newest','oldest','case_number'], labels=_SORT_LABELS)}</label>
       </div>
+      <div class="filter-actions"><span>Judul dan topik diprioritaskan saat mencari. Teks dokumen juga tercakup.</span><button class="small-button" type="submit">Terapkan</button></div>
       <details class="advanced"{advanced_open}><summary>Filter & catatan data</summary><div class="filter-line">
-        <label class="field"><span class="field-label">Status Parse</span>{_select('status', query.get('status', ''), ['', 'ok', 'partial', 'failed'], labels=_STATUS_LABELS, empty_label='Semua status')}</label>
-        <label class="field"><span class="field-label">Jenis Dokumen</span>{_select('document_type', query.get('document_type', ''), ['', 'putusan', 'ketetapan'], labels=_DOCUMENT_TYPE_LABELS, empty_label='Semua jenis')}</label>
-        <label class="field"><span class="field-label">Sumber Data</span>{_select('source', query.get('source', ''), ['', 'library', 'review_queue', 'validated_json', 'parsed_json'], labels=_SOURCE_LABELS, empty_label='Semua sumber')}</label>
-        <label class="field"><span class="field-label">Sinyal Review</span>{_select('review_flag', query.get('review_flag', ''), [''] + list(stats['review_flag_counts']), labels=_REVIEW_FLAG_LABELS, empty_label='Semua sinyal')}</label>
-      </div><label class="toggle"><input type="checkbox" name="review_only" value="1"{review_checked}> Hanya yang perlu review</label><div class="flag-list">{flags}</div></details>
-      <div class="filter-actions"><span>Pencarian juga mencakup nama pihak dan isi dokumen.</span><a class="inline-link" href="/cases">Hapus filter</a><button class="small-button" type="submit">Terapkan</button></div>
+        <label class="field"><span class="field-label">Status Parse</span>{_select('status',query.get('status',''),['','ok','partial','failed'],labels=_STATUS_LABELS,empty_label='Semua status')}</label>
+        <label class="field"><span class="field-label">Jenis Dokumen</span>{_select('document_type',query.get('document_type',''),['','putusan','ketetapan'],labels=_DOCUMENT_TYPE_LABELS,empty_label='Semua jenis')}</label>
+        <label class="field"><span class="field-label">Sumber Data</span>{_select('source',query.get('source',''),['','library','review_queue','validated_json','parsed_json'],labels=_SOURCE_LABELS,empty_label='Semua sumber')}</label>
+        <label class="field"><span class="field-label">Sinyal Review</span>{_select('review_flag',query.get('review_flag',''),['']+list(stats['review_flag_counts']),labels=_REVIEW_FLAG_LABELS,empty_label='Semua sinyal')}</label>
+      </div><label class="toggle"><input type="checkbox" name="review_only" value="1"{checked}> Hanya yang perlu review</label><div class="flag-list">{flags}</div><button class="small-button" type="submit">Terapkan filter data</button></details>
     </form>
-    <div class="results-heading"><h2>Daftar Perkara MKRI</h2><span>{len(summaries)} dari {stats['total_cases']} perkara</span></div>
-    <section class="grid case-grid" aria-label="Hasil pencarian">{cards}</section>
-    """
-    return _render_layout("Jelajahi Perkara · MKRI", body)
+    {feature_section}
+    <section id="results" class="browse-results"><div class="results-heading"><h2>{'Hasil pencarian' if filtered else 'Daftar Perkara MKRI'}</h2><span>{len(summaries)} dari {stats['total_cases']} perkara</span></div>
+    <div class="active-filters">{active}{'<a class="inline-link" href="/cases#results">Hapus semua</a>' if active else ''}</div>
+    <details class="topic-disclosure"><summary>Jelajahi {len(stats['topic_counts'])} topik</summary><div class="topic-list">{topics}</div></details>
+    <section class="grid case-grid" aria-label="Hasil pencarian">{cards}</section></section>'''
+    return _render_layout('Jelajahi Perkara · MKRI', body)
 
 
 def _select(
@@ -270,7 +266,7 @@ def _query_href(current_query: dict[str, str], **updates: str | None) -> str:
             merged.pop(key, None)
         else:
             merged[key] = str(value)
-    return "/cases" + (f"?{urlencode(merged)}" if merged else "")
+    return "/cases" + (f"?{urlencode(merged)}" if merged else "") + "#results"
 
 
 def _dedupe_strings(items: list[str]) -> list[str]:
@@ -369,6 +365,8 @@ def _mkri_tracking_url(document: dict[str, Any]) -> str | None:
 
 
 def _sort_case_summaries(items: list[dict[str, Any]], sort_key: str) -> list[dict[str, Any]]:
+    if sort_key == "relevance":
+        return sorted(items, key=lambda i: (i.get("_relevance", 0), i.get("decision_date") or ""), reverse=True)
     if sort_key in {"newest", "oldest"}:
         dated = [item for item in items if item.get("decision_date")]
         undated = [item for item in items if not item.get("decision_date")]
@@ -472,23 +470,20 @@ def _display_short_date(value: str | None) -> str:
         return value
 
 
-def _render_case_card(item: dict[str, Any]) -> str:
-    topics = "".join(f'<a class="topic-link" href="{_safe(_query_href({}, topic=topic))}">{_safe(topic)}</a>' for topic in item.get("topics", []))
-    date_display = _display_short_date(item.get("decision_date"))
-    note = '<span class="data-note">Sebagian data perlu review</span>' if item.get("needs_manual_review") else ""
-    return f"""
-    <article class="case-card">
-      <div class="card-topline"><div>{topics or '<span class="subtle">Belum dikelompokkan</span>'}</div><span class="document-label">{_safe(_label_document_type(item.get('document_type')))}</span></div>
-      <a class="case-title-link" href="/cases/{_safe(item['case_id'])}"><h3>{_safe(item.get('title'))}</h3></a>
-      <div class="case-reference">{_safe(item.get('case_number') or item['case_id'])} <span aria-hidden="true">·</span> {_safe(date_display)}</div>
-      <p class="summary">{_safe(item.get('description') or 'Ringkasan belum tersedia. Buka perkara untuk membaca dokumen.')}</p>
-      <div class="card-bottom"><span class="badge outcome-{_safe(item.get('outcome_key'))}">{_safe(item.get('outcome_label'))}</span><a class="read-link" href="/cases/{_safe(item['case_id'])}">Baca perkara <span aria-hidden="true">↗</span></a></div>
-      {note}
-    </article>
-    """
+def _render_case_card(item: dict[str, Any], back: str = '/cases#results', search: str = '') -> str:
+    topics = ''.join(f'<a class="topic-link" href="{_safe(_query_href({}, topic=topic))}">{_safe(topic)}</a>' for topic in item.get('topics', []))
+    href = _safe(case_href(item['case_id'], back))
+    note = '<span class="data-note">Sebagian data perlu review</span>' if item.get('needs_manual_review') else ''
+    match = f'<div class="search-match"><span>{_safe(item.get("match_label"))}</span><p>{highlighted(item.get("match_excerpt", ""), search)}</p></div>' if search and item.get('match_excerpt') else ''
+    return f'''<article class="case-card">
+      <div class="card-topline"><div>{topics or '<span class="subtle">Belum dikelompokkan</span>'}</div><span class="badge outcome-{_safe(item.get('outcome_key'))}">{_safe(item.get('outcome_label'))}</span></div>
+      <a class="case-title-link" href="{href}" data-case-link><h3>{_safe(item.get('title'))}</h3></a>
+      <div class="case-reference">{_safe(item.get('case_number') or item['case_id'])} · {_safe(_display_short_date(item.get('decision_date')))}</div>
+      <p class="summary">{_safe(item.get('description') or 'Ringkasan belum tersedia. Buka perkara untuk membaca dokumen.')}</p>{match}
+      <div class="card-bottom"><span class="document-label">{_safe(_label_document_type(item.get('document_type')))}</span><a class="read-link" href="{href}" data-case-link>Baca perkara <span aria-hidden="true">→</span></a></div>{note}</article>'''
 
 
-def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any], can_edit: bool = False) -> str:
+def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any], can_edit: bool = False, back: str = "/cases#results", related: list | None = None) -> str:
     document = payload.get("document", {})
     parties = payload.get("parties", {})
     outcome = payload.get("outcome", {})
@@ -530,36 +525,66 @@ def _render_detail(record_summary: dict[str, Any], payload: dict[str, Any], can_
     owner_link = f'<a class="inline-link" href="/admin/cases/{quote(record_summary["case_id"])}">Ubah data perkara</a>' if can_edit else ''
     pdf_link = f'<a class="inline-link" href="/cases/{quote(record_summary["case_id"])}/pdf" target="_blank" rel="noopener">Buka PDF asli ↗</a>' if payload.get('has_pdf') else ''
     correction_note = '<p class="data-note">Data inti telah diperiksa dan disimpan oleh pemilik koleksi.</p>' if payload.get('owner_review') else ''
-    body = f"""
-    <a class="back-link" href="/cases">← Jelajahi semua perkara</a>
-    <section class="case-intro">
-      <div class="topic-list">{topic_links}</div>
+    insights = payload.get('insights', {})
+    deciding_judges = insights.get('court', {}).get('names') or judges
+    has_source = bool(pdf_source(payload))
+    pdf_url = f'/cases/{quote(record_summary["case_id"])}/pdf'
+    pdf_link = f'<a class="button-link secondary" href="{pdf_url}" target="_blank" rel="noopener">Buka PDF asli ↗</a>' if has_source else ''
+    court = judges_html(deciding_judges, insights)
+    changes = change_html(insights)
+    reasoning = reasoning_html(insights)
+    thresholds = thresholds_html(insights)
+    navigation = [('ringkasan','Keputusan')]
+    if changes:
+        navigation.append(('perubahan','Perubahan'))
+    navigation.append(('hakim','Hakim & posisi'))
+    if reasoning:
+        navigation.append(('alasan','Alasan'))
+    navigation += [('dokumen','Dokumen'),('terkait','Perkara terkait')]
+    nav = ''.join(f'<a href="#{anchor}">{label}</a>' for anchor,label in navigation)
+    related_markup = ''.join(f'<article class="related-card"><span class="eyebrow">{_safe(item["connection"])}</span><a href="{_safe(case_href(item["case_id"],back))}"><h3>{_safe(item["title"])}</h3></a><p>{_safe(item.get("impact") or item.get("description"))}</p></article>' for item in related or [])
+    if not related_markup:
+        related_markup = '<p>Belum ada perkara lain dengan topik yang sama dalam koleksi ini. <a class="inline-link" href="/cases#results">Jelajahi semua perkara →</a></p>'
+    provisional = insights.get('provisional_items')
+    dictum = outcome.get('dictum', [])
+    if provisional is not None:
+        original = ('<h3>Dalam provisi</h3>' + _list_block(dictum[:provisional],label='Provisi') if provisional else '')
+        original += '<h3>Dalam pokok permohonan</h3>' + _list_block(dictum[provisional:],label='Amar')
+    else:
+        original = _list_block(dictum, label='Amar')
+    drawer = f'''<dialog id="source-reader" aria-labelledby="source-title"><div class="reader-toolbar"><h2 id="source-title">Dokumen sumber</h2><button type="button" id="close-source" aria-label="Tutup dokumen">Tutup ×</button></div>
+    <div class="source-reader-grid"><aside><span class="eyebrow">Yang sedang Anda baca</span><p id="source-context"></p><form id="pdf-page-form"><label for="pdf-page">Halaman PDF</label><div class="page-controls"><input id="pdf-page" type="number" min="1" max="{int(payload.get('source',{}).get('page_count') or 9999)}" value="1" required><button type="submit">Buka</button></div></form><a id="external-pdf" class="inline-link" href="{pdf_url}" target="_blank" rel="noopener">Buka di tab baru ↗</a><p class="subtle">Jika pratinjau tidak tampil, gunakan tautan tab baru.</p></aside><iframe id="source-frame" title="PDF putusan resmi" data-pdf-url="{pdf_url}"></iframe></div></dialog>''' if has_source else ''
+    body = f'''
+    <a class="back-link" href="{_safe(back)}" data-browse-back>← Kembali ke daftar perkara</a>
+    <section id="ringkasan" class="decision-hero reader-section">
+      <div class="decision-top"><span class="eyebrow">{_safe(' / '.join(record_summary.get('topics',[])))}</span><span class="badge outcome-{_safe(record_summary.get('outcome_key'))}">{_safe(record_summary.get('outcome_label'))}</span></div>
       <h1>{_safe(record_summary.get('title'))}</h1>
-      <div class="case-reference">{_safe(document.get('case_number'))} <span aria-hidden="true">·</span> {_safe(date)} <span aria-hidden="true">·</span> {_safe(_label_document_type(document.get('document_type')))}</div>
-      {review_notice}
-      {correction_note}
-      <div class="filter-actions">{owner_link}{pdf_link}</div>
+      <p class="decision-impact">{_safe(insights.get('impact') or record_summary.get('description') or outcome.get('summary') or 'Ringkasan belum tersedia.')}</p>
+      <div class="case-reference">{_safe(document.get('case_number'))} · {_safe(date)} · {_safe(_label_document_type(document.get('document_type')))}</div>
+      <div class="decision-actions"><a class="button-link" href="#hakim">Lihat hakim & posisi ↓</a>{pdf_link}{owner_link}</div>
     </section>
-    <section class="detail-layout">
-      <div class="stack">
-        <section class="panel story-panel"><span class="eyebrow">{summary_label}</span><h2>Perkara ini tentang apa?</h2><p class="story">{_safe(record_summary.get('description') or 'Ringkasan belum tersedia.')}</p><p class="provenance">{_safe(provenance)} <a class="inline-link" href="#amar">Baca amar ↓</a></p></section>
-        <section id="amar" class="panel"><span class="eyebrow">Hasil perkara</span><h2><span class="badge outcome-{_safe(record_summary.get('outcome_key'))}">{_safe(record_summary.get('outcome_label'))}</span></h2><h3>Amar putusan / ketetapan</h3>{_list_block(outcome.get('dictum', []), label='Amar')}</section>
-        {_panel('Pemohon & pihak', _kv_rows(people))}
-      </div>
-      <aside class="stack detail-aside">
-        {_panel('Undang-undang yang diuji', '<p class="law-text">' + _safe(record_summary.get('law') or 'Belum teridentifikasi') + '</p>')}
-        {_panel('Hakim & panitera', _kv_rows([('Hakim', _format_display_list(judges, hidden_judges)), ('Panitera', _format_display_list(clerks, hidden_clerks))]))}
-        <section class="panel source-panel"><h2>Telusuri sumber</h2><p>Baca dokumen dan riwayat perkara di situs MKRI.</p><div class="stack">{source_links}<a class="inline-link" href="#teks-dokumen">Teks hasil ekstraksi ↓</a></div></section>
-      </aside>
+    <nav class="case-nav" aria-label="Bagian perkara">{nav}</nav>
+    {review_notice}{correction_note}
+    <section class="case-overview reader-section"><div><span class="eyebrow">{summary_label}</span><h2>Perkara ini tentang apa?</h2><p class="story">{_safe(record_summary.get('description') or 'Ringkasan belum tersedia.')}</p><p class="provenance">{_safe(provenance)} {citation(insights.get('amar_page'))}</p></div><aside><span class="eyebrow">Undang-undang yang diuji</span><p>{_safe(record_summary.get('law') or 'Belum teridentifikasi')}</p><span class="eyebrow">Pemohon</span><p>{_safe(people[0][1] if people else 'Belum teridentifikasi')}</p></aside></section>
+    {changes}{thresholds}{court}{reasoning}
+    <section id="dokumen" class="reader-section"><div class="section-heading"><div><span class="eyebrow">Periksa sumbernya</span><h2>Dokumen & amar putusan</h2></div>{pdf_link}</div>
+    <p>Ringkasan membantu membaca perkara. Amar lengkap dan PDF tetap menjadi rujukan.</p>
+    <div class="source-actions">{citation(insights.get('amar_page') or 1,'Baca PDF di samping penjelasan') if has_source else '<span>PDF langsung belum tersedia.</span>'}{source_links}</div>
+    <details id="amar" class="panel original-ruling"><summary>Amar putusan / ketetapan — baca lengkap</summary>{original}</details>
+    <details class="panel data-details"><summary>Pemohon, pihak & panitera</summary>{_kv_rows(people + [('Panitera',_format_display_list(clerks,hidden_clerks)),('Panel pengucapan',_format_display_list(judges,hidden_judges))])}</details>
     </section>
+    <section id="terkait" class="reader-section"><div class="section-heading"><h2>Lanjutkan penelusuran</h2><a class="inline-link" href="{_safe(back)}">Kembali ke koleksi →</a></div><div class="related-grid">{related_markup}</div></section>
     <details class="panel data-details"><summary>Catatan data & rincian tambahan</summary>
       <div class="detail-layout">
         <div><h2>Catatan Viewer</h2>{notes}<ul>{review_flags}</ul>{_kv_rows([('Status parse', _label_status(record_summary.get('status'))), ('Sumber data', _label_source(record_summary.get('source')))])}<p><a class="inline-link mono" href="/api/cases/{_safe(record_summary['case_id'])}">/api/cases/{_safe(record_summary['case_id'])}</a></p></div>
         <div>{_kv_rows([('Batu uji UUD', _format_display_list(articles)), ('Alat bukti', _format_display_list(evidence)), ('Proses persidangan', _format_display_list(proceedings)), ('Perkara gabungan', _format_display_list(joined)), ('Perkara dirujuk', _format_display_list(referenced))])}</div>
       </div>
     </details>
-    <details id="teks-dokumen" class="panel data-details"><summary>Teks dokumen</summary><p class="subtle">Hasil ekstraksi otomatis dari PDF; pemenggalan kata dan judul bagian dapat berbeda dari dokumen asli.</p><div class="document-text">{full_text or 'Teks belum tersedia.'}</div></details>
-    """
+    <details id="teks-dokumen" class="panel data-details"><summary>Teks dokumen</summary><p class="subtle">Hasil ekstraksi otomatis; pemenggalan kata dan judul dapat berbeda dari PDF.</p><form id="text-search-form" class="text-search"><label for="document-query">Cari dalam dokumen</label><input id="document-query" type="search"><button type="submit">Temukan</button><output id="text-search-status" aria-live="polite"></output></form><div class="document-text">{full_text or 'Teks belum tersedia.'}</div></details>
+    {drawer}
+    '''
+    if has_source:
+        body = re.sub(r'href="#dokumen" data-pdf-page="(\d+)"', lambda m: f'href="{pdf_url}#page={m[1]}" data-pdf-page="{m[1]}"', body)
     return _render_layout(f"{record_summary.get('title')} · MKRI", body)
 
 
@@ -635,7 +660,9 @@ def create_app(
         query = {key: values[-1] for key, values in parse_qs(environ.get("QUERY_STRING", ""), keep_blank_values=True).items()}
 
         if path == "/static/styles.css":
-            return _text_response(start_response, STYLES_CSS, content_type="text/css; charset=utf-8")
+            return _text_response(start_response, STYLES_CSS + (Path(__file__).parent / 'reader.css').read_text(), content_type="text/css; charset=utf-8")
+        if path == "/static/reader.js":
+            return _text_response(start_response, (Path(__file__).parent / 'reader.js').read_text(), content_type="application/javascript; charset=utf-8")
 
         catalog = build_case_catalog(parsed_dir=parsed_dir, validated_dir=validated_dir, review_dir=review_dir, library_dir=library.directory)
         admin_response = owner(environ, start_response, catalog)
@@ -645,7 +672,24 @@ def create_app(
         if pdf_match:
             content = library.pdf(case_id=pdf_match[1])
             if content is None:
-                return _text_response(start_response, 'PDF belum tersedia.', status='404 Not Found')
+                record = next((r for r in catalog if r.case_id == pdf_match[1]), None)
+                if record:
+                    filename = record.payload.get('source', {}).get('file_name', '')
+                    # Only known catalog filenames, never URL-supplied filesystem paths.
+                    if filename and Path(filename).name == filename:
+                        roots = [parsed_dir.parent / 'raw_pdfs', parsed_dir.parent / 'raw_pdfs' / 'processed', parsed_dir.parent.parent / 'tests' / 'fixtures' / 'pdfs']
+                        for root in roots:
+                            candidate = root / filename
+                            if candidate.is_file() and not candidate.is_symlink():
+                                content = candidate.read_bytes()
+                                break
+                    if content is None:
+                        remote = pdf_source(record.payload)
+                        if isinstance(remote, str):
+                            start_response('302 Found', [('Location', remote), ('Content-Length', '0')])
+                            return [b'']
+                if content is None:
+                    return _text_response(start_response, 'PDF belum tersedia.', status='404 Not Found')
             return owner.binary(start_response, content, 'application/pdf', 'document.pdf')
         summaries = [summarize_case(record) for record in catalog]
 
@@ -660,7 +704,7 @@ def create_app(
                 review_only=query.get("review_only") == "1",
                 topic=query.get("topic", ""), year=query.get("year", ""), outcome=query.get("outcome", ""),
             )
-            filtered = _sort_case_summaries(filtered, query.get("sort", "newest"))
+            filtered = _sort_case_summaries(search_matches(filtered, query.get("q", "")), (query.get("sort") if query.get("sort") not in (None, "", "auto") else ("relevance" if query.get("q") else "newest")))
             return _json_response(start_response, {"items": [public_summary(item) for item in filtered], "stats": build_dashboard_stats(filtered), "facets": build_dashboard_stats(summaries)})
 
         if path.startswith("/api/cases/"):
@@ -675,7 +719,7 @@ def create_app(
             record = next((record for record in catalog if record.case_id == case_id), None)
             if not record:
                 return _text_response(start_response, _render_layout("Not Found", '<div class="panel empty">Case tidak ditemukan.</div>'), status="404 Not Found")
-            return _text_response(start_response, _render_detail(summarize_case(record), record.payload, can_edit=owner.can_edit(environ)))
+            return _text_response(start_response, _render_detail(summarize_case(record), record.payload, can_edit=owner.can_edit(environ), back=browse_return(query.get("return")), related=related_cases(summarize_case(record), summaries)))
 
         if path in {"/", "/cases"}:
             filtered = filter_case_summaries(
@@ -688,7 +732,7 @@ def create_app(
                 review_only=query.get("review_only") == "1",
                 topic=query.get("topic", ""), year=query.get("year", ""), outcome=query.get("outcome", ""),
             )
-            filtered = _sort_case_summaries(filtered, query.get("sort", "newest"))
+            filtered = _sort_case_summaries(search_matches(filtered, query.get("q", "")), (query.get("sort") if query.get("sort") not in (None, "", "auto") else ("relevance" if query.get("q") else "newest")))
             return _text_response(start_response, _render_dashboard(filtered, build_dashboard_stats(summaries), query))
 
         return _text_response(start_response, _render_layout("Not Found", '<div class="panel empty">Route tidak ditemukan.</div>'), status="404 Not Found")

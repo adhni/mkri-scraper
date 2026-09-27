@@ -226,6 +226,26 @@ PDF resmi, checksum, dan catatan pemeriksaan tersedia di
 [`landmark_sources.json`](data/editorial/landmark_sources.json). PDF disimpan lokal
 di `data/raw_pdfs`; snapshot JSON dan ringkasan ikut repo.
 
+### Membaca keputusan dan posisi hakim
+
+Beranda menampilkan perkara pilihan; pencarian memprioritaskan nomor/judul/topik,
+menandai kata yang cocok, dan mempertahankan filter saat kembali dari detail.
+Halaman perkara menyediakan ringkasan keputusan, perubahan sebelum/sesudah bila
+tersedia, panel hakim, alasan, perkara dengan topik terkait, dan PDF dengan tautan
+halaman. Amar panjang dapat dibuka terpisah; teks ekstraksi dapat dicari.
+
+Catatan terkurasi berada di `data/editorial/insights.json`. Posisi hakim tersedia
+untuk 90/PUU-XXI/2023, 60/PUU-XXII/2024, dan 91/PUU-XVIII/2020. Alasan berbeda
+(concurring) dipisahkan dari pendapat berbeda (dissenting). Pengelompokan hakim
+lainnya mengikuti amar merupakan inferensi dari panel pengambil putusan dan
+**daftar lengkap** pendapat terpisah; dasar ini ditampilkan. Tanda tangan saja
+tidak diperlakukan sebagai bukti suara. Perkara tanpa verifikasi hanya menampilkan
+nama, dan bagian analisis yang belum tersedia tidak ditampilkan.
+
+PDF bawaan dilayani dari file lokal yang dikenal; bila file tidak ikut deployment,
+tautan beralih ke host dokumen resmi MK. Preview memakai penampil PDF browser;
+tersedia tautan tab baru bila host resmi membatasi penyematan.
+
 ### Mengubah judul, ringkasan, atau topik
 
 Edit [`data/editorial/cases.json`](data/editorial/cases.json), dengan nomor perkara
