@@ -189,3 +189,8 @@ Prioritas berikutnya yang paling bernilai:
 - Detail mengutamakan keputusan, perubahan, hakim, pendapat terpisah, dan sumber PDF per halaman; amar panjang dapat dibuka.
 - Panel pengambil putusan dibedakan dari panel pengucapan untuk catatan terkurasi. Posisi tersedia pada tiga perkara; data yang belum diverifikasi tidak ditebak.
 - Perkara terkait berdasarkan topik, pencarian teks dokumen, dan tabel ambang Pilkada.
+
+
+## Perluasan koleksi: delapan perkara besar
+
+Koleksi menjadi 24 perkara dalam 13 topik: ambang batas presiden, UU ITE, jabatan polisi aktif, pendidikan dasar, pemisahan pemilu, ketenagakerjaan, penghayat kepercayaan, dan hubungan perdata anak. Sumber PDF resmi dan hash dicatat di `data/editorial/expansion_sources.json`. Ringkasan historis dan data inti dikurasi; posisi suara individual belum dikurasi untuk batch ini.

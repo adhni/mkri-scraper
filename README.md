@@ -208,8 +208,8 @@ Workflow yang disarankan:
 ## MKRI — Case Explorer
 
 Viewer kini mengutamakan topik dan isi perkara: judul deskriptif, ringkasan bahasa
-Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi pilihan berisi 16
-perkara dalam 10 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
+Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi pilihan berisi 24
+perkara dalam 13 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
 
 - Cari nomor perkara, nama pihak, undang-undang, atau kata dalam teks dokumen.
 - Gabungkan filter `topic`, `year` (tahun **putusan**, bukan tahun pendaftaran),
@@ -292,7 +292,7 @@ Klik **Unduh cadangan** pada halaman Kelola untuk mendapatkan salinan database
 yang konsisten. Untuk restore, hentikan server, simpan salinan database lama,
 letakkan file cadangan sebagai `library.sqlite3` di direktori penyimpanan,
 lalu jalankan server kembali. Backup ini meliputi seluruh unggahan dan koreksi;
-16 snapshot bawaan tetap berasal dari repo.
+24 snapshot bawaan tetap berasal dari repo.
 
 ### Mengaktifkan pemilik di hosting
 

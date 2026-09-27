@@ -102,6 +102,10 @@ class SavedCollectionTests(unittest.TestCase):
             '90/PUU-XXI/2023': '2023-10-16', '160/PUU-XXI/2023': '2024-01-16',
             '60/PUU-XXII/2024': '2024-08-20', '91/PUU-XVIII/2020': '2021-11-25',
             '35/PUU-X/2012': '2013-05-16',
+            '62/PUU-XXII/2024': '2025-01-02', '105/PUU-XXII/2024': '2025-04-29',
+            '114/PUU-XXIII/2025': '2025-11-13', '3/PUU-XXII/2024': '2025-05-27',
+            '135/PUU-XXII/2024': '2025-06-26', '168/PUU-XXI/2023': '2024-10-31',
+            '97/PUU-XIV/2016': '2017-11-07', '46/PUU-VIII/2010': '2012-02-17',
         }
         summaries = {summarize_case(r)['case_number']: summarize_case(r) for r in records}
         self.assertTrue(dates.keys() <= summaries.keys())
@@ -115,12 +119,18 @@ class SavedCollectionTests(unittest.TestCase):
                 self.assertTrue(summary['editorial'])
                 self.assertTrue(summary['topics'])
                 self.assertTrue(summary['law'])
-                self.assertIn(len(record.payload['adjudicators']['judges']), [8, 9])
+                self.assertIn(len(record.payload['adjudicators']['judges']), [7] if case == '97/PUU-XIV/2016' else [8, 9])
                 self.assertNotEqual(summary['outcome_key'], 'unknown')
         self.assertEqual(summaries['237/PUU-XXIII/2025']['outcome_key'], 'rejected')
         for case in ['191/PUU-XXIII/2025', '90/PUU-XXI/2023', '60/PUU-XXII/2024', '91/PUU-XVIII/2020', '35/PUU-X/2012']:
             self.assertEqual(summaries[case]['outcome_key'], 'granted_partly')
         self.assertEqual(summaries['21/PUU-XXIV/2026']['applicant_count'], 2)
+        for case, count in {'3/PUU-XXII/2024': 4, '135/PUU-XXII/2024': 1,
+                            '168/PUU-XXI/2023': 7, '46/PUU-VIII/2010': 2}.items():
+            self.assertEqual(summaries[case]['applicant_count'], count)
+        for case in ['105/PUU-XXII/2024', '3/PUU-XXII/2024', '135/PUU-XXII/2024',
+                     '168/PUU-XXI/2023', '46/PUU-VIII/2010']:
+            self.assertEqual(summaries[case]['outcome_key'], 'granted_partly')
 
 
 if __name__ == '__main__':
