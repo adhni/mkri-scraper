@@ -128,6 +128,33 @@ class CollectionExpansionTests(unittest.TestCase):
             self.assertFalse((root/'parsed_json').exists())
             parse.assert_not_called()
 
+    def test_validation_write_failure_does_not_publish_or_block_retry(self):
+        entry = copy.deepcopy(self.manifest[0])
+        raw = copy.deepcopy(next(r.payload for r in self.records if r.payload['document']['case_number'] == entry['case_number']))
+        pdf = b'%PDF-checked-test'
+        entry['sha256'] = hashlib.sha256(pdf).hexdigest()
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            (root/'raw_pdfs').mkdir()
+            (root/'raw_pdfs'/entry['file_name']).write_bytes(pdf)
+            manifest = root/'sources.json'
+            manifest.write_text(json.dumps([entry]))
+            # Files in place of directories force a real filesystem error on save.
+            for name in ('validated_json', 'review_queue'):
+                (root/name).write_text('blocks directory creation')
+            with patch('scripts.import_collection.MkriParser.parse_pdf', return_value=SimpleNamespace(to_dict=lambda:copy.deepcopy(raw))):
+                failed = import_batch(manifest, root)
+                self.assertEqual(failed['added'], 0)
+                self.assertEqual(len(failed['failures']), 1)
+                self.assertEqual(build_case_catalog(root/'parsed_json', root/'validated_json', root/'review_queue'), [])
+                for name in ('validated_json', 'review_queue'):
+                    (root/name).unlink()
+                retried = import_batch(manifest, root)
+                repeated = import_batch(manifest, root)
+            self.assertEqual(retried, {'added':1, 'skipped':0, 'pending':0, 'failures':[]})
+            self.assertEqual(repeated, {'added':0, 'skipped':1, 'pending':0, 'failures':[]})
+            self.assertEqual(len(build_case_catalog(root/'parsed_json', root/'validated_json', root/'review_queue')), 1)
+
     def test_mixed_outcomes_and_primary_pdf_facts_are_preserved(self):
         cases = {summarize_case(record)['case_number']:record for record in self.records}
         for number in ['132/PUU-XXIV/2026','322/PUU-XXIV/2026','308/PUU-XXIV/2026','293/PUU-XXIV/2026','157/PUU-XXIV/2026']:

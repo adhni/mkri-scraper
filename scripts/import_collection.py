@@ -75,8 +75,13 @@ def import_batch(manifest: Path, data_dir: Path, *, dry_run: bool = False) -> di
             if output.exists():
                 raise ValueError('Nama file sudah digunakan oleh perkara lain.')
             output.parent.mkdir(parents=True, exist_ok=True)
-            output.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
-            parser.validate_json_file(output, data_dir/'validated_json', data_dir/'review_queue')
+            try:
+                output.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
+                parser.validate_json_file(output, data_dir/'validated_json', data_dir/'review_queue')
+            except Exception:
+                # The catalog includes parsed files, so failed imports must remove them.
+                output.unlink(missing_ok=True)
+                raise
             existing.add(key)
             result['added'] += 1
             print(f'Ditambahkan: {entry["case_number"]}', flush=True)
