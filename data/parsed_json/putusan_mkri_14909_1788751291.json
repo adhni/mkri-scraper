@@ -1,0 +1,609 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14909_1788751291.pdf",
+    "file_name": "putusan_mkri_14909_1788751291.pdf",
+    "page_count": 34,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14909_1788751291.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "301/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "301/PUU/PAN.MK/AP3/08/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-07",
+    "decision_date_raw": "tujuh, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 301/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang  Nomor 17 Tahun 2025 tentang Anggaran Pendapatan dan Belanja Negara \nTahun Anggaran 2026 terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945, yang diajukan oleh: \nNama : Herifuddin Daulay, S.T. \nPekerjaan : Guru \nAlamat : Jalan Ahmad Yani Nomor 17, Kota Dumai, Riau \nSelanjutnya disebut sebagai -------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon; \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 6,
+      "end_line": 18
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]      Menimbang bahwa Pemohon telah mengajukan permohonan berta nggal \n5 Agustus 2026 yang diterima Kepaniteraan Mahkamah Konstitusi p ada tanggal  \n5 Agustus 2026 berdasarkan Akta Pengajuan Permohonan Pemohon No mor \n301/PUU/PAN.MK/AP3/08/2026, dan telah dicatat dalam Buku Regist rasi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 301/PUU- XXIV/2026 \npada tanggal 6 Agustus 2026, yang telah diperbaiki dengan perbaikan permohonan \nbertanggal 29 Agustus 2026 dan diterima Mahkamah pada tanggal 3 1 Agustus \n2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. Kewenangan Mahkamah",
+      "start_line": 20,
+      "end_line": 28
+    },
+    {
+      "heading": "1. Bahwa menurut Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "slug": "1-bahwa-menurut-undang-undang-dasar-negara-republik-indonesia-tahun-1945",
+      "text": "(Bukti P-1), selanjutnya disebut UUD NRI1945, warga negara yang  bermaksud \n\n\n2 \nmendapatkan putusan hukum tentang ke-konstitusionalitasan suatu  Undang-\nUndang, maka pengajuannya adalah ke Mahkamah Konstitusi. \nPasal 24C ayat (1) UUD 1945 \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji Undang-Un dang \nterhadap undang-undang dasar, memutus sengketa kewenangan lemba ga \nnegara yang kewenangannya diberikan oleh undang-undang dasar, memutus \npembubaran partai politik dan memutus perselisihan tentang hasil Pemilihan \nUmum.\"",
+      "start_line": 30,
+      "end_line": 42
+    },
+    {
+      "heading": "2. Mahkamah Konstitusi berwenang menyelenggarakan pengadilan ka rena (juga)",
+      "slug": "2-mahkamah-konstitusi-berwenang-menyelenggarakan-pengadilan-ka-rena-juga",
+      "text": "merupakan lembaga Kekuasan Kehakiman. \nPasal 24 ayat (2) UUD 1945 \n\"Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan badan \nperadilan yang berada di bawahnya dalam lingkungan Peradilan Um um, \nlingkungan Peradilan Agama, lingkungan Peradilan Militer, lingk ungan \nPeradilan Tata Usaha Negara, dan oleh sebuah Mahkamah Konstitusi”",
+      "start_line": 44,
+      "end_line": 49
+    },
+    {
+      "heading": "3. Pada keterangan nomor 1 (satu) juga telah terdeskripsikan se cara jelas, bahwa",
+      "slug": "3-pada-keterangan-nomor-1-satu-juga-telah-terdeskripsikan-se-cara-jelas-bahwa",
+      "text": "perkara-perkara yang Mahkamah Konstitusi berwenang memeriksa, m engadili \ndan memutuskannya ialah: \na. Menguji Undang-Undang terhadap undang-undang dasar; \nb. Memutus sengketa kewenangan lembaga negara yang kewenanganny a \ndiberikan oleh undang-undang dasar;",
+      "start_line": 51,
+      "end_line": 55
+    },
+    {
+      "heading": "4. Untuk maksud pengujian ke-konstitusionalitasan tersebut, leb ih lanjut ketentuan",
+      "slug": "4-untuk-maksud-pengujian-ke-konstitusionalitasan-tersebut-leb-ih-lanjut-ketentuan",
+      "text": "tentang pemohon serta permohonannya diatur dalam Undang-Undang Nomor \n24 Tahun 2003 tentang Mahkamah Konstitusi Sebagaimana yang tela h diubah \ndengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketig a atas \nUndang-Undang Nomor 24 tahun 2003 tentang Mahkamah Konstitusi \n(selanjutnya disebut UU MK) (Bukti P-3), pada Pasal 51: ayat (1); ayat (2); ayat \n(3), \nPasal 51 ayat (1) UU MK \n\"Pemohon adalah pihak yang hak dan/atau kewenangan konstitusion alnya, \ntelah dirugikan oleh berlakunya undang-undang, yaitu: \na. Perorangan Warga Negara Indonesia (termasuk kelompok orang y ang \nmempunyai kepentingan sama); \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan Negara \nRepublik Indonesia yang diatur dalam undang-undang; \n\n3",
+      "start_line": 59,
+      "end_line": 74
+    },
+    {
+      "heading": "d. Lembaga negara. “",
+      "slug": "d-lembaga-negara",
+      "text": "Pasal 51 ayat (2) UU MK \n“Pemohon wajib menguraikan dengan jelas dalam permohonannya ten tang \nhak dan/atau kewenangan konstitusionalnya sebagaimana maksud ayat (1)” \nPasal 51 ayat (3) UU MK \n“Dalam permohonan sebagaimana dimaksud pada ayat (2), Pemohon w ajib \nmenguraikan dengan jelas bahwa; \na. pembentukan undang-undang tidak memenuhi ketentuan berdasark an \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945; \ndan/atau \nb. materi muatan dalam ayat, pasal, dan/atau bagian undang-unda ng \ndianggap bertentangan dengan Undang-Undang Dasar NegaraRepublik  \nIndonesia Tahun 1945.”",
+      "start_line": 77,
+      "end_line": 88
+    },
+    {
+      "heading": "5. Permohonan a quo adalah tentang pengujian materiil, yaitu pengujian",
+      "slug": "5-permohonan-a-quo-adalah-tentang-pengujian-materiil-yaitu-pengujian",
+      "text": "sebagaimana dimaksud Pasal 51 ayat (3) huruf b (pengujian mater i muatan \ndalam ayat, pasal, dan/atau bagian Undang-Undang).   \nPeraturan perundang-undangan yang diajukan pengujiannya (disebut pengujian \nUndang-Undang dan selanjutnya disebut PUU) dalam permohonan a quo \nadalah Undang-Undang Nomor 17 Tahun 2026  Tentang  Anggaran Pendapatan \nDan Belanja Negara Tahun Anggaran 2026 (selanjutnya disebut UU APBN \n2026, Bukti P-2), Pasal 22 ayat (3) Penjelasan Pasal 22 ayat (3 ) Lampiran I \nRincian Anggaran Belanja Pemerintah Pusat Menurut Organisasi, F ungsi, dan \nProgram, dan Alokasi Pembiayaan Anggaran dalam Anggaran Pendapatan dan \nBelanja Negara Tahun Anggaran 2026 2.75.2, selanjutnya disebut Lampiran I \n2.75.2 MBG. \nLampiran I 2,75,2 MBG \nProgram pemenuhan gizi nasional 255.580.233.304",
+      "start_line": 90,
+      "end_line": 102
+    },
+    {
+      "heading": "6. Norma penguji ke-konstitusionalitasan adalah Norma UUD NRI 1945, yaitu:",
+      "slug": "6-norma-penguji-ke-konstitusionalitasan-adalah-norma-uud-nri-1945-yaitu",
+      "text": "Pasal 31 ayat (4), Pasal 28G ayat (1), Pasal 28H ayat (1). \nPasal 31 ayat (4) UUD 1945 \n“(4) Negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua \npuluh persen dari anggaran pendapatan dan belanja negara serta dari \nanggaran pendapatan dan belanja daerah untuk memenuhi kebutuhan  \npenyelenggaraan pendidikan nasional.” \nPasal 28G ayat (1) \n“(1) Setiap orang berhak atas perlindungan diri pribadi, keluarga, kehormatan, \nmartabat, dan harta benda yang di bawah kekuasaannya, serta ber hak atas \nrasa aman dan perlindungan dari ancaman ketakutan untuk berbuat  atau \ntidak berbuat sesuatu yang merupakan hak asasi.” \n\n4 \nPasal 28H ayat (1) \n“(1) Setiap orang berhak hidup sejahtera lahir dan batin, berte mpat tinggal, \ndan mendapatkan lingkungan hidup yang baik dan sehat serta berh ak \nmemperoleh pelayanan kesehatan.”",
+      "start_line": 104,
+      "end_line": 120
+    },
+    {
+      "heading": "7. Dari seluruh uraian di atas, karena yang menjadi objek permohonan PUU adalah",
+      "slug": "7-dari-seluruh-uraian-di-atas-karena-yang-menjadi-objek-permohonan-puu-adalah",
+      "text": "Undang-Undang dan norma pengujinya adalah UUD NRI 1945, maka uji materiil \nperkara a quo adalah di bawah wewenang Mahkamah Konsitusi. Kiranya Majelis \nHakim Mahkamah Konstitusi memutuskan berwenang untuk memeriksa,  \nmengadili dan memutuskannya. \nII. Kedudukan Hukum Pemohon",
+      "start_line": 122,
+      "end_line": 126
+    },
+    {
+      "heading": "1. Permohonan a quo ke Mahkamah Konstitusi berkenaan dengan",
+      "slug": "1-permohonan-a-quo-ke-mahkamah-konstitusi-berkenaan-dengan",
+      "text": "dilaksanakannya program nasional makan bergizi gratis, selanjut nya disebut \nMBG, yang merupakan pengejawantahan Lampiran I 2.75.2 MBG.",
+      "start_line": 128,
+      "end_line": 129
+    },
+    {
+      "heading": "2. Agar permohonan a quo dapat diterima di Makhkamah Konstitusi untuk",
+      "slug": "2-agar-permohonan-a-quo-dapat-diterima-di-makhkamah-konstitusi-untuk",
+      "text": "diperiksa, diadili dan diputuskan, Peraturan perundang-undangan  m e n g -\nisyarahkan bahwa pemohon haruslah memiliki kewenangan terhadap perkara \nyang diajukan, kewenangan atau disebut juga kedudukan hukum.  P okok \nketentuan peraturan perundang-undangan yang mengatur kualifikas i \nkedudukan hukum termuat dalam Undang-Undang Nomor 24 Tahun 2003    \nsebagaimana yang telah diubah dengan Tentang Mahkamah Konstitus i, \nselanjutnya disebut UU MK (Bukti P-3), Pasal 51 ayat (1). \nPasal 51 ayat (1) UU MK \n\"Pemohon adalah pihak yang hak dan/atau kewenangan konstitusion alnya, \ntelah dirugikan oleh berlakunya undang-undang, yaitu: \na. Perorangan Warga Negara Indonesia (termasuk kelompok orang y ang \nmempunyai kepentingan sama); \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan Negara \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 131,
+      "end_line": 145
+    },
+    {
+      "heading": "d. Lembaga negara. “",
+      "slug": "d-lembaga-negara",
+      "text": "Ketentuan keharusan memiliki kedudukan hukum untuk berperkara d i \nmahkamah konstitusi, ditegaskan kembali oleh mahkamah dalam Per aturan \nMahkamah Konstitusi Nomor 7 Tahun 2025 Tentang Tata Beracara Da lam \nPerkara Pengujian Undang-Undang (selanjutnya disebut PMK 7/2025 , Bukti P-\n4), Pasal 4 ayat (1) sebagai berikut: \n\"Permohon sebagaimana dimaksud dalam Pasal 3 huruf a adalah Pihak yang \nmenganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh \n\n5 \nberlakunya undang-undang atau perppu, yaitu  \na. Perorangan Warga Negara Indonesia (termasuk kelompok orang y ang \nmempunyai kepentingan sama); \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan Negara \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 148,
+      "end_line": 162
+    },
+    {
+      "heading": "d. Lembaga negara.”",
+      "slug": "d-lembaga-negara",
+      "text": "Syarat lanjutan sebagai penjelasan tentang mempunyai kedudukan hukum \ntersebut tertuang dalam Pasal 4 ayat (2) PMK 7/2025. \n“Hak dan/atau kewenangan konstitusional sebagaimana dimaksud da lam \nPasal 4 ayat (1) dianggap dirugikan oleh berlakunya Undang-Unda ng atau \nPerppu apabila:  \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD 1945: \nb. hak dan/atau kewenangan konstitusional tersebut, dianggap te lah \ndirugikan oleh berlakunya Undang-Undang yang dimohonkan penguji an \nnya.",
+      "start_line": 165,
+      "end_line": 174
+    },
+    {
+      "heading": "c. kerugian hak dan/atau kewenangan konstitusional tersebut har us bersifat",
+      "slug": "c-kerugian-hak-dan-atau-kewenangan-konstitusional-tersebut-har-us-bersifat",
+      "text": "spesifik (khusus) dan aktual atau setidak-tidaknya potensial ya ng \nmenurut penalaran yang wajar dapat dipastikan akan terjadi;",
+      "start_line": 176,
+      "end_line": 177
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat ( causal verband ) antara",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara",
+      "text": "kerugiandimaksud dengan berlakunya Undang-Undang yang \ndimohonkan pengujian \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan mak a \nkerugian konstitusional tersebut tidak akan atau tidak lagi terjadi.”",
+      "start_line": 179,
+      "end_line": 182
+    },
+    {
+      "heading": "3. Memenuhi persyaratan, berikut kualifikasi kedudukan hukum Pe mohon:",
+      "slug": "3-memenuhi-persyaratan-berikut-kualifikasi-kedudukan-hukum-pe-mohon",
+      "text": "a. Pemohon merupakan perseorangan warga Negara Indonesia (dibuk tikan \ndengan kartu tanda penduduk (KTP), Bukti P-5), berprofesi sebag ai guru \ntingkat menengah (Bukti P-6).  \nDalam keseharian saat melaksanakan pekerjaan yaitu mengajar, Pemohon \nmelakukan interaksi intensif dengan manusia lain baik mereka sebagai guru, \nmereka sebagai peserta didik, maupun mereka sebagai wali atau w arga \nsetempat. Kesiapan diri baik dari segi psikis maupun psikologis yang prima \nmerupakan faktor pendukung utama keberhasilan Pemohon dalam \nmenjalankan tugas dalam period harian rentang mulai hari senin hingga hari \nJum’at. \nTerlebih secara spesifik saat mengajar dalam tatap muka kelas, hal \nkesiapan psikis, psikologis sebagai faktor internal serta kenya manan \nsebagai faktor eksternal adalah hal pertama yang Pemohon harus \nintrospeksi. Kegagalan dalam menjalankan tugas dalam period harian akan \n\n6 \nserta merta dapat menghancurkan karir, nama baik bahkan karakte r \nPemohon baik dalam instansi maupun masyarakat sekitar. \nPemohon beruntung bahwa kenyamanan berupa keamanan untuk \nmelakukan tugas yang dimaksud te rnyata mendapatkan jaminan oleh  \nkonstitusi, yaitu Pasal 28G ayat (1) UUD NRI. \n“(1) Setiap orang berhak atas perlindungan diri pribadi, keluar ga, \nkehormatan, martabat, dan harta benda yang di bawah kekuasaanny a, \nserta berhak atas rasa aman dan perlindungan dari ancaman ketak utan \nuntuk berbuat atau tidak berbuat sesuatu yang merupakan hak asasi”. \nSecara spesifik, oleh jaminan negara tersebut, bahwa sekarang P emohon \nmendapatkan keamanan dan perlindungan untuk berbuat yaitu menga jar-\nbelajar.  \nDengan demikian, Pemohon memiliki hak konstitusional yaitu berh ak atas \nrasa aman dan perlindungan dari (ancaman) ketakutan untuk berbuat.  \nb. Bermula sejak tahun 2004, Pemohon telah mengkiprahkan diri u ntuk terlibat \ndalam dunia pendidkan yaitu sebagai seorang guru. Pemohon pertama kali \nmengajar di sekolah swasta berbasis pesantren tingkat SMP atau tepatnya \nTsanawiyah. Pemohon tetap berprofesi sebagai guru hingga permoh onan      \na quo diajukan ke majelis hakim konstitusi. \nSelama mengajar Pemohon telah mengalami 4 (empat) model kurikul um, \nyaitu:",
+      "start_line": 184,
+      "end_line": 220
+    },
+    {
+      "heading": "i. Kurikulum berbasis kompetensi, disebut KBK, saat mengajar ti ngkat",
+      "slug": "i-kurikulum-berbasis-kompetensi-disebut-kbk-saat-mengajar-ti-ngkat",
+      "text": "SMP (MTS) rentang tahun pelajaran 2004/2005 – tahun pelajaran \n2005/2006.",
+      "start_line": 222,
+      "end_line": 223
+    },
+    {
+      "heading": "ii. Kurikulum tingkat satuan pendidik, disebut KTSP, saat menga jar di SMK",
+      "slug": "ii-kurikulum-tingkat-satuan-pendidik-disebut-ktsp-saat-menga-jar-di-smk",
+      "text": "Negeri 2 rentang tahun pelajaran 2006/2007, tahun pelajaran hin gga \n2007/2008 hingga tahun pelajaran 2014/2015 di SMK Negeri 4 Dumai",
+      "start_line": 225,
+      "end_line": 226
+    },
+    {
+      "heading": "iii. Kurikulum 2013, disebut K13, saat mengajar di SMK Negeri 4 Dumai",
+      "slug": "iii-kurikulum-2013-disebut-k13-saat-mengajar-di-smk-negeri-4-dumai",
+      "text": "efektif tahun pelajaran 2015/2016 hingga tahun pelajaran 2019/2020.",
+      "start_line": 228,
+      "end_line": 228
+    },
+    {
+      "heading": "iv. Kurikulum 2022, disebut Merdeka, saat mengajar di SMK negeri 4 efektif",
+      "slug": "iv-kurikulum-2022-disebut-merdeka-saat-mengajar-di-smk-negeri-4-efektif",
+      "text": "tahun 2022/2023 hingga sekarang. \nSaat menggunakan KBK, KTSP hingga versi awal kurikulum K13, Pemohon \nmelaksanakan pekerjaan dengan model paradigma lama yaitu Teache r \nLearning Center. Model yang menempatkan guru sebagai sumber bel ajar \n\n7 \nutama serta guru mengajar dalam kelas. Tugas utama guru dalam k elas \nadalah mengajar. \nWalau sebenarnya sejak KBK penguasaan kompetensi di samping uji  \npenguasaan materi sudah mulai ditekankan, tetapi oleh karena \npelaksaannya masih lokalan dalam arti terdapat banyak perbedaan  antara \nsatu daerah dengan yang lain serta ketiadaan role model, pembel ajaran \nmodel lama yaitu guru sebagai pusat belajar dan mengajar member ikan \npelajaran seperti ceramah adalah dominan diterapkan.  \nPeserta didik dalam lama cenderung pasif yaitu mendengarkan, da n \nmemahami. Sedangkan penghapalan atau penguasaan materi dilakuka n \npeserta didik dirumah masing-masing baik secara sendiri-sendiri  maupun \nkerja kelompok.  \nTinjauan demografi keadaan SMK Negeri 4 Dumai. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n8 \n \n \n \n \n \n \n \n \n \n \nKeterangan: Lokasi SMK negeri 4 berada jauh dari pusat kota. Do minan peserta \ndidik bertempat tinggal jauh dari lokasi sekolah. Kehadiran pes erta didik dimulai \njam 7.15, akan kesulitan untuk mencukupi dirinya dengan makanan  gizi esensial \notak akibat ketidakckupan waktu. Terlihat juga, puskesmas berad a dijarak 7-8 km \ndengan waktu tempuh riil setidaknya 15 menit (2 x 7 menit) oleh  faktor trafik. \nKeadaan kritis dapat berakibat fatal. \n \nMulai dari tahun 2014. Pemerintah menekan kan perubahan paradig ma \npembelajaran nasional Teacher Centered Learning ke Student Cent ered \nLearning, serta pendekatan model obyektif berbasis indikator ba ik dalam \nproses pembelajarannya maupun dalam penilaian hasil kerja peser ta didik \ndalam K13 versi perbaikan. \nUntuk mencapai maksud tersebut, pemerintah memberikan pelatihan -\npelatihan secara masif dan intensif kepada guru. Pemohon telah mengikuti \npelatihan. (Bukti P-7).  \nSetelah mendapatkan pelatihan, Pemohon cukup menguasai teknik \npembelajaran obyektif K13 dan menerapkannya diruang kelas ditah un \npelajaran 2016/2017.  \nTanpa Pemohon sadari sebelumnya apa yang menjadi sebab, mulai t erjadi \nkejadian dimana peserta didik merasakan perut melilit serta dadanya sesak \ndan napas tersengal-sengal. Kejadian yang sangat mengkhawatirka n dan \nmenguras perhatian saat melihat dada peserta didik terlihat nai k turun, \nseperti yang sangat sulit kali untuk bernapas. Hal ini berlangsung sekali-kali \natau tidak sering hingga tahun pelajaran 2018/2019 awal. Tahun pelajaran \n2019/2020 hingga tahun 2021/2022 pembelajaran tatap muka kelas \nditiadakan atau kemudian dilakukan secara terbatas akibat wabah penyakit. \n\n\n9 \nMemasuki tahun pelajaran 2022/2023 pembelajaran kelas mulai dil akukan \nsecara normal, dengan kurikulum yang berlaku adalah Merdeka. Se cara \nstruktur dan model, kurikulum Merdeka adalah pengembangan tingkat lanjut \ndari K13. Terjadi perubahan paradigma dalam pendidikan semula \npengajaran menjadi pembelajaran, artinya tugas guru juga beruba h dari \npengajaran menjadi pendamping pembelajaran (fasilitator). Dalam  \npermohonan a quo , istilah tugas guru yang Pemohon gunakan adalah \npembelajaran. \nSelang beberapa lama pembelajaran dengan kurikulum Merdeka, kej adian \npeserta didik merasakan perut melilit dan dada sesak kembali te rulang. \nDalam hari yang sama, Pemohon mendapatkan hingga 2 (dua) kejadi an \ndengan gejala yang sama. Ini sudah membuat nyali Pemohon ciut u ntuk \ntetap menruskan pembelajaran kelas dan coba cari cara bagaimana  agar \npembelajaran bisa lebih ringan karena memang sejak awal dipener apan \nK13 Pemohon sudah wanti-wanti dengan beratnya beban belajar akademik \notak peserta didik. \nCara yang Pemohon lakukan adalah dengan membuat jurnal pembelajaran \n(kebetulan saat mulai tahun pelajaran 2023/2024 Pemohon ditunjuk sebagai \nwali kelas). Jurnal pembelajaran (Bukti P-8) Pemohon buat untuk kendalikan \nbeban akademik yang harus dikuasai peserta didik yang berlaku u ntuk \nsemua mata pelajaran. Sedangkan untuk materi pembelajaran Pemoh on \nsendiri Pemohon buatkan buku panduan belajar (cetak ber-ISBN baru tahun \n2024, Bukti P-9). Hasilnya gangguan dan kejadian peserta didik merasakan \nperut melilit dan dada sesak tidak terjadi lagi hingga saat permohonan a quo \ndiajukan setidaknya dalam pembelajaran kelas yang Pemohon ampu.  \nTambahan keterangan untuk saat kejadian adanya peserta didik merasakan \nperut melilit dan dada sesak, Pemohon termasuk yang selalu ikut  \nmengantarkan ke Puskesmas berjarak 7-8 km dari gedung SMK neger i 4 \nDumai (Bukti P-13).  \nSampai disini, Pemohon telah berhasil mengatasi permasalahan gangguan \nsuasana belajar yang menurut Pemohon merupakan dampak langsung \nmodel pembelajaran Student learning Center.  \nKemudian melalui Lampiran I 2.75.2 MBG UU APBN 2026 yang \nmenandakan penerapan program MBG secara lebih meluas berdampak \n\n10 \npada sekolah Pemohon bertugas. Program yang dugaan awal Pemohon  \nmerupakan kesadaran pemerintah atas besarnya kemungkinan pesert a \ndidik akan mengalami penderitaan sebagai dampak berlakunya kuri kulum \nMerdeka, ternyata pelaksanaannya seperti hanya solusi sebelah m ata. \nTidak jelas hak sekolah untuk menolak atau menerima, tidak ada sosialisasi \nsecara terbuka ke pihak guru.  \nTidak ada pihak guru yang menjadi pengawas atas distribusi makanan, yaitu \ntentang kelayakan, pertimbangan waktu kadaluarsa untuk kemudian  \nsekolah menentukan untuk terima atau tolak MBG period harian. S ekolah \nhanya penerima pasif sajian sehingga tentu akibat ketiadaan referensi ukur \nmemungkinkan timbulnya bahaya baru bagi warga sekolah. \nKemungkinan bahaya baru terjadi sangat besar mengingat sajian MBG rata-\nrata merupakan makanan dengan rentang kadaluarsa yang sangat se mpit, \nditambah merupakan bahan yang sensitif terhadap lingkungan. Nas i \nmisalnya, berdasarkan pengalaman akan mudah kadaluarsa (basi) o leh \nsentuhan tangan saja. Akan mudah kadaluarsa apabila sudah berca mpur \ndengan bahan lain semisal sayur atau lauk, bahkan akan mudah kadaluarsa \nhanya apabila berada dalam wadah tertutup yang saat dimasukkan sama-\nsama dalam keadaan panas (masih ber-uap).  \nOleh hal ketidakjelasan pengawasan, kemungkinan terganggunya suasana \nbelajar menjadi besar akibat prosentase kemungkinan peserta didik makan \nmakanan in casu MBG kadaluarsa atau basi tinggi. Ketidakjelasan terutama \npada pengawasan yang tidak nelibatkan guru, Pemohon yang semula  \nadalah pihak yang mengantarkan peserta didik ke puskesmas, seka rang \nkemudian berkemungkinan besar menjadi yang ikut diantar ke pusk esmas \nkarena tergoda makan MBG yang ternyata sudah kadaluarsa atau basi.  \nMengapa guru wajib dilibatkan sebagai pengawas distribusi karen a secara \nmoril menurut pemikiran yang wajar yang paling menginginkan keselamatan \npeserta didik saat pembelajaran berlangsung serta yang paling bertanggung \njawab atas keselamatan peserta didik selama berada disekolah un tuk \npembelajaran tentu adalah guru dari peserta didik itu sendiri. \nMaka dengan demikian, berlakunya Lampiran I 2.75.2 MBG UU APBN 2026 \nyang menandakan keberlakuan MBG (secara luas) telah potensial \nmerugikan baik hak untuk berbuat ya’ni pembelajaran secara aman  (Pasal \n\n11 \n28G ayat (1) UUD NRI 1945) maupun hak Pemohon untuk (tetap) sehat saat \nmenjalankan tugas yaitu mendapatkan lingkungan yang sehat bebas  \nancaman ditempat tugas (Pasal 28H ayat (1) UUD NRI 1945). \nPasal 28G ayat (1) \n(1) Setiap orang berhak atas perlindungan diri pribadi, keluarg a, \nkehormatan, martabat, dan harta benda yang di bawah kekuasaanny a, \nserta berhak atas rasa aman dan perlindungan dari ancaman ketak utan \nuntuk berbuat atau tidak berbuat sesuatu yang merupakan hak asasi \nPasal 28H ayat (1) \n(1) Setiap orang berhak hidup sejahtera lahir dan batin, bertempat tinggal, \ndan mendapatkan lingkungan hidup yang baik dan sehat serta berh ak \nmemperoleh pelayanan kesehatan.",
+      "start_line": 230,
+      "end_line": 395
+    },
+    {
+      "heading": "c. Berkenaan kerugian konstitusional yang Pemohon uraikan pada tabulasi b",
+      "slug": "c-berkenaan-kerugian-konstitusional-yang-pemohon-uraikan-pada-tabulasi-b",
+      "text": "sebelumnya, setidaknya ada dua kerugian yang potensial akan Pem ohon \nalami. Pertama, kerugian saat melakukan tugas mengajar, yaitu \nkenyamanan dan keamanan untuk berbuat (pembelajaran) tanpa rasa takut \npeserta didik dalam kelas mengalami sakit akibat makan MBG kada luarsa \natau basi yang berakibat fatal dan kemudian tanpa sebab tanggun g jawab \ndilimpahkan kepada Pemohon. Kedua, kerugian atas pribadi Pemoho n \nsendiri yang kini juga rentan untuk mengalami sakit akibat lingkungan tugas \nyang kini sudah tidak baik dan sehat karena banyaknya makanan p otensi \nkadaluarsa yang beredar dilingkungan sekolah dan Pemohon punya \nkemungkinan untuk mengkonsumsinya.",
+      "start_line": 397,
+      "end_line": 406
+    },
+    {
+      "heading": "d. Lingkungan tidak baik dan tidak sehat akibat besarnya kemung kinan",
+      "slug": "d-lingkungan-tidak-baik-dan-tidak-sehat-akibat-besarnya-kemung-kinan",
+      "text": "makanan kadaluarsa beredar, sesuai penjelasan sebelumnya merupa kan \nefek berjalannya program MBG dili ngkungan sekolah Pemohon akiba t \nberlakunya dan diterapkan Lampiran I 2.75.2 MBG UU APBN 2026. hampit \ntidak ada sebab lain mengapa beredarnya makanan kadaluarsa dala m \njumlah besar disekolah Pemohon melainkan oleh pemberlakuan kete ntuan \na quo. \ne. Dengan demikian, guru terlibat sebagai pengawas dua arah, se kolah dan \nSPPG saat pendistribusian menjadi hal yang tidak dapat tidak. S ebagai \npenanggung jawab utama terhadap keselamatan peserta didik saat \npembelajaran disekolah, serta sebagai penanggung jawab terhadap  \npenciptaan suasana belajar yang kondusif dan aman bagi semua bebas dari \nfailure pendistribusian MBG.  \n\n12 \nPendistribusian MBG harus dalam pengawasan ketat guru, dimana g uru \nbertugas akan menentukan batas akhir waktu layak konsumsi sajia n MBG \natau bahkan menjadi pioneer untuk putuskan terima atau tolak sa jian MBG \nperiod harian. \nDengan pengawasaan guru, sajian MBG menjadi lebih terjamin kela yakan \nkonsumsinya, sehingga munculnya gangguan kenyamanan dan keamanan \nsuasana belajar saat Pemohon berbuat (tugas pembelajaran) serta  \ngangguan lingkungan yang dapat menyebabkan Pemohon sakit tidak terjadi \nlagi.",
+      "start_line": 408,
+      "end_line": 430
+    },
+    {
+      "heading": "4. Sesuai penjelasan kualifikasi diatas, Pemohon telah memenuhi seluruh",
+      "slug": "4-sesuai-penjelasan-kualifikasi-diatas-pemohon-telah-memenuhi-seluruh",
+      "text": "persyaratan perundang-undangan dan persyaratan yang ditentukan majelis \nMahkamah Konstitusi. Maka kiranya, Mahkamah berkenan memutuskan  \nPemohon mempunyai kedudukan hukum untuk mengajukan perkara a quo. \nIII. Alasan Permohonan \n3.A Kelayakan Permohonan \nPengujian undang-undang yang diajukan permohonan a quo  adalah Lampiran I \n2.75.2 MBG UU APBN 2026. \nUU MK Pasal 60 ayat (1) dan ayat (2) yang menentukan tentang da pat tidaknya \nsuatu permohonan diuji.  \nPasal 60 UU MK \n“(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang-undang \nyang telah diuji, tidak dapat dimohonkan pengujian kembali.  \n (2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecua likan jika \nmateri muatan dalam Undang-Undang Dasar Negara Republik Indones ia Tahun \n1945 yang dijadikan dasar pengujian berbeda”. \nMemeriksa putusan-putusan mahkamah sebelumnya telah terdapat 3 (tiga) \npermohonan yang mendahului permohonan uji materiil UU APBN 2026 , yaitu; \nNomor 55/PUU-XXIV/2026, Nomor 52/PUU-XXIV/2026 dan Nomor 40/PUU -\nXXIV/2026. \nMempelajari permohonan-permohonan sebelumnya, Permohonan a quo  w a l a u  \nmenggunakan norma penguji Pasal 31 ayat (4) UUD NRI 1945 yang s ama, \npermohonan a quo secara kontras berbeda dalam sudut pandang. Secara spesifik, \nnorma pengujian permohonan a quo  adalah pada frasa kebutuhan. Selain \nberkenaan tinjauan perbedaan sudut pandang, uraian dibawah incl ude perbedaan \npokok pendalilan antar permohonan. \n \n\n13 \nPasal 31 ayat (4) UUD NRI 1945 \n“(4) Negara memprioritaskan anggaran pendidikan sekurang-kurang nya dua \npuluh persen dari anggaran pendapatan dan belanja negara serta dari anggaran \npendapatan dan belanja daerah untuk memenuhi kebutuhan penyelen ggaraan \npendidikan nasional.” \nPerkara Norma Uji \n(UUD NRI 1945) \nPutusan Keterangan \n  \nNomor \n55/PUU-\nXXIV/2026 \nPasal 1 ayat (3), Pasal \n28D ayat (1), Pasal 28D \nayat (2), Pasal 31 ayat \n(1), Pasal 31 ayat (4) \ntidak dapat \nditerima, \nditolak \nMBG merupakan fungsi non-\nkependidikan.  \n \n“Sementara, program pemerintah yang \nmemberi makan bergizi memenuhi dua \nfungsi non pendidikan, yaitu fungsi \nkesejahteraan sosial dan kesehatan. \nArtinya dalam program Makan Bergizi \nGratis (MBG) ada dua mandat, yaitu \nmemastikan kesejahteraan sosial dan \nmemastikan makan yang diberikan \nbergizi atau cukup sehat” \n  \nNomor \n52/PUU-\nXXIV/2026 \nPasal 28C ayat (1), \nPasal 31 ayat (4), Pasal \n31 ayat (5) \n \ntidak dapat \nditerima, \nditolak \nProgram makan bergizi gratis adalah \nprogram penunjang pendidikan \n    \n \nNomor \n40/PUU-\nXXIV/2026 \nPasal 31 ayat (4), Pasal \n28D ayat (1) \ndikabulkan \nsebagian \nBahwa secara substansi, program MBG \ntersebut memiliki tujuan dominan \n(dominant purpose) intervensi gizi dan \nkesejahteraan yang bersifat suportif \nterhadap kondisi fisik anak. Program \ntersebut tidak menyelenggarakan \nkurikulum, tidak mengatur standar isi atau \nproses pembelajaran, tidak membiayai \npendidik, dan tidak menjadi bagian \ninheren dari sistem pedagogis yang \nmembentuk inti pendidikan nasional \n  \nNomor \n301/PUU-\nXXIV/2026 \nPasal 31 ayat (4) frasa \nkebutuhan \nPasal 28G ayat (1) \nPasal 28H ayat (1) \n Secara substantif, program MBG bagian \ndari penyelenggaraan kurikulum. \n \nDalam sidang pendahuluan, Pemohon \nmengkualifikasikan sebagai perorangan \nberstatus guru. Dengannya, seluruh hak \nkonstitusional yang melekat pada \nseorang guru menjadi hak konstitusional \nPemohon yang diberikan UUD NRI 1945.\n \n \n \n\n14 \n3.B Pokok Permohonan \n3.B.1 Merumuskan Permasalahan: Kurikulum dan Peserta didik \nPokok kebijakan negara dalam menjalan kebijakannya menurut kons titusi salah-\nsatunya adalah mencerdaskan kehidupan bangsa. Dalam mafhum menc erdaskan \nkehidupan bangsa, menurut pemikiran yang wajar langkah utamanya  adalah tentu \ndengan menyediakan sarana pra-sarana belajar bagi warganya sert a secara terus \nmeneruskan meningkatkan nilai dan mutu sarana dan pra-sarana te rsebut. Belajar \noleh negara telah diterjemahkan sebagai Pendidikan. Hal ini tercermin dalam Pasal \n31 ayat (3) UUD NRI 1945 dimana penegasan penyelenggaraan pendi dikan \nmerupakan kewajiban Negara untuk mencerdaskan bangsa. \nPasal 31 ayat (3) UUD NRI 1945 \n“(3) Pemerintah mengusahakan dan menyelenggarakan satu sistem p endidikan \nnasional, yang meningkatkan keimanan dan ketakwaan serta akhlak mulia dalam \nrangka mencerdaskan kehidupan bangsa, yang diatur dengan undang-undang”. \nKomitmen pemerintah untuk penyelenggaraan pendidikan ini baku d iatur dalam \nUndang-Undang Negara Republik Indonesia Nomor 20 Tahun 2003 tentang Sistem \nPendidikan Nasional, selanjutnya disebut UU Sisdiknas (Bukti P- 10), bahwa tujuan \npendidikan nasional adalah mencerdaskan kehidupan bangsa dan \nmengembangkan manusia Indonesia seutuhnya: beriman, bertakwa, b erakhlak \nmulia, sehat, berilmu, cakap, kreatif, mandiri, serta menjadi w arga negara yang \ndemokratis dan bertanggung jawab.  \nMenurut Pasal 1 ayat (1), pendidikan adalah usaha sadar dan ter encana untuk \nmewujudkan suatu suasana belajar dan proses pembelajaran agar p eserta didik \nsecara aktif mengembangkan potensi dirinya. \nPasal 1 ayat (1) UU Sisdiknas \n“(1) Pendidikan adalah usaha sadar dan terencana untuk mewujudk an suasana \nbelajar dan proses pembelajaran agar peserta didik secara aktif mengembangkan \npotensi dirinya untuk memiliki kekuatan spiritual keagamaan, pe ngendalian diri, \nkepribadian, kecerdasan, akhlak mulia, serta keterampilan yang diperlukan \ndirinya, masyarakat, bangsa dan Negara”. \nPeserta didik yang dimaksud pada Pasal 1 ayat (1), menurut Pasal 1 ayat (4) adalah \nanggota masyarakat yang berusaha mengembangkan potensi diri. \nPasal 1 ayat (4) UU Sisdiknas  \n“(4) Peserta didik adalah anggota masyarakat yang berusaha meng embangkan \npotensi diri melalui proses pembelajaran yang tersedia pada jal ur, jenjang, dan \njenis pendidikan tertentu”. \n\n15 \nMendefinisikan pasal 1 ayat (1) tentang usaha sadar dan terenca na, pemerintah \nmenyebut usaha sadar dan terencana tersebut sebagai kurikulum yang ternyatakan \ndalam Pasal 1 ayat (19).  \nPasal 1 ayat (19) UU Sisdiknas \n“(19) Kurikulum adalah seperangkat rencana dan pengaturan menge nai tujuan, \nisi, dan bahan pelajaran serta cara yang digunakan sebagai pedo man \npenyelenggaraan kegiatan pembelajaran untuk mencapai tujuan pen didikan \ntertentu”. \nDalam pembelajaran, peserta didik berinteraksi dengan pendidik. Adapun kualifikasi \npendidik adalah sebagaimana diatur dalam Pasal 1 ayat (6). \nPasal 1 ayat (6) UU Sisdiknas \n“(6) Pendidik adalah tenaga kependidikan yang berkualifikasi se bagai guru, \ndosen, konselor, pamong belajar, widyaiswara, tutor, instruktur , fasilitator, dan \nsebutan lain yang sesuai dengan kekhususannya, serta berpartisi pasi dalam \nmenyelenggarakan pendidikan”. \n3.B.2 Kurikulum dan Beban Akademik Kognitif \n3.B.2.a Kurikulum Nasional \nSejak tahun 2004, telah terjadi perubahan paradigma pembelajaran nasional, yaitu:",
+      "start_line": 432,
+      "end_line": 601
+    },
+    {
+      "heading": "ii. Penilaian pembelajaran berbasis kerja peserta didik dominan pada hasil kerja,",
+      "slug": "ii-penilaian-pembelajaran-berbasis-kerja-peserta-didik-dominan-pada-hasil-kerja",
+      "text": "pencapaian kemampuan, portofolio berbanding hapalan atau pemaha man \nberdasarkan ujian tertulis. \nSetidaknya sudah ada 4 (empat) kurikulum yang menekankan pada p encapaian \nkompetensi, yaitu KBK, KTSP, K13 dan Merdeka. Timeline evolusi kurikulum. \nTahun Kebijakan / Regulasi Dampak terhadap Kurikulum \n2003 UU No. 20 Tahun 2003 tentang \nSistem Pendidikan Nasional \n(Sisdiknas) \nMenjadi dasar hukum seluruh kurikulum \nsetelahnya; menegaskan tujuan pendidikan \nnasional dan otonomi satuan pendidikan. \n2004 Kurikulum Berbasis Kompetensi \n(KBK) \nImplementasi pertama kurikulum berbasis \nkompetensi; fokus pada penguasaan \npen\ngetahuan, keterampilan, dan sikap.\n2006 KTSP (Kurikulum Tingkat Satuan \nPendidikan) – Panduan BSNP \nDesentralisasi kurikulum; sekolah diberi \nkewenangan menyusun kurikulum sesuai \nkarakteristik lokal. \n2013 Kurikulum 2013 (K13) –\nPermendikbud No. 81A Tahun 2013\nPenekanan pada pendidikan karakter, \nintegrasi kompetensi, dan penambahan jam \npelajaran. \n2016–\n2020 \nRevisi K13  \nPermendikbud 22 Tahun 2016 \nPermendikbud 23 Tahun 2016 \nPermendikbud 24 Tahun 2016  \nPenyempurnaan standar proses, isi, dan \npenilaian; penguatan profil pelajar \nPancasila. \n\n16 \nTahun Kebijakan / Regulasi Dampak terhadap Kurikulum \n2021–\n2022 \nKurikulum Merdeka \nProgram Sekolah Penggerak \n(Merdeka Belajar) \nFleksibilitas guru dan sekolah; \npembelajaran berbasis proyek dan karakter; \nfokus pada materi esensial. \n2026 \n(terbaru) \nPermendikdasmen No. 1 Tahun \n2026 \nMenetapkan standar proses pembelajaran \naktif, kontekstual, dan berkesadaran di \nseluruh \njenjang pendidikan. \nTinjauan lanjutan kurikulum nasional sejak tahun 2004, Pemohon merangkum dari \nbeberapa tulisan yang tertuang dalam Lampiran-A (sebagai alat b ukti berupa \ndokumen, Bukti P-11): \n3.B.2.b Beban Akademik Kognitif \nData dalam tabel berkenaan beban akademik kognitif kurikulum me rupakan \nringkasan yang juga Pemohon simpulkan dari Lampiran-A permohonan a quo. \nKurikulum Kebutuhan Kognitif  Fokus Utama Orientasi Beban\nKBK (2004) Penguasaan \nkompetensi dasar \n(pengetahuan, \nketerampilan, sikap\n) \nPemahaman konsep inti, \naplikasi sederhana \nSedang – standar \nminimal \nkompetensi \nKTSP (2006) Penyesuaian dengan \nkondisi lokal, muatan \nkontekstual  \nBerpusat pada siswa, integratif \nlintas mata pelajaran \nRingan–Sedang –\nfleksibel sesuai \nsekolah \nK13 (2013) Ranah sikap spiritual, \nsosial, pengetahuan, \nketerampilan \nAktivitas saintifik (mengamati, \nmenanya, mencoba, menalar, \nmengomunikasikan) \nTinggi – menuntut \npenalaran kritis & \nanalisis \nKurikulum \nMerdeka \n(2022) \nMateri esensial, proyek \nberbasis karakter \nAnalisis, sintesis, evaluasi; \nfleksibilitas guru & peserta \ndidik \nAdaptif & \nSeimbang –\nmendalam tapi \ntidak overload  \n \nKesimpulan Pemohon hasil tinjauan kurikulum, bahwa sejak pengua saan \nkompetensi dicanangkan mulai dari kurikulum KBK, yang disempurn akan dengan \nKTSP, K13 dan Kurmer, secara bertahap beban akademik pembelajar an. Seperti \nterlihat dalam tabel kesimpulan beban pembelajaran berada di ranah HOTS, terlebih \npada kutikulum Merdeka tuntutan beban akademik kognitif hingga pada kognitif C5 \n(Analisa C4, Sintesis atau Evaluasi C5).  \nPenerapan pembelajaran HOTS pada kurikulum Merdeka bukanlah ber kenaan \nprestasi melainkan hanya untuk sekedar mengikuti pembelajaran normal tatap muka \nkelas. \n \n\n17 \n3.B.4  Peserta Didik \nMasih dalam UU Sisdiknas, diatur bahwa dalam upaya mengembangka n \nkemampuan potensi dirinya Pasal 1 ayat (4, peserta didik menemp uhnya secara \nbertahap, Pasal 1 ayat (8), disebut jenjang pendidikan. \nPasal 1 ayat (8) UU Sisdiknas \n“(8) Jenjang pendidikan adalah tahapan pendidikan yang ditetapkan berdasarkan \ntingkat perkembangan peserta didik, tujuan yang akan dicapai, d an kemampuan \nyang dikembangkan \nMengkhususkan pada jenjang jalur formal sebagai acuan, jenjang yang dimaksud \ndijelaskan pada Pasal 1 ayat (11), yaitu pendidikan dasar, pendidikan menegah dan \npendidikan tinggi. \nPasal 1 ayat (11) UU Sisdiknas \n“(11) Pendidikan formal adalah jalur pendidikan yang terstruktu r dan berjenjang \nyang terdiri atas pendidikan dasar, pendidikan menengah, dan pendidikan tinggi”. \nMengacu pada Pasal 6 ayat (1) berkenaan umur peserta didik adal ah rentang 7 \n(tujuh) tahun hingga 15 (lima belas) tahun. Pendidikan dasar ad alah tingkat SD \nsederajat sampai tingkat SMP sederajat, Pasal 17 ayat (2). \nPasal 6 ayat (1), Pasal 17 ayat (2) UU Sisdiknas \nPasal 6 ayat (1) \n“(1) Setiap warga negara yang berusia tujuh sampai dengan lima belas tahun \nwajib mengikuti pendidikan dasar. \nPasal 17 ayat (2) \n“(17) Pendidikan dasar berbentuk Sekolah Dasar (SD) dan Madrasa h Ibtidaiyah \n(MI) atau bentuk lain yang sederajat serta Sekolah Menengah Per tama (SMP) \ndan Madrasah Tsanawiyah (MTs), atau bentuk lain yang sederajat”. \nSetelah pendidikan dasar, peserta didik dapat melanjutkan pembelajaran ke tingkat \npendidikan menengah. Pasal 18 ayat (1), secara umum ditempuh da lam 3 (tiga) \ntahun. \nPasal 18 ayat (1) \n“(1) Pendidikan menengah merupakan lanjutan pendidikan dasar” \nMaka rentang umur peserta didik menyelesaikan pendidikan hingga  tingkat \nmenengah adalah 15 (lima belas) ditambah 3 (tiga) dalam satuan tahun hasilnya \nadalah 18 (delapan belas) tahun. \nUmur 18 (delapan belas) tahun menurut peraturan perundang-undan gan masuk \ndalam kategori dibawah umur, dalam proses masa pertumbuhan dan dipandang \nsebagai pribadi yang belum mampu untuk mencukupi dirinya sendiri,  \n\n18 \n3.B.5 Profil Peserta Didik  \nDalam memahami kebutuhan kurikulum berkaitan dengan kognitif pe serta didik, \nPemohon melakukan 2 (dua) pendekatan yaitu teorikal dan penelitian.",
+      "start_line": 604,
+      "end_line": 758
+    },
+    {
+      "heading": "i. Pendekatan Teorikal",
+      "slug": "i-pendekatan-teorikal",
+      "text": "Pada pendekatan teorikal, Pemohon mengutip dan merangkum ringka san \ntulisan beberapa ahli.  \n1) Mengutip pendapat ahli dari: \nThe metabolic costs of cognition: Trends in Cognitive Sciences  \nBrain foods: the effects of nutrients on brain function , merupakan Buku \nyang ditulis oleh Fernando Gómez-Pinilla \n2) Mengutip pendapat ahli dari: \nhttps://studiliv.com/lower-order-thingking-skills/?utm_source=copilot.com  \n3) Mengutip pendapat ahli dari: \nhttps://eprints.undip.ac.id/29352/3/Bab_2.pdf \nterangkum dalam Lampiran-B, sebagai alat bukti (Bukti P-12)",
+      "start_line": 760,
+      "end_line": 770
+    },
+    {
+      "heading": "ii. Pendekatan Penelitian",
+      "slug": "ii-pendekatan-penelitian",
+      "text": "Penelitian diformat dalam bentuk pembelajaran berbentuk kompetisi.  \nKompetisi atau lomba yang ditujukan pada peserta didik tingkat SMP sebagai \npeserta lomba, dan peserta didik SMK sebagai asisten pelatihan (Bukti P-12).  \nMateri lomba adalah penerapan sensor, gerak dan koding. Inti pe nelitian \nadalah untuk mengukur kemampuan kognitif peserta didik, dengan klasifikasi \npeserta didik SMP pada kognitif C2 dan C3, sedangkan peserta di dik SMK \npada kognitif C4 dan C5. Hasil lomba Pemohon tuangkan kedalam s emisal \ncatatan (Bukti P-13).  \nSebagai kesimpulan, peserta didik SMP mampu berfikir pada tingkat kognitif \nC3, sedangkan peserta didik SMK berfikir pada tingkat kognitif C4. \nMemahami kurikulum, kognitif dan tujuan kurikulum terhadap pese rta didik, \nrepresentasinya dalam pengandaian keadaan ekonomi peserta didik  pendidikan \ntingkat menengah pertama (SMP) adalah menengah ke atas serta keadaan ekonomi \npeserta didik pendidikan tingkat atas (SMK) juga menengah keata s, dan \nmelanjutkan ke pendidikan tinggi, gambaran Pemohon profilnya sebagai berikut: \n \n\n19 \n \nDeskripsi subyektif Pemohon, menurut Pemohon cukup tepat untuk \nmengilustrasikan hasil pembelajaran kurikulum Merdeka. Dimana s ecara bertahap \nsebagai output akhir pembelajaran, khusus peserta didik melanjutkan ke pendidikan \ntinggi sebagai mahasiswa baru. Peserta didik (mahasiswa baru) a dalah pribadi \ndengan kemampuan kognitif C5 yang mampu hadirkan $12 (dua belas  dolar) per \nbulan sebagai pemasukan (hired, trading). Bila 1 (satu) mahasis wa baru hasilkan \n$12 per bulan maka 1.000.000 (satu juta) mahasiswa akan hasilka n $12 juta per \nbulan masuk ke negeri dan ini merupakan hasil nyata keberhasila n pembelajaran \nnasional Kurmer mencerdaskan kehidupan bangsa untuk memajukan kesejahteraan \numum (Pembukaan UUD NRI 1945). \n3.C Rumusan Permasalahan \nMelihat gambaran profil peserta didik output yang akan dibangun melalui kurikulum \nMerdeka, tentu Pemohon mengapresisasi dan banyak pihak tentu ju ga akan \nmengapresiasi. \nSesuai penjelasan diatas berkenaan tuntutan kurikulum dengan ke siapan \nsasarannya (peserta didik), Pemohon melakukan pemeriksaan ada t idaknya \ndokumen ukur terhadap kondisi awal peserta didik saat melakukan pembelajaran. \nProfil\t peserta\t didik\t SMP\t\nsederajat\t kelas\t VII\t\npembelajaran\t kurikulum\t\nMerdeka\t :\t tinggi\t badan\t 155\t –\t\n165\t(cm)\tskills\tberfikir\tkognitif\t\nC3.\t Badan\t jangkung\t karena\t\nproses\tberfikir\tmengakibatkan\t\nperut\t cepat\t lapar.\t Mampu\t\ndengan\t cepat\t mengenali\t\nmasalah,\t solving‐problem,\t\nmenguasai\t teknik\t koding\t\nsederhana\t\t\n\n\n20",
+      "start_line": 772,
+      "end_line": 822
+    },
+    {
+      "heading": "1. Setelah memeriksa secara saksama pada web kementerian,",
+      "slug": "1-setelah-memeriksa-secara-saksama-pada-web-kementerian",
+      "text": "https://www.kemendikdasmen.go.id/pencarian",
+      "start_line": 824,
+      "end_line": 824
+    },
+    {
+      "heading": "2. Setelah memeriksa secara saksama pada",
+      "slug": "2-setelah-memeriksa-secara-saksama-pada",
+      "text": "https://pusmendik.kemendikdasmen.go.id \nMemeriksa secara saksama (mode pencarian) pada web kementerian,  Pemohon \ntidak menemukan data-data yang dibutuhkan dibawah ini sebagai d asar dapatnya \nditerapkan pembelajaran HOTS. Data seperti ini bersifat publik karena diperlukan \nmasyarakat untuk mengukur kebijakan pemerintah. Data yang Pemoh on maksud \nberupa:",
+      "start_line": 826,
+      "end_line": 831
+    },
+    {
+      "heading": "1. Pemetaaan sistematis kemampuan dasar berpikir peserta didik (habitual",
+      "slug": "1-pemetaaan-sistematis-kemampuan-dasar-berpikir-peserta-didik-habitual",
+      "text": "thingking) (misalnya recall, understanding, application)",
+      "start_line": 833,
+      "end_line": 833
+    },
+    {
+      "heading": "2. Dokumen resmi status gizi peserta didik cukup untuk mendukun g fungsi",
+      "slug": "2-dokumen-resmi-status-gizi-peserta-didik-cukup-untuk-mendukun-g-fungsi",
+      "text": "optimal aktifitas otak. \nMelihat kembali materiil kurikulum Kurmer serta dengan ketiadaa n nya data pokok \nkesiapan peserta didik untuk mengikutinya, pendidikan desain Ku rmer lebih \nmerupakan penderaan, yaitu pengajaran dengan penekanan (Perspek tif Filosof \nModern; Paulo Freire. John Dewey, Immanuel Kant).  \nPemerintah telah salah ukur, karena common thingking manusia in  casu peserta \ndidik tanpa integer adalah habitual thingking (kognitif C1 dan kognitif C2) bukan pada \ndeliberative thingking (kognitif C3 atau lebih tinggi HOTS), se dangkan beban \nakademik kurikulum Merdeka pada kognitif C4. Desain kurikulum M erdeka bahkan \nsejak K13 jauh diatas kemampuan peserta didik.  \nPemerintah sudah salah ukur, karena dalam terma pembelajaran pe serta didik \nadalah subyek, (yang secara tidak langsung dengan pendampingan guru sebagai \nfasilitator) bersama pemerintah sama-sama mewujudkan tujuan pen didikan \nnasional, bukan obyek sebagai Bangking Knowledge (Immanuel Kant). \nPemerintah in casu kementerian pendidikan sudah salah ukur, yan g diamanatkan \ndalam UU Sisdiknas adalah belajar bukan mendera. \nAkibat dari salah ukur, program utama tujuan pendidikan nasiona l sedang failure. \nPeserta didik nasional secara mayoritas tidak mampu mengikuti tuntutan kurikulum \nMerdeka akibat masalah kecukupan gizi esensial otak.  \nAlasan mengapa masalah kecukupan gizi yang menjadi penyebab, ad a beberapa,",
+      "start_line": 835,
+      "end_line": 854
+    },
+    {
+      "heading": "di antaranya:",
+      "slug": "di-antaranya",
+      "text": "21",
+      "start_line": 856,
+      "end_line": 857
+    },
+    {
+      "heading": "1. Negara Indonesia adalah negara berkembang, pri-kehidupan eko nomi",
+      "slug": "1-negara-indonesia-adalah-negara-berkembang-pri-kehidupan-eko-nomi",
+      "text": "dominan berada digaris menengah ke bawah, tidak ada makanan yan g mau \ndimakan;",
+      "start_line": 859,
+      "end_line": 860
+    },
+    {
+      "heading": "2. Habit makan pagi atau sarapan adalah budaya yang biasanya dilakukan pada",
+      "slug": "2-habit-makan-pagi-atau-sarapan-adalah-budaya-yang-biasanya-dilakukan-pada",
+      "text": "rentang jam 8.00 wib – 10.00. Period harian belajar sekolah rata-rata adalah \njam 7.30;",
+      "start_line": 862,
+      "end_line": 863
+    },
+    {
+      "heading": "4. Makan pagi seadanya, misal dengan menu nasi goreng, atau den gan nasi",
+      "slug": "4-makan-pagi-seadanya-misal-dengan-menu-nasi-goreng-atau-den-gan-nasi",
+      "text": "kemarin tanpa lauk. karena ibunda tidak sempat masak lauk karen a masih \npagi;",
+      "start_line": 866,
+      "end_line": 867
+    },
+    {
+      "heading": "6. Tidak biasa makan pagi jam 6.00.",
+      "slug": "6-tidak-biasa-makan-pagi-jam-6-00",
+      "text": "Kalaupun oleh beberapa peserta didik dari golongan ekonomi mene ngah atas \nmampu beli jajanan kantin, faktanya baru dapat dipenuhi saat ja dwal sekolah \nistirahat pertama sekitaran jam 10.20 oleh faktor kedisipinan, fakta \npermasalahannya adalah:",
+      "start_line": 870,
+      "end_line": 873
+    },
+    {
+      "heading": "1. Momen terbaik quality time pembelajaran sudah lewat, rentang jam 7.30 –",
+      "slug": "1-momen-terbaik-quality-time-pembelajaran-sudah-lewat-rentang-jam-7-30",
+      "text": "jam 10.00;",
+      "start_line": 875,
+      "end_line": 875
+    },
+    {
+      "heading": "2. Jajanan kantin cenderung berupa cemilan, seperti gorengan da n minuman",
+      "slug": "2-jajanan-kantin-cenderung-berupa-cemilan-seperti-gorengan-da-n-minuman",
+      "text": "kemasan yang tidak terukur nilai gizinya, tidak akan lebih baik  gizinya \nberbanding makan nasi goreng. \nMaka hampir tidak ada jalan lain oleh faktor fakta keadaan pese rta didik diatas, \nuntuk menjamin: tetap berjalannya amanat mencerdaskan kehidupan  bangsa; \npendidikan dalam rangka pembelajaran bukan penderaan, pemerinta h wajib \nmenyediakan gizi esensial otak.  \nPenyediaan gizi esensial otak, sesuai penjelasan Pemohon, sebagai suatu kesatuan \nsistem pendidikan nasional menjadi bagian yang tidak terpisahka n dari kurikulum \nmaka sesuai kaidah. \n  ﻣﺎ ﻻ ﻳﺗﻡ ﺍﻟﻭﺍﺟﺏ ﺇﻻ ﺑﻪ ﻓﻬﻭ ﻭﺍﺟﺏ\nyaitu memenuhi sesuatu yang diperlukan untuk memenuhi suatu kew ajiban adalah \nwajib.  \njika, diterjemahkan kedalam hukum latin. \n\n22 \n“quod est necessarium est licitum” (what is necessary is lawful) \nMendapatkan hak makanan sebagai gizi esensial otak bagi peserta didik adalah hak \nkonstitusional pendidikam yang tidak lain adalah hak pendidikan  Pasal 31 ayat (1) \nUUD NRI 1945 itu sendiri. \nPasal 31 ayat (1) UUD NRI 11945 \n“(1) Setiap warga negara berhak mendapat pendidikan” \nPenyediaan gizi esensial otak sebagai power supply , sesuai Lampiran-B adalah \nberupa bahan makanan yang mengandung glukosa, asam amino serta lipid dan \nvitamin B-kompleks.",
+      "start_line": 877,
+      "end_line": 900
+    },
+    {
+      "heading": "1. Sebagai “bahan bakar”, zat glukosa utama adalah karbohidrat. Karbohidrat",
+      "slug": "1-sebagai-bahan-bakar-zat-glukosa-utama-adalah-karbohidrat-karbohidrat",
+      "text": "utama adalah makanan pokok. Makanan pokok mayoritas masyarakat \nIndonesia adalah nasi.",
+      "start_line": 902,
+      "end_line": 903
+    },
+    {
+      "heading": "2. Asam amino dan vitamin B-komples dibutuhkan syaraf neurotran smitter.",
+      "slug": "2-asam-amino-dan-vitamin-b-komples-dibutuhkan-syaraf-neurotran-smitter",
+      "text": "Asam amino terutama terdapat pada protein, hewani maupun nabati. Protein \nterutama terdapat tetapi tidak terbatas pada daging ayam, telur , kedelai. \nVitamin B-kompleks terutama terdapat tetapi tidak terbatas pada sayur jenis \nkacang-kacangan dan buah-buahan.",
+      "start_line": 905,
+      "end_line": 908
+    },
+    {
+      "heading": "3. Lipid terutama terutama terdapat tetapi tidak terbatas pada daging sapi,",
+      "slug": "3-lipid-terutama-terutama-terdapat-tetapi-tidak-terbatas-pada-daging-sapi",
+      "text": "daging kambing, susu. \nMakanan diatas merupakan makanan pokok harian yang sudah dikena l, dan \nmerupakan bahan makanan dengan rentang kadaluarsa yang pendek. \n3.D Kesimpulan Permasalahan  \nSesuai dengan Pasal 31 ayat (4) UUD NRI 1945 frasa kebutuhan, h asil dari telaah \npermasalahan diatas, maka untuk menjamin tercapainya tujuan pen didikan \nnasional, pemerintah wajib memenuhi seluruh kebutuhan yang munc ul, sebagai \nberikut:",
+      "start_line": 910,
+      "end_line": 917
+    },
+    {
+      "heading": "1. Gizi Esensial Otak berupa makanan siap santap period harian jam",
+      "slug": "1-gizi-esensial-otak-berupa-makanan-siap-santap-period-harian-jam",
+      "text": "pembelajaran pada peserta didik sesuai tuntutan kurikulum terap an \nkompetensi diberlakukan;",
+      "start_line": 919,
+      "end_line": 920
+    },
+    {
+      "heading": "2. Fungsi pengawasan untuk jaminan makanan gizi esensial otak t idak",
+      "slug": "2-fungsi-pengawasan-untuk-jaminan-makanan-gizi-esensial-otak-t-idak",
+      "text": "kadaluarsa, tidak basi, oleh guru tiap sekolah penerima manfaat;",
+      "start_line": 922,
+      "end_line": 922
+    },
+    {
+      "heading": "3. Pengawasan oleh guru dilakukan sejak time bahan makanan dipr oses di",
+      "slug": "3-pengawasan-oleh-guru-dilakukan-sejak-time-bahan-makanan-dipr-oses-di",
+      "text": "satuan pelaksana penyedia qizi esensial otak. \n\n23",
+      "start_line": 924,
+      "end_line": 926
+    },
+    {
+      "heading": "4. Pendanaan fungsi pengawasan beserta koordinasinya melalui AP BN sub",
+      "slug": "4-pendanaan-fungsi-pengawasan-beserta-koordinasinya-melalui-ap-bn-sub",
+      "text": "pendidikan untuk jaminan kesinambungan karena merupakan bagian yabg \ntidak terpisahkan dari kurikulum terapan kompetensi; \n3.E  Gizi Esensial Otak terhadap MGB \nMelalui keberlakuaan Lampiran I 2.75.2 pemerintah melaksanakan program \npemenuhan gizi nasional berupa makan gratis sebut MBG. Membandingkan antara \ngizi esensial otak permohonan a quo dengan MBG, dalam tabel sebagai berikut: \nNo Indikator Gizi Esensial Otak MBG",
+      "start_line": 928,
+      "end_line": 934
+    },
+    {
+      "heading": "1. Program",
+      "slug": "1-program",
+      "text": "Makanan Gratis  Makanan Gratis",
+      "start_line": 936,
+      "end_line": 937
+    },
+    {
+      "heading": "2. Sasaran Peserta didik hingga",
+      "slug": "2-sasaran-peserta-didik-hingga",
+      "text": "pendidikan menengah \nPeserta didik hingga \npendidikan menengah, Ibu \nhamil, ibu menyusui, anak \nusia dibawah 5 tahun",
+      "start_line": 939,
+      "end_line": 943
+    },
+    {
+      "heading": "3. Period Jam Pembelajaran",
+      "slug": "3-period-jam-pembelajaran",
+      "text": "Sekolah \nJam Pembelajaran Sekolah",
+      "start_line": 945,
+      "end_line": 946
+    },
+    {
+      "heading": "5. Dasar",
+      "slug": "5-dasar",
+      "text": "Pelaksanaan \nTuntutan kurikulum, UU \nSisdiknas \nPP, Perpres",
+      "start_line": 949,
+      "end_line": 952
+    },
+    {
+      "heading": "5. Pelaksana Komite, Internal Sekolah BGN",
+      "slug": "5-pelaksana-komite-internal-sekolah-bgn",
+      "text": "Melihat tabel, membandingkan antara gizi esensial otak permohonan a quo dengan \nprogram nasional MBG, ternyata program pemberian makanan bertuj uan \nmelengkapi peserta didik dengan gizi esensial otak secara grati s sudah dijalankan \npemerintah. MBG memiliki 2 (dua) fungsi yaitu fungsi pendidikan dan fungsi social. \nPelaksanaan MBG sudah dapat dipandang sebagai upaya pemerintah dalam \nmenjalankan amanat mencerdaskan kehidupan bangsa melalui upaya pencapaian \ntujuan pendidikan nasional. Hanya saja ada kelalalain fatal yan g dilakukan yaitu \ntidak adanya pengawasan dari pihak guru sebagai yang paling ber tanggung jawab \natas keselamatan peserta didik serta secara moril yang paling m engnginkan \nkeberhasilan peserta didik secara moril. \nTanpa pengawasan guru, sesuai pendalilan Pemohon diksi memastik an, \npelaksanaan justru dapat menimbulkan masalah baru mengingat, ma kanan \nmerupakan bahan yang cepat bereaksi dengan tubuh, sajian merupa kan bahan \n\n24 \nmakanan dengan rentang waktu kadaluarsa pendek, sajian merupaka n bahan \nmakan yang mudah bereaksi dengan bahan lain.  \nProgram dapat diibaratkan seperti membangun jembatan, tanpa pen gawasan \npembangunannya justru dapat menyebabkan kecelakaan fatal akibat  terjatuh atau \njembatan ambruk.  \nBahwa pengawasan menjadi kunci keterlaksanaan. Pribadi yang pal ing dekat \ndengan murid dan paling tepat untuk melakukan pengawasan adalah guru penerima \nmanfaat. Dalam maksud melakukan pengawasan, tentu diperlukan se jumlah dana, \nsetidaknya dana transportasi dan operasional. Untuk melibatkan guru tentu \ndiperlukan dana tambahan. Setidaknya diperlukan 2 (dua) orang g uru wakil tiap \nsekolah dengan insentif rata Rp 2,000,000,- per bulan. Jumlah sekolah saat ini yang \ntercatat adalah 444315 unit, sedangkan sekolah penerima manfaat mencapai 24419 \nunit sekolah. Rincian lengkap. \nBiaya Pengawasan    \nJumlah Sekolah Penerima Manfaat = 24.419   \n     \n(unit)\nJumlah Guru Terlibat @ 2 orang = 48.838             \n  \n(orang)\nInsentif Guru Pengawas = 2,000,000   \n      \n(Rp)\nJangka Waktu Pengawasan = 9                    (bulan)\nTotal Biaya Insentif Pengawas = 2.000.000 x.48.838 x 9 \n = 879.084.000.000  (Rp)\n \nDari perhitungan untuk pengawasan selama masa pembelajaran pertahun sekitar 9 \n(sembilan) bulan memerlukan dana sebesar Rp 879.084.000.000,- ( delapan ratus \ntujuh puluh sembilan milyar delapan puluh empat juta rupiah). \nDalam melakukan pengawasan, para guru tentu akan perlu saling b erkoordinasi \nantar guru maupun dengan ke-organisasian guru. Untuk koordinasi , kunjungan, \npelatihan daring setidaknya akan membutuhkan (tanpa rinci) dana  sebesar Rp \n9.546.000.000,- (sembilan milyar lima ratus empat puluh enam ju ta rupiah), hingga \ntotal dana yang diperlukan untuk pengawasan tersebut adalah Rp \n888.630.000.000,00, menyesuaikan dengan format penulisan Lampir an I 2.75.2 \nMBG (dalam satuan ribu rupiah) menjadi 888.630.000 Anggaran pro gram \n\n25 \npemenuhan gizi yang tercatat adalah (dalam satuan ribu rupiah) 255.580.233.304. \nMaka seharusnya angka yang muncul dalam lampiran I nomor 128 pa da kolom \nprogram pemenuhan gizi nasional adalah 255.580.233.304 + 888.63 0.000 adalah \n256.468.863.304 (sebesar Rp 256.468.863.304.000). \nBahwa oleh sebab tidak diaturnya guru sebagai pengawas dan tidak diaturnya dana \nuntuk pengawasan dalam pasal UU a quo , maka secara bersyarat, materi pasal \ntersebut bertentangan dengan UUD NRI 1945, bertentangan dengan UUD NRI 1945 \nPasal 31 ayat (4) tentang kebutuhan pendidikan karena negara ti dak memastikan \ngizi esensial otak benar-benar aman dan layak konsumsi sampai k epada peserta \ndidik. \nIV. Petitum \nBerdasarkan seluruh uraian dalam permohonan ini, kiranya Mahkam ah untuk \nberkenan memberikan putusan sebagai berikut:",
+      "start_line": 954,
+      "end_line": 1021
+    },
+    {
+      "heading": "2. Menyatakan Pasal 22 ayat (3) Penjelasan Pasal 22 ayat (3) La mpiran I 2.75.2",
+      "slug": "2-menyatakan-pasal-22-ayat-3-penjelasan-pasal-22-ayat-3-la-mpiran-i-2-75-2",
+      "text": "Undang-Undang Nomor 17 Tahun 2025 tentang Anggaran Pendapatan d an \nBelanja Negara Tahun 2026 bertentangan dengan Undang-Undang Das ar \nNegara Republik Indonesia Tahun 1945 secara bersyarat sepanjang  t i d a k  \ndimaknai   Program Pemenuhan Gizi Nasional 256.468.863.304;.",
+      "start_line": 1024,
+      "end_line": 1027
+    },
+    {
+      "heading": "3. Mencatat putusan pada lembar negara:",
+      "slug": "3-mencatat-putusan-pada-lembar-negara",
+      "text": "atau, bila Majelis Hakim berpendapat lainnya, kiranya berkenan memberikan \nputusan yang seadil-adilnya ex aequo et bono. \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-2, sebagai \nberikut:2",
+      "start_line": 1029,
+      "end_line": 1033
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Dasar Negara Republik Indonesia",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-dasar-negara-republik-indonesia",
+      "text": "Tahun 1945;",
+      "start_line": 1035,
+      "end_line": 1035
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Nomor 17 Tahun 2025 tenta ng",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-nomor-17-tahun-2025-tenta-ng",
+      "text": "Anggaran Pendapatan dan Belanja Negara Tahun Anggaran \n2026; \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini. \n\n26",
+      "start_line": 1037,
+      "end_line": 1043
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945.  \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang in casu Undang-Undang Nomor 17 Tahun 2025 \ntentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2 026 \n(Lembaran Negara Republik Indonesia Tahun 2025 Nomor 179, Tamba han \nLembaran Negara Republik Indonesia Nomor 7144, selanjutnya dise but UU \n17/2025) maka Mahkamah berwenang mengadili permohonan a quo.  \n[3.3]  Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan Pemohon, namun demikian sebelum mempertimbangkan leb ih lanjut \nmengenai kedudukan hukum dan pokok permohonan, Mahkamah \nmempertimbangkan hal-hal sebagai berikut.  \n[3.3.1]  Bahwa Mahkamah telah memeriksa permohonan a quo  dalam sidang \npemeriksaan pendahuluan dengan agenda mendengarkan pokok-pokok \npermohonan, memeriksa kelengkapan, dan kejelasan materi permoho nan pada \ntanggal 19 Agustus 2026. Berdasarkan ketentuan Pasal 39 UU MK d an Pasal 36 \nayat (3) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 tenta ng Tata \nBeracara Dalam Perkara Pengujian Undang-Undang (disebut PMK 7/2 025), \n\n27 \nMahkamah memberikan nasihat kepada Pemohon untuk memperbaiki si stematika \npermohonan agar disesuaikan dengan PMK 7/2025, menambahkan dasa r hukum \nkewenangan Mahkamah, memperjelas kedudukan hukum dengan memberi kan \nuraian mengenai kualifikasi Pemohon dan pemenuhan terhadap syar at kerugian \nkonstitusional, memperbaiki alasan-alasan permohonan (posita) d engan \nmemberikan uraian yang jelas dan memadai mengenai pertentangan antara norma \nyang dimohonkan pengujian dengan dasar pengujian dalam UUD NRI Tahun 1945 \ndan uraian argumentasi yang melatarbelakangi hal-hal yang dimoh onkan untuk \ndiputus (petitum), serta memperjelas petitum khususnya mengenai  besaran angka \nyang dimohonkan pemaknaan [vide Risalah Sidang, tanggal 19 Agustus 2026, hlm. \n7-21]. Terhadap nasihat yang disampaikan Mahkamah, Pemohon dibe rikan \nkesempatan memperbaiki permohonan paling lama 14 (empat belas) hari, yaitu \nhingga tanggal 1 September 2026, pukul 12.00 WIB. Berkenaan dengan batas waktu \ndimaksud, Pemohon telah menyampaikan perbaikan permohonan yang diterima \nMahkamah pada tanggal 31 Agustus 2026 melalui e-mail. Selanjutnya, pada tanggal \n1 September 2026, Mahkamah menyelenggarakan sidang pendahuluan dengan \nagenda memeriksa perbaikan permohonan dan pengesahan alat bukti. \n[3.3.2]  Bahwa perihal uraian sebagaimana dikemukakan pada Sub- \nparagraf [3.3.1] di atas, Mahkamah akan menilai syarat formil suatu permohonan \nterutama berkaitan dengan uraian yang jelas ihwal pengujian und ang-undang \nterhadap UUD NRI Tahun 1945, berdasarkan Pasal 30 huruf a dan P asal 31 ayat \n(1) UU MK serta Pasal 10 ayat (3) dan Pasal 36 ayat (1) PMK 7/2 025 sebagai \nberikut: \nPasal 30 huruf a UU MK \nPermohonan wajib dibuat dengan uraian yang jelas mengenai: \na. pengujian undang-undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945; \nPasal 31 ayat (1) UU MK  \n(1) Permohonan sekurang-kurangnya harus memuat:  \na. nama dan alamat pemohon;  \nb. uraian mengenai perihal yang menjadi dasar permohonan sebaga imana \ndimaksud dalam Pasal 30; dan",
+      "start_line": 1045,
+      "end_line": 1108
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025  \n(3) Permohonan sebagaimana dimaksud pada ayat (1), sekurang-kur angnya \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antara lain:  \na. kewenangan Mahkamah;  \n\n28 \nb. kedudukan hukum Pemohon;",
+      "start_line": 1110,
+      "end_line": 1116
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025  \n(1) Dalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam Pasal 35 ayat \n(1) huruf a, Mahkamah memeriksa identitas Pemohon dengan kelengkapan dan \nkejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 1119,
+      "end_line": 1124
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum)",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Bahwa berdasarkan ketentuan persyaratan formil tersebut di ata s, pada \ndasarnya permohonan Pemohon telah disusun sesuai dengan sistema tika atau \nformat permohonan. Dalam hal ini, permohonan Pemohon a quo telah menguraikan \nperihal kewenangan Mahkamah [vide Permohonan hlm. 2-4], keduduk an hukum \npemohon [vide Permohonan hlm. 4-14], alasan permohonan [vide Permohonan hlm. \n14-29], dan hal-hal yang dimohonkan untuk diputus (petitum) [vide Permohonan hlm. \n29].  \n[3.3.3] Bahwa meskipun secara formil permohonan Pemohon telah disusun \nsesuai dengan format atau sistematika permohonan sebagaimana di atur dalam \nketentuan dimaksud di atas, namun Mahkamah juga akan menilai ke terpenuhan \npersyaratan formil dari aspek ketepatan dan kejelasan uraian materi atau substansi \ndari masing-masing bagian pada sistematika maupun dari aspek ke sesuaian atau \nkeselarasan antara  alasan-alasan permohonan (posita) dan dengan hal-hal yang \ndimohonkan untuk diputus (petitum). Artinya, sekalipun permohonan Pemohon telah \ndisusun dan memuat sistematika atau format permohonan secara be nar, penilaian \nperihal keterpenuhan syarat formil suatu permohonan tidak hanya  sampai pada \nsistematika an sich, namun Mahkamah juga akan menilai keterpenuhan kejelasan \ndan ketepatan isi/substansi dari setiap bagian dalam sistematik a serta kesesuaian \nantara posita dan petitum permohonan. Penilaian tersebut didasa rkan pada \nketentuan Pasal 51 ayat (3) huruf b UU MK dan Pasal 68 PMK 7/20 25 sebagai \nberikut: \nPasal 51 ayat (3) huruf b UU MK  \nDalam permohonan sebagaimana dimaksud pada ayat (2), pemohon wa jib \nmenguraikan dengan jelas bahwa: \nb. materi muatan dalam ayat, pasal, dan/atau bagian undang-undang dianggap \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945. \n\n29 \nPasal 68 PMK 7/2025 \nMahkamah dapat menyatakan Permohonan tidak jelas atau kabur ant ara lain \nkarena:  \na. adanya ketidaksesuaian antara dalil Permohonan dalam posita dengan \npetitum;  \nb. dalil tidak terdapat dalam posita tetapi terdapat dalam peti tum atau \nsebaliknya;",
+      "start_line": 1127,
+      "end_line": 1162
+    },
+    {
+      "heading": "c. adanya permintaan Pemohon dalam petitum yang saling bertenta ngan",
+      "slug": "c-adanya-permintaan-pemohon-dalam-petitum-yang-saling-bertenta-ngan",
+      "text": "antara satu dengan yang lainnya dan tidak memberikan pilihan alternatif. \n[3.3.4]  Bahwa berdasarkan ketentuan sebagaimana telah dikemukakan pad a \nSub-paragraf [3.3.2] sampai dengan Sub-paragraf [3.3.3] di atas dan setelah \nmencermati dengan saksama permohonan Pemohon, Mahkamah menemukan hal-\nhal sebagai berikut: \nPertama, bahwa terkait dengan objek permohonan yang dimohonkan \npengujian, pada bagian Kewenangan Mahkamah perbaikan permohonan  tertulis \n“Pasal 22 ayat (3) Penjelasan Pasal 22 ayat (3) Lampiran I Rinc ian Anggaran \nBelanja Pemerintah Pusat Menurut Organisasi, Fungsi, dan Progra m, dan Alokasi \nPembiayaan Anggaran dalam Anggaran Pendapatan dan Belanja Negar a Tahun \nAnggaran 2026 2.75.2” [vide Permohonan hlm. 3] dan pada bagian petitum \nperbaikan permohonan tertulis “Pasal 22 ayat (3) Penjelasan Pas al 22 ayat (3) \nLampiran I 2.75.2 Undang-Undang Nomor 17 Tahun 2025 tentang Ang garan \nPendapatan dan Belanja Negara Tahun 2026” [vide Permohonan hlm.  29]. Terkait \ndengan hal tersebut, dalam sidang pemeriksaan perbaikan permoho nan, \nMahkamah telah melakukan konfirmasi kepada Pemohon mengenai ada nya \npenambahan objek permohonan. Terhadap konfirmasi tersebut, Pemo hon \nmenyatakan bahwa terdapat penambahan objek norma yang dimohonka n \npengujian, yaitu menjadi Pasal 22 ayat (3), Penjelasan Pasal 22  ayat (3), dan \nLampiran I Angka 2.75.2 UU 17/2025 [vide Risalah Sidang, tangga l 1 September \n2026, hlm. 2 dan hlm. 4]. Berdasarkan hal tersebut, Mahkamah mendapat ketegasan \nbahwa norma yang dimaksud untuk diputus dalam petitum angka 2 adalah Pasal 22 \nayat (3), Penjelasan Pasal 22 ayat (3), dan Lampiran I Angka 2. 75.2 UU 17/2025. \nBerkaitan dengan pengujian Penjelasan Pasal 22 ayat (3) UU 17/2 025, Mahkamah \ntelah menjatuhkan Putusan Mahkamah Konstitusi Nomor 40/PUU-XXIV /2026 yang \ndiucapkan dalam sidang pleno terbuka untuk umum pada tanggal 30  Juli 2026 \ndengan amar “Mengabulkan permohonan para Pemohon untuk sebagian ” yang \npada pokoknya mengakibatkan perubahan pada substansi Penjelasan  Pasal 22 \n\n30 \nayat (3) UU 17/2025, sehingga permohonan pengujian kembali terhadap penjelasan \na quo tidak sesuai dengan penjelasan utuh putusan Mahkamah yang bers ifat final \ndan mengikat, di mana substansi yang dimohonkan pengujian tidak  sebagaimana \nyang telah diputus oleh Mahkamah.  \nKedua, bahwa pada bagian alasan permohonan (posita), Pemohon tidak \nmenguraikan secara jelas, memadai, dan spesifik pertentangan antara norma yang \ndimohonkan pengujian dengan dasar pengujian yang digunakan. Pad a bagian \nKewenangan Mahkamah, Pemohon menyatakan bahwa pasal yang diguna kan \nsebagai dasar pengujian adalah Pasal 28G ayat (1), Pasal 28H ay at (1) dan Pasal \n31 ayat (4) UUD NRI Tahun 1945 [vide Pemohonan hlm. 3]. Dengan demikian, \nseharusnya dalam bagian alasan permohonan (posita), Pemohon menguraikan satu \nper satu pertentangan norma Pasal 22 ayat (3), Penjelasan Pasal  22 ayat (3), dan \nLampiran I Angka 2.75.2 UU 17/2025 dengan Pasal 28G ayat (1), P asal 28H ayat \n(1) dan Pasal 31 ayat (4) UUD NRI Tahun 1945, dan disertai alat  bukti yang \nmendukung dalil-dalilnya. Namun, hal demikian tidak dapat ditem ukan dalam \npermohonan a quo  sehingga Mahkamah mengalami kesulitan untuk memahami \nsubstansi yang sesungguhnya dimohonkan Pemohon untuk dinilai \nkonstitusionalitasnya. Terlebih, dalam uraian alasan permohonan (posita), Pemohon \nlebih banyak memberikan uraian mengenai jenis kurikulum, beban akademik kognitif \nkurikulum, gizi esensial otak, pe rsoalan teknis MBG dan tidak a danya keterlibatan \nguru dalam pengawasan MBG serta penghitungan biaya pengawasan u ntuk guru \ndalam MBG. Menurut Mahkamah, uraian tersebut tidak memperlihatk an kejelasan \nmengenai keterhubungan dan ketersambungan dengan masalah konsti tusionalitas \nnorma yang dipersoalkan oleh Pemohon.  \nKetiga, bahwa petitum angka 2 permohonan Pemohon menyatakan \n“Pasal 22 ayat (3) Penjelasan Pasal 22 ayat (3) Lampiran I 2.75 .2 Undang-Undang \nNomor 17 Tahun 2025 tentang Anggaran Pendapatan dan Belanja Neg ara Tahun \n2026 bertentangan dengan Undang-Undang Dasar Negara Republik In donesia \nTahun 1945 secara bersyarat sepanjang tidak dimaknai Program Pe menuhan Gizi \nNasional 256.468.863.304”. Setelah mencermati dengan saksama petitum tersebut, \nMahkamah menilai bahwa petitum angka 2 merupakan petitum yang t idak lazim. \nDalam hal ini, penulisan sekaligus norma pasal yang dimohonkan pengujian, \npenjelasan norma dan lampiran norma dalam satu rangkaian petitum untuk dimaknai \ndengan frasa yang sama, menimbulkan ketidakjelasan bagian mana yang hendak \n\n31 \ndimohonkan pemaknaannya. Terlebih, berkenaan dengan Penjelasan Pasal 22 ayat \n(3) UU 17/2025 telah dimaknai dalam Putusan Mahkamah Konstitusi  Nomor \n40/PUU-XXIV/2026, yang tidak digunakan oleh Pemohon sebagai das ar rujukan \ndalam membaca Penjelasan Pasal 22 ayat (3) UU 17/2025. Selain i tu, menurut \nMahkamah jika pemaknaan yang dimohonkan Pemohon dilekatkan pada  norma \npasal yang dimohonkan pengujian, penjelasan norma dan lampiran norma justru hal \ntersebut menimbulkan ketidakjelasan terhadap norma Pasal 22 ayat (3), Penjelasan \nPasal 22 ayat (3) yang telah dimaknai oleh Mahkamah dan Lampira n UU 17/2025. \nTerlebih lagi, perumusan pemaknaan yang dimohonkan Pemohon meng gunakan \nfrasa “Program Pemenuhan Gizi Nasional 256.468.863.304”, juga m enimbulkan \nketidakjelasan di antaranya apa sesungguhnya makna angka yang d isebutkan \nPemohon 256.468.863.304, yang tidak menyebutkan satuan mata uan g yang \ndigunakan pada penyebutan angka tersebut dan tidak adanya keter angan satuan \nribuan atas jumlah angka tersebut sehingga mengakibatkan jumlah anggaran dalam \nlampiran UU 17/2025 versi Pemohon menjadi lebih kecil dibanding kan dengan \njumlah anggaran dalam APBN. Di samping itu, penyebutan angka di maksud tidak \nmemiliki dasar alasan-alasan perm ohonan (posita) yang jelas dan  memadai yang \nmenunjukkan kesesuaian antara posita dengan petitum. Pemaknaan tersebut juga \nmenunjukkan adanya ketidaksesuaian dengan maksud Pemohon yang p ada \npokoknya ingin menambahkan/memperbesar jumlah anggaran pada Pro gram \nPemenuhan Gizi Nasional dengan menguji Lampiran UU 17/2025. \n Keempat , bahwa selain itu, pada bagian petitum angka 2 Pemohon juga \nmerumuskan “…bertentangan dengan Undang-Undang Dasar Negara Rep ublik \nIndonesia Tahun 1945 secara bersyarat sepanjang tidak dimaknai Program \nPemenuhan Gizi Nasional 256.468.863.304,” rumusan petitum demikian tidak jelas \ndan tidak sesuai dengan ketentuan Pasal 67 ayat (2) huruf b PMK  7/2025 yang \nmenyatakan, “materi muatan ayat, pasal, dan/atau bagian dari undang-undang atau \nPerppu bertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai kekuatan \nhukum mengikat sepanjang tidak dimaknai...”. Dengan tidak dicantumkan frasa “dan \ntidak mempunyai kekuatan hukum mengikat” menjadikan rumusan petitum tersebut \nmenjadi tidak jelas karena jika putusan Mahkamah menyatakan ter dapat \npertentangan materi muatan ayat, pasal, dan/atau bagian dari un dang-undang \ndengan UUD NRI Tahun 1945 maka materi muatan ayat, pasal, dan/a tau bagian \ndari undang-undang tersebut harus pula dinyatakan tidak mempuny ai kekuatan \n\n32 \nhukum mengikat sejak putusan Mahkamah diucapkan. Rumusan frasa \n“bertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai kekuatan hukum \nmengikat” merupakan satu kesatuan yang tidak dapat dipisahkan u ntuk \nmenegaskan putusan Mahkamah yang bersifat final dan mengikat. \n Kelima , bahwa pada bagian petitum angka 3 permohonan Pemohon \nmenyatakan “Mencatat putusan pada lembar negara”. Setelah mence rmati dengan \nsaksama petitum tersebut, Mahkamah menilai petitum angka 3 meru pakan petitum \nyang tidak lazim dan tidak sesuai dengan ketentuan PMK 7/2025. Pasal 67 ayat (2) \nhuruf c PMK 7/2025 menyatakan “Dalam hal Mahkamah berpendapat b ahwa \npermohonan pengujian materiil inko nstitusional bersyarat, amar putusan berbunyi:",
+      "start_line": 1164,
+      "end_line": 1275
+    },
+    {
+      "heading": "c. memerintahkan pemuatan Putusan dalam Berita Negara Republik Ind onesia”.",
+      "slug": "c-memerintahkan-pemuatan-putusan-dalam-berita-negara-republik-ind-onesia",
+      "text": "Demikian halnya dengan norma Pasal 57 ayat (3) UU MK juga menya takan bahwa \nPutusan Mahkamah Konstitusi yang mengabulkan permohonan wajib dimuat dalam \nBerita Negara dalam jangka waktu paling lambat 30 (tiga puluh) hari kerja sejak \nputusan diucapkan. Penggunaan rumusan frasa “lembar negara” pad a petitum \nangka 3 permohonan Pemohon menimbulkan ketidakjelasan terhadap tindak lanjut \nputusan Mahkamah yang mengabulkan permohonan. Dengan demikian, \nberdasarkan ketentuan di atas, rumusan petitum angka 3 yang men ggunakan \nrumusan frasa “lembar negara” adalah rumusan yang tidak tepat d an tidak lazim, \nseharusnya rumusan tersebut menggunakan frasa “memerintahkan pe muatan \nPutusan dalam Berita Negara Republik Indonesia”.  \nB e r d a s a r k a n  u r a i a n  f a k t a  h u k u m  t e r s e b u t  d i  a t a s ,  m e n u r u t  M a h k a mah \noleh karena posita Permohonan tidak menguraikan secara jelas da n memadai \nmengenai pertentangan antara norma yang dimohonkan pengujian \nkonstitusionalitasnya dengan UUD NRI Tahun 1945 yang menjadi dasar pengujian, \nrumusan posita dan petitum yang tidak berkesesuaian serta rumus an petitum \npermohonan yang tidak jelas dan tidak lazim, maka tidak terdapa t keraguan bagi \nMahkamah untuk menyatakan permohonan Pemohon adalah tidak jelas atau kabur \n(obscuur). \n[3.4]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, meskipun Mahkamah berwenang mengadili permoho nan \nPemohon, namun oleh karena permohonan Pemohon tidak jelas atau kabur \n\n33 \n(obscuur) maka Mahkamah tidak mempertimbangkan lebih lanjut permohonan \nPemohon. \n[3.5]  Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1277,
+      "end_line": 1303
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Mahkamah \nberkesimpulan:  \n[4.1]  Mahkamah berwenang mengadili permohonan a quo;  \n[4.2]  Permohonan Pemohon tidak jelas atau kabur ( obscuur);  \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1305,
+      "end_line": 1318
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,  \nM. Guntur Hamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai \nAnggota, pada hari Rabu, tanggal dua, bulan September, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Senin, tanggal tujuh, bulan September, tahun dua ribu dua \n\n34 \npuluh enam, selesai diucapkan pukul  10.02 WIB, oleh delapan Hakim Konstitusi \nyaitu Suhartoyo, selaku Ketua merangkap Anggota, Saldi Isra, En ny Nurbaningsih, \nRidwan Mansyur, Arsul Sani, Daniel Yusmic P. Foekh, Adies Kadir , dan Liliek \nPrisbawono Adi, masing-masing sebagai Anggota, dengan dibantu o leh Alifah \nRahmawati sebagai Panitera Pengganti, serta dihadiri oleh Dewan  Perwakilan \nRakyat atau yang mewakili, dan Presiden atau yang mewakili, tan pa dihadiri \nPemohon. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nEnny Nurbaningsih  \n ttd. \nRidwan Mansyur  \nttd. \nArsul Sani \n ttd. \nDaniel Yusmic P. Foekh  \nttd. \nAdies Kadir \n ttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nAlifah Rahmawati",
+      "start_line": 1320,
+      "end_line": 1359
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Herifuddin Daulay, S.T.",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 17 Tahun 2025 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2026"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C ayat (1)",
+      "Pasal 24 ayat (2)",
+      "Pasal 31 ayat (4)",
+      "Pasal 28G ayat (1)",
+      "Pasal 28H ayat (1)",
+      "Pasal 31 ayat (3)",
+      "Pasal 31 ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 30 hur"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-3",
+      "BUKTI P-2",
+      "BUKTI P- 4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-13",
+      "BUKTI P- 10",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "REFERENSI:301/PUU-XXIV/2026",
+      "REFERENSI:301/PUU/PAN.MK/AP3/08/2026",
+      "REFERENSI:2005/2006.Negeri2rentangtahunpelajaran2006/2007",
+      "REFERENSI:2007/2008hinggatahunpelajaran2014/2015diSMKNegeri4Dumaiefektiftahunpelajaran2015/2016hinggatahunpelajaran2019/2020.tahun2022/2023",
+      "REFERENSI:2018/2019awal.Tahunpelajaran2019/2020hinggatahun2021/2022pembelajarantatapmukakelasditiadakanataukemudiandilakukansecaraterbatasakibatwabahpenyakit.9Memasukitahunpelajaran2022/2023",
+      "REFERENSI:55/PUU-XXIV/2026",
+      "REFERENSI:52/PUU-XXIV/2026danNomor40/PUU-XXIV/2026",
+      "REFERENSI:52/PUU-XXIV/2026",
+      "REFERENSI:40/PUU-XXIV/2026",
+      "REFERENSI:17/2025telahdimaknaidalamPutusanMahkamahKonstitusiNomor40/PUU-XXIV/2026",
+      "REFERENSI:2007/2008hinggatahunpelajaran2014/2015",
+      "REFERENSI:2015/2016hinggatahunpelajaran2019/2020"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "Dalam sidang pendahuluan, Pemohon"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Alifah Rahmawati"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "301/PUU-XXIV/2026",
+      "301/PUU/PAN.MK/AP3/08/2026",
+      "2005/2006.Negeri2rentangtahunpelajaran2006/2007",
+      "2007/2008hinggatahunpelajaran2014/2015diSMKNegeri4Dumaiefektiftahunpelajaran2015/2016hinggatahunpelajaran2019/2020.tahun2022/2023",
+      "2018/2019awal.Tahunpelajaran2019/2020hinggatahun2021/2022pembelajarantatapmukakelasditiadakanataukemudiandilakukansecaraterbatasakibatwabahpenyakit.9Memasukitahunpelajaran2022/2023",
+      "55/PUU-XXIV/2026",
+      "52/PUU-XXIV/2026danNomor40/PUU-XXIV/2026",
+      "52/PUU-XXIV/2026",
+      "40/PUU-XXIV/2026",
+      "17/2025telahdimaknaidalamPutusanMahkamahKonstitusiNomor40/PUU-XXIV/2026",
+      "2007/2008hinggatahunpelajaran2014/2015",
+      "2015/2016hinggatahunpelajaran2019/2020"
+    ],
+    "referenced_cases": [
+      "301/PUU-XXIV/2026",
+      "301/PUU/PAN.MK/AP3/08/2026",
+      "2005/2006.Negeri2rentangtahunpelajaran2006/2007",
+      "2007/2008hinggatahunpelajaran2014/2015diSMKNegeri4Dumaiefektiftahunpelajaran2015/2016hinggatahunpelajaran2019/2020.tahun2022/2023",
+      "2018/2019awal.Tahunpelajaran2019/2020hinggatahun2021/2022pembelajarantatapmukakelasditiadakanataukemudiandilakukansecaraterbatasakibatwabahpenyakit.9Memasukitahunpelajaran2022/2023",
+      "55/PUU-XXIV/2026",
+      "52/PUU-XXIV/2026danNomor40/PUU-XXIV/2026",
+      "52/PUU-XXIV/2026",
+      "40/PUU-XXIV/2026",
+      "17/2025telahdimaknaidalamPutusanMahkamahKonstitusiNomor40/PUU-XXIV/2026",
+      "2007/2008hinggatahunpelajaran2014/2015",
+      "2015/2016hinggatahunpelajaran2019/2020"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

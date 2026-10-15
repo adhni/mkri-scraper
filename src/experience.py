@@ -1,6 +1,6 @@
 """Reader-facing presentation and search helpers; court positions are curated, never guessed."""
 from html import escape
-from urllib.parse import urlencode, urlsplit
+from urllib.parse import urlencode, urlsplit, quote
 import re
 
 
@@ -19,7 +19,7 @@ def browse_return(value):
 
 
 def case_href(case_id, back='/cases#results'):
-    return '/cases/' + case_id + '?' + urlencode({'return': browse_return(back)})
+    return '/cases/' + quote(case_id, safe='') + '?' + urlencode({'return': browse_return(back)})
 
 
 def pdf_source(payload):

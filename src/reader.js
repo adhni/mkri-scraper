@@ -1,5 +1,9 @@
 /* Progressive enhancement: links and forms remain usable without JavaScript. */
 (() => {
+  document.querySelectorAll('[data-open-ruling]').forEach(link => link.addEventListener('click', () => {
+    const ruling = document.getElementById('amar');
+    if (ruling) ruling.open = true;
+  }));
   const storageKey = 'mkri-browse-position';
   document.querySelectorAll('[data-case-link]').forEach(link => link.addEventListener('click', () => {
     try { sessionStorage.setItem(storageKey, JSON.stringify({url: location.pathname + location.search, y: scrollY})); } catch (_) {}

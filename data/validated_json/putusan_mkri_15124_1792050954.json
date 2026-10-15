@@ -1,0 +1,422 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_15124_1792050954.pdf",
+    "file_name": "putusan_mkri_15124_1792050954.pdf",
+    "page_count": 15,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15124_1792050954.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "346/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "012/SK/FH.MAR/IX/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-10-15",
+    "decision_date_raw": "lima belas, bulan Oktober, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 346/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,  \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:  \nNama : Rusiadi Waginopo, S.H.,  \nPekerjaan : Advokat/Pengacara \nAlamat : Pada Ue, Kelurahan Pada Raya Makmur, Kecamatan \nWangi Wangi, Kabupaten Wakatobi, Sulawesi \nTenggara; \nBerdasarkan surat kuasa khusus Nomor 012/SK/FH.MAR/IX/2026, ber tanggal 7 \nSeptember 2026, memberikan kuasa kepada Mursid Ar Rahman, S.H.,  C.LA., Al \nMusradin Adha, S.H., M.H., Dalili, S.H., M.H., Muh. Amran, S.H. , Mubarak \nAbdurrahman, S.H, dan Usman Gumanti, S.H., kesemuanya Advokat/P engacara \nyang berkantor pada Firma Hukum Mursid Ar Rahman & CO, beralama t di Jalan \nGipsy Puncak Samping Kantor Loka Monitor, Kelurahan Marikurubu,  Kecamatan \nKota Ternate, Kota Ternate, Provinsi Maluku Utara, bertindak baik secara bersama-\nsama maupun sendiri-sendiri untuk dan atas nama pemberi kuasa; \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 6,
+      "end_line": 27
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n16 September 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada tanggal \n16 September 2026 berdasarkan Akta Pengajuan Permohonan Pemohon  Nomor \n\n\n2 \n346/PUU/PAN.MK/AP3/09/2026 dan telah dicatat dalam Buku Registr asi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 346/PUU- XXIV/2026 \npada tanggal 17 September 2026, pada pokoknya menguraikan hal-h al sebagai \nberikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 29,
+      "end_line": 39
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 menyatakan: \n“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada di bawahnya dalam lingkungan \nperadilan umum, lingkungan peradilan agama, lingkungan peradila n \nmiliter, lingkungan peradilan tata usaha negara, dan oleh sebua h \nMahkamah Konstitusi.”",
+      "start_line": 41,
+      "end_line": 46
+    },
+    {
+      "heading": "2. Bahwa Pasal 24C ayat (1) Perubahan Keempat Undang-Undang Das ar",
+      "slug": "2-bahwa-pasal-24c-ayat-1-perubahan-keempat-undang-undang-das-ar",
+      "text": "Negara Republik Indonesia Tahun 1945   menyatakan: \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-\nUndang Dasar, memutus pembubaran partai politik dan memutus \nperselisihan tentang hasil Pemilihan Umum.\"",
+      "start_line": 48,
+      "end_line": 54
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-t-ahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana te lah \ndiubah terakhir dengan Undang-Undang Nomor 13 Tahun 2022  (Vide  Bukti \nP-4)  menegaskan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 56,
+      "end_line": 61
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 T ahun",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-t-ahun",
+      "text": "2009 (Vide Bukti P-5) tentang Kekuasaan Kehakiman menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk:  \na. menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; \nb. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945;",
+      "start_line": 63,
+      "end_line": 70
+    },
+    {
+      "heading": "d. memutus perselisihan tentang hasil pemilihan umum; dan",
+      "slug": "d-memutus-perselisihan-tentang-hasil-pemilihan-umum-dan",
+      "text": "e. kewenangan lain yang diberikan oleh undang-undang.” \n\n3",
+      "start_line": 73,
+      "end_line": 75
+    },
+    {
+      "heading": "5. Bahwa Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003",
+      "slug": "5-bahwa-pasal-10-ayat-1-huruf-a-undang-undang-nomor-24-tahun-2003",
+      "text": "tentang Mahkamah Konstitusi sebagaimana telah diubah terakhir d engan \nUndang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi ( Vide \nBukti P-6) menyatakan: \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama \ndan terakhir yang putusannya bersifat final untuk:  \na. menguji undang-undang terhadap Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945.\"",
+      "start_line": 77,
+      "end_line": 84
+    },
+    {
+      "heading": "6. Bahwa Pemohon dalam permohonan a quo mengajukan pengujian materiil",
+      "slug": "6-bahwa-pemohon-dalam-permohonan-a-quo-mengajukan-pengujian-materiil",
+      "text": "norma Pasal 12 huruf d dan huruf e Undang-Undang Nomor 46 Tahun  2009 \ntentang Pengadilan Tindak Pidana Korupsi yang berbunyi: \n“Untuk dapat diangkat menjadi Hakim Ad Hoc sebagaimana \ndimaksud dalam Pasal 5, harus memenuhi syarat-syarat sebagai \nberikut:",
+      "start_line": 86,
+      "end_line": 90
+    },
+    {
+      "heading": "d. berpengalaman di bidang hukum sekurang-kurangnya 15 (lima",
+      "slug": "d-berpengalaman-di-bidang-hukum-sekurang-kurangnya-15-lima",
+      "text": "belas) tahun; \ne. berumur paling rendah 40 (empat puluh) tahun;” \nTerhadap norma penguji Pasal 27 ayat (2), Pasal 28D ayat (1), P asal 28D \nayat (3), dan Pasal 28I ayat (2) UUD NRI 1945.",
+      "start_line": 92,
+      "end_line": 95
+    },
+    {
+      "heading": "7. Bahwa objek yang dimohonkan pengujian materiil oleh Pemohon adalah",
+      "slug": "7-bahwa-objek-yang-dimohonkan-pengujian-materiil-oleh-pemohon-adalah",
+      "text": "norma undang-undang yang hierarkinya berada secara langsung di bawah \nUUD NRI 1945. Oleh karena itu, Mahkamah Konstitusi berwenang pe nuh \nuntuk menguji dan mengadili permohonan a quo. \nII. KEDUDUKAN HUKUM (LEGAL STANDING) PEMOHON",
+      "start_line": 97,
+      "end_line": 100
+    },
+    {
+      "heading": "1. Bahwa berdasarkan Pasal 51 ayat (1) UU Mahkamah Konstitusi j o. Putusan",
+      "slug": "1-bahwa-berdasarkan-pasal-51-ayat-1-uu-mahkamah-konstitusi-j-o-putusan",
+      "text": "Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan Nomor 11/PUU-V/2 007, \nperorangan Warga Negara Indonesia memiliki kedudukan hukum ( legal \nstanding) untuk mengajukan permohonan pengujian undang-undang apabila \nmemenuhi 5 (lima) syarat akumulatif kerugian konstitusional: \na. Adanya hak konstitusional Pemohon yang diberikan oleh UUD 19 45. \nb. Hak konstitusional tersebut dianggap oleh Pemohon telah diru gikan oleh \nberlakunya UU yang diuji.",
+      "start_line": 102,
+      "end_line": 108
+    },
+    {
+      "heading": "c. Kerugian konstitusional tersebut bersifat spesifik (khusus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-bersifat-spesifik-khusus-dan-aktual-atau",
+      "text": "setidak-tidaknya bersifat potensial yang menurut penalaran yang  w a j a r  \ndapat dipastikan akan terjadi (potential and imminent injury). \n\n4",
+      "start_line": 110,
+      "end_line": 113
+    },
+    {
+      "heading": "d. Adanya hubungan sebab-akibat ( causal verband ) antara kerugian dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian-dan",
+      "text": "berlakunya UU yang diuji. \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional yang didalilkan tidak lagi atau tidak akan terjadi.",
+      "start_line": 115,
+      "end_line": 117
+    },
+    {
+      "heading": "2. Bahwa Pemohon adalah perorangan Warga Negara Indonesia berna ma",
+      "slug": "2-bahwa-pemohon-adalah-perorangan-warga-negara-indonesia-berna-ma",
+      "text": "Rusiadi Waginopo, S.H., berusia 37 (tiga puluh tujuh) tahun, da n berprofesi \nsecara sah sebagai Advokat/Penegak Hukum yang telah disumpah se jak \ntahun 2023 dan  aktif berpraktik di bidang hukum saat ini (Vide Bukti P-7) dan \n(Vide Bukti P-8).",
+      "start_line": 119,
+      "end_line": 122
+    },
+    {
+      "heading": "3. Bahwa sebagai warga negara dan profesional di bidang hukum, Pemohon",
+      "slug": "3-bahwa-sebagai-warga-negara-dan-profesional-di-bidang-hukum-pemohon",
+      "text": "memiliki hak-hak konstitusional yang dijamin tegas dalam UUD 1945, antara \nlain: \na. Pasal 27 ayat (2): Hak atas pekerjaan dan penghidupan yang l ayak bagi \nkemanusiaan. \nb. Pasal 28D ayat (1): Hak atas pengakuan, jaminan, perlindunga n, dan \nkepastian hukum yang adil serta perlakuan yang sama di hadapan hukum.",
+      "start_line": 124,
+      "end_line": 129
+    },
+    {
+      "heading": "c. Pasal 28D ayat (3): Hak untuk memperoleh kesempatan yang sam a",
+      "slug": "c-pasal-28d-ayat-3-hak-untuk-memperoleh-kesempatan-yang-sam-a",
+      "text": "dalam pemerintahan (termasuk jabatan badan peradilan/hakim).",
+      "start_line": 131,
+      "end_line": 131
+    },
+    {
+      "heading": "d. Pasal 28I ayat (2): Hak untuk bebas dari perlakuan yang bers ifat",
+      "slug": "d-pasal-28i-ayat-2-hak-untuk-bebas-dari-perlakuan-yang-bers-ifat",
+      "text": "diskriminatif atas dasar apa pun.",
+      "start_line": 133,
+      "end_line": 133
+    },
+    {
+      "heading": "4. Uraian Detail Kerugian Konstitusional Pemohon (Kerugian Aktual dan",
+      "slug": "4-uraian-detail-kerugian-konstitusional-pemohon-kerugian-aktual-dan",
+      "text": "Potensial yang Makul) \na. Kerugian Potensial yang Pasti Terjadi ( Imminent Injury ): Bahwa \nPemohon saat ini telah memenuhi kualifikasi material untuk mend uduki \njabatan publik sebagai Hakim Ad Hoc Tipikor, yaitu berpendidikan Sarjana \nHukum dan memiliki rekam jejak praktik penegakan hukum secara a ktif \nsejak disumpah sebagai Advokat pada Desember 2023. Namun, akiba t \nberlakunya norma Pasal 12 huruf d (syarat pengalaman minimal 15 tahun) \ndan Pasal 12 huruf e (syarat usia minimal 40 tahun) UU No. 46 T ahun \n2009, Pemohon secara otomatis terhalang dan langsung dipastikan gugur \npada tahap seleksi administratif formal tanpa pernah diberi kes empatan \nuntuk dinilai kapasitas, integritas, dan kompetensi hukumnya se cara \nmaterial (fit and proper test). \n\n5 \nb. Kerugian Akibat Pembatasan Usia yang Tidak Proporsional dan \nDiskriminatif: Pemohon dipaksa secara tidak rasional untuk menunda \nhak konstitusionalnya selama 3 (tiga) tahun ke depan hanya untu k \nmemenuhi formalitas usia 40 tahun. Padahal, pada usia 37 tahun saat ini, \nPemohon berada dalam puncak masa produktif dan memiliki pemahaman \nhukum yang adaptif terhadap modus kejahatan korupsi modern ( cyber-\nenabled corruption  dan tindak pidana pencucian uang kompleks). \nPembatasan ini menciptakan perlakuan diskriminatif yang merugik an \nPemohon jika dibandingkan dengan syarat usia pada lembaga \nperadilan/penegak hukum lainnya.",
+      "start_line": 135,
+      "end_line": 158
+    },
+    {
+      "heading": "c. Kerugian Faktual pada Pembukaan Seleksi ( Actual Obstacle ):",
+      "slug": "c-kerugian-faktual-pada-pembukaan-seleksi-actual-obstacle",
+      "text": "Kerugian Pemohon bersifat nyata dan tidak dibuat-buat. Pada saa t \nditerbitkannya Pengumuman Seleksi Calon Hakim Ad Hoc Pengadilan  \nTindak Pidana Korupsi (Vide Bukti P-9)   Pemohon berniat dan siap secara \nlahir batin untuk mendaftarkan diri. Namun, hak Pemohon terhent i \nseketika karena sistem pendaftaran menolak berkas pendaftaran \nPemohon semata-mata karena batasan usia dan durasi pengalaman kerja \nyang dipersyaratkan oleh pasal a quo.",
+      "start_line": 160,
+      "end_line": 166
+    },
+    {
+      "heading": "5. Bahwa terdapat hubungan sebab-akibat yang langsung dan tidak terputus",
+      "slug": "5-bahwa-terdapat-hubungan-sebab-akibat-yang-langsung-dan-tidak-terputus",
+      "text": "(direct causal chain) antara berlakunya Pasal 12 huruf d dan huruf e UU No. \n46 Tahun 2009 dengan kerugian konstitusional Pemohon. Terhalang nya \nPemohon untuk mendaftar dan mengabdi sebagai Hakim Ad Hoc Tipik or \nbukan disebabkan oleh ketidak mampuan, kegagalan tes, atau caca t moral \nPemohon, melainkan semata-mata disebabkan oleh adanya norma und ang-\nundang yang menutup pintu akses pendaftaran bagi Pemohon sejak tahap \nadministratif awal.",
+      "start_line": 168,
+      "end_line": 174
+    },
+    {
+      "heading": "6. Bahwa apabila Mahkamah Konstitusi mengabulkan Permohonan Pem ohon",
+      "slug": "6-bahwa-apabila-mahkamah-konstitusi-mengabulkan-permohonan-pem-ohon",
+      "text": "dengan menyatakan: \na. Pasal 12 huruf d bertentangan dengan UUD 1945 secara bersyar at \nsepanjang tidak dimaknai \"berumur paling rendah 35 (tiga puluh lima) \ntahun\", dan \nb. Pasal 12 huruf e bertentangan dengan UUD NRI 1945 dan tidak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang ti dak \n\n6 \ndimaknai \"berpengalaman di bidang hukum sekurang-kurangnya 2 (d ua) \ntahun\". \nMaka kerugian konstitusional yang dialami Pemohon seketika terh enti dan \ndipulihkan. Pemohon akan memiliki legalitas hukum dan kesempata n yang \nadil untuk mendaftarkan diri serta mengikuti seluruh rangkaian seleksi Calon \nHakim Ad Hoc Tipikor. \nBerdasarkan seluruh uraian di atas, Pemohon terbukti memiliki K edudukan \nHukum ( Legal Standing ) yang sah untuk mengajukan Permohonan \nPengujian Undang-Undang a quo ke Mahkamah Konstitusi. \nIII. ALASAN-ALASAN PERMOHONAN (POSITA)",
+      "start_line": 176,
+      "end_line": 193
+    },
+    {
+      "heading": "1. Pertentangan Norma a quo dengan Hak atas Pekerjaan, Kesempatan",
+      "slug": "1-pertentangan-norma-a-quo-dengan-hak-atas-pekerjaan-kesempatan",
+      "text": "dalam Pemerintahan, Kepastian Hukum yang Adil, dan Larangan \nDiskriminasi (Pasal 27 Ayat (2), Pasal 28D Ayat (1), Pasal 28D Ayat (3), \ndan Pasal 28I Ayat (2) UUD NRI 1945) \na. Bahwa berdasarkan Undang-Undang Nomor 49 Tahun 2009 tentang \nPeradilan Umum, syarat usia calon Hakim Karier ditetapkan sekur ang-\nkurangnya 25 (dua puluh lima) tahun (Vide Bukti P-10). Hakim Ka rier \nberusia muda tersebut diberikan wewenang konstitusional untuk \nmemeriksa, mengadili, dan memutus perkara tindak pidana korupsi dalam \nMajelis Gabungan pada Pengadilan Tipikor. \nMerupakan bentuk perlakuan yang tidak adil dan menimbulkan \nketimpangan hukum ( disparity of treatment) apabila seorang profesional \nhukum yang telah berusia 37 (tiga puluh tujuh) tahun dinilai secara apriori \ntidak memiliki kematangan kompeten si hanya untuk mengikuti taha p \nseleksi administrasi awal Hakim Ad Hoc Tipikor. \nb. Bahwa penetapan syarat usia minimum 40 tahun dan pengalaman 15 \ntahun merupakan bentuk pembatasan yang tidak proporsional dan \nsewenang-wenang (arbitrary and unreasonable restriction). Usia biologis \ntidak berbanding lurus secara linier dengan integritas maupun \npemahaman hukum. Pembatasan kaku di tingkat administrasi formal  ini \nmenutup akses warga negara pada usia produktif untuk mendedikas ikan \ndiri pada jabatan publik (public office) , padahal kualifikasi kompetensi \nmaterial seharusnya dinilai secara komprehensif melalui tahapan evaluasi \nobjektif (fit and proper test) oleh Panitia Seleksi. \n\n7 \nOleh karena itu, keberadaan syarat pengalaman kerja sekurang-\nkurangnya 15 (lima belas) tahun dalam Pasal 12 huruf d UU No. 46 Tahun \n2009 merupakan bentuk hambatan administratif yang diskriminatif  d a n  \nsepantasnya dinyatakan bertentanga n dengan UUD NRI 1945 secara \nbersyarat sepanjang tidak dimaknai \"berpengalaman di bidang huk um \nsekurang-kurangnya 2 (dua) tahun”.",
+      "start_line": 195,
+      "end_line": 225
+    },
+    {
+      "heading": "2. Penyelarasan dengan Yurisprudensi Mahkamah Konstitusi Mengen ai",
+      "slug": "2-penyelarasan-dengan-yurisprudensi-mahkamah-konstitusi-mengen-ai",
+      "text": "Syarat Usia Jabatan Publik \na. Bahwa Mahkamah Konstitusi  dalam putusan Nomor 112/PUU-XX/20 22 \nmenegaskan bahwa norma syarat usia tidak boleh bersifat intolerable \nrestriction (Vide Bukti P-11)   yang menutup akses warga negara pada \nusia produktif untuk menduduki jabatan publik (public office). \nb. Bahwa selain dari pada itu Mahkamah Konstitusi  juga melalui  \nPertimbangan Putusan Nomor 90/PUU-XXI/2023 mempertimbangkan \nbahwa pembentuk undang-undang tidak boleh membatasi pemuda yang \nmemiliki pengalaman profesional ( experienced background ) untuk \nmendapatkan kesempatan yang sama dalam pemerintahan (Vide Bukti  \nP-12 )   Penyelarasan norma syarat usia menjadi 35 (tiga puluh lima) \ntahun sejalan dengan norma perbandingan Hakim Ad Hoc HAM dan arah \npenegakan hukum konstitusi Mahkamah.",
+      "start_line": 227,
+      "end_line": 239
+    },
+    {
+      "heading": "3. Penerobosan Doktrin Open Legal Policy Berdasarkan Yurisprudensi MK",
+      "slug": "3-penerobosan-doktrin-open-legal-policy-berdasarkan-yurisprudensi-mk",
+      "text": "dan Pembuktian Empiris  \nBahwa meskipun penetapan syarat usia dan pengalaman kerja secar a \ndoktrinal merupakan kebijakan hukum terbuka (open legal policy), Mahkamah \nKonstitusi dalam konsistensi pendiriannya (vide Putusan MK No. 1-2/PUU-\nXII/2014, No. 112/PUU-XX/2022, dan No. 90/PUU-XXI/ 2023) berwen ang \npenuh menerobos doktrin tersebut apabila norma a quo: \na. Mengabaikan prinsip kesetaraan dan larangan diskriminasi ( equal \ntreatment under the law); \nb. Menjadi bentuk pembatasan yang tidak proporsional ( intolerable \nrestriction) bagi usia produktif; serta",
+      "start_line": 241,
+      "end_line": 250
+    },
+    {
+      "heading": "c. Memicu kebuntuan dan kelumpuhan kelembagaan ( institutional",
+      "slug": "c-memicu-kebuntuan-dan-kelumpuhan-kelembagaan-institutional",
+      "text": "deadlock). Fakta empiris menunjukkan bahwa persyaratan usia paling \nrendah 40 tahun dan pengalaman kerja sekurang-kurangnya 15 tahu n \n\n8 \nsecara signifikan membatasi jumlah pendaftar calon Hakim Ad Hoc Tipikor \nyang memenuhi kualifikasi formal. Hal ini berpotensi mendisfung sikan \npenyelenggaraan peradilan pidana korupsi akibat minimnya ketersediaan \nsumber daya manusia. Oleh karena itu, penerobosan norma ini merupakan \nlangkah penyelamatan konstitusional (constitutional rescue).",
+      "start_line": 252,
+      "end_line": 260
+    },
+    {
+      "heading": "4. Disparitas Sistemik Antar-Hakim Ad Hoc dalam Lingkungan Pera dilan",
+      "slug": "4-disparitas-sistemik-antar-hakim-ad-hoc-dalam-lingkungan-pera-dilan",
+      "text": "yang Sama \na. Bahwa dalam lingkungan peradilan umum di bawah Mahkamah Agun g, \npenetapan syarat usia minimum Hakim Ad Hoc menunjukkan \nketidakselarasan dan inkonsistensi rasionalitas hukum: \n Pasal 67 huruf c UU No. 2 Tahun 2004 tentang Penyelesaian \nPerselisihan Hubungan Industrial menetapkan syarat usia Hakim A d \nHoc PHI sekurang-kurangnya 30 (tiga puluh) tahun (Vide Bukti P-13). \n Pasal 11 ayat (1) huruf c UU No. 26 Tahun 2000 tentang Pengadi lan \nHak Asasi Manusia menetapkan syarat usia Hakim Ad Hoc HAM \nsekurang-kurangnya 35 (tiga puluh lima) tahun (Vide Bukti P-14). \nb. Bahwa perbedaan penetapan usia minimum Hakim Ad Hoc Tipikor (40 \ntahun) dibandingkan dengan Hakim Ad Hoc HAM (35 tahun) dan PHI (30 \ntahun) dalam lingkungan peradilan yang sama di bawah Mahkamah \nAgung menciptakan disparitas sistemik tanpa basis rasionalitas hukum \nyang jelas (arbitrary classification). Hal ini melanggar jaminan perlakuan \nyang sama di hadapan hukum (equal treatment under the law)  d a n  \nlarangan diskriminasi sebagaimana dijamin dalam Pasal 28D ayat (1) dan \nPasal 28I ayat (2) UUD NRI 1945.",
+      "start_line": 262,
+      "end_line": 279
+    },
+    {
+      "heading": "5. Landasan Komparatif Internasional dan Pergeseran Transisi Pr ofesi",
+      "slug": "5-landasan-komparatif-internasional-dan-pergeseran-transisi-pr-ofesi",
+      "text": "Hukum Modern \na. Bahwa merujuk pada standar Bangalore Principles of Judicial Conduct, \nprinsip kualifikasi hakim bersandar pada 'Competence and Dilige nce'. \n(Vide Bukti P-15)   Kualifikasi integritas dan kecakapan teknis ( technical \ncompetence) dalam memutus perkara pidana khusus harus dinilai melalui \ninstrumen evaluasi material yang terukur ( fit and proper test ), bukan \npembatasan administrasi usia yang bersifat apriori dan eksklusioner. \nb. Bahwa di era digitalisasi keuangan ( financial technology, cryptocurrency, \ndan cyber-enabled corruption), profesional hukum muda berumur 37 (tiga \n\n9 \npuluh tujuh) tahun memiliki kapabilitas teknis (digital literacy) yang sangat \ndibutuhkan untuk membongkar modus operandi tindak pidana korups i \nmodern. Syarat usia 40 tahun dan pengalaman 15 tahun justru \nmendisfungsikan pengadilan dari pasokan sumber daya manusia yan g \nadaptif terhadap kejahatan modern. \nDengan demikian, penilaian kualifikasi dan rekam jejak calon Ha kim Ad \nHoc Tipikor seharusnya diserahkan sepenuhnya pada mekanisme \npengujian material (fit and proper test) yang objektif oleh Panitia Seleksi, \nsehingga syarat pengalaman formal 15 tahun dalam Pasal 12 huruf d UU \nNo. 46 Tahun 2009 harus dinyatakan bertentangan dengan UUD NRI \n1945 secara bersyarat sepanjang tidak dimaknai \"berpengalaman d i \nbidang hukum sekurang-kurangnya 2 (dua) tahun\". \nIV. PETITUM \nBerdasarkan seluruh alasan hukum dan pembuktian yang disampaika n, \nPemohon memohon kepada Majelis Hakim Mahkamah Konstitusi Republ ik \nIndonesia untuk berkenan memeriksa, mengadili, dan memberikan p utusan \ndengan amar sebagai berikut:",
+      "start_line": 281,
+      "end_line": 308
+    },
+    {
+      "heading": "2. Menyatakan Pasal 12 huruf d Undang-Undang Nomor 46 Tahun 200 9",
+      "slug": "2-menyatakan-pasal-12-huruf-d-undang-undang-nomor-46-tahun-200-9",
+      "text": "tentang Pengadilan Tindak Pidana Korupsi (Lembaran Negara Repub lik \nIndonesia Tahun 2009 Nomor 155, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5074) bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuat an \nhukum mengikat secara bersyarat ( conditionally unconstitutional ), \nsepanjang tidak dimaknai: “berpengalaman di bidang hukum sekura ng-\nkurangnya 2 (dua) tahun”;",
+      "start_line": 311,
+      "end_line": 317
+    },
+    {
+      "heading": "3. Menyatakan Pasal 12 huruf e Undang-Undang Nomor 46 Tahun 200 9",
+      "slug": "3-menyatakan-pasal-12-huruf-e-undang-undang-nomor-46-tahun-200-9",
+      "text": "tentang Pengadilan Tindak Pidana Korupsi (Lembaran Negara Repub lik \nIndonesia Tahun 2009 Nomor 155, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5074) bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuat an \nhukum mengikat secara bersyarat ( conditionally unconstitutional ), \nsepanjang tidak dimaknai: “berumur paling rendah 35 (tiga puluh  l i m a )  \ntahun”; \n\n10",
+      "start_line": 319,
+      "end_line": 327
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nAtau, apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain, mohon putusan \nyang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membukti kan dalil-dalilnya, Pemohon tela h \nmengajukan alat bukti yang diberi tanda Bukti P-2 dan Bukti P-3 yang tidak disahkan \ndalam persidangan, sebagai berikut:",
+      "start_line": 329,
+      "end_line": 334
+    },
+    {
+      "heading": "1. Bukti P-2 : Fotokopi Undang-Undang Nomor 46 Tahun 2009 tent ang",
+      "slug": "1-bukti-p-2-fotokopi-undang-undang-nomor-46-tahun-2009-tent-ang",
+      "text": "Pengadilan Tindak Pidana Korupsi;",
+      "start_line": 336,
+      "end_line": 336
+    },
+    {
+      "heading": "2. Bukti P-3 : Fotokopi Undang-Undang Dasar Negara Republik",
+      "slug": "2-bukti-p-3-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 338,
+      "end_line": 341
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945. \n\n11 \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 12 huruf d dan huruf e \nUndang-Undang Nomor 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi \n(Lembaran Negara Republik Indonesia Tahun 2009 Nomor 155, Tamba han \nLembaran Negara Republik Indonesia Nomor 5074, selanjutnya disebut dengan UU \n46/2009) terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang me ngadili \npermohonan a quo. \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan Pemohon a quo , namun sebelum mempertimbangkan lebih lanjut, \nMahkamah mempertimbangkan hal-hal sebagai berikut. \n[3.3.1] Bahwa Pemohon mengajukan permohonan bertanggal 16 September \n2026 melalui daring (online), diterima Mahkamah pada tanggal 16 September 2026 \nsesuai Akta Pengajuan Permohonan Pemohon Nomor 346/PUU/PAN.MK/ \nAP3/09/2026 bertanggal 16 September 2026. Berdasarkan Daftar Ke lengkapan \nPengajuan Permohonan Pemohon (DKP3), Pemohon mengajukan softcopy \npermohonan dalam bentuk .pdf dan dalam bentuk .doc/.docx, diser tai surat kuasa, \ndaftar alat bukti serta alat bukti untuk mendukung permohonan dalam format .pdf. \n[3.3.2] Bahwa perihal permohonan a quo, Mahkamah telah menyelenggarakan \nsidang pemeriksaan pendahuluan pada tanggal 28 September 2026 dengan agenda \nmendengarkan pokok-pokok permohonan Pemohon, memeriksa kelengka pan dan \nkejelasan materi permohonan. Berdasarkan ketentuan Pasal 39 UU MK dan Pasal \n36 ayat (3) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 te ntang Tata \nBeracara Dalam Perkara Pengujian Undang-Undang (PMK 7/2025), Ma hkamah \ntelah memberikan nasihat yang pada pokoknya agar Pemohon memper baiki dan \nmelengkapi permohonan dengan memperjelas kewenangan Mahkamah, kedudukan \nhukum Pemohon (legal standing), alasan-alasan permohonan (posita), dan hal-hal \nyang dimohonkan untuk diputus (petitum) agar sesuai dengan sist ematika \npermohonan dalam PMK 7/2025. Selanjutnya, berkenaan dengan nasihat tersebut, \nMahkamah memberikan kesempatan kepada Pemohon untuk memperbaiki  d a n  \nmengajukan perbaikan permohonan termasuk melengkapi alat bukti yang telah \ndibubuhi meterai atau di-nazegel paling lambat 14 (empat belas) hari terhitung sejak \ntanggal 28 September 2026, yaitu paling lambat diterima Mahkama h pada tanggal \n\n12 \n12 Oktober 2026, pukul 12.00 WIB [vide Risalah Sidang, tanggal 28 September \n2026, hlm. 18]. \n[3.3.3] Bahwa ihwal tenggat waktu pengajuan perbaikan permohonan dimak sud, \nhingga batas waktu penyerahan perbaikan permohonan yaitu tangga l 12 Oktober \n2026, pukul 12.00 WIB, Pemohon tidak menyerahkan perbaikan perm ohonan, \nmaupun alat bukti fisik, termasuk bentuk fisik dari Bukti P-2 dan Bukti P-3 yang telah \ndiserahkan sebelumnya dalam format .pdf. Sementara itu, pada pe rsidangan \ntanggal 12 Oktober 2026 dengan agenda mendengarkan pokok-pokok perbaikan \npermohonan dan pengesahan alat bukti, Pemohon maupun kuasanya t idak hadir \npada persidangan tanpa menyampaikan alasan, setelah dipanggil secara patut dan \nsah oleh Mahkamah, sehingga perihal penyerahan perbaikan permohonan dan alat \nbukti fisik tidak dapat diklarifikasi. \n[3.4] Menimbang bahwa berdasarkan uraian fakta hukum pada Sub-paragr af \n[3.3.1] sampai dengan Sub-paragraf [3.3.3] tersebut di atas, dalam mengajukan \npermohonan pengujian undang-undang, salah satu syarat formil berkenaan dengan \npermohonan pengujian undang-undang, ketentuan Pasal 10 ayat (4)  PMK 7/2025 \nmenyatakan, “Pengajuan permohonan sebagaimana dimaksud pada aya t (1) \ndisertai dengan alat bukti dan daftar alat bukti yang mendukung  permohonan”. \nSelanjutnya, ketentuan Pasal 12 ayat (3) PMK 7/2025 menyatakan,  “Pengajuan \nPermohonan secara daring ( online) sebagaimana dimaksud pada ayat (2) disertai \ndengan penyampaian berkas alat bukti kepada Mahkamah sebanyak 1  ( s a t u )  \neksemplar yang telah dibubuhi meterai sebagaimana yang ditentuk an dalam \nperaturan perundang-undangan”. Berdasarkan ketentuan tersebut, alat bukti yang \ndiajukan dalam permohonan pengujian undang-undang harus memenuh i syarat \nsebagaimana ditentukan dalam PMK 7/2025 dan disampaikan dalam b atas waktu \nyang telah ditentukan. Dalam konteks permohonan a quo, meskipun Pemohon telah \nmenyerahkan hasil pindai (scan) alat bukti yang telah dibubuhi meterai atau nazegel \nyang diberi tanda Bukti P-2 dan Bukti P-3, namun terhadap hasil  pindai tersebut, \nPemohon tidak menyerahkan bukti fisiknya hingga batas waktu pen yerahan daftar \nalat bukti dan alat bukti yang telah ditentukan, yaitu bersamaan dengan batas waktu \nditerimanya perbaikan permohonan, yakni paling lambat pada tang gal 12 Oktober \n2026, pukul 12.00 WIB. Karena tidak adanya penyerahan bentuk fi sik dari bukti \ntersebut, Mahkamah tidak mengesahkan alat bukti Pemohon dalam p ersidangan \n\n13 \npada tanggal 12 Oktober 2026. Dengan demikian, permohonan Pemoh on tidak \ndisertai alat bukti yang sah, meskipun Pemohon telah dinasihati  untuk melengkapi \nalat bukti sesuai dengan ketentuan Pasal 10 ayat (4) dan Pasal 12 ayat (3) PMK \n7/2025 dan batas waktu yang ditentukan, sehingga tidak terdapat  keraguan bagi \nMahkamah untuk menyatakan permohonan Pemohon tidak memenuhi syarat formil \npengajuan permohonan pengujian undang-undang.  \n[3.5] Menimbang bahwa berdasarkan seluruh pertimbangan hukum di atas , \nmeskipun Mahkamah berwenang mengadili permohonan a quo, namun oleh karena \npermohonan Pemohon tidak memenuhi syarat formil pengajuan permo honan \npengujian undang-undang maka Mahkamah tidak mempertimbangkan le bih lanjut \npermohonan Pemohon. \n[3.6] Menimbang bahwa terhadap hal-hal selain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 343,
+      "end_line": 440
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 442,
+      "end_line": 442
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Permohonan Pemohon tidak memenuhi syarat formil pengajuan \npermohonan; \n[4.3]  Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076); \n\n14",
+      "start_line": 444,
+      "end_line": 458
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,             \nM. Guntur Hamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai \nAnggota, pada hari Senin, tanggal dua belas, bulan Oktober, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Kamis, tanggal lima belas, bulan Oktober, tahun dua ribu \ndua puluh enam, selesai diucapkan pukul  14.11 WIB , oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Sald i Isra, Enny \nNurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P. Foek h, M. Guntur \nHamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, \ndengan dibantu oleh Ery Satria Pamungkas sebagai Panitera Pengg anti, serta \ndihadiri oleh Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden atau yang \nmewakili, tanpa dihadiri Pemohon dan/atau kuasanya. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nEnny Nurbaningsih  \nttd. \nRidwan Mansyur  \nttd. \nArsul Sani \nttd. \nDaniel Yusmic P. Foekh  \n ttd. \nM. Guntur Hamzah  \n\n15 \nttd. \nAdies Kadir \n ttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nEry Satria Pamungkas",
+      "start_line": 460,
+      "end_line": 501
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Rusiadi Waginopo, S.H.,",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Mursid Ar Rahman, S.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "C.LA",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi"
+    ],
+    "constitutional_articles": [
+      "Pasal 28I ayat (2)",
+      "Pasal 12 hur",
+      "Pasal 28I Ayat (2)",
+      "Pasal 10 ayat (1) hur"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "BUKTI P-13",
+      "BUKTI P-14",
+      "BUKTI P-15",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "REFERENSI:346/PUU-XXIV/2026",
+      "REFERENSI:012/SK/FH.MAR/IX/2026",
+      "REFERENSI:346/PUU/PAN.MK/AP3/09/2026",
+      "REFERENSI:006/PUU-III/2005",
+      "REFERENSI:90/PUU-XXI/2023",
+      "REFERENSI:2/PUU-XII/2014",
+      "REFERENSI:112/PUU-XX/2022"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "dalam persidangan, sebagai berikut:"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Ery Satria Pamungkas"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "346/PUU-XXIV/2026",
+      "012/SK/FH.MAR/IX/2026",
+      "346/PUU/PAN.MK/AP3/09/2026",
+      "006/PUU-III/2005",
+      "90/PUU-XXI/2023",
+      "2/PUU-XII/2014",
+      "112/PUU-XX/2022"
+    ],
+    "referenced_cases": [
+      "346/PUU-XXIV/2026",
+      "012/SK/FH.MAR/IX/2026",
+      "346/PUU/PAN.MK/AP3/09/2026",
+      "006/PUU-III/2005",
+      "90/PUU-XXI/2023",
+      "2/PUU-XII/2014",
+      "112/PUU-XX/2022"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

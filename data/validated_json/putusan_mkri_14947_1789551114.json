@@ -1,0 +1,911 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14947_1789551114.pdf",
+    "file_name": "putusan_mkri_14947_1789551114.pdf",
+    "page_count": 39,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14947_1789551114.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "292/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "292/PUU/PAN.MK/AP3/07/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-16",
+    "decision_date_raw": "enam belas, bulan September , tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "PUTUSAN \nNOMOR 292/PUU-XXIV/2026",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat  \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pid ana \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 19 45, yang \ndiajukan oleh: \n N a m a  : Yusuf Shamawarmansyah \n Pekerjaan : Pelajar/Mahasiswa \n Alamat : Jalan Sapta Taruna Km. 10, Kota Sorong, Papua Barat \nDaya \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 4,
+      "end_line": 17
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n30 Juli 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada tanggal 30 Juli \n2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor \n292/PUU/PAN.MK/AP3/07/2026 dan dicatat dalam Buku Registrasi Pe rkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 292/PUU- XXIV/2026 \npada tanggal 31 Juli 2026, yang telah diperbaiki dan diterima M ahkamah pada \ntanggal 20 Agustus 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 19,
+      "end_line": 26
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 24 ayat (2) UUD 1945 menyatakan bahwa:",
+      "slug": "1-bahwa-ketentuan-pasal-24-ayat-2-uud-1945-menyatakan-bahwa",
+      "text": "2\n“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang di bawahnya dalam lingkungan peradilan umu m, \nlingkungan peradilan agama, lingkungan peradilan militer, lingk ungan \nperadilan tata usaha negara dan oleh sebuah Mahkamah Konstitusi.”",
+      "start_line": 28,
+      "end_line": 34
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Mahkamah Konstitusi memiliki kewenangan me nguji",
+      "slug": "2-bahwa-selanjutnya-mahkamah-konstitusi-memiliki-kewenangan-me-nguji",
+      "text": "undang-undang terhadap Undang-Undang Dasar sebagaimana dalam \nketentuan Pasal 24C ayat (1) UUD 1945 yang menyatakan bahwa: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-Undang \nDasar, memutus pembubaran partai politik, dan memutus perselisi han \ntentang hasil pemilihan umum.",
+      "start_line": 36,
+      "end_line": 43
+    },
+    {
+      "heading": "3. Kewenangan MK tersebut juga tertuang dalam norma Pasal 29 ayat (1) huruf",
+      "slug": "3-kewenangan-mk-tersebut-juga-tertuang-dalam-norma-pasal-29-ayat-1-huruf",
+      "text": "a Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman  \n(Lembaran Negara Republik Indonesia Tahun 200 Nomor 157, Tambah an \nLembaran Negara Republik Indonesia Nomor 5076) yang menyatakan \nbahwa: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: \na. menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945.”",
+      "start_line": 45,
+      "end_line": 52
+    },
+    {
+      "heading": "4. Bahwa kewenangan MK juga diatur dalam ketentuan Pasal 10 aya t (1) huruf",
+      "slug": "4-bahwa-kewenangan-mk-juga-diatur-dalam-ketentuan-pasal-10-aya-t-1-huruf",
+      "text": "a Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi  \n(Lembaran Negara Republik Indonesia Tahun 2003 Nomor 98, Tambah an \nLembaran Negara Republik Indonesia Nomor 4316) sebagaimana tera khir \ndiubah dengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubaha n \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor  21 6, \nTambahan Lembaran Negara Republik Indonesia Nomor 6554) selanju tnya \ndisebut UU MK, yang menyatakan bahwa: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: \na. menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945.”",
+      "start_line": 54,
+      "end_line": 65
+    },
+    {
+      "heading": "5. Bahwa Mahkamah Konstitusi berwenang menguji hal dugaan perte ntangan",
+      "slug": "5-bahwa-mahkamah-konstitusi-berwenang-menguji-hal-dugaan-perte-ntangan",
+      "text": "norma undang-undang terhadap Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945 berdasarkan ketentuan Pasal 9 ayat (1) Und ang-\nUndang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-\n\n 3\nundangan sebagaimana diubah terakhir dalam Undang-Undang 13 Tah un \n2022 tentang Perubahan Kedua atas Undang-Undang 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-undangan, yang selengkapnya \nmenyatakan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi.”",
+      "start_line": 67,
+      "end_line": 78
+    },
+    {
+      "heading": "6. Bahwa Objek Permohonan Pengujian Undang-Undang (PUU) oleh",
+      "slug": "6-bahwa-objek-permohonan-pengujian-undang-undang-puu-oleh",
+      "text": "Mahkamah Konstitusi adalah mencakup undang-undang dan Perppu \nsebagaimana disebutkan dalam ketentuan Pasal 2 Ayat (1) Peratur an \nMahkamah Konstitusi No 7 Tahun 2025 tentang Tata Beracara Dalam Perkara \nPengujian Undang-Undang (PMK 7/2025), yang menyatakan bahwa: \nPasal 2 \n(1) Objek Permohonan PUU adalah undang-undang dan Perppu",
+      "start_line": 80,
+      "end_line": 85
+    },
+    {
+      "heading": "7. Bahwa Pemohon mengajukan permohonan pengujian materiil atas Pasal 308",
+      "slug": "7-bahwa-pemohon-mengajukan-permohonan-pengujian-materiil-atas-pasal-308",
+      "text": "ayat (1) Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang \nHukum Pidana selanjutnya disebut “UU KUHP”, yang menyatakan seb agai \nberikut: \nPasal 308 \n(1) Setiap Orang yang melakukan perbuatan yang mengakibatkan \nkebakaran, ledakan, atau banjir sehingga membahayakan keamanan \numum bagi orang atau Barang, dipidana dengan pidana penjara paling \nlama 9 (sembilan) tahun.",
+      "start_line": 87,
+      "end_line": 94
+    },
+    {
+      "heading": "8. Bahwa objek pengujian dalam permohonan ini adalah norma dala m UU",
+      "slug": "8-bahwa-objek-pengujian-dalam-permohonan-ini-adalah-norma-dala-m-uu",
+      "text": "KUHP yang masih masuk dalam ruang lingkup kewenangan Mahkamah \nKonstitusi sebagaimana diatur d alam Pasal 24C ayat (1) UUD 1945 , Pasal \n29 ayat (1) UU Kekuasaan Kehakiman, Pasal 10 ayat (1) huruf a U U MK, \nPasal 9 ayat (1) UU Pembentukan Peraturan Perundang-undangan, d an \nPasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 20 25 \ntentang Tata Beracara dalam Pengujian Undang-Undang (PMK 7/2025).",
+      "start_line": 96,
+      "end_line": 101
+    },
+    {
+      "heading": "9. Bahwa permohonan Pemohon ada lah mengenai pengujian materiil Pasal 308",
+      "slug": "9-bahwa-permohonan-pemohon-ada-lah-mengenai-pengujian-materiil-pasal-308",
+      "text": "ayat (1) Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang \nHukum Pidana terhadap Pasal 28D ayat (1) UUD 1945, maka Mahkama h \nKonstitusi berwenang mengadili permohonan ini. \n \n\n 4\nII. KEDUDUKAN HUKUM ( LEGAL STANDING) PEMOHON",
+      "start_line": 103,
+      "end_line": 109
+    },
+    {
+      "heading": "1. Kualifikasi kedudukan hukum ( Legal standing) merupakan syarat yang harus",
+      "slug": "1-kualifikasi-kedudukan-hukum-legal-standing-merupakan-syarat-yang-harus",
+      "text": "dipenuhi oleh setiap pemohon untuk mengajukan permohonan penguj ian \nundang-undang terhadap UUD 1945 kepada Mahkamah sebagaimana diatur",
+      "start_line": 111,
+      "end_line": 112
+    },
+    {
+      "heading": "di dalam Pasal 51 ayat (1) UU MK jo. Pasal 4 ayat (1) Peraturan MK Nomor",
+      "slug": "di-dalam-pasal-51-ayat-1-uu-mk-jo-pasal-4-ayat-1-peraturan-mk-nomor",
+      "text": "7 Tahun 2025 Tentang Tata Beracara dalam Pengujian Undang-Undan g \n(PMK 7/2025), yang menyatakan: \nPasal 4 \n(1) Permohonan sebagaimana dimaksud dalam Pasal 3 huruf a adala h \npihak yang menganggap hak dan/atau kewenangan konstitusionalnya \ndirugikan oleh berlakunya undang-undang atau Perppu, yaitu:  \na. perorangan warga negara Indonesia atau kelompok orang yang \nmempunyai kepentingan yang sama; \nb. kesatuan hukum masyarakat adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip Negara \nKesatuan Republik Indonesia yang diatur dalam undang- undang:",
+      "start_line": 114,
+      "end_line": 124
+    },
+    {
+      "heading": "2. Berdasarkan ketentuan Pasal 51 ayat (1) UU MK jo Pasal 4 ayat (1) PMK",
+      "slug": "2-berdasarkan-ketentuan-pasal-51-ayat-1-uu-mk-jo-pasal-4-ayat-1-pmk",
+      "text": "7/2025 tersebut, Pemohon harus memiliki kedudukan hukum (legal standing) \ndalam perkara pengujian undang-undang, yaitu dengan terpenuhiny a \nkualifikasi untuk bertindak sebagai pemohon, dan adanya hak dan /atau \nkewenangan konstitusional Pemo hon yang dirugikan dengan berlaku nya \nsuatu undang-undang.",
+      "start_line": 128,
+      "end_line": 132
+    },
+    {
+      "heading": "3. Bahwa setelah memenuhi kualifikasi dalam kedudukan hukum seb agai",
+      "slug": "3-bahwa-setelah-memenuhi-kualifikasi-dalam-kedudukan-hukum-seb-agai",
+      "text": "Pemohon, perlu pula diuraikan syarat kerugian hak dan/atau kewe nangan \nkonstitusional sebagaimana dimaksud Pasal 51 ayat (1) UU MK untuk dapat \nmengajukan permohonan sebagaimana ditentukan dalam Putusan \nMahkamah Konstitusi Nomor 006/PUU-III/2005 dan Putusan Nomor 11/PUU-\nV/2007, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD 1945: \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  \ndianggap dirugikan oleh berlakunya Undang-Undang yang dimohonka n \npengujian; \n\n 5",
+      "start_line": 134,
+      "end_line": 145
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan",
+      "text": "aktual atau setidak-tidaknya potensial yang menurut penalaran y ang \nwajar dapat dipastikan akan terjadi;",
+      "start_line": 147,
+      "end_line": 148
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat antara kerugian dimaksud dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan pengujian; \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan mak a \nkerugian konstitusional yang didalilkan tidak akan atau tidak lagi terjadi. \nOleh sebab itu Pemohon menguraikan kedudukan hukum ( legal standing ) \nPemohon dalam mengajukan permohonan sebagai berikut: \nKualifikasi sebagai Pemohon \nBahwa Pemohon merupakan perorangan Warga Negara Indonesia yang \ndibuktikan dengan Kartu Tanda Penduduk/KTP (Bukti P-1). Sehingga karena \nberkualifikasi sebagai WNI, Pemohon memiliki kepentingan hukum untuk \nmempersoalkan norma yang mengatur Kitab Undang-Undang Hukum Pidana \nyang dimohonkan a quo. \nKerugian Konstitusional Pemohon \nBahwa Pemohon memenuhi kelima persyaratan kerugian hak dan/atau  \nkewenangan konstitusional sebagaimana dimaksud Pasal 51 ayat (1) UU MK \nuntuk dapat mengajukan permohonan sebagaimana ditentukan dalam \nPutusan Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan Putusan Nomor \n11/PUU-V/2007. \nBahwa Pemohon memiliki hak konstitusional yang dijamin konstitu si untuk \nmendapatkan pengakuan, jaminan, perlindungan, dan kepastian hukum yang \nadil, serta perlakuan yang sama di hadapan hukum sebagaimana di atur di \ndalam Pasal 28D ayat (1) Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945 (UUD NRI Tahun 1945). \nBahwa Hak konstitusional Pemohon sebagaimana disebut di atas berpotensi \ndirugikan dengan berlakunya ketentuan Pasal 308 ayat (1) Undang -Undang \nNomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana (UU  \nKUHP). \nBahwa sebagai perorangan warga negara Indonesia, Pemohon memiliki hak \nkonstitusional untuk menggunakan mekanisme hukum pidana yang sa h, \n\n 6\ntermasuk hak untuk melaporkan suatu peristiwa pidana kepada apa rat \npenegak hukum apabila Pemohon mengalami, melihat, menyaksikan a tau \nmenjadi korban dari setiap tindak pidana. Hak untuk melaporkan tindak \npidana tersebut merupakan bagian yang tidak terpisahkan dari prinsip negara \nhukum, di mana hak warga negara atas kepastian hukum yang adil hanya \ndapat efektif apabila norma hukum dirumuskan secara tegas, konsisten, dan \ndapat diprediksi penerapannya. \nBahwa hak untuk melaporkan tindak pidana tersebut tidak bersifa t abstrak \natau teoritis semata, melainkan merupakan hak hukum yang konkre t dan \noperasional. Hak tersebut mensyaratkan adanya norma pidana yang  \nkonsisten, tidak ambigu, dan tidak membuka ruang penafsiran yan g saling \nbertentangan, sehingga warga negara dapat mengetahui secara pas ti \napakah suatu perbuatan termasuk atau tidak termasuk dalam ruang  lingkup \nperbuatan yang secara normatif dirumuskan, dilarang, dan dianca m dengan \npidana oleh undang-undang. \nBahwa suatu norma pidana yang dirumuskan secara tidak konsisten , baik \nmelalui penggunaan diksi yang berbeda tanpa batasan yang tegas maupun \nmelalui konstruksi unsur yang menimbulkan keraguan, mengakibatk an \nPemohon berada dalam posisi ketidakpastian hukum. Dalam kondisi  \ndemikian, Pemohon tidak dapat secara rasional dan bertanggung j awab \nmenentukan apakah suatu peristiwa konkret yang dialami, disaksi kan, atau \ndiketahui termasuk sebagai perbuatan yang dimaksudkan dan dilar ang oleh \nnorma a quo. \nBahwa ketidakpastian tersebut secara langsung berdampak pada efektivitas \nhak Pemohon untuk melaporkan tindak pidana. Meskipun secara formal hak \ntersebut tetap diakui, namun secara substantif menjadi tidak efektif. Pemohon \njuga berisiko menghadapi penolakan laporan, penghentian proses hukum, \natau perbedaan penilaian antar para pemerhati hukum akibat ketidakpastian \nnorma yang seharusnya memberikan pedoman yang tegas. \nBahwa kondisi demikian dapat digambarkan sebagai situasi di man a \nPemohon secara formal diundang oleh negara untuk menghadiri pes ta \nperayaan, namun tanpa disertai penjelasan mengenai lokasi pasti  \npenyelenggaraannya, sehingga meskipun undangan tersebut secara \n\n 7\nnormatif ada, secara praktis tidak dapat dilaksanakan karena ke tiadaan \npedoman konkret untuk bertindak. Dalam konteks ini, negara mema ng \nmenjamin hak Pemohon untuk melaporkan setiap tindak pidana, tetapi pada \nsaat yang sama tidak menyediakan penanda normatif yang jelas me ngenai \n“lokasi” tindak pidana yang dimaksud, yakni batasan dan cakupan perbuatan \nyang secara hukum dapat dikualifikasikan sebagai tindak pidana,  y a n g  \nberakibat pada hilangnya fungsi operasional hak tersebut karena  Pemohon \ntidak dapat mengetahui secara pasti apakah suatu peristiwa berada di dalam \natau di luar jangkauan norma pidana yang berlaku. \nBahwa Pemohon adalah perorangan warga negara Indonesia yang mem iliki \nkepentingan hukum untuk mengajukan dan membawa ke hadapan \npersidangan setiap orang yang terbukti melakukan tindakan pemba karan, \npeledakan, atau pembanjiran, dalam batas dan ruang lingkup perbuatan yang \nsecara objektif menimbulkan bahaya terhadap keamanan pribadi Pe mohon \nsemata, tanpa disertai akibat atau potensi akibat yang meluas sehingga dapat \ndikualifikasikan sebagai perbuatan yang membahayakan keamanan umum. \nBahwa Pemohon membayangkan, apabila tindakan tersebut kemudian \ndilaporkan, atau bahkan dihadapkan ke persidangan, akan muncul \npertanyaan mendasar tentang norma apa yang sesungguhnya tepat u ntuk \nditerapkan. Dalam kondisi di mana pelaku melakukan pembakaran terhadap \nrumah miliknya sendiri, di mana rumah tersebut berada di lokasi  terpencil, \nserta di mana pelaku beranggapan bahwa penghuni tunggal yang di izinkan \nmenempati rumah tersebut sedang tidak berada di tempat. Dalam k eadaan \ntersebut, norma a quo tidak dapat diberlakukan karena tidak terpenuhinya \nunsur “barang milik orang lain” maupun unsur “membahayakan keam anan \numum”. Dalam keadaan yang sama, ketentuan lain seperti percobaa n \npembunuhan juga tidak dapat diterapkan, karena tidak terdapat pengetahuan \natau kesengajaan pelaku mengenai keberadaan orang di dalam ruma h \ntersebut. Dalam konteks itulah Pemohon mempertanyakan apakah ketentuan \nPasal a quo  yang sedang diuji dalam permohonan ini dapat secara tepat \ndiaplikasikan terhadap perbuatan pelaku. \nBahwa keberlakuan Pasal a quo  dengan rumusan delik yang inkonsisten \ntelah membuka ruang perbedaan penafsiran dalam proses penegakan  \nhukum. Ketidakpastian norma tersebut berpotensi menyebabkan lap oran \n\n 8\nyang diajukan Pemohon, dimentahkan dengan alasan tidak terpenuh inya \nunsur delik, andaikata Pemohon mengalami, melihat, menyaksikan atau \nmalah menjadi korban atas suatu tindak pembakaran, peledakan at au \npembanjiran, yang hanya membahayakan keamanan perorangan.  \nBahwa oleh karena itu, inkonsistensi dalam perumusan norma pida na a quo \ntidak hanya berimplikasi pada persoalan teknis penegakan hukum, melainkan \nsecara langsung merugikan hak konstitusional Pemohon atas kepas tian \nhukum yang adil sebagaimana dijamin dalam Pasal 28D ayat (1) Un dang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, khususnya da lam \nkaitannya dengan hak Pemohon untuk menggunakan dan mengakses \nmekanisme hukum pidana secara efektif sebagai warga negara dala m \nnegara hukum. \nBahwa dalam kondisi demikian, hak Pemohon untuk memperoleh kepa stian \nhukum tidak hanya mengalami hambatan, tetapi juga kehilangan ma kna \nsubstansialnya. Norma hukum pidana yang seharusnya berfungsi se bagai \ninstrumen pengaturan justru berubah menjadi norma yang tidak da pat \ndiandalkan, akibat ketidakpastian hukum yang inheren dalam rumusan Pasal \na quo. \nBahwa kerugian konstitusional yang dialami Pemohon bersifat pot ensial, \nnamun berdasarkan penalaran yang wajar, kerugian tersebut dapat  \ndipastikan akan terjadi dengan tetap berlakunya ketentuan dalam  Pasal a \nquo. Potensi kerugian tersebut tidak bersifat abstrak atau imajiner, melainkan \nmelekat secara langsung pada status Pemohon sebagai warga negara yang \nsewaktu-waktu dapat berada dalam situasi yang menuntut kepastia n hukum \npidana. \nBahwa kedudukan Pemohon sebagai pihak yang berpotensi menjadi pelapor \ndalam suatu dugaan tindak pidana pada dasarnya memiliki persama an \nmendasar dengan aparat penegak hukum lainnya dalam proses peneg akan \nhukum pidana. Polisi sebagai penyelidik dan penyidik, jaksa seb agai \npenuntut umum, serta hakim sebagai pihak yang memutus perkara, pada \ndasarnya juga harus terlebih dahulu menentukan apakah suatu per buatan \nmemenuhi unsur tindak pidana atau tidak. \n\n 9\nBahwa oleh karena itu, apabila kedudukan hukum Pemohon sebagai pelapor \nditolak dengan alasan bahwa peristiwa yang dipersoalkan belum t erjadi \nsecara aktual, maka secara logis alasan yang sama juga akan ber implikasi \nterhadap aparat penegak hukum lainnya, yang pada kenyataannya j uga \nharus melakukan penilaian hukum terlebih dahulu terhadap suatu norma \nsebelum memutuskan untuk menyidik, sebelum memutuskan untuk \nmenuntut, atau sebelum memutuskan seseorang bersalah. \nBahwa apabila ketidakpastian tersebut dibiarkan dengan alasan m enunggu \nsampai suatu peristiwa terjadi secara aktual, maka yang demikia n justru \nberpotensi menimbulkan kerugian yang jauh lebih besar dalam pen egakan \nhukum. Hal ini karena dalam keadaan peristiwa tersebut benar-benar terjadi, \npelaku berpotensi melepaskan diri dari pertanggungjawaban pidan a dengan \nmendalilkan berbagai alasan sebagaimana telah diuraikan dalam a lasan-\nalasan permohonan Pemohon. Dengan demikian, menunda pengujian \nkonstitusionalitas norma tersebut sampai terjadinya peristiwa k onkret justru \nberpotensi menimbulkan keadaan di mana suatu perbuatan yang sec ara \nnyata membahayakan keselamatan manusia tidak dapat dijangkau se cara \nefektif oleh hukum pidana, mengingat hukum pidana tidak dapat diberlakukan \nsurut. \nBahwa dalam Putusan Mahkamah Ko nstitusi Nomor 275/PUU-XXIII/202 5, \nMahkamah menerima kedudukan hukum para Pemohon dengan alasan \nbahwa berlakunya norma yang dimohonkan berpotensi membatasi rua ng \ndemokrasi serta melemahkan semangat kebangsaan dalam kehidupan \nbermasyarakat, serta merugikan hak-hak Pemohon I sampai dengan \nPemohon VII sebagai warga negara untuk mengembangkan diri dan \nberpartisipasi dalam kehidupan bermasyarakat. \nBahwa hal yang sama juga dialami oleh Pemohon dengan berlakunya Pasal \n308 ayat (1) UU KUHP. Ketidakkonsistenan antara Pasal 308 ayat (1) UU \nKUHP dan Pasal 187 ayat (2) KUHP Lama juga membatasi hak Pemoho n \nuntuk berpartisipasi dalam kehidupan bermasyarakat, karena memb uat \nPemohon yang diberikan hak untuk melaporkan suatu tindak pidana menjadi \nkebingungan ketika hendak melaporkan seseorang yang melakukan t indak \npembakaran dan sebagainya yang hanya membahayakan keamanan satu  \norang, mengingat norma a quo mensyaratkan bahaya umum. \n\n 10\nBahwa Mahkamah Konstitusi dalam berbagai putusannya telah menegaskan \nbahwa kerugian konstitusional tidak harus bersifat aktual dan t elah terjadi, \nmelainkan cukup apabila secara logis dan rasional dapat dipasti kan akan \nterjadi akibat berlakunya suatu norma. Dalam hal ini, ketidakpastian rumusan \ndelik a quo secara langsung menciptakan risiko bahwa hak Pemohon melalui \nmekanisme pelaporan pidana menjadi ilusi normatif belaka. \nBahwa dengan dikabulkannya Permohonan a quo , potensi kerugian \nkonstitusional seperti yang didalilkan tidak akan terjadi. Potensi atas kerugian \nkonstitusional Pemohon tidak akan terjadi apabila permohonan Pe mohon \ndikabulkan oleh Mahkamah Konstitusi dan Pasal 308 ayat (1) UU K UHP \ndinyatakan bertentangan dengan Undang-Undang Dasar Negara Repub lik \nIndonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengika t \nsecara bersyarat sepanjang tidak dimaknai sebagai ketentuan yan g juga \nmengatur larangan terkait tindakan pembakaran yang membahayakan  \nkeamanan orang tertentu, dan bukan sebagai norma yang hanya mel arang \ntindakan pembakaran yang membahayakan keamanan orang secara umum. \nDengan demikian, hak konstitusional Pemohon atas pengakuan, jam inan, \nperlindungan, dan kepastian hukum yang adil, serta perlakuan yang sama di \nhadapan hukum yang dijamin oleh konstitusi akan terpenuhi. \nIII. ALASAN-ALASAN PERMOHONAN",
+      "start_line": 150,
+      "end_line": 340
+    },
+    {
+      "heading": "1. Bahwa pokok permohonan adalah ketentuan Pasal 308 ayat (1) U U KUHP",
+      "slug": "1-bahwa-pokok-permohonan-adalah-ketentuan-pasal-308-ayat-1-u-u-kuhp",
+      "text": "yang menyatakan: (Bukti P-3) \nPasal 308 \n(1) Setiap Orang yang melakukan perbuatan yang mengakibatkan \nkebakaran, ledakan, atau banjir sehingga membahayakan keamanan \numum bagi orang atau Barang, dipidana dengan pidana penjara paling \nlama 9 (sembilan) tahun.",
+      "start_line": 342,
+      "end_line": 347
+    },
+    {
+      "heading": "2. Bahwa Pemohon mendalilkan Pasal a quo bertentangan dengan Pasal 28D",
+      "slug": "2-bahwa-pemohon-mendalilkan-pasal-a-quo-bertentangan-dengan-pasal-28d",
+      "text": "ayat (1) UUD NRI Tahun 1945, yang menyatakan sebagai berikut: (Bukti P-2) \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama dihadapan hukum”",
+      "start_line": 349,
+      "end_line": 351
+    },
+    {
+      "heading": "3. Bahwa menurut Pemohon ketentuan Pasal a quo yang mengatur rumusan",
+      "slug": "3-bahwa-menurut-pemohon-ketentuan-pasal-a-quo-yang-mengatur-rumusan",
+      "text": "delik tindak pidana pembakaran, peledakan, atau pembanjiran bertentangan \ndengan Pasal 28D ayat (1) UUD NRI Tahun 1945, dengan alasan-ala san \nsebagai berikut: \n\n 11\nA. Nebis In Idem",
+      "start_line": 353,
+      "end_line": 358
+    },
+    {
+      "heading": "4. Bahwa ketentuan Pasal 60 UU MK juncto Pasal 72 ayat (2) PMK Nomor 7",
+      "slug": "4-bahwa-ketentuan-pasal-60-uu-mk-juncto-pasal-72-ayat-2-pmk-nomor-7",
+      "text": "Tahun 2025 memungkinkan Pemohon mengajukan kembali pengujian materi \nmuatan ayat, pasal, dan/atau bagian dalam undang-undang yang te lah diuji \noleh Mahkamah.",
+      "start_line": 360,
+      "end_line": 362
+    },
+    {
+      "heading": "5. Bahwa Pasal 308 ayat (1) Undang-Undang Nomor 1 Tahun 2023 te ntang",
+      "slug": "5-bahwa-pasal-308-ayat-1-undang-undang-nomor-1-tahun-2023-te-ntang",
+      "text": "Kitab Undang-Undang Hukum Pidana pernah diujikan sebelumnya dan telah \ndiputus oleh Mahkamah dalam putusan nomor 80/PUU-XXIV/2026.",
+      "start_line": 364,
+      "end_line": 365
+    },
+    {
+      "heading": "6. Bahwa kendatipun demikian, pengujian konstitusionalitas kete ntuan Pasal",
+      "slug": "6-bahwa-kendatipun-demikian-pengujian-konstitusionalitas-kete-ntuan-pasal",
+      "text": "308 ayat (1) Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Und ang-\nUndang Hukum Pidana, dalam permohonan ini, memiliki alasan permohonan \nyang berbeda dan tidak ditemui dalam permohonan sebelumnya,",
+      "start_line": 367,
+      "end_line": 369
+    },
+    {
+      "heading": "7. Bahwa di antara alasan-alasan tersebut ialah, terdapat penda pat yuris yang",
+      "slug": "7-bahwa-di-antara-alasan-alasan-tersebut-ialah-terdapat-penda-pat-yuris-yang",
+      "text": "mendukung argumentasi pemohon, serta alasan logis dibaliknya, t erdapat \npendapat yuris mengenai isu kualifisir yang mengganjal permohon an \nsebelumnya, terdapat preseden hukum konkret yang menggambarkan \nkekosongan hukum akibat ambiguitas rumusan pasal, terdapat pertimbangan \ndari putusan Mahkamah Konstitusi lain perihal inkonsistensi rumusan norma, \ndan terakhir, terdapat konsekuensi hukum dari putusan mahkamah \nsebelumnya, sebagaimana diuraikan berikut: \nB. Pokok Perkara",
+      "start_line": 371,
+      "end_line": 378
+    },
+    {
+      "heading": "8. Bahwa sejak berlakunya Undang-Undang Nomor 1 Tahun 2023 yang",
+      "slug": "8-bahwa-sejak-berlakunya-undang-undang-nomor-1-tahun-2023-yang",
+      "text": "mencabut Kitab Undang-Undang Hukum Pidana lama, muncul pandanga n \nbahwa Pasal 308 ayat (1) Undang-Undang Nomor 1 Tahun 2023 merupakan \nadaptasi dari Pasal 187 ayat (2) Kitab Undang-Undang Hukum Pidana lama. \nSelanjutnya, Pasal 187 Kitab Undang-Undang Hukum Pidana lama ju ga \ndipandang sebagai adaptasi dari Artikel 157 ayat (2) Wetboek van Strafrecht \nBelanda. Atas dasar itu, dibangun anggapan adanya kesinambungan norma \ndari Artikel 157 Wetboek van Strafrecht , Pasal 187 Kitab Undang-Undang \nHukum Pidana lama, hingga Pasal 308 Undang-Undang Nomor 1 Tahun  \n2023. \n\n 12",
+      "start_line": 380,
+      "end_line": 390
+    },
+    {
+      "heading": "9. Bahwa terhadap pandangan yang menyatakan Pasal 187 Kitab Und ang-",
+      "slug": "9-bahwa-terhadap-pandangan-yang-menyatakan-pasal-187-kitab-und-ang",
+      "text": "Undang Hukum Pidana lama merupakan adaptasi dari Artikel 157 Wetboek \nvan Strafrecht  Belanda, menurut Pemohon tidak terdapat keraguan. Hal \ntersebut karena rumusan kedua ketentuan tersebut sama, sehingga  \nhubungan adaptasi di antara keduanya dapat diterima secara logi s maupun \nyuridis.",
+      "start_line": 392,
+      "end_line": 396
+    },
+    {
+      "heading": "10. Bahwa keadaan tersebut berbeda dengan hubungan antara Pasal 308 ayat",
+      "slug": "10-bahwa-keadaan-tersebut-berbeda-dengan-hubungan-antara-pasal-308-ayat",
+      "text": "(1) UU KUHP dan Pasal 187 KUHP Lama. Meskipun perbedaannya tamp ak \nsederhana, rumusan kedua norma tersebut tidak lagi sama. Menuru t \nPemohon, perbedaan sekecil apa pun dalam norma pidana tidak dap at \ndiabaikan, karena hukum pidana berpijak pada prinsip lex stricta  yang \nmenghendaki penafsiran secara ketat sesuai dengan rumusan undan g-\nundang.",
+      "start_line": 398,
+      "end_line": 403
+    },
+    {
+      "heading": "11. Bahwa selain itu, apabila dikaitkan dengan original intent pembentuk Artikel",
+      "slug": "11-bahwa-selain-itu-apabila-dikaitkan-dengan-original-intent-pembentuk-artikel",
+      "text": "157 Wetboek van Strafrecht  Belanda, setiap perubahan terhadap rumusan \nnorma membawa konsekuensi terhadap cara memahami norma tersebut . \nOleh karena itu, perbedaan rumusan antara Pasal 308 ayat (1) UU KUHP dan \nPasal 187 ayat (2) KUHP Lama tidak dapat dipandang hanya sebaga i \nperbedaan redaksional semata.",
+      "start_line": 405,
+      "end_line": 409
+    },
+    {
+      "heading": "12. Bahwa oleh karena itu, menurut Pemohon, klaim yang menyatakan Pasal 308",
+      "slug": "12-bahwa-oleh-karena-itu-menurut-pemohon-klaim-yang-menyatakan-pasal-308",
+      "text": "ayat (1) UU KUHP merupakan adaptasi dari Pasal 187 ayat (2) KUH P Lama \ntidak memiliki dasar yang memadai. Klaim tersebut mengabaikan p rinsip lex \nstricta serta mengesampingkan pentingnya kesetiaan terhadap rumusan asli \ndan original intent  pembentuk norma, sehingga menurut hemat Pemohon \ntidak berdasar dan beralasan menurut hukum. \nC. Dogma Hukum",
+      "start_line": 411,
+      "end_line": 416
+    },
+    {
+      "heading": "13. Bahwa pada dasarnya seluruh argumentasi Pemohon dalam mengu ji",
+      "slug": "13-bahwa-pada-dasarnya-seluruh-argumentasi-pemohon-dalam-mengu-ji",
+      "text": "konstitusionalitas Pasal 308 ayat (1) UU KUHP bertumpu pada pen dapat \nhukum Tarquinius Noyon, seorang yuris Belanda, dalam bukunya Het \nWetboek Van Strafrecht, dalam penjelasannya terhadap Artikel 157 Wetboek \nvan Strafrecht , Tarquinius Noyon menjelaskan ruang lingkup penerapan \nnorma tersebut, termasuk membedakan keadaan yang termasuk dan y ang \ntidak termasuk dalam unsur gemeen gevaar (bahaya umum). \n\n 13",
+      "start_line": 418,
+      "end_line": 425
+    },
+    {
+      "heading": "14. Bahwa pendapat hukum Tarquinius Noyon tersebut memiliki rel evansi",
+      "slug": "14-bahwa-pendapat-hukum-tarquinius-noyon-tersebut-memiliki-rel-evansi",
+      "text": "langsung dengan perkara a quo , mengingat Artikel 157 Wetboek van \nStrafrecht merupakan sumber historis Pasal 187 ayat (2) KUHP Lama yang \nkemudian menjadi dasar pembentukan Pasal 308 ayat (1) UU KUHP. Oleh \nkarena itu, menurut Pemohon, penjelasan Tarquinius Noyon layak dijadikan \nacuan dalam memahami batas-batas penerapan Pasal 308 ayat (1) U U \nKUHP. Dalam penjelasannya, Tarquinius Noyon menyatakan bahwa; ( Bukti \nP-4) \nUndang-undang membedakan dua macam bahaya, yaitu bahaya \nterhadap barang dan bahaya terhadap jiwa manusia. \nBahaya yang pertama (bahaya terhadap barang) harus merupakan \nbahaya umum (gemeen gevaar), suatu konsep yang tampaknya harus \ndipahami berdasarkan karakteristik tindak pidana yang dihimpun dalam \nBab Ketujuh, yang ciri utamanya adalah bahwa tindak pidana tersebut \nmenimbulkan suatu bahaya yang menyangkut keamanan umum, dan \norang yang menimbulkan bahaya itu pada dasarnya tidak mungkin \nterlebih dahulu menentukan, bahkan memperkirakan, sejauh mana \nbahaya tersebut akan meluas. \nMeskipun demikian, dalam ketentuan ini juga termasuk pembakaran dan \nperbuatan-perbuatan sejenis yang menimbulkan bahaya terhadap jiwa \norang lain (levensgevaar voor een ander), tanpa mensyaratkan adanya \nbahaya umum (gemeen gevaar). Dengan demikian, tindak pidana \ntersebut tetap dianggap telah terjadi meskipun hanya satu orang saja \nyang berada dalam keadaan terancam bahaya.",
+      "start_line": 427,
+      "end_line": 449
+    },
+    {
+      "heading": "15. Bahwa berdasarkan pernyataan tersebut, Pemohon melalui pena fsiran a",
+      "slug": "15-bahwa-berdasarkan-pernyataan-tersebut-pemohon-melalui-pena-fsiran-a",
+      "text": "contrario memahami bahwa apabila suatu rumusan delik tidak mensyaratkan \nadanya bahaya umum sebagai unsur tindak pidana, maka tindakan y ang \nhanya membahayakan satu orang tetap dapat dijerat berdasarkan ketentuan \ntersebut.",
+      "start_line": 451,
+      "end_line": 454
+    },
+    {
+      "heading": "16. Bahwa sebaliknya, apabila suatu rumusan delik secara tegas mensyaratkan",
+      "slug": "16-bahwa-sebaliknya-apabila-suatu-rumusan-delik-secara-tegas-mensyaratkan",
+      "text": "adanya unsur bahaya umum, maka unsur tersebut wajib dipenuhi se belum \nketentuan pidana dapat diterapkan, sehingga tindakan yang hanya  \nmembahayakan satu orang tidak dapat dijerat dengan norma terseb ut. \nMenurut Pemohon, keadaan demikian dijumpai dalam Pasal 308 ayat (1) UU \nKUHP yang secara eksplisit mensyaratkan adanya unsur “membahaya kan \nkeamanan umum”.",
+      "start_line": 456,
+      "end_line": 461
+    },
+    {
+      "heading": "17. Bahwa sebagai konsekuensi dari penafsiran a contrario tersebut, menurut",
+      "slug": "17-bahwa-sebagai-konsekuensi-dari-penafsiran-a-contrario-tersebut-menurut",
+      "text": "Pemohon, perbuatan yang hanya menimbulkan bahaya terhadap satu orang \n\n 14\ntidak memenuhi unsur sebagaimana dipersyaratkan dalam Pasal 308 ayat (1) \nUU KUHP . Dengan demikian, unsur “membahayakan keamanan umum” \nmerupakan batas normatif yang menentukan dapat atau tidaknya su atu \ntindakan pembakaran, ledakan, atau menyebabkan banjir dijerat berdasarkan \nketentuan tersebut. \nD. Logika Hukum",
+      "start_line": 463,
+      "end_line": 471
+    },
+    {
+      "heading": "18. Bahwa menurut Pemohon, pernyataan yang menyatakan bahwa Pas al 308",
+      "slug": "18-bahwa-menurut-pemohon-pernyataan-yang-menyatakan-bahwa-pas-al-308",
+      "text": "ayat (1) UU KUHP , dapat menjangkau tindakan pembakaran dan perbuatan \nsejenis yang hanya membahayakan keamanan perorangan bukan saja tidak \nmemiliki dasar dalam dogmatik hukum pidana sebagaimana telah di uraikan \noleh Tarquinius Noyon di dalam bukunya, tetapi juga tidak dapat  \ndipertahankan secara logis menurut penalaran hukum.",
+      "start_line": 473,
+      "end_line": 477
+    },
+    {
+      "heading": "19. Bahwa dalam Putusan Mahkamah Konstitusi Nomor 80/PUU-XXIV/2 026,",
+      "slug": "19-bahwa-dalam-putusan-mahkamah-konstitusi-nomor-80-puu-xxiv-2-026",
+      "text": "Mahkamah berpendapat bahwa frasa “membahayakan keamanan umum” \ndalam Pasal 308 ayat (1) UU KUHP secara otomatis mencakup pula keadaan \nyang hanya membahayakan keamanan perorangan. Menurut Mahkamah, \ntindakan yang membahayakan keamanan umum merupakan suatu konsep  \nyang bersifat umum sehingga di dalamnya telah termasuk tindakan  yang \nmembahayakan keamanan perorangan.",
+      "start_line": 479,
+      "end_line": 484
+    },
+    {
+      "heading": "20. Bahwa menurut Pemohon, ratio decidendi tersebut tidak tepat karena",
+      "slug": "20-bahwa-menurut-pemohon-ratio-decidendi-tersebut-tidak-tepat-karena",
+      "text": "mencampuradukkan antara keadaan yang bersifat deskriptif (tinda kan) \ndengan keadaan yang bersifat normatif (larangan). Dengan kata l ain, \nmeskipun secara faktual tindakan yang membahayakan keamanan umu m \ndapat mencakup tindakan yang membahayakan keamanan perorangan, \nnamun larangan terhadap perbuatan yang membahayakan keamanan umum \nbelum tentu mencakup larangan terhadap perbuatan yang hanya \nmembahayakan keamanan perorangan.",
+      "start_line": 486,
+      "end_line": 492
+    },
+    {
+      "heading": "21. Bahwa keadaan tersebut terjadi karena hubungan semantik ant ara konsep",
+      "slug": "21-bahwa-keadaan-tersebut-terjadi-karena-hubungan-semantik-ant-ara-konsep",
+      "text": "“bahaya umum” dan “bahaya perorangan” bukan merupakan hubungan \nhiperonim-hiponim, melainkan hubungan holonim-meronim. Dengan \ndemikian, hubungan antara kedua konsep tersebut bukanlah hubung an \nantara suatu kategori dengan jenis-jenis yang berada di bawahny a, \n\n 15\nmelainkan hubungan antara suatu keseluruhan dengan bagian-bagia n yang \nmembentuk keseluruhan tersebut.",
+      "start_line": 494,
+      "end_line": 501
+    },
+    {
+      "heading": "22. Bahwa secara hipotetis, andaikata suatu norma merumuskan la rangan",
+      "slug": "22-bahwa-secara-hipotetis-andaikata-suatu-norma-merumuskan-la-rangan",
+      "text": "memakan “kuda” misalnya, maka dalam hubungan semantik hiperonim -\nhiponim larangan tersebut dengan sendirinya mencakup larangan memakan \nkuda ternak, kuda balap, atau kuda konservasi misalnya, karena seluruhnya \nmerupakan jenis-jenis dari kategori “kuda”. Dalam keadaan demik ian, \nlarangan terhadap konsep yang lebih umum memang mencakup seluru h \njenis yang berada di bawahnya.",
+      "start_line": 503,
+      "end_line": 508
+    },
+    {
+      "heading": "23. Bahwa berbeda halnya apabila hubungan semantik yang dimaksu d",
+      "slug": "23-bahwa-berbeda-halnya-apabila-hubungan-semantik-yang-dimaksu-d",
+      "text": "merupakan hubungan holonim-meronim. Andaikata suatu norma melar ang \nmemakan “kuda”, larangan tersebut tidak serta-merta mencakup la rangan \nmemakan iga kuda, paha kuda, atau tenderloin kuda, karena ketiganya bukan \nmerupakan jenis dari kuda, melainkan hanya bagian yang membentu k \nkeseluruhan struktur kuda. Menurut Pemohon, hubungan semantik y ang \ndemikianlah yang terdapat antara konsep “bahaya umum” dan “baha ya \nperorangan” dalam Pasal 308 ayat (1) UU KUHP.",
+      "start_line": 510,
+      "end_line": 516
+    },
+    {
+      "heading": "24. Bahwa oleh karena hubungan semantik antara konsep “bahaya u mum” dan",
+      "slug": "24-bahwa-oleh-karena-hubungan-semantik-antara-konsep-bahaya-u-mum-dan",
+      "text": "“bahaya perorangan” merupakan hubungan holonim-meronim, maka \nmenurut Pemohon tidak tepat apabila kemudian disimpulkan bahwa larangan \nmembahayakan keamanan umum dengan sendirinya mencakup larangan \nmembahayakan keamanan perorangan. Hal tersebut karena konsep “bahaya \nperorangan” dalam konteks ini hanyalah bagian dari konsep “bahaya umum”, \nsebagaimana iga kuda hanyalah bagian dari kuda, dan bukan jenis  y a n g  \nberada di bawah kategori kuda.",
+      "start_line": 518,
+      "end_line": 524
+    },
+    {
+      "heading": "25. Bahwa menurut Pemohon, Norma yang tepat untuk menggambarkan",
+      "slug": "25-bahwa-menurut-pemohon-norma-yang-tepat-untuk-menggambarkan",
+      "text": "penalaran tersebut dapat dilihat dari tindak pidana yang dalam rumusan \ndeliknya mensyaratkan agar perbuatan dilakukan secara berkelomp ok atau \nsecara bersama-sama. Sebagai contoh, rumusan delik dalam Pasal 477 ayat \n(1) huruf g yang mensyaratkan adanya perbuatan mencuri secara \nberkelompok, yang secara deskriptif merupakan konsep yang lebih  luas, \nmencakup mencuri secara perorangan. \n\n 16",
+      "start_line": 526,
+      "end_line": 533
+    },
+    {
+      "heading": "26. Bahwa ratio decidendi yang digunakan oleh Mahkamah dalam Putusan",
+      "slug": "26-bahwa-ratio-decidendi-yang-digunakan-oleh-mahkamah-dalam-putusan",
+      "text": "Mahkamah Konstitusi Nomor 80/PUU-XXIV/2026 pada pokoknya ialah \nbahwa tindakan membahayakan keamanan umum merupakan konsep yang  \nbersifat umum sehingga mencakup pula tindakan yang membahayakan  \nkeamanan perorangan. Dengan demikian, larangan membahayakan \nkeamanan umum juga mencakup larangan membahayakan keamanan \nperorangan.",
+      "start_line": 535,
+      "end_line": 540
+    },
+    {
+      "heading": "27. Bahwa apabila penalaran tersebut diterapkan secara konsiste n terhadap",
+      "slug": "27-bahwa-apabila-penalaran-tersebut-diterapkan-secara-konsiste-n-terhadap",
+      "text": "tindak pidana mencuri secara berkelompok, maka oleh karena menc uri \nsecara berkelompok (holonim) secara faktual mencakup perbuatan mencuri \nsecara perorangan (meronim), maka larangan mencuri secara berkelompok \nseharusnya juga mencakup larangan mencuri secara perorangan. \nKonsekuensi demikian jelas tidak dapat diterima, karena orang yang mencuri \nseorang diri tidak dapat dipidana berdasarkan delik yang secara  tegas \nmensyaratkan perbuatan secara berkelompok.",
+      "start_line": 542,
+      "end_line": 548
+    },
+    {
+      "heading": "28. Bahwa dengan demikian, menurut Pemohon, cakupan suatu konsep secara",
+      "slug": "28-bahwa-dengan-demikian-menurut-pemohon-cakupan-suatu-konsep-secara",
+      "text": "deskriptif tidak dengan sendirinya menentukan cakupan larangan secara \nnormatif. Oleh karena itu, sebagaimana larangan mencuri secara \nberkelompok tidak serta-merta mencakup mencuri secara peroranga n, \ndemikian pula larangan membahayakan keamanan umum tidak dapat secara \notomatis mencakup perbuatan yang hanya membahayakan keamanan sa tu \norang. \nE. Isu Kualifisir",
+      "start_line": 550,
+      "end_line": 556
+    },
+    {
+      "heading": "29. Bahwa selain mendasarkan pertimbangannya pada anggapan bahwa konsep",
+      "slug": "29-bahwa-selain-mendasarkan-pertimbangannya-pada-anggapan-bahwa-konsep",
+      "text": "“membahayakan keamanan umum” mencakup pula “membahayakan \nkeamanan perorangan”, dalam Putusan Mahkamah Konstitusi Nomor \n80/PUU-XXIV/2026, Mahkamah juga berpendapat bahwa Pasal 308 ayat (1) \nUU KUHP harus dibaca secara utuh. Menurut Mahkamah, keberadaan Pasal \n308 ayat (3) UU KUHP yang mengatur akibat berupa hilangnya nyaw a \nseseorang merupakan bentuk kualifisir terhadap ketentuan Pasal 308 ayat \n(1) UU KUHP, sehingga frasa “membahayakan keamanan umum” dalam ayat \n(1) dapat ditafsirkan mencakup pula keadaan yang hanya membahay akan \nkeamanan perorangan. \n\n 17",
+      "start_line": 558,
+      "end_line": 568
+    },
+    {
+      "heading": "30. Bahwa menurut Pemohon, penafsiran yang mendasarkan diri pad a",
+      "slug": "30-bahwa-menurut-pemohon-penafsiran-yang-mendasarkan-diri-pad-a",
+      "text": "hubungan kualifisir antara Pasal 308 ayat (1) UU KUHP dan Pasal  308 ayat \n(3) UU KUHP tersebut, juga tidak memiliki pijakan dalam dogma h ukum \npidana. Keberadaan suatu norma yang mengatur akibat berupa hila ngnya \nnyawa seseorang tidak dengan sendirinya mengubah atau memperlua s \nmakna unsur “membahayakan keamanan umum” yang secara tegas \ndirumuskan sebagai unsur delik, sehingga mencakup membahayakan \nkeamanan perorangan.",
+      "start_line": 570,
+      "end_line": 576
+    },
+    {
+      "heading": "31. Bahwa apabila rumusan Pasal 308 ayat (1) UU KUHP dibandingkan dengan",
+      "slug": "31-bahwa-apabila-rumusan-pasal-308-ayat-1-uu-kuhp-dibandingkan-dengan",
+      "text": "ketentuan yang sepadan semisal Artikel 312 Strafgesetzbuch (StGB) Jerman, \nakan ditemukan bahwa meskipun kedua norma memiliki perbedaan da lam \nketentuan perbuatan yang dilarang, namun keduanya memiliki pers amaan \nmendasar, yaitu sama-sama mengatur delik yang mensyaratkan adan ya \nbahaya umum dan sama-sama mengkualifisir dengan ancaman hukuman  \nyang lebih berat apabila perbuatan tersebut mengakibatkan hilangnya nyawa \nseseorang.",
+      "start_line": 578,
+      "end_line": 584
+    },
+    {
+      "heading": "32. Bahwa dengan adanya persamaan redaksi dalam kedua rumusan n orma,",
+      "slug": "32-bahwa-dengan-adanya-persamaan-redaksi-dalam-kedua-rumusan-n-orma",
+      "text": "menurut Pemohon, penjelasan maupun pendapat hukum mengenai \nhubungan antara delik dasar yang mensyaratkan bahaya umum dengan delik \nkualifisir yang mensyaratkan mengakibatkan kematian seseorang, dalam \nhukum pidana Jerman, memiliki relevansi dan dapat diberlakukan secara \nmutatis mutandis dalam memahami konstruksi Pasal 308 UU KUHP .",
+      "start_line": 586,
+      "end_line": 590
+    },
+    {
+      "heading": "33. Bahwa Hans Rüdorff, seorang yuris Jerman, dalam bukunya Strafgesetzbuch",
+      "slug": "33-bahwa-hans-r-dorff-seorang-yuris-jerman-dalam-bukunya-strafgesetzbuch",
+      "text": "für das Deutsche Reich , ketika menjelaskan ketentuan Artikel 312 StGB \nJerman 1871 yang berbunyi; \n§ 312 \nWer mit gemeiner Gefahr für Menschenleben vorsätzlich eine \nÜberschwemmung herbeiführt, wird mit Zuchthaus nicht unter drei \nJahren und, wenn durch die Überschwemmung der Tod eines Menschen \nverursacht worden ist, mit Zuchthaus nicht unter zehn Jahren oder mit \nlebenslänglichem Zuchthaus bestraft. \nBarang siapa dengan sengaja mengakibatkan terjadinya banjir yang \nmenimbulkan bahaya umum terhadap jiwa manusia, dipidana dengan \npidana penjara kerja paksa paling singkat tiga tahun. Apabila banjir \ntersebut mengakibatkan kematian seseorang, pelaku dipidana dengan \npidana penjara kerja paksa paling singkat sepuluh tahun atau dengan \npidana penjara kerja paksa seumur hidup. \n\n 18\nsecara tegas menyatakan bahwa; (Bukti P-5) \nUnter gemeiner Gefahr ist die Gefährdung einer größeren Anzahl von \nPersonen in ihrem Leben oder Eigentum in unbestimmter Ausdehnung \nzu verstehen. Handelt es sich um die Gefährdung individuell \nbestimmbarer Personen, so liegt keine gemeine Gefahr vor. \nDresden, 20. Jan. 1875 (St. VI, 39) \nYang dimaksud dengan bahaya umum (gemeine Gefahr) adalah \nkeadaan yang membahayakan sejumlah besar orang terhadap jiwa atau \nharta bendanya dalam cakupan yang tidak tertentu. Apabila yang \ndihadapi hanyalah bahaya terhadap orang-orang yang dapat ditentukan \nsecara individual, maka tidak terdapat bahaya umum (gemeine Gefahr). \nDresden, 20 Januari 1875 (St. VI, 39). \nPenjelasan tersebut menunjukkan bahwa hubungan kualifisir antar a delik \nyang mensyaratkan bahaya umum dengan delik yang mengakibatkan \nkematian tidak mengubah makna unsur bahaya umum yang menjadi sy arat \npenerapan delik dasar.",
+      "start_line": 592,
+      "end_line": 623
+    },
+    {
+      "heading": "34. Bahwa berdasarkan pendapat hukum tersebut, menjadi jelas ba hwa",
+      "slug": "34-bahwa-berdasarkan-pendapat-hukum-tersebut-menjadi-jelas-ba-hwa",
+      "text": "sekalipun suatu norma yang mensyaratkan adanya bahaya umum dikualifisir \ndengan norma lain yang mengatur akibat berupa hilangnya nyawa \nseseorang, hal tersebut tidak serta-merta melahirkan penafsiran bahwa unsur \n“membahayakan keamanan umum” mencakup pula “membahayakan \nkeamanan perorangan”. Oleh karena itu, menurut Pemohon, ratio decidendi \nMahkamah Konstitusi yang mendasarkan perluasan makna Pasal 308 ayat \n(1) UU KUHP pada hubungan kualifisir dengan Pasal 308 ayat (3) UU KUHP \ntidak memiliki dasar dogmatis maupun komparatif dalam hukum pidana. \nF. Preseden Hukum",
+      "start_line": 625,
+      "end_line": 633
+    },
+    {
+      "heading": "35. Bahwa sejarah penegakan hukum pidana di Indonesia menunjukkan bahwa",
+      "slug": "35-bahwa-sejarah-penegakan-hukum-pidana-di-indonesia-menunjukkan-bahwa",
+      "text": "tidak pernah terdapat permasalahan dalam penerapan norma Pasal 187 ayat \n(2) Kitab Undang-Undang Hukum Pidana Lama sebagai dasar dakwaan  \nterhadap setiap tindakan pembakaran, peledakan atau menyebabkan  banjir \nyang hanya mengakibatkan bahaya bagi keamanan perorangan.",
+      "start_line": 635,
+      "end_line": 638
+    },
+    {
+      "heading": "36. Bahwa secara konkret, efektivitas rumusan norma Pasal 187 K UHP Lama",
+      "slug": "36-bahwa-secara-konkret-efektivitas-rumusan-norma-pasal-187-k-uhp-lama",
+      "text": "dalam menjerat setiap orang yang melakukan tindakan pembakaran dan \nperbuatan sejenis yang hanya mengakibatkan bahaya bagi keamanan  \nperorangan tercermin dalam Putusan Mahkamah Agung Nomor 543 \nK/Pid/2023. (Bukti P-6) \n\n 19",
+      "start_line": 640,
+      "end_line": 645
+    },
+    {
+      "heading": "37. Bahwa dalam Putusan Mahkamah Agung Nomor 543 K/Pid/2023 ter sebut,",
+      "slug": "37-bahwa-dalam-putusan-mahkamah-agung-nomor-543-k-pid-2023-ter-sebut",
+      "text": "Mahkamah menolak permohonan kasasi yang diajukan oleh terdakwa.  \nDalam pertimbangannya dijelaskan bahwa perkara a quo  berawal dari \ntindakan pembakaran yang dilakukan oleh saudara Juliandi terhad ap \nsaudara Dordian Rambe, dengan menyiramkan bensin kepada korban \ndisusul menyalakan api mancis, yang mengakibatkan korban mengalami luka \nbakar 70 % (tujuh puluh persen). Atas tindakan tersebut, Jaksa Penuntut \nUmum mendakwa terdakwa dengan Pasal 187 ayat (2) KUHP Lama kare na \ndinilai telah melakukan perbuatan pembakaran yang membahayakan nyawa \nseseorang.",
+      "start_line": 647,
+      "end_line": 655
+    },
+    {
+      "heading": "38. Bahwa menurut Pemohon, dakwaan Jaksa Penuntut Umum tersebut telah",
+      "slug": "38-bahwa-menurut-pemohon-dakwaan-jaksa-penuntut-umum-tersebut-telah",
+      "text": "tepat menurut hukum. Hal tersebut karena tindakan pembakaran ya ng \ndilakukan oleh saudara Juliandi hanya terbukti membahayakan kea manan \nperorangan, yaitu terhadap saudara Dordian Rambe semata, tanpa \nmenimbulkan bahaya bagi keamanan umum banyak orang. Keadaan \ndemikian tetap dapat dijerat dengan Pasal 187 ayat (2) KUHP Lam a, \nmengingat norma tersebut tidak mensyaratkan adanya bahaya umum \nsebagai unsur deliknya.",
+      "start_line": 657,
+      "end_line": 663
+    },
+    {
+      "heading": "39. Bahwa dengan berubahnya rumusan norma Pasal 308 ayat (1) UU KUHP ,",
+      "slug": "39-bahwa-dengan-berubahnya-rumusan-norma-pasal-308-ayat-1-uu-kuhp",
+      "text": "yang diklaim sebagai adaptasi dari Pasal 187 ayat (1) dan (2) K UHP lama, \ntimbul keraguan di benak Pemohon mengenai keberlakuan norma ter sebut \nterhadap perkara dengan karakteristik yang sama. Menurut Pemoho n, \napabila peristiwa sebagaimana dalam Putusan Mahkamah Agung Nomor 543 \nK/Pid/2023 kembali terulang hari ini, menjadi tidak jelas apaka h Pasal 308 \nayat (1) UU KUHP masih dapat digunakan sebagai dasar pemidanaan , \nmengingat rumusan norma tersebut secara eksplisit mensyaratkan adanya \nunsur “membahayakan keamanan umum” sebagai bagian dari deliknya.",
+      "start_line": 665,
+      "end_line": 672
+    },
+    {
+      "heading": "40. Bahwa oleh karena itu, menurut Pemohon, perubahan rumusan d ari Pasal",
+      "slug": "40-bahwa-oleh-karena-itu-menurut-pemohon-perubahan-rumusan-d-ari-pasal",
+      "text": "187 ayat (2) KUHP Lama menjadi Pasal 308 ayat (1) UU KUHP justr u \nmenimbulkan ketidakpastian hukum mengenai dapat atau tidaknya t indakan \npembakaran yang hanya membahayakan keamanan perorangan dijerat \ndengan ketentuan tersebut. Kondisi demikian menunjukkan bahwa Pasal 308 \nayat (1) UU KUHP tidak lagi memiliki kejelasan norma sebagaiman a dimiliki \noleh Pasal 187 KUHP Lama, sehingga berpotensi menghambat penega kan \n\n 20\nhukum terhadap perbuatan yang secara nyata hanya membahayakan s atu \norang semata. \nG. Inkonsistensi Legislasi",
+      "start_line": 674,
+      "end_line": 684
+    },
+    {
+      "heading": "41. Bahwa dalam Putusan Mahkamah Konstitusi Nomor 80/PUU-XXIV/2 026",
+      "slug": "41-bahwa-dalam-putusan-mahkamah-konstitusi-nomor-80-puu-xxiv-2-026",
+      "text": "sebelum memasuki pertimbangan hukum mengenai pokok permohonan, \nMahkamah terlebih dahulu menjelaskan mengenai konsep dolus dan culpa \nsebagai bentuk kesalahan dalam hukum pidana. Menurut Pemohon, \npenjelasan tersebut menunjukkan pentingnya membedakan tindak pi dana \nyang dilakukan dengan sengaja dan tindak pidana yang dilakukan karena \nkelalaian.",
+      "start_line": 686,
+      "end_line": 691
+    },
+    {
+      "heading": "42. Bahwa setelah mencermati pertimbangan tersebut, Pemohon kem udian",
+      "slug": "42-bahwa-setelah-mencermati-pertimbangan-tersebut-pemohon-kem-udian",
+      "text": "menelusuri apakah terdapat ketentuan lain dalam Undang-Undang N omor 1 \nTahun 2023 yang mengatur tindak pidana pembakaran, ledakan, ata u \nmenyebabkan banjir yang terjadi karena kelalaian. Penelusuran t ersebut \ndilakukan karena pada dasarnya setiap norma pidana harus dipahami hanya \nmengatur perbuatan yang dilakukan secara sengaja, sampai undang-undang \nmenentukan lain.",
+      "start_line": 693,
+      "end_line": 698
+    },
+    {
+      "heading": "43. Bahwa Pemohon mendapati ketentuan tersebut diatur dalam Pas al 311",
+      "slug": "43-bahwa-pemohon-mendapati-ketentuan-tersebut-diatur-dalam-pas-al-311",
+      "text": "Undang-Undang Nomor 1 Tahun 2023 yang, sebagaimana dijelaskan dalam \nbuku Anotasi KUHP Nasional, karya Prof. Eddy O.S. Hiariej bersa ma Prof. \nTopo Santoso, merupakan adaptasi dari Pasal 188 KUHP Lama. Menariknya, \nsebagaimana Pasal 187 KUHP Lama tetap mempertahankan rumusan \nnorma pendahulunya, Pasal 311 UU KUHP juga tetap setia dan tida k \nmensyaratkan unsur bahaya umum dalam rumusan deliknya. Keadaan ini \nberbeda dengan Pasal 308 ayat (1) UU KUHP yang justru mensyarat kan \nadanya unsur “membahayakan keamanan umum”.",
+      "start_line": 700,
+      "end_line": 707
+    },
+    {
+      "heading": "44. Bahwa menurut Pemohon, perbedaan rumusan antara Pasal 308 ayat (1) dan",
+      "slug": "44-bahwa-menurut-pemohon-perbedaan-rumusan-antara-pasal-308-ayat-1-dan",
+      "text": "Pasal 311 UU KUHP menunjukkan adanya inkonsistensi dalam pembentukan \nundang-undang. Padahal kedua ketentuan tersebut sama-sama menga tur \ntindak pidana pembakaran dan perbuatan sejenis, yang dibedakan hanya \nberdasarkan bentuk kesalahannya, yaitu kesengajaan dan kelalaia n. \nInkonsistensi tersebut berpotensi menimbulkan ketidakpastian hu kum dan \ntidak sejalan dengan prinsip lex stricta. \n\n 21",
+      "start_line": 709,
+      "end_line": 716
+    },
+    {
+      "heading": "45. Bahwa Mahkamah Konstitusi dalam Putusan Nomor 66/PUU-XXIV/2 026",
+      "slug": "45-bahwa-mahkamah-konstitusi-dalam-putusan-nomor-66-puu-xxiv-2-026",
+      "text": "tentang inkonsistensi frasa “kerugian keuangan negara” menekank an \npentingnya menjaga konsistensi rumusan norma demi menjamin kepa stian \nhukum. Oleh karena itu, menurut Pemohon, pertimbangan Mahkamah \ntersebut patut diberlakukan secara mutatis mutandis dalam perkara a quo, \nsehingga inkonsistensi antara Pasal 308 ayat (1) dan Pasal 311 UU KUHP \nperlu dipertimbangkan dalam menilai konstitusionalitas norma ya ng \ndimohonkan. \nH. Konsekuensi Hukum",
+      "start_line": 718,
+      "end_line": 725
+    },
+    {
+      "heading": "46. Bahwa mengingat Pasal 308 ayat (1) UU KUHP mengatur laranga n",
+      "slug": "46-bahwa-mengingat-pasal-308-ayat-1-uu-kuhp-mengatur-laranga-n",
+      "text": "membahayakan keamanan umum bagi orang atau barang, serta mengin gat \nMahkamah Konstitusi dalam Putusan Nomor 80/PUU-XXIV/2026 \nmenyatakan bahwa larangan membahayakan keamanan umum bagi orang  \nmencakup pula larangan membahayakan keamanan perorangan, maka \nmenurut Pemohon, secara mutatis mutandis  penafsiran tersebut juga \nmengimplisitkan bahwa larangan membahayakan keamanan umum bagi \nbarang mencakup pula larangan membahayakan keamanan terhadap pe r-\nsatuan barang.",
+      "start_line": 727,
+      "end_line": 734
+    },
+    {
+      "heading": "47. Bahwa menurut Pemohon, konsekuensi penafsiran demikian bert entangan",
+      "slug": "47-bahwa-menurut-pemohon-konsekuensi-penafsiran-demikian-bert-entangan",
+      "text": "dengan original intent  pembentuk norma, sebagaimana tercermin dalam \nMemorie van Toelichting  Artikel 157 WvS Belanda yang merupakan \npendahulu historis Pasal 187 KUHP Lama dan Pasal 308 UU KUHP ya ng \nmenyatakan; (Bukti P-7) \nWaar noch de algemeene veiligheid gevaar loopt, noch een bedriegelijk \noogmerk aanwezig is, kan de brandstichting in eens anders goed, als \nvernieling of beschadiging door middel van vuur of volgens art. 379 [350] \nof volgens art. 383 [352] worden gestraft. \nApabila baik keselamatan umum tidak terancam, maupun tidak terdapat \nmaksud penipuan, maka pembakaran terhadap barang milik orang lain \ndapat dipidana sebagai perusakan atau perusakan sebagian dengan \nmenggunakan api, baik berdasarkan Pasal 379 [350] maupun \nberdasarkan Pasal 383 [352].",
+      "start_line": 736,
+      "end_line": 748
+    },
+    {
+      "heading": "48. Bahwa dalam Memorie van Toelichting tersebut secara tegas dijelaskan",
+      "slug": "48-bahwa-dalam-memorie-van-toelichting-tersebut-secara-tegas-dijelaskan",
+      "text": "bahwa Artikel 157 ayat (1) WvS Belanda tidak dimaksudkan untuk diterapkan \nterhadap tindakan pembakaran atau perbuatan sejenis yang tidak \nmenimbulkan gemeen gevaar  (bahaya umum). Dengan demikian, bahaya \n\n 22\nyang hanya ditujukan terhadap satu barang tidak termasuk dalam ruang \nlingkup norma tersebut.",
+      "start_line": 750,
+      "end_line": 756
+    },
+    {
+      "heading": "49. Bahwa terhadap tindakan pembakaran atau perbuatan sejenis y ang hanya",
+      "slug": "49-bahwa-terhadap-tindakan-pembakaran-atau-perbuatan-sejenis-y-ang-hanya",
+      "text": "membahayakan satu barang, pembentuk undang-undang menghendaki agar \nperbuatan tersebut diproses menggunakan ketentuan mengenai tind ak \npidana perusakan barang yang berada di bawah rezim kejahatan te rhadap \nbarang, bukan menggunakan delik-delik yang berada di bawah rezi m \nkejahatan terhadap keamanan publik.",
+      "start_line": 758,
+      "end_line": 762
+    },
+    {
+      "heading": "50. Bahwa secara a contrario, apabila Memorie van Toelichting secara tegas dan",
+      "slug": "50-bahwa-secara-a-contrario-apabila-memorie-van-toelichting-secara-tegas-dan",
+      "text": "tertulis, menyatakan bahwa tindakan yang hanya membahayakan sat u \nbarang tidak dimaksudkan untuk dijerat dengan Artikel 157 ayat (1) Wetboek \nvan Strafrecht  Belanda karena norma tersebut mensyaratkan adanya \ngemeen gevaar (bahaya umum), sebagaimana Pasal 308 ayat (1) UU KUHP, \nmaka tidak terdapat dasar bagi Mahkamah untuk menyimpulkan bahw a \nlarangan membahayakan keamanan umum juga mencakup larangan \nmembahayakan keamanan perorangan, karena yang demikian, secara \nmutatis mutandis , mengimplisitkan larangan membahayakan per-satuan \nbarang, yang mana bertentangan dengan memorandum penjelasan.",
+      "start_line": 764,
+      "end_line": 772
+    },
+    {
+      "heading": "51. Bahwa menurut Pemohon, Putusan Mahkamah Konstitusi Nomor 80 /PUU-",
+      "slug": "51-bahwa-menurut-pemohon-putusan-mahkamah-konstitusi-nomor-80-puu",
+      "text": "XXIV/2026 tidak hanya bertentangan secara a contrario  dengan \nmemorandum penjelasan Pasal 157 WvS Belanda selaku pendahulu Pa sal \n187 KUHP Lama dan Pasal 308 UU KUHP , tetapi konsekuensi Putusan  \ntersebut juga bertentangan secara a contrario dengan doktrin hukum yang \nberlaku di Indonesia mengenai Pasal 187 KUHP Lama.",
+      "start_line": 774,
+      "end_line": 778
+    },
+    {
+      "heading": "52. Bahwa memorandum penjelasan tersebut secara tegas menyataka n bahwa",
+      "slug": "52-bahwa-memorandum-penjelasan-tersebut-secara-tegas-menyataka-n-bahwa",
+      "text": "Pasal 157 ayat (1) WvS mengenai bahaya umum terhadap barang tid ak \ndimaksudkan untuk diterapkan terhadap tindakan pembakaran dan \nsebagainya yang hanya membahayakan satu barang. Dengan demikian , \nkonsep “bahaya umum” sejak semula tidak dimaksudkan untuk menja ngkau \nbahaya yang hanya mengenai satu objek tunggal.",
+      "start_line": 780,
+      "end_line": 784
+    },
+    {
+      "heading": "53. Bahwa pemahaman tersebut juga tercermin dalam doktrin hukum Indonesia",
+      "slug": "53-bahwa-pemahaman-tersebut-juga-tercermin-dalam-doktrin-hukum-indonesia",
+      "text": "mengenai Pasal 187 KUHP Lama, melalui R. Soesilo dalam komentar nya \nterhadap Pasal 187 ayat (1) KUHP Lama, beliau menyatakan bahwa delik \n\n 23\ntersebut hanya diterapkan terhadap tindakan yang membahayakan d ua \nbarang atau lebih. Dengan demikian, “bahaya umum” tidak semata- mata \nmenunjuk pada adanya bahaya terhadap suatu barang, melainkan ba haya \nyang melampaui satu objek tunggal.",
+      "start_line": 786,
+      "end_line": 793
+    },
+    {
+      "heading": "54. Bahwa pertanyaannya kemudian, andaikata pada masa R. Soesilo Pasal 187",
+      "slug": "54-bahwa-pertanyaannya-kemudian-andaikata-pada-masa-r-soesilo-pasal-187",
+      "text": "ayat (2) KUHP Lama dirumuskan dengan frasa “bahaya umum” sebagaimana \nPasal 187 ayat (1), bukankah dengan konstruksi yang sama beliau juga akan \nmengatakan bahwa delik tersebut hanya dapat dikenakan ketika ti ndakan \npembakaran membahayakan dua orang atau lebih. Sebab, tidak terd apat \nalasan logis untuk memberikan pengertian berbeda terhadap frasa  y a n g  \nsama.",
+      "start_line": 795,
+      "end_line": 800
+    },
+    {
+      "heading": "55. Bahwa dengan demikian, apa jadinya bilamana hari ini R. Soesilo mengetahui",
+      "slug": "55-bahwa-dengan-demikian-apa-jadinya-bilamana-hari-ini-r-soesilo-mengetahui",
+      "text": "bahwa Pasal 308 ayat (1) UU KUHP telah merealisasikan keadaan h ipotetis \ntersebut, yakni menggunakan frasa “membahayakan keamanan umum” \nuntuk mencakup bahaya terhadap orang dan Barang sekaligus, sehi ngga \ntidak mencakup pula keadaan yang hanya membahayakan keamanan sa tu \norang, bukankah beliau akan mendukung argumentasi Pemohon. Menu rut \nPemohon, konsekuensi demikian menunjukkan adanya penyimpangan d ari \npengertian “bahaya umum” sebagaimana dipahami dalam doktrin ter hadap \nPasal 187 KUHP Lama. \nI. Isu Konstitusional",
+      "start_line": 802,
+      "end_line": 810
+    },
+    {
+      "heading": "56. Bahwa Negara Republik Indonesia merupakan negara hukum sebagaimana",
+      "slug": "56-bahwa-negara-republik-indonesia-merupakan-negara-hukum-sebagaimana",
+      "text": "ditegaskan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun",
+      "start_line": 812,
+      "end_line": 812
+    },
+    {
+      "heading": "1945. Sebagai negara hukum, setiap pembentukan norma pidana har us",
+      "slug": "1945-sebagai-negara-hukum-setiap-pembentukan-norma-pidana-har-us",
+      "text": "disusun secara jelas, tegas, dan tidak menimbulkan multitafsir,  sehingga \nmampu memberikan kepastian hukum dan perlindungan terhadap hak- hak \nkonstitusional warga negara.",
+      "start_line": 814,
+      "end_line": 816
+    },
+    {
+      "heading": "57. Bahwa hak atas pengakuan, jaminan, perlindungan, dan kepast ian hukum",
+      "slug": "57-bahwa-hak-atas-pengakuan-jaminan-perlindungan-dan-kepast-ian-hukum",
+      "text": "yang adil sebagaimana diatur dalam Pasal 28D ayat (1) UUD NRI Tahun 1945 \nmerupakan salah satu prinsip fundamental dalam hukum pidana. Oleh karena \nitu, setiap rumusan tindak pidana harus memenuhi asas legalitas, khususnya \nasas lex stricta, agar masyarakat dapat mengetahui secara pasti batas-batas \n\n 24\nperbuatan yang dilarang sehing ga, memiliki pedoman yang jelas k etika \nhendak melaporkan peristiwa pidana.",
+      "start_line": 818,
+      "end_line": 825
+    },
+    {
+      "heading": "58. Bahwa yang dimaksud dengan kepastian hukum dalam UUD NRI Ta hun",
+      "slug": "58-bahwa-yang-dimaksud-dengan-kepastian-hukum-dalam-uud-nri-ta-hun",
+      "text": "1945, sebagaimana terbaca dalam literatur-literatur hukum yang ada, bukan \nhanya di Indonesia tetapi juga dalam literatur hukum dunia, sal ah satunya \nialah prinsip a fortiori, suatu metode penalaran hukum yang pada pokoknya \nmenyatakan bahwa apabila suatu ketentuan norma berlaku terhadap  \nkeadaan yang memiliki alasan atau tingkat pembebanan yang lebih  ringan, \nmaka ketentuan tersebut secara otomatis dapat diterapkan pula t erhadap \nkeadaan yang memiliki alasan yang lebih berat.",
+      "start_line": 827,
+      "end_line": 833
+    },
+    {
+      "heading": "59. Bahwa dalam Putusan Mahkamah Konstitusi Nomor 80/PUU-XXIV/2 026,",
+      "slug": "59-bahwa-dalam-putusan-mahkamah-konstitusi-nomor-80-puu-xxiv-2-026",
+      "text": "yang terjadi justru merupakan pembalikan dari prinsip a fortiori it u  s e n d i r i .  \nMahkamah menilai bahwa larangan membahayakan keamanan umum \nsecara otomatis ( a fortiori ) telah mencakup pula larangan membahayakan \nkeamanan perorangan, sehingga permohonan Pemohon untuk memaknai  \n“termasuk membahayakan keamanan perorangan” dianggap tidak beralasan \nkarena bersifat redundan, yakni hanya meminta sesuatu yang menu rut \nMahkamah telah otomatis tercakup.",
+      "start_line": 835,
+      "end_line": 841
+    },
+    {
+      "heading": "60. Bahwa padahal, prinsip a fortiori tidak bekerja demikian dalam Pasal 308 ayat",
+      "slug": "60-bahwa-padahal-prinsip-a-fortiori-tidak-bekerja-demikian-dalam-pasal-308-ayat",
+      "text": "(1) UU KUHP, karena argumentum a fortiori  justru mengandaikan adanya \nkeadaan yang lebih lemah sebagai dasar untuk menjangkau keadaan  yang \nlebih serius. Sebagai contoh, karena Pasal 187 ayat (2) KUHP Lama secara \nkhusus melarang perbuatan yang membahayakan keamanan perorangan , \nmaka secara a fortiori larangan tersebut telah mencakup keadaan yang lebih \nluas, yaitu larangan membahayakan keamanan umum. Dengan demikia n, \ntidak dapat dibalik bahwa karena suatu norma melarang membahaya kan \nkeamanan umum, maka norma tersebut secara otomatis mencakup keadaan \nyang hanya membahayakan keamanan satu orang.",
+      "start_line": 843,
+      "end_line": 851
+    },
+    {
+      "heading": "61. Bahwa dengan demikian, menurut Pemohon, permohonan dalam Pe rkara",
+      "slug": "61-bahwa-dengan-demikian-menurut-pemohon-permohonan-dalam-pe-rkara",
+      "text": "Nomor 80/PUU-XXIV/2026 baru dapat dinilai tidak beralasan karen a \nredundan apabila misalnya yang dimohonkan ialah norma sebagaima na \nPasal 187 ayat (2) KUHP Lama, dengan meminta agar frasa “mendatangkan \nbahaya maut bagi orang lain” dinyatakan inkonstitusional bersya rat \n\n 25\nsepanjang tidak dimaknai “termasuk membahayakan keamanan umum b agi \norang”. Permohonan yang demikian, tentu redundan karena secara a fortiori \nkeadaan yang lebih ringan telah dengan sendirinya mencakup keadaan yang \nlebih berat.",
+      "start_line": 853,
+      "end_line": 862
+    },
+    {
+      "heading": "62. Bahwa keadaan tersebut justru berbeda dengan permohonan Pem ohon",
+      "slug": "62-bahwa-keadaan-tersebut-justru-berbeda-dengan-permohonan-pem-ohon",
+      "text": "dalam Perkara Nomor 80/PUU-XXIV/2026 ataupun dalam perkara ini, karena \nyang dimohonkan ialah hal yang sebaliknya yakni perluasan dari \n“membahayakan keamanan umum” (lebih berat) kepada “membahayakan  \nkeamanan perorangan” (lebih ringan), yang tidak serta-merta dapat diperoleh \nmelalui prinsip a fortiori , melainkan butuh pada tindakan legislasi atau \ntinjauan yudisial.",
+      "start_line": 864,
+      "end_line": 869
+    },
+    {
+      "heading": "63. Bahwa pertanyaan dan hipotesis hukum yang telah dikemukakan",
+      "slug": "63-bahwa-pertanyaan-dan-hipotesis-hukum-yang-telah-dikemukakan",
+      "text": "sebelumnya merupakan alasan utama yang mendorong Pemohon \nmengajukan pengujian konstitusional terhadap Pasal a quo . Menurut \nPemohon, terdapat causaal verband yang jelas antara berlakunya Pasal a \nquo dengan kerugian konstitusional yang dialami Pemohon, yaitu hil angnya \nkepastian hukum yang adil sebagaimana dijamin dalam Pasal 28D a yat (1) \nUUD NRI Tahun 1945.",
+      "start_line": 871,
+      "end_line": 876
+    },
+    {
+      "heading": "64. Bahwa Pasal a quo menggabungkan unsur bahaya terhadap orang dan",
+      "slug": "64-bahwa-pasal-a-quo-menggabungkan-unsur-bahaya-terhadap-orang-dan",
+      "text": "barang ke dalam satu rumusan, yaitu “membahayakan keamanan umum bagi \norang atau barang”. Menurut Pemohon, perumusan tersebut mengabu rkan \nbatas-batas norma yang sebelumnya telah dibedakan secara jelas, sehingga \nmemutus hubungan sistematis antara Pasal a quo  dengan norma-norma \nyang menjadi sumber historisnya dan membuka ruang bagi perbedaa n \npenafsiran.",
+      "start_line": 878,
+      "end_line": 883
+    },
+    {
+      "heading": "65. Bahwa setiap norma hukum pidana harus dipahami secara selar as dengan",
+      "slug": "65-bahwa-setiap-norma-hukum-pidana-harus-dipahami-secara-selar-as-dengan",
+      "text": "norma lain yang sejenis, baik dari segi sejarah pembentukannya maupun \nfungsi pengaturannya. Oleh karena itu, apabila suatu norma baru  dibentuk \nsebagai transformasi dari norma sebelumnya, maka perubahan ters ebut \nseharusnya tetap menjaga konsistensi makna, kejelasan unsur del ik, dan \nkesinambungan redaksi norma.",
+      "start_line": 885,
+      "end_line": 889
+    },
+    {
+      "heading": "66. Bahwa menurut Pemohon, Pasal a quo tidak hanya menimbulkan persoalan",
+      "slug": "66-bahwa-menurut-pemohon-pasal-a-quo-tidak-hanya-menimbulkan-persoalan",
+      "text": "dalam perumusannya, tetapi juga menimbulkan persoalan konstitus ional \n\n 26\nkarena menghilangkan kepastian mengenai batas antara bahaya yan g \nbersifat umum dan bahaya yang hanya bersifat individual. Akibat nya, warga \nnegara tidak lagi dapat memperkirakan secara pasti apakah suatu perbuatan \ntermasuk dalam ruang lingkup Pasal a quo , sehingga hak atas kepastian \nhukum yang adil sebagaimana dijamin Pasal 28D ayat (1) UUD NRI Tahun \n1945 menjadi berpotensi dilanggar.",
+      "start_line": 891,
+      "end_line": 899
+    },
+    {
+      "heading": "67. Bahwa dengan demikian, menurut Pemohon, rumusan Pasal a quo t i d a k",
+      "slug": "67-bahwa-dengan-demikian-menurut-pemohon-rumusan-pasal-a-quo-t-i-d-a-k",
+      "text": "memenuhi asas lex stricta  dan memiliki hubungan sebab akibat dengan \nkerugian konstitusional yang dialami Pemohon, berupa hilangnya kepastian \nhukum dan terganggunya efektivitas hak Pemohon untuk melaporkan  suatu \ntindak pidana. Kerugian tersebut bersifat potensial namun nyata  secara \nkonstitusional, karena setiap warga negara, termasuk Pemohon, b erhak \nmemperoleh perlindungan hukum pidana yang jelas, pasti, dan dap at \ndiprediksi. \nOleh karena itu, pelanggaran terhadap asas lex stricta dalam ketentuan a quo \ntidak dapat dipandang semata-mata sebagai persoalan perumusan n orma, \nmelainkan sebagai persoalan konstitusional yang secara langsung  \nmenyentuh kedudukan hukum Pemo hon, sehingga Pemohon memiliki \nkepentingan konstitusional yang sah dan relevan untuk memohonka n \npengujian konstitusionalitas ketentuan a quo  di hadapan Mahkamah \nKonstitusi. \nIV. PETITUM \nBerdasarkan seluruh uraian sebagaimana tersebut di atas, Pemohon memohon \nkepada Mahkamah Konstitusi untuk memutus hal-hal sebagai berikut:",
+      "start_line": 901,
+      "end_line": 917
+    },
+    {
+      "heading": "2. Menyatakan Pasal 308 ayat (1) Undang-Undang Nomor 1 Tahun 20 23",
+      "slug": "2-menyatakan-pasal-308-ayat-1-undang-undang-nomor-1-tahun-20-23",
+      "text": "(Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambaha n \nLembaran Negara Republik Indonesia Nomor 6842) bertentangan den gan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan ti dak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang ti dak \ndimaknai “termasuk membahayakan nyawa Perorangan”.",
+      "start_line": 920,
+      "end_line": 924
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \n\n 27\nAtau \nApabila Mahkamah Konstitusi berpendapat lain, mohon putusan yan g seadil-\nadilnya (ex aequo et bono) \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-7, sebagai \nberikut:",
+      "start_line": 926,
+      "end_line": 934
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 937,
+      "end_line": 937
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Nomor 1 Tahun 2023 tentan g",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-nomor-1-tahun-2023-tentan-g",
+      "text": "Kitab Undang-Undang Hukum Pidana;",
+      "start_line": 939,
+      "end_line": 939
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Stragesetzbuch fur das Deutsche Reich (Hans",
+      "slug": "5-bukti-p-5-fotokopi-stragesetzbuch-fur-das-deutsche-reich-hans",
+      "text": "Rudolf);",
+      "start_line": 942,
+      "end_line": 942
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Memorie van Toelichting u n t u k Wetboek van",
+      "slug": "7-bukti-p-7-fotokopi-memorie-van-toelichting-u-n-t-u-k-wetboek-van",
+      "text": "Strafrecht 1881. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 945,
+      "end_line": 948
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia \nNomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) h uruf a Undang-\n\n 28\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu  norma Pasal 308 ayat (1) Undang-\nUndang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pid ana \n(Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6842, selanjutnya disebut UU 1/ 2023) terhadap \nUUD NRI Tahun 1945 maka Mahkamah berwenang mengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 950,
+      "end_line": 981
+    },
+    {
+      "heading": "d. lembaga negara.",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya Undang -Undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n\n 29\n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, telah berpend irian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  d i a n g g a p  \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 984,
+      "end_line": 1004
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1006,
+      "end_line": 1007
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] sampai dengan Paragraf [3.4] di atas, \nselanjutnya Mahkamah akan mempertimbangkan kedudukan hukum Pemo hon \nsebagai berikut:",
+      "start_line": 1009,
+      "end_line": 1016
+    },
+    {
+      "heading": "1. Bahwa norma undang-undang yang dimohonkan pengujian dalam pe rmohonan",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-pengujian-dalam-pe-rmohonan",
+      "text": "a quo adalah norma Pasal 308 ayat (1) UU 1/2023 yang menyatakan seba gai \nberikut: \nSetiap orang yang melakukan perbuatan yang mengakibatkan kebakaran, \nledakan, atau banjir sehingga membahayakan keamanan umum bagi \norang atau Barang, dipidana dengan pidana penjara paling lama 9  \n(sembilan) tahun.",
+      "start_line": 1018,
+      "end_line": 1024
+    },
+    {
+      "heading": "2. Bahwa Pemohon menjelaskan memiliki hak konstitusional sebaga imana dijamin",
+      "slug": "2-bahwa-pemohon-menjelaskan-memiliki-hak-konstitusional-sebaga-imana-dijamin",
+      "text": "dalam Pasal 28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 1026,
+      "end_line": 1026
+    },
+    {
+      "heading": "3. Bahwa sebagai perseorangan warga negara Indonesia yang memil iki hak",
+      "slug": "3-bahwa-sebagai-perseorangan-warga-negara-indonesia-yang-memil-iki-hak",
+      "text": "konstitusional sebagaimana terseb ut di atas, Pemohon memiliki h ak untuk \n\n 30\nmengajukan dan membawa ke hadapan persidangan setiap orang yang terbukti \nmelakukan tindakan pembakaran, peledakan, atau pembanjiran, dal am batas \ndan ruang lingkup perbuatan yang secara objektif menimbulkan ba haya \nterhadap keamanan pribadi semata, tanpa disertai akibat atau po tensi akibat \nyang meluas sehingga dapat dikualifikasikan sebagai perbuatan y ang \nmembahayakan keamanan umum.",
+      "start_line": 1028,
+      "end_line": 1036
+    },
+    {
+      "heading": "4. Bahwa dalam kondisi tersebut, Pasal 308 ayat (1) UU 1/2023 t idak dapat",
+      "slug": "4-bahwa-dalam-kondisi-tersebut-pasal-308-ayat-1-uu-1-2023-t-idak-dapat",
+      "text": "diberlakukan karena tidak terpenuhinya unsur barang milik orang  lain maupun \nunsur membahayakan keamanan umum. Sebaliknya dalam hal diberlak ukan, \nPasal a quo  dengan rumusan delik yang inkonsisten telah membuka ruang \nperbedaan penafsiran dalam proses penegakan hukum. Ketidakpasti an norma \ntersebut berpotensi menyebabkan laporan yang diajukan Pemohon t idak \nditindaklanjuti dengan alasan tidak terpenuhinya unsur delik. D alam hal ini, \nandaikata Pemohon mengalami, melihat, menyaksikan atau malah me njadi \nkorban atas suatu tindak pembakaran, peledakan atau pembanjiran , yang \nhanya membahayakan keamanan perorangan tidak ada kepastian hukum untuk \ndiproses.",
+      "start_line": 1038,
+      "end_line": 1047
+    },
+    {
+      "heading": "5. Bahwa dengan demikian, hak konstitusional Pemohon untuk memp eroleh",
+      "slug": "5-bahwa-dengan-demikian-hak-konstitusional-pemohon-untuk-memp-eroleh",
+      "text": "kepastian hukum yang adil tidak hanya mengalami hambatan, tetap i juga \nkehilangan makna substansinya. Oleh karena itu, kerugian konsti tusional yang \ndialami Pemohon tersebut bersifat potensial karena berdasarkan penalaran \nyang wajar, kerugian tersebut dapat dipastikan akan terjadi apa bila ketentuan \nyang dimohonkan pengujian tetap berlaku.",
+      "start_line": 1049,
+      "end_line": 1053
+    },
+    {
+      "heading": "6. Bahwa kerugian konstitusional tidak harus bersifat aktual da n telah terjadi,",
+      "slug": "6-bahwa-kerugian-konstitusional-tidak-harus-bersifat-aktual-da-n-telah-terjadi",
+      "text": "melainkan cukup apabila secara logis dan rasional dapat dipastikan akan terjadi \nakibat berlakunya suatu norma. Dalam hal ini, ketidakpastian ru musan delik \ndalam Pasal 308 ayat (1) UU 1/2023 secara langsung menciptakan risiko bahwa \nhak Pemohon melalui mekanisme pelaporan pidana menjadi ilusi normatif. Oleh \nkarena itu, dengan dikabulkannya Permohonan a quo , potensi kerugian \nkonstitusional seperti yang didalilkan tidak akan terjadi \nBerdasarkan uraian dalam menjelaskan kedudukan hukum tersebut d i \natas, menurut Mahkamah, Pemohon telah dapat membuktikan dirinya  sebagai \nperseorangan warga negara Indonesia [vide Bukti P-1] yang memil iki hak \nkonstitusional sebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI Tahun 1945 \n\n 31\nyang hak tersebut dianggap dirugikan dengan berlakunya norma Pasal 308 ayat (1) \nUU 1/2023 yang dimohonkan pengujian. Anggapan kerugian hak kons titusional \nPemohon tersebut bersifat spesifik dan potensial karena norma P asal 308 ayat (1) \nUU 1/2023 telah membuka ruang perbedaan penafsiran dalam penega kan hukum. \nDalam hal ini, andaikata Pemohon mengalami, melihat, menyaksika n atau menjadi \nkorban atas suatu tindak pidana kebakaran, ledakan, atau banjir , yang hanya \nmembahayakan keamanan perorangan dalam hal dilaporkan sebagai tindak pidana \nmaka berpotensi tidak diproses dengan alasan tidak terpenuhinya  unsur delik \nkarena norma Pasal 308 ayat (1) UU 1/2023 tidak memasukkan unsu r \nmembahayakan nyawa perorangan. Oleh karena itu, Pemohon telah d apat \nmenjelaskan adanya hubungan sebab-akibat ( causal verband ) antara anggapan \nkerugian hak konstitusional yang akan dialami dengan berlakunya norma Pasal 308 \nayat (1) UU 1/2023, sehingga apabila permohonan dikabulkan oleh  M a h k a m a h  \nmaka anggapan kerugian hak konstitusional tersebut tidak akan t erjadi. Dengan \ndemikian, terlepas dari terbukti atau tidak terbuktinya ihwal i nkonstitusionalitas \nnorma yang dimohonkan pengujian, menurut Mahkamah Pemohon memil iki \nkedudukan hukum untuk bertindak sebagai pemohon dalam mengajuka n \npermohonan a quo. \n[3.6] Menimbang bahwa oleh karena Mahkamah berwenang untuk mengadili \npermohonan a quo dan Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai pemohon dalam mengajukan permohonan  a quo , selanjutnya Mahkamah \nmempertimbangkan pokok permohonan. \nPokok Permohonan \n[3.7] Menimbang bahwa Pemohon mendalilk an norma Pasal 308 ayat (1) UU  \n1/2023 bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun 1945, dengan dalil-\ndalil (selengkapnya dimuat dalam bagian Duduk Perkara) yang apa bila dipahami \ndan dirumuskan Mahkamah pada pokoknya sebagai berikut:",
+      "start_line": 1055,
+      "end_line": 1093
+    },
+    {
+      "heading": "1. Bahwa menurut Pemohon, permohonan a quo t i d a k ne bis in idem dengan",
+      "slug": "1-bahwa-menurut-pemohon-permohonan-a-quo-t-i-d-a-k-ne-bis-in-idem-dengan",
+      "text": "permohonan sebelumnya karena alasan-alasan permohonan a quo \nmenambahkan preseden hukum konkret yang menggambarkan kekosonga n \nhukum akibat ambiguitas rumusan norma Pasal 308 ayat (1) UU 1/2 023, jika \ndibandingkan dengan putusan Mahkamah lain berkaitan dengan inko nsistensi \n\n 32\nrumusan norma, dan menguraikan konsekuensi hukum dari putusan Mahkamah \nsebelumnya;",
+      "start_line": 1095,
+      "end_line": 1102
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, klaim yang menyatakan Pasal 308 ayat (1) UU",
+      "slug": "2-bahwa-menurut-pemohon-klaim-yang-menyatakan-pasal-308-ayat-1-uu",
+      "text": "1/2023 merupakan adaptasi dari Pasal 187 ayat (2) KUHP lama tid ak memiliki \ndasar yang memadai. Klaim tersebut mengabaikan prinsip lex stricta dan \nmengesampingkan pentingnya konsistensi terhadap rumusan asli da n original \nintent pembentuk norma. Norma Pasal 308 ayat (1) UU 1/2023 tidak lagi  \nmemiliki kejelasan norma sebagaimana norma aslinya, Pasal 187 K UHP lama, \nsehingga berpotensi menghambat penegakan hukum terhadap perbuatan yang \nsecara nyata hanya membahayakan satu orang semata.",
+      "start_line": 1104,
+      "end_line": 1110
+    },
+    {
+      "heading": "3. Bahwa menurut Pemohon, perbuatan yang hanya menimbulkan baha ya",
+      "slug": "3-bahwa-menurut-pemohon-perbuatan-yang-hanya-menimbulkan-baha-ya",
+      "text": "terhadap satu orang tidak memenuhi unsur sebagaimana dipersyaratkan dalam \nPasal 308 ayat (1) UU 1/2023. Dengan demikian, unsur membahayak an \nkeamanan umum merupakan batas normatif yang menentukan dapat at au \ntidaknya suatu tindakan pembakaran, ledakan, atau menyebabkan banjir dijerat \nberdasarkan ketentuan tersebut.",
+      "start_line": 1112,
+      "end_line": 1116
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon, ratio decidendi Putusan Mahkamah Konstitusi",
+      "slug": "4-bahwa-menurut-pemohon-ratio-decidendi-putusan-mahkamah-konstitusi",
+      "text": "Nomor 80/PUU-XXIV/2026 tidak tepat karena mencampuradukkan anta ra \nkeadaan yang bersifat deskriptif (tindakan) dengan keadaan yang  b e r s i f a t  \nnormatif (larangan). Dengan kata lain, meskipun secara faktual tindakan yang \nmembahayakan keamanan umum dapat mencakup tindakan yang \nmembahayakan keamanan perorangan, namun larangan terhadap perbu atan \nyang membahayakan keamanan umum belum tentu mencakup larangan \nterhadap perbuatan yang hanya membahayakan keamanan perorangan.",
+      "start_line": 1118,
+      "end_line": 1124
+    },
+    {
+      "heading": "5. Bahwa menurut Pemohon, penafsiran yang mendasarkan diri pada hubungan",
+      "slug": "5-bahwa-menurut-pemohon-penafsiran-yang-mendasarkan-diri-pada-hubungan",
+      "text": "kualifisir antara norma Pasal 308 ayat (1) UU 1/2023 dan Pasal 308 ayat (3) UU \n1/2023 tidak memiliki pijakan dalam dogma hukum pidana. Keberad aan suatu \nnorma yang mengatur akibat berupa hilangnya nyawa seseorang tidak dengan \nsendirinya mengubah atau memperluas makna unsur membahayakan \nkeamanan umum yang secara tegas dirumuskan sebagai unsur delik, sehingga \nmencakup juga membahayakan keamanan perseorangan.",
+      "start_line": 1126,
+      "end_line": 1131
+    },
+    {
+      "heading": "6. Bahwa menurut Pemohon, norma Pasal 308 ayat (1) UU 1/2023 ti dak hanya",
+      "slug": "6-bahwa-menurut-pemohon-norma-pasal-308-ayat-1-uu-1-2023-ti-dak-hanya",
+      "text": "menimbulkan persoalan dalam perumusannya karena tidak memenuhi asas lex \nstricta tetapi juga menghilangkan batas antara bahaya yang bersifat umum dan \n\n 33\nbahaya yang hanya bersifat individual atau perorangan. Akibatny a, warga \nnegara tidak lagi dapat memperkirakan secara pasti apakah suatu  perbuatan \ntermasuk dalam ruang lingkup Pasal a quo, sehingga hak atas kepastian hukum \nyang adil sebagaimana dijamin Pasal 28D ayat (1) UUD NRI Tahun 1945 \nmenjadi berpotensi dilanggar. \nBahwa berdasarkan dalil-dalil sebagaimana tersebut di atas, Pem ohon \ndalam petitumnya memohon kepada Mahkamah agar menyatakan Pasal 308 ayat \n(1) UU 1/2023 bertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai \nkekuatan hukum mengikat secara bersyarat sepanjang tidak dimakn ai “termasuk \nmembahayakan nyawa perorangan”. \n[3.8] Menimbang bahwa untuk membuktikan dalilnya, Pemohon mengajukan \nalat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-7 (selengkapnya \ndimuat dalam bagian Duduk Perkara). \n[3.9] Menimbang bahwa oleh karena permohonan Pemohon a quo telah jelas, \nMahkamah berpendapat tidak terdapat urgensi dan relevansinya un tuk meminta \nketerangan pihak-pihak sebagaimana disebutkan dalam Pasal 54 UU MK. \n[3.10]  Menimbang bahwa sebelum mempertimbangkan lebih lanjut pokok \npermohonan a quo , Mahkamah akan mempertimbangkan perihal dapat atau \ntidaknya Pasal 308 ayat (1) UU 1/2023 diajukan permohonan kembali, karena norma \npasal a quo pernah dimohonkan pengujian konstitusionalitasnya dan telah di putus \ndalam Putusan Mahkamah Konstitusi Nomor 80/PUU-XXIV/2026 yang d iucapkan \ndalam sidang pleno terbuka untuk umum pada tanggal 16 April 202 6 dengan amar \nputusan menyatakan menolak permohonan Pemohon untuk seluruhnya. Berkenaan \ndengan hal tersebut, Mahkamah terlebih dahulu perlu menilai ket erpenuhan syarat \nyang termaktub dalam Pasal 60 UU MK dan Pasal 72 Peraturan Mahk amah \nKonstitusi Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perka ra Pengujian \nUndang-Undang (PMK 7/2025), yang masing-masing menyatakan sebagai berikut. \nPasal 60 UU MK: \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang-undang \nyang telah diuji, tidak dapat dimohonkan pengujian kembali. \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecual ikan jika \nmateri muatan dalam Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 yang dijadikan dasar pengujian berbeda. \n\n 34\nPasal 72 PMK 7/2025: \n(1) Terhadap materi muatan, ayat, pasal, dan/atau bagian dalam undang-undang \natau Perppu yang telah diuji, tidak dapat dimohonkan pengujian kembali. \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecual ikan jika \nmateri muatan dalam UUD NRI Tahun 1945 yang dijadikan dasar pen gujian \nberbeda atau terdapat alasan permohonan yang berbeda. \nBerdasarkan ketentuan tersebut di atas, terhadap materi muatan ayat, \npasal, dan/atau bagian undang-undang yang telah dilakukan pengu jian \nkonstitusionalitas dan telah diputus Mahkamah hanya dapat dimohonkan pengujian \nkembali apabila terdapat dasar pengujian dan/atau alasan permoh onan yang \nberbeda. Terhadap hal tersebut, setelah Mahkamah membaca secara  saksama \npermohonan Pemohon a quo dan menyandingkan dengan permohonan \nsebelumnya, yakni Permohonan Nomor 80/PUU-XXIV/2026, telah tern yata \npermohonan a quo, yang dimohonkan oleh Pemohon yang sama, menggunakan \ndasar pengujian yang sama dengan Permohonan Nomor 80/PUU-XXIV/2026, yakni \nmenggunakan dasar pengujian Pasal 28D ayat (1) UUD NRI Tahun 19 45. Namun \ndemikian, berkenaan dengan alasan permohonan a quo terdapat perbedaan dengan \nPermohonan Nomor 80/PUU-XXIV/2026. Dalam permohonan a quo, Pemohon \nmenambahkan alasan permohonan yang pada pokoknya berkenaan deng an \nambiguitas rumusan norma Pasal 308 ayat (1) UU 1/2023 sehingga tidak memenuhi \nasas lex stricta , membandingkan dengan putusan Mahkamah Konstitusi lain \nberkaitan dengan inkonsistensi rumusan norma, dan menguraikan k onsekuensi \nhukum dari putusan Mahkamah sebelumnya.  \nBerdasarkan fakta hukum tersebut di atas, meskipun permohonan \npengujian norma Pasal 308 ayat (1) UU 1/2023 pernah diajukan da n telah diputus \nsebelumnya dalam Putusan Mahkamah Konstitusi Nomor 80/PUU-XXIV/ 2026 \ndengan dasar pengujian yang sama pula, namun oleh karena dalam permohonan  \na quo  terdapat alasan permohonan yang berbeda dengan Permohonan Nomo r \n80/PUU-XXIV/2026 maka terlepas secara substansi permohonan a quo beralasan \nmenurut hukum atau tidak, secara formil permohonan a quo tidak terhalang oleh \nketentuan Pasal 60 UU MK serta Pasal 72 PMK 7/2025. Dengan demi kian, norma \nPasal 308 ayat (1) UU 1/2023 dapat dimohonkan pengujian kembali dan selanjutnya \nMahkamah mempertimbangkan lebih lanjut pokok permohonan. \n[3.11] Menimbang bahwa setelah Mahkamah membaca secara saksama \npermohonan Pemohon beserta bukti-bukti yang diajukan oleh Pemoh on, isu \n\n 35\nkonstitusionalitas yang harus dijawab oleh Mahkamah adalah apak ah norma Pasal \n308 ayat (1) UU 1/2023 tidak memenuhi asas lex stricta  dan menghilangkan \nkepastian mengenai batas antara bahaya yang bersifat umum dan i ndividual atau \nperorangan, sehingga bertentangan dengan UUD NRI Tahun 1945 secara bersyarat \napabila tidak dimaknai, “termasuk membahayakan nyawa perorangan ”. Berkenaan \ndengan isu konstitusionalitas tersebut, Mahkamah dalam Putusan Mahkamah \nKonstitusi Nomor 80/PUU-XXIV/2026 telah mempertimbangkan antara lain sebagai \nberikut: \n[3.10.3] Bahwa dengan menggunakan dasar pertimbangan tersebut di \natas, petitum Pemohon yang memohon agar norma Pasal 308 ayat (1 ) UU \n1/2023 dinyatakan bertentangan dengan UUD NRI Tahun 1945 dan ti dak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang ti dak \ndimaknai “termasuk membahayakan nyawa perorangan”, dalam hal in i, \nmenurut Mahkamah, perumusan pemaknaan dimaksud secara sistemati s \nadalah tidak tepat karena perumusan pemaknaan yang dimohonkan tersebut \ntidak sesuai dengan pengelompokan materi norma Pasal 308 ayat ( 1) UU \n1/2023 yang mengatur mengenai tindak pidana yang membahayakan \nkeamanan umum. Di samping itu, pengelompokan materi yang terkan dung \ndalam norma Pasal 308 ayat (1) UU 1/2023 dimaksud telah sejalan  dengan \nrujukan dalam angka 63 Lampiran II UU 12/2011, yang menyatakan \npengelompokan materi muatan dalam peraturan perundang-undangan \ndirumuskan secara lengkap sesuai dengan kesamaan materi yang \nbersangkutan. \nLebih lanjut, selain itu pertimbangan hukum sebagaimana \ndiuraikan di atas, jika diperhatikan dengan saksama, frasa “mem bahayakan \nkeamanan umum” dalam Pasal 308 ayat (1) UU 1/2023, menurut Mahkamah, \nmenitikberatkan pada siapa saja yang terdampak jika seseorang k arena \nperbuatannya menyebabkan terjadinya peristiwa yang tercantum da lam \nPasal 308 ayat (1) UU 1/2023, yaitu kebakaran, ledakan atau ban jir. Oleh \nkarena itu, jika dicermati lebih lanjut dari ketiga peristiwa t ersebut sudah \nbarang tentu berdampak bagi banyak orang tidak hanya satu orang saja dan \nbanyak orang dimaksud tidak dapat dilepaskan dari himpunan unsu r orang \nperorangan, sebagaimana juga yang dimohonkan oleh Pemohon. Sehingga, \njika norma Pasal 308 UU 1/2023 dibaca secara utuh, walaupun dalam norma \nPasal 308 ayat (1) UU 1/2023 mengatur mengenai ancaman pidana b agi \nsetiap orang yang melakukan perbuatan yang mengakibatkan kebaka ran, \nledakan, atau banjir yang membahayakan keamanan umum bagi orang atau \nbarang, namun dalam ayat berikutnya yaitu pada Pasal 308 ayat (2) dan ayat \n(3) UU 1/2023 diatur ancaman pidana bagi setiap orang yang mela kukan \nperbuatan sebagaimana dimaksud dalam ayat (1) yang mengakibatka n luka \nberat pada orang lain dan mengakibatkan matinya orang. Dengan d emikian, \nnorma Pasal 308 UU 1/2023 yang dirumuskan dengan memuat ketiga ayat \ndimaksud sesungguhnya merupakan satu kesatuan yang saling \nberkorespondensi dan memuat ancaman pidana bukan hanya pada \nperbuatan yang membahayakan keamanan umum bagi orang atau baran g, \ntapi juga dirumuskan dengan ancaman pidana yang dapat menjangkau setiap \n\n 36\norang yang karena perbuatannya membahayakan keamanan umum yang \nmenyebabkan luka berat ataupun kematian kepada orang lain.  \nBerdasarkan uraian pertimbangan hukum tersebut di atas, menurut \nMahkamah tanpa perlu menambahkan frasa “termasuk membahayakan \nnyawa perorangan” pada norma Pasal 308 ayat (1) UU 1/2023 telah ternyata \nnorma dimaksud telah memberikan perlindungan dari peristiwa yan g \ndilakukan oleh orang lain yang membahayakan secara umum, barang  \nmaupun perorangan. Oleh karena itu, dalil Pemohon yang pada pok oknya \nmenyatakan Pasal 308 ayat (1) UU 1/2023 bertentangan dengan UUD  NRI \nTahun 1945 secara bersyarat sepanjang tidak dimaknai “termasuk \nmembahayakan nyawa perorangan” adalah dalil yang tidak berdasar  \nsehingga harus dinyatakan tidak beralasan menurut hukum. \nBerdasarkan kutipan uraian pertimbangan hukum putusan tersebut di atas \ndan dikaitkan dengan dalil permohonan Pemohon, sekalipun Pemohon mengajukan \nalasan permohonan yang berbeda dengan permohonan yang telah dip utus \nsebelumnya, namun karena secara substansi permohonan a quo pada hakikatnya \nsama dengan substansi Permohonan Nomor 80/PUU-XXIV/2026, Mahkamah belum \nmemiliki alasan hukum yang kuat dan mendasar untuk bergeser dari pertimbangan \nhukum Putusan Mahkamah Konstitusi Nomor 80/PUU-XXIV/2026. Oleh karena itu, \npertimbangan hukum tersebut secara mutatis mutandis  berlaku pula dalam \nmempertimbangkan dalil permohonan a quo . Terlebih dalil Pemohon a quo  d i  \nantaranya didasarkan pada asumsi atau hipotesa berupa pengandai an tidak \ndiprosesnya laporan Pemohon andaikata mengalami, melihat, menya ksikan atau \nmenjadi korban atas suatu tindakan kebakaran, ledakan, atau ban jir yang hanya \nmembahayakan keamanan perorangan. Padahal norma Pasal 308 ayat (1) UU \n1/2023 telah secara jelas memuat ancaman pidana bukan hanya pad a perbuatan \nyang membahayakan keamanan umum bagi orang atau barang, akan te tapi juga \ndirumuskan dengan ancaman pidana yang dapat menjangkau setiap o rang yang \nkarena perbuatannya membahayakan keamanan umum yang menyebabkan  luka \nberat ataupun kematian kepada orang lain. Artinya, norma dimaks ud telah \nmemberikan perlindungan dari peristiwa yang tercantum dalam Pas al 308 ayat (1) \nUU 1/2023, yaitu kebakaran, ledakan atau banjir yang sudah tent u berakibat bagi \nsemua orang secara umum, tanpa perlu menyebutkan perorangan kar ena telah \ntercakup ataupun terabsorpsi dalam rumusan membahayakan keamana n umum \nbagi orang. Dengan kata lain, rumusan membahayakan keamanan umu m bagi \norang merupakan rumusan yang bersifat umum yang secara otomatis berlaku untuk \nsemua satuan yang berada di bawah cakupannya, dalam hal ini tem asuk \nmembahayakan nyawa perorangan.  \n\n 37\nBerdasarkan uraian pertimbangan hukum tersebut di atas, menurut  \nMahkamah tanpa perlu menambahkan frasa “termasuk membahayakan n yawa \nperorangan” pada norma Pasal 308 ayat (1) UU 1/2023 telah terny ata norma \ndimaksud telah secara jelas dan tegas memberikan perlindungan d ari perbuatan \nyang mengakibatkan kebakaran, ledakan, atau banjir yang dilakuk an oleh setiap \norang, yang membahayakan keamanan umum bagi orang termasuk pero rangan \nataupun barang. Oleh karena itu, dalil Pemohon yang pada pokokn ya menyatakan \nPasal 308 ayat (1) UU 1/2023 bertentangan dengan UUD NRI Tahun 1945 secara \nbersyarat sepanjang tidak dimaknai “termasuk membahayakan nyawa perorangan” \nadalah dalil yang tidak berdasar sehingga harus dinyatakan tidak beralasan menurut \nhukum. \n[3.12] Menimbang  bahwa berdasarkan seluruh uraian pertimbangan hukum \nsebagaimana diuraikan di atas, norma Pasal 308 ayat (1) UU 1/2023 ternyata telah \nmemberikan pengakuan, jaminan, perlindungan dan kepastian hukum  yang adil \nsebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI Tahun 1945 , bukan \nsebagaimana yang didalilkan Pemohon. Dengan demikian, dalil Pem ohon adalah \ntidak beralasan menurut hukum untuk seluruhnya. \n[3.13] Menimbang bahwa terhadap hal-hal selain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1133,
+      "end_line": 1315
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 1317,
+      "end_line": 1317
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon memiliki kedudukan hukum untuk mengajukan permohonan  \na quo; \n[4.3] Pertimbangan hukum Putusan Mahkamah Konstitusi Nomor 80/PUU-\nXXIV/2026 mutatis mutandis  berlaku sebagai pertimbangan hukum \nPutusan a quo; \n[4.4] Permohonan Pemohon tidak beralasan menurut hukum untuk seluruh nya. \n\n 38\nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 1319,
+      "end_line": 1336
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan Pemohon untuk seluruhnya. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P . Foekh, M. Guntur \nHamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, \npada hari  S e n i n ,  tanggal tiga puluh satu , bulan  Agustus, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka  \nuntuk umum pada hari Rabu, tanggal enam belas, bulan September , tahun dua \nribu dua puluh enam , selesai diucapkan pukul 16.27 WIB, oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Sald i Isra, Enny \nNurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P . Foek h, M. Guntur \nHamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, \ndengan dibantu oleh Syukri Asy’ari sebagai Panitera Pengganti, serta dihadiri oleh \nDewan Perwakilan Rakyat atau yang mewakili, dan Presiden atau y ang mewakili, \ntanpa dihadiri Pemohon. \nKETUA, \nttd. \nSuhartoyo \n\n 39\nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nEnny Nurbaningsih  \nttd. \nRidwan Mansyur  \nttd. \nArsul Sani \nttd. \nDaniel Yusmic P . Foekh  \nttd. \nM. Guntur Hamzah \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nSyukri Asy’ari",
+      "start_line": 1338,
+      "end_line": 1379
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Yusuf Shamawarmansyah",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C ayat (1)",
+      "Pasal 9 ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 308 ayat (1)",
+      "Pasal 24 ayat (2)"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-3",
+      "BUKTI P-2",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "REFERENSI:292/PUU-XXIV/2026",
+      "REFERENSI:292/PUU/PAN.MK/AP3/07/2026",
+      "REFERENSI:006/PUU-III/2005danPutusanNomor11/PUU-V/2007",
+      "REFERENSI:80/PUU-XXIV/2026",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:1/2023pernahdiajukandantelahdiputussebelumnyadalamPutusanMahkamahKonstitusiNomor80/PUU-XXIV/2026",
+      "REFERENSI:1/2023dimaksudtelahsejalandenganrujukandalamangka63LampiranIIUU12/2011"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P . Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Syukri Asy’ari"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "292/PUU-XXIV/2026",
+      "292/PUU/PAN.MK/AP3/07/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007",
+      "80/PUU-XXIV/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "1/2023pernahdiajukandantelahdiputussebelumnyadalamPutusanMahkamahKonstitusiNomor80/PUU-XXIV/2026",
+      "1/2023dimaksudtelahsejalandenganrujukandalamangka63LampiranIIUU12/2011"
+    ],
+    "referenced_cases": [
+      "292/PUU-XXIV/2026",
+      "292/PUU/PAN.MK/AP3/07/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007",
+      "80/PUU-XXIV/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "1/2023pernahdiajukandantelahdiputussebelumnyadalamPutusanMahkamahKonstitusiNomor80/PUU-XXIV/2026",
+      "1/2023dimaksudtelahsejalandenganrujukandalamangka63LampiranIIUU12/2011"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

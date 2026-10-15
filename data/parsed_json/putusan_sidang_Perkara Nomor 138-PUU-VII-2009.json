@@ -1,0 +1,918 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_sidang_Perkara Nomor 138-PUU-VII-2009.pdf",
+    "file_name": "putusan_sidang_Perkara Nomor 138-PUU-VII-2009.pdf",
+    "page_count": 33,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_sidang_Perkara%20Nomor%20138-PUU-VII-2009.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "138/PUU-VII/2009",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2010-02-08",
+    "decision_date_raw": "delapan bulan Februari tahun dua ribu sepuluh",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 138/PUU-VII/2009",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1]  Yang memeriksa, mengadili, dan memutus perkara kon stitusi pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam per kara Permohonan Pengujian \nPeraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 2009 tentang \nPerubahan Atas Undang-Undang Nomor 30 Tahun 2002 te ntang Komisi \nPemberantasan Tindak Pidana Korupsi terhadap Undang -Undang Dasar Negara \nRepublik Indonesia Tahun 1945, yang diajukan oleh: \n[1.2]  1. N a m a : SAOR SIAGIAN, S.H.; \nTempat, tanggal lahir : P. Siantar, 09 September 19 62; \nU m u r : 47 tahun; \nPekerjaan  : Advokat; \nKewarganegaraan  : Indonesia; \nAlamat : Jalan Soka Raya Blok Z Nomor 27 Kemang \nPratama 2 Bojong Rawalumbu Kota Bekasi;  \ndisebut sebagai --------------------------------------------------------- Pemohon I;",
+      "start_line": 7,
+      "end_line": 20
+    },
+    {
+      "heading": "2. N a m a : MANGAPUL SILALAHI, S.H.;",
+      "slug": "2-n-a-m-a-mangapul-silalahi-s-h",
+      "text": "Tempat, tanggal lahir : P. Siantar, 14 Mei 1972; \nU m u r  : 37 tahun; \nPekerjaan  : Advokat; \nKewarganegaraan  : Indonesia; \nAlamat  : Jalan Merdeka Nomor 71, Girsang Parapat \nSimalungun;  \ndisebut sebagai -------------------------------------------------------- Pemohon II; \n \n \n\n\n \n2",
+      "start_line": 22,
+      "end_line": 34
+    },
+    {
+      "heading": "3. N a m a : DANIEL TONAPA MASIKU, S.H.;",
+      "slug": "3-n-a-m-a-daniel-tonapa-masiku-s-h",
+      "text": "Tempat, tanggal lahir : Tator, 12 Mei 1971; \nU m u r  : 38 tahun; \nPekerjaan : Advokat; \nAlamat : Jalan Kali Pasir Gang Eretan, RT/RW.004/00 8, \nKelurahan Kebon Sirih, Kecamatan Menteng \nJakarta Pusat; \ndisebut sebagai ---------------------------------------------------------- Pemohon III ;",
+      "start_line": 36,
+      "end_line": 42
+    },
+    {
+      "heading": "4. N a m a : SANDI EBENEZER SITUNGKIR, S.H.;",
+      "slug": "4-n-a-m-a-sandi-ebenezer-situngkir-s-h",
+      "text": "Tempat, tanggal lahir : Paropo, 13 April 1972; \nU m u r : 37 Tahun; \nPekerjaan : Advokat; \nAlamat : Jalan Biduri Bulan 8/9, RT/RW. 009/006, \nKelurahan Sumur Batu, Kecamatan Kemayoran, \nJakarta Pusat; \ndisebut sebagai ---------------------------------------------------------- Pemohon IV;",
+      "start_line": 44,
+      "end_line": 50
+    },
+    {
+      "heading": "5. N a m a : CARREL TICUALU, S.E., S.H.;",
+      "slug": "5-n-a-m-a-carrel-ticualu-s-e-s-h",
+      "text": "Tempat, tanggal lahir : Jakarta, 24 Juni 1957; \nU m u r : 52 tahun; \nPekerjaan : Advokat; \nAlamat : Jalan Raya Kelapa Nias Qb.5 Nomor 1, RT/RW . \n002/006, Kelurahan Kelapa Gading Barat, \nKecamatan Kelapa Gading, Jakarta Utara; \ndisebut sebagai ---------------------------------------------------------- Pemohon V ;",
+      "start_line": 52,
+      "end_line": 58
+    },
+    {
+      "heading": "6. N a m a : PIETERSON TANOS, S.H.;",
+      "slug": "6-n-a-m-a-pieterson-tanos-s-h",
+      "text": "Tempat, tanggal lahir : Singkawang, 9 April 1960; \nU m u r : 49 tahun; \nPekerjaan : Advokat; \n\n \n3 \nAlamat : Jalan Metro Ria I BLK I Nomor 36, RT/RW. \n007/004, Kelurahan Papanggo, Kecamatan \nTanjung Priok, Jakarta Utara; \ndisebut sebagai ---------------------------------------------------------- Pemohon VI ;",
+      "start_line": 60,
+      "end_line": 69
+    },
+    {
+      "heading": "7. N a m a : SAMARUDDIN R. MANULLANG, S.H.;",
+      "slug": "7-n-a-m-a-samaruddin-r-manullang-s-h",
+      "text": "Tempat, tanggal lahir : Pakat, 24 Agustus 1976; \nU m u r : 33 tahun; \nPekerjaan : Advokat; \nAlamat : Jalan Batu Amantis Nomor 9 RT/RW.006/010 \nKayu Putih, Kecamatan Pulo Gadung, Jakarta \nTimur; \ndisebut sebagai --------------------------------------------------------- Pemohon VII ;",
+      "start_line": 71,
+      "end_line": 77
+    },
+    {
+      "heading": "8. N a m a : VINSENSIUS H. RANTEALLO, S.H.;",
+      "slug": "8-n-a-m-a-vinsensius-h-ranteallo-s-h",
+      "text": "Tempat, tanggal lahir : Malang, 16 Maret 1971; \nU m u r : 38 tahun; \nPekerjaan : Advokat; \nAlamat : KAV Marinir Blok AB 4/8 RT/RW.008/013, \nKelurahan Pondok Kelapa, Kecamatan Duren \nSawit, Jakarta Timur; \ndisebut sebagai -------------------------------------------------------- Pemohon VIII ;",
+      "start_line": 79,
+      "end_line": 85
+    },
+    {
+      "heading": "9. N a m a : JUDIANTO SIMANJUNTAK, S.H.;",
+      "slug": "9-n-a-m-a-judianto-simanjuntak-s-h",
+      "text": "Tempat, tanggal lahir : Sigumpar Julu, 06 Oktober 1 976; \nU m u r : 33 tahun; \nPekerjaan : Advokat; \nAlamat : Jalan Kayu Mas Raya RT.01 RW.04 Kelurahan \nPulo Gadung, Jakarta Timur; \ndisebut sebagai ---------------------------------------------------------  Pemohon IX;",
+      "start_line": 87,
+      "end_line": 92
+    },
+    {
+      "heading": "10. N a m a : YANRINO HB. SIBUAE, S.H.;",
+      "slug": "10-n-a-m-a-yanrino-hb-sibuae-s-h",
+      "text": "Tempat, tanggal lahir : Jakarta, 25 Januari 1969; \nU m u r : 40 tahun; \n\n \n4 \nPekerjaan : Advokat; \nAlamat : Jalan Rawamangun Muka Selatan I/16 RT.03 \nRW.13 Rawamangun, Jakarta Timur; \ndisebut sebagai ----------------------------------------------------------- Pemohon X;",
+      "start_line": 94,
+      "end_line": 102
+    },
+    {
+      "heading": "11. N a m a : BRODUS, S.H.;",
+      "slug": "11-n-a-m-a-brodus-s-h",
+      "text": "Tempat, tanggal lahir : Kanuruan, 12 September 1968 ; \nU m u r : 41 tahun; \nPekerjaan : Advokat; \nAlamat : Kampung Sawah Bogo RT.01/003, Setiadarma, \nTambun Selatan, Kabupaten Bekasi; \ndisebut sebagai ---------------------------------------------------------- Pemohon XI ;",
+      "start_line": 104,
+      "end_line": 109
+    },
+    {
+      "heading": "12. N a m a : HENDRI D. SITOMPUL, S.H.;",
+      "slug": "12-n-a-m-a-hendri-d-sitompul-s-h",
+      "text": "Tempat, tanggal lahir : Medan, 3 Februari 1965; \nU m u r : 44 tahun; \nPekerjaan : Advokat; \nAlamat : Jalan Geministiti Barat K 309, Kelurahan M edan \nSunggal Kota Medan, Sumatera Utara; \ndisebut sebagai --------------------------------------------------------- Pemohon XII ;",
+      "start_line": 111,
+      "end_line": 116
+    },
+    {
+      "heading": "13. N a m a : ROBERTHUS BAIT KEYTIMU, S.H.;",
+      "slug": "13-n-a-m-a-roberthus-bait-keytimu-s-h",
+      "text": "Tempat, tanggal lahir : Flores, 9 April 1963; \nU m u r : 46 tahun; \nPekerjaan : Advokat; \nAlamat : Jalan Pendidikan 3 RT.06/06 Nomor 60 \nKelurahan Cijantung, Pasar Rebo, Jakarta \nTimur; \ndisebut sebagai -------------------------------------------------------- Pemohon XIII ; \nSelanjutnya ketiga belas Pemohon di atas disebut sebagai ---- para Pemohon ; \n \n \n\n \n5 \n[1.3]  Membaca permohonan dari para Pemohon; \nMendengar keterangan dari para Pemohon; \nMemeriksa bukti-bukti yang diajukan oleh para Pemohon;",
+      "start_line": 118,
+      "end_line": 133
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa para Pemohon mengajukan permohonan dengan surat \npermohonan bertanggal 4 Oktober 2009 yang terdaftar  di Kepaniteraan Mahkamah \nKonstitusi (selanjutnya disebut Kepaniteraan Mahkam ah) pada tanggal 21 Oktober \n2009 dengan registrasi Nomor 138/PUU-VII/2009, permohonan mana telah diperbaiki \ndan diterima di Kepaniteraan Mahkamah tanggal 11 No vember 2009 yang \nmenguraikan hal-hal sebagai berikut: \nI.  Kewenangan Mahkamah Konstitusi",
+      "start_line": 135,
+      "end_line": 141
+    },
+    {
+      "heading": "1. Bahwa Peraturan Pemerintah Pengganti Undang-Unda ng Nomor 4 Tahun",
+      "slug": "1-bahwa-peraturan-pemerintah-pengganti-undang-unda-ng-nomor-4-tahun",
+      "text": "2009 tentang Perubahan Atas Undang-Undang Nomor 30 Tahun 2002 \ntentang Komisi Pemberantasan Korupsi (selanjutnya d isebut Perpu 4/2009) \nadalah ketentuan hukum yang sejak dikeluarkan telah  berlaku dan mengikat \nseluruh warga negara termasuk di dalamnya adalah pa ra Pemohon; \nMenurut Pasal 7 ayat (1) Undang-Undang Nomor 10 Tah un 2004 tentang \nPembentukan Peraturan Perundang-undangan (selanjutn ya disebut UU \n10/2004) dinyatakan \"Jenis dan hierarki Peraturan Perundang-undangan \nadalah sebagai berikut:  \na. Undang-Undang Dasar Negara Republik Indonesia Ta hun 1945; \nb. Undang-Undang/Peraturan Pemerintah Pengganti Und ang-Undang;",
+      "start_line": 143,
+      "end_line": 152
+    },
+    {
+      "heading": "2. Bahwa sesuai dengan dalil yang disampaikan oleh para Pemohon a quo ,",
+      "slug": "2-bahwa-sesuai-dengan-dalil-yang-disampaikan-oleh-para-pemohon-a-quo",
+      "text": "Perpu adalah memiliki kedudukan yang sama dalam tat a urutan ( hierarki ) \ndengan Undang-Undang. Sehingga dengan demikian, ses uai dengan \nketentuan Pasal 24C ayat (1) Undang-Undang Dasar Ne gara Republik \nIndonesia Tahun 1945 (selanjutnya disebut UUD 1945)  juncto  Pasal 10 ayat \n\n \n6 \n(1) huruf d Undang-Undang Nomor 24 Tahun 2003 tenta ng Mahkamah \nKonstitusi (selanjutnya UU 24/2003) juncto  Pasal 12 ayat (1) huruf d \nUndang-Undang Nomor 4 Tahun 2004 tentang Kekuasaan Kehakiman \n(selanjutnya disebut UU 4/2004) yang pada pokoknya menyatakan, \n\"Mahkamah Konstitusi berwenang mengadili pada tingk at pertama dan \nterakhir yang putusannya bersifat  final, pengujian  Undang-Undang \nterhadap Undang-Undang Dasar” ;",
+      "start_line": 156,
+      "end_line": 169
+    },
+    {
+      "heading": "3. Bahwa sesuai dengan ketentuan hukum a quo , Mahkmah Konstitusi",
+      "slug": "3-bahwa-sesuai-dengan-ketentuan-hukum-a-quo-mahkmah-konstitusi",
+      "text": "memiliki kewenangan untuk memeriksa dan mengadili p ermohonan Perpu \n4/2009 yang diajukan oleh para Pemohon; \nII.  Kedudukan Hukum ( Legal Standing ) Para Pemohon.",
+      "start_line": 171,
+      "end_line": 173
+    },
+    {
+      "heading": "1. Bahwa para Pemohon adalah warga negara Indonesia yang memiliki",
+      "slug": "1-bahwa-para-pemohon-adalah-warga-negara-indonesia-yang-memiliki",
+      "text": "pekerjaan sebagai advokat yang memiliki status seba gai penegak hukum. \nSesuai dengan Pasal 5 ayat (1) Undang-Undang Nomor 18 Tahun 2003 \ntentang Advokat (selanjutnya disebut UU 18/2003) me nyatakan, \"Advokat \nberstatus sebagai penegak hukum, babas dan mandiri yang dijamin oleh \nhukum dan peraturan perundang-undangan\", sehingga dengan ketentuan \nhukum tersebut, para Pemohon sebagai warga negara m emiliki kewajiban \nhukum yang lebih dibanding warga negara lainnya dal am rangka \nmemelihara tegaknya Indonesia sebagai negara hukum bukan negara \nkekuasaan. Bahkan secara luas dalam sejarah negara- negara hukum di \nseluruh dunia, para Pengacara (advokat) disebutkan juga Pengawal \nKonstitusi ( the guardian konstitucio );",
+      "start_line": 175,
+      "end_line": 185
+    },
+    {
+      "heading": "2. Bahwa para Pemohon sebagai advokat memiliki kewa jiban yang sama",
+      "slug": "2-bahwa-para-pemohon-sebagai-advokat-memiliki-kewa-jiban-yang-sama",
+      "text": "dengan pejabat-pejabat negara lainnya termasuk Pres iden Republik \nIndonesia sebelum memangku profesinya sebagai advok at, harus terlebih \ndahulu untuk bersumpah memegang teguh dan mengamalk an Pancasila \ndan UUD 1945; \nBerdasarkan Pasal 4 ayat (2) poin pertama UU 18/200 3 menyatakan, \n”Sumpah atau janji sebagairnana dimaksud pada ayat (1) Iafalnya sebagai \nberikut: \n\n \n7 \nDemi Allah saya bersurnpah/saya berjanji: \n- bahwa saya akan memegang teguh dan mengamalkan Pa ncasila sebagai \ndasar negara dan Undang-Undang Dasar Negara Republi k Indonesia \nTahun 1945”;",
+      "start_line": 187,
+      "end_line": 200
+    },
+    {
+      "heading": "3. Bahwa sesuai dengan kewajiban dasar para Pemohon yang telah",
+      "slug": "3-bahwa-sesuai-dengan-kewajiban-dasar-para-pemohon-yang-telah",
+      "text": "bersumpah dan berjanji untuk menegakkan Undang-Unda ng serta \nketentuan hukum lainnya maka kewajiban para Pemohon  juga untuk \nkeberatan terhadap dikeluarkannya Perpu 4/2009 yang  menurut para \nPemohon tidak sesuai kepastian hukum dan kaidah pem bentukan peraturan \nperundang-undangan yang merugikan hak konstitusiona l para Pemohon; \nSesuai dengan Pasal 51 ayat (1) huruf a UU 24/2003 menyebutkan,  \n\"Pemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya Undang- Undang\", yaitu: \nperorangan warga negara Indonesia” ;",
+      "start_line": 202,
+      "end_line": 210
+    },
+    {
+      "heading": "4. Bahwa menurut para Pemohon, sesuai dengan dalil yang telah disampaikan",
+      "slug": "4-bahwa-menurut-para-pemohon-sesuai-dengan-dalil-yang-telah-disampaikan",
+      "text": "dalam permohonan a quo , para Pemohon memiliki kedudukan hukum ( legal \nstanding ) untuk mengajukan pengujian Perpu 4/2009; \nIII . Pokok-Pokok Permohonan Para Pemohon \nPerpu 4/2009 Melanggar Prosedural Pembentukan Perat uran Perundang-\nUndangan",
+      "start_line": 212,
+      "end_line": 216
+    },
+    {
+      "heading": "1. Bahwa menurut para Pemohon permohonan pengujian Perpu 4/2009",
+      "slug": "1-bahwa-menurut-para-pemohon-permohonan-pengujian-perpu-4-2009",
+      "text": "terhadap Pasal 28D ayat (1) UUD 1945. Dalam Perpu 4 /2009, Presiden \nRepublik Indonesia sebagai pihak yang mengeluarkan peraturan tersebut \nmenyatakan: \nPasal 1 \n”Ketentuan dalam Undang-Undang Nomor 30 Tahun 2002 tentang Komisi \nPemberantasan Tindak Pidana Korupsi (Lembaran Negar a Republik \nIndonesia Tahun 2002 Nomor 137, Tambahan Lembaran N egara Republik \nIndonesia Nomor 4250), diubah dengan menambahkan 2 (dua) pasal \ndiantara Pasal 33 dan Pasal 34 yakni Pasal 33A dan Pasal 33B, yang \nberbunyi:  \nPasal 33A \n\n \n8 \n(1) Dalam hal terjadinya kekosongan keanggotaan Pimpina n Komisi \nPemberantasan Korupsi yang menyebabkan Pimpinan Kom isi \nPemberantasan Korupsi berjumlah kurang dari 3 (tiga ) orang, Presiden \nmengangkat anggota sementara Pimpinan Komisi Pember antasan \nKorupsi sejumlah jabatan yang kosong; \n(2) Anggota sementara Pimpinan Komisi Pemberantasan  Korupsi \nsebagaimana dimaksud pada ayat (1) mempunyai tugas,  wewenang, \nkewajiban, dan hak yang sama dengan Pimpinan Komisi  \nPemberantasan Korupsi; \n(3) Calon anggota sementara Pimpinan Komisi Pembera ntasan Korupsi \nharus memenuhi persyaratan sebagaimana dimaksud dal am Pasal 29; \n(4) Pengangkatan dan pemberhentian anggota sementar a Pimpinan Komisi \nPemberantasan Korupsi ditetapkan oleh Presiden; \n(5) Dalam hal kekosongan keanggotaan Pimpinan Komis i Pemberantasan \nKorupsi menyangkut Ketua, maka Ketua dipilih dari d an oleh anggota \nPimpinan Komisi Pemberantasan Korupsi; \n(6) Ketua dan Wakil Ketua Komisi Pemberantasan Koru psi ditetapkan \ndengan Keputusan Presiden; \n(7) Sebelum memangku jabatan, Ketua dan Wakil Ketua  Komisi \nPemberantasan Korupsi yang baru wajib mengucapkan S umpah/janji \nsebagaimana dimaksud dalam Pasal 35”; \nPasal 33B  \n”Masa jabatan anggota sementara Pimpinan Komisi Pemb erantasan \nKorupsi sebagaimana dimaksud dalam Pasal 33A ayat ( 1) berakhir saat: \na. anggota Pimpinan Pemberantasan Korupsi yang diganti kan karena \ndiberhentikan sementara sebagaimana dimaksud dalam Pasal 32 ayat \n(2) diaktifkan kembali karena pemberhentian sementa ra tidak berlanjut \nmenjadi pemberhentian tetap; atau \nb. pengucapan sumpah/janji anggota Pimpinan Pemberanta san Korupsi \nyang baru setelah dipilih melalui proses sebagaiman a dimaksud dalam \nPasal 33 ayat (2”); \n \n\n \n9 \nPasal II \n”Peraturan Pemerintah Pengganti Undang-Undang ini b erlaku pada tanggal \ndiundangkan” .",
+      "start_line": 218,
+      "end_line": 269
+    },
+    {
+      "heading": "2. Bahwa secara subjektif UUD 1945 Pasal 22 ayat (1 ) menyebutkan, \"Dalam",
+      "slug": "2-bahwa-secara-subjektif-uud-1945-pasal-22-ayat-1-menyebutkan-dalam",
+      "text": "hal ihwal kegentingan yang memaksa, Presiden berhak  menetapkan \nperaturan pemerintah sebagai pengganti undang-undan g\", sedangkan \ndalam Penjelasan Pasal 22 UUD 1945 sebelum amandeme n menyatakan, \n\"Pasal ini mengenai noodverordeningsrecht Presiden.  Aturan sebagal ini \nmemang perlu diadakan agar supaya keselamatan negar a dapat dijamin oleh \npemerintah dalam keadaan yang genting, yang memaksa  pemerintah untuk \nbertindak lekas dan tepat”;",
+      "start_line": 271,
+      "end_line": 277
+    },
+    {
+      "heading": "3. Bahwa penerbitan Perpu adalah hak subjektif Pres iden, akan tetapi",
+      "slug": "3-bahwa-penerbitan-perpu-adalah-hak-subjektif-pres-iden-akan-tetapi",
+      "text": "persyaratan-persyaratan pembuatan Perpu menjadi ran ah publik termasuk \npara Pemohon karena akibat penerbitan Perpu oleh Pr esiden langsung \nmengikat warga negara dan menimbulkan akibat (impli katif) bagi warga \nnegara. Sehingga persyaratan-persyaratan pembuatan Perpu, Presiden \nharus tunduk kepada maksud dan tujuan Pembuat Undan g-Undang Dasar \n1945 dan Undang-Undang Nomor 10 Tahun 2004 tentang Peraturan \nPembuatan Perundang-undangan;",
+      "start_line": 279,
+      "end_line": 285
+    },
+    {
+      "heading": "4. Bahwa dalam Kamus Besar Bahasa Indonesia karanga n EM Zal Fajri dan",
+      "slug": "4-bahwa-dalam-kamus-besar-bahasa-indonesia-karanga-n-em-zal-fajri-dan",
+      "text": "Ratu Aprilia Senja, yang dimaksud dengan kegentinga n adalah keadaan \nyang krisis, keadaan yang genting dan keadaan yang gawat; faktanya, \nsehari setelah menandatangani Perpu, Presiden melak ukan kunjungan \nkerja keluar negeri, dan kembali ke Indonesia pada tanggal 1 Oktober 2009, \nartinya keadaan negara normal-normal saja. Jadi buk an kegentingan \nmemaksa tetapi dipaksa genting;",
+      "start_line": 287,
+      "end_line": 292
+    },
+    {
+      "heading": "5. Bahwa apabila keadaan genting dikaitkan dengan k onteks kepemimpinan",
+      "slug": "5-bahwa-apabila-keadaan-genting-dikaitkan-dengan-k-onteks-kepemimpinan",
+      "text": "Komisi Pemberantasan Korupsi (KPK), kalau substansi nya pimpinan KPK \nberkurang, karena tinggal 2 orang lebih tidak tepat  lagi. Karena \nberkurangnya jumlah pimpinan KPK tersebut yang semu la 5 orang menjadi \n4 orang tidak serta merta mengurangi kinerja KPK. B ahkan pelayanan KPK \natau kinerjanya lebih meningkat baik segi kualitas maupun kuantitasnya; \n\n \n10  \nPimpinan KPK tersebut tidaklah bekerja sendiri, nam un dibantu oleh para \ndeputi, penyidik, dan staf yang profesional. Sebaga inana diatur dalam \nPasal 21 ayat (1) Undang-Undang Nomor 30 Tahun 2002  tentang Komisi \nTindak Pidana Korupsi (selanjutnya disebut UU 30/20 02) yang menyatakan, \n”Pelaksana tugas Komisi Pemberantasan korupsi adalah  Pegawai Komisi \nPemberantasan Korupsi; \nDemikian juga halnya ketentuan Pasal 27 UU 30/2002 menyebutkan: \n(1) ”Dalam melaksanakan tugas dan wewenang, Komisi Pemb erantasan \nKorupsi dibantu oleh Sekretariat Jenderal yang dipi mpin oleh seorang \nSekretaris Jenderal; \n(2) Sekretaris Jenderal sebagaimana dimaksud pada ayat (1) diangkat \ndan diberhentikan oleh Presiden Republik Indonesia;  \n(3) Dalam menjalankan tugasnya Sekretaris Jenderal bertanggung jawab \nkepada Pimpinan Komisi Pemberantasan Korupsi; \n(4) Ketentuan mengenai tugas dan fungsi Sekretaris Jenderal ditetapkan \nlebih lanjut dengan keputusan Komisi Pemberantasan Korupsi;",
+      "start_line": 294,
+      "end_line": 317
+    },
+    {
+      "heading": "6. Bahwa dalam penerbitan Perpu 4/2009, Presiden Re publik Indonesia tidak",
+      "slug": "6-bahwa-dalam-penerbitan-perpu-4-2009-presiden-re-publik-indonesia-tidak",
+      "text": "menerapkan asas-asas pembuatan peraturan sebagaiman a diatur dalam \nUU 10/2004 yang Pasal 5 menyatakan:  \n”Dalam pembentukan peraturan perundang-undangan har us berdasarkan \npada asas pembentukan peraturan perundang-undangan yang baik yang \nmeliputi:  \na. kejelasan tujuan; \nb. kelembagaan atau organ pembentuk yang tepat;",
+      "start_line": 319,
+      "end_line": 325
+    },
+    {
+      "heading": "d. dapat diiaksanakan;",
+      "slug": "d-dapat-diiaksanakan",
+      "text": "e. kedayagunaan dan kehasilgunaan; \nf. kejelasan rumusan; dan \ng. keterbukaan”. \nDemikian juga ketentuan Pasal 6 UU 10/2004 menyatak an, \"Materi muatan \nPeraturan Perundang-undangan mengandung asas: \na. pengayoman; \n\n \n11  \nb. kemanusiaan;",
+      "start_line": 328,
+      "end_line": 337
+    },
+    {
+      "heading": "d. kekeluargaan;",
+      "slug": "d-kekeluargaan",
+      "text": "e. kenusantaraan; \nf. bhinneka tunggal ika; \ng. keadilan; \nh. kesamaan kedudukan dalam hukum dan pemerintahan;",
+      "start_line": 340,
+      "end_line": 343
+    },
+    {
+      "heading": "i. ketertiban dan kepastian hukum dan/atau;",
+      "slug": "i-ketertiban-dan-kepastian-hukum-dan-atau",
+      "text": "j. keseimbangan, keserasian dan keselarasan”.",
+      "start_line": 345,
+      "end_line": 345
+    },
+    {
+      "heading": "7. Bahwa menurut para Pemohon, penerbitan Perpu 4/2 009 dilakukan secara",
+      "slug": "7-bahwa-menurut-para-pemohon-penerbitan-perpu-4-2-009-dilakukan-secara",
+      "text": "sewenang-wenang oleh Presiden yang membuat Presiden  mencampuri \nindependensi komisi negara yang diatur oleh Undang- Udang sehingga \nsangat merugikan hak konstitusional para Pemohon. S eharusnya Presiden \ntidak mencampuri dan atau melakukan intervensi terh adap KPK dengan \nkewenangan subjektif sebagai kepala negara dan kepa la pemerintahan. \nPresiden seharusnya tunduk dan patuh kepada sumpah jabatan \nsebagaimana diatur dalam Pasal 9 UUD 1945:",
+      "start_line": 347,
+      "end_line": 353
+    },
+    {
+      "heading": "8. Bahwa dalam kehidupan berbangsa dan bernegara, P residen sebagai",
+      "slug": "8-bahwa-dalam-kehidupan-berbangsa-dan-bernegara-p-residen-sebagai",
+      "text": "Kepala Negara dan Kepala Pemerintahan tidak dapat d ibiarkan membuat \ninterprestasi sendiri untuk menghindari absolutisme  kekuasaan dengan \nmembuat penafsiran sendiri tentang ihkwal dan keada an yang memaksa \nseperti dimaksudkan dalam Pasal 22 UUD 1945. Untuk itu Mahkamah \nKonstitusi harus memerintahkan Pembuat Undang-Undan g untuk membuat \nUndang-Undang sebagaimana dimaksudkan dalam Pasal 2 2 UUD 1945 \nuntuk menjaga terjadinya kekosongan hukum; \nPerpu 4/2009 Merugikan Hak Konstitusional Para Pemo hon",
+      "start_line": 355,
+      "end_line": 362
+    },
+    {
+      "heading": "1. Bahwa tanggal 21 September 2009 Presiden Republi k Indonesia telah",
+      "slug": "1-bahwa-tanggal-21-september-2009-presiden-republi-k-indonesia-telah",
+      "text": "mengeluarkan Perpu 4/2009 yang sejak dikeluarkan hi ngga saat \ndiajukannya permohonan ini telah menimbulkan kegonc angan dalam \nmasyarakat dan mengguncangkan sistem dan sendi-send i hukum yang \nberlaku di Indonesia, karena bertentangan dengan UU D 1945 dan UU \n\n \n12  \n10/2004 tentang Pembentukan Peraturan Perundang-Und angan;",
+      "start_line": 364,
+      "end_line": 371
+    },
+    {
+      "heading": "2. Bahwa Presiden Republik Indonesia dalam pertimba ngannya huruf a Perpu",
+      "slug": "2-bahwa-presiden-republik-indonesia-dalam-pertimba-ngannya-huruf-a-perpu",
+      "text": "4/2009 menyatakan, \"Terjadinya kekosongan keanggotaan Pimpinan Komisi \nPemberantasan Korupsi telah mengganggu kinerja sert a berpotensi \nmenimbulkan ketidakpastian hukum dalam upaya menceg ah dan \npemberantasan tindak pidana korupsi yang dilakukan Komisi Pemberantasan \nKorupsi\" ;",
+      "start_line": 373,
+      "end_line": 377
+    },
+    {
+      "heading": "3. Bahwa pertimbangan Presiden Republik Indonesia d alam Perpu 4/2009",
+      "slug": "3-bahwa-pertimbangan-presiden-republik-indonesia-d-alam-perpu-4-2009",
+      "text": "adalah pertimbangan yang bertentangan dengan hukum karena tidak sesuai \ndengan fakta yang sebenarnya. Pasal 21 ayat (1) UU 30/2002 menyatakan, \n”Komisi Pemberantasan Korupsi sebagaimana dimaksud dalam Pasal 3 \nterdiri atas :",
+      "start_line": 379,
+      "end_line": 382
+    },
+    {
+      "heading": "1. Pimpinan Komisi Pemberantasan Korupsi yang terdi ri dari 5 (lima)",
+      "slug": "1-pimpinan-komisi-pemberantasan-korupsi-yang-terdi-ri-dari-5-lima",
+      "text": "anggota Komisi Pemberantasan Korupsi;",
+      "start_line": 384,
+      "end_line": 384
+    },
+    {
+      "heading": "4. Bahwa pada seat dikeluarkannya Perpu 4/2009, pim pinan KPK yang aktif",
+      "slug": "4-bahwa-pada-seat-dikeluarkannya-perpu-4-2009-pim-pinan-kpk-yang-aktif",
+      "text": "terdiri dari 2 (dua) orang sedangkan 3 (tiga) orang  tidak aktif (diberhentikan \nsementara) karena sedang menjalani proses hukum kar ena diduga telah \nmelakukan tindak pidana. Akan tetapi status kepemip inan di KPK oleh UU \n30/2002 tetap dinyatakan sebagai Pimpinan KPK. Sehi ngga tidak benar \npertimbangan Presiden Republik Indonesia yang menya takan, \"terjadiya \nkekosongaan keanggotaan Pimpinan Komisi Pemberantas an Korupsi\";",
+      "start_line": 388,
+      "end_line": 393
+    },
+    {
+      "heading": "5. Bahwa pada saat dikeluarkannya Perpu 4/2009 tang gal 21 September 2009,",
+      "slug": "5-bahwa-pada-saat-dikeluarkannya-perpu-4-2009-tang-gal-21-september-2009",
+      "text": "Pimpinan KPK menjadi 8 (delapan) orang yang terdiri  dari 2 (dua) orang \ndengan status aktif, 3 (tiga) orang dengan status n on aktif dan 3 (tiga) orang \ndengan status pimpinan sementara, sehingga bertenta ngan dengan Pasal 21 \nayat (1) UU 30/2002 yang mengakibatkan tidak adanya  kepastian hukum \nbagi warga negara; \nKarena tidak adanya kepastian hukum, maka akan meru gikan para Pemohon \nsebagai penegak hukum dan bertentangan dengan UUD 1 945, Pasal 28D \nayat (1) yang menyatakan, \"Setiap orang berhak atas pengakuan, jaminan, \n\n \n13  \nperlindungan, dan kepastian hukum yang adil serta p erlakuan yang sama di \nhadapan hukum\";",
+      "start_line": 395,
+      "end_line": 407
+    },
+    {
+      "heading": "6. Bahwa pimpinan KPK sebelum dipilih oleh DPR dica lonkan oleh Presiden,",
+      "slug": "6-bahwa-pimpinan-kpk-sebelum-dipilih-oleh-dpr-dica-lonkan-oleh-presiden",
+      "text": "setelah melalui seleksi yang cukup komprehensif dan  sangat objektif. Artinya \ndalam kepatutan hukum Presiden-lah yang bertanggung  jawab atas \npencalonan tersebut. Bahwa dampak dengan dikeluarka n Perpu tersebut, \nbahwa Presiden telah mengintervensi Lembaga KPK yan g bertentangan \ndengan Pasal 3 UU 30/2002 menyebutkan, ”Komisi Pemberantasan Korupsi \nadalah Lembaga Negara yang dalam melaksanakan tugas  dan \nwewenangnya bersifat independen dan bebas dari peng aruh kekuasaan \nmanapun”’;",
+      "start_line": 409,
+      "end_line": 416
+    },
+    {
+      "heading": "7. Bahwa Presiden memiliki kewajiban konstitusional untuk menjalankan",
+      "slug": "7-bahwa-presiden-memiliki-kewajiban-konstitusional-untuk-menjalankan",
+      "text": "Undang-Undang sebagaimana dimaksudkan dalam Pasal 9  UUD 1945 yang \nmenyatakan, ”Sebelum memangku jabatannya, Presiden dan Wakil Pr esiden \nbersumpah menurut agama, atau berjanji dengan sungg uh-sungguh di \nhadapan Majelis Permusyawaratan Rakyat atau Dewan P erwakilan Rakyat \nsebagai berikut:  \nDemi Allah, saya bersumpah akan memenuhi kewajiban Presiden Republik \nIndonesia (Wakil Presiden Republik Indonesia) denga n sebaik-baiknya dan \nseadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan \nsegala undang-undang dan peraturannya dengan seluru s-lurusnya serta \nberbakti kepada nusa dan bangsa”;",
+      "start_line": 418,
+      "end_line": 427
+    },
+    {
+      "heading": "8. Bahwa menurut para Pemohon dan apabila dihubungk an dengan",
+      "slug": "8-bahwa-menurut-para-pemohon-dan-apabila-dihubungk-an-dengan",
+      "text": "pengeluaran Perpu oleh Presiden secara jelas dan ny ata akan menimbulkan \nkomplikasi hukum, ketidakpastian hukum, kediktatora n konstitusional \nsehingga sangat bertentangan dengan hakikat yang di amanatkan dalam \nPasal 9 ayat (1) UUD 1945 (1) yang menyatakan, ”Sebelum memangku \njabatannya, Presiden dan Wakil Presiden bersumpah m enurut agama, atau \nberjanji dengan sungguh-sungguh di hadapan Majelis Permusyawaratan \nRakyat atau Dewan Perwakilan memenuhi kewajiban Pre siden Republik \nIndonesia (Wakil Presiden Republik Indonesia) denga n sebaik-baiknya dan \nseadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan \n\n \n14  \nsegala undang-undang dan peraturannya dengan seluru s-lurusnya serta \nberbakti kepada nusa dan bangsa\";",
+      "start_line": 429,
+      "end_line": 442
+    },
+    {
+      "heading": "9. Bahwa tindakan Presiden tersebut dengan mudahnya mengeluarkan Perpu",
+      "slug": "9-bahwa-tindakan-presiden-tersebut-dengan-mudahnya-mengeluarkan-perpu",
+      "text": "dapat menjadi preseden buruk dan dapat membahayakan  negara, akan \nberpotensi mudah mengeluarkan Perpu membubarkan org anisasi advokat, \nPerpu pembredelan pers atau Perpu membubarkan Mahka mah Konstitusi \nkarena putusan-putusan Mahkamah Konstitusi berbeda dengan Presiden \n(eksekutif), sehingga terkesan negara selalu dalam keadaan genting. Bahwa \nperlu diingat lahirnya KPK karena kegagalan kepolis ian dan kejaksaan \nmemberantas korupsi, sehingga perlu lembaga khusus yang memiliki \nkewenangan yang lebih agar korupsi bisa lebih mudah  diberantas, karena \nakar dari segala permasalahan bangsa ini adalah kor upsi. Gagal berantas \nkorupsi sama dengan negara gagal;",
+      "start_line": 444,
+      "end_line": 453
+    },
+    {
+      "heading": "10. Bahwa berdasarkan seluruh uraian tersebut di at as telah terbukti bahwa",
+      "slug": "10-bahwa-berdasarkan-seluruh-uraian-tersebut-di-at-as-telah-terbukti-bahwa",
+      "text": "Perpu 4/2009 dapat dikategorikan sebagai wujud peny alahgunaan \nkekuasaan ( abuse of power ) dan kesewenang-wenangan ( arbitrary action ), \nselain itu Perpu tersebut telah melanggar asas kepa stian hukum dan \nmerusak sistem hukum. Perpu tersebut melanggar kons titusi yaitu Pasal 22 \nayat (1), Pasal 28D, Pasal 9 UUD 1945. Dengan demik ian menurut hukum, \nPerpu 4/2009 haruslah dinyatakan tidak sah dan tida k berlaku;",
+      "start_line": 455,
+      "end_line": 460
+    },
+    {
+      "heading": "11. Bahwa penerbitan Perpu 4/2009 merugikan hak kon stitusional para",
+      "slug": "11-bahwa-penerbitan-perpu-4-2009-merugikan-hak-kon-stitusional-para",
+      "text": "Pemohon, sehingga bertentangan dengan Pasal 28D aya t (1) UUD 1945; \nBahwa dikarenakan Perpu 4/2009 merugikan hak konsti tusional para Pemohon, \nmaka  mohon Ketua Mahkamah Konstitusi berkenaan men erima, memeriksa dan \nmengadili perkara ini dengan putusan sebagai beriku t:",
+      "start_line": 462,
+      "end_line": 465
+    },
+    {
+      "heading": "2. Menyatakan Peraturan Pemerintah Pengganti Undang -Undang Nomor 4",
+      "slug": "2-menyatakan-peraturan-pemerintah-pengganti-undang-undang-nomor-4",
+      "text": "Tahun 2009 tentang Perubahan Atas Undang-Undang Nom or 30 Tabun 2002 \ntentang Komisi Pemberantasan Tindak Pidana Korupsi tidak sah dan tidak \nmengikat karena bertentangan dengan Pasal 22 dan Pa sal 28D UUD 1945;",
+      "start_line": 468,
+      "end_line": 470
+    },
+    {
+      "heading": "3. Memerintahkan Pembuat Undang-Undang untuk membua t Undang-Undang",
+      "slug": "3-memerintahkan-pembuat-undang-undang-untuk-membua-t-undang-undang",
+      "text": "tentang Hal Ikhwal Kegentingan Yang Memaksa sebagai mana dimaksudkan \n\n \n15  \ndalam Pasal 22 UUD 1945;",
+      "start_line": 472,
+      "end_line": 476
+    },
+    {
+      "heading": "4. Memerintahkan agar putusan perkara ini dimuat da lam Berita Negara;",
+      "slug": "4-memerintahkan-agar-putusan-perkara-ini-dimuat-da-lam-berita-negara",
+      "text": "Apabila Bapak Ketua Mahkamah Konstitusi berpendapat  lain, mohon putusan \nyang seadil-adilnya ( Ex aequo et bono ); \n[2.2]  Menimbang bahwa untuk mendukung dalil-dalilnya, par a Pemohon \nmengajukan alat bukti surat atau tulisan yang telah  diberi tanda P-1 sampai dengan      \nP-18,  sebagai berikut:",
+      "start_line": 478,
+      "end_line": 482
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Kartu Tanda Penduduk dan Ka rtu Advokat atas nama",
+      "slug": "1-bukti-p-1-fotokopi-kartu-tanda-penduduk-dan-ka-rtu-advokat-atas-nama",
+      "text": "Saour Siagian;",
+      "start_line": 484,
+      "end_line": 484
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Kartu Tanda Penduduk dan Ta nda Pengenal",
+      "slug": "2-bukti-p-2-fotokopi-kartu-tanda-penduduk-dan-ta-nda-pengenal",
+      "text": "Sementara Advokat atas nama Mangapul Silalahi, SH;",
+      "start_line": 486,
+      "end_line": 486
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk dan Ka rtu Advokat atas nama",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-dan-ka-rtu-advokat-atas-nama",
+      "text": "Daniel Tonapa Masiku, S.H;",
+      "start_line": 488,
+      "end_line": 488
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Penduduk dan Ka rtu Advokat atas nama",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-penduduk-dan-ka-rtu-advokat-atas-nama",
+      "text": "Sandi Ebenezer Situngkir, S.H;",
+      "start_line": 490,
+      "end_line": 490
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Tanda Penduduk dan Ka rtu Advokat atas nama",
+      "slug": "5-bukti-p-5-fotokopi-kartu-tanda-penduduk-dan-ka-rtu-advokat-atas-nama",
+      "text": "Carrel Ticualu, SE, S.H;",
+      "start_line": 492,
+      "end_line": 492
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Kartu Tanda Penduduk dan Ka rtu Advokat atas nama",
+      "slug": "6-bukti-p-6-fotokopi-kartu-tanda-penduduk-dan-ka-rtu-advokat-atas-nama",
+      "text": "Piterson Tanos, SE, S.H;",
+      "start_line": 494,
+      "end_line": 494
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Kartu Tanda Penduduk dan Ka rtu Advokat atas nama",
+      "slug": "7-bukti-p-7-fotokopi-kartu-tanda-penduduk-dan-ka-rtu-advokat-atas-nama",
+      "text": "Samarudin RM, S.H;",
+      "start_line": 496,
+      "end_line": 496
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Kartu Tanda Penduduk dan Ka rtu Advokat atas nama",
+      "slug": "8-bukti-p-8-fotokopi-kartu-tanda-penduduk-dan-ka-rtu-advokat-atas-nama",
+      "text": "Vinsensius H. Ranteallo, S.H;",
+      "start_line": 498,
+      "end_line": 498
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Kartu Tanda Penduduk dan Ta nda Pengenal",
+      "slug": "9-bukti-p-9-fotokopi-kartu-tanda-penduduk-dan-ta-nda-pengenal",
+      "text": "Sementara Advokat atas nama Judianto Simanjuntak, S.H;",
+      "start_line": 500,
+      "end_line": 500
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Kartu Tanda Penduduk dan Kartu Advokat atas nama",
+      "slug": "10-bukti-p-10-fotokopi-kartu-tanda-penduduk-dan-kartu-advokat-atas-nama",
+      "text": "Yanrino H.H. Sibuea, S.H;",
+      "start_line": 502,
+      "end_line": 502
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Kartu Tanda Penduduk dan Kartu Advokat atas nama",
+      "slug": "11-bukti-p-11-fotokopi-kartu-tanda-penduduk-dan-kartu-advokat-atas-nama",
+      "text": "Brodus, S.H;",
+      "start_line": 504,
+      "end_line": 504
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Kartu Tanda Penduduk dan Kartu Advokat atas nama",
+      "slug": "12-bukti-p-12-fotokopi-kartu-tanda-penduduk-dan-kartu-advokat-atas-nama",
+      "text": "Roberthus Bait Keytimu, S.H; \n\n \n16",
+      "start_line": 506,
+      "end_line": 509
+    },
+    {
+      "heading": "13. Bukti P-14 : Fotokopi Undang-Undang Dasar Negar a Republik Indonesia",
+      "slug": "13-bukti-p-14-fotokopi-undang-undang-dasar-negar-a-republik-indonesia",
+      "text": "Tahun 1945;",
+      "start_line": 511,
+      "end_line": 511
+    },
+    {
+      "heading": "14. Bukti P-15 : Fotokopi Undang-Undang Nomor 30 Ta hun 2002 tentang Komisi",
+      "slug": "14-bukti-p-15-fotokopi-undang-undang-nomor-30-ta-hun-2002-tentang-komisi",
+      "text": "Pemberantasan Tindak Pidana Korupsi;",
+      "start_line": 513,
+      "end_line": 513
+    },
+    {
+      "heading": "15. Bukti P-16 : Undang-Undang Nomor 4 Tahun 2004 t entang Kekuasaan",
+      "slug": "15-bukti-p-16-undang-undang-nomor-4-tahun-2004-t-entang-kekuasaan",
+      "text": "Kehakiman;",
+      "start_line": 515,
+      "end_line": 515
+    },
+    {
+      "heading": "16. Bukti P-17 : Fotokopi Undang-Undang Nomor 18 Ta hun 2003 tentang",
+      "slug": "16-bukti-p-17-fotokopi-undang-undang-nomor-18-ta-hun-2003-tentang",
+      "text": "Advokat;",
+      "start_line": 517,
+      "end_line": 517
+    },
+    {
+      "heading": "17. Bukti P-18 : Fotokopi Peraturan Pemerintah Peng ganti Undang-Undang",
+      "slug": "17-bukti-p-18-fotokopi-peraturan-pemerintah-peng-ganti-undang-undang",
+      "text": "Republik Indonesia Nomor 4 Tahun 2009 tentang Perub ahan \nAtas Undang-Undang Nomor 30 Tahun 2002 tentang Komi si \nPemberantasan Tindak Pidana Korupsi; \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam pu tusan ini, maka \nsegala sesuatu yang tertera dalam berita acara pers idangan telah termuat dan \nmerupakan bagian yang tidak terpisahkan dari putusan ini;",
+      "start_line": 519,
+      "end_line": 524
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "[3.1]  Menimbang bahwa maksud dan tujuan permohonan para Pemohon adalah \npengujian Peraturan Pemerintah Pengganti Undang-Und ang Nomor 4 Tahun 2009 \ntentang Perubahan Atas Undang-Undang Nomor 30 Tahun  2002 tentang Komisi \nPemberantasan Tindak Pidana Korupsi (Lembaran Negar a Republik Indonesia \nTahun 2009 Nomor 132, Tambahan Lembaran Negara Repu blik Indonesia Nomor \n5051), selanjutnya disebut Perpu 4/2009 terhadap Un dang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945, selanjutnya disebut UUD 1945; \n[3.2]  Menimbang bahwa sebelum mempertimbangkan pokok per mohonan, \nMahkamah Konstitusi, selanjutnya disebut Mahkamah, akan mempertimbangkan \nterlebih dahulu hal-hal berikut: \na. Kewenangan Mahkamah untuk memeriksa, mengadili, dan memutus permohonan         \na quo; \nb. Kedudukan hukum ( legal standing ) Pemohon; \n\n \n17  \n Terhadap kedua hal tersebut, Mahkamah berpendapat sebagai berikut: \nKewenangan Mahkamah \n[3.3]  Menimbang bahwa berdasarkan Pasal 24C ayat (1) UUD  1945 junctis  \nPasal 10 ayat (1) Undang-Undang Nomor 24 Tahun 2003  tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahu n 2003 Nomor 98, Tambahan \nLembaran Negara Republik Indonesia Nomor 4316), sel anjutnya disebut UU MK dan \nPasal 12 ayat (1) huruf a Undang-Undang Nomor 4 Tah un 2004 tentang Kekuasaan \nKehakiman (Lembaran Negara Republik Indonesia Tahun  2004 Nomor 8, Tambahan \nLembaran Negara Republik Indonesia Nomor 4358), sel anjutnya disebut UU 4/2004 \nsalah satu kewenangan konstitusional Mahkamah adala h menguji Undang-Undang \nterhadap Undang-Undang Dasar; \n[3.4]  Menimbang bahwa permohonan para Pemohon adalah pen gujian \nmengenai Perpu 4/2009 terhadap UUD 1945, sehingga p erlu dijawab terlebih dahulu \noleh Mahkamah apakah Perpu dimaksud mempunyai kedud ukan yang sama dengan \nUndang-Undang sehingga dapat diuji di Mahkamah, mak a terlebih dahulu  \nMahkamah akan mempertimbangkan mengenai kedudukan P erpu dalam tata urutan \nperundang-undangan di Indonesia; \n[3.5]  Menimbang bahwa dasar hukum dibuatnya Perpu diatur  dalam Pasal 22 \nayat (1) UUD 1945 yang menyatakan, “Dalam hal ihwal kegentingan yang memaksa \nPresiden berhak menetapkan peraturan pemerintah seb agai pengganti undang-\nundang”.  Kemudian Pasal 7 ayat (1) Undang-Undang Nomor 10 T ahun 2004 tentang \nPembentukan Peraturan Perundang-Undangan, selanjutn ya disebut UU 10/2004, \ntelah mendudukkan Perpu sejajar dengan Undang-Undan g. Pasal 7 ayat (1) UU \n10/2004 menyatakan, “Jenis dan hierarki Peraturan Perundang-undangan ad alah \nsebagai berikut: \na. Undang-Undang Dasar Negara Republik Indonesia Ta hun 1945; \nb. Undang-Undang/Peraturan Pemerintah Pengganti Und ang-Undang;",
+      "start_line": 526,
+      "end_line": 568
+    },
+    {
+      "heading": "c. ... dst”;",
+      "slug": "c-dst",
+      "text": "[3.6] Menimbang bahwa dalam perkara a quo  Mahkamah perlu untuk \n\n \n18  \nmenyampaikan pendapatnya tentang Peraturan Pemerint ah Pengganti Undang \nUndang sebagaimana diatur dalam Pasal 22 UUD 1945. Keberadaan Pasal 22 UUD \n1945 haruslah diletakkan dalam sistem UUD 1945 setelah Perubahan I, II, III, dan  IV \nsecara komprehensif; \n[3.7] Menimbang bahwa untuk itu Mahkamah perlu memperhatikan: \na. Pasal 22 yang mengatur Peraturan Pemerintah Peng ganti Undang-Undang \n(Perpu) terdapat di dalam Bab VII  tentang DPR.  Materi Bab VII terdiri atas Pasal \n19, Pasal 20, Pasal 20A, Pasal 21, Pasal 22, Pasal 22A, dan Pasal 22B, yang \nmengatur tentang kelembagaan DPR (Pasal 19, Pasal 2 0A, Pasal 21, dan Pasal \n22B) serta materi mengenai pembuatan Undang-Undang sebagai hasil \nPerubahan I dan II ( Vide  Pasal 20). Dalam hubungannya dengan materi yang \ndiatur dalam Bab VII ketentuan Pasal 22 sangat erat  hubungannya dengan \nkewenangan DPR dalam pembuatan Undang-Undang; \nb. Pasal II Aturan Tambahan Perubahan Undang-Undang  Dasar keempat \nmenyatakan, ”Dengan ditetapkannya perubahan Undang-Undang Dasar  ini, \nUndang-Undang Dasar Negara Republik Indonesia Tahun  1945 terdiri atas \nPembukaan dan pasal-pasal”;  \n[3.8] Menimbang bahwa ketentuan Pasal 22 UUD 1945 berisikan:",
+      "start_line": 570,
+      "end_line": 591
+    },
+    {
+      "heading": "1. Pemberian kewenangan kepada Presiden untuk membu at peraturan pemerintah",
+      "slug": "1-pemberian-kewenangan-kepada-presiden-untuk-membu-at-peraturan-pemerintah",
+      "text": "sebagai pengganti undang-undang;",
+      "start_line": 593,
+      "end_line": 593
+    },
+    {
+      "heading": "2. Kewenangan tersebut hanya dapat digunakan apabil a dalam keadaan",
+      "slug": "2-kewenangan-tersebut-hanya-dapat-digunakan-apabil-a-dalam-keadaan",
+      "text": "kegentingan yang memaksa;",
+      "start_line": 595,
+      "end_line": 595
+    },
+    {
+      "heading": "3. Peraturan pemerintah pengganti undang-undang ter sebut harus mendapatkan",
+      "slug": "3-peraturan-pemerintah-pengganti-undang-undang-ter-sebut-harus-mendapatkan",
+      "text": "persetujuan dari DPR pada persidangan berikutnya; \n[3.9] Menimbang bahwa UUD membedakan antara Perpu dengan Peraturan \nPemerintah sebagaimana dimaksud Pasal 5 ayat (2) ya ng  tujuannya adalah untuk \nmenjalankan Undang-Undang sebagaimana mestinya. Karena Peraturan Pemerintah \nPengganti Undang-Undang  diatur dalam Bab tentang DPR sedangkan  DPR  adalah \npemegang kekuasaan untuk membentuk Undang-Undang ma ka materi Perpu \nseharusnya adalah materi yang menurut UUD diatur de ngan Undang-Undang dan \n\n \n19  \nbukan materi yang melaksanakan Undang-Undang sebaga imana dimaksud oleh \nPasal 5 ayat (2) UUD 1945 dan materi Perpu juga buk an materi UUD. Apabila terjadi \nkekosongan Undang-Undang karena adanya berbagai hal  sehingga materi  Undang-\nUndang  tersebut  belum diproses untuk menjadi Undang-Undang sesuai dengan tata \ncara atau ketentuan yang berlaku dalam pembuatan Un dang-Undang namun  terjadi \nsituasi dan kondisi yang bersifat mendesak yang mem butuhkan aturan hukum          \nin casu  Undang-Undang untuk  segera digunakan  mengatasi s esuatu hal yang \nterjadi tersebut maka Pasal 22 UUD 1945 menyediakan  pranata khusus dengan \nmemberi wewenang kepada Presiden untuk membuat Pera turan Pemerintah \n(sebagai) Pengganti Undang-Undang. Pembuatan Undang -Undang untuk mengisi  \nkekosongan hukum  dengan  cara membentuk Undang-Und ang seperti proses biasa \natau normal dengan dimulai tahap  pengajuan Rancangan Undang-Undang oleh DPR \natau oleh Presiden akan memerlukan waktu yang cukup  lama  sehingga  kebutuhan \nhukum yang mendesak tersebut tidak dapat diatasi; \n[3.10] Menimbang bahwa dengan demikian Peraturan Pemerinta h Pengganti \nUndang-Undang diperlukan apabila:",
+      "start_line": 597,
+      "end_line": 622
+    },
+    {
+      "heading": "1. adanya keadaan yaitu kebutuhan mendesak untuk me nyelesaikan masalah",
+      "slug": "1-adanya-keadaan-yaitu-kebutuhan-mendesak-untuk-me-nyelesaikan-masalah",
+      "text": "hukum secara cepat  berdasarkan Undang-Undang;",
+      "start_line": 624,
+      "end_line": 624
+    },
+    {
+      "heading": "2. Undang-Undang yang dibutuhkan tersebut belum ada sehingga terjadi",
+      "slug": "2-undang-undang-yang-dibutuhkan-tersebut-belum-ada-sehingga-terjadi",
+      "text": "kekosongan hukum, atau ada Undang-Undang tetapi tidak memadai;",
+      "start_line": 626,
+      "end_line": 626
+    },
+    {
+      "heading": "3. kekosongan hukum tersebut tidak dapat diatasi de ngan cara membuat Undang-",
+      "slug": "3-kekosongan-hukum-tersebut-tidak-dapat-diatasi-de-ngan-cara-membuat-undang",
+      "text": "Undang secara prosedur biasa karena akan memerlukan waktu yang cukup lama \nsedangkan keadaan yang mendesak tersebut perlu kepastian untuk diselesaikan; \n[3.11] Menimbang bahwa Mahkamah berpendapat tiga syarat di  atas adalah \nsyarat adanya kegentingan yang memaksa sebagaimana dimaksud oleh Pasal 22 \nayat (1) UUD 1945; \n[3.12] Menimbang bahwa dengan demikian pengertian kegentin gan yang \nmemaksa tidak dimaknai sebatas hanya adanya keadaan  bahaya sebagaimana \ndimaksud oleh Pasal 12 UUD 1945. Memang benar bahwa  keadaan bahaya \nsebagaimana dimaksud oleh  Pasal 12 UUD 1945 dapat menyebabkan proses \n\n \n20  \npembentukan Undang-Undang secara biasa atau normal tidak dapat dilaksanakan, \nnamun keadaan bahaya bukanlah satu-satunya keadaan yang menyebabkan \ntimbulnya kegentingan memaksa sebagaimana dimaksud oleh Pasal 22 ayat (1) UUD \n1945; \n[3.13] Menimbang bahwa  Pasal 22 ayat (1) UUD 1945 menyata kan. ”Dalam hal \nihwal kegentingan yang memaksa, Presiden berhak men etapkan peraturan \npemerintah sebagai pengganti undang-undang”.  Dari rumusan kalimat tersebut jelas \nbahwa peraturan pemerintah yang dimaksud pada pasal  ini adalah sebagai \npengganti Undang-Undang, yang artinya seharusnya ma teri tersebut diatur dalam \nwadah Undang-Undang tetapi karena kegentingan yang memaksa, UUD 1945 \nmemberikan hak kepada Presiden untuk menetapkan Per pu dan tidak memberikan \nhak kepada DPR untuk membuat peraturan sebagai peng ganti Undang-Undang. \nApabila pembuatan peraturan diserahkan kepada DPR m aka proses di DPR \nmemerlukan waktu yang cukup lama karena DPR sebagai  lembaga perwakilan, \npengambilan putusannya ada di tangan anggota, yang artinya untuk memutuskan \nsesuatu hal harus melalui rapat-rapat DPR sehingga kalau harus menunggu \nkeputusan DPR kebutuhan hukum secara cepat mungkin tidak dapat terpenuhi. Di \nsamping itu,  dengan disebutnya ”Presiden berhak” t erkesan bahwa pembuatan \nPerpu menjadi sangat subjektif karena menjadi hak d an tergantung sepenuhnya \nkepada Presiden. Pembuatan Perpu memang di tangan P residen yang artinya \ntergantung kepada penilaian subjektif Presiden, nam un demikian tidak berarti bahwa \nsecara absolut tergantung kepada penilaian subjekti f Presiden karena sebagaimana \ntelah diuraikan di atas penilaian subjektif Preside n tersebut harus didasarkan kepada \nkeadaan yang objektif yaitu adanya tiga syarat seba gai parameter adanya \nkegentingan yang memaksa. Dalam kasus  tertentu dimana kebutuhan akan Undang-\nUndang sangatlah mendesak untuk menyelesaikan perso alan kenegaraan yang \nsangat penting yang dirasakan oleh seluruh bangsa, hak Presiden untuk menetapkan \nPerpu bahkan dapat menjadi  amanat kepada Presiden untuk menetapkan Perpu \nsebagai upaya untuk  menyelesaikan persoalan bangsa dan negara; \nPerpu melahirkan norma hukum dan sebagai norma huku m baru akan dapat \nmenimbulkan: (a) status hukum baru, (b) hubungan hu kum baru, dan (c) akibat \n\n \n21  \nhukum baru. Norma hukum tersebut lahir sejak Perpu disahkan dan nasib dari norma \nhukum tersebut tergantung kepada persetujuan DPR un tuk menerima atau menolak \nnorma hukum Perpu, namun demikian sebelum adanya pe ndapat DPR untuk \nmenolak atau menyetujui Perpu, norma hukum tersebut  adalah sah dan berlaku \nseperti Undang-Undang. Oleh karena dapat menimbulka n norma hukum yang \nkekuatan mengikatnya sama dengan Undang-Undang maka  terhadap norma yang  \nterdapat dalam Perpu tersebut Mahkamah dapat menguj i apakah bertentangan  \nsecara materiil dengan UUD 1945. Dengan demikian Ma hkamah berwenang untuk \nmenguji Perpu terhadap UUD 1945 sebelum adanya peno lakan atau persetujuan \noleh DPR, dan setelah adanya persetujuan DPR karena Perpu tersebut telah menjadi \nUndang-Undang; \nKedudukan hukum ( legal standing ) Pemohon \n[3.14] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK , yang dapat \nbertindak sebagai Pemohon dalam pengujian suatu Und ang-Undang terhadap UUD \n1945 adalah mereka yang menganggap hak dan/atau kew enangan konstitusionalnya \ndirugikan oleh berlakunya Undang-Undang yang dimohonkan pengujian, yaitu: \na. perorangan warga negara Indonesia (termasuk kelo mpok orang yang mempunyai \nkepentingan sama); \nb. kesatuan masyarakat hukum adat sepanjang masih h idup dan sesuai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan  Republik Indonesia \nyang diatur dalam Undang-Undang;",
+      "start_line": 628,
+      "end_line": 694
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "[3.15] Menimbang pula bahwa Mahkamah sejak Putusan Nomor 006/PUU-\nIII/2005 bertanggal 31 Mei 2005 dan Putusan Nomor 1 1/PUU-V/2007 bertanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya te lah berpendirian bahwa \nkerugian hak dan/atau kewenangan konstitusional seb agaimana dimaksud Pasal 51 \nayat (1) UU MK harus memenuhi lima syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional pe mohon yang diberikan oleh \nUUD 1945; \n\n \n22  \nb. hak dan/atau kewenangan konstitusional tersebut oleh pemohon dianggap \ndirugikan oleh berlakunya Undang-Undang yang dimohonkan pengujian;",
+      "start_line": 697,
+      "end_line": 708
+    },
+    {
+      "heading": "c. kerugian hak dan/atau kewenangan konstitusional tersebut harus bersifat spesifik",
+      "slug": "c-kerugian-hak-dan-atau-kewenangan-konstitusional-tersebut-harus-bersifat-spesifik",
+      "text": "(khusus) dan aktual atau setidak-tidaknya potensial yang menurut penalaran yang \nwajar dapat dipastikan akan terjadi;",
+      "start_line": 710,
+      "end_line": 711
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat ( causal verband ) antara kerugian dimaksud dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian-dimaksud-dan",
+      "text": "berlakunya Undang-Undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya pe rmohonan, maka kerugian \nhak dan/atau kewenangan konstitusional seperti yang  didalilkan tidak akan atau \ntidak lagi terjadi; \n[3.16] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU M K dan syarat-\nsyarat kerugian hak dan/atau kewenangan konstitusio nal sebagaimana diuraikan di \natas, selanjutnya Mahkamah akan mempertimbangkan ke dudukan hukum (legal \nstanding) para  Pemohon dalam permohonan a quo ; \n[3.17] Menimbang bahwa Kepaniteraan Mahkamah pada tanggal 11 November \n2009 telah menerima perbaikan permohonan para Pemoh on. Permohonan dimaksud \ndiperbaiki kembali (perbaikan kedua) dengan permoho nan bertanggal 16 November \n2009 dan diterima di Kepaniteraan Mahkamah pada tan ggal 19 November 2009. \nTerhadap perbaikan permohonan kedua tersebut, Mahka mah berpendapat bahwa \nperbaikan permohonan para Pemohon bertanggal 16 Nov ember 2009 yang diterima",
+      "start_line": 713,
+      "end_line": 726
+    },
+    {
+      "heading": "di Kepaniteraan Mahkamah tanggal 19 November 2009 t elah melewati tenggat 14",
+      "slug": "di-kepaniteraan-mahkamah-tanggal-19-november-2009-t-elah-melewati-tenggat-14",
+      "text": "hari sebagaimana yang ditentukan dalam Pasal 39 aya t (2) UU MK. Oleh karena itu \nperbaikan permohonan kedua tersebut haruslah dikesa mpingkan dan Mahkamah \nhanya akan mempertimbangkan permohonan para Pemohon  yang telah diperbaiki \ndan diterima di Kepaniteraan Mahkamah tanggal 11 November 2009;  \n[3.18] Menimbang bahwa para Pemohon mendalilkan sebagai pe rorangan warga \nnegara Indonesia yang berprofesi sebagai advokat (B ukti P-1 sampai dengan Bukti \nP-12) menganggap hak dan/atau kewenangan konstitusi onalnya dirugikan oleh \nberlakunya Perpu 4/2009. Para Pemohon mendalilkan b ahwa profesinya sebagai \nadvokat memiliki kewajiban hukum lebih dibanding de ngan warga negara lainnya. \n\n \n23  \nSebelum menjadi advokat, para Pemohon telah menguca pkan sumpah/janji untuk \nmemegang teguh dan mengamalkan Pancasila dan UUD 19 45, sehingga implikasi \ndari sumpah/janji tersebut telah memberikan kewajib an kepada para Pemohon untuk \nmengajukan keberatan atas terbitnya Perpu 4/2009 ka rena tidak sesuai dengan \nkepastian hukum dan kaidah pembentukan peraturan pe rundang-undangan yang \nmerugikan hak konstitusional para Pemohon. Menurut para Pemohon bahwa Perpu \n4/2009 telah merugikan hak konstitusionalnya dalam menjalankan profesinya \nsebagai advokat, karena Perpu dimaksud menimbulkan ketidakpastian hukum, \nmerusak sistem dan tatanan hukum dalam masyarakat. Berdasarkan uraian \ntersebut, para Pemohon berpendapat bahwa Perpu 4/20 09 bertentangan \ndengan Pasal 22 ayat (1), dan Pasal 28D ayat (1) UU D 1945; \n[3.19] Menimbang bahwa Perpu 4/2009 mengatur mengenai meka nisme \npenggantian Pimpinan Komisi Pemberantasan Korupsi, dimana di dalam Perpu \ntersebut telah menambah dan/atau menyelipkan dua pa sal yaitu Pasal 33A dan \nPasal 33B yang berbunyi: \nPasal 33A \n(1) ”Dalam hal terjadinya kekosongan keanggotaan Pimpin an Komisi \nPemberantasan Korupsi yang menyebabkan Pimpinan Kom isi \nPemberantasan Korupsi berjumlah kurang dari 3 (tiga ) orang, Presiden \nmengangkat anggota sementara Pimpinan Komisi Pember antasan Korupsi \nsejumlah jabatan yang kosong” ; \n(2) ”Anggota sementara Pimpinan Komisi Pemberantasan Ko rupsi \nsebagaimana dimaksud pada ayat (1) mempunyai tugas,  wewenang, \nkewajiban dan hak yang sama dengan Pimpinan Komisi Pemberantasan \nKorupsi” ; \n(3) ”Calon anggota sementara Pimpinan Komisi Pemberanta san Korupsi \nharus memenuhi persyaratan sebagaimana dimaksud dal am Pasal 29” ; \n(4) ”Pengangkatan dan pemberhentian anggota sementara P impinan Komisi \nPemberantasan Korupsi ditetapkan oleh Presiden” ; \n(5) ”Dalam hal kekosongan keanggotaan Pimpinan Komisi P emberantasan \nKorupsi menyangkut Ketua, maka Ketua dipilih dari d an oleh anggota \n\n \n24  \nPimpinan Komisi Pemberantasan Korupsi” ; \n(6) ”Ketua dan Wakil Ketua Komisi Pemberantasan Korupsi  ditetapkan dengan \nKeputusan Presiden” ; \n(7) ”Sebelum memangku jabatan, Ketua dan Wakil Ketua Ko misi \nPemberantasan Korupsi yang baru wajib mengucapkan s umpah/janji \nsebagaimana dimaksud dalam Pasal 35” ; \nPasal 33B  \n”Masa jabatan anggota sementara Pimpinan Komisi Pem berantasan Korupsi \nsebagaimana dimaksud dalam Pasal 33A ayat (1) berak hir saat: \na. anggota Pimpinan Komisi Pemberantasan Korupsi yang digantikan karena \ndiberhentikan sementara sebagaimana dimaksud dalam Pasal 32 ayat (2) \ndiaktifkan kembali karena pemberhentian sementara t idak berlanjut menjadi \npemberhentian tetap; atau \nb. pengucapan sumpah/janji anggota Pimpinan Komisi Pem berantasan \nKorupsi yang baru setelah dipilih melalui proses se bagaimana dimaksud \ndalam Pasal 33 ayat (2)” ; \nPasal-pasal dalam Perpu 4/2009 tersebut sama sekali  tidak berkaitan dengan \nhak konstitusional para Pemohon. Jika pun Perpu ter sebut merugikan hak \nkonstitusional warga negara Indonesia, maka kerugia n dimaksud tidak ada \nkaitannya dengan kerugian hak konstitusional para P emohon sebagai advokat \nsebagaimana yang telah didalilkan; \n[3.20] Menimbang bahwa berdasarkan uraian mengenai keduduk an hukum ( legal \nstanding ) dan kerugian para Pemohon tersebut di atas, Mahka mah berpendapat \nsebagai berikut:",
+      "start_line": 728,
+      "end_line": 797
+    },
+    {
+      "heading": "1. Para Pemohon yang berprofesi sebagai advokat tid ak dirugikan hak",
+      "slug": "1-para-pemohon-yang-berprofesi-sebagai-advokat-tid-ak-dirugikan-hak",
+      "text": "konstitusionalnya oleh berlakunya Perpu 4/2009. Jik a pun para Pemohon \nmengalami kerugian, quod non , maka kerugian dimaksud tidak bersifat spesifik \n(khusus) dan aktual atau setidak-tidaknya potensial yang menurut penalaran yang \nwajar dapat dipastikan akan terjadi; \n\n \n25",
+      "start_line": 799,
+      "end_line": 805
+    },
+    {
+      "heading": "2. Tidak ada hubungan sebab-akibat (causal verband) antara kerugian yang",
+      "slug": "2-tidak-ada-hubungan-sebab-akibat-causal-verband-antara-kerugian-yang",
+      "text": "didalilkan oleh para Pemohon dengan berlakunya Perp u 4/2009 yang \ndimohonkan pengujian;",
+      "start_line": 807,
+      "end_line": 808
+    },
+    {
+      "heading": "3. Tidak terdapat jaminan bahwa dengan dikabulkanny a permohonan a quo,",
+      "slug": "3-tidak-terdapat-jaminan-bahwa-dengan-dikabulkanny-a-permohonan-a-quo",
+      "text": "kerugian konstitusional sebagaimana yang didalilkan tidak lagi terjadi; \nBerdasarkan uraian di atas, para Pemohon tidak memi liki kedudukan hukum ( legal \nstanding ) untuk mengajukan permohonan a quo, karena tidak dirugikan oleh \nberlakunya Perpu 4/2009 yang dimohonkan pengujian; \n[3.21]   Menimbang bahwa oleh karena para Pemohon tidak me miliki kedudukan \nhukum ( legal standing ), maka pokok permohonan tidak perlu dipertimbangkan;",
+      "start_line": 810,
+      "end_line": 815
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan pertimbangan hukum dan fakt a di atas, Mahkamah \nberkesimpulan: \n[4.1]   Mahkamah berwenang untuk memeriksa, mengadili, da n memutus \npermohonan a quo ; \n[4.2]  Para Pemohon tidak mempunyai kedudukan hukum ( legal standing ) untuk \nmengajukan permohonan a quo; \n[4.3] Pokok permohonan tidak dipertimbangkan. \n Berdasarkan Undang-Undang Dasar Negara Republik In donesia Tahun \n1945 dan mengingat Pasal 56 ayat (1) Undang-Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi (Lembaran Negara Republ ik Indonesia Tahun 2003 \nNomor 98, Tambahan Lembaran Negara Republik Indonesia Nomor 4316).",
+      "start_line": 817,
+      "end_line": 827
+    },
+    {
+      "heading": "Mengadili",
+      "slug": "mengadili",
+      "text": "Menyatakan permohonan para Pemohon tidak dapat dit erima. \n\n \n26  \n Demikian diputuskan dalam Rapat Permusyawaratan Ha kim yang dihadiri \noleh sembilan Hakim Konstitusi pada hari Senin tang gal satu Februari tahun dua ribu \nsepuluh dan diucapkan dalam Sidang Pleno Mahkamah K onstitusi terbuka untuk \numum pada hari Senin tanggal delapan bulan Februari  tahun dua ribu sepuluh, oleh \nkami Moh. Mahfud MD, selaku Ketua merangkap Anggota , Achmad Sodiki, M. Akil \nMochtar, M. Arsyad Sanusi, Harjono, Muhammad Alim, Maria Farida Indrati, Ahmad \nFadlil Sumadi, dan Hamdan Zoelva, masing-masing sebagai Anggota dengan dibantu \noleh Sunardi sebagai Panitera Pengganti, dihadiri o leh para Pemohon, dan \nPemerintah atau yang mewakili.",
+      "start_line": 830,
+      "end_line": 842
+    },
+    {
+      "heading": "KETUA",
+      "slug": "ketua",
+      "text": "ttd. \n \n \nMoh. Mahfud MD \nANGGOTA-ANGGOTA, \n \n \nttd. \n \nAchmad Sodiki \n \n \nttd. \n \nM. Akil Mochtar  \n \nttd. \n \nM. Arsyad Sanusi  \n \nttd. \n \nHarjono  \n \n \nttd. \n \nMuhammad Alim \n \n \nttd. \n \nMaria Farida Indrati \n                           \n \n  ttd. \n \nAhmad Fadlil Sumadi \n \n \nttd. \n \nHamdan Zoelva \n \n \n  \n\n \n27",
+      "start_line": 844,
+      "end_line": 894
+    },
+    {
+      "heading": "6. ALASAN BERBEDA DAN PENDAPAT BERBEDA (CONCURRING OPINION",
+      "slug": "6-alasan-berbeda-dan-pendapat-berbeda-concurring-opinion",
+      "text": "DAN  DISSENTING OPINION)  \n Terhadap Putusan Mahkamah ini Hakim Konstitusi Moh . Mahfud MD \nmempunyai alasan berbeda ( concurring opinion ) dan Hakim Konstitusi Muhammad \nAlim mempunyai pendapat berbeda ( dissenting opinion ):",
+      "start_line": 896,
+      "end_line": 899
+    },
+    {
+      "heading": "1. Hakim Konstitusi Moh. Mahfud MD",
+      "slug": "1-hakim-konstitusi-moh-mahfud-md",
+      "text": "Jika dirunut dari original intent,  tafsir historik, tafsir gramatik, dan logika \nhukum seharusnya Mahkamah Konstitusi tidak bisa mel akukan pengujian yudisial \n(judicial review)  atas Peraturan Pemerintah Pengganti Undang-undang (Perpu) \nterhadap Undang-Undang Dasar 1945. Sebab menurut Pasal 24C ayat (1) UUD 1945 \nMahkamah hanya menguji Undang-Undang terhadap Undan g-Undang Dasar. \nKalimat dalam Pasal 24C ayat (1) tersebut sangat je las hanya menyebut Undang-\nUndang dan tidak menyebut Perpu. Seandainya Mahkama h diperbolehkan menguji \nPerpu tentu UUD menyebut secara eksplisit pemboleha n tersebut sebab secara \nformal UUD 1945 membedakan dan menempatkan secara b erbeda penyebutan atau \npengaturan antara UU dan Perpu; Undang-Undang diatur dalam Pasal 20 sedangkan \nPerpu diatur dalam Pasal 22. \nMemang benar, dari sudut isi sebuah Perpu itu menga tur materi muatan \nUndang-Undang. Artinya isi Perpu itu sebenarnya ada lah Undang-Undang yang \ndibuat dalam kegentingan yang memaksa yang alasan-a lasannya merupakan hak \nsubjektif Presiden. Tetapi justru karena dibuat dal am keadaan genting itulah UUD \n1945 melalui Pasal 22 menyatakan bahwa “Perpu itu h arus mendapat persetujuan \ndari DPR pada masa sidang berikutnya,” yang “apabil a DPR tidak menyetujuinya \nmaka Perpu itu harus dicabut atau dibatalkan,” teta pi “apabila DPR menyetujuinya \nmaka Perpu itu ditetapkan menjadi Undang-Undang.” J adi kewenangan Mahkamah \nuntuk menguji Perpu yang memang bermaterikan Undang -Undang itu hanya dapat \ndilakukan apabila sudah diuji, dinilai, dibahas, at au apapun namanya dalam forum \npolitik di DPR dan DPR menyetujuinya menjadi Undang -Undang. Jika DPR tidak \nmenyetujui maka Perpu itu dicabut tetapi jika DPR m enyetujui maka Perpu itu \nditetapkan menjadi Udang-Undang dan setelah menjadi  Udang-Undang inilah \n\n \n28  \nMahkamah baru dapat melakukan pengujian yudisial at asnya. Di sinilah letak \nimbangan bagi “keadaan genting” itu; artinya karena Perpu berisi Udang-Undang tapi \ndibuat dalam keadaan genting maka DPR harus memberi  penilaian atau melakukan \npengujian politik (political review)  lebih dulu, apakah akan disetujui menjadi Undang-\nUndang atau tidak. Kalau sudah menjadi Undang-Undan g barulah dapat diuji oleh \nMahkamah.  \n Kajian-kajian akademik yang pernah berkembang di k ampus-kampus pada \ntahun 2000-2001 menyebutkan, antara lain, bahwa pen gujian Perpu oleh lembaga \nyudisial (judicial review) atau oleh lembaga lain (seperti yang pernah diberik an \nkepada MPR oleh Tap MPR No. III/MPR/2000) merupakan  “perampasan” atas hak \ndan kewenangan konstitusional DPR yang diberikan ol eh UUD 1945. Sebab sudah \nsangat jelas, Pasal 22 UUD 1945 memberi hak kepada DPR untuk menilai sebuah \nPerpu pada persidangan berikutnya, apakah Perpu itu  akan disetujui sebagai \nUndang-Undang ataukah tidak. Kesamaan level isi ant ara Undang-Undang dan \nPerpu tetap tidak dapat dijadikan alasan bagi lemba ga selain DPR untuk menguji \nkonstitusionalitas Perpu terhadap UUD 1945; apalagi  kalau kesamaan isi itu hanya \nkarena Perpu diartikan sebagai “undang-undang dalam arti materiil,”  sebab di dalam \nhukum tata negara semua jenis peraturan perundang-u ndangan, mulai dari UUD \nsampai Peraturan Desa, adalah undang-undang dalam arti materiil. \n Namun akhir-akhir ini ada perkembangan penting dal am ketatanegaraan kita \nsehingga saya ikut menyetujui agar Perpu dapat diuj i konstitusionalitasnya oleh \nMahkamah Konstitusi terutama melalui titik tekan da lam penafsiran konstitusi. Dalam \nkaitan antara perkembangan ketatanegaraan dan pengu jian Perpu ini saya melihat \nperlunya penafsiran atas isi UUD 1945 tidak hanya b ertumpu pada original intent , \ntafsir historik, dan tafsir gramatik melainkan haru s menekankan pada penafsiran \nsosiologis dan teleologis. Perkembangan ketatanegar aan di lapangan yang menjadi \nalasan bagi saya untuk menyetujui dilakukannya judicial review  terhadap Perpu oleh \nMahkamah Konstitusi adalah hal-hal sebagai berikut:",
+      "start_line": 901,
+      "end_line": 955
+    },
+    {
+      "heading": "1. Akhir-akhir ini timbul perdebatan, apakah penila ian untuk memberi persetujuan",
+      "slug": "1-akhir-akhir-ini-timbul-perdebatan-apakah-penila-ian-untuk-memberi-persetujuan",
+      "text": "atau tidak atas Perpu oleh DPR dilakukan pada masa sidang berikutnya persis \npada masa sidang setelah Perpu itu dikeluarkan atau kah pada masa sidang \nberikutnya dalam arti kapan saja DPR sempat sehingg a pembahasannya dapat \n\n \n29  \ndiulur-ulur. Dalam kenyataannya Perpu yang dimohonk an pengujian dalam \nperkara a quo baru dibahas oleh DPR setelah melampaui masa sidang  pertama \nsejak Perpu ini dikeluarkan. Seperti diketahui Perp u a quo  diundangkan pada \ntanggal 22 September 2009, sedangkan masa sidang DP R berikutnya (DPR \nbaru, hasil Pemilu 2009) adalah tanggal 1 Oktober s ampai dengan tanggal 4 \nDesember 2009, tetapi Perpu a quo tidak dibahas pada masa sidang pertama \ntersebut. Kalau Perpu tidak dapat diuji oleh Mahkam ah maka sangat mungkin \nsuatu saat ada Perpu yang dikeluarkan tetapi DPR ti dak membahasnya dengan \ncepat dan mengulur-ulur waktu dengan berbagai alasa n, padahal Perpu tersebut \nmengandung hal-hal yang bertentangan dengan konstit usi. Oleh sebab itu \nmenjadi beralasan, demi konstitusi, Perpu harus dap at diuji konstitusionalitasnya \noleh Mahkamah Konstitusi agar segera ada kepastian dapat atau tidak dapat \nterus berlakunya sebuah Perpu.",
+      "start_line": 957,
+      "end_line": 975
+    },
+    {
+      "heading": "2. Timbul juga polemik tentang adanya Perpu yang di persoalkan keabsahan",
+      "slug": "2-timbul-juga-polemik-tentang-adanya-perpu-yang-di-persoalkan-keabsahan",
+      "text": "hukumnya karena tidak nyata-nyata disetujui dan tid ak nyata-nyata ditolak oleh \nDPR. Dalam kasus ini DPR hanya meminta agar Pemerintah segera mengajukan \nRUU baru sebagai pengganti Perpu. Masalah mendasar dalam kasus ini adalah \nbagaimana kedudukan hukum sebuah Perpu yang tidak d isetujui tetapi tidak \nditolak secara nyata tersebut. Secara gramatik, jik a memperhatikan bunyi Pasal \n22 UUD 1945, sebuah Perpu yang tidak secara tegas m endapat persetujuan dari \nDPR “mestinya” tidak dapat dijadikan Undang-Undang atau tidak dapat \nditeruskan pemberlakuannya sebagai Perpu, tetapi se cara politis ada fakta yang \nberkembang sekarang ini bahwa “kesemestian” tersebu t masih dipersoalkan, \nsehingga sebuah Perpu yang tidak disetujui oleh DPR (meski tidak ditolak secara  \nnyata) masih terus diberlakukan sampai dipersoalkan  keabsahan hukumnya \nkarena dikaitkan dengan satu kasus. Dalam keadaan i ni menjadi wajar jika \nMahkamah diberi kewenangan untuk melakukan pengujian terhadap Perpu.",
+      "start_line": 977,
+      "end_line": 989
+    },
+    {
+      "heading": "3. Terkait dengan tidak disetujuinya sebuah Perpu o leh DPR ada juga pertanyaan,",
+      "slug": "3-terkait-dengan-tidak-disetujuinya-sebuah-perpu-o-leh-dpr-ada-juga-pertanyaan",
+      "text": "sampai berapa lama atau kapan sebuah Perpu yang tid ak mendapat persetujuan \nDPR harus diganti dengan Undang-Undang Pencabutan a tau Undang-Undang \nPengganti. Karena tidak ada kejelasan batas atau ti tik waktu maka dalam \npengalaman sekarang ini ada Perpu yang tidak mendap at persetujuan DPR \n\n \n30  \ntetapi RUU penggantinya atau pencabutannya baru diajukan setelah timbul kasus \nyang berkaitan dengannya. Oleh sebab itu menjadi wa jar pula, demi tegaknya \nkonstitusi, Mahkamah Konstitusi diberi kewenangan u ntuk melakukan pengujian \nterhadap Perpu.",
+      "start_line": 991,
+      "end_line": 1001
+    },
+    {
+      "heading": "4. Dapat terjadi suatu saat Perpu dibuat secara sep ihak oleh Presiden tetapi secara",
+      "slug": "4-dapat-terjadi-suatu-saat-perpu-dibuat-secara-sep-ihak-oleh-presiden-tetapi-secara",
+      "text": "politik DPR tidak dapat bersidang untuk membahasnya  karena situasi tertentu, \nbaik karena keadaan yang sedang tidak normal maupun  karena sengaja \ndihambat dengan kekuatan politik tertentu agar DPR tidak dapat bersidang. \nBahkan dapat juga dalam keadaan seperti itu ada Per pu yang melumpuhkan \nlembaga-lembaga negara tertentu secara sepihak deng an alasan kegentingan \nyang memaksa sehingga ada Perpu yang terus dipaksak an berlakunya \nsementara persidangan-persidangan DPR tidak dapat d iselenggarakan. Dengan \nmemerhatikan kemungkinan itu menjadi wajar apabila Mahkamah diberi \nkewenangan untuk melakukan pengujian atas Perpu. \n Berdasarkan hal-hal tersebut maka saya menyetujui Perpu dapat diuji oleh \nMahkamah Konstitusi melalui penekanan pada penafsir an sosiologis dan teleologis. \nPenekanan pilihan atas penafsiran yang demikian mem ang agak mengesampingkan \npenafsiran historis dan gramatik, bahkan keluar dar i original intent  ketentuan tentang \nPerpu sebagaimana diatur di dalam Pasal 22 UUD 1945 . Hal ini perlu dilakukan \njustru untuk melindungi kepentingan original intent  pasal-pasal dan prinsip-prinsip lain \nyang juga ada di dalam UUD 1945. Pilihan pandangan ini semata-mata didasarkan \npada prinsip dalam menjaga tegaknya konstitusi yakni “tidak boleh satu detik pun ada \nperaturan perundang-undangan yang berpotensi melang gar konstitusi tanpa bisa \ndiluruskan atau diuji melalui pengujian yudisial.” \n Dengan demikian saya setuju dengan pendapat tujuh hakim lainnya bahwa \nPerpu dapat diuji oleh Mahkamah Konstitusi, tetapi khusus permohonan a quo  \n(Pengujian Peraturan Pemerintah Penganti Undang-Und ang Nomor 4 Tahun 2009 \ntentang Perubahan Atas Undang-Undang Nomor 30 Tahun  2002 tentang Komisi \nPemberantasan Tindak Pidana Korupsi) harus dinyatak an tidak dapat diterima (niet \nonvantklijke verklaard)  karena permohonan bersifat kabur  (obscuur)  dan pemohon \ntidak mempunyai kedudukan hukum (legal standing).  \n\n \n31",
+      "start_line": 1003,
+      "end_line": 1031
+    },
+    {
+      "heading": "2. Hakim Konstitusi Muhammad Alim",
+      "slug": "2-hakim-konstitusi-muhammad-alim",
+      "text": "Alasan-alasan ketidakberwenangan Mahkamah Konstitusi menguji Perpu:",
+      "start_line": 1033,
+      "end_line": 1033
+    },
+    {
+      "heading": "1. Pasal 24C ayat (1) UUD 1945, Pasal 10 ayat (1) h uruf a Undang-Undang Nomor",
+      "slug": "1-pasal-24c-ayat-1-uud-1945-pasal-10-ayat-1-h-uruf-a-undang-undang-nomor",
+      "text": "24 Tahun 2003 tentang Mahkamah Konstitusi, Pasal 12  ayat (1) huruf a \nUndang-Undang  Nomor 4 Tahun 2004  tentang Kekuasaa n Kehakiman hanya \nmenyebut,  “Menguji undang-undang terhadap UUD .”",
+      "start_line": 1035,
+      "end_line": 1037
+    },
+    {
+      "heading": "2. Pasal 20 UUD 1945 yaitu kewenangan membentuk un dang-undang, begitu pula",
+      "slug": "2-pasal-20-uud-1945-yaitu-kewenangan-membentuk-un-dang-undang-begitu-pula",
+      "text": "Pasal 22A tentang kewenangan membuat Perpu, sudah l ebih dahulu ada, \nkarena waktu mengubah Pasal 20 UUD 1945 dilakukan p ada Perubahan \nPertama (1999) dan khusus ayat (5) pada Perubahan K edua (2000); Pasal 22 \nUUD 1945 tidak ada perubahan, sedangkan Pasal 24C a yat (1) dilakukan pada \nPerubahan Ketiga (2001), tetapi hanya menyebut, “ Menguji undang-undang \nterhadap Undang-Undang Dasar ; “",
+      "start_line": 1039,
+      "end_line": 1044
+    },
+    {
+      "heading": "3. Pada waktu dirumuskannya Pasal 24C ayat (1) UUD 1945, tata urutan",
+      "slug": "3-pada-waktu-dirumuskannya-pasal-24c-ayat-1-uud-1945-tata-urutan",
+      "text": "perundang-undangan Indonesia menurut Tap MPR Nomor III/MPR/Tahun 2000 \ntentang Sumber Hukum dan Tata Urutan Perundang-Undangan adalah: \n- UUD 1945; \n- Tap MPR; \n- Undang-Undang; \n- Perpu, dst. \nMeskipun demikian, rumusan Pasal 24C ayat (1) UUD 1 945 hanya memberi \nkewenangan untuk, “ Menguji undang-undang terhadap UUD ”; \nKewenangan menguji Undang-Undang (tanpa menyebut Pe rpu), terhadap \nUndang-Undang Dasar 1945 dan Perubahannya dan Ketet apan Majelis \nPermusyawaratan Rakyat yang menurut ketentuan Pasal  5 ayat (1) Tap MPR \nNo. III/MPR/Tahun 2000 merupakan kewenangan MPR lal u dialihkan menjadi \nkewenangan Mahkamah Konstitusi berdasarkan Pasal 24 C ayat (1) UUD 1945, \nhanya sebatas menguji Undang-Undang terhadap UUD 19 45, tidak termasuk \nmenguji Perpu, tidak termasuk pula menguji Tap MPR. \nDengan pemberian kewenangan semula kepada MPR kemud ian kepada \nMahkamah Konstitusi hanya sebatas menguji Udang-Und ang terhadap UUD \n\n \n32  \nwalaupun waktu itu posisi Perpu di bawah Undang-Und ang, sedangkan posisi \nTap MPR di atas Undang-Undang menunjukkan dengan se terang-terangnya \nbahwa pembuat UUD, yakni MPR memang hanya menghenda ki kewenangan \nMahkamah Konstitusi untuk menguji Undang-Undang terhadap UUD;",
+      "start_line": 1046,
+      "end_line": 1069
+    },
+    {
+      "heading": "4. Pasal 24C ayat (1) UUD 1945 tidak menyebutkan P erpu, berarti hal itu",
+      "slug": "4-pasal-24c-ayat-1-uud-1945-tidak-menyebutkan-p-erpu-berarti-hal-itu",
+      "text": "diserahkan kepada DPR untuk menyetujui atau tidak m enyetujui suatu Perpu \npada sidang berikutnya sesuai ketentuan Pasal 22 ay at (2) UUD 1945. Setelah \ndisetujui menjadi Undang-Undang  barulah dapat diuji ke Mahkamah Konstitusi.  \nPerpu tentang Pemberantasan Tindak Pidana Terorisme  yang dikeluarkan \nmenyusul peristiwa yang dikenal dengan sebutan peri stiwa ‘Bom Bali’, diuji di \nMahkamah Konstitusi setelah disetujui DPR menjadi U ndang-Undang (Undang-\nUndang Nomor  16 Tahun 2003 tentang Penetapan Peraturan Pemerinta h \nPengganti Undang-Undang Nomor 2 Tahun 2002 tentang Pemberlakuan \nPeraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang \nPemberantasan Tindak Pidana Terorisme, Pada Peristi wa Peledakan Bom Di \nBali Tanggal 12 Oktober 2002, Menjadi Undang-Undang).",
+      "start_line": 1071,
+      "end_line": 1081
+    },
+    {
+      "heading": "5. Tata urutan perundang-undangan Indonesia yang se karang berlaku sesuai",
+      "slug": "5-tata-urutan-perundang-undangan-indonesia-yang-se-karang-berlaku-sesuai",
+      "text": "ketentuan Pasal 7 Undang-Undang Nomor 10 Tahun 2004  tentang \nPembentukan Peraturan Perundang-undangan, yang memo sisikan Undang-\nUndang dan Perpu pada level yang sama (seperti dala m TAP MPRS XX/ \nMPRS/1966) itu dibentuk setelah selesainya Perubaha n Keempat UUD 1945 \n(Tahun 2002).",
+      "start_line": 1083,
+      "end_line": 1087
+    },
+    {
+      "heading": "6. Perubahan aturan yang lebih rendah tingkatannya dari UUD, misalnya TAP",
+      "slug": "6-perubahan-aturan-yang-lebih-rendah-tingkatannya-dari-uud-misalnya-tap",
+      "text": "MPR Nomor III Tahun 2000, yang menetapkan tata urutan perundang-undangan \nyang meletakkan Perpu pada posisi di bawah Undang-Undang , kemudian UU \n10/2004 yang memosisikan Undang-Undang  pada level yang sama dengan  \nPerpu dengan menggunakan garis miring (/), tidak da pat mengubah UUD 1945, \nyakni Pasal 24C ayat (1) yang hanya menyebut kewena ngan Mahkamah \nKonstitusi untuk antara lain menguji Undang-Undang  terhadap UUD, tanpa \nmenyebut kewenangan menguji Perpu.",
+      "start_line": 1089,
+      "end_line": 1095
+    },
+    {
+      "heading": "7. Pasal 1 ayat (2) UUD 1945 menentukan, “ Kedaulatan berada di tangan rakyat",
+      "slug": "7-pasal-1-ayat-2-uud-1945-menentukan-kedaulatan-berada-di-tangan-rakyat",
+      "text": "dan dilaksanakan menurut UUD” . \n\n \n33  \nKewenangan yang diberikan oleh yang berdaulat, haru s dilaksanakan sesuai \ndengan UUD, tidak boleh menyimpang dari UUD 1945. Kewenangan Mahkamah \nKonstitusi yang tertera dalam Pasal 24C ayat (1) UUD 1945 yang hanya sebatas \nmenguji Undang-Undang  terhadap UUD, apabila ditambah dengan menguji \nPerpu, menurut saya dilaksanakan tidak menurut UUD,  melainkan dilaksanakan \nmenyimpang dari UUD; \n Berdasarkan pertimbangan-pertimbangan di atas saya berpendapat \nMahkamah Konstitusi tidak berwenang mengadili permohonan a quo . \n Bahwa akan tetapi jikalau muatan materi Perpu buka n muatan yang \nseharusnya diatur dalam undang-undang, atau materi muatan Perpu yang di luar \nkewenangan Presiden, atau jelas-jelas bertentangan dengan konstitusi, misalnya \nPresiden mengeluarkan Perpu yang berisi atau materi nya membekukan atau \nmembubarkan DPR, karena bertentangan dengan Pasal 7 C UUD 1945, maka \nMahkamah Konstitusi berwenang mengadili pengujian P erpu tersebut, walaupun \nbelum mendapat persetujuan atau penolakan dari DPR dalam persidangan yang \nberikutnya, apalagi kalau materi Perpu itu adalah p embubaran DPR sudah tak ada \nDPR yang menyetujui atau menolak Perpu tersebut. \n Bahwa Perpu Nomor 4 Tahun 2009 menurut saya isinya  masih dalam \nkewenangan Presiden serta tidak bertentangan dengan  UUD 1945, maka saya \nberpendapat Mahkamah Konstitusi tidak berwenang men gadili permohonan a quo , \noleh karena itu permohonan para Pemohon harus dinyatakan tidak dapat diterima . \n \nPANITERA PENGGANTI, \n \nttd.",
+      "start_line": 1097,
+      "end_line": 1125
+    },
+    {
+      "heading": "SUNARDI",
+      "slug": "sunardi",
+      "text": "",
+      "start_line": 1127,
+      "end_line": 1127
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "SAOR SIAGIAN, S.H.",
+        "role": "Pemohon 1",
+        "description": null
+      },
+      {
+        "name": "MANGAPUL SILALAHI, S.H.",
+        "role": "Pemohon 2",
+        "description": null
+      },
+      {
+        "name": "DANIEL TONAPA MASIKU, S.H.",
+        "role": "Pemohon 3",
+        "description": null
+      },
+      {
+        "name": "SANDI EBENEZER SITUNGKIR, S.H.",
+        "role": "Pemohon 4",
+        "description": null
+      },
+      {
+        "name": "CARREL TICUALU, S.E., S.H.",
+        "role": "Pemohon 5",
+        "description": null
+      },
+      {
+        "name": "PIETERSON TANOS, S.H.",
+        "role": "Pemohon 6",
+        "description": null
+      },
+      {
+        "name": "SAMARUDDIN R. MANULLANG, S.H.",
+        "role": "Pemohon 7",
+        "description": null
+      },
+      {
+        "name": "VINSENSIUS H. RANTEALLO, S.H.",
+        "role": "Pemohon 8",
+        "description": null
+      },
+      {
+        "name": "JUDIANTO SIMANJUNTAK, S.H.",
+        "role": "Pemohon 9",
+        "description": null
+      },
+      {
+        "name": "YANRINO HB. SIBUAE, S.H.",
+        "role": "Pemohon 10",
+        "description": null
+      },
+      {
+        "name": "BRODUS, S.H.",
+        "role": "Pemohon 11",
+        "description": null
+      },
+      {
+        "name": "HENDRI D. SITOMPUL, S.H.",
+        "role": "Pemohon 12",
+        "description": null
+      },
+      {
+        "name": "ROBERTHUS BAIT KEYTIMU, S.H.",
+        "role": "Pemohon 13",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Perppu 4/2009 tentang Perubahan atas UU 30/2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi"
+    ],
+    "constitutional_articles": [
+      "Pasal 10",
+      "Pasal 28D ayat (1)",
+      "Pasal 22",
+      "Pasal 9",
+      "Pasal 2",
+      "Pasal 28D",
+      "Pasal 9 ayat (1)",
+      "Pasal 24C ayat (1)",
+      "Pasal 5 ayat (2)",
+      "Pasal 12",
+      "Pasal 22 ayat (1)",
+      "Pasal 56 ayat (1)",
+      "Pasal 20",
+      "Pasal 24C",
+      "Pasal 24",
+      "Pasal 7",
+      "Pasal 1 ayat (2)"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-12",
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-14",
+      "BUKTI P-15",
+      "BUKTI P-16",
+      "BUKTI P-17",
+      "BUKTI P-18",
+      "REFERENSI:138/PUU-VII/2009",
+      "REFERENSI:4/2009MerugikanHakKonstitusionalParaPemohonmengeluarkanPerpu4/2009",
+      "REFERENSI:006/PUU-III/2005bertanggal31Mei2005danPutusanNomor11/PUU-V/2007",
+      "REFERENSI:4/2009karenatidaksesuaidengankepastianhukumdankaidahpembentukanperaturanperundang-undanganyangmerugikanhakkonstitusionalparaPemohon.MenurutparaPemohonbahwaPerpu4/2009",
+      "REFERENSI:4/2009MelanggarProseduralPembentukanPeraturanPerundang-Undangan1.BahwamenurutparaPemohonpermohonanpengujianPerpu4/2009",
+      "REFERENSI:4/2009MerugikanHakKonstitusionalParaPemohon1.Bahwatanggal21September2009PresidenRepublikIndonesiatelahmengeluarkanPerpu4/2009"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "persetujuan dari DPR pada persidangan berikutnya;"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat dit erima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Moh. Mahfud MD",
+      "Achmad Sodiki",
+      "M. Akil Mochtar",
+      "M. Arsyad Sanusi",
+      "Harjono",
+      "Muhammad Alim",
+      "Maria Farida Indrati",
+      "Ahmad Fadlil Sumadi",
+      "Hamdan Zoelva",
+      "Mahkamah hanya menguji Undang-Undang terhadap Undan g-Undang Dasar.",
+      "Mahkamah.",
+      "Mahkamah diberi kewenangan untuk melakukan pengujian terhadap Perpu.",
+      "Perpu tentang Pemberantasan Tindak Pidana Terorisme yang dikeluarkan",
+      "Pembentukan Peraturan Perundang-undangan, yang memo sisikan Undang-",
+      "Berdasarkan pertimbangan-pertimbangan di atas saya berpendapat",
+      "DPR yang menyetujui atau menolak Perpu tersebut."
+    ],
+    "clerks": [
+      "SUNARDI"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "138/PUU-VII/2009",
+      "4/2009MerugikanHakKonstitusionalParaPemohonmengeluarkanPerpu4/2009",
+      "006/PUU-III/2005bertanggal31Mei2005danPutusanNomor11/PUU-V/2007",
+      "4/2009karenatidaksesuaidengankepastianhukumdankaidahpembentukanperaturanperundang-undanganyangmerugikanhakkonstitusionalparaPemohon.MenurutparaPemohonbahwaPerpu4/2009",
+      "4/2009MelanggarProseduralPembentukanPeraturanPerundang-Undangan1.BahwamenurutparaPemohonpermohonanpengujianPerpu4/2009",
+      "4/2009MerugikanHakKonstitusionalParaPemohon1.Bahwatanggal21September2009PresidenRepublikIndonesiatelahmengeluarkanPerpu4/2009"
+    ],
+    "referenced_cases": [
+      "138/PUU-VII/2009",
+      "4/2009MerugikanHakKonstitusionalParaPemohonmengeluarkanPerpu4/2009",
+      "006/PUU-III/2005bertanggal31Mei2005danPutusanNomor11/PUU-V/2007",
+      "4/2009karenatidaksesuaidengankepastianhukumdankaidahpembentukanperaturanperundang-undanganyangmerugikanhakkonstitusionalparaPemohon.MenurutparaPemohonbahwaPerpu4/2009",
+      "4/2009MelanggarProseduralPembentukanPeraturanPerundang-Undangan1.BahwamenurutparaPemohonpermohonanpengujianPerpu4/2009",
+      "4/2009MerugikanHakKonstitusionalParaPemohon1.Bahwatanggal21September2009PresidenRepublikIndonesiatelahmengeluarkanPerpu4/2009"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

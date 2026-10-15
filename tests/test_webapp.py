@@ -35,10 +35,11 @@ class WebAppTests(unittest.TestCase):
 
             self.assertEqual(status_headers["status"], "200 OK")
             self.assertIn("Daftar Perkara MKRI", body)
-            self.assertIn("Status Parse", body)
+            self.assertNotIn('name="status"', body)
+            self.assertNotIn('name="source"', body)
+            self.assertNotIn('name="review_flag"', body)
             self.assertIn("Terapkan", body)
-            self.assertIn("Tanggal putusan belum terbaca", body)
-            self.assertIn("Perlu review", body)
+            self.assertIn("Sebagian data perlu review", body)
 
     def test_api_cases_supports_review_flag_filter(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:

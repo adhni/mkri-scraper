@@ -87,7 +87,9 @@ class GuidedStoryTests(unittest.TestCase):
         status, home = self.request('/')
         self.assertEqual(status, '200 OK')
         self.assertEqual(home.count('class="story-card"'), 3)
-        self.assertEqual(home.count('class="case-card"'), 38)
+        self.assertEqual(home.count('class="case-card"'), 20)
+        self.assertLess(home.index('name="q"'), home.index('class="case-card"'))
+        self.assertLess(home.index('class="case-card"'), home.index('class="story-card"'))
         self.assertNotIn('class="featured-card"', home)
         by_number = {s['case_number']: s for s in self.summaries}
         for story in self.stories:

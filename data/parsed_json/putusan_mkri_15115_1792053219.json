@@ -1,0 +1,1022 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_15115_1792053219.pdf",
+    "file_name": "putusan_mkri_15115_1792053219.pdf",
+    "page_count": 55,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15115_1792053219.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "132/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "130/PUU/PAN.MK/AP3/04/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-10-15",
+    "decision_date_raw": "lima belas , bulan Oktober, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "PUTUSAN \nNOMOR 132/PUU-XXIV/2026",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat  \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Peng ujian  \nUndang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh: \n N a m a  : Bernita Matondang \n Pekerjaan : Mahasiswa \n Alamat : Cilodong, Kota Depok \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 4,
+      "end_line": 15
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n8 April 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pad a tanggal  \n8 April 2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomo r \n130/PUU/PAN.MK/AP3/04/2026 dan telah dicatat dalam Buku Registr asi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 132/PUU- XXIV/2026 \npada tanggal 8 April 2026, yang telah diperbaiki dan diterima M ahkamah pada \ntanggal 5 Mei 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 17,
+      "end_line": 24
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD NRI 1945 ) \nmenyatakan: \n\n\n2 \n“kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada dibawahnya dalam lingkungan peradil an \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkama h \nKonstitusi”;",
+      "start_line": 26,
+      "end_line": 35
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C a yat (1) Perubahan Keempat UUD NRI 1945:",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-a-yat-1-perubahan-keempat-uud-nri-1945",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-Undang \nDasar, memutus perubahan partai politik dan memutus perselisiha n \ntentang hasil pemilihan umum”;",
+      "start_line": 37,
+      "end_line": 42
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-t-ahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana te lah \ndiubah terakhir dalam Undang-Undang (UU) Nomor 13 Tahun 2022 te ntang \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-Undangan menegaskan bahwa:  \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 44,
+      "end_line": 50
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 Tahun 2009",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-tahun-2009",
+      "text": "tentang Kekuasaan Kehakiman, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; \nb. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945; c. memutus pembubaran partai politik; d. memutus \nperselisihan tentang hasil pemilihan umum; dan e. kewenangan lain yang \ndiberikan oleh undang-undang”",
+      "start_line": 52,
+      "end_line": 60
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 Tahun 2003",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-tahun-2003",
+      "text": "tentang Mahkamah Konstitusi sebagaimana yang telah diubah terak hir \ndengan Undang-undang (UU) Nomor 7 Tahun 2020 tentang Perubahan \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi, menyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; \nb. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945; c. memutus pembubaran partai politik; dan  d .  \nmemutus perselisihan tentang hasil pemilihan umum.” \n\n3",
+      "start_line": 62,
+      "end_line": 74
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konsti tusi Nomor",
+      "slug": "6-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konsti-tusi-nomor",
+      "text": "7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujian Unda ng-\nUndang, menyatakan:  \n“Objek Permohonan PUU adalah Undang-Undang dan Perppu”;  \nOleh karenanya, Mahkamah Konstitusi berwenang mengadili perkara  a quo \nkarena Para Pemohon mengajukan permohonan pengujian konstitusionalitas \nundang-undang yaitu: Undang-Undang Nomor 8 Tahun 1999 tentang \nPerlindungan Konsumen;",
+      "start_line": 76,
+      "end_line": 82
+    },
+    {
+      "heading": "7. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah nyata bahwa",
+      "slug": "7-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-nyata-bahwa",
+      "text": "objek permohonan a quo  memenuhi syarat sebagai objek permohonan \npengujian materiil Undang-Undang terhadap UUD NRI 1945. Oleh \nkarenanya, Mahkamah Konstitusi berwenang untuk memeriksa, menga dili, \ndan memutus konstitusionalitas Undang-Undang terhadap UUD NRI 1 945 \ndalam perkara a quo yang diajukan oleh PARA PEMOHON.  \nII. KEDUDUKAN HUKUM (LEGAL STANDING) DAN KERUGIAN",
+      "start_line": 84,
+      "end_line": 89
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan ba hwa",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menyatakan-ba-hwa",
+      "text": "PEMOHON adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu:  \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip negara kesatuan RI yang \ndiatur dalam undang-undang;",
+      "start_line": 92,
+      "end_line": 97
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, maka terlebih dahulu P emohon",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-maka-terlebih-dahulu-p-emohon",
+      "text": "menguraikan kedudukan hukum (legal standing), sebagai berikut, Pemohon \nmerupakan perseorangan warga negara Indonesia yang dibuktikan d engan \nkepemilikan Kartu Tanda Penduduk (vide p-3) dan berstatus sebag ai \nMahasiswa Ilmu Hukum dibuktikan dengan Kartu Tanda Mahasiswa (vide p-\n4);",
+      "start_line": 101,
+      "end_line": 105
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2) menegaskan",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaskan",
+      "text": "Pemohon memenuhi dan memiliki kedudukan hukum ( legal standing ) \n\n4 \nsebagai perseorangan warga negara Indonesia sehingga Pemohon da pat \nmengajukan permohonan pengu jian UU terhadap UUD NRI 1945. \nSelanjutnya, Pemohon akan menguraikan kerugian konstitusional y ang \ndialami sehubungan dengan berlakunya Undang-Undang yang diujika n \nkonstitusionalitasnya dalam perkara a quo.",
+      "start_line": 107,
+      "end_line": 114
+    },
+    {
+      "heading": "4. Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi N o. 07 Tahun",
+      "slug": "4-bahwa-dalam-pasal-4-ayat-2-peraturan-mahkamah-konstitusi-n-o-07-tahun",
+      "text": "2025 tentang Pedoman Beracara Dalam Perkara Pengujian Undang-Undang \nditentukan 5 syarat mengenai kerugian konstitusional, yaitu:  \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang-Undang \nDasar Negara Republik Indonesia 1945.  \nb. Bahwa hak konstitusional pemohon tersebut dianggap oleh para  \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 116,
+      "end_line": 121
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat spesifik",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat-spesifik",
+      "text": "atau khusus dan aktual atau setidaknya potensial yang menurut \npenalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 123,
+      "end_line": 124
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya Undang-",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya-undang",
+      "text": "Undang yang dimohonkan untuk diuji.  \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan mak a \nkerugian konstitusional yang didalilkan tidak akan atau tidak terjadi lagi.",
+      "start_line": 126,
+      "end_line": 128
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional Pemohon dijamin oleh UUD",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-pemohon-dijamin-oleh-uud",
+      "text": "NRI 1945 yang telah diatur dalam beberapa pasal yang digunakan sebagai \ndasar pengujian dalam perkara a quo, yaitu:  \na. Pasal 28D ayat (1) UUD NRI 1945, menyatakan “Setiap orang berhak atas \npengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta \nperlakuan yang sama di hadapan hukum.”  \nb. Pasal 28C ayat (2) UUD NRI 1945, menyatakan “Setiap orang be rhak \nuntuk memajukan dirinya dalam memperjuangkan haknya secara kolektif \nuntuk membangun masyarakat, bangsa, dan negaranya”",
+      "start_line": 130,
+      "end_line": 137
+    },
+    {
+      "heading": "c. Pasal 28G ayat (1) UUD NRI 1945, menyatakan “Menjamin hak se tiap",
+      "slug": "c-pasal-28g-ayat-1-uud-nri-1945-menyatakan-menjamin-hak-se-tiap",
+      "text": "orang atas perlindungan diri pribadi, keluarga, kehormatan, martabat, dan \nharta benda, serta hak atas rasa aman dan perlindungan dari anc aman \nketakutan untuk berbuat atau tidak berbuat sesuatu yang merupakan hak \nasasi.” \n\n5",
+      "start_line": 139,
+      "end_line": 144
+    },
+    {
+      "heading": "d. Pasal 28H ayat (1) UUD NRI 1945, menyatakan “Setiap orang be rhak",
+      "slug": "d-pasal-28h-ayat-1-uud-nri-1945-menyatakan-setiap-orang-be-rhak",
+      "text": "hidup sejahtera lahir dan batin, bertempat tinggal, dan mendapa tkan \nlingkungan hidup yang baik dan sehat serta berhak memperoleh \npelayanan kesehatan”",
+      "start_line": 146,
+      "end_line": 148
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam UUD",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam-uud",
+      "text": "NRI 1945 tersebut telah dirugikan dengan pasal sebagai berikut: \nPasal 30 Ayat (2), (4), (5) dan Pasal 54 ayat (3) Undang-Undang  Nomor 8 \nTahun 1999 tentang Perlindungan Konsumen (Lembaran Negara Repub lik \nIndonesia Tahun 1999 Nomor 22, Tambahan Lembaran Negara Republi k \nIndonesia Nomor 3821) yang menyatakan:  \nPasal 30 ayat 2 menyatakan:  \n“Pengawasan oleh pemerintah sebagaimana dimaksud pada ayat (1) \ndilaksanakan oleh Menteri dan/atau menteri teknis terkait.”  \nPasal 30 ayat (4) menyatakan: \n“Apabila hasil pengawasan sebagaimana dimaksud pada ayat (3) ternyata \nmenyimpang dari peraturan perundang-undangan yang berlaku dan \nmembahayakan konsumen, Menteri dan/atau menteri teknis mengambi l \ntindakan sesuai dengan peraturan perundang-undangan yang berlaku” \n Pasal 30 ayat (5) menyatakan: \n“Hasil pengawasan yang diselenggarakan masyarakat dan lembaga \nperlindungan konsumen swadaya masyarakat dapat disebarluaskan \nkepada masyarakat dan dapat disampaikan kepada Menteri dan ment eri \nteknis” \nPasal 54 ayat (3) menyatakan: \n“Putusan majelis bersifat final dan mengikat”",
+      "start_line": 150,
+      "end_line": 169
+    },
+    {
+      "heading": "7. Bahwa norma-norma yang diuji dalam permohonan a quo secara langsung",
+      "slug": "7-bahwa-norma-norma-yang-diuji-dalam-permohonan-a-quo-secara-langsung",
+      "text": "menimbulkan kerugian konstitusional bagi Pemohon yang bersifat aktual, \nspesifik, dan memiliki hubungan sebab-akibat ( causal verband) yang jelas, \nsebagai berikut: \na. Bahwa Pemohon adalah Warga Negara Indonesia, mahasiswa Ilmu \nHukum, sekaligus konsumen yang secara langsung melakukan transaksi \npembelian produk melalui platform perdagangan elektronik, sehin gga \nmemiliki kepentingan konstitusional atas perlindungan hukum seb agai \nkonsumen. \nb. Bahwa Pemohon pernah membeli dan menggunakan produk perawata n \nkulit (vide p-5) yang beredar secara luas di masyarakat dan dipromosikan \n\n6 \nmelalui platform perdagangan elektronik, sehingga menimbulkan persepsi \nbahwa produk tersebut aman dan layak digunakan.",
+      "start_line": 171,
+      "end_line": 184
+    },
+    {
+      "heading": "c. Bahwa setelah penggunaan produk tersebut, Pemohon memperoleh",
+      "slug": "c-bahwa-setelah-penggunaan-produk-tersebut-pemohon-memperoleh",
+      "text": "informasi melalui pemberitaan publik dan rilis otoritas pengawa s bahwa \nproduk yang sama termasuk dalam kategori kosmetik ilegal yang \nmengandung bahan berbahaya berupa merkuri (vide p-6).",
+      "start_line": 186,
+      "end_line": 188
+    },
+    {
+      "heading": "d. Bahwa meskipun telah terdapat pemberitaan sejak tahun 2023 d an",
+      "slug": "d-bahwa-meskipun-telah-terdapat-pemberitaan-sejak-tahun-2023-d-an",
+      "text": "peningkatan temuan kosmetik ilegal hingga tahun 2025(Sumber: \nhttps://www.kompas.id/artikel/kosmetik-ilegal-bermerkuri-dijual-bebas-di-\npasaran/), pada tahun 2026 Pemohon masih dapat dengan mudah \nmenemukan dan memperoleh produk yang sama melalui platform \nperdagangan elektronik(vide p-7). \ne. Bahwa kondisi tersebut disebabkan oleh kelemahan norma dalam  \nUndang-Undang a quo, yaitu: \n Pasal 30 ayat (2) yang memusatkan pengawasan hanya pada Menter i \ndan/atau menteri teknis tanpa mekanisme pengawasan independen; \n Pasal 30 ayat (4) yang menggunakan frasa fakultatif “mengambil  \ntindakan” tanpa kewajiban hukum yang tegas; \n Pasal 30 ayat (5) yang membuka partisipasi masyarakat tanpa \nmemberikan jaminan perlindungan hukum; \n serta Pasal 54 ayat (3) yang menyatakan putusan BPSK bersifat final \ndan mengikat. \nf. Bahwa kelemahan norma tersebut secara struktural dan normati f \nmenyebabkan pengawasan terhadap peredaran barang berbahaya \nmenjadi tidak efektif serta tidak tersedianya mekanisme penyele saian \nsengketa yang memadai. \ng. Bahwa sebagai bentuk iktikad baik untuk memperoleh perlindun gan \nhukum, Pemohon telah mengajukan pengaduan kepada Badan \nPenyelesaian Sengketa Konsumen Kabupaten Bogor pada tanggal 12 \nFebruari 2026(vide p-8). \nh. Bahwa berdasarkan tanggapan yang diterima, dinyatakan bahwa pelaku \nusaha yang berada di luar negeri tidak termasuk dalam kewenanga n \nBPSK, sehingga pengaduan Pemohon tidak dapat diproses. \n\n7",
+      "start_line": 190,
+      "end_line": 217
+    },
+    {
+      "heading": "i. Bahwa Pemohon juga tidak memperoleh kepastian mengenai forum",
+      "slug": "i-bahwa-pemohon-juga-tidak-memperoleh-kepastian-mengenai-forum",
+      "text": "penyelesaian sengketa lain yang dapat diakses, selain hanya dia rahkan \nsecara umum kepada “lembaga hukum lainnya” tanpa kejelasan \nmekanisme. \nj. Bahwa akibat lemahnya pengawasan dan tidak efektifnya mekani sme \npenyelesaian sengketa, Pemohon tidak memperoleh kepastian hukum  \nyang adil, baik dalam hal perlindungan dari peredaran barang berbahaya \nmaupun dalam memperoleh akses terhadap penyelesaian sengketa yang \nefektif. \n Bahwa Pemohon dihadapkan pada kondisi di mana: \n produk berbahaya tetap beredar, \n pengawasan negara tidak efektif, \n dan tidak tersedia forum penyelesaian sengketa yang jelas dan dapat \ndiakses. \nk. Bahwa penggunaan produk yang mengandung merkuri menimbulkan \nrisiko nyata terhadap kesehatan Pemohon. Bahwa tetap beredarnya  \nproduk tersebut menunjukkan kegagalan negara dalam melindungi h ak \nPemohon atas lingkungan yang sehat dan perlindungan kesehatan, \nsehingga Pemohon berada dalam kondisi rentan terhadap paparan z at \nberbahaya.",
+      "start_line": 219,
+      "end_line": 237
+    },
+    {
+      "heading": "l. Bahwa peredaran produk berbahaya secara luas dan tidak terke ndali",
+      "slug": "l-bahwa-peredaran-produk-berbahaya-secara-luas-dan-tidak-terke-ndali",
+      "text": "menimbulkan rasa tidak aman bagi Pemohon sebagai konsumen. Bahwa \nPemohon tidak memiliki jaminan bahwa produk yang beredar di pas ar \ntelah melalui pengawasan yang efektif, sehingga hak atas rasa aman dan \nperlindungan diri menjadi terlanggar.",
+      "start_line": 239,
+      "end_line": 242
+    },
+    {
+      "heading": "m. Bahwa Pemohon memiliki kehendak untuk menyampaikan informasi",
+      "slug": "m-bahwa-pemohon-memiliki-kehendak-untuk-menyampaikan-informasi",
+      "text": "kepada masyarakat mengenai produk berbahaya sebagai bentuk \npartisipasi dalam perlindungan konsumen. Bahwa namun demikian, \nketiadaan perlindungan hukum dalam Pasal 30 ayat (5) menimbulka n \nketidakpastian dan kekhawatiran bagi Pemohon dalam menggunakan hak \ntersebut, sehingga partisipasi tidak dapat dilakukan secara beb as dan \naman. \nn. Bahwa seluruh kerugian yang dialami Pemohon bersifat: \n\n8 \n Aktual, karena Pemohon telah menggunakan produk berbahaya dan \ntelah mengajukan pengaduan yang ditolak; \n Spesifik, karena dialami langsung oleh Pemohon; \n Kausal, karena merupakan akibat dari norma yang diuji; \n Berpotensi berulang, karena produk masih beredar dan mekanisme  \nperlindungan belum efektif.",
+      "start_line": 244,
+      "end_line": 258
+    },
+    {
+      "heading": "8. Bahwa seluruh rangkaian fakta dan uraian di atas menunjukkan adanya",
+      "slug": "8-bahwa-seluruh-rangkaian-fakta-dan-uraian-di-atas-menunjukkan-adanya",
+      "text": "hubungan sebab-akibat yang jelas antara berlakunya norma Pasal 30 dan \nPasal 54 ayat (3) Undang-Undang a quo dengan kerugian konstitusional yang \ndialami Pemohon, baik dalam aspek pengawasan maupun penyelesaia n \nsengketa. Dalam praktiknya, kelemahan norma tersebut telah menyebabkan \ntidak efektifnya perlindungan konsumen, sehingga Pemohon tetap berada \ndalam risiko terpapar produk berbahaya serta tidak memperoleh a kses \nterhadap mekanisme penyelesaian sengketa yang memadai. Oleh karena itu, \ndemi terwujudnya sistem perlindungan konsumen yang lebih adil, efektif, dan \nmemberikan kepastian hukum, Pemohon memohon agar Mahkamah \nberkenan mengabulkan permohonan a quo . Apabila permohonan ini tidak \ndikabulkan, maka kondisi kerugian yang sama berpotensi akan ter us terjadi \ndan dialami kembali oleh Pemohon maupun masyarakat luas sebagai  \nkonsumen, khususnya dalam menghadapi peredaran produk berbahaya  di \nera perdagangan digital yang terus berkembang. \nIII. ALASAN PERMOHONAN \nA. Pengujian Pasal 30 ayat (2) Undang-Undang a quo",
+      "start_line": 260,
+      "end_line": 275
+    },
+    {
+      "heading": "1. Bahwa Pasal 28D ayat (1) Undang-Undang Dasar Negara Republik",
+      "slug": "1-bahwa-pasal-28d-ayat-1-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 (UUD NRI 1945) secara eksplisit menjamin h ak \nsetiap orang atas pengakuan, jaminan, perlindungan, dan kepasti an \nhukum yang adil. Norma ini merupakan kristalisasi dari prinsip due \nprocess of law  yang mengharuskan negara tidak hanya menyediakan \nregulasi di atas kertas, namun juga memastikan adanya sistem \npengawasan yang efektif, imparsial, dan fungsional. Dalam konte ks \nperlindungan konsumen, kepastian hukum yang adil bermakna bahwa  \nsetiap produk yang beredar di pasar harus melalui filter pengawasan yang \nmampu mencegah kerugian fisik maupun material bagi warga negara . \nPemusatan wewenang pengawasan hanya pada satu pintu eksekutif \n\n9 \n(Menteri) sebagaimana diatur dalam Pasal 30 ayat (2) UU a quo, tanpa \nadanya perimbangan dari lembaga pengawas independen yang memili ki \notoritas eksekusi yang kuat, telah menciptakan ketidakpastian h ukum. \nKetidakpastian ini muncul karena mekanisme pengawasan menjadi \nrentan terhadap hambatan birokrasi, konflik kepentingan, dan \nketerbatasan sumber daya sektoral, yang pada akhirnya meniadaka n \njaminan perlindungan bagi konsumen sebagaimana dialami oleh \nPemohon yang menjadi korban kosmetik bermerkuri.",
+      "start_line": 277,
+      "end_line": 296
+    },
+    {
+      "heading": "2. Bahwa konstitusi melalui Pasal 28G ayat (1) dan Pasal 28H ay at (1) UUD",
+      "slug": "2-bahwa-konstitusi-melalui-pasal-28g-ayat-1-dan-pasal-28h-ay-at-1-uud",
+      "text": "NRI 1945 memberikan mandat tertinggi kepada negara untuk \nmemberikan perlindungan diri, rasa aman, serta hak atas kesehat an \nsebagai hak asasi manusia yang tidak dapat dikurangi. Hak atas \nkesehatan adalah fundamental right  yang menjadi prasyarat bagi \npemenuhan hak-hak lainnya. Ketika Pasal 30 ayat (2) UU Perlindu ngan \nKonsumen membatasi pengawasan hanya pada lingkup kementerian, \nterjadi simplifikasi terhadap ancaman kesehatan publik yang sis temik. \nFakta peredaran kosmetik ilegal yang mengandung bahan berbahaya  \nseperti merkuri, hidrokuinon, dan asam retinoat secara masif hingga tahun \n2026 membuktikan bahwa norma tersebut gagal mengaktualisasikan hak \nasasi atas rasa aman dan kesehatan. Negara, melalui struktur \npengawasan yang tersentralisasi pada eksekutif, tidak mampu \nmembendung arus produk toksik yang merusak integritas biologis warga \nnegara, sehingga norma tersebut secara substansial bertentangan  \ndengan kewajiban negara dalam melindungi raga dan jiwa rakyatnya.",
+      "start_line": 298,
+      "end_line": 312
+    },
+    {
+      "heading": "3. Bahwa selain persoalan sentralisasi kewenangan pada Menteri, f r a s a",
+      "slug": "3-bahwa-selain-persoalan-sentralisasi-kewenangan-pada-menteri-f-r-a-s-a",
+      "text": "“dan/atau menteri teknis” dalam Pasal 30 ayat (2) Undang-Undang a quo \njuga menimbulkan ketidakpastian hukum karena tidak memberikan \nkejelasan mengenai pembagian kewenangan, batas tanggung jawab, \nserta mekanisme koordinasi antar kementerian. Frasa tersebut membuka \nruang terjadinya tumpang tindih kewenangan ( overlapping authority ), \nsaling lempar tanggung jawab ( diffusion of responsibility ), serta tidak \nadanya akuntabilitas yang jelas dalam pelaksanaan pengawasan. \nAkibatnya, ketika terjadi pelanggaran yang merugikan konsumen, tidak \nterdapat kepastian mengenai pihak mana yang bertanggung jawab secara \n\n10 \nhukum untuk melakukan pengawasan maupun penindakan. Kondisi ini  \nsecara nyata bertentangan dengan prinsip kepastian hukum yang a dil \nsebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 314,
+      "end_line": 327
+    },
+    {
+      "heading": "4. Bahwa Pasal 30 ayat (2) UU Perlindungan Konsumen yang menyat akan",
+      "slug": "4-bahwa-pasal-30-ayat-2-uu-perlindungan-konsumen-yang-menyat-akan",
+      "text": "bahwa pengawasan dilaksanakan oleh Menteri dan/atau menteri tek nis \ntelah menciptakan diskriminasi struktural dalam perlindungan hu kum. \nStruktur pengawasan ini bersifat “birokratis-sentris” yang cend erung \nreaktif daripada preventif. Berbeda dengan negara-negara maju s eperti \nAmerika Serikat yang memiliki FDA atau Jepang dengan Consumer \nAffairs Agency (CAA) yang memiliki koordinasi lintas sektoral y ang kuat \ndan otonomi luas, sistem di Indonesia menyandera fungsi pengawa san \npada mandat menteri yang bersifat politis dan administratif. Ha l ini \nmengakibatkan pengawasan perlindungan konsumen sering kali kala h \nprioritas dibandingkan dengan agenda pertumbuhan ekonomi atau \ninvestasi. Kegagalan struktural ini terbukti dari data BPOM yan g \nmengungkap nilai ekonomi kosmetik ilegal mencapai Rp1,866 trili un \nhanya dalam waktu 11 hari di tahun 2025(Sumber: \nhttps://tribratanews.polri.go.id/blog/nasional-3/bpom-peredaran-\nkosmetik-ilegal-di-indonesia-capai-rp18-triliun-96346). Angka fantastis ini \nadalah bukti nyata bahwa pengawasan di bawah kendali Menteri ti dak \nmemiliki taji yang cukup untuk melakukan deteksi dini dan penin dakan \ntegas terhadap sindikat kosmetik ilegal.",
+      "start_line": 329,
+      "end_line": 346
+    },
+    {
+      "heading": "5. Bahwa prinsip check and balances dalam pengawasan negara",
+      "slug": "5-bahwa-prinsip-check-and-balances-dalam-pengawasan-negara",
+      "text": "merupakan elemen vital dalam negara hukum. Pasal 30 ayat (2) UU  \nPerlindungan Konsumen secara nyata mengabaikan peran lembaga \nindependen yang seharusnya memiliki kekuatan quasi-judicial a t a u  \notoritas pengawasan mandiri. Pemusatan fungsi pada organ ekseku tif \ntanpa adanya pelibatan institusi pengawas independen yang mampu  \nmemberikan tekanan hukum secara langsung kepada pelaku usaha \nmerupakan bentuk pelanggaran terhadap prinsip pengawasan efekti f. \nSebagai perbandingan, di Amerika Serikat, Consumer Product Safe ty \nCommission (CPSC) berdiri sebagai lembaga independen yang tidak  \nmelapor kepada departemen federal tertentu, guna menjaga integr itas \npengawasan. Ketidakhadiran mekanisme serupa di Indonesia \n\n11 \nmenyebabkan BPOM, meski secara teknis memiliki data temuan yang  \nakurat, sering kali terhambat dalam koordinasi penegakan hukum karena \nketerbatasan wewenang administratif dibandingkan dengan kekuasa an \nMenteri, sehingga produk ilegal tetap membanjiri pasar luring m aupun \ndaring.",
+      "start_line": 348,
+      "end_line": 365
+    },
+    {
+      "heading": "6. Bahwa fakta konkret yang dialami oleh Pemohon terkait pereda ran",
+      "slug": "6-bahwa-fakta-konkret-yang-dialami-oleh-pemohon-terkait-pereda-ran",
+      "text": "kosmetik mengandung merkuri hingga tahun 2026 di berbagai platform e-\ncommerce menunjukkan adanya “pembiaran sistemik” yang berakar pada \nkelemahan norma Pasal 30 ayat (2) UU Perlindungan Konsumen. \nPengawasan yang hanya diserahkan kepada Menteri terbukti tidak \nmampu menjangkau kompleksitas perdagangan digital ( e-commerce). \nBerdasarkan temuan BPOM, produk impor mendominasi 65% dari tota l \ntemuan kosmetik ilegal, di mana 94,30% di antaranya tidak memil iki izin \nedar. Kondisi ini menegaskan bahwa mekanisme pengawasan \nkementerian mengalami disfungsi dalam menghadapi dinamika pasar  \nglobal dan digital. Negara telah gagal menjalankan kewajiban to protect \n(melindungi) karena membiarkan konsumen bertarung sendirian melawan \nproduk berbahaya yang dijual bebas dengan klaim menyesatkan di ruang \ndigital, yang seharusnya dapat dicegah jika norma pengawasan dibangun",
+      "start_line": 367,
+      "end_line": 379
+    },
+    {
+      "heading": "di atas fondasi lembaga independen yang lebih lincah dan berday a",
+      "slug": "di-atas-fondasi-lembaga-independen-yang-lebih-lincah-dan-berday-a",
+      "text": "eksekusi tinggi.",
+      "start_line": 381,
+      "end_line": 381
+    },
+    {
+      "heading": "7. Bahwa penggunaan bahan berbahaya dalam kosmetik ilegal, khus usnya",
+      "slug": "7-bahwa-penggunaan-bahan-berbahaya-dalam-kosmetik-ilegal-khus-usnya",
+      "text": "merkuri, merupakan ancaman kesehatan publik yang sangat serius dan \nbersifat permanen. Sebagaimana dijelaskan dalam literatur medis Journal \nof Occupational and Environmental Medicine  \n(https://aoemj.org/journal/view.php?doi=10.1186/s40557-015-0086-8) \nmerkuri merupakan racun saraf ( neurotoxin) yang dapat menembus \nsawar darah-otak dan plasenta, menyebabkan kerusakan ginjal, \ngangguan syaraf, hingga cacat janin. Ketika negara melalui Pasal 30 ayat \n(2) UU Perlindungan Konsumen tetap mempertahankan model \npengawasan yang terbukti gagal membendung peredaran merkuri, maka \nnegara secara sadar telah membiarkan rakyatnya terpapar pada ri siko \nkematian dan kecacatan. Kegagalan ini bukan sekadar masalah teknis di \nlapangan, melainkan masalah konstitusionalitas norma karena reg ulasi \n\n12 \nyang ada tidak memberikan ruang bagi sistem pengawasan yang mampu \nmerespons bahaya merkuri secara cepat dan masif, sejalan dengan  \nsemangat Konvensi Minamata yang bertujuan melindungi manusia da ri \ndampak merkuri.",
+      "start_line": 383,
+      "end_line": 400
+    },
+    {
+      "heading": "8. Bahwa terdapat ketimpangan regulasi antara perlindungan kons umen di",
+      "slug": "8-bahwa-terdapat-ketimpangan-regulasi-antara-perlindungan-kons-umen-di",
+      "text": "Indonesia dibandingkan dengan standar internasional yang seharu snya \nmenjadi rujukan dalam menjamin hak konstitusional warga negara.  D i  \nJepang, Consumer Affairs Agency (CAA) yang berada di bawah Kabi net \nPerdana Menteri memiliki otoritas untuk memberikan perintah \npenghentian ( injunction) secara langsung terhadap praktik usaha yang \nmerugikan konsumen. Sementara itu, Pasal 30 ayat (2) UU Perlindungan \nKonsumen di Indonesia masih terjebak pada pola pengawasan \nadministratif kementerian yang lamban. Lemahnya koordinasi anta r-\nkementerian teknis sering kali menimbulkan ego sektoral yang \ndimanfaatkan oleh pelaku usaha nakal untuk mengedarkan produk tanpa \nizin edar (TIE). Kekosongan otoritas pengawas independen yang memiliki \nkewenangan komando lintas sektoral inilah yang menyebabkan angk a \nperedaran kosmetik ilegal tetap tinggi, yang secara langsung mencederai \nhak konsumen atas perlindungan hukum yang adil.",
+      "start_line": 402,
+      "end_line": 415
+    },
+    {
+      "heading": "9. Bahwa jaminan perlindungan diri yang termaktub dalam Pasal 2 8G ayat",
+      "slug": "9-bahwa-jaminan-perlindungan-diri-yang-termaktub-dalam-pasal-2-8g-ayat",
+      "text": "(1) UUD NRI 1945 mencakup perlindungan dari penipuan produk yan g \nmengancam nyawa. Temuan 408.054 buah kosmetik ilegal oleh BPOM \npada akhir 2025 merupakan indikator bahwa pasar Indonesia telah  \nmenjadi “tempat pembuangan” produk kosmetik berbahaya dari luar  \nnegeri. Tanpa adanya penguatan norma pengawasan yang memandatkan \nlembaga independen dengan fungsi penindakan yang kuat (seperti model \nFDA di AS), maka jaminan konstitusional tersebut hanya menjadi slogan \nkosong. Pasal 30 ayat (2) UU Perlindungan Konsumen yang meniadakan \nperan pengawasan independen telah menyebabkan negara kehilangan  \nkontrol atas kedaulatan kesehatan warganya. Pemohon sebagai war ga \nnegara merasa haknya untuk mendapatkan produk yang aman telah \ndirampas oleh ketidakmampuan sistem pengawasan yang eksklusif-\neksekutif tersebut. \n\n13",
+      "start_line": 417,
+      "end_line": 431
+    },
+    {
+      "heading": "10. Bahwa Pasal 30 ayat (2) UU Perlindungan Konsumen telah mengabaikan",
+      "slug": "10-bahwa-pasal-30-ayat-2-uu-perlindungan-konsumen-telah-mengabaikan",
+      "text": "prinsip partisipasi publik dan transparansi dalam pengawasan. M odel \npengawasan oleh Menteri cenderung tertutup dan bersifat birokra tis-\ninternal. Hal ini berbeda dengan fungsi Badan Perlindungan Kons umen \nNasional (BPKN) yang seharusnya bisa diperkuat perannya. Namun,  \nkarena Pasal 30 ayat (2) memusatkan wewenang pada Menteri, pera n \nlembaga seperti BPKN menjadi sekadar pemberi saran tanpa daya tekan \nyang nyata. Padahal, konstitusi menghendaki adanya perlindungan yang \n“adil”, yang berarti harus ada keterlibatan lembaga yang mampu mewakili \nkepentingan konsumen secara independen untuk mengawasi kinerja \neksekutif itu sendiri. Ketiadaan mekanisme komplain dan tindaka n cepat \nyang terintegrasi secara independen menyebabkan konsumen yang \ndirugikan oleh kosmetik merkuri tidak memiliki saluran yang efe ktif untuk \nmendapatkan keadilan selain melalui proses peradilan yang panjang dan \nmahal.",
+      "start_line": 433,
+      "end_line": 446
+    },
+    {
+      "heading": "11. Bahwa adanya temuan kerugian ekonomi sebesar Rp1,86 triliun d a r i",
+      "slug": "11-bahwa-adanya-temuan-kerugian-ekonomi-sebesar-rp1-86-triliun-d-a-r-i",
+      "text": "kosmetik ilegal menunjukkan bahwa pelanggaran hukum di sektor ini telah \nmencapai skala industri yang terorganisir. Pasal 30 ayat (2) UU  \nPerlindungan Konsumen tidak lagi relevan menghadapi kejahatan \nkorporasi lintas negara di era digital. Pengawasan oleh kemente rian \nteknis sering kali terbatas pada pengawasan administratif rutin , \nsementara peredaran kosmetik ilegal menggunakan modus operandi \nyang sangat canggih melalui media sosial dan marketplace. \nKetidakmampuan norma ini untuk beradaptasi dengan realitas keja hatan \nmodern adalah bentuk kegagalan negara dalam memberikan kepastia n \nhukum. Jika norma ini tidak dibatalkan atau diperbaiki untuk menyertakan \nlembaga pengawas independen yang kuat, maka kerugian kesehatan dan \nekonomi warga negara akan terus berulang secara eksponensial se tiap \ntahunnya.",
+      "start_line": 448,
+      "end_line": 460
+    },
+    {
+      "heading": "12. Bahwa Pasal 28H ayat (1) UUD NRI 1945 menjamin hak atas lingkungan",
+      "slug": "12-bahwa-pasal-28h-ayat-1-uud-nri-1945-menjamin-hak-atas-lingkungan",
+      "text": "hidup yang baik dan sehat, yang dalam arti luas mencakup lingku ngan \nperdagangan yang bersih dari produk beracun. Keberadaan 109 mer ek \nkosmetik berbahaya yang ditemukan BPOM merupakan bukti adanya \nkontaminasi beracun dalam “lingkungan hidup” konsumen Indonesia . \n\n14 \nPasal 30 ayat (2) UU Perlindungan Konsumen secara struktural ti dak \nmampu menjamin lingkungan perdagangan yang sehat karena \npengawasannya bersifat parsial dan tidak terintegrasi. Ketidake fektifan \npengawasan ini menyebabkan kosmetik kedaluwarsa dan kosmetik \ndengan bahan dilarang tetap dapat diakses dengan mudah oleh \nmasyarakat kelas menengah ke bawah yang tergiur harga murah, \nsehingga menciptakan krisis kesehatan masyarakat yang masif di masa \ndepan yang akan membebani sistem kesehatan nasional.",
+      "start_line": 462,
+      "end_line": 475
+    },
+    {
+      "heading": "13. Bahwa dalam perspektif perbandingan hukum, sistem di Korea Selatan",
+      "slug": "13-bahwa-dalam-perspektif-perbandingan-hukum-sistem-di-korea-selatan",
+      "text": "melalui KFDA dan di Amerika Serikat melalui FDA menunjukkan bah wa \npengawasan produk yang berkaitan dengan kesehatan (obat dan \nmakanan/kosmetik) harus dipisahkan dari kepentingan politik \nkementerian untuk menjamin objektivitas. Pasal 30 ayat (2) UU \nPerlindungan Konsumen yang menyatukan fungsi pengawas pada \nMenteri menciptakan potensi konflik kepentingan antara fungsi \npembinaan industri dan fungsi pengawasan. Menteri sering kali b erada \ndalam posisi dilematis antara mendorong pertumbuhan industri ko smetik \nlokal dengan melakukan pengawasan ketat yang mungkin dapat \nmenghambat laju industri. Konflik kepentingan bawaan dalam norm a ini \nsecara inheren menghalangi terciptanya pengawasan yang jujur dan adil, \nsehingga merugikan hak konstitusional konsumen atas keselamatan.",
+      "start_line": 477,
+      "end_line": 488
+    },
+    {
+      "heading": "14. Bahwa data empiris mengenai tingkat merkuri dalam darah war ga di",
+      "slug": "14-bahwa-data-empiris-mengenai-tingkat-merkuri-dalam-darah-war-ga-di",
+      "text": "beberapa negara menunjukkan bahwa pengawasan yang lemah \nberkorelasi langsung dengan tingginya paparan logam berat pada \nmanusia. Di Korea, tingkat merkuri dalam darah dilaporkan 4-6 k ali lebih \ntinggi dibanding AS atau Jerman karena konsumsi makanan dan \npenggunaan produk yang terpapar. Indonesia, dengan peredaran \nkosmetik ilegal senilai triliunan rupiah, berada dalam ancaman serupa. \nPasal 30 ayat (2) UU Perlindungan Konsumen adalah penyebab hulu dari \ntingginya risiko paparan ini. Tanpa reformasi norma yang mengamanatkan \nsistem pengawasan independen dan terpadu, negara secara tidak \nlangsung telah melakukan pelanggaran hak hidup terhadap wargany a \ndengan membiarkan zat karsinogenik dan neurotoksik merusak gene rasi \nmasa depan melalui produk perawatan kulit yang digunakan sehari-hari. \n\n15",
+      "start_line": 490,
+      "end_line": 503
+    },
+    {
+      "heading": "15. Bahwa kegagalan pengawasan yang bersumber dari Pasal 30 ayat (2) UU",
+      "slug": "15-bahwa-kegagalan-pengawasan-yang-bersumber-dari-pasal-30-ayat-2-uu",
+      "text": "Perlindungan Konsumen berakibat pada ketidakadilan bagi pelaku usaha \nyang patuh pada hukum. Pelaku usaha yang mengurus izin edar BPO M \ndan mengikuti standar CPKB (Cara Pembuatan Kosmetik yang Baik) \ndirugikan oleh peredaran produk ilegal yang jauh lebih murah karena tidak \nmenanggung biaya regulasi. Hal ini menciptakan ekosistem pasar yang \ntidak sehat. Konstitusi menjamin kepastian hukum yang adil tida k hanya \nbagi konsumen, tetapi juga bagi tatanan ekonomi nasional. Penga wasan \nyang lemah akibat sentralisasi wewenang pada eksekutif ini merusak iklim \nusaha nasional dan menurunkan kepercayaan internasional terhada p \nstandar keamanan produk Indonesia, yang pada akhirnya merugikan  \nkepentingan nasional yang lebih luas.",
+      "start_line": 505,
+      "end_line": 515
+    },
+    {
+      "heading": "16. Bahwa berdasarkan seluruh uraian di atas, Pasal 30 ayat (2) U U",
+      "slug": "16-bahwa-berdasarkan-seluruh-uraian-di-atas-pasal-30-ayat-2-u-u",
+      "text": "Perlindungan Konsumen nyata-nyata bertentangan secara diametral  \ndengan Pasal 28D ayat (1), Pasal 28G ayat (1), dan Pasal 28H ay at (1) \nUUD NRI 1945. Norma tersebut telah gagal menjadi instrumen pelindung \nbagi warga negara dan justru menjadi penghalang bagi terciptanya sistem \npengawasan yang efektif, mandiri, dan berwibawa. Pembiaran terh adap \nnorma ini berarti membiarkan terjadinya pelanggaran konstitusional yang \nberkelanjutan. \nB. Pengujian Pasal 30 ayat (4) Undang-Undang a quo",
+      "start_line": 517,
+      "end_line": 524
+    },
+    {
+      "heading": "1. Bahwa Konstitusi Indonesia melalui Pasal 28D ayat (1) UUD NR I 1945",
+      "slug": "1-bahwa-konstitusi-indonesia-melalui-pasal-28d-ayat-1-uud-nr-i-1945",
+      "text": "secara imperatif menetapkan bahwa setiap orang berhak atas \npengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta \nperlakuan yang sama di hadapan hukum. Kepastian hukum bukan \nsekadar formalitas prosedural, melainkan jantung dari sebuah Ne gara \nHukum ( Rechtstaat). Secara teoretis, kepastian hukum mengandung \nmakna bahwa peraturan perundang-undangan harus dibentuk dengan \nrumusan yang jelas, logis, dan tidak menimbulkan multitafsir ya ng dapat \nmencederai hak-hak warga negara. Kepastian hukum menuntut agar \nsetiap norma hukum memiliki daya prediksi (predictability), di mana warga \nnegara dapat mengetahui dengan pasti apa yang menjadi hak dan \nkewajibannya, serta bagaimana negara akan bertindak dalam situa si \ntertentu. Tanpa kejelasan norma, hukum hanya akan menjadi instr umen \n\n16 \nkekuasaan yang bersifat arbiter atau sewenang-wenang. Dalam kon teks \nini, perlindungan terhadap kesehatan dan keselamatan warga negara dari \nproduk kosmetik berbahaya merupakan bagian tak terpisahkan dari  \njaminan perlindungan yang harus diberikan oleh negara secara pasti dan \ntanpa keraguan sedikit pun, karena menyangkut hak hidup dan integritas \nfisik manusia.",
+      "start_line": 526,
+      "end_line": 545
+    },
+    {
+      "heading": "2. Bahwa Pasal 30 ayat (4) Undang-Undang a quo yang menyatakan",
+      "slug": "2-bahwa-pasal-30-ayat-4-undang-undang-a-quo-yang-menyatakan",
+      "text": "Menteri dan/atau menteri teknis “mengambil tindakan” apabila ditemukan \npelanggaran, merupakan sebuah norma yang secara struktural caca t \nhukum karena mengandung ketidakjelasan yang sangat fundamental.  \nFrasa “mengambil tindakan” dalam pasal tersebut tidak disertai dengan \nkriteria objektif, jenis tindakan yang spesifik, maupun prosedur yang baku. \nKetidakjelasan ini menyebabkan norma tersebut menjadi pasal “keranjang \nsampah” yang memberikan diskresi tanpa batas ( unfettered discretion ) \nkepada pejabat publik. Dalam kaidah hukum administrasi negara, setiap \nkewenangan yang diberikan oleh undang-undang haruslah memiliki \nbatasan yang jelas agar tidak berubah menjadi tindakan yang sewenang-\nwenang ( detournement de pouvoir ). Ketika undang-undang hanya \nmenyebutkan “mengambil tindakan” tanpa merinci apakah tindakan \ntersebut berupa penarikan produk, penghentian produksi, atau \npencabutan izin secara permanen, maka undang-undang tersebut te lah \ngagal menjalankan fungsinya sebagai pemberi panduan perilaku ba gi \npenguasa dan pelindung bagi rakyat. Ketidakpastian ini berbandi ng \nterbalik dengan semangat Pasal 28D ayat (1) UUD NRI 1945 yang \nmengharuskan adanya kepastian hukum yang adil.",
+      "start_line": 547,
+      "end_line": 564
+    },
+    {
+      "heading": "3. Bahwa sifat fakultatif yang terkandung dalam frasa “mengambi l tindakan”",
+      "slug": "3-bahwa-sifat-fakultatif-yang-terkandung-dalam-frasa-mengambi-l-tindakan",
+      "text": "secara nyata telah mereduksi kewajiban negara untuk melindungi warga \nnegaranya menjadi sekadar pilihan kebijakan yang bersifat opsio nal. \nDalam struktur bahasa hukum, kata “mengambil tindakan” tanpa ka ta \nbantu “wajib” menciptakan ruang bagi pejabat untuk tidak melakukan apa \npun ( omission) dengan dalih pertimbangan subjektif. Hal ini sangat \nberbahaya terutama dalam pengawasan produk yang berkaitan denga n \nkesehatan manusia seperti kosmetik. Apabila ditemukan sebuah \npelanggaran berupa kandungan bahan merkuri atau zat karsinogeni k \n\n17 \ndalam kosmetik, negara seharusnya tidak lagi memiliki pilihan “ apakah \nakan bertindak atau tidak”, melainkan harus berada dalam posisi  “wajib \nbertindak”. Sifat fakultatif ini menciptakan kekosongan tanggun g jawab \nhukum di mana Menteri dapat berdalih bahwa mereka memiliki disk resi \nuntuk memilih waktu dan bentuk tindakan, yang pada akhirnya sering kali \nberujung pada tidak adanya tindakan nyata yang efektif untuk \nmenghentikan pelanggaran tersebut di lapangan.",
+      "start_line": 566,
+      "end_line": 582
+    },
+    {
+      "heading": "4. Bahwa norma Pasal 30 ayat (4) Undang-Undang a quo tidak memberikan",
+      "slug": "4-bahwa-norma-pasal-30-ayat-4-undang-undang-a-quo-tidak-memberikan",
+      "text": "batas waktu pelaksanaan ( time frame ) yang jelas, yang merupakan \nelemen paling krusial dalam menciptakan kepastian hukum. Sebuah  \nperlindungan hukum dianggap tidak ada jika tidak dilakukan tepa t waktu \n(justice delayed is justice denied). Tanpa adanya batas waktu yang tegas, \nmisalnya “paling lambat 1x24 jam setelah ditemukan pelanggaran”, maka \nMenteri dapat menunda-nunda penindakan selama berbulan-bulan \nbahkan bertahun-tahun. Ketiadaan batas waktu ini secara langsun g \nmembentur asas kepastian hukum karena membiarkan masyarakat \nberada dalam ketidakpastian yang berkepanjangan. Bandingkan den gan \nprinsip hukum administrasi modern dalam UU No. 30 Tahun 2014 tentang \nAdministrasi Pemerintahan yang mengenal konsep keputusan fiktif positif,",
+      "start_line": 584,
+      "end_line": 594
+    },
+    {
+      "heading": "di mana setiap permohonan atau tindakan pejabat harus diputus d alam",
+      "slug": "di-mana-setiap-permohonan-atau-tindakan-pejabat-harus-diputus-d-alam",
+      "text": "waktu tertentu. Pasal 30 ayat (4) justru bergerak mundur dengan  \nmembiarkan jangka waktu tindakan menjadi misteri, yang secara konkret \nmenyebabkan Pemohon masih dapat menemukan dan membeli produk \nilegal yang sama hingga tahun 2026 meskipun pelanggaran telah \nditemukan jauh sebelumnya.",
+      "start_line": 596,
+      "end_line": 600
+    },
+    {
+      "heading": "5. Bahwa ketidakjelasan bentuk tindakan dalam norma yang diuji telah",
+      "slug": "5-bahwa-ketidakjelasan-bentuk-tindakan-dalam-norma-yang-diuji-telah",
+      "text": "mengakibatkan disparitas penegakan hukum yang melanggar prinsip  \nperlakuan yang sama di hadapan hukum (equality before the law). Karena \nfrasa “mengambil tindakan” bersifat sangat umum, bentuk peninda kan \nantara satu pelaku usaha dengan pelaku usaha lainnya bisa sanga t \nberbeda tergantung pada kebijakan subjektif Menteri saat itu. Satu pelaku \nusaha mungkin hanya diberikan teguran lisan, sementara yang lai n \nmungkin langsung dibekukan izinnya untuk pelanggaran yang sama.  \nKetiadaan standardisasi tindakan ini menciptakan ketidakadilan sistemik. \n\n18 \nNorma yang baik seharusnya merinci gradasi sanksi dan tindakan secara \nlinear berdasarkan berat ringannya pelanggaran. Ketika undang-u ndang \nmenyerahkan seluruh penentuan bentuk tindakan kepada selera pej abat \ntanpa parameter yang baku, maka undang-undang tersebut telah \nmemfasilitasi terjadinya diskriminasi hukum yang dilarang oleh Pasal 28D \nayat (1) UUD NRI 1945.",
+      "start_line": 602,
+      "end_line": 617
+    },
+    {
+      "heading": "6. Bahwa keberadaan norma Pasal 30 ayat (4) yang kabur tersebut sangat",
+      "slug": "6-bahwa-keberadaan-norma-pasal-30-ayat-4-yang-kabur-tersebut-sangat",
+      "text": "rentan terhadap praktik Regulatory Capture, di mana kepentingan industri \nbesar dapat mengkooptasi otoritas negara untuk melemahkan penegakan \nhukum. Berdasarkan kajian teoretis mengenai Regulatory Capture , \npembentukan undang-undang yang memberikan diskresi terlalu luas  \nsering kali menjadi pintu masuk bagi kepentingan bisnis untuk \nmemengaruhi pejabat agar tidak mengambil tindakan tegas. Frasa \n“mengambil tindakan” yang tidak wajib dan tidak berbatas waktu \nmemungkinkan terjadinya negosiasi di balik layar antara regulat or dan \npelaku usaha yang melanggar. Dalam bidang kosmetik yang memiliki nilai \nekonomi tinggi, kelemahan norma ini dimanfaatkan oleh oknum ter tentu \nagar produk ilegal tetap bisa beredar di pasar dengan kompensas i \ntertentu, sementara negara seolah-olah sudah “bertindak” hanya dengan \nmemberikan peringatan administratif yang tidak berdampak pada \npenghentian peredaran barang. Hal ini menunjukkan bahwa \nketidakpastian hukum dalam pasal a quo  bukan hanya masalah teknis \nredaksional, melainkan ancaman terhadap kedaulatan hukum demi \nkepentingan oligarki industri.",
+      "start_line": 619,
+      "end_line": 635
+    },
+    {
+      "heading": "7. Bahwa jika dibandingkan dengan standar internasional, khusus nya",
+      "slug": "7-bahwa-jika-dibandingkan-dengan-standar-internasional-khusus-nya",
+      "text": "Peraturan Umum Keamanan Produk Uni Eropa ( General Product Safety \nRegulation/GPSR) yang mulai berlaku Desember 2024, norma dalam UU \na quo  tertinggal sangat jauh dan tidak memenuhi standar keamanan \nproduk global. Di Uni Eropa, GPSR telah memperkenalkan persyara tan \nyang harmonis dan tegas mengenai penarikan produk ( product recall ). \nSetiap produk yang terdeteksi tidak aman wajib ditarik dari pasar dengan \nprosedur yang sudah dipetakan secara detail, termasuk kewajiban  \npelaporan otomatis melalui sistem peringatan cepat ( Safety Gate ). Uni \nEropa menyadari bahwa dalam hal keamanan produk, negara tidak boleh \n\n19 \ndiberikan ruang untuk ragu-ragu. Perbandingan ini menunjukkan b ahwa \nsebuah undang-undang yang modern dan beradab seharusnya \nmenanggalkan frasa-frasa fakultatif seperti “mengambil tindakan ” dan \nmenggantinya dengan mekanisme penindakan otomatis yang bersifat  \nimperatif. Kegagalan pembentuk undang-undang di Indonesia untuk  \nmengadopsi standar kepastian hukum serupa dalam UU a quo  \nmerupakan bentuk pengabaian terhadap hak konstitusional warga negara \natas keamanan dan kesehatan.",
+      "start_line": 637,
+      "end_line": 655
+    },
+    {
+      "heading": "8. Bahwa UU No. 8 Tahun 1999 tentang Perlindungan Konsumen tela h",
+      "slug": "8-bahwa-uu-no-8-tahun-1999-tentang-perlindungan-konsumen-tela-h",
+      "text": "memberikan preseden mengenai norma yang lebih rigid, sehingga \nketidakjelasan dalam Pasal 30 ayat (4) UU a quo  merupakan sebuah \nkemunduran hukum ( legal regress ). Pasal 12 dan Pasal 60 UU \nPerlindungan Konsumen telah menetapkan batasan sanksi dan larangan \nyang lebih spesifik bagi pelaku usaha. Namun, UU a quo sebagai aturan \nyang lebih teknis justru melemahkan semangat perlindungan terse but \ndengan menggunakan bahasa yang sangat cair. Secara hierarkis da n \nsinkronisasi hukum, peraturan yang lebih baru atau lebih khusus  \nseharusnya memberikan detail yang lebih kuat untuk melaksanakan  \nperlindungan konsumen, bukan malah mengaburkannya. Benturan antara \nnorma yang lebih tegas di UU Perlindungan Konsumen dengan norma  \nyang lemah di UU a quo menciptakan dualisme yang membingungkan dan \nmenghilangkan kepastian hukum bagi konsumen yang dirugikan, kar ena \notoritas cenderung menggunakan pasal yang paling memberikan rua ng \ndiskresi bagi mereka untuk menghindari tanggung jawab penindakan.",
+      "start_line": 657,
+      "end_line": 671
+    },
+    {
+      "heading": "9. Bahwa fakta empiris yang dialami oleh Pemohon, yaitu masih m udahnya",
+      "slug": "9-bahwa-fakta-empiris-yang-dialami-oleh-pemohon-yaitu-masih-m-udahnya",
+      "text": "mengakses produk kosmetik ilegal hingga tahun 2026, merupakan b ukti \nnyata dari Constitutional Harm akibat kegagalan norma Pasal 30 ayat (4). \nKerugian Pemohon bukanlah kerugian yang bersifat imajiner, mela inkan \nkerugian nyata dan aktual. Fakta bahwa produk kosmetik yang sec ara \nmedis dan laboratoris telah dinyatakan berbahaya masih dapat di beli \nmelalui berbagai kanal perdagangan daring maupun luring membukt ikan \nbahwa frasa “mengambil tindakan” telah gagal total dalam melind ungi \nmasyarakat. Pembiaran ini terjadi karena Menteri tidak merasa m emiliki \nkewajiban hukum yang terikat waktu untuk membersihkan pasar dar i \n\n20 \nproduk tersebut. Jika norma pasal tersebut bersifat imperatif dan spesifik, \nmaka tidak mungkin produk berbahaya masih beredar bertahun-tahu n \nsetelah pelanggaran ditemukan. Oleh karena itu, hubungan kausal itas \n(causal verband ) antara ketidakjelasan norma dengan kerugian \nkesehatan dan ekonomi Pemohon telah terbukti secara sah dan \nmeyakinkan.",
+      "start_line": 673,
+      "end_line": 689
+    },
+    {
+      "heading": "10. Bahwa kepastian hukum yang adil menuntut agar setiap pelang garan",
+      "slug": "10-bahwa-kepastian-hukum-yang-adil-menuntut-agar-setiap-pelang-garan",
+      "text": "hukum diikuti dengan sanksi atau tindakan yang memiliki daya pa ksa \n(coercive power ) yang efektif. Tindakan hukum yang efektif adalah \ntindakan yang mampu mengembalikan keadaan pada posisi semula atau \nmencegah kerugian lebih lanjut. Frasa “mengambil tindakan” dalam pasal \na quo tidak memiliki daya paksa karena tidak mengandung konsekuensi \nbagi pejabat yang lalai bertindak. Dalam teori tujuan hukum Gus tav \nRadbruch, hukum harus menyeimbangkan antara keadilan, kemanfaatan, \ndan kepastian. Pasal yang diuji ini gagal memenuhi ketiga unsur tersebut: \ntidak adil bagi korban produk ilegal, tidak bermanfaat karena t idak \nmenghentikan peredaran barang, dan tidak pasti karena rumusanny a \nkabur. Tanpa adanya daya paksa yang diwajibkan oleh undang-unda ng, \npengawasan terhadap kosmetik ilegal hanya akan menjadi rutinita s \nadministratif tanpa dampak perlindungan yang nyata bagi rakyat.",
+      "start_line": 691,
+      "end_line": 703
+    },
+    {
+      "heading": "11. Bahwa frasa “mengambil tindakan” menciptakan interpretasi yang sangat",
+      "slug": "11-bahwa-frasa-mengambil-tindakan-menciptakan-interpretasi-yang-sangat",
+      "text": "luas yang mencakup tindakan non-hukum yang tidak memiliki dampa k \npada penghentian pelanggaran. Bisa saja seorang Menteri menafsi rkan \n“mengambil tindakan” hanya sebagai sekadar melakukan sosialisasi atau \nedukasi kepada masyarakat, padahal pelanggaran yang ditemukan \nadalah pelanggaran pidana peredaran zat berbahaya. Tanpa adanya  \nklasifikasi bahwa tindakan yang diambil harus berupa tindakan h ukum \nyang bersifat represif-administratif (seperti penyitaan atau pe narikan), \nmaka tujuan perlindungan konsumen dalam konstitusi menjadi lump uh. \nKetidakjelasan interpretasi ini adalah bentuk nyata dari pengin gkaran \nterhadap prinsip lex certa  (hukum harus jelas) dan lex stricta  ( h u k u m  \nharus tegas) yang merupakan pilar utama kepastian hukum dalam P asal \n28D ayat (1) UUD NRI 1945. \n\n21",
+      "start_line": 705,
+      "end_line": 718
+    },
+    {
+      "heading": "12. Bahwa perlindungan kesehatan melalui kepastian hukum atas p roduk",
+      "slug": "12-bahwa-perlindungan-kesehatan-melalui-kepastian-hukum-atas-p-roduk",
+      "text": "aman merupakan bagian dari hak asasi manusia yang tidak boleh \ndikurangi oleh ambiguitas undang-undang. Kosmetik sering kali dianggap \nsebagai produk tersier, namun dampak dari kandungan bahan berbahaya",
+      "start_line": 720,
+      "end_line": 722
+    },
+    {
+      "heading": "di dalamnya sering kali bersifat permanen dan mematikan (sepert i gagal",
+      "slug": "di-dalamnya-sering-kali-bersifat-permanen-dan-mematikan-sepert-i-gagal",
+      "text": "ginjal akibat merkuri). Oleh karena itu, standar kepastian huku m dalam \npengawasannya harus setara dengan standar pengawasan obat-obata n. \nPasal 30 ayat (4) UU a quo yang menyamarkan kewajiban negara dalam \nbahasa yang ambigu telah merendahkan nilai hak asasi manusia \nPemohon menjadi sekadar objek komoditas ekonomi yang \nperlindungannya bergantung pada kemauan politik (political will) pejabat, \nbukan pada kepastian hukum (legal mandate).",
+      "start_line": 724,
+      "end_line": 730
+    },
+    {
+      "heading": "13. Bahwa ketiadaan kewajiban publikasi atas tindakan yang diam bil dalam",
+      "slug": "13-bahwa-ketiadaan-kewajiban-publikasi-atas-tindakan-yang-diam-bil-dalam",
+      "text": "Pasal 30 ayat (4) semakin memperparah ketidakpastian hukum bagi  \nmasyarakat luas. Kepastian hukum menuntut transparansi agar \nmasyarakat tahu produk mana yang telah ditindak dan ditarik. Na mun, \nkarena frasa “mengambil tindakan” tidak merinci prosedur publik asi, \ntindakan yang diambil sering kali bersifat rahasia di bawah mej a. Ini \nmengakibatkan Pemohon dan konsumen lainnya tetap membeli produk  \nyang sebenarnya sudah dikenai “tindakan” oleh menteri, namun tindakan \ntersebut tidak diketahui publik karena tidak adanya kewajiban d alam \nundang-undang untuk mengumumkan hasil penindakan secara luas. H al \nini kontras dengan standar GPSR Uni Eropa yang mewajibkan infor masi \npenarikan produk sampai ke telinga konsumen akhir secara aktif.",
+      "start_line": 732,
+      "end_line": 742
+    },
+    {
+      "heading": "14. Bahwa norma Pasal 30 ayat (4) menghalangi hak Pemohon untuk",
+      "slug": "14-bahwa-norma-pasal-30-ayat-4-menghalangi-hak-pemohon-untuk",
+      "text": "melakukan gugatan terhadap pejabat yang lalai (gugatan Onrechtmatige \nOverheidsdaad). Ketika undang-undang tidak menetapkan kapan \nseorang Menteri “wajib” bertindak, maka sangat sulit bagi Pemohon untuk \nmembuktikan bahwa Menteri telah melakukan perbuatan melawan hukum \noleh penguasa karena melalaikan kewajibannya. Hakim akan sulit \nmemutus perkara pembiaran karena undang-undang memberikan \ndiskresi yang terlalu luas (“dapat bertindak kapan saja dan dal am bentuk \napa saja”). Dengan demikian, norma ini telah menutup pintu keadilan bagi \nmasyarakat untuk mengontrol kesewenang-wenangan pemerintah \n\n22 \nmelalui lembaga peradilan, yang merupakan pelanggaran serius terhadap \nprinsip negara hukum yang demokratis.",
+      "start_line": 744,
+      "end_line": 756
+    },
+    {
+      "heading": "15. Bahwa berdasarkan seluruh uraian di atas, Pasal 30 ayat (4) Undang-",
+      "slug": "15-bahwa-berdasarkan-seluruh-uraian-di-atas-pasal-30-ayat-4-undang",
+      "text": "Undang a quo terbukti secara materiil bertentangan dengan Pasal 28D \nayat (1) UUD NRI 1945 sepanjang tidak dimaknai sebagai kewajiban yang \nbersifat imperatif, spesifik, dan berbatas waktu. Kepastian huk um tidak \nmemberikan ruang bagi kata-kata bersayap dalam sebuah undang-\nundang yang menyangkut keselamatan jiwa manusia. Jika Mahkamah \nKonstitusi tidak segera membatalkan atau memberikan tafsir \nkonstitusional terhadap norma ini, maka pembiaran terhadap pere daran \nproduk berbahaya akan terus berlangsung di bawah payung hukum yang \ncacat. Dibutuhkan sebuah putusan yang mampu mengubah paradigma \ndari “Menteri dapat bertindak” menjadi “Negara wajib melindungi ” secara \nnyata, terukur, dan pasti, guna memastikan bahwa pada tahun-tah un \nmendatang tidak ada lagi warga negara yang menjadi korban akiba t \nlemahnya struktur hukum di negeri ini. \nC. Pengujian Pasal 30 ayat (5) Undang-Undang a quo",
+      "start_line": 758,
+      "end_line": 771
+    },
+    {
+      "heading": "1. Bahwa Pasal 30 ayat (5) UU a quo mengandung ketidakpastian hukum",
+      "slug": "1-bahwa-pasal-30-ayat-5-uu-a-quo-mengandung-ketidakpastian-hukum",
+      "text": "(Constitutional Ambiguity ) yang melanggar hak atas jaminan, \nperlindungan, dan kepastian hukum yang adil sebagaimana diatur dalam \nPasal 28D ayat (1) UUD 1945. Ketidakpastian ini muncul dari redaksional \nnorma yang memberikan hak kepada masyarakat untuk \n“menyebarluaskan hasil pengawasan” namun tidak memberikan batas an \ndefinisi, prosedur, maupun perlindungan imunitas bagi konsumen yang \nmelakukannya secara jujur. Dalam perspektif hukum, kepastian hu kum \nmensyaratkan bahwa setiap norma harus bersifat predictable dan clear. \nNamun, ketiadaan parameter mengenai apa yang dimaksud dengan “hasil \npengawasan masyarakat” menyebabkan konsumen berada dalam posisi  \nrentan. Sebagaimana terjadi pada kasus Stella Monica dan Dedy Chandra \n(Sumber: Saputra, Ananda Fadil Rassya, Aqila Judya Shafwa, dan \nRohmatul Umam. “Analisis Efektivitas Penerapan Undang-Undang \nPerlindungan Konsumen (UUPK) dalam Transaksi E-Commerce d i  \nIndonesia.” Media Riset Bisnis Ekonomi Sains dan Terapan 3, no. 2 (Juni \n2025): 17. https://doi.org/10.71312/mrbest.v3i2.303), perbedaan  \n\n23 \ninterpretasi hakim atas ulasan di media sosial yang secara subs tantif \nadalah hasil pengawasan mandiri konsumen menunjukkan bahwa tanp a \nperlindungan spesifik dalam Pasal 30 ayat (5), hak untuk \nmenyebarluaskan informasi berubah menjadi jebakan kriminalisasi . \nNorma ini seharusnya menjadi perisai (shield), namun karena strukturnya \nyang rapuh dan “karet”, ia justru menjadi pedang ( sword) bagi pelaku \nusaha untuk membungkam kritik melalui pasal-pasal pencemaran na ma \nbaik dalam UU ITE. Apabila negara menjamin kepastian hukum, mak a \nsetiap warga negara yang menjalankan mandat Pasal 30 ayat (5) u ntuk \nmengawasi pasar tidak boleh dihantui oleh bayang-bayang pidana yang \nsubjektif.",
+      "start_line": 773,
+      "end_line": 801
+    },
+    {
+      "heading": "2. Bahwa norma Pasal 30 ayat (5) UU a quo menghambat hak konstitusional",
+      "slug": "2-bahwa-norma-pasal-30-ayat-5-uu-a-quo-menghambat-hak-konstitusional",
+      "text": "setiap orang untuk berpartisipasi dalam kehidupan bermasyarakat  d a n  \nmemperjuangkan haknya secara kolektif sesuai Pasal 28C ayat (2)  UUD \nNRI 1945. Konstitusi memberikan mandat bagi warga negara untuk aktif \nmembangun bangsa, termasuk melalui fungsi kontrol sosial terhad ap \npelaku usaha. Namun, Pasal 30 ayat (5) gagal memberikan jaminan  \nkeamanan bagi konsumen yang menyuarakan keluhan sebagai bentuk \npartisipasi publik. Data YLKI 2025 mencatat ledakan 1.977 penga duan, \nyang mencerminkan keinginan besar masyarakat untuk berpartisipa si \ndalam memperbaiki ekosistem perlindungan konsumen. Ketika konsumen \nseperti Dedy Chandra dipidana karena menyuarakan kritik terhada p \npengembang, hal ini menciptakan chilling effect  atau efek gentar yang \nmasif. Partisipasi masyarakat tidak akan pernah terwujud jika setiap suara \nkritis dianggap sebagai serangan terhadap kehormatan. Pelanggar an \nkonkret ini membuktikan bahwa Pasal 30 ayat (5) bersifat kontraproduktif \nia memerintahkan masyarakat untuk mengawasi, namun membiarkan \nmereka “diterkam” oleh hukum pidana saat hasil pengawasan terse but \ndisebarluaskan. Tanpa adanya klausul perlindungan dalam norma \ntersebut, hak partisipasi publik hanya menjadi jargon kosong ya ng tidak \nmemiliki kekuatan mengikat secara perlindungan.",
+      "start_line": 803,
+      "end_line": 821
+    },
+    {
+      "heading": "3. Bahwa Pasal 30 ayat (5) UU a quo bertentangan dengan prinsip “Right to",
+      "slug": "3-bahwa-pasal-30-ayat-5-uu-a-quo-bertentangan-dengan-prinsip-right-to",
+      "text": "be Heard” yang merupakan standar internasional perlindungan konsumen \nsebagaimana tertuang dalam United Nations Guidelines for Consumer \n\n24 \nProtection (UNGCP). Sebagai anggota komunitas internasional, \nIndonesia terikat secara moral dan hukum untuk mengadopsi prins ip \nUNGCP yang menekankan bahwa konsumen memiliki hak untuk didengar \npendapat dan keluhannya. Pasal 30 ayat (5) seharusnya menjadi derivasi \noperasional dari prinsip ini. Namun, kenyataannya, norma terseb ut \nmenciptakan dikotomi yang berbahaya di satu sisi mengakui hak \nmenyebarluaskan informasi, namun di sisi lain membiarkan pelaku usaha \nmenggunakan dominasi ekonomi dan hukum mereka untuk menekan \nkonsumen. Kasus somasi PT Es Teh Indonesia Makmur terhadap \nkonsumennya menunjukkan betapa mudahnya hak untuk didengar ini \ndipatahkan dengan ancaman hukum. Ketidakmampuan Pasal 30 ayat (5) \nuntuk menyeimbangkan relasi kuasa antara konsumen yang lemah \nsecara finansial dan pelaku usaha yang memiliki sumber daya hukum tak \nterbatas merupakan pengabaian terhadap nilai-nilai keadilan sos ial yang \nterkandung dalam konstitusi kita.",
+      "start_line": 823,
+      "end_line": 841
+    },
+    {
+      "heading": "4. Bahwa norma yang diuji gagal memberikan perlindungan terhada p",
+      "slug": "4-bahwa-norma-yang-diuji-gagal-memberikan-perlindungan-terhada-p",
+      "text": "konsumen yang bertindak dengan itikad baik ( Good Faith ), sehingga \nmelanggar hak atas perlindungan diri pribadi dan martabat. Huku m \nperlindungan konsumen pada dasarnya bertumpu pada itikad baik. Pasal \n5 huruf b UU Perlindungan Konsumen mewajibkan konsumen beritika d \nbaik, dan secara timbal balik, mereka harus dilindungi jika telah memenuhi \nstandar tersebut. Dalam kasus Stella Monica, meskipun akhirnya \ndibebaskan, proses hukum yang panjang dan melelahkan telah meru sak \nreputasi dan mentalitasnya. Pasal 30 ayat (5) tidak memiliki me kanisme \n“penyaring” yang dapat segera menghentikan kriminalisasi jika t erbukti \nbahwa informasi yang disebarluaskan adalah ulasan jujur atas \npengalaman pribadi. Ketiadaan batasan antara “kritik demi kepen tingan \npublik” dan “penghinaan” dalam norma ini membuat konsumen yang jujur \ndiperlakukan sama dengan pemfitnah. Hal ini secara nyata menced erai \nkehormatan manusia yang hanya ingin menuntut haknya atas produk  \nyang aman dan sesuai janji pelaku usaha.",
+      "start_line": 843,
+      "end_line": 857
+    },
+    {
+      "heading": "5. Bahwa Pasal 30 ayat (5) UU a quo menciptakan ketimpangan akses",
+      "slug": "5-bahwa-pasal-30-ayat-5-uu-a-quo-menciptakan-ketimpangan-akses",
+      "text": "terhadap keadilan (Access to Justice) yang nyata dalam industri estetika, \nkhususnya bagi konsumen jasa perawatan kulit ( skin care ). Ketika \n\n25 \nkonsumen individu, seperti dalam kasus Stella Monica, menggunak an \nhaknya berdasarkan Pasal 30 ayat (5) untuk menyebarluaskan hasi l \npengamatan mandiri terkait efek samping klinis atau ketidaksesuaian janji \nlayanan medis, mereka kerap berhadapan dengan kekuatan korporas i \nklinik kecantikan yang memiliki sumber daya hukum dan finansial  yang \ndominan. Ketiadaan klausul perlindungan spesifik atau imunitas terbatas \ndalam norma tersebut mengakibatkan keluhan jujur mengenai kerusakan \nkulit justru dibalas dengan ancaman pidana pencemaran nama baik , \nsehingga konsumen harus berjuang sendirian melawan tim hukum \nprofesional tanpa adanya jaminan bantuan hukum dari negara. Akibatnya, \nnorma Pasal 30 ayat (5) yang bersifat pasif ini gagal melindungi martabat \nkonsumen kulit sensitif dan justru memperlebar jurang ketidakad ilan, di \nmana suara kritis konsumen dibungkam demi menjaga reputasi bisn is, \npadahal penyebarluasan ulasan tersebut merupakan bentuk pembela an \nhak kesehatan yang sah secara konstitusional dan merupakan bagian dari \npengawasan publik untuk mencegah jatuhnya korban lain.",
+      "start_line": 859,
+      "end_line": 878
+    },
+    {
+      "heading": "6. Bahwa norma ini tidak sinkron dengan perkembangan teknologi digital",
+      "slug": "6-bahwa-norma-ini-tidak-sinkron-dengan-perkembangan-teknologi-digital",
+      "text": "dan media sosial sebagai ruang publik baru ( Public Sphere ). Data \ndatareportal 2024 menunjukkan 139 juta pengguna media sosial di  \nIndonesia telah mengubah pola interaksi ekonomi. Ulasan daring kini \nmenjadi social proof  yang krusial. Namun, Pasal 30 ayat (5) yang \ndirumuskan tanpa mempertimbangkan dinamika media sosial telah \nmembuat aktivitas pemberian ulasan ( review) menjadi aktivitas yang \nberisiko tinggi. Norma tersebut tidak membedakan antara penyebarluasan \nhasil pengawasan melalui lembaga formal dan melalui media sosia l \nindividu. Padahal, media sosial adalah kanal tercepat bagi kons umen \nuntuk mendapatkan respons dari pelaku usaha yang abai. Ketiadaa n \nperlindungan bagi ulasan digital dalam Pasal 30 ayat (5) menjad ikannya \nnorma yang usang (obsolete) dan tidak mampu melindungi warga negara",
+      "start_line": 880,
+      "end_line": 891
+    },
+    {
+      "heading": "7. Bahwa Pasal 30 ayat (5) UU a quo mengakibatkan kerugian konstitusional",
+      "slug": "7-bahwa-pasal-30-ayat-5-uu-a-quo-mengakibatkan-kerugian-konstitusional",
+      "text": "berupa hilangnya rasa aman masyarakat untuk menyuarakan keluhan  \natas kualitas produk publik yang vital. Kasus seperti keracunan  massal \nprogram Makan Bergizi Gratis (MBG) dan masalah kuantitas BBM ya ng \n\n26 \ndipertanyakan oleh YLKI pada 2025 menunjukkan bahwa pengawasan \nmasyarakat menyangkut nyawa dan hajat hidup orang banyak. Jika Pasal \n30 ayat (5) tetap dibiarkan tanpa kejelasan perlindungan hukum,  maka \nmasyarakat akan memilih diam ( silence) meskipun melihat \npenyimpangan. Ketakutan akan dipidana seperti Dedy Chandra akan  \nmembuat masyarakat membiarkan produk cacat atau layanan buruk \nberedar di pasar. Ini adalah ancaman serius bagi ketertiban umu m dan \nperlindungan kesehatan masyarakat yang seharusnya dijamin oleh \nnegara. Diamnya konsumen karena takut hukum adalah tanda kegagalan \nhukum perlindungan konsumen itu sendiri.",
+      "start_line": 894,
+      "end_line": 908
+    },
+    {
+      "heading": "8. Bahwa norma Pasal 30 ayat (5) membuka peluang terjadinya",
+      "slug": "8-bahwa-norma-pasal-30-ayat-5-membuka-peluang-terjadinya",
+      "text": "penyalahgunaan wewenang ( Abuse of Power ) oleh aparat penegak \nhukum dalam menginterpretasikan “penyebarluasan hasil pengawasa n”. \nKarena redaksi pasalnya yang sangat singkat dan tidak detail, a parat \npenegak hukum sering kali hanya merujuk pada UU ITE saat terjad i \nsengketa ulasan konsumen. Hal ini terlihat dari perbedaan drastis putusan \nStella Monica dan Dedy Chandra. Ketidakjelasan Pasal 30 ayat (5 ) \nmemberikan diskresi yang terlalu luas bagi penyidik untuk menen tukan \napakah sebuah unggahan adalah “hasil pengawasan” atau “penghinaan”. \nHal ini secara terang-terangan melanggar prinsip nullum crimen , nulla \npoena sine lege stricta (tidak ada pidana tanpa ketentuan undang-undang \nyang ketat). Norma yang longgar adalah pintu masuk bagi kesewen ang-\nwenangan yang merugikan rakyat kecil.",
+      "start_line": 910,
+      "end_line": 921
+    },
+    {
+      "heading": "9. Bahwa Pasal 30 ayat (5) UU a quo melemahkan peran Lembaga",
+      "slug": "9-bahwa-pasal-30-ayat-5-uu-a-quo-melemahkan-peran-lembaga",
+      "text": "Perlindungan Konsumen Swadaya Masyarakat (LPKSM) sebagai mitra \nstrategis pemerintah. Sebagaimana ditekankan oleh Disperindag J abar, \nLPKSM adalah ujung tombak pengawasan. Namun, jika konsumen yang  \nmelapor kepada LPKSM dan kemud ian LPKSM menyebarluaskannya \ntetap bisa digugat secara perdata maupun dipidana(Sumber: \nhttps://indag.jabarprov.go.id/postingan/disperindag-jabar-gelar-\npembinaan-lpksm-untuk-perkuat-perlindungan-konsumen-\n68c8f789e6e566815af5a314) maka fungsi kontrol terhadap pelaku usaha \nagar memenuhi aspek K3L (Kesehatan, Keamanan, Keselamatan, dan \nLingkungan) akan lumpuh. Pasal 30 ayat (5) seharusnya memberika n \n\n27 \n“hak eksklusif” bagi LPKSM dan konsumen untuk menyuarakan \nkebenaran faktual tanpa ancaman  pidana. Melemahnya LPKSM akibat  \nnorma yang tidak protektif ini berarti melemahnya perlindungan negara \nterhadap rakyatnya di pasar bebas.",
+      "start_line": 923,
+      "end_line": 938
+    },
+    {
+      "heading": "10. Bahwa keberadaan Pasal 30 ayat (5) UU a quo yang tidak memberikan",
+      "slug": "10-bahwa-keberadaan-pasal-30-ayat-5-uu-a-quo-yang-tidak-memberikan",
+      "text": "pengecualian pemidanaan bagi kepentingan umum merupakan bentuk \npengabaian terhadap Hak Asasi Manusia. Bahwa setiap kritik yang  \nbertujuan untuk kepentingan umum ( pro bono publico) seharusnya tidak \ndapat dipidana. Pasal 30 ayat (5) yang memerintahkan penyebarlu asan \nhasil pengawasan secara inheren mengandung tujuan kepentingan \numum: agar orang lain tidak mengalami kerugian yang sama. Namun , \nkarena norma ini tidak secara eksplisit menyatakan bahwa \n“penyebarluasan hasil pengawasan masyarakat bukan merupakan \npencemaran nama baik jika didasarkan pada fakta”, maka norma ini telah \ngagal menyinkronkan dirinya dengan semangat perlindungan HAM dalam \nkonstitusi. Pelanggaran terhadap hak atas informasi yang benar dan jujur \nadalah pelanggaran terhadap fondasi demokrasi ekonomi kita. \nD. Pengujian Pasal 54 ayat (3) Undang-Undang a quo",
+      "start_line": 940,
+      "end_line": 952
+    },
+    {
+      "heading": "1. Bahwa Kepastian Hukum yang Adil adalah Pilar Absolut",
+      "slug": "1-bahwa-kepastian-hukum-yang-adil-adalah-pilar-absolut",
+      "text": "Konstitusionalisme. Bahwa Pasal 28D ayat (1) UUD NRI 1945 secar a \neksplisit menegaskan hak setiap orang atas pengakuan, jaminan, \nperlindungan, dan kepastian hukum yang adil. Dalam bingkai nega ra \nhukum, kepastian tidak boleh dimaknai sekadar adanya aturan, melainkan \naturan yang memberikan akses pada keadilan substantif. Norma \nkonstitusi ini mengharuskan adanya mekanisme due process of law yang \nmemungkinkan setiap warga negara mendapatkan pemeriksaan perkar a \nyang akuntabel oleh lembaga peradilan yang merdeka. Ketika sebu ah \nregulasi menciptakan ambiguitas atau “jalan buntu” dalam pencar ian \nkeadilan, maka regulasi tersebut telah kehilangan ruh \nkonstitusionalitasnya. Hak atas peradilan yang adil mencakup ha k untuk \nmembela diri dan hak untuk mendapatkan peninjauan atas suatu putusan \nyang dianggap keliru. Oleh karena itu, setiap norma yang membatasi hak \nini dengan dalih finalitas, tanpa menyediakan prosedur yang efe ktif dan \nsinkron, secara otomatis bertabrakan dengan mandat Pasal 28D ayat (1) \n\n28 \nUUD NRI 1945 yang menjamin hak warga negara untuk tidak \ndiperlakukan secara sewenang-wenang oleh sistem hukum yang \ndiskonektif.",
+      "start_line": 954,
+      "end_line": 973
+    },
+    {
+      "heading": "2. Bahwa Frasa “Final dan Mengikat” dalam Pasal 54 ayat (3) adalah Norma",
+      "slug": "2-bahwa-frasa-final-dan-mengikat-dalam-pasal-54-ayat-3-adalah-norma",
+      "text": "yang Kontradiktif. Bahwa Pasal 54 ayat (3) UU No. 8 Tahun 1999 \nmenyatakan bahwa putusan majeli s BPSK bersifat final dan mengik at. \nSecara teoritis, sifat final and binding melekat pada putusan lembaga yang \nmemiliki otoritas pemutus terakhir yang mandiri. Namun, eksistensi norma \nini bersifat “pseudo-final” karena bertabrakan secara diametral  dengan \nPasal 56 ayat (2) dan Pasal 58 ayat (2) undang-undang yang sama, yang \njustru membuka ruang keberatan di Pengadilan Negeri dan kasasi di \nMahkamah Agung. Ketidaksinkronan internal ini menciptakan \nketidakpastian hukum yang nyata bagi Pemohon. Di satu sisi, Pem ohon \ndijanjikan penyelesaian yang ce pat dan tuntas melalui BPSK, nam un di \nsisi lain, norma tersebut memberikan harapan palsu karena putus an \ntersebut tidak memiliki kekuatan eksekutorial mandiri ( non-executable). \nKetidakjelasan status hukum ini menyebabkan Pemohon berada dala m \nkondisi limbo, di mana sebuah putusan dianggap final namun sekaligus \nbisa dibatalkan, menciptakan dualisme prosedur yang menguras en ergi, \nwaktu, dan biaya, yang pada akhirnya mengkhianati asas peradilan cepat, \nsederhana, dan biaya ringan.",
+      "start_line": 975,
+      "end_line": 991
+    },
+    {
+      "heading": "3. Bahwa Tertutupnya Akses Keadilan dalam Sengketa Lintas Batas (Cross-",
+      "slug": "3-bahwa-tertutupnya-akses-keadilan-dalam-sengketa-lintas-batas-cross",
+      "text": "Border Dispute). Bahwa Pemohon secara riil telah mengalami kerugian \nkonstitusional ketika mencoba mengakses keadilan melalui BPSK p ada \ntanggal 12 Februari 2026. Dalam praktiknya, pengaduan Pemohon \ndimentahkan hanya karena pelaku usaha berdomisili di luar negeri. Hal ini \nmenunjukkan bahwa Pasal 54 ayat (3) yang menekankan pada finalitas di \ntingkat BPSK tidak mampu menjawab tantangan ekonomi modern yang  \nbersifat global dan digital. Berdasarkan pandangan dunia intern asional, \nsebagaimana tertuang dalam OECD Recommendation on Consumer \nDispute Resolution and Redress 2007, negara seharusnya menyediakan \nmekanisme yang efektif untuk sengketa lintas batas. Ketika norm a \nnasional menutup pintu bagi sengketa dengan elemen asing melalu i \nprosedur yang sempit, maka negara telah gagal memberikan \n\n29 \nperlindungan maksimal bagi warga negaranya. Kondisi ini membukt ikan \nbahwa norma “final” dalam UU a quo  justru menjadi jerat hukum yang \nmematikan hak Pemohon untuk mencari perlindungan hukum lebih lanjut \nke forum lain yang memiliki yurisdiksi lebih luas, sehingga men ciptakan \nkekosongan hukum ( rechtsvacuum) yang merugikan kepentingan \nkonsumen nasional secara masif.",
+      "start_line": 993,
+      "end_line": 1012
+    },
+    {
+      "heading": "4. Bahwa BPSK sebagai Lembaga Quasi-Yudisial Kehilangan Marwah",
+      "slug": "4-bahwa-bpsk-sebagai-lembaga-quasi-yudisial-kehilangan-marwah",
+      "text": "Konstitusionalnya. Bahwa secara konstitusional, Pasal 24 ayat ( 3) UUD \nNRI 1945 mengakui adanya badan-badan lain yang fungsinya berkai tan \ndengan kekuasaan kehakiman. BPSK adalah lembaga quasi-judicial yang \ndiberikan kewenangan “super power”  untuk menyelidiki, menuntut, dan \nmemutus sengketa. Namun, kewenangan besar ini tidak dibarengi \ndengan kepastian status dalam struktur kekuasaan kehakiman di b awah \nMahkamah Agung. Sebagaimana disampaikan dalam berbagai literatu r \nhukum dan pandangan anggota Komisi VI DPR, BPSK menjadi “mandul” \nakibat inkonsistensi regulasi. Penarikan wewenang BPSK ke tingk at \nprovinsi melalui UU Pemda memperparah kondisi ini dengan memutu s \nakses geografis konsumen di kabupaten/kota. Ketika sebuah lemba ga \npemutus sengketa tidak didukung oleh anggaran yang layak dan st ruktur \nyang jelas, maka sifat “final dan mengikat” dari putusannya han yalah \nsebuah jargon tanpa makna. Pemohon dipaksa tunduk pada putusan \nlembaga yang secara struktural rapuh, yang menurut pandangan hu kum \nprogresif, hal ini merupakan bentuk pelanggaran terhadap hak wa rga \nnegara atas institusi peradilan yang kompeten dan berwibawa.",
+      "start_line": 1014,
+      "end_line": 1030
+    },
+    {
+      "heading": "5. Bahwa Ketiadaan Irah-Irah Membatalkan Kekuatan Eksekutorial Putusan.",
+      "slug": "5-bahwa-ketiadaan-irah-irah-membatalkan-kekuatan-eksekutorial-putusan",
+      "text": "Bahwa sebuah putusan hanya memiliki nilai hukum jika dapat dipaksakan \npelaksanaannya oleh alat negara. Pasal 54 ayat (3) UU a quo  y a n g  \nmenyatakan putusan BPSK bersifat final, ternyata lumpuh dalam eksekusi \nkarena sering kali putusan BPSK tidak mencantumkan irah-irah “D emi \nKeadilan Berdasarkan Ketuhanan Yang Maha Esa”. Berdasarkan prak tik",
+      "start_line": 1032,
+      "end_line": 1036
+    },
+    {
+      "heading": "di Pengadilan Negeri Jakarta Pusat dan berbagai daerah lainnya,",
+      "slug": "di-pengadilan-negeri-jakarta-pusat-dan-berbagai-daerah-lainnya",
+      "text": "ketiadaan irah-irah ini menyebabkan permohonan fiat eksekusi di tolak. \nHal ini menunjukkan adanya benturan antara UU Perlindungan Konsumen \ndengan UU Kekuasaan Kehakiman dan UU Arbitrase. Pemohon yang \n\n30 \nmemegang putusan BPSK yang diangg ap “final” nyatanya memegang \nkertas kosong yang tidak bisa dieksekusi terhadap pelaku usaha yang \ntidak kooperatif. Ketimpangan antara label “final” dan kenyataan lapangan \nini adalah bentuk pengabaian terhadap hak atas kepastian hukum yang \nadil. Negara melalui norma Pasal 54 ayat (3) telah memberikan janji palsu \ntentang ketuntasan sengketa yang pada kenyataannya masih \nmembutuhkan “restu” berbelit dari pengadilan umum untuk bisa \ndilaksanakan.",
+      "start_line": 1038,
+      "end_line": 1050
+    },
+    {
+      "heading": "6. Bahwa Norma Finalitas Mengh ambat Hak Uji Materiil dan Substa ntif",
+      "slug": "6-bahwa-norma-finalitas-mengh-ambat-hak-uji-materiil-dan-substa-ntif",
+      "text": "Perkara. Bahwa esensi dari pemeriksaan yang adil ( fair trial ) adalah \nadanya kesempatan bagi pihak yang dirugikan untuk menguji kemba li \npertimbangan hukum yang dianggap keliru atau tidak berdasar pada bukti \nyang valid. Dengan klaim bahwa putusan BPSK bersifat “final dan  \nmengikat”, terdapat kecenderungan untuk menutup pintu pemeriksa an \nulang atas fakta-fakta hukum secara mendalam di tingkat lanjutan. Hal ini \ndiperparah dengan adanya Perma No. 1 Tahun 2006 yang membatasi \nalasan keberatan hanya pada syarat-syarat pembatalan arbitrase yang \nsempit (seperti dokumen palsu atau tipu muslihat). Padahal, ban yak \nsengketa konsumen yang memerlukan pengujian substantif atas \npelanggaran klausula baku atau tindakan melawan hukum pelaku usaha. \nPemohon merasa hak konstitusionalnya dirampas ketika norma fina litas \ndigunakan sebagai tameng oleh pelaku usaha untuk menghindari \npemeriksaan substantif di pengadilan yang lebih tinggi, yang mana hal ini \nsangat mencederai prinsip pencarian keadilan substantif yang me njadi \nnafas Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 1052,
+      "end_line": 1067
+    },
+    {
+      "heading": "7. Bahwa Ketidakefektifan Mekanisme Penyelesaian Sengketa adala h",
+      "slug": "7-bahwa-ketidakefektifan-mekanisme-penyelesaian-sengketa-adala-h",
+      "text": "Pelanggaran Hak Ekonomi. Bahwa hak atas perlindungan hukum tida k \ndapat dipisahkan dari perlindungan hak ekonomi konsumen. Dalam \nekonomi digital yang sangat dinamis, konsumen berada pada posisi tawar \nyang lemah ( unequal bargaining position ). Kehadiran Pasal 54 ayat (3) \nyang menjanjikan finalitas namun dalam praktiknya pengaduan tid ak \ndapat diproses jika pelaku usaha berada di luar negeri, menunju kkan \nkegagalan perlindungan negara. Pemohon telah melakukan upaya it ikad \nbaik dengan melapor pada 12 Februari 2026, namun hanya mendapatkan \n\n31 \nketidakpastian. Kondisi di mana 67% konsumen cenderung pasrah d an \nenggan melapor (sebagaimana data penelitian yang dikutip anggota DPR \nDarmadi Durianto) adalah bukti nyata bahwa budaya hukum dan str uktur \nhukum yang dilahirkan dari norma ini tidak efektif. Jika norma “finalitas” ini \nterus dipertahankan tanpa adanya mekanisme sinkronisasi yang \nmenjamin akses keadilan lintas yurisdiksi, maka negara secara t idak \nlangsung telah membiarkan praktik eksploitasi konsumen terus \nberlangsung tanpa adanya pemulihan (redress) yang memadai.",
+      "start_line": 1069,
+      "end_line": 1086
+    },
+    {
+      "heading": "8. Bahwa Sengketa Norma Antara UU Perlindungan Konsumen dan UU",
+      "slug": "8-bahwa-sengketa-norma-antara-uu-perlindungan-konsumen-dan-uu",
+      "text": "Pemda Menciptakan Diskriminasi Geografis. Bahwa hak atas kepast ian \nhukum mencakup hak untuk mendapatkan perlakuan yang sama di depan \nhukum tanpa diskriminasi. Namun, akibat perubahan regulasi dala m UU \nNo. 23 Tahun 2014, BPSK ditarik ke tingkat provinsi, yang mengakibatkan \nbanyak kantor BPSK di tingkat kabupaten/kota tutup karena kendala dana \ndan koordinasi. Hal ini menyebabkan Pemohon yang berada di daer ah \npelosok atau jauh dari ibu kota provinsi kehilangan akses fisik  u n t u k  \nmenyelesaikan sengketanya secara cepat. Norma Pasal 54 ayat (3) yang \nmenyatakan putusan BPSK final menj adi tidak relevan jika untuk \nmencapai lembaga BPSK itu sendiri konsumen harus menempuh beban  \nbiaya dan waktu yang tidak proporsional. Ketimpangan infrastruk tur \nhukum ini, yang dipicu oleh ketidakjelasan posisi BPSK dalam un dang-\nundang a quo , merupakan bentuk pelanggaran terhadap hak warga \nnegara untuk mendapatkan layanan publik di bidang hukum yang merata \ndan terjangkau, sesuai dengan cita-cita kesejahteraan sosial da lam \nkonstitusi.",
+      "start_line": 1088,
+      "end_line": 1103
+    },
+    {
+      "heading": "9. Bahwa Penafsiran Sempit Terhadap Frasa “Keberatan” Mengaburk an",
+      "slug": "9-bahwa-penafsiran-sempit-terhadap-frasa-keberatan-mengaburk-an",
+      "text": "Upaya Hukum. Bahwa dalam sistem hukum Indonesia, frasa “keberat an” \nsering kali disalahpahami sebagai upaya administratif belaka at au \ndisamakan dengan gugatan baru di Pengadilan Negeri. Ketidakjela san \nterminologi hukum dalam UU Perlindungan Konsumen ini menyebabka n \nketidaksinkronan prosedur pemeriksaan di Mahkamah Agung. Pemoho n \ndihadapkan pada ketidakpastian apakah pemeriksaan keberatan tersebut \nbersifat ex officio  atau harus didahului dengan gugatan perdata biasa. \nPasal 54 ayat (3) yang menyatakan finalitas justru memperkeruh keadaan \n\n32 \nkarena hakim di pengadilan umum sering kali ragu untuk membatal kan \nputusan yang dilabeli “final” oleh undang-undang, meskipun terd apat \nkesalahan penerapan hukum yang nyata. Ketidaksinkronan antara hukum \nacara di BPSK dan hukum acara di pengadilan umum (HIR/RBg) \nmenciptakan labirin hukum yang menyesatkan, di mana Pemohon \nakhirnya kehilangan hak konstitusionalnya untuk mendapatkan kepastian \nhukum hanya karena perdebatan teknis-prosedural yang bersumber dari \nnorma Pasal 54 ayat (3) yang cacat sinkronisasi.",
+      "start_line": 1105,
+      "end_line": 1122
+    },
+    {
+      "heading": "10. Bahwa Perlunya Rekonstruksi Norma Demi Perlindungan Konsume n",
+      "slug": "10-bahwa-perlunya-rekonstruksi-norma-demi-perlindungan-konsume-n",
+      "text": "yang Konstitusional. Bahwa berdasarkan seluruh argumen di atas,  \nPemohon berkeyakinan bahwa Pasal 54 ayat (3) UU No. 8 Tahun 199 9 \ntidak lagi memiliki dasar pijakan konstitusional yang kuat jika  t e t a p  \ndipertahankan tanpa adanya penjelasan atau perubahan yang \nmensinkronkannya dengan hak atas peradilan yang adil. Norma “final dan \nmengikat” haruslah dinyatakan inkonstitusional sepanjang tidak dimaknai \nsebagai putusan yang tetap dapat diuji secara substantif apabil a \nmelanggar hak-hak dasar konsumen atau jika mekanisme peradilann ya \ntidak dapat dijalankan secara efektif. Perlunya reposisi BPSK s ebagai \nbagian dari kekuasaan kehakiman yang memiliki hubungan fungsion al \nyang jelas dengan Mahkamah Agung adalah keharusan untuk mengakhiri \nanomali yudisial ini. Tanpa adanya jaminan bahwa setiap warga n egara \ntermasuk Pemohon memiliki “pintu darurat” hukum ketika sengketa  tidak \ndapat diproses di lembaga quasi-judicial, maka Pasal 54 ayat (3) hanyalah \nsebuah instrumen yang melegitimasi ketidakadilan hukum di Indon esia, \nyang secara nyata bertentangan dengan Pembukaan UUD NRI 1945 \nuntuk melindungi segenap bangsa Indonesia dan seluruh tumpah da rah \nIndonesia. \nIV. PETITUM \nBahwa dari seluruh dalil-dalil yang diuraikan di atas dan bukti -bukti terlampir, \ndengan ini Pemohon memohon kepada Yang Mulia Majelis Hakim Mahk amah \nKonstitusi untuk kiranya memberikan putusan sebagai berikut:",
+      "start_line": 1124,
+      "end_line": 1145
+    },
+    {
+      "heading": "1. Mengabulkan permohonan Para Pemohon untuk seluruhnya;",
+      "slug": "1-mengabulkan-permohonan-para-pemohon-untuk-seluruhnya",
+      "text": "33",
+      "start_line": 1147,
+      "end_line": 1148
+    },
+    {
+      "heading": "2. Menyatakan Pasal 30 ayat (2) Undang-Undang Nomor 8 Tahun 1999 tentang",
+      "slug": "2-menyatakan-pasal-30-ayat-2-undang-undang-nomor-8-tahun-1999-tentang",
+      "text": "Perlindungan Konsumen (Lembaran Negara Republik Indonesia Tahun 1999 \nNomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 382 1) \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat secara \nbersyarat ( conditionally unconstitutional ), sepanjang tidak dimaknai bahwa \nPengawasan terhadap penyelenggaraan perlindungan konsumen tidak  \nhanya dilaksanakan oleh Menteri dan/atau menteri teknis, tetapi  juga wajib \nmelibatkan lembaga yang memiliki independensi fungsional, bebas  d a r i  \nintervensi dalam pelaksanaan tu gas pengawasan, serta memiliki \nkewenangan yang efektif dalam melakukan pengawasan, koordinasi,  d a n  \npenindakan terhadap pelanggaran yang merugikan konsumen;",
+      "start_line": 1150,
+      "end_line": 1160
+    },
+    {
+      "heading": "3. Menyatakan Pasal 30 ayat (4) Undang-Undang Nomor 8 Tahun 1999 tentang",
+      "slug": "3-menyatakan-pasal-30-ayat-4-undang-undang-nomor-8-tahun-1999-tentang",
+      "text": "Perlindungan Konsumen (Lembaran Negara Republik Indonesia Tahun 1999 \nNomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 382 1) \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat secara \nbersyarat ( conditionally unconstitutional ), sepanjang tidak dimaknai bahwa \nMenteri dan/atau menteri teknis wajib mengambil tindakan yang b ersifat \nimperatif, spesifik, dan berbatas waktu terhadap setiap pelangg aran yang \nmembahayakan konsumen, termasuk penarikan produk, penghentian \nperedaran, dan/atau sanksi tegas lainnya sesuai dengan ketentuan peraturan \nperundang-undangan;",
+      "start_line": 1162,
+      "end_line": 1171
+    },
+    {
+      "heading": "4. Menyatakan Pasal 30 ayat (5) Undang-Undang Nomor 8 Tahun 1999 tentang",
+      "slug": "4-menyatakan-pasal-30-ayat-5-undang-undang-nomor-8-tahun-1999-tentang",
+      "text": "Perlindungan Konsumen (Lembaran Negara Republik Indonesia Tahun 1999 \nNomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 382 1) \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat secara \nbersyarat ( conditionally unconstitutional ), sepanjang tidak dimaknai bahwa \nmasyarakat yang menyebarluaskan hasil pengawasan terhadap baran g \ndan/atau jasa yang beredar di pasar dilindungi oleh hukum, sepa njang \ndilakukan dengan itikad baik dan berdasarkan fakta, serta tidak  dapat \ndipidana maupun digugat secara perdata atas dasar penyebarluasa n \ninformasi tersebut; \n\n34",
+      "start_line": 1173,
+      "end_line": 1184
+    },
+    {
+      "heading": "5. Menyatakan Pasal 54 ayat (3) Undang-Undang Nomor 8 Tahun 1999 tentang",
+      "slug": "5-menyatakan-pasal-54-ayat-3-undang-undang-nomor-8-tahun-1999-tentang",
+      "text": "Perlindungan Konsumen (Lembaran Negara Republik Indonesia Tahun 1999 \nNomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 382 1) \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat secara \nbersyarat ( conditionally unconstitutional ), sepanjang tidak dimaknai bahwa \nPutusan Badan Penyelesaian Sengketa Konsumen bersifat final dan  \nmengikat hanya dalam hal proses pemeriksaan telah menjamin prin sip \nperadilan yang adil, transparan, imparsial, serta tetap membuka  \nkemungkinan upaya hukum dalam hal terdapat pelanggaran terhadap prinsip \ntersebut;",
+      "start_line": 1186,
+      "end_line": 1195
+    },
+    {
+      "heading": "6. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "6-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya.  \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain  mohon \nputusan yang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, Pemohon tela h \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-8, sebagai \nberikut:",
+      "start_line": 1197,
+      "end_line": 1202
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 8 Tahun 1999",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-8-tahun-1999",
+      "text": "Perlindungan Konsumen;",
+      "start_line": 1204,
+      "end_line": 1204
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945;",
+      "start_line": 1206,
+      "end_line": 1206
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Bernita",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-bernita",
+      "text": "Matondang;",
+      "start_line": 1208,
+      "end_line": 1208
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Mahasiswa (KTM) Bernita",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-mahasiswa-ktm-bernita",
+      "text": "Matondang;",
+      "start_line": 1210,
+      "end_line": 1210
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Bukti Transaksi Pembelian Produk Kosmet ik",
+      "slug": "5-bukti-p-5-fotokopi-bukti-transaksi-pembelian-produk-kosmet-ik",
+      "text": "Melalui Platform Perdagangan Elektronik;",
+      "start_line": 1212,
+      "end_line": 1212
+    },
+    {
+      "heading": "6. Bukti P-6 : Tangkapan layar/infografis dari Badan Pengawas O bat",
+      "slug": "6-bukti-p-6-tangkapan-layar-infografis-dari-badan-pengawas-o-bat",
+      "text": "dan Makanan (BPOM) yang memuat daftar produk \nkosmetik yang mengandung bahan berbahaya berupa \n\n35 \nmerkuri, termasuk salah satu produk yang identik atau \nsejenis dengan produk yang dibeli oleh Pemohon;",
+      "start_line": 1214,
+      "end_line": 1219
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Bukti Pembelian Ulang Produk Kosmetik m elalui",
+      "slug": "7-bukti-p-7-fotokopi-bukti-pembelian-ulang-produk-kosmetik-m-elalui",
+      "text": "Marketplace Tahun 2026;",
+      "start_line": 1221,
+      "end_line": 1221
+    },
+    {
+      "heading": "8. Bukti P-8 : Tangkapan layar ( screenshot) percakapan antara",
+      "slug": "8-bukti-p-8-tangkapan-layar-screenshot-percakapan-antara",
+      "text": "Pemohon dengan Badan Penyelesaian Sengketa \nKonsumen (BPSK) Kabupaten Bogor tertanggal 12 \nFebruari 2026. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1223,
+      "end_line": 1228
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah  \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia \nNomor 5076, selanjutnya disebut UU 48/2009), salah satu kewenan gan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji undang-undang terhadap UUD NRI Tahun \n1945. \n[3.2] Menimbang bahwa oleh karena permohonan yang diajukan a quo adalah \npengujian konstitusionalitas undang-undang, in casu norma Pasal 30 ayat (2), ayat \n(4), ayat (5), dan Pasal 54 ayat (3) Undang-Undang Nomor 8 Tahu n 1999 tentang \n\n36 \nPerlindungan Konsumen (Lembaran Negara Republik Indonesia Tahun 1999 Nomor \n22, Tambahan Lembaran Negara Republik Indonesia Nomor 3821, sel anjutnya \ndisebut UU 8/1999) terhadap UUD NRI Tahun 1945, maka Mahkamah b erwenang \nmengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu Undang-Undang, yaitu. \na.  perorangan warga negara Indonesia; \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan se suai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1230,
+      "end_line": 1263
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhada p \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu. \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada atau tidaknya kerugian hak dan/atau kewenangan konstitus ional yang \ndiberikan oleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang-\nundang yang dimohonkan pengujian dalam kedudukan sebagaimana di maksud \npada huruf a; \n[3.4]  Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor              \n11/PUU-V/2007 yang diucapkan dalam sidang pleno terbuka untuk u mum pada \ntanggal 20 September 2007, serta putusan-putusan selanjutnya, telah berpendirian \nbahwa kerugian hak dan/atau kewenangan konstitusional sebagaima na dimaksud \ndalam Pasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \n\n37 \na.  adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI Tahun 1945; \nb.  hak dan/atau kewenangan konstitusional tersebut oleh Pemoho n dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1266,
+      "end_line": 1286
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1288,
+      "end_line": 1289
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi; \n[3.5]  Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon yang pad a \npokoknya menguraikan sebagai berikut:",
+      "start_line": 1291,
+      "end_line": 1298
+    },
+    {
+      "heading": "1. Bahwa norma undang-undang yang dimohonkan pengujian konstitu sionalitas",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-pengujian-konstitu-sionalitas",
+      "text": "adalah norma Pasal 30 ayat (2), ayat (4), ayat (5), dan Pasal 5 4 ayat (3) UU \n8/1999, yang rumusan selengkapnya masing-masing sebagai berikut: \nPasal 30 ayat (2) UU 8/1999 \nPengawasan oleh pemerintah sebagaimana dimaksud pada ayat (1) \ndilaksanakan oleh Menteri dan/atau menteri teknis terkait. \nPasal 30 ayat (4) UU 8/1999 \nApabila hasil pengawasan sebagaimana dimaksud pada ayat (3) ter nyata \nmenyimpang dari peraturan perundang-undangan yang berlaku dan \nmembahayakan konsumen, Menteri dan/atau menteri teknis mengambi l \ntindakan sesuai dengan peraturan perundang-undangan yang berlaku. \nPasal 30 ayat (5) UU 8/1999 \nHasil pengawasan yang diselenggarakan masyarakat dan lembaga \nperlindungan konsumen swadaya masyarakat dapat disebarluaskan k epada \nmasyarakat dan dapat disampaikan kepada Menteri dan menteri teknis. \nPasal 54 ayat (3) UU 8/1999 \nPutusan majelis bersifat final dan mengikat.",
+      "start_line": 1300,
+      "end_line": 1315
+    },
+    {
+      "heading": "2. Bahwa Pemohon menjelaskan kualifikasinya sebagai perseoranga n warga",
+      "slug": "2-bahwa-pemohon-menjelaskan-kualifikasinya-sebagai-perseoranga-n-warga",
+      "text": "negara Indonesia yang berstatus mahasiswa fakultas hukum dan me rupakan \nkonsumen atas suatu produk yang dibeli secara langsung melalui platform \nperdagangan elektronik, yang memiliki hak konstititusional untu k memajukan \n\n38 \ndiri dalam memperjuangkan hak secara kolektif guna membangun masyarakat, \nbangsa dan negara, hak atas pengakuan, jaminan, perlindungan dan kepastian \nhukum yang adil serta perlakuan yang sama di hadapan hukum, hak  a t a s  \nperlindungan diri pribadi, keluarga, kehormatan, martabat, dan harta benda, \nserta hak atas rasa aman dan perlindungan dari ancaman ketakuta n untuk \nberbuat atau tidak berbuat sesuatu, dan hak untuk hidup sejahte ra lahir dan \nbatin, memiliki tempat tinggal, mendapatkan lingkungan hidup ya ng baik dan \nsehat, serta memperoleh pelayanan kesehatan sebagaimana dijamin  d a l a m  \nPasal 28C ayat (2), Pasal 28D ayat (1), Pasal 28G ayat (1), Pasal 28H ayat (1) \nUUD NRI Tahun 1945.",
+      "start_line": 1317,
+      "end_line": 1331
+    },
+    {
+      "heading": "3. Bahwa dalam menguraikan ada atau tidaknya anggapan kerugian hak",
+      "slug": "3-bahwa-dalam-menguraikan-ada-atau-tidaknya-anggapan-kerugian-hak",
+      "text": "konstitusional yang diberikan oleh UUD NRI Tahun 1945 karena be rlakunya \nnorma dalam undang-undang yang dimohonkan pengujian, Pemohon \nmenyampaikan alasan yang pada pokoknya sebagai berikut: \na. Bahwa Pemohon mendalilkan pernah membeli dan menggunakan pro duk \nperawatan kulit [vide Bukti P-5] yang beredar secara luas di masyarakat dan \ndipromosikan melalui platform perdagangan elektronik yang menimbulkan \npersepsi bahwa produk tersebut aman dan layak digunakan. Akan t etapi, \nsetelah Pemohon menggunakan produk tersebut, terdapat pemberita an \npublik dan rilis otoritas pengawas bahwa produk yang sama terma suk \ndalam kategori kosmetik ilegal yang mengandung bahan berbahaya berupa \nmerkuri [vide Bukti P-6]. \nb. Bahwa menurut Pemohon, sekalipun terdapat pemberitaan mengen ai \npeningkatan temuan kosmetik ilegal dalam kurun waktu tahun 2023 sampai \ndengan tahun 2025, pada tahun 2026 Pemohon masih dapat dengan \nmudah menemukan dan memperoleh produk yang sama yang \nmengandung bahan berbahaya melalui platform perdagangan elektronik, \nsekalipun Pemohon telah mengajukan pengaduan kepada Badan \nPenyelesaian Sengketa Konsumen (BPSK) Kabupaten Bogor pada tanggal \n12 Februari 2026 [vide Bukti P-7 dan Bukti P-8]. Terhadap laporan Pemohon \ntersebut, BPSK menyatakan pelaku usaha yang berada di luar negeri tidak \ntermasuk dalam kewenangan BPSK, sehingga pengaduan Pemohon tida k \ndiproses dan dialihkan kepada lembaga hukum lainnya. \n\n39",
+      "start_line": 1333,
+      "end_line": 1356
+    },
+    {
+      "heading": "c. Bahwa Pemohon beranggapan hal demikian terjadi akibat keberl akuan",
+      "slug": "c-bahwa-pemohon-beranggapan-hal-demikian-terjadi-akibat-keberl-akuan",
+      "text": "norma yang dimohonkan pengujian konstitusionalitasnya yakni Pas al 30 \nayat (2) UU 8/1999 yang hanya memusatkan pengawasan pada Menter i \ndan/atau menteri teknis tanpa mekanisme pengawasan independen, Pasal \n30 ayat (4) UU 8/1999 yang menggunakan frasa fakultatif “mengam bil \ntindakan” tanpa disertai dengan kewajiban hukum yang tegas, dan  Pasal \n30 ayat (5) UU 8/1999 yang membuka partisipasi masyarakat namun  tidak \ndisertai dengan jaminan perlindungan hukum, serta Pasal 54 ayat  (3) UU \n8/1999 yang menyatakan putusan majelis BPSK bersifat final dan mengikat. \nKeseluruhan norma pasal-pasal a quo selain secara struktural dan normatif \nmenyebabkan pengawasan terhadap peredaran barang berbahaya menjadi \ntidak efektif juga menyebabkan tidak tersedianya mekanisme penyelesaian \nsengketa yang memadai.",
+      "start_line": 1358,
+      "end_line": 1369
+    },
+    {
+      "heading": "d. Bahwa menurut Pemohon, kondisi tersebut menimbulkan kerugian h a k",
+      "slug": "d-bahwa-menurut-pemohon-kondisi-tersebut-menimbulkan-kerugian-h-a-k",
+      "text": "konstitusional bagi Pemohon karena tidak memperoleh kepastian h ukum \nyang adil, baik dalam hal perlindungan dari peredaran produk ya ng \nmengandung bahan berbahaya maupun dalam memperoleh akses \nterhadap penyelesaian sengketa yang efektif. Terlebih, penggunaan produk \nyang mengandung merkuri menimbulkan risiko nyata terhadap keseh atan \nPemohon, sehingga tetap beredarnya produk tersebut selain menimbulkan \nrasa tidak aman bagi Pemohon selaku konsumen, juga menunjukkan \nkegagalan negara dalam melindungi hak Pemohon atas lingkungan y ang \nsehat dan perlindungan kesehatan. Selain itu, apabila Pemohon \nmenyampaikan informasi perihal produk yang mengandung bahan \nberbahaya tersebut kepada masyarakat sebagai bentuk partisipasi  dalam \nperlindungan konsumen, Pemohon tidak memiliki jaminan perlindun gan \nhukum yang diatur dalam undang-undang. \n Berdasarkan uraian yang dikemukakan dalam menjelaskan kedudukan  \nhukum tersebut di atas, Pemohon telah dapat menguraikan kualifi kasinya sebagai \nperseorangan warga negara Indonesia yang memiliki anggapan keru gian hak \nkonstitusional akibat berlakunya norma yang dimohonkan pengujia n. Anggapan \nkerugian hak konstitusional tersebut bersifat spesifik dan aktu al karena berlakunya \nnorma Pasal 30 ayat (2), ayat (4), ayat (5), dan Pasal 54 ayat (3) UU 8/1999, yang \nmengatur ihwal mekanisme pengawasan terhadap penyelenggaraan pe rlindungan \n\n40 \nkonsumen yang dilakukan baik oleh menteri dan/atau menteri tekn is maupun oleh \nmasyarakat dan lembaga perlindungan konsumen, serta perihal sif a t  f i n a l  d a n  \nmengikatnya putusan majelis BPSK, yang menimbulkan ketidakpastian hukum serta \ntidak memberikan perlindungan hukum yang adil, dan efektif bagi konsumen dalam \nkaitannya dengan peredaran produk yang mengandung bahan berbaha ya di era \nperdagangan digital yang terus berkembang. Di samping itu, anggapan kerugian hak \nkonstitusional yang dijelaskan Pemohon memiliki hubungan sebab- akibat (causal \nverband) dengan norma yang dimohonkan pengujian. Oleh karena itu, apab ila \npermohonan a quo dikabulkan, anggapan kerugian hak konstitusional sebagaimana \ndimaksud oleh Pemohon tidak lagi terjadi. Dengan demikian, terl epas dari terbukti \natau tidaknya persoalan konstitusionalitas norma yang dimohonka n pengujian, \nMahkamah berpendapat Pemohon me miliki kedudukan hukum untuk ber tindak \nsebagai pemohon dalam mengajukan permohonan a quo. \n[3.6]  Menimbang bahwa oleh karena Mahkamah berwenang mengadili \npermohonan a quo  dan Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai pemohon dalam permohonan a quo , selanjutnya Mahkamah \nmempertimbangkan pokok permohonan. \nPokok Permohonan \n[3.7]  Menimbang bahwa Pemohon mendalilkan norma Pasal 30 ayat (2), ayat \n(4), ayat (5), dan Pasal 54 ayat (3) UU 8/1999 bertentangan dengan Pasal 28C ayat \n(2), Pasal 28D ayat (1), Pasal 28G ayat (1), dan Pasal 28H ayat (1) UUD NRI Tahun \n1945, dengan dalil-dalil (selengk apnya dimuat dalam bagian Dudu k Perkara) yang \napabila dipahami dan dirumuskan oleh Mahkamah pada pokoknya sebagai berikut:",
+      "start_line": 1371,
+      "end_line": 1415
+    },
+    {
+      "heading": "1. Bahwa menurut Pemohon, pemusatan dan pembatasan wewenang",
+      "slug": "1-bahwa-menurut-pemohon-pemusatan-dan-pembatasan-wewenang",
+      "text": "pengawasan hanya pada lingkup eksekutif dalam hal ini menteri d an/atau \nmenteri teknis sebagaimana diatur dalam Pasal 30 ayat (2) UU 8/ 1999 tanpa \nadanya perimbangan lembaga pengawas independen yang memiliki ot oritas \neksekusi yang kuat, serta tanpa kejelasan mengenai pembagian ke wenangan, \nbatas tangggung jawab, dan mekanisme koordinasi antar kementeri an yang \nberpotensi menimbulkan tumpang-tindih kewenangan serta tidak te rdapat \nakuntabilitas yang jelas dalam pelaksanaan pengawasan telah men ciptakan \nketidakpastian hukum sehingga bertentangan dengan Pasal 28D ayat (1) UUD \n\n41 \nNRI Tahun 1945. Pengabaian peran lembaga independen yang seharu snya \nmemiliki kekuatan quasi judicial  atau otoritas pengawasan mandiri yang mampu \nmemberikan tekanan hukum secara langsung kepada pelaku usaha merupakan \nbentuk pelanggaran prinsip pengawasan efektif. Di samping itu, pengaturan \ndalam norma Pasal 30 ayat (2) UU 8/1999 selain tidak mampu menj angkau \nkompleksitas perdagangan digital ( e-commerce) juga membuat pengawasan \nrentan terhadap hambatan birokrasi, konflik kepentingan, dan ke terbatasan \nsumber daya sektoral karena mengabaikan partisipasi publik yang  pada \nakhirnya menimbulkan ancaman kesehatan publik yang sistemik kar ena masih \nberedarnya kosmetik illegal yang mengandung bahan berbahaya, se hingga \nmeniadakan jaminan perlindungan bagi konsumen, serta hak atas k esehatan \nsebagaimana diatur dalam Pasal 28G ayat (1) dan Pasal 28H ayat (1) UUD NRI \nTahun 1945.",
+      "start_line": 1417,
+      "end_line": 1439
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, norma Pasal 30 ayat (4) UU 8/1999 ber sifat fakultatif",
+      "slug": "2-bahwa-menurut-pemohon-norma-pasal-30-ayat-4-uu-8-1999-ber-sifat-fakultatif",
+      "text": "karena tidak mewajibkan negara menindak pelanggaran yang membah ayakan \nkonsumen, sebab frasa \"mengambil tindakan\" dalam norma pasal a quo bersifat \nsangat umum karena tidak bersifat imperatif, spesifik, dan berbatas waktu, yang \njustru berpotensi membuka ruang bagi pejabat yang berwenang unt uk tidak \nmelakukan tindakan apapun dengan dalih pertimbangan subjektif y ang kerap \nkali berujung pada tidak adanya tindakan nyata dan efektif untuk menghentikan \npelanggaran di lapangan yang menyebabkan produk yang mengandung bahan \nberbahaya masih tetap beredar di masyarakat. Ketiadaan daya pak sa yang \ndiwajibkan dalam undang-undang pada norma a quo  bertentangan dengan \nprinsip jaminan kepastian hukum yang adil sebagaimana diatur da lam Pasal \n28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 1441,
+      "end_line": 1451
+    },
+    {
+      "heading": "3. Bahwa menurut Pemohon, norma Pasal 30 ayat (5) UU 8/1999 yan g",
+      "slug": "3-bahwa-menurut-pemohon-norma-pasal-30-ayat-5-uu-8-1999-yan-g",
+      "text": "memberikan hak bagi masyarakat untuk menyebarluaskan hasil peng awasan \ntanpa memberikan batasan definisi, prosedur, maupun perlindunga n imunitas \nbagi konsumen yang melakukan secara jujur, justru menyebabkan k onsumen \nrentan dan potensial dikriminalisasi sehingga bertentangan deng an Pasal 28D \nayat (1) UUD NRI Tahun 1945. Di samping itu, norma pasal a quo juga telah \nmelanggar hak konstitusional Pemohon untuk berpartisipasi dalam  kehidupan \nbermasyarakat dan memperjuangkan haknya secara kolektif sebagai mana \ndijamin dalam Pasal 28C ayat (2) UUD NRI Tahun 1945. Oleh karen a norma      \n\n42 \na quo tidak memberikan jaminan keamanan atau perlindungan bagi konsum en \nyang menyuarakan keluhan terhadap suatu produk untuk kepentinga n umum \nsebagai bentuk partisipasi publik baik melalui lembaga formal m aupun melalui \nulasan digital pada media sosial.",
+      "start_line": 1453,
+      "end_line": 1466
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon norma Pasal 54 ayat (3) UU 8/1999 yang mengatur",
+      "slug": "4-bahwa-menurut-pemohon-norma-pasal-54-ayat-3-uu-8-1999-yang-mengatur",
+      "text": "perihal sifat final dan mengikat putusan majelis BPSK merupakan  norma yang \nkontradiktif dengan norma Pasal 56 ayat (2) dan Pasal 58 ayat ( 2) UU 8/1999 \nyang justru membuka ruang keberatan di pengadilan negeri dan ka sasi di \nMahkamah Agung, menciptakan ketidakpastian hukum dan bertentang an \ndengan Pasal 28D ayat (1) UUD NRI Tahun 1945. Di samping itu, sifat final dan \nmengikatnya putusan BPSK yang tidak disertai dengan mekanisme sinkronisasi \nyang menjamin akses keadilan lintas yurisdiksi cenderung berpotensi menutup \npintu pemeriksaan ulang atas fakta hukum secara mendalam di tingkat lanjutan. \nOleh karenanya, norma a quo menjadi tidak relevan sepanjang tidak dimaknai \nsebagai putusan yang tetap dapat diuji secara substantif apabil a melanggar \nhak-hak dasar konsumen atau jika mekanisme peradilan tidak dapat dijalankan \nsecara efektif. \nBerdasarkan uraian dalil-dalil permohonan tersebut di atas, Pem ohon \ndalam petitum pada pokoknya memohon kepada Mahkamah untuk menyatakan:",
+      "start_line": 1468,
+      "end_line": 1481
+    },
+    {
+      "heading": "1. Pasal 30 ayat (2) UU 8/1999 bertentangan dengan UUD NRI Tahu n 1945 dan",
+      "slug": "1-pasal-30-ayat-2-uu-8-1999-bertentangan-dengan-uud-nri-tahu-n-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat secara bersyarat ( conditionally \nunconstitutional) sepanjang tidak dimaknai, “Pengawasan terhadap \npenyelenggaraan perlindungan konsumen tidak hanya dilaksanakan oleh \nMenteri dan/atau menteri teknis, tetapi juga wajib melibatkan l embaga yang \nmemiliki independensi fungsional, bebas dari intervensi dalam p elaksanaan \ntugas pengawasan, serta memiliki kewenangan yang efektif dalam melakukan \npengawasan, koordinasi, dan penindakan terhadap pelanggaran yan g \nmerugikan konsumen.”",
+      "start_line": 1483,
+      "end_line": 1490
+    },
+    {
+      "heading": "2. Pasal 30 ayat (4) UU 8/1999 bertentangan dengan UUD NRI Tahu n 1945 dan",
+      "slug": "2-pasal-30-ayat-4-uu-8-1999-bertentangan-dengan-uud-nri-tahu-n-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat secara bersyarat ( conditionally \nunconstitutional) sepanjang tidak dimaknai, “Menteri dan/atau menteri teknis \nwajib mengambil tindakan yang bersifat imperatif, spesifik, dan berbatas waktu \nterhadap setiap pelanggaran yang membahayakan konsumen, termasu k \npenarikan produk, penghentian peredaran, dan/atau sanksi tegas lainnya \n\n43 \nsesuai dengan ketentuan perundang-undangan.”",
+      "start_line": 1492,
+      "end_line": 1499
+    },
+    {
+      "heading": "3. Pasal 30 ayat (5) UU 8/1999 bertentangan dengan UUD NRI Tahu n 1945 dan",
+      "slug": "3-pasal-30-ayat-5-uu-8-1999-bertentangan-dengan-uud-nri-tahu-n-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat secara bersyarat ( conditionally \nunconstitutional) sepanjang tidak dimaknai, “Masyarakat yang \nmenyebarluaskan hasil pengawasan terhadap barang dan/atau jasa yang \nberedar di pasar dilindungi oleh hukum, sepanjang dilakukan dengan itikad baik \ndan berdasarkan fakta, serta tidak dapat dipidana maupun diguga t secara \nperdata atas dasar penyebarluasan informasi tersebut.”",
+      "start_line": 1501,
+      "end_line": 1506
+    },
+    {
+      "heading": "4. Pasal 54 ayat (3) UU 8/1999 bertentangan dengan UUD NRI Tahu n 1945 dan",
+      "slug": "4-pasal-54-ayat-3-uu-8-1999-bertentangan-dengan-uud-nri-tahu-n-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat secara bersyarat ( conditionally \nunconstitutional) sepanjang tidak dimaknai, “Putusan Badan Penyelesaian \nSengketa Konsumen bersifat final dan mengikat hanya dalam hal p roses \npemeriksaan telah menjamin prinsip peradilan yang adil, transparan, imparsial, \nserta tetap membuka kemungkinan upaya hukum dalam hal terdapat \npelangggaran terhadap prinsip tersebut.” \n[3.8]  Menimbang bahwa untuk membuktikan dalil permohonan, Pemohon t elah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai Bukti P-8 yang telah \ndisahkan dalam persidangan Mahkamah pada tanggal 5 Mei 2026 (se lengkapnya \ndimuat dalam bagian Duduk Perkara). \n[3.9] Menimbang bahwa oleh karena permohonan a quo telah jelas, Mahkamah \nberpendapat tidak terdapat urgensi dan relevansinya untuk mendengar keterangan \npihak-pihak sebagaimana disebutkan dalam Pasal 54 UU MK. \n[3.10]  Menimbang bahwa setelah memeriksa secara komprehensif permoho nan \nPemohon dan bukti-bukti yang diajukan, persoalan konstitusional itas norma yang \nharus dijawab oleh Mahkamah adalah sebagai berikut:",
+      "start_line": 1508,
+      "end_line": 1523
+    },
+    {
+      "heading": "1. Apakah tidak dilibatkannya lembaga yang memiliki independens i fungsional,",
+      "slug": "1-apakah-tidak-dilibatkannya-lembaga-yang-memiliki-independens-i-fungsional",
+      "text": "bebas dari intervensi dalam pelaksanaan tugas pengawasan serta memiliki \nkewenangan yang efektif dalam melakukan pengawasan, koordinasi,  dan \npenindakan atas pelanggaran yang merugikan konsumen dalam penga wasan \npenyelenggaraan perlindungan konsumen oleh pemerintah yang dila ksanakan \noleh menteri dan/atau menteri teknis dalam norma Pasal 30 ayat (2) UU 8/1999 \nbertentangan dengan UUD NRI Tahun 1945; \n\n44",
+      "start_line": 1525,
+      "end_line": 1532
+    },
+    {
+      "heading": "2. Apakah ketiadaan kewajiban pengambilan tindakan yang bersifa t imperatif,",
+      "slug": "2-apakah-ketiadaan-kewajiban-pengambilan-tindakan-yang-bersifa-t-imperatif",
+      "text": "spesifik, dan berbatas waktu terhadap setiap pelanggaran yang membahayakan \nkonsumen, termasuk penarikan produk, penghentian peredaran, dan/atau sanksi \ntegas lainnya sesuai dengan ketentuan perundang-undangan oleh m enteri \ndan/atau menteri teknis apabila hasil pengawasan sebagaimana dimaksud pada \nPasal 30 ayat (3) UU 8/1999 ternyata menyimpang dari peraturan perundang-\nundangan yang berlaku dan membahayakan konsumen dalam norma Pas al 30 \nayat (4) UU 8/1999 bertentangan dengan UUD NRI Tahun 1945;",
+      "start_line": 1534,
+      "end_line": 1540
+    },
+    {
+      "heading": "3. Apakah hasil pengawasan yang diselenggarakan masyarakat dan lembaga",
+      "slug": "3-apakah-hasil-pengawasan-yang-diselenggarakan-masyarakat-dan-lembaga",
+      "text": "perlindungan konsumen swadaya masyarakat yang dapat disebarluas kan \nkepada masyarakat dan dapat disampaikan kepada menteri dan ment eri teknis \ndalam norma Pasal 30 ayat (5) UU 8/1999 bertentangan dengan UUD NRI Tahun \n1945 apabila tidak dimaknai masyarakat yang menyebarluaskan has il \npengawasan terhadap barang dan/atau jasa yang beredar di pasar dilindungi \noleh hukum, sepanjang dilakukan dengan itikad baik dan berdasar kan fakta, \nserta tidak dapat dipidana maupun digugat secara perdata atas d asar \npenyebarluasan informasi tersebut;",
+      "start_line": 1542,
+      "end_line": 1549
+    },
+    {
+      "heading": "4. Apakah putusan majelis yang bersifat final dan mengikat dalam Pasal 54 ayat (3)",
+      "slug": "4-apakah-putusan-majelis-yang-bersifat-final-dan-mengikat-dalam-pasal-54-ayat-3",
+      "text": "UU 8/1999 bertentangan dengan UUD NRI Tahun 1945 apabila tidak dimaknai \nPutusan Badan Penyelesaian Sengketa Konsumen bersifat final dan  mengikat \nhanya dalam hal proses pemeriksaan telah menjamin prinsip peradilan yang adil, \ntransparan, imparsial, serta tetap membuka kemungkinan upaya hu kum dalam \nhal terdapat pelangggaran terhadap prinsip tersebut. \n[3.11] Menimbang bahwa dalam permohonannya, Pemohon mempersoalkan \nkonstitusionalitas norma Pasal 30 ayat (2), ayat (4), ayat (5),  dan Pasal 54 ayat (3) \nUU 8/1999 yang menurut Pemohon bertentangan dengan UUD NRI Tahun 1945 dan \ntidak mempunyai kekuatan hukum mengikat secara bersyarat sehing ga harus \ndiberikan pemaknaan sebagaimana terdapat dalam petitum Pemohon.  Terhadap \ndalil Pemohon tersebut, Mahkamah mempertimbangkan masing-masing  sebagai \nberikut. \n[3.11.1]  Bahwa Pemohon mempersoalkan norma Pasal 30 ayat (2) UU 8/1999  \nyang dianggap tidak memberikan jaminan kepastian hukum yang adi l dan jaminan \nperlindungan diri pribadi sebagai konsumen, serta hak atas pela yanan kesehatan \n\n45 \nsebagaimana diatur dalam Pasal 28D ayat (1), Pasal 28G ayat (1) , dan Pasal 28H \nayat (1) UUD NRI Tahun 1945. Berkenaan dengan dalil Pemohon tersebut, menurut \nMahkamah norma yang dimohonkan pengujian tidak dapat dipahami secara parsial, \nmelainkan perlu dipahami secara utuh dan komprehensif, termasuk  keterkaitannya \ndengan norma lain baik dalam UU 8/1999 maupun dalam peraturan p elaksana. \nSecara sistematis Pasal 30 ayat (2) UU 8/1999 merupakan satu ke satuan norma \npada Bagian Kedua UU 8/1999 yang mengatur tentang Pengawasan ya ng terdiri \natas norma Pasal 30 ayat (1) sampai dengan ayat (6) UU 8/1999 p ada BAB VII \ntentang Pembinaan dan Pengawasan sebagai berikut: \n(1) Pengawasan terhadap penyelenggaraan perlindungan konsumen \nserta penerapan ketentuan peraturan perundang-undangannya \ndiselenggarakan oleh pemerintah, masyarakat, dan lembaga \nperlindungan konsumen swadaya masyarakat. \n(2) Pengawasan oleh pemerintah sebagaimana dimaksud pada ayat ( 1) \ndilaksanakan oleh Menteri dan/atau menteri teknis terkait. \n(3) Pengawasan oleh masyarakat dan lembaga perlindungan konsume n \nswadaya masyarakat dilakukan terhadap barang dan/atau jasa yang \nberedar di pasar. \n(4) Apabila hasil pengawasan sebagaimana dimaksud pada ayat (3)  \nternyata menyimpang dari peraturan perundang-undangan yang \nberlaku dan membahayakan konsumen, Menteri dan/atau menteri \nteknis mengambil tindakan sesuai dengan peraturan perundang-\nundangan yang berlaku. \n(5) Hasil pengawasan yang diselenggarakan masyarakat dan lembag a \nperlindungan konsumen swadaya masyarakat dapat disebarluaskan \nkepada masyarakat dan dapat disampaikan kepada Menteri dan \nmenteri teknis. \n(6) Ketentuan pelaksanaan tugas pengawasan sebagaimana dimaksud  \npada ayat (1), ayat (2), dan ayat (3) ditetapkan dengan Peratur an \nPemerintah. \nBerdasarkan rangkaian norma Pasal 30 ayat (1) sampai ayat (6) a quo, \nUU 8/1999 telah mengatur bahwa pengawasan penyelenggaraan perli ndungan \nkonsumen serta ketentuan peraturan perundang-undangan diselengg arakan oleh \npemerintah, masyarakat, dan LPKSM. Adapun dalam norma Pasal 30 ayat (2) UU \n8/1999  ditegaskan bahwa pengawasan oleh pemerintah dilaksanakan oleh menteri \ndan/atau menteri teknis terkait. Pengaturan yang menitikberatka n tanggung jawab \npengawasan penyelenggaraan perlindungan konsumen kepada pemerintah, in casu \nmenteri dan/atau menteri teknis tersebut menurut Mahkamah merup akan bentuk \npengejawantahan peran negara yang memiliki kewajiban konstitusional memberikan \nkepastian hukum, dan melindungi masyarakat sebagai konsumen, se rta menjamin \npemenuhan hak setiap orang untuk memperoleh jaminan keamanan dan kesehatan \n\n46 \natas produk yang beredar di masyarakat, termasuk menjamin kesei mbangan hak \ndan kewajiban baik bagi konsumen maupun pelaku usaha. Hal-hal teknis baik terkait \npembinaan maupun pengawasan penyelenggaraan perlindungan konsum en yang \ndilakukan oleh menteri dan/atau menteri teknis tersebut juga telah diatur lebih lanjut, \nmisalnya dalam Peraturan Pemerintah Republik Indonesia Nomor 58  Tahun 2001 \ntentang Pembinaan dan Pengawasan Penyelenggaraan Perlindungan K onsumen \n(PP 58/2001), tanpa bermaksud menilai legalitas PP 58/2001 dima ksud, dalam hal \nini, termasuk mengatur perihal kaitan dengan pembagian kewenang an, tanggung \njawab, dan mekanisme koordinasi pelaksanaan perlindungan konsumen. \nBerkenaan dengan pengaturan tersebut, meski pemerintah memegang  \nperan koordinasi melalui menteri dan/atau menteri teknis dalam penyelenggaraan \nperlindungan konsumen, namun dalam penyelenggaraan perlindungan  konsumen \npemerintah juga memberi kesempatan dan membuka ruang kerjasama lintas pihak \ndengan melibatkan peran aktif masyarakat dan LPKSM sebagaimana diatur dalam \nPasal 30 ayat (3) UU 8/1999 dan Pasal 7 PP 58/2001. Keterlibatan masyarakat dan \nLPKSM tersebut memperkuat prins ip perlindungan konsumen bersifa t partisipatif,  \ndan bukan semata-mata terpusat pada eksekutif,  in casu menteri dan/atau menteri \nteknis sebagaimana didalilkan Pemohon. Pengawasan penyelenggara an \nperlindungan konsumen yang tidak hanya dilakukan oleh pemerinta h, melainkan \njuga melibatkan masyarakat dan LPKSM tersebut dipahami sebagai bagian dari \nupaya untuk meningkatkan kesadaran pengetahuan, kepedulian, kem ampuan,  \ndan kemandirian konsumen untuk melindungi dirinya sendiri serta  \nmenumbuhkembangkan sikap pelaku usaha yang bertanggung jawab, \nsebagaimana menjadi tujuan dibentuknya UU 8/1999 [vide Konsiderans Menimbang \nhuruf d UU 8/1999]. Artinya, setelah dibaca dan dipahami secara  komprehensif, \nterdapat 3 (tiga) unsur dalam pengawasan penyelenggaraan perlin dungan \nkonsumen, yaitu (i) pemerintah; (ii) masyarakat; dan (iii) LPKSM. Di mana ketiganya \nberkedudukan setara dan saling melengkapi dalam melaksanakan pe ngawasan \nterhadap penyelenggaraan perlindungan konsumen serta penerapan ketentuan \nperaturan perundang-undangan [vide Putusan Mahkamah Konstitisi Nomor \n235/PUU-XXIII/2025, hlm.141-142]. \nTerkait dengan hal di atas, berkenaan dengan mekanisme pengawas an \noleh pemerintah, masyarakat dan  LPKSM masing-masing dilakukan b erdasarkan \nruang lingkup dan aspek pengawasan sebagaimana diatur dalam UU 8/1999, PP \n\n47 \n58/2001, dan tanpa bermaksud menilai legalitasnya, ketentuan te rsebut juga diatur \ndalam Peraturan Pemerintah Republik Indonesia Nomor 59 Tahun 20 01 tentang \nLembaga Perlindungan Konsumen Swadaya Masyarakat (PP 59/2001). Dalam hal \nini, pengawasan oleh pemerintah dilakukan terhadap pelaku usaha  d a l a m  \nmemenuhi standar mutu produksi barang dan/atau jasa, pencantuma n label dan \nklausula baku, serta pelayanan purna jual barang dan/atau jasa [vide Pasal 8 ayat \n(1) PP 58/2001]. Sementara pengawasan oleh masyarakat dan LPKSM  dilakukan \nterhadap barang dan/atau jasa yang beredar di masyarakat dengan cara penelitian, \npengujian dan/atau survei, yang meliputi pemuatan informasi ten tang risiko \npenggunaan barang (jika diharuskan), pemasangan label, pengiklanan, dan lain-lain \nyang disyaratkan berdasarkan peraturan perundang-undangan dan p raktik dunia \nusaha, termasuk terhadap barang dan/atau jasa yang diduga tidak memenuhi unsur \nkeamanan, kesehatan, kenyamanan dan keselamatan konsumen [vide Pasal 30 \nayat (3) UU 8/1999 dan Penjelasannya, Pasal 9 ayat (1) dan Pasa l 10 ayat (1) PP \n58/2001, serta Pasal 8 PP 59/2001 dan Penjelasannya]. \nDalam kaitan dengan permohonan Pemohon yang menghendaki norma \nPasal 30 ayat (2) UU 8/1999 dimaknai, “Pengawasan terhadap peny elenggaraan \nperlindungan konsumen tidak hanya dilaksanakan oleh Menteri dan /atau menteri \nteknis, tetapi juga wajib melibatkan lembaga yang memiliki independensi fungsional, \nbebas dari intervensi dalam pelaksanaan tugas pengawasan, serta  memiliki \nkewenangan yang efektif dalam melakukan pengawasan, koordinasi,  d a n  \npenindakan terhadap pelanggaran yang merugikan konsumen”, menurut Mahkamah \npemaknaan demikian secara esensi telah terakomodir dengan terbu kanya ruang \npartisipasi bagi masyarakat yang concern termasuk LPKSM sebagai lembaga non-\npemerintah yang terdaftar dan diakui pemerintah untuk berperan aktif dalam \npenyelenggaraan perlindungan konsumen khususnya dalam mekanisme  \npengawasan yang secara faktual telah diatur pula dalam pelbagai  peraturan \nperundang-undangan. Dengan demikian, dalil yang pada pokoknya m enyatakan \nbahwa ketiadaan keterlibatan lembaga yang memiliki independensi  fungsional, \nbebas dari intervensi dalam pelaksanaan tugas pengawasan, serta  memiliki \nkewenangan yang efektif dalam melakukan pengawasan, koordinasi,  d a n  \npenindakan terhadap pelanggaran yang merugikan konsumen dalam n orma Pasal \n30 ayat (2) UU 8/1999 menurut Mahkamah tidak serta-merta membuat norma pasal \na quo bertentangan dengan prinsip jaminan kepastian hukum yang adil, jaminan \n\n48 \nperlindungan diri pribadi, serta hak atas pelayanan kesehatan s ebagaimana diatur \ndalam Pasal 28D ayat (1), Pasal 28G ayat (1), dan Pasal 28H aya t (1) UUD NRI \nTahun 1945.  \nBerdasarkan pertimbangan hukum tersebut di atas, menurut Mahkam ah \ndalil Pemohon yang mempersoalkan konstitusionalitas norma Pasal 30 ayat (2) UU \n8/1999 a quo  adalah dalil yang tidak berdasar sehingga harus dinyatakan tid ak \nberalasan menurut hukum. \n[3.11.2]  Bahwa selanjutnya berkenaan dengan dalil Pemohon mengenai fra sa \n\"mengambil tindakan\" dalam norma Pasal 30 ayat (4) UU 8/1999 ya ng seharusnya \ndimaknai sebagai kewajiban pengambilan tindakan yang bersifat imperatif, spesifik, \ndan berbatas waktu, serta memiliki daya paksa terhadap setiap p elanggaran yang \nmembahayakan konsumen, termasuk penarikan produk, penghentian p eredaran, \ndan/atau sanksi tegas lainnya sesuai dengan ketentuan perundang-undangan, oleh \nmenteri dan/atau menteri teknis agar tidak bertentangan dengan Pasal 28D ayat (1) \nUUD NRI Tahun 1945. Berkenaan dengan dalil tersebut, perlu dipa hami secara \nkomprehensif, ketentuan mengenai tindakan yang diambil menteri dan/atau menteri \nteknis dalam norma Pasal 30 ayat (4) UU 8/1999 memiliki keterka itan dengan \ndengan fungsi pengawasan terhadap penyelenggaraan perlindungan konsumen. \nAdapun yang dimaksud dengan “menteri” dalam pasal a quo adalah menteri yang \nruang lingkup tugas dan tanggung jawabnya meliputi bidang perda gangan [vide \nPasal 1 angka 13 UU 8/1999]. Sementara yang dimaksud dengan men teri teknis \nadalah menteri yang bertanggung jawab secara teknis menurut bid ang tugasnya \n[vide Penjelasan Pasal 30 ayat (2) UU 8/1999]. Hal demikian dap at dipahami \nsebagai menteri yang membidangi sektor spesifik terkait produk/ jasa tertentu. \nSehingga, tindakan yang dapat diambil antara lain yang merujuk pada tindakan \npenegakan hukum administratif, korektif, ataupun langkah hukum lain sesuai \ndengan wewenang sektor masing-masing, bahkan termasuk pidana ol eh instansi \nyang berwenang, yang justru memiliki cakupan yang lebih luas da ri yang \ndimohonkan Pemohon yang hanya berupa penarikan produk, penghent ian \nperedaran produk, dan atau sanksi tegas lainnya. Oleh karena it u, dalam batas \npenalaran yang wajar, pemaknaan Pemohon justru mempersempit rua ng lingkup \ntindakan yang dilakukan menteri dan/atau menteri teknis atas ha sil pengawasan \noleh masyarakat dan LPKSM terhadap barang dan/atau jasa yang beredar di pasar \n\n49 \nyang ternyata menyimpang dari peraturan perundang-undangan yang  berlaku dan \nmembahayakan konsumen. \nOleh karenanya, menurut Mahkamah norma Pasal 30 ayat (4) UU 8/1999  \na quo pada dasarnya ditujukan sebagai dasar hukum bagi pemerintah unt uk tidak \nbersifat pasif dalam melaksanakan pengawasan penyelenggaraan pe rlindungan \nkonsumen, melainkan bersifat responsif untuk menindak pelaku usaha yang terbukti \nmelanggar hak-hak konsumen sebagaimana telah diatur peraturan p erundang-\nundangan. Terlebih, dalam UU 8/1999 terdapat pula pengaturan pe rihal perbuatan \nyang dilarang bagi pelaku usaha [vide Pasal 8 sampai Pasal 18 UU 8/1999], berikut \nsanksi atas setiap pelanggaran larangan dimaksud, antara lain s eperti pelarangan \nmemperdagangkan barang dan/atau jasa serta wajib menariknya dar i peredaran, \npelarangan melanjutkan penawaran, promosi, dan pengiklanan bara ng dan/atau \njasa, pelarangan melanjutkan peredaran iklan, pemberian ganti r ugi, pengenaan \nsanksi administratif, hingga sanksi pidana. Pengaturan demikian  pada dasarnya \njuga merupakan pengaturan yang bersifat imperatif yang pemenuha nnya bersifat \nmengikat serta tidak dapat disimpangi oleh para pihak. Terlebih  dalam UU 8/1999, \nnorma yang bersifat imperatif demikian tidak hanya ditujukan ba gi pelaku usaha, \nmelainkan juga bagi konsumen dan pemerintah.  \nDalam hal ini, kekhawatiran Pemohon perihal potensi bagi pejaba t yang \nberwenang untuk tidak melakukan tindakan apapun dengan dalih pe rtimbangan \nsubjektif yang dapat berujung pada tidak adanya tindakan nyata dan efektif untuk \nmenghentikan pelanggaran yang menyebabkan produk yang mengandun g bahan \nberbahaya masih tetap beredar di masyarakat akibat tidak adanya  kewajiban bagi \nmenteri dan/atau menteri teknis untuk melakukan tindakan yang b ersifat imperatif, \nmenurut Mahkamah, hal tersebut berkaitan dengan implementasi no rma, bukan \npersoalan konstitusionalitas norma. Kekhawatiran demikian tidak  dapat dijadikan \ndasar untuk menilai adanya pertentangan antara norma Pasal 30 ayat (4) UU 8/1999 \ndengan UUD NRI Tahun 1945, khususnya terhadap Pasal 28D ayat (1 ) UUD NRI \nTahun 1945.  \nBerdasarkan pertimbangan hukum tersebut di atas, menurut Mahkam ah \ndalil Pemohon yang mempersoalkan konstitusionalitas norma Pasal 30 ayat (4) UU \n8/1999 adalah dalil yang tidak berdasar, sehingga harus dinyatakan tidak beralasan \nmenurut hukum. \n\n50 \n[3.11.3]  Bahwa selanjutnya, Pemohon mendalilkan norma Pasal 30 ayat (5 ) UU \n8/1999 bertentangan dengan Pasal 28C ayat (1) dan Pasal 28D aya t (1) UUD NRI \nTahun 1945. Berkenaan dengan dalil tersebut, dalam memahami nor ma Pasal 30 \nayat (5) UU 8/1999 yang mengatur ihwal hasil pengawasan yang di selenggarakan \nmasyarakat dan LPKSM dapat disebarluaskan kepada masyarakat dan  dapat pula \ndisampaikan kepada menteri dan menteri teknis, harus dikaitkan dengan rangkaian \nnorma lain yang mengatur pengawasan dalam Pasal 30 UU 8/1999. S ebab, norma \nPasal 30 ayat (1) dan ayat (2) UU 8/1999 secara garis besar mengatur perihal subjek \npengawasan penyelenggaraan perlindungan konsumen, yakni pemerin tah in casu \nmenteri dan/atau menteri teknis, masyarakat, dan LPKSM. Lebih lanjut, norma Pasal \n30 ayat (3) UU 8/1999 mengatur objek pengawasan penyelenggaraan perlindungan \nkonsumen yang dilakukan oleh masyarakat dan LPKSM, yakni barang dan/atau jasa \nyang beredar di pasar. Sementara itu, norma Pasal 30 ayat (4) UU 8/1999 mengatur \nperihal bentuk tindak lanjut pengawasan penyelenggaraan perlindungan konsumen \nyang dilakukan pemerintah, in casu menteri dan/atau menteri teknis, yakni dengan \nmengambil tindakan sesuai dengan peraturan perundang-undangan y ang berlaku. \nSedangkan norma Pasal 30 ayat (5) UU 8/1999 mengatur secara spe sifik tindak \nlanjut atau wewenang yang dim iliki masyarakat dan LPKSM dalam p engawasan \nterhadap penyelenggaraan perlindungan konsumen sesuai amanat norma Pasal 30 \nayat (1) dan ayat (3) UU 8/1999, yakni mengeksekusi peran penga wasan tersebut \nmelalui mekanisme penyebarluasan hasil pengawasan terhadap bara ng dan/atau \njasa yang beredar di pasar kepada masyarakat dan dapat disampai kan kepada \nmenteri dan menteri teknis. Sehingga, secara sistematis, keseluruhan norma pasal-\npasal tersebut memiliki keterkaitan satu sama lain. \nOleh karenanya, menurut Mahkamah, norma Pasal 30 ayat (5) UU 8/1999 \nmerupakan pengaturan yang memiliki makna penting dalam kerangka pengawasan \npenyelenggaraan perlindungan konsumen. Sebab, secara substansial, fokus norma \nPasal 30 ayat (5) UU 8/1999  lebih pada fungsi edukasi dan transparansi bagi \nmasyarakat melalui mekanisme penyebarluasan hasil pengawasan, s erta fungsi \nrekomendasi/pelaporan dengan cara penyampaian hasil pengawasan kepada \npemerintah. Artinya, norma Pasal 30 ayat (5) UU 8/1999 juga dap at diartikan \nsebagai jembatan hasil pengawasan partisipatif masyarakat dan L PKSM ke dalam \nsistem pembuatan kebijakan atau tindakan pemerintah, mengingat penyebarluasan \nhasil pengawasan kepada masyarakat dapat mendorong pelaku usaha  untuk tertib \n\n51 \ndalam menjalankan usahanya, sementara penyampaian kepada pemeri ntah, in \ncasu menteri dan/atau menteri teknis dapat menjadi masukan bagi peme rintah \nmelakukan pengawasan lanjutan, pemeriksaan resmi, hingga penjat uhan sanksi \nadministratif atau hukum bagi pelaku usaha yang melakukan pelan ggaran. Oleh \nsebab itu, norma pasal a quo justru memberikan penekanan atas hak transparansi \ndan informasi publik, khususnya hasil pengawasan terhadap suatu  barang/jasa, \nsehingga dapat dinilai memberikan jaminan kepastian hukum dan j aminan untuk \nmemperjuangkan hak secara kolektif dalam pengawasan penyelengga raan \nperlindungan konsumen yang disalurkan atas hasil pengawasan mas yarakat dan \nLPKSM, serta penyampaian laporan kepada pemerintah.  \nBerkenaan dengan dalil Pemohon yang menyatakan ketiadaan batasa n \ndefinisi, prosedur, maupun perlindungan imunitas bagi konsumen yang melakukan \npenyebarluasan hasil pengawasan secara jujur menyebabkan konsum en berada \ndalam posisi rentan karena berpotensi terancam tindakan krimina lisasi, menurut \nMahkamah, penyebarluasan hasil pengawasan, sepanjang dilakukan secara objektif \ndan berbasis data, tidak mengandung asumsi dan fitnah, serta be rdasarkan hasil \npengawasan dan demi kepentingan umum, tidak dapat dianggap seba gai bentuk \npencemaran nama baik yang berujung pada tindakan kriminalisasi.  Sebab, norma \nPasal 30 ayat (5) UU 8/1999 yang menjadi dasar legalitas publik asi dan pelaporan \nhasil pengawasan terhadap barang dan/atau jasa yang dilakukan o leh masyarakat \ndan LPKSM, justru berfungsi untuk melindungi langkah partisipatif masyarakat agar \npengawasan masyarakat sebagai instrumen kontrol sosial berjalan  e f e k t i f ,  s e r t a  \nmendorong terciptanya kesadaran kolektif (public awareness) agar konsumen lebih \nwaspada dan cermat sebelum membeli atau menggunakan suatu baran g dan/atau \njasa. Di sisi lain, penyebarluasan hasil pengawasan terhadap barang dan/atau jasa \noleh masyarakat dan LPKSM, sekaligus dapat dinilai sebagai daya tawar (bargaining \npower) konsumen agar pelaku usaha lebih bertanggung jawab dan tidak sewenang-\nwenang dalam memproduksi dan mengedarkan barang dan/atau jasa.  \nBerdasarkan uraian pertimbangan hukum di atas, norma Pasal 30 a yat \n(5) UU 8/1999 adalah bentuk jaminan perlindungan hukum bagi mas yarakat yang \nmenyebarluaskan hasil pengawasan terhadap barang dan/atau jasa yang beredar",
+      "start_line": 1551,
+      "end_line": 1819
+    },
+    {
+      "heading": "di pasar, sepanjang dilakukan dengan itikad baik dan berdasarkan fakta, serta tidak",
+      "slug": "di-pasar-sepanjang-dilakukan-dengan-itikad-baik-dan-berdasarkan-fakta-serta-tidak",
+      "text": "dapat dipidana maupun digugat secara perdata. Dengan demikian, dalil Pemohon \n\n52 \nyang mempersoalkan konstitusionalitas norma Pasal 30 ayat (5) UU 8/1999 adalah \ndalil yang tidak berdasar dan harus dinyatakan tidak beralasan menurut hukum. \n[3.11.4]  Bahwa Pemohon juga mendalilkan norma Pasal 54 ayat (3) UU 8/1 999 \nbertentangan dengan UUD NRI Tahun 1945 apabila tidak dimaknai Putusan Badan \nPenyelesaian Sengketa Konsumen (BPSK) bersifat final dan mengikat hanya dalam \nhal proses pemeriksaan telah menjamin prinsip peradilan yang ad il, transparan, \nimparsial, serta tetap membuka kemungkinan adanya upaya hukum j ika terdapat \npelangggaran terhadap prinsip tersebut. Dalam hal ini, menurut Pemohon, norma \npasal a quo yang mengatur sifat final dan mengikatnya putusan BPSK kontradi ktif \ndengan norma Pasal 56 ayat (2) dan Pasal 58 ayat (2) UU 8/1999 yang justru \nmembuka ruang keberatan pada pengadilan negeri dan kasasi di Mahkamah Agung. \nKontradiksi tersebut, tambah Pemohon, menciptakan ketidakpastian hukum.  \n Berkenaan dengan dalil Pemohon a quo, secara substansial norma Pasal \n54 ayat (3) UU 8/1999 dapat dikatakan sebagai kelanjutan tugas dan kewenangan \nBPSK sebagaimana termaktub dalam norma Pasal 52 UU 8/1999, teru tama tugas \ndan kewenangan yang diatur dalam norma Pasal 52 huruf a UU 8/1999, in casu hal \nihwal melaksanakan penanganan dan penyelesaian sengketa konsume n dengan \ncara “arbitrase”. Oleh karena dalam permohonan a quo, Pemohon sama sekali tidak \nmengaitkan persoalan konstitusionalitas norma Pasal 54 ayat (3) UU 8/1999 dengan \nnorma Pasal 52 huruf a UU 8/1999 dimaksud, Mahkamah menjadi kes ulitan untuk \nmenilai masalah konstitusionalitas norma Pasal 54 ayat (3) UU 8 /1999, khususnya \nberkaitan dengan keberatan yang diajukan kepada pengadilan nege ri dan kasasi \npada Mahkamah Agung, termasuk dalam hal putusan BPSK yang menyangkut atau \nberkaitan dengan sengketa arbitrase. Dalam hal ini, sebagai nor ma yang \nberkelindan, konstitusionalitas norma Pasal 54 ayat (3) UU 8/19 99 hanya dapat \ndinilai secara utuh apabila Pemohon juga mempersoalkannya dikai tkan dengan \nnorma Pasal 52 huruf a UU 8/1999. Oleh karena dalil Pemohon tid ak sekaligus \nmempersoalkan konstitusionalitas norma Pasal 52 huruf a UU 8/1999 tidak terdapat \nkeraguan bagi Mahkamah untuk menyatakan bahwa dalil Pemohon sep anjang \nberkenaan dengan norma Pasal 54 ayat (3) UU 8/1999 adalah tidak jelas atau kabur \n(obscuur).  \n[3.12] Menimbang bahwa berdasarkan uraian pertimbangan hukum tersebut di \natas, menurut Mahkamah norma Pasal 30 ayat (2), ayat (4), dan ayat (5) UU 8/1999 \n\n53 \ntelah ternyata tidak bertentangan dengan hak atas jaminan untuk memperjuangkan \nhak secara kolektif, jaminan perlindungan dan kepastian hukum yang adil, hak atas \nperlindungan diri pribadi, dan hak untuk memperoleh layanan kes ehatan seperti \ndijamin dalam Pasal 28C ayat (2), Pasal 28D ayat (1), Pasal 28G ayat (1) dan Pasal \n28H ayat (1) UUD NRI Tahun 1945, bukan sebagaimana yang didalil kan oleh \nPemohon. Oleh karena itu, dalil Pemohon sepanjang berkenaan den gan norma \nPasal 30 ayat (2), ayat (4), dan ayat (5) UU 8/1999 adalah tidak beralasan menurut \nhukum. Sementara itu, dalil Pemohon sepanjang norma Pasal 54 ayat (3) UU 8/1999 \nadalah tidak jelas atau kabur (obscuur). \n[3.13]  Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1821,
+      "end_line": 1869
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 1871,
+      "end_line": 1871
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan.",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon memiliki kedudukan hukum untuk mengajukan permohonan a quo; \n[4.3] Permohonan Pemohon sepanjang berkenaan dengan norma Pasal 30 a yat \n(2), ayat (4), dan ayat (5) UU 8/1999 adalah tidak beralasan me nurut \nhukum. \n[4.4] Permohonan Pemohon sepanjang berkenaan dengan norma Pasal 54 a yat \n(3) UU 8/1999 adalah tidak jelas atau kabur (obscuur). \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076); \n\n54",
+      "start_line": 1873,
+      "end_line": 1890
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili:",
+      "start_line": 1892,
+      "end_line": 1892
+    },
+    {
+      "heading": "1. Menyatakan permohonan Pemohon berkenaan dengan pengujian nor ma Pasal",
+      "slug": "1-menyatakan-permohonan-pemohon-berkenaan-dengan-pengujian-nor-ma-pasal",
+      "text": "54 ayat (3) Undang-Undang Nomor 8 Tahun 1999 tentang Perlindung an \nKonsumen (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 2 2 dan \nTambahan Lembaran Negara Republik Indonesia Nomor 3821) tidak d apat \nditerima;",
+      "start_line": 1894,
+      "end_line": 1897
+    },
+    {
+      "heading": "2. Menolak permohonan Pemohon untuk selain dan selebihnya.",
+      "slug": "2-menolak-permohonan-pemohon-untuk-selain-dan-selebihnya",
+      "text": "Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nDaniel Yusmic P . Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, \npada hari Kamis, tanggal delapan, bulan Oktober, tahun dua ribu dua puluh \nenam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi ter buka untuk \numum pada hari Kamis, tanggal lima belas , bulan Oktober, tahun dua ribu dua \npuluh enam, selesai diucapkan pukul  15.17 WIB, oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Dan iel Yusmic P. \nFoekh,  M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu \noleh Yunita Nurwulantari sebagai Panitera Pengganti, serta dihadiri oleh Pemohon, \nDewan Perwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd.  \nSaldi Isra  \nttd. \nDaniel Yusmic P. Foekh  \n\n55 \nttd. \nM. Guntur Hamzah \nttd. \nEnny Nurbaningsih \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nYunita Nurwulantari",
+      "start_line": 1899,
+      "end_line": 1938
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Bernita Matondang",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 28C ayat (2)",
+      "Pasal 24",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 28G ayat (1)",
+      "Pasal 30 ayat (5)",
+      "Pasal 28D",
+      "Pasal 28C ayat (1)",
+      "Pasal 30",
+      "Pasal 24C",
+      "Pasal 28H ayat (1)",
+      "Pasal 30 ayat (2)",
+      "Pasal 30 ayat (4)",
+      "Pasal 54 ayat (3)"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)",
+      "Pasal 4 ayat (2)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-8",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "REFERENSI:132/PUU-XXIV/2026",
+      "REFERENSI:130/PUU/PAN.MK/AP3/04/2026",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:8/1999merupakansatukesatuannormapadaBagianKeduaUU8/1999",
+      "REFERENSI:8/1999danPasal7PP58/2001",
+      "REFERENSI:235/PUU-XXIII/2025",
+      "REFERENSI:8/1999dapatdikatakansebagaikelanjutantugasdankewenanganBPSKsebagaimanatermaktubdalamnormaPasal52UU8/1999",
+      "REFERENSI:8/1999dengannormaPasal52hurufaUU8/1999",
+      "REFERENSI:8/1999hanyadapatdinilaisecarautuhapabilaPemohonjugamempersoalkannyadikaitkandengannormaPasal52hurufaUU8/1999.OlehkarenadalilPemohontidaksekaligusmempersoalkankonstitusionalitasnormaPasal52hurufaUU8/1999"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon berkenaan dengan pengujian nor ma Pasal 54 ayat (3) Undang-Undang Nomor 8 Tahun 1999 tentang Perlindung an Konsumen (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 2 2 dan Tambahan Lembaran Negara Republik Indonesia Nomor 3821) tidak d apat diterima;",
+      "Menolak permohonan Pemohon untuk selain dan selebihnya."
+    ],
+    "summary": "Menyatakan sebagian permohonan tidak dapat diterima; menolak permohonan untuk selain dan selebihnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Yunita Nurwulantari"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "132/PUU-XXIV/2026",
+      "130/PUU/PAN.MK/AP3/04/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "8/1999merupakansatukesatuannormapadaBagianKeduaUU8/1999",
+      "8/1999danPasal7PP58/2001",
+      "235/PUU-XXIII/2025",
+      "8/1999dapatdikatakansebagaikelanjutantugasdankewenanganBPSKsebagaimanatermaktubdalamnormaPasal52UU8/1999",
+      "8/1999dengannormaPasal52hurufaUU8/1999",
+      "8/1999hanyadapatdinilaisecarautuhapabilaPemohonjugamempersoalkannyadikaitkandengannormaPasal52hurufaUU8/1999.OlehkarenadalilPemohontidaksekaligusmempersoalkankonstitusionalitasnormaPasal52hurufaUU8/1999"
+    ],
+    "referenced_cases": [
+      "132/PUU-XXIV/2026",
+      "130/PUU/PAN.MK/AP3/04/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "8/1999merupakansatukesatuannormapadaBagianKeduaUU8/1999",
+      "8/1999danPasal7PP58/2001",
+      "235/PUU-XXIII/2025",
+      "8/1999dapatdikatakansebagaikelanjutantugasdankewenanganBPSKsebagaimanatermaktubdalamnormaPasal52UU8/1999",
+      "8/1999dengannormaPasal52hurufaUU8/1999",
+      "8/1999hanyadapatdinilaisecarautuhapabilaPemohonjugamempersoalkannyadikaitkandengannormaPasal52hurufaUU8/1999.OlehkarenadalilPemohontidaksekaligusmempersoalkankonstitusionalitasnormaPasal52hurufaUU8/1999"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

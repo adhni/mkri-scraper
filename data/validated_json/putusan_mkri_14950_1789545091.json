@@ -1,0 +1,813 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14950_1789545091.pdf",
+    "file_name": "putusan_mkri_14950_1789545091.pdf",
+    "page_count": 41,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14950_1789545091.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "305/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-16",
+    "decision_date_raw": "enam belas, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 305/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,  \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 25 Tahun 2009 tentang Pelayanan Publik terhadap Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 6,
+      "end_line": 10
+    },
+    {
+      "heading": "1. Nama : Indah Pitasari Handayani",
+      "slug": "1-nama-indah-pitasari-handayani",
+      "text": "Pekerjaan : Ibu Rumah Tangga \n Alamat : Jaten, RT 003/RW 014, Kelurahan Jaten, \nKecamatan Jaten; \nSelanjutnya disebut sebagai --------------------------------------------- Pemohon I;",
+      "start_line": 12,
+      "end_line": 15
+    },
+    {
+      "heading": "2. Nama : Atrid Dayani",
+      "slug": "2-nama-atrid-dayani",
+      "text": "Pekerjaan : Ibu Rumah Tangga \n Alamat : Perum Puri Permata Blok F2/6, RT 002/RW 017, \nKelurahan Mampir, Kecamatan Cileungsi, \nKabupaten Bogor \nSelanjutnya disebut sebagai --------------------------------------------- Pemohon II;",
+      "start_line": 17,
+      "end_line": 21
+    },
+    {
+      "heading": "3. Nama : Dona Andita Martiasari",
+      "slug": "3-nama-dona-andita-martiasari",
+      "text": "Pekerjaan : Bidan \n Alamat : BSI Blok B.11/4, RT 008/RW 009, Kelurahan \nPengasinan, Kecamatan Sawangan, Kota Depok;\nSelanjutnya disebut sebagai -------------------------------------------- Pemohon III;",
+      "start_line": 23,
+      "end_line": 26
+    },
+    {
+      "heading": "4. Nama : Rian Permana Putra",
+      "slug": "4-nama-rian-permana-putra",
+      "text": "Pekerjaan : Karyawan Swasta \n Alamat : Perum Dit Bekasi, Blok A.15 No. 12, RT 002/RW \n007, Kelurahan Cibarusah Jaya, Kecamatan \nCibarusah, Kabupaten Bekasi; \nSelanjutnya disebut sebagai -------------------------------------------- Pemohon IV;\n \n\n\n2",
+      "start_line": 28,
+      "end_line": 38
+    },
+    {
+      "heading": "5. Nama : Marsya Zachra Ricardo",
+      "slug": "5-nama-marsya-zachra-ricardo",
+      "text": "Pekerjaan : Karyawan Swasta \n Alamat : Bukit Cimanggu Villa Blok L.1 No. 9, RT 002/RW \n011, Kelurahan Cibadak, Kecamatan Tanah \nSareal, Kota Bogor; \nSelanjutnya disebut sebagai -------------------------------------------- Pemohon V;",
+      "start_line": 40,
+      "end_line": 44
+    },
+    {
+      "heading": "6. Nama : Danu Purdianto",
+      "slug": "6-nama-danu-purdianto",
+      "text": "Pekerjaan : Karyawan Swasta \n Alamat : Jalan Tani, RT 003/RW 004, Kelurahan \nPringsewu Barat, Kecamatan Pringsewu, \nKabupaten Pringsewu; \nSelanjutnya disebut sebagai ------------------------------------------- Pemohon VI;\nBerdasarkan Surat Kuasa Khusus bertanggal 1 Agustus 2026, membe rikan kuasa \nkepada Bernita Matondang, untuk bertindak untuk dan atas nama p ara pemberi \nkuasa;  \nSelanjutnya Pemohon I sampai dengan Pemohon VI disebut sebagai ------------------\n---------------------------------------------------------------------------------------- para  Pemohon; \n[1.2] Membaca permohonan para Pemohon;  \nMendengar keterangan para Pemohon;  \nMemeriksa bukti-bukti para Pemohon.",
+      "start_line": 46,
+      "end_line": 58
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 12 Agustus 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada \ntanggal 12 Agustus 2026 berdasarkan Akta Pengajuan Permohonan P emohon \nNomor 305/PUU/PAN.MK/AP3/08/2026 dan telah dicatat dalam Buku R egistrasi \nPerkara Konstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 305/PUU-\nXXIV/2026 pada tanggal 13 Agustus 2026 yang telah diperbaiki da n diterima \nMahkamah pada tanggal 8 September 2026, pada pokoknya menguraik an hal-hal \nsebagai berikut. \n \n\n3 \n \n \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 60,
+      "end_line": 73
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD NRI 1945 ) \nmenyatakan:   \n“kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada dibawahnya dalam lingkungan peradilan \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah \nKonstitusi”;",
+      "start_line": 75,
+      "end_line": 81
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) Perubahan Keempat UUD NRI 1945:",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-perubahan-keempat-uud-nri-1945",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-\nUndang Dasar, memutus perubahan partai politik dan memutus \nperselisihan tentang hasil pemilihan umum”;",
+      "start_line": 83,
+      "end_line": 88
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-t-ahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana telah \ndiubah terakhir dalam Undang-Undang (UU) Nomor 13 Tahun 2022 tentang \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-Undangan menegaskan bahwa:   \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 90,
+      "end_line": 96
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 T ahun",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-t-ahun",
+      "text": "2009 tentang Kekuasaan Kehakiman, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai \npolitik; d. memutus perselisihan tentang hasil pemilihan umum; dan e. \nkewenangan lain yang diberikan oleh undang-undang”",
+      "start_line": 98,
+      "end_line": 106
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 Tahun",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-tahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah \nterakhir dengan Undang-undang (UU) Nomor 7 Tahun 2020 tentang \nPerubahan Ketiga atas Undang-Undang Nomor 24 Tahun 2003 tentang  \nMahkamah Konstitusi, menyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\n\n4 \n \n \nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai \npolitik; dan d. memutus perselisihan tentang hasil pemilihan umum.”",
+      "start_line": 108,
+      "end_line": 122
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konst itusi",
+      "slug": "6-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konst-itusi",
+      "text": "Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujia n \nUndang-Undang, menyatakan:   \n“Objek Permohonan PUU adalah Undang-Undang dan Perppu”;   \nOleh karenanya, Mahkamah Konstitusi berwenang mengadili perkara a quo \nkarena Para Pemohon mengajukan permohonan pengujian \nkonstitusionalitas undang-undang yaitu: Undang-Undang Nomor 25 Tahun \n2009 tentang Pelayanan Publik (Lembaran Negara Republik Indones ia \nTahun 2009 Nomor 112, Tambahan Lembaran Negara Republik Indonesia \nNomor 5038);",
+      "start_line": 124,
+      "end_line": 132
+    },
+    {
+      "heading": "7. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah n y a t a",
+      "slug": "7-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-n-y-a-t-a",
+      "text": "bahwa objek permohonan a quo  memenuhi syarat sebagai objek \npermohonan pengujian materiil Undang-Undang terhadap UUD NRI 19 45. \nOleh karenanya, Mahkamah Konstitusi berwenang untuk memeriksa, \nmengadili, dan memutus konstitusionalitas Undang-Undang terhadap UUD \nNRI 1945 dalam perkara a quo yang diajukan oleh PARA PEMOHON.   \nII. KEDUDUKAN HUKUM (LEGAL STANDING)  DAN KERUGIAN",
+      "start_line": 134,
+      "end_line": 139
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU M ahkamah Konstitusi menyatakan ba hwa",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-m-ahkamah-konstitusi-menyatakan-ba-hwa",
+      "text": "PARA PEMOHON adalah pihak yang menganggap hak dan/atau \nkewenangan konstitusionalnya dirugikan oleh berlakunya undang-u ndang, \nyaitu:  \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip negara kesatuan RI \nyang diatur dalam undang-undang;",
+      "start_line": 142,
+      "end_line": 148
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, maka terlebih dahulu P ara",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-maka-terlebih-dahulu-p-ara",
+      "text": "Pemohon menguraikan kedudukan hukum (legal standing), sebagai berikut, \n\n5 \n \n \nPara Pemohon merupakan perseorangan warga negara Indonesia yang  \ndibuktikan dengan kepemilikan Kartu Tanda Penduduk (vide p-3 s.d p-8);",
+      "start_line": 152,
+      "end_line": 158
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2) menegaskan Para",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaskan-para",
+      "text": "Pemohon memenuhi dan memiliki kedudukan hukum ( legal standing ) \nsebagai perseorangan warga negara Indonesia sehingga Para Pemoh on \ndapat mengajukan permohonan pengujian UU terhadap UUD NRI 1945.  \nSelanjutnya, Para Pemohon akan menguraikan kerugian konstitusio nal \nyang dialami sehubungan dengan berlakunya Undang-Undang yang \ndiujikan konstitusionalitasnya dalam perkara a quo.",
+      "start_line": 160,
+      "end_line": 165
+    },
+    {
+      "heading": "4. Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi N o. 07",
+      "slug": "4-bahwa-dalam-pasal-4-ayat-2-peraturan-mahkamah-konstitusi-n-o-07",
+      "text": "Tahun 2025 tentang Pedoman Beracara Dalam Perkara Pengujian Undang-\nUndang ditentukan 5 syarat mengenai kerugian konstitusional, yaitu:  \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia 1945.  \nb. Bahwa hak konstitusional pemohon  tersebut dianggap oleh para \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 167,
+      "end_line": 172
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat",
+      "text": "spesifik atau khusus dan aktual atau setidaknya potensial yang menurut \npenalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 174,
+      "end_line": 175
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan untuk diuji.  \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan mak a \nkerugian konstitusional yang didalilkan tidak akan atau tidak terjadi lagi.",
+      "start_line": 177,
+      "end_line": 179
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional Para Pemohon di jamin",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-para-pemohon-di-jamin",
+      "text": "oleh UUD NRI 1945 yang telah diatur dalam beberapa pasal yang \ndigunakan sebagai dasar pengujian dalam perkara a quo, yaitu:  \na. Pasal 28D ayat (1) UUD NRI 1945, menyatakan “Setiap orang be rhak \natas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil \nserta perlakuan yang sama di hadapan hukum.”  \nb. Pasal 34 ayat (3) UUD NRI 1945, menyatakan “Negara bertanggu ng \njawab atas penyediaan fasilitas pelayanan kesehatan dan fasilit as \npelayanan umum yang layak”",
+      "start_line": 181,
+      "end_line": 188
+    },
+    {
+      "heading": "c. Pasal 28H ayat (2) UUD NRI 1945, menyatakan “Setiap orang be rhak",
+      "slug": "c-pasal-28h-ayat-2-uud-nri-1945-menyatakan-setiap-orang-be-rhak",
+      "text": "mendapat kemudahan dan perlakuan khusus untuk memperoleh \n\n6 \n \n \nkesempatan dan manfaat yang sama guna mencapai persamaan dan \nkeadilan.”",
+      "start_line": 190,
+      "end_line": 196
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam UUD",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam-uud",
+      "text": "NRI 1945 tersebut telah dirugikan dengan pasal sebagai berikut: \nPasal 20 Ayat (1), Ayat (4), dan Penjelasan Pasal 20 Ayat (4) U ndang-\nUndang Nomor 25 Tahun 2009 tentang Pelayanan Publik (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 112, Tambahan Lembaran \nNegara Republik Indonesia Nomor 5038) yang menyatakan:  \nPasal 20 Ayat (1) \n“Penyelenggara berkewajiban menyusun dan menetapkan standar \npelayanan dengan memperhatikan kemampuan penyelenggara, \nkebutuhan masyarakat, dan kondisi lingkungan.”  \nPasal 20 Ayat (4) \n“Pengikutsertaan masyarakat dan pihak terkait sebagaimana \ndimaksud pada ayat (2) dilakukan dengan prinsip tidak diskrimin atif, \nterkait langsung dengan jenis pelayanan, memiliki kompetensi da n \nmengutamakan musyawarah, serta memperhatikan keberagaman.” \nPenjelasan 20 Ayat (4) \n“Keberagaman berupa pengikutsertaan masyarakat yang mewakili \nberbagai unsur dan profesi, antara lain tokoh masyarakat, akade misi, \ndunia usaha, dan lembaga swadaya masyarakat.”",
+      "start_line": 198,
+      "end_line": 215
+    },
+    {
+      "heading": "7. Bahwa hak konstitusional Para Pemohon yang dirugikan oleh be rlakunya",
+      "slug": "7-bahwa-hak-konstitusional-para-pemohon-yang-dirugikan-oleh-be-rlakunya",
+      "text": "norma a quo meliputi hak atas pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil sebagaimana dijamin dalam Pasal 28D ayat (1) \nUUD NRI 1945, hak untuk memperoleh kemudahan dan perlakuan khusus \nuntuk memperoleh kesempatan dan manfaat yang sama guna mencapai  \npersamaan dan keadilan sebagaimana dijamin dalam Pasal 28H ayat  (2) \nUUD NRI 1945, serta hak untuk memperoleh fasilitas pelayanan kesehatan \ndan fasilitas pelayanan umum yang layak sebagai bagian dari tan ggung \njawab negara sebagaimana ditegaskan dalam Pasal 34 ayat (3) UUD  NRI \n1945.",
+      "start_line": 217,
+      "end_line": 225
+    },
+    {
+      "heading": "8. Bahwa kerugian konstitusional tersebut berkaitan dengan kebe rlakuan",
+      "slug": "8-bahwa-kerugian-konstitusional-tersebut-berkaitan-dengan-kebe-rlakuan",
+      "text": "Pasal 20 ayat (1) sepanjang frasa “kemampuan penyelenggara”, Pa sal 20 \nayat (4) sepanjang frasa “memperhatikan keberagaman”, serta Penjelasan \nPasal 20 ayat (4) sepanjang uraian mengenai keberagaman berupa \npengikutsertaan masyarakat yang mewakili berbagai unsur dan pro fesi, \nyang dalam penerapannya berpotensi tidak memberikan batas dan \n\n7 \n \n \nparameter yang cukup mengenai standar pelayanan yang wajib teta p \ndipenuhi oleh penyelenggara. Adapun kerugian konstitusional Par a \nPemohon diuraikan sebagai berikut; \na. Bahwa Pemohon I adalah Warga Negara Indonesia dan peserta ak tif \nBPJS Kesehatan yang mengalami kerugian konstitusional secara nyata \ndan aktual berupa tidak diperolehnya pelayanan kesehatan yang l ayak \nsesuai dengan kebutuhan medisnya. \nb. Bahwa Pemohon I mengalami gejala telinga berdenging (tinnitu s) dan \npenurunan daya dengar setelah mengalami komplikasi akibat infek si \nparotitis (gondongan). P ada saat pemeriksaan awal di Fasilitas \nKesehatan (Faskes) tingkat pertama, Pemohon I tidak memperoleh \nrujukan untuk pemeriksaan lebih lanjut kepada dokter spesialis,  \nmelainkan hanya memperoleh terapi obat-obatan simptomatik.",
+      "start_line": 227,
+      "end_line": 248
+    },
+    {
+      "heading": "c. Bahwa tidak diperolehnya pemeriksaan dan penanganan lanjutan",
+      "slug": "c-bahwa-tidak-diperolehnya-pemeriksaan-dan-penanganan-lanjutan",
+      "text": "tersebut terjadi dalam keadaan Pemohon I memiliki keterbatasan \nkemampuan ekonomi untuk memperoleh pelayanan kesehatan \nspesialistik secara mandiri. Dalam keadaan demikian, akses Pemohon I \nterhadap pelayanan kesehatan sangat bergantung pada pelayanan \nyang diberikan melalui sistem pelayanan kesehatan yang \ndiselenggarakan oleh negara dan penyelenggara jaminan kesehatan.",
+      "start_line": 250,
+      "end_line": 255
+    },
+    {
+      "heading": "d. Bahwa keterlambatan tersebut kemudian menyebabkan Pemohon I",
+      "slug": "d-bahwa-keterlambatan-tersebut-kemudian-menyebabkan-pemohon-i",
+      "text": "baru dapat memperoleh pemeriksaan secara lebih menyeluruh oleh \ndokter spesialis Telinga, Hidung, dan Tenggorokan (THT) setelah  \nkondisi kesehatannya mengalami perkembangan lebih lanjut. \nBerdasarkan pemeriksaan dan diagnosis dokter, Pemohon I mengalami \nkerusakan pendengaran permanen pada telinga sebelah kiri yang \nmenurut hasil pemeriksaan medis tidak dapat dipulihkan secara optimal \nmelalui penggunaan alat bantu dengar maupun tindakan operatif. \ne. Bahwa kerugian tersebut dibuktikan dengan dokumen rekam medi s, \nhasil pemeriksaan dokter spesialis, dan hasil audiogram Pemohon  I  \n(vide Bukti P-14). Dengan demikian, kerugian yang dialami Pemoh on I \nbukan semata-mata kekhawatiran terhadap kemungkinan buruknya \npelayanan kesehatan, melainkan kerugian aktual yang telah terjadi dan \nmemiliki konsekuensi permanen terhadap kualitas hidup Pemohon I. \n\n8 \n \n \nf. Bahwa kerugian konstitusional yang dialami Pemohon I tidak s emata-\nmata didalilkan sebagai akibat dari tindakan individual tenaga kesehatan \natau kesalahan administratif dalam pemberian pelayanan, melaink an \nberkaitan dengan persoalan normatif mengenai batas penggunaan \n“kemampuan penyelenggara” dalam penyusunan dan penetapan \nstandar pelayanan. Ketika kemampuan penyelenggara dapat dijadik an \nsalah satu dasar dalam menentukan standar pelayanan tanpa adany a \nbatas normatif yang tegas mengenai tingkat pelayanan minimum ya ng \ntetap wajib dipenuhi, terdapat hubungan antara norma  a quo  dengan \nrisiko tidak terpenuhinya kebutuhan pelayanan masyarakat. Dalam  \nkeadaan Pemohon I yang secara faktual bergantung pada sistem \npelayanan kesehatan karena keterbatasan kemampuan ekonomi, \nketidakjelasan batas tersebut mempunyai konsekuensi nyata terha dap \nkemampuan Pemohon I memperoleh pelayanan sesuai kebutuhan \nmedisnya. \ng. Bahwa norma tersebut menjadi semakin relevan dengan Pasal 20  ayat \n(2) yang menyatakan bahwa dalam menyusun dan menetapkan standar \npelayanan, penyelenggara wajib mengikutsertakan masyarakat dan \npihak terkait. Ketentuan ayat (2) tersebut tidak dimohonkan unt uk diuji, \nmelainkan digunakan sebagai dasar untuk menunjukkan bahwa \nmasyarakat memiliki posisi yang secara normatif diakui oleh Und ang-\nUndang dalam proses penyusunan standar pelayanan publik. Dengan  \ndemikian, Para Pemohon sebagai bagian dari masyarakat dan penerima \npelayanan publik mempunyai kepentingan yang nyata terhadap standar \npelayanan yang ditetapkan oleh penyelenggara. \nh. Bahwa berdasarkan Pasal 20 ayat (4), pengikutsertaan masyara kat dan \npihak terkait dalam penyusunan standar pelayanan dilakukan deng an \nprinsip tidak diskriminatif, terkait langsung dengan jenis pela yanan, \nmemiliki kompetensi, mengutamakan musyawarah, serta \nmemperhatikan keberagaman. Namun, norma tersebut tidak \nmemberikan parameter yang cukup mengenai bagaimana \nkeberagaman tersebut harus diwujudkan agar keterlibatan masyara kat \nbenar-benar mencerminkan kepentingan penerima pelayanan dan pihak \nyang terdampak langsung oleh standar pelayanan. \n\n9",
+      "start_line": 257,
+      "end_line": 311
+    },
+    {
+      "heading": "i. Bahwa Penjelasan Pasal 20 ayat (4) menjelaskan keberagaman b erupa",
+      "slug": "i-bahwa-penjelasan-pasal-20-ayat-4-menjelaskan-keberagaman-b-erupa",
+      "text": "pengikutsertaan masyarakat yang mewakili berbagai unsur dan profesi, \nantara lain tokoh masyarakat, akademisi, dunia usaha, dan lemba ga \nswadaya masyarakat. Penjelasan tersebut, meskipun menggunakan \nfrasa “antara lain”, tidak memberikan parameter yang tegas meng enai \nketerwakilan masyarakat sebagai penerima pelayanan publik yang \nsecara langsung mengalami dampak dari standar pelayanan yang \nditetapkan. \nj. Bahwa persoalan tersebut mempunyai relevansi konstitusional karena \nstandar pelayanan publik pada akhirnya menentukan tingkat pelayanan \nyang secara konkret diterima oleh masyarakat. Ketika kemampuan \npenyelenggara dijadikan salah satu dasar penetapan standar tanp a \nbatas minimum yang jelas, sedangkan partisipasi masyarakat dala m \npenyusunan standar tidak diberikan parameter yang memadai \nmengenai keterwakilan penerima pelayanan, terdapat risiko bahwa  \nstandar pelayanan lebih banyak ditentukan berdasarkan kapasitas  \npenyelenggara daripada tingkat pelayanan yang secara objektif l ayak \nditerima masyarakat. \nk. Bahwa Pemohon II adalah Warga Negara Indonesia dan peserta B PJS \nKesehatan yang mengalami kerugian konstitusional secara aktual dalam \nmemperoleh pelayanan kesehatan sesuai dengan kebutuhan medisnya.",
+      "start_line": 313,
+      "end_line": 332
+    },
+    {
+      "heading": "l. Bahwa pada saat Pemohon II mengalami sakit dan berdasarkan k ondisi",
+      "slug": "l-bahwa-pada-saat-pemohon-ii-mengalami-sakit-dan-berdasarkan-k-ondisi",
+      "text": "kesehatannya membutuhkan pemeriksaan lebih lanjut di rumah saki t, \nFaskes tingkat pertama tidak menerbitkan surat rujukan dan hany a \nmemberikan obat penurun demam.",
+      "start_line": 334,
+      "end_line": 336
+    },
+    {
+      "heading": "m. Bahwa keadaan tersebut menunjukkan adanya persoalan dalam",
+      "slug": "m-bahwa-keadaan-tersebut-menunjukkan-adanya-persoalan-dalam",
+      "text": "penyelenggaraan pelayanan kesehatan ketika kebutuhan masyarakat  \natas pelayanan lanjutan berhadapan dengan kapasitas pelayanan yang \ntersedia pada penyelenggara. Dalam kondisi demikian, Pemohon II  \nmenghadapi hambatan dalam memperoleh pelayanan yang \ndibutuhkannya. \nn. Bahwa kerugian Pemohon II mempunyai hubungan dengan persoala n \nkonstitusional dalam norma a quo  karena Pasal 20 ayat (1) tidak \nmemberikan batas yang jelas mengenai sejauh mana “kemampuan \n\n10 \n \n \npenyelenggara” dapat digunakan sebagai pertimbangan dalam \nmenetapkan standar pelayanan, khususnya ketika keterbatasan \ntersebut berhadapan langsung dengan kebutuhan masyarakat atas \npelayanan kesehatan yang layak. \no. Bahwa Pemohon III adalah Warga Negara Indonesia yang berprof esi \nsebagai tenaga kesehatan (vide Bukti P-.10) dan dalam menjalank an \nprofesinya berhadapan langsung dengan penyelenggaraan pelayanan  \nkesehatan kepada masyarakat. Oleh karena itu, Pemohon III \nmempunyai kepentingan konstitusional yang berkaitan dengan \nkepastian standar pelayanan yang harus dipenuhi ketika kapasita s \npenyelenggara tidak memadai untuk memenuhi kebutuhan pasien. \np. Bahwa dalam praktik pelayanan kesehatan, Pemohon III menghad api \nkondisi ketika kapasitas pelayanan, antara lain keterbatasan ku ota \nantrean, ketersediaan tenaga kesehatan, sarana pelayanan, serta  \nmekanisme rujukan, memengaruhi k emampuan fasilitas kesehatan \ndalam memberikan pelayanan kepada pasien sesuai dengan kebutuhan \nmedisnya (vide Bukti P-.11). \nq. Bahwa salah satu bentuk konkret keadaan tersebut adalah penggunaan \nsistem antrean pelayanan melalui aplikasi Mobile JKN dengan \npembatasan kuota pelayanan pada poli tertentu. Pembatasan terse but \ndapat menyebabkan pasien yang membutuhkan pelayanan tidak \nmemperoleh akses pada waktu yang sesuai dengan kebutuhan \nmedisnya, sementara tenaga kesehatan yang berada pada tingkat \npelayanan tersebut harus menghadapi konsekuensi dan tekanan dar i \nmasyarakat yang tidak memperoleh pelayanan sebagaimana yang \ndiharapkan. \nr. Bahwa Pemohon III juga menghadapi persoalan dalam sistem ruj ukan \nberjenjang, termasuk keadaan ketika rujukan baru tidak dapat di proses \nkarena masih terdapat rujukan aktif pada fasilitas kesehatan la in. \nKondisi tersebut menyebabkan Pemohon III harus melakukan \nkoordinasi administratif yang tidak sederhana agar pasien mempe roleh \npelayanan lanjutan yang dibutuhkan (vide Bukti P-12). \ns. Bahwa dalam keadaan tertentu, keterbatasan sarana pada Faske s \ntingkat pertama juga menyebabkan tenaga kesehatan harus \n\n11 \n \n \nmemberikan penanganan awal terhadap pasien dengan kondisi yang \nmembutuhkan pemeriksaan dan penanganan lebih lanjut sebelum \npasien dapat dirujuk ke fasilitas kesehatan yang mempunyai \nkemampuan lebih memadai, sebagaimana terjadi dalam penanganan \npasien dengan diagnosis Demam Berdarah (Dengue) dan Typhoid (vide \nBukti P-13). \nt. Bahwa persoalan tersebut menunjukkan bahwa “kemampuan \npenyelenggara” dalam praktik dapat menjadi faktor yang memengar uhi \ntingkat pelayanan yang diterima pasien. Persoalan konstitusional timbul \nketika faktor tersebut tidak ditempatkan dalam batas yang jelas  \nsehingga keterbatasan penyelenggara berpotensi menjadi alasan untuk \nmenentukan tingkat pelayanan yang berada di bawah pelayanan yan g \nlayak berdasarkan kebutuhan masyarakat. \nu. Bahwa keadaan tersebut juga menimbulkan ketidakpastian hukum  bagi \nPemohon III sebagai tenaga kesehatan karena Pemohon III berada \npada posisi harus memenuhi kebutuhan medis pasien, tetapi pada saat \nyang sama harus bekerja dalam batas kapasitas fasilitas pelayan an \nyang tersedia. Ketidakjelasan mengenai batas antara keterbatasa n \npenyelenggara dan kewajiban memberikan pelayanan yang layak pada \nakhirnya berpotensi menempatkan tenaga kesehatan sebagai pihak \nyang berhadapan langsung dengan konsekuensi dari keterbatasan \nsistem pelayanan.",
+      "start_line": 338,
+      "end_line": 409
+    },
+    {
+      "heading": "v. Bahwa Pemohon IV, Pemohon V, dan Pemohon VI adalah Warga",
+      "slug": "v-bahwa-pemohon-iv-pemohon-v-dan-pemohon-vi-adalah-warga",
+      "text": "Negara Indonesia serta peserta BPJS Kesehatan (Vide Bukti P-8) yang \nmemiliki kepentingan konstitusional dan kerugian konstitusional  y a n g  \nbersifat potensial dan aktual apabila norma a quo  tetap memberikan \nruang bagi standar pelayanan ditentukan berdasarkan kemampuan \npenyelenggara tanpa batas pelayanan minimum yang jelas. \nw. Bahwa sebagai peserta BPJS Kesehatan, Pemohon IV, Pemohon V,  \ndan Pemohon VI bergantung pada tersedianya fasilitas pelayanan \nkesehatan yang mampu memenuhi kebutuhan pelayanan sesuai \ndengan standar yang layak. Selama frasa “kemampuan penyelenggara” \ntidak dibatasi secara konstitusional, Para Pemohon tetap mengha dapi \nrisiko mengalami penundaan pelayanan, keterbatasan akses terhad ap \n\n12 \n \n \npemeriksaan lanjutan, keterbatasan sarana pelayanan, maupun \npersoalan rujukan yang timbul karena keterbatasan sumber daya \npenyelenggara.",
+      "start_line": 411,
+      "end_line": 428
+    },
+    {
+      "heading": "x. Bahwa risiko tersebut bukanlah risiko yang bersifat abstrak semata,",
+      "slug": "x-bahwa-risiko-tersebut-bukanlah-risiko-yang-bersifat-abstrak-semata",
+      "text": "karena keterbatasan tenaga kesehatan, sarana, prasarana, antrea n, \ndan kapasitas pelayanan merupakan keadaan faktual yang terdapat  \ndalam penyelenggaraan pelayanan kesehatan. Oleh karena itu, selama \nnorma a quo tetap memberikan ruang bagi kemampuan penyelenggara \nuntuk menentukan standar pelayanan tanpa batas minimum yang jelas, \npotensi kerugian konstitusional Para Pemohon tetap ada.",
+      "start_line": 430,
+      "end_line": 435
+    },
+    {
+      "heading": "9. Bahwa terdapat hubungan sebab-akibat ( causal verband ) antara",
+      "slug": "9-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-antara",
+      "text": "berlakunya Pasal 20 ayat (1) sepanjang frasa “kemampuan \npenyelenggara”, Pasal 20 ayat (4) sepanjang frasa “memperhatika n \nkeberagaman”, serta Penjelasan Pasal 20 ayat (4) dengan kerugia n \nkonstitusional Para Pemohon. Frasa “kemampuan penyelenggara” \nmemberikan dasar normatif untuk mempertimbangkan kemampuan \npenyelenggara, termasuk pendanaan, sumber daya manusia, sarana,  \nprasarana, dan fasilitas pelayanan, dalam menyusun dan menetapk an \nstandar pelayanan. Sementara itu, Pasal 20 ayat (4) dan Penjela sannya \nberkaitan dengan bagaimana masyarakat dan pihak terkait dilibatkan serta \nbagaimana keberagaman masyarakat direpresentasikan dalam proses  \ntersebut.",
+      "start_line": 437,
+      "end_line": 447
+    },
+    {
+      "heading": "10. Bahwa dengan demikian, causal verband dalam perkara a quo t i d a k",
+      "slug": "10-bahwa-dengan-demikian-causal-verband-dalam-perkara-a-quo-t-i-d-a-k",
+      "text": "dimaksudkan untuk menyatakan bahwa setiap kegagalan atau \nketerlambatan pelayanan kesehatan secara otomatis disebabkan oleh frasa \n“kemampuan penyelenggara”. Causal verband yang didalilkan Para \nPemohon terletak pada adanya hubungan normatif antara frasa ter sebut, \nkewenangan penyelenggara dalam menetapkan standar pelayanan, da n \npotensi maupun aktualnya tidak terpenuhi pelayanan yang layak b agi \nmasyarakat apabila keterbatasan penyelenggara tidak dibatasi oleh standar \nminimum yang objektif. Dengan penghapusan atau pemberian pemaknaan \nkonstitusional terhadap batas tersebut, kerugian konstitusional  y a n g  \nbersumber dari ketidakpastian mengenai standar pelayanan minimu m \ndapat dicegah atau setidak-tidaknya dikurangi. \n\n13",
+      "start_line": 449,
+      "end_line": 463
+    },
+    {
+      "heading": "11. Bahwa persoalan konstitusional dalam perkara a quo timbul karena norma",
+      "slug": "11-bahwa-persoalan-konstitusional-dalam-perkara-a-quo-timbul-karena-norma",
+      "text": "tersebut belum memberikan batas yang tegas mengenai hubungan an tara \nkemampuan penyelenggara, kebutuhan masyarakat, dan tingkat pelayanan \nminimum yang wajib dipenuhi. Kemampuan penyelenggara semestinya  \nmenjadi pertimbangan dalam menentukan cara penyelenggaraan \npelayanan, bukan menjadi alasan untuk menetapkan tingkat pelaya nan \nyang berada di bawah standar kelayakan yang menjadi hak masyarakat.",
+      "start_line": 465,
+      "end_line": 470
+    },
+    {
+      "heading": "12. Bahwa demikian pula dengan ketentuan mengenai pengikutserta an",
+      "slug": "12-bahwa-demikian-pula-dengan-ketentuan-mengenai-pengikutserta-an",
+      "text": "masyarakat dalam Pasal 20 ayat (4) dan Penjelasan Pasal 20 ayat  ( 4 ) .  \nPengaturan mengenai keberagaman harus dipahami sebagai mekanism e \nyang benar-benar memungkinkan kepentingan masyarakat sebagai \npenerima pelayanan terakomodasi dalam penyusunan standar pelaya nan. \nTanpa parameter yang memadai, pengikutsertaan masyarakat berpot ensi \nhanya bersifat formal dan tidak memberikan jaminan bahwa pengal aman \nserta kebutuhan nyata penerima pelayanan menjadi pertimbangan y ang \nefektif dalam penetapan standar.",
+      "start_line": 472,
+      "end_line": 479
+    },
+    {
+      "heading": "13. Bahwa apabila Mahkamah Konstitusi mengabulkan permohonan Pa ra",
+      "slug": "13-bahwa-apabila-mahkamah-konstitusi-mengabulkan-permohonan-pa-ra",
+      "text": "Pemohon dan menyatakan frasa “kemampuan penyelenggara” dalam Pasal \n20 ayat (1) bertentangan dengan UUD NRI 1945 sepanjang dimaknai dapat \nmenjadi alasan untuk menetapkan standar pelayanan di bawah ting kat \npelayanan yang layak, maka penyelenggara tetap dapat \nmempertimbangkan kemampuan pendanaan, sumber daya manusia, \nsarana, prasarana, dan fasilitas dalam menyelenggarakan pelayan an, \ntetapi pertimbangan tersebut tidak boleh menghilangkan atau men gurangi \ntingkat pelayanan minimum yang secara konstitusional wajib dibe rikan \nkepada masyarakat.",
+      "start_line": 481,
+      "end_line": 489
+    },
+    {
+      "heading": "14. Bahwa terhadap Pasal 20 ayat (4) dan Penjelasan Pasal 20 ayat (4), Para",
+      "slug": "14-bahwa-terhadap-pasal-20-ayat-4-dan-penjelasan-pasal-20-ayat-4-para",
+      "text": "Pemohon memohon agar Mahkamah Konstitusi memberikan pemaknaan \nkonstitusional bahwa pengikutsertaan masyarakat dan pihak terka it serta \nprinsip keberagaman dalam penyusunan standar pelayanan harus \ndilakukan secara substantif, dengan memperhatikan keterwakilan \nmasyarakat sebagai penerima pelayanan dan pihak yang terdampak \nlangsung oleh jenis pelayanan yang bersangkutan, sehingga prose s \npenyusunan standar pelayanan tidak semata-mata ditentukan dari \n\n14 \n \n \nperspektif dan kemampuan penyelenggara.",
+      "start_line": 491,
+      "end_line": 502
+    },
+    {
+      "heading": "15. Dengan demikian, putusan Mahkamah Konstitusi terhadap norma a quo",
+      "slug": "15-dengan-demikian-putusan-mahkamah-konstitusi-terhadap-norma-a-quo",
+      "text": "diharapkan memberikan kepastian hukum mengenai batas penggunaan  \nkemampuan penyelenggara, sekaligus menjamin bahwa partisipasi d an \nkeberagaman masyarakat dalam penyusunan standar pelayanan benar -\nbenar berfungsi untuk memastikan terpenuhinya pelayanan publik yang \nlayak sesuai dengan hak konstitusional masyarakat.. \nIII. A L A S A N PERMOHONAN",
+      "start_line": 504,
+      "end_line": 509
+    },
+    {
+      "heading": "1. PERTENTANGAN PASAL 20 AYAT (1) UU NOMOR 25 TAHUN 2009,",
+      "slug": "1-pertentangan-pasal-20-ayat-1-uu-nomor-25-tahun-2009",
+      "text": "FRASA “KEMAMPUAN PENYELENGGARA”, DENGAN PASAL 28D \nAYAT (1) UUD NRI 1945 \na. Bahwa Para Pemohon mendalilkan bahwa Pasal 20 ayat (1) Undan g-\nUndang Nomor 25 Tahun 2009 tentang Pelayanan Publik, sepanjang \nfrasa “kemampuan penyelenggara”, bertentangan dengan Pasal 28D \nayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 \nyang menjamin hak setiap orang atas pengakuan, jaminan, \nperlindungan, dan kepastian hukum yang adil serta perlakuan yan g \nsama di hadapan hukum. Pasal 20 ayat (1) UU Pelayanan Publik \nmenentukan bahwa penyelenggara berkewajiban menyusun dan \nmenetapkan standar pelayanan dengan memperhatikan “kemampuan \npenyelenggara, kebutuhan masyarakat, dan kondisi lingkungan”. Dalam \nPenjelasan Pasal 20 ayat (1), kemampuan penyelenggara dijelaska n \nmeliputi dukungan pendanaan, pelaksana, sarana, prasarana, dan/atau \nfasilitas pelayanan. Dengan demikia n, norma tersebut secara eks plisit \nmenempatkan kapasitas internal penyelenggara sebagai salah satu  \nfaktor dalam pembentukan standar pelayanan. \nb. Bahwa persoalan konstitusional bukan terletak pada kenyataan  bahwa \nkemampuan penyelenggara sama sekali tidak boleh diperhitungkan \ndalam penyelenggaraan pelayanan publik. Faktor pendanaan, sumbe r \ndaya manusia, sarana, prasarana, dan fasilitas memang merupakan  \naspek faktual yang harus diperhitungkan dalam menentukan bagaimana \nsuatu pelayanan dapat diselenggarakan. Persoalan muncul ketika \nundang-undang tidak menentukan batas normatif yang tegas mengenai \n\n15 \n \n \nkedudukan faktor kemampuan tersebut, terutama mengenai apakah \nketerbatasan penyelenggara hanya boleh menjadi dasar untuk \nmenentukan metode, tahapan, prioritas, dan strategi pemenuhan \npelayanan, atau dapat pula digunakan untuk menentukan rendahnya  \ntingkat pelayanan yang diterima masyarakat. Ketiadaan pembatas \ntersebut membuka ruang penafsiran yang berbeda-beda di antara \npenyelenggara.",
+      "start_line": 511,
+      "end_line": 545
+    },
+    {
+      "heading": "c. Bahwa keadaan tersebut berhadapan langsung dengan prinsip",
+      "slug": "c-bahwa-keadaan-tersebut-berhadapan-langsung-dengan-prinsip",
+      "text": "kepastian hukum sebagaimana dijamin Pasal 28D ayat (1) UUD NRI",
+      "start_line": 547,
+      "end_line": 547
+    },
+    {
+      "heading": "1945. Kepastian hukum tidak cukup dipahami sebagai adanya suatu",
+      "slug": "1945-kepastian-hukum-tidak-cukup-dipahami-sebagai-adanya-suatu",
+      "text": "undang-undang yang menyebut kewajiban penyelenggara, tetapi jug a \nmenuntut agar norma tersebut memberikan ukuran yang cukup jelas  \nmengenai hak masyarakat dan batas kewenangan penyelenggara. \nKetika “kemampuan penyelenggara” dapat dipergunakan sebagai \npertimbangan dalam menetapkan standar, sementara undang-undang \ntidak secara tegas menetapkan bahwa keterbatasan tersebut tidak  \nboleh mengurangi tingkat pelayanan minimum yang wajib diberikan , \nmasyarakat tidak memperoleh ukuran yang pasti mengenai pelayana n \napa yang secara hukum berhak mereka terima. Pada saat yang sama , \npenyelenggara memperoleh ruang interpretasi yang luas untuk \nmenentukan sendiri batas pelayanan berdasarkan kapasitas yang \ntersedia.",
+      "start_line": 549,
+      "end_line": 560
+    },
+    {
+      "heading": "d. Bahwa persoalan tersebut menjadi semakin nyata apabila Pasal 20 ayat",
+      "slug": "d-bahwa-persoalan-tersebut-menjadi-semakin-nyata-apabila-pasal-20-ayat",
+      "text": "(1) dibaca secara sistematis dengan Pasal 21 UU Pelayanan Publi k. \nPasal 21 telah menentukan berbagai komponen standar pelayanan, \nantara lain persyaratan, mekanisme dan prosedur, jangka waktu \npenyelesaian, biaya atau tarif, produk pelayanan, sarana dan \nprasarana, kompetensi pelaksana, jumlah pelaksana, jaminan \npelayanan, jaminan keamanan dan keselamatan, serta evaluasi kinerja. \nDengan demikian, undang-undang sebenarnya telah membangun \nkonsepsi bahwa standar pelayanan harus mempunyai unsur-unsur \nobjektif yang dapat diketahui masyarakat. Namun, keberadaan fra sa \n“kemampuan penyelenggara” tanpa batas yang jelas dapat \nmenyebabkan ukuran objektif tersebut pada praktiknya bergeser \n\n16 \n \n \nmenjadi ukuran relatif berdasarkan kemampuan masing-masing \npenyelenggara. Akibatnya, hak masyarakat terhadap pelayanan dap at \nberbeda bukan karena perbedaan kebutuhan atau dasar hukum, \nmelainkan karena perbedaan kapasitas institusi. \ne. Bahwa keadaan demikian menimbulkan persoalan hukum berupa \nketidakpastian mengenai standar minimum pelayanan. Masyarakat \nyang berada dalam keadaan yang secara substantif sama dapat \nmenerima kualitas pelayanan yang berbeda karena penyelenggara \nmenilai dirinya memiliki kemampuan yang berbeda. Dalam sektor \nkesehatan, misalnya, keterbatasan tenaga medis, ruang pelayanan , \nsistem antrean, sarana pemeriksaan, kapasitas rujukan, atau dukungan \npembiayaan dapat menjadi keadaan faktual yang harus diatasi ole h \npenyelenggara. Akan tetapi, apabila keadaan tersebut sekaligus dipakai \nuntuk menentukan batas pelayanan yang dapat diberikan, maka standar \npelayanan berpotensi berubah dari standar yang wajib dipenuhi menjadi \nstandar yang sekadar disesuaikan dengan kemampuan institusi. Secara \nyuridis, konstruksi tersebut melemahkan fungsi standar pelayana n \nsebagai instrumen perlindungan hukum bagi penerima layanan. \nf. Bahwa berdasarkan prinsip negara hukum, ketidakjelasan norma  yang \nmemengaruhi pemenuhan hak warga negara tidak seharusnya \ndibebankan akibatnya kepada masyarakat. Ketika penyelenggara \nmengalami keterbatasan sumber daya, keterbatasan tersebut \nmerupakan persoalan dalam penyelenggaraan pemerintahan yang \nharus dikelola melalui perencanaan, penganggaran, pengadaan, \npeningkatan kapasitas, kerja sama, pengaturan prioritas, dan \nmekanisme lainnya. Keterbatasan institusi tidak dengan sendirin ya \ndapat menjadi ukuran untuk mengurangi substansi hak masyarakat.  \nOleh karena itu, secara konstitusional harus terdapat garis batas bahwa \nkemampuan penyelenggara hanya merupakan pertimbangan dalam \ncara memenuhi standar, bukan alasan untuk menetapkan standar yang \nberada di bawah tingkat pelayanan yang secara hukum wajib \ndisediakan. \ng. Bahwa Para Pemohon tidak mempersoalkan kemampuan \npenyelenggara sebagai salah satu faktor yang secara objektif pe rlu \n\n17 \n \n \ndiperhitungkan dalam penyelenggaraan pelayanan publik. Kemampuan \npendanaan, sumber daya manusia, sarana, prasarana, dan fasilita s \nmerupakan keadaan faktual yang dapat menentukan bagaimana suatu  \npelayanan dilaksanakan. Namun demikian, kemampuan tersebut harus \nditempatkan sebagai pertimbangan mengenai cara, mekanisme, \ntahapan, prioritas, dan dukungan penyelenggaraan pelayanan, buk an \nsebagai ukuran yang menentukan boleh atau tidaknya masyarakat \nmemperoleh tingkat pelayanan yang secara objektif layak dan waj ib \ndisediakan. \nh. Bahwa terdapat perbedaan mendasar antara menyesuaikan cara \npenyelenggaraan pelayanan dengan kemampuan penyelenggara dan \nmenyesuaikan tingkat pelayanan yang menjadi hak masyarakat dengan \nketerbatasan penyelenggara. Yang pertama merupakan kebutuhan \nadministratif dan manajerial dalam penyelenggaraan pelayanan pu blik, \nsedangkan yang kedua berpotensi menjadikan keterbatasan institu si \nsebagai alasan untuk mengurangi substansi hak masyarakat.",
+      "start_line": 562,
+      "end_line": 630
+    },
+    {
+      "heading": "i. Bahwa oleh karena itu, diperlukan batas konstitusional yang tegas agar",
+      "slug": "i-bahwa-oleh-karena-itu-diperlukan-batas-konstitusional-yang-tegas-agar",
+      "text": "frasa “kemampuan penyelenggara” tidak ditafsirkan sebagai \nkewenangan untuk menentukan standar pelayanan hanya berdasarkan \napa yang mampu disediakan oleh penyelenggara. Kemampuan \npenyelenggara harus dipergunakan untuk menentukan strategi \npemenuhan standar pelayanan, sedangkan tingkat pelayanan minimum \nyang layak tetap harus ditentukan berdasarkan kebutuhan masyarakat, \nketentuan peraturan perundang-undangan, serta hak konstitusiona l \nwarga negara. \nj. Bahwa hubungan antara frasa “kemampuan penyelenggara” dengan  \nkerugian konstitusional Para Pemohon tidak dibangun atas asumsi  \nbahwa setiap pelayanan kesehatan yang buruk pasti disebabkan ol eh \nfrasa tersebut. Para Pemohon justru mendalilkan adanya ruang normatif \nyang timbul dari norma a quo. Ruang tersebut memungkinkan kapasitas \npenyelenggara dipertimbangkan dalam penetapan standar pelayanan  \ntanpa adanya batas eksplisit mengenai tingkat minimum yang tida k \nboleh dikurangi. Dalam konteks Para Pemohon, keadaan faktual berupa \npersoalan rujukan, keterbatasan antrean, ketersediaan tenaga \n\n18 \n \n \nkesehatan, sarana pelayanan, serta kapasitas fasilitas kesehata n \nmenunjukkan pentingnya pembatas tersebut. Dengan demikian, \npersoalan yang diuji adalah kualitas norma yang menjadi dasar \npembentukan standar, bukan semata-mata kesalahan individual \npetugas. \nk. Bahwa Pasal 20 ayat (2) UU Pelayanan Publik semakin memperlihatkan \nbahwa masyarakat mempunyai posisi yang sah dan penting dalam \npembentukan standar pelayanan karena penyelenggara diwajibkan \nmengikutsertakan masyarakat dan pihak terkait. Ketentuan terseb ut \ntidak dimohonkan untuk diuji, melainkan menunjukkan bahwa \npembentuk undang-undang sendiri menempatkan masyarakat sebagai \npihak yang memiliki kepentingan langsung terhadap standar pelayanan. \nDalam konstruksi tersebut, Para Pemohon mempunyai hubungan yang \nrelevan dengan norma a quo karena sebagai penerima pelayanan dan \npihak yang berhadapan dengan praktik pelayanan kesehatan, Para \nPemohon memiliki kepentingan kons titusional agar standar pelaya nan \ntidak ditentukan secara sepihak berdasarkan kapasitas internal \npenyelenggara. Dengan demikian, Pasal 20 ayat (2) dapat memperkuat \nuraian kedudukan hukum tanpa dijadikan objek pengujian.",
+      "start_line": 632,
+      "end_line": 671
+    },
+    {
+      "heading": "l. Bahwa apabila frasa “kemampuan penyelenggara” dipahami sebag ai",
+      "slug": "l-bahwa-apabila-frasa-kemampuan-penyelenggara-dipahami-sebag-ai",
+      "text": "dasar yang dapat membatasi tingkat pelayanan sesuai dengan apa \nyang sanggup disediakan oleh masing-masing institusi, maka timb ul \nketidakseimbangan antara posisi penyelenggara dan penerima \npelayanan. Penyelenggara memperoleh keleluasaan untuk menentukan \nbatas pelayanan, sedangkan masyarakat tidak memiliki ukuran yan g \ncukup pasti untuk mengetahui kapan keterbatasan tersebut telah \nmelampaui batas yang dapat dibenarkan. Keadaan tersebut tidak \nsejalan dengan prinsip kepastian hukum yang adil karena hukum \nseharusnya memberikan pedoman yang dapat dipahami mengenai \nkewajiban pemerintah dan hak warga negara. Norma yang \nmemungkinkan dua penyelenggara menetapkan tingkat pelayanan \nberbeda hanya berdasarkan kemampuan internal tanpa batas minimum \nyang objektif berpotensi menciptakan ketidakpastian hukum. \n\n19",
+      "start_line": 673,
+      "end_line": 689
+    },
+    {
+      "heading": "m. Bahwa berdasarkan seluruh uraian tersebut, Pasal 20 ayat (1) U U",
+      "slug": "m-bahwa-berdasarkan-seluruh-uraian-tersebut-pasal-20-ayat-1-u-u",
+      "text": "Pelayanan Publik sepanjang frasa “kemampuan penyelenggara” \nbertentangan dengan Pasal 28D ayat (1) UUD NRI 1945 apabila fra sa \ntersebut dimaknai membolehkan keterbatasan pendanaan, pelaksana , \nsarana, prasarana, dan/atau fasilitas pelayanan digunakan sebag ai \nalasan untuk menetapkan standar pelayanan di bawah tingkat \npelayanan minimum yang secara objektif wajib dipenuhi berdasark an \nkebutuhan masyarakat dan hak ko nstitusional warga negara. \nPertentangan tersebut terletak pada tidak adanya batas normatif  yang \nmemadai antara pertimbangan kapasitas penyelenggara dan jaminan  \nkepastian mengenai hak masyarakat atas pelayanan yang layak. Ol eh \nkarena itu, diperlukan pemaknaan konstitusional yang memastikan  \nbahwa kemampuan penyelenggara hanya menjadi faktor dalam \nmenentukan mekanisme pemenuhan pelayanan, dan bukan dasar \nuntuk menurunkan hak masyarakat atas standar pelayanan minimum.",
+      "start_line": 691,
+      "end_line": 704
+    },
+    {
+      "heading": "2. PERTENTANGAN PASAL 20 AYAT (4) UU NOMOR 25 TAHUN 2009,",
+      "slug": "2-pertentangan-pasal-20-ayat-4-uu-nomor-25-tahun-2009",
+      "text": "FRASA “MEMPERHATIKAN KEBERAGAMAN”, DENGAN PASAL 28H \nAYAT (2) UUD NRI 1945 \na. Bahwa Pasal 20 ayat (4) Undang-Undang Nomor 25 Tahun 2009 tentang \nPelayanan Publik mengatur bahwa pengikutsertaan masyarakat dan \npihak terkait dalam penyusunan standar pelayanan dilakukan deng an \nprinsip tidak diskriminatif, terkait langsung dengan jenis pela yanan, \nmemiliki kompetensi, mengutamakan musyawarah, serta memperhatikan \nkeberagaman. Ketentuan tersebut pada dasarnya dimaksudkan untuk  \nmenjadikan penyusunan standar pelayanan sebagai proses yang \npartisipatif dan mencerminkan kepentingan masyarakat. Namun \ndemikian, persoalan konstitusional muncul karena norma tersebut  tidak \nmemberikan ukuran yang cukup mengenai bagaimana prinsip \nmemperhatikan keberagaman harus diwujudkan secara substantif ag ar \nsetiap kelompok masyarakat memperoleh kesempatan yang sama untuk \nmenyampaikan kepentingannya dalam proses penyusunan standar \npelayanan. \nb. Bahwa Pasal 28H ayat (2) UUD NRI 1945 menjamin bahwa setiap orang \nberhak mendapat kemudahan dan perlakuan khusus untuk memperoleh  \n\n20 \n \n \nkesempatan dan manfaat yang sama guna mencapai persamaan dan \nkeadilan. Norma konstitusional tersebut tidak hanya menghendaki  \npersamaan secara formal, tetapi juga membuka ruang bagi perlaku an \nyang memperhitungkan perbedaan keadaan agar setiap orang dapat \nmemperoleh kesempatan dan manfaat yang setara. Dengan demikian,  \nketika Undang-Undang Nomor 25 Tahun 2009 menggunakan prinsip \nkeberagaman dalam pengikutsertaan masyarakat, prinsip tersebut \nseharusnya mempunyai konsekuensi hukum berupa kewajiban \nmemastikan bahwa perbedaan kondisi dan kebutuhan masyarakat tid ak \nmenjadi alasan bagi sebagian kelompok untuk kehilangan kesempat an \nyang bermakna dalam menentukan standar pelayanan yang akan \nmemengaruhi hak dan kepentingannya.",
+      "start_line": 706,
+      "end_line": 739
+    },
+    {
+      "heading": "c. Bahwa letak pertentangan norma a quo dengan Pasal 28H ayat (2) UUD",
+      "slug": "c-bahwa-letak-pertentangan-norma-a-quo-dengan-pasal-28h-ayat-2-uud",
+      "text": "NRI 1945 bukan terletak pada pengakuan terhadap keberagaman itu  \nsendiri, melainkan pada tidak adanya parameter normatif yang \nmenjelaskan bagaimana keberagaman harus diwujudkan agar \nmenghasilkan kesempatan dan manfaat yang sama. Frasa \n“memperhatikan keberagaman” dapat dipahami secara berbeda oleh \nsetiap penyelenggara karena undang-undang tidak menentukan seca ra \ntegas apakah keberagaman hanya berarti menghadirkan berbagai unsur \nmasyarakat dalam forum konsultasi, atau harus diwujudkan melalu i \nketerwakilan kelompok masyarakat yang memiliki kebutuhan, hambatan, \ndan kepentingan yang berbeda. Ketidakjelasan tersebut menyebabk an \nprinsip keberagaman berpotensi berhenti sebagai persyaratan \nprosedural tanpa menjamin tercapainya persamaan dan keadilan secara \nsubstantif.",
+      "start_line": 741,
+      "end_line": 753
+    },
+    {
+      "heading": "d. Bahwa penyelenggaraan pelayanan publik pada kenyataannya",
+      "slug": "d-bahwa-penyelenggaraan-pelayanan-publik-pada-kenyataannya",
+      "text": "berhadapan dengan masyarakat y ang memiliki kondisi yang tidak \nseragam. Perbedaan tersebut dapat berupa kondisi sosial dan eko nomi, \nusia, lokasi tempat tinggal, kemampuan mengakses teknologi, kon disi \nfisik, kebutuhan pelayanan, tingkat kerentanan, maupun pengalam an \nlangsung sebagai pengguna pelayanan. Dalam keadaan demikian, \nmemperlakukan seluruh masyarakat dengan cara yang identik belum  \ntentu menghasilkan kesempatan dan manfaat yang sama. Sebaliknya , \n\n21 \n \n \npersamaan yang dijamin Pasal 28H ayat (2) UUD NRI 1945 menuntut  \nagar perbedaan yang relevan diperhitungkan sehingga kelompok ya ng \nmenghadapi hambatan tertentu tetap memperoleh kesempatan yang \nnyata dan manfaat yang setara. \ne. Bahwa Pasal 20 ayat (4) UU Pelayanan Publik telah menyebut p rinsip \n“tidak diskriminatif”, tetapi prinsip tersebut tidak dengan sen dirinya \nmenjamin tercapainya persamaan substantif sebagaimana dikehenda ki \nPasal 28H ayat (2) UUD NRI 1945. Tidak adanya diskriminasi seca ra \nformal dapat tetap menghasilkan ketidakadilan apabila mekanisme  \npartisipasi tidak mampu menjangkau masyarakat yang secara faktu al \nmenghadapi hambatan untuk berpartisipasi. Sebagai contoh, masyarakat \nyang memiliki keterbatasan ekonomi, keterbatasan akses teknolog i, \nketerbatasan mobilitas, tinggal di wilayah dengan akses pelayan an \nterbatas, atau mempunyai kebutuhan pelayanan tertentu dapat sec ara \nformal diperlakukan sama, tetapi secara nyata tidak memperoleh \nkesempatan yang sama untuk menyampaikan kebutuhan dan \nkepentingannya dalam penyusunan standar pelayanan. Karena itu, \nprinsip keberagaman harus dibaca sebagai kewajiban untuk mengat asi \nhambatan tersebut, bukan sekadar kewajiban mengakui adanya \nperbedaan. \nf. Bahwa hubungan tersebut semakin jelas apabila Pasal 20 ayat (4) dibaca \nbersama Pasal 20 ayat (2) UU Pelayanan Publik yang mewajibkan \npenyelenggara mengikutsertakan masyarakat dan pihak terkait dal am \npenyusunan dan penetapan standar pelayanan. Ketentuan ayat (2) tidak \nmenjadi objek pengujian dalam perkara a quo , tetapi relevan untuk \nmemahami tujuan partisipasi masyarakat dalam keseluruhan konstr uksi \nPasal 20. Ketika masyarakat ditempatkan sebagai pihak yang haru s \ndiikutsertakan dalam proses penyusunan standar pelayanan, maka \nkesempatan untuk berpartisipasi harus tersedia secara nyata dan  tidak \nboleh hanya dapat dimanfaatkan oleh kelompok masyarakat yang \nmemiliki sumber daya, akses, pengetahuan, atau posisi sosial te rtentu. \nPrinsip keberagaman seharusnya memastikan bahwa kelompok yang \nberbeda kondisi tetap mempunyai kesempatan untuk memberikan \nmasukan yang relevan terhadap standar pelayanan. \n\n22 \n \n \ng. Bahwa dalam perspektif Pasal 28H ayat (2) UUD NRI 1945, \nkeberagaman mempunyai hubungan erat dengan upaya mencapai \npersamaan dan keadilan. Apabila proses pengikutsertaan masyarak at \nhanya memberikan ruang yang sama secara formal tanpa \nmempertimbangkan adanya perbedaan kemampuan untuk mengakses \nproses tersebut, maka hasil partisipasi berpotensi lebih mencer minkan \nsuara kelompok yang mempunyai akses lebih besar. Keadaan demiki an \ndapat menciptakan ketimpangan dalam pembentukan standar pelayanan \nkarena kelompok masyarakat tertentu memperoleh kesempatan lebih  \nbesar untuk memengaruhi substansi standar, sedangkan kelompok yang \nmenghadapi hambatan justru tidak memperoleh manfaat yang \nsebanding. Dengan demikian, norma a quo membutuhkan pemaknaan \nyang memastikan bahwa keberagaman tidak sekadar diwujudkan dalam \nkomposisi peserta, tetapi juga menghasilkan keterlibatan yang bermakna \ndan berkeadilan. \nh. Bahwa persoalan tersebut mempunyai akibat langsung terhadap \nmasyarakat sebagai penerima pelayanan publik. Standar pelayanan  \nmenentukan berbagai aspek yang akan dirasakan secara konkret ol eh \nmasyarakat, antara lain persyaratan, prosedur, waktu penyelesai an, \nbiaya atau tarif, produk pelayanan, sarana dan prasarana, kompe tensi \npelaksana, jumlah pelaksana, jaminan pelayanan, keamanan, \nkeselamatan, serta evaluasi kinerja. Oleh karena itu, kelompok \nmasyarakat yang mempunyai pengalaman dan kebutuhan berbeda \nseharusnya memiliki kesempatan yang memadai untuk menyampaikan \nkeadaan tersebut dalam proses penyusunan standar. Apabila \nkeberagaman hanya dipahami sebagai formalitas partisipasi, kebu tuhan \nkelompok tertentu dapat tidak tercermin dalam standar yang akhi rnya \nberlaku bagi seluruh penerima pelayanan. Kondisi tersebut bertentangan \ndengan tujuan persamaan dan keadilan karena standar yang sama \nsecara formal belum tentu memberikan manfaat yang sama secara nyata.",
+      "start_line": 755,
+      "end_line": 833
+    },
+    {
+      "heading": "i. Bahwa keadaan faktual yang dialami Para Pemohon dalam memper oleh",
+      "slug": "i-bahwa-keadaan-faktual-yang-dialami-para-pemohon-dalam-memper-oleh",
+      "text": "pelayanan kesehatan memperlihatkan pentingnya pemaknaan tersebu t. \nPersoalan mengenai akses pemeriksaan lanjutan, mekanisme rujuka n, \nketerbatasan antrean, ketersediaan tenaga kesehatan, sarana, se rta \n\n23 \n \n \nkapasitas fasilitas pelayanan menunjukkan bahwa masyarakat dapa t \nmenghadapi hambatan yang berbeda dalam memperoleh pelayanan. \nDalam keadaan seperti itu, pengalaman penerima pelayanan mempunyai \nnilai penting dalam pembentukan standar pelayanan karena masyarakat \nmerupakan pihak yang secara langsung merasakan akibat dari stan dar \nyang ditetapkan. Apabila kelompok yang mengalami hambatan terse but \ntidak memperoleh kesempatan yang cukup untuk menyampaikan \nkebutuhan dan pengalamannya, maka proses partisipasi tidak \nsepenuhnya memenuhi tujuan persamaan dan keadilan sebagaimana \ndijamin Pasal 28H ayat (2) UUD NRI 1945. \nj. Bahwa berdasarkan seluruh uraian tersebut, Pasal 20 ayat (4)  Undang-\nUndang Nomor 25 Tahun 2009 tentang Pelayanan Publik bertentanga n \ndengan Pasal 28H ayat (2) UUD NRI 1945 apabila prinsip \n“memperhatikan keberagaman” dimaknai hanya sebagai kewajiban \nmempertimbangkan keberadaan berbagai unsur masyarakat secara \nformal tanpa memastikan bahwa masyarakat yang mempunyai \nkebutuhan, kondisi, hambatan, dan kepentingan yang berbeda \nmemperoleh kesempatan yang nyata dan bermakna untuk berpartisipasi \nserta memperoleh manfaat yang sama dalam penyusunan standar \npelayanan. Pemaknaan demikian diperlukan agar pengikutsertaan \nmasyarakat tidak berhenti pada kesamaan prosedural, melainkan benar-\nbenar diarahkan untuk mencapai persamaan dan keadilan substanti f. \nOleh karena itu, prinsip “memperhatikan keberagaman” harus dima knai \nsebagai kewajiban penyelenggara untuk memastikan keterwakilan d an \npartisipasi bermakna dari masyarakat sebagai pengguna pelayanan dan \nkelompok yang memiliki kebutuhan atau hambatan yang relevan dengan \njenis pelayanan yang sedang disusun standarnya.",
+      "start_line": 835,
+      "end_line": 868
+    },
+    {
+      "heading": "3. PERTENTANGAN PENJELASAN PASAL 20 AYAT (4) UU NOMOR 25",
+      "slug": "3-pertentangan-penjelasan-pasal-20-ayat-4-uu-nomor-25",
+      "text": "TAHUN 2009, KHUSUSNYA FRASA “ANTARA LAIN TOKOH \nMASYARAKAT, AKADEMISI, DUNIA USAHA, DAN LEMBAGA \nSWADAYA MASYARAKAT”, DENGAN PASAL 34 AYAT (3) UUD NRI \n1945 \na. Bahwa Penjelasan Pasal 20 ayat (4) UU Pelayanan Publik mener angkan \nbahwa keberagaman berupa pengikutsertaan masyarakat yang mewakili \n\n24 \n \n \nberbagai unsur dan profesi, “antara lain tokoh masyarakat, akad emisi, \ndunia usaha, dan lembaga swadaya masyarakat.” Penjelasan terseb ut \nberkaitan langsung dengan Pasal 20 ayat (4) yang mengatur prins ip \npengikutsertaan masyarakat dan pihak terkait dalam penyusunan standar \npelayanan. Para Pemohon mendalilkan bahwa ketentuan tersebut harus \ndiuji dalam hubungannya dengan Pasal 34 ayat (3) UUD NRI 1945 yang \nmenegaskan bahwa negara bertanggung jawab atas penyediaan fasilitas \npelayanan kesehatan dan fasilitas pelayanan umum yang layak. \nPersoalan konstitusionalnya terletak pada apakah konstruksi \nrepresentasi masyarakat dalam penjelasan tersebut telah memberi kan \njaminan yang memadai bahwa kepentingan penerima pelayanan, \nkhususnya pengguna langsung fasilitas kesehatan dan pelayanan umum, \nbenar-benar terwakili dalam proses penyusunan standar. \nb. Bahwa Pasal 34 ayat (3) UUD NRI 1945 menggunakan rumusan yan g \ntegas mengenai tanggung jawab negara. Kata “bertanggung jawab” \nmenunjukkan bahwa negara tidak hanya mempunyai kewenangan untuk \nmengatur pelayanan publik, tetapi juga mempunyai kewajiban \nmemastikan tersedianya fasilitas pelayanan kesehatan dan fasili tas \npelayanan umum yang layak. Oleh karena itu, setiap mekanisme \npembentukan standar pelayanan yang menjadi dasar operasional \npenyelenggara harus ditempatkan dalam kerangka tanggung jawab \ntersebut. Negara tidak dapat menyerahkan penentuan tingkat kelayakan \npelayanan semata-mata kepada kapasitas internal penyelenggara \nataupun kepada proses partisipasi yang tidak menjamin keterwaki lan \nkepentingan pengguna layanan.",
+      "start_line": 870,
+      "end_line": 904
+    },
+    {
+      "heading": "c. Bahwa penjelasan Pasal 20 ayat (4) pada dasarnya menyebut be berapa",
+      "slug": "c-bahwa-penjelasan-pasal-20-ayat-4-pada-dasarnya-menyebut-be-berapa",
+      "text": "unsur yang dapat mewakili masyarakat, yaitu tokoh masyarakat, \nakademisi, dunia usaha, dan lembaga swadaya masyarakat. \nPenggunaan kata “antara lain” menunjukkan bahwa daftar tersebut  \nbukan daftar tertutup. Akan tetapi, justru karena penjelasan te rsebut \ndigunakan sebagai pedoman memahami konsep keberagaman, \ndiperlukan kejelasan bahwa unsur yang mempunyai pengalaman dan \nkepentingan langsung sebagai penerima pelayanan juga harus dapa t \nterwakili secara substantif. Tanpa pemahaman demikian, proses \n\n25 \n \n \npartisipasi dapat menghasilkan representasi yang secara kelemba gaan \nterlihat beragam, tetapi belum tentu mencerminkan pengalaman \nmasyarakat yang menggunakan pelayanan secara langsung.",
+      "start_line": 906,
+      "end_line": 920
+    },
+    {
+      "heading": "d. Bahwa persoalan tersebut mempunyai arti penting dalam sektor",
+      "slug": "d-bahwa-persoalan-tersebut-mempunyai-arti-penting-dalam-sektor",
+      "text": "kesehatan. Pengguna fasilitas kesehatan mempunyai pengalaman \nlangsung mengenai prosedur pendaftaran, sistem antrean, pemeriksaan, \nrujukan, ketersediaan tenaga medis, penggunaan sarana, akses \ninformasi, serta hambatan administratif lainnya. Pengalaman ter sebut \nberbeda dari perspektif akademisi, pelaku usaha, tokoh masyarak at, \nataupun organisasi masyarakat sipil. Seluruh perspektif memang dapat \nmemberikan kontribusi, tetapi keberadaan mereka tidak secara otomatis \nmenjamin bahwa pengalaman penerima pelayanan akan masuk secara \nmemadai ke dalam standar. Padahal, Pasal 34 ayat (3) UUD NRI 19 45 \nmenuntut negara menyediakan fasilitas pelayanan kesehatan dan \npelayanan umum yang layak, sehingga ukuran kelayakan harus \nmempertimbangkan pengalaman nyata pengguna. \ne. Bahwa hubungan antara penjelasan norma a quo dengan Pasal 34 ayat \n(3) UUD NRI 1945 juga terlihat dari fungsi standar pelayanan. S tandar \npelayanan bukan sekadar dokumen administratif, melainkan instru men \nyang menentukan apa yang harus disediakan oleh penyelenggara da n \napa yang dapat dituntut oleh masyarakat. Karena itu, proses \npembentukannya harus menghasilkan ukuran yang objektif, transpa ran, \nterukur, dan berorientasi pada pemenuhan kebutuhan penerima \npelayanan. Apabila unsur yang berpartisipasi lebih banyak dipah ami \nberdasarkan kategori kelembagaan atau profesi tanpa penegasan \nmengenai keterwakilan pengguna layanan, terdapat risiko bahwa standar \nlebih merefleksikan perspektif penyelenggara dan kelompok peran tara \ndaripada kebutuhan konkret masyarakat. \nf. Bahwa hal tersebut tidak berarti bahwa tokoh masyarakat, aka demisi, \ndunia usaha, atau lembaga swadaya masyarakat tidak relevan. Keempat \nunsur tersebut dapat memiliki kompetensi dan pengalaman yang penting \ndalam memberikan masukan. Namun, keberadaan mereka tidak boleh \ndipahami sebagai pengganti kepentingan masyarakat penerima \npelayanan. Dalam perspektif hak konstitusional, masyarakat buka n \n\n26 \n \n \nsekadar objek yang dilayani, tetapi pemegang hak yang kepentingannya \nharus menjadi salah satu titik utama dalam menentukan standar \npelayanan. Oleh sebab itu, penjelasan Pasal 20 ayat (4) perlu d ibaca \nsedemikian rupa agar kategori representasi tersebut tidak memba tasi \natau menggeser keterwakilan penerima pelayanan secara langsung. \ng. Bahwa persoalan konstitusional dalam frasa “memperhatikan \nkeberagaman” bukan terletak pada kewajiban untuk melibatkan berbagai \nunsur masyarakat, melainkan pada tidak adanya pemaknaan yang \nmemastikan bahwa keberagaman tersebut diwujudkan melalui \nketerwakilan yang relevan dengan jenis pelayanan yang sedang disusun \nstandarnya. Keberagaman tidak seharusnya berhenti pada keberada an \nberbagai kategori peserta dalam suatu forum, tetapi harus memas tikan \nbahwa kelompok masyarakat yang secara langsung menggunakan dan \nmengalami dampak pelayanan mempunyai kesempatan yang nyata \nuntuk menyampaikan kebutuhan, pengalaman, dan hambatan yang \nmereka hadapi. \nh. Bahwa partisipasi masyarakat yang hanya dipenuhi secara form al belum \ntentu menghasilkan persamaan dan keadilan sebagaimana dimaksud \ndalam Pasal 28H ayat (2) UUD NRI 1945. Masyarakat yang memiliki  \nketerbatasan ekonomi, akses teknologi, mobilitas, kondisi fisik , lokasi \ngeografis, atau kebutuhan pelayanan tertentu dapat menghadapi \nhambatan yang berbeda dalam berpartisipasi. Oleh karena itu, pr insip \n“memperhatikan keberagaman” harus dimaknai sebagai kewajiban untuk \nmemastikan bahwa perbedaan kondisi tersebut diperhitungkan dala m \npenyusunan standar pelayanan sehingga kelompok yang mempunyai \nkebutuhan atau hambatan khusus tidak kehilangan kesempatan untu k \nmemengaruhi standar pelayanan yang secara langsung menentukan \npelayanan yang akan mereka terima.",
+      "start_line": 922,
+      "end_line": 983
+    },
+    {
+      "heading": "i. Bahwa dalam perkara a quo , Pemohon sebagai penerima pelayanan",
+      "slug": "i-bahwa-dalam-perkara-a-quo-pemohon-sebagai-penerima-pelayanan",
+      "text": "publik mempunyai kepentingan langsung terhadap substansi standa r \npelayanan. Pengalaman masyarakat sebagai pengguna pelayanan, \ntermasuk pengalaman mengenai antrean, rujukan, akses informasi,  \nketersediaan tenaga kesehatan, sarana pelayanan, dan hambatan \nadministratif, merupakan informasi yang relevan untuk memastika n \n\n27 \n \n \napakah suatu standar pelayanan benar-benar mencerminkan kebutuhan \nmasyarakat. Oleh karena itu, keterlibatan masyarakat pengguna \npelayanan tidak dapat dipandang hanya sebagai tambahan dari \nketerwakilan tokoh masyarakat, akademisi, dunia usaha, atau lem baga \nswadaya masyarakat, melainkan merupakan bagian dari makna \nkeberagaman yang harus dijamin secara substantif. \nj. Bahwa Pasal 20 ayat (2) UU Pelayanan Publik memperkuat posis i Para \nPemohon dalam perkara a quo  karena norma tersebut mewajibkan \npenyelenggara mengikutsertakan masyarakat dan pihak terkait dal am \npenyusunan dan penetapan standar pelayanan. Ayat tersebut tidak  \ndimohonkan untuk diuji, melainkan digunakan untuk menunjukkan \nadanya kepentingan hukum Para Pemohon dalam proses pembentukan \nstandar pelayanan. Ketika undang-undang memberikan ruang partisipasi \nkepada masyarakat, maka masyarakat sebagai pengguna pelayanan \nmempunyai kepentingan yang nyata agar mekanisme representasi ti dak \nberhenti pada keterlibatan kelompok tertentu, tetapi benar-benar mampu \nmembawa pengalaman pengguna ke dalam substansi standar \npelayanan. \nk. Bahwa dalam penyelenggaraan pelayanan kesehatan, kegagalan \nmenerjemahkan pengalaman pengguna ke dalam standar dapat \nberakibat serius. Pembatasan antrean, hambatan rujukan, keterba tasan \nfasilitas, ketidaktersediaan tenaga kesehatan, atau prosedur administratif \nyang tidak responsif dapat menjadi masalah yang berulang apabil a \nstandar pelayanan disusun tanpa memperoleh gambaran yang cukup \nmengenai kebutuhan pengguna. Dalam keadaan demikian, tanggung \njawab negara sebagaimana Pasal 34 ayat (3) UUD NRI 1945 tidak dapat \ndinilai hanya berdasarkan keberadaan fasilitas secara fisik, te tapi juga \nberdasarkan apakah fasilitas tersebut mampu memberikan pelayana n \nyang layak dan dapat diakses masyarakat sesuai kebutuhan yang \nrelevan.",
+      "start_line": 985,
+      "end_line": 1023
+    },
+    {
+      "heading": "l. Bahwa pertentangan substansi tersebut semakin terlihat apabi la",
+      "slug": "l-bahwa-pertentangan-substansi-tersebut-semakin-terlihat-apabi-la",
+      "text": "Penjelasan Pasal 20 ayat (4) dibaca secara bersamaan dengan Pasal 20 \nayat (1) UU Pelayanan Publik. Pasal 20 ayat (1) memungkinkan \nkemampuan penyelenggara menjadi pertimbangan dalam menetapkan \n\n28 \n \n \nstandar, sedangkan Pasal 20 ayat (4) mengatur bagaimana masyara kat \ndilibatkan dalam proses tersebut. Apabila representasi masyarakat tidak \ndiarahkan secara memadai untuk menghadirkan pengalaman penerima  \npelayanan, terdapat risiko bahwa keterbatasan kemampuan \npenyelenggara memperoleh legitimasi melalui proses partisipasi yang \nsecara formal telah dilakukan. Padahal, partisipasi seharusnya menjadi \nsarana untuk menguji apakah standar yang dirancang benar-benar \nmemenuhi kebutuhan masyarakat dan tanggung jawab negara atas \npelayanan yang layak.",
+      "start_line": 1025,
+      "end_line": 1040
+    },
+    {
+      "heading": "m. Bahwa berdasarkan seluruh uraian tersebut, Penjelasan Pasal 20 ayat",
+      "slug": "m-bahwa-berdasarkan-seluruh-uraian-tersebut-penjelasan-pasal-20-ayat",
+      "text": "(4) UU Pelayanan Publik sepanjang frasa “antara lain tokoh masyarakat, \nakademisi, dunia usaha, dan lembaga swadaya masyarakat” \nbertentangan dengan Pasal 34 ayat (3) UUD NRI 1945 apabila dimaknai \nmembatasi atau menempatkan representasi masyarakat pada kategor i \ntertentu sedemikian rupa sehingga kepentingan dan pengalaman \nlangsung penerima pelayanan tidak memperoleh keterwakilan substantif \ndalam penyusunan standar pelayanan. Pemaknaan yang demikian \nberpotensi melemahkan pelaksanaan tanggung jawab negara dalam \nmenjamin fasilitas pelayanan kesehatan dan fasilitas pelayanan umum \nyang layak. Oleh karena itu, frasa tersebut harus dipahami seba gai \ncontoh unsur masyarakat yang dapat dilibatkan dan tidak boleh m enjadi \nbatas yang mengesampingkan penerima pelayanan atau kelompok \nmasyarakat yang mempunyai kebutuhan langsung terhadap jenis \npelayanan yang sedang disusun. \nIV. PETITUM  \nBahwa dari seluruh dalil-dalil yang diuraikan di atas dan bukti -bukti terlampir, \ndengan ini  Para Pemohon memohon kepada Yang Mulia Majelis Hakim \nMahkamah Konstitusi untuk kiranya memberikan putusan sebagai berikut:",
+      "start_line": 1042,
+      "end_line": 1059
+    },
+    {
+      "heading": "2. Menyatakan frasa “kemampuan penyelenggara” dalam Pasal 20 ay at (1)",
+      "slug": "2-menyatakan-frasa-kemampuan-penyelenggara-dalam-pasal-20-ay-at-1",
+      "text": "Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik \n(Lembaran Negara Republik Indonesia Tahun 2009 Nomor 112, Tambahan \nLembaran Negara Republik Indonesia Nomor 5038) bertentangan den gan \n\n29 \n \n \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan ti dak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang ti dak \ndimaknai bahwa “kemampuan penyelenggara hanya dapat dipergunaka n \nsebagai pertimbangan dalam menentukan cara, mekanisme, tahapan, dan \ndukungan penyelenggaraan pelayanan, serta tidak dapat dijadikan  dasar \nuntuk menetapkan, mengurangi, membatasi, menunda, atau meniadak an \ntingkat pelayanan minimum yang layak dan wajib dipenuhi berdasa rkan \nkebutuhan masyarakat serta hak konstitusional warga negara”;",
+      "start_line": 1062,
+      "end_line": 1076
+    },
+    {
+      "heading": "3. Menyatakan frasa “memperhatikan keberagaman” dalam Pasal 20 ayat (4)",
+      "slug": "3-menyatakan-frasa-memperhatikan-keberagaman-dalam-pasal-20-ayat-4",
+      "text": "Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik \n(Lembaran Negara Republik Indonesia Tahun 2009 Nomor 112, Tambahan \nLembaran Negara Republik Indonesia Nomor 5038) bertentangan den gan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan ti dak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang ti dak \ndimaknai bahwa “memperhatikan keberagaman dalam pengikutsertaan  \nmasyarakat dan pihak terkait wajib diwujudkan secara substantif  d a n  \nbermakna dengan memastikan keterwakilan masyarakat sebagai \npengguna pelayanan dan/atau masyarakat yang terdampak langsung oleh \njenis pelayanan yang bersangkutan, termasuk kelompok masyarakat  yang \nmemiliki kebutuhan pelayanan yang berbeda, guna menjamin kesemp atan \ndan manfaat yang sama serta persamaan dan keadilan dalam memperoleh \npelayanan publik”;",
+      "start_line": 1078,
+      "end_line": 1090
+    },
+    {
+      "heading": "4. Menyatakan Penjelasan Pasal 20 ayat (4) Undang-Undang Nomor 25",
+      "slug": "4-menyatakan-penjelasan-pasal-20-ayat-4-undang-undang-nomor-25",
+      "text": "Tahun 2009 tentang Pelayanan Publik (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 112, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5038) bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuat an \nhukum mengikat secara bersyarat sepanjang tidak dimaknai bahwa \n“keberagaman berupa pengikutsertaan masyarakat yang mewakili berbagai \nunsur dan profesi, antara lain tokoh masyarakat, akademisi, dun ia usaha, \ndan lembaga swadaya masyarakat, tidak membatasi keterwakilan \nmasyarakat sebagai pengguna pelayanan dan/atau masyarakat yang \nterdampak langsung oleh jenis pelayanan yang bersangkutan dalam  \npenyusunan dan penetapan standar pelayanan, sehingga kepentingan dan \n\n30 \n \n \nkebutuhan masyarakat dapat terwakili secara substantif dalam ra ngka \nmenjamin penyediaan fasilitas pelayanan kesehatan dan fasilitas  \npelayanan umum yang layak”;",
+      "start_line": 1092,
+      "end_line": 1109
+    },
+    {
+      "heading": "5. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "5-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya.  \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain  mohon \nputusan yang seadil-adilnya (ex aequo et bono).  \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon  telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 1 3 ,  \nsebagai berikut:",
+      "start_line": 1111,
+      "end_line": 1116
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 25 Tahun 2009 tent ang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-25-tahun-2009-tent-ang",
+      "text": "Pelayanan Publik;",
+      "start_line": 1118,
+      "end_line": 1118
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945;",
+      "start_line": 1120,
+      "end_line": 1120
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama D ona",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-d-ona",
+      "text": "Andita Martiasari;",
+      "start_line": 1122,
+      "end_line": 1122
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama A trid",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-a-trid",
+      "text": "Dayani;",
+      "start_line": 1124,
+      "end_line": 1124
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama I ndah",
+      "slug": "5-bukti-p-5-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-i-ndah",
+      "text": "Pitasari Handayani;",
+      "start_line": 1126,
+      "end_line": 1126
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama R ian",
+      "slug": "6-bukti-p-6-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-r-ian",
+      "text": "Permana Putra;",
+      "start_line": 1128,
+      "end_line": 1128
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama M arsya",
+      "slug": "7-bukti-p-7-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-m-arsya",
+      "text": "Zachra Ricardo;",
+      "start_line": 1130,
+      "end_line": 1130
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama D anu",
+      "slug": "8-bukti-p-8-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-d-anu",
+      "text": "Purdianto;",
+      "start_line": 1132,
+      "end_line": 1132
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Kartu Kepesertaan BPJS Kesehatan Para",
+      "slug": "9-bukti-p-9-fotokopi-kartu-kepesertaan-bpjs-kesehatan-para",
+      "text": "Pemohon;",
+      "start_line": 1134,
+      "end_line": 1134
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Surat Tanda Registrasi (STR) Tenaga Kesehatan",
+      "slug": "10-bukti-p-10-fotokopi-surat-tanda-registrasi-str-tenaga-kesehatan",
+      "text": "atas nama Dona Andita Martasari sebagai Bidan Vokasi \nLevel 5;",
+      "start_line": 1136,
+      "end_line": 1137
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Daftar antrean/pemeriksaan pasien pa da fasilitas",
+      "slug": "11-bukti-p-11-fotokopi-daftar-antrean-pemeriksaan-pasien-pa-da-fasilitas",
+      "text": "pelayanan kesehatan melalui sistem Mobile JKN dan Kios \nAntrol tanggal 11 Agustus 2026;",
+      "start_line": 1139,
+      "end_line": 1140
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Dokumen pelayanan kesehatan dan admi nistrasi",
+      "slug": "12-bukti-p-12-fotokopi-dokumen-pelayanan-kesehatan-dan-admi-nistrasi",
+      "text": "rujukan pasien BPJS Kesehatan, yang terdiri atas surat \n\n31 \n \n \nrujukan FKTP, surat rujukan, hasil pemeriksaan \nlaboratorium, serta komunikasi terkait proses rujukan \npasien;",
+      "start_line": 1142,
+      "end_line": 1149
+    },
+    {
+      "heading": "13. Bukti P-13 : Data dan catatan pelayanan kesehatan yang mem uat",
+      "slug": "13-bukti-p-13-data-dan-catatan-pelayanan-kesehatan-yang-mem-uat",
+      "text": "jumlah kunjungan sehat dan sakit, kunjungan gigi, \npelayanan spesialistik, rujukan, serta ketersediaan dan \njumlah tenaga kesehatan berdasarkan jenis pelayanan; \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1151,
+      "end_line": 1156
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 20 ayat (1) dan ayat (4) \nserta Penjelasan Pasal 20 ayat (4) Undang-Undang Nomor 25 Tahun 2009 tentang \nPelayanan Publik (Lembaran Negara Republik Indonesia Tahun 2009  Nomor 112, \nTambahan Lembaran Negara Republik Indonesia Nomor 5038, selanjutnya disebut \ndengan UU 25/2009) terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang \nmengadili permohonan a quo. \n\n32 \n \n \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1158,
+      "end_line": 1192
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007, serta putusan-putusan selanjutnya berpendirian bahwa kerugian \nhak dan/atau kewenangan konstitusional sebagaimana dimaksud dal am Pasal 51 \nayat (1) UU MK harus memenuhi lima syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian; \n\n33",
+      "start_line": 1195,
+      "end_line": 1217
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1219,
+      "end_line": 1220
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon I sampai dengan \nPemohon VI sebagai berikut:",
+      "start_line": 1222,
+      "end_line": 1229
+    },
+    {
+      "heading": "1. Bahwa Pemohon I sampai dengan Pemohon VI mengajukan pengujia n",
+      "slug": "1-bahwa-pemohon-i-sampai-dengan-pemohon-vi-mengajukan-pengujia-n",
+      "text": "konstitusionalitas norma Pasal 20 ayat (1) dan ayat (4), serta Penjelasan Pasal \n20 ayat (4) UU 25/2009 yang masing-masing menyatakan sebagai berikut: \nPasal 20 ayat (1) UU 25/2009 \nPenyelenggara berkewajiban menyusun dan menetapkan standar \npelayanan dengan memperhatikan kemampuan penyelenggara, \nkebutuhan masyarakat, dan kondisi lingkungan.  \nPasal 20 ayat (4) UU 25/2009 \nPengikutsertaan masyarakat dan pihak terkait sebagaimana dimaks ud \npada ayat (2) dilakukan dengan prinsip tidak diskriminatif, terkait langsung \ndengan jenis pelayanan, memiliki kompetensi dan mengutamakan \nmusyawarah, serta memperhatikan keberagaman. \n \nPenjelasan Pasal 20 ayat (4) UU 25/2009 \nKeberagaman berupa pengikutsertaan masyarakat yang mewakili \nberbagai unsur dan profesi, antara lain tokoh masyarakat, akade misi, \ndunia usaha, dan lembaga swadaya masyarakat.",
+      "start_line": 1231,
+      "end_line": 1246
+    },
+    {
+      "heading": "2. Bahwa Pemohon I sampai dengan Pemohon VI menerangkan memilik i hak",
+      "slug": "2-bahwa-pemohon-i-sampai-dengan-pemohon-vi-menerangkan-memilik-i-hak",
+      "text": "konstitusional sebagaimana dijamin antara lain dalam Pasal 28D ayat (1), Pasal \n28H ayat (2), dan Pasal 34 ayat (3) UUD NRI Tahun 1945.",
+      "start_line": 1248,
+      "end_line": 1249
+    },
+    {
+      "heading": "3. Bahwa Pemohon I sampai dengan Pemohon VI adalah perseorangan w ar g a",
+      "slug": "3-bahwa-pemohon-i-sampai-dengan-pemohon-vi-adalah-perseorangan-w-ar-g-a",
+      "text": "negara Indonesia yang dibuktikan dengan kartu tanda penduduk [vide Bukti P-3 \nsampai dengan Bukti P-8] yang terdaftar sebagai peserta program  BPJS \nKesehatan [vide Bukti P-9].  \n\n34",
+      "start_line": 1251,
+      "end_line": 1257
+    },
+    {
+      "heading": "4. Bahwa Pemohon I menguraikan telah mengalami kerugian konstit usional secara",
+      "slug": "4-bahwa-pemohon-i-menguraikan-telah-mengalami-kerugian-konstit-usional-secara",
+      "text": "nyata dan aktual berupa tidak diperolehnya pelayanan kesehatan yang layak \nsesuai dengan kebutuhan medisnya. Dalam hal ini, pada saat pemeriksaan awal \natas gejala telinga berdenging (tinnitus) dan penurunan daya de ngar setelah \nmengalami komplikasi akibat infeksi parotitis (gondongan) di Fa silitas \nKesehatan (Faskes) tingkat pertama, Pemohon I tidak memperoleh rujukan \nuntuk pemeriksaan lebih lanjut kepada dokter spesialis, melaink an hanya \nmemperoleh terapi obat-obatan simptomatik. Oleh karena keterbat asan \nkemampuan ekonomi, akses Pemohon I terhadap pelayanan kesehatan sangat \nbergantung pada pelayanan yang diberikan melalui sistem pelayan an \nkesehatan yang diselenggarakan oleh negara dan penyelenggara ja minan \nkesehatan.",
+      "start_line": 1259,
+      "end_line": 1269
+    },
+    {
+      "heading": "5. Bahwa menurut Pemohon I, keterlambatan tersebut kemudian men yebabkan",
+      "slug": "5-bahwa-menurut-pemohon-i-keterlambatan-tersebut-kemudian-men-yebabkan",
+      "text": "Pemohon I dapat memperoleh pemeriksaan secara lebih menyeluruh oleh \ndokter spesialis Telinga, Hidung, dan Tenggorokan (THT) setelah  kondisi \nkesehatannya mengalami perkembangan lebih lanjut. Berdasarkan \npemeriksaan dan diagnosis dokter, Pemohon I mengalami kerusakan  \npendengaran permanen pada telinga sebelah kiri yang menurut has il \npemeriksaan medis tidak dapat dipulihkan secara optimal melalui  penggunaan \nalat bantu dengar maupun tindakan operatif. Kerugian tersebut d ibuktikan \ndengan dokumen rekam medis, hasil pemeriksaan dokter spesialis,  dan hasil \naudiogram Pemohon I [vide Bukti P-14]. Dengan demikian, kerugia n yang \ndialami Pemohon I bukan semata-mata kekhawatiran terhadap kemun gkinan \nburuknya pelayanan kesehatan, melainkan kerugian aktual yang te lah terjadi \ndan memiliki konsekuensi permanen terhadap kualitas hidup Pemohon I.",
+      "start_line": 1271,
+      "end_line": 1282
+    },
+    {
+      "heading": "6. Bahwa Pemohon II adalah Warga Negara Indonesia dan peserta B PJS",
+      "slug": "6-bahwa-pemohon-ii-adalah-warga-negara-indonesia-dan-peserta-b-pjs",
+      "text": "Kesehatan yang mengalami kerugian konstitusional secara aktual dalam \nmemperoleh pelayanan kesehatan sesuai dengan kebutuhan medisnya . Pada \nsaat Pemohon II mengalami sakit dan berdasarkan kondisi kesehat annya \nmembutuhkan pemeriksaan lebih lanjut di rumah sakit, Faskes tin gkat pertama \ntidak menerbitkan surat rujukan dan hanya memberikan obat penur un demam. \nkeadaan tersebut menunjukkan adanya persoalan dalam penyelengga raan \npelayanan kesehatan ketika kebutuhan masyarakat atas pelayanan lanjutan \nberhadapan dengan kapasitas pelayanan yang tersedia pada penyel enggara. \n\n35 \n \n \nDalam kondisi demikian, Pemohon II menghadapi hambatan dalam memperoleh \npelayanan yang dibutuhkannya.",
+      "start_line": 1284,
+      "end_line": 1297
+    },
+    {
+      "heading": "7. Bahwa Pemohon III adalah Warga Negara Indonesia yang berprof esi sebagai",
+      "slug": "7-bahwa-pemohon-iii-adalah-warga-negara-indonesia-yang-berprof-esi-sebagai",
+      "text": "tenaga kesehatan [vide Bukti P-10] dan dalam menjalankan profes inya \nberhadapan langsung dengan penyelenggaraan pelayanan kesehatan kepada \nmasyarakat. Pemohon III mempunyai kepentingan konstitusional yang berkaitan \ndengan kepastian standar pelayanan yang harus dipenuhi ketika k apasitas \npenyelenggara tidak memadai untuk memenuhi kebutuhan pasien. Ba hwa \n“kemampuan penyelenggara” dalam praktik dapat menjadi faktor ya ng \nmemengaruhi tingkat pelayanan yang diterima pasien. Persoalan konstitusional \ntimbul ketika faktor tersebut tidak ditempatkan dalam batas yang jelas sehingga \nketerbatasan penyelenggara berpotensi menjadi alasan untuk mene ntukan \ntingkat pelayanan yang berada di bawah pelayanan yang layak ber dasarkan \nkebutuhan masyarakat [vide Bukti P-11 sampai dengan Bukti P-13] . Keadaan \ntersebut juga menimbulkan ketidakpastian hukum bagi Pemohon III  sebagai \ntenaga kesehatan karena Pemohon III berada pada posisi harus me menuhi \nkebutuhan medis pasien, tetapi pada saat yang sama harus bekerja dalam batas \nkapasitas fasilitas pelayanan yang tersedia. Ketidakjelasan men genai batas \nantara keterbatasan penyelenggara dan kewajiban memberikan pela yanan \nyang layak pada akhirnya berpotensi menempatkan tenaga kesehata n sebagai \npihak yang berhadapan langsung dengan konsekuensi dari keterbatasan sistem \npelayanan.",
+      "start_line": 1299,
+      "end_line": 1317
+    },
+    {
+      "heading": "8. Bahwa Pemohon IV, Pemohon V, dan Pemohon VI adalah Warga Neg ara",
+      "slug": "8-bahwa-pemohon-iv-pemohon-v-dan-pemohon-vi-adalah-warga-neg-ara",
+      "text": "Indonesia serta peserta BPJS Kesehatan [Vide Bukti P-8] yang me miliki \nkepentingan konstitusional dan kerugian konstitusional yang ber sifat potensial \ndan aktual apabila norma a quo tetap memberikan ruang bagi standar pelayanan \nditentukan berdasarkan kemampuan penyelenggara tanpa batas pela yanan \nminimum yang jelas.",
+      "start_line": 1319,
+      "end_line": 1323
+    },
+    {
+      "heading": "9. Bahwa sebagai peserta BPJS Kesehatan, Pemohon IV, Pemohon V, dan",
+      "slug": "9-bahwa-sebagai-peserta-bpjs-kesehatan-pemohon-iv-pemohon-v-dan",
+      "text": "Pemohon VI bergantung pada tersedianya fasilitas pelayanan kese hatan yang \nmampu memenuhi kebutuhan pelayanan sesuai dengan standar yang l ayak. \nSelama frasa “kemampuan penyelenggara” tidak dibatasi secara konstitusional, \nPara Pemohon tetap menghadapi risiko mengalami penundaan pelaya nan, \nketerbatasan akses terhadap pemeriksaan lanjutan, keterbatasan sarana \n\n36 \n \n \npelayanan, maupun persoalan rujukan yang timbul karena keterbatasan sumber \ndaya penyelenggara.",
+      "start_line": 1325,
+      "end_line": 1335
+    },
+    {
+      "heading": "10. Bahwa menurut Pemohon I sampai dengan Pemohon VI terdapat h ubungan",
+      "slug": "10-bahwa-menurut-pemohon-i-sampai-dengan-pemohon-vi-terdapat-h-ubungan",
+      "text": "sebab-akibat (causal verband) antara berlakunya Pasal 20 ayat (1) sepanjang \nfrasa “kemampuan penyelenggara”, Pasal 20 ayat (4) sepanjang fr asa \n“memperhatikan keberagaman”, serta Penjelasan Pasal 20 ayat (4)  dengan \nkerugian konstitusional Para Pemohon. Frasa “kemampuan penyelen ggara” \nmemberikan dasar normatif untuk mempertimbangkan kemampuan \npenyelenggara, termasuk pendanaan, sumber daya manusia, sarana,  \nprasarana, dan fasilitas pelayanan, dalam menyusun dan menetapk an standar \npelayanan. Sementara itu, Pasal 20 ayat (4) dan Penjelasannya b erkaitan \ndengan bagaimana masyarakat dan pihak terkait dilibatkan serta bagaimana \nkeberagaman masyarakat direpresentasikan dalam proses tersebut. \nBerdasarkan seluruh uraian dalam menjelaskan kedudukan hukum  \ntersebut di atas, menurut Mahkamah Pemohon I sampai dengan Pemohon VI telah \nmembuktikan kualifikasinya sebagai perseorangan warga negara In donesia [vide \nBukti P-3 sampai dengan Bukti P-8] yang menjelaskan memiliki ha k konstitusional \nsebagaimana dijamin antara lain dalam Pasal 28D ayat (1), Pasal 28H ayat (1), dan \nPasal 34 ayat (3) UUD NRI Tahun 1945. Dalam uraiannya, Pemohon I sampai \ndengan Pemohon VI juga telah menguraikan dan membuktikan sebaga i Peserta \nProgram BPJS Kesehatan [vide Bukti P-9]. Dalam hal ini, norma p asal yang \ndimohonkan untuk diuji adalah norma Pasal 20 ayat (1) dan ayat (4) beserta \nPenjelasan Pasal 20 ayat (4) UU 25/2009 yang pada pokoknya meru pakan norma \nyang mengatur mengenai kewajiban penyelenggara pelayanan publik  d a l a m  \nmenetapkan standar pelayanan. Berkenaan dengan hal tersebut, Pe mohon I dan \nPemohon II dalam menguraikan anggapan kerugian konstitusionalnya yang bersifat \naktual didasarkan pada kasus yang secara faktual dialami,  di mana Pemohon I dan \nPemohon II sebagai peserta BPJS Kesehatan merasa tidak mendapat kan \npelayanan publik berupa tidak diperolehnya pelayanan kesehatan yang layak sesuai \ndengan kebutuhan medis yang diakibatkan tidak memperoleh rujuka n untuk \npemeriksaan lebih lanjut kepada dokter spesialis melainkan hany a memperoleh \nterapi obat-obatan simptomatik yang kemudian berdampak terhadap  turunnya \nkondisi kesehatan Pemohon I dan Pemohon II. Bahkan dalam uraiannya, Pemohon \nI menjelaskan dirinya mengalami kerusakan pendengaran permanen pada telinga \n\n37 \n \n \nsebelah kiri yang menurut hasil pemeriksaan medis tidak dapat d ipulihkan secara \noptimal melalui penggunaan alat bantu dengar maupun tindakan op eratif. Namun, \ndalam menjelaskan anggapan kerugian hak konstitusional tersebut, Pemohon I dan \nPemohon II hanya menyertakan bukti berupa kartu anggota kepeser taan BPJS \nKesehatan, tanpa menyertakan bukti berkaitan dengan adanya peri stiwa yang \nmembuktikan bahwa Pemohon I dan Pemohon II hak konstitusionalny a secara \naktual dianggap dirugikan karena berlakunya frasa “kemampuan pe nyelenggara” \ndalam norma Pasal 20 ayat (1) UU 25/2009, dan frasa “memperhati kan \nkeberagaman”, dalam norma Pasal 20 ayat (4) UU 25/2009 beserta Penjelasannya \nyang dimohonkan pengujian. Dalam kaitan ini, Pemohon I yang di dalam \nmenjelaskan adanya anggapan kerugian dikarenakan tidak terdapat nya parameter \nyang jelas atas frasa “kemampuan penyelenggara” dalam norma Pas al 20 ayat (1) \nUU 25/2009 juga merujuk kepada Bukti P-14, namun setelah Mahkam ah \nmencermati dengan saksama ternyata bukti yang dimaksudkan tidak  d i s e r t a k a n  \nsebagai bagian dari alat bukti meskipun telah dicantumkan dalam daftar alat bukti.   \n Bahwa lebih lanjut, berkaitan dengan anggapan kerugian \nkonstitusionalnya, Pemohon III menguraikan anggapan kerugian ya ng bersifat \nakutal dalam bentuk ketidakpastian hukum dalam pelaksanaan tuga snya sebagai \ntenaga kesehatan, yang menurut Pemohon III diakibatkan tidak ad anya standar \npelayanan fasilitas kesehatan yang memadai di tempat Pemohon II I tersebut \nbertugas. Setelah Mahkamah mencermati bukti-bukti yang ada, telah ternyata tidak \nditemukan adanya bukti yang bersifat khusus berkenaan dengan an ggapan \nkerugian hak konstitusional yang dialami Pemohon III dimaksud dengan berlakunya \nnorma undang-undang yang dimohonkan pengujian. Dalam hal ini, b ukti yang \ndiajukan berkaitan dengan Pemohon III berupa daftar antrean pem eriksaan pasien \npada fasilitas pelayanan kesehatan [vide Bukti P-11], dokumen p elayanan \nkesehatan dan administrasi rujukan pasien BPJS Kesehatan [vide Bukti P-12], dan \ndata catatan pelayanan kesehatan [vide Bukti P-13] tidak dapat meyakinkan \nMahkamah bahwa hal tersebut membuktikan mengenai adanya ketidak pastian \nhukum dalam penyelenggaraan pelayanan publik, khususnya sebagai  akibat dari \nberlakunya frasa “kemampuan penyelenggara” pada norma Pasal 20 ayat (1) dan \nfrasa “memperhatikan keberagaman” pada norma Pasal 20 ayat (4) UU 25/2009 \nbeserta Penjelasannya. \n\n38 \n \n \nOleh karena itu,  terhadap anggapan kerugian hak konstitusional   aktual \nsebagaimana diuraikan oleh Pemohon I, Pemohon II, dan Pemohon I II dimaksud, \nMahkamah tidak mendapatkan  bukti yang meyakinkan mengenai adanya hubungan \nsebab-akibat (causal verband)  antara anggapan kerugian yang dimaksudkan \ndengan berlakunya norma yang dimohonkan pengujian. Dalam hal in i, uraian dan \nbukti yang membuktikan Pemohon I dan Pemohon II sebagai Peserta  BPJS \nKesehatan tidak serta merta dapat membuktikan bahwa Pemohon I d an Pemohon \nII telah mengalami kerugian karena tidak didapatkannya pelayana n publik yang \nmemadai yang diakibatkan berlakunya norma pasal yang dimohonkan  pengujian. \nSebab, jikapun terdapat bukti yang menunjukkan adanya penurunan  k o n d i s i  \nkesehatan yang dialami Pemohon I dan Pemohon II dalam suatu pelayanan publik, \nquod non, hal tersebut masih harus dibuktikan keterkaitannya dengan ber lakunya \nstandar pelayanan publik sebagai akibat penerapan frasa “kemamp uan \npenyelenggara” pada norma Pasal 20 ayat (1) dan “memperhatikan keberagaman” \npada norma Pasal 20 ayat (4) UU 25/2009 beserta Penjelasannya. Demikian pula \nterhadap Pemohon III, yang menjelaskan sebagai tenaga kesehatan , anggapan \nadanya ketidakpastian hukum yang dialami akibat suatu sistem pe layanan publik \npada fasilitas kesehatan juga tidak serta merta dapat dikaitkan  dengan akibat \nberlakunya norma pasal yang dimohonkan pengujian. Dalam hal ini , bukti yang \ndiajukan berkaitan dengan anggapan kerugian aktual Pemohon I, P emohon II, dan \nPemohon III tidak dapat meyakinkan Mahkamah bahwa hal tersebut dapat \nmembuktikan peristiwa yang dialami berkorelasi dengan berlakuny a norma pasal \nyang dimohonkan pengujian. \nSementara itu, berkenaan dengan anggapan kerugian potensial yan g \ndiuraikan Pemohon IV, Pemohon V, dan Pemohon VI, tidak terdapat uraian maupun \nbukti yang dapat meyakinkan Mahkamah bahwa anggapan kerugian po tensial \ntersebut merupakan anggapan yang dalam batas penalaran yang waj ar dapat \ndipastikan terjadi karena berlakunya norma pasal yang dimohonka n pengujian. \nSebab, setelah dicermati uraian ihwal kedudukan hukum Pemohon IV, Pemohon V, \ndan Pemohon VI hanya mengajukan bukti sebagai peserta BPJS Kese hatan dan \ntidak didukung dengan bukti lain. Oleh karena itu, berdasarkan uraian fakta hukum \ntersebut di atas, Pemohon I sampai dengan Pemohon VI berkenaan dengan \nkedudukan hukum a quo dalam kualifikasinya sebagai perseorangan warga negara \nIndonesia tidak dapat membuktikan adanya hubungan sebab-akibat (causal \n\n39 \n \n \nverband) antara anggapan kerugian hak konstitusional, baik secara aktua l maupun \npotensial dengan berlakunya norma yang dimohonkan pengujian, kh ususnya pada \nfrasa “kemampuan penyelenggara” dalam norma Pasal 20 ayat (1) d an frasa \n“memperhatikan keberagaman” dalam norma Pasal 20 ayat (4) UU 25/2009 beserta \nPenjelasan Pasal 20 ayat (4) UU 25/2009. Syarat adanya anggapan  kerugian hak \nkonstitusional memiliki hubungan sebab-akibat dengan berlakunya  norma yang \ndimohonkan pengujian merupakan salah satu syarat esensial untuk  terpenuhinya \nsyarat-syarat agar pemohon memiliki kedudukan hukum dalam menga jukan \npermohonan pengujian undang-undang di Mahkamah. \n Berkenaan dengan hal tersebut, mengingat syarat-syarat anggapa n \nkerugian hak konstitusional sebagaimana dikehendaki dalam Putus an Mahkamah \nKonstitusi Nomor 006/PUU-III/2005 dan Putusan Mahkamah Konstitu si Nomor \n11/PUU-V/2007 serta putusan-putusan selanjutnya, bersifat kumulatif, maka dengan \ntidak terpenuhi salah satu syarat dimaksud dengan sendirinya ti dak terpenuhi \nseluruh syarat yang dikehendaki dan oleh karenanya tidak ada re levansinya lagi \nmempertimbangkan syarat selebihnya. Dengan demikian, tidak terd apat keraguan \nbagi Mahkamah untuk menyatakan bahwa Pemohon I sampai dengan Pemohon VI \ntidak memiliki kedudukan hukum untuk bertindak sebagai pemohon dalam \nmengajukan permohonan a quo. \n Berdasarkan pertimbangan hukum tersebut di atas, Mahkamah \nberkesimpulan Pemohon I sampai dengan Pemohon VI (selanjutnya d isebut para \nPemohon) tidak memiliki kedudukan hukum untuk bertindak sebagai  pemohon \ndalam mengajukan permohonan a quo. \n[3.6] Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan a quo, namun oleh karena para Pemohon tidak memiliki kedudukan \nhukum untuk mengajukan permohonan a quo  maka Mahkamah tidak \nmempertimbangkan lebih lanjut permohonan para Pemohon. \n[3.7] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya. \n \n\n40",
+      "start_line": 1337,
+      "end_line": 1480
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Ma hkamah \nberkesimpulan:  \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Para Pemohon tidak memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Permohonan para Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1482,
+      "end_line": 1496
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan para Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masi ng sebagai \nAnggota, pada hari Rabu, tanggal sembilan, bulan September, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Rabu, tanggal enam belas, bulan September, tahun dua \nribu dua puluh enam, selesai diucapkan pukul  14.28 WIB , oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Sald i Isra, Daniel \nYusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Ma nsyur, Arsul \nSani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing seb agai Anggota, \n\n41 \n \n \ndengan dibantu oleh Ery Satria Pamungkas sebagai Panitera Pengg anti, serta \ndihadiri oleh Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden atau yang \nmewakili, tanpa dihadiri para Pemohon dan/atau kuasanya. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah \nttd. \nEnny Nurbaningsih \nttd. \nRidwan Mansyur \n ttd. \nArsul Sani \nttd. \nAdies Kadir \n ttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nEry Satria Pamungkas",
+      "start_line": 1498,
+      "end_line": 1543
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Indah Pitasari Handayani",
+        "role": "Pemohon 1",
+        "description": null
+      },
+      {
+        "name": "Atrid Dayani",
+        "role": "Pemohon 2",
+        "description": null
+      },
+      {
+        "name": "Dona Andita Martiasari",
+        "role": "Pemohon 3",
+        "description": null
+      },
+      {
+        "name": "Rian Permana Putra",
+        "role": "Pemohon 4",
+        "description": null
+      },
+      {
+        "name": "Marsya Zachra Ricardo",
+        "role": "Pemohon 5",
+        "description": null
+      },
+      {
+        "name": "Danu Purdianto",
+        "role": "Pemohon 6",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pihak Terkait",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 34 ayat (3)",
+      "Pasal 28H ayat (2)",
+      "PASAL 34 AYAT (3)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)",
+      "Pasal 4 ayat (2)"
+    ],
+    "evidence": [
+      "BUKTI P-14",
+      "BUKTI P-12",
+      "BUKTI P-13",
+      "BUKTI P-8",
+      "BUKTI P-1",
+      "BUKTI P-3",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-2",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "REFERENSI:305/PUU-XXIV/2026",
+      "REFERENSI:305/PUU/PAN.MK/AP3/08/2026",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "membutuhkan pemeriksaan dan penanganan lebih lanjut sebelum",
+    "pemeriksaan lanjutan, keterbatasan sarana pelayanan, maupun",
+    "rujukan FKTP, surat rujukan, hasil pemeriksaan"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Ery Satria Pamungkas"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "305/PUU-XXIV/2026",
+      "305/PUU/PAN.MK/AP3/08/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "305/PUU-XXIV/2026",
+      "305/PUU/PAN.MK/AP3/08/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

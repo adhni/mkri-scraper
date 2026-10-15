@@ -1,0 +1,1488 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14948_1789550935.pdf",
+    "file_name": "putusan_mkri_14948_1789550935.pdf",
+    "page_count": 56,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14948_1789550935.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "291/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "01/ILS/VII/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-16",
+    "decision_date_raw": "enam belas, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 4
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 291/PUU-XXIV/2026",
+      "start_line": 6,
+      "end_line": 6
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK NDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam permohonan Pengujian Undang-\nUndang Nomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis  terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 8,
+      "end_line": 12
+    },
+    {
+      "heading": "1. Nama : Resa Indrawan Samir, S.H., M.H.",
+      "slug": "1-nama-resa-indrawan-samir-s-h-m-h",
+      "text": "Pekerjaan  : Advokat \n Alamat : Laumar Residance 4 Blok A Nomor 5, Jalan Batu \nBelah, Kelurahan Cipedak, Kecamatan \nJagakarsa, Kota Jakarta Selatan. \n Selanjutnya disebut sebagai ---------------------------------- - Pemohon I;",
+      "start_line": 14,
+      "end_line": 18
+    },
+    {
+      "heading": "2. Nama : Agustiar, S.H.",
+      "slug": "2-nama-agustiar-s-h",
+      "text": "Pekerjaan  : Advokat \n Alamat : Cluster Ratu Risidence Blok A Nomor 5, \nKelurahan Jombang, Kecamatan Ciputat, Kota \nTangerang Selatan, Provinsi Banten \n Selanjutnya disebut sebagai ----------------------------------  Pemohon II;\nBerdasarkan Surat Kuasa Khusus Nomor 01/ILS/VII/2026 bertanggal  8 Juli 2026, \nmemberi kuasa kepada Dr. Ulhaq, S.H., M.H., Adi Surya Wijaya, S .H., M.H., \nMuhammad Aidil Akbar, S.H., M.H., Syukrian Rahmatul’ula, S.H. d an Arya Wira \nHadikusuma, S.H., advokat pada Kantor Hukum ILS Law Firm yang b eralamat di \nPondok Pinang Center (PPC) Blok A Nomor 6, Jalan Gedung Raya Hijau, Kelurahan \nPondok Pinang, Kota Jakarta Selatan, Provinsi DKI Jakarta, baik  sendiri-sendiri \nmaupun bersama-sama bertindak untuk dan atas nama Pemberi Kuasa; \nSelanjutnya Pemohon I dan Pemohon II disebut sebagai -------------- para Pemohon; \n \n\n\n2 \n[1.2] Membaca permohonan para Pemohon;  \nMendengar keterangan para Pemohon; \nMemeriksa bukti-bukti para Pemohon.",
+      "start_line": 20,
+      "end_line": 39
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 29 Juli 2026 yang diterima Kepaniteraan Mahkamah Kon stitusi pada \ntanggal 29 Juli 2026 berdasarkan Akta Pengajuan Permohonan Pemo hon Nomor \n291/PUU/PAN.MK/AP3/07/2026 dan dicatat dalam Buku Registrasi Pe rkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 291/PUU- XXIV/2026 \npada tanggal 30 Juli 2026, yang telah diperbaiki dengan perbaik an permohonan \nbertanggal 20 Agustus 2026 dan diterima Mahkamah pada tanggal 2 1 Agustus \n2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 41,
+      "end_line": 49
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Undang-Undang Dasar Negara Republik Indonesia",
+      "slug": "1-bahwa-pasal-24-ayat-2-undang-undang-dasar-negara-republik-indonesia",
+      "text": "Tahun 1945 (selanjutnya disebut “UUD 1945”) menyatakan:  \n“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada di bawahnya dalam lingkungan peradi lan \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkama h \nKonstitusi.”",
+      "start_line": 51,
+      "end_line": 56
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) UUD 1945 menyatakan:",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-uud-1945-menyatakan",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan lembaga \nnegara yang kewenangannya diberikan oleh Undang-Undang Dasar, \nmemutus pembubaran partai politik, dan memutus perselisihan tentang hasil \npemilihan umum.”",
+      "start_line": 58,
+      "end_line": 63
+    },
+    {
+      "heading": "3. Bahwa kewenangan Mahkamah Konstitusi untuk menguji undang-un dang",
+      "slug": "3-bahwa-kewenangan-mahkamah-konstitusi-untuk-menguji-undang-un-dang",
+      "text": "terhadap UUD 1945 ditegaskan kembali dalam Pasal 10 ayat (1) hu ruf a \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah beberapa kali diubah, terakhir dengan Undang- Undang \nNomor 7 Tahun 2020 tentang Peru bahan Ketiga Atas Undang-Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (selanjutnya di sebut \n“UU Mahkamah Konstitusi”), yang menyatakan: \n\n3 \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk :  \na) menguji Undang-Undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945.” \nb) memutus sengketa kewenangan lembaga Negara yang kewenanganny a \ndiberikan oleh Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945; \nc) memutus pembubaran partai politik; dan  \nd) memutus perselisihan tentang hasil pemilihan umum.",
+      "start_line": 65,
+      "end_line": 81
+    },
+    {
+      "heading": "4. Bahwa selain itu, Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48 Tahun",
+      "slug": "4-bahwa-selain-itu-pasal-29-ayat-1-huruf-a-undang-undang-nomor-48-tahun",
+      "text": "2009 tentang Kekuasaan Kehakiman (selanjutnya disebut “UU Kekua saan \nKehakiman”) menyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.”",
+      "start_line": 83,
+      "end_line": 87
+    },
+    {
+      "heading": "5. Bahwa lebih lanjut, berdasarkan Pasal 2 ayat (1) Peraturan M ahkamah",
+      "slug": "5-bahwa-lebih-lanjut-berdasarkan-pasal-2-ayat-1-peraturan-m-ahkamah",
+      "text": "Konstitusi Nomor 7 Tahun 2025 tentang Tata Beracara dalam Perka ra \nPengujian Undang-Undang, objek permohonan pengujian undang-unda ng \nadalah undang-undang dan/atau Perppu (Peraturan Pemerintah Peng ganti \nUndang-Undang).",
+      "start_line": 89,
+      "end_line": 92
+    },
+    {
+      "heading": "6. Bahwa dalam menjalankan kewenangan pengujian undang-undang",
+      "slug": "6-bahwa-dalam-menjalankan-kewenangan-pengujian-undang-undang",
+      "text": "terhadap UUD 1945, Mahkamah Konstitusi telah berulang kali \nmenggunakan model putusan yang bersifat conditionally constitutional  \n(konstitusional bersyarat) maupun conditionally unconstitutional  \n(inkonstitusional bersyarat), yaitu putusan yang memberikan pen afsiran \nkonstitusional terhadap suatu norma undang-undang melalui frasa  \n“sepanjang dimaknai” atau “sepanjang tidak dimaknai”, sehingga demikian \nMahkamah Konstitusi memiliki wewenang untuk  menafsirkan secara \nkonstitusional terhadap norma undang-undang guna memastikan aga r \nnorma tersebut tidak bertentangan dengan UUD 1945.",
+      "start_line": 94,
+      "end_line": 102
+    },
+    {
+      "heading": "7. Bahwa Pemohon I dan Pemohon II dalam permohonan a quo memohon",
+      "slug": "7-bahwa-pemohon-i-dan-pemohon-ii-dalam-permohonan-a-quo-memohon",
+      "text": "kepada Mahkamah Konstitusi untuk menguji konstitusionalitas norma Pasal \n1 angka 13 UU Merek dan Indikasi Geografis sepanjang norma ters ebut \nmemaknai “Kuasa” hanya sebagai Konsultan Kekayaan Intelektual dan tidak \nmencakup Advokat.",
+      "start_line": 104,
+      "end_line": 107
+    },
+    {
+      "heading": "8. Bahwa berdasarkan seluruh uraian tersebut di atas, oleh kare na objek",
+      "slug": "8-bahwa-berdasarkan-seluruh-uraian-tersebut-di-atas-oleh-kare-na-objek",
+      "text": "permohonan a quo adalah pengujian materiil norma dalam suatu Undang-\nUndang, yaitu Pasal 1 angka 13 UU Merek dan Indikasi Geografis terhadap \n\n4 \nUUD 1945, maka berdasarkan Pasal 24C ayat (1) UUD 1945, Pasal 10 ayat \n(1) huruf a UU Mahkamah Konstitusi, Pasal 29 ayat (1) huruf a U U \nKekuasaan Kehakiman, serta Pasal 2 ayat (1) Peraturan Mahkamah \nKonstitusi Nomor 7 Tahun 2025, Mahkamah Konstitusi berwenang un tuk \nmemeriksa, mengadili, dan memutus permohonan a quo. \nII. KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON",
+      "start_line": 109,
+      "end_line": 118
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) Undang-Undang Mahkamah Konstitusi",
+      "slug": "1-bahwa-pasal-51-ayat-1-undang-undang-mahkamah-konstitusi",
+      "text": "menyatakan:  \n“Pemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na) perorangan warga negara Indonesia;  \nb) kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang; \nc) badan hukum publik atau privat; atau  \nd) lembaga negara.",
+      "start_line": 120,
+      "end_line": 128
+    },
+    {
+      "heading": "2. Bahwa Mahkamah Konstitusi melalui Putusan Nomor 006/PUU-III/ 2005 dan",
+      "slug": "2-bahwa-mahkamah-konstitusi-melalui-putusan-nomor-006-puu-iii-2005-dan",
+      "text": "Putusan Nomor 11/PUU-V/2007 telah menentukan bahwa kerugian hak  \ndan/atau kewenangan konstitusional sebagaimana dimaksud dalam P asal \n51 ayat (1) Undang-Undang Mahkamah Konstitusi harus memenuhi 5 (lima) \nsyarat, yaitu: \na) adanya hak konstitusional Pemohon yang diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945; \nb) hak konstitusional tersebut dianggap dirugikan oleh berlakun ya undang-\nundang yang dimohonkan pengujian; \nc) kerugian konstitusional tersebut bersifat spesifik dan aktua l atau setidak-\ntidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi; \nd) adanya hubungan sebab akibat (causal verband) antara kerugia n \ndimaksud dan berlakunya undang-undang yang dimohonkan pengujian ; \ndan \ne) adanya kemungkinan bahwa dengan dikabulkannya permohonan, \nkerugian konstitusional tersebut tidak akan atau tidak lagi terjadi. \nPara Pemohon adalah Perorangan Warga Negara Indonesia (WNI) dan  \nBerprofesi sebagai Advokat",
+      "start_line": 130,
+      "end_line": 147
+    },
+    {
+      "heading": "3. Bahwa para Pemohon merupakan perorangan warga negara Indones ia,",
+      "slug": "3-bahwa-para-pemohon-merupakan-perorangan-warga-negara-indones-ia",
+      "text": "sehingga termasuk dalam kategori Pemohon sebagaimana dimaksud dalam \nPasal 51 ayat (1) huruf a UU Mahkamah Konstitusi.",
+      "start_line": 149,
+      "end_line": 150
+    },
+    {
+      "heading": "4. Bahwa Pemohon I adalah Warga Negara Indonesia yang berprofes i sebagai",
+      "slug": "4-bahwa-pemohon-i-adalah-warga-negara-indonesia-yang-berprofes-i-sebagai",
+      "text": "Advokat serta telah diangkat dan diambil sumpahnya berdasarkan ketentuan \n\n5 \nUndang-Undang Nomor 18 Tahun 2003 tentang Advokat (selanjutnya \ndisebut “UU Advokat”). Dalam menjalankan profesinya, Pemohon I sampai \nhari ini masih aktif memberikan jasa hukum kepada masyarakat, b aik di \ndalam maupun di luar pengadilan, termasuk memberikan konsultasi  hukum \nberkaitan di bidang Hak Kekayaan Intelektual, khususnya yang be rkaitan \ndengan pendaftaran atau sengketa merek. Sebagai bentuk pelaksan aan \nprofesinya, Pemohon I juga memiliki Nomor Pokok Wajib Pajak (NP WP) \nsebagai wajib pajak.",
+      "start_line": 152,
+      "end_line": 162
+    },
+    {
+      "heading": "5. Bahwa Pemohon II adalah Warga Negara Indonesia yang berprofe si",
+      "slug": "5-bahwa-pemohon-ii-adalah-warga-negara-indonesia-yang-berprofe-si",
+      "text": "sebagai Advokat serta telah diangkat dan diambil sumpahnya berd asarkan \nketentuan UU Advokat. Sebagai Advokat, Pemohon II memiliki hak dan \nkewenangan yang sama untuk memberikan jasa hukum kepada \nmasyarakat, baik di dalam maupun di luar pengadilan, termasuk jasa hukum",
+      "start_line": 164,
+      "end_line": 167
+    },
+    {
+      "heading": "di bidang Hak Kekayaan Intelektual, khususnya yang berkaitan de ngan",
+      "slug": "di-bidang-hak-kekayaan-intelektual-khususnya-yang-berkaitan-de-ngan",
+      "text": "merek dan indikasi geografis. Pemohon II juga memiliki Nomor Pokok Wajib \nPajak (NPWP) sebagai wajib pajak. \nHak Konstitusional Para Pemohon dalam UUD 1945",
+      "start_line": 169,
+      "end_line": 171
+    },
+    {
+      "heading": "6. Bahwa para Pemohon memiliki hak konstitusional yang dijamin oleh UUD",
+      "slug": "6-bahwa-para-pemohon-memiliki-hak-konstitusional-yang-dijamin-oleh-uud",
+      "text": "1945, yaitu: \nPasal 27 ayat (1) UUD 1945: \n“Segala warga negara bersamaan kedudukannya di dalam hukum dan \npemerintahan dan wajib menjunjung hukum dan pemerintahan itu de ngan \ntidak ada kecualinya.” \nPasal 27 ayat (2) UUD 1945: \n“Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak \nbagi kemanusiaan.” \nPasal 28D ayat (1) UUD 1945: \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan dan kepastian \nhukum yang adil serta perlakuan yang sama di hadapan hukum.” \nPasal 28D ayat (2) UUD 1945: \n“Setiap orang berhak untuk bekerja serta mendapat imbalan dan p erlakuan \nyang adil dan layak dalam hubungan kerja.”",
+      "start_line": 173,
+      "end_line": 186
+    },
+    {
+      "heading": "7. Bahwa berdasarkan ketentuan-ke tentuan UUD 1945 tersebut di atas, para",
+      "slug": "7-bahwa-berdasarkan-ketentuan-ke-tentuan-uud-1945-tersebut-di-atas-para",
+      "text": "Pemohon memiliki hak konstitusio nal yang secara langsung dijami n oleh \nUUD 1945, yaitu Pasal 27 ayat (1) UUD 1945 menjamin hak para Pemohon \n\n6 \nsebagai warga negara atas persamaan kedudukan di dalam hukum, P asal \n27 ayat (2) UUD 1945 menjamin hak para Pemohon sebagai warga ne gara \natas pekerjaan dan penghidupan yang layak,  Pasal 28D ayat (1) UUD 1945 \nmenjamin hak para Pemohon atas kepastian hukum yang adil serta \nperlakuan yang sama di hadapan hukum, dan Pasal 28D ayat (2) UUD 1945 \nmenjamin hak para Pemohon untuk bekerja serta memperoleh imbalan dan \nperlakuan yang adil dan layak dalam hubungan kerja.",
+      "start_line": 188,
+      "end_line": 198
+    },
+    {
+      "heading": "8. Bahwa dalam kedudukannya sebagai Advokat, hak-hak konstitusi onal",
+      "slug": "8-bahwa-dalam-kedudukannya-sebagai-advokat-hak-hak-konstitusi-onal",
+      "text": "tersebut berkaitan dengan kesempatan para Pemohon untuk menjala nkan \nprofesinya dan memberikan jasa hukum kepada masyarakat, termasu k \nmenerima dan menjalankan kuasa untuk kepentingan klien serta \nmemperoleh honorarium atas jasa hukum yang diberikan. Kedudukan  para \nPemohon sebagai Advokat merupakan status profesi para Pemohon dalam \nmenjalankan hak-hak konstitusional yang bersumber langsung dari  UUD \n1945 tersebut.",
+      "start_line": 200,
+      "end_line": 206
+    },
+    {
+      "heading": "9. Bahwa hak-hak konstitusional para Pemohon sebagaimana dijami n dalam",
+      "slug": "9-bahwa-hak-hak-konstitusional-para-pemohon-sebagaimana-dijami-n-dalam",
+      "text": "Pasal 27 ayat (1), Pasal 27 ayat (2), Pasal 28D ayat (1), dan Pasal 28D ayat \n(2) UUD 1945 tersebut telah dirugikan oleh berlakunya Pasal 1 angka 13 UU \nMerek dan Indikasi Geografis yang membatasi pengertian “Kuasa” hanya \nkepada Konsultan Kekayaan Intelektual, sebagaimana akan para Pemohon \nuraikan secara konkret dalam bagian kerugian konstitusional berikut ini. \nKerugian Konstitusional dari para Pemohon",
+      "start_line": 208,
+      "end_line": 213
+    },
+    {
+      "heading": "10. Bahwa Pemohon I dan Pemohon II adalah Advokat yang dalam menjalankan",
+      "slug": "10-bahwa-pemohon-i-dan-pemohon-ii-adalah-advokat-yang-dalam-menjalankan",
+      "text": "profesinya sejak dahulu sampai dengan saat ini telah beberapa k ali \nmenerima konsultasi hukum dari masyarakat dan calon klien yang berkaitan \ndengan pengajuan dan proses pendaftaran merek.",
+      "start_line": 215,
+      "end_line": 217
+    },
+    {
+      "heading": "11. Bahwa Pemohon I dan Pemohon II dalam praktik profesinya jug a sering",
+      "slug": "11-bahwa-pemohon-i-dan-pemohon-ii-dalam-praktik-profesinya-jug-a-sering",
+      "text": "bekerja sama dalam menangani berbagai permasalahan hukum yang sama, \ntermasuk apabila terdapat calon klien yang meminta konsultasi m engenai \nkekayaan intelektual atau pendaftaran merek.",
+      "start_line": 219,
+      "end_line": 221
+    },
+    {
+      "heading": "12. Bahwa ketika calon klien yang berkonsultasi kepada para Pem ohon tidak",
+      "slug": "12-bahwa-ketika-calon-klien-yang-berkonsultasi-kepada-para-pem-ohon-tidak",
+      "text": "hanya meminta penjelasan mengenai proses pendaftaran merek, tet api \ntelah meminta penawaran jasa hukum beserta perkiraan biaya yang  \ndiperlukan apabila menggunakan jasa para Pemohon untuk membantu  \n\n7 \npengajuan dan pengurusan pendaftaran merek. Dengan demikian, \npermintaan jasa yang diterima para Pemohon bukan merupakan \nkemungkinan yang bersifat abstrak atau hipotetis, melainkan kebutuhan jasa \nyang secara nyata pernah disampaikan oleh calon klien kepada pa ra \nPemohon.",
+      "start_line": 223,
+      "end_line": 232
+    },
+    {
+      "heading": "13. Bahwa ketika para Pemohon hendak menindaklanjuti konsultasi t e r s e b u t",
+      "slug": "13-bahwa-ketika-para-pemohon-hendak-menindaklanjuti-konsultasi-t-e-r-s-e-b-u-t",
+      "text": "dengan memberikan penawaran jasa kepada calon klien, para Pemoh on \nmempelajari lebih lanjut ketentuan UU Merek dan Indikasi Geogra fis dan \nmenemukan bahwa Pasal 1 angka 13 UU Merek dan Indikasi Geografi s \nsecara limitatif mendefinisikan “Kuasa” sebagai Konsultan Kekay aan \nIntelektual, yang menyatakan: \n“Kuasa adalah Konsultan Kekayaan Intelektual yang bertempat tin ggal \natau berkedudukan tetap di wilayah Negara Kesatuan Republik \nIndonesia.”",
+      "start_line": 234,
+      "end_line": 241
+    },
+    {
+      "heading": "14. Bahwa setelah mengetahui adanya pembatasan tersebut, para P emohon",
+      "slug": "14-bahwa-setelah-mengetahui-adanya-pembatasan-tersebut-para-p-emohon",
+      "text": "bertanya-tanya dan membuat diskusi dengan beberapa advokat yang  \nmengalami kegelisahan yang sama yaitu mengapa UU Merek dan Indi kasi \nGeografis membatasi definisi Kuasa hanya kepada “Satu Subjek” penerima \nkuasa. Apakah seorang sarjana hukum seperti para Pemohon yang t elah \nmenjadi sarjana hukum yang dimana pada saat kuliah belajar Hak Kekayaan \nIntelektual, Hukum Perdata hingga Hukum Dagang serta mengikuti \nPendidikan Khusus Profesi Advokat (PKPA) yang dimana dalam pela tihan \ntersebut juga terdapat pelajaran Hak Kekayaan Intelektual dan t elah \ndisumpah menjadi advokat tetap tidak bisa bertindak sebagai kua sa atau \ntidak punya kapasitas untuk mewakili kliennya dalam pendaftaran  merek di \nIndonesia? Sedangkan menurut para Pemohon, proses pendaftaran m erek \nbersifat administratif. Artinya, pekerjaan yang dilakukan mirip  dengan \nseorang Advokat yang diberikan kuasa oleh kliennya untuk mengur us \nperizinan yang dimana jika seluruh persyaratan lengkap, maka izin tersebut \nkeluar.",
+      "start_line": 243,
+      "end_line": 257
+    },
+    {
+      "heading": "15. Bahwa hal lain yang menjadi pertanyaan para Pemohon saat it u yaitu",
+      "slug": "15-bahwa-hal-lain-yang-menjadi-pertanyaan-para-pemohon-saat-it-u-yaitu",
+      "text": "mengapa ketika proses pendaftaran merek, hingga pengajuan bandi ng ke \nkomisi banding merek tersebut seorang yang berprofesi Advokat t idak bisa \nbertindak sebagai kuasa, sedangkan  ketika persoalan merek telah \nmemasuki tahap sengketa di pengadilan, Advokat dapat bertindak sebagai \n\n8 \nkuasa hukum untuk mewakili kepentingan klien tanpa dipersyaratk an \nterlebih dahulu berstatus sebagai Konsultan Kekayaan Intelektual.  \nBahwa keadaan tersebut menimbulkan pertanyaan bagi para Pemohon  \nmengenai dasar pembedaan perlakuan terhadap profesi Advokat dalam satu \nrangkaian persoalan hukum di bidang merek. Advokat dapat mewaki li dan \nmembela kepentingan hukum klien ketika persoalan merek telah \nberkembang menjadi sengketa di pengadilan (litigasi), tetapi ti dak dapat \nmenerima dan menjalankan kuasa dari klien pada tahapan pengajua n \npendaftaran merek yang bersifat non-litigasi. \nBahwa keadaan tersebut selanjutnya menimbulkan pertanyaan bagi para \nPemohon, apakah pembentuk undang-undang hanya melihat profesi \nAdvokat sebagai profesi yang memiliki hak untuk menjalankan pro fesinya \ndalam menjalankan kuasa terbatas hanya di Pengadilan (praktek l itigasi) \ntanpa harus diberi syarat? Sedangkan untuk menjalankan kuasa be rsifat \nnon-litigasi harus diberikan syarat-syarat khusus lagi walau di a seorang \nAdvokat yang telah mengikuti seluruh tahapan menjadi advokat se rta telah \nmenempuh pendidikan formal S-1 selama 4 (empat) tahun, S-2 sela ma 2 \n(dua) tahun atau mungkin S-3 hingga 4 (empat) tahun di bidang hukum. \nBahwa oleh karena itu, pada titik inilah para Pemohon merasakan  secara \nnyata adanya kerugian terhadap hak konstitusional para Pemohon,  \nkhususnya berupa terhalangnya kesempatan para Pemohon untuk \nmenjalankan pekerjaan dan profesinya, menerima dan menjalankan kuasa \nyang diberikan oleh klien, serta memperoleh pekerjaan dan honorarium dari \njasa hukum yang hendak diberikan, yang berkaitan dengan jaminan  \npersamaan kedudukan di dalam hukum, hak atas pekerjaan dan \npenghidupan yang layak, kepastian hukum yang adil dan perlakuan  yang \nsama di hadapan hukum, serta hak untuk bekerja dan memperoleh imbalan \nyang adil dan layak sebagaimana dijamin dalam Pasal 27 ayat (1), Pasal 27 \nayat (2), Pasal 28D ayat (1), dan Pasal 28D ayat (2) UUD 1945. \nApakah para Pemohon tidak pernah berusaha menjadi Konsultan Kekayaan \nIntelektual?",
+      "start_line": 259,
+      "end_line": 295
+    },
+    {
+      "heading": "16. Bahwa meskipun para Pemohon adalah berprofesi sebagai advok at, para",
+      "slug": "16-bahwa-meskipun-para-pemohon-adalah-berprofesi-sebagai-advok-at-para",
+      "text": "Pemohon pada akhirnya memilih untuk tidak menerima pekerjaan \npermintaan calon klien untuk bertindak sebagai Kuasa dalam peng ajuan \n\n9 \npendaftaran merek walaupun secara nyata para Pemohon diminta ca lon \nklien untuk membantu dalam melakukan pendaftaran merek;",
+      "start_line": 297,
+      "end_line": 302
+    },
+    {
+      "heading": "17. Bahwa pada saat itu, para Pemohon awalnya ingin mengajukan Judicial",
+      "slug": "17-bahwa-pada-saat-itu-para-pemohon-awalnya-ingin-mengajukan-judicial",
+      "text": "Review ke Mahkamah Konstitusi. Namun, setelah Pemohon I dan Pemohon \nII berdiskusi, maka para Pemohon terlebih dahulu berusaha ingin  mencari \njalan untuk memenuhi ketentuan peraturan perundang-undangan den gan \nmencari informasi mengenai mekanisme untuk menjadi Konsultan \nKekayaan Intelektual, termasuk mencari tahu prosedur dan waktu untuk \npelatihannya;",
+      "start_line": 304,
+      "end_line": 309
+    },
+    {
+      "heading": "18. Bahwa setidak-tidaknya sejak tahun 2021, para Pemohon telah beberapa",
+      "slug": "18-bahwa-setidak-tidaknya-sejak-tahun-2021-para-pemohon-telah-beberapa",
+      "text": "kali mencari informasi mengenai pelatihan Konsultan Kekayaan In telektual \nkarena berdasarkan mekanisme yang berlaku, salah satu tahapan u ntuk \nmenjadi Konsultan Kekayaan Intelektual melalui jalur umum berka itan \ndengan pelatihan dan ujian sebelum seseorang dapat diangkat seb agai \nKonsultan Kekayaan Intelektual.",
+      "start_line": 311,
+      "end_line": 315
+    },
+    {
+      "heading": "19. Bahwa sebagai salah satu upaya konkret untuk memperoleh inf ormasi",
+      "slug": "19-bahwa-sebagai-salah-satu-upaya-konkret-untuk-memperoleh-inf-ormasi",
+      "text": "mengenai mekanisme menjadi Konsultan Kekayaan Intelektual, sete lah \nberdiskusi Pemohon I dan Pemohon II sepakat untuk mencari infor masi \nsecara langsung melalui kanal media sosial yang kami anggap per wakilan \ninformasi dari Direktorat Jenderal Kekayaan Intelektual (DJKI).  A t a s  \nkesepakatan tersebut, Pemohon I mengirimkan pesan melalui Direct \nMessage (DM) Instagram kepada akun @djki_kemenkum, yang para \nPemohon pahami sebagai akun media sosial resmi DJKI di bawah \nKementerian Hukum, untuk menanyakan informasi mengenai pendafta ran \nserta mekanisme untuk menjadi Konsultan Kekayaan Intelektual. \nSetelah mengirim pesan tersebut, akun media sosial Instagran \n@djki_kemenkum membalasnya  dengan informasi “halo kak maaf unt uk \nsaat ini belum ada pembukaan pelatihan konsultan KI. Apabila dibuka akan \nkami sampaikan melalui dgip.go.id.”",
+      "start_line": 317,
+      "end_line": 329
+    },
+    {
+      "heading": "20. Bahwa setelah memperoleh jawaban tersebut, para Pemohon tet ap sabar",
+      "slug": "20-bahwa-setelah-memperoleh-jawaban-tersebut-para-pemohon-tet-ap-sabar",
+      "text": "mengikuti dan mencari informasi mengenai kemungkinan dibukanya kembali \npelatihan Konsultan Kekayaan Intelektual. Namun demikian, hingg a tahun \n2025 para Pemohon belum memperoleh kesempatan untuk mengikuti \npelatihan dimaksud. \n\n10 \nBahwa keadaan tersebut semakin merugikan para Pemohon karena da lam \nkurun waktu yang sama permintaan masyarakat dan calon klien kepada para \nPemohon untuk memperoleh bantuan hukum berkaitan pendaftaran me rek \nterus terjadi, tetapi para Pemohon tetap tidak dapat menerima d an \nmenjalankan kuasa tersebut. Akibatnya, para Pemohon kehilangan \nkesempatan memperoleh pekerjaan dan honorarium dari jasa yang s ecara \nnyata diminta oleh calon klien, yang bersinggungan langsung den gan hak \nkonstitusional para Pemohon atas pekerjaan dan penghidupan yang  layak \nsebagaimana Pasal 27 ayat (2) UUD 1945 serta hak untuk bekerja dan \nmemperoleh imbalan yang adil sebagaimana Pasal 28D ayat (2) UUD 1945.",
+      "start_line": 331,
+      "end_line": 346
+    },
+    {
+      "heading": "21. Bahwa untuk memperoleh kepastian mengenai penyelenggaraan p elatihan",
+      "slug": "21-bahwa-untuk-memperoleh-kepastian-mengenai-penyelenggaraan-p-elatihan",
+      "text": "tersebut, pada Juni 2025, Pemohon I kembali mengirim pesan ke a kun \nmedia sosial Instagam @djki_kemenkum yang kami anggap sumber \ninformasi dari Direktorat Jenderal Kekayaan Intelektual Indones ia yang \nintinya mempertanyakan kenapa dari tahun 2021 belum ada informasi terkait \npelatihan Konsultan Kekayaan Intelektual. Atas pertanyaan terse but, \nPemohon I memperoleh jawaban sebagai berikut: \n“Selamat pagi TemanKI. Mohon maaf atas ketidaknyamanannya, untu k \npelatihan Konsultan KI terakhir dilaksanakan tahun 2019 dan sam pai \nsaat ini belum dilaksanakan kembali. Mohon kesediaan TemanKI un tuk \nmenunggu dan pengecekan berkala, jika terdapat pelatihan KI ter daftar \nakan diinformasikan secara resmi melalui website dgip.go.id dan  sosial \nmedia DJKI. Terima kasih.”",
+      "start_line": 348,
+      "end_line": 359
+    },
+    {
+      "heading": "22. Bahwa berdasarkan informasi tersebut, para Pemohon mengetah ui bahwa",
+      "slug": "22-bahwa-berdasarkan-informasi-tersebut-para-pemohon-mengetah-ui-bahwa",
+      "text": "pelatihan Konsultan Kekayaan Intelektual terakhir diselenggarak an pada \ntahun 2019 dan sampai dengan 2025 belum diselenggarakan kembali, atau \ntelah berlangsung lebih kurang 6 (enam) tahun tanpa tersedia pelatihan baru \nyang dapat diikuti para Pemohon.",
+      "start_line": 361,
+      "end_line": 364
+    },
+    {
+      "heading": "23. Bahwa fakta tersebut penting untuk menjelaskan keadaan konk ret para",
+      "slug": "23-bahwa-fakta-tersebut-penting-untuk-menjelaskan-keadaan-konk-ret-para",
+      "text": "Pemohon. Para Pemohon bukanlah Advokat yang mengetahui adanya \npersyaratan untuk menjadi Konsultan Kekayaan Intelektual kemudi an \nmemilih untuk tidak memenuhi persyaratan tersebut. Sebaliknya, para \nPemohon telah berusaha mencari informasi dan kesempatan untuk \nmengikuti mekanisme yang tersedia, tetapi pelatihan yang menjad i bagian \ndari mekanisme tersebut tidak diselenggarakan dalam jangka wakt u yang \n\n11 \npanjang dan penyelenggaraannya sepenuhnya berada di luar kendal i para \nPemohon.",
+      "start_line": 366,
+      "end_line": 375
+    },
+    {
+      "heading": "24. Bahwa oleh karena itu, jika terdapat pertanyaan mengapa par a Pemohon",
+      "slug": "24-bahwa-oleh-karena-itu-jika-terdapat-pertanyaan-mengapa-par-a-pemohon",
+      "text": "tidak terlebih dahulu mengikuti pendidikan atau pelatihan Konsu ltan \nKekayaan Intelektual, keadaan faktual para Pemohon menunjukkan bahwa \nkesempatan untuk mengikuti pelatihan tersebut tidak tersedia secara reguler \ndan tidak dapat dibuka atas kehendak para Pemohon sendiri. Para  \nPemohon telah mencari kesempatan tersebut sejak setidak-tidaknya tahun \n2021, tetapi berdasarkan informasi resmi yang diterima Pemohon I pada \nJuni 2025, pelatihan terakhir justru telah dilaksanakan sejak tahun 2019.",
+      "start_line": 377,
+      "end_line": 383
+    },
+    {
+      "heading": "25. Bahwa berdasarkan penjelasan di atas, kerugian konstitusion al para",
+      "slug": "25-bahwa-berdasarkan-penjelasan-di-atas-kerugian-konstitusion-al-para",
+      "text": "Pemohon telah nyata dan konkret apabila dikaitkan juga dengan t ingginya \njumlah permohonan pendaftaran merek di Indonesia. Berdasarkan informasi \nyang diperoleh para Pemohon dari internet di situs website dgip .go.id \ntertanggal 8 Desember 2025 dengan judul “Lonjakan Permohonan Me rek \ndan Indikasi Geografis”, disebutkan bahwa sebelum tutup 2025. D irektorat \nMerek dan Indikasi Geografis DJKI Kementerian Hukum mencatat ca paian \nsignifikan dengan penyelesaian permohonan pendaftaran merek men capai \n169.526 permohonan dari 137.285 permohonan yang masuk, atau set ara \n123,48%. Jumlah ini telah melampaui target 90% atau 123.556 permohonan. \nData ini adalah data yang ada di tahun 2025. Bagaimana dengan p eriode \ntahun 2019 s/d 2024 yang dimana pelatihan konsultan kekayaan intelektual \ntersebut belum dibuka. \nBahwa dalam pandangan para Pemohon, data ratusan ribu pendaftar an \nmerek di tahun 2025 juga memperlihatkan adanya kesempatan yang sangat \nbesar dalam pemberian jasa profesional di bidang pendaftaran me rek. \nNamun, selama periode ketika pelatihan Konsultan Kekayaan Intel ektual \ntidak diselenggarakan dan tidak dibukanya ruang juga bagi advok at untuk \nmemberikan jasa untuk pendaftaran merek di Undang-Undang, sehin gga  \npara Pemohon sebagai advokat bertanya apakah jasa pendaftaran m erek \nini secara eksklusif  hanya diberikan kepada profesi tertentu?  \nBahwa dengan demikian, keadaan tersebut semakin memperlihatkan \nkerugian yang dialami para Pemohon. Di tengah tingginya kebutuh an \nmasyarakat terhadap pengajuan dan pengurusan pendaftaran merek,  para \n\n12 \nPemohon yang secara nyata telah menerima konsultasi dan permintaan jasa \ndari calon klien tetap tidak dapat menerima dan menjalankan kuasa tersebut \nkarena Pasal 1 angka 13 UU Merek dan Indikasi Geografis membata si \n“Kuasa” hanya kepada Konsultan Kekayaan Intelektual. Pada saat yang \nsama, upaya para Pemohon untuk memenuhi persyaratan menjadi \nKonsultan Kekayaan Intelektual juga tidak dapat dilanjutkan kar ena \npelatihan yang harus diikuti tidak tersedia. Akibatnya,  para Pemohon \nkehilangan kesempatan nyata untuk memperoleh pekerjaan dan honorarium \ndari jasa yang diminta oleh calon klien, sehingga hak konstitus ional para \nPemohon atas pekerjaan dan penghidupan yang layak serta hak unt uk \nbekerja dan memperoleh imbalan sebagaimana dijamin dalam Pasal 27 ayat \n(2) dan Pasal 28D ayat (2) UUD 1945 telah dirugikan. \nPara Pemohon Akhirnya Mempelajari Naskah Akademik RUU Merek Tahun \n2015",
+      "start_line": 385,
+      "end_line": 423
+    },
+    {
+      "heading": "26. Bahwa setelah mengetahui pelatihan untuk menjadi konsultan kekayaan",
+      "slug": "26-bahwa-setelah-mengetahui-pelatihan-untuk-menjadi-konsultan-kekayaan",
+      "text": "intelektual tidak pernah dilakukan, para Pemohon kemudian berus aha \nmemahami mengapa Advokat tidak termasuk dalam pengertian “Kuasa ” \ndengan mempelajari peraturan perundang-undangan mengenai Konsul tan \nKekayaan Intelektual, sejarah pengaturan merek di Indonesia, serta bahan-\nbahan yang berkaitan dengan pembentukan UU Merek dan Indikasi \nGeografis.",
+      "start_line": 425,
+      "end_line": 430
+    },
+    {
+      "heading": "27. Bahwa dalam proses tersebut, para Pemohon juga bertukar inf ormasi dan",
+      "slug": "27-bahwa-dalam-proses-tersebut-para-pemohon-juga-bertukar-inf-ormasi-dan",
+      "text": "berdiskusi dengan Advokat lainnya mengenai pembatasan Advokat u ntuk \nbertindak sebagai Kuasa dalam pendaftaran merek. Hal tersebut s emakin \nmendorong para Pemohon untuk menelusuri dasar dan sejarah \npembentukan norma Pasal 1 angka 13 UU Merek dan Indikasi Geografis.",
+      "start_line": 432,
+      "end_line": 435
+    },
+    {
+      "heading": "28. Bahwa salah satu dokumen yang kemudian dipelajari para Pemohon adalah",
+      "slug": "28-bahwa-salah-satu-dokumen-yang-kemudian-dipelajari-para-pemohon-adalah",
+      "text": "“Draft Naskah Akademik Peraturan Perundang-undangan RUU tentang  \nMerek”, lalu tertulis “Tahun 2015, Kementerian Hukum dan Hak As asi \nManusia,” yang para Pemohon dapatkan melalui situs bphn.go.id yang dapat \ndiakses publik seperti para Pemohon.",
+      "start_line": 437,
+      "end_line": 440
+    },
+    {
+      "heading": "29. Bahwa setelah mempelajari dokumen yang tertulis Naskah Akad emik",
+      "slug": "29-bahwa-setelah-mempelajari-dokumen-yang-tertulis-naskah-akad-emik",
+      "text": "tersebut, para Pemohon menemukan fakta yang penting, yaitu pada  \nhalaman 67, dalam BAB V mengenai JANGKAUAN, ARAH PENGATURAN \n\n13 \ndan RUANG LINGKUP MATERI MUATAN RUU MEREK yang dimana \nbagian C. Ruang Lingkup dan Mate ri Muatan RUU Merek 1. Ketentua n \numum huruf (n) disebutkan Pengertian “Kuasa” dirumuskan: \n“Kuasa adalah Konsultan Kekayaan Intelektual atau orang yang me ndapat \nkuasa dari Pemohon.”",
+      "start_line": 442,
+      "end_line": 450
+    },
+    {
+      "heading": "30. Bahwa rumusan yang sama juga ditemukan para Pemohon dalam",
+      "slug": "30-bahwa-rumusan-yang-sama-juga-ditemukan-para-pemohon-dalam",
+      "text": "rancangan Undang-Undang yang normanya menjadi bagian dari dokum en \ntersebut Pasal Halaman 91, yaitu Pasal 1 angka 14 Rancangan Und ang-\nUndang tentang Merek, yang kembali merumuskan Kuasa sebagai: \n“Konsultan Kekayaan Intelektual atau orang yang mendapat kuasa dari \nPemohon.”",
+      "start_line": 452,
+      "end_line": 456
+    },
+    {
+      "heading": "31. Bahwa berdasarkan rumusan tersebut, para Pemohon memahami b ahwa",
+      "slug": "31-bahwa-berdasarkan-rumusan-tersebut-para-pemohon-memahami-b-ahwa",
+      "text": "pada tahap penyusunan Naskah Akademik dan rancangan awal, pengertian \nKuasa tidak hanya ditujukan kepada Konsultan Kekayaan Intelektual, tetapi \njuga membuka kategori kedua, yaitu “orang yang mendapat kuasa d ari \nPemohon”.",
+      "start_line": 458,
+      "end_line": 461
+    },
+    {
+      "heading": "32. Bahwa para Pemohon sebagai Advokat memahami frasa “orang ya ng",
+      "slug": "32-bahwa-para-pemohon-sebagai-advokat-memahami-frasa-orang-ya-ng",
+      "text": "mendapat kuasa dari Pemohon” tersebut sebagai rumusan yang pada  \nprinsipnya dapat mencakup Advokat sepanjang Advokat memperoleh kuasa \ndari Pemohon. Namun ketika UU Nomor 20 Tahun 2016 tentang Merek dan \nIndikasi Geografis akhirnya diundangkan, frasa “atau orang yang mendapat \nkuasa dari Pemohon” tidak lagi terdapat dalam definisi Kuasa, d an Pasal 1 \nangka 13 hanya menetapkan Konsultan Kekayaan Intelektual sebaga i \nKuasa.",
+      "start_line": 463,
+      "end_line": 469
+    },
+    {
+      "heading": "33. Bahwa temuan tersebut menimbulkan pertanyaan hukum bagi par a",
+      "slug": "33-bahwa-temuan-tersebut-menimbulkan-pertanyaan-hukum-bagi-par-a",
+      "text": "Pemohon mengenai dasar dan alasan perubahan rumusan Kuasa dari \nrancangan yang sebelumnya mengenal dua kategori menjadi hanya \nKonsultan Kekayaan Intelektual, terutama karena perubahan terse but \nmempunyai akibat langsung terhadap kesempatan para Pemohon seba gai \nAdvokat untuk menerima dan menjalankan kuasa dari masyarakat da lam \npengajuan dan pengurusan merek.",
+      "start_line": 471,
+      "end_line": 476
+    },
+    {
+      "heading": "34. Bahwa berdasarkan keseluruhan perjalanan faktual tersebut, persoalan",
+      "slug": "34-bahwa-berdasarkan-keseluruhan-perjalanan-faktual-tersebut-persoalan",
+      "text": "yang dialami para Pemohon bukan muncul karena para Pemohon sejak awal \nmenolak keberadaan profesi Konsultan Kekayaan Intelektual ataup un \n\n14 \nmenolak untuk memenuhi persyaratan yang ditentukan oleh peratur an \nperundang-undangan. Para Pemohon justru telah berusaha mengikut i \nmekanisme hukum yang tersedia, mencari informasi pelatihan sejak setidak-\ntidaknya tahun 2021, serta terus memantau kemungkinan dibukanya  \npelatihan Konsultan Kekayaan Intelektual.",
+      "start_line": 478,
+      "end_line": 486
+    },
+    {
+      "heading": "35. Bahwa berdasarkan seluruh uraian tersebut, kerugian konstit usional para",
+      "slug": "35-bahwa-berdasarkan-seluruh-uraian-tersebut-kerugian-konstit-usional-para",
+      "text": "Pemohon bersifat nyata dan konkret, karena para Pemohon telah menerima \nkonsultasi dan permintaan penawaran jasa dari calon klien untuk membantu \npengajuan dan pengurusan pendaftaran merek, namun tidak dapat \nmenerima dan menjalankan kuasa tersebut. Akibatnya, para Pemoho n \nsecara nyata kehilangan kesempatan untuk memperoleh pekerjaan d an \nhonorarium dari jasa yang hendak diberikan kepada calon klien.",
+      "start_line": 488,
+      "end_line": 493
+    },
+    {
+      "heading": "36. Bahwa kerugian tersebut juga bersifat berkelanjutan, karena selama para",
+      "slug": "36-bahwa-kerugian-tersebut-juga-bersifat-berkelanjutan-karena-selama-para",
+      "text": "Pemohon menjalankan profesinya sebagai Advokat dan kembali mene rima \ncalon klien yang membutuhkan jasa pendaftaran merek, para Pemoh on \nakan terus menghadapi keadaan yang sama, yaitu tidak dapat mene rima \ndan menjalankan kuasa tersebut dalam kapasitasnya sebagai Advokat.",
+      "start_line": 495,
+      "end_line": 498
+    },
+    {
+      "heading": "37. Bahwa dengan demikian, para Pemohon telah mengalami kerugia n",
+      "slug": "37-bahwa-dengan-demikian-para-pemohon-telah-mengalami-kerugia-n",
+      "text": "konstitusional berupa terhalangnya kesempatan untuk menjalankan  \npekerjaan dan profesinya, menerima dan menjalankan kuasa dari c alon \nklien, serta memperoleh pekerjaan dan honorarium atas jasa yang diberikan, \nyang berkaitan langsung dengan hak konstitusional para Pemohon atas \npersamaan kedudukan di dalam hukum, pekerjaan dan penghidupan y ang \nlayak, kepastian hukum yang adil dan perlakuan yang sama di had apan \nhukum, serta hak untuk bekerja dan memperoleh imbalan yang adil  dan \nlayak sebagaimana dijamin dalam Pasal 27 ayat (1), Pasal 27 ayat (2), Pasal \n28D ayat (1), dan Pasal 28D ayat (2) UUD 1945. \nHubungan sebab akibat (causal verband)",
+      "start_line": 500,
+      "end_line": 509
+    },
+    {
+      "heading": "38. Bahwa terdapat hubungan sebab akibat ( causal verband ) yang langsung",
+      "slug": "38-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-yang-langsung",
+      "text": "antara berlakunya Pasal 1 angka 13 UU Merek dan Indikasi Geogra fis \ndengan kerugian konstitusional para Pemohon. Norma a quo secara limitatif \nmendefinisikan “Kuasa” hanya sebagai Konsultan Kekayaan Intelek tual, \nsehingga para Pemohon yang berprofesi sebagai Advokat tidak ter masuk \n\n15 \nsebagai subjek yang dapat bertindak sebagai Kuasa dalam pengaju an dan \npengurusan pendaftaran merek.",
+      "start_line": 511,
+      "end_line": 518
+    },
+    {
+      "heading": "39. Bahwa pembatasan tersebut secara langsung mengakibatkan par a",
+      "slug": "39-bahwa-pembatasan-tersebut-secara-langsung-mengakibatkan-par-a",
+      "text": "Pemohon tidak dapat menerima dan menjalankan kuasa yang hendak \ndiberikan oleh calon klien, yang selanjutnya menyebabkan para P emohon \nkehilangan kesempatan untuk menjalankan pekerjaan dan memperole h \nhonorarium. Dengan demikian, kerugian konstitusional para Pemoh on \nbukan merupakan akibat yang berdiri sendiri atau semata-mata disebabkan \noleh keadaan faktual lainnya, melainkan mempunyai hubungan lang sung \ndengan berlakunya norma a quo.",
+      "start_line": 520,
+      "end_line": 526
+    },
+    {
+      "heading": "40. Bahwa tidak tersedianya pelatihan Konsultan Kekayaan Intele ktual",
+      "slug": "40-bahwa-tidak-tersedianya-pelatihan-konsultan-kekayaan-intele-ktual",
+      "text": "sebagaimana telah diuraikan sebelumnya bukan merupakan sumber utama \nkerugian konstitusional para Pemohon, melainkan fakta yang memp erkuat \nbahwa para Pemohon telah berusaha menempuh mekanisme yang tersedia \nuntuk mengatasi pembatasan tersebut. Adapun sumber langsung ker ugian \npara Pemohon tetap terletak pada Pasal 1 angka 13 UU Merek dan Indikasi \nGeografis yang tidak menempatkan Advokat sebagai salah satu subjek yang \ndapat bertindak sebagai “Kuasa”.",
+      "start_line": 528,
+      "end_line": 534
+    },
+    {
+      "heading": "41. Bahwa dengan demikian, terdapat hubungan yang jelas dan tid ak terputus",
+      "slug": "41-bahwa-dengan-demikian-terdapat-hubungan-yang-jelas-dan-tid-ak-terputus",
+      "text": "antara norma yang dimohonkan pengujian dengan kerugian konstitu sional \npara Pemohon, yaitu berlakunya Pasal 1 angka 13 UU Merek dan In dikasi \nGeografis menyebabkan para Pemohon tidak dapat bertindak sebaga i \nKuasa, yang pada akhirnya menghalangi para Pemohon untuk meneri ma \npekerjaan dan memperoleh honorarium dari jasa yang hendak diber ikan \nkepada calon klien. \nHal yang terjadi jika Permohonan a quo  dikabulkan yaitu Kerugian \nKonstitusional para Pemohon dan Advokat Lainnya dapat dipulihkan.",
+      "start_line": 536,
+      "end_line": 543
+    },
+    {
+      "heading": "42. Bahwa apabila permohonan a quo dikabulkan, kerugian konstitusional para",
+      "slug": "42-bahwa-apabila-permohonan-a-quo-dikabulkan-kerugian-konstitusional-para",
+      "text": "Pemohon sebagaimana telah diuraikan sebelumnya dapat dipulihkan , \nkarena para Pemohon tidak lagi terhalang untuk menerima dan menjalankan \nkuasa dari klien dalam pengajuan dan pengurusan merek dalam \nkapasitasnya sebagai Advokat. Dikabulkannya permohonan a quo juga akan \nmembuka kesempatan yang sama bagi Advokat lainnya untuk memberikan \njasa hukum di bidang merek sepanjang memperoleh kuasa dari klie n di \n\n16 \nseluruh Indonesia, tanpa menghapus ataupun mengurangi keberadaan dan \nperan Konsultan Kekayaan Intelektual sebagai profesi yang tetap  d a p a t  \nmenjalankan kuasa sebagaimana diatur dalam UU Merek dan Indikas i \nGeografis.",
+      "start_line": 545,
+      "end_line": 556
+    },
+    {
+      "heading": "43. Bahwa pemaknaan demikian juga akan memberikan pilihan dan",
+      "slug": "43-bahwa-pemaknaan-demikian-juga-akan-memberikan-pilihan-dan",
+      "text": "memperluas akses masyarakat dalam memperoleh bantuan profesiona l \nuntuk pengajuan dan pengurusan merek. Berdasarkan Pangkalan Dat a \nKonsultan Kekayaan Intelektual Indonesia (PDKKI) di website \nhttps://pdkki.dgip.go.id/, sebagaimana disebutkan di atas yang dikelola \nDirektorat Jenderal Kekayaan Intelektual, saat ini tercatat seb anyak 1.101 \nKonsultan Kekayaan Intelektual terdaftar dengan jangkauan yang tercatat \npada 14 provinsi. Sementara itu, kebutuhan masyarakat terhadap \npelindungan merek terus menunjukkan jumlah yang besar. Berdasar kan \npublikasi resmi DJKI berjudul “DJKI Catat Lonjakan Permohonan Merek dan \nIndikasi Geografis”, sepanjang tahun 2025 tercatat sebanyak 137 .285 \npermohonan merek masuk, sedangkan jumlah permohonan yang berhas il \ndiselesaikan mencapai 169.526 permohonan atau 123,48% dari targ et \npenyelesaian. Keadaan tersebut menunjukkan besarnya kebutuhan \nmasyarakat terhadap layanan pengajuan dan pengurusan merek, seh ingga \nmenurut para Pemohon perlu tersedia akses yang lebih luas bagi \nmasyarakat untuk menentukan pihak yang dipercaya sebagai Kuasa sesuai \ndengan ketentuan hukum. \nAdapun bukti jumlah Konsultan Kekayaan Intelektual dari website  \nhttps://pdkki.dgip.go.id/ yang dapat diakses publik, yaitu sebagai berikut: \n \n \n\n\n17",
+      "start_line": 558,
+      "end_line": 581
+    },
+    {
+      "heading": "44. Bahwa jumlah 1.101 Konsultan Kekayaan Intelektual yang terc atat",
+      "slug": "44-bahwa-jumlah-1-101-konsultan-kekayaan-intelektual-yang-terc-atat",
+      "text": "menjangkau 14 provinsi tersebut juga perlu dilihat dalam kontek s wilayah \nIndonesia yang luas. Para Pemohon tidak bermaksud menyatakan ba hwa \nseluruh Konsultan Kekayaan Intelektual hanya berada di kota-kota tertentu, \nkarena di website tersebut hanya menjelaskan 14 provinsi tanpa \nmenjelaskan letak/kabupatennya di mana saja. Namun demikian, da ta \ntersebut setidak-tidaknya menunjukkan bahwa jangkauan Konsultan  \nKekayaan Intelektual yang tercatat dalam PDKKI belum mencakup s eluruh \nprovinsi di Indonesia. Oleh karena itu, apabila Advokat juga dapat bertindak \nsebagai Kuasa sebagaimana dimohonkan para Pemohon, masyarakat akan \nmemperoleh alternatif yang lebih luas untuk mendapatkan bantuan  dalam \njasa pendaftaran merek, termasuk melalui Advokat yang menjalank an \nprofesinya di berbagai daerah baik itu kabupaten dan/atau kota seluruh \nindonesia, karena keberadaan Advokat pasti ada di seluruh Indonesia.",
+      "start_line": 583,
+      "end_line": 595
+    },
+    {
+      "heading": "45. Bahwa kebutuhan untuk memperluas akses tersebut semakin rel evan",
+      "slug": "45-bahwa-kebutuhan-untuk-memperluas-akses-tersebut-semakin-rel-evan",
+      "text": "apabila dikaitkan dengan fakta yang para Pemohon temukan baru-b aru ini \nmelalui media sosial Instagram yang kami anggap berhubungan Dir ektorat \nJenderal Kekayaan Intelektual yaitu @djki_kemenkum tetanggal 12 Agustus",
+      "start_line": 597,
+      "end_line": 599
+    },
+    {
+      "heading": "2026. Dalam akun Instagram tersebut, terdapat masyarakat yang p ada",
+      "slug": "2026-dalam-akun-instagram-tersebut-terdapat-masyarakat-yang-p-ada",
+      "text": "pokoknya menyampaikan pertanyaan dan harapan bahwa dirinya tela h \nmenunggu kesempatan mengikuti pelatihan Konsultan Kekayaan Intelektual \nsejak tahun 2009 tapi pelatihannya tak kunjung datang dan berha rap \npelatihan yang berhenti di tahun 2019 dapat terlaksana lagi. Pa da akun \ntersebut terdapat tanggapan dari Dirjen Kekayaan Intelektual ya ng \nmemberikan informasi mengenai jumlah Konsultan Kekayaan Intelek tual \nyang terdata sekitar 1000 dan yang aktif sekitar 500. Artinya, jika benar \npernyataan tersebut yang aktif 500, maka sebaiknya advokat dapa t \ndilibatkan dalam membantu pendaftaran merek di Masyarakat yang \njumlahnya lebih banyak dan lebih tersebar di seluruh daerah di Indonesia.",
+      "start_line": 601,
+      "end_line": 610
+    },
+    {
+      "heading": "46. Bahwa dengan demikian, apabila permohonan a quo dikabulkan, manfaat",
+      "slug": "46-bahwa-dengan-demikian-apabila-permohonan-a-quo-dikabulkan-manfaat",
+      "text": "konstitusional yang timbul bukan hanya berupa dipulihkannya kes empatan \npara Pemohon untuk menerima pekerjaan, menjalankan kuasa, dan \nmemperoleh honorarium atas jasa yang diberikan, tetapi juga ter bukanya \npilihan yang lebih luas bagi masyarakat dalam menentukan Kuasa untuk \n\n18 \njasa pendaftaran merek, tanpa menghilangkan hak masyarakat untu k tetap \nmenggunakan jasa Konsultan Kekayaan Intelektual. Pemaknaan demi kian \nmenurut para Pemohon akan menciptakan akses pelayanan hukum yan g \nlebih luas sekaligus menghilangkan kerugian konstitusional para  Pemohon \nyang timbul akibat berlakunya norma a quo.",
+      "start_line": 612,
+      "end_line": 622
+    },
+    {
+      "heading": "47. Bahwa perlu diketahui, para Pemohon mengajukan permohonan i ni ke",
+      "slug": "47-bahwa-perlu-diketahui-para-pemohon-mengajukan-permohonan-i-ni-ke",
+      "text": "Mahkamah Konstitusi RI tidak serta merta hanya memperjuangkan h ak \nkonstitusional para Pemohon, tetapi juga memperjuangkan hak-hak   \nkonstitusional advokat lain yang merasa memiliki kemampuan untu k \nmewakili klien dalam proses pendaftaran merek calon kliennya, namun tidak \nbisa berbuat apa-apa karena adanya pembatasan di UU Merek dan Indikasi \nGeografis tersebut, sehingga pada akhirnya hak konstitusionalny a yang \ndijamin UUD 1945 mulai dari hak mendapatkan klien, hak mendapat kan \nhonorarium hingga hak mengembangkan diri di bidang intelektual tidak bisa \ndia gunakan sama sekali.",
+      "start_line": 624,
+      "end_line": 632
+    },
+    {
+      "heading": "di atas, para Pemohon merujuk pada pertimbangan hukum Mahkamah",
+      "slug": "di-atas-para-pemohon-merujuk-pada-pertimbangan-hukum-mahkamah",
+      "text": "Konstitusi dalam Putusan Nomor 63/PUU-XV/2017, khususnya \npertimbangan [3.12] Hal. 134.   Meskipun putusan tersebut memiliki objek \npengujian yang berbeda dengan permohonan a quo , para Pemohon \nmenafsirkan pertimbangan Mahkamah dalam putusan a quo  yang pada \npokoknya telah menegaskan prinsip bahwa pengaturan mengenai \npelaksanaan kuasa tidak boleh merugikan hak seseorang untuk \nmemberikan kuasa kepada pihak yang dinilainya mampu memperjuang kan \nhaknya dan menurut undang-undang sah menerima kuasa. Menurut pa ra \nPemohon, prinsip tersebut memiliki relevansi dengan kerugian \nkonstitusional para Pemohon sebagai Advokat yang tidak dapat me nerima \ndan menjalankan kuasa akibat berlakunya norma a quo.",
+      "start_line": 635,
+      "end_line": 645
+    },
+    {
+      "heading": "49. Bahwa berdasarkan seluruh uraian tersebut, para Pemohon telah memenuhi",
+      "slug": "49-bahwa-berdasarkan-seluruh-uraian-tersebut-para-pemohon-telah-memenuhi",
+      "text": "seluruh syarat kedudukan hukum sebagaimana dimaksud dalam Pasal  51 \nayat (1) Undang-Undang Mahkamah Konstitusi serta Putusan Mahkam ah \nKonstitusi Nomor 006/PUU-III/2005 dan Putusan Mahkamah Konstitu si \nNomor 11/PUU-V/2007. Oleh karena itu, para Pemohon memiliki kedudukan \nhukum (legal standing) untuk mengajukan permohonan pengujian Pasal 1 \n\n19 \nangka 13 UU Merek dan Indikasi Geografis terhadap UUD 1945 kepa da \nMahkamah Konstitusi. \nIII. POKOK-POKOK PERMOHONAN \nBahwa seluruh dalil-dalil yang telah kami uraikan pada bagian d i atas adalah \nmerupakan satu kesatuan dan kesinambungan yang tidak dapat dipi sahkan \ndengan dalil-dalil pada bagian pokok keterangan para Pemohon ini. \nA. Pasal 1 Angka 13 UU Merek Dan Indikasi Geografis Bertentanga n \ndengan Pasal 27 ayat (1) dan Pasal 28D ayat (1) UUD 1945 Dalam \nKaitannya Dengan Prinsip Persamaan Kedudukan di Dalam Hukum, \nPerlakuan Yang Sama di Hadapan Hukum, Dan Kepastian Hukum Yang \nAdil",
+      "start_line": 647,
+      "end_line": 664
+    },
+    {
+      "heading": "1. Bahwa Pasal 27 ayat (1) UUD 1945 menyatakan:",
+      "slug": "1-bahwa-pasal-27-ayat-1-uud-1945-menyatakan",
+      "text": "“Segala warga negara bersamaan kedudukannya di dalam hukum \ndan pemerintahan dan wajib menjunjung hukum dan pemerintahan \nitu dengan tidak ada kecualinya.”",
+      "start_line": 666,
+      "end_line": 668
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, jaminan persamaan kedudukan di d alam",
+      "slug": "2-bahwa-menurut-para-pemohon-jaminan-persamaan-kedudukan-di-d-alam",
+      "text": "h u k u m  d a l a m  P a s a l  2 7  a y a t  ( 1 )  U U D  1 9 4 5  m e n g h e n d a k i  a g a r  s e t i a p  \nwarga negara memperoleh kedudukan yang setara dalam hukum dan \ntidak ditempatkan pada kedudukan hukum yang berbeda tanpa adany a \ndasar pembedaan yang objektif dan rasional. Dalam konteks \npermohonan a quo , jaminan tersebut menjadi relevan karena para \nPemohon mempersoalkan adanya norma undang-undang yang \nmemberikan kedudukan hukum kepada satu profesi untuk bertindak \nsebagai “Kuasa”, namun tidak memberikan kedudukan hukum yang \nsama kepada Advokat untuk menerima dan menjalankan kuasa dalam \nbidang merek dan indikasi geografis.",
+      "start_line": 670,
+      "end_line": 679
+    },
+    {
+      "heading": "3. Bahwa selanjutnya Pasal 28D ayat (1) UUD 1945 menyatakan:",
+      "slug": "3-bahwa-selanjutnya-pasal-28d-ayat-1-uud-1945-menyatakan",
+      "text": "“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum.”",
+      "start_line": 681,
+      "end_line": 683
+    },
+    {
+      "heading": "4. Bahwa menurut para Pemohon, Pasal 28D ayat (1) UUD 1945 dala m",
+      "slug": "4-bahwa-menurut-para-pemohon-pasal-28d-ayat-1-uud-1945-dala-m",
+      "text": "konteks permohonan a quo memberikan dua jaminan konstitusional yang \nrelevan, yaitu perlakuan yang sama di hadapan hukum dan kepasti an \nhukum yang adil. Perlakuan yang sama di hadapan hukum menghendaki \nagar suatu pembedaan perlakuan hukum mempunyai dasar yang dapat  \n\n20 \ndibenarkan secara objektif dan rasional, sedangkan kepastian hu kum \nyang adil menghendaki agar pengaturan mengenai hak dan ruang \nlingkup suatu profesi tidak menimbulkan pembatasan yang tidak j elas \ndasar pembenarannya dan berakibat tidak adil bagi pihak yang te rkena \npembatasan tersebut.",
+      "start_line": 685,
+      "end_line": 695
+    },
+    {
+      "heading": "5. Bahwa Pasal 1 angka 13 UU Merek dan Indikasi Geografis menen tukan:",
+      "slug": "5-bahwa-pasal-1-angka-13-uu-merek-dan-indikasi-geografis-menen-tukan",
+      "text": "“Kuasa adalah Konsultan Kekayaan Intelektual yang bertempat tin ggal \natau berkedudukan tetap di wilayah Negara Kesatuan Republik \nIndonesia.”",
+      "start_line": 697,
+      "end_line": 699
+    },
+    {
+      "heading": "6. Bahwa melalui rumusan tersebut, pembentuk undang-undang seca ra",
+      "slug": "6-bahwa-melalui-rumusan-tersebut-pembentuk-undang-undang-seca-ra",
+      "text": "limitatif menempatkan Konsultan Kekayaan Intelektual sebagai pi hak \nyang dapat bertindak sebagai “Kuasa” dalam berbagai tindakan ya ng \nmenurut UU Merek dan Indikasi Geografis dapat dilakukan melalui  \nKuasa.",
+      "start_line": 701,
+      "end_line": 704
+    },
+    {
+      "heading": "7. Bahwa pada saat yang sama, Advokat tidak termasuk dalam peng ertian",
+      "slug": "7-bahwa-pada-saat-yang-sama-advokat-tidak-termasuk-dalam-peng-ertian",
+      "text": "“Kuasa” tersebut, meskipun Advokat merupakan profesi hukum yang  \ndiakui oleh negara dan berdasarkan peraturan perundang-undangan  \nmenjalankan fungsi pemberian jasa hukum, termasuk menerima dan \nmenjalankan kuasa, mewakili, mendampingi, membela, serta melakukan \ntindakan hukum untuk kepentingan klien, baik di dalam maupun di  luar \npengadilan.",
+      "start_line": 706,
+      "end_line": 711
+    },
+    {
+      "heading": "8. Bahwa para Pemohon tidak mempersoalkan keberadaan Konsultan",
+      "slug": "8-bahwa-para-pemohon-tidak-mempersoalkan-keberadaan-konsultan",
+      "text": "Kekayaan Intelektual sebagai profesi khusus maupun kewenanganny a \nuntuk bertindak sebagai Kuasa. Persoalan konstitusional yang \ndipersoalkan para Pemohon adalah pembatasan pengertian “Kuasa” \nsecara eksklusif hanya kepada Konsultan Kekayaan Intelektual ya ng \nsekaligus menutup Advokat untuk menerima dan menjalankan kuasa \ndalam bidang merek dan indikasi geografis.",
+      "start_line": 713,
+      "end_line": 718
+    },
+    {
+      "heading": "9. Bahwa para Pemohon menyadari bahwa prinsip persamaan di dala m",
+      "slug": "9-bahwa-para-pemohon-menyadari-bahwa-prinsip-persamaan-di-dala-m",
+      "text": "hukum dan perlakuan yang sama di hadapan hukum tidak berarti se tiap \nprofesi harus selalu memperoleh perlakuan yang identik. Suatu \npembedaan dapat dibenarkan sepanjang mempunyai dasar yang objektif \ndan rasional. Namun, menurut para Pemohon, norma a quo  t i d a k  \nmenunjukkan dasar pembedaan yang memadai untuk mengecualikan \n\n21 \nAdvokat secara mutlak dari pengertian “Kuasa”, padahal menerima  dan \nmenjalankan kuasa merupakan salah satu bentuk pemberian jasa hukum \nyang secara sah dilakukan oleh Advokat untuk kepentingan hukum klien.",
+      "start_line": 720,
+      "end_line": 729
+    },
+    {
+      "heading": "10. Bahwa dalam konteks norma a quo, para Pemohon memandang Advokat",
+      "slug": "10-bahwa-dalam-konteks-norma-a-quo-para-pemohon-memandang-advokat",
+      "text": "dan Konsultan Kekayaan Intelektual mempunyai kesamaan fungsi ya ng \nrelevan untuk diperbandingkan, yaitu sama-sama bertindak berdasarkan \npemberian kuasa dari klien untuk dan atas nama klien dalam melakukan \ntindakan hukum tertentu. Dengan demikian, persoalan yang \ndipermasalahkan para Pemohon bukanlah menyamakan seluruh \nkarakteristik, kompetensi, maupun ruang lingkup kedua profesi tersebut, \nmelainkan adanya perbedaan kedudukan dan perlakuan hukum \nterhadap dua profesi dalam fungsi yang sama-sama berkaitan deng an \npenerimaan dan pelaksanaan kuasa dari klien.",
+      "start_line": 731,
+      "end_line": 739
+    },
+    {
+      "heading": "11. Bahwa tindakan yang dipersoalkan para Pemohon dalam permohonan a",
+      "slug": "11-bahwa-tindakan-yang-dipersoalkan-para-pemohon-dalam-permohonan-a",
+      "text": "quo pada pokoknya juga berada dalam ranah non-litigasi, khususnya \npengajuan dan pengurusan hak atas merek di hadapan instansi \nadministrasi yang berwenang. Dalam menjalankan profesinya, Advo kat \nberdasarkan UU Advokat tidak hanya memberikan jasa hukum dalam \nproses litigasi di pengadilan, tetapi juga memberikan jasa huku m di luar \npengadilan, termasuk menerima dan menjalankan kuasa serta \nmelakukan tindakan hukum untuk kepentingan klien.",
+      "start_line": 741,
+      "end_line": 747
+    },
+    {
+      "heading": "12. Bahwa oleh karena itu, menurut para Pemohon, apabila Konsul tan",
+      "slug": "12-bahwa-oleh-karena-itu-menurut-para-pemohon-apabila-konsul-tan",
+      "text": "Kekayaan Intelektual dapat menerima kuasa dari klien untuk melakukan \ntindakan non-litigasi dalam pengajuan dan pengurusan merek, \nsedangkan Advokat yang secara profesi juga menjalankan fungsi \nmenerima dan melaksanakan kuasa di luar pengadilan dikecualikan  \nsecara mutlak dari pengertian “Kuasa”, maka perbedaan kedudukan dan \nperlakuan tersebut harus mempunyai dasar pembenaran yang objekt if \ndan rasional. Justru dasar pembenaran atas pembedaan tersebut y ang \nmenurut para Pemohon tidak tercermin secara memadai dalam norma a \nquo.",
+      "start_line": 749,
+      "end_line": 757
+    },
+    {
+      "heading": "13. Bahwa akibat dari definisi “Kuasa” dalam norma a quo , pembatasan",
+      "slug": "13-bahwa-akibat-dari-definisi-kuasa-dalam-norma-a-quo-pembatasan",
+      "text": "terhadap Advokat tidak hanya terjadi pada pengajuan awal permohonan \npendaftaran merek, melainkan berakibat pada berbagai tindakan d alam \n\n22 \nproses pengurusan merek yang oleh UU Merek dan Indikasi Geograf is \ndapat dilakukan melalui Kuasa, antara lain mengajukan sanggahan , \nmemberikan tanggapan dalam pemeriksaan substantif, mengajukan \npermohonan perbaikan sertifikat, mengajukan banding kepada Komi si \nBanding Merek, melakukan perubahan data, pencatatan pengalihan hak, \nserta tindakan lainnya yang menurut UU Merek dan Indikasi Geogr afis \ndapat dilakukan melalui Kuasa.",
+      "start_line": 759,
+      "end_line": 769
+    },
+    {
+      "heading": "14. Bahwa pembedaan tersebut semakin menimbulkan persoalan keti ka",
+      "slug": "14-bahwa-pembedaan-tersebut-semakin-menimbulkan-persoalan-keti-ka",
+      "text": "Advokat tidak dapat bertindak sebagai Kuasa pada tahapan administratif \nsampai dengan pengajuan banding kepada Komisi Banding Merek, \nnamun ketika persoalan merek memasuki tahap sengketa di pengadilan, \nAdvokat dapat menerima dan menjalankan kuasa untuk mewakili dan  \nmembela kepentingan hukum klien. Menurut para Pemohon, keadaan \ntersebut menimbulkan pertanyaan mengenai dasar objektif dan ras ional \ndari pembedaan kedudukan dan perlakuan terhadap Advokat dalam satu \nrangkaian persoalan hukum di bidang merek.",
+      "start_line": 771,
+      "end_line": 778
+    },
+    {
+      "heading": "15. Bahwa persoalan tersebut juga relevan apabila dilihat dalam k o n t e k s",
+      "slug": "15-bahwa-persoalan-tersebut-juga-relevan-apabila-dilihat-dalam-k-o-n-t-e-k-s",
+      "text": "pengaturan Kekayaan Intelektual lainnya. Pasal 1 angka 18 Undan g-\nUndang Nomor 28 Tahun 2014 tentang Hak Cipta mendefinisikan \n“Kuasa” sebagai: \n“konsultan kekayaan intelektual, atau orang yang mendapat kuasa  dari \nPencipta, Pemegang Hak Cipta, atau pemilik Hak Terkait.” \nDengan demikian, dalam rezim Hak Cipta, pembentuk undang-undang  \ntidak menempatkan Konsultan Kekayaan Intelektual sebagai satu-\nsatunya pihak yang dapat menerima kuasa.",
+      "start_line": 780,
+      "end_line": 787
+    },
+    {
+      "heading": "16. Bahwa para Pemohon tidak bermaksud menyamakan karakteristik",
+      "slug": "16-bahwa-para-pemohon-tidak-bermaksud-menyamakan-karakteristik",
+      "text": "perlindungan Merek dengan Hak Cipta ataupun menjadikan UU Hak \nCipta sebagai batu uji terhadap norma a quo . Pengaturan tersebut \ndikemukakan untuk menunjukkan bahwa dalam rumpun Kekayaan \nIntelektual sendiri, pembentuk undang-undang mengenal pengatura n \npemberian kuasa yang tidak selalu dibatasi secara eksklusif han ya \nkepada Konsultan Kekayaan Intelektual. Oleh karena itu, menurut  para \nPemohon, perbedaan pengaturan tersebut semakin menegaskan \n\n23 \nperlunya dasar yang objektif dan rasional atas pembatasan penge rtian \n“Kuasa” secara eksklusif dalam norma a quo.",
+      "start_line": 789,
+      "end_line": 799
+    },
+    {
+      "heading": "di dalam hukum dan perlakuan yang sama di hadapan hukum, norma a",
+      "slug": "di-dalam-hukum-dan-perlakuan-yang-sama-di-hadapan-hukum-norma-a",
+      "text": "quo menurut para Pemohon juga menimbulkan persoalan terhadap \nkepastian hukum yang adil. Di satu sisi, Advokat diakui sebagai  profesi \nhukum yang dapat menerima dan menjalankan kuasa serta memberikan \njasa hukum baik di dalam maupun di luar pengadilan, namun di si si lain \nnorma a quo secara limitatif tidak mengakui Advokat sebagai “Kuasa” \ndalam bidang merek dan indikasi geografis. Keadaan tersebut \nmengakibatkan para Pemohon memperoleh kepastian mengenai adanya \npembatasan secara normatif, namun kepastian tersebut menurut pa ra \nPemohon bukanlah kepastian hukum yang adil, karena pembatasan i tu \nmenutup secara mutlak ruang Advokat untuk bertindak sebagai Kua sa \ntanpa dasar pembedaan yang menurut para Pemohon dapat dibenarkan \nsecara objektif dan rasional.",
+      "start_line": 802,
+      "end_line": 813
+    },
+    {
+      "heading": "18. Bahwa berdasarkan seluruh uraian tersebut, menurut para Pem ohon,",
+      "slug": "18-bahwa-berdasarkan-seluruh-uraian-tersebut-menurut-para-pem-ohon",
+      "text": "letak pertentangan norma a quo dengan Pasal 27 ayat (1) UUD 1945 \nterdapat pada pembedaan kedudukan di dalam hukum antara Advokat  \ndan Konsultan Kekayaan Intelektual dalam menerima dan menjalank an \nkuasa di bidang merek dan indikasi geografis tanpa dasar pembed aan \nyang menurut para Pemohon objektif dan rasional.",
+      "start_line": 815,
+      "end_line": 819
+    },
+    {
+      "heading": "19. Bahwa terhadap Pasal 28D aya t (1) UUD 1945, letak pertentan gan",
+      "slug": "19-bahwa-terhadap-pasal-28d-aya-t-1-uud-1945-letak-pertentan-gan",
+      "text": "norma a quo berkaitan dengan perlakuan yang sama di hadapan hukum, \nkarena para Pemohon sebagai Advokat memperoleh perlakuan hukum \nyang berbeda berupa tertutupnya kesempatan untuk bertindak seba gai \nKuasa, sedangkan menurut para Pemohon pembedaan tersebut tidak \nmempunyai dasar pembenaran yang objektif dan rasional.",
+      "start_line": 821,
+      "end_line": 825
+    },
+    {
+      "heading": "20. Bahwa terhadap jaminan kepastian hukum yang adil dalam Pasa l 28D",
+      "slug": "20-bahwa-terhadap-jaminan-kepastian-hukum-yang-adil-dalam-pasa-l-28d",
+      "text": "ayat (1) UUD 1945, persoalan konstitusional norma a quo terletak pada \nadanya pembatasan yang secara pasti menutup Advokat dari pengertian \n“Kuasa”, tetapi kepastian tersebut menghasilkan akibat hukum ya ng \nmenurut para Pemohon tidak adil karena Advokat yang secara prof esi \ndapat menerima dan menjalankan kuasa justru dikecualikan secara  \n\n24 \nmutlak untuk menerima dan menjalankan kuasa dalam bidang merek dan \nindikasi geografis tanpa dasar pembedaan yang objektif dan rasional.",
+      "start_line": 827,
+      "end_line": 835
+    },
+    {
+      "heading": "21. Bahwa dengan demikian, menurut para Pemohon, Pasal 1 angka 13 UU",
+      "slug": "21-bahwa-dengan-demikian-menurut-para-pemohon-pasal-1-angka-13-uu",
+      "text": "Merek dan Indikasi Geografis telah bertentangan dengan Pasal 27  ayat \n(1) dan Pasal 28D ayat (1) UUD 1945 dalam kaitannya dengan prin sip \npersamaan kedudukan di dalam hukum, perlakuan yang sama di \nhadapan hukum, dan kepastian hukum yang adil, sepanjang pengert ian \n“Kuasa” tidak mencakup Advokat. \nB. Pasal 1 angka 13 UU Merek dan Indikasi Geografis Bertentanga n Pasal \n27 ayat (2) dan Pasal 28D ayat (2) UUD 1945 berkaitan dengan Hak Atas \nPekerjaan, Hak Untuk Bekerja dan Memperoleh Imbalan yang Adil.",
+      "start_line": 837,
+      "end_line": 844
+    },
+    {
+      "heading": "1. Bahwa Pasal 27 ayat (2) UUD 1945 menyatakan:",
+      "slug": "1-bahwa-pasal-27-ayat-2-uud-1945-menyatakan",
+      "text": "“Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan \nyang layak bagi kemanusiaan”.",
+      "start_line": 846,
+      "end_line": 847
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, jaminan “hak atas pekerjaan” dal am",
+      "slug": "2-bahwa-menurut-para-pemohon-jaminan-hak-atas-pekerjaan-dal-am",
+      "text": "Pasal 27 ayat (2) UUD 1945 dalam konteks permohonan a quo berkaitan \ndengan kesempatan bagi warga negara untuk memperoleh pekerjaan \nsebagai sarana memperoleh penghidupan yang layak. Dengan demikian, \nhak konstitusional yang didalilkan para Pemohon berdasarkan ketentuan \ntersebut adalah hak untuk memperoleh kesempatan atas pekerjaan,  \ntermasuk pekerjaan melalui profesi yang secara sah dijalankan oleh para \nPemohon.",
+      "start_line": 849,
+      "end_line": 855
+    },
+    {
+      "heading": "3. Bahwa selanjutnya Pasal 28D ayat (2) UUD 1945 menyatakan:",
+      "slug": "3-bahwa-selanjutnya-pasal-28d-ayat-2-uud-1945-menyatakan",
+      "text": "“Setiap orang berhak untuk bekerja serta mendapat imbalan dan \nperlakuan yang adil dan layak dalam hubungan kerja.”",
+      "start_line": 857,
+      "end_line": 858
+    },
+    {
+      "heading": "4. Bahwa berbeda dengan “hak atas pekerjaan” dalam Pasal 27 aya t (2)",
+      "slug": "4-bahwa-berbeda-dengan-hak-atas-pekerjaan-dalam-pasal-27-aya-t-2",
+      "text": "UUD 1945 yang oleh para Pemohon dikaitkan dengan kesempatan untuk \nmemperoleh pekerjaan, Pasal 28D ayat (2) UUD 1945 secara ekspli sit \nmenjamin “hak untuk bekerja”, yang dalam konteks permohonan a quo \nberkaitan dengan kesempatan para Pemohon untuk menjalankan \npekerjaan yang telah tersedia atau hendak diberikan kepada para  \nPemohon, serta hak untuk memperoleh imbalan yang adil dan layak dari \npekerjaan yang dijalankan tersebut.",
+      "start_line": 860,
+      "end_line": 866
+    },
+    {
+      "heading": "5. Bahwa para Pemohon merupakan Advokat yang menjalankan profes inya",
+      "slug": "5-bahwa-para-pemohon-merupakan-advokat-yang-menjalankan-profes-inya",
+      "text": "dengan memberikan jasa hukum kepada masyarakat. Dalam \n\n25 \nmenjalankan profesi tersebut, para Pemohon menerima dan \nmenjalankan kuasa, mewakili, mendampingi, membela, serta melakukan \ntindakan hukum lainnya untuk kepentingan hukum klien, dan atas \npemberian jasa hukum tersebut Advokat berhak memperoleh honorarium \nsebagaimana diatur dalam peraturan perundang-undangan.",
+      "start_line": 868,
+      "end_line": 875
+    },
+    {
+      "heading": "6. Bahwa para Pemohon telah menempuh pendidikan tinggi hukum se lama",
+      "slug": "6-bahwa-para-pemohon-telah-menempuh-pendidikan-tinggi-hukum-se-lama",
+      "text": "4 (empat) tahun dan tahapan profesi yang dipersyaratkan untuk menjadi \nAdvokat, termasuk pendidikan profesi, ujian profesi, magang, hi ngga \npengangkatan dan pengucapan sumpah sebagai Advokat. Seluruh \ntahapan tersebut pada akhirnya memberikan dasar bagi para Pemoh on \nuntuk menjalankan profesi Advokat, termasuk menerima dan \nmenjalankan kuasa serta memberikan jasa hukum kepada masyarakat.",
+      "start_line": 877,
+      "end_line": 882
+    },
+    {
+      "heading": "7. Bahwa para Pemohon menyadari bahwa hak atas pekerjaan dan ha k",
+      "slug": "7-bahwa-para-pemohon-menyadari-bahwa-hak-atas-pekerjaan-dan-ha-k",
+      "text": "untuk bekerja bukanlah hak yang berarti setiap orang dapat menjalankan \nsetiap profesi atau pekerjaan tanpa persyaratan tertentu. Negar a dapat \nmenentukan persyaratan terhadap suatu profesi atau pekerjaan \nsepanjang pembatasan tersebut mempunyai dasar yang objektif, \nrasional, dan proporsional serta tidak menghilangkan kesempatan  \nseseorang untuk menjalankan pekerjaan secara tidak adil.",
+      "start_line": 884,
+      "end_line": 889
+    },
+    {
+      "heading": "8. Bahwa persoalan konstitusional kemudian timbul ketika Pasal 1 angka",
+      "slug": "8-bahwa-persoalan-konstitusional-kemudian-timbul-ketika-pasal-1-angka",
+      "text": "13 UU Merek dan Indikasi Geografis yang dimana pengertian “Kuas a” \ndibatasi secara limitatif hanya kepada Konsultan Kekayaan Intel ektual \nsehingga para Pemohon sebagai Advokat tidak dapat menerima dan \nmenjalankan kuasa dalam berbagai tindakan yang menurut UU Merek  \ndan Indikasi Geografis dilakukan melalui Kuasa.",
+      "start_line": 891,
+      "end_line": 895
+    },
+    {
+      "heading": "9. Bahwa akibat pembatasan tersebut, kesempatan para Pemohon un tuk",
+      "slug": "9-bahwa-akibat-pembatasan-tersebut-kesempatan-para-pemohon-un-tuk",
+      "text": "memperoleh pekerjaan berupa penerimaan dan pelaksanaan kuasa \ndalam bidang merek dan indikasi geografis telah tertutup secara normatif. \nDengan kata lain, sekalipun terdapat masyarakat atau calon klie n yang \nmemilih dan bermaksud memberikan kuasa kepada para Pemohon, \nserta para Pemohon bersedia menerima dan melaksanakan pekerjaan  \ntersebut, para Pemohon tetap tidak dapat bertindak sebagai “Kua sa” \nkarena terhalang secara langsung oleh berlakunya norma a quo. \n\n26",
+      "start_line": 897,
+      "end_line": 905
+    },
+    {
+      "heading": "10. Bahwa sebagaimana telah para Pemohon uraikan dalam bagian",
+      "slug": "10-bahwa-sebagaimana-telah-para-pemohon-uraikan-dalam-bagian",
+      "text": "Kedudukan Hukum ( Legal Standing), keadaan tersebut bukan sekadar \nbersifat hipotetis. para Pemohon secara faktual telah menerima \nkonsultasi dan permintaan penawaran jasa dari calon klien untuk  \npengajuan dan pengurusan pendaftaran merek, namun pekerjaan \ntersebut tidak dapat diterima dan dilaksanakan secara penuh kar ena \npara Pemohon tidak termasuk dalam pengertian “Kuasa” berdasarka n \nnorma a quo.",
+      "start_line": 907,
+      "end_line": 913
+    },
+    {
+      "heading": "11. Bahwa dalam menghadapi pembatasan tersebut, para Pemohon ti dak",
+      "slug": "11-bahwa-dalam-menghadapi-pembatasan-tersebut-para-pemohon-ti-dak",
+      "text": "serta-merta mempersoalkan norma a quo , melainkan terlebih dahulu \nberupaya mencari mekanisme yang tersedia untuk memperoleh statu s \nsebagai Konsultan Kekayaan Intelektual. Namun sebagaimana telah  \ndiuraikan dalam bagian Kedudukan Hukum, para Pemohon kemudian \nmemperoleh informasi bahwa pelatihan Konsultan Kekayaan Intelek tual \nterakhir diselenggarakan pada tahun 2019 dan belum diselenggara kan \nkembali pada saat para Pemohon mencari informasi mengenai pelatihan \ntersebut.",
+      "start_line": 915,
+      "end_line": 922
+    },
+    {
+      "heading": "12. Bahwa keadaan tersebut ternyata masih berlangsung hingga sa at",
+      "slug": "12-bahwa-keadaan-tersebut-ternyata-masih-berlangsung-hingga-sa-at",
+      "text": "permohonan ini telah didaftarkan ke Mahkamah Konstitusi RI. Pad a \ntanggal 12 Agustus 2026 , setelah permohonan a quo  diajukan, para \nPemohon menyaksikan tayangan melalui akun media sosial Instagra m \nyang para Pemohon pahami sebagai akun resmi Direktorat Jenderal  \nKekayaan Intelektual (DJKI), yang semakin menegaskan bahwa \npersoalan mengenai belum terselenggaranya kembali pelatihan \nKonsultan Kekayaan Intelektual setelah terakhir dilaksanakan pa da \ntahun 2019 masih menjadi persoalan hingga tahun 2026.",
+      "start_line": 924,
+      "end_line": 931
+    },
+    {
+      "heading": "13. Bahwa keadaan tersebut menjadi relevan bagi para Pemohon ka rena di",
+      "slug": "13-bahwa-keadaan-tersebut-menjadi-relevan-bagi-para-pemohon-ka-rena-di",
+      "text": "satu sisi norma a quo  menutup kesempatan para Pemohon sebagai \nAdvokat untuk menerima dan menjalankan kuasa dalam bidang merek  \ndan indikasi geografis, sementara di sisi lain upaya para Pemohon untuk \nmenempuh mekanisme menjadi Konsultan Kekayaan Intelektual juga \ntidak dapat dilanjutkan karena pelatihan yang menjadi salah satu tahapan \nuntuk memperoleh status tersebut belum diselenggarakan kembali.  \nKeadaan demikian semakin memperberat akibat pembatasan normatif  \n\n27 \nyang dialami para Pemohon terhadap kesempatan untuk memperoleh \ndan menjalankan pekerjaan di bidang tersebut.",
+      "start_line": 933,
+      "end_line": 943
+    },
+    {
+      "heading": "14. Bahwa pembatasan tersebut terjadi di tengah tingginya aktiv itas",
+      "slug": "14-bahwa-pembatasan-tersebut-terjadi-di-tengah-tingginya-aktiv-itas",
+      "text": "pengajuan dan pengurusan merek di Indonesia. Berdasarkan inform asi \nresmi DJKI tertanggal 8 Desember 2025 dengan judul “Lonjakan \nPermohonan Merek dan Indikasi Geografis” , tercatat sebanyak 137.285 \npermohonan merek masuk dan sebanyak 169.526 permohonan \ndiselesaikan pada tahun 2025.",
+      "start_line": 945,
+      "end_line": 949
+    },
+    {
+      "heading": "15. Bahwa para Pemohon tidak mendalilkan bahwa seluruh permohon an",
+      "slug": "15-bahwa-para-pemohon-tidak-mendalilkan-bahwa-seluruh-permohon-an",
+      "text": "merek tersebut harus diajukan melalui Kuasa ataupun seharusnya \nmenjadi pekerjaan para Pemohon. Namun, besarnya jumlah \npermohonan tersebut menunjukkan adanya aktivitas dan kebutuhan \nmasyarakat yang nyata dalam pengajuan dan pengurusan merek. Dar i \naktivitas tersebut terdapat masyarakat yang memilih menggunakan  jasa \nKuasa, termasuk calon klien yang secara faktual telah meminta \nkonsultasi dan penawaran jasa kepada para Pemohon.",
+      "start_line": 951,
+      "end_line": 957
+    },
+    {
+      "heading": "16. Bahwa pada sisi lain, berdasarkan penelusuran para Pemohon pada",
+      "slug": "16-bahwa-pada-sisi-lain-berdasarkan-penelusuran-para-pemohon-pada",
+      "text": "pangkalan data Konsultan Kekayaan Intelektual DJKI, jumlah Kons ultan \nKekayaan Intelektual yang terdaftar tercatat sekitar 1.101 oran g. \nSementara itu, para Pemohon sebagai Advokat tidak mempunyai \nkesempatan untuk menerima dan menjalankan kuasa dalam bidang \ntersebut dan, sebagaimana telah diuraikan di atas, belum dapat pula \nmenempuh tahapan pelatihan untuk menjadi Konsultan Kekayaan \nIntelektual karena pelatihan tersebut belum diselenggarakan kembali.",
+      "start_line": 959,
+      "end_line": 965
+    },
+    {
+      "heading": "17. Bahwa keadaan tersebut menempatkan para Pemohon pada kondis i di",
+      "slug": "17-bahwa-keadaan-tersebut-menempatkan-para-pemohon-pada-kondis-i-di",
+      "text": "mana terdapat aktivitas pengajuan merek dalam jumlah yang signi fikan \ndan terdapat calon klien yang secara langsung hendak menggunaka n \njasa para Pemohon, namun para Pemohon secara normatif tidak dap at \nmenerima dan menjalankan pekerjaan tersebut. Akibatnya, para \nPemohon tidak hanya kehilangan kesempatan untuk memperoleh \npekerjaan, tetapi juga kehilangan kesempatan memperoleh honorar ium \nsebagai imbalan atas jasa profesional yang seharusnya dapat dib erikan \nkepada calon klien. \n\n28",
+      "start_line": 967,
+      "end_line": 976
+    },
+    {
+      "heading": "18. Bahwa terhadap jaminan konstitusional dalam Pasal 27 ayat ( 2) UUD",
+      "slug": "18-bahwa-terhadap-jaminan-konstitusional-dalam-pasal-27-ayat-2-uud",
+      "text": "1945, menurut para Pemohon letak pertentangan norma a quo terdapat \npada tertutupnya kesempatan para Pemohon sebagai warga negara \nuntuk memperoleh pekerjaan berupa pemberian jasa hukum sebagai \nKuasa dalam bidang merek dan indikasi geografis. Tertutupnya \nkesempatan tersebut bukan disebabkan tidak adanya kebutuhan \nmasyarakat, tidak adanya calon klien, ataupun karena calon klie n \nmemilih menggunakan jasa pihak lain, melainkan secara langsung \ndisebabkan oleh berlakunya norma a quo yang tidak mengakui Advokat \nsebagai “Kuasa”.",
+      "start_line": 978,
+      "end_line": 986
+    },
+    {
+      "heading": "19. Bahwa dengan demikian, ketika terdapat calon klien yang sec ara",
+      "slug": "19-bahwa-dengan-demikian-ketika-terdapat-calon-klien-yang-sec-ara",
+      "text": "sukarela hendak memberikan pekerjaan dan kuasa kepada para \nPemohon, tetapi pekerjaan terse but secara hukum tidak dapat dit erima \nsemata-mata karena para Pemohon berprofesi sebagai Advokat dan \nbukan Konsultan Kekayaan Intelektual, menurut para Pemohon tela h \nterjadi pembatasan terhadap hak atas pekerjaan dan kesempatan \nmemperoleh penghidupan melalui profesi yang dijalankan para Pemohon \nsebagaimana dijamin dalam Pasal 27 ayat (2) UUD 1945.",
+      "start_line": 988,
+      "end_line": 994
+    },
+    {
+      "heading": "20. Bahwa berbeda dengan hak atas pekerjaan sebagaimana dijamin dalam",
+      "slug": "20-bahwa-berbeda-dengan-hak-atas-pekerjaan-sebagaimana-dijamin-dalam",
+      "text": "Pasal 27 ayat (2) UUD 1945 yang berkaitan dengan kesempatan par a \nPemohon untuk memperoleh pekerjaan, Pasal 28D ayat (2) UUD 1945  \nmemberikan jaminan terhadap hak untuk bekerja dan memperoleh \nimbalan yang adil. Menurut para Pemohon, letak pertentangan nor ma a \nquo terhadap jaminan tersebut terdapat pada terhalangnya para \nPemohon untuk menjalankan pekerjaan profesional berupa penerima an \ndan pelaksanaan kuasa yang secara nyata hendak diberikan oleh c alon \nklien, yang sekaligus menghilangkan kesempatan para Pemohon unt uk \nmemperoleh honorarium atau imbalan atas jasa profesional yang hendak \ndiberikan.",
+      "start_line": 996,
+      "end_line": 1005
+    },
+    {
+      "heading": "21. Bahwa para Pemohon tidak mendalilkan adanya hak konstitusional untuk",
+      "slug": "21-bahwa-para-pemohon-tidak-mendalilkan-adanya-hak-konstitusional-untuk",
+      "text": "memperoleh jumlah klien ataupun penghasilan tertentu. Namun, ya ng \ndipersoalkan para Pemohon adalah adanya norma undang-undang yang \nsecara langsung menutup kesempatan  para Pemohon untuk menerima \npekerjaan, menjalankan pekerjaan tersebut, dan memperoleh imbal an \n\n29 \natas pekerjaan yang secara nyata hendak diberikan oleh calon kl ien, \ntanpa adanya dasar pembatasan yang menurut para Pemohon objekti f, \nrasional, dan proporsional untuk mengecualikan Advokat secara m utlak \nsebagai Kuasa.",
+      "start_line": 1007,
+      "end_line": 1016
+    },
+    {
+      "heading": "22. Bahwa berdasarkan seluruh uraian tersebut, pembatasan penge rtian",
+      "slug": "22-bahwa-berdasarkan-seluruh-uraian-tersebut-pembatasan-penge-rtian",
+      "text": "“Kuasa” dalam Pasal 1 angka 13 UU Merek dan Indikasi Geografis telah \nmenimbulkan akibat konstitusional terhadap para Pemohon berupa \ntertutupnya kesempatan untuk memperoleh pekerjaan sebagai Kuasa di \nbidang merek dan indikasi geografis, terhalangnya para Pemohon untuk \nmenjalankan pekerjaan yang secara nyata hendak diberikan oleh c alon \nklien, serta sebagai akibatnya hilangnya kesempatan para Pemoho n \nuntuk memperoleh honorarium atau imbalan atas pekerjaan tersebut.",
+      "start_line": 1018,
+      "end_line": 1024
+    },
+    {
+      "heading": "23. Bahwa dengan demikian, menurut para Pemohon, norma a quo t e l a h",
+      "slug": "23-bahwa-dengan-demikian-menurut-para-pemohon-norma-a-quo-t-e-l-a-h",
+      "text": "membatasi hak atas pekerjaan para Pemohon sebagaimana dijamin \ndalam Pasal 27 ayat (2) UUD 1945, serta membatasi hak untuk bek erja \ndan memperoleh imbalan yang adil sebagaimana dijamin dalam Pasa l \n28D ayat (2) UUD 1945. Oleh karena itu, Pasal 1 angka 13 UU Mer ek \ndan Indikasi Geografis bertentangan dengan Pasal 27 ayat (2) dan Pasal \n28D ayat (2) UUD 1945 sepanjang pengertian “Kuasa” tidak mencak up \nAdvokat. \nC. Pengakuan Advokat Sebagai “Kuasa” Tidak Menghilangkan Eksist ensi \ndan Kedudukan Konsultan Kekayaan Intelektual Serta Relevan Dala m \nMenilai dasar Pembedaan Perlakuan Berdasarkan Pasal 27 ayat (1) Dan \nPasal 28D ayat (1) UUD 1945",
+      "start_line": 1026,
+      "end_line": 1036
+    },
+    {
+      "heading": "1. Bahwa para Pemohon perlu menegaskan bahwa permohonan a quo",
+      "slug": "1-bahwa-para-pemohon-perlu-menegaskan-bahwa-permohonan-a-quo",
+      "text": "tidak dimaksudkan untuk menghapus, menggantikan, ataupun \nmengurangi eksistensi dan kedudukan Konsultan Kekayaan Intelekt ual. \npara Pemohon hanya memohon agar Advokat juga dapat diakui sebagai \n“Kuasa” dalam UU Merek dan Indikasi Geografis, sehingga Advokat dan \nKonsultan Kekayaan Intelektual dapat menjalankan profesinya mas ing-\nmasing secara berdampingan.",
+      "start_line": 1038,
+      "end_line": 1043
+    },
+    {
+      "heading": "2. Bahwa Advokat dan Konsultan Kekayaan Intelektual memang",
+      "slug": "2-bahwa-advokat-dan-konsultan-kekayaan-intelektual-memang",
+      "text": "merupakan dua profesi yang berbeda. Namun, dalam konteks norma a \nquo, terdapat persamaan fungsi yang relevan, yaitu keduanya sama-\n\n30 \nsama dapat bertindak sebagai penerima kuasa dari klien untuk \nmelakukan tindakan bagi kepentingan pihak yang memberikan kuasa.",
+      "start_line": 1045,
+      "end_line": 1050
+    },
+    {
+      "heading": "3. Bahwa persamaan fungsi tersebut terlihat dari Pasal 1 angka 2 UU",
+      "slug": "3-bahwa-persamaan-fungsi-tersebut-terlihat-dari-pasal-1-angka-2-uu",
+      "text": "Advokat yang menentukan bahwa jasa hukum Advokat antara lain \nmeliputi menjalankan kuasa, mewakili, mendampingi, membela, dan  \nmelakukan tindakan hukum lain untuk kepentingan hukum klien. \nSementara itu, Pasal 1 angka 13 UU Merek dan Indikasi Geografis  juga \nmenggunakan konsep “Kuasa”, tetapi membatasi penerima kuasa \ntersebut hanya kepada Konsultan Kekayaan Intelektual.",
+      "start_line": 1052,
+      "end_line": 1057
+    },
+    {
+      "heading": "4. Bahwa dengan demikian, titik perbandingan para Pemohon bukan",
+      "slug": "4-bahwa-dengan-demikian-titik-perbandingan-para-pemohon-bukan",
+      "text": "terletak pada apakah Advokat dan Konsultan Kekayaan Intelektual  \nmerupakan profesi yang sama, melainkan pada fungsi yang sedang \ndiatur oleh norma a quo . Ketika fungsi yang dipersoalkan adalah \nmenerima dan menjalankan kuasa dari klien, Advokat pada dasarny a \njuga merupakan profesi yang oleh undang-undang diberikan fungsi untuk \nmenerima dan menjalankan kuasa.",
+      "start_line": 1059,
+      "end_line": 1064
+    },
+    {
+      "heading": "5. Bahwa terlebih lagi, berbagai tindakan yang dilakukan oleh “ Kuasa”",
+      "slug": "5-bahwa-terlebih-lagi-berbagai-tindakan-yang-dilakukan-oleh-kuasa",
+      "text": "dalam proses pengajuan dan pengurusan merek pada pokoknya \nmerupakan tindakan non-litigasi dan administratif, antara lain pengajuan \npermohonan pendaftaran merek, penyampaian sanggahan, pemberian \ntanggapan, perubahan data, pencatatan pengalihan hak, perpanjan gan \nmerek, serta pengajuan banding kepada Komisi Banding Merek. \nSementara itu, berdasarkan UU Advokat, ruang lingkup jasa hukum  \nAdvokat tidak hanya dilakukan di dalam pengadilan, tetapi juga di luar \npengadilan. Oleh karena itu, sifat pekerjaan yang non-litigasi tidak \ndengan sendirinya berada di luar karakter pekerjaan Advokat.",
+      "start_line": 1066,
+      "end_line": 1074
+    },
+    {
+      "heading": "6. Bahwa kedua profesi tersebut juga merupakan profesi yang ber diri",
+      "slug": "6-bahwa-kedua-profesi-tersebut-juga-merupakan-profesi-yang-ber-diri",
+      "text": "sendiri. Untuk menjadi Konsultan Kekayaan Intelektual seseorang  tidak \ndipersyaratkan harus terlebih dahulu menjadi Advokat, demikian pula \nuntuk menjadi Advokat seseorang tidak dipersyaratkan terlebih d ahulu \nmenjadi Konsultan Kekayaan Intelektual. Bahkan persyaratan Konsultan \nKekayaan Intelektual tidak menentukan bahwa seseorang harus berasal \ndari pendidikan tinggi hukum, sedangkan Advokat merupakan profe si \n\n31 \nyang mensyaratkan latar belakang pendidikan tinggi hukum \nsebagaimana tabel di bawah ini: \nAspek Advokat Konsultan Kekayaan \nIntelektual \nPendidikan \nBerlatar belakang \npendidikan tinggi \nhukum \nBerijazah paling rendah \nSarjana (S-1),  \n \nCatatan: \ntidak dipersyaratkan \nharus berlatar belakang \npendidikan hukum \nUsia minimum Paling rendah 25 \ntahun Paling rendah 25 tahun \nPendidikan/Pelatihan \nProfesi \nMengikuti Pendidikan \nKhusus Profesi \nAdvokat \nMengikuti pelatihan \nKonsultan Kekayaan \nIntelektual \nUjian \nLulus ujian yang \ndiadakan Organisasi \nAdvokat \nLulus ujian Konsultan \nKekayaan Intelektual \nMagang/Pengalaman \nMagang sekurang-\nkurangnya 2 tahun \nterus-menerus pada \nkantor Advokat \nMagang atau bekerja \npaling singkat 24 bulan \nberturut-turut pada kantor \nKonsultan KI atau unit \npengelolaan KI \nHubungan \nantarprofesi \nTidak dipersyaratkan \nmenjadi Konsultan KI \nuntuk menjadi \nAdvokat \nTidak dipersyaratkan \nmenjadi Advokat untuk \nmenjadi Konsultan KI \nPengangkatan \nOleh Organisasi \nAdvokat dan \nsebelum \nmenjalankan profesi \nwajib \nbersumpah/berjanji di \nsidang terbuka \nPen\ngadilan Tinggi\nDiangkat oleh Menteri \nsetelah memenuhi \npersyaratan yang \nditentukan \nFungsi yang relevan \ndengan perkara a quo \nMenjalankan kuasa \nmerupakan bagian \ndari jasa hukum \nAdvokat \nBertindak sebagai \n“Kuasa” dalam pengajuan \ndan pengurusan KI",
+      "start_line": 1076,
+      "end_line": 1156
+    },
+    {
+      "heading": "7. Bahwa berdasarkan tabel tersebut di atas, maka menurut para Pemohon,",
+      "slug": "7-bahwa-berdasarkan-tabel-tersebut-di-atas-maka-menurut-para-pemohon",
+      "text": "seorang yang telah diangkat sebagai Advokat seharusnya tidak pe rlu \nterlebih dahulu mengikuti pelatihan dan menjadi Konsultan Kekay aan \nIntelektual hanya untuk dapat bertindak sebagai “Kuasa” dalam \npengajuan pendaftaran merek. Hal tersebut karena seorang Advoka t \ntelah dipersyaratkan berlatar belakang pendidikan tinggi hukum,  \nmengikuti Pendidikan Khusus Profesi Advokat (PKPA), lulus ujian  \nprofesi, menjalani magang, diangkat sebagai Advokat, serta \nmengucapkan sumpah atau janji sebelum menjalankan profesinya. \n\n32 \nRangkaian tersebut merupakan proses pendidikan dan pembentukan \nprofesi yang secara khusus mempersiapkan Advokat untuk memberikan \njasa hukum, termasuk menerima dan menjalankan kuasa untuk \nkepentingan hukum klien baik litigasi maupun non-litigasi. \nSelain pendidikan profesi tersebut, seorang Advokat yang berlat ar \nbelakang pendidikan S-1 Hukum telah memperoleh dasar pengetahua n \nhukum selama menempuh pendidikan tinggi, antara lain hukum perdata, \nhukum dagang, serta Hukum Kekayaan Intelektual yang biasanya di  \nkampus-kampus bisa 2 atau 3 SKS yang diajarkan 1 (satu semester ). \nBerbeda dengan persyaratan menjadi Konsultan Kekayaan Intelektu al \nyang tidak mensyaratkan latar belakang pendidikan tinggi hukum,  \nsehingga calon Konsultan Kekayaan Intelektual dapat berasal dar i \nberbagai disiplin ilmu seperti Sarjana Ekonomi, Sarjana Teknik,  Sarjana \nFarmasi hingga  Sarjana Kedokteran. Oleh karena itu, para Pemoh on \nmemahami bahwa pelatihan Konsultan Kekayaan Intelektual sangat \ndiperlukan untuk memberikan dan menyeragamkan kompetensi khusus",
+      "start_line": 1158,
+      "end_line": 1183
+    },
+    {
+      "heading": "di bidang Kekayaan Intelektual bagi calon Konsultan yang berasa l dari",
+      "slug": "di-bidang-kekayaan-intelektual-bagi-calon-konsultan-yang-berasa-l-dari",
+      "text": "berbagai latar belakang pendidikan.",
+      "start_line": 1185,
+      "end_line": 1185
+    },
+    {
+      "heading": "8. Bahwa namun demikian, kebutuhan pelatihan untuk memperoleh s tatus",
+      "slug": "8-bahwa-namun-demikian-kebutuhan-pelatihan-untuk-memperoleh-s-tatus",
+      "text": "sebagai Konsultan Kekayaan Intelektual tidak seharusnya serta-m erta \ndiberlakukan sebagai satu-satunya pintu bagi seorang Advokat un tuk \ndapat menerima dan menjalankan kuasa di bidang merek. Advokat telah \nmempunyai jalur pendidikan dan kualifikasi profesinya sendiri s ebagai \nprofesi hukum dan penerima kuasa. Oleh karena itu, pengakuan Advokat \nsebagai “Kuasa” tidak menghilangkan ataupun mengurangi pentingn ya \npelatihan Konsultan Kekayaan Intelektual, melainkan menempatkan  \nAdvokat dan Konsultan Kekayaan Intelektual sebagai dua profesi yang \nmemiliki jalur kualifikasi masing-masing, tetapi sama-sama dapa t \nmenjalankan fungsi sebagai penerima kuasa dari klien. \nPerbandingan dengan Profesi yang Memiliki Karakter Tugas dan Fungsi \nBerbeda Seperti Kurator",
+      "start_line": 1187,
+      "end_line": 1198
+    },
+    {
+      "heading": "9. Bahwa para Pemohon menyadari terdapat profesi-profesi terten tu yang",
+      "slug": "9-bahwa-para-pemohon-menyadari-terdapat-profesi-profesi-terten-tu-yang",
+      "text": "memang dibentuk oleh peraturan perundang-undangan untuk \n\n33 \nmelaksanakan fungsi khusus yang salah satu contohnya adalah Kurator \ndalam perkara kepailitan.",
+      "start_line": 1200,
+      "end_line": 1204
+    },
+    {
+      "heading": "10. Bahwa berdasarkan Pasal 69 ayat (1) Undang-Undang Nomor 37 Tahun",
+      "slug": "10-bahwa-berdasarkan-pasal-69-ayat-1-undang-undang-nomor-37-tahun",
+      "text": "2004 tentang Kepailitan dan Penundaan Kewajiban Pembayaran Utang, \ntugas Kurator adalah melakukan pengurusan dan/atau pemberesan \nharta pailit. Bahkan dalam menjalankan tugas tersebut, Pasal 69 ayat (2) \nhuruf a menentukan bahwa Kurator tidak diharuskan memperoleh \npersetujuan dari atau menyampaikan pemberitahuan terlebih dahul u \nkepada Debitor atau salah satu organ Debitor, meskipun dalam keadaan",
+      "start_line": 1206,
+      "end_line": 1211
+    },
+    {
+      "heading": "di luar kepailitan persetujuan atau pemberitahuan demikian",
+      "slug": "di-luar-kepailitan-persetujuan-atau-pemberitahuan-demikian",
+      "text": "dipersyaratkan. Dengan demikian, kewenangan Kurator memiliki \nkarakter hukum yang berbeda dari kewenangan yang semata-mata lahir \nberdasarkan pemberian kuasa dari klien. \nBerdasarkan penjelasan tersebut, maka tugas dan fungsi Kurator  \nbukanlah sebagai “penerima kuasa” dari calon klien. Akan tetapi  tugas \ndan fungsinya adalah “pelaksana putusan pengadilan terhadap per kara \nkepailitan”. Oleh karena itu, menurut para Pemohon antara Profe si \nKurator dengan Advokat serta Konsultan Kekayaan Intelektual tidak bisa \ndipersamakan karena memiliki tugas dan fungsi yang berbeda yang  \ndimana “Kurator mendapatkan mandat dan tugas “dari perintah put usan \npengadilan”, sedangkan advokat atau Konsultan Kekayaan Intelekt ual \nmemiliki kesamaan mandat dan tugas yang didapatkan Klien  dalam  \nbentuk “Kuasa”.",
+      "start_line": 1213,
+      "end_line": 1225
+    },
+    {
+      "heading": "11. Bahwa bukannya para Pemohon bermaksud menyamakan seluruh",
+      "slug": "11-bahwa-bukannya-para-pemohon-bermaksud-menyamakan-seluruh",
+      "text": "profesi hukum. Apabila suatu profesi memang mempunyai fungsi, t ugas \ndan tanggung jawab yang secara substantif berbeda, maka pembedaan \npengaturan terhadap profesi tersebut dapat dipahami. Namun dala m \nperkara a quo , fungsi yang sedang dipersoalkan justru adalah fungsi \nsebagai “Kuasa”, sehingga relevansi perbandingan antara Advokat dan \nKonsultan Kekayaan Intelektual terletak pada kedudukan keduanya  \nsebagai pihak yang dapat menerima dan menjalankan kuasa untuk \nkepentingan klien. \n \n\n34 \nPerbandingan dengan Pekerjaan Lain yang Dapat Dilakukan Melalui  \nKuasa",
+      "start_line": 1227,
+      "end_line": 1239
+    },
+    {
+      "heading": "12. Bahwa sifat suatu pekerjaan tidak dengan sendirinya mengaki batkan",
+      "slug": "12-bahwa-sifat-suatu-pekerjaan-tidak-dengan-sendirinya-mengaki-batkan",
+      "text": "penerima kuasa harus berasal dari satu profesi tertentu.",
+      "start_line": 1241,
+      "end_line": 1241
+    },
+    {
+      "heading": "13. Bahwa salah satu pembanding dapat ditemukan dalam penyelenggaraan",
+      "slug": "13-bahwa-salah-satu-pembanding-dapat-ditemukan-dalam-penyelenggaraan",
+      "text": "Perizinan Berusaha melalui Sistem Online Single Submission  (OSS)  \nyang merupakan sistem perizinan berusaha terintegrasi satu pint u \nsecara elektronik berbasis risiko yang dikelola oleh Kementeria n \nInvestasi/BKPM yang dimana sependek pengetahuan para Pemohon \nsetelah mencari tahu ternyata tidak mengenal pembatasan pihak y ang \nberhak menjadi kuasa atau mewajibkan kuasa itu memiliki syarat- syarat \nkhusus dari profesi tertentu. Para Pemohon tidak bermaksud \nmenyamakan karakter perizinan berusaha melalui OSS dengan \npendaftaran merek, melainkan menunjukkan bahwa sifat administra tif \nsuatu pekerjaan tidak dengan sendirinya mengharuskan penerima kuasa \ndibatasi secara eksklusif hanya kepada satu profesi tertentu.",
+      "start_line": 1243,
+      "end_line": 1253
+    },
+    {
+      "heading": "14. Bahwa contoh lainnya dapat ditemukan dalam sejumlah pelayan an",
+      "slug": "14-bahwa-contoh-lainnya-dapat-ditemukan-dalam-sejumlah-pelayan-an",
+      "text": "perizinan pada Dinas Penanaman Modal dan Pelayanan Terpadu Satu  \nPintu Provinsi DKI Jakarta . Berdasarkan persyaratan pelayanan yang \npara Pemohon peroleh melalui situs pelayanan.jakarta.go.id, apabila \npengurusan izin dikuasakan kepada pihak lain, persyaratan yang diminta \nantara lain berupa surat kuasa dan identitas/KTP orang yang dib eri \nkuasa, tanpa menentukan bahwa penerima kuasa tersebut harus berasal \ndari profesi tertentu.",
+      "start_line": 1255,
+      "end_line": 1261
+    },
+    {
+      "heading": "15. Bahwa para Pemohon tidak bermaksud menyamakan pendaftaran",
+      "slug": "15-bahwa-para-pemohon-tidak-bermaksud-menyamakan-pendaftaran",
+      "text": "merek dengan Perizinan Berusaha melalui OSS ataupun pelayanan \nperizinan lainnya. Perbandingan tersebut semata-mata dikemukaka n \nuntuk menunjukkan bahwa sifat administratif dan non-litigasi su atu \npekerjaan tidak dengan sendirinya mengharuskan penerima kuasa \ndibatasi secara eksklusif hanya kepada satu profesi tertentu. Oleh karena \nitu, menurut para Pemohon, diperlukan dasar yang objektif dan r asional \nuntuk membenarkan mengapa dalam pengajuan dan pengurusan merek, \nAdvokat yang berdasarkan undang-undang berwenang memberikan jasa \n\n35 \nhukum baik di dalam maupun di luar pengadilan justru dikecualik an dari \npengertian “Kuasa”. \nRelevansi terhadap Pasal 27 ayat (1) dan Pasal 28D ayat (1) UUD 1945",
+      "start_line": 1263,
+      "end_line": 1275
+    },
+    {
+      "heading": "16. Bahwa berdasarkan seluruh uraian tersebut, para Pemohon tid ak",
+      "slug": "16-bahwa-berdasarkan-seluruh-uraian-tersebut-para-pemohon-tid-ak",
+      "text": "mempersoalkan keberadaan Konsultan Kekayaan Intelektual sebagai  \nprofesi khusus beserta persyaratan kompetensi, pelatihan, \npengangkatan, pengawasan, maupun kewajiban yang melekat pada \nprofesi tersebut. Permohonan a quo  juga tidak dimaksudkan untuk \nmenghapus ataupun mengurangi kewenangan Konsultan Kekayaan \nIntelektual.",
+      "start_line": 1277,
+      "end_line": 1282
+    },
+    {
+      "heading": "17. Bahwa persoalan konstitusional yang dipersoalkan para Pemoh on",
+      "slug": "17-bahwa-persoalan-konstitusional-yang-dipersoalkan-para-pemoh-on",
+      "text": "adalah dasar pembedaan perlakuan yang menempatkan Konsultan \nKekayaan Intelektual sebagai satu-satunya profesi yang dapat bertindak \nsebagai “Kuasa”, sekaligus mengecualikan Advokat secara mutlak dari \npengertian “Kuasa”, padahal sebagaimana telah diuraikan sebelum nya, \ndalam konteks norma a quo  keduanya mempunyai kesamaan fungsi \nyang relevan, yaitu menerima dan menjalankan kuasa dari klien u ntuk \nkepentingan pemberi kuasa.",
+      "start_line": 1284,
+      "end_line": 1290
+    },
+    {
+      "heading": "18. Bahwa pengakuan Advokat sebagai “Kuasa” tidak menghapus",
+      "slug": "18-bahwa-pengakuan-advokat-sebagai-kuasa-tidak-menghapus",
+      "text": "kedudukan, kewenangan, pekerjaan, maupun persyaratan untuk menjadi \nKonsultan Kekayaan Intelektual. Kedua profesi tetap dapat berdi ri dan \nmenjalankan profesinya masing-masing. Oleh karena itu, menurut para \nPemohon, mempertahankan Konsultan Kekayaan Intelektual sebagai \nprofesi khusus tidak harus dilakukan dengan mengecualikan Advok at \nsecara mutlak dari pengertian “Kuasa”.",
+      "start_line": 1292,
+      "end_line": 1297
+    },
+    {
+      "heading": "19. Bahwa dalam kaitannya deng an Pasal 27 ayat (1) UUD 1945,",
+      "slug": "19-bahwa-dalam-kaitannya-deng-an-pasal-27-ayat-1-uud-1945",
+      "text": "pembedaan tersebut harus dinilai berdasarkan prinsip persamaan \nkedudukan di dalam hukum, yaitu apakah terdapat dasar yang obje ktif \ndan rasional untuk memberikan kedudukan hukum yang berbeda kepada \nAdvokat dan Konsultan Kekayaan Intelektual dalam menjalankan fu ngsi \nyang relevan sebagai penerima dan pelaksana kuasa.",
+      "start_line": 1299,
+      "end_line": 1303
+    },
+    {
+      "heading": "20. Bahwa selanjutnya dalam kaitannya dengan Pasal 28D ayat (1) U U D",
+      "slug": "20-bahwa-selanjutnya-dalam-kaitannya-dengan-pasal-28d-ayat-1-u-u-d",
+      "text": "1945, pengecualian Advokat secara mutlak dari pengertian “Kuasa ” \nharus dinilai apakah telah memberikan perlakuan yang sama di hadapan \n\n36 \nhukum dan kepastian hukum yang adil, mengingat Advokat berdasarkan \nundang-undang merupakan profesi yang juga diberikan kewenangan \nuntuk menerima dan menjalankan kuasa serta memberikan jasa huku m",
+      "start_line": 1305,
+      "end_line": 1311
+    },
+    {
+      "heading": "21. Bahwa para Pemohon memahami bahwa prinsip persamaan tidak berarti",
+      "slug": "21-bahwa-para-pemohon-memahami-bahwa-prinsip-persamaan-tidak-berarti",
+      "text": "setiap profesi harus diperlakukan secara identik. Perbedaan per lakuan \ntetap dimungkinkan sepanjang terdapat dasar pembedaan yang obje ktif \ndan rasional. Namun, ketika terdapat kesamaan fungsi yang relev an \nsebagai penerima dan pelaksana kuasa, menurut para Pemohon, \npengecualian salah satu profesi secara mutlak harus memiliki al asan \nyang dapat dibenarkan secara konstitusional.",
+      "start_line": 1314,
+      "end_line": 1319
+    },
+    {
+      "heading": "22. Bahwa oleh karena itu, menurut para Pemohon, pengakuan Advo kat",
+      "slug": "22-bahwa-oleh-karena-itu-menurut-para-pemohon-pengakuan-advo-kat",
+      "text": "sebagai bagian dari pengertian “Kuasa” dalam Pasal 1 angka 13 U U \nMerek dan Indikasi Geografis tidak menghilangkan eksistensi dan  \nkedudukan Konsultan Kekayaan Intelektual, melainkan memungkinka n \nkedua profesi tetap berjalan secara berdampingan, sekaligus men jamin \npersamaan kedudukan di dalam hukum, perlakuan yang sama di \nhadapan hukum, dan kepastian hukum yang adil sebagaimana dijami n \ndalam Pasal 27 ayat (1) dan Pasal 28D ayat (1) UUD 1945. \nD. Praktik di Berbagai Negara Menunjukkan Bahwa Advokat Dapat \nBertindak sebagai Kuasa dalam Bidang Merek",
+      "start_line": 1321,
+      "end_line": 1329
+    },
+    {
+      "heading": "1. Bahwa hukum perbandingan (comparative law) dapat digunakan sebagai",
+      "slug": "1-bahwa-hukum-perbandingan-comparative-law-dapat-digunakan-sebagai",
+      "text": "salah satu bahan pertimbangan untuk menilai apakah suatu pengat uran \nhukum sejalan dengan prinsip-prinsip negara hukum modern, khususnya \ndalam memberikan akses terhadap bantuan hukum dan kebebasan \nmemilih kuasa hukum yang kompeten.",
+      "start_line": 1331,
+      "end_line": 1334
+    },
+    {
+      "heading": "2. Bahwa dari praktik di berbagai negara yang para Pemohon dapatkan dari",
+      "slug": "2-bahwa-dari-praktik-di-berbagai-negara-yang-para-pemohon-dapatkan-dari",
+      "text": "literatur di internet tapi terbatas karena sulitnya mengakses p eraturan \nyang ada di luar negeri. Namun beberapa artikel website ini dap at \nmenjadi petunjuk bila profesi Advokat tetap diberikan kewenangan untuk \nbertindak sebagai kuasa dalam bidang merek, baik dalam proses \npendaftaran merek maupun tindakan hukum lainnya yang berkaitan \ndengan hak atas merek. \n \n\n37 \nAmerika Serikat",
+      "start_line": 1336,
+      "end_line": 1345
+    },
+    {
+      "heading": "3. Bahwa para Pemohon melihat beberapa literatur di internet ji ka di",
+      "slug": "3-bahwa-para-pemohon-melihat-beberapa-literatur-di-internet-ji-ka-di",
+      "text": "Amerika Serikat, ketentuan mengenai pihak yang dapat bertindak \nsebagai kuasa dalam perkara merek diatur dalam Title 37 Code of \nFederal Regulations (C.F.R.) § 11.14(a) yang menyatakan:  \n“Any individual who is an attorney as defined in § 11.1 may represent \nothers before the Office in trademark and other non-patent matters.” \nApabila diterjemahkan ke dalam Bahasa Indonesia, ketentuan ters ebut \ndapat diartikan:  \n“Setiap orang yang merupakan Advokat sebagaimana dimaksud dalam  \n§ 11.1 dapat mewakili pihak lain di hadapan Kantor Paten dan Me rek \nAmerika Serikat (USPTO) dalam perkara merek dan perkara non-pat en \nlainnya.”",
+      "start_line": 1347,
+      "end_line": 1357
+    },
+    {
+      "heading": "4. Bahwa ketentuan tersebut menunjukkan bahwa hukum Amerika Ser ikat",
+      "slug": "4-bahwa-ketentuan-tersebut-menunjukkan-bahwa-hukum-amerika-ser-ikat",
+      "text": "secara tegas mengakui Advokat (attorney) sebagai pihak yang \nberwenang mewakili klien dalam urusan merek di hadapan United States \nPatent and Trademark Office  (USPTO), tanpa mensyaratkan adanya \nlisensi khusus sebagai Konsultan Kekayaan Intelektual atau prof esi \ntersendiri di bidang merek.",
+      "start_line": 1359,
+      "end_line": 1363
+    },
+    {
+      "heading": "5. Perlu diketahui, United States Patent and Trademark Office (USPTO)",
+      "slug": "5-perlu-diketahui-united-states-patent-and-trademark-office-uspto",
+      "text": "merupakan lembaga pemerintah federal Amerika Serikat yang berada di \nbawah Departemen Perdagangan, yang bertugas mengelola \npendaftaran dan perlindungan hak kekayaan intelektual, khususny a \npaten dan merek, serta menjadi otoritas resmi dalam pemeriksaan  dan \nadministrasi permohonan hak tersebut. \nSingapura",
+      "start_line": 1365,
+      "end_line": 1370
+    },
+    {
+      "heading": "6. Bahwa selain Amerika Serikat, para Pemohon mendapatkan liter atur dari",
+      "slug": "6-bahwa-selain-amerika-serikat-para-pemohon-mendapatkan-liter-atur-dari",
+      "text": "website Intellectual Property Office of Singapore  (IPOS) mengenai \nRegistered Patent Agents yang tertulis seperti berikut:  \n“Only registered patent agents who have in force a practicing certificate \ncan conduct patent agency work and describe themselves as patent \nagents.  \nAdvocates and solicitors who have in force a practicing certificate may \nalso conduct patent agency work; however, they will not be allowed to \ndescribe themselves as patent agents.” \nReference is made to Section 105 of the Patents Act (CAP. 221). \n\n38",
+      "start_line": 1372,
+      "end_line": 1382
+    },
+    {
+      "heading": "7. Apabila diterjemahkan ke dalam Bahasa Indonesia, ketentuan t ersebut",
+      "slug": "7-apabila-diterjemahkan-ke-dalam-bahasa-indonesia-ketentuan-t-ersebut",
+      "text": "dapat berbunyi: \n\"Hanya Agen Paten Terdaftar (Registered Patent Agents) yang memiliki \nsertifikat praktik (practicing certificate)  yang masih berlaku yang \nberwenang melakukan pekerjaan di bidang keagenan paten (patent \nagency work)  serta menggunakan atau menyandang sebutan sebagai \nAgen Paten (Patent Agent).” \n“Advokat  dan Solicitor yang memiliki sertifikat praktik yang masih berlaku \njuga berwenang melakukan pekerjaan di bidang keagenan paten (patent \nagency work) . Akan tetapi, Advokat dan Solicitor tersebut tidak \ndiperkenankan menggunakan atau menyandang sebutan sebagai Agen \nPaten (Patent Agent). \nKetentuan ini mengacu pada Pasal 105 (Section 105) Patents Act (Cap. \n221)",
+      "start_line": 1384,
+      "end_line": 1396
+    },
+    {
+      "heading": "8. Bahwa artikel atau literatur di atas tersebut menunjukkan ba hwa sistem",
+      "slug": "8-bahwa-artikel-atau-literatur-di-atas-tersebut-menunjukkan-ba-hwa-sistem",
+      "text": "hukum Singapura membedakan antara kewenangan menjalankan \npekerjaan di bidang Hak Kekayaan Intelektual dengan penggunaan \nsebutan atau gelar profesi tertentu. Dengan demikian, meskipun terdapat \nprofesi khusus berupa Patent Agent, Advokat dan Solicitor tetap  \ndiberikan kewenangan untuk melakukan pekerjaan di bidang paten tanpa \nharus diangkat atau menyandang status sebagai Patent Agent.",
+      "start_line": 1398,
+      "end_line": 1403
+    },
+    {
+      "heading": "9. Bahwa menurut para Pemohon, pengaturan tersebut menunjukkan",
+      "slug": "9-bahwa-menurut-para-pemohon-pengaturan-tersebut-menunjukkan",
+      "text": "adanya pengakuan bahwa profesi Advokat tetap memiliki kompetens i \ndan kewenangan untuk memberikan jasa hukum di bidang Hak \nKekayaan Intelektual. Pengakuan tersebut tidak menghilangkan \neksistensi maupun kedudukan Patent Agent sebagai profesi khusus , \nmelainkan memberikan ruang bagi kedua profesi untuk menjalankan  \nkewenangannya masing-masing sesuai dengan ketentuan hukum yang \nberlaku. \nAustralia",
+      "start_line": 1405,
+      "end_line": 1412
+    },
+    {
+      "heading": "10. Bahwa para Pemohon juga mencari berbagai literatur mengenai praktik",
+      "slug": "10-bahwa-para-pemohon-juga-mencari-berbagai-literatur-mengenai-praktik",
+      "text": "hukum di bidang merek di Australia di internet. Meskipun para Pemohon \nbelum menemukan ketentuan peraturan perundang-undangan yang \nsecara eksplisit mengatur mengenai kewenangan Advokat sebagai \nkuasa dalam proses pendaftaran merek, namun para Pemohon \n\n39 \nmenemukan suatu artikel yang menjelaskan praktik hukum di Austr alia, \nyang pada pokoknya menyatakan sebagai berikut: \n“You can consult a general practice solicitor to do trade marks work, and \nit is perfectly legal for someone to act as a trade mark agent. For example, \nthey can file and prosecute a trade mark application on behalf of someone \nor even assist with contentious matters, like opposition and infringement \nallegations. \nApabila diterjemahkan ke dalam Bahasa Indonesia, ketentuan ters ebut \ndapat diartikan: \n“Masyarakat dapat menggunakan jasa seorang Solicitor (Advokat) umum \nuntuk menangani pekerjaan di bidang merek. Selain itu, secara h ukum \ndiperbolehkan bagi seseorang untuk bertindak sebagai agen merek  \n(trade mark agent). Sebagai contoh, seorang Solicitor dapat mengajukan \npermohonan pendaftaran merek atas nama kliennya, mengurus selur uh \nproses permohonan tersebut hingga memperoleh keputusan, serta \nmembantu menangani berbagai sengketa di bidang merek, seperti \nproses keberatan (opposition) maupun dugaan pelanggaran hak atas \nmerek (infringement).\"",
+      "start_line": 1414,
+      "end_line": 1437
+    },
+    {
+      "heading": "11. Bahwa berdasarkan literatur tersebut, menurut para Pemohon, p r a k t i k",
+      "slug": "11-bahwa-berdasarkan-literatur-tersebut-menurut-para-pemohon-p-r-a-k-t-i-k",
+      "text": "hukum di Australia menunjukkan bahwa seorang Solicitor (Advokat) tetap \nmemiliki kewenangan untuk memberikan jasa hukum di bidang merek , \ntermasuk bertindak untuk dan atas nama klien dalam proses pendaftaran \nmerek. Dengan demikian, para Pemohon menafsirkan jika keberadaa n \nprofesi Trade Marks Attorney di Australia tidak serta-merta meniadakan \nkewenangan Advokat untuk memberikan jasa hukum di bidang merek.",
+      "start_line": 1439,
+      "end_line": 1444
+    },
+    {
+      "heading": "12. Bahwa setelah membaca lebih lanjut artikel tersebut, dijela skan juga",
+      "slug": "12-bahwa-setelah-membaca-lebih-lanjut-artikel-tersebut-dijela-skan-juga",
+      "text": "masyarakat memang sangat dianjurkan (highly recommend ) \nmenggunakan jasa Registered Trade Marks Attorney atau Lawyer yang \nmemiliki spesialisasi di bidang hukum merek agar memperoleh \npelayanan yang lebih profesional dan sesuai dengan perkembangan  \nhukum. Namun demikian, anjuran tersebut merupakan rekomendasi \nprofesional, bukan merupakan pembatasan hukum yang melarang \nAdvokat untuk bertindak sebagai kuasa dalam bidang merek. \nAdapun bunyi artikel tersebut yaitu:  \n“However, we highly recommend that people who need assistance in the \nfield of trade marks and related matters such as domain names and \ncopyright law engage a registered trade mark attorney or a lawyer that \nworks specifically in the field of trade mark law. You can be comfortable \nknowing that a registered trade mark  attorney will have the necessary \n\n40 \nskills, knowledge, and qualifications required to provide accurate \nassistance and advice.",
+      "start_line": 1446,
+      "end_line": 1462
+    },
+    {
+      "heading": "13. Bahwa menurut para Pemohon, meskipun literatur tersebut buk an",
+      "slug": "13-bahwa-menurut-para-pemohon-meskipun-literatur-tersebut-buk-an",
+      "text": "merupakan sumber hukum yang mengikat, namun setidaknya dapat \nmemberikan gambaran mengenai praktik hukum di Australia yang te tap \nmemberikan ruang bagi Advokat untuk memberikan jasa hukum di \nbidang merek tanpa menghilangkan eksistensi profesi Trade Marks \nAttorney. Oleh karena itu, literatur tersebut patut dipertimbangkan ole h \nYang Mulia Majelis Hakim Mahkamah Konstitusi sebagai salah satu  \nbahan perbandingan hukum ( comparative law ) dalam menilai apakah \npengakuan Advokat sebagai \"Kuasa\" dalam Pasal 1 angka 13 UU Merek \ndan Indikasi Geografis akan menghilangkan eksistensi Konsultan \nKekayaan Intelektual. Menurut para Pemohon, jawabannya adalah tidak, \nkarena kedua profesi tersebut tetap dapat berjalan berdampingan sesuai \ndengan kompetensi dan spesialisasi masing-masing.",
+      "start_line": 1464,
+      "end_line": 1475
+    },
+    {
+      "heading": "14. Bahwa berdasarkan literatur yang disebutkan para Pemohon te rkait",
+      "slug": "14-bahwa-berdasarkan-literatur-yang-disebutkan-para-pemohon-te-rkait",
+      "text": "praktik di Amerika Serikat, Singapura, dan Australia tersebut, ini \nmenunjukkan bahwa pengakuan terhadap Advokat sebagai pihak yang  \ndapat bertindak sebagai kuasa dalam bidang merek bukanlah konse p \nyang asing dalam praktik hukum internasional.",
+      "start_line": 1477,
+      "end_line": 1480
+    },
+    {
+      "heading": "15. Bahwa pengakuan terhadap Advokat sebagai “Kuasa” dalam bida ng",
+      "slug": "15-bahwa-pengakuan-terhadap-advokat-sebagai-kuasa-dalam-bida-ng",
+      "text": "merek juga tidak menghilangkan eksistensi maupun kedudukan \nKonsultan Kekayaan Intelektual, karena kedua profesi tersebut t etap \ndapat menjalankan fungsi dan kompetensinya masing-masing secara  \nberdampingan.",
+      "start_line": 1482,
+      "end_line": 1485
+    },
+    {
+      "heading": "16. Bahwa oleh karena itu, permohonan para Pemohon yang memohon agar",
+      "slug": "16-bahwa-oleh-karena-itu-permohonan-para-pemohon-yang-memohon-agar",
+      "text": "frasa “Kuasa” dalam Pasal 1 angka 13 UU Merek dan Indikasi Geografis \ndimaknai mencakup “Konsultan Kekayaan Intelektual atau Advokat”  \nmerupakan penafsiran yang sejalan dengan perkembangan praktik \nhukum di berbagai negara serta tidak mengurangi kedudukan maupu n \nperan Konsultan Kekayaan Intelektual dalam sistem hukum Indonesia. \nIV. PETITUM \nBerdasarkan seluruh uraian fakta, dalil, dan argumentasi hukum yang telah \ndikemukakan di atas, para Pemohon memohon kepada Yang Mulia Maj elis \n\n41 \nHakim Mahkamah Konstitusi Republik Indonesia yang memeriksa, me ngadili, \ndan memutus perkara a quo untuk memberikan putusan sebagai berikut:",
+      "start_line": 1487,
+      "end_line": 1498
+    },
+    {
+      "heading": "2. Menyatakan Pasal 1 angka 13 Undang-Undang Nomor 20 Tahun 201 6",
+      "slug": "2-menyatakan-pasal-1-angka-13-undang-undang-nomor-20-tahun-201-6",
+      "text": "tentang Merek dan Indikasi Geografis (Lembaran Negara Republik Indonesia \nTahun 2016 Nomor 252, Tambahan Lembaran Negara Republik Indones ia \nNomor 5953) yang berbunyi \"Kuasa adalah konsultan kekayaan inte lektual \nyang bertempat tinggal atau berkedudukan tetap di wilayah Negara Kesatuan \nRepublik Indonesia”  bertentangan dengan Undang-Undang Dasar Ne gara \nRepublik Indonesia Tahun 1945 dan tidak mempunyai kekuatan huku m \nmengikat secara bersyarat sepanjang tidak dimaknai \"Kuasa adala h \nKonsultan Kekayaan Intelektual atau Advokat yang bertempat ting gal atau \nberkedudukan tetap di wilayah Negara Kesatuan Republik Indonesia.”",
+      "start_line": 1501,
+      "end_line": 1509
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya; \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain  mohon \nputusan yang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, para Pemohon telah  \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 1 7 ,  \nsebagai berikut:",
+      "start_line": 1511,
+      "end_line": 1516
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Republik Indonesia Nomor 20",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-republik-indonesia-nomor-20",
+      "text": "Tahun 2016 tentang Merek dan Indikasi Geografis;",
+      "start_line": 1518,
+      "end_line": 1518
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945;",
+      "start_line": 1520,
+      "end_line": 1520
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi KTP Pemohon I atas nama Resa Indrawan",
+      "slug": "3-bukti-p-3-fotokopi-ktp-pemohon-i-atas-nama-resa-indrawan",
+      "text": "Samir;",
+      "start_line": 1522,
+      "end_line": 1522
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi KTPA (Kartu Tanda Pengenal Advokat) ata s",
+      "slug": "5-bukti-p-5-fotokopi-ktpa-kartu-tanda-pengenal-advokat-ata-s",
+      "text": "nama Resa Indrawan Samir, SH, MH selaku Pemohon I \nyang berlaku hingga 31 Desember 2027;",
+      "start_line": 1525,
+      "end_line": 1526
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi KTPA (Kartu Tanda Pengenal Advokat) ata s",
+      "slug": "6-bukti-p-6-fotokopi-ktpa-kartu-tanda-pengenal-advokat-ata-s",
+      "text": "nama Agustiar, SH selaku Pemohon II yang berlaku \nhingga 31 Desember 2027; \n\n42",
+      "start_line": 1528,
+      "end_line": 1531
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Berita Acara Sumpah Advokat atas nama R esa",
+      "slug": "7-bukti-p-7-fotokopi-berita-acara-sumpah-advokat-atas-nama-r-esa",
+      "text": "Indrawan Samir, S.H., selaku Pemohon I tertanggal 29 \nSeptember 2015;",
+      "start_line": 1533,
+      "end_line": 1534
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Berita Acara Sumpah Advokat atas nama",
+      "slug": "8-bukti-p-8-fotokopi-berita-acara-sumpah-advokat-atas-nama",
+      "text": "Agustiar, S.H.,  selaku Pemohon II tertanggal 10 \nNovember 2016;",
+      "start_line": 1536,
+      "end_line": 1537
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi NPWP atas nama Resa Indrawan Samir sela ku",
+      "slug": "9-bukti-p-9-fotokopi-npwp-atas-nama-resa-indrawan-samir-sela-ku",
+      "text": "Pemohon I;",
+      "start_line": 1539,
+      "end_line": 1539
+    },
+    {
+      "heading": "11. Bukti P-11 : Print Out Tangkapan Layar dari situs website:",
+      "slug": "11-bukti-p-11-print-out-tangkapan-layar-dari-situs-website",
+      "text": "https://www.ecfr.gov/current/title-37/chapter-I/subchapter-\nA/part-11/subpart-B/subject-group-\nECFRa9deb1f9b3dd8c7/section-11.14   \nterkait Praktik di Amerika Serikat;",
+      "start_line": 1542,
+      "end_line": 1545
+    },
+    {
+      "heading": "12. Bukti P-12 : Print Out Tangkapan Layar dari situs werbsite:",
+      "slug": "12-bukti-p-12-print-out-tangkapan-layar-dari-situs-werbsite",
+      "text": "https://www.ipos.gov.sg/about-ip/patents/patent-agents/ \nterkait praktik di  Singapura;",
+      "start_line": 1547,
+      "end_line": 1548
+    },
+    {
+      "heading": "13. Bukti P-13 : Print Out Tangkapan Layar dari situs website:",
+      "slug": "13-bukti-p-13-print-out-tangkapan-layar-dari-situs-website",
+      "text": "https://www.mmwtrademarks.com.au/blog/what-is-a-\ntrademark-attorney/   \nterkait praktik di Australia;",
+      "start_line": 1550,
+      "end_line": 1552
+    },
+    {
+      "heading": "14. Bukti P-14 : Fotokopi Draft Naskah Akademik Peraturan Perundang-",
+      "slug": "14-bukti-p-14-fotokopi-draft-naskah-akademik-peraturan-perundang",
+      "text": "undangan RUU tentang “Merek”, lalu tertulis “Tahun 2015, \nKementerian Hukum dan Hak Asasi Manusia”;",
+      "start_line": 1554,
+      "end_line": 1555
+    },
+    {
+      "heading": "15. Bukti P-15 : Print Out Screenshoot Chat/Direct Message ( D M ) d a r i",
+      "slug": "15-bukti-p-15-print-out-screenshoot-chat-direct-message-d-m-d-a-r-i",
+      "text": "Pemohon I ke akun @DJKI_Indonesia terkait pertanyaan \nberkaitan dengan pembukaan pendaftaran hingga \npelatihan Konsultan Kekayaan Intelektual dari tahun 2021 \nsampai dengan 2025;",
+      "start_line": 1557,
+      "end_line": 1560
+    },
+    {
+      "heading": "16. Bukti P-16 : Print Out Beberapa Email yang Masuk ke Email Kantor",
+      "slug": "16-bukti-p-16-print-out-beberapa-email-yang-masuk-ke-email-kantor",
+      "text": "Pemohon I dan Pemohon II dari Tahun 2024 sampai \ndengan 2026 terkait permintaan pendaftaran hingga \nperpanjangan merek terkait permintaan biaya jasa hukum;",
+      "start_line": 1562,
+      "end_line": 1564
+    },
+    {
+      "heading": "17. Bukti P-17 : Print Out A r t i k e l B e r j u d u l “ D J K I C a t a t L o n j a k a n",
+      "slug": "17-bukti-p-17-print-out-a-r-t-i-k-e-l-b-e-r-j-u-d-u-l-d-j-k-i-c-a-t-a-t-l-o-n-j-a-k-a-n",
+      "text": "Permohonan Merek dan Indikasi Geografis” tertanggal 8 \nDesember 2025 yang diakses dari : https://www.dgip.go.id. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini. \n\n43",
+      "start_line": 1566,
+      "end_line": 1572
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), salah satu kewenangan konstitusional Mah kamah adalah \nmengadili pada tingkat pertama dan terakhir yang putusannya ber sifat final untuk \nmenguji undang-undang terhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 1 angka 13 Undang-Undang \nNomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis (Lemba ran Negara \nRepublik Indonesia Tahun 2016 Nomor 252, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5953, selanjutnya disebut UU 20/2016) terhadap UUD NRI Tahun \n1945 maka Mahkamah berwenang mengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na.  perorangan warga negara Indonesia; \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan se suai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang; \n\n44",
+      "start_line": 1574,
+      "end_line": 1605
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya Undang -Undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a; \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, telah berpend irian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na.  adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI Tahun 1945; \nb.  hak dan/atau kewenangan konstitusional tersebut oleh Pemoho n dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1608,
+      "end_line": 1626
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1628,
+      "end_line": 1629
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1)  UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \n\n45 \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon I dan Pe mohon \nII dalam permohonan a quo yang pada pokoknya sebagai berikut.",
+      "start_line": 1631,
+      "end_line": 1640
+    },
+    {
+      "heading": "1. Bahwa permohonan Pemohon I dan Pemohon II adalah pengujian m ateriil",
+      "slug": "1-bahwa-permohonan-pemohon-i-dan-pemohon-ii-adalah-pengujian-m-ateriil",
+      "text": "norma Pasal 1 angka 13 UU 20/2016, yang rumusan selengkapnya se bagai \nberikut: \nKuasa adalah konsultan kekayaan intelektual yang bertempat ting gal atau \nberkedudukan tetap di wilayah Negara Kesatuan Republik Indonesia;",
+      "start_line": 1642,
+      "end_line": 1646
+    },
+    {
+      "heading": "2. Bahwa Pemohon I dan Pemohon II merupakan perorangan warga ne gara",
+      "slug": "2-bahwa-pemohon-i-dan-pemohon-ii-merupakan-perorangan-warga-ne-gara",
+      "text": "Indonesia [vide Bukti P-3 dan Bukti P-4], yang berprofesi sebagai advokat [vide \nBukti P-5 sampai dengan Bukti P-8] serta merupakan wajib pajak [vide Bukti P-\n9 dan Bukti P-10];",
+      "start_line": 1648,
+      "end_line": 1650
+    },
+    {
+      "heading": "3. Bahwa Pemohon I dan Pemohon II menjelaskan memiliki hak kons titusional",
+      "slug": "3-bahwa-pemohon-i-dan-pemohon-ii-menjelaskan-memiliki-hak-kons-titusional",
+      "text": "sebagaimana diatur dalam Pasal 27 ayat (1) dan ayat (2) serta Pasal 28D ayat \n(1) dan ayat (2) UUD NRI Tahun 1945;",
+      "start_line": 1652,
+      "end_line": 1653
+    },
+    {
+      "heading": "4. Bahwa sebagai advokat, Pemohon I dan Pemohon II telah bebera pa kali",
+      "slug": "4-bahwa-sebagai-advokat-pemohon-i-dan-pemohon-ii-telah-bebera-pa-kali",
+      "text": "menerima konsultasi hukum dari masyarakat dan calon klien yang berkaitan \ndengan pengajuan dan pemrosesan pendaftaran merek dan juga tela h diminta \nmemberikan penawaran jasa hukum beserta perkiraan biaya yang di perlukan \ndalam menggunakan jasa Pemohon I dan Pemohon II untuk membantu \npengajuan dan pengurusan pendaftaran merek [vide Bukti P-16];",
+      "start_line": 1655,
+      "end_line": 1659
+    },
+    {
+      "heading": "5. Bahwa Pemohon I dan Pemohon II menjelaskan mengalami kerugi an hak",
+      "slug": "5-bahwa-pemohon-i-dan-pemohon-ii-menjelaskan-mengalami-kerugi-an-hak",
+      "text": "konstitusional karena berlakunya norma Pasal 1 angka 13 UU 20/2 016 secara \nlimitatif mendefinisikan kuasa hanya untuk konsultan kekayaan i ntelektual, \nsehingga Pemohon I dan Pemohon II yang berprofesi sebagai advok at tidak \ntermasuk sebagai subjek yang dapat bertindak sebagai kuasa dalam pengajuan \ndan pengurusan pendaftaran merek;",
+      "start_line": 1661,
+      "end_line": 1665
+    },
+    {
+      "heading": "6. Bahwa Pemohon I dan Pemohon II meskipun secara nyata telah m enerima",
+      "slug": "6-bahwa-pemohon-i-dan-pemohon-ii-meskipun-secara-nyata-telah-m-enerima",
+      "text": "konsultasi dan permintaan jasa dari calon klien, tetap tidak dapat menerima dan \nmenjalankan kuasa tersebut karena Pasal 1 angka 13 UU 20/2016 m embatasi \nkuasa hanya bagi konsultan kekayaan intelektual. Pada saat yang sama, upaya \nPemohon I dan Pemohon II memenuhi syarat menjadi konsultan keka yaan \nintelektual juga tidak dapat dilanjutkan disebabkan pelatihan y ang harus diikuti \ntidak tersedia, karena pelatihan terakhir diselenggarakan pada Tahun 2019; \n\n46",
+      "start_line": 1667,
+      "end_line": 1674
+    },
+    {
+      "heading": "7. Bahwa menurut Pemohon I dan Pemohon II, kerugian tersebut ju ga bersifat",
+      "slug": "7-bahwa-menurut-pemohon-i-dan-pemohon-ii-kerugian-tersebut-ju-ga-bersifat",
+      "text": "berkelanjutan, karena selama Pemohon I dan Pemohon II sebagai advokat dan \nkembali menerima calon klien yang membutuhkan jasa pendaftaran merek akan \nterus menghadapi keadaan yang sama tidak dapat menerima dan menjalankan \nkuasa dalam kapasitas sebagai advokat. Dengan demikian, Pemohon  I  d a n  \nPemohon II telah mengalami kerugian hak konstitusional berupa t erhalangnya \nkesempatan menjalankan pekerjaan dan profesi, menerima dan menj alankan \nkuasa dari calon klien, serta memperoleh pekerjaan dan honorari um atas jasa \nyang diberikan, yang berkaitan langsung dengan hak konstitusional Pemohon I \ndan Pemohon II atas persamaan kedudukan di dalam hukum, pekerja an dan \npenghidupan yang layak, kepastian hukum yang adil dan perlakuan yang sama",
+      "start_line": 1676,
+      "end_line": 1685
+    },
+    {
+      "heading": "di hadapan hukum, serta hak untuk bekerja dan memperoleh imbalan yang adil",
+      "slug": "di-hadapan-hukum-serta-hak-untuk-bekerja-dan-memperoleh-imbalan-yang-adil",
+      "text": "dan layak sebagaimana dijamin dalam Pasal 27 ayat (1) dan ayat (2), serta \nPasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945;",
+      "start_line": 1687,
+      "end_line": 1688
+    },
+    {
+      "heading": "8. Bahwa menurut Pemohon I dan Pemohon II, apabila permohonan d ikabulkan,",
+      "slug": "8-bahwa-menurut-pemohon-i-dan-pemohon-ii-apabila-permohonan-d-ikabulkan",
+      "text": "kerugian hak konstitusional dapat dipulihkan, Pemohon I dan Pem ohon II tidak \nlagi terhalang menerima dan menjalankan kuasa dari klien dalam pengajuan \ndan pengurusan merek dalam kapasitasnya sebagai advokat.  \nBerdasarkan uraian dalam menjelaskan kedudukan hukum tersebut di atas, \nPemohon I dan Pemohon II telah menerangkan kualifikasi sebagai perorangan \nwarga negara Indonesia [vide Bukti P-3 dan Bukti P-4] yang berp rofesi sebagai \nadvokat [vide Bukti P-5 sampai dengan Bukti P-8], serta merupakan wajib pajak [vide \nBukti P-9 dan Bukti P-10]. Berkenaan dengan hal tersebut, Pemohon I dan Pemohon \nII telah menguraikan perihal hak konstitusional yang dimilikiny a atas persamaan \nkedudukan di dalam hukum, hak atas pekerjaan dan penghidupan ya ng layak, hak \natas kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum, dan \nhak untuk bekerja dan memperoleh imbalan dan perlakuan yang adi l dan layak \ndalam hubungan kerja sebagaimana dijamin dalam Pasal 27 ayat (1 ) dan ayat (2) \nserta Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945. Hak k onstitusional \nPemohon I dan Pemohon II tersebut dianggap telah dirugikan deng an berlakunya \nnorma Pasal 1 angka 13 UU 20/2016 yang dimohonkan pengujian, ka rena norma  \na quo mendefinisikan kuasa hanya untuk konsultan kekayaan intelektual, sehingga \nPemohon I dan Pemohon II yang berprofesi sebagai advokat tidak termasuk sebagai \nsubjek hukum yang dapat bertindak sebagai kuasa dalam pengajuan  dan \n\n47 \npengurusan pendaftaran merek. Sebagai advokat, Pemohon I dan Pemohon II telah \nbeberapa kali menerima konsultasi hukum dari calon klien yang b erkaitan dengan \npengajuan dan proses pendaftaran merek, serta juga telah dimint a memberikan \npenawaran jasa hukum beserta perkiraan biaya yang diperlukan da lam \nmenggunakan jasa Pemohon I dan Pemohon II untuk membantu pengaj uan dan \npengurusan pendaftaran merek [vide Bukti P-16]. Anggapan kerugi an hak \nkonstitusional tersebut bersifat spesifik dan aktual atau setid ak-tidaknya potensial \nyang menurut penalaran yang wajar dapat dipastikan akan terjadi  disebabkan \nPemohon I dan Pemohon II sebagai advokat tidak dapat menerima dan menjalankan \nkuasa dari klien untuk pengajuan dan proses pendaftaran merek. Dengan demikian, \nPemohon I dan Pemohon II telah dapat menguraikan ihwal anggapan kerugian hak \nkonstitusional yang memiliki hubungan sebab-akibat ( causal verband ) dengan \nberlakunya norma undang-undang yang dimohonkan pengujian \nkonstitusionalitasnya. Dalam hal ini, apabila permohonan a quo dikabulkan, \nanggapan kerugian hak konstitusional sebagaimana dijelaskan Pem ohon I dan \nPemohon II tidak lagi terjadi atau tidak akan terjadi. Dengan demikian, terlepas dari \nterbukti atau tidaknya perihal inkonstitusionalitas norma yang dimohonkan \npengujian, menurut Mahkamah, Pemohon I dan Pemohon II (selanjut nya disebut \npara Pemohon) memiliki kedudukan hukum untuk bertindak sebagai pemohon \ndalam permohonan a quo. \n[3.6] Menimbang bahwa oleh karena Mahkamah berwenang untuk mengadili  \npermohonan a quo dan para Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai pemohon maka selanjutnya Mahkamah akan mempertimbangkan  pokok \npermohonan.  \nPokok Permohonan \n[3.7] Menimbang bahwa para Pemohon mendalilkan norma Pasal 1 angka 1 3 \nUU 20/2016 bertentangan dengan Pasal 27 ayat (1) dan ayat (2), serta Pasal 28D \nayat (1) dan ayat (2) UUD NRI Tahun 1945 dengan dalil-dalil (selengkapnya dimuat \ndalam bagian Duduk Perkara) yang apabila dipahami dan dirumuska n oleh \nMahkamah pada pokoknya sebagai berikut:",
+      "start_line": 1690,
+      "end_line": 1740
+    },
+    {
+      "heading": "1. Bahwa menurut para Pemohon, norma Pasal 1 angka 13 UU 20/201 6",
+      "slug": "1-bahwa-menurut-para-pemohon-norma-pasal-1-angka-13-uu-20-201-6",
+      "text": "mengakibatkan para Pemohon yang berprofesi sebagai advokat memp eroleh \n\n48 \nperlakuan hukum yang berbeda serta tidak mendapatkan kepastian hukum yang \nadil karena tertutupnya kesempatan untuk bertindak sebagai kuas a dalam \nbidang merek dan indikasi geografis tanpa dasar pembedaan yang objektif dan \nrasional. Menurut para Pemohon, advokat diakui sebagai profesi hukum yang \ndapat menerima dan menjalankan kuasa serta memberikan jasa huku m baik di \ndalam maupun di luar pengadilan, namun di sisi lain norma a quo secara limitatif \ntidak mengakui advokat sebagai “kuasa” dalam bidang merek dan i ndikasi \ngeografis. Dengan demikian, norma Pasal 1 angka 13 UU 20/2016 bertentangan \ndengan hak atas persamaan kedudukan di dalam hukum yang dijamin  dalam \nPasal 27 ayat (1) UUD NRI Tahun 1945 dan hak atas kepastian hukum yang adil \nserta perlakuan yang sama di hadapan hukum yang dijamin dalam P asal 28D \nayat (1) UUD NRI Tahun 1945.",
+      "start_line": 1742,
+      "end_line": 1756
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, norma Pasal 1 angka 13 UU 20/201 6 yang",
+      "slug": "2-bahwa-menurut-para-pemohon-norma-pasal-1-angka-13-uu-20-201-6-yang",
+      "text": "membatasi ihwal pengertian kuasa mengakibatkan tertutupnya kesempatan para \nPemohon untuk memperoleh pekerjaan berupa pemberian jasa hukum sebagai \nkuasa di bidang merek dan indikasi geografis serta menghalangi para Pemohon \nuntuk menjalankan pekerjaan profesional yang secara nyata henda k diberikan \noleh calon klien. Hal ini mengakibatkan hilangnya kesempatan pa ra Pemohon \nuntuk memperoleh honorarium atau imbalan atas jasa profesional yang hendak \ndiberikan disebabkan tanpa adanya dasar pembatasan yang objekti f, rasional, \ndan proporsional mengecualikan advokat sebagai kuasa. Dengan de mikian, \nnorma Pasal 1 angka 13 UU 20/2016 telah membatasi hak atas peke rjaan para \nPemohon sebagaimana dijamin dalam Pasal 27 ayat (2) UUD NRI Tah un 1945 \nserta membatasi hak untuk bekerja dan memperoleh imbalan yang a dil seperti \ndijamin dalam Pasal 28D ayat (2) UUD NRI Tahun 1945.",
+      "start_line": 1758,
+      "end_line": 1769
+    },
+    {
+      "heading": "3. Bahwa menurut para Pemohon, pengakuan advokat sebagai kuasa tidak",
+      "slug": "3-bahwa-menurut-para-pemohon-pengakuan-advokat-sebagai-kuasa-tidak",
+      "text": "menghilangkan eksistensi dan kedudukan konsultan kekayaan intel ektual, \nmelainkan memungkinkan kedua profesi tetap berjalan secara berd ampingan, \nsekaligus menjamin persamaan kedudukan di dalam hukum, perlakua n yang \nsama di hadapan hukum, dan kepastian hukum yang adil sebagaiman a dijamin \ndalam Pasal 27 ayat (1) dan Pasal 28D ayat (1) UUD NRI Tahun 19 45. Selain \nitu, menurut para Pemohon, seorang yang telah diangkat sebagai advokat tidak \nperlu terlebih dahulu mengikuti pelatihan dan menjadi konsultan  kekayaan \nintelektual untuk dapat bertindak sebagai kuasa dalam pengajuan  pendaftaran \n\n49 \nmerek. Alasannya, seorang advokat telah dipersyaratkan berlatar  belakang \npendidikan tinggi hukum, mengikuti pendidikan khusus profesi ad vokat, lulus \nujian profesi, menjalani magang, diangkat sebagai advokat serta  mengucapkan \nsumpah atau janji sebelum menjalankan profesinya. Berbeda denga n \npersyaratan menjadi konsultan kekayaan intelektual yang tidak m ensyaratkan \nlatar belakang pendidikan tinggi hukum, sehingga calon konsulta n kekayaan \nintelektual dapat berasal dari berbagai disiplin ilmu sehingga pelatihan konsultan \nkekayaan intelektual diperlukan untuk memberikan dan menyeragam kan \nkompetensi khusus bidang kekayaan intelektual bagi calon konsul tan kekayaan \nintelektual yang berasal dari berbagai latar belakang pendidikan.",
+      "start_line": 1771,
+      "end_line": 1790
+    },
+    {
+      "heading": "4. Bahwa menurut para Pemohon, secara faktual para Pemohon tela h berupaya",
+      "slug": "4-bahwa-menurut-para-pemohon-secara-faktual-para-pemohon-tela-h-berupaya",
+      "text": "mengikuti pelatihan konsultan kekayaan intelektual, namun pelat ihan tersebut \nterakhir diselenggarakan pada Tahun 2019 dan hingga permohonan diajukan ke \nMahkamah, pelatihan tersebut belum diselenggarakan kembali. Hal  ini menjadi \nrelevan karena di satu sisi norma a quo menutup kesempatan para Pemohon \nsebagai advokat untuk menerima dan menjalankan kuasa dalam bida ng merek \ndan indikasi geografis, namun di sisi lain upaya para Pemohon u ntuk menjadi \nkonsultan kekayaan intelektual juga tidak dapat dilanjutkan kar ena pelatihan \nyang menjadi salah satu tahapan untuk menjadi konsultan kekayaa n intelektual \nbelum diselenggarakan kembali. Keadaan demikian semakin memperb erat \nakibat pembatasan normatif norma pasal a quo yang dialami para Pemohon.",
+      "start_line": 1792,
+      "end_line": 1801
+    },
+    {
+      "heading": "5. Bahwa menurut para Pemohon, “kuasa” dalam norma Pasal 1 angk a 13 UU",
+      "slug": "5-bahwa-menurut-para-pemohon-kuasa-dalam-norma-pasal-1-angk-a-13-uu",
+      "text": "20/2016 apabila dimaknai mencakup “konsultan kekayaan intelektu al atau \nadvokat” merupakan penafsiran yang sejalan dengan perkembangan praktik \nhukum di berbagai negara serta tidak mengurangi kedudukan maupu n peran \nkonsultan kekayaan intelektual dalam sistem hukum Indonesia. \nBahwa berdasarkan uraian dalil di atas, para Pemohon dalam peti tum \npada pokoknya memohon kepada Mahkamah agar menyatakan Pasal 1 a ngka 13 \nUU 20/2016 yang berbunyi, “Kuasa adalah konsultan kekayaan inte lektual yang \nbertempat tinggal atau berkedudukan tetap di wilayah Negara Kes atuan Republik \nIndonesia”, bertentangan dengan UUD NRI Tahun 1945 dan tidak me mpunyai \nkekuatan hukum mengikat secara bersyarat sepanjang tidak dimakn ai, “Kuasa \nadalah Konsultan Kekayaan Intelektual atau Advokat yang bertemp at tinggal atau \nberkedudukan tetap di wilayah Negara Kesatuan Republik Indonesia”. \n\n50 \n[3.8] Menimbang bahwa untuk mendukung dan membuktikan permohonan, \npara Pemohon mengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan \nBukti P-17 yang telah disahkan dalam persidangan Mahkamah pada tanggal 26 \nAgustus 2026 (selengkapnya dimuat dalam bagian Duduk Perkara).  \n[3.9] Menimbang bahwa oleh karena permohonan a quo telah jelas, Mahkamah \nberpendapat tidak terdapat urgensi dan relevansinya untuk mendengar keterangan \npihak-pihak sebagaimana disebutkan dalam Pasal 54 UU MK. \n[3.10] Menimbang bahwa setelah memeriksa dengan saksama permohonan  \na quo dan bukti-bukti yang diajukan, persoalan konstitusionalitas yang harus dijawab \nadalah apakah norma Pasal 1 angka 13 UU 20/2016 yang menyatakan , “Kuasa \nadalah konsultan kekayaan intelektual yang bertempat tinggal at au berkedudukan \ntetap di wilayah Negara Kesatuan Republik Indonesia”, telah men ghilangkan hak \nkonstitusional para Pemohon yang notabene merupakan advokat mem peroleh \npersamaan kedudukan di dalam hukum, mendapatkan pekerjaan dan penghidupan \nyang layak, mendapatkan kepastian hukum yang adil dan perlakuan  yang sama di \nhadapan hukum, serta hak untuk bekerja dan memperoleh imbalan d an perlakuan \nyang adil dan layak sehingga norma pasal a quo bertentangan dengan Pasal 27 ayat \n(1) dan ayat (2), serta Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945. \n Berkenaan dengan persoalan konstitusionalitas norma Pasal 1 an gka 13 \nUU 20/2016 yang didalilkan para Pemohon di atas, Mahkamah mempertimbangkan \nsebagai berikut. \n[3.10.1]   Bahwa secara normatif, dalam era perdagangan global, peranan  merek \ndan indikasi geografis menjadi sangat penting terutama dalam menjaga persaingan \nusaha yang sehat, berkeadilan, pelindungan konsumen, serta peli ndungan usaha \nmikro, kecil, dan menengah, dan industri dalam negeri [vide Kon siderans \nMenimbang huruf a UU 20/2016]. Berkenaan dengan hal tersebut, UU 20/2016 yang \nmengatur ihwal merek dan indikasi geografis mengatur bahwa “merek” adalah tanda \nyang dapat ditampilkan secara grafis berupa gambar, logo, nama,  kata, huruf, \nangka, susunan warna, dalam bentuk 2 (dua) dimensi dan/atau 3 ( tiga) dimensi, \nsuara, hologram, atau kombinasi dari 2 (dua) atau lebih unsur t ersebut untuk \nmembedakan barang dan/atau jasa yang diproduksi oleh orang atau  badan hukum \ndalam kegiatan perdagangan barang dan/atau jasa [vide Pasal 1 a ngka 1 UU \n\n51 \n20/2016]. Sementara itu, “indikasi geografis” adalah suatu tanda yang menunjukkan \ndaerah asal suatu barang dan/atau produk yang karena faktor lingkungan geografis \ntermasuk faktor alam, faktor manusia atau kombinasi dari kedua faktor tersebut \nmemberikan reputasi, kualitas, dan karakteristik tertentu pada barang dan/atau \nproduk yang dihasilkan [vide Pasal 1 angka 6 UU 20/2016]. Salah  satu \nperkembangan perihal merek dan indikasi geografis yang diantisi pasi dengan \nberlakunya UU 20/2016, yaitu munculnya pelindungan terhadap tipe merek baru \natau yang disebut sebagai merek nontradisional, serta lingkup merek yang \ndilindungi. Ruang lingkup yang termasuk pada kategori merek non tradisional \ntersebut meliputi merek suara, merek tiga dimensi, merek hologram [vide Penjelasan \nUmum UU 20/2016]. Sementara itu, berkenaan dengan indikasi geog rafis yang \ndiatur UU 20/2016 adalah potensi nasional yang dapat menjadi komoditas unggulan, \nbaik dalam perdagangan domestik maupun internasional. \n Berkenaan dengan hal tersebut di atas, salah satu semangat yan g diatur \ndalam UU 20/2016 adalah perkembangan yang bersifat lebih khusus perihal merek, \nterutama berkenaan dengan munculnya pelindungan terhadap tipe merek baru atau \nyang disebut sebagai merek nontradisonal, serta lingkup merek yang dilindungi. \nBegitu pula dengan indikasi geografis dengan segala kekhasan yang melekat pada \npotensi komoditas unggulan sebagai kekayaan geografis yang dimi liki Indonesia. \nOleh karena kekhasan dimaksud, segala pihak yang terlibat dalam  kegiatan merek \ndan indikasi geografis, dalam batas penalaran yang wajar, ditun tut pula memiliki \npengetahuan khas atau kualifikasi tertentu.          \n[3.10.2]  Bahwa apabila diletakkan dalam konteks kekhasan merek dan ind ikasi \ngeografis sebagaimana yang dikemukakan di atas, salah satu elemen penting yang \ndinilai mendukung sifat kekhasan dimaksud adalah pihak-pihak yang terlibat dalam \npenanganan dan pelindungan masalah hukum merek dan indikasi geo grafis, salah \nsatu di antaranya adalah konsultan kekayaan intelektual. Dalam hal ini, konsultan \nkekayaan intelektual adalah orang yang memiliki keahlian di bid ang kekayaan \nintelektual dan terdaftar sebagai konsultan kekayaan intelektua l, serta secara \nkhusus memberikan jasa di bidang pengajuan dan pengurusan permo honan \nkekayaan intelektual [vide Pasal 1 angka 14 UU 20/2016]. Meski demikian, menurut \npara Pemohon, advokat tidak dapat menjadi kuasa karena pembatas an dalam \nnorma Pasal 1 angka 13 UU 20/2016 yang memberikan definisi atau  pengertian \n\n52 \n“kuasa” adalah konsultan kekayaan intelektual yang bertempat ti nggal atau \nberkedudukan tetap di wilayah Negara Kesatuan Republik Indonesia (NKRI).  \n Apabila diletakkan dalam struktur penyusunan peraturan perunda ngan-\nundangan, Pasal 1 angka 13 UU 20/2016 yang dimohonkan pengujian  merupakan \nbagian dari pengaturan dalam Bab I Ketentuan Umum. Jamak dipahami, ketentuan \numum berisi batasan pengertian atau definisi, yang berlaku atau  berulang di dalam \npasal atau beberapa pasal berikutnya, dan tidak perlu diberikan  penjelasan [vide \nangka 98 huruf a, angka 102 dan angka 187 Lampiran II Undang-Undang Nomor 12 \nTahun 2011 tentang Pembentukan Peraturan Perundang-Undangan]. A rtinya, \npengertian atau definisi “kuasa” yang berada pada bagian Ketent uan Umum yang \ndiatur dalam norma Pasal 1 angka 13 UU 20/2016, juga digunakan dalam norma \npasal-pasal lain yang berkaitan dengan berbagai tindakan yang m enurut UU \n20/2016 dapat dilakukan melalui kuasa. Tindakan tersebut di ant aranya berkaitan \ndengan permohonan pendaftaran merek [vide Pasal 4 ayat (1) UU 2 0/2016], \npengajuan sanggahan terhadap keberatan [vide Pasal 17 ayat (1) UU 20/2016], \nperbaikan dan penarikan kembali permohonan pendaftaran merek [v ide Pasal 18 \ndan Pasal 19 UU 20/2016], pengambilan sertifikat merek [vide Pasal 25 ayat (3) UU \n20/2016], permohonan perbaikan sertifikat merek [vide Pasal 27 ayat (1) UU \n20/2016], permohonan banding kepada Komisi Banding Merek [vide Pasal 28 ayat \n(2) UU 20/2016], permohonan perpanjangan merek terdaftar [vide Pasal 35 ayat (3) \nUU 20/2016] dan permohonan penghapusan merek terdaftar [vide Pasal 72 ayat (2) \nUU 20/2016].  \n[3.10.3] Bahwa apabila dikaitkan dengan profesi para Pemohon sebagai advokat, \nnorma Pasal 1 angka 13 UU 20/2016 bukan norma yang berisi larangan untuk dapat \nmelakukan sesuatu, in casu larangan untuk menjadi konsultan kekayaan intelektual   \nyang dapat memberikan jasa di bidang pengajuan dan pengurusan p ermohonan \nkekayaan intelektual. Sebagaimana diakui dalam persidangan oleh para Pemohon, \nsecara faktual, tidak terdapat larangan bagi advokat untuk menj adi konsultan \nkekayaan intelektual [vide Risalah Sidang, tanggal 10 Agustus 2 026, hlm. 14-15] \ndan secara faktual pula banyak advokat yang menjadi kuasa dalam  penanganan \njasa hak atas kekayaan intelektual, termasuk pemberian jasa di bidang merek dan \nindikasi geografis. Secara normatif, jika dikaitkan dengan norm a Pasal 1 angka 13 \ndan Pasal 1 angka 14 UU 20/2016, semua warga negara Indonesia yang bertempat \ntinggal atau berkedudukan tetap di wilayah NKRI dapat menjadi k uasa atau \n\n53 \nkonsultan kekayaan intelektual sepanjang yang bersangkutan memi liki keahlian di \nbidang kekayaan intelektual dan terdaftar sebagai konsultan kek ayaan intelektual. \nArtinya, sesuai dengan kekhasan merek dan indikasi geografis se perti yang \ndikemukakan di atas, siapa saja dapat menjadi konsultan kekayaa n intelektual \nsehingga dapat menjadi kuasa sepanjang sudah memenuhi persyarat an. Artinya, \nadvokat dapat merangkap sebagai konsultan kekayaan intelektual sepanjang telah \nditetapkan sebagai konsultan kekayaan intelektual dengan terleb ih dahulu telah \nmemenuhi persyaratan. Dengan demikian, dalil para Pemohon yang menyatakan \nbahwa norma Pasal 1 angka 13 UU 20/2016 yang memberikan pembata san \npengertian kuasa sehingga mengakibatkan tertutupnya kesempatan para Pemohon \nuntuk memperoleh pekerjaan berupa pemberian jasa hukum sebagai kuasa di \nbidang merek dan indikasi geogra fis adalah dalil yang tidak tep at atau tidak dapat \ndibenarkan. Advokat, termasuk para Pemohon, apabila hendak menj adi kuasa \ndalam pengajuan dan pengurusan permohonan merek harus memiliki kualifikasi \nsebagai konsultan kekayaan intelektual, sebagaimana amanat pembentuk undang-\nundang dalam merumuskan UU 20/2016. Dengan demikian, norma Pasa l 1 angka \n13 UU 20/2016 yang memberikan batasan kuasa hanya kepada konsultan kekayaan \nintelektual, bukan berarti norma dimaksud melarang advokat untu k berpraktik di \nbidang pengajuan dan pengurusan merek, melainkan hanya mensyara tkan \nkompetensi khusus untuk ditetapkan sebagai konsultan kekayaan i ntelektual. \nDengan demikian, sesungguhnya yang dimohonkan para Pemohon tida k relevan, \nkarena tidak terdapat larangan profesi advokat untuk beracara dalam bidang merek \ndan indikasi geografis sepanjang telah memenuhi kualifikasi dan ditetapkan sebagai \nkonsultan kekayaan intelektual.  \n Berdasarkan pertimbangan hukum di atas, menurut Mahkamah dalil para \nPemohon berkenaan dengan definisi “kuasa” dalam norma Pasal 1 a ngka 13 UU \n20/2016 bertentangan dengan Pasal 27 ayat (1) dan ayat (2) sert a Pasal 28D ayat \n(1) dan ayat (2) UUD NRI Tahun 1945 adalah dalil yang tidak ber dasar sehingga \nharus dinyatakan tidak beralasan menurut hukum. \n[3.11] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum d i \natas, telah ternyata norma Pasal 1 angka 13 UU 20/2016 tidak me nimbulkan \npelanggaran atas hak persamaan kedudukan di dalam hukum, hak un tuk \nmendapatkan pekerjaan dan penghidupan yang layak, hak mendapatkan kepastian \n\n54 \nhukum yang adil dan perlakuan yang sama di hadapan hukum, serta  hak untuk \nbekerja dan memperoleh imbalan yang adil dan layak sebagaimana yang dijamin \ndalam Pasal 27 ayat (1) dan ayat (2), serta Pasal 28D ayat (1) dan ayat (2) UUD \nNRI Tahun 1945, bukan seperti yang didalilkan oleh para Pemohon . Dengan \ndemikian, dalil para Pemohon berkenaan dengan Pasal 1 angka 13 UU 20/2016 \nadalah tidak beralasan menurut hukum untuk seluruhnya. \n[3.12] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1803,
+      "end_line": 1964
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an",
+      "start_line": 1966,
+      "end_line": 1966
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Para Pemohon memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Permohonan para Pemohon tidak beralasan menurut hukum untuk \nseluruhnya. \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1968,
+      "end_line": 1981
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan para Pemohon untuk seluruhnya. \n\n55 \n Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembil an \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nAdies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Y usmic P. Foekh,   \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, pada hari Senin, tanggal tiga puluh satu, bulan Agustus, tahun dua ribu \ndua puluh enam,  yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \nterbuka untuk umum pada hari Rabu, tanggal enam belas, bulan September, tahun \ndua ribu dua puluh enam , selesai diucapkan pukul 16.22 WIB, oleh sembilan \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nAdies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Y usmic P. Foekh,  \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, dengan dibantu oleh Rahmadiani Putri Nilasari sebagai Panitera \nPengganti, serta dihadiri oleh para Pemohon dan/atau kuasanya, Dewan Perwakilan \nRakyat atau yang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd.  \nSuhartoyo  \nANGGOTA-ANGGOTA, \nttd.  \nSaldi Isra \nttd.  \nAdies Kadir \n ttd. \nLiliek Prisbawono Adi  \nttd.  \nEnny Nurbaningsih \n ttd. \nDaniel Yusmic P. Foekh \nttd.  \nM. Guntur Hamzah  \nttd. \nRidwan Mansyur  \nttd. \nArsul Sani \n \n\n56 \nPANITERA PENGGANTI, \nttd. \nRahmadiani Putri Nilasari",
+      "start_line": 1983,
+      "end_line": 2027
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Resa Indrawan Samir, S.H., M.H.",
+        "role": "Pemohon 1",
+        "description": null
+      },
+      {
+        "name": "Agustiar, S.H.",
+        "role": "Pemohon 2",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Dr. Ulhaq, S.H., M.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Adi Surya Wijaya",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "S .H., M.H",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis"
+    ],
+    "constitutional_articles": [
+      "Pasal 10 ayat (1) hu r",
+      "Pasal 24C ayat (1)",
+      "Pasal 27 ayat (1)",
+      "Pasal 27 ayat (2)",
+      "Pasal 28D ayat (1)",
+      "Pasal 28D ayat (2)",
+      "Pasal 1",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 28D",
+      "Pasal 27"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-8",
+      "BUKTI P- 9",
+      "BUKTI P-10",
+      "BUKTI P-16",
+      "BUKTI P-9",
+      "BUKTI P-17",
+      "BUKTI P-2",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "BUKTI P-13",
+      "BUKTI P-14",
+      "BUKTI P-15",
+      "REFERENSI:291/PUU-XXIV/2026",
+      "REFERENSI:01/ILS/VII/2026",
+      "REFERENSI:291/PUU/PAN.MK/AP3/07/2026",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:63/PUU-XV/2017",
+      "REFERENSI:006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "sidang terbuka"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan para Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Rahmadiani Putri Nilasari"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "291/PUU-XXIV/2026",
+      "01/ILS/VII/2026",
+      "291/PUU/PAN.MK/AP3/07/2026",
+      "11/PUU-V/2007",
+      "63/PUU-XV/2017",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "291/PUU-XXIV/2026",
+      "01/ILS/VII/2026",
+      "291/PUU/PAN.MK/AP3/07/2026",
+      "11/PUU-V/2007",
+      "63/PUU-XV/2017",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

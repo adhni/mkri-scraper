@@ -1,0 +1,935 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_15116_1792053425.pdf",
+    "file_name": "putusan_mkri_15116_1792053425.pdf",
+    "page_count": 59,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15116_1792053425.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "141/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "1",
+    "decision_date": "2026-10-15",
+    "decision_date_raw": "lima belas, bulan Oktober, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "1",
+      "start_line": 1,
+      "end_line": 5
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 141/PUU-XXIV/2026",
+      "start_line": 7,
+      "end_line": 7
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1]  Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen terhada p Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 9,
+      "end_line": 13
+    },
+    {
+      "heading": "1. Nama : Sarah Rahayu",
+      "slug": "1-nama-sarah-rahayu",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Taman Sari Bukit Damai C6, RT. 004/RW 008, \nCurug, Gunung Sindur, Bogor \nSelanjutnya disebut sebagai --------------------------------------------------- Pemohon I",
+      "start_line": 15,
+      "end_line": 18
+    },
+    {
+      "heading": "2. Nama : Nurhaliza Zahra",
+      "slug": "2-nama-nurhaliza-zahra",
+      "text": "Pekerjaan  : Mahasiswa \n Alamat : Rusunawa Penggilingan Tower E2 Lantai 10, \nNomor 16, RT 007/RW 019, Kelurahan \nPenggilingan, Kecamatan Cakung \nSelanjutnya disebut sebagai -------------------------------------------------- Pemohon II",
+      "start_line": 20,
+      "end_line": 24
+    },
+    {
+      "heading": "3. Nama : Livia Maulina",
+      "slug": "3-nama-livia-maulina",
+      "text": "Pekerjaan  : Mahasiswa \n Alamat : Kp. Curug RT 03/RW 04, Kelurahan Pakansari, \nKecamatan Cibinong, Kabupaten Bogor \nSelanjutnya disebut sebagai ------------------------------------------------- Pemohon III",
+      "start_line": 26,
+      "end_line": 29
+    },
+    {
+      "heading": "4. Nama : Primo Putra Ramadhan",
+      "slug": "4-nama-primo-putra-ramadhan",
+      "text": "Pekerjaan  : Mahasiswa  \n A l a m a t  :  Jalan Karanganyar Gunung, Kota Semarang \nSelanjutnya disebut sebagai ------------------------------------------------- Pemohon IV \n\n\n2",
+      "start_line": 31,
+      "end_line": 38
+    },
+    {
+      "heading": "5. Nama : Zalva Viola Munir",
+      "slug": "5-nama-zalva-viola-munir",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Ramanuju RT 004/RW 009, Kecamatan \nCitangkil, Kelurahan Citangkil, Kota Cilegon \nSelanjutnya disebut sebagai -------------------------------------------------- Pemohon V",
+      "start_line": 40,
+      "end_line": 43
+    },
+    {
+      "heading": "6. Nama : Amelia Harditiya",
+      "slug": "6-nama-amelia-harditiya",
+      "text": "Pekerjaan  : Mahasiswa \n Alamat : Klumpit RT 006/RW 002, Desa Klumpit, \nKecamatan Sawahan, Kabupaten Madiun \nSelanjutnya disebut sebagai ------------------------------------------------- Pemohon VI",
+      "start_line": 45,
+      "end_line": 48
+    },
+    {
+      "heading": "7. Nama : Muhamad Nabil Gunawan",
+      "slug": "7-nama-muhamad-nabil-gunawan",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Bandasari, RT 005/RW 001, Kelurahan/Desa \nBandasari, Kecamatan Dukuhturi, Kabupaten \nTegal, Provinsi Jawa Tengah \nSelanjutnya disebut sebagai ------------------------------------------------------ Pemohon VII \nBerdasarkan Surat Kuasa Khusus bertanggal 1 April 2026 memberik an kuasa \nkepada Bernita Matondang dan Susi Lestari, bertindak bersama-sa ma maupun \nsendiri-sendiri, untuk dan atas nama pemberi kuasa; \nSelanjutnya Pemohon I sampai dengan Pemohon VII disebut sebagai -----------------\n---------------------------------------------------------------------------------------para Pemohon; \n [1.2] Membaca permohonan para Pemohon; \n Mendengar keterangan para Pemohon; \n Memeriksa bukti-bukti para Pemohon.",
+      "start_line": 50,
+      "end_line": 62
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 14 April 2026 yang diterima Kepaniteraan Mahkamah Ko nstitusi pada \ntanggal 14 April 2026 berdasarkan Akta Pengajuan Permohonan Pem ohon Nomor \n139/PUU/PAN.MK/AP3/04/2026 dan telah dicatat dalam Buku Registr asi Perkara \nKonstitusi pada tanggal 15 April 2026 dengan Permohonan Nomor 1 41/PUU-\n\n3 \n \n \nXXIV/2026, yang telah diperbaiki dan diterima Mahkamah pada tan ggal 12 Mei \n2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI.  Kewenangan Mahkamah",
+      "start_line": 64,
+      "end_line": 75
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD NRI 1945 ) \nmenyatakan: \n“kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung \ndan badan peradilan yang berada dibawahnya dalam lingkungan \nperadilan umum, lingkungan peradilan agama, lingkungan \nperadilan militer, lingkungan peradilan tata usaha negara, dan \noleh sebuah Mahkamah Konstitusi”;",
+      "start_line": 77,
+      "end_line": 83
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) Perubahan Keempat UUD N RI 1945:",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-perubahan-keempat-uud-n-ri-1945",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama \ndan terakhir yang putusannya bersifat final untuk menguji undang-\nundang terhadap Undang-Undang Dasar, memutus sengketa \nkewenangan lembaga negara yang kewenangannya diberikan \noleh Undang-Undang Dasar, memutus perubahan partai politik \ndan memutus perselisihan tentang hasil pemilihan umum”;",
+      "start_line": 85,
+      "end_line": 90
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-t-ahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana telah \ndiubah terakhir dalam Undang-Undang (UU) Nomor 13 Tahun 2022 tentang \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-Undangan menegaskan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang- Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 92,
+      "end_line": 98
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 T ahun",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-t-ahun",
+      "text": "2009 tentang Kekuasaan Kehakiman, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama \ndan terakhir yang putusannya bersifat final untuk: a. menguji \nundang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; b. memutus sengketa \nkewenangan lembaga negara yang kewenangannya diberikan \noleh Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945; c. memutus pembubaran partai politik; d. memutus \nperselisihan tentang hasil pemilihan umum; dan e. kewenangan \nlain yang diberikan oleh undang- undang”",
+      "start_line": 100,
+      "end_line": 109
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-t-ahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah terakhir \ndengan Undang-undang (UU) Nomor 7 Tahun 2020 tentang Perubahan \n\n4 \n \n \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama \ndan terakhir yang putusannya ber sifat final untuk: a. menguji \nundang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; b. memutus sengketa \nkewenangan lembaga negara yang kewenangannya diberikan \noleh Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945; c. memutus pembubaran partai politik; dan d. memutus \nperselisihan tentang hasil pemilihan umum.”",
+      "start_line": 111,
+      "end_line": 126
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konsti tusi",
+      "slug": "6-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konsti-tusi",
+      "text": "Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujia n \nUndang-Undang, menyatakan : \n“Objek Permohonan PUU adalah Undang-Undang dan Perppu”; \nOleh karenanya, Mahkamah Konstitusi berwenang mengadili perkara a \nquo karena Para Pemohon mengajukan permohonan pengujian \nkonstitusionalitas undang- undang yaitu: Undang-Undang Nomor 8 \nTahun 1999 tentang Perlindungan Konsumen;",
+      "start_line": 128,
+      "end_line": 134
+    },
+    {
+      "heading": "7. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah n y a t a",
+      "slug": "7-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-n-y-a-t-a",
+      "text": "bahwa objek permohonan a quo memenuhi syarat sebagai objek \npermohonan pengujian materiil Undang-Undang terhadap UUD NRI 19 45. \nOleh karenanya, Mahkamah Konstitusi berwenang untuk memeriksa, \nmengadili, dan memutus konstitusionalitas Undang- Undang terhadap UUD \nNRI 1945 dalam perkara a quo yang diajukan oleh PARA PEMOHON. \nII. Kedudukan Hukum ( Legal Standing) Dan Kerugian Konstitusional \nPara Pemohon",
+      "start_line": 136,
+      "end_line": 142
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menyatakan",
+      "text": "bahwa PARA PEMOHON adalah pihak yang menganggap hak \ndan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya  \nundang-undang, yaitu: \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip negara \nkesatuan RI yang diatur dalam undang-undang;",
+      "start_line": 144,
+      "end_line": 150
+    },
+    {
+      "heading": "d. lembaga negara”.",
+      "slug": "d-lembaga-negara",
+      "text": "5",
+      "start_line": 153,
+      "end_line": 156
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, maka terlebih dahulu P ara",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-maka-terlebih-dahulu-p-ara",
+      "text": "Pemohon menguraikan kedudukan hukum ( legal standing), sebagai \nberikut, Para Pemohon merupakan perseorangan warga negara \nIndonesia yang dibuktikan dengan kepemilikan Kartu Tanda \nPenduduk (vide p3 s.d p-9) dan berstatus sebagai Mahasiswa Ilmu  \nHukum dibuktikan dengan Kartu Tanda Mahasiswa (vide p-10);",
+      "start_line": 158,
+      "end_line": 162
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2) menegaskan",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaskan",
+      "text": "Para Pemohon memenuhi dan memiliki kedudukan hukum ( legal \nstanding) sebagai perseorangan warga negara Indonesia sehingga \nPara Pemohon dapat mengajukan permohonan pengujian UU \nterhadap UUD NRI 1945. Selanjutnya, Para Pemohon akan \nmenguraikan kerugian konstitusional yang dialami sehubungan \ndengan berlakunya Undang-Undang yang diujikan \nkonstitusionalitasnya dalam perkara a quo.",
+      "start_line": 164,
+      "end_line": 170
+    },
+    {
+      "heading": "4. Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi No. 07",
+      "slug": "4-bahwa-dalam-pasal-4-ayat-2-peraturan-mahkamah-konstitusi-no-07",
+      "text": "Tahun 2025 tentang Pedoman Beracara Dalam Perkara Pengujian \nUndang-Undang ditentukan 5 syarat mengenai kerugian \nkonstitusional, yaitu: \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia 1945. \nb. Bahwa hak konstitusional pemohon tersebut dianggap oleh para  \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 172,
+      "end_line": 178
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat",
+      "text": "spesifik atau khusus dan aktual atau setidaknya potensial yang \nmenurut penalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 180,
+      "end_line": 181
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya",
+      "text": "Undang- Undang yang dimohonkan untuk diuji. \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian konstitusional yang didalilkan tidak akan atau tidak \nterjadi lagi.",
+      "start_line": 183,
+      "end_line": 186
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional Para Pemohon",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-para-pemohon",
+      "text": "dijamin oleh UUD NRI 1945 yang telah diatur dalam beberapa pasa l \nyang digunakan sebagai dasar pengujian dalam perkara a quo, yaitu: \na. Pasal 28D ayat (1) UUD NRI 1945, menyatakan “Setiap orang \n\n6 \n \n \nberhak atas pengakuan, jaminan, perlindungan, dan kepastian \nhukum yang adil serta perlakuan yang sama di hadapan hukum.”",
+      "start_line": 188,
+      "end_line": 196
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam",
+      "text": "UUD NRI 1945 tersebut telah dirugikan dengan pasal sebagai berikut: \nPasal 9 Ayat (1) Undang-Undang Nomor 8 Tahun 1999 tentang \nPerlindungan Konsumen (Lembaran Negara Republik Indonesia \nTahun 1999 Nomor 22, Tambahan Lembaran Negara Republik \nIndonesia Nomor 3821) yang menyatakan: “Pelaku usaha dilarang \nmenawarkan, mempromosikan, mengiklankan suatu barang \ndan/atau jasa secara tidak benar, dan/atau seolah-olah:.”",
+      "start_line": 198,
+      "end_line": 204
+    },
+    {
+      "heading": "7. Bahwa Para Pemohon merupakan warga negara Indonesia sekaligus",
+      "slug": "7-bahwa-para-pemohon-merupakan-warga-negara-indonesia-sekaligus",
+      "text": "konsumen aktif dalam ekosistem perdagangan elektronik yang \nmemiliki hak konstitusional untuk memperoleh pengakuan, jaminan , \nperlindungan, dan kepastian hukum yang adil sebagaimana dijamin  \ndalam Pasal 28D ayat (1) UUD Negara Republik Indonesia Tahun \n1945: \na. Bahwa frasa \"menawarkan, mempromosikan, mengiklankan\" \ndalam Pasal 9 ayat (1) Undang-Undang Nomor 8 Tahun 1999 \ntentang Perlindungan Konsumen secara historis dan kontekstual \nhanya menjangkau bentuk-bentuk komunikasi komersial \nkonvensional yang bersifat aktif dan eksplisit, seperti iklan cetak, \nsiaran televisi, radio, dan penawaran tatap muka langsung, \nsebagaimana yang lazim dikenal pada saat undang-undang \ntersebut dibentuk. \nb. Bahwa perkembangan ekosistem perdagangan elektronik pasca \ntahun 2000 telah melahirkan bentuk-bentuk representasi baru \nyang secara substansial membentuk persepsi dan keputusan \nkonsumen, namun secara tekstual tidak tercakup dalam frasa \n\"menawarkan, mempromosikan, mengiklankan\", antara lain:",
+      "start_line": 206,
+      "end_line": 223
+    },
+    {
+      "heading": "1. Tampilan antarmuka pengguna (UI/UX) pada platform",
+      "slug": "1-tampilan-antarmuka-pengguna-ui-ux-pada-platform",
+      "text": "perdagangan elektronik;",
+      "start_line": 225,
+      "end_line": 225
+    },
+    {
+      "heading": "3. Representasi biaya otomatis yang dihasilkan sistem logistik",
+      "slug": "3-representasi-biaya-otomatis-yang-dihasilkan-sistem-logistik",
+      "text": "digital; \n\n7",
+      "start_line": 228,
+      "end_line": 232
+    },
+    {
+      "heading": "4. Klaim keamanan data yang terbangun dari desain sistem dan",
+      "slug": "4-klaim-keamanan-data-yang-terbangun-dari-desain-sistem-dan",
+      "text": "arsitektur platform; dan",
+      "start_line": 234,
+      "end_line": 234
+    },
+    {
+      "heading": "5. Visualisasi produk yang dihasilkan melalui rendering dan",
+      "slug": "5-visualisasi-produk-yang-dihasilkan-melalui-rendering-dan",
+      "text": "algoritma digital.",
+      "start_line": 236,
+      "end_line": 236
+    },
+    {
+      "heading": "c. Bahwa ketiadaan cakupan norma terhadap bentuk-bentuk",
+      "slug": "c-bahwa-ketiadaan-cakupan-norma-terhadap-bentuk-bentuk",
+      "text": "representasi digital tersebut mengakibatkan:",
+      "start_line": 238,
+      "end_line": 238
+    },
+    {
+      "heading": "1. Pelaku usaha tidak dapat dimintai pertanggungjawaban",
+      "slug": "1-pelaku-usaha-tidak-dapat-dimintai-pertanggungjawaban",
+      "text": "berdasarkan Pasal 9 ayat (1) atas representasi digital yang \nnyata-nyata merugikan konsumen;",
+      "start_line": 240,
+      "end_line": 241
+    },
+    {
+      "heading": "2. Konsumen tidak memiliki dasar norma yang pasti untuk",
+      "slug": "2-konsumen-tidak-memiliki-dasar-norma-yang-pasti-untuk",
+      "text": "menuntut perlindungan hukum; dan",
+      "start_line": 243,
+      "end_line": 243
+    },
+    {
+      "heading": "3. Aparat penegak hukum tidak memiliki parameter yang",
+      "slug": "3-aparat-penegak-hukum-tidak-memiliki-parameter-yang",
+      "text": "memadai untuk menilai apakah suatu representasi digital \nmerupakan pelanggaran terhadap norma a quo.",
+      "start_line": 245,
+      "end_line": 246
+    },
+    {
+      "heading": "d. Bahwa Pemohon I mengalami kerugian aktual dalam dua",
+      "slug": "d-bahwa-pemohon-i-mengalami-kerugian-aktual-dalam-dua",
+      "text": "peristiwa transaksi digital yang menunjukkan secara nyata \nketidakmampuan norma a quo untuk menjangkau representasi \ndigital yang merugikan konsumen:",
+      "start_line": 248,
+      "end_line": 250
+    },
+    {
+      "heading": "1. Dalam transaksi jasa logistik impor, sistem platform secara",
+      "slug": "1-dalam-transaksi-jasa-logistik-impor-sistem-platform-secara",
+      "text": "otomatis menampilkan kalkulasi biaya yang memberikan \nrepresentasi bahwa seluruh komponen biaya pengiriman \ntelah bersifat final dalam skema cost, insurance, and freight \n(CIF), namun pada kenyataannya Pemohon I menerima \ntagihan tambahan tanpa rincian yang transparan (vide P-11). \nTampilan kalkulasi biaya otomatis tersebut bukanlah \"iklan\" \natau \"promosi\" dalam pengertian konvensional, sehingga \npelaku usaha berlindung di balik dalih bahwa sistem hanya \nmenampilkan data teknis, bukan melakukan penawaran yang \ndilarang Pasal 9 ayat (1);",
+      "start_line": 252,
+      "end_line": 261
+    },
+    {
+      "heading": "2. Dalam transaksi melalui platform perdagangan elektronik,",
+      "slug": "2-dalam-transaksi-melalui-platform-perdagangan-elektronik",
+      "text": "sistem informasi pengiriman menampilkan status elektronik \nyang merepresentasikan bahwa barang telah diterima di \nlokasi yang benar, padahal secara faktual barang tidak \npernah diterima oleh Pemohon I (vide P-12). Status sistem \n\n8 \n \n \npengiriman tersebut bukanlah bentuk \"penawaran, promosi, \natau iklan\" yang secara tekstual terjangkau Pasal 9 ayat (1), \nsehingga Pemohon I tidak memiliki pijakan norma yang pasti \nuntuk menuntut pertanggungjawaban pelaku usaha. \ne. Bahwa Pemohon II mengalami kerugian berupa pelanggaran \nprivasi dan penyalahgunaan data pribadi oleh pihak ketiga \nsetelah melakukan transaksi pembelian gawai melalui platform \nperdagangan elektronik (vide P-14). Bahwa sebelum transaksi \ndilakukan, platform membangun representasi keamanan sistem \nmelalui desain antarmuka, arsitektur teknis, dan fitur-fitur di gital \nyang secara keseluruhan membentuk persepsi pada konsumen \nbahwa transaksi tersebut aman dan data pribadinya terlindungi. \nRepresentasi keamanan yang terbangun dari desain sistem \ndigital tersebut tidak dapat dikategorikan sebagai \"penawaran, \npromosi, atau iklan\" dalam pengertian Pasal 9 ayat (1), sehingga \npelaku usaha tidak dapat dijerat norma a quo meskipun \nrepresentasi tersebut nyata-nyata menyesatkan dan merugikan \nPemohon II. \nf. Bahwa representasi keamanan digital yang dibangun oleh \nplatform perdagangan elektronik tersebut secara substansial dan \nfungsional berperan membentuk kepercayaan serta keputusan \nPemohon II untuk melakukan transaksi elektronik, sehingga \npada hakikatnya memiliki fungsi yang setara dengan \npenawaran, promosi, atau iklan dalam ekosistem perdagangan \ndigital. Namun karena representasi digital semacam itu belum \nsecara jelas tercakup dalam frasa “menawarkan, \nmempromosikan, mengiklankan” pada Pasal 9 ayat (1) Undang- \nUndang Perlindungan Konsumen, Pemohon II kehilangan dasar \nperlindungan hukum yang pasti terhadap representasi digital \nyang menyesatkan tersebut. \ng. Bahwa Pemohon III mengalami kerugian material akibat \ntransaksi pembelian produk pakaian melalui platform \nperdagangan elektronik, di mana barang yang diterima tidak \nsesuai dengan kualitas, karakteristik, dan tampilan yang \n\n9 \n \n \ndirepresentasikan melalui visualisasi digital dalam platform (vide \nP-13). Bahwa representasi produk yang bersumber dari foto \nalgoritmik, filter visual, dan rendering digital pada platform \nperdagangan elektronik tidak secara eksplisit dikategorikan \nsebagai bentuk \"penawaran, promosi, atau iklan\" yang terukur \ndalam Pasal 9 ayat (1), sehingga membuka celah bagi pelaku \nusaha untuk berdalih bahwa tampilan visual produk merupakan \nfitur teknis platform, bukan tindakan promosi yang dilarang ole h \nnorma a quo . Akibatnya, Pemohon III tidak memperoleh \nkepastian hukum yang adil atas kerugian yang dialaminya. \nh. Bahwa Pemohon IV dan Pemohon VII, sebagai konsumen aktif \ndalam ekosistem perdagangan elektronik, berada dalam posisi \nrentan secara berkesinambungan terhadap berbagai bentuk \nrepresentasi digital yang tidak tercakup dalam norma a quo , \nsehingga selama kekosongan norma tersebut tidak diperbaiki, \nPara Pemohon tidak memiliki jaminan perlindungan hukum yang \npasti dalam setiap transaksi elektronik yang mereka lakukan.",
+      "start_line": 263,
+      "end_line": 325
+    },
+    {
+      "heading": "i. Bahwa terdapat hubungan sebab-akibat ( causal verband) yang",
+      "slug": "i-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-yang",
+      "text": "nyata dan langsung antara kekosongan norma dalam frasa \n\"menawarkan, mempromosikan, mengiklankan\" pada Pasal 9 \nayat (1) dengan kerugian konstitusional yang dialami Para \nPemohon, karena:",
+      "start_line": 327,
+      "end_line": 330
+    },
+    {
+      "heading": "1. Norma a quo tidak menjangkau bentuk representasi digital",
+      "slug": "1-norma-a-quo-tidak-menjangkau-bentuk-representasi-digital",
+      "text": "yang menjadi sumber kerugian Para Pemohon;",
+      "start_line": 332,
+      "end_line": 332
+    },
+    {
+      "heading": "2. Ketidakterjangkauan norma tersebut menyebabkan pelaku",
+      "slug": "2-ketidakterjangkauan-norma-tersebut-menyebabkan-pelaku",
+      "text": "usaha dapat berlindung di balik dalih teknis sistem digital;",
+      "start_line": 334,
+      "end_line": 334
+    },
+    {
+      "heading": "3. Akibatnya Para Pemohon kehilangan hak atas kepastian",
+      "slug": "3-akibatnya-para-pemohon-kehilangan-hak-atas-kepastian",
+      "text": "hukum yang adil sebagaimana dijamin Pasal 28D ayat (1) \nUUD NRI 1945.",
+      "start_line": 336,
+      "end_line": 337
+    },
+    {
+      "heading": "8. Bahwa kerugian Para Pemohon bersifat aktual bagi Pemohon I, II,",
+      "slug": "8-bahwa-kerugian-para-pemohon-bersifat-aktual-bagi-pemohon-i-ii",
+      "text": "dan III yang telah mengalami kerugian nyata akibat representasi  \ndigital yang tidak terjangkau norma a quo dan potensial bagi \nPemohon IV dan VII yang berisiko terus mengalami kerugian serup a \nselama kekosongan normatersebut tidak diatasi melalui penafsira n \n\n10 \n \n \nkonstitusional oleh Mahkamah. \nIII. Alasan Permohonan \nA. Menawarkan, Mempromosikan, Mengiklankan\" dalam Pasal 9 \nAyat (1) Undang- Undang Nomor 8 Tahun 1999 tentang \nPerlindungan Konsumen Tidak Menjangkau Bentuk \nRepresentasi Digital sehingga Menciptakan Kekosongan Norma \nyang Bertentangan dengan Jaminan Kepastian Hukum yang \nAdil sebagaimana Dijamin oleh Pasal 28D Ayat (1) Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945",
+      "start_line": 339,
+      "end_line": 355
+    },
+    {
+      "heading": "1. Bahwa Pasal 9 ayat (1) Undang-Undang Nomor 8 Tahun 1999",
+      "slug": "1-bahwa-pasal-9-ayat-1-undang-undang-nomor-8-tahun-1999",
+      "text": "tentang Perlindungan Konsumen merupakan salah satu norma \nlarangan paling fundamental dalam sistem hukum perlindungan \nkonsumen di Indonesia, yang secara tegas melarang pelaku \nusaha untuk “menawarkan, mempromosikan, mengiklankan \nsuatu barang dan/atau jasa secara tidak benar.” Frasa \n“menawarkan, mempromosikan, mengiklankan” dalam norma a \nquo merupakan inti dari keseluruhan norma larangan yang \nmenjadi fondasi utama perlindungan konsumen dari praktik \nkomunikasi komersial yang bersifat menyesatkan, manipulatif, \ndan merugikan. Ketiga kata kerja yang tersusun secara kumulatif \ndalam frasa tersebut yakni menawarkan, mempromosikan, dan \nmengiklankan secara bersama-sama membentuk cakupan \ntindakan yang dilarang oleh pembentuk undang-undang, yang \npada hakikatnya merupakan segala bentuk upaya komunikasi \nyang dilakukan pelaku usaha kepada konsumen dalam rangka \nmendorong terjadinya transaksi komersial. Namun demikian, \nPara Pemohon berpandangan bahwa frasa tersebut, meskipun \nsecara harfiah tampak luas dan komprehensif, sesungguhnya \nmengandung kelemahan struktural yang fundamental, yakni \nketidakmampuannya untuk menjangkau bentuk-bentuk \nrepresentasi digital yang berkembang secara masif dalam \nekosistem perdagangan elektronik kontemporer. Kelemahan \nstruktural tersebut bukan semata-mata persoalan teknis \npenafsiran yang dapat diselesaikan oleh hakim dalam peradilan \n\n11 \n \n \nbiasa, melainkan merupakan persoalan konstitusional yang \nmenyentuh inti jaminan kepastian hukum yang adil sebagaimana \ndijamin oleh Pasal 28D ayat (1) Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945, karena ketidakmampuan norma \na quo untuk menjangkau realitas perdagangan digital secara \nlangsung mengakibatkan konsumen Indonesia yang bertransaksi \nsecara digital kehilangan perlindungan normatif yang seharusnya \nmereka miliki sebagai hak konstitusional yang dijamin oleh \nkonstitusi. Dengan demikian, persoalan yang dihadapkan kepada \nMahkamah dalam perkara a quo bukan sekadar pertanyaan \ntentang efektivitas penegakan hukum konsumen di ruang digital, \nmelainkan pertanyaan yang jauh lebih mendasar tentang apakah \nnorma yang berlaku saat ini dengan segala keterbatasan \ncakupan historis dan tekstualnya masih mampu memberikan \njaminan konstitusional yang memadai bagi seluruh warga negara \nIndonesia yang menggunakan haknya sebagai konsumen dalam \nekosistem perdagangan yang telah bergeser secara fundamental \nke ranah digital.",
+      "start_line": 357,
+      "end_line": 402
+    },
+    {
+      "heading": "2. Bahwa untuk memahami secara utuh kelemahan struktural yang",
+      "slug": "2-bahwa-untuk-memahami-secara-utuh-kelemahan-struktural-yang",
+      "text": "terkandung dalam frasa “menawarkan, mempromosikan, \nmengiklankan” dalam Pasal 9 ayat (1) UUPK, maka terlebih \ndahulu perlu dilakukan penelusuran historis terhadap konteks \nsosial, ekonomi, dan teknologi pada saat undang-undang \ntersebut dibentuk dan disahkan. Undang-Undang Nomor 8 Tahun \n1999 tentang Perlindungan Konsumen lahir dalam konteks \nIndonesia pasca krisis moneter 1997-1998, di mana kebutuhan \nuntuk memberikan perlindungan hukum yang memadai kepada \nkonsumen dari praktik-praktik pelaku usaha yang tidak \nbertanggung jawab menjadi sangat mendesak. Pembentuk \nundang-undang pada tahun 1999 merancang dan merumuskan \nseluruh ketentuan dalam UUPK berdasarkan realitas \nperdagangan yang berlangsung secara konvensional, yakni \ntransaksi tatap muka di toko fisik, iklan-iklan yang tampil di media \ncetak seperti koran dan majalah, siaran iklan di televisi dan radio, \n\n12 \n \n \npromosi melalui brosur dan spanduk, serta berbagai bentuk \npenawaran langsung yang dilakukan oleh tenaga penjual kepada \ncalon konsumen. Dalam konteks demikian, frasa “menawarkan, \nmempromosikan, mengiklankan” memiliki makna yang sangat \njelas dan konkret bagi pembentuk undang-undang karena \nmerujuk pada tindakan-tindakan yang dapat diidentifikasi secara  \nkasat mata, dilakukan secara aktif dan sadar oleh pelaku usaha,  \nbersifat satu arah dari pelaku usaha kepada konsumen, serta \nmenggunakan medium komunikasi yang sudah dikenal luas \npada zamannya. Perlu dicatat bahwa pada tahun 1999, \npenggunaan internet di Indonesia masih berada pada tahap yang \nsangat awal dan terbatas pada kalangan akademisi dan \nprofesional tertentu, sehingga konsep perdagangan elektronik \nberbasis platform digital, aplikasi mobile, sistem logistik \nterintegrasi secara digital, atau antarmuka pengguna yang \nalgoritmik sama sekali belum menjadi bagian dari bayangan \npembentuk undang-undang ketika merumuskan norma a quo . \nFakta historis ini terkonfirmasi secara tegas dalam Hasil \nPenyelarasan Naskah Akademik Rancangan Undang-Undang \ntentang Perlindungan Konsumen yang disusun oleh Badan \nPembinaan Hukum Nasional Kementerian Hukum dan HAM pada \ntahun 2020, yang secara eksplisit mengakui bahwa “materi norma \nyang diatur dalam Undang-Undang tersebut sudah tidak lagi \nmemadai dengan perkembangan teknologi informasi saat ini” dan \nsecara khusus menyebutkan bahwa “pengaturan substansi \nperlindungan konsumen berkenaan dengan perkembangan \nmetode perdagangan dengan sistem elektronik ( e-\ncommerce/digital transaction)” merupakan salah satu persoalan \nmendasar yang harus segera diselesaikan melalui perubahan \nUUPK. Pengakuan resmi dari lembaga pemerintah yang \nberwenang dalam pembinaan hukum nasional ini merupakan \nbukti yang tidak terbantahkan bahwa kekosongan norma yang \ndidalilkan oleh Para Pemohon bukanlah sesuatu yang dibuat-buat \natau bersifat hipotetis, melainkan merupakan persoalan nyata \n\n13 \n \n \nyang telah diakui secara resmi oleh otoritas negara sendiri, \nnamun hingga saat ini belum diselesaikan melalui instrumen \nlegislasi yang memadai, sehingga konsumen digital terus \nmenerus berada dalam kondisi tanpa perlindungan normatif yang \npasti.",
+      "start_line": 404,
+      "end_line": 465
+    },
+    {
+      "heading": "3. Bahwa apabila dilakukan penafsiran tekstual yang cermat dan",
+      "slug": "3-bahwa-apabila-dilakukan-penafsiran-tekstual-yang-cermat-dan",
+      "text": "sistematis terhadap frasa “menawarkan, mempromosikan, \nmengiklankan” dalam Pasal 9 ayat (1) UUPK, maka akan \nditemukan bahwa ketiga kata kerja tersebut secara linguistik dan \nyuridis merujuk pada tindakan komunikasi komersial yang \nmemiliki karakteristik spesifik yang tidak serta-merta dapat \ndipersamakan dengan bentuk-bentuk representasi digital yang \nmuncul dalam ekosistem perdagangan elektronik kontemporer. \nPertama, kata “menawarkan” dalam konteks hukum perlindungan \nkonsumen konvensional merujuk pada tindakan aktif pelaku \nusaha yang secara langsung dan eksplisit menyampaikan suatu \nproposisi komersial kepada konsumen, baik secara lisan maupun \ntertulis, yang mengundang konsumen untuk melakukan transaksi \ndengan syarat-syarat tertentu yang secara sadar \ndikomunikasikan. Kedua, kata “mempromosikan” merujuk pada \nserangkaian kegiatan yang dilakukan secara terencana dan \nbertujuan oleh pelaku usaha untuk meningkatkan daya tarik suatu \nproduk atau jasa di mata konsumen, yang dalam konteks \nkonvensional dapat berupa kegiatan pameran, demonstrasi \nproduk, pemberian sampel, atau berbagai aktivitas pemasaran \nyang melibatkan interaksi langsung antara pelaku usaha atau \nwakilnya dengan konsumen. Ketiga, kata “mengiklankan” merujuk \npada penyampaian pesan komersial yang bersifat publik melalui \nmedia massa atau saluran komunikasi tertentu, yang dalam \nkonteks undang-undang tahun 1999 meliputi iklan cetak, iklan \nsiaran, dan iklan luar ruang yang semuanya bersifat eksplisit, \ndisengaja, dan dapat diidentifikasi secara jelas sebagai tindak an \nkomunikasi komersial dari pelaku usaha kepada konsumen. \nKarakteristik yang menyatukan ketiga kata kerja tersebut adalah  \n\n14 \n \n \nsifatnya yang aktif, eksplisit, disengaja, dan dapat diidentifi kasi \nsebagai tindakan komunikatif yang secara sadar dilakukan oleh \npelaku usaha untuk tujuan komersial. Karakteristik inilah yang \nkemudian menjadi titik kritis ketidakmampuan frasa tersebut \nuntuk menjangkau representasi digital, karena dalam ekosistem \nperdagangan elektronik, banyak bentuk representasi yang paling \nberpengaruh terhadap keputusan konsumen justru bersifat \nimplisit, otomatis, algoritmik, dan terbangun dari arsitektur sistem \nbukan dari tindakan komunikasi yang eksplisit dan sadar seperti  \nyang dibayangkan oleh pembentuk undang-undang tahun 1999. \nTampilan status pengiriman yang dihasilkan secara otomatis oleh \nsistem logistik digital, representasi biaya yang dikalkulasi se cara \nalgoritmik oleh platform pembayaran, klaim keamanan yang \nterbangun dari desain antarmuka pengguna, dan visualisasi \nproduk yang dihasilkan melalui teknologi rendering digital \nsemuanya tidak memenuhi karakteristik “menawarkan, \nmempromosikan, mengiklankan” dalam pengertian konvensional, \nsehingga secara tekstual berada di luar jangkauan norma \nlarangan Pasal 9 ayat (1) UUPK, meskipun secara substansial \ndampaknya terhadap pembentukan persepsi dan keputusan \nkonsumen jauh lebih besar dan lebih masif dibandingkan dengan \nbentuk promosi konvensional yang dilarang oleh norma tersebut.",
+      "start_line": 467,
+      "end_line": 520
+    },
+    {
+      "heading": "4. Bahwa perkembangan ekosistem perdagangan elektronik di",
+      "slug": "4-bahwa-perkembangan-ekosistem-perdagangan-elektronik-di",
+      "text": "Indonesia dan di seluruh dunia telah melahirkan fenomena baru \nyang dalam literatur akademis internasional dikenal sebagai dark \npatterns yakni desain antarmuka pengguna yang secara sengaja \natau tidak sengaja menciptakan representasi yang \nmempengaruhi keputusan konsumen dengan cara yang tidak \nsepenuhnya transparan dan tidak mencerminkan kondisi faktual \nyang sebenarnya. Sebagaimana diuraikan secara mendalam \noleh Jamie Luguri dan Lior Jacob Strahilevitz dalam artikel ilmiah \nberjudul “Shining a Light on Dark Patterns ” yang dipublikasikan \ndalam Journal of Legal Analysis, dark patterns didefinisikan \nsebagai antarmuka pengguna yang secara sengaja \n\n15 \n \n \nmembingungkan pengguna, mempersulit pengguna untuk \nmengekspresikan preferensi aktual mereka, atau memanipulasi \npengguna untuk mengambil tindakan tertentu yang tidak sesuai \ndengan kepentingan mereka yang sesungguhnya. Penelitian \nempiris yang dilakukan oleh Luguri dan Strahilevitz dalam dua \nstudi berskala besar dengan sampel representatif konsumen \nAmerika menunjukkan hasil yang sangat mengejutkan: pengguna \nyang terpapar mild dark patterns (pola gelap ringan) lebih dari dua \nkali lebih mungkin untuk mendaftar layanan yang meragukan \ndibandingkan dengan kelompok kontrol, sementara pengguna \nyang terpapar aggressive dark patterns (pola gelap agresif) \nhampir empat kali lebih mungkin untuk berlangganan. Lebih jauh \nlagi, penelitian tersebut menemukan fakta yang sangat krusial \nbagi argumentasi Para Pemohon dalam perkara a quo , yakni \nbahwa dalam kondisi di mana dark patterns diterapkan, harga \nlayanan yang ditawarkan kepada konsumen menjadi tidak \nrelevan dalam menentukan keputusan pembelian yang \nmenentukan adalah arsitektur keputusan ( decision architecture), \nbukan harga. Temuan ini membuktikan secara empiris bahwa \nrepresentasi digital yang terbangun dari desain sistem dan \nantarmuka pengguna memiliki kekuatan pengaruh yang jauh \nmelampaui apa yang dapat dijangkau oleh konsep “menawarkan, \nmempromosikan, mengiklankan” dalam pengertian konvensional, \nkarena pengaruhnya tidak bekerja melalui pesan yang eksplisit \nmelainkan melalui manipulasi struktural terhadap proses \npengambilan keputusan konsumen. Fakta ilmiah ini semakin \nmemperkuat argumentasi bahwa frasa “menawarkan, \nmempromosikan, mengiklankan” dalam Pasal 9 ayat (1) UUPK \ntidak hanya gagal secara tekstual untuk menjangkau representasi \ndigital, tetapi juga gagal secara substansial untuk melindungi \nkonsumen dari bentuk manipulasi komersial yang paling efektif \ndan paling merusak dalam ekosistem perdagangan elektronik \nkontemporer sebuah kegagalan yang secara langsung \nmelanggar hak konstitusional konsumen atas kepastian hukum \n\n16 \n \n \nyang adil sebagaimana dijamin Pasal 28D ayat (1) UUD NRI \n1945.",
+      "start_line": 522,
+      "end_line": 576
+    },
+    {
+      "heading": "5. Bahwa ketidakmampuan frasa “menawarkan, mempromosikan,",
+      "slug": "5-bahwa-ketidakmampuan-frasa-menawarkan-mempromosikan",
+      "text": "mengiklankan” dalam Pasal 9 ayat (1) UUPK untuk menjangkau \nrepresentasi digital juga dapat dibuktikan melalui pendekatan \nkomparatif dengan sistem hukum perlindungan konsumen di \nyurisdiksi lain yang telah lebih dahulu menghadapi dan \nmerespons tantangan ekosistem perdagangan digital. Uni Eropa, \nmelalui Direktif tentang Praktik Komersial yang Tidak Adil (Unfair \nCommercial Practices Directive/UCPD) Tahun 2005/29/EC, telah \nmembangun kerangka hukum perlindungan konsumen yang \nsecara eksplisit dirancang untuk menjangkau seluruh bentuk \npraktik komersial yang tidak adil, baik yang bersifat menyesatkan \nmaupun yang bersifat agresif, tanpa membatasi dirinya pada \nmedium atau format komunikasi tertentu. Bahkan lebih jauh lagi,  \nDirektif tersebut telah diperbarui melalui Direktif (UE) 2019/2 161 \nyang mulai berlaku pada tanggal 28 Mei 2022, yang secara \nkhusus menambahkan ketentuan-ketentuan yang berkaitan \ndengan ekonomi digital, termasuk transparansi hasil pencarian, \nulasan dan dukungan konsumen, pemasaran influencer, \npersonalisasi berbasis data, dan yang paling relevan dengan \nperkara a quo adalah pengaturan mengenai dark patterns pola \ndesain antarmuka digital yang manipulatif. Panduan UCPD yang \ndiadopsi oleh Komisi Eropa pada tanggal 17 Desember 2021 \nsecara eksplisit membahas kewajiban platform dan pasar online, \nserta mengakui bahwa representasi digital yang terbangun dari \ndesain sistem dan antarmuka pengguna merupakan bentuk \npraktik komersial yang tunduk pada larangan praktik komersial \nyang tidak adil. Di Amerika Serikat, Federal Trade Commission \n(FTC) telah mengembangkan yurisprudensi yang mengakui \nbahwa dark patterns dalam desain antarmuka digital termasuk \npengaturan default yang secara diam-diam menguntungkan \npelaku usaha dan merugikan konsumen merupakan praktik \nperdagangan yang tidak adil dan menyesatkan yang dapat \n\n17 \n \n \ndijerat oleh ketentuan larangan praktik perdagangan yang tidak \nadil. Perbandingan komparatif ini menunjukkan dengan jelas \nbahwa sistem hukum perlindungan konsumen yang modern dan \nresponsif terhadap perkembangan teknologi tidak membatasi \ncakupan perlindungannya hanya pada tindakan “menawarkan, \nmempromosikan, mengiklankan” dalam pengertian konvensional, \nmelainkan secara tegas mengakui bahwa seluruh bentuk \nrepresentasi digital yang mempengaruhi keputusan konsumen \ntermasuk desain sistem, tampilan antarmuka, dan representasi \nalgoritmik merupakan objek pengaturan dan perlindungan hukum \nkonsumen. Ketinggalan Indonesia dalam mengadopsi \npendekatan yang sama bukan hanya merupakan kelemahan \nkebijakan legislatif semata, tetapi secara konstitusional \nmerupakan kegagalan negara dalam memenuhi kewajibannya \nuntuk memberikan jaminan kepastian hukum yang adil kepada \nwarga negaranya sebagai konsumen di era digital sebagaimana \ndiwajibkan oleh Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 578,
+      "end_line": 629
+    },
+    {
+      "heading": "6. Bahwa kekosongan norma yang diciptakan oleh",
+      "slug": "6-bahwa-kekosongan-norma-yang-diciptakan-oleh",
+      "text": "ketidakmampuan frasa “menawarkan, mempromosikan, \nmengiklankan” dalam Pasal 9 ayat (1) UUPK untuk menjangkau \nrepresentasi digital memiliki dampak praktis yang sangat konkret \ndan merugikan dalam konteks ka sus yang dialami oleh Para \nPemohon. Pemohon I mengalami kerugian aktual yang \nbersumber dari dua jenis representasi digital yang secara tekstual \nberada di luar jangkauan frasa tersebut. Pertama, dalam transaksi \njasa logistik impor, sistem platform secara otomatis menghasilkan \nkalkulasi biaya yang merepresentasikan kepada Pemohon I \nbahwa seluruh komponen biaya pengiriman telah terangkum \nsecara final dalam skema cost, insurance, and freight (CIF), \nnamun pada kenyataannya Pemohon I kemudian menerima \ntagihan tambahan yang tidak pernah diinformasikan sebelumnya \ndan tanpa rincian yang transparan. Representasi biaya yang \ndihasilkan secara otomatis oleh algoritma sistem logistik tersebut \nbukanlah sebuah “penawaran” dalam pengertian hukum \n\n18 \n \n \nkonvensional karena tidak ada tindakan aktif dan sadar dari \nmanusia yang menyampaikan pesan komersial kepada Pemohon \nI yang ada hanyalah keluaran otomatis dari sebuah sistem \nkomputasi yang memproses data dan menampilkan hasil \nkalkulasinya kepada pengguna. Demikian pula, representasi \ntersebut bukan “promosi” karena tidak ada kegiatan pemasaran \nyang terencana dan bertujuan untuk meningkatkan daya tarik \nproduk, dan bukan “iklan” karena tidak ada pesan komersial yang \nsecara sengaja disiarkan kepada publik. Namun demikian, \nrepresentasi biaya algoritmik tersebut memiliki dampak yang \nsama persis bahkan lebih kuat dengan sebuah penawaran harga \nyang menyesatkan dalam konteks konvensional, karena ini \nmembentuk keyakinan Pemohon I bahwa biaya yang harus \ndibayarkan telah pasti dan final, sehingga Pemohon I mengambil \nkeputusan bertransaksi berdasarkan representasi yang tidak \nakurat tersebut dan kemudian menderita kerugian finansial yang \nnyata. Kedua, sistem informasi pengiriman barang yang \nmenampilkan status “terkirim” atau “diterima” secara elektronik  \nketika kenyataannya barang tidak pernah diterima oleh Pemohon \nI juga merupakan jenis representasi digital yang sama sekali tidak \ntercakup dalam frasa “menawarkan, mempromosikan, \nmengiklankan” karena status sistem logistik bukanlah tindakan \npenawaran, promosi, atau pengiklanan dalam pengertian apapun \nyang lazim dipahami. Akibatnya, ketika Pemohon I berupaya \nmenuntut pertanggungjawaban pelaku usaha atas kedua \nkerugian tersebut dengan menggunakan Pasal 9 ayat (1) UUPK \nsebagai dasar hukum, pelaku usaha dapat dengan mudah \nberdalih bahwa tindakannya tidak memenuhi unsur \n“menawarkan, mempromosikan, mengiklankan” karena yang \ndilakukan hanyalah menampilkan keluaran otomatis dari sistem \nteknologi informasi sebuah dalih yang secara tekstual sulit \ndibantah dalam konteks frasa norma a quo yang tidak menjangkau \nrepresentasi digital. Inilah manifestasi konkret dari kekosonga n \nnorma yang dialami langsung oleh Para Pemohon, yang secara \n\n19 \n \n \nnyata telah merampas hak konstitusional mereka atas kepastian \nhukum yang adil.",
+      "start_line": 631,
+      "end_line": 690
+    },
+    {
+      "heading": "7. Bahwa kekosongan norma yang diciptakan oleh frasa",
+      "slug": "7-bahwa-kekosongan-norma-yang-diciptakan-oleh-frasa",
+      "text": "“menawarkan, mempromosikan, mengiklankan” dalam Pasal 9 \nayat (1) UUPK juga secara langsung dan konkret merugikan \nPemohon II, yang mengalami pelanggaran privasi dan \npenyalahgunaan data pribadi pasca transaksi pembelian gawai \nmelalui platform perdagangan elektronik. Sebelum melakukan \ntransaksi, Pemohon II dihadapkan pada representasi keamanan \nsistem yang terbangun bukan dari iklan eksplisit atau penawaran \nverbal dari penjual, melainkan dari keseluruhan arsitektur \nteknis platform meliputi desain antarmuka yang menampilkan \nsimbol-simbol keamanan, fitur autentikasi berlapis, pernyataan \nkebijakan privasi yang dikemas dalam bahasa yang meyakinkan, \ndan berbagai elemen visual serta fungsional lainnya yang secara \nkumulatif membentuk persepsi pada diri Pemohon II bahwa \ntransaksi yang akan dilakukan aman dan data pribadinya akan \nterlindungi dengan baik. Representasi keamanan yang bersifat \nsistemik dan arsitektural tersebut sesungguhnya jauh lebih efektif \ndalam mempengaruhi keputusan konsumen dibandingkan \ndengan sebuah iklan yang secara eksplisit mengklaim \nkeamanan, karena bekerja pada level kepercayaan institusional \nterhadap sistem teknologi yang dipersepsikan sebagai objektif \ndan dapat diandalkan bukan pada level persuasi yang disadari \noleh konsumen sebagai upaya pemasaran. Namun demikian, \nkarena representasi keamanan arsitektural tersebut tidak \nmemenuhi unsur “menawarkan, mempromosikan, mengiklankan” \ndalam pengertian konvensional yang dianut oleh Pasal 9 ayat (1) \nUUPK, maka pelaku usaha tidak dapat dimintai \npertanggungjawaban berdasarkan norma a quo atas kerugian \nyang dialami Pemohon II akibat tidak terpenuhinya representasi \nkeamanan yang secara struktural telah dibangun oleh arsitektur \nsistem platform tersebut. Hal ini menciptakan situasi yang sangat \ntidak adil dan inkonstitusional, di mana pelaku usaha yang \n\n20 \n \n \nmembangun kepercayaan konsumen melalui representasi \nkeamanan digital yang sistemik dapat lolos dari tanggung jawab \nhukum semata-mata karena representasi tersebut tidak \ndiwujudkan dalam bentuk iklan atau penawaran eksplisit, \nmelainkan dalam bentuk desain sistem yang lebih halus namun \njauh lebih berpengaruh. Ketidakmampuan norma a quo untuk \nmenjangkau jenis representasi digital seperti ini secara langsung \nmelanggar hak Pemohon II atas kepastian hukum yang adil \nsebagaimana dijamin oleh Pasal 28D ayat (1) UUD NRI 1945, \nkarena Pemohon II tidak dapat memperoleh perlindungan \nnormatif yang memadai atas kerugian nyata yang dideritanya \nakibat representasi digital yang menyesatkan tersebut.",
+      "start_line": 692,
+      "end_line": 738
+    },
+    {
+      "heading": "8. Bahwa kerugian yang dialami oleh Pemohon III dalam transaksi",
+      "slug": "8-bahwa-kerugian-yang-dialami-oleh-pemohon-iii-dalam-transaksi",
+      "text": "pembelian produk pakaian melalui platform perdagangan \nelektronik juga merupakan manifestasi konkret dari kekosongan \nnorma yang sama, yakni ketidakmampuan frasa “menawarkan, \nmempromosikan, mengiklankan” dalam Pasal 9 ayat (1) UUPK \nuntuk menjangkau representasi visual digital yang dihasilkan \nmelalui teknologi rendering, filter algoritma, dan kecerdasan \nbuatan yang digunakan oleh platform perdagangan elektronik \ndalam menampilkan produk kepada konsumen. Dalam ekosistem \nperdagangan elektronik kontemporer, visualisasi produk yang \nditampilkan kepada konsumen tidak lagi merupakan foto \nsederhana yang diambil dan diunggah oleh penjual, melainkan \nsebuah konstruksi visual yang telah melalui proses pengolahan \nalgoritmik yang kompleks termasuk peningkatan resolusi \notomatis, koreksi warna berbasis kecerdasan buatan, \npenghapusan latar belakang digital, penyesuaian kontras dan \nkecerahan yang otomatis, serta dalam beberapa kasus bahkan \npenerapan filter yang secara fundamental mengubah tampilan \nproduk dari kondisi fisiknya yang sebenarnya. Representasi \nvisual yang dihasilkan oleh proses algoritmik ini bukan merupakan \ntindakan “mengiklankan” dalam pengertian konvensional karena \ntidak ada agen manusia yang secara aktif merancang pesan iklan \n\n21 \n \n \nyang ada adalah sistem algoritma yang secara otomatis \nmengoptimalkan tampilan visual untuk meningkatkan daya tarik \nproduk tanpa intervensi manusia yang eksplisit pada setiap \nproduk secara individual. Demikian pula, tampilan visual tersebut \nbukan merupakan tindakan “mempromosikan” dalam pengertian \nyang dimaksud oleh pembentuk undang-undang tahun 1999, \nkarena ini tidak melibatkan kegiatan pemasaran terencana yang \nsecara sadar dilakukan oleh pelaku usaha kepada konsumen \ntertentu. Padahal, visualisasi digital yang dihasilkan oleh \nalgoritma platform tersebut memiliki pengaruh yang jauh lebih \ndeterminatif terhadap keputusan pembelian konsumen online \ndibandingkan dengan iklan produk konvensional manapun, \nkarena ini beroperasi bukan sebagai pesan persuasif yang \ndisadari konsumen sebagai upaya pemasaran, melainkan \nsebagai representasi yang diyakini konsumen sebagai gambaran \nakurat dan objektif dari produk yang akan dibelinya. Pemohon III \nmengalami kerugian material yang nyata karena mempercayai \nrepresentasi visual algoritmik tersebut dan kemudian mendapati \nbahwa produk yang diterimanya secara fisik tidak sesuai dengan \nkualitas, karakteristik, dan tampilan yang digambarkan oleh \nrepresentasi digital platform, namun karena jenis representasi \ntersebut tidak tercakup dalam frasa norma a quo, Pemohon III \ntidak memiliki dasar norma yang tegas dan pasti untuk \nmenuntut pertanggungjawaban pelaku usaha, sehingga hak \nkonstitusionalnya atas kepastian hukum yang adil menjadi \nterlanggar secara langsung.",
+      "start_line": 740,
+      "end_line": 790
+    },
+    {
+      "heading": "9. Bahwa argumen mengenai kekosongan norma dalam Pasal 9",
+      "slug": "9-bahwa-argumen-mengenai-kekosongan-norma-dalam-pasal-9",
+      "text": "ayat (1) UUPK semakin diperkuat oleh fakta bahwa \nperkembangan perdagangan digital di Indonesia telah mencapai \nskala yang tidak dapat lagi diperlakukan sebagai fenomena \nmarginal yang cukup diselesaikan melalui penafsiran kreatif \nhakim atau regulasi sektoral yang bersifat parsial. Data dari studi \nYouGov bekerja sama dengan Visa yang berjudul State of Digital \nCommerce in Asia Pacific 2025 menunjukkan bahwa 62% \n\n22 \n \n \nmasyarakat Indonesia saat ini berbelanja online dua hingga tiga  \nkali setiap bulan, sebuah angka yang meningkat secara konsisten \ndibandingkan tahun sebelumnya. Angka ini bukan sekadar \nstatistik perdagangan biasa ini merupakan cerminan dari \npergeseran fundamental dalam cara masyarakat Indonesia \nmengakses dan membeli barang dan jasa, yang berarti bahwa \nmayoritas transaksi konsumen di Indonesia kini berlangsung \ndalam ekosistem digital yang sama sekali tidak terjangkau secara \nmemadai oleh norma perlindungan konsumen yang berlaku. \nDalam kondisi demikian, kekosongan norma yang terdapat dalam \nfrasa “menawarkan, mempromosikan, mengiklankan” bukan \nhanya merugikan Para Pemohon secara individual, melainkan \njuga berpotensi merugikan puluhan juta konsumen Indonesia \nyang setiap hari bertransaksi secara digital namun tidak memiliki \nperlindungan normatif yang pasti terhadap berbagai bentuk \nrepresentasi digital yang menyesatkan. Skala kerugian potensial \nyang begitu masif ini semakin memperkuat urgensi konstitusional \ndari permohonan para Pemohon, karena mempertahankan frasa \nnorma a quo dalam kondisi ketidaklengkapannya yang saat ini \nberarti membiarkan mayoritas konsumen Indonesia berada dalam \nkeadaan tanpa kepastian hukum yang adil sebuah kondisi yang \nsecara langsung dan frontal bertentangan dengan jaminan \nkonstitusional Pasal 28D ayat (1) UUD NRI 1945 yang berlaku \nbagi seluruh warga negara tanpa terkecuali.",
+      "start_line": 792,
+      "end_line": 826
+    },
+    {
+      "heading": "10. Bahwa kekosongan norma dalam frasa “menawarkan,",
+      "slug": "10-bahwa-kekosongan-norma-dalam-frasa-menawarkan",
+      "text": "mempromosikan, mengiklankan” Pasal 9 ayat (1) UUPK juga \ntidak dapat ditanggulangi secara memadai oleh ketentuan Pasal \n28 ayat (1) Undang-Undang Nomor 1 Tahun 2024 tentang \nPerubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 \ntentang Informasi dan Transaksi Elektronik (UU ITE), yang \nmelarang setiap orang untuk dengan sengaja mendistribusikan \ndan/atau mentransmisikan Informasi Elektronik dan/atau \nDokumen Elektronik yang berisi pemberitahuan bohong atau \ninformasi menyesatkan yang mengakibatkan kerugian materiel \n\n23 \n \n \nbagi konsumen dalam Transaksi Elektronik. Meskipun pada \npandangan pertama ketentuan UU ITE tersebut tampak dapat \nmengisi kekosongan yang ditinggalkan oleh Pasal 9 ayat (1) \nUUPK, namun sesungguhnya terdapat perbedaan yang sangat \nfundamental antara keduanya yang menyebabkan UU ITE tidak \ndapat menjadi substitusi yang memadai bagi perlindungan \nkonsumen yang seharusnya dijamin oleh UUPK. Pertama, \nketentuan Pasal 28 ayat (1) UU ITE mensyaratkan unsur \nkesengajaan (dolus) sebagai elemen subjektif delik, yang berarti \nbahwa representasi digital yang menyesatkan namun dihasilkan \nsecara otomatis oleh algoritma sistem tanpa adanya kehendak \nsadar manusia yang spesifik untuk menyebarkan informasi \nbohong secara teknis tidak memenuhi unsur tersebut dan \nkarenanya tidak dapat dijerat oleh ketentuan UU ITE. Kedua, UU \nITE merupakan instrumen hukum yang berkarakter pidana-\nadministratif, bukan hukum perlindungan konsumen yang bersifat \nperdata, sehingga mekanisme pertanggungjawaban, \npembuktian, dan pemulihan yang tersedia di bawah UU ITE tidak \ndirancang untuk memenuhi kebutuhan spesifik perlindungan \nkonsumen yang memerlukan akses yang mudah, murah, dan \ncepat terhadap mekanisme pemulihan kerugian. Ketiga, dan \nyang paling krusial, UUPK dan UU ITE merupakan dua instrumen \nhukum yang berbeda dengan tujuan dan subjek pengaturan yang \nberbeda pula, sehingga kekosongan norma dalam UUPK tidak \nserta-merta dapat diisi oleh ketentuan UU ITE tanpa menciptakan \nketidakpastian hukum baru mengenai instrumen hukum mana \nyang harus diterapkan dan di forum mana sengketa konsumen \ndigital harus diselesaikan. Oleh karena itu, eksistensi Pasal 2 8 \nayat (1) UU ITE tidak menghilangkan kekosongan norma yang \nterdapat dalam Pasal 9 ayat (1) UUPK, dan karenanya tidak \ndapat dijadikan alasan untuk menolak permohonan Para \nPemohon dalam perkara a quo.",
+      "start_line": 828,
+      "end_line": 872
+    },
+    {
+      "heading": "11. Bahwa selain tidak dapat diisi oleh ketentuan UU ITE,",
+      "slug": "11-bahwa-selain-tidak-dapat-diisi-oleh-ketentuan-uu-ite",
+      "text": "kekosongan norma dalam Pasal 9 ayat (1) UUPK juga tidak dapat \n\n24 \n \n \ndiselesaikan melalui mekanisme penafsiran hukum yang \ntersedia dalam peradilan biasa maupun di Badan \nPenyelesaian Sengketa Konsumen (BPSK). Perlu ditegaskan \nkepada Mahkamah bahwa persoalan yang dihadapi oleh Para \nPemohon bukan merupakan persoalan penerapan norma yang \ndapat diselesaikan melalui penafsiran ekstensif atau analogi oleh \nhakim atau majelis BPSK, melainkan merupakan persoalan yang \njauh lebih fundamental, yakni ketidaklengkapan norma itu sendiri \nyang secara tekstual dan struktural tidak menjangkau realitas \nperdagangan digital. Penafsiran ekstensif atau analogis oleh \nhakim memiliki batas-batas yang telah ditetapkan oleh asas \nlegalitas dan kepastian hukum seorang hakim tidak dapat dengan \nsewenang-wenang memperluas makna frasa “menawarkan, \nmempromosikan, mengiklankan” sedemikian rupa sehingga \nmencakup representasi algoritmik dan arsitektur sistem digital \ntanpa risiko melanggar prinsip bahwa hakim tidak boleh \nmelampaui apa yang dikehendaki oleh pembentuk undang-\nundang atau menciptakan norma baru yang bukan \nkewenangannya. Lebih jauh lagi, bahkan jika seandainya \nseorang hakim bersedia melakukan penafsiran yang demikian \nluas, tidak ada jaminan bahwa hakim lain di tempat dan waktu \nyang berbeda akan menggunakan penafsiran yang sama, \nsehingga justru menciptakan inkonsistensi yurisprudensi yang \nsemakin memperparah ketidakpastian hukum yang dialami oleh \nkonsumen digital. Inilah tepatnya mengapa persoalan ini harus \ndiselesaikan di tingkat konstitusional oleh Mahkamah Konstitusi  \nkarena hanya melalui penafsir an konstitusional yang bersifat \nmengikat secara erga omnes yang diberikan oleh Mahkamah, \nkepastian hukum yang adil sebagaimana dijamin Pasal 28D ayat \n(1) UUD NRI 1945 dapat benar-benar terwujud bagi seluruh \nkonsumen digital Indonesia tanpa bergantung pada diskresi \npenafsiran hakim perorangan dalam setiap perkara individual.",
+      "start_line": 874,
+      "end_line": 910
+    },
+    {
+      "heading": "12. Bahwa Naskah Akademik Rancangan Undang-Undang tentang",
+      "slug": "12-bahwa-naskah-akademik-rancangan-undang-undang-tentang",
+      "text": "Perlindungan Konsumen yang disusun oleh Badan Pembinaan \n\n25 \n \n \nHukum Nasional Kementerian Hukum dan HAM pada tahun 2020 \nsecara tegas mengidentifikasi beberapa kelemahan fundamental \nUUPK yang langsung berkaitan dengan argumentasi Para \nPemohon dalam perkara a quo . Naskah Akademik tersebut \nsecara eksplisit menyatakan bahwa “pengaturan \nkontrak/perjanjian dalam UUPK belum menyesuaikan dengan \nperkembangan bentuk kontrak saat ini yang telah mengenal 3 \n(tiga) bentuk kontrak yakni, negotiated contract, standardized \ncontract, dan digital contract” dan bahwa “untuk penggunaan \ndigital contracts atau perjanjian elektronik ( e-contracts) dan \nperkembangan perdagangan elektronik ( e-commerce) yang \nberkembang pesat belum diatur dalam UUPK.” Pengakuan resmi \nini tidak hanya memvalidasi argumentasi Para Pemohon tentang \nkekosongan norma, tetapi juga secara implisit mengakui bahwa \nseluruh dimensi perdagangan digital termasuk representasi digital \nyang menjadi objek sengketa dalam perkara a quo belum \nmendapatkan pengaturan yang memadai dalam UUPK. Lebih \njauh lagi, Naskah Akademik tersebut secara tegas merujuk pada \npedoman internasional yang relevan, yakni United Nations \nGuidelines for Consumer Protection (UNGCP) 2016, yang \nmenyatakan bahwa negara-negara anggota harus bekerja \nmenuju peningkatan kepercayaan konsumen dalam \nperdagangan elektronik melalui pengembangan kebijakan \nperlindungan konsumen yang transparan dan efektif, \n“memastikan tingkat perlindungan yang tidak kurang dari yang \ndiberikan dalam bentuk perdagangan lain.” Standar internasional \nini bahwa perlindungan konsumen digital harus setara dengan \nperlindungan konsumen konvensional merupakan tolok ukur \nyang saat ini jelas-jelas tidak terpenuhi oleh UUPK dalam konteks \nrepresentasi digital, sehingga Indonesia secara bersamaan telah \ngagal memenuhi standar internasional dan kewajiban \nkonstitusionalnya sendiri kepada warga negara sebagaimana \ndiamanatkan oleh Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 912,
+      "end_line": 949
+    },
+    {
+      "heading": "13. Bahwa dalam konteks pengujian konstitusionalitas norma di",
+      "slug": "13-bahwa-dalam-konteks-pengujian-konstitusionalitas-norma-di",
+      "text": "26 \n \n \nMahkamah Konstitusi, Mahkamah telah secara konsisten dan \nberulang-ulang menegaskan dalam berbagai putusannya bahwa \nkepastian hukum sebagai hak konstitusional yang dijamin oleh \nPasal 28D ayat (1) UUD NRI 1945 mengandung beberapa \nelemen esensial yang harus dipenuhi secara kumulatif oleh setiap \nnorma hukum yang berlaku. Pertama, norma hukum harus jelas \ndalam perumusannya sehingga dapat dipahami dengan pasti \noleh setiap orang yang tunduk padanya. Kedua, norma hukum \nharus konsisten dalam penerapannya sehingga menghasilkan \nprediktabilitas yang memungkinkan warga negara untuk \nmerencanakan tindakannya berdasarkan pemahaman yang pasti \ntentang konsekuensi hukum dari tindakan tersebut. Ketiga, \nnorma hukum harus memiliki cakupan yang memadai untuk \nmenjangkau realitas sosial yang hendak diaturnya, sehingga \ntidak menciptakan kekosongan perlindungan yang \nmengakibatkan sekelompok warga negara berada di luar \njangkauan perlindungan hukum yang seharusnya mereka \nnikmati. Keempat, norma hukum harus mampu memberikan \npemulihan yang efektif bagi warga negara yang haknya \nterlanggar, sehingga jaminan perlindungan hukum bukan \nsekadar pernyataan normatif yang kosong melainkan merupakan \nrealitas yang dapat diakses dan dinikmati secara nyata. Apabila  \nkeempat elemen kepastian hukum tersebut diukurkan kepada \nPasal 9 ayat (1) UUPK dalam konteks perdagangan digital, maka \ndengan sangat jelas terbukti bahwa norma a quo gagal memenuhi \nelemen ketiga yakni memiliki cakupan yang mem adai untuk \nmenjangkau realitas perdagangan digital dan karenanya juga \ngagal memenuhi elemen keempat, karena konsumen yang \ndirugikan oleh representasi digital tidak dapat memperoleh \npemulihan yang efektif berdasarkan norma yang tidak \nmenjangkau jenis representasi tersebut. Kegagalan ganda ini \nmerupakan pelanggaran konstitusional yang nyata dan \nsubstansial terhadap Pasal 28D ayat (1) UUD NRI 1945 yang \nmewajibkan Mahkamah untuk memberikan penafsiran \n\n27 \n \n \nkonstitusional yang mengisi kekosongan tersebut demi \nmemulihkan hak konstitusional Para Pemohon dan seluruh \nkonsumen digital Indonesia.",
+      "start_line": 951,
+      "end_line": 995
+    },
+    {
+      "heading": "14. Bahwa argumentasi Para Pemohon tentang kekosongan norma",
+      "slug": "14-bahwa-argumentasi-para-pemohon-tentang-kekosongan-norma",
+      "text": "dalam frasa “menawarkan, mempromosikan, mengiklankan” tidak \ndapat dilemahkan oleh dalil bahwa persoalan ini merupakan \npersoalan legal gap yang semestinya diselesaikan oleh \npembentuk undang-undang melalui proses legislasi, bukan oleh \nMahkamah Konstitusi melalui pengujian konstitusionalitas. \nMahkamah Konstitusi dalam praktik putusannya telah secara \nkonsisten mengakui kewenangannya untuk memberikan \npenafsiran konstitusional bersyarat ( conditionally constitutional ) \nterhadap norma-norma yang mengandung kekosongan atau \nketidaklengkapan yang mengakibatkan pelanggaran hak \nkonstitusional warga negara, tanpa harus menunggu pembentuk \nundang-undang untuk menyelesaikan proses legislasi yang dapat \nmemakan waktu bertahun-tahun. Instrumen putusan \nkonstitusional bersyarat ini merupakan mekanisme yang telah \ndiakui dan diterima dalam praktik ketatanegaraan Indonesia, di \nmana Mahkamah menyatakan suatu norma konstitusional \nsepanjang dimaknai dengan penafsiran tertentu yang mengisi \nkekosongan yang ada tanpa membatalkan substansi norma \nitu sendiri. Dalam perkara a quo, Para Pemohon tidak memohon \nMahkamah untuk membatalkan Pasal 9 ayat (1) UUPK secara \nkeseluruhan yang justru akan menghilangkan perlindungan \nkonsumen yang sudah ada melainkan memohon Mahkamah \nuntuk menyatakan norma tersebut konstitusional bersyarat \nsepanjang frasa “menawarkan, mempromosikan, mengiklankan” \ndimaknai mencakup juga seluruh bentuk representasi digital yang \ndilakukan oleh pelaku usaha dalam ekosistem perdagangan \nelektronik. Penafsiran konstitusional yang demikian tidak hanya  \nsesuai dengan kewenangan Mahkamah, tetapi juga merupakan \ntindakan yang paling tepat dan proporsional untuk memulihkan \nhak konstitusional Para Pemohon tanpa mengganggu substansi \n\n28 \n \n \nperlindungan konsumen yang telah ada dalam norma a quo.",
+      "start_line": 997,
+      "end_line": 1031
+    },
+    {
+      "heading": "15. Bahwa berdasarkan seluruh uraian yang telah dikemukakan di",
+      "slug": "15-bahwa-berdasarkan-seluruh-uraian-yang-telah-dikemukakan-di",
+      "text": "atas, Para Pemohon menyimpulkan bahwa terdapat \npertentangan yang nyata, substansial, dan tidak dapat diatasi \nantara frasa “menawarkan, mempromosikan, mengiklankan” \ndalam Pasal 9 ayat (1) Undang-Undang Nomor 8 Tahun 1999 \ntentang Perlindungan Konsumen dengan Pasal 28D ayat (1) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945. \nPertentangan tersebut termanifestasi dalam empat dimensi yang \nsaling berkaitan dan saling memperkuat: pertama, secara \nhistoris, frasa tersebut lahir dalam konteks pra-digital yang secara \nstruktural tidak mampu mengantisipasi dan menjangkau realitas \nrepresentasi digital yang menjadi medium utama perdagangan di \nera kontemporer; kedua, secara tekstual, frasa tersebut merujuk  \npada karakteristik komunikasi komersial yang aktif, eksplisit, dan \nsadar yang tidak mencakup representasi algoritmik, arsitektur \nsistem, dan visualisasi digital yang bersifat otomatis dan impl isit; \nketiga, secara empiris, terbukti  melalui penelitian ilmiah bahw a \nrepresentasi digital yang tidak tercakup dalam frasa tersebut \njustru memiliki dampak yang jauh lebih besar dan lebih destruktif \nterhadap pengambilan keputusan konsumen dibandingkan \ndengan bentuk promosi konvensional yang tercakup dan \nkeempat, secara konstitusional, ketidakmampuan frasa tersebut \nuntuk menjangkau representasi digital telah secara langsung \nmengakibatkan Para Pemohon kehilangan hak mereka atas \npengakuan, jaminan, perlindungan, dan kepastian hukum yang \nadil sebagaimana dijamin oleh Pasal 28D ayat (1) UUD NRI",
+      "start_line": 1033,
+      "end_line": 1057
+    },
+    {
+      "heading": "1945. Oleh karena itu, Para Pemohon memohon ke pada",
+      "slug": "1945-oleh-karena-itu-para-pemohon-memohon-ke-pada",
+      "text": "Mahkamah Yang Mulia untuk menyatakan bahwa Pasal 9 ayat (1) \nUndang-Undang Nomor 8 Tahun 1999 tentang Perlindungan \nKonsumen bertentangan dengan Pasal 28D ayat (1) Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan tidak \nmempunyai kekuatan hukum mengikat sepanjang frasa \n“menawarkan, mempromosikan, mengiklankan” tidak dimaknai \n\n29 \n \n \nmencakup segala bentuk representasi digital, tampilan sistem, \nantarmuka pengguna, dan komunikasi elektronik yang dilakukan \noleh pelaku usaha dalam rangka transaksi elektronik yang secara \nsubstansial mempengaruhi persepsi, ekspektasi, dan keputusan \nkonsumen. \nB. Ketidakmampuan Norma Pasal 9 Ayat (1) Undang-Undang \nNomor 8 Tahun 1999 tentang Perlindungan Konsumen dalam \nMenjangkau Ekosistem Perdagangan Digital Mengakibatkan \nKonsumen Kehilangan Perlakuan yang Sama di Hadapan Hukum \ndibandingkan Konsumen Konvensional, sehingga \nBertentangan dengan Pasal 28D Ayat (1) Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945",
+      "start_line": 1059,
+      "end_line": 1080
+    },
+    {
+      "heading": "1. Bahwa selain menciptakan kekosongan norma yang melanggar",
+      "slug": "1-bahwa-selain-menciptakan-kekosongan-norma-yang-melanggar",
+      "text": "kepastian hukum sebagaimana telah diuraikan secara mendalam \ndalam Sub Bab A alasan pemohon di atas, ketidakmampuan \nfrasa \"menawarkan, mempromosikan, mengiklankan\" dalam \nPasal 9 ayat (1) Undang-Undang Nomor 8 Tahun 1999 tentang \nPerlindungan Konsumen untuk menjangkau bentuk-bentuk \nrepresentasi digital juga secara bersamaan dan berdiri sendiri \nmelahirkan pelanggaran konstitusional yang sama seriusnya \nnamun berdimensi berbeda, yakni pelanggaran terhadap hak \nsetiap warga negara atas perlakuan yang sama di hadapan \nhukum ( equality before the law ) sebagaimana dijamin secara \ntegas oleh Pasal 28D ayat (1) Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945. Pelanggaran terhadap prinsip \nequality before the law ini bukan merupakan pelanggaran yang \nbersifat insidental atau kebetulan, melainkan merupakan \nkonsekuensi struktural yang tidak dapat dielakkan dari kondisi \nnorma a quo yang secara tekstual dan historis hanya menjangkau \nbentuk komunikasi komersial konvensional sementara \nmembiarkan seluruh ekosistem perdagangan digital berada di \nluar jangkauan perlindungan yang sama. Perlu ditegaskan \nkepada Mahkamah Yang Mulia bahwa ketimpangan perlindungan \nnormatif antara konsumen konvensional dan konsumen digital \n\n30 \n \n \nyang dihasilkan oleh kekosongan norma dalam Pasal 9 ayat (1) \nUUPK bukan merupakan perbedaan perlakuan yang dapat \ndibenarkan secara konstitusional berdasarkan pertimbangan \napapun bukan karena perbedaan kapasitas hukum para pihak, \nbukan karena perbedaan tingkat kerugian yang dialami, bukan \nkarena perbedaan kebutuhan perlindungan, dan bukan karena \nperbedaan kedudukan hukum konsumen digital dibandingkan \nkonsumen konvensional. Satu-satunya dasar dari perbedaan \nperlakuan tersebut adalah medium transaksi yang digunakan \napakah transaksi dilakukan secara tatap muka dan konvensional \natau melalui platform digital sebuah dasar pembedaan yang sama \nsekali tidak memiliki justifikasi konstitusional yang dapat diterima, \nkarena tidak ada satu pun ketentuan dalam UUD NRI 1945 yang \nmemperkenankan negara untuk memberikan perlindungan \nhukum yang berbeda kepada warga negara berdasarkan medium \natau platform yang digunakan dalam transaksi sehari-hari \nmereka. Dengan demikian, norma a quo tidak hanya gagal \nmemberikan kepastian hukum, tetapi juga secara aktif \nmenciptakan diskriminasi normatif yang inkonstitusional antara \ndua kelompok konsumen yang secara substansial berada dalam \nsituasi yang identik keduanya adalah warga negara Indonesia \nyang bertransaksi untuk memenuhi kebutuhannya dan yang \nberhak mendapatkan perlindungan hukum yang setara dan adil \ndari negara.",
+      "start_line": 1082,
+      "end_line": 1130
+    },
+    {
+      "heading": "2. Bahwa untuk memahami secara utuh dan mendalam bagaimana",
+      "slug": "2-bahwa-untuk-memahami-secara-utuh-dan-mendalam-bagaimana",
+      "text": "Pasal 9 ayat (1) UUPK menciptakan diskriminasi normatif yang \ninkonstitusional antara konsumen konvensional dan konsumen \ndigital, perlu terlebih dahulu dipetakan secara cermat dan \nsistematis perbedaan nyata dalam akses dan kualitas \nperlindungan hukum yang dinikmati oleh kedua kelompok \nkonsumen tersebut berdasarkan norma a quo. Konsumen yang \nbertransaksi secara konvensional yakni mereka yang membeli \nproduk di toko fisik, merespons iklan cetak di koran atau majalah, \nmenyaksikan siaran iklan di televisi atau radio, atau menerima \n\n31 \n \n \npenawaran langsung dari tenaga penjual menikmati perlindungan \nyang penuh, tegas, dan tidak ambigu dari Pasal 9 ayat (1) UUPK, \nkarena seluruh bentuk komunikasi komersial yang mereka hadapi \nsecara jelas dan tidak terbantahkan masuk dalam kategori \n\"menawarkan, mempromosikan, mengiklankan\" yang dilarang \noleh norma tersebut apabila dilakukan secara tidak benar. \nApabila seorang konsumen konvensional dirugikan karena suatu \niklan di koran mengklaim produk memiliki kualitas tertentu yang  \ntidak terbukti, atau karena seorang pramuniaga menawarkan \nproduk dengan janji-janji yang tidak terpenuhi, atau karena brosur \nyang disebarkan oleh pelaku usaha mencantumkan informasi \nharga yang menyesatkan dalam semua situasi tersebut, \nkonsumen konvensional dapat dengan mudah mengidentifikasi \ntindakan pelaku usaha sebagai \"penawaran,\" \"promosi,\" atau \n\"iklan\" yang masuk dalam cakupan Pasal 9 ayat (1), \nmembuktikan pelanggaran dengan menunjukkan bukti fisik dari \nmedium komunikasi yang digunakan, dan menuntut \npertanggungjawaban pelaku usaha berdasarkan norma yang \ntegas dan tidak ambigu. Sebaliknya, konsumen digital yang \nmenghadapi representasi menyesatkan dalam ekosistem \nperdagangan elektronik berada dalam posisi yang secara \nfundamental berbeda dan jauh lebih lemah. Tampilan kalkulasi \nbiaya algoritmik yang menyesatkan, status pengiriman digital \nyang tidak akurat, klaim keamanan sistem yang terbangun dari \narsitektur platform, dan visualisasi produk yang dihasilkan melalui \nrendering digital tidak serta-merta dapat dikualifikasikan seba gai \n\"penawaran, promosi, atau iklan\" dalam pengertian Pasal 9 ayat \n(1), sehingga pelaku usaha selalu memiliki ruang untuk berdalih  \nbahwa tindakannya berada di luar cakupan norma tersebut. \nPerbedaan akses terhadap perlindungan normatif ini bukan \nbersifat marginal atau teknis ini merupakan perbedaan \nfundamental yang menentukan apakah seorang konsumen yang \ndirugikan dapat atau tidak dapat menuntut pertanggungjawaban \npelaku usaha berdasarkan norma perlindungan konsumen yang \n\n32 \n \n \npaling dasar di Indonesia, sebuah perbedaan yang secara \nlangsung dan nyata melanggar prinsip equality before the law \nyang dijamin Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 1132,
+      "end_line": 1185
+    },
+    {
+      "heading": "3. Bahwa ketimpangan normatif antara konsumen konvensional dan",
+      "slug": "3-bahwa-ketimpangan-normatif-antara-konsumen-konvensional-dan",
+      "text": "konsumen digital yang diciptakan oleh Pasal 9 ayat (1) UUPK \njuga secara sangat nyata dan konkret termanifestasi dalam \nperbedaan beban pembuktian yang harus ditanggung oleh kedua \nkelompok konsumen tersebut ketika berupaya menuntut \npertanggungjawaban pelaku usaha di hadapan forum \npenyelesaian sengketa, baik di pengadilan, di Badan \nPenyelesaian Sengketa Konsumen (BPSK), maupun di \nmekanisme alternatif penyelesaian sengketa lainnya. Konsumen \nkonvensional yang dirugikan oleh iklan atau promosi yang \nmenyesatkan menghadapi beban pembuktian yang relatif ringan \ndan proporsional mereka cukup menunjukkan potongan iklan \ncetak yang memuat klaim yang tidak benar, atau menhadirkan \nsaksi yang mendengar penawaran lisan yang menyesatkan, atau \nmenyerahkan brosur fisik yang mencantumkan informasi yang \ntidak akurat dan bukti-bukti tersebut secara tekstual dan langsung \ndapat dikonfrontasikan dengan frasa \"menawarkan, \nmempromosikan, mengiklankan\" dalam Pasal 9 ayat (1) untuk \nmembuktikan pelanggaran. Konsumen digital, sebaliknya, \nmenghadapi beban pembuktian yang jauh lebih berat dan \nseringkali tidak proporsional, karena mereka harus membuktikan \nbukan hanya bahwa representasi digital yang mereka terima tidak \nakurat atau menyesatkan, tetapi juga bahwa representasi \ntersebut memenuhi unsur \"menawarkan, mempromosikan, \nmengiklankan\" dalam pengertian Pasal 9 ayat (1) sebuah \npembuktian yang dalam praktiknya sangat sulit karena penegak \nhukum dan forum penyelesaian sengketa cenderung \nmenginterpretasikan frasa tersebut dalam pengertian \nkonvensionalnya yang sempit. Log sistem, catatan antarmuka \naplikasi, screenshot tampilan platform, dan rekaman interaksi \ndigital sering kali tidak diakui secara otomatis sebagai bukti \"iklan\" \n\n33 \n \n \natau \"penawaran\" dalam pengertian norma a quo , sehingga \nkonsumen digital harus menempuh upaya pembuktian tambahan \nyang memakan waktu, biaya, dan tenaga yang tidak sepadan \ndengan nilai kerugian yang dialaminya. Ketimpangan beban \npembuktian ini merupakan cerminan langsung dari ketimpangan \nnormatif yang ada dalam Pasal 9 ayat (1) UUPK, dan secara \nkonstitusional merupakan pelanggaran terhadap prinsip equality \nbefore the law yang mengharuskan setiap orang untuk dapat \nmengakses perlindungan hukum dengan beban yang \nproporsional dan tidak diskriminatif, sebagaimana dijamin oleh \nPasal 28D ayat (1) UUD NRI 1945. Untuk memvisualisasikan \nketimpangan ini secara lebih jelas, Para Pemohon menyajikan \ntabel perbandingan beban pembuktian sebagai berikut: \nTABEL 1 \nPerbandingan Beban Pembuktian: Konsumen Konvensional vs. \nKonsumen Digital dalam Perkara Pasal 9 Ayat (1) UUPK \nAspek \nPembuktian\nKonsumen Konvensional Konsumen Digital \nIdentifikasi bentuk Mudah Sulit \nkomunikasi yang Iklan cetak, brosur fisik, log sistem, tampilan  \ndilanggar siaran TV/radio secara antarmuka aplikasi, dan \n tekstual diakui sebagai visualisasi algoritmik \n“penawaran/promosi/iklan” sering tidak diakui \noleh Pasal 9 ayat (1) UUPK sebagai “iklan” dalam arti\nsempit oleh penegak \nhukum \nJenis alat bukti Cukup menyerahkan Harus menyertakan \nyang dibutuhkan potongan iklan cetak, brosur screenshot, log tra nsaksi,\nfisik, atau rekaman siaran rekaman sistem, dan \nyang secara langsung sering kali membutuhkan \nmengidentifikasi tindakan keterangan ahli teknologi \npelaku usaha informasi untuk \nmembuktikan sifat \nrepresentasi digital \nPengakuan yuridis Langsung diakui ka rena Tidak otomatis diakui \nalat bukti bentuk komunikasi karena representasi digital\nkonvensional secara belum secara eksplisit \neksplisit tercakup dalam diakui sebagai bentuk \nnorma a quo “penawaran/promosi/iklan”\noleh norma a quo \nBiaya pembuktian Rendah Tinggi \nbukti fisik mudah diperoleh membutuhkan forensik \ndan murah untuk dihadirkan digital, keterangan ahli IT,\n\n34 \n \n \ndan dokumentasi teknis \nyang memerlukan biaya \nsignifikan \nWaktu yang Singkat Lama \ndibutuhkan identifikasi dan penghadiran proses pe ngumpulan \nbukti relatif cepat bukti digital, verifikasi \nkeaslian, dan pembuktian\nrelevansi memakan waktu\nyang jauh lebih panjang \nRisiko kegagalan Rendah Tinggi \npembuktian norma yang jelas ketidakjelasan cakupan \nmemberikan dasar norma membuka peluang\npembuktian yang pasti pelaku usaha untuk \nmembantah bahwa \ntindakannya bukan \n“iklan/promosi/penawaran”\nPosisi konsumen diSetara Lebih lemah \nhadapan pelaku \nusaha \nnorma memberikan dasa r\nyang tegas untuk menuntut\npertanggungjawaban \npelaku usaha dapa t\nberlindung di balik dalih\nteknis sistem digital \nAkses terhadap\nkeadilan \nEfektif dan dapat diprediksi Tidak pasti dan \nbergantung pada diskresi\npenegak hukum atau\nmajelis \nKesesuaian \ndengan asas\nkemudahan akses\nkeadilan \nSesuai \nbeban pembuktian\nproporsional dengan\nkerugian \nTidak sesuai \nbeban pembuktian tida k\nproporsional, sering kali\nmelampaui nilai kerugian\nyang diderita",
+      "start_line": 1187,
+      "end_line": 1312
+    },
+    {
+      "heading": "4. Bahwa ketimpangan perlindungan normatif antara konsumen",
+      "slug": "4-bahwa-ketimpangan-perlindungan-normatif-antara-konsumen",
+      "text": "konvensional dan konsumen digital yang diciptakan oleh Pasal 9 \nayat (1) UUPK menjadi semakin tidak dapat dibenarkan secara \nkonstitusional ketika dihadapkan pada fakta empiris yang tidak \nterbantahkan mengenai skala dan dominasi perdagangan digital \ndalam kehidupan ekonomi masyarakat Indonesia saat ini. Data \nresmi dari Kementerian Perdagangan Republik Indonesia \nmencatat bahwa 99 persen dari total 7.887 aduan konsumen \nsepanjang tahun 2025 (Sumber: \nhttps://money.kompas.com/read/ 2026/ 01/13/113404526/99-\npersen-aduan-konsumen-2025-terkait-transaksi online), \nberkaitan dengan transaksi online, dan dari total laporan \n\n35 \n \n \ntersebut, 7.836 aduan terkait langsung dengan transaksi \nelektronik. Angka yang hampir absolut ini 99 persen aduan \nkonsumen bersumber dari transaksi digital merupakan bukti \nempiris yang paling kuat bahwa ekosistem perdagangan digital \nbukan lagi fenomena sampingan yang dapat diperlakukan \nsecara marginal dalam sistem hukum perlindungan konsumen \nIndonesia, melainkan telah menjadi arena utama di mana \nsebagian besar kerugian konsumen terjadi. Lebih jauh lagi, data  \ndari penelitian yang dipublikasikan dalam SENTRI: Jurnal Riset \nIlmiah, Vol. 5, No. 2, Februari 2026 mencatat bahwa nilai transaksi \ne-commerce di Indonesia pada tahun 2024 mencapai Rp512 \ntriliun, meningkat sekitar 12 kali lipat dibandingkan dengan tu juh \ntahun sebelumnya yang hanya bernilai Rp42,2 triliun. \nPertumbuhan\n yang eksponensial ini menggambarkan \ndengan sangat jelas bagaimana ekosistem perdagangan digital \ntelah mengambil alih posisi sentral dalam perekonomian nasional \ndan dalam kehidupan konsumen Indonesia sehari-hari. Dalam \nkonteks fakta empiris yang demikian dramatis ini, \nmempertahankan Pasal 9 \nayat (1) UUPK dalam kondisinya saat ini yang hanya memberikan \nperlindungan penuh kepada konsumen konvensional sementara \nmembiarkan konsumen digital tanpa perlindungan normatif yang \nsetara secara konstitusional ekuivalen dengan membiarkan 99 \npersen konsumen yang mengajukan aduan berada dalam kondisi \ntanpa kepastian normatif yang memadai, sebuah kondisi yang \nsecara frontal dan tidak dapat ditoleransi melanggar prinsip \nequality before the law yang dijamin oleh Pasal 28D ayat (1) UUD \nNRI 1945 kepada seluruh warga negara tanpa pengecualian.",
+      "start_line": 1314,
+      "end_line": 1357
+    },
+    {
+      "heading": "5. Bahwa diskriminasi normatif yang diciptakan oleh Pasal 9 ayat (1)",
+      "slug": "5-bahwa-diskriminasi-normatif-yang-diciptakan-oleh-pasal-9-ayat-1",
+      "text": "UUPK antara konsumen konvensional dan konsumen digital juga \ntidak dapat dijustifikasi dengan argumen bahwa perlindungan \nbagi konsumen digital telah atau dapat disediakan oleh instrumen \nhukum lain yang ada, seperti Undang-Undang ITE, Peraturan \nPemerintah Nomor 80 Tahun 2019 tentang Perdagangan Melalui \n\n36 \n \n \nSistem Elektronik (PP PMSE), atau peraturan sektoral lainnya. \nArgumen demikian, meskipun pada pandangan pertama tampak \nmeyakinkan, sesungguhnya tidak dapat diterima karena beberapa \nalasan yang fundamental dan saling terkait. Pertama, prinsip \nequality before the law yang dijamin oleh Pasal 28D ayat (1) UUD \nNRI 1945 mengharuskan bahwa perlakuan yang sama diberikan \nkepada semua warga negara dalam konteks yang sama dan \nberdasarkan norma yang sama bukan perlakuan yang setara \nsecara agregat yang diperoleh dari berbagai instrumen hukum \nyang berbeda dengan mekanisme, prosedur, dan forum \npenyelesaian yang berbeda pula. Konsumen konvensional dapat \nmengakses perlindungan UUPK secara langsung dan tunggal; \nkonsumen digital tidak seharusnya dipaksa untuk \nmengombinasikan berbagai instrumen hukum yang tersebar di \nberbagai undang-undang berbeda hanya untuk mendapatkan \nperlindungan yang setara. Kedua, penelitian akademis yang \ndipublikasikan dalam SENTRI: Jurnal Riset Ilmiah menunjukkan \nbahwa mekanisme penyelesaian sengketa digital di Indonesia, \ntermasuk Online Dispute Resolution (ODR), hingga saat ini masih \nmenghadapi berbagai tantangan fundamental yang belum \nterselesaikan, antara lain belum adanya kerangka regulasi yang \nsecara tegas dan komprehensif mengatur tata kerja ODR, \nketiadaan kepastian hukum mengenai kekuatan eksekutorial \nputusan ODR, keterbatasan infrastruktur teknologi, rendahnya \nliterasi digital, dan risiko keamanan data pribadi. \nKetidakmatangan kerangka penyelesaian sengketa digital ini \nberarti bahwa bahkan jika konsumen digital berhasil \nmengidentifikasi dasar hukum yang relevan di luar UUPK, akses \nmereka terhadap mekanisme pemulihan yang efektif tetap jauh \nlebih terbatas dibandingkan konsumen konvensional yang dapat \nmengakses BPSK dan pengadilan dengan mekanisme yang telah \nmapan. Ketiga, dan yang paling prinsipil dari perspektif \nkonstitusional, ketimpangan perlindungan yang ada dalam UUPK \nsebagai undang-undang perlindungan konsumen yang utama dan \n\n37 \n \n \nfundamental tidak dapat dibenarkan hanya karena terdapat \ninstrumen hukum lain yang secara parsial dapat menutup \nsebagian celah tersebut karena hal demikian justru menciptakan \nsistem perlindungan konsumen yang berlapis-lapis, tidak \nkonsisten, dan tidak dapat diprediksi yang semakin memperdalam \ndiskriminasi normatif yang dialami oleh konsumen digital.",
+      "start_line": 1359,
+      "end_line": 1411
+    },
+    {
+      "heading": "6. Bahwa untuk mempertegas dimensi diskriminasi normatif yang",
+      "slug": "6-bahwa-untuk-mempertegas-dimensi-diskriminasi-normatif-yang",
+      "text": "diciptakan oleh Pasal 9 ayat (1) UUPK, Para Pemohon \nmenyajikan perbandingan komprehensif antara posisi hukum \nkonsumen konvensional dan konsumen digital dalam berbagai \naspek perlindungan normatif yang relevan, sebagaimana \ntertuang dalam tabel berikut: \nTABEL 2 \nPerbandingan Posisi Hukum Konsumen Konvensional vs. \nKonsumen Digital berdasarkan Pasal 9 Ayat (1) UUPK \n \nAspek \nPerlindungan \nKonsumen \nKonvensional \nKonsumen Digital Implikasi \nKonstitusional \nCakupan norma \nPasal 9 ayat (1) \nTerlindungi \npenuh iklan \ncetak, siaran, \nbrosur, \npenawaran \nlisan secara \ntegas tercakup \nTidak tercakup secara \ntekstual representasi \nalgoritmik, UI/UX, status \nsistem tidak diakui \nSebagai \n“iklan/promosi/penawaran” \nDiskriminasi \nnormatif \nkonsumen \ndigital berada di \nluar jangkauan \nnorma utama \nperlindungan \nkonsumen \nDasar hukum \ntuntutan \nTersedia, \ntegas, dan \ndapat \ndiprediksi \nTidak tersedia atau \nsangat tidak pasti \nbergantung pada \npenafsiran hakim yang \nberbeda-beda \nPelanggaran \nkepastian \nhukum dan \nequality before \nthe law \nKemampuan \nmengidentifikasi \npelanggaran \nMudah \ntindakan \npelaku usaha \nlangsung \ndapat \ndikualifikasikan \nSangat sulit \npelaku usaha dapat \nberdalih representasi \ndigital bukan “iklan” \nKetidaksetaraan \nakses terhadap \nmekanisme \nperlindungan \nPosisi di \nhadapan pelaku \nusaha \nSetara \nnorma \nmemberikan \n“senjata” \nhukum yang \ntegas \nLemah \npelaku usaha memiliki \ncelah untuk lolos dari \nPertanggungjawaban \nPelanggaran \nasas \nkeseimbangan \nhak dan \nkewajiban \n\n38 \n \n \nKemudahan \nakses ke BPSK \nEfektif \nBPSK dapat \nlangsung \nmenerapkan \nPasal 9 ayat \n(1) \nTidak efektif \nBPSK belum memiliki \nlandasan hukum yang \nmemadai untuk \nmenangani sengketa \nrepresentasi digital \nDiskriminasi \ndalam akses \nterhadap \nmekanisme \npenyelesaian \nsengketa \nMekanisme \npenyelesaian \nsengketa \nMapan \nlitigasi dan \nBPSK dengan \nprosedur yang \njelas \nTidak mapan \nODR belum memiliki \nregulasi komprehensif, \nkekuatan hukum putusan \ntidak pasti \nKetidaksetaraan \nakses terhadap \nkeadilan \nKepastian \npemulihan \nkerugian \nDapat \ndiprediksi \nnorma yang \ntegas \nmemberikan \ndasar ganti \nrugi yang jelas \nSangat tidak pasti \ntanpa dasar norma yang \ntegas, pemulihan \nbergantung pada diskresi \nPelanggaran \nhak atas \nkepastian \nhukum yang \nadil \nPerlindungan dari \ndark patterns \n \nTerlindungi \nmanipulasi eksplisit\ndalam medium \nkonvensional \ntercakup norma \nTidak terlindungi \ndark patterns digital berada",
+      "start_line": 1413,
+      "end_line": 1570
+    },
+    {
+      "heading": "di luar jangkauan frasa",
+      "slug": "di-luar-jangkauan-frasa",
+      "text": "norma a quo \n \nKonsumen digital \nrentan terhadap \nmanipulasi yang \ntidak dapat dijerat \nnorma \nKualitas \nperlindungan \nkeseluruhan \nTinggi \nnorma utama UUPK\nsepenuhnya dapat\ndiandalkan \nRendah \nharus mengombinasikan \nberbagai instrumen hukum\nyang tersebar dan tidak \nterkoordinasi \nPelanggaran \nprinsip equalit\ny \nbefore the la w \nsecara \nkeseluruhan",
+      "start_line": 1572,
+      "end_line": 1597
+    },
+    {
+      "heading": "7. Bahwa kondisi diskriminasi normatif yang tervisualisasi seca ra",
+      "slug": "7-bahwa-kondisi-diskriminasi-normatif-yang-tervisualisasi-seca-ra",
+      "text": "jelas dalam tabel-tabel di atas secara langsung dan konkret \ndialami oleh Para Pemohon dalam perkara a quo , dan \npengalaman konkret Para Pemohon tersebut berfungsi sebagai \nbukti hidup dari ketimpangan konstitusional yang didalilkan. \nPemohon I, yang menghadapi kerugian akibat representasi \nsistem logistik digital yang tidak akurat baik dalam bentuk \nkalkulasi biaya CIF yang menyesatkan maupun status pengiriman \nelektronik yang tidak benar berada dalam posisi yang secara \nfundamental lebih lemah dibandingkan konsumen yang \nmenghadapi kerugian serupa dalam konteks logistik \nkonvensional. Apabila seorang konsumen menerima brosur dari \nperusahaan jasa pengiriman konvensional yang mencantumkan \nbiaya pengiriman yang tidak sesuai dengan tagihan aktual, \nkonsumen tersebut dapat dengan mudah menggunakan Pasal 9 \n\n39 \n \n \nayat (1) UUPK sebagai dasar tuntutannya karena brosur tersebut \nsecara tekstual merupakan \"iklan\" atau \"promosi\" dalam \npengertian norma tersebut. Namun Pemohon I, yang menghadapi \nkerugian yang identik secara substansial tagihan yang tidak \nsesuai dengan representasi yang diberikan tidak dapat dengan \nmudah menggunakan norma yang sama karena representasi \nyang diterimanya berupa tampilan kalkulasi otomatis sistem \ndigital, bukan brosur atau iklan konvensional. Perbedaan \nperlakuan ini murni didasarkan pada medium digital versus \nkonvensional sebuah pembeda yang tidak memiliki justifikasi \nkonstitusional apapun. Demikian pula, Pemohon II yang \nmengalami kebocoran data pasca transaksi digital berada dalam \nposisi yang jauh lebih lemah dibandingkan konsumen yang \nmengalami kerugian serupa akibat iklan konvensional yang \nsecara eksplisit mengklaim keamanan produk tanpa dasar yang \nbenar. Pemohon III yang dirugikan oleh visualisasi digital prod uk \nyang tidak sesuai kenyataan tidak dapat memperoleh \nperlindungan yang setara dengan konsumen yang dirugikan oleh \nfoto produk dalam iklan cetak konvensional, meskipun substansi \nkerugian keduanya yakni menerima produk yang tidak sesuai \ndengan representasi yang diberikan oleh pelaku usaha adalah \nidentik. Ketiga kondisi ini merupakan bukti yang konkret, aktua l, \ndan tidak dapat dibantah bahwa norma a quo secara nyata \nmenciptakan perlakuan yang tidak sama di hadapan hukum \nantara konsumen yang menggunakan medium yang berbeda \ndalam bertransaksi, sebuah kondisi yang secara langsung \nbertentangan dengan Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 1599,
+      "end_line": 1643
+    },
+    {
+      "heading": "8. Bahwa diskriminasi normatif yang diciptakan oleh keterbatasa n",
+      "slug": "8-bahwa-diskriminasi-normatif-yang-diciptakan-oleh-keterbatasa-n",
+      "text": "Pasal 9 ayat (1) UUPK juga memiliki dimensi yang sangat kritis \napabila dikaitkan dengan definisi \"Promosi\" yang termuat dalam \nPasal 1 angka 6 UUPK sendiri, yang mendefinisikan promosi \nsebagai \"kegiatan pengenalan atau penyebarluasan informasi \nsuatu barang dan/atau untuk menarik minat beli konsumen \nterhadap barang dan atau jasa yang akan dan sedang \n\n40 \n \n \ndiperdagangkan.\" Definisi ini, apabila ditafsirkan secara teleologis \ndan fungsional yakni berdasarkan tujuan dan fungsi dari tindakan \nyang dimaksud, bukan berdasarkan medium atau format fisiknya \nsesungguhnya cukup luas untuk mencakup berbagai bentuk \nrepresentasi digital yang dilakukan oleh pelaku usaha dalam \nekosistem perdagangan elektronik, karena representasi digital \ntersebut juga merupakan \"kegiatan pengenalan atau \npenyebarluasan informasi\" yang bertujuan untuk \"menarik minat \nbeli konsumen.\" Namun demikian, dalam praktik penegakan \nhukum, frasa \"menawarkan, mempromosikan, mengiklankan\" \ndalam Pasal 9 ayat (1) secara konsisten diinterpretasikan dalam  \npengertian konvensionalnya yang sempit tanpa mengacu pada \ndefinisi \"promosi\" dalam Pasal 1 angka 6, sehingga representasi  \ndigital tetap berada di luar jangkauan norma larangan. \nInkonsistensi internal dalam tubuh UUPK ini antara definisi \n\"promosi\" yang secara fungsional cukup luas dengan penerapan \nfrasa \"menawarkan, mempromosikan, mengiklankan\" yang secara \nkonsisten sempit merupakan sumber ketidakpastian hukum \ntambahan yang semakin memperparah diskriminasi normatif \nyang dialami oleh konsumen digital. Ketidakpastian mengenai \napakah definisi \"promosi\" dalam Pasal 1 angka 6 dapat digunakan \nuntuk memperluas cakupan larangan dalam Pasal 9 ayat (1) \nadalah persoalan yang tidak seharusnya diserahkan kepada \npenafsiran hakim per kasus, melainkan harus diselesaikan \nmelalui penafsiran konstitusional yang mengikat dan bersifat erga \nomnes oleh Mahkamah Konstitusi, demi memastikan bahwa \nseluruh konsumen Indonesia baik yang bertransaksi secara \nkonvensional maupun digital mendapatkan perlindungan hukum \nyang sama dan kepastian yang sama mengenai ruang lingkup \nperlindungan normatif yang tersedia bagi mereka sebagaimana \ndijamin oleh Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 1645,
+      "end_line": 1685
+    },
+    {
+      "heading": "9. Bahwa prinsip equality before the law yang dijamin oleh Pasal",
+      "slug": "9-bahwa-prinsip-equality-before-the-law-yang-dijamin-oleh-pasal",
+      "text": "28D ayat (1) UUD NRI 1945, sebagaimana telah ditafsirkan dan \nditegaskan oleh Mahkamah Konstitusi dalam berbagai \n\n41 \n \n \nputusannya, mengandung dua dimensi yang saling melengkapi \ndan keduanya dilanggar oleh kondisi norma a quo . Dimensi \npertama adalah kesetaraan formal (formal equality), yakni bahwa \nnorma hukum tidak boleh secara eksplisit maupun struktural \nmembedakan perlakuan terhadap kelompok-kelompok warga \nnegara yang berada dalam situasi yang secara hukum identik \ntanpa justifikasi konstitusional yang memadai. Dimensi kedua \nadalah kesetaraan substantif (substantive equality), yakni bahwa \nnorma hukum harus secara aktif memastikan bahwa semua \nkelompok warga negara memiliki akses yang setara terhadap \nmanfaat dan perlindungan yang dimaksudkan oleh norma \ntersebut, termasuk dengan melakukan penyesuaian apabila \nkondisi sosial atau teknologi mengakibatkan sebagian kelompok \nsecara de facto tidak dapat menikmati perlindungan yang sama \nmeskipun secara de jure norma yang sama berlaku bagi semua. \nPasal 9 ayat (1) UUPK melanggar kedua dimensi equality before \nthe law tersebut secara bersamaan. ini melanggar kesetaraan \nformal karena secara struktural meskipun tidak secara eksplisit  \nmembatasi cakupan perlindungannya hanya pada bentuk \nkomunikasi komersial konvensional, sehingga menempatkan \nkonsumen digital dalam kategori yang berbeda tanpa justifikasi \nkonstitusional. Dan ini melanggar kesetaraan substantif karena \nbahkan jika norma tersebut secara formal berlaku bagi semua \nkonsumen tanpa terkecuali, dalam kenyataannya konsumen \ndigital tidak dapat secara efektif menikmati perlindungan yang \ndimaksudkan oleh norma tersebut karena bentuk representasi \nyang mereka hadapi tidak terjangkau oleh cakupan tekstual frasa \nnorma a quo . Pelanggaran terhadap kedua dimensi equality \nbefore the law ini menjadikan Pasal 9 ayat (1) UUPK \ninkonstitusional sepanjang tidak ditafsirkan untuk mencakup \nrepresentasi digital, dan mewajibkan Mahkamah untuk \nmemberikan penafsiran konstitusional bersyarat yang mengisi \nkekosongan normatif tersebut  demi memulihkan kesetaraan \nkonstitusional yang saat ini tidak dinikmati oleh konsumen digital \n\n42 \n \n \nIndonesia.",
+      "start_line": 1687,
+      "end_line": 1731
+    },
+    {
+      "heading": "10. Bahwa berdasarkan keseluruhan uraian yang telah dikemukakan",
+      "slug": "10-bahwa-berdasarkan-keseluruhan-uraian-yang-telah-dikemukakan",
+      "text": "secara mendalam beserta tabel-tabel perbandingan yang \nmenyertainya, Para Pemohon menyimpulkan bahwa Pasal 9 ayat \n(1) Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan \nKonsumen bertentangan dengan Pasal 28D ayat (1) Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 karena \nsecara struktural dan konsekuensial menciptakan diskriminasi \nnormatif yang tidak memiliki justifikasi konstitusional antara \nkonsumen konvensional dan konsumen digital, yang \ntermanifestasi dalam lima dimensi pelanggaran yang saling \nberkaitan. Pertama, pelanggaran terhadap kesetaraan cakupan \nnorma, di mana konsumen konvensional menikmati perlindungan \npenuh dari Pasal 9 ayat (1) sementara konsumen digital secara \ntekstual berada di luar jangkauan norma yang sama, meskipun \nkerugian yang dialami keduanya secara substansial identik. \nKedua, pelanggaran terhadap kesetaraan beban pembuktian, di \nmana konsumen konvensional menghadapi beban pembuktian \nyang ringan dan proporsional sementara konsumen digital \nmenghadapi beban yang berat, tidak proporsional, dan seringkali \nmelampaui nilai kerugian yang diderita. Ketiga, pelanggaran \nterhadap kesetaraan akses terhadap mekanisme pemulihan, di \nmana konsumen konvensional dapat mengakses BPSK dan \npengadilan dengan prosedur yang mapan dan efektif sementara \nkonsumen digital menghadapi mekanisme ODR yang belum \nmemiliki regulasi komprehensif dan kepastian hukum yang \nmemadai. Keempat, pelanggaran terhadap kesetaraan posisi di \nhadapan pelaku usaha, di mana konsumen konvensional memiliki \n\"senjata\" normatif yang tegas untuk menuntut \npertanggungjawaban pelaku usaha sementara konsumen digital \nmenghadapi pelaku usaha yang selalu memiliki celah untuk \nberlindung di balik dalih teknis system digital. Kelima, \npelanggaran terhadap kesetaraan kepastian dan prediktabilitas \nperlindungan, di mana konsumen konvensional dapat \n\n43 \n \n \nmemprediksi dengan pasti bahwa haknya terlindungi sementara \nkonsumen digital berada dalam ketidakpastian yang bergantung \nsepenuhnya pada diskresi penegak hukum. Kelima dimensi \npelanggaran ini secara kumulatif membuktikan bahwa norma a \nquo tidak hanya gagal memberikan kepastian hukum \nsebagaimana diuraikan dalam Sub Bab I, tetapi juga secara aktif \ndan struktural melanggar hak konstitusional konsumen digital atas \nperlakuan yang sama di hadapan hukum sebagaimana dijamin \noleh Pasal 28D ayat \n(1) UUD NRI 1945, sehingga Para Pemohon dengan segala \nkerendahan hati memohon kepada Mahkamah Yang Mulia untuk \nmenyatakan Pasal 9 ayat (1) UUPK konstitusional bersyarat \nsepanjang frasa \"menawarkan, mempromosikan, mengiklankan\" \ndimaknai mencakup juga seluruh bentuk representasi digital yang \nsecara substansial membentuk persepsi, ekspektasi, dan \nkeputusan konsumen dalam ekosistem perdagangan elektronik, \ndemi memulihkan kesetaraan konstitusional yang saat ini tidak \ndinikmati oleh jutaan konsumen digital Indonesia. \nIV. Petitum \nBahwa dari seluruh dalil-dalil yang diuraikan diatas dan bukti- bukti terlampir, \ndengan ini Para Pemohon memohon kepada Yang Mulia Majelis Hakim  \nMahkamah Konstitusi untuk kiranya memberikan putusan sebagai berikut:",
+      "start_line": 1733,
+      "end_line": 1790
+    },
+    {
+      "heading": "2. Menyatakan frasa “menawarkan, mempromosikan, mengiklankan” d alam",
+      "slug": "2-menyatakan-frasa-menawarkan-mempromosikan-mengiklankan-d-alam",
+      "text": "Pasal 9 ayat (1) Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan \nKonsumen (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 2 2, \nTambahan Lembaran Negara Republik Indonesia Nomor 3821) \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat secara \nbersyarat sepanjang tidak dimaknai mencakup tampilan sistem ele ktronik, \nantarmuka digital, visualisasi produk, dan bentuk representasi digital lain \nyang secara substansial mempengaruhi persepsi, ekspektasi, atau  \nkeputusan konsumen dalam transaksi elektronik;",
+      "start_line": 1793,
+      "end_line": 1801
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "44 \n \n \nIndonesia sebagaimana mestinya. \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain  \nmohon putusan yang seadil-adilnya ( ex aequo et bono). \n[2.2]  Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  Bukti P-15 \nsebagai berikut:",
+      "start_line": 1803,
+      "end_line": 1812
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 8 Tahun 1999 tentang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-8-tahun-1999-tentang",
+      "text": "Perlindungan Konsumen;",
+      "start_line": 1814,
+      "end_line": 1814
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 1816,
+      "end_line": 1816
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Kartu Tanda Penduduk (KTP) Primo Putra",
+      "slug": "6-bukti-p-6-fotokopi-kartu-tanda-penduduk-ktp-primo-putra",
+      "text": "Ramadhan;",
+      "start_line": 1821,
+      "end_line": 1821
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Kartu Tanda Penduduk (KTP) Muhamad Nabi l",
+      "slug": "9-bukti-p-9-fotokopi-kartu-tanda-penduduk-ktp-muhamad-nabi-l",
+      "text": "Gunawan;",
+      "start_line": 1825,
+      "end_line": 1825
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Kartu Tanda Mahasiswa (KTM) Sarah Rah ayu;",
+      "slug": "10-bukti-p-10-fotokopi-kartu-tanda-mahasiswa-ktm-sarah-rah-ayu",
+      "text": "Fotokopi Kartu Tanda Mahasiswa (KTM) Nurhaliza Zahra; \nFotokopi Kartu Tanda Mahasiswa (KTM) Livia Maulina; \nF o t o k o p i  K a r t u  T a n d a  M a h a s i s w a  ( K T M )  P r i m o  P u t r a  \nRamadhan; \n Fotokopi Kartu Tanda Mahasiswa (KTM) Zalva Viola Munir; \nFotokopi Kartu Tanda Mahasiswa (KTM) Amelia Hadirtiya; \nFotokopi Kartu Tanda Mahasiswa (KTM) Muhamad Nabil \nGunawan;",
+      "start_line": 1827,
+      "end_line": 1834
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Bill of Lading yang menunjukkan volume barang",
+      "slug": "11-bukti-p-11-fotokopi-bill-of-lading-yang-menunjukkan-volume-barang",
+      "text": "sebesar 0,7 CBM; invoice awal yang memuat perhitungan \nbiaya berdasarkan 3 CBM; revisi invoice dari pihak pelaku \nusaha; tangkapan layar komunikasi (email/chat) antara \n\n45 \n \n \nPemohon dengan pelaku usaha terkait klarifikasi perbedaan \nperhitungan dan rincian biaya; serta rincian (breakdown) biaya \n“others”;",
+      "start_line": 1836,
+      "end_line": 1845
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Tangkapan layar status pengiriman yan g",
+      "slug": "12-bukti-p-12-fotokopi-tangkapan-layar-status-pengiriman-yan-g",
+      "text": "menyatakan barang telah diterima, dokumentasi foto lokasi \npenerimaan yang tidak sesuai, komunikasi antara Pemohon I \ndengan pihak terkait, formulir pengaduan kepada platform, \nserta hasil penyelesaian sengketa oleh platform;",
+      "start_line": 1847,
+      "end_line": 1850
+    },
+    {
+      "heading": "13. Bukti P-13 : Fotokopi Tangkapan layar komunikasi antara Pem ohon III",
+      "slug": "13-bukti-p-13-fotokopi-tangkapan-layar-komunikasi-antara-pem-ohon-iii",
+      "text": "dengan penjual yang menunjukkan adanya keberatan atas \nbarang yang diterima karena tidak sesuai dengan yang \nditawarkan, disertai dokumentasi foto barang yang diterima;",
+      "start_line": 1852,
+      "end_line": 1854
+    },
+    {
+      "heading": "14. Bukti P-14 : Fotokopi Tangkapan layar pesan promosi dari be rbagai pihak",
+      "slug": "14-bukti-p-14-fotokopi-tangkapan-layar-pesan-promosi-dari-be-rbagai-pihak",
+      "text": "yang diterima oleh Pemohon II tanpa persetujuan, yang \nmenunjukkan adanya penyalahgunaan atau kebocoran data \npribadi Pemohon II;",
+      "start_line": 1856,
+      "end_line": 1858
+    },
+    {
+      "heading": "15. Bukti P-15 : Fotokopi Tangkapan layar riwayat transaksi pem belian",
+      "slug": "15-bukti-p-15-fotokopi-tangkapan-layar-riwayat-transaksi-pem-belian",
+      "text": "Pemohon IV-VII pada platform e-commerce. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam  Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahka n dengan \nputusan ini.",
+      "start_line": 1860,
+      "end_line": 1864
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n\n46 \n \n \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076, selanjutnya disebut UU 48/2009), salah sa tu kewenangan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji undang-undang terhadap UUD NRI Tahun \n1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 9 ayat (1) Undang-Undang \nNomor 8 Tahun 1999 tentang Perlindungan Konsumen (Lembaran Negara Republik \nIndonesia Tahun 1999 Nomor 22, Tambahan Lembaran Negara Republik Indonesia \nNomor 3821, selanjutnya disebut UU 8/1999) terhadap UUD NRI Tahun 1945 maka \nMahkamah berwenang mengadili permohonan a quo. \nKedudukan Hukum  \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1866,
+      "end_line": 1900
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap UUD \nNRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \n\n47 \n \n \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal  \n20 September 2007, serta putusan-putusan selanjutnya berpendiri an bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi lima syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1903,
+      "end_line": 1925
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1927,
+      "end_line": 1928
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon I sampai dengan \nPemohon VII sebagai berikut:",
+      "start_line": 1930,
+      "end_line": 1937
+    },
+    {
+      "heading": "1. Bahwa Pemohon I sampai dengan Pemohon VII mengajukan penguji an",
+      "slug": "1-bahwa-pemohon-i-sampai-dengan-pemohon-vii-mengajukan-penguji-an",
+      "text": "materiil frasa “menawarkan, mempromosikan, mengiklankan” dalam Pasal 9 \nayat (1) UU 8/1999, yang selengkapnya menyatakan: \nPelaku usaha dilarang menawarkan, mempromosikan, mengiklankan s uatu \nbarang dan/atau jasa secara tidak benar, dan/atau seolah-olah:",
+      "start_line": 1939,
+      "end_line": 1942
+    },
+    {
+      "heading": "1. barang tersebut telah memenuhi dan/atau memiliki potongan harga, harga",
+      "slug": "1-barang-tersebut-telah-memenuhi-dan-atau-memiliki-potongan-harga-harga",
+      "text": "khusus, standar mutu tertentu, gaya atau mode tertentu, karakte ristik \ntertentu, sejarah atau guna tertentu;",
+      "start_line": 1944,
+      "end_line": 1945
+    },
+    {
+      "heading": "2. barang tersebut dalam keadaan baik dan/atau baru;",
+      "slug": "2-barang-tersebut-dalam-keadaan-baik-dan-atau-baru",
+      "text": "48",
+      "start_line": 1947,
+      "end_line": 1950
+    },
+    {
+      "heading": "3. barang dan/atau jasa tersebut telah mendapatkan dan/atau mem iliki",
+      "slug": "3-barang-dan-atau-jasa-tersebut-telah-mendapatkan-dan-atau-mem-iliki",
+      "text": "sponsor, persetujuan, perlengkapan tertentu, keuntungan tertentu, ciri-ciri \nkerja atau aksesori tertentu;",
+      "start_line": 1952,
+      "end_line": 1953
+    },
+    {
+      "heading": "4. barang dan/atau jasa tersebut dibuat oleh perusahaan yang me mpunyai",
+      "slug": "4-barang-dan-atau-jasa-tersebut-dibuat-oleh-perusahaan-yang-me-mpunyai",
+      "text": "sponsor, persetujuan atau afiliasi;",
+      "start_line": 1955,
+      "end_line": 1955
+    },
+    {
+      "heading": "9. secara langsung atau tidak langsung merendahkan barang dan/a tau jasa",
+      "slug": "9-secara-langsung-atau-tidak-langsung-merendahkan-barang-dan-a-tau-jasa",
+      "text": "lain;",
+      "start_line": 1961,
+      "end_line": 1961
+    },
+    {
+      "heading": "10. menggunakan kata-kata yang berlebihan, seperti aman, tidak berbahaya,",
+      "slug": "10-menggunakan-kata-kata-yang-berlebihan-seperti-aman-tidak-berbahaya",
+      "text": "tidak mengandung risiko atau efek sampingan tanpa keterangan ya ng \nlengkap;",
+      "start_line": 1963,
+      "end_line": 1964
+    },
+    {
+      "heading": "2. Bahwa Pemohon I sampai dengan Pemohon VII menerangkan memili ki hak",
+      "slug": "2-bahwa-pemohon-i-sampai-dengan-pemohon-vii-menerangkan-memili-ki-hak",
+      "text": "konstitusional sebagaimana dijamin dalam Pasal 28D ayat (1) UUD  N R I  \nTahun 1945, yang menyatakan: \nSetiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian \nhukum yang adil serta perlakuan yang sama di hadapan hukum.",
+      "start_line": 1967,
+      "end_line": 1970
+    },
+    {
+      "heading": "3. Bahwa Pemohon I, Sarah Rahayu, adalah warga negara Indonesia yang",
+      "slug": "3-bahwa-pemohon-i-sarah-rahayu-adalah-warga-negara-indonesia-yang",
+      "text": "mengalami kerugian aktual dalam transaksi digital. Dalam transa ksi jasa \nlogistik impor, sistem platform secara otomatis menampilkan kalkulasi biaya \nyang memberikan representasi seolah-olah seluruh komponen biaya  \npengiriman telah bersifat final dalam skema cost, insurance, and freight atau \nCIF. Namun, pada kenyataannya Pemohon I menerima tagihan tambah an \ntanpa rincian yang transparan [vide Bukti P-11]. Selain itu, da lam transaksi \nmelalui platform perdagangan elektronik, sistem informasi pengi riman \nmenampilkan status elektronik yang merepresentasikan bahwa barang telah \nditerima di lokasi yang benar, padahal secara faktual barang ti dak pernah \nditerima Pemohon I [vide Bukti P-12]. Menurut Pemohon I, tampilan kalkulasi \nbiaya otomatis dan status sistem pengiriman tersebut tidak seca ra jelas \ntercakup dalam pengertian penawaran, promosi, atau iklan sebaga imana \ndimaksud dalam norma Pasal 9 ayat (1) UU 8/1999.",
+      "start_line": 1972,
+      "end_line": 1984
+    },
+    {
+      "heading": "4. Bahwa Pemohon II, Nurhaliza Zahra, adalah warga negara Indon esia yang",
+      "slug": "4-bahwa-pemohon-ii-nurhaliza-zahra-adalah-warga-negara-indon-esia-yang",
+      "text": "mengalami kerugian berupa pelanggaran privasi dan penyalahgunaa n data \npribadi oleh pihak ketiga setelah melakukan transaksi pembelian  gawai \nmelalui platform perdagangan elektronik [vide Bukti P-14]. Sebelum transaksi \ndilakukan, platform membangun representasi keamanan sistem mela lui \n\n49 \n \n \ndesain antarmuka, arsitektur teknis, dan fitur-fitur digital ya ng secara \nkeseluruhan membentuk persepsi bahwa transaksi tersebut aman da n data \npribadi konsumen terlindungi. Namun, representasi keamanan digi tal \ntersebut tidak secara eksplisit dapat dikualifikasikan sebagai penawaran, \npromosi, atau iklan dalam pengertian norma Pasal 9 ayat (1) UU 8/1999, \nsehingga Pemohon II kehilangan dasar perlindungan hukum yang pa sti \nterhadap representasi digital yang menyesatkan tersebut.",
+      "start_line": 1986,
+      "end_line": 2000
+    },
+    {
+      "heading": "5. Bahwa Pemohon III, Livia Mau lina, adalah war ga negara Indone sia yang",
+      "slug": "5-bahwa-pemohon-iii-livia-mau-lina-adalah-war-ga-negara-indone-sia-yang",
+      "text": "mengalami kerugian material akibat transaksi pembelian produk p akaian \nmelalui platform perdagangan elektronik. Dalam hal ini, barang yang diterima \nPemohon III tidak sesuai dengan kualitas, karakteristik, dan ta mpilan yang \ndirepresentasikan melalui visualisasi digital dalam platform [vide Bukti P-13]. \nMenurut Pemohon III, representasi  produk yang bersumber dari fo to \nalgoritmik, filter visual, dan rendering digital tidak secara e ksplisit \ndikategorikan sebagai bentuk penawaran, promosi, atau iklan seb agaimana \ndimaksud dalam norma Pasal 9 ayat (1) UU 8/1999. Keadaan terseb ut \nmembuka celah bagi pelaku usaha untuk berdalih bahwa tampilan v isual \nproduk hanyalah fitur teknis platform, bukan tindakan promosi y ang dilarang \noleh norma a quo.",
+      "start_line": 2002,
+      "end_line": 2012
+    },
+    {
+      "heading": "6. Bahwa Pemohon IV, Primo Putra Ramadhan; Pemohon V, Zalva Viola Munir;",
+      "slug": "6-bahwa-pemohon-iv-primo-putra-ramadhan-pemohon-v-zalva-viola-munir",
+      "text": "Pemohon VI, Amelia Harditiya; dan Pemohon VII, Muhamad Nabil Gunawan, \nsebagai warga negara Indonesia sekaligus konsumen aktif dalam ekosistem \nperdagangan elektronik, menurut Pemohon IV sampai dengan Pemoho n VII \nberada dalam posisi rentan secara berkesinambungan terhadap ber bagai \nbentuk representasi digital yang tidak tercakup secara jelas da lam norma a \nquo. Dengan demikian, selama frasa “menawarkan, mempromosikan, \nmengiklankan” tidak dimaknai mencakup representasi digital dala m \nperdagangan elektronik, Pemohon IV sampai dengan Pemohon VII \nberpotensi mengalami kerugian konstitusional karena tidak mempe roleh \njaminan perlindungan dan kepastian hukum yang adil dalam setiap transaksi \nelektronik yang mereka lakukan.",
+      "start_line": 2014,
+      "end_line": 2024
+    },
+    {
+      "heading": "7. Bahwa norma Pasal 9 ayat (1) UU 8/1999 tidak menjangkau bent uk",
+      "slug": "7-bahwa-norma-pasal-9-ayat-1-uu-8-1999-tidak-menjangkau-bent-uk",
+      "text": "representasi digital yang menjadi sumber kerugian Pemohon I sam pai \ndengan Pemohon VII, sehingga pelaku usaha dapat berlindung di balik dalih \n\n50 \n \n \nbahwa informasi yang ditampilkan melalui sistem digital hanya m erupakan \ndata teknis platform, bukan penawaran, promosi, atau iklan seba gaimana \ndimaksud dalam Pasal 9 ayat (1) UU 8/1999. Akibatnya, Pemohon I  sampai \ndengan Pemohon VII kehilangan kepastian hukum yang adil sebagai mana \ndijamin dalam Pasal 28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 2026,
+      "end_line": 2036
+    },
+    {
+      "heading": "8. Bahwa frasa “menawarkan, mempromosikan, mengiklankan” dalam Pasal 9",
+      "slug": "8-bahwa-frasa-menawarkan-mempromosikan-mengiklankan-dalam-pasal-9",
+      "text": "ayat (1) UU 8/1999 secara tekstual dan kontekstual belum menjan gkau \nbentuk-bentuk representasi digital. Akibatnya, pelaku usaha tid ak dapat \ndimintai pertanggungjawaban berdasarkan norma a quo  atas representasi \ndigital yang merugikan konsumen, namun konsumen tidak memiliki dasar \nnorma yang pasti untuk menuntut perlindungan hukum, dan aparat penegak \nhukum tidak memiliki parameter yang memadai untuk menilai apaka h suatu \nrepresentasi digital merupakan pelanggaran terhadap norma a quo.  \nBerdasarkan uraian yang dikemukakan dalam menjelaskan ihwal kedudukan \nhukum sebagaimana tersebut di atas, Pemohon I sampai dengan Pemohon VII yang \nmerupakan perseorangan warga negara Indonesia sekaligus konsumen aktif dalam \nekosistem perdagangan elektronik telah dapat menguraikan anggapan kerugian hak \nkonstitusionalnya secara spesifik dan aktual atau setidak-tidak nya potensial akibat \nberlakunya norma undang-undang yang dimohonkan pengujian. Pemoh on I telah \nmenerangkan kerugian aktual akibat tampilan kalkulasi biaya oto matis dan status \nsistem pengiriman barang secara elektronik yang tidak sesuai de ngan keadaan \nsebenarnya. Begitu pula Pemohon II telah menerangkan kerugian a ktual akibat \nrepresentasi keamanan digital yang membentuk kepercayaan konsum en, namun \ntidak diikuti dengan perlindungan data pribadi yang memadai. Pe mohon III telah \nmenerangkan kerugian aktual akibat ketidaksesuaian antara visua lisasi digital \nproduk dengan barang yang diterima. Adapun Pemohon IV, Pemohon V, Pemohon \nVI, dan Pemohon VII merupakan konsumen aktif dalam perdagangan elektronik \nmemiliki potensi kerugian yang menurut penalaran yang wajar dapat terjadi apabila \nnorma a quo tetap tidak memberikan kepastian cakupan representasi digital dalam \nperdagangan elektronik. Pemohon I sampai dengan Pemohon VII jug a telah dapat \nmenerangkan adanya hubungan sebab-akibat (causal verband) antara anggapan \nkerugian atau potensi kerugian hak konstitusional dengan berlak unya norma yang \ndimohonkan pengujian. Dalam hal ini, menurut Pemohon I sampai dengan Pemohon \nVII, frasa “menawarkan, mempromosikan, mengiklankan” dalam norma Pasal 9 ayat \n\n51 \n \n \n(1) UU 8/1999 yang dimohonkan pengujian belum memberikan kepast ian hukum \nterhadap bentuk-bentuk representasi digital yang secara substansial mempengaruhi \nkeputusan konsumen dalam transaksi elektronik. Keadaan demikian mengakibatkan \nPemohon I sampai dengan Pemohon VII tidak memperoleh perlindung an hukum \nyang pasti ketika mengalami atau potensi mengalami kerugian aki bat representasi \ndigital yang menyesatkan. Oleh karena itu, apabila permohonan Pemohon I sampai \ndengan Pemohon VII dikabulkan, anggapan kerugian hak konstitusi onal yang \nsecara spesifik dan aktual atau setidak-tidaknya potensial tersebut tidak lagi terjadi \natau tidak akan terjadi. Dengan demikian, terlepas terbukti ata u tidaknya dalil \nPemohon I sampai dengan Pemohon VII berkenaan dengan inkonstitu sionalitas \nnorma yang dimohonkan pengujian, menurut Mahkamah, Pemohon I sa mpai \ndengan Pemohon VII (selanjutnya disebut sebagai para Pemohon) m emiliki \nkedudukan hukum untuk bertindak sebagai Pemohon dalam permohonan a quo. \n[3.6]  Menimbang bahwa oleh karena Mahkamah berwenang untuk mengadili \npermohonan a quo dan para Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai pemohon maka selanjutnya Mahkamah mempertimbangkan poko k \npermohonan. \nPokok Permohonan \n[3.7]  Menimbang bahwa dalam mendalilkan perihal inkonstitusionalitas frasa \n“menawarkan, mempromosikan, mengiklankan” dalam norma Pasal 9 a yat (1) UU \n8/1999 bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun 194 5, para \nPemohon mengemukakan dalil-dalil (selengkapnya dimuat dalam bag ian Duduk \nPerkara) yang apabila dipahami dan dirumuskan Mahkamah pada pok oknya \nsebagai berikut:",
+      "start_line": 2038,
+      "end_line": 2093
+    },
+    {
+      "heading": "1. Bahwa menurut para Pemohon, adanya frasa “menawarkan, mempro mosikan,",
+      "slug": "1-bahwa-menurut-para-pemohon-adanya-frasa-menawarkan-mempro-mosikan",
+      "text": "mengiklankan” dalam norma Pasal 9 ayat (1) UU 8/1999 belum menj angkau \nbentuk-bentuk representasi digital dalam ekosistem perdagangan elektronik. \nAkibatnya, norma Pasal 9 ayat (1) UU 8/1999 dinilai menciptakan kekosongan \nhukum yang bertentangan dengan jaminan kepastian hukum yang adi l serta \nprinsip perlakuan yang sama di hadapan hukum sebagaimana dijami n dalam \nPasal 28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 2095,
+      "end_line": 2100
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, adanya frasa “menawarkan, mempro mosikan,",
+      "slug": "2-bahwa-menurut-para-pemohon-adanya-frasa-menawarkan-mempro-mosikan",
+      "text": "52 \n \n \nmengiklankan” yang termaktub dalam norma Pasal 9 ayat (1) UU 8/1999 tidak \nmemiliki cakupan yang memadai untuk menjangkau realitas perdaga ngan \ndigital, sehingga konsumen yang bertransaksi secara elektronik kehilangan \nperlindungan normatif yang seharusnya diberikan oleh negara.",
+      "start_line": 2102,
+      "end_line": 2109
+    },
+    {
+      "heading": "3. Bahwa menurut para Pemohon, frasa “menawarkan, mempromosikan ,",
+      "slug": "3-bahwa-menurut-para-pemohon-frasa-menawarkan-mempromosikan",
+      "text": "mengiklankan” dalam norma Pasal 9 ayat (1) UU 8/1999 masih mele kat pada \nkonsep komunikasi komersial konvensional. Dalam hal ini, kata “menawarkan” \nmerujuk pada penyampaian proposisi komersial secara langsung. S ementara \nitu, kata “mempromosikan” merujuk pada kegiatan pemasaran yang terencana. \nSedangkan kata “mengiklankan” merujuk pada penyampaian pesan komersial \nmelalui media tertentu. Ketiga kata tersebut memiliki karakter aktif, eksplisit, \ndisengaja, dan mudah diidentifikasi. Karakteristik tersebut ber beda dengan \nrepresentasi digital yang kerap bekerja secara implisit, otomat is, algoritmik, \ndan dibangun melalui arsitektur sistem. Karena itu, tampilan bi aya otomatis, \nstatus pengiriman digital, desain keamanan platform, dan visual isasi produk \nberbasis algoritma tidak mudah dimasukkan ke dalam kategori pen awaran, \npromosi, atau iklan dalam pengertian konvensional.",
+      "start_line": 2111,
+      "end_line": 2122
+    },
+    {
+      "heading": "4. Bahwa menurut para Pemohon, ketidakmampuan norma Pasal 9 aya t (1) UU",
+      "slug": "4-bahwa-menurut-para-pemohon-ketidakmampuan-norma-pasal-9-aya-t-1-uu",
+      "text": "8/1999 menjangkau representasi digital juga menyebabkan ketidak setaraan \nperlakuan antara konsumen konvensional dan konsumen digital. Ko nsumen \nkonvensional yang dirugikan oleh suatu iklan cetak, brosur, promosi lisan, atau \npenawaran langsung memperoleh perlindungan yang jelas karena be ntuk \nkomunikasi tersebut mudah masuk ke dalam kategori penawaran, pr omosi, \natau iklan. Sebaliknya, konsumen digital yang dirugikan oleh ta mpilan sistem, \nkalkulasi algoritmik, status pengiriman elektronik, atau desain antarmuka tidak \nmemiliki perlindungan yang sama karena bentuk-bentuk tersebut tidak secara \neksplisit tercakup dalam norma a quo . Ketimpangan tersebut juga tampak \ndalam beban pembuktian, yakni konsumen konvensional cukup menun jukkan \nbukti fisik berupa brosur, iklan, atau saksi atas penawaran lis an. Sementara \nkonsumen digital harus membuktikan tidak hanya representasi digital tersebut \nmenyesatkan, tetapi juga representasi tersebut dapat dikualifikasikan sebagai \npenawaran, promosi, atau iklan menurut norma Pasal 9 ayat (1) U U 8/1999. \nHal tersebut menempatkan konsumen digital dalam posisi yang lebih berat dan \ntidak proporsional dibandingkan konsumen konvensional. \n\n53 \n \n \n Bahwa berdasarkan dalil-dalil di atas, dalam petitum, para Pemohon pada \npokoknya memohon kepada Mahkamah untuk menyatakan frasa “menawa rkan, \nmempromosikan, mengiklankan” dalam norma Pasal 9 ayat (1) UU 8/ 1999 adalah \nbertentangan dengan UUD NRI Tahun 1945 dan tidak memiliki kekua tan hukum \nyang mengikat secara bersyarat sepanjang tidak dimaknai, “menca kup tampilan \nsistem elektronik, antarmuka digital, visualisasi produk, dan b entuk representasi \ndigital lain yang secara substansial mempengaruhi persepsi, eks pektasi, atau \nkeputusan konsumen dalam transaksi elektronik”. \n[3.8] Menimbang bahwa untuk membuktikan dalil permohonan, para Pemohon \ntelah mengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-15 \nyang telah disahkan dalam persidangan Mahkamah pada tanggal 12 Mei 2026 \n(selengkapnya dimuat dalam bagian Duduk Perkara). \n[3.9] Menimbang bahwa oleh karena permohonan a quo telah jelas, Mahkamah \nberpendapat tidak terdapat urgensi maupun relevansi untuk mendengar keterangan \npihak-pihak sebagaimana dimaksud dalam Pasal 54 UU MK. \n[3.10] Menimbang bahwa setelah Mahkamah memeriksa dengan komprehensif  \npermohonan para Pemohon dan bukti yang diajukan para Pemohon (selengkapnya \ndimuat dalam bagian Duduk Perkara), Mahkamah selanjutnya memper timbangkan \npokok permohonan. \n[3.11]  Menimbang bahwa berdasarkan dalil-dalil permohonan para Pemohon , \npersoalan yang perlu dijawab oleh Mahkamah adalah apakah frasa “menawarkan, \nmempromosikan, mengiklankan” dalam norma Pasal 9 ayat (1) UU 8/ 1999 hanya \nmampu menjangkau kegiatan perdagangan konvensional, karena belum mencakup \nrepresentasi elektronik/digital dan tidak memberikan perlindungan yang semestinya \nkepada konsumen elektronik/digital sehingga menimbulkan kekosongan hukum dan \nbertentangan dengan UUD NRI Tahun 1945.  \n[3.12]  Menimbang bahwa berkenaan  dengan dalil para Pemohon a quo,\n \nmenurut Mahkamah, untuk menentukan perihal jangkauan norma suat u undang-\nundang, in casu  norma Pasal 9 ayat (1) UU 8/1999, hal mendasar yang harus \ndicermati adalah perbuatan yang diatur dalam undang-undang ters ebut, dalam \n\n54 \n \n \nkonteks permohonan a quo  adalah pihak yang memikul kewajiban, kepentingan \nyang hendak dilindungi, dan adanya keterkaitan dengan ketentuan lain. Berkenaan \ndengan hal tersebut, kegiatan “menawarkan, mempromosikan, dan m engiklankan” \ndalam norma Pasal 9 ayat (1) UU 8/1999 merupakan kegiatan pelak u usaha yang \nditujukan kepada konsumen mengenai promosi barang dan/atau jasa yang dijual, di \nmana norma a quo tidak mempersyaratkan kegiatan berlangsung secara tatap muka \n(konvensional) atau dengan menggunakan media cetak maupun siaran atau media \nelektronik atau digital lainnya. Dengan tidak adanya persyarata n tersebut dalam \nnorma Pasal 9 ayat (1) UU 8/1999, bukan berarti kegiatan penawaran, promosi, dan \npengiklanan melalui media elektronik/digital berada di luar jan gkauan norma. \nKarena jangkauan norma a quo  tetap harus dinilai dan dipahami dengan \nmemperhatikan pihak yang memikul kewajiban, yakni pelaku usaha wajib \nmemberikan informasi secara benar, jelas dan jujur, serta kepentingan yang hendak \ndilindungi, yakni konsumen sebagai pemegang hak atas informasi tersebut. Selain \nitu, norma a quo harus pula dibaca dan dipahami keterkaitan dengan ketentuan lain \ndalam UU 8/1999 dan dengan peraturan perundang-undangan lain ya ng mengatur \nmengenai perdagangan dan transaksi dengan sistem elektronik/digital. Oleh karena \nitu, jika terdapat pembatasan perihal kegiatan menawarkan, memp romosikan, dan \nmengiklankan dengan hanya menggunakan cara konvensional dalam m enfsirkan \nnorma Pasal 9 ayat (1) UU 8/1999, hal tersebut justru akan \nmempersempit/mengecualikan cakupan teks norma itu sendiri. Deng an demikian, \nketika suatu kegiatan yang dilakukan melalui media elektronik/d igital dan telah \nmemenuhi pengertian penawaran, promosi/pengiklanan, serta terda pat unsur \nketidakbenaran dan kategori larangan pada barang/jasa yang bers angkutan, \nkegiatan tersebut tetap dapat dinilai sebagaimana dimaksud dala m norma Pasal 9 \nayat (1) UU 8/1999.  \n[3.13]  Menimbang bahwa selain itu, kegiatan menawarkan, mempromosikan,  \ndan mengiklankan yang dilakukan pelaku usaha, dalam batas penalaran yang wajar, \nmenurut Mahkamah tidak dapat dilepaskan dari asas perlindungan konsumen dalam \nUU 8/1999 yang merupakan landasan pembentukan hubungan konsumsi  barang \ndan/atau jasa yang berorientasi pada manfaat, keadilan, keseimbangan, keamanan \ndan keselamatan konsumen, serta kepastian hukum [vide Pasal 2 U U 8/1999]. \nSejalan dengan asas tersebut, konsumen berhak memilih barang da n/atau jasa \n\n55 \n \n \nserta mendapatkannya sesuai dengan nilai tukar, kondisi, dan ja minan yang \ndijanjikan, sekaligus berhak memperoleh informasi yang benar, j elas, dan jujur \nmengenai kondisi dan jaminan barang dan/atau jasa [vide Pasal 4 huruf b dan huruf",
+      "start_line": 2124,
+      "end_line": 2218
+    },
+    {
+      "heading": "c UU 8/1999]. Dalam hal ini, hak tersebut berhubungan langsung dengan kewajiban",
+      "slug": "c-uu-8-1999-dalam-hal-ini-hak-tersebut-berhubungan-langsung-dengan-kewajiban",
+      "text": "pelaku usaha untuk menjalankan asas beritikad baik dalam menjal ankan kegiatan \nusaha, menyampaikan informasi secara benar, jelas, dan jujur ih wal kondisi serta \njaminan barang dan/atau jasa, memberikan penjelasan mengenai pe nggunaan, \nperbaikan, dan pemeliharaan, serta memperlakukan atau melayani konsumen \nsecara benar, jujur, dan tidak diskriminatif [vide Pasal 7 huruf a, huruf b, dan huruf c \nUU 8/1999]. Kewajiban tersebut menurut Mahkamah juga berlaku ketika penawaran \ndan transaksi dilakukan melalui sarana digital atau sistem elektronik. Ihwal tersebut, \npilihan penggunaan teknologi elektronik/digital sebagai media p erdagangan tidak \nmenghapus hak konsumen atas informasi maupun kewajiban pelaku u saha untuk \nmenyampaikan informasi secara benar, jelas, dan jujur. Dalam pe rdagangan \nmenggunakan sistem elektronik, pelaku usaha diwajibkan menyedia kan data \ndan/atau informasi secara lengkap dan benar serta dilarang memp erdagangkan \nbarang dan/atau jasa yang tidak sesuai dengan data dan/atau inf ormasi tersebut \n[vide Pasal 65 ayat (1) dan ayat (2) Undang-Undang Nomor 7 Tahu n 2014 tentang \nPerdagangan, selanjutnya disebut UU 7/2014]. Kewajiban tersebut  diperkuat oleh \nketentuan bahwa pelaku usaha yang menawarkan produk melalui sistem elektronik \nharus menyediakan informasi lengkap dan benar mengenai syarat k ontrak, \nprodusen, serta produk yang ditawarkan [vide Pasal 9 Undang-Und ang Nomor 11 \nTahun 2008 tentang Informasi dan Transaksi Elektronik (selanjut nya disebut UU \n11/2008) sebagaimana telah diubah terakhir dengan Undang-Undang  N o m o r  1  \nTahun 2024 Perubahan Kedua Atas Undang-Undang Nomor 11 Tahun 20 08 \nTentang Informasi dan Transaksi Elektronik, selanjutnya disebut  UU 1/2024]. Oleh \nkarena itu, menurut Mahkamah, kewajiban memberikan informasi se cara benar, \njelas, dan jujur dalam kegiatan penawaran, promosi, atau pengiklanan sebagaimana \nditentukan dalam norma Pasal 9 ayat (1) UU 8/1999 harus dibaca secara sistematis \ndengan ketentuan lain dalam UU 8/1999 dan undang-undang lainnya  yang terkait \nterutama dengan ketentuan perihal kewajiban kelengkapan dan keb enaran \ninformasi dalam perdagangan elektronik/digital, sehingga hak ko nsumen terhadap \ninformasi tetap dilindungi sejak tahap penawaran hingga pelaksa naan transaksi \ntanpa bergantung pada jenis media transaksi yang digunakan. Artinya, apapun jenis \n\n56 \n \n \natau bentuk media yang digunakan, pelaku usaha tetap terikat pa da kewajiban \nmenyampaikan informasi yang benar, jelas, dan jujur, termasuk m elalui sistem \nelektronik/digital. \n[3.14]  Menimbang bahwa  mengenai hubungan antar ketentuan sebagaimana \npertimbangan hukum pada Paragraf [3.13] tersebut di atas, menurut Mahkamah, \nperlindungan konsumen, baik yang dilakukan secara konvensional maupun secara \nelektronik/digital dari tahap pengenalan produk sampai pelaksanaan transaksi telah \ndisertai dengan hak atas kompensasi, ganti rugi, atau penggantian dan mekanisme \npenyelesaian sengketa sesuai ketentuan yang berlaku. Konsumen y ang dirugikan \ndapat memperjuangkan haknya melalui lembaga penyelesaian sengketa konsumen \natau peradilan berdasarkan kewenangan masing-masing. Pengaturan perdagangan \nelektronik juga membuka penyelesaian melalui pengadilan atau mekanisme lainnya, \ntermasuk dalam hal ini perlindungan yang diberikan oleh Undang-Undang Informasi \nDan Transaksi Elektronik yang memberikan dasar gugatan atas pen ggunaan \nteknologi atau penyelenggaraan sistem yang menimbulkan kerugian  [vide Pasal 4 \nhuruf h, Pasal 19 ayat (1) dan ayat (2), serta Pasal 45 ayat (1 ) dan ayat (2) UU \n8/1999; Pasal 65 ayat (5) UU 7/2014; serta Pasal 38 dan Pasal 3 9 UU 11/2008].  \nDengan demikian, menurut Mahkamah, frasa “menawarkan, mempromos ikan, \nmengiklankan” sebagaimana dimaktubkan dalam norma Pasal 9 ayat (1) UU 8/1999, \ntermasuk keseluruhan norma Pasal 9 ayat (1) UU 8/1999, apabila dibaca dalam \nkaitannya dengan ketentuan tersebut, tidaklah berdasar dan bera lasan dinilai telah \nmenimbulkan kekosongan hukum perlindungan konsumen elektronik/digital, karena \nlarangan penawaran, promosi, dan pengiklanan yang dilakukan sec ara tidak benar \ntetap berlaku sepanjang unsur normanya terpenuhi. Selain itu, n orma Pasal 9 ayat \n(1) UU 8/1999 juga tidak bersifat diskriminatif karena norma di maksud tidak \nmengecualikan konsumen berdasarkan media transaksi yang digunak an. \nKonsumen konvensional maupun elektronik/digital tetap memperole h perlindungan \natas informasi serta akses terhadap pemulihan sesuai ketentuan yang berlaku.  \nBerdasarkan uraian pertimbangan hukum di atas, menurut Mahkamah , dalil \npara Pemohon yang mempersoalkan perihal konstitusionalitas frasa “menawarkan, \nmempromosikan, mengiklankan” yang dimaktubkan dalam norma Pasal  9 ayat (1) \nUU 8/1999 bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun 1945 adalah \n\n57 \n \n \ndalil yang tidak berdasar, sehingga dalil tersebut harus dinyat akan tidak beralasan \nmenurut hukum. \n[3.15] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum di \natas, frasa “menawarkan, mempromosikan, mengiklankan” dalam nor ma P a sal 9 \nayat (1) UU 8/1999 telah ternyata memberikan jaminan perlindung an hukum yang \nadil dan perlakuan yang sama di hadapan hukum sebagaimana dijam in Pasal 28D \nayat (1) UUD NRI Tahun 1945, bukan sebagaimana yang didalilkan para Pemohon. \nDengan demikian, dalil para Pemohon adalah tidak beralasan menurut hukum untuk \nseluruhnya.  \n[3.16] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 2220,
+      "end_line": 2300
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 2302,
+      "end_line": 2302
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Para Pemohon memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3]  Permohonan para Pemohon tidak beralasan menurut hukum untuk \nseluruhnya. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076); \n \n\n58",
+      "start_line": 2304,
+      "end_line": 2322
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan para Pemohon untuk seluruhnya. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nDaniel Yusmic P . Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, \npada hari Kamis, tanggal delapan, bulan  Oktober, tahun dua ribu dua puluh \nenam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka  u n t uk  \numum pada hari  Kamis, tanggal lima belas, bulan Oktober, tahun dua ribu dua \npuluh enam, selesai diucapkan pukul  15.27 WIB, oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Dan iel Yusmic P. \nFoekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu \noleh Saiful Anwar sebagai Panitera Pengganti, serta dihadiri ol eh para Pemohon \ndan/atau kuasanya, Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden \natau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \n ANGGOTA-ANGGOTA, \nttd.  \nSaldi Isra \nttd.  \nDaniel Yusmic P. Foekh \nttd. \nM. Guntur Hamzah  \nttd. \nEnny Nurbaningsih \nttd.  \nRidwan Mansyur  \nttd. \nArsul Sani  \n\n59 \n \n \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nSaiful Anwar",
+      "start_line": 2324,
+      "end_line": 2367
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Sarah Rahayu",
+        "role": "Pemohon 1",
+        "description": null
+      },
+      {
+        "name": "Nurhaliza Zahra",
+        "role": "Pemohon 2",
+        "description": null
+      },
+      {
+        "name": "Livia Maulina",
+        "role": "Pemohon 3",
+        "description": null
+      },
+      {
+        "name": "Primo Putra Ramadhan",
+        "role": "Pemohon 4",
+        "description": null
+      },
+      {
+        "name": "Zalva Viola Munir",
+        "role": "Pemohon 5",
+        "description": null
+      },
+      {
+        "name": "Amelia Harditiya",
+        "role": "Pemohon 6",
+        "description": null
+      },
+      {
+        "name": "Muhamad Nabil Gunawan",
+        "role": "Pemohon 7",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pihak Terkait",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)",
+      "Pasal 4 ayat (2)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-15",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "BUKTI P-14",
+      "BUKTI P-13",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "REFERENSI:141/PUU-XXIV/2026",
+      "REFERENSI:139/PUU/PAN.MK/AP3/04/2026dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal15April2026denganPermohonanNomor141/PUU-3XXIV/2026",
+      "REFERENSI:2026/01/13/1134",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:8/1999harusdibacasecarasistematisdenganketentuanlaindalamUU8/1999"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan para Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Saiful Anwar"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "141/PUU-XXIV/2026",
+      "139/PUU/PAN.MK/AP3/04/2026dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal15April2026denganPermohonanNomor141/PUU-3XXIV/2026",
+      "2026/01/13/1134",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "8/1999harusdibacasecarasistematisdenganketentuanlaindalamUU8/1999"
+    ],
+    "referenced_cases": [
+      "141/PUU-XXIV/2026",
+      "139/PUU/PAN.MK/AP3/04/2026dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal15April2026denganPermohonanNomor141/PUU-3XXIV/2026",
+      "2026/01/13/1134",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "8/1999harusdibacasecarasistematisdenganketentuanlaindalamUU8/1999"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

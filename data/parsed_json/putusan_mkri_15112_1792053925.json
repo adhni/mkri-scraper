@@ -1,0 +1,1344 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_15112_1792053925.pdf",
+    "file_name": "putusan_mkri_15112_1792053925.pdf",
+    "page_count": 55,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15112_1792053925.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "341/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "001/PJP-SKK/09/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-10-15",
+    "decision_date_raw": "lima belas, bulan Oktober, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 341/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam permohonan Pengujian Undang-\nUndang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:  \n Nama : Rinto Setiyawan, A.Md.T., S.H.  \n Pekerjaan : Advokat dan Praktisi Hukum Perpajakan \nAlamat : Jalan Ikan Lodan Nomor 129, Lowokwaru \nBerdasarkan Surat Kuasa Khusus Nomor 001/PJP-SKK/09/2026, berta nggal 8 \nSeptember 2026 memberi kuasa kepada Sujono, S.E., S.H., Husnaf Rafli, S.H., \nS.I.Kom., M.H., dan Kahfi Permana, S.H., M.H.,  kesemuanya para Advokat dan \nKonsultan Hukum pada Firma Hukum Pancasila Justice & Partners, beralamat di \nJalan Ikan Piranha Atas Nomor 136, Tunjungsekar, Kecamatan Lowo kwaru, Kota \nMalang, Jawa Timur, baik bersama-sama atau sendiri-sendiri bert indak untuk dan \natas nama pemberi kuasa; \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon;",
+      "start_line": 6,
+      "end_line": 25
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n14 September 2026 yang diterima di Kepaniteraan Mahkamah Konsti tusi pada \ntanggal 14 September 2026 berdasarkan Akta Pengajuan Permohonan  Pemohon \nNomor 341/PUU/PAN.MK/ AP3/09/2026 dan telah dicatat dalam Buku R egistrasi \n\n\n2 \nPerkara Konstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 341/PUU-\nXXIV/2026 pada tanggal 14 September 2026, yang telah diperbaiki  dengan \nperbaikan permohonan bertanggal 28 September 2026 dan diterima Mahkamah \npada tanggal 2 Oktober 2026, pada pokoknya menerangkan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 27,
+      "end_line": 38
+    },
+    {
+      "heading": "1. Bahwa Pasal 24C ayat (1) Undang-Undang Dasar Negara Republik",
+      "slug": "1-bahwa-pasal-24c-ayat-1-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 pada pokoknya memberikan kewenangan kepada  \nMahkamah Konstitusi untuk mengadili pada tingkat pertama dan te rakhir \nyang putusannya bersifat final, antara lain untuk menguji undan g-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 19 45 \n(Bukti P-11);",
+      "start_line": 40,
+      "end_line": 44
+    },
+    {
+      "heading": "2. Bahwa Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 20 03",
+      "slug": "2-bahwa-pasal-10-ayat-1-huruf-a-undang-undang-nomor-24-tahun-20-03",
+      "text": "tentang Mahkamah Konstitusi sebagaimana telah beberapa kali diu bah, \nterakhir dengan Undang-Undang Nomor 7 Tahun 2020 (selanjutnya d isebut \n\"UU MK\"), menegaskan kewenangan Mahkamah Konstitusi untuk mengu ji \nundang-undang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945 (Bukti P-12);",
+      "start_line": 46,
+      "end_line": 50
+    },
+    {
+      "heading": "3. Bahwa Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48 Tahun 20 09",
+      "slug": "3-bahwa-pasal-29-ayat-1-huruf-a-undang-undang-nomor-48-tahun-20-09",
+      "text": "tentang Kekuasaan Kehakiman juga menegaskan bahwa Mahkamah \nKonstitusi berwenang mengadili pada tingkat pertama dan terakhi r yang \nputusannya bersifat final untuk menguji undang-undang terhadap Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 (Bukti P-25);",
+      "start_line": 52,
+      "end_line": 55
+    },
+    {
+      "heading": "4. Bahwa Pasal 9 ayat (1) Undang-Undang Nomor 12 Tahun 2011 tentan g",
+      "slug": "4-bahwa-pasal-9-ayat-1-undang-undang-nomor-12-tahun-2011-tentan-g",
+      "text": "Pembentukan Peraturan Perundang-undangan sebagaimana telah beberapa \nkali diubah, terakhir dengan Undang-Undang Nomor 1 Tahun 2026 t entang \nPenyesuaian Pidana (Lembaran Negara Republik Indonesia Tahun 20 26 \nNomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 7153 ), \nselanjutnya disebut \"UU P3\", menentukan bahwa dalam hal suatu u ndang-\nundang diduga bertentangan dengan Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945, pengujiannya dilakukan oleh Mahk amah \nKonstitusi (Bukti P-16);",
+      "start_line": 57,
+      "end_line": 64
+    },
+    {
+      "heading": "5. Bahwa Pasal 2 ayat (5) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025",
+      "slug": "5-bahwa-pasal-2-ayat-5-peraturan-mahkamah-konstitusi-nomor-7-tahun-2025",
+      "text": "tentang Tata Beracara dalam Perkara Pengujian Undang-Undang \n\n3 \n(selanjutnya disebut \"Peraturan MK 7/2025\") menentukan bahwa pe ngujian \nmateriil adalah pengujian yang berkenaan dengan materi muatan dalam ayat, \npasal, dan/atau bagian undang-undang atau Perppu yang dianggap \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945. Pasal 10 ayat (3) Peraturan MK 7/2025 selanjutnya \nmenempatkan kewenangan Mahkamah sebagai bagian pertama yang harus \ndiuraikan dalam permohonan (Bukti P-13);",
+      "start_line": 66,
+      "end_line": 75
+    },
+    {
+      "heading": "6. Bahwa objek pengujian materiil dalam Permohonan a quo adalah frasa \"diatur",
+      "slug": "6-bahwa-objek-pengujian-materiil-dalam-permohonan-a-quo-adalah-frasa-diatur",
+      "text": "dengan atau berdasarkan Peraturan Menteri Keuangan\" pada bagian  \npenutup Pasal 44E ayat (2), sepanjang frasa tersebut berlaku terhadap materi \n\"kompetensi tertentu yang harus dimiliki seorang kuasa sebagaim ana \ndimaksud dalam Pasal 32 ayat (3a)\" dalam Pasal 44E ayat (2) hur uf e, \nsebagaimana dimuat dalam Pasal 2 angka 19 Undang-Undang Nomor 7  \nTahun 2021 tentang Harmonisasi Peraturan Perpajakan (Lembaran N egara \nRepublik Indonesia Tahun 2021 Nomor 246, Tambahan Lembaran Nega ra \nRepublik Indonesia Nomor 6736) terhadap Undang-Undang Dasar Neg ara \nRepublik Indonesia Tahun 1945. Dengan demikian, frasa a quo merupakan \nmateri muatan undang-undang yang menjadi objek pengujian materi il dalam \nkewenangan Mahkamah Konstitusi.",
+      "start_line": 77,
+      "end_line": 87
+    },
+    {
+      "heading": "7. Bahwa berdasarkan seluruh uraian tersebut, oleh karena objek ya ng",
+      "slug": "7-bahwa-berdasarkan-seluruh-uraian-tersebut-oleh-karena-objek-ya-ng",
+      "text": "dimohonkan pengujian merupakan norma undang-undang terhadap Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, Mahkamah \nKonstitusi berwenang memeriksa, mengadili, dan memutus Permohon an a \nquo. \nII. KEDUDUKAN HUKUM (LEGAL STANDING) PEMOHON \nA. Kualifikasi Pemohon",
+      "start_line": 89,
+      "end_line": 94
+    },
+    {
+      "heading": "1. Bahwa berdasarkan Pasal 51 ayat (1) huruf a Undang-Undang No mor 24",
+      "slug": "1-bahwa-berdasarkan-pasal-51-ayat-1-huruf-a-undang-undang-no-mor-24",
+      "text": "Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah beberapa kali \ndiubah, terakhir dengan Undang-Undang Nomor 7 Tahun 2020 (selan jutnya \ndisebut \"UU MK\"), juncto Pasal 4 ayat (1) huruf a Peraturan Mahkamah \nKonstitusi Nomor 7 Tahun 2025 tentang Tata Beracara dalam Perka ra \nPengujian Undang-Undang, pihak yang dapat mengajukan permohonan  \npengujian undang-undang antara lain adalah perorangan warga neg ara \n\n4 \nIndonesia yang menganggap hak konstitusionalnya dirugikan oleh \nberlakunya undang-undang. Pemohon merupakan perorangan warga negara \nIndonesia sebagaimana dibuktikan dengan kartu tanda penduduk (B ukti P-\n1);",
+      "start_line": 96,
+      "end_line": 107
+    },
+    {
+      "heading": "2. Bahwa Penjelasan Pasal 51 ayat (1) UU MK menyatakan bahwa ya ng",
+      "slug": "2-bahwa-penjelasan-pasal-51-ayat-1-uu-mk-menyatakan-bahwa-ya-ng",
+      "text": "dimaksud dengan \"hak konstitusional\" adalah hak-hak yang diatur  d a l a m  \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+      "start_line": 109,
+      "end_line": 110
+    },
+    {
+      "heading": "3. Bahwa Pemohon merupakan Wajib Pajak orang pribadi yang terda ftar pada",
+      "slug": "3-bahwa-pemohon-merupakan-wajib-pajak-orang-pribadi-yang-terda-ftar-pada",
+      "text": "Direktorat Jenderal Pajak. Kedudukan tersebut dibuktikan dengan  K a r t u  \nNomor Pokok Wajib Pajak atas nama Rinto Setiyawan (Bukti  P-29) ,  Bukti  \nPenerimaan  Elektronik  Nomor  BPE-51957/CT/KPP.1201/2026 tangg al 31 \nMaret 2026 atas penyampaian Surat Pemberitahuan Tahunan Pajak \nPenghasilan Wajib Pajak Orang Pribadi Tahun Pajak 2025 (Bukti P-30), serta \nbukti pembayaran pajak melalui Modul Penerimaan Negara tanggal 31 Maret \n2026 sebesar Rp45.586.150,00 yang memuat Kode Billing Nomor \n041833014541655 dan Nomor Transaksi Penerimaan Negara Nomor \n358094F9GKSTIFAN (Bukti P-31). Ketiga dokumen tersebut menunjuk kan \nbahwa Pemohon secara aktual melaksanakan kewajiban pelaporan da n \npembayaran pajak;",
+      "start_line": 112,
+      "end_line": 122
+    },
+    {
+      "heading": "4. Bahwa dalam Putusan Mahkamah Konstitusi Nomor 22/PUU-Xll/201 4,",
+      "slug": "4-bahwa-dalam-putusan-mahkamah-konstitusi-nomor-22-puu-xll-201-4",
+      "text": "Mahkamah pada pokoknya menyatakan bahwa warga masyarakat pembayar \npajak (taxpayers) dipandang mempunyai kepentingan sebagaimana \ndimaksud dalam Pasal 51 UU MK, sejalan dengan adagium no taxation \nwithout participation dan no participation without tax (Bukti P-28). Dalam \nPermohonan a quo , keterkaitan Pemohon dengan frasa yang diuji tidak \nberhenti pada statusnya sebagai pembayar pajak. Pemohon telah menunjuk \nKahfi Permana melalui Surat Kuasa Khusus untuk melaksanakan tin dakan \nperpajakan tertentu (Bukti P-33), sedangkan frasa a quo, dalam batas objek \npengujian ini, mendelegasikan pengaturan mengenai kompetensi pe nerima \nkuasa yang telah ditunjuk tersebut. Oleh karena itu, Pernohon \nberkepentingan atas kepastian batas kewenangan pengaturan menge nai \nkompetensi penerima kuasa. Status sebagai pembayar pajak memper kuat \nkedudukan hukum Pemohon dalam hubungan penunjukan kuasa yang telah \nada;  \n\n5",
+      "start_line": 124,
+      "end_line": 139
+    },
+    {
+      "heading": "5. Bahwa sebagai Wajib Pajak orang pribadi, Pemohon mempunyai h ak",
+      "slug": "5-bahwa-sebagai-wajib-pajak-orang-pribadi-pemohon-mempunyai-h-ak",
+      "text": "berdasarkan Pasal 32 ayat (3) UU KUP untuk menunjuk seorang kua sa \ndengan surat kuasa khusus guna menjalankan hak dan memenuhi kewajiban \nperpajakannya. Hak tersebut ditegaskan kembali dalam Pasal 51 a yat (1) \nPeraturan Pemerintah Nomor 50 Tahun 2022, sedangkan Pasal 51 ay at (3) \nmenentukan bahwa seorang kuasa harus mempunyai kompetensi terte ntu \ndalam aspek perpajakan (Bukti P-14 dan Bukti P-24);",
+      "start_line": 141,
+      "end_line": 146
+    },
+    {
+      "heading": "6. Bahwa hubungan Pemohon sebagai Wajib Pajak dengan frasa a quo tidak",
+      "slug": "6-bahwa-hubungan-pemohon-sebagai-wajib-pajak-dengan-frasa-a-quo-tidak",
+      "text": "bersifat abstrak. Pada tanggal 1 Agustus 2026, Pemohon mengadak an \nPerjanjian Kerja Sama Jasa Admin istrasi dan Pelaporan Perpajaka n Nomor \n011/PKS-RS-KPNlll/2026 dengan Kahfi Permana. Perjanjian tersebut berlaku \nsejak tanggal 1 Agustus 2026 sampai dengan tanggal 1 Agustus 20 27 dan \nmencakup penataan dokumen, pengolahan data, penyiapan laporan, \npemantauan tenggat, serta penugasan khusus untuk menyiapkan, me ngisi, \nmemeriksa, dan menyampaikan Surat Pemberitahuan Tahunan (Bukti P-32);",
+      "start_line": 148,
+      "end_line": 154
+    },
+    {
+      "heading": "7. Bahwa pada tanggal 1 Agustus 2026 Pemohon juga telah menggun akan",
+      "slug": "7-bahwa-pada-tanggal-1-agustus-2026-pemohon-juga-telah-menggun-akan",
+      "text": "haknya untuk menunjuk kuasa dengan memberikan Surat Kuasa Khusu s \nWajib Pajak Orang Pribadi Nomor SKK-011/KHNll1/2026 kepada Adv.  Kahfi \nPermana, S.H., M.H., untuk melaksanakan hak dan/atau memenuhi \nkewajiban perpajakan berkenaan dengan Pajak Penghasilan Orang P ribadi \nTahun Pajak 2026, termasuk penyiapan, pengisian, penyampaian, d an \npembetulan Surat Pemberitahuan serta tindakan administratif lai n yang \nberkaitan langsung dengan ruang lingkup kuasa tersebut. Surat K uasa \nKhusus tersebut berlaku sejak tanggal 1 Agustus 2026 sampai den gan \ntanggal 1 Agustus 2027 (Bukti P-33);",
+      "start_line": 156,
+      "end_line": 164
+    },
+    {
+      "heading": "8. Bahwa Kahfi Permana dinyatakan lulus Pelatihan Pajak Terapan Brevet A &",
+      "slug": "8-bahwa-kahfi-permana-dinyatakan-lulus-pelatihan-pajak-terapan-brevet-a",
+      "text": "B Angkatan Ke-26 yang diselenggarakan oleh Makui Tax Institute pada \nperiode 10 September 2023 sampai dengan 10 Desember 2023, \nsebagaimana dibuktikan dengan Sertifikat yang mencantumkan Nomo r \nPeserta MTI-BR/AB/I/2024/3132, diterbitkan di Bekasi pada tanggal 5 Januari \n2024, dengan NPSN lembaga K9990004 (Bukti P-34). Sertifikat ter sebut \ndiajukan sebagai bukti bahwa penerima kuasa telah mengikuti dan  lulus \npelatihan perpajakan yang kompetensinya dapat dicatat, diperiks a, dan \ndiverifikasi secara administratif, bukan untuk meminta Mahkamah  \n\n6 \nmenetapkan bahwa sertifikat tersebut dengan sendirinya memenuhi  seluruh \npersyaratan untuk menerima penunjukan sebagai kuasa;",
+      "start_line": 166,
+      "end_line": 177
+    },
+    {
+      "heading": "9. Bahwa Perjanjian Kerja Sama dan Surat Kuasa Khusus tersebut merupakan",
+      "slug": "9-bahwa-perjanjian-kerja-sama-dan-surat-kuasa-khusus-tersebut-merupakan",
+      "text": "satu rangkaian hubungan hukum yang telah dibentuk. Perjanjian menetapkan \npekerjaan administrasi dan pelaporan perpajakan yang berlangsun g sejak \ntanggal 1 Agustus 2026 sampai dengan tanggal 1 Agustus 2027, sedangkan \nSurat Kuasa Khusus menetapkan penerima kuasa, jenis pajak, Tahun Pajak \n2026, serta tindakan yang dikuasakan, yaitu penyiapan, pengisia n, \npenyampaian, dan apabila diperlukan pembetulan Surat Pemberitah uan \nPajak Penghasilan Orang Pribadi. Dengan demikian, relevansi tan ggal 1 \nAgustus 2027 terletak pada kelanjutan pekerjaan dan pelaksanaan  kuasa \nyang telah ditentukan serta sedang berlangsung, bukan pada kemu ngkinan \ndibuatnya penugasan atau Surat Kuasa Khusus baru;",
+      "start_line": 179,
+      "end_line": 188
+    },
+    {
+      "heading": "10. Bahwa selain berkedudukan sebagai Wajib Pajak, Pemohon berp rofesi",
+      "slug": "10-bahwa-selain-berkedudukan-sebagai-wajib-pajak-pemohon-berp-rofesi",
+      "text": "sebagai advokat yang telah diambil sumpahnya di hadapan Pengadi lan \nTinggi dan memiliki kartu tanda anggota advokat yang masih berl aku \nsebagaimana dibuktikan dengan Bukti P-2 dan Bukti P-3. Pemohon juga \nmerupakan praktisi hukum perpajakan yang memiliki Sertifikat Br evet AB \nsebagaimana dibuktikan dengan Bukti P-6 serta Kartu lzin Kuasa Hukum \nPerpajakan Nomor KHP-04256 yang berlaku sampai dengan tanggal 9  April \n2028 sebagaimana dibuktikan dengan Bukti P-4;",
+      "start_line": 190,
+      "end_line": 196
+    },
+    {
+      "heading": "11. Bahwa Pemohon memiliki kompetensi dalam bidang perpajakan serta secara",
+      "slug": "11-bahwa-pemohon-memiliki-kompetensi-dalam-bidang-perpajakan-serta-secara",
+      "text": "nyata menerima penunjukan dan menjalankan pemberian jasa \npendampingan perpajakan. Kompetensi tersebut dibuktikan dengan Sertifikat \nBrevet AB (Bukti P-6), sedangkan hubungan profesional konkret d ibuktikan \ndengan Surat Kuasa Khusus dari PT Matahari Surya Mitra Pangan d an \nPerjanjian Pemberian Jasa Pendampingan dan Kuasa di Bidang Perpajakan \nyang berlaku sampai dengan tanggal 30 April 2027 (Bukti P-9 dan  Bukti P-\n10). Fakta tersebut tidak dimaksudkan untuk menyamakan rezim kuasa pada \ntahapan administratif perpajakan dengan rezim kuasa hukum pada \nPengadilan Pajak;",
+      "start_line": 198,
+      "end_line": 206
+    },
+    {
+      "heading": "12. Bahwa berdasarkan seluruh uraian tersebut, kedudukan hukum Pemohon",
+      "slug": "12-bahwa-berdasarkan-seluruh-uraian-tersebut-kedudukan-hukum-pemohon",
+      "text": "dibangun dalam dua kapasitas yang saling berkaitan, yaitu sebag ai Wajib \n\n7 \nPajak yang mempunyai hak untuk menunjuk kuasa dan sebagai prakt isi \nhukum perpajakan yang secara konkret berkepentingan untuk mener ima \npenunjukan serta menjalankan pekerjaan sebagai kuasa. Kepenting an \nPemohon untuk menerima penunjukan dan menjalankan pekerjaan seb agai \nkuasa bertumpu pada kapasitas profesional Pemohon serta hak \nkonstitusional yang dijamin dalam Pasal 28D ayat (1) dan Pasal 27 ayat (2) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945; \nB. Hak Konstitusional Pemohon",
+      "start_line": 208,
+      "end_line": 218
+    },
+    {
+      "heading": "1. Bahwa Pemohon memiliki hak konstitusional untuk memperoleh p engakuan,",
+      "slug": "1-bahwa-pemohon-memiliki-hak-konstitusional-untuk-memperoleh-p-engakuan",
+      "text": "jaminan, perlindungan, dan kepastian hukum yang adil sebagaimana dijamin \ndalam Pasal 28D ayat (1) Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945. Dalam konteks Permohonan a quo, hak tersebut mencakup hak \nPemohon untuk mengetahui secara pasti batas kewenangan pengatur an \nlebih lanjut mengenai kompetensi tertentu yang harus dimiliki seorang kuasa, \nbaik dalam kapasitas Pemohon sebagai Wajib Pajak yang telah men unjuk \nkuasa maupun sebagai praktisi hukum perpajakan yang menerima \npenunjukan sebagai kuasa;",
+      "start_line": 220,
+      "end_line": 227
+    },
+    {
+      "heading": "2. Bahwa Pemohon juga memiliki hak konstitusional sebagai warga negara atas",
+      "slug": "2-bahwa-pemohon-juga-memiliki-hak-konstitusional-sebagai-warga-negara-atas",
+      "text": "pekerjaan dan penghidupan yang layak bagi kemanusiaan sebagaima na \ndijamin dalam Pasal 27 ayat (2) Undang-Undang Dasar Negara Repu blik \nIndonesia Tahun 1945. Hak tersebut tidak dimaknai sebagai hak u ntuk \nterbebas dari standar kompetensi atau pengaturan profesi ataupu n sebagai \nhak mutlak untuk bertindak sebagai kuasa, melainkan sebagai hak  a g a r  \nsetiap persyaratan yang berdampak substantif terhadap akses Pem ohon \nuntuk menerima penunjukan dan menjalankan pekerjaan sebagai kua sa \nmemiliki dasar, parameter, dan b atas kewenangan yang memadai da lam \nundang-undang; \nC. Pemenuhan Lima Syarat Kerugian Konstitusional \nBahwa berdasarkan Pasal 51 ayat (1) UU MK, Putusan Mahkamah Konstitusi \nNomor 006/PUU-111/2005, Putusan Mahkamah Konstitusi Nomor 11/PU U-\nV/2007, dan Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi Nomor 7 Tahun \n2025, kerugian hak konstitusional harus memenuhi lima syarat ku mulatif \nsebagai berikut (Bukti P-12, Bukti P-13, Bukti P-18, dan Bukti P-19): \n\n8",
+      "start_line": 229,
+      "end_line": 245
+    },
+    {
+      "heading": "1. adanya hak dan/atau kewenangan konstitusional Pemohon yang",
+      "slug": "1-adanya-hak-dan-atau-kewenangan-konstitusional-pemohon-yang",
+      "text": "diberikan oleh Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945;",
+      "start_line": 247,
+      "end_line": 248
+    },
+    {
+      "heading": "2. hak dan/atau kewenangan konstitusional Pemohon tersebut dirugik an",
+      "slug": "2-hak-dan-atau-kewenangan-konstitusional-pemohon-tersebut-dirugik-an",
+      "text": "oleh berlakunya undang-undang atau Peraturan Pemerintah Penggan ti \nUndang-Undang yang dimohonkan pengujian;",
+      "start_line": 250,
+      "end_line": 251
+    },
+    {
+      "heading": "3. kerugian konstitusional dimaksud bersifat spesifik atau khusus dan aktual",
+      "slug": "3-kerugian-konstitusional-dimaksud-bersifat-spesifik-atau-khusus-dan-aktual",
+      "text": "atau setidak-tidaknya potensial yang menurut penalaran yang waj ar \ndapat dipastikan akan terjadi;",
+      "start_line": 253,
+      "end_line": 254
+    },
+    {
+      "heading": "4. adanya hubungan sebab-akibat antara kerugian konstitusional dan",
+      "slug": "4-adanya-hubungan-sebab-akibat-antara-kerugian-konstitusional-dan",
+      "text": "berlakunya undang-undang atau Peraturan Pemerintah Pengganti \nUndang-Undang yang dimohonkan pengujian; dan",
+      "start_line": 256,
+      "end_line": 257
+    },
+    {
+      "heading": "5. adanya kemungkinan bahwa dengan dikabulkannya Permohonan,",
+      "slug": "5-adanya-kemungkinan-bahwa-dengan-dikabulkannya-permohonan",
+      "text": "kerugian konstitusional sebagaimana didalilkan tidak lagi atau tidak akan \nterjadi. \nBahwa seluruh pemenuhan lima syarat kerugian konstitusional di bawah ini \nsecara eksklusif diletakkan pada akibat hukum berlakunya frasa a quo, yaitu \nterbukanya pendelegasian mengenai kompetensi kuasa tanpa batas dan \nparameter yang memadai pada tingkat undang-undang. Pemenuhan ke lima \nsyarat tersebut diuraikan dalam dua lapis yang saling berkaitan: lapis pertama \ndan utama adalah kapasitas Pemohon sebagai advokat dan praktisi  hukum \nperpajakan yang menerima penunjukan sebagai kuasa; lapis kedua adalah \nkapasitas Pemohon sebagai Wajib Pajak yang mempunyai hak berdasarkan \nundang-undang untuk menunjuk kuasa.",
+      "start_line": 259,
+      "end_line": 269
+    },
+    {
+      "heading": "1. Adanya hak dan/atau kewenangan konstitusional Pemohon yang",
+      "slug": "1-adanya-hak-dan-atau-kewenangan-konstitusional-pemohon-yang",
+      "text": "diberikan oleh Undang-Undang Casar Negara Republik Indonesia Tahun \n1945; \na. Bahwa Pemohon memiliki hak konstitusional atas pengakuan, ja minan, \nperlindungan, dan kepastian hukum yang adil sebagaimana dijamin  \ndalam Pasal 280 ayat (1) Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 serta hak atas pekerjaan dan penghidupan y ang \nlayak bagi kemanusiaan sebagaimana dijamin dalam Pasal 27 ayat (2) \n\n9 \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 (Bukti P-\n11); \nb. Bahwa dalam lapis profesi, kedua hak konstitusional tersebut  melindungi \nkepentingan Pemohon untuk mengetahui secara pasti dasar, ruang \nlingkup, dan batas persyaratan yang menentukan kelayakannya \nmenerima penunjukan serta menjalankan pekerjaan sebagai kuasa. \nPemohon tidak mendalilkan hak untuk menerima penunjukan tanpa \nkompetensi, melainkan hak agar pembatasan yang berakibat substa ntif \nterhadap akses menjalankan pekerjaan mempunyai dasar dan parameter \nyang dapat diketahui dari undang-undang;",
+      "start_line": 271,
+      "end_line": 289
+    },
+    {
+      "heading": "c. Bahwa dalam lapis Wajib Pajak, Pasal 32 ayat (3) UU KUP memb erikan",
+      "slug": "c-bahwa-dalam-lapis-wajib-pajak-pasal-32-ayat-3-uu-kup-memb-erikan",
+      "text": "hak kepada Pemohon untuk menunjuk seorang kuasa guna menjalankan \nhak dan memenuhi kewajiban perpajakannya. Hak berdasarkan undang-\nundang tersebut bukan didalilkan sebagai hak konstitusional yang berdiri \nsendiri, melainkan sebagai locus konkret berlakunya jaminan kepastian \nhukum yang adil berdasarkan Pasal 28D ayat (1) Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945, yaitu kepastian mengenai pihak \nyang secara sah dapat dipilih dan ditunjuk sebagai kuasa;",
+      "start_line": 291,
+      "end_line": 297
+    },
+    {
+      "heading": "d. Bahwa hak konstitusional tersebut berhubungan langsung denga n frasa",
+      "slug": "d-bahwa-hak-konstitusional-tersebut-berhubungan-langsung-denga-n-frasa",
+      "text": "a quo karena frasa a quo menyerahkan pengaturan lebih lanjut mengenai \nkompetensi kuasa tanpa menegaskan batas antara pembuktian dan \nverifikasi kompetensi dengan pembentukan persyaratan tambahan y ang \nsecara mandiri menentukan kelayakan  menerima  penunjukan.  Dengan  \ndemikian,  hak konstitusional Pemohon yang dijamin oleh Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 berada dalam \nruang pengaturan yang secara langsung dibentuk oleh frasa a quo;",
+      "start_line": 299,
+      "end_line": 305
+    },
+    {
+      "heading": "2. Hak konstitusional Pemohon dirugikan oleh berlakunya frasa a quo;",
+      "slug": "2-hak-konstitusional-pemohon-dirugikan-oleh-berlakunya-frasa-a-quo",
+      "text": "a. Bahwa frasa a quo, sepanjang berlaku terhadap materi kompetensi kuasa \ndalam Pasal 44E ayat (2) huruf e, mendelegasikan pengaturan leb ih \nlanjut mengenai kompetensi yang harus dimiliki seorang kuasa. Meskipun \nPasal 32 ayat (3a) beserta Penjelasannya telah menyebut kewajib an \nkompetensi dan beberapa contohnya, frasa a quo  tidak menetapkan \nbatas yang memadai antara pengadministrasian kompetensi tersebut dan \n\n10 \npembentukan kriteria atau akibat hukum tambahan yang secara man diri \nmenentukan kelayakan menerima penunjukan;  \nb. Bahwa ketiadaan batas tersebut membuka dua kemungkinan \npemaknaan yang berbeda. Pertama, kewenangan delegatif hanya \nmencakup pencatatan, pembuktian, pemeriksaan, dan verifikasi at as \nkompetensi yang telah ditentukan atau diberikan parameter secar a \nmemadai oleh undang-undang. Kedua, kewenangan delegatif dimakna i \nmencakup pembentukan kriteria kompetensi atau akibat hukum \ntambahan yang tidak ditentukan dan tidak diberikan batas serta \nparameter yang memadai oleh undang-undang sehingga suatu status  \nadministratif secara mandiri menjadi sumber lahir atau hilangny a \nkelayakan seseorang menerima penunjukan sebagai kuasa. \nKemungkinan kedua itulah yang dalam Permohonan ini disebut seba gai \nfungsi konstitutif dan tidak mencakup setiap dokumen, pendaftaran, izin, \natau persyaratan administratif yang diwajibkan;",
+      "start_line": 307,
+      "end_line": 329
+    },
+    {
+      "heading": "c. Bahwa dalam lapis profesi, berlakunya frasa a quo menyebabkan",
+      "slug": "c-bahwa-dalam-lapis-profesi-berlakunya-frasa-a-quo-menyebabkan",
+      "text": "Pemohon tidak dapat menentukan secara pasti dari undang-undang \napakah kompetensi, pendidikan, sertifikasi, dan pengalaman yang  \ndimilikinya cukup untuk menerima penunjukan, atau masih dapat \ndigantungkan pada status atau persyaratan tambahan yang materi \nesensialnya tidak ditentukan dalam undang-undang. Ketidakpastia n \ntersebut merugikan hak Pemohon atas kepastian hukum yang adil d an \nmenempatkan kesempatan menjalankan pekerjaan sebagai kuasa pada  \nbatas delegasi yang tidak pasti;",
+      "start_line": 331,
+      "end_line": 338
+    },
+    {
+      "heading": "d. Bahwa dalam lapis Wajib Pajak, berlakunya frasa a quo menyebabkan",
+      "slug": "d-bahwa-dalam-lapis-wajib-pajak-berlakunya-frasa-a-quo-menyebabkan",
+      "text": "Pemohon tidak dapat mengetahui secara pasti dari undang-undang \napakah ia dapat menunjuk pihak yang telah mempunyai kompetensi \ndalam aspek perpajakan atau apakah pilihan tersebut masih dapat  \ndipersempit oleh status atau persyaratan tambahan yang memperol eh \nfungsi konstitutif. Kerugian pada kedua lapis tersebut lahir da ri \nketidakpastian yang terkandung dalam frasa a quo. \n\n11",
+      "start_line": 340,
+      "end_line": 347
+    },
+    {
+      "heading": "3. Kerugian konstitusional Pemohon bersifat spesifik dan aktual at au",
+      "slug": "3-kerugian-konstitusional-pemohon-bersifat-spesifik-dan-aktual-at-au",
+      "text": "setidak-tidaknya potensial yang menurut penalaran wajar dapat \ndipastikan akan terjadi; \na. Bahwa kerugian Pemohon bersifat spesifik karena frasa a quo  \nmenjangkau dua hubungan hukum yang telah ada. Dalam lapis profe si, \nPemohon merupakan advokat dan praktisi hukum perpajakan yang \nmemiliki Kartu Anggota Advokat, Berita Acara Sumpah Advokat, Ka rtu \nlzin Kuasa Hukum Perpajakan yang masih berlaku, serta Sertifikat Brevet \nAB, dan telah menerima penunjukan serta menjalankan hubungan \npemberian jasa sebagai kuasa sampai dengan tanggal 30 April 202 7 \n(Bukti P-2, Bukti P-3, Bukti P-4 , Bukti P-6, Bukti P-9, dan Buk ti P-10). \nDalam lapis Wajib Pajak, Pemohon telah mengadakan Perjanjian Ke rja \nSama dan memberikan Surat Kuasa Khusus kepada Kahfi Permana \nuntuk melaksanakan tindakan perpajakan berkenaan dengan Pajak \nPenghasilan Orang Pribadi Tahun Pajak 2026, dalam hubungan huku m \nyang berlaku sampai dengan tanggal 1 Agustus 2027 (Bukti P-32 d an \nBukti P-33); \nb. Bahwa kerugian terhadap hak Pemohon atas kepastian hukum yan g adil \ndidalilkan telah bersifat aktual karena frasa a quo  t e l a h  b e r l a k u  d a n  \nPemohon saat ini berada dalam dua hubungan hukum yang terkait \nlangsung dengan kompetensi kuasa: Pemohon telah menerima \npenunjukan sebagai kuasa dan telah menunjuk seorang kuasa untuk  \nkepentingan perpajakannya sendiri. Dalam kedua kapasitas terseb ut, \nPemohon tidak dapat mengetahui secara pasti dari undang-undang batas \nantara kewenangan untuk mencatat, membuktikan, memeriksa, dan \nmemverifikasi kompetensi yang unsur dan batasnya telah ditentukan atau \ndiberikan parameter secara memadai oleh undang-undang dengan \nkewenangan untuk membentuk kriteria kompetensi atau akibat huku m \ntambahan yang tidak ditentukan dan tidak diberikan batas serta \nparameter yang memadai oleh undang-undang sehingga suatu status  \nadministratif secara mandiri menjadi sumber lahir atau hilangny a \nkelayakan seseorang menerima penunjukan sebagai kuasa. \nKetidakpastian mengenai batas kewenangan yang diberikan oleh frasa a \nquo itulah kerugian aktual yang didalilkan Pemohon;  \n\n12",
+      "start_line": 349,
+      "end_line": 383
+    },
+    {
+      "heading": "c. Bahwa dalam lapis profesi, ketidakpastian tersebut mengenai kelayakan",
+      "slug": "c-bahwa-dalam-lapis-profesi-ketidakpastian-tersebut-mengenai-kelayakan",
+      "text": "Pemohon untuk melaksanakan penunjukan sebagai kuasa PT Matahari  \nSurya Mitra Pangan dalam hubungan pemberian jasa yang masih \nberlangsung sampai dengan tanggal 30 April 2027. Pemohon telah \nmemiliki kompetensi dan telah menerima penunjukan, tetapi frasa a quo \ntidak memberikan batas serta parameter yang memadai untuk \nmenentukan dari undang-undang apakah kompetensi Pemohon cukup \ndicatat, dibuktikan, diperiksa, dan diverifikasi secara adminis tratif, atau \nkelayakannya untuk menerima dan melaksanakan penunjukan masih \ndapat ditentukan secara mandiri oleh suatu status administratif  \nberdasarkan kriteria kompetensi atau akibat hukum tambahan. Den gan \ndemikian, ketidakpastian yang didalilkan berkaitan dengan penun jukan \ndan pekerjaan Pemohon yang sedang berlangsung, serta menjangkau  \njaminan kepastian hukum yang adil dan kepentingannya untuk \nmenjalankan pekerjaan sebagai kuasa;",
+      "start_line": 385,
+      "end_line": 398
+    },
+    {
+      "heading": "d. Bahwa dalam lapis Wajib Pajak, ketidakpastian tersebut menya ngkut",
+      "slug": "d-bahwa-dalam-lapis-wajib-pajak-ketidakpastian-tersebut-menya-ngkut",
+      "text": "kelayakan Kahfi Permana, yang telah dipilih dan ditunjuk Pemoho n \nmelalui Surat Kuasa Khusus untuk tindakan perpajakan berkenaan \ndengan Pajak Penghasilan Orang Pribadi Tahun Pajak 2026. Perjan jian \njasa dan Surat Kuasa Khusus tersebut berlaku sampai dengan tanggal 1 \nAgustus 2027 (Bukti P-32 dan Bukti P-33). Pemohon memerlukan \nkepastian apakah kompetensi penerima kuasa dinilai dalam batas kriteria \nyang mempunyai dasar dan parameter memadai dalam undang-undang, \natau kelayakannya masih dapat ditentukan secara mandiri oleh st atus \nadministratif yang dibentuk berdasarkan kriteria atau akibat hu kum \ntambahan yang tidak ditentukan dan tidak diberikan batas serta \nparameter yang memadai oleh undang-undang. Dengan demikian, \nkerugian aktual yang didalilkan adalah ketidakpastian batas del egasi \ndalam hubungan hukum yang telah ada, sedangkan hambatan terhada p \npelaksanaan kuasa merupakan kerugian potensial;",
+      "start_line": 400,
+      "end_line": 413
+    },
+    {
+      "heading": "4. Adanya hubungan sebab-akibat (causal verband) antara kerugian",
+      "slug": "4-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian",
+      "text": "konstitusional Pemohon dan berlakunya frasa a quo; \na. Bahwa kerugian konstitusional yang didalilkan Pemohon bukan berupa \npenolakan berdasarkan Surat Keterangan Terdaftar ataupun akibat  \n\n13 \nlangsung dari pembekuan atau pencabutan suatu dokumen administratif. \nKerugian tersebut berupa ketidakpastian hukum pada tingkat unda ng-\nundang mengenai batas materi kompetensi kuasa yang dapat diatur lebih \nlanjut berdasarkan frasa a quo. Oleh karena itu, hubungan sebab-akibat \ntidak bergantung pada adanya penyebutan Surat Keterangan Terdaf tar \natau penolakan terhadap Pemohon di dalam Pasal 44E ayat (2); \nb. Bahwa kerugian tersebut secara normatif dapat diatribusikan kepada \nfrasa a quo karena frasa itu merupakan sumber kewenangan pengaturan \nlebih lanjut mengenai kompetensi kuasa, tetapi tidak menentukan apakah \nkewenangan yang didelegasikan hanya mencakup pencatatan, \npembuktian, pemeriksaan, dan verifikasi atas kompetensi yang te lah \nditentukan atau diberikan parameter secara memadai oleh undang-\nundang, atau juga mencakup pembentukan kriteria kompetensi dan \nakibat hukum tambahan yang secara mandiri menentukan kelayakan \nseseorang menerima penunjukan sebagai kuasa. Hubungan kausal yang \ndidalilkan dengan demikian tidak terletak pada keberadaan deleg asi \nsemata, melainkan pada keterbukaan batas materi kewenangan yang  \ndidelegasikan;",
+      "start_line": 415,
+      "end_line": 437
+    },
+    {
+      "heading": "c. Bahwa keterbukaan tersebut secara konkret menjangkau Pemohon .",
+      "slug": "c-bahwa-keterbukaan-tersebut-secara-konkret-menjangkau-pemohon",
+      "text": "Dalam lapis profesi, Pemohon sedang menjalankan hubungan pemberian \njasa dan penunjukan sebagai kuasa yang masih berlaku. Dalam lap is \nWajib Pajak, Pemohon telah memilih dan menunjuk penerima kuasa \nuntuk melaksanakan tindakan perpajakan tertentu berkenaan denga n \nPajak Penghasilan Orang Pribadi Tahun Pajak 2026. Dalam kedua \nkapasitas tersebut, Pemohon memerlukan kepastian yang dapat \ndiketahui dari undang-undang mengenai batas persyaratan yang \nmenentukan kelayakannya menerima penunjukan dan kelayakan pihak  \nyang telah dipilihnya sebagai kuasa;",
+      "start_line": 439,
+      "end_line": 447
+    },
+    {
+      "heading": "d. Bahwa peraturan pelaksana bukan unsur yang harus ada agar hubungan",
+      "slug": "d-bahwa-peraturan-pelaksana-bukan-unsur-yang-harus-ada-agar-hubungan",
+      "text": "sebab-akibat tersebut terbentuk. Sekalipun peraturan pelaksana yang \nberlaku dicabut, diubah, atau diganti, keterbukaan dua pemaknaan tetap \nmelekat pada frasa a quo . Sebaliknya, apabila frasa a quo  diberi \npemaknaan konstitusional sebagaimana dimohonkan, sumber \nketidakpastian pada tingkat undang-undang akan dihilangkan dan \n\n14 \nkewenangan membentuk kriteria atau akibat hukum tambahan tanpa \nbatas serta parameter yang memadai akan tertutup. Dengan demiki an, \nterdapat hubungan sebab-akibat yang memadai antara berlakunya frasa \na quo dan kerugian konstitusional Pemohon serta terdapat kemungkinan \nnyata bahwa pengabulan Permohonan akan mencegah atau \nmenghilangkan kerugian tersebut;",
+      "start_line": 449,
+      "end_line": 461
+    },
+    {
+      "heading": "5. Adanya kemungkinan bahwa dengan dikabulkannya Permohonan,",
+      "slug": "5-adanya-kemungkinan-bahwa-dengan-dikabulkannya-permohonan",
+      "text": "kerugian konstitusional Pemohon tidak lagi atau tidak akan terjadi; \nBahwa apabila Mahkamah mengabulkan Permohonan dengan memberikan  \npemaknaan konstitusional yang menegaskan batas kewenangan deleg atif \ndalam frasa a quo, sumber ketidakpastian pada tingkat undang-undang akan \ndihilangkan. Dalam lapis profesi, Pemohon akan memperoleh kepas tian \nbahwa kelayakannya menerima penunjukan tidak dapat ditentukan o leh \nkriteria kompetensi atau akibat hukum tambahan yang tidak diten tukan dan \ntidak diberikan batas serta parameter yang memadai oleh undang- undang \nsehingga suatu status administratif secara mandiri menjadi sumber lahir atau \nhilangnya kelayakan. Dalam lapis Wajib Pajak, Pemohon akan memp eroleh \nkepastian mengenai batas kewenangan pengaturan kompetensi pener ima \nkuasa yang telah dipilihnya: berdasarkan frasa a quo , kriteria kompetensi \natau akibat hukum tambahan tanpa dasar dan parameter yang memad ai \ndalam undang-undang tidak dapat menjadikan status administratif  sebagai \npenentu mandiri kelayakan menerima penunjukan. \nD. Kesimpulan Kedudukan Hukum \nBahwa berdasarkan seluruh uraian tersebut, Pemohon memenuhi lima syarat \nkerugian konstitusional secara kumulatif. Pemohon memiliki hak \nkonstitusional yang dijamin dalam Pasal 280 ayat (1) dan Pasal 27 ayat (2) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945; hak tersebut \ndirugikan oleh berlakunya frasa a quo ; kerugiannya bersifat spesifik dan \naktual atau setidak-tidaknya potensial yang menurut penalaran w ajar dapat \ndipastikan akan terjadi; terdapat hubungan sebab-akibat yang me madai \nantara berlakunya frasa a quo dan kerugian konstitusional Pemohon; serta \nterdapat kemungkinan bahwa dengan dikabulkannya Permohonan, kerugian \ntersebut tidak lagi atau tidak akan terjadi. Sumber kerugian, hubungan sebab-\n\n15 \nakibat, dan kemungkinan pemulihan seluruhnya terletak pada kete rbukaan",
+      "start_line": 463,
+      "end_line": 491
+    },
+    {
+      "heading": "d e l e g a s i d a l a m f r a s a a quo yang tidak disertai batas dan parameter yang",
+      "slug": "d-e-l-e-g-a-s-i-d-a-l-a-m-f-r-a-s-a-a-quo-yang-tidak-disertai-batas-dan-parameter-yang",
+      "text": "memadai. Dengan demikian, Pemohon memenuhi persyaratan sebagaimana \ndimaksud dalam Pasal 51 ayat (1) UU MK juncto Pasal 4 ayat (2) Peraturan \nMahkamah Konstitusi Nomor 7 Tahun 2025 dan memiliki kedudukan h ukum \nuntuk mengajukan Permohonan a quo.  \nIII. ALASAN-ALASAN PERMOHONAN (POSITA) \nA. Frasa yang Dimohonkan Pengu jian dan Konteks Sistematisnya",
+      "start_line": 493,
+      "end_line": 498
+    },
+    {
+      "heading": "1. Bahwa Pemohon secara tegas memilih hanya frasa \"diatur denga n atau",
+      "slug": "1-bahwa-pemohon-secara-tegas-memilih-hanya-frasa-diatur-denga-n-atau",
+      "text": "berdasarkan Peraturan Menteri Keuangan\" pada bagian penutup Pas al \n44E ayat (2), sepanjang frasa tersebut berlaku terhadap materi \n\"kompetensi tertentu yang harus dimiliki seorang kuasa sebagaim ana \ndimaksud dalam Pasal 32 ayat (3a)\" dalam Pasal 44E ayat (2) hur uf e, \nsebagaimana dimuat dalam Pasal 2 angka 19 Undang-Undang Nomor 7 \nTahun 2021 tentang Harmonisasi Peraturan Perpajakan, sebagai ob jek \npengujian dalam Permohonan a quo . Pemohon tidak memohon \npengujian terhadap keseluruhan norma Pasal 44E ayat (2) huruf e . \nPenyebutan materi huruf e, Pasal 32 ayat (3), dan Pasal 32 ayat  (3a) \nhanya digunakan untuk menentukan ruang lingkup berlakunya frasa yang \ndiuji dan menjelaskan konteks sistematisnya. Oleh karena itu, s eluruh \ndalil konstitusional dan pemulihan yang dimohonkan dibatasi pad a \npemaknaan serta kekuatan hukum mengikat frasa tersebut sepanjan g \nberlaku terhadap materi \"kompetensi tertentu yang harus dimiliki seorang \nkuasa sebagaimana dimaksud dalam Pasal 32 ayat (3a)\" dalam Pasa l \n44E ayat (2) huruf e;",
+      "start_line": 500,
+      "end_line": 515
+    },
+    {
+      "heading": "2. Bahwa setelah perincian materi sebagaimana dimaksud dalam hu ruf a",
+      "slug": "2-bahwa-setelah-perincian-materi-sebagaimana-dimaksud-dalam-hu-ruf-a",
+      "text": "sampai dengan huruf i, Pasal 44E ayat (2) ditutup dengan frasa \"diatur \ndengan atau berdasarkan Peraturan Menteri Keuangan\". Dengan \ndemikian, frasa penutup tersebut berlaku terhadap seluruh mater i yang \ndiperinci dalam ayat (2), termasuk materi mengenai kompetensi k uasa \nsebagaimana dimaksud dalam huruf e;",
+      "start_line": 517,
+      "end_line": 521
+    },
+    {
+      "heading": "3. Bahwa Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umu m",
+      "slug": "3-bahwa-undang-undang-nomor-6-tahun-1983-tentang-ketentuan-umu-m",
+      "text": "dan Tata Cara Perpajakan telah beberapa kali diubah, yaitu deng an \n\n16 \nUndang-Undang Nomor 9 Tahun 1994 tentang Perubahan atas Undang-\nUndang Nomor 6 Tahun 1983, Undang-Undang Nomor 16 Tahun 2000 \ntentang Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 1983, \nUndang-Undang Nomor 28 Tahun 2007 tentang Perubahan Ketiga atas  \nUndang-Undang Nomor 6 Tahun 1983, Undang-Undang Nomor 16 \nTahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti \nUndang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas \nUndang-Undang Nomor 6 Tahun 1983 Menjadi Undang-Undang, \nUndang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja, Undang-\nUndang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan \nPerpajakan, dan terakhir dengan Undang-Undang Nomor 6 Tahun 202 3 \ntentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang \nNomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang. \nMeskipun Undang-Undang Nomor 6 Tahun 2023 merupakan perubahan \nterakhir terhadap Undang-Undang Ketentuan Umum dan Tata Cara \nPerpajakan secara umum, substansi Pasal 44E, termasuk frasa yan g \ndimohonkan pengujian, dibentuk melalui Pasal 2 angka 19 Undang-\nUndang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan \nPerpajakan dan tidak diubah oleh Undang-Undang Nomor 6 Tahun 2023. \nPasal 2 angka 19 Undang-Undang Nomor 7 Tahun 2021 secara khusus  \nmenyisipkan Pasal 44E di antara Pasal 44D dan Pasal 45 dalam Undang-\nUndang Nomor 6 Tahun 1983. Oleh karena itu, objek pengujian dal am \nPermohonan a quo dirumuskan secara lengkap sebagai frasa \"diatur \ndengan atau berdasarkan Peraturan Menteri Keuangan\" pada bagian  \npenutup Pasal 44E ayat (2), sepanjang frasa tersebut berlaku te rhadap \nmateri \"kompetensi tertentu yang harus dimiliki seorang kuasa \nsebagaimana dimaksud dalam Pasal 32 ayat (3a)\" dalam Pasal 44E ayat \n(2) huruf e, sebagaimana dimuat dalam Pasal 2 angka 19 Undang-\nUndang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan \nPerpajakan (Lembaran Negara Republik Indonesia Tahun 2021 Nomor  \n246, Tambahan Lembaran Negara Republik Indonesia Nomor 6736) \n(Bukti P-14 dan Bukti P-15);",
+      "start_line": 523,
+      "end_line": 557
+    },
+    {
+      "heading": "4. Bahwa Pasal 32 ayat (3) UU KUP memberikan hak kepada Wajib P ajak",
+      "slug": "4-bahwa-pasal-32-ayat-3-uu-kup-memberikan-hak-kepada-wajib-p-ajak",
+      "text": "untuk menunjuk seorang kuasa dengan surat kuasa khusus, sedangk an \n\n17 \nPasal 32 ayat (3a) mensyaratkan kuasa memiliki kompetensi terte ntu \ndalam aspek perpajakan. Pemohon tidak memohon pengujian terhada p \nkedua ketentuan tersebut dan tidak mempersoalkan kewajiban seor ang \nkuasa untuk memiliki kompetensi tertentu;",
+      "start_line": 559,
+      "end_line": 565
+    },
+    {
+      "heading": "5. Bahwa Penjelasan Pasal 32 ayat (3) menerangkan ayat ini memb erikan",
+      "slug": "5-bahwa-penjelasan-pasal-32-ayat-3-menerangkan-ayat-ini-memb-erikan",
+      "text": "kelonggaran dan kesempatan bagi Wajib Pajak untuk meminta bantu an \npihak lain yang memahami masalah perpajakan sebagai kuasanya, untuk \ndan atas namanya, membantu melaksanakan hak dan kewajiban \nperpajakan Wajib Pajak. Bantuan tersebut meliputi pelaksanaan \nkewajiban formal dan material serta pemenuhan hak Wajib Pajak y ang \nditentukan dalam peraturan perundang-undangan perpajakan. Yang \ndimaksud dengan kuasa adalah orang yang menerima kuasa khusus dari \nWajib Pajak untuk menjalankan hak dan memenuhi kewajiban \nperpajakan tertentu dari Wajib Pajak sesuai dengan ketentuan peraturan \nperundang-undangan perpajakan;",
+      "start_line": 567,
+      "end_line": 576
+    },
+    {
+      "heading": "6. Bahwa Penjelasan Pasal 32 ayat (3a) menjelaskan untuk melaks anakan",
+      "slug": "6-bahwa-penjelasan-pasal-32-ayat-3a-menjelaskan-untuk-melaks-anakan",
+      "text": "hak dan memenuhi kewajiban perpajakan, seorang kuasa yang ditun juk \noleh Wajib Pajak harus memiliki kompetensi tertentu dalam aspek  \nperpajakan. Kompetensi tertentu antara lain jenjang pendidikan tertentu, \nsertifikasi, dan/atau pembinaan oleh asosiasi atau Kementerian \nKeuangan. Oleh karena itu, kuasa dapat dilakukan oleh konsultan  pajak \natau pihak lain sepanjang memenuhi persyaratan sesuai dengan \nketentuan peraturan perundang-undangan di bidang perpajakan;",
+      "start_line": 578,
+      "end_line": 584
+    },
+    {
+      "heading": "7. Bahwa dengan demikian harus dibedakan antara norma substanti f yang",
+      "slug": "7-bahwa-dengan-demikian-harus-dibedakan-antara-norma-substanti-f-yang",
+      "text": "menetapkan kewajiban adanya kompetensi tertentu dan norma delegatif \nyang menentukan siapa yang berwenang serta sejauh mana pengaturan \nlebih lanjut dapat dilakukan. Permohonan a quo hanya mempersoalkan \nlapis kedua, yaitu batas konstitusional pendelegasian kewenanga n \nkepada Menteri Keuangan. \nB. Makna Normatif Frasa A Quo",
+      "start_line": 586,
+      "end_line": 591
+    },
+    {
+      "heading": "1. Bahwa secara tekstual frasa a quo berlaku terhadap seluruh rumpun",
+      "slug": "1-bahwa-secara-tekstual-frasa-a-quo-berlaku-terhadap-seluruh-rumpun",
+      "text": "materi dalam Pasal 44E ayat (2). Namun, sebagaimana telah dirumuskan \ndalam Bagian A, objek Permohonan dibatasi hanya pada berlakunya  \n\n18 \nfrasa tersebut terhadap materi kompetensi kuasa dalam huruf e. Oleh \nkarena itu, dalil dalam Permohonan ini tidak menjangkau materi huruf a \nsampai dengan huruf d dan huruf f sampai dengan  \nhuruf i;",
+      "start_line": 593,
+      "end_line": 600
+    },
+    {
+      "heading": "2. Bahwa dalam ruang lingkup tersebut, frasa a quo tidak menentukan",
+      "slug": "2-bahwa-dalam-ruang-lingkup-tersebut-frasa-a-quo-tidak-menentukan",
+      "text": "apakah kewenangan pengaturan lebih lanjut hanya mencakup \npencatatan, pembuktian, pemeriksaan, dan verifikasi atas kompet ensi \nyang unsur dan batasnya telah ditentukan atau diberikan paramet er \nsecara memadai oleh undang-undang, atau juga mencakup \npembentukan kriteria dan akibat hukum tambahan yang secara mand iri \nmenentukan kelayakan menerima penunjukan. Persyaratan 'kompetensi \ntertentu' dalam Pasal 32 ayat (3a) merupakan persyaratan substa ntif, \ntetapi rumusan itu tidak dengan sendirinya memberikan kewenanga n \nuntuk menjadikan status administratif yang dibentuk pada tingka t \nperaturan pelaksana sebagai sumber mandiri bagi lahir atau hila ngnya \nkelayakan; \nC. FAKTA NORMATIF AKTUAL DALAM TATARAN PELAKSANAAN",
+      "start_line": 602,
+      "end_line": 613
+    },
+    {
+      "heading": "1. Bahwa PMK Nomor 44 Tahun 2026 digunakan sebagai fakta normat if",
+      "slug": "1-bahwa-pmk-nomor-44-tahun-2026-digunakan-sebagai-fakta-normat-if",
+      "text": "aktual karena dibentuk untuk melaksanakan Pasal 44E ayat (2) hu ruf e \ndan mengaitkan pengakuan kompetensi Pihak Lain dengan Surat \nKeterangan Terdaftar (SKT) (Bukti P-17). PMK Nomor 55 Tahun 202 6 \ndigunakan terbatas untuk menjelaskan bentuk dan akibat hukum SK T \nyang dirujuk PMK Nomor 44 Tahun 2026 (Bukti P-22 sampai dengan P-\n24). Kerugian konstitusional Pemohon secara normatif bersumber dari \nfrasa a quo sepanjang mengenai kompetensi kuasa. Frasa itu belum \nmenegaskan batas antara pencatatan, pembuktian, pemeriksaan, da n \nverifikasi kompetensi yang unsur serta batasnya telah ditentuka n atau \ndiberi parameter memadai oleh undang-undang dan pembentukan \nkriteria atau akibat hukum tambahan tanpa batas serta parameter  \nmemadai dari undang-undang, sehingga status administratif dapat  \nmenjadi penentu mandiri kelayakan menerima penunjukan.  Sekalip un  \nkedua  PMK  diubah  atau  dicabut, ketidakjelasan batas delegas i pada \nfrasa undang-undang tetap ada bagi Pemohon dalam kedua \n\n19 \nkapasitasnya. Kedua PMK bukan objek pengujian; keabsahannya tid ak \ndimohonkan untuk dinilai Mahkamah.",
+      "start_line": 615,
+      "end_line": 633
+    },
+    {
+      "heading": "2. Bahwa pada saat Permohonan diajukan, Pemohon belum memiliki Surat",
+      "slug": "2-bahwa-pada-saat-permohonan-diajukan-pemohon-belum-memiliki-surat",
+      "text": "Keterangan Terdaftar sebagai Pihak Lain sebagaimana dinyatakan \ndalam Surat Pernyataan Pemohon (Bukti P-8).  Fakta tersebut \ndicantumkan secara terbatas untuk menunjukkan keterkaitan aktua l \nPemohon dengan salah satu kemungkinan pemaknaan frasa a quo dan \ntidak ditempatkan sebagai sumber kerugian konstitusional ataupu n \nsebagai permintaan agar Mahkamah menilai legalitas peraturan \npelaksana;",
+      "start_line": 635,
+      "end_line": 641
+    },
+    {
+      "heading": "3. Bahwa fakta normatif tersebut memperlihatkan relevansi aktua l",
+      "slug": "3-bahwa-fakta-normatif-tersebut-memperlihatkan-relevansi-aktua-l",
+      "text": "pembedaan antara instrumen administratif yang hanya mencatat, \nmembuktikan, memeriksa, dan memverifikasi kompetensi yang unsur dan \nbatasnya telah ditentukan atau diberikan parameter secara memadai oleh \nundang-undang dengan instrumen yang, berdasarkan kriteria \nkompetensi atau akibat hukum tambahan yang tidak ditentukan dan tidak \ndiberikan batas serta parameter yang memadai oleh undang-undang , \nsecara mandiri menjadi sumber lahir atau hilangnya kelayakan seseorang \nmenerima penunjukan sebagai kuasa;",
+      "start_line": 643,
+      "end_line": 650
+    },
+    {
+      "heading": "4. Bahwa fakta normatif tersebut hanya menunjukkan aktualitas d an",
+      "slug": "4-bahwa-fakta-normatif-tersebut-hanya-menunjukkan-aktualitas-d-an",
+      "text": "relevansi pembedaan antara fungsi deklaratif dan fungsi konstit utif. \nPemohon tidak meminta Mahkamah menilai legalitas atau membatalk an \nperaturan pelaksana; pengujian peraturan di bawah undang-undang  \nterhadap undang-undang merupakan kewenangan Mahkamah Agung. \nSumber cacat konstitusional dan pemulihan yang dimohonkan tetap  \nterletak pada frasa a quo; \nD. BATAS KONSTITUSIONAL PENDELEGASIAN PENGATURAN SERTA",
+      "start_line": 652,
+      "end_line": 658
+    },
+    {
+      "heading": "1. Bahwa Pemohon mengakui pendelegasian pengaturan teknis dan",
+      "slug": "1-bahwa-pemohon-mengakui-pendelegasian-pengaturan-teknis-dan",
+      "text": "operasional kepada peraturan pelaksana merupakan hal yang lazim dan \ndiperlukan. Permohonan ini tidak mendalilkan bahwa delegasi kep ada \nMenteri Keuangan dengan sendirinya inkonstitusional ataupun mem inta \nseluruh tata cara pelaksanaan kuasa diatur dalam undang-undang.  \n\n20 \nPersoalan konstitusional terletak pada tidak jelasnya batas kew enangan \nyang didelegasikan oleh frasa a quo  sepanjang mengenai kompetensi \nkuasa dalam Pasal 44E ayat (2) huruf e: apakah kewenangan itu terbatas \npada pengaturan administratif unt uk membuktikan dan memverifika si \nkompetensi, atau juga mencakup pembentukan kriteria serta akiba t \nhukum tambahan yang secara mandiri menentukan kelayakan seseorang \nmenerima penunjukan sebagai kuasa, pilihan Wajib Pajak, dan \nkesempatan menjalankan pekerjaan;",
+      "start_line": 661,
+      "end_line": 674
+    },
+    {
+      "heading": "2. Bahwa Putusan Mahkamah Konstitusi Nomor 63/PUU-XV/2017 telah",
+      "slug": "2-bahwa-putusan-mahkamah-konstitusi-nomor-63-puu-xv-2017-telah",
+      "text": "menetapkan bahwa pendelegasian pengaturan mengenai kuasa Wajib \nPajak kepada Menteri Keuangan hanya dapat berkenaan dengan hal-hal \nteknis-administratif dan tidak boleh membatasi atau memperluas hak dan \nkewajiban warga negara. Putusan tersebut juga menggunakan Pedoman \nangka 211 Lampiran II UU P3 sebagai dasar penalaran mengenai ba tas \npendelegasian langsung dari undang-undang kepada menteri. \nPenerapan prinsip tersebut terhadap frasa a quo  bukan pengulangan \nputusan, melainkan pemberian batas operasional terhadap kewenangan \npengaturan mengenai kompetensi kuasa dalam struktur normatif ba ru \nsetelah berlakunya UU HPP (Bukti P-20);",
+      "start_line": 676,
+      "end_line": 685
+    },
+    {
+      "heading": "3. Bahwa batas tersebut sejalan dengan UU P3 sebagaimana telah",
+      "slug": "3-bahwa-batas-tersebut-sejalan-dengan-uu-p3-sebagaimana-telah",
+      "text": "beberapa kali diubah, terakhir dengan Undang-Undang Nomor 1 Tah un \n2026 tentang Penyesuaian Pidana. Pasal 5 huruf c UU P3 mensyaratkan \nkesesuaian antara jenis, hierarki, dan materi muatan, sedangkan Pasal 7 \nayat (1) serta Pasal 8 ayat (1) dan ayat (2) menegaskan bahwa \nkeberadaan, kekuatan mengikat, dan materi muatan Peraturan Ment eri \nbergantung pada perintah atau kewenangan yang diberikan oleh \nperaturan perundang-undangan yang lebih tinggi. Bahkan materi muatan \nPeraturan Pemerintah dan Peraturan Presiden dibatasi oleh Pasal 12 dan \nPasal 13 UU P3 untuk menjalankan undang-undang atau melaksanakan \nperintah peraturan perundang-undangan yang lebih tinggi. Oleh k arena \nitu, Peraturan Menteri tidak dapat membentuk sendiri kriteria s ubstantif \nyang tidak ditentukan dan tidak diberikan batas serta parameter  y a n g  \nmemadai oleh undang-undang (Bukti P-16); \n\n21",
+      "start_line": 687,
+      "end_line": 701
+    },
+    {
+      "heading": "4. Bahwa Pasal 64 ayat (2) UU P3 menegaskan Lampiran II sebagai bagian",
+      "slug": "4-bahwa-pasal-64-ayat-2-uu-p3-menegaskan-lampiran-ii-sebagai-bagian",
+      "text": "yang tidak terpisahkan dari undang-undang tersebut. Dalam Lampi ran II \nBab II huruf A, Pedoman angka 200 rnewajibkan kejelasan ruang lingkup \nmateri dan jenis peraturan penerima delegasi, Pedoman angka 210  \nmelarang delegasi blangko, sedangkan Pedoman angka 211 \nmenentukan bahwa \"Pendelegasian kewenangan mengatur dari Undang-\nUndang kepada menteri, pemimpin lembaga pemerintah \nnonkementerian, atau pejabat yang setingkat dengan menteri diba tasi  \nuntuk peraturan yang bersifat teknis administratif.\" Pemohon ti dak \nmendalilkan bahwa rumusan frasa a quo secara harfiah sama dengan \ncontoh delegasi blangko dalam Pedoman angka 210. Relevansi keti ga \npedoman tersebut terletak pada prinsip bahwa delegasi langsung kepada \nmenteri harus mempunyai ruang lingkup yang jelas dan terbatas p ada \nmateri teknis-administratif (Bukti P-16);",
+      "start_line": 703,
+      "end_line": 715
+    },
+    {
+      "heading": "5. Bahwa untuk seluruh Permohonan ini, fungsi deklaratif berart i fungsi",
+      "slug": "5-bahwa-untuk-seluruh-permohonan-ini-fungsi-deklaratif-berart-i-fungsi",
+      "text": "instrumen administratif untuk mencatat, membuktikan, memeriksa,  dan \nmemverifikasi terpenuhinya kompetensi yang unsur, kriteria, dan  \nbatasnya telah ditentukan atau sekurang-kurangnya diberikan parameter \nsecara memadai oleh undang-undang. Adapun fungsi konstitutif ya ng \ndipersoalkan Pemohon tidak mencakup setiap dokumen, pendaftaran , \natau izin yang diwajibkan, melainkan secara khusus menunjuk pad a \nfungsi suatu status atau persyaratan administratif yang, berdas arkan \nkriteria atau akibat hukum tambahan yang tidak ditentukan dan t idak \ndiberikan batas serta parameter yang memadai oleh undang-undang , \nsecara mandiri menjadi sumber lahir atau hilangnya kelayakan seseorang \nmenerima penunjukan sebagai kuasa;",
+      "start_line": 717,
+      "end_line": 727
+    },
+    {
+      "heading": "6. Bahwa berdasarkan pembedaan tersebut, kewenangan pengaturan lebih",
+      "slug": "6-bahwa-berdasarkan-pembedaan-tersebut-kewenangan-pengaturan-lebih",
+      "text": "lanjut mengenai kompetensi kuasa tetap berada dalam wilayah tek nis-\nadministratif sepanjang hanya mengatur tata cara pemberian kuasa serta \npencatatan, pembuktian, pemeriksaan, dan verifikasi atas terpen uhinya \nkompetensi yang unsur dan batasnya telah ditentukan atau diberi kan \nparameter secara memadai oleh undang-undang. Kewenangan tersebu t \nmemasuki wilayah substantif apabila digunakan untuk membentuk \nkriteria kompetensi atau akibat hukum tambahan yang tidak diten tukan \n\n22 \ndan tidak diberikan batas serta parameter yang memadai oleh und ang-\nundang sehingga suatu status administratif secara mandiri menja di \nsumber lahir atau hilangnya kelayakan seseorang menerima penunjukan \nsebagai kuasa;",
+      "start_line": 729,
+      "end_line": 741
+    },
+    {
+      "heading": "7. Bahwa Pasal 32 ayat (3a) beserta Penjelasannya telah memberi kan",
+      "slug": "7-bahwa-pasal-32-ayat-3a-beserta-penjelasannya-telah-memberi-kan",
+      "text": "kerangka kompetensi tertentu antara lain jenjang pendidikan ter tentu, \nsertifikasi, dan/atau pembinaan oleh asosiasi atau Kementerian \nKeuangan. Akan tetapi, frasa a quo  tidak menjelaskan apakah \npengaturan lebih lanjut terbatas pada pembuktian dan verifikasi  \nkompetensi dalam kerangka tersebut atau dapat pula membentuk kriteria \ndan akibat hukum tambahan yang berdiri sendiri sebagai penentu \nkelayakan menerima penunjukan. Ketidakjelasan batas itulah yang  \nmenimbulkan persoalan kepastian hukum bagi Pemohon sebagai \npenerima maupun pemberi kuasa, serta berpotensi membatasi \nkesempatan Pemohon menjalankan pekerjaan sebagai kuasa;",
+      "start_line": 743,
+      "end_line": 752
+    },
+    {
+      "heading": "8. Bahwa Pemohon tidak menempatkan UU P3, termasuk Lampiran II",
+      "slug": "8-bahwa-pemohon-tidak-menempatkan-uu-p3-termasuk-lampiran-ii",
+      "text": "Pedoman angka 211, sebagai batu uji tersendiri dan tidak memint a \nMahkamah menilai legalitas suatu Peraturan Menteri. Batu uji \nPermohonan tetap Pasal 27 ayat (2) dan Pasal 280 ayat (1) Undan g-\nUndang Dasar Negara Republik Indonesia Tahun 1945. UU P3 dan \nPutusan Mahkamah Konstitusi Nomor 63/PUU-XV/2017 digunakan \nsebagai dasar penafsiran sistematis untuk menjelaskan batas \nkewenangan yang dapat didelegasikan kepada Menteri, sedangkan \nsumber persoalan konstitusional tetap terletak pada keterbukaan frasa a \nquo yang tidak memberikan batas dan parameter delegasi secara \nmemadai. \nE.1. FRASA A QUO BERTENTANGAN DENGAN PASAL 28D AYAT (1)",
+      "start_line": 754,
+      "end_line": 764
+    },
+    {
+      "heading": "UNDANG-UNDANG DASAR NEGARA REPUBLIK INDONESIA TAHUN",
+      "slug": "undang-undang-dasar-negara-republik-indonesia-tahun",
+      "text": "1945 \nPasal 28D ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945 menyatakan: \n\"Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum.\" \n\n23",
+      "start_line": 766,
+      "end_line": 773
+    },
+    {
+      "heading": "1. Makna Konstitusional Batu Uji",
+      "slug": "1-makna-konstitusional-batu-uji",
+      "text": "a. Bahwa Pasal 28D ayat (1) Undang-Undang Dasar Negara Republik  \nIndonesia Tahun 1945 menjamin kepastian hukum yang adil, yaitu \nkeadaan ketika seseorang dapat mengetahui kedudukan hukumnya \nserta memperkirakan akibat hukum yang timbul dari suatu norma; \nb. Bahwa pada norma delegatif, jaminan tersebut menghendaki tuj uan, \nruang lingkup, dan batas kewenangan yang dapat diketahui secara  \nmemadai tanpa mengharuskan seluruh tata cara teknis diatur dala m \nundang-undang. Kejelasan batas menjadi penting ketika pelaksanaan \ndelegasi dapat menentukan kompetensi dan kelayakan seseorang \nbertindak sebagai kuasa;",
+      "start_line": 775,
+      "end_line": 784
+    },
+    {
+      "heading": "2. Penerapan terhadap Frasa A Quo",
+      "slug": "2-penerapan-terhadap-frasa-a-quo",
+      "text": "a. Bahwa berdasarkan batas konstitusional pada Bagian D, kepast ian \nhukum mensyaratkan agar frasa a quo memungkinkan warga negara \nmembedakan persyaratan substantif yang harus memperoleh dasar \ndan parameter dalam undang-undang dari tata cara teknis-\nadministratif yang dapat diatur lebih lanjut; \nb. Bahwa sepanjang berlaku terhadap materi kompetensi kuasa, fr asa a \nquo tidak menentukan titik batas antara kewenangan untuk mencatat, \nmembuktikan, memeriksa, dan memverifikasi kompetensi dengan \nkewenangan membentuk kriteria atau akibat hukum tambahan yang \nmenentukan kelayakan menerima penunjukan;",
+      "start_line": 786,
+      "end_line": 795
+    },
+    {
+      "heading": "c. Bahwa ketiadaan batas tersebut memungkinkan dua pemaknaan:",
+      "slug": "c-bahwa-ketiadaan-batas-tersebut-memungkinkan-dua-pemaknaan",
+      "text": "kewenangan yang hanya mengadministrasikan kompetensi yang telah \nditentukan atau diberikan parameter oleh undang-undang, dan \nkewenangan yang membentuk persyaratan tambahan sebagai sumber \nmandiri kelayakan. Kedua pemaknaan itu menimbulkan akibat hukum \nyang berbeda bagi penerima kuasa dan Wajib Pajak;",
+      "start_line": 797,
+      "end_line": 801
+    },
+    {
+      "heading": "3. Kerugian terhadap Kepastian Hukum Pemohon",
+      "slug": "3-kerugian-terhadap-kepastian-hukum-pemohon",
+      "text": "a. Bahwa Pasal 28D ayat (1) Undang-Undang Dasar Negara Republik  \nIndonesia Tahun 1945 menghendaki agar Pemohon dapat mengetahui \n\n24 \ndari undang-undang batas kewenangan organ penerima delegasi dan \nmemperkirakan akibat hukumnya; \nb. Bahwa frasa a quo  tidak memberikan batas yang cukup jelas \nmengenai titik ketika kewenangan Menteri Keuangan untuk \nmembuktikan, memverifikasi, dan mengadministrasikan kompetensi \nberakhir dan kewenangan yang membentuk akibat hukum substantif \ndimulai;",
+      "start_line": 803,
+      "end_line": 813
+    },
+    {
+      "heading": "c. Bahwa akibat ketidakjelasan tersebut, seseorang yang telah m emiliki",
+      "slug": "c-bahwa-akibat-ketidakjelasan-tersebut-seseorang-yang-telah-m-emiliki",
+      "text": "kompetensi dalam aspek perpajakan tidak dapat mengetahui secara  \nmemadai dari undang-undang apakah kompetensinya hanya akan \ndibuktikan dan diverifikasi secara administratif atau kelayakan nya \nmenerima penunjukan masih bergantung pada status administratif \ntambahan yang dibentuk melalui peraturan pelaksana;",
+      "start_line": 815,
+      "end_line": 819
+    },
+    {
+      "heading": "d. Bahwa ketidakpastian tersebut menjangkau Pemohon secara",
+      "slug": "d-bahwa-ketidakpastian-tersebut-menjangkau-pemohon-secara",
+      "text": "langsung. Dalam lapis profesi, Pemohon tidak memperoleh kepasti an \nmengenai dasar yang menentukan kelayakannya melanjutkan \npenunjukan sebagai kuasa. Dalam lapis Wajib Pajak, Pemohon tida k \nmemperoleh kepastian mengenai kelayakan pihak berkompetensi \nyang telah dipilih dan terikat dalam hubungan jasa dengannya; \ne. Bahwa pembatasan pemaknaan frasa a quo pada pengaturan yang \nbersifat teknis-administratif tetap memungkinkan Menteri Keuang an \nmengatur tata cara pemberian kuasa serta pencatatan, pembuktian , \npemeriksaan, dan verifikasi kompetensi, sekaligus menutup \nkewenangan untuk membentuk kriteria kompetensi atau akibat hukum \ntambahan yang tidak ditentukan dan tidak diberikan batas serta \nparameter yang memadai oleh undang-undang sehingga suatu status \nadministratif secara mandiri menjadi sumber lahir atau hilangny a \nkelayakan seseorang menerima penunjukan sebagai kuasa.",
+      "start_line": 821,
+      "end_line": 834
+    },
+    {
+      "heading": "4. Kesimpulan",
+      "slug": "4-kesimpulan",
+      "text": "Bahwa cacat konstitusional frasa a quo terhadap Pasal 28D ayat (1) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 bukan \nterletak pada keberadaan pendelegasian kewenangan kepada Menter i \nKeuangan, kewajiban memiliki instrumen administratif, ataupun a kibat \n\n25 \nadministratif yang melekat pada instrumen tersebut. Cacat \nkonstitusionalnya terletak pada keterbukaan frasa a quo yang \nmemungkinkan peraturan pelaksana membentuk kriteria kompetensi atau \nakibat hukum tambahan yang tidak ditentukan dan tidak diberikan  batas \nserta parameter yang memadai oleh undang-undang, sehingga statu s \nadministratif dapat secara mandiri menjadi sumber lahir atau hi langnya \nkelayakan seseorang menerima penunjukan sebagai kuasa. \nE.2.  FRASA A QUO BERTENTANGAN DENGAN PASAL 27 AYAT (2)",
+      "start_line": 836,
+      "end_line": 849
+    },
+    {
+      "heading": "UNDANG-UNDANG DASAR NEGARA REPUBLIK INDONESIA TAHUN",
+      "slug": "undang-undang-dasar-negara-republik-indonesia-tahun",
+      "text": "1945 \nPasal 27 ayat (2) Undang-Undang Dasar Negara Republik Indonesia  Tahun \n1945 menyatakan:  \n\"Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan y ang \nlayak bagi kemanusiaan.\"",
+      "start_line": 851,
+      "end_line": 855
+    },
+    {
+      "heading": "1. Makna Konstitusional Batu Uji",
+      "slug": "1-makna-konstitusional-batu-uji",
+      "text": "a. Bahwa Pasal 27 ayat (2) Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 menjamin hak warga negara atas pekerjaan \ndan penghidupan yang layak bagi kemanusiaan. Dalam konteks \nPermohonan a quo , jaminan tersebut mencakup kesempatan untuk \nmemperoleh dan menjalankan kegiatan profesional yang secara sah  \ndapat dilakukan setelah memenuhi persyaratan yang ditentukan \nberdasarkan undang-undang; \nb. Bahwa hak atas pekerjaan bukan hak absolut untuk menjalankan  \nkegiatan profesional tanpa persyaratan. Negara tetap dapat \nmenetapkan standar kompetensi dan tata cara pelaksanaan profesi . \nNamun, Pasal 27 ayat (2) Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 melindungi kesempatan hukum untuk \nmenerima penunjukan dan menjalankan pekerjaan tanpa \ndigantungkan pada persyaratan substantif tambahan yang dibentuk  \ntanpa dasar dan parameter yang memadai dalam undang-undang;",
+      "start_line": 857,
+      "end_line": 871
+    },
+    {
+      "heading": "c. Bahwa persoalan konstitusional bukan kewajiban mempunyai",
+      "slug": "c-bahwa-persoalan-konstitusional-bukan-kewajiban-mempunyai",
+      "text": "kompetensi tertentu, melainkan keterbukaan norma delegatif yang  \ndapat dimaknai memberikan kewenangan membentuk kriteria atau \n\n26 \nakibat hukum tambahan yang menentukan akses terhadap pekerjaan \nsebagai kuasa;",
+      "start_line": 873,
+      "end_line": 878
+    },
+    {
+      "heading": "2. Penerapan terhadap Frasa A Quo",
+      "slug": "2-penerapan-terhadap-frasa-a-quo",
+      "text": "a. Bahwa Pemohon secara nyata menjalankan kegiatan profesional di \nbidang hukum perpajakan dan sedang terikat dalam hubungan \npemberian jasa serta penunjukan sebagai kuasa yang berlaku sampai \ndengan tanggal 30 April 2027 (Bukti P-9 dan Bukti P-10); \nb. Bahwa Pemohon tidak mempersoalkan kewajiban seorang kuasa \nuntuk mempunyai kompetensi tertentu dalam aspek perpajakan. \nPemohon juga tidak mempersoalkan kewenangan Menteri Keuangan \nuntuk mengatur tata cara pemberian kuasa serta pembuktian dan \nverifikasi terpenuhinya kompetensi tersebut;",
+      "start_line": 880,
+      "end_line": 888
+    },
+    {
+      "heading": "c. Bahwa persoalan konstitusional timbul karena frasa a quo t i d a k",
+      "slug": "c-bahwa-persoalan-konstitusional-timbul-karena-frasa-a-quo-t-i-d-a-k",
+      "text": "memberikan batas yang tegas antara kewenangan untuk mengatur \ntata cara administratif berupa pencatatan, pembuktian, pemeriks aan, \ndan verifikasi atas terpenuhinya kompetensi yang unsur dan batasnya \ntelah ditentukan atau diberikan parameter secara memadai oleh \nundang-undang dengan kewenangan untuk membentuk kriteria \nkompetensi atau akibat hukum tambahan yang tidak ditentukan dan  \ntidak diberikan batas serta parameter yang memadai oleh undang-\nundang sehingga suatu status administratif secara mandiri menja di \nsumber lahir atau hilangnya kelayakan seseorang menerima \npenunjukan sebagai kuasa;",
+      "start_line": 890,
+      "end_line": 899
+    },
+    {
+      "heading": "3. Kerugian terhadap Hak atas Pekerjaan",
+      "slug": "3-kerugian-terhadap-hak-atas-pekerjaan",
+      "text": "a. Bahwa sepanjang frasa a quo dapat dimaknai mengizinkan \npembentukan kriteria atau akibat hukum tambahan yang tidak \nditentukan dan tidak diberikan batas serta parameter yang memad ai \noleh undang-undang, kelayakan Pemohon menerima penunjukan \ntidak lagi ditentukan oleh kompetensi yang dipersyaratkan undan g-\nundang, tetapi dapat bergantung pada status administratif tamba han \nyang berdiri sendiri; \n\n27 \nb. Bahwa hubungan sebab-akibat yang didalilkan Pemohon bersumbe r \npada keterbukaan frasa a quo  yang memungkinkan kewenangan \nteknis-administratif dimaknai mencakup pembentukan persyaratan \nsubstantif yang menentukan kesempatan Pemohon menerima \npenunjukan dan menjalankan pekerjaan sebagai kuasa;",
+      "start_line": 901,
+      "end_line": 914
+    },
+    {
+      "heading": "c. Bahwa hubungan frasa a quo dengan pekerjaan Pemohon tidak",
+      "slug": "c-bahwa-hubungan-frasa-a-quo-dengan-pekerjaan-pemohon-tidak",
+      "text": "bersifat abstrak. Kerugian potensial melekat pada kelanjutan \nhubungan pemberian jasa dan penunjukan sebagai kuasa yang telah  \nada dan masih berlaku, bukan pada kemungkinan memperoleh klien \natau penunjukan baru pada masa mendatang;",
+      "start_line": 916,
+      "end_line": 919
+    },
+    {
+      "heading": "d. Bahwa Pemohon tidak meminta penghapusan kewajiban mempunyai",
+      "slug": "d-bahwa-pemohon-tidak-meminta-penghapusan-kewajiban-mempunyai",
+      "text": "kompetensi tertentu ataupun jaminan memperoleh penunjukan. \nPemohon memohon batas yang tetap memungkinkan Menteri \nKeuangan mengatur tata cara pemberian kuasa serta pencatatan, \npembuktian, pemeriksaan, dan verifikasi kompetensi, tetapi tida k \nmembentuk kriteria kompetensi atau akibat hukum tambahan yang \ntidak ditentukan dan tidak diberikan batas serta parameter yang  \nmemadai oleh undang-undang sehingga suatu status administratif \nsecara mandiri menjadi sumber lahir atau hilangnya kelayakan \nseseorang menerima penunjukan sebagai kuasa;",
+      "start_line": 921,
+      "end_line": 929
+    },
+    {
+      "heading": "4. Kesimpulan",
+      "slug": "4-kesimpulan",
+      "text": "Bahwa cacat konstitusional frasa a quo terhadap Pasal 27 ayat (2) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 bukan \nterletak pada kewajiban seorang kuasa untuk mempunyai kompetens i \ntertentu, kewajiban memiliki dokumen administratif, ataupun kew enangan \nMenteri Keuangan untuk mengadministrasikan dan memverifikasi \nterpenuhinya kompetensi tersebut. Cacat konstitusionalnya terle tak pada \nketerbukaan frasa a quo yang memungkinkan dibentuknya kriteria \nkompetensi atau akibat hukum tambahan yang tidak ditentukan dan  tidak \ndiberikan batas serta parameter yang memadai oleh undang-undang , \nsehingga status administratif dapat secara mandiri menentukan \nkesempatan seseorang menerima penunjukan dan menjalankan \npekerjaan sebagai kuasa. \n\n28 \nF. RATIO DECIDENDI PUTUSAN MAHKAMAH KONSTITUSI TERDAHULU",
+      "start_line": 931,
+      "end_line": 945
+    },
+    {
+      "heading": "DAN RELEVANSINYA TERHADAP FRASA A QUO",
+      "slug": "dan-relevansinya-terhadap-frasa-a-quo",
+      "text": "F.1. DAYA IKAT PUTUSAN MAHKAMAH KONSTITUSI NOMOR 63/PUU-\nXV/2017 DAN PERSOALAN KHUSUS FRASA A QUO",
+      "start_line": 947,
+      "end_line": 948
+    },
+    {
+      "heading": "1. Bahwa parameter Putusan Mahkamah Konstitusi Nomor 63/PUU-",
+      "slug": "1-bahwa-parameter-putusan-mahkamah-konstitusi-nomor-63-puu",
+      "text": "XV/2017 sebagaimana telah diuraikan dalam Bagian D digunakan dalam \nbagian ini sebagai premis untuk menilai frasa a quo, bukan sebagai \nrumusan amar yang dimohonkan untuk diulang (Bukti P-20);",
+      "start_line": 950,
+      "end_line": 952
+    },
+    {
+      "heading": "2. Bahwa setelah berlakunya UU HPP, terbentuk konfigurasi norma tif yang",
+      "slug": "2-bahwa-setelah-berlakunya-uu-hpp-terbentuk-konfigurasi-norma-tif-yang",
+      "text": "berbeda. Pasal 32 ayat (3a) memuat persyaratan substantif bahwa  \nseorang kuasa harus mempunyai kompetensi tertentu dalam aspek \nperpajakan, sedangkan Pasal 44E ayat (2) huruf e beserta frasa delegatif \npada bagian penutup Pasal 44E ayat (2) menyerahkan pengaturan lebih \nlanjut mengenai kompetensi tersebut kepada Menteri Keuangan. Dengan \ndemikian, Pasal 44E ayat (2) bukan sekadar lokasi baru dari rum usan \nyang telah diputus dalam Putusan Nomor 63/PUU-XV/2017, melainka n \nobjek undang-undang baru yang mempunyai struktur dan akibat normatif \ntersendiri. Meskipun demikian, batas konstitusional yang telah ditetapkan \ndalam Putusan Nomor 63/PUU-XV/2017 tetap berlaku sebagai parameter \ndalam menilai konstitusionalitas frasa a quo;",
+      "start_line": 954,
+      "end_line": 964
+    },
+    {
+      "heading": "3. Bahwa garis pemisah antara instrumen yang hanya mencatat,",
+      "slug": "3-bahwa-garis-pemisah-antara-instrumen-yang-hanya-mencatat",
+      "text": "membuktikan, memeriksa, dan memverifikasi kompetensi dengan sta tus \nadministratif yang membentuk kriteria atau akibat hukum tambaha n \nbelum menjadi objek dan belum dirumuskan dalam amar Putusan \nMahkamah Konstitusi Nomor 63/PUU-XV/2017. Daya ikat erga omnes \nputusan tersebut memberikan batas konstitusional umum, tetapi b elum \nmelekatkan ukuran operasional tersebut pada frasa delegatif bar u yang \ndibentuk melalui UU HPP. Pemaknaan yang dimohonkan tidak memint a \nMahkamah mengulang rumusan \"teknis-administratif', melainkan \nmenerapkan prinsip tersebut terhadap objek baru dengan menentuk an \nbatas antara pembuktian dan verifikasi kompetensi dengan pembentukan \nkriteria atau akibat hukum tambahan sebagai sumber mandiri kelayakan. \nOleh karena itu, amar baru diperlukan untuk menjamin penerapan efektif \n\n29 \nPutusan Nomor 63/PUU-XV/2017 terhadap struktur normatif Pasal 4 4E \nayat (2) setelah berlakunya UU HPP, bukan untuk mengurangi atau pun \nmengulang daya ikat putusan tersebut; \nF.2. PERBEDAAN STRUKTUR DELEGASI DAN KONTEKS NORMATIF \nANTARA PUTUSAN MAHKAMAH KONSTITUSI NOMOR 25/PUU-\nXXlll/2025 DAN PERMOHONAN A QUO",
+      "start_line": 966,
+      "end_line": 985
+    },
+    {
+      "heading": "1. Bahwa Putusan Mahkamah Konstitusi Nomor 25/PUU-XXlll/2025",
+      "slug": "1-bahwa-putusan-mahkamah-konstitusi-nomor-25-puu-xxlll-2025",
+      "text": "memeriksa Pasal 34 ayat (2) dan ayat (3) Undang-Undang Nomor 14  \nTahun 2002 tentang Pengadilan Pajak. Undang-undang tersebut tel ah \nmenentukan forum, kewarganegaraan, pengetahuan dan keahlian \nperpajakan, persyaratan lain yang ditetapkan Menteri, serta pih ak yang \ndikecualikan. Mahkamah menilai keseluruhan konstruksi itu dalam  \nkonteks administrasi beracara pada Pengadilan Pajak (Bukti P-21 , Bukti \nP-26, dan Bukti P-27);",
+      "start_line": 987,
+      "end_line": 993
+    },
+    {
+      "heading": "2. Bahwa dalam Putusan Nomor 25/PUU-XXlll/2025, Mahkamah",
+      "slug": "2-bahwa-dalam-putusan-nomor-25-puu-xxlll-2025-mahkamah",
+      "text": "membenarkan kewajiban pembuktian kompetensi dan persyaratan \nadministratif, termasuk izin yang  menjadi syarat keabsahan tind akan \nkuasa hukum di Pengadilan Pajak, dengan berpijak pada kerangka Pasal \n34 ayat (2) Undang-Undang Pengadilan Pajak dan fungsi dokumen \npembuktiannya. Putusan tersebut menunjukkan bahwa, dalam kerangka \nPasal 34 ayat (2) Undang-Undang Pengadilan Pajak, kewajiban \nmemenuhi dokumen dan izin untuk beracara dipandang sebagai \npelaksanaan administratif atas persyaratan yang ditetapkan atau  secara \ntegas didelegasikan oleh undang-undang. Perbedaan dalam \nPermohonan a quo  terletak pada norma pemberi delegasi mengenai \nkompetensi kuasa dalam administrasi perpajakan dan pada kemungkinan \npembentukan kriteria atau akibat hukum tambahan tanpa dasar ser ta \nparameter yang memadai dalam undang-undang;",
+      "start_line": 995,
+      "end_line": 1007
+    },
+    {
+      "heading": "3. Bahwa struktur frasa a quo berbeda. Pasal 44E ayat (2) menggunakan",
+      "slug": "3-bahwa-struktur-frasa-a-quo-berbeda-pasal-44e-ayat-2-menggunakan",
+      "text": "satu frasa delegatif pada bagian penutup untuk sembilan rumpun materi \ndan sepanjang berlaku terhadap huruf e, tidak menentukan jenis, fungsi, \nkriteria pembentukan, ataupun akibat hukum status administratif  y a n g  \ndapat dibentuk dalam pengaturan kompetensi kuasa; \n\n30",
+      "start_line": 1009,
+      "end_line": 1014
+    },
+    {
+      "heading": "4. Bahwa permohonan dalam Putusan Nomor 25/PUU-XXlll/2025",
+      "slug": "4-bahwa-permohonan-dalam-putusan-nomor-25-puu-xxlll-2025",
+      "text": "mempersoalkan persyaratan tambahan bagi advokat untuk beracara \nsebagai kuasa hukum pada Pengadilan Pajak. Permohonan a quo tidak \nmeminta status advokat dijadikan satu-satunya dasar menerima \npenunjukan dan tidak meminta penghapusan kewajiban mempunyai \nkompetensi tertentu;",
+      "start_line": 1016,
+      "end_line": 1020
+    },
+    {
+      "heading": "5. Bahwa perbedaannya terletak pada struktur norma pemberi detegas i,",
+      "slug": "5-bahwa-perbedaannya-terletak-pada-struktur-norma-pemberi-detegas-i",
+      "text": "konteks kelembagaan, fungsi instrumen, dan akibat hukumnya. Put usan \nNomor 25/PUU-XXlll/2025 menyangkut forum peradilan khusus yang \npersyaratan dasar dan pengecualiannya telah ditentukan oleh und ang-\nundang, sedangkan Permohonan a quo  menyangkut pelaksanaan hak \ndan kewajiban perpajakan di luar proses beracara pada Pengadilan Pajak \nberdasarkan frasa delegatif yang tidak memberikan batas operasi onal \nserupa;",
+      "start_line": 1022,
+      "end_line": 1028
+    },
+    {
+      "heading": "6. Bahwa pertimbangan mengenai prematuritas dalam Putusan Nomor",
+      "slug": "6-bahwa-pertimbangan-mengenai-prematuritas-dalam-putusan-nomor",
+      "text": "25/PUU-XXlll/2025 berkaitan dengan proses integrasi Pengadilan Pajak \nke dalam sistem satu atap yang diperintahkan selesai paling lam bat \ntanggal 31 Desember 2026. Permohonan a quo  tidak menyangkut \nadministrasi peradilan atau proses integrasi tersebut; frasa a quo telah \nberlaku dan kewenangan delegatifnya telah dilaksanakan (Bukti P-17 dan \nBukti P-21);",
+      "start_line": 1030,
+      "end_line": 1035
+    },
+    {
+      "heading": "7. Bahwa Putusan Nomor 25/PUU-XXlll/2025 tidak menutup pemeriksaan",
+      "slug": "7-bahwa-putusan-nomor-25-puu-xxlll-2025-tidak-menutup-pemeriksaan",
+      "text": "Permohonan a quo. Putusan tersebut justru memperkuat metode \npenilaian berdasarkan sumber kewenangan, fungsi, konteks, dan a kibat \nhukum, tetapi objek serta konfigurasi normatifnya dapat dibedak an dari \nperkara ini (Bukti P-21); \nF.3. PERMOHONAN A QUO BUKAN PENGUJIAN KEMBALI ATAS MATERI",
+      "start_line": 1037,
+      "end_line": 1041
+    },
+    {
+      "heading": "1. Bahwa Pasal 60 ayat (1) UU MK juncto Pasal 72 ayat (1) Peraturan",
+      "slug": "1-bahwa-pasal-60-ayat-1-uu-mk-juncto-pasal-72-ayat-1-peraturan",
+      "text": "Mahkamah Konstitusi Nomor 7 Tahun 2025 melarang pengujian kembali \nmateri muatan yang sama, sedangkan Pasal 72 ayat (2) memberikan  \npengecualian apabila batu uji atau alasan permohonan berbeda (Bukti P-\n12 dan Bukti P-13);  \n\n31",
+      "start_line": 1044,
+      "end_line": 1049
+    },
+    {
+      "heading": "2. Bahwa objek Permohonan a quo bukan materi muatan yang sama",
+      "slug": "2-bahwa-objek-permohonan-a-quo-bukan-materi-muatan-yang-sama",
+      "text": "dengan objek Putusan Nomor 63/PUU-XV/2017. Selain itu, alasan \nPermohonan ini berbeda dan lebih khusus, yaitu keterbukaan fras a \ndelegatif yang dibentuk melalui UU HPP dalam pengaturan kompete nsi \nkuasa serta ketiadaan batas operasional antara fungsi deklarati f dan \npembentukan persyaratan tambahan yang bersifat konstitutif;",
+      "start_line": 1051,
+      "end_line": 1055
+    },
+    {
+      "heading": "3. Bahwa Putusan Nomor 63/PUU-XV/2017 menguji Pasal 32 ayat (3a) UU",
+      "slug": "3-bahwa-putusan-nomor-63-puu-xv-2017-menguji-pasal-32-ayat-3a-uu",
+      "text": "KUP, khususnya frasa 'pelaksanaan hak dan kewajiban kuasa', dal am \nkonfigurasi sebelum UU HPP. Permohonan a quo menguji frasa delegatif \npada bagian penutup Pasal 44E ayat (2), sepanjang berlaku terha dap \nmateri kompetensi kuasa dalam huruf e, yang dibentuk kemudian melalui \nUU HPP;",
+      "start_line": 1057,
+      "end_line": 1061
+    },
+    {
+      "heading": "4. Bahwa alasan dan pemulihan yang dimohonkan juga berbeda. Pemohon",
+      "slug": "4-bahwa-alasan-dan-pemulihan-yang-dimohonkan-juga-berbeda-pemohon",
+      "text": "tidak meminta pengulangan batas umum 'teknis-administratif, melainkan \nukuran operasional mengenai pencatatan, pembuktian, pemeriksaan , \ndan verifikasi kompetensi serta larangan membentuk kriteria ata u akibat \nhukum tambahan tanpa batas dan parameter yang memadai dalam \nundang-undang. Dengan demikian, Permohonan ini tidak merupakan \npengujian kembali atas materi muatan yang sama; \nG. KEBUTUHAN PEMAKNAAN KONSTITUSIONAL YANG SPESIFIK DAN",
+      "start_line": 1063,
+      "end_line": 1069
+    },
+    {
+      "heading": "1. Kebutuhan Amar Baru",
+      "slug": "1-kebutuhan-amar-baru",
+      "text": "Bahwa Putusan Nomor 63/PUU-XV/2017 tetap final, mengikat, dan \nmenjadi premis Permohonan. Namun, rumusan umum dalam putusan \ntersebut belum melekat pada frasa a quo sebagai norma delegatif yang \ndibentuk kemudian dan belum memberikan ukuran operasional bagi \npengaturan kompetensi kuasa. Karena itu, amar baru diperlukan u ntuk \nobjek dan persoalan yang berbeda;",
+      "start_line": 1072,
+      "end_line": 1077
+    },
+    {
+      "heading": "2. Batas Operasional yang Dimohonkan",
+      "slug": "2-batas-operasional-yang-dimohonkan",
+      "text": "a. Bahwa Pasal 32 ayat (3a) mensyaratkan seorang kuasa mempunya i \nkompetensi tertentu, sedangkan Pasal 44E ayat (2) huruf e \nmenyerahkan pengaturan lebih lanjut mengenai kompetensi \n\n32 \ntersebut melalui frasa a quo . Frasa itu belum membatasi \nkewenangan pada pencatatan, pembuktian, pemeriksaan, dan \nverifikasi serta belum menutup pembentukan kriteria atau akibat  \nhukum tambahan sebagai sumber mandiri kelayakan; \nb. Bahwa Pemohon tidak mendalilkan Surat Keterangan Terdaftar \ndengan sendirinya merupakan penambahan atau pembatasan hak \nhanya karena berbentuk dokumen administratif yang wajib dimilik i. \nSurat Keterangan Terdaftar tetap berada dalam wilayah teknis-\nadministratif apabila hanya mencatat, membuktikan, memeriksa, \ndan memverifikasi terpenuhinya kompetensi yang unsur, kriteria,  \ndan batasnya telah ditentukan atau diberikan parameter secara \nmemadai oleh undang-undang. Namun, instrumen tersebut menjadi \npenambahan kewajiban dan pembatasan hak apabila, berdasarkan \nkriteria kompetensi atau akibat hukum tambahan yang tidak \nditentukan dan tidak diberikan batas serta parameter yang memadai \noleh undang-undang, kepemilikan, ketiadaan, pembekuan, atau \npencabutannya secara mandiri menjadi sumber lahir atau hilangnya \nkelayakan seseorang menerima penunjukan sebagai kuasa. Dalam \nkeadaan demikian, instrumen tersebut menambah kewajiban \npenerima kuasa untuk memperoleh dan mempertahankan status \nadministratif serta membatasi hak Wajib Pajak memilih kuasa dan  \nkesempatan seseorang menjalankan pekerjaan sebagai kuasa. \nMateri dengan fungsi dan akibat hukum demikian telah memasuki \nwilayah substantif yang, berdasarkan ratio decidendi Putusan \nMahkamah Konstitusi Nomor 63/PUU-XV/2017, tidak dapat \ndibentuk hanya melalui Peraturan Menteri tanpa dasar, batas, da n \nparameter yang memadai dalam undang-undang (Bukti P-20 dan \nBukti P-21);",
+      "start_line": 1079,
+      "end_line": 1111
+    },
+    {
+      "heading": "c. Bahwa cacat tersebut secara normatif dapat diatribusikan kep ada",
+      "slug": "c-bahwa-cacat-tersebut-secara-normatif-dapat-diatribusikan-kep-ada",
+      "text": "frasa a quo karena frasa itu menjadi sumber kewenangan \npengaturan lebih lanjut mengenai kompetensi tanpa menentukan \nbatas operasional tersebut. Pemohon tidak mendalilkan bahwa \nfrasa a quo secara eksplisit memerintahkan pembentukan Surat \n\n33 \nKeterangan Terdaftar atau bahwa setiap ketentuan peraturan \npelaksana merupakan akibat yang mutlak diperintahkan olehnya;",
+      "start_line": 1113,
+      "end_line": 1120
+    },
+    {
+      "heading": "d. Bahwa Putusan Nomor 63/PUU-XV/2017 belum memberikan",
+      "slug": "d-bahwa-putusan-nomor-63-puu-xv-2017-belum-memberikan",
+      "text": "ukuran operasional itu terhadap konfigurasi setelah UU HPP. \nPemaknaan yang dimohonkan mengoperasionalkan prinsip \nputusan tersebut pada objek baru dan tidak mengurangi daya \nikatnya;",
+      "start_line": 1122,
+      "end_line": 1125
+    },
+    {
+      "heading": "3. Pembedaan Cacat Norma dan Cacat Peraturan Pelaksana",
+      "slug": "3-pembedaan-cacat-norma-dan-cacat-peraturan-pelaksana",
+      "text": "a. Bahwa cacat konstitusional berada pada tingkat undang-undang  \nkarena frasa a quo membuka dua pemaknaan dengan akibat hukum \nberbeda: pengadministrasian kompetensi yang bersifat deklaratif  \natau pembentukan kriteria dan akibat hukum tambahan yang bersifat \nkonstitutif. Peraturan pelaksana hanya menunjukkan bahwa \nkemungkinan pemaknaan tersebut bersifat aktual;   \nb. Bahwa apabila frasa a quo sejak awal membatasi kewenangan pada \nfungsi deklaratif, setiap peraturan pelaksana yang melampaui ba tas \nitu semata-mata menimbulkan persoalan legalitas yang menjadi \nkewenangan Mahkamah Agung. Karena batas tersebut belum \nterdapat dalam frasa a quo, pemulihan pada tingkat undang-undang \ntetap diperlukan;",
+      "start_line": 1127,
+      "end_line": 1138
+    },
+    {
+      "heading": "c. Bahwa berdasarkan uji penghilangan peraturan pelaksana, seka lipun",
+      "slug": "c-bahwa-berdasarkan-uji-penghilangan-peraturan-pelaksana-seka-lipun",
+      "text": "Peraturan Menteri Keuangan Nomor 44 Tahun 2026 dan Peraturan \nMenteri Keuangan Nomor 55 Tahun 2026 dicabut, diubah, atau \ndiganti, keterbukaan kedua pemaknaan tetap melekat selama frasa a \nquo tidak diberi batas operasional. Karena itu, persoalan \nkonstitusional tidak bergantung pada keberlakuan atau legalitas  \nkedua peraturan tersebut;",
+      "start_line": 1140,
+      "end_line": 1145
+    },
+    {
+      "heading": "4. Rumusan Pemaknaan dan Batas Akibat Hukumnya",
+      "slug": "4-rumusan-pemaknaan-dan-batas-akibat-hukumnya",
+      "text": "a. Bahwa bentuk putusan yang dimohonkan Pemohon adalah putusan \ninkonstitusional bersyarat terhadap frasa a quo, bukan pembatalan \nkeseluruhan materi Pasal 44E ayat (2) huruf e ataupun penghapusan \nseluruh kewenangan delegasi kepada Menteri Keuangan. Pemohon \n\n34 \njuga tidak memohon penghapusan kewajiban seorang kuasa untuk \nmempunyai kompetensi tertentu, penetapan pihak yang berhak \nmenjadi kuasa, pengakuan terhadap jenis sertifikat tertentu, ataupun \npembentukan sistem profesi oleh Mahkamah. Kewenangan Menteri \nKeuangan untuk mengatur tata cara administratif pelaksanaan kuasa \nserta pencatatan, pembuktian, pemeriksaan, dan verifikasi \nkompetensi tetap berlaku sepanjang dilaksanakan dalam batas \npemaknaan konstitusional yang dimohonkan; \nb. Bahwa berdasarkan seluruh uraian tersebut, Pemohon menegaska n \nbahwa persoalan konstitusional dalam Permohonan a quo tidak \nterletak pada keberadaan kewenangan Menteri Keuangan untuk \nmembentuk pengaturan teknis-administratif, kewajiban seorang \nkuasa untuk mempunyai kompetensi tertentu, ataupun kewajiban \nmemiliki instrumen administratif yang berfungsi membuktikan \nterpenuhinya kompetensi. Persoalan konstitusionalnya terletak pada \nketerbukaan frasa a quo yang dapat dimaknai memberikan \nkewenangan untuk membentuk kriteria kompetensi atau akibat \nhukum tambahan yang tidak ditentukan dan tidak diberikan batas \nserta parameter yang memadai oleh undang-undang, sehingga suatu \nstatus administratif secara mandiri menjadi sumber lahir atau \nhilangnya kelayakan seseorang menerima penunjukan sebagai \nkuasa;",
+      "start_line": 1147,
+      "end_line": 1174
+    },
+    {
+      "heading": "c. Bahwa pemaknaan demikian menimbulkan ketidakpastian mengenai",
+      "slug": "c-bahwa-pemaknaan-demikian-menimbulkan-ketidakpastian-mengenai",
+      "text": "batas kewenangan yang didelegasikan, kedudukan hukum \nseseorang yang telah mempunyai kompetensi dalam aspek \nperpajakan, hak Wajib Pajak untuk memilih dan menunjuk kuasa, \nserta kesempatan seseorang menerima penunjukan dan \nmenjalankan pekerjaan sebagai kuasa. Oleh karena itu, sepanjang  \ndimaknai demikian, frasa a quo  bertentangan dengan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan tidak \nmempunyai kekuatan hukum mengikat;",
+      "start_line": 1176,
+      "end_line": 1183
+    },
+    {
+      "heading": "d. Bahwa berdasarkan uraian tersebut, frasa \"diatur dengan atau",
+      "slug": "d-bahwa-berdasarkan-uraian-tersebut-frasa-diatur-dengan-atau",
+      "text": "berdasarkan Peraturan Menteri Keuangan\" pada bagian penutup \nPasal 44E ayat (2), sepanjang frasa tersebut berlaku terhadap materi \n\n35 \n\"kompetensi tertentu yang harus dimiliki seorang kuasa sebagaimana \ndimaksud dalam Pasal 32 ayat (3a)\" dalam Pasal 44E ayat (2) hur uf \ne, sebagaimana dimuat dalam Pasal 2 angka 19 Undang-Undang \nNomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan \n(Lembaran Negara Republik Indonesia Tahun 2021 Nomor 246, \nTambahan Lembaran Negara Republik Indonesia Nomor 6736), \nharus dinyatakan bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 dan tidak mempunyai \nkekuatan hukum mengikat sepanjang tidak dimaknai: \n\"Frasa 'diatur dengan atau berdasarkan Peraturan Menteri \nKeuangan', sepanjang frasa tersebut berlaku terhadap materi \n'kompetensi tertentu yang harus dimiliki seorang kuasa sebagaimana \ndimaksud dalam Pasal 32 ayat (3a)' dalam Pasal 44E ayat (2) hur uf \ne, hanya mendelegasikan kewenangan untuk mengatur tata cara \nadministratif berupa pencatatan, pembuktian,  pemeriksaan, dan \nverifikasi atas terpenuhinya kompetensi yang unsur dan batasnya  \ntelah ditentukan atau diberikan parameter secara memadai oleh \nundang-undang, serta tidak mendelegasikan kewenangan untuk \nmembentuk kriteria kompetensi atau akibat hukum tambahan yang \ntidak ditentukan dan tidak diberikan batas serta parameter yang  \nmemadai oleh undang-undang sehingga suatu status administratif \nsecara mandiri menjadi sumber lahir atau hilangnya kelayakan \nseseorang menerima penunjukan sebagai kuasa.\" \nIV. PETITUM \nBerdasarkan seluruh uraian mengenai kewenangan Mahkamah, kedudu kan \nhukum Pemohon, dan alasan-alasan Permohonan tersebut, Pemohon \nmemohon kepada Mahkamah Konstitusi untuk menjatuhkan putusan se bagai \nberikut:",
+      "start_line": 1185,
+      "end_line": 1216
+    },
+    {
+      "heading": "2. Menyatakan frasa \"diatur dengan atau berdasarkan Peraturan Ment eri",
+      "slug": "2-menyatakan-frasa-diatur-dengan-atau-berdasarkan-peraturan-ment-eri",
+      "text": "Keuangan\" pada bagian penutup Pasal 44E ayat (2), sepanjang fra sa \ntersebut berlaku terhadap materi \"kompetensi tertentu yang haru s dimiliki \n\n36 \nseorang kuasa sebagaimana dimaksud dalam Pasal 32 ayat (3a)\" da lam \nPasal 44E ayat (2) huruf e, sebagaimana dimuat dalam Pasal 2 an gka 19 \nUndang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan \nPerpajakan (Lembaran Negara Republik Indonesia Tahun 2021 Nomor  246, \nTambahan Lembaran Negara Republik Indonesia Nomor 6736), \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang tidak \ndimaknai: \n\"Frasa 'diatur dengan atau berdasarkan Peraturan Menteri Keuang an', \nsepanjang frasa tersebut berlaku terhadap materi 'kompetensi te rtentu yang \nharus dimiliki seorang kuasa sebagaimana dimaksud dalam Pasal 3 2 ayat \n(3a)' dalam Pasal 44E ayat (2) huruf e, hanya mendelegasikan ke wenangan \nuntuk mengatur tata cara administratif berupa pencatatan, pembu ktian, \npemeriksaan, dan verifikasi atas terpenuhinya kompetensi yang u nsur dan \nbatasnya telah ditentukan atau diberikan parameter secara memad ai oleh \nundang-undang, serta tidak mendelegasikan kewenangan untuk membentuk \nkriteria kompetensi atau akibat hukum tambahan yang tidak diten tukan dan \ntidak diberikan batas serta parameter yang memadai oleh undang- undang \nsehingga suatu status administratif secara mandiri menjadi sumber lahir atau \nhilangnya kelayakan seseorang menerima penunjukan sebagai kuasa.\"",
+      "start_line": 1220,
+      "end_line": 1243
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Republik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik",
+      "text": "Indonesia sebagaimana mestinya. \nAtau apabila Mahkamah berpendapat lain, mohon putusan yang sead il-adilnya \n(ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-34, tanpa \nBukti P-31 sampai dengan Bukti P-33, yang telah disahkan dalam persidangan \nMahkamah pada tanggal 5 Oktober 2026, sebagai berikut:",
+      "start_line": 1245,
+      "end_line": 1251
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Berita Acara Pengambilan Sumpah Advoka t",
+      "slug": "3-bukti-p-3-fotokopi-berita-acara-pengambilan-sumpah-advoka-t",
+      "text": "Pemohon; \n\n37",
+      "start_line": 1255,
+      "end_line": 1257
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Izin Kuasa Hukum Perpajakan Pemo hon,",
+      "slug": "4-bukti-p-4-fotokopi-kartu-izin-kuasa-hukum-perpajakan-pemo-hon",
+      "text": "Nomor KHP-04256, berlaku hingga 9 April 2028;",
+      "start_line": 1259,
+      "end_line": 1259
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Surat Kuasa Khusus Nomor 001/PJP-SKK/0 9/2026",
+      "slug": "5-bukti-p-5-fotokopi-surat-kuasa-khusus-nomor-001-pjp-skk-0-9-2026",
+      "text": "bertanggal 8 September 2026;",
+      "start_line": 1261,
+      "end_line": 1261
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Sertifikat Brevet Pajak A & B atas nam a Rinto",
+      "slug": "6-bukti-p-6-fotokopi-sertifikat-brevet-pajak-a-b-atas-nam-a-rinto",
+      "text": "Setiyawan, A.Md., CTP., Nomor 015/PPKAB-XII/P51& \nBFI/2024;",
+      "start_line": 1263,
+      "end_line": 1264
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Dokumen Pengalaman Profesional Pemohon d i",
+      "slug": "7-bukti-p-7-fotokopi-dokumen-pengalaman-profesional-pemohon-d-i",
+      "text": "Bidang Perpajakan;",
+      "start_line": 1266,
+      "end_line": 1266
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Surat Pernyataan Pemohon Bahwa Pada Sa at",
+      "slug": "8-bukti-p-8-fotokopi-surat-pernyataan-pemohon-bahwa-pada-sa-at",
+      "text": "Permohonan Diajukan Pemohon Belum Memiliki Surat \nKeterangan Terdaftar Sebagai Pihak Lain;",
+      "start_line": 1268,
+      "end_line": 1269
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Surat Kuasa Khusus Nomor 006/MSMP-",
+      "slug": "9-bukti-p-9-fotokopi-surat-kuasa-khusus-nomor-006-msmp",
+      "text": "SK/VIII/2026 bertanggal 27 Agustus 2026 dari PT. Matahari \nSurya Mitra Pangan kepada Rinto Setyawan;",
+      "start_line": 1271,
+      "end_line": 1272
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Perjanjian Pemberian Jasa Pendamping an dan",
+      "slug": "10-bukti-p-10-fotokopi-perjanjian-pemberian-jasa-pendamping-an-dan",
+      "text": "Kuasa di Bidang Perpajakan Nomor 001/MSMP-\nSPK/04/2026 Antara PT. Matahari Surya Mitra Pangan dan \nPemohon bertanggal 1 Mei 2026;",
+      "start_line": 1274,
+      "end_line": 1276
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Halaman Sampul Undang-Undang Dasar N egara",
+      "slug": "11-bukti-p-11-fotokopi-halaman-sampul-undang-undang-dasar-n-egara",
+      "text": "Republik Indonesia Tahun 1945 (UUD NRI Tahun 1945) \nserta halaman yang memuat Pasal 24C ayat (1), Pasal 27 \nayat (2), dan Pasal 28D ayat (1) UUD NRI Tahun 1945;",
+      "start_line": 1278,
+      "end_line": 1280
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Halaman Sampul Undang-Undang Nomor 2 4",
+      "slug": "12-bukti-p-12-fotokopi-halaman-sampul-undang-undang-nomor-2-4",
+      "text": "Tahun 2003 tentang Mahkamah Konstitusi serta halaman \nyang memuat Pasal 10 ayat (1) huruf a, Halaman Sampul \nUndang-Undang Nomor 8 Tahun 2011 tentang Perubahan \nAtas Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi serta halaman yang memuat Pasal \n51A ayat (1), dan Pasal 60 ayat (1);",
+      "start_line": 1282,
+      "end_line": 1287
+    },
+    {
+      "heading": "13. Bukti P-13 : Fotokopi Halaman Sampul Peraturan Mahkamah Ko nstitusi",
+      "slug": "13-bukti-p-13-fotokopi-halaman-sampul-peraturan-mahkamah-ko-nstitusi",
+      "text": "Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara \nPengujian Undang-Undang serta halaman yang memuat \n\n38 \nPasal 2 ayat (5), Pasal 4 ayat (1) huruf a dan ayat (2), Pasal \n10 ayat (3) dan Pasal 72 PMK 7/2025;",
+      "start_line": 1289,
+      "end_line": 1294
+    },
+    {
+      "heading": "14. Bukti P-14 : Fotokopi Halaman Sampul Undang-Undang Nomor 6 Tahun",
+      "slug": "14-bukti-p-14-fotokopi-halaman-sampul-undang-undang-nomor-6-tahun",
+      "text": "1983 tentang Ketentuan Umum dan Tata Cara Perpajakan \nsebagaimana telah beberapa kali diubah terakhir dengan \nUndang-Undang Nomor 6 Tahun 2023 Penetepan Peraturan \nPemerintah Pengganti Undang-Undang Nomor 2 Tahun \n2022 tentang Cipta Kerja Menjadi Undang-Undang serta \nhalaman yang memuat Pasal 32 ayat (3) dan ayat (3a) \nbeserta Penjelasannya, dan Pasal 44E ayat (2) khususnya \nhuruf e frasa “diatur dengan atau berdasarkan Peraturan \nMenteri Keuangan”;",
+      "start_line": 1296,
+      "end_line": 1304
+    },
+    {
+      "heading": "15. Bukti P-15 : Fotokopi Halaman Sampul Undang-Undang Nomor 7 Tahun",
+      "slug": "15-bukti-p-15-fotokopi-halaman-sampul-undang-undang-nomor-7-tahun",
+      "text": "2021 tentang Harmonisasi Peraturan Perpajakan, serta \nhalaman yang memuat Pasal 2 angka 19 yang menyisipkan \nPasal 44E di antara Pasal 44D dan Pasal 45 dalam Undang-\nUndang Nomor 7 Tahun 2021 tentang Harmonisasi \nPeraturan Perpajakan, serta Penjelasan Pasal 44E;",
+      "start_line": 1306,
+      "end_line": 1310
+    },
+    {
+      "heading": "16. Bukti P-16 : Fotokopi halaman sampul Undang-Undang Nomor 1 3 Tahun",
+      "slug": "16-bukti-p-16-fotokopi-halaman-sampul-undang-undang-nomor-1-3-tahun",
+      "text": "2022 tentang Perubahan Kedua Atas Undang-Undang \nNomor 12 Tahun 2011 tentang Pembentukan Peraturan \nPerundang-undangan serta halaman yang memuat Pasal 9 \nayat (1), dan halaman sampul Undang-Undang Nomor 12 \nTahun 2011 tentang Pembentukan Peraturan Perundang-\nundangan serta halaman yang memuat Pasal 24;",
+      "start_line": 1312,
+      "end_line": 1317
+    },
+    {
+      "heading": "17. Bukti P-17 : Fotokopi halaman sampul Peraturan Menteri Keu angan",
+      "slug": "17-bukti-p-17-fotokopi-halaman-sampul-peraturan-menteri-keu-angan",
+      "text": "Nomor 44 Tahun 2026 tentang Persyaratan Untuk Menjadi \nKuasa di Bidang Perpajakan dan Tata Cara Pelaksanaan Hak \ndan Pemenuhan Kewajiban Kuasa di Bidang Perpajakan \nserta halaman yang memuat konsiderans huruf c mengenai \npelaksanaan Pasal 44E ayat (2) huruf e UU KUP, dan \nhalaman yang memuat Pasal 3 ayat (4), Pasal 4 ayat (2), \nserta Pasal 16 ayat (1); \n\n39",
+      "start_line": 1319,
+      "end_line": 1327
+    },
+    {
+      "heading": "18. Bukti P-18 : Fotokopi halaman sampul Putusan Mahkamah Kons titusi",
+      "slug": "18-bukti-p-18-fotokopi-halaman-sampul-putusan-mahkamah-kons-titusi",
+      "text": "Nomor 006/PUU-lll/2005 tanggal 31 Mei 2005 serta halaman \npertimbangan hukum yang memuat syarat kerugian \nkonstitusional;",
+      "start_line": 1329,
+      "end_line": 1331
+    },
+    {
+      "heading": "19. Bukti P-19 : Fotokopi halaman sampul Putusan Mahkamah Kons titusi",
+      "slug": "19-bukti-p-19-fotokopi-halaman-sampul-putusan-mahkamah-kons-titusi",
+      "text": "Nomor 11/PUU-V/2007 tanggal 20 September 2007 serta \nhalaman pertimbangan hukum yang memuat syarat kerugian \nkonstitusional;",
+      "start_line": 1333,
+      "end_line": 1335
+    },
+    {
+      "heading": "20. Bukti P-20 : Fotokopi halaman sampul Ikhtisar Putusan Perk ara Nomor",
+      "slug": "20-bukti-p-20-fotokopi-halaman-sampul-ikhtisar-putusan-perk-ara-nomor",
+      "text": "63/PUU-XV/2017 dan bagian-bagian yang relevan dari \nPutusan Mahkamah Konstitusi Nomor 63/PUU-XV/2017;",
+      "start_line": 1337,
+      "end_line": 1338
+    },
+    {
+      "heading": "21. Bukti P-21 : Fotokopi halaman sampul Putusan Mahkamah Kons titusi",
+      "slug": "21-bukti-p-21-fotokopi-halaman-sampul-putusan-mahkamah-kons-titusi",
+      "text": "Nomor 25/PUU-XXlII/2025 tanggal 27 Mei 2025;",
+      "start_line": 1340,
+      "end_line": 1340
+    },
+    {
+      "heading": "22. Bukti P-22 : Fotokopi halaman sampul Peraturan Menteri Keu angan",
+      "slug": "22-bukti-p-22-fotokopi-halaman-sampul-peraturan-menteri-keu-angan",
+      "text": "Nomor 55 Tahun 2026 tentang Konsultan Pajak dan Pihak \nLain yang Bertindak sebagai Kuasa Wajib Pajak, serta \nhalaman yang memuat konsiderans huruf b dan huruf c; \nPasal 1 angka 3 dan angka 15; Pasal 2 ayat (1) huruf c dan \nayat (2) huruf i dan huruf m, serta ayat (5); Pasal 10 ayat (7) \ndan ayat (9); Pasal 44 ayat (2); Pasal 50 ayat (1), ayat (2), \ndan ayat (6); Pasal 51 ayat (2), ayat (3), dan ayat (4); Pasal \n52 huruf a; Pasal 54; serta Pasal 55;",
+      "start_line": 1342,
+      "end_line": 1349
+    },
+    {
+      "heading": "23. Bukti P-23 : Fotokopi halaman sampul Undang-Undang Nomor 4 Tahun",
+      "slug": "23-bukti-p-23-fotokopi-halaman-sampul-undang-undang-nomor-4-tahun",
+      "text": "2023 tentang Pengembangan dan Penguatan Sektor \nKeuangan sebagaimana telah diubah dengan Undang-\nUndang Nomor 4 Tahun 2026 tentang Perubahan atas \nUndang-Undang Nomor 4 Tahun 2023 tentang \nPengembangan dan Penguatan Sektor Keuangan serta \nhalaman yang memuat Pasal 259 ayat (1) huruf e dan huruf \ni, ayat (3), ayat (5), serta ayat (6);",
+      "start_line": 1351,
+      "end_line": 1357
+    },
+    {
+      "heading": "24. Bukti P-24 : Fotokopi halaman sampul Peraturan Pemerintah Nomor 50",
+      "slug": "24-bukti-p-24-fotokopi-halaman-sampul-peraturan-pemerintah-nomor-50",
+      "text": "Tahun 2022 tentang Tata Cara Pelaksanaan Hak dan \nPemenuhan Kewajiban Perpajakan serta halaman yang \nmemuat Pasal 53; \n\n40",
+      "start_line": 1359,
+      "end_line": 1363
+    },
+    {
+      "heading": "25. Bukti P-25 : Fotokopi halaman sampul Undang-Undang Nomor 4 8 Tahun",
+      "slug": "25-bukti-p-25-fotokopi-halaman-sampul-undang-undang-nomor-4-8-tahun",
+      "text": "2009 tentang Kekuasaan Kehakiman dan halaman yang \nmemuat Pasal 29 ayat (1) huruf a;",
+      "start_line": 1365,
+      "end_line": 1366
+    },
+    {
+      "heading": "26. Bukti P-26 : Fotokopi halaman sampul Undang-undang Nomor 1 4 Tahun",
+      "slug": "26-bukti-p-26-fotokopi-halaman-sampul-undang-undang-nomor-1-4-tahun",
+      "text": "2002 tentang Pengadilan Pajak serta halaman yang memuat \nPasal 34 ayat (2) dan ayat (3);",
+      "start_line": 1368,
+      "end_line": 1369
+    },
+    {
+      "heading": "27. Bukti P-27 : Fotokopi halaman sampul Peraturan Menteri Keu angan",
+      "slug": "27-bukti-p-27-fotokopi-halaman-sampul-peraturan-menteri-keu-angan",
+      "text": "Nomor 184/PMK.01/2017 tentang Persyaratan untuk Menjadi \nKuasa Hukum pada Pengadilan Pajak dan halaman yang \nmemuat Pasal 3 huruf b serta Pasal 4;",
+      "start_line": 1371,
+      "end_line": 1373
+    },
+    {
+      "heading": "28. Bukti P-28 : Fotokopi halaman sampul Putusan Mahkamah Kons titusi",
+      "slug": "28-bukti-p-28-fotokopi-halaman-sampul-putusan-mahkamah-kons-titusi",
+      "text": "Nomor 22/PUU-Xll/2014 tanggal 28 Mei 2014, halaman \npertimbangan hukum mengenai kedudukan hukum warga \nmasyarakat pembayar pajak ( taxpayers) berdasarkan Pasal \n51 Undang-Undang tentang Mahkamah Konstitusi dan \nadagium no taxation without participation  s e r t a  no \nparticipation without tax, serta halaman amar putusan;",
+      "start_line": 1375,
+      "end_line": 1380
+    },
+    {
+      "heading": "30. Bukti P-30 : Fotokopi Bukti Penerimaan Elektronik (BPE) No mor BPE-",
+      "slug": "30-bukti-p-30-fotokopi-bukti-penerimaan-elektronik-bpe-no-mor-bpe",
+      "text": "51957/CT/KPP.1201/2026 tanggal 31 Maret 2026 atas \npenyampaian Surat Pemberitahuan Tahunan Pajak \nPenghasilan Wajib Pajak Orang Pribadi Tahun Pajak 2025 \natas nama Rinto Setiyawan;",
+      "start_line": 1383,
+      "end_line": 1386
+    },
+    {
+      "heading": "31. Bukti P-34 : Fotokopi Sertifikat atas nama Kahfi Permana y ang",
+      "slug": "31-bukti-p-34-fotokopi-sertifikat-atas-nama-kahfi-permana-y-ang",
+      "text": "menyatakan bahwa yang bersangkutan lulus pelatihan pajak \nterapan Brevet A dan B angkatan ke-26 yang \ndiselenggarakan oleh Makui Tax Institute. \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini,  \nsegala sesuatu yang terjadi di persidangan merujuk berita acara persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini. \n \n \n\n41",
+      "start_line": 1388,
+      "end_line": 1397
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1]  Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah dengan Undang-Undang Nomor 8 \nTahun 2011 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia  Tahun 2011 \nNomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 522 6, \nselanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor \n48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Repu blik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076, selanjutnya disebut UU 48/2009), salah sa tu kewenangan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji Undang-Undang terhadap UUD NRI Tahun \n1945;  \n[3.2]  Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas Undang-Undang, in casu Undang-Undang Nomor 7 Tahun 2021 \ntentang Harmonisasi Peraturan Perpajakan (Lembaran Negara Repub lik Indonesia \nTahun 2021 Nomor 246, Tambahan Lembaran Negara Republik Indones ia Nomor \n6736, selanjutnya disebut UU 7/2021) terhadap UUD NRI Tahun 194 5 maka \nMahkamah berwenang mengadili permohonan a quo; \nKedudukan Hukum Pemohon \n[3.3]  Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian Undan g-Undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu Undang-Undang, yaitu:  \na. perorangan warga negara Indonesia;  \n\n42 \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan se suai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam Undang-Undang;",
+      "start_line": 1399,
+      "end_line": 1431
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian Undang-Undang terhada p \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu:  \na.  kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pas al 51 ayat \n(1) UU MK;  \nb.  ada tidaknya kerugian hak dan/atau kewenangan konstitusiona l yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya Undang -Undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a;  \n[3.4]  Menimbang pula bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007, serta putusan-putusan selanjutnya berpendirian bahwa kerugian \nhak dan/atau kewenangan konstitusional sebagaimana dimaksud dal am Pasal 51 \nayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu:  \na.  adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI Tahun 1945;  \nb.  hak dan/atau kewenangan konstitusional tersebut oleh Pemoho n dianggap \ndirugikan oleh berlakunya Undang-Undang yang dimohonkan pengujian;",
+      "start_line": 1434,
+      "end_line": 1452
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (k husus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-k-husus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1454,
+      "end_line": 1455
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat (causal verband) antara kerugian dimaksud dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian-dimaksud-dan",
+      "text": "berlakunya Undang-Undang yang dimohonkan pengujian;  \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi;  \n\n43 \n[3.5]  Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1)  UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan di atas, selanjutnya Mahkamah akan memper timbangkan \nkedudukan hukum Pemohon sebagai berikut:",
+      "start_line": 1457,
+      "end_line": 1465
+    },
+    {
+      "heading": "1. Bahwa norma Undang-Undang yang dimohonkan pengujian dalam permohonan",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-pengujian-dalam-permohonan",
+      "text": "a quo adalah frasa \"diatur dengan atau berdasarkan Peraturan Menteri \nKeuangan\" pada bagian penutup Pasal 44E ayat (2), sepanjang fra sa tersebut \nberlaku terhadap materi \"kompetensi tertentu yang harus dimiliki seorang kuasa \nsebagaimana dimaksud dalam Pasal 32 ayat (3a)\" dalam norma Pasal 44E ayat \n(2) huruf e dalam Pasal 2 angka 19 UU 7/2021, yang rumusannya b erbunyi \nsebagai berikut: \n(1) … \n(2)  Ketentuan lebih lanjut mengenai: \na. … \ne. pelaksanaan hak dan pemenuhan kewajiban perpajakan oleh \nseorang kuasa sebagaimana dimaksud dalam Pasal 32 ayat (3) \nserta komptensi tertentu yang harus dimiliki seorang kuasa \nsebagaimana dimaksud dalam Pasal 32 ayat (3a) \nf. …dst \ndiatur dengan atau berdasarkan Peraturan Menteri Keuangan.",
+      "start_line": 1467,
+      "end_line": 1481
+    },
+    {
+      "heading": "2. Bahwa Pemohon merasa hak konstitusional sebagaimana dijamin dalam Pasal",
+      "slug": "2-bahwa-pemohon-merasa-hak-konstitusional-sebagaimana-dijamin-dalam-pasal",
+      "text": "27 ayat (2) dan Pasal 28D ayat (1) UUD NRI Tahun 1945, dirugika n dengan \nberlakunya Pasal 44E ayat (2) huruf e dalam Pasal 2 angka 19 UU 7/2021;",
+      "start_line": 1483,
+      "end_line": 1484
+    },
+    {
+      "heading": "3. Bahwa Pemohon adalah perseorangan warga negara Indonesia dan wajib pajak",
+      "slug": "3-bahwa-pemohon-adalah-perseorangan-warga-negara-indonesia-dan-wajib-pajak",
+      "text": "(pembayar pajak) [vide Bukti P-29] yang berprofesi sebagai advokat [vide Bukti \nP-2 dan Bukti P-3] dan memiliki surat izin menjadi kuasa hukum perpajakan [vide \nBukti P-4) serta memiiki kompetensi dalam bidang perpajakan dib uktikan \ndengan Sertifikat Brevet AB [vide Bukti P-6];",
+      "start_line": 1486,
+      "end_line": 1489
+    },
+    {
+      "heading": "4. Bahwa Pemohon saat ini menjadi kuasa hukum dari PT. Matahari Surya Mitra",
+      "slug": "4-bahwa-pemohon-saat-ini-menjadi-kuasa-hukum-dari-pt-matahari-surya-mitra",
+      "text": "Pangan dan dibuktikan dengan Perjanjian Pemberian Jasa Pendampingan dan \nKuasa di Bidang Perpajakan yang berlaku sampai dengan tanggal 30 April 2027 \n[vide Bukti P-9 dan Bukti P-10]. Namun Pemohon dalam hal ini be lum memiliki \nSurat Keterangan Terdaftar sebagai salah satu dokumen administr atif yang \nditentukan dalam Peraturan Menteri Keuangan sebagai peraturan p elaksana \nsebagaimana dimaksud frasa \"diatur dengan atau berdasarkan Pera turan \nMenteri Keuangan\" pada bagian penutup Pasal 44E ayat (2), sepan jang frasa \n\n44 \ntersebut berlaku terhadap materi \"kompetensi tertentu yang haru s dimiliki \nseorang kuasa sebagaimana dimaksud dalam Pasal 32 ayat (3a)\" dalam norma \nPasal 44E ayat (2) huruf e dalam Pasal 2 angka 19 UU 7/2021;",
+      "start_line": 1491,
+      "end_line": 1502
+    },
+    {
+      "heading": "5. Bahwa Pemohon beranggapan bahwa ketentuan Pasal 44E ayat (2) huruf e",
+      "slug": "5-bahwa-pemohon-beranggapan-bahwa-ketentuan-pasal-44e-ayat-2-huruf-e",
+      "text": "dalam Pasal 2 angka 19 UU 7/2021 telah merugikan atau berpotensi merugikan \nhak konstitusional Pemohon yang diakibatkan tidak adanya Batasa n atau \nparameter yang jelas terkait dengan adanya pendelegasian kewena ngan \nkepada Menteri Keuangan untuk menentukan kompetensi yang harus dimiliki \noleh kuasa sebagaimana dimaksud dalam norma pasal a quo;",
+      "start_line": 1504,
+      "end_line": 1508
+    },
+    {
+      "heading": "6. Bahwa Pemohon yang merupakan advokat dan praktisi hukum perpajakan telah",
+      "slug": "6-bahwa-pemohon-yang-merupakan-advokat-dan-praktisi-hukum-perpajakan-telah",
+      "text": "menerima penunjukan serta menjalankan profesinya dalam hal pemberian jasa \nsebagai kuasa hukum PT Matahari Surya Mitra Pangan sampai dengan tanggal \n30 April 2027. Dalam hal ini, norma a quo tidak menyebabkan ketidakpastian \nhukum mengenai kelayakan Pemohon untuk melaksanakan penunjukan \nsebagai kuasa PT Matahari Surya Mitra Pangan dikarenakan ketida kjelasan \nbatas serta parameter yang memadai untuk menentukan dari undang -undang \napakah kompetensi Pemohon cukup dicatat, dibuktikan, diperiksa,  d a n  \ndiverifikasi secara administratif, atau kelayakannya untuk mene rima dan \nmelaksanakan penunjukan masih dapat ditentukan secara mandiri o leh suatu \nstatus administratif berdasarkan kriteria kompetensi atau akiba t hukum \ntambahan;",
+      "start_line": 1510,
+      "end_line": 1520
+    },
+    {
+      "heading": "7. Bahwa selain ketidakpastian hukum sebagaimana disebutkan di atas, selaku",
+      "slug": "7-bahwa-selain-ketidakpastian-hukum-sebagaimana-disebutkan-di-atas-selaku",
+      "text": "wajib pajak, Pemohon yang telah mengadakan Perjanjian Kerja Sam a dan \nmemberikan Surat Kuasa Khusus kepada Kahfi Permana untuk melaks anakan \ntindakan perpajakan berkenaan dengan Pajak Penghasilan Orang Pr ibadi \nTahun Pajak 2026, dalam hubungan hukum yang berlaku sampai deng an \ntanggal 1 Agustus 2027. Sehingga menyebabkan Kahfi Permana sela ku kuasa \nhukum Pemohon mengalami ketidakpastian hukum yang disebabkan \nketidakjelasan batas serta parameter yang memadai untuk menentu kan dari \nundang-undang apakah kompetensi Kahfi Permana cukup dicatat, di buktikan, \ndiperiksa, dan diverifikasi secara administratif, atau kelayaka nnya untuk \nmenerima dan melaksanakan penunjukan masih dapat ditentukan sec ara \nmandiri oleh suatu status adminis tratif berdasarkan kriteria ko mpetensi atau \nakibat hukum tambahan; \n\n45",
+      "start_line": 1522,
+      "end_line": 1535
+    },
+    {
+      "heading": "8. Bahwa kerugian konstitusional Pemohon berupa ketidakpasatian hukum karena",
+      "slug": "8-bahwa-kerugian-konstitusional-pemohon-berupa-ketidakpasatian-hukum-karena",
+      "text": "diberikannya pengaturan lebih lanjut kepada Menteri Keuangan te rsebut tidak \ndiberikan kriteria kompetensi dan akibat hukum tambahan yang secara mandiri \nmenentukan kelayakan seseorang menerima penunjukan sebagai kuas a \nhukum; \nBerdasarkan uraian Pemohon dalam menjelaskan kedudukan hukumnya \nsebagaimana diuraikan di atas, Pemohon telah dapat membuktikan dirinya sebagai \nperseorangan warga negara Indonesia yang memiliki hak konstitus ional yang \ndijamin oleh UUD NRI Tahun 1945. Selain itu, Pemohon juga telah  dapat \nmenjelaskan bahwa hak konstitusional yang dimiliki tersebut dia nggap dirugikan \nakibat berlakunya undang-undang yang dimohonkan pengujian, yait u berkaitan \ndengan frasa \"diatur dengan atau berdasarkan Peraturan Menteri Keuangan\" pada \nbagian penutup Pasal 44E ayat (2), sepanjang frasa tersebut ber laku terhadap \nmateri \"kompetensi tertentu yang harus dimiliki seorang kuasa s ebagaimana \ndimaksud dalam Pasal 32 ayat (3a)\" dalam norma Pasal 44E ayat (2) huruf e dalam \nPasal 2 angka 19 UU 7/2021. Anggapan kerugian hak konstitusiona l yang \ndimaksudkan oleh Pemohon memiliki hubungan sebab-akibat ( causal-verband) \ndengan berlakunya norma undang-undang yang dimohonkan pengujian  s e r t a  \nbersifat spesifik dan aktual, karena dengan berlakunya norma a quo Pemohon tidak \nmendapatkan kepastian hukum pada saat menjalankan profesinya se bagai kuasa \nyang diakibatkan adanya pengaturan syarat administratif sebagai  k u a s a  \nberdasarkan Peraturan Menteri Keuangan. Oleh karena itu, apabila permohonan a \nquo dikabulkan, anggapan kerugian hak konstitusional Pemohon tidak lagi terjadi. \nDengan demikian, terlepas dari terbukti atau tidaknya inkonstit usionalitas norma \nyang dimohonkan pengujian, menurut Mahkamah, Pemohon memiliki k edudukan \nhukum untuk bertindak sebagai pemohon dalam mengajukan permohonan a quo. \n[3.6]  Menimbang bahwa karena Mahkamah berwenang mengadili permohonan \na quo dan Pemohon memiliki kedudukan hukum untuk bertindak sebagai pemohon, \nmaka Mahkamah selanjutnya mempertimbangkan pokok permohonan. \nPokok Permohonan \n[3.7]  Menimbang bahwa Pemohon mendalilkan frasa \"diatur dengan atau \nberdasarkan Peraturan Menteri Keuangan\" pada bagian penutup Pas al 44E ayat \n\n46 \n(2), sepanjang frasa tersebut berlaku terhadap materi \"kompeten si tertentu yang \nharus dimiliki seorang kuasa sebagaimana dimaksud dalam Pasal 3 2 ayat (3a)\" \ndalam norma Pasal 44E ayat (2) huruf e dalam Pasal 2 angka 19 U U 7/2021 \nbertentangan dengan Pasal 27 ayat (2) dan Pasal 28D ayat (1) UU D NRI Tahun \n1945, dengan dalil-dalil (selengkapnya dimuat dalam bagian Dudu k Perkara) yang \napabila dipahami dan dirumuskan oleh Mahkamah pada pokoknya sebagai berikut:",
+      "start_line": 1537,
+      "end_line": 1575
+    },
+    {
+      "heading": "1. Bahwa menurut Pemohon, frasa \"diatur dengan atau berdasarkan Peraturan",
+      "slug": "1-bahwa-menurut-pemohon-frasa-diatur-dengan-atau-berdasarkan-peraturan",
+      "text": "Menteri Keuangan\" pada bagian penutup Pasal 44E ayat (2), sepan jang frasa \ntersebut berlaku terhadap materi \"kompetensi tertentu yang haru s dimiliki \nseorang kuasa sebagaimana dimaksud dalam Pasal 32 ayat (3a)\" dalam norma \nPasal 44E ayat (2) huruf e dalam Pasal 2 angka 19 UU 7/2021 bel um \nmenegaskan batas antara pencatatan, pembuktian, pemeriksaan, dan verifikasi \nkompetensi yang unsur serta batasnya telah ditentukan atau dibe ri parameter \nmemadai oleh undang-undang dan pembentukan kriteria atau akibat  h u k u m  \ntambahan tanpa batas serta parameter memadai dari undang-undang . Hal \ntersebut kemudian merugikan Pemohon karena dalam Peraturan Ment eri \nKeuangan Republik Indonesia Nomor 44 Tahun 2026 tentang Persyar atan \nUntuk Mejadi Kuasa Di Bidang Perpjakan Dan Tata Cara Pelaksanaan Hak Dan \nPemenuhan Kewajiban Kuasa Di Bidang Perpajakan (PMK 44/2026) ya ng \nmerupakan peraturan yang dibentuk untuk melaksanakan Pasal 44E ayat (2) \nhuruf e dalam Pasal 2 angka 19 UU 7/2021 mensyaratkan kompetens i kuasa \nyang disebut sebagai Pihak Lain adalah dengan adanya Surat Kete rangan \nTerdaftar (SKT) dan  Pemohon pada saat mengajukan permohonan a quo belum \nmemiliki SKT sebagaimana disyaratkan dalam PMK 44/2026 sehingga  \nPemohon tidak dapat bertindak sebagai kuasa;",
+      "start_line": 1577,
+      "end_line": 1594
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, pendelegasian kepada Menteri Keuangan",
+      "slug": "2-bahwa-menurut-pemohon-pendelegasian-kepada-menteri-keuangan",
+      "text": "sebagaimana dimaksud Pasal 44E ayat (2) huruf e dalam Pasal 2 angka 19 UU \n7/2021 tersebut tidak memiliki kejelasan batas kewenangan hal y ang \ndidelegasikan;",
+      "start_line": 1596,
+      "end_line": 1598
+    },
+    {
+      "heading": "3. Bahwa menurut Pemohon, frasa a quo tidak menjelaskan mengenai pengaturan",
+      "slug": "3-bahwa-menurut-pemohon-frasa-a-quo-tidak-menjelaskan-mengenai-pengaturan",
+      "text": "lebih lanjut apakah terbatas pada pembuktian dan verifikasi kom petensi dalam \nkerangka tersebut atau dapat pula membentuk kriteria dan akibat  hukum \ntambahan yang berdiri sendiri sebagai penentu kelayakan menerim a \npenunjukan. Adanya ketidakjelasan batas tersebut yang menimbulk an \n\n47 \npersoalan kepastian hukum bagi Pemohon sebagai penerima maupun pemberi \nkuasa, serta berpotensi membatasi kesempatan Pemohon menjalanka n \npekerjaan sebagai kuasa;",
+      "start_line": 1600,
+      "end_line": 1608
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon, persoalan konstitusional yang dialami Pemohon",
+      "slug": "4-bahwa-menurut-pemohon-persoalan-konstitusional-yang-dialami-pemohon",
+      "text": "terletak pada keterbukaan frasa a quo yang dapat dimaknai memberikan \nkewenangan untuk membentuk kriteria kompetensi atau akibat huku m \ntambahan yang tidak diberikan batasan memadai oleh undang-undan g, \nsehingga dalam hal ini status kuasa yang dimiliki oleh Pemohon saat ini dapat \nhilang atau tidak memiliki kelayakan untuk menerima penunjukan sebagai kuasa \nyang diakibatkan oleh berlakunya peraturan pelaksana undang-undang a quo. \nBahwa berdasarkan dalil-dalil sebagaimana tersebut di atas, Pem ohon \ndalam petitumnya memohon kepada Mahkamah agar menyatakan frasa \"diatur \ndengan atau berdasarkan Peraturan Menteri Keuangan\" pada bagian penutup Pasal \n44E ayat (2), sepanjang frasa tersebut berlaku terhadap materi \"kompetensi tertentu \nyang harus dimiliki seorang kuasa sebagaimana dimaksud dalam Pa sal 32 ayat \n(3a)\" Pasal 44E ayat (2) huruf e dalam Pasal 2 angka 19 UU 7/20 21 bertentangan \ndengan UUD NRI Tahun 1945 dan tidak mempunyai kekuatan hukum me ngikat \nsepanjang tidak dimaknai \"Frasa 'diatur dengan atau berdasarkan Peraturan Menteri \nKeuangan', sepanjang frasa tersebut berlaku terhadap materi 'ko mpetensi tertentu \nyang harus dimiliki seorang kuasa sebagaimana dimaksud dalam Pasal 32 ayat (3a)' \ndalam Pasal 44E ayat (2) huruf e, hanya mendelegasikan kewenang an untuk \nmengatur tata cara administratif berupa pencatatan, pembuktian, pemeriksaan, dan \nverifikasi atas terpenuhinya kompetensi yang unsur dan batasnya  telah ditentukan \natau diberikan parameter secara memadai oleh undang-undang, ser ta tidak \nmendelegasikan kewenangan untuk membentuk kriteria kompetensi a tau akibat \nhukum tambahan yang tidak ditentukan dan tidak diberikan batas serta parameter \nyang memadai oleh undang-undang sehingga suatu status administr atif secara \nmandiri menjadi sumber lahir atau hilangnya kelayakan seseorang  menerima \npenunjukan sebagai kuasa.\" \n[3.8] Menimbang bahwa oleh karena permohonan a quo telah jelas, Mahkamah \nberpendapat tidak terdapat urgensi dan relevansinya untuk memin ta keterangan \npihak-pihak sebagaimana disebutkan dalam Pasal 54 UU MK.  \n\n48 \n[3.9]  Menimbang bahwa sebelum mempertimbangkan lebih lanjut permoho nan \nPemohon, terhadap permohonan pengujian frasa \"kompetensi terten tu yang harus \ndimiliki seorang kuasa sebagaimana dimaksud dalam Pasal 32 ayat  ( 3 a )  d i a t u r  \ndengan atau berdasarkan Peraturan Menteri Keuangan\" Pasal 44E ayat (2) huruf e \ndalam Pasal 2 angka 19 UU 7/2021, Mahkamah ternyata telah perna h memutus \nperkara pengujian konstitusionalitas norma a quo , yaitu Putusan Mahkamah \nKonstitusi Nomor 328/PUU-XXIV/2026 yang diucapkan dalam sidang pleno terbuka \nuntuk umum pada tanggal 29 September 2026 dengan amar menyataka n \npermohonan Pemohon tidak dapat diterima. Oleh karena itu, Mahka mah terlebih \ndahulu akan mempertimbangkan permohonan Pemohon berkaitan denga n \nketentuan Pasal 60 UU MK dan Pasal 72 Peraturan Mahkamah Konstitusi Nomor 7 \nTahun 2025 tentang Tata Beracara Dalam Perkara Pengujian Undang -Undang \n(PMK 7/2025), yang masing-masing menyatakan: \nPasal 60 UU MK: \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang-undang \nyang telah diuji, tidak dapat dimohonkan pengujian kembali. \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecual ikan jika \nmateri muatan dalam Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 yang dijadikan dasar pengujian berbeda. \nPasal 72 PMK 7/2025 \n(1) Terhadap materi muatan, ayat, pasal, dan/atau bagian dalam undang-undang \natau Perppu yang telah diuji, tidak dapat dimohonkan pengujian kembali, \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecual ikan jika \nmateri muatan dalam UUD 1945 yang dijadikan dasar pengujian berbeda atau \nterdapat alasan permohonan yang berbeda.  \nBerdasarkan ketentuan tersebut, terhadap pasal yang telah dilak ukan \npengujian konstitusionalitasnya dan telah diputus oleh Mahkamah  hanya dapat \ndimohonkan pengujian kembali apabila terdapat dasar pengujian d an/atau alasan \npermohonan yang berbeda. Berkaitan dengan hal tersebut, setelah  M a h k a m a h  \nmencermati dengan saksama permohonan Pemohon a quo, ternyata terdapat dasar \npengujian yang digunakan, yaitu Pasal 27 ayat (2) UUD NRI Tahun 1945 yang tidak \ndigunakan pada permohonan sebelumnya. Oleh karena itu, berdasar kan fakta \nhukum tersebut, karena adanya dasar hukum yang berbeda yang digunakan dalam \npermohonan a quo dengan permohonan sebelumnya dan ketentuan dalam Pasal \n60 UU MK dan Pasal 72 PMK 7/2025 bersifat alternatif, Mahkamah berpendapat \ntidak terdapat relevansinya lagi untuk mempertimbangkan syarat adanya alasan \nyang berbeda dengan permohonan sebelumnya. Dengan demikian, terlepas secara \n\n49 \nsubstansial permohonan a quo beralasan atau tidak, secara formal permohonan a \nquo berdasarkan Pasal 60 UU MK dan Pasal 72 PMK 7/2025 dapat diaju kan \nkembali. Sehingga, berkaitan dengan permohonan Pemohon a quo Mahkamah akan \nmempertimbangkan pokok permohonan lebih lanjut. \n[3.10]  Menimbang bahwa setelah Mahkamah memeriksa dengan saksama \npermohonan Pemohon dan bukti-bukti yang diajukan Pemohon, pada dasarnya isu \nutama yang dipersoalkan oleh Pemohon adalah berkenaan dengan pe ndelegasian \nkewenangan kepada Menteri Keuangan berkaitan dengan materi peng aturan \nkompetensi yang harus dimiliki seorang kuasa dalam bidang perpa jakan dalam \nperaturan pelaksana. Oleh karena itu, setelah dicermati secara saksama, berkenaan \ndengan isu yang dipersoalkan oleh Pemohon sekalipun dirumuskan dalam petitum \nyang berbeda, namun pada hakikatnya memiliki esensi yang sama yaitu norma yang \ndimohonkan pengujian seharusnya hanya mendelegasikan kewenangan  untuk \nmengatur secara administratif yang unsur dan batas atau parameternya telah diatur \ndalam undang-undang, dan tidak mendelegasikan kewenangan untuk membentuk \nkriteria kompetensi atau akibat hukum tambahan yang tidak diten tukan serta tidak \ndiberikan batas serta parameter yang memadai oleh undang-undang  sehingga \nsuatu status administratif secara mandiri menjadi sumber lahir atau hilangnya \nkelayakan seseorang menerima penunjukan sebagai kuasa. Dalam ka itan ini, isu \nutama yang dimohonkan Pemohon telah ternyata memiliki keterkait an dengan isu \nyang pernah diputus oleh Mahkamah dalam Permohonan Nomor 63/PUU -XV/2017 \nyang diucapkan dalam sidang pleno terbuka untuk umum pada tangg al 26 April",
+      "start_line": 1610,
+      "end_line": 1700
+    },
+    {
+      "heading": "2018. Dengan demikian, sebelum Mahkamah mempertimbangkan lebih lanjut,",
+      "slug": "2018-dengan-demikian-sebelum-mahkamah-mempertimbangkan-lebih-lanjut",
+      "text": "berkaitan dengan permasalahan tersebut, Mahkamah telebih dahulu  mengutip \nbagian pertimbangan dalam Putusan Mahkamah Konstitusi Nomor 63/ PUU-\nXV/2017, yang pada pokoknya sebagai berikut. \n[3.10.2] …",
+      "start_line": 1702,
+      "end_line": 1705
+    },
+    {
+      "heading": "1. … Hal-hal yang diatur dalam Undang-Undang secara konstitusio nal",
+      "slug": "1-hal-hal-yang-diatur-dalam-undang-undang-secara-konstitusio-nal",
+      "text": "seharusnya didelegasikan ke Peraturan Pemerintah sesuai dengan \nPasal 5 ayat (2) UUD 1945 yang menyatakan, “Presiden menetapkan \nPeraturan Pemerintah untuk menjalankan undang-undang \nsebagaimana mestinya” . Namun, masalah pendelegasian tersebut \ndiatur secara agak berbeda dalam UU 12/2011 yang berlaku saat i ni, \nsebagaimana tertuang dalam Lampiran II khususnya Pedoman angka \n198 sampai dengan angka 216 UU 12/2011. Pedoman angka 211 \nLampiran II UU 12/2011 menyatakan, “ Pendelegasian kewenangan \nmengatur dari undang-undang kepada menteri, pemimpin lembaga \n\n50 \npemerintah nonkementerian, atau pejabat yang setingkat dengan \nmenteri dibatasi untuk peraturan yang bersifat teknis administratif”.  \nDengan demikian, terlepas dari persoalan apakah secara doktrine r \ndalam sistem pemerintahan Presidensial dapat dibenarkan adanya \npendelegasian kewenangan mengatur langsung dari Undang-Undang \nkepada Peraturan Menteri, menurut hukum positif yang berlaku pa da \nsaat ini ( in casu UU 12/2011) pendelegasian kewenangan demikian \ndimungkinkan sepanjang hal itu berkenaan dengan pengaturan yang  \nbersifat teknis-administratif. Dengan kata lain, secara a contrario , \npendelegasian kewenangan dari Undang-Undang langsung kepada \nPeraturan Menteri tidak dibenarkan jika materi muatannya berken aan \ndengan hal-hal yang menurut hierarki peraturan perundang-undangan \nbukan merupakan materi muatan Peraturan Menteri;",
+      "start_line": 1707,
+      "end_line": 1730
+    },
+    {
+      "heading": "10. … Demi untuk menjamin agar hak dan kewajiban Wajib Pajak",
+      "slug": "10-demi-untuk-menjamin-agar-hak-dan-kewajiban-wajib-pajak",
+      "text": "terlaksana secara baik dan dikuasakan kepada/didampingi oleh kuasa \nyang menjalankan hak dan kewajibannya sebagai Kuasa Wajib Pajak, \nmaka hal-hal yang berhubungan dengan persyaratan serta \npelaksanaan hak dan kewajiban Kuasa Wajib Pajak tidak dapat \ndiposisikan hanya sekedar hal yang bersifat teknis administrati f. \nPersyaratan serta hak dan kewajiban Kuasa Wajib Pajak berhubungan \ndengan pelaksanaan hak dan kewajiban Wajib Pajak. Terlaksana atau \ntidaknya hak dan kewajiban sesuai aturan serta adanya kepastian  \nhukum yang adil bagi Wajib Pajak dalam melaksanakan hak dan \nkewajibannya akan sangat bergantung pada bagaimana pengaturan \nterkait dengan hak Wajib Pajak untuk dikuasakan kepada/didampin gi \noleh kuasanya. Oleh karena itu, hal tersebut bukanlah sesuatu y ang \nbersifat teknis administratif, melainkan lebih bersifat substantif karena \nberhubungan dengan pembatasan hak seseorang dalam \nmelaksanakan hak dan kewajiban perpajakannya sehingga \nseharusnya materi tersebut diatur dalam undang-undang. Dalam ha l \nini, Undang-Undang harus mengatur secara jelas mengenai \npersyaratan bagi orang yang akan bertindak sebagai Kuasa Wajib \nPajak, baik syarat administratif maupun syarat kompetensi. Pada saat \nyang sama, undang-undang juga harus mengatur dan menjamin \nbahwa Kuasa Wajib Pajak harus dapat menjalankan hak dan \nkewajibannya secara bebas dan mandiri. Pengaturan tersebut akan  \nmenjadi instrumen hukum untuk melindungi dan menjamin bahwa hak \ndan kewajiban Wajib Pajak dapat dilaksanakan sesuai dengan \nketentuan peraturan perundang-undangan dan terhindar dari \nkemungkinan adanya tindakan sewenang-wenang dan ketidakpastian \nhukum.  \n[vide Putusan Mahkamah Konstitusi Nomor 63/PUU-XV/2017, \nhalaman 125, halaman 131 s.d halaman 132] \n[3.12] …Mahkamah berpendapat bahwa memang terdapat kebutuhan untuk \nmengatur lebih tegas pendelegasian wewenang teknis-administrati f \n“pelaksanaan hak dan kewajiban kuasa” sebagaimana dimaksud dalam Pasal \n32 ayat (3a) UU KUP kepada Menteri Keuangan. Sesuai dengan sifa tnya \nsebagai delegasi yang bersifat teknis-administratif maka, di sa tu pihak, \npengaturan demikian tidak boleh mengandung materi muatan yang merugikan \n\n51 \nhak wajib pajak dalam memberi kuasa kepada pihak manapun yang dinilainya \nmampu memperjuangkan hak-haknya sebagai wajib pajak dan menurut  \nundang-undang absah untuk menerima kuasa demikian serta, di lai n pihak, \ntidak menghambat atau mengurangi kewenangan negara untuk memung ut \npajak yang diturunkan dari UUD 1945. Pendelegasian kewenangan mengatur \nhal-hal yang bersifat teknis-administratif bukan dimaksudkan un tuk \nmemberikan kewenangan yang lebih (over capacity of power) kepada Menteri \nKeuangan melainkan hanya untuk mengatur lebih lanjut mengenai “syarat dan \ntata cara pelaksanaan kuasa”. Artinya, pengaturan itu tidak bol eh berisikan \nmateri muatan yang seharusnya merupakan materi muatan peraturan  yang \nlebih tinggi, lebih-lebih materi muatan undang-undang. Oleh kar ena itu, ada \natau tidak ada kasus konkret sebagaimana dialami Pemohon, pendelegasian \nkewenangan mengenai “syarat dan tata cara pelaksanaan kuasa” \nsebagaimana diatur dalam Pasal 32 ayat (3a) UU KUP hanya dapat \ndinyatakan konstitusional jika materi muatannya semata-mata bersifat teknis-\nadministratif.  \n[3.13]  Menimbang bahwa berdasarkan seluruh pertimbangan di atas tela h \nternyata bahwa dalil Pemohon mengenai inkonstitusionalitas mate ri muatan \nPasal 32 ayat (3a) UU KUP adalah beralasan menurut hukum untuk sebagian, \nyaitu sepanjang frasa “pelaksanaan hak dan kewajiban kuasa” dal am Pasal \n32 ayat (3a) UU KUP tidak dimaknai hanya berkenaan dengan hal-h al yang \nbersifat teknis-administratif, yaitu sepanjang tidak membatasi hak \nkonstitusional warga negara dan bukan pembatasan dan/atau perlu asan hak \ndan kewajiban.  \n[vide Putusan Mahkamah Konstitusi Nomor 63/PUU-XV/2017, halaman  133 \ns.d halaman 134] \nBahwa berdasarkan kutipan uraian pertimbangan hukum tersebut di atas, \nterhadap norma pendelegasian dalam  Undang-Undang Nomor 28 Tahun 2007 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 6 Tahun 1983 tentang \nKetentuan Umum dan Tata Cara Perpajakan sebagaimana telah diuba h dengan \nUndang-Undang Nomor 16 Tahun 2009 tentang Penetapan Peraturan P emerintah \nPengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat Atas \nUndang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tat a Cara \nPerpajakan Menjadi Undang-Undang (UU KUP), Mahkamah telah meneg askan \nsecara jelas pendelegasian kewenangan dari undang-undang kepada  peraturan \nmenteri dimungkinkan sepanjang berkenaan dengan hal yang sifatn ya mengatur \nteknis-administratif. Dengan kata lain, pendelegasian kewenanga n dari undang-\nundang langsung kepada peraturan menteri tidak dibenarkan jika materi muatannya \nberkenaan dengan hal-hal yang menurut hierarki peraturan perund ang-undangan \nyang bukan merupakan materi muatan peraturan menteri. Sehingga,  sebagaimana \npertimbangan hukum tersebut di atas, peraturan pelaksana terkai t dengan \npersoalan yang dimohonkan oleh Pemohon dalam hal ini berkaitan dengan \n\n52 \nkompetensi kuasa dalam bidang perpajakan hanya sebatas aturan y ang sifatnya \nteknis-administratif dan perluasan hal-hal yang tidak berdampak pada penambahan \natau hilangnya hak konstitusional warga negara, in casu kuasa dalam perpajakan.   \nLebih lanjut, melalui pertimbangan hukum tersebut di atas Mahkamah pun \nmenegaskan bahwa pendelegasian kewenangan untuk mengatur hal-ha l yang \nbersifat teknis-administratif tersebut tidak dimaksudkan member ikan kewenangan \nyang lebih kepada Menteri Keuangan, karena materi muatan peratu ran pelaksana \ntersebut tidak boleh mengandung materi muatan yang merugikan ha k wajib pajak \ndan kuasa dalam konteks pemberian kuasa kepada pihak yang dinil ainya mampu \nmemperjuangkan hak-haknya sebagai wajib pajak dan menurut undan g-undang \nmemenuhi syarat untuk menjadi penerima kuasa, sepanjang hal ter sebut tidak \nmenghambat atau mengurangi kewenangan negara untuk memungut paj ak yang \nditurunkan dari UUD NRI Tahun 1945. Di samping itu, melalui pertimbangan hukum \ntersebut, sesungguhnya Mahkamah secara jelas dan tegas telah me mberikan \nbatasan terhadap materi muatan dari peraturan pelaksana yang me rupakan \npendelegasian kewenangan dari undang-undang kepada Menteri Keua ngan, in \ncasu undang-undang sebagaimana yang dimaksud dalam putusan tersebut telah \ndiubah terakhir dengan UU 7/2021, yaitu hanya memuat hal-hal yang bersifat teknis-\nadministratif dan tidak membatasi hak konstitusional warga nega r a  s e r t a  b u k a n  \npembatasan dan/atau perluasan hak dan kewajiban, sebagaimana ju ga yang \nsesungguhnya dimohonkan oleh Pemohon. Sehingga, sudah seharusny a \npembentukan peraturan pelaksana yang dilakukan oleh Menteri Keu angan \nberkaitan dengan syarat kompetensi kuasa perpajakan sebagaimana  dimaksud \nPasal 44E ayat (2) huruf e dalam Pasal 2 angka 19 UU 7/2021 tidak boleh memuat \nmateri muatan sebagaimana hal-hal yang tercantum dalam pertimba ngan hukum \ntersebut di atas. Dengan demikian, oleh karena berkenaan dengan  h a l  t e r s e b u t  \nMahkamah belum memiliki alasan yang kuat dan mendasar untuk ber geser dari \npendirian dalam putusan sebelumnya, maka secara mutatis mutandis pertimbangan \nhukum dalam Putusan Mahkamah Konstitusi Nomor 63/PUU-XV/2017 te rsebut \nmenjadi pertimbangan hukum dalam memutus permohonan a quo. \nBerdasarkan seluruh uraian pertimbangan hukum tersebut di atas,  dalil \nPemohon berkenaan dengan inkonstitusionalitas bersyarat frasa \" diatur dengan \natau berdasarkan Peraturan Menteri Keuangan\" pada bagian penutu p Pasal 44E \nayat (2), sepanjang frasa tersebut berlaku terhadap materi \"kom petensi tertentu \n\n53 \nyang harus dimiliki seorang kuasa sebagaimana dimaksud dalam Pa sal 32 ayat \n(3a)\" dalam norma Pasal 44E ayat (2) huruf e dalam Pasal 2 angk a 19 UU 7/2021 \nadalah tidak beralasan menurut hukum. \n[3.11]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum  \ntersebut di atas telah ternyata bahwa dalil Pemohon mengenai in konstitusionalitas \nbersyarat frasa \"diatur dengan atau berdasarkan Peraturan Mente ri Keuangan\" \npada bagian penutup Pasal 44E ayat (2), sepanjang frasa tersebut berlaku terhadap \nmateri \"kompetensi tertentu yang harus dimiliki seorang kuasa s ebagaimana \ndimaksud dalam Pasal 32 ayat (3a)\" dalam norma Pasal 44E ayat (2) huruf e dalam \nPasal 2 angka 19 UU 7/2021 ternyata tidak bertentangan dengan hak atas pekerjaan \ndan penghidupan yang layak serta jaminan perlindungan dan kepastian hukum yang \nadil serta perlakuan yang sama dihadapan hukum sebagaimana yang dijamin dalam \nPasal 27 ayat (2) dan Pasal 28D ayat (1) UUD NRI Tahun 1945, bukan sebagaimana \nyang didalilkan Pemohon. Dengan demikian, dalil permohonan Pemo hon adalah \ntidak beralasan menurut hukum. \n[3.12] Menimbang bahwa berkenaan dengan hal-hal lain dan selebihnya t idak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1733,
+      "end_line": 1866
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 1868,
+      "end_line": 1868
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan  a quo; \n[4.2]  Pemohon memiliki kedudukan hukum untuk mengajukan permohonan         \na quo; \n[4.3]  Pertimbangan hukum dalam Putusan Mahkamah Konstitusi Nomor \n63/PUU-XV/2017 mutatis mutandis menjadi pertimbangan hukum dalam \nmemutus permohonan a quo. \n[4.4] Pokok permohonan Pemohon tidak beralasan menurut hukum. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \n\n54 \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554) da n Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 1870,
+      "end_line": 1887
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili, \nMenolak permohonan Pemohon untuk seluruhnya. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota \npada hari Rabu, tanggal tujuh, bulan Oktober, tahun dua ribu dua puluh enam,  \nyang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka u ntuk umum \npada hari Kamis, tanggal lima belas, bulan Oktober, tahun dua ribu dua puluh \nenam, selesai diucapkan pukul  15.40 WIB  oleh sembilan Hakim Konstitusi yaitu \nSuhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Daniel Yu smic P. Foekh, \nM. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, Arsul Sani , Adies Kadir, \ndan Liliek Prisbawono Adi, masing-masing sebagai Anggota, denga n dibantu oleh \nDian Chusnul Chatimah sebagai Panitera Pengganti, serta dihadir i Dewan \nPerwakilan Rakyat atau yang mewakili, Presiden atau yang mewakili, tanpa dihadiri \noleh Pemohon dan/atau kuasanya. \nKETUA, \nttd. \nSuhartoyo \n \n \n\n55 \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \nttd. \nEnny Nurbaningsih \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nDian Chusnul Chatimah",
+      "start_line": 1889,
+      "end_line": 1932
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Rinto Setiyawan, A.Md.T., S.H.",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Sujono",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "S.E., S.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Husnaf Rafli, S.H",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang"
+    ],
+    "constitutional_articles": [
+      "Pasal 10 ayat (3)",
+      "Pasal 28D ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 27 ayat (2)",
+      "Pasal 5 ayat (2)"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (1) hur",
+      "Pasal 4 ayat (2)",
+      "Pasal 60",
+      "Pasal 2 ayat (5)"
+    ],
+    "evidence": [
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "BUKTI P-25",
+      "BUKTI P-16",
+      "BUKTI P-13",
+      "BUKTI P-29",
+      "BUKTI P-30",
+      "BUKTI P-31",
+      "BUKTI P-28",
+      "BUKTI P-33",
+      "BUKTI P-14",
+      "BUKTI P-24",
+      "BUKTI P-32",
+      "BUKTI P-34",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-6",
+      "BUKTI P-4",
+      "BUKTI P-9",
+      "BUKTI P- 10",
+      "BUKTI P-18",
+      "BUKTI P-19",
+      "BUKTI P- 11",
+      "BUKTI P-15",
+      "BUKTI P-17",
+      "BUKTI P-22",
+      "BUKTI P-8",
+      "BUKTI P-20",
+      "BUKTI P-10",
+      "BUKTI P-21",
+      "BUKTI P-26",
+      "BUKTI P-27",
+      "BUKTI P- 12",
+      "BUKTI P-1",
+      "BUKTI P-5",
+      "BUKTI P-7",
+      "BUKTI P-23",
+      "REFERENSI:341/PUU-XXIV/2026",
+      "REFERENSI:001/PJP-SKK/09/2026",
+      "REFERENSI:341/PUU/PAN.MK/AP3/09/2026",
+      "REFERENSI:51957/CT/KPP.1201/2026",
+      "REFERENSI:011/PKS-RS-KPNlll/2026",
+      "REFERENSI:011/KHNll1/2026",
+      "REFERENSI:006/PUU-111/2005",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:63/PUU-XV/2017",
+      "REFERENSI:63/PUU-XV/2017DANPERSOALANKHUSUSFRASAAQUOXV/2017",
+      "REFERENSI:25/PUU-XXlll/2025",
+      "REFERENSI:001/MSMP-SPK/04/2026",
+      "REFERENSI:006/PUU-lll/2005",
+      "REFERENSI:63/PUU-XV/2017danbagian-bagianyangrelevandariPutusanMahkamahKonstitusiNomor63/PUU-XV/2017",
+      "REFERENSI:25/PUU-XXlII/2025",
+      "REFERENSI:184/PMK.01/2017",
+      "REFERENSI:22/PUU-Xll/2014",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:328/PUU-XXIV/2026",
+      "REFERENSI:12/2011.Pedomanangka211LampiranIIUU12/2011",
+      "REFERENSI:63/PUU-XV/2017DANPERSOALANKHUSUSFRASAAQUO1.BahwaparameterPutusanMahkamahKonstitusiNomor63/PUU-XV/2017",
+      "REFERENSI:25/PUU-XXlll/2025DANPERMOHONANAQUO1.BahwaPutusanMahkamahKonstitusiNomor25/PUU-XXlll/2025",
+      "REFERENSI:006/MSMP-SK/VIII/2026"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "pemeriksaan, dan verifikasi kompetensi, sekaligus menutup",
+    "kewenangan pada pencatatan, pembuktian, pemeriksaan, dan",
+    "serta pencatatan, pembuktian, pemeriksaan, dan verifikasi"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Mengadili, Menolak permohonan Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Dian Chusnul Chatimah"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "341/PUU-XXIV/2026",
+      "001/PJP-SKK/09/2026",
+      "341/PUU/PAN.MK/AP3/09/2026",
+      "51957/CT/KPP.1201/2026",
+      "011/PKS-RS-KPNlll/2026",
+      "011/KHNll1/2026",
+      "006/PUU-111/2005",
+      "11/PUU-V/2007",
+      "63/PUU-XV/2017",
+      "63/PUU-XV/2017DANPERSOALANKHUSUSFRASAAQUOXV/2017",
+      "25/PUU-XXlll/2025",
+      "001/MSMP-SPK/04/2026",
+      "006/PUU-lll/2005",
+      "63/PUU-XV/2017danbagian-bagianyangrelevandariPutusanMahkamahKonstitusiNomor63/PUU-XV/2017",
+      "25/PUU-XXlII/2025",
+      "184/PMK.01/2017",
+      "22/PUU-Xll/2014",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "328/PUU-XXIV/2026",
+      "12/2011.Pedomanangka211LampiranIIUU12/2011",
+      "63/PUU-XV/2017DANPERSOALANKHUSUSFRASAAQUO1.BahwaparameterPutusanMahkamahKonstitusiNomor63/PUU-XV/2017",
+      "25/PUU-XXlll/2025DANPERMOHONANAQUO1.BahwaPutusanMahkamahKonstitusiNomor25/PUU-XXlll/2025",
+      "006/MSMP-SK/VIII/2026"
+    ],
+    "referenced_cases": [
+      "341/PUU-XXIV/2026",
+      "001/PJP-SKK/09/2026",
+      "341/PUU/PAN.MK/AP3/09/2026",
+      "51957/CT/KPP.1201/2026",
+      "011/PKS-RS-KPNlll/2026",
+      "011/KHNll1/2026",
+      "006/PUU-111/2005",
+      "11/PUU-V/2007",
+      "63/PUU-XV/2017",
+      "63/PUU-XV/2017DANPERSOALANKHUSUSFRASAAQUOXV/2017",
+      "25/PUU-XXlll/2025",
+      "001/MSMP-SPK/04/2026",
+      "006/PUU-lll/2005",
+      "63/PUU-XV/2017danbagian-bagianyangrelevandariPutusanMahkamahKonstitusiNomor63/PUU-XV/2017",
+      "25/PUU-XXlII/2025",
+      "184/PMK.01/2017",
+      "22/PUU-Xll/2014",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "328/PUU-XXIV/2026",
+      "12/2011.Pedomanangka211LampiranIIUU12/2011",
+      "63/PUU-XV/2017DANPERSOALANKHUSUSFRASAAQUO1.BahwaparameterPutusanMahkamahKonstitusiNomor63/PUU-XV/2017",
+      "25/PUU-XXlll/2025DANPERMOHONANAQUO1.BahwaPutusanMahkamahKonstitusiNomor25/PUU-XXlll/2025",
+      "006/MSMP-SK/VIII/2026"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

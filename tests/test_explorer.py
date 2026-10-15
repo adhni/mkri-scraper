@@ -5,6 +5,7 @@ from pathlib import Path
 import tempfile
 import unittest
 from urllib.parse import urlencode
+from unittest.mock import patch
 
 from src.webapp import create_app, _sort_case_summaries
 from src.webdata import build_case_catalog, summarize_case, filter_case_summaries
@@ -86,6 +87,58 @@ class ExplorerTests(unittest.TestCase):
         for p in (self.root/'parsed_json').glob('*.json'):
             p.unlink()
         self.assertIn('0 dari 0 perkara', self.request('/cases'))
+
+    def test_pagination_keeps_filters_return_links_and_api_compatibility(self):
+        for index in range(3, 48):
+            payload = dict(self.payload, document=dict(self.payload['document'], case_number=f'{index}/PUU/2025'))
+            (self.root/f'parsed_json/c{index:02}.json').write_text(json.dumps(payload))
+        first = self.request('/cases', year='2026', sort='case_number')
+        second = self.request('/cases', year='2026', sort='case_number', page='2')
+        self.assertEqual(first.count('class="case-card"'), 20)
+        self.assertEqual(second.count('class="case-card"'), 20)
+        self.assertIn('21–40 dari 46 perkara', second)
+        self.assertIn('year=2026&amp;sort=case_number&amp;page=3#results', second)
+        self.assertIn('return=%2Fcases%3Fyear%3D2026%26sort%3Dcase_number%26page%3D2%23results', second)
+        self.assertIn('aria-current="page"', second)
+        self.assertEqual(self.request('/cases', page='999').count('class="case-card"'), 7)
+        for invalid in ['0', '-2', 'bad']:
+            self.assertEqual(self.request('/cases', page=invalid).count('class="case-card"'), 20)
+        self.assertIn('Belum menemukan yang cocok', self.request('/cases', q='zzzzzz', page='4'))
+        self.assertEqual(len(json.loads(self.request('/api/cases', year='2026', page='2'))['items']), 46)
+
+    def test_filter_links_reset_page_and_owner_controls_are_private(self):
+        from src.webapp import _query_href
+        self.assertEqual(_query_href({'q':'haji','page':'3'}, topic='Pemilu'), '/cases?q=haji&topic=Pemilu#results')
+        self.assertNotIn('name="status"', self.request('/cases'))
+        self.app = create_app(self.root/'parsed_json', self.root/'validated_json', self.root/'review_queue', local_admin=True)
+        # Local ownership is limited to a loopback request.
+        body = b''.join(self.app({'PATH_INFO':'/cases','REMOTE_ADDR':'127.0.0.1','HTTP_HOST':'localhost'}, lambda *args:None)).decode()
+        self.assertIn('name="status"', body)
+        self.assertIn('name="source"', body)
+
+    def test_search_index_is_reused_and_updates_after_file_and_owner_edits(self):
+        from src.library import Library, form_values
+        with patch('src.webapp.build_case_catalog', wraps=build_case_catalog) as load:
+            self.request('/api/cases')
+            self.request('/cases')
+            self.assertEqual(load.call_count, 1)
+            self.notes['1/PUU/2025']['title'] = 'Judul diperbarui'
+            (self.root/'editorial/cases.json').write_text(json.dumps(self.notes))
+            self.assertIn('Judul diperbarui', self.request('/cases'))
+            self.assertEqual(load.call_count, 2)
+            store = Library(self.root/'library')
+            store.initialize()
+            fields = form_values(self.payload)
+            fields['title'] = 'Koreksi pemilik pertama'
+            store.save_edit('a', self.payload, fields, 0)
+            self.assertIn('Koreksi pemilik pertama', self.request('/cases'))
+            fields['title'] = 'Koreksi pemilik kedua'
+            store.save_edit('a', self.payload, fields, 1)
+            self.assertIn('Koreksi pemilik kedua', self.request('/cases'))
+            self.assertEqual(load.call_count, 4)
+            (self.root/'parsed_json/b.json').unlink()
+            self.assertEqual(len(json.loads(self.request('/api/cases'))['items']), 1)
+            self.assertEqual(load.call_count, 5)
 
 
 class SavedCollectionTests(unittest.TestCase):

@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
-from src.experience import browse_return, highlighted, search_matches, judges_html, pdf_source
+from src.experience import browse_return, case_href, highlighted, search_matches, judges_html, pdf_source
 from src.extractors.outcome import extract_outcome
 from src.webapp import _sort_case_summaries, create_app
 
@@ -22,6 +22,7 @@ class ReaderExperienceTests(unittest.TestCase):
             self.assertEqual(browse_return(bad), '/cases#results')
         self.assertEqual(highlighted('<img> hutan', 'hutan'), '&lt;img&gt; <mark>hutan</mark>')
         self.assertIsNone(pdf_source({'source': {'download_url': 'javascript:alert(1)'}}))
+        self.assertTrue(case_href('Putusan 13 #1').startswith('/cases/Putusan%2013%20%231?'))
 
     def test_unknown_judges_are_not_counted_as_supporting(self):
         html = judges_html(['Hakim A', 'Hakim B'], {})

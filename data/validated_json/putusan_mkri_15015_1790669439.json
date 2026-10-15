@@ -1,0 +1,1908 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_15015_1790669439.pdf",
+    "file_name": "putusan_mkri_15015_1790669439.pdf",
+    "page_count": 53,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15015_1790669439.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "330/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "330/PUU/PAN.MK/AP3/09/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-29",
+    "decision_date_raw": "dua puluh sembilan, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 330/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,  \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 5 Tahun 2026 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia  terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:  \nNama : Andika Adipura \nAlamat : Dusun Pengkol, RT. 002/RW. 005, Desa Sugihwaras, \nKecamatan Kalitengah, Kabupaten Lamongan, \nProvinsi Jawa Timur; \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 6,
+      "end_line": 19
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n1 September 2026 yang diterima Kepaniteraan Mahkamah Konstitusi  pada tanggal \n1 September 2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor \n330/PUU/PAN.MK/AP3/09/2026 dan telah dicatat dalam Buku Registr asi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 330/PUU- XXIV/2026 \npada tanggal 1 September 2026 yang telah diperbaiki dengan perb aikan \npermohonan bertanggal 17 September 2026 dan diterima Mahkamah p ada tanggal \n19 September 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 21,
+      "end_line": 29
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 24C ayat (1) Undang-Undang Dasar Negar a",
+      "slug": "1-bahwa-ketentuan-pasal-24c-ayat-1-undang-undang-dasar-negar-a",
+      "text": "Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahu n 1945) \n\n\n2 \nmenyatakan: \"Mahkamah Konstitusi  berwenang mengadili pada tingk at \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-\nundang terhadap Undang-Undang Dasar.\"",
+      "start_line": 31,
+      "end_line": 37
+    },
+    {
+      "heading": "2. Bahwa ketentuan Pasal 29 ayat (1) huruf a Undang-Undang Nomo r 48 Tahun",
+      "slug": "2-bahwa-ketentuan-pasal-29-ayat-1-huruf-a-undang-undang-nomo-r-48-tahun",
+      "text": "2009 tentang Kekuasaan Kehakiman menyatakan hal yang sejalan de ngan \nketentuan tersebut.",
+      "start_line": 39,
+      "end_line": 40
+    },
+    {
+      "heading": "3. Bahwa Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003",
+      "slug": "3-bahwa-pasal-10-ayat-1-huruf-a-undang-undang-nomor-24-tahun-2003",
+      "text": "tentang Mahkamah Konstitusi sebagaimana telah diubah terakhir d engan \nUndang-Undang Nomor 7 Tahun 2020 menegaskan kewenangan yang \nsama.",
+      "start_line": 42,
+      "end_line": 44
+    },
+    {
+      "heading": "4. Bahwa Mahkamah Konstitusi berwenang menguji dugaan pertentan gan",
+      "slug": "4-bahwa-mahkamah-konstitusi-berwenang-menguji-dugaan-pertentan-gan",
+      "text": "norma undang-undang terhadap UUD NRI Tahun 1945 berdasarkan Pasal 9 \nayat (1) Undang-Undang Nomor 12 Tahun 2011 sebagaimana telah di ubah \ndengan Undang-Undang Nomor 13 Tahun 2022.",
+      "start_line": 46,
+      "end_line": 48
+    },
+    {
+      "heading": "5. Bahwa Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025",
+      "slug": "5-bahwa-pasal-2-ayat-1-peraturan-mahkamah-konstitusi-nomor-7-tahun-2025",
+      "text": "(selanjutnya disebut PMK 7/2025) menyatakan: \"Objek Permohonan PUU \nadalah Undang-Undang dan Perppu.\"",
+      "start_line": 50,
+      "end_line": 51
+    },
+    {
+      "heading": "6. Bahwa Pemohon mengajukan permohonan pengujian materiil Penje lasan",
+      "slug": "6-bahwa-pemohon-mengajukan-permohonan-pengujian-materiil-penje-lasan",
+      "text": "Pasal 28A ayat (2), Pasal 28A ayat (3), dan Pasal 28A ayat (4) Undang-\nUndang Nomor 5 Tahun 2026 tentang Perubahan Ketiga atas Undang-\nUndang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia \n(selanjutnya disebut UU Polri), yang mengatur penempatan anggot a Polri \naktif pada jabatan di luar organisasi Polri.",
+      "start_line": 53,
+      "end_line": 57
+    },
+    {
+      "heading": "7. Bahwa norma a quo didalilkan bertentangan dengan Pasal 27 ay at (1), Pasal",
+      "slug": "7-bahwa-norma-a-quo-didalilkan-bertentangan-dengan-pasal-27-ay-at-1-pasal",
+      "text": "28D ayat (1), dan Pasal 28D ayat (3) UUD NRI Tahun 1945, yang \npengujiannya bertumpu pada Pasal 1 ayat (3), Pasal 24C ayat (1), dan Pasal \n28J ayat (2) UUD NRI Tahun 1945, serta dibaca secara sistemis-s truktural \ndengan Pasal 30 ayat (4) UUD NRI Tahun 1945.",
+      "start_line": 59,
+      "end_line": 62
+    },
+    {
+      "heading": "8. Bahwa oleh karena permohonan Pemohon adalah pengujian materi il undang-",
+      "slug": "8-bahwa-oleh-karena-permohonan-pemohon-adalah-pengujian-materi-il-undang",
+      "text": "undang terhadap UUD NRI Tahun 1945, maka Mahkamah Konstitusi \nberwenang untuk memeriksa, mengadili, dan memutus permohonan a quo. \nII. KEDUDUKAN HUKUM PEMOHON/LEGAL STANDING",
+      "start_line": 64,
+      "end_line": 66
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU MK juncto Pasal 4 ayat (1) PMK 7/2025",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mk-juncto-pasal-4-ayat-1-pmk-7-2025",
+      "text": "menentukan bahwa Pemohon adalah pihak yang menganggap hak dan/atau \n\n3 \nkewenangan konstitusionalnya dirugikan oleh berlakunya undang-u ndang, \nyaitu: a. perseorangan warga negara Indonesia, atau kelompok or ang yang \nmempunyai kepentingan sama; b. kesatuan masyarakat hukum adat; c. \nbadan hukum publik atau privat; atau d. lembaga negara.",
+      "start_line": 68,
+      "end_line": 74
+    },
+    {
+      "heading": "2. Bahwa Pemohon adalah perseorangan warga negara Indonesia",
+      "slug": "2-bahwa-pemohon-adalah-perseorangan-warga-negara-indonesia",
+      "text": "sebagaimana dibuktikan dengan Kartu Tanda Penduduk (Bukti P-1),  \nsehingga memenuhi kualifikasi sebagai subjek hukum sebagaimana \ndimaksud Pasal 51 ayat (1) huruf a UU MK.",
+      "start_line": 76,
+      "end_line": 78
+    },
+    {
+      "heading": "3. Bahwa Mahkamah Konstitusi dalam Putusan Nomor 006/PUU-III/20 05 juncto",
+      "slug": "3-bahwa-mahkamah-konstitusi-dalam-putusan-nomor-006-puu-iii-20-05-juncto",
+      "text": "Putusan Nomor 11/PUU-V/2007, yang  dikodifikasi dalam Pasal 4 ay at (2) \nPMK 7/2025, menentukan lima syarat kumulatif kerugian konstitusional:  \na. adanya hak konstitusional yang diberikan UUD NRI Tahun 1945;   \nb. hak tersebut dianggap dirugikan oleh berlakunya undang-undan g  \na quo;",
+      "start_line": 80,
+      "end_line": 84
+    },
+    {
+      "heading": "c. kerugian bersifat spesifik dan aktual atau setidak-tidaknya potensial",
+      "slug": "c-kerugian-bersifat-spesifik-dan-aktual-atau-setidak-tidaknya-potensial",
+      "text": "menurut penalaran yang wajar;",
+      "start_line": 86,
+      "end_line": 86
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat (causal verband); dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-dan",
+      "text": "e. adanya kemungkinan kerugian tidak terjadi lagi apabila permo honan \ndikabulkan.",
+      "start_line": 88,
+      "end_line": 89
+    },
+    {
+      "heading": "4. Bahwa sebelum menguraikan pemenuhan kelima syarat tersebut, Pemohon",
+      "slug": "4-bahwa-sebelum-menguraikan-pemenuhan-kelima-syarat-tersebut-pemohon",
+      "text": "terlebih dahulu mengemukakan satu fakta normatif yang menjadi t itik tolak \nseluruh argumentasi kedudukan hukum dalam permohonan a quo: Pasal 28A \nayat (2) UU Polri, dalam batang tubuhnya, menyatakan secara tek stual \nbahwa jabatan di luar organisasi Polri yang dapat diisi anggota  P o l r i  a k t i f  \n\"merupakan jabatan manajerial dan nonmanajerial\" pada kementeri an/ \nlembaga di tiga bidang urusan pemerintahan yang ditentukan.",
+      "start_line": 91,
+      "end_line": 96
+    },
+    {
+      "heading": "5. Bahwa fakta tekstual tersebut menjadi dasar untuk menempatka n secara",
+      "slug": "5-bahwa-fakta-tekstual-tersebut-menjadi-dasar-untuk-menempatka-n-secara",
+      "text": "tepat level jabatan yang mempunyai relevansi dengan kepentingan  konkret \nPemohon, mengingat Jabatan Pelaksana merupakan salah satu bentu k \nJabatan Nonmanajerial menurut Undang-Undang Nomor 20 Tahun 2023  \ntentang Aparatur Sipil Negara (selanjutnya disebut UU ASN). \n \n \n\n4 \nA. Adanya Hak Konstitusional Pemohon (Syarat Huruf a)",
+      "start_line": 98,
+      "end_line": 106
+    },
+    {
+      "heading": "6. Bahwa Pemohon memiliki hak konstitusional yang dijamin Pasal 28D ayat (3)",
+      "slug": "6-bahwa-pemohon-memiliki-hak-konstitusional-yang-dijamin-pasal-28d-ayat-3",
+      "text": "UUD NRI Tahun 1945: \"Setiap warga negara berhak memperoleh \nkesempatan yang sama dalam pemerintahan.\"",
+      "start_line": 108,
+      "end_line": 109
+    },
+    {
+      "heading": "7. Bahwa hak atas kesempatan yang sama dalam pemerintahan terse but",
+      "slug": "7-bahwa-hak-atas-kesempatan-yang-sama-dalam-pemerintahan-terse-but",
+      "text": "memberikan jaminan konstitusional agar setiap warga negara memp eroleh \nkesempatan yang setara untuk berpartisipasi dan berkompetisi da lam akses \nterhadap jabatan pemerintahan berdasarkan persyaratan yang dite ntukan \noleh hukum. Dalam konteks Pemohon, hak tersebut mempunyai relev ansi \ndengan akses terhadap Jabatan Pelaksana yang diperoleh melalui \nmekanisme rekrutmen CASN.",
+      "start_line": 111,
+      "end_line": 116
+    },
+    {
+      "heading": "8. Bahwa selain Pasal 28D ayat (3), kepentingan konstitusional Pemohon juga",
+      "slug": "8-bahwa-selain-pasal-28d-ayat-3-kepentingan-konstitusional-pemohon-juga",
+      "text": "berkaitan dengan Pasal 27 ayat (1), Pasal 28D ayat (1), dan Pas al 28I ayat \n(2) UUD NRI Tahun 1945.",
+      "start_line": 118,
+      "end_line": 119
+    },
+    {
+      "heading": "9. Bahwa hak konstitusional utama yang menjadi dasar kedudukan hukum",
+      "slug": "9-bahwa-hak-konstitusional-utama-yang-menjadi-dasar-kedudukan-hukum",
+      "text": "Pemohon adalah Pasal 28D ayat (3), sedangkan hak-hak lain mempe rkuat \ndasar tersebut.",
+      "start_line": 121,
+      "end_line": 122
+    },
+    {
+      "heading": "10. Bahwa dengan demikian Pemohon memenuhi syarat huruf a.",
+      "slug": "10-bahwa-dengan-demikian-pemohon-memenuhi-syarat-huruf-a",
+      "text": "B. Hak Konstitusional Pemohon Dianggap Dirugikan (Syarat Huruf b)",
+      "start_line": 124,
+      "end_line": 124
+    },
+    {
+      "heading": "11. Bahwa kerugian konstitusional Pemohon bersumber dari keberlakuan norma",
+      "slug": "11-bahwa-kerugian-konstitusional-pemohon-bersumber-dari-keberlakuan-norma",
+      "text": "a quo  yang membentuk mekanisme khusus bagi anggota Polri aktif \nmenduduki jabatan manajerial maupun nonmanajerial di luar lingk ungan \nPolri, tanpa batas materiil yang objektif, jelas, dan tertutup mengenai jabatan \nyang dapat diakses melalui mekanisme tersebut.",
+      "start_line": 126,
+      "end_line": 129
+    },
+    {
+      "heading": "12. Bahwa berdasarkan Pasal 13 UU ASN, Jabatan ASN terdiri atas Jabatan",
+      "slug": "12-bahwa-berdasarkan-pasal-13-uu-asn-jabatan-asn-terdiri-atas-jabatan",
+      "text": "Manajerial dan Jabatan Nonmanajerial. Selanjutnya, Pasal 18 aya t (1) UU \nASN menentukan bahwa Jabatan Nonmanajerial terdiri atas Jabatan  \nFungsional dan Jabatan Pelaksana. Jabatan Pelaksana adalah jaba tan \noperasional yang lazim diakses melalui rekrutmen terbuka CASN/PPPK.",
+      "start_line": 131,
+      "end_line": 134
+    },
+    {
+      "heading": "13. Bahwa oleh karena Jabatan Pelaksana merupakan salah satu be ntuk",
+      "slug": "13-bahwa-oleh-karena-jabatan-pelaksana-merupakan-salah-satu-be-ntuk",
+      "text": "Jabatan Nonmanajerial menurut Pasal 18 ayat (1) UU ASN, maka fr asa \n\"jabatan ... nonmanajerial\" dalam Pasal 28A ayat (2) secara nor matif \nmencakup kemungkinan adanya Jabatan Pelaksana yang memenuhi \npersyaratan dan batasan sebagaimana ditentukan dalam Pasal 28A UU Polri. \n\n5",
+      "start_line": 136,
+      "end_line": 141
+    },
+    {
+      "heading": "14. Bahwa Pemohon tidak mempersoalkan prinsip penempatan anggot a Polri",
+      "slug": "14-bahwa-pemohon-tidak-mempersoalkan-prinsip-penempatan-anggot-a-polri",
+      "text": "aktif di luar lingkungan Polri, sepanjang jabatan dimaksud memp unyai \nketerkaitan nyata dengan fungsi kepolisian dan berdasarkan huku m yang \njelas.",
+      "start_line": 143,
+      "end_line": 145
+    },
+    {
+      "heading": "15. Bahwa persoalan konstitusional utama terletak pada ketidakj elasan batas",
+      "slug": "15-bahwa-persoalan-konstitusional-utama-terletak-pada-ketidakj-elasan-batas",
+      "text": "jabatan  termasuk pada level nonmanajerial  yang dapat dimasuki  melalui \nmekanisme khusus berdasarkan Pasal 28A ayat (2) UU Polri, sedangkan ayat \n(3) dan ayat (4) memperluas persoalan tersebut melalui mekanism e \npenempatan yang masing-masing didasarkan pada permintaan \nkementerian/lembaga dan penugasan Presiden.",
+      "start_line": 147,
+      "end_line": 151
+    },
+    {
+      "heading": "16. Bahwa keadaan tersebut mempunyai relevansi langsung dengan hak",
+      "slug": "16-bahwa-keadaan-tersebut-mempunyai-relevansi-langsung-dengan-hak",
+      "text": "konstitusional Pemohon, karena Pemohon berkepentingan terhadap Jabatan \nPelaksana yang secara umum diakses melalui mekanisme kompetisi terbuka, \nsementara Pasal 28A ayat (2) secara tekstual memasukkan jabatan  \nnonmanajerial  yang mencakup Jabatan Pelaksana  ke dalam katego ri \njabatan yang dapat diisi anggota Polri aktif sepanjang memenuhi  kualifikasi \nyang ditentukan norma a quo.",
+      "start_line": 153,
+      "end_line": 158
+    },
+    {
+      "heading": "17. Bahwa Pemohon tidak mendalilkan hak atas jabatan tertentu maupun bahwa",
+      "slug": "17-bahwa-pemohon-tidak-mendalilkan-hak-atas-jabatan-tertentu-maupun-bahwa",
+      "text": "suatu jabatan telah diambil oleh anggota Polri aktif dari Pemoh on. Kerugian \nyang didalilkan adalah terganggunya jaminan kesempatan yang sama akibat \ntidak jelasnya batas antara kedua ruang jabatan nonmanajerial tersebut.",
+      "start_line": 160,
+      "end_line": 162
+    },
+    {
+      "heading": "18. Bahwa oleh karena itu keberlakuan norma a quo berkaitan langsung dengan",
+      "slug": "18-bahwa-oleh-karena-itu-keberlakuan-norma-a-quo-berkaitan-langsung-dengan",
+      "text": "hak konstitusional Pemohon sebagaimana Pasal 28D ayat (3) UUD N RI \nTahun 1945. \nC. Kerugian Bersifat Spesifik dan Aktual atau Potensial Menurut  Penalaran \nyang Wajar (Syarat Huruf c)",
+      "start_line": 164,
+      "end_line": 167
+    },
+    {
+      "heading": "19. Bahwa kerugian konstitusional yang didalilkan Pemohon dalam permohonan",
+      "slug": "19-bahwa-kerugian-konstitusional-yang-didalilkan-pemohon-dalam-permohonan",
+      "text": "a quo merupakan kerugian yang bersifat potensial, personal, dan prospektif, \nyang timbul dari keberlakuan norma a quo  y a n g  s e j a k  s a a t  i n i  t e l a h  \nmembentuk ruang akses khusus terhadap jabatan nonmanajerial di luar \norganisasi Polri, termasuk Jabatan Pelaksana, yang pada saat ya ng sama \nmerupakan salah satu bentuk jabatan yang menjadi ruang kompetis i bagi \nwarga negara melalui mekanisme seleksi ASN. \n\n6",
+      "start_line": 169,
+      "end_line": 176
+    },
+    {
+      "heading": "20. Bahwa oleh karena karakter kerugian yang didalilkan adalah kerugian",
+      "slug": "20-bahwa-oleh-karena-karakter-kerugian-yang-didalilkan-adalah-kerugian",
+      "text": "potensial, maka kerugian tersebut tidak mensyaratkan terlebih dahulu adanya \nsuatu keputusan administratif individual yang telah menolak Pem ohon atau \nadanya suatu jabatan tertentu yang telah ditempati anggota Polri dan secara \nkonkret sebelumnya menjadi hak Pemohon. Yang menjadi persoalan \nkonstitusional adalah terbentuknya irisan normatif antara ruang  kompetisi \nterbuka bagi warga negara dan ruang penempatan khusus bagi anggota Polri \naktif, tanpa batas objektif yang dapat diketahui secara pasti oleh Pemohon.",
+      "start_line": 178,
+      "end_line": 184
+    },
+    {
+      "heading": "21. Bahwa Pemohon memiliki kepentingan yang nyata dan dapat div erifikasi",
+      "slug": "21-bahwa-pemohon-memiliki-kepentingan-yang-nyata-dan-dapat-div-erifikasi",
+      "text": "terhadap ruang jabatan tersebut, yang dibuktikan antara lain de ngan \npengalaman Pemohon mengikuti seleksi CASN pada tahun 2018 dan t ahun",
+      "start_line": 186,
+      "end_line": 187
+    },
+    {
+      "heading": "2024. Pengalaman tersebut menunjukkan bahwa akses terhadap jaba tan",
+      "slug": "2024-pengalaman-tersebut-menunjukkan-bahwa-akses-terhadap-jaba-tan",
+      "text": "pemerintahan melalui mekanisme kompetisi ASN bukan merupakan \nkepentingan abstrak atau hipotetis bagi Pemohon, melainkan kepe ntingan \nyang secara nyata telah dijalankan dan secara rasional masih re levan \nterhadap akses Pemohon terhadap jabatan pemerintahan pada masa \nmendatang.",
+      "start_line": 189,
+      "end_line": 193
+    },
+    {
+      "heading": "22. Bahwa dalam mengakses jabatan pemerintahan melalui mekanism e ASN,",
+      "slug": "22-bahwa-dalam-mengakses-jabatan-pemerintahan-melalui-mekanism-e-asn",
+      "text": "Pemohon tidak memperoleh akses langsung hanya berdasarkan kuali fikasi \npendidikan yang dimilikinya. Kualifikasi pendidikan Pemohon har us terlebih \ndahulu disesuaikan dengan persyaratan formasi jabatan, kemudian Pemohon \nharus menunggu tersedianya formasi, memenuhi persyaratan admini strasi \ndan persyaratan jabatan, serta mengikuti tahapan seleksi dan kompetisi.",
+      "start_line": 195,
+      "end_line": 199
+    },
+    {
+      "heading": "23. Bahwa akses Pemohon melalui rekrutmen ASN juga mempunyai di mensi",
+      "slug": "23-bahwa-akses-pemohon-melalui-rekrutmen-asn-juga-mempunyai-di-mensi",
+      "text": "waktu yang nyata, karena rekrutmen hanya dibuka dalam periode t ertentu \ndan Pemohon harus memenuhi persyaratan yang berlaku pada saat \npelamaran, termasuk persyaratan usia sesuai dengan jabatan dan ketentuan \npengadaan ASN. Oleh karena itu, kesempatan Pemohon untuk mengik uti \njalur kompetisi terbuka tidak tersedia setiap saat dan tidak berlangsung tanpa \nbatas waktu.",
+      "start_line": 201,
+      "end_line": 206
+    },
+    {
+      "heading": "24. Bahwa Pemohon tidak mendalilkan pendidikan kedinasan anggota Polri tidak",
+      "slug": "24-bahwa-pemohon-tidak-mendalilkan-pendidikan-kedinasan-anggota-polri-tidak",
+      "text": "dapat menghasilkan kompetensi yang relevan untuk jabatan terten tu di luar \norganisasi Polri dan tidak pula mendalilkan anggota Polri aktif  tidak terikat \npengaturan usia dalam hubungan kedinasannya. Namun, anggota Pol ri aktif \n\n7 \nyang ditempatkan berdasarkan norma a quo memperoleh akses terhadap \njabatan di luar organisasi Polri melalui mekanisme penempatan y ang \nbersumber dari hubungan kedinasannya, bukan melalui mekanisme \npelamaran, seleksi, dan kompetisi CASN yang ditempuh Pemohon.",
+      "start_line": 208,
+      "end_line": 216
+    },
+    {
+      "heading": "25. Bahwa uraian mengenai kualifikasi pendidikan, persyaratan u sia, dan",
+      "slug": "25-bahwa-uraian-mengenai-kualifikasi-pendidikan-persyaratan-u-sia-dan",
+      "text": "mekanisme seleksi tersebut tidak dimaksudkan untuk mempersoalka n \nseluruh penempatan anggota Polri aktif di luar organisasi Polri . Uraian \ntersebut semata-mata mempertegas bahwa Pemohon memiliki kepenti ngan \npersonal dan prospektif terhadap ruang kompetisi Jabatan Pelaks ana, \nsedangkan norma a quo membuka kemungkinan penempatan anggota Polri \naktif pada Jabatan Nonmanajerial, termasuk Jabatan Pelaksana, tanpa batas \nsubstantif yang objektif, jelas, tertutup, dan dapat diprediksi.",
+      "start_line": 218,
+      "end_line": 224
+    },
+    {
+      "heading": "26. Bahwa hak atas kesempatan yang sama dalam pemerintahan sebagaimana",
+      "slug": "26-bahwa-hak-atas-kesempatan-yang-sama-dalam-pemerintahan-sebagaimana",
+      "text": "dijamin Pasal 28D ayat (3) UUD NRI Tahun 1945 tidak hanya berka itan \ndengan kemungkinan seseorang setelah diangkat menduduki jabatan  \npemerintahan, melainkan juga mencakup kesempatan untuk memasuki , \nmengikuti, dan bersaing dalam mekanisme pengisian jabatan pemer intahan \nberdasarkan persyaratan yang objektif, relevan, dan dapat diket ahui \nsebelumnya.",
+      "start_line": 226,
+      "end_line": 231
+    },
+    {
+      "heading": "27. Bahwa dalam konteks Pemohon, akses terhadap jabatan pemerin tahan",
+      "slug": "27-bahwa-dalam-konteks-pemohon-akses-terhadap-jabatan-pemerin-tahan",
+      "text": "ditempuh melalui mekanisme rekrutmen CASN yang mengharuskan \ntersedianya formasi, terpenuhinya persyaratan administrasi dan persyaratan \njabatan, kesempatan mengikuti tahapan seleksi, serta keberhasil an dalam \nkompetisi. Oleh karena itu, keikutsertaan Pemohon dalam seleksi  CASN \nTahun 2018 dan Tahun 2024 bukan sekadar riwayat pribadi, melain kan \nmenunjukkan bahwa akses terhadap jabatan pemerintahan melalui \nmekanisme kompetisi terbuka merupakan kepentingan nyata yang te lah \ndijalankan Pemohon.",
+      "start_line": 233,
+      "end_line": 240
+    },
+    {
+      "heading": "28. Bahwa perbedaan yang didalilkan Pemohon bukanlah semata-mat a",
+      "slug": "28-bahwa-perbedaan-yang-didalilkan-pemohon-bukanlah-semata-mat-a",
+      "text": "perbedaan status antara warga negara sipil dan anggota Polri ak tif, serta \nbukan pula keberatan terhadap setiap bentuk penempatan anggota Polri di \nluar organisasi Polri. Persoalannya terletak pada terbentuknya mekanisme \npenempatan khusus bagi anggota Polri aktif pada ruang jabatan yang secara \nkategoris dapat mencakup Jabatan Nonmanajerial, termasuk Jabata n \n\n8 \nPelaksana, tanpa batas jabatan yang objektif, jelas, tertutup, dan dapat \ndiprediksi. Dalam keadaan demikian, Pemohon tidak dapat mengeta hui \nsecara pasti jabatan mana yang tetap tersedia untuk diakses mel alui \nkompetisi terbuka dan jabatan mana yang dapat diisi melalui mek anisme \nkhusus bagi anggota Polri aktif.",
+      "start_line": 242,
+      "end_line": 253
+    },
+    {
+      "heading": "29. Bahwa dengan demikian, hubungan antara Pemohon dan norma a quo tidak",
+      "slug": "29-bahwa-dengan-demikian-hubungan-antara-pemohon-dan-norma-a-quo-tidak",
+      "text": "didasarkan semata-mata pada kemungkinan umum bahwa setiap warga  \nnegara sewaktu-waktu dapat mengikuti seleksi ASN, melainkan pada adanya \nkepentingan personal Pemohon terhadap jenis jabatan yang secara normatif \nberirisan dengan ruang jabatan yang dapat diakses anggota Polri  a k t i f  \nberdasarkan norma a quo.",
+      "start_line": 255,
+      "end_line": 259
+    },
+    {
+      "heading": "30. Bahwa potensi kerugian Pemohon diperkuat oleh fakta empiris berupa Daftar",
+      "slug": "30-bahwa-potensi-kerugian-pemohon-diperkuat-oleh-fakta-empiris-berupa-daftar",
+      "text": "Surat Keluar Kementerian Dalam Negeri Tahun 2025 yang dipublika sikan \npada laman resmi PPID Kementerian Dalam Negeri, yang mencatat \nsekurang-kurangnya dua surat dengan perihal “Pengangkatan anggo ta polri \ndalam jabatan pelaksana di lingkungan Sekretariat Jenderal Keme nterian \nDalam Negeri”, yaitu Surat Nomor 800.1.3.3-1766 Tahun 2025 tertanggal 28 \nFebruari 2025 atas nama Muhammad Idham Haliid dan Surat Nomor \n800.1.3.3-2058.A/2025 tertanggal 27 Maret 2025 atas nama Muhamm ad Ali \nHanafiah (bukti P-3). Maksud penunjukan Bukti P-3 bukan untuk mendalilkan \nkerugian langsung dari keberlakuan norma lama, melainkan sebaga i bukti \nkecenderungan institusional (institutional pattern) bahwa praktik penempatan \nanggota Polri pada Jabatan Pelaksana secara faktual pernah terjadi.",
+      "start_line": 261,
+      "end_line": 271
+    },
+    {
+      "heading": "31. Bahwa oleh karena itu, yang menjadi sumber potensi kerugian Pemohon",
+      "slug": "31-bahwa-oleh-karena-itu-yang-menjadi-sumber-potensi-kerugian-pemohon",
+      "text": "bukanlah semata-mata kemungkinan Pemohon mengikuti seleksi ASN pada \nmasa mendatang, melainkan keberlakuan norma a quo  y a n g  s e c a r a  \nbersamaan membuka ruang penempatan khusus bagi anggota Polri aktif dan \ntidak menentukan secara objektif, tertutup, dan dapat diprediks i batas \nJabatan Pelaksana yang dapat diisi melalui mekanisme tersebut.",
+      "start_line": 273,
+      "end_line": 277
+    },
+    {
+      "heading": "32. Bahwa keadaan demikian menimbulkan ketidakpastian mengenai batas",
+      "slug": "32-bahwa-keadaan-demikian-menimbulkan-ketidakpastian-mengenai-batas",
+      "text": "antara jabatan yang tetap berada dalam ruang kompetisi terbuka bagi warga \nnegara dan jabatan yang dapat diakses melalui mekanisme khusus bagi \nanggota Polri aktif, sehingga secara rasional menimbulkan poten si \nterganggunya hak Pemohon atas kesempatan yang sama dalam \n\n9 \npemerintahan sebagaimana dijamin oleh Pasal 28D ayat (3) UUD NRI Tahun \n1945.",
+      "start_line": 279,
+      "end_line": 286
+    },
+    {
+      "heading": "33. Bahwa dengan demikian terdapat hubungan faktual dan normatif yang dapat",
+      "slug": "33-bahwa-dengan-demikian-terdapat-hubungan-faktual-dan-normatif-yang-dapat",
+      "text": "diidentifikasi secara jelas, yaitu: Pemohon mempunyai kepenting an nyata \nterhadap akses Jabatan Pelaksana melalui mekanisme seleksi ASN; Jabatan \nPelaksana merupakan bagian dari Jabatan Nonmanajerial; norma a quo  \nmemasukkan Jabatan Nonmanajerial ke dalam kategori jabatan yang  dapat \ndiisi anggota Polri aktif; dan praktik penempatan anggota Polri pada Jabatan \nPelaksana telah tercatat secara konkret sebagaimana ditunjukkan oleh Bukti \nP-3. Rangkaian fakta dan norma tersebut menunjukkan bahwa kepen tingan \nPemohon memiliki hubungan yang cukup langsung dengan objek pengaturan \nnorma a quo.",
+      "start_line": 288,
+      "end_line": 296
+    },
+    {
+      "heading": "34. Bahwa oleh karena itu, kerugian konstitusional yang didalil kan Pemohon",
+      "slug": "34-bahwa-oleh-karena-itu-kerugian-konstitusional-yang-didalil-kan-pemohon",
+      "text": "bukanlah semata-mata kekhawatiran abstrak mengenai kebijakan \nkepegawaian negara, melainkan risiko terhadap kesempatan Pemohon untuk \nmemperoleh akses yang setara terhadap jabatan pemerintahan yang secara \nnyata menjadi kepentingannya, dalam keadaan di mana norma a quo  \nmembuka akses terhadap kategori jabatan yang sama melalui mekan isme \nkhusus bagi anggota Polri aktif, sementara batasan mengenai jab atan \nnonmanajerial yang dapat diisi belum dirumuskan dengan paramete r yang \nmenurut Pemohon cukup objektif, jelas, dan dapat diprediksi. Risiko tersebut \nberkaitan dengan hak Pemohon sebagaimana dijamin dalam Pasal 28D ayat \n(3) UUD NRI Tahun 1945, yaitu kesempatan yang sama dalam pemerintahan.",
+      "start_line": 298,
+      "end_line": 307
+    },
+    {
+      "heading": "35. Bahwa Pasal 28A ayat (2) UU Polri secara eksplisit mencakup jabatan",
+      "slug": "35-bahwa-pasal-28a-ayat-2-uu-polri-secara-eksplisit-mencakup-jabatan",
+      "text": "nonmanajerial sebagai salah satu kategori jabatan di luar organ isasi Polri, \nsedangkan berdasarkan Pasal 18 ayat (1) UU ASN, Jabatan Pelaksa na \nmerupakan salah satu bentuk Jabatan Nonmanajerial. Dengan demik ian, \nJabatan Pelaksana secara kategoris termasuk dalam cakupan level  jabatan \nyang disebut dalam Pasal 28A ayat (2). Persoalan konstitusional nya \nkemudian adalah tidak adanya parameter yang objektif dan dapat dipastikan \nsecara hukum mengenai Jabatan Pelaksana yang bagaimana yang \nmemenuhi syarat \"keterkaitan dengan fungsi kepolisian\" dan kare nanya \ndapat diisi melalui mekanisme tersebut. \n\n10",
+      "start_line": 309,
+      "end_line": 319
+    },
+    {
+      "heading": "36. Bahwa berdasarkan keadaan tersebut, potensi kerugian konsti tusional",
+      "slug": "36-bahwa-berdasarkan-keadaan-tersebut-potensi-kerugian-konsti-tusional",
+      "text": "Pemohon bersifat personal dan prospektif. Pemohon tidak mendali lkan \nbahwa dirinya telah kehilangan suatu Jabatan Pelaksana tertentu  karena \nditempati anggota Polri, melainkan bahwa sebagai warga negara yang secara \nnyata telah menggunakan mekanisme kompetisi untuk memperoleh ak ses \nterhadap Jabatan Pelaksana, Pemohon berada dalam ruang kepentin gan \nyang beririsan dengan ruang jabatan yang dapat diakses anggota Polri \nmelalui mekanisme khusus. Ketika undang-undang tidak menentukan secara \nobjektif dan dapat diprediksi Jabatan Pelaksana yang bagaimana yang \nmempunyai keterkaitan dengan fungsi kepolisian dan karenanya da pat diisi \nmelalui mekanisme khusus tersebut, maka batas antara ruang komp etisi \nterbuka bagi warga negara dan ruang penempatan khusus anggota P olri \nmenjadi tidak dapat diketahui secara pasti. Keadaan tersebut secara rasional \nmenimbulkan potensi terganggunya hak Pemohon atas kesempatan ya ng \nsama dalam pemerintahan sebagaimana dijamin Pasal 28D ayat (3) UUD \nNRI Tahun 1945.",
+      "start_line": 321,
+      "end_line": 335
+    },
+    {
+      "heading": "37. Bahwa untuk memperkuat lebih lanjut unsur \"dapat dipastikan terjadi menurut",
+      "slug": "37-bahwa-untuk-memperkuat-lebih-lanjut-unsur-dapat-dipastikan-terjadi-menurut",
+      "text": "penalaran yang wajar\" sebagaimana dimaksud Pasal 4 ayat (2) huruf c PMK \n7/2025, Pemohon menyampaikan fakta empiris keberadaan Peraturan  \nKepolisian Negara Republik Indonesia Nomor 10 Tahun 2025 tentan g \nAnggota Kepolisian Negara Republik Indonesia yang Melaksanakan Tugas",
+      "start_line": 337,
+      "end_line": 340
+    },
+    {
+      "heading": "di Luar Struktur Organisasi Kepolisian Negara Republik Indonesi a",
+      "slug": "di-luar-struktur-organisasi-kepolisian-negara-republik-indonesi-a",
+      "text": "(selanjutnya disebut Perpol 10/2025), yang ditetapkan Kepala Ke polisian \nNegara Republik Indonesia pada 9 Desember 2025.",
+      "start_line": 342,
+      "end_line": 343
+    },
+    {
+      "heading": "38. Bahwa Pasal 3 ayat (2) Perpol 10/2025 mencantumkan daftar 17 (tujuh belas)",
+      "slug": "38-bahwa-pasal-3-ayat-2-perpol-10-2025-mencantumkan-daftar-17-tujuh-belas",
+      "text": "kementerian dan lembaga yang dapat diisi oleh anggota Polri akt if, \nsedangkan Pasal 3 ayat (3) menyatakan pelaksanaan tugas anggota  Polri \ndilaksanakan pada jabatan manajerial dan jabatan nonmanajerial, dan Pasal \n3 ayat (4) mensyaratkan jabatan tersebut memiliki keterkaitan dengan fungsi \nkepolisian berdasarkan permintaan dari kementerian/lembaga bersangkutan.",
+      "start_line": 345,
+      "end_line": 349
+    },
+    {
+      "heading": "39. Bahwa konstruksi norma Perpol 10/2025 secara struktural ide ntik dengan",
+      "slug": "39-bahwa-konstruksi-norma-perpol-10-2025-secara-struktural-ide-ntik-dengan",
+      "text": "konstruksi norma Pasal 28A UU a quo yang menjadi objek permohonan ini \n— yaitu kombinasi antara kategori \"manajerial dan nonmanajerial \", syarat \n\"keterkaitan dengan fungsi kepoli sian\", dan mekanisme \"perminta an \n\n11 \nkementerian/lembaga\" tanpa batas substantif yang tertutup menge nai \njabatan mana yang dapat diisi. Kesamaan konstruksi ini menunjukkan bahwa \npersoalan konstitusional yang didalilkan Pemohon terhadap Pasal  28A UU  \na quo bukanlah kekhawatiran baru yang lahir bersamaan dengan Undang-\nUndang a quo, melainkan kelanjutan dari kerangka administratif yang telah \nberoperasi sejak Desember 2025.",
+      "start_line": 351,
+      "end_line": 361
+    },
+    {
+      "heading": "40. Bahwa relevansi Perpol 10/2025 terhadap prediksi keberlakua n Pasal 28A",
+      "slug": "40-bahwa-relevansi-perpol-10-2025-terhadap-prediksi-keberlakua-n-pasal-28a",
+      "text": "UU a quo  bukan sekadar kemiripan tekstual, melainkan hubungan \nkelembagaan yang lebih mendasar: Perpol 10/2025 diterbitkan ole h Kepala \nKepolisian Negara Republik Indonesia sebagai bagian dari organ yang sama \nyang kemudian terlibat dalam penyusunan dan pembahasan RUU yang  \nmenjadi UU a quo. Konstruksi norma yang identik antara Perpol 10/2025 dan \nPasal 28A UU a quo menunjukkan bahwa cara pandang institusional Polri \nmengenai batas jabatan yang dapat diisi anggota aktif telah ter bentuk sejak \nsebelum UU a quo disahkan, dan UU a quo pada pokoknya mengukuhkan \nserta memberi landasan legislatif yang lebih kuat terhadap pola  yang sama, \nbukan mengoreksinya. Oleh karena itu, praktik yang telah berjal an di bawah \nPerpol 10/2025 sejak Desember 2025 merupakan indikator yang lay ak \ndipercaya (reliable predictor) mengenai bagaimana norma a quo  a k a n  \ndioperasionalkan, mengingat organ pelaksana dan pola pikir norm atifnya \ntidak berubah.",
+      "start_line": 363,
+      "end_line": 376
+    },
+    {
+      "heading": "41. Bahwa Perpol 10/2025 diterbitkan tidak lama setelah Putusan Mahkamah",
+      "slug": "41-bahwa-perpol-10-2025-diterbitkan-tidak-lama-setelah-putusan-mahkamah",
+      "text": "Konstitusi Nomor 114/PUU-XXIII/2025 diucapkan, dan sejak awal m enuai \nkritik luas bahwa peraturan tersebut tidak memiliki dasar hukum  yang kuat \nkarena tidak ditopang oleh pengaturan setingkat undang-undang yang secara \ntegas merinci instansi dan jabatan yang dapat diisi anggota Pol ri aktif, \nberbeda dengan teknik pengaturan limitatif Pasal 47 Undang-Undang Nomor \n3 Tahun 2025 tentang Perubahan atas UU TNI.",
+      "start_line": 378,
+      "end_line": 383
+    },
+    {
+      "heading": "42. Bahwa UU 5/2026, yang disahkan pada 17 Juni 2026, memuat Pa sal 28A",
+      "slug": "42-bahwa-uu-5-2026-yang-disahkan-pada-17-juni-2026-memuat-pa-sal-28a",
+      "text": "ayat (5) yang mendelegasikan \"ketentuan lebih lanjut mengenai t ata cara \npengisian jabatan aparatur sipil negara oleh anggota Kepolisian  Negara \nRepublik Indonesia\" kepada Peraturan Pemerintah. Bahwa Peratura n \nPemerintah pelaksana ketentuan tersebut sampai dengan permohona n ini \ndibuat belum diterbitkan \n\n12",
+      "start_line": 385,
+      "end_line": 391
+    },
+    {
+      "heading": "43. Bahwa dengan demikian, sampai dengan diajukannya permohonan i n i ,",
+      "slug": "43-bahwa-dengan-demikian-sampai-dengan-diajukannya-permohonan-i-n-i",
+      "text": "operasionalisasi penempatan anggota Polri aktif pada jabatan manajerial dan \nnonmanajerial di luar organisasi Polri — termasuk kemungkinan p ada \nJabatan Pelaksana — kemungkinan besar masih bertumpu pada keran gka \nPerpol 10/2025 yang telah berjalan sejak Desember 2025, tanpa a danya \nPeraturan Pemerintah pelaksana yang seharusnya memberikan kepas tian \nbatas jabatan sebagaimana diamanatkan Pasal 28A ayat (5) UU a quo . \nKeadaan ini memperkuat dalil Pemohon bahwa ketidakpastian batas  antara \nruang kompetisi terbuka dan ruang penempatan khusus anggota Pol ri aktif \nbukan semata proyeksi hipotetis, melainkan kelanjutan dari prak tik \nadministratif yang telah berjalan nyata dan berkesinambungan.",
+      "start_line": 393,
+      "end_line": 402
+    },
+    {
+      "heading": "44. Bahwa fakta tersebut juga relevan dikaitkan dengan dalil Pe mohon pada",
+      "slug": "44-bahwa-fakta-tersebut-juga-relevan-dikaitkan-dengan-dalil-pe-mohon-pada",
+      "text": "Bagian III.E mengenai Pasal 28A ayat (4) UU a quo, mengingat ketiadaan \nPeraturan Pemerintah pelaksana memperkuat risiko bahwa ketentua n \ntransisi dua tahun berpotensi berfungsi sebagai instrumen peles tarian \npenempatan yang telah berjalan di bawah Perpol 10/2025, tanpa mekanisme \nuji ulang yang memadai terhadap syarat keterkaitan dengan fungs i \nkepolisian. \nKonstruksi Hukum dan Fakta Empiris Kerugian Potensial yang Dapa t Dipastikan \nTerjadi (Reasonable Certainty)",
+      "start_line": 404,
+      "end_line": 411
+    },
+    {
+      "heading": "45. Bahwa untuk memperkuat pembuktian unsur \"dapat dipastikan t erjadi",
+      "slug": "45-bahwa-untuk-memperkuat-pembuktian-unsur-dapat-dipastikan-t-erjadi",
+      "text": "menurut penalaran yang wajar\" sebagaimana dimaksud Pasal 4 ayat  ( 2 )  \nhuruf c PMK 7/2025, Pemohon menyampaikan uraian konstruksi hukum dan \nfakta empiris sebagai berikut.",
+      "start_line": 413,
+      "end_line": 415
+    },
+    {
+      "heading": "46. Bahwa secara konstruksi hukum, berdasarkan Pasal 13 jo. Pasal 18 ayat (1)",
+      "slug": "46-bahwa-secara-konstruksi-hukum-berdasarkan-pasal-13-jo-pasal-18-ayat-1",
+      "text": "UU ASN, Jabatan Pelaksana merupakan jabatan operasional nonmana jerial \nyang dirancang untuk diakses publik sipil melalui mekanisme rek rutmen \nCASN terbuka.",
+      "start_line": 417,
+      "end_line": 419
+    },
+    {
+      "heading": "47. Bahwa Pasal 28A ayat (2) UU Polri secara tekstual memasukka n \"jabatan",
+      "slug": "47-bahwa-pasal-28a-ayat-2-uu-polri-secara-tekstual-memasukka-n-jabatan",
+      "text": "nonmanajerial\" ke dalam kategori jabatan yang dapat diduduki anggota Polri \naktif. Penjelasan Pasal 28A ayat (2) yang bersifat tidak tertutup (frasa \"antara \nlain\"), ditambah Pasal 28A ayat (3) (mekanisme permintaan \nkementerian/lembaga tanpa kriteria objektif) dan Pasal 28A ayat  ( 4 )  \n(penugasan Presiden tanpa parameter level maupun bidang jabatan), secara \n\n13 \nkonstruksi hukum memberikan ruang kewenangan yang luas bagi ins tansi \npemerintah untuk mengisi Jabatan Pelaksana tanpa melalui mekani sme \nseleksi terbuka.",
+      "start_line": 421,
+      "end_line": 430
+    },
+    {
+      "heading": "48. Bahwa akibat konstruksi normatif tersebut, tanpa adanya kri teria pembatas",
+      "slug": "48-bahwa-akibat-konstruksi-normatif-tersebut-tanpa-adanya-kri-teria-pembatas",
+      "text": "yang tegas dan tertutup (closed list) pada tingkat undang-undang, pengisian \nJabatan Pelaksana melalui mekanisme penugasan anggota Polri akt if \nmenjadi sah secara legal-formal dan setara kedudukannya dengan jalur \nCASN, sehingga ruang kompetisi umum bagi warga negara sipil ter ancam \nsecara sistematis.",
+      "start_line": 432,
+      "end_line": 436
+    },
+    {
+      "heading": "49. Bahwa secara faktual-empiris, penempatan anggota Polri aktif pada Jabatan",
+      "slug": "49-bahwa-secara-faktual-empiris-penempatan-anggota-polri-aktif-pada-jabatan",
+      "text": "P e l a k s a n a / j a b a t a n  a d m i n i s t r a t i f  d i  l u a r  i n s t i t u s i  P o l r i  t e l a h  terjadi secara \nkonkret sebagaimana ditunjukkan Bukti P-3 mengenai pengangkatan  pada \nJabatan Pelaksana di lingkungan Sekretariat Jenderal Kementeria n Dalam \nNegeri, serta temuan penugasan pada jabatan Pengadministrasi Um um di \nBNN Kota Jambi sebagaimana diuraikan pada Bagian Legal Standing di atas.",
+      "start_line": 438,
+      "end_line": 442
+    },
+    {
+      "heading": "50. Bahwa apabila sebelum berlakunya norma a quo saja praktik penempatan",
+      "slug": "50-bahwa-apabila-sebelum-berlakunya-norma-a-quo-saja-praktik-penempatan",
+      "text": "pada jabatan operasional/administratif umum telah terjadi, maka  dengan \ndiundangkannya Pasal 28A UU Nomor 5 Tahun 2026 yang secara eksp lisit \nmencantumkan frasa \"jabatan nonmanajerial\" serta membuka mekani sme \npermintaan kementerian/lembaga dan penugasan Presiden, menurut \npenalaran yang wajar dapat dipastikan (inevitable) bahwa penempatan \nanggota Polri pada Jabatan Pelaksana akan mengalami eskalasi jumlah dan \nperluasan jenis instansi.",
+      "start_line": 444,
+      "end_line": 450
+    },
+    {
+      "heading": "51. Bahwa untuk memperkuat unsur reasonable certainty, Pemohon",
+      "slug": "51-bahwa-untuk-memperkuat-unsur-reasonable-certainty-pemohon",
+      "text": "menyampaikan data resmi yang diajukan Pemerintah dalam persidan gan \nPerkara Nomor 114/PUU-XXIII/202 5 mengenai Penugasan Anggota \nKepolisian Negara Republik Indonesia di Luar Struktur Organisas i periode \n2023–2025. Berdasarkan data tersebut, pada tahun 2023 tercatat 3.424 \npersonel yang ditugaskan di luar struktur organisasi Polri, ter diri atas 1.026 \npersonel golongan Perwira dan 2.398 personel golongan Bintara/T amtama. \nPada tahun 2024, jumlah tersebut meningkat menjadi 3.822 person el, terdiri \natas 1.157 Perwira dan 2.665 Bintara/Tamtama. Pada tahun 2025, jumlah \ntersebut kembali meningkat menjadi 4.351 personel, terdiri atas  1 . 1 8 4  \nPerwira dan 3.167 Bintara/Tamtama. Dengan demikian, terjadi kenaikan total \n\n14 \nsebesar 27,1% dalam kurun dua tahun (2023–2025), dengan kenaikan pada \ngolongan kepangkatan Bintara/Tamtama tercatat lebih tajam, yait u sebesar \n32,1%, dibandingkan golongan Perwira yang meningkat sebesar 15,4% pada \nperiode yang sama.",
+      "start_line": 452,
+      "end_line": 467
+    },
+    {
+      "heading": "52. Bahwa Pemohon tidak mendalilkan bahwa golongan kepangkatan",
+      "slug": "52-bahwa-pemohon-tidak-mendalilkan-bahwa-golongan-kepangkatan",
+      "text": "Bintara/Tamtama secara otomatis berkorespondensi dengan kategor i \nJabatan Nonmanajerial sebagaimana dimaksud Pasal 13 UU ASN, \nmengingat data a quo  mengklasifikasikan personel berdasarkan golongan \nkepangkatan kepolisian, bukan berdasarkan kategori jabatan ASN yang diisi. \nNamun demikian, tren kenaikan yang konsisten dan signifikan pad a \nkeseluruhan angka penugasan di luar struktur organisasi Polri m enjadi \nindikator empiris yang layak dipertimbangkan bahwa keterlibatan  anggota \nPolri aktif pada jabatan di luar organisasi Polri bersifat meni ngkat dari waktu \nke waktu, bukan merupakan fenomena statis, sehingga memperkuat \npenalaran yang wajar bahwa pola serupa berpotensi berlanjut dan meningkat",
+      "start_line": 469,
+      "end_line": 478
+    },
+    {
+      "heading": "di bawah rezim Pasal 28A UU a quo, yang secara eksplisit membuka kategori",
+      "slug": "di-bawah-rezim-pasal-28a-uu-a-quo-yang-secara-eksplisit-membuka-kategori",
+      "text": "jabatan nonmanajerial tanpa batas substantif yang tertutup.",
+      "start_line": 480,
+      "end_line": 480
+    },
+    {
+      "heading": "53. Bahwa berdasarkan uraian konstruksi hukum dan fakta empiris tersebut,",
+      "slug": "53-bahwa-berdasarkan-uraian-konstruksi-hukum-dan-fakta-empiris-tersebut",
+      "text": "potensi kerugian Pemohon berupa tergerusnya kesempatan bersaing dalam \nformasi Jabatan Pelaksana pada seleksi CASN mendatang bukanlah \nkekhawatiran yang abstrak atau imajiner (imaginary damage) , melainkan \nkonsekuensi logis-yuridis yang menurut penalaran yang wajar dap at \ndipastikan terjadi selama norma a quo berlaku tanpa parameter objektif yang \ntertutup. \nD. Hubungan Sebab-Akibat/Causal Verband (Syarat Huruf d)",
+      "start_line": 482,
+      "end_line": 488
+    },
+    {
+      "heading": "54. Bahwa hubungan sebab-akibat terletak pada mekanisme normati f yang",
+      "slug": "54-bahwa-hubungan-sebab-akibat-terletak-pada-mekanisme-normati-f-yang",
+      "text": "dibentuk Pasal 28A UU Polri, bukan pada keputusan administratif  individual \ntertentu.",
+      "start_line": 490,
+      "end_line": 491
+    },
+    {
+      "heading": "55. Bahwa dalam konteks keadaan konkret Pemohon tersebut, hubungan sebab-",
+      "slug": "55-bahwa-dalam-konteks-keadaan-konkret-pemohon-tersebut-hubungan-sebab",
+      "text": "akibat tidak terletak pada perbedaan pendidikan, usia, maupun s tatus \nkedinasan secara semata-mata, melainkan pada keberlakuan norma a quo \nyang membuka mekanisme penempatan khusus pada ruang jabatan yan g \ndapat beririsan dengan ruang kompetisi Pemohon tanpa batas jaba tan yang \nobjektif dan dapat diprediksi. \n\n15",
+      "start_line": 493,
+      "end_line": 499
+    },
+    {
+      "heading": "56. Bahwa fakta tekstual Pasal 28A ayat (2) UU a quo diperkuat oleh Bukti P-3",
+      "slug": "56-bahwa-fakta-tekstual-pasal-28a-ayat-2-uu-a-quo-diperkuat-oleh-bukti-p-3",
+      "text": "yang berfungsi menunjukkan reasonable certainty: apabila sebelum UU a quo \nberlaku praktik penempatan pada jabatan pelaksana telah terjadi , maka \ndengan dibukanya frasa 'jabatan nonmanajerial' dalam UU No. 5 Tahun 2026 \ntanpa kriteria tertutup, potensi tergerusnya ruang kompetisi Pe mohon dapat \ndipastikan akan berlanjut dan mengalami eskalasi.",
+      "start_line": 501,
+      "end_line": 505
+    },
+    {
+      "heading": "57. Bahwa hubungan sebab-akibat antara keberlakuan norma a quo dan potensi",
+      "slug": "57-bahwa-hubungan-sebab-akibat-antara-keberlakuan-norma-a-quo-dan-potensi",
+      "text": "kerugian konstitusional Pemohon terletak pada dibentuknya ruang  k h u s u s  \nbagi anggota Polri aktif untuk menduduki jabatan di luar organi sasi Polri, \ntermasuk jabatan nonmanajerial, tanpa disertai parameter normat if yang \nsecara objektif menentukan Jabatan Pelaksana yang bagaimana yan g \nmempunyai keterkaitan dengan fungsi kepolisian dan karenanya da pat \ndiakses melalui mekanisme khusus tersebut.",
+      "start_line": 507,
+      "end_line": 512
+    },
+    {
+      "heading": "58. Bahwa ketiadaan parameter objektif tersebut menimbulkan iri san normatif",
+      "slug": "58-bahwa-ketiadaan-parameter-objektif-tersebut-menimbulkan-iri-san-normatif",
+      "text": "antara dua ruang akses terhadap Jabatan Pelaksana, yaitu ruang kompetisi \nterbuka yang dapat diakses warga negara, termasuk Pemohon, dan ruang \npenempatan melalui mekanisme khusus bagi anggota Polri aktif. K arena \nbatas antara kedua ruang tersebut tidak ditentukan secara jelas  dalam \nundang-undang, Pemohon tidak dapat mengetahui secara pasti ruan g \njabatan mana yang tetap tersedia dalam kompetisi terbuka dan ruang jabatan \nmana yang dapat diisi melalui mekanisme khusus anggota Polri aktif.",
+      "start_line": 514,
+      "end_line": 520
+    },
+    {
+      "heading": "59. Bahwa hubungan sebab-akibat tersebut juga bersifat kausal-struktural dalam",
+      "slug": "59-bahwa-hubungan-sebab-akibat-tersebut-juga-bersifat-kausal-struktural-dalam",
+      "text": "konteks kebutuhan jabatan, analisis beban kerja, dan alokasi an ggaran \ninstansi yang terbatas. Ketika Pasal 28A UU a quo membuka ruang pengisian \nJabatan Pelaksana oleh anggota Polri aktif tanpa batas objektif yang tertutup, \npengisian jabatan melalui mekanisme tersebut secara rasional be rpotensi \nmengurangi kebutuhan atau peluang pembukaan formasi jabatan yang sama \nmelalui kompetisi terbuka bagi warga negara sipil melalui jalur CASN/PPPK. \nDengan demikian, keberlakuan norma a quo menciptakan risiko tergerusnya \nruang kompetisi terbuka warga negara sipil secara kuantitatif, terutama \nsepanjang jabatan yang dapat diisi melalui mekanisme khusus tersebut tidak \ndibatasi secara jelas pada tingkat undang-undang.",
+      "start_line": 522,
+      "end_line": 531
+    },
+    {
+      "heading": "60. Bahwa risiko tersebut tidak didalilkan sebagai akibat dari seluruh penempatan",
+      "slug": "60-bahwa-risiko-tersebut-tidak-didalilkan-sebagai-akibat-dari-seluruh-penempatan",
+      "text": "anggota Polri aktif di luar organisasi Polri, melainkan sebagai akibat dari tidak \n\n16 \nadanya batas normatif yang objektif, jelas, dan dapat diprediks i mengenai \nJabatan Pelaksana yang dapat diisi melalui mekanisme khusus ter sebut. \nSepanjang batas tersebut tidak dirumuskan secara memadai, Pemoh on \nsebagai peserta nyata dalam jalur kompetisi CASN tidak memperol eh \nkepastian mengenai ruang Jabatan Pelaksana yang tetap tersedia dalam \nmekanisme kompetisi terbuka.",
+      "start_line": 533,
+      "end_line": 541
+    },
+    {
+      "heading": "61. Bahwa hubungan tersebut menjadi konkret terhadap Pemohon ka rena",
+      "slug": "61-bahwa-hubungan-tersebut-menjadi-konkret-terhadap-pemohon-ka-rena",
+      "text": "Pemohon bukan sekadar warga negara yang mempunyai kepentingan umum \nterhadap pengisian jabatan pemerintahan, melainkan telah secara  n y a t a  \nmengikuti seleksi CASN untuk memperoleh Jabatan Pelaksana. Deng an \ndemikian, norma a quo  secara langsung berkaitan dengan ruang jabatan \nyang secara faktual dan berkelanjutan menjadi kepentingan Pemoh on, \nsedangkan mekanisme khusus yang dibentuk norma a quo  berpotensi \nberirisan dengan ruang jabatan tersebut.",
+      "start_line": 543,
+      "end_line": 549
+    },
+    {
+      "heading": "62. Bahwa dengan demikian, hubungan sebab-akibat yang didalilka n Pemohon",
+      "slug": "62-bahwa-dengan-demikian-hubungan-sebab-akibat-yang-didalilka-n-pemohon",
+      "text": "dapat dirumuskan sebagai berikut: Pasal 28A ayat (2) UU Polri s ecara \neksplisit membuka kategori jabatan nonmanajerial bagi anggota P olri aktif \nsepanjang mempunyai keterkaitan dengan fungsi kepolisian; Jabat an \nPelaksana merupakan bagian dari Jabatan Nonmanajerial; Pemohon \nmempunyai kepentingan konkret terhadap Jabatan Pelaksana yang t elah \ndibuktikan melalui pengalaman mengikuti seleksi CASN; praktik \nmenunjukkan bahwa Jabatan Pelaksana pernah ditempati anggota Po lri; \nnamun undang-undang tidak menentukan secara objektif dan dapat \ndiprediksi Jabatan Pelaksana yang bagaimana yang dapat ditempati melalui \nmekanisme khusus tersebut. Keadaan normatif tersebut menimbulka n risiko \nterganggunya kesempatan Pemohon untuk memperoleh akses yang sam a \nterhadap ruang Jabatan Pelaksana melalui mekanisme kompetisi te rbuka. \nOleh karena itu, terdapat hubungan sebab-akibat yang rasional dan langsung \nantara keberlakuan norma a quo  dan potensi terganggunya hak \nkonstitusional Pemohon sebagaimana dijamin Pasal 28D ayat (3) U UD NRI \nTahun 1945.",
+      "start_line": 551,
+      "end_line": 566
+    },
+    {
+      "heading": "63. Bahwa keikutsertaan CASN tahun 2018 dan 2024 bukan sumber k erugian",
+      "slug": "63-bahwa-keikutsertaan-casn-tahun-2018-dan-2024-bukan-sumber-k-erugian",
+      "text": "yang didalilkan, melainkan bukti konkret mengenai kepentingan n yata \nPemohon terhadap Jabatan Pelaksana, yang memperlihatkan bahwa \n\n17 \nhubungan Pemohon dengan persoalan akses terhadap jabatan \npemerintahan bukanlah kepentingan yang abstrak atau semata-mata  \nhipotetis.",
+      "start_line": 568,
+      "end_line": 574
+    },
+    {
+      "heading": "64. Bahwa karena Pasal 4 ayat (2) huruf c PMK 7/2025 mengakui k erugian",
+      "slug": "64-bahwa-karena-pasal-4-ayat-2-huruf-c-pmk-7-2025-mengakui-k-erugian",
+      "text": "konstitusional yang bersifat potensial sepanjang menurut penala ran yang \nwajar dapat dipastikan akan terjadi, maka ketiadaan keputusan a dministratif \nindividual yang secara khusus telah menolak atau menghalangi Pe mohon \ntidak dengan sendirinya meniadakan kemungkinan adanya kerugian \nkonstitusional yang bersifat potensial.",
+      "start_line": 576,
+      "end_line": 580
+    },
+    {
+      "heading": "65. Bahwa berdasarkan rangkaian tersebut, terdapat hubungan seb ab-akibat",
+      "slug": "65-bahwa-berdasarkan-rangkaian-tersebut-terdapat-hubungan-seb-ab-akibat",
+      "text": "yang dapat dijelaskan secara rasional antara keberlakuan norma a quo dan \npotensi terganggunya hak konstitusional Pemohon pada level Jaba tan \nPelaksana, sehingga kerugian yang didalilkan Pemohon tidak sema ta-mata \ndidasarkan pada kekhawatiran abstrak. \nE. Kemungkinan Kerugian Tidak Terjadi Lagi (Syarat Huruf e)",
+      "start_line": 582,
+      "end_line": 586
+    },
+    {
+      "heading": "66. Bahwa potensi kerugian konstitusional Pemohon dipastikan tidak akan terjadi",
+      "slug": "66-bahwa-potensi-kerugian-konstitusional-pemohon-dipastikan-tidak-akan-terjadi",
+      "text": "apabila Majelis Hakim Konstitusi mengabulkan permohonan a quo , \nkhususnya dengan menetapkan batas normatif yang objektif, tegas , dan \ntertutup mengenai jabatan yang dapat diduduki oleh anggota Polri aktif.",
+      "start_line": 588,
+      "end_line": 590
+    },
+    {
+      "heading": "67. Bahwa Pemohon tidak meminta penghapusan seluruh bentuk pene mpatan",
+      "slug": "67-bahwa-pemohon-tidak-meminta-penghapusan-seluruh-bentuk-pene-mpatan",
+      "text": "anggota Polri di luar institusi Polri, melainkan memohon agar M ahkamah \nmenghilangkan ketidakpastian hukum dengan membatalkan norma yan g \nmembuka penempatan tanpa batas substantif di tingkat undang-undang.",
+      "start_line": 592,
+      "end_line": 594
+    },
+    {
+      "heading": "68. Bahwa dengan dikabulkannya permohonan a quo , batas antara ruang",
+      "slug": "68-bahwa-dengan-dikabulkannya-permohonan-a-quo-batas-antara-ruang",
+      "text": "kompetisi terbuka bagi warga negara sipil dan ruang penempatan khusus \nanggota Polri menjadi pasti, sehingga syarat kedudukan hukum \nsebagaimana dimaksud dalam Pasal 4 ayat (2) huruf e PMK 7/2025 telah \nterpenuhi sepenuhnya. \nIII. ALASAN-ALASAN PERMOHONAN / POSITA \nA. Batas Kebijakan Hukum Terbuka (Open Legal Policy), Uji Proporsionalitas, \ndan Intensitas Pengujian Rasionalitas Norma",
+      "start_line": 596,
+      "end_line": 602
+    },
+    {
+      "heading": "1. Bahwa sebelum menguraikan dalil-dalil konstitusionalitas secara spesifik",
+      "slug": "1-bahwa-sebelum-menguraikan-dalil-dalil-konstitusionalitas-secara-spesifik",
+      "text": "pada Bagian C, D, dan E, Pemohon terlebih dahulu menguraikan ke rangka \nkonstitusional mengenai batas kebijakan hukum terbuka (open legal policy)  \n\n18 \ndan uji proporsionalitas yang menjadi metodologi pengujian perm ohonan  \na quo.",
+      "start_line": 604,
+      "end_line": 609
+    },
+    {
+      "heading": "2. Bahwa Pemohon memahami pengaturan pengisian jabatan pemerint ahan",
+      "slug": "2-bahwa-pemohon-memahami-pengaturan-pengisian-jabatan-pemerint-ahan",
+      "text": "pada dasarnya wilayah kebijakan hukum terbuka pembentuk undang-\nundang. Namun ruang kebijakan tersebut bukan kewenangan mutlak yang \nberada di luar jangkauan pengujian konstitusionalitas.",
+      "start_line": 611,
+      "end_line": 613
+    },
+    {
+      "heading": "3. Bahwa doktrin open legal policy tidak dapat dimaknai sebagai ruang",
+      "slug": "3-bahwa-doktrin-open-legal-policy-tidak-dapat-dimaknai-sebagai-ruang",
+      "text": "kebijakan yang sepenuhnya berada di luar jangkauan pengujian \nkonstitusionalitas, karena setiap pilihan kebijakan pembentuk u ndang-\nundang tetap harus dilaksanakan dalam batas-batas yang ditentuk an oleh \nUUD NRI Tahun 1945 dan tidak bol eh melampaui kewenangan pembent uk \nundang-undang, menyalahgunakan kewenangan, atau menghasilkan \nketidakadilan yang secara konstitusional tidak dapat ditoleransi.",
+      "start_line": 615,
+      "end_line": 620
+    },
+    {
+      "heading": "4. Bahwa dalam Putusan Nomor 51-52-59/PUU/2008 juncto Putusan Nomor",
+      "slug": "4-bahwa-dalam-putusan-nomor-51-52-59-puu-2008-juncto-putusan-nomor",
+      "text": "26/PUU-VII/2009, Mahkamah telah meletakkan batas konstitusional terhadap \nkebijakan hukum terbuka, antara lain sepanjang pilihan kebijaka n tersebut \ntidak bertentangan secara nyata dengan UUD NRI Tahun 1945, tida k \nmelampaui atau menyalahgunakan kewenangan pembentuk undang-\nundang, serta tidak menghasilkan ketidakadilan yang secara kons titusional \ntidak dapat ditoleransi.",
+      "start_line": 622,
+      "end_line": 627
+    },
+    {
+      "heading": "5. Bahwa jaminan kepastian hukum yang adil sebagaimana dijamin dalam Pasal",
+      "slug": "5-bahwa-jaminan-kepastian-hukum-yang-adil-sebagaimana-dijamin-dalam-pasal",
+      "text": "28D ayat (1) mempunyai keterkaitan erat dengan pemenuhan hak at as \nkesempatan yang sama dalam pemerintahan sebagaimana dijamin dal am \nPasal 28D ayat (3), serta dengan prinsip persamaan kedudukan wa rga \nnegara dalam hukum dan pemerintahan sebagaimana dijamin dalam P asal \n27 ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 629,
+      "end_line": 633
+    },
+    {
+      "heading": "6. Bahwa dalam konteks pengaturan akses terhadap jabatan pemeri ntahan,",
+      "slug": "6-bahwa-dalam-konteks-pengaturan-akses-terhadap-jabatan-pemeri-ntahan",
+      "text": "hubungan tersebut menghendaki agar pembedaan, pembatasan, dan \npengecualian terhadap akses tersebut dirumuskan berdasarkan kriteria yang \nobjektif, transparan, dapat diprediksi, dan diterapkan secara konsisten.",
+      "start_line": 635,
+      "end_line": 637
+    },
+    {
+      "heading": "7. Bahwa prinsip negara hukum sebagaimana ditegaskan dalam Pasa l 1 ayat",
+      "slug": "7-bahwa-prinsip-negara-hukum-sebagaimana-ditegaskan-dalam-pasa-l-1-ayat",
+      "text": "(3) UUD NRI Tahun 1945 menghendaki agar pembatasan dan pengecualian \nterhadap akses warga negara terhadap jabatan pemerintahan memiliki dasar \n\n19 \nhukum, batas, dan kriteria yang jelas, rasional, objektif, dapat diprediksi, serta \ndapat diuji dan dikendalikan penerapannya.",
+      "start_line": 639,
+      "end_line": 644
+    },
+    {
+      "heading": "8. Bahwa ketika pembentuk undang-undang membentuk mekanisme khu sus",
+      "slug": "8-bahwa-ketika-pembentuk-undang-undang-membentuk-mekanisme-khu-sus",
+      "text": "yang merupakan pengecualian terhadap mekanisme umum dan mekanis me \ntersebut mempunyai implikasi terhadap hak konstitusional warga negara, \npilihan kebijakan tersebut tetap dapat diuji dari segi rasional itas dan \nproporsionalitasnya dalam kerangka pengujian konstitusionalitas , dengan \ntetap menghormati asas praduga konstitusionalitas.",
+      "start_line": 646,
+      "end_line": 650
+    },
+    {
+      "heading": "9. Bahwa Pemohon tetap menghormati asas praduga konstitusionali tas",
+      "slug": "9-bahwa-pemohon-tetap-menghormati-asas-praduga-konstitusionali-tas",
+      "text": "terhadap undang-undang yang berlaku, namun asas tersebut tidak menutup \nkewenangan Mahkamah untuk menilai apakah pilihan kebijakan pemb entuk \nundang-undang masih berada dalam batas-batas konstitusional \nsebagaimana ditentukan oleh UUD NRI Tahun 1945.",
+      "start_line": 652,
+      "end_line": 655
+    },
+    {
+      "heading": "10. Bahwa dalam menilai konstitusionalitas pilihan kebijakan a quo , Pemohon",
+      "slug": "10-bahwa-dalam-menilai-konstitusionalitas-pilihan-kebijakan-a-quo-pemohon",
+      "text": "menggunakan prinsip proporsionalitas dengan empat elemen: a. tu juan sah \n(legitimate aim); b. kesesuaian cara (suitability); c. kebutuhan (necessity); dan",
+      "start_line": 657,
+      "end_line": 658
+    },
+    {
+      "heading": "d. keseimbangan (proportionality stricto sensu) , sesuai tuntutan keadilan",
+      "slug": "d-keseimbangan-proportionality-stricto-sensu-sesuai-tuntutan-keadilan",
+      "text": "Pasal 28J ayat (2) UUD NRI Tahun 1945.",
+      "start_line": 660,
+      "end_line": 660
+    },
+    {
+      "heading": "11. Bahwa keempat elemen tersebut tidak harus memperoleh bobot analisis yang",
+      "slug": "11-bahwa-keempat-elemen-tersebut-tidak-harus-memperoleh-bobot-analisis-yang",
+      "text": "sama terhadap setiap norma yang diuji, karena intensitas dan ti tik tekan \npengujian harus disesuaikan dengan karakter persoalan konstitus ional yang \nditimbulkan oleh masing-masing norma.",
+      "start_line": 662,
+      "end_line": 664
+    },
+    {
+      "heading": "12. Bahwa sebagai prinsip penafsiran, ketentuan yang membentuk pengecualian",
+      "slug": "12-bahwa-sebagai-prinsip-penafsiran-ketentuan-yang-membentuk-pengecualian",
+      "text": "terhadap kaidah umum tidak semestinya diperluas melampaui batas  yang \nsecara jelas ditentukan oleh pembentuk undang-undang, terlebih ketika \nperluasan tersebut berimplikasi terhadap kesempatan warga negar a untuk \nmengakses jabatan pemerintahan.",
+      "start_line": 666,
+      "end_line": 669
+    },
+    {
+      "heading": "13. Bahwa kerangka metodologis tersebut selanjutnya diterapkan secara spesifik",
+      "slug": "13-bahwa-kerangka-metodologis-tersebut-selanjutnya-diterapkan-secara-spesifik",
+      "text": "terhadap masing-masing norma yang diuji, yaitu: Penjelasan Pasal 28A ayat \n(2) berkenaan dengan perluasan cakupan norma melalui daftar yang bersifat \ntidak tertutup; Pasal 28A ayat (3) berkenaan dengan pembukaan a kses \nterhadap jabatan di luar lingkup ayat (2) berdasarkan permintaa n \nkementerian/lembaga tanpa batas substantif yang secara tegas \nmenghubungkannya dengan fungsi kepolisian; dan Pasal 28A ayat ( 4) \n\n20 \nberkenaan dengan perluasan lebih lanjut melalui penugasan Presiden tanpa \nparameter substantif yang secara objektif menentukan jabatan ya ng dapat \ndiduduki oleh anggota Polri aktif. \nB. Kaidah Konstitusional dalam Putusan Mahkamah Konstitusi Nomo r \n114/PUU-XXIII/2025 dan Nomor 223/PUU-XXIII/2025 sebagai Paramet er \nKonstitusional Pengujian Norma a quo",
+      "start_line": 671,
+      "end_line": 684
+    },
+    {
+      "heading": "14. Bahwa pokok permohonan a quo adalah pengujian materiil Penjelasan Pasal",
+      "slug": "14-bahwa-pokok-permohonan-a-quo-adalah-pengujian-materiil-penjelasan-pasal",
+      "text": "28A ayat (2), Pasal 28A ayat (3), dan Pasal 28A ayat (4) UU Polri.",
+      "start_line": 686,
+      "end_line": 686
+    },
+    {
+      "heading": "15. Bahwa Pemohon tidak mempersoalkan Pasal 28A ayat (1) UU Pol ri yang",
+      "slug": "15-bahwa-pemohon-tidak-mempersoalkan-pasal-28a-ayat-1-uu-pol-ri-yang",
+      "text": "mensyaratkan \"keterkaitan dengan fungsi kepolisian\"  ketentuan ini justru \nmenjadi titik tolak dan batas substantif penilaian konstitusion alitas norma \nyang diuji.",
+      "start_line": 688,
+      "end_line": 690
+    },
+    {
+      "heading": "16. Bahwa Putusan Mahkamah Konstitusi Nomor 114/PUU-XXIII/2025",
+      "slug": "16-bahwa-putusan-mahkamah-konstitusi-nomor-114-puu-xxiii-2025",
+      "text": "menegaskan jabatan di luar kepolisian yang tidak mempunyai sang kut paut \ndengan kepolisian mengharuskan anggota Polri mengundurkan diri atau \npensiun, dan menyatakan frasa \"atau tidak berdasarkan penugasan  dari \nKapolri\" dalam Penjelasan Pasal 28 ayat (3) UU Nomor 2 Tahun 20 02 tidak \nmempunyai kekuatan hukum mengikat.",
+      "start_line": 692,
+      "end_line": 696
+    },
+    {
+      "heading": "17. Bahwa ukuran konstitusional yang relevan bukan semata ada-t idaknya",
+      "slug": "17-bahwa-ukuran-konstitusional-yang-relevan-bukan-semata-ada-t-idaknya",
+      "text": "tindakan administratif (penugasan, permintaan, penempatan), mel ainkan \nada-tidaknya keterkaitan substantif jabatan dengan fungsi kepol isian. Dasar \nadministratif tidak dapat menggantikan ukuran substantif tersebut.",
+      "start_line": 698,
+      "end_line": 700
+    },
+    {
+      "heading": "18. Bahwa oleh karena Pasal 28A ayat (1) menempatkan \"keterkait an dengan",
+      "slug": "18-bahwa-oleh-karena-pasal-28a-ayat-1-menempatkan-keterkait-an-dengan",
+      "text": "fungsi kepolisian\" sebagai syarat, ayat (2), (3), dan (4) harus  dipahami \nsebagai ketentuan dalam batas substantif tersebut, bukan dasar berdiri \nsendiri untuk memperluas pengecualian.",
+      "start_line": 702,
+      "end_line": 704
+    },
+    {
+      "heading": "19. Bahwa keberadaan hubungan kelembagaan, permintaan, kebutuha n",
+      "slug": "19-bahwa-keberadaan-hubungan-kelembagaan-permintaan-kebutuha-n",
+      "text": "keahlian, ataupun penugasan Presiden tidak dengan sendirinya \nmembuktikan terpenuhinya syarat \"keterkaitan dengan fungsi kepolisian\".",
+      "start_line": 706,
+      "end_line": 707
+    },
+    {
+      "heading": "20. Bahwa dalam negara hukum yang menjamin kepastian hukum adil , batas",
+      "slug": "20-bahwa-dalam-negara-hukum-yang-menjamin-kepastian-hukum-adil-batas",
+      "text": "substantif tersebut harus diterapkan melalui ukuran objektif, jelas, dan dapat \ndipastikan secara hukum.",
+      "start_line": 709,
+      "end_line": 710
+    },
+    {
+      "heading": "21. Bahwa pendekatan ini diperkuat Putusan Mahkamah Konstitusi Nomor",
+      "slug": "21-bahwa-pendekatan-ini-diperkuat-putusan-mahkamah-konstitusi-nomor",
+      "text": "223/PUU-XXIII/2025, yang menegaskan pentingnya pengaturan tertulis yang \n\n21 \njelas dan tidak multitafsir mengenai jabatan ASN yang dapat dii si anggota \nPolri, dituangkan dalam kerangka undang-undang, bukan dalam per aturan \npelaksana di bawahnya.",
+      "start_line": 712,
+      "end_line": 717
+    },
+    {
+      "heading": "22. Bahwa Putusan Mahkamah Konstitusi Nomor 223/PUU-XXIII/2025",
+      "slug": "22-bahwa-putusan-mahkamah-konstitusi-nomor-223-puu-xxiii-2025",
+      "text": "memperkuat batas metodologis: persoalan konstitusionalitas dinilai terhadap \nkesesuaian parameter yang dibentuk pembentuk undang-undang deng an \nbatas konstitusional, bukan meminta Mahkamah mengambil alih fun gsi \nlegislasi.",
+      "start_line": 719,
+      "end_line": 722
+    },
+    {
+      "heading": "23. Bahwa parameter konstitusional yang digunakan: pengisian ja batan di luar",
+      "slug": "23-bahwa-parameter-konstitusional-yang-digunakan-pengisian-ja-batan-di-luar",
+      "text": "struktur Polri oleh anggota Polri aktif hanya dibenarkan sepanj ang \nmempunyai keterkaitan substantif dengan fungsi kepolisian yang dapat \nditerapkan berdasarkan ukuran objektif, jelas, dan dapat dipast ikan secara \nhukum. \nB.1. Kesatuan Konstruksi Norma Pasal 28A Ayat (1) sampai dengan Ayat (4)",
+      "start_line": 724,
+      "end_line": 728
+    },
+    {
+      "heading": "24. Bahwa sebelum menguraikan persoalan pada masing-masing ayat ,",
+      "slug": "24-bahwa-sebelum-menguraikan-persoalan-pada-masing-masing-ayat",
+      "text": "Pemohon menegaskan cara membaca Pasal 28A secara utuh: ayat (2) , (3), \ndan (4) tidak berdiri sendiri di luar syarat substantif ayat (1).",
+      "start_line": 730,
+      "end_line": 731
+    },
+    {
+      "heading": "25. Bahwa Pasal 28A ayat (1) mensyaratkan \"keterkaitan dengan f ungsi",
+      "slug": "25-bahwa-pasal-28a-ayat-1-mensyaratkan-keterkaitan-dengan-f-ungsi",
+      "text": "kepolisian\" sebagai syarat substantif tunggal yang berlaku bagi  keseluruhan \nPasal 28A, karena ayat (2), (3), dan (4) semuanya berbicara men genai \n\"jabatan di luar organisasi Polri\" yang sama.",
+      "start_line": 733,
+      "end_line": 735
+    },
+    {
+      "heading": "26. Bahwa ayat (2) mengoperasionalkan syarat ayat (1) melalui dua sumbu yang",
+      "slug": "26-bahwa-ayat-2-mengoperasionalkan-syarat-ayat-1-melalui-dua-sumbu-yang",
+      "text": "berjalan bersamaan: sumbu level jabatan (manajerial dan nonmanajerial) dan \nsumbu bidang urusan pemerintahan (tiga bidang huruf a, b, c). Ayat (2) tidak \nmenciptakan syarat baru terpisah dari ayat (1), melainkan \nmengoperasionalkannya ke dalam dua sumbu yang terukur dan dapat  \nlangsung diperiksa (self-executing).",
+      "start_line": 737,
+      "end_line": 741
+    },
+    {
+      "heading": "27. Bahwa persoalan konstitusional yang diuraikan pada Bagian C , D , d a n E",
+      "slug": "27-bahwa-persoalan-konstitusional-yang-diuraikan-pada-bagian-c-d-d-a-n-e",
+      "text": "adalah bahwa ayat (2) (melalui Penjelasannya), ayat (3), dan ayat (4) masing-\nmasing melepaskan salah satu atau kedua sumbu tersebut dari kai tannya \ndengan syarat ayat (1), sehingga syarat \"keterkaitan dengan fun gsi \nkepolisian\" berisiko menjadi formalitas tekstual, bukan syarat yang benar-\nbenar mengendalikan jabatan yang dapat diisi. \n\n22",
+      "start_line": 743,
+      "end_line": 749
+    },
+    {
+      "heading": "28. Bahwa pada Penjelasan Pasal 28A ayat (2) (Bagian C), pelepa san terjadi",
+      "slug": "28-bahwa-pada-penjelasan-pasal-28a-ayat-2-bagian-c-pelepa-san-terjadi",
+      "text": "pada sumbu bidang: format daftar tidak tertutup berpotensi mele paskan \nbatasan tiga bidang yang ditentukan batang tubuh.",
+      "start_line": 751,
+      "end_line": 752
+    },
+    {
+      "heading": "29. Bahwa pada Pasal 28A ayat (3) (Bagian D), pelepasan terjadi pada kedua",
+      "slug": "29-bahwa-pada-pasal-28a-ayat-3-bagian-d-pelepasan-terjadi-pada-kedua",
+      "text": "sumbu: frasa \"selain pada kementerian atau lembaga sebagaimana \ndimaksud ayat (2)\" melepaskan batasan bidang, dan ayat (3) tida k \nmenyebutkan level jabatan sama sekali, digantikan kriteria admi nistratif \n\"permintaan\" dan \"kebutuhan keahlian\".",
+      "start_line": 754,
+      "end_line": 757
+    },
+    {
+      "heading": "30. Bahwa pada Pasal 28A ayat (4) (Bagian E), pelepasan terjadi melalui",
+      "slug": "30-bahwa-pada-pasal-28a-ayat-4-bagian-e-pelepasan-terjadi-melalui",
+      "text": "penggantian kedua sumbu substantif dengan sumbu administratif-t emporal \n(\"penugasan Presiden\" dalam masa transisi dua tahun) tanpa ruju kan pada \nlevel maupun bidang jabatan.",
+      "start_line": 759,
+      "end_line": 761
+    },
+    {
+      "heading": "31. Bahwa dengan pembacaan ini, persoalan konstitusional bukan terletak pada",
+      "slug": "31-bahwa-dengan-pembacaan-ini-persoalan-konstitusional-bukan-terletak-pada",
+      "text": "eksistensi syarat ayat (1)  yang tidak dipersoalkan Pemohon  melainkan pada \ncara ayat (2), (3), dan (4) mengoperasionalkan syarat tersebut secara tidak \nkonsisten dan tidak tertutup.",
+      "start_line": 763,
+      "end_line": 765
+    },
+    {
+      "heading": "32. Bahwa jawaban Pemohon atas pertanyaan mengapa ayat (3) dida lilkan",
+      "slug": "32-bahwa-jawaban-pemohon-atas-pertanyaan-mengapa-ayat-3-dida-lilkan",
+      "text": "berpotensi membuka jabatan yang tidak berkaitan dengan fungsi k epolisian \nbukan karena ayat (3) meniadakan syarat ayat (1) secara redaksi onal, \nmelainkan karena ayat (3) tidak menyediakan mekanisme struktura l yang \nmenjamin terpenuhinya syarat tersebut, sebagaimana disediakan a yat (2) \nmelalui pembatasan bidang. \nB.2. Pelanggaran terhadap Sifat Final dan Mengikat Putusan Mahk amah \nKonstitusi (Res Judicata) : Penghapusan Mekanisme Pengunduran \nDiri/Pensiun yang Telah Ditegaskan sebagai Tafsir Konstitusiona l yang \nMengikat",
+      "start_line": 767,
+      "end_line": 775
+    },
+    {
+      "heading": "33. Bahwa selain persoalan operasionalisasi syarat ayat (1) seb agaimana",
+      "slug": "33-bahwa-selain-persoalan-operasionalisasi-syarat-ayat-1-seb-agaimana",
+      "text": "diuraikan pada Bagian B.1, terdapat persoalan konstitusional in dependen \nyang perlu dikemukakan Pemohon, yaitu berkaitan dengan sifat fi nal dan \nmengikat putusan Mahkamah Konstitusi sebagaimana dijamin Pasal 24C \nayat (1) UUD NRI Tahun 1945 juncto Pasal 10 UU MK.",
+      "start_line": 777,
+      "end_line": 780
+    },
+    {
+      "heading": "34. Bahwa Putusan Mahkamah Konstitusi Nomor 114/PUU-XXIII/2025",
+      "slug": "34-bahwa-putusan-mahkamah-konstitusi-nomor-114-puu-xxiii-2025",
+      "text": "memberikan tafsir konstitusional bahwa jabatan di luar kepolisi an yang tidak \nmempunyai sangkut paut dengan kepolisian merupakan jabatan yang  \n\n23 \nmengharuskan anggota Polri mengundurkan diri atau pensiun dari dinas \nkepolisian. Putusan Mahkamah Konstitusi Nomor 223/PUU-XXIII/202 5 \nkemudian menggunakan dan menguraikan kaidah tersebut, sekaligus  \nmenegaskan pentingnya pengaturan tertulis yang jelas dan tidak multitafsir \nmengenai instansi dan jabatan ASN tertentu yang dapat diisi ole h anggota \nPolri, dituangkan dalam undang-undang.",
+      "start_line": 782,
+      "end_line": 791
+    },
+    {
+      "heading": "35. Bahwa kedua putusan tersebut bersifat final dan mengikat (final and binding)",
+      "slug": "35-bahwa-kedua-putusan-tersebut-bersifat-final-dan-mengikat-final-and-binding",
+      "text": "serta berlaku bagi setiap orang, badan hukum, atau badan negara  (erga \nomnes) sejak diucapkan, sebagaimana ditentukan Pasal 24C ayat (1) UUD  \nNRI Tahun 1945 juncto Pasal 10 UU MK.",
+      "start_line": 793,
+      "end_line": 795
+    },
+    {
+      "heading": "36. Bahwa Undang-Undang Nomor 5 Tahun 2026 kemudian membentuk r ezim",
+      "slug": "36-bahwa-undang-undang-nomor-5-tahun-2026-kemudian-membentuk-r-ezim",
+      "text": "baru melalui Pasal 28A yang secara eksplisit mempertahankan sya rat \n\"keterkaitan dengan fungsi Kepolisian\", tetapi pada saat yang s ama tidak \nmempertahankan secara eksplisit mekanisme yang memastikan bahwa  \nanggota Polri yang menduduki jabatan yang tidak memenuhi syarat tersebut \nwajib mengundurkan diri atau pensiun dari dinas kepolisian. Kea daan \ntersebut menimbulkan persoalan konstitusional tersendiri mengen ai apakah \nsyarat \"keterkaitan dengan fungsi Kepolisian\" dalam Pasal 28A a yat (1) \nmemiliki daya normatif dan mekanisme pengamanan yang memadai.",
+      "start_line": 797,
+      "end_line": 804
+    },
+    {
+      "heading": "37. Bahwa ketiadaan mekanisme operasional bagi syarat tersebut bukan",
+      "slug": "37-bahwa-ketiadaan-mekanisme-operasional-bagi-syarat-tersebut-bukan",
+      "text": "kealpaan yang tidak disadari, melainkan pilihan yang secara eks plisit \ndisampaikan Pemerintah dalam forum resmi pembahasan. Dalam Rapa t \nPanitia Kerja (Panja) Komisi III DPR RI bersama Pemerintah pada  Senin, 8 \nJuni 2026, menjawab pertanyaan Anggota Komisi III DPR RI I Wayan Sudirta \nmengenai kesesuaian rancangan Pasal 28A ayat (3) dan ayat (4) d engan \nPasal 10 ayat (3) Ketetapan MPR Nomor VII Tahun 2000, Wakil Men teri \nHukum dan Hak Asasi Manusia, Prof. Dr. Edward Omar Sharif Hiari ej, S.H., \nM.Hum., menyatakan: \"Bisa saja memang dia mengundurkan diri ata u \npensiun apabila memang tidak ada kaitannya dengan tugas atau fu ngsinya, \ntetapi itu akan diatur lebih rinci di dalam peraturan pemerinta h ... tapi kalau \ntidak, dia harus mengundurkan diri atau pensiun, namun itu lebih detail diatur \ndalam Peraturan Pemerintah.\"",
+      "start_line": 806,
+      "end_line": 817
+    },
+    {
+      "heading": "38. Bahwa pernyataan tersebut merupakan pengakuan langsung dari unsur",
+      "slug": "38-bahwa-pernyataan-tersebut-merupakan-pengakuan-langsung-dari-unsur",
+      "text": "Pemerintah bahwa penerapan syarat \"keterkaitan dengan fungsi ke polisian\"  \n\n24 \ntermasuk konsekuensi berupa kewajiban mengundurkan diri atau pe nsiun \nbagi jabatan yang tidak memenuhi syarat tersebut  sejak tahap perancangan \nmemang direncanakan untuk didelegasikan pengaturannya kepada \nPeraturan Pemerintah, bukan dituangkan secara tuntas dalam bata ng tubuh \nundang-undang. Wakil Menteri Hukum dan Hak Asasi Manusia turut \nmenegaskan bahwa Pasal 28A ayat (3) dimaksudkan \"sebagai jembat an \nyang nanti kemudian kita atur dalam PP\".",
+      "start_line": 819,
+      "end_line": 828
+    },
+    {
+      "heading": "39. Bahwa dalam forum yang sama, Anggota Komisi III DPR RI dari Fraksi Partai",
+      "slug": "39-bahwa-dalam-forum-yang-sama-anggota-komisi-iii-dpr-ri-dari-fraksi-partai",
+      "text": "NasDem, Rudianto Lallo, S.H., mempertanyakan kesesuaian pendeka tan \ntersebut dengan asas lex scripta  d a n  lex certa  dalam perumusan norma \nundang-undang, dengan menyatakan bahwa ketidakjelasan mengenai \ninstansi mana yang dapat menjadi tempat penugasan Anggota Polri  di luar \ninstitusi kepolisian telah menimbulkan polemik pascaputusan Mah kamah \nKonstitusi, dan mengusulkan agar hal tersebut dinormakan secara  eksplisit \ndalam undang-undang, bukan didelegasikan kepada Peraturan Pemerintah.",
+      "start_line": 830,
+      "end_line": 836
+    },
+    {
+      "heading": "40. Bahwa keberatan tersebut relevan secara langsung dengan kaidah Putusan",
+      "slug": "40-bahwa-keberatan-tersebut-relevan-secara-langsung-dengan-kaidah-putusan",
+      "text": "Mahkamah Konstitusi Nomor 223/PUU-XXIII/2025 yang mensyaratkan \npengaturan tertulis yang jelas dan tidak multitafsir mengenai i nstansi dan \njabatan ASN tertentu yang dapat diisi anggota Polri dituangkan dalam \nundang-undang, bukan dalam peraturan pelaksana di bawahnya. \nPendekatan yang secara eksplisit dipilih Pemerintah dan disetujui pembentuk \nundang-undang  mendelegasikan pengaturan operasional syarat aya t (1) \nkepada Peraturan Pemerintah  bertentangan dengan kaidah tersebu t sejak \ntahap perancangan, dan kekhawatiran ini telah disuarakan secara  langsung \noleh Anggota DPR dalam forum pembahasan tanpa memperoleh jawaba n \nyang menempatkan pengaturan tersebut pada tingkat undang-undang  \nsebagaimana disyaratkan.",
+      "start_line": 838,
+      "end_line": 848
+    },
+    {
+      "heading": "41. Bahwa hilangnya mekanisme pengunduran diri/pensiun juga disadari secara",
+      "slug": "41-bahwa-hilangnya-mekanisme-pengunduran-diri-pensiun-juga-disadari-secara",
+      "text": "eksplisit oleh unsur Pemerintah dalam forum yang berbeda pada h ari yang \nsama. Dalam Rapat Tim Perumus dan Tim Sinkronisasi (Timus-Timsi n) \nKomisi III DPR RI bersama Pemerintah, Senin, 8 Juni 2026, Staf Ahli Bidang \nPolitik dan Hukum Kementerian Pendayagunaan Aparatur Negara dan  \nReformasi Birokrasi, Tri Atmojo Sejati, S.T., S.H., M.Si., meny atakan \nkeberatan atas penghapusan Pasal 28 ayat (3) UU Polri (versi lama): \"...saya \n\n25 \nterus terang khawatir banget, ini norma ya mohon maaf ya nanti undang-\nundang ini jadi tidak melaksanakan putusan MK itu kan pasal vital yang harus \nada menurut saya di undang-undang ini.\"",
+      "start_line": 850,
+      "end_line": 860
+    },
+    {
+      "heading": "42. Bahwa keberatan tersebut disampaikan kembali secara lebih t egas oleh",
+      "slug": "42-bahwa-keberatan-tersebut-disampaikan-kembali-secara-lebih-t-egas-oleh",
+      "text": "pejabat yang sama pada kesempatan berikutnya dalam rapat yang s ama, \ndengan menyatakan bahwa penjelasan umum rancangan undang-undang  \nyang mengklaim tindak lanjut Putusan Nomor 114/PUU-XXIII/2025 a kan \nbertentangan dengan substansi batang tubuh yang justru menghapu s \nmekanisme yang menjadi inti putusan tersebut: \"...biar tidak se akan-akan \nundang-undang ini melaksanakan putusan MK padahal ternyata tida k \nmelaksanakan putusan MK itu sendiri.\"",
+      "start_line": 862,
+      "end_line": 868
+    },
+    {
+      "heading": "43. Bahwa terhadap keberatan tersebut, Direktur Jenderal Peraturan Perundang-",
+      "slug": "43-bahwa-terhadap-keberatan-tersebut-direktur-jenderal-peraturan-perundang",
+      "text": "undangan Kementerian Hukum, Dr. Dhahana Putra, Bc.IP., S.H., M. Si., \ndalam risalah resmi rapat yang sama, menyatakan: \"Saya setuju y a \nsampaikan. Jadi jangan terucap bahwa ini tidak melaksanakan Putusan MK, \njangan terucap. Itu akan menjadi suatu soal.\"",
+      "start_line": 870,
+      "end_line": 873
+    },
+    {
+      "heading": "44. Bahwa rangkaian pernyataan tersebut, yang tercatat dalam du a transkrip",
+      "slug": "44-bahwa-rangkaian-pernyataan-tersebut-yang-tercatat-dalam-du-a-transkrip",
+      "text": "resmi rapat pembentukan undang-undang a quo  pada hari yang sama, \nmerupakan pengakuan langsung dari unsur Pemerintah bahwa: (i) t erdapat \nkesadaran internal bahwa norma a quo tidak melaksanakan Putusan Nomor \n114/PUU-XXIII/2025; (ii) penerapan operasional syarat ayat (1) sejak awal \nmemang direncanakan untuk didelegasikan kepada Peraturan Pemeri ntah, \nbertentangan dengan kaidah Putusan Mahkamah Konstitusi Nomor \n223/PUU-XXIII/2025; dan (iii) terdapat keputusan yang disengaja untuk tidak \nmenyatakan hal tersebut secara terbuka dalam penjelasan umum un dang-\nundang, semata-mata untuk menghindari persoalan publik yang aka n timbul \napabila hal tersebut diketahui.",
+      "start_line": 875,
+      "end_line": 884
+    },
+    {
+      "heading": "45. Bahwa pengakuan tersebut mematahkan setiap kemungkinan dali h bahwa",
+      "slug": "45-bahwa-pengakuan-tersebut-mematahkan-setiap-kemungkinan-dali-h-bahwa",
+      "text": "penghapusan mekanisme pengunduran diri/pensiun merupakan kelala ian \nredaksional (legislative drafting oversight) . Kesengajaan tidak lagi bersifat \ninferensial dari pola tekstual atau kronologi pembahasan, melai nkan telah \nterkonfirmasi secara eksplisit dari pernyataan langsung pejabat yang terlibat \ndalam proses pembentukan norma a quo , sebagaimana tercatat dalam \nrisalah resmi. \n\n26",
+      "start_line": 886,
+      "end_line": 893
+    },
+    {
+      "heading": "46. Bahwa dengan demikian, terlepas dari persoalan operasionalisasi syarat ayat",
+      "slug": "46-bahwa-dengan-demikian-terlepas-dari-persoalan-operasionalisasi-syarat-ayat",
+      "text": "(1) yang diuraikan pada Bagian B.1 dan Bagian C, D, E, terdapat  persoalan \nkonstitusional yang berdiri sendiri: penghapusan mekanisme peng unduran \ndiri/pensiun bagi jabatan yang tidak mempunyai keterkaitan deng an fungsi \nkepolisian, disertai pendelegasian operasionalisasi syarat ters ebut kepada \nPeraturan Pemerintah, merupakan pengabaian terhadap sifat final  d a n  \nmengikat Putusan Mahkamah Konstitusi Nomor 114/PUU-XXIII/2025 d an \nPutusan Mahkamah Konstitusi Nomor 223/PUU-XXIII/2025, bertentan gan \ndengan Pasal 24C ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 895,
+      "end_line": 902
+    },
+    {
+      "heading": "47. Bahwa persoalan ini memperkuat, bukan menggantikan, dalil-d alil yang",
+      "slug": "47-bahwa-persoalan-ini-memperkuat-bukan-menggantikan-dalil-d-alil-yang",
+      "text": "diuraikan pada Bagian C, D, dan E: bahkan sekalipun Pasal 28A a yat (1) \ndipahami sebagai syarat payung yang secara tekstual mengikat ayat (2), (3), \ndan (4) sebagaimana diuraikan Bagian B.1, ketiadaan mekanisme \npelaksanaan (enforcement mechanism)  berupa kewajiban mundur/pensiun \nbagi jabatan yang tidak memenuhi syarat tersebut menjadikan syarat ayat (1) \nkehilangan daya paksa yang sebelumnya telah ditegaskan Mahkamah  \nsebagai bagian tidak terpisahkan dari tafsir konstitusional yang berlaku. \nC. Penjelasan Pasal 28A ayat 2: Memperluas norma batang tubuh d an \nmenimbulkan ketidakpastian hukum",
+      "start_line": 904,
+      "end_line": 912
+    },
+    {
+      "heading": "48. Bahwa Pasal 28A ayat (2) Undang-Undang a quo menentukan: “Jabatan di",
+      "slug": "48-bahwa-pasal-28a-ayat-2-undang-undang-a-quo-menentukan-jabatan-di",
+      "text": "luar organisasi Kepolisian Negara Republik Indonesia yang memil iki \nketerkaitan dengan fungsi kepolisian sebagaimana dimaksud pada ayat (1) \nmerupakan jabatan manajerial dan nonmanajerial pada kementerian / \nlembaga yang menyelenggarakan urusan pemerintahan atau tugas \npemerintahan di bidang: a. pemeliharaan keamanan dan ketertiban  \nmasyarakat; b. pelindungan, pengayoman, dan pelayanan kepada \nmasyarakat; dan c. penegakan hukum.”",
+      "start_line": 914,
+      "end_line": 920
+    },
+    {
+      "heading": "49. Bahwa dari rumusan batang tubuh tersebut telah dapat diketahui secara utuh",
+      "slug": "49-bahwa-dari-rumusan-batang-tubuh-tersebut-telah-dapat-diketahui-secara-utuh",
+      "text": "unsur-unsur norma yang mengatur mengenai jabatan di luar organisasi Polri \nyang dapat diduduki oleh anggota Polri aktif, yaitu: (i) jabata n berada di luar \norganisasi Polri; (ii) jabatan tersebut memiliki keterkaitan de ngan fungsi \nkepolisian; (iii) jabatan tersebut terdiri atas jabatan manajer ial dan \nnonmanajerial; (iv) jabatan tersebut berada pada kementerian/le mbaga; dan \n(v) kementerian/lembaga dimaksud menyelenggarakan urusan pemerintahan \n\n27 \natau tugas pemerintahan pada tiga bidang yang secara tegas dite ntukan \ndalam batang tubuh.",
+      "start_line": 922,
+      "end_line": 931
+    },
+    {
+      "heading": "50. Bahwa dengan demikian, batang tubuh Pasal 28A ayat (2) telah menentukan",
+      "slug": "50-bahwa-dengan-demikian-batang-tubuh-pasal-28a-ayat-2-telah-menentukan",
+      "text": "sendiri ruang lingkup pokok norma, termasuk jenis jabatan dan l ingkungan \npemerintahan yang menjadi tempat jabatan tersebut berada. Oleh \nkarenanya, Penjelasan Pasal 28A ayat (2) seharusnya hanya membe rikan \nuraian untuk memperjelas makna tiga bidang yang telah ditentuka n dalam \nbatang tubuh dan tidak boleh membentuk kriteria normatif baru y ang \nmenentukan atau memperluas cakupan norma.",
+      "start_line": 933,
+      "end_line": 938
+    },
+    {
+      "heading": "51. Bahwa prinsip tersebut sejalan dengan Lampiran II Undang-Un dang Nomor",
+      "slug": "51-bahwa-prinsip-tersebut-sejalan-dengan-lampiran-ii-undang-un-dang-nomor",
+      "text": "12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan \nsebagaimana telah diubah dengan Undang-Undang Nomor 13 Tahun 20 22, \nyang menempatkan Penjelasan sebagai tafsir resmi pembentuk pera turan \nperundang-undangan atas norma tertentu dalam batang tubuh dan p ada \npokoknya melarang Penjelasan memuat rumusan yang bersifat normatif atau \nmengakibatkan perluasan, penyempitan, ataupun perubahan makna n orma \nyang dijelaskan.",
+      "start_line": 940,
+      "end_line": 946
+    },
+    {
+      "heading": "52. Bahwa akan tetapi, Penjelasan Pasal 28A ayat (2) tidak berh enti pada",
+      "slug": "52-bahwa-akan-tetapi-penjelasan-pasal-28a-ayat-2-tidak-berh-enti-pada",
+      "text": "pemberian uraian mengenai arti tiga bidang yang telah disebutka n dalam \nbatang tubuh, melainkan memasukkan klasifikasi kementerian/lemb aga \ntertentu sebagai bagian dari bidang-bidang tersebut dan membuka  \nkemungkinan masuknya bidang pemerintahan lain yang tidak ditent ukan \nsecara spesifik dalam batang tubuh.",
+      "start_line": 948,
+      "end_line": 952
+    },
+    {
+      "heading": "53. Bahwa Penjelasan huruf a menyatakan bahwa “pemeliharaan keamanan dan",
+      "slug": "53-bahwa-penjelasan-huruf-a-menyatakan-bahwa-pemeliharaan-keamanan-dan",
+      "text": "ketertiban masyarakat” antara la in pada kementerian/lembaga yan g \nmenyelenggarakan urusan pemerintahan di bidang dalam negeri dan bidang \npertahanan.",
+      "start_line": 954,
+      "end_line": 956
+    },
+    {
+      "heading": "54. Bahwa Penjelasan huruf b menyatakan bahwa “pelindungan, pen gayoman,",
+      "slug": "54-bahwa-penjelasan-huruf-b-menyatakan-bahwa-pelindungan-pen-gayoman",
+      "text": "dan pelayanan kepada masyarakat” antara lain pada kementerian/l embaga \nyang menyelenggarakan urusan pemerintahan di bidang sosial, bid ang \nperhubungan, dan bidang lainnya yang memberikan pelindungan, \npengayoman, dan pelayanan kepada masyarakat. \n\n28",
+      "start_line": 958,
+      "end_line": 963
+    },
+    {
+      "heading": "55. Bahwa Penjelasan huruf c menyatakan bahwa “penegakan hukum” antara",
+      "slug": "55-bahwa-penjelasan-huruf-c-menyatakan-bahwa-penegakan-hukum-antara",
+      "text": "lain pada kementerian/lembaga yang memiliki kepolisian khusus dan penyidik \npegawai negeri sipil.",
+      "start_line": 965,
+      "end_line": 966
+    },
+    {
+      "heading": "56. Bahwa berdasarkan rumusan tersebut, persoalan konstitusiona l Penjelasan",
+      "slug": "56-bahwa-berdasarkan-rumusan-tersebut-persoalan-konstitusiona-l-penjelasan",
+      "text": "a quo bukan semata-mata terletak pada penyebutan kementerian/lembaga  \ntertentu sebagai contoh, melainkan pada kenyataan bahwa penyebu tan \ntersebut berfungsi sebagai klasifikasi kelembagaan untuk menent ukan \nlingkungan kementerian/lembaga yang dapat dimasukkan ke dalam cakupan \nPasal 28A ayat (2).",
+      "start_line": 968,
+      "end_line": 972
+    },
+    {
+      "heading": "57. Bahwa oleh karena itu, yang perlu ditegaskan adalah apa yan g secara",
+      "slug": "57-bahwa-oleh-karena-itu-yang-perlu-ditegaskan-adalah-apa-yan-g-secara",
+      "text": "konkret diperluas oleh Penjelasan a quo. Pemohon tidak mendalilkan bahwa \nPenjelasan menciptakan “bidang keempat” di luar tiga bidang dal am batang \ntubuh. Yang didalilkan Pemohon adalah bahwa Penjelasan memperlu as \ncakupan internal dari tiga bidang tersebut melalui penambahan k lasifikasi \nkelembagaan dan kemungkinan bidang pemerintahan lain sebagai da sar \nuntuk memasukkan suatu kementerian/lembaga ke dalam cakupan nor ma \nPasal 28A ayat (2).",
+      "start_line": 974,
+      "end_line": 980
+    },
+    {
+      "heading": "58. Bahwa batang tubuh hanya menentukan tiga bidang pemerintaha n sebagai",
+      "slug": "58-bahwa-batang-tubuh-hanya-menentukan-tiga-bidang-pemerintaha-n-sebagai",
+      "text": "lingkungan normatif, yaitu pemeliharaan keamanan dan ketertiban  \nmasyarakat; pelindungan, pengayoman dan pelayanan kepada masyar akat; \nserta penegakan hukum. Sebaliknya, Penjelasan kemudian memperkenalkan \ncara tambahan untuk menentukan kementerian/lembaga yang diangga p \ntermasuk dalam bidang-bidang tersebut, dengan menyebut bidang d alam \nnegeri, pertahanan, sosial, perhubungan, kementerian/lembaga ya ng \nmemiliki kepolisian khusus dan PPNS, serta “bidang lainnya”.",
+      "start_line": 982,
+      "end_line": 988
+    },
+    {
+      "heading": "59. Bahwa norma baru yang muncul dari Penjelasan a quo adalah adanya kriteria",
+      "slug": "59-bahwa-norma-baru-yang-muncul-dari-penjelasan-a-quo-adalah-adanya-kriteria",
+      "text": "dan klasifikasi kelembagaan tambahan yang tidak dirumuskan dalam batang \ntubuh, yang digunakan untuk menentukan bahwa lingkungan kemente rian/ \nlembaga tertentu dan bahkan lingkungan bidang pemerintahan lainnya dapat \ndimasukkan ke dalam cakupan tiga bidang Pasal 28A ayat (2).",
+      "start_line": 990,
+      "end_line": 993
+    },
+    {
+      "heading": "60. Bahwa dengan demikian, akibat normatif Penjelasan a quo dapat dilihat",
+      "slug": "60-bahwa-dengan-demikian-akibat-normatif-penjelasan-a-quo-dapat-dilihat",
+      "text": "secara langsung dalam rangkaian norma berikut: batang tubuh men entukan \ntiga bidang; Penjelasan menentukan dan memperluas kementerian/lembaga \nyang dapat dimasukkan ke dalam tiga bidang tersebut; penentuan \n\n29 \nkementerian/lembaga menentukan lingkungan jabatan yang berada d alam \ncakupan norma; dan lingkungan jabatan tersebut pada akhirnya menentukan \nruang berlakunya kewenangan penempatan anggota Polri aktif pada jabatan \nmanajerial dan nonmanajerial di luar organisasi Polri. Rangkaia n tersebut \nmenunjukkan bahwa materi yang ditempatkan dalam Penjelasan a quo bukan \nlagi sekadar uraian untuk memahami norma, melainkan mempunyai a kibat \ndalam menentukan luas atau sempitnya norma yang berlaku.",
+      "start_line": 995,
+      "end_line": 1006
+    },
+    {
+      "heading": "61. Bahwa norma tambahan tersebut mempunyai akibat normatif kar ena",
+      "slug": "61-bahwa-norma-tambahan-tersebut-mempunyai-akibat-normatif-kar-ena",
+      "text": "penentuan apakah suatu kementerian/lembaga termasuk dalam cakup an \nPasal 28A ayat (2) menentukan pula lingkungan pemerintahan temp at \njabatan manajerial dan nonmanajerial di luar organisasi Polri d apat \nditempatkan dan diduduki oleh anggota Polri aktif berdasarkan norma a quo.",
+      "start_line": 1008,
+      "end_line": 1011
+    },
+    {
+      "heading": "62. Bahwa dengan demikian, Penjelasan a quo tidak sekadar menerangkan arti",
+      "slug": "62-bahwa-dengan-demikian-penjelasan-a-quo-tidak-sekadar-menerangkan-arti",
+      "text": "tiga bidang yang telah disebutkan dalam batang tubuh, tetapi ik ut \nmenentukan dan memperluas lingkungan kelembagaan yang dapat men jadi \ntempat berlakunya rezim khusus penempatan anggota Polri aktif p ada \njabatan manajerial dan nonmanajerial.",
+      "start_line": 1013,
+      "end_line": 1016
+    },
+    {
+      "heading": "63. Bahwa akibat normatif tersebut semakin nyata dengan penggun aan frasa",
+      "slug": "63-bahwa-akibat-normatif-tersebut-semakin-nyata-dengan-penggun-aan-frasa",
+      "text": "“antara lain” pada huruf a, huruf b, dan huruf c. Frasa tersebut menyebabkan \ndaftar kementerian/lembaga yang disebut dalam Penjelasan tidak bersifat \ntertutup, sehingga tidak terdapat batas yang pasti mengenai kem enterian/ \nlembaga apa saja yang masih dapat dimasukkan ke dalam masing-ma sing \nbidang.",
+      "start_line": 1018,
+      "end_line": 1022
+    },
+    {
+      "heading": "64. Bahwa persoalan tersebut diperkuat oleh frasa “bidang lainn ya yang",
+      "slug": "64-bahwa-persoalan-tersebut-diperkuat-oleh-frasa-bidang-lainn-ya-yang",
+      "text": "memberikan pelindungan, pengayoman, dan pelayanan kepada masyarakat” \ndalam Penjelasan huruf b. Frasa “bidang lainnya” tidak disertai  parameter \nobjektif dan batas tertutup mengenai bidang pemerintahan apa ya ng \ndimaksud, sehingga membuka kemungkinan lingkungan pemerintahan lain \ndimasukkan ke dalam cakupan Pasal 28A ayat (2).",
+      "start_line": 1024,
+      "end_line": 1028
+    },
+    {
+      "heading": "65. Bahwa dengan konstruksi tersebut, batas mengenai kementeria n/lembaga",
+      "slug": "65-bahwa-dengan-konstruksi-tersebut-batas-mengenai-kementeria-n-lembaga",
+      "text": "yang termasuk dalam lingkungan tiga bidang Pasal 28A ayat (2) t idak lagi \nsepenuhnya bersumber dari batang tubuh, melainkan dapat berkemb ang \nberdasarkan klasifikasi dan penafsiran terhadap Penjelasan a quo. \n\n30",
+      "start_line": 1030,
+      "end_line": 1034
+    },
+    {
+      "heading": "66. Bahwa Pemohon tidak mendalilkan bahwa bidang dalam negeri, pertahanan,",
+      "slug": "66-bahwa-pemohon-tidak-mendalilkan-bahwa-bidang-dalam-negeri-pertahanan",
+      "text": "sosial, perhubungan, atau kementerian/lembaga yang memiliki kep olisian \nkhusus dan PPNS secara faktual tidak memiliki hubungan dengan f ungsi \nkepolisian. Persoalan konstitusionalnya adalah apakah hubungan faktual \ntersebut dapat melalui Penjelasan diubah menjadi kriteria norma tif untuk \nmenentukan dan memperluas lingkungan berlakunya norma batang tubuh.",
+      "start_line": 1036,
+      "end_line": 1040
+    },
+    {
+      "heading": "67. Bahwa perbedaan antara Penjelasan yang bersifat ilustratif dengan",
+      "slug": "67-bahwa-perbedaan-antara-penjelasan-yang-bersifat-ilustratif-dengan",
+      "text": "Penjelasan yang mengandung perluasan norma terletak pada akibat  yan g \nditimbulkannya. Apabila suatu uraian hanya memberikan contoh ta npa \nmenentukan cakupan norma, uraian tersebut tetap bersifat penjel asan. \nNamun, apabila uraian tersebut digunakan untuk menentukan \nkementerian/lembaga apa yang termasuk dalam lingkungan norma da n \nmembuka kemungkinan lingkungan lain ikut masuk, maka uraian ter sebut \ntelah menimbulkan akibat normatif yang melampaui fungsi Penjelasan.",
+      "start_line": 1042,
+      "end_line": 1048
+    },
+    {
+      "heading": "68. Bahwa pentingnya batas yang jelas mengenai lingkungan kelem bagaan",
+      "slug": "68-bahwa-pentingnya-batas-yang-jelas-mengenai-lingkungan-kelem-bagaan",
+      "text": "dalam pengaturan penempatan personel aktif pada jabatan di luar  institusi \nasalnya juga dapat dilihat dari teknik perumusan Pasal 47 Undan g-Undang \nNomor 3 Tahun 2025 tentang Perubahan atas Undang-Undang Nomor 3 4 \nTahun 2004 tentang Tentara Nasional Indonesia.",
+      "start_line": 1050,
+      "end_line": 1053
+    },
+    {
+      "heading": "69. Bahwa Pasal 47 Undang-Undang TNI tersebut secara langsung m enyebut",
+      "slug": "69-bahwa-pasal-47-undang-undang-tni-tersebut-secara-langsung-m-enyebut",
+      "text": "dalam batang tubuh sejumlah kementerian/lembaga yang menjadi \nlingkungan jabatan yang dapat diduduki prajurit TNI aktif, sehi ngga \nlingkungan kelembagaan tersebut ditentukan pada tingkat norma b atang \ntubuh dan dapat diketahui secara langsung dari undang-undang.",
+      "start_line": 1055,
+      "end_line": 1058
+    },
+    {
+      "heading": "70. Bahwa perbandingan tersebut tidak dimaksudkan oleh Pemohon untuk",
+      "slug": "70-bahwa-perbandingan-tersebut-tidak-dimaksudkan-oleh-pemohon-untuk",
+      "text": "menyatakan bahwa pengaturan mengenai TNI dan Polri harus identi k atau \nbahwa Pasal 47 Undang-Undang TNI merupakan ukuran tunggal \nkonstitusionalitas Pasal 28A Undang-Undang Polri. Perbandingan tersebut \nsemata-mata menunjukkan bahwa penentuan lingkungan kementerian/  \nlembaga yang dapat menjadi tempat penempatan personel aktif mer upakan \nmateri yang secara substansial dapat menentukan ruang lingkup \nkewenangan, sehingga apabila hendak dijadikan batas normatif, m ateri \ntersebut semestinya dapat ditemukan dalam batang tubuh undang-undang. \n\n31",
+      "start_line": 1060,
+      "end_line": 1069
+    },
+    {
+      "heading": "71. Bahwa berbeda dengan konstruksi tersebut, Pasal 28A ayat (2 ) Undang-",
+      "slug": "71-bahwa-berbeda-dengan-konstruksi-tersebut-pasal-28a-ayat-2-undang",
+      "text": "Undang a quo tidak menentukan kementerian/lembaga tertentu dalam batang \ntubuh, melainkan hanya menentukan tiga bidang. Akan tetapi, Pen jelasan \nkemudian memasukkan klasifikasi kementerian/lembaga tertentu ke  d a l a m  \nmasing-masing bidang dan bahkan membuka kemungkinan masuknya \n“bidang lainnya”.",
+      "start_line": 1071,
+      "end_line": 1075
+    },
+    {
+      "heading": "72. Bahwa dengan demikian, Penjelasan Pasal 28A ayat (2) telah mengambil",
+      "slug": "72-bahwa-dengan-demikian-penjelasan-pasal-28a-ayat-2-telah-mengambil",
+      "text": "materi yang secara substansial menentukan cakupan lingkungan \nkelembagaan dari norma yang diberikan oleh batang tubuh, kemudi an \nmemasukkannya ke dalam bagian yang seharusnya hanya berfungsi \nmemberikan penjelasan terhadap norma tersebut.",
+      "start_line": 1077,
+      "end_line": 1080
+    },
+    {
+      "heading": "73. Bahwa konstruksi demikian tidak sejalan dengan prinsip nega ra hukum",
+      "slug": "73-bahwa-konstruksi-demikian-tidak-sejalan-dengan-prinsip-nega-ra-hukum",
+      "text": "sebagaimana dijamin Pasal 1 ayat (3) UUD NRI Tahun 1945, karena  \nkewenangan khusus yang memungkinkan anggota Polri aktif mendudu ki \njabatan di luar organisasi Polri harus mempunyai batas normatif  yang jelas \ndalam undang-undang dan tidak seharusnya diperluas melalui Penjelasan.",
+      "start_line": 1082,
+      "end_line": 1085
+    },
+    {
+      "heading": "74. Bahwa konstruksi tersebut juga bertentangan dengan prinsip kepastian",
+      "slug": "74-bahwa-konstruksi-tersebut-juga-bertentangan-dengan-prinsip-kepastian",
+      "text": "hukum yang adil sebagaimana dijamin Pasal 28D ayat (1) UUD NRI Tahun \n1945, karena tidak terdapat batas objektif yang dapat memastika n secara \ntertutup kementerian/lembaga dan lingkungan jabatan apa saja ya ng \ntermasuk dalam cakupan Pasal 28A ayat (2), terlebih dengan digu nakannya \nfrasa “antara lain” dan “bidang lainnya”.",
+      "start_line": 1087,
+      "end_line": 1091
+    },
+    {
+      "heading": "75. Bahwa pendirian tersebut sejalan dengan Putusan Mahkamah Ko nstitusi",
+      "slug": "75-bahwa-pendirian-tersebut-sejalan-dengan-putusan-mahkamah-ko-nstitusi",
+      "text": "Nomor 114/PUU-XXIII/2025, ketika Mahkamah menilai bagian Penjel asan \nPasal 28 ayat (3) UU Polri yang menambahkan frasa tertentu just ru \nmenimbulkan ketidakjelasan terhadap norma yang dijelaskannya da n \nkarenanya dinyatakan bertentangan dengan UUD NRI Tahun 1945 ser ta \ntidak mempunyai kekuatan hukum mengikat.",
+      "start_line": 1093,
+      "end_line": 1097
+    },
+    {
+      "heading": "76. Bahwa meskipun objek dalam Putusan Mahkamah Konstitusi Nomo r",
+      "slug": "76-bahwa-meskipun-objek-dalam-putusan-mahkamah-konstitusi-nomo-r",
+      "text": "114/PUU-XXIII/2025 berbeda dengan objek a quo, putusan tersebut relevan \nsebagai prinsip bahwa Penjelasan tidak dapat dipertahankan apab ila \nkeberadaannya justru memberikan akibat normatif yang memperluas  a t a u  \nmengaburkan batas norma batang tubuh. \n\n32",
+      "start_line": 1099,
+      "end_line": 1104
+    },
+    {
+      "heading": "77. Bahwa prinsip mengenai perlunya dasar hukum yang jelas dalam pengaturan",
+      "slug": "77-bahwa-prinsip-mengenai-perlunya-dasar-hukum-yang-jelas-dalam-pengaturan",
+      "text": "jabatan tertentu bagi anggota Polri juga sejalan dengan pertimb angan \nMahkamah dalam Putusan Mahkamah Konstitusi Nomor 223/PUU-\nXXIII/2025, yang menekankan pentingnya pengaturan tertulis yang jelas dan \ntidak multitafsir mengenai jabatan ASN tertentu yang dapat diisi oleh anggota \nPolri serta pentingnya dasar pengaturan dalam undang-undang.",
+      "start_line": 1106,
+      "end_line": 1110
+    },
+    {
+      "heading": "78. Bahwa berdasarkan seluruh uraian tersebut, persoalan Penjel asan Pasal",
+      "slug": "78-bahwa-berdasarkan-seluruh-uraian-tersebut-persoalan-penjel-asan-pasal",
+      "text": "28A ayat (2) bukan semata-mata keberadaan satu atau dua frasa t ertentu \nyang dapat dihapus secara terpisah, melainkan persoalan struktu ral, karena \nkeseluruhan Penjelasan telah membangun klasifikasi kelembagaan \ntambahan untuk menentukan lingkungan kementerian/lembaga yang d apat \ndimasukkan ke dalam cakupan tiga bidang dalam batang tubuh.",
+      "start_line": 1112,
+      "end_line": 1116
+    },
+    {
+      "heading": "79. Bahwa oleh karena itu, penghapusan hanya terhadap frasa “antara lain” tidak",
+      "slug": "79-bahwa-oleh-karena-itu-penghapusan-hanya-terhadap-frasa-antara-lain-tidak",
+      "text": "menyelesaikan persoalan konstitusional tersebut, karena klasifi kasi \nkementerian/lembaga yang dimuat dalam Penjelasan tetap memberik an \nmuatan normatif tambahan yang tidak terdapat dalam batang tubuh.",
+      "start_line": 1118,
+      "end_line": 1120
+    },
+    {
+      "heading": "80. Bahwa demikian pula penghapusan hanya terhadap frasa “bidan g lainnya”",
+      "slug": "80-bahwa-demikian-pula-penghapusan-hanya-terhadap-frasa-bidan-g-lainnya",
+      "text": "tidak menyelesaikan persoalan secara keseluruhan, karena Penjelasan huruf \na, huruf b, dan huruf c tetap memuat klasifikasi kelembagaan yang berfungsi \nmenentukan cakupan lingkungan kementerian/lembaga yang dapat \ndimasukkan ke dalam norma Pasal 28A ayat (2).",
+      "start_line": 1122,
+      "end_line": 1125
+    },
+    {
+      "heading": "81. Bahwa dengan demikian, cacat konstitusional tersebut tidak dapat dipulihkan",
+      "slug": "81-bahwa-dengan-demikian-cacat-konstitusional-tersebut-tidak-dapat-dipulihkan",
+      "text": "hanya dengan menghapus sebagian kata atau frasa dalam Penjelasa n, \nkarena persoalannya terletak pada fungsi keseluruhan Penjelasan  a quo  \nyang telah bergeser dari fungsi menerangkan menjadi fungsi mene ntukan \ndan memperluas cakupan norma batang tubuh.",
+      "start_line": 1127,
+      "end_line": 1130
+    },
+    {
+      "heading": "82. Bahwa sebaliknya, apabila seluruh Penjelasan Pasal 28A ayat (2) dinyatakan",
+      "slug": "82-bahwa-sebaliknya-apabila-seluruh-penjelasan-pasal-28a-ayat-2-dinyatakan",
+      "text": "bertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai keku atan \nhukum mengikat, norma batang tubuh Pasal 28A ayat (2) tetap dapat berlaku \nberdasarkan rumusannya sendiri, yaitu jabatan di luar organisas i Polri yang \nmemiliki keterkaitan dengan fungsi kepolisian berupa jabatan manajerial dan \nnonmanajerial pada kementerian/lembaga yang menyelenggarakan ur usan \npemerintahan atau tugas pemerintahan pada tiga bidang yang tela h \nditentukan secara tegas dalam batang tubuh. \n\n33",
+      "start_line": 1132,
+      "end_line": 1140
+    },
+    {
+      "heading": "83. Bahwa dengan demikian, pembatalan keseluruhan Penjelasan Pa sal 28A",
+      "slug": "83-bahwa-dengan-demikian-pembatalan-keseluruhan-penjelasan-pa-sal-28a",
+      "text": "ayat (2) tidak menghilangkan norma pokok yang dibentuk oleh pem bentuk \nundang-undang dan tidak menciptakan kekosongan hukum terhadap t iga \nbidang yang telah ditentukan dalam batang tubuh. Pembatalan tersebut justru \nmengembalikan fungsi Penjelasan pada kedudukannya sebagai bagian yang \nmenerangkan norma, bukan sebagai sumber perluasan cakupan \nkewenangan.",
+      "start_line": 1142,
+      "end_line": 1147
+    },
+    {
+      "heading": "84. Bahwa berdasarkan seluruh uraian tersebut, Penjelasan Pasal 28A ayat (2)",
+      "slug": "84-bahwa-berdasarkan-seluruh-uraian-tersebut-penjelasan-pasal-28a-ayat-2",
+      "text": "Undang-Undang a quo  telah memuat materi yang memberikan akibat \nnormatif berupa penentuan dan perluasan lingkungan kementerian/ lembaga \nyang dapat dimasukkan ke dalam cakupan tiga bidang dalam batang  tubuh, \nmembuka kemungkinan perluasan melalui frasa “antara lain” dan “ bidang \nlainnya”, serta dengan demikian menimbulkan ketidakpastian meng enai \nbatas lingkungan berlakunya norma mengenai jabatan manajerial d an \nnonmanajerial di luar organisasi Polri.",
+      "start_line": 1149,
+      "end_line": 1155
+    },
+    {
+      "heading": "85. Bahwa oleh karena cacat tersebut melekat pada konstruksi ke seluruhan",
+      "slug": "85-bahwa-oleh-karena-cacat-tersebut-melekat-pada-konstruksi-ke-seluruhan",
+      "text": "Penjelasan Pasal 28A ayat (2), maka Penjelasan Pasal 28A ayat ( 2) secara \nkeseluruhan bertentangan dengan prinsip negara hukum sebagaiman a \ndimaksud dalam Pasal 1 ayat (3) UUD NRI Tahun 1945 dan prinsip kepastian \nhukum yang adil sebagaimana dijamin dalam Pasal 28D ayat (1) UU D NRI \nTahun 1945.",
+      "start_line": 1157,
+      "end_line": 1161
+    },
+    {
+      "heading": "86. Bahwa berdasarkan seluruh alasan tersebut, Pemohon memohon kepada",
+      "slug": "86-bahwa-berdasarkan-seluruh-alasan-tersebut-pemohon-memohon-kepada",
+      "text": "Mahkamah Konstitusi untuk menyatakan Penjelasan Pasal 28A ayat (2) \nUndang-Undang a quo bertentangan dengan Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945 dan tidak mempunyai kekuatan huku m \nmengikat untuk seluruhnya.  \nD.  Pasal 28A Ayat (3) UU Polri: Kekeliruan Konseptual, Ketiada an Parameter \nObjektif, dan Indikasi Pola Institusional yang Berisiko Berlanjut",
+      "start_line": 1163,
+      "end_line": 1168
+    },
+    {
+      "heading": "87. Bahwa Pasal 28A ayat (3) UU Polri menyatakan: \"Selain pada kementerian",
+      "slug": "87-bahwa-pasal-28a-ayat-3-uu-polri-menyatakan-selain-pada-kementerian",
+      "text": "atau lembaga sebagaimana dimaksud pada ayat (2), Anggota Kepoli sian \nNegara Republik Indonesia dapat mengisi jabatan di luar organis asi \nKepolisian Negara Republik Indonesia sepanjang terdapat permint aan dari \nkementerian atau lembaga yang membutuhkan keahlian yang dimilik i \nAnggota Kepolisian Negara Republik Indonesia.\" \n\n34",
+      "start_line": 1170,
+      "end_line": 1176
+    },
+    {
+      "heading": "88. Bahwa sebagaimana diuraikan Bagian B.1, ayat (3) melepaskan diri dari",
+      "slug": "88-bahwa-sebagaimana-diuraikan-bagian-b-1-ayat-3-melepaskan-diri-dari",
+      "text": "kedua sumbu operasional ayat (2): frasa \"selain pada kementeria n atau \nlembaga sebagaimana dimaksud ayat (2)\" melepaskan pembatasan ti ga \nbidang, dan ayat (3) sama sekali tidak menyebutkan level jabata n \n(manajerial/nonmanajerial), berbeda dari rumusan eksplisit ayat (2).",
+      "start_line": 1178,
+      "end_line": 1181
+    },
+    {
+      "heading": "89. Bahwa ketiadaan penyebutan level jabatan tidak berarti ayat ( 3 ) t e r b a t a s",
+      "slug": "89-bahwa-ketiadaan-penyebutan-level-jabatan-tidak-berarti-ayat-3-t-e-r-b-a-t-a-s",
+      "text": "pada jabatan manajerial saja. Karena ayat (1) sebagai syarat pa yung tidak \nmembedakan level jabatan, dan ayat (2) telah mengonfirmasi peng isian \njabatan berdasarkan Pasal 28A pada dasarnya terbuka bagi jabata n \nmanajerial dan nonmanajerial, tidak terdapat dasar hukum menafs irkan ayat \n(3) secara restriktif hanya pada jabatan manajerial. Ayat (3) secara struktural \ntetap berpotensi menjangkau Jabatan Pelaksana pada kementerian/lembaga",
+      "start_line": 1183,
+      "end_line": 1188
+    },
+    {
+      "heading": "90. Bahwa persoalan konstitusionalnya terletak pada kenyataan b ahwa setelah",
+      "slug": "90-bahwa-persoalan-konstitusionalnya-terletak-pada-kenyataan-b-ahwa-setelah",
+      "text": "membuka ruang \"selain\" tersebut  yang secara logis mencakup pul a ruang \npada level nonmanajerial di kementerian/lembaga mana pun  pembe ntuk \nundang-undang tidak terlebih dahulu menentukan batas substantif mengenai \njenis jabatan dan lingkungan kelembagaan, melainkan menggunakan  d u a  \nkeadaan administratif dan individual: \"permintaan dari kementer ian atau \nlembaga\" dan \"kebutuhan\" atas \"keahlian\".",
+      "start_line": 1191,
+      "end_line": 1196
+    },
+    {
+      "heading": "91. Bahwa Pasal 28A ayat (1) menetapkan syarat \"keterkaitan den gan fungsi",
+      "slug": "91-bahwa-pasal-28a-ayat-1-menetapkan-syarat-keterkaitan-den-gan-fungsi",
+      "text": "kepolisian\"  parameter melekat pada jabatan dan fungsi, bukan pada pribadi \nanggota Polri. Sebaliknya, keahlian individual merupakan karakt er yang \nmelekat pada orang yang akan menduduki jabatan.",
+      "start_line": 1198,
+      "end_line": 1200
+    },
+    {
+      "heading": "92. Bahwa terdapat kekeliruan konseptual apabila kebutuhan atas keahlian",
+      "slug": "92-bahwa-terdapat-kekeliruan-konseptual-apabila-kebutuhan-atas-keahlian",
+      "text": "individual dijadikan dasar mandiri untuk menentukan bahwa suatu  jabatan \nmempunyai keterkaitan dengan fungsi kepolisian. Keahlian indivi dual \nmenjelaskan mengapa seseorang dibutuhkan; tidak menentukan apak ah \njabatan yang akan diisi mempunyai keterkaitan dengan fungsi kepolisian.",
+      "start_line": 1202,
+      "end_line": 1205
+    },
+    {
+      "heading": "93. Bahwa di sinilah jawaban Pemohon atas pertanyaan mengapa ay at (3)",
+      "slug": "93-bahwa-di-sinilah-jawaban-pemohon-atas-pertanyaan-mengapa-ay-at-3",
+      "text": "didalilkan berpotensi membuka jabatan yang tidak berkaitan deng an fungsi \nkepolisian: bukan karena ayat (3) secara redaksional meniadakan syarat ayat \n(1), melainkan karena ayat (3)  dengan melepaskan pembatasan bidang dari \nayat (2) tanpa parameter substantif pengganti selain kriteria a dministratif \n\n35 \n\"permintaan\" dan \"kebutuhan keahlian\"  tidak menyediakan mekani sme \nstruktural yang menjamin permintaan dan kebutuhan tersebut hanya muncul \npada jabatan yang benar-benar berkaitan dengan fungsi kepolisia n. Suatu \nkementerian/lembaga di luar tiga bidang ayat (2) dapat saja men yatakan \n\"membutuhkan keahlian\" anggota Polri untuk suatu Jabatan Pelaksana yang \npada karakternya tidak memiliki sangkut paut dengan fungsi kepolisian, tanpa \nparameter substantif tambahan yang secara objektif menguji hubu ngan \nantara jabatan tersebut dengan fungsi kepolisian.",
+      "start_line": 1207,
+      "end_line": 1220
+    },
+    {
+      "heading": "94. Bahwa kekhawatiran konseptual tersebut memperoleh dukungan dari indikasi",
+      "slug": "94-bahwa-kekhawatiran-konseptual-tersebut-memperoleh-dukungan-dari-indikasi",
+      "text": "pola institusional yang telah tercatat secara administratif. Se bagaimana \ndiuraikan pada Bagian Legal Standing di atas, berdasarkan Bukti P-3, tercatat \ndua Keputusan Menteri Dalam Negeri mengenai \"pengangkatan anggo ta \npolri dalam jabatan pelaksana di lingkungan Sekretariat Jendera l \nKementerian Dalam Negeri\"  yaitu Surat Nomor 800.1.3.3-1766 Tah un 2025 \ntertanggal 28 Februari 2025 dan Surat Nomor 800.1.3.3-2058.A/20 25 \ntertanggal 27 Maret 2025.",
+      "start_line": 1222,
+      "end_line": 1228
+    },
+    {
+      "heading": "95. Bahwa Pemohon dengan tegas menyatakan kedua Keputusan terse but",
+      "slug": "95-bahwa-pemohon-dengan-tegas-menyatakan-kedua-keputusan-terse-but",
+      "text": "diterbitkan sebelum berlakunya Undang-Undang Nomor 5 Tahun 2026 , \nsehingga dasar hukum penempatan pada saat itu adalah Pasal 28 U ndang-\nUndang Nomor 2 Tahun 2002 sebagaimana berlaku sebelum perubahan , \nbukan Pasal 28A yang menjadi objek permohonan a quo. Oleh karena itu, \nPemohon tidak mendalilkan bahwa kedua Keputusan tersebut merupa kan \nakibat langsung dari berlakunya Pasal 28A ayat (3) UU Polri.",
+      "start_line": 1230,
+      "end_line": 1235
+    },
+    {
+      "heading": "96. Bahwa Sekretariat Jenderal pada suatu kementerian, sebagaim ana lazim",
+      "slug": "96-bahwa-sekretariat-jenderal-pada-suatu-kementerian-sebagaim-ana-lazim",
+      "text": "diatur peraturan organisasi dan tata kerja kementerian, merupak an unsur \npendukung yang menyelenggarakan fungsi administrasi umum, \nkepegawaian, keuangan, perlengkapan, dan tata usaha internal  bukan unsur \nteknis yang menjalankan fungsi substantif kementerian di bidang  u r u s a n  \npemerintahan tertentu. Dalam struktur Kementerian Dalam Negeri,  fungsi \nteknis yang berkaitan langsung dengan pemeliharaan keamanan dan  \nketertiban masyarakat lazimnya diselenggarakan unit lain di lua r Sekretariat \nJenderal.",
+      "start_line": 1237,
+      "end_line": 1244
+    },
+    {
+      "heading": "97. Bahwa fakta ini memperlihatkan pola institusional yang tela h ada sejak",
+      "slug": "97-bahwa-fakta-ini-memperlihatkan-pola-institusional-yang-tela-h-ada-sejak",
+      "text": "sebelum berlakunya norma a quo : keberadaan hubungan kelembagaan \n\n36 \nsuatu kementerian dengan bidang tertentu, dalam praktiknya, tid ak dengan \nsendirinya menjamin bahwa hanya jabatan yang benar-benar berkai tan \ndengan fungsi kepolisian yang diisi anggota Polri aktif  bahkan  pada unit \nadministrasi umum seperti Sekretariat Jenderal, yang secara fungsional tidak \nmenjalankan tugas substantif di bidang keamanan dan ketertiban \nmasyarakat. Pemohon tidak mendalilkan pola ini secara langsung \ndisebabkan oleh Pasal 28A ayat (3), mengingat penempatan tersebut terjadi \nsebelum UU a quo berlaku. Namun, pola tersebut relevan sebagai indikasi \nkecenderungan institusional yang sama berpotensi berlanjut di b awah Pasal \n28A ayat (3), mengingat ayat (3) menggunakan kriteria administr atif yang \nserupa sifatnya (permintaan dan kebutuhan keahlian) dengan yang  berlaku \npada rezim sebelumnya, tanpa perbaikan pada aspek batas substan tif yang \njustru menjadi persoalan konstitusional yang didalilkan Pemohon.",
+      "start_line": 1246,
+      "end_line": 1261
+    },
+    {
+      "heading": "98. Bahwa indikasi pola penempatan anggota Polri pada jabatan yang bercorak",
+      "slug": "98-bahwa-indikasi-pola-penempatan-anggota-polri-pada-jabatan-yang-bercorak",
+      "text": "administratif juga terlihat dalam penelusuran Pemohon pada ling kungan \nBadan Narkotika Nasional. Dalam dokumen Bidpropam Polda Jambi T ahun \n2025 yang diperoleh Pemohon, tercatat Aipda Eko Mulyadi, NRP 82060299, \nBintara Polres Muaro Jambi, sebagai personel penugasan di BNN Kota Jambi \ndengan jabatan Pengadministrasi Umum",
+      "start_line": 1263,
+      "end_line": 1267
+    },
+    {
+      "heading": "99. Bahwa meskipun demikian, temuan tersebut relevan sebagai bu kti empiris",
+      "slug": "99-bahwa-meskipun-demikian-temuan-tersebut-relevan-sebagai-bu-kti-empiris",
+      "text": "pembanding bahwa penugasan anggota Polri di luar organisasi Pol ri dalam \npraktik dapat menyentuh nomenklatur jabatan administratif, tida k semata-\nmata jabatan yang secara eksplisit bercorak penyidikan, intelij en, atau \npemberantasan. Dengan demikian, karakter umum suatu lembaga seb agai \nlembaga yang menjalankan fungsi penegakan hukum, termasuk BNN, tidak \ndengan sendirinya membuktikan bahwa setiap jabatan di dalamnya \nmempunyai keterkaitan substantif dengan fungsi kepolisian. Kead aan \ndemikian memperkuat kebutuhan adanya batas jabatan yang objekti f, jelas, \ndan dapat diuji dalam undang-undang.",
+      "start_line": 1269,
+      "end_line": 1277
+    },
+    {
+      "heading": "100. Bahwa konstruksi ini harus dibaca dalam terang Putusan Mah kamah",
+      "slug": "100-bahwa-konstruksi-ini-harus-dibaca-dalam-terang-putusan-mah-kamah",
+      "text": "Konstitusi Nomor 114/PUU-XXIII/2025, yang menegaskan keterkaita n \nfungsi kepolisian sebagai parameter substantif mengenai karakte r jabatan, \nbukan persoalan administratif mengenai siapa yang meminta atau \n\n37 \nditugaskan  dan dasar administratif tidak dapat menggantikan ke terkaitan \nsubstantif tersebut.",
+      "start_line": 1279,
+      "end_line": 1285
+    },
+    {
+      "heading": "101. Bahwa Putusan Mahkamah Konstitusi Nomor 223/PUU-XXIII/2025",
+      "slug": "101-bahwa-putusan-mahkamah-konstitusi-nomor-223-puu-xxiii-2025",
+      "text": "memperkuat dimensi kepastian hukum: pengaturan mengenai instans i dan \njenis jabatan ASN tertentu yang dapat diisi anggota Polri harus  memiliki \ndasar dalam undang-undang, dan membedakan materi substantif (in stansi \ndan jenis jabatan) dengan tata cara pengisiannya.",
+      "start_line": 1287,
+      "end_line": 1290
+    },
+    {
+      "heading": "102. Bahwa Pemohon menggunakan putusan tersebut sebagai kaidah mengenai",
+      "slug": "102-bahwa-pemohon-menggunakan-putusan-tersebut-sebagai-kaidah-mengenai",
+      "text": "letak dan bentuk batas substantif yang diperlukan: norma a quo membuka \nruang \"selain\" tanpa terlebih dahulu menetapkan batas substanti f ruang \ntersebut dalam undang-undang, melainkan menyerahkannya kepada \npermintaan dan kebutuhan keahlian.",
+      "start_line": 1292,
+      "end_line": 1295
+    },
+    {
+      "heading": "103. Bahwa kebutuhan menetapkan batas substantif bukan sesuatu yang secara",
+      "slug": "103-bahwa-kebutuhan-menetapkan-batas-substantif-bukan-sesuatu-yang-secara",
+      "text": "teknis tidak mungkin  pembentuk undang-undang telah menggunakan teknik \ndemikian dalam Pasal 47 Undang-Undang Nomor 3 Tahun 2025 tentan g \nPerubahan atas UU TNI, yang secara limitatif menentukan kemente rian/ \nlembaga tempat prajurit TNI aktif dapat menduduki jabatan sipil  sebelum \nmekanisme administratif bekerja di dalamnya.",
+      "start_line": 1297,
+      "end_line": 1301
+    },
+    {
+      "heading": "104. Bahwa perbandingan ini menegaskan bahwa penetapan batas su bstantif",
+      "slug": "104-bahwa-perbandingan-ini-menegaskan-bahwa-penetapan-batas-su-bstantif",
+      "text": "pengganti  apabila pembentuk undang-undang hendak mempertahanka n \nmekanisme permintaan  merupakan pilihan kebijakan yang sepenuhn ya \nberada dalam ranah kewenangan pembentuk undang-undang, bukan ranah \nMahkamah. Mahkamah, sebagai negative legislator, berwenang meng uji \ndan menyatakan ketiadaan batas substantif bertentangan dengan UUD NRI \nTahun 1945, tetapi tidak berwenang merumuskan sendiri kementeri an/ \nlembaga, kategori jabatan, atau ukuran substantif pengganti.",
+      "start_line": 1303,
+      "end_line": 1309
+    },
+    {
+      "heading": "105. Bahwa persoalan Pasal 28A ayat (3) bukan terletak pada keb eradaan",
+      "slug": "105-bahwa-persoalan-pasal-28a-ayat-3-bukan-terletak-pada-keb-eradaan",
+      "text": "mekanisme permintaan itu sendiri, melainkan pada kedudukannya s ebagai \nmekanisme yang membuka ruang jabatan  termasuk pada level \nnonmanajerial  di luar kategori ayat (2) tanpa batas substantif  yang terlebih \ndahulu ditentukan undang-undang.",
+      "start_line": 1311,
+      "end_line": 1314
+    },
+    {
+      "heading": "106. Bahwa apabila kedua keadaan administratif tersebut diperla kukan sebagai",
+      "slug": "106-bahwa-apabila-kedua-keadaan-administratif-tersebut-diperla-kukan-sebagai",
+      "text": "syarat cukup untuk membuka jabatan di luar ayat (2), cakupan jabatan yang \ndapat diisi Anggota Polri aktif bergantung pada penilaian masin g-masing \n\n38 \nkementerian/lembaga  bukan pada karakter objektif jabatan itu s endiri, \nmenimbulkan ketidakpastian hukum karena batas jabatan bergeser dari \nnorma undang-undang kepada penilaian administratif kasus per ka sus, \nsebagaimana tercermin dalam fakta penempatan pada lingkungan \nSekretariat Jenderal Kementerian Dalam Negeri dan temuan penuga san \npada nomenklatur Pengadministrasi Umum di lingkungan BNN Kota Jambi.",
+      "start_line": 1316,
+      "end_line": 1325
+    },
+    {
+      "heading": "107. Bahwa Pemohon tidak mempersoalkan prinsip merit maupun kem ungkinan",
+      "slug": "107-bahwa-pemohon-tidak-mempersoalkan-prinsip-merit-maupun-kem-ungkinan",
+      "text": "Anggota Polri memiliki kompetensi yang dibutuhkan. Persoalannya  adalah \napakah keahlian individual dapat dijadikan dasar mandiri membuka jabatan",
+      "start_line": 1327,
+      "end_line": 1328
+    },
+    {
+      "heading": "di luar ruang yang secara substantif telah ditentukan pembentuk undang-",
+      "slug": "di-luar-ruang-yang-secara-substantif-telah-ditentukan-pembentuk-undang",
+      "text": "undang.",
+      "start_line": 1330,
+      "end_line": 1330
+    },
+    {
+      "heading": "108. Bahwa batu uji utama adalah Pasal 1 ayat (3) dan Pasal 28D ayat (1) UUD",
+      "slug": "108-bahwa-batu-uji-utama-adalah-pasal-1-ayat-3-dan-pasal-28d-ayat-1-uud",
+      "text": "NRI Tahun 1945. Ruang jabatan yang dapat diisi Anggota Polri ak tif harus \nmempunyai dasar dan batas hukum yang dapat diketahui sebelumnya ; \nkewenangan administratif tidak dapat menjadi sumber mandiri yan g \nmenentukan substansi jabatan.",
+      "start_line": 1332,
+      "end_line": 1335
+    },
+    {
+      "heading": "109. Bahwa konstruksi ini juga berimplikasi terhadap Pasal 27 a yat (1), Pasal",
+      "slug": "109-bahwa-konstruksi-ini-juga-berimplikasi-terhadap-pasal-27-a-yat-1-pasal",
+      "text": "28D ayat (3), dan Pasal 30 ayat (4) UUD NRI Tahun 1945.",
+      "start_line": 1337,
+      "end_line": 1337
+    },
+    {
+      "heading": "110. Bahwa berdasarkan uji proporsionalitas: dari aspek legitim ate aim,",
+      "slug": "110-bahwa-berdasarkan-uji-proporsionalitas-dari-aspek-legitim-ate-aim",
+      "text": "pemanfaatan kompetensi Anggota Polri dapat merupakan tujuan sah ; dari \naspek suitability, mekanisme permintaan dapat menjadi sarana \nmengidentifikasi kebutuhan personel namun tidak dengan sendirin ya \nmembuktikan kesesuaiannya sebagai penentu ruang substantif jabatan; dari \naspek necessity, tujuan pemanfaatan kompetensi tidak mengharusk an \npermintaan dan kebutuhan keahlian dijadikan sumber mandiri memb uka \nruang jabatan di luar kategori ayat (2); dan dari aspek proportionality stricto \nsensu, manfaat administratif tidak sebanding dengan beban terhadap \nkepastian hukum dan kesetaraan yang ditimbulkan.",
+      "start_line": 1339,
+      "end_line": 1347
+    },
+    {
+      "heading": "111. Bahwa tanpa batas yang dapat diketahui sebelumnya, masyara kat tidak",
+      "slug": "111-bahwa-tanpa-batas-yang-dapat-diketahui-sebelumnya-masyara-kat-tidak",
+      "text": "memperoleh kepastian mengenai apakah suatu jabatan  termasuk Ja batan \nPelaksana  terbuka untuk kompetisi umum atau dapat diisi melalu i \nmekanisme khusus.",
+      "start_line": 1349,
+      "end_line": 1351
+    },
+    {
+      "heading": "112. Bahwa cacat Pasal 28A ayat (3) melekat pada struktur norma it u sen dir i",
+      "slug": "112-bahwa-cacat-pasal-28a-ayat-3-melekat-pada-struktur-norma-it-u-sen-dir-i",
+      "text": "pembukaan ruang \"selain\" ayat (2) tanpa batas substantif apa pu n yang \n\n39 \nterlebih dahulu ditentukan dalam undang-undang, baik pada sumbu bidang \nmaupun sumbu level jabatan. Berbeda dengan Penjelasan Pasal 28A  ayat \n(2) yang cacatnya terletak pada format Penjelasan sementara batang tubuh \ntetap utuh dan sah, pada Pasal 28A ayat (3) tidak terdapat bagi an norma \nyang berdiri sendiri sebagai batas substantif yang sah untuk dipertahankan.",
+      "start_line": 1353,
+      "end_line": 1360
+    },
+    {
+      "heading": "113. Bahwa Pemohon menyadari kemungkinan keberatan bahwa oleh k arena",
+      "slug": "113-bahwa-pemohon-menyadari-kemungkinan-keberatan-bahwa-oleh-k-arena",
+      "text": "Pasal 28A ayat (1) telah diakui sebagai syarat payung yang meng ikat ayat \n(2), (3), dan (4) secara sistemis sebagaimana diuraikan Bagian B.1, maka \nayat (3) dengan sendirinya tunduk pada syarat tersebut, sehingg a \npemaknaan bersyarat  bukan pembatalan total  semestinya menjadi remedy \nyang memadai.",
+      "start_line": 1362,
+      "end_line": 1366
+    },
+    {
+      "heading": "114. Bahwa keberatan tersebut keliru menyamakan dua hal yang be rbeda:",
+      "slug": "114-bahwa-keberatan-tersebut-keliru-menyamakan-dua-hal-yang-be-rbeda",
+      "text": "tunduknya suatu ayat secara tekstual-sistemis pada suatu standar, dengan \ntersedianya standar tersebut sebagai anchor yang operasional da n dapat \nlangsung dieksekusi (self-executing) untuk dijadikan sandaran pemaknaan \nbersyarat. Ayat (1) memang berlaku secara sistemis terhadap ayat (3)  inilah \nyang didalilkan Pemohon dalam Bagian B.1  namun keberlakuan tek stual \ntersebut tidak dengan sendirinya menyediakan kriteria, ukuran, atau \nmekanisme verifikasi yang dapat langsung dieksekusi. Bahwa keti adaan \nkandungan operasional pada syarat ayat (1) ini bukan sekadar pe nilaian \nPemohon, melainkan dikonfirmasi langsung oleh Pemerintah sendir i dalam \nforum pembahasan Rapat Panja 8 Juni 2026 sebagaimana diuraikan pada \nBagian B.2, yang menyatakan bahwa penerapan konkret syarat ters ebut  \ntermasuk kewajiban mundur/pensiun bagi jabatan yang tidak memen uhi \nsyarat  sejak awal direncanakan untuk diatur \"lebih rinci\" dan \"lebih detail\" \ndalam Peraturan Pemerintah, bukan dalam undang-undang.",
+      "start_line": 1368,
+      "end_line": 1381
+    },
+    {
+      "heading": "115. Bahwa hal ini berbeda dengan anchor yang tersedia bagi Penjelasan Pasal",
+      "slug": "115-bahwa-hal-ini-berbeda-dengan-anchor-yang-tersedia-bagi-penjelasan-pasal",
+      "text": "28A ayat (2), yaitu tiga bidang urusan pemerintahan yang dirumu skan \nsecara konkret dan tertutup dalam batang tubuh. Penghapusan fra sa \n\"antara lain\" pada Penjelasan ayat (2) langsung menghasilkan no rma yang \ndapat dieksekusi tanpa tambahan apa pun, karena anchornya berup a \nkategori yang telah lengkap.",
+      "start_line": 1383,
+      "end_line": 1387
+    },
+    {
+      "heading": "116. Bahwa apabila Mahkamah menyatakan Pasal 28A ayat (3) \"kons titusional",
+      "slug": "116-bahwa-apabila-mahkamah-menyatakan-pasal-28a-ayat-3-kons-titusional",
+      "text": "bersyarat sepanjang jabatan yang dimaksud memiliki keterkaitan dengan \n\n40 \nfungsi kepolisian sebagaimana ayat (1)\", pemaknaan tersebut sec ara \nsubstansi tidak menambahkan apa pun pada norma yang berlaku, ka rena \nsyarat tersebut telah berlaku secara sistemis sejak semula. Pem aknaan \nbersyarat yang sekadar mengulang kaidah yang sudah berlaku buka n \nmerupakan remedy yang efektif, karena tidak menjawab persoalan \nkonstitusional yang sesungguhnya didalilkan: ketiadaan ukuran o bjektif \nmengenai siapa yang menguji keterkaitan dimaksud, kriteria apa yang \ndigunakan, dan konsekuensi apa yang timbul apabila keterkaitan tersebut \nternyata tidak terpenuhi.",
+      "start_line": 1389,
+      "end_line": 1400
+    },
+    {
+      "heading": "117. Bahwa perumusan kriteria dan parameter substantif mengenai pengisian",
+      "slug": "117-bahwa-perumusan-kriteria-dan-parameter-substantif-mengenai-pengisian",
+      "text": "jabatan merupakan kewenangan pembentuk undang-undang, bukan \nMahkamah Konstitusi. Apabila Mahkamah menyatakan norma a quo  \nkonstitusional bersyarat, Mahkamah akan bertindak sebagai positive \nlegislator karena harus merumuskan sendiri lembaga, kriteria, dan \nmekanisme verifikasi yang tidak ada di dalam undang-undang a quo.",
+      "start_line": 1402,
+      "end_line": 1406
+    },
+    {
+      "heading": "118. Bahwa oleh karena itu, pemulihan konstitusional yang tepat bagi Pasal 28A",
+      "slug": "118-bahwa-oleh-karena-itu-pemulihan-konstitusional-yang-tepat-bagi-pasal-28a",
+      "text": "ayat (3) adalah menyatakan norma tersebut bertentangan dengan UUD NRI \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat secara \nkeseluruhan ( null and void ), agar pembentuk undang-undang dapat \nmerumuskan ulang norma tersebut dengan batas substantif yang jelas.",
+      "start_line": 1408,
+      "end_line": 1411
+    },
+    {
+      "heading": "119. Bahwa dengan demikian, Pemohon memohon agar Mahkamah menyatakan",
+      "slug": "119-bahwa-dengan-demikian-pemohon-memohon-agar-mahkamah-menyatakan",
+      "text": "Pasal 28A ayat (3) UU Polri bertentangan dengan UUD NRI Tahun 1 945 \ndan tidak mempunyai kekuatan hukum mengikat. \nE.  Pasal 28A Ayat (4) UU Polri: Masa Transisi Tanpa Parameter Substantif dan \nRisiko Pelestarian Penempatan Lama",
+      "start_line": 1413,
+      "end_line": 1416
+    },
+    {
+      "heading": "120. Bahwa Pasal 28A ayat (4) UU Polri menggunakan konstruksi \" Selain pada",
+      "slug": "120-bahwa-pasal-28a-ayat-4-uu-polri-menggunakan-konstruksi-selain-pada",
+      "text": "jabatan sebagaimana dimaksud pada ayat (2) dan ayat (3)\" dan me mbuka \nkemungkinan pengisian jabatan berdasarkan \"penugasan dari Presi den\" \nyang berlaku selama masa transisi dua tahun sejak Undang-Undang a quo \ndiundangkan.",
+      "start_line": 1418,
+      "end_line": 1421
+    },
+    {
+      "heading": "121. Bahwa untuk menjawab langsung persoalan objek permohonan p ada ayat",
+      "slug": "121-bahwa-untuk-menjawab-langsung-persoalan-objek-permohonan-p-ada-ayat",
+      "text": "(4), Pemohon menegaskan tiga hal yang secara tegas tidak dipers oalkan: \na. keberadaan masa transisi dua tahun sebagai konsep kebijakan;  b .  \nmekanisme penugasan Presiden sebagai instrumen ketatanegaraan; c. \n\n41 \nstatus anggota Polri yang saat ini masih menjabat berdasarkan p enugasan \nPresiden sebelum berlakunya UU a quo.",
+      "start_line": 1423,
+      "end_line": 1429
+    },
+    {
+      "heading": "122. Bahwa sekalipun Pasal 28A ayat (1) berlaku sebagai syarat payung",
+      "slug": "122-bahwa-sekalipun-pasal-28a-ayat-1-berlaku-sebagai-syarat-payung",
+      "text": "(umbrella clause )  s e c a r a  s i s t e m i s ,  P a s a l  2 8 A  a y a t  ( 4 )  t i d a k  m e m u a t  \ninstrumen operasional yang bersifat self-executing untuk mengikat \npenugasan Presiden pada sumbu level jabatan maupun bidang urusa n \npemerintahan.",
+      "start_line": 1431,
+      "end_line": 1434
+    },
+    {
+      "heading": "123. Bahwa persoalan konstitusional pada norma a quo terletak pada cara",
+      "slug": "123-bahwa-persoalan-konstitusional-pada-norma-a-quo-terletak-pada-cara",
+      "text": "pembentuk undang-undang merangkai dua elemen berbeda sifat  bat as \ntemporal (dua tahun) dan mekanisme penentuan jabatan (penugasan  \nPresiden)  ke dalam satu rangkaian norma tunggal tanpa paramete r level \nmaupun bidang jabatan apa pun yang mengendalikan elemen kedua.",
+      "start_line": 1436,
+      "end_line": 1439
+    },
+    {
+      "heading": "124. Bahwa Putusan Mahkamah Konstitusi Nomor 114/PUU-XXIII/2025",
+      "slug": "124-bahwa-putusan-mahkamah-konstitusi-nomor-114-puu-xxiii-2025",
+      "text": "menegaskan keberadaan jabatan di luar organisasi kepolisian tid ak dapat \nditentukan semata oleh penugasan administratif, melainkan harus  d i l i h a t  \nberdasarkan sangkut paut jabatan dengan kepolisian  kaidah yang  \nberpotensi kembali relevan pada ayat (4), karena tanpa parameter level dan \nbidang, penugasan Presiden pada dasarnya kembali menjadi dasar \nadministratif yang berdiri sendiri, yang memiliki kemiripan sec ara prinsip \ndengan persoalan dalam Putusan Mahkamah Konstitusi Nomor 114/PU U-\nXXIII/2025, meskipun subjek dan konteks kewenangannya berbeda.",
+      "start_line": 1441,
+      "end_line": 1448
+    },
+    {
+      "heading": "125. Bahwa persoalan ketiadaan parameter pada Pasal 28A ayat (4) juga relevan",
+      "slug": "125-bahwa-persoalan-ketiadaan-parameter-pada-pasal-28a-ayat-4-juga-relevan",
+      "text": "dikaitkan dengan rentang waktu peristiwa administratif yang tel ah terjadi \nsecara faktual. Kedua Keputusan Menteri Dalam Negeri sebagaiman a \ndiuraikan pada Bagian D di atas (Bukti P-3)  tertanggal 28 Febr uari 2025 \ndan 27 Maret 2025  diterbitkan sebelum Putusan Mahkamah Konstit usi \nNomor 114/PUU-XXIII/2025 diucapkan, dan sebelum berlakunya Unda ng-\nUndang Nomor 5 Tahun 2026 yang memuat norma a quo.",
+      "start_line": 1450,
+      "end_line": 1455
+    },
+    {
+      "heading": "126. Bahwa dengan demikian timbul pertanyaan konstitusional yan g relevan:",
+      "slug": "126-bahwa-dengan-demikian-timbul-pertanyaan-konstitusional-yan-g-relevan",
+      "text": "apakah penempatan-penempatan yang telah terjadi sebelum norma a quo \nberlaku, sebagaimana tercermin dalam Bukti P-3, termasuk dalam kategori \nyang dimaksud \"penugasan dari Presiden\" yang mendapat masa tran sisi \ndua tahun berdasarkan Pasal 28A ayat (4), ataukah penempatan te rsebut \n\n42 \nharus tunduk pada parameter baru yang lebih ketat sebagaimana ditentukan \nPasal 28A ayat (1) dan ayat (2).",
+      "start_line": 1457,
+      "end_line": 1464
+    },
+    {
+      "heading": "127. Bahwa Pemohon tidak mendalilkan mengetahui secara pasti st atus hukum",
+      "slug": "127-bahwa-pemohon-tidak-mendalilkan-mengetahui-secara-pasti-st-atus-hukum",
+      "text": "penempatan dalam Bukti P-3 setelah berlakunya UU a quo , karena hal \ntersebut memerlukan konfirmasi lebih lanjut yang berada di luar  jangkauan \nPemohon sebagai perseorangan. Akan tetapi, ketiadaan parameter \nsubstantif pada Pasal 28A ayat (4)  yang hanya merangkai batas waktu dua \ntahun dengan mekanisme penugasan Presiden tanpa syarat keterkai tan \njabatan dengan fungsi kepolisian yang dapat diverifikasi  menimbulkan risiko \nkonstitusional yang nyata: bahwa ketentuan transisi tersebut da pat \nberfungsi sebagai instrumen mempertahankan penempatan-penempata n \nyang telah ada sebelum berlakunya UU a quo, termasuk yang berpotensi \ntidak memenuhi syarat keterkaitan dengan fungsi kepolisian seba gaimana \nkekhawatiran pada Bagian D di atas, tanpa mekanisme uji ulang y ang \nmemadai selama masa transisi berlangsung.",
+      "start_line": 1466,
+      "end_line": 1477
+    },
+    {
+      "heading": "128. Bahwa risiko tersebut memperkuat urgensi agar Pasal 28A ay at (4) tidak",
+      "slug": "128-bahwa-risiko-tersebut-memperkuat-urgensi-agar-pasal-28a-ay-at-4-tidak",
+      "text": "dibiarkan berlaku sebagai norma yang semata menjawab pertanyaan  \n\"sampai kapan\", melainkan juga harus menjawab pertanyaan \"jabatan yang \nbagaimana\" sebagaimana kaidah Putusan Mahkamah Konstitusi Nomor  \n114/PUU-XXIII/2025  dan sepanjang norma a quo  t i d a k  m e n j a w a b  \npertanyaan kedua tersebut, ketentuan transisi berpotensi menjadi instrumen \npelestarian keadaan yang justru hendak dikoreksi melalui Putusa n Nomor \n114/PUU-XXIII/2025 dan Putusan Mahkamah Konstitusi Nomor 223/PU U-\nXXIII/2025, sekaligus memperkuat dalil sebagaimana diuraikan pa da \nBagian B.2 mengenai pengabaian sifat final dan mengikat kedua p utusan \ntersebut.",
+      "start_line": 1479,
+      "end_line": 1488
+    },
+    {
+      "heading": "129. Bahwa konstruksi Pasal 28A ayat (4) tidak menyediakan ruang memisahkan",
+      "slug": "129-bahwa-konstruksi-pasal-28a-ayat-4-tidak-menyediakan-ruang-memisahkan",
+      "text": "secara tuntas elemen temporal yang sah dengan elemen substantif  yang \ncacat, karena keduanya dirangkai dalam satu kalimat norma yang saling \nbergantung.",
+      "start_line": 1490,
+      "end_line": 1492
+    },
+    {
+      "heading": "130. Bahwa argumen sebagaimana diuraikan pada Bagian D di atas mengenai",
+      "slug": "130-bahwa-argumen-sebagaimana-diuraikan-pada-bagian-d-di-atas-mengenai",
+      "text": "perbedaan antara anchor yang berupa standar abstrak dan anchor yang \nberupa kategori tertutup berlaku pula secara mutatis mutandis terhadap ayat \n\n43 \n(4): pemaknaan bersyarat terhadap ayat (4) akan mengharuskan \nMahkamah merumuskan sendiri kriteria substantif tentang jabatan  m a n a  \nyang dianggap \"memiliki keterkaitan dengan fungsi kepolisian\" d alam \nkonteks penugasan Presiden, sesuatu yang belum dirumuskan sama sekali \noleh pembentuk undang-undang dalam ayat (4) itu sendiri, sehing ga \nmelampaui kewenangan Mahkamah sebagai negative legislator.",
+      "start_line": 1494,
+      "end_line": 1503
+    },
+    {
+      "heading": "131. Bahwa keterpisahan ini bukan berarti Pasal 28A ayat (4) lepas secara norma",
+      "slug": "131-bahwa-keterpisahan-ini-bukan-berarti-pasal-28a-ayat-4-lepas-secara-norma",
+      "text": "dari ayat (1), melainkan karena ayat (4) tidak menyediakan ruju kan \noperasional yang memastikan bahwa 'penugasan Presiden' tersebut hanya \ndiberikan pada jabatan yang benar-benar memiliki keterkaitan de ngan \nfungsi kepolisian.",
+      "start_line": 1505,
+      "end_line": 1508
+    },
+    {
+      "heading": "132. Bahwa oleh karena itu, cacat konstitusional Pasal 28A ayat (4) tidak terletak",
+      "slug": "132-bahwa-oleh-karena-itu-cacat-konstitusional-pasal-28a-ayat-4-tidak-terletak",
+      "text": "pada satu bagian yang dapat dipisahkan dari bagian lain yang sa h, \nmelainkan pada keseluruhan konstruksi norma transisional itu sendiri.",
+      "start_line": 1510,
+      "end_line": 1511
+    },
+    {
+      "heading": "133. Bahwa berdasarkan uji proporsionalitas: dari aspek legitim ate aim,",
+      "slug": "133-bahwa-berdasarkan-uji-proporsionalitas-dari-aspek-legitim-ate-aim",
+      "text": "pemberian masa transisi dapat dibenarkan sebagai kebijakan penyesuaian; \ndari aspek suitability, konstruksi yang menyatukan batas waktu dengan \npenugasan Presiden tanpa parameter substantif bukan instrumen t epat \nuntuk mencapai tujuan penyesuaian; dari aspek necessity, tujuan transisi \ntidak mengharuskan penyerahan kewenangan tanpa batas kepada \npenugasan Presiden; dan dari aspek proportionality stricto sensu, manfaat \nkesinambungan sementara tidak sebanding dengan risiko ketidakpa stian \nhukum yang timbul.",
+      "start_line": 1513,
+      "end_line": 1520
+    },
+    {
+      "heading": "134. Bahwa dengan demikian, pemulihan konstitusional yang propo rsional",
+      "slug": "134-bahwa-dengan-demikian-pemulihan-konstitusional-yang-propo-rsional",
+      "text": "terhadap Pasal 28A ayat (4) bukanlah pemaknaan bersyarat, melai nkan \npernyataan bahwa keseluruhan norma a quo  bertentangan dengan UUD \nNRI Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat.",
+      "start_line": 1522,
+      "end_line": 1524
+    },
+    {
+      "heading": "135. Bahwa pembatalan Pasal 28A ayat (4) tidak menghilangkan ke wenangan",
+      "slug": "135-bahwa-pembatalan-pasal-28a-ayat-4-tidak-menghilangkan-ke-wenangan",
+      "text": "pembentuk undang-undang untuk kembali mengatur ketentuan transisional \nserupa di kemudian hari, sepanjang dirumuskan dengan batas subs tantif \nyang jelas mengenai level dan bidang jabatan, sebagaimana ditun jukkan \nteknik pengaturan limitatif Pasal 47 UU TNI. \n \n\n44 \nIV. PETITUM \nBerdasarkan seluruh uraian alasan-alasan permohonan sebagaimana diuraikan",
+      "start_line": 1526,
+      "end_line": 1534
+    },
+    {
+      "heading": "di atas, Pemohon memohon kepada Yang Mulia Majelis Hakim Mahkam ah",
+      "slug": "di-atas-pemohon-memohon-kepada-yang-mulia-majelis-hakim-mahkam-ah",
+      "text": "Konstitusi Republik Indonesia untuk memberikan putusan sebagai berikut:",
+      "start_line": 1536,
+      "end_line": 1536
+    },
+    {
+      "heading": "2. Menyatakan Penjelasan Pasal 28A ayat (2) Undang-Undang Nomor 5 Tahun",
+      "slug": "2-menyatakan-penjelasan-pasal-28a-ayat-2-undang-undang-nomor-5-tahun",
+      "text": "2026 tentang Perubahan Ketiga atas Undang-Undang Nomor 2 Tahun 2002 \ntentang Kepolisian Negara Republik Indonesia (Lembaran Negara R epublik \nIndonesia Tahun 2026 Nomor 63, Tambahan Lembaran Negara Republi k \nIndonesia Nomor 7181) bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuat an \nhukum mengikat.",
+      "start_line": 1539,
+      "end_line": 1544
+    },
+    {
+      "heading": "3. Menyatakan Pasal 28A ayat (3) Undang-Undang Nomor 5 Tahun 20 26",
+      "slug": "3-menyatakan-pasal-28a-ayat-3-undang-undang-nomor-5-tahun-20-26",
+      "text": "tentang Perubahan Ketiga atas Undang-Undang Nomor 2 Tahun 2002 \ntentang Kepolisian Negara Republik Indonesia (Lembaran Negara R epublik \nIndonesia Tahun 2026 Nomor 63, Tambahan Lembaran Negara Republi k \nIndonesia Nomor 7181) bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuat an \nhukum mengikat.",
+      "start_line": 1546,
+      "end_line": 1551
+    },
+    {
+      "heading": "4. Menyatakan Pasal 28A ayat (4) Undang-Undang Nomor 5 Tahun 20 26",
+      "slug": "4-menyatakan-pasal-28a-ayat-4-undang-undang-nomor-5-tahun-20-26",
+      "text": "tentang Perubahan Ketiga atas Undang-Undang Nomor 2 Tahun 2002 \ntentang Kepolisian Negara Republik Indonesia (Lembaran Negara R epublik \nIndonesia Tahun 2026 Nomor 63, Tambahan Lembaran Negara Republi k \nIndonesia Nomor 7181) bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuat an \nhukum mengikat.",
+      "start_line": 1553,
+      "end_line": 1558
+    },
+    {
+      "heading": "5. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "5-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila Yang Mulia Majelis Hakim Konstitusi berpendapat lain, mohon putusan yang \nseadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membukti kan dalil-dalilnya, Pemohon tela h \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-3, sebagai \nberikut: \n\n45",
+      "start_line": 1560,
+      "end_line": 1567
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Kartu Tanda Penduduk (KTP) Pemohon ata s",
+      "slug": "1-bukti-p-1-fotokopi-kartu-tanda-penduduk-ktp-pemohon-ata-s",
+      "text": "nama Andika Adipura;",
+      "start_line": 1569,
+      "end_line": 1569
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi bukti pendaftaran, kartu peserta ujian , dan",
+      "slug": "2-bukti-p-2-fotokopi-bukti-pendaftaran-kartu-peserta-ujian-dan",
+      "text": "sertifikat hasil Seleksi Kompetensi Dasar CASN tahun \n2024;",
+      "start_line": 1571,
+      "end_line": 1572
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Cetakan Daftar Surat Keluar Kementeria n Dalam",
+      "slug": "3-bukti-p-3-fotokopi-cetakan-daftar-surat-keluar-kementeria-n-dalam",
+      "text": "Negeri Tahun 2025 dari laman resmi PPID Kementerian \nDalam Negeri (https://ppid.kemendagri.go.id/storage/ \ndokumen/mjWrlj9idtswiAW1YE6j96ADvARlcXikNPu3Vslx.\npdf), memuat Surat Nomor 800.1.3.3-1766 Tahun 2025 (28 \nFebruari 2025) dan Surat Nomor 800.1.3.3-2058.A/2025 \n(27 Maret 2025, nomor urut 3275). \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1574,
+      "end_line": 1582
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu Penjelasan Pasal 28A ayat (2), serta \nnorma Pasal 28A ayat (3), dan ayat (4) Undang-Undang Nomor 5 Ta hun 2026 \n\n46 \ntentang Perubahan Ketiga atas Undang-Undang Nomor 2 Tahun 2002 tentang \nKepolisian Negara Republik Indonesia (Lembaran Negara Republik Indonesia \nTahun 2026 Nomor 63, Tambahan Lembaran Negara Republik Indonesi a Nomor \n7181, selanjutnya disebut dengan UU 5/2026) terhadap UUD NRI Tahun 1945 maka \nMahkamah berwenang mengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1584,
+      "end_line": 1617
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007, serta putusan-putusan selanjutnya berpendirian bahwa kerugian \nhak dan/atau kewenangan konstitusional sebagaimana dimaksud dal am Pasal 51 \nayat (1) UU MK harus memenuhi lima syarat, yaitu: \n\n47 \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1620,
+      "end_line": 1640
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1642,
+      "end_line": 1643
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon sebagai berikut:",
+      "start_line": 1645,
+      "end_line": 1651
+    },
+    {
+      "heading": "1. Bahwa Pemohon mengajukan pengujian konstitusionalitas Penjel asan Pasal",
+      "slug": "1-bahwa-pemohon-mengajukan-pengujian-konstitusionalitas-penjel-asan-pasal",
+      "text": "28A ayat (2), serta norma Pasal 28A ayat (3), dan Pasal 28A ayat (4) UU 5/2026 \nyang masing-masing menyatakan sebagai berikut: \nPenjelasan Pasal 28A ayat (2) \nHuruf a \nYang dimaksud dengan “pemeliharaan keamanan dan ketertiban \nmasyarakat\" diidentifikasi dengan adanya keterkaitan tugas, fun gsi, dan \nkewenangan kelembagaan terkait pemeliharaan keamanan dan ketert iban \nmasyarakat antara lain pada: \na. koordinasi dalam bidang politik dan keamanan; dan \nb. urusan pemerintahan di bidang dalam negeri. \nHuruf b \nYang dimaksud dengan \"pelindungan,  pengayoman, dan pelayanan \nmasyarakat\" diidentifikasi dengan adanya keterkaitan tugas, fun gsi, dan \nkewenangan kelembagaan terkait pelindungan, pengayoman, dan pelayanan \nmasyarakat, antara lain pada: \na. urusan pemerintahan di bidang perlindungan saksi dan korban;  dan \nb. urusan pemerintahan di bidang pengawasan obat dan makanan. \nHuruf c \nYang dimaksud dengan “penegakan hukum” diidentifikasi dengan \nkeberadaan pembantu pengemban fungsi kepolisian berupa kepolisi an \nkhusus, dan penyidik pegawai negeri sipil, antara lain pada: \na. urusan pemerintahan di bidang hukum; dan \n\n48 \nb. urusan pemerintahan di bidang penanggulangan narkotika. \nPasal 28A ayat (3) \nSelain pada kementerian atau lembaga sebagaimana dimaksud pada ayat \n(2), Anggota Kepolisian Negara Republik Indonesia dapat mengisi   jabatan",
+      "start_line": 1653,
+      "end_line": 1680
+    },
+    {
+      "heading": "di luar organisasi Kepolisian Negara Republik Indonesia sepanja ng terdapat",
+      "slug": "di-luar-organisasi-kepolisian-negara-republik-indonesia-sepanja-ng-terdapat",
+      "text": "permintaan dari kementerian atau lembaga yang membutuhkan keahl ian \nyang dimiliki Anggota Kepolisian Negara Republik Indonesia. \nPasal 28A ayat (4) \nSelain pada jabatan sebagaimana dimaksud pada ayat (2) dan ayat  ( 3 ) ,  \nAnggota Kepolisian Negara Republik Indonesia dapat mengisi di luar jabatan  \norganisasi Kepolisian Negara Republik Indonesia dalam hal terda pat \npenugasan dari Presiden dan yang saat ini sedang menjabat akan berakhir 2 \n(dua) tahun sejak Undang-Undang ini diundangkan.",
+      "start_line": 1682,
+      "end_line": 1689
+    },
+    {
+      "heading": "2. Bahwa Pemohon menerangkan memiliki hak konstitusional sebaga imana",
+      "slug": "2-bahwa-pemohon-menerangkan-memiliki-hak-konstitusional-sebaga-imana",
+      "text": "dijamin dalam Pasal 28D ayat (3) UUD NRI Tahun 1945.",
+      "start_line": 1691,
+      "end_line": 1691
+    },
+    {
+      "heading": "3. Bahwa Pemohon adalah perseorangan warga negara Indonesia yan g dibuktikan",
+      "slug": "3-bahwa-pemohon-adalah-perseorangan-warga-negara-indonesia-yan-g-dibuktikan",
+      "text": "dengan kartu tanda penduduk [vide Bukti P-1] yang pernah mengik uti proses \nrekrutmen Calon Aparatur Sipil Negara (CASN), dibuktikan melalui bukti berupa \ndokumen Sistem Seleksi Calon ASN [vide Bukti P-2].",
+      "start_line": 1693,
+      "end_line": 1695
+    },
+    {
+      "heading": "4. Bahwa Pemohon pada pokoknya menguraikan telah mengalami keru gian",
+      "slug": "4-bahwa-pemohon-pada-pokoknya-menguraikan-telah-mengalami-keru-gian",
+      "text": "konstitusional yang bersifat potensial, personal, dan prospektif, yang timbul dari \nkeberlakuan norma a quo  yang sejak saat ini telah membentuk ruang akses \nkhusus terhadap jabatan nonmanajerial di luar organisasi Polri,  t e r m a s u k  \nJabatan Pelaksana, yang pada saat yang sama merupakan salah sat u bentuk \njabatan yang menjadi ruang kompetisi bagi warga negara melalui mekanisme \nseleksi ASN.",
+      "start_line": 1697,
+      "end_line": 1702
+    },
+    {
+      "heading": "5. Bahwa Pemohon memiliki kepentingan yang nyata dan dapat dive rifikasi",
+      "slug": "5-bahwa-pemohon-memiliki-kepentingan-yang-nyata-dan-dapat-dive-rifikasi",
+      "text": "terhadap ruang jabatan tersebut, yang dibuktikan antara lain de ngan \npengalaman Pemohon mengikuti seleksi CASN pada tahun 2018 dan t ahun",
+      "start_line": 1704,
+      "end_line": 1705
+    },
+    {
+      "heading": "2024. Pengalaman tersebut menunjukkan bahwa akses terhadap jaba tan",
+      "slug": "2024-pengalaman-tersebut-menunjukkan-bahwa-akses-terhadap-jaba-tan",
+      "text": "pemerintahan melalui mekanisme kompetisi ASN bukan merupakan \nkepentingan abstrak atau hipotetis bagi Pemohon, melainkan kepentingan yang \nsecara nyata telah dijalankan dan secara rasional masih relevan terhadap akses \nPemohon terhadap jabatan pemerintahan pada masa mendatang.",
+      "start_line": 1707,
+      "end_line": 1710
+    },
+    {
+      "heading": "6. Bahwa hak atas kesempatan yang sama dalam pemerintahan sebag aimana",
+      "slug": "6-bahwa-hak-atas-kesempatan-yang-sama-dalam-pemerintahan-sebag-aimana",
+      "text": "dijamin Pasal 28D ayat (3) UUD NRI Tahun 1945 tidak hanya berkaitan dengan \n\n49 \nkemungkinan seseorang setelah diangkat menduduki jabatan pemeri ntahan, \nmelainkan juga mencakup kesempatan untuk memasuki, mengikuti, d an \nbersaing dalam mekanisme pengisian jabatan pemerintahan berdasa rkan \npersyaratan yang objektif, relevan, dan dapat diketahui sebelumnya.",
+      "start_line": 1712,
+      "end_line": 1718
+    },
+    {
+      "heading": "7. Bahwa hubungan antara Pemohon dan norma a quo tidak didasarkan semata-",
+      "slug": "7-bahwa-hubungan-antara-pemohon-dan-norma-a-quo-tidak-didasarkan-semata",
+      "text": "mata pada kemungkinan umum bahwa setiap warga negara sewaktu-wa ktu \ndapat mengikuti seleksi ASN, melainkan pada adanya kepentingan personal \nPemohon terhadap jenis jabatan yang secara normatif beririsan d engan ruang \njabatan yang dapat diakses anggota Polri aktif berdasarkan norma a quo.",
+      "start_line": 1720,
+      "end_line": 1723
+    },
+    {
+      "heading": "8. Bahwa kerugian konstitusional yang didalilkan Pemohon bukanlah semata-mata",
+      "slug": "8-bahwa-kerugian-konstitusional-yang-didalilkan-pemohon-bukanlah-semata-mata",
+      "text": "kekhawatiran abstrak mengenai kebijakan kepegawaian negara, mel ainkan \nrisiko terhadap kesempatan Pemohon untuk memperoleh akses yang setara \nterhadap jabatan pemerintahan yang secara nyata menjadi kepenti ngannya, \ndalam keadaan di mana norma a quo membuka akses terhadap kategori jabatan \nyang sama melalui mekanisme khusus bagi anggota Polri aktif, se mentara \nbatasan mengenai jabatan nonmanajerial yang dapat diisi belum d irumuskan \ndengan parameter yang menurut Pemohon cukup objektif, jelas, da n dapat \ndiprediksi.",
+      "start_line": 1725,
+      "end_line": 1732
+    },
+    {
+      "heading": "9. Bahwa hubungan sebab-akibat antara keberlakuan norma a quo dan potensi",
+      "slug": "9-bahwa-hubungan-sebab-akibat-antara-keberlakuan-norma-a-quo-dan-potensi",
+      "text": "kerugian konstitusional Pemohon terletak pada dibentuknya ruang khusus bagi \nanggota Polri aktif untuk menduduki jabatan di luar organisasi Polri, termasuk \njabatan nonmanajerial, tanpa disertai parameter normatif yang s ecara objektif \nmenentukan Jabatan Pelaksana yang bagaimana yang mempunyai keterkaitan \ndengan fungsi kepolisian dan karenanya dapat diakses melalui me kanisme \nkhusus tersebut.",
+      "start_line": 1734,
+      "end_line": 1739
+    },
+    {
+      "heading": "10. Bahwa hubungan sebab-akibat yang didalilkan Pemohon dapat d irumuskan",
+      "slug": "10-bahwa-hubungan-sebab-akibat-yang-didalilkan-pemohon-dapat-d-irumuskan",
+      "text": "sebagai berikut: Pasal 28A ayat (2) UU 5/2026 secara eksplisit membuka \nkategori jabatan nonmanajerial bagi anggota Polri aktif sepanja ng mempunyai \nketerkaitan dengan fungsi kepolisian; Jabatan Pelaksana merupak an bagian \ndari Jabatan Nonmanajerial; Pemohon mempunyai kepentingan konkr et \nterhadap Jabatan Pelaksana yang telah dibuktikan melalui pengal aman \nmengikuti seleksi CASN; praktik menunjukkan bahwa Jabatan Pelak sana \npernah ditempati anggota Polri; namun undang-undang tidak menen tukan \nsecara objektif dan dapat diprediksi Jabatan Pelaksana yang bag aimana yang \n\n50 \ndapat ditempati melalui mekanisme khusus tersebut. Keadaan normatif tersebut \nmenimbulkan risiko terganggunya kesempatan Pemohon untuk memper oleh \nakses yang sama terhadap ruang Jabatan Pelaksana melalui mekani sme \nkompetisi terbuka. Oleh karena itu, terdapat hubungan sebab-aki bat yang \nrasional dan langsung antara keberlakuan norma a quo  dan potensi \nterganggunya hak konstitusional Pemohon sebagaimana dijamin Pas al 28D \nayat (3) UUD NRI Tahun 1945.",
+      "start_line": 1741,
+      "end_line": 1757
+    },
+    {
+      "heading": "11. Bahwa dengan dikabulkannya permohonan a quo, batas antara ruang kompetisi",
+      "slug": "11-bahwa-dengan-dikabulkannya-permohonan-a-quo-batas-antara-ruang-kompetisi",
+      "text": "terbuka bagi warga negara sipil dan ruang penempatan khusus ang gota Polri \nmenjadi pasti, sehingga syarat kedudukan hukum sebagaimana dima ksud \ndalam Pasal 4 ayat (2) huruf e PMK 7/2025 telah terpenuhi sepenuhnya. \nBerdasarkan seluruh uraian dalam menjelaskan kedudukan hukum  \ntersebut di atas, menurut Mahkamah Pemohon telah membuktikan ku alifikasinya \nsebagai perseorangan warga negara Indonesia [vide Bukti P-1] ya ng menjelaskan \nmemiliki hak konstitusional sebagaimana dijamin antara lain dalam Pasal 28D ayat \n(3) UUD NRI Tahun 1945. Dalam hal ini, norma yang dimohonkan untuk diuji adalah \nPenjelasan Pasal 28A ayat (2), norma Pasal 28A ayat (3) dan Pas al 28A ayat (4) \nUU 5/2026 yang pada pokoknya merupakan norma yang mengatur meng enai \npengisian jabatan anggota kepolisian terhadap jabatan di luar organisasi Kepolisian \nNegara Republik Indonesia yang m emiliki keterkaitan dengan fung si kepolisian. \nBerkenaan dengan hal tersebut, Pemohon dalam menguraikan anggapan kerugian \nhak konstitusionalnya yang bersifat potensial didasarkan pada a lasan bahwa \nPemohon berpotensi mengalami kerugian karena tidak memperoleh a kses yang \nsetara terhadap jabatan pemerintahan yang secara nyata menjadi kepentingannya, \ndalam keadaan di mana norma a quo membuka akses terhadap kategori jabatan \nyang sama melalui mekanisme khusus bagi anggota Polri aktif, sementara batasan \nmengenai jabatan nonmanajerial yang dapat diisi belum dirumuska n dengan \nparameter yang menurut Pemohon cukup objektif, jelas, dan dapat  diprediksi. \nTerhadap anggapan kerugian potensial tersebut, menurut Mahkamah, tidak terdapat \nuraian maupun bukti yang dapat meyakinkan Mahkamah bahwa anggapan kerugian \npotensial tersebut merupakan anggapan yang dalam batas penalara n yang wajar \ndapat dipastikan terjadi karena berlakunya norma pasal yang dim ohonkan \npengujian. Sebab, setelah dicermati uraian ihwal kedudukan hukum Pemohon, telah \nternyata Pemohon tidak menguraikan mengenai jabatan atau pekerj aan Pemohon \n\n51 \nsaat ini atau jabatan yang dituju oleh Pemohon yang dianggap me miliki keterkaitan \ndengan norma yang mengatur pengisian jabatan di luar organisasi  Kepolisian oleh \nanggota kepolisian. Pemohon dalam hal ini hanya menguraikan dan  membuktikan \nsebagai warga negara yang pernah mengikuti proses seleksi CASN,  namun tidak \ndapat menguraikan adanya keterkaitan antara anggapan kerugian y ang terjadi \ndalam proses seleksi CASN tersebut dengan norma yang dimohonkan  pengujian. \nDalam hal ini, Pemohon juga tidak menguraikan adanya proses seleksi CASN atau \nrekrutmen pengisian jabatan yang akan diikuti oleh Pemohon dala m kaitannya \ndengan norma a quo, sehingga tidak terdapat adanya potensi kerugian terhadap \nPemohon yang dipastikan dapat terjadi dikarenakan berlakunya no rma yang \ndimohonkan pengujian. Terlebih, dalam proses seleksi CASN yang pernah diikuti \nPemohon, sama sekali tidak terkait dengan norma yang dimohonkan  pengujian. \nDalam hal ini, proses seleksi CASN berbeda dengan proses pengisian jabatan sipil \ndalam norma yang dimohonkan pengujian.  Oleh karena itu, berdasarkan uraian \nfakta hukum tersebut di atas, Pemohon tidak dapat membuktikan adanya hubungan \nsebab-akibat (causal verband)  antara potensi anggapan kerugian hak \nkonstitusionalnya dengan berlakunya norma yang dimohonkan pengu jian. Syarat \nadanya anggapan kerugian hak konstitusional memiliki hubungan s ebab-akibat \ndengan berlakunya norma yang dimohonkan pengujian merupakan sal ah satu \nsyarat esensial untuk terpenuhinya syarat-syarat agar pemohon memiliki kedudukan \nhukum dalam mengajukan permohonan pengujian undang-undang di Mahkamah. \n Berkenaan dengan hal tersebut, mengingat syarat-syarat anggapa n \nkerugian hak konstitusional sebagaimana dikehendaki dalam Putus an Mahkamah \nKonstitusi Nomor 006/PUU-III/2005 dan Putusan Mahkamah Konstitu si Nomor \n11/PUU-V/2007 serta putusan-putusan selanjutnya, bersifat kumulatif, maka dengan \ntidak terpenuhi salah satu syarat dimaksud dengan sendirinya ti dak terpenuhi \nseluruh syarat yang dikehendaki dan oleh karenanya tidak ada re levansinya lagi \nmempertimbangkan syarat selebihnya. Dengan demikian, tidak terd apat keraguan \nbagi Mahkamah untuk menyatakan bahwa Pemohon tidak memiliki ked udukan \nhukum untuk bertindak sebagai pemohon dalam mengajukan permohonan a quo. \n Berdasarkan pertimbangan hukum tersebut di atas, Mahkamah \nberkesimpulan Pemohon tidak memiliki kedudukan hukum untuk bert indak sebagai \npemohon dalam mengajukan permohonan a quo. \n\n52 \n[3.6] Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan a quo, namun oleh karena Pemohon tidak memiliki kedudukan hukum \nuntuk mengajukan permohonan a quo maka Mahkamah tidak mempertimbangkan \nlebih lanjut permohonan Pemohon. \n[3.7] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1759,
+      "end_line": 1827
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Ma hkamah \nberkesimpulan:  \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon tidak memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1829,
+      "end_line": 1843
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nAdies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Y usmic P. Foekh,   \n\n53 \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, pada hari Rabu, tanggal dua puluh tiga , bulan September, tahun dua \nribu dua puluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \nterbuka untuk umum pada hari Selasa, tanggal dua puluh sembilan, bulan \nSeptember, tahun dua ribu dua puluh enam, selesai diucapkan pukul 14.13 WIB, \noleh sembilan Hakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, \nSaldi Isra, Adies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Yusmic P. \nFoekh, M. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing -masing \nsebagai Anggota, dengan dibantu oleh Ery Satria Pamungkas sebag ai Panitera \nPengganti, serta dihadiri oleh Dewan Perwakilan Rakyat atau yan g mewakili, dan \nPresiden atau yang mewakili, tanpa dihadiri Pemohon. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nAdies Kadir  \nttd. \nLiliek Prisbawono Adi  \nttd. \nEnny Nurbaningsih \nttd. \nDaniel Yusmic P. Foekh  \n ttd. \nM. Guntur Hamzah  \nttd. \nRidwan Mansyur \n ttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nEry Satria Pamungkas",
+      "start_line": 1845,
+      "end_line": 1886
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Andika Adipura",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 5 Tahun 2026 tentang Perubahan Ketiga atas Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia"
+    ],
+    "constitutional_articles": [
+      "Pasal 9",
+      "Pasal 28D ayat (3)",
+      "Pasal 30 ayat (4)",
+      "Pasal 28J ayat (2)",
+      "Pasal 10",
+      "Pasal 24C ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 28D ayat (1)",
+      "Pasal 28A ayat (3)",
+      "Pasal 10 ayat (1) hur"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-3",
+      "BUKTI P-2",
+      "REFERENSI:330/PUU-XXIV/2026",
+      "REFERENSI:330/PUU/PAN.MK/AP3/09/2026",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:10/2025diterbitkanolehKepalaKepolisianNegaraRepublikIndonesiasebagaibagiandariorganyangsamayangkemudianterlibatdalampenyusunandanpembahasanRUUyangmenjadiUUaquo.KonstruksinormayangidentikantaraPerpol10/2025",
+      "REFERENSI:114/PUU-XXIII/2025",
+      "REFERENSI:26/PUU-VII/2009",
+      "REFERENSI:114/PUU-XXIII/2025danNomor223/PUU-XXIII/2025",
+      "REFERENSI:223/PUU-XXIII/2025",
+      "REFERENSI:114/PUU-XXIII/2025danPutusanMahkamahKonstitusiNomor223/PUU-XXIII/2025",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005junctoPutusanNomor11/PUU-V/2007",
+      "REFERENSI:10/2025diterbitkantidaklamasetelahPutusanMahkamahKonstitusiNomor114/PUU-XXIII/2025",
+      "REFERENSI:59/PUU/2008junctoPutusanNomor26/PUU-VII/2009"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Ery Satria Pamungkas"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "330/PUU-XXIV/2026",
+      "330/PUU/PAN.MK/AP3/09/2026",
+      "11/PUU-V/2007",
+      "10/2025diterbitkanolehKepalaKepolisianNegaraRepublikIndonesiasebagaibagiandariorganyangsamayangkemudianterlibatdalampenyusunandanpembahasanRUUyangmenjadiUUaquo.KonstruksinormayangidentikantaraPerpol10/2025",
+      "114/PUU-XXIII/2025",
+      "26/PUU-VII/2009",
+      "114/PUU-XXIII/2025danNomor223/PUU-XXIII/2025",
+      "223/PUU-XXIII/2025",
+      "114/PUU-XXIII/2025danPutusanMahkamahKonstitusiNomor223/PUU-XXIII/2025",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005junctoPutusanNomor11/PUU-V/2007",
+      "10/2025diterbitkantidaklamasetelahPutusanMahkamahKonstitusiNomor114/PUU-XXIII/2025",
+      "59/PUU/2008junctoPutusanNomor26/PUU-VII/2009"
+    ],
+    "referenced_cases": [
+      "330/PUU-XXIV/2026",
+      "330/PUU/PAN.MK/AP3/09/2026",
+      "11/PUU-V/2007",
+      "10/2025diterbitkanolehKepalaKepolisianNegaraRepublikIndonesiasebagaibagiandariorganyangsamayangkemudianterlibatdalampenyusunandanpembahasanRUUyangmenjadiUUaquo.KonstruksinormayangidentikantaraPerpol10/2025",
+      "114/PUU-XXIII/2025",
+      "26/PUU-VII/2009",
+      "114/PUU-XXIII/2025danNomor223/PUU-XXIII/2025",
+      "223/PUU-XXIII/2025",
+      "114/PUU-XXIII/2025danPutusanMahkamahKonstitusiNomor223/PUU-XXIII/2025",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005junctoPutusanNomor11/PUU-V/2007",
+      "10/2025diterbitkantidaklamasetelahPutusanMahkamahKonstitusiNomor114/PUU-XXIII/2025",
+      "59/PUU/2008junctoPutusanNomor26/PUU-VII/2009"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}
