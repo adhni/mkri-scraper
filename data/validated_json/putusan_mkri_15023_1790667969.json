@@ -1,0 +1,1940 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_15023_1790667969.pdf",
+    "file_name": "putusan_mkri_15023_1790667969.pdf",
+    "page_count": 62,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15023_1790667969.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "310/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "310/PUU/PAN.MK/AP3/08/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-29",
+    "decision_date_raw": "dua puluh sembilan, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 310/PUU-XXIV/2026",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jal an terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh: \nNama : Jangkung Sido Sentosa \nPekerjaan : Kepala sekaligus Tutor PKBM Aji Sakti Migunani \nAlamat  : Dsn Krajan, RT 004 RW 003, Kelurahan Ngendrokilo, \nKecamatan Kaliangkrik, Kabupaten Magelang, Provinsi \nJawa Tengah \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n [1.2] Membaca permohonan Pemohon;  \n Mendengar keterangan Pemohon;  \n Memeriksa bukti-bukti Pemohon.",
+      "start_line": 6,
+      "end_line": 18
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n16 Agustus 2026 diterima Kepaniteraan Mahkamah Konstitusi pada             \ntanggal 17 Agustus 2026 berdasarkan Akta Pengajuan Permohonan P emohon \nNomor 310/PUU/PAN.MK/AP3/08/2026 dan dicatat dalam Buku Registrasi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 310/PUU- XXIV/2026 \npada tanggal 18 Agustus 2026, yang telah diperbaiki dan diterima Mahkamah pada \ntanggal 7 September 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 20,
+      "end_line": 27
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Undang-Undang Dasar Negara Republik",
+      "slug": "1-bahwa-pasal-24-ayat-2-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 menegaskan bahwa kekuasaan kehakiman \n\n\n2 \n \n \ndilakukan oleh sebuah Mahkamah Agung dan badan peradilan yang \nberada di bawahnya serta oleh sebuah Mahkamah Konstitusi.",
+      "start_line": 29,
+      "end_line": 36
+    },
+    {
+      "heading": "2. Bahwa Pasal 24C ayat (1) Undang-Undang Dasar Negara Republik",
+      "slug": "2-bahwa-pasal-24c-ayat-1-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 secara tegas menentukan: \nMahkamah Konstitusi berwenang mengadili pada tingkat pertama \ndan terakhir yang putusannya bersifat final untuk menguji undan g-\nundang terhadap Undang-Undang Dasar, memutus sengketa \nkewenangan lembaga negara yang kewenangannya diberikan oleh \nUndang-Undang Dasar, memutus pembubaran partai politik, dan \nmemutus perselisihan tentang hasil Pemilihan Umum.",
+      "start_line": 38,
+      "end_line": 44
+    },
+    {
+      "heading": "3. Bahwa berdasarkan ketentuan tersebut, Mahkamah Konstitusi",
+      "slug": "3-bahwa-berdasarkan-ketentuan-tersebut-mahkamah-konstitusi",
+      "text": "mempunyai kewenangan konstitusional untuk melakukan pengujian \nUndang-Undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945.",
+      "start_line": 46,
+      "end_line": 48
+    },
+    {
+      "heading": "4. Bahwa kewenangan Mahkamah Konstitusi tersebut selanjutnya",
+      "slug": "4-bahwa-kewenangan-mahkamah-konstitusi-tersebut-selanjutnya",
+      "text": "ditegaskan dalam Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah  \nterakhir dengan Undang-Undang Nomor 7 Tahun 2020, yang pada \npokoknya menentukan bahwa Mahkamah Konstitusi berwenang \nmengadili pada tingkat pertama dan terakhir yang putusannya ber sifat \nfinal untuk menguji Undang-Undang terhadap Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945.",
+      "start_line": 50,
+      "end_line": 56
+    },
+    {
+      "heading": "5. Bahwa kewenangan pengujian Undang-Undang terhadap Undang-",
+      "slug": "5-bahwa-kewenangan-pengujian-undang-undang-terhadap-undang",
+      "text": "Undang Dasar Negara Republik Indonesia Tahun 1945 juga ditegask an \ndalam Pasal 9 ayat (1) Undang-Undang Nomor 12 Tahun 2011 tentan g \nPembentukan Peraturan Perundang-undangan sebagaimana telah \ndiubah terakhir dengan Undang-Undang Nomor 13 Tahun 2022, yang \nmenentukan bahwa dalam hal s uatu Undang-Undang diduga \nbertentangan dengan Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945, pengujiannya dilakukan oleh Mahkamah Konstitusi.",
+      "start_line": 58,
+      "end_line": 64
+    },
+    {
+      "heading": "6. Bahwa tata beracara dalam perkara pengujian Undang-Undang pa da saat",
+      "slug": "6-bahwa-tata-beracara-dalam-perkara-pengujian-undang-undang-pa-da-saat",
+      "text": "Permohonan a quo diajukan diatur dalam Peraturan Mahkamah Konstitusi \nNomor 7 Tahun 2025 tentang Tata Beracara dalam Perkara Pengujia n \nUndang-Undang (PMK Nomor 7 Tahun 2025). \n\n3",
+      "start_line": 66,
+      "end_line": 72
+    },
+    {
+      "heading": "7. Bahwa Pasal 1 angka 3 PMK Nomor 7 Tahun 2025 pada pokoknya",
+      "slug": "7-bahwa-pasal-1-angka-3-pmk-nomor-7-tahun-2025-pada-pokoknya",
+      "text": "mendefinisikan Pengujian Undang-Undang terhadap UUD NRI Tahun \n1945 sebagai perkara konstitusi yang menjadi kewenangan Mahkama h \nsebagaimana dimaksud dalam UUD NRI Tahun 1945 dan Undang-\nUndang tentang Mahkamah Konstitusi.",
+      "start_line": 74,
+      "end_line": 77
+    },
+    {
+      "heading": "8. Bahwa berdasarkan Pasal 2 ayat (1) PMK Nomor 7 Tahun 2025, o bjek",
+      "slug": "8-bahwa-berdasarkan-pasal-2-ayat-1-pmk-nomor-7-tahun-2025-o-bjek",
+      "text": "Permohonan Pengujian Undang-Undang adalah Undang-Undang dan \nPeraturan Pemerintah Pengganti Undang-Undang.",
+      "start_line": 79,
+      "end_line": 80
+    },
+    {
+      "heading": "9. Bahwa berdasarkan Pasal 2 ayat (4) PMK Nomor 7 Tahun 2025,",
+      "slug": "9-bahwa-berdasarkan-pasal-2-ayat-4-pmk-nomor-7-tahun-2025",
+      "text": "pengujian materiil merupakan pengujian yang berkenaan dengan ma teri \nmuatan dalam ayat, pasal, dan/atau bagian dari Undang-Undang at au \nPeraturan Pemerintah Pengganti Undang-Undang yang dianggap \nbertentangan dengan Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945, Selanjutnya disebut UUD NRI Tahun 1945.",
+      "start_line": 82,
+      "end_line": 86
+    },
+    {
+      "heading": "10. Bahwa Permohonan a quo merupakan pengujian materiil terhadap materi",
+      "slug": "10-bahwa-permohonan-a-quo-merupakan-pengujian-materiil-terhadap-materi",
+      "text": "muatan Pasal 85 ayat (2) Undang-Undang Nomor 22 Tahun 2009 tentang \nLalu Lintas dan Angkutan Jalan (Lembaran Negara Republik Indone sia \nTahun 2009 Nomor 96, Tambahan Lembaran Negara Republik Indonesia \nNomor 5025), selanjutnya disebut UU LLAJ terhadap UUD NRI Tahun  \n1945.",
+      "start_line": 88,
+      "end_line": 92
+    },
+    {
+      "heading": "11. Bahwa objek yang dimohonkan untuk diuji adalah frasa \"dapat",
+      "slug": "11-bahwa-objek-yang-dimohonkan-untuk-diuji-adalah-frasa-dapat",
+      "text": "diperpanjang\" dalam Pasal 85 ayat (2) UU LLAJ yang dinilai menimbulkan \nketidakpastian hukum, membebani masyarakat secara administratif  dan \nfinansial, serta mengabaikan hak-hak masyarakat fakir miskin. \nPermohonan ini juga tidak memenuhi unsur nebis in idem karena \nmenggunakan batu uji tambahan baru yang belum pernah diuji pada  \nperkara sebelumnya. Oleh karena itu, objek dan kewenangan pengu jian \nini sepenuhnya berada di dalam ruang lingkup kewenangan Mahkama h \nKonstitusi sebagaimana ditentukan oleh Pasal 24C ayat (1) UUD N RI \nTahun 1945, Undang-Undang Mahkamah Konstitusi, dan PMK Nomor 7 \nTahun 2025.",
+      "start_line": 94,
+      "end_line": 103
+    },
+    {
+      "heading": "12. Bahwa norma yang diuji dalam Permohonan a quo bukanlah peraturan",
+      "slug": "12-bahwa-norma-yang-diuji-dalam-permohonan-a-quo-bukanlah-peraturan",
+      "text": "pelaksana, kebijakan administratif Kepolisian Negara Republik Indonesia, \n\n4 \n \n \nkebijakan pelayanan Satuan Penyelenggara Administrasi SIM (Satp as), \nmaupun keputusan pejabat tertentu mengenai pelayanan SIM, melainkan \nnorma yang terdapat dalam Pasal 85 ayat (2) Undang-Undang Nomor 22 \nTahun 2009 tentang Lalu Lintas dan Angkutan Jalan.",
+      "start_line": 105,
+      "end_line": 113
+    },
+    {
+      "heading": "13. Bahwa oleh karena objek yang diuji adalah materi muatan dal am Undang-",
+      "slug": "13-bahwa-oleh-karena-objek-yang-diuji-adalah-materi-muatan-dal-am-undang",
+      "text": "Undang yang didalilkan bertentangan dengan UUD NRI Tahun 1945, \nmaka pengujiannya merupakan pen gujian materiil yang menjadi \nkewenangan Mahkamah Konstitusi.",
+      "start_line": 115,
+      "end_line": 117
+    },
+    {
+      "heading": "14. Bahwa meskipun terhadap Pasal 85 ayat (2) Undang-Undang Nom or 22",
+      "slug": "14-bahwa-meskipun-terhadap-pasal-85-ayat-2-undang-undang-nom-or-22",
+      "text": "Tahun 2009 tentang Lalu Lintas dan Angkutan Jalan pernah diajuk an \npermohonan pengujian (seperti Putusan Nomor 42/PUU-XXI/2023), \nPermohonan a quo tidak memenuhi kualifikasi asas nebis in idem karena \nmenggunakan batu uji tambahan yang fundamentally berbeda, yaitu \nPasal 34 ayat (1) Undang-Undang Dasar Negara Republik Indonesia  \nTahun 1945 terkait kewajiban negara dalam memelihara dan melind ungi \nkelompok rentan, yang belum pernah diuji dalam perkara terdahulu.",
+      "start_line": 119,
+      "end_line": 125
+    },
+    {
+      "heading": "15. Bahwa penambahan batu uji Pasal 34 ayat (1) UUD NRI Tahun 1 945",
+      "slug": "15-bahwa-penambahan-batu-uji-pasal-34-ayat-1-uud-nri-tahun-1-945",
+      "text": "tersebut didasarkan pada posita baru (novum), di mana ketiadaan \nparameter normatif pada frasa \"dapat diperpanjang\" dalam Pasal 85 ayat \n(2) UU LLAJ serta pemaksaan aturan pelaksana yang mewajibkan te s \nulang secara kaku tanpa ruang toleransi administratif telah men imbulkan \nbeban ekonomi tidak berdasar dan merugikan hak-hak konstitusion al \nwarga negara, khususnya masyarakat kecil atau rentan yang \nmenggunakan kendaraan untuk penghidupan harian.",
+      "start_line": 127,
+      "end_line": 133
+    },
+    {
+      "heading": "16. Bahwa dengan demikian, berdasarkan Pasal 24C ayat (1) UUD N RI",
+      "slug": "16-bahwa-dengan-demikian-berdasarkan-pasal-24c-ayat-1-uud-n-ri",
+      "text": "Tahun 1945, Pasal 10 ayat (1) huruf a Undang-Undang Mahkamah \nKonstitusi, Pasal 9 ayat (1) Undang-Undang Pembentukan Peratura n \nPerundang-undangan, serta Pasal 1 angka 3 dan Pasal 2 PMK Nomor  7 \nTahun 2025, Mahkamah Konstitus i berwenang memeriksa, mengadili,  \ndan memutus Permohonan Pengujian Materiil Pasal 85 ayat (2) Undang-\nUndang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jal an \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. \n \n\n5 \n \n \nII. KEDUDUKAN HUKUM (LEGAL STANDING) DAN KERUGIAN PEMOHON",
+      "start_line": 135,
+      "end_line": 147
+    },
+    {
+      "heading": "17. Bahwa berdasarkan Pasal 51 ayat (1) Undang-Undang Nomor 24 Tahun",
+      "slug": "17-bahwa-berdasarkan-pasal-51-ayat-1-undang-undang-nomor-24-tahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana telah diubah terak hir \ndengan Undang-Undang Nomor 7 Tahun 2020, Pemohon dalam \npengujian Undang-Undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945 adalah pihak yang menganggap hak \ndan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya  \nUndang-Undang, yang salah satunya adalah perseorangan warga negara \nIndonesia.",
+      "start_line": 149,
+      "end_line": 155
+    },
+    {
+      "heading": "18. Bahwa ketentuan mengenai kedudukan hukum Pemohon tersebut",
+      "slug": "18-bahwa-ketentuan-mengenai-kedudukan-hukum-pemohon-tersebut",
+      "text": "selanjutnya diatur dalam Pasal 4 ayat (1) Peraturan Mahkamah Konstitusi \nNomor 7 Tahun 2025 tentang Tata Beracara dalam Perkara Pengujia n \nUndang-Undang, yang pada pokoknya menentukan bahwa Pemohon \ndalam pengujian Undang-Undang terhadap UUD NRI Tahun 1945 adalah \npihak yang menganggap hak dan/atau kewenangan konstitusionalnya  \ndirugikan oleh berlakunya Undang-Undang atau Perppu.",
+      "start_line": 157,
+      "end_line": 162
+    },
+    {
+      "heading": "19. Bahwa Pemohon dalam perkara a quo adalah Jangkung Sido Sentosa,",
+      "slug": "19-bahwa-pemohon-dalam-perkara-a-quo-adalah-jangkung-sido-sentosa",
+      "text": "seorang perseorangan Warga Negara Indonesia, yang mengajukan \nPermohonan ini untuk dan atas nama dirinya sendiri (Bukti P-3).",
+      "start_line": 164,
+      "end_line": 165
+    },
+    {
+      "heading": "20. Bahwa sebagai perseorangan Warga Negara Indonesia, Pemohon",
+      "slug": "20-bahwa-sebagai-perseorangan-warga-negara-indonesia-pemohon",
+      "text": "merupakan subjek hukum yang mempunyai hak-hak konstitusional ya ng \ndijamin dan dilindungi oleh UUD NRI Tahun 1945, termasuk hak at as \npengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta \nperlakuan yang sama di hadapan hukum sebagaimana dijamin dalam \nPasal 28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 167,
+      "end_line": 171
+    },
+    {
+      "heading": "21. Bahwa Pemohon mempunyai kepentingan hukum yang nyata dan",
+      "slug": "21-bahwa-pemohon-mempunyai-kepentingan-hukum-yang-nyata-dan",
+      "text": "langsung terhadap norma yang dimohonkan pengujian karena Pemoho n \nmemiliki Surat Izin Mengemudi (SIM) C atas nama Jangkung Sido \nSentosa yang telah berakhir masa berlakunya, sebagaimana dibukt ikan \ndengan (Bukti P-4).",
+      "start_line": 173,
+      "end_line": 176
+    },
+    {
+      "heading": "22. Bahwa keberadaan SIM C atas nama Pemohon yang telah berakhi r masa",
+      "slug": "22-bahwa-keberadaan-sim-c-atas-nama-pemohon-yang-telah-berakhi-r-masa",
+      "text": "berlakunya tersebut menunjukkan bahwa persoalan mengenai masa \nberlaku dan perpanjangan Surat Izin Mengemudi sebagaimana diatu r \n\n6 \n \n \ndalam Pasal 85 ayat (2) UU LLAJ bukan merupakan persoalan yang \nbersifat abstrak atau semata-mata hipotetis bagi Pemohon, melai nkan \nmerupakan keadaan hukum yang secara nyata terdapat pada diri \nPemohon.",
+      "start_line": 178,
+      "end_line": 187
+    },
+    {
+      "heading": "23. Bahwa Pasal 85 ayat (2) Undang-Undang Nomor 22 Tahun 2009 t entang",
+      "slug": "23-bahwa-pasal-85-ayat-2-undang-undang-nomor-22-tahun-2009-t-entang",
+      "text": "Lalu Lintas dan Angkutan Jalan menentukan (Bukti P-1): \nSurat Izin Mengemudi untuk kendaraan bermotor perseorangan \nsebagaimana dimaksud pada ayat (1) huruf a dan huruf b, berlaku  \nselama 5 (lima) tahun dan dapat diperpanjang.",
+      "start_line": 189,
+      "end_line": 192
+    },
+    {
+      "heading": "24. Bahwa norma tersebut secara langsung mengatur mengenai masa",
+      "slug": "24-bahwa-norma-tersebut-secara-langsung-mengatur-mengenai-masa",
+      "text": "berlaku dan perpanjangan Surat Izin Mengemudi, sehingga mempuny ai \nhubungan langsung dengan keadaan hukum Pemohon yang memiliki SIM \nC yang telah berakhir masa berlakunya.",
+      "start_line": 194,
+      "end_line": 196
+    },
+    {
+      "heading": "25. Bahwa menurut Pemohon, persoalan konstitusional dalam norma a quo",
+      "slug": "25-bahwa-menurut-pemohon-persoalan-konstitusional-dalam-norma-a-quo",
+      "text": "terletak pada tidak adanya kepastian hukum yang memadai mengena i \nkedudukan dan konsekuensi hukum terhadap SIM yang telah berakhi r \nmasa berlakunya, khususnya ketika pemegang SIM bermaksud \nmemperoleh kembali keberlakuan SIM melalui mekanisme perpanjangan.",
+      "start_line": 198,
+      "end_line": 201
+    },
+    {
+      "heading": "26. Bahwa frasa “dapat diperpanjang” dalam Pasal 85 ayat (2) UU LLAJ tidak",
+      "slug": "26-bahwa-frasa-dapat-diperpanjang-dalam-pasal-85-ayat-2-uu-llaj-tidak",
+      "text": "memberikan pengaturan yang cukup mengenai batas atau kondisi hukum \nyang menentukan kapan suatu SIM yang telah berakhir masa berlakunya \nmasih dapat ditempatkan dalam mekanisme perpanjangan dan kapan \npemegangnya harus diperlakukan sebagai pemohon penerbitan SIM \nbaru.",
+      "start_line": 203,
+      "end_line": 207
+    },
+    {
+      "heading": "27. Bahwa ketidakjelasan tersebut mempunyai akibat langsung ter hadap",
+      "slug": "27-bahwa-ketidakjelasan-tersebut-mempunyai-akibat-langsung-ter-hadap",
+      "text": "kepastian hukum Pemohon karena Pemohon sendiri berada dalam \nkeadaan hukum sebagaimana dimaksud, yaitu memiliki SIM C yang masa \nberlakunya telah berakhir sebagaimana dibuktikan dengan Bukti P-4.",
+      "start_line": 209,
+      "end_line": 211
+    },
+    {
+      "heading": "28. Bahwa menurut Pemohon, kepastian mengenai kedudukan hukum S IM",
+      "slug": "28-bahwa-menurut-pemohon-kepastian-mengenai-kedudukan-hukum-s-im",
+      "text": "setelah masa berlakunya berakhir merupakan bagian dari kepastia n \nhukum yang adil yang wajib diberikan oleh negara kepada setiap warga \nnegara.",
+      "start_line": 213,
+      "end_line": 215
+    },
+    {
+      "heading": "29. Bahwa hak atas kepastian hukum yang adil sebagaimana dijami n dalam",
+      "slug": "29-bahwa-hak-atas-kepastian-hukum-yang-adil-sebagaimana-dijami-n-dalam",
+      "text": "Pasal 28D ayat (1) UUD NRI Tahu n 1945 (Bukti P-2) secara utuh \n\n7 \n \n \nmenyatakan “Setiap orang berhak atas pengakuan, jaminan, \nperlindungan, dan kepastian hukum yang adil serta perlakuan yang sama",
+      "start_line": 217,
+      "end_line": 223
+    },
+    {
+      "heading": "30. Bahwa jaminan konstitusional atas kepastian hukum yang adil tersebut",
+      "slug": "30-bahwa-jaminan-konstitusional-atas-kepastian-hukum-yang-adil-tersebut",
+      "text": "tidak boleh bersifat semu atau diskriminatif, melainkan harus dihubungkan \nsecara imperatif dengan kewajiban negara untuk memenuhi mandat \nPasal 34 ayat (1) UUD NRI Tahun 1945 yang menegaskan bahwa \"Fakir \nmiskin dan anak-anak yang terlantar dipelihara oleh negara\". Ke tika \nrumusan norma Pasal 85 ayat (2) UU LLAJ membebankan keharusan \nmengulang proses dari awal akibat keterlambatan yang bersumber dari \nketidakmampuan ekonomi, negara justru mengabaikan prinsip kepas tian \nhukum yang adil dan gagal melindungi fakir miskin dari beban administratif \nyang tidak proporsional. Dengan demikian, norma Pasal 28D ayat (1) \nUUD NRI Tahun 1945 tidak hanya menjamin kepastian hukum, tetapi juga \nmencakup pengakuan, jaminan, perlindungan, kepastian hukum yang  \nadil, serta perlakuan yang sama di hadapan hukum.",
+      "start_line": 226,
+      "end_line": 237
+    },
+    {
+      "heading": "31. Bahwa dalam perkara a quo , Pemohon berkepentingan agar terdapat",
+      "slug": "31-bahwa-dalam-perkara-a-quo-pemohon-berkepentingan-agar-terdapat",
+      "text": "norma Undang-Undang yang memberikan kejelasan mengenai \nkonsekuensi hukum atas berakhirnya masa berlaku SIM dan hubunga n \nhukum antara berakhirnya masa berlaku SIM dengan mekanisme \nperpanjangan SIM.",
+      "start_line": 239,
+      "end_line": 242
+    },
+    {
+      "heading": "32. Bahwa kerugian konstitusional Pemohon tidak didasarkan sema ta-mata",
+      "slug": "32-bahwa-kerugian-konstitusional-pemohon-tidak-didasarkan-sema-ta-mata",
+      "text": "pada kepentingan masyarakat secara umum (actio popularis), melainkan \nmempunyai hubungan dengan keadaan hukum Pemohon sendiri yang \ndibuktikan dengan kepemilikan SIM C yang telah berakhir masa \nberlakunya.",
+      "start_line": 244,
+      "end_line": 247
+    },
+    {
+      "heading": "33. Bahwa terdapat hubungan sebab-akibat (causal verband) antar a",
+      "slug": "33-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-antar-a",
+      "text": "persoalan yang dialami Pemohon dengan berlakunya norma Pasal 85  \nayat (2) UU LLAJ, karena norma tersebut merupakan ketentuan Undang-\nUndang yang secara langsung mengatur masa berlaku dan perpanjangan \nSIM yang menjadi objek kepentingan hukum Pemohon.",
+      "start_line": 249,
+      "end_line": 252
+    },
+    {
+      "heading": "34. Bahwa apabila Mahkamah Konstitusi mengabulkan Permohonan a quo",
+      "slug": "34-bahwa-apabila-mahkamah-konstitusi-mengabulkan-permohonan-a-quo",
+      "text": "dan memberikan tafsir konstitusional terhadap Pasal 85 ayat (2) UU LLAJ, \n\n8 \n \n \nmaka terdapat kemungkinan persoalan ketidakpastian hukum yang \ndihadapi Pemohon dapat dipulihkan melalui adanya kejelasan meng enai \nkedudukan dan konsekuensi hukum SIM yang telah berakhir masa \nberlakunya dalam kaitannya dengan mekanisme perpanjangan.",
+      "start_line": 254,
+      "end_line": 262
+    },
+    {
+      "heading": "35. Bahwa dengan demikian terdapat hubungan yang jelas antara P emohon",
+      "slug": "35-bahwa-dengan-demikian-terdapat-hubungan-yang-jelas-antara-p-emohon",
+      "text": "sebagai perseorangan Warga Negara Indonesia, hak konstitusional  \nPemohon, keadaan konkret Pemohon yang memiliki SIM C yang telah  \nberakhir masa berlakunya, norma yang diuji, kerugian konstitusional yang \ndidalilkan, serta kemungkinan pemulihan melalui putusan Mahkama h \nKonstitusi.",
+      "start_line": 264,
+      "end_line": 268
+    },
+    {
+      "heading": "36. Bahwa berdasarkan Putusan Mahkamah Konstitusi yang telah me njadi",
+      "slug": "36-bahwa-berdasarkan-putusan-mahkamah-konstitusi-yang-telah-me-njadi",
+      "text": "pedoman dalam menentukan kedudukan hukum Pemohon, terdapat \nbeberapa syarat yang harus dipenuhi, yaitu adanya hak dan/atau \nkewenangan konstitusional yang diberikan oleh UUD NRI Tahun 194 5, \nhak dan/atau kewenangan tersebut dianggap dirugikan oleh berlak unya \nUndang-Undang yang diuji, kerugian tersebut bersifat spesifik dan aktual \natau setidak-tidaknya potensial yang menurut penalaran yang wajar dapat \ndipastikan akan terjadi, terdapat hubungan sebab-akibat antara kerugian \ndengan berlakunya norma yang diuji, dan terdapat kemungkinan kerugian \ntersebut tidak lagi terjadi apabila permohonan dikabulkan.",
+      "start_line": 270,
+      "end_line": 278
+    },
+    {
+      "heading": "37. Bahwa Pemohon memenuhi syarat tersebut karena Pemohon merup akan",
+      "slug": "37-bahwa-pemohon-memenuhi-syarat-tersebut-karena-pemohon-merup-akan",
+      "text": "perseorangan Warga Negara Indonesia, mempunyai hak konstitusion al \natas kepastian hukum yang adil sebagaimana dijamin dalam Pasal 28D \nayat (1) UUD NRI Tahun 1945, serta mempunyai keadaan konkret berupa \nSIM C atas nama Pemohon yang telah berakhir masa berlakunya \nsebagaimana dibuktikan dengan (Bukti P-4). \nA. KETERKAITAN KELOMPOK DESIL 5 DAN PROGRAM",
+      "start_line": 280,
+      "end_line": 285
+    },
+    {
+      "heading": "PERLINDUNGAN SOSIAL PENERIMA BANTUAN IURAN JAMINAN",
+      "slug": "perlindungan-sosial-penerima-bantuan-iuran-jaminan",
+      "text": "KESEHATAN (PBI-JK) SEBAGAI DASAR KEBERADAAN HUKUM \n(LEGAL STANDING) KELOMPOK RENTAN",
+      "start_line": 287,
+      "end_line": 288
+    },
+    {
+      "heading": "38. Bahwa Pemohon berdasarkan data sosial ekonomi yang dimiliki nya",
+      "slug": "38-bahwa-pemohon-berdasarkan-data-sosial-ekonomi-yang-dimiliki-nya",
+      "text": "berada pada Desil 5  dengan nama J******G S**O S*****A yang jika \ndiperjelas JANGKUNG SIDO SENTOSA, sebagaimana dibuktikan \n\n9 \n \n \ndengan (Bukti P-6). Data tersebut tidak diajukan oleh Pemohon u ntuk \nmenyatakan bahwa Pemohon secara otomatis berkedudukan sebagai \n“fakir miskin” sebagaimana dimaksud dalam Pasal 34 ayat (1) UUD  NRI \nTahun 1945, melainkan untuk menunjukkan keadaan ekonomi konkret  \nPemohon yang relevan dalam menilai berat-ringannya dampak suatu  \nbeban administratif terhadap Pemohon secara individual.",
+      "start_line": 290,
+      "end_line": 301
+    },
+    {
+      "heading": "39. Bahwa Pemohon secara resmi terdaftar dalam sistem Data Tung gal",
+      "slug": "39-bahwa-pemohon-secara-resmi-terdaftar-dalam-sistem-data-tung-gal",
+      "text": "Sosial dan Ekonomi Nasional (DTSEN) pada Desil 5 dengan status \nkepesertaan aktif sebagai Penerima Bantuan Iuran Jaminan Keseha tan \n(PBI-JK).",
+      "start_line": 303,
+      "end_line": 305
+    },
+    {
+      "heading": "40. Bahwa berdasarkan klarifikasi sistemik dan regulasi jaminan s o s i a l",
+      "slug": "40-bahwa-berdasarkan-klarifikasi-sistemik-dan-regulasi-jaminan-s-o-s-i-a-l",
+      "text": "nasional, kelompok Desil 1 sampai dengan Desil 5 secara yuridis -\nadministratif diakui oleh negara sebagai kelompok masyarakat \nberpenghasilan rendah dan/atau kelompok rentan (vulnerable group)  \nyang memerlukan intervensi serta perlindungan negara sebagaiman a \ndiamanatkan oleh Pasal 34 ayat (1) UUD NRI Tahun 1945",
+      "start_line": 307,
+      "end_line": 311
+    },
+    {
+      "heading": "41. Bahwa pengakuan status Desil 5 melalui instrumen PBI-JK membuktikan",
+      "slug": "41-bahwa-pengakuan-status-desil-5-melalui-instrumen-pbi-jk-membuktikan",
+      "text": "bahwa kemampuan ekonomi Pemohon berada pada ambang batas \nkerentanan finansial, di mana setiap pengeluaran atau beban administratif \nyang bersifat sekonyong-konyong, kaku, dan tidak proporsional, seperti \nkewajiban mengulang seluruh tahapan ujian penerbitan SIM baru a kibat \nketiadaan parameter masa tenggang (grace period)  bagi SIM yang \nkedaluwarsa, akan berdampak langsung secara destruktif terhadap  \nkondisi keuangan Pemohon yang terbatas.",
+      "start_line": 313,
+      "end_line": 319
+    },
+    {
+      "heading": "42. Bahwa dengan demikian, pemberlakuan norma a quo tanpa memberikan",
+      "slug": "42-bahwa-dengan-demikian-pemberlakuan-norma-a-quo-tanpa-memberikan",
+      "text": "ruang toleransi administratif (grace period)  bagi masyarakat rentan di \nklaster Desil 5 merupakan bentuk pengabaian negara terhadap asa s \nperlindungan sosial, yang pada akhirnya membebani warga negara \nsecara tidak adil dan melanggar hak atas jaminan kepastian hukum yang \nadil sebagaimana dijamin dalam Pasal 28D ayat (1) juncto Pasal 34 ayat \n(1) UUD NRI Tahun 1945.",
+      "start_line": 321,
+      "end_line": 326
+    },
+    {
+      "heading": "43. Bahwa kedudukan Pemohon pada Desil 5 tersebut menjadi relev an",
+      "slug": "43-bahwa-kedudukan-pemohon-pada-desil-5-tersebut-menjadi-relev-an",
+      "text": "secara konstitusional bukan karena status desil itu sendiri merupakan hak \n\n10 \n \n \nkonstitusional, melainkan karena keadaan ekonomi tersebut mempu nyai \nhubungan langsung dengan kemampuan Pemohon untuk memenuhi \nbeban waktu, biaya, dan prosedur administratif yang timbul keti ka \nPemohon hendak memperoleh kembali keberlakuan SIM C yang telah \nberakhir masa berlakunya.",
+      "start_line": 328,
+      "end_line": 337
+    },
+    {
+      "heading": "44. Bahwa dengan demikian, data Desil 5 tidak digunakan sebagai d a s a r",
+      "slug": "44-bahwa-dengan-demikian-data-desil-5-tidak-digunakan-sebagai-d-a-s-a-r",
+      "text": "untuk meminta perlakuan khusus, pembebasan persyaratan \nkeselamatan, maupun keistimewaan individual bagi Pemohon. Data \ntersebut digunakan semata-mata untuk menunjukkan bahwa akibat d ari \nketidakjelasan norma Pasal 85 ayat (2) UU LLAJ mempunyai intens itas \nkerugian yang nyata dan konkret terhadap Pemohon, sehingga keru gian \nyang didalilkan bukan merupakan kekhawatiran abstrak mengenai \nkeadaan masyarakat pada umumnya. \nB. KERUGIAN KONSTITUSIONAL PEMOHON PASAL 28D AYAT (1) DAN \n34 AYAT (1) UUD NRI TAHUN 1945",
+      "start_line": 339,
+      "end_line": 347
+    },
+    {
+      "heading": "45. Bahwa keadaan ekonomi Pemohon tersebut mempunyai relevansi",
+      "slug": "45-bahwa-keadaan-ekonomi-pemohon-tersebut-mempunyai-relevansi",
+      "text": "dengan Pasal 28D ayat (1) UUD NRI Tahun 1945 karena kepastian \nhukum yang adil tidak cukup dinilai hanya dari keberadaan suatu prosedur \nadministratif secara formal, tetapi juga harus memberikan kepas tian \nmengenai hak, kewajiban, dan konsekuensi hukum yang harus \nditanggung warga negara ketika menghadapi keadaan yang secara \nkonkret diatur oleh norma tersebut. Dalam perkara a quo, Pemohon telah \nmemiliki SIM secara sah, masa berlaku SIM tersebut telah berakh ir, dan \nPemohon menghadapi ketidakjelasan mengenai ruang hukum untuk \nmelakukan perpanjangan setelah berakhirnya masa berlaku tersebut.",
+      "start_line": 349,
+      "end_line": 357
+    },
+    {
+      "heading": "46. Bahwa kondisi ekonomi Pemohon sebagaimana ditunjukkan oleh Bukti P-",
+      "slug": "46-bahwa-kondisi-ekonomi-pemohon-sebagaimana-ditunjukkan-oleh-bukti-p",
+      "text": "6 memperjelas hubungan sebab-akibat tersebut. Ketiadaan paramet er \nnormatif mengenai kesempatan perpanjangan setelah masa berlaku \nberakhir menyebabkan Pemohon tidak memperoleh kepastian mengena i \napakah dirinya masih dapat menggunakan mekanisme perpanjangan \natau harus menempuh mekanisme penerbitan SIM baru dengan beban \nadministratif yang berbeda. Bagi Pemohon yang berada dalam kond isi \nekonomi terbatas, perbedaan konsekuensi tersebut mempunyai damp ak \n\n11 \n \n \nyang nyata terhadap kemampuan Pemohon untuk memperoleh kembali \ndokumen administratif yang diperlukan bagi mobilitas sehari-hari.",
+      "start_line": 359,
+      "end_line": 371
+    },
+    {
+      "heading": "47. Bahwa kerugian konstitusional Pemohon tidak semata-mata ter letak pada",
+      "slug": "47-bahwa-kerugian-konstitusional-pemohon-tidak-semata-mata-ter-letak-pada",
+      "text": "adanya kewajiban administratif untuk memperoleh kembali Surat I zin \nMengemudi, melainkan pada tidak adanya parameter normatif dalam  \nPasal 85 ayat (2) UU LLAJ yang memberikan kepastian mengenai akibat \nhukum setelah masa berlaku Surat Izin Mengemudi berakhir, khusu snya \nmengenai apakah pemegang SIM yang masa berlakunya telah berakhi r \nmasih dapat menggunakan mekanisme perpanjangan dalam jangka \nwaktu tertentu atau harus menempuh mekanisme penerbitan SIM bar u. \nKeadaan tersebut berkaitan dengan hak Pemohon atas kepastian hukum \nyang adil sebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI Tahun \n1945.",
+      "start_line": 373,
+      "end_line": 382
+    },
+    {
+      "heading": "48. Bahwa ketidakjelasan tersebut juga mempunyai relevansi deng an",
+      "slug": "48-bahwa-ketidakjelasan-tersebut-juga-mempunyai-relevansi-deng-an",
+      "text": "kewajiban konstitusional negara sebagaimana dimaksud dalam Pasal 34 \nayat (1) UUD NRI Tahun 1945, karena ketika negara membentuk dan  \nmenyelenggarakan pelayanan administratif yang berkaitan dengan \nkebutuhan dasar mobilitas war ga negara, pengaturan tersebut \nsemestinya tidak mengabaikan kondisi nyata warga negara yang be rada \ndalam keterbatasan ekonomi. Dalam perkara a quo , Pasal 34 ayat (1) \ntidak digunakan Pemohon untuk meminta perlakuan khusus, \npembebasan persyaratan keselamatan, ataupun keistimewaan individual, \nmelainkan sebagai dasar untuk menilai apakah beban administrati f yang \ntimbul akibat ketidakjelasan norma telah memberikan perlindunga n yang \nmemadai terhadap warga negara dalam kondisi ekonomi terbatas.",
+      "start_line": 384,
+      "end_line": 394
+    },
+    {
+      "heading": "49. Bahwa keadaan ekonomi Pemohon sebagaimana dibuktikan dengan",
+      "slug": "49-bahwa-keadaan-ekonomi-pemohon-sebagaimana-dibuktikan-dengan",
+      "text": "Bukti P-6 memperjelas hubungan sebab-akibat antara ketidakjelas an \nnorma dengan kerugian konstitusional yang dialami Pemohon. Keti ka \ntidak terdapat parameter normatif mengenai kesempatan perpanjan gan \nsetelah masa berlaku SIM berakhir, Pemohon menghadapi ketidakpastian \nmengenai apakah masih dapat menggunakan mekanisme perpanjangan \natau harus menempuh mekanisme penerbitan SIM baru dengan beban \nwaktu, biaya, dan prosedur yang berbeda. Dengan demikian, kerug ian \n\n12 \n \n \nPemohon tidak hanya berkaitan dengan kepastian hukum yang adil \nsebagaimana dijamin Pasal 28D ayat (1), tetapi juga menunjukkan  \nadanya persoalan mengenai pemenuhan kewajiban perlindungan sosi al \nnegara sebagaimana dimaksud dalam Pasal 34 ayat (1) UUD NRI Tahun \n1945.",
+      "start_line": 396,
+      "end_line": 411
+    },
+    {
+      "heading": "50. Bahwa Pasal 34 ayat (1) UUD NRI Tahun 1945 dalam perkara a quo tidak",
+      "slug": "50-bahwa-pasal-34-ayat-1-uud-nri-tahun-1945-dalam-perkara-a-quo-tidak",
+      "text": "digunakan untuk menyatakan bahwa setiap Pemohon yang berada pad a \nDesil 5 dengan sendirinya merupakan “fakir miskin”, melainkan s ebagai \nstandar konstitusional mengenai kewajiban negara dalam memberik an \nperlindungan terhadap warga yang berada dalam kondisi sosial-ek onomi \nyang rentan. Oleh karena itu, keberadaan Desil 5 merupakan fakt a \nindividual mengenai keadaan Pemohon, sedangkan Pasal 34 ayat (1 ) \nUUD NRI Tahun 1945 merupakan norma konstitusional yang digunaka n \nuntuk menilai apakah desain pengaturan negara telah cukup \nmemperhatikan perlindungan terhadap kelompok masyarakat yang \nrentan.",
+      "start_line": 413,
+      "end_line": 422
+    },
+    {
+      "heading": "51. Bahwa konstruksi tersebut sekaligus menegaskan bahwa Pemoho n tidak",
+      "slug": "51-bahwa-konstruksi-tersebut-sekaligus-menegaskan-bahwa-pemoho-n-tidak",
+      "text": "meminta Mahkamah Konstitusi memberikan perlakuan istimewa \nberdasarkan status ekonomi Pemohon. Pemohon hanya meminta agar \nnorma Pasal 85 ayat (2) UU LLAJ memberikan parameter hukum yang  \nberlaku secara umum dan dapat diterapkan kepada setiap pemegang SIM \nyang berada dalam keadaan yang sama, tanpa membedakan \nberdasarkan status ekonomi seseorang.",
+      "start_line": 424,
+      "end_line": 429
+    },
+    {
+      "heading": "52. Bahwa dengan demikian, Desil 5 bukan merupakan objek permoh onan,",
+      "slug": "52-bahwa-dengan-demikian-desil-5-bukan-merupakan-objek-permoh-onan",
+      "text": "bukan pula dasar untuk memperoleh hak khusus, melainkan merupak an \nfakta konkret mengenai keadaan Pemohon yang memperkuat spesifikasi \nkerugian konstitusional Pemohon. Dasar utama kerugian konstitus ional \ntetap terletak pada Pasal 28D ayat (1) UUD NRI Tahun 1945, sedangkan \nPasal 34 ayat (1) UUD NRI Tahun 1945 digunakan sebagai batu uji  \ntambahan untuk menilai kewajiban perlindungan negara terhadap w arga \ndalam kondisi ekonomi rentan.",
+      "start_line": 431,
+      "end_line": 437
+    },
+    {
+      "heading": "53. Bahwa oleh karena itu, hubungan antara keadaan ekonomi Pemo hon,",
+      "slug": "53-bahwa-oleh-karena-itu-hubungan-antara-keadaan-ekonomi-pemo-hon",
+      "text": "norma yang diuji, dan kerugian konstitusional Pemohon tidak ber sifat \n\n13 \n \n \nhipotetis, melainkan dapat dirumuskan secara konkret sebagai be rikut: \nPemohon memiliki SIM C yang telah berakhir masa berlakunya → \nPemohon membutuhkan pemulihan status administratif SIM tersebut  → \nnorma Pasal 85 ayat (2) hanya menyatakan “dapat diperpanjang” t anpa \nmemberikan parameter mengenai keadaan setelah masa berlaku berakhir \n→ aturan pelaksana memberikan konsekuensi administratif yang berbeda \n→ Pemohon menghadapi beban waktu, prosedur, dan biaya → keadaan  \nekonomi Pemohon pada Desil 5 memperberat dampak konkret dari beban \ntersebut → timbul kerugian konstitusio nal yang berkaitan dengan \nkepastian hukum yang adil sebagaimana dijamin Pasal 28D ayat (1) UUD \nNRI Tahun 1945.",
+      "start_line": 439,
+      "end_line": 454
+    },
+    {
+      "heading": "54. Bahwa Pemohon tidak meminta Mahkamah Konstitusi untuk memer iksa",
+      "slug": "54-bahwa-pemohon-tidak-meminta-mahkamah-konstitusi-untuk-memer-iksa",
+      "text": "atau membatalkan suatu keputusan administratif tertentu, melain kan \nmeminta Mahkamah Konstitusi menguji konstitusionalitas norma Pasal 85 \nayat (2) UU LLAJ terhadap UUD NRI Tahun 1945.",
+      "start_line": 456,
+      "end_line": 458
+    },
+    {
+      "heading": "55. Bahwa oleh karena persoalan yang diajukan bersumber pada ma teri",
+      "slug": "55-bahwa-oleh-karena-persoalan-yang-diajukan-bersumber-pada-ma-teri",
+      "text": "muatan Undang-Undang dan mempunyai hubungan langsung dengan \nhak konstitusional Pemohon, maka Pemohon mempunyai kepentingan \nhukum untuk mengajukan pengujian terhadap norma a quo.",
+      "start_line": 460,
+      "end_line": 462
+    },
+    {
+      "heading": "56. Bahwa berdasarkan seluruh uraian tersebut, Pemohon telah da pat",
+      "slug": "56-bahwa-berdasarkan-seluruh-uraian-tersebut-pemohon-telah-da-pat",
+      "text": "menunjukkan adanya hak konstitusional yang dijamin oleh UUD NRI  \nTahun 1945, adanya keadaan konkret yang berkaitan langsung deng an \nnorma yang diuji, adanya hubungan sebab-akibat antara norma yang diuji \ndengan persoalan konstitusional Pemohon, serta adanya kemungkin an \npemulihan melalui putusan Mahkamah Konstitusi.",
+      "start_line": 464,
+      "end_line": 468
+    },
+    {
+      "heading": "57. Bahwa dengan demikian, Pemohon memenuhi ketentuan mengenai",
+      "slug": "57-bahwa-dengan-demikian-pemohon-memenuhi-ketentuan-mengenai",
+      "text": "kedudukan hukum sebagaimana dimaksud dalam Pasal 51 ayat (1) \nUndang-Undang Mahkamah Konstitusi dan Pasal 4 PMK Nomor 7 Tahun \n2025.",
+      "start_line": 470,
+      "end_line": 472
+    },
+    {
+      "heading": "58. Bahwa berdasarkan seluruh uraian tersebut, Pemohon memiliki",
+      "slug": "58-bahwa-berdasarkan-seluruh-uraian-tersebut-pemohon-memiliki",
+      "text": "kedudukan hukum (legal standing)  untuk mengajukan Permohonan \nPengujian Materiil Pasal 85 ayat (2) Undang-Undang Nomor 22 Tah un \n\n14 \n \n \n2009 tentang Lalu Lintas dan Angkutan Jalan terhadap Undang-Und ang \nDasar Negara Republik Indonesia Tahun 1945. \nIII. ALASAN-ALASAN PERMOHONAN (POSITA) \nA. NORMA YANG DIMOHONKAN PENGUJIAN",
+      "start_line": 474,
+      "end_line": 483
+    },
+    {
+      "heading": "59. Bahwa Pemohon memohon penguj ian materiil terhadap Pasal 85 ayat (2)",
+      "slug": "59-bahwa-pemohon-memohon-penguj-ian-materiil-terhadap-pasal-85-ayat-2",
+      "text": "Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan \nJalan, yang menyatakan: \nSurat Izin Mengemudi untuk kendaraan bermotor perseorangan \nsebagaimana dimaksud pada ayat (1) huruf a dan huruf b, berlaku  \nselama 5 (lima) tahun dan dapat diperpanjang.",
+      "start_line": 485,
+      "end_line": 489
+    },
+    {
+      "heading": "60. Bahwa Pemohon tidak mempersoalkan jangka waktu 5 (lima) tah un",
+      "slug": "60-bahwa-pemohon-tidak-mempersoalkan-jangka-waktu-5-lima-tah-un",
+      "text": "sebagai masa berlaku SIM dan tidak pula memohon agar SIM \ndiberlakukan seumur hidup.",
+      "start_line": 491,
+      "end_line": 492
+    },
+    {
+      "heading": "61. Bahwa Pemohon memahami dan menghormati pertimbangan Mahkama h",
+      "slug": "61-bahwa-pemohon-memahami-dan-menghormati-pertimbangan-mahkama-h",
+      "text": "Konstitusi dalam Putusan Nomor 42/PUU-XXI/2023 yang pada pokoknya \nmempertimbangkan bahwa evaluasi dalam penerbitan dan perpanjangan \nSIM berkaitan dengan pengukuran kompetensi, kemampuan, dan \nkesehatan pemegang SIM, sejalan dengan fungsi SIM sebagai bukti  \nkompetensi.",
+      "start_line": 494,
+      "end_line": 498
+    },
+    {
+      "heading": "62. Bahwa oleh karena itu, Permohonan a quo tidak diarahkan untuk",
+      "slug": "62-bahwa-oleh-karena-itu-permohonan-a-quo-tidak-diarahkan-untuk",
+      "text": "menghilangkan evaluasi kompetensi, kesehatan, maupun persyarata n \nkeselamatan dalam penerbitan dan perpanjangan SIM, karena hal \ntersebut merupakan bagian penting dari tujuan keselamatan lalu lintas.",
+      "start_line": 500,
+      "end_line": 502
+    },
+    {
+      "heading": "63. Bahwa Permohonan a quo tidak dapat dipandang sebagai pengulangan",
+      "slug": "63-bahwa-permohonan-a-quo-tidak-dapat-dipandang-sebagai-pengulangan",
+      "text": "Permohonan dalam Perkara Nomor 42/PUU-XXI/2023, karena selain \nmemiliki konstruksi alasan permohonan yang berbeda, Pemohon dal am \nperkara a quo  mengajukan Pasal 34 ayat (1) UUD NRI Tahun 1945 \nsebagai salah satu batu uji yang tidak digunakan sebagai dasar pengujian \ndalam perkara sebelumnya. Batu uji tersebut kemudian dikaitkan dengan \nkondisi sosial-ekonomi Pemohon yang dibuktikan antara lain dengan data \ndesil, sehingga persoalan konstitusional yang diajukan tidak semata-mata \nmengenai masa berlaku Surat Izin Mengemudi, melainkan mengenai \nkepastian hukum dan perlindungan konstitusional bagi warga yang  \n\n15 \n \n \nmengalami keterbatasan ekonomi dalam memperoleh akses terhadap \nmekanisme pelayanan administrasi negara.",
+      "start_line": 504,
+      "end_line": 518
+    },
+    {
+      "heading": "64. Bahwa persoalan konstitusional yang diajukan Pemohon adalah",
+      "slug": "64-bahwa-persoalan-konstitusional-yang-diajukan-pemohon-adalah",
+      "text": "mengenai konstruksi norma setelah masa berlaku SIM berakhir, \nkhususnya karena Pasal 85 ayat (2) UU LLAJ hanya menyatakan bah wa \nSIM berlaku selama 5 (lima) tahun dan “dapat diperpanjang”, tet api tidak \nmemberikan parameter normatif yang cukup mengenai akibat hukum \nberakhirnya masa berlaku tersebut terhadap hak dan kedudukan \npemegang SIM.",
+      "start_line": 520,
+      "end_line": 525
+    },
+    {
+      "heading": "65. Bahwa dengan demikian, yang dipersoalkan Pemohon bukanlah “ lima",
+      "slug": "65-bahwa-dengan-demikian-yang-dipersoalkan-pemohon-bukanlah-lima",
+      "text": "tahun”, melainkan ketidakcukupan norma dalam mengatur hubungan \nantara berakhirnya masa berlaku SIM dengan mekanisme perpanjang an \nSIM. \nB. INKONSTITUSIONALITAS PASAL 85 AYAT (2) UU LLAJ TERHADAP \nPASAL 34 AYAT (1) UUD NRI TAHUN 1945",
+      "start_line": 527,
+      "end_line": 531
+    },
+    {
+      "heading": "66. Bahwa Pasal 34 ayat (1) UUD NRI Tahun 1945 menentukan bahwa “Fakir",
+      "slug": "66-bahwa-pasal-34-ayat-1-uud-nri-tahun-1945-menentukan-bahwa-fakir",
+      "text": "miskin dan anak-anak yang terlantar dipelihara oleh negara.” Ke tentuan \ntersebut merupakan bagian dari pengaturan konstitusional mengen ai \nkesejahteraan sosial dan menempatkan negara sebagai pihak yang \nmempunyai tanggung jawab konstitusional dalam memberikan \nperlindungan terhadap warga negara yang berada dalam kondisi \nkemiskinan dan kerentanan sosial-ekonomi.",
+      "start_line": 533,
+      "end_line": 538
+    },
+    {
+      "heading": "67. Bahwa Pemohon tidak mendalilkan bahwa setiap orang yang ter masuk",
+      "slug": "67-bahwa-pemohon-tidak-mendalilkan-bahwa-setiap-orang-yang-ter-masuk",
+      "text": "dalam kategori Desil 5 secara otomatis merupakan fakir miskin \nsebagaimana dimaksud dalam Pasal 34 ayat (1) UUD NRI Tahun 1945 . \nDesil 5 dalam Permohonan a quo hanya digunakan sebagai fakta sosial-\nekonomi yang menunjukkan kondisi konkret Pemohon dan tingkat \nkemampuan Pemohon dalam menanggung beban administratif yang \ntimbul akibat berlakunya norma a quo.",
+      "start_line": 540,
+      "end_line": 545
+    },
+    {
+      "heading": "68. Bahwa persoalan konstitusional dalam Permohonan a quo bukanlah",
+      "slug": "68-bahwa-persoalan-konstitusional-dalam-permohonan-a-quo-bukanlah",
+      "text": "semata-mata mengenai besarnya biaya perpanjangan Surat Izin \nMengemudi, melainkan mengenai tidak adanya parameter yang jelas  \ndalam Pasal 85 ayat (2) Undang-Undang a quo mengenai akibat hukum \n\n16 \n \n \ndan mekanisme administratif setelah masa berlaku Surat Izin Mengemudi \nberakhir, sehingga warga negara yang berada dalam kondisi sosia l-\nekonomi tertentu dapat menghadapi beban yang lebih berat untuk \nmemperoleh kembali akses administratif terhadap Surat Izin Mengemudi.",
+      "start_line": 547,
+      "end_line": 557
+    },
+    {
+      "heading": "69. Bahwa keadaan tersebut menjadi relevan dengan Pasal 34 ayat (1) UUD",
+      "slug": "69-bahwa-keadaan-tersebut-menjadi-relevan-dengan-pasal-34-ayat-1-uud",
+      "text": "NRI Tahun 1945 ketika penerapan suatu norma administratif tidak  \nmemperhatikan kebutuhan perlindungan terhadap warga negara yang  \nberada dalam kondisi sosial-ekonomi rentan, bukan dalam arti \nmemberikan keistimewaan kepada kelompok tertentu, melainkan dal am \narti memastikan bahwa kebijakan dan mekanisme administratif neg ara \ntidak menghasilkan beban yang secara tidak proporsional mengham bat \nwarga negara dalam memperoleh pelayanan publik yang menjadi bagian \ndari kehidupan sehari-hari.",
+      "start_line": 559,
+      "end_line": 566
+    },
+    {
+      "heading": "70. Bahwa dengan demikian, Pasal 34 ayat (1) UUD NRI Tahun 1945 dalam",
+      "slug": "70-bahwa-dengan-demikian-pasal-34-ayat-1-uud-nri-tahun-1945-dalam",
+      "text": "Permohonan a quo digunakan sebagai batu uji tambahan untuk menilai \napakah norma Pasal 85 ayat (2) Undang-Undang a quo  t e l a h  \nmencerminkan kewajiban perlindungan negara terhadap warga yang \nberada dalam kondisi sosial-ekonomi rentan, sedangkan Pasal 28D  ayat \n(1) UUD NRI Tahun 1945 tetap merupakan batu uji utama yang berkaitan \ndengan kepastian hukum yang adil dan perlakuan yang sama di hadapan \nhukum.",
+      "start_line": 568,
+      "end_line": 574
+    },
+    {
+      "heading": "71. Bahwa Pemohon tidak meminta Mahkamah memberikan perlakuan",
+      "slug": "71-bahwa-pemohon-tidak-meminta-mahkamah-memberikan-perlakuan",
+      "text": "khusus berdasarkan kondisi ekonomi Pemohon, melainkan meminta agar \nterdapat parameter hukum yang berlaku secara umum, objektif, dan dapat \ndiprediksi bagi setiap pemegang Surat Izin Mengemudi yang masa \nberlakunya telah berakhir, sehingga akibat hukum setelah berakh irnya \nmasa berlaku Surat Izin Mengemudi tidak sepenuhnya bergantung p ada \nkemampuan ekonomi masing-masing warga negara.",
+      "start_line": 576,
+      "end_line": 581
+    },
+    {
+      "heading": "72. Bahwa oleh karena itu, hubungan antara Pasal 34 ayat (1) UU D NRI",
+      "slug": "72-bahwa-oleh-karena-itu-hubungan-antara-pasal-34-ayat-1-uu-d-nri",
+      "text": "Tahun 1945 dengan Pasal 85 ayat (2) Undang-Undang a quo terletak \npada kewajiban negara untuk membentuk dan menerapkan mekanisme \npelayanan publik yang tetap memberikan perlindungan yang layak \nkepada warga negara dalam kondisi sosial-ekonomi rentan, sement ara \n\n17 \n \n \npengaturan yang tidak memiliki parameter yang jelas mengenai ma sa \nsetelah berakhirnya Surat Izin Mengemudi berpotensi menimbulkan  \nbeban yang tidak proporsional bagi Pemohon sebagaimana keadaan \nkonkret yang dialaminya.",
+      "start_line": 583,
+      "end_line": 594
+    },
+    {
+      "heading": "73. Bahwa berdasarkan uraian tersebut, persoalan yang dimohonka n untuk",
+      "slug": "73-bahwa-berdasarkan-uraian-tersebut-persoalan-yang-dimohonka-n-untuk",
+      "text": "dinilai oleh Mahkamah bukanlah apakah Pemohon berdasarkan kondi si \nekonominya berhak memperoleh pengecualian dari ketentuan mengen ai \nSurat Izin Mengemudi, melainkan apakah Pasal 85 ayat (2) Undang -\nUndang a quo , sepanjang tidak memberikan parameter yang jelas \nmengenai kemungkinan perpanjangan setelah berakhirnya masa berlaku \nSurat Izin Mengemudi, telah memenuhi tuntutan kepastian hukum y ang \nadil sekaligus kewajiban konstitusional negara dalam memberikan  \nperlindungan kepada warga negara yang berada dalam kondisi sosi al-\nekonomi rentan. \nC. BEBAN EKONOMI DAN BUKTI EMPIRIS MENGENAI PRAKTIK",
+      "start_line": 596,
+      "end_line": 605
+    },
+    {
+      "heading": "74. Bahwa untuk membuktikan bahwa persoalan ketidakpastian huku m",
+      "slug": "74-bahwa-untuk-membuktikan-bahwa-persoalan-ketidakpastian-huku-m",
+      "text": "dalam Pasal 85 ayat (2) UU LLAJ bukan merupakan rekaan teoretis atau \npengalaman subjektif semata, Pemohon melampirkan hasil kajian empiris \ndan data ilmiah terkait beban biaya serta praktik pelayanan perpanjangan \nSurat Izin Mengemudi berdasarkan jurnal ilmiah oleh Diandra Ani ndhita, \nMuhammad Zaki, Resya Rosalina, & Simamora Jeremy, \"Fenomena \nPembayaran Tidak Resmi dalam Proses Pembuatan SIM di Indonesia\" , \nJejak Digital: Jurnal Ilmiah Multidisiplin, Vol. 1, No. 6, 2025 , hlm. 4448–\n4455, DOI: https://indojurnal.com/index.php/jejakdigital/articl e/view/1290 \n(Bukti P-7).",
+      "start_line": 608,
+      "end_line": 616
+    },
+    {
+      "heading": "75. Bahwa berdasarkan data dan temuan dalam Bukti P-7, terungka p adanya",
+      "slug": "75-bahwa-berdasarkan-data-dan-temuan-dalam-bukti-p-7-terungka-p-adanya",
+      "text": "realitas empiris di lapangan di mana ketiadaan parameter normat if dan \nketiadaan masa tenggang (grace period) dalam Undang-Undang \nmelahirkan celah birokrasi yang membebani masyarakat secara tid ak \nproporsional. Ketika pemegang SIM yang terlambat memperpanjang \ndokumennya dihadapkan pada keharusan mutlak mengikuti prosedur \npenerbitan SIM baru dari nol seperti tes ulang yang rumit dan kaku timbul \n\n18 \n \n \ntekanan psikologis dan finansial yang berat bagi warga negara. Dalam \nkondisi tertekan oleh rigiditas aturan administratif tersebut, masyarakat \nprasejahtera kerap terjebak dalam pusaran biaya tinggi, mulai d ari biaya \nresmi berlapis hingga munculnya praktik transaksional atau pung utan \ntidak resmi (petty corruption)  berkisar antara Rp600.000,00 hingga \nRp900.000,00, bahkan mencapai Rp2.500.000,00 untuk paket ganda \ninstan sebagaimana didokumentasikan dalam laporan penelitian (Bukti P-\n7).",
+      "start_line": 618,
+      "end_line": 635
+    },
+    {
+      "heading": "76. Bahwa hubungan konkret (causal verband) antara Bukti P-7 dengan",
+      "slug": "76-bahwa-hubungan-konkret-causal-verband-antara-bukti-p-7-dengan",
+      "text": "norma Pasal 85 ayat (2) UU LLAJ terletak pada bagaimana struktur norma \nhukum yang kabur dan tanpa parameter memicu rantai sebab-akibat  \nsistemik di tingkat implementasi. Pasal 85 ayat (2) UU LLAJ yan g hanya \nmerumuskan frasa “dapat diperpanjang” tanpa memberikan batasan jelas \nmengenai akibat hukum pasca-kedaluwarsa telah mendelegasikan \nkekosongan tersebut sepenuhnya kepada aturan pelaksana yang kak u. \nKekakuan aturan pelaksana ini, tatkala bersentuhan langsung den gan \nrealitas masyarakat bawah yang tidak memiliki fleksibilitas wak tu dan \nbiaya, bertransformasi menjadi beban ekonomi yang diskriminatif.",
+      "start_line": 637,
+      "end_line": 645
+    },
+    {
+      "heading": "77. Bahwa oleh karena itu, Bukti P-7 tidak diajukan agar Mahkamah Konstitusi",
+      "slug": "77-bahwa-oleh-karena-itu-bukti-p-7-tidak-diajukan-agar-mahkamah-konstitusi",
+      "text": "bertindak sebagai lembaga penegak hukum yang mengadili oknum at au \npelanggaran administratif secara kasuistis, melainkan digunakan sebagai \nbukti empiris yang valid untuk menunjukkan bahwa cacat normatif  dalam \nUndang-Undang berakibat langsung pada hancurnya perlindungan sosial \ndan ekonomi bagi kelompok rentan. Kehadiran parameter normatif yang \njelas dan berkeadilan seperti penetapan masa tenggang (grace pe riod) \nmerupakan keniscayaan konstitusional untuk memutus rantai beban biaya \nganda dan mengembalikan pelayanan publik agar sesuai dengan mandat \nperlindungan negara sebagaimana dijamin dalam Pasal 28D ayat (1) dan \nPasal 34 ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 647,
+      "end_line": 656
+    },
+    {
+      "heading": "78. Bahwa akibat dari tidak adanya parameter yang jelas dalam P asal 85 ayat",
+      "slug": "78-bahwa-akibat-dari-tidak-adanya-parameter-yang-jelas-dalam-p-asal-85-ayat",
+      "text": "(2) Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan \nAngkutan Jalan mengenai tata cara dan akibat hukum setelah masa  \nberlaku Surat Izin Mengemudi berakhir tidak hanya dapat dilihat  d a r i  \n\n19 \n \n \naspek normatif, tetapi juga mempunyai konsekuensi nyata dalam praktik. \nPemohon mengalami sendiri adanya beban biaya dan kesulitan dala m \nmemperoleh pelayanan perpanjangan Surat Izin Mengemudi setelah \nmasa berlakunya berakhir.",
+      "start_line": 658,
+      "end_line": 668
+    },
+    {
+      "heading": "79. Bahwa Pemohon tidak mendalilkan bahwa seluruh pelayanan",
+      "slug": "79-bahwa-pemohon-tidak-mendalilkan-bahwa-seluruh-pelayanan",
+      "text": "perpanjangan Surat Izin Mengemudi dilakukan dengan pungutan tid ak \nresmi, percaloan, atau praktik penyimpangan. Pemohon juga tidak  \nmenjadikan dugaan praktik tersebut sebagai objek pengujian dala m \nperkara a quo . Hal tersebut dikemukakan semata-mata untuk \nmenunjukkan bahwa ketika norma Undang-Undang tidak memberikan \nparameter yang cukup mengenai keadaan setelah masa berlaku Sura t \nIzin Mengemudi berakhir, konsekuensi administratif dan ekonomi yang \ntimbul dalam praktik dapat menjadi lebih berat bagi masyarakat,  \nkhususnya bagi masyarakat yang mempunyai keterbatasan ekonomi.",
+      "start_line": 670,
+      "end_line": 678
+    },
+    {
+      "heading": "80. Bahwa untuk memperkuat dalil tersebut, Pemohon melampirkan hasil",
+      "slug": "80-bahwa-untuk-memperkuat-dalil-tersebut-pemohon-melampirkan-hasil",
+      "text": "penelitian atau jurnal ilmiah yang membahas praktik pungutan tidak resmi, \npercaloan, maupun biaya tambahan dalam pelayanan publik, termas uk \npelayanan yang berkaitan dengan administrasi Surat Izin Mengemu di, \nsebagai bukti empiris bahwa persoalan beban masyarakat dalam \nmemperoleh pelayanan administratif bukan semata-mata merupakan \npengalaman subjektif Pemohon.",
+      "start_line": 680,
+      "end_line": 685
+    },
+    {
+      "heading": "81. Bahwa bukti jurnal tersebut tidak dimaksudkan oleh Pemohon untuk",
+      "slug": "81-bahwa-bukti-jurnal-tersebut-tidak-dimaksudkan-oleh-pemohon-untuk",
+      "text": "membuktikan bahwa norma Pasal 85 ayat (2) secara langsung \nmenyebabkan setiap praktik pungutan tidak resmi atau percaloan.  \nPemohon menggunakan bukti tersebut secara terbatas untuk \nmenunjukkan adanya konteks empiris yang relevan dengan akibat d ari \nsuatu sistem administrasi yang tidak memberikan kepastian dan \nkemudahan yang proporsional bagi masyarakat.",
+      "start_line": 687,
+      "end_line": 692
+    },
+    {
+      "heading": "82. Bahwa dengan demikian, terdapat hubungan yang jelas antara norma",
+      "slug": "82-bahwa-dengan-demikian-terdapat-hubungan-yang-jelas-antara-norma",
+      "text": "yang diuji, akibat administratif, dan kerugian konstitusional P emohon, \nyaitu: \nPasal 85 ayat (2) UU LLAJ \n\n20 \n \n \n↓ \nfrasa “dapat diperpanjang” tidak memberikan parameter yang cuku p \nmengenai keadaan setelah masa berlaku SIM berakhir \n↓ \nkonsekuensi setelah kedaluwarsa ditentukan lebih lanjut melalui  \nperaturan pelaksana \n↓ \npemegang SIM yang terlambat menghadapi konsekuensi administrati f \ndan beban yang berbeda dengan perpanjangan sebelum masa berlaku  \nberakhir \n↓ \ntimbul beban waktu, prosedur, dan biaya \n↓ \nbeban tersebut menjadi lebih berat bagi masyarakat dengan kemampuan \nekonomi terbatas \n↓ \nberpotensi menimbulkan ketidakpastian hukum dan perlakuan \nadministratif yang tidak proporsional.",
+      "start_line": 694,
+      "end_line": 718
+    },
+    {
+      "heading": "83. Bahwa oleh karena itu, jurnal atau hasil penelitian yang di ajukan sebagai",
+      "slug": "83-bahwa-oleh-karena-itu-jurnal-atau-hasil-penelitian-yang-di-ajukan-sebagai",
+      "text": "bukti tidak berdiri sendiri dan bukan merupakan dasar utama permohonan \na quo. Dasar utama permohonan tetap terletak pada cacat normatif Pasal \n85 ayat (2) UU LLAJ, sedangkan bukti empiris tersebut berfungsi  \nmemperkuat bahwa ketidakjelasan norma tersebut mempunyai releva nsi \nnyata dalam kehidupan masyarakat.",
+      "start_line": 720,
+      "end_line": 724
+    },
+    {
+      "heading": "84. Bahwa Pemohon dengan demikian tidak meminta Mahkamah Konsti tusi",
+      "slug": "84-bahwa-pemohon-dengan-demikian-tidak-meminta-mahkamah-konsti-tusi",
+      "text": "untuk menilai atau mengadili satu per satu dugaan pelanggaran y ang \nterjadi dalam praktik pelayanan Surat Izin Mengemudi. Pemohon \nmemohon Mahkamah menilai apakah norma yang menjadi dasar \npengaturan perpanjangan Surat Izin Mengemudi telah memberikan \nkepastian hukum dan perlindungan yang proporsional bagi warga negara, \ntermasuk ketika masa berlaku Surat Izin Mengemudi telah berakhir.",
+      "start_line": 726,
+      "end_line": 731
+    },
+    {
+      "heading": "85. Bahwa dengan konstruksi demikian, bukti jurnal yang diajuka n Pemohon",
+      "slug": "85-bahwa-dengan-konstruksi-demikian-bukti-jurnal-yang-diajuka-n-pemohon",
+      "text": "mempunyai kedudukan sebagai bukti pendukung empiris, sedangkan \n\n21 \n \n \npersoalan konstitusional yang dimohonkan untuk diperiksa tetap terpusat \npada norma Pasal 85 ayat (2) UU LLAJ dan keterkaitannya dengan hak \natas kepastian hukum sebagaimana dijamin dalam Pasal 28D ayat ( 1) \nUUD NRI Tahun 1945 serta kewajiban negara memberikan perlindungan \nsosial sebagaimana dimaksud dalam Pasal 34 ayat (1) UUD NRI Tah un \n1945. \nNama \nTemuan / \nAspek \nNominal / \nBesaran Jenis Pungutan / Praktik \nPungutan \nTidak Resmi \n(Modus \nPembuatan \nInstan) \nRp.600.000,00 \nsampai dengan \nRp900.000,00 \nPembayaran tidak resmi (petty corruption) \nyang diarahkan oleh oknum petugas atau \ncalo agar pemohon bisa langsung \nmendapatkan SIM tanpa melalui ujian \nteori dan praktik. \nPungutan \nTidak Resmi \n(Kasus \nNarasumber \nS.A. Tahun \n2022\n) \nRp2.500.000,00 \nPembayaran tidak resmi untuk penerbitan \npaket ganda (SIM A dan SIM C) dengan \nwaktu penyelesaian instan (8 s.d. 10 jam).\n Sumber: Data diolah  (Bukti P-7)",
+      "start_line": 733,
+      "end_line": 773
+    },
+    {
+      "heading": "86. Bahwa berdasarkan seluruh uraian faktual, empiris, dan ilmi ah",
+      "slug": "86-bahwa-berdasarkan-seluruh-uraian-faktual-empiris-dan-ilmi-ah",
+      "text": "sebagaimana tersebut di atas, Pemohon tidak mendalilkan bahwa s etiap \npelayanan Surat Izin Mengemudi mengandung pungutan tidak resmi atau \nbahwa praktik tersebut secara langsung disebabkan oleh Pasal 85  ayat \n(2) UU LLAJ. (Bukti P-7) justru diajukan untuk menunjukkan bahwa beban \nadministratif dan ekonomi dalam pelayanan Surat Izin Mengemudi \nmempunyai dimensi empiris yang nyata dan dapat memberikan dampa k \nyang lebih berat terhadap masyarakat yang mempunyai keterbatasa n \nkemampuan ekonomi. Dalam perspektif Pasal 34 ayat (1) UUD NRI Tahun \n1945, keadaan tersebut relevan untuk menilai apakah pengaturan negara \ntelah memberikan perlindungan dan akses administratif yang mema dai \nbagi kelompok masyarakat yang berada dalam kondisi rentan. \na. Pengabaian terhadap mandat perlindungan negara: Bahwa Pasal 34 \nayat (1) UUD NRI Tahun 1945 menempatkan negara pada kewajiban \nkonstitusional untuk memelihara fakir miskin. Pemohon mendalilk an \nbahwa kewajiban tersebut tidak semata-mata dipahami sebagai \npemberian bantuan sosial, tetapi juga harus tercermin dalam \npenyelenggaraan administrasi negara yang tidak menimbulkan beban \n\n22 \n \n \nyang secara tidak proporsional menghambat akses masyarakat rentan \nterhadap pelayanan publik. Ketika norma undang-undang tidak \nmemberikan parameter yang jelas mengenai konsekuensi \nadministratif setelah masa berlaku SIM berakhir, keadaan terseb ut \nberpotensi menghasilkan beban yang lebih berat bagi warga yang \nmempunyai keterbatasan ekonomi. \nb. Beban administratif yang tidak proporsional terhadap masyara kat \nrentan: Bahwa pemegang SIM yang masa berlakunya telah berakhir \ndan tidak mempunyai kemampuan ekonomi yang memadai dapat \nmenghadapi hambatan yang lebih besar apabila satu-satunya \nkonsekuensi yang tersedia adalah mengikuti proses penerbitan SI M \nbaru. Dalam keadaan demikian, persoalan yang dihadapi bukan \nsemata-mata mengenai kewajiban memenuhi persyaratan \nkeselamatan dan kompetensi, melainkan juga mengenai apakah \nhukum menyediakan kesempatan administratif yang proporsional bagi \nwarga negara untuk memulihkan status administratifnya tanpa \nmenanggung beban yang tidak semestinya.",
+      "start_line": 775,
+      "end_line": 812
+    },
+    {
+      "heading": "c. Bukti empiris sebagai penguat, bukan sebagai objek pengujian: Bahwa",
+      "slug": "c-bukti-empiris-sebagai-penguat-bukan-sebagai-objek-pengujian-bahwa",
+      "text": "jurnal ilmiah, pengalaman Pemohon, dan data sebagaimana \ntercantum dalam Bukti P-7 tidak diajukan untuk meminta Mahkamah  \nKonstitusi mengadili praktik pungutan tidak resmi secara indivi dual, \nmelainkan untuk memperlihatkan konteks empiris bahwa desain \npelayanan administratif mempunyai konsekuensi ekonomi yang nyata. \nOleh karena itu, bukti-bukti tersebut memperkuat dalil Pemohon \nmengenai pentingnya suatu parameter normatif yang memberikan \nkepastian, proporsionalitas, dan perlindungan bagi masyarakat \ndengan keterbatasan ekonomi.",
+      "start_line": 814,
+      "end_line": 822
+    },
+    {
+      "heading": "d. Hubungan dengan kerugian konstitusional Pemohon: Bahwa",
+      "slug": "d-hubungan-dengan-kerugian-konstitusional-pemohon-bahwa",
+      "text": "Pemohon sendiri mengalami keadaan konkret berupa berakhirnya \nmasa berlaku SIM dan menghadapi konsekuensi administratif yang \nharus ditempuh untuk memperoleh kembali SIM. Keadaan tersebut, \napabila dikaitkan dengan kondisi ekonomi Pemohon serta bukti \nempiris yang diajukan, menunjukkan bahwa persoalan yang diuji \n\n23 \n \n \nbukan semata-mata persoalan teknis pelayanan, melainkan persoalan \nmengenai kecukupan norma undang-undang dalam memberikan \nkepastian dan perlindungan hukum bagi warga negara.",
+      "start_line": 824,
+      "end_line": 835
+    },
+    {
+      "heading": "87. Bahwa dengan demikian, Pasal 34 ayat (1) UUD NRI Tahun 1945",
+      "slug": "87-bahwa-dengan-demikian-pasal-34-ayat-1-uud-nri-tahun-1945",
+      "text": "digunakan Pemohon sebagai batu uji tambahan untuk menilai apaka h \nnorma a quo  telah memberikan perlindungan yang memadai terhadap \nkelompok masyarakat yang berada dalam kondisi rentan secara ekonomi, \nsedangkan Pasal 28D ayat (1) UUD NRI Tahun 1945 tetap menjadi b atu \nuji utama dalam menilai kepastian hukum dari frasa “dapat diperpanjang” \ndalam Pasal 85 ayat (2) UU LLAJ. \nD. INKONSTITUSIONALITAS PASAL 85 AYAT (2) UU LLAJ TERHADAP \nPASAL 28D AYAT (1) UUD NRI 1945",
+      "start_line": 837,
+      "end_line": 844
+    },
+    {
+      "heading": "88. Bahwa Pasal 28D ayat (1) UUD NRI Tahun 1945 menjamin setiap orang",
+      "slug": "88-bahwa-pasal-28d-ayat-1-uud-nri-tahun-1945-menjamin-setiap-orang",
+      "text": "berhak atas pengakuan, jaminan, perlindungan, dan kepastian huk um \nyang adil serta perlakuan yang sama di hadapan hukum.",
+      "start_line": 846,
+      "end_line": 847
+    },
+    {
+      "heading": "89. Bahwa kepastian hukum yang adil tidak hanya menghendaki ada nya",
+      "slug": "89-bahwa-kepastian-hukum-yang-adil-tidak-hanya-menghendaki-ada-nya",
+      "text": "suatu norma yang mengatur hak dan kewajiban warga negara, tetapi juga \nmenghendaki agar norma tersebut memberikan parameter yang cukup  \njelas mengenai akibat hukum dari suatu keadaan yang diatur oleh  \nUndang-Undang.",
+      "start_line": 849,
+      "end_line": 852
+    },
+    {
+      "heading": "90. Bahwa Pasal 85 ayat (2) UU LLAJ telah menentukan masa berla ku SIM",
+      "slug": "90-bahwa-pasal-85-ayat-2-uu-llaj-telah-menentukan-masa-berla-ku-sim",
+      "text": "selama 5 (lima) tahun, namun ketika menggunakan frasa “dapat \ndiperpanjang”, norma tersebut tidak secara memadai menentukan \nbagaimana kedudukan hukum pemegang SIM ketika masa berlaku \ntersebut telah berakhir.",
+      "start_line": 854,
+      "end_line": 857
+    },
+    {
+      "heading": "91. Bahwa tidak adanya parameter normatif tersebut menimbulkan persoalan",
+      "slug": "91-bahwa-tidak-adanya-parameter-normatif-tersebut-menimbulkan-persoalan",
+      "text": "mengenai apakah berakhirnya masa berlaku SIM secara otomatis \nmenghapus kedudukan pemegang SIM sebagai pemegang SIM yang \nsebelumnya telah memenuhi persyaratan kompetensi, ataukah masih  \nterdapat ruang hukum untuk memperpanjang SIM tersebut dengan \nmekanisme tertentu yang berbeda dari penerbitan SIM bagi orang yang \nbelum pernah memiliki SIM. \n\n24",
+      "start_line": 859,
+      "end_line": 868
+    },
+    {
+      "heading": "92. Bahwa persoalan tersebut menjadi penting karena pemegang SI M yang",
+      "slug": "92-bahwa-persoalan-tersebut-menjadi-penting-karena-pemegang-si-m-yang",
+      "text": "masa berlakunya berakhir bukanlah orang yang sama kedudukannya \ndengan orang yang tidak pernah memiliki SIM, karena pemegang SI M \nsebelumnya telah melalui proses pemenuhan persyaratan dan evalu asi \nyang ditentukan oleh Undang-Undang.",
+      "start_line": 870,
+      "end_line": 873
+    },
+    {
+      "heading": "93. Bahwa dengan demikian, Undang-Undang seharusnya memberikan",
+      "slug": "93-bahwa-dengan-demikian-undang-undang-seharusnya-memberikan",
+      "text": "parameter yang dapat membedakan secara jelas antara berakhirnya  \nmasa berlaku suatu dokumen izin dengan hilangnya seluruh dasar \npengakuan atas kompetensi yang sebelumnya telah dimiliki dan \ndinyatakan melalui penerbitan SIM.",
+      "start_line": 875,
+      "end_line": 878
+    },
+    {
+      "heading": "94. Bahwa menurut Pemohon, ketidakjelasan tersebut tidak dapat",
+      "slug": "94-bahwa-menurut-pemohon-ketidakjelasan-tersebut-tidak-dapat",
+      "text": "sepenuhnya diserahkan kepada peraturan pelaksana atau praktik \nadministratif, karena persoalan mengenai hak, kedudukan, dan ak ibat \nhukum warga negara seharusnya terlebih dahulu mempunyai dasar yang \ncukup jelas dalam Undang-Undang.",
+      "start_line": 880,
+      "end_line": 883
+    },
+    {
+      "heading": "95. Bahwa hal tersebut semakin penting karena Mahkamah Konstitu si sendiri",
+      "slug": "95-bahwa-hal-tersebut-semakin-penting-karena-mahkamah-konstitu-si-sendiri",
+      "text": "dalam Putusan Nomor 42/PUU-XXI/2023 telah memberikan perhatian \nterhadap frasa “dapat” dalam Pasal 85 ayat (2) dan menjelaskan bahwa \nkata tersebut menunjukkan sifat diskresioner dari kewenangan ya ng \ndiberikan kepada seseorang atau lembaga. Pada saat yang sama, \nMahkamah menegaskan bahwa petugas pelayanan SIM harus \nmelaksanakan tugas secara profesional dan memberikan pelayanan \nsecara optimal.",
+      "start_line": 885,
+      "end_line": 891
+    },
+    {
+      "heading": "96. Bahwa Pemohon memahami dan menguji ulang pertimbangan",
+      "slug": "96-bahwa-pemohon-memahami-dan-menguji-ulang-pertimbangan",
+      "text": "Mahkamah Konstitusi dalam Putusan Nomor 42/PUU-XXI/2023 yang \nmenyatakan bahwa masa berlaku Surat Izin Mengemudi (SIM) selama  5 \n(lima) tahun merupakan ranah kebijakan hukum terbuka (open lega l \npolicy) guna evaluasi berkala kompetensi serta kesehatan jasman i dan \nrohani pengemudi demi keselamatan lalu lintas.",
+      "start_line": 893,
+      "end_line": 897
+    },
+    {
+      "heading": "97. Bahwa Pemohon menerima asas evaluasi kompetensi tersebut se bagai",
+      "slug": "97-bahwa-pemohon-menerima-asas-evaluasi-kompetensi-tersebut-se-bagai",
+      "text": "keniscayaan pengamanan berlalu lintas, namun Pemohon mendalilka n \nbahwa konsekuensi hukum administratif ketika masa aktif SIM ter lewat \n(mati), di mana pemegang SIM langsung dipaksa mengulang seluruh  \n\n25 \n \n \nproses pengujian (teori dan praktik) dari awal, merupakan bentu k sanksi \nyang tidak proporsional (punitive overkill) dan mencederai prin sip \nkepastian hukum yang adil (Pasal 28D ayat (1) UUD 1945).",
+      "start_line": 899,
+      "end_line": 908
+    },
+    {
+      "heading": "98. Bahwa keterampilan dasar mengemudi seseorang tidak serta-me rta",
+      "slug": "98-bahwa-keterampilan-dasar-mengemudi-seseorang-tidak-serta-me-rta",
+      "text": "lenyap atau menjadi \"nol\" hanya karena melampaui batas tanggal \nkedaluwarsa administratif. Menghukum keterlambatan atau kelalai an \nadministratif dengan mencabut status kompetensi dan mewajibkan ujian \nulang dari awal kehilangan rasionalitas hukum serta keadilan substansial.",
+      "start_line": 910,
+      "end_line": 913
+    },
+    {
+      "heading": "99. Bahwa ketiadaan gradasi sanksi yang adil seperti mengganti keharusan",
+      "slug": "99-bahwa-ketiadaan-gradasi-sanksi-yang-adil-seperti-mengganti-keharusan",
+      "text": "ujian ulang dari nol dengan mekanisme denda administratif atau \npembaharuan kesehatan berkala membuka ruang penyalahgunaan \nwewenang, inefisiensi, dan praktik percaloan yang membebani war ga \nnegara.",
+      "start_line": 915,
+      "end_line": 918
+    },
+    {
+      "heading": "100. Bahwa oleh karena itu, norma Pasal 85 ayat (2) UU LLAJ ber tentangan",
+      "slug": "100-bahwa-oleh-karena-itu-norma-pasal-85-ayat-2-uu-llaj-ber-tentangan",
+      "text": "dengan UUD 1945 sepanjang penafsiran hukumnya dimaknai secara \nkaku hingga menghapus status kompetensi dan memaksa warga \nmengulang proses pengujian dari awal ketika masa berlaku terlewat.",
+      "start_line": 920,
+      "end_line": 922
+    },
+    {
+      "heading": "101. Bahwa menurut Pemohon, justru karena frasa “dapat diperpan jang”",
+      "slug": "101-bahwa-menurut-pemohon-justru-karena-frasa-dapat-diperpan-jang",
+      "text": "mempunyai konsekuensi terhadap kewenangan dalam pelayanan SIM, \nmaka Undang-Undang harus memberikan batasan dan parameter yang \nmemadai agar kewenangan tersebut tidak menimbulkan ketidakpasti an \nhukum bagi warga negara.",
+      "start_line": 924,
+      "end_line": 927
+    },
+    {
+      "heading": "102. Bahwa tanpa parameter tersebut, terdapat ruang bagi perbed aan",
+      "slug": "102-bahwa-tanpa-parameter-tersebut-terdapat-ruang-bagi-perbed-aan",
+      "text": "perlakuan terhadap warga negara yang berada dalam keadaan yang \nsecara substansial sama, khususnya antara pemegang SIM yang mas a \nberlakunya baru saja berakhir dengan orang yang sama sekali bel um \npernah memiliki SIM. \nE. KEADAAN KONKRET PEMOHON",
+      "start_line": 929,
+      "end_line": 933
+    },
+    {
+      "heading": "103. Bahwa Pemohon mengalami kendala nyata secara ekonomi untuk",
+      "slug": "103-bahwa-pemohon-mengalami-kendala-nyata-secara-ekonomi-untuk",
+      "text": "melakukan perpanjangan Surat Izin Mengemudi (SIM) C akibat tida k \nadanya instrumen perlindungan biaya atau keringanan bagi masyar akat \ndari golongan ekonomi pra-sejahtera menengah ke bawah. Akibat \nketidakmampuan finansial tersebut, Pemohon terpaksa membiarkan SIM \n\n26 \n \n \nC miliknya tidak aktif sejak tahun 2020 hingga permohonan ini d iajukan \n(kurun waktu 6 tahun);",
+      "start_line": 935,
+      "end_line": 944
+    },
+    {
+      "heading": "104. Bahwa dalam keadaan mendesak yang mengharuskan Pemohon",
+      "slug": "104-bahwa-dalam-keadaan-mendesak-yang-mengharuskan-pemohon",
+      "text": "bepergian menggunakan sepeda motor untuk menunjang aktivitas \npenghidupan sehari-hari, Pemohon berada dalam situasi terpaksa \nmenghindari jalan raya utama dan memilih untuk berboncengan seb agai \npenumpang atau mencari rute alternatif melalui jalan-jalan kamp ung dan \njalan antarkecamatan. Kondisi ini mendistorsi efisiensi waktu p erjalanan \nsecara drastis, di mana jarak tempuh normal dari Kabupaten Blora menuju \nKabupaten Grobogan yang seharusnya dapat diselesaikan dalam wak tu \n1 jam, harus ditempuh selama 2 jam akibat pengalihan rute demi \nmenghindari razia atau penegakan hukum yang tidak memberikan ru ang \ntoleransi administratif;",
+      "start_line": 946,
+      "end_line": 955
+    },
+    {
+      "heading": "105. Bahwa untuk keperluan perjalanan jarak jauh antarkota, Pemohon praktis",
+      "slug": "105-bahwa-untuk-keperluan-perjalanan-jarak-jauh-antarkota-pemohon-praktis",
+      "text": "tidak dapat menggunakan kendaraan pribadinya dan terpaksa beral ih \nmenggunakan layanan transportasi umum massal, seperti kereta ap i, \nkarena ketiadaan legitimasi administratif dan rasa takut akibat status SIM \nC yang mati tanpa adanya solusi perpanjangan yang rasional.",
+      "start_line": 957,
+      "end_line": 960
+    },
+    {
+      "heading": "106. Bahwa pembiaran masa aktif SIM dan keterpaksaan berkendara dalam",
+      "slug": "106-bahwa-pembiaran-masa-aktif-sim-dan-keterpaksaan-berkendara-dalam",
+      "text": "kondisi tersebut bukanlah bentuk pembangkangan hukum atau \nkesengajaan untuk melanggar aturan lalu lintas secara melawan h ukum \n(mens rea), melainkan manifestasi dari keadaan darurat terpaksa karena \nhukum (noodtoestand) akibat norma undang-undang yang kaku dan \nmengabaikan realitas sosio-ekonomi masyarakat rentan.",
+      "start_line": 962,
+      "end_line": 966
+    },
+    {
+      "heading": "107. Bahwa fakta-fakta konkret yang dialami oleh Pemohon, yakni terpaksa",
+      "slug": "107-bahwa-fakta-fakta-konkret-yang-dialami-oleh-pemohon-yakni-terpaksa",
+      "text": "membiarkan SIM C tidak aktif selama 6 (enam) tahun sejak 2020 k arena \nketidakmampuan finansial, harus memutar arah melalui jalan-jala n \nkampung dan antarkecamatan yang melipatgandakan waktu tempuh \nperjalanan (dari 1 jam menjadi 2 jam rute Blora–Grobogan), sert a harus \nberalih menggunakan kereta api untuk perjalanan jauh antarkota akibat \nketakutan kehilangan mobilitas, bukanlah sekadar masalah teknis  d i  \nlapangan, melainkan wujud nyata dari hilangnya kepastian hukum yang \nadil (fair legal certainty); \n\n27",
+      "start_line": 968,
+      "end_line": 979
+    },
+    {
+      "heading": "108. Bahwa ketiadaan norma dalam Pasal 85 ayat (2) UU LLAJ yang",
+      "slug": "108-bahwa-ketiadaan-norma-dalam-pasal-85-ayat-2-uu-llaj-yang",
+      "text": "memberikan ruang pemulihan, batas toleransi, atau keringanan \nadministratif bagi pemegang SIM yang masa berlakunya telah bera khir \ntelah menciptakan situasi abu-abu (grey area)  yang menempatkan \nPemohon pada posisi rentan: di satu sisi Pemohon membutuhkan \nmobilitas untuk mempertahankan penghidupan, namun di sisi lain hukum \ntidak menyediakan koridor yang adil bagi warga negara kurang ma mpu \nuntuk memperpanjang dokumennya tanpa harus dihukum melalui \nprosedur pembuatan SIM baru dari nol yang mahal;",
+      "start_line": 981,
+      "end_line": 988
+    },
+    {
+      "heading": "109. Bahwa pemaksaan rigiditas norma administratif tanpa memper hatikan",
+      "slug": "109-bahwa-pemaksaan-rigiditas-norma-administratif-tanpa-memper-hatikan",
+      "text": "kondisi sosio-ekonomi masyarakat pada akhirnya mereduksi hak \nkonstitusional Pemohon untuk mendapatkan perlakukan yang sama d an \nadil di hadapan hukum. Hukum yang seharusnya melindungi, \nmemberdayakan, dan memberikan kemudahan pelayanan publik bagi \nwarganya, justru menjelma menjadi instrumen yang membatasi ruan g \ngerak, mendistorsi efisiensi ekonomi, dan melahirkan ketidakpas tian \nstatus hukum yang kronis bagi Pemohon;",
+      "start_line": 990,
+      "end_line": 996
+    },
+    {
+      "heading": "110. Bahwa berdasarkan uraian tersebut, terbukti secara hukum b ahwa",
+      "slug": "110-bahwa-berdasarkan-uraian-tersebut-terbukti-secara-hukum-b-ahwa",
+      "text": "terdapat hubungan sebab-akibat ( causal verband ) yang sangat erat \nantara berlakunya norma Pasal 85 ayat (2) UU LLAJ dengan kerugi an \nkonstitusional yang dialami Pemohon, di mana ketidakpastian nor ma a \nquo tidak hanya merampas hak konstitusional Pemohon atas kepastian  \nhukum yang adil sebagaimana dijamin di dalam Pasal 28D ayat (1), tetapi \njuga mengabaikan kewajiban negara dalam memberikan perlindungan  \nsosial dan penghidupan yang layak bagi kelompok rentan dan fakir miskin \nsebagaimana dijamin di dalam Pasal 28D ayat (1) juncto Pasal 34  ayat \n(1) UUD NRI Tahun 1945. \nF. NORMA UNDANG-UNDANG TIDAK BOLEH MENYERAHKAN",
+      "start_line": 998,
+      "end_line": 1007
+    },
+    {
+      "heading": "111. Bahwa Pemohon memahami bahwa pelaksanaan pelayanan SIM",
+      "slug": "111-bahwa-pemohon-memahami-bahwa-pelaksanaan-pelayanan-sim",
+      "text": "memerlukan aturan teknis dan administratif.",
+      "start_line": 1010,
+      "end_line": 1010
+    },
+    {
+      "heading": "112. Bahwa namun demikian, aturan pelaksana pada hakikatnya han ya",
+      "slug": "112-bahwa-namun-demikian-aturan-pelaksana-pada-hakikatnya-han-ya",
+      "text": "berfungsi melaksanakan dan menjabarkan norma Undang-Undang, \n\n28 \n \n \nbukan menciptakan sendiri konsekuensi hukum yang secara substan sial \nmenentukan hilang atau tidaknya kedudukan hukum warga negara.",
+      "start_line": 1012,
+      "end_line": 1018
+    },
+    {
+      "heading": "113. Bahwa oleh karena itu, apabila berakhirnya masa berlaku SI M",
+      "slug": "113-bahwa-oleh-karena-itu-apabila-berakhirnya-masa-berlaku-si-m",
+      "text": "menimbulkan konsekuensi hukum tertentu terhadap pemegangnya, maka \nkonsekuensi hukum tersebut harus mempunyai dasar normatif yang \ncukup dalam Undang-Undang.",
+      "start_line": 1020,
+      "end_line": 1022
+    },
+    {
+      "heading": "114. Bahwa menurut Pemohon, frasa “dapat diperpanjang” belum memberikan",
+      "slug": "114-bahwa-menurut-pemohon-frasa-dapat-diperpanjang-belum-memberikan",
+      "text": "batasan yang cukup mengenai persoalan tersebut.",
+      "start_line": 1024,
+      "end_line": 1024
+    },
+    {
+      "heading": "115. Bahwa keadaan tersebut berpotensi menimbulkan ketidakpastian hukum,",
+      "slug": "115-bahwa-keadaan-tersebut-berpotensi-menimbulkan-ketidakpastian-hukum",
+      "text": "karena warga negara tidak dapat memperoleh kepastian hanya deng an \nmembaca norma Undang-Undang mengenai apa yang terjadi terhadap \nkedudukan hukumnya setelah masa berlaku SIM berakhir. \nG. PERMOHONAN PEMOHON TIDAK BERTENTANGAN DENGAN",
+      "start_line": 1026,
+      "end_line": 1029
+    },
+    {
+      "heading": "116. Bahwa Pemohon menegaskan kembali bahwa Permohonan a quo tidak",
+      "slug": "116-bahwa-pemohon-menegaskan-kembali-bahwa-permohonan-a-quo-tidak",
+      "text": "bermaksud mengurangi standar keselamatan lalu lintas.",
+      "start_line": 1032,
+      "end_line": 1032
+    },
+    {
+      "heading": "117. Bahwa Pemohon menerima prinsip bahwa penerbitan dan perpan jangan",
+      "slug": "117-bahwa-pemohon-menerima-prinsip-bahwa-penerbitan-dan-perpan-jangan",
+      "text": "SIM harus tetap memperhatikan persyaratan kesehatan, kompetensi, dan \nkeselamatan sebagaimana menjadi pertimbangan Mahkamah dalam \nPutusan Nomor 42/PUU-XXI/2023.",
+      "start_line": 1034,
+      "end_line": 1036
+    },
+    {
+      "heading": "118. Bahwa justru karena keselamatan lalu lintas merupakan tujuan utama UU",
+      "slug": "118-bahwa-justru-karena-keselamatan-lalu-lintas-merupakan-tujuan-utama-uu",
+      "text": "LLAJ, maka pengaturan mengenai perpanjangan SIM harus dibangun \nsecara jelas, terukur, proporsional, dan memberikan kepastian h ukum \nkepada warga negara.",
+      "start_line": 1038,
+      "end_line": 1040
+    },
+    {
+      "heading": "119. Bahwa kepastian hukum bagi pemegang SIM tidak harus dimakn ai",
+      "slug": "119-bahwa-kepastian-hukum-bagi-pemegang-sim-tidak-harus-dimakn-ai",
+      "text": "sebagai pemberian SIM seumur hidup, melainkan sebagai kepastian  \nmengenai hak, kewajiban, prosedur, dan akibat hukum ketika masa  \nberlaku SIM telah berakhir.",
+      "start_line": 1042,
+      "end_line": 1044
+    },
+    {
+      "heading": "120. Bahwa dengan konstruksi demikian, kepentingan keselamatan lalu lintas",
+      "slug": "120-bahwa-dengan-konstruksi-demikian-kepentingan-keselamatan-lalu-lintas",
+      "text": "dan kepastian hukum warga negara tidaklah saling bertentangan, \nmelainkan dapat berjalan secara bersamaan.",
+      "start_line": 1046,
+      "end_line": 1047
+    },
+    {
+      "heading": "121. Bahwa persoalan konstitusional dalam Pasal 85 ayat (2) UU LLAJ tidak",
+      "slug": "121-bahwa-persoalan-konstitusional-dalam-pasal-85-ayat-2-uu-llaj-tidak",
+      "text": "terletak pada penetapan masa berlaku Surat Izin Mengemudi selam a 5 \n\n29 \n \n \n(lima) tahun, melainkan pada ketiadaan pengaturan yang memberik an \nkepastian mengenai hak dan mekanisme perpanjangan ketika pemegang \nSIM terlambat melakukan perpanjangan setelah masa berlaku SIM \nberakhir.",
+      "start_line": 1049,
+      "end_line": 1057
+    },
+    {
+      "heading": "122. Bahwa frasa “dapat diperpanjang” mengandung pengakuan norm atif",
+      "slug": "122-bahwa-frasa-dapat-diperpanjang-mengandung-pengakuan-norm-atif",
+      "text": "bahwa SIM yang telah diterbitkan dapat memperoleh perpanjangan,  \nnamun norma tersebut tidak memberikan parameter yang memadai \nmengenai kedudukan pemegang SIM yang terlambat melakukan \nperpanjangan, termasuk mengenai adanya kesempatan yang \nproporsional untuk melakukan perpanjangan setelah berakhirnya m asa \nberlaku.",
+      "start_line": 1059,
+      "end_line": 1064
+    },
+    {
+      "heading": "123. Bahwa ketiadaan parameter tersebut menimbulkan ketidakpastian hukum",
+      "slug": "123-bahwa-ketiadaan-parameter-tersebut-menimbulkan-ketidakpastian-hukum",
+      "text": "bagi warga negara yang sebelumnya telah memperoleh SIM secara s ah, \nkarena Undang-Undang tidak memberikan kejelasan mengenai apakah  \nketerlambatan administratif secara langsung menghilangkan kesempatan \nuntuk melakukan perpanjangan atau masih memberikan ruang bagi \npemegang SIM untuk memulihkan status administratifnya melalui \nmekanisme perpanjangan.",
+      "start_line": 1066,
+      "end_line": 1071
+    },
+    {
+      "heading": "124. Bahwa bagi Pemohon, persoalan tersebut bukan bersifat hipotetis, karena",
+      "slug": "124-bahwa-bagi-pemohon-persoalan-tersebut-bukan-bersifat-hipotetis-karena",
+      "text": "Pemohon memiliki SIM C atas nama Jangkung Sido Sentosa yang tel ah \nberakhir masa berlakunya, sebagaimana dibuktikan dengan (Bukti P-4).",
+      "start_line": 1073,
+      "end_line": 1074
+    },
+    {
+      "heading": "125. Bahwa oleh karena itu, ketiadaan parameter mengenai kesemp atan",
+      "slug": "125-bahwa-oleh-karena-itu-ketiadaan-parameter-mengenai-kesemp-atan",
+      "text": "perpanjangan setelah masa berlaku berakhir secara langsung \nmenempatkan Pemohon dalam keadaan hukum yang tidak memperoleh \nkepastian mengenai hak administratif yang melekat pada statusny a \nsebagai orang yang sebelumnya telah memiliki SIM secara sah.",
+      "start_line": 1076,
+      "end_line": 1079
+    },
+    {
+      "heading": "126. Bahwa Pemohon tidak memohon agar masa berlaku SIM selama 5 (lima)",
+      "slug": "126-bahwa-pemohon-tidak-memohon-agar-masa-berlaku-sim-selama-5-lima",
+      "text": "tahun dihapuskan, tidak memohon agar SIM berlaku seumur hidup, dan \ntidak memohon agar kewajiban memenuhi persyaratan kesehatan dan  \nkompetensi dihilangkan.",
+      "start_line": 1081,
+      "end_line": 1083
+    },
+    {
+      "heading": "127. Bahwa Pemohon juga tidak memohon agar selama masa tenggang SIM",
+      "slug": "127-bahwa-pemohon-juga-tidak-memohon-agar-selama-masa-tenggang-sim",
+      "text": "yang telah kedaluwarsa diperlakukan sebagai SIM yang masih berl aku \nuntuk kepentingan penegakan hukum lalu lintas di jalan. Masa te nggang \n\n30 \n \n \nyang dimohonkan Pemohon semata-mata berkaitan dengan kesempatan \nadministratif untuk melakukan perpanjangan SIM. Konsep yang sam a \ntelah ditegaskan dalam berkas perkara sebelumnya.",
+      "start_line": 1085,
+      "end_line": 1093
+    },
+    {
+      "heading": "128. Bahwa dengan demikian, adanya kesempatan administratif unt uk",
+      "slug": "128-bahwa-dengan-demikian-adanya-kesempatan-administratif-unt-uk",
+      "text": "melakukan perpanjangan setelah masa berlaku berakhir tidak iden tik \ndengan memberikan hak untuk mengemudikan kendaraan dengan SIM \nyang telah kedaluwarsa, sehingga tidak menghilangkan kewenangan  \nnegara untuk melakukan penegakan hukum lalu lintas.",
+      "start_line": 1095,
+      "end_line": 1098
+    },
+    {
+      "heading": "129. Bahwa menurut Pemohon, persoalan mengenai berapa lama masa",
+      "slug": "129-bahwa-menurut-pemohon-persoalan-mengenai-berapa-lama-masa",
+      "text": "tenggang, bagaimana jenjang keterlambatan ditentukan, dan sanks i \nadministratif apa yang dikenakan merupakan hal yang dapat diatu r lebih \nlanjut oleh pembentuk Undang-Undang dan/atau peraturan pelaksan a \nsepanjang mempunyai dasar dan batasan yang jelas dalam Undang-\nUndang.",
+      "start_line": 1100,
+      "end_line": 1104
+    },
+    {
+      "heading": "130. Bahwa yang menjadi persoalan konstitusional justru adalah ketika",
+      "slug": "130-bahwa-yang-menjadi-persoalan-konstitusional-justru-adalah-ketika",
+      "text": "Undang-Undang sama sekali tidak memberikan jaminan dan paramete r \nmengenai adanya kesempatan administratif tersebut, sehingga sel uruh \nkonsekuensi keterlambatan dapat ditentukan secara kaku pada ti ngkat \npelaksanaan tanpa pedoman normatif yang cukup dalam Undang-\nUndang.",
+      "start_line": 1106,
+      "end_line": 1110
+    },
+    {
+      "heading": "131. Bahwa keadaan tersebut menimbulkan ketidakpastian hukum ya ng tidak",
+      "slug": "131-bahwa-keadaan-tersebut-menimbulkan-ketidakpastian-hukum-ya-ng-tidak",
+      "text": "sejalan dengan Pasal 28D ayat (1) UUD NRI Tahun 1945, karena wa rga \nnegara tidak memperoleh kepastian mengenai kedudukan dan hak \nadministratifnya setelah masa berlaku SIM berakhir.",
+      "start_line": 1112,
+      "end_line": 1114
+    },
+    {
+      "heading": "132. Bahwa dengan demikian, yang dimohonkan Pemohon bukanlah ag ar",
+      "slug": "132-bahwa-dengan-demikian-yang-dimohonkan-pemohon-bukanlah-ag-ar",
+      "text": "Mahkamah Konstitusi mengambil alih kewenangan pembentuk Undang-\nUndang untuk menentukan kebijakan teknis mengenai masa tenggang , \nmelainkan agar Mahkamah memberikan batas konstitusional minimum  \nbahwa mekanisme perpanjangan SIM harus menjamin kepastian hukum  \ndan menyediakan kesempatan administratif yang proporsional bagi  \npemegang SIM yang terlambat melakukan perpanjangan. \n \n\n31 \n \n \nH. HUBUNGAN NORMA PASAL 85 AYAT (2) UU LLAJ DENGAN",
+      "start_line": 1116,
+      "end_line": 1127
+    },
+    {
+      "heading": "133. Bahwa ketentuan Pasal 85 ayat (2) Undang-Undang Nomor 22 T ahun",
+      "slug": "133-bahwa-ketentuan-pasal-85-ayat-2-undang-undang-nomor-22-t-ahun",
+      "text": "2009 tentang Lalu Lintas dan Angkutan Jalan pada pokoknya menentukan \nbahwa Surat Izin Mengemudi untuk kendaraan bermotor perseoranga n \ndan kendaraan bermotor umum berlaku selama 5 (lima) tahun dan d apat \ndiperpanjang.",
+      "start_line": 1130,
+      "end_line": 1133
+    },
+    {
+      "heading": "134. Bahwa Permohonan a quo sama sekali tidak dimaksudkan untuk menguji,",
+      "slug": "134-bahwa-permohonan-a-quo-sama-sekali-tidak-dimaksudkan-untuk-menguji",
+      "text": "menyerang, ataupun meminta Mahkamah Konstitusi menilai praktik \npungutan liar, percaloan, atau penyimpangan yang dilakukan oleh oknum \ndalam penyelenggaraan pelayanan Surat Izin Mengemudi. Objek \npengujian Pemohon tetap dan secara tegas diarahkan kepada norma  \nPasal 85 ayat (2) Undang-Undang Nomor 22 Tahun 2009, khususnya \npada frasa “dapat diperpanjang”, yang menurut Pemohon tidak \nmemberikan parameter normatif yang cukup mengenai bagaimana \nkedudukan pemegang Surat Izin Mengemudi ketika masa berlaku Sur at \nIzin Mengemudi tersebut telah berakhir. Dengan demikian, persoa lan \nyang dimohonkan untuk dinilai oleh Mahkamah adalah persoalan \nkonstitusionalitas norma undang-undang, bukan persoalan perilak u \noknum atau kualitas pelaksanaan pelayanan administratif.",
+      "start_line": 1135,
+      "end_line": 1146
+    },
+    {
+      "heading": "135. Bahwa ketidakjelasan norma tersebut mempunyai konsekuensi yang lebih",
+      "slug": "135-bahwa-ketidakjelasan-norma-tersebut-mempunyai-konsekuensi-yang-lebih",
+      "text": "luas dalam praktik administrasi. Ketika Undang-Undang hanya \nmenentukan bahwa Surat Izin Mengemudi “dapat diperpanjang”, tet api \ntidak memberikan batasan atau parameter yang jelas mengenai \nkemungkinan perpanjangan setelah masa berlaku berakhir, maka \npengaturan lebih lanjut melalui peraturan pelaksana dapat menen tukan \nakibat hukum yang secara substantif berbeda, termasuk beralihny a \nmekanisme dari perpanjangan Surat Izin Mengemudi menjadi penerbitan \nSurat Izin Mengemudi baru. Kondisi demikian dapat menimbulkan \nketidakpastian bagi warga negara mengenai hak dan kewajiban \nadministratifnya setelah Surat Izin Mengemudi berakhir. Dalam s ituasi \nketidakpastian tersebut, dapat pula muncul risiko berkembangnya praktik \ninformal seperti percaloan atau pungutan liar dalam upaya masya rakat \n\n32 \n \n \nmemperoleh kepastian dan kemudahan pelayanan. Oleh karena itu, \npraktik tersebut merupakan konsekuensi atau risiko yang dapat timbul dari \nketidakjelasan norma, bukan merupakan objek utama yang diserang oleh \nPemohon.",
+      "start_line": 1148,
+      "end_line": 1167
+    },
+    {
+      "heading": "136. Bahwa oleh karena itu, keberadaan uraian mengenai potensi pungutan",
+      "slug": "136-bahwa-oleh-karena-itu-keberadaan-uraian-mengenai-potensi-pungutan",
+      "text": "liar, percaloan, maupun praktik informal lainnya dalam Permohonan a quo \ntidak boleh dipahami sebagai upaya Pemohon untuk mengalihkan ob jek \npengujian dari norma kepada praktik pelayanan. Pemohon tetap \nmendalilkan bahwa sumber persoalan konstitusional terletak pada  tidak \nmemadainya pengaturan Pasal 85 ayat (2) Undang-Undang Nomor 22 \nTahun 2009 dalam memberikan kepastian mengenai mekanisme \nadministratif setelah masa berlaku Surat Izin Mengemudi berakhi r. \nDengan adanya parameter normatif yang jelas mengenai masa tenggang \ndan mekanisme perpanjangan, warga negara memperoleh kepastian \nmengenai tindakan administratif yang dapat ditempuh secara resm i, \nsedangkan potensi ketergantungan kepada pihak ketiga atau prakt ik \ninformal dapat diminimalkan. Dengan demikian, pungutan liar ata u \npercaloan hanyalah akibat yang mungkin muncul dari sebab berupa  \nketidakjelasan atau cacat normatif, sedangkan sebab utama yang diuji \ndalam Permohonan a quo  tetaplah cacat norma Pasal 85 ayat (2), \nkhususnya frasa “dapat diperpanjang”.",
+      "start_line": 1169,
+      "end_line": 1184
+    },
+    {
+      "heading": "137. Bahwa dalam pelaksanaannya, ketentuan mengenai masa berlak u dan",
+      "slug": "137-bahwa-dalam-pelaksanaannya-ketentuan-mengenai-masa-berlak-u-dan",
+      "text": "perpanjangan SIM kemudian diatur lebih lanjut dalam Peraturan \nKepolisian Negara Republik Indonesia Nomor 5 Tahun 2021 tentang  \nPenerbitan dan Penandaan Surat Izin Mengemudi sebagaimana telah  \ndiubah dengan Peraturan Kepolisian Negara Republik Indonesia No mor \n2 Tahun 2023 tentang Perubahan atas Peraturan Kepolisian Negara  \nRepublik Indonesia Nomor 5 Tahun 2021 tentang Penerbitan dan \nPenandaan Surat Izin Mengemudi. Mengemudi, khususnya Pasal 4, yang \nberbunyi: \nAyat 1  SIM Ranmor Perseorangan dan SIM Ranmor umum \nsebagaimana dimaksud dalam Pasal 3 ayat (1) huruf a dan huruf \nb, berlaku selama 5 (lima) tahun terhitung mulai tanggal \npenerbitan dan dapat diperpanjang sebelum habis masa \nberlakunya. \n\n33 \n \n \nAyat 2  SIM Internasional sebagaimana dimaksud dalam Pasal 3 ayat (1) \nhuruf c, berlaku selama 3 (tiga) tahun terhitung mulai tanggal \npenerbitan dan dapat diperpanjang sebelum habis masa \nberlakunya. \nAyat 3  Dalam hal SIM lewat dari masa berlakunya sebagaimana \ndimaksud pada ayat (1) dan ayat (2) harus diajukan penerbitan \nSIM baru. \nAyat 4  SIM yang lewat dari masa berlakunya sebagaimana dimaksu d \npada ayat (1) dan ayat (2) karena Keadaan Kahar dapat:  \na. dikecualikan terhadap ketentuan ayat (3); dan \nb. dilakukan perpanjangan SIM berdasarkan Keputusan \nKakorlantas Polri atas laporan dari Direktorat Lalu Lintas \nKepolisian Daerah. Ketentuan tersebut dibuktikan dengan \n(Bukti P-5).",
+      "start_line": 1186,
+      "end_line": 1216
+    },
+    {
+      "heading": "138. Bahwa dari konstruksi norma tersebut terlihat adanya perbe daan antara",
+      "slug": "138-bahwa-dari-konstruksi-norma-tersebut-terlihat-adanya-perbe-daan-antara",
+      "text": "norma Undang-Undang dengan norma peraturan pelaksana. Pasal 85 \nayat (2) UU LLAJ menentukan bahwa SIM berlaku selama 5 (lima) t ahun \ndan dapat diperpanjang, sedangkan Pasal 4 ayat (1) Perpol Nomor  5  \nTahun 2021 menambahkan batas bahwa perpanjangan dilakukan \n“sebelum habis masa berlakunya”.",
+      "start_line": 1218,
+      "end_line": 1222
+    },
+    {
+      "heading": "139. Bahwa lebih lanjut, Pasal 4 ayat (3) Perpol Nomor 5 Tahun 2021",
+      "slug": "139-bahwa-lebih-lanjut-pasal-4-ayat-3-perpol-nomor-5-tahun-2021",
+      "text": "menentukan bahwa apabila SIM telah lewat masa berlakunya, pemegang \nSIM harus mengajukan penerbitan SIM baru, sedangkan Pasal 4 ayat (4) \nmemberikan pengecualian terbatas dalam keadaan kahar.",
+      "start_line": 1224,
+      "end_line": 1226
+    },
+    {
+      "heading": "140. Bahwa dengan demikian, aturan pelaksana telah memberikan",
+      "slug": "140-bahwa-dengan-demikian-aturan-pelaksana-telah-memberikan",
+      "text": "konsekuensi hukum yang tegas terhadap keterlambatan perpanjanga n \nSIM, yaitu beralihnya mekanisme dari perpanjangan SIM menjadi \npenerbitan SIM baru, padahal konsekuensi tersebut tidak dirumus kan \nsecara eksplisit dalam Pasal 85 ayat (2) UU LLAJ.",
+      "start_line": 1228,
+      "end_line": 1231
+    },
+    {
+      "heading": "141. Bahwa Pemohon tidak mempersoalkan kewenangan pembentuk",
+      "slug": "141-bahwa-pemohon-tidak-mempersoalkan-kewenangan-pembentuk",
+      "text": "peraturan untuk mengatur tata cara administratif penerbitan dan  \nperpanjangan SIM. Persoalan konstitusional yang diajukan Pemoho n \nadalah apakah konsekuensi hukum yang menentukan perubahan dari \nmekanisme perpanjangan menjadi penerbitan SIM baru telah \nmemperoleh dasar dan parameter yang cukup dalam Undang-Undang \nsebagai norma induknya.",
+      "start_line": 1233,
+      "end_line": 1238
+    },
+    {
+      "heading": "142. Bahwa menurut Pemohon, persoalan tersebut penting karena P asal 85",
+      "slug": "142-bahwa-menurut-pemohon-persoalan-tersebut-penting-karena-p-asal-85",
+      "text": "ayat (2) UU LLAJ hanya menggunakan rumusan “dapat diperpanjang” , \n\n34 \n \n \ntanpa memberikan parameter mengenai apa yang terjadi terhadap h ak \ndan kedudukan pemegang SIM apabila perpanjangan dilakukan setel ah \nmasa berlaku SIM berakhir.",
+      "start_line": 1240,
+      "end_line": 1247
+    },
+    {
+      "heading": "143. Bahwa ketidaklengkapan tersebut kemudian diisi oleh peratu ran",
+      "slug": "143-bahwa-ketidaklengkapan-tersebut-kemudian-diisi-oleh-peratu-ran",
+      "text": "pelaksana dengan menentukan bahwa SIM yang telah lewat masa \nberlakunya harus diajukan penerbitan SIM baru, sehingga terdapa t \nkonsekuensi hukum yang secara nyata memengaruhi kedudukan warga  \nnegara sebagai pemegang SIM.",
+      "start_line": 1249,
+      "end_line": 1252
+    },
+    {
+      "heading": "144. Bahwa keadaan tersebut menunjukkan adanya persoalan cacat norma",
+      "slug": "144-bahwa-keadaan-tersebut-menunjukkan-adanya-persoalan-cacat-norma",
+      "text": "karena kekosongan atau ketidaklengkapan pengaturan pada tingkat  \nUndang-Undang, bukan semata-mata persoalan mengenai bagaimana \npetugas melaksanakan pelayanan SIM.",
+      "start_line": 1254,
+      "end_line": 1256
+    },
+    {
+      "heading": "145. Bahwa Pemohon tidak memohon kepada Mahkamah Konstitusi unt uk",
+      "slug": "145-bahwa-pemohon-tidak-memohon-kepada-mahkamah-konstitusi-unt-uk",
+      "text": "menyatakan Perpol Nomor 5 Tahun 2021 bertentangan dengan Undang-\nUndang, karena pengujian peraturan di bawah Undang-Undang bukanlah \nobjek Permohonan a quo.",
+      "start_line": 1258,
+      "end_line": 1260
+    },
+    {
+      "heading": "146. Bahwa Perpol Nomor 5 Tahun 2021 ditempatkan dalam Permohon an a",
+      "slug": "146-bahwa-perpol-nomor-5-tahun-2021-ditempatkan-dalam-permohon-an-a",
+      "text": "quo semata-mata sebagai bukti adanya konsekuensi normatif yang lah ir \ndalam pelaksanaan Pasal 85 ayat (2) UU LLAJ, sekaligus untuk \nmenunjukkan bahwa ketidaklengkapan norma Undang-Undang \nmempunyai akibat nyata terhadap Pemohon.",
+      "start_line": 1262,
+      "end_line": 1265
+    },
+    {
+      "heading": "147. Bahwa akibat tersebut mempunyai hubungan langsung dengan Pemohon",
+      "slug": "147-bahwa-akibat-tersebut-mempunyai-hubungan-langsung-dengan-pemohon",
+      "text": "karena Pemohon memiliki SIM C atas nama Jangkung Sido Sentosa yang \ntelah berakhir masa berlakunya, sebagaimana dibuktikan dengan ( Bukti \nP-4), sehingga Pemohon berada dalam keadaan hukum yang secara \nlangsung berhadapan dengan konsekuensi sebagaimana diatur dalam  \nPasal 4 ayat (3) Perpol Nomor 5 Tahun 2021.",
+      "start_line": 1267,
+      "end_line": 1271
+    },
+    {
+      "heading": "148. Bahwa dengan demikian, rangkaian persoalan konstitusional dalam",
+      "slug": "148-bahwa-dengan-demikian-rangkaian-persoalan-konstitusional-dalam",
+      "text": "perkara a quo dapat dilihat secara jelas sebagai berikut: \nPasal 85 ayat (2) UU LLAJ: \n“berlaku selama 5 (lima) tahun dan dapat diperpanjang” \n↓ \nPasal 4 ayat (1) Perpol Nomor 5 Tahun 2021: \n\n35 \n \n \nperpanjangan dilakukan “sebelum habis masa berlakunya” \n↓ \nPasal 4 ayat (3) Perpol Nomor 5 Tahun 2021: \nSIM yang telah lewat masa berlaku harus diajukan penerbitan SIM baru \n↓ \nP-4: Pemohon memiliki SIM C yang telah habis masa berlakunya \n↓ \nKerugian Konstitusional (Jaminan Sosial & Kesejahteraan Warga T idak \nMampu): Pemberlakuan kewajiban pembuatan SIM baru bagi SIM yang  \ntelat memperpanjang disertai praktik transaksional dan biaya ti nggi di \nlapangan secara langsung mencederai hak konstitusional Pemohon \nsebagai warga negara yang kurang mampu, sebagaimana dijamin dalam \nPasal 34 ayat (1) UUD NRI 1945 (\"Negara memelihara fakir miskin  dan \nanak-anak terlantar\"). Negara seharusnya menghadirkan perlindun gan \ndan kemudahan akses pelayanan publik, bukan justru membiarkan \nrigiditas birokrasi dan pungutan liar membebani perekonomian \nmasyarakat rentan yang bergantung pada kendaraan bermotor untuk  \npenghidupan sehari-hari. \n↓ \nKerugian konstitusional: Pasal 28D ayat (1) UUD NRI 1945 Pemoho n \ntidak memperoleh kepastian hukum yang memadai mengenai kedudukan \ndan kesempatan administratif untuk memperpanjang SIM setelah ma sa \nberlakunya berakhir.",
+      "start_line": 1273,
+      "end_line": 1304
+    },
+    {
+      "heading": "149. Bahwa oleh karena itu, persoalan yang dimohonkan pengujian o l e h",
+      "slug": "149-bahwa-oleh-karena-itu-persoalan-yang-dimohonkan-pengujian-o-l-e-h",
+      "text": "Pemohon bukanlah persoalan teknis pelayanan SIM, melainkan apak ah \nUndang-Undang telah memberikan dasar normatif yang cukup dan je las \nmengenai konsekuensi hukum setelah masa berlaku SIM berakhir, \nsehingga tidak menyerahkan persoalan yang menyangkut kedudukan \nhukum warga negara sepenuhnya kepada aturan pelaksana.",
+      "start_line": 1306,
+      "end_line": 1310
+    },
+    {
+      "heading": "150. Bahwa menurut Pemohon, keadaan tersebut merupakan persoala n",
+      "slug": "150-bahwa-menurut-pemohon-keadaan-tersebut-merupakan-persoala-n",
+      "text": "konstitusional yang berkaitan langsung dengan hak atas kepastian hukum \nyang adil sebagaimana dijamin Pasal 28D ayat (1) UUD NRI Tahun 1945. \n\n36",
+      "start_line": 1312,
+      "end_line": 1317
+    },
+    {
+      "heading": "151. Bahwa dengan demikian, keberadaan Bukti P-5 justru memperk uat",
+      "slug": "151-bahwa-dengan-demikian-keberadaan-bukti-p-5-justru-memperk-uat",
+      "text": "hubungan antara norma yang diuji, keadaan konkret Pemohon, dan \nkerugian konstitusional yang didalilkan, sekaligus menunjukkan bahwa \npersoalan a quo  bersumber pada ketidaklengkapan norma Undang-\nUndang, bukan semata-mata pada tindakan administratif petugas. \nI. DOKTRIN KEBIJAKAN PUBLIK DAN KEPASTIAN HUKUM DALAM",
+      "start_line": 1319,
+      "end_line": 1323
+    },
+    {
+      "heading": "152. Bahwa untuk semakin menegaskan bahwa pengaturan masa berlaku dan",
+      "slug": "152-bahwa-untuk-semakin-menegaskan-bahwa-pengaturan-masa-berlaku-dan",
+      "text": "perpanjangan izin mengemudi dapat dirumuskan secara rasional, terukur, \ndan berkeadilan tanpa mengorbankan aspek keselamatan lalu linta s, \nPemohon memandang perlu diketengahkannya pendekatan \nperbandingan hukum (comparative law)  serta doktrin kebijakan publik \nyang lazim diterapkan di berbagai yurisdiksi demokratis modern.",
+      "start_line": 1327,
+      "end_line": 1331
+    },
+    {
+      "heading": "153. Bahwa dalam praktik administrasi publik di banyak negara, seperti di",
+      "slug": "153-bahwa-dalam-praktik-administrasi-publik-di-banyak-negara-seperti-di",
+      "text": "beberapa yurisdiksi di Amerika Serikat, Australia dan Malaysia, kebijakan \npembaharuan dokumen izin mengemudi (driver's license renewal)  \nsenantiasa mengakomodasi mekanisme masa tenggang (grace period) \natau ketentuan administratif yang proporsional bagi pemegang iz in yang \nterlambat melakukan perpanjangan. Di yurisdiksi-yurisdiksi ters ebut, \nkedaluwarsa dokumen tidak serta-merta mengakibatkan hilangnya status \nhukum secara mutlak atau langsung  dipaksakan mengikuti seluruh \nrangkaian ujian ulang dari nol (re-testing from scratch) apabil a \nketerlambatan tersebut masih berada dalam batas waktu tertentu,  \nmelainkan diselesaikan melalui pengenaan denda administratif ya ng \nwajar atau prosedur administratif yang disederhanakan. \na. Amerika Serikat : Sebagian besar yurisdiksi di sana memberikan \nruang dan tahapan jelas. Keterlambatan dalam rentang waktu tertentu \nhanya dikenakan denda atau tes penglihatan sederhana, dan \nkewajiban mengulang seluruh ujian dari nol (tes teori dan praktik) baru \ndiberlakukan jika keterlambatan sudah sangat lama (biasanya \nmelampaui 2 tahun). Sumber: https://dmv.ny.gov/driver-\nlicense/renew-a-driver-license  \n\n37 \n \n \nb. Australia (Contoh di New South Wales dan Victoria): Pemerintah \nsetempat secara eksplisit memberikan grace period  hingga 5 tahun \nuntuk SIM yang kedaluwarsa. Jika keterlambatan masih di bawah 6  \nbulan atau di bawah 5 tahun, pemegang SIM cukup memperbarui dan \nmembayar biaya/penyesuaian tanpa harus mengikuti ulang tes \nmengemudi dari awal. Tes ulang dari nol baru diwajibkan jika ma sa \nkedaluwarsa telah melewati batas 5 tahun. Sumber: \nhttps://www.nsw.gov.au/driving-boating-and-transport/driver-and-\nrider-licences/renewing-or-replacing-your-licence/early-or-late-\nrenewal",
+      "start_line": 1333,
+      "end_line": 1364
+    },
+    {
+      "heading": "c. Malaysia: Departemen Transportasi Jalan (JPJ) memberlakukan",
+      "slug": "c-malaysia-departemen-transportasi-jalan-jpj-memberlakukan",
+      "text": "ketentuan masa tenggang aktif hingga 36 bulan (3 tahun) bagi SI M \nyang kedaluwarsa. Dalam rentang waktu 36 bulan tersebut, \npengendara dapat memperpanjang SIM-nya secara langsung dengan \nmembayar biaya/denda administratif tanpa diwajibkan mengulang \nujian kompetensi mengemudi dari awal. Sumber : \nhttps://www.malaysia.gov.my/en/topics/renewing-driving-licenses",
+      "start_line": 1366,
+      "end_line": 1371
+    },
+    {
+      "heading": "154. Bahwa perbandingan hukum tersebut tidak dimaksudkan untuk menuntut",
+      "slug": "154-bahwa-perbandingan-hukum-tersebut-tidak-dimaksudkan-untuk-menuntut",
+      "text": "Mahkamah Konstitusi mengadopsi sistem hukum asing secara membab i \nbuta, melainkan digunakan sebagai bahan perbandingan empiris da n \nkonseptual (ius constituendum) yang membuktikan bahwa tujuan utama \nkeselamatan berlalu lintas tidak berada dalam hubungan dikotomi s atau \nsaling bertentangan dengan prinsip kepastian hukum dan kemudaha n \nadministratif bagi warga negara. Negara-negara yang menjunjung tinggi \nprinsip negara hukum (rule of law)  selalu memastikan bahwa instrumen \nsanksi administratif dirancang secara proporsional dan tidak be rsifat \nmenghukum secara berlebihan (proportionality principle), khususnya \nterhadap warga negara yang mengalami kendala sosio-ekonomis.",
+      "start_line": 1373,
+      "end_line": 1382
+    },
+    {
+      "heading": "m e m p e r k u a t d a l i l P e m o h o n b a h w a k e t i a d a a n p a r a m e t e r n o r m a t i f s e rta",
+      "slug": "m-e-m-p-e-r-k-u-a-t-d-a-l-i-l-p-e-m-o-h-o-n-b-a-h-w-a-k-e-t-i-a-d-a-a-n-p-a-r-a-m-e-t-e-r-n-o-r-m-a-t-i-f-s-e-rta",
+      "text": "ketiadaan ruang masa tenggang dalam Pasal 85 ayat (2) UU LLAJ \nmerupakan sebuah bentuk deviasi dari standar universal kebijakan publik \nyang rasional. Pembentukan norma yang baik wajib memperhatikan \n\n38 \n \n \nkeseimbangan antara kepentingan ketertiban umum (public safety) dan \nperlindungan hak-hak administratif warga negara, sehingga kehad iran \nnegara tidak dirasakan sebagai beban penindasan struktural, mel ainkan \nsebagai manifestasi perlindungan yang adil dan beradab.",
+      "start_line": 1385,
+      "end_line": 1395
+    },
+    {
+      "heading": "156. Bahwa kebijakan publik pada hakikatnya tidak hanya ditujuk an untuk",
+      "slug": "156-bahwa-kebijakan-publik-pada-hakikatnya-tidak-hanya-ditujuk-an-untuk",
+      "text": "mencapai tujuan yang hendak dicapai oleh negara, tetapi juga ha rus \ndirumuskan sedemikian rupa agar dapat dipahami, dilaksanakan, d an \ndiakses secara wajar oleh masyarakat yang menjadi subjek kebija kan \ntersebut.",
+      "start_line": 1397,
+      "end_line": 1400
+    },
+    {
+      "heading": "157. Bahwa dalam perkara a quo, pengaturan mengenai Surat Izin Mengemudi",
+      "slug": "157-bahwa-dalam-perkara-a-quo-pengaturan-mengenai-surat-izin-mengemudi",
+      "text": "merupakan bagian dari kebijakan publik di bidang keselamatan lalu lintas. \nPemohon tidak mempersoalkan tujuan tersebut. Pemohon justru \nmenerima bahwa negara mempunyai kewenangan dan kepentingan yang \nsah untuk memastikan setiap pengemudi memenuhi persyaratan \nkompetensi, kesehatan, dan keselamatan.",
+      "start_line": 1402,
+      "end_line": 1406
+    },
+    {
+      "heading": "158. Bahwa persoalan konstitusional timbul ketika kebijakan ter sebut tidak",
+      "slug": "158-bahwa-persoalan-konstitusional-timbul-ketika-kebijakan-ter-sebut-tidak",
+      "text": "memberikan pengaturan yang cukup jelas mengenai kedudukan \npemegang SIM setelah masa berlaku SIM berakhir, sehingga warga \nnegara tidak memperoleh kepastian mengenai apakah keadaan terse but \nmasih berada dalam rezim perpanjangan atau telah sepenuhnya berubah \nmenjadi penerbitan SIM baru.",
+      "start_line": 1408,
+      "end_line": 1412
+    },
+    {
+      "heading": "159. Bahwa dari perspektif kebijakan publik, pembedaan antara perpanjangan",
+      "slug": "159-bahwa-dari-perspektif-kebijakan-publik-pembedaan-antara-perpanjangan",
+      "text": "dan penerbitan baru bukan sekadar persoalan istilah administrat if, \nmelainkan mempunyai konsekuensi terhadap kedudukan hukum warga \nnegara yang sebelumnya telah memperoleh SIM secara sah.",
+      "start_line": 1414,
+      "end_line": 1416
+    },
+    {
+      "heading": "160. Bahwa oleh karena itu, apabila pembentuk kebijakan memilih untuk",
+      "slug": "160-bahwa-oleh-karena-itu-apabila-pembentuk-kebijakan-memilih-untuk",
+      "text": "memberikan konsekuensi hukum yang berbeda terhadap pemegang SIM \nyang terlambat melakukan perpanjangan, konsekuensi tersebut \nsemestinya mempunyai dasar hukum yang jelas, dapat diketahui \nsebelumnya, dapat diprediksi penerapannya, dan tidak menimbulka n \nketidakpastian bagi warga negara.",
+      "start_line": 1418,
+      "end_line": 1422
+    },
+    {
+      "heading": "161. Bahwa prinsip tersebut juga memungkinkan dilakukan perband ingan",
+      "slug": "161-bahwa-prinsip-tersebut-juga-memungkinkan-dilakukan-perband-ingan",
+      "text": "hukum (comparative law) dengan negara-negara lain yang menghadapi \n\n39 \n \n \npersoalan serupa, bukan untuk meminta Mahkamah Konstitusi \nmengadopsi sistem hukum negara lain, melainkan untuk menunjukka n \nbahwa pengaturan mengenai masa berlaku dan perpanjangan izin \nmengemudi pada dasarnya dapat dirumuskan dengan mekanisme yang \njelas, mudah dipahami, dan dapat diprediksi oleh masyarakat.",
+      "start_line": 1424,
+      "end_line": 1433
+    },
+    {
+      "heading": "162. Bahwa perbandingan hukum tersebut relevan dalam perkara a quo",
+      "slug": "162-bahwa-perbandingan-hukum-tersebut-relevan-dalam-perkara-a-quo",
+      "text": "sepanjang digunakan sebagai bahan pertimbangan kebijakan, bukan  \nsebagai sumber yang mengikat Mahkamah Konstitusi, karena setiap  \nnegara tetap mempunyai sistem hukum, kebijakan keselamatan lalu  \nlintas, dan karakteristik administratif masing-masing.",
+      "start_line": 1435,
+      "end_line": 1438
+    },
+    {
+      "heading": "163. Bahwa dengan demikian, pendekatan perbandingan hukum dalam",
+      "slug": "163-bahwa-dengan-demikian-pendekatan-perbandingan-hukum-dalam",
+      "text": "perkara a quo  justru digunakan untuk memperlihatkan bahwa tujuan \nkeselamatan lalu lintas tidak harus dipertentangkan dengan kepa stian \nhukum dan kemudahan administrasi bagi warga negara.",
+      "start_line": 1440,
+      "end_line": 1442
+    },
+    {
+      "heading": "164. Bahwa berdasarkan doktrin kebijakan publik tersebut, Pemoh on",
+      "slug": "164-bahwa-berdasarkan-doktrin-kebijakan-publik-tersebut-pemoh-on",
+      "text": "berpendapat bahwa pengaturan SIM seharusnya mampu mencapai dua \ntujuan secara bersamaan, yaitu : \n(i) menjamin keselamatan lalu lintas melalui persyaratan yang objektif dan \nterukur; dan (ii) memberikan kepastian hukum mengenai status da n \nmekanisme yang tersedia bagi pemegang SIM ketika masa berlakuny a \nberakhir.",
+      "start_line": 1444,
+      "end_line": 1449
+    },
+    {
+      "heading": "165. Bahwa oleh sebab itu, persoalan dalam perkara a quo bukanlah apakah",
+      "slug": "165-bahwa-oleh-sebab-itu-persoalan-dalam-perkara-a-quo-bukanlah-apakah",
+      "text": "negara boleh mengatur SIM secara ketat, melainkan apakah pengat uran \ntersebut telah memenuhi standar kepastian hukum yang adil \nsebagaimana dijamin Pasal 28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 1451,
+      "end_line": 1453
+    },
+    {
+      "heading": "166. Bahwa dengan konstruksi demikian, Permohonan a quo t i d a k",
+      "slug": "166-bahwa-dengan-konstruksi-demikian-permohonan-a-quo-t-i-d-a-k",
+      "text": "dimaksudkan untuk menggantikan kebijakan pembentuk Undang-Undang \ndengan kebijakan yang dirancang oleh Pemohon, melainkan meminta  \nMahkamah Konstitusi memastikan bahwa kebijakan publik yang \nberdampak langsung terhadap kedudukan hukum warga negara memiliki \ndasar normatif yang cukup, jelas, terukur, dan memberikan kepas tian \nhukum yang adil. \n \n\n40 \n \n \n \n \nBAGAN SEBAB-AKIBAT: KERUGIAN KONSTITUSIONAL PERPANJANGAN SIM \nTahapan / \nElemen Substansi Norma / Fakta Implikasi / Keterangan",
+      "start_line": 1455,
+      "end_line": 1470
+    },
+    {
+      "heading": "1. Sumber",
+      "slug": "1-sumber",
+      "text": "Normatif \nPasal 85 ayat (2) UU LLAJ Undang-undang mengatur masa \nberlaku dan membuka peluang \nperpanjangan, namun mengalami \nkekosongan parameter normatif \nterkait batas toleransi keterlambatan.\n“berlaku selama 5 (lima) tahun dan \ndapat diperpanjang”",
+      "start_line": 1472,
+      "end_line": 1480
+    },
+    {
+      "heading": "2. Aturan",
+      "slug": "2-aturan",
+      "text": "Pelaksana \nPasal 4 Perpol Nomor 5 Tahun \n2021 Peraturan di bawah undang-undang \nmenerapkan sanksi administratif \nsecara kaku tanpa ruang masa \ntenggang (grace period). \n \nPerpanjangan wajib dilakukan \nsebelum habis masa berlaku; jika \nlewat, wajib mengajukan penerbitan \nSIM baru.",
+      "start_line": 1482,
+      "end_line": 1493
+    },
+    {
+      "heading": "3. Akibat",
+      "slug": "3-akibat",
+      "text": "Normatif \nKetiadaan Parameter \nKonstitusional Mengabaikan realitas sosio-ekonomi \nmasyarakat rentan dan melimpahkan \nseluruh beban pembatasan hak \nsepenuhnya pada aturan pelaksana. \n \nTidak adanya pengaturan mengenai \nmasa tenggang ( grace period ) 1 \ntahun bagi pemegang SIM yang \nterlambat memperpanjang \ndokumen.",
+      "start_line": 1495,
+      "end_line": 1507
+    },
+    {
+      "heading": "4. Fakta",
+      "slug": "4-fakta",
+      "text": "Konkret \nPemohon \nKondisi Riil Pemohon Memaksa Pemohon menghadapi \npilihan dilematis antara membiarkan \nSIM mati demi bertahan hidup atau \nterbebani prosedur serta biaya tes \nulang yang tidak proporsional. \nPemohon (dengan mobilitas tinggi \ndan kondisi sosio-ekonomi tertentu) \nmemiliki SIM C yang telah \nkedaluwarsa.",
+      "start_line": 1509,
+      "end_line": 1520
+    },
+    {
+      "heading": "5. Kerugian",
+      "slug": "5-kerugian",
+      "text": "Konstitusio\nnal \nPelanggaran Konstitusi Negara gagal memberikan \nperlindungan administratif yang \nrasional, di mana perpanjangan \nseharusnya tetap diakui sepanjang \nbelum melampaui batas masa \ntenggang 1 tahun. \nBertentangan dengan hak atas \nkepastian hukum yang adil ( Pasal \n28D ayat (1)) dan kewajiban negara \nmelindungi kelompok rentan ( Pasal \n34 ayat (1) UUD NRI Tahun 1945).",
+      "start_line": 1522,
+      "end_line": 1535
+    },
+    {
+      "heading": "167. Bahwa menurut doktrin Lon L. Fuller mengenai moralitas int ernal hukum",
+      "slug": "167-bahwa-menurut-doktrin-lon-l-fuller-mengenai-moralitas-int-ernal-hukum",
+      "text": "(the inner morality of law), suatu aturan hukum agar dapat berfungsi \nsebagai hukum harus memenuhi tuntutan antara lain kejelasan, da pat \ndipahami, tidak saling bertentangan, dapat dilaksanakan, dan \nmemberikan pedoman yang dapat diketahui oleh subjek yang dikena i \naturan. Prinsip tersebut relevan dengan jaminan kepastian hukum  yang \nadil sebagaimana dimaksud dalam Pasal 28D ayat (1) UUD NRI Tahu n \n\n41 \n \n \n1945, karena warga negara harus dapat mengetahui secara wajar a kibat \nhukum dari suatu keadaan yang diatur oleh Undang-Undang.",
+      "start_line": 1537,
+      "end_line": 1548
+    },
+    {
+      "heading": "168. Bahwa dalam konteks a quo , Pasal 85 ayat (2) UU LLAJ telah",
+      "slug": "168-bahwa-dalam-konteks-a-quo-pasal-85-ayat-2-uu-llaj-telah",
+      "text": "menentukan bahwa Surat Izin Mengemudi berlaku selama 5 (lima) t ahun \ndan dapat diperpanjang, namun tidak memberikan kejelasan mengen ai \nakibat hukum dan mekanisme yang berlaku ketika masa berlaku Surat Izin \nMengemudi telah berakhir, sehingga ketidaklengkapan pengaturan \ntersebut menimbulkan ketidakpastian bagi warga negara sebagai \npemegang Surat Izin Mengemudi.",
+      "start_line": 1550,
+      "end_line": 1555
+    },
+    {
+      "heading": "169. Bahwa ketidakjelasan tersebut menjadi semakin nyata karena peraturan",
+      "slug": "169-bahwa-ketidakjelasan-tersebut-menjadi-semakin-nyata-karena-peraturan",
+      "text": "pelaksana kemudian menentukan bahwa perpanjangan Surat Izin \nMengemudi dilakukan sebelum masa berlakunya berakhir dan bahwa \nSurat Izin Mengemudi yang telah lewat masa berlaku harus diajuk an \nsebagai penerbitan Surat Izin Mengemudi baru. Dengan demikian, \nterdapat konsekuensi hukum yang secara langsung memengaruhi \nkedudukan administratif pemegang Surat Izin Mengemudi, sementar a \nkonsekuensi tersebut tidak dirumuskan secara jelas dalam Pasal 85 ayat \n(2) Undang-Undang Lalu Lintas dan Angkutan Jalan.",
+      "start_line": 1557,
+      "end_line": 1564
+    },
+    {
+      "heading": "170. Bahwa dari perspektif kebijakan publik, pengaturan pelayan an kepada",
+      "slug": "170-bahwa-dari-perspektif-kebijakan-publik-pengaturan-pelayan-an-kepada",
+      "text": "masyarakat seharusnya tidak hanya berorientasi pada pencapaian tujuan \npemerintahan, tetapi juga memperhatikan kejelasan, kemudahan, \nefektivitas, keterjangkauan, dan kepastian bagi masyarakat sebagai pihak \nyang dikenai kebijakan, sepanjang tidak mengurangi tujuan utama  yang \nhendak dilindungi oleh negara.",
+      "start_line": 1566,
+      "end_line": 1570
+    },
+    {
+      "heading": "171. Bahwa dalam pengaturan Surat Izin Mengemudi, tujuan keselamatan lalu",
+      "slug": "171-bahwa-dalam-pengaturan-surat-izin-mengemudi-tujuan-keselamatan-lalu",
+      "text": "lintas merupakan kepentingan publik yang sah dan tidak dipersoa lkan \noleh Pemohon. Namun, pencapaian tujuan keselamatan lalu lintas \ntersebut tetap harus dilaksanakan melalui norma yang jelas, dap at \ndipahami, dapat diprediksi, dan memberikan kepastian mengenai \nkonsekuensi hukum bagi warga negara.",
+      "start_line": 1572,
+      "end_line": 1576
+    },
+    {
+      "heading": "172. Bahwa kebijakan publik yang baik tidak semestinya mencipta kan beban",
+      "slug": "172-bahwa-kebijakan-publik-yang-baik-tidak-semestinya-mencipta-kan-beban",
+      "text": "administratif yang lebih berat daripada yang diperlukan untuk m encapai \ntujuan yang hendak dilindungi, terlebih apabila warga negara sebelumnya \n\n42 \n \n \ntelah memperoleh Surat Izin Mengemudi melalui proses dan persyaratan \nyang ditentukan oleh negara.",
+      "start_line": 1578,
+      "end_line": 1585
+    },
+    {
+      "heading": "173. Bahwa oleh karena itu, pengaturan mengenai Surat Izin Meng emudi",
+      "slug": "173-bahwa-oleh-karena-itu-pengaturan-mengenai-surat-izin-meng-emudi",
+      "text": "seharusnya mampu mempertemukan dua kepentingan yang sama-sama \nsah, yaitu kepentingan negara dalam menjamin keselamatan lalu l intas \ndan kepentingan warga negara untuk memperoleh pelayanan \nadministratif yang jelas, mudah dipahami, dan memberikan kepast ian \nhukum.",
+      "start_line": 1587,
+      "end_line": 1591
+    },
+    {
+      "heading": "174. Bahwa prinsip tersebut tidak berarti Pemohon meminta dihap uskannya",
+      "slug": "174-bahwa-prinsip-tersebut-tidak-berarti-pemohon-meminta-dihap-uskannya",
+      "text": "persyaratan keselamatan, kesehatan, maupun kompetensi dalam \nmemperoleh atau memperpanjang Surat Izin Mengemudi. Sebaliknya,  \nPemohon berpandangan bahwa persyaratan tersebut tetap dapat \ndipertahankan sepanjang mempunyai dasar hukum yang jelas dan \nditerapkan melalui mekanisme yang memberikan kepastian kepada \nmasyarakat.",
+      "start_line": 1593,
+      "end_line": 1598
+    },
+    {
+      "heading": "175. Bahwa dengan demikian, persoalan dalam Permohonan a quo b u k a n",
+      "slug": "175-bahwa-dengan-demikian-persoalan-dalam-permohonan-a-quo-b-u-k-a-n",
+      "text": "semata-mata mengenai kemudahan administratif bagi Pemohon secar a \npribadi, melainkan mengenai kualitas norma Undang-Undang dalam \nmemberikan kepastian hukum kepada seluruh warga negara yang berada \ndalam keadaan yang sama, khususnya mengenai akibat hukum setela h \nmasa berlaku Surat Izin Mengemudi berakhir.",
+      "start_line": 1600,
+      "end_line": 1604
+    },
+    {
+      "heading": "176. Bahwa pendekatan tersebut sejalan dengan prinsip kepastian hukum",
+      "slug": "176-bahwa-pendekatan-tersebut-sejalan-dengan-prinsip-kepastian-hukum",
+      "text": "yang adil sebagaimana dijamin Pasal 28D ayat (1) UUD NRI Tahun 1945, \nkarena warga negara yang menjadi subjek suatu norma harus dapat  \nmengetahui secara wajar hak, kewajiban, serta akibat hukum yang timbul \ndari keadaan yang diatur oleh norma tersebut.",
+      "start_line": 1606,
+      "end_line": 1609
+    },
+    {
+      "heading": "177. Bahwa oleh karena itu, Pemohon memohon kepada Mahkamah aga r",
+      "slug": "177-bahwa-oleh-karena-itu-pemohon-memohon-kepada-mahkamah-aga-r",
+      "text": "ketidaklengkapan Pasal 85 ayat (2) UU LLAJ tersebut dinilai seb agai \npersoalan konstitusional yang berkaitan dengan kepastian hukum yang \nadil, bukan semata-mata sebagai persoalan teknis administrasi \npenerbitan atau perpanjangan Surat Izin Mengemudi.",
+      "start_line": 1611,
+      "end_line": 1614
+    },
+    {
+      "heading": "178. Bahwa untuk memperkuat penilaian tersebut, Pemohon juga da pat",
+      "slug": "178-bahwa-untuk-memperkuat-penilaian-tersebut-pemohon-juga-da-pat",
+      "text": "menggunakan pendekatan perbandingan hukum (comparative law)  \n\n43 \n \n \nsebagai bahan pertimbangan mengenai bagaimana negara lain mengatur \nmasa berlaku dan perpanjangan izin mengemudi, bukan untuk \nmenjadikan hukum negara lain sebagai norma yang mengikat Indone sia, \nmelainkan untuk menunjukkan bahwa tujuan keselamatan lalu linta s \ndapat berjalan berdampingan dengan pengaturan administratif yang jelas, \nsederhana, dan dapat diprediksi oleh masyarakat.",
+      "start_line": 1616,
+      "end_line": 1626
+    },
+    {
+      "heading": "179. Bahwa dengan demikian, perbandingan hukum tersebut ditempa tkan",
+      "slug": "179-bahwa-dengan-demikian-perbandingan-hukum-tersebut-ditempa-tkan",
+      "text": "sebagai bahan penguat argumentasi, sedangkan dasar utama \nPermohonan a quo  tetap bersumber pada UUD NRI Tahun 1945, \nkhususnya prinsip pengakuan, jaminan, perlindungan, dan kepasti an \nhukum yang adil sebagaimana dijamin dalam Pasal 28D ayat (1) UU D \nNRI Tahun 1945. \nJ. PENIADAAN MASA TENGGANG (GRACE PERIOD)  SIM  JUSTRU",
+      "start_line": 1628,
+      "end_line": 1633
+    },
+    {
+      "heading": "180. Bahwa kebijakan peniadaan masa tenggang dan penghangusan S IM",
+      "slug": "180-bahwa-kebijakan-peniadaan-masa-tenggang-dan-penghangusan-s-im",
+      "text": "secara serta-merta justru kontraproduktif terhadap tujuan pengu mpulan \nPenerimaan Negara Bukan Pajak (PNBP) itu sendiri. Kebijakan yan g \nbersifat menghukum dan menyulitkan ini menurunkan tingkat kepat uhan \nsukarela (voluntary compliance)  warga negara untuk memperpanjang \nSIM, yang pada gilirannya berpot ensi mereduksi potensi pendapat an \nnegara akibat keengganan masyarakat mengakses layanan resmi \nkepolisian",
+      "start_line": 1636,
+      "end_line": 1642
+    },
+    {
+      "heading": "181. Bahwa pengabulan permohonan oleh Mahkamah Konstitusi terha dap",
+      "slug": "181-bahwa-pengabulan-permohonan-oleh-mahkamah-konstitusi-terha-dap",
+      "text": "norma pengujian SIM yang mewajibkan pembuatan baru bagi SIM yan g \ntelah habis masa aktifnya tidak akan mengurangi Pendapatan Nega ra \nBukan Pajak (PNBP), melainkan justru berpotensi meningkatkan \npenerimaan negara secara sah. \na. Peningkatan Kesadaran Kepatuhan:  Kebijakan perpanjangan bagi \nSIM yang telah melewati masa berlaku akan mendorong masyarakat \nuntuk memperpanjang dokumen secara sukarela tanpa takut \ndikenakan sanksi administratif berupa prosedur pembuatan SIM ba ru \ndari nol yang rumit dan mahal. \n\n44 \n \n \nb. Prinsip Kemudahan Administrasi:  Penerapan asas kemudahan \n(administrative simplicity ) dalam proses perpanjangan menurunkan \nhambatan psikologis dan finansial bagi warga negara yang telat \nmemperpanjang dokumennya.",
+      "start_line": 1644,
+      "end_line": 1660
+    },
+    {
+      "heading": "c. Optimalisasi Pendapatan Negara: Ketika hambatan birokrasi",
+      "slug": "c-optimalisasi-pendapatan-negara-ketika-hambatan-birokrasi",
+      "text": "ditiadakan dan diganti dengan mekanisme perpanjangan yang \nrasional, tingkat kepatuhan ma syarakat untuk membayar biaya \nadministrasi resmi akan meningkat secara masif, yang pada akhir nya \nmendongkrak realisasi PNBP secara berkelanjutan dibandingkan \nmengandalkan jalur transaksional non-resmi di luar sistem.",
+      "start_line": 1662,
+      "end_line": 1666
+    },
+    {
+      "heading": "182. Bahwa terhadap putusan Mahkamah Konstitusi Nomor 42/PUU-XXI/2023",
+      "slug": "182-bahwa-terhadap-putusan-mahkamah-konstitusi-nomor-42-puu-xxi-2023",
+      "text": "Hakim Konstitusi Yangmulia Daniel Yusmic P. Foekh memiliki alas an \nberbeda (concurring opinion) sebagai berikut: \na. Bahwa Surat Izin Mengemudi (SIM) berfungsi sebagai bukti \nkompetensi mengemudi dan registrasi pengemudi kendaraan \nbermotor yang memuat identitas lengkap pengemudi yang selanjutnya \ndapat digunakan untuk mendukung kegiatan penyelidikan, penyidikan, \ndan identifikasi forensik kepolisian (vide Pasal 86 UU LLAJ). O leh \nkarenanya, setiap orang yang ingin mendapatkan SIM kendaraan \nbermotor harus memenuhi persyaratan usia, administratif, kesehatan, \ndan lulus ujian serta mengikuti prosedur yang telah ditentukan.  \nSebagai tindak lanjut dari UU LLAJ, telah diterbitkan Peraturan Kepala \nKepolisian Negara Republik Indonesia Nomor 5 Tahun 2021 tentang  \nPenerbitan dan Penandaan Surat Izin Mengemudi (Perkap 5/2021). \nb. Bahwa berkenaan dengan biaya penerbitan SIM, hal demikian \nmerupakan salah satu jenis penerimaan negara bukan pajak yang \nberlaku di institusi Polri. Tanpa bermaksud menilai legalitasny a, \nberdasarkan Lampiran Peraturan Pemerintah Nomor 76 Tahun 2020 \ntentang Jenis dan Tarif Atas Jenis Penerimaan Negara Bukan Paja k \nYang Berlaku Pada Kepolisian Negara Republik Indonesia, tarif biaya \npenerbitan SIM baru dan perpanjangan SIM dibedakan sesuai dengan \npenggolongannya.",
+      "start_line": 1668,
+      "end_line": 1688
+    },
+    {
+      "heading": "c. Bahwa berdasarkan seluruh uraian pertimbangan hukum di atas, saya",
+      "slug": "c-bahwa-berdasarkan-seluruh-uraian-pertimbangan-hukum-di-atas-saya",
+      "text": "berpendapat sama dengan mayoritas hakim konstitusi bahwa \npermohonan Pemohon tidak beralasan menurut hukum. Namun, ke \ndepan kepada Pembentuk Undang-Undang perlu dipertimbangkan \nadanya kebijakan afirmatif ( affirmative action ) bagi kelompok lansia \nuntuk diberikan Surat Izin Mengemudi (SIM) seumur hidup.",
+      "start_line": 1690,
+      "end_line": 1694
+    },
+    {
+      "heading": "183. Bahwa terlepas dari diskursus kebijakan maupun pandangan H akim",
+      "slug": "183-bahwa-terlepas-dari-diskursus-kebijakan-maupun-pandangan-h-akim",
+      "text": "Konstitusi terkait masa berlaku dan PNBP tersebut, Pemohon \nmenegaskan kembali bahwa pokok permohonan a quo secara subtansial \n\n45 \n \n \nsemata-mata menuntut adanya kepastian hukum yang adil berupa \npenyediaan ruang masa tenggang (grace period)  dalam perpanjangan \nSIM. Permohonan ini sama sekali tidak dimaksudkan untuk menafik an, \nmengurangi, ataupun mereduksi fungsi fundamental SIM sebagai bu kti \nkompetensi mengemudi dan sarana registrasi pengemudi yang \nmenunjang kegiatan penyelidikan, penyidikan, serta identifikasi  forensik \nkepolisian sebagaimana dijamin dalam Pasal 86 UU LLAJ. Oleh kar ena \nitu, pengaturan masa tenggang yang rasional dan manusiawi tetap  \nberjalan seiring dan sejalan dengan terjaganya standar kompetensi serta \nketertiban administrasi lalu lintas yang sah.",
+      "start_line": 1696,
+      "end_line": 1711
+    },
+    {
+      "heading": "184. Bahwa Pemohon pada pokoknya hanya memohonkan adanya kepast ian",
+      "slug": "184-bahwa-pemohon-pada-pokoknya-hanya-memohonkan-adanya-kepast-ian",
+      "text": "hukum yang adil melalui penyediaan ruang masa tenggang (grace period) \ndalam perpanjangan SIM, agar tidak serta-merta dihanguskan dan \ndipaksa menempuh prosedur pembuatan baru dari nol.",
+      "start_line": 1713,
+      "end_line": 1715
+    },
+    {
+      "heading": "185. Bahwa namun demikian, dalam dinamika perimbangan hukum",
+      "slug": "185-bahwa-namun-demikian-dalam-dinamika-perimbangan-hukum",
+      "text": "konstitusional, sebagaimana terefleksi dalam pandangan Hakim \nKonstitusi terkait kebijakan afirmatif (affirmative action) dan pertimbangan \nPenerimaan Negara Bukan Pajak (PNBP) terdapat ruang rasionalita s \nyang justru saling menguatkan",
+      "start_line": 1717,
+      "end_line": 1720
+    },
+    {
+      "heading": "186. Bahwa pemberian ruang masa tenggang serta opsi perpanjanga n yang",
+      "slug": "186-bahwa-pemberian-ruang-masa-tenggang-serta-opsi-perpanjanga-n-yang",
+      "text": "manusiawi tidak merugikan target  PNBP negara, melainkan justru \nmenyelamatkan tingkat kepatuhan sukarela ( voluntary compliance ) \nmasyarakat agar tidak lari dari sistem administrasi resmi.",
+      "start_line": 1722,
+      "end_line": 1724
+    },
+    {
+      "heading": "187. Bahwa manakala Mahkamah Konstitusi dalam pertimbangannya d apat",
+      "slug": "187-bahwa-manakala-mahkamah-konstitusi-dalam-pertimbangannya-d-apat",
+      "text": "memperluas jangkauan keadilan substantif hingga gagasan afirmat if \nseperti pengecualian SIM seumur hidup bagi kelompok lansia demi  \nmenjaga kualitas hidup dan mobilitas mereka, maka permohonan po kok \nPemohon terkait masa tenggang perpanjangan SIM sudah sepatutnya  \nmendapatkan pengakuan konstitusional yang senada demi melindung i \nhak warga negara dari beban administratif yang berlebihan dan t idak \nproporsional. \nK. PEMBERLAKUAN MASA TENGGANG ( GRACE PERIOD) SELAMA 1 \n(SATU) TAHUN SEBAGAI SOLUSI KONSTITUSIONAL \n\n46",
+      "start_line": 1726,
+      "end_line": 1738
+    },
+    {
+      "heading": "188. Bahwa pemberlakuan masa tenggang ( grace period ) selama 1 (satu)",
+      "slug": "188-bahwa-pemberlakuan-masa-tenggang-grace-period-selama-1-satu",
+      "text": "tahun sebagai solusi konstitusional dengan manfaat sebagai berikut: \na. Durasi Masa Tenggang (1 Tahun): Masa tenggang yang ideal dan  \nrasional bagi perpanjangan SIM yang telah habis masa berlakunya  \nadalah 1 (satu) tahun sejak tanggal kedaluwarsa. Jangka waktu i ni \nmemberikan ruang bernapas yang cukup bagi pekerja harian, buruh , \ndan masyarakat berpenghasilan rendah untuk mengumpulkan biaya \nperpanjangan tanpa harus langsung menghadapi sanksi \npenghangusan dokumen (forfeiture) yang memaksa pembuatan baru \ndari nol. \nb. Mencegah Kriminalisasi Administratif: Tanpa adanya masa teng gang, \njeda waktu sehari saja pasca-masa berlaku habis langsung mengubah \nstatus hukum seorang pengemudi menjadi \"tidak sah\", \nmenyamakannya dengan pelanggar hukum berat yang tidak pernah \nmemiliki SIM. Masa tenggang berfungsi sebagai jembatan korektif  \nagar kesalahan administratif tidak serta-merta berkonsekuensi p ada \nhukuman finansial yang berat.",
+      "start_line": 1740,
+      "end_line": 1755
+    },
+    {
+      "heading": "c. Mengurangi Beban Biaya Ganda dan Praktik Pungli: Dengan adan ya",
+      "slug": "c-mengurangi-beban-biaya-ganda-dan-praktik-pungli-dengan-adan-ya",
+      "text": "kepastian masa tenggang, pemohon tidak perlu panik atau terdoro ng \nmenggunakan jalur instan/calo (petty corruption) berbiaya \nRp600.000,00 hingga Rp900.000,00. Negara tetap dapat \nmengenakan denda administratif yang wajar atau denda \nketerlambatan yang jauh lebih ringan daripada memaksa warga \nmenanggung biaya tes ulang secara keseluruhan.",
+      "start_line": 1757,
+      "end_line": 1762
+    },
+    {
+      "heading": "d. Kesesuaian dengan Asas Keadilan Sosial (Pasal 34 ayat (1) UU D",
+      "slug": "d-kesesuaian-dengan-asas-keadilan-sosial-pasal-34-ayat-1-uu-d",
+      "text": "1945): Pemberlakuan grace period merupakan wujud nyata kehadiran \nnegara (welfare state) dalam \"memelihara\" fakir miskin. Kebijakan ini \nmemastikan bahwa keterbatasan ekonomi dan kesibukan kerja harian \nwarga masyarakat marginal tidak dihukum oleh kekakuan birokrasi , \nsehingga hak atas mobilitas dan penghidupan yang layak tetap \nterlindungi secara konstitusional.",
+      "start_line": 1764,
+      "end_line": 1769
+    },
+    {
+      "heading": "189. Bahwa pemberlakuan masa tenggang (grace period) selama 1 (satu)",
+      "slug": "189-bahwa-pemberlakuan-masa-tenggang-grace-period-selama-1-satu",
+      "text": "tahun sejak tanggal berakhirnya masa berlaku Surat Izin Mengemu di \n\n47 \n \n \nbukan berarti membebaskan warga negara untuk selamanya \nmengabaikan kewajiban administratif. Apabila masa tenggang 1 (s atu) \ntahun tersebut terlampaui dan pemegang SIM tetap tidak melakuka n \nperpanjangan tanpa alasan yang sah menurut hukum (seperti keada an \nkahar), maka demi menjamin ketertiban hukum dan standar keselamatan \nlalu lintas, negara tetap berwenang memberlakukan mekanisme \npenerbitan SIM baru. Batasan normatif yang jelas ini memastikan  bahwa \nhukum tidak berlaku kaku sejak hari pertama kedaluwarsa, melain kan \nmemberikan koridor toleransi yang rasional bagi masyarakat rent an \nsebelum sanksi administratif terberat dijatuhkan.",
+      "start_line": 1771,
+      "end_line": 1785
+    },
+    {
+      "heading": "190. Bahwa ketentuan yang menyatakan SIM tidak dapat diperpanja ng dan",
+      "slug": "190-bahwa-ketentuan-yang-menyatakan-sim-tidak-dapat-diperpanja-ng-dan",
+      "text": "dinyatakan hangus seketika setelah masa aktifnya habis adalah dalil yang \ntidak beralasan hukum dan mengada-ngada. Di era digital dan kemajuan \nteknologi sistem basis data saat ini, seluruh data registrasi dan identifikasi \npengemudi yang tersimpan di dalam server kepolisian \n(Polres/Polda/Korlantas) dipastikan masih tersimpan secara elek tronik \ndan aman.",
+      "start_line": 1787,
+      "end_line": 1792
+    },
+    {
+      "heading": "191. Bahwa dengan ketersediaan pangkalan data (database) digital yang",
+      "slug": "191-bahwa-dengan-ketersediaan-pangkalan-data-database-digital-yang",
+      "text": "terpusat, pengaktifan kembali atau perpanjangan SIM yang telah melewati \nbatas waktu tidak memerlukan proses dari nol (penerbitan baru),  \nmelainkan cukup diakses melalui nomor unik SIM yang bersangkuta n. \nOleh karena itu, sudah sepatutnya diberikan masa tenggang (grace \nperiod) sekurang-kurangnya 1 (satu) tahun bagi pemilik SIM untuk \nmelakukan perpanjangan, alih-alih langsung menghanguskan status SIM \ntersebut.",
+      "start_line": 1794,
+      "end_line": 1800
+    },
+    {
+      "heading": "192. Bahwa kebijakan menghanguskan SIM secara serta-merta tanpa",
+      "slug": "192-bahwa-kebijakan-menghanguskan-sim-secara-serta-merta-tanpa",
+      "text": "memberikan ruang masa tenggang dan mengabaikan kemudahan \nteknologi server kepolisian bertentangan dengan prinsip kepastian hukum \nyang adil sebagaimana dijamin dalam Pasal 28D ayat (1) UUD 1945, serta \nmembebani warga negara secara tidak proporsional dari segi wakt u, \ntenaga, dan biaya administratif.",
+      "start_line": 1802,
+      "end_line": 1806
+    },
+    {
+      "heading": "193. Bahwa kebijakan yang membebani warga negara secara tidak",
+      "slug": "193-bahwa-kebijakan-yang-membebani-warga-negara-secara-tidak",
+      "text": "proporsional tersebut juga secara nyata bertentangan dengan sem angat \n\n48 \n \n \nkonstitusi sebagaimana dijamin dalam Pasal 34 ayat (1) UUD NRI Tahun \n1945, yang menegaskan bahwa fakir miskin dan anak-anak terlanta r \ndipelihara oleh negara; sehingga penerapan sanksi administratif  berupa \npenghangusan SIM tanpa masa tenggang justru semakin membebani \nperekonomian masyarakat kecil dan kelompok rentan yang seharusn ya \ndilindungi dan dipelihara oleh negara berikut sisi relevansi: \na. Korelasi Beban Ekonomi (Access to Livelihood) : SIM bagi sebagian \nbesar masyarakat kelas bawah (seperti pengemudi ojek online, sopir \nangkutan, kurir, atau pekerja informal) bukan sekadar identitas  \nberkendara, melainkan instrumen utama penghidupan (livelihood). \nb. Ketika SIM dihanguskan secara serta-merta dan harus melalui proses \npenerbitan baru (yang biayanya setara dengan pembuatan baru plus \npotensi denda/biaya tes), hal ini menciptakan beban finansial e kstra \nyang nyata.",
+      "start_line": 1808,
+      "end_line": 1826
+    },
+    {
+      "heading": "c. Bagi masyarakat miskin atau rentan, pengeluaran finansial ya ng",
+      "slug": "c-bagi-masyarakat-miskin-atau-rentan-pengeluaran-finansial-ya-ng",
+      "text": "mendadak dan bersifat menghukum akibat sistem administrasi \nnegara dapat menggerus daya tahan ekonomi mereka. Di sinilah \nargumen dibangun: alih-alih \"memelihara\" atau meringankan beban  \nfakir miskin, negara justru memberikan beban tambahan melalui \nprosedur administratif yang kaku dan menghukum.",
+      "start_line": 1828,
+      "end_line": 1832
+    },
+    {
+      "heading": "194. Bahwa sebagai negara hukum yang berwujud welfare state (negara",
+      "slug": "194-bahwa-sebagai-negara-hukum-yang-berwujud-welfare-state-negara",
+      "text": "kesejahteraan), negara melalui instrumen hukumnya tidak boleh \nmembebani rakyatnya terutama masyarakat fakir miskin yang dilin dungi \noleh Pasal 34 ayat (1) UUD NRI 1945 dengan aturan administratif  yang \neksesif, mahal, dan menghukum, yang pada akhirnya justru meramp as \nruang mencari nafkah mereka.",
+      "start_line": 1834,
+      "end_line": 1838
+    },
+    {
+      "heading": "195. Bahwa bagi sebagian besar warga negara yang bekerja di sektor informal",
+      "slug": "195-bahwa-bagi-sebagian-besar-warga-negara-yang-bekerja-di-sektor-informal",
+      "text": "dan pencari nafkah harian seperti pengemudi ojek dalam jaringan  (driver \nonline), pedagang keliling, pengemudi angkutan umum/sopir, pekerja \nborongan, hingga guru honorer y ang harus bermobilitas tinggi li ntas \nwilayah. SIM bukan sekadar dokumen administratif berkendara, \nmelainkan lisensi legalitas profesi dan modal dasar ekonomi unt uk \nmenjalankan penghidupan sehari-hari (daily subsistence) . Tanpa \n\n49 \n \n \nkepemilikan SIM yang sah, kelompok pekerja tersebut secara seke tika \nkehilangan dasar hukum untuk mengoperasikan sarana transportasi yang \nmenjadi satu-satunya tumpuan nafkah bagi diri dan keluarganya.",
+      "start_line": 1840,
+      "end_line": 1852
+    },
+    {
+      "heading": "196. Bahwa kebijakan administratif yang menghanguskan SIM secar a serta-",
+      "slug": "196-bahwa-kebijakan-administratif-yang-menghanguskan-sim-secar-a-serta",
+      "text": "merta tanpa memberikan ruang masa tenggang (grace period) telah  \nmendatangkan kerugian berlapis bagi warga negara. Ketika masa berlaku \nSIM habis dan langsung dihanguskan menjadi prosedur penerbitan baru, \npara pekerja harian, pengemudi, hingga guru honorer dipaksa unt uk \nmeninggalkan pekerjaan dan kehilangan hari kerja (opportunity cost) , \ndemi mengikuti proses birokrasi pengulangan ujian yang rumit da n \nmemakan biaya tambahan. Bagi masyarakat berpenghasilan tidak te tap, \nkehilangan satu hari bekerja berarti hilangnya hak dasar atas pemenuhan \nkebutuhan hidup, yang secara nyata semakin memperpuruk kondisi \nekonomi mereka.",
+      "start_line": 1854,
+      "end_line": 1863
+    },
+    {
+      "heading": "197. Bahwa pengenaan beban administratif yang eksesif, kaku, da n",
+      "slug": "197-bahwa-pengenaan-beban-administratif-yang-eksesif-kaku-da-n",
+      "text": "menghukum ini tidak hanya mencederai prinsip kepastian hukum ya ng \nadil (Pasal 28D ayat (1) UUD NRI Tahun 1945), tetapi juga mengabaikan \ntanggung jawab moral dan konstitusional negara. Negara melalui \ninstrumen pelayanan publiknya seharusnya memberikan perlindunga n, \nkemudahan, serta afirmasi hukum kepada warga negara, khususnya \nkelompok rentan, pekerja sektor informal, dan masyarakat \nberpenghasilan rendah yang masuk dalam kategori fakir miskin at au \nnyaris miskin, sebagaimana diamanatkan dalam Pasal 34 ayat (1) UUD \nNRI Tahun 1945, alih-alih justru membebankan kerugian waktu, te naga, \ndan finansial melalui kebijakan administratif yang mematikan ru ang \nmencari nafkah secara sah.",
+      "start_line": 1865,
+      "end_line": 1875
+    },
+    {
+      "heading": "198. Bahwa Pemohon menyadari masa kedaluwarsa SIM C milik Pemoh on",
+      "slug": "198-bahwa-pemohon-menyadari-masa-kedaluwarsa-sim-c-milik-pemoh-on",
+      "text": "saat ini telah melampaui batas waktu 1 (satu) tahun. Namun demikian, hal \ntersebut tidak serta-merta menghilangkan kedudukan hukum (legal \nstanding) Pemohon, sebab kerugian konstitusional yang didalilkan tidak \nhanya bersifat historis atas masa lalu, tetapi juga bersifat po tensial dan \nberulang bagi Pemohon di masa yang akan datang. \n\n50",
+      "start_line": 1877,
+      "end_line": 1885
+    },
+    {
+      "heading": "199. Bahwa sebagai warga negara yang aktif melakukan mobilitas sosial dan",
+      "slug": "199-bahwa-sebagai-warga-negara-yang-aktif-melakukan-mobilitas-sosial-dan",
+      "text": "penyelenggaraan pendidikan non-formal, Pemohon di kemudian hari pasti \nakan kembali memperpanjang dan mempertahankan kepemilikan \ndokumen SIM C miliknya secara sah setelah proses administrasi a tau \npembaharuan dokumen diselesaikan. Oleh karena itu, keberadaan norma \nyang tidak memiliki batas toleransi (grace period)  mengancam hak \nkonstitusional Pemohon secara langsung setiap kali Pemohon bera da \ndalam posisi rentan terhadap keterlambatan administratif di mas a \nmendatang.",
+      "start_line": 1887,
+      "end_line": 1894
+    },
+    {
+      "heading": "200. Bahwa penentuan batas masa tenggang selama 1 (satu) tahun dalam",
+      "slug": "200-bahwa-penentuan-batas-masa-tenggang-selama-1-satu-tahun-dalam",
+      "text": "petitum Pemohon didasarkan pada penalaran yang wajar (reasonable \nlegal standard) dengan pertimbangan sebagai berikut: \na. Rentang waktu 1 tahun adalah batas toleransi maksimal yang o bjektif \nuntuk membedakan antara keterlambatan administratif yang wajar \nakibat kendala sosio-ekonomi atau situasi darurat, dengan \npengabaian total terhadap kewajiban hukum berkendara. \nb. Jika masa tenggang ditetapkan tanpa batas atau terlalu lama,  h a l  \ntersebut dapat mengganggu ketertiban umum. Sebaliknya, jika tid ak \nada sama sekali, hal itu menciptakan kekosongan norma yang \nmerugikan hak milik administratif Pemohon atas SIM yang telah \ndibangun bertahun-tahun.",
+      "start_line": 1896,
+      "end_line": 1906
+    },
+    {
+      "heading": "c. Angka 1 tahun merupakan titik keseimbangan yang paling",
+      "slug": "c-angka-1-tahun-merupakan-titik-keseimbangan-yang-paling",
+      "text": "proporsional agar Pemohon dan subjek hukum perorangan lainnya \nmemiliki jaminan kepastian hukum yang adil apabila mengalami \nhambatan serupa di kemudian hari.",
+      "start_line": 1908,
+      "end_line": 1910
+    },
+    {
+      "heading": "201. Bahwa dengan demikian, permohonan pengujian a quo tetap memiliki",
+      "slug": "201-bahwa-dengan-demikian-permohonan-pengujian-a-quo-tetap-memiliki",
+      "text": "korelasi langsung dan bermakna bagi Pemohon, guna memastikan \nbahwa hak konstitusional Pemohon terlindungi dari ancaman sanks i \nadministratif yang kaku dan sewenang-wenang pada kesempatan-\nkesempatan berkendara di masa yang akan datang. \nL. MENEPISA DALIL OPEN LEGAL POLICY  ATAS PEMBENTUKAN \nMASA TENGGANG 1 TAHUN PERPANJANGAN SIM \n\n51",
+      "start_line": 1912,
+      "end_line": 1921
+    },
+    {
+      "heading": "202. Bahwa dalam pembentukan peraturan perundang-undangan, seri ngkali",
+      "slug": "202-bahwa-dalam-pembentukan-peraturan-perundang-undangan-seri-ngkali",
+      "text": "muncul anggapan bahwa penentuan batas waktu, tata cara administ ratif, \ndan syarat teknis perpanjangan dokumen kependudukan atau perizi nan \n(termasuk Surat Izin Mengemudi) sepenuhnya merupakan ranah \nkebijakan hukum terbuka (open legal policy)  yang diserahkan kepada \npembentuk undang-undang (lawmaker) atau instansi pelaksana.",
+      "start_line": 1923,
+      "end_line": 1927
+    },
+    {
+      "heading": "203. Bahwa terhadap anggapan tersebut, Pemohon secara tegas mendalilkan",
+      "slug": "203-bahwa-terhadap-anggapan-tersebut-pemohon-secara-tegas-mendalilkan",
+      "text": "bahwa ketiadaan pengaturan mengenai masa tenggang (grace period)  \ndalam Pasal 85 ayat (2) Undang-Undang Nomor 22 Tahun 2009 tenta ng \nLalu Lintas dan Angkutan Jalan ( UU LLAJ) bukanlah sekadar pilih an \nkebijakan hukum terbuka yang netral, melainkan sebuah bentuk legal gap \n(kekosongan norma) yang melahirkan ketidakpastian hukum yang \nmerugikan hak konstitusional warga negara.",
+      "start_line": 1929,
+      "end_line": 1934
+    },
+    {
+      "heading": "204. Bahwa Mahkamah Konstitusi dalam berbagai yurisprudensi tet apnya",
+      "slug": "204-bahwa-mahkamah-konstitusi-dalam-berbagai-yurisprudensi-tet-apnya",
+      "text": "telah menegaskan bahwa meskipun pembentuk undang-undang memiliki \nkewenangan untuk mengatur suatu bidang hukum (open legal policy) , \nkewenangan tersebut tidak boleh melanggar batas-batas kewajaran , \nmelanggar prinsip proporsionalitas, menimbulkan beban yang berlebihan \n(punitive overkill) , ataupun mencederai jaminan kepastian hukum yang \nadil sebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI Tahun  \n1945.",
+      "start_line": 1936,
+      "end_line": 1942
+    },
+    {
+      "heading": "205. Bahwa penentuan batas waktu masa tenggang (grace period) selama 1",
+      "slug": "205-bahwa-penentuan-batas-waktu-masa-tenggang-grace-period-selama-1",
+      "text": "(satu) tahun bagi pemegang SIM yang masa berlakunya telah berak hir \nbukanlah sebuah bentuk penyelundupan norma materiil baru atau \nperumusan tarif administratif baru, melainkan: \na. Merupakan Wujud Nyata Kepastian Hukum yang Adil: Keberadaan \nmasa tenggang memberikan kejelasan batasan waktu yang objektif,  \ntransparan, dan tidak multitafsir bagi masyarakat maupun aparat  \npenegak hukum di lapangan, sehingga mengakhiri praktik penafsir an \nkaku yang merugikan. \nb. Ruang Toleransi Sosio-Ekonomi (Social-Economic Tolerance) : \nPenyelenggaraan pelayanan publik oleh negara tidak boleh \nmengabaikan realitas sosio-ekonomi masyarakat. Keterlambatan \n\n52 \n \n \nadministratif dalam memperpanjang SIM seringkali disebabkan ole h \nkondisi darurat, tekanan ekonomi, atau mobilitas tinggi yang \nmembatasi akses warga secara temporal. Tanpa adanya ruang \ntoleransi, sanksi administratif berubah menjadi instrumen yang \nmenghukum rakyat secara tidak proporsional.",
+      "start_line": 1944,
+      "end_line": 1963
+    },
+    {
+      "heading": "206. Bahwa apabila pembentukan norma penundaan atau masa tengga ng ini",
+      "slug": "206-bahwa-apabila-pembentukan-norma-penundaan-atau-masa-tengga-ng-ini",
+      "text": "diserahkan sepenuhnya tanpa batasan konstitusional (hanya diser ahkan \npada diskresi Peraturan Kepolisian atau aturan internal), terbu kti \nmelahirkan kesewenang-wenangan administratif berupa kewajiban \nmembuat SIM baru dari nol yang membebani secara finansial dan \nprosedur. Oleh karena itu, Mahkamah Konstitusi berwenang dan memiliki \nkewajiban konstitusional untuk meluruskan kekosongan tersebut m elalui \npenafsiran konstitusional bersyarat (conditionally constitutional).",
+      "start_line": 1965,
+      "end_line": 1971
+    },
+    {
+      "heading": "207. Bahwa dengan demikian, penyematan frasa \"sepanjang belum",
+      "slug": "207-bahwa-dengan-demikian-penyematan-frasa-sepanjang-belum",
+      "text": "melampaui masa tenggang 1 (satu) tahun sejak tanggal berakhirnya masa \nberlaku Surat Izin Mengemudi\" dalam amar putusan Mahkamah Konstitusi \nbukanlah bentuk intervensi terhadap open legal policy, melainkan koreksi \nkonstitusional yang imperatif guna menegakkan prinsip perlindun gan \nhukum yang adil, proporsional, dan berpihak pada kepastian hak warga \nnegara.",
+      "start_line": 1973,
+      "end_line": 1978
+    },
+    {
+      "heading": "208. Rumusan posita di atas menempatkan argumentasi grace period 1 tahun",
+      "slug": "208-rumusan-posita-di-atas-menempatkan-argumentasi-grace-period-1-tahun",
+      "text": "bukan sebagai urusan \"teknis pembuat UU\", melainkan sebagai \nkebutuhan konstitusional yang mendesak untuk mencegah kesewenang-\nwenangan aturan turunan, sehingga argumen open legal policy dari pihak \nPemerintah atau DPR dapat dipatahkan secara telak. \nM. FAKTOR EMPIRIS DAN KENDALA STRUKTURAL: MENGAPA",
+      "start_line": 1980,
+      "end_line": 1984
+    },
+    {
+      "heading": "209. Bahwa Indonesia merupakan salah satu negara dengan jumlah pengguna",
+      "slug": "209-bahwa-indonesia-merupakan-salah-satu-negara-dengan-jumlah-pengguna",
+      "text": "sepeda motor terbesar di dunia, di mana populasi kendaraan berm otor \nberdasarkan data Korps Lalu Lintas Polri hingga 3 Januari 2023 telah \nmencapai 152.565.905 unit, meningkat signifikan dari 136.137.45 1 unit \n\n53 \n \n \npada tahun 2020 dengan mayoritas didominasi oleh sepeda motor \nsebanyak 127.082.370 unit.",
+      "start_line": 1987,
+      "end_line": 1995
+    },
+    {
+      "heading": "210. Bahwa di tengah masifnya pertumbuhan populasi sepeda motor tersebut,",
+      "slug": "210-bahwa-di-tengah-masifnya-pertumbuhan-populasi-sepeda-motor-tersebut",
+      "text": "terdapat ironi hukum dan administratif di lapangan, di mana ras io \nkepemilikan Surat Izin Mengemudi C (SIM C) di Indonesia masih s angat \nrendah dan memprihatinkan.",
+      "start_line": 1997,
+      "end_line": 1999
+    },
+    {
+      "heading": "211. Bahwa berdasarkan estimasi data teknis keselamatan berkend ara, dari",
+      "slug": "211-bahwa-berdasarkan-estimasi-data-teknis-keselamatan-berkend-ara-dari",
+      "text": "populasi sepeda motor yang mencapai kurang lebih 120 juta unit (data \nestimasi tahun 2020), jumlah SIM C yang beredar secara sah hany a \nberada pada angka sekitar 8,855 juta dokumen. Rasio ini menunju kkan \nketimpangan yang ekstrem, yakni 1 SIM C berbanding dengan 13 un it \nsepeda motor.",
+      "start_line": 2001,
+      "end_line": 2005
+    },
+    {
+      "heading": "212. Bahwa rendahnya kepemilikan SIM C di kalangan masyarakat tidak dapat",
+      "slug": "212-bahwa-rendahnya-kepemilikan-sim-c-di-kalangan-masyarakat-tidak-dapat",
+      "text": "semata-mata dilekatkan pada faktor kelalaian atau rendahnya kesadaran \nhukum warga negara, melainkan disebabkan oleh adanya kendala \nstruktural dan hambatan aksesibilitas dalam proses perolehan SI M itu \nsendiri.",
+      "start_line": 2007,
+      "end_line": 2010
+    },
+    {
+      "heading": "213. Bahwa sebagaimana diungkapkan dalam kajian dan pengamatan praktisi",
+      "slug": "213-bahwa-sebagaimana-diungkapkan-dalam-kajian-dan-pengamatan-praktisi",
+      "text": "keselamatan transportasi, proses mendapatkan sepeda motor jauh lebih \nmudah diakses oleh masyarakat luas dibandingkan dengan proses d an \nprosedur birokrasi untuk mendapatkan legitimasi berkendara berupa SIM \nC, sehingga memicu tingginya angka pengendara yang belum memili ki \ndokumen legal tersebut. Kondisi ini memperlihatkan bahwa negara belum \nsepenuhnya menyediakan sistem pelayanan publik yang mudah, \nterjangkau, dan berkeadilan bagi seluruh lapisan masyarakat yan g \nbergantung pada kendaraan bermotor roda dua untuk penghidupan \nsehari-hari.",
+      "start_line": 2012,
+      "end_line": 2020
+    },
+    {
+      "heading": "214. Bahwa data empiris pada bagian huruf M angka 209 sampai 2 13",
+      "slug": "214-bahwa-data-empiris-pada-bagian-huruf-m-angka-209-sampai-2-13",
+      "text": "bersumber secara langsung dari data pemberitaan dan analisis ya ng \ndipublikasikan dalam laman detikoto, Rasio Kepemilikan SIM C di  \nIndonesia Masih Rendah, 1 SIM untuk 13 Motor (diakses melalui \n\n54 \n \n \nhttps://oto.detik.com/motor/d-6622204/rasio-kepemilikan-sim-c-di-\nindonesia-masih-rendah-1-sim-untuk-13-motor). \nIV. PETITUM  \nBerdasarkan seluruh uraian sebagaimana tersebut di atas, Pemoho n \nmemohon kepada Mahkamah Konstitusi Republik Indonesia untuk ber kenan \nmemeriksa, mengadili, dan memutus perkara a quo  dengan amar putusan \nsebagai berikut:",
+      "start_line": 2022,
+      "end_line": 2035
+    },
+    {
+      "heading": "2. Menyatakan frasa \"dapat diperpanjang\", dalam Pasal 85 ayat ( 2) Undang-",
+      "slug": "2-menyatakan-frasa-dapat-diperpanjang-dalam-pasal-85-ayat-2-undang",
+      "text": "Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jal an \n(Lembaran Negara Republik Indonesia Tahun 2009 Nomor 96, Tambah an \nLembaran Negara Republik Indonesia Nomor 5025) bertentangan den gan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan ti dak \nmempunyai kekuatan hukum mengikat sepanjang tidak dimaknai: \n\"dapat diperpanjang, termasuk bagi pemegang Surat Izin Mengemudi yang \nmasa berlakunya telah berakhir, sepanjang belum melampaui masa \ntenggang 1 (satu) tahun sejak tanggal berakhirnya masa berlaku Surat Izin \nMengemudi.\"",
+      "start_line": 2038,
+      "end_line": 2046
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila Mahkamah Konstitusi berpendapat lain, mohon putusan yan g seadil-\nadilnya (ex aequo et bono). \n[2.2]   Menimbang bahwa untuk membukti kan dalilnya, Pemohon mengajuk an \nalat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-8, sebagai berikut:",
+      "start_line": 2048,
+      "end_line": 2052
+    },
+    {
+      "heading": "1. Bukti P- 1 : Fotokopi Undang-Undang Nomor 22 Tahun 2009 ten tang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-22-tahun-2009-ten-tang",
+      "text": "Lalu Lintas dan Angkutan Jalan;",
+      "start_line": 2054,
+      "end_line": 2054
+    },
+    {
+      "heading": "2. Bukti P- 2 : Fotokopi Undang-Undang Dasar Negara Republik I ndonesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-i-ndonesia",
+      "text": "Tahun 1945;",
+      "start_line": 2056,
+      "end_line": 2056
+    },
+    {
+      "heading": "3. Bukti P- 3 : Fotokopi Kartu Tanda Penduduk (KTP) atas nama Jangkung",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-jangkung",
+      "text": "Sido Sentosa; \n\n55 \n \n \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini,  \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 2058,
+      "end_line": 2065
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang",
+      "start_line": 2067,
+      "end_line": 2072
+    },
+    {
+      "heading": "4. Bukti P- 4 : Fotokopi Surat Izin Mengemudi (SIM) C atas nam a",
+      "slug": "4-bukti-p-4-fotokopi-surat-izin-mengemudi-sim-c-atas-nam-a",
+      "text": "Jangkung Sido Sentosa yang telah berakhir masa \nberlakunya;",
+      "start_line": 2074,
+      "end_line": 2075
+    },
+    {
+      "heading": "5. Bukti P- 5 : Fotokopi Peraturan Kepolisian Negara Republik Indonesia",
+      "slug": "5-bukti-p-5-fotokopi-peraturan-kepolisian-negara-republik-indonesia",
+      "text": "Nomor 5 Tahun 2021 tentang Penerbitan dan Penandaan \nSurat Izin Mengemudi sebagaimana telah diubah dengan \nPeraturan Kepolisian Negara Republik Indonesia Nomor 2 \nTahun 2023;",
+      "start_line": 2077,
+      "end_line": 2080
+    },
+    {
+      "heading": "6. Bukti P- 6 : Fotokopi Data sosial ekonomi Pemohon yang terd aftar",
+      "slug": "6-bukti-p-6-fotokopi-data-sosial-ekonomi-pemohon-yang-terd-aftar",
+      "text": "dalam Data Tunggal Sosial dan Ekonomi Nasional (DTSEN), \ncekbansoskemensos.go.id/hasil-nik;",
+      "start_line": 2082,
+      "end_line": 2083
+    },
+    {
+      "heading": "7. Bukti P- 7 : Fotokopi Jurnal ilmiah dan kajian empiris oleh D i a n d r a",
+      "slug": "7-bukti-p-7-fotokopi-jurnal-ilmiah-dan-kajian-empiris-oleh-d-i-a-n-d-r-a",
+      "text": "Anindhita, Muhammad Zaki, Resya Rosalina, & Simamora \nJeremy, \"Fenomena Pembayaran Tidak Resmi dalam \nProses Pembuatan SIM di Indonesia\", Jejak Digital: Jurnal \nIlmiah Multidisiplin, Vol. 1, No. 6, 2025, hlm. 4448- 4455;",
+      "start_line": 2085,
+      "end_line": 2088
+    },
+    {
+      "heading": "8. Bukti P- 8 : Fotokopi Peraturan Pemerintah Nomor 76 Tahun 2 020",
+      "slug": "8-bukti-p-8-fotokopi-peraturan-pemerintah-nomor-76-tahun-2-020",
+      "text": "tentang Jenis dan Tarif Atas Jenis Penerimaan Negara \nBukan Pajak Yang Berlaku Pada Kepolisian Negara \nRepublik Indonesia. \n\n56 \n \n \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a \nUndang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembar an Negara \nRepublik Indonesia Nomor 5076), Mahkamah berwenang, antara lain , mengadili \npada tingkat pertama dan terakhir yang putusannya bersifat fina l untuk menguji \nundang-undang terhadap UUD NRI Tahun 1945. \n[3.2]  Menimbang bahwa permohonan Pemohon adalah permohonan untuk \nmenguji konstitusionalitas norma undang-undang, in casu norma Pasal 85 ayat (2) \nUndang-Undang Nomor  22 Tahun 2009 tentang Lalu Lintas dan Angk utan Jalan \n(Lembaran Negara Republik Indonesia Tahun 2009 Nomor 96, Tambah an \nLembaran Negara Republik Indonesia Nomor 5025, selanjutnya dise but UU \n22/2009), terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang m engadili \npermohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 2090,
+      "end_line": 2121
+    },
+    {
+      "heading": "d. lembaga negara.",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \n\n57 \n \n \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi Nomor \n006/PUU-III/2005 yang diucapkan dalam sidang terbuka untuk umum  pada 31 Mei \n2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-V/2007 yang d iucapkan \ndalam sidang terbuka untuk umum pada 20 September 2007, serta putusan-putusan \nselanjutnya berpendirian bahwa kerugian hak dan/atau kewenangan  konstitusional \nsebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK harus memenu hi lima \nsyarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 2124,
+      "end_line": 2146
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 2148,
+      "end_line": 2149
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5]  Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1 ) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, Mahkamah \nselanjutnya akan mempertimbangkan kedudukan hukum Pemohon yang pada \npokoknya sebagai berikut.",
+      "start_line": 2151,
+      "end_line": 2158
+    },
+    {
+      "heading": "1. Bahwa permohonan Pemohon adalah pengujian konstitusionalitas norma Pasal",
+      "slug": "1-bahwa-permohonan-pemohon-adalah-pengujian-konstitusionalitas-norma-pasal",
+      "text": "85 ayat (2) UU 22/2009, yang rumusan selengkapnya sebagai berikut: \nSurat izin mengemudi berlaku selama 5 (lima) tahun dan dapat \ndiperpanjang. \n\n58",
+      "start_line": 2160,
+      "end_line": 2166
+    },
+    {
+      "heading": "2. Bahwa Pemohon adalah perseorangan warga negara Indonesia, ya ng merasa",
+      "slug": "2-bahwa-pemohon-adalah-perseorangan-warga-negara-indonesia-ya-ng-merasa",
+      "text": "dirugikan dengan berlakunya frasa “dapat diperpanjang” dalam norma Pasal 85 \nayat (2) UU 22/2009 karena frasa a quo tidak memberikan kepastian hukum \nyang memadai mengenai kedudukan dan konsekuensi hukum terhadap Surat \nIzin Mengemudi (SIM) yang telah berakhir masa berlakunya, khusu snya ketika \npemegang SIM bermaksud memperoleh kembali keberlakuan SIM melal ui \nmekanisme perpanjangan.",
+      "start_line": 2168,
+      "end_line": 2173
+    },
+    {
+      "heading": "3. Bahwa Pemohon memiliki kepent ingan langsung terhadap ketidakjelasan frasa",
+      "slug": "3-bahwa-pemohon-memiliki-kepent-ingan-langsung-terhadap-ketidakjelasan-frasa",
+      "text": "“dapat diperpanjang” dalam norma Pasal 85 ayat (2) UU 22/2009 t ersebut \nkarena masa berlaku SIM Pemohon telah berakhir.",
+      "start_line": 2175,
+      "end_line": 2176
+    },
+    {
+      "heading": "4. Bahwa Pemohon telah memiliki SIM secara sah dan masa berlaku SIM tersebut",
+      "slug": "4-bahwa-pemohon-telah-memiliki-sim-secara-sah-dan-masa-berlaku-sim-tersebut",
+      "text": "telah berakhir, dan frasa “dapat diperpanjang” dalam norma Pasa l 85 ayat (2) \nUU 22/2009 tidak memiliki parameter normatif yang mengatur kemu ngkinan \nadanya kesempatan bagi pemegang SIM yang masa berlaku SIM sudah  \nberakhir untuk menggunakan mekanisme perpanjangan dalam jangka waktu \ntertentu atau harus menempuh mekanisme penerbitan SIM baru. Men urut \nPemohon hal ini bertentangan dengan hak konstitusional atas kepastian hukum \nyang adil sebagaimana dijamin Pasal 28D ayat (1) UUD NRI Tahun 1945",
+      "start_line": 2178,
+      "end_line": 2184
+    },
+    {
+      "heading": "5. Bahwa berdasarkan data sosial ekonomi, Pemohon berada pada d esil 5 (lima).",
+      "slug": "5-bahwa-berdasarkan-data-sosial-ekonomi-pemohon-berada-pada-d-esil-5-lima",
+      "text": "Data tersebut tidak diajukan oleh Pemohon untuk menyatakan bahwa Pemohon \nsecara otomatis berkedudukan sebagai “fakir miskin”, namun hal ini \nmembuktikan bahwa kemampuan ekonomi Pemohon berada pada ambang \nbatas kerentanan finansial. Jika masa berlaku SIM telah habis d an Pemohon \nterlambat dalam memperpanjang masa berlaku maka akibatnya Pemohon harus \nmengulang seluruh tahapan seperti pembuatan SIM baru. Menurut P emohon \nhal ini menjadi beban terhadap kondisi keuangan Pemohon yang te rbatas, \nsehingga perlu intervensi dari negara sebagaimana amanat Pasal 34 ayat (1) \nUUD NRI Tahun 1945.",
+      "start_line": 2186,
+      "end_line": 2194
+    },
+    {
+      "heading": "6. Bahwa pemberlakuan norma a quo tanpa memberikan ruang toleransi",
+      "slug": "6-bahwa-pemberlakuan-norma-a-quo-tanpa-memberikan-ruang-toleransi",
+      "text": "administratif bagi masyarakat rentan di klaster Desil 5 merupak an bentuk \npengabaian negara terhadap asas perlindungan sosial, yang pada akhirnya \nmembebani warga negara secara tidak adil dan melanggar hak atas  jaminan \n\n59 \n \n \nkepastian hukum yang adil sebagaimana dijamin dalam Pasal 28D ayat (1) dan \nPasal 34 ayat (1) UUD NRI Tahun 1945. \n Berdasarkan uraian dalam menjelaskan kedudukan hukum di atas, \nPemohon telah menjelaskan kualifikasinya sebagai perseorangan w arga negara \nIndonesia yang dibuktikan dengan fotokopi Kartu Tanda Penduduk (KTP) [vide Bukti \nP-3] dan memiliki hak konstitusional yang dijamin dalam Pasal 2 8D ayat (1) dan \nPasal 34 ayat (1) UUD NRI Tahun 1945. Hak konstitusional dimaks ud menurut \nanggapan Pemohon dirugikan dengan berlakunya frasa “dapat diperpanjang” dalam \nnorma Pasal 85 ayat (2) UU 22/2009 yang tidak mengatur secara j elas mekanisme \nperpanjangan masa berlaku SIM yang telah habis masa berlakunya.  Menurut \nPemohon sebagai akibat dari tidak adanya mekanisme yang jelas t ersebut jika \nPemohon terlambat dalam memperpanjang masa berlaku SIM maka Pem ohon \ndiharuskan mengulang seluruh tahapan seperti halnya pembuatan SIM baru. Hal ini \nmenjadi beban terhadap kondisi keuangan Pemohon yang terbatas. \n Namun, setelah mencermati secara saksama berkenaan dengan urai an \nPemohon dalam menjelaskan kedudukan hukum tersebut, Mahkamah ti dak \nmendapatkan uraian yang spesifik bahwa Pemohon sebagai perseora ngan warga \nnegara Indonesia yang memiliki hak konstitusional yang dijamin oleh UUD NRI \nTahun 1945, yang dianggap dirugikan baik secara aktual atau set idak-tidaknya \npotensial dalam batas penalaran yang wajar dapat dipastikan aka n terjadi karena \nberlakunya frasa “dapat diperpanjang” dalam norma Pasal 85 ayat  (2) UU 22/2009 \nyang dimohonkan pengujian. Sebab, secara hukum norma yang dimoh onkan \npengujian tidak menghalangi hak Pemohon untuk memperpanjang SIM yang habi s \nmasa berlakunya. \n Oleh karena itu, berdasarkan fakta hukum yang diuraikan di ata s, \nMahkamah tidak mendapatkan keyakinan atas kerkaitan logis adany a hubungan \nsebab-akibat ( causal-verband) antara hak konstitusional yang dimiliki Pemohon \nyang dianggap dirugikan dengan berlakunya norma undang-undang y ang \ndimohonkan pengujian. Sehingga, Pemohon tidak memenuhi syarat-s yarat \nanggapan kerugian hak konstitusional sebagaimana diuraikan pada  Paragraf [3.4]. \nDalam hal ini, syarat-syarat anggapan kerugian hak konstitusion al sebagaimana \ndikehendaki dalam Putusan Mahkamah Konstitusi Nomor 006/PUU-III /2005 dan \n\n60 \n \n \nPutusan Mahkamah Konstitusi Nomor 11/PUU-V/2007 serta putusan-p utusan \nselanjutnya bersifat kumulatif.  Dengan tidak terpenuhi salah s atu syarat dimaksud \ndengan sendirinya tidak terpenuhi syarat yang dikehendaki dan o leh karenanya \ntidak ada relevansi bagi Mahkamah untuk mempertimbangkan syarat  selebihnya. \nDengan demikian, tidak terdapat keraguan bagi Mahkamah untuk me nyatakan \nbahwa Pemohon tidak memiliki kedudukan hukum untuk bertindak se bagai \npemohon dalam mengajukan permohonan a quo. \n[3.6]  Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan a quo, namun oleh karena Pemohon tidak memiliki kedudukan hukum \nuntuk mengajukan permohonan a quo maka Mahkamah tidak mempertimbangkan \nlebih lanjut permohonan Pemohon. \n[3.7] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 2196,
+      "end_line": 2251
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 2253,
+      "end_line": 2253
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon tidak memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554) da n Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \n\n61 \n \n \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 2255,
+      "end_line": 2271
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,             \nM. Guntur Hamzah, Adies Kadir dan Liliek Prisbawono Adi, masing-masing sebagai \nAnggota, pada hari Rabu, tanggal enam belas, bulan September, tahun dua ribu \ndua puluh enam , yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \nterbuka untuk umum pada hari Selasa, tanggal  dua puluh sembilan, bulan \nSeptember, tahun dua ribu dua puluh enam, selesai diucapkan pukul 14.13 WIB, \noleh sembilan Hakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, \nSaldi Isra, Enny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Dani el Yusmic P. \nFoekh, M. Guntur Hamzah, Adies Kadir dan Liliek Prisbawono Adi,  masing-masing \nsebagai Anggota, dengan dibantu oleh Ria Indriyani sebagai Pani tera Pengganti, \nserta dihadiri oleh Pemohon, Dewan Perwakilan Rakyat atau yang mewakili, dan \nPresiden atau yang mewakili. \nKETUA, \nttd \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd \nSaldi Isra \nttd \nEnny Nurbaningsih \nttd \nRidwan Mansyur \nttd \nArsul Sani \n  \n\n62 \n \n \nttd \nDaniel Yusmic P. Foekh \nttd \nM. Guntur Hamzah \nttd \nAdies Kadir \nttd \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd \nRia Indriyani",
+      "start_line": 2273,
+      "end_line": 2317
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Jangkung Sido Sentosa",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jalan"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 28D ayat (1)",
+      "Pasal 34 ayat (1)",
+      "PASAL 34 AYAT (1)",
+      "Pasal 85 ayat (2)",
+      "PASAL 28D AYAT (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P- 7",
+      "BUKTI P-5",
+      "BUKTI P-8",
+      "BUKTI P- 6",
+      "BUKTI P- 1",
+      "BUKTI P- 2",
+      "BUKTI P- 3",
+      "BUKTI P- 4",
+      "BUKTI P- 5",
+      "BUKTI P- 8",
+      "REFERENSI:310/PUU-XXIV/2026",
+      "REFERENSI:310/PUU/PAN.MK/AP3/08/2026",
+      "REFERENSI:42/PUU-XXI/2023",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangterbukauntukumumpada31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005dan60PutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Ria Indriyani"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "310/PUU-XXIV/2026",
+      "310/PUU/PAN.MK/AP3/08/2026",
+      "42/PUU-XXI/2023",
+      "006/PUU-III/2005yangdiucapkandalamsidangterbukauntukumumpada31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005dan60PutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "310/PUU-XXIV/2026",
+      "310/PUU/PAN.MK/AP3/08/2026",
+      "42/PUU-XXI/2023",
+      "006/PUU-III/2005yangdiucapkandalamsidangterbukauntukumumpada31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005dan60PutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

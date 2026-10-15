@@ -1,0 +1,1816 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_15019_1790670710.pdf",
+    "file_name": "putusan_mkri_15019_1790670710.pdf",
+    "page_count": 66,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15019_1790670710.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "308/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "001/IN/SKK.PUU/VII/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-29",
+    "decision_date_raw": "dua puluh sembilan, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 308/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang  Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pi dana \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 19 45, yang \ndiajukan oleh: \n N a m a  :  Hellyana \n Alamat : Jalan Gatot Subroto, RT/RW 009/005, Kelurahan Air Sag a, \nKecamatan Tanjung Pandan, Kabupaten Belitung, Provinsi \nKepulauan Bangka Belitung. \n Pekerjaan : Wakil Gubernur Provinsi Kepulauan Bangka Belitung \nBerdasarkan Surat Kuasa Nomor 001/IN/SKK.PUU/VII/2026 bertangga l 30 Juli \n2026, memberi kuasa kepada Muhammad Zainul Arifin, S.H., M.H., PH.D, Dedi \nJumadi Sumarsito, SIK., MSI, Bionda Johan Anggara, S.E., S.H., M.M., Abdul \nHakim, S.H., M.H., Sipghotulloh Mujaddidi, S.H., M.H., Muhammad  A b d u l  K h o l i q  \nSuhri, S.H., M.H., Moh. Ali Murtadho, S.H., A. Fahrur Rozi, S.H ., Abdullah, S.H., \nSuwanto Kahir, S.H., M.H., Ahmad Fauzan, S.H., M.H, Medioni Ang gari, S.H., dan \nMunawwar Kholis, S.H., kesemuanya merupakan Advokat/Konsultan H ukum, serta \nPegiat yang tergabung pada Kantor Hukum LAW FIRM MZA & PARTNERS , yang \nberalamat di Jalan Raya Serpong 92Avenix, BSD City, B-16, Sampo ra, Cisauk, \nTangerang, Banten, baik sendiri-sendiri maupun bersama-sama bertindak untuk dan \natas nama Pemberi Kuasa; \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon; \nMemeriksa bukti-bukti Pemohon; \n\n\n2",
+      "start_line": 6,
+      "end_line": 35
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]      Menimbang bahwa Pemohon telah mengajukan permohonan berta nggal \n12 Agustus 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada tanggal \n12 Agustus 2026 berdasarkan Akta Pengajuan Permohonan Pemohon N omor \n308/PUU/PAN.MK/AP3/08/2026, dan telah dicatat dalam Buku Regist rasi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 308/PUU- XXIV/2026 \npada tanggal 13 Agustus 2026, yang telah diperbaiki dengan perb aikan \npermohonan bertanggal 8 September 2026 dan diterima Mahkamah pada tanggal 9 \nSeptember 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 37,
+      "end_line": 45
+    },
+    {
+      "heading": "1. Bahwa berdasarkan ketentuan yang termaktub dalam Pasal 24 ay at (2) UUD",
+      "slug": "1-bahwa-berdasarkan-ketentuan-yang-termaktub-dalam-pasal-24-ay-at-2-uud",
+      "text": "NRI 1945 yang menyatakan, “Kekuasaan kehakiman dilakukan oleh s ebuah \nMahkamah Agung dan badan peradilan yang di bawahnya dan oleh se buah \nMahkamah Konstitusi”;",
+      "start_line": 47,
+      "end_line": 49
+    },
+    {
+      "heading": "2. Bahwa selanjutnya ketentuan Pasal 24C ayat (1) UUD NRI 1945 yang",
+      "slug": "2-bahwa-selanjutnya-ketentuan-pasal-24c-ayat-1-uud-nri-1945-yang",
+      "text": "menyatakan, “Mahkamah Konstitusi berwenang mengadili pada tingk at \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-\nundang terhadap Undang-Undang Dasar, memutus sengketa kewenanga n \nLembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar, \nmemutus pembubaran partai politik dan memutus perselisihan tent ang \nPemilihan Umum”;",
+      "start_line": 51,
+      "end_line": 56
+    },
+    {
+      "heading": "3. Bahwa Pasal 29 ayat (1) Undang-Undang Nomor 48 Tahun 2009 te ntang",
+      "slug": "3-bahwa-pasal-29-ayat-1-undang-undang-nomor-48-tahun-2009-te-ntang",
+      "text": "Kekuasaan Kehakiman menyatakan, “Mahkamah Konstitusi berwenang \nmengadili pada tingkat pertama dan terakhir yang putusannya ber sifat final \nuntuk: a. menguji undang-undang terhadap Undang-Undang Dasar Re publik \nIndonesia Tahun 1945”;",
+      "start_line": 58,
+      "end_line": 61
+    },
+    {
+      "heading": "4. Bahwa berdasarkan ketentuan tersebut di atas, Mahkamah Konst itusi",
+      "slug": "4-bahwa-berdasarkan-ketentuan-tersebut-di-atas-mahkamah-konst-itusi",
+      "text": "mempunyai kewenangan untuk melakukan pengujian undang-undang \nterhadap UUD NRI 1945 (judicial review), demikian pula berdasarkan Pasal 10 \nayat (1) huruf a Undang-Undang Nomor 7 Tahun 2020 tentang Perub ahan \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nmenyatakan, “Mahkamah Konstitusi berwenang mengadili pada tingk at \npertama dan terakhir yang putusannya bersifat final untuk: a. menguji undang-\n\n3 \n \nundang terhadap Undang-Undang Dasar Negara Republik Indonesia T ahun \n1945”;",
+      "start_line": 63,
+      "end_line": 73
+    },
+    {
+      "heading": "5. Bahwa berdasarkan ketentuan Pasal 9 ayat (1) Undang-Undang N omor 13",
+      "slug": "5-bahwa-berdasarkan-ketentuan-pasal-9-ayat-1-undang-undang-n-omor-13",
+      "text": "Tahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 12 Tahun  \n2011 tentang Pembentukan Peraturan Perundang-undangan menyataka n, \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan Undan g-\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 75,
+      "end_line": 79
+    },
+    {
+      "heading": "6. Bahwa Mahkamah Konstitusi juga menegaskan kewenangan penguji an",
+      "slug": "6-bahwa-mahkamah-konstitusi-juga-menegaskan-kewenangan-penguji-an",
+      "text": "materiil undang-undang terhadap Un dang-Undang Dasar Negara Repu blik \nIndonesia Tahun 1945 sebagaimana diatur dalam Pasal 2 ayat (1) Peraturan \nMahkamah Konstitusi Nomor 07 Tahun 2025 tentang Tata Beracara d alam \nPerkara Pengujian Undang-Undang (“PMK 7/2025”) yang menyatakan, “Objek \nPermohonan PUU adalah undang-undang dan Perppu”;",
+      "start_line": 81,
+      "end_line": 85
+    },
+    {
+      "heading": "7. Bahwa berdasarkan ketentuan yang telah dijabarkan, maka hal ini semakin",
+      "slug": "7-bahwa-berdasarkan-ketentuan-yang-telah-dijabarkan-maka-hal-ini-semakin",
+      "text": "mempertegas kewenangan Mahkamah Konstitusi sebagai satu-satunya  \nlembaga yang berwenang untuk menguji konstitusionalitas suatu U ndang-\nUndang terhadap Undang-Undang Dasar Negara Republik Indonesia T ahun \n1945;",
+      "start_line": 87,
+      "end_line": 90
+    },
+    {
+      "heading": "8. Bahwa objek permohonan yang diajukan oleh Pemohon dalam permohonan a",
+      "slug": "8-bahwa-objek-permohonan-yang-diajukan-oleh-pemohon-dalam-permohonan-a",
+      "text": "quo adalah pengujian materiil terhadap Pasal 272 Ayat (2) KUHP Nasi onal \nterhadap Pasal 28D ayat (1) UUD NRI 1945 yang selengkapnya berb unyi \nsebagai berikut: \n Pasal 272 Ayat (2) KUHP Nasional, yang menyatakan: “Setiap orang \nyang menggunakan ijazah, sertifikat kompetensi, gelar akademik, profesi, \natau vokasi palsu, dipidana dengan pidana penjara paling lama 6 (enam) \ntahun atau pidana denda paling banyak kategori V” \n Pasal 622 ayat (8) KUHP Nasional, yang berbunyi: “Dalam hal ketentuan \npasal mengenai Tindak Pidana penggunaan ijazah atau gelar akade mik \npalsu sebagaimana dimaksud pada ayat (1) huruf p mengacu Pasal 69 \nUndang-Undang yang bersangkutan, pengacuannya diganti dengan \nPasal 272 ayat (2) Undang-Undang ini.”",
+      "start_line": 92,
+      "end_line": 103
+    },
+    {
+      "heading": "9. Bahwa terkait penambahan norma Pasal 622 Ayat (8) KUHP Nasional sebagai",
+      "slug": "9-bahwa-terkait-penambahan-norma-pasal-622-ayat-8-kuhp-nasional-sebagai",
+      "text": "obyek pengujian dalam permohonan a quo, telah sejalan dengan ketentuan \nPasal 38 Ayat (2) PMK 7/2025 yang menyatakan: “Dalam hal perbai kan \npermohonan sebagaimana dimaksud pada ayat (1) berkenaan dengan \npenambahan norma yang dimohonkan pengujian, dapat dilakukan sep anjang \n\n4 \n \nberkaitan dengan subtansi norma dalam undang-undang atau perppu  y a n g  \ndimohonkan pengujian dalam permohonan awal”.",
+      "start_line": 105,
+      "end_line": 113
+    },
+    {
+      "heading": "10. Bahwa pasal batu uji yang akan digunakan untuk menguji kons titusionalitas",
+      "slug": "10-bahwa-pasal-batu-uji-yang-akan-digunakan-untuk-menguji-kons-titusionalitas",
+      "text": "norma dalam permohonan a quo adalah sebagai berikut: \n1) Pasal 1 Ayat (3) UUD NRI 1945, yang menyatakan: “Negara Indonesia \nadalah negara hukum” \n2) Pasal 28D ayat (1) UUD NRI 1945, yang menyatakan: “Setiap orang \nberhak atas pengakuan, jaminan, perlindungan, dan kepastian huk um \nyang adil, serta perlakuan yang sama di depan hukum”.",
+      "start_line": 115,
+      "end_line": 120
+    },
+    {
+      "heading": "11. Bahwa oleh karena permohonan a quo menguji konstitusionalitas norma dari",
+      "slug": "11-bahwa-oleh-karena-permohonan-a-quo-menguji-konstitusionalitas-norma-dari",
+      "text": "suatu undang-undang terhadap UUD NRI 1945, maka Mahkamah berwenang \nuntuk memeriksa dan mengadili per mohonan pengujian materiil und ang-\nundang a quo. \nII. KEDUDUKAN HUKUM/LEGAL STANDING PEMOHON",
+      "start_line": 122,
+      "end_line": 125
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 51 ayat (1) Undang-Undang Nomor 24 Tah un 2003",
+      "slug": "1-bahwa-ketentuan-pasal-51-ayat-1-undang-undang-nomor-24-tah-un-2003",
+      "text": "tentang Mahkamah Konstitusi sebagaimana telah diubah terakhir d engan \nUndang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga atas \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi ( “UU \nMK”) menentukan bahwa Pemohon adalah pihak yang menganggap hak \ndan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya  undang-\nundang, yang meliputi: \na) perorangan warga negara Indonesia; \nb) kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang; \nc) badan hukum publik atau badan hukum privat; atau \nd) lembaga negara.",
+      "start_line": 127,
+      "end_line": 138
+    },
+    {
+      "heading": "2. Bahwa Penjelasan Pasal 51 ayat (1) UU MK memberikan pengerti an bahwa",
+      "slug": "2-bahwa-penjelasan-pasal-51-ayat-1-uu-mk-memberikan-pengerti-an-bahwa",
+      "text": "yang dimaksud dengan “hak konstitusional” adalah hak-hak yang diatur dalam \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 140,
+      "end_line": 141
+    },
+    {
+      "heading": "3. Bahwa ketentuan mengenai kedudukan hukum Pemohon juga ditega skan",
+      "slug": "3-bahwa-ketentuan-mengenai-kedudukan-hukum-pemohon-juga-ditega-skan",
+      "text": "dalam Pasal 4 ayat (1) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 \ntentang Pedoman Beracara dalam Perkara Pengujian Undang-Undang (“PMK \nNomor 7 Tahun 2025”), yang menentukan bahwa Pemohon adalah pihak yang \nmenganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh \n\n5 \n \nberlakunya undang-undang atau Perppu, yang meliputi perorangan warga \nnegara Indonesia atau kelompok orang yang mempunyai kepentingan  sama, \nkesatuan masyarakat hukum adat, badan hukum publik atau badan h ukum \nprivat, atau lembaga negara.",
+      "start_line": 143,
+      "end_line": 153
+    },
+    {
+      "heading": "4. Bahwa selanjutnya, Pasal 4 ayat (2) PMK Nomor 7 Tahun 2025 m enentukan",
+      "slug": "4-bahwa-selanjutnya-pasal-4-ayat-2-pmk-nomor-7-tahun-2025-m-enentukan",
+      "text": "bahwa kerugian hak dan/atau kewenangan konstitusional sebagaima na \ndimaksud pada ayat (1) harus memenuhi 5 (lima) syarat, yaitu: \na) adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD NRI Tahun 1945; \nb) hak dan/atau kewenangan konstitusional tersebut dianggap tel ah \ndirugikan oleh berlakunya undang-undang atau Perppu yang \ndimohonkan pengujian; \nc) kerugian hak dan/atau kewenangan konstitusional tersebut ber sifat \nspesifik atau khusus dan aktual, atau setidak-tidaknya bersifat potensial \nyang menurut penalaran yang wajar dapat dipastikan akan terjadi; \nd) adanya hubungan sebab-akibat antara kerugian hak dan/atau \nkewenangan konstitusional dengan undang-undang atau Perppu yang  \ndimohonkan pengujian; dan \ne) adanya kemungkinan bahwa dengan dikabulkannya permohonan, \nkerugian hak dan/atau kewenangan konstitusional tersebut tidak akan \natau tidak lagi terjadi.",
+      "start_line": 155,
+      "end_line": 170
+    },
+    {
+      "heading": "5. Bahwa berdasarkan ketentuan tersebut, Pemohon terlebih dahul u perlu",
+      "slug": "5-bahwa-berdasarkan-ketentuan-tersebut-pemohon-terlebih-dahul-u-perlu",
+      "text": "menjelaskan kapasitas hukumnya, hak konstitusional yang dimilikinya, bentuk \nkerugian konstitusional yang dialaminya akibat berlakunya norma  a quo , \nhubungan sebab-akibat antara keberlakuan norma a quo  dengan kerugian \ntersebut, serta kemungkinan dipulihkannya kerugian dimaksud apa bila \npermohonan a quo dikabulkan. \nKualifikasi Pemohon dan Hak Konstitusional yang Dijamin UUD NRI  \nTahun 1945",
+      "start_line": 172,
+      "end_line": 178
+    },
+    {
+      "heading": "6. Bahwa Pemohon merupakan perorangan warga negara Indonesia (B ukti P-4)",
+      "slug": "6-bahwa-pemohon-merupakan-perorangan-warga-negara-indonesia-b-ukti-p-4",
+      "text": "yang saat ini menjabat sebagai Wakil Gubernur Provinsi Kepulaua n Bangka \nBelitung (Bukti P-5), sehingga Pemohon memenuhi kualifikasi sebagai subjek \nhukum yang dapat mengajukan permohonan pengujian undang-undang \n\n6 \n \nsebagaimana dimaksud dalam Pasal 51 ayat (1) huruf a UU MK dan Pasal 4 \nayat (1) huruf a PMK Nomor 7 Tahun 2025.",
+      "start_line": 180,
+      "end_line": 187
+    },
+    {
+      "heading": "7. Bahwa sebagai perorangan warga negara Indonesia, Pemohon mem iliki hak",
+      "slug": "7-bahwa-sebagai-perorangan-warga-negara-indonesia-pemohon-mem-iliki-hak",
+      "text": "konstitusional yang dijamin oleh UUD NRI Tahun 1945, khususnya hak atas \npengakuan, jaminan, perlindungan, dan kepastian hukum yang adil  \nsebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 189,
+      "end_line": 191
+    },
+    {
+      "heading": "8. Bahwa hak atas kepastian hukum yang adil tersebut tidak dapa t dilepaskan",
+      "slug": "8-bahwa-hak-atas-kepastian-hukum-yang-adil-tersebut-tidak-dapa-t-dilepaskan",
+      "text": "dari prinsip negara hukum sebagaimana ditegaskan dalam Pasal 1 ayat (3) \nUUD NRI Tahun 1945. Dalam negara hukum, setiap pembatasan terha dap \nhak dan kebebasan warga negara, terlebih pembatasan yang dilaku kan \nmelalui hukum pidana, harus bersumber dari undang-undang yang \nmemberikan batas yang jelas, terukur, dapat diperkirakan, dan tidak membuka \nruang bagi pertanggungjawaban pidana yang tidak didasarkan pada  \nparameter normatif yang memadai.",
+      "start_line": 193,
+      "end_line": 199
+    },
+    {
+      "heading": "9. Bahwa kepastian hukum dalam hukum pidana tidak hanya menghen daki",
+      "slug": "9-bahwa-kepastian-hukum-dalam-hukum-pidana-tidak-hanya-menghen-daki",
+      "text": "adanya rumusan mengenai perbuatan yang dilarang, tetapi juga menghendaki \nkejelasan mengenai keadaan yang harus ada agar seseorang dapat dimintai \npertanggungjawaban pidana, termasuk batas mengenai keadaan subj ektif \natau kesalahan yang harus melekat pada diri pelaku, serta kejel asan \nmengenai konstruksi dan konsekuensi pidana yang dapat diterapkan terhadap \nsuatu perbuatan.",
+      "start_line": 201,
+      "end_line": 206
+    },
+    {
+      "heading": "10. Bahwa oleh karena itu, ketika suatu norma pidana diterapkan terhadap",
+      "slug": "10-bahwa-oleh-karena-itu-ketika-suatu-norma-pidana-diterapkan-terhadap",
+      "text": "seseorang yang secara konkret sedang menghadapi proses \npertanggungjawaban pidana, ketidakjelasan mengenai batas perbuatan yang \ndapat dipidana, keadaan subjektif yang harus dibuktikan, ataupu n hubungan \nantar-ketentuan pidana yang dapat diterapkan terhadap perbuatan  tersebut, \nmerupakan persoalan yang secara langsung bersinggungan dengan h ak \nkonstitusional orang yang bersangkutan atas kepastian hukum yang adil. \nKerugian Konstitusional Pemohon akibat Pasal 272 Ayat (2) KUHP \nNasional",
+      "start_line": 208,
+      "end_line": 215
+    },
+    {
+      "heading": "11. Bahwa Pemohon saat ini telah berada dalam proses pertanggun gjawaban",
+      "slug": "11-bahwa-pemohon-saat-ini-telah-berada-dalam-proses-pertanggun-gjawaban",
+      "text": "pidana dan telah menghadapi Surat Dakwaan Penuntut Umum, yang disusun \nsecara alternatif berdasarkan Pasal 272 ayat (2) UU Nomor 1 Tah un 2023 \ntentang KUHP (“KUHP Nasional”) atau Pasal 93 juncto Pasal 28 ayat (7) \n\n7 \n \nUndang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi (“UU Dikti”) \n(Bukti P-6, P-7, dan P-8).",
+      "start_line": 217,
+      "end_line": 224
+    },
+    {
+      "heading": "12. Bahwa keadaan tersebut menunjukkan bahwa persoalan mengenai",
+      "slug": "12-bahwa-keadaan-tersebut-menunjukkan-bahwa-persoalan-mengenai",
+      "text": "penggunaan ijazah dan/atau gelar akademik bukan lagi merupakan \nkemungkinan hipotetis bagi Pemohon, melainkan telah memperoleh bentuk \nyang konkret dalam proses penuntutan terhadap diri Pemohon. Den gan \ndemikian, keberlakuan norma a quo  telah mempunyai direct, actual, and \npersonal impact terhadap Pemohon.",
+      "start_line": 226,
+      "end_line": 230
+    },
+    {
+      "heading": "13. Bahwa Pemohon tidak mempersoalkan kewenangan negara untuk melakukan",
+      "slug": "13-bahwa-pemohon-tidak-mempersoalkan-kewenangan-negara-untuk-melakukan",
+      "text": "penegakan hukum terhadap setiap orang yang diduga melakukan tin dak \npidana dan tidak pula bermaksud meniadakan pertanggungjawaban p idana \nterhadap orang yang dengan sengaja menggunakan ijazah, sertifik at \nkompetensi, gelar akademik, profesi, atau vokasi yang diketahuinya palsu.",
+      "start_line": 232,
+      "end_line": 235
+    },
+    {
+      "heading": "14. Bahwa persoalan konstitusional yang diajukan Pemohon justru terletak pada",
+      "slug": "14-bahwa-persoalan-konstitusional-yang-diajukan-pemohon-justru-terletak-pada",
+      "text": "batas pertanggungjawaban pidana yang ditentukan oleh Pasal 272 ayat (2) \nKUHP Nasional, khususnya karena norma tersebut merumuskan perbu atan \nberupa “menggunakan” ijazah, sertifikat kompetensi, gelar akademik, profesi, \natau vokasi yang palsu, tetapi tidak secara eksplisit memberika n batas \nnormatif bahwa keadaan palsu tersebut harus diketahui oleh oran g yang \nmenggunakan objek dimaksud.",
+      "start_line": 237,
+      "end_line": 242
+    },
+    {
+      "heading": "15. Bahwa terlebih lagi, jika membaca konstruksi dakwaan (Bukti P-7) lebih",
+      "slug": "15-bahwa-terlebih-lagi-jika-membaca-konstruksi-dakwaan-bukti-p-7-lebih",
+      "text": "menempatkan fakta penggunaan ijazah dan/atau gelar serta keadaan objektif \nmengenai persoalan keabsahan ijazah sebagai dasar pemidanaan, \nsementara pengetahuan Pemohon mengenai kepalsuan atau ketidakabsahan \nobjek yang digunakan tidak dirumuskan secara tegas sebagai kead aan batin \nyang harus dibuktikan sebagai bagian yang menentukan pertanggungjawaban \npidana.",
+      "start_line": 244,
+      "end_line": 249
+    },
+    {
+      "heading": "16. Bahwa ketiadaan batas normatif tersebut mempunyai arti yang konkret bagi",
+      "slug": "16-bahwa-ketiadaan-batas-normatif-tersebut-mempunyai-arti-yang-konkret-bagi",
+      "text": "Pemohon karena perkara pidana yang sedang dihadapi Pemohon berk aitan \nlangsung dengan Surat Perlawanan atau Nota Keberatan pemohon, yang juga \nterkait dengan persoalan apakah do kumen yang dimiliki dan digun akan \nPemohon merupakan dokumen yang sejak awal diketahui palsu oleh \nPemohon atau merupakan dokumen yang secara lahiriah dan berdasa rkan \npengetahuan Pemohon diyakini sebagai dokumen yang sah (Bukti P-8). \n\n8",
+      "start_line": 251,
+      "end_line": 259
+    },
+    {
+      "heading": "17. Bahwa terhadap persoalan tersebut, Pemohon memiliki dan sel ama ini",
+      "slug": "17-bahwa-terhadap-persoalan-tersebut-pemohon-memiliki-dan-sel-ama-ini",
+      "text": "mendasarkan dirinya pada ijazah asli, transkrip nilai, Kartu Re ncana Studi, \nKartu Hasil Studi, Keputusan Rektor mengenai kelulusan, serta dokumen lain \nyang menunjukkan proses akademik dan kelulusan Pemohon di Unive rsitas \nAzzahra. Selain itu, terdapat keterangan dosen dan pembimbing skripsi serta \ndokumentasi wisuda yang mendukung riwayat pendidikan Pemohon da n \npernah diverifikasi keabsahannya oleh KPU Kabupaten Belitung dalam proses \npencalonan pemohon sebagai Calon Bupati Kabupaten Belitung pada  tahun",
+      "start_line": 261,
+      "end_line": 267
+    },
+    {
+      "heading": "18. Bahwa informasi mengenai pencabutan izin Universitas Azzahr a baru",
+      "slug": "18-bahwa-informasi-mengenai-pencabutan-izin-universitas-azzahr-a-baru",
+      "text": "diketahui melalui informasi resmi LLDIKTI Wilayah III tertanggal 27 Mei 2024, \nsetelah Pemohon menyelesaikan proses akademik dan memperoleh ij azah, \nyang kemudian menimbulkan hambatan dalam legalisasi ijazah tersebut untuk \nkeperluan pencalonan sebagai Wakil Gubernur Provinsi Kepulauan Bangka \nBelitung. Oleh karena itu, pencabutan izin tersebut sebagai kea daan hukum \nyang terjadi kemudian tidak dengan sendirinya membuktikan bahwa  i j a z a h  \nPemohon sejak semula tidak sah (Bukti P-11).",
+      "start_line": 270,
+      "end_line": 276
+    },
+    {
+      "heading": "19. Bahwa rangkaian keadaan tersebut menunjukkan bahwa persoala n yang",
+      "slug": "19-bahwa-rangkaian-keadaan-tersebut-menunjukkan-bahwa-persoala-n-yang",
+      "text": "dihadapi Pemohon tidak semata-mata berkaitan dengan penilaian o bjektif \nmengenai status suatu dokumen pendidikan, tetapi telah berkembang menjadi \npersoalan pertanggungjawaban pidana atas penggunaan dokumen dan gelar \nakademik, termasuk penggunaan gelar “S.H.” dalam sejumlah dokumen ketika \nPemohon menjalankan jabatan publik, dalam keadaan di mana Pemoh on \nmendasarkan dirinya pada dokumen akademik yang diterbitkan oleh  \nperguruan tinggi, proses akademik yang telah dijalani, serta ve rifikasi \nadministratif yang pernah dilakukan terhadap ijazah tersebut.",
+      "start_line": 278,
+      "end_line": 285
+    },
+    {
+      "heading": "20. Bahwa dalam keadaan demikian, ketidakjelasan Pasal 272 ayat ( 2 ) K U H P",
+      "slug": "20-bahwa-dalam-keadaan-demikian-ketidakjelasan-pasal-272-ayat-2-k-u-h-p",
+      "text": "Nasional mengenai relevansi pengetahuan pelaku terhadap kepalsu an objek \nmempunyai hubungan langsung dengan kepentingan konstitusional \nPemohon, karena Pemohon tidak memperoleh kepastian apakah \nketidaktahuannya mengenai kepalsuan objek merupakan keadaan yan g \nsecara hukum harus diperhitungkan dalam menentukan pertanggungjawaban \npidana atau justru tidak mempunyai relevansi terhadap terpenuhi nya tindak \npidana. \n\n9",
+      "start_line": 287,
+      "end_line": 296
+    },
+    {
+      "heading": "21. Bahwa persoalan tersebut bukan semata-mata persoalan pembuktian dalam",
+      "slug": "21-bahwa-persoalan-tersebut-bukan-semata-mata-persoalan-pembuktian-dalam",
+      "text": "perkara konkret. Pemohon tidak meminta Mahkamah Konstitusi meni lai alat \nbukti, menentukan benar atau tidaknya fakta yang didakwakan, at au \nmenyatakan Pemohon bersalah atau tidak bersalah, karena seluruh persoalan \ntersebut merupakan kewenangan peradilan pidana.",
+      "start_line": 298,
+      "end_line": 301
+    },
+    {
+      "heading": "22. Bahwa yang dipersoalkan Pemohon berada pada tingkat yang berbeda, yaitu",
+      "slug": "22-bahwa-yang-dipersoalkan-pemohon-berada-pada-tingkat-yang-berbeda-yaitu",
+      "text": "apakah norma undang-undang yang menjadi dasar pertanggungjawaba n \npidana telah memberikan parameter konstitusional yang cukup men genai \nkeadaan subjektif yang harus ada dan dibuktikan sebelum seseora ng dapat \ndipidana.",
+      "start_line": 303,
+      "end_line": 306
+    },
+    {
+      "heading": "23. Bahwa apabila persoalan hanya menyangkut cukup atau tidakny a alat bukti",
+      "slug": "23-bahwa-apabila-persoalan-hanya-menyangkut-cukup-atau-tidakny-a-alat-bukti",
+      "text": "untuk membuktikan bahwa Pemohon mengetahui kepalsuan dokumen, maka \npersoalan tersebut merupakan persoalan penerapan hukum yang men jadi \nkewenangan pengadilan pidana. Namun, apabila undang-undang itu sendiri \ntidak memberikan kejelasan apakah pengetahuan mengenai kepalsua n \nmerupakan bagian dari batas pertanggungjawaban pidana, maka per soalan \ntersebut menyangkut konstitusionalitas norma, karena ketidakpastian tersebut \nbersumber dari rumusan undang-undangnya.",
+      "start_line": 308,
+      "end_line": 314
+    },
+    {
+      "heading": "24. Bahwa dengan demikian, kerugian konstitusional Pemohon akibat Pasal 272",
+      "slug": "24-bahwa-dengan-demikian-kerugian-konstitusional-pemohon-akibat-pasal-272",
+      "text": "ayat (2) KUHP Nasional terletak pada hilangnya kepastian hukum mengenai \nbatas keadaan subjektif yang harus ada pada diri seseorang agar  dapat \ndimintai pertanggungjawaban pidana, khususnya apakah penggunaan  objek \nyang secara objektif ternyata palsu dengan sendirinya telah cuk up untuk \nmembentuk pertanggungjawaban pidana atau harus disertai pengeta huan \npengguna mengenai kepalsuan tersebut.",
+      "start_line": 316,
+      "end_line": 321
+    },
+    {
+      "heading": "25. Bahwa kerugian tersebut mempunyai hubungan sebab-akibat yan g nyata",
+      "slug": "25-bahwa-kerugian-tersebut-mempunyai-hubungan-sebab-akibat-yan-g-nyata",
+      "text": "dengan keberlakuan Pasal 272 ayat (2) KUHP Nasional, karena norma a quo \nmerupakan ketentuan yang mengatur tindak pidana penggunaan ijaz ah, \nsertifikat kompetensi, gelar akademik, profesi, atau vokasi pal su dan oleh \nkarenanya menjadi bagian dari konstruksi hukum pidana yang seda ng \ndihadapi Pemohon.",
+      "start_line": 323,
+      "end_line": 327
+    },
+    {
+      "heading": "26. Bahwa akibat tidak adanya parameter normatif mengenai penge tahuan atau",
+      "slug": "26-bahwa-akibat-tidak-adanya-parameter-normatif-mengenai-penge-tahuan-atau",
+      "text": "mens rea tersebut, Pemohon berada dalam keadaan legal uncertainty, karena \ntidak dapat memperoleh kepastian dari undang-undang mengenai ap akah \n\n10 \n \nkeadaan batinnya pada saat memperoleh dan menggunakan dokumen \ntersebut merupakan bagian yang menentukan ada atau tidaknya \npertanggungjawaban pidana.",
+      "start_line": 329,
+      "end_line": 336
+    },
+    {
+      "heading": "27. Bahwa keadaan tersebut secara langsung menyentuh hak konsti tusional",
+      "slug": "27-bahwa-keadaan-tersebut-secara-langsung-menyentuh-hak-konsti-tusional",
+      "text": "Pemohon atas kepastian hukum yang adil sebagaimana dijamin Pasa l 28D \nayat (1) UUD NRI Tahun 1945, karena dalam hukum pidana seseoran g tidak \nhanya berhak mengetahui perbuatan yang dilarang, tetapi juga be rhak \nmengetahui secara wajar batas keadaan yang menyebabkan dirinya dapat \ndibebani pertanggungjawaban pidana.",
+      "start_line": 338,
+      "end_line": 342
+    },
+    {
+      "heading": "28. Bahwa oleh karena itu, kerugian konstitusional Pemohon akib at Pasal 272",
+      "slug": "28-bahwa-oleh-karena-itu-kerugian-konstitusional-pemohon-akib-at-pasal-272",
+      "text": "ayat (2) KUHP Nasional bersifat spesifik, aktual, dan personal, bukan kerugian \nyang bersifat abstrak, karena Pemohon telah berada dalam proses  \npenuntutan dan persoalan mengenai batas pertanggungjawaban berdasarkan \nnorma tersebut secara nyata berkaitan dengan perkara pidana yan g sedang \ndihadapinya. \nKerugian Konstitusional Pemohon akibat Pasal 622 Ayat (8) KUHP \nNasional",
+      "start_line": 344,
+      "end_line": 350
+    },
+    {
+      "heading": "29. Bahwa selain kerugian konstitusional yang timbul dari Pasal 272 ayat (2)",
+      "slug": "29-bahwa-selain-kerugian-konstitusional-yang-timbul-dari-pasal-272-ayat-2",
+      "text": "KUHP Nasional, Pemohon juga mengalami kerugian konstitusional y ang \nmempunyai hubungan langsung dengan keberlakuan Pasal 622 ayat ( 8) \nKUHP Nasional, karena norma tersebut merupakan bagian dari kons truksi \nharmonisasi ketentuan pidana mengenai penggunaan ijazah atau ge lar \nakademik dalam sistem hukum pidana nasional.",
+      "start_line": 352,
+      "end_line": 356
+    },
+    {
+      "heading": "30. Bahwa sebelum berlakunya KUHP Nasional, ketentuan pidana me ngenai",
+      "slug": "30-bahwa-sebelum-berlakunya-kuhp-nasional-ketentuan-pidana-me-ngenai",
+      "text": "penggunaan ijazah, sertifikat kompetensi, dan gelar akademik pa lsu antara \nlain diatur dalam Pasal 69 Undang-Undang Nomor 20 Tahun 2003 te ntang \nSistem Pendidikan Nasional (Selanjutnya: UU Sisdiknas). Setelah berlakunya \nKUHP Nasional, Pasal 69 tersebut dicabut melalui Pasal 622 ayat (1) huruf p \ndan Pasal 622 ayat (8) KUHP Nasional menentukan bahwa pengacuan  \nterhadap Pasal 69 tersebut diganti dengan pengacuan kepada Pasal 272 ayat \n(2) KUHP Nasional.",
+      "start_line": 358,
+      "end_line": 364
+    },
+    {
+      "heading": "31. Bahwa keberadaan Pasal 622 ayat (8) KUHP Nasional dengan de mikian",
+      "slug": "31-bahwa-keberadaan-pasal-622-ayat-8-kuhp-nasional-dengan-de-mikian",
+      "text": "menunjukkan adanya kehendak pembentuk undang-undang untuk menat a \ndan mengharmonisasikan ketentuan pidana yang sebelumnya tersebar dalam \n\n11 \n \nperaturan perundang-undangan sektoral ke dalam sistem KUHP Nasi onal. \nNamun demikian, harmonisasi tersebut tidak berhenti pada hubung an antara \nPasal 69 UU Sisdiknas dengan Pasal 272 ayat (2) KUHP Nasional. Pada saat \nyang sama, Pasal 28 ayat (7) jo. Pasal 93 UU Dikti tetap berlaku dan mengatur \npenggunaan gelar akademik, gelar vokasi, dan/atau gelar profesi  tanpa hak \ndengan konsekuensi pidana tersendiri.",
+      "start_line": 366,
+      "end_line": 376
+    },
+    {
+      "heading": "32. Bahwa keadaan tersebut mempunyai relevansi langsung terhadap Pemohon",
+      "slug": "32-bahwa-keadaan-tersebut-mempunyai-relevansi-langsung-terhadap-pemohon",
+      "text": "karena Surat Dakwaan yang dihadapi Pemohon justru menunjukkan a danya \ndua konstruksi hukum pidana yang diletakkan secara alternatif, yaitu Pasal \n272 ayat (2) KUHP Nasional atau Pasal 93 juncto Pasal 28 ayat (7) UU Dikti. \nDengan demikian, bagi Pemohon, persoalan mengenai hubungan anta ra \nkedua rezim ketentuan tersebut bukan lagi merupakan persoalan a kademik \nmengenai kemungkinan tumpang tindih norma, melainkan telah menj adi \npersoalan hukum yang konkret dalam proses pertanggungjawaban pi dana \nyang sedang dihadapi Pemohon.",
+      "start_line": 378,
+      "end_line": 385
+    },
+    {
+      "heading": "33. Bahwa Pasal 622 ayat (8) KUHP Nasional hanya memberikan pen gaturan",
+      "slug": "33-bahwa-pasal-622-ayat-8-kuhp-nasional-hanya-memberikan-pen-gaturan",
+      "text": "mengenai penggantian pengacuan terhadap Pasal 69 UU Sisdiknas k epada \nPasal 272 ayat (2) KUHP Nasional, tetapi tidak memberikan batas  normatif \nyang memadai mengenai bagaimana Pasal 272 ayat (2) KUHP Nasional harus \nditempatkan terhadap ketentuan pidana sektoral yang tetap berlaku dan dapat \nmenjangkau perbuatan yang mempunyai titik irisan yang sama.",
+      "start_line": 387,
+      "end_line": 391
+    },
+    {
+      "heading": "34. Bahwa ketidaklengkapan tersebut menjadi konstitusional rele van bagi",
+      "slug": "34-bahwa-ketidaklengkapan-tersebut-menjadi-konstitusional-rele-van-bagi",
+      "text": "Pemohon karena perbuatan yang sedang dipersoalkan dalam perkara  \nPemohon berkaitan dengan penggunaan ijazah dan/atau gelar, sehi ngga \nterdapat kepentingan hukum yang nyata bagi Pemohon untuk memper oleh \nkepastian mengenai konstruksi tindak pidana dan batas pertanggungjawaban \npidana yang dapat diterapkan terhadap perbuatan tersebut.",
+      "start_line": 393,
+      "end_line": 397
+    },
+    {
+      "heading": "35. Bahwa lebih lanjut, keberadaan dua rezim pidana dengan kons truksi unsur",
+      "slug": "35-bahwa-lebih-lanjut-keberadaan-dua-rezim-pidana-dengan-kons-truksi-unsur",
+      "text": "dan ancaman pidana yang berbeda menimbulkan ketidakpastian meng enai \nkonsekuensi hukum yang dapat dihadapi seseorang ketika satu per buatan \nmemiliki karakteristik yang dapat masuk ke dalam kedua rezim tersebut. Bagi \nPemohon yang telah berhadapan dengan Surat Dakwaan alternatif \nberdasarkan kedua rezim tersebut, ketidakpastian demikian telah  m e n j a d i  \nkerugian yang aktual dan personal, bukan lagi sekadar potensi yang abstrak. \n\n12",
+      "start_line": 399,
+      "end_line": 407
+    },
+    {
+      "heading": "36. Bahwa dalam konteks hukum pidana, kepastian hukum yang dija min Pasal",
+      "slug": "36-bahwa-dalam-konteks-hukum-pidana-kepastian-hukum-yang-dija-min-pasal",
+      "text": "28D ayat (1) UUD NRI Tahun 1945 menghendaki agar seseorang dapa t \nmengetahui secara wajar batas pertanggungjawaban pidana yang da pat \ndibebankan kepadanya. Kepastian tersebut mencakup bukan hanya u nsur \nperbuatan yang dilarang, tetapi juga hubungan antar-norma pidan a yang \ndapat diterapkan terhadap perbuatan yang sama serta konsekuensi  hukum \ndari penerapan norma tersebut.",
+      "start_line": 409,
+      "end_line": 414
+    },
+    {
+      "heading": "37. Bahwa oleh karena Pasal 622 ayat (8) KUHP Nasional tidak me mberikan",
+      "slug": "37-bahwa-oleh-karena-pasal-622-ayat-8-kuhp-nasional-tidak-me-mberikan",
+      "text": "batas normatif yang memadai mengenai hubungan antara Pasal 272 ayat (2) \nKUHP Nasional dengan ketentuan pidana sektoral yang masih berla ku, \nPemohon berada dalam keadaan di mana batas pertanggungjawaban pidana \nyang mungkin diterapkan terhadap dirinya tidak sepenuhnya dapat  \ndiperkirakan dari undang-undang itu sendiri.",
+      "start_line": 416,
+      "end_line": 420
+    },
+    {
+      "heading": "38. Bahwa dengan demikian, kerugian konstitusional Pemohon akibat Pasal 622",
+      "slug": "38-bahwa-dengan-demikian-kerugian-konstitusional-pemohon-akibat-pasal-622",
+      "text": "ayat (8) KUHP Nasional tidak terletak pada keberadaan atau kebe rlakuan \nPasal 28 ayat (7) jo. Pasal 93 UU Dikti sebagai norma sektoral, melainkan \npada ketidaklengkapan normatif dalam pengaturan hubungan antara  norma \npidana yang telah diharmonisasikan ke dalam KUHP Nasional dengan norma \npidana sektoral yang tetap berlaku, yang pada akhirnya memengar uhi \nkepastian hukum Pemohon dalam menghadapi pertanggungjawaban pidana.",
+      "start_line": 422,
+      "end_line": 427
+    },
+    {
+      "heading": "39. Bahwa terdapat hubungan sebab-akibat (causal verband) antara keberlakuan",
+      "slug": "39-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-antara-keberlakuan",
+      "text": "Pasal 622 ayat (8) KUHP Nasional dengan kerugian konstitusional Pemohon, \nkarena keberlakuan norma tersebut merupakan bagian dari konstruksi hukum \nyang menentukan perpindahan pengacuan ketentuan pidana mengenai  \npenggunaan ijazah atau gelar palsu ke Pasal 272 ayat (2) KUHP N asional, \nsementara tidak terdapat batas normatif yang cukup mengenai hub ungan \nketentuan tersebut dengan ketentuan pidana sektoral yang tetap berlaku dan \ndigunakan secara alternatif dalam Surat Dakwaan terhadap Pemohon.",
+      "start_line": 429,
+      "end_line": 435
+    },
+    {
+      "heading": "40. Bahwa kerugian tersebut semakin konkret karena Pemohon tida k sedang",
+      "slug": "40-bahwa-kerugian-tersebut-semakin-konkret-karena-pemohon-tida-k-sedang",
+      "text": "menghadapi kemungkinan penerapan norma di masa mendatang, melainkan \ntelah dihadapkan pada Surat Dakwaan. Oleh sebab itu, ketidakjel asan \nhubungan antar-ketentuan pidana tersebut secara aktual memengar uhi \nkepastian Pemohon mengenai dasar, batas, dan konsekuensi \npertanggungjawaban pidana yang sedang dihadapinya. \n\n13",
+      "start_line": 437,
+      "end_line": 444
+    },
+    {
+      "heading": "41. Bahwa apabila Pasal 622 ayat (8) KUHP Nasional diberikan pe maknaan",
+      "slug": "41-bahwa-apabila-pasal-622-ayat-8-kuhp-nasional-diberikan-pe-maknaan",
+      "text": "konstitusional sebagaimana dimohonkan dalam permohonan a quo , maka \nakan terdapat batas yang lebih jelas mengenai hubungan dan kons ekuensi \npenerapan ketentuan pidana yang berkaitan dengan penggunaan ijazah atau \ngelar, sehingga ketidakpastian hukum yang dialami Pemohon dapat  \ndihilangkan atau setidak-tidaknya dipulihkan.",
+      "start_line": 446,
+      "end_line": 450
+    },
+    {
+      "heading": "42. Bahwa dengan demikian, terdapat kemungkinan yang nyata bahwa kerugian",
+      "slug": "42-bahwa-dengan-demikian-terdapat-kemungkinan-yang-nyata-bahwa-kerugian",
+      "text": "konstitusional Pemohon tidak akan atau tidak lagi terjadi apabi la Mahkamah \nKonstitusi mengabulkan permohonan Pemohon dan memberikan pemaknaan \nkonstitusional terhadap Pasal 622 ayat (8) KUHP Nasional sebaga imana \ndimohonkan. \n Pemenuhan Syarat Kerugian Konstitusional Pemohon",
+      "start_line": 452,
+      "end_line": 456
+    },
+    {
+      "heading": "43. Bahwa berdasarkan seluruh uraian tersebut, Pemohon telah me menuhi",
+      "slug": "43-bahwa-berdasarkan-seluruh-uraian-tersebut-pemohon-telah-me-menuhi",
+      "text": "seluruh parameter kerugian konstitusional sebagaimana ditentuka n dalam \nPasal 4 ayat (2) PMK Nomor 7 Tahun 2025, yaitu: \n Pertama, terdapat hak konstitusional Pemohon yang dijamin oleh UUD NRI \nTahun 1945, khususnya hak atas pengakuan, jaminan, perlindungan , dan \nkepastian hukum yang adil serta perlakuan yang sama di hadapan hukum \nsebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI Tahun 1945, yang \ntidak dapat dilepaskan dari prinsip negara hukum sebagaimana di maksud \ndalam Pasal 1 ayat (3) UUD NRI Tahun 1945; \n Kedua, hak konstitusional tersebut secara aktual dan spesifik dirugikan oleh \nberlakunya Pasal 272 ayat (2) dan Pasal 622 ayat (8) KUHP Nasio nal, \nkarena Pemohon telah berada dalam proses pertanggungjawaban pid ana \ndan telah menghadapi Surat Dakwaan yang secara konkret berkaita n \ndengan konstruksi pidana mengenai penggunaan ijazah dan/atau gelar; \n Ketiga, kerugian tersebut mempunyai hubungan sebab-akibat yang nyata \ndengan keberlakuan norma a quo , karena Pasal 272 ayat (2) KUHP \nNasional menimbulkan ketidakpastian mengenai batas keadaan subj ektif \nyang harus ada untuk pertanggungjawaban pidana, sedangkan Pasal  622 \nayat (8) KUHP Nasional menimbulkan ketidakpastian mengenai hubu ngan \ndan batas penerapan ketentuan pidana yang telah diharmonisasika n ke \ndalam KUHP Nasional dengan ketentuan pidana sektoral yang tetap  \nberlaku; \n\n14 \n \n Keempat, kerugian tersebut bukan merupakan kerugian abstrak atau actio \npopularis, melainkan kerugian yang bersifat aktual, spesifik, dan person al \nkarena Pemohon telah berada dalam tahap penuntutan dan harus \nmenghadapi konsekuensi hukum dari konstruksi norma tersebut; dan \n Kelima, terdapat kemungkinan yang nyata bahwa kerugian konstitusional  \nPemohon tidak akan atau tidak lagi terjadi apabila Mahkamah Kon stitusi \nmemberikan pemaknaan konstitusional terhadap Pasal 272 ayat (2)  d a n  \nPasal 622 ayat (8) KUHP Nasional sebagaimana dimohonkan Pemohon.",
+      "start_line": 458,
+      "end_line": 489
+    },
+    {
+      "heading": "44. Bahwa Pemohon dengan demikian tidak mengajukan permohonan a quo",
+      "slug": "44-bahwa-pemohon-dengan-demikian-tidak-mengajukan-permohonan-a-quo",
+      "text": "sebagai upaya untuk meminta Mahkamah Konstitusi menilai benar a tau \nsalahnya Pemohon dalam perkara pidana yang sedang berjalan, tid ak pula \nmeminta Mahkamah menggantikan kewenangan pengadilan pidana dala m \nmenilai alat bukti dan fakta persidangan.",
+      "start_line": 491,
+      "end_line": 494
+    },
+    {
+      "heading": "45. Bahwa permohonan a quo semata-mata ditujukan untuk memperoleh",
+      "slug": "45-bahwa-permohonan-a-quo-semata-mata-ditujukan-untuk-memperoleh",
+      "text": "kepastian konstitusional mengenai batas norma pidana yang dapat digunakan \nsebagai dasar pertanggungjawaban seseorang, termasuk kejelasan \nmengenai keadaan subjektif yang harus menyertai perbuatan “menggunakan” \nobjek yang palsu serta kejelasan hubungan normatif antara ketentuan pidana \ndalam KUHP Nasional dengan ketentuan pidana sektoral yang tetap berlaku.",
+      "start_line": 496,
+      "end_line": 500
+    },
+    {
+      "heading": "46. Bahwa justru karena Pemohon telah berada dalam proses penun tutan dan",
+      "slug": "46-bahwa-justru-karena-pemohon-telah-berada-dalam-proses-penun-tutan-dan",
+      "text": "telah menghadapi Surat Dakwaan, kepentingan Pemohon untuk memperoleh \nkepastian konstitusional mengenai norma a quo  bersifat aktual, spesifik, \npersonal, dan mempunyai hubungan langsung dengan keberlakuan no rma \nyang dimohonkan pengujian.",
+      "start_line": 502,
+      "end_line": 505
+    },
+    {
+      "heading": "47. Bahwa berdasarkan seluruh uraian tersebut, Pemohon telah me menuhi",
+      "slug": "47-bahwa-berdasarkan-seluruh-uraian-tersebut-pemohon-telah-me-menuhi",
+      "text": "seluruh persyaratan kedudukan hukum sebagaimana ditentukan dalam Pasal \n51 ayat (1) UU MK dan Pasal 4 PMK Nomor 7 Tahun 2025, sehingga \nPemohon mempunyai kedudukan hukum ( legal standing ) yang sah untuk \nmengajukan pengujian konstitusionalitas Pasal 272 ayat (2) dan Pasal 622 \nayat (8) KUHP Nasional terhadap Undang-Undang Dasar Negara Repu blik \nIndonesia Tahun 1945, khususnya Pasal 1 ayat (3) dan Pasal 28D ayat (1) \nUUD NRI Tahun 1945. \n \n\n15 \n \nIII.  ALASAN-ALASAN PERMOHONAN \n Bahwa Permohonan a quo  diajukan berdasarkan adanya persoalan \nkonstitusional yang tidak semata-mata berkaitan dengan penerapa n suatu \nketentuan pidana terhadap Pemohon, melainkan menyangkut kualita s dan \nkejelasan norma pidana yang menjadi dasar pembebanan \npertanggungjawaban pidana terhadap warga negara, serta konsiste nsi \npengaturan pidana setelah diberlakukannya Undang-Undang Nomor 1 Tahun \n2023 tentang Kitab Undang-Undang Hukum Pidana (Selanjutnya: “KU HP \nNasional”). \n Bahwa persoalan konstitusional tersebut berkenaan dengan dua n orma yang \nmemiliki hubungan sistemik, yaitu Pasal 272 ayat (2) KUHP Nasio nal dan \nPasal 622 ayat (8) KUHP Nasional, yang keduanya harus ditempatkan dalam \nkerangka prinsip negara hukum sebagaimana dijamin oleh Pasal 1 ayat (3) \nUUD NRI Tahun 1945 dan jaminan kepastian hukum yang adil serta perlakuan \nyang sama di hadapan hukum sebagaimana dijamin Pasal 28D ayat (1) UUD \nNRI Tahun 1945. \nBahwa terdapat dua pertanyaan konstitusional yang saling berkai tan dalam \nPermohonan a quo, yaitu: \na) Pertama, apakah Pasal 272 ayat (2) KUHP Nasional memberikan \nkepastian hukum yang memadai mengenai mens rea  yang harus \ndibuktikan, khususnya pengetahuan pelaku terhadap keadaan objek tif \nBahwa objek yang digunakannya adalah palsu; \nb) Kedua, apakah Pasal 622 ayat (8) KUHP Nasional memenuhi prinsip \nkepastian hukum yang adil, apabila ketentuan tersebut tidak men cakup \npengalihacuan Pasal 28 ayat (7) juncto Pasal 93 UU Dikti ke dalam Pasal \n272 ayat (2) KUHP Nasional, sehingga menimbulkan ketidakselaras an \nrezim pidana mengenai perbuatan yang mempunyai persinggungan \nmaterial. \n Bahwa berdasarkan kerangka tersebut, dalil-dalil Pemohon selan jutnya akan \nmenguraikan secara berturut-turut mengenai ketidakjelasan mens rea dalam \nPasal 272 ayat (2) KUHP Nasional dan ketidaklengkapan pengatura n \npengalihan dalam Pasal 622 ayat (8) KUHP Nasional sebagai dua p ersoalan \nkonstitusional yang saling berhubungan dalam memastikan adanya batas \npertanggungjawaban pidana yang jelas, dan keseragaman mengenai \n\n16 \n \nancaman pidana pelaku tindak pidana penggunaan ijazah atau gela r \nakademik palsu. \nPASAL 272 AYAT (2) KUHP NASI ONAL BERTENTANGAN DENGAN \nPASAL 1 AYAT (3) DAN PASAL 28D AYAT (1) UUD NRI 1945 SEPANJANG \nTIDAK DIMAKNAI MENCAKUP UNSUR MENS REA  (“YANG \nDIKETAHUINYA PALSU ATAU DIPEROLEH SECARA TIDAK SAH”) \na) Negara Hukum Menghendaki Adanya Pengaturan Pidana \nBerdasarkan Prinsip Lex Certa  D a n  Lex Stricta , Serta \nPertanggungjawaban Pidana Hanya Dapat Dibebankan Kepada Orang \nYang Memiliki Kesalahan (Schuld)",
+      "start_line": 507,
+      "end_line": 564
+    },
+    {
+      "heading": "1. Bahwa Pasal 1 ayat (3) UUD NRI Tahun 1945 menegaskan bahwa",
+      "slug": "1-bahwa-pasal-1-ayat-3-uud-nri-tahun-1945-menegaskan-bahwa",
+      "text": "Indonesia adalah negara hukum. Konsekuensi prinsip negara hukum  \n(rechtsstaat) tersebut adalah setiap penggunaan kewenangan negara \nyang membatasi hak dan kebebasan warga negara, termasuk melalui \nhukum pidana, harus didasarkan pada hukum yang memberikan batas \nkewenangan secara jelas, pasti, dan dapat diprediksi (foreseeable).",
+      "start_line": 566,
+      "end_line": 570
+    },
+    {
+      "heading": "2. Bahwa tuntutan tersebut memiliki arti yang lebih fundamental dalam",
+      "slug": "2-bahwa-tuntutan-tersebut-memiliki-arti-yang-lebih-fundamental-dalam",
+      "text": "hukum pidana karena penerapan hukum pidana dapat berujung pada \npembatasan kebebasan seseorang melalui proses penyidikan, \npenuntutan, pemeriksaan di persidangan, hingga pemidanaan. Oleh  \nkarena itu, norma pidana tidak cukup hanya dibentuk dalam bentu k \nundang-undang, tetapi harus memiliki kualitas rumusan hukum pidana \nyang jelas, pasti, dan dapat diperkirakan secara wajar oleh set iap \norang tentang perbuatan apa yang dilarang, keadaan apa yang \nmenjadikan perbuatan tersebut dapat dipidana, serta keadaan bat in \napa yang harus terdapat pada diri pelaku untuk dapat dimintai \npertanggungjawaban pidana.",
+      "start_line": 572,
+      "end_line": 581
+    },
+    {
+      "heading": "3. Bahwa dalam hukum pidana, tuntutan terhadap kualitas rumusan",
+      "slug": "3-bahwa-dalam-hukum-pidana-tuntutan-terhadap-kualitas-rumusan",
+      "text": "hukum pidana tercermin antara lain dalam prinsip lex certa d a n  lex \nstricta sebagai bagian dari asas legalitas ( nullum crimen, nulla poena \nsine lege). Prinsip lex certa menghendaki agar rumusan tindak pidana \nmemiliki batas yang cukup jelas mengenai perbuatan dan keadaan \nyang dapat menimbulkan pertanggungjawaban pidana, sedangkan \nprinsip lex stricta  menghendaki agar batas kriminalisasi ditentukan \n\n17 \n \noleh undang-undang dan tidak diperluas melalui analogi atau \npenafsiran yang menciptakan dasar pemidanaan baru. Dengan \ndemikian, seseorang tidak boleh ditempatkan dalam risiko \npemidanaan berdasarkan batas pertanggungjawaban yang baru \nditentukan setelah perbuatan dilakukan melalui penafsiran yang tidak \ndapat diprediksi.",
+      "start_line": 583,
+      "end_line": 597
+    },
+    {
+      "heading": "4. Bahwa dengan demikian, lex certa d a n lex stricta pada hakikatnya",
+      "slug": "4-bahwa-dengan-demikian-lex-certa-d-a-n-lex-stricta-pada-hakikatnya",
+      "text": "memberikan perlindungan kepada warga negara terhadap perluasan \nkewenangan pemidanaan negara. Lex certa menghendaki agar batas \nnorma dapat diketahui, sedangkan lex stricta menghendaki agar batas \ntersebut tidak diperluas melalui penafsiran yang melampaui rumu san \nundang-undang. Kedua prinsip tersebut menjadi sangat penting ketika \nsuatu rumusan pidana mengandung keadaan tertentu yang \nmenentukan apakah suatu perbuatan dapat dikualifikasikan sebaga i \ntindak pidana atau tidak.",
+      "start_line": 599,
+      "end_line": 606
+    },
+    {
+      "heading": "5. Bahwa selain tuntutan lex certa dan lex stricta , hukum pidana juga",
+      "slug": "5-bahwa-selain-tuntutan-lex-certa-dan-lex-stricta-hukum-pidana-juga",
+      "text": "mengenal asas geen straf zonder schuld  atau “tiada pidana tanpa \nkesalahan”. Asas tersebut menegaskan bahwa pemidanaan tidak \ncukup hanya didasarkan pada terbuktinya suatu perbuatan secara \nobjektif, melainkan harus terdapat dasar pertanggungjawaban yan g \ndapat dicelakan kepada pelaku secara individual. Dengan demikia n, \nterpenuhinya unsur-unsur perbuatan sebagaimana dirumuskan dalam \nundang-undang, harus disertai dengan adanya kesalahan ( schuld) \npada diri pelaku sebagai dasar legitimasi pemidanaan.",
+      "start_line": 608,
+      "end_line": 615
+    },
+    {
+      "heading": "6. Bahwa dalam konteks tersebut, mens rea merupakan aspek penting",
+      "slug": "6-bahwa-dalam-konteks-tersebut-mens-rea-merupakan-aspek-penting",
+      "text": "dalam menentukan batas pertanggungjawaban pidana karena \nmenunjukkan hubungan batin pelaku dengan perbuatan dan, dalam \nkeadaan tertentu, dengan keadaan objektif yang menjadi bagian d ari \ntindak pidana. Oleh karena itu, apabila suatu keadaan objektif tertentu \nmenjadi faktor yang menentukan apakah suatu perbuatan dapat \ndipidana, harus terdapat kejelasan mengenai apakah keadaan \ntersebut harus diketahui atau dikehendaki oleh pelaku sebagai bagian \ndari kesalahan yang dapat dibebankan kepadanya. \n\n18",
+      "start_line": 617,
+      "end_line": 627
+    },
+    {
+      "heading": "7. Bahwa prinsip tersebut tercermin pula dalam konsepsi willens en",
+      "slug": "7-bahwa-prinsip-tersebut-tercermin-pula-dalam-konsepsi-willens-en",
+      "text": "wetens, yang dalam hukum pidana digunakan untuk menggambarkan \nadanya kehendak (willen) dan pengetahuan atau kesadaran (weten) \nyang menyertai suatu perbuatan. Dengan demikian, \npertanggungjawaban pidana tidak hanya berkaitan dengan apakah \nseseorang secara fisik melakukan suatu perbuatan (actus reus), tetapi \njuga dengan apakah perbuatan tersebut dilakukan dengan keadaan \nbatin yang relevan untuk dapat dibebankan kepadanya sebagai suatu \nkesalahan (mens rea).",
+      "start_line": 629,
+      "end_line": 636
+    },
+    {
+      "heading": "8. Bahwa unsur weten menjadi semakin penting ketika terdapat ke adaan",
+      "slug": "8-bahwa-unsur-weten-menjadi-semakin-penting-ketika-terdapat-ke-adaan",
+      "text": "tertentu yang melekat pada objek atau keadaan sekitar perbuatan dan \nkeadaan tersebut menentukan sifat pidana dari perbuatan yang \ndilakukan. Dalam keadaan demikian, pengetahuan pelaku terhadap \nkeadaan tersebut merupakan bagian yang tidak dapat dipisahkan dari \npenilaian mengenai kesalahan ( schuld), karena seseorang pada \nprinsipnya tidak dapat dipersalahkan atas suatu keadaan yang sa ma \nsekali berada di luar pengetahuan atau kesadarannya pada saat \nmelakukan perbuatan.",
+      "start_line": 638,
+      "end_line": 645
+    },
+    {
+      "heading": "9. Bahwa dengan demikian, terdapat perbedaan yang mendasar anta ra",
+      "slug": "9-bahwa-dengan-demikian-terdapat-perbedaan-yang-mendasar-anta-ra",
+      "text": "seseorang yang melakukan suatu perbuatan dengan mengetahui \nkeadaan yang menjadikan perbuatan tersebut terlarang dengan \nseseorang yang melakukan perbuatan yang sama tetapi tidak \nmengetahui keadaan tersebut. Perbedaan keadaan batin tersebut \nharus memperoleh tempat yang jelas dalam konstruksi norma pidana, \nkarena keadaan batin pelaku merupakan salah satu dasar untuk \nmenentukan apakah suatu perbuatan benar-benar dapat \ndipertanggungjawabkan secara pidana kepada orang yang \nbersangkutan.",
+      "start_line": 647,
+      "end_line": 655
+    },
+    {
+      "heading": "10. Bahwa dalam keadaan demikian, persoalan mengenai mens rea",
+      "slug": "10-bahwa-dalam-keadaan-demikian-persoalan-mengenai-mens-rea",
+      "text": "bukan lagi sekadar persoalan teoritis dalam ilmu hukum pidana, \nmelainkan menjadi persoalan mengenai batas konstitusional \nkewenangan negara untuk menjatuhkan pidana. Apabila seseorang \ndapat dipidana hanya karena suatu keadaan objektif ternyata terdapat \npada objek yang digunakannya, sementara orang tersebut tidak \n\n19 \n \nmengetahui keadaan tersebut, maka batas antara \npertanggungjawaban berdasarkan kesalahan dan \npertanggungjawaban semata-mata berdasarkan keadaan objektif \nmenjadi tidak jelas.",
+      "start_line": 657,
+      "end_line": 668
+    },
+    {
+      "heading": "11. Bahwa oleh karena itu, prinsip lex certa, lex stricta, geen straf zonder",
+      "slug": "11-bahwa-oleh-karena-itu-prinsip-lex-certa-lex-stricta-geen-straf-zonder",
+      "text": "schuld, dan konsepsi willens en wetens harus dibaca secara sistemik. \nKetiga prinsip tersebut pada akhirnya bertemu pada satu tuntuta n \nkonstitusional, yaitu hukum pidana harus memberikan kejelasan \nmengenai tidak hanya apa yang dilarang, tetapi juga keadaan apa  \nyang harus terdapat pada diri pelaku agar larangan tersebut dap at \ndibebankan kepadanya sebagai pertanggungjawaban pidana.",
+      "start_line": 670,
+      "end_line": 675
+    },
+    {
+      "heading": "12. Bahwa dalam perspektif Pasal 28D ayat (1) UUD NRI Tahun 194 5,",
+      "slug": "12-bahwa-dalam-perspektif-pasal-28d-ayat-1-uud-nri-tahun-194-5",
+      "text": "kepastian hukum yang adil dengan demikian tidak dapat dipahami \nsecara sempit hanya sebagai kepastian mengenai keberadaan suatu  \nketentuan tertulis. Dalam bidang hukum pidana, kepastian hukum \nyang adil juga menghendaki adanya kepastian mengenai batas \nkriminalisasi dan batas pertanggungjawaban pidana, termasuk \nmengenai keadaan objektif dan keadaan batin yang harus dibuktik an \nuntuk menyatakan seseorang bersalah.",
+      "start_line": 677,
+      "end_line": 683
+    },
+    {
+      "heading": "13. Bahwa Mahkamah Konstitusi telah menegaskan pentingnya prinsip lex",
+      "slug": "13-bahwa-mahkamah-konstitusi-telah-menegaskan-pentingnya-prinsip-lex",
+      "text": "certa dan lex stricta  sebagai bagian dari kepastian hukum dalam \nhukum pidana. Hal tersebut tercermin dalam putusan sebagai berikut: \na. Putusan Mahkamah Konstitusi Nomor 25/PUU-XIV/2016, yang \nmenguji kata \"dapat\" dalam Pasal 2 ayat (1) dan Pasal 3 Undang-\nUndang Nomor 31 Tahun 1999 jo. Undang-Undang Nomor 20 \nTahun 2001 tentang Pemberantasan Tindak Pidana Korupsi (UU \nTipikor). Dalam pertimbangannya, Mahkamah menyatakan: \n“Selain itu, menurut Mahkamah kata “dapat” dalam Pasal 2 ayat (1) \ndan Pasal 3 UU Tipikor juga bertentangan dengan prinsip \nperumusan tindak pidana yang harus memenuhi prinsip hukum \nharus tertulis (lex scripta), harus ditafsirkan seperti yang dibaca (lex \nstricta), dan tidak multitafsir  (lex certa), oleh karenanya \nbertentangan dengan prinsip negara hukum sebagaimana \nditentukan dalam Pasal 1 ayat (3) UUD 1945. (Poin [3.10.5], Hlm . \n113-114) \n\n20 \n \nb. Putusan Mahkamah Konstitusi Nomor 21/PUU-XII/2014, menguji \nfrasa \"bukti permulaan\", \"bukti permulaan yang cukup\", dan \"buk ti \nyang cukup\" dalam Pasal 1 angka 14, Pasal 17, dan Pasal 21 ayat \n(1) KUHAP, Dalam pertimbangan hukumnya, Mahkamah \nmenyatakan: \n“oleh karena itu, berdasarkan pertimbangan di atas, menurut \nMahkamah, agar memenuhi asas kepastian hukum yang adil \nsebagaimana ditentukan dalam Pasal 28D ayat (1) UUD 1945 serta \nmemenuhi asas lex certa dan asas lex stricta dalam hukum pidana \nmaka frasa “bukti permulaan”, bukti permulaan yang cukup”, dan \nbukti yang cukup sebagaimana ditentukan dalam Pasal 1 angka \n14, Pasal 17, dan Pasal 21 Ayat (1) KUHAP harus ditafsirkan \nsekurang-kurangnya dua alat bukti yang termuat dalam Pasal 184 \nKUHAP dan disertai dengan pemeriksaan calon tersangkanya”. \n(Poin [3.14] angka 5, hlm. 98)",
+      "start_line": 685,
+      "end_line": 717
+    },
+    {
+      "heading": "14. Bahwa dalam Putusan Mahkamah Konstitusi Nomor 21/PUU-XII/2014,",
+      "slug": "14-bahwa-dalam-putusan-mahkamah-konstitusi-nomor-21-puu-xii-2014",
+      "text": "Mahkamah juga menegaskan keterkaitan antara asas kepastian \nhukum yang adil sebagaimana dijamin Pasal 28D ayat (1) UUD 1945  \ndengan asas lex certa  dan lex stricta  dalam hukum pidana. \nPertimbangan tersebut menunjukkan bahwa ukuran kepastian hukum \ndalam perkara pidana tidak hanya berkaitan dengan keberadaan \nnorma tertulis, tetapi juga dengan kejelasan parameter yang har us \ndipenuhi sebelum kewenangan negara untuk melakukan tindakan \nrepresif dapat dijalankan.",
+      "start_line": 719,
+      "end_line": 726
+    },
+    {
+      "heading": "15. Bahwa berdasarkan prinsip-prinsip tersebut, suatu norma pidana yang",
+      "slug": "15-bahwa-berdasarkan-prinsip-prinsip-tersebut-suatu-norma-pidana-yang",
+      "text": "memuat keadaan objektif tertentu sebagai dasar untuk \nmengkualifikasikan suatu perbuatan sebagai tindak pidana harus \ndapat memberikan parameter yang memadai mengenai hubungan \nantara keadaan objektif tersebut dengan keadaan batin pelaku. Tanpa \nparameter demikian, warga negara tidak memperoleh standar yang \ndapat diprediksi mengenai keadaan yang menyebabkan dirinya dapat \natau tidak dapat dipidana.",
+      "start_line": 728,
+      "end_line": 734
+    },
+    {
+      "heading": "16. Bahwa dalam konteks Pasal 272 ayat (2) KUHP Nasional, keada an",
+      "slug": "16-bahwa-dalam-konteks-pasal-272-ayat-2-kuhp-nasional-keada-an",
+      "text": "objektif berupa “palsu” merupakan keadaan yang menentukan \nsehingga perbuatan menggunakan suatu ijazah, sertifikat kompetensi, \ngelar akademik, profesi, atau vokasi masuk ke dalam ruang lingk up \ntindak pidana. Dengan kata lain, bukan semata-mata perbuatan \n\n21 \n \n“menggunakan” yang menyebabkan seseorang dapat dipidana, \nmelainkan penggunaan terhadap objek yang memiliki keadaan objektif \n“palsu”.",
+      "start_line": 736,
+      "end_line": 745
+    },
+    {
+      "heading": "17. Bahwa oleh karena itu, persoalan konstitusional yang timbul bukanlah",
+      "slug": "17-bahwa-oleh-karena-itu-persoalan-konstitusional-yang-timbul-bukanlah",
+      "text": "apakah negara boleh mengkriminalisasi penggunaan ijazah, sertif ikat \nkompetensi, gelar akademik, profesi, atau vokasi palsu. Negara tentu \nmemiliki kewenangan untuk memberikan perlindungan pidana \nterhadap keaslian dan keabsahan dokumen serta gelar pendidikan.  \nPersoalan konstitusionalnya adalah apakah seseorang dapat dibebani \npertanggungjawaban pidana apabila keadaan objektif “palsu” yang  \nmenyebabkan objek tersebut masuk dalam lingkup tindak pidana \nternyata tidak diketahuinya.",
+      "start_line": 747,
+      "end_line": 754
+    },
+    {
+      "heading": "18. Bahwa pertanyaan tersebut selanjutnya berkaitan langsung de ngan",
+      "slug": "18-bahwa-pertanyaan-tersebut-selanjutnya-berkaitan-langsung-de-ngan",
+      "text": "kejelasan mens rea dalam Pasal 272 ayat (2) KUHP Nasional. Apabila \nnorma a quo  tidak memberikan kejelasan mengenai apakah \nkesengajaan pelaku harus mencakup pengetahuan terhadap keadaan \nobjektif “palsu”, maka terbuka ruang bagi perbedaan penafsiran \nmengenai batas pertanggungjawaban pidana seseorang, yang pada \nakhirnya berpotensi bertentangan dengan prinsip lex certa, lex stricta, \ngeen straf zonder schuld, dan konsepsi willens en wetens  \nsebagaimana merupakan konsekuensi dari negara hukum.",
+      "start_line": 756,
+      "end_line": 763
+    },
+    {
+      "heading": "19. Bahwa berdasarkan seluruh uraian tersebut, prinsip negara h ukum",
+      "slug": "19-bahwa-berdasarkan-seluruh-uraian-tersebut-prinsip-negara-h-ukum",
+      "text": "sebagaimana dimaksud dalam Pasal 1 ayat (3) UUD NRI Tahun 1945 \ndan hak atas kepastian hukum yang adil sebagaimana dijamin Pasa l \n28D ayat (1) UUD NRI Tahun 1945 menghendaki agar Pasal 272 ayat \n(2) KUHP Nasional memiliki batas yang jelas mengenai keadaan batin \nyang harus dibuktikan dalam membebankan pertanggungjawaban \npidana.",
+      "start_line": 765,
+      "end_line": 770
+    },
+    {
+      "heading": "20. Bahwa persoalan mengenai apakah Pasal 272 ayat (2) KUHP",
+      "slug": "20-bahwa-persoalan-mengenai-apakah-pasal-272-ayat-2-kuhp",
+      "text": "Nasional telah memenuhi tuntutan konstitusional tersebut selanjutnya \nharus dinilai dari rumusan norma a quo , khususnya mengenai \nhubungan antara unsur “menggunakan”, keadaan objektif “palsu”, dan \nmens rea pelaku terhadap keadaan objektif tersebut. \n\n22 \n \nb) Pasal 272 Ayat (2) KUHP  Nasional Tidak Memberikan Kepastian \nMengenai Cakupan Mens Rea  yang Harus Dibuktikan, Khususnya \nHubungan Pengetahuan Pelaku dengan Keadaan Objektif “Palsu”",
+      "start_line": 772,
+      "end_line": 781
+    },
+    {
+      "heading": "21. Bahwa dalam kaitannya dengan norma yang dimohonkan pengujia n",
+      "slug": "21-bahwa-dalam-kaitannya-dengan-norma-yang-dimohonkan-pengujia-n",
+      "text": "Pasal 272 ayat (2) KUHP Nasional merumuskan: “Setiap Orang yang  \nmenggunakan ijazah, sertifikat kompetensi, gelar akademik, prof esi, \natau vokasi palsu, dipidana dengan pidana penjara paling lama 6  \n(enam) tahun atau pidana denda paling banyak kategori V.”",
+      "start_line": 783,
+      "end_line": 786
+    },
+    {
+      "heading": "22. Bahwa apabila rumusan tersebut dibaca secara gramatikal dan",
+      "slug": "22-bahwa-apabila-rumusan-tersebut-dibaca-secara-gramatikal-dan",
+      "text": "sistematis, terdapat sekurang-kurangnya tiga elemen yang releva n \ndengan persoalan konstitusional dalam Permohonan a quo , yaitu \n“menggunakan” sebagai perbuatan yang dilarang, “ijazah, sertifi kat \nkompetensi, gelar akademik, profesi, atau vokasi” sebagai objek  \nperbuatan, dan “palsu” sebagai keadaan atau sifat yang melekat pada \nobjek tersebut.",
+      "start_line": 788,
+      "end_line": 793
+    },
+    {
+      "heading": "23. Bahwa ketiga elemen tersebut tidak mempunyai kedudukan yang",
+      "slug": "23-bahwa-ketiga-elemen-tersebut-tidak-mempunyai-kedudukan-yang",
+      "text": "sama. Kata “menggunakan” menunjuk pada perbuatan yang dilakukan \noleh pelaku, sedangkan kata “palsu” menunjuk pada suatu keadaan  \nobjektif yang melekat pada objek yang digunakan. Dengan demikia n, \nkonstruksi delik Pasal 272 ayat (2) KUHP Nasional tidak berhenti pada \nadanya suatu perbuatan menggunakan objek tertentu, melainkan \nmensyaratkan adanya keadaan tertentu pada objek tersebut, yaitu  \nkeadaan “palsu”.",
+      "start_line": 795,
+      "end_line": 801
+    },
+    {
+      "heading": "24. Bahwa keadaan “palsu” tersebut mempunyai kedudukan yang",
+      "slug": "24-bahwa-keadaan-palsu-tersebut-mempunyai-kedudukan-yang",
+      "text": "menentukan dalam struktur delik karena membedakan antara \nperbuatan yang berada di luar dan yang berada di dalam lingkup \nkriminalisasi. Penggunaan ijazah atau dokumen yang sah, misalny a, \ntidak memenuhi keadaan objektif yang dirumuskan dalam Pasal 272  \nayat (2) KUHP Nasional, sedangkan penggunaan objek yang secara \nobjektif palsu memenuhi keadaan tersebut.",
+      "start_line": 803,
+      "end_line": 808
+    },
+    {
+      "heading": "25. Bahwa dengan demikian, kata “palsu” bukan sekadar keteranga n",
+      "slug": "25-bahwa-dengan-demikian-kata-palsu-bukan-sekadar-keteranga-n",
+      "text": "tambahan terhadap objek, melainkan keadaan objektif yang menjad i \nsalah satu elemen penentu apakah suatu perbuatan menggunakan \n\n23 \n \nobjek tertentu dapat dikualifikasikan sebagai tindak pidana \nberdasarkan Pasal 272 ayat (2) KUHP Nasional.",
+      "start_line": 810,
+      "end_line": 816
+    },
+    {
+      "heading": "26. Bahwa persoalannya, rumusan Pasal 272 ayat (2) KUHP Nasiona l",
+      "slug": "26-bahwa-persoalannya-rumusan-pasal-272-ayat-2-kuhp-nasiona-l",
+      "text": "berhenti pada hubungan antara perbuatan “menggunakan” dan objek  \nyang secara objektif “palsu”, tanpa memberikan keterangan secar a \njelas dan eksplisit mengenai hubungan keadaan “palsu” tersebut \ndengan keadaan batin ( mens rea) orang yang melakukan perbuatan \n“menggunakan” (actus reus). Dengan kata lain, norma a quo secara \neksplisit menentukan apa yang digunakan dan bagaimana keadaan \nobjek tersebut, tetapi tidak menentukan secara tegas apakah pel aku \nharus mengetahui bahwa objek yang digunakannya adalah palsu agar \ndapat dimintai pertanggungjawaban pidana.",
+      "start_line": 818,
+      "end_line": 826
+    },
+    {
+      "heading": "27. Bahwa persoalan tersebut harus dibedakan dari pertanyaan mengenai",
+      "slug": "27-bahwa-persoalan-tersebut-harus-dibedakan-dari-pertanyaan-mengenai",
+      "text": "apakah pelaku secara sengaja melakukan perbuatan “menggunakan”. \nSeseorang dapat secara sadar dan atas kehendaknya sendiri \nmenggunakan suatu ijazah atau dokumen, tetapi pada saat yang sama \ntidak mengetahui bahwa objek tersebut ternyata palsu.",
+      "start_line": 828,
+      "end_line": 831
+    },
+    {
+      "heading": "28. Bahwa oleh karena itu, terdapat perbedaan antara kesengajaa n",
+      "slug": "28-bahwa-oleh-karena-itu-terdapat-perbedaan-antara-kesengajaa-n",
+      "text": "terhadap perbuatan “menggunakan” dan pengetahuan terhadap \nkeadaan objektif “palsu”. Kesadaran seseorang bahwa ia sedang \nmenggunakan suatu objek tidak dengan sendirinya membuktikan \nbahwa ia mengetahui seluruh keadaan objektif yang melekat pada \nobjek tersebut.",
+      "start_line": 833,
+      "end_line": 837
+    },
+    {
+      "heading": "29. Bahwa pembedaan tersebut dapat dijelaskan melalui konsepsi willens",
+      "slug": "29-bahwa-pembedaan-tersebut-dapat-dijelaskan-melalui-konsepsi-willens",
+      "text": "en wetens, di mana willen menunjuk pada kehendak untuk melakukan \nperbuatan, sedangkan weten menunjuk pada pengetahuan atau \nkesadaran terhadap keadaan yang relevan dengan perbuatan \ntersebut. Dengan demikian, adanya willen untuk melakukan perbuatan \nmenggunakan suatu objek tidak serta-merta membuktikan adanya \nweten mengenai keadaan objektif yang menjadikan objek tersebut \nberada dalam ruang lingkup larangan pidana.",
+      "start_line": 839,
+      "end_line": 845
+    },
+    {
+      "heading": "30. Bahwa dalam Pasal 272 ayat (2) KUHP Nasional, keadaan “pals u”",
+      "slug": "30-bahwa-dalam-pasal-272-ayat-2-kuhp-nasional-keadaan-pals-u",
+      "text": "mempunyai kedudukan yang menentukan karena justru keadaan \ntersebut yang membedakan antara penggunaan objek yang sah dan \n\n24 \n \npenggunaan objek yang dikriminalisasi. Oleh sebab itu, pertanya an \nmengenai apakah pelaku mengetahui keadaan “palsu” tersebut pada  \nsaat menggunakan objek bukan merupakan persoalan tambahan di \nluar konstruksi delik, melainkan persoalan mengenai batas \npertanggungjawaban pidana itu sendiri.",
+      "start_line": 847,
+      "end_line": 856
+    },
+    {
+      "heading": "31. Bahwa tanpa kejelasan mengenai hubungan tersebut, rumusan Pasal",
+      "slug": "31-bahwa-tanpa-kejelasan-mengenai-hubungan-tersebut-rumusan-pasal",
+      "text": "272 Ayat (2) KUHP Nasional menimbulkan persoalan penafsiran yang \nbersifat material, karena dari rumusan yang sama dapat ditarik \nsetidak-tidaknya dua konstruksi mengenai cakupan mens rea. \n Bahwa penafsiran pertama adalah bahwa kesengajaan \nsebagaimana dimaksud dalam Pasal 272 ayat (2) KUHP Nasional \ncukup diarahkan kepada perbuatan “menggunakan”, sedangkan \nkeadaan “palsu” merupakan keadaan objektif yang melekat pada \nobjek dan cukup dibuktikan secara objektif. Dalam konstruksi in i, \nwillen terhadap perbuatan “menggunakan” menjadi titik utama, \nsedangkan weten mengenai keadaan “palsu” tidak secara tegas \ndiposisikan sebagai bagian dari unsur yang harus dibuktikan. \n Bahwa penafsiran kedua adalah bahwa kesengajaan dalam Pasal \n272 ayat (2) KUHP Nasional tidak hanya mencakup kehendak \n(willen) untuk melakukan perbuatan “menggunakan”, tetapi juga \nharus mencakup pengetahuan ( weten) bahwa objek yang \ndigunakan berada dalam keadaan “palsu”. Dalam konstruksi ini, \nkeadaan objektif “palsu” tidak cukup hanya terbukti ada pada objek, \ntetapi harus terdapat hubungan pengetahuan antara keadaan \ntersebut dengan pelaku pada saat perbuatan dilakukan.",
+      "start_line": 858,
+      "end_line": 876
+    },
+    {
+      "heading": "32. Bahwa kedua konstruksi tersebut menghasilkan akibat hukum y ang",
+      "slug": "32-bahwa-kedua-konstruksi-tersebut-menghasilkan-akibat-hukum-y-ang",
+      "text": "berbeda secara fundamental. Konstruksi pertama membuka \nkemungkinan dipertanggungjawabkannya orang yang tidak \nmengetahui kepalsuan objek, sedangkan konstruksi kedua membatasi \npertanggungjawaban pidana kepada orang yang memiliki \npengetahuan mengenai kepalsuan objek pada saat melakukan \nperbuatan.",
+      "start_line": 878,
+      "end_line": 883
+    },
+    {
+      "heading": "33. Bahwa perbedaan tersebut bukan semata-mata merupakan",
+      "slug": "33-bahwa-perbedaan-tersebut-bukan-semata-mata-merupakan",
+      "text": "perbedaan akademik mengenai metode penafsiran, melainkan \n\n25 \n \nmenentukan batas subjek yang dapat dikenakan pidana berdasarkan  \nPasal 272 ayat (2) KUHP Nasional. Dengan demikian, ketidakjelas an \nmengenai cakupan mens rea  tersebut mempunyai konsekuensi \nlangsung terhadap kepastian hukum seseorang mengenai apakah \ndirinya berada dalam atau di luar lingkup pertanggungjawaban pidana. \nc) Penggunaan Frasa “Diketahuinya” atau Frasa Lainnya dalam KUH P \nNasional sebagai Penegasan Hubungan Keadaan Objektif dengan \nKeadaan Batin Pelaku",
+      "start_line": 885,
+      "end_line": 896
+    },
+    {
+      "heading": "34. Bahwa benar Pasal 36 ayat (2) KUHP Nasional menentukan bahw a",
+      "slug": "34-bahwa-benar-pasal-36-ayat-2-kuhp-nasional-menentukan-bahw-a",
+      "text": "setiap Tindak Pidana pada dasarnya dianggap dilakukan dengan \nsengaja, kecuali ditentukan lain oleh Undang-Undang, dan \nkesengajaan tersebut harus dibuktikan dalam pemeriksaan perkara . \nNamun demikian, ketentuan umum mengenai kesengajaan tersebut \ntidak dengan sendirinya memberikan jawaban terhadap \npersoalan konstitusional yang terdapat dalam Pasal 272 ayat (2)  \nKUHP Nasional, yaitu mengenai sejauh mana kesengajaan pelaku \nharus mencakup keadaan objektif “palsu” yang menjadi dasar \nkriminalisasi.",
+      "start_line": 898,
+      "end_line": 906
+    },
+    {
+      "heading": "35. Bahwa dengan demikian, terdapat dua persoalan yang harus",
+      "slug": "35-bahwa-dengan-demikian-terdapat-dua-persoalan-yang-harus",
+      "text": "dibedakan secara tegas, yaitu (i) apakah suatu tindak pidana harus \ndilakukan dengan sengaja; dan (ii) terhadap fakta atau keadaan \napa kesengajaan tersebut harus dibuktikan . Pasal 36 ayat (2) \nKUHP Nasional memberikan jawaban terhadap persoalan pertama, \ntetapi tidak memberikan batas yang secara spesifik menyelesaika n \npersoalan kedua dalam konteks Pasal 272 ayat (2) KUHP Nasional.",
+      "start_line": 908,
+      "end_line": 913
+    },
+    {
+      "heading": "36. Bahwa dalam Pasal 272 ayat (2) KUHP Nasional, persoalan ked ua",
+      "slug": "36-bahwa-dalam-pasal-272-ayat-2-kuhp-nasional-persoalan-ked-ua",
+      "text": "tersebut menjadi penting karena rumusan delik tidak hanya memua t \nsuatu perbuatan, yaitu “menggunakan”, tetapi juga memuat suatu \nkeadaan objektif pada objek yang digunakan, yaitu “palsu”, yang \nsekaligus menentukan apakah perbuatan tersebut berada dalam \nlingkup tindak pidana atau tidak. Oleh karena itu, keberadaan a sas \nkesengajaan dalam Pasal 36 ayat (2) KUHP belum dengan sendirinya \nmenjawab apakah kesengajaan pelaku hanya harus mencakup \n\n26 \n \nperbuatan “menggunakan”, atau juga harus mencakup pengetahuan \nbahwa objek yang digunakannya adalah “palsu”.",
+      "start_line": 915,
+      "end_line": 926
+    },
+    {
+      "heading": "37. Bahwa Penjelasan Pasal 36 ayat (2) KUHP Nasional justru",
+      "slug": "37-bahwa-penjelasan-pasal-36-ayat-2-kuhp-nasional-justru",
+      "text": "menunjukkan bahwa pembentuk undang-undang mengenal berbagai \nteknik perumusan untuk menghubungkan keadaan objektif tertentu \ndengan keadaan batin pelaku, antara lain melalui frasa “dengan \nmaksud”, “mengetahui”, “yang diketahuinya”, “padahal \ndiketahuinya”, d a n  “sedangkan ia mengetahui” . Hal tersebut \nmemperlihatkan bahwa ketika suatu keadaan objektif hendak \nditempatkan dalam cakupan pengetahuan pelaku, KUHP Nasional \nmengenal teknik perumusan yang dapat memberikan hubungan \ntekstual yang lebih jelas antara keadaan objektif tersebut deng an \nmens rea pelaku.",
+      "start_line": 928,
+      "end_line": 937
+    },
+    {
+      "heading": "38. Bahwa oleh karena itu, keberadaan Pasal 36 ayat (2) KUHP Nasional",
+      "slug": "38-bahwa-oleh-karena-itu-keberadaan-pasal-36-ayat-2-kuhp-nasional",
+      "text": "tidak dapat dijadikan dasar untuk menyimpulkan bahwa setiap \nkeadaan objektif yang terdapat dalam suatu rumusan tindak pidan a \nsecara otomatis telah tercakup dalam pengetahuan pelaku. \nKesimpulan demikian justru mengabaikan perbedaan antara \nkesengajaan terhadap perbuatan ( intentionality toward the \nconduct) dan pengetahuan terhadap keadaan objektif yang \nmenyertai atau menentukan sifat pidana dari perbuatan tersebut \n(knowledge of the relevant circumstance).",
+      "start_line": 939,
+      "end_line": 946
+    },
+    {
+      "heading": "39. Bahwa dengan demikian, persoalan dalam Pasal 272 ayat (2) K UHP",
+      "slug": "39-bahwa-dengan-demikian-persoalan-dalam-pasal-272-ayat-2-k-uhp",
+      "text": "Nasional bukanlah mengenai ada atau tidak adanya asas kesengajaan \ndalam KUHP Nasional, melainkan mengenai ketidakpastian normatif \nmengenai cakupan mens rea terhadap keadaan objektif “palsu” . \nKetidakpastian tersebut tidak diselesaikan hanya dengan menyatakan \nbahwa Pasal 36 ayat (2) KUHP Nasional mensyaratkan kesengajaan, \nkarena tetap tidak terdapat batas yang cukup jelas apakah weten \npelaku harus menjangkau keadaan bahwa objek yang digunakannya \nadalah palsu.",
+      "start_line": 948,
+      "end_line": 955
+    },
+    {
+      "heading": "40. Bahwa teknik perumusan demikian dapat dilihat dalam sejumla h",
+      "slug": "40-bahwa-teknik-perumusan-demikian-dapat-dilihat-dalam-sejumla-h",
+      "text": "ketentuan KUHP Nasional yang secara eksplisit menghubungkan \nkeadaan objektif tertentu dengan pengetahuan pelaku. Berdasarka n \n\n27 \n \npenelusuran pemohon, setidaknya ada 47 Pasal dalam KUHP \nNasional rumusannya menunjukkan adanya ketentuan yang secara \neksplisit menghubungkan keadaan objektif tertentu dengan \npengetahuan atau keadaan batin pelaku (Bukti P-12). Namun begit u, \nsebagai bahan perbandingan, pemohon akan menampilkan 4 Pasal \nyang paling relevan dengan persoalan dalam permohonan a quo dapat \ndilihat dalam tabel berikut: \nTabel Perbandingan Rumusan Delik dalam KUHP Nasional \nKetentuan Rumusan Pasal Rumusan \nMens Rea \nPasal 263 \nAyat (1) \nKUHP \nSetiap Orang yang menyiarkan atau \nmenyebarluaskan berita atau \npemberitahuan padahal diketahuinya \nbahwa berita atau pemberitahuan \ntersebut bohong yang mengakibatkan \nkerusuhan dalam masyarakat, dipidana \ndengan pidana penjara paling lama 6 \n(enam) tahun atau pidana denda paling \nbanyak kategori V. \n“diketahuinya \nbahwa berita \natau \npemberitahuan \ntersebut \nbohong \nPasal 375 \nKUHP \n1) Setiap Orang yang menyimpan \nsecara lisik dengan cara apa pun \nyang diketahuinya merupakan mata \nuang palsu  sebagaimana dimaksud \ndalam Pasal 374, dipidana dengan \npidana penjara paling lama 10 \n(sepuluh) tahun dan pidana denda \npaling banyak kategori VII. \n2) Setiap Orang yang mengedarkan \ndan/atau membelanjakan mata uang \nyang diketahuinya palsu  \nsebagaimana dimaksud dalam Pasal \n374, dipidana dengan pidana penjara \npaling lama 15 (lima belas) tahun dan \npidana denda paling banyak kategori \nVIII. \n“yang \ndiketahuinya \nmerupakan \nmata uang \npalsu” \nPasal 503 \nayat (1) \nKUHP \nSetiap Orang yang menjual, \nmenawarkan, atau menyerahkan  \nBarang berupa makanan, minuman, atau \nobat, yang diketahuinya palsu d a n  \nmenyembunyikan kepalsuan itu, \ndipidana dengan pidana penjara paling \n“yang \ndiketahuinya \npalsu” \n\n28 \n \nlama 5 (lima) tahun atau pidana denda \npaling banyak kategori V. \nPasal 589 \nKUHP \n(1) Setiap Orang yang memberikan \nketerangan yang diketahuinya palsu \ndan perbuatan tersebut membahayakan \nkeselamatan Pesawat Udara Dalam \nPenerbangan, dipidana dengan pidana \npenjara paling lama 7 (tujuh) tahun. \n“yang \ndiketahuinya \npalsu” \nPasal 272 \nayat (2) \nKUHP \n“Setiap Orang yang menggunakan \nijazah, sertifikat kompetensi, gelar \nakademik, profesi, atau vokasi palsu, \ndipidana dengan pidana penjara paling \nlama 6 (enam) tahun atau pidana denda \npaling banyak kategori V.”\nTidak \ndirumuskan \nsecara \neksplisit",
+      "start_line": 957,
+      "end_line": 1053
+    },
+    {
+      "heading": "41. Bahwa perbandingan tersebut tidak dimaksudkan untuk membang un",
+      "slug": "41-bahwa-perbandingan-tersebut-tidak-dimaksudkan-untuk-membang-un",
+      "text": "argumentasi simplistis bahwa setiap tindak pidana wajib \nmenggunakan frasa “diketahuinya” agar dapat memenuhi prinsip \nkesalahan. Tidak demikian. Perbandingan tersebut digunakan untu k \nmenunjukkan bahwa KUHP Nasional mengenal dan menggunakan \nteknik perumusan yang secara eksplisit menghubungkan keadaan \nobjektif tertentu dengan pengetahuan pelaku ketika hubungan tersebut \nhendak dijadikan bagian dari struktur pertanggungjawaban pidana.",
+      "start_line": 1055,
+      "end_line": 1061
+    },
+    {
+      "heading": "42. Bahwa justru karena KUHP Nasional mengenal teknik perumusan",
+      "slug": "42-bahwa-justru-karena-kuhp-nasional-mengenal-teknik-perumusan",
+      "text": "tersebut, ketiadaan hubungan tekstual serupa dalam Pasal 272 ay at \n(2) KUHP Nasional menjadi relevan untuk diuji secara konstitusi onal, \nterutama karena keadaan “palsu” dalam norma a quo  mempunyai \nfungsi menentukan apakah suatu penggunaan objek tertentu \nmerupakan tindak pidana atau bukan.",
+      "start_line": 1063,
+      "end_line": 1067
+    },
+    {
+      "heading": "43. Bahwa dalam konteks Pasal 272 ayat (2) KUHP Nasional, perso alan",
+      "slug": "43-bahwa-dalam-konteks-pasal-272-ayat-2-kuhp-nasional-perso-alan",
+      "text": "yang dihadapi bukan sekadar apakah pelaku bertindak “dengan \nsengaja” atau “karena kealpaan” sebagaimana kategori umum dalam  \nPasal 36 KUHP Nasional, melainkan apakah pelaku mengetahui \nkeadaan faktual tertentu, yaitu bahwa ijazah, sertifikat kompet ensi, \ngelar akademik, profesi, atau vokasi yang digunakannya adalah palsu \natau diperoleh secara tidak sah. Dengan kata lain, Permohonan a quo \nbukan semata-mata ada atau tidak adanya kesengajaan, melainkan \nterhadap apa kesengajaan tersebut harus diarahkan dan terhadap \n\n29 \n \nkeadaan apa weten pelaku harus dibuktikan dalam struktur Pasal 272 \nayat (2) KUHP Nasional.",
+      "start_line": 1069,
+      "end_line": 1081
+    },
+    {
+      "heading": "44. Bahwa dengan demikian, terdapat perbedaan antara pertanyaan",
+      "slug": "44-bahwa-dengan-demikian-terdapat-perbedaan-antara-pertanyaan",
+      "text": "“apakah pelaku dengan sengaja menggunakan objek tersebut?” \ndengan pertanyaan “apakah pelaku mengetahui Bahwa objek yang \nsengaja digunakannya adalah palsu?”. Pertanyaan pertama berkaitan \ndengan willen terhadap perbuatan “menggunakan”, sedangkan \npertanyaan kedua berkaitan dengan weten terhadap keadaan objektif \n“palsu”. Pasal 272 ayat (2) KUHP Nasional memberikan jawaban \nterhadap perbuatan “menggunakan”, tetapi tidak memberikan batas  \nyang sama jelasnya mengenai apakah weten terhadap keadaan \n“palsu” merupakan bagian dari mens rea yang harus dibuktikan.",
+      "start_line": 1083,
+      "end_line": 1091
+    },
+    {
+      "heading": "45. Bahwa justru pertanyaan kedua tersebut menentukan batas",
+      "slug": "45-bahwa-justru-pertanyaan-kedua-tersebut-menentukan-batas",
+      "text": "pertanggungjawaban pidana terhadap orang yang menggunakan \nobjek yang secara objektif ternyata palsu. Apabila weten terhadap \nkepalsuan tidak dipersyaratkan, maka keadaan objektif pada obje k \ntersebut dapat menjadi dasar pemidanaan meskipun keadaan tersebut \nberada di luar pengetahuan pelaku. Sebaliknya, apabila weten \ntersebut dipersyaratkan, maka kepalsuan objek harus memiliki \nkorelasi dengan keadaan batin pelaku pada saat perbuatan dilakukan.",
+      "start_line": 1093,
+      "end_line": 1099
+    },
+    {
+      "heading": "46. Bahwa dengan demikian, terdapat perbedaan mendasar antara",
+      "slug": "46-bahwa-dengan-demikian-terdapat-perbedaan-mendasar-antara",
+      "text": "pertanyaan “apakah pelaku sengaja menggunakan objek tersebut?” \ndan pertanyaan “apakah pelaku mengetahui bahwa objek yang \nsengaja digunakannya adalah palsu?”. Pertanyaan pertama berkaitan \ndengan kesengajaan terhadap actus reus , sedangkan pertanyaan \nkedua berkaitan dengan pengetahuan terhadap circumstance a t a u  \nkeadaan objektif yang menjadikan actus reus  tersebut masuk ke \ndalam lingkup tindak pidana.",
+      "start_line": 1101,
+      "end_line": 1107
+    },
+    {
+      "heading": "47. Bahwa dalam konteks tersebut, pengetahuan terhadap keadaan",
+      "slug": "47-bahwa-dalam-konteks-tersebut-pengetahuan-terhadap-keadaan",
+      "text": "“palsu” mempunyai fungsi sebagai jembatan atribusi antara fakta  \nobjektif dan kesalahan individual. Tanpa adanya kejelasan menge nai \njembatan tersebut, keadaan objektif pada benda atau dokumen \nberpotensi diperlakukan seolah-olah secara otomatis melekat pul a \n\n30 \n \npada keadaan batin setiap orang yang menggunakan benda atau \ndokumen tersebut.",
+      "start_line": 1109,
+      "end_line": 1117
+    },
+    {
+      "heading": "48. Bahwa konstruksi demikian berpotensi menggeser dasar",
+      "slug": "48-bahwa-konstruksi-demikian-berpotensi-menggeser-dasar",
+      "text": "pertanggungjawaban pidana dari kesalahan individual ( personal \nculpability) menjadi semata-mata keadaan objektif pada objek \n(objective condition). Padahal, dalam negara hukum, seseorang tidak \nsemestinya dipidana hanya karena suatu keadaan objektif ternyat a \nterdapat pada objek yang berada dalam tindakannya, apabila keadaan \ntersebut tidak dapat dihubungkan dengan kesalahan atau keadaan \nbatinnya.",
+      "start_line": 1119,
+      "end_line": 1125
+    },
+    {
+      "heading": "49. Bahwa risiko tersebut menjadi nyata dalam perkara penggunaa n",
+      "slug": "49-bahwa-risiko-tersebut-menjadi-nyata-dalam-perkara-penggunaa-n",
+      "text": "ijazah atau dokumen pendidikan, karena keabsahan atau kepalsuan  \nsuatu dokumen dapat merupakan fakta yang secara faktual berada di \nluar pengetahuan pengguna. Seseorang dapat menerima suatu ijazah \natau dokumen dari pihak lain, mempercayai keabsahannya, kemudian \nmenggunakannya untuk suatu kepentingan yang sah, tetapi \nbelakangan diketahui bahwa dokumen tersebut ternyata palsu.",
+      "start_line": 1127,
+      "end_line": 1132
+    },
+    {
+      "heading": "50. Bahwa terhadap keadaan demikian, terdapat perbedaan moral,",
+      "slug": "50-bahwa-terhadap-keadaan-demikian-terdapat-perbedaan-moral",
+      "text": "faktual, dan yuridis yang fundamental antara orang yang mengeta hui \ndan dengan sadar menggunakan dokumen palsu dengan orang yang \nmenggunakan dokumen yang secara objektif ternyata palsu tetapi \ntidak mengetahui kepalsuannya. Menyamakan kedua keadaan \ntersebut tanpa kejelasan mengenai unsur pengetahuan berarti \nmengabaikan perbedaan keadaan batin yang justru relevan terhada p \npertanggungjawaban pidana.",
+      "start_line": 1134,
+      "end_line": 1140
+    },
+    {
+      "heading": "51. Bahwa karena pilihan antara kedua konstruksi tersebut menen tukan",
+      "slug": "51-bahwa-karena-pilihan-antara-kedua-konstruksi-tersebut-menen-tukan",
+      "text": "apakah seseorang yang tidak mengetahui kepalsuan dapat tetap \ndipidana atau tidak, maka persoalan tersebut secara langsung \nberkaitan dengan kepastian hukum dalam menentukan batas \npertanggungjawaban pidana. Warga negara harus dapat mengetahui, \nsetidak-tidaknya dari norma yang mengancamnya dengan pidana, \nkeadaan batin seperti apa yang menjadikan suatu perbuatan dapat  \ndipertanggungjawabkan secara pidana. \n\n31",
+      "start_line": 1142,
+      "end_line": 1151
+    },
+    {
+      "heading": "52. Bahwa apabila batas tersebut diserahkan sepenuhnya kepada",
+      "slug": "52-bahwa-apabila-batas-tersebut-diserahkan-sepenuhnya-kepada",
+      "text": "penafsiran aparat penegak hukum pada tahap penyelidikan, \npenyidikan, penuntutan, atau pemeriksaan di pengadilan, maka \nterdapat risiko bahwa standar mens rea  P a s a l  2 7 2  a y a t  ( 2 )  K U H P  \nNasional akan berbeda antara satu perkara dengan perkara lainny a, \npadahal objek kriminalisasinya sama.",
+      "start_line": 1153,
+      "end_line": 1157
+    },
+    {
+      "heading": "53. Bahwa kondisi tersebut bertentangan dengan tuntutan lex certa",
+      "slug": "53-bahwa-kondisi-tersebut-bertentangan-dengan-tuntutan-lex-certa",
+      "text": "sebagai bagian dari prinsip kepastian hukum dalam hukum pidana.  \nNorma pidana harus memberikan batas yang cukup dapat dipahami \nmengenai perbuatan yang dilarang dan keadaan yang menjadikan \nseseorang dapat dimintai pertanggungjawaban pidana, sehingga tidak \nmemberikan ruang yang berlebihan bagi penegak hukum untuk \nmenentukan sendiri batas krimina lisasi melalui penafsiran kasus  per \nkasus.",
+      "start_line": 1159,
+      "end_line": 1165
+    },
+    {
+      "heading": "54. Bahwa persoalan tersebut juga berkaitan dengan prinsip geen straf",
+      "slug": "54-bahwa-persoalan-tersebut-juga-berkaitan-dengan-prinsip-geen-straf",
+      "text": "zonder schuld, karena keadaan objektif bahwa suatu ijazah, sertifikat \nkompetensi, gelar akademik, profesi, atau vokasi ternyata palsu  tidak \ndengan sendirinya menjawab pertanyaan mengenai ada atau tidaknya \nkesalahan pada diri orang yang menggunakannya.",
+      "start_line": 1167,
+      "end_line": 1170
+    },
+    {
+      "heading": "55. Bahwa oleh karena itu, persoalan konstitusional dalam Pasal 272 ayat",
+      "slug": "55-bahwa-oleh-karena-itu-persoalan-konstitusional-dalam-pasal-272-ayat",
+      "text": "(2) KUHP Nasional tidak terletak pada keberadaan larangan terhadap \npenggunaan ijazah atau dokumen yang palsu sebagai kebijakan \nkriminal, melainkan pada ketidakjelasan mengenai batas subjekti f \npertanggungjawaban pidana ketika keadaan “palsu” tersebut menja di \nunsur yang menentukan kriminalisasi.",
+      "start_line": 1172,
+      "end_line": 1176
+    },
+    {
+      "heading": "56. Bahwa Pemohon tidak meminta Mahkamah Konstitusi untuk",
+      "slug": "56-bahwa-pemohon-tidak-meminta-mahkamah-konstitusi-untuk",
+      "text": "menghapuskan kriminalisasi terhadap penggunaan ijazah, sertifik at \nkompetensi, gelar akademik, profesi, atau vokasi palsu. Pemohon juga \ntidak meminta agar Mahkamah menciptakan suatu unsur pidana yang \nsama sekali baru. Sebaliknya, Pemohon meminta agar Mahkamah \nmemberikan penafsiran konstitusional yang memastikan adanya \nhubungan yang jelas antara keadaan objektif “palsu” dengan keadaan \nbatin pelaku, sehingga pertanggungjawaban pidana tetap didasark an \npada kesalahan individual. \n\n32",
+      "start_line": 1178,
+      "end_line": 1188
+    },
+    {
+      "heading": "57. Bahwa dalam konteks tersebut, pemaknaan terhadap Pasal 272 ayat",
+      "slug": "57-bahwa-dalam-konteks-tersebut-pemaknaan-terhadap-pasal-272-ayat",
+      "text": "(2) KUHP Nasional dengan menambahkan frasa “yang diketahuinya \npalsu” merupakan upaya untuk memberikan batas konstitusional \nterhadap cakupan mens rea , bukan untuk mengubah kebijakan \nkriminal pembentuk undang-undang. Pemaknaan tersebut \nmemastikan bahwa keadaan “palsu” yang menjadi dasar kriminalisasi \nbukan hanya terbukti secara objektif pada objek, tetapi juga \nmempunyai hubungan pengetahuan dengan pelaku pada saat \nperbuatan dilakukan.",
+      "start_line": 1190,
+      "end_line": 1197
+    },
+    {
+      "heading": "58. Bahwa dengan pemaknaan demikian, struktur pertanggungjawaba n",
+      "slug": "58-bahwa-dengan-pemaknaan-demikian-struktur-pertanggungjawaba-n",
+      "text": "pidana menjadi lebih terang, yaitu pelaku harus dengan sengaja \nmelakukan perbuatan “menggunakan” dan pada saat yang sama \nmemiliki pengetahuan bahwa objek yang digunakannya berada dalam \nkeadaan “palsu”. Dengan demikian, terdapat hubungan yang dapat \ndiidentifikasi antara actus reus, keadaan objektif objek, dan mens rea \npelaku.",
+      "start_line": 1199,
+      "end_line": 1204
+    },
+    {
+      "heading": "59. Bahwa pemaknaan tersebut sekaligus mencegah terjadinya",
+      "slug": "59-bahwa-pemaknaan-tersebut-sekaligus-mencegah-terjadinya",
+      "text": "pertanggungjawaban pidana semata-mata berdasarkan keadaan \nobjektif pada objek. Keadaan bahwa suatu ijazah atau dokumen \nternyata palsu tetap harus dibuktikan, tetapi pembuktian terseb ut \nbelum dengan sendirinya cukup untuk membuktikan kesalahan pelaku \napabila pengetahuan pelaku terhadap kepalsuan tersebut tidak da pat \ndibuktikan.",
+      "start_line": 1206,
+      "end_line": 1211
+    },
+    {
+      "heading": "60. Bahwa dengan demikian, unsur “palsu” dalam Pasal 272 ayat ( 2)",
+      "slug": "60-bahwa-dengan-demikian-unsur-palsu-dalam-pasal-272-ayat-2",
+      "text": "KUHP Nasional harus dipahami bukan hanya sebagai karakteristik \nobjektif dari objek, tetapi sebagai keadaan objektif yang harus berada \ndalam cakupan pengetahuan pelaku apabila keadaan tersebut hendak \ndijadikan dasar pertanggungjawaban pidana.",
+      "start_line": 1213,
+      "end_line": 1216
+    },
+    {
+      "heading": "61. Bahwa berdasarkan seluruh uraian tersebut, Pasal 272 ayat (2) KUHP",
+      "slug": "61-bahwa-berdasarkan-seluruh-uraian-tersebut-pasal-272-ayat-2-kuhp",
+      "text": "Nasional sepanjang tidak dimaknai bahwa penggunaan ijazah, \nsertifikat kompetensi, gelar akademik, profesi, atau vokasi han ya \ndapat dipertanggungjawabkan secara pidana apabila pelaku \nmengetahui bahwa objek yang digunakannya adalah palsu, \nmenimbulkan ketidakpastian mengenai cakupan mens rea dan batas \n\n33 \n \npertanggungjawaban pidana, sehingga bertentangan dengan prinsip  \nkepastian hukum dan jaminan perlindungan hukum yang adil \nsebagaimana dijamin dalam Pasal 28D ayat (1) UUD 1945. \nPASAL 622 AYAT (8) KUHP  NASIONAL BERTENTANGAN DENGAN \nPASAL 1 AYAT (3) DAN PASAL 28D AYAT (1) UUD NRI 1945 SEPANJANG \nTIDAK MENCAKUP PENGALIHAN ACUAN PASAL 28 AYAT (7) JO. \nPASAL 93 UU PENDIDIKAN TINGGI \na) Tujuan Rekodifikasi dan Unifikasi Hukum Pidana dalam KUHP \nNasional",
+      "start_line": 1218,
+      "end_line": 1234
+    },
+    {
+      "heading": "1. Bahwa dalam Penjelasan Umum UU 1/2023 tentang KUHP",
+      "slug": "1-bahwa-dalam-penjelasan-umum-uu-1-2023-tentang-kuhp",
+      "text": "(Selanjutnya: KUHP Nasional), dijelaskan bahwa pembentukan KUHP \nNasional merupakan bagian dari kebijakan pembaruan hukum pidana \nnasional yang diarahkan untuk membangun sistem hukum pidana \nnasional yang lebih terintegrasi, sistematis, dan sesuai dengan  \nperkembangan kehidupan masyarakat serta prinsip negara hukum \nberdasarkan Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945. Pembentukan KUHP Nasional tersebut dimaksudkan \nuntuk melakukan rekodifikasi, unifikasi, dan konsolidasi hukum pidana, \nsehingga ketentuan-ketentuan pidana yang sebelumnya tersebar \ndalam berbagai peraturan perundang-undangan dapat ditempatkan \ndalam suatu sistem hukum pidana nasional yang lebih teratur dan  \nkoheren.",
+      "start_line": 1236,
+      "end_line": 1247
+    },
+    {
+      "heading": "2. Bahwa salah satu karakter fundamental dari pembentukan KUHP",
+      "slug": "2-bahwa-salah-satu-karakter-fundamental-dari-pembentukan-kuhp",
+      "text": "Nasional adalah dilakukannya rekodifikasi, unifikasi dan konsol idasi \nhukum pidana, yaitu upaya untuk menata kembali ketentuan-\nketentuan pidana yang sebelumnya tersebar dalam berbagai \nperaturan perundang-undangan ke dalam suatu sistem hukum pidana \nnasional yang lebih terstruktur, koheren, dan konsisten.",
+      "start_line": 1249,
+      "end_line": 1253
+    },
+    {
+      "heading": "3. Bahwa kebutuhan untuk melakukan rekodifikasi tersebut lahir antara",
+      "slug": "3-bahwa-kebutuhan-untuk-melakukan-rekodifikasi-tersebut-lahir-antara",
+      "text": "lain karena sebelum berlakunya KUHP Nasional, ketentuan pidana \ntidak hanya terdapat dalam KUHP lama, tetapi juga tersebar dala m \nberbagai undang-undang sektoral (lex specialis) yang masing-masing \nmemiliki konstruksi tindak pidana, ancaman pidana, serta teknik  \nperumusan yang berbeda-beda. \n\n34",
+      "start_line": 1255,
+      "end_line": 1262
+    },
+    {
+      "heading": "4. Bahwa keadaan tersebut berpotensi menimbulkan fragmentasi hu kum",
+      "slug": "4-bahwa-keadaan-tersebut-berpotensi-menimbulkan-fragmentasi-hu-kum",
+      "text": "pidana, terutama apabila terdapat beberapa undang-undang yang \nmengatur perbuatan yang memiliki persinggungan objek, kepentingan \nhukum, maupun karakter perbuatan yang sama atau sejenis, tetapi  \nmenggunakan konstruksi pertanggungjawaban pidana dan ancaman \npidana yang berbeda.",
+      "start_line": 1264,
+      "end_line": 1268
+    },
+    {
+      "heading": "5. Bahwa melalui KUHP Nasional, pembentuk undang-undang berupay a",
+      "slug": "5-bahwa-melalui-kuhp-nasional-pembentuk-undang-undang-berupay-a",
+      "text": "membangun suatu sistem hukum pidana nasional yang tidak lagi \nsemata-mata bertumpu pada kodifikasi peninggalan hukum pidana \nsebelumnya, melainkan merupakan sistem hukum pidana nasional \nyang disusun berdasarkan prinsip-prinsip hukum pidana modern da n \ndiselaraskan dengan keseluruhan tata hukum nasional.",
+      "start_line": 1270,
+      "end_line": 1274
+    },
+    {
+      "heading": "6. Bahwa oleh karena itu, rekodifikasi dan unifikasi dalam KUHP",
+      "slug": "6-bahwa-oleh-karena-itu-rekodifikasi-dan-unifikasi-dalam-kuhp",
+      "text": "Nasional tidak dapat dipahami hanya sebagai pemindahan secara \nteknis ketentuan pidana dari satu undang-undang ke dalam undang -\nundang lainnya, melainkan merupakan proses penataan kembali \nhubungan antara ketentuan pidana umum dalam KUHP dengan \nketentuan pidana yang tersebar dalam peraturan perundang-\nundangan sektoral, agar keberlakuannya memiliki koherensi dalam  \nsatu sistem hukum pidana nasional.",
+      "start_line": 1276,
+      "end_line": 1282
+    },
+    {
+      "heading": "7. Bahwa tujuan tersebut tercermin pula dalam ketentuan penutup KUHP",
+      "slug": "7-bahwa-tujuan-tersebut-tercermin-pula-dalam-ketentuan-penutup-kuhp",
+      "text": "Nasional, khususnya Bab XXXVII, yang memuat berbagai ketentuan \nmengenai perubahan, pencabutan, dan penyesuaian ketentuan \npidana dalam peraturan perundang-undangan di luar KUHP.",
+      "start_line": 1284,
+      "end_line": 1286
+    },
+    {
+      "heading": "8. Bahwa keberadaan Pasal 622 KUHP Nasional dalam Bab XXXVII",
+      "slug": "8-bahwa-keberadaan-pasal-622-kuhp-nasional-dalam-bab-xxxvii",
+      "text": "tersebut menunjukkan Bahwa pembentuk undang-undang menyadari \nbahwa perubahan dari rezim KUHP lama menuju KUHP Nasional tidak \ndapat dilakukan hanya dengan menetapkan UU Nomor 1 Tahun 2023, \nmelainkan harus disertai dengan penataan terhadap berbagai \nketentuan pidana yang tersebar dalam peraturan perundang-\nundangan lain agar tidak terjadi ketidakharmonisan antara KUHP \nNasional dengan ketentuan pidana sektoral.",
+      "start_line": 1288,
+      "end_line": 1294
+    },
+    {
+      "heading": "9. Bahwa dengan demikian, Pasal 622 KUHP Nasional mempunyai",
+      "slug": "9-bahwa-dengan-demikian-pasal-622-kuhp-nasional-mempunyai",
+      "text": "fungsi transisional sekaligus sistemik, yaitu memastikan agar berbagai \n\n35 \n \nketentuan pidana di luar KUHP Nasional yang memiliki hubungan \nnormatif dengan ketentuan dalam KUHP Nasional dapat disesuaikan, \ntermasuk melalui mekanisme penggantian atau pengalihan rujukan \ndari ketentuan pidana dalam undang-undang sektoral kepada \nketentuan pidana dalam KUHP Nasional.",
+      "start_line": 1296,
+      "end_line": 1304
+    },
+    {
+      "heading": "10. Bahwa mekanisme tersebut penting untuk mencegah terjadinya",
+      "slug": "10-bahwa-mekanisme-tersebut-penting-untuk-mencegah-terjadinya",
+      "text": "keadaan di mana suatu peraturan perundang-undangan masih \nmerujuk kepada ketentuan pidana yang telah mengalami perubahan \nakibat berlakunya KUHP Nasional, atau sebaliknya terdapat ketentuan \npidana sektoral yang tetap berlaku tanpa kejelasan mengenai \nkedudukannya dalam sistem hukum pidana nasional yang baru.",
+      "start_line": 1306,
+      "end_line": 1310
+    },
+    {
+      "heading": "11. Bahwa dalam konteks demikian, Pasal 622 KUHP Nasional harus",
+      "slug": "11-bahwa-dalam-konteks-demikian-pasal-622-kuhp-nasional-harus",
+      "text": "dipahami sebagai bagian dari desain legislasi yang dimaksudkan \nuntuk menciptakan keselarasan dan konsistensi normatif antara KUHP \nNasional dengan ketentuan pidana yang masih terdapat dalam \nberbagai undang-undang di luar KUHP.",
+      "start_line": 1312,
+      "end_line": 1315
+    },
+    {
+      "heading": "12. Bahwa tujuan harmonisasi tersebut memiliki hubungan langsun g",
+      "slug": "12-bahwa-tujuan-harmonisasi-tersebut-memiliki-hubungan-langsun-g",
+      "text": "dengan prinsip kepastian hukum sebagaimana dijamin dalam Pasal \n28D ayat (1) UUD NRI Tahun 1945. Sistem hukum pidana yang \nterfragmentasi, tidak konsisten, atau tidak jelas mengenai hubu ngan \nantara satu norma pidana dengan norma pidana lainnya dapat \nmenimbulkan ketidakpastian mengenai norma mana yang berlaku \nterhadap suatu perbuatan.",
+      "start_line": 1317,
+      "end_line": 1322
+    },
+    {
+      "heading": "13. Bahwa dalam hukum pidana, persoalan tersebut memiliki konsekuensi",
+      "slug": "13-bahwa-dalam-hukum-pidana-persoalan-tersebut-memiliki-konsekuensi",
+      "text": "yang jauh lebih serius dibandingkan bidang hukum lainnya, karen a \nketidakjelasan mengenai norma yang berlaku dapat berujung pada \npenggunaan kewenangan negara untuk melakukan penyidikan, \npenetapan tersangka, penangkapan, penahanan, penuntutan, hingga  \npemidanaan terhadap seseorang.",
+      "start_line": 1324,
+      "end_line": 1328
+    },
+    {
+      "heading": "14. Bahwa oleh sebab itu, rekodifikasi dan unifikasi hukum pida na harus",
+      "slug": "14-bahwa-oleh-sebab-itu-rekodifikasi-dan-unifikasi-hukum-pida-na-harus",
+      "text": "dipahami pula sebagai instrumen untuk memastikan Bahwa \nkewenangan represif negara dilaksanakan berdasarkan sistem norma \nyang jelas, konsisten, dan dapat diperkirakan keberlakuannya ol eh \nwarga negara. \n\n36",
+      "start_line": 1330,
+      "end_line": 1336
+    },
+    {
+      "heading": "15. Bahwa dengan konstruksi tersebut, setiap ketentuan dalam Ba b",
+      "slug": "15-bahwa-dengan-konstruksi-tersebut-setiap-ketentuan-dalam-ba-b",
+      "text": "XXXVII, termasuk Pasal 622 KUHP Nasional, tidak dapat dibaca \nsecara terpisah dari tujuan pembentukan KUHP Nasional sebagai \nsuatu sistem hukum pidana nasional yang terintegrasi. Setiap \npengalihan, perubahan, atau penyesuaian rujukan yang dilakukan \nmelalui Pasal 622 harus ditempatkan dalam kerangka untuk menjag a \nkonsistensi dan koherensi sistem tersebut.",
+      "start_line": 1338,
+      "end_line": 1343
+    },
+    {
+      "heading": "16. Bahwa oleh karena itu, apabila dalam mekanisme pengalihan y ang",
+      "slug": "16-bahwa-oleh-karena-itu-apabila-dalam-mekanisme-pengalihan-y-ang",
+      "text": "telah ditentukan oleh Pasal 622 KUHP Nasional terdapat suatu \nketentuan pidana yang secara substansial berkaitan dengan \nketentuan yang telah dialihkan, tetapi justru tidak diberikan p erlakuan \nnormatif yang sepadan, maka keadaan tersebut tidak dapat semata -\nmata dipandang sebagai persoalan teknis perumusan undang-\nundang.",
+      "start_line": 1345,
+      "end_line": 1350
+    },
+    {
+      "heading": "17. Bahwa keadaan tersebut harus diuji pula dari perspektif konstitusional,",
+      "slug": "17-bahwa-keadaan-tersebut-harus-diuji-pula-dari-perspektif-konstitusional",
+      "text": "karena ketidakkonsistenan dalam mekanisme transisi dan \nharmonisasi hukum pidana dapat menimbulkan ketidakjelasan \nmengenai norma pidana yang berlaku, membuka ruang perbedaan \nperlakuan terhadap perbuatan yang memiliki karakteristik yang \nsejenis, dan pada akhirnya berpotensi mengurangi jaminan kepastian \nhukum yang adil bagi warga negara.",
+      "start_line": 1352,
+      "end_line": 1357
+    },
+    {
+      "heading": "18. Bahwa dalam perkara a quo , pentingnya tujuan rekodifikasi dan",
+      "slug": "18-bahwa-dalam-perkara-a-quo-pentingnya-tujuan-rekodifikasi-dan",
+      "text": "unifikasi tersebut menjadi semakin relevan karena Pasal 622 aya t (8) \nKUHP Nasional secara khusus telah memilih Pasal 272 ayat (2) KUHP \nNasional sebagai norma pengganti terhadap rujukan tertentu \nmengenai tindak pidana penggunaan ijazah atau gelar akademik palsu \nyang terdapat dalam peraturan perundang-undangan di luar KUHP \nNasional.",
+      "start_line": 1359,
+      "end_line": 1364
+    },
+    {
+      "heading": "19. Bahwa pilihan pembentuk undang-undang untuk melakukan",
+      "slug": "19-bahwa-pilihan-pembentuk-undang-undang-untuk-melakukan",
+      "text": "pengalihan tersebut menunjukkan adanya kehendak legislasi untuk  \nmenempatkan pengaturan pidana mengenai perbuatan yang \nbersangkutan dalam kerangka KUHP Nasional. Dengan demikian, \npengalihan tersebut tidak dapat dipandang sebagai tindakan yang  \nberdiri sendiri, melainkan sebagai bagian dari proses penataan dan \n\n37 \n \nharmonisasi ketentuan pidana sektoral dengan sistem hukum pidan a \nnasional yang baru.",
+      "start_line": 1366,
+      "end_line": 1375
+    },
+    {
+      "heading": "20. Bahwa konsekuensinya, ketika pembentuk undang-undang telah",
+      "slug": "20-bahwa-konsekuensinya-ketika-pembentuk-undang-undang-telah",
+      "text": "menentukan suatu mekanisme pengalihan terhadap ketentuan pidana \ntertentu yang berkaitan dengan penggunaan ijazah atau gelar \nakademik palsu, maka konsistensi mekanisme tersebut harus dinil ai \nberdasarkan tujuan rekodifikasi dan unifikasi yang menjadi land asan \npembentukan KUHP Nasional.",
+      "start_line": 1377,
+      "end_line": 1381
+    },
+    {
+      "heading": "21. Bahwa apabila terdapat ketentuan pidana lain dalam rezim peraturan",
+      "slug": "21-bahwa-apabila-terdapat-ketentuan-pidana-lain-dalam-rezim-peraturan",
+      "text": "perundang-undangan yang sama-sama berkaitan dengan \npenggunaan gelar akademik, gelar vokasi, atau gelar profesi, te tapi \ntidak memperoleh penataan atau pengalihan yang sepadan, maka \nperlu dipertanyakan apakah keadaan tersebut masih konsisten \ndengan tujuan harmonisasi yang hendak dicapai melalui Pasal 622  \nKUHP Nasional.",
+      "start_line": 1383,
+      "end_line": 1388
+    },
+    {
+      "heading": "22. Bahwa dengan demikian, persoalan konstitusional yang menjadi objek",
+      "slug": "22-bahwa-dengan-demikian-persoalan-konstitusional-yang-menjadi-objek",
+      "text": "permohonan a quo bukanlah semata-mata mengenai pilihan kebijakan \npidana pembentuk undang-undang, melainkan mengenai konsistensi \ndan kepastian hukum dalam pelaksanaan kebijakan harmoninasi dan  \nunifikasi tersebut, khususnya ketika mekanisme pengalihan yang \ndibentuk oleh Pasal 622 ayat (8) ternyata tidak mencakup seluru h \nnorma yang memiliki hubungan materiil yang relevan.",
+      "start_line": 1390,
+      "end_line": 1395
+    },
+    {
+      "heading": "23. Bahwa berdasarkan seluruh uraian tersebut, tujuan rekodifik asi dan",
+      "slug": "23-bahwa-berdasarkan-seluruh-uraian-tersebut-tujuan-rekodifik-asi-dan",
+      "text": "unifikasi hukum pidana dalam KUHP Nasional menuntut agar \nketentuan Pasal 622 ditafsirkan sebagai bagian dari satu sistem  \npenataan hukum pidana nasional yang mengedepankan konsistensi, \nkoherensi, dan kepastian mengenai keberlakuan norma pidana, \nsehingga tidak boleh terdapat ketidakteraturan normatif yang \nmenyebabkan warga negara menghadapi ketidakpastian mengenai \nketentuan pidana yang dapat dikenakan terhadap dirinya. \nb) Pasal 622 ayat (8) KUHP Nasional Menimbulkan Disharmonisasi \nPengaturan Pidana atas Penggunaan Ijazah atau Gelar Akademik \nkarena Tidak Mencakup Pengalihan Pengacuan Pasal 28 ayat (7) jo . \nPasal 93 UU Dikti kepada Pasal 272 ayat (2) KUHP Nasional \n\n38",
+      "start_line": 1397,
+      "end_line": 1410
+    },
+    {
+      "heading": "24. Bahwa sebelum berlakunya KUHP Nasional, pengaturan mengenai",
+      "slug": "24-bahwa-sebelum-berlakunya-kuhp-nasional-pengaturan-mengenai",
+      "text": "penggunaan ijazah, sertifikat kompetensi, dan gelar akademik pa lsu \ntidak hanya terdapat dalam satu undang-undang, melainkan terseb ar \ndalam beberapa rezim peraturan perundang-undangan, termasuk UU \nSisdiknas dan UU Dikti;",
+      "start_line": 1412,
+      "end_line": 1415
+    },
+    {
+      "heading": "25. Bahwa dalam rezim UU Sisdiknas, penggunaan ijazah dan/atau",
+      "slug": "25-bahwa-dalam-rezim-uu-sisdiknas-penggunaan-ijazah-dan-atau",
+      "text": "sertifikat kompetensi yang terbukti palsu telah diatur secara k husus \ndalam Pasal 69, yang menentukan: \n1) Setiap orang yang menggunakan ijazah, sertifikat kompetensi,  \ngelar akademik, profesi, dan/atau vokasi yang terbukti palsu \ndipidana dengan pidana penjara paling lama lima tahun dan/atau \npidana denda paling banyak Rp 500.000.000,00 (lima ratus juta \nrupiah) \n2) Setiap orang yang dengan sengaja tanpa hak menggunakan ijazah \ndan/atau sertifikat kompetensi sebagaimana dimaksud dalam \nPasal 61 ayat (2) dan ayat (3) yang terbukti palsu dipidana dengan \npidana penjara paling lama lima tahun dan/atau pidana denda \npaling banyak Rp 500.000.000,00 (lima ratus juta rupiah).",
+      "start_line": 1417,
+      "end_line": 1429
+    },
+    {
+      "heading": "26. Bahwa rumusan Pasal 69 UU Sisdiknas dengan demikian",
+      "slug": "26-bahwa-rumusan-pasal-69-uu-sisdiknas-dengan-demikian",
+      "text": "memperlihatkan bahwa pembentuk undang-undang sebelumnya telah \nmenempatkan keadaan objektif mengenai kepalsuan objek dan \nketiadaan hak dalam konstruksi pertanggungjawaban pidana \npenggunaan ijazah atau sertifikat kompetensi palsu. Dengan kata lain, \npertanggungjawaban pidana tidak semata-mata dibangun dari fakta  \nbahwa objek tersebut ternyata palsu, tetapi juga berkaitan kead aan \nhukum yang melekat pada penggunaannya.",
+      "start_line": 1431,
+      "end_line": 1437
+    },
+    {
+      "heading": "27. Bahwa setelah berlakunya KUHP Nasional, pembentuk undang-",
+      "slug": "27-bahwa-setelah-berlakunya-kuhp-nasional-pembentuk-undang",
+      "text": "undang melakukan penataan dan harmonisasi ketentuan pidana yang \ntersebar dalam berbagai peraturan perundang-undangan, termasuk \ndengan mencabut Pasal 69 UU Sisdiknas melalui Pasal 622 ayat (1 ) \nhuruf p KUHP Nasional dan secara khusus mengatur dalam Pasal 622 \nayat (8) bahwa pengacuan terhadap Pasal 69 diganti dengan \npengacuan kepada Pasal 272 ayat (2) KUHP Nasional, yang berbunyi: \n“Dalam hal ketentuan pasal mengenai Tindak Pidana penggunaan \nijazah atau gelar akademik palsu sebagaimana dimaksud pada ayat  \n(1) huruf p mengacu Pasal 69 Undang-Undang yang bersangkutan, \npengacuannya diganti dengan Pasal 272 ayat (2) Undang-Undang ini.” \n \n\n39",
+      "start_line": 1439,
+      "end_line": 1452
+    },
+    {
+      "heading": "28. Bahwa keberadaan Pasal 622 ayat (8) tersebut menunjukkan adanya",
+      "slug": "28-bahwa-keberadaan-pasal-622-ayat-8-tersebut-menunjukkan-adanya",
+      "text": "kehendak pembentuk undang-undang untuk melakukan harmonisasi \ndan unifikasi ketentuan pidana mengenai penggunaan ijazah atau \ngelar akademik palsu ke dalam KUHP Nasional, sehingga ketentuan  \npidana yang sebelumnya tersebar dalam undang-undang sektoral \nmemperoleh titik rujuk dalam ketentuan pidana KUHP Nasional.",
+      "start_line": 1454,
+      "end_line": 1458
+    },
+    {
+      "heading": "29. Bahwa dengan demikian, Pasal 622 ayat (8) KUHP Nasional tid ak",
+      "slug": "29-bahwa-dengan-demikian-pasal-622-ayat-8-kuhp-nasional-tid-ak",
+      "text": "dapat dipahami semata-mata sebagai ketentuan administratif \nmengenai perubahan nomor pasal, melainkan merupakan norma \ntransisi dan harmonisasi yang menentukan hubungan antara \nketentuan pidana sektoral yang ada dengan ketentuan pidana dala m \nKUHP Nasional.",
+      "start_line": 1460,
+      "end_line": 1464
+    },
+    {
+      "heading": "30. Bahwa pada saat yang sama, UU Dikti tetap berlaku dan Pasal 28 ayat",
+      "slug": "30-bahwa-pada-saat-yang-sama-uu-dikti-tetap-berlaku-dan-pasal-28-ayat",
+      "text": "(7) menentukan bahwa: “Perseorangan yang tanpa hak dilarang \nmenggunakan gelar akademik, gelar vokasi, dan/atau gelar profes i.” \nSelanjutnya, larangan tersebut kemudian memperoleh konsekuensi \npidana berdasarkan Pasal 93 UU Dikti, yang menentukan bahwa \nperseorangan, organisasi, atau penyelenggara Pendidikan Tinggi \nyang melanggar Pasal 28 ayat (7) dipidana dengan pidana penjara  \npaling lama 10 (sepuluh) tahun dan/atau pidana denda paling ban yak \nRp1.000.000.000,00.",
+      "start_line": 1466,
+      "end_line": 1473
+    },
+    {
+      "heading": "31. Bahwa dengan demikian, setelah berlakunya KUHP Nasional,",
+      "slug": "31-bahwa-dengan-demikian-setelah-berlakunya-kuhp-nasional",
+      "text": "terdapat dua rezim ketentuan pidana yang tetap dapat bersinggungan \ndalam satu perbuatan, yaitu Pasal 272 ayat (2) KUHP Nasional ya ng \nmengatur penggunaan ijazah atau gelar akademik palsu dan Pasal 28 \nayat (7) jo. Pasal 93 Undang-Undang Nomor 12 Tahun 2012 yang \nmengatur penggunaan gelar akademik, gelar vokasi, dan/atau gela r \nprofesi tanpa hak.",
+      "start_line": 1475,
+      "end_line": 1480
+    },
+    {
+      "heading": "32. Bahwa titik irisan tersebut bukanlah kemungkinan yang bersi fat",
+      "slug": "32-bahwa-titik-irisan-tersebut-bukanlah-kemungkinan-yang-bersi-fat",
+      "text": "abstrak melainkan telah bertransformasi menjadi persoalan konkr et \ndalam proses penegakan hukum pidana terhadap Pemohon. Padahal \nPenggunaan ijazah atau gelar palsu pada dirinya sendiri merupak an \npenggunaan tanpa hak, karena suatu ijazah atau gelar yang palsu  \ntidak dapat melahirkan hak yang sah bagi seseorang untuk \n\n40 \n \nmenggunakan, menyandang, atau mencantumkan ijazah atau gelar \ntersebut. Dengan demikian, satu perbuatan menggunakan ijazah atau \ngelar palsu secara bersamaan dapat dijerat dengan dua Pasal yan g \nberbeda, yaitu Pasal 272 Ayat (2) KUHP Nasional dan Pasal 28 Ay at \n(7) jo. Pasal 93 UU Dikti.",
+      "start_line": 1482,
+      "end_line": 1494
+    },
+    {
+      "heading": "33. Bahwa keadaan tersebut memperlihatkan adanya persoalan yang",
+      "slug": "33-bahwa-keadaan-tersebut-memperlihatkan-adanya-persoalan-yang",
+      "text": "lebih mendasar, yaitu tidak adanya batas normatif yang cukup je las \nmengenai hubungan antara dua ketentuan pidana tersebut yang dapat \nmenjangkau perbuatan yang sama ( Overlapping Criminal Liability ), \nsehingga seseorang tidak dapat mengetahui secara wajar sejak aw al \nkonstruksi pertanggungjawaban pidana apa yang secara normatif \ndapat dibebankan kepadanya. Terlebih lagi, kedua ketentuan tersebut \nmenetapkan ancaman pidana yang berbeda secara signifikan.",
+      "start_line": 1496,
+      "end_line": 1502
+    },
+    {
+      "heading": "34. Bahwa Pasal 272 ayat (2) KUHP Nasional menentukan ancaman",
+      "slug": "34-bahwa-pasal-272-ayat-2-kuhp-nasional-menentukan-ancaman",
+      "text": "pidana penjara paling lama 6 (enam) tahun atau pidana denda pal ing \nbanyak kategori V, sedangkan Pasal 93 jo. Pasal 28 ayat (7) Undang-\nUndang Nomor 12 Tahun 2012 menentukan ancaman pidana penjara \npaling lama 10 (sepuluh) tahun dan/atau pidana denda paling ban yak \nRp1.000.000.000,00 (satu miliar rupiah). Dengan demikian, terha dap \nperbuatan yang secara faktual dapat merupakan perbuatan yang \nsama, tersedia dua konstruksi pemidanaan dengan konsekuensi \npidana yang berbeda secara material.",
+      "start_line": 1504,
+      "end_line": 1511
+    },
+    {
+      "heading": "35. Bahwa tidak terdapat dasar rasional yang memadai untuk",
+      "slug": "35-bahwa-tidak-terdapat-dasar-rasional-yang-memadai-untuk",
+      "text": "mempertahankan dua ancaman pidana yang berbeda terhadap \nperbuatan yang memiliki substansi dan objek perlindungan hukum \nyang beririsan, terlebih ketika perbuatan yang mengandung unsur  \nkepalsuan justru ditempatkan dalam ancaman pidana yang lebih \nringan. Ketidakseimbangan ini merusak prinsip proporsionalitas \npenjatuhan sanksi (proportionality of punishment) dan memicu arbitrari \ndalam diskresi penuntutan oleh Jaksa Penuntut Umum.",
+      "start_line": 1513,
+      "end_line": 1519
+    },
+    {
+      "heading": "36. Bahwa dalam konteks a quo , persoalan tersebut seharusnya telah",
+      "slug": "36-bahwa-dalam-konteks-a-quo-persoalan-tersebut-seharusnya-telah",
+      "text": "diselesaikan melalui mekanisme harmonisasi dalam Pasal 622 ayat  \n(8) KUHP Nasional. Hal ini karena Pasal 622 ayat (8) menunjukka n \nadanya kehendak pembentuk undang-undang untuk melakukan \n\n41 \n \npenyesuaian terhadap ketentuan pidana sektoral yang sebelumnya \nmerujuk pada Pasal 69 UU Sisdiknas dengan menggantikannya \nkepada Pasal 272 ayat (2) KUHP Nasional. Dengan demikian, \npembentuk undang-undang pada dasarnya telah menyadari adanya \nkebutuhan untuk menentukan hubungan antara ketentuan pidana \nsektoral dengan ketentuan pidana dalam KUHP Nasional.",
+      "start_line": 1521,
+      "end_line": 1532
+    },
+    {
+      "heading": "37. Bahwa akan tetapi, harmonisasi tersebut bersifat parsial. P asal 622",
+      "slug": "37-bahwa-akan-tetapi-harmonisasi-tersebut-bersifat-parsial-p-asal-622",
+      "text": "ayat (8) telah menentukan penggantian pengacuan terhadap Pasal 69 \nUU Sisdiknas kepada Pasal 272 ayat (2) KUHP Nasional, tetapi ti dak \nmemberikan ketentuan yang sepadan mengenai hubungan Pasal 272 \nayat (2) KUHP Nasional dengan Pasal 28 ayat (7) jo. Pasal 93 UU \nPendidikan Tinggi yang tetap berlaku dan dapat menjangkau \nperbuatan yang mempunyai titik irisan dengan Pasal 272 ayat (2)  \nKUHP Nasional.",
+      "start_line": 1534,
+      "end_line": 1540
+    },
+    {
+      "heading": "38. Bahwa akibat ketidaklengkapan tersebut, kodifikasi hukum pi dana",
+      "slug": "38-bahwa-akibat-ketidaklengkapan-tersebut-kodifikasi-hukum-pi-dana",
+      "text": "nasional justru menyisakan keadaan di mana satu perbuatan dapat  \nditarik ke dalam dua rezim kriminalisasi yang berbeda, padahal \npembentuk undang-undang telah melakukan harmonisasi terhadap \nrezim pidana sektoral lainnya. Ketidaklengkapan tersebut \nmenimbulkan pertanyaan normatif yang tidak dapat dijawab secara  \npasti dari undang-undang, yaitu apakah terhadap satu perbuatan yang \nsekaligus memenuhi karakteristik Pasal 272 ayat (2) dan Pasal 28 ayat \n(7) jo. Pasal 93 UU Pendidikan Tinggi dapat diterapkan salah satu \nnorma, keduanya secara alternatif, atau terdapat hubungan terte ntu \nyang seharusnya menempatkan salah satunya sebagai norma yang \nharus didahulukan.",
+      "start_line": 1542,
+      "end_line": 1552
+    },
+    {
+      "heading": "39. Bahwa ketidaklengkapan tersebut berpotensi menimbulkan",
+      "slug": "39-bahwa-ketidaklengkapan-tersebut-berpotensi-menimbulkan",
+      "text": "ketidakpastian mengenai dasar pemidanaan yang akan digunakan \nterhadap seseorang, karena perbuatan yang sama dapat \ndikualifikasikan berdasarkan Pasal 272 ayat (2) KUHP Nasional \nataupun Pasal 28 ayat (7) jo. Pasal 93 Undang-Undang Nomor 12 \nTahun 2012, yang masing-masing membawa konsekuensi ancaman \npidana yang jauh berbeda. Dalam hukum pidana, keadaan demikian \nbukan persoalan yang dapat diserahkan sepenuhnya kepada \n\n42 \n \nkebijaksanaan penegak hukum, karena batas pemidanaan harus \nterlebih dahulu ditentukan oleh undang-undang secara jelas dan dapat \ndiperkirakan.",
+      "start_line": 1554,
+      "end_line": 1566
+    },
+    {
+      "heading": "40. Bahwa ketidakjelasan tersebut bukan merupakan persoalan tek nis",
+      "slug": "40-bahwa-ketidakjelasan-tersebut-bukan-merupakan-persoalan-tek-nis",
+      "text": "penuntutan semata, sebab akibatnya menyentuh langsung batas \nkekuasaan negara untuk memidana. Ketika undang-undang tidak \nmemberikan batas yang jelas mengenai hubungan dua ketentuan \npidana yang dapat menjangkau satu perbuatan yang sama, maka \nruang untuk menentukan konstruksi pidana yang akan dikenakan \nmenjadi terlalu bergantung pada pilihan aparat penegak hukum, bukan \nsemata-mata pada batas yang telah ditentukan secara jelas oleh \nundang-undang.",
+      "start_line": 1568,
+      "end_line": 1575
+    },
+    {
+      "heading": "41. Bahwa lebih jauh, perbedaan ancaman pidana tersebut membuka",
+      "slug": "41-bahwa-lebih-jauh-perbedaan-ancaman-pidana-tersebut-membuka",
+      "text": "ruang bagi ketidakseragaman dan diskresi yang berlebihan dalam \nmenentukan konstruksi pasal yang akan dikenakan, sebab terhadap  \nperbuatan yang memiliki karakteristik yang sama tersedia lebih dari \nsatu pintu pemidanaan dengan konsekuensi yang berbeda. Hal \ndemikian berpotensi menempatkan warga negara pada keadaan di \nmana berat-ringannya risiko pidana yang dihadapinya tidak semat a-\nmata ditentukan oleh perbuatannya, tetapi juga oleh pilihan konstruksi \nhukum yang digunakan oleh aparat penegak hukum.",
+      "start_line": 1577,
+      "end_line": 1584
+    },
+    {
+      "heading": "42. Bahwa keadaan tersebut bertentangan dengan prinsip negara hukum",
+      "slug": "42-bahwa-keadaan-tersebut-bertentangan-dengan-prinsip-negara-hukum",
+      "text": "sebagaimana dimaksud dalam Pasal 1 ayat (3) UUD 1945, karena \ndalam negara hukum kekuasaan untuk menghukum harus dibatasi \noleh norma yang jelas, terukur, dan dapat diperkirakan. Warga negara \ntidak boleh dibiarkan berada dalam keadaan di mana satu perbuat an \nyang sama dapat menghasilkan konsekuensi pidana yang berbeda \ntanpa adanya norma yang secara jelas menentukan hubungan dan \nbatas penerapan ketentuan-ketentuan tersebut.",
+      "start_line": 1586,
+      "end_line": 1592
+    },
+    {
+      "heading": "43. Bahwa keadaan tersebut juga bertentangan dengan jaminan",
+      "slug": "43-bahwa-keadaan-tersebut-juga-bertentangan-dengan-jaminan",
+      "text": "kepastian hukum yang adil sebagaimana dimaksud dalam Pasal 28D \nayat (1) UUD 1945, karena kepastian hukum dalam hukum pidana \ntidak berhenti pada kejelasan mengenai perbuatan yang dilarang,  \nmelainkan mencakup pula kepastian mengenai konstruksi \n\n43 \n \npertanggungjawaban pidana dan konsekuensi pidana yang dapat \ndibebankan kepada seseorang atas suatu perbuatan tertentu.",
+      "start_line": 1594,
+      "end_line": 1602
+    },
+    {
+      "heading": "44. Bahwa oleh karena itu, persoalan konstitusional Pasal 622 a yat (8)",
+      "slug": "44-bahwa-oleh-karena-itu-persoalan-konstitusional-pasal-622-a-yat-8",
+      "text": "KUHP Nasional bukan terletak pada keberadaan Pasal 28 ayat (7) jo. \nPasal 93 Undang-Undang Nomor 12 Tahun 2012 sebagai norma \nsektoral, melainkan pada tidak lengkapnya harmonisasi yang \nmenyebabkan dua norma pidana tersebut tetap dapat menjangkau \nsatu perbuatan yang sama dengan ancaman pidana yang berbeda \ntanpa pedoman normatif yang jelas.",
+      "start_line": 1604,
+      "end_line": 1609
+    },
+    {
+      "heading": "45. Bahwa untuk mengatasi ketidaklengkapan tersebut, harmonisasi tidak",
+      "slug": "45-bahwa-untuk-mengatasi-ketidaklengkapan-tersebut-harmonisasi-tidak",
+      "text": "cukup dilakukan dengan sekadar mempertahankan pemisahan antara \nistilah “palsu” dan “tanpa hak”, karena dalam praktik satu perb uatan \ndapat memenuhi keduanya sekaligus. Yang diperlukan adalah \nkonstruksi yang menempatkan kedua keadaan tersebut dalam satu \nkerangka pertanggungjawaban pidana yang koheren, sehingga \npenggunaan ijazah atau gelar palsu yang sekaligus merupakan \npenggunaan gelar tanpa hak tidak melahirkan ketidakpastian \nmengenai rezim pidana yang berlaku.",
+      "start_line": 1611,
+      "end_line": 1618
+    },
+    {
+      "heading": "46. Bahwa dalam konteks tersebut, Pasal 272 ayat (2) KUHP Nasio nal",
+      "slug": "46-bahwa-dalam-konteks-tersebut-pasal-272-ayat-2-kuhp-nasio-nal",
+      "text": "perlu dimaknai dengan mencakup keadaan “yang diketahuinya palsu  \natau yang diketahuinya diperoleh secara tanpa hak”, sehingga \nkeadaan yang menjadi dasar larangan penggunaan ijazah atau gela r \ntersebut dapat ditempatkan dalam satu konstruksi tindak pidana yang \nharmonis. Frasa tersebut tidak dimaksudkan untuk menyamakan \n“palsu” dengan “diperoleh secara tanpa hak”, melainkan untuk \nmengakomodasi dua keadaan yang secara faktual dapat bertemu \ndalam satu perbuatan penggunaan.",
+      "start_line": 1620,
+      "end_line": 1627
+    },
+    {
+      "heading": "47. Bahwa pencantuman frasa “yang diketahuinya” juga merupakan",
+      "slug": "47-bahwa-pencantuman-frasa-yang-diketahuinya-juga-merupakan",
+      "text": "bagian yang tidak terpisahkan dari konstruksi tersebut, karena fakta \nobjektif bahwa suatu ijazah atau gelar ternyata palsu atau dipe roleh \nsecara tanpa hak tidak dengan sendirinya membuktikan bahwa \npengguna mengetahui keadaan tersebut. Dengan demikian, \nharmonisasi norma sekaligus harus mempertahankan prinsip bahwa \npertanggungjawaban pidana harus didasarkan pada kesalahan, bukan \n\n44 \n \nsemata-mata pada keadaan objektif yang baru diketahui setelah \nperbuatan dilakukan.",
+      "start_line": 1629,
+      "end_line": 1639
+    },
+    {
+      "heading": "48. Bahwa konstruksi demikian justru memberikan batas yang lebih ketat",
+      "slug": "48-bahwa-konstruksi-demikian-justru-memberikan-batas-yang-lebih-ketat",
+      "text": "terhadap kekuasaan pemidanaan negara. Penuntut umum tidak cukup \nmembuktikan bahwa ijazah atau gelar yang digunakan ternyata pal su \natau diperoleh secara tanpa hak, tetapi juga harus membuktikan \nbahwa keadaan tersebut diketahui oleh orang yang menggunakannya. \nDengan demikian, seseorang yang menggunakan suatu ijazah atau \ngelar dalam keadaan tidak mengetahui kepalsuan atau \nketidakabsahan perolehannya tidak serta-merta dapat dibebani \npertanggungjawaban pidana hanya karena keadaan objektif tersebu t \nkemudian terbukti.",
+      "start_line": 1641,
+      "end_line": 1649
+    },
+    {
+      "heading": "49. Bahwa dengan konstruksi tersebut, hubungan antara norma-norma a",
+      "slug": "49-bahwa-dengan-konstruksi-tersebut-hubungan-antara-norma-norma-a",
+      "text": "quo menjadi lebih jelas: Pasal 28 ayat (7) Undang-Undang Nomor 12 \nTahun 2012 menetapkan larangan penggunaan gelar tanpa hak; Pasal \n93 memberikan konsekuensi pidana atas pelanggaran larangan \ntersebut; Pasal 272 ayat (2) KUHP Nasional menjadi ketentuan pidana \numum mengenai penggunaan ijazah atau gelar palsu; sedangkan \nPasal 622 ayat (8) harus menjadi instrumen yang \nmengharmonisasikan hubungan antar-ketentuan tersebut ketika sat u \nperbuatan berada dalam titik irisan keduanya.",
+      "start_line": 1651,
+      "end_line": 1658
+    },
+    {
+      "heading": "50. Bahwa dengan demikian, yang hendak dicegah melalui pemaknaa n",
+      "slug": "50-bahwa-dengan-demikian-yang-hendak-dicegah-melalui-pemaknaa-n",
+      "text": "konstitusional terhadap Pasal 272 ayat (2) jo. Pasal 622 ayat (8) KUHP \nNasional bukanlah keberlakuan larangan penggunaan gelar tanpa \nhak, melainkan tumpang tindih pertanggungjawaban pidana yang tidak \nmemiliki batas normatif yang jelas. Seseorang tidak boleh berad a \ndalam keadaan di mana satu perbuatan yang sama berpotensi \ndijangkau oleh dua konstruksi tindak pidana dengan ancaman pida na \nberbeda. hanya karena terdapat dua rezim norma yang mengaturnya  \ntanpa harmonisasi yang memadai.",
+      "start_line": 1660,
+      "end_line": 1667
+    },
+    {
+      "heading": "51. Bahwa konstruksi yang dimohonkan Pemohon juga tidak dimaksudkan",
+      "slug": "51-bahwa-konstruksi-yang-dimohonkan-pemohon-juga-tidak-dimaksudkan",
+      "text": "untuk menciptakan tindak pidana baru, melainkan untuk \nmengharmonisasikan substansi larangan yang telah terlebih dahul u \nditetapkan oleh pembentuk undang-undang dengan sistem pidana \n\n45 \n \nKUHP Nasional serta sekaligus memberikan batas subjektif melalu i \nunsur pengetahuan. Dengan demikian, permohonan a quo  pada \nhakikatnya merupakan permintaan agar Mahkamah Konstitusi \nmemulihkan koherensi norma dan kepastian batas \npertanggungjawaban pidana dalam proses kodifikasi hukum pidana \nnasional.",
+      "start_line": 1669,
+      "end_line": 1680
+    },
+    {
+      "heading": "52. Bahwa tanpa pemaknaan tersebut, Pasal 622 ayat (8) KUHP Nasional",
+      "slug": "52-bahwa-tanpa-pemaknaan-tersebut-pasal-622-ayat-8-kuhp-nasional",
+      "text": "hanya menghasilkan harmonisasi yang bersifat parsial: hubungan \nantara Pasal 69 UU Sisdiknas dengan Pasal 272 ayat (2) KUHP \nNasional telah ditentukan, tetapi overlap antara Pasal 272 ayat  ( 2 )  \nKUHP Nasional dengan Pasal 28 ayat (7) jo. Pasal 93 UU Dikti tetap \ndibiarkan tanpa penyelesaian normatif, padahal keduanya dapat \nmenjangkau satu perbuatan penggunaan ijazah atau gelar palsu yang \nsekaligus merupakan penggunaan gelar tanpa hak.",
+      "start_line": 1682,
+      "end_line": 1688
+    },
+    {
+      "heading": "53. Bahwa keadaan demikian semakin tidak dapat dibenarkan karen a",
+      "slug": "53-bahwa-keadaan-demikian-semakin-tidak-dapat-dibenarkan-karen-a",
+      "text": "perbedaan rezim tersebut membawa perbedaan ancaman pidana \nyang material, sehingga ketidakjelasan hubungan antar-norma pad a \nakhirnya bukan hanya menghasilkan ketidakpastian teoritis, teta pi \ndapat menentukan secara konkret berat-ringannya ancaman pidana \nyang dihadapi seseorang.",
+      "start_line": 1690,
+      "end_line": 1694
+    },
+    {
+      "heading": "54. Bahwa oleh karena itu, ukuran konstitusional yang relevan b ukan",
+      "slug": "54-bahwa-oleh-karena-itu-ukuran-konstitusional-yang-relevan-b-ukan",
+      "text": "semata-mata apakah masing-masing norma dapat dipahami secara \nterpisah, melainkan apakah ketika norma-norma tersebut diterapk an \nterhadap satu perbuatan yang sama, sistem hukum menyediakan \nbatas yang cukup jelas mengenai hubungan dan konsekuensi \npenerapannya. Dalam hal ini, Pasal 622 ayat (8) tidak memberika n \nbatas tersebut.",
+      "start_line": 1696,
+      "end_line": 1701
+    },
+    {
+      "heading": "55. Bahwa berdasarkan seluruh uraian tersebut, Pasal 622 ayat (8) KUHP",
+      "slug": "55-bahwa-berdasarkan-seluruh-uraian-tersebut-pasal-622-ayat-8-kuhp",
+      "text": "Nasional mengandung ketidaklengkapan normatif dalam harmonisasi  \nketentuan pidana mengenai penggunaan ijazah dan gelar akademik,  \nkarena tidak mengatur secara memadai hubungan antara Pasal 272 \nayat (2) KUHP Nasional dengan Pasal 28 ayat (7) jo. P a s a l  9 3  \nUndang-Undang Nomor 12 Tahun 2012, padahal penggunaan ijazah \natau gelar palsu sekaligus dapat merupakan penggunaan gelar tanpa \n\n46 \n \nhak dan kedua rezim tersebut menetapkan ancaman pidana yang \nberbeda.",
+      "start_line": 1703,
+      "end_line": 1713
+    },
+    {
+      "heading": "56. Bahwa ketidaklengkapan tersebut menimbulkan ketidakpastian",
+      "slug": "56-bahwa-ketidaklengkapan-tersebut-menimbulkan-ketidakpastian",
+      "text": "mengenai batas pertanggungjawaban pidana dan membuka ruang \npenerapan dua konstruksi pemidanaan terhadap satu perbuatan yang \nsama, sehingga bertentangan dengan prinsip negara hukum \nsebagaimana dijamin Pasal 1 ayat (3) UUD 1945 dan jaminan \nkepastian hukum yang adil sebagaimana dijamin Pasal 28D ayat (1 ) \nUUD 1945.",
+      "start_line": 1715,
+      "end_line": 1720
+    },
+    {
+      "heading": "57. Bahwa oleh karena itu, Pasal 622 ayat (8) KUHP Nasional har us",
+      "slug": "57-bahwa-oleh-karena-itu-pasal-622-ayat-8-kuhp-nasional-har-us",
+      "text": "dimaknai sebagai ketentuan harmonisasi yang juga mencakup \nketentuan pidana mengenai pelanggaran Pasal 28 ayat (7) jo. Pasal \n93 Undang-Undang Nomor 12 Tahun 2012, sehingga terhadap \npenggunaan gelar yang sekaligus merupakan penggunaan ijazah atau \ngelar palsu, pengacuannya ditempatkan dalam konstruksi Pasal 27 2 \nayat (2) KUHP Nasional dengan batas pertanggungjawaban \nsebagaimana dimohonkan Pemohon.",
+      "start_line": 1722,
+      "end_line": 1728
+    },
+    {
+      "heading": "58. Bahwa sejalan dengan itu, Pasal 272 ayat (2) KUHP Nasional harus",
+      "slug": "58-bahwa-sejalan-dengan-itu-pasal-272-ayat-2-kuhp-nasional-harus",
+      "text": "dimaknai dengan menambahkan frasa “yang diketahuinya palsu atau  \nyang diketahuinya diperoleh secara tanpa hak”, sehingga \npertanggungjawaban pidana tidak hanya mencakup keadaan objektif  \nmengenai kepalsuan atau ketidakabsahan perolehan objek, tetapi juga \nmensyaratkan bahwa keadaan tersebut berada dalam pengetahuan \npengguna.",
+      "start_line": 1730,
+      "end_line": 1735
+    },
+    {
+      "heading": "59. Bahwa pemaknaan demikian akan menghilangkan ketidakpastian",
+      "slug": "59-bahwa-pemaknaan-demikian-akan-menghilangkan-ketidakpastian",
+      "text": "mengenai hubungan antara ketentuan pidana sektoral dan KUHP \nNasional, sekaligus mencegah satu perbuatan penggunaan ijazah \natau gelar palsu diperlakukan melalui dua rezim pemidanaan yang  \nberbeda tanpa pedoman normatif yang jelas mengenai hubungan \nkeduanya.",
+      "start_line": 1737,
+      "end_line": 1741
+    },
+    {
+      "heading": "60. Bahwa dengan demikian, konstruksi yang dimohonkan Pemohon",
+      "slug": "60-bahwa-dengan-demikian-konstruksi-yang-dimohonkan-pemohon",
+      "text": "memberikan tiga kepastian sekaligus, yaitu: pertama, kepastian \nmengenai keadaan objektif yang dapat menjadi dasar \npertanggungjawaban pidana, yakni objek yang palsu atau diperole h \n\n47 \n \nsecara tanpa hak; kedua, kepastian mengenai keadaan subjektif yang \nharus diketahui oleh pelaku; dan ketiga, kepastian mengenai \nharmonisasi hubungan antara Pasal 272 ayat (2) KUHP Nasional \ndengan Pasal 28 ayat (7) jo. Pasal 93 Undang-Undang Nomor 12 \nTahun 2012.",
+      "start_line": 1743,
+      "end_line": 1753
+    },
+    {
+      "heading": "61. Bahwa berdasarkan seluruh uraian tersebut, Pasal 622 ayat (8) KUHP",
+      "slug": "61-bahwa-berdasarkan-seluruh-uraian-tersebut-pasal-622-ayat-8-kuhp",
+      "text": "Nasional bertentangan dengan prinsip negara hukum dan jaminan \nkepastian hukum yang adil sebagaimana dijamin dalam Pasal 1 aya t \n(3) dan Pasal 28D ayat (1) UUD 1945 sepanjang tidak dimaknai \n“Dalam hal ketentuan pasal mengenai Tindak Pidana penggunaan \nijazah atau gelar akademik palsu sebagaimana dimaksud pada ayat  \n(1) huruf p mengacu Pasal 69 Undang-Undang yang bersangkutan, \ndan ketentuan Tindak Pidana Penggunaan gelar akademik, gelar \nvokasi, dan/atau gelar profesi tanpa hak sebagaimana dimaksud Pasal \n28 ayat (7)  jo. Pasal 93 Undang-Undang Nomor 12 Tahun 2012 \nTentang Pendidikan Tinggi, pengacuannya diganti dengan Pasal 27 2 \nayat (2) Undang-Undang ini.”",
+      "start_line": 1755,
+      "end_line": 1765
+    },
+    {
+      "heading": "62. Bahwa oleh karena itu, pemaknaan terhadap Pasal 622 ayat (8) KUHP",
+      "slug": "62-bahwa-oleh-karena-itu-pemaknaan-terhadap-pasal-622-ayat-8-kuhp",
+      "text": "Nasional sebagaimana dimohonkan Pemohon merupakan kebutuhan \nkonstitusional untuk memastikan bahwa kodifikasi dan harmonisas i \nhukum pidana nasional tidak justru menghasilkan overlapping criminal \nliability, yakni keadaan ketika satu perbuatan yang sama dapat \ndikenakan melalui dua konstruksi tindak pidana dengan ancaman \npidana yang berbeda tanpa batas normatif yang jelas.",
+      "start_line": 1767,
+      "end_line": 1772
+    },
+    {
+      "heading": "63. Bahwa pada akhirnya, konstruksi tersebut menempatkan KUHP",
+      "slug": "63-bahwa-pada-akhirnya-konstruksi-tersebut-menempatkan-kuhp",
+      "text": "Nasional sebagai sistem hukum pidana yang koheren, terukur, dan  \ndapat diperkirakan, tanpa menghilangkan larangan sektoral mengenai \npenggunaan gelar tanpa hak dan tanpa memperluas \npertanggungjawaban pidana secara objektif. Sebaliknya, konstruk si \ntersebut memastikan bahwa ketika penggunaan ijazah atau gelar \npalsu sekaligus merupakan penggunaan gelar tanpa hak, perbuatan  \ntersebut memiliki satu konstruks i pertanggungjawaban pidana yan g \njelas dengan batas kesalahan yang dapat dibuktikan secara objek tif \ndan subjektif. \n\n48",
+      "start_line": 1774,
+      "end_line": 1785
+    },
+    {
+      "heading": "1. Bahwa Pemohon mengajukan permohonan provisi agar pemeriksaan",
+      "slug": "1-bahwa-pemohon-mengajukan-permohonan-provisi-agar-pemeriksaan",
+      "text": "perkara a quo  dilakukan secara dipercepat dan diprioritaskan di atas \nperkara-perkara lainnya, mengingat terdapat keadaan khusus dan \nmendesak yang menyebabkan penundaan pemeriksaan berpotensi \nmemperbesar kerugian konstitusional yang secara nyata sedang di alami \nPemohon.",
+      "start_line": 1788,
+      "end_line": 1792
+    },
+    {
+      "heading": "2. Bahwa urgensi tersebut tidak didasarkan semata-mata pada kep entingan",
+      "slug": "2-bahwa-urgensi-tersebut-tidak-didasarkan-semata-mata-pada-kep-entingan",
+      "text": "subjektif Pemohon, melainkan lahir dari kenyataan bahwa Pemohon  saat \nini secara konkret sedang berhadapan dengan proses penegakan hu kum \npidana berdasarkan konstruksi norma yang menjadi objek pengujian dalam \nperkara a quo. Dengan demikian, persoalan konstitusional yang diajukan \nPemohon bukan merupakan persoalan yang bersifat hipotetis atau \nabstrak, melainkan telah mempunyai konsekuensi hukum yang nyata  \nterhadap Pemohon.",
+      "start_line": 1794,
+      "end_line": 1800
+    },
+    {
+      "heading": "3. Bahwa Pemohon telah menghadapi surat dakwaan yang disusun se cara",
+      "slug": "3-bahwa-pemohon-telah-menghadapi-surat-dakwaan-yang-disusun-se-cara",
+      "text": "alternatif, yaitu dengan mendasarkan pertanggungjawaban pidana \nPemohon pada Pasal 272 ayat (2) KUHP Nasional atau Pasal 93 jo. Pasal \n28 ayat (7) UU Dikti, sehingga kepastian mengenai konstruksi no rma \npidana yang berlaku terhadap perbuatan yang didakwakan kepada \nPemohon mempunyai hubungan yang langsung dan erat dengan \nkedudukan hukum Pemohon dalam proses pidana tersebut.",
+      "start_line": 1802,
+      "end_line": 1807
+    },
+    {
+      "heading": "4. Bahwa dalam konteks tersebut, waktu mempunyai arti yang sangat penting",
+      "slug": "4-bahwa-dalam-konteks-tersebut-waktu-mempunyai-arti-yang-sangat-penting",
+      "text": "bagi perlindungan hak konstitusional Pemohon. Setiap penundaan \nterhadap pemeriksaan perkara a quo  berarti memperpanjang keadaan \nketidakpastian hukum yang sedang dihadapi Pemohon mengenai bata s \npertanggungjawaban pidana, unsur kesalahan yang harus dibuktika n, \nserta konstruksi norma pidana yang diterapkan terhadap perbuata n yang \ndidakwakan kepada Pemohon.",
+      "start_line": 1809,
+      "end_line": 1814
+    },
+    {
+      "heading": "5. Bahwa khusus mengenai Pasal 272 ayat (2) KUHP Nasional, Pemo hon",
+      "slug": "5-bahwa-khusus-mengenai-pasal-272-ayat-2-kuhp-nasional-pemo-hon",
+      "text": "mempersoalkan tidak dirumuskannya secara tegas unsur subjektif berupa \npengetahuan pelaku mengenai kepalsuan atau ketidaksahan objek y ang \ndigunakan. Persoalan tersebut mempunyai relevansi langsung deng an \nperkara Pemohon, karena Pemohon pada pokoknya mendalilkan bahwa  \n\n49 \n \ndokumen yang digunakan diyakini sebagai dokumen yang sah dan \nPemohon tidak mengetahui adanya kepalsuan atau ketidaksahan \nsebagaimana dipersoalkan dalam proses pidana terhadap dirinya.",
+      "start_line": 1816,
+      "end_line": 1825
+    },
+    {
+      "heading": "6. Bahwa sementara itu, terhadap Pasal 622 ayat (8) KUHP Nasion al,",
+      "slug": "6-bahwa-sementara-itu-terhadap-pasal-622-ayat-8-kuhp-nasion-al",
+      "text": "Pemohon mempersoalkan ketidaklengkapan pengaturan mengenai \nharmonisasi rujukan ketentuan pidana setelah dicabutnya Pasal 6 9 UU \nSisdiknas, khususnya dalam kaitannya dengan tetap berlakunya ketentuan \npidana dalam Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan \nTinggi yang mengatur perbuatan yang mempunyai irisan dengan \nperbuatan sebagaimana dimaksud dalam Pasal 272 ayat (2) KUHP \nNasional.",
+      "start_line": 1827,
+      "end_line": 1833
+    },
+    {
+      "heading": "7. Bahwa persoalan tersebut menjadi semakin mendesak karena",
+      "slug": "7-bahwa-persoalan-tersebut-menjadi-semakin-mendesak-karena",
+      "text": "ketidakjelasan normatif tersebut telah termanifestasi secara konkret dalam \nperkara Pemohon melalui penggunaan dua konstruksi pidana secara  \nalternatif, yang mempunyai rumusan unsur serta ancaman pidana y ang \nberbeda. Oleh karena itu, pemeriksaan perkara a quo  t i d a k  h a n y a  \nberkaitan dengan kepentingan Pemohon secara individual, tetapi juga \nmenyangkut kebutuhan untuk segera memperoleh kepastian mengenai  \nbatas dan konstruksi pertanggungjawaban pidana yang berlaku.",
+      "start_line": 1835,
+      "end_line": 1841
+    },
+    {
+      "heading": "8. Bahwa keadaan demikian menunjukkan adanya hubungan yang erat",
+      "slug": "8-bahwa-keadaan-demikian-menunjukkan-adanya-hubungan-yang-erat",
+      "text": "antara urgensi pemeriksaan perkara a quo  dengan perlindungan hak \nkonstitusional Pemohon atas kepastian hukum yang adil sebagaima na \ndijamin oleh Pasal 28D ayat (1) UUD 1945, serta prinsip negara hukum \nsebagaimana ditegaskan dalam Pasal 1 ayat (3) UUD 1945.",
+      "start_line": 1843,
+      "end_line": 1846
+    },
+    {
+      "heading": "9. Bahwa apabila pemeriksaan perkara a quo berlangsung dalam jangka",
+      "slug": "9-bahwa-apabila-pemeriksaan-perkara-a-quo-berlangsung-dalam-jangka",
+      "text": "waktu yang tidak mempertimbangkan keadaan khusus Pemohon, maka \nketidakpastian mengenai konstitusionalitas dan pemaknaan norma yang \nmenjadi objek pengujian akan terus berlangsung bersamaan dengan  \nberjalannya proses pidana terhadap Pemohon. Dengan demikian, terdapat \nrisiko bahwa kerugian konstitusional Pemohon akan terus berlangsung dan \nberkembang selama belum terdapat kepastian hukum dari Mahkamah.",
+      "start_line": 1848,
+      "end_line": 1853
+    },
+    {
+      "heading": "10. Bahwa oleh karena itu, terdapat alasan yang cukup, objektif , dan",
+      "slug": "10-bahwa-oleh-karena-itu-terdapat-alasan-yang-cukup-objektif-dan",
+      "text": "mendesak bagi Mahkamah untuk memberikan prioritas terhadap \npemeriksaan perkara a quo. Permohonan tersebut juga tidak dimaksudkan \n\n50 \n \nuntuk mengesampingkan perkara-perkara lain yang sedang diperiks a \nMahkamah, melainkan semata-mata memohon agar perkara a quo  \nmemperoleh penanganan secara khusus dengan mempertimbangkan \nkeadaan konkret Pemohon dan sifat kerugian konstitusional yang sedang \nberlangsung.",
+      "start_line": 1855,
+      "end_line": 1864
+    },
+    {
+      "heading": "11. Bahwa percepatan pemeriksaan perkara a quo juga diperlukan untuk",
+      "slug": "11-bahwa-percepatan-pemeriksaan-perkara-a-quo-juga-diperlukan-untuk",
+      "text": "menjamin agar kewenangan Mahkamah dalam memberikan perlindungan \nterhadap hak-hak konstitusional tidak kehilangan efektivitasnya  akibat \nberlarutnya keadaan ketidakpastian hukum yang justru menjadi ob jek \npersoalan konstitusional dalam perkara a quo.",
+      "start_line": 1866,
+      "end_line": 1869
+    },
+    {
+      "heading": "12. Bahwa berdasarkan seluruh uraian tersebut, Pemohon memohon kepada",
+      "slug": "12-bahwa-berdasarkan-seluruh-uraian-tersebut-pemohon-memohon-kepada",
+      "text": "Mahkamah agar berkenan memberikan prioritas dan percepatan \npemeriksaan terhadap perkara a quo, dengan menempatkannya sebagai \nperkara yang perlu diperiksa dan diputus terlebih dahulu diband ingkan \nperkara-perkara lainnya, atau setidak-tidaknya dengan memberika n \npercepatan pemeriksaan sesuai dengan kewenangan dan kebijaksana an \nMahkamah. \nIV. PETITUM \nBerdasarkan alasan-alasan hukum dan konstitusional di atas, mak a Pemohon \ndalam hal ini memohon kepada Majelis Hakim Mahkamah Konstitusi Republik \nIndonesia untuk dapat memutus hal-hal sebagai berikut:",
+      "start_line": 1871,
+      "end_line": 1880
+    },
+    {
+      "heading": "2. Memerintahkan agar pemeriksaan dan penyelesaian permohonan a quo",
+      "slug": "2-memerintahkan-agar-pemeriksaan-dan-penyelesaian-permohonan-a-quo",
+      "text": "dilakukan secara dipercepat dan diprioritaskan di atas perkara- perkara \nlainnya yang sedang diperiksa oleh Mahkamah Konstitusi, dengan \nmempertimbangkan adanya proses penegakan hukum pidana yang seda ng \nberlangsung terhadap Pemohon dan adanya kerugian konstitusional  \nPemohon yang bersifat nyata, aktual, dan terus berlangsung. \nDALAM POKOK PERMOHONAN:",
+      "start_line": 1884,
+      "end_line": 1889
+    },
+    {
+      "heading": "2. Menyatakan Pasal 272 Ayat (2) Undang-Undang Nomor 1 Tahun 2023 tentang",
+      "slug": "2-menyatakan-pasal-272-ayat-2-undang-undang-nomor-1-tahun-2023-tentang",
+      "text": "Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indo nesia \nTahun 2023 Nomor 1, Tambahan Lembaran Negara Nomor 6842) \n\n51 \n \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang tidak \ndimaknai “Setiap Orang yang menggunakan ijazah, sertifikat kompetensi, gelar \nakademik, profesi, atau vokasi yang diketahuinya palsu atau dik etahuinya \ndiperoleh secara tanpa hak, dipidana dengan pidana penjara pali ng lama 6 \n(enam) tahun atau pidana denda paling banyak kategori V”;",
+      "start_line": 1892,
+      "end_line": 1902
+    },
+    {
+      "heading": "3. Menyatakan Pasal 622 Ayat (8) Undang-Undang Nomor 1 Tahun 2023 tentang",
+      "slug": "3-menyatakan-pasal-622-ayat-8-undang-undang-nomor-1-tahun-2023-tentang",
+      "text": "Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indo nesia \nTahun 2023 Nomor 1, Tambahan Lembaran Negara Nomor 6842) \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang tidak \ndimaknai “Dalam hal ketentuan pasal mengenai Tindak Pidana peng gunaan \nijazah atau gelar akademik palsu sebagaimana dimaksud pada ayat  (1) huruf \np mengacu Pasal 69 Undang-Undang yang bersangkutan, dan ketentu an \nTindak Pidana Penggunaan gelar akademik, gelar vokasi, dan/atau  g e l a r  \nprofesi tanpa hak sebagaimana dimaksud Pasal 28 ayat (7) jo. Pa sal 93 \nUndang-Undang Nomor 12 Tahun 2012 Tentang Pendidikan Tinggi, \npengacuannya diganti dengan Pasal 272 ayat (2) Undang-Undang ini.”",
+      "start_line": 1904,
+      "end_line": 1914
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan Putusan dalam Berita Negara Republik Indonesia;",
+      "slug": "4-memerintahkan-pemuatan-putusan-dalam-berita-negara-republik-indonesia",
+      "text": "Atau, apabila Majelis Hakim Mahkamah Konstitusi Republik Indonesia berpendapat \nlain mohon putusan yang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, Pemohon tela h \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 1 2 ,  \nsebagai berikut:",
+      "start_line": 1916,
+      "end_line": 1920
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 1 Tahun 2023 tentang Kitab",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-1-tahun-2023-tentang-kitab",
+      "text": "Undang-Undang Hukum Pidana;",
+      "start_line": 1922,
+      "end_line": 1922
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945 (UUD NRI 1945);",
+      "start_line": 1924,
+      "end_line": 1924
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Salinan Surat Panggilan Tersangka Ke-1 Nomor:",
+      "slug": "3-bukti-p-3-fotokopi-salinan-surat-panggilan-tersangka-ke-1-nomor",
+      "text": "S.Pgl/S-5.1/07/1/2026/Dittipidum/Bareskrim, tertanggal 29 \nJanuari 2026;",
+      "start_line": 1926,
+      "end_line": 1927
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Keputusan Presiden RI Nomor 39/P Tahun 2025",
+      "slug": "5-bukti-p-5-fotokopi-keputusan-presiden-ri-nomor-39-p-tahun-2025",
+      "text": "tentang Pemberhentian Pejabat Gubernur dan Pengesahan \nPengangkatan Gubernur dan Wakil Gubernur Masa Jabatan \nTahun 2025-2030; \n\n52",
+      "start_line": 1930,
+      "end_line": 1935
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Kumpulan Dokumen Proses Pemeriksaan Huk um",
+      "slug": "6-bukti-p-6-fotokopi-kumpulan-dokumen-proses-pemeriksaan-huk-um",
+      "text": "dan Penetapan Tersangka Pemohon;",
+      "start_line": 1937,
+      "end_line": 1937
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Rencana Dakwaan No. Reg. Perk: PDM-",
+      "slug": "7-bukti-p-7-fotokopi-rencana-dakwaan-no-reg-perk-pdm",
+      "text": "2046/L.9.10/Eoh.2/08/2026 tertanggal 3 Agustus 2026;",
+      "start_line": 1939,
+      "end_line": 1939
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Surat Perlawanan (Nota Keberatan Terdak wa)",
+      "slug": "8-bukti-p-8-fotokopi-surat-perlawanan-nota-keberatan-terdak-wa",
+      "text": "Terhadap Dakwaan Jaksa Penuntut Umum No. Reg. Perk: \nPDM-2046/L.9.10/Eoh.2/08/2026 Dalam Perkara Pidana \nNomor: 217/Pid.B/2026/PN PGP Atas Nama Terdakwa \nHellyana Binti Mukhdi Syafe’ie, tertanggal 7 September 2026;",
+      "start_line": 1941,
+      "end_line": 1944
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Kumpulan Dokumen Riwayat Akademik dan",
+      "slug": "9-bukti-p-9-fotokopi-kumpulan-dokumen-riwayat-akademik-dan",
+      "text": "Kelulusan Pemohon sebagai Dasar Keyakinan atas \nKeabsahan Ijazah dan Gelar Akademik.",
+      "start_line": 1946,
+      "end_line": 1947
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Kumpulan Dokumen Verifikasi Keabsahan Ijazah",
+      "slug": "10-bukti-p-10-fotokopi-kumpulan-dokumen-verifikasi-keabsahan-ijazah",
+      "text": "dan Penetapan Pemohon sebagai Pasangan Calon Bupati \ndan Wakil Bupati Belitung Tahun 2018;",
+      "start_line": 1949,
+      "end_line": 1950
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Informasi Resmi LLDIKTI Wilayah III J akarta tentang",
+      "slug": "11-bukti-p-11-fotokopi-informasi-resmi-lldikti-wilayah-iii-j-akarta-tentang",
+      "text": "Pencabutan Izin Perguruan Tinggi Universitas Azzahra \ntertanggal 27 Mei 2024;",
+      "start_line": 1952,
+      "end_line": 1953
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Inventarisasi Penggunaan Frasa “Diket ahui” dan",
+      "slug": "12-bukti-p-12-fotokopi-inventarisasi-penggunaan-frasa-diket-ahui-dan",
+      "text": "“Mengetahui” Guna Menjelaskan Keterkaitan Antara \nPengetahuan Pelaku dengan Keadaan Objektif Tertentu \nDalam Pasal-Pasal KUHP. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam  Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahka n dengan \nputusan ini.",
+      "start_line": 1955,
+      "end_line": 1961
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \n\n53 \n \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076, selanjutnya disebut UU 48/2009), salah sa tu kewenangan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji undang-undang terhadap UUD NRI Tahun \n1945.  \n[3.2] Menimbang bahwa oleh karena permohonan Pemohon mengenai \npengujian konstitusional undang-undang, in casu norma Pasal 272 ayat (2) dan \nPasal 622 ayat (8) Undang-Undang Nomor 1 Tahun 2023 tentang Kit ab Undang-\nUndang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor \n1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842, sela njutnya \ndisebut UU 1/2023) terhadap UUD NRI Tahun 1945 maka Mahkamah be rwenang \nmengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3]   Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na.  perseorangan warga negara Indonesia; \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan se suai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1963,
+      "end_line": 1997
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya Undang -Undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a; \n\n54 \n \n[3.4]  Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, telah berpend irian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na.  adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI Tahun 1945; \nb.  hak dan/atau kewenangan konstitusional tersebut oleh Pemoho n dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 2000,
+      "end_line": 2021
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 2023,
+      "end_line": 2024
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5]  Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan di atas, selanjutnya Mahkamah akan memper timbangkan \nkedudukan hukum Pemohon yang pada pokoknya, sebagai berikut:",
+      "start_line": 2026,
+      "end_line": 2032
+    },
+    {
+      "heading": "1. Bahwa norma undang-undang yang dimohonkan pengujian dalam pe rmohonan",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-pengujian-dalam-pe-rmohonan",
+      "text": "a quo  adalah Pasal 272 ayat (2) dan Pasal 622 ayat (8) UU 1/2023, ya ng \nselengkapnya menyatakan: \nPasal 272 ayat (2) UU 1/2023: \n“Setiap orang yang menggunakan ijazah, sertifikat kompetensi, g elar \nakademik, profesi, atau vokasi palsu, dipidana dengan pidana pe njara \npaling lama 6 (enam) tahun atau pidana denda paling banyak kategori V”; \nPasal 622 ayat (8) UU 1/2023: \n“Dalam hal ketentuan pasal mengenai Tindak Pidana penggunaan ij azah \natau gelar akademik palsu sebagaimana dimaksud pada ayat (1) hu ruf p \nmengacu Pasal 69 Undang-Undang yang bersangkutan, pengacuannya \ndiganti dengan Pasal 272 ayat (2) Undang-Undang ini.” \n\n55",
+      "start_line": 2034,
+      "end_line": 2047
+    },
+    {
+      "heading": "2. Bahwa Pemohon menerangkan memiliki hak konstitusional sebaga imana diatur",
+      "slug": "2-bahwa-pemohon-menerangkan-memiliki-hak-konstitusional-sebaga-imana-diatur",
+      "text": "dalam Pasal 1 ayat (3) dan Pasal 28D ayat (1) UUD NRI Tahun 1945;",
+      "start_line": 2049,
+      "end_line": 2049
+    },
+    {
+      "heading": "3. Bahwa Pemohon merupakan perseorangan Warga Negara Indonesia, yang saat",
+      "slug": "3-bahwa-pemohon-merupakan-perseorangan-warga-negara-indonesia-yang-saat",
+      "text": "ini menjabat sebagai Wakil Gubernur Provinsi Kepulauan Bangka B elitung. \nDalam hal ini, Pemohon merasa dirugikan hak konstitusionalnya s ebagaimana \ndijamin dalam Pasal 28D ayat (1) UUD NRI Tahun 1945 sebagai aki bat norma \nPasal 272 ayat (2) UU 1/2023 yang tidak secara eksplisit member ikan batasan \nnormatif terkait keadaan palsu dalam norma Pasal a quo harus diketahui oleh \norang yang menggunakan objek palsu in casu ijazah, sertifikat kompetensi, gelar \nakademik, profesi, atau vokasi palsu. Ketiadaan batasan normati f tersebut \nmenimbulkan persoalan mengenai apakah dokumen yang dimiliki dan digunakan \nPemohon merupakan dokumen yang sejak awal diketahui palsu oleh Pemohon \natau merupakan dokumen yang berdasarkan pengetahuan Pemohon diy akini \nsebagai dokumen yang sah. Terlebih, Pemohon memiliki dan selama  i n i  \nmendasarkan dirinya pada ijazah asli, transkrip nilai, kartu re ncana studi, kartu \nhasil studi, keputusan rektor mengenai kelulusan, serta dokumen  lain yang \nmenunjukkan proses akademik dan kelulusan Pemohon pada Universi tas \nAzzahra;",
+      "start_line": 2051,
+      "end_line": 2065
+    },
+    {
+      "heading": "4. Bahwa Pemohon beranggapan ketiadaan batasan normatif mengena i relevansi",
+      "slug": "4-bahwa-pemohon-beranggapan-ketiadaan-batasan-normatif-mengena-i-relevansi",
+      "text": "pengetahuan pelaku dalam norma Pasal 272 ayat (2) UU 1/2023 mem buat \nPemohon tidak memperoleh kepastian terkait apakah ketidaktahuan nya \nmengenai kepalsuan objek merupakan keadaan secara hukum harus \ndiperhitungkan dalam menentukan pertanggungjawaban pidana atau justru tidak \nmempunyai relevansi terhadap terpenuhinya tindak pidana. Hal in i membuat \nPemohon dalam keadaan legal uncertainty , karena tidak dapat memperoleh \nkepastian dari undang-undang mengenai apakah keadaan batinnya ( mens rea) \npada saat memperoleh dan menggunakan dokumen tersebut merupakan bagian \nyang menentukan ada atau tidaknya pertanggungjawaban pidana. De ngan \ndemikian, ketiadaan batasan norma dimaksud telah menghilangkan kepastian \nhukum mengenai batas keadaan subjektif yang harus ada pada diri seorang agar \ndapat dimintai pertanggungjawaban pidana;",
+      "start_line": 2067,
+      "end_line": 2078
+    },
+    {
+      "heading": "5. Bahwa Pemohon juga merasa dirugikan hak konstitusionalnya se bagai akibat",
+      "slug": "5-bahwa-pemohon-juga-merasa-dirugikan-hak-konstitusionalnya-se-bagai-akibat",
+      "text": "diberlakukannya norma Pasal 622 ayat (8) UU 1/2023 karena hanya memberikan \npengaturan mengenai penggantian pengacuan terhadap Pasal 69 Und ang-\n\n56 \n \nUndang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional ( UU \n20/2003) kepada Pasal 272 ayat (2) UU 1/2023, tetapi tidak memb erikan batas \nnormatif yang memadai mengenai bagaimana Pasal 272 ayat (2) UU 1/2023 \nharus ditempatkan terhadap ketentuan pidana sektoral yang tetap  berlaku dan \ndapat menjangkau perbuatan yang mempunyai titik irisan yang sam a, yakni \npenggunaahn ijazah dan/atau gelar yang menciptakan ketidakpastian mengenai \nkonstruksi tindak pidana dan batas pertanggungjawaban pidana ya ng dapat \nditerapkan terhadap perbuatan tersebut. Lebih lanjut, ketiadaan  batas normatif \nyang cukup mengenai hubungan ketentuan tersebut dengan ketentua n pidana \nsektoral yang tetap berlaku dan digunakan secara alternatif dalam surat dakwaan \nterhadap Pemohon, menimbulkan ketidakpastian mengenai ketentuan  pidana \nyang sesungguhnya berlaku dan batas pertanggungjawaban pidana yang dapat \nditerapkan terhadap Pemohon;",
+      "start_line": 2080,
+      "end_line": 2097
+    },
+    {
+      "heading": "6. Bahwa apabila norma Pasal 272 ayat (2) dan norma Pasal 622 a yat (8) UU",
+      "slug": "6-bahwa-apabila-norma-pasal-272-ayat-2-dan-norma-pasal-622-a-yat-8-uu",
+      "text": "1/2023 dikabulkan oleh Mahkamah, maka kerugian hak konstitusion al yang \ndijelaskan oleh Pemohon tidak akan atau tidak lagi terjadi. \nBerdasarkan uraian yang dikemukakan dalam menjelaskan kedudukan  \nhukum tersebut di atas, menurut Mahkamah, Pemohon  merupakan pe rseorangan \nwarga negara Indonesia yang saat ini menjabat sebagai Wakil Gub ernur Provinsi \nKepulauan Bangka Belitung dan sedang menjalani proses hukum ata s dakwaan \npenggunaan objek palsu, in casu  ijazah dan/atau gelar, yang telah dapat \nmenjelaskan perihal hak konstitusionalnya yang menurut anggapan nya dirugikan \ndengan berlakunya norma Pasal 272 ayat (2) dan Pasal 622 ayat ( 8) UU 1/2023 \nyang dimohonkan pengujian. Anggapan kerugian hak konstitusional  y a n g  \ndimaksudkan tersebut bersifat spesifik dan aktual karena berlakunya Pasal 272 ayat \n(2) dan Pasal 622 ayat (8) UU 1/2023, di mana Pemohon telah sampai pada tahapan  \npertanggungjawaban pidana dan telah menghadapi surat dakwaan ya ng secara \nkonkret berkaitan dengan konstruksi pidana mengenai penggunaan ijazah dan/atau \ngelar. Uraian anggapan kerugian hak konstitusional yang dijelas kan tersebut \nmemiliki hubungan sebab-akibat ( causal verband ) dengan berlakunya norma \nundang-undang yang dimohonkan pengujian. Oleh karena itu, apabila permohonan \na quo  dikabulkan, anggapan kerugian hak konstitusional seperti yang dijelaskan \nPemohon tidak lagi terjadi. Dengan demikian, terlepas dari terb ukti atau tidak \nterbuktinya perihal inkonstitusionalitas norma yang dimohonkan oleh Pemohon, \n\n57 \n \nmenurut Mahkamah Pemohon memiliki kedudukan hukum untuk bertindak sebagai \npemohon dalam mengajukan permohonan a quo. \n[3.6]  Menimbang bahwa oleh karena Mahkamah berwenang mengadili \npermohonan a quo  dan Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai pemohon, selanjutnya Mahkamah mempertimbangkan pokok permohonan. \nDalam Provisi \n[3.7]  Menimbang bahwa Pemohon mengajukan permohonan provisi yang \nmemohon agar Mahkamah  mempercepat dan memprioritaskan pemeriksaan \nperkara a quo dengan alasan antara lain Pemohon saat ini secara konkret sedang \nberhadapan dengan proses penegakan hukum pidana berdasarkan kon struksi \nnorma yang menjadi objek pengujian dalam permohonan a quo. Dengan demikian, \npersoalan konstitusional yang diajukan Pemohon bukan merupakan persoalan \nkonstitusionalitas yang bersifat hipotesis atau abstrak, melain kan telah mempunyai \nkonsekuensi hukum yang nyata terhadap Pemohon. \n Berkenaan dengan permohonan Provisi Pemohon a quo, oleh karena \nberkaitan dengan permohonan Pemohon a quo diputus tanpa persidangan dengan \nagenda pemeriksaan persidangan untuk mendengar pihak-pihak seba gaimana \ndimaksudkan dalam Pasal 54 UU MK, sehingga  berkaitan dengan permohonan \nPemohon a quo segera mendapatkan kepastian hukum. Oleh karena itu, menurut \nMahkamah tidak terdapat relevansi untuk mempertimbangkan permoh onan provisi \nPemohon. Terlebih, jika alasan permohonan provisi Pemohon benar , yaitu karena \nPemohon sedang menjalani proses hukum terhadap perbuatan yang d idakwakan  \nhal tersebut juga tidak relevan menjadi alasan untuk mengajukan   putusan provisi, \nmengingat permohonan Pemohon baru diajukan dan diterima Mahkama h pada \nbulan Agustus 2026. Dengan demikian, permohonan provisi Pemohon  harus \ndinyatakan tidak beralasan menurut hukum dan Mahkamah selanjutn ya \nmempertimbangkan pokok permohonan. \nDalam Pokok Permohonan \n[3.8] Menimbang bahwa Pemohon mendalilkan norma Pasal 272 ayat (2) d an \nPasal 622 ayat (8) UU 1/2023 bertentangan dengan Pasal 1 ayat (3) dan Pasal 28D \nayat (1) UUD NRI Tahun 1945 dengan dalil-dalil (selengkapnya dimuat dalam bagian \n\n58 \n \nDuduk Perkara) yang apabila dipahami dan dirumuskan oleh Mahkam ah pada \npokoknya sebagai berikut.",
+      "start_line": 2099,
+      "end_line": 2157
+    },
+    {
+      "heading": "1. Bahwa menurut Pemohon, norma Pasal 272 ayat (2) UU 1/2023 ti dak",
+      "slug": "1-bahwa-menurut-pemohon-norma-pasal-272-ayat-2-uu-1-2023-ti-dak",
+      "text": "memberikan kepastian mengenai cakupan mens rea  yang harus dibuktikan, \nkhususnya hubungan pengetahuan pelaku dengan keadaan objektif “ palsu”, \nsehingga frasa “diketahuinya” diperlukan sebagai penegasan hubu ngan \nkeadaan objektif dengan keadaan batin pelaku. Padahal, dalam pr insip negara \nhukum menghendaki adanya pengaturan pidana berdasarkan prinsip lex certa \ndan lex stricta , serta pertanggungjawaban pidana hanya dapat dibebankan \nkepada orang yang memiliki kesalahan ( schuld) guna menjamin kepastian \nh u k u m  y a n g  a d i l .  O l e h  k a r e n a  i t u ,  n o r m a  P a s a l  2 7 2  a y a t  ( 2 )  U U  1/2023 \nbertentangan dengan Pasal 1 ayat (3) dan Pasal 28D ayat (1) UUD  NRI Tahun \n1945;",
+      "start_line": 2159,
+      "end_line": 2168
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, norma Pasal 622 ayat (8) UU 1/2023 me nimbulkan",
+      "slug": "2-bahwa-menurut-pemohon-norma-pasal-622-ayat-8-uu-1-2023-me-nimbulkan",
+      "text": "disharmonisasi pengaturan pidana atas penggunaan ijazah atau gelar akademik \nkarena tidak mencakup pengalihan acuan Pasal 28 ayat (7) jo. Pasal 93 Undang-\nUndang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi, kepada Pa sal 272 \nayat (2) KUHP Nasional, padahal tujuan rekodifikasi dan unifikasi hukum pidana \ndalam KUHP Nasional menghendaki adanya keselarasan dan kepastian hukum \nyang adil dalam pengaturan pidana. Oleh karena itu, Pasal 622 a yat (8) UU \n1/2023 bertentangan dengan prinsip negara hukum sebagaimana dim aksud \ndalam Pasal 1 ayat (3) dan jaminan kepastian hukum yang adil dalam Pasal 28D \nayat (1) UUD NRI Tahun 1945; \nBahwa berdasarkan dalil-dalil ters ebut di atas, Pemohon dalam p etitum \nmemohon kepada Mahkamah untuk menyatakan sebagai berikut.",
+      "start_line": 2170,
+      "end_line": 2180
+    },
+    {
+      "heading": "1. Pasal 272 ayat (2) UU 1/2023 bertentangan dengan UUD NRI Tah un 1945 dan",
+      "slug": "1-pasal-272-ayat-2-uu-1-2023-bertentangan-dengan-uud-nri-tah-un-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimakna i “Setiap \nOrang yang menggunakan ijazah, sertifikat kompetensi, gelar akademik, profesi, \natau vokasi yang diketahuinya palsu atau diketahuinya diperoleh  secara tanpa \nhak, dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana \ndenda paling banyak kategori V”;",
+      "start_line": 2182,
+      "end_line": 2186
+    },
+    {
+      "heading": "2. Pasal 622 ayat (8) UU 1/2023 bertentangan dengan UUD NRI Tah un 1945 dan",
+      "slug": "2-pasal-622-ayat-8-uu-1-2023-bertentangan-dengan-uud-nri-tah-un-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimakna i “Dalam \n\n59 \n \nhal ketentuan pasal mengenai Tindak Pidana penggunaan ijazah at au gelar \nakademik palsu sebagaimana dimaksud pada ayat (1) huruf p menga cu Pasal \n69 Undang-Undang yang bersangkutan, dan ketentuan Tindak Pidana  \nPenggunaan gelar akademik, gelar vokasi, dan/atau gelar profesi  tanpa hak \nsebagaimana dimaksud Pasal 28 ayat (7) jo. Pasal 93 Undang-Undang Nomor \n12 Tahun 2012 tentang Pendidikan Tinggi, pengacuannya diganti dengan Pasal \n272 ayat (2) Undang-Undang ini”. \n[3.9]  Menimbang bahwa untuk mendukung permohonannya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  Bukti P-12 yang \ntelah disahkan dalam persidangan Mahkamah pada tanggal 9 Septem ber 2026 \n(selengkapnya dimuat dalam bagian Duduk Perkara). \n[3.10]  Menimbang bahwa oleh karena permohonan a quo telah jelas, Mahkamah \nberpendapat tidak terdapat urgensi maupun kebutuhan untuk mende ngar \nketerangan pihak-pihak sebagaimana disebut dalam Pasal 54 UU MK. \n[3.11]  Menimbang bahwa berkenaan dengan dalil-dalil permohonan Pemoh on, \nsebelum mempertimbangkan lebih lanjut, penting bagi Mahkamah un tuk \nmempertimbangkan terlebih dahulu sepanjang berkenaan dengan per mohonan \nPemohon mengenai dalil pengujian norma Pasal 622 ayat (8) UU 1/ 2023. Setelah \ndicermati secara saksama perumusan norma Pasal 622 ayat (8) UU 1/2023, telah \nternyata secara normatif, objek yang dimohonkan dalam norma Pas al a quo, telah \nmengalami perubahan objek berdasarkan Undang-Undang Nomor 1 Tah un 2026 \ntentang Penyesuaian Pidana (UU 1/2026). Oleh karena itu, dengan  adanya \nperubahan tersebut, rumusan norma Pasal 622 ayat (8) UU 1/2023 yang menjadi \nobjek permohonan Pemohon, tidak lagi dapat dirumuskan  sebagai rumusan norma \nyang berdiri sendiri sebagai objek permohonan sebagaimana sebel um dilakukan \nperubahan. Oleh karena itu, jika hal tersebut dikaitkan dengan permohonan \nPemohon mulai dari rumusan perihal sampai dengan rumusan petitu m sepanjang \npenulisan norma Pasal 622 ayat (8) UU 1/2023 dengan tetap menda sarkan \npenulisan objeknya adalah UU 1/2023, tanpa menyebutkan dan meru muskan \ndengan mengaitkan Pasal 622 ayat (8) UU 1/2026 dikarenakan obje k norma Pasal \na quo  telah mengalami perubahan berdasarkan UU 1/2026 dan seolah-ola h  \nPasal 622 ayat (8) UU 1/2023 yang menjadi objek pengujian masih  merupakan UU \n\n60 \n \n1/2023 sebagaimana dirumuskan dalam permohonan Pemohon a quo , menurut \nMahkamah, hal tersebut merupakan perumusan objek permohonan yan g tidak \ntepat. Oleh karena itu, berkaitan dengan dalil Pemohon sepanjan g berkenaan \ndengan norma Pasal 622 ayat (8) UU 1/2023 tidak terdapat keragu an bagi \nMahkamah untuk menyatakan permohonan Pemohon tidak jelas atau k abur \n(obscuur), sehingga Mahkamah tidak mempertimbangkan lebih lanjut permoh onan \nPemohon sepanjang berkaitan dengan pengujian norma Pasal 622 ay at (8) UU \n1/2023. \n[3.12]  Menimbang bahwa setelah Mahkamah memeriksa dan membaca secara  \nsaksama permohonan Pemohon, bukti-bukti surat/tulisan yang diaj ukan oleh \nPemohon, persoalan konstitusionalitas yang harus dipertimbangka n Mahkamah \nadalah apakah benar norma Pasal 272 ayat (2) UU 1/2023 telah me langgar prinsip \nnegara hukum dan jaminan kepastian hukum yang adil sebagaimana dijamin dalam \nPasal 1 ayat (3) dan Pasal 28D ayat (1) UUD NRI Tahun 1945, dan  sebagaimana \npula yang didalilkan oleh Pemohon. \n[3.13]  Menimbang bahwa berkenaan dengan persoalan konstitusionalitas y ang \ndidalilkan Pemohon yang pada pokoknya mengenai tidak adanya kepastian hukum \nmengenai cakupan mens rea  yang harus dibuktikan, khususnya mengenai \nhubungan pengetahuan pelaku dengan keadaan objektif “palsu” dal am norma  \nPasal 272 ayat (2) UU 1/2023. Oleh karena itu, Pemohon menghend aki adanya \npemaknaan terhadap norma a quo, melalui putusan Mahkamah. Dalam konteks ini, \nPemohon memohon agar norma Pasal 272 ayat (2) UU 1/2023 dinyata kan \nbertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai kekuatan hukum \nmengikat secara bersyarat sepanjang tidak dimaknai, sebagaimana  p e t i t u m  \nPemohon, Mahkamah mempertimbangkan, sebagai berikut. \n  Bahwa berkenaan dengan dalil Pemohon tersebut, penting untuk \ndipahami terlebih dahulu perkembangan pengaturan mengenai keten tuan pidana \nyang berkaitan dengan penggunaan ijazah palsu dalam peraturan p erundang-\nundangan. Dalam kaitan ini, ketentuan pidana mengenai penggunaa n ijazah palsu \ntelah dikenal dalam Undang-Undang Nomor 20 Tahun 2003 tentang S istem \nPendidikan Nasional (UU 20/2003) pada Pasal 69 ayat (1) UU 20/2 003 yang \nmenyatakan “Setiap orang yang menggunakan ijazah, sertifikat ko mpetensi, gelar \n\n61 \n \nakademik, profesi, dan/atau vokasi yang terbukti palsu dipidana  dengan pidana \npenjara paling lama lima tahun dan/atau pidana denda paling ban yak \nRp500.000.000,00 (lima ratus juta rupiah)”. Selanjutnya, dalam Pasal 69 ayat (2) UU \n20/2003 menyatakan “Setiap orang yang dengan sengaja tanpa hak menggunakan \nijazah dan/atau sertifikat kompetensi sebagaimana dimaksud dala m Pasal 61 ayat \n(2) dan ayat (3) yang terbukti palsu dipidana dengan pidana pen jara paling lama \nlima tahun dan/atau pidana denda paling banyak Rp500.000.000,00 (lima ratus juta \nrupiah)”. Lebih lanjut, perkembangan pengaturan berkaitan denga n  hukum pidana",
+      "start_line": 2188,
+      "end_line": 2269
+    },
+    {
+      "heading": "di bidang pendidikan, khususnya keadaan objektif mengenai kepal suan dokumen",
+      "slug": "di-bidang-pendidikan-khususnya-keadaan-objektif-mengenai-kepal-suan-dokumen",
+      "text": "pendidikan diatur dalam UU 1/2023, dirumuskan dalam Pasal 272 a yat (2), yang \nmengatur mengenai setiap orang yang menggunakan ijazah, sertifi kat kompetensi, \ngelar akademik, profesi, atau vokasi palsu, dipidana dengan pid ana penjara paling \nlama 6 (enam) tahun atau pidana denda paling banyak kategori V.  Oleh karena itu, \ndengan mencermati perkembangan ketentuan pidana yang berkaitan dengan \npenggunaan “ijazah palsu” dari UU 20/2003 sampai dengan UU 1/20 23, terdapat \nperubahan dalam perumusan norma, yaitu tidak lagi dicantumkanny a secara \neksplisit frasa “dengan sengaja” sebagaimana dirumuskan dalam Pasal 69 ayat (2) \nUU 20/2003. Di samping itu, terdapat perubahan mengenai ancaman  pidana, yaitu \ndari pidana penjara paling lama lima tahun dan/atau pidana dend a paling banyak \nRp500.000.000,00 (lima ratus juta rupiah) dalam UU 20/2003 menj adi pidana \npenjara paling lama 6 (enam) tahun atau pidana denda paling ban yak kategori V \ndalam UU 1/2023. Dengan demikian, terdapat perkembangan berupa perubahan  \ndalam perumusan baik dalam perumusan norma maupun ketentuan pid ananya. \nWalakin, perubahan perumusan norma tersebut tidak dengan sendir inya \nmenunjukkan bahwa pertanggungjawaban pidana berdasarkan Pasal 2 72 ayat (2) \nUU 1/2023 dapat dibebankan semata-mata berdasarkan keadaan obje ktif bahwa \nijazah, sertifikat kompetensi, gelar akademik, profesi, atau vo kasi yang digunakan \nterbukti palsu tanpa adanya unsur kesengajaan dari pelaku tindak pidana dimaksud \natau setidak-tidaknya pelaku menyadari akan akibat perbuatan yang ditimbulkan. \n  Lebih lanjut, jika dijabarkan secara doktrinal, kesengajaan p ada pokoknya \ndapat dipahami dalam beberapa bentuk, yaitu: a) kesengajaan sebagai maksud, b) \nkesengajaan sebagai kepastian, dan c) kesengajaan sebagai kemungkinan. Dalam \nkaitan ini, kesengajaan sebagai maksud, apabila pelaku menghend aki terjadinya \nperbuatan beserta akibat yang menjadi tujuan dari perbuatannya.  Sedangkan \n\n62 \n \nkesengajaan sebagai kepastian, apabila pelaku tidak menjadikan akibat tertentu \nsebagai tujuan utama, tetapi mengetahui bahwa akibat tersebut m erupakan suatu \nkepastian atau konsekuensi yang tidak terhindarkan dari perbuatannya. Sementara \nitu, kesengajaan sebagai kemungkinan, apabila pelaku mengetahui  adanya \nkemungkinan terjadinya keadaan atau akibat tertentu dari perbua tannya dan tetap \nmelakukan perbuatan tersebut. Oleh karena itu, ketiga bentuk ke sengajaan \ndimaksud pada dasarnya menunjukkan adanya hubungan antara perbu atan yang \ndilakukan ( actus reus ) dengan keadaan batin pelaku berupa kehendak dan \nmengetahui perbuatan yang dilakukan beserta akibatnya ( mens rea ). Dengan \ndemikian, dalam memahami kata “menggunakan” dalam Pasal 272 aya t (2) UU \n1/2023 harus ditempatkan sebagai bagian dari keadaan batin pela ku yang \nmempunyai hubungan dengan kesadaran atau keinsyafan untuk menggunakan dan \nakibat yang ditimbulkan, sebagaimana yang dirumuskan dalam norm a dimaksud, \nyaitu bahwa ijazah, sertifikat kompetensi, gelar akademik, prof esi, atau vokasi \ntersebut adalah palsu. Dalam kaitan ini, tanpa bermaksud menila i kasus konkret \nyang dialami oleh Pemohon, keadaan batin pada diri pelaku pada saat perbuatan \ndilakukan menyadari memiliki akibat yang ditimbulkan. Artinya, dalam konteks ini, \nbahwa adanya fakta suatu ijazah, sertifikat kompetensi, gelar a kademik, profesi, \natau vokasi pada akhirnya terbukti palsu seharusnya telah disad ari pelaku sejak \nadanya niat (intensi) menggunakan yang diketahui sejak awal. Oleh karena itu, kata \n“menggunakan” dalam norma Pasal 272 ayat (2) UU 1/2023 telah me ncakup niat \natau sikap batin pelaku yang sesungguhnya telah menyadari atau menghendaki \nbahwa perbuatan yang dilakukan tersebut memiliki akibat yang ditimbulkan.  \n  Bahwa dalam perkembangan hukum pidana modern, \npertanggungjawaban pidana tidak hanya didasarkan pada terpenuhi nya unsur-\nunsur tindak pidana, tetapi juga mensyaratkan adanya kesalahan pada diri orang \nyang melakukan perbuatan tersebut. Prinsip demikian sejalan den gan asas geen \nstraf zonder schuld yang mengandung pengertian “tiada pidana tanpa kesalahan”. \nDalam konteks hukum pidana nasional, prinsip tersebut tercermin  dalam Pasal 36 \nUU 1/2023 yang pada pokoknya menempatkan kesengajaan dan kealpaan sebagai \ndasar pertanggungjawaban pidana sesuai dengan ketentuan yang ditentukan dalam \nperaturan perundang-undangan. Artinya, penerapan ketentuan pida na tidak cukup \nhanya dengan membuktikan terpenuhinya keadaan objektif dari suatu tindak pidana, \ntetapi harus pula diperhatikan secara tegas terkait bentuk kesa lahan yang \n\n63 \n \ndipersyaratkan oleh norma yang bersangkutan. Hal tersebut menjadi penting dalam \nmemahami Pasal 272 ayat (2) UU 1/2023 karena tidak dicantumkann ya secara \neksplisit frasa “diketahuinya palsu atau diketahuinya diperoleh  secara tanpa hak,” \nsebagaimana yang dimohonkan Pemohon dalam rumusan norma a quo tidak serta-\nmerta mengesampingkan adanya kesalahan sebagai dasar pertanggun gjawaban \npidana. Berkenaan dengan hal tersebut, ketiadaan frasa “diketah uinya palsu atau \ndiketahuinya diperoleh secara tanpa hak,” dalam norma Pasal 272  a y a t  ( 2 )  U U  \n1/2023 tidak dapat dibaca secara terpisah dari ketentuan umum m engenai \npertanggungjawaban pidana dalam Buku Kesatu UU 1/2023 : BAB II : Bagian Kedua \n– Pertanggungjawaban Pidana. Ketentuan tersebut memberikan dasa r untuk \nmemahami bahwa unsur kesalahan merupakan bagian yang tidak terp isahkan dari \npertanggungjawaban pidana. Dalam kaitan ini, Penjelasan Pasal 3 6 ayat (2) UU \n1/2023 menyatakan “ketentuan pada ayat ini dimaksudkan bahwa se tiap tindak \npidana dalam peraturan perundang-undangan harus selalu dianggap  dilakukan \ndengan sengaja dan unsur kesengajaan ini harus dibuktikan pada setiap tahap \npemeriksaan perkara. Bentuk lain dari sengaja biasanya dirumusk an dalam \nperaturan perundang-undangan menggunakan istilah “dengan maksud ”, \n“mengetahui”, “yang diketahuinya”, “padahal diketahuinya”, atau  “sedangkan ia \nmengetahui”. Oleh karena itu,  ketentuan tersebut menunjukkan bahwa kesengajaan \nmerupakan unsur yang harus dibuktikan dalam setiap tindak pidan a, kecuali \nditentukan lain dalam peraturan perundang-undangan, dan bentuk perumusannya \ndapat menggunakan istilah yang berbeda sesuai dengan rumusan ti ndak pidana \nyang bersangkutan. Artinya, tidak dicantumkannya secara eksplis it frasa \n“diketahuinya palsu atau diketahuinya diperoleh secara tanpa hak,” dalam Pasal 272 \nayat (2) UU 1/2023 sebagaimana petitum permohonan a quo, menurut Mahkamah, \ntidak serta-merta menghilangkan unsur kesengajaan sebagai bagian dari kesalahan \nyang harus dibuktikan dalam pertanggungjawaban pidana. Dalam ko nteks ini, \nkeadaan objektif berupa penggunaan ijazah, sertifikat kompetensi, gelar akademik, \nprofesi, atau vokasi palsu harus dibaca bersama-sama dengan ket entuan umum \nmengenai kesalahan dan pertanggungjawaban pidana dalam Pasal 36  UU 1/2023 \nberserta dengan Penjelasannya. Sehingga, pembuktian tindak pidana berdasarkan \nPasal 272 ayat (2) UU 1/2023 tidak hanya berkaitan dengan terbu ktinya keadaan \nobjektif bahwa objek yang digunakan adalah palsu, tetapi juga harus memperhatikan \nadanya niat atau kesadaran untuk melakukan perbuatan dan akibat  y a n g  \n\n64 \n \nditimbulkan serta adanya unsur kesalahan pelaku sesuai dengan bentuk kesalahan \nyang dipersyaratkan berdasarkan ketentuan peraturan perundang-u ndangan. \nSebab, dalam sistem pertanggungjawaban pidana sebagaimana diatu r dalam UU \n1/2023, ketentuan mengenai kesalahan, termasuk kesengajaan sebagai salah satu \nbentuk kesalahan, telah diatur dalam Pasal 36 ayat (2) beserta Penjelasannya, \nsehingga penerapan Pasal 272 ayat (2) UU 1/2023 tetap harus mem perhatikan \nadanya kesalahan pada diri orang yang melakukan perbuatan terse but. Artinya, \nPasal 272 ayat (2) UU 1/2023 tidak dapat dipahami hanya berdasa rkan keadaan \nobjektif bahwa ijazah, sertifikat kompetensi, gelar akademik, p rofesi, atau vokasi \npalsu, tetapi harus pula dipahami dalam kesatuan dengan ketentu an umum \nmengenai kesalahan dan pertanggungjawaban pidana dalam UU 1/2023.  \n  Berdasarkan uraian pertimbangan hukum tersebut di atas, dalil  Pemohon \nberkenaan dengan tidak adanya cakupan unsur “ atau frasa “diketahuinya palsu atau \ndiketahuinya diperoleh secara tanpa hak” dalam norma Pasal 272 ayat (2) UU \n1/2023 mengakibatkan adanya ketidakpastian hukum adalah dalil y ang tidak \nberdasar dan oleh karenanya harus dinyatakan tidak beralasan menurut hukum. \n[3.14]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum  \ntersebut di atas, telah ternyata permohonan pengujian norma Pasal 622 ayat (8) UU \n1/2023 adalah tidak jelas atau kabur ( obscuur). Sementara itu, norma Pasal 272 \nayat (2) UU 1/2023 telah ternyata tidak melanggar prinsip negar a hukum dan \njaminan kepastian hukum yang adil sebagaimana dijamin dalam Pas al 1 ayat (3) \ndan Pasal 28D ayat (1) UUD NRI Tahun 1945, bukan sebagaimana yang didalilkan \noleh Pemohon. Dengan demikian, dalil Pemohon sepanjang berkenaa n dengan \npengujian konstitusionalitas norma Pasal 272 ayat (2) UU 1/2023  a d a l a h  t i d a k  \nberalasan menurut hukum. \n[3.15] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 2271,
+      "end_line": 2399
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 2401,
+      "end_line": 2401
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n\n65 \n \n[4.2] Pemohon memiliki kedudukan hukum  untuk mengajukan permohonan    \na quo; \n[4.3] Permohonan Provisi Pemohon adalah tidak beralasan menurut huku m; \n[4.4] Permohonan Pemohon berkenaan dengan pengujian norma Pasal 622 \nayat (8) UU 1/2023 adalah tidak jelas atau kabur (obscuur); \n[4.5] Permohonan Pemohon berkenaan dengan pengujian norma Pasal 272 \nayat (2) UU 1/2023 adalah tidak beralasan menurut hukum. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 2403,
+      "end_line": 2422
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nDalam Provisi: \n Menolak permohonan provisi Pemohon. \nDalam Pokok Permohonan:",
+      "start_line": 2424,
+      "end_line": 2427
+    },
+    {
+      "heading": "1. Menyatakan permohonan Pemohon sepanjang pengujian Pasal 622 ayat (8)",
+      "slug": "1-menyatakan-permohonan-pemohon-sepanjang-pengujian-pasal-622-ayat-8",
+      "text": "Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hu kum \nPidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan \nLembaran Negara Republik Indonesia Nomor 6842) tidak dapat diterima;",
+      "start_line": 2429,
+      "end_line": 2431
+    },
+    {
+      "heading": "2. Menolak permohonan Pemohon untuk selain dan selebihnya.",
+      "slug": "2-menolak-permohonan-pemohon-untuk-selain-dan-selebihnya",
+      "text": "Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi, yaitu, Suhartoyo selaku Ketua merangkap Anggo ta, Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota \npada hari Kamis, tanggal sepuluh, bulan September, tahun dua ribu dua puluh \n\n66 \n \nenam, dan diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk \numum pada hari Selasa, tanggal dua puluh sembilan,  bulan September, tahun \ndua ribu dua puluh enam , selesai diucapkan pukul  15.21 WIB , oleh sembilan \nHakim Konstitusi, yaitu, Suhartoyo selaku Ketua merangkap Anggo ta, Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masi ng sebagai \nAnggota, dengan dibantu oleh I Made Gede Widya Tanaya Kabinawa sebagai \nPanitera Pengganti, serta dihadiri oleh Pemohon dan/atau kuasan ya, Dewan \nPerwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \nttd. \nEnny Nurbaningsih  \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nI Made Gede Widya Tanaya Kabinawa",
+      "start_line": 2433,
+      "end_line": 2473
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Hellyana",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Muhammad Zainul Arifin, S.H., M.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "PH.D",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Dedi",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana"
+    ],
+    "constitutional_articles": [
+      "Pasal 10",
+      "Pasal 2 ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 1 Ayat (3)",
+      "Pasal 1 ayat (3)",
+      "PASAL 1 AYAT (3)",
+      "Pasal 272",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24",
+      "Pasal 24C ayat (1)",
+      "Pasal 272 ayat (2)",
+      "Pasal 622 ayat (8)"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-8",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "BUKTI P-1",
+      "BUKTI P-7",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "REFERENSI:308/PUU-XXIV/2026",
+      "REFERENSI:001/IN/SKK.PUU/VII/2026",
+      "REFERENSI:308/PUU/PAN.MK/AP3/08/2026",
+      "REFERENSI:25/PUU-XIV/2016",
+      "REFERENSI:21/PUU-XII/2014",
+      "REFERENSI:1/07/1/2026",
+      "REFERENSI:2046/L.9.10/Eoh.2/08/2026",
+      "REFERENSI:217/Pid.B/2026",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:1/2023dengantetapmendasarkanpenulisanobjeknyaadalahUU1/2023",
+      "REFERENSI:1/2026dikarenakanobjeknormaPasalaquotelahmengalamiperubahanberdasarkanUU1/2026",
+      "REFERENSI:1/2023yangmenjadiobjekpengujianmasihmerupakanUU601/2023",
+      "REFERENSI:1/2023tidakdapatdibacasecaraterpisahdariketentuanumummengenaipertanggungjawabanpidanadalamBukuKesatuUU1/2023"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "menilai alat bukti dan fakta persidangan.",
+    "KUHAP dan disertai dengan pemeriksaan calon tersangkanya”.",
+    "penyidikan, penuntutan, atau pemeriksaan di pengadilan, maka",
+    "mendesak yang menyebabkan penundaan pemeriksaan berpotensi"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan provisi Pemohon.",
+      "Menyatakan permohonan Pemohon sepanjang pengujian Pasal 622 ayat (8) Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hu kum Pidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842) tidak dapat diterima;",
+      "Menolak permohonan Pemohon untuk selain dan selebihnya."
+    ],
+    "summary": "Menyatakan sebagian permohonan tidak dapat diterima; menolak permohonan untuk selain dan selebihnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "I Made Gede Widya Tanaya Kabinawa"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "308/PUU-XXIV/2026",
+      "001/IN/SKK.PUU/VII/2026",
+      "308/PUU/PAN.MK/AP3/08/2026",
+      "25/PUU-XIV/2016",
+      "21/PUU-XII/2014",
+      "1/07/1/2026",
+      "2046/L.9.10/Eoh.2/08/2026",
+      "217/Pid.B/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "1/2023dengantetapmendasarkanpenulisanobjeknyaadalahUU1/2023",
+      "1/2026dikarenakanobjeknormaPasalaquotelahmengalamiperubahanberdasarkanUU1/2026",
+      "1/2023yangmenjadiobjekpengujianmasihmerupakanUU601/2023",
+      "1/2023tidakdapatdibacasecaraterpisahdariketentuanumummengenaipertanggungjawabanpidanadalamBukuKesatuUU1/2023"
+    ],
+    "referenced_cases": [
+      "308/PUU-XXIV/2026",
+      "001/IN/SKK.PUU/VII/2026",
+      "308/PUU/PAN.MK/AP3/08/2026",
+      "25/PUU-XIV/2016",
+      "21/PUU-XII/2014",
+      "1/07/1/2026",
+      "2046/L.9.10/Eoh.2/08/2026",
+      "217/Pid.B/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "1/2023dengantetapmendasarkanpenulisanobjeknyaadalahUU1/2023",
+      "1/2026dikarenakanobjeknormaPasalaquotelahmengalamiperubahanberdasarkanUU1/2026",
+      "1/2023yangmenjadiobjekpengujianmasihmerupakanUU601/2023",
+      "1/2023tidakdapatdibacasecaraterpisahdariketentuanumummengenaipertanggungjawabanpidanadalamBukuKesatuUU1/2023"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

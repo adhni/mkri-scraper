@@ -208,17 +208,22 @@ Workflow yang disarankan:
 ## MKRI — Case Explorer
 
 Viewer kini mengutamakan topik dan isi perkara: judul deskriptif, ringkasan bahasa
-Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi pilihan berisi 38
-perkara dalam 16 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
+Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi pilihan berisi 100
+perkara dalam 17 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
 
 - Cari nomor perkara, nama pihak, undang-undang, atau kata dalam teks dokumen.
 - Gabungkan filter `topic`, `year` (tahun **putusan**, bukan tahun pendaftaran),
   dan `outcome`; urutan awal adalah putusan terbaru.
-- Filter operasional lama tetap tersedia di **Filter & catatan data**.
+- Daftar menampilkan 20 perkara per halaman; pencarian, filter, halaman, dan
+  posisi baca dipertahankan ketika kembali dari detail.
+- Filter hasil dan jenis dokumen tersedia di **Filter lainnya**. Filter
+  operasional hanya tampil bagi pemilik yang sudah masuk.
 - Halaman detail memisahkan ringkasan editorial, amar asli hasil ekstraksi,
   dan teks dokumen yang dapat dibuka. Tautan MKRI tetap tersedia.
 - API daftar mendukung filter yang sama; `stats` menghitung hasil pencarian,
   sedangkan `facets` menyediakan pilihan filter dari seluruh koleksi.
+- `outcome=mixed` menandai perkara dengan sebagian permohonan tidak dapat
+  diterima dan sisanya ditolak; rincian amar tetap ditampilkan pada detail.
 
 Tambahan perkara besar: 60/PUU-XXII/2024 (pencalonan kepala daerah),
 91/PUU-XVIII/2020 (uji formil Cipta Kerja), dan 35/PUU-X/2012 (hutan adat).
@@ -230,7 +235,7 @@ di `data/raw_pdfs`; snapshot JSON dan ringkasan ikut repo.
 
 Tiga cerita menghubungkan 13 perkara: **Siapa boleh maju pemilu?**,
 **Apa yang berubah dalam Cipta Kerja?**, dan **Hak dalam keluarga**.
-Pilih kartu cerita di beranda untuk membaca urutan putusan, dampak, dan hubungan
+Pilih kartu cerita di bawah daftar perkara untuk membaca urutan putusan, dampak, dan hubungan
 antarkasus. Setiap bab menautkan halaman perkara serta halaman PDF sumber.
 Perkara dalam cerita menampilkan tautan cerita dan perkara sebelumnya/berikutnya.
 
@@ -255,7 +260,8 @@ hakim yang belum diperiksa.
 
 ### Membaca keputusan dan posisi hakim
 
-Beranda menampilkan tiga cerita terkurasi; pencarian memprioritaskan nomor/judul/topik,
+Beranda mengutamakan pencarian dan daftar perkara; tiga cerita terkurasi tersedia
+di bawah hasil pada halaman pertama. Pencarian memprioritaskan nomor/judul/topik,
 menandai kata yang cocok, dan mempertahankan filter saat kembali dari detail.
 Halaman perkara menyediakan ringkasan keputusan, perubahan sebelum/sesudah bila
 tersedia, panel hakim, alasan, perkara dengan topik terkait, dan PDF dengan tautan
@@ -272,6 +278,24 @@ nama, dan bagian analisis yang belum tersedia tidak ditampilkan.
 PDF bawaan dilayani dari file lokal yang dikenal; bila file tidak ikut deployment,
 tautan beralih ke host dokumen resmi MK. Preview memakai penampil PDF browser;
 tersedia tautan tab baru bila host resmi membatasi penyematan.
+
+### Menambah koleksi melalui batch yang diperiksa
+
+62 tambahan (40 putusan/ketetapan terbaru dan 22 perkara lama) dicatat dalam
+[`collection_sources.json`](data/editorial/collection_sources.json). Setiap entri
+memuat PDF resmi, checksum SHA-256, dan koreksi fakta inti yang diperiksa pada
+dokumen tersebut. Judul dan deskripsi faktual tetap terpisah di `cases.json`.
+
+```bash
+python3 scripts/import_collection.py data/editorial/collection_sources.json --dry-run
+python3 scripts/import_collection.py data/editorial/collection_sources.json
+```
+
+Nomor dan jenis perkara yang sudah tersedia dilewati, termasuk bila nama PDF
+berbeda. Impor ulang batch mempertahankan URL perkara dan koreksi pemilik.
+Tautan PDF resmi dipulihkan dari manifest saat katalog dibaca, sehingga tetap
+tersedia setelah parsing ulang atau deploy tanpa PDF lokal. Untuk batch berikutnya,
+buat manifest dengan format yang sama dan tambahkan judul, deskripsi, serta topik.
 
 ### Mengubah judul, ringkasan, atau topik
 
@@ -319,7 +343,7 @@ Klik **Unduh cadangan** pada halaman Kelola untuk mendapatkan salinan database
 yang konsisten. Untuk restore, hentikan server, simpan salinan database lama,
 letakkan file cadangan sebagai `library.sqlite3` di direktori penyimpanan,
 lalu jalankan server kembali. Backup ini meliputi seluruh unggahan dan koreksi;
-38 snapshot bawaan tetap berasal dari repo.
+100 snapshot bawaan tetap berasal dari repo.
 
 ### Mengaktifkan pemilik di hosting
 

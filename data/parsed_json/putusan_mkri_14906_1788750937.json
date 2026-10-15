@@ -1,0 +1,701 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14906_1788750937.pdf",
+    "file_name": "putusan_mkri_14906_1788750937.pdf",
+    "page_count": 25,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14906_1788750937.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "290/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "01/SKK-TJR/VII/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-07",
+    "decision_date_raw": "tujuh, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 290/PUU-XXIV/2026",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1]  Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Peng ujian \nUndang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang H ukum \nAcara Pidana terhadap Undang-Undang Dasar Negara Republik Indon esia Tahun \n1945, yang diajukan oleh: \nNama : Andri Yanto, S.H. \nPekerjaan : Direktur Utama PT. Abimanyu Pustaka Utama \nAlamat : Dusun I, RT.005, Desa Saing, Kecamatan Puding Besar, \nKabupaten Bangka \nBerdasarkan surat kuasa khusus Nomor 01/SKK-TJR/VII/2026 bertan ggal 6 Juli \n2026, memberi kuasa kepada Valdo Wira Dwiputra Madianung, S.H.,  Aldi Rizki \nKhoiruddin, S.H., M.H., Michael Graceson Loyver Sitompul, S.H.,  Emka Azzam \nIttaqi, S.H., Angelina Agung Putri Zaman, S.H., Talitha Danti E lvina, S.H., Fajar \nArafat, S.H., dan Agrinea Riyan Putri, S.H., baik sendiri-sendi ri maupun bersama-\nsama bertindak untuk dan atas nama Pemberi Kuasa;  \nSelanjutnya disebut sebagai -------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon; \n Mendengar keterangan Pemohon; \n Memeriksa bukti-bukti Pemohon.",
+      "start_line": 5,
+      "end_line": 24
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa Pemohon mengajukan permohonan bertanggal 6 Ju li \n2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada tangga l 29 Juli 2026 \nberdasarkan Akta Pengajuan Permohonan Pemohon Nomor 290/PUU/PAN .MK/ \nAP3/07/2026 dan telah dicatat dalam Buku Registrasi Perkara Konstitusi Elektronik \n(e-BRPK) dengan Permohonan Nomor 290/PUU-XXIV/2026 pada tanggal  30 Juli \n\n\n \n \n \n2\n2026, yang telah diperbaiki dengan perbaikan permohonan bertanggal 24 Agustus \n2026 dan diterima Mahkamah pada tanggal 24 Agustus 2026 pukul 1 8.03 WIB, \npada pokoknya menguraikan hal-hal sebagai berikut.",
+      "start_line": 26,
+      "end_line": 39
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) UUD 1945 menyatakan bahwa kekuasaan",
+      "slug": "1-bahwa-pasal-24-ayat-2-uud-1945-menyatakan-bahwa-kekuasaan",
+      "text": "kehakiman dilakukan oleh sebuah Mahkamah Agung dan badan peradi lan \nyang berada di bawahnya serta oleh sebuah Mahkamah Konstitusi;",
+      "start_line": 42,
+      "end_line": 43
+    },
+    {
+      "heading": "2. Bahwa Pasal 24C ayat ( 1) UUD 1945 menyatakan:",
+      "slug": "2-bahwa-pasal-24c-ayat-1-uud-1945-menyatakan",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-Undang \nDasar, memutus pembubaran partai politik, dan memutus perselisi han \ntentang hasil pemilihan umum.”",
+      "start_line": 45,
+      "end_line": 50
+    },
+    {
+      "heading": "3. Bahwa ketentuan tersebut ditegaskan kembali dalam Pasal 10 a yat (1) huruf",
+      "slug": "3-bahwa-ketentuan-tersebut-ditegaskan-kembali-dalam-pasal-10-a-yat-1-huruf",
+      "text": "a Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi  \nsebagaimana telah beberapa kali diubah, terakhir dengan Undang- Undang \nNomor 7 Tahun 2020 (selanjutnya disebut “UU MK”), serta Pasal 2 9 ayat (1) \nhuruf a Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan \nKehakiman;",
+      "start_line": 52,
+      "end_line": 56
+    },
+    {
+      "heading": "4. Bahwa objek permohonan a quo adalah pengujian materiil Pasal 326 ayat (1)",
+      "slug": "4-bahwa-objek-permohonan-a-quo-adalah-pengujian-materiil-pasal-326-ayat-1",
+      "text": "UU 20/2025, yakni undang-undang yang diundangkan pada tanggal 1 7 \nDesember 2025 dan mulai berlaku pada tanggal 2 Januari 2026, te rhadap \nUUD 1945, sehingga permohonan a quo  merupakan pengujian undang-\nundang terhadap UUD 1945;",
+      "start_line": 58,
+      "end_line": 61
+    },
+    {
+      "heading": "5. Bahwa berdasarkan uraian di atas, Mahkamah Konstitusi berwen ang",
+      "slug": "5-bahwa-berdasarkan-uraian-di-atas-mahkamah-konstitusi-berwen-ang",
+      "text": "mengadili permohonan a quo  pada tingkat pertama dan terakhir yang \nputusannya bersifat final; \nKEDUDUKAN HUKUM (LEGAL STANDING) PEMOHON \nSyarat Kedudukan Hukum (Legal Standing)",
+      "start_line": 63,
+      "end_line": 66
+    },
+    {
+      "heading": "6. Bahwa Pasal 51 ayat (1) UU MK menyatakan bahwa Pemohon adala h pihak",
+      "slug": "6-bahwa-pasal-51-ayat-1-uu-mk-menyatakan-bahwa-pemohon-adala-h-pihak",
+      "text": "yang menganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh \nberlakunya undang-undang, yaitu: \na. perorangan warga negara Indonesia; \n\n \n \n \n3\nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan Republik \nIndonesia yang diatur dalam undang-undang;",
+      "start_line": 68,
+      "end_line": 78
+    },
+    {
+      "heading": "7. Bahwa sejak Putusan Mahkamah Konstitusi Nomor 006/PUU-III/20 05 dan",
+      "slug": "7-bahwa-sejak-putusan-mahkamah-konstitusi-nomor-006-puu-iii-20-05-dan",
+      "text": "Putusan Nomor 11/PUU-V/2007, kerugian hak dan/atau kewenangan \nkonstitusional sebagaimana dimaksud Pasal 51 ayat (1) UU MK har us \nmemenuhi 5 (lima) syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan \noleh UUD 1945; \nb. hak dan/atau kewenangan konstitusional tersebut dianggap dir ugikan oleh \nberlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 82,
+      "end_line": 88
+    },
+    {
+      "heading": "c. kerugian hak dan/atau kewenangan konstitusional tersebut bersifat spesifik",
+      "slug": "c-kerugian-hak-dan-atau-kewenangan-konstitusional-tersebut-bersifat-spesifik",
+      "text": "(khusus) dan aktual atau setidak-tidaknya potensial yang menuru t \npenalaran yang wajar dapat dipastikan akan terjadi;",
+      "start_line": 90,
+      "end_line": 91
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat (causal verband) antara kerugia n",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugia-n",
+      "text": "dimaksud dan berlakunya undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau  tidak lagi \nterjadi. \nKualifikasi Pemohon",
+      "start_line": 93,
+      "end_line": 97
+    },
+    {
+      "heading": "8. Bahwa Pemohon adalah perseorangan warga negara Indonesia yan g",
+      "slug": "8-bahwa-pemohon-adalah-perseorangan-warga-negara-indonesia-yan-g",
+      "text": "menjabat sebagai Direktur Utama PT Abimanyu Pustaka Utama. Dala m \nkedudukannya tersebut, Pemohon merupakan pengurus yang memiliki  \njabatan fungsional dalam struktur organisasi korporasi. Berdasa rkan Pasal \n326 ayat (2) huruf a UU 20/2025, Pemohon termasuk dalam kategor i \n“penanggung jawab Korporasi”; \nKerugian Konstitusional Pemohon",
+      "start_line": 99,
+      "end_line": 104
+    },
+    {
+      "heading": "9. Bahwa dengan berlakunya Pasal 326 ayat (1) UU 20/2025 yang m enentukan",
+      "slug": "9-bahwa-dengan-berlakunya-pasal-326-ayat-1-uu-20-2025-yang-m-enentukan",
+      "text": "bahwa pertanggungjawaban atas tindak pidana oleh korporasi “dik enakan \nterhadap Korporasi dan penanggung jawab Korporasi”, Pemohon set iap saat \nberpotensi dimintai pertanggungjawaban pidana semata-mata karen a \nkedudukannya sebagai penanggung jawab korporasi. Ancaman terseb ut \n\n \n \n \n4\nbersifat spesifik dan actual potensial yang menurut penalaran y ang wajar \ndapat dipastikan akan terjadi, mengingat norma a quo telah berl aku sejak \ntanggal 2 Januari 2026 dan diterapkan terhadap setiap perkara p idana yang \nmelibatkan korporasi.",
+      "start_line": 106,
+      "end_line": 118
+    },
+    {
+      "heading": "10. Bahwa berlakunya norma a quo berpotensi merugikan hak konstitusional",
+      "slug": "10-bahwa-berlakunya-norma-a-quo-berpotensi-merugikan-hak-konstitusional",
+      "text": "Pemohon sebagaimana dijamin dalam UUD 1945, yaitu hak atas pengakuan, \njaminan, perlindungan, dan kepastian hukum yang adil serta perl akuan yang \nsama di hadapan hukum sebagaimana diatur dalam Pasal 28D ayat ( 1); hak \natas kedudukan yang sama di dalam hukum dan pemerintahan sebagaimana \ndiatur dalam Pasal 27 ayat (1); serta hak atas perlindungan dir i pribadi, \nkehormatan, martabat, dan rasa aman sebagaimana diatur dalam Pa sal 28G \nayat (1);",
+      "start_line": 120,
+      "end_line": 126
+    },
+    {
+      "heading": "11. Bahwa Pemohon berpotensi mengalami proses hukum pidana, ter masuk",
+      "slug": "11-bahwa-pemohon-berpotensi-mengalami-proses-hukum-pidana-ter-masuk",
+      "text": "penyelidikan, penyidikan, penetapan sebagai tersangka, penuntutan, maupun \npemidanaan, tanpa terlebih dahulu dibuktikan adanya keterlibata n atau \nkesalahan pribadi yang dapat dipertanggungjawabkan kepadanya. K ondisi \ndemikian menimbulkan ancaman terhadap hak Pemohon atas perlindu ngan \ndiri pribadi, kehormatan, martabat, dan rasa aman sebagaimana dijamin dalam \nPasal 28G ayat (1) UUD 1945;",
+      "start_line": 128,
+      "end_line": 133
+    },
+    {
+      "heading": "12. Bahwa norma a quo menimbulkan beban hukum yang tidak proporsional bagi",
+      "slug": "12-bahwa-norma-a-quo-menimbulkan-beban-hukum-yang-tidak-proporsional-bagi",
+      "text": "Pemohon dalam menjalankan profesi dan jabatannya sebagai pengur us \nkorporasi, sehingga berpotensi mengganggu hak Pemohon untuk bek erja \nserta memperoleh perlakuan yang adil dan layak dalam hubungan k erja \nsebagaimana dijamin dalam Pasal 28D ayat (2) UUD 1945;",
+      "start_line": 135,
+      "end_line": 138
+    },
+    {
+      "heading": "13. Bahwa kerugian konstitusional Pemohon timbul karena norma a quo membuka",
+      "slug": "13-bahwa-kerugian-konstitusional-pemohon-timbul-karena-norma-a-quo-membuka",
+      "text": "kemungkinan dikenakannya pertanggungjawaban pidana terhadap \npenanggung jawab korporasi tanpa mensyaratkan pembuktian kesala han \nindividual, padahal dalam negara hukum yang menjunjung prinsip due process \nof law  dan asas tiada pidana tanpa kesalahan (geen straf zonder schuld) , \nseseorang hanya dapat dipidana apabila terbukti melakukan perbu atan yang \ndapat dipertanggungjawabkan kepadanya secara pribadi;",
+      "start_line": 140,
+      "end_line": 145
+    },
+    {
+      "heading": "14. Bahwa terdapat hubungan sebab-akibat (causal verband) yang jelas antara",
+      "slug": "14-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-yang-jelas-antara",
+      "text": "kerugian konstitusional Pemohon dan berlakunya norma a quo, dan apabila \npermohonan a quo dikabulkan, kerugian dimaksud tidak akan atau tidak lagi \n\n \n \n \n5\nterjadi, sehingga Pemohon memiliki kedudukan hukum (legal standing) untuk \nmengajukan permohonan a quo; \nALASAN-ALASAN PERMOHONAN (POSITA) \nPenjelasan Umum",
+      "start_line": 147,
+      "end_line": 157
+    },
+    {
+      "heading": "15. Bahwa norma yang dimohonkan pengujian adalah Pasal 326 ayat ( 1 ) U U",
+      "slug": "15-bahwa-norma-yang-dimohonkan-pengujian-adalah-pasal-326-ayat-1-u-u",
+      "text": "20/2025, yang terletak dalam Bab XVII tentang Korporasi, Bagian  K e s a t u  \n(Umum), yang menyatakan: \n“Pertanggungjawaban atas tindak pidana oleh Korporasi dikenakan  \nterhadap Korporasi dan penanggung jawab Korporasi.”",
+      "start_line": 159,
+      "end_line": 162
+    },
+    {
+      "heading": "16. Bahwa untuk memahami jangkauan norma a quo , Pasal 326 ayat (2) UU",
+      "slug": "16-bahwa-untuk-memahami-jangkauan-norma-a-quo-pasal-326-ayat-2-uu",
+      "text": "20/2025 menyatakan bahwa penanggung jawab Korporasi sebagaimana  \ndimaksud pada ayat (1) terdiri atas: (a) pengurus yang memiliki  jabatan \nfungsional dalam struktur organisasi Korporasi; (b) pemberi per intah; (c) \npemegang kendali; atau (d) pemilik manfaat, sedangkan Penjelasan Pasal 326 \nhanya menyatakan “cukup jelas”;",
+      "start_line": 164,
+      "end_line": 168
+    },
+    {
+      "heading": "17. Bahwa dasar pengujian (batu uji) permohonan a quo adalah Pasal 27 ayat (1),",
+      "slug": "17-bahwa-dasar-pengujian-batu-uji-permohonan-a-quo-adalah-pasal-27-ayat-1",
+      "text": "Pasal 28D ayat (1), dan Pasal 28G ayat (1) UUD 1945, yang masin g-masing \nmenyatakan: \n Pasal 27 ayat (1) UUD 1945: “Segala warga negara bersamaan \nkedudukannya di dalam hukum dan pemerintahan dan wajib menjunju ng \nhukum dan pemerintahan itu dengan tidak ada kecualinya.” \n Pasal 28D ayat (1) UUD 1945: “Setiap orang berhak atas pengaku an, \njaminan, perlindungan, dan kepastian hukum yang adil serta perl akuan \nyang sama di hadapan hukum.” \n Pasal 28G ayat (1) UUD 1945: “Setiap orang berhak atas perlind ungan diri \npribadi, keluarga, kehormatan, martabat, dan harta benda yang d i bawah \nkekuasaannya, serta berhak atas rasa aman dan perlindungan dari  \nancaman ketakutan untuk berbuat atau tidak berbuat sesuatu yang  \nmerupakan hak asasi.”",
+      "start_line": 170,
+      "end_line": 182
+    },
+    {
+      "heading": "18. Bahwa perbandingan rumusan subjek pertanggungjawaban pidana korporasi",
+      "slug": "18-bahwa-perbandingan-rumusan-subjek-pertanggungjawaban-pidana-korporasi",
+      "text": "antara hukum pidana materiil (Pasal 49 KUHP) dan hukum acara pi dana \n(Pasal 326 ayat (1) KUHAP) dapat digambarkan sebagai berikut: \n\n \n \n \n6\nAspek Pasal 49 KUHP \n(UU 1/2023)\nPasal 326 ayat (1) \nKUHAP (UU 20/2025)\nKonjungsi kunci “dapat” + “dan/atau” “dan” \nModel \npertanggungjawaban \nAlternatif-opsional; \nkumulatif berdasarkan \nfakta dan pembuktian \ndalam perkara \nKumulatif mutlak; wajib \ndikenakan terhadap \nKorporasi dan \npenanggung jawab \nKorporasi \nSifat hukum Hukum pidana materiil - \nmenentukan subjek dan \nsyarat pemidanaan \nHukum acara pidana - \nseharusnya hanya \nsarana penegakan \n(adjectief recht)\nAkibat Pemidanaan fleksibel \nsesuai kesalahan masing-\nmasing subjek \nKetidakpastian hukum \ndan potensi \npemidanaan tanpa \nkesalahan individual\nPertentangan Norma a quo dengan UUD 1945 \nNorma a quo Bertentangan dengan Asas Legalitas dan Prinsip Adjectief Recht",
+      "start_line": 184,
+      "end_line": 222
+    },
+    {
+      "heading": "19. Bahwa Pasal 326 ayat (1) UU 20/2025 yang menggunakan konjun gsi “dan”",
+      "slug": "19-bahwa-pasal-326-ayat-1-uu-20-2025-yang-menggunakan-konjun-gsi-dan",
+      "text": "menentukan bahwa pertanggungjawaban pidana korporasi wajib dike nakan \nsecara kumulatif terhadap korporasi dan penanggung jawab korpor asi. \nKetentuan ini secara substantif berbeda dan bertentangan dengan  Pasal 49 \nUndang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum \nPidana (selanjutnya disebut “KUHP”) yang secara tegas mengadops i model \npertanggungjawaban yang bersifat alternatif-opsional dengan men ggunakan \nfrasa “dapat” dan konjungsi “dan/atau”, sehingga memungkinkan \npertanggungjawaban dikenakan kepada korporasi, penanggung jawab  \nkorporasi, maupun keduanya secara kumulatif berdasarkan fakta d an \npembuktian dalam perkara;",
+      "start_line": 224,
+      "end_line": 233
+    },
+    {
+      "heading": "20. Bahwa perubahan makna tersebut bertentangan dengan asas leg alitas",
+      "slug": "20-bahwa-perubahan-makna-tersebut-bertentangan-dengan-asas-leg-alitas",
+      "text": "(nullum crimen, nulla poena sine lege) yang menempatkan hukum pidana \nmateriil sebagai satu-satunya sumber yang berwenang menentukan siapa \nyang dapat dimintai pertanggungjawaban pidana dan dalam kondisi  a p a  \npidana dapat dijatuhkan. Asas legalitas tidak hanya menghendaki  adanya \ndasar hukum yang jelas sebelum pidana dijatuhkan, tetapi juga mengharuskan \nbahwa ruang lingkup pertanggungjawaban pidana ditentukan secara  tegas \noleh undang-undang pidana materiil. Oleh karena itu, ketika huk um acara \npidana menetapkan model pertanggungjawaban yang berbeda dari hu kum \n\n \n \n \n7\npidana materiil, maka hukum acara telah melampaui fungsi konsti tusionalnya \ndan berpotensi menimbulkan pemidanaan yang tidak memiliki dasar yang jelas \ndalam hukum pidana materiil;",
+      "start_line": 235,
+      "end_line": 250
+    },
+    {
+      "heading": "21. Bahwa norma a quo juga bertentangan dengan prinsip adjectief recht, yaitu",
+      "slug": "21-bahwa-norma-a-quo-juga-bertentangan-dengan-prinsip-adjectief-recht-yaitu",
+      "text": "prinsip bahwa hukum acara hanya berfungsi sebagai sarana untuk \nmenjalankan dan menegakkan hukum materiil (substantive law defines rights \nand duties, while procedural law provides the machinery for enforcing them).  \nDalam sistem hukum pidana, KUHP sebagai hukum pidana materiil berfungsi \nmenentukan tindak pidana, pertanggungjawaban pidana, dan pidana  yang \ndapat dijatuhkan, sedangkan KUHAP hanya mengatur tata cara \npenegakannya. Oleh karena itu, hukum acara tidak diperkenankan \nmenciptakan, memperluas, mempersempit, ataupun mengubah substan si \npertanggungjawaban pidana yang telah ditentukan oleh hukum materiil;",
+      "start_line": 252,
+      "end_line": 260
+    },
+    {
+      "heading": "22. Bahwa dengan demikian, penggunaan konjungsi “dan” dalam Pas al 326 ayat",
+      "slug": "22-bahwa-dengan-demikian-penggunaan-konjungsi-dan-dalam-pas-al-326-ayat",
+      "text": "(1) KUHAP yang mewajibkan pertanggungjawaban dikenakan secara \nkumulatif kepada korporasi dan penanggung jawab korporasi merup akan \nbentuk penyimpangan dari fungsi hukum acara pidana. Norma terse but telah \nmengubah konstruksi pertanggungjawaban pidana yang secara materiil telah \nditetapkan oleh Pasal 49 KUHP Nasional, sehingga menimbulkan \nketidakpastian hukum, bertentangan dengan asas legalitas, dan t idak sejalan \ndengan asas adjectief recht; \nNorma a quo Bertentangan dengan Prinsip Due Process of Law dan Pasal 28D \nayat (1) UUD 1945",
+      "start_line": 262,
+      "end_line": 270
+    },
+    {
+      "heading": "23. Bahwa norma a quo tidak sejalan dengan prinsip due process of law yang",
+      "slug": "23-bahwa-norma-a-quo-tidak-sejalan-dengan-prinsip-due-process-of-law-yang",
+      "text": "merupakan salah satu unsur fundamental negara hukum sebagaimana dijamin \ndalam Pasal 1 ayat (3) dan Pasal 28D ayat (1) UUD 1945. Prinsip due process \nof law  menghendaki bahwa setiap orang hanya dapat dikenai proses dan \nsanksi pidana berdasarkan prosedur yang adil, rasional, dan konsisten dengan \nhukum yang menjadi dasar pemidanaan;",
+      "start_line": 272,
+      "end_line": 276
+    },
+    {
+      "heading": "24. Bahwa apabila hukum acara justru mengubah cakupan pertanggu ngjawaban",
+      "slug": "24-bahwa-apabila-hukum-acara-justru-mengubah-cakupan-pertanggu-ngjawaban",
+      "text": "yang telah ditetapkan oleh hukum pidana materiil, maka proses p emidanaan \nkehilangan landasan yang adil dan dapat menimbulkan perlakuan y ang \nberbeda terhadap subjek hukum dalam perkara yang sama. Akibatny a, \nkorporasi maupun penanggung jawab korporasi tidak memperoleh ke pastian \n\n \n \n \n8\nmengenai batas-batas pertanggungjawaban yang dapat dibebankan k epada \nmereka, sehingga bertentangan dengan jaminan kepastian hukum ya ng adil \nsebagaimana dimaksud Pasal 28D ayat (1) UUD 1945; \nNorma a quo Menimbulkan Ancaman terhadap Hak Konstitusional Pemohon",
+      "start_line": 278,
+      "end_line": 290
+    },
+    {
+      "heading": "25. Bahwa Pemohon, dalam kedudukannya sebagai Direktur Utama se kaligus",
+      "slug": "25-bahwa-pemohon-dalam-kedudukannya-sebagai-direktur-utama-se-kaligus",
+      "text": "penanggung jawab korporasi sebagaimana dimaksud Pasal 326 ayat (2) huruf \na UU 20/2025, setiap saat berpotensi dimintai pertanggungjawaba n pidana \nsemata-mata karena jabatan yang melekat padanya, tanpa terlebih  dahulu \ndibuktikan adanya keterlibatan atau kesalahan pribadi yang dapa t \ndipertanggungjawabkan kepadanya secara individual;",
+      "start_line": 292,
+      "end_line": 296
+    },
+    {
+      "heading": "26. Bahwa kondisi demikian menimbulkan ancaman terhadap hak Pem ohon atas",
+      "slug": "26-bahwa-kondisi-demikian-menimbulkan-ancaman-terhadap-hak-pem-ohon-atas",
+      "text": "perlindungan diri pribadi, kehormatan, martabat, dan rasa aman sebagaimana \ndijamin dalam Pasal 28G ayat (1) UUD 1945. Pemohon berpotensi mengalami \nproses hukum pidana, termasuk penyelidikan, penyidikan, penetapan sebagai \ntersangka, penuntutan, maupun pemidanaan, tanpa adanya pembukti an \nkesalahan yang bersifat individual dan personal;",
+      "start_line": 298,
+      "end_line": 302
+    },
+    {
+      "heading": "27. Bahwa norma a quo menimbulkan beban hukum yang tidak proporsional bagi",
+      "slug": "27-bahwa-norma-a-quo-menimbulkan-beban-hukum-yang-tidak-proporsional-bagi",
+      "text": "Pemohon dalam menjalankan profesi dan jabatannya sebagai pengur us \nkorporasi. Potensi dimintainya pertanggungjawaban pidana semata -mata \nberdasarkan kedudukan jabatan dapat menimbulkan ketidakpastian hukum \ndan menghambat Pemohon dalam menjalankan tugas serta tanggung j awab \nprofesionalnya, sehingga berpotensi melanggar Pasal 28D ayat (2) UUD 1945 \nyang menjamin hak setiap orang untuk bekerja serta memperoleh p erlakuan \nyang adil dan layak dalam hubungan kerja;",
+      "start_line": 304,
+      "end_line": 310
+    },
+    {
+      "heading": "28. Bahwa dalam negara hukum yang menjunjung prinsip due process of law dan",
+      "slug": "28-bahwa-dalam-negara-hukum-yang-menjunjung-prinsip-due-process-of-law-dan",
+      "text": "asas tiada pidana tanpa kesalahan (geen straf zonder schuld),  s e s e o r a n g  \nhanya dapat dipidana apabila terbukti melakukan perbuatan yang dapat \ndipertanggungjawabkan kepadanya secara pribadi. Berlakunya norm a a quo \nberpotensi mengesampingkan prinsip pertanggungjawaban pidana \nberdasarkan kesalahan (culpability) yang merupakan salah satu prinsip \nfundamental dalam hukum pidana dan negara hukum; \nHubungan Sebab-Akibat (Causal Verband) dan Pemulihan Konstitusional",
+      "start_line": 312,
+      "end_line": 318
+    },
+    {
+      "heading": "29. Bahwa terdapat hubungan sebab-akibat (causal verband) yang jelas dan",
+      "slug": "29-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-yang-jelas-dan",
+      "text": "langsung antara kerugian konstitusional Pemohon dengan berlakun ya norma \n\n \n \n \n9\na quo. Kerugian tersebut bersumber langsung dari rumusan Pasal 326 a yat \n(1) UU 20/2025, bukan dari faktor lain yang bersifat tidak terkait;",
+      "start_line": 320,
+      "end_line": 327
+    },
+    {
+      "heading": "30. Bahwa apabila permohonan a quo dikabulkan oleh Mahkamah Konstitusi,",
+      "slug": "30-bahwa-apabila-permohonan-a-quo-dikabulkan-oleh-mahkamah-konstitusi",
+      "text": "kerugian konstitusional Pemohon tidak akan atau tidak lagi terjadi, karena: \na. subjek dan syarat pertanggungjawaban pidana korporasi akan k embali \ntunduk sepenuhnya pada rezim Pasal 45 sampai dengan Pasal 50 KUHP \nyang mensyaratkan penilaian kesalahan individual; dan/atau \nb. norma a quo  dimaknai secara konstitusional bersyarat sehingga frasa \n“dan” dibaca sebagai “dan/atau”, yang mengembalikan diskresi ke pada \npenegak hukum untuk menentukan pertanggungjawaban berdasarkan \npembuktian konkret dalam setiap perkara.",
+      "start_line": 329,
+      "end_line": 336
+    },
+    {
+      "heading": "31. Bahwa pemaknaan konstitusional berupa perubahan frasa “dan” m e n j a d i",
+      "slug": "31-bahwa-pemaknaan-konstitusional-berupa-perubahan-frasa-dan-m-e-n-j-a-d-i",
+      "text": "“dan/atau” merupakan bentuk harmonisasi antara hukum pidana mat eriil dan \nhukum pidana formil yang tepat dan proporsional, yang: \na. menjaga konsistensi sistem pemidanaan nasional karena tetap \nmemberikan ruang bagi pengenaan pertanggungjawaban secara \nkumulatif apabila berdasarkan pembuktian ditemukan keterlibatan  \nkorporasi dan penanggung jawab korporasi secara bersamaan; \nb. tetap memungkinkan pertanggungjawaban dikenakan hanya kepada  \nkorporasi atau hanya kepada penanggung jawab korporasi apabila fakta \nhukum menunjukkan demikian;",
+      "start_line": 338,
+      "end_line": 346
+    },
+    {
+      "heading": "c. memastikan prinsip due process of law tetap terjaga karena pemidanaan",
+      "slug": "c-memastikan-prinsip-due-process-of-law-tetap-terjaga-karena-pemidanaan",
+      "text": "dilakukan berdasarkan pembuktian yang konkret;",
+      "start_line": 348,
+      "end_line": 348
+    },
+    {
+      "heading": "d. melindungi asas legalitas karena ruang lingkup pertanggungja waban",
+      "slug": "d-melindungi-asas-legalitas-karena-ruang-lingkup-pertanggungja-waban",
+      "text": "mengikuti ketentuan hukum pidana materiil; dan \ne. menghormati asas adjectief recht karena hukum acara hanya \nmenjalankan konstruksi pertanggungjawaban yang telah ditetapkan  oleh \nhukum pidana materiil. \nBahwa berdasarkan seluruh uraian di atas, Pemohon berkeyakinan Pasal 326 ayat \n(1) UU 20/2025 sepanjang frasa “dan” dimaknai sebagai kewajiban  pengenaan \npertanggungjawaban pidana secara kumulatif bertentangan dengan Pasal 27 ayat \n(1), Pasal 28D ayat (1), dan Pasal 28G ayat (1) Undang-Undang D asar Negara \nRepublik Indonesia Tahun 1945, sehingga layak untuk dinyatakan tidak mempunyai \n\n \n \n \n10\nkekuatan hukum mengikat secara bersyarat (conditionally unconstitutional)  \nsepanjang tidak dimaknai sebagai “dan/atau”.",
+      "start_line": 350,
+      "end_line": 365
+    },
+    {
+      "heading": "RASIONALISASI PETITUM",
+      "slug": "rasionalisasi-petitum",
+      "text": "Rasionalisasi Petitum ini disusun sebagai pemandu logis-yuridis  yang \nmenjembatani uraian Posita Pemohon dengan rumusan amar yang dim ohonkan \nkepada Yang Mulia Majelis Hakim Mahkamah Konstitusi. Kerangka rasionalisasi ini \nbertumpu pada tiga pilar pokok, yaitu (i) kewenangan Mahkamah Konstitusi sebagai \npengawal konstitusi (the guardian of the constitution) sebagaim ana diamanatkan \nPasal 24C ayat (1) UUD 1945 juncto Pasal 10 ayat (1) huruf a UU  MK; (ii) asas \nlegalitas, prinsip adjectief recht, dan due process of law  sebagai pilar negara \nhukum; serta (iii) yurisprudensi Mahkamah Konstitusi mengenai v arian amar \ninkonstitusional bersyarat (conditionally unconstitutional)  untuk mencegah \nkekosongan hukum (rechtsvacuum). Rasionalisasi atas tiap-tiap angka Petitum \ndiuraikan dengan menyajikan: (i) bunyi Petitum, (ii) dasar kons titusional dan \nundang-undang, (iii) doktrin dan asas hukum yang relevan, serta  (iv) konsekuensi \nyuridis yang dikehendaki. \nRasionalisasi Petitum Angka 1",
+      "start_line": 367,
+      "end_line": 380
+    },
+    {
+      "heading": "1. Bahwa Petitum Angka 1 yang dimohonkan Pemohon berbunyi: “Men erima dan",
+      "slug": "1-bahwa-petitum-angka-1-yang-dimohonkan-pemohon-berbunyi-men-erima-dan",
+      "text": "mengabulkan permohonan Pemohon untuk seluruhnya”;",
+      "start_line": 382,
+      "end_line": 382
+    },
+    {
+      "heading": "2. Bahwa Petitum Angka 1 merupakan rumusan baku (standar) dalam p r a k t i k",
+      "slug": "2-bahwa-petitum-angka-1-merupakan-rumusan-baku-standar-dalam-p-r-a-k-t-i-k",
+      "text": "pengujian undang-undang di Mahkamah Konstitusi yang lazim diawali dengan \npermintaan agar Mahkamah Konstitusi mengabulkan seluruh dalil \npermohonan, dengan berlandaskan pada Pasal 56 ayat (3) UU MK ya ng \nmenyatakan bahwa dalam hal permohonan dikabulkan, Mahkamah Kons titusi \nmenyatakan dengan tegas materi muatan ayat, pasal, dan/atau bag ian dari \nundang-undang yang bertentangan dengan UUD 1945; \nRasionalisasi Petitum Angka 2 dan Angka 3",
+      "start_line": 384,
+      "end_line": 390
+    },
+    {
+      "heading": "1. Bahwa Petitum Angka 2 dan Angka 3 pada pokoknya memohon agar",
+      "slug": "1-bahwa-petitum-angka-2-dan-angka-3-pada-pokoknya-memohon-agar",
+      "text": "Mahkamah Konstitusi menyatakan Pasal 326 ayat (1) KUHAP bertent angan \ndengan UUD 1945 sepanjang frasa “dan” dimaknai kumulatif, serta  \nmenyatakan frasa tersebut tidak mempunyai kekuatan hukum mengik at \nsepanjang tidak dimaknai “dan/atau”;",
+      "start_line": 392,
+      "end_line": 395
+    },
+    {
+      "heading": "2. Bahwa ketentuan Pasal 326 ayat (1) KUHAP telah menimbulkan p erubahan",
+      "slug": "2-bahwa-ketentuan-pasal-326-ayat-1-kuhap-telah-menimbulkan-p-erubahan",
+      "text": "substansi norma pertanggungjawaban pidana yang sebelumnya ditet apkan \n\n \n \n \n11\ndalam Pasal 49 KUHP Nasional, yang secara tegas mengadopsi mode l \npertanggungjawaban yang bersifat alternatif-opsional dengan men ggunakan \nfrasa “dapat” dan konjungsi “dan/atau”;",
+      "start_line": 397,
+      "end_line": 405
+    },
+    {
+      "heading": "3. Bahwa perubahan makna tersebut bertentangan dengan asas lega litas (nullum",
+      "slug": "3-bahwa-perubahan-makna-tersebut-bertentangan-dengan-asas-lega-litas-nullum",
+      "text": "crimen, nulla poena sine lege) yang menempatkan hukum pidana ma teriil \nsebagai satu-satunya sumber yang berwenang menentukan siapa yan g dapat \ndimintai pertanggungjawaban pidana, sehingga ketika hukum acara  pidana \nmenetapkan model pertanggungjawaban yang berbeda dari hukum pid ana \nmateriil, maka hukum acara telah melampaui fungsi konstitusionalnya;",
+      "start_line": 407,
+      "end_line": 411
+    },
+    {
+      "heading": "4. Bahwa selain bertentangan dengan asas legalitas, norma a quo juga tidak",
+      "slug": "4-bahwa-selain-bertentangan-dengan-asas-legalitas-norma-a-quo-juga-tidak",
+      "text": "sejalan dengan prinsip due process of law  sebagaimana dijamin dalam Pasal \n1 ayat (3) dan Pasal 28D ayat (1) UUD 1945, karena apabila huku m acara \nmengubah cakupan pertanggungjawaban yang telah ditetapkan hukum pidana \nmateriil, maka proses pemidanaan kehilangan landasan yang adil;",
+      "start_line": 413,
+      "end_line": 416
+    },
+    {
+      "heading": "5. Bahwa dengan demikian, demi menjamin kepastian hukum yang ad il",
+      "slug": "5-bahwa-dengan-demikian-demi-menjamin-kepastian-hukum-yang-ad-il",
+      "text": "sebagaimana dijamin Pasal 28D ayat (1) UUD 1945, Mahkamah Konst itusi \nperlu menyatakan frasa “dan” dalam Pasal 326 ayat (1) KUHAP ber tentangan \ndengan UUD 1945 secara bersyarat dan memaknainya sebagai “dan/atau”; \nRasionalisasi Petitum Angka 4",
+      "start_line": 418,
+      "end_line": 421
+    },
+    {
+      "heading": "1. Bahwa Petitum Angka 4 pada pokoknya memohon agar Pasal 326 a yat (1)",
+      "slug": "1-bahwa-petitum-angka-4-pada-pokoknya-memohon-agar-pasal-326-a-yat-1",
+      "text": "KUHAP dimaknai “Korporasi dan/atau penanggung jawab Korporasi”;",
+      "start_line": 423,
+      "end_line": 423
+    },
+    {
+      "heading": "2. Bahwa pemaknaan konstitusional berupa perubahan frasa “dan” menjadi",
+      "slug": "2-bahwa-pemaknaan-konstitusional-berupa-perubahan-frasa-dan-menjadi",
+      "text": "“dan/atau” merupakan bentuk harmonisasi antara hukum pidana mat eriil dan \nhukum pidana formil, yang tetap memberikan ruang bagi pengenaan  \npertanggungjawaban secara kumulatif apabila berdasarkan pembukt ian \nditemukan keterlibatan korporasi dan penanggung jawab korporasi  secara \nbersamaan, sekaligus tetap memungkinkan pertanggungjawaban dike nakan \nhanya kepada salah satunya apabila fakta hukum menunjukkan demikian;",
+      "start_line": 425,
+      "end_line": 430
+    },
+    {
+      "heading": "3. Bahwa dengan pemaknaan tersebut, prinsip due process of law tetap terjaga",
+      "slug": "3-bahwa-dengan-pemaknaan-tersebut-prinsip-due-process-of-law-tetap-terjaga",
+      "text": "karena pemidanaan dilakukan berdasarkan pembuktian yang konkret , asas \nlegalitas tetap terlindungi karena ruang lingkup pertanggungjawaban mengikuti \nketentuan hukum pidana materiil, dan asas adjectief recht tetap  dihormati \nkarena hukum acara hanya menjalankan konstruksi pertanggungjawaban yang \ntelah ditetapkan oleh hukum pidana materiil; \n\n \n \n \n12\nRasionalisasi Petitum Angka 5",
+      "start_line": 432,
+      "end_line": 442
+    },
+    {
+      "heading": "1. Bahwa Petitum Angka 5 pada pokoknya memohon penegasan bahwa",
+      "slug": "1-bahwa-petitum-angka-5-pada-pokoknya-memohon-penegasan-bahwa",
+      "text": "pengaturan pertanggungjawaban pidana merupakan bagian dari hukum pidana \nmateriil yang harus ditafsirkan selaras dengan Pasal 49 KUHP, u ntuk \nmemastikan konsistensi sistem pemidanaan nasional dan menutup r uang \npenafsiran yang menempatkan hukum acara pidana sebagai sumber \npenentuan subjek dan syarat pertanggungjawaban pidana; \nKesimpulan Rasionalisasi Petitum \nBahwa berdasarkan seluruh rasionalisasi di atas, Petitum Pemoho n merupakan \nsatu kesatuan yang utuh dan saling menunjang: Angka 1 sebagai p intu masuk \nkonstitusional; Angka 2 dan Angka 3 sebagai penegasan pertentan gan norma a \nquo dengan UUD 1945 secara bersyarat; Angka 4 sebagai pemaknaan \nkonstitusional yang menghindari kekosongan hukum (rechtsvacuum); dan Angka 5 \nsebagai penegasan harmonisasi dengan hukum pidana materiil.",
+      "start_line": 444,
+      "end_line": 455
+    },
+    {
+      "heading": "PETITUM",
+      "slug": "petitum",
+      "text": "Berdasarkan seluruh dalil-dalil para Pemohon yang telah diuraikan secara lengkap \ndalam bagian kerugian hak konstitusional dan alasan permohonan,  maka para \nPemohon memohonkan kepada Yang Mulia Majelis Hakim Konstitusi y ang \nmemeriksa, mengadili, dan memut uskan Permohonan para Pemohon un tuk \nmemberikan putusan sebagai berikut:",
+      "start_line": 457,
+      "end_line": 461
+    },
+    {
+      "heading": "2. Menyatakan Pasal 326 ayat (1) Undang-Undang Nomor 20 Tahun 2025 tentang",
+      "slug": "2-menyatakan-pasal-326-ayat-1-undang-undang-nomor-20-tahun-2025-tentang",
+      "text": "Kitab Undang-Undang Hukum Acara Pidana bertentangan dengan Unda ng-\nUndang Dasar Negara Republik Indonesia Tahun 1945, sepanjang frasa “dan” \ndimaknai sebagai kewajiban pengenaan pertanggungjawaban pidana secara \nkumulatif terhadap Korporasi dan penanggung jawab Korporasi;",
+      "start_line": 464,
+      "end_line": 467
+    },
+    {
+      "heading": "3. Menyatakan frasa “dan” dalam Pasal 326 ayat (1) Undang-Undan g Nomor 20",
+      "slug": "3-menyatakan-frasa-dan-dalam-pasal-326-ayat-1-undang-undan-g-nomor-20",
+      "text": "Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana tidak  \nmempunyai kekuatan hukum mengikat secara bersyarat (conditionally \nunconstitutional) sepanjang tidak dimaknai “dan/atau”;",
+      "start_line": 469,
+      "end_line": 471
+    },
+    {
+      "heading": "4. Menyatakan Pasal 326 ayat (1) Undang-Undang Nomor 20 Tahun 2025 tentang",
+      "slug": "4-menyatakan-pasal-326-ayat-1-undang-undang-nomor-20-tahun-2025-tentang",
+      "text": "Kitab Undang-Undang Hukum Acara Pidana selengkapnya harus dimaknai: \n“Pertanggungjawaban atas tindak pidana oleh Korporasi dikenakan  \nterhadap Korporasi dan/atau penanggung jawab Korporasi.” \n\n \n \n \n13",
+      "start_line": 473,
+      "end_line": 480
+    },
+    {
+      "heading": "5. Menyatakan bahwa pengaturan pertanggungjawaban pidana merupa kan",
+      "slug": "5-menyatakan-bahwa-pengaturan-pertanggungjawaban-pidana-merupa-kan",
+      "text": "bagian dari hukum pidana materiil yang harus ditafsirkan selaras dengan Pasal \n49 Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang  \nHukum Pidana sebagaimana telah diubah dengan Undang-Undang Nomo r 1 \nTahun 2026 tentang Penyesuaian Pidana; \nAtau \nApabila Yang Mulia Majelis Hakim Mahkamah Konstitusi berpendapat lain terhadap \nPetitum di atas, khususnya untuk mengantisipasi sikap kehati-ha tian peradilan \n(judicial self-restraint)  dalam memberikan pemaknaan baru terhadap norma, \nPemohon memohon putusan dengan varian amar konstitusional bersy arat \n(conditionally constitutional) sebagai berikut:",
+      "start_line": 482,
+      "end_line": 491
+    },
+    {
+      "heading": "2. Menyatakan Pasal 326 ayat (1) Undang-Undang Nomor 20 Tahun 2025 tentang",
+      "slug": "2-menyatakan-pasal-326-ayat-1-undang-undang-nomor-20-tahun-2025-tentang",
+      "text": "Kitab Undang-Undang Hukum Acara Pidana tidak bertentangan denga n \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 secara  \nbersyarat (conditionally constitutional)  sepanjang dimaknai bahwa \npertanggungjawaban atas tindak pidana oleh Korporasi dikenakan terhadap \n“Korporasi dan/atau penanggung jawab Korporasi” dan hanya dapat  \ndibebankan berdasarkan pembuktian kesalahan (asas tiada pidana tanpa \nkesalahan/geen straf zonder schuld) masing-masing subjek hukum, selaras \ndengan Pasal 45 sampai dengan Pasal 50 dan Pasal 49 KUHP;",
+      "start_line": 494,
+      "end_line": 501
+    },
+    {
+      "heading": "3. Menyatakan Pasal 326 ayat (1) Undang-Undang Nomor 20 Tahun 2025 tentang",
+      "slug": "3-menyatakan-pasal-326-ayat-1-undang-undang-nomor-20-tahun-2025-tentang",
+      "text": "Kitab Undang-Undang Hukum Acara Pidana tidak mempunyai kekuatan hukum \nmengikat sepanjang tidak dimaknai sebagaimana dimaksud dalam An gka 2 di \natas;",
+      "start_line": 503,
+      "end_line": 505
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik Indonesia",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik-indonesia",
+      "text": "sebagaimana mestinya; \nAtau, apabila Yang Mulia Majelis Hakim Konstitusi berpendapat l ain, mohon \nputusan yang seadil-adilnya (ex aequo et bono). \n[2.2]  Menimbang bahwa untuk memb uktikan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  Bukti P-7, \nsebagai berikut: \n\n \n \n \n14",
+      "start_line": 507,
+      "end_line": 517
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Kartu Tanda Penduduk (KTP) atas nama",
+      "slug": "1-bukti-p-1-fotokopi-kartu-tanda-penduduk-ktp-atas-nama",
+      "text": "Pemohon;",
+      "start_line": 519,
+      "end_line": 519
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Pernyataan Pendirian Perseroan Perorang an dan",
+      "slug": "2-bukti-p-2-fotokopi-pernyataan-pendirian-perseroan-perorang-an-dan",
+      "text": "NIB Atas Nama PT Abimanyu Pustaka Utama;",
+      "start_line": 521,
+      "end_line": 521
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Keputusan Menteri Hukum Republik Indone sia",
+      "slug": "3-bukti-p-3-fotokopi-keputusan-menteri-hukum-republik-indone-sia",
+      "text": "Nomor AHU-014232.AH.01.30.Tahun 2026 tentang \nPengesahan Pendirian Badan Hukum Perseroan \nPerorangan Abimanyu Pustaka Utama;",
+      "start_line": 523,
+      "end_line": 525
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Nomor Induk Berusaha (NIB) 080626002602 9 atas",
+      "slug": "4-bukti-p-4-fotokopi-nomor-induk-berusaha-nib-080626002602-9-atas",
+      "text": "nama PT Abimanyu Pustaka Utama beserta lampiran jenis \nbidang usaha;",
+      "start_line": 527,
+      "end_line": 528
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Sertifikat Standar Nomor 08062600260290 001",
+      "slug": "5-bukti-p-5-fotokopi-sertifikat-standar-nomor-08062600260290-001",
+      "text": "beserta lampirannya;",
+      "start_line": 530,
+      "end_line": 530
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Pernyataan Mandiri Kesediaan Memenuhi S tandar",
+      "slug": "6-bukti-p-6-fotokopi-pernyataan-mandiri-kesediaan-memenuhi-s-tandar",
+      "text": "Usaha dan Pernyataan Mandiri Menjaga K3L;",
+      "start_line": 532,
+      "end_line": 532
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Surat Keputuan Direksi Nomor:",
+      "slug": "7-bukti-p-7-fotokopi-surat-keputuan-direksi-nomor",
+      "text": "001/SK.PD/APU/VIII/2025 tentang Susunan Jabatan, 08 \nJuni 2026. \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini,  \nsegala sesuatu yang terjadi di persidangan cukup merujuk kepada  Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahka n dengan \nputusan ini.",
+      "start_line": 534,
+      "end_line": 539
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut  U U D  N R I  \nTahun 1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 T ahun 2003 \ntentang Mahkamah Konstitusi sebagaimana telah diubah terakhir dengan Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a \nUndang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5076), salah satu kewenangan konstitus ional \n\n \n \n \n15\nMahkamah adalah mengadili pada tingkat pertama dan terakhir yan g putusannya \nbersifat final untuk menguji undang-undang terhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu  norma Pasal 326 ayat (1) Undang-\nUndang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Ac ara \nPidana (Lembaran Negara Republik Indonesia Tahun 2025 Nomor 188, Tambahan \nLembaran Negara Republik Indonesia Nomor 7149, selanjutnya dise but UU \n20/2025) terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang me ngadili \npermohonan a quo. \n[3.3] Menimbang bahwa meskipun berwenang mengadili permohonan a quo, \nnamun sebelum mempertimbangkan lebih lanjut permohonan Pemohon, \nMahkamah mempertimbangkan hal-hal sebagai berikut. \n[3.3.1]  Bahwa sesuai dengan ketentuan hukum acara pengujian undang-\nundang, Mahkamah telah memeriksa permohonan a quo dalam sidang \npemeriksaan pendahuluan dengan agenda untuk mendengar pokok-pok ok \npermohonan, memeriksa kelengkapan dan kejelasan materi permohonan Pemohon \npada hari Senin, tanggal 10 Agustus 2026. Berdasarkan ketentuan  Pasal 39 UU \nMK dan Pasal 36 ayat (3) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 \ntentang Tata Beracara Dalam Perkara Pengujian Undang-Undang (se lanjutnya \ndisebut PMK 7/2025), Mahkamah telah memberikan nasihat kepada Pemohon agar \nmemperbaiki dan melengkapi serta memperjelas uraian mengenai ke wenangan \nMahkamah, kedudukan hukum Pemohon, alasan-alasan permohonan (posita), dan \nhal-hal yang dimohonkan untuk diputus (petitum) sehingga sesuai  dengan \nsistematika permohonan sebagaimana diatur dalam PMK 7/2025 [vid e Risalah \nSidang, tanggal 10 Agustus 2026, hlm. 9-16]. Sesuai dengan kete ntuan hukum \nacara pengujian undang-undang, Mahkamah memberikan kesempatan k epada \nPemohon untuk memperbaiki permohonan paling lama 14 (empat belas) hari sejak \nsidang pemeriksaan pendahuluan [vide Pasal 37 ayat (1) PMK 7/20 25], dengan \nbatas waktu penyerahan perbaikan permohonan pada hari Senin, ta nggal 24 \nAgustus 2026, pukul 12.00 WIB. Namun demikian, Pemohon telah menyampaikan \nperbaikan permohonan secara daring ( online) melalui e-mail yang diterima \nMahkamah yaitu pada hari Senin, tanggal 24 Agustus 2026, pukul 18.03 WIB. \n\n \n \n \n16\nDengan demikian, perbaikan permohonan Pemohon disampaikan setelah melewati \ntenggang waktu yang telah ditentukan. Oleh karena itu, Mahkamah  berpendapat \nbahwa perbaikan permohonan tersebut tidak dapat dipertimbangkan sebagai dasar \ndalam memeriksa permohonan a quo . Selanjutnya, Mahkamah akan \nmempertimbangkan permohonan dengan menggunakan permohonan awal atau \nyang pertama kali diajukan oleh Pemohon dan diterima Mahkamah s ecara daring \n(online) pada hari Senin, tanggal 29 Juli 2026, pukul 14.51 WIB. \n[3.3.2]  Bahwa berkenaan dengan uraian dalam Sub-paragraf [3.3.1] tersebut di \natas, Mahkamah akan menilai perihal syarat formil suatu permoho nan terutama \nberkaitan dengan uraian yang jelas ihwal pengujian undang-undang terhadap UUD \nNRI Tahun 1945 sesuai dengan ketentuan Pasal 30 huruf a dan Pas al 31 ayat (1) \nUU MK serta Pasal 10 ayat (3) dan Pasal 36 ayat (1) PMK 7/2025, sebagai berikut: \nPasal 30 huruf a UU MK  \nPermohonan wajib dibuat dengan uraian yang jelas mengenai:  \na. pengujian undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; \nPasal 31 ayat (1) UU MK \nPermohonan sekurang-kurangnya harus memuat: \na. nama dan alamat pemohon; \nb. uraian mengenai perihal yang menjadi dasar permohonan sebaga imana \ndimaksud dalam Pasal 30; dan",
+      "start_line": 541,
+      "end_line": 615
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025 \nPermohonan sebagaimana dimaksud pada ayat (1), sekurang-kurangn ya \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antar a \nlain: \na. kewenangan Mahkamah; \nb. kedudukan hukum Pemohon;",
+      "start_line": 617,
+      "end_line": 622
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025 \nDalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam Pasal 35 \nayat (1) huruf a, Mahkamah memeriksa identitas Pemohon dengan \nkelengkapan dan kejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 625,
+      "end_line": 630
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "[3.3.3]  Bahwa setelah Mahkamah memeriksa dengan saksama permohonan       \na quo , khususnya berkenaan dengan sistematika permohonan, pada dasar nya \ntelah disusun sesuai dengan format permohonan sebagaimana keten tuan dalam \n\n \n \n \n17\nPMK 7/2025, yaitu secara formil telah menguraikan perihal yang meliputi \nkewenangan Mahkamah, kedudukan hukum, alasan-alasan permohonan dan hal-\nhal yang dimohonkan kepada Mahkamah untuk diputus. Bahkan, sebe lum \nmenguraikan ihwal keempat hal tersebut, Pemohon pun telah menguraikan perihal \nidentitas Pemohon. Namun demikian, sekalipun secara formil perm ohonan telah \ndisusun dan memuat sistematika permohonan sebagaimana dipersyaratkan, akan \ntetapi terpenuhinya syarat formil suatu permohonan tidak semata-mata dinilai dari \nkeberadaan atau kelengkapan sistematika permohonan an sich . Dalam hal ini, \nMahkamah akan menilai keterpenuhan isi atau substansi dari masi ng-masing \nsistematika dimaksud. \n[3.3.4]  Bahwa norma undang-undang yang dimohonkan pengujian materiil oleh \nPemohon dalam permohonan a quo adalah norma Pasal 326 ayat (1) UU 20/2025 \natau kata “dan” dalam norma Pasal 326 ayat (1) UU 20/2025 yang oleh Pemohon \ndianggap bertentangan dengan Pasal 27 ayat (1), Pasal 28D ayat (1) dan Pasal \n28G ayat (1) UUD NRI Tahun 1945. Berkenaan dengan uraian alasan -alasan \npermohonan (posita), apabila dicermati lebih lanjut, terlepas a da atau tidaknya \npersoalan konstitusionalitas norma yang dimohonkan pengujian, P emohon telah \nternyata tidak menguraikan secara jelas dan memadai perihal pertentangan antara \nnorma yang dimohonkan pengujian yakni norma Pasal 326 ayat (1) UU 20/2025 \ndengan pasal-pasal yang dijadikan sebagai dasar pengujian atau parameter uji \nkonstitusionalitas dalam UUD NRI Tahun 1945, dalam hal ini Pasa l 27 ayat (1), \nPasal 28D ayat (1) dan Pasal 28G ayat (1) UUD NRI Tahun 1945. D alam alasan-\nalasan permohonan (posita), Pemohon justru menguraikan hal-hal di antaranya \nmengenai hubungan sebab-akibat (causal verband) dan pemulihan konstitusional \n[vide permohonan Pemohon hlm. 7], yang hal tersebut sebenarnya merupakan \nbagian dari uraian dalam menjelaskan kedudukan hukum Pemohon. B erkaitan \ndengan hal tersebut, ihwal pokok yang seharusnya diuraikan pada bagian alasan-\nalasan permohonan (posita) adalah uraian yang jelas dan memadai  berkaitan \nadanya pertentangan antara norma yang dimohonkan pengujian deng an pasal-\npasal yang dijadikan dasar pengujian dalam UUD NRI Tahun 1945, yang meliputi \nPasal 27 ayat (1), Pasal 28D ayat (1) dan Pasal 28G ayat (1) UU D NRI Tahun",
+      "start_line": 633,
+      "end_line": 671
+    },
+    {
+      "heading": "1945. Di samping itu, penempatan uraian mengenai hubungan sebab -akibat",
+      "slug": "1945-di-samping-itu-penempatan-uraian-mengenai-hubungan-sebab-akibat",
+      "text": "(causal verband ) pada bagian alasan-alasan permohonan (posita) adalah tidak \ntepat atau tidak sesuai, karena uraian demikian seharusnya menj adi bagian yang \n\n \n \n \n18\nmenyatu dari penjelasan yang menguatkan argumentasi Pemohon men genai \nkedudukan hukum ( legal standing). Dengan demikian, sehubungan dengan tidak \nadanya atau ketidakjelasan uraian terkait hal tersebut menyebab kan Mahkamah \nmengalami kesulitan untuk menilai ada atau tidaknya pertentanga n norma dalam \nundang-undang yang dimohonkan pengujian dengan pasal-pasal dalam UUD NRI \nTahun 1945 sebagaimana yang dimaksudkan oleh Pemohon. Padahal, uraian \nmengenai adanya pertentangan norma dalam undang-undang yang dim ohonkan \npengujian dengan dasar pengujian dalam UUD NRI Tahun 1945 merup akan hal \nesensial yang harus diuraikan dan menjadi dasar dalam pengujian norma undang-\nundang untuk dapat dinilai ada atau tidaknya persoalan konstitusionalitas terhadap \nnorma yang dimohonkan pengujian. \n[3.3.5]  Bahwa selanjutnya Mahkamah akan menilai berkenaan dengan rumu san \npetitum permohonan Pemohon angka 2 sampai dengan petitum angka 5, yang \npada pokoknya Pemohon memohon kepada Mahkamah untuk menyatakan \nsebagai berikut:",
+      "start_line": 673,
+      "end_line": 694
+    },
+    {
+      "heading": "2. Menyatakan Pasal 326 ayat (1) Undang-Undang Nomor 20 Tahun",
+      "slug": "2-menyatakan-pasal-326-ayat-1-undang-undang-nomor-20-tahun",
+      "text": "2025 tentang Kitab Undang-Undang Hukum Acara Pidana \nbertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, sepanjang frasa “dan” dimaknai sebagai \nkewajiban pengenaan pertanggungjawaban pidana secara kumulatif \nterhadap Korporasi dan penanggung jawab Korporasi;",
+      "start_line": 697,
+      "end_line": 701
+    },
+    {
+      "heading": "3. Menyatakan frasa “dan” dalam Pasal 326 ayat (1) Undang-Undan g",
+      "slug": "3-menyatakan-frasa-dan-dalam-pasal-326-ayat-1-undang-undan-g",
+      "text": "Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara \nPidana tidak mempunyai kekuatan hukum mengikat secara bersyarat \n(conditionally unconstitutional) sepanjang tidak dimaknai “dan/atau”;",
+      "start_line": 703,
+      "end_line": 705
+    },
+    {
+      "heading": "4. Menyatakan Pasal 326 ayat (1) Undang-Undang Nomor 20 Tahun",
+      "slug": "4-menyatakan-pasal-326-ayat-1-undang-undang-nomor-20-tahun",
+      "text": "2025 tentang Kitab Undang-Undang Hukum Acara Pidana \nselengkapnya harus dimaknai: \n“Pertanggungjawaban atas tindak pidana oleh Korporasi \ndikenakan terhadap Korporasi dan/atau penanggung jawab \nKorporasi.”",
+      "start_line": 707,
+      "end_line": 711
+    },
+    {
+      "heading": "5. Menyatakan bahwa pengaturan pertanggungjawaban pidana",
+      "slug": "5-menyatakan-bahwa-pengaturan-pertanggungjawaban-pidana",
+      "text": "merupakan bagian dari hukum pidana materiil yang harus ditafsir kan \nselaras dengan Pasal 49 Undang-Undang Nomor 1 Tahun 2023 \ntentang Kitab Undang-Undang Hukum Pidana sebagaimana telah \ndiubah dengan Undang-Undang Nomor 1 Tahun 2026 tentang \nPenyesuaian Pidana; \n \nBahwa setelah Mahkamah mencermati lebih lanjut secara saksama \nihwal rumusan petitum permohonan Pemohon pada angka 2 yang memo hon \nkepada Mahkamah untuk menyatakan norma Pasal 326 ayat (1) UU 20 /2025 \n\n \n \n \n19\ndinyatakan bertentangan dengan UUD NRI Tahun 1945 sepanjang kat a “dan” \ndimaknai sebagai kewajiban pengenaan pertanggungjawaban pidana secara \nkumulatif terhadap Korporasi dan penanggung jawab Korporasi. Te rhadap \nrumusan petitum angka 2 tersebut, Mahkamah memahami bahwa yang \ndipersoalkan oleh Pemohon pada dasarnya adalah pemaknaan terten tu terhadap \nkata “dan” dalam norma Pasal 326 ayat (1) UU 20/2025. Namun dem ikian, \nPemohon tidak memberikan rumusan yang jelas mengenai pemaknaan yang \nseharusnya berlaku terhadap kata “dan” apabila pemaknaan kumula tif tersebut \ndinyatakan bertentangan dengan UUD NRI Tahun 1945. Lebih lanjut , Pemohon \ntidak pula menjelaskan secara tegas mengenai eksistensi atau ke dudukan kata \n“dan” dalam ketentuan norma Pasal 326 ayat (1) UU 20/2025 setel ah pemaknaan \nkumulatif tersebut dinyatakan inkonstitusional, apakah tetap dipertahankan dengan \npemaknaan tertentu, ataukah dimaknai sebagai “atau”, ataupun di berikan \npemaknaan lain sebagaimana yang dikehendaki oleh Pemohon. Akiba tnya, \nmenjadi tidak jelas norma yang dimohonkan untuk berlaku setelah  pemaknaan \nyang dianggap inkonstitusional tersebut dinyatakan tidak mempun yai kekuatan \nhukum mengikat. \nBahwa selanjutnya Mahkamah menilai dalam rumusan petitum \npermohonan Pemohon angka 3 di atas, Pemohon yang memohon Mahkamah agar \nkata “dan” dalam ketentuan norma Pasal 326 ayat (1) UU 20/2025 dinyatakan tidak \nmempunyai kekuatan hukum mengikat secara bersyarat ( conditionally \nunconstitutional) sepanjang tidak dimaknai dengan frasa “dan/atau”. Terhadap \nrumusan petitum permohonan Pemohon angka 3 tersebut, menurut Ma hkamah \npenggunaan frasa “dan/atau” pada hakikatnya mengandung dua kemu ngkinan \nmakna, frasa “dan/atau” tersebut dapat dimaknai secara kumulati f yakni secara \nbersama-sama sebagaimana kata “dan”, tetapi juga dapat dimaknai  s e c a r a  \nalternatif, yakni hanya salah satu, ditunjukkan oleh kata “atau ”. Namun demikian, \nPemohon tidak memberikan penjelasan yang memadai mengenai bagai mana \nkedua kemungkinan pemaknaan tersebut harus diberlakukan dalam k onteks \npertanggungjawaban pidana korporasi dan penanggung jawab korpor asi \nsebagaimana ketentuan yang diatur dalam norma Pasal 326 ayat (1) UU 20/2025. \nIhwal ini, Pemohon tidak menguraikan secara jelas apakah pemakn aan frasa \n“dan/atau” dimaksudkan agar pertanggungjawaban pidana dapat dikenakan hanya \nkepada korporasi, ataukah hanya kepada penanggung jawab korpora si, ataupun \n\n \n \n \n20\nkepada kedua subjek hukum tersebut yaitu korporasi dan penanggu ng jawab \nkorporasi secara bersamaan, serta dalam keadaan bagaimana atau berdasarkan \nkriteria apa pertanggungjawaban pidana terhadap masing-masing s ubjek \nhukum/pihak tersebut dapat dikenakan.  Terlebih, Pemohon juga tidak \nmempertautkan rumusan petitum permohonan Pemohon angka 3 tersebut apakah \ndimaksudkan sebagai konsekuensi dari petitum permohonan Pemohon  angka 2, \natau merupakan rumusan petitum yang berdiri sendiri dengan obje k dan akibat \nhukum yang berbeda. Oleh karena itu, telah ternyata terdapat ke tidakjelasan \nmengenai maksud dan konsekuensi hukum dari pemaknaan frasa “dan /atau” \nsebagaimana yang dimohonkan oleh Pemohon dalam rumusan petitum \npermohonan Pemohon angka 3 a quo. Di samping itu, jika dicermati lebih lanjut \nrumusan petitum permohonan Pemohon angka 2 dan petitum angka 3 merupakan \npetitum yang saling bertentangan/kontradiktif, di mana pada rum usan petitum \npermohonan Pemohon angka 2 Pemohon mempersoalkan kata “dan” dalam norma \nPasal 326 ayat (1) UU 20/2025 dimaknai “sebagai kewajiban penge naan \npertanggungjawaban pidana secara kumulatif terhadap korporasi dan penanggung \njawab korporasi”, sehingga pertanggungjawaban pidana harus dikenakan terhadap \nkedua subjek hukum/pihak tersebut secara bersamaan. Sementara i tu, pada \npetitum permohonan Pemohon angka 3 kata “dan” dalam norma Pasal 326 ayat (1) \nUU 20/2025 agar dimaknai dengan penambahan frasa “dan/atau” yan g artinya \nmembuka kemungkinan pengenaan pertanggungjawaban pidana secara kumulatif \nmaupun alternatif, yakni terhadap korporasi dan penanggung jawa b korporasi \nsecara bersamaan ataupun terhadap salah satunya. Dengan demikia n, kedua \npetitum tersebut saling menegasikan satu sama lain mengenai lin gkup dan \nmekanisme pengenaan pertanggungjawaban pidana seperti apa sesun gguhnya \nyang dimohonkan oleh Pemohon. \nBahwa lebih lanjut ketidakjelasan petitum permohonan Pemohon a quo \nsemakin nyata dalam rumusan petitum permohonan Pemohon angka 4 yang \nmemohon ketentuan dalam norma Pasal 326 ayat (1) UU 20/2025 dim aknai \n“Pertanggungjawaban atas tindak pidana oleh Korporasi dikenakan  terhadap \nKorporasi dan/atau penanggung jawab Korporasi.” Dalam hal ini, Pemohon tidak \nlagi sekadar memohon agar pemaknaan kumulatif dinyatakan berten tangan \ndengan UUD NRI Tahun 1945 atau kata “dan” dinyatakan inkonstitu sional secara \nbersyarat, melainkan rumusan petitum permohonan Pemohon angka 4  s e c a r a  \n\n \n \n \n21\neksplisit memohon Mahkamah memberikan pemaknaan terhadap keselu ruhan \nnorma Pasal 326 ayat (1) UU 20/2025, yakni menggunakan frasa “d an/atau”. \nPadahal, apabila yang menjadi persoalan sebagaimana rumusan pet itum \npermohonan Pemohon angka 2 adalah kewajiban pertanggungjawaban secara \nkumulatif, hal tersebut tidak dengan sendirinya hanya terdapat satu kemungkinan \npemaknaan setelah pemaknaan tersebut dinyatakan inkonstitusiona l, apalagi \nmenjadi frasa “dan/atau”. Pemohon tidak menguraikan dalam petit umnya \nhubungan yang niscaya antara dinyatakannya pemaknaan kumulatif bertentangan \ndengan UUD NRI Tahun 1945 dengan keharusan mengganti kata “dan”  menjadi \nfrasa “dan/atau”, sehingga rumusan petitum permohonan Pemohon a ngka 4 \nmemuat konsekuensi hukum yang lebih jauh daripada yang secara l angsung \ndimohonkan dalam rumusan petitum permohonan Pemohon angka 2. Se lain itu, \napabila rumusan petitum permohonan Pemohon angka 3 dan petitum angka 4 \ndibaca secara bersama-sama, terdapat pula ketidakjelasan mengen ai bentuk \npemaknaan yang sesungguhnya dikehendaki oleh Pemohon. Dalam rum usan \npetitum permohonan Pemohon angka 3, Pemohon meminta agar frasa “dan” \ndinyatakan tidak mempunyai kekuatan hukum mengikat secara bersy arat \nsepanjang tidak dimaknai menjadi “dan/atau”, sedangkan dalam ru musan petitum \npermohonan Pemohon angka 4, Pemohon meminta agar keseluruhan norma Pasal \n326 ayat (1) UU 20/2025 dimaknai menjadi “dan/atau”. Dengan dem ikian, tidak \njelas apakah rumusan petitum permohonan Pemohon angka 4 dimaksu dkan \nsebagai konsekuensi hukum dari rumusan petitum permohonan Pemohon angka 3 \nsebagai penegasan atas petitum tersebut, ataukah sebagai rumusa n petitum \npermohonan yang berdiri sendiri. Ketidakjelasan demikian menjad i persoalan \nkarena apabila kata “dan” dinyatakan tidak mempunyai kekuatan hukum mengikat \nsecara bersyarat, perlu ditentukan secara pasti bagaimana norma  Pasal 326 ayat \n(1) UU 20/2025 selanjutnya berlaku setelah putusan Mahkamah diu capkan. \nSebaliknya, apabila Mahkamah memberikan pemaknaan menjadi “dan/ atau” \nsebagaimana yang dimohonkan dalam rumusan petitum permohonan Pe mohon \nangka 4, perlu pula terdapat dasar konstitusional yang jelas yang menghubungkan \npemaknaan tersebut dengan persoalan konstitusionalitas norma Pasal 326 ayat (1) \nUU 20/2025 a quo , sehingga dapat diketahui alasan mengapa pemaknaan \n“dan/atau” tersebut merupakan pemaknaan yang dikehendaki dan re levan untuk \ndiberlakukan terhadap norma Pasal a quo. \n\n \n \n \n22\nBahwa demikian halnya dengan rumusan petitum permohonan Pemohon \nangka 5 yang memohon Mahkamah menyatakan bahwa pengaturan \npertanggungjawaban pidana merupakan bagian dari hukum pidana ma teriil yang \nharus ditafsirkan selaras dengan Pasal 49 Undang-Undang Nomor 1  Tahun 2023 \ntentang Kitab Undang-Undang Hukum Pidana sebagaimana telah diub ah dengan \nUndang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana (UU  1/2026). \nRumusan petitum demikian tidak memberikan kejelasan mengenai ak ibat hukum \nyang secara konkret dikehendaki oleh Pemohon. Lebih lanjut, Pemohon tidak pula \nmerumuskan bentuk pemaknaan terhadap norma Pasal 326 ayat (1) U U 20/2025 \nyang harus diberlakukan sebagai konsekuensi dari keharusan menafsirkan norma \nPasal a quo  selaras dengan norma Pasal 49 UU 1/2026. Selain itu, rumusan \npetitum permohonan Pemohon angka 5 juga tidak mempertautkan sec ara jelas \nhubungan normatif antara norma Pasal 326 ayat (1) UU 20/2025 de ngan norma \nPasal 49 UU 1/2026, terlebih ketika diperhadapkan dengan rumusa n petitum \npermohonan Pemohon angka 2, petitum angka 3, dan petitum angka 4 yang \nmasing-masing memohon pemaknaan terhadap kata “dan”, serta fras a “dan/atau” \nmengenai pertanggungjawaban pidana korporasi dan penanggung jaw ab \nkorporasi. Dengan demikian, menjadi tidak jelas apakah rumusan petitum \npermohonan Pemohon angka 5 dimaksudkan sebagai dasar yang melan dasi \npemaknaan yang dimohonkan dalam rumusan petitum permohonan Pemo hon \nangka 2 sampai dengan petitum angka 4, sehingga menjadi konseku ensi hukum \ndari pemaknaan sebagaimana yang dimohonkan oleh Pemohon, atau s ebagai \npenegasan/postulat yang berdiri sendiri. Bahkan, apabila petitu m permohonan \nPemohon angka 5 dimaksudkan sebagai dasar untuk membentuk konst ruksi \npertanggungjawaban pidana yang berbeda, tidak jelas hubungan lo gis dan yuridis \nantara rumusan petitum permohonan Pemohon angka 5 dengan petitu m angka 2 \nsampai dengan petitum angka 4, sehingga keseluruhan rumusan pet itum \npermohonan a quo tidak memberikan batas yang pasti mengenai konstruksi norma \nyang sesungguhnya dimohonkan oleh Pemohon. Terlebih, rumusan pe titum \npermohonan Pemohon angka 5 justru menimbulkan ketidakpastian me ngenai \ndasar normatif yang sesungguhnya digunakan Pemohon untuk memint a \nperubahan pemaknaan dari kata “dan” menjadi frasa “dan/atau” da lam ketentuan \nnorma Pasal 326 ayat (1) UU 20/2025 dengan Pasal 49 UU 1/2026. \n\n \n \n \n23\nBahwa berdasarkan uraian fakta hukum dan pertimbangan hukum \ntersebut di atas, oleh karena uraian alasan-alasan permohonan ( posita) tidak \nsecara jelas dan memadai menguraikan pertentangan antara norma yang \ndimohonkan pengujian dengan pasal-pasal dalam UUD NRI Tahun 194 5 yang \ndijadikan dasar pengujian serta rumusan petitum yang kontradiktif dan tidak lazim, \nsebagaimana diuraikan tersebut di atas, tidak ada keraguan bagi Mahkamah untuk \nmenyatakan permohonan Pemohon adalah tidak jelas atau kabur (obscuur).  \n[3.4] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, meskipun Mahkamah berwenang mengadili permoho nan \nPemohon, namun oleh karena permohonan tidak jelas atau kabur (obscuur) maka \nMahkamah tidak mempertimbangkan lebih lanjut permohonan Pemohon. \n[3.5]  Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 713,
+      "end_line": 894
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an",
+      "start_line": 896,
+      "end_line": 896
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1]  Mahkamah berwenang mengadili permohonan a quo; \n[4.2]  Permohonan Pemohon tidak jelas atau kabur (obscuur); \n[4.3]  Permohonan Pemohon tidak dipertimbangkan lebih lanjut.   \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Nega ra \nRepublik Indonesia Nomor 5076). \n \n\n \n \n \n24",
+      "start_line": 898,
+      "end_line": 915
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggot a, Saldi Isra,  \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Lili ek Prisbawono Adi, masing-masi ng sebagai \nAnggota, pada hari Senin, tanggal tiga puluh satu, bulan Agustus, tahun dua ribu \ndua puluh enam yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \nterbuka untuk umum pada hari Senin, tanggal tujuh, bulan September, tahun dua \nribu dua puluh enam, selesai diucapkan pukul 10.02 WIB oleh delapan Hakim \nKonstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggota, Sal di Isra,  Daniel \nYusmic P. Foekh, Enny Nurbaningsih, Ridwan Mansyur, Arsul Sani,  Adies Kadir, \ndan Liliek Prisbawono Adi, masing -masing sebagai Anggota, dengan dibantu oleh \nFenny Tri Purnamasari sebagai Panitera Pengganti, serta dihadir i oleh Pemohon \ndan/atau kuasanya, Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden \natau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \n \nttd. \n \nSaldi Isra \n \nttd. \n \nDaniel Yusmic P. Foekh  \nttd. \n \nEnny Nurbaningsih \nttd. \n \nRidwan Mansyur \n\n \n \n \n25\n ttd. \n \nArsul Sani \nttd. \n \nAdies Kadir \n ttd. \n \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nFenny Tri Purnamasari",
+      "start_line": 917,
+      "end_line": 968
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Andri Yanto, S.H.",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Valdo Wira Dwiputra Madianung, S.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Aldi Rizki",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana"
+    ],
+    "constitutional_articles": [
+      "Pasal 28G ayat (1)",
+      "Pasal 28D ayat (2)",
+      "Pasal 28D ayat (1)",
+      "Pasal 27 ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 24C ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 30 hur",
+      "Pasal 24 ayat (2)",
+      "Pasal 24C"
+    ],
+    "procedural_articles": [
+      "Pasal 49",
+      "Pasal 36 ayat (3)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-7",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "REFERENSI:290/PUU-XXIV/2026",
+      "REFERENSI:01/SKK-TJR/VII/2026",
+      "REFERENSI:290/PUU/PAN.MK/AP3/07/2026",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:001/SK.PD/APU/VIII/2025",
+      "REFERENSI:20/2025yangharusdiberlakukansebagaikonsekuensidarikeharusanmenafsirkannormaPasalaquoselarasdengannormaPasal49UU1/2026",
+      "REFERENSI:20/2025dengannormaPasal49UU1/2026",
+      "REFERENSI:20/2025denganPasal49UU1/2026",
+      "REFERENSI:006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Fenny Tri Purnamasari"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "290/PUU-XXIV/2026",
+      "01/SKK-TJR/VII/2026",
+      "290/PUU/PAN.MK/AP3/07/2026",
+      "11/PUU-V/2007",
+      "001/SK.PD/APU/VIII/2025",
+      "20/2025yangharusdiberlakukansebagaikonsekuensidarikeharusanmenafsirkannormaPasalaquoselarasdengannormaPasal49UU1/2026",
+      "20/2025dengannormaPasal49UU1/2026",
+      "20/2025denganPasal49UU1/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "290/PUU-XXIV/2026",
+      "01/SKK-TJR/VII/2026",
+      "290/PUU/PAN.MK/AP3/07/2026",
+      "11/PUU-V/2007",
+      "001/SK.PD/APU/VIII/2025",
+      "20/2025yangharusdiberlakukansebagaikonsekuensidarikeharusanmenafsirkannormaPasalaquoselarasdengannormaPasal49UU1/2026",
+      "20/2025dengannormaPasal49UU1/2026",
+      "20/2025denganPasal49UU1/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

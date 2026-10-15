@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_15012_1790668775.pdf",
+    "file_name": "putusan_mkri_15012_1790668775.pdf",
+    "page_count": 18,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15012_1790668775.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "323/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "323/PUU/PAN.MK/AP3/08/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-29",
+    "decision_date_raw": "dua puluh sembilan , bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "PUTUSAN \nNOMOR 323/PUU-XXIV/2026",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 13 Tahun 2003 tentang Ketenagakerjaan terhadap Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:  \nNama : Donaldy Christian Langgar \nPekerjaan : Karyawan Swasta \nAlamat : Jalan Bambu Kuning Nomor 1, RT.1/RW. 4, Pondok \nBetung, Pondok Aren, Tangerang Selatan, Banten. \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \n Mendengar keterangan Pemohon;  \n Memeriksa bukti-bukti Pemohon.",
+      "start_line": 4,
+      "end_line": 16
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal      \n28 Agustus 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada tanggal 28 \nAgustus 2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomo r \n323/PUU/PAN.MK/AP3/08/2026 dan telah dicatat dalam Buku Registr asi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 323/PUU- XXIV/2026 \npada tanggal 28 Agustus 2026, yang telah diperbaiki dengan perbaikan permohonan \nbertanggal 17 September 2026 dan diterima Mahkamah pada tanggal 17 September \n2026 pukul 14.03 WIB, pada pokoknya menguraikan hal-hal sebagai berikut: \nI. Kewenangan Mahkamah Konstitusi",
+      "start_line": 18,
+      "end_line": 26
+    },
+    {
+      "heading": "1. Bahwa berdasarkan ketentuan Pasał 24 ayat (2) UUD NRI Tahun 1945,",
+      "slug": "1-bahwa-berdasarkan-ketentuan-pasa-24-ayat-2-uud-nri-tahun-1945",
+      "text": "berbunyi: ”Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada di bawahnya dałam lingkungan peradi lan umum, \n\n\n \n 2 \nlingkungan peradilan agama, lingkungan peradilan militer, lingk ungan peradilan \ntata usaha negara, dan oleh sebuah Mahkamah Konstitusi”.",
+      "start_line": 28,
+      "end_line": 35
+    },
+    {
+      "heading": "2. Bahwa Pasal 24C ayat (1) UUD Tahun 1945, yang berbunyi:",
+      "slug": "2-bahwa-pasal-24c-ayat-1-uud-tahun-1945-yang-berbunyi",
+      "text": "\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan terakhir \nyang putusannya bersifat finał untuk menguji Undang-Undang terhadap Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945”.",
+      "start_line": 37,
+      "end_line": 39
+    },
+    {
+      "heading": "3. Bahwa ketentuan Pasal 10 ayat (1) huruf a, yang berbunyi:",
+      "slug": "3-bahwa-ketentuan-pasal-10-ayat-1-huruf-a-yang-berbunyi",
+      "text": "\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an terakhir \nyang putusannya bersifat finał untuk: \na. Menguji Pasał 155 ayat (2) UU No. 13 Tahun 2003, yang berbun yi: \"Selama \nputusan lembaga penyelesaian perselisihan hubungan industrial b elum \nditetapkan, baik pengusaha maupun pekerja/buruh harus tetap melaksanakan \nsegala kewajibannya” terhadap UUD Tahun 1945, yaitu: Pasał 28D ayat (1) \nUUD NRI Tahun 1945 yang berbunyi: ”Setiap orang berhak atas pen gakuan, \njaminan, perlindungan, dan kepastian hukum yang adil serta perl akuan yang \nsama di hadapan hukum. Dan, Pasał 28H ayat (2) UUD NRI Tahun 19 45 \nberbunyi: \"Setiap orang berhak atas kemudahan dan perlakuan khusus untuk \nmemperoleh kesempatan dan manfaat yang sama guna mencapai persamaan \ndan keadilan”. Serta, Pasal 28J ayat (1) UUD NRI Tahun 1945 ber bunyi: \n\"Setiap orang wajib menghormati hak asasi manusia orang Iain da lam tertib \nkehidupan, bermasyarakat, berbangsa, dan bernegara”.",
+      "start_line": 41,
+      "end_line": 54
+    },
+    {
+      "heading": "4. Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48 Tahun 2009 tentang",
+      "slug": "4-pasal-29-ayat-1-huruf-a-undang-undang-nomor-48-tahun-2009-tentang",
+      "text": "Kekuasaan Kehakiman, yang berbunyi: \"Mahkamah Konstitusi berwen ang \nmengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk: \na. menguji undang-undang terhadap Undang-Undang Dasar Negara Re publik \nIndonesia Tahun 1945;'' serta Pasal 9 ayat (1) Undang-Undang No . 13 Tahun \n2022 tentang Perubahan Kedua atas Undang-Undang No. 12 Tahun 20 11 \ntentang Pembentukan Peraturan Perundang-Undangan yang berbunyi:  \"Dalam \nhal suatu undang-undang diduga bertentangan dengan UUD 1945, pengujiannya \ndilakukan oleh Mahkamah Konstitusi\".",
+      "start_line": 56,
+      "end_line": 63
+    },
+    {
+      "heading": "5. Bahwa Pasal 1 angka 8 Peraturan Mahkamah Konsitusi Nomor 7 Tahun 2025",
+      "slug": "5-bahwa-pasal-1-angka-8-peraturan-mahkamah-konsitusi-nomor-7-tahun-2025",
+      "text": "tentang Tata Beracara Dalam Perkara Pengujian Undang-Undang, ya ng \nberbunyi: \"Pemeriksaan pendahuluan adalah sidang yang dilaksana kan untuk \nmenyampaikan pokok-pokok Permohonan, memeriksa kelengkapan dan \n\n \n 3 \nkejelasan materi permohonan, memeriksa perbaikan permohonan, se rta \nmengesahkan alat bukti Pemohon, dan Pasal 2 ayat (1) yang berbu nyi: \"Obyek \nPermohonan PUU adalah undang-undang dan Perppu. Maka, obyek per baikan \npermohonan”: Pasal 155 ayat (2) UU No. 13 Tahun 2003 terhadap U UD NRI \nTahun 1945. Dengan demikian, Mahkamah Konstitusi berwenang untu k \nmelakukan pengujian atas Pasal a quo yang dijadikan instrumen hukum terhadap \nUUD NRI Tahun 1945.",
+      "start_line": 65,
+      "end_line": 77
+    },
+    {
+      "heading": "6. Bahwa Pemohon berharap Mahka mah Konstitusi mengadili perbai kan",
+      "slug": "6-bahwa-pemohon-berharap-mahka-mah-konstitusi-mengadili-perbai-kan",
+      "text": "permohonan a quo yang mana permohonan Pemohon a quo adalah permohonan \npengujian konstitusionalitas Pasal 155 ayat (2) UU No. 13 Tahun  2003 tentang \nKetenagakerjaan (Bukti P-1). \nII. Kedudukan Pemohon (atau “legal standing”)",
+      "start_line": 79,
+      "end_line": 82
+    },
+    {
+      "heading": "1. Bahwa berdasarkan Pasal 51 ayat (1) UU Nomor 24 Tahun 2003 t entang",
+      "slug": "1-bahwa-berdasarkan-pasal-51-ayat-1-uu-nomor-24-tahun-2003-t-entang",
+      "text": "Mahkamah Konstitusi menyatakan: \"Pemohon adalah pihak yang dan/ atau \nkewajiban konstitusionalnya dirugikan dengan berlakunya Undang- Undang, \nyaitu: \nA. Pemohon adalah perorangan warga negara Indonesia (WNI) sebagai Pencari \nKeadilan.",
+      "start_line": 84,
+      "end_line": 88
+    },
+    {
+      "heading": "2. Bahwa sejak Putusan Mahkamah K onstitusi Nomor 006/PUU-III/2005 tanggal 31",
+      "slug": "2-bahwa-sejak-putusan-mahkamah-k-onstitusi-nomor-006-puu-iii-2005-tanggal-31",
+      "text": "Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-V/2007 tanggal 20 \nSeptember 2007, serta putusan-putusan selanjutnya, Mahkamah ber pendirian \nbahwa kerugian hak dan/atau kewenangan konstitusional sebagaima na \ndimaksud dalam Pasal 51 ayat (1) UU Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi harus memenuhi 5 syarat, yaitu: \nA. Pemohon.  \nBahwa Pemohon mendapat putusan dari Pengadilan Negeri dengan Nomor 259/ \nPdt.G/2022/PN.Jkt.Pst. yang mana Putusan Nomor 340/Pdt.Sus-PHI/ 2020/ \nPN.Jkt.Pst. diketahui subyek yang sama. Dalam putusan yang seba gian \ndikabulkan tentang upah kurang. Putusan itu berisi PHK dan pemb ayaran upah \nkurang sebesar Rp. 1.020.500. Upah proses selama 6 bulan karena  d i  P H K  \ndikabulkan dalam perkara Nomor 259/Pdt.G/2022/PN.Jkt.Pst., yang  mana \nsebagai pekerja listrik tegangan rendah dan mesin penyejuk udar a telah \nmelaporkan ke Disnakertrans tentang perusahaan perseorangan mem bayar \n\n \n 4 \nupah kurang. Serta, perusahaan itu tidak pernah hadir dalam med iasi dan \npersidangan PHI. Sebagai Pencari Keadilan [Pasal 4 ayat (2) UU No. 48 Tahun \n2009] tidak diijin untuk bekerja sejak laporan itu, yang mana h asil putusan itu \nberkaitan dengan pekerjaan kelistrikan yang menunjang listrik tegangan rendah \nwalaupun tanda kelulusan di bidang kelistrikan selama 3 tahun diperoleh secara \nlegal dan memenuhi dasar ilmu listrik. \nB. Kerugian Konstitusional Pemohon.  \nBahwa Pasal 155 ayat (2) UU Nomor 13 Tahun 2003 \"Selama putusan lembaga \npenyelesaian perselisihan hubungan industrial belum ditetapkan,  b a i k  \npengusaha maupun pekerja/buruh harus tetap melaksanakan segala \nkewajibannya\". Upah proses sebagai frasa yang implisit itu dike tahui secara \numum dan mengikat pihak-pihak yang berperkara dalam persidangan  yang \nterbuka untuk umum. Pasal a quo tidak menyebutkan frasa itu secara eksplisit, \npenyelesaian perselisihan hak atau PHK dapat berlangsung dengan  \nkesepakatan dalam bentuk pemberian kasih sayang atau hadiah yan g disebut \nupah proses. Pasal a quo  yang aspiratif berlaku tak mungkin tanpa syarat \nmengatur kurun waktu untuk memperoleh upah itu, yang mana upah proses itu \nsecara sukarela diberlakukan dengan syarat dan tanpa syarat tet ap \nmempekerjakan dan dipekerjakan selama 6 bulan sampai putusan pe ngadilan. \nJika dengan syarat, jaminan atas perlindungan dari Pasal a quo bertentangan \ndengan Pasal 28D ayat (1) UUD NRI Tahun 1945. \nC. Kerugian konstitusional Pemohon yang spesifik dan aktual.  \nBahwa upah proses dengan syarat dipastikan tak tuntas. Sebelum penetapan \ndan putusan pengadilan, frasa upah proses yang implisit itu dig olongkan hasil \npemeriksaan oleh pengadilan TUN (Bukit P-2). Substansi dari Pas al a quo  \nadalah upah proses yang implisit itu untuk berupaya pencegahan PHK selama \nperselisihan sampai di pengadilan tidak menunggu putusan BHT. P erusahaan \ntidak menjamin pemberian upah itu di luar putusan pengadilan ka rena \nperusahaan tidak selalu mengupayakan perjanjian dengan syarat k erja \nwalaupun perjanjian kerja waktu tertentu berdurasi pendek. Syar at formiil dari \nhubungan industrial tidak berunsur memadamkan api. Tindakan unt uk \nmenghindar dari bahaya dalam Put usan PHI No. 340/Pdt.Sus-PHI/20 20/ \nPN.Jkt.Pst (Bukti P-2) diketahui dengan kesigapan untuk memadam kan api. \nUnsur mempekerjakan dan dipekerjakan harus memenuhi jenis peker jaan. \n\n \n 5 \nPerlindungan dengan kondisi kesepakatan pemberian itu atau hadi ah \ndimungkinkan dalam kondisi diakhiri jika perusahaan tidak berke inginan untuk \nmusyawarah. Frasa yang implisit itu dimungkinkan untuk diberlak ukan dengan \neksekusi setelah putusan BHT. Tak tuntas eksekusi yang berdasar kan HIR, \njaminan kewajiban eksekusi putusan BHT atas upah proses yang tertunda tidak \nmelindungi bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun  1945. \nPenundaan keadilan tidak memudahkan untuk memperoleh upah itu, penundaan \nitu tidak mencapai persamaan sesuai dengan hukum materiil yang bertentangan \ndengan Pasal 28H ayat (2) UUD NRI Tahun 1945. Hak konstitusiona l sesuai \ndengan putusan pengadilan merupakan hak asasi yang harus dihorm ati, \neksekusi yang tak tuntas tanpa kepastian hukum bertentangan den gan Pasal \n28J ayat (1) UUD NRI Tahun 1945. \nD. Sebab dan Akibat (hubungan kausalitas). \nBahwa frasa yang implisit dalam Pasal a quo tidak memudahkan pelaksanaan \neksekusi, yang mana hak atas norma undang-undang itu merupakan hak \nkonstitusional. Walaupun putusan pengadilan berkekuatan hukum t etap, \neksekusi sejumlah uang yang sesuai dengan perintah pengajuan pe rmohonan \nsita eksekutorial tidak dilaksanakan secara tuntas karena hambatan unsur formiil \nyang berupa syarat. Keadilan yang tertunda tanpa sukarela berak ibat tidak \nmencapai persamaan dan keadilan. Kewajiban yang timbul untuk me lakukan \neksekusi yang tuntas dihambat oleh unsur formiil karena frasa i tu hanya tersirat \ndalam Pasal a quo . Manfaat upah proses untuk kelangsungan hidup tidak \nmencapai persamaan dan keadilan, serta hak asasi tidak dihormat i untuk \nmemperoleh upah proses. \nE. Pemulihan yang Potensial.  \nBahwa upah proses yang implisit itu merupakan sebuah ganjaran y ang \nmenimbulkan kewajiban tanpa pelaksanaan eksekusi lanjutan. Unsu r formiil \nyang tak transparan dan berunsur prosedural yang internal mengabaikan hükum \nyang substansi. Kaitan memadamkan api tanpa kesepakatan kerja i tü \nmenghasilkan api yang padam. Bahaya kebakaran dihindari dan tak berdampak \npada lingkungan sekitar. limu hukum yang berisi sumber formal i tu telah \ndipraktekkan dan unsur paksaan mewajibkan pembayaran upah proses. Sampai \nputusan pengadilan adalah upaya terakhir dengan dampak pelaksan aan norma \n\n \n 6 \nPasal a quo yang berakhir. Eksekusi dengan kewenangan berdasarkan moral \nsaja tanpa kewajiban untuk menuntaskan sesuai dengan koordinasi. \nIII. Alasan (Posita) \nUmum \nBahwa Putusan MK Nomor 37/PUU-IX/2011 tentang upah proses itu m enunggu \nputusan pengadilan, dan pemisahan UU Ciptaker dari UU Nomor 13 Tahun 2003. \nDengan perjanjian bersama dimungkinkan untuk disepakati pembaya ran upah \nproses selama 6 bulan sejak penyelesaian perselisihan. Jika pen etapan upah itu \ndimulai sejak mediasi di Disnakertrans, waktu selama 30 hari da n persidangan \nselama 5 bulan ditentukan upah proses yang BHT. Ketidakadilan i tu berlangsung \nketika pekerja tidak diperbolehkan kerja dan terdapat etika tak baik dari perusahaan \nuntuk membayar upah proses selama proses penyelesaian perselisi han. Tanpa \nsukarela tidak memungkinkan upah proses dibayarkan sesuai dengan Pasal a quo. \nSukarela harus dilakukan tanpa syarat, tetapi hubungan industri al menggolongkan \njenis pekerjaan sebagai syarat. Pekerja penunjang listrik harus sigap ketika bahaya \nyang terkait listrik. Pilihan kerja untuk memadamkan api tidak diatur dalam hubungan \nindustrial, tetapi terkait tindakan sukarela atau hadiah tanpa syarat. \nBahwa putusan pengadilan dapat tak dihadiri oleh pihak yang dit etapkan sebagai \npembayar upah itü dengan putusan \"ultra petita” yaitu PHK ketika perusahaan tidak \npernah hadir dalam musyawarah sampai putusan pengadilan PHI. De ngan \npembayaran upah kurang yang sebagian tanpa permohonan eksekusi sejumlah \nuang itu, pekerja dimungkinkan untuk melakukan gugatan di perad ilan perdata \numum untuk memperoleh upah itu ketika PHK ditetapkan tanpa diminta. Perusahaan \nyang mangkir tidak beretika baik  untuk bayar upah itu. Maka, gu gatan atas upah \nyang implisit itu diajukan oleh pekerja yang memadamkan api dan  dikabulkan \nbersama upah yang ditetapkan dalam undang-undang secara implisi t itu. Unsur \nkesepakatan dengan upah itu diperlukan, sehingga tanpa etika baik dari perusahaan \ndiajukan gugatan di lingkup peradilan perdata umum. Sehingga, Ganjaran (”reward”) \ndalam memadamkan api harus diajukan gugatan yang berisi upah ya ng implisit itu \nyang dikabulkan sebagian dalam lingkup perdata umum. Upah proses itu dikabulkan \ndalam putusan pengadilan. Pelaksanaan yang sukarela dikehendaki  u n t u k  \nmematuhi putusan pengadilan, yang mana obyek PHI juga telah sel esai dengan \nkekurangan upah yang sebesar Rp. 1.020.000 yang diberikan tanpa  permohonan \ndan perlawanan. \n\n \n 7 \nKesempatan kerja yang sesuai dengan Pasal a quo tidak diijinkan. Sesuai dengan \nasas cepat, jangka waktu putusan pengadilan yang berisi upah pr oses itu sejak \ntahun 2022 tidak menghasilkan keadilan ketika Pasał a quo  bersyarat jenis \npekerjaan. Eksekusi untuk sejumlah uang itu diketahui di luar k esepakatan yang \nberunsur sukarela. \nBahwa obyek gugatan dałam memadamkan api tidak digolongkan obye k \nperselisihan hubungan industrial. Walaupun disebut upah memadam kan api, \nkemungkinan alokasi anggaran perusahaan belum dibuat transparan . Sedangkan, \nupala proses digolongkan upah yang standar yang mana termasuk b iaya \noperasional yang dikenakan pajak dari total pemasukan perusahaa n. Frasa yang \nimplisit itu dan upah memadamkan api berkorelasi ketika upah it u diatur secara \nimplisit dengan obyek di luar PHI dengan unsur sukarela, yang m ana Putusan \nPengadilan No. 259/Pdt.G/2022/PN.Jkt.Pst. (Bukti P-2) diajukan. Paksaan yang tak \nmungkin ketika frasa yang implisit itu dengan unsur sukarela ha nya melengkapi \ntanpa kesepakatan dari perusahaan. Pembuktian positif diperguna kan sesuai \ndengan makna yang implisit yang terkait upah untuk memadamkan a pi. Aspirasi \ndengan asas perwakilan itu disirat dałam Pasał a quo  tentang pelaksanaan \npenyelesaian perselisihan PHK dengan hak yang timbul. Kewajiban  untuk \nmengakhiri perselisihan dengan tahapan musyawarah sampai sebelu m putusan \npengadilan yang BHT. Upaya yang diwajibkan untuk melaksanakan eksekusi sesuai \ndengan HIR ketika etika tak baik dilakukan bertahap setelah per mohonan. \nKewenangan yang subyektif dari pengadilan tidak lengkap jika dibandingkan dengan \nUU, maka proses eksekusi putusan upah proses itu dipraktekkan d i kantor \nwalikotamadya yang mungkin tak diketahui oleh Termohon eksekusi  tanpa biaya. \nPasał a quo  yang berisi frasa yang implisit diberlakukan dengan syarat jen is \npekerjaan. Penundaan menghasilkan tak tuntas dałam kurun waktu eksekusi, \njaminan atas perlindungan yang sama untuk memperoleh upah proses yang implisit \ndengan syarat bertentangan dengan Pasał 28D ayat (1) UUD NRI Tahun 1945. \nBahwa etika baik untuk menghormati hak asasi orang lain tidak d ipatuhi oleh \nTermohon eksekusi secara sukarela. Tak hadir ketika dipanggil o leh pengadilan \ndiperintah sebagai syarat eksekusi secara formiil yaitu keterangan ahli waris. Kantor \nDisdukcapil untuk menerangkan perihal data kependudukan yang te rkait dengan \nhubungan keluarga dałam data kependudukan. Tetapi, kebuntuan ad ministrasi \nterjadi ketika informasi data hubungan itu dirahasiakan. Serta,  Pasał 2 huruf e UU \n\n \n 8 \nNo. 5 Tahun 1986 tentang kewenangan pengadilan TUN tidak berwen ang \nmemeriksa hasil pemeriksaan, yang mana obyek kebijakan TUN meme rintahkan \nketerangan ahli waris untuk memanggil ahli waris dari perusahaan yang berasaskan \ndepersonifikasi. Kepastian hukum tentang upah proses tanpa syarat tidak diketahui \nketika upah itu hanya tersirat secara normatif yang fakultatif.  Upaya untuk \nmemperoleh upah proses yang sebagai pelengkap itu disyaratkan o leh undang-\nundang dengan kewajiban mempekerjakan dan dipekerjakan berarti jenis pekerjaan \nditetapkan sebagai syarat. Pengadilan tidak memperhatikan unsur  sukarela itu \nsesuai dengan pembentukan norma upah proses itu yang aspiratif.  Penundaan \ndiindikasikan oleh permohonan eksekusi diwajibkan dua tahap. Pe nundaan itu \nberdampak tak tuntas, eksekusi upah proses itu tidak dilindungi. Untuk memperoleh \nupah itu, penundaan tidak mencapai persamaan yang bertentangan dengan Pasał \n28H ayat (2) UUD NRI Tahun 1945. \nBahwa pencegahan api yang meluas ketika terjadi rambatan tidak digolongkan \ndałam kesepakatan karena berunsur sukarela. Begitupula, upala p roses yang logis \ntersirat dałam undang-undang berlaku walaupun tanpa kesepakatan. Memadamkan \napi walaupun tanpa kesepakatan diwajibkan bagi pekerja listrik untuk sigap. Unsur \nmemadamkan api dan upah proses berkaitan PHK di PHI itu yang diputuskan dałam \npersidangan tanpa diminta menghasilkan kekurangan upah yang dib ayarkan. \nSecara morał upah proses itu disidangkan ketika memadamkan api di luar hubungan \nindustrial tanpa kesepakatan seperti upah proses yang implisit dengan unsur upah \nmemadamkan api yang dikabulkan itu. Hak konstitusional untuk me mperoleh upah \nproses yang implisit melalui eksekusi sejumlah uang terhambat o leh syarat jenis \npekerjaan dalam hubungan industrial. Eksekusi yang tak tuntas t idak menghormati \nhak asasi untuk memperoleh upah proses yang implisit itu yang b erlaku dengan \ntanpa syarat secara hukum. Hak konstitusional sesuai dengan put usan pengadilan \nmerupakan hak asasi yang harus dihormati, eksekusi yang tak tun tas tanpa \nkepastian hukum bertentangan dengan Pasal 28J ayat (1) UUD NRI Tahun 1945. \nUpaya pencegahan \nBahwa \"AWAS TEGANGAN TINGGI\" sebagai peringatan bahaya dalam st andar \nkeselamatan kerja. Sigap dalam peraturan ketenagalistrikan diwa jibkan, sehingga \npekerja listrik harus berupaya untuk memperhatikan keselamatan.  Tanda atau \nrambu bahaya itu bagi pekerja diartikan secara sukarela untuk m ematuhi unsur \nformal ketika terjadi bahaya kebakaran. Salah satu bahaya adalah pemasangan stop \n\n \n 9 \nkontak dan tusuk kontak yang tak boleh longgar. Koherensi yang organik itu bermula \ndari pekerjaan penunjang listrik terdapat bahaya, sehingga peri ngatan bahaya itu \ndipatuhi secara sukarela. Upah proses itu secara implisit diper ingatkan secara \ntersirat agar dipatuhi secara sukarela. Ketika perusahaan mangk ir selama \npenyelesaian perselisihan, sukarela itu tidak dipatuhi. Selamat  dari bahaya, \nperusahaan itu harus memberikan penghargaan dalam mencegah baha ya \nkebakaran besar yang disebabkan oleh tegangan di setiap titik beban yang terbatas, \nyang mana longgar atau tak longgar tidak harus memeriksa. Ganja ran dari \npengadilan yang berupa putusan PHK dan disidangkan upah proses itu tidak \ndipisahkan dari unsur memadamkan api. Putusan pengadilan itu mengabulkan upah \nproses yang diabaikan di PHI. Dikabulkan upah proses yang beris i unsur \nmemadamkan itu (Bukti P-2), korelasi itu berhubungan. Syarat jenis pekerjaan tidak \nmemudahkan perolehan upah proses yang implisit itu yang diberla kukan secara \nhukum. \nBahwa sebagai pekerja telah menunjukkan bukti tanda kelulusan a tau ijasah di \nbidang kelistrikan dan penyejuk udara. Dengan rata-rata penghasilan Rp. 2.500.000",
+      "start_line": 90,
+      "end_line": 306
+    },
+    {
+      "heading": "di bawah UMR tahun 2020 di Kota Jakarta, biaya untuk membayar s ertifikasi",
+      "slug": "di-bawah-umr-tahun-2020-di-kota-jakarta-biaya-untuk-membayar-s-ertifikasi",
+      "text": "sebagai pekerja penunjang dalam ketenagalistrikan tidak memungk inkan dengan \nbiaya hidup dan transportasi. Pilihan kerja itu dengan bahayany a ketika \nmemadamkan api tidak memerlukan ijasah tetapi kesigapan. Peratu ran umum \ninstalasi listrik PUIL 2011 juga berkaitan dengan peringatan ba haya tentang \ntegangan listrik. Upaya memadamkan api tidak berhubungan dengan  j e n i s  \npekerjaan yang berdasarkan hubungan industrial. \nFakta hukum upah proses dengan putusan pengadilan \nBahwa subyek hukum dalam gugatan berkaitan erat dengan subyek h ukum dalam \nperkara PHI No. 340/Pdt.Sus-PH1/2 020/PN.Jkt.Pst., No. 286/Pdt.G /2021/PN. \nJkt.Pst., No. 580/Pdt.G/2020/PN.Jkt.Pst. yang mana pemilik/pengurus badan usaha \nitu telah meninggal. Generasi baru menggantikan kedudukan gener asi lama siapa \ntelah dipanggil untuk menghadiri \"Aanmaning\", tetapi pemilik/pengurus itu juga tidak \nhadir. Dasar hukum Pasal 54 ayat (1) dan (2) UU No. 48 Tahun 20 09 dibuatkan \npanggilan tetapi generasi baru itu tidak mematuhinya. Jaminan u ntuk memperoleh \nmanfaat upah proses itu yang tak berdasarkan asas cepat, sederh ana, dan biaya \nringan yang aspiratif dengan syarat tidak berdasarkan hukum kar ena penundaan. \n\n \n 10 \nPasal a quo yang berisi sukarela tanpa syarat bertentangan dengan Pasal 28D ayat \n(1) UUD NRI Tahun 1945. \nBahwa kepatuhan diwajibkan ketika upah proses itu ditetapkan se bagai hukuman \nkepada badan usaha perseorangan secara langsung dengan interpre tasi \ndepersonifikasi. Manusia dibandingkan secara langsung sebagai g enerasi baru \nyang mengurus badan usaha dan mewakili usaha itu yang dikenal s ebagai \nperusahaan. Kepentingan eksekusi yang saling untung tidak beri satu pihak dengan \nkepastian hukum yang adil ketika PHK tidak dapat dihindari. Jik a pekerja tidak \nmenerima upah proses dengan dasar kepastian hukum yang adil itu , untuk \nmencapai keadilan tidak berlangsung sesuai dengan asas cepat, s ederhana, dan \nbiaya ringan. Mengutamakan kepentingan yang implisit tanpa upah  p r o s e s  y a n g  \nsukarela menghasilkan penundaan untuk mengukur kepatuhan, tak t untas tidak \nmencapai persamaan dan keadilan yang bertentangan dengan Pasal 28H ayat (2) \nUUD NRI Tahun 1945. \nBahwa lembaga penyelesaian perselisihan dapat menetapkan secara  administratif \nupah proses, tetapi pembayaran upah itu dapat dilangsungkan sebelum penetapan \nitu. Sehingga, substansi dari penetapan itu tetap berkaitan den gan kesepakatan \ntetap mempekerjakan dan dipekerjakan dalam kurun waktu. Etika b aik dari \nperusahaan untuk mematuhi Pasal a quo  yang berisi frasa implisit yang berlaku \nsecara hukum dimungkinkan terlambat. PHK telah dijatuhkan tanpa  kehadiran \nperusahaan. Administrasi publik dengan prinsip asas umum pemeri ntah yang baik \ndidasarkan pada penetapan itu, lembaga pemerintahan itu berupay a untuk \nmemeriksa laporan warga yang terkait upah proses itu tetapi putusan pengadilan itu \ntelah ditetapkan. Sehingga, kewenangan eksekusi berada di penga dilan. Pasal          \na quo itu tidak berkorelasi dengan kewenangan pengadilan TUN, yang mana norma \nhukum itu secara logis dimungkinkan tetap tidak diberikan sampa i putusan \npengadilan yang BHT. \nBahwa Reformasi Birokrasi dimungkinkan untuk meminta keterangan  yang terkait \nwewenang pengadilan untuk koordinasi. Jenis pekerjaan juga dija dikan syarat \nwalaupun upah proses itu bersifat sukarela, asas prosedural saj a tidak \nmenghasilkan sinergi yang berdampak pengabaian Pasal a quo yang berisikan upah \nproses yang bermanfaat untuk kelangsungan hidup pekeria selama penyelesaian \nperselisihan PHK, yang mana secara prosedural butuh syarat jeni s pekerjaan. Hak \nkonstitusional sesuai dengan putusan pengadilan merupakan hak asasi yang harus \n\n \n 11 \ndihormati, eksekusi yang tak tuntas tanpa kepastian hukum berte ntangan dengan \nPasal 28J ayat (1) UUD NRI Tahun 1945. \nBahwa Pasal 155 ayat (2) UU Nomor 13 Tahun 2003 berisi norma kepastian hukum \nyang adil tentang upah proses. Putusan pengadilan itu berisi no rma yuridis yang \nbermanfaat bagi kelangsungan hidup. Putusan MK di tahun 2011 it u, dan \nyurisprudensi No. 1/Yur/PHI/2018 serta SEMA No. 3 Tahun 2015 me mbatasi \nkewajiban pengusaha untuk bayar upah proses selama 6 bulan dala m masa \npenyelesaian perselisihan itu. Dengan adanya norma upah proses itu, kepastian \nhukum yang adil diselaraskan oleh pembentukan frasa khusus yang  tanpa syarat. \nPemberlakuan tetap peraturan ketenagakerjaan dengan frasanya te ntang \npemberian upah proses, pemanfaatan sesuai dengan yurisdiksi tentang interpretasi \natau tafsir dengan batasan waktu selama di pengadilan. Serta, t ak bertentangan \nsecara hirarkis dan luas berlaku dari Norma itu disesuaikan den gan konvensi serta \nratifikasi, maka hak asasi untuk memperoleh upah proses dihorma ti. Jika \npemberlakuan Pasal a quo hanya berdasarkan asas prosedural dengan frasa yang \nimplisit tanpa sukarela, Pasal a quo  yang berisi norma yuridis itu bertentangan \ndengan UUD NRI Tahun 1945. \nFrasa yang implisit \nBahwa kondisi ekonomi dengan kewenangan pengadilan memutus sesu ai dengan \nantaryurisdiksi ( intra-jurisdiction), perusahaan yang kesulitan likuiditas \nmenyebabkan eksepsi kompetensi absolut yang mendorong hak \" ex officio \" dari \nhakim. Irisan kewenangan memeriksa frasa yang implisit didasark an kewenangan \npengadilan untuk memeriksa. Untuk bayar upah itu tidak dipatuhi  secara sukarela, \nmaka pengadilan perdata umum melangsungkan eksekusi dengan perm ohonan. \nDengan hukum acara ditetapkan eksekusi, sedangkan praktek admin istrasi yang \nlegal dan sah adalah kesempatan sampai sebelum penetapan. Sehingga, frasa yang \nimplisit menimbulkan ketidakpastian ketika penyelesaian perseli sihan harus \ndimohonkan eksekusi secara internal yang prosedural jika PHK te r j a d i  t i d a k  b e r i  \nkesempatan kerja selama penyelesaian itu. Pelayanan satu pintu dapat \nmemudahkan koordinasi putusan pengadilan yang berisi upah prose s yang implisit \nitu dan tanpa syarat. Tanpa upaya hukum di luar pengadilan PHI,  secara moral \npemberlakuan Pasal a quo  dengan hambatan yang berunsur formiil seperti tak \ndiijinkan kerja dan disertai putusan PHK tanpa diminta karena t ak berunsur \nmempekerjakan dan dipekerjakan bertentangan dengan UUD NRI Tahun 1945. \n\n \n 12 \nBahwa Perusahaan sebagai waiib paiak diketahui untuk menyesuaik an peraturan \natau putusan berkekuatan hukum tetap, yang mana di dalam prakte k diketahui \nperusahaan dibebani biaya operasional. Kewenangan daerah meluas dalam upaya \npenyelesaian itu ketika musyawarah berlangsung. Mediasi 30 hari akan menentukan \napakah perusahaan sanggup untuk bayar upah itu dalam proses PHK. Jangka waktu \npendek 21 hari kerja yang PKWT, Pekerja menjadi korban untuk menerima upah itu \nselama 6 bulan dengan kemungkinan putusan pengadilan melampaui 6 bulan dan \ntak bekerja atau menerima upah, serta eksekusi yang tak tuntas.  Seperti, Putusan \nNo. 259/Pdt.G/2022/PN.Jkt.Pst. sebagai bukti belum diterima sej umlah uang sejak \ntahun 2022. Pembentukan frasa khusus itu memudahkan kerja ketika unsur sukarela \nitu diharapkan, tetapi upah proses itu tidak mengikat secara mu tlak karena bersifat \npelengkap yang disertai syarat. \nBahwa tahap penyelesaian tidak mungkin tanpa eksekusi dengan pe rmohonan. \nHasil pemeriksaan lembaga pemerintahan dan putusan pengadilan h arus \ndiupayakan eksekusi dengan pemanfaatan sistem satu pintu. Doktr in non-delegasi \nitu menunjuk tugas pengadilan setelah berkekuatan hukum tetap. Asas sukarela \ntidak dipenuhi, sita eksekusi harus dilaksanakan. Tanpa proses pengadilan sebagai \nlembaga penegak hukum tidak menghasilkan kepatuhan untuk mematu hi Pasal        \na quo yang berisi frasa yang implisit. \nBahwa tanda kelulusan dengan kemampuan sebagai penunjang kelist rikan \nmemperoleh upah proses tanpa konflik hukum yang substantif, yai tu kewajiban \nbayar upah proses. Keadaan pekerja yang memadamkan api sebagai tindakan \npilihan tidak mempunyai hubungan korelasi secara langsung, teta pi makna yang \nimplisit itu terkait pada tindakan itu yang nyata. Jika selama 6 bulan diberikan \nsebagai upah dengan keadaan PHK dalam perjanjian PKWT selama minimal 21 hari \nkerja tidak beri perlindungan dengan perlakuan yang sama. Hak untuk memperoleh \nupah proses tetap diberikan walaupun berdurasi 21 hari. Upaya untuk memadamkan \napi di lokasi kerja adalah sebuah pilihan kerja. \nBahwa pilihan memadamkan api merupakan sebuah ganjaran ketika h imbauan \nuntuk memasang peralatan listrik dengan tusuk kontak agar tak l onggar tidak \ndilakukan secara terus-menerus. Tegangan yang menaik atau berku rang itu \ndiindikasikan oleh perubahan suhu  (KJ/kg 0 C).  Untuk itu, stop kontak dipastikan \nterjepit dengan erat. Ganjaran yang berupa frasa upah proses ya ng implisit \nditekankan setelah berkekuatan hukum tetap, sedangkan lama kerj a diketahui \n\n \n 13 \nselama 21 hari kerja dengan pilihan memadamkan api. Keadaan ini  dapat ditemui \ndalam pekerjaan penunjang kelistrikan dengan kemungkinan rusak dan diperbaiki \nketika arus hubung pendek atau arus hubung singkat. Dalam keada an listrik tidak \nmenyala, tindakan nyata yang cepat dan sederhana adalah dengan perbaikan \nsegera agar manfaat penerangan ditingkatkan. Frasa yang implisi t itu tidak \nbermanfaat ketika pilihan itu mencegah kebakaran yang meluas, maka keadilan tak \ntercapai bertentangan dengan UUD 1945. Frasa yang implisit itu diwajibkan untuk \ndibayarkan selama penyelesaian perselisihan sampai dengan putus an pengadilan \nsesuai dengan keyakinan yang logis karena berunsur sukarela. \nBahwa upah proses tidak dipertimbangkan oleh pengadilan jika permintaan upah itu \ntidak dicantumkan dalam gugatan. Kewajiban sesuai dengan Pasal a quo  \ndiembankan kepada perusahaan, tetapi paksaan tidak memungkinkan . Secara \nhukum formal pelaksanaan pemberian upah itu berdasarkan kebiasa an dalam beri \nsesuatu, berbuat sesuatu, dan tidak berbuat sesuatu. Maka, tanp a etika baik untuk \nbayar upah proses tidak memungkinkan perlindungan dengan perlakuan yang sama \ndalam pelaksanaan norma hukum yang implisit dengan unsur sukare la sesuai \ndengan rezim hukum formal. \nIV. Permohonan Pemohon untuk diputuskan (Petitum). \nBerdasarkan alasan-alasan tersebut di atas, Pemohon memohon kep ada \nMahkamah Konstitusi untuk memeriksa perbaikan permohonan dan me njatuhkan \nputusan uji materiil sebagai berikut:",
+      "start_line": 308,
+      "end_line": 458
+    },
+    {
+      "heading": "2. Menyatakan materi muatan isi Pasal 155 ayat (2) UU No.13 Tahun 2003 tentang",
+      "slug": "2-menyatakan-materi-muatan-isi-pasal-155-ayat-2-uu-no-13-tahun-2003-tentang",
+      "text": "Ketenagakerjaan (Lembaran Negara  Nomor 39, serta Tambahan Lemb aran \nNegara Nomor 4279) bertentangan dengan UUD Negara Republik Indo nesia \nTahun 1945 secara bersyarat dan tidak mengikat sepanjang tidak dimaknai frasa \nupah proses yang implisit dengan unsur sukarela dibayarkan sela ma proses \npenyelesaian perselisihan ketenagakerjaan sampai dengan putusan pengadilan.",
+      "start_line": 461,
+      "end_line": 465
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repu blik Indonesia",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repu-blik-indonesia",
+      "text": "sebagaimana mestinya. \nJika Majelis Hakim Mahkamah Konstitusi berpendapat lain dimohon kan putusan \nyang seadil-adilnya (ex aequo et bono).  \n\n \n 14 \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 dan Bukti P-2, sebagai berikut:",
+      "start_line": 467,
+      "end_line": 474
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi halaman 52 yang berisi Pasal 155 Undang-Undang",
+      "slug": "1-bukti-p-1-fotokopi-halaman-52-yang-berisi-pasal-155-undang-undang",
+      "text": "Nomor 13 Tahun 2003 tentang Ketenagakerjaan;",
+      "start_line": 476,
+      "end_line": 476
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Surat Juru Sita Pengadilan Negeri Jakarta Pusat Nomor",
+      "slug": "2-bukti-p-2-fotokopi-surat-juru-sita-pengadilan-negeri-jakarta-pusat-nomor",
+      "text": "5763/PN.W.10.U1/HK2.4/VII/2025 perihal Panggilan menghadap \nkepada Sdr. Lister bertanggal 2 Juli 2025. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 478,
+      "end_line": 482
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554) selanjutnya disebut UU MK, dan Pasal 29 ayat (1) huruf a Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), salah satu kewenangan konstitusional Mah kamah adalah \nmengadili pada tingkat pertama dan terakhir yang putusannya ber sifat final untuk \nmenguji undang-undang terhadap UUD NRI Tahun 1945.  \n[3.2] Menimbang bahwa oleh karena permohonan Pemohon a quo  adalah \npengujian konstitusionalitas undang-undang, in casu  n o r m a  P a s a l  1 5 5  a y a t  ( 2 )  \nUndang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lemb aran \nNegara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembara n Negara \n\n \n 15 \nRepublik Indonesia Nomor 4279, selanjutnya disebut UU 13/2003) terhadap UUD \nNRI Tahun 1945 maka Mahkamah berwenang mengadili permohonan a quo. \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo, namun sebelum mempertimbangkan lebih lanjut permohonan \nPemohon, Mahkamah terlebih dahulu akan mempertimbangkan hal-hal  sebagai \nberikut. \n[3.3.1] Bahwa sesuai dengan ketentuan hukum acara pengujian undang-und ang, \nMahkamah telah mendengar pokok-pokok Permohonan, memeriksa kele ngkapan \ndan kejelasan materi Permohonan dalam sidang pemeriksaan pendah uluan pada \ntanggal 7 September 2026. Dalam persidangan tersebut, sesuai de ngan ketentuan \nPasal 39 ayat (2) UU MK dan Pasal 36 ayat (3) Peraturan Mahkama h Konstitusi \nNomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujia n Undang-\nUndang (PMK 7/2025), Mahkamah telah memberikan nasihat kepada P emohon \nuntuk memperbaiki sekaligus memperjelas hal-hal yang berkaitan dengan \npermohonan Pemohon, yaitu berkenaan dengan Kewenangan Mahkamah,  \nKedudukan Hukum Pemohon, Alasan-alasan Permohonan (posita), dan  h a l - h a l  \nyang dimohonkan untuk diputus (petitum), sehingga permohonan a quo  s e s u a i  \ndengan sistematika permohonan sebagaimana diatur dalam PMK 7/20 25 [vide \nRisalah Sidang, tanggal 7 September 2026, hlm. 5-17]. Berdasark an ketentuan \nPasal 37 ayat (1) PMK 7/2025,  Mahkamah telah memberikan kesemp atan kepada \nPemohon untuk memperbaiki pemohonan paling lama 14 (empat belas ) hari sejak \nsidang pemeriksaan pendahuluan untuk mendengar pokok-pokok Perm ohonan, \nmemeriksa kelengkapan dan kejelasan materi Permohonan dengan ba tas waktu \npenyerahan perbaikan pada hari Senin tanggal 21 September 2026 pukul 12.00 \nWIB. Selanjutnya, pada tanggal 17 September 2026 pukul 14.03 WI B Pemohon \ntelah menyampaikan perbaikan permohonan kepada Mahkamah. Perbai kan \npermohonan dimaksud telah pula diperiksa dalam sidang pemeriksaan pendahuluan \ndengan agenda penyampaian pokok-pokok perbaikan permohonan dan \npengesahan alat bukti Pemohon pada tanggal 21 September 2026. \n[3.3.2] Bahwa setelah Mahkamah membaca secara komprehensif permohonan \na quo, terlepas dari ada atau tidaknya inkonstitusionalitas norma yang dipersoalkan \noleh Pemohon, telah ternyata norma Pasal 155 UU 13/2003 seluruh nya telah \ndihapus dengan Pasal 81 angka 46 Lampiran Undang-Undang Nomor 6 Tahun 2023 \n\n \n 16 \ntentang  Penetapan Peraturan Pemerintah Pengganti Undang-Undang  N o m o r  2  \nTahun 2022 tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara \nRepublik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negar a Republik \nIndonesia Nomor 6856, selanjutnya disebut UU 6/2023) dan materi nya telah \ndimasukkan dalam norma Pasal 157A angka 49 Lampiran UU 6/2023 pada BAB IV \nKETENAGAKERJAAN, Bagian Kedua Ketenagakerjaan. \n Berkenaan dengan hal tersebut, setelah Mahkamah membaca secara  \nsaksama perubahan materi dalam Lampiran UU 6/2023, ternyata salah satu materi \nyang diubah atau direvisi adalah norma Pasal 155 ayat (2) UU 13 /2003. Pada \nawalnya norma Pasal 155 ayat (2) UU 13/2003 selengkapnya berbunyi: \n(1) Pemutusan hubungan kerja tanpa penetapan sebagaimana dimaks ud dalam \nPasal 151 ayat (3) batal demi hukum. \n(2) Selama putusan lembaga penyelesaian perselisihan hubungan i ndustrial belum \nditetapkan, baik pengusaha maupun pekerja/buruh harus tetap mel aksanakan \nsegala kewajibannya. \n(3) Pengusaha dapat melakukan penyimpangan terhadap ketentuan s ebagaimana \ndimaksud dalam ayat (2) berupa tindakan skorsing kepada pekerja /buruh yang \nsedang dalam proses pemutusan hubungan kerja dengan tetap wajib  \nmembayar upah beserta hak-hak lainnya yang biasa diterima pekerja/buruh. \nSelanjutnya diubah menjadi Pasal 157A UU 6/2023 yang selengkapnya berbunyi: \n(1) Selama penyelesaian Perselisihan Hubungan Industrial, Pengu saha dan \nPekerja/Buruh harus tetap melaksanakan kewajibannya.  \n(2) Pengusaha dapat melakukan tindakan skorsing kepada Pekerja/ Buruh yang \nsedang dalam proses Pemutusan Hubungan Kerja dengan tetap memba yar \nUpah beserta hak lainnya yang biasa diterima Pekerja/Buruh.  \n(3) Pelaksanaan kewajiban sebagaimana dimaksud pada ayat (1) di lakukan \nsampai dengan selesainya proses penyelesaian Perselisihan Hubun gan \nIndustrial sesuai tingkatannya. \n Bahwa berdasarkan fakta hukum sebagaimana diuraikan tersebut d i atas, \noleh karena eksistensi norma yang dimohonkan pengujian konstitu sionalitasnya \noleh Pemohon, in casu  norma Pasal 155 ayat (2) UU 13/2003 seluruhnya telah \ndihapus dengan Pasal 81 angka 46 Lampiran UU 6/2023 dan materin ya telah \ndimasukkan dalam norma Pasal 157A angka 49 Lampiran UU 6/2023 m aka \npenghapusan tersebut menyebabkan norma yang dimohonkan pengujia n tidak lagi \nsebagaimana rumusan norma yang dimohonkan pengujian oleh Pemoho n. Oleh \nkarena itu, dengan telah berubahnya norma yang dimohonkan pengu jian, \nMahkamah berkesimpulan permohonan Pemohon adalah kehilangan objek. \n\n \n 17 \n[3.4] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum",
+      "start_line": 484,
+      "end_line": 581
+    },
+    {
+      "heading": "di atas, meskipun Mahkamah berwenang mengadili permohonan Pemohon, namun",
+      "slug": "di-atas-meskipun-mahkamah-berwenang-mengadili-permohonan-pemohon-namun",
+      "text": "oleh karena permohonan Pemohon telah kehilangan objek maka Mahk amah tidak \nmempertimbangkan lebih lanjut permohonan Pemohon. \n[3.5] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 583,
+      "end_line": 586
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Ma hkamah \nberkesimpulan: \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Permohonan Pemohon adalah kehilangan objek; \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 588,
+      "end_line": 601
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masi ng sebagai \nAnggota, pada hari Selasa, tanggal dua puluh dua, bulan September, tahun dua \n\n \n 18 \nribu dua puluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \nterbuka untuk umum pada hari Selasa, tanggal dua puluh sembilan , bulan \nSeptember, tahun dua ribu dua puluh enam, selesai diucapkan pukul 14.13 WIB \noleh sembilan Hakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, \nSaldi Isra, Daniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan \nMansyur, Arsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, ma sing-masing \nsebagai Anggota, dengan dibantu oleh Triyono Edy Budhiarto seba gai Panitera \nPengganti, serta dihadiri oleh Pemohon, Dewan Perwakilan Rakyat  atau yang \nmewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \nttd. \nEnny Nurbaningsih  \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nTriyono Edy Budhiarto",
+      "start_line": 603,
+      "end_line": 645
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Donaldy Christian Langgar",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan"
+    ],
+    "constitutional_articles": [
+      "Pasal 28J ayat (1)",
+      "Pasal 9 ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 28H ayat (2)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (2)",
+      "Pasal 1"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "REFERENSI:323/PUU-XXIV/2026",
+      "REFERENSI:323/PUU/PAN.MK/AP3/08/2026",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:259/Pdt.G/2022/PN.Jkt.Pst.yangmanaPutusanNomor340/Pdt.Sus-PHI/2020/PN.Jkt.Pst.diketahuisubyekyangsama.Dalamputusanyangsebagiandikabulkantentangupahkurang.PutusanituberisiPHKdanpembayaranupahkurangsebesarRp.1.020.500.Upahprosesselama6bulankarenadiPHKdikabulkandalamperkaraNomor259/Pdt.G/2022",
+      "REFERENSI:37/PUU-IX/2011",
+      "REFERENSI:259/Pdt.G/2022",
+      "REFERENSI:286/Pdt.G/2021",
+      "REFERENSI:580/Pdt.G/2020",
+      "REFERENSI:1/Yur/PHI/2018",
+      "REFERENSI:5763/PN.W.10.U1/HK2.4/VII/2025",
+      "REFERENSI:13/2003seluruhnyatelahdihapusdenganPasal81angka46LampiranUU6/2023danmaterinyatelahdimasukkandalamnormaPasal157Aangka49LampiranUU6/2023",
+      "REFERENSI:006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Triyono Edy Budhiarto"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "323/PUU-XXIV/2026",
+      "323/PUU/PAN.MK/AP3/08/2026",
+      "11/PUU-V/2007",
+      "259/Pdt.G/2022/PN.Jkt.Pst.yangmanaPutusanNomor340/Pdt.Sus-PHI/2020/PN.Jkt.Pst.diketahuisubyekyangsama.Dalamputusanyangsebagiandikabulkantentangupahkurang.PutusanituberisiPHKdanpembayaranupahkurangsebesarRp.1.020.500.Upahprosesselama6bulankarenadiPHKdikabulkandalamperkaraNomor259/Pdt.G/2022",
+      "37/PUU-IX/2011",
+      "259/Pdt.G/2022",
+      "286/Pdt.G/2021",
+      "580/Pdt.G/2020",
+      "1/Yur/PHI/2018",
+      "5763/PN.W.10.U1/HK2.4/VII/2025",
+      "13/2003seluruhnyatelahdihapusdenganPasal81angka46LampiranUU6/2023danmaterinyatelahdimasukkandalamnormaPasal157Aangka49LampiranUU6/2023",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "323/PUU-XXIV/2026",
+      "323/PUU/PAN.MK/AP3/08/2026",
+      "11/PUU-V/2007",
+      "259/Pdt.G/2022/PN.Jkt.Pst.yangmanaPutusanNomor340/Pdt.Sus-PHI/2020/PN.Jkt.Pst.diketahuisubyekyangsama.Dalamputusanyangsebagiandikabulkantentangupahkurang.PutusanituberisiPHKdanpembayaranupahkurangsebesarRp.1.020.500.Upahprosesselama6bulankarenadiPHKdikabulkandalamperkaraNomor259/Pdt.G/2022",
+      "37/PUU-IX/2011",
+      "259/Pdt.G/2022",
+      "286/Pdt.G/2021",
+      "580/Pdt.G/2020",
+      "1/Yur/PHI/2018",
+      "5763/PN.W.10.U1/HK2.4/VII/2025",
+      "13/2003seluruhnyatelahdihapusdenganPasal81angka46LampiranUU6/2023danmaterinyatelahdimasukkandalamnormaPasal157Aangka49LampiranUU6/2023",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

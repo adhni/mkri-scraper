@@ -1,0 +1,480 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14946_1789544606.pdf",
+    "file_name": "putusan_mkri_14946_1789544606.pdf",
+    "page_count": 21,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14946_1789544606.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "298/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "298/PUU/PAN.MK/AP3/08/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-16",
+    "decision_date_raw": "enam belas, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "PUTUSAN \nNOMOR 298/PUU-XXIV/2026",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat  \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 3 Tahun 2024 tentang Perubahan Kedua Atas Undang-U ndang \nNomor 6 Tahun 2014 tentang Desa terhadap Undang-Undang Dasar Ne gara \nRepublik Indonesia Tahun 1945, yang diajukan oleh: \n N a m a  : Muhammad Dimas Aditya \n Pekerjaan : Karyawan Swasta \n Alamat : Prasanti Blok A6 Nomor 12, RT 055/RW 009, \nKelurahan Metro, Kecamatan Metro Pusat, Kota Metro, \nLampung, 34111 \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 4,
+      "end_line": 18
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n04 Agustus 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada tanggal 3 \nAgustus 2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomo r \n298/PUU/PAN.MK/AP3/08/2026 dan telah dicatat dalam Buku Registr asi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 298/PUU- XXIV/2026 \npada tanggal 3 Agustus 2026, yang telah diperbaiki dengan perbaikan permohonan \nbertanggal 25 Agustus 2026 dan diterima Mahkamah pada tanggal 24 Agustus 2026, \npada pokoknya menguraikan hal-hal sebagai berikut. \n \n\n\n 2\nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 20,
+      "end_line": 32
+    },
+    {
+      "heading": "1. Bahwa Perubahan UUD NRI Tahun 1945 telah menciptakan sebuah lembaga",
+      "slug": "1-bahwa-perubahan-uud-nri-tahun-1945-telah-menciptakan-sebuah-lembaga",
+      "text": "baru yang berfungsi untuk mengawal konstitusi, yaitu Mahkamah K onstitusi \n(selanjutnya disebut “MK”) sebagaimana tertuang dalam Pasal 7B,  Pasal 24 \nayat (1) dan ayat (2), serta Pasal 24C UUD NRI Tahun 1945, yang diatur lebih \nlanjut dalam Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah  \nKonstitusi sebagaimana telah diubah terakhir dengan Undang-Unda ng \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor \n24 Tahun 2003 tentang Mahkamah Konstitusi (selanjutnya disebut “UU MK”).",
+      "start_line": 34,
+      "end_line": 40
+    },
+    {
+      "heading": "2. Bahwa salah satu kewenangan yang dimiliki oleh MK adalah mel akukan",
+      "slug": "2-bahwa-salah-satu-kewenangan-yang-dimiliki-oleh-mk-adalah-mel-akukan",
+      "text": "pengujian undang-undang terhadap konstitusi sebagaimana diatur dalam \nPasal 24C ayat (1) UUD NRI Tahun 1945 yang berbunyi: “Mahkamah \nKonstitusi berwenang mengadili pada tingkat pertama dan terakhi r yang \nputusannya bersifat final untuk menguji Undang-Undang terhadap Undang-\nUndang Dasar...”",
+      "start_line": 42,
+      "end_line": 46
+    },
+    {
+      "heading": "3. Bahwa kewenangan konstitusional tersebut diatur secara lebih lanjut di dalam",
+      "slug": "3-bahwa-kewenangan-konstitusional-tersebut-diatur-secara-lebih-lanjut-di-dalam",
+      "text": "Pasal 10 ayat (1) huruf a UU MK, yang menyatakan bahwa Mahkamah  \nKonstitusi berwenang mengadili pada tingkat pertama dan terakhi r yang \nputusannya bersifat final untuk menguji undang-undang terhadap UUD NRI \nTahun 1945.",
+      "start_line": 48,
+      "end_line": 51
+    },
+    {
+      "heading": "4. Bahwa selain itu, Pasal 29 ayat (1) huruf a Undang-Undang No mor 48 Tahun",
+      "slug": "4-bahwa-selain-itu-pasal-29-ayat-1-huruf-a-undang-undang-no-mor-48-tahun",
+      "text": "2009 tentang Kekuasaan Kehakiman juga menegaskan bahwa Mahkamah  \nKonstitusi berwenang mengadili pada tingkat pertama dan terakhi r yang \nputusannya bersifat final untuk menguji undang-undang terhadap UUD NRI \nTahun 1945.",
+      "start_line": 53,
+      "end_line": 56
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 1 angka 3 dan Pasal 2 ayat (1) Perat uran",
+      "slug": "5-bahwa-berdasarkan-pasal-1-angka-3-dan-pasal-2-ayat-1-perat-uran",
+      "text": "Mahkamah Konstitusi Nomor 7 Tahun 2025 tentang Tata Beracara da lam \nPerkara Pengujian Undang-Undang (selanjutnya disebut “PMK Nomor  7  \nTahun 2025”), Mahkamah Konstitusi melaksanakan wewenang yudisia lnya \ndalam memeriksa, mengadili, dan memutus perkara pengujian mater iil atas \nnorma undang-undang yang dinilai bertentangan dengan ketentuan \nkonstitusi. \n\n 3",
+      "start_line": 58,
+      "end_line": 65
+    },
+    {
+      "heading": "6. Bahwa objek permohonan pengujian materiil dalam perkara a quo a d a l a h",
+      "slug": "6-bahwa-objek-permohonan-pengujian-materiil-dalam-perkara-a-quo-a-d-a-l-a-h",
+      "text": "Pasal 50 ayat (1) Undang-Undang Nomor 3 Tahun 2024 tentang Peru bahan \nKedua atas Undang-Undang Nomor 6 Tahun 2014 tentang Desa yang \nmemuat frasa “Warga Desa”. Norma tersebut dinilai secara materi il \nbertentangan dengan jaminan hak konstitusional Pemohon yang dil indungi \noleh Pasal 27 ayat (2), Pasal 28D ayat (3), dan Pasal 28I ayat (2) UUD NRI \nTahun 1945.",
+      "start_line": 67,
+      "end_line": 72
+    },
+    {
+      "heading": "7. Bahwa berdasarkan prinsip tata urutan peraturan perundang-un dangan",
+      "slug": "7-bahwa-berdasarkan-prinsip-tata-urutan-peraturan-perundang-un-dangan",
+      "text": "sebagaimana diatur dalam Pasal 7 ayat (1) dan Pasal 9 ayat (1) Undang-\nUndang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-\nUndangan sebagaimana telah diubah terakhir dengan Undang-Undang  \nNomor 13 Tahun 2022, UUD NRI Tahun 1945 merupakan hukum dasar \ntertinggi ( ground norm ) dalam hierarki hukum nasional, sehingga setiap \nmateri muatan undang-undang tidak boleh bertentangan dengan UUD  NRI \nTahun 1945. Dalam hal terdapat norma undang-undang yang diduga kuat \nbertentangan dengan konstitusi, maka institusi yudisial yang me miliki \nwewenang absolut untuk memeriksa dan mengadilinya adalah Mahkam ah \nKonstitusi. \nII. KEDUDUKAN HUKUM ( LEGAL STANDING) PEMOHON \nBahwa berdasarkan ketentuan Pasal 51 ayat (1) UU MK serta yuris prudensi \ntetap Mahkamah Konstitusi, Pemohon memiliki kedudukan hukum ( legal \nstanding) yang sah untuk mengajukan permohonan a quo. Hal ini didasarkan \npada terpenuhinya 5 (lima) syarat kerugian konstitusional yang bersifat kumulatif, \nspesifik, dan aktual sebagai berikut:",
+      "start_line": 74,
+      "end_line": 89
+    },
+    {
+      "heading": "1. Adanya hak-hak dan/atau kewenangan konstitusional Pemohon ya ng",
+      "slug": "1-adanya-hak-hak-dan-atau-kewenangan-konstitusional-pemohon-ya-ng",
+      "text": "diberikan oleh Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945 (UUD NRI Tahun 1945) \nBahwa Pemohon adalah perseorangan warga negara Indonesia (WNI) (Bukti \nP-1) yang hak-hak konstitusionalnya dijamin secara tegas dan dilindungi oleh \nUUD NRI Tahun 1945. Secara spesifik, keberlakuan norma yang dimohonkan \npengujian telah mencederai hak konstitusional Pemohon yang dijamin dalam \npasal-pasal sebagai berikut: \n\n 4\na. Pasal 27 ayat (2) UUD NRI Tahun 1945 yang menyatakan: “Tiap- tiap \nwarga negara berhak atas pekerjaan dan penghidupan yang layak b agi \nkemanusiaan”. \nb. Pasal 28C ayat (2) UUD NRI Tahun 1945 yang menyatakan: “Setiap orang \nberhak untuk memajukan dirinya dalam memperjuangkan haknya secara \nkolektif untuk membangun masyarakat, bangsa dan negaranya”.",
+      "start_line": 91,
+      "end_line": 105
+    },
+    {
+      "heading": "c. Pasal 28D ayat (3) UUD NRI Tahun 1945 yang menyatakan: “Seti ap",
+      "slug": "c-pasal-28d-ayat-3-uud-nri-tahun-1945-yang-menyatakan-seti-ap",
+      "text": "warga negara berhak memperoleh kesempatan yang sama dalam \npemerintahan”.",
+      "start_line": 107,
+      "end_line": 108
+    },
+    {
+      "heading": "d. Pasal 28I ayat (2) UUD NRI Tahun 1945 yang menyatakan: “Setiap orang",
+      "slug": "d-pasal-28i-ayat-2-uud-nri-tahun-1945-yang-menyatakan-setiap-orang",
+      "text": "bebas dari perlakuan yang bersifat diskriminatif atas dasar apa  pun dan \nberhak mendapatkan perlindungan terhadap perlakuan yang bersifa t \ndiskriminatif itu”. \nBahwa hak Pemohon untuk mendaftarkan diri, berkompetisi secara adil, dan \nmengabdikan diri sebagai Perangkat Desa merupakan perwujudan langsung \ndari hak atas kesempatan yang sama dalam pemerintahan serta hak  atas \npekerjaan yang dijamin secara m ateriil oleh norma hukum terting gi \n(konstitusi) Negara Republik Indonesia.",
+      "start_line": 110,
+      "end_line": 117
+    },
+    {
+      "heading": "2. Hak-hak dan/atau kewenangan ko nstitusional tersebut dianggap o l e h",
+      "slug": "2-hak-hak-dan-atau-kewenangan-ko-nstitusional-tersebut-dianggap-o-l-e-h",
+      "text": "Pemohon telah dirugikan oleh berlakunya undang-undang yang \ndimohonkan pengujian \nBahwa hak konstitusional Pemohon sebagaimana dijabarkan di atas  t e l a h  \ndirugikan secara nyata dan langsung oleh keberlakuan norma fras a “warga \nDesa” dalam ketentuan syarat Perangkat Desa sebagaimana diatur dalam \nPasal 50 ayat (1) UU Desa 2024 [Bukti P-2]. \nBahwa frasa “warga Desa” tersebut menimbulkan ketidakpastian hukum yang \nmultitafsir, karena membuka ruang bagi Panitia Seleksi di tingk at lapangan \nuntuk menafsirkan aturan secara sempit, kaku, dan restriktif se batas urusan \nadministrasi kependudukan (kepemilikan KTP/KK setempat). Tafsir  sepihak \npanitia tersebut secara nyata mengabaikan fakta sosiologis bahwa Pemohon \ntelah menetap secara fisik, mengontrak rumah, dan membaur di te ngah \nmasyarakat desa/kampung setempat selama kurang lebih 4 (empat) tahun. \n\n 5\nBahwa kerugian tersebut diperparah oleh adanya diskriminasi reg ulatif dan \ninkonsistensi internal di dalam UU Desa 2024 itu sendiri. Pada satu sisi, \nundang-undang tersebut telah menghapus pembatasan domisili bagi  calon \nKepala Desa dan mengubahnya secara universal menjadi “Warga Neg ara \nIndonesia” (WNI). Namun pada sisi lain, untuk jabatan Perangkat  D e s a ,  \nketentuan masih mempertahankan frasa “warga Desa” yang berujung  pada \npenyekatan hak berdasarkan alamat administrasi KTP. Hal ini men ciptakan \nstandar ganda ( double standard ) dan ketidaksetaraan hukum ( inequality \nbefore the law) yang mencederai asas keadilan.",
+      "start_line": 119,
+      "end_line": 142
+    },
+    {
+      "heading": "3. Kerugian konstitusional Pemoh on tersebut bersifat spesifik ( khusus)",
+      "slug": "3-kerugian-konstitusional-pemoh-on-tersebut-bersifat-spesifik-khusus",
+      "text": "dan aktual, atau setidaknya bersifat potensial yang menurut pen alaran \nyang wajar dapat dipastikan akan terjadi. \nBahwa kerugian hukum yang dialami Pemohon tidak bersifat abstrak, teoritis, \natau sekadar berandai-andai, melainkan bersifat spesifik, konkret, dan aktual \n(nyata telah terjadi) dengan rincian fakta-fakta hukum sebagai berikut: \na. Pemohon secara resmi mendaftarkan diri dalam seleksi Perangk at \nDesa/Kampung di wilayah tempat Pemohon berdomisili nyata dan \nmengontrak rumah saat ini. \nb. Berkas pendaftaran Pemohon ditolak secara administratif (din yatakan \ngugur berkas) oleh Panitia Seleksi dengan alasan mutlak bahwa \nPemohon secara administratif masih terdaftar sebagai warga Kota  Metro \n(bukan warga ber-KTP desa setempat) [Bukti P-4].",
+      "start_line": 144,
+      "end_line": 155
+    },
+    {
+      "heading": "c. Penolakan administratif tersebut tetap dilakukan secara kaku d a n",
+      "slug": "c-penolakan-administratif-tersebut-tetap-dilakukan-secara-kaku-d-a-n",
+      "text": "restriktif, meskipun Pemohon telah menunjukkan iktikad baik ( good faith) \nserta komitmen pelayanan tinggi dengan melampirkan Surat Pernya taan \nbermaterai cukup yang menyatakan siap pindah domisili secara \nadministrasi (KTP dan KK) dan menetap di desa tersebut jika dit etapkan \nsebagai Perangkat Desa demi kelancaran pelayanan warga (Bukti P-5). \nPenolakan terhadap komitmen pengabdian dan hak kompetisi Pemoho n ini \nmembuktikan bahwa kerugian konstitusional yang dialami Pemohon adalah \nbersifat nyata, spesifik, dan aktual, bukan sekadar potensi kerugian. \n\n 6",
+      "start_line": 157,
+      "end_line": 166
+    },
+    {
+      "heading": "4. Adanya hubungan sebab-akibat ( causal verband ) antara kerugian",
+      "slug": "4-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian",
+      "text": "konstitusional Pemohon dan berlakunya undang-undang yang \ndimohonkan pengujian \nBahwa terdapat hubungan sebab-akibat ( causal verband ) yang langsung, \nkausal, dan tidak terputus antara kerugian hak konstitusional P emohon \ndengan keberlakuan norma UU Desa 2024, khususnya frasa “warga Desa”. \nBahwa tindakan penggagalan administrasi terhadap Pemohon oleh P anitia \nSeleksi terjadi semata-mata karena panitia mendasarkan legitima si \nhukumnya pada frasa “warga Desa” yang termaktub di dalam undang-undang \ntersebut untuk menolak pelamar dari luar wilayah administrasi desa. Apabila \nfrasa “warga Desa” tersebut dinyatakan bertentangan dengan UUD NRI \nTahun 1945 dan diganti menjadi “Warga Negara Indonesia” (sebaga imana \nsyarat Kepala Desa), maka tidak ada lagi celah hukum maupun leg itimasi \nbagi Panitia Seleksi untuk melakukan diskriminasi geografis yang merintangi \nberkas Pemohon.",
+      "start_line": 168,
+      "end_line": 181
+    },
+    {
+      "heading": "5. Adanya kemungkinan bahwa dengan dikabulkannya permohonan, maka",
+      "slug": "5-adanya-kemungkinan-bahwa-dengan-dikabulkannya-permohonan-maka",
+      "text": "kerugian konstitusional yang didalilkan tidak akan atau tidak lagi terjadi. \nBahwa dengan dikabulkannya permohonan a quo oleh Mahkamah Konstitusi, \nyaitu dengan menyatakan frasa “warga Desa” bertentangan dengan UUD \nNRI Tahun 1945, maka kerugian konstitusional Pemohon dipastikan  a k a n  \npulih, terhenti, dan tidak akan terjadi lagi di kemudian hari. \nBahwa putusan Mahkamah Konstitusi yang mengabulkan permohonan i ni \nakan memberikan kepastian hukum yang adil, meruntuhkan sekat-se kat \nadministratif kaku yang menghambat mobilitas sosial dan ruang p engabdian \nwarga negara, serta memberikan hak dan kesempatan hukum yang sa ma \nbagi Pemohon untuk melanjutkan proses seleksi Perangkat Desa \nberdasarkan kompetensi objektif. \nBahwa berdasarkan seluruh uraian di atas, telah nyata dan tidak  \nterbantahkan bahwa Pemohon memenuhi seluruh kualifikasi hukum d an \nbatasan syarat kerugian hak konstitusional sebagaimana dimaksud  dalam \nPasal 51 ayat (1) UU MK serta yurisprudensi Mahkamah Konstitusi . Oleh \nkarenanya, Pemohon memiliki kedudukan hukum ( legal standing) yang sah \n\n 7\nsebagai Pemohon dalam perkara pengujian undang-undang (judicial review) \na quo. \nIII. NORMA YANG DIMOHONKAN PENGUJIAN \nBahwa Pasal 50 ayat (1) UU Desa 2024 berbunyi pada pokoknya bah wa \nPerangkat Desa diangkat dari warga Desa yang memenuhi persyarat an berupa \nketakwaan kepada Tuhan Yang Maha Esa, pendidikan paling rendah sekolah \nmenengah umum atau sederajat, usia 20 sampai dengan 42 tahun, d an syarat \nlain yang ditentukan dalam Peraturan Daerah kabupaten/kota. \nBahwa permohonan ini secara khusus mempersoalkan konstitusional itas frasa \n“warga Desa” sepanjang frasa tersebut ditafsirkan sebagai syara t domisili atau \nstatus kependudukan Desa setempat sebelum pendaftaran. \nBahwa Pemohon tidak mempersoalkan kebutuhan adanya persyaratan yang \nobjektif, rasional, dan sesuai dengan peraturan perundang-undangan bagi calon \nPerangkat Desa. Yang dipersoalkan adalah pembatasan berdasarkan  domisili \nyang tidak dinyatakan secara tegas dalam Pasal 50 ayat (1) UU Desa 2024 tetapi \ndapat muncul melalui penafsiran administratif terhadap frasa “warga Desa”. \nIV. ALASAN-ALASAN PERMOHONAN (POSITA) \nBahwa Pemohon mendasarkan perm ohonan pengujian materiil frasa “ warga \nDesa” dalam Pasal 50 ayat (1) Undang-Undang Desa terbaru pada a lasan-\nalasan hukum (posita) yang kuat, komprehensif, dan sistematis sebagai berikut:",
+      "start_line": 183,
+      "end_line": 220
+    },
+    {
+      "heading": "1. Pertentangan Mutlak Terhadap Kesimpulan Hukum dan Kaidah",
+      "slug": "1-pertentangan-mutlak-terhadap-kesimpulan-hukum-dan-kaidah",
+      "text": "Yurisprudensi Tetap Mahkamah Kon stitusi (Putusan Nomor 128/PUU-\nXIII/2015). \nBahwa Mahkamah Konstitusi dalam Putusan monumental Nomor 128/PU U-\nXIII/2015 yang dibacakan pada tanggal 23 Agustus 2016 telah men etapkan \nkaidah hukum yang sangat tegas mengenai inkonstitusionalitas pembatasan \nhak berdasarkan wilayah domisili dalam kontestasi pemerintahan desa. \nBahwa kesimpulan hukum Mahkamah Konstitusi dalam Putusan terseb ut \nsecara eksplisit menyatakan bahwa syarat yang mengharuskan sese orang \nterdaftar sebagai penduduk dan bertempat tinggal di desa setempat sebelum \npendaftaran merupakan bentuk pembatasan hak yang diskriminatif dan \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \n\n 8\nTahun 1945. Mahkamah Konstitusi menegaskan bahwa entitas desa t idak \nboleh diisolasi atau disekat dari prinsip kesatuan hukum nasion al serta asas \nmobilitas kependudukan nasional. \nBahwa dengan dinyatakannya syarat domisili “tidak mempunyai kek uatan \nhukum mengikat” oleh Mahkamah Konstitusi, maka segala bentuk \npembatasan geografis-administratif untuk pengisian jabatan publ ik di tingkat \ndesa sesungguhnya telah dihapuskan secara permanen dari tatanan hukum \ntata negara Indonesia. \nBahwa keberadaan frasa “warga Desa” dalam Undang-Undang Desa ya ng \nbaru secara nyata digunakan oleh aparat pelaksana di lapangan u ntuk \nmenyelundupkan kembali pembatasan domisili yang telah dinyataka n mati \nsecara konstitusional tersebut. Penolakan Panitia Seleksi terha dap berkas \nadministrasi Pemohon dengan alasan Kartu Tanda Penduduk asal \nmerupakan bentuk pengabaian nyata (constitutional disobedience) terhadap \nsubstansi hukum Putusan Mahkamah Konstitusi Nomor 128/PUU-XIII/2015.",
+      "start_line": 222,
+      "end_line": 249
+    },
+    {
+      "heading": "2. Adanya Inkonsistensi Regulatif dan Standar Ganda ( Double standard)",
+      "slug": "2-adanya-inkonsistensi-regulatif-dan-standar-ganda-double-standard",
+      "text": "dalam Undang-Undang Desa Terbaru \nBahwa di dalam batang tubuh Undang-Undang Nomor 3 Tahun 2024 terdapat \npertentangan logika hukum yang sangat mencolok ( internal inconsistency). \nPembatasan domisili bagi calon Ke pala Desa telah dihapus seluru hnya dan \ndiubah secara universal menjadi “Warga Negara Indonesia”, sehingga setiap \nwarga negara dari wilayah mana pun berhak mencalonkan diri menj adi \nKepala Desa di seluruh pelosok wilayah Indonesia. \nBahwa sebaliknya, untuk jabatan Perangkat Desa, pembatasan ters ebut \njustru dipertahankan melalui interpretasi sempit frasa “warga D esa”. Hal ini \nmenciptakan standar ganda yang tidak logis: seorang warga negara dari luar \ndaerah diperbolehkan memimpin sebuah desa sebagai Kepala Desa, namun \ndilarang keras untuk sekadar membantu administrasi desa sebagai  \nPerangkat Desa. Standar ganda ini mencederai asas kesetaraan di hadapan \nhukum (inequality before the law).",
+      "start_line": 251,
+      "end_line": 264
+    },
+    {
+      "heading": "3. Batas Administratif Tidak Relevan dengan Standar Pelayanan P ublik di",
+      "slug": "3-batas-administratif-tidak-relevan-dengan-standar-pelayanan-p-ublik-di",
+      "text": "Era Modern. \n\n 9\nBahwa pemberlakuan syarat domisili yang kaku dalam pengangkatan  \nperangkat desa berdasarkan frasa “warga Desa” dalam Pasal 50 ayat (1) UU \nDesa 2024 secara faktual telah menimbulkan kerugian konstitusio nal bagi \nPemohon serta merusak tatanan pelayanan publik dan tata kelola \npemerintahan yang baik (good governance). \nBahwa dalam persidangan pendahuluan sebelumnya, sempat muncul \npandangan atau istilah “rusa masuk kampung” yang dialamatkan ke pada \nPemohon. Terhadap hal tersebut, Pemohon menyampaikan klarifikas i dan \nbantahan bahwa istilah tersebut tidak relevan dan tidak tepat u ntuk \ndisematkan kepada Pemohon, serta tidak substansial untuk dikaitkan dengan \nstandar penilaian objektivitas jabatan pelayanan publik. \nBahwa secara sosio-geografis, Kampung Purwodadi merupakan wilay ah \nperbatasan antara Kabupaten Lampung Tengah dan Kota Metro. Oleh karena \nitu, sudah menjadi realitas sosial dan ekonomi bahwa sebagian besar warga \nsetempat beraktivitas, bekerja, dan berdagang lintas wilayah secara ajeg. \nBahwa dalam praktiknya, batas administratif kependudukan seharusnya tidak \nmenjadi tembok penghalang dalam pelayanan publik, terlebih di e ra digital \nsaat ini. Sebagai perbandingan objektif, banyak pekerja profesional di sektor \npublik mulai dari tenaga honorer, PNS, ASN, hingga penyelenggar a pemilu \nyang tidak memiliki KTP setempat dan bahkan berdomisili di luar  wilayah \nadministratif tempat mereka bekerja tanpa kehilangan profesionalitasnya. \nBahwa hambatan administratif semacam ini tidak lagi relevan. Ko ordinasi, \nverifikasi data, dan pelayanan masyarakat saat ini dapat dilaku kan secara \ncepat dan akurat secara daring ( online) atau melalui komunikasi langsung \ndengan perangkat rukun tetangga (RT/RW) setempat apabila diperl ukan \ninformasi yang mendalam.",
+      "start_line": 266,
+      "end_line": 294
+    },
+    {
+      "heading": "4. Ancaman Inbreeding Birokrasi dan Oligarki Lokal di Tingkat Desa",
+      "slug": "4-ancaman-inbreeding-birokrasi-dan-oligarki-lokal-di-tingkat-desa",
+      "text": "Bahwa kewajiban mutlak syarat do misili lokal dalam rekrutmen pe rangkat",
+      "start_line": 296,
+      "end_line": 296
+    },
+    {
+      "heading": "d e s a t a n p a s t a n d a r k e t e r b u k a a n y a n g a d i l t e l a h m e l a h i r k a n k e r e ntanan",
+      "slug": "d-e-s-a-t-a-n-p-a-s-t-a-n-d-a-r-k-e-t-e-r-b-u-k-a-a-n-y-a-n-g-a-d-i-l-t-e-l-a-h-m-e-l-a-h-i-r-k-a-n-k-e-r-e-ntanan",
+      "text": "struktural berupa “inbreeding” birokrasi (desa tertutup). \nBahwa ketika posisi-posisi strategis di desa seperti urusan keu angan, \npembangunan, hingga administrasi hanya berputar di antara lingk aran \n\n 10\nkerabat kepala desa atau kelompok elite lokal tertentu, maka kontrol sosial di \ntingkat akar rumput akan lumpuh. Ikatan kekeluargaan yang tertu tup \nseringkali disalahgunakan menjadi impunitas, sehingga kritik te rhadap \npengelolaan Dana Desa bernilai miliaran rupiah dan pengelolaan aset desa \nmenjadi tabu serta diredam.",
+      "start_line": 298,
+      "end_line": 307
+    },
+    {
+      "heading": "5. Tuntutan Digitalisasi, Kompetensi Modern, dan Meritokrasi",
+      "slug": "5-tuntutan-digitalisasi-kompetensi-modern-dan-meritokrasi",
+      "text": "Bahwa di era modern saat ini, desa bukan lagi entitas terisolas i yang cukup \ndikelola hanya dengan pendekatan kekeluargaan tradisional. Peng elolaan \nDana Desa menuntut akuntabilitas pelaporan berbasis aplikasi di gital, \ntransparansi, serta keahlian di bidang hukum dan akuntansi. \nBahwa jika rekrutmen perangkat desa dibatasi oleh sentimen keda erahan \nyang sempit, desa justru berisiko kehilangan talenta-talenta ko mpeten yang \nsangat dibutuhkan untuk mengejar ketertinggalan, hanya karena p ersoalan \nperbedaan alamat pada kartu identitas. \nBahwa oleh karena itu, pembatasan administratif yang kaku ini t erbukti \nbertentangan dengan prinsip kepastian hukum yang adil, menghamb at hak \natas kesempatan yang sama dalam pemerintahan, serta mencederai \nsemangat meritokrasi dalam mewujudkan tata kelola pemerintahan desa \nyang bersih dan akuntabel.",
+      "start_line": 309,
+      "end_line": 321
+    },
+    {
+      "heading": "6. Pelanggaran terhadap Hak atas Kesempatan yang Sama dalam",
+      "slug": "6-pelanggaran-terhadap-hak-atas-kesempatan-yang-sama-dalam",
+      "text": "Pemerintahan [Pasal 28D ayat (3) UUD NRI Tahun 1945] \nBahwa Pasal 28D ayat (3) UUD NRI Tahun 1945 menjamin hak konstitusional \nsetiap warga negara tanpa kecuali untuk memperoleh kesempatan y ang \nsama dalam pemerintahan. Frasa “warga Desa” yang ditafsirkan secara kaku \nsebatas administrasi kependudukan terbukti menghalangi warga ne gara \nyang memiliki kapasitas, integritas, dan kompetensi objektif un tuk mengabdi \nsebagai Perangkat Desa. \nBahwa tindakan penggagalan administrasi terhadap Pemohon membuktikan \nbahwa hak untuk berkompetisi secara sehat telah dikebiri oleh r egulasi \ntingkat undang-undang. Pengabdian kepada negara melalui struktu r \npemerintahan terdepan (desa) seharusnya didasarkan pada kompete nsi riil, \n\n 11\nbukan didasarkan pada sekat alamat yang tertera pada Kartu Tand a \nPenduduk.",
+      "start_line": 323,
+      "end_line": 337
+    },
+    {
+      "heading": "7. Pelanggaran terhadap Hak atas Pekerjaan yang Layak [Pasal 27 ayat (2)",
+      "slug": "7-pelanggaran-terhadap-hak-atas-pekerjaan-yang-layak-pasal-27-ayat-2",
+      "text": "UUD NRI Tahun 1945] \nBahwa konstitusi menjamin bahwa tiap-tiap warga negara berhak a tas \npekerjaan dan penghidupan yang layak bagi kemanusiaan. Ketika n egara \nmembiarkan berlakunya norma yang multitafsir dan restriktif, ne gara secara \ntidak langsung telah membatasi ruang hidup ekonomi dan profesio nalitas \nwarga negaranya sendiri.  \nBahwa Pemohon yang telah menetap nyata, mengontrak rumah, dan \nmembaur di tengah masyarakat desa setempat selama kurang lebih 4 \n(empat) tahun, kehilangan haknya untuk bekerja di pemerintahan desa akibat \ndiskriminasi geografis ini.",
+      "start_line": 339,
+      "end_line": 348
+    },
+    {
+      "heading": "8. Pelanggaran terhadap Jaminan Perlindungan dari Perlakuan",
+      "slug": "8-pelanggaran-terhadap-jaminan-perlindungan-dari-perlakuan",
+      "text": "Diskriminatif [Pasal 28I ayat (2) UUD NRI Tahun 1945] \nBahwa Pasal 28I ayat (2) UUD NRI Tahun 1945 melarang keras adan ya \nperlakuan diskriminatif atas dasar apa pun. Keberlakuan frasa “warga Desa” \nmelahirkan diskriminasi baru berbasis batas wilayah kependuduka n \n(geographic discrimination ). Pembedaan perlakuan ini tidak memiliki \nlandasan rasionalitas hukum yang kuat ( reasonable justification ) sehingga \nwajib dinyatakan inkonstitusional.",
+      "start_line": 350,
+      "end_line": 356
+    },
+    {
+      "heading": "9. Pelanggaran terhadap Hak Kolektif untuk Membangun Masyarakat ,",
+      "slug": "9-pelanggaran-terhadap-hak-kolektif-untuk-membangun-masyarakat",
+      "text": "Bangsa, dan Negara [Pasal 28C ayat (2) UUD NRI Tahun 1945] \nBahwa Pasal 28C ayat (2) UUD NRI Tahun 1945 secara tegas member ikan \njaminan konstitusional bagi setiap orang “Setiap orang berhak u ntuk \nmemajukan dirinya dalam memperjuangkan haknya secara kolektif u ntuk \nmembangun masyarakat, bangsa dan negaranya”. Ketentuan ini menj amin \nhak warga negara untuk berkontribusi aktif dalam pembangunan na sional, \nyang pelaksanaannya tidak boleh dibatasi oleh sekat-sekat wilay ah \nadministratif yang kaku.  \nBahwa desa merupakan satuan pemerintahan terkecil sekaligus fon dasi \nutama dalam struktur pembangunan bangsa dan negara Indonesia. O leh \n\n 12\nkarena itu, hak untuk mengabdi sebagai Perangkat Desa merupakan  salah \nsatu bentuk aktualisasi nyata dari hak konstitusional warga neg ara untuk \n“membangun masyarakat, bangsa, dan negaranya” secara kolektif. \nBahwa konstitusi menggunakan frasa “setiap orang” dalam Pasal 2 8C ayat \n(2), yang berarti hak untuk membangun bangsa dan negara ini melekat pada \nsubjek hukum universal (Warga Negara Indonesia), bukan dibatasi  secara \neksklusif hanya untuk kelompok masyarakat yang terdaftar pada administrasi \nkependudukan tertentu. \nBahwa dengan demikian, pemeliharaan sekat domisili melalui inte rpretasi \nkaku frasa “warga Desa” telah mengerdilkan makna hak kolektif d alam \nkonstitusi. Norma tersebut secara nyata menghalangi talenta-tal enta \npotensial warga negara untuk ikut serta memajukan tata kelola pemerintahan \ndesa, sehingga bertentangan secara materiil dengan semangat Pas al 28C \nayat (2) UUD NRI Tahun 1945. \nV. PETITUM \nBerdasarkan seluruh uraian argumen hukum dan kedudukan konstitusional yang \ntelah dijabarkan di atas, Pemohon memohon kepada Majelis Hakim Mahkamah \nKonstitusi Republik Indonesia yang memeriksa, mengadili, dan memutus perkara \na quo untuk berkenan menjatuhkan putusan sebagai berikut:",
+      "start_line": 358,
+      "end_line": 388
+    },
+    {
+      "heading": "2. Menyatakan frasa “warga Desa” dalam Pasal 50 ayat (1) Undang -Undang",
+      "slug": "2-menyatakan-frasa-warga-desa-dalam-pasal-50-ayat-1-undang-undang",
+      "text": "Nomor 3 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor \n6 Tahun 2014 tentang Desa bertentangan secara mutlak dengan Und ang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan tidak mempunyai \nkekuatan hukum mengikat sepanjang tidak dimaknai sebagai “Warga Negara \nIndonesia (WNI)”;",
+      "start_line": 391,
+      "end_line": 395
+    },
+    {
+      "heading": "3. Menyatakan bahwa seluruh syarat domisili bagi calon Perangka t Desa dalam",
+      "slug": "3-menyatakan-bahwa-seluruh-syarat-domisili-bagi-calon-perangka-t-desa-dalam",
+      "text": "segala bentuk interpretasi administratif kependudukan (Kartu Ta nda \nPenduduk atau Kartu Keluarga desa setempat) pasca-keluarnya Put usan \nMahkamah Konstitusi Nomor 128/PUU-XIII/2015 adalah inkonstitusi onal \nkarena membatasi hak konstitusional warga negara untuk memajuka n diri \ndan membangun masyarakat dan oleh karenanya setiap Warga Negara  \n\n 13\nIndonesia memiliki hak yang setara untuk mendaftarkan diri tanp a batasan \ngeografis;",
+      "start_line": 397,
+      "end_line": 405
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya;",
+      "start_line": 407,
+      "end_line": 407
+    },
+    {
+      "heading": "5. Menetapkan bahwa apabila Majelis Hakim Konstitusi memiliki p endapat",
+      "slug": "5-menetapkan-bahwa-apabila-majelis-hakim-konstitusi-memiliki-p-endapat",
+      "text": "hukum yang lain, mohon untuk dapat menjatuhkan putusan yang sea dil-\nadilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-5, sebagai \nberikut:",
+      "start_line": 409,
+      "end_line": 413
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Pasal 50 ayat (1) Undang-Undang Nomor 3 Tahun",
+      "slug": "2-bukti-p-2-fotokopi-pasal-50-ayat-1-undang-undang-nomor-3-tahun",
+      "text": "2024 tentang Perubahan Kedua Atas Undang-Undang Nomor \n6 Tahun 2014 tentang Desa (tidak disahkan);",
+      "start_line": 416,
+      "end_line": 417
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Surat Panitia Penjaringan dan Penyaring an",
+      "slug": "4-bukti-p-4-fotokopi-surat-panitia-penjaringan-dan-penyaring-an",
+      "text": "Perangkat Kampung Purwodadi Kec. Trimurjo, Kab. Lampung \nTengah;",
+      "start_line": 420,
+      "end_line": 421
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Surat Pernyataan Bersedia Pindah Domisi li.",
+      "slug": "5-bukti-p-5-fotokopi-surat-pernyataan-bersedia-pindah-domisi-li",
+      "text": "[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 423,
+      "end_line": 425
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \n\n 14\nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia \nNomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) h uruf a Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu frasa “warga Desa” dalam norma Pasal \n50 ayat (1) Undang-Undang Nomor 3 Tahun 2024 tentang Perubahan Kedua atas \nUndang-Undang Nomor 6 Tahun 2014 tentang Desa (Lembaran Negara Republik \nIndonesia Tahun 2024 Nomor 77, Tambahan Lembaran Negara Republik Indonesia \nNomor 6914, selanjutnya disebut UU 3/2024) terhadap UUD NRI Tahun 1945 maka \nMahkamah berwenang menguji permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 427,
+      "end_line": 459
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  UUD NRI \nTahun 1945 harus menjelaskan terlebih dahulu:",
+      "start_line": 462,
+      "end_line": 463
+    },
+    {
+      "heading": "1. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat",
+      "slug": "1-kedudukannya-sebagai-pemohon-sebagaimana-dimaksud-dalam-pasa-l-51-ayat",
+      "text": "(1) UU MK;",
+      "start_line": 465,
+      "end_line": 465
+    },
+    {
+      "heading": "2. ada tidaknya kerugian hak dan/atau kewenangan konstitusional yang diberikan",
+      "slug": "2-ada-tidaknya-kerugian-hak-dan-atau-kewenangan-konstitusional-yang-diberikan",
+      "text": "oleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \n\n 15\nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, Mahkamah telah berpendirian \nbahwa kerugian hak dan/atau kewenangan konstitusional sebagaima na dimaksud \ndalam Pasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  d i a n g g a p  \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 467,
+      "end_line": 482
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 484,
+      "end_line": 485
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1)  UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon yang pad a \npokoknya sebagai berikut:",
+      "start_line": 487,
+      "end_line": 494
+    },
+    {
+      "heading": "1. Bahwa Pemohon mengajukan pengujian materiil norma undang-und ang, in casu",
+      "slug": "1-bahwa-pemohon-mengajukan-pengujian-materiil-norma-undang-und-ang-in-casu",
+      "text": "frasa “warga Desa” dalam norma Pasal 50 ayat (1) UU 3/2024 yang menyatakan \nsebagai berikut: \nPasal 50 ayat (1) UU 3/2024 \n“Perangkat Desa sebagaimana dimaksud dalam Pasal 48 diangkat da ri \nwarga Desa yang memenuhi persyaratan:”. \n\n 16",
+      "start_line": 496,
+      "end_line": 502
+    },
+    {
+      "heading": "2. Bahwa Pemohon menjelaskan memiliki hak konstitusional antara l a i n",
+      "slug": "2-bahwa-pemohon-menjelaskan-memiliki-hak-konstitusional-antara-l-a-i-n",
+      "text": "sebagaimana dijamin dalam Pasal 27 ayat (2), Pasal 28C ayat (2) , serta Pasal \n28D ayat (3) UUD NRI Tahun 1945.",
+      "start_line": 504,
+      "end_line": 505
+    },
+    {
+      "heading": "3. Bahwa Pemohon adalah perseorangan warga negara Indonesia yan g dibuktikan",
+      "slug": "3-bahwa-pemohon-adalah-perseorangan-warga-negara-indonesia-yan-g-dibuktikan",
+      "text": "dengan identitas kepemilikan Kartu Tanda Penduduk (KTP) [vide Bukti P-1] yang \nberstatus sebagai karyawan swasta yang berhak mendaftarkan diri, berkompetisi \nsecara adil, dan mengabdikan diri sebagai perangkat desa sebaga i perwujudan \nlangsung dari hak atas kesempatan yang sama dalam pemerintahan serta hak \natas pekerjaan yang dijamin oleh UUD NRI Tahun 1945.",
+      "start_line": 507,
+      "end_line": 511
+    },
+    {
+      "heading": "4. Bahwa Pemohon menjelaskan anggapan kerugian hak konstitusion al akibat",
+      "slug": "4-bahwa-pemohon-menjelaskan-anggapan-kerugian-hak-konstitusion-al-akibat",
+      "text": "berlakunya frasa “warga Desa” dalam norma Pasal 50 ayat (1) UU 3/2024 \nsebagai berikut: \na. Bahwa frasa “warga Desa” tersebut menimbulkan ketidakpastian hukum yang \nmultitafsir karena membuka ruang bagi panitia seleksi di tingka t lapangan \nuntuk menafsirkan aturan secara sempit, kaku, dan restriktif se batas urusan \nadministrasi kependudukan (kepemilikan KTP/KK setempat). Tafsir  sepihak \npanitia tersebut secara nyata mengabaikan fakta sosiologis bahwa Pemohon \ntelah menetap secara fisik, mengontrak rumah, dan membaur di te ngah \nmasyarakat desa/kampung setempat selama kurang lebih 4 (empat) tahun. \nb. Bahwa kerugian hukum yang dialami Pemohon tidak bersifat abstrak, teoritis, \natau sekadar berandai-andai, melainkan bersifat spesifik, konkret, dan aktual \n(nyata telah terjadi) di mana Pemohon secara resmi mendaftarkan diri dalam \nseleksi perangkat desa/kampung di wilayah tempat Pemohon berdom isili \nnyata dan mengontrak rumah saat ini. Namun, berkas pendaftaran Pemohon \nditolak secara administratif (dinyatakan gugur berkas) oleh pan itia seleksi \ndengan alasan mutlak bahwa Pemohon secara administratif masih t erdaftar \nsebagai warga Kota Metro (bukan warga ber-KTP desa setempat) [vide Bukti \nP-4]. Penolakan administratif tersebut tetap dilakukan secara k aku dan \nrestriktif, meskipun Pemohon telah menunjukkan iktikad baik ( good faith ) \nserta komitmen pelayanan tinggi dengan melampirkan surat pernya taan \nbermaterai cukup yang menyatakan siap pindah domisili secara administrasi \n(KTP dan KK) dan menetap di desa tersebut jika ditetapkan sebag ai \nPerangkat Desa demi kelancaran pelayanan warga [vide Bukti P-5]. \n\n 17",
+      "start_line": 513,
+      "end_line": 537
+    },
+    {
+      "heading": "c. Bahwa terdapat hubungan sebab-akibat ( causal verband) yang langsung dan",
+      "slug": "c-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-yang-langsung-dan",
+      "text": "tidak terputus antara kerugian hak konstitusional Pemohon denga n \nkeberlakuan norma UU 3/2024, khususnya frasa “warga Desa”. Tind akan \npenggagalan administrasi terhadap Pemohon oleh panitia seleksi terjadi \nsemata-mata karena panitia mendasarkan legitimasi hukumnya pada  frasa \n“warga Desa” yang termaktub di dalam undang-undang tersebut unt uk \nmenolak pelamar dari luar wilayah administrasi desa. Apabila fr asa “warga \nDesa” tersebut dinyatakan bertentangan dengan UUD NRI Tahun 194 5 dan \ndiganti menjadi 'Warga Negara Indonesia' (sebagaimana syarat Ke pala \nDesa), maka tidak ada lagi celah hukum maupun legitimasi bagi p anitia \nseleksi untuk melakukan diskriminasi geografis yang merintangi berkas \nPemohon.",
+      "start_line": 539,
+      "end_line": 549
+    },
+    {
+      "heading": "d. Bahwa dengan dikabulkannya permohonan a quo oleh Mahkamah Konstitusi,",
+      "slug": "d-bahwa-dengan-dikabulkannya-permohonan-a-quo-oleh-mahkamah-konstitusi",
+      "text": "yaitu dengan menyatakan frasa “warga Desa” bertentangan dengan UUD \nNRI Tahun 1945, maka kerugian konstitusional Pemohon dipastikan  a k a n  \npulih, terhenti, dan tidak akan terjadi lagi di kemudian hari. \n[3.6] Menimbang bahwa setelah memeriksa secara saksama uraian dalam \nmenjelaskan anggapan kerugian hak konstitusional sebagaimana di uraikan pada \nParagraf [3.5] di atas, selanjutnya Mahkamah akan mempertimbangkan kedudukan \nhukum Pemohon sebagai berikut. \nBahwa Pemohon telah menguraikan kualifikasinya sebagai perseorangan \nwarga negara Indonesia yang dibuktikan dengan Kartu Tanda Penduduk [vide Bukti \nP-1], yang bekerja sebagai karyawan swasta, yang menjelaskan me miliki hak atas \nkesempatan yang sama dalam pemerintahan serta hak atas pekerjaan dan hak atas \nkepastian hukum yang adil sebagaimana dijamin dalam Pasal 27 ay at (2), Pasal \n28C ayat (2), serta Pasal 28D ayat (3) UUD NRI Tahun 1945. Namu n demikian, \ndalam menjelaskan kedudukan hukum dimaksud, Pemohon juga harus telah \nmemenuhi syarat sebagaimana diatur dalam Pasal 51 ayat (1) huru f a UU MK dan \nPasal 4 ayat (1) huruf a Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 \ntentang Tata Beracara Dalam Perkara Pengujian Undang-Undang (PM K 7/2025), \nyakni adanya kewenangan konstitusional Pemohon yang diberikan o leh UUD NRI \nTahun 1945; terdapat kerugian hak konstitusional yang dialami o leh hak dan/atau \nkewenangan konstitusional tersebut oleh Pemohon dianggap dirugi kan oleh \n\n 18\nberlakunya undang-undang yang dimohonkan pengujian; kerugian ko nstitusional \ntersebut harus bersifat spesifik (khusus) dan aktual atau setid ak-tidaknya potensial \nyang menurut penalaran yang wajar dapat dipastikan akan terjadi ; adanya \nhubungan sebab-akibat (causal verband) antara kerugian dimaksud dan berlakunya \nundang-undang yang dimohonkan pengujian; serta adanya kemungkin an bahwa \ndengan dikabulkannya permohonan, maka kerugian konstitusional s eperti yang \ndidalilkan tidak akan atau tidak lagi terjadi. \nBerkenaan dengan uraian mengenai keterpenuhan syarat anggapan \nkerugian hak konstitusional sebagaimana ketentuan di atas, Mahk amah menilai \nbahwa Pemohon menguraikan kualifikasinya sebagai perseorangan w arga negara \nIndonesia. Sementara itu, terkait dengan uraian anggapan hak ko nstitusional \nPemohon yang dirugikan pada waktu mendaftarkan diri untuk berko mpetisi secara \nadil sebagai calon perangkat desa yang dibatalkan panitia selek si karena \nberlakunya frasa “warga Desa” dalam norma Pasal 50 ayat (1) UU 3/2024, Pemohon \ntidak menguraikan secara jelas dan memadai bahwa berlakunya fra sa tersebut \nmenimbulkan ketidakpastian hukum atau multitafsir, sehingga men ghalangi hak \nkonstitusional Pemohon karena adanya tafsir sepihak panitia seleksi perangkat desa \nyang mengabaikan fakta sosiologis Pemohon yang telah menetap se cara fisik dan \nmembaur di tengah masyarakat desa/kampung setempat selama kuran g lebih 4 \n(empat) tahun. Setelah Mahkamah mencermati secara saksama uraia n anggapan \nkerugian hak konstitusional dimaksud, Pemohon telah ternyata ti dak menguraikan \nsecara jelas dan memadai bahwa anggapan kerugian hak konstitusi onal Pemohon \ndisebabkan karena berlakunya norma Pasal 50 ayat (1) UU 3/2024 yang telah \nmenghapus norma Pasal 50 ayat (1) huruf c dalam UU 16/2014 karena disesuaikan \ndengan Putusan Mahkamah Konstitusi Nomor 128/PUU-XIII/2015 yang  diucapkan \ndalam sidang pleno terbuka untuk umum pada tanggal 23 Agustus 2016, yang tidak \nmembatasi persyaratan calon perangkat desa harus terdaftar seba gai penduduk \ndan bertempat tinggal di desa setempat paling kurang 1 (satu) t ahun sebelum \npendaftaran. Oleh karena itu, secara substansial, norma Pasal 5 0 ayat (1) UU \n3/2024 tidak menghalangi hak konstitusional Pemohon untuk menda ftarkan diri \nsebagai calon perangkat desa. Dalam hal ini, persoalan yang dia lami Pemohon \nbukan disebabkan oleh berlakunya norma Pasal 50 ayat (1) UU 3/2024 tetapi karena \nadanya pelaksanaan dari norma dimaksud berupa penolakan dari pa nitia \npendaftaran calon perangkat desa yang dialami oleh Pemohon. Ole h karena itu, \n\n 19\nMahkamah tidak dapat menemukan adanya hubungan sebab-akibat ( causal \nverband) antara anggapan kerugian hak konstitusional dengan berlakunya  norma \nPasal 50 ayat (1) UU 3/2024 yang dimohonkan pengujian. Dalam hal ini, anggapan \nkerugian hak konstitusional akibat berlakunya norma yang dimoho nkan pengujian, \ntidak memenuhi syarat-syarat kerugian hak konstitusional sebaga imana diuraikan \npada Paragraf [3.4]. Oleh karena syarat-syarat anggapan kerugian hak \nkonstitusional sebagaimana dikehendaki dalam Putusan Mahkamah K onstitusi \nNomor 006/PUU-III/2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-V/2007 \nserta putusan-putusan selanjutnya, bersifat kumulatif, maka dengan tidak terpenuhi \nsalah satu syarat dimaksud dengan sendirinya tidak terpenuhi se luruh syarat yang \ndikehendaki dan oleh karenanya tidak ada relevansinya lagi bagi  Mahkamah \nmempertimbangkan syarat selebihnya.  \nBerdasarkan pertimbangan hukum tersebut di atas, tidak terdapat  \nkeraguan bagi Mahkamah untuk menyatakan Pemohon tidak memiliki kedudukan \nhukum untuk bertindak sebagai Pemohon dalam mengajukan permohonan a quo. \n[3.7]  Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan a quo, namun oleh karena Pemohon tidak memiliki kedudukan hukum \nuntuk mengajukan permohonan a quo maka Mahkamah tidak mempertimbangkan \nlebih lanjut permohonan Pemohon.",
+      "start_line": 551,
+      "end_line": 627
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 629,
+      "end_line": 629
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon tidak memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \n\n 20\nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 631,
+      "end_line": 645
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P . Foekh, M. Guntur \nHamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing s ebagai Anggota \npada hari Selasa, tanggal satu, bulan September, tahun dua ribu dua puluh \nenam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka u ntuk \numum pada hari Rabu, tanggal enam belas, bulan September, tahun dua ribu dua \npuluh enam, selesai diucapkan pukul 14.28 WIB oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Enn y Nurbaningsih, \nRidwan Mansyur, Arsul Sani, Daniel Yusmic P. Foekh, M. Guntur H amzah, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu \noleh Ida Ria Tambunan sebagai Panitera Pengganti, serta dihadir i oleh Pemohon, \nDewan Perwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nEnny Nurbaningsih \n\n 21\nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nDaniel Yusmic P. Foekh \nttd. \nM. Guntur Hamzah \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nIda Ria Tambunan",
+      "start_line": 647,
+      "end_line": 687
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Muhammad Dimas Aditya",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 3 Tahun 2024 tentang Perubahan Kedua Atas Undang-Undang Nomor 6 Tahun 2014 tentang Desa"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C",
+      "Pasal 24C ayat (1)",
+      "Pasal 27 ayat (2)",
+      "Pasal 28C ayat (2)",
+      "Pasal 28D ayat (3)",
+      "Pasal 28I ayat (2)",
+      "Pasal 10 ayat (1) hur"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (1) hur"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-3",
+      "REFERENSI:298/PUU-XXIV/2026",
+      "REFERENSI:298/PUU/PAN.MK/AP3/08/2026",
+      "REFERENSI:128/PUU-XIII/2015",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:16/2014karenadisesuaikandenganPutusanMahkamahKonstitusiNomor128/PUU-XIII/2015",
+      "REFERENSI:006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Ida Ria Tambunan"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "298/PUU-XXIV/2026",
+      "298/PUU/PAN.MK/AP3/08/2026",
+      "128/PUU-XIII/2015",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "16/2014karenadisesuaikandenganPutusanMahkamahKonstitusiNomor128/PUU-XIII/2015",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "298/PUU-XXIV/2026",
+      "298/PUU/PAN.MK/AP3/08/2026",
+      "128/PUU-XIII/2015",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "16/2014karenadisesuaikandenganPutusanMahkamahKonstitusiNomor128/PUU-XIII/2015",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

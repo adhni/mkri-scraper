@@ -1,0 +1,1280 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_15013_1790669149.pdf",
+    "file_name": "putusan_mkri_15013_1790669149.pdf",
+    "page_count": 27,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15013_1790669149.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "325/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "325/PUU/PAN.MK/AP3/08/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-29",
+    "decision_date_raw": "dua puluh sembilan, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "PUTUSAN \nNOMOR 325/PUU-XXIV/2026",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat  \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional t erhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh: \n Nama : Lukman Nulhakim \n Pekerjaan : Wiraswasta \n Alamat : Jalan Moch. Toha Nomor 27/204 A, RT/RW: 001/006, \nKelurahan Ciseureuh, Kecamatan Regol, Bandung  \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon; \nMemeriksa bukti-bukti Pemohon",
+      "start_line": 4,
+      "end_line": 16
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n31 Agustus 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada tanggal 31 \nAgustus 2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomo r \n325/PUU/PAN.MK/AP3/08/2026 dan telah dicatat dalam Buku Registr asi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 325/PUU- XXIV/2026 \npada tanggal 31 Agustus 2026, yang telah diperbaiki dan diterima Mahkamah pada \ntanggal 16 September 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 18,
+      "end_line": 25
+    },
+    {
+      "heading": "1. Bahwa berdasarkan Pasal 24C ayat (1) UUD NRI Tahun 1945, Mah kamah",
+      "slug": "1-bahwa-berdasarkan-pasal-24c-ayat-1-uud-nri-tahun-1945-mah-kamah",
+      "text": "Konstitusi berwenang mengadili pada tingkat pertama dan terakhi r yang \n\n\n \n \n2\nputusannya bersifat final untuk menguji undang-undang terhadap Undang-\nUndang Dasar.",
+      "start_line": 27,
+      "end_line": 34
+    },
+    {
+      "heading": "2. Bahwa berdasarkan Pasal 10 ayat (1) huruf a UU Mahkamah Kons titusi,",
+      "slug": "2-bahwa-berdasarkan-pasal-10-ayat-1-huruf-a-uu-mahkamah-kons-titusi",
+      "text": "Mahkamah Konstitusi berwenang menguji undang-undang terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 36,
+      "end_line": 37
+    },
+    {
+      "heading": "3. Bahwa objek permohonan a quo adalah norma dalam Undang-Undang",
+      "slug": "3-bahwa-objek-permohonan-a-quo-adalah-norma-dalam-undang-undang",
+      "text": "Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional, khususnya:  \na. Pasal 12 ayat (1) huruf d, yang menyatakan:  \n“Setiap peserta didik pada setiap satuan pendidikan berhak:  \n...",
+      "start_line": 39,
+      "end_line": 42
+    },
+    {
+      "heading": "d. mendapatkan biaya pendidikan bagi mereka yang orang tuanya t idak",
+      "slug": "d-mendapatkan-biaya-pendidikan-bagi-mereka-yang-orang-tuanya-t-idak",
+      "text": "mampu membiayai pendidikannya;”  \nb. Pasal 12 ayat (2) huruf b, yang menyatakan: \n “Setiap peserta didik berkewajiban:  \n...  \nb. ikut menanggung biaya penyelenggaraan pendidikan, kecuali ba gi \npeserta didik yang dibebaskan dari kewajiban tersebut sesuai dengan \nperaturan perundang-undangan yang berlaku.”",
+      "start_line": 44,
+      "end_line": 50
+    },
+    {
+      "heading": "4. Bahwa oleh karena objek pengujian merupakan norma undang-und ang yang",
+      "slug": "4-bahwa-oleh-karena-objek-pengujian-merupakan-norma-undang-und-ang-yang",
+      "text": "didalilkan bertentangan dengan UUD NRI Tahun 1945, maka Mahkama h \nKonstitusi berwenang memeriksa, mengadili, dan memutus permohon an  a \nquo. \nII. KEDUDUKAN HUKUM ( LEGAL STANDING) PEMOHON",
+      "start_line": 52,
+      "end_line": 55
+    },
+    {
+      "heading": "5. Bahwa Pemohon adalah warga negara Indonesia dan orang tua ya ng",
+      "slug": "5-bahwa-pemohon-adalah-warga-negara-indonesia-dan-orang-tua-ya-ng",
+      "text": "mempunyai tanggung jawab nyata untuk membiayai pendidikan anak- anak \nPemohon.",
+      "start_line": 57,
+      "end_line": 58
+    },
+    {
+      "heading": "6. Bahwa Pemohon mempunyai tiga orang anak yang sedang berada p ada",
+      "slug": "6-bahwa-pemohon-mempunyai-tiga-orang-anak-yang-sedang-berada-p-ada",
+      "text": "jenjang pendidikan yang berbeda, yaitu:  \na. anak pertama sedang menempuh pendidikan pada perguruan tingg i \nswasta;  \nb. anak kedua sedang menempuh pendidikan SMA dan akan memasuki \njenjang perguruan tinggi;",
+      "start_line": 60,
+      "end_line": 64
+    },
+    {
+      "heading": "c. anak ketiga sedang menempuh pendidikan SD dan akan memasuki",
+      "slug": "c-anak-ketiga-sedang-menempuh-pendidikan-sd-dan-akan-memasuki",
+      "text": "jenjang SMP.  \n\n \n \n3",
+      "start_line": 66,
+      "end_line": 70
+    },
+    {
+      "heading": "7. Bahwa kondisi tersebut menyebabkan Pemohon menghadapi beban",
+      "slug": "7-bahwa-kondisi-tersebut-menyebabkan-pemohon-menghadapi-beban",
+      "text": "pembiayaan pendidikan secara bersamaan dan berkelanjutan, bukan  \nsekadar kemungkinan abstrak mengenai biaya pendidikan.",
+      "start_line": 72,
+      "end_line": 73
+    },
+    {
+      "heading": "8. Bahwa kondisi ekonomi Pemohon berasal dari usaha/ home industry yang",
+      "slug": "8-bahwa-kondisi-ekonomi-pemohon-berasal-dari-usaha-home-industry-yang",
+      "text": "dalam beberapa tahun terakhir mengalami penurunan pendapatan.",
+      "start_line": 75,
+      "end_line": 75
+    },
+    {
+      "heading": "9. Bahwa di sisi lain, Pemohon tercatat dalam Data Tunggal Sosi al Ekonomi",
+      "slug": "9-bahwa-di-sisi-lain-pemohon-tercatat-dalam-data-tunggal-sosi-al-ekonomi",
+      "text": "Nasional (DTSEN) dengan klasifikasi Desil 6.",
+      "start_line": 77,
+      "end_line": 77
+    },
+    {
+      "heading": "10. Bahwa Pemohon memahami bahwa DTSEN dan klasifikasi desil",
+      "slug": "10-bahwa-pemohon-memahami-bahwa-dtsen-dan-klasifikasi-desil",
+      "text": "merupakan instrumen administrasi  pemerintah untuk memetakan kon disi \nsosial ekonomi masyarakat dan bukan semata-mata penetapan hak \nindividual atas bantuan tertentu.",
+      "start_line": 79,
+      "end_line": 81
+    },
+    {
+      "heading": "11. Bahwa justru karena desil merupakan klasifikasi relatif, pe rsoalan",
+      "slug": "11-bahwa-justru-karena-desil-merupakan-klasifikasi-relatif-pe-rsoalan",
+      "text": "konstitusional yang dialami Pemohon bukanlah keberadaan DTSEN sebagai \ninstrumen negara, melainkan ketika klasifikasi tersebut dalam p raktik \ndijadikan batas administratif yang dapat menentukan apakah sese orang \ndipandang “mampu” atau “tidak mampu” membiayai pendidikan, tanp a \nmemberikan bobot yang memadai terhadap keadaan ekonomi aktual \nkeluarga.",
+      "start_line": 83,
+      "end_line": 88
+    },
+    {
+      "heading": "12. Bahwa BPS menjelaskan desil merupakan pengelompokan tingkat",
+      "slug": "12-bahwa-bps-menjelaskan-desil-merupakan-pengelompokan-tingkat",
+      "text": "kesejahteraan dan dalam pengembangannya menggunakan berbagai \nkarakteristik sosial ekonomi. BPS juga menjelaskan bahwa pemuta khiran \nDTSEN merupakan bagian penting untuk memastikan data menggambarkan \nkondisi masyarakat.",
+      "start_line": 90,
+      "end_line": 93
+    },
+    {
+      "heading": "13. Bahwa dengan demikian, status Desil 6 tidak dengan sendirin ya",
+      "slug": "13-bahwa-dengan-demikian-status-desil-6-tidak-dengan-sendirin-ya",
+      "text": "membuktikan bahwa Pemohon mampu membiayai seluruh kebutuhan \npendidikan anak-anaknya, sebagaimana status suatu desil juga ti dak \ndengan sendirinya merupakan ukuran tunggal kemampuan membayar biaya \npendidikan.",
+      "start_line": 95,
+      "end_line": 98
+    },
+    {
+      "heading": "14. Bahwa persoalan tersebut menjadi konkret karena Pemohon men ghadapi",
+      "slug": "14-bahwa-persoalan-tersebut-menjadi-konkret-karena-pemohon-men-ghadapi",
+      "text": "kebutuhan pembiayaan pendidikan pada tiga jenjang secara bersamaan.",
+      "start_line": 100,
+      "end_line": 100
+    },
+    {
+      "heading": "15. Bahwa untuk anak pertama, Pemohon menghadapi biaya pendidik an",
+      "slug": "15-bahwa-untuk-anak-pertama-pemohon-menghadapi-biaya-pendidik-an",
+      "text": "perguruan tinggi swasta dan pernah berupaya mencari keringanan biaya \npendidikan.  \n\n \n \n4",
+      "start_line": 102,
+      "end_line": 107
+    },
+    {
+      "heading": "16. Bahwa dalam proses tersebut, Pemohon menghadapi keterkaitan a n t a r a",
+      "slug": "16-bahwa-dalam-proses-tersebut-pemohon-menghadapi-keterkaitan-a-n-t-a-r-a",
+      "text": "kemampuan memperoleh keringanan pembiayaan pendidikan dengan \nstatus sosial ekonomi/desil.",
+      "start_line": 109,
+      "end_line": 110
+    },
+    {
+      "heading": "17. Bahwa untuk anak kedua, Pemo hon menghadapi kebutuhan biaya",
+      "slug": "17-bahwa-untuk-anak-kedua-pemo-hon-menghadapi-kebutuhan-biaya",
+      "text": "pendidikan perguruan tinggi pada tahun berikutnya, dengan kemun gkinan \nbiaya UKT apabila diterima melalui jalur perguruan tinggi neger i maupun \nbiaya masuk dan pendidikan apabila menempuh perguruan tinggi swasta.",
+      "start_line": 112,
+      "end_line": 114
+    },
+    {
+      "heading": "18. Bahwa untuk anak ketiga, Pemohon menghadapi kebutuhan memas uki",
+      "slug": "18-bahwa-untuk-anak-ketiga-pemohon-menghadapi-kebutuhan-memas-uki",
+      "text": "jenjang SMP pada tahun berikutnya. Apabila tidak memperoleh aks es ke \nsatuan pendidikan negeri yang tersedia, pilihan sekolah swasta dapat \nmenimbulkan biaya uang pangkal dan SPP yang harus ditanggung \nkeluarga.",
+      "start_line": 116,
+      "end_line": 119
+    },
+    {
+      "heading": "19. Bahwa persoalan tersebut menjadi semakin relevan karena Put usan",
+      "slug": "19-bahwa-persoalan-tersebut-menjadi-semakin-relevan-karena-put-usan",
+      "text": "Mahkamah Konstitusi Nomor 3/PUU-XXII/2024 telah menegaskan bahw a \nPemerintah dan Pemerintah Daerah wajib menjamin terselenggarany a \nwajib belajar minimal pada jenjang pendidikan dasar tanpa memun gut \nbiaya, baik pada satuan pendidikan dasar yang diselenggarakan \npemerintah maupun masyarakat.",
+      "start_line": 121,
+      "end_line": 125
+    },
+    {
+      "heading": "20. Bahwa SMP termasuk dalam jenjang pendidikan dasar. Oleh kar ena itu,",
+      "slug": "20-bahwa-smp-termasuk-dalam-jenjang-pendidikan-dasar-oleh-kar-ena-itu",
+      "text": "kebutuhan pendidikan anak ketiga Pemohon bukan sekadar persoala n \nbantuan sosial, melainkan bersinggungan langsung dengan kewajib an \nkonstitusional negara di bidang pendidikan dasar.",
+      "start_line": 127,
+      "end_line": 129
+    },
+    {
+      "heading": "21. Bahwa kerugian konstitusional Pemohon bukanlah klaim bahwa setiap anak",
+      "slug": "21-bahwa-kerugian-konstitusional-pemohon-bukanlah-klaim-bahwa-setiap-anak",
+      "text": "Pemohon secara otomatis berhak menerima suatu program bantuan \ntertentu.",
+      "start_line": 131,
+      "end_line": 132
+    },
+    {
+      "heading": "22. Bahwa kerugian konstitusional Pemohon terletak pada adanya keadaan di",
+      "slug": "22-bahwa-kerugian-konstitusional-pemohon-terletak-pada-adanya-keadaan-di",
+      "text": "mana:  \nhak peserta didik untuk memperoleh biaya pendidikan bagi mereka  yang \norang tuanya tidak mampu sebagaimana dijamin Pasal 12 ayat (1) huruf d \ndan pengecualian dari kewajiban ikut menanggung biaya pendidika n \nsebagaimana Pasal 12 ayat (2) huruf b berpotensi ditentukan mel alui \nklasifikasi administratif yang bersifat relatif, sementara kondisi kemampuan \nekonomi aktual keluarga dapat berbeda dari posisi relatif tersebut.  \n\n \n \n5",
+      "start_line": 134,
+      "end_line": 144
+    },
+    {
+      "heading": "23. Bahwa dengan demikian terdapat hubungan sebab-akibat antara norma a",
+      "slug": "23-bahwa-dengan-demikian-terdapat-hubungan-sebab-akibat-antara-norma-a",
+      "text": "quo, cara norma tersebut dapat dioperasionalkan melalui kriteria \nadministratif, dan kerugian konstitusional yang dialami atau se cara wajar \nberpotensi dialami Pemohon.",
+      "start_line": 146,
+      "end_line": 148
+    },
+    {
+      "heading": "24. Bahwa apabila Mahkamah memberikan pemaknaan konstitusional",
+      "slug": "24-bahwa-apabila-mahkamah-memberikan-pemaknaan-konstitusional",
+      "text": "sebagaimana dimohonkan dalam petitum, maka kerugian tersebut da pat \ndicegah karena penentuan “tidak mampu” tidak semata-mata didasa rkan \npada posisi relatif dalam klasifikasi kesejahteraan, melainkan harus \nmemberikan ruang bagi pemeriksaan keadaan ekonomi aktual yang relevan \ndengan kemampuan membiayai pendidikan. \nIII.  OBJEK PERMOHONAN",
+      "start_line": 150,
+      "end_line": 155
+    },
+    {
+      "heading": "25. Bahwa Pemohon tidak mempersoalkan keberadaan DTSEN, tidak m eminta",
+      "slug": "25-bahwa-pemohon-tidak-mempersoalkan-keberadaan-dtsen-tidak-m-eminta",
+      "text": "Mahkamah membatalkan DTSEN, tidak meminta Mahkamah menentukan \nbahwa Pemohon seharusnya berada pada Desil 4, serta tidak memin ta \nMahkamah menetapkan Pemohon sebagai penerima KIP Kuliah atau PIP.",
+      "start_line": 157,
+      "end_line": 159
+    },
+    {
+      "heading": "26. Bahwa yang diuji dalam permohonan ini adalah konstitusional itas norma",
+      "slug": "26-bahwa-yang-diuji-dalam-permohonan-ini-adalah-konstitusional-itas-norma",
+      "text": "Pasal 12 ayat (1) huruf d dan Pasal 12 ayat (2) huruf b UU Sisd iknas \nsepanjang norma tersebut belum memberikan jaminan bahwa penentu an \n“orang tua tidak mampu membiayai pendidikan” dan pembebasan dar i \nkewajiban ikut menanggung biaya pendidikan tidak boleh ditentukan secara \nsemata-mata dan kaku berdasarkan klasifikasi kesejahteraan yang bersifat \nrelatif.",
+      "start_line": 161,
+      "end_line": 166
+    },
+    {
+      "heading": "27. Bahwa dengan demikian, objek pengujian tetap merupakan norma undang-",
+      "slug": "27-bahwa-dengan-demikian-objek-pengujian-tetap-merupakan-norma-undang",
+      "text": "undang, sedangkan DTSEN/desil ditempatkan sebagai konteks faktual dan \ncontoh konkret mengenai persoalan implementasi norma. \nIV. NORMA  KONSTITUSIONAL YANG MENJADI BATU UJI",
+      "start_line": 168,
+      "end_line": 170
+    },
+    {
+      "heading": "28. Bahwa Pemohon menggunakan batu uji:",
+      "slug": "28-bahwa-pemohon-menggunakan-batu-uji",
+      "text": "Pasal 28D ayat (1) UUD NRI Tahun 1945  \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum.”  \nPasal 31 ayat (1) UUD NRI Tahun 1945  \n“Setiap warga negara berhak mendapat pendidikan.”  \nPasal 31 ayat (2) UUD NRI Tahun 1945  \n\n \n \n6\n“Setiap warga negara wajib mengikuti pendidikan dasar dan pemer intah \nwajib membiayainya.”",
+      "start_line": 172,
+      "end_line": 184
+    },
+    {
+      "heading": "29. Bahwa Pemohon tidak lagi me njadikan Pasal 28I ayat (2) UUD NRI Tahun",
+      "slug": "29-bahwa-pemohon-tidak-lagi-me-njadikan-pasal-28i-ayat-2-uud-nri-tahun",
+      "text": "1945 sebagai batu uji utama, karena inti permohonan bukanlah diskriminasi \nberdasarkan kategori identitas sebagaimana dimaksud dalam norma  \ntersebut, melainkan kepastian hukum, kesetaraan akses, dan pelaksanaan \nhak atas pendidikan.",
+      "start_line": 186,
+      "end_line": 189
+    },
+    {
+      "heading": "30. Bahwa Pemohon juga tidak mendalilkan bahwa UUD 1945 menghar uskan",
+      "slug": "30-bahwa-pemohon-juga-tidak-mendalilkan-bahwa-uud-1945-menghar-uskan",
+      "text": "seluruh pendidikan hingga perguruan tinggi diberikan secara cum a-cuma \nkepada seluruh warga negara.",
+      "start_line": 191,
+      "end_line": 192
+    },
+    {
+      "heading": "31. Bahwa permohonan a quo secara khusus menempatkan pendidikan dasar",
+      "slug": "31-bahwa-permohonan-a-quo-secara-khusus-menempatkan-pendidikan-dasar",
+      "text": "sebagai batas minimum kewajiban konstitusional negara berdasark an \nPasal 31 ayat (2), sedangkan pendidikan pada jenjang menengah dan tinggi \ndigunakan untuk menunjukkan beban pendidikan keluarga secara \nkeseluruhan dan persoalan akses pendidikan. \nV. ALASAN -ALASAN PERMOHONAN  \nA. Hak memperoleh biaya pendidikan bagi orang tua yang tidak ma mpu \njustru menunjukkan bahwa UU Sisdiknas mengakui adanya kewajiban  \nperlindungan terhadap peserta didik yang tidak mampu",
+      "start_line": 194,
+      "end_line": 201
+    },
+    {
+      "heading": "32. Bahwa Pasal 12 ayat (1) huruf d UU Sisdiknas secara tegas m emberikan",
+      "slug": "32-bahwa-pasal-12-ayat-1-huruf-d-uu-sisdiknas-secara-tegas-m-emberikan",
+      "text": "hak kepada peserta didik untuk mendapatkan biaya pendidikan apa bila \norang tuanya tidak mampu membiayai pendidikan.",
+      "start_line": 203,
+      "end_line": 204
+    },
+    {
+      "heading": "33. Bahwa norma tersebut merupakan bentuk pengakuan legislator bahwa",
+      "slug": "33-bahwa-norma-tersebut-merupakan-bentuk-pengakuan-legislator-bahwa",
+      "text": "kemampuan ekonomi orang tua tidak selalu sama dan bahwa peserta didik \nyang orang tuanya tidak mampu harus memperoleh perlindungan \npembiayaan pendidikan.",
+      "start_line": 206,
+      "end_line": 208
+    },
+    {
+      "heading": "34. Bahwa dengan demikian, pembentuk undang-undang telah membua t",
+      "slug": "34-bahwa-dengan-demikian-pembentuk-undang-undang-telah-membua-t",
+      "text": "hubungan hukum yang jelas:  \nketidakmampuan orang tua → hak peserta didik memperoleh biaya \npendidikan.",
+      "start_line": 210,
+      "end_line": 212
+    },
+    {
+      "heading": "35. Bahwa persoalan konstitusional kemudian muncul pada tahap b erikutnya,",
+      "slug": "35-bahwa-persoalan-konstitusional-kemudian-muncul-pada-tahap-b-erikutnya",
+      "text": "yaitu ketika negara harus menentukan siapa yang masuk kategori “tidak \nmampu”.  \n\n \n \n7",
+      "start_line": 214,
+      "end_line": 219
+    },
+    {
+      "heading": "36. Bahwa UU Sisdiknas tidak memberikan ukuran tunggal berupa j umlah",
+      "slug": "36-bahwa-uu-sisdiknas-tidak-memberikan-ukuran-tunggal-berupa-j-umlah",
+      "text": "penghasilan tertentu yang secara otomatis menentukan seseorang mampu \natau tidak mampu membiayai pendidikan.",
+      "start_line": 221,
+      "end_line": 222
+    },
+    {
+      "heading": "37. Bahwa kondisi tersebut membuka ruang bagi kebijakan adminis tratif untuk",
+      "slug": "37-bahwa-kondisi-tersebut-membuka-ruang-bagi-kebijakan-adminis-tratif-untuk",
+      "text": "menentukan penerima manfaat.",
+      "start_line": 224,
+      "end_line": 224
+    },
+    {
+      "heading": "38. Bahwa penggunaan instrumen administratif pada prinsipnya ti dak",
+      "slug": "38-bahwa-penggunaan-instrumen-administratif-pada-prinsipnya-ti-dak",
+      "text": "bertentangan dengan konstitusi.",
+      "start_line": 226,
+      "end_line": 226
+    },
+    {
+      "heading": "39. Namun, instrumen administratif tersebut tidak boleh menguba h substansi",
+      "slug": "39-namun-instrumen-administratif-tersebut-tidak-boleh-menguba-h-substansi",
+      "text": "hak yang diberikan oleh undang-undang menjadi sekadar hak administratif \nyang hanya dapat dinikmati apabila seseorang berada pada pering kat \ntertentu dalam suatu klasifikasi.",
+      "start_line": 228,
+      "end_line": 230
+    },
+    {
+      "heading": "40. Bahwa dengan kata lain, alat untuk mengidentifikasi ketidak mampuan tidak",
+      "slug": "40-bahwa-dengan-kata-lain-alat-untuk-mengidentifikasi-ketidak-mampuan-tidak",
+      "text": "boleh berubah menjadi pengganti makna ketidakmampuan itu sendiri.  \nVI. PERSOALAN KONSTITUSIONAL UTAMA: KETIDAKMAMPUAN EKONOMI",
+      "start_line": 232,
+      "end_line": 233
+    },
+    {
+      "heading": "41. Bahwa klasifikasi desil pada dasarnya merupakan pemeringkat an relatif",
+      "slug": "41-bahwa-klasifikasi-desil-pada-dasarnya-merupakan-pemeringkat-an-relatif",
+      "text": "masyarakat berdasarkan kondisi sosial ekonomi.",
+      "start_line": 237,
+      "end_line": 237
+    },
+    {
+      "heading": "42. Bahwa secara konseptual, seseorang dapat berada pada posisi r e l a t i f",
+      "slug": "42-bahwa-secara-konseptual-seseorang-dapat-berada-pada-posisi-r-e-l-a-t-i-f",
+      "text": "tertentu dalam masyarakat tanpa berarti memiliki kemampuan yang  \nmemadai untuk memenuhi seluruh kebutuhan pendidikan keluarganya.",
+      "start_line": 239,
+      "end_line": 240
+    },
+    {
+      "heading": "43. Bahwa sebaliknya, seseorang yang berada pada desil lebih r endah belum",
+      "slug": "43-bahwa-sebaliknya-seseorang-yang-berada-pada-desil-lebih-r-endah-belum",
+      "text": "tentu memiliki struktur kebutuhan pendidikan yang sama dengan k eluarga \nlainnya.",
+      "start_line": 242,
+      "end_line": 243
+    },
+    {
+      "heading": "44. Bahwa keluarga dengan jumlah anggota, jumlah anak yang seda ng",
+      "slug": "44-bahwa-keluarga-dengan-jumlah-anggota-jumlah-anak-yang-seda-ng",
+      "text": "bersekolah, jenjang pendidikan, biaya sekolah, biaya transporta si, biaya \ntempat tinggal, dan kebutuhan lain yang berbeda dapat mempunyai  \nkemampuan membayar pendidikan yang berbeda walaupun berada dalam \nkelompok kesejahteraan yang sama.",
+      "start_line": 245,
+      "end_line": 248
+    },
+    {
+      "heading": "45. Bahwa BPS sendiri menjelaskan bahwa DTSEN/desil merupakan",
+      "slug": "45-bahwa-bps-sendiri-menjelaskan-bahwa-dtsen-desil-merupakan",
+      "text": "instrumen pemetaan tingkat kesejahteraan dan menggunakan berbag ai \nkarakteristik sosial ekonomi. Dalam pengelolaan DTSEN juga ters edia \nmekanisme pemutakhiran untuk menyesuaikan data dengan kondisi aktual.  \n\n \n \n8",
+      "start_line": 250,
+      "end_line": 256
+    },
+    {
+      "heading": "46. Bahwa fakta adanya mekanisme pemutakhiran tersebut menunjuk kan",
+      "slug": "46-bahwa-fakta-adanya-mekanisme-pemutakhiran-tersebut-menunjuk-kan",
+      "text": "bahwa kondisi sosial ekonomi seseorang tidak dipandang sebagai keadaan \nyang selalu tetap.",
+      "start_line": 258,
+      "end_line": 259
+    },
+    {
+      "heading": "47. Bahwa karena kondisi ekonomi dapat berubah, maka penentuan",
+      "slug": "47-bahwa-karena-kondisi-ekonomi-dapat-berubah-maka-penentuan",
+      "text": "kemampuan membiayai pendidikan harus memiliki mekanisme yang \nmemungkinkan kondisi aktual tersebut dipertimbangkan.",
+      "start_line": 261,
+      "end_line": 262
+    },
+    {
+      "heading": "48. Bahwa persoalan tersebut bukan berarti Pemohon meminta seti ap orang",
+      "slug": "48-bahwa-persoalan-tersebut-bukan-berarti-pemohon-meminta-seti-ap-orang",
+      "text": "yang berada pada Desil 6 otomatis dianggap tidak mampu.",
+      "start_line": 264,
+      "end_line": 264
+    },
+    {
+      "heading": "49. Sebaliknya, Pemohon memohon agar orang yang berada pada Des il 6 tidak",
+      "slug": "49-sebaliknya-pemohon-memohon-agar-orang-yang-berada-pada-des-il-6-tidak",
+      "text": "otomatis dianggap mampu hanya karena posisi relatif tersebut, a pabila \nberdasarkan pemeriksaan kondisi ekonomi aktual terdapat keadaan  yang \nmenunjukkan ketidakmampuan membiayai pendidikan.",
+      "start_line": 266,
+      "end_line": 268
+    },
+    {
+      "heading": "50. Bahwa prinsip tersebut justru lebih sesuai dengan Pasal 12 ayat (1) huruf d",
+      "slug": "50-bahwa-prinsip-tersebut-justru-lebih-sesuai-dengan-pasal-12-ayat-1-huruf-d",
+      "text": "UU Sisdiknas karena norma tersebut menggunakan ukuran substantif: \n  “orang tuanya tidak mampu membiayai pendidikannya”  \nbukan: \n “orang tuanya berada pada desil tertentu.”  \nVII. PASAL 12 AYAT (2) HURUF b HARUS DIBACA BERSAMA DENGAN HAK \nDALAM PASAL 12 AYAT (1) HURUF d",
+      "start_line": 270,
+      "end_line": 275
+    },
+    {
+      "heading": "51. Bahwa Pasal 12 ayat (2) huruf b mengatur kewajiban peserta didik untuk",
+      "slug": "51-bahwa-pasal-12-ayat-2-huruf-b-mengatur-kewajiban-peserta-didik-untuk",
+      "text": "ikut menanggung biaya penyelenggaraan pendidikan.",
+      "start_line": 277,
+      "end_line": 277
+    },
+    {
+      "heading": "52. Bahwa kewajiban tersebut mempunyai pengecualian:",
+      "slug": "52-bahwa-kewajiban-tersebut-mempunyai-pengecualian",
+      "text": "“kecuali bagi peserta didik yang dibebaskan dari kewajiban ters ebut \nsesuai dengan peraturan perundang-undangan yang berlaku.”",
+      "start_line": 279,
+      "end_line": 280
+    },
+    {
+      "heading": "53. Bahwa pengecualian tersebut sangat penting karena menunjukk an bahwa",
+      "slug": "53-bahwa-pengecualian-tersebut-sangat-penting-karena-menunjukk-an-bahwa",
+      "text": "UU Sisdiknas tidak menempatkan seluruh peserta didik pada posis i yang \nsama dalam menanggung biaya pendidikan.",
+      "start_line": 282,
+      "end_line": 283
+    },
+    {
+      "heading": "54. Bahwa norma Pasal 12 ayat (2) huruf b harus dibaca bersama Pasal 12",
+      "slug": "54-bahwa-norma-pasal-12-ayat-2-huruf-b-harus-dibaca-bersama-pasal-12",
+      "text": "ayat (1) huruf d.",
+      "start_line": 285,
+      "end_line": 285
+    },
+    {
+      "heading": "55. Bahwa apabila peserta didik yang orang tuanya tidak mampu m empunyai",
+      "slug": "55-bahwa-apabila-peserta-didik-yang-orang-tuanya-tidak-mampu-m-empunyai",
+      "text": "hak mendapatkan biaya pendidikan berdasarkan Pasal 12 ayat (1) huruf d, \nmaka kewajiban “ikut menanggung biaya” tidak boleh diterapkan d engan \ncara yang menghilangkan substansi perlindungan tersebut.",
+      "start_line": 287,
+      "end_line": 289
+    },
+    {
+      "heading": "56. Bahwa oleh karena itu, persoalan konstitusional bukan terle tak pada",
+      "slug": "56-bahwa-oleh-karena-itu-persoalan-konstitusional-bukan-terle-tak-pada",
+      "text": "keberadaan frasa “ikut menanggung biaya penyelenggaraan pendidikan”.  \n\n \n \n9",
+      "start_line": 291,
+      "end_line": 295
+    },
+    {
+      "heading": "57. Bahwa Pemohon justru menerima bahwa dalam sistem pendidikan ,",
+      "slug": "57-bahwa-pemohon-justru-menerima-bahwa-dalam-sistem-pendidikan",
+      "text": "terdapat ruang partisipasi masyarakat dan orang tua dalam pembi ayaan \nsesuai kemampuan serta ketentuan peraturan perundang-undangan.",
+      "start_line": 297,
+      "end_line": 298
+    },
+    {
+      "heading": "58. Bahwa yang dipersoalkan adalah bagaimana pengecualian bagi peserta",
+      "slug": "58-bahwa-yang-dipersoalkan-adalah-bagaimana-pengecualian-bagi-peserta",
+      "text": "didik yang tidak mampu benar-benar dapat dilaksanakan apabila u kuran \nketidakmampuan ditentukan secara terlalu kaku melalui klasifika si \nadministratif.  \nVIII. PERBEDAAN DENGAN PUTUSAN NOMOR 11-14-21-126 DAN 136/PUU-\nVII/2009",
+      "start_line": 300,
+      "end_line": 304
+    },
+    {
+      "heading": "59. Bahwa Pemohon menyadari bahwa Pasal 12 ayat (1) huruf d da n Pasal 12",
+      "slug": "59-bahwa-pemohon-menyadari-bahwa-pasal-12-ayat-1-huruf-d-da-n-pasal-12",
+      "text": "ayat (2) huruf b pernah menjadi objek pengujian dalam Putusan Mahkamah \nKonstitusi Nomor 11-14-21-126 dan 136/PUU-VII/2009.",
+      "start_line": 306,
+      "end_line": 307
+    },
+    {
+      "heading": "60. Bahwa dalam perkara tersebut, Pemohon antara lain mendalilk an bahwa",
+      "slug": "60-bahwa-dalam-perkara-tersebut-pemohon-antara-lain-mendalilk-an-bahwa",
+      "text": "seluruh biaya pendidikan seharusnya ditanggung negara sehingga tidak \nperlu lagi dibedakan antara orang tua yang mampu dan tidak mampu.",
+      "start_line": 309,
+      "end_line": 310
+    },
+    {
+      "heading": "61. Bahwa Mahkamah tidak menerima konstruksi tersebut dan",
+      "slug": "61-bahwa-mahkamah-tidak-menerima-konstruksi-tersebut-dan",
+      "text": "mempertahankan keberadaan mekanisme partisipasi masyarakat dala m \npembiayaan pendidikan.",
+      "start_line": 312,
+      "end_line": 313
+    },
+    {
+      "heading": "62. Bahwa khusus Pasal 12 ayat (2) huruf b, Mahkamah memberikan",
+      "slug": "62-bahwa-khusus-pasal-12-ayat-2-huruf-b-mahkamah-memberikan",
+      "text": "pemaknaan bahwa frasa “ikut menanggung biaya penyelenggaraan \npendidikan” tidak berarti negara melepaskan tanggung jawab pemb iayaan \npendidikan kepada peserta didik.",
+      "start_line": 315,
+      "end_line": 317
+    },
+    {
+      "heading": "63. Bahwa oleh karena itu, Pemohon tidak mengajukan kembali arg umentasi",
+      "slug": "63-bahwa-oleh-karena-itu-pemohon-tidak-mengajukan-kembali-arg-umentasi",
+      "text": "bahwa seluruh biaya pendidikan harus ditanggung negara tanpa \nmembedakan kemampuan ekonomi peserta didik.",
+      "start_line": 319,
+      "end_line": 320
+    },
+    {
+      "heading": "64. Bahwa permohonan a quo memiliki persoalan konstitusional yang berbeda,",
+      "slug": "64-bahwa-permohonan-a-quo-memiliki-persoalan-konstitusional-yang-berbeda",
+      "text": "yaitu:  \n«bagaimana menentukan “orang tua yang tidak mampu” dan bagaiman a \nmemastikan pengecualian dari kewajiban ikut menanggung biaya be nar-\nbenar dapat dinikmati oleh peserta didik yang secara substantif  t i d a k  \nmampu, ketika negara menggunakan klasifikasi kesejahteraan yang bersifat \nrelatif sebagai salah satu dasar administrasinya.»",
+      "start_line": 322,
+      "end_line": 327
+    },
+    {
+      "heading": "65. Bahwa persoalan mengenai mekanisme DTSEN/desil sebagai inst rumen",
+      "slug": "65-bahwa-persoalan-mengenai-mekanisme-dtsen-desil-sebagai-inst-rumen",
+      "text": "pemetaan kesejahteraan merupakan perkembangan kebijakan dan \n\n \n \n10\nadministrasi pemerintahan yang berbeda dari konteks ketika Putu san \nNomor 11-14-21-126 dan 136/PUU-VII/2009 diputus.",
+      "start_line": 329,
+      "end_line": 335
+    },
+    {
+      "heading": "66. Bahwa dengan demikian, permohonan a quo tidak meminta Mahkamah",
+      "slug": "66-bahwa-dengan-demikian-permohonan-a-quo-tidak-meminta-mahkamah",
+      "text": "mengubah pendirian mengenai diperbolehkannya partisipasi masyar akat \ndalam pembiayaan pendidikan.",
+      "start_line": 337,
+      "end_line": 338
+    },
+    {
+      "heading": "67. Bahwa Pemohon meminta Mahkamah memberikan batas konstitusio nal",
+      "slug": "67-bahwa-pemohon-meminta-mahkamah-memberikan-batas-konstitusio-nal",
+      "text": "mengenai cara menentukan ketidakmampuan ketika hak pembiayaan d an \npembebasan biaya pendidikan hendak diberikan.  \nIX.  PERBEDAAN DENGAN PUTUSAN NOMOR 216/PUU-XXIV/2026",
+      "start_line": 340,
+      "end_line": 342
+    },
+    {
+      "heading": "68. Bahwa Pemohon juga memahami adanya Putusan Nomor 216/PUU-",
+      "slug": "68-bahwa-pemohon-juga-memahami-adanya-putusan-nomor-216-puu",
+      "text": "XXIV/2026.",
+      "start_line": 344,
+      "end_line": 344
+    },
+    {
+      "heading": "69. Bahwa perkara tersebut berkaitan dengan persoalan biaya-bi aya",
+      "slug": "69-bahwa-perkara-tersebut-berkaitan-dengan-persoalan-biaya-bi-aya",
+      "text": "tambahan dalam penyelenggaraan pendidikan, antara lain biaya yang tetap \ndibebankan kepada mahasiswa meskipun telah membayar UKT.",
+      "start_line": 346,
+      "end_line": 347
+    },
+    {
+      "heading": "70. Bahwa Mahkamah dalam perkara tersebut menyatakan permohonan tidak",
+      "slug": "70-bahwa-mahkamah-dalam-perkara-tersebut-menyatakan-permohonan-tidak",
+      "text": "dapat diterima karena terdapat persoalan formal dan ketidakjela san dalam \nperumusan petitum/posita. Mahkamah tidak memberikan putusan \nmengenai pokok konstitusionalitas Pasal 12 ayat (2) huruf b.",
+      "start_line": 349,
+      "end_line": 351
+    },
+    {
+      "heading": "71. Bahwa oleh karena itu, permohonan a quo tidak mengulang persoalan",
+      "slug": "71-bahwa-oleh-karena-itu-permohonan-a-quo-tidak-mengulang-persoalan",
+      "text": "mengenai apakah biaya tutorial, wisuda, legalisasi, remedial, a tau biaya \ntambahan lainnya dapat dibebankan kepada mahasiswa.",
+      "start_line": 353,
+      "end_line": 354
+    },
+    {
+      "heading": "72. Bahwa permohonan a quo mempunyai fokus berbeda, yaitu penentuan",
+      "slug": "72-bahwa-permohonan-a-quo-mempunyai-fokus-berbeda-yaitu-penentuan",
+      "text": "kemampuan ekonomi orang tua dan pelaksanaan pengecualian biaya bagi \npeserta didik yang tidak mampu.  \nX. PERBEDAAN  DENGAN PUTUSAN NOMOR 286/PUU-XXIV/2026",
+      "start_line": 356,
+      "end_line": 358
+    },
+    {
+      "heading": "73. Bahwa Pemohon juga memperhatikan Putusan Nomor 286/PUU-",
+      "slug": "73-bahwa-pemohon-juga-memperhatikan-putusan-nomor-286-puu",
+      "text": "XXIV/2026 yang menguji Pasal 12 ayat (2) huruf b dan norma terk ait \npembiayaan pendidikan.",
+      "start_line": 360,
+      "end_line": 361
+    },
+    {
+      "heading": "74. Bahwa sebagaimana perkara 216/PUU-XXIV/2026, perkara 286/PU U-",
+      "slug": "74-bahwa-sebagaimana-perkara-216-puu-xxiv-2026-perkara-286-pu-u",
+      "text": "XXIV/2026 berakhir pada putusan tidak dapat diterima karena per soalan \nkejelasan permohonan dan kesesuaian antara posita dan petitum, sehingga \ntidak dapat diposisikan sebagai putusan yang menyatakan bahwa substansi \nPasal 12 ayat (2) huruf b telah dinyatakan konstitusional oleh Mahkamah.  \n\n \n \n11",
+      "start_line": 363,
+      "end_line": 370
+    },
+    {
+      "heading": "75. Bahwa perkara a quo tidak mempersoalkan batas biaya tambahan",
+      "slug": "75-bahwa-perkara-a-quo-tidak-mempersoalkan-batas-biaya-tambahan",
+      "text": "pendidikan atau pembatasan UKT sebagaimana pokok persoalan dala m \nperkara tersebut.",
+      "start_line": 372,
+      "end_line": 373
+    },
+    {
+      "heading": "76. Bahwa permohonan a quo mempersoalkan persoalan yang berbeda dan",
+      "slug": "76-bahwa-permohonan-a-quo-mempersoalkan-persoalan-yang-berbeda-dan",
+      "text": "lebih spesifik, yaitu: standar konstitusional dalam menentukan siapa yang \nsecara substantif tidak mampu membiayai pendidikan.",
+      "start_line": 375,
+      "end_line": 376
+    },
+    {
+      "heading": "77. Bahwa dengan demikian, meskipun terdapat persamaan objek be rupa",
+      "slug": "77-bahwa-dengan-demikian-meskipun-terdapat-persamaan-objek-be-rupa",
+      "text": "Pasal 12 ayat (2) huruf b, alasan konstitusional dan persoalan hukum yang \ndiajukan Pemohon berbeda. ---  \nXI. PASAL  60 UU MAHKAMAH KONSTITUSI DAN PMK 7/2025: TIDAK",
+      "start_line": 378,
+      "end_line": 380
+    },
+    {
+      "heading": "78. Bahwa Pemohon memahami ketentuan mengenai pengujian kembali suatu",
+      "slug": "78-bahwa-pemohon-memahami-ketentuan-mengenai-pengujian-kembali-suatu",
+      "text": "undang-undang sebagaimana diatur dalam Pasal 60 UU Mahkamah \nKonstitusi dan Pasal 72 PMK Nomor 7 Tahun 2025.",
+      "start_line": 383,
+      "end_line": 384
+    },
+    {
+      "heading": "79. Bahwa perbedaan permohonan a quo dengan perkara-perkara sebelumnya",
+      "slug": "79-bahwa-perbedaan-permohonan-a-quo-dengan-perkara-perkara-sebelumnya",
+      "text": "terletak pada fokus dan alasan konstitusional.",
+      "start_line": 386,
+      "end_line": 386
+    },
+    {
+      "heading": "80. Bahwa perbedaan tersebut dapat dirumuskan sebagai berikut:",
+      "slug": "80-bahwa-perbedaan-tersebut-dapat-dirumuskan-sebagai-berikut",
+      "text": "Perkara     Persoalan Utama \n11-14-21-126-136/PUU-VII/2009 Apakah negara harus menanggung \nseluruh biaya pendidikan dan apakah \npartisipasi masyarakat dalam \npembiayaan bertentangan dengan UUD\n216/PUU-XXIV/2026 Biaya tambahan pendidikan di luar UKT \ndan persoalan perumusan petitum\n286/PUU-XXIV/2026 Batas tanggung jawab mahasiswa/PTN \ndalam pembiayaan pendidikan serta \npersoalan kejelasan posita-petitum \nPermohonan a quo Bagaimana ketidakmampuan orang tua \nditentukan dan bagaimana hak \npembebasan biaya dapat dijamin ketika \nklasifikasi kesejahteraan relatif \ndigunakan sebagai dasar administratif",
+      "start_line": 388,
+      "end_line": 402
+    },
+    {
+      "heading": "81. Bahwa dengan demikian, permohonan a quo tidak meminta Mahkamah",
+      "slug": "81-bahwa-dengan-demikian-permohonan-a-quo-tidak-meminta-mahkamah",
+      "text": "mengulang pengujian mengenai boleh atau tidaknya partisipasi masyarakat \ndalam pembiayaan pendidikan.",
+      "start_line": 404,
+      "end_line": 405
+    },
+    {
+      "heading": "82. Bahwa permohonan a quo meminta Mahkamah menguji batas",
+      "slug": "82-bahwa-permohonan-a-quo-meminta-mahkamah-menguji-batas",
+      "text": "konstitusional dalam menentukan ketidakmampuan ekonomi sebagai \nsyarat untuk memperoleh hak pembiayaan dan pembebasan biaya \npendidikan. \n\n \n \n12",
+      "start_line": 407,
+      "end_line": 413
+    },
+    {
+      "heading": "83. Bahwa perbedaan alasan tersebut penting karena PMK Nomor 7 Tahun",
+      "slug": "83-bahwa-perbedaan-alasan-tersebut-penting-karena-pmk-nomor-7-tahun",
+      "text": "2025 mengatur bahwa pengujian kembali dapat dilakukan apabila terdapat \nperbedaan dasar pengujian atau alasan permohonan, meskipun obje k \nnorma memiliki persamaan. \nXII. PASAL  28D AYAT (1): KEPASTIAN HUKUM YANG ADIL",
+      "start_line": 415,
+      "end_line": 418
+    },
+    {
+      "heading": "85. Bahwa kepastian hukum dalam perkara a quo bukan berarti negara wajib",
+      "slug": "85-bahwa-kepastian-hukum-dalam-perkara-a-quo-bukan-berarti-negara-wajib",
+      "text": "menggunakan satu indikator sederhana untuk menentukan kemampuan  \nekonomi setiap keluarga.",
+      "start_line": 421,
+      "end_line": 422
+    },
+    {
+      "heading": "86. Bahwa kepastian hukum justru mengharuskan adanya hubungan y ang",
+      "slug": "86-bahwa-kepastian-hukum-justru-mengharuskan-adanya-hubungan-y-ang",
+      "text": "rasional antara kriteria administratif yang digunakan dengan ha k yang \nhendak diberikan.",
+      "start_line": 424,
+      "end_line": 425
+    },
+    {
+      "heading": "87. Bahwa apabila undang-undang memberikan hak kepada peserta d idik yang",
+      "slug": "87-bahwa-apabila-undang-undang-memberikan-hak-kepada-peserta-d-idik-yang",
+      "text": "orang tuanya tidak mampu membiayai pendidikan, maka mekanisme \npelaksanaannya harus dapat membedakan antara:  \na. klasifikasi administratif men genai posisi relatif kesejahteraan; dan  \nb. kemampuan aktual orang tua dalam membiayai pendidikan.",
+      "start_line": 427,
+      "end_line": 430
+    },
+    {
+      "heading": "89. Bahwa oleh karena itu, seseorang yang tidak berada dalam ke lompok",
+      "slug": "89-bahwa-oleh-karena-itu-seseorang-yang-tidak-berada-dalam-ke-lompok",
+      "text": "prioritas tertentu tidak semestinya secara otomatis dipandang m ampu \napabila terdapat bukti yang relevan mengenai ketidakmampuan akt ualnya \nmembiayai pendidikan.",
+      "start_line": 433,
+      "end_line": 435
+    },
+    {
+      "heading": "90. Bahwa demikian pula sebaliknya, Pemohon tidak meminta agar status",
+      "slug": "90-bahwa-demikian-pula-sebaliknya-pemohon-tidak-meminta-agar-status",
+      "text": "sosial ekonomi administratif diabaikan seluruhnya.",
+      "start_line": 437,
+      "end_line": 437
+    },
+    {
+      "heading": "91. Bahwa yang dimohonkan adalah agar terdapat mekanisme koreks i",
+      "slug": "91-bahwa-yang-dimohonkan-adalah-agar-terdapat-mekanisme-koreks-i",
+      "text": "individual yang efektif dan dapat dipertanggungjawabkan.  \nXIII. PASAL  31 AYAT (1): HAK ATAS PENDIDIKAN",
+      "start_line": 439,
+      "end_line": 440
+    },
+    {
+      "heading": "92. Bahwa Pasal 31 ayat (1) UUD NRI Tahun 1945 memberikan hak kepada",
+      "slug": "92-bahwa-pasal-31-ayat-1-uud-nri-tahun-1945-memberikan-hak-kepada",
+      "text": "setiap warga negara untuk memperoleh pendidikan.",
+      "start_line": 442,
+      "end_line": 442
+    },
+    {
+      "heading": "93. Bahwa hak tersebut tidak berhenti pada pengakuan formal bah wa",
+      "slug": "93-bahwa-hak-tersebut-tidak-berhenti-pada-pengakuan-formal-bah-wa",
+      "text": "seseorang boleh bersekolah.",
+      "start_line": 444,
+      "end_line": 444
+    },
+    {
+      "heading": "94. Bahwa bagi keluarga yang secara aktual mengalami kesulitan membiayai",
+      "slug": "94-bahwa-bagi-keluarga-yang-secara-aktual-mengalami-kesulitan-membiayai",
+      "text": "pendidikan, biaya pendidikan dapat menjadi faktor yang menentuk an \napakah hak tersebut dapat dijalankan secara nyata.  \n\n \n \n13",
+      "start_line": 446,
+      "end_line": 451
+    },
+    {
+      "heading": "95. Bahwa karena itu, ketika UU Sisdiknas sendiri telah mengaku i adanya hak",
+      "slug": "95-bahwa-karena-itu-ketika-uu-sisdiknas-sendiri-telah-mengaku-i-adanya-hak",
+      "text": "peserta didik untuk memperoleh biaya pendidikan apabila orang t uanya \ntidak mampu, mekanisme pelaksanaannya harus dibuat sedemikian r upa \nagar hak tersebut tidak menjadi hak yang secara formal ada teta pi sulit \ndijangkau secara substantif. \nXIV. PASAL 31 AYAT (2): PENDIDIKAN DASAR SEBAGAI BATAS MINIMUM",
+      "start_line": 453,
+      "end_line": 457
+    },
+    {
+      "heading": "96. Bahwa Pasal 31 ayat (2) UUD NRI Tahun 1945 menyatakan bahwa setiap",
+      "slug": "96-bahwa-pasal-31-ayat-2-uud-nri-tahun-1945-menyatakan-bahwa-setiap",
+      "text": "warga negara wajib mengikuti pendidikan dasar dan pemerintah wa jib \nmembiayainya.",
+      "start_line": 460,
+      "end_line": 461
+    },
+    {
+      "heading": "97. Bahwa Putusan Nomor 3/PUU-XX II/2024 memperkuat pemaknaan tersebut",
+      "slug": "97-bahwa-putusan-nomor-3-puu-xx-ii-2024-memperkuat-pemaknaan-tersebut",
+      "text": "dengan menyatakan bahwa Pemerintah dan Pemerintah Daerah harus \nmenjamin terselenggaranya wajib belajar minimal pada jenjang pendidikan \ndasar tanpa memungut biaya, baik pada satuan pendidikan dasar y ang \ndiselenggarakan pemerintah maupun masyarakat.",
+      "start_line": 463,
+      "end_line": 466
+    },
+    {
+      "heading": "98. Bahwa pendidikan dasar merupakan minimum constitutional floor, bukan",
+      "slug": "98-bahwa-pendidikan-dasar-merupakan-minimum-constitutional-floor-bukan",
+      "text": "berarti negara hanya mempunyai tanggung jawab pada pendidikan dasar.",
+      "start_line": 468,
+      "end_line": 468
+    },
+    {
+      "heading": "99. Bahwa oleh karena itu, permohonan a quo tidak mendalilkan bahwa",
+      "slug": "99-bahwa-oleh-karena-itu-permohonan-a-quo-tidak-mendalilkan-bahwa",
+      "text": "pendidikan menengah dan perguruan tinggi harus seluruhnya gratis.",
+      "start_line": 470,
+      "end_line": 470
+    },
+    {
+      "heading": "100. Bahwa untuk anak ketiga Pemohon yang akan memasuki SMP, pe rsoalan",
+      "slug": "100-bahwa-untuk-anak-ketiga-pemohon-yang-akan-memasuki-smp-pe-rsoalan",
+      "text": "biaya pendidikan memiliki hubungan langsung dengan kewajiban ne gara \nberdasarkan Pasal 31 ayat (2).",
+      "start_line": 472,
+      "end_line": 473
+    },
+    {
+      "heading": "101. Bahwa apabila keluarga yang secara aktual mengalami kesuli tan",
+      "slug": "101-bahwa-apabila-keluarga-yang-secara-aktual-mengalami-kesuli-tan",
+      "text": "pembiayaan pendidikan dasar tidak dapat memperoleh perlindungan hanya \nkarena posisi administratifnya berada di luar kelompok priorita s, maka \nterdapat persoalan mengenai efektivitas pelaksanaan kewajiban \nkonstitusional negara tersebut. \nXV. NEGARA TETAP MEMILIKI RUANG UNTUK MENENTUKAN PRIORITAS",
+      "start_line": 475,
+      "end_line": 479
+    },
+    {
+      "heading": "102. Bahwa Pemohon tidak meminta Mahkamah mengambil alih kewena ngan",
+      "slug": "102-bahwa-pemohon-tidak-meminta-mahkamah-mengambil-alih-kewena-ngan",
+      "text": "Pemerintah dalam menentukan penerima bantuan pendidikan.",
+      "start_line": 481,
+      "end_line": 481
+    },
+    {
+      "heading": "103. Bahwa Pemohon memahami bahw a negara memiliki keterbatasan",
+      "slug": "103-bahwa-pemohon-memahami-bahw-a-negara-memiliki-keterbatasan",
+      "text": "anggaran dan harus menentukan prioritas.  \n\n \n \n14",
+      "start_line": 483,
+      "end_line": 487
+    },
+    {
+      "heading": "104. Bahwa Pemohon juga memahami bahwa tidak setiap warga negar a yang",
+      "slug": "104-bahwa-pemohon-juga-memahami-bahwa-tidak-setiap-warga-negar-a-yang",
+      "text": "memiliki kebutuhan pendidikan otomatis harus memperoleh bantuan  \ndengan bentuk dan jumlah yang sama.",
+      "start_line": 489,
+      "end_line": 490
+    },
+    {
+      "heading": "105. Bahwa yang dimohonkan adalah agar sistem prioritas tersebu t tidak",
+      "slug": "105-bahwa-yang-dimohonkan-adalah-agar-sistem-prioritas-tersebu-t-tidak",
+      "text": "menutup secara mutlak kemungkinan bagi keluarga yang secara akt ual \ntidak mampu membiayai pendidikan untuk membuktikan kondisi \nekonominya.",
+      "start_line": 492,
+      "end_line": 494
+    },
+    {
+      "heading": "106. Bahwa dengan demikian, terdapat perbedaan antara:",
+      "slug": "106-bahwa-dengan-demikian-terdapat-perbedaan-antara",
+      "text": "“tidak menjadi prioritas utama” dengan  \n“secara hukum dianggap mampu dan tidak berhak memperoleh \npembebasan meskipun keadaan aktual menunjukkan ketidakmampuan.”",
+      "start_line": 496,
+      "end_line": 498
+    },
+    {
+      "heading": "107. Bahwa negara tetap dapat mempertahankan sistem targeting dan prioritas,",
+      "slug": "107-bahwa-negara-tetap-dapat-mempertahankan-sistem-targeting-dan-prioritas",
+      "text": "tetapi harus tersedia ruang koreksi bagi keadaan individual yan g secara \nnyata berbeda dari klasifikasi administratif.  \nXVI. CONTOH KONKRET KERUGIAN PEMOHON",
+      "start_line": 500,
+      "end_line": 502
+    },
+    {
+      "heading": "108. Bahwa Pemohon tidak mengajukan keadaan ekonomi sebagai ala san",
+      "slug": "108-bahwa-pemohon-tidak-mengajukan-keadaan-ekonomi-sebagai-ala-san",
+      "text": "abstrak.",
+      "start_line": 504,
+      "end_line": 504
+    },
+    {
+      "heading": "109. Bahwa Pemohon mempunyai lima anggota keluarga dengan tiga anak yang",
+      "slug": "109-bahwa-pemohon-mempunyai-lima-anggota-keluarga-dengan-tiga-anak-yang",
+      "text": "sedang menempuh pendidikan pada tiga jenjang berbeda.",
+      "start_line": 506,
+      "end_line": 506
+    },
+    {
+      "heading": "111. Bahwa pada saat yang sama, kebutuhan biaya pendidikan anak -anak",
+      "slug": "111-bahwa-pada-saat-yang-sama-kebutuhan-biaya-pendidikan-anak-anak",
+      "text": "Pemohon justru meningkat karena:  \na. anak pertama masih menjalani pendidikan tinggi; \nb. anak kedua akan memasuki pendidikan tinggi;",
+      "start_line": 509,
+      "end_line": 511
+    },
+    {
+      "heading": "112. Bahwa struktur kebutuhan tersebut menimbulkan beban aktual yang tidak",
+      "slug": "112-bahwa-struktur-kebutuhan-tersebut-menimbulkan-beban-aktual-yang-tidak",
+      "text": "dapat direpresentasikan hanya dengan melihat satu indikator kep emilikan \naset atau kondisi rumah.",
+      "start_line": 514,
+      "end_line": 515
+    },
+    {
+      "heading": "113. Bahwa Pemohon memiliki rumah dua lantai serta kendaraan berupa sepeda",
+      "slug": "113-bahwa-pemohon-memiliki-rumah-dua-lantai-serta-kendaraan-berupa-sepeda",
+      "text": "motor dan kendaraan roda empat lama yang digunakan untuk menduk ung \nkegiatan usaha.",
+      "start_line": 517,
+      "end_line": 518
+    },
+    {
+      "heading": "114. Bahwa keberadaan aset tersebut tidak serta-merta menunjukk an bahwa",
+      "slug": "114-bahwa-keberadaan-aset-tersebut-tidak-serta-merta-menunjukk-an-bahwa",
+      "text": "Pemohon memiliki kemampuan likuid untuk membiayai seluruh pendidikan \nanak.  \n\n \n \n15",
+      "start_line": 520,
+      "end_line": 525
+    },
+    {
+      "heading": "115. Bahwa sebuah rumah merupakan tempat tinggal keluarga dan k endaraan",
+      "slug": "115-bahwa-sebuah-rumah-merupakan-tempat-tinggal-keluarga-dan-k-endaraan",
+      "text": "yang digunakan dalam kegiatan usaha dapat merupakan sarana prod uktif, \nbukan semata-mata kekayaan yang tersedia untuk membayar biaya \npendidikan.",
+      "start_line": 527,
+      "end_line": 529
+    },
+    {
+      "heading": "116. Bahwa Pemohon tidak meminta Mahkamah menyatakan kepemilika n",
+      "slug": "116-bahwa-pemohon-tidak-meminta-mahkamah-menyatakan-kepemilika-n",
+      "text": "rumah atau kendaraan tidak boleh menjadi indikator sosial ekonomi.",
+      "start_line": 531,
+      "end_line": 531
+    },
+    {
+      "heading": "117. Bahwa Pemohon meminta agar indikator tersebut tidak menjadi dasar yang",
+      "slug": "117-bahwa-pemohon-meminta-agar-indikator-tersebut-tidak-menjadi-dasar-yang",
+      "text": "bersifat menentukan secara mutlak tanpa mempertimbangkan keseluruhan \nkondisi ekonomi keluarga dan beban pendidikan yang sedang ditanggung.  \nXVII. KERUGIAN TERSEBUT BUKAN BERARTI PEMOHON BERHAK",
+      "start_line": 533,
+      "end_line": 535
+    },
+    {
+      "heading": "118. Bahwa Pemohon memahami bahwa KIP Kuliah dan PIP merupakan",
+      "slug": "118-bahwa-pemohon-memahami-bahwa-kip-kuliah-dan-pip-merupakan",
+      "text": "program pemerintah dengan persyaratan dan mekanisme tersendiri.",
+      "start_line": 538,
+      "end_line": 538
+    },
+    {
+      "heading": "119. Bahwa karena itu, Pemohon tidak meminta Mahkamah menyataka n",
+      "slug": "119-bahwa-karena-itu-pemohon-tidak-meminta-mahkamah-menyataka-n",
+      "text": "Pemohon atau anak Pemohon sebagai penerima program tertentu.",
+      "start_line": 540,
+      "end_line": 540
+    },
+    {
+      "heading": "120. Bahwa program-program tersebut digunakan Pemohon sebagai c ontoh",
+      "slug": "120-bahwa-program-program-tersebut-digunakan-pemohon-sebagai-c-ontoh",
+      "text": "konkret mengenai bagaimana status sosial ekonomi dapat berpenga ruh \nterhadap akses terhadap bantuan atau keringanan pendidikan.",
+      "start_line": 542,
+      "end_line": 543
+    },
+    {
+      "heading": "121. Bahwa inti permohonan tetap berada pada norma UU Sisdiknas , bukan",
+      "slug": "121-bahwa-inti-permohonan-tetap-berada-pada-norma-uu-sisdiknas-bukan",
+      "text": "pada pengujian terhadap peraturan teknis KIP Kuliah, PIP , maupun DTSEN. \nXVIII. KEBUTUHAN AKAN PENILAIAN KONDISI EKONOMI AKTUAL",
+      "start_line": 545,
+      "end_line": 546
+    },
+    {
+      "heading": "122. Bahwa agar hak dalam Pasal 12 ayat (1) huruf d dapat dilaksanakan secara",
+      "slug": "122-bahwa-agar-hak-dalam-pasal-12-ayat-1-huruf-d-dapat-dilaksanakan-secara",
+      "text": "adil, penentuan “tidak mampu membiayai pendidikan” setidaknya h arus \nmembuka ruang bagi penilaian terhadap: \na. pendapatan aktual keluarga;  \nb.  jumlah anggota keluarga;",
+      "start_line": 548,
+      "end_line": 551
+    },
+    {
+      "heading": "d. jenjang pendidikan masing-masing anak;",
+      "slug": "d-jenjang-pendidikan-masing-masing-anak",
+      "text": "e. kewajiban pembiayaan pendidikan yang sedang berjalan;  \nf. pengeluaran pokok keluarga;  \ng. kondisi usaha dan perubahan pendapatan;  \nh. sifat produktif atau nonproduktif aset yang dimiliki;",
+      "start_line": 554,
+      "end_line": 557
+    },
+    {
+      "heading": "i. keadaan khusus lain yang secara objektif memengaruhi",
+      "slug": "i-keadaan-khusus-lain-yang-secara-objektif-memengaruhi",
+      "text": "kemampuan membiayai pendidikan.  \n\n \n \n16",
+      "start_line": 559,
+      "end_line": 563
+    },
+    {
+      "heading": "123. Bahwa daftar tersebut tidak dimaksudkan sebagai daftar ter tutup yang",
+      "slug": "123-bahwa-daftar-tersebut-tidak-dimaksudkan-sebagai-daftar-ter-tutup-yang",
+      "text": "harus seluruhnya digunakan oleh Mahkamah.",
+      "start_line": 565,
+      "end_line": 565
+    },
+    {
+      "heading": "124. Bahwa daftar tersebut menunjukkan bahwa kemampuan membiaya i",
+      "slug": "124-bahwa-daftar-tersebut-menunjukkan-bahwa-kemampuan-membiaya-i",
+      "text": "pendidikan merupakan persoalan yang bersifat substantif dan ind ividual, \nbukan sekadar persoalan posisi relatif dalam masyarakat. \nXIX. PEMOHON TIDAK MEMINTA MAHKAMAH MENENTUKAN DESIL",
+      "start_line": 567,
+      "end_line": 569
+    },
+    {
+      "heading": "125. Bahwa Pemohon menegaskan kembali bahwa Mahkamah tidak dimi nta",
+      "slug": "125-bahwa-pemohon-menegaskan-kembali-bahwa-mahkamah-tidak-dimi-nta",
+      "text": "untuk menentukan Pemohon berada pada Desil 4, Desil 5, Desil 6,  atau \ndesil tertentu.",
+      "start_line": 572,
+      "end_line": 573
+    },
+    {
+      "heading": "126. Bahwa penentuan klasifikasi DTSEN tetap merupakan kewenang an",
+      "slug": "126-bahwa-penentuan-klasifikasi-dtsen-tetap-merupakan-kewenang-an",
+      "text": "lembaga yang berwenang.",
+      "start_line": 575,
+      "end_line": 575
+    },
+    {
+      "heading": "127. Bahwa Mahkamah hanya diminta menetapkan prinsip konstitusional bahwa",
+      "slug": "127-bahwa-mahkamah-hanya-diminta-menetapkan-prinsip-konstitusional-bahwa",
+      "text": "klasifikasi administratif tersebut tidak boleh menjadi satu-sat unya dasar \nyang secara mutlak menutup penilaian mengenai kemampuan aktual orang \ntua dalam membiayai pendidikan.",
+      "start_line": 577,
+      "end_line": 579
+    },
+    {
+      "heading": "128. Bahwa dengan konstruksi demikian, permohonan a quo tidak b erubah",
+      "slug": "128-bahwa-dengan-konstruksi-demikian-permohonan-a-quo-tidak-b-erubah",
+      "text": "menjadi sengketa administrasi mengenai benar atau salahnya data  \nPemohon. \nXX. KESIMPULAN ALASAN KONSTITUSIONAL",
+      "start_line": 581,
+      "end_line": 583
+    },
+    {
+      "heading": "129. Bahwa Pasal 12 ayat (1) huruf d memberikan hak kepada peserta didik yang",
+      "slug": "129-bahwa-pasal-12-ayat-1-huruf-d-memberikan-hak-kepada-peserta-didik-yang",
+      "text": "orang tuanya tidak mampu membiayai pendidikan.",
+      "start_line": 585,
+      "end_line": 585
+    },
+    {
+      "heading": "130. Bahwa Pasal 12 ayat (2) huruf b memberikan kewajiban ikut menanggung",
+      "slug": "130-bahwa-pasal-12-ayat-2-huruf-b-memberikan-kewajiban-ikut-menanggung",
+      "text": "biaya sekaligus mengakui pengecualian bagi peserta didik yang dibebaskan \ndari kewajiban tersebut.",
+      "start_line": 587,
+      "end_line": 588
+    },
+    {
+      "heading": "131. Bahwa kedua norma tersebut secara sistematis mengakui adan ya",
+      "slug": "131-bahwa-kedua-norma-tersebut-secara-sistematis-mengakui-adan-ya",
+      "text": "perbedaan kemampuan ekonomi peserta didik/orang tua.",
+      "start_line": 590,
+      "end_line": 590
+    },
+    {
+      "heading": "132. Bahwa persoalan konstitusional muncul ketika penentuan “ti dak mampu”",
+      "slug": "132-bahwa-persoalan-konstitusional-muncul-ketika-penentuan-ti-dak-mampu",
+      "text": "dilaksanakan melalui suatu klasifikasi administratif yang bersifat relatif dan \nkemudian digunakan secara kaku sebagai batas hak.",
+      "start_line": 592,
+      "end_line": 593
+    },
+    {
+      "heading": "133. Bahwa keadaan tersebut berpotensi menimbulkan ketidaksesuaian antara:",
+      "slug": "133-bahwa-keadaan-tersebut-berpotensi-menimbulkan-ketidaksesuaian-antara",
+      "text": "kondisi administratif seseorang dan kemampuan aktual seseorang \nmembiayai pendidikan.  \n\n \n \n17",
+      "start_line": 595,
+      "end_line": 600
+    },
+    {
+      "heading": "134. Bahwa apabila ketidaksesuaian tersebut tidak mempunyai mek anisme",
+      "slug": "134-bahwa-apabila-ketidaksesuaian-tersebut-tidak-mempunyai-mek-anisme",
+      "text": "koreksi yang efektif, maka hak yang secara eksplisit diberikan oleh Pasal \n12 ayat (1) huruf d dan pengecualian dalam Pasal 12 ayat (2) huruf b dapat \nkehilangan efektivitasnya.",
+      "start_line": 602,
+      "end_line": 604
+    },
+    {
+      "heading": "135. Bahwa keadaan tersebut bertentangan dengan prinsip kepasti an hukum",
+      "slug": "135-bahwa-keadaan-tersebut-bertentangan-dengan-prinsip-kepasti-an-hukum",
+      "text": "yang adil dalam Pasal 28D ayat (1), hak atas pendidikan dalam P asal 31 \nayat (1), dan khususnya kewajiban negara membiayai pendidikan d asar \ndalam Pasal 31 ayat (2) UUD NRI Tahun 1945. \nXXI. PETITUM   \nBerdasarkan seluruh uraian tersebut di atas, Pemohon memohon ke pada Yang \nMulia Ketua Mahkamah Konstitusi Republik Indonesia c.q. Majelis Hakim Konstitusi \nyang memeriksa dan mengadili perkara a quo untuk berkenan memutus:",
+      "start_line": 606,
+      "end_line": 612
+    },
+    {
+      "heading": "2. Menyatakan frasa “mereka yang orang tuanya tidak mampu membi ayai",
+      "slug": "2-menyatakan-frasa-mereka-yang-orang-tuanya-tidak-mampu-membi-ayai",
+      "text": "pendidikannya” dalam Pasal 12 ayat (1) huruf d Undang-Undang No mor 20 \nTahun 2003 tentang Sistem Pendidikan Nasional bertentangan deng an \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan ti dak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang ti dak \ndimaknai:  \n“mereka yang orang tuanya tidak mampu membiayai pendidikannya, \ndengan penentuan ketidakmampuan yang tidak semata-mata didasark an \npada klasifikasi atau pemeringkatan kesejahteraan yang bersifat  relatif, \nmelainkan harus memberikan kesempatan untuk mempertimbangkan \nkondisi ekonomi aktual keluarga dan beban pembiayaan pendidikan  yang \nsecara nyata ditanggung orang tua”;",
+      "start_line": 616,
+      "end_line": 626
+    },
+    {
+      "heading": "3. Menyatakan Pasal 12 ayat (2) huruf b Undang-Undang Nomor 20 Tahun 2003",
+      "slug": "3-menyatakan-pasal-12-ayat-2-huruf-b-undang-undang-nomor-20-tahun-2003",
+      "text": "tentang Sistem Pendidikan Nasional bertentangan dengan Undang-U ndang \nDasar Negara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuatan \nhukum mengikat secara bersyarat sepanjang frasa “kecuali bagi p eserta didik \nyang dibebaskan dari kewajiban tersebut sesuai dengan peraturan perundang-\nundangan yang berlaku” tidak dimaknai:  \n“termasuk bagi peserta didik yang berdasarkan kondisi ekonomi a ktual \norang tuanya tidak mampu membiayai pendidikannya, dengan penent uan \nketidakmampuan yang tidak semata-mata didasarkan pada klasifika si atau \npemeringkatan kesejahteraan yang bersifat relatif dan harus ter sedia \n\n \n \n18\nmekanisme penilaian atau koreksi berdasarkan kondisi ekonomi ak tual \nkeluarga”;",
+      "start_line": 628,
+      "end_line": 642
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan ini dalam Berita Negara Republik Indonesia",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik-indonesia",
+      "text": "sebagaimana mestinya.",
+      "start_line": 644,
+      "end_line": 644
+    },
+    {
+      "heading": "SUBSIDAIR",
+      "slug": "subsidair",
+      "text": "Apabila Yang Mulia Majelis Hakim Konstitusi berpendapat lain, mohon putusan \nyang seadil-adilnya (ex aequo et bono). \nXXII. PENUTUP",
+      "start_line": 646,
+      "end_line": 648
+    },
+    {
+      "heading": "136. Bahwa permohonan ini pada hakikatnya tidak meminta negara menghapus",
+      "slug": "136-bahwa-permohonan-ini-pada-hakikatnya-tidak-meminta-negara-menghapus",
+      "text": "sistem penargetan bantuan pendidikan.",
+      "start_line": 650,
+      "end_line": 650
+    },
+    {
+      "heading": "137. Bahwa permohonan ini juga tidak meminta semua peserta didik dibebaskan",
+      "slug": "137-bahwa-permohonan-ini-juga-tidak-meminta-semua-peserta-didik-dibebaskan",
+      "text": "dari biaya pendidikan.",
+      "start_line": 652,
+      "end_line": 652
+    },
+    {
+      "heading": "138. Bahwa Pemohon bahkan tidak mem inta agar status Desil 6 dia nggap",
+      "slug": "138-bahwa-pemohon-bahkan-tidak-mem-inta-agar-status-desil-6-dia-nggap",
+      "text": "identik dengan kemiskinan atau ketidakmampuan.",
+      "start_line": 654,
+      "end_line": 654
+    },
+    {
+      "heading": "139. Bahwa yang dimohonkan adalah prinsip yang lebih mendasar: “Ketika",
+      "slug": "139-bahwa-yang-dimohonkan-adalah-prinsip-yang-lebih-mendasar-ketika",
+      "text": "undang-undang memberikan hak pembiayaan pendidikan kepada peser ta \ndidik yang orang tuanya tidak mampu, maka negara harus memastik an \nbahwa ukuran administratif yang digunakan untuk menentukan \nketidakmampuan tidak berubah menjadi penghalang mutlak bagi ora ng \nyang secara nyata tidak mampu membiayai pendidikan.”",
+      "start_line": 656,
+      "end_line": 660
+    },
+    {
+      "heading": "140. Bahwa negara tetap dapat menggunakan DTSEN, desil, data so sial",
+      "slug": "140-bahwa-negara-tetap-dapat-menggunakan-dtsen-desil-data-so-sial",
+      "text": "ekonomi, dan instrumen targeting lainnya.",
+      "start_line": 662,
+      "end_line": 662
+    },
+    {
+      "heading": "141. Namun, harus tersedia ruang untuk melihat keadaan aktual apabila kondisi",
+      "slug": "141-namun-harus-tersedia-ruang-untuk-melihat-keadaan-aktual-apabila-kondisi",
+      "text": "nyata keluarga berbeda dari klasifikasi administratif.",
+      "start_line": 664,
+      "end_line": 664
+    },
+    {
+      "heading": "142. Bahwa dengan demikian, permohonan a quo bukanlah permohonan agar",
+      "slug": "142-bahwa-dengan-demikian-permohonan-a-quo-bukanlah-permohonan-agar",
+      "text": "Pemohon “dinaikkan” atau “diturunkan” desilnya, melainkan permo honan \nuntuk memastikan agar hak konstitusional atas pendidikan tidak berhenti \npada klasifikasi administratif ketika klasifikasi tersebut tida k lagi \nmencerminkan kemampuan nyata keluarga dalam membiayai pendidikan. \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, Pemohon tela h \nmengajukan alat bukti yang diberi tanda Bukti P-1 dan Bukti P-2, sebagai berikut.",
+      "start_line": 666,
+      "end_line": 671
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi tangkapan layar Desil Pemohon;",
+      "slug": "1-bukti-p-1-fotokopi-tangkapan-layar-desil-pemohon",
+      "text": "19",
+      "start_line": 673,
+      "end_line": 676
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi tangkapan layar Sistem Desil Terbaru Ta hun 2026.",
+      "slug": "2-bukti-p-2-fotokopi-tangkapan-layar-sistem-desil-terbaru-ta-hun-2026",
+      "text": "[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara  Persidangan dan \nRisalah Persidangan, yang merupakan satu kesatuan yang tidak te rpisahkan \ndengan putusan ini.",
+      "start_line": 678,
+      "end_line": 681
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia \nNomor 5076), salah satu kewenangan konstitusional Mahkamah adal ah mengadili \npada tingkat pertama dan terakhir yang putusannya bersifat fina l untuk menguji \nundang-undang terhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu  norma Pasal 12 ayat (1) huruf d dan \nPasal 12 ayat (2) huruf b Undang-Undang Nomor 20 Tahun 2003 ten tang Sistem \nPendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, \nTambahan Lembaran Negara Republik Indonesia Nomor 4301, selanjutnya disebut \nUU 20/2003) terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang  \nmengadili permohonan a quo. \n\n \n \n20\n[3.3] Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan Pemohon, namun sebelum mempertimbangkan lebih lanjut  \npermohonan a quo, Mahkamah mempertimbangkan hal-hal sebagai berikut.  \n[3.3.1] Bahwa berdasarkan ketentuan hukum acara pengujian undang-undang , \nMahkamah telah melaksanakan sidang pendahuluan guna memeriksa kelengkapan \ndan kejelasan materi permohonan pada tanggal 8 September 2026. Dalam \npersidangan tersebut, sesuai dengan Pasal 39 UU MK dan Pasal 36  ayat (3) PMK \n7/2025, Mahkamah telah memberikan nasihat kepada Pemohon untuk memperbaiki \nsekaligus memperjelas hal-hal yang berkaitan dengan permohonan,  antara lain \nmengenai penulisan identitas Pemohon, kedudukan hukum Pemohon, alasan-\nalasan permohonan (posita), dan hal-hal yang dimohonkan untuk diputus (petitum), \nagar permohonan Pemohon bersesuaian dengan sistematika permohon an \nsebagaimana diatur dalam PMK 7/2025. Mahkamah juga mengingatkan agar berkas \nPermohonan yang diserahkan kepada Mahkamah telah ditandatangani  o l e h  \nPemohon [vide Risalah Sidang tanggal 8 September 2026]. Sesuai dengan \nketentuan hukum acara, Mahkamah juga telah memberikan kesempata n kepada \nPemohon untuk memperbaiki permohonan dalam jangka waktu paling lama 14 \n(empat belas) hari sejak sidang pemeriksaan pendahuluan, yakni tanggal 21 \nSeptember 2026, pukul 12.00 WIB. Berkenaan dengan batas waktu d imaksud, \nPemohon telah menyerahkan perbaikan permohonan melalui e-mail pada tanggal \n16 September 2026, pukul 16.00 WIB. Di samping itu, Pemohon juga menyerahkan \nberkas permohonan melalui pos, yang diterima Mahkamah pada tang gal 18 \nSeptember 2026, pukul 09.45 WIB. Kedua naskah perbaikan permohonan tersebut, \ntidak ditandatangani oleh Pemohon. Selanjutnya, Mahkamah kembal i menerima \nperbaikan permohonan yang telah ditandatangani oleh Pemohon mel alui e-mail \nyang diterima Mahkamah pada tanggal 21 September 2026 pukul 16. 14 WIB. \nBerkenaan dengan penyerahan perbaikan permohonan dimaksud, berd asarkan \nPasal 37 ayat (3) dan ayat (4) PMK 7/2025 menyatakan, \n (3) Perbaikan Permohonan hanya dapat dilakukan 1 (satu) kali d alam \ntenggang waktu sebagaimana dimaksud pada ayat (1).  \n (4) Terhadap Perbaikan Permohonan yang telah diajukan sebelum \nberakhirnya tenggang waktu sebagaimana dimaksud pada ayat (1), \nPemohon tidak dapat memperbaiki kembali Perbaikan Permohonan yang \ntelah diajukan. \n\n \n \n21\nOleh karena itu, Mahkamah mempertimbangkan permohonan dengan \nmenggunakan perbaikan permohonan yang pertama kali diterima Mahkamah, yaitu \nperbaikan permohonan bertanggal 16 September 2026, pukul 16.00 WIB.  \n[3.3.2] Bahwa selanjutnya terhadap perbaikan permohonan Pemohon, \nMahkamah akan menilai perihal syarat formil suatu permohonan terutama berkaitan \ndengan uraian ihwal pengujian u ndang-undang ter hadap UUD NRI Ta hun 1945 \nsesuai dengan ketentuan Pasal 30 huruf a dan Pasal 31 ayat (1) UU MK serta Pasal \n10 ayat (3) dan Pasal 36 ayat (1) PMK 7/2025, sebagai berikut:  \nPasal 30 huruf a UU MK \nPermohonan wajib dibuat dengan uraian yang jelas mengenai: \na. pengujian undang-undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945; \nPasal 31 ayat (1) UU MK \n(1) Permohonan sekurang-kurangnya harus memuat:  \na. nama dan alamat pemohon;  \nb. uraian mengenai perihal yang menjadi dasar permohonan sebaga imana \ndimaksud dalam Pasal 30; dan",
+      "start_line": 683,
+      "end_line": 762
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025  \n(3) Permohonan sebagaimana dimaksud pada ayat (1), sekurang-kur angnya \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antara lain:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 764,
+      "end_line": 768
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025  \n(1)  Dalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam P asal 35 \nayat (1) huruf a, Mahkamah memeriksa identitas Pemohon dengan \nkelengkapan dan kejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 771,
+      "end_line": 776
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum)",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Terkait dengan keterpenuhan persyaratan formil suatu permohona n dapat \npula dinilai dari keterkaitan atau keselarasan antara alasan-al asan permohonan \n(posita) dengan hal-hal yang dimohonkan untuk diputus (petitum) . Terkait dengan \nsyarat demikian, ketentuan Pasal 68 PMK 7/2025 menyatakan sebagai berikut: \nMahkamah dapat menyatakan Permohonan tidak jelas atau kabur ant ara lain \nkarena:  \n\n \n \n22\na. adanya ketidaksesuaian antara dalil Permohonan dalam posita dengan \npetitum;  \nb. dalil tidak terdapat dalam posita tetapi terdapat dalam peti tum atau \nsebaliknya;",
+      "start_line": 779,
+      "end_line": 792
+    },
+    {
+      "heading": "c. adanya permintaan Pemohon dalam petitum yang saling bertenta ngan",
+      "slug": "c-adanya-permintaan-pemohon-dalam-petitum-yang-saling-bertenta-ngan",
+      "text": "antara satu dengan yang lainnya dan tidak memberikan pilihan alternatif; \n[3.3.3] Bahwa berkenaan dengan persyaratan formil permohonan tersebut d i \natas, Mahkamah menilai pada pokoknya permohonan Pemohon secara formil \ndisusun sesuai dengan format permohonan sebagaimana diatur dala m Pasal 31 \nayat (1) UU MK dan Pasal 10 ayat (3) PMK 7/2025. Dalam kaitan i ni, permohonan \nPemohon telah menguraikan mengenai kewenangan Mahkamah, keduduk an \nhukum Pemohon, alasan-alasan permohonan (posita), dan hal-hal y ang \ndimohonkan untuk diputus (petitum). Namun demikian, terkait den gan sistematika \npermohonan tersebut, selain menilai pemenuhan syarat formil, Ma hkamah juga \nakan menilai permohonan berdasarkan ketepatan isi atau substans i dari masing-\nmasing sistematika dimaksud.  \n[3.4] Menimbang bahwa dengan mendasarkan pada ketentuan mengenai \npersyaratan permohonan, setelah Mahkamah mencermati dengan saks ama \npermohonan Pemohon, Mahkamah menemukan hal-hal sebagai berikut: \n Pertama, pada bagian posita, Pemohon juga tidak menguraikan secara \njelas dan memadai pertentangan norma Pasal 12 ayat (1) huruf d dan Pasal 12 ayat \n(2) huruf b UU 20/2003 yang dimohonkan pengujian dengan UUD NRI  Tahun 1945 \nyang menjadi dasar pengujiannya, padahal uraian demikian menjad i hal esensial \nbagi Mahkamah untuk menilai konstitusionalitas norma undang-und ang. Norma-\nnorma a quo mengatur ihwal hak dan kewajiban peserta didik, di mana norma Pasal \n12 ayat (1) huruf d UU 20/2003 pada pokoknya menentukan salah s atunya setiap \npeserta didik pada setiap satuan pendidikan berhak mendapatkan biaya pendidikan \nbagi mereka yang orang tuanya tidak mampu membiayai pendidikann ya. \nSedangkan norma Pasal 12 ayat (2) huruf b UU 20/2003 pada pokok nya \nmenentukan setiap peserta didik berkewajiban salah satunya ikut  menanggung \nbiaya penyelenggaraan pendidikan, kecuali bagi peserta didik yang dibebaskan dari \nkewajiban tersebut sesuai dengan peraturan perundang-undangan y ang berlaku. \nPemohon tidak menguraikan pertentangan norma Pasal 12 ayat (1) huruf d dan \nPasal 12 ayat (2) huruf b UU 20/2003 secara jelas dan memadai a pakah \nkeseluruhan norma tersebut ataukah bagian dari norma tersebut yang dimohonkan \n\n \n \n23\npengujian bertentangan dengan jaminan kepastian hukum yang adil  sebagaimana \ndimaksud Pasal 28D ayat (1) UUD NRI Tahun 1945 serta kaitannya dengan \npersoalan hak atas pendidikan sebagaimana ditentukan dalam Pasa l 31 ayat (1) \ndan ayat (2) UUD NRI Tahun 1945 yang menjadi dasar pengujiannya. Sebab di satu \nsisi, Pemohon mempersoalkan ketidakjelasan ukuran frasa “orang tuanya yang tidak \nmampu” agar dapat memastikan pengecualian dari kewajiban ikut m enanggung \nbiaya dalam norma Pasal 12 ayat (1) huruf d dan Pasal 12 ayat ( 2 ) h u r uf  b  U U \n20/2003, yang dikaitkan dengan kondisi ketidakmampuan Pemohon secara ekonomi \nuntuk membiayai pendidikan anak-anak Pemohon, yang masing-masin g memiliki \njenjang pendidikan yang berbeda, yaitu jenjang pendidikan dasar , jenjang \npendidikan menengah dan jenjang pendidikan tinggi. Namun, di sisi yang lain dalam \nmenguraikan kondisi faktual Pemohon tersebut, Pemohon juga tida k ingin anak-\nanaknya menerima program pemerintah, berupa bantuan pendidikan bagi anak usia \nsekolah atau mahasiswa yang tidak mampu, seperti Program Indonesia Pintar (PIP) \nyang dikaitkan dengan klasifikasi desil. Uraian posita Pemohon tidak menunjukkan \npersoalan konstitusionalitas norma dalam pengujian undang-undan g a quo, yang \nterkait dengan pengecualian untuk dibebaskan dari menanggung bi aya pendidikan \nsebagaimana maksud Pasal 12 ayat (2) UU 20/2003 mengenai kewaji ban peserta \ndidik, namun lebih pada kehendak Pemohon atas tanggung jawab biaya pendidikan. \n Kedua,  pada bagian petitum Pemohon memohon kepada Mahkamah agar \nmenyatakan norma Pasal 12 ayat (1) huruf d dan Pasal 12 ayat (2 ) huruf b UU \n20/2003 sebagai berikut:",
+      "start_line": 794,
+      "end_line": 849
+    },
+    {
+      "heading": "2. Menyatakan frasa “mereka yang orang tuanya tidak mampu membiayai",
+      "slug": "2-menyatakan-frasa-mereka-yang-orang-tuanya-tidak-mampu-membiayai",
+      "text": "pendidikannya” dalam Pasal 12 ayat (1) huruf d UU 20/2003 \nbertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai \nkekuatan hukum mengikat secara bersyarat sepanjang tidak dimaknai:  \n“mereka yang orang tuanya tidak mampu membiayai pendidikannya, \ndengan penentuan ketidakmampuan yang tidak semata-mata \ndidasarkan pada klasifikasi atau pemeringkatan kesejahteraan ya ng \nbersifat relatif, melainkan harus memberikan kesempatan untuk \nmempertimbangkan kondisi ekonomi aktual keluarga dan beban \npembiayaan pendidikan yang secara nyata ditanggung orang tua”;",
+      "start_line": 852,
+      "end_line": 860
+    },
+    {
+      "heading": "3. Menyatakan Pasal 12 ayat (2) huruf b UU 20/2003 bertentangan dengan",
+      "slug": "3-menyatakan-pasal-12-ayat-2-huruf-b-uu-20-2003-bertentangan-dengan",
+      "text": "UUD NRI Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat \nsecara bersyarat sepanjang frasa “kecuali bagi peserta didik ya ng \ndibebaskan dari kewajiban tersebut sesuai dengan peraturan \nperundang-undangan yang berlaku” tidak dimaknai:  \n“termasuk bagi peserta didik yang berdasarkan kondisi ekonomi a ktual \norang tuanya tidak mampu membiayai pendidikannya, dengan \n\n \n \n24\npenentuan ketidakmampuan yang tidak semata-mata didasarkan pada  \nklasifikasi atau pemeringkatan kesejahteraan yang bersifat rela tif dan \nharus tersedia mekanisme penilaian atau koreksi berdasarkan kon disi \nekonomi aktual keluarga”; \n Terhadap petitum tersebut, Mahkamah menilai bahwa Pemohon \nmenginginkan pengecualian dalam hal pembiayaan pendidikan anak- anaknya, \nkarena merasa tidak mampu. Namun demikian, dalam posita permoho nan, tidak \nterdapat uraian mengenai pengecualian pembiayaan pendidikan sep erti apa yang \ndimaksudkan oleh Pemohon. Jika pengecualian yang diinginkan ole h Pemohon \ndengan memaknai frasa “mereka yang orang tuanya tidak mampu mem biayai \npendidikannya” dalam norma Pasal 12 ayat (1) huruf d UU 20/2003 , dengan \n“memberikan kesempatan untuk mempertimbangkan kondisi ekonomi a ktual \nkeluarga dan beban pembiayaan pendidikan yang secara nyata dita nggung orang \ntua”, sebagaimana termuat dalam Petitum angka 2, maka menurut Mahkamah tidak \nterdapat suatu standar yang dapat digunakan untuk mensyaratkan pemenuhan \nterhadap kriteria tersebut, sehingga apabila kondisi tersebut t idak didefinisikan dan \ntidak dapat diukur, maka hal tersebut justru menimbulkan ketida kjelasan dalam \nmelaksanakan norma Pasal 12 ayat (1) huruf d UU 20/2003. Selanjutnya, terhadap \npetitum angka 3, jika dikaitkan dengan norma Pasal 12 ayat (2) huruf b UU 20/2003 \nadalah merupakan norma pengecualian berupa pembebasan kewajiban  bagi \npeserta didik untuk ikut menanggung biaya penyelenggaraan pendi dikan sesuai \ndengan peraturan perundang-undangan. Dalam hal demikian, jika p engecualian \ndimaknai lagi dengan pengecualian secara bersyarat sebagaimana petitum \nPemohon angka 3 maka ketentuan norma pengecualian dalam Pasal 1 2 ayat (2) \nhuruf b UU 20/2003 menjadi tidak jelas yang menyebabkan terjadinya ketidakpastian \nhukum.  \nBerdasarkan uraian fakta hukum tersebut di atas, Mahkamah \nberpendapat oleh karena Pemohon tidak menguraikan dengan jelas argumentasi \nyang menjadi alasan permohonan serta tidak dapat menjelaskan pengecualian bagi \norang yang tidak mampu dalam uraian alasan-alasan permohonan, mengakibatkan \nketidaksesuaian antara posita dengan petitum sehingga Mahkamah mengalami \nkesulitan memahami pertentangan antara norma yang dimohonkan pe ngujian \ndengan dasar pengujian dalam UUD NRI Tahun 1945 yang digunakan dalam \npermohonan Pemohon, maka berdasarkan ketentuan Pasal 68 PMK 7/2 025, tidak \n\n \n \n25\nterdapat keraguan bagi Mahkamah untuk menyatakan permohonan Pemohon tidak \njelas atau kabur (obscuur).  \n[3.5] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum d i \natas, meskipun Mahkamah berwenang mengadili permohonan Pemohon,  n a m u n  \noleh karena permohonan Pemohon tidak jelas atau kabur ( obscuur) maka \nMahkamah tidak mempertimbangkan lebih lanjut permohonan Pemohon. \n[3.6] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 862,
+      "end_line": 917
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 919,
+      "end_line": 919
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan Pemohon;  \n[4.2] Permohonan Pemohon tidak jelas atau kabur ( obscuur);  \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 921,
+      "end_line": 932
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \n\n \n \n26\nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P . Foekh, M. Guntur \nHamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, \npada hari Selasa, tanggal dua puluh dua, bulan September, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Selasa, tanggal dua puluh sembilan,  bulan September, \ntahun dua ribu dua puluh enam, selesai diucapkan pukul 14.13 WIB, oleh sembilan \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P . Foekh, M. Guntur \nHamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, \ndengan dibantu oleh Siska Yosephin Sirait sebagai Panitera Peng ganti, serta \ndihadiri oleh Pemohon, Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden \natau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nEnny Nurbaningsih \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nDaniel Yusmic P . Foekh \nttd. \nM. Guntur Hamzah \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \n \n\n \n \n27\nPANITERA PENGGANTI, \nttd. \nSiska Yosephin Sirait",
+      "start_line": 934,
+      "end_line": 982
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Lukman Nulhakim",
+        "role": "Pemohon 1",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 31 ayat (1)",
+      "Pasal 31 ayat (2)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24C ayat (1)",
+      "Pasal 28I ayat (2)"
+    ],
+    "procedural_articles": [
+      "Pasal 39"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "REFERENSI:325/PUU-XXIV/2026",
+      "REFERENSI:325/PUU/PAN.MK/AP3/08/2026",
+      "REFERENSI:3/PUU-XXII/2024",
+      "REFERENSI:136/PUU-VII/2009",
+      "REFERENSI:136/PUU-VII/2009diputus.mengubahpendirianmengenaidiperbolehkannyapartisipasimasyarakatdalampembiayaanpendidikan.mengenaicaramenentukanketidakmampuanketikahakpembiayaandanpembebasanbiayapendidikanhendakdiberikan.IX.PERBEDAANDENGANPUTUSANNOMOR216/PUU-XXIV/2026XXIV/2026",
+      "REFERENSI:286/PUU-XXIV/2026XXIV/2026",
+      "REFERENSI:136/PUU-VII/2009ApakahnegaraharusmenanggungseluruhbiayapendidikandanapakahpartisipasimasyarakatdalampembiayaanbertentangandenganUUD216/PUU-XXIV/2026BiayatambahanpendidikandiluarUKTdanpersoalanperumusanpetitum286/PUU-XXIV/2026",
+      "REFERENSI:216/PUU-XXIV/202668.BahwaPemohonjugamemahamiadanyaPutusanNomor216/PUU-XXIV/2026",
+      "REFERENSI:286/PUU-XXIV/202673.BahwaPemohonjugamemperhatikanPutusanNomor286/PUU-XXIV/2026",
+      "REFERENSI:216/PUU-XXIV/2026",
+      "REFERENSI:286/PUU-XXIV/2026"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P . Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Siska Yosephin Sirait"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "325/PUU-XXIV/2026",
+      "325/PUU/PAN.MK/AP3/08/2026",
+      "3/PUU-XXII/2024",
+      "136/PUU-VII/2009",
+      "136/PUU-VII/2009diputus.mengubahpendirianmengenaidiperbolehkannyapartisipasimasyarakatdalampembiayaanpendidikan.mengenaicaramenentukanketidakmampuanketikahakpembiayaandanpembebasanbiayapendidikanhendakdiberikan.IX.PERBEDAANDENGANPUTUSANNOMOR216/PUU-XXIV/2026XXIV/2026",
+      "286/PUU-XXIV/2026XXIV/2026",
+      "136/PUU-VII/2009ApakahnegaraharusmenanggungseluruhbiayapendidikandanapakahpartisipasimasyarakatdalampembiayaanbertentangandenganUUD216/PUU-XXIV/2026BiayatambahanpendidikandiluarUKTdanpersoalanperumusanpetitum286/PUU-XXIV/2026",
+      "216/PUU-XXIV/202668.BahwaPemohonjugamemahamiadanyaPutusanNomor216/PUU-XXIV/2026",
+      "286/PUU-XXIV/202673.BahwaPemohonjugamemperhatikanPutusanNomor286/PUU-XXIV/2026",
+      "216/PUU-XXIV/2026",
+      "286/PUU-XXIV/2026"
+    ],
+    "referenced_cases": [
+      "325/PUU-XXIV/2026",
+      "325/PUU/PAN.MK/AP3/08/2026",
+      "3/PUU-XXII/2024",
+      "136/PUU-VII/2009",
+      "136/PUU-VII/2009diputus.mengubahpendirianmengenaidiperbolehkannyapartisipasimasyarakatdalampembiayaanpendidikan.mengenaicaramenentukanketidakmampuanketikahakpembiayaandanpembebasanbiayapendidikanhendakdiberikan.IX.PERBEDAANDENGANPUTUSANNOMOR216/PUU-XXIV/2026XXIV/2026",
+      "286/PUU-XXIV/2026XXIV/2026",
+      "136/PUU-VII/2009ApakahnegaraharusmenanggungseluruhbiayapendidikandanapakahpartisipasimasyarakatdalampembiayaanbertentangandenganUUD216/PUU-XXIV/2026BiayatambahanpendidikandiluarUKTdanpersoalanperumusanpetitum286/PUU-XXIV/2026",
+      "216/PUU-XXIV/202668.BahwaPemohonjugamemahamiadanyaPutusanNomor216/PUU-XXIV/2026",
+      "286/PUU-XXIV/202673.BahwaPemohonjugamemperhatikanPutusanNomor286/PUU-XXIV/2026",
+      "216/PUU-XXIV/2026",
+      "286/PUU-XXIV/2026"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

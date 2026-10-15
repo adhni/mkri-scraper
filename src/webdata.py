@@ -5,6 +5,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 from .library import Library, apply_corrections
+from .normalizers import normalize_case_number
 
 SOURCE_PRIORITY = ["review_queue", "validated_json", "parsed_json"]
 OUTCOME_LABELS = {
@@ -12,6 +13,7 @@ OUTCOME_LABELS = {
     "granted": "Dikabulkan",
     "rejected": "Ditolak",
     "inadmissible": "Tidak dapat diterima",
+    "mixed": "Sebagian tidak diterima; sisanya ditolak",
     "withdrawn": "Ditarik kembali",
     "dismissed": "Gugur",
     "unknown": "Belum teridentifikasi",
@@ -74,8 +76,18 @@ def build_case_catalog(
                                         prior.available_sources if prior else {}, raw, stored['revision'])
     insight_path = notes_path.parent / 'insights.json'
     insights = _load_json(insight_path) if insight_path.is_file() else {}
+    sources = {}
+    for manifest in sorted(notes_path.parent.glob('*sources.json')):
+        for entry in _load_json(manifest):
+            number = normalize_case_number(entry.get('case_number', ''))
+            sources[(number, entry.get('document_type', 'putusan'))] = entry
     for record in by_id.values():
         record.payload['insights'] = insights.get(record.payload.get('document', {}).get('case_number'), {})
+        document = record.payload.get('document', {})
+        identity = (normalize_case_number(document.get('case_number') or ''), document.get('document_type'))
+        source = sources.get(identity, {})
+        if source.get('url') and not record.payload.get('source', {}).get('download_url'):
+            record.payload.setdefault('source', {})['download_url'] = source['url']
     return list(by_id.values())
 
 
@@ -85,6 +97,8 @@ def classify_outcome(summary: str | None) -> str:
         return "withdrawn"
     if "gugur" in text:
         return "dismissed"
+    if "tidak dapat diterima" in text and "menolak" in text and not text.startswith("mengabulkan"):
+        return "mixed"
     if "tidak dapat diterima" in text:
         return "inadmissible"
     if text.startswith("mengabulkan"):

@@ -1,5 +1,14 @@
 # MKRI Scraper Project Summary
 
+## Pembaruan 16 Oktober 2026
+
+- Koleksi menjadi 100 perkara dalam 17 topik: 40 tambahan terbaru dan 22 perkara lama.
+- Beranda mengutamakan pencarian, filter pembaca, dan 20 hasil per halaman.
+- Cerita tetap tersedia di bawah daftar; filter operasional hanya tampil untuk pemilik.
+- Halaman perkara mengutamakan amar dan PDF asli; hasil gabungan dibedakan dari hasil tunggal.
+- Manifest sumber menyimpan URL resmi dan koreksi fakta inti. Import batch berulang melewati perkara yang sudah tersedia.
+- `scripts/import_collection.py` menyediakan impor batch serta pemeriksaan `--dry-run`.
+
 ## Ringkasan
 
 `mkri-scraper` adalah proyek parser dokumen Mahkamah Konstitusi Republik Indonesia untuk mengekstrak struktur perkara dari PDF putusan dan ketetapan, lalu menghasilkan JSON tervalidasi yang bisa dibaca pipeline dan viewer web.

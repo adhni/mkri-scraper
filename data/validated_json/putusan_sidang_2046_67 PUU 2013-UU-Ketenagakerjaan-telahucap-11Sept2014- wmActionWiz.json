@@ -1,0 +1,1006 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_sidang_2046_67 PUU 2013-UU-Ketenagakerjaan-telahucap-11Sept2014- wmActionWiz.pdf",
+    "file_name": "putusan_sidang_2046_67 PUU 2013-UU-Ketenagakerjaan-telahucap-11Sept2014- wmActionWiz.pdf",
+    "page_count": 46,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_sidang_2046_67%20PUU%202013-UU-Ketenagakerjaan-telahucap-11Sept2014-%20wmActionWiz.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "67/PUU-XI/2013",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2014-09-11",
+    "decision_date_raw": "sebelas, bulan September , tahun dua ribu empat belas",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 67/PUU-XI/2013",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1]  Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam perkara Pengujian Undang- Undang Nomor 13 Tahun \n2003 tentang Ketenagakerjaan terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, yang diajukan oleh:  \n[1.2]      1. Nama   : Ir. Otto Geo Diwara Purba \nTempat /Tanggal Lahir :  Tanjung Pinang/24 Oktober 1966 \nWarga Negara    :   Indonesia \nAlamat      :   Jakarta  \nPekerjaan     :  Pekerja Pertamina \nsebagai--------------------------------------------------------------------Pemohon I;",
+      "start_line": 6,
+      "end_line": 15
+    },
+    {
+      "heading": "2. Nama : Ir. Syamsul Bahri Hasibuan S.H.,M.H.",
+      "slug": "2-nama-ir-syamsul-bahri-hasibuan-s-h-m-h",
+      "text": "Tempat /Tanggal Lahir :  Palu /13 Desember 1964 \nWarga Negara  :   Indonesia \nAlamat    :   Jakarta  \nPekerjaan   :  Pekerja Pertamina \nsebagai--------------------------------------------------------------------Pemohon II;",
+      "start_line": 17,
+      "end_line": 21
+    },
+    {
+      "heading": "3. Nama : Eiman",
+      "slug": "3-nama-eiman",
+      "text": "Tempat /Tanggal Lahir :  Medan /12 Agustus 1964 \nWarga Negara  :  Indonesia \nAlamat    :  Jalan Taman Ayun 3 Nomor 6 Jakar ta timur \nPekerjaan   :  Pekerja Pertamina  \nsebagai--------------------------------------------------------------------Pemohon III;",
+      "start_line": 23,
+      "end_line": 27
+    },
+    {
+      "heading": "4. Nama : Robby Prijatmodjo",
+      "slug": "4-nama-robby-prijatmodjo",
+      "text": "Tempat /Tanggal Lahir :  Kediri/05 Mei 1961 \nWarga Negara  :   Indonesia \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n2",
+      "start_line": 29,
+      "end_line": 38
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nAlamat    :  Jalan Kresna I/20 R T.04 R W. 01 \nPerumahan PEMDA, Jati Asih-Bekasi  \nPekerjaan   :  Pekerja Pertamina \nsebagai--------------------------------------------------------------------Pemohon IV;",
+      "start_line": 40,
+      "end_line": 44
+    },
+    {
+      "heading": "5. Nama : Macky Ricky Avianto",
+      "slug": "5-nama-macky-ricky-avianto",
+      "text": "Tempat /Tanggal Lahir :  Tuban/29 Maret 1968 \nWarga Negara  :  Indonesia  \nAlamat    :  Bukit Cimanggu Villa Blok S9E / 31, Bogor \nPekerjaan   :  Pekerja Pertamina \nsebagai--------------------------------------------------------------------Pemohon V;",
+      "start_line": 46,
+      "end_line": 50
+    },
+    {
+      "heading": "6. Nama : Yuli Santoso",
+      "slug": "6-nama-yuli-santoso",
+      "text": "Tempat /Tanggal Lahir :  Jakarta /11 Juli 1958 \nWarga Negara  :  Indonesia  \nAlamat    :   Perum Gumilir Indah Blik VII/181 A, Cilacap \nPekerjaan   :  Pekerja Pertamina \nsebagai--------------------------------------------------------------------Pemohon VI;",
+      "start_line": 52,
+      "end_line": 56
+    },
+    {
+      "heading": "7. Nama : Joni Nazarudin",
+      "slug": "7-nama-joni-nazarudin",
+      "text": "Tempat /Tanggal Lahir :  Palembang/15 Februari 1964 \nWarga Negara  :  Indonesia  \nAlamat    :  Jalan Kecapi Raya Nomor  7B  J agakarsa, \nJaksel \nPekerjaan   :  Pekerja Pertamina \nsebagai-------------------------------------------------------------------Pemohon VII;",
+      "start_line": 58,
+      "end_line": 63
+    },
+    {
+      "heading": "8. Nama : Piere J Wauran",
+      "slug": "8-nama-piere-j-wauran",
+      "text": "Tempat /Tanggal Lahir :  Sei\n Gerong/12 September 1966 \nWarga Negara  :  Indonesia  \nAlamat    :  Jalan Kelapa Cengkir Timur IV Blik EJ1/1 \nJakut \nPekerjaan   :  Pekerja Pertamina \nsebagai------------------------------------------------------------------Pemohon VIII;",
+      "start_line": 65,
+      "end_line": 71
+    },
+    {
+      "heading": "9. Nama : Maison Des Arnoldi",
+      "slug": "9-nama-maison-des-arnoldi",
+      "text": "Tempat /Tanggal Lahir :  Painan/17 Desember 1963 \nWarga Negara  :  Indonesia  \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n3",
+      "start_line": 73,
+      "end_line": 82
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nAlamat    :  Jalan Malaka IV Nomor 36 Klender, Jakarta \nTimur \nPekerjaan   :  Pekerja Pertamina \nsebagai--------------------------------------------------------------------Pemohon IX; \nDalam hal ini b erdasarkan Surat Kuasa Khusus bertanggal 27 Mei 2013 memberi \nkuasa kepada Janses E Sihaloho, S.H.; Riando Tambunan, S.H. ; B.P. Beni \nDikty Sinaga, S.H.; Ecoline Situmorang, S.H.; M. Zaimul Umam, S.H. M.H.; dan \nAnton Febrianto, S.H. , Advokat dan Konsultan Hukum pada Kantor Hukum \nSihaloho & Zaim Law Offi ces, beralamat kantor di Jalan Kalibata Selatan Nomor \n3 Jakarta Selatan, bertindak untuk dan atas nama pemberi kuasa; \nSelanjutnya disebut sebagai ------------------------------------------------- para Pemohon; \n[1.3] Membaca permohonan para Pemohon; \nMendengar keterangan para Pemohon; \nMendengar dan membaca keterangan Presiden; \nMendengar dan membaca keterangan Dewan Perwakilan Rakyat; \nMendengar keterangan ahli para Pemohon; \nMemeriksa bukti-bukti surat/tertulis para Pemohon; \nMembaca kesimpulan para Pemohon dan Presiden.",
+      "start_line": 84,
+      "end_line": 102
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa para Pemohon telah mengajukan permohonan \ndengan surat permohonan bertanggal 17 Juni 2013, yang diterima di Kepaniteraan \nMahkamah Konstitusi (selanjutnya disebut Kepaniteraan Mahkamah) pada tanggal \n17 Juni 2013 berdasarkan Akta Penerimaan Berkas Permohonan Nomor \n305/PAN.MK/2013 dan telah dicatat dalam Buku Registrasi Perkara Konstitusi  \npada tanggal 27 Juni 2013 dengan Nomor 67/PUU-XI/2013, yang telah diperbaiki \ndengan perbaikan permohonan yang diterima di Kepaniteraan Mahkamah pada \ntanggal 29 Juli 2013, yang pada pokoknya menguraikan hal-hal sebagai berikut: \nA. PENDAHULUAN \nDalam rangka pembangunan nasional untuk pembangunan manusia Indonesia \nyang seutuhnya dan pembangunan masyarakat Indonesia seluruhnya untuk \nmewujudkan masyarakat yang sejahtera, adil, makmur, yang merata, baik \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n4",
+      "start_line": 104,
+      "end_line": 123
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nmateriil maupun spritual berdasarkan Pancasila dan Undang- Undang Dasar \nNegara Republik Indonesia Tahun 1945 menyatakan bahwa dalam \npelaksanaan pembangunan nasional, tenaga kerja mempunyai peranan yang \npenting sebagai pelaku dan tujuan pembangunan. \nOleh karenanya diperlukan pembangunan ketenagakerjaan untuk \nmeningkatkan kualitas tenaga kerja dan peran sertanya dalam pembangunan \nserta peningkatan perlindungan tenaga kerja dan keluarganya sesuai dengan \nharkat dan martabat kemanusiaan. Dalam hal perlindungan terhadap tenaga \nkerja dimaksudkan untuk menjamin hak -hak dasar pekerja/buruh dan \nmenjamin kesamaan kesempatan serta perlakuan tanpa diskriminasi atas \ndasar apapun untuk mewujudkan kesejahteraan pekerja/buruh dan \nkeluarganya dengan tetap memperhatikan perkembangan kemajuan dunia \nusaha. Salah satu pasal dalam UUD 1945 yaitu Pasal 28D yang menyatakan \nbahwa setiap orang berhak untuk mendapatkan imbalan dan perlakuan yang \nadil dan layak dalam hubungan kerja.  Negara Kesatuan Republik Indonesia \nmenjamin, melindungi serta memenuhi  hak -hak warga negaranya melalui \nkonstitusinya yaitu Undang-Undang Dasar 1945. Beberapa diantaranya adalah \nhak atas kepastian hukum dan hak atas perlindungan yang layak dalam \nhubungan kerja, sebagaimana diatur dalam Pasal 28 ayat (1) Undang- Undang \nDasar 1945 yang berbunyi : ”Setiap orang berhak atas pengakuan, jaminan, \nperlindungan, dan kepastian hukum yang adil serta perlakuan yang sama \ndihadapan hukum ”dan Pasal 28 ayat (2) Undang- Undang Dasar 1945 yang \nberbunyi: ” Setiap orang berhak untuk bekerja s erta mendapat imbalan dan \nperlakuan yang adil dan layak dalam hubungan kerja”. Lebih lanjut, pemerintah \nRepublik Indonesia juga telah melakukan ratifikasi terhadap Konvensi ILO \nNomor 111 Tahun 1958 mengenai Diskriminasi Dalam Pekerjaan dan Jabatan \nmelalui Undang-Undang Nomor 21 Tahun 1999, sebagai bagian dari \nperlindungan hak asasi tenaga kerja dan pekerja/buruh. \nUntuk melaksanakan mandat konstitusi tentang hak atas pekerjaan \nsebagaimana dinyatakan dalam Pasal 28 ayat (1) dan ayat (2) Undang-\nUndang Dasar 1945 maupun hak -hak terkait lainnya dalam Pasal 28 Undang-\nUndang Dasar 1945, maka pada tanggal 25 Maret 2003 Pemerintah Republik \nIndonesia, pada masa pemerintahan Presiden Megawati Soekarno Putri telah \nmengeluarkan dan mengesahkan Undang- Undang Nomor 13 Tahun 2003 \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n5",
+      "start_line": 125,
+      "end_line": 167
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \ntentang Ketenagakerjaan, yang tercatat dalam Lembaran Negara Nomor 39 \nTahun 2003. \nBahwa tujuan dari dikeluarkannya Undang -Undang Nomor 13 Tahun 2003 \ntentang Ketenagakerjaan adalah sebagaimana disebut dalam \npertimbangannya: \na. Bahwa pembangunan nasional  dilaksanakan dalam rangka \npembangunan manusia  Indonesia seutuhnya dan pembangunan \nmasyarakat Indonesia seluruhnya untuk mewujudkan masyarakat yang \nsejahtera, adil, makmur, yang merata, baik materiil maupun spiritual \nberdasarkan Pancasila dan Undang- Undang Dasar Negara Republik \nIndonesia Tahun 1945;  \nb. Bahwa dalam pelaksanaan pembangunan nasional, tenaga kerja \nmempunyai peranandan kedudukan yang sangat penting sebagai \npelaku dan tujuan pembangunan;",
+      "start_line": 169,
+      "end_line": 183
+    },
+    {
+      "heading": "c. Bahwa sesuai dengan peranan dan kedudukan tenaga kerja, diperlukan",
+      "slug": "c-bahwa-sesuai-dengan-peranan-dan-kedudukan-tenaga-kerja-diperlukan",
+      "text": "pembangunan ketenagakerjaan untuk meningkatkan kualitas tenaga \nkerja dan peran sertanya dalam pembangunan serta peningkatan \nperlindungan tenaga kerja dan keluarganya sesuai dengan harkat dan \nmartabat kemanusiaan;",
+      "start_line": 185,
+      "end_line": 188
+    },
+    {
+      "heading": "d. Bahwa perlindungan terhadap tenaga kerja dimaksudkan untuk",
+      "slug": "d-bahwa-perlindungan-terhadap-tenaga-kerja-dimaksudkan-untuk",
+      "text": "menjamin hak -hak dasar pekerja/buruh dan menjamin kesamaan \nkesempatan serta perlakuan tanpa diskriminasi atas dasar apa pun \nuntuk mewujudkan kesejahteraan pekerja/buruh dan keluarganya \ndengan tetap memperhatikan perkembangan kemajuan dunia usaha; \nBahwa perlindungan dan jaminan kepastian hukum atas hak -hak buruh telah \nberpotensi terabaikan dengan adanya Pasal 95 ayat (4) yang tidak menajmin \npemenuhan hak-hak atas buruh dalam hal perusahaan pailit atau di likuidasi. \nB. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 190,
+      "end_line": 197
+    },
+    {
+      "heading": "1. Hak Uji menurut Prof. DR. Sri Soemantri, dalam Bukunya: “ HAK UJI",
+      "slug": "1-hak-uji-menurut-prof-dr-sri-soemantri-dalam-bukunya-hak-uji",
+      "text": "MATERIIL DI INDONESIA, 1997 ”, ada dua jenis, yaitu Hak Uji Formil dan \nHak Uji Materiil. Hak Uji Formil menurutnya adalah “wewenang untuk \nmenilai, apakah suatu produk legislatif, seperti undang- undang misalnya \nterjelma melalui cara -cara (procedure) sebagaimana telah ditentukan/ \ndiatur dalam peraturan perundang- undangan yang berlaku ataukah tidak”  \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n6",
+      "start_line": 199,
+      "end_line": 211
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \n(halaman 6). Selanjutnya ia mengartikan Hak Uji Materiil sebagai  \n“wewenang untuk menyelidiki dan kemudian menilai, apakah suatu \nperaturan perundang- undangan isinya sesuai atau bertentangan \ndengan peraturan yang lebih tinggi derajatnya, serta apakah suatu \nkekuasaan tertentu (verordenende macht) berhak mengeluarkan \nsuatu peraturan tertentu”;",
+      "start_line": 213,
+      "end_line": 219
+    },
+    {
+      "heading": "2. H ak Uji, baik formil maupun materiil, diakui keberadaannya dalam sistem",
+      "slug": "2-h-ak-uji-baik-formil-maupun-materiil-diakui-keberadaannya-dalam-sistem",
+      "text": "hukum kita, sebagaimana terdapat dalam Konstitusi Indonesia, yaitu \nUndang-Undang Dasar 1945\n, yang telah mengalami perubahan sebanyak \nempat kali, dalam Pasal 24 ayat (1), yang menyatakan: “Kekuasaan \nkehakiman dilakukan oleh sebuah Mahkamah Agung dan badan peradilan \nyang berada di bawahnya …. dan oleh sebuah Mahkamah Konstitusi”.  \n Sedangkan pengaturan mengenai kewenangan hak uji Undang-\nUndang terhadap Undang- Undang Dasar tersebut terdapat  dalam \nPasal 24C Undang- Undang Dasar 1945 dan Pasal 10 ayat (1) huruf a \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi, \nyang selengkapnya menentukan sebagai berikut:  \n Pasal 24C ayat (1) berbunyi: “Mahkamah Konstitusi berwenang mengadili \npada tingkat pertama dan terakhir yang putusannya bersifat final untuk \nmenguji undang- undang terhadap Undang- Undang Dasar , memutus \nsengketa kewenangan lembaga Negara yang kewenangannya diberikan \noleh Undang- Undang Dasar, memutus pembubaran partai politik, dan  \nmemutus perselisihan tentang hasil pemilihan umum”.",
+      "start_line": 221,
+      "end_line": 237
+    },
+    {
+      "heading": "3. Bahwa selanjutnya Pasal 10 ayat (1) huruf (a) Undang- Undang tentang",
+      "slug": "3-bahwa-selanjutnya-pasal-10-ayat-1-huruf-a-undang-undang-tentang",
+      "text": "Mahkamah Konstitusi menyatakan Mahkamah Konstitusi berwenang \nmengadili pada tingkat pertama dan terakhir yang putusannya \nbersifat final  untuk menguji Undang- Undang terhadap Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945;",
+      "start_line": 239,
+      "end_line": 242
+    },
+    {
+      "heading": "4. Bahwa Pasal 1 angka (3) huruf (a) Undang- Undang tentang Mahkamah",
+      "slug": "4-bahwa-pasal-1-angka-3-huruf-a-undang-undang-tentang-mahkamah",
+      "text": "Konstitusi, menyatakan bahwa “Permohonan adalah permintaan yang \ndiajukan secara tertulis kepada  Mahkamah Konstitusi mengenai pengujian \nundang-undang terhadap Undang- Undang Dasar Negara Republik \nIndonesia Tahun 1945”;",
+      "start_line": 244,
+      "end_line": 247
+    },
+    {
+      "heading": "5. Bahwa selanjutnya Pasal 18 Undang- Undang Nomor 48 Tahun 2009",
+      "slug": "5-bahwa-selanjutnya-pasal-18-undang-undang-nomor-48-tahun-2009",
+      "text": "Salinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n7",
+      "start_line": 249,
+      "end_line": 256
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \ntentang Kekuasaan Kehakiman, menyatakan “ Kekuasaan kehakiman \ndilakukan ol eh sebuah Mahkamah Agung dan badan peradilan yang \nberada di bawahnya dalam lingkungan peradilan umum, lingkungan \nperadilan agama, lingkungan peradilan militer, lingkungan peradilan tata \nusaha negara, dan oleh sebuah Mahkamah Konstitusi”.",
+      "start_line": 258,
+      "end_line": 263
+    },
+    {
+      "heading": "6. Bahwa selain itu, Pasal 7 Undang- Undang Nomor 10 Tahun 2004 t entang",
+      "slug": "6-bahwa-selain-itu-pasal-7-undang-undang-nomor-10-tahun-2004-t-entang",
+      "text": "Pembentukan Peraturan Perundang- Undangan mengatur secara hirarki \nkedudukan Undang-Undang Dasar 1945 lebih tinggi dari Undang -Undang, \noleh karenanya setiap ketentuan Undang- Undang tidak boleh \nbertentangan dengan Undang- Undang Dasar 1945. Maka jika terdapat \nketentuan dalam Undang- Undang yang bertentangan dengan Undang -\nUndang Dasar 1945 maka ketentuan Undang- Undang tersebut dapat \ndimohonkan untuk diuji melalui mekanisme pengujian Undang- Undang di \nMahkamah Konstitusi;",
+      "start_line": 265,
+      "end_line": 272
+    },
+    {
+      "heading": "7. Berdasarkan ketentuan pasal tersebut jelas bahwa Mahkamah Konstitusi",
+      "slug": "7-berdasarkan-ketentuan-pasal-tersebut-jelas-bahwa-mahkamah-konstitusi",
+      "text": "Republik Indonesia mempunyai kewenangan untuk melakukan \npengujian secara materiil , yaitu untuk melakukan pengujian sebuah \nproduk Undang-Undang terhadap Undang Undang Dasar Negara Republik \nIndonesia Tahun 1945; \nC. KEDUDUKAN HUKUM PARA PEMOHON.",
+      "start_line": 274,
+      "end_line": 278
+    },
+    {
+      "heading": "8. Bahwa Pasal 51 ayat (1) Undang- Undang Mahkamah Konstitusi,",
+      "slug": "8-bahwa-pasal-51-ayat-1-undang-undang-mahkamah-konstitusi",
+      "text": "menyatakan para Pemohon adalah pihak yang menganggap hak dan/atau \nkewenangan konstitusionalnya dirugikan oleh berlakunya Undang-\nUndang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam Undang-Undang;",
+      "start_line": 280,
+      "end_line": 286
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dalam penjelasan Pasal 51 ayat (1) Undang- Undang Mahkamah \nKonstitusi menyatakan bahwa yang dimaksud dengan “hak konstitusional” \nadalah hak -hak yang diatur dalam Undang- Undang Dasar Negara \nRepublik Indonesia  Tahun 1945;  \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n8",
+      "start_line": 289,
+      "end_line": 300
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id",
+      "start_line": 302,
+      "end_line": 302
+    },
+    {
+      "heading": "9. Bahwa penjelasan: “Yang dimaksud dengan “perorangan” termasuk",
+      "slug": "9-bahwa-penjelasan-yang-dimaksud-dengan-perorangan-termasuk",
+      "text": "kelompok orang yang mempunyai kepentingan sama”. \nPara Pemohon adalah perseorangan yang juga tergabung di dalam \nSerikat Pekerja yang bertujuan memperjuangkan kepentingan buruh.",
+      "start_line": 304,
+      "end_line": 306
+    },
+    {
+      "heading": "10. Bahwa hak konstitusional sebagaimana terkandung dalam Undang-",
+      "slug": "10-bahwa-hak-konstitusional-sebagaimana-terkandung-dalam-undang",
+      "text": "Undang Dasar 1945 diantaranya meliputi hak untuk mendapatkan \nkepastian hukum, hak atas pekerjaan sebagiamana diatur dalam Pasal \n28D ayat (1) dan ayat (2) Undang-Undang Dasar  1945;",
+      "start_line": 308,
+      "end_line": 310
+    },
+    {
+      "heading": "11. Bahwa berdasarkan yurisprudensi Mahkamah Konstitusi Nomor 006/PUU -",
+      "slug": "11-bahwa-berdasarkan-yurisprudensi-mahkamah-konstitusi-nomor-006-puu",
+      "text": "III/2005, adanya kedudukan hukum ( legal standing) Pemohon \nberdasarkan Pasal 51 ayat (1) UU MK, harus memenuhi 5 (lima) syarat, \nyaitu: \na. adanya hak konstitusional Pemohon yang diberikan oleh UUD 1945. \nb. bahwa hak konstitusional Pemohon tersebut dianggap oleh Pemohon \ntelah dirugikan oleh Undang-Undang yang diuji.",
+      "start_line": 312,
+      "end_line": 317
+    },
+    {
+      "heading": "c. bahwa kerugian konstitusional Pemohon yang dimaksud bersifat",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat",
+      "text": "spesifik (khusus) dan aktual atau setidak -tidaknya bersifat potensial \nyang menurut penalaran yang wajar (logis) dapat dipastikan  akan \nterjadi.",
+      "start_line": 319,
+      "end_line": 321
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat (causal verband) antara kerugian dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian-dan",
+      "text": "berlakunya Undang-Undang yang dimohonkan untuk diuji.  \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan \ntersebut maka kerugian konstitusional yang didalilkan tidak akan tidak \nlagi terjadi. \nBahwa berdasarkan kualifikasi syarat tersebut, p ara Pemohon merupakan \npihak yang memiliki hak konstitusional yang diberikan oleh Pasal 28D ayat \n(1) dan ayat (2) UUD 1945, yaitu perlindungan dan kepastian hukum yang \nadil serta perlakuan yang sama di hadapan hukum.",
+      "start_line": 323,
+      "end_line": 330
+    },
+    {
+      "heading": "12. Bahwa para Pemohon adalah Perorangan warga negara Indonesia",
+      "slug": "12-bahwa-para-pemohon-adalah-perorangan-warga-negara-indonesia",
+      "text": "(individu), yang bergerak atas dasar kepentingan pribadi serta kepedulian \nuntuk dapat memberikan perlindungan dan penegakan KEADILAN \nSOSIAL, HUKUM dan HAK ASASI MANUS IA, termasuk hak -hak pekerja",
+      "start_line": 332,
+      "end_line": 334
+    },
+    {
+      "heading": "13. Bahwa para Pemohon sebagai pekerja (individu) mempunyai kepedulian",
+      "slug": "13-bahwa-para-pemohon-sebagai-pekerja-individu-mempunyai-kepedulian",
+      "text": "Salinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n9",
+      "start_line": 337,
+      "end_line": 344
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nperlindungan terhadap Para Karyawan PT. PERTAMINA khususnya, dan \nPekerja yang bekerja pada perusahaan lain pada umumnya.",
+      "start_line": 346,
+      "end_line": 348
+    },
+    {
+      "heading": "14. Bahwa permohonan yang diajukan oleh para Pemohon bertujuan untuk",
+      "slug": "14-bahwa-permohonan-yang-diajukan-oleh-para-pemohon-bertujuan-untuk",
+      "text": "memberikan perlindungan, pembelaan hak dan kepentingan, serta \nmeningkatkan kesejahteraan yang layak bagi pekerja/buruh dan \nkeluarganya sebagaimana diatur dalam Pasal 1 ayat (1) juncto Pasal 4 \nayat (2) Undang-Undang Nomor 21 Tahun 2000 tentang Serikat Pekerja.",
+      "start_line": 350,
+      "end_line": 353
+    },
+    {
+      "heading": "15. Bahwa para Pemohon adalah juga para pekerja yang berpotensi untuk",
+      "slug": "15-bahwa-para-pemohon-adalah-juga-para-pekerja-yang-berpotensi-untuk",
+      "text": "dikenai pemberlakuan Pasal 95 ayat (4) Undang-Undang Nomor 13 Tahun \n2003 tentang Ketenagakerjaan dalam hal perusahaan tempat mereka \nbekerja mengalami pailit, yang tentunya akan dapat menyulitkan p ara \nPemohon dalam menuntut hak -hak mereka kelak apabila diperhadapkan \ndengan kreditor lainnya;",
+      "start_line": 355,
+      "end_line": 359
+    },
+    {
+      "heading": "16. Bahwa bilamana Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun",
+      "slug": "16-bahwa-bilamana-pasal-95-ayat-4-undang-undang-nomor-13-tahun",
+      "text": "2003 tentang Ketenagakerjaan tetap diberlakukan tanpa adanya \npenafsiran yang tegas terhadap ketentuan pasal tersebut, maka akan \nberpotensi menimbulkan ketidakpastian hukum sekaligus pengingkaran \nhak-hak para Pemohon selaku pekerja dan pekerja lainnya yang bekerja",
+      "start_line": 361,
+      "end_line": 364
+    },
+    {
+      "heading": "di perusahaan tempat mereka bekerja yang sedang mengalami pailit",
+      "slug": "di-perusahaan-tempat-mereka-bekerja-yang-sedang-mengalami-pailit",
+      "text": "berdasarkan putusan pengadilan. \nD. FAKTA HUKUM",
+      "start_line": 366,
+      "end_line": 367
+    },
+    {
+      "heading": "17. Bahwa pada tanggal 25 Maret 2003 Pemerintah Republik Indonesia telah",
+      "slug": "17-bahwa-pada-tanggal-25-maret-2003-pemerintah-republik-indonesia-telah",
+      "text": "mengeluarkan dan mengesahkan Undang- Undang Nomor 13 Tahun 2003 \ntentang Ketenagakerjaan, yang tercatat dalam Lembaran Negara Nomor \n39 Tahun 2003.",
+      "start_line": 369,
+      "end_line": 371
+    },
+    {
+      "heading": "18. Bahwa Undang- Undang 13 Tahun 2003 t entang Ketenagakerjaan",
+      "slug": "18-bahwa-undang-undang-13-tahun-2003-t-entang-ketenagakerjaan",
+      "text": "mengatur tentang hak dan kewajiban dalam suatu hubungan industrial \nsekaligus juga mengatur tentang ketentuan- ketentuan yang berlaku dalam \nhal terjadinya perselisihan dalam hubungan industrial.",
+      "start_line": 373,
+      "end_line": 375
+    },
+    {
+      "heading": "19. Bahwa salah satu p asal dalam Undang- Undang Nomor 13 Tahun 2003",
+      "slug": "19-bahwa-salah-satu-p-asal-dalam-undang-undang-nomor-13-tahun-2003",
+      "text": "tentang Ketenagakerjaan yaitu Pasal 95 ayat (4) menyatakan; “ Dalam hal \nperusahaan dinyatakan pailit atau dilikuidasi berdasarkan peraturan \nperundang-undangan yang berlak u, maka upah dan hak- hak lainnya \ndari pekerja/buruh merupakan utang yang didahulukan \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n10",
+      "start_line": 377,
+      "end_line": 388
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \npembayarannya”",
+      "start_line": 390,
+      "end_line": 391
+    },
+    {
+      "heading": "20. Berdasarkan ketentuan Pasal 95 ayat (4) di atas, yang menyatakan bahwa",
+      "slug": "20-berdasarkan-ketentuan-pasal-95-ayat-4-di-atas-yang-menyatakan-bahwa",
+      "text": "upah dan hak-hak lainnya dari para pekerja/buruh merupakan utang yang \n“didahulukan” pembayarannya.",
+      "start_line": 393,
+      "end_line": 394
+    },
+    {
+      "heading": "21. Bahwa dalam pelaksanaan putusan pailit kata “didahulukan”",
+      "slug": "21-bahwa-dalam-pelaksanaan-putusan-pailit-kata-didahulukan",
+      "text": "ditempatkan setelah pelunasan terhadap hak -hak negara dan para \nkreditur separatis yang merujuk Buku Dua Bab XIX KUH Perdata dan \nPasal 21 Undang- Undang Nomor 6 Tahun 1983 yang diubah ol eh \nUndang-Undang Nomor 9 Tahun 1994. Di sini, hak negara ditempatkan \nsebagai pemegang hak posisi pertama, diikuti oleh kredit or separatis \n(pemegang hak tanggungan, gadai, fidusia, hipotik).",
+      "start_line": 396,
+      "end_line": 401
+    },
+    {
+      "heading": "22. Bahwa berdasarkan Pasal 95 a yat (4) Undang- Undang Nomor 13 T ahun",
+      "slug": "22-bahwa-berdasarkan-pasal-95-a-yat-4-undang-undang-nomor-13-t-ahun",
+      "text": "2003 yang menempatkan hak -hak pekerja harus “didahulukan ”, akan \ntetapi dalam prakt ik ditempatkan dalam posisi setelah pemenuhan hak \nnegara dan para kredit or separatis, menimbulkan adanya ketidakpastian \nhukum dalam penerapan Pasal 95 ayat (4) Undang -Undang Nomor 13 \nTahun 2003. \nE. ALASAN PENGAJUAN PERMOHONAN UJI MATERIIL TERHADAP \nPASAL 95 AYAT (4) UNDANG -UNDANG NOMOR 13 TAHUN 2003 \nTENTANG KETENAGAKERJAAN BERTENTANGAN DENGAN: \nE.1. PASAL 95 AYAT ( 4) UNDANG -UNDANG NOMOR 13      TAHUN 2003",
+      "start_line": 403,
+      "end_line": 411
+    },
+    {
+      "heading": "TENTANG KETENAGAKERJAAN BERTENTANGAN DENGAN PASAL",
+      "slug": "tentang-ketenagakerjaan-bertentangan-dengan-pasal",
+      "text": "28D AYAT (1) UNDANG -UNDANG DASAR 1945 KARENA BERPOTENSI \nMENIMBULKAN KETIDAKPASTIAN HUKUM BAGI PEKERJA: \nBahwa Pasal 28D ayat (1) Undang-Undang Dasar 1945 menyatakan: \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian \nhukum yang adil serta perlakuan yang sama di hadapan hukum.” \nAdapun Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun 2003 t entang \nKetenagakerjaan menyatakan bahwa: “ Dalam hal perusahaan dinyatakan \npailit atau dilikuidasi berdasarkan peraturan perundang- undangan yang \nberlaku, maka upah dan hak-hak lainnya dari pekerja/buruh merupakan utang \nyang didahulukan pembayarannya” \nBahwa pemberlakuan Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun \n2003 berpotensi menimbulkan ketidakpastian hukum, mengingat tidak adanya \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n11",
+      "start_line": 413,
+      "end_line": 432
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \npenafsiran yang jelas dan tegas mengenai klausula “didahulukan \npembayarannya”.  \nBahwa dalam praktik dan dengan mengingat ketentuan hukum yang berlaku, \nbaik itu dalam Pasal 1134 ayat (2) juncto Pasal 1137 KUH Perdata dan Pasal \n21 Undang -Undang Nomor 16 Tahun 2000 tentang Ketentuan Umum dan \nTata Cara Perpajakan sebagaimana telah diubah terakhir dengan Undang -\nUndang Nomor 28 Tahun 2007 tentang Perubahan Ketiga Atas Undang-\nUndang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara \nPerpajakan, maka terdapat urutan peringkat penyelesaian tagihan kreditor \nsetelah selesainya kreditor separatis, dimana upah buruh masih harus \nmenunggu urutan setelah tagihan hak negara, kantor lelang, dan badan \numum yang dibentuk Pemerintah untuk didahulukan. Padahal berdasarka n \nPasal 95 ayat ( 4) Undang-Undang Nomor 13 T ahun 2003 di  atas, maka \nsecara hukum adanya pailit terhadap perusahaan, dalam hal pemenuhan \nhak-hak pekerja seperti pesongan dan hak -hak lainnya harus didahulukan \ndari pemenuhan kewajiban perusahaan yang pailit. \nBahwa dalam Pasal 1149 KUH Perdata, piutang buruh terhadap perusahaan/  \nmajikan berkedudukan sebagai kreditor/piutang preferen, sehingga dengan \ndinyatakan pailitnya debitor tidak akan menghilangkan hak-hak buruh sebagai \nkreditor terhadap perusahaan tersebut. Buruh dapat menuntut pembayaran \nupahnya sebagai kreditor dengan mengajukan tagihan kepada kurator yang \nditunjuk oleh Pengadilan Niaga yang bertugas untuk mengurus dan \nmembereskan harta debitor pailit. Kurator mendahulukan pembayaran upah \nburuh sebagai kreditor preferen dari hasil penjualan boedel pailit daripada \npembayaran kepada kreditor konkuren; \nBahwa pertentangan yang secara nyata yang berimplikasi pada tidak \nterciptanya jaminan, perlindungan, dan kepastian hukum yang adil terhadap \npara buruh adalah dalam hal p erusahaan yang pailit merupakan Perusahaan \nAsuransi, yang mana berdasarkan Pasal 20 ayat (2) Undang- Undang Nomor \n2 Tahun 1992 tentang Usaha Perasuransian, dinyatakan bahwa: “Hak \npemegang polis atas pembagian harta kekayaan Perusahaan Asuransi \nKerugian atau Perusahaan Asuransi Jiwa yang di likuidasi merupakan hak \nutama” \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n12",
+      "start_line": 434,
+      "end_line": 475
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nBahwa pemberlakuan Pasal 20 ayat (2) Undang- Undang Nomor 2 T ahun \n1992 tentang Usaha Perasuransian dalam prakt iknya akan menimbulkan \nketidakpastian hukum bila disandingkan dengan hak -hak buruh yang bekerja \ndalam perusahaan asuransi, tentang pemberlakuan hukum, apakah akan \nmendahulukan/mengutamakan Hak Pemegang Polis berdasarkan Undang -\nUndang Nomor 2 Tahun 1992 t entang Usaha Perasuransian ataukah \nmendahulukan/mengutamakan hak -hak buruh sebagaimana dinyatakan \ndalam ketentuan Pasal 95 a yat (4) U ndang-Undang Nomor 13 Tahun 2003 \ntentang Ketenagakerjaan. \nBahwa baik dalam Undang-Undang Pajak, Undang-Undang Asuransi maupun \nUndang-Undang a quo semua menyatakan diutamakan/didahului. \n \nBahwa ketidakpastian hukum siapa yang didahulukan sangatlah \nmenimbulkan ketidakpastian hukum bagi  pekerja sehingga perlu untuk di \ntafsirkan oleh Mahkamah Konstitusi. \nDari semua kredit or-kreditor dimaksud, siapakah seharusnya di \nutamakan dan apa yang mendasari hal tersebut? \nTerkait pertanyaan tersebut, p ara Pemohon mencoba menguraikan \nalasan-alasan kenapa pekerja yang menjadi prioritas sebagai berikut:",
+      "start_line": 477,
+      "end_line": 496
+    },
+    {
+      "heading": "i. Bahwa pekerja merupakan kelompok yang menggantungkan",
+      "slug": "i-bahwa-pekerja-merupakan-kelompok-yang-menggantungkan",
+      "text": "kehidupannya dan keluarganya kepada perusahaan tempat dia \nbekerja dan hampir semua pekerja yang dikenakan pemutusan \nhubungan kerja tidak dapat lagi bekerja di perusahaan lain yang di \nsebabkan oleh beberapa hal seperti masalah umur dan lapangan \nkerja yang terbatas, yang artinya hak-hak pekerja seperti pesangon \nmerupakan modal utama untuk melanjutkan hidup untuk \nkehidupan pekerja dan keluarganya;",
+      "start_line": 498,
+      "end_line": 504
+    },
+    {
+      "heading": "ii. Bahwa bila dibandingkan dengan pemegang polis asuransi, maka",
+      "slug": "ii-bahwa-bila-dibandingkan-dengan-pemegang-polis-asuransi-maka",
+      "text": "ketergantungan pemegang polis asuransi terhadap dana asuransi \ntidaklah se- vital pesangon atau hak- hak buruh bagi buruh \ndikarenakan asuransi di peruntukkan untuk meng- cover r isiko \nyang mungkin terjadi bagi pemegang asuransi sementara \npesangon di pergunakan untuk penghidupan pekerja;",
+      "start_line": 506,
+      "end_line": 510
+    },
+    {
+      "heading": "iii. Bila di bandingkan dengan pemegang hak tanggungan dan",
+      "slug": "iii-bila-di-bandingkan-dengan-pemegang-hak-tanggungan-dan",
+      "text": "pemegang fidusia, kedudukan dari pekerja jauh lebih lemah \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n13",
+      "start_line": 512,
+      "end_line": 520
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \ndibandingkan dengan perusahaan- perusahaan pemegang hak \ntanggungan yang tentunya mempunyai dana dan kemampuan lebih \nuntuk hidup dibandingkan dengan pekerja.",
+      "start_line": 522,
+      "end_line": 525
+    },
+    {
+      "heading": "iv. Bila dibandingkan dengan piutang- piutang negara seperti pajak,",
+      "slug": "iv-bila-dibandingkan-dengan-piutang-piutang-negara-seperti-pajak",
+      "text": "tentunya posisi pekerja sangat lebih lemah dan lebih penting untuk \ndidahululan bagi pekerja, mengingat pajak itu pun secara hukum \nakan tetap dikembalikan untuk kepentingan masyarakat yang \ntentunya termasuk pekerja di dalamnya. Sangat tidak logis piutang \nNegara di utamakan di banding pekerja karena bagiamanapun \nNegara bertanggung jawab secara konstitusional terhadap jaminan \nhidup yang layak bagi warga negara termasuk pekerja. \nBahwa berdasarkan prinsip perlakuan khusus terhadap pihak yang lemah \nmaka sudah selayaknya dan sepatunya lah hak pekerja didahulukan dari \nsemua kreditur lainnya. \nBahwa berdasarkan hal-hal tersebut di atas maka ketentuan Pasal 95 ayat (4) \nUndang-Undang Nomor 13 Tahun 2003 t entang Ketenagakerjaan sepanjang \nfrasa “didahulukan pembayarannya”  menimbulkan ketidakpastian hukum \ndan bertentangan dengan Pasal  28D (1) Undang- Undang Dasar 1945 yang \nmenjamin akan adanya suatu kepastian hukum.  \nBahwa dengan tidak adanya jaminan kepastian hukum bagi pekerja \nsebagaimana diuraikan di  atas maka ketentuan Pasal 95 a yat (4) U ndang-\nUndang Nomor 13 T ahun 2003 tentang Ketenagakerjaan sepanjang frasa \n“didahulukan pembayarannya”  telah nyata menimbulkan multi tafsir dan \nmenempatkan pekerja/buruh dalam posisi yang lemah dan tidak equal \ndengan para kreditur separatis yang dalam praktik lebih didahulukan \npembayarannya. \nBahwa dalam konsideran menimbang U ndang-Undang Nomor 13 Tahun \n2003 menyatakan, “pembangunan nasional dilaksanakan dalam rangka \npembangunan manusia Indonesia seutuhnya dan pembangunan masyarakat \nIndonesia seluruhnya unt uk mewujudkan masyarakat yang sejahtera, adil, \nmakmur, yang merata, baik materiil  maupun spiritual berdasarkan Pancasila \ndan Undang Undang Dasar Negara Republik Indonesia Tahun 1945; ”. Dan \ncita-cita sebagaimana dalam konsideran menimbang tersebut terlaksana \napabila ketentuan Pasal 95 a yat (4) U ndang-Undang Nomor 13 Tahun 2003 \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n14",
+      "start_line": 527,
+      "end_line": 564
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nsepanjang frasa “didahulukan pembayarannya” diartikan pembayarannya \ndidahulukan daripada para kredit or separatis pemegang jaminan gadai, \nfidusia, dan hak tanggungan.  \nE.2. PASAL 95 AYAT (4) UNDANG -UNDANG NO MOR 13 TAHUN 2003",
+      "start_line": 566,
+      "end_line": 570
+    },
+    {
+      "heading": "TENTANG KETENAGAKERJAAN BERTENTANGAN DENGAN PASAL",
+      "slug": "tentang-ketenagakerjaan-bertentangan-dengan-pasal",
+      "text": "28D (2) UUD 1945 KARENA BERPOTENSI MENIMBULKAN",
+      "start_line": 572,
+      "end_line": 572
+    },
+    {
+      "heading": "YANG ADIL DAN LAYAK SECARA HUKUM",
+      "slug": "yang-adil-dan-layak-secara-hukum",
+      "text": "Bahwa Pasal 28D ayat (2) Undang- Undang Dasar 1945 menyatakan:  “Setiap \norang berhak untuk bekerja serta mendapat imbalan dan perlakuan yang adil \ndan layak dalam hubungan kerja.” \nBahwa Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun 2003 t entang \nKetenagakerjaan menyatakan bahwa “Dalam hal perusahaan dinyatakan \npailit atau dilikuidasi berdasarkan peraturan perundang- undangan yang \nberlaku, maka upah dan hak-hak lainnya dari pekerja/buruh merupakan utang \nyang didahulukan pembayarannya” \nBahwa hak buruh tidak dapat dikalahkan oleh pihak lain sekali pun \nperusahaan pailit;  karenanya buruh tidak kehilangan haknya atas upah \nselama proses kepailitan terjadi untuk itulah Pasal 95 ayat (4), yang \nmenyatakan bahwa upah buruh adalah utang yang didahulukan \npembayarannya, guna memberikan jaminan akan pemenuhan haknya \nsebagaimana diamanatkan dalam Pasal 28D ayat (2) Undang- Undang Dasar \n1945. \nBahwa meskipun terdapat beberapa sistem hubungan  industrial yang dikenal \ndan dianut oleh negara- negara di dunia, baik itu h ubungan industrial \nberdasarkan Liberalisme ( utility system ), hubungan industrial berdasarkan \nKemanusiaan ( humanitarian system ), hubungan industrial berdasarkan \nDemokrasi (democratic system), hubungan industrial berdasarkan Perjuangan \nKelas ( class struggle system ), dan hubungan industrial berdasarkan \nKomitmen Seumur Hidup (life long commitment/life time employment). Namun \nNegara Indonesia menganut sistem hubungan industrial yang berdasarkan \nPancasila, yaitu suatu sistem yang didasarkan atas nilai-nilai yang merupakan \nmanifestasi  dari keseluruhan sila -sila Pancasila dan UUD 1945 yang tumbuh \ndan berkembang  di atas kepribadian bangsa dan kebudayaan Nasional \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n15",
+      "start_line": 575,
+      "end_line": 608
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nIndonesia. Dalam sistem ini, pemerintah dengan segenap upaya mendorong \ndan berperan serta untuk mendorong,  melindungi dan memenuhi hak -hak \nburuh. Hal ini mengingat bahwa dalam prakt ik hubungan industrial, pekerja \natau buruh dipandang  sebagai salah satu faktor produksi di dalam \nperusahaan, dengan kata lain buruh/pekerja dianggap sebagai benda/barang \nyang merupakan obj ek dari hukum ekonomi yaitu hukum permintaan dan \npenawaran.  \nDengan mengingat posisi rentan para pekerja, maka pemerintah \nmenghasilkan berbagai kebijakan dan regulasi yang menjamin dan \nmelindungi hak-hak para pekerja, semisal melalui Undang- Undang Nomor 13 \nTahun 2003 tentang Ketenagakerjaan, Undang- Undang Nomor 21 Tahun \n2000 tentang  Serikat Pekerja/Serikat Buruh, dan Undang- Undang Nomor 2 \nTahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial. \nBahwa Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun 2003, merupakan \nnorma yang belum jelas dan tegas tafsirannya, mengingat belum jelas apa \nyang dimaksud dengan klausula “… didahulukan pembayarannya”, karena \nmeskipun upah dan hak -hak buruh di jamin dalam hal terjadinya pailit atau \nlikuidasi perusahaan, namun posisi pekerja selaku kreditor preferen khusus \nmenjadi rentan karena masih menunggu pembayaran bagi kreditor separatis \ndalam hal terjadinya kepailitan. Dengan demikian salah satu pihak yang di \njaminkan haknya selama proses pailit itu yaitu para buruh dan pekerja \nmenjadi terabaikan hak asasi manusianya untuk mendapatkan penghidupan \nyang layak dan imbalan yang sesuai dengan kerjanya. \nBahwa dalam hal terjadinya kepailitan, maka kreditor akan terbagi kedalam 3 \nbagian yaitu kreditor separatis , kreditor preference dan kreditor konkuren. \nBuruh merupakan kreditor preference, yang pembayaran hak -haknya \ndilakukan setelah tagihan hak negara, kantor lelang, dan badan umum yang \ndibentuk Pemerintah. Posisi atau kedudukan buruh selaku kreditor preference \nyang masih menunggu urutan peringkat pembayaran setelah setagihan hak \nnegara, kantor lelang, dan badan umum yang dibentuk Pemerintah adalah \nmerupakan suatu kedudukan yang bertentangan dengan Pasal 95 ayat (4) \nUndang-Undang Nomor 13 Tahun 2003. \nBahwa akibat dari tidak jelasnya penafsiran Pasal 95 ayat (4) Undang-\nUndang Nomor 13 Tahun 2003 yang berujung pada ketidakpastian hukum \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n16",
+      "start_line": 610,
+      "end_line": 652
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nsebagaimana yang disebutkan di  atas, maka dengan sendirinya juga \nmenimbulkan ketidak-adilan terhadap salah satu pihak karena tidak mendapat \nimbalan dan perlakuan yang adil dan layak dalam hubungan kerja sesuai \nyang termaktub dalam konstitusi negara kita pada Pasal 28D ayat (2). \nBerdasarkan hal-hal yang telah p ara Pemohon uraikan di atas, maka Pasal \n95 ayat (4) Undang-Undang Nomor 13 Tahun 2003 Tentang Ketenagakerjaan \nadalah inkonstitusional dengan Pasal 28D ayat (2)  Undang-Undang Dasar \n1945, kecuali klausula “..di dahulukan pembayarannya”  dimaknai bahwa \npara pekerja sebagai kreditor preference yang di dahulukan pembayaran atas \nupah dan hak -haknya daripada semua kredit or lainnya termasuk tagihan hak \nnegara, kantor lelang, dan badan umum yang dibentuk Pemerintah untuk \ndidahulukan. \nF. KESIMPULAN \nBerdasarkan uraian di atas, dapat disimpulkan hal-hal sebagai berikut:",
+      "start_line": 654,
+      "end_line": 668
+    },
+    {
+      "heading": "1. Bahwa Konstitusi Negara Republik Indonesia menjamin hak warga",
+      "slug": "1-bahwa-konstitusi-negara-republik-indonesia-menjamin-hak-warga",
+      "text": "negara atas kepastian hukum, pekerjaan dan penghidupan yang layak \nsebagaimana diamanatkan dalam Pasal 28D ayat (1) dan Pasal 28D \nayat (2) Undang-Undang Dasar 1945;",
+      "start_line": 670,
+      "end_line": 672
+    },
+    {
+      "heading": "2. Bahwa Undang-Undang Nomor 13 T ahun 2003 t entang",
+      "slug": "2-bahwa-undang-undang-nomor-13-t-ahun-2003-t-entang",
+      "text": "Ketenagakerjaan mengatur hak dan kewajiban para pihak dalam \nhubungan industrial.",
+      "start_line": 674,
+      "end_line": 675
+    },
+    {
+      "heading": "3. Bahwa Pasal 95 ayat (4) U ndang-Undang Nomor 13 Tahun 2003",
+      "slug": "3-bahwa-pasal-95-ayat-4-u-ndang-undang-nomor-13-tahun-2003",
+      "text": "tentang Ketenagakerjaan yang mewajibkan para pihak untuk \nmelaksanakan kewajibannya sampai dengan ditetapkannya putusan \noleh lembaga penyelesaian perselisihan perburuhan;",
+      "start_line": 677,
+      "end_line": 679
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 95 ayat ( 4) Undang-Undang a quo juga",
+      "slug": "4-bahwa-berdasarkan-pasal-95-ayat-4-undang-undang-a-quo-juga",
+      "text": "mengandung arti bahwa para pekerja berhak atas upah dan hak -hak \nlainnya sehingga upah pekerja dalam Pasal aquo dianggap sebagai \nutang yang harus didahulukan pembayarannya.",
+      "start_line": 681,
+      "end_line": 683
+    },
+    {
+      "heading": "5. Bahwa tidak adanya penafsiran yang tegas terhadap Pasal 9 5 ayat",
+      "slug": "5-bahwa-tidak-adanya-penafsiran-yang-tegas-terhadap-pasal-9-5-ayat",
+      "text": "(4) Undang-Undang a quo utamanya terhadap klausula ”didahulukan \npembayarannya”, berpotensi menimbulkan ketidakpastian hukum dan \ndilanggarnya hak atas rasa adil bagi para pekerja. Karena dalam \nmekanisme pelunasan utang perusahaan  yang pailit adalah bertingkat \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n17",
+      "start_line": 685,
+      "end_line": 696
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nyaitu pembayaran dirprioritaskan kepada (1) utang negara dan biaya \nkurator, (2) kreditor separatis pemegang jaminan gadai, fidusia, dan/atau \nhak tanggungan, (3) kreditor preferen, dan kreditor konkuren.",
+      "start_line": 698,
+      "end_line": 701
+    },
+    {
+      "heading": "6. Bahwa Pasal 95 ayat (4) Undang-Undang Nomor 13 Tahun 2003 adalah",
+      "slug": "6-bahwa-pasal-95-ayat-4-undang-undang-nomor-13-tahun-2003-adalah",
+      "text": "inkonstitusional dengan Pasal 28D ayat (1) Undang-Undang Dasar 1945, \nkecuali bila frasa “didahulukan pembayarannya”  ditafsirkan pelunasan \nmendahului semua jenis kredit or baik  kredit or separatis/ istimewa, \nkreditor preperence, pemegang hak tanggungan, gadai dan hipotik dan \nkreditor bersaing (concurent).",
+      "start_line": 703,
+      "end_line": 707
+    },
+    {
+      "heading": "7. Bahwa Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun 2003 adalah",
+      "slug": "7-bahwa-pasal-95-ayat-4-undang-undang-nomor-13-tahun-2003-adalah",
+      "text": "inkonstitusional dengan Pasal 28D ayat (2) Undang-Undang Dasar 1945, \nkecuali bila frasa “didahulukan  pembayarannya” ditafsirkan pelunasan \nmendahului semua kredit or termasuk para kredit or separatis pemegang \njaminan gadai, fidusia, dan hak tanggungan. \nG. PETITUM \nBerdasarkan hal -hal yang telah diuraikan di  atas dan bukti -bukti terlampir, \ndengan ini para Pemohon memohon kepada Majelis Hakim Konstitusi Yang \nTerhormat agar berkenan memberikan putusan sebagai berikut :",
+      "start_line": 709,
+      "end_line": 716
+    },
+    {
+      "heading": "1. Menerima dan mengabulkan permohonan Pengujian Materiil ( judicial",
+      "slug": "1-menerima-dan-mengabulkan-permohonan-pengujian-materiil-judicial",
+      "text": "review) para Pemohon;",
+      "start_line": 718,
+      "end_line": 718
+    },
+    {
+      "heading": "2. Menyatakan Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun 200 3",
+      "slug": "2-menyatakan-pasal-95-ayat-4-undang-undang-nomor-13-tahun-200-3",
+      "text": "Tentang Ketenagakerjaan sejauh frasa “didahulukan pembayarannya” \nadalah inkonstitusional terhadap Undang- Undang Dasar 1945, kecuali \nbila frasa “didahulukan pembayarannya”  ditafsirkan bahwa pelunasan \nupah dan hak-hak pekerja mendahului semua jenis kreditor baik kreditor \nseparatis/istimewa, kredit or preperence, pemegang hak tanggungan, \ngadai dan hipotik dan kreditor bersaing (concurent)",
+      "start_line": 720,
+      "end_line": 725
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Republik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik",
+      "text": "Indonesia sebagaimana mestinya. \nAtau apabila Majelis Hakim  Konstitusi berpendapat lain, mohon putusan yang \nseadil-adilnya (ex aequo et bono). \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n18",
+      "start_line": 727,
+      "end_line": 737
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \n[2.2]  Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon \ntelah mengajukan alat bukti surat/tulisan yang diberi tanda bukti P-1 sampai \ndengan bukti P-9, sebagai  berikut:  \n1 Bukti P-1 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 \n2 Bukti P-2 Undang-Undang Nomor 13 Tahun 2003 tentang \nKetenagakerjaan \n3 Bukti P-3 Undang-Undang Nomor 28 Tahun 2007 tentang Perubahan \nKetiga Undang-Undang Nomor 6 Tahun 1983 \n4 Bukti P-4 Undang-Undang Nomor 2 Tahun 1992 tentang Usaha \nPerasuransian \n5 Bukti P-5 Undang-Undang Nomor 37 Tahun 2004 tentang Kepailitan dan \nPembayaran Utang \n6 Bukti P-6 Berita Tempo. Co yang berjudul “Nasib 200 Pilot Batavia Air \nBelum Jelas”; \n7 Bukti P-7 Berita detik finance yang berjudul “Nasib 200 Pilot Batavia Air \nBelum Jelas”; \n8 Bukti P-8 Berita Antara News.Com yang berjudul “AJI Putusan Pailit TPI \nAncam 1.083 Pekerja”; \n9 Bukti P-9  KTP Para Pemohon \nSelain itu, para Pemohon juga mengajukan dua orang ahli yaitu Timboel \nSiregar dan Yogo Pamungkas yang telah didengar keterangannya di bawah \nsumpah dalam persidangan tanggal 10 September 2013, yang menerangkan \nsebagai berikut: \nTimboel Siregar \n Bahwa kondisi riil di Indonesia saat ini angkatan kerja masih didominasi oleh \nlulusan SD, SMP.  Hal tersebut  bisa di lihat dari data BPS Agustus 2012 \nmenyatakan bahwa lulusan SMA ke atas hanya 9%  dan dari angkatan kerja \nformal tersebut mengalami peningkatan di Tahun 2012 yaitu mencapai 44,2 juta \norang sedangkan informal mengalami penurunan. Hal tersebut  merupakan \nsebuah tren yang baik, tetapi apakah pekerja- pekerja formal tersebut  \nmendapatkan kualitas pekerjaan dan kualitas kehidupan yang baik, hal tersebut  \nmenjadi sebuah permasalahan. Apabila menciptakan lapangan kerja mungkin \nsudah naik, te tapi pada saat bekerja apakah pekerja itu mendapatkan se suatu \nyang berkualitas?;  \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n19",
+      "start_line": 739,
+      "end_line": 781
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \n Bahwa dari 33 provinsi , ternyata hanya 11 provinsi yang mempunyai upah \nminimum 100% KHL, 22 provinsi masih di bawah. Apabila melihat indikator \nupah, masih sangat jauh dari kebutuhan dari hidup layak. Hal tersebut sesuai \ndengan Undang-Undang a quo  yang menyatakan bahwa pekerja harus \nmendapatkan upah sesuai dengan kebutuhan hidup layak, te tapi faktanya \nsampai di 2013 hanya 11 provinsi, dan selebihnya masih di bawah;  \n Bahwa rata-rata upah di Tahun 2012 dan Tahun 2013 juga sangat minim dan \nrata-rata masih 89% dari KH L sedangan kebutuhan hidup layak masih sulit \nkarena Pemerintah masih mengedepankan politik upah buruh murah walaupun \nPresiden Susilo Bambang Yudhoyono pada saat berpidato di ILC 2011, dua \ntahun lalu, mengedepankan bahwa buruh harus mendapatkan upah layak dan \npolitik upah buruh murah harus ditinggalkan dan ini terus dikampanyekan, tetapi \nfaktanya, ternyata banyak buruh yang masih mendapatkan upah di bawah \nketentuan yang harusnya diterima; \n Bahwa upah adalah sebuah indikator harapan utama dari para buruh untuk \nmemenuhi kebutuhan hidupnya dan apa bila melihat APBN sangat sedikit \nmengalokasikan untuk mensubsidi buruh. Buruh bukan kelompok miskin dan \ntidak akan pernah dapat BLSM, serta  tidak akan pernah mendapatkan fasilitas \nyang didapatkan oleh orang miskin seperti Jamkesmas. Buruh dianggap \nkelompok menengah, tetapi faktanya buruh hanya mendapatkan sebatas upah, \nyang memang masih 22 provinsi yang belum  mencapai KHL. 63% buruh formal \nyang ada saat ini menurut data Kemenakertrans mendapatkan upah sebatas \nupah minimum atau di bawahnya dan berdasarkan hasil penelitian ILO T ahun \n2012 menyatakan dengan sangat terang 40% upah buruh formal dari 44,2 % \nmendapat upah di bawah upah minimum. Jadi sangat jelas bahwa politik upah \nburuh murah masih terus dijalankan oleh Pemerintah. 40% upah buruh formal \nmasih di bawah upah minimum dari 44,2 juta; \n Bahwa tentang kondisi pengupahan bila pemerintah sigap menjalankan \nUndang-Undang Nomor 40 Tahun 2004, dan Undang- Undang Nomor 24 Tahun \n2011 tentang SJSN dan BPJS  tetapi faktanya sampai sekarang belum \nterimplementasi. Jaminan sosial sebenarnya bisa menunjang kesejahteraan \nburuh. Jadi buruh tidak hanya mendapatkan dari sisi upah,  tetapi dari sisi \nkesejahteraan dalam bentuk jaminan sosial. Tet api faktanya sampai sekarang \nbelum terjalan;   \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n20",
+      "start_line": 783,
+      "end_line": 825
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \n Bahwa berdasarkan data dari Jamsostek, hanya sekitar 11,7 juta pekerja formal \ndari sekitar 38 juta buruh formal  termasuk PNS, TNI, Polri  dan 38 juta pekerja \nburuh formal yang baru mendapatkan jaminan sosial di Jamsostek berupa \njaminan hari tua, kematian, kecelakaan kerja, dan masih 2,2 juta setengah \nhanya mendapatkan jaminan kesehatan;  \n Bahwa penegakan hukum sebagaimana tercermin dalam Undang- Undang \nNomor 3 Tahun 1992 menyatakan wajib te tapi faktanya jaminan sosial masih \nsedikit dirasakan oleh pekerja yakni 30% yang seharusnya untuk mendukung  \nPemerintah serta mendorong untuk meratifikasi Konvesi 102 ILO  dan \nPemerintah juga harus menyediakan tunjangan pengangguran sebagai bentuk \nproteksi kepada buruh ketika mengalami PHK. Sampai saat ini banyak buruh \nyang ketika mengalami PHK jarang mendapatkan pesangon yang layak sesuai \ndengan alasan yang di-PHK;  \n Bahwa harus ada kebijakan P emerintah yang bisa menanggung buruh, ketika \ndi-PHK yaitu berupa tunjangan pengangguran, seperti yang ada di Konvesi ILO",
+      "start_line": 827,
+      "end_line": 842
+    },
+    {
+      "heading": "102. Tetapi P emerintah saat ini belum meratifikasinya dan masih",
+      "slug": "102-tetapi-p-emerintah-saat-ini-belum-meratifikasinya-dan-masih",
+      "text": "mengedepankan lima program saja yaitu jaminan kematian, kecelakaan kerja, \nJHT (Jaminan Hari Tua), jaminan kesehatan, dan jaminan pensiun; \n Bahwa dalam kondisi ekonomi sekarang ini dimana pemerintah gagal \nmenstabilkan harga, kedelai dan sebagainya,  harga kebutuhan pokok sehingga \ninflasi cukup tinggi  dan demikian juga dengan kondisi mata uang kita yang \nsangat melemah, dimana kondisi ini akan mengancam jalannya proses \nproduksi. Hal tersebut dapat menyebabkan perusahaan tutup karena impor  \nyang sulit dan dengan dollar yang sangat sulit di pasaran. S uku bunga SBI naik \n7% yang berakibat pada suku bunga pinjaman yang akan naik  sehingga akan \nbisa mengganggu cast flow perusahaan dalam menyediakan proses produksi di \ntempat kerjanya; \n Bahwa masuknya produk asing akibat adanya banyaknya perjanjian yang \ndilakukan oleh pemerintah Indonesia seperti ACFTA ( Asian China Free Trade \nArea) sehingga produk lokal harus berkompetensi dengan produk -produk impor \nyang relatif lebih murah. K ondisi ekonomi seperti ini, menyebabkan kondisi \nburuh akhirnya terancam diujung tanduk;  \n Bahwa buruh dalam kondisi upah yang sangat belum layak  dan jaminan sosial \nyang belum memadai karena memang ada kebijakan negara yang belum \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n21",
+      "start_line": 844,
+      "end_line": 869
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nmengimplementasikan Undang- Undang SJSN  dan diperburuk dengan kondisi \nekonomi yang mengancam perusahaan. Maka buruh perlu adanya sebuah \nproteksi langsung yang sudah diatur dalam Undang- Undang Nomor 13 Tahun \n2003 dalam bentuk kompensasi PHK yang ada misalnya dalam Pasal 165 \nketika terjadi proses pailit;   \n Bahwa apabila buruh tidak ada proteksi , maka nasib buruh akan sulit, ketika \nburuh tidak punya jaminan sosial, ketika buruh tidak tersubsidi oleh pemerintah \nsecara langsung dari APBN, ketika buruh tidak punya saving ketika bekerja \ndengan upah yang tidak layak, a rtinya, buruh akan terancam nasibnya dan ini \nakan menciptakan kemiskinan baru. Se harusnya Pemerintah melihat bahwa \nburuh sebagai faktor yang sangat signifikan dalam menciptakan pertumbuhan \nekonomi dan berkontribusi pada konsumsi, investasi, dan ekspor  impor. Artinya \nPemerintah harus melihat buruh sebagai sebuah kelompok yang memang harus \ndiproteksi. Oleh sebab itu, saatnya buruh mendapatkan kepastian hukum \ntentang masa depannya apalagi ketika buruh mengalami sebuah m asalah, \nseperti PHK dan ketika perusahaan dipailitkan. \nYogo Pamungkas \n Bahwa pada saat sebuah perusahaan mengalami pailit , k etentuan yang ada \nyang mengatur tentang masalah pailit ada di Kitab Undang- Undang Hukum \nPerdata. Ketentuan yang lain ada pada Undang- Undang Nomor 37 Tahun 2004 \ntentang Kepailitan dan Penundaan Kewajiban Pembayaran Utang. Kemudian, \nUndang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan serta \nUndang-Undang Nomor 2 Tahun 1992 tentang Usaha Perasuransian yang \nkesemuanya mengatur dan memberikan prioritas kepada objek yang diatur oleh \nUndang-Undang tersebut untuk mendapatkan referensi. Apabila  melihat \nUndang-Undang yang mengatur hal tersebut terbagi menjadi  dua bagian besar \nyaitu Kitab Undang- Undang Hukum Perdata sebagai sebuah ketentuan yang \nbersifat lex generalis, yaitu Pasal 1134 KUHPerdata yang menyatakan bahwa \nhak istimewa ialah suatu hak yang oleh Undang- Undang diberikan kepada \nseorang berpiutang, sehingga tingkatannya lebih tinggi daripada orang yang \nberpiutang lainnya semata-mata berdasarkan sifat piutangnya; \n Gadai dan hipotek adalah lebih tinggi daripada hak istimewa,  tetapi kemudian, \ndiberikan pengecualian dalam hal Undang- Undang ditentuk an sebaliknya. Ini \nartinya bahwa Kitab Undang- Undang Hukum Perdata memberikan peluang \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n22",
+      "start_line": 871,
+      "end_line": 913
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nterhadap ketentuan yang lain untuk menjadi ketentuan yang sifatnya lex \nspecialis. Undang-Undang Pajak, Undang- Undang Ketenagakerjaan, Undang-\nUndang Asuransi diisi oleh se mua Undang-Undang berstatus sebagai lex \nspecialis. Ketika beberapa Undang- Undang tersebut menjadi lex specialis  dan \nmenyatakan diri secara rigid memiliki keutamaan, maka siapa yang lebih utama \ndari sekian banyak Undang- Undang atau tiga Undang- Undang yang lex \nspecialis tersebut?;  \n Bahwa di antara Undang-Undang yang berstatus sebagai lex specialis tadi \npertanyaannya adalah mana yang diprioritaskan? Undang- Undang tentang \nPajak memprioritaskan bahwa utang pajak menjadi yang paling diprioritaskan, \nkemudian Undan g-Undang Usaha Asuransi adalah pemegang polis, Undang-\nUndang Ketenagakerjaan adalah upah buruh.  Hal tersebut menyebabkan upah \nburuh di nomor tigakan;  \n Bahwa berdasarkan asas lex specialis derogat lex generalis , maka \nsesungguhnya adalah KUHPerdata yang kemudian di lex  specialis kan, tetapi  \npada sisi lain dengan adanya Undang- Undang Pajak kemudian menghapus \nUndang-Undang yang juga lex  specialis. Dalam praktik Undang- Undang Pajak \nseringkali pajak didahulukan, tetapi ketika kita melihat konstruksi hukum yang \nada, tentu saja tidak bisa seperti hal tersebut  apabila alasannya adalah alasan \nsosiologis, tetapi ketika alasannya adalah alasan hukum, maka ketiga undang-\nundang tersebut adalah produk-produk legislatif dan memiliki kesamaan derajat;  \n Bahwa terkait dengan U ndang-Undang Nomor 13 Tahun 2003 tentang \nKetenagakerjaan, klasifikasi upah apakah upah pada saat buruh bekerja, \nataukah upah pada saat buruh mengalami PHK , dalam Undang-Undang Nomor \n13 Tahu n 2003 diatur tentang kebijakan pengupahan nasional, salah satunya \nadalah ketika PHK ada pesangon kompensasi dan hak-hak lain;  \n Bahwa PHK yang dilakukan oleh kurator memang diatur pada saat pailit, tetapi \nketika PHK dimohonkan oleh pekerja itu tidak diatur, sementara di Undang-\nUndang Pailit diatur.  Semestinya Undang-Undang tersebut diselesaikan terlebih \ndahulu, mana yang lebih preferen, apabila dibuat lex specialis mana yang lebih \nlex specialis sehingga ada sinkronisasi  dan harmonisasi dan setelah itu \ndipreferensikan. Namun apabila kita mengundang orang asuransi, maka \npemegang polislah yang akan mendapatkan yang hak dahulu, jika  berbicara \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n23",
+      "start_line": 915,
+      "end_line": 956
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \ntentang pajak, maka  pajaklah yang didahulukan k arena semuanya memiliki \nkepentingan; \n Bahwa apabila berbicara tentang Undang-Undang Ketenagakerjaan, maka upah \nburuh yang diprioritaskan. Dengan demikian menurut ahli, pekerja memiliki \nposisi yang tidak terlalu menguntungkan karena dalam Undang -Undang Pailit \ndisebutkan bahwa utang harta pailit hanya sekedar upah, bukan hak -hak yang \nlain;   \n Bahwa benturan kepentingan dari kredit or yang lain akan mampu mengalahkan \npara buruh, sehingga di rasa perlu ada satu bentuk perlindungan yang khusus \nagar buruh terlindungi tanpa harus kemudian berbenturan dengan kepentingan \nkreditor-kreditor yang lain, dan khususnya kepentingan yang memiliki jaminan \nyang baik yaitu perlindungan hukum. B eberapa Undang-Undang yang terakhir \ntentang pemberian status hak sebelum memiliki kepastian hukum karena \nmasing-masing Undang- Undang justru secara rigid  menentukan hirarki paling \ntinggi, atas hak mendahului dengan mengesampingkan Undang -Undang yang \nlain kecuali KUHPerdata. Semuanya Undang-Undang tersebut rigid mengatakan \nyang paling utama, o leh karena itu perlu ada sinkronisasi dan harmonisasi dari \nseluruh Undang-Undang terkait, khususnya terkait posisi hak pekerja pada saat \nprodusen pailit, menempati urutan yang paling lemah, baik dari aspek ekonomi, \nkemampuan membela kepentingan, dan masa depan sebagai pekerja pada \nperusahaan yang mengalami pailit. Oleh karena itu, untuk melindungi \nkepentingan pekerja dengan menempatkan kepentingan dalam hak mendahului  \nberupa upah dan hak lainnya, ya itu upah dan hak lainnya dalam hirarki tertinggi \nmenjadi penting, agar terhindar dari tekanan dan hambatan pihak lain baik \nsecara sengaja maupun tidak sengaja. \n[2.3]  Menimbang bahwa terhadap permohonan para Pemohon, Presiden \nmemberikan keterangan dalam persidangan tanggal 28 Agustus 2013 dan telah \nmenyerahkan keterangan tertulis yang diterima di persidangan Mahka mah pada \ntanggal 17 September 2013 pada pokoknya menerangkan sebagai berikut: \n Bahwa t erhadap ketentuan yang dimohonkan untuk diuji pada register  Nomor  \n67/PUU-XI/2013 pada intinya adalah terkait dengan ketentuan Pasal 95 ayat (4) \nUndang-Undang Ketenagakerjaan yang menyatakan bahwa dalam hal \nperusahaan dinyatakan pailit atau likuidasi berdasarkan peraturan perundang-\nundangan yang berlaku, maka upah dan hak -hak lainnya dari pekerja/buruh \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n24",
+      "start_line": 958,
+      "end_line": 1000
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nmerupakan utang yang didahulukan pembayarannya. Oleh p ara Pemohon \ndianggap bertentangan dengan Ketentuan Pasal 28D ayat (1) dan ayat (2) \nUndang-Undang Dasar 1945; \n Atas anggapan tersebut Pemerintah dapat memberikan penjelasan sebagai \nberikut: dalam suatu perusahaan yang dinyatakan pailit dengan putusan \npernyataan pailit dari pengadilan yang berwenang yang dalam hal ini pengadilan \nniaga, maka pengelolaan perusahaan atau debit or pailit beralih dari para direksi \nkepada kurator yang diawasi oleh seorang atau yang diangkat sebagai hakim \npengawas di pengadilan niaga. Dimana tugas kurator adalah melakukan \npemberesan dan pemenuhan hak -hak para kreditor masing -masing, yaitu \nkepada",
+      "start_line": 1002,
+      "end_line": 1013
+    },
+    {
+      "heading": "3. Kepada kreditor konkuren.",
+      "slug": "3-kepada-kreditor-konkuren",
+      "text": " Pada prinsipnya pemenuhan hak -hak atau pembayaran kewajiban kepada \ndebitor, para kreditor separatis dilakukan tersendiri dan terpisah atau bersifat \nseparatis dan mendahului para kreditor lainnya, termasuk para kreditor \npemegang hak istimewa, dan para kreditor bersaing. Artinya,  posisi kreditor \nseparatis berada di atas kreditor preferen karena mereka mempunyai jaminan \nkebendaan yang dinyatakan terpisah atau separatis dari semua perjanjian utang \npiutang pada umumnya sebagaimana ditentukan dalam Undang- Undang \nKepailitian. Bahkan berdasarkan ketentuan Pasal 55 Undang- Undang \nKepailitian dan PKPU, kreditor separatis mempunyai hak untuk mengeksekusi \nhak-haknya seolah- olah tidak terjadi kepailitan, atau yang sering kita ketahui \nsebagai parate eksekusi.  Walaupun untuk itu dan guna kepentingan bersama \npara kreditor, berdasarkan ketentuan Pasal 56 ayat (1) Undang- Undang \nKepailitan dan PKPU hak untuk mengeksekusi, hak para kreditor separ atis \ndimaksud ditangguhkan selama 90 hari sejak tanggal putusan pernyataan pailit \ndiucapkan. Dalam konteks bekerja atau buruh sebagai salah satu kreditor yang \nmempunyai hak dalam proses kepailitan berdasarkan ketentuan Pasal 95 ayat \n(4) Undang- Undang Ketenagakerjaan sebagai mana sudah Pemerintah \nsebutkan di atas yang kemudian juga dijelaskan lebih lanjut, dalam \npenjelasannya yang menyatakan bahwa yang dimaksud didahulukan \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n25",
+      "start_line": 1017,
+      "end_line": 1043
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \npembayarannya adalah upah pekerja/buruh harus dibayar lebih dahulu daripada \nutang lainnya; \n Ketentuan a quo menurut Pemerintah telah sejalan dengan ketentuan-ketentuan \nlainnya dalam K UHPerdata dan juga Undang- Undang Kepailitan dan P KPU. \nKhususnya beberapa ketentuan di dalam KUHPerdata yang antara lain diatur di \ndalam Pasal 1131 dan Pasal 1132 KUH Perdata, pada bagian akhir dikatakan \nbahwa kecuali apabila di antara para berpiutang atau kreditor ada alasan-alasan \nuntuk didahulukan; \n Menurut ketentuan Pasal 1133 KUHPerdata bahwa hak untuk didahulukan di \nantara orang- orang berpiutang, para kreditor , terbit dari hak istimewa atau \npreferen dari gadai dan hipotek atau separatis. Hak istimewa ialah suatu hak \nyang oleh Undang- Undang diberikan kepada seorang berpiutang sehingga \ntingkatannya lebih tinggi daripada orang berpiutang atau para kreditor lainnya  \nsemata-mata berdasarkan sifat piutangnya. Berdasarkan ketentuan di atas \nnampak jelas hak istimewa tersebut merupakan suatu hak yang timbul dari \nketentuan suatu Undang- Undang yang memberikan hak kepada seorang \nberpiutang atau kreditor. Sehingga tingkatannya lebih tinggi dan didahulukan \npembayarannya daripada orang- orang berpiutang atau kreditor lainnya yang \nsemata-mata berdasarkan sifat piutangnya.  Walaupun demikian, b erdasarkan \nketentuan Pasal 1134 ayat (2) KUHPerdata bahwa gadai dan hipotek dalam hal \nini kreditor pemegang hak jaminan kebendaan sebagai kreditor separatis adalah \nlebih tinggi daripada hak istimewa atau kreditor preferen kecuali dalam hal-hal di \nmana oleh Undang-Undang ditentukan sebaliknya sehingga posisinya berada di \natas kreditor separatis; \n Pengecualian itu antara lain adalah diatur di dalam Pasal 39 ayat (2) Undang-\nUndang Nomor 37 Tahun 2004 tentang Kepailitan dan P KPU yang menyatakan, \n“Sejak tanggal putusan pernyataan pailit diucapkan, upah yang terutang \nsebelum maupun sesudah putusan, pernyataan pailit diucapkan merupakan \nutang harta pailit.” Yang dimaksud dengan utang harta pailit adalah segala \nbiaya-biaya yang timbul dalam mengurus kepentingan kreditor yang harus \ndipenuhi terlebih dahulu sebelum kepentingannya atau kreditor yang lain \ndipenuhi. Contohnya adalah utang harta pailit antara lain adalah fee kurator, \nbiaya pemberesan, kemudian termasuk biaya appraisal , akuntan, biaya lelang, \nbiaya sewa,  dan upah karyawan.  Artinya, upah buruh tidak hanya sekedar \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n26",
+      "start_line": 1045,
+      "end_line": 1087
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nsebagai kreditur preferen yang mendahului kreditor lainnya yang konkuren. \nAkan tetapi pelunasan upah buruh diambil dari budel pailit yang mendahului \nkreditor separatis. Yang dimaksud dengan upah sebagaimana diatur di dalam \npenjelasan Pasal 39 ayat (2) Undang- Undang Nomor 37 Tahun 2004 adal ah \nhak pekerja yang diterima dan dinyatakan dalam bentuk uang sebagai imbalan \ndari pemberi kerja kepada pekerja atas suatu pekerjaan, atas jasa yang telah \natau akan dilakukan, ditetapkan, dan dibayarkan menurut suatu perjanjian kerja, \nkesepakatan, atau peraturan perundang- undangan, termasuk tunjangan bagi \npekerja dan keluarganya;   \n Dengan demikian, khusus upah pekerja atau buruh, baik sebelum maupun \nsesudah pernyataan pailit mendapatkan posisi yang lebih tinggi daripada \nkreditor separatis atau setara dengan fee kurator, biaya kepailitan dan \npemeliharaan serta biaya sewa. Hak tersebut diberikan kedudukan yang lebih \ntinggi oleh Undang -Undang, sebagaimana diatur  di dalam Pasal 1134 \nKUHPerdata yang menyatakan bahwa hak gadai dan hipotek adalah lebih tinggi \ndaripada hak istimewa kecuali dalam hal-hal di mana undang-undang ditentukan \nsebaliknya; \n Jadi ketentuan Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun 2003 \ntersebut telah menempatkan posisi buruh sebagai kreditur preferen yang \nmempunyai hak istimewa untuk didahulukan daripada para kredit or lainnya. \nNamun prinsipnya tidak dapat mendahului hak para kreditur separatis yang \nmemang terpisah dari hak -haknya tersebut. Akan tetapi hal demikian diberikan \npengecualian, sebagaimana ditentukan di dalam Pasal 39 ayat (2) Undang-\nUndang Nomor 37 Tahun 2004 dan berdasarkan ketentuan Pasal 1134 \nKUHPerdata. Dengan perkataan lain, b erdasarkan ketentuan tersebut di atas, \nhak-hak buruh sebagai salah satu kreditor dalam kepailitan pada prinsipnya \nadalah merupakan hak istimewa yang timbul dan diberikan oleh Undang-\nUndang Untuk mendahului daripada para kreditor lainnya, khususnya kreditor \nbersaing atau konkur atau kreditor konkuren. Namun khusus hak upah bahkan \nmendahului hak kreditor separatis. Oleh karena hak pekerja atau buruh, \nsebagaimana dimaksud di dalam Pasal 95 ayat (4) Undang- Undang \nKetenagakerjaan terbagi dalam dua, yaitu:",
+      "start_line": 1089,
+      "end_line": 1121
+    },
+    {
+      "heading": "1. Hak upah, baik sebelum maupun sesudah pernyataan pailit , yang dengan",
+      "slug": "1-hak-upah-baik-sebelum-maupun-sesudah-pernyataan-pailit-yang-dengan",
+      "text": "adanya ketentuan Pasal 39 ayat (2) Undang- Undang Kepailitan yang terkait \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n27",
+      "start_line": 1123,
+      "end_line": 1131
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \natau yang merupakan biaya kepailitan yang harus dibayar terlebih dahulu \nmendahului kreditor separatis, sehingga sama kedudukannya dengan biaya \npengadilan (fee curator), biaya pemeliharaan, biaya penilaian, biaya lelang, \ndan lain sebagainya.",
+      "start_line": 1133,
+      "end_line": 1137
+    },
+    {
+      "heading": "2. Hak-hak lainnya, yakni hak yang timbul dalam hubungan kerja atau sebagai",
+      "slug": "2-hak-hak-lainnya-yakni-hak-yang-timbul-dalam-hubungan-kerja-atau-sebagai",
+      "text": "akibat dari hubungan kerja merupakan hak yang diistimewakan saja yang \ndiberikan keistimewaan oleh Undang-Undang untuk mendahului para \nkreditor konkuren lainnya. \n Dengan demikian, hak pekerja atau buruh ada yang masuk dalam kelompok \nbiaya kepailitan dan ada yang masuk dalam kelompok kreditor preference. \nDalam arti bahwa hak pekerja atau buruh sebenarnya tidak seluruhnya sekadar \nmerupakan hak preference,  akan tetapi ada hak yang lebih diistimewakan dan \ndiposisikan sederajat dengan biaya pengadilan ( fee curator ), biaya \npemeliharaan, biaya penilaian, dan biaya lain- lainnya, termasuk biaya lelang di \ndalamnya, yakni hak atas upah, baik sebelum maupun sesudah putusan \npernyataan pailit diucapkan. Selain upah, juga termasuk adalah merupakan hak-\nhak yang bersifat preference biasa; \n Bahwa sesungguhnya ketentuan yang ada telah sesuai, dan tidak saling \nbertentangan satu sama lain, serta telah memberikan kedudukan yang \ndidahulukan terhadap pembayaran upah dan hak -hak lainnya bagi pek erja atau \nburuh dalam hal terjadi kepailitan sebagai hak istimewa. Bahkan, hak atas upah \nmenjadi lebih diutamakan justru dalam rangka melaksanakan amanat Pasal 39 \nayat (2) Undang-Undang Kepailitan dan PKPU. \n Bahwa t erhadap anggapan para Pemohon yang memperm asalahkan \nkedudukan pajak dalam pemberesan hak -hak para kreditor. Pemerintah dapat \nmenjelaskan bahwa hal ini dimungkinkan untuk didahulukan dari para kreditor \nkonkuren, bahkan termasuk didahulukan dari para kreditor separatis yang harus \ndipenuhi, yaitu kewajiban pajak -pajak dimaksud dari budel pailit , karena \nUndang-Undang memang mengatur demikian dan merupakan pengecualian \ndari statement umum dalam ketentuan Pasal 1134 KUHPerdata, sebagaimana \nyang Pemerintah sudah sebutkan di atas.  Ketentuan undang -undang y ang \nmemberikan pengecualian tersebut masing- masing antara lain dapat \nPemerintah sebutkan adalah berdasarkan ketentuan Pasal 21 U ndang-Undang \nNomor 6 Tahun 198 3 tentang Ketentuan Umum tentang Tata Cara Perpajakan, \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n28",
+      "start_line": 1139,
+      "end_line": 1175
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nsebagaimana telah diubah terakhir dengan Undang- Undang Nomor 28 Tahun \n2007 juncto Pasal 19 Undang- Undang Nomor 19 Tahun 1997 tentang \nPenagihan Pajak dengan Surat Paksa, sebagaimana telah diubah terakhir \ndengan Undang- Undang Nomor 19 Tahun 2000 tentang Perubahan Atas \nUndang-Undang Nomor 19 Tahun 1997 tentang Penagihan Pajak dengan Surat \nPaksa; \n Bahwa hak mendahului untuk tagihan pajak melebihi segala hak mendahului \nlainnya, kecuali terhadap biaya perkara yang semata- mata disebabkan oleh \nadanya penghukuman untuk melelang suatu barang bergerak dan/atau barang \ntidak bergerak yaitu biaya yang telah dikeluarkan untuk menyelamatkan barang \ndimaksud dan biaya perkara yang semata- mata disebabkan adanya pelelangan \ndan penyelesaian suatu warisan; \n Dengan demikian, secara yuridis, posisi tagihan pajak adalah merupakan salah \nsatu kreditor dalam kepailitan yang oleh Undang-Undang diposisikan sebagai \nkreditor preference yang mempunyai hak mendahului yang diistimewakan, yaitu \nberdasarkan ketentuan Pasal 1134, Pasal 1137 KUHPerdata. Hak tersebut \ndisamakan dengan biaya kepailitan yang diambil dari budel pailit, sehingga \nkedudukannya dibayarkan sebelum pemenuhan hak-hak kreditor separatis; \n Selain itu, secara filosofis, penempatan pajak pada posisi mendahului kreditor \nseparatis tersebut karena pajak pada hakikatnya adalah terkait dan menyangkut \nkepentingan umum dan kemaslahatan orang banyak yang didahulukan dalam \nrangka kepentingan bangsa dan negara; \n Bahwa terhadap anggapan para Pemohon bahwa mempermasalahkan hak -hak \nburuh yang bekerja dalam perusahaan asuransi dan membandingkan hak \nmendahului dari para pemegang polis dengan hak mendahului para buruh \nsebagaimana diatur di dalam Pasal 20 Undang- Undang Nomor 2 Tahun 1992  \ntentang Perasuransian sebagaimana mengutip ketentuan dalam pasal \ndimaksud, Pemerintah dapat menjelaskan bahwa ketentuan tersebut adalah \npernyataan yang sifatnya statement pada umumnya. Oleh karena itu, pemegang \npolis sebagai pihak yang menyetorkan sejumlah dana dan pemegang polis \nsebagai sertifikat hak jaminan kebendaan.  Oleh karena itu, pemegang polis \nmenjadi salah satu kredit or terpisah atau s eparatis dan dijamin oleh Undang-\nUndang. Walaupun ketentuan tersebut menegaskan lebih lanjut bahwa \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n29",
+      "start_line": 1177,
+      "end_line": 1218
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nkewajiban terhadap negara harus lebih diutamakan sebagai penegasan dari apa \nyang diatur di dalam Pasal 1137 KUHPerdata. \n Bahwa dari seluruh uraian tersebut di atas, menurut Pemerintah anggapan Para \nPemohon yang menyatakan bahwa ketentuan Pasal 95 ayat (4) Undang-\nUndang Ketenagakerjaan yang dianggap telah menimbulkan ketidakpastian \nhukum dan multitafsir adalah tidak tepat karena pada dasarnya Undang-Undang \natau ketentuan yang terkait dengan ketenagakerjaan telah memberikan \nperlindungan yang maksimal terhadap hak pekerja atau buruh. Jikalaupun \nterhadap ketidaksempurnaan dalam implementasinya atau pelaksanaannya, \nmenurut Pemerintah hal demikian semata- mata terkait terhadap dengan teknis \natau proses penyelesaian atau yang terkait dengan proses administrasi. Dalam \nkaitan itu dapat dicontohkan misalnya, sebuah perusahaan dinyatakan pailit \nberdasarkan putusan Pengadilan Niaga, maka Pemerintah akan segera \nmenghitung hak-hak pekerja atau buruh yang harus dibayarkan sesuai dengan \nketentuan Undang- Undang Ketenagakerjaan. Selanjutnya, menyampaikan \nperhitungan tersebut kepada kurator atau hakim pengawas melalui Ketua \nPengadilan Niaga agar setelah aset perusahaan dilelang maka hak pekerja atau \nburuh yang sudah dihitung tersebut dimintakan untuk didahulukan \npembayarannya sesuai dengan peraturan perundang- undangan sebagaimana \ntelah diuraikan di atas. Dan selanjutnya ketua pengadilanlah yang akan \nmenentukan urutan pembayaran utang terhadap para kreditor tersebut termasuk \npekerja atau buruh; \n Dengan demikian,  menurut Pemerintah ketentuan Pasal 95 ayat (4) Undang-\nUndang Ketenagakerjaan telah memberikan kepastian hukum dan tidak \nmultitafsir. Justru seba liknya telah menguatkan kedudukan pekerja atau buruh \ndengan mendahulukan pembayaran upah dan hak -hak lainnya dalam hal \nperusahaan dinyatakan pailit atau dilikuidasi. Sebaliknya menurut Pemerintah, \napabila ketentuan tersebut dinyatakan tidak mempunyai kekuatan hukum \nmengikat atau ditafsirkan lain, maka menurut Pem erintah dapat menimbulkan \nketidakpastian hukum dan bahkan dapat menimbulkan multitafsir; \n Bahwa berdasarkan penjelasan tersebut di atas, Pemerintah memohon kepada \nMahkamah yang memeriksa, memutus, dan mengadili permohonan Pengujian \nUndang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan terhadap \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n30",
+      "start_line": 1220,
+      "end_line": 1261
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dapat \nmemberikan putusan.",
+      "start_line": 1263,
+      "end_line": 1265
+    },
+    {
+      "heading": "1. Menolak permohonan p ara Pemohon seluruhnya atau setidak -tidaknya",
+      "slug": "1-menolak-permohonan-p-ara-pemohon-seluruhnya-atau-setidak-tidaknya",
+      "text": "menyatakan permohonan pengujian para Pemohon tidak dapat diterima.",
+      "start_line": 1267,
+      "end_line": 1267
+    },
+    {
+      "heading": "3. Menyatakan ketentuan Pasal 95 ayat (4) Undang- Undang 13 Tahun 2003",
+      "slug": "3-menyatakan-ketentuan-pasal-95-ayat-4-undang-undang-13-tahun-2003",
+      "text": "tentang Ketenagakerjaan tidak bertentangan dengan Pasal 28D ayat (1) dan \nayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.  \n[2.4]  Menimbang bahwa terhadap permohonan para Pemohon, Dewan \nPerwakilan Rakyat memberikan keterangan dalam persidangan pada tanggal 28 \nAgustus 2013 dan telah menyerahkan keterangan tertulis yang diterima oleh \nKepaniteraan Mahkamah pada tanggal 17 Oktober 2013, pada pokoknya \nmenerangkan sebagai berikut:  \n Bahwa landasan filosofis dari pembentukan Undang- Undang Ketenagakerjaan \nadalah untuk memberikan jaminan dalam pemenuhan hak -hak dasar tenaga \nkerja dalam menjamin kesamaan kesempatan dan perlakuan tanpa diskriminasi \natas dasar apapun,  serta untuk mewujudkan kesejahteraan pekerja dan \nkeluarganya dengan tetap memperhatikan perkembangan kemajuan dunia \nusaha; \n Bahwa dalam rangka memberikan jaminan pemenuhan hak -hak dasar tenaga \nkerja, maka dalam Undang-Undang Ketenagakerjaan telah mengatur mengenai \npersoalan berupa buruh yang pada prinsipnya harus memperhatikan tiga aspek, \nyaitu aspek teknis merupakan aspek yang tidak hanya sebatas bagaimana \nperhitungan dan pembayaran upah dilakukan,  tetapi juga menyangkut \nbagaimana proses upah ditetapkan. Aspek ekonomis merupakan aspek yang \nlebih melihat pada kondisi ekonomi , baik secara makro maupun mikro yang \nsecara operasional kemudian mempertimbangkan bagaimana kem ampuan \nperusahaan pada saat nilai upah akan ditetapkan juga bagaimana \nimplementasinya di lapangan. Asas hukum meliputi proses dan kewenangan \npenetapan upah, pelaksanaan upah, perhitungan dan pembayaran upah, serta \npengawasan pelaksanaan ketentuan upah; \n Bahwa salah satu aspek penting dalam persoalan pemberian upah kepada \ntenaga kerja adalah aspek hukum di mana hukum harus dapat memberikan \njaminan dalam pelaksanaan pemberian upah kepada tenaga kerja. Aspek \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n31",
+      "start_line": 1270,
+      "end_line": 1305
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nhukum dalam jaminan pemberian upah kepada tenaga kerj a, salah satunya \ntercermin dalam ketentuan Pasal 95 ayat (4) Undang- Undang Ketenagakerjaan \nyang menyatakan, “Dalam hal perusahaan dinyatakan pailit atau dilikuidasi \nberdasarkan peraturan perundang-undangan yang berlaku, maka upah dan hak-\nhak lainnya daripada pekerja atau buruh merupakan utang yang didahulukan \npembayarannya; \n Bahwa menurut pendapat DPR , ketentuan Pasal 95 ayat (4) Undang- Undang \nKetenagakerjaan telah cukup memberikan jaminan dan kepastian hukum bagi \ntenaga kerja untuk tetap mendapatkan upahnya manakala perusahaan tempat \ntenaga kerja yang bersangkutan dinyatakan pailit atau dilikuidasi. Hal tersebut \ndipertegas dalam penjelasan Pasal 95 ayat (4) Undang- Undang \nKetenagakerjaan yang menyatakan bahwa yang dimaksud didahulukan \npembayarannya adalah upah pekerja atau buruh harus dibayar lebih dahulu \ndaripada utang lainnya; \n Bahwa terkait jaminan hak atas upah tenaga kerja pada perusahaan yang \ndinyatakan pailit juga telah diatur secara tegas dalam ketentuan Pasal 39 ayat \n(2) Undang-Undang Nomor 37 Tahun 2004 tentang Kepailitian dan Penundaan \nKewajiban Pembayaran Hutang yang menyatakan sejak tanggal putusan \npernyataan pailit diucapkan upah yang terutang sebelum maupun sesudah \nputusan pernyataan pailit diucapkan merupakan utang harta pailit. Berdasarkan \nketentuan Pasal 39 ayat (2) Undang- Undang Kepailitan tersebut , maka hak \nupah baik sebelum maupun sesudah putusan,  pernyataan pailit digolongkan \ndalam utang harta pailit yang merupakan biaya kepailitian yang harus dibayar \nterlebih dahulu mendahului kreditor separatis sehingga sama kedudukannya \ndengan biaya pengadilan, fee kurator, biaya pemeliharaan, biaya penilaian, \nbiaya lelang, dan lain- lain. Dengan perkataan lain,  hak upah tenaga kerja \ndiposisikan sederajat dengan biaya pengadilan, fee curator, biaya \npemeliharaan, biaya penilaian, biaya lelang, dan lain-lain. Oleh karenanya, DPR \nberpandangan ketentuan Pasal 95 ayat (4) Undang- Undang Ketenagakerjaan \njuncto Pasal 39 ayat (2) Undang- Undang Kepailitan telah cukup memberikan \njaminan dan kepastian hukum dalam pelaksanaan hak upah tenaga kerja pada \npersahaan yang dinyatakan pailit; \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n32",
+      "start_line": 1307,
+      "end_line": 1347
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \n Berdasarkan uraian di atas DPR berpendapat ketentuan Pasal 95 ayat (4) \nUndang-Undang Ketenagakerjaan telah sesuai dan tidak bertentangan dengan \nPasal 28D ayat (1) Undang-Undang Dasar 1945.  \n[2.5] Menimbang bahwa para Pemohon dan Presiden telah menyampaikan \nkesimpulan tertulis yang diterima di Kepaniteraan Mahkamah masing- masing pada \ntanggal 17 September 2013 yang pada pokoknya tetap pada pendiriannya; \n[2.6]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam berita acara \npersidangan, yang merupakan satu kesatuan yang tidak terpisahkan dengan \nputusan ini;",
+      "start_line": 1349,
+      "end_line": 1359
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "[3.1]  Menimbang bahwa isu konstitusional utama permohonan para Pemohon \nadalah mengenai pengujian konstitusionalitas Pasal 95 ayat (4) sepanjang frasa \n“yang didahulukan pembayarannya” yang menyatakan, “ Dalam hal perusahaan \ndinyatakan pailit atau dilikuidasi berdasarkan peraturan perundang-undangan yang \nberlaku, maka upah dan hak -hak lainnya dari pekerja/buruh merupakan utang \nyang didahulukan pembayarannya” Undang-Undang Nomor 13 Tahun 2003 \ntentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003  \nNomor 39, Tambahan Lembaran Negara Republik Indonesia Tahun 2003  Nomor \n4279, selanjutnya disebut UU 13/2003) terhadap Pasal 28D ayat (1) dan Pasal 28D \nayat (2)  Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 \n(selanjutnya disebut UUD 1945) yang menyatakan: \nPasal 28D ayat (1): “Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perlakuan yang sama di hadapan hukum”. \nPasal 28D ayat (2):  “Setiap orang berhak untuk bekerja serta mendapat imbalan dan \nperlakuan yang adil dan layak dalam hubungan kerja”; \n[3.2]  Menimbang bahwa sebelum mempertimbangkan pokok permohonan, \nMahkamah Konstitusi (selanjutnya disebut Mahkamah) terlebih dahulu akan \nmempertimbangkan hal-hal berikut: \na. kewenangan Mahkamah untuk mengadili permohonan a quo; \nb. kedudukan hukum ( legal standing) Pemohon; \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n33",
+      "start_line": 1361,
+      "end_line": 1388
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nTerhadap kedua hal tersebut, Mahkamah berpendapat sebagai berikut: \nKewenangan Mahkamah \n[3.3]  Menimbang bahwa berdasarkan Pasal 24C ayat (1) UUD 1945, Pasal 10 \nayat (1) huruf a Undang- Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi sebagaimana telah diubah dengan Undang- Undang Nomor 8 Tahun \n2011 tentang Perubahan Atas  Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran Negara R epublik Indonesia Tahun 2011  Nomor \n70, Tambahan Lembaran Negara R epublik Indonesia Nomor 5226, selanjutnya \ndisebut UU MK), dan Pasal 29 ayat (1) huruf a Undang- Undang Nomor 48 Tahun \n2009 tentang Kekuasaan Kehakiman (Lembaran Negara R epublik Indonesia \nTahun 2009 Nomor 157, Tambahan Lembaran Negara R epublik Indonesia Nomor \n5076), salah satu kewenangan Mahkamah adalah mengadili pada tingkat pertama \ndan terakhir yang putusannya bersifat final untuk menguji Undang- Undang \nterhadap UUD 1945; \n[3.4]  Menimbang bahwa oleh karena permohonan para Pemohon mengenai \npengujian materiil Undang-Undang terhadap UUD 1945 maka Mahkamah \nberwenang mengadili permohonan a quo; \nKedudukan hukum (legal standing) Pemohon \n[3.5]  Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK, yang dapat \nbertindak sebagai Pemohon dalam pengujian suatu Undang- Undang terhadap \nUUD 1945 adalah mereka yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya Undang- Undang yang dimohonkan \npengujian, yaitu: \na. perorangan warga negara Indonesia, termasuk kelompok orang yang \nmempunyai kepentingan sama; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan  sesuai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik Indonesia \nyang diatur dalam Undang-Undang;",
+      "start_line": 1390,
+      "end_line": 1418
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Salinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n34",
+      "start_line": 1421,
+      "end_line": 1428
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nDengan demikian, Pemohon dalam pengujian Undang- Undang terhadap UUD \n1945 harus menjelaskan dan membuktikan terlebih dahulu:  \na.  kedudukannya  sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat \n(1) UU MK;  \nb.  kerugian hak dan/atau kewenangan konstitusional yang diberikan oleh UUD \n1945 yang diakibatkan oleh berlakunya Undang- Undang yang dimohonkan \npengujian; \n[3.6]  Menimbang pula bahwa Mahkamah sejak P utusan Nomor 006/PUU -\nIII/2005, bertanggal 31 Mei 2005 dan P utusan Nomor 11/PUU -V/2007, bertanggal \n20 September 2007 serta p utusan-putusan selanjutnya telah berpendirian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dimaksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi lima syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD 1945; \nb. hak dan/atau k ewenangan konstitusional tersebut oleh Pemohon dianggap \ndirugikan oleh berlakunya Undang-Undang yang dimohonkan pengujian;",
+      "start_line": 1430,
+      "end_line": 1446
+    },
+    {
+      "heading": "c. kerugian hak dan/atau kewenangan konstitusional tersebut harus bersifat",
+      "slug": "c-kerugian-hak-dan-atau-kewenangan-konstitusional-tersebut-harus-bersifat",
+      "text": "spesifik dan aktual atau setidak -tidaknya potensial yang menurut penalaran \nyang wajar dapat dipastikan akan terjadi;",
+      "start_line": 1448,
+      "end_line": 1449
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat ( causal verband) antara kerugian dimaksud",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian-dimaksud",
+      "text": "dengan berlakunya Undang-Undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian hak dan/atau kewenangan konstitusional seperti yang didalilkan tidak \nakan atau tidak lagi terjadi; \n[3.7]  Menimbang bahwa para Pemohon adalah perseorangan warga negara \nIndonesia yang saat ini bekerja di PT. Pertamina; \n Bahwa para Pemohon beranggapan telah dirugikan hak \nkonstitusionalnya untuk mendapatkan pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perlakuan yang sama di  hadapan hukum dan hak \nuntuk bekerja serta mendapat imbalan dan perlakuan yang adil dan layak dalam \nhubungan kerja dengan berlakunya Pasal 95 ayat ( 4) sepanjang frasa “ yang \ndidahulukan pembayarannya” dalam UU 13/2003. Menurut para Pemohon, pasal \na quo telah merugikan hak-hak konstitusional para Pemohon yang dijamin oleh UUD \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n35",
+      "start_line": 1451,
+      "end_line": 1471
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \n1945 khususnya Pasal 28D ayat (1) dan ayat (2) UUD 1945, karena memuat norma \nhukum yang tidak jelas, bias, menimbulkan multi tafsir, menimbulkan ketidakjelasan, \nperlakuan yang tidak adil, perlakuan yang berbeda di hadapan hukum, dan perlakuan \ndiskriminatif. Dengan berlakunya pasal a quo, para Pemohon sebagai perseorangan \nwarga negara Indonesia yang saat ini bekerja di PT. Pertamina beranggapan akan \ndirugikan hak konstitusionalnya dalam hal perusahaan tempat mereka bekerja \nmengalami pailit, yang tentunya akan dapat menyulitkan p ara Pemohon dalam \nmenuntut hak-hak mereka kelak apabila diperhadapkan dengan kreditor lainnya; \n Menurut para Pemohon norma yang terkandung dalam Pasal 95 ayat (4) \nUU 13/2003 telah menimbulkan ketidakpastian hukum dan menyebabkan para \nPemohon berpotensi untuk tidak mendapatkan imbalan dan perlakuan yang adil dan \nlayak dalam hubungan kerja sebagaimana dijamin dalam konstitusi. Oleh karena itu, \nmenurut para Pemohon pasal a quo telah merugikan hak konstitusional para \nPemohon;  \n[3.8]  Menimbang bahwa berdasarkan dalil -dalil para Pemohon tersebut, \nmenurut Mahkamah, para Pemohon memenuhi syarat kedudukan hukum ( legal \nstanding) sehingga para Pemohon dapat mengajukan permohonan a quo; \n[3.9]  Menimbang bahwa oleh karena Mahkamah berwenang mengadili \npermohonan a quo serta para Pemohon memiliki kedudukan hukum ( legal \nstanding) untuk mengajukan permohonan a quo maka selanjutnya Mahkamah \nakan mempertimbangkan pokok permohonan; \nPokok Permohonan \n[3.10]  Menimbang bahwa para Pemohon pada pokoknya memohon pengujian \nkonstitusionalitas Pasal 95 ayat (4 ) UU 13/2003 sepanjang frasa “yang \ndidahulukan pembayarannya”  terhadap UUD 1945, dengan alasan-alasan pada \npokoknya sebagai berikut: \n K etentuan Pasal 95 ayat (4) UU 13/2003 menyatakan upah dan hak -hak \nlainnya dari para pekerja/buruh merupakan utang yang “ didahulukan” \npembayarannya, akan tetapi dalam pelaksanaan putusan pailit kata \n“didahulukan” ditempatkan setelah pelunasan terhadap hak -hak negara dan \npara kreditor separatis yang meruj uk Buku Kedua Bab XIX KUH Perdata dan \nPasal 21 Undang- Undang Nomor 6 Tahun 1983 yang diubah oleh Undang-\n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n36",
+      "start_line": 1473,
+      "end_line": 1513
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nUndang Nomor 9 Tahun 1994 tentang Perubahan Atas Undang-Undang Nomor \n6 Tahun 1983 tentang Ketentuan Umum d an Tata Cara Perpajakan  \n(selanjutnya disebut UU Perpajakan) , sehingga hak negara ditempatkan \nsebagai pemegang hak posisi pertama, diikuti oleh kredit or separatis \n(pemegang hak tanggungan, gadai, fidusia, hipotik), akan tetapi dalam prakt ik \nhak pelunasan upah pekerja/ buruh ditempatkan dalam posisi setelah \npemenuhan hak negara dan para kredit or separatis, sehingga menimbulkan \nadanya ketidakpastian hukum dalam penerapan Pasal 95 ayat (4) U 13/2003 \nmengingat tidak adanya penafsiran yang jelas dan tegas mengenai klausula \n“didahulukan pembayarannya”; \n Pasal 1134 ayat (2) , Pasal 1137 KUH Perdata,  dan Pasal 21 Undang- Undang \nNomor 16 Tahun 2000 tentang Ketentuan Umum dan Tata Cara Perpajakan \nsebagaimana telah diubah dengan Undang- Undang Nomor 28 Tahun 2007 \ntentang Perubahan Ketiga A tas Undang-Undang Nomor 6 Tahun 1983 tentang \nKetentuan Umum dan Tata Cara Perpajakan terdapat urutan peringkat \npenyelesaian tagihan kreditor setelah selesainya kreditor separatis, dimana \nupah pekerja/buruh masih harus menunggu urutan setelah tagihan hak negara, \nkantor lelang, dan badan umum yang dibentuk Pemerintah untuk didahulukan. \nPadahal berdasarkan Pasal 95 ayat (4) UU 13/2003 di atas maka secara hukum \nadanya pernyataan pailit terhadap perusahaan, dalam hal pemenuhan hak -hak \npekerja/buruh seperti pes angon dan hak -hak lainnya harus didahulukan dari \npemenuhan kewajiban perusahaan yang pailit; \n Pasal 1149 KUH Perdata, piutang pekerja/ buruh terhadap perusahaan/majikan \nberkedudukan sebagai kreditor/piutang preferen, sehingga dengan dinyatakan \npailitnya debitor tidak akan menghilangkan hak -hak pekerja/ buruh sebagai \nkreditor terhadap perusahaan tersebut. Peker ja/buruh dapat menuntut \npembayaran upahnya sebagai kreditor dengan mengajukan tagihan kepada \nkurator yang ditunjuk oleh Pengadilan Niaga yang bertugas untuk mengurus dan \nmembereskan harta debitor pailit. Kurator mendahulukan pembayaran upah \nburuh sebagai kreditor preferen dari hasil penjualan boedel pailit daripada \npembayaran kepada kreditor konkuren; \n Adanya pertentangan tersebut berimplikasi pada tidak terciptanya jaminan, \nperlindungan dan kepastian hukum yang adil terhadap para pekerja/buruh \nkhususnya dalam hal perusahaan yang dinyatakan pailit adalah perusahaan \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n37",
+      "start_line": 1515,
+      "end_line": 1557
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nasuransi yang berdasarkan Pasal 20 ayat (2) Undang -Undang Nomor 2 T ahun \n1992 tentang Usaha Perasuransian, menyatakan,  “Hak pemegang polis atas \npembagian harta kekayaan Perusahaan Asuransi Kerugian atau P erusahaan \nAsuransi Jiwa yang dilikuidasi merupakan hak utama”. Pemberlakuan Pasal 20 \nayat (2) Undang- Undang Nomor 2 T ahun 1992 tentang Usaha Perasuransian \ndalam prakt iknya akan menimbulkan ketidakpastian hukum apabila \ndisandingkan dengan hak -hak buruh yang bekerja dalam perusahaan asuransi, \nkhususnya tentang pemberlakuan hukum  apakah akan mendahulukan hak \npemegang polis berdasarkan Undang- Undang Nomor 2 Tahun 1992 t entang \nUsaha Perasuransian ataukah mendahulukan hak -hak pekerja/ buruh \nsebagaimana dinyatakan dalam ketentuan Pasal 95 ayat (4) UU 13/2003; \n Dalam Undang-Undang Pajak, Undang- Undang Asuransi dan Undang-Undang \na quo semua menyatakan diutamakan sehingga menimbulkan ketidakpastian \nhukum bagi pekerja/buruh sebagaimana diuraikan di atas maka ketentuan Pasal \n95 ayat (4) U U13/2003 sepanjang frasa,  “didahulukan pembayarannya” telah \nnyata menimbulkan multi tafsir dan menempatkan pekerja/buruh dalam posisi \nyang lemah dan tidak equal dengan para kredit or separatis yang dalam praktik \nlebih didahulukan pembayarannya. Menurut para Pemohon, hak pekerja/buruh \ntidak dapat dikalahkan oleh pihak lain sekali pun perusahaan pailit;  \n Bahwa Pasal 95 ayat (4) UU  13/2003, merupakan norma yang belum jelas dan \ntegas tafsirannya, mengingat belum jelas apa yang dimaksud dengan klausula \n“…didahulukan pembayarannya”, karena meskipun upah dan hak -hak \npekerja/buruh dijamin dalam hal terjadinya pailit atau likuidasi p erusahaan, \nnamun posisi pekerja/buruh selaku kreditor preferen khusus menjadi rentan \nkarena masih menunggu pembayaran bagi kreditor separatis dalam hal \nterjadinya kepailitan. Dengan demikian salah satu pihak yang di jaminkan \nhaknya selama proses pailit yaitu para pekerja/buruh dan pekerja/buruh menjadi \nterabaikan hak asasi manusianya untuk mendapatkan penghidupan yang layak \noleh karena dalam hal terjadinya kepailitan, kreditor akan terbagi ke dalam 3 \n(tiga) bagian yaitu kreditor separatis, kreditor preference dan kreditor konkuren. \nPekerja/buruh merupakan kreditor preference, yang pembayaran hak -haknya \ndilakukan setelah tagihan hak negara, kantor lelang, dan badan umum yang \ndibentuk Pemerintah. Posisi atau kedudukan pekerja/ buruh selaku kreditor \npreference yang masih menunggu urutan peringkat pembayaran setelah tagihan \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n38",
+      "start_line": 1559,
+      "end_line": 1601
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nhak negara, kantor lelang, dan badan umum yang dibentuk Pemerintah adalah \nmerupakan suatu kedudukan yang bertentangan dengan Pasal 95 ayat (4) U U \n13/2003; \n Dengan demikian, sebagai  akibat dari tidak jelasnya penafsiran Pasal 95 ayat \n(4) UU 13/2003 yang berujung pada ketidakpastian hukum sebagaimana yang \ndisebutkan di  atas maka dengan sendirinya juga menimbulkan ketidakadilan \nterhadap salah satu pihak karena tidak mendapat imbalan dan perlakuan yang \nadil dan layak dalam hubungan kerja sesuai dengan Pasal 28D ayat (2)  UUD \n1945;  \n Berdasarkan seluruh uraian di atas maka Pasal 95 ayat (4) UU 13/2003 adalah \ninkonstitusional, kecuali klausula “... didahulukan pembayarannya”  dimaknai \nbahwa para pekerja/buruh sebagai kreditor preference yang di dahulukan \npembayaran atas upah dan hak -haknya daripada semua kredit or lainn ya \ntermasuk tagihan hak negara, kantor lelang, dan badan umum yang dibent uk \nPemerintah untuk didahulukan; \n[3.11]  Menimbang bahwa untuk membuktikan dalilnya, para Pemohon telah \nmengajukan alat bukti surat atau tulisan yang diberi tanda bukti P- 1 sampai \ndengan b ukti P-9 serta ahli yaitu Timboel Siregar  dan Yogo Pamungkas  yang \ntelah didengar keterangannya di bawah sumpah dalam persidangan tanggal 10 \nSeptember 2013, yang selengkapnya termuat dalam bagian Duduk Perkara;  \n[3.12]  Menimbang terhadap permohonan para Pemohon, P residen telah \nmemberikan keterangan lisan dalam persidangan pada tanggal 28 Agustus 2013 \ndan keterangan tertulis serta kesimpulan yang diterima di Kepaniteraan Mahkamah \npada tanggal 17 September 2013,  yang selengkapnya termuat dalam bagian \nDuduk Perkara; \n[3.13]  Menimbang bahwa terhadap permohonan para Pemohon , Dewan \nPerwakilan Rakyat telah menyampaikan keterangan lisan dalam persidangan pada \ntanggal 28 Agustus 2013, dan keterangan tertulis yang diterima di Kepaniteraan \nMahkamah pada tanggal 17 Oktober 2013,  yang selengkapnya termuat dalam \nbagian Duduk Perkara; \n \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n39",
+      "start_line": 1603,
+      "end_line": 1642
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nPendapat Mahkamah \n[3.14]  Menimbang bahwa setelah membaca, mendengar, dan mempelajari \ndengan saksama permohonan para Pemohon, keterangan para Pemohon, \nketerangan Presiden, keterangan Dewan Perwakilan Rakyat, bukti -bukti surat/  \ntertulis para Pemohon, keterangan ahli para Pemohon, kesimpulan para Pemohon \ndan Presiden, Mahkamah akan mempertimbangkan pokok permohonan; \n[3.15]  Menimbang bahwa pokok permohonan adalah pengujian \nkonstitusionalitas frasa “yang didahulukan pembayarannya” dalam Pasal 95 \nayat (4) UU 13/2003  tentang pelunasan utang dalam hal perusahaan dinyatakan \npailit yang tidak mendahulukan pembayaran upah pekerja/ buruh, melainkan \nmendahulukan pembayaran (1) utang negara dan biaya k urator, (2) kredito r \nseparatis pemegang jaminan gadai, fidusia, dan/atau hak tanggungan, (3) kredit or \npreferen, dan (4) kreditor konkuren; \n[3.16]  Menimbang bahwa sebelum  mempertimbangkan  pokok  permohonan  \na quo Mahkamah perlu mengemukakan terlebih dahulu hal-hal sebagai berikut: \n  Bahwa berdasarkan Pembukaan UUD 1945,  tujuan negara ini dibentuk, \nantara lain, adalah untuk melindungi segenap bangsa Indonesia dan seluruh \ntumpah darah Indonesia dan untuk memajukan kesejahteraan umum [ vide \nPembukaan UUD 1945 alinea keempat]. Pasal -pasal UUD 1945 mengatur lebih \nlanjut tujuan tersebut, yaitu m enentukan secara konstitusional  hak setiap orang \nuntuk hidup serta hak mempertahankan hidup dan kehidupannya [ vide Pasal 28A] \ndan hak untuk bekerja serta mendapat imbalan dan perlakuan yang adil dan layak \ndalam hubungan kerja [ vide Pasal 28D ayat (2)] serta menentukan secara \nkonstitusional bahwa hak untuk hidup dan hak untuk tidak disiksa, hak \nkemerdekaan mengeluarkan pikiran dan hati nurani, hak beragama, hak untuk \ntidak diperbudak, hak untuk diakui sebagai pribadi di hadapan hukum, dan hak \nuntuk tidak dituntut atas dasar hukum yang berlaku surut,  adalah hak asasi \nmanusia yang tidak dapat dikurangi dalam keadaan apa pun, namun hak asasi \ntersebut dapat dibatasi dan tidak boleh bertentangan dengan hak asasi orang lain \ndengan nilai -nilai moral, agama, serta diatur dan dituangkan dalam peraturan \nperundang-undangan, yang oleh karenanya perlindungan, pemajuan, penegakan, \ndan pemenuhan hak asasi manusia adalah tanggung jawab negara, terutama \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n40",
+      "start_line": 1644,
+      "end_line": 1684
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nPemerintah dan secara konstitusional menentukan bahwa untuk menegakkan dan \nmelindungi hak asasi manusia sesuai dengan prinsip negara hukum yang \ndemokratis, maka pelaksanaan hak asasi manusia dijamin, diatur, dan dituangkan \ndalam peraturan perundang- undangan [vide Pasal 28 I ayat (1), ayat (4), dan ayat \n(5)]; \nBahwa politik hukum pembentukan UU 13/2003 adalah sebagai bagian \nintegral dari pembangunan nasional berdasarkan Pancasila dan UUD 1945, yang \nsecara khusus terkait ketenagakerjaan adalah untuk meningkatkan harkat, \nmartabat, dan harga diri tenaga kerja serta mewujudkan masyarakat sejahtera, \nadil, makmur, dan merata, baik materiil maupun spiritual. Oleh karena itu, \npengaturan ketenagakerjaan dalam Undang- Undang a quo harus memenuhi hak-\nhak dan perlindungan yang mendasar bagi tenaga kerja dan pekerja/buruh serta \npada saat yang sama harus  dapat mewujudkan kondisi yang kondusif bagi \npengembangan usaha. Selain itu, pembinaan hubungan industrial harus diarahkan \nuntuk mewujudkan hubungan industrial yang harmonis, dinamis, dan berkeadilan \n[vide Penjelasan UU 13/2003]; \n Bahwa pengujian konstitusionalitas yang dimohonkan para Pemohon \ntersebut memiliki kesamaan substansi dengan pengujian konstitusionalitas Pasal \n29, Pasal 55 ayat (1), Pasal 59 ayat (1) dan Pasal 138 Undang- Undang Nomor 37 \nTahun 2004 tentang Kepailitan dan Penundaan Kewajiban Pembayaran Utang \nyang telah diputus oleh Mahkamah dalam Putusan Nomor 18/PUU -VI/2008, \ntanggal 23 Oktober 2008. Oleh karena itu, Mahkamah perlu mengutip beberapa \npertimbangan dalam putusan tersebut, pada pokoknya sebagai berikut: \nBahwa pernyataan pailit oleh hakim adalah merupakan satu peletakan \nsita umum ( algemene beslag) terhadap seluruh harta kekayaan seorang debitor. \nTujuannya adalah supaya dapat membayar semua tagihan kreditor secara adil, \nmerata, dan seimbang.  Pembayaran tagihan kreditor dilakukan berdasarkan asas  \nparu passu pro rata parte, karena memang kedudukan kreditor pada dasarnya \nadalah sama, akan tetapi dalam proses pelaksanaannya diatur berdasarkan \nperingkat at au prioritas piutang yang harus dibayar terlebih dahulu yang diatur \ndalam Undang-Undang terkait dengan jaminan terhadap pinjaman yang diberikan \nkreditor terhadap seorang debitor. Kreditor yang demikian sejak awal diperjanjikan \nuntuk diselesaikan tagihannya lebih dahulu dan secara terpisah ( separate) dengan \nhak untuk melakukan eksekusi terhadap harta yang dijaminkan. Demikianlah \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n41",
+      "start_line": 1686,
+      "end_line": 1728
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nkreditor yang dijamin dengan hipotek, gadai, fidusia, dan hak tanggungan lainnya.  \nDalam urutan berikutnya, berdasarkan peraturan perundang- undangan, adalah \ntagihan hak negara, kantor lelang, dan badan umum yang dibentuk Pemerintah, \nkemudian upah buruh. Padahal, penjelasan pasal tersebut menyatakan, “Yang \ndimaksud didahulukan pembayarannya adalah upah pekerja/buruh harus dibayar \nlebih dahulu dari pada utang lainnya”;  \nBahwa pada bagian lain dari putusan tersebut Mahkamah juga \nmempertimbangkan, tidak dapat disangkal bahwa kedudukan pekerja/buruh dalam \nperusahaan merupakan salah satu unsur yang sangat vital dan mendasar yang \nmenggerakkan proses usaha. Unsur lain yang memungkinkan usaha bergerak \nadalah modal, yang juga merupakan unsur yang esensial. M asing-masing unsur \ntersebut diikat dengan perjanjian, yang karena isinya menjadikan unsur -unsur \ntersebut tidak memiliki kedudukan yang sama dilihat dari ukuran kepastian, \njaminan, dan masa depan jika timbul risiko yang berada di  luar kehendak semua \npihak. Pengakuan tetap harus  mempertimbangkan kedudukan yang berbeda dan \nrisiko dalam kehidupan ekonomi berbeda yang tidak selalu dapat diperhitungkan . \nOleh karena itu, dalam membuat kebijakan hukum, hak -hak pekerja/ buruh tidak \nboleh termarginalisasi dalam kepailitan, namun tidak boleh mengganggu \nkepentingan kreditor (separatis) yang telah diatur dalam ketentuan hukum jaminan \nbaik berupa gadai, hipotek, fidusia, maupun hak tanggungan lainnya. \n[3.17]  Menimbang bahwa untuk selanjutnya, berdasarkan tujuan pembentukan \nnegara dan ketentuan konstitusional sebagaimana diuraikan di atas, Mahkamah \nmempertimbangkan pokok permohonan, yaitu mengenai apa yang menjadi dasar \nhukum bagi adanya hak tagih masing-masing kreditor dan apa yang menjadi dasar \nhukum bagi adanya peringkat pembayaran, yang berdasarkan pertimbangan \nmengenai dua hal tersebut , Mahkamah dalam Putusan Nomor 18/PUU -VI/2008 \ntersebut menolak permohonan yang substansinya sama dengan permohonan       \na quo dan hak tagih atas upah pekerja/buruh tetap sebagaimana peringkat yang \nditentukan oleh peraturan perundang- undangan. Namun demikian, mengenai \nnorma yang diturunkan dari tujuan negara dan ketentuan konstitusional di atas \ndalam UU 13/2003 terkait dengan peringkat kredit or dalam memperoleh \npembayaran hak tagihnya dan praktiknya dalam  ranah empirik ternyata terdapat \npermasalahan lain yang harus  dipertimbangkan, yaitu mengenai kedudukan para \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n42",
+      "start_line": 1730,
+      "end_line": 1771
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nkreditor. Terlepas  dari pertimbangan putusan tersebut, terhadap permohonan        \na quo Mahkamah akan mempertimbangkan tersendiri;  \n[3.18]  Menimbang bahwa mengenai yang menjadi dasar hukum bagi adanya \nhak tagih masing- masing kredit or ternyata sama, kecuali bagi hak tagih negara. \nDasar hukum bagi kredit or separatis dan bagi pekerja/buruh adalah sama, yaitu \nperjanjian yang dilakukan dengan debit or. Mengenai dasar hukum kewajiban \nkenegaraan adalah peraturan perundang- undangan. Adapun mengenai dasar \nhukum bagi adanya peringkat atau prioritas pembayaran sebagaimana \npertimbangan Putusan Nomor 18/PUU -VI/2008 tersebut di atas, adalah karena \nadanya perbedaan kedudukan yang disebabkan oleh isi perjanjian masing- masing \nberhubung adanya faktor -faktor tertentu. Meskipun antara kredit or s eparatis dan \npekerja/buruh dasar hukumnya adalah sama, yaitu perjanjian, namun manakala \ndilihat dari aspek lain, yaitu aspek subjek hukum yang melakukan perjanjian, objek, \ndan resiko, antara keduanya terdapat perbedaan yang secara konstitusional \nsignifikan;  \nBahwa dalam aspek subjek hukum, perjanjian gadai, hipotik, dan fidusia \nserta perjanjian tanggungan lainnya, merupakan perjanjian yang dilakukan oleh \nsubjek hukum, yaitu pengusaha dan pemodal, yang secara sosial ekonomis para \npihak tersebut dapat dikonstruksikan sama. Terlebih lagi pemodal, yang boleh jadi \nadalah pengusaha juga. Sebaliknya,  perjanjian kerja merupakan perjanjian yang \ndilakukan oleh subjek hukum yang berbeda, yaitu pengusaha dan pekerja/buruh. \nPengusaha dan pekerja/buruh, secara sosial ekonomis tidaklah sejajar, melainkan \npihak yang satu, sebagai  pengusaha tentu lebih kuat dan lebih tinggi, bila \ndibandingkan pekerja/buruh, karena pekerja/buruh secara sosial ekonomis jelas \nlebih lemah dan lebih rendah daripada pengusaha, meskipun antara pengusaha \ndan pekerja/buruh saling memerlukan.  Perusahaan tidak akan berproduksi tanpa \npekerja/buruh dan pekerja/buruh tidak dapat bekerja tanpa ada pengusaha.  \nBerdasarkan pertimbangan tersebut, menurut Mahkamah, oleh karena pekerja/  \nburuh secara sosial ekonomis berkedudukan lebih lemah dan lebih rendah  \ndibandingkan pengusaha dan hak-hak pekerja/buruh telah dijamin oleh UUD 1945  \nmaka Undang- Undang harus memberikan jaminan perlindungan untuk \ndipenuhinya hak-hak para pekerja/buruh tersebut; \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n43",
+      "start_line": 1773,
+      "end_line": 1813
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nBahwa dalam aspek objek, perjanjian gadai, hipotik, fidusia, dan \nperjanjian tanggungan lainnya yang menjadi objeknya adalah properti. Sementara \nitu, perjanjian kerja yang menjadi objeknya adalah  tenaga atau keterampilan (jasa) \ndengan imbalan jasa dalam kerangka untuk memenuhi kebutuhan dasar hidup \nbagi diri dan keluarga pekerja/buruh, sehingga antara keduanya dalam aspek ini \nmemiliki perbedaan yang mendasar, yaitu properti dan manusia. Pertanyaannya \nadalah bagaimana perbedaan tersebut terkait dengan apa yang sejatinya \ndilindungi oleh hukum. Pembentukan hukum jelas dimaksudkan untuk melindungi \nkepentingan manusia. Dalam kasus ini manakah yang seharusnya menjadi \nprioritas, kepentingan manusia terhadap properti atau kepentingan manusia \nterhadap diri dan kehidupannya. Apalagi berdasarkan sistem pembayaran upah \npekerja/buruh dalam kegiatan usaha yang dibayar sebulan setelah pekerja \nmelaksanakan pekerjaan, hal ini merupakan argumentasi tersendiri karena upah \npekerja/buruh sesungguhnya adalah hutang pengusaha kepada pekerja/buruh, \nyang s eharusnya harus dibayar sebelum kering keringatnya. Dalam perspektif \ntujuan negara dan ketentuan mengenai hak konstitusional sebagaimana diuraikan \ndalam paragraf [3.16], menurut Mahkamah kepentingan manusia terhadap diri dan \nkehidupannya haruslah menjadi prioritas, harus menduduki peringkat terdahulu \nsebelum kreditor separatis; \n Bahwa dalam aspek r isiko, bagi pengusaha r isiko merupakan bagian \ndari hal yang wajar dalam pengelolaan usahanya, selain keuntungan dan/atau \nkerugian. Oleh karena itu, resiko merupakan hal yang menjadi ruang lingkup \npertimbangannya ketika melakukan usaha, bukan ruang lingkup pertimbangan \npekerja/buruh. Sementara itu, bagi pekerja/buruh upah merupakan sarana untuk \nmemenuhi kebutuhan hidup bagi diri dan keluarganya, sehingga menjadi tidak \ntepat manakala upah pekerja/buruh tersebut menduduki peringkat yang lebih \nrendah dengan argumentasi yang dikaitkan dengan r isiko yang bukan ruang \nlingkup pertimbangannya. Adalah tidak adil mempertanggungkan sesuatu terhadap \nsesuatu yang ia tidak turut serta dalam usaha. Selain itu, hidup dan \nmempertahankan kehidupan, berdasarkan Pasal 28A UUD 1945 adalah hak \nkonstitusional dan berdasarkan Pasal 28I  ayat (1) adalah hak yang tidak dapat \ndikurangi dalam keadaan apapun, yang oleh karenanya berdasarkan ayat (4) dan \nayat (5) pasal tersebut , negara dalam hal ini Pemerintah, harus  melindungi, \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n44",
+      "start_line": 1815,
+      "end_line": 1856
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nmemajukan, menegakkan, dan memenuhinya dalam  peraturan perundang-\nundangan yang sesuai dengan prinsip negara hukum yang demokratis; \n[3.19]  Menimbang bahwa mengenai hak -hak pekerja/buruh yang lain, menurut \nMahkamah, hal tersebut tidak sama atau berbeda dengan upah pekerja/buruh. \nUpah pekerja/ buruh secara konstitusional berdasarkan Pasal 28D ayat (2) UUD \n1945 merupakan hak konstitusional yang oleh karenanya adalah hak konstitusional \npula untuk mendapat perlakuan yang adil dan layak dalam hubungan kerja. \nAdapun hak -hak lainnya tidaklah demikian, sehingga implikasi hukumnya adalah \nwajar bila terkait dengan pembayaran dimaksud hak tersebut berada pada \nperingkat di bawah kredit or se paratis. Sementara itu, mengenai kewajiban \nterhadap negara hal tersebut adalah wajar manakala berada pada peringkat \nsetelah upah pekerja/buruh. Argumentasinya adalah, selain berdasarkan uraian di \natas, karena fakta yang sesungguhnya negara memiliki sumber pembiayaan lain, \nsedangkan bagi pekerja/ buruh upah adalah satu- satunya sumber untuk \nmempertahankan hidup bagi diri dan keluarganya; \n[3.20] Menimbang, berdasarkan seluruh pertimbangan hukum di atas, \npermohonan para Pemohon beralasan menurut hukum untuk sebagian;",
+      "start_line": 1858,
+      "end_line": 1875
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan di \natas, Mahkamah berkesimpulan: \n[4.1]   Mahkamah berwenang untuk mengadili permohonan a quo; \n[4.2] Para Pemohon memiliki kedudukan hukum ( legal standing) untuk \nmengajukan permohonan a quo; \n[4.3] Permohonan para Pemohon beralasan menurut hukum untuk sebagian; \nBerdasarkan Undang-Undang Dasar Negara Re publik Ind onesia \nTahun 19 45, U ndang-Undang Nomor 24 Ta hun 2 003 tentang Mahkamah \nKonstitusi sebagaimana telah diubah dengan Undan g-Undang Nomor 8 Tahun \n2011 tentang Perubahan Atas  Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran Negara R epublik Indonesia Tahun 2011  Nomor \n70, Tambahan Lembaran Negara R epublik Indonesia Nomor 5226), dan Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n45",
+      "start_line": 1877,
+      "end_line": 1897
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5076);",
+      "start_line": 1899,
+      "end_line": 1901
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili, \nMenyatakan:",
+      "start_line": 1903,
+      "end_line": 1904
+    },
+    {
+      "heading": "1. Mengabulkan permohonan para Pemohon untuk sebagian;",
+      "slug": "1-mengabulkan-permohonan-para-pemohon-untuk-sebagian",
+      "text": "1.1 Pasal 95 ayat  (4) Undang- Undang Nomor 13 Tahun 2003 tentang \nKetenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 \nNomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 4279) \nbertentangan dengan U ndang-Undang Dasar Negara Republik Indonesia \nTahun 1945 sepanjang tidak dimaknai : “pembayaran upah pekerja/ buruh \nyang terhutang didahulukan atas semua jenis kreditur termasuk atas tagihan \nkreditur separatis, tagihan hak negara, kantor lelang, dan badan umum yang \ndibentuk Pemerintah , sedangkan pembayaran hak-hak pekerja/buruh \nlainnya didahulukan atas semua tagihan termasuk tagihan hak negara, \nkantor lelang, dan badan umum yang dibentuk Pemerintah, kecuali tagihan \ndari kreditur separatis”;  \n1.2 Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun 2003 tentang \nKetenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 \nNomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 4279) \ntidak mempunyai kekuatan hukum mengikat  sepanjang tidak dimaknai : \n“pembayaran upah pekerja/buruh yang ter hutang didahulukan atas semua \njenis kreditur termasuk atas tagihan kreditur separatis, tagihan hak negara, \nkantor lelang, dan badan umum yang dibentuk Pemerintah, sedangkan \npembayaran hak-hak pekerja/buruh lainnya didahulukan atas semua \ntagihan termasuk tagihan hak negara, kantor lelang, dan badan umum yang \ndibentuk Pemerintah, kecuali tagihan dari kreditur separatis”;",
+      "start_line": 1906,
+      "end_line": 1926
+    },
+    {
+      "heading": "2. Memerintahkan pemuatan putusan ini dalam Berita Negara Republik Indonesia",
+      "slug": "2-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik-indonesia",
+      "text": "sebagaimana mestinya;",
+      "start_line": 1928,
+      "end_line": 1928
+    },
+    {
+      "heading": "3. Menolak permohonan para Pemohon untuk selain dan selebihnya.",
+      "slug": "3-menolak-permohonan-para-pemohon-untuk-selain-dan-selebihnya",
+      "text": "Demikian diputuskan dalam Rapat Permusyawaratan Hakim oleh \ndelapan Hakim Konstitusi yaitu Hamdan Zoelva, selaku Ketua merangkap \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n46",
+      "start_line": 1930,
+      "end_line": 1939
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman :  www.mahkamahkonstitusi.go.id \nAnggota, Arief Hidayat, Patrialis Akbar, Maria Farida Indrati, Ahmad Fadlil Sumadi, \nAnwar Usman, Muhammad Alim, dan Harjono masing- masing sebagai Anggota, \npada hari Rabu,  tanggal tiga puluh,  bulan Januari , tahun dua ribu empat \nbelas, dan diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk \numum pada hari Kamis, tanggal sebelas, bulan September , tahun dua ribu \nempat belas, selesai diucapkan pukul 16.02 WIB, oleh tujuh Hakim Konstitusi, \nyaitu Hamdan Zoelva, selaku Ketua merangkap Anggota, Patrialis Akbar , Maria \nFarida Indrati, Anwar Usman, Muhammad Alim, Aswanto, dan Wahiduddin Adams , \nmasing-masing sebagai Anggota, dengan didampingi oleh Hani Adhani sebagai \nPanitera Pengganti, dihadiri oleh Pemerintah atau yang mewakili, tanpa dihadiri  \npara Pemohon atau kuasanya dan Dewan Perwakilan Rakyat atau yang mewakili. \nKETUA, \nttd.  \nHamdan Zoelva \nANGGOTA-ANGGOTA, \n ttd. \nPatrialis Akbar \n ttd. \nMaria Farida Indrati \n ttd. \nAnwar Usman \nttd.  \nMuhammad Alim \n ttd. \nAswanto \nttd.  \nWahiduddin Adams \nPANITERA PENGGANTI, \nttd.  \nHani Adhani \n \n \n \nSalinan putusan ini tidak untuk dan tidak dapat dipergunakan sebagai rujukan resmi atau alat bukti.  \nUntuk informasi lebih lanjut, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia, Jl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id",
+      "start_line": 1941,
+      "end_line": 1977
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Ir. Otto Geo Diwara Purba",
+        "role": "Pemohon 1",
+        "description": null
+      },
+      {
+        "name": "Ir. Syamsul Bahri Hasibuan S.H.,M.H.",
+        "role": "Pemohon 2",
+        "description": null
+      },
+      {
+        "name": "Eiman",
+        "role": "Pemohon 3",
+        "description": null
+      },
+      {
+        "name": "Robby Prijatmodjo",
+        "role": "Pemohon 4",
+        "description": null
+      },
+      {
+        "name": "Macky Ricky Avianto",
+        "role": "Pemohon 5",
+        "description": null
+      },
+      {
+        "name": "Yuli Santoso",
+        "role": "Pemohon 6",
+        "description": null
+      },
+      {
+        "name": "Joni Nazarudin",
+        "role": "Pemohon 7",
+        "description": null
+      },
+      {
+        "name": "Piere J Wauran",
+        "role": "Pemohon 8",
+        "description": null
+      },
+      {
+        "name": "Maison Des Arnoldi",
+        "role": "Pemohon 9",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Janses E Sihaloho, S.H",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 13/2003 tentang Ketenagakerjaan"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D",
+      "Pasal 28 ayat (2)",
+      "Pasal 28",
+      "Pasal 24C",
+      "Pasal 28D ayat (1)",
+      "Pasal 28D ayat (2)",
+      "Pasal 24C ayat (1)",
+      "Pasal 28A"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-9",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P- 1",
+      "REFERENSI:67/PUU-XI/2013",
+      "REFERENSI:305/PAN.MK/2013dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal27Juni2013denganNomor67/PUU-XI/2013",
+      "REFERENSI:006/PUU-III/2005",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:18/PUU-VI/2008"
+    ]
+  },
+  "proceedings": [
+    "mendengar keterangan ahli",
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Mengadili, Menyatakan:",
+      "Mengabulkan permohonan para Pemohon untuk sebagian; 1.1 Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 4279) bertentangan dengan U ndang-Undang Dasar Negara Republik Indonesia Tahun 1945 sepanjang tidak dimaknai : “pembayaran upah pekerja/ buruh yang terhutang didahulukan atas semua jenis kreditur termasuk atas tagihan kreditur separatis, tagihan hak negara, kantor lelang, dan badan umum yang dibentuk Pemerintah, sedangkan pembayaran hak-hak pekerja/buruh lainnya didahulukan atas semua tagihan termasuk tagihan hak negara, kantor lelang, dan badan umum yang dibentuk Pemerintah, kecuali tagihan dari kreditur separatis”; 1.2 Pasal 95 ayat (4) Undang- Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 4279) tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimaknai : “pembayaran upah pekerja/buruh yang ter hutang didahulukan atas semua jenis kreditur termasuk atas tagihan kreditur separatis, tagihan hak negara, kantor lelang, dan badan umum yang dibentuk Pemerintah, sedangkan pembayaran hak-hak pekerja/buruh lainnya didahulukan atas semua tagihan termasuk tagihan hak negara, kantor lelang, dan badan umum yang dibentuk Pemerintah, kecuali tagihan dari kreditur separatis”;",
+      "Memerintahkan pemuatan putusan ini dalam Berita Negara Republik Indonesia sebagaimana mestinya;",
+      "Menolak permohonan para Pemohon untuk selain dan selebihnya."
+    ],
+    "summary": "Mengabulkan permohonan untuk sebagian."
+  },
+  "adjudicators": {
+    "judges": [
+      "Hamdan Zoelva",
+      "Patrialis Akbar",
+      "Maria Farida Indrati",
+      "Anwar Usman",
+      "Muhammad Alim",
+      "Aswanto",
+      "Wahiduddin Adams"
+    ],
+    "clerks": [
+      "Hani Adhani"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "67/PUU-XI/2013",
+      "305/PAN.MK/2013dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal27Juni2013denganNomor67/PUU-XI/2013",
+      "006/PUU-III/2005",
+      "11/PUU-V/2007",
+      "18/PUU-VI/2008"
+    ],
+    "referenced_cases": [
+      "67/PUU-XI/2013",
+      "305/PAN.MK/2013dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal27Juni2013denganNomor67/PUU-XI/2013",
+      "006/PUU-III/2005",
+      "11/PUU-V/2007",
+      "18/PUU-VI/2008"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}
