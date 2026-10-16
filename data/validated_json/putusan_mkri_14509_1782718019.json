@@ -1,0 +1,379 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14509_1782718019.pdf",
+    "file_name": "putusan_mkri_14509_1782718019.pdf",
+    "page_count": 21,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14509_1782718019.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "184/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-06-29",
+    "decision_date_raw": "dua puluh sembilan, bulan Juni, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 184/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 7 Tahun 2017 tentang Pemilihan Umum terhadap Undan g-Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh: \nNama : Moh. Sabar Musman \nAlamat \n \n: Perumahan Taman Harapan Baru Blok R9 \nNomor 3, Bekasi 17131 \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 6,
+      "end_line": 19
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan yang \nditerima Kepaniteraan Mahkamah Konstitusi pada tanggal 21 Mei 2026 berdasarkan \nAkta Pengajuan Permohonan Pemohon Nomor 182/PUU/PAN.MK/AP3/05/2 026 \ndan telah dicatat dalam Buku Registrasi Perkara Konstitusi Elek tronik (e-BRPK) \ndengan Nomor 184/PUU-XXIV/2026 pada tanggal 21 Mei 2026, yang t elah \ndiperbaiki dengan perbaikan permohonan bertanggal 16 Juni 2026 dan diterima \nMahkamah pada tanggal 17 Juni 2026, pada pokoknya menguraikan hal-hal sebagai \nberikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 21,
+      "end_line": 29
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 24C ayat (1) UUD NRI Tahun 1945 menyatakan:",
+      "slug": "1-bahwa-ketentuan-pasal-24c-ayat-1-uud-nri-tahun-1945-menyatakan",
+      "text": "2 \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, “Konstitusi.”",
+      "start_line": 31,
+      "end_line": 37
+    },
+    {
+      "heading": "2. Bahwa ketentuan Pasal 29 ayat (1) Undang-Undang Nomor 48 Tahun 2009",
+      "slug": "2-bahwa-ketentuan-pasal-29-ayat-1-undang-undang-nomor-48-tahun-2009",
+      "text": "tentang Kekuasaan Kehakiman menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: \na.menguji undang-undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945”",
+      "start_line": 39,
+      "end_line": 43
+    },
+    {
+      "heading": "3. Bahwa selanjutnya, Pasal 10 ayat (1) huruf a Undang-Undang Nomo r 24",
+      "slug": "3-bahwa-selanjutnya-pasal-10-ayat-1-huruf-a-undang-undang-nomo-r-24",
+      "text": "Tahun 2003 tentang Mahkamah Konstitusi sebagaimana diubah terak hir \ndengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketig a \nAtas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstit usi \n(selanjutnya disebut UU MK) menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk:  \na.menguji undang-undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945,”",
+      "start_line": 45,
+      "end_line": 52
+    },
+    {
+      "heading": "4. Bahwa Mahkamah Konstitusi berwenang menguji hal dugaan pertenta ngan",
+      "slug": "4-bahwa-mahkamah-konstitusi-berwenang-menguji-hal-dugaan-pertenta-ngan",
+      "text": "norma undang-undang terhadap Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945 berdasarkan ketentuan Pasal 9 ayat (1) Und ang-\nUndang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-\nundangan sebagaimana diubah terakhir dalam Undang-Undang 13 Tah un \n2022 tentang Perubahan Kedua atas Undang-Undang 12 Tahun 2011 \ntentang Pembentukan Peraturan Perundang-undangan, yang selengka pnya \nmenyatakan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan Undan g \nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi.”",
+      "start_line": 54,
+      "end_line": 63
+    },
+    {
+      "heading": "5. Bahwa Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025",
+      "slug": "5-bahwa-pasal-2-ayat-1-peraturan-mahkamah-konstitusi-nomor-7-tahun-2025",
+      "text": "tentang Tata Beracara Dalam Perkara Pengujian Undang-Undang \n(selanjutnya disebut PMK 7/2025) menyatakan, “Objek Permohonan PUU \nadalah undang-undang dan Perppu”. \n\n \n3",
+      "start_line": 65,
+      "end_line": 70
+    },
+    {
+      "heading": "6. Bahwa Pemohon mengajukan permo honan pengujian materiil atas Pas al 2",
+      "slug": "6-bahwa-pemohon-mengajukan-permo-honan-pengujian-materiil-atas-pas-al-2",
+      "text": "tentang asas Pemilu Jujur, Pasal 12 ayat (c) tentang Tugas KPU , dan Pasal \n13 ayat (b) di dalam UU Pemilu No 7/2017 selanjutnya disebut “UU PEMILU” \n(Bukti P-3) tentang Kewenangan KPU  terkait  3 (tiga) produk Ke putusan \nKPU, selanjutnya disebut “3 KEPUTUSAN KPU” (Bukti P4,P5,P6)  sebagai \npelaksana Pemilu yakni :  \na) Keputusan No 219/2024 tentang petunjuk pelaksanaan rekapitul asi hasil \npenghitungan perolehan suara pemilu,   \nb) Keputusan KPU No 1763/2024 tentang petunjuk teknis aplikasi sistem \ninformasi rekapitulasi elektronik pemilihan gubernur dan wakil gubernur, \nbupati dan wakil bupati, walikota dan wakil walikota tahun 2024, dan  \nc) Keputusan KPU No 638/2003 Pasal 3 ayat 5(a) No. 1 Simulasi h asil \npenghitungan suara dengan Sistem Informasi/Elektronik,   \n yang menyatakan sebagai  berikut: \nPasal 2 : Asas Pemilu \nPemilu dilaksanakan berdasarkan asas Langsung, umum, bebas, rah asia, \njujur, dan adil. \nPasal 12 ayat (c) : Tugas KPU \nMenyusun Peraturan KPU untuk setiap tahapan pemilu; \nPasal 13 ayat (b) : Kewenangan KPU \nMenetapkan Peraturan KPU untuk setiap tahapan pemilu;",
+      "start_line": 72,
+      "end_line": 91
+    },
+    {
+      "heading": "7. Bahwa oleh karena permohonan Pemohon adalah pengujian materiil undang-",
+      "slug": "7-bahwa-oleh-karena-permohonan-pemohon-adalah-pengujian-materiil-undang",
+      "text": "undang, in casu norma Pasal 2 tentang asas Pemilu Jujur, Pasal 12 ayat (c) \ntentang Tugas KPU , dan Pasal 13 ayat (b) di dalam UU Pemilu No  7/2017 \nterhadap UUD NRI Tahun 1945 maka menurut Pemohon, Mahkamah \nKonstitusi berwenang mengadili permohonan a quo. \nII. KEDUDUKAN HUKUM (LEGAL STANDING) PEMOHON",
+      "start_line": 93,
+      "end_line": 97
+    },
+    {
+      "heading": "1. Kualifikasi Bahwa Pasal 51 ayat (1) UU MK menyatakan, “Pemohon adalah",
+      "slug": "1-kualifikasi-bahwa-pasal-51-ayat-1-uu-mk-menyatakan-pemohon-adalah",
+      "text": "pihak yang menganggap hak dan/atau kewenangan konstitusionalnya  \ndirugikan oleh berlakunya Undang-Undang, yaitu: \na) perorangan WNI;  \nb) kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip negara kesatuan \nRepublik Indonesia yang diatur dalam Undang-Undang;  \n\n \n4 \nc) badan hukum publik dan privat; atau; \nd) lembaga negara”. \n Selanjutnya, penjelasan Pasal 51 ayat (1) UU MK menyatakan:  \n “Yang dimaksud dengan ‘hak konstitusional’ adalah hak-hak yang  d i a t u r  \ndalam Undang Undang Dasar Negara Republik Indonesia Tahun 1945”.",
+      "start_line": 99,
+      "end_line": 112
+    },
+    {
+      "heading": "2. Berdasarkan ketentuan Pasal 51 ayat (1) UU MK jo Pasal 4 ayat ( 1) PMK",
+      "slug": "2-berdasarkan-ketentuan-pasal-51-ayat-1-uu-mk-jo-pasal-4-ayat-1-pmk",
+      "text": "7/2025 tersebut, Pemohon harus memiliki kedudukan hukum (legal standing) \ndalam perkara pengujian undang-undang, yaitu dengan terpenuhiny a \nkualifikasi untuk bertindak sebagai pemohon, dan adanya hak dan /atau \nkewenangan konstitusional Pemohon yang dirugikan dengan berlaku nya \nsuatu undang-undang.",
+      "start_line": 114,
+      "end_line": 118
+    },
+    {
+      "heading": "3. Bahwa setelah memenuhi kualifikasi dalam kedudukan hukum sebaga i",
+      "slug": "3-bahwa-setelah-memenuhi-kualifikasi-dalam-kedudukan-hukum-sebaga-i",
+      "text": "Pemohon, perlu pula diuraikan syarat kerugian hak dan/atau kewe nangan \nkonstitusional sebagaimana dimaksud Pasal 51 ayat (1) UU MK untuk dapat \nmengajukan permohonan sebagaimana ditentukan dalam Putusan \nMahkamah Konstitusi Nomor 006/PUU-III/2005 dan Putusan Nomor 11/PUU-\nV/2007, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon \ndianggap dirugikan oleh berlakunya Undang-Undang yang dimohonka n \npengujian;",
+      "start_line": 120,
+      "end_line": 129
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (khusu s) dan",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-khusu-s-dan",
+      "text": "aktual atau setidak-tidaknya potensial yang menurut penalaran y ang \nwajar dapat dipastikan akan terjadi;",
+      "start_line": 131,
+      "end_line": 132
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat antara kerugian dimaksud dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan",
+      "text": "berlakunya Undang-Undang yang dimohonkan pengujian; \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan maka \nkerugian konstitusional yang didalilkan tidak akan atau tidak lagi terjadi.",
+      "start_line": 134,
+      "end_line": 136
+    },
+    {
+      "heading": "4. Oleh sebab itu Pemohon menguraikan kedudukan hukum (legal stand ing)",
+      "slug": "4-oleh-sebab-itu-pemohon-menguraikan-kedudukan-hukum-legal-stand-ing",
+      "text": "Pemohon dalam mengajukan permohonan sebagai berikut: \n4.1. Kualifikasi sebagai Pemohon \nBahwa Pemohon berkualifikasi sebagai perorangan Warga Negara Indonesia \nyang dibuktikan dengan Kartu Tanda Penduduk/KTP (Bukti P-1). Pe mohon \n\n \n5 \nsebagai pemegang kedaulatan rakyat untuk menilai, mengawasi pemilu jujur. \nPemohon adalah penulis 3 buku ISBN Penerbit Nurshakti Palapa. Buku ke-1 \ndengan topik analisa sejarah tentang konstitusi UU terkait ener gi. Buku ke-2 \ndengan topik kekalahan imperalisme setan USA NATO.  Buku ke-3 d engan \ntopik misteri pikiran matematika komputasi dalam sel syaraf otak. (Bukti P-8). \nBerikut website Pemohon : MOHAMADMUSMAN.WORDPRESS.COM \n4.2. Kerugian aktual dan spesifik konstitusional sebagai Pemohon  \nDalam buku ke-3 Pemohon dengan topik misteri pikiran matematika  \nkomputasi dalam sel syaraf otak manusia (Bukti P-8), diceritaka n Indonesia \nmenjadi terkenal dengan lukisan dinding goa tertua 67.800 tahun  yakni Goa \nLiang Metanduno Pulau Muna Sulawesi Tenggara. Inilah kisah tent ang  \nsejarah perjalanan manusia mulai mampu menghitung dalam pikiran nya itu \nsejak sekitar 67.800 tahun lalu, ketika manusia memulai hidup d i goa- \nmembuat lukisan sejumlah binatang-binatang buruannya tetapi bel um \nmampu membuat simbol angka numeral dan alfabet.  \nBarulah 5200 tahun lalu, manusia memulai peradaban simbol tulis an dan \nnumeral, kemudian manusia membuat metoda perhitungan tambah/ \nkurang/kali/bagi yang diajarkan sejak SD, itu adalah proses per hitungan \nterbuka dan jujur proses pembuktiannya. Saat manusia mampu menciptakan \nkomputer, proses perhitungan menjadi tertutup dan tentunya memp unyai \nprobabilitas kejujuran 50%:50% atau kotak hitam seperti kotak permainan judi \ndadu. Dalam pengujian materi ini, mengingat filosofi pemilihan umum adalah \nperhitungan matematika suara(vote) jujur terbuka,  \nPemohon menggunakan referensi Pemilu tahun 1955 dengan metode \ntabulasi tambah kurang manual/alamiah yang dapat diselesaikan 5  b u l a n  \nhasilnya. Pemohon mempertanyakan kenapa metode penghitungan \nmatematika pemilihan umum yang jujur tidak disebutkan dalam pas al-pasal \nUU Pemilu, kenapa penggunaan aplikasi komputer KPU untuk legali tas \npenghitungan suara (vote) bisa terjadi 5 kali sejak 2004, 2009,  2014, 2019, \ndan 2024. Sampai politisi Singapura menyatakan bahwa Pemilu di Indonesia \ndapat diatur 1 hari sebelum coblosan. Ini kerugian konstitusion al aktual \npublik.  \nPemohon mengidentifikasi permasalahan ini adalah ada kaitan bah wa \nIndonesia dijajah 350 tahun lamanya (lama sekali dibandingkan 8 1 tahun \n\n \n6 \nIndonesia merdeka saat ini) dan level IQ bangsa Indonesia di dunia yang tidak \ntinggi (urutan ke 129 dunia sumber Tempo). Pemohon mempertanyak an \napakah saat ini Indonesia sedang dijajah oleh elit bangsanya se ndiri. \nPemohon wajib memberikan kontribusi pembebasan bangsanya sendir i dari \nsegala bentuk penjajahan dan perbudakan bangsa. Di buku ke-1. P emohon \nmemberi contoh bahwa mobil angkutan umum Angkot ber-BBM 1000-15 00",
+      "start_line": 138,
+      "end_line": 187
+    },
+    {
+      "heading": "cc di kota kota 38 provinsi Indonesia ini adalah bukti perbudak an bangsa",
+      "slug": "cc-di-kota-kota-38-provinsi-indonesia-ini-adalah-bukti-perbudak-an-bangsa",
+      "text": "selama 60 tahun sampai sekarang ini. Angkutan darat massal ber- BBM ini \nsecara konstitusi seharusnya disediakan negara tetapi justru se baliknya \ndibebankan ke rakyat penyediaannya. Akhirnya angkutan rakyat ber-BBM ini \nsudah tidak efisien energi, memberi kontribusi membuat bengkak subsidi \nnegara untuk belanja impor BBM Rp 3500 trilyun (tahun 1974-2026).         \nBerikut adalah kerugian spesifik aktual negara. Dalam buku ke-1  Pemohon \ndengan topik analisa sejarah tentang konstitusi UU terkait energi, diceritakan  \nsaat Malaysia merdeka tahun 1957, konstitusi dan UU Malaysia itu disiapkan \noleh Inggris penjajahnya dengan standar British Commonwealth, b erbeda \ndengan Indonesia. Jika diusulkan perubahan UU di Malaysia memer lukan \npersetujuan Raja Dipertuan Agung Malaysia, seterusnya akan \ndikonsultasikan dengan induk  British Commonwealth.  \nKejadian reformasi 1998 Indonesia, menjadi fokus penelitian Pem ohon \nkenapa UU begitu mudah diubah-ubah asas filosofi konstitusinya termasuk \nUU Pemilu. Pemohon mencatat sebagai berikut :  \na) Pemohon menemukan fakta dampak dicabutnya secara serempak Ha k \nKuasa Usaha BUMN terkait pasal 33 UUD pada 3(tiga)  UU \nKetenagalistrikan, UU Migas, UU Kereta Api antara tahun 2000-2010(era \nreformasi).  \nb) Pemohon adalah peneliti yang pertama membuat kajian konstitu si vs UU \nkenapa Pertamina tidak membangun kilang sejak 1998, kenapa PLN \nterus disubsidi oleh negara, kenapa kereta api hanya kenikmatan  pulau \nJawa antara tahun 2000- sekarang.     \nDalam Buku ke-2 dengan topik kekalahan imperialisme setan USA N ATO,  \nPemohon juga telah meneliti bahwa Indonesia adalah salah satu k orban \nperang global (1965-sekarang) antara demokrasi setan yang dipim pin oleh \nUSA melawan sosialisme global China dan Russia. Perubahan konstitusi dan \n\n \n7 \nUU terkait politik dan energi antara 1998-sekarang inilah yang menjadi obyek \npenelitian Pemohon, dan mengidentifikasi bahwa imperialisme USA  adalah \naktor dalang utama yang melakuan infiltrasi langsung tidak lang sung \nterhadap konstitusi UU Indonesia terkait dengan krisis ekonomi utang luar \nnegeri tahun 1998. . Kemudian akhirnya kita tahu di tahun 2026 ini perang \nglobal telah dimenangkan oleh China saat ini. Apakah Konstitusi  Indonesia \ntelah siap atas perubahan global yang cepat ini atau Indonesia selamanya \nmenjadi korban kembali?  \nDalam buku ke-1. Pemohon sebagai peneliti Konstitusi, melihat p erjalanan \nkemerdekaan Indonesia 81 masih dalam mencari format pembebasan dari \npenjajahan dan perbudakan oleh elit bangsanya sendiri akibat 35 0 tahun \ndijajah Belanda. Bahwa Indonesia merdeka 1945 atas kebaikan Jep ang \n(1942-1945) dengan memberikan kesempatan merdeka dan dengan \nmemberikan senjata untuk melawan Belanda kembali (1945-1950 per ang \nkemerdekaan RI). Ketika “Founding Fathers” Panitia Sembilan sep akat \ndengan Pancasila piagam Jakarta 22 Juni 1945, justru kemudian \nkesepakatan itu diubah dimana dihapuskannya  frase “kewajiban \nmenjalankan syariah Islam bagi pemeluk-pemeluknya”  pada sila k e 1 \nKetuhanan, menjelang proklamasi kemerdekaan RI tanggal 17 Agustus 1945. \nMenurut penelitian Pemohon, sebagai mayoritas umat Islam terbes ar (di \ndunia juga) hukum syariah Islam harus digunakan sebagai hukum \nkonstitusi/positif untuk menyatukan umat Islam dan menyatukan b angsa \ndalam harmoni. Pemohon mencatat bahwa Inggris memberlakukan huk um \nsyariah di Malaysia agar umat Islam dapat bersatu harmoni dalam  kerangka \nbangsa multi etnis  yang terdiri dari etnis Tionghoa, India, da n etnis lainnya \ndalam hukum Persemakmuran Inggris. Bahwa dalam perang global \nimperialisme USA, persatuan Islam itu diperlukan agar Islam tid ak dipakai \nsebagai kendaraan politik pecah belah. Kita lihat issue Sunni-S yiah begitu \ndahsyat dihembuskan oleh imperialisme USA untuk merusak tatanan  dunia. \nPuncaknya adalah tahun 1998, ketika konstitusi UU terkait polit ik dan energi",
+      "start_line": 189,
+      "end_line": 248
+    },
+    {
+      "heading": "di Indonesia diubah-ubah seperti diceritakan diatas sebelumnya. Bahwa 81",
+      "slug": "di-indonesia-diubah-ubah-seperti-diceritakan-diatas-sebelumnya-bahwa-81",
+      "text": "tahun Indonesia merdeka masih tanda tanya besar. Bahwa 350 tahun dijajah \nBelanda adalah fakta realitas pembentukan peradaban Indonesia yang mulai \nbersatu. Jika referensi ukuran  peradaban 100 tahun, maka China  dam Iran \n\n \n8 \nadalah contoh peradaban yang maju sains teknologinya dalam waktu sekitar \n50 tahun sampai tahun 2026 ini. Itu semuanya didukung Konstitus i UU yang \nkuat dan konsisten membangun peradaban di hadapan Allah SWT. Pemohon \nberusaha memberikan kontribusi untuk Indonesia yang tetap akan bersatu di \ntahun 2045 kelak lewat website berikut: MOHAMADMUSMAN. \nWORDPRESS.COM \n4.3.Hubungan sebab akibat kerugian konstitusional Pemohon \nBahwa Pemohon mempunyai hak konstitusional yang diberikan oleh UUD \n1945 sebagai pemegang kedaulatan rakyat untuk menilai, mengawas i \nberlakunya Pasal 22E ayat(1) yang berbunyi Pemilihan umum dilak sanakan \nsecara langsung, umum, bebas, rahasia, jujur, dan adil setiap l ima tahun \nsekali  (Bukti P-5), khususnya asas Pemilu jujur. Pemohon sebag ai peneliti \nKonstitusi melihat bahwa Pemilu adalah penghitungan suara yang harus \ndihitung secara terbuka dengan proses matematika terbuka sedangkan KPU \nsebagai pelaksana UU Pemilu menggunakan proses matematika tertu tup \nyakni menggunakan aplikasi web komputer Sirekap sejenisnya yang  proses \nmatematikanya tertutup dan menjadi perdebatan publik  bagaimana  \nmengukur tingkat kejujurannya secara terbuka. Bahwa hak-hak konstitusional \nyang diberikan oleh UUD 1945 ters ebut, menurut anggapan Pemohon telah \ndirugikan oleh berlakunya Pasal 2 tentang asas Pemilu Jujur, Pa sal 12 ayat \n(c) tentang Tugas KPU , dan Pasal 13 ayat (b) di dalam UU Pemilu No 7/2017 \ntentang Kewenangan KPU  terkait  “3 KEPUTUSAN KPU” dengan hubungan \nsebab akibat sebagai berikut: \nUUD 45 \nmeminta Pemilu \nJujur \nPasal 2 \nUU Pemilu meminta  \n1) Pemilu \nberasaskan \nkejujuran  \n2) Keputusan2 \nKPU yang \nditerbitkan \nberasaskan \nkejujuran  \nPenyebabnya \nKPU Pelaksana Pemilu \nmembuat “3 KEPUTUSAN \nKPU” tentang Penggunaan \nAplikasi Elektronik Sirekap \nSejenisnya Sebagai \nLandasan Hukum Untuk  \npenghitungan Suara \nAkibatnya \nHasil Pemilu \nMempunyai \nProbabilitas Jujur \n50%:50% \nMelanggar UUD \n45 \n Melanggar UU Pemilu  \n1 2 3 4 \n\n \n9 \nKPU sebagai pelaksana UU Pemilu membuat “3 KEPUTUSAN KPU” dimana  \nmemberi keputusan bagi digunakannya aplikasi elektronik/kompute r web \nSirekap sejenisnya  untuk penghitungan suara. Artinya penghitun gan suara \nyang menggunakan aplikasi web Sirekap ini menjadi proses matema tika \ntertutup yang mempunyai probabilitas jujur 50%:50% dan asas juj ur yang \ndiharuskan oleh Konstitusi menjadi tidak jujur atau kejujurannya meragukan.    \nPemohon sebagai peneliti Konstitusi melihat bahwa KPU sebagai pelaksana \nUU Pemilu telah membuat keputusan-keputusan  yang melanggar UUD 1945. \nSeharusnya KPU tidak menggunakan aplikasi web Sirekap sebagai landasan \nhukum untuk penghitungan suara.",
+      "start_line": 250,
+      "end_line": 321
+    },
+    {
+      "heading": "5. Kejadian faktual tersebut menjadikan Pemohon memiliki kerugian",
+      "slug": "5-kejadian-faktual-tersebut-menjadikan-pemohon-memiliki-kerugian",
+      "text": "konstitusional berpotensi terlanggar dengan pasal a quo. Sehingga dengan \nkerugian Pemohon yang telah dijabarkan di atas, maka tampak jelas potensi \nkerugian Pemohon yang akan muncul sebab keberlakuan pasal a quo.",
+      "start_line": 323,
+      "end_line": 325
+    },
+    {
+      "heading": "6. Bahwa kerugian hak konstitusional Pemohon di atas bersifat spes ifik dan",
+      "slug": "6-bahwa-kerugian-hak-konstitusional-pemohon-di-atas-bersifat-spes-ifik-dan",
+      "text": "aktual, atau setidak-tidaknya potensial yang berdasarkan penala ran yang \nwajar dipastikan akan terjadi, serta mempunyai hubungan kausal dengan \nberlakunya Pasal 2 tentang asas Pemilu Jujur, Pasal 12 ayat (c)  tentang \nTugas KPU , dan Pasal 13 ayat (b) di dalam UU Pemilu No 7/2017 dan \ndiyakini bahwa apabila permohonan dikabulkan, kerugian hak kons titusional \nPemohon tidak akan atau tidak lagi terjadi;",
+      "start_line": 327,
+      "end_line": 332
+    },
+    {
+      "heading": "7. Bahwa dengan demikian Pemohon telah memenuhi kualitas dan kapas itas",
+      "slug": "7-bahwa-dengan-demikian-pemohon-telah-memenuhi-kualitas-dan-kapas-itas",
+      "text": "sebagai Pemohon Pengujian Undang-Undang terhadap Undang-Undang \nDasar 1945. Sehingga, jelas pula Pemohon memiliki hak dan kepen tingan \nhukum mewakili kepentingan publik untuk mengajukan permohonan \npengujian UU Pemilu terhadap UUD 1945. \nIII. POKOK PERMOHONAN \n1) Bahwa pokok permohonan adalah ketentuan UU PEMILU No 7/2017  yang \nmenyatakan sebagai  berikut: \na) Pasal 2 : Asas Pemilu \nPemilu dilaksanakan berdasarkan asas Langsung, umum, bebas, \nrahasia, jujur, dan adil. \nb) Pasal 12 ayat (c) : Tugas KPU \nMenyusun Peraturan KPU untuk setiap tahapan pemilu; \n\n \n10 \nc) Pasal 13 ayat (b) : Kewenangan KPU \nMenetapkan Peraturan KPU untuk setiap tahapan pemilu; \n2) Bahwa Pemohon mendalilkan Pasal a quo bertentangan dengan Pasal … \nUUD NRI Tahun 1945, dengan hubungan sebab akibat utama sbb: \nPasal 2 UU PEMILU : Asas Pemilu \nPemilu dilaksanakan berdasarkan asas Langsung, umum, bebas, rah asia, \njujur, dan adil.  \nUUD 45 meminta \nPemilu Jujur \n \nPasal 2 : Asas Pemilu \nPemilu dilaksanakan \nberdasarkan asas \nlangsung, umum, \nbebas, rahasia, jujur, \ndan adil \n \n \n \nPenyebabnya: \nKPU Pelaksana UU \nPemilu membuat “3 \nKEPUTUSAN KPU” \ntentang Penggunaan \nAplikasi Elektronik \nSirekap Sejenisnya \nSebagai Landasan \nHukum Untuk \nPenghitungan Suara \nAkibatnya \nHasil Pemilu \nMempunyai \nProbabilitas Jujur \n50%:50% \nMelanggar UUD \n45 \n Melanggar UU \nPemilu\n \n1 2 3 4 \nPasal 12 ayat (c)  UU PEMILU : Tugas KPU \nMenyusun Peraturan KPU untuk setiap tahapan pemilu; \nUUD 45 meminta \nPemilu Jujur \nPasal 12 ayat (c) : UU \nPEMILU :     Tugas \nKPU \nMenyusun Peraturan \nKPU untuk setiap \ntahapan pemilu; \n \nPenyebabnya: \nKPU Pelaksana UU \nPemilu membuat “3 \nKEPUTUSAN KPU” \ntentang Penggunaan \nAplikasi Elektronik \nSirekap Sejenisnya \nSebagai Landasan \nHukum Untuk \nPen\nghitungan Suara \nAkibatnya \nHasil Pemilu \nMempunyai \nProbabilitas Jujur \n50%:50% \nMelanggar UUD \n45 \n Melanggar UU \nPemilu\n \n1 2 3 4 \nPasal 13 ayat (b) UU PEMILU : Kewenangan KPU \nMenetapkan Peraturan KPU untuk setiap tahapan pemilu; \n\n \n11 \nUUD 45 meminta \nPemilu Jujur \nPasal 13 ayat (b) UU \nPEMILU : Kewenangan \nKPU \nMenetapkan Peraturan \nKPU untuk setiap \ntahapan pemilu; \n \nPenyebabnya: \nKPU Pelaksana UU \nPemilu membuat “3 \nKEPUTUSAN KPU” \ntentang Penggunaan \nAplikasi Elektronik \nSirekap Sejenisnya \nSebagai Landasan \nHukum Untuk \nPen\nghitungan Suara \nAkibatnya \nHasil Pemilu \nMempunyai \nProbabilitas Jujur \n50%:50% \nMelanggar UUD \n45 \n Melanggar UU \nPemilu\n \n1 2 3 4 \n3) Lihat tabel utama sebab akibat diatas, bahwa menurut Pemohon  ketentuan \nPasal a quo  yang mengatur Pemilihan Umum itu  bertentangan dengan \nPasal 22E ayat (1) asas Pemilu UUD NRI Tahun 1945, dengan alasa n-\nalasan sebagai berikut: \na) Bahwa Pemohon mengajukan permohonan pengujian materiil atas \nPasal 2 tentang asas Pemilu Jujur , Pasal 12 ayat (c) tentang Tu gas \nKPU, dan Pasal 13 ayat (b) di dalam UU Pemilu No 7/2017 tentang  \nKewenangan KPU  terkait  3 (tiga) produk Keputusan KPU (selanjutnya \ndisebut “3 KEPUTUSAN KPU”) sebagai pelaksana Pemilu yakni :  \n1) Keputusan No 219/2024 tentang petunjuk pelaksanaan rekapitul asi \nhasil penghitungan perolehan suara pemilu,   \n2) Keputusan KPU No 1763/2024 tentang petunjuk teknis aplikasi \nsistem informasi rekapitulasi elektronik pemilihan gubernur dan  \nwakil gubernur, bupati dan wakil bupati, walikota dan wakil walikota \ntahun 2024, dan  \n3) Keputusan KPU No 638/2003 Pasal 3 ayat 5(a) No. 1 Simulasi hasil \npenghitungan suara dengan Sistem Informasi/Elektronik \nb) Bahwa metoda perhitungan tambah/ kurang/kali/bagi yang diaja rkan \nsejak SD dengan menggunakan papan tulis, lidi, sempoa dll, itu adalah \nproses perhitungan terbuka dan jujur proses pembuktiannya. Pros es \nkomputer adalah proses perhitungan tertutup dan tentunya mempunyai \nprobabilitas kejujuran 50%:50% a tau kotak hitam seperti kotak \npermainan judi dadu. \n\n \n12 \n \nc) Bahwa KPU sebagai pelaksana UU Pemilu melakukan proses \nperhitungan suara (vote) secara terbuka dan jujur hanya di TPS,  \nsedangkan proses selanjutnya di tingkat desa, kecamatan, kabupa ten, \nkota, provinsi, pusat menggunakan aplikasi web Sirekap sejenisn ya \n(gambar dibawah).  Proses komputer adalah proses perhitungan \ntertutup dan tentunya mempunyai probabilitas kejujuran 50%:50% atau \nkotak hitam seperti kotak permainan judi dadu. \n \nSeharusnya proses perhitungan suara (vote) dari TPS, Desa, \nKecamatan, Kabupaten, Kota, Provinsi dan Pusat adalah pada gambar \nberikut: \n \n\n\n \n13 \nd) Bahwa Pemohon sebagai peneliti Konstitusi melihat bahwa Pemi lu \nadalah penghitungan suara yang harus dihitung secara terbuka dengan \nproses matematika terbuka sedangkan KPU sejak tahun 2003 sebaga i \npelaksana UU Pemilu mengeluarkan  “3 KEPUTUSAN KPU” diatas yang \nmenggunakan proses matematika tertutup yakni menggunakan aplikasi \nweb komputer Sirekap sejenisnya yang proses matematikanya tertutup \ndengan probabilitas jujur 50%:50% dan menjadi perdebatan publik   \nbagaimana mengukur tingkat kejujurannya secara terbuka. \ne) Pemohon mempertanyakan kenapa metode penghitungan matematika  \npemilihan umum yang jujur tidak disebutkan dalam pasal-pasal UU  \nPemilu, kenapa penggunaan aplikasi komputer KPU untuk legalitas  \npenghitungan suara (vote) bisa terjadi 5 kali sejak 2004, 2009,  2014, \n2019, dan 2024. Sampai issue politisi Singapura menyatakan bahw a \nPemilu di Indonesia dapat diatur 1 hari sebelum coblosan. Ini k erugian \nkonstitusional aktual publik. \nf) Pemohon menggunakan referensi Pemilu tahun 1955 yang \nmenggunakan  metode tabulasi tambah kurang manual/alamiah yang \ndapat diselesaikan 5 bulan produk hasil pemilihan umum. \n \ng) Bahwa penggunaan aplikasi elektronik Web Sirekap sejenisnya yang \ndigunakan KPU sebagai pelaksana UU Pemilu sejak tahun 2003, itu  \ntidak bisa dijadikan landasan hukum untuk perhitungan suara (vo te) \nPemilu.       \n4) Bahwa berdasarkan seluruh uraian alasan-alasan hukum di atas , menurut \nPemohon, Pasal 2 tentang asas Pemilu Jujur, Pasal 12 ayat (c) t entang \nTugas KPU , dan Pasal 13 ayat (b) di dalam UU Pemilu No 7/2017 tentang \n\n\n \n14 \nKewenangan KPU  bertentangan dengan Pasal 22E ayat (1) UUD NRI \nTahun 1945 dan tidak memiliki kekuatan hukum mengikat. \n5) atau bertentangan dengan Pasal  22E ayat (1)  UUD NRI Tahun 1945 dan \ntidak memiliki kekuatan hukum mengikat secara bersyarat sepanja ng tidak \ndimaknai  bahwa pasal-pasal a quo dapat digunakan KPU (sebagai \npelaksana UU Pemilu)  untuk mel aksanakan “3 KEPUTUSAN KPU” a qu o \ndan sejenisnya sebagai kekuatan hukum UU Pemilu di masa depan y ang \nmengikat untuk penghitungan suara dengan memakai aplikasi elekt ronik \nSirekap Web sejenisnya. \nIV.   PETITUM \nBerdasarkan seluruh uraian sebagaimana tersebut di atas, Pemoho n \nmemohon kepada Mahkamah Konstitusi untuk memutus hal-hal sebaga i \nberikut: \n1) Mengabulkan permohonan Pemohon untuk seluruhnya; \n2) Menyatakan Pasal 2 tentang asas Pemilu Jujur, Pasal 12 ayat (c) tentang  \nTugas KPU , dan Pasal 13 ayat (b) di dalam UU Pemilu No 7/2017 tentang \nKewenangan KPU bertentangan dengan Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945 dan tidak mempunyai kekuatan huku m \nmengikat secara bersyarat sepanjang tidak dimaknai bahwa pasal-pasal a \nquo dapat digunakan KPU (sebagai pelaksana UU Pemilu)  untuk \nmelaksanakan “3 KEPUTUSAN KPU” a quo dan sejenisnya   sebagai \nkekuatan hukum UU Pemilu di masa depan yang mengikat untuk \npenghitungan suara dengan memakai aplikasi elektronik Sirekap W eb \nsejenisnya.  \n3) Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik \nIndonesia sebagaimana mestinya. \nAtau apabila Mahkamah Konstitusi berpendapat lain, mohon putusa n yang \nseadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, Pemohon tela h \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-8, sebagai \nberikut:",
+      "start_line": 334,
+      "end_line": 561
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi identitas Pemohon;",
+      "slug": "1-bukti-p-1-fotokopi-identitas-pemohon",
+      "text": "15",
+      "start_line": 563,
+      "end_line": 565
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 567,
+      "end_line": 567
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Nomor 7 Tahun 2017 tentan g",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-nomor-7-tahun-2017-tentan-g",
+      "text": "Pemilihan Umum;",
+      "start_line": 569,
+      "end_line": 569
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Keputusan Komisi Pemilihan Umum Nomor 2 19 Tahun",
+      "slug": "4-bukti-p-4-fotokopi-keputusan-komisi-pemilihan-umum-nomor-2-19-tahun",
+      "text": "2024 tentang Petunjuk Pelaksanaan Rekapitulasi Hasil \nPenghitungan Perolehan Suara Dalam Pemilihan Umum;",
+      "start_line": 571,
+      "end_line": 572
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Keputusan Komisi Pemilihan Umum Nomor 1 763 Tahun",
+      "slug": "5-bukti-p-5-fotokopi-keputusan-komisi-pemilihan-umum-nomor-1-763-tahun",
+      "text": "2024 tentang Petunjuk Teknis Penggunaan Aplikasi Sistem \nInformasi Rekapitulasi Elektronik Kepala Daerah Dalam \nPenyelenggaraan Pemilihan Gubernur dan Wakil Gubernur, \nBupati dan Wakil Bupati, Serta Walikota dan Wakil Walikota \nTahun 2024;",
+      "start_line": 574,
+      "end_line": 578
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Keputusan Komisi Pemilihan Umum Nomor 6 38 Tahun",
+      "slug": "6-bukti-p-6-fotokopi-keputusan-komisi-pemilihan-umum-nomor-6-38-tahun",
+      "text": "2003 tentang Tahapan, Program dan Jadwal Waktu \nPenyelenggaraan Pemilihan Umum Presiden dan Wakil Presiden \nTahun 2004;",
+      "start_line": 580,
+      "end_line": 582
+    },
+    {
+      "heading": "7. Bukti P-7 : Cetakan Power Point dari 2 (dua) buku karya Pemo hon terkait",
+      "slug": "7-bukti-p-7-cetakan-power-point-dari-2-dua-buku-karya-pemo-hon-terkait",
+      "text": "hak-hak konstitusional Pemohon dalam uji materi UU 17/2017;",
+      "start_line": 584,
+      "end_line": 584
+    },
+    {
+      "heading": "8. Bukti P-8 : 3 (tiga) buku ceta k karya Pemohon terkait hak-hak konstitusional",
+      "slug": "8-bukti-p-8-3-tiga-buku-ceta-k-karya-pemohon-terkait-hak-hak-konstitusional",
+      "text": "Pemohon dalam uji materi UU 7/2017. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 586,
+      "end_line": 589
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Atas Undang-Undang Nomor 2 4 Tahun \n\n \n16 \n2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indo nesia Tahun \n2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nom or 6554, \nselanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor \n48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Repu blik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076, selanjutnya disebut UU 48/2009), salah sa tu kewenangan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji undang-undang terhadap UUD NRI Tahun \n1945.  \n[3.2]  Menimbang bahwa oleh karena permohonan a quo adalah pengujian \nkonstitusionalitas undang-undang, in casu Undang-Undang Nomor 7 Tahun 2017 \ntentang Pemilihan Umum (Lembaran Negara Republik Indonesia Tahu n 2017 \nNomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor 61 09, \nselanjutnya disebut UU 7/2017) terhadap UUD NRI Tahun 1945 maka  Mahkamah \nberwenang mengadili permohonan a quo. \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo , namun sebelum mempertimbangkan lebih lanjut kedudukan \nhukum dan pokok permohonan, Mahkamah mempertimbangkan hal-hal s ebagai \nberikut. \n[3.3.1]    Bahwa sesuai dengan ketentuan hukum acara pengujian undang-\nundang, Mahkamah telah memeriksa permohonan Pemohon dalam sidan g \nPemeriksaan Pendahuluan dengan agenda mendengarkan pokok-pokok \npermohonan pada hari Selasa, tanggal 9 Juni 2026. Berdasarkan k etentuan Pasal \n39 UU MK dan Pasal 36 ayat (3) Peraturan Mahkamah Konstitusi No mor 7 Tahun \n2025 tentang Tata Beracara Dalam Perkara Pengujian Undang-Undan g (PMK \n7/2025) Mahkamah telah memberi nasihat kepada Pemohon untuk mem perbaiki \nsekaligus memperjelas kewenangan Mahkamah, kedudukan hukum, alasan-alasan \npermohonan (posita), dan hal-hal yang dimohonkan untuk diputus (petitum) \nsehingga sesuai dengan substansi dan sistematika permohonan yang diatur dalam \nPMK 7/2025 [vide Risalah Sidang, tanggal 9 Juni 2026, hlm. 13-23]. Sesuai dengan \nhukum acara pengujian undang-undang, Mahkamah telah memberikan kesempatan \nkepada Pemohon untuk memperbaiki permohonan paling lama 14 (emp at belas \n\n \n17 \nhari) sejak sidang pemeriksaan pendahuluan. Berkaitan dengan ha l tersebut, para \nPemohon telah menyampaikan perbaikan permohonan pada tanggal 17  Juni 2026 \ndan telah diperiksa dalam sidang perbaikan permohonan dan pengesahan alat bukti \npada tanggal 22 Juni 2026. \n[3.3.2]  Bahwa berkenaan dengan permohonan di Mahkamah Konstitusi, \ndipersyaratkan harus memenuhi syarat formil di antaranya adalah  keterpenuhan \nsistematika atau format dan substansi dari sistematika permohon an. Dalam hal ini, \nPasal 10 ayat (3) PMK 7/2025 menyatakan:  \nPermohonan sebagaimana dimaksud pada ayat (1) sekurang-kurangny a \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antara lain: \na. kewenangan Mahkamah; \nb. kedudukan hukum Pemohon;",
+      "start_line": 591,
+      "end_line": 646
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "[3.3.3]  Bahwa setelah Mahkamah memeriksa dengan saksama perihal perba ikan \npermohonan, khususnya sistematika permohonan, pada dasarnya tel ah disusun \nsesuai dengan format permohonan sebagaimana diatur dalam Pasal 31 ayat (1) UU \nMK dan Pasal 10 ayat (3) PMK 7/2025, yaitu secara formil telah menguraikan perihal \nkewenangan Mahkamah, kedudukan hukum Pemohon (legal standing), dan alasan-\nalasan permohonan (posita). Selain itu, sebagai bagian dari sistematika yang harus \ndipenuhi sebagaimana diatur dalam PMK 7/2025, permohonan Pemoho n telah \nmemuat hal-hal yang dimohonkan untuk diputus (petitum). Walakin , walaupun \npermohonan a quo secara formil telah disusun dan memuat sistematika \npermohonan berdasarkan PMK 7/2025, penilaian perihal keterpenuhan syarat formil \nsuatu permohonan tidak hanya sampai pada sistematika an sich.  D a l a m  h a l  i n i ,  \nMahkamah pun akan menilai keterpenuhan isi atau substansi dari masing-masing \nsistematika dimaksud. \n[3.3.4]   Bahwa setelah Mahkamah membaca secara komprehensif permohona n a \nquo, khususnya pada bagian “perihal permohonan”, Pemohon mencantumkan Pasal \n2, Pasal 12 ayat (c) (sic!) dan Pasal 13 ayat (b) (sic!) UU 7/2017 terkait dengan tiga \nKeputusan Komisi Pemilihan Umum (KPU), yaitu Keputusan KPU Nomor 219 Tahun \n2024 tentang Petunjuk Pelaksanaan Rekapitulasi Hasil Penghitung an Perolehan \nSuara Pemilu, Keputusan KPU Nomor 1763 Tahun 2024 tentang Petun juk Teknis \nAplikasi Sistem Informasi Rekapitulasi Elektronik Pemilihan Gub ernur dan Wakil \nGubernur, Bupati dan Wakil Bupati, Walikota dan Wakil Walikota Tahun 2024, serta \n\n \n18 \nPasal 3 ayat 5(a) Keputusan KPU Nomor 638 Tahun 2003 tentang Ta hapan, \nProgram, dan Jadwal Waktu Penyelenggaraan Pemilihan Umum Presid en dan \nWakil Presiden Tahun 2004. Pencantuman perihal demikian menjadi kan norma \nyang dimohonkan pengujian menjadi tidak jelas, yaitu apakah Pem ohon akan \nmenguji norma dalam UU 7/2017 atau norma dalam Keputusan KPU. S eharusnya \npada bagian perihal, Pemohon cukup menuliskan norma dari undang-undang yang \ndimohonkan pengujian tanpa keterangan tambahan lain-lain agar d apat dipahami \nnorma yang dimohonkan pengujian konstitusionalitasnya. Pencantu man demikian \nkembali diulangi pada bagian kewenangan Mahkamah.  \n  Bahwa lebih lanjut berkenaan dengan uraian alasan-alasan perm ohonan \n(posita), Pemohon tidak menguraikan argumentasi hukum yang jelas dan memadai \nperihal pertentangan antara norma yang dimohonkan pengujian dengan pasal yang \ndijadikan dasar pengujian dalam UUD NRI Tahun 1945, yaitu Pasal  28E ayat (1) \nUUD NRI Tahun 1945. Dalam hal ini, Pemohon hanya mencantumkan norma a quo, \ndasar pengujian tanpa diikuti dengan penjelasan yang jelas dan memadai perihal \npertentangan antara norma yang dimohonkan pengujian dengan dasa r pengujian \ndalam UUD NRI Tahun 1945. Ketiadaan uraian tersebut menyebabkan  Mahkamah \ntidak dapat menilai pertentangan antara norma yang dimohonkan pengujian dengan \nUUD NRI Tahun 1945. Berkenaan dengan ini, Mahkamah perlu menegaskan, uraian \npertentangan antara norma yang dimohonkan pengujian dengan dasa r pengujian \ndalam UUD NRI Tahun 1945 merupakan hal esensial dalam menilai a da-tidaknya \npertentangan norma yang dimohonkan pengujian dengan dasar pengu jian dalam \nUUD NRI Tahun 1945. Terlebih, Mahkamah sulit memahami apakah Pemohon ingin \nmenguji konstitusionalitas norma undang-undang atau hendak meni lai keabsahan \nbeberapa produk hukum KPU yang disebutkan dalam permohonan a quo, termasuk \nyang dicantumkan pada bagian “perihal permohonan”.    \n  Bahwa lebih lanjut, berkenaan dengan petitum permohonan Pemoh on pada \npokoknya memohon sebagai berikut:",
+      "start_line": 649,
+      "end_line": 700
+    },
+    {
+      "heading": "2. Menyatakan Pasal 2 tentang asas Pemilu Jujur, Pasal 12 ayat (c) tentang",
+      "slug": "2-menyatakan-pasal-2-tentang-asas-pemilu-jujur-pasal-12-ayat-c-tentang",
+      "text": "Tugas KPU , dan Pasal 13 ayat (b) di dalam UU Pemilu No 7/2017 tentang \nKewenangan KPU bertentangan den gan Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945 dan tidak mempunyai kekuatan huku m \nmengikat secara bersyarat sepanjang tidak dimaknai bahwa pasal- pasal a \nquo dapat digunakan KPU (sebagai pelaksana UU Pemilu) untuk \nmelaksanakan “3 KEPUTUSAN KPU” a quo  dan sejenisnya sebagai \n\n \n19 \nkekuatan hukum UU Pemilu di masa depan yang mengikat untuk \npenghitungan suara dengan memakai aplikasi elektronik Sirekap W eb \nsejenisnya.",
+      "start_line": 703,
+      "end_line": 714
+    },
+    {
+      "heading": "3. ...",
+      "slug": "3",
+      "text": "Setelah Mahkamah mencermati petitum permohonan Pemohon terseb ut, \nPetitum Angka 2 yang memohon pemaknaan atas norma yang dijadika n sebagai \ndasar yang dipakai KPU dalam menerbitkan 3 (tiga) Keputusan KPU  sebagaimana \ntermaktub pada bagian “perihal permohonan” adalah perumusan petitum yang tidak \nlazim dalam pengujian undang-undang.  \nBahwa berdasarkan uraian fakta hukum sebagaimana di atas, oleh karena \nnorma undang-undang yang dimohonkan pengujian tidak jelas, perm ohonan tidak \nmenguraikan alasan-alasan secara jelas dan memadai perihal pertentangan antara \nyang dimohonkan pengujian dengan dasar pengujian dalam UUD NRI Tahun 1945, \ndan model rumusan petitum yang tidak lazim, maka tidak terdapat  keraguan bagi \nMahkamah untuk menyatakan permohonan Pemohon adalah tidak jelas atau kabur \n(obscuur).  \n[3.4]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, meskipun ber wenang mengadili permohonan Pemoh on, namun \noleh karena permohonan tidak jelas atau kabur ( obscuur) maka Mahkamah tidak \nlebih lanjut permohonan Pemohon. \n[3.5]   Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 716,
+      "end_line": 733
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an",
+      "start_line": 735,
+      "end_line": 735
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1]  Mahkamah berwenang mengadili permohonan a quo; \n[4.2]  Permohonan Pemohon tidak jelas atau kabur (obscuur); \n[4.3]  Permohonan Pemohon tidak dipertimbangkan lebih lanjut.   \n  Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tah un \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \n\n \n20 \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 737,
+      "end_line": 751
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nAdies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Y usmic P. Foekh,    \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani,  masing-masin g sebagai \nAnggota pada hari Senin, tanggal dua puluh dua, bulan Juni, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Senin, tanggal dua puluh sembilan, bulan Juni, tahun dua \nribu dua puluh enam,  selesai diucapkan pukul 14.08 WIB  oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Sald i Isra, Adies \nKadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Yusmic P. Foekh, M. \nGuntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing se bagai \nAnggota, dengan dibantu oleh Dian Chusnul Chatimah sebagai Panitera Pengganti, \nserta dihadiri oleh Pemohon, Dewan Perwakilan Rakyat atau yang mewakili, dan \nPresiden atau yang mewakili.  \nKETUA, \nttd. \nSuhartoyo \n \n \n\n \n21 \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nAdies Kadir  \nttd. \nLiliek Prisbawono Adi  \nttd. \nEnny Nurbaningsih \nttd. \nDaniel Yusmic P. Foekh \nttd. \nM. Guntur Hamzah \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nDian Chusnul Chatimah",
+      "start_line": 753,
+      "end_line": 797
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Moh. Sabar Musman",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 7/2017 tentang Pemilihan Umum"
+    ],
+    "constitutional_articles": [
+      "Pasal 9 ayat (1)",
+      "pasal 33",
+      "Pasal 22E ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 28E ayat (1)",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 36 ayat (3)",
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-3",
+      "BUKTI P4",
+      "BUKTI P-1",
+      "BUKTI P-8",
+      "BUKTI P-5",
+      "BUKTI P-2",
+      "BUKTI P-4",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "REFERENSI:184/PUU-XXIV/2026",
+      "REFERENSI:006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Dian Chusnul Chatimah"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "184/PUU-XXIV/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "184/PUU-XXIV/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

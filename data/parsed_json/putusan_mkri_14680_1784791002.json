@@ -1,0 +1,1111 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14680_1784791002.pdf",
+    "file_name": "putusan_mkri_14680_1784791002.pdf",
+    "page_count": 38,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14680_1784791002.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "217/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-07-23",
+    "decision_date_raw": "dua puluh tiga, bulan Juli, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 217/PUU-XXIV/2026",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,  \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat  \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 2 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 2 \nTahun 2008 tentang Partai Politik terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 5,
+      "end_line": 10
+    },
+    {
+      "heading": "1. Nama : Aditya Zain",
+      "slug": "1-nama-aditya-zain",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Manggis Square Blok L, Nomor 04, RT 005, RW 003, \nKelurahan Gunung Sekar, Kecamatan Sampang, \nKabupaten Sampang, Provinsi Jawa Timur \nSelanjutnya disebut sebagai –---------------------------------------- Pemohon I;",
+      "start_line": 12,
+      "end_line": 16
+    },
+    {
+      "heading": "2. Nama : Affan Kurnia Fawwaz",
+      "slug": "2-nama-affan-kurnia-fawwaz",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Simorejosari B VI, Nomor 1, RT 007, RW 002, \nKelurahan Simomulyo, Kecamatan Sukomanunggal, \nKota Surabaya, Provinsi Jawa Timur \nSelanjutnya disebut sebagai –--------------------------------------- Pemohon II;",
+      "start_line": 18,
+      "end_line": 22
+    },
+    {
+      "heading": "3. Nama : Alysa Milano Sepania",
+      "slug": "3-nama-alysa-milano-sepania",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Melanton Nomor 51, Kelurahan Pasar Dolok \nSanggul, Kecamatan Dolok Sanggul, Kabupaten \nHumbang Hasundutan, Provinsi Sumatera Utara \nSelanjutnya disebut sebagai---------------------------------------- Pemohon III;",
+      "start_line": 24,
+      "end_line": 28
+    },
+    {
+      "heading": "4. Nama : Bryand Alexandros Try Suranta K.",
+      "slug": "4-nama-bryand-alexandros-try-suranta-k",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Flora V Nomor 54 LK-XII, Kelurahan Simpang \nSelayang, Kecamatan Medan Tuntungan, Kota \nMedan, Provinsi Sumatera Utara \n\n\n2 \n \nSelanjutnya disebut sebagai --------------------------------------- Pemohon IV;",
+      "start_line": 30,
+      "end_line": 38
+    },
+    {
+      "heading": "5. Nama : Fransisca Denis Febrianti",
+      "slug": "5-nama-fransisca-denis-febrianti",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Jombang Nomor 814, RT 002, RW 012, \nKelurahan Kandangan, Kecamatan Kandangan, \nKabupaten Kediri, Provinsi Jawa Timur \nSelanjutnya disebut sebagai –--------------------------------------- Pemohon V;",
+      "start_line": 40,
+      "end_line": 44
+    },
+    {
+      "heading": "6. Nama : Mukhammad Bramasetia Zidan A.",
+      "slug": "6-nama-mukhammad-bramasetia-zidan-a",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Jagir Kawedanan Gang 2 Nomor 31, \nKelurahan Jagir, Kecamatan Wonokromo, Kota \nSurabaya, Provinsi Jawa Timur \nSelanjutnya disebut sebagai –-------------------------------------- Pemohon VI;\nSelanjutnya Pemohon I sampai dengan Pemohon VI disebut sebagai ------------------\n---------------------------------------------------------------------------------------- para Pemohon. \n[1.2] Membaca permohonan para Pemohon;  \n Mendengar keterangan para Pemohon;  \n Memeriksa bukti-bukti para Pemohon.",
+      "start_line": 46,
+      "end_line": 55
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 06 Mei 2026 yang diterima Kepaniteraan Mahkamah pada  tanggal 11 \nJuni 2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor 2 16/PUU/ \nPAN.MK/AP3/06/2026 dan dicatat dalam Buku Registrasi Perkara Ko nstitusi \nElektronik (e-BRPK) dengan Nomor 217/PUU-XXIV/2026 pada tanggal  1 2  J u n i  \n2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 57,
+      "end_line": 63
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 24C ayat (1) UUD NRI Tahun 1945 meny atakan:",
+      "slug": "1-bahwa-ketentuan-pasal-24c-ayat-1-uud-nri-tahun-1945-meny-atakan",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar.” \n\n3",
+      "start_line": 65,
+      "end_line": 70
+    },
+    {
+      "heading": "2. Bahwa ketentuan Pasal 29 ayat (1) Undang-Undang Nomor 48 Ta hun",
+      "slug": "2-bahwa-ketentuan-pasal-29-ayat-1-undang-undang-nomor-48-ta-hun",
+      "text": "2009 tentang kekuasaan Kehakiman menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: \na.  menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945.”",
+      "start_line": 72,
+      "end_line": 76
+    },
+    {
+      "heading": "3. Bahwa selanjutnya, Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24",
+      "slug": "3-bahwa-selanjutnya-pasal-10-ayat-1-huruf-a-undang-undang-nomor-24",
+      "text": "Tahun 2003 tentang Mahkamah Konstitusi sebagaimana diubah terak hir \ndengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga \nAtas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (selanjutnya disebut UU MK) menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: \na.  menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945.”",
+      "start_line": 78,
+      "end_line": 85
+    },
+    {
+      "heading": "4. Bahwa Mahkamah Konstitusi berwenang menguji hal dugaan",
+      "slug": "4-bahwa-mahkamah-konstitusi-berwenang-menguji-hal-dugaan",
+      "text": "pertentangan norma undang-undang terhadap Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 berdasarkan ketentuan Pasa l 9 \nayat (1) Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan \nPeraturan Perundang-undangan sebagaimana diubah terakhir dalam \nUndang-Undang 13 Tahun 2022 tentang Perubahan Kedua atas Undang-\nUndang 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-\nundangan, yang selengkapnya menyatakan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi.”",
+      "start_line": 87,
+      "end_line": 96
+    },
+    {
+      "heading": "5. Bahwa Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor 7 Tahun",
+      "slug": "5-bahwa-pasal-2-ayat-1-peraturan-mahkamah-konstitusi-nomor-7-tahun",
+      "text": "2025 tentang Tata Beracara Dalam Perkara Pengujian Undang-Undan g \n(selanjutnya disebut PMK 7/2025) menyatakan, “Objek Permohonan PUU \nadalah undang-undang dan Perppu.”",
+      "start_line": 98,
+      "end_line": 100
+    },
+    {
+      "heading": "6. Bahwa para Pemohon mengajukan permohonan pengujian materiil Pasal",
+      "slug": "6-bahwa-para-pemohon-mengajukan-permohonan-pengujian-materiil-pasal",
+      "text": "23 Ayat (1) Undang-Undang Nomor 2 Tahun 2011 tentang Partai Pol itik \nyang selengkapnya berbunyi sebagai berikut: \n“Pergantian kepengurusan Partai Politik di setiap tingkatan dil akukan \nsesuai dengan AD dan ART.” \n\n4",
+      "start_line": 102,
+      "end_line": 108
+    },
+    {
+      "heading": "7. Bahwa para Pemohon mengajukan permohonan pengujian materiil Pasal",
+      "slug": "7-bahwa-para-pemohon-mengajukan-permohonan-pengujian-materiil-pasal",
+      "text": "34 Ayat (1) huruf c Undang-Undang Nomor 2 Tahun 2011 tentang Pa rtai \nPolitik yang selengkapnya berbunyi sebagai berikut:",
+      "start_line": 110,
+      "end_line": 111
+    },
+    {
+      "heading": "c. “Bantuan keuangan dari Anggaran Pendapatan dan",
+      "slug": "c-bantuan-keuangan-dari-anggaran-pendapatan-dan",
+      "text": "BelanjaNegara/Anggaran Pendapatan dan Belanja Daerah.”",
+      "start_line": 113,
+      "end_line": 113
+    },
+    {
+      "heading": "8. Bahwa oleh karena permohonan Pemohon adalah pengujian mater iil",
+      "slug": "8-bahwa-oleh-karena-permohonan-pemohon-adalah-pengujian-mater-iil",
+      "text": "undang-undang, in casu norma Pasal 23 Ayat (1) dan Pasal 34 Ayat (1) \nhuruf C Undang-Undang Nomor 2 Tahun 2011 tentang Perubahan Atas  \nUndang-Undang Nomor 2 Tahun 2008 tentang Partai Politik terhada p \nPasal 1 Ayat (2) dan (3) dan Pasal 28D Ayat (3) Undang-Undang D asar \nNegara Republik Indonesia Tahun 1945 maka menurut Pemohon, \nMahkamah Konstitusi berwenang mengadili permohonan a quo.   \nII. KEDUDUKAN HUKUM ( LEGAL STANDING) PARA PEMOHON",
+      "start_line": 115,
+      "end_line": 121
+    },
+    {
+      "heading": "1. Kualifikasi kedudukan hukum ( legal standing ) merupakan syarat yang",
+      "slug": "1-kualifikasi-kedudukan-hukum-legal-standing-merupakan-syarat-yang",
+      "text": "harus dipenuhi oleh setiap pemohon untuk mengajukan permohonan \npengujian undang-undang terhadap UUD 1945 kepada MK sebagaimana  \ndiatur di dalam Pasal 51 ayat (1) UU MK jo. Pasal 4 ayat (1) Peraturan MK \nNomor 7 Tahun 2025 Tentang Tata Beracara dalam Pengujian Undang -\nUndang (PMK 7/2025), yang menyatakan:  \nPasal 4 \nPermohonan sebagaimana dimaksud dalam Pasal 3 huruf a adalah \npihak yang menganggap hak dan/atau kewenangan konstitusionalnya \ndirugikan oleh berlakunya undang-undang atau Perppu, yaitu:  \na. perorangan warga negara Indonesia atau kelompok orang yang \nmempunyai kepentingan yang sama; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip negara \nkesatuan Republik Indonesia yang diatur dalam Undang-\nUndang;",
+      "start_line": 123,
+      "end_line": 137
+    },
+    {
+      "heading": "d. lembaga negara.",
+      "slug": "d-lembaga-negara",
+      "text": "Selanjutnya, penjelasan Pasal 51 ayat (1) UU MK menyatakan: \n“Yang dimaksud dengan ‘hak konstitusional’ adalah hak-hak yang \ndiatur dalam Undang Undang Dasar Negara Republik Indonesia \nTahun 1945”.",
+      "start_line": 140,
+      "end_line": 144
+    },
+    {
+      "heading": "2. Bahwa merujuk pada Putusan Mahkamah Konstitusi sejak Putusan",
+      "slug": "2-bahwa-merujuk-pada-putusan-mahkamah-konstitusi-sejak-putusan",
+      "text": "Mahkamah Konstitusi Nomor 006/PUUIII/2005 yang diucapkan dalam \n\n5 \n \nsidang pleno terbuka untuk umum pada tanggal 31 Mei 2005 dan Putusan \nMahkamah Konstitusi Nomor 11/PUU-V/2007 yang diucapkan dalam \nsidang pleno terbuka untuk umum pada tanggal 20 September 2007 dan \nputusan-putusan selanjutnya, Mahkamah Konstitusi berpendirian b ahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dimaksud \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  \ndianggap dirugikan oleh berlakunya Undang-Undang yang dimohonkan \npengujian;",
+      "start_line": 146,
+      "end_line": 161
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan",
+      "text": "aktual atau setidak-tidaknya potensial yang menurut penalaran y ang \nwajar dapat dipastikan akan terjadi;",
+      "start_line": 163,
+      "end_line": 164
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat antara kerugian dimaksud dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan",
+      "text": "berlakunya Undang-Undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian konstitusional yang didalilkan tidak akan atau tidak lagi \nterjadi.",
+      "start_line": 166,
+      "end_line": 169
+    },
+    {
+      "heading": "3. Bahwa Pemohon merupakan Mahasiswa yang mempunyai kepentingan",
+      "slug": "3-bahwa-pemohon-merupakan-mahasiswa-yang-mempunyai-kepentingan",
+      "text": "sebagaimana dimaksud dalam Pasal 51 ayat (1) huruf a UU MK, yan g \nmemiliki hak konstitusional atas pengakuan, jaminan, perlindung an, dan \nkepastian hukum yang adil serta hak atas peradilan yang indepen den \nsebagaimana dijamin dalam Pasal 28D ayat (1) Undang-Undang Dasa r \nNegara Republik Indonesia Tahun 1945;",
+      "start_line": 171,
+      "end_line": 175
+    },
+    {
+      "heading": "4. Oleh sebab itu para Pemohon menguraikan kedudukan hukum ( legal",
+      "slug": "4-oleh-sebab-itu-para-pemohon-menguraikan-kedudukan-hukum-legal",
+      "text": "standing) Pemohon dalam mengajukan permohonan sebagai berikut:",
+      "start_line": 177,
+      "end_line": 177
+    },
+    {
+      "heading": "4. 2. Pemohon I adalah perorangan WNI yang dibuktikan dengan",
+      "slug": "4-2-pemohon-i-adalah-perorangan-wni-yang-dibuktikan-dengan",
+      "text": "kepemilikan Nomor Induk Kependudukan yang beralamat di Manggis \nSquare Blok L, Nomor 04, RT. 005, RW. 003, Kelurahan Gunung \nSekar, Kecamatan Sampang, Kabupaten Sampang, Provinsi Jawa \n\n6 \n \nTimur dan sekarang merupakan  mahasiswa Fakultas Hukum \nUniversitas Negeri Surabaya yang dibuktikan dengan Nomor Induk \nMahasiswa. Sebagai mahasiswa, pemohon merupakan staf ahli \nDewan Perwakilan Mahasiswa komisi 1 yang merupakan komisi \nlegislasi di Fakultas Hukum Universitas Negeri Surabaya. Pemoho n \njuga merupakan anggota Komunitas Peradilan Semu Universitas \nNegeri Surabaya, yang salah satu kegiatannya adalah menyusun \nperaturan selingkung organisasi Fakultas Hukum Universitas Nege ri \nSurabaya. Serta telah mempelajari Hukum Tata Negara dan sedang \nmempelajari Hukum Acara Mahkamah Konstitusi.",
+      "start_line": 180,
+      "end_line": 195
+    },
+    {
+      "heading": "4. 3. Pemohon II adalah perorangan WNI yang dibuktikan dengan",
+      "slug": "4-3-pemohon-ii-adalah-perorangan-wni-yang-dibuktikan-dengan",
+      "text": "kepemilikan Nomor Induk Kependudukan yang beralamat di Jalan \nSimorejosari B VI, Nomor 1, RT. 007, RW. 002, Kelurahan simomulyo, \nKecamatan Sukomanunggal, Kota Surabaya, Provinsi Jawa Timur \ndan sekarang merupakan mahasiswa Fakultas Hukum Universitas \nPembangunan Nasional Veteran Jawa Timur yang dibuktikan dengan \nNomor Induk Mahasiswa. Serta telah mempelajari Hukum Tata \nNegara dan sedang mempelajari Hukum Acara Mahkamah \nKonstitusi.",
+      "start_line": 197,
+      "end_line": 204
+    },
+    {
+      "heading": "4. 4. Pemohon III adalah perorangan WNI yang dibuktikan dengan",
+      "slug": "4-4-pemohon-iii-adalah-perorangan-wni-yang-dibuktikan-dengan",
+      "text": "kepemilikan Nomor Induk Kependudukan yang beralamat di Jalan \nMelanton Nomor 51, Kelurahan Pasar Dolok Sanggul, Kecamatan \nDolok Sanggul, Kabupaten Humbang Hasundutan, Provinsi \nSumatera Utara dan sekarang merupakan mahasiswa Fakultas \nHukum Universitas Negeri Surabaya yang dibuktikan dengan Nomor \nInduk Mahasiswa. Serta telah mempelajari Hukum Tata Negara dan \nsedang mempelajari Hukum Acara Mahkamah Konstitusi.",
+      "start_line": 206,
+      "end_line": 212
+    },
+    {
+      "heading": "4. 5. Pemohon IV adalah perorangan WNI yang dibuktikan dengan",
+      "slug": "4-5-pemohon-iv-adalah-perorangan-wni-yang-dibuktikan-dengan",
+      "text": "kepemilikan Nomor Induk Kependudukan yang beralamat di Jalan \nFlora V Nomor 54 LK-XII, Kelurahan Simpang Selayang, Kecamatan \nMedan Tuntungan, Kota Medan, Provinsi Sumatera Utara dan \nsekarang merupakan mahasiswa Fakultas Hukum Universitas Negeri \nSurabaya yang dibuktikan dengan Nomor Induk Mahasiswa. Sebagai \n\n7 \n \nmahasiswa, pemohon merupakan staff Komunitas Peradilan Semu \nUniversitas Negeri Surabaya. Serta telah mempelajari Hukum Tata  \nNegara dan sedang mempelajari Hukum Acara Mahkamah \nKonstitusi.",
+      "start_line": 214,
+      "end_line": 225
+    },
+    {
+      "heading": "4. 6. Pemohon V adalah perorangan WNI yang dibuktikan dengan",
+      "slug": "4-6-pemohon-v-adalah-perorangan-wni-yang-dibuktikan-dengan",
+      "text": "kepemilikan Nomor Induk Kependudukan yang beralamat di Jalan \nJombang Nomor 814, RT. 002, RW. 012, Kelurahan Kandangan, \nKecamatan Kandangan, Kabupaten Kediri, Provinsi Jawa Timur dan \nsekarang merupakan mahasiswa Fakultas Hukum Universitas Negeri \nSurabaya yang dibuktikan dengan Nomor Induk Mahasiswa. Serta \ntelah mempelajari Hukum Tata Negara dan sedang mempelajari \nHukum Acara Mahkamah Konstitusi.",
+      "start_line": 227,
+      "end_line": 233
+    },
+    {
+      "heading": "4. 7. Pemohon VI adalah perorangan WNI yang dibuktikan dengan",
+      "slug": "4-7-pemohon-vi-adalah-perorangan-wni-yang-dibuktikan-dengan",
+      "text": "kepemilikan Nomor Induk Kependudukan yang beralamat di Jalan \nJagir Kawedanan Gang 2 Nomor 31, Kelurahan Jagir, Kecamatan \nWonokromo, Kota Surabaya, Provinsi Jawa Timur dan sekarang \nmerupakan mahasiswa Fakultas Hukum Universitas Negeri Surabaya \nyang dibuktikan dengan Nomor Induk Mahasiswa. Serta telah \nmempelajari Hukum Tata Negara dan sedang mempelajari Hukum \nAcara Mahkamah Konstitusi.",
+      "start_line": 235,
+      "end_line": 241
+    },
+    {
+      "heading": "5. Bahwa menurut para Pemohon, ketentuan Pasal 23 ayat (1) junc to Pasal",
+      "slug": "5-bahwa-menurut-para-pemohon-ketentuan-pasal-23-ayat-1-junc-to-pasal",
+      "text": "34 ayat (1) huruf c Undang-Undang Nomor 2 Tahun 2011 tentang Pa rtai \nPolitik telah merugikan hak konstitusional para Pemohon sebagai mana \ndijamin dalam Pasal 1 ayat (2), Pasal 1 ayat (3), dan Pasal 28D  ayat (1) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, karen a \nnorma a quo  tidak mengatur secara jelas mengenai pembatasan masa \njabatan kepengurusan atau ketua partai politik, padahal partai politik \nmerupakan institusi pelaksana kedaulatan rakyat yang juga mempe roleh \nbantuan keuangan dari negara, sehingga ketidakjelasan pengatura n \ntersebut menimbulkan ketidakpastian hukum, membuka ruang konsentrasi \nkekuasaan secara berkepanjangan, serta berpotensi melahirkan ta ta \nkelola partai politik yang tidak demokratis dan tidak sesuai dengan prinsip \nnegara hukum, dengan alasan: \n\n8 \n \n5.1. Bahwa Pemohon I merupakan Anggota Dewan Perwakilan \nMahasiswa Komisi I Fakultas Hukum Universitas Negeri Surabaya \nyang bergerak di bidang legislasi dan ketatanegaraan, sehingga \nmemiliki kepentingan konstitusional terhadap terciptanya sistem  \npartai politik yang demokratis dan berdasarkan hukum. Ketentuan  \nPasal 23 ayat (1) Undang-Undang Nomor 2 Tahun 2011 tentang \nPartai Politik juncto Pasal 34 ayat (1) huruf c Undang-Undang Nomor \n2 Tahun 2011 yang pada pokoknya mengatur bantuan keuangan \npartai politik yang bersumber dari APBN/APBD, namun tidak diser tai \npengaturan yang tegas mengenai pembatasan masa jabatan \nkepengurusan atau ketua partai politik, telah menimbulkan kerug ian \nkonstitusional bagi Pemohon I. Ketiadaan batasan tersebut membuka \npeluang terjadinya pemusatan kekuasaan dalam tubuh partai polit ik \nsecara berkepanjangan yang bertentangan dengan prinsip \nkedaulatan rakyat dan demokrasi sebagaimana dijamin dalam Pasal  \n1 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun",
+      "start_line": 243,
+      "end_line": 273
+    },
+    {
+      "heading": "1945. Selain itu, penggunaan bantuan keuangan negara kepada",
+      "slug": "1945-selain-itu-penggunaan-bantuan-keuangan-negara-kepada",
+      "text": "partai politik tanpa disertai mekanisme regenerasi kepemimpinan  \nyang demokratis berpotensi melahirkan pengelolaan partai yang tidak \nakuntabel dan tidak sesuai dengan prinsip negara hukum \nsebagaimana diatur dalam Pasal 1 ayat (3) UUD 1945. Akibatnya, \nPemohon I mengalami kerugian konstitusional berupa terhambatnya  \nhak untuk memperoleh kepastian mengenai penerapan prinsip \ndemokrasi dan negara hukum dalam tata kelola partai politik yan g \ndibiayai oleh keuangan negara. \n5.2. Bahwa Pemohon IV merupakan Anggota Komunitas Peradilan Sem u \nFakultas Hukum Universitas Negeri Surabaya yang secara aktif \nmelakukan simulasi dan kajian praktik ketatanegaraan, termasuk \nyang berkaitan dengan tata kelola partai politik. Ketidakjelasan norma \nPasal 23 ayat (1) a quo  serta Pasal 34 ayat (1) huruf c Undang-\nUndang Nomor 2 Tahun 2011 yang tidak mengatur pembatasan masa \njabatan kepengurusan atau ketua partai politik telah menimbulka n \nkerugian konstitusional bagi Pemohon IV. Tidak adanya pembatasan \n\n9 \n \ntersebut menyebabkan terbukanya praktik dominasi kekuasaan oleh  \nkelompok atau elite tertentu dalam partai politik yang dibiayai  o l e h  \nkeuangan negara melalui APBN/APBD, sehingga bertentangan \ndengan prinsip kedaulatan rakyat dalam Pasal 1 ayat (2) UUD 194 5 \nkarena menghambat sirkulasi kepemimpinan politik secara \ndemokratis. Selain itu, ketidakjelasan pengaturan tersebut juga  \nmenciptakan ketidakpastian dalam penerapan prinsip negara hukum  \nsebagaimana dijamin dalam Pasal 1 ayat (3) UUD 1945, sebab tidak \nterdapat parameter hukum yang jelas mengenai batas kekuasaan \nkepemimpinan partai politik. Akibatnya, Pemohon IV mengalami \nhambatan konstitusional dalam memahami dan mengonstruksikan \npraktik ketatanegaraan yang demokratis dan sesuai prinsip negar a \nhukum dalam kegiatan akademik maupun praktik peradilan semu. \n5.3. Bahwa para Pemohon merupakan mahasiswa Fakultas Hukum yang  \nmemiliki kepentingan konstitusional terhadap terselenggaranya \nsistem kepartaian yang demokratis, akuntabel, dan berdasarkan \nprinsip negara hukum. Ketentuan Pasal 23 ayat (1) juncto Pasal 34 \nayat (1) huruf c Undang-Undang Nomor 2 Tahun 2011 yang \nmemberikan legitimasi terhadap keberlangsungan organisasi parta i \npolitik serta pemberian bantuan keuangan negara kepada partai \npolitik, namun tidak mengatur pembatasan masa jabatan \nkepengurusan atau ketua partai politik, telah menimbulkan kerug ian \nkonstitusional bagi para Pemohon. Ketiadaan norma pembatasan \ntersebut membuka ruang terjadinya konsentrasi kekuasaan dalam \ntubuh partai politik secara terus-menerus yang menghambat \nregenerasi kepemimpinan politik dan mempersempit kesempatan \nmunculnya kepemimpinan baru, sehingga bertentangan dengan \nprinsip kedaulatan rakyat sebagaimana diatur dalam Pasal 1 ayat (2) \nUUD 1945. Di sisi lain, penggunaan bantuan keuangan negara \nkepada partai politik tanpa disertai pengaturan yang jelas meng enai \npembatasan kekuasaan internal partai menciptakan ketidakselarasan \ndengan prinsip negara hukum dalam Pasal 1 ayat (3) UUD 1945 \nkarena menimbulkan ketidakpastian dan potensi penyalahgunaan \n\n10 \n \nkekuasaan dalam tata kelola partai politik. Akibat berlakunya norma a \nquo, para Pemohon mengalami kerugian konstitusional berupa \nhilangnya jaminan atas terselenggaranya sistem kepartaian yang \ndemokratis, terbuka, dan berlandaskan prinsip kepastian hukum yang \nadil sebagaimana dijamin pula dalam Pasal 28D ayat (1) UUD 1945.",
+      "start_line": 275,
+      "end_line": 334
+    },
+    {
+      "heading": "6. Bahwa para Pemohon memiliki kedudukan hukum sebagai Pemohon",
+      "slug": "6-bahwa-para-pemohon-memiliki-kedudukan-hukum-sebagai-pemohon",
+      "text": "sebagaimana dimaksud dalam Pasal 4 Ayat (2) huruf d PMK 2/2021, yakni \nadanya hubungan sebab-akibat antara kerugian konstitusional den gan \nberlakunya undang-undang yang dimohonkan pengujiannya, maka per lu \ndijelaskan sebagai berikut: \n6.1. Bahwa para Pemohon mengalami kerugian konstitusional akiba t \nberlakunya ketentuan Pasal 23 ayat (1) juncto Pasal 34 ayat (1) huruf",
+      "start_line": 336,
+      "end_line": 341
+    },
+    {
+      "heading": "c Undang-Undang Nomor 2 Tahun 2011 tentang Partai Politik yang",
+      "slug": "c-undang-undang-nomor-2-tahun-2011-tentang-partai-politik-yang",
+      "text": "tidak mengatur secara tegas mengenai pembatasan masa jabatan \nkepengurusan atau ketua partai politik, padahal partai politik \nmerupakan sarana pelaksanaan kedaulatan rakyat dan memperoleh \nbantuan keuangan yang bersumber dari APBN/APBD, sehingga \nketiadaan pengaturan tersebut menimbulkan ketidakpastian hukum, \nmembuka ruang penafsiran yang berbeda-beda, berpotensi \nmelahirkan konsentrasi kekuasaan secara berkepanjangan dalam \ntubuh partai politik, serta memungkinkan terjadinya praktik \npengelolaan partai politik yang tidak demokratis dan tidak sela ras \ndengan prinsip negara hukum sebagaimana dijamin dalam Pasal 1 \nayat (2), Pasal 1 ayat (3), dan Pasal 28D ayat (1) Undang-Undan g \nDasar Negara Republik Indonesia Tahun 1945. \n6.2. Bahwa ketidakjelasan norma tersebut berpotensi merugikan p ara \nPemohon dalam memperoleh jaminan kepastian hukum yang adil, \nserta berpotensi menghambat para Pemohon dalam memahami dan \nmengkaji norma hukum secara konsisten. \n6.3. Bahwa kondisi demikian berpotensi bertentangan dengan prin sip \nnegara hukum dan kedaultaan rakyat sebagimana dijamin dalam \nPasal 1 ayat (2) dan ayat (3) Undang-Undang Negara Republik \nIndonesia Tahun 1945, serta hak kepastian hukum yang adil dan \n\n11 \n \nkesempatan yang sama dalam pemerintahan sebagaimana dijamin \ndalam pasal 28D ayat (3) Undang Undang Negara Republik \nIndonesia Tahun 1945. \n6.4. Bahwa hubungan sebab akibat antara berlakunya norma a quo  \ndengan potensi konstitusional yang dialami oleh para Pemohon, \nsehingga para Pemohon memiliki kedudukan hukum untuk \nmengajukan permohonan a quo.",
+      "start_line": 343,
+      "end_line": 372
+    },
+    {
+      "heading": "7. Bahwa menurut Pemohon jika permohonan dikabulkan oleh Mahkam ah",
+      "slug": "7-bahwa-menurut-pemohon-jika-permohonan-dikabulkan-oleh-mahkam-ah",
+      "text": "maka anggapan potensi/kerugian hak konstitusional Pemohon tidak  \nakan/tidak terjadi lagi;",
+      "start_line": 374,
+      "end_line": 375
+    },
+    {
+      "heading": "8. Bahwa berdasarkan uraian tersebut di atas, Pemohon memiliki kedudukan",
+      "slug": "8-bahwa-berdasarkan-uraian-tersebut-di-atas-pemohon-memiliki-kedudukan",
+      "text": "hukum untuk mengajukan permohonan a quo. \nIII. ALASAN PERMOHONAN \nA. PERMOHONAN DAPAT DIAJUKAN KEMBALI (Tidak Nebis in idem)",
+      "start_line": 377,
+      "end_line": 379
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 60 UU MK juncto Pasal 72 ayat (2) PMK Nomor",
+      "slug": "1-bahwa-ketentuan-pasal-60-uu-mk-juncto-pasal-72-ayat-2-pmk-nomor",
+      "text": "7 Tahun 2025 memungkinkan Pemohon mengajukan kembali \npengujian materi muatan ayat, pasal, dan/atau bagian dalam unda ng-\nundang yang telah diuji oleh Mahkamah, yang lengkapnya berbunyi  \nsebagai berikut:  \nPasal 60 ayat (2) UU MK \n“Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualika n \njika materi muatan dalam Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 yang dijadikan dasar pengujian berbeda.” \nPasal 72 ayat (2) PMK Nomor 7 Tahun 2025 \n“Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualika n \njika materi muatan dalam UUD NRI Tahun 1945 yang dijadikan dasa r \npengujian berbeda atau terdapat alasan permohonan yang berbeda.”",
+      "start_line": 381,
+      "end_line": 392
+    },
+    {
+      "heading": "2. Bahwa pengujian konstitusionalitas ketentuan Pasal 23 ayat ( 1)",
+      "slug": "2-bahwa-pengujian-konstitusionalitas-ketentuan-pasal-23-ayat-1",
+      "text": "Undang-Undang Nomor 2 Tahun 2008 tentang Partai Politik pernah \ndiujikan dengan batu uji pasal  \nPasal 7, Pasal 27 ayat (1), Pasal 28D ayat (1), Pasal 28E ayat (3) UUD \nNRI 1945. \n\n12",
+      "start_line": 394,
+      "end_line": 400
+    },
+    {
+      "heading": "3. Bahwa kendati demikian para Pemohon menggunakan batu uji yan g",
+      "slug": "3-bahwa-kendati-demikian-para-pemohon-menggunakan-batu-uji-yan-g",
+      "text": "berbeda dengan menggunakan batu uji uji pasal 1 ayat (2) dan (3), dan \nPasal 28D ayat (3).  \nTabel 1  \nDaftar Putusan Berkaitan Dengan Pengujian Perkara Pasal 23 ayat \n(1) Undang-Undang Nomor 2 Tahun 2011 tentang Perubahan \nterhadap Undang-Undang Nomor 2 Tahun 2008.  \nPerkara Alasan \nPermohonan\nPertimbangan \nHakim\nObjek \nPermohonan Putusan\n69/PUU-\nXXI/2023 \nKeleluasaan \nberimplikasi \npada tidak \nadanya acuan \nbaku, sehingga \nmayoritas \npartai tidak \nmemiliki \nbatasan masa \njabatan yang \njelas, yang \nmengakibatkan \nadanya ketua \numum \nmenjabat lebih \ndari 2 periode \natau hingga 24 \ntahun. \nketiadaan \nbatasan \nmenimbulkan \nketidakpastian \nhukum dan \nketidakadilan \nbagi para \nPemohon \n \nPenyerahan \npengaturan \nmasa jabatan \nsepenuhnya \nkepada \nperaturan AD \ndan ART tanpa \nacuan yang \nkonkrit dalam \nUU Partai \nPemohon \ndianggap tidak \nmemiliki \nkedudukan \nhukum (legal \nstanding) untuk \nmengajukan \npermohonan a \nquo.  \n  \nTindakan untuk \nmenentukan \nbatas masa \njabatan ketua \numum dalam \nsuatu undang-\nundang dapat \ndianggap \nmelakukan \nperubahan \nmendasar \nterhadap \nkonstitusi partai \npolitik yang \nperubahan \ndimaksud \nselayaknya \ndiatur di dalam \nAD dan ART \ndan merupakan \ndomain partai \npolitik untuk \nmenentukannya\n.  \nPasal 23 ayat \n(1) Undang-\nUndang \nNomor 2 \nTahun 2011 \ntentang \nPerubahan \nAtas Undang-\nUndang \nNomor 2 \nTahun 2008 \ntentang Partai \nPolitik \nDitolak  \n\n13 \n \nPolitik \nmenciptakan \nketidakpastian \nhukum. \nPengaturan \nmasa jabatan \nharus \nditetapkan \ndalam \nperaturan AD \ndan ART yang \nmengikuti \nmasa jabatan \npresiden, yaitu \nlima tahun dan \nmaksimal \nberlangsung \nselama dua \nperiode masa \njabatan, baik \nsecara \nberturut-turut \nmaupun tidak.",
+      "start_line": 402,
+      "end_line": 526
+    },
+    {
+      "heading": "4. Bahwa terdapat perbedaan mendasar antara permohonan Pemohon",
+      "slug": "4-bahwa-terdapat-perbedaan-mendasar-antara-permohonan-pemohon",
+      "text": "dan permohonan sebelumnya, yang penjabarannya sebagai berikut:  \nBatu Uji UUD NRI 1945 Dalil Permohonan \nPasal 1 ayat (2) dan ayat (3) \nPasal 28D ayat (3) \nDalam permohonan a quo Pemohon \nberfokus pada dalil sebagai berikut: \n \nPemberlakuan masa jabatan ketua \numum Partai Politik yang tidak \nmemiliki aturan pembatasan masa \njabatan. Sehingga dapat \nmenimbulkan kekhawatiran \npemimpin negara di masa yang akan \ndatang berpotensi menjadi pemimpin \nyang otoriter sehingga masyarakat \nkehilangan kedaulatan penuh. \nSehingga diperlukan aturan yang \nmengatur mengenai batasan masa \njabatan ketua umum partai politik.\nB. KAITAN KERUGIAN KONSTITUSIONAL",
+      "start_line": 528,
+      "end_line": 547
+    },
+    {
+      "heading": "1. Bahwa dengan berlakunya Pasal 23 ayat (1) Undang-Undang Nomo r",
+      "slug": "1-bahwa-dengan-berlakunya-pasal-23-ayat-1-undang-undang-nomo-r",
+      "text": "2 Tahun 2011 tentang Partai Politik yang menyatakan,  “Pergantian \nkepengurusan Partai Politik di setiap tingkatan dilakukan sesua i \ndengan AD dan ART”, serta Pasal 34 ayat (1) huruf c Undang-Undang \n\n14 \n \nNomor 2 Tahun 2011 tentang Partai Politik yang menyatakan bahwa  \nkeuangan partai politik bersumber dari “bantuan keuangan dari \nAnggaran Pendapatan dan Belanja Negara/Anggaran Pendapatan \ndan Belanja Daerah”, telah membuka ruang terjadinya konsentrasi  \nkekuasaan dalam tubuh partai politik tanpa adanya batasan yang jelas \nterhadap masa jabatan ketua umum partai politik. Akibatnya, pri nsip \nkedaulatan rakyat sebagaimana dijamin dalam Pasal 1 ayat (2) UU D \nNRI Tahun 1945 berpotensi bergeser menjadi dominasi elit partai  \npolitik tertentu yang mengendalikan arah kebijakan dan rekrutme n \npolitik secara terus-menerus.",
+      "start_line": 549,
+      "end_line": 564
+    },
+    {
+      "heading": "2. Bahwa dengan berlakunya ketentuan dalam Pasal a quo , para",
+      "slug": "2-bahwa-dengan-berlakunya-ketentuan-dalam-pasal-a-quo-para",
+      "text": "Pemohon sebagai warga negara, pemilih, dan mahasiswa menjadi \ntidak dapat memastikan bahwa proses demokrasi internal partai politik \nberjalan secara terbuka, demokratis, dan akuntabel. Padahal par tai \npolitik merupakan institusi yang menjalankan fungsi publik dan \nmemperoleh pembiayaan dari negara sebagaimana diatur dalam \nPasal 34 ayat (1) huruf c Undang-Undang Nomor 2 Tahun 2011 \ntentang Partai Politik.",
+      "start_line": 566,
+      "end_line": 572
+    },
+    {
+      "heading": "3. Bahwa dengan berlakunya ketentuan dalam Pasal a quo , para",
+      "slug": "3-bahwa-dengan-berlakunya-ketentuan-dalam-pasal-a-quo-para",
+      "text": "Pemohon berpotensi kehilangan kesempatan yang setara untuk \nberpartisipasi dalam proses politik dan pemerintahan sebagaiman a \ndijamin dalam Pasal 28D ayat (3) UUD NRI Tahun 1945. Tidak adanya \npembatasan masa jabatan ketua umum partai politik menyebabkan \nproses regenerasi politik menjadi tertutup dan cenderung hanya \nmemberikan ruang kepada kelompok elit tertentu yang memiliki akses \nterhadap kekuasaan internal partai politik.",
+      "start_line": 574,
+      "end_line": 580
+    },
+    {
+      "heading": "4. Bahwa dengan berlakunya ketentuan dalam Pasal a quo, telah tercipta",
+      "slug": "4-bahwa-dengan-berlakunya-ketentuan-dalam-pasal-a-quo-telah-tercipta",
+      "text": "hambatan struktural bagi generasi muda, termasuk para Pemohon \nsebagai mahasiswa, untuk memperoleh akses yang adil dalam proses \npolitik nasional. Dominasi elit partai politik secara terus-men erus \nmenyebabkan proses kaderisasi dan rekrutmen politik tidak berja lan \nsecara terbuka dan kompetitif, sehingga peluang munculnya \n\n15 \n \nkepemimpinan baru yang progresif dan demokratis menjadi \nterhambat.",
+      "start_line": 582,
+      "end_line": 591
+    },
+    {
+      "heading": "5. Bahwa Pasal 34 ayat (1) huruf c Undang-Undang Nomor 2 Tahun 2011",
+      "slug": "5-bahwa-pasal-34-ayat-1-huruf-c-undang-undang-nomor-2-tahun-2011",
+      "text": "tentang Partai Politik yang menyatakan bahwa keuangan partai politik \nbersumber dari “bantuan keuangan dari Anggaran Pendapatan dan \nBelanja Negara/Anggaran Pendapatan dan Belanja Daerah”, \nmenunjukkan bahwa partai politik tidak semata merupakan organisasi \nprivat, melainkan institusi publik yang menggunakan keuangan negara \ndalam menjalankan fungsi konstitusionalnya. Oleh karena itu, pa rtai \npolitik seharusnya tunduk pada prinsip demokrasi, akuntabilitas , dan \npembatasan kekuasaan.",
+      "start_line": 593,
+      "end_line": 600
+    },
+    {
+      "heading": "6. Bahwa dengan tidak adanya pengaturan pembatasan masa jabatan",
+      "slug": "6-bahwa-dengan-tidak-adanya-pengaturan-pembatasan-masa-jabatan",
+      "text": "ketua umum partai politik dalam Pasal 23 ayat (1) Undang-Undang  \nNomor 2 Tahun 2011 tentang Partai Politik, penggunaan keuangan \nnegara sebagaimana dimaksud dalam Pasal 34 ayat (1) huruf c \nberpotensi justru memperkuat dominasi kekuasaan elit partai pol itik \ntertentu secara terus-menerus tanpa adanya mekanisme regenerasi  \nyang demokratis.",
+      "start_line": 602,
+      "end_line": 607
+    },
+    {
+      "heading": "7. Bahwa dengan berlakunya ketentuan dalam Pasal a quo , para",
+      "slug": "7-bahwa-dengan-berlakunya-ketentuan-dalam-pasal-a-quo-para",
+      "text": "Pemohon sebagai bagian dari rakyat yang memegang kedaulatan \ntertinggi dalam sistem demokrasi menjadi tidak memiliki jaminan  \nbahwa partai politik akan menjalankan fungsi konstitusionalnya secara \ndemokratis. Kondisi tersebut menimbulkan kekhawatiran lahirnya \npraktik oligarki politik yang bertentangan dengan prinsip negara hukum \nsebagaimana dijamin dalam Pasal 1 ayat (3) UUD NRI Tahun 1945, \nkarena kekuasaan dalam partai politik dapat dipertahankan tanpa  \nmekanisme pembatasan dan pengawasan yang jelas.",
+      "start_line": 609,
+      "end_line": 616
+    },
+    {
+      "heading": "8. Bahwa kerugian konstitusional para Pemohon bersifat spesifik dan",
+      "slug": "8-bahwa-kerugian-konstitusional-para-pemohon-bersifat-spesifik-dan",
+      "text": "potensial yang menurut penalaran wajar dapat dipastikan terjadi , \nkarena partai politik memiliki kedudukan sentral dalam menentuk an \narah kepemimpinan nasional dan penyelenggaraan pemerintahan. \nDengan demikian, apabila ketentuan Pasal 23 ayat (1) Undang-\nUndang Nomor 2 Tahun 2011 tentang Partai Politik tetap berlaku tanpa \n\n16 \n \nadanya batasan masa jabatan ketua umum partai politik, maka hak  \nkonstitusional para Pemohon atas prinsip kedaulatan rakyat, neg ara \nhukum, dan kesempatan yang sama dalam pemerintahan akan terus \nterancam.",
+      "start_line": 618,
+      "end_line": 629
+    },
+    {
+      "heading": "9. Bahwa terdapat hubungan sebab akibat ( causal verband ) antara",
+      "slug": "9-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-antara",
+      "text": "kerugian konstitusional para Pemohon dengan berlakunya Pasal 23  \nayat (1) juncto Pasal 34 ayat (1) huruf c Undang-Undang Nomor 2 \nTahun 2011 tentang Partai Politik. Kerugian tersebut timbul aki bat \ntidak adanya pengaturan yang jelas mengenai pembatasan masa \njabatan ketua umum partai politik, sementara partai politik tet ap \nmemperoleh pembiayaan dari negara dalam menjalankan fungsi \npubliknya.",
+      "start_line": 631,
+      "end_line": 637
+    },
+    {
+      "heading": "10. Bahwa apabila permohonan a quo dikabulkan oleh Mahkamah",
+      "slug": "10-bahwa-apabila-permohonan-a-quo-dikabulkan-oleh-mahkamah",
+      "text": "Konstitusi dengan menyatakan Pasal 23 ayat (1) Undang-Undang \nNomor 2 Tahun 2011 tentang Partai Politik bertentangan dengan UUD \nNRI Tahun 1945 sepanjang tidak dimaknai adanya pembatasan masa \njabatan ketua umum partai politik, maka kerugian konstitusional  para \nPemohon tidak lagi terjadi atau setidak-tidaknya dapat dicegah di \nmasa yang akan datang.",
+      "start_line": 639,
+      "end_line": 644
+    },
+    {
+      "heading": "11. Bahwa dengan demikian, para Pemohon memiliki kedudukan huku m",
+      "slug": "11-bahwa-dengan-demikian-para-pemohon-memiliki-kedudukan-huku-m",
+      "text": "(legal standing) untuk mengajukan permohonan pengujian Pasal 23  \nayat (1)  juncto Pasal 34 ayat (1) huruf c Undang-Undang Nomor 2 \nTahun 2011 tentang Partai Politik terhadap Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 karena telah memenuhi unsur \nkerugian konstitusional sebagaimana dipersyaratkan dalam prakti k \nPutusan Mahkamah Konstitusi. \nC. TABEL PERBANDINGAN NEGARA LAIN DALAM BATASAN",
+      "start_line": 646,
+      "end_line": 652
+    },
+    {
+      "heading": "KEKUASAAN KETUA UMUM PARTAI",
+      "slug": "kekuasaan-ketua-umum-partai",
+      "text": "NO. NEGARA",
+      "start_line": 654,
+      "end_line": 655
+    },
+    {
+      "heading": "1. Jerman Grundgesetz Pasal",
+      "slug": "1-jerman-grundgesetz-pasal",
+      "text": "21 ayat (1) dan \nParteiengesetz §9 \nMengatur demokrasi internal partai \ndan kewajiban kongres partai \nsecara periodik untuk memilih \nkepengurusan partai. \n\n17",
+      "start_line": 661,
+      "end_line": 669
+    },
+    {
+      "heading": "1. Menurut para Pemohon, partai politik merupakan salah satu pi lar",
+      "slug": "1-menurut-para-pemohon-partai-politik-merupakan-salah-satu-pi-lar",
+      "text": "utama dalam sistem demokrasi konstitusional karena berfungsi \nsebagai sarana pelaksanaan kedaulatan rakyat, rekrutmen politik , \npendidikan politik, serta penghubung antara warga negara dengan  \nnegara. Oleh karena itu, tata kelola partai politik harus dilak sanakan \nberdasarkan prinsip negara hukum demokratis sebagaimana dijamin  \ndalam Pasal 1 ayat (2) dan Pasal 1 ayat (3) UUD 1945. Dalam konteks \ndemikian, pembatasan kekuasaan pimpinan partai politik, khususn ya \nketua umum partai politik, merupakan bagian dari upaya pelembagaan \ndemokrasi dan pencegahan konsentrasi kekuasaan dalam organisasi  \npartai politik.",
+      "start_line": 671,
+      "end_line": 680
+    },
+    {
+      "heading": "2. Menurut para Pemohon, praktik ketatanegaraan di berbagai neg ara",
+      "slug": "2-menurut-para-pemohon-praktik-ketatanegaraan-di-berbagai-neg-ara",
+      "text": "demokrasi modern menunjukkan bahwa pembatasan kekuasaan \npimpinan partai politik merupakan bagian dari constitutional \nengineering dalam menjaga prinsip demokrasi dan mencegah \nterjadinya pemusatan kekuasaan pada satu figur tertentu. Sekali pun \ntidak seluruh negara mengatur secara eksplisit pembatasan masa \njabatan ketua umum partai politik dalam bentuk pembatasan dua \nperiode, namun negara-negara tersebut tetap membangun \nmekanisme pembatasan kekuasaan melalui pengaturan demokrasi \ninternal partai, kewajiban penyelenggaraan kongres secara perio dik,",
+      "start_line": 682,
+      "end_line": 690
+    },
+    {
+      "heading": "2. Korea",
+      "slug": "2-korea",
+      "text": "Selatan \n \n \nPolitical Parties Act \nArticle 1 \nMenjamin organisasi dan aktivitas \npartai politik dijalankan secara \ndemokratis, termasuk mekanisme \nkepemimpinan partai.",
+      "start_line": 692,
+      "end_line": 700
+    },
+    {
+      "heading": "3. Turki Law No. 2820 on",
+      "slug": "3-turki-law-no-2820-on",
+      "text": "Political Parties \n \nMengatur kongres partai dan \npemilihan pimpinan partai secara \nberkala.",
+      "start_line": 702,
+      "end_line": 706
+    },
+    {
+      "heading": "4. Ukraina Law of Ukraine “On",
+      "slug": "4-ukraina-law-of-ukraine-on",
+      "text": "Political Parties in \nUkraine” Article 8 \n \nMengatur bahwa statuta partai wajib \nmemuat prosedur pembentukan, \npemilihan, dan kewenangan badan \nkepemimpinan partai secara \ndemokratis.",
+      "start_line": 708,
+      "end_line": 715
+    },
+    {
+      "heading": "5. Meksiko Ley General de",
+      "slug": "5-meksiko-ley-general-de",
+      "text": "Partidos Políticos \nPasal 39 huruf e \ndan Pasal 43 \n \n \nMengatur kewajiban prosedur \ndemokratis untuk integrasi dan \npembaruan organ internal partai \nserta keberadaan majelis/organ \ntertinggi partai sebagai pengendali \nkepemimpinan partai. \n\n18 \n \nmekanisme pemilihan ulang kepemimpinan partai, serta pengawasan  \nnegara terhadap tata kelola partai politik. \nD. PERBANDINGAN DAN IMPLIKASI HUKUM",
+      "start_line": 717,
+      "end_line": 733
+    },
+    {
+      "heading": "1. Bahwa dalam praktik ketatanegaraan modern, partai politik ti dak",
+      "slug": "1-bahwa-dalam-praktik-ketatanegaraan-modern-partai-politik-ti-dak",
+      "text": "semata dipandang sebagai organisasi privat, melainkan sebagai \ninstitusi demokrasi yang menjalankan fungsi konstitusional dala m \nproses rekrutmen kepemimpinan nasional, pendidikan politik, ser ta \npenyaluran aspirasi rakyat. Oleh karena itu, banyak negara demokrasi \nmemberikan pengaturan terhadap demokrasi internal partai politi k \nguna mencegah terjadinya konsentrasi kekuasaan dalam tubuh partai \npolitik.",
+      "start_line": 735,
+      "end_line": 741
+    },
+    {
+      "heading": "2. Bahwa di Jerman, pengaturan mengenai demokrasi internal part ai",
+      "slug": "2-bahwa-di-jerman-pengaturan-mengenai-demokrasi-internal-part-ai",
+      "text": "politik diatur secara tegas dalam Grundgesetz Pasal 21 ayat (1)  yang \nmenyatakan, “ Ihre innere Ordnung muss demokratischen \nGrundsätzen entsprechen” yang berarti “Tatanan internal partai politik \nharus sesuai dengan prinsip-prinsip demokrasi.” Ketentuan terse but \nkemudian dijabarkan lebih lanjut dalam Parteiengesetz yang mengatur \nkewajiban penyelenggaraan kongres partai secara berkala sebagai  \nforum tertinggi partai untuk memilih, mengevaluasi, dan \nmempertanggungjawabkan kepengurusan partai politik.",
+      "start_line": 743,
+      "end_line": 750
+    },
+    {
+      "heading": "3. Bahwa menurut para Pemohon, pengaturan di Jerman menunjukkan",
+      "slug": "3-bahwa-menurut-para-pemohon-pengaturan-di-jerman-menunjukkan",
+      "text": "bahwa negara tetap memiliki kewenangan konstitusional untuk \nmemastikan terlaksananya prinsip demokrasi internal partai poli tik \nmelalui mekanisme pemilihan ulang kepemimpinan partai secara \nperiodik. Dengan mekanisme tersebut, pimpinan partai politik ti dak \ndapat mempertahankan kekuasaan secara permanen tanpa \nmemperoleh legitimasi kembali melalui forum partai yang demokratis.",
+      "start_line": 752,
+      "end_line": 757
+    },
+    {
+      "heading": "4. Bahwa sekalipun hukum nasional Jerman tidak menentukan secar a",
+      "slug": "4-bahwa-sekalipun-hukum-nasional-jerman-tidak-menentukan-secar-a",
+      "text": "eksplisit batas maksimal masa jabatan ketua umum partai politik , \nnamun melalui kewajiban kongres partai yang diselenggarakan secara \nperiodik, sistem hukum Jerman secara substantif telah menciptak an \npembatasan terhadap konsentrasi kekuasaan dalam tubuh partai \npolitik.  \n\n19",
+      "start_line": 759,
+      "end_line": 766
+    },
+    {
+      "heading": "5. Bahwa di Korea Selatan, pengaturan mengenai partai politik d iatur",
+      "slug": "5-bahwa-di-korea-selatan-pengaturan-mengenai-partai-politik-d-iatur",
+      "text": "dalam Political Parties Act yang dalam Article 1  menegaskan bahwa \nundang-undang tersebut bertujuan menjamin organisasi dan aktivi tas \npartai politik yang demokratis. Pengaturan tersebut mewajibkan partai \npolitik memiliki struktur organisasi yang demokratis, mekanisme  \npengambilan keputusan yang terbuka, serta tata cara pemilihan \npimpinan partai yang dilaksanakan melalui prosedur internal partai.",
+      "start_line": 768,
+      "end_line": 773
+    },
+    {
+      "heading": "6. Bahwa selain itu, negara melalui National Election Commissio n juga",
+      "slug": "6-bahwa-selain-itu-negara-melalui-national-election-commissio-n-juga",
+      "text": "memiliki fungsi pengawasan terhadap kepatuhan partai politik \nterhadap prinsip demokrasi internal. Menurut para Pemohon, \npengaturan tersebut menunjukkan adanya mekanisme sirkulasi \nkepemimpinan partai politik yang dilaksanakan secara periodik g una \nmencegah dominasi personal dalam partai politik.",
+      "start_line": 775,
+      "end_line": 779
+    },
+    {
+      "heading": "7. Bahwa di Turki, pengaturan mengenai partai politik diatur da lam Law",
+      "slug": "7-bahwa-di-turki-pengaturan-mengenai-partai-politik-diatur-da-lam-law",
+      "text": "No. 2820 on Political Parties  yang mewajibkan partai politik \nmenyelenggarakan kongres partai secara periodik sebagai forum \ntertinggi partai politik. Kongres partai memiliki kewenangan un tuk \nmemilih, mengevaluasi, maupun mengganti ketua umum partai polit ik \nmelalui mekanisme demokratis.",
+      "start_line": 781,
+      "end_line": 785
+    },
+    {
+      "heading": "8. Bahwa menurut para Pemohon, pengaturan di Turki menunjukkan",
+      "slug": "8-bahwa-menurut-para-pemohon-pengaturan-di-turki-menunjukkan",
+      "text": "bahwa legitimasi kepemimpinan partai politik harus diperoleh se cara \nterus-menerus melalui mekanisme kongres partai yang demokratis.  \nDengan demikian, sekalipun tidak terdapat pembatasan eksplisit \nmengenai jumlah periode jabatan ketua umum partai politik, huku m \nnasional Turki tetap membatasi konsentrasi kekuasaan melalui \nkewajiban regenerasi kepemimpinan secara periodik.",
+      "start_line": 787,
+      "end_line": 792
+    },
+    {
+      "heading": "9. Bahwa di Ukraina, pengaturan mengenai partai politik diatur dalam",
+      "slug": "9-bahwa-di-ukraina-pengaturan-mengenai-partai-politik-diatur-dalam",
+      "text": "Law of Ukraine On Political Parties in Ukraine yang dalam Article 8 \nmewajibkan anggaran dasar partai politik memuat prosedur \npembentukan, kewenangan, dan masa jabatan organ kepemimpinan \npartai. Ketentuan tersebut menunjukkan adanya kewajiban hukum \nbagi partai politik untuk menjalankan mekanisme pergantian \nkepemimpinan secara jelas, teratur, dan demokratis.  \n\n20",
+      "start_line": 794,
+      "end_line": 802
+    },
+    {
+      "heading": "10. Bahwa menurut para Pemohon, pengaturan di Ukraina bertujuan",
+      "slug": "10-bahwa-menurut-para-pemohon-pengaturan-di-ukraina-bertujuan",
+      "text": "mencegah sentralisasi kekuasaan dalam tubuh partai politik sert a \nmenjaga akuntabilitas pimpinan partai terhadap anggota partai melalui \nkewajiban regenerasi kepemimpinan secara periodik.",
+      "start_line": 804,
+      "end_line": 806
+    },
+    {
+      "heading": "11. Bahwa di Meksiko, pengaturan mengenai partai politik diatur dalam",
+      "slug": "11-bahwa-di-meksiko-pengaturan-mengenai-partai-politik-diatur-dalam",
+      "text": "Ley General de Partidos Políticos yang mengatur norma dan prosedur \ndemokratis untuk pembentukan dan pembaruan organ internal parta i \npolitik. Selain itu, hukum nasional Meksiko juga mengatur keberadaan \norgan tertinggi partai politik yang memiliki kewenangan melakuk an \nevaluasi dan pembaruan kepemimpinan partai.",
+      "start_line": 808,
+      "end_line": 812
+    },
+    {
+      "heading": "12. Bahwa menurut para Pemohon, pengaturan di Meksiko menunjukk an",
+      "slug": "12-bahwa-menurut-para-pemohon-pengaturan-di-meksiko-menunjukk-an",
+      "text": "adanya keterlibatan negara dalam memastikan regenerasi \nkepemimpinan partai politik berjalan secara demokratis guna \nmencegah dominasi kekuasaan oleh satu figur tertentu dalam part ai \npolitik.",
+      "start_line": 814,
+      "end_line": 817
+    },
+    {
+      "heading": "13. Bahwa berdasarkan praktik perbandingan hukum di berbagai ne gara",
+      "slug": "13-bahwa-berdasarkan-praktik-perbandingan-hukum-di-berbagai-ne-gara",
+      "text": "tersebut, terlihat bahwa negara-negara demokrasi modern pada \numumnya tidak membiarkan kekuasaan dalam partai politik \nterkonsentrasi tanpa mekanisme kontrol. Negara-negara tersebut \nmembangun sistem demokrasi internal partai politik melalui kewajiban \nregenerasi dan pemilihan kepemimpinan secara periodik.",
+      "start_line": 819,
+      "end_line": 823
+    },
+    {
+      "heading": "14. Bahwa secara umum terdapat tiga instrumen utama yang diguna kan",
+      "slug": "14-bahwa-secara-umum-terdapat-tiga-instrumen-utama-yang-diguna-kan",
+      "text": "berbagai negara untuk membatasi konsentrasi kekuasaan pimpinan \npartai politik, yaitu kewajiban demokrasi internal partai, pemi lihan \nkepemimpinan secara periodik, serta mekanisme evaluasi dan \nregenerasi kepemimpinan partai politik.",
+      "start_line": 825,
+      "end_line": 828
+    },
+    {
+      "heading": "15. Bahwa melalui ketiga instrumen tersebut, hukum nasional di berbagai",
+      "slug": "15-bahwa-melalui-ketiga-instrumen-tersebut-hukum-nasional-di-berbagai",
+      "text": "negara berupaya mencegah konsentrasi kekuasaan yang terlalu lama \npada satu figur politik tertent u serta menjaga akuntabilitas pi mpinan \npartai terhadap anggota partai dan masyarakat.",
+      "start_line": 830,
+      "end_line": 832
+    },
+    {
+      "heading": "16. Bahwa berdasarkan praktik perbandingan hukum tersebut, menu rut",
+      "slug": "16-bahwa-berdasarkan-praktik-perbandingan-hukum-tersebut-menu-rut",
+      "text": "para Pemohon, pembatasan kekuasaan pimpinan partai politik \nmerupakan bagian yang tidak terpisahkan dari prinsip demokrasi dan \n\n21 \n \nnegara hukum sebagaimana dijamin dalam Pasal 1 ayat (2) dan Pasal \n1 ayat (3) UUD NRI Tahun 1945.",
+      "start_line": 834,
+      "end_line": 840
+    },
+    {
+      "heading": "17. Bahwa berbeda dengan berbagai negara demokrasi tersebut, Pa sal",
+      "slug": "17-bahwa-berbeda-dengan-berbagai-negara-demokrasi-tersebut-pa-sal",
+      "text": "23 ayat (1) Undang-Undang Nomor 2 Tahun 2011 tentang Partai \nPolitik justru menyerahkan sepenuhnya mekanisme pergantian \nkepengurusan partai politik kepada AD dan ART partai tanpa adan ya \npengaturan yang memadai mengenai pembatasan kekuasaan, \nregenerasi kepemimpinan, maupun mekanisme demokrasi internal \nyang efektif.",
+      "start_line": 842,
+      "end_line": 847
+    },
+    {
+      "heading": "18. Bahwa kondisi tersebut berpotensi menimbulkan konsentrasi",
+      "slug": "18-bahwa-kondisi-tersebut-berpotensi-menimbulkan-konsentrasi",
+      "text": "kekuasaan dalam tubuh partai politik secara berkepanjangan dan \nmembuka ruang berkembangnya praktik oligarki politik yang \nbertentangan dengan prinsip kedaulatan rakyat, negara hukum, da n \nkesempatan yang sama dalam pemerintahan sebagaimana dijamin \ndalam UUD NRI Tahun 1945.",
+      "start_line": 849,
+      "end_line": 853
+    },
+    {
+      "heading": "19. Bahwa oleh karena itu, menurut para Pemohon, negara memilik i",
+      "slug": "19-bahwa-oleh-karena-itu-menurut-para-pemohon-negara-memilik-i",
+      "text": "kewenangan konstitusional untuk mengatur pembatasan kekuasaan \ndalam partai politik guna memastikan partai politik tetap menja lankan \nprinsip demokrasi internal dan tidak menjadi instrumen konsolid asi \nkekuasaan oleh elit politik tertentu secara terus-menerus.  \nE. TABEL RINCIAN BANTUAN KEUANGAN UNTUK PARTAI POLITIK",
+      "start_line": 855,
+      "end_line": 859
+    },
+    {
+      "heading": "MENDAPATKAN",
+      "slug": "mendapatkan",
+      "text": "APBN",
+      "start_line": 866,
+      "end_line": 866
+    },
+    {
+      "heading": "1. PDIP 110 kursi",
+      "slug": "1-pdip-110-kursi",
+      "text": "(25.384.673 \nsuara) \nRp1000 Rp1000 x \n25.384.673 \n(suara) : Rp. \n25.384.673.000",
+      "start_line": 871,
+      "end_line": 876
+    },
+    {
+      "heading": "2. GOLKAR 102 kursi",
+      "slug": "2-golkar-102-kursi",
+      "text": "(23.208.488 \nsuara) \nRp1000 Rp1000 x \n23.208.488 \n(suara): Rp. \n23.208.488.000",
+      "start_line": 878,
+      "end_line": 883
+    },
+    {
+      "heading": "3. GERINDRA 86 kursi",
+      "slug": "3-gerindra-86-kursi",
+      "text": "(20.071.345 \nsuara) \nRp1000 Rp1000 x \n20.071.345 \n(suara): Rp. \n20.071.345.000 \n\n22",
+      "start_line": 885,
+      "end_line": 893
+    },
+    {
+      "heading": "4. PKB 68 kursi",
+      "slug": "4-pkb-68-kursi",
+      "text": "(16.115.358 \nsuara) \nRp1000 Rp1000 x \n16.115.358 \n(suara): Rp. \n16.115.358.000",
+      "start_line": 895,
+      "end_line": 900
+    },
+    {
+      "heading": "5. NASDEM 69 kursi",
+      "slug": "5-nasdem-69-kursi",
+      "text": "(660.328 \nsuara) \nRp1000 Rp1000 x \n14.660.328 \n(suara): Rp. \n14.660.328.000",
+      "start_line": 902,
+      "end_line": 907
+    },
+    {
+      "heading": "6. PKS 53 kursi",
+      "slug": "6-pks-53-kursi",
+      "text": "(12.781.241 \nsuara) \nRp1000 Rp1000 x \n12.781.241 \n(suara): Rp. \n12.781.241.000",
+      "start_line": 909,
+      "end_line": 914
+    },
+    {
+      "heading": "7. DEMOKRAT 44 kursi",
+      "slug": "7-demokrat-44-kursi",
+      "text": "(11.283.053 \nsuara) \n \nRp1000 Rp1000 x \n11.283.053 \n(suara): Rp. \n11.283.053.000",
+      "start_line": 916,
+      "end_line": 922
+    },
+    {
+      "heading": "8. PAN 48 kursi",
+      "slug": "8-pan-48-kursi",
+      "text": "(10.984.639 \nsuara) \nRp1000 Rp1000 x \n10.984.639 \n(suara): Rp. \n10.984.639.000 \nmiliar",
+      "start_line": 924,
+      "end_line": 930
+    },
+    {
+      "heading": "1. Bahwa Pasal 34 ayat (1) huruf c Undang-Undang Nomor 2 Tahun 2011",
+      "slug": "1-bahwa-pasal-34-ayat-1-huruf-c-undang-undang-nomor-2-tahun-2011",
+      "text": "tentang Partai Politik menyatakan bahwa sumber keuangan partai \npolitik berasal dari “bantuan keuangan dari Anggaran Pendapatan dan \nBelanja Negara/Anggaran Pendapatan dan Belanja Daerah”. \nKetentuan a quo menunjukkan bahwa partai politik merupakan institusi \nyang memperoleh dan menggunakan keuangan negara dalam \nmenjalankan fungsi konstitusionalnya dalam sistem demokrasi \nIndonesia.",
+      "start_line": 932,
+      "end_line": 938
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, negara secara aktif",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-negara-secara-aktif",
+      "text": "memberikan bantuan keuangan kepada partai politik yang \nmemperoleh suara dalam Pemilihan Umum. Adapun besaran bantuan \nkeuangan tersebut dihitung berdasarkan jumlah suara sah yang \ndiperoleh partai politik dengan nominal bantuan sebesar Rp1.000 ,00 \n(seribu rupiah) per suara sah.",
+      "start_line": 940,
+      "end_line": 944
+    },
+    {
+      "heading": "3. Bahwa berdasarkan data bantuan keuangan partai politik tingk at",
+      "slug": "3-bahwa-berdasarkan-data-bantuan-keuangan-partai-politik-tingk-at",
+      "text": "pusat, Partai Demokrasi Indonesia Perjuangan (PDIP) memperoleh \n25.384.673 suara sehingga men dapatkan bantuan APBN sebesar \n\n23 \n \nRp25.384.673.000,00 (dua puluh lima miliar tiga ratus delapan p uluh \nempat juta enam ratus tujuh puluh tiga ribu rupiah). Partai Gol ongan \nKarya (Golkar) memperoleh 23.208.488 suara dengan bantuan APBN \nsebesar Rp23.208.488.000,00 (dua puluh tiga miliar dua ratus delapan \njuta empat ratus delapan puluh delapan ribu rupiah), sedangkan Partai \nGerakan Indonesia Raya (Gerindra) memperoleh 20.071.345 suara \ndengan bantuan APBN sebesar Rp20.071.345.000,00 (dua puluh \nmiliar tujuh puluh satu juta tiga ratus empat puluh lima ribu rupiah).",
+      "start_line": 946,
+      "end_line": 958
+    },
+    {
+      "heading": "4. Bahwa selain itu, Partai K ebangkitan Bangsa (PKB) memperoleh",
+      "slug": "4-bahwa-selain-itu-partai-k-ebangkitan-bangsa-pkb-memperoleh",
+      "text": "bantuan APBN sebesar Rp16.115.358.000,00 (enam belas miliar \nseratus lima belas juta tiga ratus lima puluh delapan ribu rupiah), Partai \nNasDem memperoleh Rp14.660.328.000,00 (empat belas miliar enam \nratus enam puluh juta tiga ratus dua puluh delapan ribu rupiah), Partai \nKeadilan Sejahtera (PKS) memperoleh Rp12.781.241.000,00 (dua \nbelas miliar tujuh ratus delapan puluh satu juta dua ratus empat puluh \nsatu ribu rupiah), Partai Demokrat memperoleh Rp11.283.053.000,00 \n(sebelas miliar dua ratus delapan puluh tiga juta lima puluh ti ga ribu \nrupiah), dan Partai Amanat Nasional (PAN) memperoleh \nRp10.984.639.000,00 (sepuluh miliar sembilan ratus delapan pulu h \nempat juta enam ratus tiga puluh sembilan ribu rupiah).",
+      "start_line": 960,
+      "end_line": 970
+    },
+    {
+      "heading": "5. Bahwa besarnya bantuan keuangan negara kepada partai politik",
+      "slug": "5-bahwa-besarnya-bantuan-keuangan-negara-kepada-partai-politik",
+      "text": "sebagaimana dimaksud di atas menunjukkan bahwa partai politik \nbukan lagi sekadar organisasi privat, melainkan institusi publi k yang \nmenjalankan fungsi strategis dalam sistem ketatanegaraan, \nkhususnya dalam rekrutmen kepemimpinan nasional, pendidikan \npolitik, serta penyaluran aspirasi rakyat.",
+      "start_line": 972,
+      "end_line": 976
+    },
+    {
+      "heading": "6. Bahwa oleh karena partai politik menggunakan anggaran negara yang",
+      "slug": "6-bahwa-oleh-karena-partai-politik-menggunakan-anggaran-negara-yang",
+      "text": "bersumber dari uang rakyat, maka tata kelola partai politik seharusnya \ndilaksanakan secara demokratis, transparan, dan akuntabel sesua i \ndengan prinsip negara hukum sebagaimana diatur dalam Pasal 1 ayat \n(3) UUD NRI Tahun 1945.",
+      "start_line": 978,
+      "end_line": 981
+    },
+    {
+      "heading": "7. Bahwa namun demikian, Pasal 23 ayat (1) Undang-Undang Nomor 2",
+      "slug": "7-bahwa-namun-demikian-pasal-23-ayat-1-undang-undang-nomor-2",
+      "text": "Tahun 2011 tentang Partai Politik yang menyerahkan sepenuhnya \n\n24 \n \nmekanisme pergantian kepengurusan kepada AD dan ART partai \npolitik tanpa adanya pembatasan masa jabatan ketua umum partai \npolitik, berpotensi menyebabkan bantuan keuangan negara \nsebagaimana dimaksud dalam Pasal 34 ayat (1) huruf c Undang-\nUndang Nomor 2 Tahun 2011 tentang Partai Politik  justru memperkuat \ndominasi kekuasaan elit partai politik tertentu secara terus-menerus.",
+      "start_line": 983,
+      "end_line": 992
+    },
+    {
+      "heading": "8. Bahwa kondisi tersebut menimbulkan persoalan konstitusional karena",
+      "slug": "8-bahwa-kondisi-tersebut-menimbulkan-persoalan-konstitusional-karena",
+      "text": "negara secara tidak langsung memberikan pembiayaan terhadap \nstruktur kekuasaan partai politik yang tidak memiliki mekanisme  \npembatasan kekuasaan yang jelas. Akibatnya, bantuan keuangan \nnegara yang seharusnya digunakan untuk memperkuat demokrasi \njustru berpotensi memperkuat oligarki politik dalam tubuh partai politik.",
+      "start_line": 994,
+      "end_line": 998
+    },
+    {
+      "heading": "9. Bahwa dengan adanya pembiayaan partai politik yang bersumber dari",
+      "slug": "9-bahwa-dengan-adanya-pembiayaan-partai-politik-yang-bersumber-dari",
+      "text": "APBN dan/atau APBD, masyarakat sebagai pembayar pajak, \ntermasuk para Pemohon sebagai warga negara dan mahasiswa, \nmemiliki kepentingan konstitusi onal untuk memastikan bahwa \npenggunaan keuangan negara tersebut dilaksanakan secara \ndemokratis dan tidak digunakan untuk mempertahankan dominasi \nkekuasaan elit partai politik tertentu secara berkepanjangan.",
+      "start_line": 1000,
+      "end_line": 1005
+    },
+    {
+      "heading": "10. Bahwa oleh karena Pasal 34 ayat (1) huruf c Undang-Undang N omor",
+      "slug": "10-bahwa-oleh-karena-pasal-34-ayat-1-huruf-c-undang-undang-n-omor",
+      "text": "2 Tahun 2011 tentang Partai Politik berkaitan erat dengan \nkeberlangsungan tata kelola dan konsolidasi kekuasaan internal partai \npolitik yang dibiayai oleh negara, maka keberadaan norma terseb ut \ntidak dapat dipisahkan dari pengujian konstitusionalitas Pasal 23 ayat \n(1) Undang-Undang Nomor 2 Tahun 2011 tentang Partai Politik \nterhadap Pasal 1 ayat (2), Pasal 1 ayat (3), dan Pasal 28D ayat  (3) \nUUD NRI Tahun 1945. \nF. TABEL PERBANDINGAN DANA APBN UNTUK PARTAI POLITIK",
+      "start_line": 1007,
+      "end_line": 1014
+    },
+    {
+      "heading": "PENGGUNAAN",
+      "slug": "penggunaan",
+      "text": "25",
+      "start_line": 1023,
+      "end_line": 1025
+    },
+    {
+      "heading": "1. JERMAN Parteienge",
+      "slug": "1-jerman-parteienge",
+      "text": "setz §18–\n§24 \nSubsidi negara \ndari APBN rata-\nrata ± €190–200 \njuta/tahun \n(berbasis suara \npemilu) \nWajib laporan tahunan \nterbuka kepada publik \ndan parleme",
+      "start_line": 1027,
+      "end_line": 1037
+    },
+    {
+      "heading": "2. INGGRIS Political",
+      "slug": "2-inggris-political",
+      "text": "Parties, \nElections \nand \nReferendu\nms Act \n2000 \nBantuan APBN \n(Short Money) ± \n£10–12 juta/tahun \nuntuk partai \noposisi \nLaporan wajib ke \nElectoral Commission \ndan dipublikasikan",
+      "start_line": 1039,
+      "end_line": 1052
+    },
+    {
+      "heading": "SERIKAT",
+      "slug": "serikat",
+      "text": "Federal \nElection \nCampaign \nAct (FECA) \n1971 \n§9006 \nDana APBN untuk \npemilu presiden ± \nUS$100–250 \njuta/siklus \nLaporan terbuka \nmelalui Federal \nElection Commission \n(online disclosure)",
+      "start_line": 1055,
+      "end_line": 1068
+    },
+    {
+      "heading": "SELATAN",
+      "slug": "selatan",
+      "text": "Political \nFunds Act \nSubsidi APBN ± \n₩40–50 \nmiliar/tahun \nWajib audit & \ndiumumkan oleh \nNational Election \nCommission",
+      "start_line": 1071,
+      "end_line": 1079
+    },
+    {
+      "heading": "5. SWEDIA Act",
+      "slug": "5-swedia-act",
+      "text": "(2018:90) \non Party \nFinance \nTransparen\nc\ny\nDana APBN ± \nSEK 170–200 \njuta/tahun \nLaporan terbuka dapat \ndiakses publik dan \nmedia",
+      "start_line": 1081,
+      "end_line": 1092
+    },
+    {
+      "heading": "1. Bahwa Pemohon memandang penting bagi Mahkamah untuk",
+      "slug": "1-bahwa-pemohon-memandang-penting-bagi-mahkamah-untuk",
+      "text": "meninjau praktik terbaik (best practices) di berbagai negara demokrasi \nmaju yang menempatkan pendanaan Partai Politik melalui Anggaran  \nPendapatan dan Belanja Negara  (APBN) bukan sekadar sebagai \nbantuan keuangan, melainkan sebagai instrumen untuk menjaga \nkemandirian partai dari pengaruh donor gelap (black market of politics) \nserta memastikan transparansi publik.",
+      "start_line": 1094,
+      "end_line": 1099
+    },
+    {
+      "heading": "2. Bahwa merujuk pada tabel di atas, terdapat benang merah",
+      "slug": "2-bahwa-merujuk-pada-tabel-di-atas-terdapat-benang-merah",
+      "text": "konstitusional (constitutional red-line) di mana pemberian dana APBN \nkepada partai politik selalu diikuti dengan kewajiban transparansi dan \nakuntabilitas yang mutlak. Hal ini sejalan dengan prinsip kedau latan \nrakyat bahwa setiap rupiah yang bersumber dari uang publik haru s \ndapat dipertanggungjawabkan penggunaannya kepada rakyat Bahwa \nperbandingan tersebut membuktikan bahwa pendanaan partai politi k \n\n26 \n \noleh negara merupakan hal yang lazim dalam negara hukum \n(rechtsstaat), sepanjang diatur dalam kerangka hukum yang menjamin \ntidak terjadinya penyalahgunaan kekuasaan ( abuse of power ) dan \nmemastikan bahwa partai politik menjalankan fungsinya sebagai \nsarana pendidikan politik bagi warga negara.",
+      "start_line": 1101,
+      "end_line": 1114
+    },
+    {
+      "heading": "3. Bahwa kegagalan pengaturan dalam menjamin transparansi",
+      "slug": "3-bahwa-kegagalan-pengaturan-dalam-menjamin-transparansi",
+      "text": "pendanaan partai politik di Indonesia, sebagaimana yang terjadi  saat \nini, merupakan pengabaian terhada p nilai-nilai akuntabilitas ya ng \nsecara universal telah diterapkan di negara-negara demokrasi \nsebagaimana disebut dalam poin-poin di atas. \nG. PERBANDINGAN DAN IMPLIKASI HUKUM",
+      "start_line": 1116,
+      "end_line": 1120
+    },
+    {
+      "heading": "1. Bahwa menurut para Pemohon, dalam praktik ketatanegaraan di",
+      "slug": "1-bahwa-menurut-para-pemohon-dalam-praktik-ketatanegaraan-di",
+      "text": "berbagai negara demokrasi modern, pemberian dana kepada partai \npolitik yang bersumber dari anggaran pendapatan dan belanja negara \n(APBN) pada prinsipnya tidak berdiri sendiri, melainkan selalu disertai \ndengan rezim hukum yang ketat mengenai transparansi, akuntabilitas, \ndan pengawasan publik. Hal tersebut menunjukkan bahwa dana publik \nyang dialokasikan kepada partai politik dipandang sebagai bagian dari \ninstrumen penguatan demokrasi, bukan sebagai fasilitas tanpa kontrol.",
+      "start_line": 1122,
+      "end_line": 1128
+    },
+    {
+      "heading": "2. Bahwa di Jerman, berdasarkan Parteiengesetz §18 sampai §24,",
+      "slug": "2-bahwa-di-jerman-berdasarkan-parteiengesetz-18-sampai-24",
+      "text": "negara memberikan subsidi partai politik yang bersumber langsun g \ndari APBN dengan rata-rata sekitar €190–200 juta per tahun \nberdasarkan perolehan suara pemilu. Dalam implementasinya, setiap \npartai politik wajib menyampaikan laporan keuangan tahunan yang  \nbersifat terbuka ( Rechenschaftsbericht) yang mencakup penerimaan \ndan penggunaan dana negara. Laporan tersebut tidak hanya \ndisampaikan kepada lembaga negara, tetapi juga dipublikasikan \nkepada masyarakat.",
+      "start_line": 1130,
+      "end_line": 1137
+    },
+    {
+      "heading": "3. Menurut para Pemohon, pengaturan tersebut menunjukkan bahwa",
+      "slug": "3-menurut-para-pemohon-pengaturan-tersebut-menunjukkan-bahwa",
+      "text": "dana APBN kepada partai politik hanya dapat dibenarkan sepanjan g \ndisertai mekanisme transparansi yang ketat dan pengawasan publi k \nyang efektif. Dengan demikian, hukum Jerman menempatkan dana \n\n27 \n \nAPBN sebagai instrumen demokrasi yang wajib \ndipertanggungjawabkan secara terbuka.",
+      "start_line": 1139,
+      "end_line": 1146
+    },
+    {
+      "heading": "4. Bahwa di Inggris, berdasarkan Political Parties, Elections and",
+      "slug": "4-bahwa-di-inggris-berdasarkan-political-parties-elections-and",
+      "text": "Referendums Act 2000 , negara memberikan bantuan APBN melalui \nskema Short Money dengan nilai sekitar £10–12 juta per tahun kepada \npartai oposisi. Dalam implementasinya, seluruh penerimaan dan \npenggunaan dana wajib dilaporkan kepada Electoral Commission dan \ndipublikasikan secara berkala kepada masyarakat.",
+      "start_line": 1148,
+      "end_line": 1152
+    },
+    {
+      "heading": "5. Menurut para Pemohon, pengaturan tersebut menunjukkan bahwa",
+      "slug": "5-menurut-para-pemohon-pengaturan-tersebut-menunjukkan-bahwa",
+      "text": "penggunaan dana APBN untuk partai politik tidak dapat dilepaska n \ndari prinsip keterbukaan dan akuntabilitas publik. Negara tidak  hanya \nmemberikan bantuan, tetapi juga memastikan bahwa setiap \npenggunaan dana dapat diawasi oleh lembaga independen maupun \nmasyarakat.",
+      "start_line": 1154,
+      "end_line": 1158
+    },
+    {
+      "heading": "6. Bahwa di Amerika Serikat, berdasarkan Federal Election Campaign",
+      "slug": "6-bahwa-di-amerika-serikat-berdasarkan-federal-election-campaign",
+      "text": "Act (FECA) 1971  §9006, negara memberikan dana publik untuk \npemilihan presiden yang bersumber dari APBN dengan nilai sekita r \nUS$100–250 juta per siklus pemilu. Dalam implementasinya, selur uh \nlaporan penerimaan dan pengeluaran dana tersebut wajib diumumkan \nsecara daring melalui Federal Election Commission.",
+      "start_line": 1160,
+      "end_line": 1164
+    },
+    {
+      "heading": "7. Menurut para Pemohon, keterbukaan tersebut menunjukkan bahwa",
+      "slug": "7-menurut-para-pemohon-keterbukaan-tersebut-menunjukkan-bahwa",
+      "text": "dana APBN dalam proses politik harus tunduk pada prinsip \ntransparansi total ( full disclosure), sehingga publik dapat mengawasi \nlangsung penggunaan dana negara oleh peserta pemilu.",
+      "start_line": 1166,
+      "end_line": 1168
+    },
+    {
+      "heading": "8. Bahwa di Korea Selatan, berdasarkan Political Funds Act , negara",
+      "slug": "8-bahwa-di-korea-selatan-berdasarkan-political-funds-act-negara",
+      "text": "memberikan subsidi APBN kepada partai politik sebesar sekitar ₩40–\n50 miliar per tahun. Dalam implementasinya, penggunaan dana \ntersebut wajib diaudit dan diumumkan kepada publik oleh National \nElection Commission.",
+      "start_line": 1170,
+      "end_line": 1173
+    },
+    {
+      "heading": "9. Menurut para Pemohon, hal tersebut menunjukkan bahwa negara",
+      "slug": "9-menurut-para-pemohon-hal-tersebut-menunjukkan-bahwa-negara",
+      "text": "menempatkan dana APBN sebagai bagian dari sistem penguatan \ndemokrasi yang harus diawasi secara ketat untuk mencegah \n\n28 \n \npenyalahgunaan kekuasaan dan menjaga kepercayaan publik \nterhadap partai politik.",
+      "start_line": 1175,
+      "end_line": 1181
+    },
+    {
+      "heading": "10. Bahwa di Swedia, berdasarkan Act (2018:90) on Transparency in",
+      "slug": "10-bahwa-di-swedia-berdasarkan-act-2018-90-on-transparency-in",
+      "text": "Party Financing, negara memberikan dana APBN kepada partai politik \ndengan rata-rata sekitar SEK 170–200 juta per tahun. Dalam \nimplementasinya, laporan keuangan partai wajib dibuka kepada publik \ndan dapat diakses secara luas oleh masyarakat dan media.",
+      "start_line": 1183,
+      "end_line": 1186
+    },
+    {
+      "heading": "11. Menurut para Pemohon, pengaturan tersebut menunjukkan bahwa",
+      "slug": "11-menurut-para-pemohon-pengaturan-tersebut-menunjukkan-bahwa",
+      "text": "dana APBN diperlakukan sebagai dana publik yang harus tunduk pada \nprinsip keterbukaan penuh sebagai bagian dari open government.",
+      "start_line": 1188,
+      "end_line": 1189
+    },
+    {
+      "heading": "12. Bahwa berdasarkan praktik hukum di berbagai negara tersebut ,",
+      "slug": "12-bahwa-berdasarkan-praktik-hukum-di-berbagai-negara-tersebut",
+      "text": "menurut para Pemohon, dapat disimpulkan bahwa penggunaan dana \nAPBN untuk partai politik pada umumnya tidak pernah dilepaskan dari \nkewajiban transparansi, pelaporan, dan pengawasan publik yang \nketat.",
+      "start_line": 1191,
+      "end_line": 1194
+    },
+    {
+      "heading": "13. Bahwa menurut para Pemohon, konstruksi hukum tersebut",
+      "slug": "13-bahwa-menurut-para-pemohon-konstruksi-hukum-tersebut",
+      "text": "menunjukkan bahwa dana APBN yang diberikan kepada partai politi k \ntidak dapat dipandang sebagai hibah tanpa kontrol, melainkan sebagai \ninstrumen konstitusional untuk memperkuat demokrasi yang harus \ntunduk pada prinsip transparansi dan akuntabilitas publik.",
+      "start_line": 1196,
+      "end_line": 1199
+    },
+    {
+      "heading": "14. Bahwa oleh karena itu, menurut para Pemohon, pengaturan mengenai",
+      "slug": "14-bahwa-oleh-karena-itu-menurut-para-pemohon-pengaturan-mengenai",
+      "text": "bantuan APBN kepada partai politik dalam berbagai negara demokrasi \nmodern secara substansial menegaskan bahwa dana publik hanya \ndapat dibenarkan sepanjang disertai dengan mekanisme pengawasan \nyang efektif, terbuka, dan dapat diakses oleh masyarakat. \nH. UNSUR YURIDIS",
+      "start_line": 1201,
+      "end_line": 1205
+    },
+    {
+      "heading": "1. Dalam negara hukum modern, konstitusionalisme berfungsi untu k",
+      "slug": "1-dalam-negara-hukum-modern-konstitusionalisme-berfungsi-untu-k",
+      "text": "memastikan bahwa setiap bentuk kekuasaan harus tunduk pada \nhukum guna membatasi dominasi yang berpotensi sewenang-\nwenang. Para Pemohon menegaskan bahwa partai politik bukanlah \nsekadar organisasi kemasyarakatan biasa, melainkan pilar demokrasi \nyang memperoleh bant uan keuangan bersumber dari APBN dan \nAPBD. Oleh karena itu, aktivitas dan struktur kerja partai politik secara \n\n29 \n \nkonstitusional bersentuhan langsung dengan ranah publik. Namun,  \nPasal 23 ayat (1) UU Partai Politik yang memberikan wewenang \nmutlak pada AD/ART tanpa batasan demokratis yang jelas, justru \nmemicu pemusatan kekuasaan pada segelintir elite (oligarki). Ha l ini \nsejalan dengan adagium Lord Acton “Power tends to corrupt, absolute \npower corrupts absolutely .” Tanpa adanya intervensi norma yang \nmengatur standar demokrasi internal, kekuasaan tersebut akan \ncenderung digunakan hanya untuk mempertahankan status quo.",
+      "start_line": 1207,
+      "end_line": 1223
+    },
+    {
+      "heading": "2. Para Pemohon berdalil bahwa tidak boleh ada kewenangan tanpa",
+      "slug": "2-para-pemohon-berdalil-bahwa-tidak-boleh-ada-kewenangan-tanpa",
+      "text": "pertanggungjawaban. Sebagai entitas yang menjalankan fungsi publik \ndan menggunakan uang negara, pengelolaan kekuasaan di internal \npartai harus dilakukan secara transparan. Pasal 23 ayat (1) a quo yang \nmenyerahkan sepenuhnya mekanisme pergantian kepengurusan \nkepada AD/ART tanpa standar pengawasan negara, berpotensi \nmembuka ruang penyalahgunaan kekuasaan oleh elite partai. Hal i ni \nsecara nyata bertentangan dengan prinsip negara hukum \nsebagaimana dimaksud dalam Pasal 1 ayat (3) UUD 1945.",
+      "start_line": 1225,
+      "end_line": 1232
+    },
+    {
+      "heading": "3. Para Pemohon juga mendasarkan argumentasinya pada instrumen",
+      "slug": "3-para-pemohon-juga-mendasarkan-argumentasinya-pada-instrumen",
+      "text": "hukum internasional yang telah diratifikasi oleh Indonesia mela lui UU \nNomor 12 Tahun 2005 tentang Pengesahan International Covenant on \nCivil and Political Rights  (ICCPR). Hak Atas Urusan Publik: Pasal 25 \nICCPR menjamin hak setiap warga negara untuk ikut serta dalam \npenyelenggaraan urusan publik, baik secara langsung maupun melalui \nwakil yang dipilih secara bebas. Standar Komite HAM PBB: Meruju k \npada dokumen CCPR General Comment No. 25, hak partisipasi tidak \nberhenti pada bilik suara (right to vote), tetapi mencakup pengawasan \nterhadap wakil terpilih pasca-pemilu. Para Pemohon berpendapat \nbahwa ketika Pasal 23 ayat (1) UU Partai Politik membiarkan \nmekanisme internal partai menjadi \"bola liar\" di tangan AD/ART tanpa \nkontrol demokrasi, maka hak warga negara (termasuk anggota partai) \nuntuk berpartisipasi dalam urusan publik menjadi tereduksi. Ketiadaan \nstandar demokratis dalam UU a quo menghalangi akses warga negara \nterhadap layanan publik dan partisipasi politik yang setara, ka rena \n\n30 \n \nkedaulatan anggota partai dikalahkan oleh kedaulatan mutlak \npengurus pusat yang tidak dibatasi masa jabatan atau mekanismenya \noleh undang-undang.",
+      "start_line": 1234,
+      "end_line": 1254
+    },
+    {
+      "heading": "4. Para Pemohon berpendapat bahwa adanya pemberian bantuan",
+      "slug": "4-para-pemohon-berpendapat-bahwa-adanya-pemberian-bantuan",
+      "text": "keuangan dari APBN/APBD kepada partai politik sebagaimana diatu r \ndalam Pasal 34 ayat (1) huruf c UU Nomor 2 Tahun 2011, secara \nyuridis mengubah sifat dasar partai politik. Partai politik tidak lagi dapat \ndipandang murni sebagai organisasi privat (perkumpulan sukarela ), \nmelainkan telah menjadi entitas semi-publik. Penggunaan uang \nnegara (uang rakyat) memberikan beban tanggung jawab ( public \nburden) kepada partai untuk tunduk pada prinsip-prinsip keterbukaan \ndan demokrasi internal. Maka, penyerahan kedaulatan sepenuhnya \nkepada AD/ART dalam Pasal 23 ayat (1) tanpa adanya standar \ndemokratis yang ditetapkan oleh Undang-Undang adalah sebuah \npengabaian tanggung jawab negara dalam melindungi hak \nkonstitusional warga negaranya.",
+      "start_line": 1256,
+      "end_line": 1267
+    },
+    {
+      "heading": "5. Pengelolaan dana APBN/APBD oleh partai politik adalah urusan",
+      "slug": "5-pengelolaan-dana-apbn-apbd-oleh-partai-politik-adalah-urusan",
+      "text": "publik. Jika mekanisme internal partai (pergantian pengurus) te rtutup \ndan tidak demokratis, maka anggota partai dan warga negara \nkehilangan kesempatan untuk mengawasi bagaimana instrumen \nkekuasaan (partai) tersebut dijalankan. Pasal 25 ICCPR melarang \nadanya pembatasan yang tidak wajar terhadap hak politik. Para \nPemohon menilai bahwa otonomi mutlak AD/ART yang membiarkan \nadanya kepengurusan tanpa batas waktu atau tanpa mekanisme \nchecks and balances  adalah bentuk \"pembatasan tidak wajar\" yang \nsistematis terhadap hak anggota untuk terlibat dalam urusan par tai \nyang didanai negara.",
+      "start_line": 1269,
+      "end_line": 1278
+    },
+    {
+      "heading": "6. Para Pemohon selaku mahasiswa hukum menekankan bahwa",
+      "slug": "6-para-pemohon-selaku-mahasiswa-hukum-menekankan-bahwa",
+      "text": "ketidakpastian standar demokratis dalam UU Parpol merugikan hak  \nmereka untuk mendapatkan akses yang setara terhadap jabatan \npublik (access to public service). Apabila partai politik dikelola secara \noligarkis melalui celah Pasal 23 ayat (1), maka kaderisasi yang  sehat \ntidak akan berjalan. Hal ini menutup peluang bagi generasi muda  \n\n31 \n \n(mahasiswa) untuk berpartisipasi dalam politik nasional secara adil, \nkarena akses terhadap kepemimpinan partai disandera oleh \nkedaulatan mutlak segelintir elite yang tidak dibatasi oleh und ang-\nundang.",
+      "start_line": 1280,
+      "end_line": 1291
+    },
+    {
+      "heading": "7. Berdasarkan UU Nomor 12 Tahun 2005, negara memiliki kewajiba n",
+      "slug": "7-berdasarkan-uu-nomor-12-tahun-2005-negara-memiliki-kewajiba-n",
+      "text": "untuk melakukan harmonisasi hukum nasional dengan standar  \nICCPR. Para Pemohon memandang bahwa membiarkan Pasal 23 \nayat (1) tetap berdiri tanpa interpretasi yang mewajibkan stand ar \ndemokrasi internal adalah bentuk pengabaian negara terhadap \nkomitmen internasionalnya (Pasal 25 ICCPR). Negara tidak boleh \nmemberikan dana publik Pasal 34 ayat (1) huruf c kepada organis asi \nyang mekanisme internalnya berpotensi melanggar hak-hak sipil d an \npolitik anggotanya sendiri.",
+      "start_line": 1293,
+      "end_line": 1300
+    },
+    {
+      "heading": "8. Bahwa Para Pemohon Pasal 34 ayat (1) huruf c UU Parpol yang",
+      "slug": "8-bahwa-para-pemohon-pasal-34-ayat-1-huruf-c-uu-parpol-yang",
+      "text": "mengatur bantuan keuangan negara dengan prinsip kedaulatan rakyat \ndalam Pasal 1 ayat (2) UUD 1945, Para Pemohon merujuk pada \npemikiran Ingrid van Biezen. Dalam teorinya, Van Biezen berargumen \nbahwa ketika partai politik menerima pendanaan signifikan dari negara \n(APBN/APBD), status hukum partai tersebut bergeser dari organis asi \nprivat menjadi agen negara atau organ publik. \"Partai-partai te lah \nmenjadi begitu tergantung pada negara sehingga mereka secara \nefektif menjadi bagian dari aparatur negara, yang mengharuskan \nadanya tingkat regulasi negara dan akuntabilitas publik yang le bih \ntinggi.\" (Van Biezen, 2011). Oleh karena itu, Para Pemohon berd alil \nbahwa penyerahan mekanisme kedaulatan internal sepenuhnya \nkepada AD/ART dalam Pasal 23 ayat (1) tanpa adanya standar \ndemokrasi yang ditetapkan undang-undang adalah sebuah kegagalan \nkonstitusional. Institusi yang dibiayai oleh pajak rakyat wajib  tunduk \npada standar demokrasi publik, bukan hanya kedaulatan absolut e lite \npartai.",
+      "start_line": 1302,
+      "end_line": 1317
+    },
+    {
+      "heading": "9. Bahwa untuk mendukung dalil pelanggaran Pasal 28D ayat (3) U UD",
+      "slug": "9-bahwa-untuk-mendukung-dalil-pelanggaran-pasal-28d-ayat-3-u-ud",
+      "text": "1945 terkait hak atas kesempatan yang sama dalam pemerintahan, \nPara Pemohon mengutip tesis sosiolog Robert Michels. Michels \n\n32 \n \nmemperingatkan bahwa setiap organisasi, termasuk partai politik , \nmemiliki kecenderungan alamiah untuk memusatkan kekuasaan pada \nsegelintir elit.  \"Organisasi melahirkan dominasi dari mereka yang \nterpilih atas mereka yang memilih... Siapa yang menyebut organisasi, \ndia menyebut oligarki.\" (Michels, 1911). Para Pemohon berpendap at \nbahwa tanpa adanya batasan masa jabatan atau standar demokratis  \nyang tegas dalam Pasal 23 ayat (1), undang-undang secara tidak \nlangsung melegitimasi terbentuknya oligarki di dalam tubuh partai. Hal \nini menutup akses bagi warga negara (khususnya generasi muda dan \nmahasiswa) untuk berkompetisi secara adil, karena struktur part ai \nmenjadi kaku dan tertutup bagi perubahan kepemimpinan yang \ndemokratis. \nIV. PETITUM  \nBerdasarkan seluruh uraian sebagaimana tersebut di atas, Pemoho n \nmemohon kepada Mahkamah Konstitusi untuk memutus hal-hal sebaga i \nberikut:",
+      "start_line": 1319,
+      "end_line": 1339
+    },
+    {
+      "heading": "2. Menyatakan Pasal 23 ayat (1) juncto Pasal 34 ayat (1) huruf c Undang-",
+      "slug": "2-menyatakan-pasal-23-ayat-1-juncto-pasal-34-ayat-1-huruf-c-undang",
+      "text": "Undang Nomor 2 Tahun 2011 tentang Perubahan atas Undang Undang \nNomor 2 Tahun 2008 tentang Partai Politik Lembaran Negara Repub lik \nIndonesia Tahun 2011 Nomor 8, Tambahan Lembaran Negara Republik  \nIndonesia Nomor 5186, bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuat an \nhukum mengikat secara bersyarat ( conditionally unconstitutional ) \nsepanjang tidak dimaknai: \n“Pergantian kepengurusan Partai Politik di setiap tingkatan dil akukan \nsecara periodik untuk masa jabatan 5 (lima) tahun dan ketua umum partai \npolitik hanya dapat dipilih kembali untuk 1 (satu) kali masa ja batan \nberikutnya guna menjamin prinsip demokrasi internal, pembatasan  \nkekuasaan, serta akuntabilitas partai politik yang menerima ban tuan \nkeuangan dari Anggaran Pendapatan Belanja dan Negara dan/atau \nAnggaraan Pendapatan dan Belanja Daerah.” \n\n33",
+      "start_line": 1342,
+      "end_line": 1358
+    },
+    {
+      "heading": "3. Memerintahkan kepada pembentuk undang-undang untuk mengatur lebih",
+      "slug": "3-memerintahkan-kepada-pembentuk-undang-undang-untuk-mengatur-lebih",
+      "text": "lanjut mengenai batasan masa jabatan kepengurusan dan/atau ketua partai \npolitik secara jelas dan tegas dalam perubahan Undang-Undang te ntang \nPartai Politik berikutnya, guna menjamin pelaksaan prinsip keda ulatan \nrakyat, memperkuat sistem demokrasi internal partai politik, se rta \nmewujudkan prinsip negara hukum yang menjamin kepastian hukum, \ndalam perubahan Undang-Undang tentang Partai Politik selanjutnya.",
+      "start_line": 1360,
+      "end_line": 1365
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nAtau, apabila Mahkamah Konstitusi berpendapat lain, mohon putus an \nyang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa para Pemohon tidak mengajukan alat bukti untuk  \nmembuktikan dalil-dalil permohonannya. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1367,
+      "end_line": 1374
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a \nUndang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembar an Negara \nRepublik Indonesia Nomor 5076), Mahkamah berwenang, antara lain , mengadili \n\n34 \n \npada tingkat pertama dan terakhir yang putusannya bersifat fina l untuk menguji \nundang-undang terhadap UUD NRI Tahun 1945. \n[3.2]  Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 23 ayat (1) dan Pasal 34 \nayat (1) huruf c Undang-Undang Nomor 2 Tahun 2011 tentang Perub ahan Atas \nUndang-Undang Nomor 2 Tahun 2008 tentang Partai Politik (Lembar an Negara \nRepublik Indonesia Tahun 2011 Nomor 8, Tambahan Lembaran Negara  Republik \nIndonesia Nomor 5189, selanjutnya disebut UU 2/2011) terhadap U UD NRI Tahun \n1945 maka Mahkamah berwenang mengadili permohonan a quo. \n[3.3]  Menimbang bahwa meskipun ber wenang untuk me ngadili permohonan  \npara Pemohon, namun demikian sebelum mempertimbangkan lebih lanjut mengenai \nkedudukan hukum dan pokok permohonan, Mahkamah mempertimbangkan hal-hal \nsebagai berikut. \n[3.3.1]  Bahwa para Pemohon mengajukan permohonan awal bertanggal 6 Mei \n2026 melalui daring ( online), berdasarkan Akta Pengajuan Permohonan Pemohon \nNomor 216/PUU/PAN.MK/AP3/06/2026 permohonan para Pemohon diteri ma oleh \nMahkamah pada tanggal 11 Juni 2026 dan berdasarkan Daftar Kelen gkapan \nPengajuan Permohonan Pemohon (DKP3) permohonan para Pemohon tid ak \ndisertai dengan alat bukti yang dibubuhi meterai; \n[3.3.2] Bahwa sesuai dengan ketentuan hukum acara pengujian undang-undang, \nMahkamah telah melaksanakan sidang Pemeriksaan Pendahuluan dengan agenda \nmendengarkan pokok-pokok permohonan, memeriksa kelengkapan dan kejelasan \nmateri Permohonan pada hari Rabu, tanggal 24 Juni 2026.  Dalam persidangan \ntersebut, sesuai dengan ketentuan Pasal 39 UU MK dan Pasal 36 a yat (3) PMK \n7/2025, Mahkamah telah memberikan nasihat kepada para Pemohon agar \nmemperbaiki sekaligus memperjelas hal-hal yang berkaitan dengan  permohonan \npara Pemohon, yakni kewenangan Mahkamah, kedudukan hukum (legal standing), \nalasan permohonan (posita), dan hal-hal yang dimohonkan untuk d iputus (petitum) \nsehingga permohonan a quo sesuai dengan sistematika permohonan sebagaimana \ndiatur dalam PMK 7/2025 [vide Risalah sidang, tanggal 24 Juni 2 026, hlm. 20-24, \n26-27, 28-29]. Sesuai dengan ketentuan hukum acara, Mahkamah te lah \n\n35 \n \nmemberikan kesempatan kepada para Pemohon untuk memperbaiki per mohonan \npaling lama 14 (empat belas) hari sejak dilaksanakan sidang Pem eriksaan \nPendahuluan dengan agenda mendengarkan pokok-pokok permohonan d engan \nbatas waktu penyerahan perbaikan adalah pada tanggal 7 Juli  20 26,  pukul 12.00 \nWIB. Berkenaan dengan batas penyerahan perbaikan permohonan ter sebut, telah \nternyata hingga batas waktu penyerahan perbaikan permohonan yaitu tanggal 7 Juli  \n2026, pukul 12.00 WIB, para Pemohon tidak mengajukan perbaikan permohonan. \n[3.3.3] Bahwa lebih lanjut, pada tanggal 7 Juli  2026 pukul 13.46 WIB, Mahkamah \nmenyelenggarakan sidang pendahuluan dengan agenda menerima poko k-pokok \nperbaikan permohonan dan pengesahan alat bukti. Namun, pada per sidangan \ndimaksud bahkan hingga sidang tersebut berakhir, para Pemohon tidak hadir tanpa \nalasan yang sah meskipun telah dipanggil secara patut [vide Risalah Sidang, tanggal \n7 Juli 2026, hlm. 7]. Oleh karena para Pemohon tidak hadir dala m persidangan \ndimaksud maka Mahkamah tidak dapat melakukan konfirmasi terkait para Pemohon \nyang tidak mengajukan perbaikan permohonan. \n[3.3.4] Bahwa berkenaan dengan keterpenuhan syarat formil pengajuan \npermohonan, salah satu kelengkapan yang disampaikan pada saat p engajuan \npermohonan adalah alat bukti yang mendukung permohonan [vide Pasal 10 ayat (4) \nPMK 7/2025], dan berdasarkan Pasal 12 ayat (3) PMK 7/2025 terha dap pengajuan \npermohonan yang diajukan secara daring ( online) maka pengajuan permohonan \ntersebut disertai dengan alat bukti  sebanyak 1 (satu) eksemplar yang telah dibubuhi \nmeterai. Berdasarkan ketentuan tersebut, setelah Mahkamah mence rmati secara \nsaksama, pada saat menyampaikan permohonan awal para Pemohon ha nya \nmenyerahkan daftar alat bukti tanpa disertai alat bukti yang di bubuhi meterai untuk \nmendukung permohonannya. Terhadap hal tersebut pada sidang peme riksaan \npendahuluan pada tanggal 24 Juni 2026, telah diperingatkan oleh Mahkamah untuk \nmenyertakan alat bukti yang dibubuhi meterai [vide Risalah Sidang, tanggal 24 Juni \n2026 hlm. 30], namun hingga selesainya tenggat waktu penyerahan  perbaikan \npermohonan, para Pemohon tidak menyerahkan alat bukti yang dibubuhi meterai.  \n Berdasarkan fakta-fakta hukum tersebut di atas, sekalipun para  Pemohon \ntidak menyerahkan perbaikan permohonan, Mahkamah dapat memperti mbangkan \npermohonan awal. Namun, oleh karena permohonan para Pemohon tid ak disertai \n\n36 \n \ndengan alat bukti yang sah sebagaimana dimaksudkan dalam Pasal 10 ayat (4) dan \nPasal 12 ayat (3) PMK 7/2025 sehingga tidak terdapat keraguan b agi Mahkamah \nuntuk menyatakan permohonan para Pemohon tidak memenuhi syarat formil \npengajuan permohonan pengujian undang-undang. \n[3.4] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum di \natas, meskipun Mahkamah berwenang mengadili permohonan para Pem ohon, \nnamun oleh karena permohonan tidak memenuhi persyaratan formil pengajuan \npermohonan pengujian undang-undang maka Mahkamah tidak mempertimbangkan \nlebih lanjut permohonan para Pemohon. \n[3.5] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1376,
+      "end_line": 1470
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 1472,
+      "end_line": 1472
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan para Pemohon; \n[4.2] Permohonan para Pemohon tidak memenuhi syarat formil pengajuan \npermohonan; \n[4.3] Permohonan para Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554) da n Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076). \n\n37",
+      "start_line": 1474,
+      "end_line": 1489
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan para Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,             \nM. Guntur Hamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai \nAnggota, pada hari Rabu, tanggal delapan, bulan Juli, tahun dua ribu dua puluh \nenam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka u ntuk \numum pada hari Kamis, tanggal dua puluh tiga, bulan Juli, tahun dua ribu dua \npuluh enam, selesai diucapkan pukul 14.00 WIB, oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Enn y Nurbaningsih, \nRidwan Mansyur, Arsul Sani, Daniel Yusmic P. Foekh, M. Guntur H amzah, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu \noleh Ria Indriyani sebagai Panitera Pengganti, serta dihadiri oleh Dewan Perwakilan \nRakyat atau yang mewakili, dan Presiden atau yang mewakili, tan pa dihadiri para \nPemohon. \nKETUA, \nttd \nSuhartoyo \nANGGOTA-ANGGOTA, \nTtd \nSaldi Isra \nttd \nEnny Nurbaningsih \nTtd \nRidwan Mansyur  \nttd \nArsul Sani  \nttd \nDaniel Yusmic P. Foekh \nttd \nM. Guntur Hamzah \n\n38 \n \nttd \nAdies Kadir \nttd \nLiliek Prisbawono Adi  \nPANITERA PENGGANTI, \nttd \nRia Indriyani",
+      "start_line": 1491,
+      "end_line": 1533
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Aditya Zain",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Affan Kurnia Fawwaz",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Alysa Milano Sepania",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Bryand Alexandros Try Suranta K",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Fransisca Denis Febrianti",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Mukhammad Bramasetia Zidan A",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 2/2011 tentang Perubahan atas UU 2/2008 tentang Partai Politik"
+    ],
+    "constitutional_articles": [
+      "Pasal 1 ayat (3)",
+      "Pasal 1 ayat (2)",
+      "Pasal 28D ayat (1)",
+      "Pasal 7",
+      "Pasal 28D ayat (3)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "REFERENSI:217/PUU-XXIV/2026",
+      "REFERENSI:16/PUU/PAN.MK/AP3/06/2026",
+      "REFERENSI:006/PUUIII/2005yangdiucapkandalam5sidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:69/PUU-XXI/2023",
+      "REFERENSI:216/PUU/PAN.MK/AP3/06/2026"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Ria Indriyani"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "217/PUU-XXIV/2026",
+      "16/PUU/PAN.MK/AP3/06/2026",
+      "006/PUUIII/2005yangdiucapkandalam5sidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "69/PUU-XXI/2023",
+      "216/PUU/PAN.MK/AP3/06/2026"
+    ],
+    "referenced_cases": [
+      "217/PUU-XXIV/2026",
+      "16/PUU/PAN.MK/AP3/06/2026",
+      "006/PUUIII/2005yangdiucapkandalam5sidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "69/PUU-XXI/2023",
+      "216/PUU/PAN.MK/AP3/06/2026"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

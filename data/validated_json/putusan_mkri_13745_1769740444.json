@@ -1,0 +1,1365 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_13745_1769740444.pdf",
+    "file_name": "putusan_mkri_13745_1769740444.pdf",
+    "page_count": 72,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_13745_1769740444.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "243/PUU-XXIII/2025",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-01-30",
+    "decision_date_raw": "tiga puluh, bulan Januari, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 3
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 243/PUU-XXIII/2025",
+      "start_line": 5,
+      "end_line": 5
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili pengujian undang -undang pada tingkat pertama dan  \nterakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang \nNomor 12 Tahun 2012 tentang Pendidikan Tinggi terhadap Undang-U ndang Dasar \nNegara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 7,
+      "end_line": 11
+    },
+    {
+      "heading": "1. Nama : Bernita Matondang",
+      "slug": "1-nama-bernita-matondang",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Kemang Swatama GG. Toni Nomor 82, \nRT 005/RW 005, Kelurahan Cilodong, \nKecamatan Cilodong, Kota Depok, Provinsi \nJawa Barat \n Selanjutnya disebut sebagai - ------------------------------------- Pemohon I;",
+      "start_line": 13,
+      "end_line": 18
+    },
+    {
+      "heading": "2. Nama : Ariyanto Zalukhu",
+      "slug": "2-nama-ariyanto-zalukhu",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Komp. Dit.Jen. Moneter C-51, RT 005/RW 003, \nKelurahan Kembangan Selatan, Kecamatan \nKembangan, Jakarta Barat, Provinsi DK Jakarta\n Selanjutnya disebut sebagai ---------------------------------- --- Pemohon II;",
+      "start_line": 20,
+      "end_line": 24
+    },
+    {
+      "heading": "3. Nama : Susi Lestari",
+      "slug": "3-nama-susi-lestari",
+      "text": "Pekerjaan : Mahasiswa \n Alamat :  Kp. Cihideung, RT 003/RW 001, Desa \nGunungsari, Kecamatan Sukaratu, Kabupaten \nTasikmalaya, Provinsi Jawa Barat \n Selanjutnya disebut sebagai ---------------------------------- --- Pemohon III;",
+      "start_line": 26,
+      "end_line": 30
+    },
+    {
+      "heading": "4. Nama : Nova Syafariyanto Prambudi",
+      "slug": "4-nama-nova-syafariyanto-prambudi",
+      "text": "Pekerjaan : Mahasiswa  \n\n\n2 \n \n Alamat : Jalan KH. Mursan, RT 004/RW 002, Kelurahan \nBelendung, Kecamatan Benda, Kota \nTangerang, Provinsi Banten \n Selanjutnya disebut sebagai ---------------------------------- -- Pemohon IV;",
+      "start_line": 32,
+      "end_line": 40
+    },
+    {
+      "heading": "5. Nama : Indah Lidiayani",
+      "slug": "5-nama-indah-lidiayani",
+      "text": "Pekerjaan : Mahasiswa \n Alamat :  Grugul, RT 020/RW 007, Kelurahan Rajawana, \nKecamatan Karangmoncol, Kabupaten \nPurbalingga, Provinsi Jawa Tengah  \n Selanjutnya disebut sebagai ---------------------------------- --- Pemohon V;",
+      "start_line": 42,
+      "end_line": 46
+    },
+    {
+      "heading": "6. Nama : Ananda Putri Puspita",
+      "slug": "6-nama-ananda-putri-puspita",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Kp. Buaran, RT 013/RW 002, Kelurahan Cakung \nTimur, Kecamatan Cakung, Jakarta Timur, \nProvinsi DK Jakarta \n Selanjutnya disebut sebagai ---------------------------------- -- Pemohon VI;",
+      "start_line": 48,
+      "end_line": 52
+    },
+    {
+      "heading": "7. Nama : Lely Diana Hatan",
+      "slug": "7-nama-lely-diana-hatan",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Pahlelo, RT 007/RW 004, Kelurahan Uiboa, \nKecamatan Semau Selatan, Kabupaten \nKupang, Provinsi Nusa Tenggara Timur \n Selanjutnya disebut sebagai ---------------------------------- - Pemohon VII;",
+      "start_line": 54,
+      "end_line": 58
+    },
+    {
+      "heading": "8. Nama : M. Imelda Novita S.",
+      "slug": "8-nama-m-imelda-novita-s",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Permata Bintaro Jalan Trulek V HG 24/7, RT \n003/RW 008, Kelurahan Parigi, Kecamatan \nPondok Aren, Kota Tangerang Selatan, Provinsi \nBanten \n Selanjutnya disebut sebagai ---------------------------------- - Pemohon VIII;",
+      "start_line": 60,
+      "end_line": 65
+    },
+    {
+      "heading": "9. Nama : Karwana Sakaliou",
+      "slug": "9-nama-karwana-sakaliou",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Sri Bunga, RT 007/RW 003, Kelurahan Sri \nBunga, Kecamatan Buay Pemuka Bangsa Raja, \n\n3 \n \nKabupaten Ogan Komering Ulu Timur, Provinsi \nSumatera Selatan \n Selanjutnya disebut sebagai ---------------------------------- -- Pemohon IX;",
+      "start_line": 67,
+      "end_line": 75
+    },
+    {
+      "heading": "10. Nama : Ame Mira Putri Pramesti",
+      "slug": "10-nama-ame-mira-putri-pramesti",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Dusun Cinangka, RT 017/RW 004, Kelurahan \nBabakan, Kecamatan Karangpucung, \nKabupaten Cilacap, Provinsi Jawa Tengah \n Selanjutnya disebut sebagai ---------------------------------- --- Pemohon X;",
+      "start_line": 77,
+      "end_line": 81
+    },
+    {
+      "heading": "11. Nama : Evita Mulyani",
+      "slug": "11-nama-evita-mulyani",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Nangkasawit, RT 002/RW 001, Kelurahan \nNangkasawit, Kecamatan Kejobong, Kabupaten \nPurbalingga, Provinsi Jawa Tengah \n Selanjutnya disebut sebagai ---------------------------------- -- Pemohon XI;",
+      "start_line": 83,
+      "end_line": 87
+    },
+    {
+      "heading": "12. Nama : Ikke Nurjanah",
+      "slug": "12-nama-ikke-nurjanah",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Pancoran Barat IV B, RT 011/001, \nKelurahan Pancoran, Kecamatan Pancoran, \nJakarta Selatan, Provinsi DK Jakarta \n Selanjutnya disebut sebagai ---------------------------------- - Pemohon XII;",
+      "start_line": 89,
+      "end_line": 93
+    },
+    {
+      "heading": "13. Nama : Mahira Azzahra Widiani",
+      "slug": "13-nama-mahira-azzahra-widiani",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Karangklesem, RT 009/RW 003, Kelurahan \nKarangklesem, Kecamatan Purwokerto Selatan, \nKabupaten Banyumas, Provinsi Jawa Tengah \n Selanjutnya disebut sebagai ---------------------------------- - Pemohon XIII;\nBerdasarkan Surat Kuasa Khusus bertanggal 16 November 2025, mem beri kuasa \nkepada Zico Leonard Djagardo Simanjuntak, S.H., Leon Maulana Mirza Pasha, S.H., \nPriskila Octaviani, S.H., dan Ratu Eka Shaira, S.H., kesemuanya  adalah para \nAdvokat dan konsultan hukum pada kantor hukum Leo & Partners , yang beralamat",
+      "start_line": 95,
+      "end_line": 103
+    },
+    {
+      "heading": "di Grand Slipi Tower Lantai 5 Unit F, Jalan S. Parman Kav. 22-2 4, Kelurahan",
+      "slug": "di-grand-slipi-tower-lantai-5-unit-f-jalan-s-parman-kav-22-2-4-kelurahan",
+      "text": "Palmerah, Kecamatan Palmerah, Ja karta Barat, DKI Jakarta, baik sendiri-sendiri \nmaupun bersama-sama bertindak untuk dan atas nama Pemberi Kuasa; \n\n4 \n \nSelanjutnya Pemohon I sampai dengan Pemohon XIII disebut sebaga i ----------------\n---------------------------------------------------------------------------------------- para Pemohon; \n[1.2] Membaca permohonan para Pemohon; \n  Mendengar keterangan para Pemohon; \n  Memeriksa bukti-bukti para Pemohon.",
+      "start_line": 105,
+      "end_line": 114
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 6 Desember 2025 yang diterima Kepaniteraan Mahkamah Konstitusi \npada tanggal 7 Desember 2025 berdasarkan Akta Pengajuan Permoho nan \nPemohon Nomor 248/PUU/PAN.MK/AP3/12/2025 dan telah dicatat dala m Buku \nRegistrasi Perkara Konstitusi Elektronik (e-BRPK) pada tanggal 8 Desember 2025 \ndengan Permohonan Nomor 243/PUU-XXIII/2025, yang telah diperbai ki dan \nditerima Mahkamah pada tanggal 29 Desember 2025, pada pokoknya sebagai \nberikut: \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 116,
+      "end_line": 124
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang- Undang Dasar",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar",
+      "text": "Negara Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD 1 945) \nmenyatakan:  \n“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada di bawahnya dalam lingkungan \nperadilan umum, lingkungan peradilan agama, lingkungan  peradil an  \nmiliter,  lingkungan  peradilan tata usaha negara, dan oleh seb uah \nMahkamah Konstitusi”;",
+      "start_line": 126,
+      "end_line": 132
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24 C ayat (1) Perubahan Keempat UUD 1945:",
+      "slug": "2-bahwa-selanjutnya-pasal-24-c-ayat-1-perubahan-keempat-uud-1945",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-\nUndang Dasar, memutus pembubaran partai politik dan memutus \nperselisihan tentang hasil Pemilihan Umum”;",
+      "start_line": 134,
+      "end_line": 139
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-t-ahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana telah \ndiubah terakhir dalam Undang-undang (UU) Nomor 13 Tahun 2022 tentang \n\n5 \n \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-Undangan menegaskan bahwa:  \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 141,
+      "end_line": 150
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 T ahun",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-t-ahun",
+      "text": "2009 tentang Kekuasaan Kehakiman, menyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai \npolitik; d. memutus perselisihan tentang hasil pemilihan umum; dan e. \nkewenangan lain yang diberikan oleh undang-undang”",
+      "start_line": 152,
+      "end_line": 160
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-t-ahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah terakhir \ndengan Undang-undang (UU) Nomor 7 Tahun 2020 tentang Perubahan \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai \npolitik; dan d. memutus perselisihan tentang hasil pemilihan umum.”",
+      "start_line": 162,
+      "end_line": 172
+    },
+    {
+      "heading": "6. Bahwa Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor 7 Tahun",
+      "slug": "6-bahwa-pasal-2-ayat-1-peraturan-mahkamah-konstitusi-nomor-7-tahun",
+      "text": "2025 tentang Tata Beracara Dalam Perkara Pengujian Undang-Undan g \n(selanjutnya disebut PMK 7/2025) menyatakan, “Objek Permohonan PUU \nadalah undang-undang dan Perppu”; Oleh karenanya, Mahkamah \nKonstitusi berwenang mengadili perkara a quo  karena para Pemohon \nmengajukan permohonan pengujian konstitusionalitas undang-undan g \nyaitu: Pasal 31 ayat (3) Undang-Undang Nomor 12 Tahun 2012 tent ang \nPendidikan Tinggi; (vide P-1)",
+      "start_line": 174,
+      "end_line": 180
+    },
+    {
+      "heading": "7. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah n y a t a",
+      "slug": "7-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-n-y-a-t-a",
+      "text": "bahwa objek permohonan a quo  memenuhi syarat sebagai objek \npermohonan pengujian materiil Undang-Undang terhadap UUD 1945. Oleh \nkarenanya, Mahkamah Konstitusi berwenang untuk memeriksa, menga dili, \n\n6 \n \ndan memutus konstitusionalitas Undang-Undang terhadap UUD 1945 dalam \nperkara a quo yang diajukan oleh para Pemohon. \nII. KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON",
+      "start_line": 182,
+      "end_line": 190
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan ba hwa",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menyatakan-ba-hwa",
+      "text": "pemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip negara \nkesatuan RI yang diatur dalam undang-undang;",
+      "start_line": 192,
+      "end_line": 197
+    },
+    {
+      "heading": "2. Bahwa sesuai dengan ketentuan yang berlaku, para Pemohon terlebih dahulu",
+      "slug": "2-bahwa-sesuai-dengan-ketentuan-yang-berlaku-para-pemohon-terlebih-dahulu",
+      "text": "menguraikan kedudukan hukum (legal standing) mereka. Bahwa Pemohon I \nsampai dengan Pemohon XIII adalah perseorangan warga negara Indonesia \n(Vide P-3 – P-15) dan juga berstatus sebagai mahasiswa aktif di  Universitas \nTerbuka (Vide P-16 – P-28)",
+      "start_line": 201,
+      "end_line": 204
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2) menegaskan para",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaskan-para",
+      "text": "Pemohon memenuhi dan memiliki kedudukan hukum ( legal standing ) \nsebagai perseorangan warga negara Indonesia sehingga Pemohon da pat \nmengajukan permohonan pengujian UU terhadap UUD 1945. Selanjutn ya, \npara Pemohon akan menguraikan kerugian konstitusional yang dial ami \nsehubungan dengan berlakunya UU yang diujikan konstitusionalita snya \ndalam perkara a quo.",
+      "start_line": 206,
+      "end_line": 211
+    },
+    {
+      "heading": "4. Bahwa Putusan Mahkamah Konsti tusi Nomor 006/PUU - III/2005 dan Perkara",
+      "slug": "4-bahwa-putusan-mahkamah-konsti-tusi-nomor-006-puu-iii-2005-dan-perkara",
+      "text": "Nomor 11/PUU-V/2007, juga menyebutkan tentang kapasitas pemohon  \ndalam mengajukan permohonan pengujian undang-undang terhadap \nundang-undang dasar, yaitu : \na. Adanya hak  konstitusional  pemohon yang diberikan oleh Unda ng-\nUndang Dasar Negara Republik Indonesia 1945. \nb. Bahwa hak konstitusional pemohon tersebut dianggap oleh para  \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji. \n\n7",
+      "start_line": 213,
+      "end_line": 222
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat spesifik",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat-spesifik",
+      "text": "atau khusus dan aktual atau setidaknya bersifat potensial yang menurut \npenalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 224,
+      "end_line": 225
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya Undang-",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya-undang",
+      "text": "Undang yang dimohonkan untuk diuji. \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan mak a \nkerugian konstitusional yang didalilkan tidak akan atau tidak terjadi lagi.",
+      "start_line": 227,
+      "end_line": 229
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional para Pemohon di jamin",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-para-pemohon-di-jamin",
+      "text": "oleh UUD 1945 yang telah diatur dalam beberapa pasal yang digun akan \nsebagai dasar pengujian dalam perkara a quo, yaitu: (vide P-2) \na) Pasal 28D ayat (1) UUD NRI 1945 menyatakan, \"Setiap orang be rhak \natas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil \nserta perlakuan yang sama di hadapan hukum.\". \nb) Pasal 31 ayat (1) UUD NRI 1945 menyatakan bahwa \"Setiap warg a \nnegara berhak mendapat pendidikan\". \nc) Pasal 28C ayat (1) UUD NRI 1945 menyatakan, “Setiap orang be rhak \nmengembangkan diri melalui pemenuhan kebutuhan dasarnya, berhak  \nmendapat pendidikan dan memperoleh manfaat dari ilmu pengetahua n \ndan teknologi, seni dan budaya, demi meningkatkan kualitas hidu pnya \ndan demi kesejahteraan umat manusia”.",
+      "start_line": 231,
+      "end_line": 242
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam UUD",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam-uud",
+      "text": "1945 tersebut telah dirugikan dengan pasal sebagai berikut: (Vide P-1) \nPasal 31 ayat (3) Undang-Undang Nomor 12 Tahun 2012 tentang \nPendidikan Tinggi. \n“Pendidikan jarak jauh diselenggarakan dalam berbagai bentuk, modus, \ndan cakupan yang didukung oleh sarana dan layanan belajar serta  \nsistem penilaian yang menjamin mutu lulusan sesuai dengan Stand ar \nNasional Pendidikan Tinggi.”",
+      "start_line": 244,
+      "end_line": 250
+    },
+    {
+      "heading": "7. Bahwa Pasal 31 ayat (1) sampai ayat (4) Undang-Undang Nomor 12 Tahun",
+      "slug": "7-bahwa-pasal-31-ayat-1-sampai-ayat-4-undang-undang-nomor-12-tahun",
+      "text": "2012 tentang Pendidikan Tinggi membentuk satu kesatuan norma ya ng \nmengatur Pendidikan Jarak Jauh, yaitu: \nayat (1) Pendidikan jarak jauh merupakan proses belajar mengaja r yang \ndilakukan secara jarak jauh melalui penggunaan berbagai media \nkomunikasi; \n\n8 \n \nayat (2) Pendidikan jarak jauh sebagaimana dimaksud pada ayat ( 1) \nbertujuan: \na. memberikan layanan Pendidikan Tinggi kepada kelompok Masyara kat \nyang tidak dapat mengikuti Pendidikan secara tatap muka atau \nreguler; dan \nb. memperluas akses serta mempermudah layanan Pendidikan Tinggi  \ndalam Pendidikan dan pembelajaran. \nayat (3) Pendidikan jarak jauh diselenggarakan dalam berbagai b entuk, \nmodus, dan cakupan yang didukung oleh sarana dan layanan belaja r \nserta sistem penilaian yang menjamin mutu lulusan sesuai dengan  \nStandar Nasional Pendidikan Tinggi; \nayat (4) Ketentuan lebih lanjut mengenai penyelenggaraan pendid ikan \njarak jauh sebagaimana dimaksud pada ayat (1), ayat (2), dan ay at (3) \ndiatur dalam Peraturan Menteri. \nNamun, frasa “sistem penilaian yang menjamin mutu lulusan sesuai Standar \nNasional Pendidikan Tinggi” dalam ayat (3) tidak memuat ukuran normatif \nminimum mengenai bagaimana jaminan mutu tersebut harus diwujudk an, \ndilindungi, dan dirasakan oleh mahasiswa sebagai subjek pendidi kan. \nAkibatnya, perlindungan terhadap proses, hasil, dan masa depan akademik \nmahasiswa sepenuhnya diserahkan pada pengaturan turunan, tanpa \nkepastian hukum yang bersumber langsung dari undang-undang. \nDalam konteks tersebut, Pemohon I s.d Pemohon XIII mengalami \nkerugian konstitusional sebagai berikut:",
+      "start_line": 252,
+      "end_line": 282
+    },
+    {
+      "heading": "8. Kerugian Aktual (sedang dan telah dialami)",
+      "slug": "8-kerugian-aktual-sedang-dan-telah-dialami",
+      "text": "Bahwa para Pemohon (Pemohon I sampai dengan Pemohon XIII) merupakan \nPerorangan warga negara Indonesia (vide P-3 sd P-15) dan mahasiswa aktif \nPendidikan Jarak Jauh (PJJ) (vide P-16 s.d P-28) Program Studi Ilmu Hukum \nyang secara nyata telah menjalani proses pembelajaran sebagaima na \ndimaksud dalam Pasal 31 ayat (1) dan ayat (2) UU No. 12 Tahun 2 012 \ntentang Pendidikan Tinggi, yaitu proses belajar mengajar jarak jauh yang \nbertujuan memperluas akses pendidikan tinggi secara adil dan in klusif. \nNamun demikian, dalam praktik akademik yang dialami para Pemoho n, \nsistem penilaian belum sepenuhnya  mencerminkan karakter, tujuan , dan \n\n9 \n \nfungsi PJJ sebagaimana diamanatkan undang-undang, sehingga \nmenimbulkan kerugian konstitusional sebagai berikut: \na. Nilai akademik tidak merefleksikan kompetensi hukum yang \nsesungguhnya (vide P-29) \nBahwa sistem penilaian yang menempatkan Ujian Akhir Semester \n(UAS) sebagai komponen dominan dibandingkan proses \npembelajaran berkelanjutan menyebabkan nilai akhir para Pemohon  \nlebih merepresentasikan kemampuan menghadapi satu instrumen \nevaluasi tunggal, bukan penguasaan substansi hukum yang dibangun \nmelalui diskusi Tutorial Online (TUTON), (vide P-34) penugasan, dan \npembelajaran mandiri selama satu semester. Kondisi ini \nmengakibatkan hasil penilaian tidak sepenuhnya mencerminkan \nkompetensi hukum, pemahaman asas, dan penalaran yuridis yang \nmerupakan esensi pendidikan hukum. \nb. Proses pembelajaran hukum tereduksi menjadi orientasi mengha dapi \nujian \nBahwa akibat dominasi evaluasi akhir, para Pemohon secara faktu al \nterdorong mengarahkan strategi belajar pada penguasaan pola soa l \ndan kisi-kisi ujian, bukan pada pemahaman sistematis terhadap norma \nhukum, struktur peraturan perundang-undangan, dan metode \npenafsiran hukum. Akibatnya, tujuan pendidikan hukum sebagai \nproses pembentukan legal reasoning bergeser menjadi sekadar \npencapaian nilai, sehingga menyimpang dari makna pendidikan tinggi \nyang bermutu sebagaimana dimaksud Pasal 31 ayat (1) UU \nPendidikan Tinggi.",
+      "start_line": 284,
+      "end_line": 320
+    },
+    {
+      "heading": "c. Hilangnya fungsi pengembangan kemampuan analisis hukum secar a",
+      "slug": "c-hilangnya-fungsi-pengembangan-kemampuan-analisis-hukum-secar-a",
+      "text": "optimal \nBahwa diskusi dan penugasan yang sejatinya dirancang untuk melatih \nanalisis kasus, penalaran hukum, dan argumentasi yuridis tidak \nmemperoleh bobot penilaian yang proporsional. Kondisi ini \nmenyebabkan fungsi akademik proses pembelajaran hukum menjadi \nterdegradasi, karena kontribusi intelektual para Pemohon selama  \n\n10 \n \nmasa tutorial tidak secara memadai terakumulasi dalam penilaian  \nakhir.",
+      "start_line": 322,
+      "end_line": 332
+    },
+    {
+      "heading": "d. Tidak tersedianya ruang korektif atas kesalahan pemahaman hu kum",
+      "slug": "d-tidak-tersedianya-ruang-korektif-atas-kesalahan-pemahaman-hu-kum",
+      "text": "Bahwa pemahaman hukum bersifat kumulatif dan sistematis, sehingga \nkesalahan konseptual pada tahap awal pembelajaran seharusnya \ndapat diperbaiki melalui evaluasi berjenjang dan umpan balik \nakademik. Namun, ketiadaan mekanisme korektif yang efektif dala m \nsistem penilaian menyebabkan para Pemohon kehilangan \nkesempatan memperbaiki pemahaman hukum sebelum evaluasi \nakhir, sehingga bertentangan dengan prinsip pembelajaran \nberkelanjutan yang melekat pada karakter Pendidikan Jarak Jauh \nsebagaimana dimaksud Pasal 31 ayat (1) dan ayat (2) UU Pendidikan \nTinggi. \ne. Ketidakpastian hukum dalam sistem penilaian akademik \nBahwa para Pemohon tidak memperoleh jaminan normatif bahwa \nusaha belajar berkelanjutan yang telah dijalani akan dinilai secara adil \ndan proporsional. Kondisi ini menunjukkan bahwa Pasal 31 ayat ( 3) \nUU Pendidikan Tinggi belum memberikan kepastian hukum mengenai \nbagaimana “sistem penilaian yang menjamin mutu lulusan” harus \ndiwujudkan, sehingga berimplikasi langsung pada terlanggarnya \nprinsip kepastian hukum yang adil sebagaimana dijamin dalam Pas al \n28D ayat (1) UUD NRI 1945.",
+      "start_line": 334,
+      "end_line": 352
+    },
+    {
+      "heading": "9. Kerugian Potensial (logis, dapat dipastikan terjadi, dan ber kelanjutan)",
+      "slug": "9-kerugian-potensial-logis-dapat-dipastikan-terjadi-dan-ber-kelanjutan",
+      "text": "Bahwa selain kerugian aktual tersebut di atas, para Pemohon jug a \nmenghadapi kerugian potensial yang bersifat logis, berkelanjutan, dan dapat \ndipastikan akan terus terjadi selama ketentuan Pasal 31 ayat (3 ) UU \nPendidikan Tinggi tidak memuat standar normatif minimum mengenai sistem \npenilaian Pendidikan Jarak Jauh, yaitu: \nf. Potensi terbentuknya lulusan hukum yang tidak seimbang secar a \nsubstansi \nBahwa sistem penilaian yang tidak secara eksplisit mengaitkan proses \npembelajaran dengan hasil penilaian berpotensi menghasilkan lulusan \n\n11 \n \nyang secara administratif memenuhi syarat kelulusan, namun tida k \nmemiliki kedalaman analisis, pemahaman asas hukum, dan \nkecakapan berpikir yuridis yang memadai sebagai lulusan pendidikan \nhukum. \ng. Penurunan kualitas kesiapan profesional di bidang hukum \nBahwa lemahnya penilaian berbasis proses berkelanjutan akan \nberdampak langsung pada kesiapan para Pemohon memasuki profesi \nhukum, karena kompetensi utama di bidang hukum seperti analisis  \nkasus, penalaran normatif, dan interpretasi hukum tidak sepenuh nya \nterinternalisasi secara optimal dalam proses pendidikan yang dijalani. \nh. Kerugian kompetitif dalam dunia kerja dan profesi hukum \nBahwa para Pemohon berpotensi mengalami kerugian kompetitif \ndibandingkan lulusan dari sistem pendidikan yang menerapkan sistem \npenilaian berjenjang, remedial, dan berbasis proses, meskipun secara \nformal memiliki nilai akademik yang setara. Kondisi ini menunju kkan \nbahwa jaminan mutu lulusan sebagaimana dimaksud Pasal 31 ayat (3) \nUU Pendidikan Tinggi belum terlindungi secara substansial.",
+      "start_line": 354,
+      "end_line": 382
+    },
+    {
+      "heading": "i. Distorsi tujuan pendidikan hukum sebagai pendidikan berbasis",
+      "slug": "i-distorsi-tujuan-pendidikan-hukum-sebagai-pendidikan-berbasis",
+      "text": "penalaran dan etika \nBahwa pendidikan hukum sejatinya bertujuan membentuk cara \nberpikir hukum (legal mindset), integritas akademik, dan etika profesi. \nKetika sistem penilaian tidak dirancang untuk menghargai proses  \npembelajaran tersebut, pendidikan hukum berisiko tereduksi menj adi \nsekadar pencapaian nilai, yang bertentangan dengan hak untuk \nmengembangkan diri melalui pendidikan sebagaimana dijamin Pasal  \n28C ayat (1) UUD NRI 1945. \nj. Kerugian konstitusional yang bersifat struktural dan berulan g \nBahwa selama Pasal 31 ayat (3) UU Pendidikan Tinggi tidak \nmenetapkan parameter normatif minimum mengenai sistem penilaian  \nyang menjamin mutu lulusan, para Pemohon akan terus mengalami \nkerugian yang sama pada setiap semester. Dengan demikian, \nkerugian ini bukan bersifat insidental, melainkan struktural da n \n\n12 \n \nberkelanjutan, serta memiliki hubungan sebab akibat langsung dengan \nkeberlakuan norma a quo.",
+      "start_line": 384,
+      "end_line": 402
+    },
+    {
+      "heading": "10. Kerugian konstitusional para Pemohon tidak mungkin dipulihk an hanya",
+      "slug": "10-kerugian-konstitusional-para-pemohon-tidak-mungkin-dipulihk-an-hanya",
+      "text": "melalui peraturan menteri atau kebijakan institusional, karena sumber utama \nketidakpastian hukum terletak pada ketiadaan norma jaminan dala m Pasal \n31 ayat (3) UU Pendidikan Tinggi. Tanpa penafsiran konstitusion al oleh \nMahkamah Konstitusi, frasa ‘sistem penilaian yang menjamin mutu  lulusan’ \ntidak memiliki daya ikat normatif sebagai hak mahasiswa, sehingga kerugian \nyang dialami para Pemohon akan terus berulang dan tidak dapat d icegah \nmelalui mekanisme regulasi turunan.",
+      "start_line": 404,
+      "end_line": 410
+    },
+    {
+      "heading": "11. Bahwa permohonan pengujian frasa “sistem penilaian yang men jamin mutu",
+      "slug": "11-bahwa-permohonan-pengujian-frasa-sistem-penilaian-yang-men-jamin-mutu",
+      "text": "lulusan sesuai Standar Nasional Pendidikan Tinggi” dalam Pasal 31 ayat (3) \nUndang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi tid ak \ndapat dinilai sebagai permohonan yang bersifat ne bis in idem, karena objek \npengujian, batu uji konstitusional, serta dasar kerugian konsti tusional yang \ndiajukan para Pemohon I sampai dengan Pemohon XIII memiliki kar akter, \nsudut pandang, dan argumentasi konstitusional yang berbeda dari  perkara-\nperkara sebelumnya. Permohonan  a quo  secara khusus menyoroti \nkekosongan norma jaminan mutu dalam sistem penilaian Pendidikan  Jarak \nJauh, serta dampaknya terhadap hak atas kepastian hukum (Pasal 28D ayat \n(1) UUD NRI 1945), hak atas pendidikan (Pasal 31 ayat (1) UUD N RI 1945), \ndan hak untuk mengembangkan diri (Pasal 28C ayat (1) UUD NRI 19 45), \nyang belum pernah diperiksa dan dipertimbangkan secara substant if oleh \nMahkamah Konstitusi dalam konteks yang sama. Dengan demikian, \npermohonan ini memenuhi syarat kebaruan konstitusional ( constitutional \nnovelty) dan layak untuk diperiksa serta diputus oleh Mahkamah Konstitusi.",
+      "start_line": 412,
+      "end_line": 426
+    },
+    {
+      "heading": "12. Bahwa apabila frasa “sistem penilaian yang menjamin mutu lu lusan sesuai",
+      "slug": "12-bahwa-apabila-frasa-sistem-penilaian-yang-menjamin-mutu-lu-lusan-sesuai",
+      "text": "Standar Nasional Pendidikan Tinggi” dalam Pasal 31 ayat (3) Und ang-\nUndang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi dimaknai o leh \nMahkamah Konstitusi sebagai kewajiban negara untuk menetapkan jaminan \nnormatif minimum mengenai keterkaitan antara proses pembelajara n yang \ndijalani mahasiswa dan hasil penilaian akademik, maka hak konst itusional \npara Pemohon I sampai dengan Pemohon XIII atas kepastian hukum yang \nadil sebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI 1945, hak atas \n\n13 \n \npendidikan sebagaimana dijamin dalam Pasal 31 ayat (1) UUD NRI 1945, \nserta hak untuk mengembangkan diri dan memperoleh manfaat pendi dikan \nsebagaimana dijamin dalam Pasal 28C ayat (1) UUD NRI 1945, akan  \nterlindungi secara lebih utuh, setara, dan berkelanjutan. Denga n demikian, \nkerugian konstitusional yang dialami para Pemohon tidak akan te rjadi lagi di \nmasa yang akan datang.",
+      "start_line": 428,
+      "end_line": 443
+    },
+    {
+      "heading": "13. Kerugian konstitusional para Pemohon bukan bersumber dari k ebijakan",
+      "slug": "13-kerugian-konstitusional-para-pemohon-bukan-bersumber-dari-k-ebijakan",
+      "text": "teknis perguruan tinggi atau kesalahan implementasi administratif, melainkan \nberasal langsung dari ketiadaan norma dalam Pasal 31 ayat (3) U ndang-\nUndang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi yang tidak  \nmenetapkan standar normatif minimum mengenai keterkaitan antara  proses \npembelajaran dan hasil penilaian. Oleh karena itu, kerugian par a Pemohon \nbersifat normatif, struktural, dan melekat pada keberlakuan nor ma undang-\nundang a quo , maka para Pemohon me miliki kedudukan hukum ( legal \nstanding) untuk mengajukan pengujian undang-undang dalam perkara a quo. \npara Pemohon telah memenuhi ketentuan Pasal 51 ayat (1) Undang-Undang \nMahkamah Konstitusi beserta Penjelasannya, serta syarat kerugia n hak \nkonstitusional sebagaimana ditegaskan dalam Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 dan Nomor 0 11/PUU-V/2007, karena norma y ang \ndiuji berpotensi dan secara aktual menimbulkan ketidakpastian h ukum serta \nmengurangi perlindungan hak konstitusional para Pemohon atas pe ndidikan \nyang bermutu dan bermakna. \nIII. ALASAN PERMOHONAN (POSITA)  \nA. Makna Konseptual dan Teoretis Pendidikan Jarak Jauh dalam Si stem \nPendidikan Nasional",
+      "start_line": 445,
+      "end_line": 462
+    },
+    {
+      "heading": "1. Bahwa untuk memahami kewajiban normatif negara dalam",
+      "slug": "1-bahwa-untuk-memahami-kewajiban-normatif-negara-dalam",
+      "text": "penyelenggaraan Pendidikan Jarak Jauh (PJJ), terlebih dahulu ha rus \nditetapkan makna konseptual dan teoretis PJJ berdasarkan teori \npendidikan jarak jauh yang berkembang dan diakui secara akademi k. \nPenetapan makna ini penting agar Pendidikan Jarak Jauh tidak direduksi \nsebagai sekadar variasi teknis pembelajaran atau solusi darurat berbasis \nteknologi, melainkan dipahami sebagai sistem pendidikan yang dirancang \ns e c a r a  s a d a r  (designed system ), yang memiliki karakteristik, risiko \n\n14 \n \npedagogis, serta konsekuensi normatif tersendiri dalam kerangka  \npemenuhan hak atas pendidikan.",
+      "start_line": 464,
+      "end_line": 475
+    },
+    {
+      "heading": "2. Bahwa berbagai ahli pendidikan jarak jauh telah memberikan b atasan",
+      "slug": "2-bahwa-berbagai-ahli-pendidikan-jarak-jauh-telah-memberikan-b-atasan",
+      "text": "yang menunjukkan kesamaan pandangan bahwa PJJ merupakan \npendidikan yang diselenggarakan melalui keterpisahan fisik anta ra \npengajar dan pembelajar, namun tetap memerlukan organisasi, \nperencanaan, dan sistem yang kuat. Para ahli tersebut antara la in G. \nDogmen, G. Mackenzie, E. Christensen, P. Rigby, Otto Peters, Mi chael \nG. Moore, dan Borje Holmberg (Aristorahadi, 2008), yang pada in tinya \nmenegaskan bahwa Pendidikan Jarak Jauh tidak dapat berjalan sec ara \nalami tanpa rekayasa sistemik yang disengaja oleh penyelenggara  \npendidikan. Bahwa menurut Dogmen, ciri utama pembelajaran jarak jauh \nadalah adanya organisasi yang secara aktif mengatur cara belaja r \nmandiri, penyampaian materi pembe lajaran melalui media, serta \nketiadaan kontak langsung dan terus-menerus antara pengajar dan  \npembelajar. Pandangan ini menunjukkan bahwa PJJ sejak awal dipahami \nsebagai pendidikan yang bergantung pada sistem kelembagaan, buk an \npada kehadiran fisik pengajar. Dengan demikian, mutu PJJ sangat  \nditentukan oleh sejauh mana sistem tersebut dirancang untuk men gatur, \nmembimbing, dan mengawasi proses belajar pembelajar. Bahwa \nMackenzie, Christensen, dan Rigby memandang pendidikan jarak ja uh \nsebagai metode pembelajaran yang menggunakan korespondensi \nsebagai alat komunikasi utama antara pengajar dan pembelajar. D alam \nmodel ini, pembelajar dan pengajar bekerja secara terpisah, nam un \ndipersatukan melalui mekanisme komunikasi yang dirancang secara  \nkhusus agar interaksi akademik tetap berlangsung. Pandangan ini  \nmenegaskan bahwa interaksi dalam PJJ bukanlah sesuatu yang terj adi \nsecara spontan, melainkan harus diciptakan dan dijamin melalui sistem \npembelajaran yang terencana.",
+      "start_line": 477,
+      "end_line": 502
+    },
+    {
+      "heading": "3. Bahwa perkembangan teori PJJ kemudian diperkaya oleh Otto Pe ters,",
+      "slug": "3-bahwa-perkembangan-teori-pjj-kemudian-diperkaya-oleh-otto-pe-ters",
+      "text": "yang mendefinisikan pendidikan jarak jauh sebagai metode penyampaian \nilmu, keterampilan, dan sikap yang dipengaruhi oleh cara-cara \npengelolaan industri. Dalam pandangan Peters, PJJ merupakan \npendidikan yang dikembangkan melalui pembagian kerja yang jelas  \n\n15 \n \nantara pihak-pihak yang merancang, memproduksi, mendistribusika n \nmateri pembelajaran, serta mengelola kegiatan pembelajaran. Mes kipun \nteori industrialisasi Peters menuai kritik, esensi pemikirannya  t e t a p  \nrelevan, yakni bahwa Pendidikan Jarak Jauh bersifat sistemik, terencana, \ndan bergantung pada desain institusional, bukan pada relasi ind ividual \nsemata. Bahwa dari batasan Peters tersebut dapat ditarik karakt eristik \nnormatif PJJ, yaitu dimanfaatkannya teknologi dan media pembela jaran \nyang bermutu, kemungkinan penyelenggaraan pendidikan secara massal \nuntuk menjangkau pembelajar yang tersebar secara geografis, ser ta \npengelolaan pembelajaran melalui pembagian peran dan tanggung jawab \nyang jelas dalam suatu sistem pendidikan. Karakteristik ini men unjukkan \nbahwa PJJ sejak awal dimaksudkan sebagai instrumen pemerataan \nakses pendidikan, bukan sekadar alternatif pembelajaran.",
+      "start_line": 504,
+      "end_line": 523
+    },
+    {
+      "heading": "4. Bahwa Michael G. Moore kemudian memberikan penekanan pedagog is",
+      "slug": "4-bahwa-michael-g-moore-kemudian-memberikan-penekanan-pedagog-is",
+      "text": "yang lebih tajam dengan menyatakan bahwa pembelajaran jarak jau h \nadalah metode pembelajaran yang memungkinkan pembelajar belajar  \nsecara terpisah dari kegiatan mengajar pengajar, sehingga komun ikasi \nharus dilakukan melalui berbagai media. Moore menegaskan bahwa \nketerpisahan fisik tersebut melahirkan jarak pedagogis yang ber potensi \nmenimbulkan kesalahpahaman akademik apabila tidak dikelola seca ra \ntepat. Oleh karena itu, PJJ menuntut desain pembelajaran, metod e \nkomunikasi, serta pengaturan organisasi dan administrasi yang k husus. \nBahwa melalui teori Transactional Distance, Moore menjelaskan bahwa \nsemakin besar jarak antara pengajar dan pembelajar, semakin besar pula \nkebutuhan akan struktur pembelajaran yang jelas dan dialog akad emik \nyang terencana. Dengan demikian, dalam PJJ, sistem penilaian ti dak \ndapat dilepaskan dari struktur dan dialog tersebut, karena peni laian \nberfungsi sebagai mekanisme penghubung antara proses belajar mandiri \npembelajar dan pengakuan institusional atas capaian pembelajara n. \nBahwa pandangan Moore tersebut sejalan dengan pemikiran Borje \nHolmberg yang menekankan konsep guided didactic conversation , yaitu \nbahwa belajar mandiri dalam PJJ tidak berarti belajar tanpa bim bingan. \nPembelajar memang tidak berada di bawah pengawasan langsung \npengajar, namun tetap harus memperoleh perencanaan, bimbingan, dan \n\n16 \n \narahan akademik dari lembaga penyelenggara pendidikan jarak jau h. \nDengan demikian, PJJ merupakan pendidikan yang dirancang untuk \nmembimbing pembelajar secara sistemik, bukan membiarkan pembelajar \nberjalan sendiri tanpa perlindungan akademik.",
+      "start_line": 525,
+      "end_line": 551
+    },
+    {
+      "heading": "5. Bahwa teori Stewart, Keegan, dan Holmberg (Juhari, 1990) sem akin",
+      "slug": "5-bahwa-teori-stewart-keegan-dan-holmberg-juhari-1990-sem-akin",
+      "text": "menegaskan bahwa Pendidikan Jarak Jauh bertumpu pada tiga pilar  \nutama, yaitu otonomi dan belajar mandiri, industrialisasi pendidikan, serta \nkomunikasi interaktif. Belajar mandiri dipahami sebagai pemberi an \nkebebasan kepada pembelajar, namun tetap dalam kerangka sistem yang \nmenjamin interaksi dan komunikasi. Industrialisasi pendidikan \nmenegaskan pentingnya desain dan produksi materi pembelajaran y ang \nbermutu, sementara komunikasi interaktif menegaskan bahwa PJJ t idak \ndapat dilepaskan dari dialog pedagogis yang dirancang secara sa dar. \nBahwa dari keseluruhan teori tersebut dapat disimpulkan bahwa \nPendidikan Jarak Jauh secara konseptual adalah sistem pembelaja ran \nyang dirancang ( designed system ), bukan sekadar metode teknis atau \npenggunaan teknologi. PJJ merupakan pendidikan yang menempatkan  \npembelajar sebagai pusat proses pembelajaran, menuntut kemandir ian \nyang lebih tinggi, namun sekaligus mewajibkan negara dan instit usi \npendidikan untuk menyediakan sistem yang menjamin kejelasan pro ses, \ninteraksi akademik, dan kepastian hasil belajar.",
+      "start_line": 553,
+      "end_line": 568
+    },
+    {
+      "heading": "6. Bahwa dalam konteks sistem pendidikan nasional, karakter ter sebut",
+      "slug": "6-bahwa-dalam-konteks-sistem-pendidikan-nasional-karakter-ter-sebut",
+      "text": "menjadikan Pendidikan Jarak Jauh sebagai instrumen strategis \npemenuhan hak atas pendidikan. PJJ membuka akses bagi warga negara \nyang secara geografis, sosial, atau ekonomis tidak terjangkau o leh \npendidikan tatap muka konvensional; mendorong kesetaraan dengan  \nmengurangi hambatan ruang dan waktu; serta menjamin keberlanjut an \npendidikan bagi pembelajar dewasa, pekerja, dan kelompok masyar akat \nyang memiliki keterbatasan mobilitas. Dengan demikian, PJJ tidak hanya \nberfungsi sebagai sarana perluasan akses, tetapi juga sebagai \nmekanisme korektif terhadap ketimpangan struktural dalam sistem  \npendidikan nasional. Bahwa oleh karena itu, pemahaman konseptual dan \nteoretis tentang Pendidikan Jarak Jauh sebagaimana dirumuskan o leh \npara ahli tersebut menjadi dasar penting untuk menilai apakah pengaturan \n\n17 \n \nhukum yang mengatur PJJ telah mencerminkan karakter sistemik, \npedagogis, dan protektif dari PJJ itu sendiri. Dalam konteks in i, sistem \npenilaian tidak dapat diposisikan sebagai instrumen administratif semata, \nmelainkan sebagai elemen konstitutif dari mutu pendidikan jarak  j a u h .  \nSejarah dan teori PJJ menunjukkan bahwa keberhasilan pendidikan jarak \njauh selalu bergantung pada kejelasan sistem dan kepastian norma yang \nmengatur bagaimana proses dan hasil pembelajaran dinilai dan di jamin \nmutunya. \nB. Pendidikan Jarak Jauh sebagai Kebutuhan Konstitusional dan S trategi \nNasional Pemenuhan Hak atas Pendidikan Tinggi",
+      "start_line": 570,
+      "end_line": 594
+    },
+    {
+      "heading": "7. Bahwa pendidikan tinggi merupakan hak konstitusional warga n egara",
+      "slug": "7-bahwa-pendidikan-tinggi-merupakan-hak-konstitusional-warga-n-egara",
+      "text": "yang dijamin secara eksplisit dalam Pasal 31 ayat (1) Undang-Un dang \nDasar Negara Republik Indonesia Tahun 1945, yang menyatakan bahwa \n“setiap warga negara berhak mendapat pendidikan.” Norma konstitusional \ntersebut tidak hanya menegaskan hak individual, tetapi sekaligus memuat \nkewajiban negara untuk secara aktif merancang dan menyelenggara kan \nsistem pendidikan tinggi yang mampu menjangkau seluruh warga negara \nsecara adil, inklusif, dan berkelanjutan. Dengan demikian, nega ra tidak \ndapat membatasi pemenuhan hak atas pendidikan tinggi hanya mela lui \nsatu model penyelenggaraan pendidikan, melainkan dituntut untuk  \nmengembangkan berbagai instrumen yang relevan dengan kondisi \nobjektif masyarakat Indonesia.",
+      "start_line": 596,
+      "end_line": 606
+    },
+    {
+      "heading": "8. Bahwa untuk menunjukkan kondisi riil pemerataan akses pendid ikan",
+      "slug": "8-bahwa-untuk-menunjukkan-kondisi-riil-pemerataan-akses-pendid-ikan",
+      "text": "tinggi secara nasional, penting untuk melihat Angka Partisipasi  Kasar \n(APK) pendidikan tinggi pada tingkat provinsi. Data APK tidak h anya \nmerefleksikan capaian kuantitati f akses pendidikan tinggi, teta pi juga \nmenggambarkan sejauh mana negara hadir secara efektif dalam \nmenjamin hak konstitusional atas pendidikan tinggi di berbagai wilayah \nIndonesia. \nBerikut disajikan data Angka Partisipasi Kasar (APK) Pendidikan  Tinggi \nTahun 2025 menurut provinsi: \nTabel Angka Partisipasi Kasar (APK) Pendidikan Tinggi Menurut \nProvinsi Tahun 2025 \n\n18 \n \nNo Provinsi APK PT 2025 \n1 Aceh 42.81 \n2 Sumatera Utara 33.04 \n3 Sumatera Barat 42.32 \n4 Riau 35.3 \n5 Jambi 33.58 \n6 Sumatera Selatan 27.41 \n7 Ben gkulu 38.94 \n8 Lampun g 24.38 \n9 Kep. Ban gka Belitung 20.89 \n10 Kep. Riau 29.64 \n11 DKI Jakarta 41.78 \n12 Jawa Barat 28.36 \n13 Jawa Tengah 29.7 \n14 DI Yogyakarta 74.7 \n15 Jawa Timur 32.4 \n16 Banten 34.33 \n17 Bali 40.69 \n18 Nusa Tenggara Barat 36.49 \n19 Nusa Tenggara Timur 32.09 \n20 Kalimantan Barat 23.99 \n21 Kalimantan Tengah 25.49 \n22 Kalimantan Selatan 28.12 \n23 Kalimantan Timur 40.44 \n24 Kalimantan Utara 27.93 \n25 Sulawesi Utara 33.51 \n26 Sulawesi Tengah 38.14 \n27 Sulawesi Selatan 40.28 \n28 Sulawesi Tenggara 39.27 \n29 Gorontalo 37.75 \n30 Sulawesi Barat 28.22 \n31 Maluku 42.89 \n32 Maluku Utara 39.08 \n33 Papua Barat 27.99 \n34 Papua Barat Da ya 38.22 \n35 Papua 34.08 \n36 Papua Selatan 24.15 \n37 Papua Ten gah 13.62 \n38 Papua Pe gunungan 13.34 \n    Indonesia 32.89 \nSumber: Badan Pusat Statistik (BPS), Susenas \nCatatan: Kelompok umur perguruan tinggi yang digunakan adalah usia \n19–23 tahun. \nBahwa data tersebut menunjukkan secara jelas adanya ketimpangan  \nakses pendidikan tinggi antarwilayah yang masih sangat signifikan. Di \nsatu sisi, terdapat provinsi dengan APK pendidikan tinggi yang sangat \ntinggi, seperti DI Yogyakarta (74,70%), yang mencerminkan \nkonsentrasi infrastruktur pendidikan tinggi, kemudahan akses, s erta \n\n19 \n \nekosistem akademik yang mapan. Namun di sisi lain, terdapat pul a \nprovinsi-provinsi dengan APK yang sangat rendah, khususnya di \nwilayah Papua Tengah (13,62%) dan Papua Pegunungan (13,34%), \nyang menunjukkan keterbatasan akses pendidikan tinggi yang bersifat \nstruktural dan sistemik. Bahwa rata-rata nasional APK pendidika n \ntinggi sebesar 32,89% memperlihatkan bahwa capaian nasional masih \nberada jauh dari kondisi pemerataan yang ideal. Ketimpangan ini tidak \ndapat semata-mata dipahami sebagai persoalan preferensi individ u \natau pilihan sosial, melainkan mencerminkan kesenjangan struktu ral \ndalam ketersediaan, keterjangkauan, dan fleksibilitas layanan \npendidikan tinggi antarprovinsi. Bahwa dalam konteks negara \nkepulauan dengan karakter geografis yang luas dan beragam seper ti \nIndonesia, perbedaan capaian APK antarwilayah merupakan indikator \nkuat bahwa model pendidikan tinggi konvensional berbasis tatap muka \nbelum sepenuhnya mampu menjangkau seluruh warga negara secara \nsetara. Oleh karena itu, ketimpangan tersebut memperkuat kebutuhan \nakan instrumen pendidikan tinggi yang bersifat fleksibel, adapt if, dan \ntidak bergantung pada kedekatan geografis dengan pusat pendidikan. \nBahwa data APK antarprovinsi ini sekaligus menegaskan urgensi \npengembangan Pendidikan Jarak Jauh (PJJ) sebagai bagian dari \nstrategi nasional pemerataan akses pendidikan tinggi. PJJ memil iki \npotensi untuk menjangkau wilayah dengan APK rendah, kelompok \nmasyarakat pekerja, serta warga negara yang berada dalam kondis i \ngeografis dan sosial yang tidak memungkinkan mengikuti pendidik an \ntinggi secara tatap muka reguler. Bahwa dengan demikian, \nketimpangan APK pendidikan tinggi antarprovinsi bukan hanya \npersoalan statistik, melainkan merupakan indikator konstitusional yang \nmenunjukkan bahwa pemenuhan hak atas pendidikan tinggi masih \nmemerlukan penguatan instrumen kebijakan yang lebih inklusif. Dalam \nkonteks inilah, keberadaan Pendidikan Jarak Jauh harus dipahami  \nsebagai respons negara terhadap ketimpangan akses tersebut, \nsekaligus sebagai konsekuensi logis dari kewajiban konstitusion al \nnegara untuk memastikan bahwa hak atas pendidikan tinggi dapat \ndinikmati secara nyata oleh seluruh warga negara, tanpa terkecuali. \n\n20",
+      "start_line": 608,
+      "end_line": 708
+    },
+    {
+      "heading": "9. Dalam konteks tersebut, pemerintah sendiri secara terbuka me ngakui",
+      "slug": "9-dalam-konteks-tersebut-pemerintah-sendiri-secara-terbuka-me-ngakui",
+      "text": "bahwa upaya peningkatan APK pendidikan tinggi selama ini belum \nsepenuhnya terintegrasi secara optimal. Direktur Jenderal Pendi dikan \nTinggi, Khairul Munadi, menegaskan bahwa pendekatan peningkatan  \nAPK masih bersifat parsial dan belum ditopang oleh strategi nasional yang \nkomprehensif. Beliau menyatakan: “...Usaha menaikkan APK belum \nterintegrasi secara optimal dan pendekatannya masih parsial. Ka rena itu \nkami mendorong agar hal ini menjadi perhatian bersama. Kita per lu \nmenyusun strategi nasional yang tepat dan integratif, karena \nkeberhasilannya memerlukan keterlibatan banyak pihak dan tidak bisa \nhanya bergantung pada satu sektor saja...” \n(Sumber: https://kemdiktisaintek.go.id/news/article/dirjen-dikt i-perlu-\nstrategi-nasional-untuk-tingkatkan-akses-pendidikan-tinggi) \nPernyataan tersebut menunjukkan bahwa peningkatan akses \npendidikan tinggi dipahami oleh negara sebagai persoalan strukt ural \ndan lintas sektor, yang memerlukan instrumen kebijakan yang mampu \nmenembus batas ruang, waktu, dan kondisi sosial-ekonomi \nmasyarakat. Dalam kerangka inilah Pendidikan Jarak Jauh (PJJ) \nmemperoleh relevansi konstitusional yang semakin kuat sebagai salah \nsatu instrumen utama pemerataan akses pendidikan tinggi.",
+      "start_line": 710,
+      "end_line": 728
+    },
+    {
+      "heading": "10. Bahwa secara historis, Pendidikan Jarak Jauh bukanlah konse p baru",
+      "slug": "10-bahwa-secara-historis-pendidikan-jarak-jauh-bukanlah-konse-p-baru",
+      "text": "dalam sistem pendidikan nasional Indonesia. Penerapan PJJ telah  \nmemiliki jejak panjang yang menunjukkan konsistensi kebijakan n egara \ndalam menjadikannya sebagai sarana pemenuhan hak atas pendidika n. \nSejak tahun 1950, Balai Kursus Tertulis Pendidikan Guru telah \nmenyelenggarakan berbagai kursus tertulis bagi guru dan calon g uru \nmelalui media korespondensi, yang pada masa itu memanfaatkan ja sa \npos sebagai sarana utama pembelajaran jarak jauh (Hasan, 2007). Model \ntersebut merupakan bentuk awal kesadaran negara bahwa keterbata san \nruang dan jarak tidak boleh menjadi penghalang bagi warga negara untuk \nmemperoleh pendidikan. Perkembangan tersebut berlanjut pada tah un \n1952 ketika pendidikan jarak jauh mulai diselenggarakan melalui  siaran \nradio pendidikan oleh Radio Republik Indonesia (RRI), yang kemu dian \ndiikuti oleh radio-radio swasta. Penggunaan media radio sebagai  sarana \n\n21 \n \npembelajaran menunjukkan adanya inovasi kebijakan pendidikan ya ng \nberorientasi pada perluasan jangkauan layanan pendidikan, khusu snya \nbagi masyarakat yang berada di luar pusat-pusat pendidikan form al. \nTonggak penting berikutnya adalah berdirinya Universitas Terbuk a (UT) \npada tahun 1984, yang secara khusus dirancang sebagai perguruan tinggi \npenyelenggara pendidikan jarak jauh. Kehadiran UT menandai \npengakuan negara secara institusional terhadap PJJ sebagai bent uk \npendidikan tinggi yang sah, terstruktur, dan berkelanjutan. Uni versitas \nTerbuka bukan hanya solusi teknis, melainkan manifestasi kebija kan \nnegara untuk menjamin hak atas pendidikan tinggi bagi kelompok \nmasyarakat yang tidak dapat mengikuti pendidikan tatap muka reg uler. \nKomitmen negara terhadap PJJ kembali diperkuat pada tahun 2007 \nmelalui kerja sama Direktorat Pendidikan Tinggi dengan SEAMOLEC  \ndalam meluncurkan program percontohan pendidikan jarak jauh bagi guru \ndalam jabatan untuk memperoleh jenjang Sarjana. Program tersebu t \ndikenal sebagai Hylite (Hybrid Learning for Indonesian Teachers ), yang \ndiselenggarakan oleh 23 Lembaga Pendidikan Tenaga Kependidikan \n(LPTK) di seluruh Indonesia dan sepenuhnya memanfaatkan teknolo gi \ninformasi (Pannen, 2007). Program ini menunjukkan bahwa PJJ sec ara \nsadar diposisikan sebagai instrumen peningkatan kualitas sumber  daya \nmanusia sekaligus perluasan akses pendidikan tinggi secara nasi onal. \nSeluruh perjalanan historis tersebut menunjukkan bahwa Pendidik an \nJarak Jauh di Indonesia bukanlah kebijakan yang bersifat ad hoc , \nmelainkan bagian dari strategi nasional yang berkembang secara \nbertahap dan berkesinambungan. PJJ hadir sebagai respons negara  \nterhadap kebutuhan nyata masyarakat, sekaligus sebagai instrume n \nkebijakan untuk mewujudkan prinsip keadilan sosial dalam pendid ikan \ntinggi.",
+      "start_line": 730,
+      "end_line": 773
+    },
+    {
+      "heading": "11. Bahwa pengakuan negara terhadap Pendidikan Jarak Jauh sebag ai",
+      "slug": "11-bahwa-pengakuan-negara-terhadap-pendidikan-jarak-jauh-sebag-ai",
+      "text": "instrumen pemenuhan hak atas pendidikan tidak hanya tercermin d alam \nsejarah kebijakan nasional, tetapi juga sejalan dengan praktik global \ndalam sistem pendidikan tinggi modern. Data internasional menun jukkan \nbahwa Pendidikan Jarak Jauh dan universitas terbuka justru menj adi \ntulang punggung perluasan akses pendidikan tinggi di berbagai n egara. \n\n22 \n \nPada tahun 2024, World Population Review mencatat sepuluh universitas \ndengan jumlah mahasiswa aktif terbesar di dunia, yang sebagian besar \nmerupakan penyelenggara pendidikan jarak jauh dan terbuka. Di \nperingkat teratas terdapat Indira Gandhi National Open University  \n(IGNOU) di India dengan lebih dari 7,14 juta mahasiswa aktif, \nmenjadikannya universitas terbesar di dunia berdasarkan jumlah \npendaftaran. Model pendidikan yang dikembangkan IGNOU sepenuhnya \nbertumpu pada sistem pendidikan jarak jauh dan pembelajaran dar ing \nuntuk menjangkau populasi yang sangat luas, termasuk kelompok \nmasyarakat yang secara sosial, geografis, dan ekonomi tidak ter jangkau \npendidikan tatap muka konvensional. \nTabel Universitas dengan Jumlah Mahasiswa Terbanyak 2024 \n \n \n \n \n \n \n \n \n \nSumber: https://data.goodstats.id/statistic/universitas-dengan-\nmahasiswa-terbanyak-2024-ut-masuk-daftar-RxPet#goog_rewarded \nSelanjutnya, National University Bangladesh menempati posisi ke dua \ndengan lebih dari 2 juta mahasiswa aktif, diikuti oleh California Community \nColleges System  di Amerika Serikat dengan lebih dari 2,13 juta \nmahasiswa, serta Anadolu University di Turki yang memiliki hampir 2 juta \nmahasiswa, sebagian besar di antaranya mengikuti program pendid ikan \njarak jauh. Pada posisi berikutnya, Allama Iqbal Open University  d i  \nPakistan menyelenggarakan pendidikan jarak jauh bagi lebih dari 1,1 juta \nmahasiswa sejak berdiri pada tahun 1974. Dalam konteks Indonesi a, \n\n\n23 \n \nUniversitas Terbuka tercatat berada pada peringkat keenam dunia  \ndengan lebih dari 1 juta mahasiswa aktif, yang tersebar di seluruh wilayah \nIndonesia, termasuk daerah-daerah terpencil dan tertinggal. Bahwa fakta \nempiris tersebut menunjukkan bahwa Pendidikan Jarak Jauh bukanl ah \nmodel pendidikan yang bersifat marginal atau eksperimental, mel ainkan \nmerupakan pola utama (mainstream) dalam penyelenggaraan pendidikan \ntinggi global untuk menjamin pemerataan akses pendidikan. Skala  \npenyelenggaraan PJJ yang sangat besar tersebut justru menegaska n \nbahwa mutu lulusan dan sistem penilaian menjadi isu normatif ya ng \nsemakin krusial. Semakin luas dan masif jangkauan Pendidikan Ja rak \nJauh, semakin besar pula tanggung jawab negara untuk memastikan  \nadanya jaminan mutu lulusan yang jelas, adil, dan berkepastian hukum \npada tingkat undang-undang.",
+      "start_line": 775,
+      "end_line": 830
+    },
+    {
+      "heading": "12. Bahwa dengan menempatkan PJJ sebagai bagian integral dari s istem",
+      "slug": "12-bahwa-dengan-menempatkan-pjj-sebagai-bagian-integral-dari-s-istem",
+      "text": "pendidikan tinggi nasional, negara pada hakikatnya telah memper luas \nruang lingkup pemenuhan hak konstitusional atas pendidikan. Nam un \ndemikian, perluasan akses tersebut secara konstitusional membaw a \nkonsekuensi normatif yang tidak ringan. Semakin besar peran Pendidikan \nJarak Jauh dalam menjangkau warga negara, semakin besar pula \nkewajiban negara untuk memastikan bahwa penyelenggaraan PJJ \ndilandasi oleh jaminan mutu yang jelas, terukur, dan terlindung i secara \nnormatif. Dalam perspektif konstitusional, pemenuhan hak atas \npendidikan tidak dapat direduksi menjadi sekadar pembukaan akse s \nmasuk ke perguruan tinggi. Hak tersebut juga mencakup jaminan b ahwa \npendidikan yang ditempuh memiliki kualitas, kebermaknaan, dan n ilai \nyang dapat dipertanggungjawabkan bagi pengembangan diri warga \nnegara. Oleh karena itu, perluasan akses melalui Pendidikan Jar ak Jauh \nharus dipahami sebagai satu kesatuan dengan kewajiban negara un tuk \nmenjamin mutu pendidikan secara substantif, sehingga PJJ benar- benar \nberfungsi sebagai instrumen pemenuhan hak konstitusional, bukan  \nsekadar mekanisme administratif peningkatan angka partisipasi. Dalam \nkonteks inilah, kedudukan Pendidikan Jarak Jauh sebagai kebutuh an \nkonstitusional nasional tidak dapat dilepaskan dari persoalan b agaimana \nnegara merumuskan dan menjamin standar normatif \n\n24 \n \npenyelenggaraannya, khususnya terkait dengan jaminan mutu lulus an \ndan sistem penilaian. Persoalan tersebut menjadi relevan untuk dikaji \nlebih lanjut dalam sub-bab berikutnya, mengingat karakter khusu s PJJ \nmenuntut perlindungan normatif yang tidak boleh lebih lemah \ndibandingkan dengan pendidikan tinggi tatap muka reguler.",
+      "start_line": 832,
+      "end_line": 859
+    },
+    {
+      "heading": "13. Bahwa pengembangan Pendidikan Jarak Jauh sebagai instrumen",
+      "slug": "13-bahwa-pengembangan-pendidikan-jarak-jauh-sebagai-instrumen",
+      "text": "pemenuhan hak atas pendidikan tinggi tidak hanya merupakan kebutuhan \nnasional Indonesia, melainkan juga merupakan praktik yang diaku i dan \ndijalankan secara luas dalam sistem pendidikan tinggi global. S alah satu \ncontoh paling mapan adalah The Open University di Inggris, yang sejak \nawal pendiriannya secara konsisten menempatkan pendidikan jarak  jauh \nsebagai sarana utama untuk membuka akses pendidikan universitas  \nberkualitas dunia bagi seluruh lapisan masyarakat.",
+      "start_line": 861,
+      "end_line": 867
+    },
+    {
+      "heading": "14. The Open University secara eksplisit menyatakan keyakinannya bahwa",
+      "slug": "14-the-open-university-secara-eksplisit-menyatakan-keyakinannya-bahwa",
+      "text": "pendidikan universitas kelas dunia harus terbuka untuk siapa sa ja, di \nmana saja. Prinsip tersebut menegaskan bahwa akses terhadap \npendidikan tinggi tidak boleh dibatasi oleh lokasi geografis, kondisi sosial, \nmaupun keadaan personal individu. Dalam kerangka tersebut, Pendidikan \nJarak Jauh diposisikan bukan sebagai alternatif sekunder dari pendidikan \ntatap muka, melainkan sebagai mekanisme utama untuk memastikan \ninklusivitas dan keadilan akses pendidikan tinggi secara global.",
+      "start_line": 869,
+      "end_line": 875
+    },
+    {
+      "heading": "15. Sejak tahun 1969, The Open University telah menyelenggarakan",
+      "slug": "15-sejak-tahun-1969-the-open-university-telah-menyelenggarakan",
+      "text": "pendidikan lintas zona waktu dan lintas negara, melayani mahasi swa di \nInggris dan lebih dari 180 negara di dunia. Praktik tersebut me nunjukkan \nbahwa Pendidikan Jarak Jauh mampu beroperasi secara berkelanjut an \ndalam skala internasional, tanpa mengorbankan kualitas akademik , \ndukungan pembelajaran, maupun standar pengajaran universitas. M odel \nini memperlihatkan bahwa fleksibilitas penyelenggaraan pendidikan tinggi \nmelalui PJJ justru menjadi prasyarat penting bagi pemenuhan hak  atas \npendidikan dalam masyarakat modern yang semakin beragam dan \ndinamis. \n(Sumber: https://www.open.ac.uk/courses/international-students/)",
+      "start_line": 877,
+      "end_line": 886
+    },
+    {
+      "heading": "16. Bahwa pengalaman The Open University memperkuat pandangan bahwa",
+      "slug": "16-bahwa-pengalaman-the-open-university-memperkuat-pandangan-bahwa",
+      "text": "Pendidikan Jarak Jauh merupakan instrumen struktural untuk menj amin \n\n25 \n \nhak atas pendidikan tinggi bagi warga negara yang tidak dapat mengikuti \npola pendidikan universitas tradisional. Mahasiswa pekerja, warga negara \nyang telah berkeluarga, maupun individu yang tinggal di wilayah yang jauh \ndari pusat pendidikan tinggi tetap dapat memperoleh akses terha dap \npendidikan universitas yang bermutu melalui sistem PJJ yang dir ancang \nsecara serius dan berkelanjutan. Dalam konteks Indonesia sebaga i \nnegara kepulauan dengan tantangan geografis dan sosial yang kompleks, \n“Indonesia sebagai negar a kepulauan terbesar di dunia memiliki posisi \ngeografis yang sangat strategis, namun sekaligus menghadapi tantangan \ntata kelola yang kompleks akibat keberagaman kondisi geografis,  sosial, \ndan ekonomi antar wilayah. Meskipun desentralisasi simetris tel ah \ndiimplementasikan sejak awal 2000-an untuk mendekatkan pelayana n \ndan memperkuat pembangunan daerah, pendekatan ini belum \nsepenuhnya menjawab kebutuhan khas wilayah kepulauan. Ketimpangan \npembangunan antara pulau utama dan pulau kecil serta keterbatas an \nakses terhadap layanan publik dasar menunjukkan perlunya pendek atan \nperencanaan dan kebijakan yang lebih diferensial untuk menjamin  \npemerataan akses layanan, termasuk pendidikan tinggi.” (Disesua ikan \ndari Policy Brief : Desentralisasi Asimetris untuk Provinsi Kepulauan – \nKementerian Keuangan RI).",
+      "start_line": 888,
+      "end_line": 911
+    },
+    {
+      "heading": "17. Bahwa Praktik internasional tersebut menunjukkan bahwa",
+      "slug": "17-bahwa-praktik-internasional-tersebut-menunjukkan-bahwa",
+      "text": "pengembangan Pendidikan Jarak Jauh bukanlah kebijakan \neksperimental, melainkan bagian dari rasionalitas kebijakan pen didikan \nmodern yang berorientasi pada pemenuhan hak atas pendidikan sec ara \ninklusif. Dengan kata lain, PJJ merupakan instrumen yang secara objektif \nrelevan untuk menjawab keterbatasan akses pendidikan tinggi di berbagai \nwilayah, sekaligus menjaga agar perluasan akses tidak berujung pada \npenurunan kualitas pendidikan.",
+      "start_line": 913,
+      "end_line": 919
+    },
+    {
+      "heading": "18. Bahwa dengan menjadikan Pendidikan Jarak Jauh sebagai bagia n",
+      "slug": "18-bahwa-dengan-menjadikan-pendidikan-jarak-jauh-sebagai-bagia-n",
+      "text": "integral dari strategi nasional pendidikan tinggi, negara Indon esia \nsejatinya berada dalam arus kebijakan global yang mengakui bahw a hak \natas pendidikan tinggi hanya dapat terpenuhi secara utuh apabil a sistem \npendidikan mampu beradaptasi dengan realitas sosial masyarakatn ya. \nOleh karena itu, keberadaan PJJ sebagai instrumen pemerataan ak ses \n\n26 \n \npendidikan tinggi memperoleh justifikasi normatif yang kuat, ba ik dari \npengalaman nasional maupun praktik internasional. Namun demikia n, \nperluasan akses pendidikan tinggi melalui Pendidikan Jarak Jauh , \nsebagaimana ditunjukkan oleh pengalaman internasional tersebut, selalu \nberjalan seiring dengan penekanan pada jaminan mutu pendidikan \nsebagai elemen yang tidak terpisahkan. Hal ini menegaskan bahwa  \nsemakin sentral peran PJJ dalam pemenuhan hak atas pendidikan tinggi, \nsemakin besar pula kewajiban negara untuk memastikan bahwa PJJ \ndiselenggarakan dengan standar mutu yang terlindungi secara nor matif, \nsehingga hak atas pendidikan tidak hanya terbuka secara akses, tetapi \njuga bermakna secara substantif. \nC. Sistem Penjaminan Mutu Lulusan sebagai Bagian yang Tidak \nTerpisahkan dari Pemenuhan Hak Konstitusional atas Pendidikan",
+      "start_line": 921,
+      "end_line": 941
+    },
+    {
+      "heading": "19. Bahwa berdasarkan data statistik terkini mengenai persentase penduduk",
+      "slug": "19-bahwa-berdasarkan-data-statistik-terkini-mengenai-persentase-penduduk",
+      "text": "miskin menurut pulau di Indonesia per Maret 2025, tingkat kemis kinan \nnasional masih berada pada angka 8,47%, dengan disparitas yang \nsignifikan antarwilayah. Bahkan pada wilayah tertentu seperti M aluku–\nPapua, persentase penduduk miskin mencapai 18,90%, dengan tingk at \nkemiskinan perdesaan yang sangat tinggi, yakni 25,94%. Kondisi ini \nmenunjukkan bahwa kemiskinan di Indonesia masih bersifat strukt ural \ndan tidak merata, serta memerlukan intervensi kebijakan yang be rsifat \nfundamental dan berjangka panjang. Bahwa pendidikan, khususnya \npendidikan tinggi, secara konstitusional dan sosiologis diposis ikan \nsebagai instrumen utama mobilitas sosial dan sarana strategis n egara \nuntuk memutus mata rantai kemiskinan. Namun demikian, efektivit as \npendidikan tinggi sebagai instrumen pengentasan kemiskinan tida k \nsemata-mata ditentukan oleh perluasan akses, melainkan sangat \nbergantung pada mutu lulusan yang dihasilkan oleh sistem pendid ikan \ntinggi itu sendiri. Bahwa fakta masih tingginya angka kemiskina n dan \nkerentanan ekonomi, termasuk di wilayah-wilayah dengan keterbat asan \nakses pendidikan tatap muka, menunjukkan bahwa tantangan pendidikan \ntinggi di Indonesia bukan hanya persoalan keterjangkauan, tetap i juga \npersoalan kualitas hasil pendidikan. Pendidikan tinggi yang han ya \nberorientasi pada peningkatan partisipasi tanpa disertai jamina n mutu \n\n27 \n \nlulusan berpotensi melahirkan lulusan yang secara formal bergel ar, \nnamun secara substantif tidak memiliki kompetensi yang memadai untuk \nmeningkatkan kesejahteraan hidupnya. \nSumber: Sumber: BPS (Badan Pusat Statistik)",
+      "start_line": 943,
+      "end_line": 969
+    },
+    {
+      "heading": "20. Bahwa pendidikan, khususnya pendidikan tinggi, secara konst itusional",
+      "slug": "20-bahwa-pendidikan-khususnya-pendidikan-tinggi-secara-konst-itusional",
+      "text": "diposisikan sebagai instrumen utama untuk meningkatkan kualitas  \nsumber daya manusia sekaligus sebagai sarana mobilitas sosial g una \nkeluar dari kemiskinan. Oleh karena itu, hak atas pendidikan \nsebagaimana dijamin dalam Pasal 31 UUD 1945 tidak dapat dimakna i \nsemata-mata sebagai hak untuk mengakses pendidikan, melainkan j uga \nsebagai hak untuk memperoleh pendidikan yang bermutu dan berday a \nguna bagi peningkatan kesejahteraan hidup. Bahwa realitas sosia l \nmenunjukkan bahwa peningkatan akses pendidikan tinggi belum sec ara \notomatis berbanding lurus dengan peningkatan kesejahteraan \nmasyarakat. Hal ini tercermin dari meningkatnya jumlah pengangguran di \nkalangan lulusan pendidikan tinggi, sebagaimana dicatat oleh Ba dan \nPusat Statistik dalam laporan Keadaan Angkatan Kerja di Indonesia tahun",
+      "start_line": 971,
+      "end_line": 982
+    },
+    {
+      "heading": "2025. Data tersebut menunjukkan bahwa jumlah pengangguran lulus an",
+      "slug": "2025-data-tersebut-menunjukkan-bahwa-jumlah-pengangguran-lulus-an",
+      "text": "Diploma IV, Sarjana (S1), Magister (S2), hingga Doktor (S3) cen derung \nmeningkat dalam beberapa tahun terakhir. \n\n\n28",
+      "start_line": 984,
+      "end_line": 997
+    },
+    {
+      "heading": "21. Bahwa pada Februari 2022, jumlah pengangguran lulusan pendi dikan",
+      "slug": "21-bahwa-pada-februari-2022-jumlah-pengangguran-lulusan-pendi-dikan",
+      "text": "tinggi tercatat sekitar 884.769 orang. Meskipun sempat menurun pada \nAgustus 2022 menjadi sekitar 673.485 orang, angka tersebut kemb ali \nmeningkat secara konsisten: 753.732 orang pada Februari 2023, 787.973 \norang pada Agustus 2023, 871.860 orang pada Februari 2024, dan \nkembali melonjak hingga mencapai 1.010.652 orang pada Februari 2025, \nyang merupakan angka tertinggi dalam kurun waktu empat tahun terakhir. \nBahwa fenomena tersebut menjadi indikator kuat bahwa ijazah dan gelar \nakademik tidak lagi secara otomatis menjamin kesiapan lulusan u ntuk \nmemasuki dunia kerja dan meningkatkan taraf hidupnya. Dalam kon teks \nini, pendidikan tinggi yang tidak disertai sistem penjaminan mu tu lulusan \nyang kuat berpotensi melahirkan lulusan yang secara formal meme nuhi \nsyarat akademik, tetapi secara substantif tidak memiliki ketera mpilan, \nrelevansi kompetensi, dan daya saing yang memadai. Bahwa teori \nmanajemen mutu pendidikan tinggi menjelaskan bahwa mutu lulusan  \nmerupakan hasil dari suatu sistem yang terencana, terstruktur, dan \nberkelanjutan, bukan hasil dari proses pembelajaran yang berjalan secara \nparsial atau administratif. Mutu lulusan hanya dapat dijamin ap abila \nterdapat keterkaitan yang jelas antara tujuan pendidikan, capai an \npembelajaran lulusan ( learning outcomes ), proses pembelajaran, dan \nsistem penilaian (assessment system).",
+      "start_line": 999,
+      "end_line": 1018
+    },
+    {
+      "heading": "22. Bahwa sistem penjaminan mutu lulusan dalam pendidikan tingg i pada",
+      "slug": "22-bahwa-sistem-penjaminan-mutu-lulusan-dalam-pendidikan-tingg-i-pada",
+      "text": "hakikatnya merupakan mekanisme untuk memastikan bahwa lulusan \n\n\n29 \n \nbenar-benar mencapai kompetensi yang ditetapkan, sehingga pendidikan \ntinggi dapat berfungsi sebagai sarana peningkatan kualitas hidu p, \npengurangan pengangguran terdidik, dan pemutusan rantai kemiski nan \nstruktural. Tanpa sistem penjaminan mutu lulusan yang efektif, pendidikan \ntinggi berisiko menjadi sekadar proses administratif yang mengh asilkan \ngelar, tanpa menghasilkan nilai tambah bagi lulusan maupun masyarakat. \nBahwa urgensi sistem penjaminan mutu lulusan semakin meningkat \ndalam konteks perubahan dunia kerja yang semakin kompleks dan \ndinamis. Tantangan dunia kerja saat ini tidak hanya menuntut \npenguasaan pengetahuan teoritis, tetapi juga keterampilan prakt is, \nkemampuan adaptasi, dan relevansi kompetensi dengan kebutuhan \nindustri dan masyarakat. Oleh karena itu, sistem pendidikan tinggi dituntut \nuntuk tidak hanya meluluskan mahasiswa, tetapi menjamin mutu lu lusan \nsecara substantif. Bahwa berbagai kebijakan pemerintah di bidan g \npendidikan tinggi, termasuk program magang dan penguatan \nketerampilan mahasiswa, pada dasarnya merupakan pengakuan impli sit \natas adanya kesenjangan antara mutu lulusan dan kebutuhan dunia kerja. \nNamun demikian, kebijakan-kebijakan tersebut bersifat programat ik dan \ntidak dapat menggantikan kewajiban normatif negara untuk menjam in \nmutu lulusan melalui sistem yang diatur secara jelas dan mengikat dalam \nundang-undang.",
+      "start_line": 1020,
+      "end_line": 1045
+    },
+    {
+      "heading": "23. Bahwa secara teoretik, penjaminan mutu pendidikan (quality assurance in",
+      "slug": "23-bahwa-secara-teoretik-penjaminan-mutu-pendidikan-quality-assurance-in",
+      "text": "education) dipahami sebagai proses sistematis yang dirancang untuk \nmenjaga, meningkatkan, dan menjamin kualitas pendidikan secara \nberkelanjutan, baik dari sisi kesetaraan, efektivitas, maupun e fisiensi \npenyelenggaraan pendidikan. Penjaminan mutu tidak hanya berfung si \nsebagai mekanisme pengawasan, tetapi juga sebagai instrumen \nperbaikan berkelanjutan terhadap proses dan hasil pendidikan. B ahwa \nmenurut kerangka konseptual yang dikembangkan oleh European \nCommission, sistem penjaminan mutu pendidikan merupakan mekanisme \nyang mencakup tujuan, proses, struktur, dan para pemangku kepentingan \npada setiap jenjang pendidikan, yang dirancang untuk memastikan bahwa \nproses pembelajaran menghasilkan hasil belajar terbaik bagi pes erta \ndidik. Sistem ini bekerja melalui kombinasi mekanisme internal dan \n\n30 \n \neksternal, yang saling melengkapi dalam menjamin mutu pendidika n \nsecara menyeluruh ( European Commission , 2018). Bahwa European \nCommission menegaskan bahwa model penjaminan mutu pendidikan \nantarnegara secara struktural dapat berbeda, baik pada tingkat nasional \nmaupun regional. Namun demikian, perbedaan desain kelembagaan \ntersebut tidak mengubah prinsip dasarnya, yakni bahwa penjaminan mutu \nharus menjamin akuntabilitas hasil pendidikan sekaligus mendoro ng \nperbaikan mutu secara berkelanjutan ( quality enhancement) (European \nCommission, 2018). Bahwa dalam sistem penjaminan mutu modern, \ntanggung jawab mutu tidak semata-mata diletakkan pada satu akto r, \nmelainkan didistribusikan secara berjenjang antara negara, lemb aga \npenjaminan mutu, dan satuan pendidikan. Negara bertanggung jawa b \nmenetapkan kerangka normatif dan standar minimum, sementara satuan \npendidikan bertanggung jawab mengimplementasikan dan \nmengembangkan mutu dalam kerangka tersebut. Dengan demikian, \npenjaminan mutu tidak dapat dilepaskan dari tata kelola dan akuntabilitas \npublik (European Commission, 2018). Bahwa European Commission juga \nmenekankan bahwa penjaminan mutu pendidikan tidak boleh berhent i \npada pengawasan proses, tetapi harus diarahkan pada hasil dan capaian \npeserta didik. Dengan kata lain, mutu pendidikan diukur dari sejauh mana \nsistem pendidikan mampu menghasilkan lulusan yang memenuhi standar \nkompetensi dan relevan dengan kebutuhan sosial, ekonomi, dan du nia \nkerja. Oleh karena itu, sistem penilaian dan evaluasi menjadi bagian yang \ntidak terpisahkan dari sistem penjaminan mutu.",
+      "start_line": 1047,
+      "end_line": 1085
+    },
+    {
+      "heading": "24. Bahwa dalam negara hukum, sistem penjaminan mutu lulusan tidak dapat",
+      "slug": "24-bahwa-dalam-negara-hukum-sistem-penjaminan-mutu-lulusan-tidak-dapat",
+      "text": "diletakkan semata-mata sebagai kebijakan teknis atau program \npemerintah yang bersifat temporer, melainkan harus ditegaskan s ebagai \nbagian yang tidak terpisahkan dari pemenuhan hak konstitusional  a t a s  \npendidikan. Hak atas pendidikan yang bermutu hanya dapat diwuju dkan \napabila negara secara normatif menjamin bahwa setiap lulusan \npendidikan tinggi memperoleh perlindungan atas mutu hasil \npendidikannya. Bahwa apabila undang-undang hanya memuat frasa \numum mengenai adanya sistem yang menjamin mutu lulusan tanpa \nmenetapkan standar normatif minimum, maka jaminan mutu tersebut  \n\n31 \n \nmenjadi tidak pasti, bergantung pada kebijakan institusional, d an \nberpotensi menghasilkan lulusan dengan mutu yang tidak setara. Kondisi \ndemikian tidak hanya merugikan mahasiswa sebagai subjek hak, te tapi \njuga melemahkan fungsi pendidikan tinggi sebagai instrumen \npengentasan kemiskinan dan pengurangan pengangguran terdidik. \nBahwa oleh karena itu, persoalan meningkatnya pengangguran lulu san \npendidikan tinggi dan masih tingginya angka kemiskinan tidak da pat \ndipisahkan dari persoalan ketiadaan sistem penjaminan mutu lulu san \nyang kuat dan mengikat secara normatif. Hal inilah yang menjadi  dasar \nkonstitusional bagi para Pemohon untuk mempersoalkan pengaturan  \nsistem penjaminan mutu lulusan dalam undang-undang. \nD. Perbandingan Kerangka Penjaminan Mutu Pendidikan Tinggi anta ra \nAustralia dan Indonesia sebagai Dasar Penilaian Kecukupan Norma  \nPenjaminan Mutu",
+      "start_line": 1087,
+      "end_line": 1112
+    },
+    {
+      "heading": "25. Kerangka Penjaminan Mutu Pendidikan Tinggi dalam Sistem Aus tralia",
+      "slug": "25-kerangka-penjaminan-mutu-pendidikan-tinggi-dalam-sistem-aus-tralia",
+      "text": "(TEQSA Act 2011) \na) Bahwa di Australia, penjaminan mutu pendidikan tinggi diatur  \nsecara tegas, sistemik, dan berlapis dalam Tertiary Education \nQuality and Standards Agency Act 2011 (TEQSA Act), yaitu \nundang-undang yang secara khusus dibentuk untuk mengatur tata \nkelola mutu pendidikan tinggi pada tingkat nasional. Bahwa sala h \nsatu ketentuan kunci dalam TEQSA Act adalah Section 58 (Vide P-\n39), yang mengatur mengenai pembentukan Higher Education \nStandards Framework (HESF). Secara akurat berdasarkan bunyi \nnorma, Section 58 TEQSA Act menyatakan: \n“The Minister may, by legislative instrument, make the following \nstandards that make up the Higher Education Standards \nFramework: \n(a) the Threshold Standards; and \n(b) other standards against which the quality of higher education \ncan be assessed.” \nBahwa berdasarkan ketentuan tersebut, Menteri tidak hanya \ndiberikan kewenangan untuk menetapkan standar pendidikan \ntinggi, melainkan kewenangan tersebut dikunci secara normatif \n\n32 \n \ndalam bentuk instrumen legislatif, sehingga standar mutu \npendidikan tinggi memiliki kedudukan hukum yang mengikat \nsecara nasional. Bahwa yang menjadi penting secara normatif, \nSection 5 8  T E Q S A  Act tidak berhenti pada pemberian \nkewenangan, melainkan secara tegas menetapkan prasyarat \nsubstantif sebelum standar mutu ditetapkan. Section 58 ayat (3) \ndan ayat (4) menegaskan bahwa Menteri dilarang menetapkan \nstandar kecuali: \nb) Terdapat draft of the standard developed by the Panel, yaitu panel \nahli independen; \nc) Menteri telah melakukan konsultasi wajib dengan para pemangk u \nkepentingan utama, termasuk para Menteri Pendidikan Tinggi \nnegara bagian dan teritori, Menteri Riset (jika berbeda), serta  \nTEQSA sebagai badan penjaminan mutu independen; dan \nd) Menteri wajib mempertimbangkan rekomendasi profesional \nsebelum standar tersebut ditetapkan. \nBahwa konstruksi hukum tersebut menunjukkan bahwa dalam sistem \nAustralia, penjaminan mutu ditempatkan sebagai norma dasar \n(primary norm) yang harus ditetapkan sebelum implementasi teknis \npenyelenggaraan pendidikan tinggi dilakukan. Dengan demikian, \nstandar penilaian, capaian pembelajaran, dan mutu lulusan tidak  \ndiserahkan sepenuhnya kepada kebijakan masing-masing institusi,  \nmelainkan berada dalam kerangka standar nasional yang seragam, \ntransparan, dan dapat ditegakkan secara hukum.",
+      "start_line": 1114,
+      "end_line": 1159
+    },
+    {
+      "heading": "26. Kerangka Penjaminan Mutu Pendidikan Tinggi dalam Sistem Ind onesia",
+      "slug": "26-kerangka-penjaminan-mutu-pendidikan-tinggi-dalam-sistem-ind-onesia",
+      "text": "(UU No. 12 Tahun 2012 dan Permendiktisaintek No. 39 Tahun 2025) (vide \n40) \nBahwa di Indonesia, penjaminan mutu pendidikan tinggi secara pr insipil \ndiakui dalam Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan \nTinggi. Pasal 31 ayat (3) UU Pendidikan Tinggi menyatakan bahwa: \n“Pendidikan jarak jauh diselenggarakan dengan sistem penilaian yang \nmenjamin mutu lulusan sesuai dengan Standar Nasional Pendidikan  \nTinggi.” \n\n33 \n \nBahwa ketentuan tersebut secara substantif mengandung mandat \nkonstitusional kepada negara untuk menjamin mutu lulusan, terma suk \nmelalui sistem penilaian. Namun demikian, norma tersebut belum \nmenetapkan standar normatif minimum mengenai bagaimana sistem \npenilaian harus dirancang, dikaitkan dengan proses pembelajaran , dan \ndiawasi secara nasional. Bahwa penjabaran lebih lanjut mengenai  \npenjaminan mutu pendidikan tinggi kemudian diatur melalui Perat uran \nMenteri Pendidikan Tinggi, Sains, dan Teknologi Nomor 39 Tahun 2025 \ntentang Penjaminan Mutu Pendidikan Tinggi. Dalam peraturan ters ebut, \nPasal 65 menegaskan bahwa: \na) Evaluasi pemenuhan dan relevansi Standar Nasional Pendidikan  \nTinggi (SN Dikti) dilakukan melalui Sistem Penjaminan Mutu \nPendidikan Tinggi (SPM Dikti); \nb) SPM Dikti mencakup bidang akademik dan nonakademik; dan \nc) Bidang akademik berkaitan dengan pelaksanaan Tridharma \nPerguruan Tinggi. \nBahwa secara positif dan progresif, Pasal 65 Permendiktisaintek  Nomor \n39 Tahun 2025 menunjukkan adanya komitmen negara untuk \nmembangun mekanisme penjaminan mutu melalui pendekatan evaluasi , \nrelevansi standar, serta pembagian cakupan akademik dan nonakademik. \nKetentuan ini mencerminkan perhatian serius pemerintah terhadap  tata \nkelola mutu pendidikan tinggi secara administratif dan manajerial. Bahwa \nlebih lanjut, pengaturan dalam pasal-pasal berikutnya memperjel as \nbahwa SPM Dikti terdiri atas SPMI dan SPME, dilaksanakan melalui siklus \npenetapan pelaksanaan evaluasi pengendalian peningkatan standar , \nserta berlandaskan prinsip tata kelola yang baik. Hal ini menun jukkan \nbahwa Indonesia telah memiliki arsitektur penjaminan mutu yang relatif \nlengkap pada tataran mekanisme.",
+      "start_line": 1161,
+      "end_line": 1199
+    },
+    {
+      "heading": "27. Bahwa meskipun sama-sama mengatur penjaminan mutu pendidika n",
+      "slug": "27-bahwa-meskipun-sama-sama-mengatur-penjaminan-mutu-pendidika-n",
+      "text": "tinggi, terdapat perbedaan prinsipil dalam posisi normatif peng aturan \nmutu antara TEQSA Act dan UU No. 12 Tahun 2012 beserta \nPermendiktisaintek Nomor 39 Tahun 2025. Bahwa pertama, dalam sistem \nAustralia, kerangka standar mutu pendidikan tinggi ditetapkan l angsung \n\n34 \n \nberdasarkan mandat undang-undang. Section 58 TEQSA Act mengunci \nkeberadaan Threshold Standards sebagai norma hukum primer yang \nharus ada sebelum penyelenggaraan dan penilaian pendidikan ting gi \ndilakukan. Sebaliknya, dalam sistem Indonesia, standar normatif  \nmengenai sistem penilaian yang menjamin mutu lulusan belum \ndirumuskan secara tegas pada tingkat undang-undang, melainkan b aru \ndioperasionalkan melalui peraturan menteri. Bahwa kedua, TEQSA Act \nmenempatkan standar mutu sebagai tolok ukur hukum terhadap kual itas \npendidikan tinggi, yang kemudian diawasi oleh badan independen.  \nSementara itu, Permendiktisaintek Nomor 39 Tahun 2025 lebih \nmenekankan pada mekanisme evaluasi dan pengelolaan mutu, yaitu \nbagaimana standar yang telah ada dievaluasi dan dijalankan melalui SPM \nDikti, bukan pada penetapan norma minimum sistem penilaian itu sendiri. \nBahwa ketiga, dalam kerangka Australia, perlindungan mutu lulus an \nterjadi secara preventif dan struktural melalui Threshold Stand ards yang \nmenjadi syarat legal penyelenggaraan pendidikan tinggi. Dalam k onteks \nIndonesia, perlindungan mutu lulusan masih sangat bergantung pa da \nefektivitas implementasi SPM Dikti oleh masing-masing perguruan tinggi, \nyang tingkat konsistensi dan kualitasnya dapat berbeda-beda.",
+      "start_line": 1201,
+      "end_line": 1226
+    },
+    {
+      "heading": "28. Bahwa perbandingan ini menunjukkan bahwa Indonesia sesunggu hnya",
+      "slug": "28-bahwa-perbandingan-ini-menunjukkan-bahwa-indonesia-sesunggu-hnya",
+      "text": "telah memiliki instrumen administratif dan manajerial yang progresif dalam \npenjaminan mutu pendidikan tinggi. Namun demikian, kekuatan nor matif \ninstrumen tersebut masih bergantung pada kejelasan norma di tin gkat \nundang-undang. Bahwa frasa “sistem penilaian yang menjamin mutu  \nlulusan” dalam Pasal 31 ayat (3) UU No. 12 Tahun 2012 belum dik unci \ndengan standar normatif minimum yang mengharuskan keterkaitan y ang \nutuh antara proses pembelajaran berkelanjutan, mekanisme penila ian, \ndan hasil akhir lulusan. Bahwa pengalaman Australia melalui TEQSA Act \nmemperlihatkan bahwa penjaminan mutu akan lebih efektif dan \nmemberikan kepastian hukum yang lebih kuat apabila standar mutu dasar \nditetapkan terlebih dahulu di tingkat undang-undang, sebelum dijabarkan \nlebih lanjut melalui regulasi teknis. \nE. Fakta Sistemik Penjaminan Mutu Menunjukkan Kekosongan Norma \ndalam Pasal 31 ayat (3) UU Pendidikan Tinggi \n\n35",
+      "start_line": 1228,
+      "end_line": 1244
+    },
+    {
+      "heading": "29. Bahwa Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi",
+      "slug": "29-bahwa-undang-undang-nomor-12-tahun-2012-tentang-pendidikan-tinggi",
+      "text": "secara tegas mengatur Pendidikan Jarak Jauh (PJJ) dalam Pasal 31 ayat \n(1) sampai dengan ayat (4) sebagai satu kesatuan norma yang tid ak \nterpisahkan, yakni: (vide P-1) \nPasal 31 ayat (1) menyatakan bahwa: “Pendidikan jarak jauh merupakan \nproses belajar mengajar yang dilakukan secara jarak jauh melalu i \npenggunaan berbagai media komunikasi.” \nPasal 31 ayat (2) menyatakan bahwa Pendidikan Jarak Jauh bertuj uan \nuntuk: \na. memberikan layanan Pendidikan Tinggi kepada kelompok masyara kat \nyang tidak dapat mengikuti Pendidikan secara tatap muka atau re guler; \ndan \nb. memperluas akses serta mempermudah layanan Pendidikan Tinggi  \ndalam Pendidikan dan pembelajaran.” \nPasal 31 ayat (3) menyatakan bahwa “Pendidikan jarak jauh \ndiselenggarakan dalam berbagai bentuk, modus, dan cakupan yang \ndidukung oleh sarana dan layanan belajar serta sistem penilaian  y a n g  \nmenjamin mutu lulusan sesuai dengan Standar Nasional Pendidikan  \nTinggi.” \nPasal 31 ayat (4) menyatakan bahwa: “Ketentuan lebih lanjut men genai \npenyelenggaraan pendidikan jarak jauh sebagaimana dimaksud pada  \nayat (1), ayat (2), dan ayat (3) diatur dalam Peraturan Menteri.”",
+      "start_line": 1246,
+      "end_line": 1266
+    },
+    {
+      "heading": "30. Bahwa dari konstruksi norma tersebut, pembentuk undang-unda ng",
+      "slug": "30-bahwa-dari-konstruksi-norma-tersebut-pembentuk-undang-unda-ng",
+      "text": "secara sadar menempatkan sistem penilaian yang menjamin mutu lulusan \nsebagai elemen esensial dalam penyelenggaraan Pendidikan Jarak Jauh, \nsekaligus memberikan ruang pengaturan teknis melalui Peraturan \nMenteri. Dengan demikian, Pasal 31 ayat (3) secara sistemik \ndimaksudkan sebagai norma jaminan (guarantee norm) yang seharusnya \nmemberikan perlindungan substantif terhadap mutu lulusan Pendid ikan \nJarak Jauh.Bahwa pengaturan lebih lanjut sebagaimana dimaksud Pasal \n31 ayat (4) UU Pendidikan Tinggi kemudian dijabarkan melalui peraturan \npelaksana, antara lain: \n\n36 \n \na) Permendikbud Nomor 109 Tahun 2013 tentang Penyelenggaraan \nPendidikan Jarak Jauh (vide P-43) \nPasal 17 ayat (1): “Perguruan tinggi penyelenggara Pendidikan \nJarak Jauh wajib mengembangkan sistem penjaminan mutu \ninternal Pendidikan Jarak Jauh.” \nPasal 17 ayat (2): “Program studi Pendidikan Jarak Jauh wajib \ndiakreditasi sesuai dengan karakteristik Pendidikan Jarak Jauh.” \nPasal 17 ayat (3): “Perguruan tinggi wajib melaporkan \npenyelenggaraan Pendidikan Jarak Jauh sesuai dengan sistem \npelaporan yang berlaku.” \nb) Permendikbud Nomor 7 Tahun 2020 (vide P-42) \nPasal 55 ayat (1): “Perguruan tinggi penyelenggara Pendidikan \nJarak Jauh melaksanakan penjaminan mutu internal Pendidikan \nJarak Jauh.” \nPasal 55 ayat (2): “Program Studi Pendidikan Jarak Jauh \ndiakreditasi secara periodik sesuai dengan karakteristik Pendidikan \nJarak Jauh.” \nPasal 55 ayat (3): “Perguruan tinggi melaporkan penyelenggaraan \nProgram Studi Pendidikan Jarak Jauh sesuai dengan sistem \npelaporan yang berlaku.” \nPasal 55 ayat (4): “Pemantauan, evaluasi, dan pembinaan \nProgram Studi Pendidikan Jarak Jauh dilakukan secara berkala.”",
+      "start_line": 1268,
+      "end_line": 1301
+    },
+    {
+      "heading": "31. Bahwa kedua Peraturan Menteri tersebut secara positif menun jukkan",
+      "slug": "31-bahwa-kedua-peraturan-menteri-tersebut-secara-positif-menun-jukkan",
+      "text": "komitmen negara dalam membangun mekanisme penjaminan mutu \nPendidikan Jarak Jauh melalui sistem kelembagaan, akreditasi, \npelaporan, serta evaluasi berkelanjutan. Namun demikian, pengat uran \ntersebut lebih menitikberatkan pada aspek prosedural dan admini stratif \ninstitusi, sebagai konsekuensi dari delegasi pengaturan teknis oleh \nundang-undang. \n\n37",
+      "start_line": 1303,
+      "end_line": 1311
+    },
+    {
+      "heading": "32. Bahwa apabila keseluruhan pengaturan mengenai Pendidikan Jarak Jauh",
+      "slug": "32-bahwa-apabila-keseluruhan-pengaturan-mengenai-pendidikan-jarak-jauh",
+      "text": "tersebut dibaca secara sistemik, tampak adanya rantai normatif \nberjenjang sebagai berikut:",
+      "start_line": 1313,
+      "end_line": 1314
+    },
+    {
+      "heading": "1. Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi",
+      "slug": "1-undang-undang-nomor-12-tahun-2012-tentang-pendidikan-tinggi",
+      "text": "menetapkan prinsip, tujuan, dan kerangka dasar Pendidikan Jarak \nJauh, serta mensyaratkan adanya “sistem penilaian yang \nmenjamin mutu lulusan” sebagai elemen esensial \npenyelenggaraan PJJ;",
+      "start_line": 1316,
+      "end_line": 1319
+    },
+    {
+      "heading": "2. Peraturan Menteri menjabarkan kewajiban penjaminan mutu",
+      "slug": "2-peraturan-menteri-menjabarkan-kewajiban-penjaminan-mutu",
+      "text": "tersebut ke dalam mekanisme operasional, antara lain melalui \nsistem penjaminan mutu internal, akreditasi, pelaporan, serta \npemantauan dan evaluasi. \nBahwa konstruksi berjenjang tersebut pada prinsipnya mencermink an \ndesain pengaturan yang rasional dan sistematis, di mana norma p ada \ntingkat undang-undang memberikan arah, sedangkan peraturan \npelaksana mengoperasionalkan pelaksanaannya. Namun demikian, \ndalam konteks Pendidikan Jarak Jauh, konstruksi tersebut juga \nmemperlihatkan bahwa substansi jaminan normatif minimum mengena i \nbagaimana sistem penilaian harus menjamin mutu lulusan belum \ndirumuskan secara eksplisit pada tingkat undang-undang. Bahwa f rasa \n“sistem penilaian yang menjamin mutu lulusan” dalam Pasal 31 ay at (3) \nUU Pendidikan Tinggi belum disertai dengan ukuran normatif mini mum \nmengenai keterkaitan yang wajib dijamin antara proses pembelaja ran \nyang dijalani mahasiswa dan hasil penilaian akademik. Akibatnya , \njaminan mutu lulusan Pendidikan Jarak Jauh belum sepenuhnya ber diri \nsebagai perlindungan hukum yang bersumber langsung dari undang-\nundang, melainkan bergantung pada pengaturan teknis di bawahnya . \nBahwa dalam perspektif negara hukum, norma undang-undang \nseharusnya memuat jaminan normatif minimum atas hak warga negar a, \nsedangkan peraturan pelaksana berfungsi untuk mengoperasionalka n \njaminan tersebut. Perbandingan ini tidak dimaksudkan untuk meni lai \nefektivitas kebijakan pendidikan tinggi di negara lain, melaink an semata-\nmata digunakan sebagai cermin normatif untuk menilai kecukupan \n\n38 \n \npengaturan jaminan mutu pada tingkat undang-undang dalam Pasal 31 \nayat (3) UU Pendidikan Tinggi. \nTabel: Variasi Pengaturan Sistem Penilaian dalam Penyelenggaraan \nPendidikan Jarak Jauh (vide P-29 s.d P-37) \nAspek Universitas Terbuka \n(UT) \nUniversitas \nSiber Asia \n(UNSIA)",
+      "start_line": 1321,
+      "end_line": 1356
+    },
+    {
+      "heading": "BINUS",
+      "slug": "binus",
+      "text": "Online \nLearning \nUIN Siber \nSyekh Nurjati \nCirebon \nMasa Kuliah 1 semester (8minggu) 1 semester (±16 \nminggu) \n1 \nsemester \n(±11 \nminggu) \n1 semester \n(±14minggu) \nUTS Tidak Ada Minggu ke 7 Menjadi \nkomponen \nnilai \n(±20%) \nWajib, \ndilaksanakan",
+      "start_line": 1358,
+      "end_line": 1376
+    },
+    {
+      "heading": "di minggu ke",
+      "slug": "di-minggu-ke",
+      "text": "7 \nUAS Komponen utama \npenentu nilai akhir \n70% \nKomponen utama \nnilai akhir 30% \nKomponen \nutama nilai \nakhir(30%) \nKomponen \nutama nilai \nakhir \nRemedial/Perbaikan \nNilai \nTidak Ada Ada Ada Tersedia \nsesuai \nketentuan \nfakultas/prodi \nSistem Penilaian Mengutamakan hasil \nUAS 70% \nMenyeimbangkan \nproses \npembelajaran \ndan hasil ujian \nAkumulatif \ndari \nkehadiran, \ntugas, \nUTS, dan \nUAS \nKomprehensif, \nmencakup \nkehadiran, \ntugas, tutorial, \nUTS, dan \nUAS",
+      "start_line": 1378,
+      "end_line": 1413
+    },
+    {
+      "heading": "33. Bahwa fakta sistemik mengenai penyelenggaraan Pendidikan Jarak Jauh",
+      "slug": "33-bahwa-fakta-sistemik-mengenai-penyelenggaraan-pendidikan-jarak-jauh",
+      "text": "sebagaimana tergambar dalam tabel perbandingan masa kuliah dan \nsistem penilaian PJJ di atas secara objektif menunjukkan adanya  variasi \nyang sangat signifikan antarperguruan tinggi, baik dalam durasi semester, \nkeberadaan dan fungsi Ujian Tengah Semester, bobot Ujian Akhir \nSemester terhadap nilai akhir, ketersediaan mekanisme remedial atau \nperbaikan nilai, maupun pendekatan sistem penilaian yang diguna kan, \nmulai dari yang menitikberatkan hasil evaluasi akhir sebagai ko mponen \n\n39 \n \ndominan hingga yang menerapkan penilaian akumulatif dan komprehensif \nberbasis proses pembelajaran. Variasi tersebut tidak dimaksudka n untuk \nmenilai, membandingkan, atau mempersoalkan kebijakan akademik \nmasing-masing perguruan tinggi, melainkan digunakan secara norm atif \nuntuk menunjukkan bahwa frasa “sistem penilaian yang menjamin m utu \nlulusan” dalam Pasal 31 ayat (3) UU Pendidikan Tinggi belum ber fungsi \nsebagai pagar hukum normatif yang menetapkan standar minimum ya ng \nmengikat mengenai bagaimana mutu lulusan harus dijamin melalui sistem \npenilaian. Fakta bahwa terdapat perguruan tinggi yang \nmenyelenggarakan PJJ tanpa Ujian Tengah Semester, terdapat yang  \nmenempatkan Ujian Akhir Semester sebagai penentu utama nilai ak hir \ndengan bobot yang sangat dominan, sementara perguruan tinggi la in \nmenyeimbangkan penilaian antara proses pembelajaran dan hasil u jian \nserta menyediakan mekanisme remedial, menunjukkan bahwa hubungan \nantara proses pembelajaran dan hasil penilaian belum dilindungi  o l e h  \nukuran normatif yang sama pada tingkat undang-undang. Dalam \nkonstruksi negara hukum, kondisi demikian mengindikasikan bahwa  \njaminan mutu lulusan belum berdiri sebagai hak hukum yang bersu mber \nlangsung dari undang-undang, melainkan bergantung pada desain \npenilaian institusional masing-masing perguruan tinggi sebagai \nkonsekuensi dari ketiadaan standar normatif minimum dalam Pasal  3 1  \nayat (3). Dengan demikian, meskipun pengaturan berjenjang antar a \nundang-undang dan peraturan pelaksana secara formal telah terbe ntuk, \ndata perbandingan ini memperlihatkan bahwa substansi jaminan normatif \nmengenai keterkaitan yang proporsional antara proses pembelajar an \nberkelanjutan dan hasil penilaian akhir belum dikunci pada ting kat \nundang-undang, sehingga perlindungan mutu lulusan Pendidikan Ja rak \nJauh belum memiliki kepastian hukum yang setara dan dapat dipre diksi \nbagi seluruh mahasiswa sebagai subjek hak pendidikan. \nF. Koherensi Normatif Pasal 31 Ayat (1) sampai Ayat (4) UU No. 12 Tahun \n2012 dan Ketidakcukupan Jaminan Mutu dalam Sistem Penilaian \nPendidikan Jarak Jauh",
+      "start_line": 1415,
+      "end_line": 1456
+    },
+    {
+      "heading": "34. Bahwa Pasal 31 ayat (1) Undang-Undang Nomor 12 Tahun 2012 tentang",
+      "slug": "34-bahwa-pasal-31-ayat-1-undang-undang-nomor-12-tahun-2012-tentang",
+      "text": "Pendidikan Tinggi secara tegas mendefinisikan Pendidikan Jarak Jauh \n\n40 \n \nsebagai “proses belajar mengajar yang dilakukan secara jarak ja uh \nmelalui penggunaan berbagai media komunikasi.” Rumusan ini \nmenegaskan bahwa Pendidikan Jarak Jauh bukan sekadar variasi teknis \ndari pendidikan tatap muka, melainkan suatu proses pedagogis ya ng \nberdiri sendiri, dengan karakteristik utama berupa keterpisahan  fisik \nantara dosen dan mahasiswa serta ketergantungan tinggi pada sis tem \npembelajaran dan sistem penilaian sebagai alat penghubung akade mik. \nBahwa konsekuensi normatif dari rumusan Pasal 31 ayat (1) terse but \nadalah bahwa seluruh unsur pendidikan termasuk penilaian harus \ndirancang secara sistemik untuk menggantikan fungsi kehadiran f isik \ndosen. Dalam konteks ini, sistem penilaian bukan hanya alat eva luasi \nhasil, melainkan instrumen utama perlindungan proses belajar \nmahasiswa, terutama karena mahasiswa PJJ tidak berada dalam \npengawasan langsung dosen sebagaimana pendidikan tatap muka. \nBahwa Pasal 31 ayat (2) UU Pendidikan Tinggi kemudian menetapka n \ntujuan Pendidikan Jarak Jauh, yakni: a) memberikan layanan pend idikan \ntinggi kepada kelompok masyarakat yang tidak dapat mengikuti \npendidikan secara tatap muka atau reguler; dan b) memperluas ak ses \nserta mempermudah layanan pendidikan tinggi dalam pendidikan da n \npembelajaran. Bahwa tujuan tersebut menunjukkan bahwa PJJ secar a \neksplisit dirancang untuk melayani kelompok rentan secara struk tural, \nseperti mahasiswa pekerja, masyarakat di wilayah terpencil, dan  warga \nnegara dengan keterbatasan waktu dan mobilitas. Oleh karena itu, secara \nkonstitusional, PJJ bukanlah pendidikan dengan standar perlindu ngan \nyang lebih rendah, melainkan justru menuntut perlindungan normatif yang \nlebih kuat, karena kelompok sasaran PJJ berada dalam posisi yan g \nsecara sosial dan struktural lebih rentan. Bahwa Pasal 31 ayat (3) UU \nPendidikan Tinggi menyatakan bahwa Pendidikan Jarak Jauh \ndiselenggarakan dengan dukungan sarana dan layanan belajar sert a \n“sistem penilaian yang menjamin mutu lulusan sesuai dengan Stan dar \nNasional Pendidikan Tinggi.” Frasa inilah yang menjadi titik se ntral \npersoalan konstitusional dalam permohonan a quo. Bahwa secara \nredaksional, ayat (3) menggunakan frasa afirmatif “menjamin mut u \nlulusan”, namun tidak memberikan definisi normatif mengenai: \n\n41 \n \n apa yang dimaksud dengan mutu lulusan dalam konteks PJJ; \n bagaimana sistem penilaian harus dirancang untuk menjamin mutu  \ntersebut; \n hubungan apa yang wajib ada antara proses belajar berkelanjuta n \ndan hasil penilaian akhir. \nBahwa ketiadaan norma minimum ini menyebabkan jaminan mutu lulusan \ndalam ayat (3) tidak berdiri sebagai hak yang dapat diklaim ole h \nmahasiswa, melainkan bergantung sepenuhnya pada kebijakan turun an, \nbahkan kebijakan internal perguruan tinggi. Dengan demikian, fr asa \n“menjamin mutu lulusan” kehilangan makna normatifnya dan beruba h \nmenjadi deklarasi formal tanpa daya lindung konstitusional. Bah wa \nkondisi tersebut semakin problematik ketika dikaitkan dengan Pa sal 31 \nayat (4) UU Pendidikan Tinggi yang menyatakan bahwa ketentuan l ebih \nlanjut mengenai penyelenggaraan PJJ diatur dalam Peraturan Ment eri. \nAyat (4) ini menunjukkan bahwa undang-undang secara sadar \nmenyerahkan pengaturan teknis kepada regulasi turunan. Namun, \npenyerahan tersebut tidak boleh menghilangkan kewajiban undang-\nundang untuk menetapkan standar normatif minimum sebagai kerang ka \nperlindungan hak. Bahwa secara teori hukum, delegasi pengaturan hanya \nsah apabila norma induk telah menetapkan batas, prinsip, dan st andar \ndasar. Tanpa itu, delegasi berubah menjadi pengosongan norma \n(normative abdication). Dalam perkara a quo, Pasal 31 ayat (3) dan ayat \n(4) justru menunjukkan bahwa negara melepaskan tanggung jawab \nnormatifnya untuk menetapkan jaminan minimum mutu lulusan pada \ntingkat undang-undang.",
+      "start_line": 1458,
+      "end_line": 1523
+    },
+    {
+      "heading": "35. Bahwa ketidakcukupan jaminan normatif dalam Pasal 31 ayat ( 3) UU",
+      "slug": "35-bahwa-ketidakcukupan-jaminan-normatif-dalam-pasal-31-ayat-3-uu",
+      "text": "Pendidikan Tinggi menjadi semakin nyata apabila dibandingkan de ngan \nUndang-Undang Nomor 14 Tahun 2005 tentang Guru dan Dosen. Bahwa \nPasal 51 ayat (1) huruf f UU Guru dan Dosen secara tegas menyat akan \nbahwa dosen memiliki “kebebasan dalam memberikan penilaian dan \nmenentukan kelulusan peserta didik.” (vide P-41). Norma ini memberikan \nhak subjektif yang jelas dan eksplisit kepada dosen dalam melak ukan \npenilaian akademik. Bahwa kebebasan dosen tersebut kemudian \ndilindungi lebih lanjut melalui pengaturan hak atas kesejahtera an, \n\n42 \n \npengembangan kompetensi, kebebasan akademik, serta perlindungan  \nhukum sebagaimana diatur dalam Pasal 51 ayat (1) huruf a sampai huruf \ng UU Guru dan Dosen. Bahwa jika dibandingkan, UU Guru dan Dosen  \nmemberikan jaminan normatif yang sangat rinci dan tegas mengena i \nposisi, hak, dan kewenangan dosen dalam sistem penilaian. Sebal iknya, \nUU Pendidikan Tinggi tidak memberikan jaminan normatif yang set ara \nkepada mahasiswa sebagai subjek yang dinilai. Bahwa ketimpangan  ini \nmenciptakan ketidakseimbangan struktural dalam sistem pendidika n \ntinggi, di mana kebebasan menilai dosen dilindungi secara undan g-\nundang, tetapi hak mahasiswa untuk memperoleh penilaian yang ad il, \nproporsional, dan berbasis proses tidak dijamin secara eksplisi t dalam \nundang-undang.",
+      "start_line": 1525,
+      "end_line": 1547
+    },
+    {
+      "heading": "36. Bahwa secara teoritis, menurut Michael G. Moore (Transactional Distance",
+      "slug": "36-bahwa-secara-teoritis-menurut-michael-g-moore-transactional-distance",
+      "text": "Theory), dalam pendidikan jarak jauh, sistem penilaian berfungsi sebagai \njembatan antara struktur dan dialog. Ketika penilaian hanya ber orientasi \npada hasil akhir dan tidak mengintegrasikan proses belajar, mak a jarak \npedagogis meningkat dan fungsi pendidikan menjadi distortif. Ba hwa \nBorje Holmberg melalui konsep guided didactic conversation menegaskan \nbahwa PJJ harus menjamin bahwa proses belajar mahasiswa diakui dan \ndibimbing secara sistemik. Penilaian yang mengabaikan proses \nberkelanjutan bertentangan dengan hakikat PJJ itu sendiri. Bahw a Biggs \n& Tang (Constructive Alignment) menyatakan bahwa mutu lulusan hanya \ndapat dijamin apabila terdapat keselarasan antara learning outcomes , \nproses pembelajaran, dan sistem penilaian. Tanpa kewajiban norm atif \nuntuk menyelaraskan ketiganya, klaim “menjamin mutu lulusan” me njadi \ntidak berdasar secara pedagogis.",
+      "start_line": 1549,
+      "end_line": 1561
+    },
+    {
+      "heading": "37. Bahwa dengan demikian, apabila Pasal 31 ayat (1) sampai aya t (4) UU",
+      "slug": "37-bahwa-dengan-demikian-apabila-pasal-31-ayat-1-sampai-aya-t-4-uu",
+      "text": "Pendidikan Tinggi dibaca secara sistematis dan dibandingkan dengan UU \nGuru dan Dosen, tampak jelas bahwa negara lebih tegas melindung i \nkewenangan penilai (dosen) daripada melindungi hak yang dinilai  \n(mahasiswa). Bahwa kondisi tersebut menunjukkan adanya kekosong an \nnorma pada tingkat undang-undang mengenai jaminan mutu lulusan \nsebagai hak mahasiswa, khususnya mahasiswa Pendidikan Jarak Jau h, \n\n43 \n \nyang secara struktural sangat bergantung pada sistem penilaian sebagai \nsatu-satunya mekanisme pengakuan akademik. \nG. Pertentangan Pasal 31 Ayat (3) UU Pendidikan Tinggi dengan P asal 31 \nAyat (1), Pasal 28D Ayat (1), dan Pasal 28C Ayat (1) UUD NRI 1945",
+      "start_line": 1563,
+      "end_line": 1575
+    },
+    {
+      "heading": "38. Bahwa Pasal 31 ayat (1) UUD NRI 1945 menjamin hak setiap wa rga",
+      "slug": "38-bahwa-pasal-31-ayat-1-uud-nri-1945-menjamin-hak-setiap-wa-rga",
+      "text": "negara untuk mendapatkan pendidikan. Dalam perkembangan hukum \nkonstitusi modern, hak atas pendidikan tidak lagi dipahami secara sempit \nsebagai hak administratif untuk terdaftar atau memperoleh akses  formal \nterhadap institusi pendidikan, melainkan telah berkembang menja di hak \nsubstantif atas pendidikan yang bermutu, bermakna, dan relevan.  \nPemaknaan ini menempatkan negara bukan sekadar sebagai penyedia  \nlayanan pendidikan, tetapi sebagai penanggung jawab utama atas \nkualitas sistem pendidikan, termasuk desain, proses, dan hasil \npembelajaran yang diterima oleh peserta didik.",
+      "start_line": 1577,
+      "end_line": 1585
+    },
+    {
+      "heading": "39. Bahwa pendidikan dalam hukum internasional hak asasi manusi a telah",
+      "slug": "39-bahwa-pendidikan-dalam-hukum-internasional-hak-asasi-manusi-a-telah",
+      "text": "diposisikan bukan semata sebagai layanan publik, melainkan sebagai hak \nfundamental yang melekat pada setiap manusia sepanjang hidupnya . \n“...UNESCO believes that education is a human right for all throughout life \nand that access must be matched by quality. The Organization is the only \nUnited Nations agency with a mandate to cover all aspects of education...” \nSumber: \nhttps://www.unesco.org/en/node/559#:~:text=matched%20by%20quality.\n,UNESCO%20believes%20that%20education%20is%20a%20human%2\n0right%20for%20all,through%20Sustainable%20Development%20Goal\n%204.  UNESCO secara konsisten menegaskan bahwa education is a \nhuman right for all throughout life dan bahwa akses terhadap pendidikan \nharus selalu diimbangi dengan kualitas ( access must be matched by \nquality). Prinsip ini ditegaskan UNESCO sebagai bagian dari mandat \nglobal pemenuhan hak atas pendidikan melalui Sustainable Development \nGoal 4, yang menempatkan kualitas pendidikan sebagai elemen esensial \ndari keadilan pendidikan itu sendiri. Bahwa prinsip UNESCO ters ebut \nmenegaskan satu kaidah normatif universal, yakni bahwa pendidik an \ntidak pernah dianggap terpenuhi hanya dengan membuka akses, \nmelainkan harus disertai dengan jaminan mutu yang nyata, teruku r, dan \n\n44 \n \ndapat dirasakan oleh subjek hak. Dengan demikian, pendidikan ya ng \ndapat diakses tetapi tidak dilindungi kualitasnya justru melahirkan bentuk \nbaru dari ketidakadilan pendidikan.",
+      "start_line": 1587,
+      "end_line": 1611
+    },
+    {
+      "heading": "40. Pemahaman tersebut sejalan dengan standar hukum hak asasi manusia",
+      "slug": "40-pemahaman-tersebut-sejalan-dengan-standar-hukum-hak-asasi-manusia",
+      "text": "internasional sebagaimana ditegaskan oleh Komite Hak Ekonomi, Sosial, \ndan Budaya Perserikatan Bangsa-Bangsa dalam General Comment No. \n13: The Right to Education (1999) yang diadopsi pada Sesi ke-21 dengan \ndokumen resmi E/C.12/1999/10. Dalam dokumen tersebut ditegaskan  \nbahwa “ Education is both a human right in itself and an indispensable \nmeans of realizing other human rights. As an empowerment right, \neducation is the primary vehicle by which economically and socially \nmarginalized adults and children can lift themselves out of poverty and \nobtain the means to participate fully in their communities… Increasingly, \neducation is recognized as one of the best financial investments States \ncan make. But the importance of education is not just practical: a well-\neducated, enlightened and active mind, able to wander freely and widely, \nis one of the joys and rewards of human existence.” \n(Sumber:https://www.ohchr.org/en/resources/educators/human-rights-\neducation-training/d-general-comment-no-13-right-education-article-13-\n1999). Lebih lanjut, General Comment No. 13 (vide P-44) merumuskan \nbahwa pemenuhan hak atas pendidikan harus memenuhi empat unsur \nutama, yaitu availability, accessibility, acceptability, dan adaptability. Dua \nunsur terakhir acceptability dan adaptability secara eksplisit menekankan \nbahwa pendidikan harus berkualitas secara substansi, sesuai den gan \nkebutuhan peserta didik, serta diselenggarakan melalui metode \npembelajaran dan evaluasi yang relevan dengan karakter dan kond isi \nsubjek hak. Dengan demikian, dalam perspektif hukum HAM \ninternasional, pendidikan yang dapat diakses tetapi tidak dijam in kualitas \ndan relevansinya tidak dapat dianggap sebagai pemenuhan hak ata s \npendidikan secara utuh. Dalam konteks Pendidikan Jarak Jauh (PJ J), \npemenuhan unsur acceptability d a n  adaptability tersebut sangat \nbergantung pada desain sistem penilaian, karena sistem penilaia n \nmerupakan mekanisme utama yang mengakui, mengukur, dan memberi \nmakna hukum serta akademik terhadap proses belajar yang dijalan i \n\n45 \n \nmahasiswa. Penilaian bukan sekadar alat seleksi atau administra si \nkelulusan, melainkan instrumen normatif yang menentukan apakah \npendidikan benar-benar berfungsi sebagai sarana pemberdayaan da n \npengembangan diri sebagaimana dimaksud oleh standar PBB.",
+      "start_line": 1613,
+      "end_line": 1649
+    },
+    {
+      "heading": "41. Bahwa Pasal 31 ayat (1) dan ayat (2) Undang-Undang Nomor 12 Tahun",
+      "slug": "41-bahwa-pasal-31-ayat-1-dan-ayat-2-undang-undang-nomor-12-tahun",
+      "text": "2012 tentang Pendidikan Tinggi telah menempatkan Pendidikan Jar ak \nJauh sebagai proses pembelajaran yang sah, setara, dan berorien tasi \npada perluasan akses pendidikan tinggi. Namun, ketika memasuki Pasal \n31 ayat (3), undang-undang hanya memuat frasa “sistem penilaian  yang \nmenjamin mutu lulusan” tanpa menetapkan parameter normatif minimum \nmengenai bagaimana mutu tersebut harus dijamin, bagaimana prose s \nbelajar berkelanjutan harus diakui, dan bagaimana hasil penilai an harus \nmerepresentasikan capaian pembelajaran secara adil dan proporsi onal. \nAkibat dari ketiadaan parameter normatif tersebut, perluasan ak ses \npendidikan tinggi melalui PJJ tidak secara otomatis berbanding lurus \ndengan perlindungan kualitas pendidikan. Kondisi ini menimbulka n risiko \nkonstitusional di mana hak atas pendidikan sebagaimana dijamin Pasal \n31 ayat (1) UUD NRI 1945 tereduksi menjadi hak formal atas akse s, \nsementara dimensi substantif berupa mutu, makna, dan relevansi \npendidikan sebagaimana ditekankan dalam General Comment No. 13  \ntidak memperoleh jaminan hukum yang memadai pada tingkat undang -\nundang. Dengan demikian, ketentuan Pasal 31 ayat (3) UU Pendidi kan \nTinggi, sepanjang tidak dimaknai secara konstitusional, berpote nsi \nmenyimpang dari kewajiban negara sebagai duty bearer  dalam \npemenuhan hak atas pendidikan yang bermutu, bermakna, dan \nmemberdayakan, baik menurut konstitusi nasional maupun menurut \nstandar hak asasi manusia internasional yang diakui oleh Perser ikatan \nBangsa-Bangsa.",
+      "start_line": 1651,
+      "end_line": 1673
+    },
+    {
+      "heading": "42. Bahwa prinsip internasional tersebut sejalan dan koheren de ngan",
+      "slug": "42-bahwa-prinsip-internasional-tersebut-sejalan-dan-koheren-de-ngan",
+      "text": "konstruksi konstitusional Indonesia, khususnya Pasal 31 ayat (1 ) UUD \nNRI 1945 yang menjamin hak setiap warga negara untuk mendapatka n \npendidikan, yang oleh Mahkamah Konstitusi telah ditafsirkan sebagai hak \nyang menimbulkan kewajiban aktif negara untuk menjamin pendidik an \nyang adil, setara, dan bermakna. Bahwa Mahkamah Konstitusi dala m \n\n46 \n \nPutusan Nomor 5/PUU-X/2012 [3.19] halaman 193–194 “…Menurut \nMahkamah pengakuan dan perlindungan hak atas pendidikan ini \nberimplikasi pada adanya tanggung jawab dan kewajiban negara un tuk \nmenjamin bagi semua orang tanpa adanya pembedaan perlakuan dan \nharus menghilangkan semua ketidaksetaraan yang ada, sehingga ak an \nmuncul pendidikan yang dapat diakses oleh setiap warga negara s ecara \nadil dan merata…”menegaskan bahwa pengakuan hak atas pendidikan  \nberimplikasi langsung pada tanggung jawab dan kewajiban negara untuk \nmenjamin pendidikan bagi semua orang tanpa pembedaan serta untu k \nmenghilangkan seluruh ketidaksetaraan yang ada. Putusan tersebu t \nmenunjukkan bahwa negara tidak boleh berhenti pada pemenuhan formal \nakses, melainkan wajib memastikan bahwa desain sistem pendidika n \ntidak menciptakan atau melanggengkan ketidaksetaraan baru.",
+      "start_line": 1675,
+      "end_line": 1695
+    },
+    {
+      "heading": "43. Bahwa dalam konteks Pendidikan Jarak Jauh (PJJ), ketidaksetaraan tidak",
+      "slug": "43-bahwa-dalam-konteks-pendidikan-jarak-jauh-pjj-ketidaksetaraan-tidak",
+      "text": "selalu muncul dalam bentuk hambatan masuk atau pembatasan akses , \nmelainkan dalam bentuk yang lebih struktural dan sistemik, yakn i \nketiadaan jaminan normatif atas kualitas dan pengakuan proses b elajar \ndalam sistem penilaian. Ketika negara membuka akses luas melalu i PJJ \ntetapi tidak mengunci jaminan mutu pada tingkat undang-undang, maka \nnegara secara normatif gagal menyeimbangkan akses dengan kualit as \nsebagaimana prinsip UNESCO dan mandat konstitusi.",
+      "start_line": 1697,
+      "end_line": 1703
+    },
+    {
+      "heading": "44. Bahwa Pasal 28D ayat (1) UUD NRI 1945 menjamin hak setiap orang atas",
+      "slug": "44-bahwa-pasal-28d-ayat-1-uud-nri-1945-menjamin-hak-setiap-orang-atas",
+      "text": "pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil . \nDalam konteks pendidikan tinggi, kepastian hukum tidak hanya be rarti \nadanya aturan administratif mengenai penyelenggaraan pendidikan , \nmelainkan adanya kejelasan norma yang dapat diprediksi, diklaim , dan \ndipertahankan oleh mahasiswa terkait bagaimana proses belajar m ereka \ndinilai dan bagaimana mutu lulusan dijamin oleh negara. Kepastian hukum \nyang adil mensyaratkan bahwa mahasiswa sebagai subjek hak \npendidikan memiliki pegangan normatif yang jelas mengenai hubun gan \nantara proses pembelajaran yang dijalani dengan hasil penilaian  y a n g  \nmenentukan status akademiknya.",
+      "start_line": 1705,
+      "end_line": 1714
+    },
+    {
+      "heading": "45. Bahwa fakta empiris menunjukkan bahwa negara secara aktif mendorong",
+      "slug": "45-bahwa-fakta-empiris-menunjukkan-bahwa-negara-secara-aktif-mendorong",
+      "text": "dan mengakui pembelajaran daring dan Pendidikan Jarak Jauh seba gai \n\n47 \n \nbagian integral dari sistem pendidikan tinggi nasional. Hal ini  antara lain \ntercermin dari pernyataan Pelaksana Tugas Direktur Jenderal Pendidikan \nTinggi Kementerian Pendidikan dan Kebudayaan, Nizam, yang \nmenyampaikan bahwa sejak Maret 2020 sebanyak sekitar delapan ju ta \nmahasiswa dan 300.000 dosen secara mendadak bertransformasi ke \ndalam pembelajaran daring. Berdasarkan survei yang dilakukan ol eh \nKementerian Pendidikan dan Kebudayaan, sekitar 70% mahasiswa da n \ndosen menilai pembelajaran daring sebagai baik atau bahkan sangat baik, \nsementara 30% lainnya masih mengakui adanya berbagai kelemahan \ndalam pelaksanaannya (Sumber: https://spada.kemdiktisaintek.go. id/ \nberita/dirjen-dikti-70-persen-mahasiswa-dan-dosen-nilai-pembelajaran-\ndaring-lebih-baik). Bahwa data tersebut menunjukkan dua hal pen ting \nsecara bersamaan. Pertama, pembelajaran daring dan PJJ telah diterima \nsecara luas sebagai model pembelajaran yang sah dan relevan dal am \npendidikan tinggi Indonesia. Kedua, sekaligus terdapat variasi \npengalaman belajar dan kualitas pelaksanaan yang diakui secara terbuka \noleh negara sendiri. Dalam kondisi demikian, kepastian hukum at as \nsistem penilaian menjadi semakin krusial, karena sistem penilai an \nmerupakan instrumen utama yang menentukan apakah pengalaman \nbelajar yang beragam tersebut diakui secara adil dan proporsional dalam \nhasil akademik mahasiswa.",
+      "start_line": 1716,
+      "end_line": 1740
+    },
+    {
+      "heading": "46. Bahwa meskipun negara telah mengakui keberhasilan relatif",
+      "slug": "46-bahwa-meskipun-negara-telah-mengakui-keberhasilan-relatif",
+      "text": "pembelajaran daring secara umum, Pasal 31 ayat (3) UU Nomor 12 Tahun \n2012 tentang Pendidikan Tinggi tidak memberikan kepastian hukum yang \nmemadai mengenai bagaimana mutu lulusan dijamin melalui sistem \npenilaian. Frasa “sistem penilaian yang menjamin mutu lulusan” tidak \ndisertai dengan penjelasan mengenai unsur minimum sistem penila ian, \ntidak menetapkan keterkaitan normatif antara proses pembelajara n \nberkelanjutan dan hasil penilaian, serta tidak memberikan batas an yang \njelas mengenai standar keadilan dan proporsionalitas penilaian.  \nAkibatnya, jaminan mutu lulusan bersifat relatif dan abstrak, b ergantung \nsepenuhnya pada pengaturan turunan dan kebijakan institusional,  \nsehingga tidak dapat diklaim sebagai hak hukum yang pasti oleh \nmahasiswa. Bahwa dalam situasi di mana sebagian besar mahasiswa dan \n\n48 \n \ndosen menilai pembelajaran daring secara positif, tetapi sebagian lainnya \nmasih mengalami kelemahan, ketiadaan standar normatif minimum pada \ntingkat undang-undang justru memperbesar ketidakpastian hukum. \nMahasiswa tidak memiliki kepastian apakah kualitas proses belaj ar yang \ntelah mereka jalani—baik yang dinilai efektif maupun yang diakui memiliki \nketerbatasan—akan diakomodasi secara adil dalam sistem penilaia n. \nDengan demikian, perbedaan pengalaman belajar yang secara faktu al \ndiakui oleh negara tidak diimbangi dengan kepastian hukum menge nai \nmekanisme penilaian yang melindungi hak mahasiswa secara setara.",
+      "start_line": 1742,
+      "end_line": 1765
+    },
+    {
+      "heading": "47. Bahwa kondisi tersebut semakin problematis ketika dikaitkan dengan",
+      "slug": "47-bahwa-kondisi-tersebut-semakin-problematis-ketika-dikaitkan-dengan",
+      "text": "Pasal 31 ayat (4) UU Pendidikan Tinggi, yang mendelegasikan \npengaturan lebih lanjut mengenai Pendidikan Jarak Jauh kepada \nPeraturan Menteri. Dalam prinsip negara hukum, pendelegasian \npengaturan teknis hanya dapat dibenarkan apabila norma pokok di tingkat \nundang-undang telah dirumuskan secara jelas dan tegas. Namun, k etika \nnorma pokok mengenai jaminan mutu lulusan dan sistem penilaian masih \nbersifat umum dan tidak menetapkan standar normatif minimum, ma ka \npendelegasian tersebut bukan memperjelas, melainkan justru \nmemperluas ruang ketidakpastian hukum. Bahwa dengan demikian, \nsekalipun negara secara faktual telah mengakui dan mengevaluasi  \npelaksanaan pembelajaran daring melalui survei nasional, ketiad aan \nkepastian normatif dalam Pasal 31 ayat (3) UU Pendidikan Tinggi  \nmenyebabkan hasil evaluasi tersebut tidak terkonversi menjadi \nperlindungan hukum yang nyata bagi mahasiswa. Mahasiswa tetap \nberada dalam posisi yang tidak pasti, karena tidak memiliki das ar hukum \nyang jelas untuk menuntut agar proses belajar yang telah dinilai baik atau \nefektif tersebut diakui secara proporsional dalam sistem penilaian.",
+      "start_line": 1767,
+      "end_line": 1783
+    },
+    {
+      "heading": "48. Bahwa Pasal 28C ayat (1) UUD NRI 1945 menjamin hak setiap o rang",
+      "slug": "48-bahwa-pasal-28c-ayat-1-uud-nri-1945-menjamin-hak-setiap-o-rang",
+      "text": "untuk mengembangkan diri melalui pemenuhan kebutuhan dasarnya, \nmemperoleh pendidikan, serta mendapatkan manfaat dari ilmu \npengetahuan dan teknologi demi meningkatkan kualitas hidup dan \nkesejahteraan umat manusia. Hak untuk mengembangkan diri terseb ut \ntidak dapat dipahami secara sempit sebagai hak untuk mengikuti proses \npembelajaran secara formal, melainkan harus dimaknai sebagai ha k \n\n49 \n \nuntuk mengalami proses pendidikan yang secara nyata mendorong \npertumbuhan kapasitas intelektual, keterampilan, dan daya saing individu. \nDalam konteks pendidikan tinggi modern, khususnya Pendidikan Ja rak \nJauh (PJJ), hak untuk mengembangkan diri sangat bergantung pada  \nbagaimana sistem penilaian dirancang dan dijalankan. Penilaian bukan \nsekadar mekanisme administratif untuk menentukan kelulusan, melainkan \ninstrumen konstitusional yang menentukan apakah proses pembelaj aran \nbenar-benar diakui, dihargai, dan memberikan manfaat pengembang an \ndiri bagi mahasiswa. \n1) Outcome-Based Education (OBE) sebagai Pendekatan yang \nSelaras dengan Hak Konstitusional Mengembangkan Diri \nBahwa pendekatan Outcome-Based Education  ( O B E )  \nmenempatkan learning outcomes sebagai pusat penyelenggaraan \npendidikan. Dalam OBE, penilaian tidak lagi difokuskan pada \npengujian ingatan atau penguasaan materi secara parsial, \nmelainkan pada pencapaian kompetensi nyata yang \nmencerminkan kemampuan mahasiswa untuk berpikir analitis, \nmemecahkan masalah, berkomunikasi secara efektif, dan bekerja \nsecara kolaboratif. Pendekatan ini secara konseptual sejalan \ndengan Pasal 28C ayat (1) UUD NRI 1945, karena pengembangan \ndiri hanya dapat terjadi apabila pendidikan memberi ruang bagi \nmahasiswa untuk menginternalisasi pengetahuan dan \nmengaplikasikannya secara reflektif dan kontekstual. Dalam \nkerangka ini, sistem penilaian yang objektif, transparan, dan \nkomprehensif bukan sekadar pilihan pedagogis, melainkan \nprasyarat normatif agar hak konstitusional atas pengembangan diri \nbenar-benar terwujud. Penilaian yang hanya menitikberatkan pada \nsatu bentuk evaluasi akhir berpotensi mengerdilkan makna \npendidikan, karena mengabaikan proses pembelajaran \nberkelanjutan yang justru menjadi sarana utama pengembangan \nkapasitas mahasiswa. \n2) Performance-Based Assessment  sebagai Instrumen Pengakuan \natas Proses Pengembangan Diri \n\n50 \n \nBahwa performance-based assessment melalui portofolio, proyek \nkelompok, studi kasus dunia nyata, simulasi, dan presentasi \nmemiliki peran penting dalam memastikan bahwa pengembangan \ndiri mahasiswa diukur secara substantif, bukan simbolik. Metode ini \nmemungkinkan penilaian terhadap berbagai dimensi kompetensi, \ntermasuk keterampilan analitis, pemecahan masalah, komunikasi, \ndan kerja tim, yang secara langsung berkaitan dengan tujuan \npendidikan tinggi sebagai sarana peningkatan kualitas hidup dan  \nkesiapan profesional. Rust (2007) dalam Assessment & Evaluation \nin Higher Education  menegaskan bahwa dalam performance-\nbased assessment, mahasiswa memahami dengan jelas apa yang \ndinilai, bagaimana kriteria keberhasilan ditetapkan, dan bagaimana \nmereka dapat meningkatkan diri melalui umpan balik yang \nkonstruktif. Dari perspektif konstitusional, kejelasan ini sang at \npenting, karena hak untuk mengembangkan diri mensyaratkan \nadanya kepastian mengenai bagaimana usaha belajar diakui dan \ndinilai. Tanpa sistem penilaian yang transparan dan berbasis \nkinerja, proses pengembangan diri kehilangan makna hukum dan \nakademiknya. \n3) Teknologi dan OBE sebagai Sarana Perlindungan Hak \nPengembangan Diri \nBahwa lebih lanjut, Ahmad, S. Z., & Al-Gamal, M. (2021) dalam \njurnal The Effectiveness of Outcome-Based Education in Higher \nEducation: A Systematic Review  menunjukkan bahwa \npemanfaatan teknologi dalam OBE secara signifikan memudahkan \npengawasan capaian pembelajaran secara menyeluruh. Teknologi \nmemungkinkan pemantauan progres mahasiswa secara \nberkelanjutan, analisis capaian pembelajaran berbasis data, ser ta \npemberian umpan balik yang lebih cepat dan akurat. Dari perspektif \nhak konstitusional Pasal 28C ayat (1) UUD NRI 1945, pemanfaatan \nteknologi ini bukan sekadar inovasi pedagogis, melainkan \ninstrumen negara untuk memastikan bahwa setiap mahasiswa \nmemperoleh manfaat nyata dari pendidikan tinggi. Dengan \ndukungan teknologi, perguruan tinggi dapat mengidentifikasi \n\n51 \n \nkekuatan dan kelemahan program studi secara objektif, sekaligus  \nmemastikan bahwa mahasiswa tidak kehilangan pengakuan atas \nproses pengembangan diri yang telah dijalani.",
+      "start_line": 1785,
+      "end_line": 1869
+    },
+    {
+      "heading": "49. Bahwa dalam Pendidikan Jarak Jauh, sistem penilaian memilik i posisi",
+      "slug": "49-bahwa-dalam-pendidikan-jarak-jauh-sistem-penilaian-memilik-i-posisi",
+      "text": "yang jauh lebih sentral dibandingkan pendidikan tatap muka, kar ena \npenilaian menjadi satu-satunya mekanisme formal yang menghubungkan \nproses pembelajaran dengan pengakuan capaian akademik. Oleh karena \nitu, apabila sistem penilaian tidak dirancang secara objektif, \nkomprehensif, dan berbasis capaian pembelajaran, maka hak mahasiswa \nuntuk mengembangkan diri melalui pendidikan tinggi tidak terlin dungi \nsecara memadai. Dalam konteks Pasal 31 ayat (1) sampai ayat (4)  UU \nNo. 12 Tahun 2012 tentang Pendidikan Tinggi, pendekatan OBE dan  \nperformance-based assessment seharusnya tercermin sebagai bagian \ndari jaminan normatif minimum dalam sistem penilaian. Tanpa jam inan \ntersebut, pengembangan diri mahasiswa PJJ bergantung pada kebijakan \nteknis dan praktik institusional, sehingga hak konstitusional P asal 28C \nayat (1) UUD NRI 1945 tidak memperoleh perlindungan hukum yang \nsetara. Dengan demikian, sistem penilaian yang objektif, transparan, dan \nkomprehensif berbasis Outcome-Based Education bukan sekadar \ninstrumen akademik, melainkan perwujudan konkret hak konstitusi onal \nuntuk mengembangkan diri melalui pendidikan. Tanpa adanya jamin an \nnormatif bahwa sistem penilaian harus mengakui proses pembelaja ran \nberkelanjutan dan capaian kompetensi secara proporsional, pendi dikan \ntinggi khususnya Pendidikan Jarak Jauh berisiko menjadi pendidi kan \nyang bersifat administratif, bukan transformatif. Oleh karena i tu, \nperlindungan terhadap hak mengembangkan diri sebagaimana Pasal 28C \nayat (1) UUD NRI 1945 menuntut adanya pemaknaan konstitusional \nterhadap sistem penilaian pendidikan tinggi, sehingga penilaian tidak lagi \nsekadar mengukur hasil akhir, tetapi benar-benar mencerminkan d an \nmenghargai proses pengembangan diri mahasiswa sebagai subjek ha k \npendidikan.",
+      "start_line": 1871,
+      "end_line": 1897
+    },
+    {
+      "heading": "50. Bahwa berdasarkan seluruh uraian fakta hukum, argumentasi n ormatif,",
+      "slug": "50-bahwa-berdasarkan-seluruh-uraian-fakta-hukum-argumentasi-n-ormatif",
+      "text": "dan analisis konstitusional sebagaimana telah diuraikan dalam p osita \npermohonan ini, para Pemohon telah menunjukkan secara jelas dan  \n\n52 \n \nkonsisten bahwa Pasal 31 ayat (3) Undang-Undang Nomor 12 Tahun \n2012 tentang Pendidikan Tinggi mengandung kekosongan norma \nkonstitusional. Kekosongan tersebut terletak pada tidak ditetap kannya \nstandar normatif minimum mengenai bagaimana sistem penilaian da lam \nPendidikan Jarak Jauh harus menjamin mutu lulusan secara adil, \nproporsional, dan berorientasi pada proses pembelajaran berkelanjutan.",
+      "start_line": 1899,
+      "end_line": 1909
+    },
+    {
+      "heading": "51. Bahwa Pasal 31 ayat (1) dan ayat (2) UU Pendidikan Tinggi t elah",
+      "slug": "51-bahwa-pasal-31-ayat-1-dan-ayat-2-uu-pendidikan-tinggi-t-elah",
+      "text": "menegaskan Pendidikan Jarak Jauh sebagai proses pembelajaran ya ng \nsah dan setara serta sebagai instrumen negara untuk memperluas akses \npendidikan tinggi. Namun, tanpa pengaturan normatif minimum dal am \nPasal 31 ayat (3), perluasan akses tersebut tidak diimbangi den gan \njaminan kualitas yang memiliki daya ikat hukum, sehingga berpot ensi \nmereduksi hak atas pendidikan sebagaimana dijamin Pasal 31 ayat  (1) \nUUD NRI 1945 menjadi sekadar hak formal atas akses, bukan hak \nsubstantif atas pendidikan yang bermutu dan bermakna.",
+      "start_line": 1911,
+      "end_line": 1918
+    },
+    {
+      "heading": "52. Bahwa lebih lanjut, ketidakjelasan norma Pasal 31 ayat (3) tersebut telah",
+      "slug": "52-bahwa-lebih-lanjut-ketidakjelasan-norma-pasal-31-ayat-3-tersebut-telah",
+      "text": "menimbulkan ketidakpastian hukum yang bersifat struktural, kare na \njaminan mutu lulusan dan sistem penilaian sepenuhnya bergantung pada \npengaturan turunan dan kebijakan institusional yang dapat berbeda-beda, \nberubah-ubah, dan tidak selalu memberikan perlindungan yang set ara \nbagi mahasiswa. Kondisi ini secara langsung bertentangan dengan Pasal \n28D ayat (1) UUD NRI 1945, yang menjamin hak atas kepastian huk um \nyang adil dan dapat diprediksi.",
+      "start_line": 1920,
+      "end_line": 1926
+    },
+    {
+      "heading": "53. Bahwa dalam konteks Pendidikan Jarak Jauh, sistem penilaian memiliki",
+      "slug": "53-bahwa-dalam-konteks-pendidikan-jarak-jauh-sistem-penilaian-memiliki",
+      "text": "peran yang sangat menentukan sebagai instrumen pengakuan atas \nproses pembelajaran dan pengembangan diri mahasiswa. Oleh karen a \nitu, ketiadaan jaminan normatif minimum mengenai keterkaitan an tara \nproses pembelajaran dan hasil penilaian juga telah merugikan ha k para \nPemohon untuk mengembangkan diri melalui pendidikan tinggi \nsebagaimana dijamin Pasal 28C ayat (1) UUD NRI 1945, karena pro ses \nbelajar yang dijalani secara berkelanjutan tidak memperoleh perlindungan \nhukum yang memadai. \n\n53",
+      "start_line": 1928,
+      "end_line": 1938
+    },
+    {
+      "heading": "54. Bahwa pendelegasian pengaturan lebih lanjut kepada Peraturan Menteri",
+      "slug": "54-bahwa-pendelegasian-pengaturan-lebih-lanjut-kepada-peraturan-menteri",
+      "text": "sebagaimana dimaksud Pasal 31 ayat (4) UU Pendidikan Tinggi tid ak \ndapat dimaknai sebagai pengalihan tanggung jawab konstitusional  \npembentuk undang-undang. Dalam prinsip negara hukum, pendelegasian \nteknis hanya sah dan efektif apabila norma pokok di tingkat und ang-\nundang telah dirumuskan secara jelas. Ketika norma pokok terseb ut \nbelum menetapkan standar minimum jaminan mutu, maka pendelegasian \njustru memperluas ruang ketidakpastian dan ketidaksetaraan \nperlindungan hak.",
+      "start_line": 1940,
+      "end_line": 1947
+    },
+    {
+      "heading": "55. Bahwa tanpa adanya penafsiran konstitusional dari Mahkamah Konstitusi,",
+      "slug": "55-bahwa-tanpa-adanya-penafsiran-konstitusional-dari-mahkamah-konstitusi",
+      "text": "frasa “sistem penilaian yang menjamin mutu lulusan sesuai denga n \nStandar Nasional Pendidikan Tinggi” dalam Pasal 31 ayat (3) UU \nPendidikan Tinggi tidak memiliki daya perlindungan hukum yang e fektif \nsebagai hak mahasiswa, sehingga kerugian konstitusional yang di alami \npara Pemohon akan terus berulang dan bersifat berkelanjutan. Ol eh \nkarena itu, demi menjamin terpenuhinya hak atas pendidikan yang  \nbermutu, kepastian hukum yang adil, serta hak untuk mengembangk an \ndiri melalui pendidikan tinggi sebagaimana dijamin Pasal 31 aya t (1), \nPasal 28D ayat (1), dan Pasal 28C ayat (1) UUD NRI 1945, Mahkam ah \nKonstitusi perlu dan berwenang memberikan penafsiran konstitusi onal \nagar frasa “sistem penilaian yang menjamin mutu lulusan” dimakn ai \nsebagai kewajiban negara untuk menetapkan standar normatif mini mum \nyang mengikat mengenai keterkaitan yang proporsional antara pro ses \npembelajaran dan hasil penilaian, khususnya dalam penyelenggara an \nPendidikan Jarak Jauh. \nIV. PETITUM \nBerdasarkan seluruh uraian dalam posita permohonan ini, Para Pe mohon \nmohon kepada Yang Mulia Ketua dan Para Hakim Konstitusi Mahkama h \nKonstitusi Republik Indonesia untuk berkenan memeriksa, mengadi li, dan \nmemutus perkara a quo dengan amar sebagai berikut:",
+      "start_line": 1949,
+      "end_line": 1968
+    },
+    {
+      "heading": "2. Menyatakan frasa “ sistem penilaian yang menjamin mutu lulusan sesuai",
+      "slug": "2-menyatakan-frasa-sistem-penilaian-yang-menjamin-mutu-lulusan-sesuai",
+      "text": "dengan Standar Nasional Pendidikan Tinggi ” dalam Pasal 31 ayat (3) \n\n54 \n \nUndang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi \nkonstitusional bersyarat ( conditionally constitutional ) sepanjang dimaknai \nsebagai kewajiban negara untuk menetapkan dan menjamin berlakun ya \nstandar normatif minimum yang mengharuskan sistem penilaian pendidikan \ntinggi mencerminkan dan melindungi hubungan yang utuh antara pr oses \npembelajaran berkelanjutan dan hasil penilaian akhir sebagai da sar \npenjaminan mutu lulusan;",
+      "start_line": 1971,
+      "end_line": 1981
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nAtau apabila Yang Mulia Majelis Hakim Konstitusi berpendapat lain, mohon putusan \nyang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk menguatkan dalilnya, para Pemohon telah \nmengajukan alat bukti surat/tulisan yang diberi tanda bukti P-1 sampai dengan bukti \nP-44, sebagai berikut:",
+      "start_line": 1983,
+      "end_line": 1988
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Pasal 31 ayat (3) Undang-Undang Nomor 1 2 Tahun",
+      "slug": "1-bukti-p-1-fotokopi-pasal-31-ayat-3-undang-undang-nomor-1-2-tahun",
+      "text": "2012 tentang Pendidikan Tinggi;",
+      "start_line": 1990,
+      "end_line": 1990
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 1992,
+      "end_line": 1992
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Su si",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-su-si",
+      "text": "Lestari;",
+      "start_line": 1994,
+      "end_line": 1994
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama M. Imelda",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-m-imelda",
+      "text": "Novita S.;",
+      "start_line": 1996,
+      "end_line": 1996
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Bernita",
+      "slug": "5-bukti-p-5-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-bernita",
+      "text": "Matondang;",
+      "start_line": 1998,
+      "end_line": 1998
+    },
+    {
+      "heading": "6. Bukti P-6 : F o t o k o p i K a r t u T a n d a P e n d u d u k ( K T P ) A t a s N a m a N o v a",
+      "slug": "6-bukti-p-6-f-o-t-o-k-o-p-i-k-a-r-t-u-t-a-n-d-a-p-e-n-d-u-d-u-k-k-t-p-a-t-a-s-n-a-m-a-n-o-v-a",
+      "text": "Syafariyanto Prambudi;",
+      "start_line": 2000,
+      "end_line": 2000
+    },
+    {
+      "heading": "7. Bukti P-7 : F o t o k o p i K a r t u T a n d a P e n d u d u k ( K T P ) A t a s N a m a I n d a h",
+      "slug": "7-bukti-p-7-f-o-t-o-k-o-p-i-k-a-r-t-u-t-a-n-d-a-p-e-n-d-u-d-u-k-k-t-p-a-t-a-s-n-a-m-a-i-n-d-a-h",
+      "text": "Lidiayani;",
+      "start_line": 2002,
+      "end_line": 2002
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ananda",
+      "slug": "8-bukti-p-8-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-ananda",
+      "text": "Putri Puspita;",
+      "start_line": 2004,
+      "end_line": 2004
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Lely Diana",
+      "slug": "9-bukti-p-9-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-lely-diana",
+      "text": "Hatan; \n\n55",
+      "start_line": 2006,
+      "end_line": 2009
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ariyanto",
+      "slug": "10-bukti-p-10-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-ariyanto",
+      "text": "Zalukhu;",
+      "start_line": 2011,
+      "end_line": 2011
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Karwana",
+      "slug": "11-bukti-p-11-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-karwana",
+      "text": "Sakaliou;",
+      "start_line": 2013,
+      "end_line": 2013
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ame Mira",
+      "slug": "12-bukti-p-12-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-ame-mira",
+      "text": "Putri Pramesti;",
+      "start_line": 2015,
+      "end_line": 2015
+    },
+    {
+      "heading": "13. Bukti P-13 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Evita",
+      "slug": "13-bukti-p-13-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-evita",
+      "text": "Mulyani;",
+      "start_line": 2017,
+      "end_line": 2017
+    },
+    {
+      "heading": "14. Bukti P-14 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ikke",
+      "slug": "14-bukti-p-14-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-ikke",
+      "text": "Nurjanah;",
+      "start_line": 2019,
+      "end_line": 2019
+    },
+    {
+      "heading": "15. Bukti P-15 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Mahira",
+      "slug": "15-bukti-p-15-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-mahira",
+      "text": "Azzahra Widiani;",
+      "start_line": 2021,
+      "end_line": 2021
+    },
+    {
+      "heading": "16. Bukti P-16 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Susi",
+      "slug": "16-bukti-p-16-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-susi",
+      "text": "Lestari;",
+      "start_line": 2023,
+      "end_line": 2023
+    },
+    {
+      "heading": "17. Bukti P-17 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama M. Imelda",
+      "slug": "17-bukti-p-17-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-m-imelda",
+      "text": "Novita S.;",
+      "start_line": 2025,
+      "end_line": 2025
+    },
+    {
+      "heading": "18. Bukti P-18 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Bernita",
+      "slug": "18-bukti-p-18-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-bernita",
+      "text": "Matondang;",
+      "start_line": 2027,
+      "end_line": 2027
+    },
+    {
+      "heading": "19. Bukti P-19 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Nova",
+      "slug": "19-bukti-p-19-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-nova",
+      "text": "Syafariyanto Prambudi;",
+      "start_line": 2029,
+      "end_line": 2029
+    },
+    {
+      "heading": "20. Bukti P-20 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Indah",
+      "slug": "20-bukti-p-20-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-indah",
+      "text": "Lidiayani;",
+      "start_line": 2031,
+      "end_line": 2031
+    },
+    {
+      "heading": "21. Bukti P-21 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Ananda",
+      "slug": "21-bukti-p-21-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-ananda",
+      "text": "Putri Puspita;",
+      "start_line": 2033,
+      "end_line": 2033
+    },
+    {
+      "heading": "22. Bukti P-22 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Lely",
+      "slug": "22-bukti-p-22-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-lely",
+      "text": "Diana Hatan;",
+      "start_line": 2035,
+      "end_line": 2035
+    },
+    {
+      "heading": "23. Bukti P-23 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Ariyanto",
+      "slug": "23-bukti-p-23-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-ariyanto",
+      "text": "Zalukhu;",
+      "start_line": 2037,
+      "end_line": 2037
+    },
+    {
+      "heading": "24. Bukti P-24 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Karwana",
+      "slug": "24-bukti-p-24-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-karwana",
+      "text": "Sakaliou;",
+      "start_line": 2039,
+      "end_line": 2039
+    },
+    {
+      "heading": "25. Bukti P-25 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Ame Mira",
+      "slug": "25-bukti-p-25-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-ame-mira",
+      "text": "Putri Pramesti;",
+      "start_line": 2041,
+      "end_line": 2041
+    },
+    {
+      "heading": "26. Bukti P-26 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Evita",
+      "slug": "26-bukti-p-26-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-evita",
+      "text": "Mulyani; \n\n56",
+      "start_line": 2043,
+      "end_line": 2046
+    },
+    {
+      "heading": "27. Bukti P-27 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Ikke",
+      "slug": "27-bukti-p-27-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-ikke",
+      "text": "Nurjanah;",
+      "start_line": 2048,
+      "end_line": 2048
+    },
+    {
+      "heading": "28. Bukti P-28 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Mahira",
+      "slug": "28-bukti-p-28-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-mahira",
+      "text": "Azzahra Widiani;",
+      "start_line": 2050,
+      "end_line": 2050
+    },
+    {
+      "heading": "29. Bukti P-29 : Fotokopi Katalog Sistem Penyelenggaraan Universitas",
+      "slug": "29-bukti-p-29-fotokopi-katalog-sistem-penyelenggaraan-universitas",
+      "text": "Terbuka 2025/2026;",
+      "start_line": 2052,
+      "end_line": 2052
+    },
+    {
+      "heading": "31. Bukti P-31 : Fotokopi Kalender Akademik Tahun Ajaran 2023/2024",
+      "slug": "31-bukti-p-31-fotokopi-kalender-akademik-tahun-ajaran-2023-2024",
+      "text": "Universitas Siber Asia;",
+      "start_line": 2055,
+      "end_line": 2055
+    },
+    {
+      "heading": "32. Bukti P-32 : Fotokopi Kalender Akademik Perkuliahan S1 Semester Ganjil",
+      "slug": "32-bukti-p-32-fotokopi-kalender-akademik-perkuliahan-s1-semester-ganjil",
+      "text": "2024/2025 Periode 2 Binus Online;",
+      "start_line": 2057,
+      "end_line": 2057
+    },
+    {
+      "heading": "33. Bukti P-33 : Fotokopi Kalender Akademik UIN Siber Syekh Nurjati Cirebon",
+      "slug": "33-bukti-p-33-fotokopi-kalender-akademik-uin-siber-syekh-nurjati-cirebon",
+      "text": "Periode 2025-2026;",
+      "start_line": 2059,
+      "end_line": 2059
+    },
+    {
+      "heading": "35. Bukti P-35 : Fotokopi Buku Saku Mahasiswa 2022/2023 Universitas Siber",
+      "slug": "35-bukti-p-35-fotokopi-buku-saku-mahasiswa-2022-2023-universitas-siber",
+      "text": "Asia;",
+      "start_line": 2062,
+      "end_line": 2062
+    },
+    {
+      "heading": "36. Bukti P-36 : Fotokopi Pedoman Penilaian Fakultas Ushuluddin dan Adab",
+      "slug": "36-bukti-p-36-fotokopi-pedoman-penilaian-fakultas-ushuluddin-dan-adab",
+      "text": "Universitas UIN Siber Syekh Nurjati Cirebon Tahun 2025;",
+      "start_line": 2064,
+      "end_line": 2064
+    },
+    {
+      "heading": "38. Bukti P-38 : Fotokopi Surat Pernyataan Pemohon tentang Pengalaman",
+      "slug": "38-bukti-p-38-fotokopi-surat-pernyataan-pemohon-tentang-pengalaman",
+      "text": "Akademik Mahasiswa Pendidikan Jarak Jauh, dengan  \nmenjalani perkuliahan aktif ±2 bulan dengan sistem penilaian \n70% UAS dan 30% Tuton atas nama Bernita Matondang;",
+      "start_line": 2067,
+      "end_line": 2069
+    },
+    {
+      "heading": "39. Bukti P-39 : Fotokopi Undang-Undang Australia Tertiary Education Quality",
+      "slug": "39-bukti-p-39-fotokopi-undang-undang-australia-tertiary-education-quality",
+      "text": "and Standards Agency Act 2011 (No. 73,2011), Compilation \nNo. 23, berlaku per 30 November 2022, terdaftar 5 Desember \n2022, disiapkan oleh Office of Parliamentary Counsel, \nCanberra;",
+      "start_line": 2071,
+      "end_line": 2074
+    },
+    {
+      "heading": "40. Bukti P-40 : Fotokopi Peraturan Menteri Pendidikan Tinggi, Sains, dan",
+      "slug": "40-bukti-p-40-fotokopi-peraturan-menteri-pendidikan-tinggi-sains-dan",
+      "text": "Teknologi Republik Indonesia Nomor 39 Tahun 2025 tentang \nPenjaminan Mutu Pendidikan Tinggi;",
+      "start_line": 2076,
+      "end_line": 2077
+    },
+    {
+      "heading": "41. Bukti P-41 : Fotokopi Undang-Undang Republik Indonesia Nomor 14",
+      "slug": "41-bukti-p-41-fotokopi-undang-undang-republik-indonesia-nomor-14",
+      "text": "Tahun 2005 tentang Guru dan Dosen; \n\n57",
+      "start_line": 2079,
+      "end_line": 2082
+    },
+    {
+      "heading": "42. Bukti P-42 : Fotokopi Peraturan Menteri Pendidikan dan Kebudayaan",
+      "slug": "42-bukti-p-42-fotokopi-peraturan-menteri-pendidikan-dan-kebudayaan",
+      "text": "Republik Indonesia Nomor 7 Tahun 2020 tentang Pendirian, \nPerubahan, Pembubaran Perguruan Tinggi Negeri, dan \nPendirian, Perubahan, Pencabutan Izin Perguruan Tinggi \nSwasta sebagaimana dimuat dalam Berita Negara Republik \nIndonesia Tahun 2020 Nomor 51;",
+      "start_line": 2084,
+      "end_line": 2088
+    },
+    {
+      "heading": "43. Bukti P-43 : Fotokopi Peraturan Menteri Pendidikan dan Kebudayaan",
+      "slug": "43-bukti-p-43-fotokopi-peraturan-menteri-pendidikan-dan-kebudayaan",
+      "text": "Republik Indonesia Nomor 109 Tahun 2013 tentang \nPenyelenggaraan Pendidikan Jarak Jauh pada Pendidikan \nTinggi;",
+      "start_line": 2090,
+      "end_line": 2092
+    },
+    {
+      "heading": "44. Bukti P-44 : General Comment No. 13 (1999) on Article 13 of the",
+      "slug": "44-bukti-p-44-general-comment-no-13-1999-on-article-13-of-the",
+      "text": "International Covenant on Economic, Social and Cultural Right \n(ICESCR),  United Nation Committe on Economic, Social and \nCultural Rights. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam  Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahka n dengan \nputusan ini.",
+      "start_line": 2094,
+      "end_line": 2100
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945),  Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48 Tahun 2009 tentang \nKekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun 2 009 Nomor \n157, Tambahan Lembaran Negara Republik Indonesia Nomor 5076), M ahkamah \n\n58 \n \nberwenang mengadili pada tingkat pertama dan terakhir yang putu sannya bersifat \nfinal untuk menguji Undang-Undang terhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan para Pemohon adalah \npermohonan untuk menguji konstitusionalitas undang-undang, in casu  pengujian \nUndang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi (Le mbaran \nNegara Republik Indonesia Tahun 2012 Nomor 158, Tambahan Lembar an Negara \nRepublik Indonesia Nomor 5336, selanjutnya disebut UU 12/2012) terhadap UUD \nNRI Tahun 1945, maka Mahkamah berwenang mengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3]   Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na.  perseorangan warga negara Indonesia (termasuk kelompok oran g yang    \nmempunyai kepentingan sama); \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan se suai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 2102,
+      "end_line": 2134
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  UUD NRI \nTahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya Undang -Undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a; \n[3.4]  Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \n\n59 \n \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, telah berpend irian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na.  adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI Tahun 1945; \nb.  hak dan/atau kewenangan konstitusional tersebut oleh Pemoho n dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 2137,
+      "end_line": 2158
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 2160,
+      "end_line": 2161
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5]  Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan di atas, selanjutnya Mahkamah akan memper timbangkan \nkedudukan hukum para Pemohon yang pada pokoknya, sebagai berikut:",
+      "start_line": 2163,
+      "end_line": 2169
+    },
+    {
+      "heading": "1. Bahwa norma undang-undang yang dimohonkan pengujian dalam pe rmohonan",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-pengujian-dalam-pe-rmohonan",
+      "text": "a quo adalah frasa “sistem penilaian yang menjamin mutu lulusan sesuai Standar \nNasional Pendidikan Tinggi” dalam Pasal 31 ayat (3) UU 12/2012,  yang \nselengkapnya menyatakan: \n“Pendidikan jarak jauh diselenggarakan dalam berbagai bentuk, modus, dan  \ncakupan yang didukung oleh sarana dan layanan belajar serta sis tem \npenilaian yang menjamin mutu lulusan sesuai dengan Standar Nasi onal \nPendidikan Tinggi”;",
+      "start_line": 2171,
+      "end_line": 2177
+    },
+    {
+      "heading": "2. Bahwa para Pemohon menerangkan memiliki hak konstitusional s ebagaimana",
+      "slug": "2-bahwa-para-pemohon-menerangkan-memiliki-hak-konstitusional-s-ebagaimana",
+      "text": "diatur dalam Pasal 28C ayat (1), Pasal 28D ayat (1), dan Pasal 31 ayat (1) UUD \nNRI Tahun 1945;",
+      "start_line": 2179,
+      "end_line": 2180
+    },
+    {
+      "heading": "3. Bahwa Pemohon I sampai dengan Pemohon XIII merupakan peroran gan warga",
+      "slug": "3-bahwa-pemohon-i-sampai-dengan-pemohon-xiii-merupakan-peroran-gan-warga",
+      "text": "negara Indonesia yang berstatus sebagai mahasiswa Program Studi Ilmu Hukum \nyang sedang mengikuti proses belajar secara jarak jauh. Dalam hal ini, Pemohon \n\n60 \n \nI sampai dengan Pemohon XIII merasa dirugikan hak konstitusiona lnya dengan \nfrasa “sistem penilaian yang menjamin mutu lulusan sesuai Stand ar Nasional \nPendidikan Tinggi” dalam Pasal 31 ayat (3) UU 12/2012, karena f rasa tersebut \ntidak memuat ukuran normatif minimum mengenai bagaimana jaminan  mutu \nharus diwujudkan, dilindungi, dan dirasakan oleh mahasiswa seba gai subjek \npendidikan;",
+      "start_line": 2182,
+      "end_line": 2192
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon I samp ai dengan Pemohon XIII, kerugian h a k",
+      "slug": "4-bahwa-menurut-pemohon-i-samp-ai-dengan-pemohon-xiii-kerugian-h-a-k",
+      "text": "konstitusional yang dialami bersifat aktual maupun potensial. A dapun kerugian \naktual dimaksud adalah nilai akademik yang tidak merefleksikan kompetensi \nhukum yang sesungguhnya, proses pembelajaran hukum tereduksi me njadi \norientasi menghadapi ujian, hilangnya fungsi pengembangan kemam puan \nanalisis hukum secara optimal, tidak tersedianya ruang korektif  atas kesalahan \npemahaman hukum dan ketidakpastian hukum dalam sistem penilaian  \nakademik. Sedangkan, kerugian potensial yang dimaksud, yakni po tensi \nterbentuknya lulusan hukum yang tidak seimbang secara substansi , penurunan \nkualitas kesiapan profesional di bidang hukum, kerugian kompeti tif dalam dunia \nkerja dan profesi hukum, distorsi tujuan pendidikan hukum sebag ai pendidikan \nberbasis penalaran dan etika, serta kerugian konstitusional yan g bersifat \nstruktural dan berulang;",
+      "start_line": 2194,
+      "end_line": 2205
+    },
+    {
+      "heading": "5. Bahwa kerugian konstitusional yang dialami Pemohon I sampai dengan",
+      "slug": "5-bahwa-kerugian-konstitusional-yang-dialami-pemohon-i-sampai-dengan",
+      "text": "Pemohon XIII baik secara aktual maupun potensial tidak mungkin dipulihkan \ndengan hanya melalui peraturan menteri atau kebijakan institusi onal, karena \nsumber utama ketidakpastian hukum justru terletak pada ketiadaa n norma \njaminan dalam Pasal 31 ayat (3) UU 12/2012;",
+      "start_line": 2207,
+      "end_line": 2210
+    },
+    {
+      "heading": "6. Bahwa apabila frasa “sistem penilaian yang menjamin mutu lul usan sesuai",
+      "slug": "6-bahwa-apabila-frasa-sistem-penilaian-yang-menjamin-mutu-lul-usan-sesuai",
+      "text": "Standar Nasional Pendidikan Tinggi” dalam norma Pasal 31 ayat (3) UU 12/2012 \ndimaknai oleh Mahkamah, maka kerugian hak konstitusional yang d ijelaskan \noleh Pemohon I sampai dengan Pemohon XIII tidak lagi terjadi at au tidak akan \nterjadi. \nBerdasarkan uraian yang dikemukakan dalam menjelaskan kedudukan  \nhukum tersebut di atas, menurut Mahkamah, Pemohon I sampai deng an Pemohon \nXIII yang merupakan perseorangan warga negara Indonesia dan berstatus sebagai \nmahasiswa Program Studi Ilmu Hukum yang sedang menempuh proses belajar \n\n61 \n \nsecara jarak jauh atau pendidikan jarak jauh (PJJ), telah dapat menjelaskan perihal \nhak konstitusionalnya yang menurut anggapannya dirugikan dengan  berlakunya \nfrasa “sistem penilaian yang menjamin mutu lulusan sesuai Stand ar Nasional \nPendidikan Tinggi” dalam norma Pasal 31 ayat (3) UU 12/2012 yan g dimohonkan \npengujian. Anggapan kerugian hak konstitusional yang dimaksudka n tersebut \nbersifat spesifik, aktual, atau setidak-tidaknya potensial kare na frasa “sistem \npenilaian yang menjamin mutu lulusan sesuai Standar Nasional Pe ndidikan Tinggi” \ndalam norma Pasal 31 ayat (3) UU 12/2012 tidak memuat ukuran normatif minimum \nmengenai jaminan mutu yang harus diwujudkan dan dilindungi, seh ingga tidak \nmemberikan kepastian hukum pada pelaksanaan PJJ serta dalam mem peroleh \nmanfaat dari proses PJJ dimaksud. Uraian anggapan kerugian hak konstitusional \nyang dijelaskan Pemohon I sampa i dengan Pemohon XIII tersebut m emiliki \nhubungan sebab-akibat ( causal verband ) dengan berlakunya norma undang-\nundang yang dimohonkan pengujian. Oleh karena itu, apabila perm ohonan a quo \ndikabulkan, anggapan kerugian hak konstitusional seperti yang dijelaskan Pemohon \nI sampai dengan Pemohon XIII tidak lagi terjadi atau tidak akan  terjadi. Dengan \ndemikian, terlepas dari terbukti atau tidak terbuktinya perihal  inkonstitusionalitas \nnorma yang didalilkan oleh Pemohon I sampai dengan Pemohon XIII  (selanjutnya \ndisebut para Pemohon), menurut Mahkamah para Pemohon memiliki k edudukan \nhukum untuk bertindak sebagai Pemohon dalam permohonan a quo. \n[3.6]  Menimbang bahwa oleh karena Mahkamah berwenang mengadili \npermohonan  a quo dan para Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai Pemohon, selanjutnya Mahkamah akan mempertimbangkan pok ok \npermohonan. \nPokok Permohonan \n[3.7] Menimbang bahwa para Pemohon mendalilkan frasa “sistem penilai an \nyang menjamin mutu lulusan sesuai Standar Nasional Pendidikan T inggi” dalam \nnorma Pasal 31 ayat (3) UU 12/2012 bertentangan dengan Pasal 28C ayat (1), Pasal \n28D ayat (1), dan Pasal 31 ayat (1) UUD NRI Tahun 1945 dengan d alil-dalil \n(selengkapnya dimuat pada bagian Duduk Perkara) yang apabila di pahami dan \ndirumuskan oleh Mahkamah pada pokoknya sebagai berikut. \n\n62",
+      "start_line": 2212,
+      "end_line": 2256
+    },
+    {
+      "heading": "1. Bahwa menurut para Pemohon, dengan tidak adanya standar norm atif minimum",
+      "slug": "1-bahwa-menurut-para-pemohon-dengan-tidak-adanya-standar-norm-atif-minimum",
+      "text": "yang menjamin mutu lulusan karena berlakunya frasa “sistem peni laian yang \nmenjamin mutu lulusan sesuai Standar Nasional Pendidikan Tinggi ” dalam \nnorma Pasal 31 ayat (3) UU 12/2012 mengakibatkan jaminan mutu l ulusan PJJ \nbelum sepenuhnya berdiri sebagai perlindungan hukum yang bersum ber \nlangsung dari undang-undang, sehingga jaminan mutu tersebut men jadi tidak \npasti, bergantung pada kebijakan institusional, dan berpotensi menghasilkan \nlulusan dengan mutu yang tidak setara sebagaimana dijamin dalam  Pasal 31 \nayat (1) UUD NRI Tahun 1945;",
+      "start_line": 2258,
+      "end_line": 2265
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, frasa “sistem penilaian yang men jamin mutu",
+      "slug": "2-bahwa-menurut-para-pemohon-frasa-sistem-penilaian-yang-men-jamin-mutu",
+      "text": "lulusan sesuai Standar Nasional Pendidikan Tinggi” dalam norma Pasal 31 ayat \n(3) UU 12/2012 belum berfungsi sebagai pagar hukum normatif yan g \nmenetapkan standar minimum yang mengikat mengenai bagaimana mut u \nlulusan harus dijamin melalui sistem penilaian, karena adanya f akta penerapan \nsistem penilaian yang berbeda-beda antara perguruan tinggi yang  \nmenyelenggarakan PJJ, sehingga ketentuan tersebut belum memberi kan \nperlindungan dan kepastian hukum serta menghambat ruang pengembangan diri \nmahasiswa PJJ sebagai subjek pendidikan sebagaimana termaktub dalam Pasal \n28D ayat (1) dan Pasal 28C ayat (1) UUD NRI Tahun 1945;",
+      "start_line": 2267,
+      "end_line": 2275
+    },
+    {
+      "heading": "3. Bahwa menurut para Pemohon, frasa “sistem penilaian yang men jamin mutu",
+      "slug": "3-bahwa-menurut-para-pemohon-frasa-sistem-penilaian-yang-men-jamin-mutu",
+      "text": "lulusan sesuai Standar Nasional Pendidikan Tinggi” dalam norma Pasal 31 ayat \n(3) UU 12/2012, semakin problematik dengan adanya norma Pasal 3 1 ayat (4) \nUU 12/2012 yang menyerahkan pengaturan teknis kepada regulasi t urunan, di \nmana hal tersebut justru menunjukan bahwa negara melepas tanggu ng jawab \nnormatifnya untuk menetapkan jaminan mutu lulusan pada tingkat undang-\nundang dan sekaligus memperluas ruang ketidakpastian hukum sert a \nketidaksetaraan perlindungan hak mahasiswa sebagai subjek pendidikan.  \nBahwa berdasarkan dalil-dalil tersebut di atas, para Pemohon dalam petitum \nmemohon kepada Mahkamah untuk menyatakan, frasa “sistem penilai an yang \nmenjamin mutu lulusan sesuai dengan Standar Nasional Pendidikan  Tinggi” dalam \nnorma Pasal 31 ayat (3) UU 12/2012 konstitusional bersyarat ( conditionally \nconstitutional) sepanjang dimaknai sebagai kewajiban negara untuk menetapkan \ndan menjamin berlakunya standar normatif minimum yang mengharus kan sistem \npenilaian pendidikan tinggi mencerminkan dan melindungi hubunga n yang utuh \n\n63 \n \nantara proses pembelajaran berkelanjutan dan hasil penilaian ak hir sebagai dasar \npenjaminan mutu lulusan. \n[3.8]  Menimbang bahwa untuk mendukung permohonannya, para Pemohon \ntelah mengajukan alat bukti surat/tulisan yang diberi tanda Bukti P-1 sampai dengan         \nBukti P-44 yang telah disahkan dalam persidangan Mahkamah pada tanggal 8 \nJanuari 2026 (selengkapnya dimuat pada bagian duduk perkara). \n[3.9]  Menimbang bahwa oleh karena permohonan a quo telah jelas, Mahkamah \nberpendapat tidak terdapat urgensi maupun kebutuhan untuk mende ngar \nketerangan pihak-pihak sebagaimana disebut dalam Pasal 54 UU MK. \n[3.10]  Menimbang bahwa setelah Mahkamah memeriksa dan membaca secara  \nsaksama permohonan para Pemohon, bukti-bukti surat/tulisan yang  diajukan oleh \npara Pemohon, telah ternyata isu konstitusional yang harus dijawab oleh Mahkamah \nadalah apakah frasa “sistem penilaian yang menjamin mutu lulusan sesuai Standar \nNasional Pendidikan Tinggi” dalam norma Pasal 31 ayat (3) UU 12 /2012 tidak \nbertentangan dengan UUD NRI Tahun 1945 sepanjang dimaknai sebag aimana \npetitum para Pemohon. \n[3.11]  Menimbang bahwa sebelum Mahkamah mempertimbangkan isu \nkonstitusional norma yang dipersoalkan oleh para Pemohon tersebut di atas, penting \nbagi Mahkamah untuk mempertimbangkan hal-hal sebagai berikut. \n[3.11.1] Bahwa pendidikan tinggi merupakan salah satu jenjang atau tahap an \npenting dalam upaya mewujudkan tujuan negara sebagaimana amanat  d a l a m  \nAlinea Keempat Pembukaan UUD NRI Tahun 1945, yaitu memajukan kesejahteraan \numum dan mencerdaskan kehidupan bangsa. Upaya dimaksud dilakuka n dengan \nmenjamin terselenggaranya pendidikan yang inklusif, bermutu, da n dapat diakses \noleh seluruh warga negara. Hal ini penting dilakukan karena pendidikan merupakan \nhak konstitusional setiap warga negara [vide Pasal 31 UUD NRI T ahun 1945], di \nmana dalam menjalankan mandat konstitusional tersebut harus dil akukan dalam \nkerangka demokratisasi pendidikan, yakni dengan memperluas ruan g partisipasi \nwarga negara untuk mengakses pendidikan (khususnya pendidikan t inggi) secara \nlebih inklusif, setara, dan non-diskriminatif. Dalam konteks in i, demokratisasi \npendidikan menuntut agar peluang belajar tidak ditentukan berdasarkan kedekatan \n\n64 \n \ngeografis dengan kampus, status sosial-ekonomi, keterbatasan waktu kerja, kondisi \ndisabilitas, maupun hambatan struktural lainnya, melainkan dija min melalui desain \nsistem yang memungkinkan setiap warga negara berkompetisi dan b erpartisipasi \nsecara adil untuk memperoleh layanan pendidikan. \nBahwa untuk menjabarkan lebih lanjut amanat Konstitusi tersebut , \nUndang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nas ional (UU \n20/2003) memberikan landasan normatif bagi penyelenggaraan Pend idikan Jarak \nJauh (PJJ). Dalam hal ini, Pasal 1 angka 15 UU 20/2003 mendefinisikan PJJ sebagai \npendidikan yang peserta didiknya terpisah dari pendidik dan pem belajarannya \nmenggunakan berbagai sumber belajar melalui teknologi komunikasi, informasi, dan \nmedia lain. Selanjutnya, Pasal 31 UU 20/2003 pada pokoknya mene gaskan: (1) \npendidikan jarak jauh dapat diselenggarakan pada semua jalur, j enjang, dan jenis \npendidikan; (2) pendidikan jarak jauh berfungsi memberikan laya nan pendidikan \nkepada kelompok masyarakat yang tidak dapat mengikuti pendidika n secara tatap \nmuka atau reguler; dan (3) pendidikan jarak jauh diselenggaraka n dalam berbagai \nbentuk, modus, dan cakupan yang didukung oleh sarana dan layana n belajar serta \nsistem penilaian yang menjamin mutu lulusan sesuai dengan stand ar nasional \npendidikan. Sedangkan penyelenggaraan PJJ pada jenjang pendidikan tinggi diatur \ndalam Pasal 31 Undang-Undang Nomor 12 Tahun 2012 tentang Pendid ikan Tinggi \n(UU 12/2012) yang pada pokoknya menegaskan: (1) pendidikan jara k jauh \nmerupakan proses belajar mengajar yang dilakukan secara jarak j auh melalui \npenggunaan berbagai media komunikasi; (2) pendidikan jarak jauh  sebagaimana \ndimaksud pada ayat (1) bertujuan: a) memberikan layanan pendidikan tinggi kepada \nkelompok masyarakat yang tidak dapat mengikuti pendidikan secar a tatap muka \natau reguler; dan b) memperluas akses serta mempermudah layanan  pendidikan \ntinggi dalam pendidikan dan pembelajaran. (3) pendidikan jarak jauh \ndiselenggarakan dalam bentuk, modus, dan cakupan yang didukung oleh sarana \ndan layanan belajar serta sistem penilaian yang menjamin mutu l ulusan sesuai \ndengan standar nasional pendidikan tinggi. Dengan demikian, pad a dasarnya PJJ \ndapat diselenggarakan pada semua jalur, jenjang, dan jenis pend idikan termasuk \njuga pada jenjang pendidikan tinggi. Oleh karena itu, PJJ, tida k boleh diperlakukan \nsebagai sekedar pilihan layanan pendidikan, melainkan sebagai i nstrumen \npemenuhan hak yang harus ditopang oleh tata kelola, sarana, lay anan belajar, \n\n65 \n \ntermasuk evaluasi yang dapat memastikan kualitas dalam penyelen ggaraan \npendidikan tersebut. \nUntuk menyelenggarakan PJJ pada prinsipnya dapat dilakukan deng an 2 \nmodus penyelenggaraan yang mencakup pengorganisasian tunggal ( single mode) \natau bersama tatap muka ( dual mode ) [vide Penjelasan Pasal 31 ayat (3) UU \n20/2003]. Dalam kaitan ini, single-mode distance teaching university merujuk pada \nperguruan tinggi yang sejak awal dibentuk untuk menyelenggaraka n PJJ sebagai \nmodus utama, sehingga desain organisasinya, mulai dari perancan gan kurikulum, \nproduksi bahan ajar, layanan tutorial/tutor, hingga sistem asesmen dan penjaminan \nmutu, dibangun khusus untuk mengelola mahasiswa yang tersebar dan terpisah dari \npendidik. Sedangkan, untuk modus penyelenggaraan dual-mode atau mixed-mode \nmengacu pada perguruan tinggi yang pada mulanya diselenggarakan dalam sistem \ntatap muka, kemudian mengembangkan PJJ sebagai jalur paralel at au kombinasi \n(blended), sehingga dalam satu institusi berjalan dua ekosistem pembelajaran, yaitu \nreguler tatap muka dan jarak jauh [vide Börje Holmberg, Distance Education in \nEssence: An overview of theory and practice in the early twenty-first century  (2nd \ned) University of Oldenburg, 2003].  \n[3.11.2] Bahwa jika merujuk pada aspek historis, perkembangan PJJ tidak dapat \ndilepaskan dari keberadaan the open university  di Inggris yang dibentuk \nberdasarkan Royal Charter 1969 yang dibangun untuk menjawab eksklusivitas \npendidikan tinggi sehingga diselenggarakan pendidikan melalui m ekanisme \npembelajaran terbuka dan jarak jauh, dengan dukungan sistem aka demik yang \nterstruktur di mana ketika itu dijalankan dengan kombinasi mate ri belajar yang \ndikirim  dengan dukungan siaran radio–televisi bersama BBC agar  dapat \nmenjangkau peserta didik yang tidak dapat mengikuti kuliah tata p muka \nkonvensional [vide John S. Daniel, Open Universities: Old Concepts and \nContemporary Challenges , (International Review of Research in Open and \nDistributed Learning) Volume 20, Number 4, 2019]. Keberhasilan open university di \nInggris tersebut banyak diikuti dengan pendirian open universities  di berbagai \nnegara, antara lain Open Universiteit di Belanda; Universidad Nacional de \nEducación a Distancia (UNED) di Spanyol; Allama Iqbal Open University di Pakistan; \nIndira Gandhi National Open University (IGNOU)  di India; Sukhothai Thammathirat \nOpen University di Thailand; The Open University of Sri Lanka  di Sri Lanka; Korea \nNational Open University di Korea Selatan; University of South Africa  (UNISA) di \n\n66 \n \nAfrika Selatan; Open University Malaysia (OUM)  di Malaysia; National Open \nUniversity of Nigeria (NOUN) di Nigeria; The Open University of Tanzania (OUT) di \nTanzania, termasuk Indonesia dengan mendirikan Universitas Terbuka (UT). \n Bahwa dalam konteks Indonesia, UT dibentuk sebagai salah satu \nartikulasi kebijakan negara untuk menerjemahkan mandat konstitusional pendidikan \ndan kerangka normatif PJJ ke dalam sebuah institusi yang secara  s t r u k t u r a l  \nmemungkinkan perluasan akses pendidikan tinggi secara nasional.  U T  d i k e l o l a  \ndengan logika layanan yang selaras dengan spirit open university, yakni memberi \nruang belajar yang lebih inklusif bagi warga negara di berbagai  wilayah, termasuk \nmereka yang tidak dapat mengikuti pendidikan tatap muka atau re guler, sekaligus \nmenuntut konsistensi pemenuhan standar mutu melalui sarana, layanan belajar, dan \nsistem penilaian yang dirancang khusus untuk PJJ. Dengan demiki an, open \nuniversity dapat ditempatkan sebagai instrumen untuk memastikan perluasan akses \npendidikan tinggi sebagai upaya pemenuhan hak atas pendidikan s ebagaimana \namanat Pasal 31 ayat (3) UUD NRI Tahun 1945. \n[3.12] Menimbang bahwa setelah menguraikan hal-hal tersebut di atas , \nselanjutnya Mahkamah akan mempertimbangkan persoalan konstitusionalitas yang \ndidalilkan para Pemohon yang pada pokoknya tidak ada standar no rmatif minimum \nyang diatur dalam undang-undang yang menjamin mutu lulusan PJJ pada frasa \n“sistem penilaian yang menjamin mutu lulusan sesuai Standar Nasional Pendidikan \nTinggi” dalam norma Pasal 31 ayat (3) UU 12/2012. Oleh karena itu, para Pemohon \nmenghendaki adanya pemaknaan terhadap norma a quo , melalui putusan \nMahkamah, karena ketentuan lebih lanjut mengenai PJJ hanya diat ur dalam \nperaturan menteri [vide Pasal 31 ayat (4) UU 12/2012]. Dalam ko nteks ini, para \nPemohon memohon kepada Mahkamah agar frasa “sistem penilaian yang menjamin \nmutu lulusan sesuai Standar Nasional Pendidikan Tinggi” dalam n orma Pasal 31 \nayat (3) UU 12/2012 dinyatakan konstitusional bersyarat sepanja ng dimaknai \n“sebagai kewajiban negara untuk menetapkan dan menjamin berlaku nya standar \nnormatif minimum yang mengharuskan sistem penilaian pendidikan tinggi \nmencerminkan dan melindungi hubungan yang utuh antara proses pe mbelajaran \nberkelanjutan dan hasil penilaian akhir sebagai dasar penjamina n mutu lulusan.” \nApabila tidak dimaknai demikian, menurut para Pemohon, hal tersebut menjadi tidak \n\n67 \n \nsesuai dengan ketentuan Pasal 28C ayat (1), Pasal 28D ayat (1), dan Pasal 31 ayat \n(1) UUD NRI Tahun 1945.  \nTerhadap dalil tersebut, menurut Mahkamah, penting untuk dipaha mi \nsecara utuh dan komprehensif substansi norma Pasal 31 ayat (3) dalam \nkeseluruhan norma Pasal 31 UU 12/2012 yang merupakan bagian dar i pengaturan \nmengenai “Pendidikan Jarak Jauh”. Dalam kaitan ini, apabila dib aca secara \nsaksama norma Pasal 31 ayat (3) UU 12/2012 tidak dapat dipahami  secara parsial \ndengan Pasal 31 ayat (4) UU 12/2012, karena telah secara jelas dinyatakan pada \npokoknya penyelenggaraan PJJ merupakan domain menteri, in casu menteri yang \nbertanggung jawab atas penyelenggaraan pendidikan tinggi. Semen tara itu, \nberkenaan dengan Pasal 31 ayat (3) UU 12/2012 yang dipersoalkan para Pemohon  \nmengatur antara lain sistem penilaian yang menjamin mutu lulusa n sesuai dengan \nstandar nasional pendidikan tinggi, bukan merupakan pengaturan yang berdiri \nsendiri, namun berkaitan dengan ketentuan selanjutnya, yakni Pasal 31 ayat (4) UU \n12/2012 yang mendelegasikan pengaturan penyelenggaraan PJJ dala m bentuk \nperaturan pelaksana, in casu peraturan menteri agar terdapat standardisasi secara \nnasional dalam penyelenggaraan PJJ yang harus dipenuhi oleh sua tu perguruan \ntinggi. Sebab, menteri yang menangani urusan pendidikan memiliki tanggung jawab \natas penyelenggaraan pendidikan tinggi, termasuk pendidikan tin ggi yang \nmenyelenggarakan PJJ. Tanggung jawab menteri dimaksud mencakup pengaturan, \nperencanaan, pengawasan, pemantauan, dan evaluasi serta pembina an dan \nkoordinasi [vide Pasal 7 ayat (2) UU 12/2012]. Dalam kaitan den gan adanya \npendelegasian ke dalam peraturan pelaksana, untuk mengatur lebi h lanjut UU \n12/2012, sesungguhnya tidak hanya mengenai PJJ, namun terdapat berbagai materi \nmuatan dalam UU 12/2012, misalnya sebagaimana yang ditentukan dalam Pasal 18 \nayat (5), Pasal 19 ayat (5), Pasal 20 ayat (5), Pasal 23 ayat ( 5), Pasal 27 ayat (2) \nUU 12/2012. Termasuk dalam hal ini kewenangan menteri untuk men gatur lebih \nlanjut materi muatan standar dan akreditasi pendidikan tinggi [ vide Pasal 54 dan \nPasal 55 UU 12/2012]. Dalam kaitan dengan persoalan yang didali lkan para \nPemohon, apabila merujuk pada Lampiran II angka 211 Undang-Undang Nomor 12 \nTahun 2011 tentang Pembentukan Peraturan Perundang-Undangan (UU  12/2011)  \nmenyatakan “pendelegasian kewenangan mengatur dari Undang-Undan g kepada \nmenteri, pimpinan lembaga pemerintah nonkementerian, atau pejab at yang \nsetingkat dengan menteri dibatasi untuk peraturan yang bersifat teknis administratif”.  \n\n68 \n \nArtinya, pendelegasian pengaturan mengenai penyelenggaraan PJJ, in casu dalam \nperaturan menteri, terlebih yang dibentuk berdasarkan amanat  undang-undang \nmerupakan hal yang diperbolehkan.  Dalam hal ini, diterbitkan P eraturan Menteri \nPendidikan dan Kebudayaan Republik Indonesia Nomor 7 Tahun 2020  tentang \nPendirian, Perubahan, Pembubaran Perguruan Tinggi Negeri, dan P endirian, \nPerubahan, Pencabutan Izin Perguruan Tinggi Swasta (Permendikbu d 7/2020). \nTanpa Mahkamah bermaksud menilai legalitas Permendikbud 7/2020 tersebut, telah \nditentukan karakteristik PJJ adalah: (1) terbuka, (2) belajar m andiri, (3) belajar di \nmana dan kapan saja; dan, (4) berbasis teknologi informasi dan komunikasi. Artinya, \nproses belajar mengajar dalam PJJ menciptakan mekanisme pelaksa naan yang \nadaptif disesuaikan dengan kebutuhan pendidikan tinggi di Indon esia. Selain itu, \njuga mengatur antara lain, capaian dan penyelenggaraan pembelajaran yang salah \nsatunya terkait dengan mekanisme evaluasi penilaian hasil belaj ar dengan \nketentuan pada pokoknya: 1) perguruan tinggi penyelenggara PJJ melakukan \nevaluasi penilaian hasil belajar secara terprogram dan berkala paling sedikit 2 (dua) \nkali per semester; 2) evaluasi penilaian hasil belajar dilakuka n melalui ujian \nkomprehensif secara tatap muka, daring, atau memanfaatkan tekno logi informasi \ndan komunikasi dengan pengawasan langsung; 3) perguruan tinggi penyelenggara \nPJJ mempunyai sumber daya atau akses terhadap sumber daya untuk  melakukan \npenilaian hasil belajar; 4) perguruan tinggi penyelenggara PJJ menerbitkan tanda \nlulus mata kuliah atau program studi PJJ; 5) tanda lulus mata kuliah berupa sertifikat, \ntranskrip, dan/atau dokumen lain yang setara; dan 6) tanda lulus program studi PJJ  \nberupa ijazah disertai surat keterangan pendamping ijazah dan t ranskrip akademik \n[vide Pasal 47 Permendikbud 7/2020] \nDalam kaitan ini, perguruan tinggi penyelenggara PJJ pada prins ipnya \ndiwajibkan memiliki sistem penjaminan mutu pendidikan tinggi gu na memastikan \npenyelenggaraan PJJ berjalan sesuai dengan standar yang telah ditetapkan. Sistem \npenjaminan mutu pendidikan tinggi pada prinsipnya terdiri atas:  ( 1 )  s i s t e m  \npenjaminan mutu internal yang dikembangkan oleh perguruan tinggi; dan (2) sistem \npenjaminan mutu eksternal yang dilakukan melalui akreditasi [vi de Pasal 53 UU \n12/2012]. Pelaksanaan kedua sistem tersebut, dilakukan untuk me mastikan bahwa \nmutu pendidikan yang diberikan tetap terjaga secara berkelanjutan meskipun proses \npembelajarannya dilakukan secara jarak jauh melalui berbagai me dia komunikasi. \nSelain itu, perguruan tinggi juga memiliki peran strategis dala m menjamin mutu \n\n69 \n \npelaksanaan tridharma perguruan tinggi yang berlandaskan otonom i pengelolaan \nperguruan tinggi. Dalam konteks ini, perguruan tinggi termasuk yang \nmenyelenggarakan PJJ memiliiki otonomi dalam mengelola sendiri lembaganya. Hal \nitu diperlukan agar dalam pengembangan ilmu pengetahuan dan tek onologi di \nperguruan tinggi berlaku kebebasan akademik dan mimbar akademik serta otonomi \nkeilmuan. Dengan demikian, perguruan tinggi dapat mengembangkan  “atmosfer” \ndan budaya akademik bagi sivitas akademika yang berfungsi sebag ai komunitas \nilmiah yang berwibawa yang dapat mengangkat martabat bangsa Ind onesia dalam \npergaulan internasional. Dengan karakteristik yang demikian mak a adanya \npelaksanaan sistem penjaminan mutu baik internal maupun ekstern al \nmengharuskan perguruan tinggi, termasuk yang menyelenggarakan P JJ \nmemerhatikan keberlangsungan kebebasan akademik, mimbar akademi k dan \notonomi keilmuan sebagai suatu hal yang bersifat fundamental da lam rangka \nmenjalankan fungsi akademiknya dalam pelaksanaan tridharma perg uruan tinggi. \nArtinya, untuk mengetahui suatu perguruan tinggi penyelenggara PJJ menjamin \nmutu lulusan adalah dengan adanya pemenuhan terhadap sistem penjaminan mutu \nsecara internal oleh perguruan tinggi yang bersangkutan dan pen ilaian akreditasi \nsecara eksternal oleh pemerintah, in casu Badan Akreditasi Nasional Perguruan \nTinggi. Selain pemenuhan terkait penjaminan mutu, terdapat pula  standar nasional \npendidikan tinggi yang merupakan standardisasi perguruan tinggi  d a l a m  \nmenjalankan tridharma perguruan tinggi yang juga harus diikuti oleh perguruan \ntinggi yang menyelenggarakan PJJ.  \nOleh karena itu, tidak dijabarkannya secara lebih teknis ketent uan \nmengenai standar normatif minimum yang menjamin mutu lulusan da lam UU \n12/2012, in casu Pasal 31 ayat (3) UU 12/2012, menurut Mahkamah, tidak serta \nmerta mengakibatkan norma Pasal 31 ayat (3) a quo  terdapat persoalan \nkonstitusionalitas sebagaimana didalilkan para Pemohon. Sebab, dalam \nmenjalankan pendidikan tinggi sebagaimana amanat konstitusi, UU  12/2012 telah \nmengatur secara jelas terkait dengan kewajiban pemenuhan penjam inan mutu dan \nstandar nasional pendidikan tinggi dengan tetap memerhatikan ke bebasan \nakademik dan mimbar akademik, serta otonomi keilmuan pada pergu ruan tinggi \nsebagai lembaga yang menyelenggarakan pendidikan tinggi, termas uk PJJ, \nsebagaimana telah dipertimbangkan di atas. Sementara itu, berke naan dengan \npetitum para Pemohon yang memohon kepada Mahkamah agar menyatak an frasa \n\n70 \n \n“sistem penilaian yang menjamin mutu lulusan sesuai dengan Stan dar Nasional \nPendidikan Tinggi” dalam norma Pasal 31 ayat (3) UU 12/2012 kon stitusional \nbersyarat sepanjang dimaknai “sebagai kewajiban negara untuk me netapkan dan \nmenjamin berlakunya standar normatif minimum yang mengharuskan sistem \npenilaian pendidikan tinggi mencerminkan dan melindungi hubunga n yang utuh \nantara proses pembelajaran berkelanjutan dan hasil penilaian ak hir sebagai dasar \npenjaminan mutu lulusan”, menurut Mahkamah, merupakan permohona n yang \nberlebihan karena yang dimohonkan tersebut telah terakomodasi p engaturannya \ndalam berbagai norma dalam UU 12/2012 sebagaimana telah diperti mbangkan di \natas.  \n Berdasarkan uraian pertimbangan hukum tersebut di atas, dalil para \nPemohon yang mempersoalkan konstitusionalitas frasa “sistem pen ilaian yang \nmenjamin mutu lulusan sesuai Standar Nasional Pendidikan Tinggi ” dalam norma \nPasal 31 ayat (3) UU 12/2012 karena dianggap tidak menetapkan s tandar normatif \nminimum yang menjamin mutu lulusan dalam pasal a quo adalah tidak beralasan \nmenurut hukum. \n[3.13]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum  \ntersebut di atas, frasa “sistem penilaian yang menjamin mutu lulusan sesuai Standar \nNasional Pendidikan Tinggi” dalam norma Pasal 31 ayat (3) UU 12 /2012 telah \nternyata tidak melanggar hak atas jaminan dan kepastian hukum, hak untuk \nmendapatkan pendidikan, dan hak untuk mengembangkan diri sebagaimana dijamin \ndalam Pasal 28C ayat (1), Pasal 28D ayat (1), dan Pasal 31 ayat (1) UUD NRI Tahun \n1945, bukan sebagaimana yang didalilkan oleh para Pemohon. Deng an demikian, \ndalil para Pemohon adalah tidak beralasan menurut hukum untuk seluruhnya. \n[3.14] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan oleh Mahkamah karena dinilai tidak ada relevansinya.",
+      "start_line": 2277,
+      "end_line": 2572
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 2574,
+      "end_line": 2574
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n\n71 \n \n[4.2] Para Pemohon memiliki kedudukan hukum untuk mengajukan \npermohonan   a quo; \n[4.3] Permohonan para Pemohon adalah tidak beralasan menurut hukum u ntuk \nseluruhnya. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 2576,
+      "end_line": 2592
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan para Pemohon untuk seluruhnya. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh delapan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Sald i Isra, Arief \nHidayat, Enny Nurbaningsih, Daniel Yusmic P. Foekh, M. Guntur H amzah, Ridwan \nMansyur, dan Arsul Sani masing-masing sebagai Anggota, pada hari Jumat, tanggal \nsembilan, bulan Januari, tahun dua ribu dua puluh enam, yang diucapkan dalam \nSidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari Jumat, tanggal \ntiga puluh, bulan Januari, tahun dua ribu dua puluh enam , selesai diucapkan \npukul 09.20 WIB , oleh sembilan Hakim Konstitusi yaitu Suhartoyo selaku Ketua \nmerangkap Anggota, Saldi Isra, Arief Hidayat, Enny Nurbaningsih , Anwar Usman, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Ridwan Mansyur, dan A rsul Sani, \nmasing-masing sebagai Anggota, dengan dibantu oleh I Made Gede Widya Tanaya \nKabinawa sebagai Panitera Pengganti, serta dihadiri oleh para P emohon dan/atau \n\n72 \n \nkuasanya, Dewan Perwakilan Rakyat atau yang mewakili, dan Presi den atau yang \nmewakili. \n \n \nKETUA, \nttd. \nSuhartoyo \n ANGGOTA-ANGGOTA, \n ttd. \nSaldi Isra\n ttd. \nArief Hidayat  \nttd.  \nEnny Nurbaningsih\nttd.  \nAnwar Usman  \n ttd. \nDaniel Yusmic P. Foekh\nttd.  \nM. Guntur Hamzah\nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd.  \nI Made Gede Widya Tanaya Kabinawa",
+      "start_line": 2594,
+      "end_line": 2638
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Bernita Matondang",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Ariyanto Zalukhu",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Susi Lestari",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Nova Syafariyanto Prambudi",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Indah Lidiayani",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Ananda Putri Puspita",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Lely Diana Hatan",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "M. Imelda Novita S",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Karwana Sakaliou",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Ame Mira Putri Pramesti",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Evita Mulyani",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Ikke Nurjanah",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Mahira Azzahra Widiani",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 12/2012 tentang Pendidikan Tinggi"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 31 ayat (1)",
+      "Pasal 28C ayat (1)",
+      "Pasal 31",
+      "Pasal 28D Ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 31 ayat (3)",
+      "Pasal 24"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-44",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "BUKTI P-13",
+      "BUKTI P-14",
+      "BUKTI P-15",
+      "BUKTI P-16",
+      "BUKTI P-17",
+      "BUKTI P-18",
+      "BUKTI P-19",
+      "BUKTI P-20",
+      "BUKTI P-21",
+      "BUKTI P-22",
+      "BUKTI P-23",
+      "BUKTI P-24",
+      "BUKTI P-25",
+      "BUKTI P-26",
+      "BUKTI P-27",
+      "BUKTI P-28",
+      "BUKTI P-29",
+      "BUKTI P-30",
+      "BUKTI P-31",
+      "BUKTI P-32",
+      "BUKTI P-33",
+      "BUKTI P-34",
+      "BUKTI P-35",
+      "BUKTI P-36",
+      "BUKTI P-37",
+      "BUKTI P-38",
+      "BUKTI P-39",
+      "BUKTI P-40",
+      "BUKTI P-41",
+      "BUKTI P-42",
+      "BUKTI P-43",
+      "REFERENSI:243/PUU-XXIII/2025",
+      "REFERENSI:248/PUU/PAN.MK/AP3/12/2025",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danNomor011/PUU-V/2007",
+      "REFERENSI:5/PUU-X/2012",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumum59padatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danPerkaraNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan para Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Arief Hidayat",
+      "Enny Nurbaningsih",
+      "Anwar Usman",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "I Made Gede Widya Tanaya Kabinawa"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "243/PUU-XXIII/2025",
+      "248/PUU/PAN.MK/AP3/12/2025",
+      "11/PUU-V/2007",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "5/PUU-X/2012",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumum59padatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPerkaraNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "243/PUU-XXIII/2025",
+      "248/PUU/PAN.MK/AP3/12/2025",
+      "11/PUU-V/2007",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "5/PUU-X/2012",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumum59padatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPerkaraNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

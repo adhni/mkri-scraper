@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14687_1784791666.pdf",
+    "file_name": "putusan_mkri_14687_1784791666.pdf",
+    "page_count": 32,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14687_1784791666.pdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:applicants_missing"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "242/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "41/PUU/PAN.MK/AP3/06/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-07-23",
+    "decision_date_raw": "dua puluh tiga, bulan Juli, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "PUTUSAN \nNOMOR 242/PUU-XXIV/2026",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat  \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 30 Tahun 2009 tentang Ketenagalistrikan terhadap Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh: \n N a m a  : Moh. Sabar Musman \n Pekerjaan : Karyawan Swasta \n Alamat : Jalan Salihara Nomor 15-16, Kecamatan Pasar Minggu, \nKota Jakarta Selatan, Provinsi DKI Jakarta; atau \nPerumahan Harapan Baru Blok R9 Nomor 3, Kota \nBekasi, Provinsi Jawa Barat \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 4,
+      "end_line": 18
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n22 Juni 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pad a tanggal 22 \nJuni 2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor 2 41/PUU/ \nPAN.MK/AP3/06/2026 dan telah dicatat dalam Buku Registrasi Perk ara Konstitusi \nElektronik (e-BRPK) dengan Permohonan Nomor 242/PUU-XXIV/2026 p ada \ntanggal 22 Juni 2026, yang telah diperbaiki dengan perbaikan pe rmohonan \nbertanggal 14 Juli 2026 dan diterima Mahkamah pada tanggal 13 J uli 2026, pada \npokoknya menguraikan sebagai berikut. \n \n\n\n 2\nI. Kewenangan Mahkamah Konstitusi",
+      "start_line": 20,
+      "end_line": 32
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 24C ayat (1) UUD NRI Tahun 1945 menyat akan:",
+      "slug": "1-bahwa-ketentuan-pasal-24c-ayat-1-uud-nri-tahun-1945-menyat-akan",
+      "text": "Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, “Konstitusi.”",
+      "start_line": 34,
+      "end_line": 36
+    },
+    {
+      "heading": "2. Bahwa ketentuan Pasal 29 ayat (1) Undang-Undang Nomor 48 Tah un 2009",
+      "slug": "2-bahwa-ketentuan-pasal-29-ayat-1-undang-undang-nomor-48-tah-un-2009",
+      "text": "tentang Kekuasaan Kehakiman menyatakan: \nMahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: \na. menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945",
+      "start_line": 38,
+      "end_line": 42
+    },
+    {
+      "heading": "3. Bahwa selanjutnya, Pasal 10 ayat (1) huruf a Undang-Undang N omor 24",
+      "slug": "3-bahwa-selanjutnya-pasal-10-ayat-1-huruf-a-undang-undang-n-omor-24",
+      "text": "Tahun 2003 tentang Mahkamah Konstitusi sebagaimana diubah terak hir \ndengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketig a \nAtas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstit usi \n(selanjutnya disebut UU MK) menyatakan: \nMahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk:  \na. menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945.",
+      "start_line": 44,
+      "end_line": 51
+    },
+    {
+      "heading": "4. Bahwa Mahkamah Konstitusi berwenang menguji hal dugaan perte ntangan",
+      "slug": "4-bahwa-mahkamah-konstitusi-berwenang-menguji-hal-dugaan-perte-ntangan",
+      "text": "norma undang-undang terhadap Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945 berdasarkan ketentuan Pasal 9 ayat (1) Und ang-\nUndang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-\nundangan sebagaimana diubah terakhir dalam Undang-Undang 13 Tah un \n2022 tentang Perubahan Kedua atas Undang-Undang 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-undangan, yang selengkapnya \nmenyatakan bahwa: \nDalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi.",
+      "start_line": 53,
+      "end_line": 62
+    },
+    {
+      "heading": "5. Bahwa Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025",
+      "slug": "5-bahwa-pasal-2-ayat-1-peraturan-mahkamah-konstitusi-nomor-7-tahun-2025",
+      "text": "tentang Tata Beracara Dalam Perkara Pengujian Undang-Undang \n(selanjutnya disebut PMK 7/2025) menyatakan, “Objek Permohonan PUU \nadalah undang-undang dan Perppu”.",
+      "start_line": 64,
+      "end_line": 66
+    },
+    {
+      "heading": "6. Bahwa Pemohon mengajukan permohonan pengujian materiil atas Undang-",
+      "slug": "6-bahwa-pemohon-mengajukan-permohonan-pengujian-materiil-atas-undang",
+      "text": "Undang Ketenagalistrikan No 30/2009 tentang Pasal 3 ayat (1) da n Pasal 4 \n\n 3\nayat (1) terhadap Pasal 33 ayat (2) dan ayat (4) UUD 1945, yang menyatakan \nsebagai berikut: \nUU No 30/2009 Pasal 3 ayat (1)  \nPenyediaan tenaga listrik dikuasai oleh negara yang \npenyelenggaraannya dilakukan oleh Pemerintah dan pemerintah \ndaerah berlandaskan prinsip otonomi daerah.  \nUU No 30/2009 Pasal 4 ayat (1)  \nPelaksanaan usaha penyediaan tenaga listrik oleh Pemerintah dan  \npemerintah daerah dilakukan oleh badan usaha milik negara dan \nbadan usaha milik daerah.",
+      "start_line": 68,
+      "end_line": 80
+    },
+    {
+      "heading": "7. Bahwa oleh karena permohonan Pemohon adalah pengujian materiil undang-",
+      "slug": "7-bahwa-oleh-karena-permohonan-pemohon-adalah-pengujian-materiil-undang",
+      "text": "undang, in casu norma Pasal 3 ayat (1) dan Pasal 4 ayat (1) di dalam UU \nKetenagalistrikan No 30/2009 terhadap UUD NRI Tahun 1945 maka menurut \nPemohon, Mahkamah Konstitusi berwenang mengadili permohonan a quo. \nII. Kedudukan Hukum ( Legal Standing) Pemohon",
+      "start_line": 82,
+      "end_line": 85
+    },
+    {
+      "heading": "1. Kualifikasi Pasal 51 ayat (1) UU MK menyatakan, “Pemohon ada lah pihak",
+      "slug": "1-kualifikasi-pasal-51-ayat-1-uu-mk-menyatakan-pemohon-ada-lah-pihak",
+      "text": "yang menganggap hak dan/atau kewenangan konstitusionalnya dirug ikan \noleh berlakunya Undang-Undang, yaitu: \na) perorangan WNI;  \nb) kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip negara kesatuan Republik \nIndonesia yang diatur dalam Undang-Undang;  \nc) badan hukum publik dan privat; atau; \nd) lembaga negara. \nSelanjutnya, penjelasan Pasal 51 ayat (1) UU MK menyatakan: \nYang dimaksud dengan ‘hak konstitusional’ adalah hak-hak yang \ndiatur dalam Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945.",
+      "start_line": 87,
+      "end_line": 98
+    },
+    {
+      "heading": "2. Berdasarkan ketentuan Pasal 51 ayat (1) UU MK jo Pasal 4 ayat (1) PMK",
+      "slug": "2-berdasarkan-ketentuan-pasal-51-ayat-1-uu-mk-jo-pasal-4-ayat-1-pmk",
+      "text": "7/2025 tersebut, Pemohon harus memiliki kedudukan hukum (legal standing) \ndalam perkara pengujian undang-undang, yaitu dengan terpenuhiny a \nkualifikasi untuk bertindak sebagai pemohon, dan adanya hak dan /atau \nkewenangan konstitusional Pemohon yang dirugikan dengan berlaku nya \nsuatu undang-undang.",
+      "start_line": 100,
+      "end_line": 104
+    },
+    {
+      "heading": "3. Bahwa setelah memenuhi kualifikasi dalam kedudukan hukum seb agai",
+      "slug": "3-bahwa-setelah-memenuhi-kualifikasi-dalam-kedudukan-hukum-seb-agai",
+      "text": "Pemohon, perlu pula diuraikan syarat kerugian hak dan/atau kewe nangan \n\n 4\nkonstitusional sebagaimana dimaksud Pasal 51 ayat (1) UU MK untuk dapat \nmengajukan permohonan sebagaimana ditentukan dalam Putusan \nMahkamah Konstitusi Nomor 006/PUU-III/2005 dan Putusan Nomor 11/PUU-\nV/2007, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  \ndianggap dirugikan oleh berlakunya Undang-Undang yang dimohonka n \npengujian;",
+      "start_line": 106,
+      "end_line": 117
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan",
+      "text": "aktual atau setidak-tidaknya potensial yang menurut penalaran y ang \nwajar dapat dipastikan akan terjadi;",
+      "start_line": 119,
+      "end_line": 120
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat antara kerugian dimaksud dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan pengujian; \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan mak a \nkerugian konstitusional yang didalilkan tidak akan atau tidak lagi terjadi.",
+      "start_line": 122,
+      "end_line": 124
+    },
+    {
+      "heading": "4. Oleh sebab itu Pemohon menguraikan kedudukan hukum ( legal standing )",
+      "slug": "4-oleh-sebab-itu-pemohon-menguraikan-kedudukan-hukum-legal-standing",
+      "text": "Pemohon dalam mengajukan permohonan sebagai berikut: \n4.1. Kualifikasi sebagai Pemohon \nBahwa Pemohon berkualifikasi sebagai perorangan Warga Negara \nIndonesia yang dibuktikan dengan Kartu Tanda Penduduk/KTP (Bukti \nP-1). Pemohon sebagai pemegang kedaulatan rakyat untuk menilai,  \nmengawasi pemilu jujur. Pemohon adalah penulis 3 buku ISBN \nPenerbit Nurshakti Palapa. Buku ke-1 dengan topik analisa sejar ah \ntentang konstitusi UU terkait energi. Buku ke-2 dengan topik \nkekalahan imperalisme setan USA NATO. Buku ke-3 dengan topik \nmisteri pikiran matematika komputasi dalam sel syaraf otak. (Bu kti P-\n8). Berikut website Pemohon: \nMOHAMADMUSMAN.WORDPRESS.COM \n4.2. Kualifikasi Pemohon sebagai peneliti Konstitusi \nBerikut adalah kerugian spesifik aktual negara. Dalam buku ke-1 (Bukti \nP-4) Pemohon dengan topik analisa sejarah tentang konstitusi UU  \nterkait energi, diceritakan saat Malaysia merdeka tahun 1957, \n\n 5\nkonstitusi dan UU Malaysia itu disiapkan oleh Inggris penjajahn ya \ndengan standar British Commonwealth, berbeda dengan Indonesia. \nJika diusulkan perubahan UU di Malaysia memerlukan persetujuan \nRaja Dipertuan Agung Malaysia, seterusnya akan dikonsultasikan \ndengan induk British Commonwealth.  \nKejadian reformasi 1998 Indonesia, menjadi fokus penelitian Pemohon \nkenapa UU begitu mudah diubah-ubah asas filosofi konstitusinya.  \nPemohon mencatat sebagai berikut: \na) Pemohon menemukan fakta dampak dicabutnya secara serempak \nHak Kuasa Usaha BUMN terkait pasal 33 UUD pada 2(tiga) UU \nKetenagalistrikan, UU Migas antara tahun 2000-2010(era \nreformasi).  \nb) Pemohon adalah peneliti yang pertama membuat kajian konstitu si \nvs UU kenapa Pertamina tidak membangun kilang sejak 1998, \nkenapa PLN terus disubsidi oleh negara, kenapa kereta api hanya \nkenikmatan pulau Jawa antara tahun 2000- sekarang.  \nDalam buku ke-1 (Bukti P-4), Pemohon mengidentifikasi \npermasalahan bangsa adalah ada kaitan bahwa Indonesia dijajah 350 \ntahun lamanya (lama sekali dibandingkan 81 tahun Indonesia merdeka \nsaat ini) dan level IQ bangsa Indonesia di dunia yang tidak tin ggi \n(urutan ke 129 dunia sumber Tempo). Pemohon mempertanyakan \napakah saat ini Indonesia sedang dijajah oleh elit bangsanya se ndiri. \nPemohon wajib memberikan kontribusi pembebasan bangsanya \nsendiri dari segala bentuk penjajahan dan perbudakan bangsa.  \nPemohon memberi contoh bahwa mobil angkutan umum Angkot ber-\nBBM 1000-1500 cc di kota-kota 38 provinsi Indonesia ini adalah bukti \nperbudakan bangsa selama 60 tahun sampai sekarang ini. Angkutan  \ndarat massal ber-BBM ini secara konstitusi seharusnya disediaka n \nnegara tetapi justru sebaliknya dibebankan ke rakyat penyediaan nya. \nAkhirnya angkutan rakyat ber-BBM ini sudah tidak efisien energi , \nmemberi kontribusi membuat bengkak subsidi negara untuk belanja  \nimpor BBM Rp 3500 trilyun (tahun 1974-2026). \n\n 6\nDalam Buku ke-2 (Bukti P-4) dengan topik kekalahan imperialisme  \nsetan USA NATO, Pemohon juga telah meneliti bahwa Indonesia \nadalah salah satu korban perang global (1965-sekarang) antara \ndemokrasi setan yang dipimpin oleh USA melawan sosialisme globa l \nChina dan Russia. Perubahan konstitusi dan UU terkait politik d an \nenergi antara 1998-sekarang inilah yang menjadi obyek penelitia n \nPemohon, dan mengidentifikasi bahwa imperialisme USA adalah aktor \ndalang utama yang melakukan infiltrasi langsung tidak langsung \nterhadap konstitusi UU Indonesia terkait dengan krisis ekonomi utang \nluar negeri tahun 1998. . Kemudian akhirnya kita tahu di tahun 2026 \nini perang global telah dimenangkan oleh China saat ini. Apakah  \nKonstitusi Indonesia telah siap atas perubahan global yang cepa t ini \natau Indonesia selamanya menjadi korban kembali? \nDalam buku ke-1 (Bukti P-4), Pemohon sebagai peneliti Konstitus i, \nmelihat perjalanan kemerdekaan Indonesia 81 masih dalam mencari  \nformat pembebasan dari penjajahan dan perbudakan oleh elit \nbangsanya sendiri akibat 350 tahun dijajah Belanda. Bahwa Indonesia \nmerdeka 1945 atas kebaikan Jepang (1942-1945) dengan \nmemberikan kesempatan merdeka dan dengan memberikan senjata \nuntuk melawan Belanda kembali (1945-1950 perang kemerdekaan \nRI). Ketika “ Founding Fathers ” Panitia Sembilan sepakat dengan \nPancasila piagam Jakarta 22 Juni 1945, justru kemudian kesepakatan \nitu diubah di mana dihapuskannya frase “kewajiban menjalankan \nsyariah Islam bagi pemeluk-pemeluknya” pada sila ke 1 Ketuhanan , \nmenjelang proklamasi kemerdekaan RI tanggal 17 Agustus 1945. \nMenurut penelitian Pemohon, sebagai mayoritas umat Islam terbes ar \n(di dunia juga) hukum syariah Islam harus digunakan sebagai huk um \nkonstitusi/positif untuk menyatukan umat Islam dan menyatukan \nbangsa dalam harmoni. Pemohon mencatat bahwa Inggris \nmemberlakukan hukum syariah di Malaysia agar umat Islam dapat \nbersatu harmoni dalam kerangka bangsa multi etnis yang terdiri dari \netnis Tionghoa, India, dan etnis lainnya dalam hukum Persemakmuran \nInggris. Bahwa dalam perang global imperialisme USA, persatuan \nIslam itu diperlukan agar Islam tidak dipakai sebagai kendaraan politik \n\n 7\npecah belah. Kita lihat issue Sunni-Syiah begitu dahsyat dihembuskan \noleh imperialisme USA untuk merusak tatanan dunia. Puncaknya \nadalah tahun 1998, ketika konstitusi UU terkait politik dan ene rgi di \nIndonesia diubah-ubah seperti diceritakan di atas sebelumnya. Bahwa \n81 tahun Indonesia merdeka masih tanda tanya besar. Bahwa 350 \ntahun dijajah Belanda adalah fakta realitas pembentukan peradab an \nIndonesia yang mulai bersatu. Jika referensi ukuran peradaban 1 00 \ntahun, maka China dam Iran adalah contoh peradaban yang maju \nsains teknologinya dalam waktu sekitar 50 tahun sampai tahun 20 26 \nini. Itu semuanya didukung Konstitusi UU yang kuat dan konsiste n \nmembangun peradaban di hadapan Allah SWT. Pemohon berusaha \nmemberikan kontribusi untuk Indonesia yang tetap akan bersatu d i \ntahun 2045 kelak lewat website berikut: \nMOHAMADMUSMAN.WORDPRESS.COM \n4.3. Hubungan sebab akibat kerugian konstitusional Pemohon \nBahwa Pemohon mempunyai hak konstitusional yang diberikan oleh \nUUD 1945 sebagai pemegang kedaulatan rakyat untuk menilai, \nmengawasi berlakunya Pasal 33 ayat (2) : “Cabang-cabang produks i \nyang penting bagi negara dan yang menguasai hajat hidup orang \nbanyak dikuasai oleh negara”, Pasal 33 ayat (4): “Perekonomian \nnasional diselenggarakan berdasar atas demokrasi ekonomi dengan  \nprinsip kebersamaan, efisiensi berkeadilan, berkelanjutan, \nberwawasan lingkungan, kemandirian, serta dengan menjaga \nkeseimbangan kemajuan dan kesatuan ekonomi nasional” (Bukti P-2). \nMandat Pasal 33 ayat (2) dan ayat (4) UUD 1945 menuntut negara \nuntuk secara aktif mengelola cabang produksi vital demi kemakmuran \nrakyat. Bagi PT PLN (Persero), ini berarti negara memegang kend ali \npenuh tidak hanya untuk menjamin ketersediaan energi yang merat a, \ntetapi juga untuk menjalankan operasional secara efisien dan \nberkelanjutan. \nKonstitusi Pasal 33 ayat (2) dan (4) mengatur kewenangan negara  \natas sektor strategis. Negara wajib memastikan cabang produksi \nseperti listrik dikuasai penuh guna mewujudkan efisiensi berkea dilan, \n\n 8\nmenjaga kelestarian lingkungan, dan mencapai sebesar-besar \nkemakmuran rakyat \nListrik adalah cabang produksi vital yang menguasai hajat hidup orang \nbanyak. Sesuai Bunyi dan Makna Pasal 33 UUD 1945, PLN dikuasai \nnegara agar pemanfaatan energi ditujukan sebesar-besarnya untuk  \nkemakmuran rakyat. Penguasaan ini diwujudkan melalui Badan Usaha \nMilik Negara (BUMN) yang memadukan mandat pelayanan sosial \ndengan prinsip ekonomi modern \nPenguasaan dan efisiensi ini memiliki makna mendasar bagi \npengelolaan listrik nasional: \nPencegahan Monopoli Swasta yang Merugikan: Negara harus menjadi \npemegang kendali utama agar pasokan listrik tidak diserahkan \nsepenuhnya kepada mekanisme pasar bebas yang berpotensi \nmembebani masyarakat. \nPemerataan Akses (Keadilan Sosial): Memastikan tarif listrik te tap \nterjangkau dan infrastruktur distribusi menjangkau seluruh pelo sok \nnegeri, bahkan di wilayah yang secara bisnis kurang menguntungkan. \nPemberantasan Inefisiensi: Pengelolaan oleh negara bukan berart i \nlamban atau boros. Efisiensi berkeadilan menuntut PLN untuk ter us \nmenekan Biaya Pokok Penyediaan (BPP) listrik, meminimalisir sus ut \njaringan, serta melakukan transformasi digital agar kerugian ne gara \ndapat dihindari. \nTransisi Energi Berkelanjutan: Sejalan dengan prinsip berwawasa n \nlingkungan dan berkelanjutan, PLN memimpin transisi menuju ener gi \nbaru terbarukan (EBT), mengurangi emisi karbon, dan menjaga \nkeseimbangan ekosistem. \nKemandirian Energi: Mengurangi ketergantungan pada energi fosil  \nimpor dengan memaksimalkan potensi sumber daya alam domestik \nBerdasarkan ketentuan konstitusi tersebut, implementasi di sekt or \nkelistrikan dituntut untuk memenuhi beberapa poin utama: \n\n 9\nPencegahan Monopoli Merugikan: Negara memegang kontrol penuh \nagar pasokan energi tidak dikuasai segelintir pihak yang dapat \nmemberatkan masyarakat dan merugikan keuangan negara. \nEfisiensi Berkeadilan: Penguasaan negara bukan berarti anti-efisiensi. \nProduksi wajib berjalan efisien untuk menekan biaya operasional , \nsehingga tarif listrik tetap terjangkau oleh seluruh lapisan ma syarakat \ndan kalangan industri. \nKemandirian & Berwawasan Lingkungan: Selaras dengan prinsip \ndemokrasi ekonomi, pengelolaan energi didorong untuk mandiri \n(berbasis sumber daya dalam negeri) dan berkelanjutan (ramah \nlingkungan/transisi energi). \nKeseimbangan Pembangunan: Penyediaan infrastruktur \nketenagalistrikan dipastikan merata untuk menjaga keseimbangan \nkemajuan antardaerah di seluruh nusantara. \nPemohon sebagai konsumen mendalilkan bahwa PLN adalah BUMN \nterkait Pasal 33 ayat (2) dan ay at (4) UUD 1945 dan PLN harusla h \ntetap Perusahaan Listrik Negara bukanlah Perusahaan Listrik \nPemerintah.  \nPemohon sebagai peneliti Konstitusi melihat bahwa “pemerintah” \nbukanlah yang mempunyai hak terkait UU No 30/2009 Pasal 3 ayat (1) \n“Penyediaan tenaga listrik dikuasai oleh negara yang \npenyelenggaraannya dilakukan oleh “pemerintah” dan “pemerintah”  \ndaerah berlandaskan prinsip otonomi daerah, dan pada UU No \n30/2009 Pasal 4 ayat (1) “Pelaksanaan usaha penyediaan tenaga \nlistrik oleh “pemerintah” dan “pemerintah” daerah dilakukan ole h \nbadan usaha milik negara dan badan usaha milik daerah (Bukti P-3).  \nArgumen bahwa “pemerintah” tidak memiliki hak eksklusif terkait  \npenyelenggaraan tenaga listrik sejalan dengan mandat Pasal 33 UUD \n1945, yang menyatakan bahwa cabang-cabang produksi yang penting \nbagi negara dan menguasai hajat hidup orang banyak dikuasai ole h \nnegara, bukan pemerintah semata. \n\n 10\nPenyelenggaraan oleh “pemerintah” atau BUMN/BUMD dalam UU No. \n30 Tahun 2009 hanya merupakan instrumen pelaksana, sementara \n“negara” memiliki makna yang lebih luas. \nMakna Dikuasai oleh Negara: Penguasaan negara merupakan fungsi \nkedaulatan yang mencakup kewenangan menetapkan kebijakan, \npengaturan, dan pengawasan.  \nKewenangan ini dilakukan oleh lembaga perwakilan rakyat beserta  \norgan pelaksananya. \nPemisahan Penguasa dan Pengusaha: Menyerahkan pelaksanaan \nmonopoli penyediaan listrik secara mutlak kepada BUMN (seperti PT \nPLN) justru kerap dianggap bertentangan dengan prinsip penguasaan \nnegara yang sesungguhnya. Negara seharusnya bertindak sebagai \nregulator dan pengawas, bukan pelaku usaha tunggal yang \nmembatasi hak masyarakat lain. \nMenurut Pemohon, “pemerintah” pada pasal a quo yang dimaksudkan \nseharusnya adalah negara atau komisi negara atau pemegang kuasa \nusaha negara berdasarkan UU ketenagalistrikan yang mempunyai \nkewenangan independen menjalankan mesin mekanisme ekonomi \nteknik untuk penguasaan dan pengusahaan tenaga listrik yang efisien \ndan tidak membebani keuangan negara. Hubungan sebab akibat \npasal a quo adalah sbb: \nPenguasaan Penyediaan TL \nPasal 3 ayat (1) UU No 30/2009 \nPenyelenggaraan TL \nPasal 3 ayat (1) UU No 30/2009 \nNegara Pemerintah / Pemerintah Daerah \nMemenuhi UUD Pasal 33 Melanggar UUD Pasal 33 \nseharusnya: \nPenguasaan Penyediaan TL \nPasal 3 ayat (1) UU No 30/2009 \nPenyelenggaraan TL \nPasal 3 ayat (1) UU No 30/2009 \nNegara Negara  Komisi Negara  \nPemegang Hak Kuasa Usaha TL \nMemenuhi UUD Pasal 33 Memenuhi UUD Pasal 33 \nkemudian: \nPelaksanaan usaha TL  \nPasal 4 ayat (1) UU No 30/2009 \nPelaksanaan usaha TL  \nPasal 4 ayat (1) UU No 30/2009 \n\n 11\nPemerintah BUMN/BUMD \nMelanggar UUD Pasal 33 Memenuhi UUD Pasal 33 \nseharusnya: \nPelaksanaan usaha TL  \nPasal 4 ayat (1) UU No 30/2009 \nPelaksanaan usaha TL  \nPasal 4 ayat (1) UU No 30/2009 \nNegara Komisi Negara \nPemegang Hak Kuasa Usaha TL Dilakukan BUMN/BUMD \nMelanggar UUD Pasal 33 Memenuhi UUD Pasal 33 \nBahwa hak-hak konstitusional yang diberikan oleh UUD 1945 tersebut, \nmenurut anggapan Pemohon telah dirugikan oleh berlakunya pasal  \na quo  Menurut Pemohon, mekanisme mesin ekonomi-teknik \nsebenarnya yang diperlukan untuk penguasaan dan pengusahaan \ntenaga listrik yang efisien adalah bukan tugas pemerintah melai nkan \nsuatu pemegang hak kuasa usaha ketenagalistrikan berdasarkan \nundang-undang ketenagalistrikan. Menurut Pemohon, sebagaimana \npada tabel negara vs pemerintah di bawah, bahwa pemerintah \n(dengan kepala pemerintah presiden/wakil presiden) secara \nkonstitusional adalah pelaksana fungsi kekuasaan, pengelola \nadministrasi negara yang berganti setiap 5 (lima tahun), jadi \npemerintah pada pasal a quo  seharusnya di luar dari lingkup \npenyelenggara dan pelaksanaan usaha mekanisme ekonomi-teknik \nketenagalistrikan. \nPerbedaan aspek negara vs pemerintah: \nTabel Perbedaan Aspek Negara Vs Pemerintah \nAspek Negara ( State) Pemerintah ( Government) \nKonsep \nDasar \nWadah atau organisasi \nmasyarakat yang memiliki \nw i l a y a h ,  r a k y a t ,  d a n  \nkedaulatan. \nPelaksana fungsi kekuasaan \nuntuk mencapai tujuan \nbernegara. \nBentuk & \nSifat \nSesuai Pasal 1 ayat (1) UUD \n1945, Negara Indonesia \nadalah Negara Kesatuan, \nyang berbentuk Republik. \nDijalankan oleh Presiden yang \nmemegang kekuasaan \npemerintahan menurut UUD, \nsesuai Pasal 4 ayat (1). \nMasa \nJabatan \nBersifat permanen dan \nberkelanjutan selama rakyat \ndan wilayahnya masih ada. \nPeriodik atau berganti sesuai \ndengan hasil Pemilu (Presiden \ndan Wakil Presiden menjabat \nselama 5 tahun). \n\n 12\nFungsi \nUtama \nMelindungi segenap bangsa \ndan seluruh tumpah darah, \nmemajukan kesejahteraan \numum, dan mencerdaskan \nkehidupan bangsa \n(Pembukaan UUD 1945 \nAlinea IV) \nMengelola administrasi \nnegara, menyusun kebijakan, \nserta menjalankan roda \npemerintahan sesuai \nkonstitusi dan undang-\nundang. \nPerbedaan BUMN terkait Pasal 33 UUD 1945 dengan pemerintah \nPerbedaan utama terletak pada kedudukan dan sifat operasionalny a; \npemerintah adalah penyelenggara negara yang berfungsi mengatur \nregulasi dan pelayanan publik, sedangkan BUMN adalah badan usaha \nmilik negara yang dibentuk untuk menjalankan kegiatan ekonomi guna \nmencari keuntungan sekaligus mengelola sektor penting bagi \nkemakmuran rakyat sesuai amanat Pasal 33 UUD 1945. \nBerikut adalah rincian perbedaan spesifik antara BUMN dan insta nsi \npemerintah: \nTujuan Operasional: Instansi pemerintah bertujuan untuk \nmenyelenggarakan fungsi pemerintahan dan melayani masyarakat \ntanpa mencari laba. Sebaliknya, BUMN adalah entitas bisnis yang  \nberorientasi pada perolehan keuntungan, meskipun fungsinya teta p \ndiarahkan untuk mendukung kesejahteraan masyarakat luas. \nPenjelasan hubungan sebab akibat  kenapa frase “pemerintah” \ntidak boleh ada di Pasal 3 ayat (1) dan Pasal 4 ayat (1) UU Listrik \n \nSeharusnya dibentuk \nKomisi Negara untuk \nEnergi termasuk Listrik\nPenyelenggaraan dan \nPelaksanaan Listrik \nPLN oleh “Pemerintah”\nPengusahaan dan \nPenyelenggaraan \nListrik PLN harus \n“Negara”\nPasal 33 ayat (2) dan ayat (4) \nUUD 1945\nPasl 3 ayat (1) \nUU Listrik\nMelanggar \nKonstitusi\nPasl 4 ayat (1) \nUU Listrik\nMelanggar \nKonstitusi\n\n 13\nDasar Hukum Terkait UUD 1945: BUMN merupakan perwujudan \nkonkret dari hak menguasai negara atas cabang-cabang produksi \nyang penting dan menguasai hajat hidup orang banyak berdasarkan  \nPasal 33 ayat (2) dan ayat (4) UUD 1945. \n Pasal 33 ayat (2) : “Cabang-cabang produksi yang penting bagi \nnegara dan yang menguasai hajat hidup orang banyak dikuasai \noleh negara”,  \n Pasal 33 ayat (4): “Perekonomian nasional diselenggarakan \nberdasar atas demokrasi ekonomi dengan prinsip kebersamaan, \nefisiensi berkeadilan, berkelanjutan, berwawasan lingkungan, \nkemandirian, serta dengan menjaga keseimbangan kemajuan dan \nkesatuan ekonomi nasional” \nTidak ada kata pemerintah pada Pasal 33 UUD di atas yang menjad i \nreferensi UU No 30/2009  \n Pasal 3 ayat (1) “Penyediaan tenaga listrik dikuasai oleh nega ra \nyang penyelenggaraannya dilakukan oleh “pemerintah” dan \n“pemerintah” daerah berlandaskan prinsip otonomi daerah. \n Pasal 4 ayat (1) “Pelaksanaan usaha penyediaan tenaga listrik oleh \n“pemerintah” dan “pemerintah” daerah dilakukan oleh badan usaha \nmilik negara dan badan usaha milik daerah. \nPemerintah bertindak sebagai regulator yang menetapkan kebijaka n \nekonomi makro dan mengawasi jalannya BUMN. \nPengelolaan Kekayaan: Kekayaan BUMN berbentuk kekayaan negara \nyang dipisahkan dari Anggaran Pendapatan dan Belanja Negara \n(APBN), yang memungkinkan BUMN mandiri dalam mencari \npendanaan dan mengelola operasionalnya. Sedangkan instansi \npemerintah menggunakan dana APBN murni yang peruntukannya \ntelah direncanakan secara ketat untuk kebutuhan administratif d an \npelayanan publik. \nBentuk Badan Hukum: Instansi pemerintah berupa lembaga negara \natau departemen (Kementerian), sementara BUMN berbentuk \nPerseroan Terbatas (Persero) atau Perusahaan Umum (Perum) yang \n\n 14\ntunduk pada Undang-Undang tentang Perseroan Terbatas dan \nUndang-Undang BUMN. \nKomparasi antara Negara vs BUMN terkait Pasal 33 UUD vs \nPemerintah \nNegara BUMN terkait Pasal \n33 UUD Pemerintah \nBersifat permanen \ndan berkelanjutan \nselama rakyat dan \nwilayahnya masih \nada. \nBUMN adalah badan \nusaha milik negara \nyang dibentuk untuk \nmenjalankan \nkegiatan ekonomi \nguna mencari \nkeuntungan \nsekaligus mengelola \nsektor penting bagi \nkemakmuran rakyat \nsesuai amanat Pasal \n33 UUD 1945 \nPeriodik atau \nberganti sesuai \ndengan hasil Pemilu \n(Presiden dan Wakil \nPresiden menjabat \nselama 5 tahun). \nMelindungi segenap \nbangsa dan seluruh \ntumpah darah, \nmemajukan \nkesejahteraan \numum, dan \nmencerdaskan \nkehidupan bangsa \n(Pembukaan UUD \n1945 Alinea IV) \nBUMN adalah entitas \nbisnis yang \nberorientasi pada \nperolehan \nkeuntungan, \nmeskipun fungsinya \ntetap diarahkan \nuntuk mendukung \nkesejahteraan \nmasyarakat luas \nInstansi pemerintah \nbertujuan untuk \nmenyelenggarakan \nfungsi pemerintahan \ndan melayani \nmasyarakat tanpa \nmencari laba. \nWadah atau \norganisasi \nmasyarakat yang \nmemiliki wilayah, \nrakyat, dan \nkedaulatan. \nBUMN merupakan \nperwujudan konkret \ndari hak menguasai \nnegara atas cabang-\ncabang produksi \nyang penting dan \nmenguasai hajat \nhidup orang banyak \nberdasarkan Pasal \n33 ayat (2) dan (4) \nUUD 1945. \nPemerintah \nbertindak sebagai \nregulator yang",
+      "start_line": 126,
+      "end_line": 576
+    },
+    {
+      "heading": "menetapkan",
+      "slug": "menetapkan",
+      "text": "kebijakan ekonomi \nmakro dan \nmengawasi jalannya \nBUMN \nPenjelasan hubungan sebab akibat campur tangan “pemerintah” pada \nPasal 3 ayat (1) dan Pasal 4 ayat (1) UU Ketenagalistrikan tela h \nmenyebabkan kerugian negara selama 25 tahun.  \nPasal 33 ayat (4) UUD 1945: “Perekonomian nasional \ndiselenggarakan berdasar atas demokrasi ekonomi dengan prinsip \n\n 1 5\nkebersamaan, efisiensi berkeadilan, berkelanjutan, berwawasan \nlingkungan, kemandirian, serta dengan menjaga keseimbangan \nkemajuan dan kesatuan ekonomi nasional” \nMenurut Pemohon, mesin usaha mekanisme ekonomi-teknik \nketenagalistrikan ini harus efisien dan tidak merugikan negara seperti \ndisebutkan pada Pasal 33 ayat (4) UUD 1945.  \nFaktanya selama 25 tahun era reformasi, usaha ketenagalistrikan PLN \nsampai sekarang terus diberikan subsidi negara. Berikut bukti d ata \nstatistik BPS 2020-2024 kerugian usaha ketenagalistrikan 2020-2024, \nyang berarti PLN itu tidak efisien sebagai mesin ekonomi teknik. \nhttps://www.bps.go.id/id/publication/2025/12/31/c4f7aade5d4801236e\nc79b81/statistik-listrik-2020-2024.html \nhttps://www.bps.go.id/en/publication/2023/12/21/193053e47e20e9c6c\n5ef6252/electric-statistics-2018-2022.html \nTabel No 57 halaman 67 Statistik Listrik BPS 2020-2024 \nRincian 2020 2021 2022 2023 2024 \nNilai Output  \n(Rp Triliun) 334 284 382 418 468 \nNilai Input  \n(Rp Triliun) 274 294 386 440 484 \nSubsidi  \n(Rp Triliun) 47 49 58 68 77 \nData Kerugian Usaha Ketenagalistrikan Pemerintah 2020-2024 \n \n\n\n 1 6\nMenurut Pemohon, dampak inkonstitusional asal-pasal a quo  \nmembuat usaha ketenagalistrikan nasional akan selamanya merugi,  \nmembebani keuangan negara dan melanggar Konstitusi, seperti \nditunjukkan oleh data BPS di atas.  \nKemudian Pemohon menunjukkan bukti dari data badan internasional \nenergi baru terbarukan yakni IRENA, pada Link di bawah, bahwa \n“Pemerintah” yang pada dasarnya berfungsi administrasi yang \nberganti setiap 5 tahun, terbukti tidak berupaya maksimal membangun \npembangkit-pembangkit Energi Baru Terbarukan (EBT) yang lebih \nefisien dan biaya satuan energi (Rp/kWh) pembangkitannya lebih \nekonomis/murah. Bukti pada tabel perbandingan Indonesia vs \nVietnam dan Indonesia vs Thailand dalam kurun waktu 2010-2019 \nberikut:  \nhttps://www.irena.org/-\n/media/Files/IRENA/Agency/Publication/2020/Mar/IRENA_RE_Capac\nity_Statistics_2020.pdf \nPerbandingan Pertumbuhan Pembangunan Pembangkit Listrik \nTenaga Air Indonesia vs Vietnam (2010-2019) \n \n \n \n\n\n 1 7\nPerbandingan Pertumbuhan Pembangunan Pembangkit Listrik \nTenaga Surya Indonesia vs Thailand (2010-2019) \n \n4.4. Hubungan sebab akibat kerugian Pemohon sebagai Konsumen PL N \nPasal 33 UUD 1945 mengamanatkan bahwa cabang produksi yang \npenting dan menguasai hajat hidup orang banyak dikuasai oleh negara \n(Ayat 2), dan perekonomian nasional diselenggarakan berdasarkan  \nprinsip kebersamaan, efisiensi berkeadilan, dan berkelanjutan ( Ayat \n4).  \nMelalui mandat ini, hak-hak konsumen listrik dilindungi sebagai  \nberikut: \nKetersediaan dan Keterjangkauan (Pasal 33 ayat 2): Negara \nmenguasai sektor kelistrikan melalui PT PLN (Persero) untuk \nmemastikan ketersediaan pasokan listrik yang merata dan menjaga  \ntarif batas atas agar tetap terjangkau oleh masyarakat luas. \nHak Kompensasi dan Pelayanan (Pasal 33 ayat 4): Prinsip efisien si \nberkeadilan menuntut PLN memberikan pelayanan yang optimal. Atas \ndasar ini, konsumen berhak mendapatkan ganti rugi atas pemadaman \natau gangguan dan berhak atas Tingkat Mutu Pelayanan (TMP) yang  \ntelah diatur oleh pemerintah. \n \n\n\n 18\nBukti A Bukti B Dampak ke \nKonsumen PLN \nFaktanya selama 25 \ntahun era reformasi, \nusaha \nketenagalistrikan PLN \nsampai sekarang terus \ndiberikan subsidi \nnegara. Bukti data \nstatistik BPS 2020-\n2024 kerugian usaha \nketenagalistrikan \n2020-2024, yang \nb e r a r t i  P L N  i t u  t i d a k  \nefisien sebagai mesin \nekonomi teknik \nBukti dari data badan \ninternasional energi \nbaru terbarukan yakni \nIRENA, bahwa \n“Pemerintah” terbukti \ntidak berupaya \nmaksimal membangun \npembangkit-\npembangkit Energi \nBaru Terbarukan (EBT) \nyang lebih efisien dan \nbiaya satuan energi \n(Rp/kWh) \npembangkitannya \nlebih ekonomis/murah. \nTerlihat perbandingan \nIndonesia vs Vietnam \ndan Indonesia vs \nThailand dalam kurun \nwaktu 2010-2019 \nDengan operasi PLN \ntidak efisien \nmembebani APBN dan \ntidak berupaya \nmaksimal membangun \npembangkit EBT yang \nlebih efisien dan biaya \nsatuan energi Rp/kWH \nlebih ekonomis dan \nmurah, maka akan \nmudah diprediksi \nbahwa tarif listrik PLN \nakan terus meningkat \nmahal membebani \nkonsumen, dan PLN \ntidak mempunyai biaya \nyang cukup untuk \npembangunan \npembangkit efisien.",
+      "start_line": 578,
+      "end_line": 718
+    },
+    {
+      "heading": "5. Kejadian faktual tersebut menjadikan Pemohon memiliki kerugi an",
+      "slug": "5-kejadian-faktual-tersebut-menjadikan-pemohon-memiliki-kerugi-an",
+      "text": "konstitusional berpotensi terlanggar dengan pasal a quo. Sehingga dengan \nkerugian Pemohon yang telah dijabarkan di atas, maka tampak jelas potensi \nkerugian Pemohon yang akan muncul sebab keberlakuan pasal a quo.",
+      "start_line": 720,
+      "end_line": 722
+    },
+    {
+      "heading": "6. Bahwa kerugian hak konstitusional Pemohon di atas bersifat s pesifik dan",
+      "slug": "6-bahwa-kerugian-hak-konstitusional-pemohon-di-atas-bersifat-s-pesifik-dan",
+      "text": "aktual, atau setidak-tidaknya potensial yang berdasarkan penala ran yang \nwajar dipastikan akan terjadi, serta mempunyai hubungan kausal dengan \nberlakunya Pasal 3 ayat (1) dan Pasal 4 ayat (1) di dalam UU \nKetenagalistrikan No 30/2009 dan diyakini bahwa apabila permoho nan \ndikabulkan, kerugian hak konstitusional Pemohon tidak akan atau  tidak lagi \nterjadi;",
+      "start_line": 724,
+      "end_line": 729
+    },
+    {
+      "heading": "7. Bahwa dengan demikian Pemohon telah memenuhi kualitas dan ka pasitas",
+      "slug": "7-bahwa-dengan-demikian-pemohon-telah-memenuhi-kualitas-dan-ka-pasitas",
+      "text": "sebagai Pemohon Pengujian Undang-Undang terhadap Undang-Undang \nDasar 1945. Sehingga, jelas pula Pemohon memiliki hak dan kepen tingan \nhukum mewakili kepentingan publik untuk mengajukan permohonan \npengujian UU Pemilu terhadap UUD 1945. \nIII. Pokok Permohonan \n1) Bahwa pokok permohonan adalah ketentuan UU Ketenagalistrikan  N o  \n30/2009 yang menyatakan sebagai berikut: \n\n 19\na) Pasal 3 ayat (1): “Penyediaan tenaga listrik dikuasai oleh n egara yang \npenyelenggaraannya dilakukan oleh Pemerintah dan pemerintah dae rah \nberlandaskan prinsip otonomi daerah”. \nb) Pasal 4 ayat (1): “Pelaksanaan usaha penyediaan tenaga listr ik oleh \nPemerintah dan pemerintah daerah dilakukan oleh badan usaha mil ik \nnegara dan badan usaha milik daerah”. \n2) Bahwa Pemohon mendalilkan Pasal a quo bertentangan dengan Pasal 33 \nayat (2) dan ayat (4) UUD NRI Tahun 1945, dengan hubungan sebab  akibat \nutama sbb: \nPemohon mendalilkan bahwa PLN adalah BUMN terkait Pasal 33 ayat  (2) \ndan ayat (4) UUD 1945 dan PLN haruslah tetap Perusahaan Listrik  Negara \nbukanlah Perusahaan Listrik Pemerintah. \nPemohon sebagai peneliti Konstitusi melihat bahwa “pemerintah” bukanlah \nyang mempunyai hak terkait UU No 30/2009 Pasal 3 ayat (1) “Peny ediaan \ntenaga listrik dikuasai oleh negara yang penyelenggaraannya dilakukan oleh \n“pemerintah” dan “pemerintah” daerah berlandaskan prinsip otonomi daerah, \ndan pada UU No 30/2009 Pasal 4 ayat (1) “Pelaksanaan usaha peny ediaan \ntenaga listrik oleh “pemerintah” dan “pemerintah” daerah dilaku kan oleh \nbadan usaha milik negara dan badan usaha milik daerah.  \nMenurut Pemohon, “pemerintah” pada pasal a quo  yang dimaksudkan \nseharusnya adalah negara atau komisi negara atau pemegang kuasa usaha \nnegara berdasarkan UU ketenagalistrikan yang mempunyai kewenang an \nindependen menjalankan mesin mekanisme ekonomi teknik untuk \npenguasaan dan pengusahaan tenaga listrik yang efisien dan tida k \nmembebani keuangan negara. Hubungan sebab akibat pasal a quo adalah \nsbb: \nPenguasaan Penyediaan TL \nPasal 3 ayat (1) UU No 30/2009 \nPenyelenggaraan TL \nPasal 3 ayat (1) UU No 30/2009 \nNegara Pemerintah / Pemerintah Daerah \nMemenuhi UUD Pasal 33 Melanggar UUD Pasal 33 \nseharusnya: \nPenguasaan Penyediaan TL \nPasal 3 ayat (1) UU No 30/2009 \nPenyelenggaraan TL \nPasal 3 ayat (1) UU No 30/2009 \nNegara Negara  Komisi Negara  \nPemegang Hak Kuasa Usaha TL\nMemenuhi UUD Pasal 33 Melanggar UUD Pasal 33 \n \n\n 20\nkemudian \nPelaksanaan usaha TL  \nPasal 4 ayat (1) UU No 30/2009 \nPelaksanaan usaha TL  \nPasal 4 ayat (1) UU No 30/2009 \nPemerintah BUMN/BUMD \nMelanggar UUD Pasal 33 Memenuhi UUD Pasal 33 \nseharusnya: \nPelaksanaan usaha TL  \nPasal 4 ayat (1) UU No 30/2009 \nPelaksanaan usaha TL  \nPasal 4 ayat (1) UU No 30/2009 \nNegara  Komisi Negara  \nPemegang Hak Kuasa Usaha TL Dilakukan BUMN/BUMD \nMemenuhi UUD Pasal 33 Memenuhi UUD Pasal 33 \nMenurut Pemohon, mekanisme mesin ekonomi-teknik sebenarnya yang  \ndiperlukan untuk penguasaan dan pengusahaan tenaga listrik yang  efisien \nadalah bukan tugas pemerintah melainkan suatu pemegang hak kuasa usaha \nketenagalistrikan berdasarkan undang-undang ketenagalistrikan. \nMenurut Pemohon, sebagaimana pada tabel negara vs pemerintah di bawah, \nbahwa pemerintah (dengan kepala pemerintah presiden/wakil presi den) \nsecara konstitusional adalah pelaksana fungsi kekuasaan, pengel ola \nadministrasi negara yang berganti setiap 5 (lima tahun), jadi pemerintah pada \npasal a quo seharusnya di luar dari lingkup penyelenggara dan pelaksanaan \nusaha mekanisme ekonomi-teknik ketenagalistrikan.  \nBerikut tabel perbedaan aspek negara vs pemerintah: \nTabel Perbedaan Aspek Negara vs Pemerintah \nAspek Negara ( State) Pemerintah ( Government) \nKonsep \nDasar \nWadah atau organisasi \nmasyarakat yang memiliki \nwilayah, rakyat, dan \nkedaulatan. \nPelaksana fungsi kekuasaan \nuntuk mencapai tujuan \nbernegara. \nBentuk & \nSifat \nSesuai Pasal 1 ayat (1) UUD \n1945, Negara Indonesia \nadalah Negara Kesatuan, \nyang berbentuk Republik. \nDijalankan oleh Presiden yang \nmemegang kekuasaan \npemerintahan menurut UUD, \nsesuai Pasal 4 ayat (1). \nMasa \nJabatan \nBersifat permanen dan \nberkelanjutan selama rakyat \ndan wilayahnya masih ada. \nPeriodik atau berganti sesuai \ndengan hasil Pemilu (Presiden \ndan Wakil Presiden menjabat \nselama 5 tahun). \n\n 21\nFungsi \nUtama \nMelindungi segenap bangsa \ndan seluruh tumpah darah, \nmemajukan kesejahteraan \numum, dan mencerdaskan \nkehidupan bangsa \n(Pembukaan UUD 1945 \nAlinea IV) \nMengelola administrasi negara, \nmenyusun kebijakan, serta \nmenjalankan roda \npemerintahan sesuai konstitusi \ndan undang-undang. \nPenjelasan hubungan sebab akibat kenapa frase “pemerintah” tida k boleh \nada di Pasal 3 ayat (1) dan Pasal 4 ayat (1) UU Listrik \n \nDasar Hukum Terkait UUD 1945: BUMN merupakan perwujudan konkret dari \nhak menguasai negara atas cabang-cabang produksi yang penting d an \nmenguasai hajat hidup orang banyak berdasarkan Pasal 33 ayat (2) dan ayat \n(4) UUD 1945. \n Pasal 33 ayat (2): “Cabang-cabang produksi yang penting bagi n egara \ndan yang menguasai hajat hidup orang banyak dikuasai oleh negara”,  \n Pasal 33 ayat (4): “Perekonomian nasional diselenggarakan berd asar \natas demokrasi ekonomi dengan prinsip kebersamaan, efisiensi \nberkeadilan, berkelanjutan, berwawasan lingkungan, kemandirian,  serta \ndengan menjaga keseimbangan kemajuan dan kesatuan ekonomi \nnasional” \nTidak ada kata pemerintah pada Pasal 33 UUD di atas yang menjadi referensi \nUU No 30/2009  \nSeharusnya \ndibentuk Komisi \nNegara untuk \nEnergi termasuk \nListrik\nPenyelenggaraan \ndan Pelaksanaan \nListrik PLN oleh \n“Pemerintah”\nPengusahaan dan \nPenyelenggaraan \nListrik PLN harus \n“Negara”\nPasal 33 ayat (2) dan ayat (4) \nUUD 1945\nPasl 3 ayat (1) \nUU Listrik\nMelanggar \nKonstitusi\nPasl 4 ayat (1) \nUU Listrik\nMelanggar \nKonstitusi\n\n 22\n Pasal 3 ayat (1) “Penyediaan tenaga listrik dikuasai oleh nega ra yang \npenyelenggaraannya dilakukan oleh “pemerintah” dan “pemerintah”  \ndaerah berlandaskan prinsip otonomi daerah. \n Pasal 4 ayat (1) “Pelaksanaan usaha penyediaan tenaga listrik oleh \n“pemerintah” dan “pemerintah” daerah dilakukan oleh badan usaha  milik \nnegara dan badan usaha milik daerah \nPemerintah bertindak sebagai regulator yang menetapkan kebijakan ekonomi \nmakro dan mengawasi jalannya BUMN. \nPengelolaan Kekayaan: Kekayaan BUMN berbentuk kekayaan negara y ang \ndipisahkan dari Anggaran Pendapatan dan Belanja Negara (APBN), yang \nmemungkinkan BUMN mandiri dalam mencari pendanaan dan mengelola  \noperasionalnya. Sedangkan instansi pemerintah menggunakan dana APBN \nmurni yang peruntukannya telah direncanakan secara ketat untuk kebutuhan \nadministratif dan pelayanan publik. \nBentuk Badan Hukum: Instansi pemerintah berupa lembaga negara a tau \ndepartemen (kementerian), sementara BUMN berbentuk Perseroan Terbatas \n(Persero) atau Perusahaan Umum (Perum) yang tunduk pada Undang-\nUndang tentang Perseroan Terbatas dan Undang-Undang BUMN. \nKomparasi antara Negara vs BUMN terkait Pasal 33 UUD vs \nPemerintah \nNEGARA BUMN terkait Pasal 33 \nUUD Pemerintah \nBersifat permanen dan \nberkelanjutan selama \nrakyat dan wilayahnya \nmasih ada. \nBUMN adalah badan \nusaha milik negara yang \ndibentuk untuk \nmenjalankan kegiatan \nekonomi guna mencari \nkeuntungan sekaligus \nmengelola sektor penting \nbagi kemakmuran rakyat \nsesuai amanat Pasal 33 \nUUD 1945 \nPeriodik atau berganti \nsesuai dengan hasil \nPemilu (Presiden dan \nWakil Presiden menjabat \nselama 5 tahun). \nMelindungi segenap \nbangsa dan seluruh \ntumpah darah, \nmemajukan \nkesejahteraan umum, \ndan mencerdaskan \nkehidupan bangsa \nBUMN adalah entitas \nbisnis yang berorientasi \npada perolehan \nkeuntungan, meskipun \nfungsinya tetap \ndiarahkan untuk \nmendukung \nInstansi pemerintah \nbertujuan untuk \nmenyelenggarakan \nfungsi pemerintahan dan \nmelayani masyarakat \ntanpa mencari laba. \n\n 2 3\n(Pembukaan UUD 1945 \nAlinea IV) \nkesejahteraan \nmasyarakat luas \nWadah atau organisasi \nmasyarakat yang \nmemiliki wilayah, rakyat, \ndan kedaulatan. \nBUMN merupakan \nperwujudan konkret dari \nhak menguasai negara \natas cabang-cabang \nproduksi yang penting \ndan menguasai hajat \nhidup orang banyak \nberdasarkan Pasal 33 \nayat (2) dan (4) UUD \n1945. \nPemerintah bertindak \nsebagai regulator yang \nmenetapkan kebijakan \nekonomi makro dan \nmengawasi jalannya \nBUMN \nPenjelasan hubungan sebab akibat campur tangan “pemerintah” pada Pasal \n3 ayat (1) dan Pasal 4 ayat (1) UU Ketenagalistrikan telah meny ebabkan \nkerugian dan in-efisiensi negara selama 25 tahun.  \nPasal 33 ayat (4) UUD 1945: “Per ekonomian nasional diselenggara kan \nberdasar atas demokrasi ekonomi dengan prinsip kebersamaan, efi siensi \nberkeadilan, berkelanjutan, berwawasan lingkungan, kemandirian,  s e r t a  \ndengan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional” \nMesin usaha mekanisme ekonomi-teknik ketenagalistrikan ini haru s efisien \ndan tidak merugikan negara. Faktanya selama 25 tahun era reformasi, usaha \nketenagalistrikan PLN sampai sekarang terus diberikan subsidi n egara. \nBerikut bukti data statistik BPS 2020-2024 kerugian usaha keten agalistrikan \n2020-2024, yang berarti PLN itu tidak efisien sebagai mesin ekonomi teknik. \n \n\n\n 2 4\nKemudian Pemohon menunjukkan bukti dari data badan internasional energi \nbaru terbarukan yakni IRENA, pada Link di bawah, bahwa “Pemerintah” yang \npada dasarnya berfungsi administrasi yang berganti setiap 5 tah un, terbukti \ntidak berupaya maksimal membangun pembangkit-pembangkit Energi Baru \nTerbarukan (EBT) yang lebih efisien dan biaya satuan energi (Rp /kWh) \npembangkitannya lebih ekonomis/murah. Bukti pada tabel perbandi ngan \nIndonesia vs Vietnam dan Indonesia vs Thailand dalam kurun wakt u 2010-\n2019 berikut: \nPerbandingan Pertumbuhan Pembangunan Pembangkit Listrik Tenaga \nAir Indonesia vs Vietnam (2010-2019) \n \nPerbandingan Pertumbuhan Pembangunan Pembangkit Listrik Tenaga \nSurya Indonesia vs Thailand (2010-2019) \n \n\n\n 25\n3) Bahwa berdasarkan seluruh uraian alasan-alasan hukum di atas , menurut \nPemohon, Pasal 3 ayat (1) UU Ketenagalistrikan No 30/2009 berte ntangan \ndengan Pasal 33 ayat (2) dan ayat (4) UUD NRI Tahun 1945 dan ti dak \nmemiliki kekuatan hukum mengikat. \n4) Bahwa berdasarkan seluruh uraian alasan-alasan hukum di atas , menurut \nPemohon, Pasal 4 ayat (1) UU Ketenagalistrikan No 30/2009 berte ntangan \ndengan Pasal 33 ayat (2) dan ayat (4) UUD NRI Tahun 1945 dan ti dak \nmemiliki kekuatan hukum mengikat. \natau \n5) Bahwa berdasarkan seluruh uraian alasan-alasan hukum di atas , menurut \nPemohon, Pasal 3 ayat (1) UU Ketenagalistrikan No 30/2009 berte ntangan \ndengan Pasal 33 ayat (2) dan ayat (4) UUD NRI Tahun 1945 dan ti dak \nmemiliki kekuatan hukum mengikat secara bersyarat sepanjang tid ak \ndimaknai bahwa pasal-pasal a quo  dapat digunakan pemerintah mewakili \nnegara untuk penyelenggaraan usaha ketenagalistrikan BUMN Perus ahaan \nListrik Negara (PLN) sebagai kekuatan hukum yang mengikat.  \n6) Bahwa berdasarkan seluruh uraian alasan-alasan hukum di atas , menurut \nPemohon, Pasal 4 ayat (1) UU Ketenagalistrikan No 30/2009 berte ntangan \ndengan Pasal 33 ayat (2) dan ayat (4) UUD NRI Tahun 1945 dan ti dak \nmemiliki kekuatan hukum mengikat secara bersyarat sepanjang tid ak \ndimaknai bahwa pasal-pasal a quo  dapat digunakan pemerintah mewakili \nnegara untuk pelaksanaan usaha ketenagalistrikan BUMN Perusahaa n \nListrik Negara (PLN) sebagai kekuatan hukum yang mengikat. \nIV. Petitum \nBerdasarkan seluruh uraian sebagaimana tersebut di atas, Pemohon memohon \nkepada Mahkamah Konstitusi untuk memutus hal-hal sebagai berikut: \n1) Mengabulkan permohonan Pemohon untuk seluruhnya; \n2) Bahwa berdasarkan seluruh uraian alasan-alasan hukum di atas , menurut \nPemohon, Pasal 3 ayat (1) UU Ketenagalistrikan No 30/2009 berte ntangan \ndengan Pasal 33 ayat (2) dan ayat (4) UUD NRI Tahun 1945 dan ti dak \nmemiliki kekuatan hukum mengikat. \n3) Bahwa berdasarkan seluruh uraian alasan-alasan hukum di atas , menurut \nPemohon, Pasal 4 ayat (1) UU Ketenagalistrikan No 30/2009 berte ntangan \n\n 26\ndengan Pasal 33 ayat (2) dan ayat (4) UUD NRI Tahun 1945 dan ti dak \nmemiliki kekuatan hukum mengikat.  \n4) Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik \nIndonesia sebagaimana mestinya. \natau \nApabila Mahkamah Konstitusi berpendapat lain, mohon putusan yan g seadil-\nadilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, Pemohon tela h \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-7 sebagai \nberikut:",
+      "start_line": 731,
+      "end_line": 1060
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 1063,
+      "end_line": 1063
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Nomor 30 Tahun 2009 tenta ng",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-nomor-30-tahun-2009-tenta-ng",
+      "text": "Ketenagalistrikan;",
+      "start_line": 1065,
+      "end_line": 1065
+    },
+    {
+      "heading": "4. Bukti P-4 : Buku-buku karya Pemohon terkait hak-hak konstitu sional",
+      "slug": "4-bukti-p-4-buku-buku-karya-pemohon-terkait-hak-hak-konstitu-sional",
+      "text": "Pemohon dalam uji materi Undang-Undang Nomor 30 Tahun \n2009 tentang Ketenagalistrikan;",
+      "start_line": 1067,
+      "end_line": 1068
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Undang-Undang Nomor 15 Tahun 1985 tenta ng",
+      "slug": "5-bukti-p-5-fotokopi-undang-undang-nomor-15-tahun-1985-tenta-ng",
+      "text": "Ketenagalistrikan;",
+      "start_line": 1070,
+      "end_line": 1070
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Undang-Undang Nomor 8 Tahun 1971 tentan g",
+      "slug": "6-bukti-p-6-fotokopi-undang-undang-nomor-8-tahun-1971-tentan-g",
+      "text": "Migas;",
+      "start_line": 1072,
+      "end_line": 1072
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Undang-Undang Nomor 30 Tahun 2007 tenta ng",
+      "slug": "7-bukti-p-7-fotokopi-undang-undang-nomor-30-tahun-2007-tenta-ng",
+      "text": "Energi. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1074,
+      "end_line": 1077
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\n\n 27\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia \nNomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) h uruf a Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945; \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 3 ayat (1) dan Pasal 4 ayat \n(1) Undang-Undang Nomor 30 Tahun 2009 tentang Ketenagalistrikan  (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 133, Tambahan Lembar an Negara \nRepublik Indonesia Nomor 5052, selanjutnya disebut UU 30/2009) terhadap Pasal \n33 ayat (2) dan ayat (4) UUD NRI Tahun 1945 maka Mahkamah berwe nang \nmengadili permohonan a quo; \n[3.3]  Menimbang bahwa meskipun berwenang untuk mengadili permohonan  \nPemohon, namun sebelum mempertimbangkan lebih lanjut kedudukan hukum dan \npokok permohonan, Mahkamah mempertimbangkan hal-hal sebagai berikut.  \n[3.3.1]  Bahwa sesuai dengan ketentuan hukum acara pengujian undang-un dang, \nMahkamah telah melaksanakan sidang pemeriksaan pendahuluan deng an agenda \nmendengarkan pokok-pokok permohonan, memeriksa kelengkapan, dan  kejelasan \nmateri permohonan, pada tanggal 2 Juli 2026. Dalam persidangan tersebut, sesuai \ndengan Pasal 39 UU MK dan Pasal 36 ayat (3) PMK 7/2025, Mahkama h telah \nmemberikan nasihat kepada Pemohon agar memperbaiki sekaligus me mperjelas \nhal-hal yang berkaitan dengan permohonan Pemohon, terutama meng enai alasan-\nalasan permohonan (posita) dan hal-hal yang dimohonkan untuk di putus (petitum) \nagar permohonan Pemohon bersesuaian dengan sistematika permohon an \nsebagaimana diatur dalam PMK 7/2025 [vide Risalah Sidang, tangg al 2 Juli 2026]. \nSesuai dengan ketentuan hukum acara, Mahkamah juga telah member ikan \nkesempatan kepada Pemohon untuk memperbaiki permohonan paling l ama 14 \n(empat belas) hari sejak sidang pemeriksaan pendahuluan. Batas waktu \n\n 28\npenyerahan perbaikan demikian adalah pada hari Rabu, tanggal 15 Juli 2026, pukul \n12.00 WIB. Dalam kaitan dengan batas waktu tersebut, Pemohon te lah \nmenyampaikan perbaikan permohonan melalui e-mail yang diterima Mahkamah \npada hari Minggu, 12 Juli 2026, pukul 13.37 WIB, serta menyerah kan salinan \npermohonan secara fisik pada hari Senin, 13 Juli 2026, pukul 15.03 WIB. \n[3.3.2] Bahwa selanjutnya Mahkamah akan menilai syarat formal permohona n \npengujian undang-undang terhadap UUD NRI Tahun 1945 sesuai dengan ketentuan \nPasal 30 huruf a dan Pasal 31 ayat (1) UU MK serta Pasal 10 ayat (3) dan Pasal 36 \nayat (1) PMK 7/2025, sebagai berikut: \nPasal 30 huruf a UU MK \nPermohonan wajib dibuat dengan uraian yang jelas mengenai:  \na. pengujian undang-undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945; \nPasal 31 ayat (1) UU MK \n(1) Permohonan sekurang-kurangnya harus memuat: \na. nama dan alamat pemohon;  \nb. uraian mengenai perihal yang menjadi dasar permohonan sebaga imana \ndimaksud dalam Pasal 30; dan",
+      "start_line": 1079,
+      "end_line": 1137
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025 \n(3) Permohonan sebagaimana dimaksud pada ayat (1), sekurang-kur angnya \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antara lain:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 1139,
+      "end_line": 1143
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025 \n(1) Dalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam Pasal 35 ayat \n(1) huruf a, Mahkamah memeriksa identitas Pemohon dengan kelengkapan dan \nkejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 1146,
+      "end_line": 1151
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "[3.3.3] Bahwa berkenaan dengan persyaratan formil permohonan tersebut di \natas, Mahkamah menilai pada dasarnya permohonan Pemohon telah d isusun \nsesuai dengan sistematika atau format permohonan sebagaimana di atur dalam \nPasal 31 ayat (1) UU MK dan Pasal 10 ayat (3) PMK 7/2025. Secara formil di dalam \npermohonan telah diuraikan mengenai kewenangan Mahkamah, kedudukan hukum \n\n 29\nPemohon, alasan-alasan permohonan (posita), dan hal-hal yang dimohonkan untuk \ndiputus (petitum). Namun, selain menilai pemenuhan syarat formil terkait sistematika \npermohonan, Mahkamah juga akan menilai permohonan berdasarkan keterpenuhan \ndan/atau ketepatan isi/substansi dari setiap bagian yang ada da lam sistematika \ndimaksud. \n[3.3.4] Bahwa keterpenuhan persyaratan formil suatu permohonan dapat p ula \ndinilai dari keterkaitan atau keselarasan antara alasan-alasan permohonan (posita) \ndengan hal-hal yang dimohonkan untuk diputus (petitum). Terkait  dengan syarat \ndemikian, ketentuan Pasal 68 PMK 7/2025 menyatakan sebagai berikut: \nMahkamah dapat menyatakan Permohonan tidak jelas atau kabur antara lain \nkarena:  \na. adanya ketidaksesuaian antara dalil Permohonan dalam posita dengan \npetitum;  \nb. dalil tidak terdapat dalam posita tetapi terdapat dalam peti tum atau \nsebaliknya;",
+      "start_line": 1154,
+      "end_line": 1175
+    },
+    {
+      "heading": "c. adanya permintaan Pemohon dalam petitum yang saling bertenta ngan",
+      "slug": "c-adanya-permintaan-pemohon-dalam-petitum-yang-saling-bertenta-ngan",
+      "text": "antara satu dengan yang lainnya dan tidak memberikan pilihan alternatif; \n[3.4] Menimbang bahwa dengan mendasarkan pada ketentuan-ketentuan \nmengenai persyaratan permohonan, setelah Mahkamah mencermati de ngan \nsaksama permohonan Pemohon, Mahkamah menemukan hal-hal sebagai berikut: \n1) Pada bagian posita permohonan, Pemohon tidak menguraikan den gan jelas \npertentangan antara norma Pasal 3 ayat (1) dan Pasal 4 ayat (1)  UU 30/2009 \nyang dimohonkan pengujian konstitusionalitas dengan Pasal 33 ayat (2) dan ayat \n(4) UUD NRI Tahun 1945 yang dimohonkan sebagai dasar pengujian atau \nparameter uji konstitusionalitas. Oleh karena itu, Mahkamah men galami \nkesulitan untuk mengetahui dengan pasti berkenaan dengan hal ap a yang \nmenjadi persoalan konstitusionalitas norma yang dimohonkan peng ujian dalam \nkaitannya dengan hak konstitusional yang dimiliki Pemohon. \n2) Pada bagian posita permohonan menerangkan adanya ketidaktepa tan makna \nkata “pemerintah” pada norma Pasal 3 ayat (1) dan Pasal 4 ayat (1) UU 30/2009 \ndan oleh karenanya memohon agar kata “pemerintah” a quo dimaknai sebagai \n“negara atau komisi negara atau pemegang kuasa usaha negara” [v ide \nPermohonan hlm. 19-20], akan tetapi pada bagian petitum permoho nan, \nPemohon memohon agar norma Pasal 3 ayat (1) dan Pasal 4 ayat (1 ) UU \n30/2009 dinyatakan bertentangan dengan UUD NRI Tahun 1945 dan karenanya \ntidak mempunyai kekuatan hukum mengikat secara keseluruhan norm a a quo. \n\n 30\nOleh karena itu, adanya perbedaan antara hal yang dimohonkan da lam petitum \ndengan penjelasan atau argumentasi yang disusun/diuraikan pada bagian \nposita, menurut Mahkamah telah menimbulkan ketidakjelasan menge nai hal \nyang sebenarnya diinginkan atau dimohonkan oleh Pemohon, apakah Pemohon \nhanya menginginkan kata “pemerintah” dalam norma Pasal 3 ayat (1) dan Pasal \n4 ayat (1) UU 30/2009 diberi makna baru atau dinyatakan inkonst itusional, \nataukah menginginkan kedua norma tersebut dibatalkan secara kes eluruhan. \nDengan kata lain, uraian argumentasi dalam alasan-alasan permoh onan \nPemohon terdapat pertentangan ( contradictio in terminis ) dengan hal-hal yang \ndimohonkan untuk diputus. \n3) Bahwa seandainya pun petitum permohonan a quo dinilai bersesuaian dengan \nargumentasi yang diuraikan Pemohon dalam posita, quod non , dengan \ndinyatakannya norma Pasal 3 ayat (1) dan Pasal 4 ayat (1) UU 30 /2009 \nbertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai keku atan \nhukum mengikat, maka menurut Mahkamah hal demikian justru menim bulkan \nkekosongan hukum dan/atau ketidakpastian hukum yang selanjutnya  \nberimplikasi pada kekacauan dalam hal penyelenggaraan dan pelaksanaan tata \nkelola usaha penyediaan tenaga listrik. \nBerdasarkan uraian fakta hukum tersebut di atas, menurut Mahkam ah \noleh karena Pemohon tidak menguraikan dengan jelas pertentangan  antara norma \nyang dimohonkan pengujian konstitusionalitas dengan norma UUD NRI Tahun 1945 \nyang menjadi dasar pengujian, serta adanya pertentangan antara uraian dalam \nposita dengan rumusan dalam petitum, maka berdasarkan ketentuan Pasal 68 PMK \n7/2025, tidak terdapat keraguan bagi Mahkamah untuk menyatakan permohonan \nPemohon tidak jelas atau kabur (obscuur). \n[3.5] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, meskipun Mahkamah berwenang mengadili permoho nan \nPemohon, namun oleh karena permohonan Pemohon tidak jelas atau kabur \n(obscuur) maka Mahkamah tidak mempertimbangkan lebih lanjut permohonan \nPemohon.  \n[3.6] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya. \n\n 31",
+      "start_line": 1177,
+      "end_line": 1232
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 1234,
+      "end_line": 1234
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Permohonan Pemohon tidak jelas atau kabur ( obscuur); \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 1236,
+      "end_line": 1247
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nDaniel Yusmic P . Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota \npada hari Kamis, tanggal enam belas, bulan Juli, tahun dua ribu dua puluh enam, \nyang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka u ntuk umum \npada hari Kamis, tanggal dua puluh tiga, bulan Juli, tahun dua ribu dua puluh \nenam, selesai diucapkan pukul 14.00 WIB  oleh sembilan Hakim Konstitusi yaitu \nSuhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Daniel Yu smic P. Foekh,  \nM. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, Arsul Sani , Adies Kadir, \ndan Liliek Prisbawono Adi, masing-masing sebagai Anggota, denga n dibantu oleh \n\n 32\nMardian Wibowo sebagai Panitera Pengganti, serta dihadiri oleh Pemohon, Dewan \nPerwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \nttd. \nEnny Nurbaningsih \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nMardian Wibowo",
+      "start_line": 1249,
+      "end_line": 1289
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Moh. Sabar Musman",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 30/2009 tentang Ketenagalistrikan"
+    ],
+    "constitutional_articles": [
+      "Pasal 9 ayat (1)",
+      "Pasal 33 ayat (2)",
+      "pasal 33",
+      "Pasal 33",
+      "Pasal 1 ayat (1)",
+      "Pasal 33 ayat (4)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-4",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-7",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "REFERENSI:242/PUU-XXIV/2026",
+      "REFERENSI:41/PUU/PAN.MK/AP3/06/2026",
+      "REFERENSI:006/PUU-III/2005danPutusanNomor11/PUU-V/2007",
+      "REFERENSI:2023/12/21/1930"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Mardian Wibowo"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "242/PUU-XXIV/2026",
+      "41/PUU/PAN.MK/AP3/06/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007",
+      "2023/12/21/1930"
+    ],
+    "referenced_cases": [
+      "242/PUU-XXIV/2026",
+      "41/PUU/PAN.MK/AP3/06/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007",
+      "2023/12/21/1930"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

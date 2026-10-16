@@ -2,6 +2,7 @@
 from html import escape
 from urllib.parse import urlencode, urlsplit, quote
 import re
+from .search import matches_case_number, normalize_search_text, search_query
 
 
 def safe(value):
@@ -36,8 +37,8 @@ def pdf_source(payload):
 
 
 def search_matches(items, query):
-    terms = query.casefold().split()
-    if not terms:
+    reference, terms = search_query(query)
+    if not terms and not reference:
         return items
     result = []
     for item in items:
@@ -51,17 +52,28 @@ def search_matches(items, query):
         ]
         score = 0
         candidates = []
+        if reference and matches_case_number(str(item.get('case_number') or ''), reference):
+            score = 1000
+            candidates.append((True, 120, 'Nomor perkara', str(item['case_number'])))
         for label, text, weight in groups:
-            hits = sum(term in text.casefold() for term in terms)
-            score += hits * weight + (weight if hits == len(terms) else 0)
+            normalized = item.get('_normalized_search_text') if label == 'Teks dokumen' else None
+            if normalized is None:
+                normalized = normalize_search_text(text)
+            hits = sum(term in normalized for term in terms)
+            score += hits * weight + (weight if terms and hits == len(terms) else 0)
             if hits:
                 candidates.append((hits == len(terms), weight, label, text))
         copy = dict(item, _relevance=score)
         if candidates:
             _, _, label, text = max(candidates)
-            text = ' '.join(text.split())
-            found = [text.casefold().find(term) for term in terms if term in text.casefold()]
-            start = max(0, min(found) - 75)
+            if label != 'Teks dokumen':
+                text = ' '.join(text.split())
+            folded = item.get('_search_text') if label == 'Teks dokumen' else None
+            if folded is None:
+                folded = text.casefold()
+            positions = [folded.find(term) for term in terms]
+            found = [position for position in positions if position >= 0]
+            start = max(0, min(found) - 75) if found else 0
             copy['match_excerpt'] = ('…' if start else '') + text[start:start+240] + ('…' if len(text) > start+240 else '')
             copy['match_label'] = label
         result.append(copy)

@@ -1,0 +1,1322 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14695_1784791338.pdf",
+    "file_name": "putusan_mkri_14695_1784791338.pdf",
+    "page_count": 72,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14695_1784791338.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "219/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "218/PUU/PAN.MK/AP3/06/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-07-23",
+    "decision_date_raw": "dua puluh tiga, bulan Juli, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 3
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 219/PUU-XXIV/2026",
+      "start_line": 5,
+      "end_line": 5
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 7 Tahun 2017 tentang Pemilihan Umum terhadap Undan g-Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:  \n Nama : Muhammad Reihan Alfariziq \nPekerjaan : Mahasiswa \nAlamat : Jalan Soekarno Hatta Nomor 184, Kecamatan \nCepiring, Kabupaten Kendal, Provinsi Jawa Tengah \nSelanjutnya disebut sebagai ------------------------------------------------------ Pemohon;\n [1.2] Membaca permohonan Pemohon; \n  Mendengar keterangan Pemohon; \n Memeriksa bukti-bukti Pemohon.",
+      "start_line": 7,
+      "end_line": 19
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]    Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal 11 \nJuni 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada t anggal 12 Juni \n2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor 218/PU U/ \nPAN.MK/AP3/06/2026 dan telah dicatat dalam Buku Registrasi Perk ara Konstitusi \nElektronik (e-BRPK) pada tanggal 12 Juni 2026 dengan Permohonan  Nomor \n219/PUU-XXIV/2026, yang telah diperbaiki dengan perbaikan permo honan \nbertanggal 29 Juni 2026 dan diterima Mahkamah pada tanggal 2 Ju li 2026, pada \npokoknya menguraikan hal-hal sebagai berikut. \nI. Kewenangan Mahkamah Konstitusi Republik Indonesia",
+      "start_line": 21,
+      "end_line": 29
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Undang-Undang Dasar Negara Republik",
+      "slug": "1-bahwa-pasal-24-ayat-2-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun 1945) \n\n\n \n \n \n \n2\nmenyatakan: \n\"Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada di bawahnya dalam lingkungan peradi lan \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkama h \nKonstitusi”.",
+      "start_line": 31,
+      "end_line": 44
+    },
+    {
+      "heading": "2. Bahwa berdasarkan Pasal 24C ayat (1) UUD NRI Tahun 1945, Mahkamah",
+      "slug": "2-bahwa-berdasarkan-pasal-24c-ayat-1-uud-nri-tahun-1945-mahkamah",
+      "text": "Konstitusi berwenang mengadili pada tingkat pertama dan terakhi r yang \nputusannya bersifat final untuk menguji undang-undang terhadap Undang-\nUndang Dasar.",
+      "start_line": 46,
+      "end_line": 48
+    },
+    {
+      "heading": "3. Bahwa kewenangan tersebut dipertegas dalam Pasal 10 ayat (1) hu ruf a",
+      "slug": "3-bahwa-kewenangan-tersebut-dipertegas-dalam-pasal-10-ayat-1-hu-ruf-a",
+      "text": "Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 \nTahun 2020 tentang Perubahan Ketiga atas Undang-Undang Nomor 24  \nTahun 2003 tentang Mahkamah Konstitusi (selanjutnya disebut UU MK), \nyang menyatakan bahwa Mahkamah Konstitusi berwenang menguji \nundang-undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945.",
+      "start_line": 50,
+      "end_line": 56
+    },
+    {
+      "heading": "4. Bahwa kewenangan a quo juga sejalan dengan ketentuan Pasal 29 ayat",
+      "slug": "4-bahwa-kewenangan-a-quo-juga-sejalan-dengan-ketentuan-pasal-29-ayat",
+      "text": "(1) huruf a Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan  \nKehakiman serta Pasal 9 ayat (1) Undang-Undang Nomor 13 Tahun 2 022 \ntentang Perubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 \ntentang Pembentukan Peraturan Perundang-Undangan.",
+      "start_line": 58,
+      "end_line": 61
+    },
+    {
+      "heading": "5. Bahwa Mahkamah Konstitusi dibentuk sebagai pengawal konstitusi (the",
+      "slug": "5-bahwa-mahkamah-konstitusi-dibentuk-sebagai-pengawal-konstitusi-the",
+      "text": "guardian of the constitution ), penafsir konstitusi ( the sole and the highest \ninterpreter of the constitution ), serta pelindung hak-hak konstitusional \nwarga negara ( the protector of constitutional rights ). Oleh karena itu, \nMahkamah Konstitusi memiliki kewenangan untuk menilai \nkonstitusionalitas suatu norma undang-undang apabila norma ters ebut \ndidalilkan bertentangan dengan UUD NRI Tahun 1945.",
+      "start_line": 63,
+      "end_line": 68
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konstitus i",
+      "slug": "6-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konstitus-i",
+      "text": "Nomor 7 Tahun 2025 tentang Tata Beracara dalam Perkara Pengujia n \nUndang-Undang, objek permohonan pengujian undang-undang meliput i \nundang-undang dan peraturan pemerintah pengganti undang-undang \n\n \n \n \n \n3\n(Perppu).",
+      "start_line": 70,
+      "end_line": 79
+    },
+    {
+      "heading": "7. Bahwa objek permohonan a quo adalah frasa \"hanya terhadap hasil",
+      "slug": "7-bahwa-objek-permohonan-a-quo-adalah-frasa-hanya-terhadap-hasil",
+      "text": "penghitungan suara\" dalam Pasal 475 ayat (2) Undang-Undang Nomor \n7 Tahun 2017 tentang Pemilihan Umum sebagaimana telah diubah \nterakhir dengan Undang-Undang Nomor 7 Tahun 2023 tentang Penetapan \nPeraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2022  \ntentang Perubahan atas Undang-Undang Nomor 7 Tahun 2017 tentang  \nPemilihan Umum (selanjutnya disebut UU Pemilu), yang berbunyi: \n\"Keberatan sebagaimana dimaksud pada ayat (1) hanya terhadap ha sil \npenghitungan suara yang memengaruhi penentuan terpilihnya Pasan gan \nCalon atau penentuan untuk dipilih kembali pada Pemilu Presiden  d a n  \nWakil Presiden”.",
+      "start_line": 81,
+      "end_line": 90
+    },
+    {
+      "heading": "8. Bahwa norma a quo merupakan norma undang-undang yang masih berlaku",
+      "slug": "8-bahwa-norma-a-quo-merupakan-norma-undang-undang-yang-masih-berlaku",
+      "text": "dan memiliki kekuatan hukum mengikat, sehingga termasuk dalam o bjek \npengujian undang-undang terhadap UUD NRI Tahun 1945 yang menjad i \nkewenangan Mahkamah Konstitusi.",
+      "start_line": 92,
+      "end_line": 94
+    },
+    {
+      "heading": "9. Bahwa dalam permohonan a quo , Pemohon mendalilkan bahwa frasa",
+      "slug": "9-bahwa-dalam-permohonan-a-quo-pemohon-mendalilkan-bahwa-frasa",
+      "text": "\"hanya terhadap hasil penghitungan suara\"  dalam Pasal 475 ayat (2) UU \nPemilu bertentangan dengan Pasal 1 ayat (2), Pasal 22E ayat (1) , Pasal \n24C ayat (1), dan Pasal 28D ayat (1) UUD NRI Tahun 1945 karena \nmenimbulkan ketidakpastian hukum mengenai ruang lingkup kewenan gan \nMahkamah Konstitusi dalam memeriksa perselisihan hasil pemiliha n \numum.",
+      "start_line": 96,
+      "end_line": 101
+    },
+    {
+      "heading": "10. Bahwa oleh karena objek permohonan a quo merupakan pengujian",
+      "slug": "10-bahwa-oleh-karena-objek-permohonan-a-quo-merupakan-pengujian",
+      "text": "konstitusionalitas norma undang-undang terhadap UUD NRI Tahun 1 945, \nmaka berdasarkan Pasal 24C ayat (1) UUD NRI Tahun 1945, Pasal 10 ayat \n(1) huruf a UU MK, Pasal 29 ayat (1) huruf a Undang-Undang Keku asaan \nKehakiman, Pasal 9 ayat (1) Undang-Undang Pembentukan Peraturan  \nPerundang-Undangan, serta Pasal 2 ayat (1) PMK Nomor 7 Tahun 20 25, \nMahkamah Konstitusi berwenang  untuk memeriksa, mengadili, dan \nmemutus permohonan a quo. \nII. Kedudukan Hukum (Legal Standing) Pemohon",
+      "start_line": 103,
+      "end_line": 110
+    },
+    {
+      "heading": "1. Bahwa berdasarkan ketentuan Pasal 51 ayat (1) Undang-Undang Nom or",
+      "slug": "1-bahwa-berdasarkan-ketentuan-pasal-51-ayat-1-undang-undang-nom-or",
+      "text": "24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diu bah \n\n \n \n \n \n4\nterakhir dengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (selanjutnya disebut UU MK), Pemohon adalah pihak ya ng \nmenganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh \nberlakunya suatu undang-undang, yaitu: \nPasal 51 ayat (1) UU MK \nPemohon adalah pihak yang menganggap hak dan/atau \nkewenangan konstitusionalnya dirugikan oleh berlakunya undang-\nundang yaitu: \na. Perorangan warga negara Indonesia; \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai  \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 112,
+      "end_line": 131
+    },
+    {
+      "heading": "d. Lembaga negara.",
+      "slug": "d-lembaga-negara",
+      "text": "",
+      "start_line": 134,
+      "end_line": 134
+    },
+    {
+      "heading": "2. Bahwa ketentuan mengenai kedudukan hukum (legal standing) Pemohon",
+      "slug": "2-bahwa-ketentuan-mengenai-kedudukan-hukum-legal-standing-pemohon",
+      "text": "juga diatur dalam Pasal 4 ayat (1) Peraturan Mahkamah Konstitus i Nomor \n7 Tahun 2025 tentang Tata Beracara dalam Perkara Pengujian Unda ng-\nUndang (PMK 7/2025), yang menyatakan: “Pemohon sebagaimana \ndimaksud dalam Pasal 3 huruf a adalah pihak yang menganggap hak  \ndan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya  \nundang-undang atau Perppu, yaitu: \na. Perorangan warga negara Indonesia atau kelompok orang yang \nmempunyai kepentingan yang sama; \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 136,
+      "end_line": 146
+    },
+    {
+      "heading": "3. Bahwa selain memenuhi kualifikasi sebagai subjek hukum sebagaim ana",
+      "slug": "3-bahwa-selain-memenuhi-kualifikasi-sebagai-subjek-hukum-sebagaim-ana",
+      "text": "dimaksud dalam Pasal 51 ayat (1) UU MK dan Pasal 4 ayat (1) PMK 7/2025, \nPemohon juga harus memenuhi syarat adanya kerugian konstitusion al \nsebagaimana telah dirumuskan Mahkamah Konstitusi sejak Putusan \nNomor 006/PUU-III/2005 tanggal 31 Mei 2005 dan Putusan Nomor \n11/PUU-V/2007 tanggal 20 September 2007, yang kemudian ditegask an \nkembali dalam Pasal 4 ayat (2) PMK 7/2025; \n\n \n \n \n \n5",
+      "start_line": 150,
+      "end_line": 161
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 4 ayat (2)_ PMK 7/2025, hak dan/atau",
+      "slug": "4-bahwa-berdasarkan-pasal-4-ayat-2-pmk-7-2025-hak-dan-atau",
+      "text": "kewenangan konstitusional Pemohon dianggap dirugikan oleh berla kunya \nundang-undang atau perppu apabila memenuhi syarat-syarat sebaga i \nberikut: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional Pemohon tersebut diru gikan \noleh berlakunya undang-undang atau Perppu yang dimohonkan \npengujian;",
+      "start_line": 163,
+      "end_line": 170
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut bersifat spesifik (khusus) da n aktual",
+      "slug": "c-kerugian-konstitusional-tersebut-bersifat-spesifik-khusus-da-n-aktual",
+      "text": "atau setidak-tidaknya potensial yang menurut penalaran yang waj ar \ndapat dipastikan akan terjadi;",
+      "start_line": 172,
+      "end_line": 173
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat (causal verband) antara kerugian",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian",
+      "text": "konstitusional yang didalilkan dengan berlakunya undang-undang atau \nPerppu yang dimohonkan pengujian; dan \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, \nkerugian konstitusional yang didalilkan tidak lagi atau tidak akan terjadi.",
+      "start_line": 175,
+      "end_line": 178
+    },
+    {
+      "heading": "5. Bahwa Pemohon merupakan Warga Negara Indonesia yang dibuktikan",
+      "slug": "5-bahwa-pemohon-merupakan-warga-negara-indonesia-yang-dibuktikan",
+      "text": "dengan kepemilikan Kartu Tanda Penduduk (KTP) yang masih berlak u \n(vide Bukti P-3), sehingga secara hukum memenuhi kualifikasi se bagai \nperorangan warga negara Indonesia sebagaimana dimaksud dalam Pa sal \n51 ayat (1) huruf a UU MK dan Pasal 4 ayat (1) huruf a PMK 7/2025.",
+      "start_line": 180,
+      "end_line": 183
+    },
+    {
+      "heading": "4. Bahwa Pemohon adalah mahasiswa aktif Fakultas Hukum Universi tas",
+      "slug": "4-bahwa-pemohon-adalah-mahasiswa-aktif-fakultas-hukum-universi-tas",
+      "text": "Muhammadiyah Yogyakarta yang secara akademik menaruh perhatian \nterhadap perkembangan hukum tata negara, hukum pemilu, dan prak tik \nketatanegaraan di Indonesia. Status Pemohon sebagai mahasiswa a ktif \ndibuktikan dengan Kartu Tanda Mahasiswa (KTM) Fakultas Hukum \nUniversitas Muhammadiyah Yogyakarta (vide Bukti P-4).",
+      "start_line": 185,
+      "end_line": 189
+    },
+    {
+      "heading": "5. Bahwa Pemohon aktif dalam Law School Debate Community (LSDC)",
+      "slug": "5-bahwa-pemohon-aktif-dalam-law-school-debate-community-lsdc",
+      "text": "Fakultas Hukum Universitas Muhammadiyah Yogyakarta dan saat ini  \nmenjabat sebagai Kepala Divisi Riset. Dalam kedudukan tersebut,  \nPemohon secara aktif melakukan penelitian, kajian hukum, analisis putusan \npengadilan, serta pengkajian terhadap berbagai isu konstitusion al yang \nberkembang dalam praktik ketatanegaraan Indonesia. \n\n \n \n \n \n6",
+      "start_line": 191,
+      "end_line": 201
+    },
+    {
+      "heading": "6. Bahwa aktivitas akademik dan riset yang dilakukan Pemohon",
+      "slug": "6-bahwa-aktivitas-akademik-dan-riset-yang-dilakukan-pemohon",
+      "text": "mengharuskan Pemohon untuk memahami, mengkaji, dan mengevaluasi  \nnorma-norma hukum yang berpotensi menimbulkan persoalan \nkonstitusional, termasuk norma yang berkaitan dengan penyelengg araan \npemilu, pelaksanaan kedaulatan rakyat, serta mekanisme penyeles aian \nperselisihan hasil pemilihan umum.",
+      "start_line": 203,
+      "end_line": 207
+    },
+    {
+      "heading": "7. Bahwa keberlakuan frasa \"hanya terhadap hasil penghitungan s uara\"",
+      "slug": "7-bahwa-keberlakuan-frasa-hanya-terhadap-hasil-penghitungan-s-uara",
+      "text": "dalam Pasal 475 ayat (2) UU Pemilu memiliki keterkaitan langsung dengan \nkepentingan akademik dan konstitusional Pemohon karena norma tersebut \nmenjadi bagian dari rezim hukum pemilu yang secara aktif dikaji  d a n  \ndipelajari oleh Pemohon dalam kegiatan akademik maupun riset hukum.",
+      "start_line": 209,
+      "end_line": 212
+    },
+    {
+      "heading": "8. Bahwa jabatan Pemohon sebagai Kepala Divisi Riset Law School Debate",
+      "slug": "8-bahwa-jabatan-pemohon-sebagai-kepala-divisi-riset-law-school-debate",
+      "text": "Community (LSDC) Fakultas Hukum Universitas Muhammadiyah \nYogyakarta dibuktikan dengan Surat Keputusan Kepengurusan dan/a tau \nSurat Keterangan Pengurus Aktif (vide Bukti P-4).",
+      "start_line": 214,
+      "end_line": 216
+    },
+    {
+      "heading": "9. Bahwa selain aktif dalam kegiatan akademik, Pemohon juga men gikuti",
+      "slug": "9-bahwa-selain-aktif-dalam-kegiatan-akademik-pemohon-juga-men-gikuti",
+      "text": "berbagai program pengembangan kapasitas yang berfokus pada isu \ndemokrasi, negara hukum, hak asasi manusia, partisipasi publik,  d a n  \nperlindungan hak-hak konstitusional warga negara, yang semakin \nmemperkuat perhatian dan kepedulian Pemohon terhadap pelaksanaa n \nprinsip-prinsip konstitusi dalam kehidupan bernegara.",
+      "start_line": 218,
+      "end_line": 222
+    },
+    {
+      "heading": "10. Bahwa melalui berbagai kegiatan akademik, penelitian, dan",
+      "slug": "10-bahwa-melalui-berbagai-kegiatan-akademik-penelitian-dan",
+      "text": "pengembangan kapasitas tersebut, Pemohon memperoleh pemahaman \nmengenai pentingnya kepastian hukum, demokrasi konstitusional, serta \nperlindungan hak-hak warga negara dalam proses penyelenggaraan \npemilu sebagai sarana pelaksanaan kedaulatan rakyat.",
+      "start_line": 224,
+      "end_line": 227
+    },
+    {
+      "heading": "11. Bahwa oleh karena itu, Pemoho n memiliki kepentingan konstit usional",
+      "slug": "11-bahwa-oleh-karena-itu-pemoho-n-memiliki-kepentingan-konstit-usional",
+      "text": "terhadap keberadaan norma yang mengatur ruang lingkup kewenanga n \nMahkamah Konstitusi dalam menyelesaikan perselisihan hasil pemi lu, \ntermasuk norma yang dimohonkan pengujian dalam perkara a quo.",
+      "start_line": 229,
+      "end_line": 231
+    },
+    {
+      "heading": "12. Bahwa selain sebagai mahasiswa hukum, Pemohon juga merupaka n",
+      "slug": "12-bahwa-selain-sebagai-mahasiswa-hukum-pemohon-juga-merupaka-n",
+      "text": "warga negara Indonesia sekaligus  pemilih aktif yang telah mengg unakan \nhak pilihnya dalam Pemilihan Umum Tahun 2024 dan Pemilihan Kepa la \nDaerah Tahun 2024 sebagai perwujudan hak konstitusional dalam \n\n \n \n \n \n7\nkehidupan demokrasi.",
+      "start_line": 233,
+      "end_line": 242
+    },
+    {
+      "heading": "13. Bahwa dalam Pemilihan Umum Tahun 2024, Pemohon terdaftar se bagai",
+      "slug": "13-bahwa-dalam-pemilihan-umum-tahun-2024-pemohon-terdaftar-se-bagai",
+      "text": "pemilih dan menggunakan hak pilihny a sebagaimana dibuktikan den gan \nSurat Pemberitahuan Pemungutan Suara kepada Pemilih (Formulir C  \nPemberitahuan) tertanggal 7 Februari 2024 (vide Bukti P-6).",
+      "start_line": 244,
+      "end_line": 246
+    },
+    {
+      "heading": "14. Bahwa dalam Pemilihan Kepala Daerah Tahun 2024, Pemohon kem bali",
+      "slug": "14-bahwa-dalam-pemilihan-kepala-daerah-tahun-2024-pemohon-kem-bali",
+      "text": "terdaftar sebagai pemilih dan menggunakan hak pilihnya sebagaim ana \ndibuktikan dengan Surat Pemberitahuan Pemungutan Suara kepada \nPemilih (Formulir C Pemberitahuan) tertanggal 11 November 2024 (vide \nBukti P-6).",
+      "start_line": 248,
+      "end_line": 251
+    },
+    {
+      "heading": "15. Bahwa Pemohon juga masih tercatat sebagai pemilih aktif dal am Daftar",
+      "slug": "15-bahwa-pemohon-juga-masih-tercatat-sebagai-pemilih-aktif-dal-am-daftar",
+      "text": "Pemilih Berkelanjutan Tahun 2026 sehingga memiliki hubungan huk um \nyang nyata dan berkelanjutan dengan setiap penyelenggaraan pemi lu di \nIndonesia (vide Bukti P-6).",
+      "start_line": 253,
+      "end_line": 255
+    },
+    {
+      "heading": "16. Bahwa status Pemohon sebagai pemilih aktif menunjukkan adan ya",
+      "slug": "16-bahwa-status-pemohon-sebagai-pemilih-aktif-menunjukkan-adan-ya",
+      "text": "hubungan langsung antara Pemohon dengan pelaksanaan kedaulatan \nrakyat sebagaimana dijamin dalam Pasal 1 ayat (2) UUD NRI Tahun  1945 \ndan penyelenggaraan pemilu yang demokratis sebagaimana diatur d alam \nPasal 22E ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 257,
+      "end_line": 260
+    },
+    {
+      "heading": "17. Bahwa sebagai warga negara sekaligus pemilih dalam pemiliha n umum,",
+      "slug": "17-bahwa-sebagai-warga-negara-sekaligus-pemilih-dalam-pemiliha-n-umum",
+      "text": "Pemohon memiliki hak dan kepentin gan konstitusional untuk mempe roleh \njaminan bahwa hasil pemilihan umum hanya memperoleh legitimasi \nkonstitusional apabila lahir dari proses penyelenggaraan pemili han umum \nyang demokratis, jujur, adil, berintegritas, dan sesuai dengan prinsip negara \nhukum sebagaimana diamanatkan dalam UUD NRI Tahun 1945. Oleh \nkarena itu, Pemohon memiliki kepentingan konstitusional secara langsung \nterhadap norma yang mengatur ruang lingkup dan mekanisme \npenyelesaian perselisihan hasil pemilihan umum, karena efektivi tas \nmekanisme tersebut merupakan bagian yang tidak terpisahkan dari  \nperlindungan hak-hak konstitusional Pemohon sebagai pemilih.",
+      "start_line": 262,
+      "end_line": 271
+    },
+    {
+      "heading": "18. Bahwa keberlakuan frasa \"hanya terhadap hasil penghitungan suara\"",
+      "slug": "18-bahwa-keberlakuan-frasa-hanya-terhadap-hasil-penghitungan-suara",
+      "text": "dalam Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tenta ng \nPemilihan Umum berpotensi merugikan hak-hak konstitusional Pemo hon \nkarena menimbulkan ketidakpastian hukum mengenai ruang lingkup \n\n \n \n \n \n8\nkewenangan Mahkamah Konstitusi dalam memeriksa dan memutus \nperselisihan hasil pemilihan umum, khususnya terhadap pelanggar an \ndalam proses penyelenggaraan pemilihan umum yang terbukti \nmemengaruhi hasil pemilihan umum. Meskipun dalam praktik \nketatanegaraan Mahkamah Konstitusi telah mengembangkan penafsir an \nyang memungkinkan pemeriksaan terhadap pelanggaran proses terse but, \nnorma a quo tetap mempertahankan pembatasan tekstual yang membuka \nruang bagi penafsiran sebaliknya dan bahkan dijadikan dasar unt uk \nmembatasi kewenangan Mahkamah Konstitusi dalam perselisihan has il \npemilihan umum. Akibatnya, perlindungan terhadap hak-hak konstitusional \nPemohon sebagai pemilih menjadi tidak memperoleh kepastian norm atif \nyang memadai. Keadaan demikian secara langsung berkaitan dengan hak \nPemohon untuk memperoleh jaminan atas pelaksanaan prinsip kedaulatan \nrakyat, penyelenggaraan pemilihan umum yang jujur dan adil, ser ta \nkepastian hukum yang adil sebagaimana dijamin oleh Undang-Undan g \nDasar Negara Republik Indonesia Tahun 1945. \nII.2    Kerugian Konstitusional Pemohon \nBahwa berdasarkan Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2 025 \ntentang Tata Beracara dalam Perkara Pengujian Undang-Undang, te rdapat \nsyarat-syarat yang harus dipenuhi agar suatu kerugian dapat dik ualifikasikan \nsebagai kerugian konstitusional, yaitu: \na. Adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD NRI Tahun 1945; \nb. Hak dan/atau kewenangan konstitusional tersebut dirugikan ol eh \nberlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 273,
+      "end_line": 306
+    },
+    {
+      "heading": "c. Kerugian konstitusional tersebut bersifat spesifik (khusus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-bersifat-spesifik-khusus-dan-aktual-atau",
+      "text": "setidak-tidaknya bersifat potensial yang menurut penalaran yang  wajar \ndapat dipastikan akan terjadi;",
+      "start_line": 308,
+      "end_line": 309
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat ( causal verband ) antara kerugian",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian",
+      "text": "konstitusional yang didalilkan d engan berlakunya undang-undang yang \ndimohonkan pengujian; dan \ne.  Adanya kemungkinan bahwa dengan dikabulkannya permohonan, \nkerugian konstitusional yang didalilkan tidak akan atau tidak lagi terjadi. \n\n \n \n \n \n9\nBahwa untuk membuktikan terpenuhinya unsur adanya hak dan/atau \nkewenangan konstitusional Pemohon sebagaimana dijamin oleh Unda ng-\nUndang Dasar Negara Republik Indonesia Tahun 1945, sekaligus \nmenunjukkan adanya kerugian konstitusional yang bersifat aktual  maupun \npotensial sebagai akibat berlakunya frasa \"hanya terhadap hasil penghitungan \nsuara\" dalam Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tentang \nPemilihan Umum, Pemohon menguraikan secara sistematis hak-hak \nkonstitusional yang dimilikinya serta hubungan sebab-akibat (causal verband) \nantara keberlakuan norma a quo dengan kerugian konstitusional yang dialami, \nsebagai berikut:",
+      "start_line": 311,
+      "end_line": 330
+    },
+    {
+      "heading": "19. Bahwa Pemohon merupakan Warga Negara Indonesia yang berstat us",
+      "slug": "19-bahwa-pemohon-merupakan-warga-negara-indonesia-yang-berstat-us",
+      "text": "sebagai pemilih aktif dalam Pemilihan Umum dan Pemilihan Kepala  \nDaerah. Sebagai warga negara, Pemohon memiliki hak-hak \nkonstitusional yang dijamin oleh Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 serta kepentingan konstitusional terhadap \npenyelenggaraan pemilihan umum yang demokratis sesuai dengan \nprinsip negara hukum. Selain itu, permohonan a quo  juga berkaitan \ndengan norma-norma konstitusi yang mengatur prinsip penyelenggaraan \npemilihan umum dan kewenangan Mahkamah Konstitusi dalam memutus \nperselisihan tentang hasil pemilihan umum. Dengan demikian, Pem ohon \nmemiliki hak dan/atau kepentingan konstitusional yang bersumber  d a r i  \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 sebaga i \ndasar pengajuan permohonan a quo, yang meliputi:",
+      "start_line": 332,
+      "end_line": 343
+    },
+    {
+      "heading": "20. Hak atas Kedaulatan Rakyat [Pasal 1 ayat (2) UUD NRI Tahun 1945]",
+      "slug": "20-hak-atas-kedaulatan-rakyat-pasal-1-ayat-2-uud-nri-tahun-1945",
+      "text": "Pasal 1 ayat (2) Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945 menyatakan, \"Kedaulatan berada di tangan rakyat dan \ndilaksanakan menurut Undang-Undang Dasar”. \nBahwa ketentuan tersebut menegaskan bahwa rakyat merupakan \npemegang kedaulatan tertinggi dalam sistem ketatanegaraan Indon esia. \nDalam negara demokrasi konstitusional, pelaksanaan kedaulatan r akyat \ndiwujudkan melalui penyelenggaraan pemilihan umum yang dilaksanakan \nberdasarkan prinsip-prinsip konstitusi sebagai sarana bagi raky at untuk \nmenentukan arah penyelenggaraan pemerintahan dan memilih pemimpin \n\n \n \n \n \n10\nsecara demokratis. Oleh karena itu, setiap warga negara sebagai pemilih \nmemiliki hak konstitusional agar kehendak rakyat yang diwujudkan melalui \npemilihan umum memperoleh perlindungan hukum yang efektif dan \nbermakna. \nBahwa bagi Pemohon sebagai pemilih, kedaulatan rakyat tidak han ya \ndimaknai sebagai terhitungnya suara secara benar dalam aspek \nkuantitatif, melainkan juga sebagai jaminan bahwa suara tersebu t \ndikonversi menjadi hasil pemilihan umum melalui proses \npenyelenggaraan yang demokratis, jujur, adil, dan berintegritas . Dengan \ndemikian, legitimasi hasil pemilihan umum pada hakikatnya tidak  hanya \nditentukan oleh ketepatan penghitungan suara, tetapi juga oleh integritas \nproses yang melahirkan hasil tersebut. Hasil pemilihan umum yan g lahir \ndari proses yang bertentangan dengan prinsip-prinsip konstitusi  t i d a k  \nsepenuhnya mencerminkan pelaksanaan kedaulatan rakyat \nsebagaimana dimaksud dalam Pasal 1 ayat (2) UUD NRI Tahun 1945. \nBahwa keberlakuan frasa \"hanya terhadap hasil penghitungan suar a\" \ndalam Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tenta ng \nPemilihan Umum berpotensi membatasi ruang lingkup pemeriksaan \nMahkamah Konstitusi hanya pada aspek kuantitatif hasil penghitu ngan \nsuara. Pembatasan tersebut menimbulkan ketidakpastian normatif \nmengenai kemungkinan pemeriksaan terhadap pelanggaran dalam \nproses penyelenggaraan pemilihan umum yang terbukti memengaruhi  \nhasil pemilihan umum. Padahal, apabila pelanggaran proses yang \nmemengaruhi hasil tidak memperoleh mekanisme pengujian \nkonstitusional yang memadai, maka kemurnian pelaksanaan kedaula tan \nrakyat berpotensi tidak memperoleh perlindungan secara utuh. \nBahwa meskipun dalam praktik peradilan Mahkamah Konstitusi tela h \nberkembang penafsiran yang memungkinkan pemeriksaan terhadap \npelanggaran proses yang memengaruhi hasil pemilihan umum, norma  a \nquo tetap mempertahankan rumusan yang bersifat restriktif sehingga  \nmasih membuka ruang bagi pihak-pihak dalam perselisihan hasil \npemilihan umum untuk mendalilkan bahwa Mahkamah Konstitusi tida k \nberwenang memeriksa aspek tersebut. Keadaan demikian \n\n \n \n \n \n11\nmengakibatkan perlindungan terhadap hak konstitusional Pemohon \nsebagai pemilih masih bergantung pada perkembangan penafsiran \nyudisial, bukan pada jaminan normatif yang secara tegas diberik an oleh \nundang-undang. \nOleh karena itu, Pemohon memiliki hak konstitusional untuk memperoleh \nkepastian bahwa setiap dugaan pelanggaran dalam proses \npenyelenggaraan pemilihan umum yang terbukti memengaruhi hasil \npemilihan umum dapat diperiksa sebagai bagian dari perselisihan  hasil \npemilihan umum, sehingga kemurnian pelaksanaan kedaulatan rakya t \nsebagaimana dijamin dalam Pasal 1 ayat (2) Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 memperoleh perlindungan \nkonstitusional yang efektif.",
+      "start_line": 345,
+      "end_line": 410
+    },
+    {
+      "heading": "21. Jaminan Konstitusional atas Penyelenggaraan Pemilihan Umum yang",
+      "slug": "21-jaminan-konstitusional-atas-penyelenggaraan-pemilihan-umum-yang",
+      "text": "Jujur dan Adil [Pasal 22E ayat (1) UUD NRI Tahun 1945] \nPasal 22E ayat (1) UUD NRI Tahun 1945 menyatakan: \n\"Pemilihan umum dilaksanakan secara langsung, umum, bebas, rahasia, \njujur, dan adil setiap lima tahun sekali”. \nBahwa ketentuan tersebut merupakan jaminan konstitusional  yang \nmewajibkan negara menyelenggarakan pemilihan umum berdasarkan \nasas langsung, umum, bebas, rahasia, jujur, dan adil (LUBER JUR DIL). \nJaminan konstitusional tersebut sekaligus memberikan perlindung an \nkepada setiap warga negara sebagai pemilih agar pelaksanaan \nkedaulatan rakyat berlangsung sesuai dengan prinsip-prinsip dem okrasi \nyang ditetapkan oleh Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945. Bahwa asas jujur dan adil sebagaimana dimaksud dala m \nPasal 22E ayat (1) UUD NRI Tahun 1945 tidak dapat dimaknai seca ra \nterbatas hanya pada tahap penghitungan suara, melainkan harus \ndipahami sebagai prinsip yang mengikat seluruh tahapan \npenyelenggaraan pemilihan umum, mulai dari pendaftaran pemilih,  \npencalonan, kampanye, pemungutan suara, penghitungan suara, \nrekapitulasi, hingga penetapan hasil pemilihan umum. Dengan demikian, \nintegritas hasil pemilihan umum merupakan konsekuensi dari inte gritas \nkeseluruhan proses penyelenggaraannya. \n\n \n \n \n \n12\nBahwa sebagai warga negara sekaligus pemilih, Pemohon memiliki hak \nkonstitusional untuk memperoleh jaminan bahwa pemilihan umum \ndiselenggarakan sesuai dengan asas langsung, umum, bebas, rahas ia, \njujur, dan adil sebagaimana diperintahkan oleh Pasal 22E ayat ( 1) UUD \nNRI Tahun 1945. Oleh karena itu, apabila terdapat norma undang-undang \nyang berpotensi membatasi mekanisme pengujian terhadap pelanggaran \nproses yang memengaruhi hasil pemilihan umum, maka jaminan \nkonstitusional tersebut berpotensi tidak terlindungi secara efektif. \nBahwa lebih lanjut, pembatasan objek perselisihan hasil pemilihan umum \nhanya pada aspek hasil penghitungan suara sebagaimana dirumuska n \ndalam Pasal 475 ayat (2) Undang-Undang  Nomor  7  Tahun  2017  \ntentang  Pemilihan  Umum  berpotensi menimbulkan keadaan di man a \nhasil pemilihan umum yang secara matematis benar tetap memperol eh \nlegitimasi, meskipun proses yang melahirkannya terbukti tidak \nsepenuhnya memenuhi prinsip jujur dan adil. Padahal, menurut konstitusi, \nlegitimasi hasil pemilihan umum tidak hanya ditentukan oleh aku rasi \nperolehan suara, tetapi juga oleh integritas proses penyelengga raan \npemilihan umum sebagai satu kesatuan yang utuh. Oleh karena itu , \nPemohon berkepentingan secara konstitusional agar jaminan \npenyelenggaraan pemilihan umum yang jujur dan adil sebagaimana \ndimaksud dalam Pasal 22E ayat (1) UUD NRI Tahun 1945 memperoleh  \nperlindungan hukum yang efektif melalui mekanisme penyelesaian \nperselisihan hasil pemilihan umum.",
+      "start_line": 412,
+      "end_line": 460
+    },
+    {
+      "heading": "22. Jaminan Konstitusional atas Mekanisme Penyelesaian Perselisihan Hasil",
+      "slug": "22-jaminan-konstitusional-atas-mekanisme-penyelesaian-perselisihan-hasil",
+      "text": "Pemilihan Umum oleh Mahkamah Konstitusi [Pasal 24C ayat (1) UUD NRI \nTahun 1945]  \nPasal 24C ayat (1) UUD NRI Tahun 1945 menyatakan bahwa Mahkamah \nKonstitusi berwenang: \nMahkamah Konstitusi berwenang mengadili pada tingkat pertama da n \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-Undang \n\n \n \n \n \n13\nDasar, memutus pembubaran partai politik, dan memutus perselisi han \ntentang hasil pemilihan umum. \nBahwa ketentuan tersebut tidak hanya mengatur kewenangan \nkonstitusional Mahkamah Konstitusi sebagai pelaksana kekuasaan \nkehakiman, tetapi sekaligus memberikan jaminan konstitusional b agi \nsetiap warga negara dan peserta pemilihan umum mengenai tersedianya \nmekanisme penyelesaian perselisihan hasil pemilihan umum oleh s uatu \nlembaga peradilan yang independen, imparsial, dan dibentuk lang sung \noleh Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. \nJaminan tersebut merupakan bagian dari sistem perlindungan \nkonstitusional terhadap demokrasi, negara hukum, dan pelaksanaa n \nkedaulatan rakyat melalui pemilihan umum. \nBahwa frasa \"perselisihan tentang hasil pemilihan umum\" sebagai mana \ntercantum dalam Pasal 24C ayat (1) UUD NRI Tahun 1945 tidak \nmemberikan pembatasan bahwa objek pemeriksaan Mahkamah \nKonstitusi hanya terbatas pada aspek matematis atau kuantitatif  \npenghitungan suara. Sebaliknya, penggunaan istilah \"hasil pemil ihan \numum\" menunjukkan bahwa hasil pemilu harus dipahami sebagai produk \nkonstitusional yang lahir dari keseluruhan proses penyelenggara an \npemilihan umum. \nOleh karena itu, secara sistematis dan teleologis, hasil pemilu tidak dapat \ndipisahkan dari proses yang melahirkannya. \nBahwa dalam praktik ketatanegaraan, Mahkamah Konstitusi telah \nmengembangkan penafsiran konstitusional terhadap kewenangan \ntersebut dengan tidak hanya memeriksa aspek kuantitatif berupa hasil \npenghitungan suara, tetapi juga mempertimbangkan pelanggaran da lam \nproses penyelenggaraan pemilihan umum yang terbukti memiliki \nhubungan kausal dan berpengaruh terhadap hasil akhir pemilihan umum. \nDengan demikian, Mahkamah Konstitusi menjalankan fungsinya tida k \nsemata-mata sebagai court of numbers, melainkan sebagai the guardian \nof the Constitution, the guardian of democracy , sekaligus pelindung \nintegritas pemilihan umum. \n\n \n \n \n \n14\nBahwa berbeda dengan rumusan konstitusi tersebut, Pasal 475 aya t (2) \nUndang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum \nmenggunakan frasa \"hanya terhadap hasil penghitungan suara\" yan g \nsecara tekstual membatasi objek perselisihan hasil pemilihan umum pada \naspek kuantitatif semata. Rumusan tersebut mempersempit makna frasa \n\"perselisihan tentang hasil pemilihan umum\" sebagaimana dijamin dalam \nPasal 24C ayat (1) UUD NRI Tahun 1945, sehingga berpotensi \nmenimbulkan penafsiran bahwa Mahkamah Konstitusi tidak berwenan g \nmemeriksa pelanggaran proses yang terbukti memengaruhi hasil \npemilihan umum. \nBahwa meskipun dalam praktiknya Mahkamah Konstitusi sejak \npenyelenggaraan Pemilu Tahun 2004 telah mengembangkan penafsira n \nprogresif dengan tetap memeriksa pelanggaran proses yang \nmemengaruhi hasil pemilihan umum, sebagaimana juga ditegaskan o leh \nYang Mulia Hakim Konstitusi Saldi Isra dalam persidangan pendah uluan \nperkara a quo , keberadaan frasa \"hanya terhadap hasil penghitungan \nsuara\" dalam Pasal 475 ayat (2) UU Pemilu tetap menjadi dasar normatif \nyang digunakan oleh para pihak dalam perselisihan hasil pemilihan umum \nuntuk mendalilkan bahwa Mahkamah  Konstitusi tidak berwenang \nmemeriksa pelanggaran proses. Dengan demikian, norma a quo masih \nmenimbulkan ketidakpastian hukum karena praktik konstitusional yang \ntelah berkembang belum memperoleh landasan normatif yang secara  \neksplisit selaras dengan konstitusi. \nBahwa kondisi tersebut menimbulkan ketidaksesuaian antara norma  \nundang-undang dengan desain konstitusional serta praktik \nketatanegaraan yang berkembang di Mahkamah Konstitusi. Akibatny a, \nkepastian mengenai ruang lingkup kewenangan Mahkamah Konstitusi  \ndalam memutus perselisihan hasil pemilihan umum masih bergantun g \npada perkembangan penafsiran dalam setiap perkara, bukan pada \nnorma undang-undang yang secara tegas memberikan jaminan hukum. \nOleh karena itu, Pemohon memiliki kepentingan konstitusional ag ar \nkewenangan Mahkamah Konstitusi sebagaimana dijamin dalam Pasal \n24C ayat (1) UUD NRI Tahun 1945 tidak dipersempit oleh norma undang-\n\n \n \n \n \n15\nundang yang bertentangan dengan makna konstitusionalnya. Kepast ian \nmengenai ruang lingkup kewenangan tersebut merupakan bagian yan g \ntidak terpisahkan dari jaminan perlindungan hak-hak konstitusio nal \nPemohon sebagai warga negara dan pemilih untuk memperoleh \npenyelesaian perselisihan hasil pemilihan umum yang efektif, \nmenyeluruh, dan mampu menjamin bahwa hasil pemilihan umum yang \nmemperoleh legitimasi konstitusional benar-benar lahir dari pro ses \npenyelenggaraan pemilihan umum yang demokratis, jujur, adil, da n \nberintegritas.",
+      "start_line": 462,
+      "end_line": 561
+    },
+    {
+      "heading": "23. Hak atas Kepastian Hukum yang Adil [Pasal 28D ayat (1) UUD NRI Tahun",
+      "slug": "23-hak-atas-kepastian-hukum-yang-adil-pasal-28d-ayat-1-uud-nri-tahun",
+      "text": "1945] \nPasal 28D ayat (1) UUD NRI Tahun 1945 menyatakan: \n\"Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum”. \nBahwa hak atas kepastian hukum yang adil menghendaki agar setia p \nnorma hukum dirumuskan secara jelas, konsisten, tidak kontradik tif, dan \ndapat diprediksi penerapannya oleh masyarakat. \nPemohon menilai bahwa frasa \"hanya terhadap hasil penghitungan \nsuara\" dalam Pasal 475 ayat (2) UU Pemilu telah menimbulkan \nketidakpastian hukum karena secara tekstual membatasi objek sengketa \npada hasil penghitungan suara, sementara dalam praktik Mahkamah  \nKonstitusi justru telah beberapa kali memeriksa dan mempertimba ngkan \npelanggaran proses yang memengaruhi hasil pemilu. \nKetidakpastian hukum yang dialami Pemohon tidak lahir karena ti dak \nadanya praktik hukum, melainkan karena adanya pertentangan anta ra \nnorma undang-undang dengan praktik konstitusional yang berkemba ng. \nAkibatnya, muncul dua penafsiran yang sama-sama memiliki dasar:  \npertama, penafsiran tekstual berdasarkan UU Pemilu yang membata si \nobjek sengketa hanya pada hasil penghitungan suara; dan kedua, \npenafsiran konstitusional berdasarkan praktik Mahkamah Konstitusi yang \njuga mempertimbangkan pelanggaran proses yang memengaruhi hasil  \npemilu. \nKeadaan demikian menyebabkan Pemohon sebagai warga negara dan \n\n \n \n \n \n16\npemilih tidak memperoleh kepastian hukum mengenai ruang lingkup  \nperlindungan konstitusional yang tersedia ketika terjadi pelang garan \npemilu yang berdampak terhadap hasil pemilu. Padahal, dalam neg ara \nhukum, warga negara berhak mengetahui secara pasti mekanisme \nperlindungan hukum yang tersedia untuk menjaga kemurnian suara dan \nkedaulatan rakyat yang mereka miliki. \nOleh karena itu, hak Pemohon atas kepastian hukum yang adil \nsebagaimana dijamin Pasal 28D ayat (1) UUD NRI Tahun 1945 \nberpotensi dirugikan oleh berlakunya norma a quo. Selama frasa tersebut \ntetap dipertahankan, ketidakjelasan mengenai batas kewenangan \nMahkamah Konstitusi dalam memeriksa pelanggaran yang memengaruhi \nhasil pemilu akan terus menimbulkan ketidakpastian hukum bagi \nPemohon maupun warga negara lainnya sebagai pemilih.",
+      "start_line": 563,
+      "end_line": 605
+    },
+    {
+      "heading": "24. Bahwa Pemohon memahami dan menghormati nasihat Majelis Haki m",
+      "slug": "24-bahwa-pemohon-memahami-dan-menghormati-nasihat-majelis-haki-m",
+      "text": "dalam persidangan pendahuluan yang pada pokoknya mempertanyakan  \nurgensi pengujian norma a quo mengingat Mahkamah Konstitusi selama \nini telah mempraktikkan penafsiran yang lebih luas terhadap \nkewenangannya dalam memutus perselisihan hasil pemilihan umum. \nOleh karena itu, Pemohon memandang perlu untuk terlebih dahulu \nmenjawab pertanyaan mendasar, yakni: apabila Mahkamah Konstitus i \ntelah mempraktikkan perluasan makna tersebut dalam berbagai \nputusannya, mengapa norma a quo  m a s i h  p e r l u  d i u j i  \nkonstitusionalitasnya.",
+      "start_line": 607,
+      "end_line": 615
+    },
+    {
+      "heading": "25. Bahwa menurut Pemohon, keberadaan praktik konstitusional ya ng",
+      "slug": "25-bahwa-menurut-pemohon-keberadaan-praktik-konstitusional-ya-ng",
+      "text": "berkembang dalam putusan-putusan Mahkamah Konstitusi tidak sert a-\nmerta menghilangkan persoalan konstitusional yang terdapat dala m \nnorma undang-undang yang dimohonkan pengujian. Meskipun \nMahkamah Konstitusi telah secara konsisten mempraktikkan penafs iran \nprogresif dalam berbagai perkara Perselisihan Hasil Pemilihan U mum \n(PHPU) sejak Pemilu Tahun 2004 hingga Pemilu Tahun 2024, prakti k \ntersebut pada hakikatnya masih berdiri di atas norma undang-und ang \nyang secara tekstual tetap membatasi objek sengketa hanya pada \"hasil \npenghitungan suara\" sebagaimana tercantum dalam Pasal 475 ayat (2) \nUU Pemilu. \n\n \n \n \n \n17",
+      "start_line": 617,
+      "end_line": 632
+    },
+    {
+      "heading": "26. Bahwa dengan demikian, persoalan yang dihadapi Pemohon buka nlah",
+      "slug": "26-bahwa-dengan-demikian-persoalan-yang-dihadapi-pemohon-buka-nlah",
+      "text": "ketiadaan praktik konstitusional yang progresif, melainkan tida k adanya \nkepastian normatif yang secara eksplisit menegaskan kesesuaian antara \nnorma undang-undang dengan praktik konstitusional yang selama i ni \ntelah dibangun oleh Mahkamah Konstitusi. Selama frasa \"hanya terhadap \nhasil penghitungan suara\" tetap dipertahankan, akan selalu terd apat \nruang bagi penafsiran yang membatasi kewenangan Mahkamah \nKonstitusi hanya pada aspek kuantitatif penghitungan suara dan \nmengabaikan pelanggaran proses yang secara nyata memengaruhi hasil \npemilu.",
+      "start_line": 634,
+      "end_line": 642
+    },
+    {
+      "heading": "27. Bahwa dalam perspektif negara hukum, perlindungan terhadap hak-hak",
+      "slug": "27-bahwa-dalam-perspektif-negara-hukum-perlindungan-terhadap-hak-hak",
+      "text": "konstitusional warga negara tidak seharusnya hanya bergantung p ada \npraktik peradilan yang berkembang dari waktu ke waktu, melainkan harus \nmemperoleh landasan normatif yang jelas, pasti, dan selaras den gan \nkonstitusi. Sebab, kepastian hukum yang dijamin oleh Pasal 28D ayat (1) \nUUD NRI Tahun 1945 menghendaki agar norma hukum tertulis \nmemberikan arah yang sama dengan praktik konstitusional yang \nditerapkan oleh lembaga peradilan.",
+      "start_line": 644,
+      "end_line": 650
+    },
+    {
+      "heading": "28. Bahwa lebih lanjut, praktik konstitusional yang berkembang melalui",
+      "slug": "28-bahwa-lebih-lanjut-praktik-konstitusional-yang-berkembang-melalui",
+      "text": "putusan-putusan Mahkamah Konstitusi pada dasarnya sangat \ndipengaruhi oleh perkembangan penafsiran konstitusi dan komposi si \nhakim konstitusi pada suatu periode tertentu. Oleh karena itu, tanpa \nadanya penegasan melalui putusan pengujian undang-undang yang \nbersifat final dan mengikat secara umum ( erga omnes ), tidak tertutup \nkemungkinan bahwa pada masa mendatang akan muncul penafsiran \nyang kembali berpegang secara ketat pada bunyi tekstual Pasal 475 ayat \n(2) UU Pemilu dan membatasi kewenangan Mahkamah Konstitusi hanya \npada sengketa mengenai angka perolehan suara semata.",
+      "start_line": 652,
+      "end_line": 660
+    },
+    {
+      "heading": "29. Bahwa pengujian norma a quo justru diperlukan untuk memberikan",
+      "slug": "29-bahwa-pengujian-norma-a-quo-justru-diperlukan-untuk-memberikan",
+      "text": "kepastian normatif terhadap praktik konstitusional yang selama ini telah \ndibangun oleh Mahkamah Konstitusi. Dengan adanya putusan pengujian \nundang-undang yang bersifat final dan mengikat secara umum ( erga \nomnes), kesesuaian antara norma undang-undang dengan makna \nkonstitusional Pasal 24C ayat (1) UUD NRI Tahun 1945 akan \n\n \n \n \n \n18\nmemperoleh dasar hukum yang lebih kuat, sehingga perlindungan \nterhadap prinsip kedaulatan rakyat, pemilu yang jujur dan adil,  s e r t a  \nkepastian hukum tidak bergantung semata-mata pada perkembangan \nyurisprudensi, melainkan memperoleh legitimasi langsung dari pu tusan \nMahkamah Konstitusi dalam kewenangannya sebagai pengawal \nkonstitusi (the guardian of the constitution).",
+      "start_line": 662,
+      "end_line": 678
+    },
+    {
+      "heading": "30. Bahwa oleh karena itu, pengujian terhadap frasa \"hanya terh adap hasil",
+      "slug": "30-bahwa-oleh-karena-itu-pengujian-terhadap-frasa-hanya-terh-adap-hasil",
+      "text": "penghitungan suara\" dalam Pasal 475 ayat (2) UU Pemilu tetap me miliki \nurgensi konstitusional yang nyata. Permohonan a quo tidak dimaksudkan \nuntuk mengubah praktik Mahkamah Konstitusi yang telah berkemban g, \nmelainkan untuk memastikan bahwa  praktik konstitusional tersebu t \nmemperoleh kepastian normatif yang selaras dengan UUD NRI Tahun  \n1945 dan tetap terlindungi secara berkelanjutan bagi warga nega ra, \npeserta pemilu, penyelenggara pemilu, maupun Mahkamah Konstitus i \npada masa yang akan datang. \nII.3 Hak Konstitusional Pemohon Dirugikan oleh Berlakunya Undan g-\nUndang yang Dimohonkan Pengujian",
+      "start_line": 680,
+      "end_line": 689
+    },
+    {
+      "heading": "31. Bahwa dalam Perselisihan Hasil Pemilihan Umum Presiden dan Wakil",
+      "slug": "31-bahwa-dalam-perselisihan-hasil-pemilihan-umum-presiden-dan-wakil",
+      "text": "Presiden Tahun 2024, berlakunya frasa \"hanya terhadap hasil \npenghitungan suara\" dalam Pasal 475 ayat (2) Undang-Undang Nomor 7 \nTahun 2017 tentang Pemilihan Umum telah secara nyata menimbulka n \nperbedaan penafsiran mengenai ruang lingkup kewenangan Mahkamah  \nKonstitusi dalam memeriksa dan mengadili perselisihan hasil pemilu.",
+      "start_line": 691,
+      "end_line": 695
+    },
+    {
+      "heading": "32. Bahwa dalam persidangan perkara tersebut, Pasangan Calon No mor",
+      "slug": "32-bahwa-dalam-persidangan-perkara-tersebut-pasangan-calon-no-mor",
+      "text": "Urut 2 Prabowo Subianto–Gibran Rakabuming Raka serta Komisi \nPemilihan Umum mengajukan eksepsi yang pada pokoknya mendalilkan \nbahwa Mahkamah Konstitusi tidak berwenang memeriksa dalil-dalil yang \nbersifat kualitatif, termasuk dugaan pelanggaran yang bersifat \nTerstruktur, Sistematis, dan Masif (TSM), karena Pasal 475 ayat  (2) UU \nPemilu telah membatasi objek perselisihan hasil pemilu hanya te rhadap \nhasil penghitungan suara yang ditetapkan secara nasional oleh K omisi \nPemilihan Umum (vide Bukti P-7).",
+      "start_line": 697,
+      "end_line": 704
+    },
+    {
+      "heading": "33. Bahwa penggunaan norma a quo sebagai dasar pengajuan eksepsi",
+      "slug": "33-bahwa-penggunaan-norma-a-quo-sebagai-dasar-pengajuan-eksepsi",
+      "text": "19\ntersebut menunjukkan bahwa frasa \"hanya terhadap hasil penghitu ngan \nsuara\" bukan sekadar norma yang bersifat abstrak, melainkan tel ah \ndigunakan secara konkret dalam praktik peradilan konstitusi unt uk \nmembatasi ruang lingkup pemeriksaan Mahkamah Konstitusi. Akibatnya, \ntimbul ketidakpastian hukum mengenai apakah Mahkamah Konstitusi  \nberwenang memeriksa pelanggaran proses yang memengaruhi hasil \npemilu atau hanya terbatas pada koreksi angka perolehan suara semata.",
+      "start_line": 706,
+      "end_line": 718
+    },
+    {
+      "heading": "34. Bahwa ketidakpastian hukum tersebut semakin nyata karena da lam",
+      "slug": "34-bahwa-ketidakpastian-hukum-tersebut-semakin-nyata-karena-da-lam",
+      "text": "perkara yang sama terdapat pandangan yang saling bertentangan \nmengenai makna Pasal 475 ayat (2) UU Pemilu. Di satu sisi, terd apat \npandangan yang berpegang pada rumusan tekstual norma a quo  dan \nmenyatakan bahwa Mahkamah Konstitusi hanya berwenang mengadili \nsengketa yang berkaitan dengan aspek kuantitatif hasil penghitu ngan \nsuara. Di sisi lain, terdapat pandangan yang menyatakan bahwa \nMahkamah Konstitusi juga berwenang memeriksa pelanggaran proses  \nyang memiliki hubungan dan pengaruh terhadap hasil pemilu sebag ai \nbagian yang tidak terpisahkan dari perselisihan hasil pemilu.",
+      "start_line": 720,
+      "end_line": 728
+    },
+    {
+      "heading": "35. Bahwa bahkan ahli yang diajukan oleh pihak terkait dalam pe rkara",
+      "slug": "35-bahwa-bahkan-ahli-yang-diajukan-oleh-pihak-terkait-dalam-pe-rkara",
+      "text": "Perselisihan Hasil Pemilihan Umum Presiden dan Wakil Presiden T ahun \n2024 secara tegas menyatakan bahwa kewenangan Mahkamah \nKonstitusi hanya terbatas pada aspek kuantitatif hasil penghitungan suara \ndan tidak mencakup pelanggaran proses. Pendapat tersebut \nmenunjukkan bahwa norma a quo  telah melahirkan penafsiran yang \nmembatasi kewenangan Mahkamah Konstitusi secara sempit \nberdasarkan bunyi tekstual undang-undang. \n3 6 .  B a h w a  d i  s i s i  l a i n ,  H a k i m  K o n s t i t u s i  S a l d i  I s r a  d a l a m  p e r t imbangan \nhukumnya menegaskan bahwa apabila terdapat indikasi tidak \nterpenuhinya asas dan prinsip pemilu pada tahapan sebelum penet apan \nhasil pemilu, serta pelanggaran tersebut berkaitan dan berpenga ruh \nterhadap hasil perolehan suara peserta pemilu, maka Mahkamah \nKonstitusi memiliki kewajiban konstitusional untuk memeriksa da n \nmempertimbangkannya. Pendapat tersebut menunjukkan bahwa dalam \npraktik ketatanegaraan, Mahkamah Konstitusi tidak semata-mata \nbertindak sebagai court of numbers , melainkan juga sebagai penjaga \n\n \n \n \n \n20\ndemokrasi, pelindung hak pilih warga negara, dan pengawal prins ip \nkedaulatan rakyat.",
+      "start_line": 730,
+      "end_line": 753
+    },
+    {
+      "heading": "37. Bahwa bahkan dalam Putusan Perselisihan Hasil Pemilihan Umu m",
+      "slug": "37-bahwa-bahkan-dalam-putusan-perselisihan-hasil-pemilihan-umu-m",
+      "text": "Presiden dan Wakil Presiden Tahun 2024 (Putusan MK Nomor \n1/PHPU.PRES-XXII/2024) terdapat dissenting opinion dari Hakim \nKonstitusi Saldi Isra, Enny Nurbaningsih, dan Arief Hidayat yan g pada \npokoknya berpendapat bahwa Mahkamah Konstitusi seharusnya \nmengabulkan sebagian permohonan dan memerintahkan pemungutan \nsuara ulang di sejumlah daerah. Fakta tersebut menunjukkan bahw a \nperbedaan penafsiran mengenai ruang lingkup kewenangan Mahkamah  \nKonstitusi tidak hanya terjadi di antara para pihak dan para ah li hukum \ntata negara, tetapi juga terjadi di lingkungan Mahkamah Konstitusi sendiri.",
+      "start_line": 755,
+      "end_line": 763
+    },
+    {
+      "heading": "38. Bahwa keadaan tersebut secara nyata telah merugikan hak konstitusional",
+      "slug": "38-bahwa-keadaan-tersebut-secara-nyata-telah-merugikan-hak-konstitusional",
+      "text": "Pemohon atas kepastian hukum yang adil sebagaimana dijamin dala m \nPasal 28D ayat (1) UUD NRI Tahun 1945. Sebagai warga negara dan  \npemilih aktif, Pemohon berhak memperoleh kepastian mengenai \nmekanisme perlindungan konstitusional yang tersedia apabila ter jadi \npelanggaran pemilu yang memengaruhi hasil pemilu. Namun demikia n, \nkeberadaan norma a quo justru melahirkan dua penafsiran yang saling \nbertentangan mengenai batas kewenangan Mahkamah Konstitusi.",
+      "start_line": 765,
+      "end_line": 771
+    },
+    {
+      "heading": "39. Bahwa kerugian konstitusional Pemohon tidak hanya berkaitan dengan",
+      "slug": "39-bahwa-kerugian-konstitusional-pemohon-tidak-hanya-berkaitan-dengan",
+      "text": "kepastian hukum, tetapi juga menyangkut hak Pemohon atas pemili han \numum yang jujur dan adil sebagaimana dijamin Pasal 22E ayat (1)  UUD \nNRI Tahun 1945. Sebagai pemilih, Pemohon tidak hanya memiliki \nkepentingan agar suara yang diberikan dihitung secara benar, tetapi juga \nagar hasil pemilu yang lahir dari suara tersebut merupakan hasi l dari \nproses yang jujur, adil, bebas dari pelanggaran yang serius, serta sesuai \ndengan prinsip-prinsip demokrasi konstitusional.",
+      "start_line": 773,
+      "end_line": 779
+    },
+    {
+      "heading": "40. Bahwa apabila terdapat penafsiran bahwa Mahkamah Konstitusi hanya",
+      "slug": "40-bahwa-apabila-terdapat-penafsiran-bahwa-mahkamah-konstitusi-hanya",
+      "text": "berwenang memeriksa aspek kuantitatif hasil penghitungan suara,  \nsementara pelanggaran proses yang memengaruhi hasil pemilu tida k \ndapat diperiksa, maka hak Pemohon untuk memperoleh pemilu yang jujur \ndan adil menjadi tidak memperoleh perlindungan yang utuh. Dalam  \n\n \n \n \n \n21\nkeadaan demikian, sangat dimungkinkan lahir hasil pemilu yang s ecara \nmatematis benar, namun diperoleh melalui proses yang bertentang an \ndengan prinsip-prinsip demokrasi yang dijamin oleh UUD NRI Tahu n \n1945.",
+      "start_line": 781,
+      "end_line": 794
+    },
+    {
+      "heading": "41. Bahwa keadaan tersebut juga berpotensi merugikan hak-hak",
+      "slug": "41-bahwa-keadaan-tersebut-juga-berpotensi-merugikan-hak-hak",
+      "text": "konstitusional Pemohon sebagai warga negara dan pemilih untuk \nmemperoleh penyelenggaraan pemilihan umum yang demokratis, juju r, \nadil, dan berintegritas sebagai perwujudan prinsip kedaulatan r akyat \nsebagaimana diamanatkan dalam Pasal 1 ayat (2) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945. Prinsip kedaulatan rakyat \npada hakikatnya tidak hanya diwujudkan melalui ketepatan penghitungan \nsuara secara matematis, melainkan juga melalui keseluruhan pros es \npenyelenggaraan pemilihan umum yang dilaksanakan berdasarkan asas \nlangsung, umum, bebas, rahasia, jujur, dan adil sebagaimana ditentukan \ndalam Pasal 22E ayat (1) UUD NRI Tahun 1945. Oleh karena itu, \nlegitimasi hasil pemilihan umum secara konstitusional tidak han ya \nditentukan oleh akurasi hasil penghitungan suara, tetapi juga o leh \nintegritas proses yang melahirkannya. \nBahwa meskipun dalam praktik ketatanegaraan Mahkamah Konstitusi  \nsejak awal pelaksanaan kewenangannya dalam memeriksa Perselisih an \nHasil Pemilihan Umum telah mengembangkan penafsiran konstitusio nal \nyang tidak membatasi pemeriksaan semata-mata pada aspek kuantit atif \nhasil penghitungan suara, melainkan juga terhadap pelanggaran p roses \nyang terbukti memengaruhi hasil pemilihan umum, perkembangan \nyurisprudensi tersebut belum diikuti oleh penyesuaian rumusan n orma \ndalam Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tenta ng \nPemilihan Umum. Akibatnya, frasa \"hanya terhadap hasil penghitu ngan \nsuara\" tetap menjadi dasar normatif yang secara berulang digunakan oleh \npara pihak dalam perselisihan hasil pemilihan umum untuk \nmempersoalkan dan membatasi ruang lingkup kewenangan Mahkamah \nKonstitusi dalam memeriksa pelanggaran proses yang memengaruhi \nhasil pemilihan umum. \nBahwa keadaan tersebut menunjukkan adanya kesenjangan antara \npraktik konstitusional yang telah berkembang ( evolving constitutional \n\n \n \n \n \n22\npractice) dengan rumusan norma undang-undang yang masih bersifat \nrestriktif ( statutory limitation ). Selama norma a quo  tetap \nmempertahankan pembatasan tekstual tersebut, kepastian mengenai  \nruang lingkup kewenangan Mahkamah Konstitusi tidak bersumber da ri \nnorma undang-undang, melainkan bergantung pada penafsiran \nMahkamah Konstitusi dalam setiap perkara konkret. Kondisi demik ian \nmembuka ruang bagi munculnya kembali perdebatan mengenai \nkewenangan Mahkamah Konstitusi dalam setiap penyelesaian \nPerselisihan Hasil Pemilihan Umum, sebagaimana nyata terjadi da lam \nPerselisihan Hasil Pemilihan Umum Presiden dan Wakil Presiden T ahun \n2024. \nBahwa oleh karena itu, apabila norma a quo tetap dimaknai membatasi \nruang lingkup pemeriksaan Mahkamah Konstitusi hanya pada aspek hasil \npenghitungan suara, sehingga pelanggaran dalam proses \npenyelenggaraan pemilihan umum yang terbukti memengaruhi hasil tidak \nmemperoleh mekanisme pengujian konstitusional yang secara tegas  \ndijamin oleh norma undang-undang, maka terdapat hubungan kausal  \nyang nyata antara keberlakuan norma tersebut dengan berkurangny a \njaminan konstitusional terhadap perlindungan prinsip kedaulatan  rakyat. \nHasil pemilihan umum yang lahir dari proses yang tidak memenuhi  asas \nlangsung, umum, bebas, rahasia, jujur, dan adil berpotensi kehi langan \nlegitimasi konstitusionalnya sebagai manifestasi kehendak rakya t. \nAkibatnya, hak-hak konstitusional Pemohon sebagai pemilih untuk  \nmemperoleh penyelenggaraan pemilihan umum yang berintegritas, serta \nkepastian bahwa suara yang diberikan benar-benar diwujudkan mel alui \nproses yang konstitusional, tidak memperoleh perlindungan secar a \noptimal.",
+      "start_line": 796,
+      "end_line": 857
+    },
+    {
+      "heading": "42. Bahwa sebagaimana telah diuraikan pada poin 41, kerugian",
+      "slug": "42-bahwa-sebagaimana-telah-diuraikan-pada-poin-41-kerugian",
+      "text": "konstitusional Pemohon menjadi semakin nyata, aktual, dan bersi fat \nberkelanjutan karena Pemohon merupakan warga negara Indonesia yang \ntelah terdaftar sebagai pemilih dan menggunakan hak pilihnya da lam \nPemilihan Umum Tahun 2024, serta secara konstitusional akan ter us \nmemiliki hak untuk berpartisipasi dalam setiap pemilihan umum p ada \nmasa yang akan datang. Oleh karena itu, Pemohon memiliki kepentingan \n\n \n \n \n \n23\nkonstitusional yang langsung dan sah agar setiap hasil pemiliha n umum \nmemperoleh legitimasi konstitusional hanya apabila lahir dari p roses \npenyelenggaraan pemilihan umum yang demokratis, jujur, adil, da n \nberintegritas sebagaimana diamanatkan oleh Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945. \nBahwa meskipun dalam praktik peradilan Mahkamah Konstitusi seja k \npenyelenggaraan pemilu tahun 2004 telah berkembang penafsiran y ang \nmemungkinkan pemeriksaan terhadap pelanggaran proses yang \nmemengaruhi hasil pemilihan umum, sebagaimana juga ditegaskan \ndalam proses persidangan perkara a quo, namun secara normatif Pasal \n475 ayat (2) Undang-Undang Nomo r 7 Tahun 2017 tentang Pemilihan  \nUmum masih menggunakan frasa hanya terhadap hasil penghitungan \nsuara. Rumusan tersebut tetap membuka ruang bagi pihak-pihak da lam \nperselisihan hasil pemilihan umum untuk mendalilkan bahwa Mahka mah \nKonstitusi tidak berwenang memeriksa pelanggaran proses, \nsebagaimana terbukti dalam Perselisihan Hasil Pemilihan Umum \nPresiden dan Wakil Presiden Tahun 2024. Dengan demikian, norma a \nquo m a s i h  m e n j a d i  d a s a r  n o r m a t i f  y a n g  d i g u n a k a n  u n t u k  m e m b a t a s i  \nruang lingkup kewenangan Mahkamah Konstitusi, sehingga menimbulkan \nketidakpastian hukum yang berpotensi mengurangi efektivitas \nperlindungan hak-hak konstitusional warga negara. \nBahwa oleh karena itu, Pemohon memiliki kepentingan konstitusio nal \nagar Mahkamah Konstitusi memberikan penafsiran konstitusional \nterhadap Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 \nsehingga frasa hanya terhadap hasil penghitungan suara dimaknai  \nmencakup pula pelanggaran dalam  proses penyelenggaraan pemiliha n \numum yang terbukti memengaruhi hasil pemilihan umum. Penafsiran  \ndemikian diperlukan untuk memberikan kepastian hukum, menyelaraskan \nnorma undang-undang dengan Pasal 24C ayat (1) juncto Pasal 22E ayat \n(1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, serta \nmenjamin perlindungan yang efektif terhadap hak konstitusional \nPemohon atas penyelenggaraan pemilihan umum yang demokratis, jujur, \nadil, berintegritas, dan sebagai perwujudan nyata prinsip kedau latan \nrakyat. \n\n \n \n \n \n24",
+      "start_line": 859,
+      "end_line": 910
+    },
+    {
+      "heading": "43. Bahwa selama frasa \"hanya terhadap hasil penghitungan suara \" dalam",
+      "slug": "43-bahwa-selama-frasa-hanya-terhadap-hasil-penghitungan-suara-dalam",
+      "text": "Pasal 475 ayat (2) UU Pemilu tetap dipertahankan, maka ketidakp astian \nhukum yang sama akan terus berulang pada setiap penyelenggaraan  \npemilu. Para pihak akan tetap memiliki dasar normatif untuk mendalilkan \nbahwa Mahkamah Konstitusi tidak berwenang memeriksa pelanggaran  \nproses yang memengaruhi hasil pemilu, sehingga perlindungan terhadap \nhak pilih Pemohon, hak atas pemilu yang jujur dan adil, serta p rinsip \nkedaulatan rakyat akan selalu berada dalam keadaan yang tidak pasti.",
+      "start_line": 912,
+      "end_line": 918
+    },
+    {
+      "heading": "44. Bahwa oleh karena itu, terdapat hubungan sebab akibat (causal verband)",
+      "slug": "44-bahwa-oleh-karena-itu-terdapat-hubungan-sebab-akibat-causal-verband",
+      "text": "yang jelas antara berlakunya frasa \"hanya terhadap hasil penghi tungan \nsuara\" dalam Pasal 475 ayat (2) UU Pemilu dengan kerugian \nkonstitusional yang dialami Pemohon, yaitu berupa ketidakpastian hukum \nmengenai ruang lingkup perlindungan hak pilih, hak atas pemilu yang jujur \ndan adil, hak atas perlindungan kedaulatan rakyat, serta hak un tuk \nmemperoleh mekanisme penyelesaian perselisihan hasil pemilu yan g \nefektif dan sesuai dengan amanat UUD NRI Tahun 1945.",
+      "start_line": 920,
+      "end_line": 926
+    },
+    {
+      "heading": "45. Bahwa apabila Mahkamah Konstitusi mengabulkan permohonan a quo",
+      "slug": "45-bahwa-apabila-mahkamah-konstitusi-mengabulkan-permohonan-a-quo",
+      "text": "dan menyatakan frasa \"hanya terhadap hasil penghitungan suara\" \nbertentangan dengan UUD NRI Tahun 1945 sepanjang tidak dimaknai  \nmencakup pula pelanggaran proses yang berpengaruh terhadap hasi l \npemilu, maka kerugian konstitusional yang dialami Pemohon akan dapat \ndipulihkan. Putusan tersebut akan memberikan kepastian hukum ya ng \nbersifat final dan mengikat secara umum ( erga omnes ), memperkuat \nperlindungan hak pilih warga negara, serta menjamin konsistensi  praktik \nkonstitusional Mahkamah Konstitusi dalam menjaga integritas pemilu dan \nkedaulatan rakyat pada masa yang akan datang. \nII.4 Adanya Hubungan Sebab-Akibat (Causal Verband)",
+      "start_line": 928,
+      "end_line": 937
+    },
+    {
+      "heading": "46. Bahwa terdapat hubungan sebab-akibat ( causal verband ) yang jelas,",
+      "slug": "46-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-yang-jelas",
+      "text": "langsung, dan rasional antara kerugian konstitusional yang dial ami \nPemohon dengan berlakunya Pasal 475 ayat (2) Undang-Undang Nomor \n7 Tahun 2017 tentang Pemilihan Umum, khususnya frasa \"hanya \nterhadap hasil penghitungan suara\". Berlakunya norma a quo  telah \nmembatasi ruang lingkup kewenangan Mahkamah Konstitusi secara \n\n \n \n \n \n25\ntekstual hanya pada aspek hasil penghitungan suara, sehingga \nberpotensi menghalangi pemeriksaan terhadap pelanggaran dalam \nproses penyelenggaraan pemilihan umum yang memiliki pengaruh nyata \nterhadap hasil pemilu. Akibatnya, hak konstitusional Pemohon se bagai \nwarga negara dan pemilih untuk memperoleh jaminan atas \npenyelenggaraan pemilu yang demokratis, jujur, adil, dan berint egritas, \nserta memperoleh kepastian hukum yang adil sebagaimana dijamin \ndalam Pasal 1 ayat (2), Pasal 22E ayat (1), dan Pasal 28D ayat (1) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \nberpotensi tidak memperoleh perlindungan konstitusional secara efektif.",
+      "start_line": 939,
+      "end_line": 959
+    },
+    {
+      "heading": "47. Bahwa secara normatif, frasa \"hanya terhadap hasil penghitungan suara\"",
+      "slug": "47-bahwa-secara-normatif-frasa-hanya-terhadap-hasil-penghitungan-suara",
+      "text": "dalam Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tenta ng \nPemilihan Umum membentuk pembatasan hukum yang bersifat limitat if \nterhadap objek Perselisihan Hasil Pemilihan Umum Presiden dan W akil \nPresiden. Secara tekstual, rumusan tersebut mengarahkan penafsi ran \nbahwa kewenangan Mahkamah Konstitusi hanya terbatas pada \npemeriksaan aspek kuantitatif berupa hasil penghitungan suara, sehingga \nmenimbulkan pemahaman bahwa pelanggaran dalam proses \npenyelenggaraan pemilihan umum, meskipun terbukti memiliki hubungan \nkausal dan berpengaruh terhadap hasil akhir pemilu, berada di luar ruang \nlingkup pemeriksaan Mahkamah Konstitusi. Konsekuensinya, norma a \nquo berpotensi menimbulkan pembatasan terhadap pelaksanaan \nkewenangan konstitusional Mahkamah Konstitusi sebagaimana diatu r \ndalam Pasal 24C ayat (1) Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, sekaligus menciptakan ketidakpastian huku m \nmengenai cakupan objek perselisihan hasil pemilihan umum yang \nseharusnya dipahami secara utuh sebagai hasil yang lahir dari p roses \npemilu yang demokratis, jujur, dan adil sebagaimana diamanatkan dalam \nPasal 22E ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 961,
+      "end_line": 978
+    },
+    {
+      "heading": "48. Bahwa pembatasan normatif tersebut telah menimbulkan ketida kpastian",
+      "slug": "48-bahwa-pembatasan-normatif-tersebut-telah-menimbulkan-ketida-kpastian",
+      "text": "hukum karena bertentangan dengan perkembangan praktik konstitusional \nMahkamah Konstitusi yang dalam berbagai perkara perselisihan ha sil \npemilu tidak hanya memeriksa aspek kuantitatif, melainkan juga menilai \npelanggaran proses yang terbukti memiliki pengaruh terhadap has il \n\n \n \n \n \n26\npemilu. Dengan demikian, terdapat ketidaksesuaian antara norma \nundang-undang ( law in books ) dengan praktik konstitusional yang \nberkembang dalam putusan Mahkamah Konstitusi (law in action).",
+      "start_line": 980,
+      "end_line": 992
+    },
+    {
+      "heading": "49. Bahwa ketidaksesuaian antara rumusan normatif Pasal 475 aya t (2)",
+      "slug": "49-bahwa-ketidaksesuaian-antara-rumusan-normatif-pasal-475-aya-t-2",
+      "text": "Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum dengan \nperkembangan praktik ketatanegaraan tersebut bukan sekadar persoalan \nteoritis, melainkan telah terbukti secara empiris menimbulkan perdebatan \nhukum yang nyata dalam penyelesaian Perselisihan Hasil Pemiliha n \nUmum Presiden dan Wakil Presiden Tahun 2024. Dalam perkara \ntersebut, Pihak Terkait, yaitu Pasangan Calon Presiden dan Waki l \nPresiden Nomor Urut 2, Prabowo Subianto dan Gibran Rakabuming \nRaka, serta Termohon, yaitu Komisi Pemilihan Umum Republik \nIndonesia, mengajukan eksepsi yang pada pokoknya mendalilkan bahwa \nMahkamah Konstitusi tidak berwenang memeriksa dalil-dalil yang \nberkaitan dengan proses penyelenggaraan pemilihan umum karena objek \nperselisihan hasil pemilihan umum dibatasi hanya terhadap hasil  \npenghitungan suara sebagaimana diatur dalam Pasal 475 ayat (2) \nUndang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum (vide \nBukti P-7). Fakta tersebut menunjukkan bahwa norma a quo secara nyata \ntelah dijadikan dasar argumentasi hukum untuk membatasi ruang lingkup \nkewenangan Mahkamah Konstitusi, sehingga menimbulkan \nketidakpastian mengenai cakupan objek pemeriksaan dalam perselisihan \nhasil pemilihan umum serta mempertegas adanya persoalan \nkonstitusional yang bersumber dari rumusan norma a quo.",
+      "start_line": 994,
+      "end_line": 1013
+    },
+    {
+      "heading": "50. Bahwa fakta tersebut menunjukkan secara nyata bahwa norma a quo",
+      "slug": "50-bahwa-fakta-tersebut-menunjukkan-secara-nyata-bahwa-norma-a-quo",
+      "text": "telah menjadi dasar argumentasi hukum untuk membatasi ruang lin gkup \nkewenangan Mahkamah Konstitusi. Dengan kata lain, keberadaan fr asa \n\"hanya terhadap hasil penghitungan suara\" bukan sekadar norma y ang \npasif, melainkan norma yang secara aktual digunakan untuk \nmempersoalkan kewenangan Mahkamah Konstitusi dalam memeriksa \npelanggaran proses yang memengaruhi hasil pemilu.",
+      "start_line": 1015,
+      "end_line": 1020
+    },
+    {
+      "heading": "51. Bahwa kerugian konstitusional yang dialami Pemohon tidak be rsumber",
+      "slug": "51-bahwa-kerugian-konstitusional-yang-dialami-pemohon-tidak-be-rsumber",
+      "text": "dari praktik Mahkamah Konstitusi, mengingat Mahkamah dalam berbagai \nperkara perselisihan hasil pemilihan umum telah mengembangkan \n\n \n \n \n \n27\npenafsiran yang memungkinkan pemeriksaan terhadap pelanggaran \nproses yang memengaruhi hasil pemilihan umum. Kerugian tersebut  \njustru timbul karena Pasal 475 ayat (2) Undang-Undang Nomor 7 T ahun \n2017 tentang Pemilihan Umum tidak memberikan jaminan normatif y ang \nsecara tegas menyelaraskan ruang lingkup kewenangan Mahkamah \nKonstitusi dengan praktik konstitusional yang telah berkembang.  \nAkibatnya, perlindungan terhadap hak-hak konstitusional Pemohon masih \nbergantung pada penafsiran yang dibangun dalam setiap perkara konkret, \nbukan pada kepastian norma hukum yang berlaku secara umum, \nmengikat, dan memberikan kepastian hukum bagi setiap warga negara.",
+      "start_line": 1022,
+      "end_line": 1039
+    },
+    {
+      "heading": "52. Bahwa keadaan tersebut tercermin secara nyata dalam Putusan",
+      "slug": "52-bahwa-keadaan-tersebut-tercermin-secara-nyata-dalam-putusan",
+      "text": "Mahkamah Konstitusi Nomor 1/PHPU.PRES-XXII/2024, khususnya pada \nhalaman 864–865, di mana Mahkamah menegaskan bahwa apabila \nterdapat indikasi tidak terpenuhinya asas dan prinsip pemilihan  umum \npada tahapan sebelum penetapan hasil pemilu, Mahkamah memiliki \nkewajiban konstitusional untuk m emeriksa dan mengadilinya sepan jang \npelanggaran tersebut memiliki keterkaitan dan berpengaruh terha dap \nhasil perolehan suara peserta pemilu. Penegasan tersebut menunj ukkan \nbahwa dalam praktik ketatanegaraan, Mahkamah telah mengembangkan \npenafsiran konstitusional yang tidak membatasi objek perselisih an hasil \npemilihan umum semata-mata pada aspek kuantitatif berupa hasil \npenghitungan suara. \nBahwa meskipun demikian, dalam perkara yang sama kewenangan \nMahkamah untuk memeriksa pelanggaran proses tetap dipersoalkan oleh \npara pihak melalui eksepsi yang mendasarkan argumentasinya pada  \nfrasa \"hanya terhadap hasil penghitungan suara\" sebagaimana tercantum \ndalam Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tenta ng \nPemilihan Umum. Fakta tersebut menunjukkan bahwa norma a quo masih \nmenjadi dasar normatif untuk menafsirkan secara restriktif ruan g lingkup \nkewenangan Mahkamah, sehingga membuka ruang bagi lahirnya \npenafsiran yang berbeda dan menimbulkan ketidakpastian hukum \nmengenai batas kewenangan Mahkamah Konstitusi dalam memeriksa \nperselisihan hasil pemilihan umum. \nBahwa dengan demikian, persoalan yang dihadapi Pemohon bukanlah  \n\n \n \n \n \n28\npersoalan yang bersifat teoritis, hipotetis, maupun akademik se mata, \nmelainkan persoalan konstitusional yang nyata dan aktual karena  telah \nmuncul secara konkret dalam praktik penyelesaian Perselisihan H asil \nPemilihan Umum Presiden dan Wakil Presiden Tahun 2024 (vide Putusan \nMahkamah Konstitusi Nomor 1/PHPU.PRES-XXII/2024, hlm. 864–865).  \nKerugian konstitusional Pemohon tidak bersumber pada ketiadaan praktik \npemeriksaan terhadap pelanggaran proses oleh Mahkamah, melainka n \npada tetap berlakunya norma Pasal 475 ayat (2) UU Pemilu yang b elum \nmemberikan jaminan normatif bahwa pemeriksaan terhadap pelanggaran \nproses yang terbukti memengaruhi hasil pemilihan umum merupakan  \nbagian dari kewenangan Mahkamah Konstitusi. Akibatnya, perlindu ngan \nterhadap hak-hak konstitusional warga negara masih bergantung p ada \nperkembangan penafsiran dalam setiap perkara, bukan pada kepast ian \nnorma hukum yang berlaku secara umum, mengikat, dan memberikan \njaminan kepastian hukum sebagaimana dikehendaki oleh Pasal 28D ayat \n(1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 1041,
+      "end_line": 1085
+    },
+    {
+      "heading": "53. Bahwa apabila frasa \"hanya terhadap hasil penghitungan suar a\" tidak",
+      "slug": "53-bahwa-apabila-frasa-hanya-terhadap-hasil-penghitungan-suar-a-tidak",
+      "text": "dirumuskan secara sempit atau dimaknai secara konstitusional mencakup \npula pelanggaran proses yang memengaruhi hasil pemilu, maka rua ng \nbagi perdebatan mengenai kewenangan Mahkamah Konstitusi tidak akan \nmuncul. Oleh karena itu, ketidakpastian hukum yang dialami Pemo hon \nmemiliki hubungan sebab-akibat yang langsung dengan berlakunya \nnorma a quo.",
+      "start_line": 1087,
+      "end_line": 1092
+    },
+    {
+      "heading": "54. Bahwa dengan demikian, seluruh kerugian konstitusional yang didalilkan",
+      "slug": "54-bahwa-dengan-demikian-seluruh-kerugian-konstitusional-yang-didalilkan",
+      "text": "Pemohon, baik yang berkaitan dengan hak atas kepastian hukum ya ng \nadil sebagaimana dijamin dalam Pasal 28D ayat (1) Undang-Undang  \nDasar Negara Republik Indonesia Tahun 1945, jaminan konstitusio nal \natas penyelenggaraan pemilihan umum yang jujur dan adil sebagaimana \ndiatur dalam Pasal 22E ayat (1) Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, kepentingan konstitusional Pemohon terhad ap \npelaksanaan prinsip kedaulatan rakyat sebagaimana ditegaskan da lam \nPasal 1 ayat (2) Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945, maupun jaminan konstitusional atas tersedianya mekanisme \npenyelesaian perselisihan tentang hasil pemilihan umum oleh Mahkamah \n\n \n \n \n \n29\nKonstitusi sebagaimana diatur dalam Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945, secara langsung \nbersumber dari keberlakuan Pasal 475 ayat (2) Undang-Undang Nom or \n7 Tahun 2017 tentang Pemilihan Umum, khususnya frasa \"hanya \nterhadap hasil penghitungan suara\", yang menjadi objek pengujian dalam \nperkara a quo. Oleh karena itu, terdapat hubungan sebab akibat (causal \nverband) yang jelas antara berlakunya norma a quo  dengan potensi \nkerugian terhadap hak dan kepentingan konstitusional Pemohon, \nsehingga syarat adanya kerugian konstitusional sebagaimana dima ksud \ndalam praktik Mahkamah Konstitusi telah terpenuhi. \nII.5 Kemungkinan Kerugian Konstitusional Tidak Akan Terjadi Lag i Apabila \nPermohonan Dikabulkan",
+      "start_line": 1094,
+      "end_line": 1121
+    },
+    {
+      "heading": "55. Bahwa apabila Mahkamah Konstitusi mengabulkan permohonan a quo",
+      "slug": "55-bahwa-apabila-mahkamah-konstitusi-mengabulkan-permohonan-a-quo",
+      "text": "dan memberikan penafsiran konstitusional terhadap Pasal 475 aya t (2) \nUU Pemilu sehingga frasa \"hanya terhadap hasil penghitungan sua ra\" \ndimaknai mencakup pula pelanggaran proses  penyelenggaraan pemilu \nyang memengaruhi hasil pemilu, maka kerugian konstitusional yan g \ndidalilkan Pemohon tidak akan terjadi lagi.",
+      "start_line": 1123,
+      "end_line": 1127
+    },
+    {
+      "heading": "56. Bahwa putusan pengujian undang -undang memiliki sifat final dan",
+      "slug": "56-bahwa-putusan-pengujian-undang-undang-memiliki-sifat-final-dan",
+      "text": "mengikat secara umum (erga omnes), sehingga tidak hanya berlaku bagi \npara pihak dalam perkara ini, melainkan mengikat seluruh warga negara, \npenyelenggara pemilu, peserta pemilu, lembaga negara, serta Mahkamah \nKonstitusi sendiri dalam menjalankan kewenangannya pada masa \nmendatang.",
+      "start_line": 1129,
+      "end_line": 1133
+    },
+    {
+      "heading": "57. Bahwa meskipun Mahkamah Konstitusi selama ini telah mengembangkan",
+      "slug": "57-bahwa-meskipun-mahkamah-konstitusi-selama-ini-telah-mengembangkan",
+      "text": "praktik konstitusional yang memperbolehkan pemeriksaan pelangga ran \nproses yang memengaruhi hasil pemilu, praktik tersebut pada hakikatnya \nmasih hidup dalam putusan-putusan konkret (case by case basis) dan \nbelum memperoleh penegasan normatif secara eksplisit dalam norm a \nundang-undang yang diuji. Oleh karena itu, diperlukan putusan pengujian \nundang-undang yang memberikan kepastian hukum secara permanen \nterhadap ruang lingkup kewenangan Mahkamah Konstitusi.",
+      "start_line": 1135,
+      "end_line": 1141
+    },
+    {
+      "heading": "58. Bahwa tanpa adanya penegasan normatif tersebut, perubahan komposisi",
+      "slug": "58-bahwa-tanpa-adanya-penegasan-normatif-tersebut-perubahan-komposisi",
+      "text": "hakim konstitusi pada masa yang akan datang berpotensi menimbul kan \n\n \n \n \n \n30\nperubahan pendekatan penafsiran terhadap Pasal 475 ayat (2) UU \nPemilu. Dalam keadaan demikian, praktik konstitusional yang sel ama ini \nberkembang dapat sewaktu-waktu ditinggalkan dan kembali ditafsi rkan \nsecara sempit sesuai bunyi literal norma a quo. Risiko konstitusional inilah \nyang menjadi sumber kerugian potensial Pemohon sebagai pemilih.",
+      "start_line": 1143,
+      "end_line": 1154
+    },
+    {
+      "heading": "59. Bahwa pengabulan permohonan a quo akan menghilangkan",
+      "slug": "59-bahwa-pengabulan-permohonan-a-quo-akan-menghilangkan",
+      "text": "pertentangan antara norma undang-undang dengan praktik konstitusional \nMahkamah Konstitusi. Dengan demikian, tidak akan lagi terdapat ruang \nbagi para pihak untuk memperdebatkan apakah Mahkamah Konstitusi  \nberwenang memeriksa pelanggaran proses yang memengaruhi hasil \npemilu, karena hal tersebut telah memperoleh legitimasi konstit usional \nyang tegas melalui putusan Mahkamah Konstitusi.",
+      "start_line": 1156,
+      "end_line": 1161
+    },
+    {
+      "heading": "60. Bahwa pengabulan permohonan a quo juga akan memberikan",
+      "slug": "60-bahwa-pengabulan-permohonan-a-quo-juga-akan-memberikan",
+      "text": "perlindungan yang lebih efektif terhadap hak konstitusional Pem ohon \nsebagai pemilih. Pemohon akan memperoleh kepastian bahwa setiap  \nhasil pemilu yang diduga lahir dari proses yang tidak jujur, tidak adil, atau \nbertentangan dengan prinsip-prinsip demokrasi tetap dapat diuji  d a n  \ndikoreksi melalui mekanisme konstitusional yang tersedia.",
+      "start_line": 1163,
+      "end_line": 1167
+    },
+    {
+      "heading": "61. Bahwa lebih jauh lagi, pengabulan permohonan ini akan mempe rkuat",
+      "slug": "61-bahwa-lebih-jauh-lagi-pengabulan-permohonan-ini-akan-mempe-rkuat",
+      "text": "pelaksanaan prinsip kedaulatan rakyat, menjaga integritas pemil u, \nmemperkuat fungsi Mahkamah Konstitusi sebagai penjaga konstitusi (the \nguardian of the Constitution ), serta memberikan kepastian hukum yang \nadil bagi seluruh warga negara dalam setiap penyelenggaraan pem ilu di \nmasa mendatang.",
+      "start_line": 1169,
+      "end_line": 1173
+    },
+    {
+      "heading": "62. Bahwa oleh karena itu, terdapat kemungkinan yang nyata, ras ional, dan",
+      "slug": "62-bahwa-oleh-karena-itu-terdapat-kemungkinan-yang-nyata-ras-ional-dan",
+      "text": "dapat dipastikan menurut penalaran yang wajar bahwa dengan \ndikabulkannya permohonan a quo, kerugian konstitusional yang didalilkan \nPemohon tidak akan terjadi lagi atau setidak-tidaknya tidak aka n terus \nberulang dalam penyelenggaraan pemilu pada masa yang akan datang. \nIII. Alasan-Alasan Permo honan (Posita) \nA. Urgensi Konstitusional Pengujian Pasal 475 ayat (2) UU Pemil u \nMeskipun Mahkamah Konstitusi Telah Mengembangkan Praktik \nPemeriksaan Pelanggaran Proses yang Memengaruhi Hasil Pemilu",
+      "start_line": 1175,
+      "end_line": 1182
+    },
+    {
+      "heading": "63. Bahwa Pemohon memahami dan menghormati nasihat Majelis Haki m",
+      "slug": "63-bahwa-pemohon-memahami-dan-menghormati-nasihat-majelis-haki-m",
+      "text": "31\ndalam persidangan pendahuluan yang pada pokoknya mempertanyakan  \nurgensi pengujian norma a quo mengingat Mahkamah Konstitusi selama \nini telah mempraktikkan penafsiran yang lebih luas terhadap \nkewenangannya dalam memutus pers elisihan hasil pemilihan umum. \nOleh karena itu, Pemohon memandang perlu untuk terlebih dahulu \nmenjelaskan bahwa permohonan a quo tidak diajukan karena Mahkamah \nKonstitusi belum pernah memeriksa pelanggaran proses yang \nmemengaruhi hasil pemilu, melain kan karena praktik konstitusion al \ntersebut belum memperoleh kepastian normatif yang tegas dalam norma \nundang-undang yang diuji.",
+      "start_line": 1184,
+      "end_line": 1199
+    },
+    {
+      "heading": "64. Bahwa Mahkamah Konstitusi sejak Pemilu Tahun 2004 hingga Pe milu",
+      "slug": "64-bahwa-mahkamah-konstitusi-sejak-pemilu-tahun-2004-hingga-pe-milu",
+      "text": "Tahun 2024 telah membangun praktik ketatanegaraan yang konsiste n \ndengan memeriksa dan mempertimbangkan pelanggaran proses yang \nmemiliki keterkaitan dan pengaruh terhadap hasil pemilu. Dalam berbagai \nperkara Perselisihan Hasil Pemilihan Umum, Mahkamah Konstitusi tidak \nsemata-mata bertindak sebagai court of numbers , tetapi juga sebagai \npenjaga konstitusi dan pelindung integritas pemilu yang memasti kan \nbahwa hasil pemilu lahir dari proses yang demokratis, jujur, dan adil.",
+      "start_line": 1201,
+      "end_line": 1207
+    },
+    {
+      "heading": "65. Bahwa praktik konstitusional tersebut antara lain tercermin dalam",
+      "slug": "65-bahwa-praktik-konstitusional-tersebut-antara-lain-tercermin-dalam",
+      "text": "Putusan Mahkamah Konstitusi Nomor 01/PHPU-PRES/XVII/2019 dan \nPutusan Mahkamah Konstitusi Nomor 1/PHPU.PRES-XXII/2024, yang \npada pokoknya menegaskan bahwa Mahkamah Konstitusi dapat \nmempertimbangkan pelanggaran proses sepanjang pelanggaran tersebut \nmemiliki hubungan dan pengaruh terhadap hasil pemilu. Dengan \ndemikian, secara empiris praktik konstitusional tersebut memang  telah \nberkembang dan diterapkan oleh Mahkamah Konstitusi.",
+      "start_line": 1209,
+      "end_line": 1215
+    },
+    {
+      "heading": "66. Namun demikian, keberadaan praktik konstitusional tersebut tidak",
+      "slug": "66-namun-demikian-keberadaan-praktik-konstitusional-tersebut-tidak",
+      "text": "menghilangkan persoalan konstitusional yang menjadi objek permohonan      \na quo. Sebab, Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 \ntentang Pemilihan Umum tetap menggunakan frasa \"hanya terhadap hasil \npenghitungan suara\", yang secara gramatikal, sistematis, dan te kstual \nmenunjukkan adanya pembatasan objek sengketa pada aspek kuantitatif \nperolehan suara.",
+      "start_line": 1217,
+      "end_line": 1222
+    },
+    {
+      "heading": "67. Bahwa ketidaksesuaian antara rumusan norma undang-undang de ngan",
+      "slug": "67-bahwa-ketidaksesuaian-antara-rumusan-norma-undang-undang-de-ngan",
+      "text": "32\npraktik konstitusional Mahkamah Konstitusi tersebut telah menim bulkan \nketidakpastian hukum yang nyata. Dalam Perselisihan Hasil Pemil ihan \nUmum Presiden dan Wakil Presiden Tahun 2024, Pasangan Calon Nomor \nUrut 2 Prabowo Subianto-Gibran Rakabuming Raka serta Komisi \nPemilihan Umum secara tegas mengajukan eksepsi yang pada pokoknya \nmenyatakan bahwa Mahkamah Konstitusi tidak berwenang memeriksa \npelanggaran yang bersifat kualitatif karena Pasal 475 ayat (2) UU Pemilu \nmembatasi objek sengketa hanya terhadap hasil penghitungan suar a \n(vide Bukti P-7).",
+      "start_line": 1224,
+      "end_line": 1238
+    },
+    {
+      "heading": "68. Bahwa fakta tersebut menunjukkan bahwa sekalipun Mahkamah",
+      "slug": "68-bahwa-fakta-tersebut-menunjukkan-bahwa-sekalipun-mahkamah",
+      "text": "Konstitusi telah mengembangkan praktik pemeriksaan pelanggaran \nproses, norma a quo tetap digunakan sebagai dasar argumentasi hukum \nuntuk membatasi kewenangan Mahkamah Konstitusi. Dengan kata lai n, \npraktik konstitusional yang berkembang belum berhasil menghilan gkan \nperdebatan mengenai ruang lingkup kewenangan Mahkamah Konstitus i \nkarena sumber ketidakpastian tersebut tetap berada dalam rumusa n \nnorma undang-undang yang berlaku.",
+      "start_line": 1240,
+      "end_line": 1246
+    },
+    {
+      "heading": "69. Bahwa apabila norma a quo benar-benar telah memberikan kepastian",
+      "slug": "69-bahwa-apabila-norma-a-quo-benar-benar-telah-memberikan-kepastian",
+      "text": "hukum yang memadai, maka perdebatan fundamental mengenai \nkewenangan Mahkamah Konstitusi tersebut seharusnya tidak lagi muncul \ndalam setiap siklus pemilu. Akan tetapi, fakta empiris menunjuk kan \nsebaliknya. Perdebatan yang sama terus berulang, baik di antara  para \npihak, para ahli hukum tata negara, maupun bahkan dalam lingkun gan \nMahkamah Konstitusi sendiri.",
+      "start_line": 1248,
+      "end_line": 1253
+    },
+    {
+      "heading": "70. Bahwa ketidakpastian hukum tersebut pada hakikatnya tidak b ersumber",
+      "slug": "70-bahwa-ketidakpastian-hukum-tersebut-pada-hakikatnya-tidak-b-ersumber",
+      "text": "dari ketiadaan praktik konstitusional, melainkan dari tidak adanya jaminan \nnormatif yang secara tegas menyelaraskan rumusan Pasal 475 ayat  (2) \nUU Pemilu dengan praktik konstitusional yang telah berkembang. \nAkibatnya, perlindungan terhadap hak-hak konstitusional warga n egara \nmasih bergantung pada penafsiran hakim dalam setiap perkara, bu kan \npada norma hukum yang secara eksplisit memberikan kepastian.",
+      "start_line": 1255,
+      "end_line": 1260
+    },
+    {
+      "heading": "71. Bahwa dalam Putusan Mahkamah Konstitusi Nomor 1/PHPU.PRES-",
+      "slug": "71-bahwa-dalam-putusan-mahkamah-konstitusi-nomor-1-phpu-pres",
+      "text": "XXII/2024, khususnya pada halaman 864–865, Hakim Konstitusi Saldi Isra \nmenegaskan bahwa apabila terdapat indikasi tidak terpenuhinya a sas-\n\n \n \n \n \n33\nasas dan prinsip-prinsip pemilu pada tahapan sebelum penetapan hasil \npemilu, Mahkamah Konstitusi tidak memiliki alasan untuk menghindar dari \nkewajibannya mengadili sepanjang pelanggaran tersebut memiliki \nketerkaitan dan pengaruh terhadap hasil perolehan suara. Pertimbangan \ntersebut semakin menegaskan bahwa secara konstitusional hasil p emilu \ntidak dapat dipisahkan dari proses yang melahirkannya.",
+      "start_line": 1262,
+      "end_line": 1275
+    },
+    {
+      "heading": "72. Bahwa meskipun demikian, pertimbangan hukum dalam putusan perkara",
+      "slug": "72-bahwa-meskipun-demikian-pertimbangan-hukum-dalam-putusan-perkara",
+      "text": "konkret tetap tidak dapat disamakan dengan kepastian normatif yang lahir \ndari putusan pengujian undang-undang. Putusan dalam perkara \nperselisihan hasil pemilu pada dasarnya lahir dalam konteks in casu , \nsedangkan putusan pengujian undang-undang memiliki daya ikat um um \n(erga omnes ) yang memberikan kepastian hukum bagi seluruh warga \nnegara dan seluruh penyelenggaraan pemilu pada masa yang akan \ndatang.",
+      "start_line": 1277,
+      "end_line": 1283
+    },
+    {
+      "heading": "73. Bahwa tanpa adanya penegasan normatif melalui putusan pengu jian",
+      "slug": "73-bahwa-tanpa-adanya-penegasan-normatif-melalui-putusan-pengu-jian",
+      "text": "undang-undang, praktik konstitusional yang selama ini berkembang tetap \nberpotensi mengalami perubahan seiring dengan perubahan komposi si \nhakim konstitusi ataupun perubahan pendekatan penafsiran hukum yang \ndianut oleh Mahkamah Konstitusi pada masa mendatang. Dalam keadaan \ndemikian, tidak terdapat jaminan konstitusional bahwa penafsira n \nprogresif yang berlaku saat ini akan terus dipertahankan.",
+      "start_line": 1285,
+      "end_line": 1290
+    },
+    {
+      "heading": "74. Bahwa oleh karena itu, permohonan a quo tidak dimaksudkan untuk",
+      "slug": "74-bahwa-oleh-karena-itu-permohonan-a-quo-tidak-dimaksudkan-untuk",
+      "text": "memperluas kewenangan Mahkamah Konstitusi di luar praktik yang telah \nberjalan selama ini. Sebaliknya, permohonan a quo  diajukan untuk \nmengubah praktik konstitusional yang selama ini hidup dalam \nyurisprudensi menjadi kepastian normatif yang mengikat secara u mum \n(erga omnes), sehingga perlindungan terhadap prinsip kedaulatan rakyat, \npemilu yang jujur dan adil, kewenangan Mahkamah Konstitusi dala m \nmenyelesaikan perselisihan hasil pemilu, serta hak atas kepastian hukum \nyang adil memperoleh jaminan konstitusional yang lebih kuat dan  \nberkelanjutan.",
+      "start_line": 1292,
+      "end_line": 1300
+    },
+    {
+      "heading": "75. Bahwa dengan demikian, justru karena Mahkamah Konstitusi se lama ini",
+      "slug": "75-bahwa-dengan-demikian-justru-karena-mahkamah-konstitusi-se-lama-ini",
+      "text": "telah mempraktikkan penafsiran yang lebih luas terhadap frasa \" hasil \npemilihan umum\", maka terdapat alasan yang semakin kuat bagi \n\n \n \n \n \n34\nMahkamah Konstitusi untuk menegaskan makna konstitusional Pasal 475 \nayat (2) UU Pemilu agar selaras dengan Pasal 1 ayat (2), Pasal 22E ayat \n(1), Pasal 24C ayat (1), dan Pasal 28D ayat (1) UUD NRI Tahun 1945 serta \nmemberikan kepastian hukum yang mengikat bagi seluruh pihak pad a \nmasa kini maupun masa yang akan datang. \nB. Pertentangan Pasal 475 ayat (2) UU Pemilu terhadap Hak Atas Kepastian \nHukum Yang Adil [Pasal 28D ayat (1) UUD NRI Tahun 1945]",
+      "start_line": 1302,
+      "end_line": 1316
+    },
+    {
+      "heading": "76. Bahwa Pasal 28D ayat (1) UUD NRI Tahun 1945 menjamin:",
+      "slug": "76-bahwa-pasal-28d-ayat-1-uud-nri-tahun-1945-menjamin",
+      "text": "\"Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum”.",
+      "start_line": 1318,
+      "end_line": 1320
+    },
+    {
+      "heading": "77. Bahwa hak atas kepastian hukum yang adil merupakan pilar fundamental",
+      "slug": "77-bahwa-hak-atas-kepastian-hukum-yang-adil-merupakan-pilar-fundamental",
+      "text": "negara hukum (rechtsstaat) sebagaimana ditegaskan dalam Pasal 1 ayat \n(3) UUD NRI Tahun 1945. Mahkamah Konstitusi dalam berbagai \nputusannya telah menegaskan bahwa kepastian hukum yang adil \nmenghendaki norma hukum yang bersifat lex certa, lex stricta , tidak \nmultitafsir, serta mampu memberikan pedoman yang dapat diprediksi oleh \nwarga negara dalam penggunaan hak konstitusionalnya. Oleh karena itu, \nnorma yang membuka ruang tafsir saling bertentangan dalam \npenerapannya pada hakikatnya telah menggerus kepastian hukum it u \nsendiri sebagaimana dijamin Pasal 28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 1322,
+      "end_line": 1330
+    },
+    {
+      "heading": "78. Bahwa secara tekstual Pasal 475 ayat (2) Undang-Undang Nomo r 7",
+      "slug": "78-bahwa-secara-tekstual-pasal-475-ayat-2-undang-undang-nomo-r-7",
+      "text": "Tahun 2017 tentang Pemilihan Umum menyatakan: \n\"Keberatan sebagaimana dimaksud pada ayat (1) hanya terhadap ha sil \npenghitungan suara yang memengaruhi penentuan terpilihnya Pasangan \nCalon atau penentuan untuk dipilih kembali pada Pemilu Presiden  dan \nWakil Presiden”.",
+      "start_line": 1332,
+      "end_line": 1336
+    },
+    {
+      "heading": "79. Bahwa dalam praktik peradilan konstitusional, Mahkamah Kons titusi",
+      "slug": "79-bahwa-dalam-praktik-peradilan-konstitusional-mahkamah-kons-titusi",
+      "text": "secara konsisten tidak hanya memeriksa aspek kuantitatif penghi tungan \nsuara, tetapi juga menilai pelanggaran proses yang terbukti mem iliki \nketerkaitan dan pengaruh terhadap hasil pemilu. Praktik tersebu t telah \nberkembang sejak Perselisihan Hasil Pemilihan Umum Presiden Tah un \n2004 hingga Pemilu Tahun 2024. Bahkan dalam Putusan Mahkamah \nKonstitusi Nomor 01/PHPU-PRES/XVII/2019, Mahkamah menegaskan \n\n \n \n \n \n35\nbahwa kewenangannya tidak semata-mata terbatas pada angka-angka  \nhasil penghitungan suara, melainkan juga mencakup penilaian ter hadap \npelanggaran yang berkaitan langsung dengan tahapan dan integrit as \nhasil pemilu. Penegasan serupa kembali tampak dalam Putusan \nMahkamah Konstitusi Nomor 1/PHPU.PRES-XXII/2024, khususnya \nhalaman 864–865, ketika Hakim Konstitusi Saldi Isra menyatakan bahwa \nMahkamah tidak dapat menghindar  dari kewajiban mengadili apabil a \nterdapat indikasi pelanggaran asas dan prinsip pemilu pada taha pan \nsebelum penetapan hasil sepanjang berpengaruh terhadap peroleha n \nsuara.",
+      "start_line": 1338,
+      "end_line": 1359
+    },
+    {
+      "heading": "80. Bahwa di sisi lain, Pasal 475 ayat (2) UU Pemilu tetap menggunakan frasa",
+      "slug": "80-bahwa-di-sisi-lain-pasal-475-ayat-2-uu-pemilu-tetap-menggunakan-frasa",
+      "text": "“hanya terhadap hasil penghitungan suara”  yang secara gramatikal, \nsistematis, dan historis menunjukkan pembatasan objek sengketa pada \naspek kuantitatif semata. Akibatnya, terdapat ketegangan normatif antara \nbunyi undang-undang dengan praktik konstitusional Mahkamah Konstitusi yang \ntelah berkembang secara konsisten.",
+      "start_line": 1361,
+      "end_line": 1365
+    },
+    {
+      "heading": "81. Bahwa ketidaksesuaian tersebut menimbulkan ketidakpastian h ukum",
+      "slug": "81-bahwa-ketidaksesuaian-tersebut-menimbulkan-ketidakpastian-h-ukum",
+      "text": "yang nyata karena melahirkan dua arus penafsiran yang sama-sama  \nmemiliki dasar argumentasi. Pertama, penafsiran literal yang me mbatasi \nkewenangan Mahkamah Konstitusi hanya pada penghitungan suara. \nKedua, penafsiran konstitusional yang memandang bahwa hasil pem ilu \ntidak dapat dipisahkan dari proses yang melahirkannya, sehingga  \npelanggaran proses yang memengaruhi hasil tetap berada dalam lingkup \npemeriksaan Mahkamah Konstitusi.",
+      "start_line": 1367,
+      "end_line": 1373
+    },
+    {
+      "heading": "82. Bahwa ketidakpastian hukum tersebut bukan bersifat teoritis , melainkan",
+      "slug": "82-bahwa-ketidakpastian-hukum-tersebut-bukan-bersifat-teoritis-melainkan",
+      "text": "telah terbukti dalam praktik Perselisihan Hasil Pemilihan Umum Presiden \ndan Wakil Presiden Tahun 2024. Dalam perkara tersebut, Pasangan  \nCalon Nomor Urut 2 Prabowo Subianto–Gibran Rakabuming Raka sert a \nKomisi Pemilihan Umum mengajukan eksepsi yang pada pokoknya \nmenyatakan bahwa Mahkamah Konstitusi tidak berwenang memeriksa \ndalil kualitatif karena Pasal 475 ayat (2) UU Pemilu membatasi objek \nsengketa hanya pada hasil penghitungan suara. Fakta ini menunju kkan \nbahwa norma a quo  masih secara aktif dijadikan dasar pembatasan \nkewenangan konstitusional Mahkamah. \n\n \n \n \n \n36",
+      "start_line": 1375,
+      "end_line": 1389
+    },
+    {
+      "heading": "83. Bahwa apabila norma a quo benar-benar telah memberikan kepastian",
+      "slug": "83-bahwa-apabila-norma-a-quo-benar-benar-telah-memberikan-kepastian",
+      "text": "hukum yang memadai, maka perdebatan mendasar mengenai ruang \nlingkup kewenangan Mahkamah Konstitusi tidak akan terus berulan g \ndalam setiap siklus pemilu. Namun kenyataannya, perdebatan ters ebut \ntetap muncul secara konsisten, baik dalam argumentasi para piha k, \npendapat para ahli, maupun dalam dinamika internal peradilan konstitusi \nsendiri. Hal ini menunjukkan adanya problem normatif yang belum  \nterselesaikan secara memadai.",
+      "start_line": 1391,
+      "end_line": 1397
+    },
+    {
+      "heading": "84. Bahwa kerugian konstitusional Pemohon tidak terletak pada k etiadaan",
+      "slug": "84-bahwa-kerugian-konstitusional-pemohon-tidak-terletak-pada-k-etiadaan",
+      "text": "praktik pemeriksaan pelanggaran proses oleh Mahkamah Konstitusi , \nmelainkan pada ketiadaan jaminan normatif yang memastikan bahwa  \npraktik tersebut akan terus berlaku secara konsisten di masa mendatang. \nSelama frasa “hanya terhadap hasil penghitungan suara” tetap \ndipertahankan, selalu terbuka ruang bagi penafsiran restriktif yang dapat \nmengeliminasi pemeriksaan terhadap pelanggaran proses yang \nmemengaruhi hasil pemilu.",
+      "start_line": 1399,
+      "end_line": 1405
+    },
+    {
+      "heading": "85. Bahwa keadaan tersebut menimbulkan ancaman konstitusional y ang",
+      "slug": "85-bahwa-keadaan-tersebut-menimbulkan-ancaman-konstitusional-y-ang",
+      "text": "nyata terhadap hak Pemohon atas kepastian hukum yang adil. \nPerlindungan terhadap hak konstitusional warga negara dalam kon teks \npemilu menjadi bergantung pada dinamika penafsiran hakim dalam tiap \nperkara, bukan pada norma hukum yang secara tegas memberikan \njaminan kepastian. Kondisi demikian tidak sejalan dengan prinsip negara \nhukum yang menuntut adanya kepastian, konsistensi, dan prediktabilitas \ndalam penerapan hukum.",
+      "start_line": 1407,
+      "end_line": 1413
+    },
+    {
+      "heading": "86. Bahwa oleh karena itu, Pasal 475 ayat (2) UU Pemilu sepanjang memuat",
+      "slug": "86-bahwa-oleh-karena-itu-pasal-475-ayat-2-uu-pemilu-sepanjang-memuat",
+      "text": "frasa “hanya terhadap hasil penghitungan suara”  telah menimbulkan \nketidakpastian hukum yang nyata, aktual, dan berulang, sehingga  \nbertentangan dengan hak atas kepastian hukum yang adil sebagaim ana \ndijamin dalam Pasal 28D ayat (1) UUD NRI Tahun 1945. \nC. Pertentangan Pasal 475 ayat (2) UU Pemilu terhadap Pemilu Yang Jujur Dan \nAdil [Pasal 22E ayat (1) UUD NRI Tahun 1945]",
+      "start_line": 1415,
+      "end_line": 1420
+    },
+    {
+      "heading": "87. Bahwa Pasal 22E ayat (1) UUD NRI Tahun 1945 menyatakan:",
+      "slug": "87-bahwa-pasal-22e-ayat-1-uud-nri-tahun-1945-menyatakan",
+      "text": "\"Pemilihan umum dilaksanakan secara langsung, umum, bebas, rahasia, \njujur, dan adil setiap lima tahun sekali”. \n\n \n \n \n \n37",
+      "start_line": 1422,
+      "end_line": 1429
+    },
+    {
+      "heading": "88. Bahwa ketentuan a quo merupakan jaminan konstitusional yang bersifat",
+      "slug": "88-bahwa-ketentuan-a-quo-merupakan-jaminan-konstitusional-yang-bersifat",
+      "text": "fundamental bagi setiap warga negara untuk memperoleh \npenyelenggaraan pemilihan umum yang dilaksanakan secara langsun g, \numum, bebas, rahasia, jujur, dan adil sebagaimana diamanatkan d alam \nPasal 22E ayat (1) UUD NRI Tahun 1945. Jaminan konstitusional tersebut \ntidak hanya berkaitan dengan keabsahan hasil penghitungan suara  \nsecara prosedural, melainkan juga mencakup integritas seluruh t ahapan \npenyelenggaraan pemilihan umum sebagai suatu kesatuan proses ya ng \nutuh dan tidak terpisahkan, mulai dari pemutakhiran data pemili h, \npencalonan peserta pemilu, pelaksanaan kampanye, pemungutan dan  \npenghitungan suara, rekapitulasi hasil, hingga penetapan hasil pemilihan \numum. Dengan demikian, kemurnian hasil pemilihan umum secara \nkonstitusional merupakan refleksi dari penyelenggaraan seluruh tahapan \npemilu yang berlangsung sesuai dengan asas langsung, umum, beba s, \nrahasia, jujur, dan adil.",
+      "start_line": 1431,
+      "end_line": 1444
+    },
+    {
+      "heading": "89. Bahwa dalam perspektif konstitusional tersebut, validitas h asil pemilu",
+      "slug": "89-bahwa-dalam-perspektif-konstitusional-tersebut-validitas-h-asil-pemilu",
+      "text": "tidak dapat hanya diukur dari kebenaran aritmetika perolehan suara. Suatu \nhasil pemilu yang tampak benar secara kuantitatif tetap kehilan gan \nlegitimasi konstitusional apabila lahir dari proses yang cacat secara \nsistemik, termasuk pelanggaran yang bersifat terstruktur, sistematis, dan \nmasif seperti politik uang, penyalahgunaan kekuasaan, ketidakne tralan \naparatur negara, maupun distorsi terhadap kebebasan memilih. De ngan \ndemikian, integritas proses merupakan prasyarat konstitusional bagi \nsahnya hasil pemilu.",
+      "start_line": 1446,
+      "end_line": 1453
+    },
+    {
+      "heading": "90. Bahwa Mahkamah Konstitusi dalam berbagai putusannya, termas uk",
+      "slug": "90-bahwa-mahkamah-konstitusi-dalam-berbagai-putusannya-termas-uk",
+      "text": "Putusan Nomor 01/PHPU-PRES/XVII/2019 dan Putusan Nomor \n1/PHPU.PRES-XXII/2024, secara konsisten telah mengembangkan \npendekatan bahwa kewenangannya dalam memeriksa Perselisihan Hasil \nPemilihan Umum tidak dapat dibatasi secara kaku pada angka perolehan \nsuara semata, melainkan juga dapat menjangkau pelanggaran prose s \nyang terbukti memiliki keterkaitan langsung dan pengaruh signif ikan \nterhadap hasil pemilu. Bahkan dalam Putusan Nomor 1/PHPU.PRES-\nXXII/2024 halaman 864–865, Hakim Konstitusi Saldi Isra secara t egas \nmenegaskan bahwa Mahkamah tidak dapat menghindar dari kewajiban  \n\n \n \n \n \n38\nkonstitusionalnya untuk menguji pelanggaran asas dan prinsip pe milu \nsepanjang pelanggaran tersebut berimplikasi terhadap hasil pero lehan \nsuara.",
+      "start_line": 1455,
+      "end_line": 1472
+    },
+    {
+      "heading": "91. Bahwa dengan demikian, secara yurisprudensial telah terbent uk suatu",
+      "slug": "91-bahwa-dengan-demikian-secara-yurisprudensial-telah-terbent-uk-suatu",
+      "text": "konstruksi konstitusional bahwa hasil pemilu tidak berdiri send iri, \nmelainkan merupakan konsekuensi langsung dari proses yang \nmelahirkannya. Namun demikian, konstruksi tersebut tidak sejala n \ndengan rumusan normatif Pasal 475 ayat (2) UU Nomor 7 Tahun 201 7 \nyang secara eksplisit membatasi objek sengketa “hanya terhadap hasil \npenghitungan suara” , yang secara tekstual mengandung pembatasan \nyang bersifat rigid dan eksklusif.",
+      "start_line": 1474,
+      "end_line": 1480
+    },
+    {
+      "heading": "92. Bahwa ketidaksesuaian antara norma undang-undang dengan pra ktik",
+      "slug": "92-bahwa-ketidaksesuaian-antara-norma-undang-undang-dengan-pra-ktik",
+      "text": "konstitusional tersebut menimbulkan ketegangan normatif yang se rius \n(serious normative tension ), karena membuka ruang dua tafsir yang \nsama-sama memiliki legitimasi argumentatif. Di satu sisi, terda pat tafsir \nliteral yang membatasi kewenangan Mahkamah Konstitusi hanya pad a \nangka hasil penghitungan suara. Di sisi lain, terdapat tafsir konstitusional \nprogresif yang memandang bahwa pelanggaran proses yang \nmemengaruhi hasil tetap berada dalam lingkup pengujian Mahkamah  \nKonstitusi. Dualisme tafsir ini secara inheren melahirkan ketid akpastian \nhukum yang bersifat struktural.",
+      "start_line": 1482,
+      "end_line": 1490
+    },
+    {
+      "heading": "93. Bahwa ketidakpastian tersebut tidak bersifat teoritis, mela inkan telah",
+      "slug": "93-bahwa-ketidakpastian-tersebut-tidak-bersifat-teoritis-mela-inkan-telah",
+      "text": "terbukti dalam praktik Perselisihan Hasil Pemilihan Umum Presid en dan \nWakil Presiden Tahun 2024, di mana Pasangan Calon Nomor Urut 2 \nPrabowo Subianto–Gibran Rakabuming Raka serta Komisi Pemilihan \nUmum secara tegas mengajukan eksepsi bahwa Mahkamah Konstitusi \ntidak berwenang memeriksa dalil kualitatif karena Pasal 475 aya t (2) UU \nPemilu membatasi objek sengketa hanya pada hasil penghitungan suara. \nFakta ini menunjukkan bahwa norma a quo  masih berfungsi sebagai \ninstrumen pembatasan argumentatif yang aktif digunakan dalam pr oses \nperadilan konstitusional.",
+      "start_line": 1492,
+      "end_line": 1500
+    },
+    {
+      "heading": "94. Bahwa apabila norma a quo benar-benar telah memberikan kepastian",
+      "slug": "94-bahwa-apabila-norma-a-quo-benar-benar-telah-memberikan-kepastian",
+      "text": "hukum yang memadai, maka perdebatan mengenai batas kewenangan \nMahkamah Konstitusi tidak akan terus berulang dalam setiap sikl us \n\n \n \n \n \n39\npemilu. Namun kenyataannya, perdebatan tersebut justru bersifat repetitif \ndan sistemik, muncul kembali baik di tingkat para pihak, ahli h ukum, \nmaupun dalam dinamika internal penalaran Mahkamah Konstitusi sendiri. \nHal ini secara konklusif menunjukkan bahwa sumber ketidakpastia n \nbukan terletak pada praktik, melainkan pada ketidakjelasan dan \nketidakselarasan norma itu sendiri.",
+      "start_line": 1502,
+      "end_line": 1515
+    },
+    {
+      "heading": "95. Bahwa bagi Pemohon sebagai warga negara dan pemilih, ketida kpastian",
+      "slug": "95-bahwa-bagi-pemohon-sebagai-warga-negara-dan-pemilih-ketida-kpastian",
+      "text": "tersebut memiliki implikasi konstitusional yang nyata dan langs ung. \nPemohon tidak memperoleh jaminan yang dapat diprediksi mengenai  \napakah pelanggaran proses yang secara faktual memengaruhi hasil  \npemilu akan selalu dapat diperiksa oleh Mahkamah Konstitusi, atau justru \ndikesampingkan apabila norma a quo ditafsirkan secara sempit. Dengan \ndemikian, perlindungan hak konstitusional Pemohon menjadi bergantung \npada variabilitas penafsiran, bukan pada kepastian norma hukum yang \nseharusnya bersifat stabil dan mengikat.",
+      "start_line": 1517,
+      "end_line": 1524
+    },
+    {
+      "heading": "96. Bahwa oleh karena itu, Pasal 475 ayat (2) UU Nomor 7 Tahun 2017",
+      "slug": "96-bahwa-oleh-karena-itu-pasal-475-ayat-2-uu-nomor-7-tahun-2017",
+      "text": "sepanjang frasa “hanya terhadap hasil penghitungan suara” secara nyata \ntelah menciptakan ketidakselarasan antara norma undang-undang d an \nprinsip konstitusional pemilu yang jujur dan adil sebagaimana d ijamin \nPasal 22E ayat (1) UUD NRI Tahun 1945. Ketentuan a quo tidak hanya \nmenimbulkan ketidakpastian hukum, tetapi juga berpotensi melema hkan \njaminan integritas pemilu karena membuka ruang pembatasan \nkewenangan Mahkamah Konstitusi secara sempit dan tidak selaras \ndengan konstruksi konstitusional yang telah berkembang. \nD. Pertentangan Pasal 475 ayat (2) UU Pemilu Terhadap Kedaulatan Rakyat \n[Pasal 1 ayat (2) UUD NRI Tahun 1945] Dan Hak Pilih Warga Negara",
+      "start_line": 1526,
+      "end_line": 1535
+    },
+    {
+      "heading": "97. Bahwa Pasal 1 ayat (2) UUD NRI Tahun 1945 menegaskan:",
+      "slug": "97-bahwa-pasal-1-ayat-2-uud-nri-tahun-1945-menegaskan",
+      "text": "“Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-\nUndang Dasar”.",
+      "start_line": 1537,
+      "end_line": 1538
+    },
+    {
+      "heading": "98. Bahwa dalam kerangka hukum internasional, prinsip kedaulata n rakyat",
+      "slug": "98-bahwa-dalam-kerangka-hukum-internasional-prinsip-kedaulata-n-rakyat",
+      "text": "tersebut memperoleh penguatan normatif yang tegas dalam Pasal 2 1 \nDeklarasi Universal Hak Asasi Manusia (DUHAM) yang menyatakan \nbahwa kehendak rakyat harus menjadi dasar otoritas pemerintah, yang \n\n \n \n \n \n40\nharus dinyatakan dalam pemilihan umum yang jujur, berkala, dengan hak \npilih universal dan setara, serta dilakukan dengan prosedur yang menjamin \nkebebasan memilih. \nSejalan dengan itu, Pasal 25 International Covenant on Civil and Political \nRights (ICCPR) menegaskan bahwa setiap warga negara berhak untuk: \n Berpartisipasi dalam urusan publik, secara langsung maupun melalui \nwakil yang dipilih secara bebas; \n Memilih dan dipilih dalam pemilihan umum berkala yang jujur, dengan \nhak pilih yang universal dan setara, serta pemungutan suara yan g \nmenjamin kebebasan kehendak pemilih. \nBahwa ketentuan tersebut menegaskan bahwa prinsip kedaulatan rakyat \nmerupakan salah satu sendi fundamental dalam penyelenggaraan negara \ndemokratis, yang pelaksanaannya diwujudkan melalui penyelenggar aan \npemilihan umum sebagaimana diatur dalam UUD Negara Republik \nIndonesia Tahun 1945. Prinsip tersebut hanya dapat diwujudkan s ecara \nnyata apabila proses pemilihan umum diselenggarakan secara langsung, \numum, bebas, rahasia, jujur, dan adil, sehingga setiap hasil pe milihan \numum benar-benar mencerminkan kehendak rakyat sebagai pemegang \nkedaulatan. \nBahwa sejalan dengan doktrin hukum tata negara modern, Prof. Dr. Jimly \nAsshiddiqie menegaskan bahwa kedaulatan rakyat dalam negara hukum \ntidak dapat diekspresikan secara serampangan, melainkan harus \ndikanalisasi melalui mekanisme hukum yang sah dan valid. Dengan  \ndemikian, suara rakyat hanya memiliki nilai konstitusional apab ila lahir \ndari proses elektoral yang tidak cacat hukum.",
+      "start_line": 1540,
+      "end_line": 1573
+    },
+    {
+      "heading": "99. Bahwa kedaulatan rakyat dalam perspektif konstitusional ber sifat",
+      "slug": "99-bahwa-kedaulatan-rakyat-dalam-perspektif-konstitusional-ber-sifat",
+      "text": "substantif, bukan sekadar prosedural formalistik. Pemilu tidak hanya \ndimaknai sebagai proses pemberian suara, tetapi sebagai mekanis me \nkonversi kehendak rakyat menjadi legitimasi kekuasaan negara. \nMahkamah Konstitusi dalam Putu san Nomor 102/P UU-VII/2009 dan \nPutusan Nomor 14/PUU-XI/2013 telah menegaskan bahwa demokrasi \nelektoral harus memenuhi asas substantif, yakni jujur dan adil,  sebagai \n\n \n \n \n \n41\nprasyarat legitimasi konstitusional. \nBahwa dalam perspektif ilmu politik dan hukum tata negara, Miri am \nBudiardjo menegaskan bahwa pemilihan umum bukan hanya mekanisme \npergantian kekuasaan, tetapi juga instrumen legitimasi politik, yang hanya \nsah apabila dilaksanakan secara jujur dan adil.",
+      "start_line": 1575,
+      "end_line": 1591
+    },
+    {
+      "heading": "100. Bahwa dalam doktrin kedaulatan rakyat modern berlaku prinsip legitimasi",
+      "slug": "100-bahwa-dalam-doktrin-kedaulatan-rakyat-modern-berlaku-prinsip-legitimasi",
+      "text": "derivatif (derivative legitimacy), yaitu bahwa legitimasi hasil pemilu hanya \nsah apabila diturunkan dari proses yang sah. Dengan demikian, p roses \nyang cacat akan melahirkan hasil yang cacat ( product of a flawed \nprocess), sekalipun secara matematis penghitungan suara tampak benar. \nBahwa sejalan dengan itu, Dahlan Thaib menegaskan bahwa pemilu \nmerupakan instrumen paling konkret dari pelaksanaan kedaulatan rakyat, \nsehingga setiap kecurangan dalam proses pemilu pada hakikatnya \nmerusak validitas kehendak rakyat itu sendiri.",
+      "start_line": 1593,
+      "end_line": 1600
+    },
+    {
+      "heading": "101. Bahwa Pasal 475 ayat (2) UU 7/2017 yang membatasi objek se ngketa",
+      "slug": "101-bahwa-pasal-475-ayat-2-uu-7-2017-yang-membatasi-objek-se-ngketa",
+      "text": "hanya pada “hasil penghitungan suara” menimbulkan reduksi norma tif \nterhadap makna kedaulatan rakyat sebagaimana dijamin Pasal 1 ayat (2) \nUUD 1945 dan hak pilih warga negara dalam instrumen HAM \ninternasional. Reduksi ini menciptakan ketegangan konstitusional karena \nmengabaikan prinsip fundamental bahwa hasil pemilu tidak dapat \ndipisahkan dari proses yang melahirkannya. \nBahwa dalam konteks tersebut muncul dualisme konstruksi hukum (legal \ndualism), yaitu:",
+      "start_line": 1602,
+      "end_line": 1609
+    },
+    {
+      "heading": "1. Pendekatan normatif-formal yang membatasi kewenangan",
+      "slug": "1-pendekatan-normatif-formal-yang-membatasi-kewenangan",
+      "text": "Mahkamah Konstitusi hanya pada hasil penghitungan suara; dan",
+      "start_line": 1611,
+      "end_line": 1611
+    },
+    {
+      "heading": "2. Pendekatan konstitusional-progresif yang mengakui bahwa",
+      "slug": "2-pendekatan-konstitusional-progresif-yang-mengakui-bahwa",
+      "text": "pelanggaran proses yang memengaruhi hasil merupakan bagian dari \nobjek pemeriksaan. \nDualisme ini melahirkan ketidakpastian yang bersifat sistemik d an \nstruktural dalam perlindungan kedaulatan rakyat.",
+      "start_line": 1613,
+      "end_line": 1616
+    },
+    {
+      "heading": "102. Bahwa bagi Pemohon sebagai pemilih, prinsip kedaulatan rak yat",
+      "slug": "102-bahwa-bagi-pemohon-sebagai-pemilih-prinsip-kedaulatan-rak-yat",
+      "text": "sebagaimana diatur dalam Pasal 1 ayat (2) UUD NRI Tahun 1945 \n\n \n \n \n \n42\nmemperoleh makna konkret melalui pelaksanaan hak pilih dalam \npemilihan umum. Oleh karena itu, Pemohon memiliki kepentingan \nkonstitusional agar suara yang telah diberikan dalam pemungutan  suara \ndihitung secara jujur, adil, dan dikonversi menjadi hasil pemil ihan umum \nyang sah berdasarkan prinsip-prinsip konstitusi. Apabila pelang garan \nproses penyelenggaraan pemilihan umum yang berpengaruh terhadap  \nhasil tidak memperoleh mekanisme pemeriksaan yang jelas dan \nkonsisten oleh Mahkamah Konstitusi, maka perlindungan terhadap hak \npilih Pemohon sebagai perwujudan pelaksanaan prinsip kedaulatan  \nrakyat menjadi tidak efektif dan berpotensi mengurangi kemurnia n \nkehendak rakyat yang seharusnya tercermin dalam hasil pemilihan  \numum.",
+      "start_line": 1618,
+      "end_line": 1636
+    },
+    {
+      "heading": "103. Bahwa ketidakpastian mengenai apakah Mahkamah Konstitusi a kan",
+      "slug": "103-bahwa-ketidakpastian-mengenai-apakah-mahkamah-konstitusi-a-kan",
+      "text": "menggunakan pendekatan literal atau progresif terhadap Pasal 47 5 ayat \n(2) UU 7/2017 berpotensi menggeser makna kedaulatan rakyat dari  \nprinsip substantif menjadi sekadar mekanisme administratif. Dal am \nkondisi demikian, kedaulatan rakyat tidak lagi berfungsi sebaga i sumber \nlegitimasi kekuasaan, melainkan hanya sebagai prosedur formal t anpa \njaminan integritas hasil. \nBahwa kondisi tersebut bertentangan dengan prinsip constitutional rule of \nlaw, karena dalam negara hukum konstitusional, kekuasaan tidak han ya \nharus berasal dari rakyat, tetapi juga harus dipastikan lahir d ari proses \nyang sah, jujur, dan tidak tercemar oleh pelanggaran fundamental.",
+      "start_line": 1638,
+      "end_line": 1647
+    },
+    {
+      "heading": "104. Bahwa dengan demikian, Pasal 475 ayat (2) UU 7/2017 sepanj ang",
+      "slug": "104-bahwa-dengan-demikian-pasal-475-ayat-2-uu-7-2017-sepanj-ang",
+      "text": "membatasi objek sengketa hanya pada “hasil penghitungan suara”, telah \nmenimbulkan ketidakpastian normatif, reduksi makna kedaulatan r akyat, \nserta penyimpangan dari standar internasional pemilu yang jujur dan adil, \nsebagaimana dijamin dalam Pasal 1 ayat (2) UUD NRI Tahun 1945, \nDUHAM Pasal 21, dan ICCPR Pasal 25, sehingga bertentangan dengan \nkonstitusi dan prinsip universal electoral integrity. \nE. Pertentangan Pasal 475 ayat (2) UU Pemilu Terhadap Kewenanga n \nKonstitusional Mahkamah Konstitusi Dalam Memutus Perselisihan \nTentang Hasil Pemilihan Umum [Pasal 24C ayat (1) UUD NRI Tahun 1945] \n\n \n \n \n \n43",
+      "start_line": 1649,
+      "end_line": 1663
+    },
+    {
+      "heading": "105. Bahwa Pasal 24C ayat (1) UUD NRI Tahun 1945 menyatakan:",
+      "slug": "105-bahwa-pasal-24c-ayat-1-uud-nri-tahun-1945-menyatakan",
+      "text": "Mahkamah Konstitusi berwenang mengadili pada tingkat pertama da n \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap UndangUndang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh U ndangUndang \nDasar, memutus pembubaran partai politik, dan memutus perselisi han \ntentang hasil pemilihan umum.",
+      "start_line": 1665,
+      "end_line": 1670
+    },
+    {
+      "heading": "106. Bahwa frasa “perselisihan tentang hasil pemilihan umum” da lam norma",
+      "slug": "106-bahwa-frasa-perselisihan-tentang-hasil-pemilihan-umum-da-lam-norma",
+      "text": "konstitusional tersebut memiliki makna luas ( broad constitutional \nmeaning) dan tidak dapat direduksi hanya pada aspek numerik berupa \nhasil penghitungan suara. Secara gramatikal, kata “tentang” ber arti \n“mengenai” atau “berkenaan dengan”, sehingga mencakup seluruh \nrangkaian peristiwa elektoral yang berkaitan dengan hasil pemil u, \ntermasuk proses yang melahirkannya. \nBahwa ketentuan tersebut memberikan jaminan konstitusional mengenai \ntersedianya mekanisme penyelesaian perselisihan tentang hasil \npemilihan umum melalui Mahkamah Konstitusi sebagai pelaksana \nkewenangan yang diberikan langs ung oleh UUD NRI Tahun 1945. \nMekanisme tersebut merupakan instrumen konstitusional untuk \nmemastikan bahwa setiap perselisihan mengenai hasil pemilihan u mum \nmemperoleh penyelesaian yang utuh, efektif, dan berkeadilan \nkonstitusional, sehingga hak-hak konstitusional warga negara se bagai \npemilih tetap terlindungi.",
+      "start_line": 1672,
+      "end_line": 1686
+    },
+    {
+      "heading": "107. Bahwa dalam praktik ketatanegaraan, Mahkamah Konstitusi me lalui",
+      "slug": "107-bahwa-dalam-praktik-ketatanegaraan-mahkamah-konstitusi-me-lalui",
+      "text": "berbagai putusan, termasuk Putusan Nomor 01/PHPU-PRES/XVII/2019  \ndan Putusan Nomor 1/PHPU.PRES-XXII/2024, telah mengembangkan \npendekatan bahwa pemeriksaan sengketa hasil pemilu tidak hanya \nterbatas pada angka hasil penghitungan suara, tetapi juga menca kup \npelanggaran proses yang memiliki pengaruh signifikan terhadap h asil \npemilu. \nBahwa walaupun dalam praktiknya Mahkamah Konstitusi telah \nmengembangkan penafsiran progresif tersebut, namun secara norma tif \nPasal 475 ayat (2) UU 7/2017 masih menggunakan pembatasan tekstual \n\n \n \n \n \n44\nyang hanya merujuk pada “hasil penghitungan suara”. Dengan demikian, \nperkembangan praktik tersebut merupakan jurisprudential develop ment \nyang tidak menghapus karakter limitatif norma undang-undang. \nBahwa oleh karena itu, terdapat kesenjangan antara praktik konstitusional \nyang berkembang ( evolving constitutional practice ) dengan rumusan \nnorma undang-undang yang bersifat restriktif ( statutory limitation), yang \nmenimbulkan potensi ketidakpastian hukum dalam penerapan \nkewenangan Mahkamah Konstitusi di masa depan. \nKomparasi Internasional Mengenai Model Penyelesaian Sengketa Pemilu \nBahwa walaupun dalam praktik ketatanegaraan Mahkamah Konstitusi  t e l a h  \nmengembangkan penafsiran yang lebih progresif mengenai kewenang annya \ndalam memeriksa perselisihan hasil pemilihan umum, namun secara  normatif \nPasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tentang Pem ilihan \nUmum masih mempertahankan rumusan yang membatasi objek sengketa  \nhanya terhadap \"hasil penghitungan suara\". Perkembangan tersebu t \nmerupakan bentuk jurisprudential development yang lahir dari praktik peradilan \nkonstitusi, namun tidak menghilangkan sifat limitatif norma und ang-undang \nyang menjadi objek pengujian dalam permohonan a quo. \nBahwa keadaan tersebut menunjukkan adanya kesenjangan antara pr aktik \nkonstitusional yang berkembang ( evolving constitutional practice ) dengan \nrumusan norma undang-undang yang masih bersifat restriktif ( statutory \nlimitation). Kesenjangan demikian berpotensi menimbulkan ketidakpastian \nhukum karena ruang lingkup kewenangan Mahkamah Konstitusi berga ntung \npada perkembangan yurisprudensi, bukan memperoleh jaminan secar a \neksplisit dalam norma undang-undang. \nBahwa dalam perspektif hukum tata negara perbandingan ( comparative \nconstitutional law ), perkembangan sistem penyelesaian sengketa pemilu di \nberbagai negara demokrasi modern menunjukkan kecenderungan yang  sama, \nyakni bahwa penyelesaian sengketa hasil pemilu tidak dipahami secara sempit \nsebagai sengketa mengenai angka hasil penghitungan suara semata , \nmelainkan juga mencakup pemeriksaan terhadap integritas proses \npenyelenggaraan pemilu yang melahirkan hasil tersebut. Dengan k ata lain, \n\n \n \n \n \n45\nlegitimasi hasil pemilu dipandang sebagai konsekuensi langsung dari legitimasi \nproses yang mendahuluinya. \n Bahwa di Republik Federatif Brasil, penyelesaian sengketa pemi lu \ndilaksanakan melalui sistem Justiça Eleitoral yang dibentuk berdasarkan \nKonstitusi Brasil Tahun 1988. Sistem tersebut merupakan sistem peradilan \npemilu yang terintegrasi dan memiliki kewenangan sejak tahapan pra-pemilu, \npelaksanaan pemilu, hingga penyelesaian sengketa pasca-pemilu. Struktur \nkelembagaan tersebut terdiri atas Tribunal Superior Eleitoral di tingkat \nnasional, Tribunais Regionais Eleitorais di setiap negara bagian, serta \npengadilan pemilu pada tingkat lokal yang secara keseluruhan me ncakup \nlebih dari 5.500 zona pemilu. Melalui sistem demikian, pelanggaran terhadap \ntahapan proses yang terbukti memengaruhi hasil pemilu menjadi bagian yang \ntidak terpisahkan dari objek pemeriksaan peradilan pemilu, sehi ngga \nintegritas proses dan legitimasi hasil dipandang sebagai satu kesatuan yang \nutuh. \n Bahwa Republik Uruguay sejak tahun 1924 telah membentuk Corte Electoral \nsebagai lembaga pemilu permanen yang independen dan memiliki fu ngsi \nadministratif sekaligus yudisial. Lembaga tersebut tidak hanya bertanggung \njawab menyelenggarakan pemilu dan mengelola daftar pemilih, tet api juga \nmemiliki kewenangan sebagai peradilan terakhir dalam seluruh se ngketa \nyang timbul selama proses pemilu. Model kelembagaan tersebut \nmenunjukkan bahwa perlindungan terhadap hasil pemilu dilakukan melalui \npengawasan terhadap keseluruhan proses penyelenggaraan pemilu, bukan \nhanya terhadap hasil numerik pada tahap akhir. \n Bahwa Republik Austria memberikan kewenangan penyelesaian seng keta \npemilu kepada Verfassungsgerichtshof (Mahkamah Konstitusi Austria). \nBerdasarkan Pasal 141 Konstitusi Federal Austria dan ketentuan § 70 \nVerfassungsgerichtshofgesetz Tahun 1953, Mahkamah Konstitusi Austria \ndapat membatalkan hasil pemilu apabila terbukti terdapat pelang garan \nhukum dalam proses pemilu yang berpengaruh terhadap hasil akhir nya. \nPendekatan tersebut menunjukkan bahwa hubungan antara proses dan hasil \npemilu dipandang sebagai hubungan yang tidak dapat dipisahkan. \nPenerapan prinsip tersebut tampak secara nyata dalam Putusan Mahkamah \nKonstitusi Austria mengenai Pemilihan Presiden Federal Tahun 20 16 yang \n\n \n \n \n \n46\nmemerintahkan pemungutan suara ulang secara nasional setelah ditemukan \npelanggaran prosedural dalam penghitungan surat suara melalui p os yang \nberpotensi memengaruhi hasil pemilu, meskipun tidak pernah dibu ktikan \nadanya manipulasi suara secara langsung. \n Bahwa Republik Afrika Selatan menggunakan model hybrid electoral justice \nmelalui Independent Electoral Commission yang menjalankan fungsi \nadministratif sekaligus penyelesaian sengketa pada tingkat awal . Model \ntersebut dibangun atas asumsi bahwa efektivitas perlindungan ha k \nkonstitusional pemilih hanya dapat diwujudkan apabila mekanisme  \npenyelesaian sengketa mampu mengoreksi pelanggaran proses secara cepat \nsebelum hasil pemilu memperoleh legitimasi final. Pendekatan de mikian \nmenunjukkan bahwa perlindungan terhadap integritas pemilu tidak  berhenti \npada tahap penghitungan suara semata. \n Bahwa sebaliknya, praktik di Malaysia menunjukkan kecenderunga n yang \nlebih formalistik melalui Election Court , di mana banyak permohonan \nsengketa pemilu tidak diperiksa pokok perkaranya karena terkendala syarat-\nsyarat prosedural. Pendekatan demikian sering dikritik dalam berbagai kajian \nakademik karena berpotensi mengorbankan keadilan substantif dan  \nmengurangi efektivitas perlindungan hak konstitusional warga negara dalam \nproses pemilu. Pengalaman tersebut memberikan pelajaran bahwa \npembatasan kewenangan secara terlalu sempit justru dapat mengur angi \nlegitimasi demokrasi itu sendiri. \n Bahwa dari berbagai praktik ketatanegaraan tersebut dapat disi mpulkan \nbahwa negara-negara demokrasi modern pada umumnya mengembangkan  \nsistem electoral justice yang menempatkan integritas proses sebagai bagian \nyang tidak terpisahkan dari legitimasi hasil pemilu. Dengan demikian, konsep \nhasil pemilu tidak dipahami hanya sebagai angka hasil penghitun gan suara, \nmelainkan sebagai hasil yang lahir dari proses penyelenggaraan pemilu yang \ndemokratis, jujur, adil, bebas, dan berintegritas. \n Bahwa berbagai penelitian komparatif juga menunjukkan bahwa le gitimasi \nhasil pemilu merupakan bentuk legitimasi yang bersifat derivati f (derivative \nlegitimacy), yakni legitimasi yang hanya dapat lahir apabila keseluruhan \nproses penyelenggaraan pemilu memenuhi prinsip-prinsip demokras i \nkonstitusional. Oleh karena itu, setiap pelanggaran proses yang  memiliki \n\n \n \n \n \n47\npengaruh nyata terhadap hasil pemilu merupakan bagian yang secara \nkonstitusional layak diperiksa dalam mekanisme penyelesaian sen gketa hasil \npemilu. \n Bahwa dibandingkan dengan praktik negara-negara demokrasi ters ebut, \nketentuan Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tentang \nPemilihan Umum justru membatasi objek sengketa hanya terhadap \" hasil \npenghitungan suara\". Pembatasan demikian menjadikan Indonesia s ebagai \nsalah satu negara yang secara normatif masih mempertahankan pendekatan \nyang lebih restriktif dibandingkan perkembangan electoral justice dalam \npraktik ketatanegaraan modern. \n Bahwa standar internasional yang dikembangkan oleh Internation al IDEA \nmelalui Electoral Justice Framework juga menegaskan bahwa sistem \npenyelesaian sengketa pemilu yang efektif harus memberikan ruan g bagi \nlembaga peradilan untuk memeriksa pelanggaran proses ( process-affecting \nviolations) yang berpengaruh terhadap hasil pemilu. Dalam kerangka \ntersebut, legitimasi hasil pemilu merupakan konsekuensi langsun g dari \nintegritas proses penyelenggaraannya ( derivative legitimacy principle ), \nsehingga pembatasan objek sengketa hanya pada aspek numerik has il \npenghitungan suara tidak sejalan dengan prinsip electoral justice dan \nelectoral integrity yang telah berkembang sebagai standar internasional \ndalam negara demokrasi konstitusional modern. \n Bahwa oleh karena itu, pembatasan frasa \"hanya terhadap hasil \npenghitungan suara\" dalam Pasal 475 ayat (2) Undang-Undang Nomo r 7 \nTahun 2017 tentang Pemilihan Umum merupakan pembatasan yang tid ak \nsejalan dengan perkembangan hukum tata negara modern, praktik peradilan \nkonstitusi di berbagai negara demokrasi, maupun standar interna sional \nmengenai electoral justice. Norma a quo telah menimbulkan ketidakpastian \nhukum mengenai ruang lingkup kewenangan Mahkamah Konstitusi ser ta \nberpotensi menghambat pelaksanaan fungsi konstitusional Mahkama h \nKonstitusi sebagai penjaga konstitusi dan pelindung integritas pemilihan \numum sebagaimana dijamin dalam Pasal 22E ayat (1) dan Pasal 24C ayat (1) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945. \n Bahwa dari komparasi tersebut terlihat bahwa negara-negara dem okrasi \nmodern pada prinsipnya mengadopsi pendekatan electoral integrit y, yaitu \n\n \n \n \n \n48\nbahwa sengketa hasil pemilu tidak dapat dilepaskan dari evaluas i terhadap \nproses yang melahirkannya. Indonesia adalah satu-satunya negara di antara \nperbandingan tersebut yang secara normatif membatasi objek seng keta \nhanya pada “hasil penghitungan suara”. \n Bahwa dengan demikian, pembatasan objek sengketa hanya pada “hasil \npenghitungan suara” sebagaimana dalam Pasal 475 ayat (2) UU 7/2017 \nmerupakan pendekatan yang lebih sempit dibandingkan standar \nkonstitusional dan praktik negara demokrasi modern, sehingga menimbulkan \ndeviasi dalam desain electoral justice dibandingkan praktik umum negara \nhukum demokratis. \n Bahwa standar internasional melalui International IDEA ( Electoral Justice \nFramework) menegaskan bahwa sistem penyelesaian sengketa pemilu yang \nefektif harus mampu menguji pelanggaran proses yang memengaruhi  hasil \n(process-affecting violations), karena legitimasi pemilu bersifat derivatif dari \nintegritas proses (derivative legitimacy principle). \n Bahwa oleh karena itu, pembatasan yang bersifat absolut pada h asil numerik \nsemata tidak sejalan dengan prinsip electoral justice dan electoral integrity \nyang telah menjadi standar global dalam negara demokrasi konsti tusional \nmodern. \nNorma Konstitusi vs Norma Undang-Undang \n Bahwa Pasal 475 ayat (2) UU 7/2017 yang membatasi objek sengke ta \nhanya pada “hasil penghitungan suara” menciptakan reduksi norma tif \n(normative reduction) terhadap frasa konstitusional “perselisihan tentang \nhasil pemilihan umum” dalam Pasal 24C ayat (1) UUD NRI Tahun 1945. \n Bahwa reduksi tersebut menimbulkan ketegangan konstitusional \n(constitutional tension) karena menghilangkan dimensi proses dari objek \nsengketa hasil pemilu \n Bahwa ketegangan tersebut melahirkan fundamental incongruence \nantara norma konstitusi yang bersifat terbuka dan norma undang-undang \nyang bersifat limitatif, sehingga secara hierarkis tidak dapat dibenarkan \nberdasarkan prinsip lex superior derogat legi inferiori. \nDampak terhadap Pemohon \n Bahwa bagi Pemohon sebagai pemilih, ketidakpastian mengenai ru ang \n\n \n \n \n \n49\nlingkup kewenangan Mahkamah Konstitusi menimbulkan kerugian \nkonstitusional aktual dan potensial, karena perlindungan terhad ap suara \nyang diberikan menjadi bergantung pada variasi penafsiran kelembagaan, \nbukan pada kepastian norma. \n Bahwa bahkan dalam kondisi perubahan komposisi hakim Mahkamah \nKonstitusi di masa depan, tidak terdapat jaminan normatif bahwa  \npendekatan progresif akan tetap dipertahankan, sehingga dalil \npelanggaran proses dapat sewaktu-waktu dinyatakan tidak dapat \nditerima (niet ontvankelijk verklaard) tanpa pemeriksaan pokok perkara. \nBahwa dengan demikian, Pasal 475 ayat (2) UU 7/2017 sepanjang membatasi \nobjek sengketa hanya pada “hasil penghitungan suara” telah menimbulkan:",
+      "start_line": 1688,
+      "end_line": 1910
+    },
+    {
+      "heading": "3. ketidaksesuaian dengan prinsip electoral justice dalam hukum",
+      "slug": "3-ketidaksesuaian-dengan-prinsip-electoral-justice-dalam-hukum",
+      "text": "internasional, \nsehingga bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun 1 945 \ntentang kepastian hukum yang adil. \nF. KEWENANGAN KONSTITUSIONAL MAHKAMAH KONSTITUSI DALAM",
+      "start_line": 1914,
+      "end_line": 1917
+    },
+    {
+      "heading": "PENYELESAIAN SENGKETA HASIL PEMILU MENURUT PANDANGAN",
+      "slug": "penyelesaian-sengketa-hasil-pemilu-menurut-pandangan",
+      "text": "PROF. IWAN SATRIAWAN \nBahwa Pemohon merupakan mahasiswa aktif Fakultas Hukum Universi tas \nMuhammadiyah Yogyakarta yang memperoleh pembelajaran secara langsung \ndari Prof. Iwan Satriawan, Guru Besar Hukum Tata Negara Univers itas \nMuhammadiyah Yogyakarta, dalam mata kuliah Hukum Acara Mahkamah  \nKonstitusi. Dalam proses perkuliahan tersebut, Prof. Iwan Satri awan \nmenyampaikan materi mengenai kewenangan Mahkamah Konstitusi dal am \npenyelesaian perselisihan hasil pemilihan umum, yang dituangkan  dalam \nbahan ajar ( PowerPoint Presentation ) dan menjadi bagian dari proses \npembelajaran akademik Pemohon (vide Bukti P-9). \nBahwa materi perkuliahan tersebu t memiliki relevansi yang erat dengan \npermohonan a quo karena memuat pandangan akademik mengenai ruang \nlingkup kewenangan Mahkamah Konstitusi dalam memeriksa dan memu tus \nperselisihan hasil pemilihan umum, khususnya mengenai makna konstitusional \n\n \n \n \n \n50\nfrasa \"hasil penghitungan suara\" sebagaimana diatur dalam Pasal 475 ayat (2) \nUndang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum. \na. Mahkamah Konstitusi Bukan \"Mahkamah Kalkulator\" \nBahwa menurut pandangan Prof. Iwan Satriawan, penyelesaian pers elisihan \nhasil pemilihan umum oleh Mahkamah Konstitusi pada hakikatnya tidak dapat \ndipahami semata-mata sebagai proses verifikasi matematis terhad ap angka \nperolehan suara. Kewenangan Mahkamah Konstitusi dalam perkara \nperselisihan hasil pemilihan umum merupakan kewenangan konstitu sional \nyang bertujuan memastikan bahwa hasil pemilu benar-benar lahir dari proses \npenyelenggaraan pemilu yang sesuai dengan prinsip-prinsip konst itusi \nsebagaimana diatur dalam Pasal 22E ayat (1) Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945, yakni pemilu yang diselenggaraka n secara \nlangsung, umum, bebas, rahasia, jujur, dan adil. \nBahwa secara konseptual, hasil pemilu tidak dapat dipisahkan dari proses yang \nmelahirkannya. Hasil penghitungan suara merupakan produk akhir dari \nkeseluruhan tahapan penyelenggaraan pemilu. Oleh karena itu, apabila proses \ntersebut diwarnai oleh pelanggaran yang bersifat serius dan ter bukti \nmemengaruhi hasil akhir pemilu, maka pelanggaran tersebut secar a \nkonstitusional menjadi bagian yang tidak terpisahkan dari objek  pemeriksaan \nMahkamah Konstitusi. \nBahwa dalam materi perkuliahan Hukum Acara Mahkamah Konstitusi,  Prof. \nIwan Satriawan secara tegas menyatakan: \n\"Putusan terkait eksepsi ini menegaskan bahwa MK bukan Mahkamah  \nKalkulator. MK merupakan lembaga peradilan yang berwenang menga dili \nkonstitusionalitas pemilu, apakah pemilu itu dijalankan secara jujur dan adil \nsebagaimana diatur dalam Pasal 22E UUD 1945.\" \n(vide Bukti P-9). \nBahwa pandangan Prof. Iwan Satriawan tersebut menegaskan bahwa \nkewenangan Mahkamah Konstitusi dalam memeriksa perselisihan has il \npemilu tidak berhenti pada penghitungan angka perolehan suara ( vote \ncounting), melainkan juga mencakup penilaian terhadap integritas proses yang \nmenghasilkan angka tersebut. Dengan demikian, Mahkamah Konstitu si \nmenjalankan fungsi konstitusionalnya sebagai the guardian of the \nConstitution, yang bertugas memastikan bahwa hasil pemilu merupakan \n\n \n \n \n \n51\ncerminan dari proses demokrasi yang jujur, adil, dan sesuai den gan amanat \nkonstitusi. \nBahwa pandangan akademik tersebut juga sejalan dengan perkemban gan \npraktik ketatanegaraan dan yurisprudensi Mahkamah Konstitusi ya ng dalam \nberbagai putusan telah mempertimbangkan adanya pelanggaran pros es \npenyelenggaraan pemilu sepanjang pelanggaran tersebut terbukti memiliki \npengaruh yang signifikan terhadap hasil akhir pemilu. \nDengan demikian, konsep \"hasil pemilu\" dalam perspektif konstit usi memiliki \nmakna yang lebih luas daripada sekadar angka hasil penghitungan suara. \nBahwa oleh karena itu, frasa \"hanya terhadap hasil penghitungan suara\"  \nsebagaimana tercantum dalam Pasal 475 ayat (2) Undang-Undang No mor 7 \nTahun 2017 tentang Pemilihan Umum tidak dapat dimaknai secara s empit \nsebagai pembatasan kewenangan Mahkamah Konstitusi hanya terhada p \naspek numerik hasil penghitungan suara. Penafsiran demikian ber potensi \nmereduksi fungsi konstitusional Mahkamah Konstitusi dalam meneg akkan \nprinsip pemilu yang jujur dan adil, sekaligus mengabaikan hubun gan yang \ntidak terpisahkan antara proses penyelenggaraan pemilu dengan h asil yang \ndihasilkannya. \nBahwa dengan demikian, pandangan Prof. Iwan Satriawan semakin \nmemperkuat argumentasi Pemohon bahwa Mahkamah Konstitusi bukanl ah \n\"Mahkamah Kalkulator\", melainkan lembaga peradilan konstitusi yang memiliki \nkewenangan untuk menjaga integritas hasil pemilu melalui pengujian terhadap \nkeseluruhan proses yang melahirkan hasil tersebut. Oleh sebab i tu, frasa \n\"hasil penghitungan suara\" dalam Pasal 475 ayat (2) Undang-Undang Nomor \n7 Tahun 2017 tentang Pemilihan Umum harus dimaknai secara konstitusional \nsebagai hasil yang lahir dari proses pemilu yang demokratis, ju jur, adil, \nberintegritas, dan sesuai dengan amanat Pasal 22E ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945. \nb. Kewajiban Konstitusional Mahkamah Konstitusi dalam Menjaga A sas-\nAsas Pemilu \nBahwa dalam materi perkuliahan Hukum Acara Mahkamah Konstitusi,  Prof. \nIwan Satriawan juga menegaskan bahwa kewenangan Mahkamah Konstitusi \ndalam memeriksa dan memutus perselisihan hasil pemilihan umum t idak \ndapat dipisahkan dari kewajiban konstitusional Mahkamah Konstitusi sebagai \n\n \n \n \n \n52\nperadilan konstitusi yang bertugas menjaga tegaknya prinsip-pri nsip \npenyelenggaraan pemilu sebagaimana dijamin dalam Pasal 22E ayat  ( 1 )  \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945. \nBahwa menurut Prof. Iwan Satriawan, keberadaan Mahkamah Konstit usi \ndalam penyelesaian perselisihan hasil pemilu bukan semata-mata untuk \nmemverifikasi angka hasil penghitungan suara, melainkan juga un tuk \nmemastikan bahwa hasil tersebut lahir dari proses penyelenggara an pemilu \nyang memenuhi asas langsung, umum, bebas, rahasia, jujur, dan a dil. Oleh \nkarena itu, setiap dugaan pelanggaran terhadap asas-asas terseb ut yang \nterbukti memengaruhi hasil pemilu merupakan bagian dari ruang l ingkup \npengawasan konstitusional Mahkamah Konstitusi. \nBahwa dalam materi akademiknya, Prof. Iwan Satriawan menyatakan: \n\"Manakala terdapat indikasi bahwa pemenuhan asas-asas dan prinsip pemilu \ntidak terjadi pada tahapan pemilu sebelum penetapan hasil, apap un \nalasannya, hal tersebut menjadi kewajiban bagi Mahkamah Konstitusi sebagai \nperadilan konstitusi untuk ... mengadili keberatan atas hasil r ekapitulasi \npenghitungan suara pemilu.\" \n(vide Bukti P-9). \nBahwa pandangan tersebut menegaskan adanya hubungan yang tidak \nterpisahkan antara proses penyelenggaraan pemilu dengan hasil y ang \nditetapkan. Hasil penghitungan suara tidak dapat dianggap sah s ecara \nkonstitusional apabila diperoleh melalui proses yang bertentang an dengan \nasas-asas pemilu. Oleh karena itu, pemeriksaan terhadap pelanggaran proses \nyang secara nyata memengaruhi hasil pemilu merupakan konsekuens i logis \ndari kewenangan Mahkamah Konstitusi dalam mengadili perselisiha n hasil \npemilu. \nBahwa dengan demikian, kewenangan Mahkamah Konstitusi dalam per kara \nperselisihan hasil pemilu harus dipahami sebagai kewenangan untuk menjaga \nintegritas hasil pemilu, bukan semata-mata akurasi penghitungan  s u a r a .  \nIntegritas hasil pemilu hanya dapat terjamin apabila Mahkamah K onstitusi \ndiberikan ruang untuk menilai apakah hasil yang ditetapkan bena r-benar \nmerupakan refleksi dari proses demokrasi yang diselenggarakan s esuai \ndengan prinsip-prinsip konstitusi. \n\n \n \n \n \n53\nBahwa penafsiran terhadap frasa \"hanya terhadap hasil penghitungan suara\" \ndalam Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tenta ng \nPemilihan Umum yang membatasi kewenangan Mahkamah Konstitusi ha nya \npada aspek numerik hasil penghitungan suara merupakan penafsira n yang \ntidak sejalan dengan fungsi Mahkamah Konstitusi sebagai the guardian of the \nConstitution. Penafsiran demikian justru berpotensi menutup akses Mahkamah \nKonstitusi untuk menilai pelanggaran konstitusional yang terjad i dalam \ntahapan penyelenggaraan pemilu meskipun pelanggaran tersebut te rbukti \nmemengaruhi hasil akhir pemilu. \nBahwa apabila Mahkamah Konstitusi hanya dibatasi untuk memeriksa selisih \nangka hasil penghitungan suara tanpa dapat menilai proses yang melahirkan \nangka tersebut, maka fungsi konstitusional Mahkamah Konstitusi dalam \nmenjaga pelaksanaan asas pemilu yang jujur dan adil akan  kehilangan \nmakna substantif. Keadaan demikian bertentangan dengan tujuan \npembentukan Mahkamah Konstitusi sebagai penjaga konstitusi seka ligus \npelindung demokrasi konstitusional. \nBahwa oleh karena itu, pandangan Prof. Iwan Satriawan semakin \nmemperkuat argumentasi Pemohon bahwa frasa \"hanya terhadap hasi l \npenghitungan suara\"  dalam Pasal 475 ayat (2) Undang-Undang Nomor 7 \nTahun 2017 tentang Pemilihan Umum tidak dapat dimaknai sebagai pembatas \nabsolut kewenangan Mahkamah Konstitusi. Sebaliknya, frasa terse but harus \ndimaknai secara konstitusional sebagai kewenangan untuk memerik sa dan \nmengadili hasil pemilu beserta seluruh pelanggaran proses yang terbukti \nmempunyai pengaruh langsung dan signifikan terhadap hasil pemilu, sehingga \ntujuan penyelenggaraan pemilu yang jujur, adil, dan berintegrit as \nsebagaimana diamanatkan Pasal 22E ayat (1) Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945 dapat terjamin secara efektif.",
+      "start_line": 1919,
+      "end_line": 2084
+    },
+    {
+      "heading": "c. Semangat Konstitusi Menghendaki Pemilu yang Berkeadilan dan",
+      "slug": "c-semangat-konstitusi-menghendaki-pemilu-yang-berkeadilan-dan",
+      "text": "Berintegritas \nBahwa Pemohon memperoleh pemahaman akademik dari Prof. Iwan \nSatriawan dalam perkuliahan Hukum Acara Mahkamah Konstitusi bah wa \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 pada \nhakikatnya dibangun di atas semangat konstitusional untuk mewuj udkan \n\n \n \n \n \n54\npenyelenggaraan pemilihan umum yang demokratis, berkeadilan, \nberintegritas, serta menjamin terlaksananya kedaulatan rakyat secara efektif. \nOleh karena itu, setiap ketentuan konstitusi yang berkaitan den gan \npenyelenggaraan pemilu harus dipahami sebagai satu kesatuan sistem norma \nyang saling berkaitan dan tidak dapat ditafsirkan secara parsia l maupun \nterpisah-pisah. \nBahwa menurut Prof. Iwan Satriawan, penafsiran terhadap norma-n orma \nkonstitusi tidak cukup dilakukan melalui pendekatan gramatikal atau tekstual \nsemata, melainkan harus menggunakan pendekatan yang holistik, sistematis, \ndan teleologis dengan memperhatikan semangat (spirit) serta tuj uan yang \nhendak diwujudkan oleh Undang-Undang Dasar Negara Republik Indo nesia \nTahun 1945. Dengan demikian, makna suatu norma konstitusi tidak  boleh \ndilepaskan dari keseluruhan bangunan sistem ketatanegaraan yang dibentuk \noleh konstitusi itu sendiri (vide Bukti P-9). \nBahwa pendekatan penafsiran tersebut menghendaki agar Pasal 24C ayat (1) \nUUD NRI Tahun 1945 mengenai kewenangan Mahkamah Konstitusi untu k \nmemutus perselisihan tentang hasil pemilihan umum dibaca secara sistematis \ndengan Pasal 22E ayat (1) UUD NRI Tahun 1945 yang menegaskan ba hwa \npemilihan umum diselenggarakan secara langsung, umum, bebas, ra hasia, \njujur, dan adil. Dengan demikian, konsep \"hasil pemilihan umum\" \nsebagaimana dimaksud dalam Pasal 24C ayat (1) tidak dapat dipisahkan dari \nprinsip-prinsip penyelenggaraan pemilu yang menjadi dasar konst itusional \nlahirnya hasil tersebut. \nBahwa apabila penafsiran terhadap frasa \"hasil pemilihan umum\"  dilakukan \nsecara sempit dan hanya dipahami sebagai angka hasil penghitungan suara, \nmaka penafsiran demikian mengabaikan semangat konstitusi yang \nmenghendaki pemilu yang tidak hanya menghasilkan kepastian seca ra \nprosedural, tetapi juga menjamin keadilan substantif, integrita s \npenyelenggaraan, serta perlindungan terhadap kemurnian kehendak  rakyat \nsebagai pemegang kedaulatan. \nBahwa semangat konstitusional tersebut kemudian dijabarkan seca ra \nkonsisten dalam berbagai ketentuan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945. Pasal 1 ayat (2) menegaskan bahwa kedaula tan \n\n \n \n \n \n55\nberada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar, \nsedangkan Pasal 22E ayat (1) mengamanatkan agar pemilihan umum \ndiselenggarakan secara langsung, umum, bebas, rahasia, jujur, d an adil. \nSelanjutnya, Pasal 24C ayat (1) memberikan kewenangan kepada Mahkamah \nKonstitusi untuk memutus perselisihan tentang hasil pemilihan umum sebagai \ninstrumen konstitusional guna memastikan bahwa asas-asas tersebut benar-\nbenar terlindungi dalam praktik penyelenggaraan pemilu. \nBahwa oleh karena itu, sebagaimana diajarkan oleh Prof. Iwan Sa triawan, \npenafsiran terhadap kewenangan Mahkamah Konstitusi tidak dapat dilakukan \nsecara tekstual dan formalistik dengan memisahkan antara proses  \npenyelenggaraan pemilu dan hasil yang dihasilkannya. Sebaliknya , \npenafsiran harus dilakukan secara holistik dan sistematis sehin gga \nkewenangan Mahkamah Konstitusi dipahami sebagai kewenangan untu k \nmenjaga agar hasil pemilihan umum benar-benar merupakan produk dari \nproses yang demokratis, jujur, adil, dan berintegritas. \nBahwa dengan demikian, semangat konstitusi sebagaimana dijelask an oleh \nProf. Iwan Satriawan semakin memperkuat argumentasi Pemohon bah wa \nfrasa \"hasil penghitungan suara\"  dalam Pasal 475 ayat (2) Undang-Undang \nNomor 7 Tahun 2017 tentang Pemilihan Umum tidak boleh dimaknai secara \nsempit sehingga menutup ruang bagi Mahkamah Konstitusi untuk me nilai \npelanggaran proses yang terbukti memengaruhi hasil pemilu. Penafsiran yang \nselaras dengan semangat konstitusi justru menghendaki agar fras a tersebut \ndimaknai sebagai hasil yang lahir dari keseluruhan proses pemil u yang \nmemenuhi prinsip-prinsip demokrasi konstitusional sebagaimana dijamin oleh \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 2086,
+      "end_line": 2160
+    },
+    {
+      "heading": "d. Eksepsi Pihak Terkait Mengenai Batas Kewenangan Mahkamah Konstitusi",
+      "slug": "d-eksepsi-pihak-terkait-mengenai-batas-kewenangan-mahkamah-konstitusi",
+      "text": "Bahwa Pemohon memperoleh pemahaman akademik dari Prof. Iwan \nSatriawan dalam perkuliahan Hukum Acara Mahkamah Konstitusi men genai \nperdebatan konstitusional yang muncul dalam Perselisihan Hasil Pemilihan \nUmum Presiden dan Wakil Presiden Tahun 2024 berkaitan dengan ru ang \nlingkup kewenangan Mahkamah Konstitusi dalam memeriksa dan memu tus \nperselisihan hasil pemilihan umum. Perdebatan tersebut menunjukkan bahwa \n\n \n \n \n \n56\npenafsiran terhadap kewenangan Mahkamah Konstitusi masih menimb ulkan \nperbedaan pandangan yang nyata dalam praktik peradilan konstitusi. \nBahwa sebagaimana dijelaskan oleh Prof. Iwan Satriawan, dalam p erkara \nPerselisihan Hasil Pemilihan Umum Presiden dan Wakil Presiden Tahun 2024, \nPihak Terkait mengajukan eksepsi yang pada pokoknya menyatakan bahwa \nkewenangan Mahkamah Konstitusi hanya terbatas pada pemeriksaan \nterhadap hasil penghitungan suara sebagaimana dimaksud dalam Pasal 24C \nayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 19 45. \nBerdasarkan pandangan tersebut, dalil-dalil permohonan yang ber kaitan \ndengan keabsahan pencalonan pasangan calon maupun dugaan \npenyalahgunaan kekuasaan dalam proses penyelenggaraan pemilu dianggap \nberada di luar ruang lingkup kewenangan Mahkamah Konstitusi kar ena \ndipandang sebagai sengketa proses pemilu (vide Bukti P-9). \nBahwa menurut Prof. Iwan Satriawan, eksepsi tersebut memperliha tkan \nadanya kecenderungan untuk menafsirkan kewenangan Mahkamah \nKonstitusi secara sempit dan formalistik, yaitu hanya sebatas m enguji angka \nhasil penghitungan suara tanpa mempertimbangkan apakah hasil te rsebut \nmerupakan produk dari proses pemilu yang sesuai dengan prinsip- prinsip \nkonstitusi. Penafsiran demikian pada akhirnya menempatkan Mahka mah \nKonstitusi hanya sebagai lembaga yang memeriksa aspek kuantitat if hasil \npemilu, bukan sebagai peradilan konstitusi yang bertugas menjag a integritas \npenyelenggaraan pemilu secara keseluruhan. \nBahwa fakta bahwa eksepsi tersebut diajukan secara serius oleh Pihak Terkait \ndalam perkara Perselisihan Hasil Pemilihan Umum Presiden dan Wa kil \nPresiden Tahun 2024 menunjukkan bahwa norma mengenai ruang ling kup \nkewenangan Mahkamah Konstitusi masih membuka ruang bagi lahirny a \npenafsiran yang berbeda. Kondisi tersebut membuktikan bahwa fra sa \"hasil \npenghitungan suara\" sebagaimana diatur dalam Pasal 475 ayat (2) Undang-\nUndang Nomor 7 Tahun 2017 tentang Pemilihan Umum telah digunaka n \nsebagai dasar argumentasi untuk membatasi kewenangan Mahkamah \nKonstitusi hanya pada aspek numerik hasil pemilu. \nBahwa adanya perbedaan penafsiran tersebut menunjukkan secara n yata \nbahwa norma a quo  mengandung ketidakjelasan makna ( vagueness) yang \n\n \n \n \n \n57\nberpotensi menimbulkan ketidakpastian hukum ( legal uncertainty ) dalam \npraktik peradilan konstitusi. Padahal, sebagai norma yang menga tur ruang \nlingkup kewenangan lembaga peradilan konstitusi, rumusan terseb ut \nseharusnya memberikan kepastian hukum yang jelas, konsisten, da n tidak \nmembuka ruang bagi penafsiran yang saling bertentangan. \nBahwa apabila frasa \"hanya terhadap hasil penghitungan suara\" t erus \ndipertahankan dan dimaknai secara restriktif, maka norma a quo akan terus \nmenjadi dasar normatif bagi para pihak untuk mempersoalkan kewe nangan \nMahkamah Konstitusi dalam memeriksa pelanggaran proses \npenyelenggaraan pemilihan umum yang memengaruhi hasil pemilihan umum, \nsebagaimana nyata terjadi dalam Perselisihan Hasil Pemilihan Um um \nPresiden dan Wakil Presiden Tahun 2024. Kondisi tersebut berpot ensi \nmenimbulkan ketidakpastian hukum mengenai ruang lingkup kewenan gan \nMahkamah Konstitusi, mengurangi efektivitas perlindungan hak-ha k \nkonstitusional warga negara sebagai pemilih, serta tidak sejala n dengan \nfungsi Mahkamah Konstitusi sebagai the guardian of the Constitution dan the \nprotector of constitutional democracy dalam menjaga integritas pemilihan \numum dan pelaksanaan prinsip kedaulatan rakyat. \nBahwa oleh karena itu, sebagaimana dijelaskan oleh Prof. Iwan S atriawan, \nmunculnya eksepsi tersebut justru semakin menegaskan adanya urgensi bagi \nMahkamah Konstitusi untuk memberikan penafsiran konstitusional yang pasti \nterhadap frasa \"hasil penghitungan suara\" dalam Pasal 475 ayat (2) Undang-\nUndang Nomor 7 Tahun 2017 tentang Pemilihan Umum. Penafsiran te rsebut \ndiperlukan agar tidak terdapat lagi ruang bagi pembatasan kewen angan \nMahkamah Konstitusi yang bertentangan dengan makna konstitusion al frasa \n\"perselisihan tentang hasil pemilihan umum\" sebagaimana dijamin  dalam \nPasal 24C ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945, sekaligus untuk menjamin bahwa Mahkamah Konstitusi tetap dapat \nmenjalankan fungsi konstitusionalnya dalam menjaga integritas, keadilan, dan \nlegitimasi hasil pemilihan umum. \n\n \n \n \n \n58\ng. Putusan Mahkamah Konstitusi terhadap Eksepsi Menegaskan Mahkamah \nKonstitusi Bukan \"Mahkamah Kalkulator\" \nBahwa Pemohon memperoleh pemahaman akademik dari Prof. Iwan \nSatriawan dalam perkuliahan Hukum Acara Mahkamah Konstitusi men genai \narti penting putusan Mahkamah Konstitusi dalam Perselisihan Hasil Pemilihan \nUmum Presiden dan Wakil Presiden Tahun 2024 yang menolak eksepsi Pihak \nTerkait mengenai batas kewenangan Mahkamah Konstitusi. Menurut Prof. \nIwan Satriawan, putusan tersebut memiliki makna konstitusional yang sangat \nfundamental karena sekaligus mengakhiri perdebatan mengenai rua ng \nlingkup kewenangan Mahkamah Konstitusi dalam menyelesaikan perselisihan \nhasil pemilihan umum (vide Bukti P-9). \nBahwa sebagaimana dijelaskan oleh Prof. Iwan Satriawan, melalui  putusan \ntersebut Mahkamah Konstitusi pada hakikatnya menegaskan bahwa \nkewenangannya tidak terbatas hanya pada memeriksa rekapitulasi atau \npenghitungan angka perolehan suara pasangan calon, melainkan ju ga \nberwenang menilai bagaimana perolehan suara tersebut diperoleh melalui \nkeseluruhan proses penyelenggaraan pemilu. Dengan demikian, obj ek \npemeriksaan Mahkamah Konstitusi tidak dapat direduksi hanya pad a aspek \nkuantitatif hasil penghitungan suara, tetapi juga mencakup aspe k kualitatif \nyang berkaitan dengan integritas proses yang menghasilkan perolehan suara \ntersebut. \nBahwa putusan Mahkamah Konstitusi tersebut semakin mempertegas \npandangan yang sebelumnya dikemukakan oleh Prof. Iwan Satriawan bahwa \nMahkamah Konstitusi bukanlah \"Mahkamah Kalkulator\", melainkan l embaga \nperadilan konstitusi yang bertugas memastikan bahwa hasil pemil ihan umum \nbenar-benar lahir dari proses yang demokratis, jujur, adil, serta sesuai dengan \nprinsip-prinsip konstitusi sebagaimana diamanatkan Pasal 22E ay at \n(1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. O leh \nkarena itu, hasil pemilu dalam perspektif konstitusi tidak dapat dipisahkan dari \nproses yang melahirkannya. \nBahwa secara yurisprudensial, putusan tersebut telah membentuk suatu \nkonstruksi hukum konstitusi yang menempatkan hasil pemilihan um um \nsebagai satu kesatuan yang utuh antara proses dan hasil ( inseparable unity \n\n \n \n \n \n59\nbetween process and outcome). Konsekuensinya, setiap pelanggaran dalam \ntahapan penyelenggaraan pemilu yang terbukti memiliki pengaruh langsung \ndan signifikan terhadap hasil akhir pemilu merupakan bagian dar i ruang \nlingkup pemeriksaan Mahkamah Konstitusi dalam perkara perselisi han hasil \npemilihan umum. \nBahwa namun demikian, konstruksi konstitusional yang telah berk embang \ndalam yurisprudensi Mahkamah Konstitusi tersebut belum sepenuhn ya \ntercermin dalam rumusan normatif Pasal 475 ayat (2) Undang-Undang Nomor \n7 Tahun 2017 tentang Pemilihan Umum. Norma a quo masih menggunakan \nfrasa \"hanya terhadap hasil penghitungan suara\", yang secara gr amatikal \nmemberikan kesan adanya pembatasan yang bersifat sempit, rigid,  dan \neksklusif terhadap ruang lingkup kewenangan Mahkamah Konstitusi. \nBahwa kondisi tersebut menimbulkan ketidaksesuaian antara perkembangan \npraktik konstitusional Mahkamah Konstitusi dengan formulasi norma undang-\nundang. Di satu sisi, Mahkamah Konstitusi melalui putusannya te lah \nmengakui bahwa hasil pemilu tidak dapat dipisahkan dari proses yang \nmelahirkannya. Namun di sisi lain, rumusan Pasal 475 ayat (2) U ndang-\nUndang Nomor 7 Tahun 2017 masih membuka ruang bagi penafsiran bahwa \nkewenangan Mahkamah Konstitusi hanya terbatas pada angka hasil \npenghitungan suara. Ketidakharmonisan tersebut menciptakan kete gangan \nnormatif ( serious normative tension ) antara norma undang-undang dan \nperkembangan yurisprudensi konstitusional. \nBahwa keberadaan dua konstruksi hukum yang berbeda tersebut pad a \nakhirnya melahirkan ketidakpastian hukum ( legal uncertainty ), karena \nmembuka ruang bagi lahirnya dua penafsiran yang sama-sama memiliki dasar \nargumentasi. Penafsiran pertama bertumpu pada rumusan tekstual Pasal 475 \nayat (2) Undang-Undang Nomor 7 Tahun 2017 yang membatasi objek \nsengketa hanya pada hasil penghitungan suara, sedangkan penafsiran kedua \nbertumpu pada perkembangan yurisprudensi Mahkamah Konstitusi ya ng \nmemandang bahwa hasil pemilihan umum tidak dapat dipisahkan dari proses \npenyelenggaraannya. \nBahwa oleh karena itu, sebagaimana dijelaskan oleh Prof. Iwan S atriawan, \nputusan Mahkamah Konstitusi yang menolak eksepsi tersebut justru semakin \n\n \n \n \n \n60\nmenunjukkan adanya urgensi bagi Mahkamah Konstitusi untuk membe rikan \npenafsiran konstitusional terhadap frasa \"hanya terhadap hasil penghitungan \nsuara\" dalam Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 201 7. \nPenafsiran konstitusional tersebut diperlukan untuk mengharmoniskan norma \nundang-undang dengan perkembangan yurisprudensi Mahkamah Konsti tusi, \nmenghilangkan dualisme penafsiran mengenai ruang lingkup kewena ngan \nMahkamah Konstitusi, serta menjamin terwujudnya kepastian hukum yang adil \nsebagaimana dijamin dalam Pasal 28D ayat (1) Undang-Undang Dasa r \nNegara Republik Indonesia Tahun 1945. Dengan demikian, kewenang an \nMahkamah Konstitusi sebagai penjaga konstitusi ( the guardian of the \nConstitution) dan pelindung demokrasi konstitusional ( the guardian of \nconstitutional democracy ) dapat terlaksana secara utuh sesuai dengan \namanat konstitusi. \nG. URGENSI TAFSIR KONSTITUSIONAL BERSYARAT SEBAGAI UPAYA",
+      "start_line": 2162,
+      "end_line": 2340
+    },
+    {
+      "heading": "MENGAKHIRI KETIDAKPASTIAN HUKUM",
+      "slug": "mengakhiri-ketidakpastian-hukum",
+      "text": "Bahwa Pasal 24C ayat (1) UUD NRI Tahun 1945 menegaskan kewenang an \nMahkamah Konstitusi untuk menguji undang-undang terhadap Undang-Undang \nDasar. Dalam kerangka kewenangan tersebut, Mahkamah Konstitusi tidak hanya \nberfungsi sebagai negative legislator, tetapi juga sebagai penafsir konstitusi yang \nberwenang melakukan penemuan hukum (rechtsvinding) serta koreksi terhadap \nkelalaian legislatif (legislative omission). Oleh karena itu, dalam hal pembentuk \nundang-undang menghasilkan norma yang multitafsir, reduktif, da n \nmenimbulkan ketidakpastian hukum sebagaimana Pasal 475 ayat (2)  U U  \n7/2017, Mahkamah Konstitusi secara konstitusional berkewajiban memastikan \nagar perlindungan hak warga negara tidak berubah menjadi hak ya ng bersifat \nsemu (illusory rights). \nBahwa dalam rangka menjamin kepastian hukum yang adil sebagaimana dijamin \nPasal 28D ayat (1) UUD NRI Tahun 1945, Mahkamah Konstitusi tida k dapat \nsemata-mata mengambil pendekatan destruktif berupa pembatalan n orma. \nPembatalan demikian berpotensi menimbulkan kekosongan hukum \n(rechtsvacuum) yang justru mengganggu stabilit as sistem ketatanegaraan dan \npenyelenggaraan pemilu. Oleh karena itu, doktrin ketatanegaraan  Indonesia \ntelah mengakui putusan bersyarat ( conditionally unconstitutional ) sebagai \n\n \n \n \n \n61\ninstrumen koreksi konstitusional yang bersifat presisi, yakni m empertahankan \neksistensi norma namun sekaligus mengendalikan ruang tafsirnya agar selaras \ndengan UUD 1945, serta memberikan pedoman interpretatif yang be rsifat \nmengikat umum (erga omnes). \nBahwa dalam konteks tersebut, penerapan tafsir konstitusional b ersyarat \nterhadap Pasal 475 ayat (2) UU 7/2017 merupakan pilihan yang ti dak hanya \nrelevan, tetapi juga niscaya secara konstitusional. Melalui mek anisme ini, \nMahkamah Konstitusi dapat menegaskan bahwa frasa “hasil penghit ungan \nsuara” tidak dapat dimaknai secara sempit, literal, dan numerik  semata, \nmelainkan harus dimaknai secara sistemik, kontekstual, dan kons titusional, \nsehingga mencakup pula pelanggaran proses yang secara langsung dan \nsignifikan memengaruhi hasil pemilu. \nBahwa urgensi penerapan tafsir konstitusional bersyarat tersebu t didasarkan \npada tiga kebutuhan konstitusional yang bersifat kumulatif: \na. Kepastian normatif dan yurisprudensial, yaitu untuk mengakhi ri disparitas \nantara praktik Mahkamah Konstitusi yang selama ini telah menila i \npelanggaran proses yang bersifat terstruktur, sistematis, dan m asif, dengan \nrumusan normatif Pasal 475 ayat (2) UU 7/2017 yang cenderung sempit dan \nformalistik; \nb. Penghapusan dualisme penafsiran, yakni antara pendekatan tek stual-formal \nyang membatasi kewenangan MK pada angka hasil penghitungan suara, dan \npendekatan konstitusional-progresif yang mengakui keterkaitan i nheren \nantara proses dan hasil pemilu;",
+      "start_line": 2342,
+      "end_line": 2388
+    },
+    {
+      "heading": "c. Penguatan integritas penyelesaian sengketa pemilu, melalui p enegasan",
+      "slug": "c-penguatan-integritas-penyelesaian-sengketa-pemilu-melalui-p-enegasan",
+      "text": "bahwa setiap pelanggaran proses yang terbukti memengaruhi hasil  pemilu \ntetap berada dalam ruang kontrol konstitusional Mahkamah Konstitusi. \nBahwa apabila permohonan a quo  dikabulkan dalam bentuk putusan \ninkonstitusional bersyarat, maka akan tercipta pemulihan perlin dungan \nkonstitusional yang bersifat menyeluruh, yaitu: \na. Pemohon memperoleh kepastian hukum yang objektif dan terukur , bahwa \nhak pilih tidak hanya dilindungi pada tahap pemberian suara dan  \npenghitungan, tetapi juga mencakup seluruh rangkaian proses yan g secara \nlangsung memengaruhi hasil akhir pemilu; \nb. Terciptanya unifikasi penafsiran konstitusional yang bersifa t mengikat umum \n\n \n \n \n \n62\n(erga omnes ), sehingga tidak terdapat lagi ruang bagi inkonsistensi \ninterpretasi mengenai ruang lingkup kewenangan Mahkamah Konstit usi \ndalam perkara perselisihan hasil pemilu;",
+      "start_line": 2390,
+      "end_line": 2408
+    },
+    {
+      "heading": "c. Terjaminnya stabilitas konst itusional jangka panjang dalam s istem pemilu",
+      "slug": "c-terjaminnya-stabilitas-konst-itusional-jangka-panjang-dalam-s-istem-pemilu",
+      "text": "Indonesia, karena batas kewenangan Mahkamah Konstitusi menjadi jelas, \nkonsisten, dan tidak bergantung pada dinamika komposisi hakim d i masa \nmendatang. \nBahwa secara doktrinal, kewenangan Mahkamah Konstitusi dalam pe ngujian \nundang-undang merupakan mekanisme korektif terhadap potensi tirani legislasi \n(tyranny of flawed legislation ), yaitu keadaan ketika norma undang-undang \nsecara formal sah, tetapi secara substantif mereduksi, mengabur kan, atau \nmenghilangkan perlindungan hak konstitusional warga negara. Dal am konteks \nnegara hukum demokratis, Mahkamah Konstitusi berfungsi sebagai the final \nguardian of the Constitution, yang memastikan bahwa seluruh norma peraturan \nperundang-undangan tetap berada dalam koridor kedaulatan rakyat  \nsebagaimana dijamin Pasal 1 ayat (2) UUD 1945. \nBahwa dengan demikian, pemberian tafsir konstitusional bersyara t terhadap \nPasal 475 ayat (2) UU 7/2017 merupakan bentuk penyelamatan kons titusional \nyang mencakup tiga dimensi fundamental sekaligus:",
+      "start_line": 2410,
+      "end_line": 2424
+    },
+    {
+      "heading": "i. Penyelamatan hak konstitusional Pemohon, berupa jaminan kepastian hukum",
+      "slug": "i-penyelamatan-hak-konstitusional-pemohon-berupa-jaminan-kepastian-hukum",
+      "text": "yang adil atas perlindungan suara dalam proses pemilu yang berintegritas;",
+      "start_line": 2426,
+      "end_line": 2426
+    },
+    {
+      "heading": "ii. Penyelamatan sistem penyelesaian sengketa pemilu, dari keti dakpastian",
+      "slug": "ii-penyelamatan-sistem-penyelesaian-sengketa-pemilu-dari-keti-dakpastian",
+      "text": "normatif yang bersifat struktura l, berulang, dan berpotensi men imbulkan \ndisparitas putusan;",
+      "start_line": 2428,
+      "end_line": 2429
+    },
+    {
+      "heading": "iii. Penyelamatan prinsip kedaulatan rakyat, dengan memastikan bahwa",
+      "slug": "iii-penyelamatan-prinsip-kedaulatan-rakyat-dengan-memastikan-bahwa",
+      "text": "kehendak rakyat yang diekspresikan melalui pemilu memperoleh \nperlindungan konstitusional yang tidak hanya formal, tetapi jug a substantif \ndan efektif. \nIV. PETITUM \nBerdasarkan seluruh uraian dalil pemohon yang telah disampaikan  secara \nlengkap dalam alasan-alasan permohonan di atas, Pemohon dengan hormat \n\n \n \n \n \n63\nmemohon kepada Yang Mulia Majelis Hakim Konstitusi untuk member ikan \nputusan sebagai berikut:  \nDalam Pokok Permohonan",
+      "start_line": 2431,
+      "end_line": 2445
+    },
+    {
+      "heading": "2. Menyatakan frasa hanya terhadap hasil penghitungan suara dalam Pasal 475",
+      "slug": "2-menyatakan-frasa-hanya-terhadap-hasil-penghitungan-suara-dalam-pasal-475",
+      "text": "ayat (2) Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umu m \n(Lembaran Negara Republik Indonesia Tahun 2017 Nomor 182, Tamba han \nLembaran Negara Nomor 6109) bertentangan dengan Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 dan tidak mempunyai \nkekuatan hukum mengikat secara bersyarat sepanjang tidak dimaknai: \n   “Keberatan sebagaimana dimaksud pada ayat (1) hanya terhadap has il \npenghitungan suara serta proses penyelenggaraan Pemilu  yang \nmemengaruhi penentuan terpilihnya Pasangan Calon atau penentuan  untuk \ndipilih kembali pada Pemilu Presiden dan Wakil Presiden.”",
+      "start_line": 2448,
+      "end_line": 2456
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Republik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila Mahkamah Konstitusi berpendapat lain, mohon putusan yan g seadil-\nadilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membukti kan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 1 2 ,  \nsebagai berikut:",
+      "start_line": 2458,
+      "end_line": 2463
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 2465,
+      "end_line": 2465
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Nomor 7 Tahun 2017 tentan g",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-nomor-7-tahun-2017-tentan-g",
+      "text": "Pemilihan Umum;",
+      "start_line": 2467,
+      "end_line": 2467
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk a.n Muhammad Reiha n",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-a-n-muhammad-reiha-n",
+      "text": "Alfariziq;",
+      "start_line": 2469,
+      "end_line": 2469
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Model C.Surat Pemberitahuan Pemungutan Suara",
+      "slug": "6-bukti-p-6-fotokopi-model-c-surat-pemberitahuan-pemungutan-suara",
+      "text": "Kepada Pemilih; \n\n \n \n \n \n64",
+      "start_line": 2473,
+      "end_line": 2479
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Dokumen Keterangan Pihak Terkait Tim Pe mbela",
+      "slug": "7-bukti-p-7-fotokopi-dokumen-keterangan-pihak-terkait-tim-pe-mbela",
+      "text": "Prabowo-Gibran 2024 “Bersama Indonesia Maju”;",
+      "start_line": 2481,
+      "end_line": 2481
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Keterangan Pihak Terkait Koalisi Indone sia Kerja",
+      "slug": "8-bukti-p-8-fotokopi-keterangan-pihak-terkait-koalisi-indone-sia-kerja",
+      "text": "(KIK) Tim Kuasa Hukum Joko Widodo-Ma’ruf Amin, yang \ndiajukan dalam Perkara Nomor 01/PHPU.PRES-XVII/2019 di \nMahkamah Konstitusi, tertanggal 13 Juni 2019;",
+      "start_line": 2483,
+      "end_line": 2485
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Catatan Akademik Prof. Iwan Satriawan d alam",
+      "slug": "9-bukti-p-9-fotokopi-catatan-akademik-prof-iwan-satriawan-d-alam",
+      "text": "Eksaminasi Putusan Sengketa Pilpres 2024 dan Perkuliahan \nHukum Acara Mahkamah Konstitusi Mengenai Perselisihan \nHasil Pemilihan Umum;",
+      "start_line": 2487,
+      "end_line": 2489
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Kumpulan Salinan Putusan Mahkamah Kon stitusi",
+      "slug": "10-bukti-p-10-fotokopi-kumpulan-salinan-putusan-mahkamah-kon-stitusi",
+      "text": "Nomor 01/PHPU-PRES/XVII/2019, Nomor 1/PHPU.PRES-\nXXII/2014, dan Nomor 2/PHPU .PRES-XXII/2024 tentang \nPerselisihan Hasil Pemilihan Umum Presiden dan Wakil \nPresiden;",
+      "start_line": 2491,
+      "end_line": 2494
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Kumpulan Artikel Berita Mengenai Perb edaan",
+      "slug": "11-bukti-p-11-fotokopi-kumpulan-artikel-berita-mengenai-perb-edaan",
+      "text": "Penafsiran Ruang Lingkup Kewenangan Mahkamah Konstitusi \ndalam Perselisihan Hasil Pemilihan Umum Presiden dan wakil \nPresiden;",
+      "start_line": 2496,
+      "end_line": 2498
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Artikel Jurnal Ilmiah berjudul Sengke ta Hasil Pemilihan",
+      "slug": "12-bukti-p-12-fotokopi-artikel-jurnal-ilmiah-berjudul-sengke-ta-hasil-pemilihan",
+      "text": "Umum Presiden dan Wakil Presiden (Kajian Yuridis Berdarkan \nUndang-Undang Nomor 7 Tahun 2017 tentang Pemilihan \nUmum).",
+      "start_line": 2500,
+      "end_line": 2502
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n\n \n \n \n \n65\n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945.  \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu frasa “hanya terhadap hasil penghitungan \nsuara” dalam norma Pasal 475 ayat (2) Undang-Undang Nomor 7 Tah un 2017 \ntentang Pemilihan Umum (Lembaran Negara Republik Indonesia Tahun 2017 Nomor \n182, Tambahan Lembaran Negara Republik Indonesia Nomor 6109, se lanjutnya \ndisebut UU 7/2017) terhadap UUD NRI Tahun 1945 maka Mahkamah be rwenang \nmenguji permohonan a quo. \nKedudukan Hukum \n[3.3]   Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 2504,
+      "end_line": 2540
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  UUD NRI \nTahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \n\n \n \n \n \n66\nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a; \n[3.4]   Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, telah berpend irian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 2543,
+      "end_line": 2567
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 2569,
+      "end_line": 2570
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi; \n[3.5]   Menimbang bahwa berdasarkan uraian Pasal 51 ayat (1) UU MK dan \nsyarat-syarat kerugian hak dan/at au kewenangan konstitusional s ebagaimana \ndiuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, Mahkamah selanjutnya \nakan mempertimbangkan kedudukan hukum Pemohon yang pada pokokny a \nsebagai berikut:",
+      "start_line": 2572,
+      "end_line": 2579
+    },
+    {
+      "heading": "1. Bahwa permohonan Pemohon adalah pengujian konstitusionalitas norma",
+      "slug": "1-bahwa-permohonan-pemohon-adalah-pengujian-konstitusionalitas-norma",
+      "text": "sepanjang frasa “hanya terhadap hasil penghitungan suara” dalam norma Pasal \n475 ayat (2) UU 7/2017 dengan rumusan selengkapnya sebagai berikut: \nPasal 475 ayat (2) UU 7/2017 \n(1)  … \n(2) Keberatan sebagaimana dimaksud pada ayat (1) hanya terhadap  h a s i l  \npenghitungan suara yang memengaruhi penentuan terpilihnya Pasan gan \nCalon atau penentuan untuk dipilih kembali pada Pemilu Presiden  d a n  \nWakil Presiden. \n\n \n \n \n \n67",
+      "start_line": 2581,
+      "end_line": 2595
+    },
+    {
+      "heading": "2. Bahwa Pemohon menjelaskan memiliki hak konstitusional, antara l ain hak atas",
+      "slug": "2-bahwa-pemohon-menjelaskan-memiliki-hak-konstitusional-antara-l-ain-hak-atas",
+      "text": "pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil  s e r t a  \nperlakuan yang sama di hadapan hukum sebagaimana dijamin dalam Pasal 28D \nayat (1) UUD NRI Tahun 1945;",
+      "start_line": 2597,
+      "end_line": 2599
+    },
+    {
+      "heading": "3. Bahwa Pemohon adalah perseorangan warga negara Indonesia yan g berstatus",
+      "slug": "3-bahwa-pemohon-adalah-perseorangan-warga-negara-indonesia-yan-g-berstatus",
+      "text": "mahasiswa aktif Fakultas Hukum Universitas Muhammadiyah Yogyaka rta dan \nmenjabat sebagai Kepala Divisi Riset Law School Debate Community  p a d a  \nfakultas a quo  [vide Bukti P-3 sampai dengan Bukti P-5] yang juga sebagai \npemilih dalam Pemilihan Umum Tahun 2024 dan Pemilihan Kepala Da erah \nTahun 2024 [vide Bukti P-6].",
+      "start_line": 2601,
+      "end_line": 2605
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon aktivitas akademik dan riset mengharuskan Pemohon",
+      "slug": "4-bahwa-menurut-pemohon-aktivitas-akademik-dan-riset-mengharuskan-pemohon",
+      "text": "untuk memahami, mengkaji, dan mengevaluasi norma hukum yang ber potensi \nmenimbulkan persoalan konstitusional, termasuk norma yang berkaitan dengan \npenyelenggaraan pemilu, pelaksanaan kedaulatan rakyat, serta me kanisme \npenyelesaian perselisihan hasil pemilihan umum.",
+      "start_line": 2607,
+      "end_line": 2610
+    },
+    {
+      "heading": "5. Bahwa menurut Pemohon, sebagai warga negara yang juga pemili h dalam",
+      "slug": "5-bahwa-menurut-pemohon-sebagai-warga-negara-yang-juga-pemili-h-dalam",
+      "text": "pemilihan umum, Pemohon memiliki hak dan kepentingan konstitusi onal untuk \nmemperoleh jaminan hasil pemilihan umum yang hanya memperoleh l egitimasi \nkonstitusional apabila lahir dari proses penyelenggaraan pemili han umum yang \ndemokratis, jujur, adil, berintegritas, dan sesuai dengan prins ip negara hukum \nsebagaimana amanat UUD NRI Tahun 1945. Oleh karena itu, Pemohon memiliki \nkepentingan konstitusional secara langsung terhadap norma yang mengatur \nruang lingkup dan mekanisme penyelesaian perselisihan hasil pem ilihan umum \ndisebabkan efektivitas mekanisme tersebut merupakan bagian yang tidak dapat \ndipisahkan dari perlindungan hak konstitusional Pemohon sebagai pemilih.",
+      "start_line": 2612,
+      "end_line": 2620
+    },
+    {
+      "heading": "6. Bahwa menurut Pemohon berlakunya frasa \"hanya terhadap hasil penghitungan",
+      "slug": "6-bahwa-menurut-pemohon-berlakunya-frasa-hanya-terhadap-hasil-penghitungan",
+      "text": "suara\" dalam Pasal 475 ayat (2) Undang-Undang Nomor 7 Tahun 2017 tentang \nPemilihan Umum merugikan hak-hak konstitusional Pemohon, yang a ktual ldan \npotensial karena antara lain menimbulkan ketidakpastian hukum perihal rua ng \nlingkup kewenangan Mahkamah Konstitusi dalam memeriksa dan memu tus \nperselisihan hasil pemilihan umum, khususnya terhadap pelanggar an dalam \nproses penyelenggaraan pemilihan umum yang memengaruhi hasil pe milihan \numum. Meskipun dalam praktik ketatanegaraan Mahkamah Konstitusi  t e l a h  \n\n \n \n \n \n68\nmengembangkan penafsiran yang memungkinkan pemeriksaan terhadap  \npelanggaran proses tersebut, norma a quo apabila tetap dipertahankan membuka \nruang bagi penafsiran sebaliknya dan bahkan dijadikan dasar unt uk membatasi \nkewenangan Mahkamah Konstitusi dalam perselisihan hasil pemilih an umum. \nOleh karena itu, menurut Pemohon norma Pasal 475 ayat (2) UU 7/ 2017 a quo \nharus ditambah dengan frasa “serta proses penyelenggaraan pemilu”. \n[3.6] Menimbang bahwa setelah memeriksa secara saksama uraian Pemohon \ndalam menjelaskan anggapan kerugian hak konstitusional, sebagai mana diuraikan \npada Paragraf [3.5] di atas serta kualifikasi dan syarat kedudukan hukum Pemohon \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan sebagai berikut. \nBahwa norma yang diajukan pengujian konstitusionalitasnya oleh Pemohon \nberkenaan dengan frasa “hanya terhadap hasil penghitungan suara ” dalam norma \nPasal 475 ayat (2) UU 7/2017 antara lain bertentangan dengan ke pastian hukum \nyang adil mengenai ruang lingkup kewenangan Mahkamah dalam meme riksa dan \nmemutus perselisihan hasil pemilihan umum yang membatasi objek sengketa hanya \nterhadap hasil perhitungan suara. Dalam permohonan pengujian ke tentuan norma \npasal a quo, Pemohon menjelaskan sebagai perseorangan warga negara Indonesia \nyang dibuktikan dengan Kartu Tanda Penduduk [vide Bukti P-3] ya ng berstatus \nmahasiswa Fakultas Hukum Universitas Muhammadiyah Yogyakarta, m enjabat \nsebagai Kepala Divisi Riset Law School Debate Community  pada fakultas a quo \n[vide Bukti P-4 dan Bukti P-5]. Selain itu, Pemohon juga terdaf tar sebagai pemilih \ndalam Pemilihan Umum Tahun 2024 da n Pemilihan Kepala Daerah Tah un 2024 \n[vide Bukti P-6]. Berkenaan dengan hal tersebut, Pemohon menera ngkan memiliki \nhak dan kepentingan konstitusional, antara lain hak atas kepastian hukum yang adil \n[vide Pasal 28D ayat (1) UUD NRI Tahun 1945] atas mekanisme pen yelesaian \nperselisihan hasil pemilu oleh Mahkamah sesuai dengan ketentuan Pasal 24C ayat \n(1) UUD NRI Tahun 1945 yang merupakan hasil dari penyelenggaraa n pemilu \nsebagaimana diatur dalam Pasal 22E ayat (1) UUD NRI Tahun 1945. Sebagaimana \ndijelaskan Pemohon, dengan berlakunya frasa “hanya terhadap hasil penghitungan \nsuara”, dalam norma Pasal 475 ayat (2) UU 7/2017 akan melanggar  h a k  \nkonstitusionalnya apabila norma a quo tidak ditambahkan rumusan substansi frasa \n“serta proses penyelenggaran Pemilu”. \n\n \n \n \n \n69\nBahwa berkenaan dengan kedudukan hukum Pemohon dikaitkan dengan  \nsyarat anggapan kerugian hak konstitusional yang bersifat aktual dan/atau potensial \nterhadap pengujian frasa “hanya terhadap hasil penghitungan sua ra” dalam norma \nPasal 475 ayat (2) UU 7/2017, Mahkamah perlu merujuk pada pertimbangan hukum \nPutusan Mahkamah Konstitusi Nomor 1/PHPU.PRES-XXII/2024 yang di ucapkan \ndalam sidang pleno terbuka untuk umum pada tanggal 22 April 2024 [vide Putusan \nMahkamah Konstitusi Nomor 1/PH PU.PRES-XXII/2024, hlm 865-866] a ntara lain \nmenyatakan sebagai berikut: \nOleh karena itu, manakala terdapat indikasi pemenuhan asas-asas  dan \nprinsip pemilu tidak terjadi pada tahapan pemilu sebelum peneta pan hasil, \napapun alasannya, hal tersebut menjadi kewajiban bagi Mahkamah Konstitusi \nsebagai peradilan konstitusi untuk, pada tingkat pertama dan te rakhir yang \nputusannya bersifat final, mengadili keberatan atas hasil rekap itulasi \npenghitungan suara pemilu. Dengan demikian, Mahkamah tidak memi liki \nalasan untuk menghindar mengadili masalah hukum pemilu yang ter kait \ndengan tahapan pemilu berkenaan dengan penetapan suara sah hasil pemilu, \nsepanjang hal demikian memang terkait dan berpengaruh terhadap hasil \nperolehan suara peserta pemilu. \nSelanjutnya, paradigma sebagaimana kutipan di atas, juga telah menjadi \npendirian Mahkamah sejak menangani perselisihan hasil Pemilu Pr esiden dan \nWakil Presiden 2004 hingga Pemilu Presiden dan Wakil Presiden 2 019. Misalnya, \ndalam Paragraf [3.11] Putusan Mahkamah Konstitusi Nomor 01/PHPU-\nPRES/XVII/2019 yang diucapkan dalam sidang pleno terbuka untuk umum pada \ntanggal 27 Juni 2019 antara lain menyatakan sebagai berikut: \nBahwa untuk menyelesaikan perselisihan hasil pemilu dimaksud, d engan \nmerujuk Pasal 24C ayat (1) UUD 1945, Pasal 475 ayat (2) UU 7/2017 secara \neksplisit mengatur bahwa keberatan yang dapat diajukan kepada Mahkamah \nhanya keberatan terhadap hasil penghitungan suara. Dalam hal ini, \nMahkamah merupakan satu-satunya pelaku kekuasaan kehakiman yang  \nberwenang untuk memeriksa dan memutus perselisihan hasil pemilu . Dalam \nkonteks itu, apabila dibaca hubungan sistematis antara norma-no rma yang \nmengatur penyelesaian perselisihan hasil pemilu, UU 7/2017 memb eri \nbatasan tegas ihwal objek perselisihan yang menjadi kewenangan Mahkamah \nuntuk menyelesaikannya, yaitu mengenai hasil pemilu. Hanya saja , untuk \nsampai pada perselisihan hasil pemilu tersebut bukan saja sebat as \nperselisihan menyangkut perbedaan hasil penghitungan atau angka -angka, \nmelainkan bersinggungan dengan persoalan-persoalan konstitusion alitas \npenyelenggaraan pemilu yang bermuara pada perselisihan hasil pe milu. \nDalam hal ini, sengketa hasil pemilu yang diajukan untuk diperi ksa dan \ndiputuskan oleh Mahkamah baik dalil yang bersifat kuantitatif maupun bersifat \nkualitatif. \n\n \n \n \n \n70\nBerdasarkan kutipan uraian pertimbangan hukum tersebut di atas, telah jelas \nbahwa dalam melaksanakan kewenangan sebagaimana dimaksud dalam Pasal \n24C ayat (1) UUD NRI Tahun 1945, Mahkamah tidak hanya sebatas m engadili \nangka-angka atau hasil rekapitulasi penghitungan suara, tetapi juga menilai hal-hal \nlain yang terkait dengan proses/tahapan pemilu sepanjang proses/tahapan tersebut \ndidalilkan berpengaruh terhadap hasil atau perolehan suara peserta pemilu. Apabila \nditelusuri secara cermat, pendirian Mahkamah untuk tidak hanya menyandarkan \nkewenangan untuk memutus sengketa hasil pemilu pada hasil pengh itungan atau \nangka-angka semata telah dimulai sejak Mahkamah menangani sengk eta hasil \nPemilu 2004, termasuk dalam penyelesaian sengketa hasil pemilu presiden dan \nwakil presiden. Bahkan, pendirian demikian juga terlihat dengan  terang-benderang \nketika Mahkamah menyelesaikan sengketa hasil pemilihan kepada d aerah dalam \nbeberapa waktu terakhir.  \n[3.7]  Menimbang bahwa berkenaan dengan anggapan kerugian hak \nkonstitusional Pemohon bersifat aktual dan/atau potensial,  dengan menyandarkan \npada frasa “hanya terhadap hasil penghitungan suara” dalam norma Pasal 475 ayat \n(2) UU 7/2017, secara nyata Mahkamah telah berpendirian bahwa M ahkamah \nberwenang memeriksa sengketa hasil pemilu yang berkenaan dengan  tahapan \npemilu akibat dari adanya permasalahan yang bersinggungan denga n persoalan-\npersoalan konstitusionalitas penyelenggaraan pemilu yang bermua ra pada proses \npenyelesaian hasil pemilu. Oleh karena perihal syarat kerugian hak konstitusional \nPemohon bersifat kumulatif, dan dengan tidak adanya kerugian konstitusional yang \nbersifat spesifik dan aktual atau setidak-tidaknya potensial an ggapan kerugian hak \nkonstitusional Pemohon sebagai mahasiswa dan pemilih yang memil iki hubungan \nsebab-akibat ( causal verband ) dengan berlakunya norma undang-undang yang \ndimohonkan pengujian. Oleh karena itu, anggapan kerugian hak ko nstiusional \nPemohon tidak relevan lagi untuk dipertimbangkan. Dengan demikian, tidak terdapat \nkeraguan bagi Mahkamah untuk menyatakan Pemohon tidak memiliki kedudukan \nhukum untuk bertindak sebagai Pemohon dalam mengajukan permohonan a quo. \n[3.8] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, meskipun Mahkamah berwenang untuk mengadili p ermohonan \nPemohon, namun oleh karena Pemohon tidak memiliki kedudukan huk um untuk \n\n \n \n \n \n71\nmengajukan permohonan a quo, Mahkamah tidak mempertimbangkan lebih lanjut \npermohonan Pemohon. \n[3.9] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 2622,
+      "end_line": 2762
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an",
+      "start_line": 2764,
+      "end_line": 2764
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon tidak memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut.   \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554) da n Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 2766,
+      "end_line": 2778
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nAdies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Y usmic P. Foekh, \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, pada hari Rabu, tanggal delapan, bulan Juli, tahun dua ribu dua puluh \nenam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka  untuk \numum pada hari Kamis, tanggal dua puluh tiga, bulan Juli, tahun dua ribu dua \n\n \n \n \n \n72\npuluh enam selesai diucapkan pukul  14.00 WIB oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Adi es Kadir, Liliek \nPrisbawono Adi, Enny Nurbaningsih, Daniel Yusmic P. Foekh, M. Guntur Hamzah, \nRidwan Mansyur, dan Arsul Sani, masing-masing sebagai Anggota, dengan dibantu \noleh Ida Ria Tambunan sebagai Panitera Pengganti, serta dihadir i oleh Dewan \nPerwakilan Rakyat atau yang mewakili, dan Presiden atau yang me wakili, tanpa \ndihadiri Pemohon. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nAdies Kadir   \nttd. \n                Liliek Prisbawono Adi \nttd. \nEnny Nurbaningsih  \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nIda Ria Tambunan",
+      "start_line": 2780,
+      "end_line": 2825
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Muhammad Reihan Alfariziq",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pihak Terkait",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 7/2017 tentang Pemilihan Umum"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 24C ayat (1)",
+      "Pasal 1 ayat (2)",
+      "Pasal 22E ayat (1)",
+      "Pasal 22E",
+      "Pasal 10 ayat (1) hur"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (1)",
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-9",
+      "BUKTI P-1",
+      "BUKTI P-5",
+      "BUKTI P-2",
+      "BUKTI P-8",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "REFERENSI:219/PUU-XXIV/2026",
+      "REFERENSI:218/PUU/PAN.MK/AP3/06/2026",
+      "REFERENSI:006/PUU-III/2005tanggal31Mei2005danPutusanNomor11/PUU-V/2007",
+      "REFERENSI:1/PHPU.PRES-XXII/2024",
+      "REFERENSI:01/PHPU-PRES/XVII/2019danPutusanMahkamahKonstitusiNomor1/PHPU.PRES-XXII/2024",
+      "REFERENSI:01/PHPU-PRES/XVII/2019",
+      "REFERENSI:01/PHPU-PRES/XVII/2019danPutusanNomor1/PHPU.PRES-XXII/2024",
+      "REFERENSI:102/PUU-VII/2009danPutusanNomor14/PUU-XI/2013",
+      "REFERENSI:01/PHPU.PRES-XVII/2019",
+      "REFERENSI:1/PHPU.PRES-XXII/2014",
+      "REFERENSI:2/PHPU.PRES-XXII/2024",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "mengenai kemungkinan pemeriksaan terhadap pelanggaran dalam",
+    "berkembang penafsiran yang memungkinkan pemeriksaan terhadap",
+    "memberikan pembatasan bahwa objek pemeriksaan Mahkamah",
+    "memungkinkan pemeriksaan terhadap pelanggaran proses yang",
+    "Pemeriksaan Pelanggaran Proses yang Memengaruhi Hasil Pemilu",
+    "pemeriksaan Mahkamah Konstitusi.",
+    "mengeliminasi pemeriksaan terhadap pelanggaran proses yang",
+    "objek pemeriksaan.",
+    "hasil tidak memperoleh mekanisme pemeriksaan yang jelas dan"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Ida Ria Tambunan"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "219/PUU-XXIV/2026",
+      "218/PUU/PAN.MK/AP3/06/2026",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanNomor11/PUU-V/2007",
+      "1/PHPU.PRES-XXII/2024",
+      "01/PHPU-PRES/XVII/2019danPutusanMahkamahKonstitusiNomor1/PHPU.PRES-XXII/2024",
+      "01/PHPU-PRES/XVII/2019",
+      "01/PHPU-PRES/XVII/2019danPutusanNomor1/PHPU.PRES-XXII/2024",
+      "102/PUU-VII/2009danPutusanNomor14/PUU-XI/2013",
+      "01/PHPU.PRES-XVII/2019",
+      "1/PHPU.PRES-XXII/2014",
+      "2/PHPU.PRES-XXII/2024",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "219/PUU-XXIV/2026",
+      "218/PUU/PAN.MK/AP3/06/2026",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanNomor11/PUU-V/2007",
+      "1/PHPU.PRES-XXII/2024",
+      "01/PHPU-PRES/XVII/2019danPutusanMahkamahKonstitusiNomor1/PHPU.PRES-XXII/2024",
+      "01/PHPU-PRES/XVII/2019",
+      "01/PHPU-PRES/XVII/2019danPutusanNomor1/PHPU.PRES-XXII/2024",
+      "102/PUU-VII/2009danPutusanNomor14/PUU-XI/2013",
+      "01/PHPU.PRES-XVII/2019",
+      "1/PHPU.PRES-XXII/2014",
+      "2/PHPU.PRES-XXII/2024",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

@@ -2,6 +2,14 @@
 
 ## Pembaruan 16 Oktober 2026
 
+- Koleksi diperluas lagi menjadi 200 perkara. Batch 100 tambahan menyimpan sumber,
+  checksum, dan fakta inti dalam `collection_200_sources.json`.
+- Haji & umrah menjadi 5 perkara, BUMN 11, dan Pendidikan 25; seluruh 17 topik bertambah.
+- Pencarian menerima nomor perkara singkat, variasi spasi/tanda baca, serta singkatan
+  nama undang-undang. Pencarian nomor menunjuk perkara itu sendiri.
+
+## Batch 100 perkara sebelumnya
+
 - Koleksi menjadi 100 perkara dalam 17 topik: 40 tambahan terbaru dan 22 perkara lama.
 - Beranda mengutamakan pencarian, filter pembaca, dan 20 hasil per halaman.
 - Cerita tetap tersedia di bawah daftar; filter operasional hanya tampil untuk pemilik.

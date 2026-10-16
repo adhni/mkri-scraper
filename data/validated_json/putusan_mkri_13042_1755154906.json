@@ -1,0 +1,756 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_13042_1755154906.pdf",
+    "file_name": "putusan_mkri_13042_1755154906.pdf",
+    "page_count": 30,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_13042_1755154906.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "115/PUU-XXIII/2025",
+    "related_case_numbers": [
+      "109/PUU/PAN.MK/AP3/06/2025"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2025-08-14",
+    "decision_date_raw": "empat belas, bulan Agustus, tahun dua ribu dua puluh lima",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 115/PUU-XXIII/2025",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan tera khir, \nmenjatuhkan putusan dalam perkara Pengujian Undang-Undang Nomor  1 Tahun \n2025 tentang Perubahan Ketiga Atas Undang-Undang Nomor 19 Tahun  2 0 0 3  \ntentang Badan Usaha Milik Negara terhadap Undang-Undang Dasar N egara \nRepublik Indonesia Tahun 1945, yang diajukan oleh:  \nNama  : Hosnika Purba \nPekerjaan  : Wiraswasta \nAlamat : Kp. Al Huda, 01/02, Desa Waluya, Kecamatan \nCikarang Utara, Kabupaten Bekasi, Provinsi Jawa \nBarat. \nSelanjutnya disebut sebagai ---------------------------------------------------------- Pemohon \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 6,
+      "end_line": 19
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan tanggal 17  \nJuni 2025 yang diterima Kepaniteraan Mahkamah Konstitusi (selan jutnya disebut \nKepaniteraan Mahkamah) pada tanggal 17 Juni 2025 berdasarkan Ak ta Pengajuan \nPermohonan Pemohon Nomor 109/PUU/PAN.MK/AP3/06/2025 dan telah d icatat \ndalam Buku Registrasi Perkara Konstitusi Elektronik (e-BRPK) de ngan Nomor \n115/PUU-XXIII/2025 pada tanggal 16 Juli 2025, yang telah diperb aiki dan diterima \n\n\n \n 2 \noleh Kepaniteraan Mahkamah pada tanggal 11 Agustus 2025, yang pada pokoknya \nsebagai berikut: \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 21,
+      "end_line": 33
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) UUD NRI 1945 perubahan ketiga menyat akan:",
+      "slug": "1-bahwa-pasal-24-ayat-2-uud-nri-1945-perubahan-ketiga-menyat-akan",
+      "text": "“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan badan \nperadilan yang berada di bawahnya dalam lingkungan peradilan um um, \nlingkungan peradilan agama, lingkungan peradilan militer, lingk ungan \nperadilan tata usaha negara, dan oleh  sebuah Mahkamah Konstitusi ”;",
+      "start_line": 35,
+      "end_line": 38
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) perubahan keempat UUD N RI 1945",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-perubahan-keempat-uud-n-ri-1945",
+      "text": "menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang  putusannya bersifat final untuk menguji undang-u ndang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan lemba ga \nnegara yang kewenangannya diberikan oleh Undang-Undang Dasar, \nmemutus pembubaran partai politik dan memutus perselisihan tent ang hasil \npemilu ”;",
+      "start_line": 40,
+      "end_line": 46
+    },
+    {
+      "heading": "3. Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga at as",
+      "slug": "3-undang-undang-nomor-7-tahun-2020-tentang-perubahan-ketiga-at-as",
+      "text": "Undang-Undang Nomor  24 Tahun 2003 tentang Mahkamah Konstitusi. \nBahwa berdasarkan ketentuan di atas, Mahkamah Konstitusi diberi  \nkewenangan oleh Undang-Undang Dasar Negara Republik Indonesia 1 945 \nuntuk melakukan pengujian undang-undang terhadap Undang-Undang \nDasar Negara Republik Indonesia 1945. Kemudian oleh Undang Unda ng \nNomor 7 Tahun 2020 tentang Perubahan Ketiga atas Undang Undang Nomor \n24 Tahun 2003 tentang Mahkamah Konstitusi (selanjutnya disebut Undang- \nUndang Mahkamah Konstitusi), pada Pasal 10 ayat (1) huruf a menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk; (a) menguji unda ng-undang \n(UU) terhadap UUD Tahun 1945 ”;",
+      "start_line": 48,
+      "end_line": 58
+    },
+    {
+      "heading": "4. Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakima n.",
+      "slug": "4-undang-undang-nomor-48-tahun-2009-tentang-kekuasaan-kehakima-n",
+      "text": "Bahwa selanjutnya kewenangan Mahkamah Konstitusi dalam menguji \nundang-undang terhadap Undang-Undang Dasar 1945 diatur dalam Pa sal \n29 ayat (1) Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan  \nKehakiman  menyatakan bahwa, Mahkamah Konstitusi berwenang mengadili \npada tingkat pertama dan terakhir yang putusannya bersifat final untuk: \n\n \n 3 \na. Menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik             Indonesia Tahun 1945; \nb. Memutus sengketa kewenangan lembaga negara yang kewenanganny a",
+      "start_line": 60,
+      "end_line": 70
+    },
+    {
+      "heading": "d i b e r i k a n oleh Undang-Undang Dasar Negara Republik Indonesia Tahun",
+      "slug": "d-i-b-e-r-i-k-a-n-oleh-undang-undang-dasar-negara-republik-indonesia-tahun",
+      "text": "1945;",
+      "start_line": 72,
+      "end_line": 72
+    },
+    {
+      "heading": "d. Memutus perselisihan tentang hasil pemilihan umum; dan",
+      "slug": "d-memutus-perselisihan-tentang-hasil-pemilihan-umum-dan",
+      "text": "e. Kewenangan lain yang diberikan oleh undang-undang",
+      "start_line": 75,
+      "end_line": 76
+    },
+    {
+      "heading": "5. Undang-Undang Nomor 12 Tahun 2011 sebagaimana telah diubah o leh",
+      "slug": "5-undang-undang-nomor-12-tahun-2011-sebagaimana-telah-diubah-o-leh",
+      "text": "Undang-Undang Nomor 13 Tahun 2022 tentang Pembentukan Peraturan  \nPerundang-Undangan. \nBahwa Pasal 7 ayat (1) Undang-Undang Nomor 12 Tahun 2011 \nsebagaimana telah diubah oleh Undang Undang Nomor 13 Tahun 2022  \ntentang Pembentukan Peraturan Perundang-Undangan, mengatur jenis dan \nhierarki kedudukan Undang-Undang Dasar 1945 lebih tinggi dari p ada \nundang-undang. Oleh karena itu, setiap ketentuan Undang Undang tidak \nboleh bertentangan dengan Undang-Undang Dasar 1945. Jika terdap at \nketentuan dalam Undang-Undang yang bertentangan dengan Undang- \nUndang Dasar 1945, ketentuan tersebut dapat dimohonkan    untuk  diuji \nmelalui mekanisme pengujian undang-undang, baik pengujian formil maupun \npengujian  materil.",
+      "start_line": 78,
+      "end_line": 89
+    },
+    {
+      "heading": "6. Bahwa selanjutnya Pasal 9 ayat (1) Undang-Undang Nomor 12 Tahun 2011",
+      "slug": "6-bahwa-selanjutnya-pasal-9-ayat-1-undang-undang-nomor-12-tahun-2011",
+      "text": "sebagaimana telah diubah oleh Undang-Undang Nomor 13 Tahun 2022  \ntentang Pembentukan Peraturan Perundang- Undangan mengatur bahw a \nmanakala terdapat dugaan suatu undang-undang bertentangan denga n \nUndang-Undang Dasar 1945, maka pengujiannya dilakukan oleh Mahkamah \nKonstitusi.",
+      "start_line": 91,
+      "end_line": 95
+    },
+    {
+      "heading": "7. Bahwa permohonan Pemohon Pengujian Undang-Undang Pasal 9G",
+      "slug": "7-bahwa-permohonan-pemohon-pengujian-undang-undang-pasal-9g",
+      "text": "Undang-undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas \nUndang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Neg ara \n(Lembaran Negara Republik Indonesia Nomor 25) dan (Tambahan Lembaran \nNegara Nomor 7097)  bertentangan dengan Pasal 1 ayat (3) Undang Undang \nDasar 1945.",
+      "start_line": 97,
+      "end_line": 101
+    },
+    {
+      "heading": "8. Bahwa oleh karena Pemohon memohon untuk melakukan pengujian undang-",
+      "slug": "8-bahwa-oleh-karena-pemohon-memohon-untuk-melakukan-pengujian-undang",
+      "text": "undang terhadap Undang-Undang Dasar 1945, maka Mahkamah Konstit usi \n\n \n 4 \nberwenang untuk menerima, memeriksa dan mengadili permohonan a quo. \nII. KEDUDUKAN HUKUM ( LEGAL STANDING)  PEMOHON",
+      "start_line": 103,
+      "end_line": 108
+    },
+    {
+      "heading": "1. Pasal 51 ayat (1) Undang-Undang Mahkamah Konstitusi mengatur bahwa,",
+      "slug": "1-pasal-51-ayat-1-undang-undang-mahkamah-konstitusi-mengatur-bahwa",
+      "text": "“Pemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na. Perorangan warga negara Indonesia; \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 110,
+      "end_line": 115
+    },
+    {
+      "heading": "2. Selanjutnya Penjelasan Pasal 51 ayat (1) menyatakan:",
+      "slug": "2-selanjutnya-penjelasan-pasal-51-ayat-1-menyatakan",
+      "text": "“Yang dimaksud dengan hak konstitusional adalah hak-hak yang di atur \ndalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+      "start_line": 119,
+      "end_line": 120
+    },
+    {
+      "heading": "3. Kemudian, berdasarkan bahwa yurisprudensi Mahkamah Konstitus i",
+      "slug": "3-kemudian-berdasarkan-bahwa-yurisprudensi-mahkamah-konstitus-i",
+      "text": "sebagaimana tertuang dalam Putusan Perkara Nomor 006/PUU-III/20 05 jo. \nPerkara Nomor 11/PUU-V/2007 memberikan batasan tentang kualifik asi \nPemohon dalam pengajuan permohonan pengujian undang-undang dan \nPasal 4 ayat (2) Peraturan Mahkamah Konstitusi Nomor 2 Tahun 20 21 \ntentang Tata Beracara Dalam Perkara Pengujian Undang-Undang, \nMahkamah Konstitusi telah menentukan 5 (lima) syarat  adanya kerugian  \nkonstitusional sebagaimana dimaksud dalam Pasal 51 ayat (1) Und ang-\nUndang Nomor 24 Tahun 2003 sebagaimana diubah dengan Undang-\nUndang Nomor 8 Tahun 2011 tentang Mahkamah Konstitusi  sebagai berikut: \na. ada hak dan/atau kewenangan konstitusional Pemohon yang dibe rikan \noleh Undang Undang Dasar 1945; \nb. hak dan/atau kewenangan konstitusional Pemohon dirugikan ole h \nberlakunya undang-undang atau Perppu yang dimohonkan pengujian;",
+      "start_line": 122,
+      "end_line": 134
+    },
+    {
+      "heading": "c. kerugian konstitusional dimaksud bersifat spesifik (khusus) dan aktual",
+      "slug": "c-kerugian-konstitusional-dimaksud-bersifat-spesifik-khusus-dan-aktual",
+      "text": "atau",
+      "start_line": 136,
+      "end_line": 136
+    },
+    {
+      "heading": "d. setidak- tidaknya potensial yang menurut penalaran yang waja r dapat",
+      "slug": "d-setidak-tidaknya-potensial-yang-menurut-penalaran-yang-waja-r-dapat",
+      "text": "dipastikan akan  terjadi; \ne. ada hubungan sebab-akibat antara kerugian konstitusional dan  \nberlakunya undang- undang atau Perppu yang dimohonkan pengujian. \n\n \n 5",
+      "start_line": 138,
+      "end_line": 143
+    },
+    {
+      "heading": "4. Bahwa dari lima syarat sebagaimana dimaksud diatas dijelaska n lagi oleh",
+      "slug": "4-bahwa-dari-lima-syarat-sebagaimana-dimaksud-diatas-dijelaska-n-lagi-oleh",
+      "text": "Mahkamah Konstitusional melalui Putusan Nomor 27/PUU-VII/2009 d alam \npengujian formil perubahan kedua Undang-Undang Mahkamah Agung y ang \nmenyebutkan “dari praktik Mahkamah (2003-2009) perorangan WNI \nterutama pembayar pajak (tax payer; vide Putusan Nomor 003/PUU1/2003) \nberbagai asosiasi dan NGO/LSM yang concern terhadap suatu Undang \nUndang demi kepentingan Mahkamah dianggap memiliki legal standing  \nuntuk mengajukan permohonan pengujian baik formil maupun materi il \nUndang-Undang Dasar 1945;",
+      "start_line": 145,
+      "end_line": 152
+    },
+    {
+      "heading": "5. Putusan Mahkamah Konstitusi Nomor 003/PUU-I/2003, sebagai pe rkara",
+      "slug": "5-putusan-mahkamah-konstitusi-nomor-003-puu-i-2003-sebagai-pe-rkara",
+      "text": "pertama yang menjadi preseden penggunaan doktrin pembayar pajak  \nsebagai kedudukan hukum dalam praktik pengujian UU di Indonesia . \nPemohon dalam perkara a quo mendalilkan dirinya sebagai pembayar pajak \nsebagai kedudukan hukumnya, yang direspons oleh Mahkamah Konsti tusi \ndengan memberikan pertimbangan hukum yang menyebutkan warga \nmasyarakat pembayar pajak ( taxpayer), dipandang memiliki kepentingan \nsesuai Pasal 51 UU MK 2003, yang sejalan dengan adagium no taxation \nwithout participation, dan sebaliknya no participation without tax;",
+      "start_line": 154,
+      "end_line": 161
+    },
+    {
+      "heading": "6. Bahwa ketentuan Pasal 51 huruf a Undang-Undang Nomor 24 Tahu n 2003",
+      "slug": "6-bahwa-ketentuan-pasal-51-huruf-a-undang-undang-nomor-24-tahu-n-2003",
+      "text": "tentang Mahkamah Konstitusi menyatakan bahwa “Pemohon adalah pi hak \nyang menganggap hak dan/atau kewenangan konstitusionalnya dirug ikan \noleh berlakunya undang-undang” salah satunya adalah “perorangan  warga \nnegara Indonesia”. Sejalan dengan itu, ketentuan Pasal 4 ayat ( 1) huruf a \nPeraturan Mahkamah Konstitusi Nomor 2 Tahun 2021 tentang Tata Beracara \ndalam Perkara Pengujian Undang-Undang juga menegaskan bahwa \nPemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang atau Perppu, \nyang salah satunya adalah “perorangan warga negara Indonesia at au \nkelompok orang yang mempunyai kepentingan sama”;",
+      "start_line": 163,
+      "end_line": 172
+    },
+    {
+      "heading": "7. Bahwa untuk memenuhi syarat kedudukan hukum sebagaimana dima ksud",
+      "slug": "7-bahwa-untuk-memenuhi-syarat-kedudukan-hukum-sebagaimana-dima-ksud",
+      "text": "dalam Pasal 51 ayat (1) Undang-Undang Mahkamah Konstitusi, Pemo hon \nmenerangkan bahwa Pemohon merupakan perorangan warga negara \nIndonesia yang dibuktikan dengan identitas ( K T P    B u k t i P-1) yang hak-hak \nkonstitusionalnya secara penalaran yang wajar (potensial) akan terlanggar \n\n \n 6 \ndengan keberadaan Pasal dalam perkara a quo . Bahwa untuk memenuhi \nsyarat kedudukan hukum sebagaimana dimaksud Pasal 51 ayat (1) Undang- \nUndang Mahkamah Konstitusi, Pemohonan menerangkan merupakan \nperorangan taat membayar pajak, di mana manfaat pajak yang paling utama \nadalah untuk berbagai pengeluaran negara, modal negara, modal  Badan \nUsaha Milik Negara, pembangunan hingga membayar gaji para pegaw ai \nnegara, dalam hal ini berkaitan modal dana usaha BUMN (Bukti NPWP P-2) \nyang hak Konstitusionalnya secara penalaran yang wajar (potensional) akan \nterlanggar dengan keberadaan pasal a quo;",
+      "start_line": 174,
+      "end_line": 189
+    },
+    {
+      "heading": "8. Bahwa, Pemohon memiliki alasan yang menjadi dasar ialah adanya kerugian",
+      "slug": "8-bahwa-pemohon-memiliki-alasan-yang-menjadi-dasar-ialah-adanya-kerugian",
+      "text": "yang mungkin akan timbul dikemudian hari atau disebut dengan ke rugian \nkonstitusional potensional dengan berlakunya Pasal 9G Undang-un dang \nNomor 1 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang \nNomor 19 Tahun 2003 tentang  Badan Usaha Milik Negara (Lembaran  \nNegara Republik Indonesia Nomor 25) dan (Tambahan Lembaran Nega ra \nNomor 7097)  yang mengatakan: \n\"Anggota Direksi, Dewan Komisaris, dan Dewan Pengawas BUMN buka n \nmerupakan penyelenggara negara”, menimbulkan ketidakpastian hukum dan \ndapat menimbulkan persoalan multitafsir hukum yang tidak jelas,  sehingga \npotensional hal ini bisa memengaruhi kewenangan KPK atau tidak bisa \nmenangani kasus korupsi pada jabatan strategis di tubuh BUMN, mengingat \nPasal 11 ayat (1) Undang-Undang Nomor 19 Tahun 2019 tentang KPK  \nmenyatakan bahwa lembaga antirasuah itu berwenang melakukan \npenyelidikan, penyidikan, dan penuntutan terhadap tindak pidana  korupsi \nyang melibatkan aparat penegak hukum, penyelenggara negara, dan  pihak \nlain yang berkaitan.",
+      "start_line": 191,
+      "end_line": 206
+    },
+    {
+      "heading": "9. Bahwa Pemohon sebagai perorangan warga negara Indonesia memi liki hak-",
+      "slug": "9-bahwa-pemohon-sebagai-perorangan-warga-negara-indonesia-memi-liki-hak",
+      "text": "hak konstitusional  yang diatur dalam Undang-Undang Dasar 1945,  yang \nkemudian hak-hak tersebut berpotensi tercederai dengan keberlakuan Pasal \nyang pengujiannya dimohonkan oleh Pemohon. Hak-hak konstitusional yang \ndiberikan oleh Undang-Undang Dasar 1945 kepada Pemohon kemudian  \ndijadikan sebagai batu uji. Pasal-pasal tersebut adalah sebagai berikut: \n        \n\n \n 7 \nPasal 33 ayat (2)  dan ayat (3) Undang-Undang Dasar 1945 \nPasal 33 ayat (2) \n“Cabang-cabang produksi yang penting bagi negara dan yang mengu asai \nhajat hidup orang banyak dikuasai oleh negara”. \nPasal 33 ayat (3) \n“Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh \nnegara dan dipergunakan untuk sebesar-besar kemakmuran rakyat”.",
+      "start_line": 208,
+      "end_line": 223
+    },
+    {
+      "heading": "10. Bahwa sebagai warga negara pembayar pajak yang merupakan sasaran dari",
+      "slug": "10-bahwa-sebagai-warga-negara-pembayar-pajak-yang-merupakan-sasaran-dari",
+      "text": "program pembangunan itu sendiri, Pemohon dirugikan atas berlakunya Pasal \nyang Pemohon mohonkan dalam pengujian a quo,  karena pasal tersebut \nmengandung ketidakjelasan sehingga menimbulkan ketidakpastian h ukum \nbagi KPK RI untuk menangani perkara-perkara dugaan tindak pidana korupsi \nyang pelakunya melibatkan kalangan pejabat BUMN anggota direksi, dewan \nkomisaris, dan dewan pengawas BUMN.",
+      "start_line": 225,
+      "end_line": 230
+    },
+    {
+      "heading": "11. Bahwa merujuk Pasal 1 angka 1 Keputusan Menteri Keuangan Re publik",
+      "slug": "11-bahwa-merujuk-pasal-1-angka-1-keputusan-menteri-keuangan-re-publik",
+      "text": "Indonesia Nomor 740/KMK.00/1989, BUMN adalah badan usaha yang \nseluruh atau sebagian besar modal nya dimiliki oleh negara melal ui \npenyertaan secara langsung yang berasal dari kekayaan negara ya ng \ndipisahkan, BUMN merupakan badan usaha atau perusahaan yang dimiliki \noleh pemerintah.",
+      "start_line": 232,
+      "end_line": 236
+    },
+    {
+      "heading": "12. Bahwa salah satu modal BUMN adalah sumber dana yang berasal d a r i",
+      "slug": "12-bahwa-salah-satu-modal-bumn-adalah-sumber-dana-yang-berasal-d-a-r-i",
+      "text": "anggaran pendapatan dan belanja negara (APBN) yang dialokasikan  oleh \npemerintah untuk BUMN. Modal ini dapat diberikan dalam bentuk h ibah, \npinjaman, penyertaan modal, atau penjaminan. Pemerintah dapat \nmemberikan modal ini sebagai bentuk dukungan terhadap BUMN dala m \nmencapai tujuan-tujuan strategis negara, seperti membangun infr astruktur, \nmengembangkan industri strategis, atau meningkatkan kualitas pe layanan \npublik.",
+      "start_line": 238,
+      "end_line": 244
+    },
+    {
+      "heading": "13. Bahwa Sumber APBN berasal dari pendapatan negara. Sumber-su mber",
+      "slug": "13-bahwa-sumber-apbn-berasal-dari-pendapatan-negara-sumber-su-mber",
+      "text": "pendapatan negara digolongkan menjadi tiga macam, yaitu pajak, \npenerimaan bukan pajak alias PNBP, dan hibah sebagaimana maksud \npenyusunan APBN  dalam Undang-undang Dasar (UUD) 1945 Pasal 23 ayat \n(1) yang ditetapkan setiap tahun.",
+      "start_line": 246,
+      "end_line": 249
+    },
+    {
+      "heading": "14. Bahwa selain berhak atas manfaat-manfaat pembangunan, selak u",
+      "slug": "14-bahwa-selain-berhak-atas-manfaat-manfaat-pembangunan-selak-u",
+      "text": "8 \nperorangan warga negara Indonesia, Pemohon juga memiliki hak da n \nkewajiban untuk mengambil peran serta dalam upaya pencegahan da n \npemberantasan tindak pidana korupsi sebagaimana telah ditegaska n oleh \nKetentuan Pasal 41 Undang-Undang Nomor 31 Tahun 1999 tentang \nPemberantasan Tindak Pidana Korupsi (“Undang-Undang Nomor 31 Ta hun \n1999”). Dalam ketentuan ayat (1) undang-undang ini dikatakan ba hwa \n“Masyarakat dapat berperan serta membantu upaya pencegahan dan \npemberantasan tindak pidana korupsi”. Selanjutnya dalam ketentuan ayat \n(2) huruf c dikatakan pula bahwa peran serta masyarakat membantu \npencegahan dan pemberantasan tindak pidana korupsi itu salah \nsatunya dilakukan dengan “hak menyampaikan saran dan pendapat \nsecara bertanggung jawab kepada penegak hukum yang menangani \nperkara tindak pidana korupsi ”. Dalam ketentuan ayat (2) huruf e lebih \ndipertegas kembali bahwa “masyarakat sebagaimana dimaksud pada ayat \n(1) mempunyai hak dan tanggung jawab dalam upaya pencegahan dan \npemberantasan tindak pidana korupsi”.",
+      "start_line": 251,
+      "end_line": 269
+    },
+    {
+      "heading": "15. Bahwa berlakunya pasal a quo menimbulkan keraguan bagi KPK RI untuk",
+      "slug": "15-bahwa-berlakunya-pasal-a-quo-menimbulkan-keraguan-bagi-kpk-ri-untuk",
+      "text": "mengusut perkara korupsi yang disebabkan berlakunya ketentuan p asal \nyang Pemohon ajukan dalam pengujian a quo , jelaslah berpotensi \nmenyebabkan perkara-perkara korupsi yang saat ini terjadi maupu n yang \nakan datang menjadi gagal atau setidak-tidaknya tidak dapat dit angani \ndengan optimal.  Kegagalan ataupun ketidak-optimalan penanganan perkara \nkorupsi yang melibatkan anggota direksi, dewan komisaris, dan d ewan \npengawas BUMN itu tentulah merugikan hak konstitusional Pemohon, sebab \nmanfaat-manfaat pembangunan yang semestinya Pemohon terima tida k \nakan pernah sampai kepada Pemohon.  Kerugian itu tentu tidak akan terjadi \napabila ketentuan hukum tersebut jelas dan gamblang itu memberi kan \nkepastian hukum kepada KPK RI untuk mengusut dan menangani perk ara \nkorupsi di tubuh BUMN.",
+      "start_line": 271,
+      "end_line": 282
+    },
+    {
+      "heading": "16. Bahwa sebagai bagian dari masyarakat jelaslah Pemohon berhak untuk ikut",
+      "slug": "16-bahwa-sebagai-bagian-dari-masyarakat-jelaslah-pemohon-berhak-untuk-ikut",
+      "text": "serta membantu upaya pencegahan dan pemberantasan tindak pidana  \nkorupsi melalui pemberian saran dan pendapat secara bertanggung  jawab \nyang dalam hal ini Pemohon lakukan dengan mengajukan pengujian a quo \nkepada Mahkamah semata agar kewenangan pengusutan perkara korup si \n\n \n 9 \ndapat diperkuat. Dengan begitu, kerugian negara atau kerugian \nperekonomian negara dapat dicegah dan ditanggulangi sedemikian rupa dari \nkemunculannya di kemudian hari.",
+      "start_line": 284,
+      "end_line": 293
+    },
+    {
+      "heading": "17. Bahwa sebagai peorangan warga negara, Pemohon berhak atas pengakuan,",
+      "slug": "17-bahwa-sebagai-peorangan-warga-negara-pemohon-berhak-atas-pengakuan",
+      "text": "jaminan, perlindungan, dan kepastian hukum yang adil sebagaimana dijamin \ndalam Ketentuan Pasal 28D ayat (1) Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945.  Hak konstitusional Pemohon itu telah \ndilanggar oleh ketentuan-ketentuan pasal yang Pemohon ajukan un tuk diuji \nkarena pasal tersebut mengakibatkan ketidakpastian hukum dalam \npengusutan perkara korupsi bagi pejabat BUMN oleh KPK RI.   \nKetidakpastian itu memunculkan kerugian konstitusional bagi Pem ohon \nkarena berpotensi mengganggu kepentingan Pemohon untuk menerima  \nmanfaat-manfaat pembangunan akibat perkara korupsi berpotensi g agal \nditangani atau ditangani secara tidak optimal. Atas dasar itu jelaslah terdapat \nhubungan sebab akibat ( causal verband ) antara kerugian yang Pemohon \nalami dengan berlakunya pasal yang Pemohon mohonkan untuk diuji . \nSekiranya Mahkamah mengabulkan permohonan Pemohon dengan \nmenyatakan ketentuan ketentuan pasal yang dimohonkan diuji itu adalah \ntermasuk pula KPK RI.  Maka kepastian hukum tentang hal ini akan terwujud \nsehingga kerugian konstitusional Pemohon itu tidak akan terjadi  lagi di \nkemudian hari.",
+      "start_line": 295,
+      "end_line": 311
+    },
+    {
+      "heading": "18. Bahwa berdasarkan seluruh uraian atas dapatlah disimpulkan bahwa",
+      "slug": "18-bahwa-berdasarkan-seluruh-uraian-atas-dapatlah-disimpulkan-bahwa",
+      "text": "Pemohon jelas memiliki kedudukan hukum ( legal standing ) untuk \nmengajukan Permohonan a quo. \nIII.  ALASAN PERMOHONAN \nA. Pasal 9G Undang-Undang Nomor 1 Tahun 2025 tentang Perubahan \nKetiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan \nUsaha Milik Negara bertentangan  Pasal 1 angka 1, Pasal 2 angka  7  \nUndang-Undang Nomor 28 Tahun 1999 tentang Penyelenggara Negara \nyang Bersih dan Bebas dari Korupsi, Kolusi, dan Nepotisme. \n \n \n \n \n\n \n 10",
+      "start_line": 313,
+      "end_line": 327
+    },
+    {
+      "heading": "GAMBARAN OBJEK BATU UJI",
+      "slug": "gambaran-objek-batu-uji",
+      "text": "Pasal Batu Uji Pasal Alasan \nPasal 9G  Undang-\nUndang Nomor 1 Tahun \n2025 tentang \nPerubahan Ketiga atas \nUndang-Undang Nomor \n19 Tahun 2003 tentang \nBadan Usaha Milik \nNegara \n Terhadap Pasal 1 ayat 33 \n(2) dan (3)  UUD \n1945 \nSebagai realisasi dari \nPasal 33 ayat (2) dan \n(3) UUD 1945 maka \ndidirikanlah Badan \nUsaha Milik Negara \n(BUMN). Maksud \npendirian BUMN \nadalah untuk \nmemenuhi jasa \npengabdian, melayani \nkepentingan umum, \ndan memupuk \npendapatan\nDalil dalil alasan permohonan Pemohon di bawah ini memberikan p enjelasan  \nadanya hubungan antara kerugian konstitusional potensional dima sa akan \ndatang dengan diberlakukannya Pengujian  Pasal 9G Undang-Undang Nomor 1 \nTahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 19  Tahun \n2003 tentang  Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia \nNomor 25) dan (Tambahan Lembaran Negara Nomor 7097).",
+      "start_line": 329,
+      "end_line": 359
+    },
+    {
+      "heading": "1. Bahwa Dewan Perwakilan Rakyat Republik Indonesia mengesahkan Un dang-",
+      "slug": "1-bahwa-dewan-perwakilan-rakyat-republik-indonesia-mengesahkan-un-dang",
+      "text": "Undang Nomor 1 Tahun 2025  tentang Perubahan Ketiga atas Undang-Undang \nNomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara \nRepublik Indonesia Nomor 25) dan (Tambahan Lembaran Negara Nomor 7097)  \ndalam rapat paripurna DPR RI ke-12 masa sidang-2 2025 di Komple ks \nParlemen, Senayan, Jakarta pada Selasa (4/2/2025).",
+      "start_line": 361,
+      "end_line": 365
+    },
+    {
+      "heading": "2. Bahwa terdapat Pasal 9G Undang-Undang Nomor 1 Tahun 2025 tentang",
+      "slug": "2-bahwa-terdapat-pasal-9g-undang-undang-nomor-1-tahun-2025-tentang",
+      "text": "Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang  Badan \nUsaha Milik Negara (Lembaran Negara Republik Indonesia Nomor 25 ) dan \n(Tambahan Lembaran Nwegara Nomor 7097) yang menyebut anggota direksi, \ndewan komisaris, dan dewan pengawas BUMN bukan penyelenggara ne gara \ndapat menimbulkan ketidakpastian hukum dan multitafsir hukum.",
+      "start_line": 367,
+      "end_line": 371
+    },
+    {
+      "heading": "3. Bahwa telah berlakunya Pasal 9G Undang-Undang Nomor 1 Tahun 2025 tentang",
+      "slug": "3-bahwa-telah-berlakunya-pasal-9g-undang-undang-nomor-1-tahun-2025-tentang",
+      "text": "Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang  Badan \nUsaha Milik Negara (Lembaran Negara Republik Indonesia Nomor 25 ) dan \n(Tambahan Lembaran Negara Nomor 7097) muncul ketidakpastian huk um \nkarena berbenturan dengan definisi 'penyelenggara negara' pada Undang- \nUndang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Korupsi Pasal 1 \n\n \n 11 \nayat (2) yaitu “Penyelenggara Negara adalah penyelenggara negar a \nsebagaimana dimaksud dalam Undang-Undang Nomor 28 Tahun 1999 te ntang \nPenyelenggara Negara yang Bersih dan Bebas dari Korupsi, Kolusi , dan \nNepotisme”, sehingga potensional hal ini bisa memengaruhi kewenangan KPK \natau tidak bisa menangani kasus korupsi pada jabatan strategis di tubuh BUMN, \nmengingat Pasal 11 ayat (1)  Undang-Undang Nomor 19 Tahun 2019 tentang \nPerubahan Kedua atas Undang-Undang Nomor 30 Tahun 2002 tentang Komisi \nPemberantasan Korupsi menyatakan bahwa lembaga antirasuah itu berwenang \nmelakukan penyelidikan, penyidikan, dan penuntutan terhadap tin dak pidana \nkorupsi yang melibatkan aparat penegak hukum, penyelenggara neg ara, dan \npihak lain yang berkaitan.",
+      "start_line": 373,
+      "end_line": 391
+    },
+    {
+      "heading": "4. Bahwa berlakunya pasal a quo menimbulkan keraguan bagi KPK RI untuk",
+      "slug": "4-bahwa-berlakunya-pasal-a-quo-menimbulkan-keraguan-bagi-kpk-ri-untuk",
+      "text": "mengusut perkara korupsi  yang disebabkan berlakunya ketentuan pasal yang \nPemohon ajukan dalam pengujian a quo , jelaslah berpotensi menyebabkan \nperkara-perkara korupsi yang saat ini terjadi maupun yang akan datang menjadi \ngagal atau setidak-tidaknya tidak dapat ditangani dengan optima l.  Kerugian itu \ntentu tidak akan terjadi apabila ketentuan hukum tersebut jelas  dan gamblang \ndengan itu memberikan kepastian hukum kepada KPK RI untuk mengu sut dan \nmenangani perkara korupsi di tubuh BUMN.",
+      "start_line": 393,
+      "end_line": 399
+    },
+    {
+      "heading": "5. Bahwa menurut Pemohon berdasarkan kajian undang-undang jika di cermati",
+      "slug": "5-bahwa-menurut-pemohon-berdasarkan-kajian-undang-undang-jika-di-cermati",
+      "text": "Direksi dan Komisaris BUMN merupakan termasuk dari penyelenggar a negara, \npenyelenggara negara adalah pejabat negara yang menjalankan kek uasaan \neksekutif, legislatif, atau yudikatif dan pejabat lain yang fun gsi dan tugas \nberkaitan dengan penyelenggaraan negara sesuai dengan ketentuan  peraturan \nperundang-undangan. \n1) Pasal 1 angka 1 Undang-Undang Nomor 28 Tahun 1999 tentang \nPenyelenggara Negara yang Bersih dan Bebas dari Korupsi, Kolusi , dan \nNepotisme adalah pejabat negara yang menjalankan fungsi eksekut if, \nlegislatif, atau yudikatif dan pejabat lain yang fungsi dan tug as pokoknya \nberkaitan dengan penyelenggaraan negara sesuai dengan ketentuan  \nperaturan perundang-undangan yang berlaku. \n2) Pasal 2 Undang-Undang Nomor 28 Tahun 1999 tentang Penyelenggara \nNegara yang Bersih dan Bebas dari Korupsi, Kolusi, dan Nepotisme. \n\n \n 12 \npenyelenggara negara tersebut, yakni pejabat negara pada lembaga tertinggi \nnegara (karena pada saat itu lembaga MPR masih diberi status se bagai \nlembaga tertinggi negara); pejabat negara pada lembaga tinggi n egara; \nmenteri; gubernur; hakim; pejabat negara yang lain sesuai dengan ketentuan \nperaturan perundang-undangan yang berlaku; dan penjabat lain ya ng \nmemiliki fungsi strategis dalam kaitannya dengan penyelenggara negara \nsesuai dengan ketentuan peraturan perundang-undangan yang berlaku.  \nfungsi strategis dijelaskan di dalam Pasal 2 angka 7 Undang-Undang Nomor \n28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Beba s dari \nKorupsi, Kolusi, dan Nepotisme yaitu: “ pejabat lain yang memiliki fungsi \nstrategis” adalah direksi, komisaris, dan pejabat struktural lainnya pad a \nBadan Usaha Milik Negara dan Badan Usaha Milik Daerah; Pimpinan  Bank \nIndonesia dan Pimpinan Badan Penyehatan Perbankan Nasional (kar ena \npada waktu itu masih ada BPPN yang sekarang diteruskan oleh PPA ); \nPimpinan Perguruan Tinggi Negeri; Pejabat Eselon I dan pejabat lain yang \ndisamakan di lingkungan sipil, militer, dan Kepolisian Negara R epublik \nIndonesia; Jaksa; Penyidik; Panitera Pengadilan; dan Pemimpin d an \nbendaharawan proyek. \n3) Pasal 1 angka 3 Undang-Undang Keterbukaan Informasi Publik y aitu:  \nBadan Publik adalah lembaga eksekutif, legislatif, yudikatif, d an badan lain \nyang fungsi  dan tugas pokoknya berkaitan dengan penyelenggaraan negara, \nyang sebagian atau seluruh dananya bersumber dari Anggaran Pend apatan \ndan Belanja Negara dan/atau Anggaran Pendapatan dan Belanja Dae rah \n(APBN dan/atau APBD), atau organisasi non pemerintah sepanjang sebagian \natau seluruh dananya bersumber dari APBN dan/atau APBD, sumbang an \nmasyarakat, dan/atau luar negeri. \n4) Pasal 14 Undang-Undang Keterbukaan Informasi Publik. \nInformasi Publik yang wajib disediakan oleh Badan Usaha Milik N egara \n(BUMN), Badan Usaha Milik Daerah (BUMD) dan/atau badan usaha lainnya \nyang dimiliki oleh negara adalah: \na) nama dan tempat kedudukan, maksud dan tujuan serta jenis keg iatan \nusaha, jangka waktu pendirian, dan permodalan, sebagaimana \ntercantum dalam anggaran dasar;  \n\n \n 13 \nb) nama lengkap pemegang saham, anggota direksi, dan anggota dewan \nkomisaris perseroan;  \nc) laporan tahunan, laporan keuangan, neraca laporan laba rugi,  d a n  \nlaporan tanggung jawab sosial perusahaan yang telah diaudit;  \nd) hasil penilaian oleh auditor eksternal, lembaga pemeringkat kredit dan \nlembaga pemeringkat lainnya; \ne) sistem dan alokasi dana remunerasi anggota komisaris/dewan \npengawas dan direksi; \nf) mekanisme penetapan direksi dan komisaris/dewan pengawas; \ng) kasus hukum yang berdasarkan undang-undang terbuka sebagai \ninformasi publik; \nh) pedoman pelaksanaan tata kelola perusahaan yang baik berdasa rkan \nprinsip-prinsip transparansi, akuntabilitas, pertanggungjawaban , \nkemandirian, dan kewajaran; \ni) pengumuman penerbitan efek yang bersifat utang; \nj) penggantian akuntan yang mengaudit perusahaan;perubahan tahu n \nfiskal perusahaan; \nk) kegiatan penugasan pemerintah dan/atau kewajiban pelayanan u mum \natau subsidi; \nl) mekanisme pengadaan barang dan jasa; dan/atau \nm) informasi lain yang ditentukan oleh undang-undang yang berka itan \ndengan Badan Usaha Milik Negara/ Badan Usaha Milik Daerah",
+      "start_line": 401,
+      "end_line": 475
+    },
+    {
+      "heading": "6. B a h w a Komisaris maupun Direksi memiliki peran penting dalam peran st rategis",
+      "slug": "6-b-a-h-w-a-komisaris-maupun-direksi-memiliki-peran-penting-dalam-peran-st-rategis",
+      "text": "menjalankan dan mengawasi kinerja BUMN.  Terdapat dua organ uta ma yang \nmemiliki peran krusial dalam pengelolaan dan pengawasan perusah aan, yaitu \nDewan Komisaris dan Direksi,  keduanya memiliki fungsi yang berbeda tetapi \nsaling berkaitan dalam memastikan perusahaan berjalan sesuai de ngan visi, \nmisi, dan peraturan yang berlaku.   \nPasal 108 ayat (1) Undang-Undang Nomor 40 Tahun 2007 tentang Pe rseroan \nTerbatas: \n“Dewan Komisaris melakukan pengawasan secara umum dan/atau khusus serta  \nmemberi nasihat kepada Direksi”.   \n    \n\n \n 14 \n Tugas Pokok Komisaris  yaitu:  \n1) Mengawasi pelaksanaan rencana kerja oleh Direksi. \n2) Menguji dan mengevaluasi laporan keuangan dan tahunan \nperusahaan. \n3) Memberikan nasihat terhadap risiko bisnis dan strategi perus ahaan. \n4) Menyetujui atau menolak kebijakan Direksi dalam hal-hal tert entu. \n5) Meminta informasi dari Direksi secara berkala. \n6) Memberhentikan sementara Direksi (dalam keadaan mendesak). \n Tugas Pokok Direksi yaitu: \n Pasal 92 ayat (1) Undang-Undang Nomor 40 Tahun 2007 tentang  P erseroan  \nTerbatas: \n“Direksi menjalankan pengurusan untuk kepentingan dan tujuan Perseroan serta \nmewakili Perseroan, baik di dalam maupun di luar pengadilan”. \n1) Menyusun dan menjalankan rencana kerja perusahaan. \n2) Menjalankan aktivitas bisnis sehari-hari. \n3) Menandatangani kontrak dan dokumen hukum atas nama PT. \n4) Mewakili perusahaan di pengadilan. \n5) Mengelola keuangan dan sumber daya. \n6) Menyusun laporan tahunan dan laporan keuangan. \n7) Memastikan kepatuhan terhadap regulasi hukum.",
+      "start_line": 477,
+      "end_line": 509
+    },
+    {
+      "heading": "7. B a h w a melihat aturan dan penjelasan di atas, Direksi dan Komisaris memiliki",
+      "slug": "7-b-a-h-w-a-melihat-aturan-dan-penjelasan-di-atas-direksi-dan-komisaris-memiliki",
+      "text": "kedudukan dan peran masing-masing dalam suatu perusahaan. Direksi memiliki \nkewenangan untuk mengambil keputusan operasional penting yang \nmempengaruhi arah dan kinerja perusahaan. Sementara komisaris b erperan \ndalam memberikan nasihat dan rekomendasi kepada direksi, namun mereka \ntidak terlibat secara langsung dalam pengambilan keputusan operasional harian \nperusahaan.  Komisaris lebih fokus pada pengawasan, kepatuhan terhadap \nregulasi, analisis laporan keuangan, dan perlindungan kepenting an pemegang \nsaham. Sedangkan direktur lebih fokus pada pengelolaan operasio nal, \npencapaian tujuan perusahaan, pengambilan keputusan taktis, dan pelaksanaan \nstrategi perusahaan. \nContoh kasus aktual sebelum berlakunya Pasal 9G Undang-undang N omor 1 \nTahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 19  Tahun \n\n \n 15 \n2003 tentang  Badan Usaha Milik Negara yang ditangani Komisi Pemberantasan \nKorupsi yang melibatkan Komisaris dan Direksi Perusahaan BUMN.   \n \n1)  Komisi Pemberantasan Korupsi (KPK) melakukan penahanan terhada p dua \norang tersangka dugaan tindak pidana korupsi terkait perjanjian jual-beli gas \nantara PT PGN dan PT IAE. Kedua tersangka tersebut adalah ISW s elaku \nKomisaris PT. IAE (2006-2023) dan  DP selaku Direktur Komersial PT PGN \n(2016 -2019). \nhttps://www.kpk.go.id/id/ruang-informasi/berita/kpk-tahan-2-tersangka-\nkorupsi- terkait-perjanjian-jual-beli-gas-pt-pgn-dan-pt-iae  Jakarta, 11 April \n2025. \n2) Mantan Dirut Pertamina Karen Agustiawan ditetapkan sebagai t ersangka \nkasus dugaan korupsi terkait pembelian liquefied natural gas (LNG) atau gas \nalam cair yang disebut merugikan negara Rp 2,1 triliun.  \nhttps://news.detik.com/berita/d-6940697/karen-agustiawan-lepas-di-kasus-\nrp-568-m-kini-tersangka-korupsi-rp-2-1-t. Rabu, 20 Sep 2023 10:35 WIB. \n3) Penyidik Komisi Pemberantasan Korupsi (KPK) memanggil mantan  Direktur \nUtama Pertamina Energy Trading Limited (Petral) Bambang Irianto. \nhttps://www.tribunnews.com/nasional/2025/03/10/kpk-panggil-eks-dirut-\npetral-bambang-irianto-tersangka-kasus-mafia-migas. \n4)   Komisi Pemberantasan Korupsi menetapkan dua tersangka baru  d a l a m  \nkasus korupsi pembelian gas alam cair atau liquefied natural gas (LNG) di PT \nPertamina (persero) pada 2011-2014. Lembaga antirasuah tersebut  \nmengkonfirmasi penyidikan ini adalah kelanjutan dari penanganan  perkara \nterhadap eks Direktur Utama PT Pertamina Galaila Karen Kardinah  a t a u  \nKaren Agustian. \nhttps://www.bloombergtechnoz.com/detail-news/42448/usai-karen-kpk-\ntetapkan-2-eks-petinggi-pertamina-jadi-tersangka, 03 July 2024 05:30 \n5)  Kasus korupsi di lingkungan Badan Usaha Milik Negara (BUMN) menjadi isu \nserius yang mencoreng kepercayaan publik serta merugikan pereko nomian \nnasional. Ironisnya, tidak sedikit direksi perusahaan pelat mer ah justru \nmenjadi tersangka korupsi dengan berbagai modus operandi yang merugikan \nnegara secara signifikan. \nhttps://icwpost.id/10-direksi-bumn-terseret-kasus-korupsi/   \n\n \n 16 \nRedaksi ICW Post 09 Mei 2025",
+      "start_line": 511,
+      "end_line": 563
+    },
+    {
+      "heading": "8. Bahwa dengan berlakunya Pasal 9G Undang-Undang Nomor 1 Tahun 2025",
+      "slug": "8-bahwa-dengan-berlakunya-pasal-9g-undang-undang-nomor-1-tahun-2025",
+      "text": "tentang BUMN yang sebelumnya KPK RI jelas berwe nang menangani k asus \nkorupsi pada jabatan BUMN, potensional hal ini bisa memengaruhi kewenangan \nKPK RI atau tidak bisa menangani kasus korupsi pada jabatan strategis di tubuh \nBUMN, karena disebabkan  bergesernya makna definisi penyelenggara \nnegara.",
+      "start_line": 565,
+      "end_line": 569
+    },
+    {
+      "heading": "9. Bahwa kesimpulan Pemohon, Pasal 9G Undang-Undang Nomor 1 Tahun 2025",
+      "slug": "9-bahwa-kesimpulan-pemohon-pasal-9g-undang-undang-nomor-1-tahun-2025",
+      "text": "tentang BUMN yang menyebut anggota direksi, dewan komisaris, da n dewan \npengawas BUMN bukan penyelenggara negara, dalam perkara a quo  t e l a h  \nmuncul ketidakpastian hukum karena kontradiktif berlawanan dengan ruang \nlingkup penyelenggara negara yang diatur dalam Pasal 1 angka 1, Pasal 2 angka \n7 beserta Penjelasannya dalam Undang Undang Nomor 28 Tahun 1999 tentang \nPenyelenggaraan Negara yang Bersih dan Bebas dari Korupsi, Kolu si, dan \nNepotisme. \nB. Ketentuan Penerapan Pasal 9G Undang-undang Nomor 1 Tahun 2025 \nTentang   Perubahan Ketiga atas Undang-Undang Nomor 19 Ta hun 2003 \nTentang  Badan Usaha Milik Negara Rentan menjadi Objek Praperadilan",
+      "start_line": 571,
+      "end_line": 580
+    },
+    {
+      "heading": "10. Bahwa Pasal 1 angka 10 KUHAP menyatakan bahwa Praperadilan adalah",
+      "slug": "10-bahwa-pasal-1-angka-10-kuhap-menyatakan-bahwa-praperadilan-adalah",
+      "text": "wewenang pengadilan negeri untuk memeriksa dan memutus menurut cara yang \ndiatur dalam undang-undang ini.",
+      "start_line": 582,
+      "end_line": 583
+    },
+    {
+      "heading": "11. Bahwa menurut Pemohon, potensional dikemudian hari penerapan Pa sal 9G",
+      "slug": "11-bahwa-menurut-pemohon-potensional-dikemudian-hari-penerapan-pa-sal-9g",
+      "text": "Undang-Undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas Undang-\nUndang Nomor 19 Tahun 2003 tent ang  Badan Usaha Milik Negara (Lembaran \nNegara Republik Indonesia Nomor 25) dan (Tambahan Lembaran Nega ra \nNomor 7097)  a k a n  memunculkan ketidakjelasan hukum dan rentan menjadi \nObjek Praperadilan.",
+      "start_line": 585,
+      "end_line": 589
+    },
+    {
+      "heading": "12. Bahwa Mahkamah Konstitusi melalui Putusan MK Nomor 21/PUU-XII/2014 telah",
+      "slug": "12-bahwa-mahkamah-konstitusi-melalui-putusan-mk-nomor-21-puu-xii-2014-telah",
+      "text": "memperluas objek praperadilan dengan menetapkan sah tidaknya pe netapan \ntersangka, penggeledahan dan penyitaan sebagai objek praperadilan yang baru. \nHal itu sebagaimana tertuang dalam amar Putusan MK Nomor 21/PUU-XII/2014 \nbunyinya sebagai berikut \n1) Pasal 77 huruf a Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara \nPidana (Lembaran Negara Republik Indonesia Tahun 1981, Nomor 76 , \n\n \n 17 \nTambahan Lembaran Negara Republik Indonesia Nomor 3209) bertentangan \ndengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945  \nsepanjang tidak dimaknai termasuk penetapan tersangka, penggele dahan, \ndan penyitaan \n2) Pasal 77 huruf a Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara \nPidana (Lembaran Negara Republik Indonesia Tahun 1981, Nomor 76 , \nTambahan Lembaran Negara Republik Indonesia Nomor 3209) tidak \nmempunyai kekuatan hukum mengikat sepanjang tidak dimaknai term asuk \npenetapan tersangka, penggeledahan, dan penyitaan",
+      "start_line": 591,
+      "end_line": 608
+    },
+    {
+      "heading": "13. Bahwa pasal a quo dan Putusan MK Nomor 21/PUU-XII/2014 dapat",
+      "slug": "13-bahwa-pasal-a-quo-dan-putusan-mk-nomor-21-puu-xii-2014-dapat",
+      "text": "menimbulkan keragu-raguan bagi Komisi Pemberantasan Korupsi Rep ublik \nIndonesia untuk mengusut perkara korupsi di tubuh BUMN yang dis ebabkan \nberlakunya ketentuan pasal yang Pemohon ajukan dalam pengujian a quo , \njelaslah berpotensi menyebabkan perkara-perkara korupsi yang sa at ini terjadi \nmaupun yang akan datang menjadi gagal atau setidak-tidaknya tid ak dapat \nditangani dengan optimal bahkan berpotensi kalah pada proses Pr aperadilan \ndalam penetapan Tersangka.",
+      "start_line": 610,
+      "end_line": 616
+    },
+    {
+      "heading": "14. Bahwa selain rentan menjadi objek Praperadilan dan tidak ada kepastian hukum,",
+      "slug": "14-bahwa-selain-rentan-menjadi-objek-praperadilan-dan-tidak-ada-kepastian-hukum",
+      "text": "perkara a quo dapat menjadi perbedaan pendapat dikemudian hari antara Komisi \nPemberantasan Korupsi Republik Indonesia, Kejaksaan Agung Repub lik \nIndonesia dan Polri mengenai kewenangan mengusut kasus korupsi di BUMN, \nhal tersebut pernah terjadi pada kasus lain di antaranya kasus yang terjadi \nperseteruan antara Polri dengan Komisi Pemberantasan Korupsi Re publik \nIndonesia  kasus Cicak vs Buaya pada tahun 2009.",
+      "start_line": 618,
+      "end_line": 623
+    },
+    {
+      "heading": "15. Bahwa selain kasus cicak buaya, tahun ini publik dikejutkan adanya penagguhan",
+      "slug": "15-bahwa-selain-kasus-cicak-buaya-tahun-ini-publik-dikejutkan-adanya-penagguhan",
+      "text": "tahanan kades kohod kasus pagar laut di wilayah Tanggerang yang disebabkan \nberbeda penafsiran antara Polri dengan Kejaksaan Agung, Polri m engatakan \ndalam jumpa Pers kasus tersebut masuk kedalam kategori tindak p idana \npemalsuan surat (KUHP), sementara Kejaksaan Agung mengatakan da lam \njumpa Pers kasus tersebut masuk kedalam korupsi atau terkena undang undang \ntindak pidana korupsi (UUTPK), alhasil hari ini Kades Kohod sud ah bebas dari \ntahanan dan tidak ada kejelasan status hukumnya. \nBerita Alasan Bareskrim Lepas Kades Kohod Cs: Penyidik dan Jaks a Belum \nSepaham \n\n \n 18 \nhttps://www.idntimes.com/news/indonesia/irfanfathurohman/alasan-bareskrim-\nlepas-kades-kohod-cs-penyidik-dan \njaksabelumsepaham?utm_source=others&utm_medium=websharing, 24 April \n2024, pukul 18:43",
+      "start_line": 625,
+      "end_line": 640
+    },
+    {
+      "heading": "16. Bahwa ketidak jelasan perkara a quo menjadi objek Praperadilan berdampak",
+      "slug": "16-bahwa-ketidak-jelasan-perkara-a-quo-menjadi-objek-praperadilan-berdampak",
+      "text": "pada perkara pidana korupsi yang sedang berjalan. Jika pengadil an \nmemutuskan bahwa tindakan penegak hukum tidak sah, maka, peneta pan \nTersangka, penangkapan atau penahanan dinyatakan tidak sah, Ter sangka \ndibebaskan, penghentian penyidikan atau penuntutan dinyatakan t idak sah \nperkara dihentikan.  Selain lepas dari tuntutan berdampak juga dengan adanya \nganti kerugian yang dijelaskan lebih lanjut dalam Pasal 95  dan Pasal 96 \nKUHAP. Menurut Pasal 95 ayat (1)  KUHAP “tersangka, terdakwa ata u \nterpidana berhak menuntut ganti kerugian karena ditangkap, dita han, dituntut \ndan diadili atau dikenakan tindakan lain, tanpa alasan yang ber dasarkan \nundang-undang atau karena kekeliruan mengenai orangnya atau huk um yang \nditerapkan”. \nC. Kerugian Badan Usaha Milik Negara Merupakan Termasuk Sebagai \nKerugian Negara",
+      "start_line": 642,
+      "end_line": 654
+    },
+    {
+      "heading": "17. Pengertian keuangan negara dapat dilihat di dalam Pasal 1 angk a 1 Undang-",
+      "slug": "17-pengertian-keuangan-negara-dapat-dilihat-di-dalam-pasal-1-angk-a-1-undang",
+      "text": "Undang Nomor 17 Tahun 2003 tentang Keuangan Negara dan Pasal 1 angka 7 \nUndang-Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa Keuan gan \nmenyatakan bahwa: \nKeuangan Negara adalah semua hak dan kewajiban negara yang dapa t dinilai \ndengan uang, serta segala sesuatu baik berupa uang maupun berup a barang \nyang dapat dijadikan milik negara berhubung dengan pelaksanaan hak dan \nkewajiban tersebut.  Adapun, pengertian dari kerugian keuangan negara atau \nkerugian negara dapat disimak di dalam Pasal 1 angka 22 Undang- Undang \nNomor 1 Tahun 2004 tentang Perbendaharaan Negara dan Pasal 1 an gka 15 \nUndang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara yang \nberbunyi: \nKerugian Negara/Daerah adalah kekurangan uang, surat berharga, dan barang, \nyang nyata dan pasti jumlahnya sebagai akibat perbuatan melawan  hukum baik \nsengaja maupun lalai. \n\n \n 19 \nPenjelasan Pasal 32 ayat (1) Undang-Undang Nomor 31 Tahun 1999 tentang \nPemberantasan Tindak Pidana Korupsi menerangkan bahwa yang dima ksud \ndengan “secara nyata telah ada kerugian keuangan negara ”adalah  kerugian \nyang sudah dapat dihitung jumlahnya berdasarkan hasil temuan in stansi yang \nberwenang atau akuntan publik yang ditunjuk”.",
+      "start_line": 656,
+      "end_line": 677
+    },
+    {
+      "heading": "18. Bahwa mengacu pada Putusan Mahkamah Konstitusi (MK) Nomor 48/P UU-",
+      "slug": "18-bahwa-mengacu-pada-putusan-mahkamah-konstitusi-mk-nomor-48-p-uu",
+      "text": "XI/2013 dan Nomor 62/PUU-XI/2013, yang kemudian diperkuat oleh Putusan MK \nNomor 59/PUU-XVI/2018 dan Nomor 26/PUU-XIX/2021, Seluruh putusa n \ntersebut menjadi acuan final mengenai kedudukan kekayaan negara  y a n g  \ndipisahkan, dalam putusan-putusan tersebut, Majelis Hakim Mahka mah \nKonstitusi menegaskan bahwa kekayaan negara yang dipisahkan tet ap \nmerupakan bagian dari keuangan negara, termasuk dalam konteks B adan \nUsaha Milik Negara sebagai derivasi dari penguasaan negara. Ole h karena itu, \nsegala pengaturan di bawah Undang-Undang Dasar 1945 tidak boleh  \nmenyimpang dari tafsir konstitusi yang telah ditetapkan oleh Ma hkamah \nKonstitusi. \nD. Sejarah Terbentuknya Komisi Pemberantasan Korupsi Adalah Kur ang \nEfektifnya Lembaga Lembaga Penegak Hukum di Bidang Korupsi",
+      "start_line": 679,
+      "end_line": 690
+    },
+    {
+      "heading": "19. Bahwa KPK merupakan salah satu lembaga khusus yang dibentuk un tuk",
+      "slug": "19-bahwa-kpk-merupakan-salah-satu-lembaga-khusus-yang-dibentuk-un-tuk",
+      "text": "memberantas korupsi yang ada di Indonesia. Keberadaan KPK ini m emiliki \nsejarah berdiri yang sudah diinisiasi sejak lama, yaitu sejak tahun 2002.  Dikutip \ndari buku berjudul Pengaturan Kewenangan KPK dan Polri dalam Pe nyidikan \nTindak Pidana Korupsi di Indonesia oleh Rudy Cahya Kurniawan (2 021: 64), \npembentukan KPK disahkan setelah terbitnya Undang-Undang Nomor 31 Tahun \n1999 tentang Pemberantasan Tindak Pidana Korupsi.  Kemudian, pa da 5 April \n2000, Abdurrahman Wahid yang menjabat sebagai Presiden RI kala itu \nmengeluarkan Peraturan Pemerintah Tahun 2000 Tentang Tim Gabung an \nPemberantasan Tindak Pidana Korupsi.",
+      "start_line": 692,
+      "end_line": 700
+    },
+    {
+      "heading": "20. Bahwa Sebelum KPK berdiri, beberapa lembaga telah dibentuk unt uk",
+      "slug": "20-bahwa-sebelum-kpk-berdiri-beberapa-lembaga-telah-dibentuk-unt-uk",
+      "text": "mengawasi dan menangani korupsi, seperti Komisi Pengawas Kekaya an \nPejabat Negara (KPKPN), Komisi Pe ngawas Persaingan Usaha (KPPU) , dan \nOmbudsman. Meskipun demikian, lembaga-lembaga ini dianggap belu m cukup \nefektif, dan pada masa Presiden Megawati Soekarnoputri pada 20 Desember \n2002, dengan tujuan menangani kasus korupsi secara lebih efekti f dan \n\n \n 20 \nindependen KPK dibentuk di Jakart a, itulah alasan dibentuknya K PK karena \ndianggap masih lemahnya lembaga lembaga penegak hukum dalam \nmemberantas korupsi. \nE. Berlakunya Pasal 9G UU BUMN Nomor 1 Tahun 2025 Anggota Direksi \nDewan Komisaris dan Dewan Pengawas BUMN  Berdampak Tidak Wajib \nLapor LHKPN",
+      "start_line": 702,
+      "end_line": 715
+    },
+    {
+      "heading": "21. Bahwa setiap tahunnya para pejabat wajib mengirimkan Laporan H arta",
+      "slug": "21-bahwa-setiap-tahunnya-para-pejabat-wajib-mengirimkan-laporan-h-arta",
+      "text": "Kekayaan Penyelenggara Negara atau LHKPN. Masyarakat dapat mema ntau \nLHKPN tersebut, bahkan melaporkan jika ada harta kekayaan yang tidak benar \natau kurang. Semua mekanisme ini dilakukan sebagai bentuk pence gahan \nkorupsi yang melibatkan peran serta masyarakat. Kewajiban pelap oran harta \nkekayaan oleh penyelenggara negara diatur UU Nomor 28 Tahun 199 9 tentang \nPenyelenggara Negara Yang Bersih Dan Bebas Dari Korupsi, Kolusi  D a n  \nNepotisme, UU Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak \nPindana Korupsi, dan Peraturan Komisi Pemberantasan Korupsi Nom or 07 \nTahun 2016 tentang Tata Cara Pendaftaran, Pengumuman, dan Pemer iksaan \nHarta Kekayaan Penyelenggara Negara.",
+      "start_line": 717,
+      "end_line": 726
+    },
+    {
+      "heading": "22. Bahwa penyelenggara negara yang wajib melapor harta kekayaan a dalah para",
+      "slug": "22-bahwa-penyelenggara-negara-yang-wajib-melapor-harta-kekayaan-a-dalah-para",
+      "text": "pejabat di lembaga tinggi negara, menteri, gubernur, hakim, ser ta para pejabat \nlain yang memiliki fungsi strate gi penyelenggaraan negara. Dala m mengisi \nLHKPN, para pejabat negara wajib mencatatkan seluruh harta yang  dimiliki diri \nsendiri, pasangan, dan anak yang masih dalam tanggungannya. Hal  tersebut \nmengacu pada  Pasal 7 ayat (1) huruf a  UU 19/2019 pendaftaran dan \npemeriksaan LHKPN tersebut merupakan pelaksanaan dari tugas pen cegahan \nKomisi Pemberantasan Korupsi.",
+      "start_line": 728,
+      "end_line": 734
+    },
+    {
+      "heading": "23. Bahwa yang wajib menyampaikan LHKPN ketika ia menjabat sebagai status",
+      "slug": "23-bahwa-yang-wajib-menyampaikan-lhkpn-ketika-ia-menjabat-sebagai-status",
+      "text": "penyelenggara negara,  penyelenggara negara adalah pejabat negara yang \nmenjalankan fungsi eksekutif, legislatif, atau yudikatif, dan p ejabat lain yang \nfungsi dan tugas pokoknya berkaitan dengan penyelenggaraan nega ra \natau pejabat publik lainnya sesuai dengan ketentuan perundang-undangan yang \nberlaku.  Mengacu penjelasan makna penyelenggara negara dalam P asal 2 UU \n28/1999 tentang Korupsi, Kolusi dan Nepotisme dan Penjelasannya , diatur \nbahwa yang termasuk dalam kategori penyelenggara negara adalah:",
+      "start_line": 736,
+      "end_line": 742
+    },
+    {
+      "heading": "1. pejabat negara pada lembaga tertinggi negara;",
+      "slug": "1-pejabat-negara-pada-lembaga-tertinggi-negara",
+      "text": "21",
+      "start_line": 744,
+      "end_line": 746
+    },
+    {
+      "heading": "6. pejabat negara yang lain sesuai ketentuan peraturan perundan g-undangan",
+      "slug": "6-pejabat-negara-yang-lain-sesuai-ketentuan-peraturan-perundan-g-undangan",
+      "text": "yang berlaku, misalnya duta besar luar biasa dan berkuasa penuh , wakil \ngubernur, dan bupati/wali kota; dan",
+      "start_line": 752,
+      "end_line": 753
+    },
+    {
+      "heading": "11. pejabat eselon I dan pejabat lain yang disamakan di lingkungan sipil, militer,",
+      "slug": "11-pejabat-eselon-i-dan-pejabat-lain-yang-disamakan-di-lingkungan-sipil-militer",
+      "text": "dan kepolisian;",
+      "start_line": 759,
+      "end_line": 759
+    },
+    {
+      "heading": "15. pemimpin dan bendaharawan proyek.",
+      "slug": "15-pemimpin-dan-bendaharawan-proyek",
+      "text": "Kemudian, per 30 April 2025, ketentuan mengenai rincian penyelenggara negara \ndiatur lebih spesifik dalam Pasal 4A Peraturan KPK 3/2024. Pasa l ini pada \ndasarnya mengatur bahwa penyelenggara negara yang wajib melapor kan \nLHKPN adalah penyelenggara negara sebagaimana disebutkan dalam Pasal 2 \nUU 28/1999.  Oleh sebab itu jika berlaku Pasal 9G,  maka berdam pak tidak \nwajibnya lapor pejabat/penyelenggara dalam hal ini (Anggota Dir eksi, Dewan \nKomisaris, dan Dewan Pengawas BUMN) mengenai harta kekayaan mer eka \nkepada LHPKN di Komisi Pemberatasan Korupsi, dalam hal ini Pemerintah tidak \nbisa monitoring, mengawasi atau mencegah tindak pidana korupsi di BUMN hal \ntersebut bertentangan dengan semangat dan tujuan pencegahan kor upsi \nsebagaimana maksud Pasal 6 UU Nomor 30 Tahun 2002 tentang Komis i \nPemberantasan Korupsi yaitu melakukan tindakan-tindakan pencega han tindak \npidana korupsi dan melakukan monitor terhadap penyelenggaraan pemerintahan \nnegara, sebab LHKPN instrumen penting yang dirancang untuk menc egah \npraktik Korupsi, Kolusi, dan Nepotisme (KKN) di Indonesia, dengan mewajibkan \npejabat negara melaporkan harta kekayaannya secara berkala guna  \nmemastikan transparansi dan akuntabilitas dalam pemerintahan. S istem ini \ndikeola oleh Komisi Pemberantasan Korupsi (KPK) sebagai bagian dari upaya \nmenjaga integritas pejabat publik dan meningkatkan kepercayaan masyarakat \nterhadap pemerintah  \n\n \n 22 \nF. KPK RI Memiliki Kewenangan Lebih Dari Pada Kejaksaan dan Kep olisian \nDalam Perihal Pemberantasan Korupsi",
+      "start_line": 764,
+      "end_line": 788
+    },
+    {
+      "heading": "24. Bahwa KPK dan Kejaksaan Agung termasuk juga Polri sama-sama punya tugas",
+      "slug": "24-bahwa-kpk-dan-kejaksaan-agung-termasuk-juga-polri-sama-sama-punya-tugas",
+      "text": "memberantas korupsi. Di dalam KPK terdapat unsur kepolisian sebagai penyidik \ndan juga kejaksaan sebagai penuntut umum. Secara undang-undang, KPK diberi \nkewenangan yang lebih besar dibandingkan dengan Kejaksaan Agung  d a n  \nkepolisian.  Pada dasarnya di KPK dan Kejaksaan sama, tugasnya \nmenyelesaikan perkara. Bedanya hanya pada fasilitas kerja. KPK lebih \nmemadai, dan dua jalur dalam pemberantasan korupsi yang bermuara pada dua \npengadilan berbeda. KPK berakhir di Pengadilan Tindak Pidana Ko rupsi, \nsedangkan Kejaksaan Agung akan berakhir di pengadilan umum.",
+      "start_line": 790,
+      "end_line": 797
+    },
+    {
+      "heading": "25. Bahwa wewenang KPK yang diberikan undang-undang bersifat luar biasa.",
+      "slug": "25-bahwa-wewenang-kpk-yang-diberikan-undang-undang-bersifat-luar-biasa",
+      "text": "Misalnya, dalam tugas penyelidikan, penyidikan, dan penuntutan terhadap tindak \npidana korupsi, KPK berwenang menyadap dan merekam pembicaraan.  \nBahkan, KPK juga dapat memerintahkan kepada pimpinan atau atasa n \ntersangka memberhentikan sementara tersangka dari jabatannya, s ementara \nKejaksaan Agung dalam hal penindakan masih belum memadai secara fasiltitas \nseperti KPK RI untuk menyadap merekam pembicaraan dan  memerint ahkan \nkepada pimpinan atau atasan tersangka memberhentikan sementara tersangka \ndari jabatannya.  Oleh sebab itu ketika KPK RI dibatasi kewenanganya terhadap \npenindakan korupsi di BUMN, maka rugilah negara ini.",
+      "start_line": 799,
+      "end_line": 807
+    },
+    {
+      "heading": "26. Bahwa di sisi lain, KPK terikat batas waktu penanganan perkara . Keterbatasan",
+      "slug": "26-bahwa-di-sisi-lain-kpk-terikat-batas-waktu-penanganan-perkara-keterbatasan",
+      "text": "itu antara lain dalam hal penuntutan, yakni setelah menerima berkas perkara dari \npenyidik, penuntut umum wajib melimpahkan berkas perkara itu ke  pengadilan, \nselambat-lambatnya 14 hari kerja. Tak ada cerita KPK mengeluark an surat \nperintah penghentian penyidikan (SP3) dan penuntutan dalam perk ara tindak \npidana korupsi. Semua perkara yang sudah masuk ke tahap penyidi kan harus \ntuntas hingga diantarkan ke pengadilan, dengan batasan itu, per kara \nmenggelinding cepat dari penyelidikan, penyidikan, penuntutan, hingga proses \npersidangan.",
+      "start_line": 809,
+      "end_line": 816
+    },
+    {
+      "heading": "27. Bahwa Berdasarkan hal tersebut, dapat disimpulkan bahwa hilang nya",
+      "slug": "27-bahwa-berdasarkan-hal-tersebut-dapat-disimpulkan-bahwa-hilang-nya",
+      "text": "pergeseran makna penyelenggara negara di BUMN, berakibat tidak dapatnya \ndibebankan pertanggungjawaban pidananya kepada Direksi, Komisar is, dan \nPengawas BUMN.  Pertanggungjawaban secara pidana ini dapat dike nakan \n\n \n 23 \napabila kerugian keuangan negara tersebut timbul akibat perbuat an melawan \nhukum, penyalahgunaan wewenang, atau penyimpangan atas prinsip Business \nJudgment Rule  (BJR) sebagaimana diatur dalam Pasal 3Y dan Pasal 9F \nUndang-Undang Nomor 1 Tahun 20 25 tentang Badan Usaha Milik Nega ra, hal \nini mencakup tindakan seperti fraud, suap, tidak adanya iktikad  baik, konflik \nkepentingan, maupun kelalaian dalam mencegah timbulnya kerugian negara.",
+      "start_line": 818,
+      "end_line": 829
+    },
+    {
+      "heading": "28. Bahwa Putusan MK Nomor 25/PUU-XIV/2016 tentang makna Pasal 2",
+      "slug": "28-bahwa-putusan-mk-nomor-25-puu-xiv-2016-tentang-makna-pasal-2",
+      "text": "menegaskan “Setiap orang yang secara melawan hukum melakukan pe rbuatan \nmemperkaya diri sendiri atau orang lain atau suatu korporasi ya ng merugikan \nkeuangan negara atau perekonomian negara , dipidana penjara dengan \npenjara seumur hidup atau pidana penjara paling singkat 4 tahun dan paling lama \n20 tahun dan denda paling sedikit Rp200 juta dan paling banyak Rp1 miliar”. \nPutusan MK Nomor 25/PUU-XIV/2016 tentang makna Pasal 3 menegask an  \n“Setiap orang yang dengan tujuan menguntungkan diri sendiri ata u orang lain \natau suatu korporasi, menyalahgunakan kewenangan, kesempatan atau sarana \nyang ada padanya karena jabatan atau kedudukan yang merugikan k euangan \nnegara atau perekonomian negara, dipidana dengan pidana penjara  seumur \nhidup atau pidana penjara paling singkat 1 tahun dan paling lam a 20 tahun dan \natau denda paling sedikit Rp50 juta dan paling banyak Rp1 miliar”.",
+      "start_line": 831,
+      "end_line": 842
+    },
+    {
+      "heading": "29. Bahwa Hal ini juga sesuai dengan Pasal 11 ayat (1) huruf a dan huruf b Undang-",
+      "slug": "29-bahwa-hal-ini-juga-sesuai-dengan-pasal-11-ayat-1-huruf-a-dan-huruf-b-undang",
+      "text": "Undang Nomor 19 Tahun 2019 tentang Komisi Pemberantasan Korupsi , serta \nPutusan MK Nomor 62/PUU-XVII/2019 yang menyatakan bahwa frasa ‘dan/atau’ \ndalam pasal tersebut dapat ditafsirkan secara kumulatif maupun alternatif. \nArtinya, KPK tetap dapat menangani kasus korupsi di BUMN jika t erdapat \npenyelenggara negara, kerugian negara, atau keduanya.",
+      "start_line": 844,
+      "end_line": 848
+    },
+    {
+      "heading": "30. Bahwa perkara a quo Pemohon ajukan secara explisit kontradiktif berlawanan",
+      "slug": "30-bahwa-perkara-a-quo-pemohon-ajukan-secara-explisit-kontradiktif-berlawanan",
+      "text": "mengenai makna penyelenggaran negara yang di atur dalam Pasal 1  angka 1, \nPasal 2 angka 7 beserta penjelasannya dalam Undang-Undang Nomor 28 Tahun \n1999 tentang Penyelenggaraan Negara yang Bersih dan Bebas dari Korupsi, \nKolusi, dan Nepotisme, sehingga Mahkamah dapat perlu membatalka n pasal \ntersebut.",
+      "start_line": 850,
+      "end_line": 854
+    },
+    {
+      "heading": "31. Bahwa perkara a quo Pemohon ajukan secara explisit kontradiktif berlawanan",
+      "slug": "31-bahwa-perkara-a-quo-pemohon-ajukan-secara-explisit-kontradiktif-berlawanan",
+      "text": "dengan Pasal 7 ayat (1) huruf a Undang-Undang Nomor 19 Tahun 2019 tentang \nKomisi Pemberantasan Korupsi  yaitu pendaftaran dan pemeriksaan  LHKPN \n\n \n 24 \ntersebut merupakan pelaksanaan dari tugas pencegahan Komisi \nPemberantasan Korupsi.",
+      "start_line": 856,
+      "end_line": 862
+    },
+    {
+      "heading": "32. Bahwa seluruh uraian diatas menegaskan bahwa Komisi Pemberanta s Korupsi",
+      "slug": "32-bahwa-seluruh-uraian-diatas-menegaskan-bahwa-komisi-pemberanta-s-korupsi",
+      "text": "Republik Indonesia masih tetap memiliki kewenangan untuk melaku kan \npenyelidikan, penyidikan, dan penuntutan tindak pidana korupsi yang dilakukan \noleh Direksi, Komisaris, dan Pengawas pada jabatan BUMN. Hal in i karena \nsecara hukum pidana, status mereka tetap sebagai penyelenggara negara, dan \nkerugian yang terjadi tetap dikategorikan sebagai kerugian nega ra, selama \nterdapat perbuatan melawan hukum atau penyimpangan prinsip BJR.",
+      "start_line": 864,
+      "end_line": 869
+    },
+    {
+      "heading": "33. Bahwa oleh sebab itu agar adanya kepastian hukum Mahkamah Kons titusi",
+      "slug": "33-bahwa-oleh-sebab-itu-agar-adanya-kepastian-hukum-mahkamah-kons-titusi",
+      "text": "kiranya sudilah memberikan Putusan Pasal 9G Undang-Undang Nomor 1 Tahun \n2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun  2003 \ntentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia \nNomor 25) dan (Tambahan Lembaran Negara Nomor 7097) bertentangan \ndengan Pasal 1 ayat (3) Undang-Undang Dasar 1945.",
+      "start_line": 871,
+      "end_line": 875
+    },
+    {
+      "heading": "34. Bahwa dengan demikian apabila Mahkamah mengabulkan Pemohon un tuk",
+      "slug": "34-bahwa-dengan-demikian-apabila-mahkamah-mengabulkan-pemohon-un-tuk",
+      "text": "memberikan frasa atau membatalkan terhadap Pasal 9G Undang-Undang \nNomor 1 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 19 \nTahun 2003 tentang  Badan Usaha Milik Negara (Lembaran Negara Republik \nIndonesia Nomor 25) dan (Tambahan Lembaran Negara Nomor 7097) , sudah \nselayaknya dalam perkara a quo tidak mempunyai hukum mengikat. \nIV. PETITUM \nBahwa dari seluruh dalil-dalil yang diuraikan di atas dan bukti -bukti terlampir, \ndengan ini Pemohon memohon kepada Yang Mulia Majelis Hakim Mahk amah \nKonstitusi untuk kiranya berkenan memberikan putusan sebagai berikut:",
+      "start_line": 877,
+      "end_line": 885
+    },
+    {
+      "heading": "2. Menyatakan Pasal 9G Undang-Undang Nomor 1 Tahun 2025 tentang",
+      "slug": "2-menyatakan-pasal-9g-undang-undang-nomor-1-tahun-2025-tentang",
+      "text": "Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang   \nBadan Usaha Milik Negara (Lembaran Negara Republik Indonesia Nomor 25) \ndan (Tambahan Lembaran Negara Nomor 7097) Bertentangan Dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan Ti dak \nMemiliki Kekuatan Hukum Mengikat Sepanjang dimaknai Anggota Direksi, \nDewan Komisaris, dan Dewan Pengawas Merupakan Penyelenggara \nNegara. \n\n \n 25",
+      "start_line": 888,
+      "end_line": 897
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain moho n \nputusan yang seadil-adilnya (ex aequo et bono).   \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti surat/tulisan yang diberi tanda Bukti P-1 sampai dengan Bukti \nP-4, yang telah disahkan dalam persidangan Mahkamah pada tangga l 11 Agustus \n2025, sebagai berikut:",
+      "start_line": 899,
+      "end_line": 905
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Kartu Tanda Penduduk NIK 3216093004940 010",
+      "slug": "1-bukti-p-1-fotokopi-kartu-tanda-penduduk-nik-3216093004940-010",
+      "text": "atas nama Hosnika Purba;",
+      "start_line": 907,
+      "end_line": 907
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Nomor Pokok Wajib Pajak (NPWP) 76.256. 765.9-",
+      "slug": "2-bukti-p-2-fotokopi-nomor-pokok-wajib-pajak-npwp-76-256-765-9",
+      "text": "414.000 atas nama Hosnika Purba;",
+      "start_line": 909,
+      "end_line": 909
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Dasar Negara Republik In donesia",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-dasar-negara-republik-in-donesia",
+      "text": "Tahun 1945;",
+      "start_line": 911,
+      "end_line": 911
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Undang-Undang Nomor 1 Tahun 2025 tentang",
+      "slug": "4-bukti-p-4-fotokopi-undang-undang-nomor-1-tahun-2025-tentang",
+      "text": "Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun \n2003 tentang  Badan Usaha Milik Negara. \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, segala \nsesuatu yang terjadi di persidangan merujuk Berita Acara Persid angan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 913,
+      "end_line": 917
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48 Tahun 2009 tentang \n\n \n 26 \nKekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun 2 009 Nomor \n157, Tambahan Lembaran Negara Republik Indonesia Nomor 5076), M ahkamah \nberwenang mengadili pada tingkat pertama dan terakhir yang putu sannya bersifat \nfinal untuk menguji undang-undang terhadap UUD NRI Tahun 1945. \n[3.2]  Menimbang bahwa oleh karena permohonan Pemohon a quo  adalah \npermohonan untuk menguji konstitusionalitas norma undang-undang, in casu Pasal \n9G Undang-Undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga Atas Undang-\nUndang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Le mbaran \nNegara Republik Indonesia Tahun 2025 Nomor 25, Tambahan Lembara n Negara \nRepublik Indonesia Nomor 7097, selanjutnya disebut UU 1/2025) terhadap UUD NRI \nTahun 1945, maka Mahkamah berwenang mengadili permohonan a quo. \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo , namun sebelum mempertimbangkan lebih lanjut kedudukan \nhukum dan pokok permohonan Pemohon, Mahkamah terlebih dahulu ak an \nmempertimbangkan permohonan Pemohon sebagai berikut. \n[3.3.1] Bahwa sesuai dengan ketentuan hukum acara pengujian undang-und ang, \nMahkamah telah memeriksa permohonan Pemohon dalam Sidang Pemeri ksaan \nPendahuluan pada tanggal 28 Juli 2025. Dalam persidangan terseb ut, sesuai \ndengan ketentuan Pasal 39 ayat (2) UU MK dan Pasal 41 ayat (3) Peraturan \nMahkamah Konstitusi Nomor 2 Tahun 2021 tentang Tata Beracara Da lam Perkara \nPengujian Undang-Undang (PMK 2/2021), Mahkamah telah memberikan  nasihat \nkepada Pemohon untuk memperbaiki sekaligus memperjelas hal-hal yang berkaitan \ndengan permohonan Pemohon, yaitu berkenaan dengan kewenangan Ma hkamah, \nkedudukan hukum (legal standing) Pemohon, alasan permohonan (posita), dan hal-\nhal yang dimohonkan (petitum), sehingga sesuai dengan sistemati ka permohonan \nsebagaimana diatur dalam PMK 2/2021. Selanjutnya, pada tanggal 11 Agustus \n2025, Pemohon telah menyampaikan perbaikan permohonan kepada Ma hkamah \ndan telah diperiksa dalam Sidang Pemeriksaan Pendahuluan dengan  agenda \nPerbaikan Permohonan pada tanggal 11 Agustus 2025.   \n[3.3.2] Bahwa Pemohon dalam perbaikan pemohonan telah menguraikan peri hal \nkewenangan Mahkamah (hlm. 1-3), kedudukan hukum Pemohon (hlm. 3 -8), dan \nalasan permohonan (hlm. 9-22). Bahkan, sebelum menguraikan ihwa l ketiga hal \n\n \n 27 \ntersebut, Pemohon pun telah menguraikan perihal identitas Pemoh on (hlm. 1). \nSelain itu, sebagai bagian dari sistematika yang harus dipenuhi sesuai dengan PMK \n2/2021, permohonan Pemohon juga telah memuat hal-hal yang dimohonkan kepada \nMahkamah untuk diputus (hlm. 22-23).  \n[3.3.3] Bahwa sistematika atau format perbaikan permohonan Pemohon \nsebagaimana dimaksud pada Sub-paragraf [3.3.2] pada dasarnya telah sesuai \ndengan sistematika atau format permohonan pengujian undang-unda ng terhadap \nUUD NRI Tahun 1945 sebagaimana diatur dalam Pasal 31 ayat (1) dan ayat (2) UU \nMK serta Pasal 10 ayat (2) huruf a, huruf b, huruf c, dan huruf d PMK 2/2021, namun \ndemikian pada bagian alasan-alasan permohonan (posita), meskipu n Pemohon \nmenyebutkan dasar pengujian yakni Pasal 33 ayat (2) dan ayat (3) UUD NRI Tahun \n1945, akan tetapi tidak menguraikan pertentangan dengan norma p asal yang \ndimohonkan pengujian in casu Pasal 9G UU 1/2025. Dalam hal ini, Pemohon lebih \nbanyak menguraikan pertentangan norma pasal yang diuji dengan u ndang-undang \nkhususnya Undang-Undang Nomor 28 Tahun 1999 tentang Penyelengga raan \nNegara Yang Bersih dan Bebas dari Korupsi, Kolusi, dan Nepotisme. Bahkan pada \nbagian akhir posita permohonan (angka 33 hlm. 22), Pemohon justru menyimpulkan \nnorma pasal yang diuji bertentangan dengan Pasal 1 ayat (3) UUD NRI Tahun 1945 \nyang tidak pernah disebutkan sebagai dasar pengujian permohonan  a quo . \nBerkenaan dengan hal ini, menurut Mahkamah, posita yang tidak m enguraikan \nadanya pertentangan norma yang diuji dengan dasar pengujian dal am UUD NRI \nTahun 1945 dan terdapat inkonsistensi dasar pengujian yang digunakan menjadikan \nmasalah konsitusional norma dari pasal yang dimohonkan pengujia n tidak dapat \ndipahami secara jelas.         \n[3.3.4] Bahwa selanjutnya dalam petitum Pemohon sebagaimana tercantum \ndalam perbaikan permohonan, Pemohon memohon kepada Mahkamah untuk:",
+      "start_line": 919,
+      "end_line": 991
+    },
+    {
+      "heading": "2. Menyatakan Pasal 9G Undang-Undang Nomor 1 Tahun 2025 tentang",
+      "slug": "2-menyatakan-pasal-9g-undang-undang-nomor-1-tahun-2025-tentang",
+      "text": "Perubahan Ketiga Atas Undang-Undang Nomor 19 Tahun 2003 \ntentang Badan Usaha Milik Negara (Lembaran Negara Republik \nIndonesia Nomor 25) dan (Tambahan Lembaran Negara Nomor 7097) \nBertentangan Dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 dan Tidak M emiliki Kekuatan Hukum Mengikat  \nSepanjang dimaknai Anggota Direksi, Dewan Komisaris, dan Dewan \nPengawas Merupakan Penyelenggara Negara",
+      "start_line": 994,
+      "end_line": 1000
+    },
+    {
+      "heading": "3. ….",
+      "slug": "3",
+      "text": "28 \n Bahwa setelah mencermati lebih lanjut rumusan petitum Pemohon pada \nangka 2, Pemohon memohon kepada Mahkamah untuk menyatakan norma  Pasal \n9G UU 1/2025 bertentangan dengan UUD NRI Tahun 1945 secara bers yarat \n(inkonstitusional bersyarat) namun telah ternyata rumusan pemak naan yang \ndimohonkan oleh Pemohon justru bertentangan dengan permohonan P emohon itu \nsendiri. Karena, dengan pemaknaan tersebut artinya Anggota Dire ksi, Dewan \nKomisaris, dan Dewan Pengawas dalam hal sebagai penyelenggara negara adalah \nb e r t e n t a n g a n  d e n g a n  U U D  N R I  T a h u n  1 9 4 5  d a n  t i d a k  m e m i l i k i  k e k u atan hukum \nmengikat. Secara a contrario , rumusan demikian sama saja dengan \nmempertahankan keberlakukan Pasal 9G UU 1/2025 yang dinilai ink onstitusional \noleh Pemohon. Dengan kata lain, tidak ada perbedaan rumusan nor ma Pasal 9G \nUU 1/2025 dengan pemaknaan bersyarat yang dimohonkan oleh Pemoh on. \nSeharusnya Pemohon menggunakan frasa “tidak dimaknai” bukan den gan \nmenggunakan kata “dimaknai”, sehingga sesuai dengan yang dimoho nkan \nPemohon dan juga konsisten dengan alasan-alasan permohonan. Dal am batas \npenalaran yang wajar, rumusan petitum yang demikian menurut Mah kamah \nmenjadikan masalah konstitusionalitas norma yang dimohonkan Pemohon semakin \ntidak jelas. \n Berdasarkan uraian pertimbangan hukum tersebut di atas, oleh k arena \nposita dan petitum Pemohon tidak jelas sebagaimana diuraikan dalam Sub-paragraf \n[3.3.2] sampai dengan Sub-paragraf [3.3.3] tersebut di atas maka tidak terdapat \nkeraguan bagi Mahkamah untuk menyatakan permohonan Pemohon adal ah tidak \njelas atau kabur (obscuur). \n[3.4] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum di \natas, meskipun Mahkamah berwenang mengadili permohonan Pemohon,  n a m u n  \noleh karena permohonan Pemohon tidak jelas atau kabur ( obscuur), Mahkamah \ntidak mempertimbangkan kedudukan hukum dan pokok permohonan Pem ohon \nlebih lanjut. \n[3.5] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya. \n \n\n \n 29",
+      "start_line": 1002,
+      "end_line": 1038
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Ma hkamah \nberkesimpulan: \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Permohonan Pemohon tidak jelas atau kabur ( obscuur); \n[4.3] Kedudukan hukum dan pokok permohonan Pemohon tidak \ndipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1040,
+      "end_line": 1054
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Anwar Usman, Arief Hi dayat, Enny \nNurbaningsih, Ridwan Mansyur, dan Arsul Sani, masing-masing sebagai Anggota, \npada hari Senin, tanggal sebelas, bulan Agustus, tahun dua ribu dua puluh lima, \nyang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka u ntuk umum \npada hari Kamis, tanggal empat belas, bulan Agustus, tahun dua ribu dua puluh \nlima, selesai diucapkan pukul 13.48 WIB oleh sembilan Hakim Konstitusi yaitu \nSuhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Daniel Yu smic P. Foekh, \nM. Guntur Hamzah, Anwar Usman, Arief Hidayat, Enny Nurbaningsih , Ridwan \nMansyur, dan Arsul Sani, masing-masing sebagai Anggota, dengan dibantu oleh \n\n \n 30 \nTriyono Edy Budhiarto sebagai Panitera Pengganti, serta dihadir i oleh Pemohon, \nDewan Perwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \n \nKETUA, \n                                               ttd. \nSuhartoyo \n \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra  \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \nttd. \nAnwar Usman  \nttd. \nArief Hidayat \nttd. \nEnny Nurbaningsih \nttd  \nRidwan Mansyur \nttd  \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nTriyono Edy Budhiarto",
+      "start_line": 1056,
+      "end_line": 1099
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Hosnika Purba",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 1/2025 tentang Perubahan Ketiga atas UU 19/2003 tentang Badan Usaha Milik Negara"
+    ],
+    "constitutional_articles": [
+      "Pasal 33 ayat (2)",
+      "Pasal 23",
+      "Pasal 1 ayat (3)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 31 ayat (1)",
+      "Pasal 24 ayat (2)",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (2)",
+      "Pasal 77 hur"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-4",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "REFERENSI:115/PUU-XXIII/2025",
+      "REFERENSI:109/PUU/PAN.MK/AP3/06/2025",
+      "REFERENSI:006/PUU-III/2005jo.PerkaraNomor11/PUU-V/2007",
+      "REFERENSI:27/PUU-VII/2009",
+      "REFERENSI:003/PUU1/2003",
+      "REFERENSI:740/KMK.00/1989",
+      "REFERENSI:4/2/2025",
+      "REFERENSI:21/PUU-XII/2014",
+      "REFERENSI:62/PUU-XI/2013",
+      "REFERENSI:59/PUU-XVI/2018danNomor26/PUU-XIX/2021",
+      "REFERENSI:3/2024.PasalinipadadasarnyamengaturbahwapenyelenggaranegarayangwajibmelaporkanLHKPNadalahpenyelenggaranegarasebagaimanadisebutkandalamPasal2UU28/1999",
+      "REFERENSI:25/PUU-XIV/2016",
+      "REFERENSI:62/PUU-XVII/2019",
+      "REFERENSI:003/PUU-I/2003",
+      "REFERENSI:48/PUU-XI/2013danNomor62/PUU-XI/2013"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "persidangan."
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Anwar Usman",
+      "Arief Hidayat",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Triyono Edy Budhiarto"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "115/PUU-XXIII/2025",
+      "109/PUU/PAN.MK/AP3/06/2025",
+      "006/PUU-III/2005jo.PerkaraNomor11/PUU-V/2007",
+      "27/PUU-VII/2009",
+      "003/PUU1/2003",
+      "740/KMK.00/1989",
+      "4/2/2025",
+      "21/PUU-XII/2014",
+      "62/PUU-XI/2013",
+      "59/PUU-XVI/2018danNomor26/PUU-XIX/2021",
+      "3/2024.PasalinipadadasarnyamengaturbahwapenyelenggaranegarayangwajibmelaporkanLHKPNadalahpenyelenggaranegarasebagaimanadisebutkandalamPasal2UU28/1999",
+      "25/PUU-XIV/2016",
+      "62/PUU-XVII/2019",
+      "003/PUU-I/2003",
+      "48/PUU-XI/2013danNomor62/PUU-XI/2013"
+    ],
+    "referenced_cases": [
+      "115/PUU-XXIII/2025",
+      "109/PUU/PAN.MK/AP3/06/2025",
+      "006/PUU-III/2005jo.PerkaraNomor11/PUU-V/2007",
+      "27/PUU-VII/2009",
+      "003/PUU1/2003",
+      "740/KMK.00/1989",
+      "4/2/2025",
+      "21/PUU-XII/2014",
+      "62/PUU-XI/2013",
+      "59/PUU-XVI/2018danNomor26/PUU-XIX/2021",
+      "3/2024.PasalinipadadasarnyamengaturbahwapenyelenggaranegarayangwajibmelaporkanLHKPNadalahpenyelenggaranegarasebagaimanadisebutkandalamPasal2UU28/1999",
+      "25/PUU-XIV/2016",
+      "62/PUU-XVII/2019",
+      "003/PUU-I/2003",
+      "48/PUU-XI/2013danNomor62/PUU-XI/2013"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

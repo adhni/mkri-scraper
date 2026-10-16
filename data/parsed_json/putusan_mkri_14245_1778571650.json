@@ -1,0 +1,573 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14245_1778571650.pdf",
+    "file_name": "putusan_mkri_14245_1778571650.pdf",
+    "page_count": 21,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14245_1778571650.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "124/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "122/PUU/PAN.MK/AP3/04/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-05-12",
+    "decision_date_raw": "dua belas, bulan Mei, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 124/PUU-XXIV/2026",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili penguj ian undang-undang pada tingkat pertama dan  \nterakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang \nNomor 7 Tahun 2017 tentang Pemilihan Umum terhadap Undang-Undan g Dasar \nNegara Republik Indonesia Tahun 1945, yang diajukan oleh:  \nNama : Ardi Usman \nPekerjaan : Wiraswasta \nAlamat : Rusunawa Blk. Pasar Rebo Tower A 12/9 RT. 014/RW \n001, Ciracas, Jakarta Timur \nBerdasarkan Surat Kuasa bertanggal 20 April 2026, memberi kuasa kepada Rahmad \nHidayat, S.H., advokat pada kantor hukum ADP yang beralamat di Jalan \nMinangkabau Barat, Pasar Manggis, Setiabudi, Jakarta Selatan, bertindak untuk dan \natas nama Pemberi Kuasa; \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon; \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 5,
+      "end_line": 21
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n1 April 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada tanggal 1 April \n2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor 122/PU U/ \nPAN.MK/AP3/04/2026 dan telah dicatat dalam Buku Registrasi Perk ara Konstitusi \nElektronik (e-BRPK) pada tanggal 2 April 2026 dengan Nomor 124/PUU-XXIV/2026, \nyang telah diperbaiki dan diterima Mahkamah pada tanggal 25 Apr il 2026, pada \npokoknya menguraikan hal-hal sebagai berikut: \n\n\n2 \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 23,
+      "end_line": 33
+    },
+    {
+      "heading": "1. Bahwa berdasarkan ketentuan yang termaktub dalam Pasal 24 ay at (2) UUD",
+      "slug": "1-bahwa-berdasarkan-ketentuan-yang-termaktub-dalam-pasal-24-ay-at-2-uud",
+      "text": "NRI 1945 menyatakan: \n\"Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang di bawahnya dan oleh sebuah Mahkamah Konstitusi.\"",
+      "start_line": 35,
+      "end_line": 37
+    },
+    {
+      "heading": "2. Bahwa selanjutnya ketentuan Pasal 24C ayat (1) UUD NRI 1945 menyatakan:",
+      "slug": "2-bahwa-selanjutnya-ketentuan-pasal-24c-ayat-1-uud-nri-1945-menyatakan",
+      "text": "\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan terakhir \nyang putusannya bersifat final untuk menguji undang-undang terh adap \nUndang-Undang Dasar, memutus sengketa kewenangan Lembaga negara  \nyang kewenangannya diberikan oleh Undang-Undang Dasar, memutus \npembubaran partai politik dan memutus perselisihan tentang Pemi lihan \nUmum.\"",
+      "start_line": 39,
+      "end_line": 44
+    },
+    {
+      "heading": "3. Bahwa berdasarkan ketentuan tersebut di atas, Mahkamah Konst itusi",
+      "slug": "3-bahwa-berdasarkan-ketentuan-tersebut-di-atas-mahkamah-konst-itusi",
+      "text": "mempunyai kewenangan untuk melakukan pengujian undang-undang \nterhadap UUD NRI 1945 (judicial review), demikian pula berdasarkan Pasal 10 \nayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 tentang Mahk amah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2003 Nomor  98, \nTambahan Lembaran Negara Republik Indonesia Nomor 4316) Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga atas Undang-Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a \nRepublik Indonesia Tahun 2020 Nomor 216, Tambahan Lembaran Nega ra \nRepublik Indonesia Nomor 6554) yang selanjutnya disebut \"UU MK\"  \nmenyatakan bahwa: \"Mahkamah Konstitusi berwenang mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk a quo  menguji \nundang-undang terhadap Undang-Undang Dasar Negara Republik Indo nesia \nTahun 1945.\"",
+      "start_line": 46,
+      "end_line": 58
+    },
+    {
+      "heading": "4. Bahwa kemudian ketentuan Pasal 29 ayat (1) Undang-Undang Nom or 48",
+      "slug": "4-bahwa-kemudian-ketentuan-pasal-29-ayat-1-undang-undang-nom-or-48",
+      "text": "Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republi k \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076) yang selanjutnya disebut \"UU Kekuasaan Kehakiman\" \nmenyatakan: \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-undang \nterhadap Undang-Undang Dasar Republik Indonesia Tahun 1945.\" \n\n3",
+      "start_line": 60,
+      "end_line": 68
+    },
+    {
+      "heading": "5. Bahwa berdasarkan ketentuan Pasal 9 ayat (1) Undang-Undang N omor 13",
+      "slug": "5-bahwa-berdasarkan-ketentuan-pasal-9-ayat-1-undang-undang-n-omor-13",
+      "text": "Tahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 12 Tahun \n2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran  \nNegara Republik Indonesia Tahun 2022 Nomor 143, Tambahan Lembar an \nNegara Republik Indonesia Nomor 6801) yang selanjutnya disebut \"UU PPP \nmenyatakan bahwa: \n\"Dalam hal suatu Undang-Undang diduga bertentangan dengan Undan g-\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi.\"",
+      "start_line": 70,
+      "end_line": 77
+    },
+    {
+      "heading": "6. Bahwa Mahkamah Konstitusi dibentuk memiliki fungsi antara la in sebagai",
+      "slug": "6-bahwa-mahkamah-konstitusi-dibentuk-memiliki-fungsi-antara-la-in-sebagai",
+      "text": "lembaga pengawal konstitusi (the guardian of the constitution) , lembaga \ndemokrasi pengimbang dan pengarah sistem demokrasi, lembaga pen afsir \ntertinggi atas ketentuan konstitusi ( the sole and the highest interpreter of the \nconstitution) dan lembaga penjaga hak-hak konstitusional warga negara ( the \nprotector of constitutional rights of the citizens) . Maka apabila dalam proses \npembentukan undang-undang terdapat hal-hal yang bertentangan de ngan \nkonstitusi apalagi sampai melanggar hak konstitusional warga ne gara \nIndonesia, maka Mahkamah Konstitusi dapat membatalkan secara menyeluruh \nataupun bersyarat Pasal dari undang-undang yang diuji sebagaima na \nditetapkan dalam Pasal 57 ayat (1) dan (2) UU MK, yang menyatakan: \n(1) Putusan Mahkamah Konstitusi yang amar putusannya menyatakan  \nbahwa materi muatan ayat, pasal, dan/atau bagian undang-undang \nbertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, materi muatan ayat, pasal, dan/atau bagia n \nundang-undang tersebut tidak mempunyai kekuatan hukum mengikat. \n(2) Putusan Mahkamah Konstitusi yang amar putusannya menyatakan  \nbahwa pembentukan undang-undang dimaksud tidak memenuhi \nketentuan pembentukan undang-undang berdasarkan Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945, undang-undang tersebut \ntidak mempunvai kekuatan hukum mengikat\"",
+      "start_line": 79,
+      "end_line": 98
+    },
+    {
+      "heading": "7. Bahwa objek permohonan yang diajukan oleh pemohon dalam perm ohonan a",
+      "slug": "7-bahwa-objek-permohonan-yang-diajukan-oleh-pemohon-dalam-perm-ohonan-a",
+      "text": "quo adalah pengujian materil terhadap norma pasal 240 ayat (1) hur uf e yang \nberbunyi selengkapnya berbunyi sebagai berikut: \nPasal 240 ayat (1) e tahun 2017 \n“Bakal calon anggota DPR, DPRD provinsi, dan DPRD kabupaten/kot a \nadalah Warga Negara Indonesia dan harus memenuhi persyaratan: \na. telah berumur 21 (dua puluh satu) tahun atau lebih; \nb. bertakwa kepada Tuhan Yang Maha Esa;",
+      "start_line": 100,
+      "end_line": 106
+    },
+    {
+      "heading": "d. dapat berbicara, membaca, dan/atau menulis dalam bahasa Indo nesia;",
+      "slug": "d-dapat-berbicara-membaca-dan-atau-menulis-dalam-bahasa-indo-nesia",
+      "text": "4 \ne. berpendidikan paling rendah tamat sekolah menengah atas, mad rasah \naliyah, sekolah menengah kejuruan, madrasah aliyah kejuruan, at au \nsekolah lain yang sederajat; \nf. setia kepada Pancasila, Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, Negara Kesatuan Republik Indonesia, dan \nBhinneka Tunggal Ika. \nBahwa objek yang diajukan pemohon dalam permohonan a quo pasal 240 ayat \n(1) huruf e Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum \nbertentangan dengan Pasal 20 ayat (2), Pasal 28 E ayat (2), Pas al 28 H ayat \n(2) Pasal 23 ayat (1), dan pasal 31 ayat (3).",
+      "start_line": 109,
+      "end_line": 120
+    },
+    {
+      "heading": "8. Bahwa berdasarkan ketentuan yang telah dijabarkan, maka hal ini semakin",
+      "slug": "8-bahwa-berdasarkan-ketentuan-yang-telah-dijabarkan-maka-hal-ini-semakin",
+      "text": "mempertegas kewenangan Mahkamah Konstitusi sebagai satu-satunya  \nlembaga yang berwenang untuk menguji konstitusionalitas suatu U ndang-\nUndang terhadap Undang-Undang Dasar Negara Republik Indonesia T ahun \n1945. \n II. KEDUDUKAN HUKUM (LEGAL STANDING)  DAN KEPENTINGAN",
+      "start_line": 122,
+      "end_line": 126
+    },
+    {
+      "heading": "KONSTITUSIONAL PEMOHON",
+      "slug": "konstitusional-pemohon",
+      "text": "II.1 Kedudukan Hukum Pemohon",
+      "start_line": 128,
+      "end_line": 128
+    },
+    {
+      "heading": "1. Dimilikinya kedudukan hukum/ legal standing merupakan syarat yang",
+      "slug": "1-dimilikinya-kedudukan-hukum-legal-standing-merupakan-syarat-yang",
+      "text": "harus dipenuhi oleh setiap pemohon untuk mengajukan permohonan \nPengujian Undang-Undang terhadap UUD 1945 kepada MK \nsebagaimana diatur dalam Pasal 51 ayat (1) MK. Pasal 51 ayat (1 ) UU \nMK: \n\"Pemohon adalah pihak yang menganggap hak dan/atau Hak \nKonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 130,
+      "end_line": 139
+    },
+    {
+      "heading": "c. badan hukum publik atau pr ivat; atau lembaga negara.”",
+      "slug": "c-badan-hukum-publik-atau-pr-ivat-atau-lembaga-negara",
+      "text": "Penjelasan Pasal 51 ayat (1) UU MK: \n\"Yang dimaksud dengan \"hak konstitusional\" adalah hak-hak yang \ndiatur dalam UUD Negara Republik Indonesia 1945.\"",
+      "start_line": 141,
+      "end_line": 143
+    },
+    {
+      "heading": "2. Berdasarkan ketentuan Pasal 51 ayat (1) UU MK tersebut, terd apat dua",
+      "slug": "2-berdasarkan-ketentuan-pasal-51-ayat-1-uu-mk-tersebut-terd-apat-dua",
+      "text": "syarat yang harus dipenuhi untuk menguji Pemohon memiliki kedud ukan \nhukum (legal standing) dalam perkara Pengujian Undang-Undang, yaitu: \n(i) terpenuhinya kualifikasi untuk bertindak sebagai pemohon, d an \n\n5 \n(ii) adanya hak dan/atau Hak Konstitusional dari Pemohon yang dirugikan \ndengan berlakunya suatu Undang-Undang.",
+      "start_line": 145,
+      "end_line": 151
+    },
+    {
+      "heading": "3. Bahwa oleh karena itu, Pemohon menguraikan kedudukan hukum ( Legal",
+      "slug": "3-bahwa-oleh-karena-itu-pemohon-menguraikan-kedudukan-hukum-legal",
+      "text": "Standing). Pemohon dalam mengajukan kualifikasi permohonan \npengujian sebagai berikut: Perorangan Warga Negara Indonesia \n(WNI).yang dibuktikan dengan Kartu Tanda Penduduk (Bukti P-3) d an \nmerupakan peserta pemilu sebagaimana warga negara Indonesia yan g \nmemiliki hak pilih yang telah terdaftar di DPT pada TPS: 002 (B ukti P-5) \nKel. Susukan, Kec. Ciracas, Kotamadya Jakarta Timur pada pemili han \numum sebelumnya. Atas dasar itu, Pemohon memiliki kedudukan Hukum \n(legal standing ) untuk mempersoalkan norma yang mengatur syarat \npencalonan Dewan Perwakilan Rakyat/Dewan Perwakilan Rakyat \nDaerah. \n II.2 Kerugian Materil dan Konstitusional Pemohon",
+      "start_line": 153,
+      "end_line": 163
+    },
+    {
+      "heading": "1. Mengenai parameter kerugian konstitusional, MK telah memberi kan",
+      "slug": "1-mengenai-parameter-kerugian-konstitusional-mk-telah-memberi-kan",
+      "text": "pengertian dan batasan tentang kerugian konstitusional yang tim bul \nkarena berlakunya suatu Undang-Undang harus memenuhi 5 (lima) \nsyarat sebagaimana Putusan Mahkamah Konstitusi Nomor 006/PUU-\nIII/2005 dan Putusan Mahkamah Konstitusi Nomor 011/PUU-V/2007, \nyaitu sebagai berikut: \na. adanya hak dan/atau kewenangan konstitusional pemohon yang \ndiberikan oleh UUD NRI Tahun 1945; \nb. bahwa hak dan/atau kewenangan konstitusional pemohon tersebu t \ndianggap oleh pemohon telah dirugikan oleh suatu Undang-Undang \nyang diuji;",
+      "start_line": 165,
+      "end_line": 174
+    },
+    {
+      "heading": "c. bahwa kerugian hak dan/atau kewenangan konstitusional pemoho n",
+      "slug": "c-bahwa-kerugian-hak-dan-atau-kewenangan-konstitusional-pemoho-n",
+      "text": "yang dimaksud bersifat spesifik (khusus) dan aktual atau setida knya \nbersifat potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 176,
+      "end_line": 178
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat (causal verband) antara kerugian dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian-dan",
+      "text": "berlakunya Undang-Undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian dan/atau kewenangan konstitusional yang didalilka n \ntidak akan atau tidak lagi terjadi. \n\n6",
+      "start_line": 180,
+      "end_line": 185
+    },
+    {
+      "heading": "2. Bahwa berdasarkan dalil-dalil di atas, maka perlunya pemohon u n t u k",
+      "slug": "2-bahwa-berdasarkan-dalil-dalil-di-atas-maka-perlunya-pemohon-u-n-t-u-k",
+      "text": "memenuhi kualifikasi kerugian untuk mengajukan pengujian undang -\nundang terhadap UUD NRI Tahun 1945. Pemohon akan menjabarkan \nkerugian konstitusional sebagai berikut. \na. Bahwa adanya hak konstitusional Pemohon yang diberikan oleh \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945. \nAdapun beberapa pasal UUD NRI Tahun 1945 yang sebagai dasar \npengujian ini dalam perkara a quo, adalah: \n Hak untuk mendapatkan pendidikan dan manfat dari ilmu \npengetahuan untuk memajukan bangsa Pasal 28E ayat (2) UUD \nNRI Tahun 1945 yang menyatakan bahwa: \"Setiap orang berhak \nmendapat kemudahan dan perlakuan khusus untuk memperoleh \nkesempatan dan manfaat yang sama guna mencapai persamaan \ndan keadilan.” \n Hak perorangan kolektif mencapai tujuan bersama Pasal 28H ayat  \n(2) UUD NRI Tahun 1945 \"Setiap orang mendapat kemudahan dan \nperlakuan khusus untuk memperoleh kesempatan dan manfaat \nyang sama guna mencapai persamaan dan keadilan.\" Sehingga \nMahkamah dapat menunjukkan konsistensinya dalam koherensi \npengaturan Pemilu yang berpihak pada kepentingan pemenuhan \naspirasi masyarakat. \n Pasal 23 ayat (1) UUD NRI Tahun 1945 “anggaran belanja \nditetapkan tiap tahun dengan undang-undang. Apabila dewan \nperwakilan rakyat tidak menyetujui anggaran yang diusulkan \npemerintah, maka pemerintah menjalankan anggaran tahun lalu.” \nasas umum pengelolaan keuangan negara asas tahunan, asas \numum, asas kesatuan, dan asas spesialisasi sebagai pencerminan \npenerapan kaidah yang baik dalam pengelolaan keuangan negara. \n Hak Intelektual analisis dalam menyatakan pendapat pasal 20 ay at \n(2) UUD NRI Tahun 1945 “tiap undang-undang menghendaki \npersetujuan dewan perwakilan rakyat” DPR memiliki hak interplasi, \nangket, dan menyatakan pendapat. \n Hak untuk pendidikan mengamalkannya untuk kecerdasan bangsa \npasal 31 ayat (3) UUD NRI Tahun 1945 “ pemerintah \n\n7 \nmengusahakan dan menyelenggarakan suatu sistem pendidikan \nnasional, yang meningkatkan keimanan dan ketakwaan serta \nakhlak mulia dalam rangka mencerdaskan kehidupan bangsa yang \ndiatur dengan undang-undang” \nb. bahwa terdapat kerugian materil pemohon pada pembatasan calo n \nlegistratif tidak proposional dengan prinsip kesetaraan Pendidi kan \npada saat pemilihan legistratif tidak sesuai dengan kebutuhan b idang \nlegistlatif dalam menjalankan fungsi pengawasan, anggaran, undang-\nundang.",
+      "start_line": 187,
+      "end_line": 230
+    },
+    {
+      "heading": "c. Bahwa terdapat dua kerugian potenisial yang dialami pemohon akibat",
+      "slug": "c-bahwa-terdapat-dua-kerugian-potenisial-yang-dialami-pemohon-akibat",
+      "text": "keberlakuan Pasal 240 ayat (1) huruf E Undang-Undang Nomor 7 \nTahun 2017 tentang Pemilihan Umum yang diujikan pada permohonan \na quo antara lain:",
+      "start_line": 232,
+      "end_line": 234
+    },
+    {
+      "heading": "i. Pertama, salah satu instrumen demokrasi di Indonesia adalah",
+      "slug": "i-pertama-salah-satu-instrumen-demokrasi-di-indonesia-adalah",
+      "text": "lembaga Legislatif. DPR, DPRD Provinsi, DPRD Kabupaten/Kota \ndipilih melalui pemilihan umum menurut Pasal 19 ayat (1) UUD \nNRI Tahun 1945. Pemaknaan pemilihan umum dalam pasal ini \npada permasalahan mekanisme pemilihan saja. Lebih dari itu \ndalam pemilihan umum juga harus dimaknai secara lebih luas \ndengan memperhatikan unsur kualifikasi Pendidikan kapasitas \nintelektual, rasional, kopetensi, dan analisis legistatif dalam  \npembuatan fungsi kebijakan pengawasan undang-undang bukan \nsemata pembatasan demokrasi persyaratan pencalonan anggota \nLegislatif sebagaimana diatur dalam Pasal 240 ayat (1) huruf E \nUndang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum.",
+      "start_line": 236,
+      "end_line": 246
+    },
+    {
+      "heading": "ii. Bahwa Pemohon telah melakukan kajian terhadap ketentuan",
+      "slug": "ii-bahwa-pemohon-telah-melakukan-kajian-terhadap-ketentuan",
+      "text": "pencalonan anggota Legislatif dalam UU Pemilu menemukan \nfakta permasalahan unsur intelektual rasional kopetensi analisi s \nlegistatif dalam persyaratan pencalonan anggota legislatif kare na \ntidak terdapat persyaratan khusus mengenai unsur intelektual \nrasional kopetensi analisis legistatif dalam Pasal 240 ayat (1)   \nhuruf E UU Pemilu. Hal ini menurut Pemohon memberikan \nkerugian konstitusional yang bersifat potensial bagi pemohon \nkarena dapat saja memiliki anggota legislatif tidak memiliki \n\n8 \nkemapuan kualifikasi Pendidikan kapasitas intelektual rasional \nkopetensi analisis legistatif dalam pembuatan fungsi kebijakan \npengawasan undang-undang berdampak dalam menentukan \nkebijakan bertentangan nilai karakter bangsa kedaulatan rakyat \nmusyawarah dan mufakat dalam mengambil keputusan demi \nkepentingan bersama. bernalar kritis, kreatif, inovatif dalam \nmempersiapkan generasi yang mampu memajukan kesejahteraan \nbagi seluruh rakyat Indonesia.",
+      "start_line": 248,
+      "end_line": 265
+    },
+    {
+      "heading": "iii. Kedua, penyelenggaraan Pemilu memberikan ruang partisipasi",
+      "slug": "iii-kedua-penyelenggaraan-pemilu-memberikan-ruang-partisipasi",
+      "text": "bagi masyarakat untuk memilih calon anggota legislatif memiliki  \nkapasitas intelektual rasional kopetensi analisis legistatif, a gar \nsemua masyarakat memiliki keterwakilan Hak demokrasi \nberkualitas dalam menjalankan fungsi legislasi, fungsi anggaran , \nfungsi pengawasan sesuai Pasa l 20A UUD 1945. Kesempatan \ntersebut diharapkan dapat mendorong kualitas demokrasi \nindonesia. Sayangnya, kompetisi terjadi selama ini tidak menjamin \nketerwakilan hak demokrasi berkualitas hanya diwakilikan calon \nanggota legislatif tanpa kemampuan kapasitas intelektual rasional \nkopetensi analisis.",
+      "start_line": 267,
+      "end_line": 276
+    },
+    {
+      "heading": "iv. Kondisi tersebut realitanya banyak calon yang menjadi peser ta",
+      "slug": "iv-kondisi-tersebut-realitanya-banyak-calon-yang-menjadi-peser-ta",
+      "text": "maupun pemenang dalam pemilu tidak memiliki kualifikasi \npendidikan memadai sesuai kualifikasi unsur kualifikasi \nPendidikan, kapasitas intelektual, rasional, kopetensi, dan analisis \ndalam menjalankan fungsi legistatif. Hal ini terjadi karena \npersyaratan pencalonan anggota legislatif tidak menyinggung \nsama sekali unsur tersebut. Kondisi ini membuat kerugian atas \nhak masyarakat kedaulatan dan kualitas struktur dan inkonsistensi \nkonstitusional tanpa memiliki kemampuan analisis, intelektual, \nrasional, kualifikasi pendidikan hal tersebut memberikan dampak  \nkerugian konstitusional yang bersifat potensial dalam banyak \nkesempatan Pemilu yang terselenggara.",
+      "start_line": 278,
+      "end_line": 288
+    },
+    {
+      "heading": "v. Anggota Legislatif sebagai unsur representasi keterwakilan r akyat",
+      "slug": "v-anggota-legislatif-sebagai-unsur-representasi-keterwakilan-r-akyat",
+      "text": "dari suatu daerah seharusnya dipilih berdasarkan kualifikasi \npendidikan untuk memastikan memahami dasar intelektual \n\n9 \nanalisa tajam dalam menjalan fungsi permasalahan dari daerah \nyang diwakilinya menguasai permasalahan secara langsung. \nPenerapan syarat kualifikasi pendidikan, telah ditetapkan dalam  \npemilihan Anggota Dewan Perwakilan Rakyat dan Dewan \nPerwakilan Daerah yang notabene merupakan lembaga \nperwakilan rakyat yang anggotanya dipilih untuk mewakili setiap  \nprovinsi yang ada di Indonesia. Oleh karena itu, Pemohon merasa \ndirugikan karena putusan serupa yang mengatur syarat \npendidikan dalam pemilihan anggota legislatif kulifikasi pendidikan \nbelum pernah dikeluarkan oleh MK. Padahal, urgensi kualifikasi \npendidikan anggota Legistatif DPR/DPRD menurut Pemohon \nlebih penting dalam Pemilihan legistatif dalam pemilihan umum \nmemberikan keterwakilan suara le gistatif memiliki jiwa analisis  \nintelektual dalam menjalani fungsi bukan semata pembatasan \ndemokrasi akan tetapi kualitas demokrasi.",
+      "start_line": 290,
+      "end_line": 308
+    },
+    {
+      "heading": "vi. Berdasarkan uraian diatas Pasal 240 ayat (1) e pernah diuji kan",
+      "slug": "vi-berdasarkan-uraian-diatas-pasal-240-ayat-1-e-pernah-diuji-kan",
+      "text": "walau pernah diujikan pemohon sebelumnya dengan atas dasar \nkeprihatinan menurunnya Kualitas Demokrasi berharap \nMahkamah mengabulkan permohonan Pemohon, maka kerugian \nKonstitusional akan tiada karena adanya kesetaraan pendidikan \nserta motifasi oleh DPR/DPRD dan generasi penerus bangsa \nselanjutnya dalam menjalankan fungsi, pembuatan kebijakan \npengawasan undang undang daerahnya secara kolektif \nmemberlakukan kulifikasi pendidikan Strata 2 sesuai dengan \nkemampuan pendidikannya. keputusan yang sudah dikeluarkan \nMK. \nIII. POKOK PERMOHONAN DAN ALASAN PERMOHONAN (POSITA) POKOK",
+      "start_line": 310,
+      "end_line": 320
+    },
+    {
+      "heading": "1. Bahwa Pasal 240 ayat 1 huruf E Undang-Undang Nomor 7 Tahun 2 017",
+      "slug": "1-bahwa-pasal-240-ayat-1-huruf-e-undang-undang-nomor-7-tahun-2-017",
+      "text": "tentang Pemilihan Umum yang selanjutnya disingkat “UU Pemilu” T idak \nmengakomodir kualifikasi latar belakang pendidikan minimal pendidikan Strata \n2 sederajat dalam kontestasi pemilu legislatif.",
+      "start_line": 323,
+      "end_line": 325
+    },
+    {
+      "heading": "2. Bahwa ketentuan pembatasan pendidikan jabatan anggota Dewan Perwakilan",
+      "slug": "2-bahwa-ketentuan-pembatasan-pendidikan-jabatan-anggota-dewan-perwakilan",
+      "text": "Rakyat Repubrik Indonesia (DPR RI) dan dewan perwakilan rakyat daerah \n\n10 \n(DPRD) kualifikasi pendidikan bukan semata Pembatasan Demokrasi , \npeningkatan Kualitas Demokrasi kemampuan Wakil Rakyat kemampuan  \nkapasitas intelektual, rasional, kopetensi dan analisis menjala nkan fungsi \ntertuang dalam Pasal 20 ayat (1) UUD 1945 \nPasal 28E ayat (2) UUD NRI 1945 \n\"Setiap orang berhak mendapat kemudahan dan perlakuan khusus untuk \nmemperoleh kesempatan dan manfaat yang sama guna mencapai \npersamaan dan keadilan.\" \nPasal ini menjamin perlakuan setara dan akses khusus bagi warga  negara \ndalam mencapai tujuan kehidupan yang sejahtera betentangan dengan norma \nkonstitusi dan relitas politik, seharusnya menjadi ruang debirasi rasional bukan \ndiskusi argumen politik praktis, intelektual analisis diperlukan untuk mencapai \nkualitas demokrasi dibutuhkan masyarakat. Sehingga Mahkamah dap at \nmenunjukkan konsistensinya dalam koherensi pengaturan Pemilu ya ng \nberpihak pada kepentingan pemenuhan aspirasi masyarakat. \nPasal 28H ayat (2) UUD NRI 1945 \n\"Setiap orang mendapat kemudahan dan perlakuan khusus untuk \nmemperoleh kesempatan dan manfaat yang sama guna mencapai \npersamaan dan keadilan.\" Kesenjangan antara tuntutan analisa \nintelektual dan realitas pelaksanaan antara norma kontitusi dan  kualitas \nintelektual ketatanegaraan. \nPasal 23 ayat (1) UUD NRI 1945 \n“Anggaran belanja ditetapkan tiap tahun dengan undang-undang. Apabila \ndewan perwakilan rakyat tidak menyetujui anggaran yang diusulka n \npemerintah, maka pemerintah menjalankan anggaran tahun lalu.” \nMenuntut tingkat intelektual tinggi dalam pengolaan anggaran ne gara, \nperencanaan anggaran tidak berbasis data, tranparasi,kurang aku ntabilitas, \npemborosan anggaran menimbulkan pertentangan norma kontitusi re alitas \nkebijakan publik yang diamatkan konstitusi. \nPasal 20 ayat (2) UUD NRI 1945 \n“Tiap undang-undang menghendaki persetujuan dewan perwakilan \nrakyat” DPR / DPRD memiliki hak interplasi, angket, dan menyata kan \npendapat” \nfungsi legistratif krusial bila tidak didukung syarat kualifikasi pendidikan tinggi, \nPembuatan undang-undang diyatakan bertentangan argumentasi tida k \nberbasis kajian ilmiah,tidak rasional, belum sesuai standart in telektual, tidak \nmendominasi kepentingan publik. kesenjangan antara norma kunsti tusi dan \npraktik politik. \n\n11 \nPasal 31 ayat (3) UUD NRI 1945 \n“Pemerintah mengusahakan dan menyelenggarakan suatu sistem \npendidikan nasional, yang meningkatkan keimanan dan ketakwaan s erta \nakhlak mulia dalam rangka mencerdaskan kehidupan bangsa yang diatur \ndengan undang-undang” kebijakan tidak rasional kepentingan poli tik \ntekanan kelompok bukan murni hasil analisis ilmiah. kebijakan p ublik \nsering tidak berbasis analisis rasional menghambat upaya mencerdaskan \nkehidupan bangsa.",
+      "start_line": 327,
+      "end_line": 377
+    },
+    {
+      "heading": "3. Tanpa kemampuan intelektual, rasional, analisis, pendidikan, kopetensi dalam",
+      "slug": "3-tanpa-kemampuan-intelektual-rasional-analisis-pendidikan-kopetensi-dalam",
+      "text": "menjalankan fungsi legistatif dapat menciptakan kesalahan menen tukan \nkebijakan bertentangan nilai-nilai karakter bangsa sesuai denga n undang-\nundang 1945, merusak tantanan negara, penyalahgunaan wewenang, \npelanggaran Hak Asasi Manusia, kebijakan maladministrasi, penga baian \nkeadilan sosial, krisis legitimasi. Kebijakan dibuat berdasarka n kepentingan \nrakyat bukan berdasarkan kepentingan pribadi, perampasan hak dasar hidup, \nhak perlindungan dan hak berpendapat, minimnya integritas intel ektual \nanalisis, ketidakmampuan menyusun perencanaan yang transparan d an \nakuntable. Kebijakan menghasilkan aturan tumpang tindih kontrai ndikatif \nmelanggar prinsip kepastian hukum yang diamanatkan UUD 1945;",
+      "start_line": 379,
+      "end_line": 388
+    },
+    {
+      "heading": "4. Tanpa pendidikan, intelektual, analisis, rasional, dan kopet ensi menimbulkan",
+      "slug": "4-tanpa-pendidikan-intelektual-analisis-rasional-dan-kopet-ensi-menimbulkan",
+      "text": "ketidakmampuan (abnormal) memberikan argumen rasional dalam \nmenentukan arah kebijakan dan mengurangi kepercayaan rakyat tid ak \nproposional secara kontitusional.",
+      "start_line": 390,
+      "end_line": 392
+    },
+    {
+      "heading": "5. Kebutuhan lembaga legistratif yang profesional dan berorient asi pada",
+      "slug": "5-kebutuhan-lembaga-legistratif-yang-profesional-dan-berorient-asi-pada",
+      "text": "kwualitas kebijakan publik,dinilai tidak lagi memadai untuk men jawab \nkompleksitas negara modern; \nNegara Pembatasan pendidikan Jabatan Parlemen\nIran 100 % Strata 2\nUkraina Polandia Lulusan Sangat tinggi strata 2 \nSwedia 82% Strata 1\nInggris 90% Strata 2\nAmerika Serikat 80% Strata 1\nSecara global, anggota legislatif di dunia sangat terdidik yait u 78% memiliki \ngelar sarjana (strata 1) dan 40% memiliki gelar Pascasarjana (S2 dan S3). \nHampir 90% anggota di Belgia, Denmark, Jerman, Belanda dan Ingg ris \nmemiliki pendidikan tinggi, mereka yang berpendidikan rendah dan menengah \ntelah menghilang dari parlemen dan kabinet hingga 70%. \n\n12 \n(https://blogs.lse.ac.uk/europpblog/2017/10/24/a-not-so-universal-suffrage-\nhow-europes-political-elites-have-become-educational-\nelites/#:~:text=Almost%2090%20percent%20of%20the,decreased%20subst\nantiallY%20in%20most%20countries) \nJumlah daftar anggota parlemen Inggris pada tahun 2010 diketahui sebanyak \n72% anggotanya adalah lulusan Universitas. \n(Representatives of society-UK Parliament \nhttps://share.google/8cYEKAMIGm0IH6RPk) \n(https://www.congress.gov/crs-product/R48535) \n(https://www.pewresearch.org/short-reads/2023/02/07/the-changing-face-of-\ncongress/#:~:text=Nearly%20all%20lawmakers%20in%20Congress,accordi\nng%20to%20the%20Census%20Bureau.) \n(https://www.pewresearch.org/short-reads/2023/02/02/nearly-all-members-\nof-the-118th-congress-have-a-bachelors-degree-and-most-have-a-graduate-\ndegree-\ntoo/#:~:text=In%20the%20Senate%2C%2013%25%20of,the%20state%20th\ney%20c urrently%20represent) \n(https://www.cambridge.org/core/journals/japanese-journal-of-political-\nscience/article/lawyers-and-law-graduates-in-parliaments-as-a-\nconsequence-of-smd-electoral-systems-a-comparison-of-japan-south-korea-\nand-germany/E02993DE72A8E87E9E8C401FAD4027D3)",
+      "start_line": 394,
+      "end_line": 429
+    },
+    {
+      "heading": "6. Pendidikan akan meningkatkan partisipasi politik dan kualita s politik suatu",
+      "slug": "6-pendidikan-akan-meningkatkan-partisipasi-politik-dan-kualita-s-politik-suatu",
+      "text": "negara, dengan pendidikan tinggi demokrasi lebih stabil. Negara  d i  E r o p a  \nunggul karena sistem pendidikan yang kuat sehingga mendukung ku alitas \nparlemen. https://share.google/6i5TtIZQcU6UJQaeT",
+      "start_line": 431,
+      "end_line": 433
+    },
+    {
+      "heading": "7. Data latar bekang pendidikan anggota DPR 2019-2024 lulusan D 3 sebanyak",
+      "slug": "7-data-latar-bekang-pendidikan-anggota-dpr-2019-2024-lulusan-d-3-sebanyak",
+      "text": "6 anggota (1%), lulusan D4/S1 sebanyak 198 anggota (34,4%), lul usan S2 \nsebanyak 210 anggota (36,5%) dan lulusan S3 sebanyak 53 anggota (9,2%). \nSementara itu, ada 52 anggota (9%) yang menempuh pendidikan lainnya.  \n(https://news.detik.com/berita/d-4730292/latar-belakang-pendidikan-\nanggota-dpr-9-7-lulus-sma-9-2-lulus-s3)",
+      "start_line": 435,
+      "end_line": 439
+    },
+    {
+      "heading": "8. Dari 580 anggota DPR RI terpilih periode 2024–2029, latar be lakang",
+      "slug": "8-dari-580-anggota-dpr-ri-terpilih-periode-2024-2029-latar-be-lakang",
+      "text": "pendidikannya cukup beragam. Lulusan S1 mendominasi dengan 155 orang, \ndisusul S2 sebanyak 119 orang dan S3 berjumlah 29 orang. Ada ju ga 63 \nanggota lulusan SMA serta 3 orang lulusan D3. \n(https://nasional.kompas.com/read/2025/09/20/07365871/211-anggota-dpr-\nsembunyikan-latar-belakang-pendidikan-deep-kemunduran)",
+      "start_line": 441,
+      "end_line": 445
+    },
+    {
+      "heading": "9. Pasal 20 ayat (2) DPR memiliki hak interplasi, angket dan me nyatakan",
+      "slug": "9-pasal-20-ayat-2-dpr-memiliki-hak-interplasi-angket-dan-me-nyatakan",
+      "text": "pendapat,didasarkan pada kepentingan Politik praktis dari pada pengawasan \n\n13 \nobjektif pemegang kekuasaan membentuk undang-undang. Tanpa \npendidikan, intelektual, analisis tajam dan kopetensi akan meng hilangkan \nkesempatan dalam menentukan arah kebijakan. \n(https://hukum.widyamataram.ac.id/fungsi-pengawasan-kelembagaan-\ndewan-perwakilan-rakyat)",
+      "start_line": 447,
+      "end_line": 454
+    },
+    {
+      "heading": "10. Jurnal ini menjelaskan tentang kualitas seseorang menurut U ndang-Undang",
+      "slug": "10-jurnal-ini-menjelaskan-tentang-kualitas-seseorang-menurut-u-ndang-undang",
+      "text": "Nomor 7 Tahun 2023 tentang Penetapan Peraturan Pemerintah sebag ai \npengganti Undang-Undang Nomor 1 Tahun 2022 tentang Perubahan Undang-\nUndang Nomor 7 Tahun 2017 tentang Pemilihan Umum yaitu calon an ggota \nDewan Perwakilan Rakyat harus telah menyelesaikan pendidikan SM A atau \nyang setara. \nKomponen kunci dari kerangka konstitusional Indonesia adalah DP R/DPRD. \nMengingat pentingnya fungsi DPR/DPRD dalam kerangka konstitusio nal \nIndonesia, prasyarat pendidikan minimal yang disebutkan di atas  h a r u s  \ndirevisi. \nMenurut hasil penelitian, untuk menciptakan pemimpin dan/atau w akil rakyat \ndengan keterampilan dan kapasitas yang unggul, sangat penting u ntuk \nmengubah prasyarat bergabung dengan Dewan Perwakilan Rakyat, \nkhususnya persyaratan pendidikan minimal bagi para kandidat.Kualitas tugas \nkonstitusional lembaga legislatif secara langsung dipengaruhi oleh rendahnya \nlatar belakang pendidikan anggota Dewan Perwakilan Rakyat (DPR) . \nKurangnya jaminan perlindungan hak-hak konstitusional rakyat, a rgumentasi \nyang lemah dalam penyusunan undang-undang, dan norma hukum yang  \nberagam interpretasinya hanyalah beberapa masalah yang mungkin muncul \nketika mayoritas anggota DPR kurang memiliki pendidikan formal.  K a m i  \nmelihat tujuan pendidikan sarjana melatih untuk analisis, kritik, sitesis ide dan \nproblem solving kompleks yang unggul dan mendalam dibanding pen didikan \nSMA. \n(https://www.ejournal.stih awanglong.ac.id/index.php/juris/article/view/1846);",
+      "start_line": 456,
+      "end_line": 478
+    },
+    {
+      "heading": "11. Fakta ilmiah menyimpulkan pendidikan tinggi akan meningkatkan kemampuan",
+      "slug": "11-fakta-ilmiah-menyimpulkan-pendidikan-tinggi-akan-meningkatkan-kemampuan",
+      "text": "kognitif, evidance base kuat, kemampuan analisis, berfikir krit is dan \nkompleksitas pemecahan masalah. Pendidikan tinggi secara statis tik \nmeningkatkan kemampuan kognitif dan berfikir tingkat tinggi, me skipun \n\n14 \nperbedaannya bersifat moderat dan dipengaruhi faktor lain seper ti \npengalaman dan lingkungan.  \n(https://pmc.ncbi.nlm.nih.gov/articles/PMC5568102/) \n(https://www.sciencedirect.com/science/article/abs/pii/S1096751613000705(\nhttps://a cademic.oup.com/cdpers/article/14/1/15/8232914)",
+      "start_line": 480,
+      "end_line": 489
+    },
+    {
+      "heading": "12. Fakta pendidikan tinggi kemampuan intlektual dibutuhkan;",
+      "slug": "12-fakta-pendidikan-tinggi-kemampuan-intlektual-dibutuhkan",
+      "text": "https://nasional.kompas.com/read/2026/04/15/20135981/pasal-yang-\ndisebut-hidup-lagi-di-kuhp-baru-meski-mk-sudah-nyatakan",
+      "start_line": 491,
+      "end_line": 492
+    },
+    {
+      "heading": "13. Pendidikan tinggi berpengaruh meningkatkan kemampuan analis is ekonomi,",
+      "slug": "13-pendidikan-tinggi-berpengaruh-meningkatkan-kemampuan-analis-is-ekonomi",
+      "text": "pemahaman kebijakan publik dan produktifitas kognitif. \n(https://www.sciencedirect.com/journal/economics-of-education-review)",
+      "start_line": 494,
+      "end_line": 495
+    },
+    {
+      "heading": "14. Keterampilan berfikir kritis dapat dikembangkan sebagai kop etensi",
+      "slug": "14-keterampilan-berfikir-kritis-dapat-dikembangkan-sebagai-kop-etensi",
+      "text": "kewarganegaraan di pendidikan tinggi. Keterampilan berfikir kritis diperlukan \nagar warga negara dapat berpartisipasi dalam proses demokrasi s ecara \nefektif dan sadar. Demokrasi berkualitas membutuhkan warga deng an \nkemampuan analisis pendidikan tinggi.  \n(https://share.google/nYMz7yrTl5rH0SBpq)",
+      "start_line": 497,
+      "end_line": 501
+    },
+    {
+      "heading": "15. Pembatasan pendidikan di jabatan legislatif memberikan kese mpatan bagi",
+      "slug": "15-pembatasan-pendidikan-di-jabatan-legislatif-memberikan-kese-mpatan-bagi",
+      "text": "warga negara untuk bersaing secara adil dan kualitas demokrasi tidak \nterhalang oleh penyalahgunaan kebebasan demokrasi. Pendidikan \nmempengaruhi pejabat dalam memberikan pendapat yang dapat \ndipertanggungjawabkan serta dalam mengambil keputusan yang rasional. \n(https://www.press.jhu.edu/journals/journaldemocracy?srsltid=AfmBOooEa\ngwCRUmQaYNE4hdAg1kEZckQ05GKJznwHCJ_1O 1nZf79s4Yj)",
+      "start_line": 503,
+      "end_line": 508
+    },
+    {
+      "heading": "16. Perilaku pejabat legistatif mencerminkan kualitas demokrasi suat u negara.",
+      "slug": "16-perilaku-pejabat-legistatif-mencerminkan-kualitas-demokrasi-suat-u-negara",
+      "text": "Pendidikan rendah berpotensi melanggar etika dan tata tertib le gistatif yang \nberdampak negatif pada citra demokrasi, menurunkan kepercayaan publik, \ntidak menghormati rakyat dan martabat negara. \nhttps://www.tempo.co/politik/anggota-dewan-joget-di-sidang-tahunanmpr-\nmuzani-dengar-lagu-otomatis-tubuh-bergerak-2060673)",
+      "start_line": 510,
+      "end_line": 514
+    },
+    {
+      "heading": "17. Pentingnya seorang anggota legistatif memiliki kemampuan in telektual",
+      "slug": "17-pentingnya-seorang-anggota-legistatif-memiliki-kemampuan-in-telektual",
+      "text": "analisis. Banyaknya pelanggaran calon anggota legistatif DPR/DP RD pada \npelaksanaan pemilu 2019 dan 2024 menjadi tolak ukur kualitas de mokrasi. \nJenis pelanggaran tersebut adalah 69 pelanggaran administratif, 39 tindakan \n\n15 \npidana pemilu, 248 pelanggaran kode etik dan 125 pelanggaran hu kum \nlainnya.  \n(https://www.bawaslu.go.id/id/berita/registrasi-1023-temuan-dan-laporan-\nbawaslu-temukan-479-dugaan-pelanggaran-pemilu \n2024#:~:text=%22Jenis%20pelanggarannya%2069%20pelanggaran%20ad\nministrasi \n%2C%2039%20dugaan,kode%20etik%2C%20dan%20125%20pelanggara\nn%20huk um%20lainnya%2C) \n(https://perpustakaan.dpr.go.id/epaper/index/popup/id/18974) \n(https://tuba.bawaslu.go.id/berita/bawaslu-ungkap-data-penanganan-\npelanggaran-pemilihan-serentak-2024-bawaslu-tulang-\nbawang#:~:text=Tulang%20Bawang%20%E2%80%94%20Badan%20Pen\ngawas%2 \n0Pemilihan%20Umum,1.254%20temuan%20dan%205.727%20laporan%2\n0dari%20 masyarakat) \n(https://www.bawaslu.go.id/sites/default/files/hasil_pengawasan/Laporan%20\nPenga wasan%20Pileg%202014.pdf) \n(https://pidiejaya.bawaslu.go.id/berita/hasil-penanganan-pelanggaran-\npemilu-dan-pemilihan-tahun-2019-\n2024#:~:text=Pada%20Pemilu%20tahun%202019%2C%20jumlah%20perk\nara%20yang,sebanyak%2018.564%20dan%20bukan%20pelanggaran%20\nsebanyak%202.57 8.Pada)",
+      "start_line": 516,
+      "end_line": 542
+    },
+    {
+      "heading": "18. Berdasarkan fakta penelitian akademik dan bukti diatas, pen didikan",
+      "slug": "18-berdasarkan-fakta-penelitian-akademik-dan-bukti-diatas-pen-didikan",
+      "text": "intelektual memiliki pengaruh besar terhadap kualitas demokrasi. Mahkamah \nkonstitusi sebagai penjaga konstitusi memiliki tanggung jawab m oral untuk \nmenghentikan abnormal ini. \nIV. PETITUM \nBerdasarkan seluruh dalil-dalil pemohon yang telah diuraikan se cara lengkap \ndalam posita, maka Pemohon memohon kepada Yang Mulia Majelis Ha kim \nKonstitusi yang memeriksa, mengadili dan menguji Permohonan Pemohon untuk \nmemberikan putusan sebagai berikut:",
+      "start_line": 544,
+      "end_line": 551
+    },
+    {
+      "heading": "2. Menyatakan Pasal 240 ayat 1 huruf E Undang-Undang Nomor 7 Ta hun 2017",
+      "slug": "2-menyatakan-pasal-240-ayat-1-huruf-e-undang-undang-nomor-7-ta-hun-2017",
+      "text": "Tentang Pemilihan Umum (Lembaran Negara Republik Indonesia Tahun 2017 \nNomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor 61 09) \nbertentangan dengan Undang-Undang Dasar Republik Indonesia Tahun 1945 \ndan tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimaknai: \nPasal 240 (1) huruf e “Berpendidikan paling rendah lulusan sarj ana strata 2 \n(S2) atau yang sederajat. \n\n16",
+      "start_line": 554,
+      "end_line": 561
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila Majelis Hakim Mahkamah Konstitusi mempunyai pendapat la in, mohon \nputusan yang seadil-adilnya (ex aquo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-5, sebagai \nberikut:",
+      "start_line": 563,
+      "end_line": 568
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 7 Tahun 2017 tentan g",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-7-tahun-2017-tentan-g",
+      "text": "Pemilihan Umum;",
+      "start_line": 570,
+      "end_line": 570
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 572,
+      "end_line": 572
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk Pemohon atas nama Ardi",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-pemohon-atas-nama-ardi",
+      "text": "Usman;",
+      "start_line": 574,
+      "end_line": 574
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Berita Elektronik tentang Pemilihan Umu m.",
+      "slug": "5-bukti-p-5-fotokopi-berita-elektronik-tentang-pemilihan-umu-m",
+      "text": "[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam  Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahka n dengan \nputusan ini.",
+      "start_line": 577,
+      "end_line": 580
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), salah satu kewenangan konstitusional Mah kamah adalah \n\n17 \nmengadili pada tingkat pertama dan terakhir yang putusannya ber sifat final untuk \nmenguji undang-undang terhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 240 ayat (1) huruf e \nUndang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum (Lembaran Negara \nRepublik Indonesia Tahun 2017 Nomor 182, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6109, selanjutnya disebut UU 7/2017) terhadap U UD NRI Tahun \n1945 maka Mahkamah berwenang untuk mengadili permohonan a quo. \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo, namun sebelum mempertimbangkan lebih lanjut permohonan \nPemohon, Mahkamah mempertimbangkan hal-hal sebagai berikut. \n[3.3.1] Bahwa Mahkamah telah memeriksa permohonan a quo  dalam sidang \npemeriksaan pendahuluan dengan agenda mendengarkan pokok permoh onan \nPemohon pada tanggal 13 April 2026. Berdasarkan ketentuan Pasal 39 UU MK dan \nPasal 36 ayat (3) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2 025 tentang \nTata Beracara Dalam Perkara Pengujian Undang-Undang (disebut PM K 7/2025), \nMahkamah memberikan nasihat kepada Pemohon untuk memperbaiki si stematika \npermohonan dan substansi sistematika dimaksud, yaitu ihwal berk enaan dengan \nkewenangan Mahkamah, kedudukan hukum, alasan-alasan permohonan (posita) \nkhusus pertentangan antara norma yang dimohonkan pengujian deng an dasar \npengujian dalam UUD NRI Tahun 1945, dan memperjelas hal-hal yang dimohonkan \nuntuk diputus (petitum) agar sesuai dengan PMK 7/2025 [vide Ris alah Sidang, \ntanggal 13 April 2026, hlm. 8-22]. Terhadap nasihat yang disamp aikan Mahkamah \ntersebut, Pemohon diberikan kesempatan memperbaiki permohonan paling lama 14 \n(empat belas) hari sejak tanggal 13 April 2026, yaitu hingga paling lama tanggal 27 \nApril 2026, pukul 12.00 WIB.  Berkenaan dengan batas waktu dimaksud, Pemohon \ntelah menyampaikan perbaikan permohonan yang diterima Mahkamah pada tanggal \n25 April 2026 melalui surat elektronik (surel/ e-mail). Selanjutnya, pada tanggal 27 \nApril 2026, Mahkamah menyelenggarakan sidang pendahuluan dengan  agenda \nmendengarkan perbaikan permohonan dan pengesahan alat bukti. \n[3.3.2]  Bahwa selanjutnya, perihal uraian sebagaimana dikemukakan pad a Sub-\nparagraf [3.3.1] tersebut di atas, Mahkamah menilai syarat formal suatu \n\n18 \npermohonan terutama berkaitan dengan uraian yang jelas ihwal pengujian undang-\nundang terhadap UUD NRI Tahun 1945, berdasarkan Pasal 30 huruf a dan Pasal \n3 1  a y a t  ( 1 )  U U  M K ,  s e r t a  P a s a l  1 0  a y a t  ( 3 )  d a n  P a s a l  3 6  a y a t  ( 1) PMK 7/2025 \nsebagai berikut: \nPasal 30 huruf a UU MK  \nPermohonan wajib dibuat dengan uraian yang jelas mengenai:  \na. pengujian undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; \nPasal 31 ayat (1) UU MK \n(1) Permohonan sekurang-kurangnya harus memuat:  \na. nama dan alamat pemohon;  \nb. uraian mengenai perihal yang menjadi dasar permohonan \nsebagaimana dimaksud dalam Pasal 30; dan",
+      "start_line": 582,
+      "end_line": 642
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025 \nPermohonan sebagaimana dimaksud pada ayat (1), sekurang-kurangn ya \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antara lain:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 644,
+      "end_line": 648
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025 \nDalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam Pasal 35 \nayat (1) huruf a, Mahkamah memeriksa identitas Pemohon dengan \nkelengkapan dan kejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 651,
+      "end_line": 656
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum)",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "[3.3.3]  Bahwa berkenaan dengan hal-hal sebagaimana dikemukakan tersebut",
+      "start_line": 659,
+      "end_line": 659
+    },
+    {
+      "heading": "di atas, Mahkamah akan menilai keterpenuhan syarat formal permohonan Pemohon",
+      "slug": "di-atas-mahkamah-akan-menilai-keterpenuhan-syarat-formal-permohonan-pemohon",
+      "text": "terutama uraian yang dikemukakan dalam alasan-alasan permohonan . Dalam hal \nini, Pasal 51 ayat (3) huruf b UU MK menyatakan, “Pemohon wajib  menguraikan \ndengan jelas materi muatan dalam ayat, pasal dan/atau bagian un dang-undang \ndianggap bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945”. Artinya, sekalipun telah disusun dan memuat sistematika permohonan \nsecara benar, penilaian perihal keterpenuhan syarat formal suatu permohonan tidak \nhanya sampai pada sistematika an sich. Dalam hal ini, Mahkamah juga akan menilai \nperihal keterpenuhan isi/substansi masing-masing sistematika dimaksud. \n\n19 \n Setelah memeriksa dengan saksama perbaikan permohonan Pemohon,  \nsecara formil telah disusun sesuai dengan format permohonan sebagaimana diatur \ndalam Pasal 31 ayat (1) UU MK dan Pasal 10 ayat (3) PMK 7/2025 dan pada alasan-\nalasan permohonan telah mencantumkan dasar pengujian dalam UUD NRI Tahun \n1945 yang dijadikan sebagai dasar untuk menilai masalah konstitusionalitas norma \nyang dimohonkan pengujian, di antaranya Pasal 28E ayat (2), Pas al 28H ayat (2), \nPasal 23 ayat (1), Pasal 20 ayat (2), dan Pasal 31 ayat (3) UUD  NRI Tahun 1945 \n[vide Permohonan, hlm. 8-9]. Namun demikian, Mahkamah menemukan  f a k t a  \nhukum, sekalipun Pemohon telah mencantumkan dasar pengujian dalam UUD NRI \nTahun 1945, secara faktual Pemohon tidak menguraikan argumentas i yang \nmemadai dan meyakinkan Mahkamah perihal pertentangan antara nor ma yang \ndimohonkan pengujian konstitusionalitasnya dengan dasar penguji an dalam UUD \nNRI Tahun 1945. Terlebih, setelah Mahkamah membaca secara saksa ma uraian \ndalam alasan-alasan permohonan (posita), Pemohon lebih banyak m engutip \ntautan/laman (website) tanpa menguraikan secara jelas ihwal argumentasi hukum \nyang dapat menujukkan secara jelas dan memadai pertentangan ant ara norma \nPasal 240 ayat (1) huruf e UU 7/2017 dengan UUD NRI Tahun 1945 [vide \nPermohonan, hlm 10-14]. Dengan fakta tersebut, Mahkamah mengala mi kesulitan \nuntuk menilai adanya pertentangan norma yang dimohonkan penguji an dengan \ndasar pengujian dalam UUD NRI Tahun 1945. Padahal uraian mengen ai adanya \npertentangan norma dalam undang-undang yang dimohonkan pengujia n dengan \ndasar pengujian dalam UUD NRI Ta hun 1945, merupakan hal yang es ensial dan \nfundamental yang harus dipenuhi dalam alasan-alasan permohonan (posita). \nDengan tidak adanya uraian yang jelas dan memadai pertentangan antara norma \nyang dimohonkan pengujian dengan dasar pengujian, Mahkamah tida k dapat \nmengetahui ada atau tidaknya pertentangan norma yang dimohonkan  p e n g u j i a n  \ndengan UUD NRI Tahun 1945.  \n Berdasarkan fakta dan uraian pertimbangan hukum sebagaimana \ntersebut di atas, tidak terdapat keraguan bagi Mahkamah untuk menyatakan bahwa \npermohonan Pemohon tidak jelas atau kabur (obscuur). \n[3.4] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum d i \natas, meskipun Mahkamah berwenang untuk mengadili permohonan Pe mohon, \n\n20 \nnamun oleh karena permohonan Pemohon tidak jelas atau kabur ( obscuur) maka \nMahkamah tidak mempertimbangkan lebih lanjut permohonan Pemohon. \n[3.5] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 661,
+      "end_line": 708
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Ma hkamah \nberkesimpulan: \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Permohonan Pemohon tidak jelas atau kabur ( obscuur); \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 710,
+      "end_line": 723
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo, selaku Ketua merangkap Anggot a, Saldi Isra, \nAdies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Y usmic P. Foekh,  \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, pada hari Rabu, tanggal dua puluh sembilan, bulan April, tahun dua ribu \ndua puluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \n\n21 \nterbuka untuk umum pada hari Selasa, tanggal dua belas, bulan Mei, tahun dua \nribu dua puluh enam, selesai diucapkan pukul  14.19 WIB , oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo, selaku Ketua merangkap Anggota, Sal di Isra, Adies \nKadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Yusmic P. Foekh,  \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, dengan dibantu oleh Agusniwan Etra sebagai Panitera Pe ngganti, serta \ndihadiri oleh Pemohon/Kuasanya, Dewan Perwakilan Rakyat atau ya ng mewakili, \ndan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nAdies Kadir  \n ttd. \nLiliek Prisbawono Adi  \nttd. \nEnny Nurbaningsih \n ttd. \nDaniel Yusmic P. Foekh \nttd. \nM. Guntur Hamzah \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nAgusniwan Etra",
+      "start_line": 725,
+      "end_line": 766
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Ardi Usman",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Rahmad",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 7/2017 tentang Pemilihan Umum"
+    ],
+    "constitutional_articles": [
+      "Pasal 10",
+      "Pasal 28E ayat (2)",
+      "Pasal 23 ayat (1)",
+      "pasal 31 ayat (3)",
+      "Pasal 19 ayat (1)",
+      "Pasal 20 ayat (1)",
+      "Pasal 28H ayat (2)",
+      "Pasal 20 ayat (2)",
+      "Pasal 31 ayat (3)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 30 hur",
+      "Pasal 240 ayat (1) hur",
+      "Pasal 24",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 36 ayat (3)"
+    ],
+    "evidence": [
+      "BUKTI P-3",
+      "BUKTI P-1",
+      "BUKTI P-5",
+      "BUKTI P-2",
+      "BUKTI P-4",
+      "REFERENSI:124/PUU-XXIV/2026",
+      "REFERENSI:122/PUU/PAN.MK/AP3/04/2026",
+      "REFERENSI:006/PUU-III/2005danPutusanMahkamahKonstitusiNomor011/PUU-V/2007",
+      "REFERENSI:2025/09/20/0736",
+      "REFERENSI:14/1/15/8232",
+      "REFERENSI:2026/04/15/2013"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Agusniwan Etra"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "124/PUU-XXIV/2026",
+      "122/PUU/PAN.MK/AP3/04/2026",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor011/PUU-V/2007",
+      "2025/09/20/0736",
+      "14/1/15/8232",
+      "2026/04/15/2013"
+    ],
+    "referenced_cases": [
+      "124/PUU-XXIV/2026",
+      "122/PUU/PAN.MK/AP3/04/2026",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor011/PUU-V/2007",
+      "2025/09/20/0736",
+      "14/1/15/8232",
+      "2026/04/15/2013"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

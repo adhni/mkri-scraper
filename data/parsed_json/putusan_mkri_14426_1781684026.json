@@ -1,0 +1,454 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14426_1781684026.pdf",
+    "file_name": "putusan_mkri_14426_1781684026.pdf",
+    "page_count": 17,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14426_1781684026.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "164/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-06-17",
+    "decision_date_raw": "tujuh belas, bulan Juni, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 164/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jal an terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 6,
+      "end_line": 10
+    },
+    {
+      "heading": "1. Nama : Tina Fitria Ningtyas",
+      "slug": "1-nama-tina-fitria-ningtyas",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Baratajaya Gang VI Nomor 43 \n Selanjutnya disebut sebagai ---------------------------------- ------- Pemohon I;",
+      "start_line": 12,
+      "end_line": 14
+    },
+    {
+      "heading": "2. Nama : Tri Cahyo Kusumo",
+      "slug": "2-nama-tri-cahyo-kusumo",
+      "text": "Pekerjaan : Mahasiswa  \n Alamat : Jalan Baratajaya Gang V Nomor 46 \n Selanjutnya disebut sebagai ---------------------------------- ------- Pemohon II;",
+      "start_line": 16,
+      "end_line": 18
+    },
+    {
+      "heading": "3. Nama : Dinda Suhartati",
+      "slug": "3-nama-dinda-suhartati",
+      "text": "Pekerjaan : Mahasiswa  \n Alamat : Jalan Nginden Gang VI Nomor 12 \n Selanjutnya disebut sebagai ---------------------------------- ------ Pemohon III;",
+      "start_line": 20,
+      "end_line": 22
+    },
+    {
+      "heading": "4. Nama : Vicky Daksa Tri A.H.",
+      "slug": "4-nama-vicky-daksa-tri-a-h",
+      "text": "Pekerjaan : Mahasiswa  \n Alamat : Jalan Bringin Telaga Nomor 09 \n Selanjutnya disebut sebagai ---------------------------------- ----- Pemohon IV;",
+      "start_line": 24,
+      "end_line": 26
+    },
+    {
+      "heading": "5. Nama : M. Fahril Syarif",
+      "slug": "5-nama-m-fahril-syarif",
+      "text": "Pekerjaan : Mahasiswa  \n Alamat : Jalan Banyu Urip Gang 02 Nomor 23 \n Selanjutnya disebut sebagai ---------------------------------- ------ Pemohon V;\nSelanjutnya Pemohon I sampai dengan Pemohon V disebut sebagai--------------------\n----------------------------------------------------------------------------------------para Pemohon; \n \n\n\n2 \n \n \n[1.2] Membaca permohonan para Pemohon;  \nMendengar keterangan para Pemohon;",
+      "start_line": 28,
+      "end_line": 40
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 29 April 2026 yang diterima Kepaniteraan Mahkamah Ko nstitusi pada \ntanggal 7 Mei 2026 berdasarkan Akta Pengajuan Permohonan Pemoho n Nomor \n162/PUU/PAN.MK/AP3/05/2026 dan telah dicatat dalam Buku Registr asi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Nomor 164/PUU-XXIV/2026 p ada tanggal  \n8 Mei 2026, yang telah diperbaiki dengan perbaikan permohonan bertanggal 30 Mei \n2026 dan diterima Mahkamah pada tanggal 2 Juni 2026, pada pokok nya \nmenguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 42,
+      "end_line": 50
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 24 ayat (2) UUD 1945 menyatakan bahwa:",
+      "slug": "1-bahwa-ketentuan-pasal-24-ayat-2-uud-1945-menyatakan-bahwa",
+      "text": "“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang di bawahnya dalam lingkungan peradilan \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara dan oleh sebuah Mahkamah  \nKonstitusi.”",
+      "start_line": 52,
+      "end_line": 56
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Mahkamah Konstitusi memiliki kewenangan me nguji",
+      "slug": "2-bahwa-selanjutnya-mahkamah-konstitusi-memiliki-kewenangan-me-nguji",
+      "text": "undang-undang terhadap Undang-Undang Dasar sebagaimana dalam \nketentuan Pasal 24C ayat (1) UUD 1945 yang menyatakan bahwa: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang-undang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-\nUndang Dasar, memutus pembubaran partai politik, dan memutus \nperselisihan tentang hasil pemilihan umum.”",
+      "start_line": 58,
+      "end_line": 65
+    },
+    {
+      "heading": "3. Kewenangan MK tersebut juga tert uang dalam norma Pasal 29 ayat (1)",
+      "slug": "3-kewenangan-mk-tersebut-juga-tert-uang-dalam-norma-pasal-29-ayat-1",
+      "text": "huruf a Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan \nKehakiman (Lembaran Negara Republik Indonesia Tahun 200 Nomor 157, \nTambahan Lembaran Negara Republik Indonesia Nomor 5076) yang \nmenyatakan bahwa: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: \na. menguji undang undang terhadap Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945.” \n\n3",
+      "start_line": 67,
+      "end_line": 78
+    },
+    {
+      "heading": "4. Bahwa kewenangan MK juga diatur dalam ketentuan Pasal 10 aya t (1) huruf",
+      "slug": "4-bahwa-kewenangan-mk-juga-diatur-dalam-ketentuan-pasal-10-aya-t-1-huruf",
+      "text": "a Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi  \n(Lembaran Negara Republik Indonesia Tahun 2003 Nomor 98, Tambah an \nLembaran Negara Republik Indonesia Nomor 4316) sebagaimana tera khir \ndiubah dengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubaha n \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor  216, \nTambahan Lembaran Negara Republik Indonesia Nomor 6554) selanjutnya \ndisebut UU MK, yang menyatakan bahwa: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: \na. menguji undang-undang terhadap Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945.”",
+      "start_line": 80,
+      "end_line": 91
+    },
+    {
+      "heading": "5. Bahwa Mahkamah Konstitusi berwenang menguji hal dugaan perte ntangan",
+      "slug": "5-bahwa-mahkamah-konstitusi-berwenang-menguji-hal-dugaan-perte-ntangan",
+      "text": "norma undang-undang terhadap Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945 berdasarkan ketentuan Pasal 9 ayat (1) Und ang-\nUndang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan \nPerundang-undangan sebagaimana diubah terakhir dalam Undang-\nUndang 13 Tahun 2022 tentang Perubahan Kedua atas Undang-Undang  \n12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan,  \nyang selengkapnya menyatakan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi.”",
+      "start_line": 93,
+      "end_line": 102
+    },
+    {
+      "heading": "6. Bahwa Objek Permohonan Pengujian Undang-Undang (PUU) oleh",
+      "slug": "6-bahwa-objek-permohonan-pengujian-undang-undang-puu-oleh",
+      "text": "Mahkamah Konstitusi adalah mencakup undang-undang dan Perppu \nsebagaimana disebutkan dalam ketentuan Pasal 2 ayat (1) Peratur an \nMahkamah Konstitusi No 7 Tahun 2025 tentang Tata Beracara Dalam  \nPerkara Pengujian Undang-Undang (PMK 7/2025), yang menyatakan \nbahwa: \nPasal 2 \n(1)  Objek Permohonan PUU adalah undang-undang dan Perppu.",
+      "start_line": 104,
+      "end_line": 110
+    },
+    {
+      "heading": "7. Bahwa para Pemohon mengajukan permohonan pengujian materiil atas",
+      "slug": "7-bahwa-para-pemohon-mengajukan-permohonan-pengujian-materiil-atas",
+      "text": "Pasal 273 Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan \nAngkutan Jalan  terhadap Undang Und ang Dasar Negara Republik \nIndonesia Tahun 1945  \n\n4",
+      "start_line": 112,
+      "end_line": 118
+    },
+    {
+      "heading": "8. Bahwa permohonan para Pemohon adalah mengenai pengujian mate riil",
+      "slug": "8-bahwa-permohonan-para-pemohon-adalah-mengenai-pengujian-mate-riil",
+      "text": "Pasal 273 Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan \nAngkutan terhadap Pasal 34 ayat (3) Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945, maka Mahkamah Konstitusi berwena ng \nmengadili permohonan ini.",
+      "start_line": 120,
+      "end_line": 123
+    },
+    {
+      "heading": "9. Bahwa dalam pengujian materi Undang-Undang terhadap Undang-U ndang",
+      "slug": "9-bahwa-dalam-pengujian-materi-undang-undang-terhadap-undang-u-ndang",
+      "text": "Dasar di Mahkamah Konstitusi, terdapat ketentuan yang mengatur agar \nmuatan norma dalam pengujian tidak dilakukan berulang kali ( ne bis in \nidem). Hal ini dinyatakan dalam Pasal 60 UU 24/2003 tentang Mahkama h \nKonstitusi sebagaimana diubah dengan Undang-Undang Nomor 8 Tahu n \n2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi, sebagai berikut: \nKetentuan Pasal 60 diubah sehingga berbunyi sebagai berikut: \nPasal 60 \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam \nundang-undang yang telah diuji, tidak dapat dimohonkan \npengujian kembali. \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat \ndikecualikan jika materi muatan dalam Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 yang dijadikan dasar \npengujian berbeda. \nBerkenaan dengan ne bis in idem Pasal 60 UU MK terdapat klausul \npengecualian bagi materi muatan dasar pengujian yang berbeda. In casu \npermohonan a quo memiliki objek pengujian yang baru pertama kali \ndiajukan serta kombinasi dalil pengujian yang berbeda dari pengujian Pasal \nyang berkaitan sebelumnya, sehingga permohonan a quo tidak ne bis in \nidem dan dapat dipertimbangkan oleh Mahkamah. \nII. KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON",
+      "start_line": 125,
+      "end_line": 146
+    },
+    {
+      "heading": "1. Kualifikasi kedudukan hukum ( legal standing ) merupakan syarat yang",
+      "slug": "1-kualifikasi-kedudukan-hukum-legal-standing-merupakan-syarat-yang",
+      "text": "harus dipenuhi oleh setiap pemohon untuk mengajukan permohonan \npengujian undang-undang terhadap UUD 1945 kepada MK sebagaimana  \ndiatur di dalam Pasal 51 ayat (1) UU MK jo. Pasal 4 ayat (1) Peraturan MK \nNomor 7 Tahun 2025 Tentang Tata Beracara dalam Pengujian Undang -\nUndang (PMK 7/2025), yang menyatakan: \nPasal 4 \n(1) Permohonan sebagaimana dimaksud dalam Pasal 3 huruf a \n\n5 \n \n \nadalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang atau \nPerppu, yaitu: \na. perorangan warga negara Indonesia atau kelompok orang \nyang mempunyai kepentingan yang sama; \nb. kesatuan hukum masyarakat adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip Negara \nKesatuan Republik Indonesia yang diatur dalam undang- \nundang;",
+      "start_line": 148,
+      "end_line": 167
+    },
+    {
+      "heading": "2. Berdasarkan ketentuan Pasal 51 ayat (1) UU MK jo Pasal 4 aya t (1) PMK",
+      "slug": "2-berdasarkan-ketentuan-pasal-51-ayat-1-uu-mk-jo-pasal-4-aya-t-1-pmk",
+      "text": "7/2025 tersebut, Pemohon harus memiliki kedudukan hukum ( legal \nstanding) dalam perkara pengujian undang-undang, yaitu dengan \nterpenuhinya kualifikasi untuk bertindak sebagai pemohon, dan adanya hak \ndan/atau kewenangan konstitusional Pemohon yang dirugikan denga n \nberlakunya suatu undang-undang.",
+      "start_line": 171,
+      "end_line": 175
+    },
+    {
+      "heading": "3. Bahwa setelah memenuhi kualifikasi dalam kedudukan hukum seb agai",
+      "slug": "3-bahwa-setelah-memenuhi-kualifikasi-dalam-kedudukan-hukum-seb-agai",
+      "text": "Pemohon, perlu pula diuraikan syarat kerugian hak dan/atau kewe nangan \nkonstitusional sebagaimana dimaksud Pasal 51 ayat (1) UU MK unt uk \ndapat mengajukan permohonan sebagaimana ditentukan dalam Putusa n \nMahkamah Konstitusi Nomor 006/PUU-III/2005 dan Putusan Nomor \n11/PUU-V/2007, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  \ndianggap dirugikan oleh berlakunya Undang-Undang yang dimohonkan \npengujian;",
+      "start_line": 177,
+      "end_line": 186
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan",
+      "text": "aktual atau setidak-tidaknya potensial yang menurut penalaran y ang \nwajar dapat dipastikan akan terjadi;",
+      "start_line": 188,
+      "end_line": 189
+    },
+    {
+      "heading": "d. adanya hubungan sebab akibat antara kerugian dimaksud dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan",
+      "text": "berlakunya Undang-Undang yang dimohonkan pengujian; \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan maka \nkerugian konstitusional yang didalilkan tidak akan atau tidak lagi terjadi.",
+      "start_line": 191,
+      "end_line": 193
+    },
+    {
+      "heading": "4. Oleh sebab itu para Pemohon menguraikan kedudukan hukum ( legal",
+      "slug": "4-oleh-sebab-itu-para-pemohon-menguraikan-kedudukan-hukum-legal",
+      "text": "standing) Pemohon dalam mengajukan permohonan sebagai berikut: \n\n6 \n \n \n4.1 Kualifikasi sebagai para Pemohon \nBahwa para Pemohon berkualifikasi sebagai perorangan Warga \nNegara Indonesia yang dibuktikan dengan Kartu Tanda Penduduk/KTP \n(Bukti P-1).  \nBahwa para Pemohon merupakan bagian dari masyarakat pengguna \njalan ( road users ) yang secara faktual dan potensial memiliki \nketerkaitan langsung dengan keberlakuan norma Pasal 273 Undang-\nUndang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan \nJalan (UU LLAJ), baik sebagai subjek yang dilindungi maupun sebagai \npihak yang terdampak oleh penerapan norma tersebut. \nBahwa selain sebagai warga negara, para Pemohon juga memiliki \nlatar belakang akademik di bidang hukum, sehingga memiliki \nkepentingan konstitusional dalam menjaga tegaknya prinsip negar a \nhukum, kepastian hukum, serta penerapan hukum pidana yang sesuai \ndengan asas-asas fundamental, termasuk asas legalitas. \n4.2 Kerugian Konstitusional Pemohon \nBahwa para Pemohon mempunyai hak konstitusional yang diberikan \noleh UUD 1945, utamanya hak warga negara memperoleh fasilitas \nkesehatan dan pelayanan umum serta  kepastian hukum karena \nmenyebabkan kecelakaan akibat jalan yang rusak sehingga pemohon",
+      "start_line": 195,
+      "end_line": 219
+    },
+    {
+      "heading": "di bebankan untuk menanggung biaya tersebut oleh Pasal 34 ayat (3)",
+      "slug": "di-bebankan-untuk-menanggung-biaya-tersebut-oleh-pasal-34-ayat-3",
+      "text": "yang berbunyi: \n“Negara bertanggung jawab atas penyediaan fasilitas pelayanan \nkesehatan dan fasilitas pelayanan umum yang layak” \nBahwa dalam kenyataannya, para Pemohon mengalami kerugian \nsecara langsung akibat kondisi jalan yang rusak dan tidak \nmemperoleh penanganan yang memadai dari penyelenggara jalan. \nKerusakan jalan tersebut telah mengakibatkan terjadinya kecelak aan \nlalu lintas yang menimbulkan kerugian materiil berupa biaya \npengobatan, biaya perbaikan kendaraan, kehilangan pendapatan, \nserta kerugian immateriil berupa penderitaan fisik, trauma psik ologis, \ndan terganggunya aktivitas sehari-hari para Pemohon. \nBahwa ketidakjelasan dan ketidakcukupan pengaturan mengenai \npertanggungjawaban penyelenggara jalan terhadap kerugian yang \n\n7 \n \n \ndialami pengguna jalan akibat kerusakan jalan telah menimbulkan  \nketidakpastian hukum bagi para Pemohon. Dalam praktiknya, para \nPemohon tidak memperoleh mekanisme pemulihan hak yang efektif \nuntuk mendapatkan ganti kerugian atas kecelakaan yang dialaminya. \nBahwa keberadaan jalan yang rusak, berlubang, dan tidak \nmendapatkan perbaikan secara layak telah menghilangkan rasa aman \npara Pemohon dalam menggunakan fasilitas publik yang disediakan  \noleh negara. Akibatnya, hak konstitusional para Pemohon atas \nperlindungan diri dan harta benda menjadi terlanggar karena \nkecelakaan yang terjadi secara langsung disebabkan oleh kondisi  \ninfrastruktur yang tidak memenuhi standar keselamatan. \nBahwa para Pemohon memiliki kedudukan hukum ( legal standing ) \nuntuk mengajukan permohonan pengujian undang-undang a quo  \nkarena hak-hak konstitusional para Pemohon telah dirugikan seca ra \nlangsung oleh berlakunya norma yang dimohonkan pengujian dan \nterdapat kemungkinan bahwa kerugian konstitusional tersebut tid ak \nakan terjadi lagi apabila Mahkamah Konstitusi mengabulkan \npermohonan para Pemohon. \nIII. ALASAN PERMOHONAN \nA. PERMOHONAN DAPAT DIAJUKAN KEMBALI (Tidak Ne bis in idem)",
+      "start_line": 221,
+      "end_line": 257
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 60 UU MK juncto Pasal 72 ayat (2) PMK Nomor 7",
+      "slug": "1-bahwa-ketentuan-pasal-60-uu-mk-juncto-pasal-72-ayat-2-pmk-nomor-7",
+      "text": "Tahun 2025 memungkinkan Pemohon mengajukan kembali pengujian \nmateri muatan ayat, pasal, dan/atau bagian dalam undang-undang yang \ntelah diuji oleh Mahkamah, yang lengkapnya berbunyi sebagai berikut: \nPasal 60 ayat (2) UU MK \n“Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan \njika materi muatan dalam Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 yang dijadikan dasar pengujian berbeda.” \nPasal 72 ayat (2) PMK Nomor 7 Tahun 2025 \n“Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan \njika materi muatan dalam UUD NRI Tahun 1945 yang dijadikan dasar \npengujian berbeda atau terdapat alasan permohonan yang berbeda.”",
+      "start_line": 259,
+      "end_line": 269
+    },
+    {
+      "heading": "2. Bahwa fokus utama permohonan a quo terletak pada kegagalan negara",
+      "slug": "2-bahwa-fokus-utama-permohonan-a-quo-terletak-pada-kegagalan-negara",
+      "text": "dalam memenuhi kewajiban untuk menyediakan fasilitas pelayanan \numum yang layak dalam bentuk infrastruktur jalan yang aman dan \n\n8 \n \n \nmemenuhi standar keselamatan. Dalam praktiknya, masih banyak \nditemukan kondisi jalan yang rusak, berlubang, tidak terpelihar a, serta \ntidak dilengkapi dengan rambu atau tanda peringatan yang memada i \nsehingga berpotensi menimbulkan kecelakaan lalu lintas. Keadaan  \ndemikian menunjukkan adanya kelalaian negara dalam melaksanakan  \nmandat konstitusional sebagaimana diatur dalam Pasal 34 ayat (3 ) UUD \nNRI Tahun 1945. Akibat dari kelalaian tersebut, Para Pemohon \nmengalami kerugian konstitusional berupa terlanggarnya hak atas  \nkepastian hukum yang adil, serta hak untuk memperoleh fasilitas  \nKesehatan dan pelayanan umum  yang layak.",
+      "start_line": 271,
+      "end_line": 286
+    },
+    {
+      "heading": "3. Bahwa oleh karena Pasal 273 Undang-Undang Nomor 22 Tahun 200 9",
+      "slug": "3-bahwa-oleh-karena-pasal-273-undang-undang-nomor-22-tahun-200-9",
+      "text": "tidak memberikan kejelasan yang memadai mengenai pihak yang har us \nbertanggung jawab atas kerusakan jalan yang mengakibatkan \nkecelakaan lalu lintas, maka norma a quo berpotensi mengaburkan dan \nmengurangi efektivitas pelaksanaan tanggung jawab negara \nsebagaimana dijamin dalam Pasal 34 ayat (3) UUD NRI Tahun 1945.  \nAkibatnya, perlindungan konstitusional yang seharusnya diperole h \nmasyarakat sebagai pengguna jalan menjadi tidak terpenuhi secar a \noptimal.",
+      "start_line": 288,
+      "end_line": 295
+    },
+    {
+      "heading": "4. Bahwa permohonan ini lahir dari adanya kerugian konstitusion al yang",
+      "slug": "4-bahwa-permohonan-ini-lahir-dari-adanya-kerugian-konstitusion-al-yang",
+      "text": "nyata dan aktual yang dialami para Pemohon akibat kecelakaan lalu lintas \nyang disebabkan oleh kerusakan jalan sebagai bagian dari fasili tas \npelayanan umum yang menjadi tanggung jawab negara. Kerugian \ntersebut berupa kerugian materiil, immateriil, serta tidak adanya kepastian \nmengenai mekanisme pertanggungjawaban negara terhadap pengguna \njalan yang dirugikan. Oleh karena itu, terdapat alasan permohon an yang \nberbeda dan hubungan kausal yang jelas antara berlakunya norma yang \ndimohonkan pengujian dengan kerugian konstitusional yang dialami para \nPemohon, sehingga berdasarkan Pasal 60 ayat (2) UU MK jo Pasal 72 \nayat (2) PMK Nomor 7 Tahun 2025, permohonan a quo secara hukum \ndapat diajukan kembali dan tidak dapat dinyatakan sebagai permohonan \nyang ne bis in idem.",
+      "start_line": 297,
+      "end_line": 308
+    },
+    {
+      "heading": "5. Bahwa berdasarkan seluruh uraian tersebut, Pasal 273 Undang- Undang",
+      "slug": "5-bahwa-berdasarkan-seluruh-uraian-tersebut-pasal-273-undang-undang",
+      "text": "Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jalan sepanjang \n\n9 \n \n \ntidak dimaknai mencakup kewajiban dan pertanggungjawaban yang jelas \ndari pejabat, instansi, atau badan yang berwenang atas penyelenggaraan \ndan pemeliharaan jalan, telah bertentangan dengan Pasal 34 ayat  ( 3 )  \nUUD NRI Tahun 1945 karena tidak memberikan jaminan yang efektif  \nterhadap pelaksanaan tanggung jawab negara dalam penyediaan fasilitas \nkesehatan  dan fasilitas pelayanan umum yang layak seperti jala n rusak \nyang mengakibatkan kecelakaan sebagaimana dimaksud yakni biaya \nKesehatan atas ganti rugi bagi korban pengguna jalan. \nTabel 1 \nDaftar Putusan Berkaitan Dengan Pengujian Perkara Pasal 239 ayat (1) huruf c \nUndang-Undang Nomor 17 Tahun 2014 tentang Majelis Permusyawaratan \nRakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah dan Dewan \nPerwakilan Rakyat Daerah \nNo Perkara Alasan Permohonan Pertimbangan \nHakim \nObjek \nPermohonan \nPutusan",
+      "start_line": 310,
+      "end_line": 332
+    },
+    {
+      "heading": "1. 98/PUU-",
+      "slug": "1-98-puu",
+      "text": "XX/2022 \nMahkamah \nberpendapat bahwa \nmakna \n“penyelenggara \njalan” dapat \nditafsirkan secara \nsistematis melalui \nkeseluruhan norma \ndalam UULAJ dan \nperaturan terkait \npenyelenggaraan \njalan sehingga tidak \nmenimbulkan \nkekosongan hukum \nMahkamah \nberpendapat \nbahwa makna \n“penyelenggar\na jalan” dapat \nditafsirkan \nsecara \nsistematis \nmelalui \nkeseluruhan \nnorma dalam \nUULAJ dan \nperaturan \nterkait \npenyelenggara\nan jalan \nsehingga tidak \nmenimbulkan \nkekosongan \nhukum. \nPasal 273 \nayat (1) \nUULAJ, \nkhususnya \nfrasa \n“penyelengg\nara jalan” \nDitolak \n\n10",
+      "start_line": 334,
+      "end_line": 380
+    },
+    {
+      "heading": "2. 249/PUU-",
+      "slug": "2-249-puu",
+      "text": "XXIII/2025 \nPemohon \nmempersoalkan \nfrasa “tidak dengan \nsegera dan patut \nmemperbaiki jalan \nyang rusak” karena \ndianggap multitafsir \ndan tidak \nmemberikan ukuran \nyang jelas mengenai \nbatas waktu maupun \nstandar tindakan \npenyelenggara jalan.\nMahkamah \nmenilai \nargumentasi \nPemohon tidak \ncukup \nmembuktikan \nadanya \npertentangan \nnorma dengan",
+      "start_line": 382,
+      "end_line": 404
+    },
+    {
+      "heading": "UUD NRI",
+      "slug": "uud-nri",
+      "text": "Tahun 1945. \nSelain itu \nsebagian \npermohonan \ndinilai tidak \nmemenuhi \nsyarat formil \npengujian \nkonstitusionalit\nas. \nPasal 24 \nayat (1) dan \nPasal 273 \nayat (1) \nUULAJ. \nDitolak.",
+      "start_line": 406,
+      "end_line": 421
+    },
+    {
+      "heading": "6. Bahwa terdapat perbedaan mendasar antara permohonan Pemohon",
+      "slug": "6-bahwa-terdapat-perbedaan-mendasar-antara-permohonan-pemohon",
+      "text": "dan permohonan sebelumnya, yang penjabarannya sebagai berikut: \nTabel 2 \nKombinasi Dalil Permohonan Pemohon \nBatu Uji UUD 1945 Dalil Permohonan \nPasal 34 ayat (3) UUD Tahun 1945 Dalam permohonan a quo , Pemohon \nmendalilkan bahwa Pasal 273 UU Nomor \n22 Tahun 2009 tentang Lalu Lintas dan \nAngkutan Jalan bertentangan dengan \nPasal 34 ayat (3) UUD NRI Tahun 1945 \nyang menyatakan bahwa \"Negara \nbertanggung jawab atas penyediaan \nfasilitas pelayanan kesehatan dan \nfasilitas pelayanan umum yang layak.\" \nJalan merupakan salah satu bentuk \nfasilitas pelayanan umum yang \ndisediakan oleh negara untuk menjamin \nmobilitas, keselamatan, dan \nkesejahteraan masyarakat. Oleh karena \nitu, kewajiban negara tidak hanya \nterbatas pada pembangunan jalan, \nmelainkan juga mencakup \npemeliharaan, perbaikan, pengawasan, \ndan jaminan keamanan jalan agar tetap \nlayak digunakan oleh masyarakat.\n\n11 \n \n \nCatatan: \nPenggunaan Pasal 34 ayat (3) UUD \nNRI Tahun 1945 sebagai batu uji \nterhadap Pasal 273 UULAJ belum \npernah menjadi fokus utama dalam \nperkara-perkara pengujian \nsebelumnya. Oleh karena itu, \npermohonan a quo  memiliki dasar \nkonstitusional yang berbeda sehingga \ntidak termasuk ne bis in idem  \nsebagaimana dimaksud dalam Pasal \n60 UU Mahkamah Konstitusi.\n \nB. KAITAN KERUGIAN KONSTITUSIONAL (Causal Verband)",
+      "start_line": 423,
+      "end_line": 464
+    },
+    {
+      "heading": "1. Bahwa dalam permohonan a quo, kerugian konstitusional yang dialami",
+      "slug": "1-bahwa-dalam-permohonan-a-quo-kerugian-konstitusional-yang-dialami",
+      "text": "Pemohon memiliki hubungan kausal secara langsung dengan \nkeberlakuan Pasal 273 Undang-Undang Nomor 22 Tahun 2009 tentang  \nLalu Lintas dan Angkutan Jalan. Meskipun norma a quo mengatur sanksi \npidana bagi penyelenggara jalan yang lalai memperbaiki jalan ru sak, \nnorma tersebut tidak mengatur secara jelas mengenai kewajiban \npertanggungjawaban terhadap korban yang mengalami kerugian akib at \nkecelakaan yang disebabkan oleh kerusakan jalan.",
+      "start_line": 466,
+      "end_line": 472
+    },
+    {
+      "heading": "2. Bahwa ketidakjelasan norma a quo telah menimbulkan ketidakpastian",
+      "slug": "2-bahwa-ketidakjelasan-norma-a-quo-telah-menimbulkan-ketidakpastian",
+      "text": "hukum dalam pelaksanaan tanggung jawab penyelenggara jalan, \nsehingga kewajiban konstitusional negara untuk menyediakan fasi litas \npelayanan umum yang layak sebagaimana dijamin dalam Pasal 34 ay at \n(3) UUD NRI Tahun 1945 menjadi tidak terlaksana secara efektif.  \nAkibatnya, masyarakat sebagai pengguna jalan berada dalam posisi yang \nrentan terhadap risiko kecelakaan lalu lintas yang bersumber da ri \nkerusakan jalan yang tidak segera ditangani oleh penyelenggara jalan.",
+      "start_line": 474,
+      "end_line": 480
+    },
+    {
+      "heading": "3. Bahwa sebagai warga negara Indonesia yang memiliki hak konst itusional",
+      "slug": "3-bahwa-sebagai-warga-negara-indonesia-yang-memiliki-hak-konst-itusional",
+      "text": "untuk memperoleh manfaat dari tersedianya fasilitas pelayanan u mum \nyang layak, Pemohon berpotensi secara nyata mengalami kerugian \nkonstitusional akibat tidak optimalnya pelaksanaan kewajiban ne gara \ndalam menjamin keamanan dan kelayakan infrastruktur jalan. Pote nsi \nkerugian tersebut bukanlah kerugian yang bersifat abstrak atau hipotetis, \nmelainkan kerugian yang secara logis dapat terjadi terhadap set iap \npengguna jalan sebagai konsekuensi langsung dari tidak adanya \nkejelasan norma mengenai tanggung jawab penyelenggara jalan \n\n12",
+      "start_line": 482,
+      "end_line": 493
+    },
+    {
+      "heading": "4. Bahwa terdapat hubungan sebab-akibat ( causal verband ) yang nyata",
+      "slug": "4-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-yang-nyata",
+      "text": "antara keberlakuan Pasal 273 UULAJ dengan kerugian konstitusion al \nPemohon. Ketidakjelasan norma mengenai standar pertanggungjawaban \npenyelenggara jalan menyebabkan tidak efektifnya perlindungan h ukum \nterhadap pengguna jalan, yang pada akhirnya berimplikasi pada t idak \nterpenuhinya hak konstitusional Pemohon untuk memperoleh fasili tas \npelayanan umum yang layak sebagaimana dijamin oleh Pasal 34 ayat (3) \nUUDTahun 1945.",
+      "start_line": 495,
+      "end_line": 501
+    },
+    {
+      "heading": "5. Bahwa apabila Mahkamah Konstitusi mengabulkan permohonan a quo",
+      "slug": "5-bahwa-apabila-mahkamah-konstitusi-mengabulkan-permohonan-a-quo",
+      "text": "dengan memberikan penafsiran konstitusional atau menyatakan nor ma \nyang dimohonkan pengujian bertentangan dengan UUD Tahun 1945 \nsecara bersyarat ( conditionally unconstitutional ), maka kerugian \nkonstitusional yang didalilkan o leh Pemohon akan dapat dicegah atau \nsetidak-tidaknya diminimalisasi. Dengan demikian, terdapat kemungkinan \nyang rasional bahwa kerugian konstitusional Pemohon tidak lagi terjadi \napabila permohonan a quo dikabulkan oleh Mahkamah. \nIV. PETITUM \nBerdasarkan seluruh uraian fakta dan argumentasi hukum yang tel ah \ndikemukakan di atas, para Pemohon memohon kepada Mahkamah Konst itusi \nRepublik Indonesia untuk memberikan putusan sebagai berikut:",
+      "start_line": 503,
+      "end_line": 513
+    },
+    {
+      "heading": "2. Menyatakan Pasal 273 Undang-Undang Nomor 22 Tahun 2009 tenta ng Lalu",
+      "slug": "2-menyatakan-pasal-273-undang-undang-nomor-22-tahun-2009-tenta-ng-lalu",
+      "text": "Lintas dan Angkutan Jalan bertentangan dengan Undang-Undang Das ar \nNegara Republik Indonesia Tahun 1945 sepanjang tidak dimaknai mencakup \nkewajiban pertanggungjawaban penyelenggara jalan terhadap korba n \nkecelakaan yang timbul akibat kerusakan jalan yang menjadi tang gung \njawabnya;",
+      "start_line": 516,
+      "end_line": 520
+    },
+    {
+      "heading": "3. Menyatakan Pasal 273 Undang-Undang Nomor 22 Tahun 2009 tenta ng Lalu",
+      "slug": "3-menyatakan-pasal-273-undang-undang-nomor-22-tahun-2009-tenta-ng-lalu",
+      "text": "Lintas dan Angkutan Jalan tetap mempunyai kekuatan hukum mengik at \nsepanjang dimaknai bahwa penyelenggara jalan yang lalai dalam \npenyelenggaraan dan pemeliharaan jalan sehingga mengakibatkan \nkecelakaan lalu lintas wajib bertanggung jawab atas biaya pengo batan, \npemulihan, dan/atau ganti kerugian yang dialami korban sesuai d engan \nketentuan peraturan perundang-undangan; \n\n13",
+      "start_line": 522,
+      "end_line": 531
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia. \nAtau  \nApabila Mahkamah Konstitusi berpendapat lain, mohon putusan yan g seadil-\nadilnya (ex aequo et bono). \n[2.2] Menimbang bahwa para Pemohon tidak mengajukan alat bukti untuk  \nmembuktikan dalil-dalil permohonannya. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 533,
+      "end_line": 541
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945.  \n[3.2] Menimbang bahwa oleh karena permohonan  a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 273 Undang-Undang Nomor \n22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jalan (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 96, Tambahan Lembaran Negara Republik Indonesia \n\n14 \n \n \nNomor 5025, selanjutnya disebut UU 22/2009) terhadap UUD NRI Tahun 1945 maka \nMahkamah berwenang mengadili permohonan a quo. \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo , sebelum mempertimbangkan lebih lanjut permohonan para \nPemohon, Mahkamah akan mempertimbangkan terlebih dahulu hal-hal  sebagai \nberikut.  \n[3.3.1] Bahwa para Pemohon mengajukan permohonan awal bertanggal 29 April \n2026 secara daring ( online). Berdasarkan Akta Pengajuan Permohonan Pemohon \nNomor 162/PUU/PAN.MK/AP3/05/2026 permohonan diterima oleh Mahkamah pada \ntanggal 7 Mei 2026. Berdasarkan Daftar Kelengkapan Pengajuan Pe rmohonan \nPemohon (DKP3) para Pemohon hanya mengajukan softcopy permohonan dalam \nbentuk .pdf dan dalam bentuk .doc/.docx, serta tidak mengajukan  daftar alat bukti \ndan alat bukti untuk mendukung permohonan; \n[3.3.2] Bahwa Mahkamah telah menyelenggarakan sidang pemeriksaan \npendahuluan pada tanggal 20 Mei 2026 dengan agenda mendengar po kok-pokok \npermohonan para Pemohon, serta memeriksa kelengkapan dan kejela san materi \npermohonan. Berdasarkan ketentuan Pasal 39 UU MK dan Pasal 36 a yat (3) \nPeraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 tentang Tata Beracara Dalam \nPerkara Pengujian Undang-Undang (selanjutnya disebut PMK 7/2025 ), dalam \nsidang pemeriksaan pendahuluan dimaksud Mahkamah telah memberik an nasihat \nkepada para Pemohon berkenaan dengan permohonannya, di antaranya mengenai \ntidak disampaikannya alat bukti sebagai syarat formil permohona n [vide Risalah \nSidang Mahkamah Konstitusi tanggal 20 Mei 2026, hlm. 16, 19, da n 22]. \nSelanjutnya, para Pemohon telah diberi kesempatan untuk melakuk an perbaikan \npermohonan sekaligus melengkapi permohonan paling lambat hari Selasa, tanggal \n2 Juni 2026, pukul 12.00 WIB, dengan melampirkan alat bukti yan g telah dibubuhi \nmaterai yang cukup sesuai dengan ketentuan peraturan perundang-undangan [vide \nRisalah Sidang Mahkamah Konstitusi tanggal 20 Mei 2026, hlm. 21-22]. \n[3.3.3] Bahwa setelah sidang pendahuluan, para Pemohon mengajukan \nperbaikan permohonan bertanggal 30 Mei 2026 secara daring ( online), yang \nditerima oleh Mahkamah pada tanggal 2 Juni 2026 pada pukul 11.0 8 WIB tanpa \ndilengkapi dengan daftar alat bukti dan alat bukti (berkas alat bukti).  \n\n15 \n \n \n[3.3.4] Bahwa pada tanggal 3 Juni 2026, Mahkamah menyelenggarakan sidan g \npendahuluan dengan agenda mendengarkan pokok-pokok perbaikan pe rmohonan \ndan pengesahan alat bukti. Pada sidang dimaksud, Mahkamah mengo nfirmasi \nkepada para Pemohon perihal tidak adanya alat bukti yang dilamp irkan baik dalam \npermohonan awal maupun dalam perbaikan permohonan. Oleh karena para \nPemohon membenarkan perihal tidak dilampirkannya alat bukti dalam permohonan, \nmaka Mahkamah tidak mengesahkan alat bukti dalam persidangan di maksud [vide \nRisalah Sidang Mahkamah Konstitusi tanggal 3 Juni 2026, hlm. 13]. \n[3.4] Menimbang bahwa berdasarkan uraian hal-hal tersebut di atas, \nMahkamah mempertimbangkan sebagai berikut. \n Bahwa berkenaan dengan pengajuan permohonan pengujian undang-\nundang di Mahkamah, dipersyaratkan adanya alat bukti yang mendu kung \npermohonan [vide Pasal 10 ayat (4) PMK 7/2025]. Demikian juga d alam hal \npermohonan diajukan secara daring (online), Pasal 12 ayat (3) PMK 7/2025 \nmenyatakan, “Pengajuan Permohonan secara daring (online) sebagaimana \ndimaksud pada ayat (2) disertai dengan penyampaian berkas alat bukti kepada \nMahkamah sebanyak 1 (satu) eksemplar yang telah dibubuhi meterai sebagaimana \nditentukan dalam peraturan perundang-undangan”. Namun, para Pem ohon saat \nmengajukan permohonan awal tidak disertai dengan alat bukti. Demikian pula pada \nsaat mengajukan perbaikan permohonan, para Pemohon tetap tidak mengajukan \ndaftar alat bukti dan alat bukti yang menjadi bagian dari berkas alat bukti.  \n Berdasarkan uraian fakta hukum tersebut di atas, Mahkamah \nberpendapat oleh karena permohonan para Pemohon tidak disertai dengan alat \nbukti, baik alat bukti yang diajukan bersamaan dengan permohona n awal maupun \nalat bukti yang diajukan pada saat perbaikan permohonan maka ti dak terdapat \nkeraguan bagi Mahkamah untuk menyatakan permohonan para Pemohon  t i d a k  \nmemenuhi syarat formil pengajuan permohonan pengujian undang-undang. \n[3.5] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum d i \natas, meskipun Mahkamah berwenang mengadili permohonan para Pem ohon, \nnamun oleh karena permohonan tidak memenuhi persyaratan formil pengajuan \npermohonan pengujian undang-undang maka Mahkamah tidak mempertimbangkan \nlebih lanjut permohonan para Pemohon. \n\n16 \n \n \n[3.6] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 543,
+      "end_line": 638
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 640,
+      "end_line": 640
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan para Pemohon; \n[4.2] Permohonan para Pemohon tidak memenuhi syarat formil pengajuan \npermohonan; \n[4.3] Permohonan para  Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 642,
+      "end_line": 654
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan para Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,              \nM. Guntur Hamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai \nAnggota, pada hari Kamis, tanggal empat, bulan Juni, tahun dua ribu dua puluh \nenam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka u ntuk \numum pada hari Rabu, tanggal tujuh belas, bulan Juni, tahun dua ribu dua puluh \nenam, selesai diucapkan pukul 14.37 WIB , oleh sembilan Hakim Konstitusi yaitu \n\n17 \n \n \nSuhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Enny Nurb aningsih, \nRidwan Mansyur, Arsul Sani, Daniel Yusmic P. Foekh, M. Guntur H amzah, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu \noleh Yunita Rhamadani sebagai Panitera Pengganti, serta dihadir i oleh para \nPemohon, Dewan Perwakilan Rakyat atau yang mewakili, dan Presid en atau yang \nmewakili. \nKETUA, \nttd. \nSuhartoyo \n \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nEnny Nurbaningsih  \nttd. \nRidwan Mansyur  \nttd. \nArsul Sani \nttd. \nDaniel Yusmic P. Foekh \n ttd. \nM. Guntur Hamzah \nttd. \nAdies Kadir \n ttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nYunita Rhamadani",
+      "start_line": 656,
+      "end_line": 701
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Tina Fitria Ningtyas",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Tri Cahyo Kusumo",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Dinda Suhartati",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Vicky Daksa Tri A.H",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "M. Fahril Syarif",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 22/2009 tentang Lalu Lintas dan Angkutan Jalan"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C ayat (1)",
+      "Pasal 9 ayat (1)",
+      "Pasal 34",
+      "Pasal 34 ayat (3)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24 ayat (2)"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-1",
+      "REFERENSI:164/PUU-XXIV/2026",
+      "REFERENSI:162/PUU/PAN.MK/AP3/05/2026",
+      "REFERENSI:006/PUU-III/2005danPutusanNomor11/PUU-V/2007",
+      "REFERENSI:98/PUU-XX/2022",
+      "REFERENSI:249/PUU-XXIII/2025"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Yunita Rhamadani"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "164/PUU-XXIV/2026",
+      "162/PUU/PAN.MK/AP3/05/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007",
+      "98/PUU-XX/2022",
+      "249/PUU-XXIII/2025"
+    ],
+    "referenced_cases": [
+      "164/PUU-XXIV/2026",
+      "162/PUU/PAN.MK/AP3/05/2026",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007",
+      "98/PUU-XX/2022",
+      "249/PUU-XXIII/2025"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

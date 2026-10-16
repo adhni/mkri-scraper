@@ -1,0 +1,589 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_9139_1690792194.pdf",
+    "file_name": "putusan_mkri_9139_1690792194.pdf",
+    "page_count": 29,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_9139_1690792194.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "64/PUU-XXI/2023",
+    "related_case_numbers": [
+      "61/PUU/PAN.MK/AP3/06/2023"
+    ],
+    "title": "SALINA N",
+    "decision_date": "2023-07-31",
+    "decision_date_raw": "tiga puluh satu, bulan Juli, tahun dua ribu dua puluh tiga",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "SALINA N",
+      "slug": "salina-n",
+      "text": "",
+      "start_line": 2,
+      "end_line": 3
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 64/PUU-XXI/2023",
+      "start_line": 5,
+      "end_line": 5
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam perkara Pengujian Undang -Undang Nomor 31 Tahun \n1999 tentang Pemberantasan Tindak Pidana Korupsi  terhadap Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:  \nNama  :  Dr. H. Marion., S.H., M.H. \nTempat tanggal lahir  :  Jambi, 26 April 1960  \nPekerjaan :  Advokat \nKewarganegaraan  : Indonesia \nAlamat  : Perumahan Pondok Damai Nomor 5A RT.04 \nRW.08 Kelurahan Sukamaju , Kecamatan \nCilodong, Kota Depok, Provinsi Jawa Barat.  \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon;  \n[1.2] Membaca permohonan Pemohon; \n  Mendengar keterangan Pemohon; \n  Memeriksa bukti-bukti Pemohon;",
+      "start_line": 7,
+      "end_line": 22
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal \n12 Juni 2023 yang diterima di Kepaniteraan Mahkamah Konstitusi pada  tanggal 12 \nJuni 2023 berdasarkan Akta Pengajuan Permohonan Pemohon  Nomor 61/PUU/ \nPAN.MK/AP3/06/2023 dan telah dicatat dalam B uku Registrasi Perkara Konstitusi \nElektronik (e-BRPK) pada tanggal 20 Juni 2023 dengan Nomor 64/PUU-XXI/2023, \nyang telah diperbaiki dengan permohonan bertanggal 12 Juli 2023  dan diterima \nMahkamah pada tanggal 12 Juli 2023 dan 17 Juli 2023 , yang pada pokoknya \nmenguraikan hal-hal sebagai berikut: \n\n \n \n \n2 \nI. KEWENANGAN MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "start_line": 24,
+      "end_line": 37
+    },
+    {
+      "heading": "1. Bahwa selanjutnya oleh Pasal 24 ayat (1) Perubahan Ketiga UUD NRI 1945",
+      "slug": "1-bahwa-selanjutnya-oleh-pasal-24-ayat-1-perubahan-ketiga-uud-nri-1945",
+      "text": "menyatakan: \" Mahkamah Konstitusi  berwenang mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk menguji undang -\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945, memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang -Undang Dasar, memutus \npembubaran partai politik dan memutus perselisihan tentang hasil Pemilihan \nUmum\".",
+      "start_line": 39,
+      "end_line": 45
+    },
+    {
+      "heading": "2. Bahwa Pasal 24 ayat (2) Perubahan Ketiga UUD NRI 1945 menyatakan:",
+      "slug": "2-bahwa-pasal-24-ayat-2-perubahan-ketiga-uud-nri-1945-menyatakan",
+      "text": "Kekuasaan Kehakiman dilakukan oleh sebuah Mahkamah Agung dan badan \nperadilan yang berada di bawahnya dalam lingkungan pera dilan umum, \nlingkungan peradilan militer, lingkungan peradilan tata usaha negara dan \noleh sebuah Mahkamah Konstitusi.",
+      "start_line": 47,
+      "end_line": 50
+    },
+    {
+      "heading": "3. Bahwa Ketentuan Pasal 24C ayat (1) UUD NRI 1945 a quo kemudian",
+      "slug": "3-bahwa-ketentuan-pasal-24c-ayat-1-uud-nri-1945-a-quo-kemudian",
+      "text": "Kembali diulang dalam Pasal 10 ayat (1)  UU. RI. No. 24 T ahun 2003 \nsebagaimana telah diubah dengan UU. RI. No. 8 Tahun 2011 Tentang \nPerubahan Atas UU. RI. No. 24 Tahun 2003 Tentang Mahkamah Konstitusi \n(selanjutnya disebut UU.RI.No.8/2011) yang berbunyi: \" Mahkamah \nKonstitusi Berwenang mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji undang-undang (UU) terhadap UUD \nNRI 1945.",
+      "start_line": 52,
+      "end_line": 58
+    },
+    {
+      "heading": "4. Undang-Undang RI.No.12 Tahun 2011 tentang Pembentukan Peraturan",
+      "slug": "4-undang-undang-ri-no-12-tahun-2011-tentang-pembentukan-peraturan",
+      "text": "Perundang-Undangan (Bukti Tambahan P -11) juncto UU.RI.No.13 Tahun \n2022 (Bukti Tambahan P -12) tentang Perubahan Atas UU.RI.No.12 Tahun \n2011 Tentang Pembentukan Peraturan Perundang -Undangan, terutama \nPasal 9 ayat (1) menyatakan; “Dalam hal suatu Undang -Undang diduga \nbertentangan dengan Undang -Undang Dasar Negara Republik Indonesia \nTahun 1945, pengujiannya dilakukan oleh Mahkamah Konstitusi”, di Negara \nIndonesia adalah Negara Hukum”.",
+      "start_line": 60,
+      "end_line": 66
+    },
+    {
+      "heading": "5. Bahwa, atas dasar Ketentuan pada Pasal 24C ayat (1) UUD NRI 1945 dan",
+      "slug": "5-bahwa-atas-dasar-ketentuan-pada-pasal-24c-ayat-1-uud-nri-1945-dan",
+      "text": "Pasal 10 ayat (1) huruf (a)  UU. RI. No. 24 Tahun 2003 dan  UU. RI.No.8 \nTahun 2011 Juncto UU.RI.No.7 Tahun 2020 tentang Perubahan Ketiga Atas \nUU.RI.No.24 Tahun 2003 Tentang Mahkamah Konstitusi , yang mana \n\n \n \n \n3 \nUU.RI.No.7 Tahun 2020 tersebut memperkuat Pasal 10 ayat (1) huruf (a) \nUU.RI.No.24 Tahun 2003 tentang Kewenangan Mahkamah Konstitusi (Bukti \nP- 7), maka, Pemohon mengajukan Permohonan Dalam Perkara Pengujian \nmateriil Pasal 21 UU.RI.No.31 Tahun 1999  tentang Pemberantasan Tindak \nPidana Korupsi Terhadap Pasal 28D ayat (1) juncto Pasal 28I ayat (1) dan \nayat (2) dan ayat (4) dan ayat (5) juncto Pasal 28J ayat (1) dan ayat (2) UUD \nNRI Tahun 1945.",
+      "start_line": 68,
+      "end_line": 82
+    },
+    {
+      "heading": "6. Bahwa, Identitas pribadi saya selaku Pemohon, telah sesuai atau seiring dan",
+      "slug": "6-bahwa-identitas-pribadi-saya-selaku-pemohon-telah-sesuai-atau-seiring-dan",
+      "text": "sejalan dengan Pasal 10 Peraturan Mahkamah Konstitusi Republik \nIndonesia Nomor 2/PMK/2021 tentang Tata Beracara Dalam Perkara \nPengujian Undang -Undang Terhadap Undang -Undang Dasar Negara \nRepublik Indonesia Tahun 1945. (Bukti P-8). \nII. KEDUDUKAN HUKUM ( LEGAL STA NDING) DAN KERUGIAN",
+      "start_line": 84,
+      "end_line": 88
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU. RI. No. 24 Tahun 2003 Tentang Mahkamah",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-ri-no-24-tahun-2003-tentang-mahkamah",
+      "text": "Konstitusi menyatakan: \"Pemohon adalah pihak yang menganggap hak dan/ \natau kewenangan konstitusionalnya dirugikan oleh berlakunya undang -\nundang, yaitu:  \na. Perorangan WNI, \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan  \nsesuai dengan perkembangan masyarakat dan prinsip negara  \nkesatuan Republik Indonesia yang diatur dalam Undang- \nUndang,",
+      "start_line": 91,
+      "end_line": 98
+    },
+    {
+      "heading": "2. Bahwa terhadap syarat kedudukan pemohon juga diatur dalam Pasal 4 ay at",
+      "slug": "2-bahwa-terhadap-syarat-kedudukan-pemohon-juga-diatur-dalam-pasal-4-ay-at",
+      "text": "(1) PMK No. 2/2021, yang menyatakan: Pemohon sebagaimana dimaksud \ndalam Pasal 3 huruf adalah Pihak yang menganggap hak dan/atau \nkewenangan konstitusionalnya dirugikan oleh berlakuknya undang -undang \natau perppu, yaitu: \na. Perorangan warga negara Indonesia a tau kelompok orang yang \nmempunyai kepentingan sama. \n\n \n \n \n4 \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang",
+      "start_line": 102,
+      "end_line": 115
+    },
+    {
+      "heading": "3. Bahwa selanjutnya terhadap kedudukan hukum Pemohon yang menganggap",
+      "slug": "3-bahwa-selanjutnya-terhadap-kedudukan-hukum-pemohon-yang-menganggap",
+      "text": "Hak dan/atau kewenangan Konstitusionalnya dirugikan oleh berlakunya \nundang-undang, menurut Pasal 4 ayat (2) PMK No.2/2021 yang mengacu \npada Putusan MK No. 006/PUU-III/2005 dan No. 011/PUU-V/2007, apabila:  \na. Ada hak dan/atau kewenangan konstitusional Pemohon yang diberikan \noleh UUD 1945. \nb. Hak dan/atau kewenangan konstitusional Pemohon dirugikan oleh \nberlakunya undang-undang atau Perppu yang dimohonkan pengujian;",
+      "start_line": 119,
+      "end_line": 125
+    },
+    {
+      "heading": "c. Kerugian konstitusional dimaksud bersifat spesifik (khusus) dan aktual",
+      "slug": "c-kerugian-konstitusional-dimaksud-bersifat-spesifik-khusus-dan-aktual",
+      "text": "atau setidak -tidaknya potensial yang menurut penalaran yang wajar \ndapat dipastikan akan terjadi;",
+      "start_line": 127,
+      "end_line": 128
+    },
+    {
+      "heading": "d. Ada hubungan sebab -akibat antara kerugian konstitusional dan",
+      "slug": "d-ada-hubungan-sebab-akibat-antara-kerugian-konstitusional-dan",
+      "text": "berlakunya undang-undang atau Perppu yang dimohonkan pengujian; \ndan \ne. Adaya kemungkinan bahwa dengan dikabulkannya Permohonan, \nkerugian konstitusional seperti yang didalilkan tidak lagi atau tidak akan \nterjadi.",
+      "start_line": 130,
+      "end_line": 134
+    },
+    {
+      "heading": "4. Selain itu, menurut Putusan Mahkamah Konstitusi Nomor:006/ PUU -III/2005",
+      "slug": "4-selain-itu-menurut-putusan-mahkamah-konstitusi-nomor-006-puu-iii-2005",
+      "text": "Perkara Nomor 011/PUU-V/2007, Pemohon/Para Pemohon harus memenuhi \nsyarat-syarat sebagai berikut:  \na. Adanya Hak Konstitusional Pemohon/Para Pemohon yang diberikan oleh \nUndang-Undang Dasar  Negara Republik Indonesia Tahun 1945 yang \ndiuji. \nb. Bahwa Hak Konstitusional Pemohon/Para Pemohon tersebut dianggap \noleh Pemohon/Para Pemohon telah dirugikan oleh suatu Undang-Undang \nyang diuji.",
+      "start_line": 136,
+      "end_line": 143
+    },
+    {
+      "heading": "c. Bahwa Kerugian Konstitusional Pemohon/Para Pemohon yang dimaksud",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-para-pemohon-yang-dimaksud",
+      "text": "bersifat Spesifik atau khusus dan aktual atau setidak -tidaknya bersifat \n\n \n \n \n5 \npotensial yang menurut penalaran yang wajar dapat dipastikan akan \nterjadi.",
+      "start_line": 145,
+      "end_line": 152
+    },
+    {
+      "heading": "d. Adanya hubungan Sebab -Akibat antara kerugian dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan untuk diuji. \ne. Adaya kemungkinan bahwa dengan dikabulkannya Permohonan, maka, \nkerugian Konstitusional yang di dalilkan tidak akan atau tidak lagi terjadi.",
+      "start_line": 154,
+      "end_line": 156
+    },
+    {
+      "heading": "5. Bahwa 5 (lima) Syarat sebagaimana te rsebut di atas dijelaskan lagi oleh",
+      "slug": "5-bahwa-5-lima-syarat-sebagaimana-te-rsebut-di-atas-dijelaskan-lagi-oleh",
+      "text": "Mahkamah Konstitusi Republik Indonesia Negara Hukum melalui Putusan \nNomor 27/PUU-VII/2009, tanggal 16 Juni 2010 dalam Pengujian formil Kedua \nUndang-undang Mahkamah Agung, yang menyebutkan: \"Dari Praktik \nMahkamah (2003 -2005), perorangan WNI, terutama P embayar Pajak dan \nberbagai Asosiasi dan NGO/LSM yang concern terhadap suatu Undang -\nUndang demi untuk kepentingan Publik, badan hukum, Pemerintah Daerah, \nLembaga Negara, dan lain-lainnya, oleh Mahkamah dianggap memiliki legal \nstanding untuk mengajukan Permo honan Pengujian, baik formil maupun \nmateril dari Undang -Undang Terhadap Undang -Undang Dasar Negara \nRepublik Indonesia Tahun 1945 sebagai Konstitusi/Hukum Konstitusi \nIndonesia Negara Hukum yang berdasarkan Pancasila sebagai Sumber dari \nsegala sumber hukum a tau sumber tertib hukum bagi Negara Bangsa \nIndonesia Negara Hukum\".",
+      "start_line": 158,
+      "end_line": 170
+    },
+    {
+      "heading": "6. Bahwa Pemohon adalah Perorangan warga negara Indonesia negara hukum",
+      "slug": "6-bahwa-pemohon-adalah-perorangan-warga-negara-indonesia-negara-hukum",
+      "text": "adalah Wajib sebagai Pembayar Pajak sebagaimana dimaksud dalam \nKetentuan Hukum dan Peraturan Perundangan mengenai Kewaji ban \nMembayar Pajak. Oleh karena itu, dengan mendasarkan pada pertimbangan \nhukum dalam Putusan Nomor 27/PUU-VII/2009 tertanggal 16 Juli 2009 a quo \npemohon/para Pemohon telah memenuhi syarat legal standing sebagaimana \ndisebutkan dalam Putusan Mahkamah Konsti tusi (MK) Nomor 27/PUU -\nVII/2009 tersebut telah terpenuhi oleh Pemohon/para Pemohon, \nsebagaimanamestinya.",
+      "start_line": 172,
+      "end_line": 179
+    },
+    {
+      "heading": "7. Bahwa dalam rangka pelaksanaan Kedaulatan Rakyat Indonesia negara",
+      "slug": "7-bahwa-dalam-rangka-pelaksanaan-kedaulatan-rakyat-indonesia-negara",
+      "text": "hukum, maka, tugas utama mewakili Rakyat dan atau Warga Negara \nIndonesia tersebut dis erahkan sepenuhnya kepada Anggota Dewan \nPerwakilan Rakyat (DPR). Setiap Kinerja (Prestasi Kerja) kemudian dianalisa \ndan dievaluasi serta dapat dipertanyakan secara  demokratis oleh Rakyat \n\n \n \n \n6 \nguna mengetahui sampai sejauhmana hasil Kinerja Anggota DPR tersebut \ndalam rangka menilai telah sesuai dengan aspirasi atau kehendak Rakyat \nyang diinginkan. DPR memiliki tiga tugas utama dan salah satu di antaranya \nyakni pembentukan dan pembuatan undang-undang (Legislasi).",
+      "start_line": 181,
+      "end_line": 193
+    },
+    {
+      "heading": "8. Selaku sebuah Lembaga yang menjalankan fungsi Legislasi, tentu saja tugas",
+      "slug": "8-selaku-sebuah-lembaga-yang-menjalankan-fungsi-legislasi-tentu-saja-tugas",
+      "text": "utama DPR untuk menciptakan peraturan perundang -undangan sesuai \ndengan Undang-Undang Republik Indonesia Nomar 12 Tahun 2011 (Bukti \nTambahan P-11) tentang Pembentukan Peraturan Perundangan juncto UU. \nRI. No. 13 Tahun 2022 tentang Perubahan atas UU.RI. No. 12 Tahun 2011 \nTentang Pembentukan Peraturan Pe rundang-undangan terutama Pasal 9 \nayat (1) yang berbunyi: “Dalam hal suatu Undang -Undang diduga \nbertentangan dengan Undang -Undang Dasar Negara Republik Indonesia \nTahun 1945 pengujiannya dilakukan oleh Mahkamah Konstitusi”.",
+      "start_line": 195,
+      "end_line": 202
+    },
+    {
+      "heading": "9. Dalam menjalankan tugas, fungsi dan peranan DPR yang diisi Sumber Daya",
+      "slug": "9-dalam-menjalankan-tugas-fungsi-dan-peranan-dpr-yang-diisi-sumber-daya",
+      "text": "Manusia, maka, kecenderungan untuk melakukan Penyimpangan baik di \nsengaja maupun tidak sengaja tentu saja dapat terjadi, mengingat DPR \nmerupakan lembaga politik yang mana diwarnai oleh berbagai Kepentingan \nyang senantiasa mewujudkan hukum sebagai produk politik. Hal tersebut \nsangat disadari Para Ahli dan atau Pemikir Ketatanegaraan. Dengan \ndemikian, untuk memperbaiki Kekhilafan atau penyimpangan yang terjadi di \nDPR termaksud, maka, dibentuklah sebuah Institusi/Lembaga Hukum yang \nmampu melakukan penilaian terhadap hasil Produk Legislasi DPR yang \nberupa Undang -Undang tersebut. Di Indonesia Negara Hukum ini, \nMahkamah Konstitusi (MK) diberikan tugas oleh UUD NRI 1945 untuk menilai \nhasil Legislasi DPR dalam bentuk Undang -Undang itu berkesesuaian atau \ntidak dengan ide-ide dan norma konstitusional.",
+      "start_line": 204,
+      "end_line": 215
+    },
+    {
+      "heading": "10. Bahwa berdasarkan uraian-uraian yang dikemukakan tersebut di atas, benar",
+      "slug": "10-bahwa-berdasarkan-uraian-uraian-yang-dikemukakan-tersebut-di-atas-benar",
+      "text": "benar telah terjadi kerugian bagi Pemoh on/Para Pemohon  dengan \ndiberlakukannya Pasal 21 UU.RI. No. 31 Tahun 1999 Tentang \nPemberantasan Tindak Pidana Korupsi yang menabrak UU. RI. No. 18 Tahun \n2003 Tentang Advokat terutama Pasal 5 ayat (1) dan ayat (2) juncto Pasal 31 \njuncto Pasal 16, UU Ri No. 1 8 Tahun 2003 tentang Advokat. Sehingga \nKerugian yang dimaksud dengan uraian di atas mengenai Kerugian Warga \n\n \n \n \n7 \nNegara dengan kegagalan terwujudnya Nilai -nilai Konstitusionalisme \nAdvokat Indonesia Negara Hukum.  \nIII. ALASAN-ALASAN PERMOHONAN.",
+      "start_line": 217,
+      "end_line": 230
+    },
+    {
+      "heading": "1. Bahwa saya atas nama Dr. H. MarIon, S.H., M.H., yang dalam hal ini,Selaku",
+      "slug": "1-bahwa-saya-atas-nama-dr-h-marion-s-h-m-h-yang-dalam-hal-ini-selaku",
+      "text": "Pemohon adalah seorang Warga Negara Indonesia yang secara Sah \nmenurut hukum adalah seorang yang Berprofesi Advokat dan Advokat \nmerupakan Profesi terhormat( officium nobile ) dalam Bahasa Latin Hukum \ntersebut serta Advokat berstatus sebagai penegak hukum atau Aparat \nPenegak Hukum(APH) sebagaimana tertulis( Lex Scriptum/Scripta) di dalam \nUU.RI.No.18 Tahun 2003 Tentang Advokat terutama dalam Pasal 5 ayat (1) \nyang menyatakan:\"Advokat berstatus sebagai pene gak hukum, bebas dan \nmandiri yang dijamin oleh hukum dan peraturan perundang-undangan\".  \nDemikian juga Sdr. Dr.Stefanus Roy Rening,  S.H., M.H., tersebut adalah \nseorang Advokat yang Sah menurut Undang -Undang Republik Indonesia \nNomor 18 Tahun 2003 Tentang Ad vokat dan Sah pula sebagai seorang \nPenasihat Hukum  (PH) sebagaim ana dimaksud dalam UU.RI.No.8 Tahun \n1981 tentang Kitab Undang - Undang Hukum Acara Pidana yang disebut \nKUHAP BAB I Ketentuan Umum Pasal 1 Butir atau Angka 13 yang berbunyi: \n\"Penasihat Hukum adalah Seorang yang memenuhi syarat yang  ditentukan \noleh atau berdasar Undang-Undang untuk memberi bantuan hukum”.  \nJadi, Saya atas nama Dr. H. Marion,  S.H., M.H., yang dalam hal ini selaku \nPemohon, \"Memang Belum Kenal Dekat dan bersahabat dengan Sdr. Dr.  \nStefanus Roy Rening,  S.H., M.H., tersebut dan juga Yang Bersangkutan \nTidak Pernah Memberi Kuasa kepada Saya untuk mewakilinya, namun, Saya \natas nama Dr. H. Marion, S.H.,M.H., selaku Pemohon yang mengajukan \nPermohonan Dalam Perkara Pengujian Undang -Undang ini  dan Sdr.  Dr. \nStefanus Roy Rening,  S.H., M.H., tersebut adalah Advokat Yang Sebenar -\nbenarnya tidak lain daripada yang Sebenarnya. Sehingga Saya dan Sdr. Dr.  \nStefanus Roy Rening, S.H., M.H., tersebut tidak dapat dikenakan ketentuan \nPidana dalam UU.RI.No.18 Tahun 2003 Tentang Advokat terutama Pasal 31 \nyang selengkapnya berbunyi: \"Setiap Orang yang dengan sengaja \nmenjalankan pekerjaan profesi Advokat dan bertindak seolah -olah sebagai \nAdvokat, tetapi, bukan Advokat sebagaimana diatur dalam Undang -Undang \nini, dipidana dengan pidana penjara paling lama 5  (lima) tahun dan denda \n\n \n \n \n8 \npaling banyak Rp50.000.000.00 (Lima puluh juta) rupiah”. Pasal 31 ini secara \ntegas dan Jelas ( Lex Certa ) melarang Orang yang \" Bukan Advokat \" \nBerpraktik Seolah-olah Sebagai Profesi Advokat. \nSelain itu, Saya atas nama Dr. H. Marion,  S.H., M.H., yang dalam hal ini \nselaku Pemohon, dan Sdr. Dr. Stefanus Roy Rening,  S.H., M.H., yang kini \nsedang dalam rangka Proses Penyelesaian Perkara Pidana Tingkat Pertama \ndibawah Otoritas APH KPK yang telah menetapkannya selaku tersangka \nPerintangan Penyidikan Dalam Perkara Korupsi Tersangka atau Terdakwa \natas nama Sdr.Lukas Enembe/Gubernur Provinsi Papua -NKRI Non Aktif  \ndengan tuduhan melanggar Pasal 21 UU.RI.No.31 Tahun 1999 tentang \nPemberantasan Tindak Pidana K orupsi tersebut menunjukkan secara nyata \ndan jelas bahwa Penyidik KPK selaku Aparat Penegak Hukum(APH ) \nMelakukan Tindakan Hukum Yang  Tidak Tepat dan Tidak Adil Terhadap \nProfesi Advokat Yang Berstatus Penegak Hukum/Aparat Penegak Hukum \nYang Setara atau Seja jar dengan Penegak Hukum atau Aparat Penegak \nHukum(APH) Lainnya yang diakui dan dihormati sebagai Sesama Petugas \nPenegakan Hukum Yang Setara atau Sejajar Dalam Sistem  Peradilan \nPidana Negara Indonesia adalah Negara Hukum.",
+      "start_line": 232,
+      "end_line": 284
+    },
+    {
+      "heading": "2. Bahwasanya advokat dan KPK sama -sama berstatus sebagai penegak",
+      "slug": "2-bahwasanya-advokat-dan-kpk-sama-sama-berstatus-sebagai-penegak",
+      "text": "hukum atau aparat penegak hukum (APH) yang setara atau sejajar yang \ndiikat oleh perilaku etis dan hukum dalam tugas penegakan hukum dan \npenegakan hak asasi manusia. Namun demikian,dalam rangka implementasi \nTugas Pokok, Fungsi  dan Peranan antara APH KPK dan APH Advokat di \ntinjau dari Tujuan Hukum/Penegakan Hukum, yakni menuju terwujudnya \nKepastian Hukum, Keadilan dan Kemanfaatan, tentunya secara \nPasti/Kepastian Hukum ( lex stricta ) dibedakan oleh Visi dan Misi serta \nStrategi dan Kebijakannya masing-masing Guna tertib dan tegaknya hukum \ndalam rangka mewujudkan perlindungan dan penegakan Hak Asasi Manusia \nTersangka, Terdakwa, dan Terpidana sebagaimana dimaksud dalam UU.RI. \nNo.8 Tahun  1981 tentang Kitab Undang -Undang Hukum Acara Pidana \n(KUHAP) sebagai Hukum Pidana Formil (Lembaran Negara Tahun 1981 No. \n76) dan (Tambahan Lembaran Negara Tahun 1981 No. 3209) di Indonesia \nNegara Hukum Tercinta yang berdasarkan Pancasila dan Undang -Undang \n\n \n \n \n9 \nDasar Negara Republik Indonesia Tahun 1945 dan Negara Kesatuan \nRepublik Indonesia serta Bhineka Tunggal Ika.",
+      "start_line": 286,
+      "end_line": 306
+    },
+    {
+      "heading": "3. Adapun Alasan -alasan Permohonan Dalam Perkara Pengujian Undang -",
+      "slug": "3-adapun-alasan-alasan-permohonan-dalam-perkara-pengujian-undang",
+      "text": "Undang Terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945 dengan uraian yang jelas oleh Pemohon sebagai berikut:  \na. Bahwa Pasal 21 Undang -Undang Republik Indonesia Nomor 31 Tahun \n1999 Tentang Pemberantasan Tindak Pidana Korupsi selengkapnya \nberbunyi: \"Setiap orang yang dengan sengaja mencegah, merintangi, \natau menggagalkan secara langsung atau tidak langsung penyidikan, \npenuntutan dan pemeriksaan di sidang pengadilan terhadap tersangka \ndan terdakwa ataupun para saksi dalam perkara korupsi dipidana dengan \npidana penjara paling singkat 3 (tiga) tahun dan paling  lama 12 (dua belas \ntahun) dan atau denda paling sedikit Rp150.000.000,-(seratus lima puluh \njuta rupiah) dan paling banyak Rp 600.000.000,00 (enam ratus juta \nrupiah). \nKetentuan tersebut di atas tidak konstitusional atas Advokat dan \nbertentangan dengan UUD NRI 1945 terutam a Pasal 28D ayat (1) \nSelengkapnya berbunyi sebagai berikut:  \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang ad il serta perlakuan yang sama di hadapan \nhukum”. Juncto Pasal 28I ayat (1) dan ayat (2) dan ayat (4) dan ayat (5) \njuncto 28J ayat (1) dan ayat (2).  \nKarena ketika Pasal 21 tersebut diterapkan oleh Aparat Penegak \nHukum(APH) Lainnya kepada Advokat sebagai Penegak Hukum juga \ntanpa terlebih dahulu melalui Dewan Kehormatan Advokat,seperti Contoh \nKonkrit Penyidik APH KPK yang telah melakukan Tindakan/Penerapan \nPasal 21 UU.RI.No.31Tahun 1999 tentang Perintangan Penyidikan oleh \nAdvokat Dr. Stefanus Roy Rening,  S.H., M.H., tersebut Dalam Perkara \nKorupsi Tersangka dan atau Terdakwa Lukas Enembe, Gubernur Provinsi \nPapua-NKRI non Aktif, maka, Tindakan APH KPK tersebut merupakan \nTindakan hukum yang bersifat diskriminasi yang mana merupakan \nPelanggaran Hak Asasi Manusia Advokat Dalam Aspek Substansi yakni \nPelanggaran Hak Asasi Manusia dalam keadaan damai. \n\n \n \n \n10 \nb. Bahwa Ketentuan Norma hukum yang dikonstruksi dalam Pasal 21 \nUU.RI.No.31 Tahun 1999 Tentang Pemberantasan Tindak Pidana \nKorupsi,yang kemudian digunakan oleh APH Lainnya seperti APH KPK \nyang menerapkan Pasal 21 termaksud kepada Advokat Resmi pada \numumnya dan khususnya kepada seorang Advokat a.n. Sdr. Dr. Stefanus \nRoy Rening,  S.H., M.H., secara konkrit tersebut menunjukkan dengan \nJelas (Lex Certa ) bahwasanya sadar atau tidak sadar APH KPK yang \nSetara atau Sejajar selaku sesama penegak hukum yang diatur oleh \nUndang-Undang secara hierarkhi menurut UU.RI.No.12 Tahun 2011 \ntentang Pembentukan Peraturan Perundangan juncto UU.RI.No.13 Tahun \n2022 tentang Perubahan Atas UU.RI.No.12 Tahun 2011 tentang \nPembentukan Peraturan Perundang -Undanganan di Negara Indonesia  \nadalah Negara Hukum sebagaimana dimaksud dalam Pasal 1 ayat (3) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 \nMerupakan Pelanggaran Hak Konstitusional Advokat yang diberikan oleh \nUndang-Undang Dasar Negara Republik Indone sia Tahun 1945 sebagai \nHukum Konstitusi Indonesia Negara Hukum yang wajib dihormati oleh \nSetiap Orang termasuk APH KPK dan APH lainnya dalam tertib kehidupan \nBermasyarakat, Berbangsa, dan Bernegara, yang mana bahwa Tindakan \nAPH KPK yang menetapkan Advokat pada umumnya dan khususnya  \nAdvokat Dr. Stefanus Roy Rening, S.H., M.H., sebagai Tersangka \nPerintangan Penyidikan dengan menerapkan Pasal 21 termaksud \nadalah/merupakan Pelanggaran Hak Konstitusional Saya Dr. H. Marion, \nS.H., M.H., atas nama Seluruh Advokat termasuk Advokat Sdr. Dr.  \nStefanus Roy Rening., S.H., M.H., tersebut yang diberikan oleh Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, yang adalah hak \nkonstitusional Saya Dr.  H. Marion, S.H., M.H., (Advokat Resmi) selaku \nPemohon yang saya angga p telah dirugikan oleh penerapan Pasal 21 \nUU.RI.No.31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi \ntermaksud.",
+      "start_line": 308,
+      "end_line": 372
+    },
+    {
+      "heading": "di dalam maupun diluar pengadilan yang memenuhi persyaratan",
+      "slug": "di-dalam-maupun-diluar-pengadilan-yang-memenuhi-persyaratan",
+      "text": "berdasarkan ketentuan Undang-Undang ini (Pasal 1 Butir 1 UU.RI.No.18 \nTahun 2003 tentang Advokat), dan yang dimaksud dengan Jasa Hukum \n\n \n \n \n11 \nadalah jasa yang diberikan advokat berupa memberikan konsultasi \nhukum, bantuan hukum, menjalankan kuasa, mewakili, mendampingi, \nmembela, dan melakukan tindakan hukum lain untuk kepentingan hukum \nklien.(Vide Pasal 1 Butir 2 UU.RI.No.18 Tahun 2003 Tentang Advokat).  \nSedangkan klien adalah orang, badan hukum, atau lembaga lain yang \nmenerima jasa hukum dari advokat  (Vide Pasal 1 Butir 3 UU.RI.No.18 \nTahun 2003 Tentang Advokat). Di  samping itu, apakah yang dimaksud \ndengan organisasi advokat ?. Menurut UU.RI.No.18 Tahun 2003 tentang \nAdvokat Bab I Ketentuan Umum Pasal 1 Butir/Angka 4.Organisasi \nAdvokat (OA) adalah organisasi profesi yang didirikan berdasarkan \nundang-undang ini. Selain itu, advokat atau para advokat diberikan suatu \nhak untuk dapat membela diriny a oleh undang -undang advokat sebagai \nwujud penghargaan atas hak konstitusional seorang advokat yang sah \nsecara yuridis yang disebut dengan\"Hak Pembelaan Diri\". Dalam undang-\nundang ini yang dimaksud dengan hak pembelaan diri adalah hak dan \nkesempatan yang d iberikan kepada advokat untuk mengemukakan \nalasan serta sanggahan terhadap hal-hal yang merugikan dirinya di dalam \nmenjalankan profesinya ataupun kaitannya dengan organisasi profesinya.",
+      "start_line": 375,
+      "end_line": 399
+    },
+    {
+      "heading": "d. Bertalian dengan implementasi Jasa Hukum seorang Advokat tersebut di",
+      "slug": "d-bertalian-dengan-implementasi-jasa-hukum-seorang-advokat-tersebut-di",
+      "text": "atas, maka, menurut Undang -Undang Advokat ini, bahwa Advokat \nmempunyai hak dalam hal Manajemen Keuangan yang berupa suatu \nHonorarium. \"Honorarium itu Apa?. Dalam UU.RI.No.18 Tahun 2003 \ntentang Advokat tersebut, bahwa yang dimaksud dengan honorarium itu \nadalah imbalan atas jasa hukum yang diterima oleh advokat berdasarkan \nkesepakatan dengan klien. Sementara mengenai bantuan hukum adalah \njasa hukum yang diberikan oleh advokat secara cuma-cuma kepada klien \nyang tidak mampu.  (vide Pasal 1 Butir 9 UU.RI.No.18 Tah un 2003 \nTentang Advokat). \nSelanjutnya Asas Hukum mengenai Honorarium tersebut telah pula \ndikuatkan dengan Pasti (Lex Stricta) dan tersurat/tertulis (Lex Scripta/Lex \nScriptum) serta Jelas ( Lex Certa ) dalam Norma hukum Pasal 21 \nUU.RI.No.18 Tahun 2003 tentang Advokat pada :  \n- Ayat (1) Advokat berhak menerima honorarium atas jasa hukum yang \ntelah diberikan kepada kliennya. \n\n \n \n \n12 \n- Ayat (2) Besarnya honorarium atas jasa hukum sebagaimana \ndimaksud pada ayat (1) ditetapkan secara wajar berdasarkan \npersetujuan kedua belah pihak.",
+      "start_line": 401,
+      "end_line": 423
+    },
+    {
+      "heading": "4. Bahwa semua hal yang dikemukakan tersebut di atas m enunjukkan secara",
+      "slug": "4-bahwa-semua-hal-yang-dikemukakan-tersebut-di-atas-m-enunjukkan-secara",
+      "text": "Das solen dan/atau secara law in book, bahwa hal-hal tersebut inheren dalam \nAdvokat sebagai subjek hukum dan atau korporasi yang memiliki legal \nstanding atau status sebagai penegak hukum yang tegas dan jelas (Lex \nCerta) sebagaimana dimaksud dalam UU.RI.No.18 Tahun 2003 tentang \nAdvokat terutama Pasal 5 Ayat: \n(1) Advokat berstatus sebagai penegak hukum, bebas dan mandiri yang \ndijamin oleh hukum dan peraturan perundang-undangan. \n(2) Wilayah Kerja advokat meliputi seluruh wilayah  Negara Republik \nIndonesia. \na. Bahwa bunyi lengkapnya Pasal 5 ayat (1) tersebut di atas menegaskan \nbahwa Advokat Sebagai Aparat Penegak Hukum (APH) yang Sejajar atau \nSetara dengan APH KPK dan APH atau Intansi Penegak Hukum Lainnya",
+      "start_line": 425,
+      "end_line": 436
+    },
+    {
+      "heading": "di negara Indonesia adalah negara hukum tercinta dan terbanggakan ini.",
+      "slug": "di-negara-indonesia-adalah-negara-hukum-tercinta-dan-terbanggakan-ini",
+      "text": "sehingga seyogianya atau seharusnya status advokat sebagai bagian \nkonfrehensif-integral sesama aparat penegak hukum yang setara atau \nsejajar tersebut dihor mati dan dihargai oleh APH Lainnya dengan \nmenghilangkan Orientasi APH Lainnya termasuk APH KPK terhadap \nAdvokat sebagai Penegak Huku m yang juga sebagai potensi subjek \nhukum pidana dengan Selalu mengenyampingkan UU. RI. No.18 Tahun \n2003 tentang Advokat yang  merupakan dasar hukum advokat sebagai \npenegak hukum atau sebagai aparat penegak hukum yang setara atau \nsejajar dengan  APH lainnya dalam sistem peradilan pidana Indonesia \nnegara hukum. \nb. Bahwa keberadaan (eksistensi) Pasal 21 UU.RI.No.31 Tahun 1999 \ntentang Pemberantasan Tindak Pidana Korupsi termaksud secara analisa \nhukum saya sebagai Advokat, yang dalam hal ini selaku Pemohon,  \nmenganalisis bahwa rumusan dalam norma hukum Pasal 21 tersebut \ndengan hak dan kewajiban advokat serta aspek Prosedural Rights dalam \nsistem peradilan pidana serta advokat dan penegakan hukum di Indonesia \nnegara hukum , baik secara implisit maupun eksplisit menunjukkan \n\n \n \n \n13 \nadanya suatu bentuk kesalahan (Schuld) sebagai pelanggaran Hak Asasi \nManusia Dalam UUD NRI Tahun 1945 yakni menimbulkan Kerugian \nKonstitusional Pemohon, sebagaimana diatur dan dijamin oleh Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945 terutama bukan \nhanya yang dimaksud dalam Pasal 28D ayat (1), melainkan juga dalam \nPasal 28I ayat (1) dan ayat (2) dan ayat (4) dan ayat (5) Dan Pasal 28J \nayat (1) dan ayat (2) UUD NRI 1945.",
+      "start_line": 438,
+      "end_line": 466
+    },
+    {
+      "heading": "c. Bahwa Pasal 28I ayat (1) dan ayat (2) dan ayat (4) dan ayat (5) UUD NRI",
+      "slug": "c-bahwa-pasal-28i-ayat-1-dan-ayat-2-dan-ayat-4-dan-ayat-5-uud-nri",
+      "text": "1945 selengkapnya berbunyi sebagai berikut: \n- Ayat (1) Hak untuk hidup, hak untuk tidak disiksa, hak kemerdekaan \npikiran dan hati nurani, hak beragama, hak untuk tidak diperbudak, hak \nuntuk diakui sebagai Pribadi di  hadapan hukum, dan hak untuk tidak \ndituntut atas dasar hukum yang berlaku surut adalah Hak Asasi \nManusia yang tidak dapat dikurangi dalam keadaan apapun. \n- Ayat (2) Set iap orang berhak bebas atas perlakuan yang bersifat \ndiskriminatif atas dasar apapun dan berhak mendapatkan \nPerlindungan terhadap Perlakuan yang bersifat diskriminatif itu. \n- Ayat (4) Perlindungan, Pemajuan, Penegakan, dan Pemenuhan Hak \nAsasi Manusia adalah tanggung-jawab negara terutama Pemerintah. \n- Ayat (5) Untuk menegakkan dan melindungi Hak Asasi   Manusia \nsesuai dengan Prinsip negara hukum yang  demokratis, maka \npelaksanaan Hak Asasi Manusia  dijamin, diatur, dan dituangkan \ndalam Peraturan Perundang-Undangan.",
+      "start_line": 468,
+      "end_line": 482
+    },
+    {
+      "heading": "d. Demikian pula Pasal 28J ayat (1) dan ayat (2) UUD NRI 1945",
+      "slug": "d-demikian-pula-pasal-28j-ayat-1-dan-ayat-2-uud-nri-1945",
+      "text": "selengkapnya berbunyi: \n- Ayat (1) Setiap orang wajib menghormati hak asasi manusia orang lain \ndalam tertib kehidupan bermasyarakat, berbangsa, dan bernegara. \n- Ayat (2) dalam menjalankan hak dan kebe basannya, setiap orang \nwajib tunduk kepada pembatasan yang ditetapkan dengan undang -\nundang dengan maksud semata -mata untuk menjamin pengakuan \nserta penghormatan atas hak kebebasan orang lain dan untuk \nmemenuhi tuntutan yang adil sesuai dengan pertimbangan moral,  \nnilai-nilai agama, keamanan dan ketertiban umum dalam suatu \nmasyarakat demokratis. \n\n \n \n \n14 \ne. Bahwasanya saya atas nama Dr.  H.Marion, S.H., M.H., adalah Advokat \nResmi yang dalam hal ini, selaku Pemohon, Perlu menegaskan bahwa \neksistensi Pasal 21 Dalam UU.RI.No.31 Tahun 1999 tentang \nPemberantasan Tindak Pidana Korupsi benar -benar berpotensi sebagai \nancaman dan dapat merugikan hak konstitusional Pemohon dan semua \norang selaku advokat resmi secara spesifik atau khusus yaitu advokat \nberstatus sebagai penegak hukum, bebas dan mandiri yang dijamin \nsecara konstitusional oleh norma hukum fundamental baik oleh Pasal 28D \nayat (1) UUD NRI Tahun 1945 maupun oleh Pasal 28I ayat (1) dan ayat \n(2) dan ayat (4) dan ayat (5) serta oleh Pasal 28J ayat (1) dan ayat (2) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 sebagai \nkonstitusi atau hukum konstitusi negara indonesia adalah negara hukum \nsebagaimana dimaksud Pasal 1 ayat (3) UUD NRI Tahun 1945 yang \nlengkapnya berbunyi: \"Negara Indonesia adalah Negara Hukum\". \nSehingga anasir-anasir yang termuat atau terkandung dalam Pasal 21 UU \nRI.No.31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi \ndapat Pemohon kategorikan sebagai salah satu bentuk pelanggaran hak \nasasi manusia Pemohon sebagai advokat berstatus sebagai penegak \nhukum yang berpotensi dijadikan sebagai tersangka  dikemudian hari atau",
+      "start_line": 484,
+      "end_line": 517
+    },
+    {
+      "heading": "di masa -masa yang akan datang oleh aparat penegak hukum lainnya",
+      "slug": "di-masa-masa-yang-akan-datang-oleh-aparat-penegak-hukum-lainnya",
+      "text": "dengan perspektif advokat itu identik dengan subjek hukum pid ana \nsemata-mata  dengan mengabaikan advokat juga berstatus penegak \nhukum yang setara atau sejajar dalam tugas penegakan  hukum dengan \npetugas atau Aparat Penegak Hukum (APH) lainnya di Negara Indonesia \nadalah negara hukum sebagaimana perli ndungan hak asasi  manusia \npada umumnya dan khususnya penegakan hak  asasi manusia advokat \ndalam UUD NRI Tahun 1945. \nf. Di samping itu pula bahwasanya menurut analisa hukum Pemohon, \npenerapan Pasal 21 UU RI.No.31 Tahun 1999 tentang Pemberantasan \nTindak Pidana Korupsi terhadap Advokat Sdr. Dr. Stefanus Roy Rening, \nS.H., M.H., berstatus sebagai Penegak Hukum sebagai Profesi Terhormat \n(officium nobile) tersebut oleh Penyidik APH kpk merupakan  tindakan \natau Perbuatan Melawan Hukum  (PMH) APH KPK terhadap Pasal 31 \nUU.RI.No.18 Tahun 2003 tentang Advokat yang selengkapnya berbunyi \n\n \n \n \n15 \nsebagai berikut: “ Setiap orang yang dengan sengaja menjalankan \npekerjaan profesi advokat dan bertindak seolah -olah sebagai advokat, \ntetapi bukan advokat sebagaimana diatur dalam Undang -Undang ini, \ndipidana de ngan pidana penjara paling lama 5(lima) ta hun dan denda \npaling banyak Rp 50.000.000,00 (lima puluh juta) rupiah ”, yang mana \nundang-undang ini bersifat Lex Specialis Derogat Legi General y, \nmengingat bahwa Sdr.  Dr. Stefanus Roy Rening,  S.H., M.H., tersebut \ntidak termasuk atau tergolong, \"Yang Bukan Advokat\" yang dimaksud oleh \nundang-undang advokat Indonesia yang berlaku hingga pada masa \nsekarang ini dan seterusnya , sepanjang belum dicabut sebagaimana-\nmestinya. \ng. Dengan demikian, saya atas nama Dr. H. Marion,  S.H., M.H., adalah \nadvokat resmi selaku Pemohon, dengan tegas berpendapat bahwa \npenerapan Pasal 21 UU.RI.No.31 Tahun 1999 tentang Pemberantasan \nTindak Pidana Korupsi terhadap advokat berstatus sebagai penegak \nhukum yang setara dengan aparat penegak hukum la innya di indonesia \nnegara hukum adalah sangat tidak tepat dan juga tidak baik dan tidak \nbenar\" serta tindakan APH KPK tersebut secara tegas dan jelas \nmerupakan pelanggaran hak asasi manusia dalam keadaan damai \nterhadap harkat dan martabat dan derajat advok at sebagaimana Teori \nHak Asasi Manusia  (HAM) dalam proses peradilan \" (Prof. Dr. \nAbdussalam, SIK., S.H., M.H.). \nSehingga eksistensi dan penerapan Pasal 21 UU.RI.No.31 Tahun 1999 \ntentang Pemberantasan Tindak Pidana Korupsi  tersebut sudah sangat \nbertentangan dan atau tak seiring dan sejalan dengan hak konstitusional \nPemohon yang dijamin dalam Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, bukan hanya oleh Pasal 28D ayat (1), melainkan \njuga yang dijamin dan dilindungi oleh Pasal 28I ayat (1) dan ayat (2) dan \nayat (4) dan ayat (5) juncto Pasal 28J ayat (1) dan ayat (2) dari UUD NRI \n1945 tersebut sebagai hukum konstitusi indonesia negara hukum  tercinta. \nh. Berkaitan denga n Pelanggaran Hak Asasi Manusia  \"Advokat\" melalui \npenerapan dan eksistensi Pasal 21 UU.RI.No.31 Tahun 1999 tentang \nPemberantasan Tindak Pidana Korupsi yang ditegakkan atau diterapkan \noleh Penyidik APH KPK yang menetapkan dengan enteng atau gampang \n\n \n \n \n16 \nterhadap advokat atau PH Sdr.  Dr. Stefanus Roy Rening, S.H., M.H., \ntersebut sebagai tersangka \"Perintangan Penyidikan\" dalam perkara \nkorupsi dari klien resminya atas nama Sdr. Lukas Enembe (LE) tersebut \nadalah juga berlawanan atau bertentangan dengan pengertian atau \ndefinisi hak asasi manusia menurut ketentuan hukum indonesia negara \nhukum tentang hak asasi manusia sebagaimana yan g dimaksud dalam \nUU.RI.No.39 Tahun 1999 tentang Hak Asasi Manusia juncto UU.RI.No.26 \nTahun 2000 tentang Pengadilan Hak Asasi Mabusia juncto UU.RI.No.2 \nTahun 2002 tentang Kepolisian Negara Republik Indonesia juncto \nDeklarasi Universal Hak Asasi Manusia Sedunia, 1948 ( The Universal \nDeclaration of Human Rights , 1948 yang berisi 30 Pasal sebagai Norma \nHukum Universal Bagi Hak–Hak Manusia Untuk Hukum).",
+      "start_line": 519,
+      "end_line": 588
+    },
+    {
+      "heading": "i. Sehubungan dengan adanya pelanggaran hak asasi manusia advokat",
+      "slug": "i-sehubungan-dengan-adanya-pelanggaran-hak-asasi-manusia-advokat",
+      "text": "Pemohon dapat membuktikannya dengan Bukti Awal yang Memadai yang \ntelah dimiliki oleh Pemohon sebagai Pelanggaran Hak Asasi Manusia \n\"Advokat\". Apa Saja Buk ti Awal yang Memadai tersebut?. Bahwa Bukti \nAwal dimaksud adalah sebagai berikut:",
+      "start_line": 590,
+      "end_line": 593
+    },
+    {
+      "heading": "1. Adanya penerapan Pasal 21 UU.RI.No. 31 Tahun 1999 tentang",
+      "slug": "1-adanya-penerapan-pasal-21-uu-ri-no-31-tahun-1999-tentang",
+      "text": "Pemberantasan Tindak Pidana Korupsi T erhadap advokat sebagai \n\"subjek hukum pidana semata -mata\". Padahal advokat itu berstatus \nsebagai penegak hukum yang setara dengan aparat penegak hukum \nlainnya termasu k APH KPK yang setara dalam tug as menegakkan \nhukum atau dalam penegakan hukum di Indonesia Negara Hukum.",
+      "start_line": 595,
+      "end_line": 599
+    },
+    {
+      "heading": "2. Adanya tindakan APH KPK menetapkan penegak hukum advokat dan",
+      "slug": "2-adanya-tindakan-aph-kpk-menetapkan-penegak-hukum-advokat-dan",
+      "text": "Advokat atau PH Sdr. Dr. Stefanus Roy Rening, S.H., M.H., tersebut \nmenjadi Bukti petunjuk sebagai penyimpangan APH KPK terhadap \nbatasan definisi hak asasi manusia dan batasan definisi tentang \napakah yang dimaksud dengan hak asasi manusia menurut \nUU.RI.No.39 Tahun 1999 tentang Hak Asasi Manusia Indonesia \nNegara Hukum dan menurut UU.RI.No.2 Tahun 2002 tentang \nKepolisian Negara Republik Indonesia?. \nDalam Undang -Undang Republik Indonesia Nomor 39 Tahun 1999 \ntersebut memberikan definisi hak asasi manusia adalah seperangkat \nhak yang melekat pada hakikat dan keberadaan manusia sebagai \n\n \n \n \n17 \nmakhluk Tuhan Yang Maha Esa dan merupakan anugerahNya yang \nwajib dihormati, dijunjung tinggi dan dilindungi oleh Negara, Hukum, \nPemerintah dan Setiap Orang Demi Kehormatan serta Perlindungan \nHarkat dan Martabat Manusia. \nDemikian pula di dalam UU.RI.No.2 Tahun 2002 tentang Kepolisian \nNegara Republik Indonesia terutama penjelasan Pasal 4 dari Undang-\nUndang Kepolisian tersebut menjelaskan secara tegas bahwa yang \ndimaksud dengan Hak Asasi Manusia adalah hak dasar yang secara \nalamiah melekat pada setiap manusia dalam kehidupan masyarakat, \nmeliputi bukan  saja hak perseorangan melainkan juga Hak \nMasyarakat, Bangsa dan Negara yang secara utuh terdapat dalam \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 serta \nsesuai pula dengan Prinsip -Prinsip yang terkandung Dalam The \nUniversal Declaration of Hum an Rights , 1948 dan konvensi \ninternasional lainnya. \nj. Selanjutnya timbul pertanyaan demikian:  \"Apakah Semua Pelanggaran \nHak Asasi Manusia Merupakan Pelanggaran Hukum?. Untuk itu, Perlunya \nsuatu pengertian dan pemahaman mengenai Apakah yang dimaksud \ndengan Pelanggaran Hak Asasi Manusia (Pelanggaran HAM)?. Menurut \nUU.RI.No.39 Tahun 1999 tentang Hak Asasi  Manusia Indonesia Negara \nHukum dalam Bab I Ketentuan  Umum Pasal 1 Butir/Angka 6 menyatakan, \nbahwa pelanggaran hak asasi manusia adalah setiap perbuatan  \nseseorang atau kelompok orang termasuk aparat negara , baik disengaja \nmaupun tidak  disengaja atau Kelalaian yang secara melawan hukum \nmengurangi, menghalangi, membatasi, dan atau mencabut hak asasi \nmanusia  seseorang atau kelompok orang yang dijamin oleh undang- \nundang ini, dan tidak mendap atkan, atau dikhawatirkan tidak  akan \nmemperoleh p enyelesaian hukum yang adil dan  benar, berdasarkan \nmekanisme hukum yang berlaku. \nk. Bahwasanya dengan berupaya memaknai definisi Hak Asasi Manusia  \n(HAM) dan pengertian pelanggaran h ak asasi manusia (Pelanggaran \nHAM) tersebut di atas dikaitkan dengan status advokat pada umumnya \ndan khususnya Advokat atau PH Dr. Stefanus Roy Rening, S.H., M.H., \nsebagai Tersangka Melanggar Pasal 21 UU.RI.No.31 Tahun 1999 \n\n \n \n \n18 \nTentang Pemberantasan Tindak Pid ana Korupsi dengan Jelas \nmenunjukkan bahwa pelanggaran hak asasi manusia (Pelanggaran HAM) \nitu di lakukan oleh aparat negara , yang dalam hal ini,  oleh APH KPK \nterhadap APH Advokat sebagai sesama penegak hukum yang sejajar \natau setara menurut undang -undang/peraturan perundang -undangan \nrepublik indonesia yang seyogianya dan atau seharusnya patuh untuk di \ntaati oleh semua aparat penegak hukum di Negara Indonesia adalah \nnegara hukum menuju perkembangan konsep negara hukum pancasila.  \nNamun demikian, bahwa pelanggaran hak asasi manusia (Pelanggaran \nHAM) yang terjadi terhadap Pemohon sebagai Advokat dan Advokat atau \nPH Sdr. Dr. Stefanus Roy Rening,  S.H., M.H., tersebut, yang dilakukan \noleh APH KPK dapat dipastikan merupakan pelanggaran hak asasi \nmanusia dalam keadaan damai pada Hak Asasi Manusia (HAM) dalam \nproses peradilan. \nDengan adanya pelanggaran hak asasi manusia dalam keadaan damai \nterhadap advokat tersebut tentunya merupakan pula pelanggaran hukum \natas hak konstitusional Pemohon yang Pemohon anggap telah dirugikan \noleh eksistensi dan penerapan Pasal 21 UU.RI. No.31 Tahun 1999 \ntentang Pemberantasan Tindak Pidana Korupsi terhadap Advokat atau \nPH Sdr. Dr. Stefanus Roy Rening, S.H., M.H., tersebut, akan tetapi Pasal \n21 dalam Undang-Undang Pemberantasan Tinda k Pidana Korupsi \ntersebut bersifat Potensial yang menurut penalaran yang wajar dapat \ndipastikan akan terjadi juga suatu saat atas Pemohon dan merugikan hak \nkonstitusional Pemohon, ya ng telah diberikan oleh Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 601,
+      "end_line": 679
+    },
+    {
+      "heading": "l. Bahwa atas dasar hukum baru serta hal-hal yang telah Pemohon uraikan",
+      "slug": "l-bahwa-atas-dasar-hukum-baru-serta-hal-hal-yang-telah-pemohon-uraikan",
+      "text": "secara tegas dan Jelas tersebut di atas, maka, Eksistensi Pasal 21 UU.RI. \nNomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi \nyang ditegakkan atau diterapkan oleh APH KPK adalah sengaja \nmenabrak asas berlakunya suatu undang yang mendasari undang -\nundang advokat yang menegaskan secara pasti  (Lex Stricta) dan Jelas \n(Lex Certa ) dan tersurat atau tertulis (Lex Scripta  atau Lex Scriptum ) \nbahwa Advokat berstatus sebagai Penegak Hukum (APH) yang setara \natau sejajar d engan APH Lainnya,malahan profesi advokat tetap saja di \n\n \n \n \n19 \nposisikan Sebagai \"Subj ek Hukum Pidana\" oleh APH lainnya dalam \npraktik penegakan hukum di lapangan secara dunia nyata (Das sein) dan \natau hukum dalam tindak an (Law In Action ), di mana yang seharusnya \ntidak boleh terjadi demikian terhadap advokat  sebagai APH yang setara \natau sejajar dengan APH KPK tersebut.",
+      "start_line": 681,
+      "end_line": 698
+    },
+    {
+      "heading": "m. Bahwa selanjutnya menurut analisa hukum Advokat a.n. Dr. H. Marion,",
+      "slug": "m-bahwa-selanjutnya-menurut-analisa-hukum-advokat-a-n-dr-h-marion",
+      "text": "S.H., M.H., yang dalam hal ini selaku Pemohon, berpendapat bahwa \neksistensi Pasal 21 tersebut sama sekali tidak mengatur hal -hal yang \nspesifik atau khusus mengenai advokat sebagai objek perintangan \npenyidikan dalam hal perkara korupsi , sebab advokat itu adalah profesi \nterhormat (officium nobile ) dan mempunyai kedudukan hukum (Legal \nStanding) atau advokat berstatus sebagai penegak hukum , bebas dan \nMandiri yang dijamin oleh hukum dan peraturan perundang -undangan \ndan dijamin serta mendapatkan perlindungan hak asasi manusia Dalam \nUndang-Undang Dasar Negara Republik Indonesia yang adalah \nKonstitusi Indonesia Negara Hukum, sehingga penerapan Pasal 21 \nDalam Undang-Undang Republik Indonesia (UU.RI) No.31 Tahun 1999 \ntentang Pemberantasan Tindak Pidana Korupsi tersebut harus dinyatakan \nsecara tegas  sebagai pasal dalam Undang-Undang Pemberantasan \nTindak Pidana Korupsi yang tidak berlaku secara Khusus kepada advokat \nyang telah memenuhi syarat sah menurut UU.RI.No.18 Tahun 2003 \ntentang Advokat Indonesia Negara Hukum. \nSebab menurut norma hukum atau ketentuan pidana dalam Undang-\nUndang Advokat Indonesia Negara Hukum, bahwa advokat yang dapat di \npidana Penjara selama 5 (lima) tahun itu adalah \"yang bukan advokat \", \nsebagaimana dimaksud dalam Pasal 31 UU.RI.No.18 Tahun 2003 \ntentang Advokat yang berlaku p ada masa sekarang ini di Negara \nIndonesia adalah Negara Hukum. \nSedangkan Sdr. Dr. Stefanus Roy Rening, S.H.,  M.H., yang \nditersangkakan perintangan penyidikan tersebut adalah Advokat yang sah \nmenurut hukum sama seperti Pemohon juga yang adalah Advokat Resmi \nmenurut Undang -Undang RI. No. 8 Tahun 2003 tentang Advokat \ntermaksud. \n\n \n \n \n20 \nn. Bahwa atas dasar analisis  hukum Pemohon tersebut di atas, semua \norang atau  Pihak lain dapat membayangkan secara Rasional dengan \nmembandingkan demikian:\"Advokat Resmi saja bisa di tetapkan sebagai \ntersangka berarti bahwa walaupun advokat sah atau resmi tetap \ndipandang oleh APH KPK selama ini sebagai \"yang bukan advokat\" yang",
+      "start_line": 700,
+      "end_line": 736
+    },
+    {
+      "heading": "di identikan sebagai subjek hukum pidana semata-mata dengan",
+      "slug": "di-identikan-sebagai-subjek-hukum-pidana-semata-mata-dengan",
+      "text": "senantiasa mengabaikan kedudukan hukum (Legal Sta nding) dan/ atau \nAdvokat sebagai status penegak hukum yang setara atau sejajar dengan \naparat penegak hukum lainnya dan itulah hukum dalam tindakan (Law in \naction) yang tidak seiring dan sejalan dengan hukum dalam dunia cita-cita \natau hukum dalam dunia norma (Law In Book) sebagaimana suatu kasus \nkonkrit yang kini dialami oleh Advokat atau Penasihat Hukum Dr. Stefanus \nRoy Rening, S.H., M.H., termaksudkan. \nDengan demikian, bahwa tindakan hukum APH KPK yang  telah dialami \noleh Advokat Dr. Stefanus Roy Rening, S.H., M.H., tersebut secara tegas \ndan nyata  merupakan tindakan  atau perbuatan APH KPK yang amat \nsangat merugikan hak  konstitusional Pemohon yang diber ikan oleh \nkonstitusi atau Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945. \no. Bahwa oleh karena itu,Menurut Pemohon, Eksistensi dan Penerapan \nPasal 21 UU.RI.No.31 Tahun 1999 tentang Pemberantasan Tindak \nPidana Korupsi tersebut menabrak status advokat sebagai penegak \nhukum sebagaimana dimaksud dalam Pasal 5 ayat (1) dan ayat (2) juncto \nPasal 31 juncto Pasal 16 UU.RI.No.18 Tahun 2003 tentang Advokat, \nsehingga Jelas (Lex Certa) merugikan Hak Konstitusional Pemohon yang \ndiberikan oleh Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945 terutama sangat bertentangan dengan bukan hanya Pasal 28D ayat \n(1) melainkan juga bertentangan dengan Pasal 28I ayat (1) dan ayat (2) \ndan ayat (4) dan ayat (5) juncto Pasal 28J ayat (1) dan ayat (2) UUD NRI \nTahun 1945.  \nJadi, sekali lagi Pemohon tegaskan bahwasanya  penerapan atau \nimplementasi Pasal 21 Dalam UU.RI. No. 3 1Tahun 1999 tentang \nPemberantasan Tindak Pidana Korupsi terkait dengan penetapan advokat \nIndonesia yang juga merupakan salah satu sistem penegakan hukum \n\n \n \n \n21 \nIndonesia negara hukum tentunya sangat merugikan kedudukan hukum \n(legal standing) dan atau status advokat sebagai aparat Penegak Hukum \n(APH) yang sejajar atau setara dengan APH KPK dan atau aparat \npenegak hukum lainnya, sebagaimana dimaksud dalam UU.RI.No.18 \nTahun 2003 tentang Advokat terutama Pasal 5 ayat (1) dan ayat (2) yang \nSelengkapnya berbunyi sebagai berikut: \n- Ayat (1) Advokat berstatus sebagai penegak hukum, bebas dan \nmandiri yang dijamin oleh hukum dan peraturan perundang-undangan.  \n- Ayat (2) Wilayah kerja Advoka t meliputi seluruh wilayah Republik \nIndonesia. \nDengan demikian, maka, penerapan atau implementasi Pasal 21 UU.Ri. \nNo. 31 Tahun 1999 yang menetapkan Advokat dalam hal perintangan \npenyidikan perkara korupsi sangat merugikan hak konstitusional Advokat \nResmi Dr.  Stefanus Roy Rening,  S.H., M.H., tersebut termasuk pula \nmerugikan hak konstitusion al advokat resmi atas nama Dr.  H. Marion,  \nS.H., M.H., sebagai Pemohon. \nSehingga secara jelas ( Lex Certa ) dan secara pasti ( Lex Stricta ) serta \nsecara tertulis (Lex Scripta/Lex Strictum) bertentangan dengan Pasal 28D \nAyat (1) juncto Pasal 28I ayat (1) dan ayat (2) dan ayat (4) dan ayat (5) \njuncto Pasal 28J ayat (1) dan ayat (2) Undang -Undang Dasar Negara \nRepublik Indonesia Tahun 1945.",
+      "start_line": 738,
+      "end_line": 791
+    },
+    {
+      "heading": "5. PETITUM.",
+      "slug": "5-petitum",
+      "text": "Berdasarkan pada alasan-alasan permohonan yang telah diuraikan dengan jelas \ntersebut di atas serta bukti-bukti terlampir, maka Pemohon memohonkan kepada \nMajelis Hakim Yang Mulia Mahkamah Konstitusi Republik Indonesia untuk \nmengadili, memeriksa dan memutus dengan amar sebagai berikut :",
+      "start_line": 793,
+      "end_line": 796
+    },
+    {
+      "heading": "1. Menerima dan Mengabulkan Seluruh Permohonan Dalam Perkara Pengujian",
+      "slug": "1-menerima-dan-mengabulkan-seluruh-permohonan-dalam-perkara-pengujian",
+      "text": "Undang-Undang Yang Diajukan Pemohon.",
+      "start_line": 798,
+      "end_line": 798
+    },
+    {
+      "heading": "2. Menyatakan Pasal 21 UU.RI.No.31 Tahun 1999 tentang Pemberantasan",
+      "slug": "2-menyatakan-pasal-21-uu-ri-no-31-tahun-1999-tentang-pemberantasan",
+      "text": "Tindak Pidana Korupsi tersebut Menabrak Pasal 5 ayat (1) dan ayat (2) juncto \nPasal 31 juncto Pasal 16 UU. RI. No. 18 Tahun 2003 tentang Advokat \nIndonesia Negara Hukum, bertentangan bukan hanya dengan Pasal 28D \nayat (1) melainkan juga bertentangan dengan Pasal 28I ayat (1) dan ayat (2) \n\n \n \n \n22 \ndan ayat (4) dan ayat (5) juncto Pasal 28J ayat (1) dan ayat (2) Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 800,
+      "end_line": 810
+    },
+    {
+      "heading": "3. Menyatakan Pasal 21 UU.RI.No.31 Tahun 1999 tentang Pemberantasan",
+      "slug": "3-menyatakan-pasal-21-uu-ri-no-31-tahun-1999-tentang-pemberantasan",
+      "text": "Tindak Pidana Korupsi tidak memiliki kekuatan hukum yang mengikat khusus \nterhadap advokat sebagai status penegak hukum yang setara atau sejajar \ndengan aparat penegak hukum lainnya di Indonesia Negara Hukum.",
+      "start_line": 812,
+      "end_line": 814
+    },
+    {
+      "heading": "4. Menyatakan Advokat Sebagai profesi terhormat (officium nobile) yang dalam",
+      "slug": "4-menyatakan-advokat-sebagai-profesi-terhormat-officium-nobile-yang-dalam",
+      "text": "menjalankan profesinya berada dibawah perlindungan hukum dan hak asasi \nmanusia, undang -undang dan kode etik, memiliki kebebasan yang \ndidasarkan kepada kehormat an dan kepribadian advokat yang berpegang \nteguh kepada kemandirian, kejujuran, kerahasiaan dan keterbukaan.",
+      "start_line": 816,
+      "end_line": 819
+    },
+    {
+      "heading": "5. Menyatakan profesi advokat adalah selaku penegak hukum yang sejajar",
+      "slug": "5-menyatakan-profesi-advokat-adalah-selaku-penegak-hukum-yang-sejajar",
+      "text": "dengan aparat penegak hukum lainnya harus saling menghargai antara \nsesama penegak hukum lainnya.",
+      "start_line": 821,
+      "end_line": 822
+    },
+    {
+      "heading": "6. Menyatakan advokat tidak boleh ditetapkan secara langsung oleh APH KPK",
+      "slug": "6-menyatakan-advokat-tidak-boleh-ditetapkan-secara-langsung-oleh-aph-kpk",
+      "text": "atau penegak hukum lainnya yang sejajar atau setara sebagai tersangka \nsubyek pidana sebelum terlebih dahulu ( Lex Pra evia ) dikenakan tindakan \noleh keputusan dewan kehor matan profesi advokat sebagaima mestinya \nketentuan Undang -Undang Republik Indonesia Nomor 18 Tahun 2003 \ntentang Advokat Indonesia Negara Hukum.",
+      "start_line": 824,
+      "end_line": 828
+    },
+    {
+      "heading": "7. Memerintahkan Pemuatan Putusan ini dalam Berita Negara dalam jangka",
+      "slug": "7-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-dalam-jangka",
+      "text": "waktu selambat-lambatnya Tiga Puluh hari Kerja Sejak Putusan Diucapkan. \nApabila Majelis Hakim Yang Mulia Mahkamah Konstitusi Republik Indonesia \nBerpendapat atau Berpandangan Lain, Mohon putusan Yang Seadil -adilnya ( ex \naequo et bono). \n[2.2]  Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti surat/tulisan yang diberi tanda Bukti P-1 sampai dengan bukti \nP-12, sebagai berikut:",
+      "start_line": 830,
+      "end_line": 836
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Kartu Tanda Pengenal Advokat (KTPA) , atas",
+      "slug": "2-bukti-p-2-fotokopi-kartu-tanda-pengenal-advokat-ktpa-atas",
+      "text": "nama H. Marion, S.H., M.H.;",
+      "start_line": 839,
+      "end_line": 839
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) atas nama Dr. H.",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-dr-h",
+      "text": "Marion, S.H., M.H.; \n\n \n \n \n23",
+      "start_line": 841,
+      "end_line": 846
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Undang -Undang Republik Indonesia Nomor 31",
+      "slug": "4-bukti-p-4-fotokopi-undang-undang-republik-indonesia-nomor-31",
+      "text": "Tahun 1999 tentang Pemberatasan Tindak Pidana Korupsi \nPasal 21.",
+      "start_line": 848,
+      "end_line": 849
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Undang -Undang Republik Indonesia Nomor 18",
+      "slug": "5-bukti-p-5-fotokopi-undang-undang-republik-indonesia-nomor-18",
+      "text": "Tahun 2003 tentang Advokat;",
+      "start_line": 851,
+      "end_line": 851
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Undang-Undang Dasar Negara Republik",
+      "slug": "6-bukti-p-6-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945, Pasal 28D ayat (1);",
+      "start_line": 853,
+      "end_line": 853
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Undang -Undang Republik Indonesia Nomor 7",
+      "slug": "7-bukti-p-7-fotokopi-undang-undang-republik-indonesia-nomor-7",
+      "text": "Tahun 2020 tentang Perubahan Ketiga Atas Undang \nUndang Republik Indonesia 24 Tahun 2003 tentang \nMahkamah Konstitusi;",
+      "start_line": 855,
+      "end_line": 857
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Peraturan Mahkamah Konstitusi Nomor 2 Tahun",
+      "slug": "8-bukti-p-8-fotokopi-peraturan-mahkamah-konstitusi-nomor-2-tahun",
+      "text": "2021 tentang Tata Beracara Dalam Perkara Pen gujian \nUndang-Undang;",
+      "start_line": 859,
+      "end_line": 860
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Perubahan Kedua Undang-Undang Dasar Negara",
+      "slug": "9-bukti-p-9-fotokopi-perubahan-kedua-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945, Pasal 28I;",
+      "start_line": 862,
+      "end_line": 862
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Undang-Undang Dasar Negara Republik",
+      "slug": "10-bukti-p-10-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945, Pasal 28J;",
+      "start_line": 864,
+      "end_line": 864
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Undang-Undang Nomor 12 Tahun 2011 tentang",
+      "slug": "11-bukti-p-11-fotokopi-undang-undang-nomor-12-tahun-2011-tentang",
+      "text": "Pembentukan Peraturan Perundang-undangan;",
+      "start_line": 866,
+      "end_line": 866
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Pasal 9 ayat (1) Undang -Undang Nomor 13",
+      "slug": "12-bukti-p-12-fotokopi-pasal-9-ayat-1-undang-undang-nomor-13",
+      "text": "Tahun 2022 tentang Perubahan Kedua Atas Undang -\nUndang Nomor 12 Tahun 2011 tentang Pembentukan \nPerundang-undangan. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahkan dengan \nputusan ini.",
+      "start_line": 868,
+      "end_line": 874
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD 1945), \nPasal 10 ayat (1) huruf a Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhi r dengan Undang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang -Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor \n\n \n \n \n24 \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang -Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk menguji undang -undang \nterhadap UUD 1945.  \n[3.2] Menimbang bahwa meskipun pada perihal permohonan a quo tertulis,  \n“Permohonan Dalam Perkara Pengujian Undang -Undang secara Materiil Pasal 21 \nUU.RI.No.31 Tahun 1999 Tentang Pemberantasan Tindak Pidana Korupsi Yang \nMenabrak Pasal 5 ayat (1) dan ayat (2) Jo Pasal 31 Jo Pasal 16 UU.RI.No.18 Tahun \n2003 Tentang Advokat Bertentangan Dengan Pasal 28D ayat  (1) Jo Pasal 28I ayat \n(1) dan ayat (2) dan ayat (4) dan ayat (5) Jo Pasal 28J ayat (1) dan ayat (2) Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 ”, tidak sebagaimana \nlazimnya penulisan sebuah perihal dalam permohonan pengujian undang -undang \nkarena seolah-olah mempertentangkan dua undang-undang yaitu Undang-Undang \nNomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi  (Lembaran \nNegara Republik Indonesia Tahun 1999 Nomor 140, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 3874, selanjutnya disebut UU 31/1999) dengan Undang-\nUndang Nomor 18 Tahun 2003 tentang Advokat (Lembaran Negara Republik \nIndonesia Tahun 2003 Nomor 49, Tambahan Lembaran Negara Republik Indonesia \nNomor 4288). Namun, Mahkamah dapat memahami bahwa yang sebenarnya \ndimohonkan untuk diuji konstitusionalitasnya adalah Pasal 21 UU 31/1999 terhadap \nUUD 1945 sehingga Mahkamah berwenang mengadili permohonan a quo.  \n[3.3]   Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo, namun sebelum mempertimbangkan kedudukan hukum dan \npokok permohonan Pemohon, Mahkamah terlebih dahulu akan mempertimbangkan \npermohonan Pemohon sebagai berikut: \n[3.3.1] Bahwa Mahkamah telah memeriksa permohonan Pemohon dalam \npersidangan Pendahuluan pada tanggal 5 Juli 2023, dalam persidangan tersebut, \nMajelis Panel sesuai dengan kewajibannya yang diatur dalam Pasal 39 ayat (2) UU \nMK dan Pasal 41 ayat (3) Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2021 \ntentang Tata Beracara Dalam Perkara Pengujian Undang -Undang (PMK 2/2021) \n\n \n \n \n25 \ntelah memberikan nasihat kepada Pemohon untuk memperbaiki sekaligus \nmemperjelas hal-hal yang berkaitan dengan permohonan Pemohon sesuai dengan \nsistematika permohonan sebagaimana diatur dalam Pasal 31 ayat (1) dan ayat (2) \nUU MK serta Pasal 10 ayat (2) huruf a, huruf b, huruf c, dan huruf d PMK 2/2021; \n[3.3.2] Bahwa Pemohon telah memperbaiki permohonannya sebagaimana \nditerima Mahkamah pada tanggal 12 Juli 2023 dan tanggal 17 Juli 2023, yang pada \npokoknya substansi kedua permohonan a quo adalah sama, serta telah diperiksa \ndalam sidang pemeriksaan p erbaikan permohonan pada tanggal 24 Juli 2023. \nPemohon dalam perbaikan permohonannya menguraikan dengan sistematika: \nJudul, Identitas Pemohon, Kewenangan Mahkamah, Kedudukan Hukum, Alasan -\nAlasan Permohonan, dan Petitum; \n[3.3.3] Bahwa meskipun format perbaikan permohonan Pemohon sebagaimana \ndimaksud pada Sub -paragraf [3.3.2] pada dasarnya telah sesuai dengan format \npermohonan pengujian undang -undang terhadap UUD 1945 sebagaimana diatur \ndalam Pasal 31 ayat (1) dan ayat (2) UU MK serta Pasal 10 ayat (2) huruf a, huruf \nb, huruf c, dan huruf d PMK 2/2021, namun pada bagian kedudukan hukum, \nPemohon tidak dapat menguraikan dengan jelas pertautan potensi kerugian \nPemohon dengan adanya anggapan kerugian hak konstitusional dengan berlakunya \nPasal 21 UU 31/1999. Uraian  pada bagian kedudukan hukum hanya menjelaskan \nmengenai pelaksanaan kedaulatan rakyat yang diwakili oleh anggota Dewan \nPerwakilan Rakyat (DPR) dengan tugas dan fungsinya antara lain sebagai \npembentuk dan pembuat undang-undang. Adapun DPR dalam menjalankan tugas, \nfungsi, dan perannya yang diisi oleh sumber daya manusia dianggap terdapat \nkecenderungan untuk melakukan penyimpangan terhadap produknya. Oleh \nkarenanya, Mahkamah Konstitusi dibentuk sebagai institusi/lembaga hukum yang \nmampu melakukan penilaian ter hadap hasil produk legislasi DPR. Selain itu, \nPemohon belum menguraikan secara spesifik adanya hubungan kausalitas \nberlakunya UU 31/1999 yang dimohonkan pengujian dan yang dianggap merugikan \natau setidak -tidaknya potensial merugikan hak konstitusional Pemo hon sebagai \nwarga negara Indonesia selaku Advokat yang berkaitan dengan pasal a quo. \nDengan demikian, menurut Mahkamah terdapat ketidakjelasan dalam uraian \nmengenai kedudukan hukum Pemohon; \nSelain itu, pada bagian alasan-alasan permohonan (posita), Pemohon sama \nsekali tidak menguraikan argumentasi mengenai pertentangan antara pasal yang \n\n \n \n \n26 \ndimohonkan pengujian dengan pasal -pasal yang menjadi dasar pengujian dalam \nUUD 1945. Dalam hal ini, Pemohon lebih fokus menguraikan masalah konkret yang \ndialami oleh saudara  Dr. Stefanus Roy Rening, S.H., M.H. selaku Advokat yang \nditetapkan sebagai tersangka perintangan penyidikan dalam perkara korupsi \ndengan tersangka atau terdakwa saudara Lukas Enembe (Gubernur Provinsi Papua \nNon Aktif), sehingga menurut Mahkamah, posita ya ng demikian tidak ada \nrelevansinya bagi Mahkamah untuk menilainya. \nSelanjutnya permintaan Pemohon sebagaimana termaktub dalam petitum, \nsekalipun telah diberi nasihat oleh Majelis Panel, dapat ditemukan Petitum angka 2, \n“Menyatakan Pasal 21 UU.RI.No.31 Tahu n 1999 Tentang Pemberantasan Tindak \nPidana Korupsi tersebut Menabrak Pasal 5 ayat (1) dan ayat (2) Jo Pasal 31 Jo \nPasal 16 UU.RI.No.18 Tahun 2003 tentang Advokat Indonesia Negara Hukum, \nBertentangan bukan hanya dengan pasal 28D ayat (1) melainkan juga Bertentangan \ndengan Pasal 28I ayat (1) dan ayat (2) dan ayat (4) dan ayat (5) Jo Pasal 28J ayat \n(1) dan ayat (2) Undang -Undang Dasar Negara Republik Indonesia Tahun 1945” \ndan Petitum angka 3, “Menyatakan Pasal 21 UU.RI.No.31 Tahun 1999 Tentang \nPemberantasan Ti ndak Pidana Korupsi Tidak Memiliki Kekuatan Hukum Yang \nMengikat Khusus Terhadap Advokat sebagai Status Penegak Hukum Yang Setara \natau Sejajar Dengan Aparat Penegak Hukum Lainnya di Indonesia Negara Hukum”. \nMenurut Mahkamah, rumusan kedua petitum a quo adalah rumusan petitum yang \ntidak lazim. Karena, di satu sisi Pemohon meminta kepada Mahkamah untuk \nmenyatakan norma Pasal 21 UU 31/1999 bertentangan dengan UUD 1945 \nsementara di sisi lain, Pemohon meminta kepada Mahkamah untuk menyatakan \nnorma Pasal 21 UU 31/ 1999 tidak mempunyai kekuatan hukum mengikat secara \nbersyarat. Dalam batas penalaran yang wajar, rumusan kedua petitum tersebut \nsaling bertentangan satu sama lainnya dan Mahkamah tidak mungkin \nmengabulkannya secara bersamaan. Petitum yang demikian hanya da pat \ndibenarkan sepanjang satu sama lainnya dirumuskan secara alternatif. \nTerlebih lagi, ditemukan Petitum angka 4, “Menyatakan Advokat Sebagai \nProfesi Terhormat (officium nobile) yang dalam menjalankan Profesinya Berada \ndibawah Perlindungan Hukum dan Hak A sasi Manusia, Undang-Undang dan Kode \nEtik, memiliki Kebebasan yang didasarkan kepada Kehormatan dan Kepribadian \nAdvokat yang berpegang teguh kepada Kemandirian, Kejujuran, Kerahasiaan dan \nKeterbukaan”, Petitum angka 5, “Menyatakan Profesi Advokat adalah Se laku \n\n \n \n \n27 \nPenegak Hukum Yang Sejajar Dengan Aparat Penegak Hukum Lainnya harus \nSaling Menghargai antara Sesama Penegak Hukum lainnya”, Petitum angka 6, \n“Menyatakan Advokat Tidak Boleh Ditetapkan Secara Langsung oleh APH KPK atau \nPenegak Hukum Lainnya yang Sejaj ar atau Setara Sebagai Tersangka Subyek \nPidana Sebelum Terlebih Dahulu (Lex Pra evia) Dikenakan Tindakan oleh \nKeputusan Dewan Kehormatan Profesi Advokat sebagaimamestinya Ketentuan \nUndang-Undang Republik Indonesia Nomor 18 Tahun 2003 Tentang Advokat \nIndonesia Negara Hukum”, dan Petitum angka 7, “Memerintahkan Pemuatan \nPutusan ini dalam Berita Negara dalam jangka waktu selambat -lambatnya Tiga \nPuluh hari Kerja Sejak Putusan Diucapkan”. Seluruh rumusan petitum tersebut \nadalah tidak jelas atau setidak -tidaknya tidak sesuai dengan kelaziman petitum \ndalam perkara pengujian undang -undang. Terhadap petitum ini telah dikonfirmasi \nkembali kepada Pemohon pada saat sidang Pemeriksaan Pendahuluan dengan \nagenda Pemeriksaan Perbaikan Permohonan pada tanggal 24 Juli 2023 [v ide \nRisalah Sidang Perkara Nomor 64/PUU-XXI/2023, Senin, tanggal 24 Juli 2023, hlm. \n11-12] dan Pemohon tetap pada pendiriannya. Secara formal, petitum yang \ndemikian bukanlah rumusan petitum sebagaimana dimaksud dalam Pasal 10 ayat \n(2) huruf d PMK 2/2021; \n[3.4]  Menimbang bahwa berdasarkan seluruh pertimbangan hukum di atas, \nmeskipun Mahkamah berwenang mengadili permohonan a quo, namun oleh karena \nadanya ketidakjelasan kedudukan hukum, posita yang tidak relevan, serta petitum \ntidak lazim sehingga menyebabkan  permohonan Pemohon tidak jelas atau kabur \n(obscuur). Oleh karena itu, permohonan Pemohon tidak memenuhi syarat formil \npermohonan sebagaimana dimaksud dalam Pasal 31 ayat (1) UU MK serta Pasal \n10 ayat (2) PMK 2/2021. Dengan demikian, Mahkamah tidak mempert imbangkan \npermohonan Pemohon lebih lanjut. \n[3.5]  Menimbang bahwa terhadap dalil -dalil, hal-hal lain, dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 876,
+      "end_line": 1031
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Mahkamah \nberkesimpulan:  \n\n \n \n \n28 \n[4.1]  Mahkamah berwenang mengadili permohonan a quo;  \n[4.2]  Permohonan Pemohon tidak jelas atau kabur dan tidak dipertimbangkan \nlebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945, Undang -Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undang -Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang -\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1033,
+      "end_line": 1051
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh delapan Hakim \nKonstitusi yaitu Saldi Isra , selaku Ketua merangkap  Anggota, Arief Hidayat , \nManahan M.P. Sitompul, Daniel Yusmic P. Foekh, Enny Nurbaningsih, Suhartoyo, \nM. Guntur Hamzah, dan Wahiduddin Adam s, masing-masing sebagai Anggota, \npada hari Rabu, tanggal dua puluh enam, bulan Juli, tahun dua ribu dua puluh \ntiga, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk \numum pada hari Senin, tanggal tiga puluh satu, bulan Juli, tahun dua ribu dua \npuluh tiga, selesai diucapkan pukul 15.26 WIB, oleh delapan Hakim Konstitusi \nyaitu Anwar Usman, selaku Ketua merangkap Anggota, Saldi Isra , Manahan M.P. \nSitompul, Daniel Yusmic P. Foekh, Enny Nurbaningsih, Suhartoyo, M. Guntur \nHamzah, dan Wahiduddin Adam s, masing-masing sebagai Anggota, dengan \ndibantu oleh Nurlidya Stephanny Hikmah sebagai Panitera Pengganti, serta dihadiri \n\n \n \n \n29 \noleh Pemohon, Dewan Perwakilan Rakyat atau yang mewakili, Presiden atau yang \nmewakili. \nKETUA, \nttd. \nAnwar Usman \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nManahan M.P. Sitompul \n ttd. \nDaniel Yusmic P. Foekh \nttd. \nEnny Nurbaningsih \n ttd. \nSuhartoyo \nttd. \nM. Guntur Hamzah \nttd. \nWahiduddin Adams \nPANITERA PENGGANTI, \nttd. \nNurlidya Stephanny Hikmah",
+      "start_line": 1053,
+      "end_line": 1097
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Dr. H. Marion., S.H., M.H",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 31/1999 tentang Pemberantasan Tindak Pidana Korupsi"
+    ],
+    "constitutional_articles": [
+      "Pasal 28J ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 28I ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 28D",
+      "Pasal 28I",
+      "Pasal 28J",
+      "Pasal 21",
+      "Pasal 24 ayat (1)",
+      "Pasal 24 ayat (2)",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 10",
+      "Pasal 41 ayat (3)"
+    ],
+    "evidence": [
+      "BUKTI P- 7",
+      "BUKTI P-8",
+      "BUKTI P-1",
+      "BUKTI P-12",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "REFERENSI:64/PUU-XXI/2023",
+      "REFERENSI:61/PUU/PAN.MK/AP3/06/2023",
+      "REFERENSI:2/PMK/2021",
+      "REFERENSI:2/2021yangmengacupadaPutusanMKNo.006/PUU-III/2005danNo.011/PUU-V/2007",
+      "REFERENSI:011/PUU-V/2007",
+      "REFERENSI:27/PUU-VII/2009",
+      "REFERENSI:006/PUU-III/2005PerkaraNomor011/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Anwar Usman",
+      "Saldi Isra",
+      "Manahan M.P. Sitompul",
+      "Daniel Yusmic P. Foekh",
+      "Enny Nurbaningsih",
+      "Suhartoyo",
+      "M. Guntur Hamzah",
+      "Wahiduddin Adams"
+    ],
+    "clerks": [
+      "Nurlidya Stephanny Hikmah"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "64/PUU-XXI/2023",
+      "61/PUU/PAN.MK/AP3/06/2023",
+      "2/PMK/2021",
+      "2/2021yangmengacupadaPutusanMKNo.006/PUU-III/2005danNo.011/PUU-V/2007",
+      "011/PUU-V/2007",
+      "27/PUU-VII/2009",
+      "006/PUU-III/2005PerkaraNomor011/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "64/PUU-XXI/2023",
+      "61/PUU/PAN.MK/AP3/06/2023",
+      "2/PMK/2021",
+      "2/2021yangmengacupadaPutusanMKNo.006/PUU-III/2005danNo.011/PUU-V/2007",
+      "011/PUU-V/2007",
+      "27/PUU-VII/2009",
+      "006/PUU-III/2005PerkaraNomor011/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_6604.pdf",
+    "file_name": "putusan_mkri_6604.pdf",
+    "page_count": 16,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_6604.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "40/PUU-XVII/2019",
+    "related_case_numbers": [
+      "81/PAN.MK/2019dandicatatdalamBukuRegistrasiPerkaraKonstitusidenganNomor40/PUU-XVII/2019"
+    ],
+    "title": "SALINA N",
+    "decision_date": "2019-10-23",
+    "decision_date_raw": "dua puluh tiga, bulan Oktober, tahun dua ribu sembilan belas",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "SALINA N",
+      "slug": "salina-n",
+      "text": "",
+      "start_line": 2,
+      "end_line": 3
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 40/PUU-XVII/2019",
+      "start_line": 5,
+      "end_line": 5
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1]  Yang mengadili perkara konst itusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam perkara Pengujian Undang-Undang Nomor 1 Tahun \n1974 tentang Perkawinan terhadap Undang -Undang Dasar Negara Republik \nIndonesia Tahun 1945, yang diajukan oleh:  \nNama : Pdp. Rolas Jakson Tampubolon, S.H. \nAgama : Kristen \nPekerjaan : Swasta \nAlamat : Bojong Permai VIII Blok E 22/24, Bojong Rawa Lumbu, \nKota Bekasi \nSelanjutnya disebut sebagai -------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon; \nMendengar keterangan Pemohon; \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 8,
+      "end_line": 20
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa Pemohon telah mengajukan permohonan dengan \nsurat permohonan bertanggal 17 Juni 2019, yang diterima di Kepaniteraan \nMahkamah Konstitusi (selanjutnya disebut Kepa niteraan Mahkamah) pada hari \nSelasa tanggal 17 Juni 2019 berdasarkan Akta Penerimaan Berkas Permohonan \nNomor 81/PAN.MK/2019 dan dicatat dalam Buku Registrasi Perkara Konstitusi \ndengan Nomor 40/PUU -XVII/2019 pada tanggal 26 Agustus 2019, yang telah \ndiperbaiki dan diterima di Kepaniteraan Mahkamah pada tanggal 25 September \n2019, yang pada pokoknya menguraikan hal-hal sebagai berikut: \n\n 2",
+      "start_line": 22,
+      "end_line": 31
+    },
+    {
+      "heading": "1. Bahwa, berdasarkan Pasal 24C ayat (1) Undang -Undang Dasar 1945",
+      "slug": "1-bahwa-berdasarkan-pasal-24c-ayat-1-undang-undang-dasar-1945",
+      "text": "dinyatakan: \n“ Mahkamah Konstitus i berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang -undang \nterhadap Undang -Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang -Undang \nDasar, memutus pembu baran partai politik dan memutus perselisihan \ntentang hasil pemilihan umum”",
+      "start_line": 34,
+      "end_line": 40
+    },
+    {
+      "heading": "2. Bahwa, implementasi dari Pasal 24C ayat (1) Undang -Undang Dasar 1945",
+      "slug": "2-bahwa-implementasi-dari-pasal-24c-ayat-1-undang-undang-dasar-1945",
+      "text": "tersebut di  atas, dituangkan dalam Pasal 10 ayat (1) huruf a Undang -Undang \nNomor 24 tahun 2003 tentang Mahkamah  Konstitusi, yang menyatakan sebagai \nberikut: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan terakhir \nyang putusannya bersifat final untuk: menguji undang-undang terhadap Undang-\nUndang Dasar Negara Republik Indonesia tahun 1945”.",
+      "start_line": 42,
+      "end_line": 47
+    },
+    {
+      "heading": "3. Bahwa, penegasan dari Pasal 10 ayat (1) huruf a Undang -Undang Nomor 24",
+      "slug": "3-bahwa-penegasan-dari-pasal-10-ayat-1-huruf-a-undang-undang-nomor-24",
+      "text": "tahun 2003 tentang Mahkamah Konstitusi, diatur dalam Peraturan Mahkamah \nKonstitusi Nomor 06/PMK/2005 tentang Pedoman Beracara Dalam Perkara \nPengujian Undang-Undang sebagaimana yang disebut dal am Pasal 4 ayat (1) \ndan (2) yang dinyatakan sebagai berikut: \n(1) Permohonan pengujian UU meliputi pengujian formil dan/atau \npengujian materil; \n(2) Pengujian materil adalah pengujian UU yang berkenan dengan \nmateri muatan dalam ayat, pasal, dan/atau bagian UU yang dianggap \nbertentangan dengan UUD 1945;",
+      "start_line": 49,
+      "end_line": 57
+    },
+    {
+      "heading": "4. Bahwa, permohonan ini diajukan kepada Mahkamah Konstitusi guna menguji",
+      "slug": "4-bahwa-permohonan-ini-diajukan-kepada-mahkamah-konstitusi-guna-menguji",
+      "text": "Pasal 39 ayat (1) Undang -Undang Nomor 1 Tahun 1974 sepanjang frasa \nPerceraian hanya dapat dilakukan di depan Sidang Pengadilan  bertentangan \ndengan Pasal 28D ayat (1) UUD 1945 dan Pasal 28H ayat (2) UUD 1945 dan \ntidak mempunyai kekuatan hukum mengikat sepanjang tidak dimaknai \n(conditionally constitutional) “perceraian hanya dapat dilakukan di depan Sidang \nPengadilan setelah suami atau istri memperoleh  keterangan bimbingan \nperkawinan dari pemuka agama yang hukum agamanya melarang perceraian”; \n \n\n 3",
+      "start_line": 59,
+      "end_line": 68
+    },
+    {
+      "heading": "5. Bahwa, berdasarkan hal -hal yang telah diuraikan di atas, maka Mahkamah",
+      "slug": "5-bahwa-berdasarkan-hal-hal-yang-telah-diuraikan-di-atas-maka-mahkamah",
+      "text": "Konstitusi berwenang untuk memeriksa, mengadii dan memutus permohonan \nPemohon; \nKEDUDUKAN HUKUM (LEGAL STANDING) PEMOHON",
+      "start_line": 70,
+      "end_line": 72
+    },
+    {
+      "heading": "1. Bahwa, sesuai dengan Peraturan Mahkamah Konstitusi Nomor 06/PMK/2005",
+      "slug": "1-bahwa-sesuai-dengan-peraturan-mahkamah-konstitusi-nomor-06-pmk-2005",
+      "text": "tentang Pedoman Beracara Dalam Perkara Pengujian Undang -Undang, yang \ndapat menjadi Pemohon dalam Permohonan Pengujian UU adalah perorangan \nwarga negara Indone sia atau kelompok orang yang mempunyai kepentingan \nyang sama, kesatuan masyarakat hukum adat, badan hukum publik atau badan \nhukum privat atau lembaga negara;",
+      "start_line": 74,
+      "end_line": 78
+    },
+    {
+      "heading": "2. Bahwa, Pemohon adalah perorangan warga negara Indonesia sebagaimana",
+      "slug": "2-bahwa-pemohon-adalah-perorangan-warga-negara-indonesia-sebagaimana",
+      "text": "yang dijamin dan dilindungi da lam ketentuan Pasal 28D ayat (1) UUD 1945 dan \nPasal 28H ayat (2) UUD 1945;",
+      "start_line": 80,
+      "end_line": 81
+    },
+    {
+      "heading": "3. Bahwa, Pemohon sebagai perorangan warga negara Indonesia yang juga",
+      "slug": "3-bahwa-pemohon-sebagai-perorangan-warga-negara-indonesia-yang-juga",
+      "text": "seorang Pendeta Pembantu dari Gereja Bethel Indonesia (GBI) sesuai dengan \nsertifikat dari Badan Pekerja Daerah Sum atera Barat Gereja Bethel Indonesia \ntertanggal 29 Agustus 2008;",
+      "start_line": 83,
+      "end_line": 85
+    },
+    {
+      "heading": "4. Bahwa, dalam pelayanan Pemohon sebagai Pendeta Pembantu, Pemohon",
+      "slug": "4-bahwa-dalam-pelayanan-pemohon-sebagai-pendeta-pembantu-pemohon",
+      "text": "sering mendapati jemaat Kristen yang mengalami masalah Rumah Tangga \ndalam perkawinannya yang berujung kepada perceraian, dimana  jemaat tidak \nterlebih dahulu mengkonselingkan permasalahan rumah tangganya kepada \nGereja namun langsung mengajukan gugatan Perceraian ke Pengadilan;",
+      "start_line": 87,
+      "end_line": 90
+    },
+    {
+      "heading": "5. Bahwa, jemaat tidak mau mengkonselingkan permasalahan rumah tangga,",
+      "slug": "5-bahwa-jemaat-tidak-mau-mengkonselingkan-permasalahan-rumah-tangga",
+      "text": "karena jemaat cenderung tertutup. Dan ketika ditanya mengenai masalah rumah \ntangga, selalu menjawab tidak apa -apa, sehingga menyulitkan Pemohon untuk \nmelakukan konseling dan mencegah jemaat untuk bercerai;",
+      "start_line": 92,
+      "end_line": 94
+    },
+    {
+      "heading": "6. Bahwa, penyelesaian melalui pengadilan tanpa terlebih dahulu diselesaikan",
+      "slug": "6-bahwa-penyelesaian-melalui-pengadilan-tanpa-terlebih-dahulu-diselesaikan",
+      "text": "secara intern di dalam Gereja, jelas menodai nilai sakral suatu Perkawinan \nkhususnya dikalangan Kristen karena Perkawinan dalam hukum agama Kristen \nadalah sekali seumur hidup (kekal) dan hal ini juga sesuai dengan Pasal 1 \nUndang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (selanjutnya disebut \nUU Perkawinan), menyatakan dengan tegas bahwa: \n \n\n 4 \n“Perkawinan ialah ikatan lahir bathin antara seorang pria dengan seorang wanita \nsebagai suami istri dengan tujuan membentuk keluarga (rumah tangga) yang \nbahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa”;",
+      "start_line": 96,
+      "end_line": 106
+    },
+    {
+      "heading": "7. Bahwa, dipertegas dalam Alkitab sebagai kitab suci agama Kristen, bahwa",
+      "slug": "7-bahwa-dipertegas-dalam-alkitab-sebagai-kitab-suci-agama-kristen-bahwa",
+      "text": "perkawinan Kristen adalah perkawinan heteroseksual monogami yang abadi. \nKarena itu, perkawinan dalam Kristen dilakukan dihadapan Tuhan dalam bentuk \npemberkatan Perkawinan, pengucapan janji perkawinan serta komitmen \nbersama untuk perkawinan seumur hidup;",
+      "start_line": 108,
+      "end_line": 111
+    },
+    {
+      "heading": "8. Bahwa, karena itu juga, dalam UU Perkawinan dalam penjelasan umum huruf e",
+      "slug": "8-bahwa-karena-itu-juga-dalam-uu-perkawinan-dalam-penjelasan-umum-huruf-e",
+      "text": "dinyatakan bahwa tujuan perkawinan adalah untuk membentuk keluarga yang \nbahagia kekal,  dan sejahtera dimana UU Perkawinan mempunyai prinsip \nmempersukar terjadinya perceraian;",
+      "start_line": 113,
+      "end_line": 115
+    },
+    {
+      "heading": "9. Bahwa Pasal 39 ayat (1) Undang-Undang Nomor 1 Tahun 1974 sepanjang frasa",
+      "slug": "9-bahwa-pasal-39-ayat-1-undang-undang-nomor-1-tahun-1974-sepanjang-frasa",
+      "text": "Perceraian hanya dapat dilakukan di depan Sidang Pengadilan, menurut hemat \nPemohon masih merup akan ketentuan yang tidak mempersukar terjadinya \nperceraian, sehingga merugikan hak konstitusional Pemohon dan ketentuan \ntersebut bertentangan dengan Pasal 28D ayat (1) UUD 1945 dan Pasal 28H \nayat (2) UUD 1945 dan tidak mempunyai kekuatan hukum mengikat se panjang \ntidak dimaknai (conditionally constitutional) “perceraian hanya dapat dilakukan di \ndepan Sidang Pengadilan setelah suami atau istri memperoleh keterangan \nbimbingan perkawinan dari pemuka agama yang hukum agamanya melarang \nperceraian”;",
+      "start_line": 117,
+      "end_line": 125
+    },
+    {
+      "heading": "10. Bahwa, hal in i sangat penting, karena Pemohon memiliki pelayanan sebagai",
+      "slug": "10-bahwa-hal-in-i-sangat-penting-karena-pemohon-memiliki-pelayanan-sebagai",
+      "text": "Pendeta, dimana salah satu hak dan kewajiban melakukan pelayanan \nkependetaan adalah pelayanan pernikahan/perkawinan. Sebagai Pendeta, \nPemohon memiliki hak konstitusional yang dijamin dalam UUD 1945;",
+      "start_line": 127,
+      "end_line": 129
+    },
+    {
+      "heading": "11. Bahwa, karena Pasal 39 ayat (1) Undang -Undang Nomor 1 Tahun 1974",
+      "slug": "11-bahwa-karena-pasal-39-ayat-1-undang-undang-nomor-1-tahun-1974",
+      "text": "sepanjang frasa Perceraian hanya dapat dilakukan di depan Sidang Pengadilan \ndisamping merugikan hak konstitusional Pemohon, Pasal tersebut dipandang \nmasih lemah dalam dimensi hukum agama y ang dianut Pemohon dimana \nPemohon adalah seorang Pendeta yang wajib meluhurkan ajaran Tuhan dalam \nAlkitab yang salah satu ajaran dalam Alkitab adalah melarang perceraian \nterjadi;  \n \n\n 5",
+      "start_line": 131,
+      "end_line": 139
+    },
+    {
+      "heading": "12. Bahwa, berdasarkan hal -hal diatas, maka Pemohon memiliki legal standing",
+      "slug": "12-bahwa-berdasarkan-hal-hal-diatas-maka-pemohon-memiliki-legal-standing",
+      "text": "dalam mengajukan Permohonan di Mahkamah Konstitusi, karena sebagai \nPendeta, Pemohon memiliki tanggung jawab agar kehidupan jemaat sesuai \ndengan kebenaran firman Tuhan terutama dalam kehidupan rumah tangganya \nagar tidak pecah.",
+      "start_line": 141,
+      "end_line": 145
+    },
+    {
+      "heading": "HAL-HAL YANG MENJADI DASAR PERMOHONAN",
+      "slug": "hal-hal-yang-menjadi-dasar-permohonan",
+      "text": "Janji calon suami \nSaya, [Nama Calon Suami], \nberjanji di hadapan Tuhan, hamba \nTuhan, dan saudara seiman, \nbahwa sesuai dengan kehendak \nTuhan, \nsaya menerima engkau, [Nama Calon \nIstri], sebagai isteri yang sah dan \nsatu-satunya mulai saat ini dan \nseterusnya. \nSaya berjanji, \nakan bersungguh-sungguh mengasihi \nsebagaimana Kristus telah mengasihi \njemaat-Nya dan seperti saya \nmengasihi tubuh saya sendiri. \nSaya berjanji, \nakan hidup kudus, bijaksana, setia, \nmenghormati sebagai teman pewaris \ndari kasih karunia, dan selalu hidup \ndengan rukun dan damai dalam \nsepanjang hidup ini \nJanji calon istri \nSaya, [Nama Calon Istri], \nberjanji di hadapan Tuhan, hamba \nTuhan, dan saudara seiman, \nbahwa sesuai dengan kehendak \nTuhan \nsaya menerima engkau, [Nama Calon \nSuami], sebagai suam i yang sah dan \nsatu-satunya mulai saat ini dan \nseterusnya. \nSaya berjanji, \nakan tunduk dalam segala sesuatu \nseperti kepada Tuhan, menghormati \nsebagai teman pewaris dari kasih \nkarunia. \nSaya berjanji, \nakan hidup kudus, menjadi penolong \nyang setia dan selalu menaruh harap \nkepada Tuhan, dan selalu hidup \ndengan rukun dan damai dalam \nsepanjang hidup ini.",
+      "start_line": 147,
+      "end_line": 189
+    },
+    {
+      "heading": "1. Bahwa, hal yang ditulis di atas, merupakan Janji Perkawinan yang diucapkan",
+      "slug": "1-bahwa-hal-yang-ditulis-di-atas-merupakan-janji-perkawinan-yang-diucapkan",
+      "text": "oleh suami istri yang malangsungkan perkawinannya secara Kristen. Dalam \nJanji Perkawinan tidak ada disebutkan soal perceraian. Ini membuktikan bahwa \nagama Kristen memang tidak menganjurkan perceraian dilakukan;",
+      "start_line": 191,
+      "end_line": 193
+    },
+    {
+      "heading": "2. Bahwa, pelarangan perceraian di dalam Kristen tertulis dalam Alkitab terutama",
+      "slug": "2-bahwa-pelarangan-perceraian-di-dalam-kristen-tertulis-dalam-alkitab-terutama",
+      "text": "dalam Injil Matius 19:6 yang menyatakan: \n“Demikianlah mereka bukan lagi dua, melainkan satu. Karena itu, apa yang \ntelah dipersatukan Allah, tidak boleh diceraikan manusia”; \n\n 6",
+      "start_line": 195,
+      "end_line": 199
+    },
+    {
+      "heading": "3. Bahwa, begitu juga yang disebut dalam Alkitab terutama dalam kitab Maleakhi 2",
+      "slug": "3-bahwa-begitu-juga-yang-disebut-dalam-alkitab-terutama-dalam-kitab-maleakhi-2",
+      "text": "ayat 16 yang mengatakan sebagai berikut: \n“Sebab aku membe nci perceraian, firman TUHAN, Allah Israel -juga orang yang \nmenutupi pakaiannya dengan kekerasan, firman Tuhan semesta alam. Maka \njagalah dirimu dan jangan berkhianat “;",
+      "start_line": 201,
+      "end_line": 204
+    },
+    {
+      "heading": "4. Bahwa, secara hermeneutika kedua ketentuan yang merupakan reprensentasi",
+      "slug": "4-bahwa-secara-hermeneutika-kedua-ketentuan-yang-merupakan-reprensentasi",
+      "text": "kitab Perjanjian Baru (PB) dengan Perjanjian Lama (PL) diatas didasarkan pada \npernyataan Tuhan pertama kali tentang Perkawinan yaitu sebagaimana yang \nditulis dalam kitab Kejadian 2:24 yang menyatakan: \n“Sebab itu seorang laki -laki akan meninggalkan ayahnya dan ibunya dan  \nbersatu dengan istrinya, sehingga keduanya menjadi satu daging”;",
+      "start_line": 206,
+      "end_line": 210
+    },
+    {
+      "heading": "5. Bahwa, karena itulah kenapa agama Kristen sangat melarang terjadinya",
+      "slug": "5-bahwa-karena-itulah-kenapa-agama-kristen-sangat-melarang-terjadinya",
+      "text": "perceraian dikalangan Kristen, karena Tuhan telah mengatakan dengan tegas \npelarangan tersebut sehingga sudah seyog ianya k alangan Kristen untuk \nmenghormati apa yang disampaikan dalam ayat-ayat yang disebutkan di atas; \nPASAL 39 AYAT (1) UU PERKAWINAN SEPANJANG FRASA PERCERAIAN",
+      "start_line": 212,
+      "end_line": 215
+    },
+    {
+      "heading": "HAK KONSTITUSIONAL PEMOHON DAN BERTENTANGAN DENGAN UUD",
+      "slug": "hak-konstitusional-pemohon-dan-bertentangan-dengan-uud",
+      "text": "1945 PASAL 28D ayat (1) UUD 1945 DAN PASAL 28H ayat (2) UUD 1945",
+      "start_line": 218,
+      "end_line": 218
+    },
+    {
+      "heading": "1. Bahwa, Pasal 28D ayat (1) UUD 1945 menyatakan sebagai berikut:",
+      "slug": "1-bahwa-pasal-28d-ayat-1-uud-1945-menyatakan-sebagai-berikut",
+      "text": "“setiap orang berhak atas pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perlakuan yang sama dihadapan hukum”",
+      "start_line": 220,
+      "end_line": 221
+    },
+    {
+      "heading": "2. Bahwa, ketentuan di atas mengandung makna bahwa konstitusi yaitu UUD",
+      "slug": "2-bahwa-ketentuan-di-atas-mengandung-makna-bahwa-konstitusi-yaitu-uud",
+      "text": "1945 menjamin hak setiap orang atas pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perlakukan yang sama di  hadapan hukum \nkhususnya di Indonesia;",
+      "start_line": 223,
+      "end_line": 225
+    },
+    {
+      "heading": "3. Bahwa, Pasal 39 ayat (1) Undang -Undang Nomor 1 Tahun 1974 sepanjang",
+      "slug": "3-bahwa-pasal-39-ayat-1-undang-undang-nomor-1-tahun-1974-sepanjang",
+      "text": "frasa Perceraian hanya dapat dilakukan di depan Sidang Pengadilan \nbertentangan dengan Pasal 28D ayat (1) UUD 1945 disebabkan ketentuan \ntersebut merugikan konstitusional Pemohon terutama tida k memberikan \npengakuan, jaminan, perlindungan dan kepastian hukum yang adil serta \nperlakuan yang sama di  hadapan hukum bagi Pemohon yang hukum \nagamanya melarang perceraian; \n\n 7",
+      "start_line": 227,
+      "end_line": 234
+    },
+    {
+      "heading": "4. Bahwa, Pasal 39 ayat (1) Undang -Undang Nomor 1 Tahun 1974 meskipun",
+      "slug": "4-bahwa-pasal-39-ayat-1-undang-undang-nomor-1-tahun-1974-meskipun",
+      "text": "adalah pintu masuk bagi jemaat yang hendak bercerai,",
+      "start_line": 236,
+      "end_line": 236
+    },
+    {
+      "heading": "5. Bahwa, disamping itu, dengan diberlakukannya Pasal 39 ayat (1) Undang -",
+      "slug": "5-bahwa-disamping-itu-dengan-diberlakukannya-pasal-39-ayat-1-undang",
+      "text": "Undang Nomor 1 Tahun 1974 sepanjang frasa Perceraian hanya dapat \ndilakukan di depan Sidang Pengadilan, telah mengurangi fungsi kependetaan \nPemohon k arena tidak diberikan kesempatan kepada Pemohon untuk \nmemberikan nasehat, bimbingan dan konseling bagi jemaat yang akan \nbercerai, sehingga perkawinan mereka menjadi pecah dan menimbulkan \nimplikasi yang tidak baik. Padahal dengan adanya nasehat, bimbingan d an \nkonseling, setidak -tidaknya dapat memberikan harapan agar rumah tangga \njemaat tidak menjadi pecah karena perceraian;",
+      "start_line": 238,
+      "end_line": 245
+    },
+    {
+      "heading": "6. Bahwa, Prof. Dr. H. Moch. Isnaeni, SH., MS dalam bukunya yang berjudul",
+      "slug": "6-bahwa-prof-dr-h-moch-isnaeni-sh-ms-dalam-bukunya-yang-berjudul",
+      "text": "“Hukum Perkawinan Indonesia” Hal.100 mengatakan hal yang serupa t entang \nresiko dari sebuah perceraian. Beliau mengatakan: \n“Putusnya perkawinan karena cerai, lebih banyak menyita perhatian \ndan lebih banyak menimbulkan dampak yang berkepanjangan bagi \nanggota keluarga yang bersangkutan, bahkan sampai memakan \nwaktu beberapa lama”;",
+      "start_line": 247,
+      "end_line": 252
+    },
+    {
+      "heading": "7. Bahwa, untuk itu perlu pengaturan yang lebih ketat mengenai perceraian di",
+      "slug": "7-bahwa-untuk-itu-perlu-pengaturan-yang-lebih-ketat-mengenai-perceraian-di",
+      "text": "Pengadilan sesuai dengan prinsip UU Perkawinan yang mempersulit \nperceraian, dengan salah satunya adalah memberikan peranan kepada tokoh \nagama yang hukum agamanya melarang per ceraian seperti hukum agama \nKristen, sehingga Pasal 39 ayat 1 dinyatakan tidak mempunyai kekuatan \nhukum mengikat sepanjang tidak dimaknai ( conditionally constitutional ) \n“perceraian hanya dapat dilakukan di depan Sidang Pengadilan setelah suami \natau istri m emperoleh keterangan bimbingan perkawinan dari pemuka agama \nyang hukum agamanya melarang perceraian”;",
+      "start_line": 254,
+      "end_line": 261
+    },
+    {
+      "heading": "8. Bahwa, karena prinsip UU Perkawinan adalah salah satunya mempersulit",
+      "slug": "8-bahwa-karena-prinsip-uu-perkawinan-adalah-salah-satunya-mempersulit",
+      "text": "perceraian maka Prof. Wahyono Darmabrata SH., MH ., dalam bukunya \nTinjauan Undang -Undang No mor 1 Tahun 1974 tentang Perkawinan Beserta \nUU Dan Peraturan Pelaksananya Penerbit CV. Gitama Jaya Jakarta Hal. 134 \nyang menyatakan: \n “Dalam hal perceraian maka suami -isteri yang akan bercerai juga \nharus memperhatikan ketentuan agama. Apakah ketentuan  hukum \n\n 8 \nagama yang dianut suami -isteri yang bersangkutan memungkinkan \natau tidak bagi pasangan suami istri yang bersangkutan untuk \nbercerai. Kalau hukum agama suami -istri yang bersangkutan \nmelarang terjadinya perceraian, maka perceraian tersebut tidak dapat \ndilaksanakan meskipun Undang -undang atau hukum negara \nmemungkinkan”;",
+      "start_line": 263,
+      "end_line": 276
+    },
+    {
+      "heading": "9. Bahwa, pendapat dari Prof. Wahyono Darmabrata SH., MH., membuktikan",
+      "slug": "9-bahwa-pendapat-dari-prof-wahyono-darmabrata-sh-mh-membuktikan",
+      "text": "bahwa UU Perkawinan sangat menghormati dimensi agama, terutama hukum \nagama yang melarang terjadinya perceraian, sepert i agama yang dianut oleh \nPemohon yaitu Kristen;",
+      "start_line": 278,
+      "end_line": 280
+    },
+    {
+      "heading": "10. Bahwa, karena itu berdasarkan uraian -uraian di atas telah tepatlah apabila",
+      "slug": "10-bahwa-karena-itu-berdasarkan-uraian-uraian-di-atas-telah-tepatlah-apabila",
+      "text": "Pasal 39 ayat (1) Undang -Undang Nomor 1 Tahun 1974 sepanjang frasa \nPerceraian hanya dapat dilakukan di depan Sidang Pengadilan berten tangan \ndengan Pasal 28D ayat (1) UUD 1945 karena melanggar konstitusional \nPemohon yang juga seorang Kristen yang agamanya melarang terjadinya \nperceraian;",
+      "start_line": 282,
+      "end_line": 286
+    },
+    {
+      "heading": "11. Bahwa, Pasal 28H ayat 2 UUD 1945 menyatakan sebagai berikut:",
+      "slug": "11-bahwa-pasal-28h-ayat-2-uud-1945-menyatakan-sebagai-berikut",
+      "text": "“Setiap orang berhak mendapat kemudahan d an perlakuan khusus untuk \nmemperoleh kesempatan dan manfaat yang sama guna mencapai \npersamaan dan keadilan”;",
+      "start_line": 288,
+      "end_line": 290
+    },
+    {
+      "heading": "12. Bahwa, Pasal 28H ayat (2) UUD 1945 memberikan perlindungan konstitusi",
+      "slug": "12-bahwa-pasal-28h-ayat-2-uud-1945-memberikan-perlindungan-konstitusi",
+      "text": "terkait dengan kemudahan dan perlakukan khusus serta memperoleh \nkesempatan dan manfaat yang sama guna mencapai persamaan dan keadilan \nkhususnya bagi Pemohon;",
+      "start_line": 292,
+      "end_line": 294
+    },
+    {
+      "heading": "13. Bahwa, Pasal 39 ayat (1) Undang -Undang Nomor 1 Tahun 1974 sepanjang",
+      "slug": "13-bahwa-pasal-39-ayat-1-undang-undang-nomor-1-tahun-1974-sepanjang",
+      "text": "frasa Perceraian hanya dapat dilakukan di depan Sidang Pengadilan \nbertentangan dengan Pasal 28H ayat (1) UU D 1945 karena menutup \nkesempatan bagi Pemohon untuk memberikan pelayanan, bimbingan dan \nkonseling perkawinan sesuai dengan fungsi Pemohon sebagai Pendeta. \nKarena jemaat yang memiliki masalah perkawinan dapat dengan langsung \npergi kepengadilan, tanpa mengho rmati istitusi Gereja, dimana Gereja adalah \ntempat pertama kali jemaat mengucapkan ikrar Perkawinan, yang seharusnya \ndihormati. Singkatnya, ketika mereka hendak melakukan perkawinan, mereka \ndengan sungguh -sungguh datang ke Gereja dan menemui Pendeta untuk \n\n 9 \nmenerima konseling atau bimbingan, namun ketika berencana mau bercerai, \nmereka dengan gampangnya meninggalkan Gereja atau Pendeta dan tidak \nmau mendengar nasehat atau bimbingan dengan langsung pergi kepengadilan.",
+      "start_line": 296,
+      "end_line": 309
+    },
+    {
+      "heading": "14. Bahwa, seharusnya Pasal 39 ayat (1) Undang -Undang Nomor 1 Tahun 1974",
+      "slug": "14-bahwa-seharusnya-pasal-39-ayat-1-undang-undang-nomor-1-tahun-1974",
+      "text": "sepanjang frasa Perceraian hanya dapat dilakukan di depan Sidang Pengadilan \nmemberikan perhatian khusus bagi hukum agama yang melarang Perceraian. \nSementara, Pasal 39 ayat (1) Undang-Undang Nomor 1 Tahun 1974 sepanjang \nfrasa Perc eraian hanya dapat dilakukan di depan Sidang Pengadilan telah \nterbukti tidak mempersulit perceraian sebagaimana prinsip dalam UU \nPerkawinan yang mempersulit perceraian, bahkan ketentuan tersebut tidak \nmemberikan perlakuan khusus bagi hukum agama yang melar ang perceraian \ndalam hal ini hukum agama Kristen;",
+      "start_line": 311,
+      "end_line": 318
+    },
+    {
+      "heading": "15. Bahwa, berdasarkan hal-hal yang diuraikan di atas, telah terbukti Pasal 39 ayat",
+      "slug": "15-bahwa-berdasarkan-hal-hal-yang-diuraikan-di-atas-telah-terbukti-pasal-39-ayat",
+      "text": "(1) Undang -Undang Nomor 1 Tahun 1974 sepanjang frasa Perceraian hanya \ndapat dilakukan di depan Sidang Pengadilan telah merugik an hak \nkonstitusional Pemohon sebagaimana yang disebut dalam Pasal 28D ayat (1) \nUUD 1945 dan Pasal Pasal 28H ayat 2 UUD 1945, sehingga Pasal 39 ayat (1) \nUndang-Undang Nomor 1 Tahun 1974 sepanjang frasa Perceraian hanya \ndapat dilakukan di depan Sidang Penga dilan bertentangan dengan UUD \n1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang tidak \ndimaknai ( conditionally constitutional ) “perceraian hanya dapat dilakukan di \ndepan Sidang Pengadilan setelah suami atau istri memperoleh \nketerangan bimbingan per kawinan dari pemuka agama yang hukum \nagamanya melarang perceraian”;",
+      "start_line": 320,
+      "end_line": 330
+    },
+    {
+      "heading": "PETITUM",
+      "slug": "petitum",
+      "text": "Bahwa, berdasarkan seluruh uraian permohonan di  atas, Pemohon memohon \nkepada Mahkamah Konstitusi yang memeriksa, mengadili dan memutus \nPermohonan ini, untuk dapat memberikan putusan sebagai berikut:",
+      "start_line": 332,
+      "end_line": 334
+    },
+    {
+      "heading": "2. Menyatakan Pasal 39 ayat (1) Undang-Undang Nomor 1 Tahun 1974 sepanjang",
+      "slug": "2-menyatakan-pasal-39-ayat-1-undang-undang-nomor-1-tahun-1974-sepanjang",
+      "text": "frasa Perceraian hanya dapat dilakukan di depan Sidang Pengadilan \nbertentangan dengan UUD 1945 dan tidak mempunyai kekuatan hukum \nmengikat sepanjang tidak dimaknai ( conditionally constitutional ) “perceraian \nhanya dapat dilakukan di depan Sidang Pengadilan setelah suami atau istri \n\n 10 \nmemperoleh keterangan bimbingan perkawinan dari pemuka agama yang \nhukum agamanya melarang perceraian”;",
+      "start_line": 337,
+      "end_line": 344
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Republik Indonesia",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik-indonesia",
+      "text": "sebagaimana mestinya; \nAtas dikabulkannya Permohonan ini Pemohon mengucapkan terima kasih. \n[2.2]  Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti surat/tuli san yang diberi tanda bukti P -1 sampai dengan \nbukti P-6, sebagai  berikut:",
+      "start_line": 346,
+      "end_line": 350
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Sertifikat Pendeta Pembantu dari Badan Pekerja",
+      "slug": "2-bukti-p-2-fotokopi-sertifikat-pendeta-pembantu-dari-badan-pekerja",
+      "text": "Daerah Gereja B ethel Indonesia, Sumatera Barat, tanggal \n29 agustus 2008;",
+      "start_line": 353,
+      "end_line": 354
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang -Undang Nomor 1 Tahun 1974 tentang",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-nomor-1-tahun-1974-tentang",
+      "text": "Perkawinan. \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam berita acara \npersidangan, yang merup akan satu kesatuan yang tidak  terpisahkan dengan \nputusan ini.",
+      "start_line": 356,
+      "end_line": 360
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD 1945 ), \nPasal 10 a yat (1) huruf a Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diubah dengan Undang -Undang Nomor \n8 Tahun 2011 tentang Perubahan Atas Undang -Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi (Lembaran Negara Republik In donesia Tahun 2011 \nNomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 5226, \nselanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor \n48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076), Mahkamah  berwenang, antara lain,  mengadili pada \n\n 11 \ntingkat pertama dan terakhir yang putusannya bersifat final untuk menguji Undang -\nUndang terhadap UUD 1945; \n[3.2] Menimbang bahwa oleh karena per mohonan Pemohon adalah \npermohonan untuk menguji konstitusionalitas norma undang -undang in casu   \nPasal 39 ayat (1)  Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan \n(Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1 dan Tambahan \nLembaran Negara Republ ik Indonesia Nomor 3019, selanjutnya disebut UU \nPerkawinan) terhadap UUD 1945 maka Mahkamah berwenang mengadili \npermohonan a quo; \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan  permohonan pengujian Undang -Undang \nterhadap UUD 1945 adalah mereka yang menganggap hak dan/atau kewenangan \nkonstitusionalnya yang diberikan oleh UUD 1945 dirugikan oleh berlakunya suatu \nUndang-Undang, yaitu: \na.  perorangan warga negara Indonesia (termasuk  kelompok orang yang  \nmempunyai kepentingan sama); \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik Indonesia \nyang diatur dalam undang-undang;",
+      "start_line": 362,
+      "end_line": 395
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap UUD 1945 \nharus menjelaskan terlebih dahulu: \na. kedudukannya sebagai para Pemohon sebagaimana dimaksud dalam Pasal 51 \nayat (1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional yang diberikan \noleh UUD 1945 yang diakibatkan oleh berlakunya undang -undang yang \ndimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada huruf a; \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Nomor 006/PUU -III/2005 \nbertanggal 31 Mei 2005 dan Putusan Nomor 11/PUU -V/2007 bertanggal 20 \n\n 12 \nSeptember 2007 serta putusan -putusan selanjutnya, telah berpendirian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dimaksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na.  adanya hak dan/atau kewenangan konstitusional para Pemohon yang diberikan \noleh UUD 1945; \nb.  hak dan/atau kewenangan konstitusional tersebut oleh para Pemohon \ndianggap dirugikan oleh berlakunya undang -undang yang dimohonkan \npengujian;",
+      "start_line": 398,
+      "end_line": 416
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (khusus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-khusus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 418,
+      "end_line": 419
+    },
+    {
+      "heading": "d. adanya hubungan sebab -akibat (causal verband ) antara kerugian dimaksud",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian-dimaksud",
+      "text": "dan berlakunya undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi; \n[3.5] Menimbang bahwa berdasarkan  uraian pada Paragraf [3.3] dan \nParagraf [3.4] di atas, selanjutnya Mahkamah akan mempertimbangkan mengenai \nkedudukan hukum Pemohon sebagai berikut:",
+      "start_line": 421,
+      "end_line": 426
+    },
+    {
+      "heading": "1. Bahwa norma undang -undang yang dimohonkan pengujian",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-pengujian",
+      "text": "konstitusionalitasnya dalam permohonan a quo  adalah frasa dalam Pasal 39 \nayat (1) UU Perkawinan, yang menyatakan: \n“(1) Perceraian hanya dapat dilakukan di depan Sidang Pengadilan ……..”",
+      "start_line": 428,
+      "end_line": 430
+    },
+    {
+      "heading": "2. Bahwa Pemohon mendalilkan dalam permohonannya sebagai perseorangan",
+      "slug": "2-bahwa-pemohon-mendalilkan-dalam-permohonannya-sebagai-perseorangan",
+      "text": "warga negara Indonesia dan  berprofesi sebagai Pendeta Pembantu [vide bukti \nP-2]. Dalam kualifikasinya tersebut, Pemohon mengganggap hak \nkonstitusionalnya atas pengakuan, jaminan, perlindungan dan kepastian hukum \nyang adil, serta mendapat kemudahan dan perlakuan khusus untuk memperoleh \nkesempatan dan manfaat yang sama guna mencap ai persamaan dan keadilan , \nsebagaimana dijamin dalam Pasal 28 D ayat (1) dan Pasal 28H ayat (2) UUD \n1945 menjadi terhalangi dengan berlakunya frasa “perceraian hanya dapat \ndilakukan di depan sidang pengadilan” dalam Pasal 39 ayat (1)  UU Perkawinan \nkarena Pemohon tidak dapat memberikan pelayanan dalam rangka mencegah \nperceraian pada jemaatnya; \n\n 13",
+      "start_line": 432,
+      "end_line": 443
+    },
+    {
+      "heading": "3. Bahwa Pemohon lebih lanjut menjelaskan anggapan kerugian hak konstitusional",
+      "slug": "3-bahwa-pemohon-lebih-lanjut-menjelaskan-anggapan-kerugian-hak-konstitusional",
+      "text": "yang dideritanya sebagaimana yang dijamin dalam Pasal 28D ayat (1) dan \nPasal 28H ayat (2)  UUD 1945 yang semata -mata Pemohon hanya mengutip \nrumusan norma Pasal 39 ayat (1) UU Perkawinan secara partial yakni frasa \n“perceraian hanya dapat dilakukan di depan sidang pengadilan ……”, Adapun \nsecara utuh ketentuan Pasal 39 UU Perkawinan menyatakan sebagai berikut: \n(1)  Perceraian hanya dapat dilakukan di depan  Sidang Pengadilan \nsetelah Pengadilan yang bersangkutan berusaha dan tidak berhasil \nmendamaikan kedua belah pihak. \n(2)  Untuk melakukan perceraian harus ada cukup alasan, bahwa \nantara suami isteri itu tidak akan dapat hidup rukun sebagai suami \nisteri. \n(3)  Tatacara   perceraian   didepan   sidang   Pengadilan   diatur   \ndalam peraturan perundangan tersendiri. \n \nNorma pasal a quo merupakan norma umum yang berlaku untuk semua agama \nyang diakui di Negara  Indonesia. Artinya perceraian dari agama mana pun \nhanya dapat dilakukan di depan sidang pengadilan, apakah untuk agama \nKristen baik Kristen Protestan maupun Kristen Katholik, demikian pula untuk \nagama Islam perceraian juga hanya dapat dilak ukan di depan s idang \npengadilan. Sebelum pengadilan memutus perceraian tersebut harus terlebih \ndahulu dilakukan proses perdamaian antara suami dan istri, namun apabila \ntidak berhasil maka perceraian dilakukan di depan sidang pengadilan, dan \nketika perceraian diajukan ke pengadilan harus di lakukan prosedur mediasi  \n(vide Peraturan Mahkamah Agung Nomor 1 Tahun 2016 tenta ng Prosedur \nMediasi).  \nMediasi dalam kasus perceraian merupakan cara penyelesaian \nsengketa melalui proses perundingan untuk memperoleh kesepakatan Para \nPihak dengan dibantu oleh Mediator . Secara filosofis mediasi merupakan cara \npenyelesaian sengketa secara damai yang tepat, efektif, dan dapat membuka \nakses yang lebih  kepada Para Pihak untuk memperoleh penyelesaian yang \nmemuaskan serta berkeadilan . Dengan demi kian, sebelum sampai pada \nputusan hakim pasangan suami -isteri sah bercerai maka ada proses mediasi \nagar pasangan suami -isteri tidak bercerai . Oleh karena itu alasan Pemohon \nbahwa Pemohon tidak dapat memberikan pelayanan dalam rangka mencegah \nperceraian pada jemaatnya merupakan alasan yang tidak dapat dijadikan dasar \nuntuk menyatakan bahwa hak konstitusional Pemohon dirugikan oleh \n\n 14 \nberlakunya frasa  “perceraian hanya dapat dilakukan di depan sidang \npengadilan” dalam Pasal 39 ayat (1) UU Perkawinan.",
+      "start_line": 445,
+      "end_line": 484
+    },
+    {
+      "heading": "4. Bahwa apabi la dihubungkan antara kerugian hak konstitusional Pemohon",
+      "slug": "4-bahwa-apabi-la-dihubungkan-antara-kerugian-hak-konstitusional-pemohon",
+      "text": "dengan berlakunya frasa “perceraian hanya dapat dilakukan di depan sidang \npengadilan” dalam Pasal 39 ayat (1)  UU Perkawinan tidak memiliki hubungan \nsebab akibat ( causal verband). Hak konstitusional Pemohon yang dijamin oleh \nUUD 1945 khususnya Pasal 28D ayat (1) dan Pasal 28H ayat (2) sama sekali \ntidak ada yang dirugikan oleh berlakunya frasa “perceraian hanya dapat \ndilakukan di depan sidang pengadilan” dalam Pasal 39 ayat (1) UU Perkawinan. \nSehingga dikabulkan atau tidak dikabulkan permohonan Pemohon tidak ada \nkerugian hak konstitusional Pemohon akibat berlakunya frasa “perceraian hanya \ndapat dilakukan di depan sidang pengadilan” dalam Pasal 39 ayat (1)  UU \nPerkawinan; \nBerdasarkan seluruh uraian pertim bangan di atas, menurut Mahkamah, Pemohon \nselaku per orangan warga negara Indonesia dan berprofesi sebagai Pendeta \nPembantu yang memiliki tugas untuk memberikan pelayanan keagamaan kepada \njemaatnya tidaklah mengalami kerugian baik secara langsung maupun tid ak \nlangsung dengan berlakunya norma a quo  serta tidak terdapat pula hubungan \nsebab-akibat antara anggapan kerugian Pemohon dengan berlakunya norma        \na quo.  Sebab yang seharusnya mempunyai hubungan hukum secara langsung \nseandainya adanya anggapan keru gian konstitusional dengan berlakunya norma \ntersebut adalah para pihak yang akan melakukan perceraian itu sendiri. Dengan \ndemikian menurut Mahkamah Pemohon tidak memiliki kedudukan hukum untuk \nbertindak sebagai Pemohon dalam permohonan a quo. \n[3.6] Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan Pemohon, namun oleh karena Pemohon tidak memiliki kedudukan \nhukum untuk mengajukan permohonan. Sehingga pokok permohonan Pemohon \ntidak dipertimbangkan lebih lanjut.",
+      "start_line": 486,
+      "end_line": 510
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penila ian atas fakta dan hukum sebagaimana diuraikan",
+      "start_line": 512,
+      "end_line": 512
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "15 \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon tidak memiliki kedudukan hukum untuk mengajukan permohonan        \na quo; \n[4.3] Pokok permohonan tidak dipertimbangkan. \nBerdasarkan Undang -Undang Dasar Negara Republik Indonesia Tahun \n1945, Undang -Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah dengan Undang -Undang Nomor 8 Tahun 2011 tentang \nPerubahan Atas Undang -Undang Nomor  24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 70, \nTambahan Lembaran Negara Republik Indonesia Nomor 5226), dan Undang -\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indones ia Tahun 2009 Nomor 157, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5076);",
+      "start_line": 514,
+      "end_line": 529
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \n \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembilan \nHakim Konstitusi yaitu Anwar  Usman selaku Ketua merangkap Anggota, Aswanto, \nWahiduddin Adams,  Suhartoyo, Enny Nurbaningsih, Arief Hidayat, I Dewa Gede \nPalguna, Manahan M.P Sitompul, dan Saldi Isra, masing-masing sebagai Anggota, \npada hari Kamis, tanggal sepuluh, bulan Oktober, tahun dua ribu sembilan \nbelas, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk \numum pada hari Rabu, tanggal dua puluh tiga,  bulan Oktober, tahun dua ribu \nsembilan belas, selesai diucapkan pukul 11.26 WIB, oleh tujuh Hakim Konstitusi \nyaitu Aswanto, selaku Ketua merangkap Anggota, Suhartoyo, Enny Nurbaningsih, \nArief Hidayat, I Dewa Gede Palguna , Manahan M.P Sitompul , dan Saldi Isra , \nmasing-masing sebagai Anggota, dengan didampingi oleh Dian Chusnul Chatimah \nsebagai Panitera Pengganti, serta diha diri oleh Pemohon, Presiden atau yang \nmewakili, dan Dewan Perwakilan Rakyat atau yang mewakili. \n\n 16 \nKETUA, \nttd.  \nAswanto \nANGGOTA-ANGGOTA, \nttd. \nSuhartoyo  \nttd.  \nEnny Nurbaningsih  \n ttd. \nArief Hidayat  \nttd.  \nI Dewa Gede Palguna \n ttd. \nManahan MP Sitompul \nttd.  \nSaldi Isra \nPANITERA PENGGANTI, \nttd. \nDian Chusnul Chatimah",
+      "start_line": 531,
+      "end_line": 569
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Pdp. Rolas Jakson Tampubolon, S.H",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 1/1974 tentang Perkawinan"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 28H ayat (2)",
+      "PASAL 28D ayat (1)",
+      "Pasal 28H ayat (1)",
+      "Pasal 28H",
+      "Pasal 28",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P -1",
+      "BUKTI P-6",
+      "BUKTI P-2",
+      "BUKTI P-1",
+      "BUKTI P-3",
+      "REFERENSI:40/PUU-XVII/2019",
+      "REFERENSI:81/PAN.MK/2019dandicatatdalamBukuRegistrasiPerkaraKonstitusidenganNomor40/PUU-XVII/2019",
+      "REFERENSI:06/PMK/2005",
+      "REFERENSI:006/PUU-III/2005bertanggal31Mei2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "depan Sidang Pengadilan setelah suami atau istri memperoleh",
+    "(3) Tatacara perceraian didepan sidang Pengadilan diatur",
+    "HANYA DAPAT DILAKUKAN DIDEPAN SIDANG PENGADILAN MERUGIKAN"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Aswanto",
+      "Suhartoyo",
+      "Enny Nurbaningsih",
+      "Arief Hidayat",
+      "I Dewa Gede Palguna",
+      "Manahan MP Sitompul",
+      "Saldi Isra"
+    ],
+    "clerks": [
+      "Dian Chusnul Chatimah"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "40/PUU-XVII/2019",
+      "81/PAN.MK/2019dandicatatdalamBukuRegistrasiPerkaraKonstitusidenganNomor40/PUU-XVII/2019",
+      "06/PMK/2005",
+      "006/PUU-III/2005bertanggal31Mei2005danPutusanNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "40/PUU-XVII/2019",
+      "81/PAN.MK/2019dandicatatdalamBukuRegistrasiPerkaraKonstitusidenganNomor40/PUU-XVII/2019",
+      "06/PMK/2005",
+      "006/PUU-III/2005bertanggal31Mei2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

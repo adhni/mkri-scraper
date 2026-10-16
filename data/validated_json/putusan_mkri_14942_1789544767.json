@@ -1,0 +1,914 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14942_1789544767.pdf",
+    "file_name": "putusan_mkri_14942_1789544767.pdf",
+    "page_count": 61,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14942_1789544767.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "300/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-09-16",
+    "decision_date_raw": "enam belas, bulan September, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 300/PUU-XXIV/2026",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili pengujia n undang-undang pada tingkat pertama dan  \nterakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang \nNomor 12 Tahun 2012 tentang Pendidikan Tinggi terhadap Undang-U ndang Dasar \nNegara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 5,
+      "end_line": 9
+    },
+    {
+      "heading": "1. Nama : Novia Indri Apsari",
+      "slug": "1-nama-novia-indri-apsari",
+      "text": "Pekerjaan : Mahasiswa \n Alamat :  Jalan Pondok Pesantren Kp. Rumbut, RT 001/RW 009, \nKelurahan/Desa Pasir Gunung Selatan, Kecamatan \nCimanggis, Kota Depok, Provinsi Jawa Barat  \nSelanjutnya disebut sebagai------------------------------------------------Pemohon I;",
+      "start_line": 11,
+      "end_line": 15
+    },
+    {
+      "heading": "2. Nama : Selfi Yurika",
+      "slug": "2-nama-selfi-yurika",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Beting Sawah I, RT 015/RW 009, \nKelurahan/Desa Semper Barat, Kecamatan Cilincing, \nJakarta Utara, Provinsi DKI Jakarta \nSelanjutnya disebut sebagai-----------------------------------------------Pemohon II;",
+      "start_line": 17,
+      "end_line": 21
+    },
+    {
+      "heading": "3. Nama : Ekwala Nurcahyani",
+      "slug": "3-nama-ekwala-nurcahyani",
+      "text": "Pekerjaan : Mahasiswa \n Alamat :  Kp. Picung, RT 005/RW 005, Kelurahan/Desa Pasar \nKemis, Kecamatan Pasar Kemis, Kabupaten \nTangerang, Provinsi Banten \nSelanjutnya disebut sebagai-----------------------------------------------Pemohon III;",
+      "start_line": 23,
+      "end_line": 27
+    },
+    {
+      "heading": "4. Nama : Najwa Adriana Putri",
+      "slug": "4-nama-najwa-adriana-putri",
+      "text": "Pekerjaan : Mahasiswa \n\n\n \n \n2 \n Alamat : Jalan Sederhana VIII/147 CJT II, RT 005/RW 006, \nKelurahan/Desa Gedong, Kecamatan Pasar Rebo, \nJakarta Timur, Provinsi DKI Jakarta \nSelanjutnya disebut sebagai----------------------------------------------Pemohon IV;",
+      "start_line": 29,
+      "end_line": 38
+    },
+    {
+      "heading": "5. Nama : Widiati Helmida Juliana",
+      "slug": "5-nama-widiati-helmida-juliana",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Tanjung Pinang Barat \nSelanjutnya disebut sebagai-----------------------------------------------Pemohon V;",
+      "start_line": 40,
+      "end_line": 42
+    },
+    {
+      "heading": "6. Nama : Maratun Soleha Salsa",
+      "slug": "6-nama-maratun-soleha-salsa",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Kp. Kelapa Dua, RT 001/RW 008, Kelurahan/Desa \nPadurenan, Kecamatan Mustikajaya, Kota Bekasi, \nProvinsi Jawa Barat \nSelanjutnya disebut sebagai----------------------------------------------Pemohon VI;",
+      "start_line": 44,
+      "end_line": 48
+    },
+    {
+      "heading": "7. Nama : Matius Rangga Wicaksono",
+      "slug": "7-nama-matius-rangga-wicaksono",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Perum Bukit Asri Blok C4/8, RT 003/RW 009, \nKelurahan/Desa Pabuaran, Kecamatan Cibinong, \nKabupaten Bogor, Provinsi Jawa Barat \nSelanjutnya disebut sebagai---------------------------------------------Pemohon VII;",
+      "start_line": 50,
+      "end_line": 54
+    },
+    {
+      "heading": "8. Nama : Claudio Ali Zein Tanjung",
+      "slug": "8-nama-claudio-ali-zein-tanjung",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Kp. Pedaengan, RT 013/RW 008, Kelurahan/Desa \nPenggilingan, Kecamatan Cakung, Jakarta Timur, \nProvinsi DKI Jakarta \nSelanjutnya disebut sebagai---------------------------------------------Pemohon VIII;",
+      "start_line": 56,
+      "end_line": 60
+    },
+    {
+      "heading": "9. Nama : Esri Setianingsih",
+      "slug": "9-nama-esri-setianingsih",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Derman, RT 001/ RW 004, Desa Joho, Kecamatan \nBawang, Kabupaten Banjarnegara, Provinsi Jawa \nTengah  \nSelanjutnya disebut sebagai----------------------------------------------Pemohon IX;\n\n \n \n3 \nBerdasarkan Surat Kuasa bertanggal 27 Agustus 2026 memberi kuas a kepada \nBernita Matondang yang bertindak untuk dan atas nama Pemberi Kuasa;  \nSelanjutnya Pemohon I sampai  dengan Pemohon IX disebut sebagai -----------------\n---------------------------------------------------------------------------------------- para Pemohon; \n [1.2] Membaca permohonan para Pemohon;  \nMendengar keterangan para Pemohon;  \nMemeriksa bukti-bukti para Pemohon.",
+      "start_line": 62,
+      "end_line": 77
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 4 Agustus 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada \ntanggal 4 Agustus 2026 berdasarkan Akta Pengajuan Permohonan Pe mohon \nNomor 300/PUU/PAN.MK/AP3/08/2026 dan telah dicatat dalam Buku R egistrasi \nPerkara Konstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 300/PUU-\nXXIV/2026 pada tanggal 4 Agustus 2026, yang telah diperbaiki da n diterima oleh \nMahkamah pada tanggal 31 Agustus 2026, pada pokoknya menguraika n hal-hal \nsebagai berikut. \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 79,
+      "end_line": 87
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (selanjutnya  disebut UUD NRI 1945) \nmenyatakan:   \n“kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan badan \nperadilan yang berada dibawahnya dalam lingkungan peradilan umu m, \nlingkungan peradilan agama, lingkungan peradilan militer, lingk ungan \nperadilan tata usaha negara, dan oleh sebuah Mahkamah Konstitusi”;",
+      "start_line": 89,
+      "end_line": 94
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) Perubahan Keempat UUD N RI 1945:",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-perubahan-keempat-uud-n-ri-1945",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan lemba ga \nnegara yang kewenangannya diberikan oleh Undang-Undang Dasar, \n\n \n \n4 \nmemutus perubahan partai politik dan memutus perselisihan tenta ng hasil \npemilihan umum”;",
+      "start_line": 96,
+      "end_line": 105
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-t-ahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana te lah \ndiubah terakhir dalam Undang-Undang (UU) Nomor 13 Tahun 2022 te ntang \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-Undangan menegaskan bahwa:   \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan Undan g-\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 107,
+      "end_line": 113
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 T ahun",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-t-ahun",
+      "text": "2009 tentang Kekuasaan Kehakiman, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; b. \nmemutus sengketa kewenangan lembaga negara yang kewenangannya \ndiberikan oleh Undang-Undang Dasar Negara Republik Indonesia Ta hun \n1945; c. memutus pembubaran partai politik; d. memutus perselis ihan \ntentang hasil pemilihan umum; dan e. kewenangan lain yang diber ikan oleh \nundang-undang”;",
+      "start_line": 115,
+      "end_line": 123
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-t-ahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah terakhir \ndengan Undang-undang (UU) Nomor 7 Tahun 2020 tentang Perubahan \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi, menyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; b. \nmemutus sengketa kewenangan lembaga negara yang kewenangannya \ndiberikan oleh Undang-Undang Dasar Negara Republik Indonesia Ta hun \n1945; c. memutus pembubaran partai politik; dan d. memutus pers elisihan \ntentang hasil pemilihan umum.” \n\n \n \n5",
+      "start_line": 125,
+      "end_line": 139
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor",
+      "slug": "6-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konstitusi-nomor",
+      "text": "7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujian Unda ng-\nUndang, menyatakan:   \n“Objek Permohonan PUU adalah Undang-Undang dan Perppu”;   \nOleh karenanya, Mahkamah Konstitusi berwenang mengadili perkara  a quo \nkarena Para Pemohon mengajukan permohonan pengujian konstitusionalitas \nundang-undang yaitu: Undang-Undang Nomor 12 Tahun 2012 tentang \nPendidikan Tinggi  (Lembaran Negara Republik Indonesia Tahun 20 12 \nNomor 158, Tambahan Lembaran Negara Republik Indonesia Nomor 5336);",
+      "start_line": 141,
+      "end_line": 148
+    },
+    {
+      "heading": "7. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah nyata bahwa",
+      "slug": "7-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-nyata-bahwa",
+      "text": "objek permohonan a quo  memenuhi syarat sebagai objek permohonan \npengujian materiil Undang-Undang terhadap UUD NRI 1945. Oleh \nkarenanya, Mahkamah Konstitusi berwenang untuk memeriksa, menga dili, \ndan memutus konstitusionalitas Undang-Undang terhadap UUD NRI 1 945 \ndalam perkara a quo yang diajukan oleh PARA PEMOHON.   \nII. KEDUDUKAN HUKUM ( LEGAL STANDING ) DAN KERUGIAN",
+      "start_line": 150,
+      "end_line": 155
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan bahwa PARA",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menyatakan-bahwa-para",
+      "text": "PEMOHON adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu:  \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip negara kesatuan RI yang \ndiatur dalam undang-undang;",
+      "start_line": 158,
+      "end_line": 163
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, maka terlebih dahulu Para Pemohon",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-maka-terlebih-dahulu-para-pemohon",
+      "text": "menguraikan kedudukan hukum ( legal standing ), sebagai berikut, Para \nPemohon merupakan perseorangan warga negara Indonesia yang dibuktikan \ndengan kepemilikan Kartu Tanda Penduduk (vide p-3 s.d p-10) dan berstatus \nsebagai Mahasiswa Ilmu Hukum dibuktikan dengan Kartu Tanda Mahasiswa \n(vide p-11);  \n\n \n \n6",
+      "start_line": 167,
+      "end_line": 175
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2) menegaskan Para",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaskan-para",
+      "text": "Pemohon memenuhi dan memiliki kedudukan hukum ( legal standing ) \nsebagai perseorangan warga negara Indonesia sehingga Para Pemoh on \ndapat mengajukan permohonan pengujian UU terhadap UUD NRI 1945.  \nSelanjutnya, Para Pemohon akan menguraikan kerugian konstitusional yang \ndialami sehubungan dengan berlakunya Undang-Undang yang diujika n \nkonstitusionalitasnya dalam perkara a quo.",
+      "start_line": 177,
+      "end_line": 182
+    },
+    {
+      "heading": "4. Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi No. 07 Tahun",
+      "slug": "4-bahwa-dalam-pasal-4-ayat-2-peraturan-mahkamah-konstitusi-no-07-tahun",
+      "text": "2025 tentang Pedoman Beracara Dalam Perkara Pengujian Undang-Undang \nditentukan 5 syarat mengenai kerugian konstitusional, yaitu:  \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang-Undang \nDasar Negara Republik Indonesia 1945.  \nb. Bahwa hak konstitusional pemohon tersebut dianggap oleh para  \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 184,
+      "end_line": 189
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat spesifik",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat-spesifik",
+      "text": "atau khusus dan aktual atau setidaknya potensial yang menurut \npenalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 191,
+      "end_line": 192
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya Undang-",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya-undang",
+      "text": "Undang yang dimohonkan untuk diuji.  \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan mak a \nkerugian konstitusional yang didalilkan tidak akan atau tidak terjadi lagi.",
+      "start_line": 194,
+      "end_line": 196
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional Para Pemohon di jamin oleh",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-para-pemohon-di-jamin-oleh",
+      "text": "UUD NRI 1945 yang telah diatur dalam beberapa pasal yang diguna kan \nsebagai dasar pengujian dalam perkara a quo, yaitu:  \na. Pasal 28D ayat (1) UUD NRI 1945, menyatakan “Setiap orang berhak atas \npengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta \nperlakuan yang sama di hadapan hukum.”  \nb. Pasal 28I ayat (2) UUD NRI 1945, menyatakan “Setiap orang be rhak \nbebas dari perlakuan yang bersifat diskriminatif atas dasar apa  pun dan \nberhak mendapatkan perlindungan terhadap perlakuan yang diskriminatif \nitu.”",
+      "start_line": 198,
+      "end_line": 206
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam UUD",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam-uud",
+      "text": "NRI 1945 tersebut telah dirugikan dengan pasal sebagai berikut: \n\n \n \n7 \nPasal 33 ayat (3) dan ayat (6) dan Pasal 42 ayat (1) Undang-Undang Nomor \n12 Tahun 2012 tentang Pendidikan Tinggi (Lembaran Negara Republ ik \nIndonesia Tahun 2012 Nomor 158, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5336)  yang menyatakan:  \nPasal 33: \n(3) Program Studi diselenggarakan atas izin Menteri setelah mem enuhi \npersyaratan minimum akreditasi. \n(6) Program Studi wajib diakreditasi ulang pada saat jangka wak tu \nakreditasinya berakhir. \nPasal 42 ayat (1):  \n(1) Ijazah diberikan kepada lulusan pendidikan akademik dan pen didikan \nvokasi sebagai pengakuan terhadap prestasi belajar dan/atau \npenyelesaian suatu program studi terakreditasi yang diselenggar akan \noleh Perguruan Tinggi.",
+      "start_line": 208,
+      "end_line": 226
+    },
+    {
+      "heading": "7. Bahwa Pemohon I merupakan mahasiswa yang pada saat mengajuka n",
+      "slug": "7-bahwa-pemohon-i-merupakan-mahasiswa-yang-pada-saat-mengajuka-n",
+      "text": "permohonan ini telah berada pada semester VIII, sehingga Pemohon I telah \nmenjalani sebagian besar proses pendidikan tinggi dan berada pa da tahap \nakhir untuk menyelesaikan seluruh kewajiban akademiknya serta \nmemperoleh pengakuan atas penyelesaian Program Studi dalam bent uk \nijazah. Bahwa sejak pertama kali diterima sebagai mahasiswa, Pe mohon I \nmemilih dan memasuki Program Studi dengan keyakinan bahwa Progr am \nStudi tersebut merupakan Program Studi yang sah diselenggarakan  o l e h  \nPerguruan Tinggi karena telah memperoleh izin penyelenggaraan d an \nmemenuhi persyaratan akreditasi sebagaimana ditentukan dalam Un dang-\nUndang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi. Bahwa pil ihan \nPemohon I untuk memasuki Program Studi tersebut bukan merupakan  \nkeputusan yang bersifat sementara, melainkan merupakan keputusa n \npendidikan yang mempunyai konsekuensi akademik, waktu, tenaga, biaya, \ndan perencanaan masa depan. Bahwa Pemohon I telah menginvestasi kan \nwaktu selama bertahun-tahun untuk mengikuti proses pembelajaran , \nmemenuhi beban studi, mengikuti evaluasi akademik, menyelesaikan tugas, \nujian, penelitian, serta berbagai kewajiban lain yang ditentuka n oleh \nPerguruan Tinggi. Bahwa dalam proses tersebut Pemohon I secara wajar \nmengandalkan keadaan hukum dan akademik Program Studi ketika \n\n \n \n8 \nPemohon I diterima sebagai mahasiswa. Bahwa persoalan kemudian timbul \nketika status akreditasi Program Studi dapat berubah pada saat mahasiswa \nmasih menjalani masa studi, sementara ketentuan a quo tidak memberikan \nkepastian mengenai bagaimana perubahan tersebut harus diperlaku kan \nterhadap mahasiswa yang telah terlebih dahulu diterima berdasar kan status \nakreditasi sebelumnya. Bahwa Pasal 33 ayat (3) mengatur bahwa P rogram \nStudi diselenggarakan atas izin Menteri setelah memenuhi persya ratan \nminimum akreditasi, sedangkan Pasal 33 ayat (6) menentukan kewa jiban \nakreditasi ulang ketika jangka waktu akreditasi berakhir;",
+      "start_line": 228,
+      "end_line": 259
+    },
+    {
+      "heading": "8. Bahwa pada sisi lain Pasal 42 ayat (1) mengaitkan pemberian ijazah dengan",
+      "slug": "8-bahwa-pada-sisi-lain-pasal-42-ayat-1-mengaitkan-pemberian-ijazah-dengan",
+      "text": "penyelesaian suatu Program Studi terakreditasi. Bahwa konstruks i tersebut \nmenimbulkan ketidakpastian bagi Pemohon I yang telah berada pad a \nsemester VIII mengenai status akreditasi yang akan menjadi dasa r \npengakuan terhadap penyelesaian pendidikannya pada saat Pemohon  I  \ndinyatakan lulus. Bahwa ketidakpastian tersebut bukan persoalan  t e o r i t i s  \nkarena Pemohon I berada pada tahap akhir pendidikan dan perubahan status \nakreditasi terjadi dalam rentang waktu ketika Pemohon I masih m empunyai \nkepentingan langsung terhadap status Program Studinya. Bahwa akibat tidak \nadanya norma yang secara jelas melindungi mahasiswa yang telah diterima \nsebelum perubahan akreditasi, Pemohon I tidak memperoleh jaminan bahwa \nkondisi hukum yang menjadi dasar Pemohon I memilih dan menjalan i \npendidikan akan tetap memperoleh pengakuan yang setara sampai d engan \nPemohon I menyelesaikan pendidikan. Bahwa keadaan tersebut \nmenimbulkan kerugian konstitusional berupa terganggunya hak Pem ohon I \natas kepastian hukum yang adil sebagaimana dijamin Pasal 28D ay at (1) \nUUD NRI 1945. Bahwa apabila ketidakpastian tersebut terus berla ngsung \nsampai Pemohon I memperoleh ijazah, maka terdapat pula potensi perlakuan \nberbeda antara mahasiswa yang menyelesaikan pendidikan pada Pro gram \nStudi yang sama tetapi berada pada periode akreditasi yang berb eda, \npadahal mereka telah memilih Program Studi tersebut berdasarkan keadaan \nakreditasi yang berlaku pada saat penerimaan. Dengan demikian, terdapat \nhubungan sebab-akibat yang jelas antara tidak adanya pengaturan mengenai \nakibat perubahan status akreditasi terhadap mahasiswa existing dengan \nkerugian konstitusional yang dialami Pemohon I. \n\n \n \n9",
+      "start_line": 261,
+      "end_line": 288
+    },
+    {
+      "heading": "9. Bahwa Pemohon II merupakan mahasiswa semester VII yang telah menjalani",
+      "slug": "9-bahwa-pemohon-ii-merupakan-mahasiswa-semester-vii-yang-telah-menjalani",
+      "text": "sebagian besar masa pendidikan tinggi pada Program Studi yang dipilih dan \ndimasukinya ketika keadaan akreditasi Program Studi masih membe rikan \ndasar bagi Pemohon II untuk mempercayai bahwa pendidikan yang \nditempuhnya akan memperoleh pengakuan sesuai dengan kondisi ket ika \nPemohon II diterima. Bahwa Pemohon II tidak mempunyai kewenanga n \nuntuk menentukan, mempertahankan, menurunkan, maupun mengubah \nstatus akreditasi Program Studi karena kewenangan tersebut bera da dalam \nsistem penyelenggaraan dan penjaminan mutu pendidikan tinggi ya ng \nmelibatkan Perguruan Tinggi, Pemerintah, dan lembaga akreditasi . Bahwa \nPemohon II sebagai mahasiswa hanya berada dalam posisi menerima akibat \ndari keputusan mengenai status akreditasi tersebut. Bahwa keada an \ndemikian menjadi persoalan konstitusional ketika perubahan status akreditasi \ndapat terjadi pada saat Pemohon II masih aktif menjalani pendid ikan, \nsedangkan UU 12/2012 tidak secara eksplisit menentukan bagaiman a hak \nmahasiswa yang telah masuk sebelumnya harus dilindungi. Bahwa Pasal 33 \nayat (6) hanya menyatakan bahwa Program Studi wajib diakreditas i ulang \nketika jangka waktu akreditasinya berakhir, tetapi tidak member ikan \nketentuan mengenai konsekuensi perubahan hasil akreditasi terha dap \nmahasiswa yang telah diterima berdasarkan status sebelumnya.",
+      "start_line": 290,
+      "end_line": 308
+    },
+    {
+      "heading": "10. Bahwa ketidakjelasan tersebut menjadi semakin penting karen a Pasal 42",
+      "slug": "10-bahwa-ketidakjelasan-tersebut-menjadi-semakin-penting-karen-a-pasal-42",
+      "text": "ayat (1) menggunakan frasa “program studi terakreditasi” sebagai salah satu \ndasar pemberian ijazah kepada lulusan. Bahwa akibatnya Pemohon II \nmenghadapi ketidakpastian mengenai bagaimana status akreditasi yang \nberubah ketika dirinya masih berada dalam proses pendidikan aka n \nberpengaruh terhadap pengakuan atas penyelesaian pendidikan yan g \nsedang ditempuhnya. Bahwa Pemohon II telah membuat keputusan \npendidikan berdasarkan keadaan hukum yang berlaku ketika dirinya diterima, \ntermasuk mengalokasikan waktu, biaya, tenaga, dan kesempatan un tuk \nmengikuti pendidikan pada Program Studi tersebut. Bahwa perubah an \nkeadaan akreditasi setelah Pemohon II berada dalam sistem pendi dikan \ntersebut berada di luar kendali Pemohon II, namun akibat hukumn ya \nberpotensi dibebankan kepada Pemohon II. Bahwa keadaan tersebut  \nmenciptakan ketidakseimbangan karena mahasiswa tidak mempunyai \n\n \n \n10 \nkemampuan untuk mengantisipasi perubahan akreditasi, sementara \nperubahan tersebut dapat mempunyai konsekuensi terhadap perseps i, \npengakuan, dan nilai administratif dari pendidikan yang telah d itempuh. \nBahwa hal demikian berpotensi menempatkan Pemohon II pada posisi yang \ntidak pasti dibandingkan mahasiswa yang lulus sebelum perubahan  \nakreditasi. Bahwa ketidakpastian tersebut merupakan bentuk keru gian \nkonstitusional terhadap hak atas kepastian hukum yang adil seba gaimana \ndimaksud Pasal 28D ayat (1) UUD NRI 1945. Bahwa apabila mahasis wa \nyang berada dalam situasi yang sama tetapi hanya berbeda waktu kelulusan \nmemperoleh konsekuensi berbeda akibat perubahan akreditasi, pad ahal \nperbedaan tersebut bukan disebabkan oleh tindakan atau kesalaha n \nmahasiswa, maka terdapat pula persoalan perlakuan yang berbeda yang \nberpotensi bertentangan dengan Pasal 28I ayat (2) UUD NRI 1945.  O l e h  \nkarena itu, Pemohon II memiliki kepentingan konstitusional yang  langsung \nterhadap pengujian norma a quo.",
+      "start_line": 310,
+      "end_line": 341
+    },
+    {
+      "heading": "11. Bahwa Pemohon III, IV, dan Pemohon V merupakan mahasiswa semester V",
+      "slug": "11-bahwa-pemohon-iii-iv-dan-pemohon-v-merupakan-mahasiswa-semester-v",
+      "text": "yang pada saat diterima sebagai mahasiswa telah memasuki suatu \nhubungan pendidikan dengan Perguruan Tinggi berdasarkan keadaan  \nhukum dan akademik Program Studi yang berlaku pada saat penerim aan. \nBahwa Pemohon III, IV dan V telah menyelesaikan pendidikan sela ma \nbeberapa semester dan telah menginvestasikan waktu, biaya, tena ga, serta \nkesempatan untuk memperoleh pendidikan tinggi pada Program Stud i \ntersebut. Bahwa Pemohon III, IV da n V tidak memiliki kemampuan untuk \nmengendalikan proses akreditasi, tidak menentukan instrumen pen ilaian \nakreditasi, tidak menentukan hasil penilaian akreditasi, dan tidak mempunyai \nkewenangan untuk mempertahankan status akreditasi Program Studi. Bahwa \noleh karena itu, setiap perubahan status akreditasi yang terjad i selama \nPemohon III, IV dan V menempuh pendidikan merupakan keadaan yan g \nberada di luar kehendak dan kendali Pemohon III, IV dan V. Bahwa persoalan \nkonstitusional muncul karena Pasal 33 ayat (3) menghubungkan \npenyelenggaraan Program Studi dengan izin Menteri setelah memen uhi \npersyaratan minimum akreditasi, sementara Pasal 33 ayat (6) mengharuskan \nProgram Studi menjalani akreditasi ulang ketika masa akreditasinya berakhir. \nBahwa UU tersebut tidak secara tegas mengatur mengenai keduduka n \n\n \n \n11 \nmahasiswa yang telah diterima dan sedang menjalani pendidikan a pabila \nhasil reakreditasi kemudian menghasilkan status akreditasi yang  berbeda. \nBahwa keadaan tersebut menjadi relevan bagi Pemohon III, IV dan V karena \ndirinya masih berada di tengah masa studi dan belum dapat menge tahui \nsecara pasti status akreditasi yang akan berlaku ketika menyele saikan \npendidikan. Bahwa Pasal 42 ayat (1) menentukan bahwa ijazah dib erikan \nsebagai pengakuan terhadap prestasi belajar dan/atau penyelesai an suatu \nProgram Studi terakreditasi. Bahwa frasa tersebut tidak memberi kan \npenjelasan mengenai hubungan waktu antara status akreditasi ket ika \nmahasiswa diterima, status akreditasi selama mahasiswa menjalan i \npendidikan, dan status akreditasi ketika mahasiswa lulus. Bahwa akibat tidak \nadanya kejelasan tersebut, Pemohon III, IV dan V harus menjalani pendidikan \ndengan ketidakpastian mengenai konsekuensi hukum dari perubahan  \nakreditasi yang tidak disebabkan olehnya. Bahwa ketidakpastian tersebut \ndapat mempengaruhi perencanaan akademik maupun perencanaan kari er \nPemohon III, IV dan V karena status akreditasi Program Studi dapat menjadi \nsalah satu informasi yang digunakan pihak lain dalam menilai latar belakang \npendidikan seseorang. Bahwa keadaan tersebut pada akhirnya \nmenempatkan Pemohon III, IV dan V dalam posisi yang berbeda dar i \nmahasiswa yang menyelesaikan pendidikan sebelum perubahan akred itasi, \nmeskipun keduanya masuk dan menjalani pendidikan pada Program S tudi \nyang sama. Bahwa perbedaan tersebut berpotensi menjadi perlakua n yang \ntidak setara apabila tidak terdapat mekanisme perlindungan terh adap \nmahasiswa existing. Dengan demikian, terdapat kerugian konstitusional \nberupa ketidakpastian hukum sebagaimana dimaksud Pasal 28D ayat  ( 1 )  \nserta potensi perlakuan diskriminatif sebagaimana dimaksud Pasa l 28I ayat \n(2) UUD NRI 1945.",
+      "start_line": 343,
+      "end_line": 391
+    },
+    {
+      "heading": "12. Bahwa Pemohon VI dan Pemohon VIII merupakan mahasiswa semes ter III",
+      "slug": "12-bahwa-pemohon-vi-dan-pemohon-viii-merupakan-mahasiswa-semes-ter-iii",
+      "text": "yang relatif masih berada pada tahap awal pendidikan, tetapi ju stru karena \nmasih berada pada tahap awal tersebut, Pemohon VII mempunyai ma sa \npendidikan yang cukup panjang sebelum mencapai tahap kelulusan.  Bahwa \nPemohon VI dan Pemohon VIII telah memilih Program Studi berdasa rkan \nkeadaan yang diketahui ketika melakukan pendaftaran dan kemudia n \nditerima sebagai mahasiswa. Bahwa pilihan tersebut mempunyai \n\n \n \n12 \nkonsekuensi jangka panjang karena Pemohon VI dan Pemohon VIII a kan \nmenghabiskan beberapa tahun untuk memperoleh pendidikan, \nmenyelesaikan kurikulum, membangun kompetensi, dan pada akhirny a \nmemperoleh ijazah sebagai bukti penyelesaian pendidikan. Bahwa Pemohon \nVI dan Pemohon VIII  tidak dapat mengetahui secara pasti status  akreditasi \nyang akan berlaku pada saat dirinya lulus apabila status akredi tasi dapat \nberubah melalui proses reakreditasi selama masa studinya. Bahwa  \nketidakpastian tersebut tidak dapat dianggap sebagai risiko biasa yang harus \nditanggung mahasiswa karena status akreditasi berkaitan dengan sistem \nresmi penjaminan mutu pendidikan tinggi dan secara normatif berkaitan pula \ndengan pengakuan terhadap penyelesaian Program Studi. Bahwa Pas al 33 \nayat (3) mensyaratkan Program Studi diselenggarakan atas izin M enteri \nsetelah memenuhi persyaratan minimum akreditasi, sedangkan Pasa l 33 \nayat (6) mengharuskan akreditasi ulang ketika masa akreditasi b erakhir.  \nBahwa sementara itu Pasal 42 ayat (1) menghubungkan ijazah deng an \npenyelesaian Program Studi terakreditasi. Bahwa ketiga ketentua n tersebut \ntidak secara eksplisit mengatur perlindungan terhadap mahasiswa yang telah \nditerima ketika status akreditasi tertentu masih berlaku. Bahwa  akibatnya \nPemohon VI dan Pemohon VIII tidak memperoleh kepastian hukum \nmengenai apakah perubahan akreditasi di tengah masa studi akan \nmempengaruhi pengakuan terhadap pendidikan yang telah ditempuhn ya \nsejak awal. Bahwa apabila pada akhirnya mahasiswa yang masuk pa da \nperiode yang sama dapat memperoleh pengakuan yang berbeda hanya  \nkarena waktu kelulusan bertepatan dengan perubahan status akred itasi, \nmaka keadaan tersebut berpotensi menciptakan perbedaan perlakua n yang \ntidak berasal dari perbedaan kemampuan akademik mahasiswa, mela inkan \nsemata-mata dari perubahan administratif yang berada di luar ke ndali \nmahasiswa. Bahwa keadaan demikian berpotensi bertentangan denga n \nPasal 28I ayat (2) UUD NRI 1945. Bahwa pada saat yang sama \nketidakjelasan mengenai konsekuensi perubahan tersebut juga menimbulkan \nkerugian terhadap Pasal 28D ayat (1) UUD NRI 1945 karena Pemoho n VI \ndan Pemohon VIII tidak dapat memperkirakan akibat hukum dari pe ndidikan \nyang sedang ditempuhnya secara wajar dan rasional. Oleh karena itu, \nkerugian Pemohon VI dan Pemohon VIII mempunyai sifat aktual dal am \n\n \n \n13 \nbentuk ketidakpastian hukum dan sekaligus potensial berupa kons ekuensi \nterhadap pengakuan pendidikan pada saat lulus.",
+      "start_line": 393,
+      "end_line": 442
+    },
+    {
+      "heading": "13. Bahwa Pemohon VII merupakan mahasiswa semester III pada Program Studi",
+      "slug": "13-bahwa-pemohon-vii-merupakan-mahasiswa-semester-iii-pada-program-studi",
+      "text": "yang saat ini sedang ditempuhnya, dan sebelum menempuh pendidikan pada \nPerguruan Tinggi saat ini, Pemohon VII telah memiliki pengalama n \npendidikan tinggi dengan pernah menempuh dan menyelesaikan pendidikan \npada 2 (dua) Perguruan Tinggi yang berbeda serta telah memperoleh ijazah \ndari kedua Perguruan Tinggi tersebut. Bahwa berdasarkan pengala man \npendidikan tersebut, Pemohon VII mengetahui secara langsung bah wa \ndalam praktik penerbitan ijazah, status akreditasi Program Stud i dapat \ndicantumkan pada ijazah yang diterima oleh lulusan (vide p-16).  Bahwa \ndengan demikian, bagi Pemohon V II, status akreditasi Program St udi \nbukanlah sekadar informasi yang berada di luar hubungan pendidi kan, \nmelainkan merupakan informasi yang secara nyata dapat melekat p ada \ndokumen hasil pendidikan yang diterimanya setelah menyelesaikan  suatu \nProgram Studi. Bahwa pengalaman Pemohon VII tersebut menjadi re levan \ndengan ketentuan Pasal 42 ayat (1) UU Nomor 12 Tahun 2012 yang \nmenentukan bahwa ijazah diberikan sebagai pengakuan terhadap pr estasi \nbelajar dan/atau penyelesaian suatu Program Studi terakreditasi  y a n g  \ndiselenggarakan oleh Perguruan Tinggi. Bahwa Pemohon VII saat ini kembali \nmenjalani pendidikan tinggi dan telah berada pada semester III,  sehingga \nPemohon VII mempunyai kepentingan langsung terhadap kepastian \nmengenai status akreditasi Program Studi yang sedang ditempuhnya sampai \ndengan dirinya menyelesaikan pendidikan dan memperoleh ijazah. Bahwa \npersoalan tersebut menjadi semakin penting karena berdasarkan \npengalaman konkret Pemohon VII pada 2 (dua) Perguruan Tinggi \nsebelumnya, status akreditasi Program Studi dapat tercantum dal am ijazah \nyang menjadi dokumen resmi pengakuan atas penyelesaian pendidik an. \nBahwa sementara itu, Pasal 33 ayat (3) mengatur bahwa Program S tudi \ndiselenggarakan atas izin Menteri setelah memenuhi persyaratan minimum \nakreditasi, sedangkan ketentuan mengenai akreditasi ulang mengatur bahwa \nProgram Studi wajib diakreditasi ulang ketika jangka waktu akre ditasinya \nberakhir. Bahwa ketentuan tersebut tidak memberikan kepastian m engenai \nbagaimana status mahasiswa yang telah diterima dan sedang menem puh \n\n \n \n14 \npendidikan harus diperlakukan apabila status akreditasi Program  Studi \nberubah sebelum mahasiswa tersebut menyelesaikan pendidikannya. Bahwa \nakibatnya Pemohon VII yang saat ini masih berada pada semester III \nmenghadapi ketidakpastian mengenai status akreditasi yang nanti nya akan \nmelekat atau menjadi dasar pengakuan terhadap pendidikan yang s edang \nditempuhnya ketika dirinya lulus. Bahwa Pemohon VII tidak memil iki \nkewenangan untuk menentukan, mempertahankan, maupun mengubah \nstatus akreditasi Program Studi, namun sebagai mahasiswa Pemoho n VII \ndapat menerima akibat langsung dari perubahan tersebut pada saa t \nmenyelesaikan pendidikan. Bahwa kondisi tersebut berbeda dengan  \nmahasiswa yang telah menyelesaikan pendidikan sebelum perubahan status \nakreditasi karena status yang tercantum atau berlaku pada dokum en \npendidikan mereka telah ditentukan pada saat kelulusan. Bahwa a pabila \nPemohon VII yang diterima dan menjalani pendidikan berdasarkan status \nakreditasi tertentu kemudian memperoleh ijazah dengan status ak reditasi \nyang berbeda akibat perubahan yang terjadi selama masa studinya , maka \nPemohon VII berpotensi mengalami konsekuensi yang berbeda hanya  \nkarena waktu kelulusannya bertepatan dengan perubahan status ak reditasi. \nBahwa perbedaan tersebut bukan disebabkan oleh perbedaan presta si \nakademik, kemampuan, atau kesalahan Pemohon VII, melainkan sema ta-\nmata akibat perubahan status akreditasi yang berada di luar ken dali \nPemohon VII. Bahwa keadaan tersebut menimbulkan kerugian konstitusional \nberupa ketidakpastian hukum yang adil sebagaimana dijamin oleh Pasal 28D \nayat (1) UUD NRI 1945, karena Pemohon VII tidak memperoleh para meter \nhukum yang jelas mengenai status akreditasi yang menjadi dasar pengakuan \nterhadap pendidikan yang sedang ditempuhnya. Bahwa pada saat ya ng \nsama, apabila mahasiswa yang menjalani pendidikan pada Program Studi \nyang sama memperoleh status atau konsekuensi akreditasi yang be rbeda \nhanya berdasarkan waktu kelulusan, maka keadaan tersebut berpot ensi \nmenimbulkan perlakuan berbeda yang tidak didasarkan pada kondis i \nindividual mahasiswa dan karenanya berkaitan dengan jaminan beb as dari \nperlakuan diskriminatif sebagaimana dimaksud dalam Pasal 28I ayat (2) UUD \nNRI 1945. Bahwa dengan demikian, pengalaman Pemohon VII yang te lah \nmenyelesaikan pendidikan pada 2 (dua) Perguruan Tinggi berbeda dan \n\n \n \n15 \nmenerima ijazah yang mencantumkan status akreditasi Program Stu di \nmenunjukkan bahwa persoalan perubahan akreditasi selama masa st udi \nmempunyai relevansi konkret terhadap kepentingan Pemohon VII dan bukan \nmerupakan kekhawatiran yang bersifat abstrak.",
+      "start_line": 444,
+      "end_line": 520
+    },
+    {
+      "heading": "14. Bahwa Pemohon IX merupakan mahasiswa semester VIII yang telah berada",
+      "slug": "14-bahwa-pemohon-ix-merupakan-mahasiswa-semester-viii-yang-telah-berada",
+      "text": "pada tahap akhir penyelesaian pendidikan dan secara khusus seda ng \nmempertahankan capaian akademiknya agar dapat memperoleh predik at \ncumlaude (vide p-15) pada saat menyelesaikan pendidikan. Bahwa bagi \nPemohon IX, capaian akademik tersebut bukan sekadar prestasi pr ibadi, \nmelainkan merupakan bagian dari perencanaan karier setelah lulu s, karena \nPemohon IX berencana menggunakan predikat cumlaude tersebut untuk \nmendaftarkan diri dalam seleksi Calon Pegawai Negeri Sipil melalui jalur atau \nformasi yang mensyaratkan ketentuan tertentu mengenai akreditasi Program \nStudi. Bahwa berdasarkan informasi dan persyaratan yang menjadi  dasar \nperencanaan Pemohon IX, terdapat persyaratan jalur cumlaude y a n g  \nmensyaratkan Program Studi mempunyai akreditasi tertentu, dalam  hal ini \nakreditasi A. Bahwa ketika pertama kali masuk kuliah, Program S tudi \nPemohon IX memiliki akreditasi A sehingga Pemohon IX mempunyai dasar \nrasional untuk memilih dan menjalani pendidikan pada Program St udi \ntersebut dengan mempertimbangkan bahwa setelah lulus dirinya da pat \nmemenuhi persyaratan administratif yang berkaitan dengan akredi tasi \nProgram Studi. Bahwa Pemohon IX tidak memilih Program Studi ter sebut \nsetelah mengetahui bahwa akreditasinya B, melainkan memilihnya ketika \nstatus akreditasi yang diketahuinya adalah A. Bahwa dalam perja lanan \npendidikan, kemudian terjadi proses reakreditasi yang menghasil kan \nperubahan status akreditasi Program Studi menjadi B, dengan status tersebut \nberlaku mulai 21 April 2026 sampai dengan 21 April 2031 sebagaimana fakta \nyang disampaikan Pemohon IX. Bahwa perubahan tersebut terjadi k etika \nPemohon IX telah berada pada semester VIII dan telah menjalani hampir \nseluruh masa pendidikan. Bahwa Pemohon IX tidak mempunyai kewenangan \nuntuk mempertahankan status akreditasi A karena proses akredita si \nmerupakan kewenangan institusional dan bukan kewenangan mahasis wa. \nBahwa akibat perubahan tersebut, muncul risiko konkret bahwa ke tika \nPemohon IX menyelesaikan pendidikan dan memperoleh ijazah, dirinya tidak \n\n \n \n16 \nlagi dapat memenuhi persyaratan administratif untuk mengikuti j alur CPNS \ncumlaude yang mensyaratkan akreditasi Program Studi A. Bahwa keadaan \ntersebut menimbulkan kerugian yang jauh lebih konkret dibanding kan \nsekadar kekhawatiran abstrak karena Pemohon IX telah berada pad a \nsemester VIII, telah mempertahankan IPK untuk tujuan tertentu, dan telah \nmempunyai rencana setelah lulus yang secara langsung berkaitan dengan \nstatus akreditasi Program Studi. Bahwa dengan demikian terdapat hubungan \nkausal antara perubahan status akreditasi yang terjadi setelah Pemohon IX \nditerima dengan potensi hilangnya kesempatan Pemohon IX untuk mengikuti \njalur seleksi yang mensyaratkan akreditasi A. Bahwa keadaan ter sebut \nmenimbulkan persoalan kepastian hukum karena tidak terdapat ket entuan \nyang secara jelas menentukan apakah mahasiswa yang diterima ket ika \nProgram Studinya berakreditasi A harus diperlakukan berdasarkan  s t a t u s  \nakreditasi pada saat penerimaan atau status akreditasi pada saa t kelulusan. \nBahwa ketiadaan kepastian tersebut secara langsung merugikan Pe mohon \nIX dalam merencanakan masa depan setelah lulus. Bahwa karena it u, \nPemohon IX mempunyai kerugian konstitusional yang dapat dihubun gkan \nsecara langsung dengan Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 522,
+      "end_line": 572
+    },
+    {
+      "heading": "15. Bahwa Pemohon IX memilih Program Studi ketika Program Studi tersebut",
+      "slug": "15-bahwa-pemohon-ix-memilih-program-studi-ketika-program-studi-tersebut",
+      "text": "berstatus akreditasi A dan keadaan tersebut menjadi salah satu bagian dari \nkondisi objektif yang dapat diketahui dan dipertimbangkan ketik a seseorang \nmenentukan pilihan pendidikan tinggi. Bahwa pilihan tersebut ke mudian \nmelahirkan konsekuensi yang bersifat jangka panjang karena Pemo hon IX \nharus menjalani pendidikan selama beberapa tahun sebelum dapat \nmemperoleh ijazah. Bahwa ketika seseorang telah menjalani hampir seluruh \nmasa pendidikan, tidak tersedia lagi pilihan yang secara realis tis dapat \nmengembalikan keadaan kepada posisi awal tanpa menimbulkan keru gian \nyang jauh lebih besar berupa pengulangan pendidikan, kehilangan  waktu, \ntambahan biaya, dan hilangnya kesempatan untuk menyelesaikan \npendidikan tepat waktu. Bahwa dalam kondisi tersebut Pemohon IX  berada \ndalam posisi yang sangat rentan terhadap perubahan status akred itasi \nkarena keputusan perubahan tersebut berada di luar kendalinya. Bahwa \nPasal 33 ayat (3) dan ayat (6) mengatur mengenai izin dan reakr editasi \nProgram Studi, tetapi tidak menentukan secara tegas bagaimana mahasiswa \n\n \n \n17 \nyang telah diterima berdasarkan status akreditasi sebelumnya ha rus \ndiperlakukan ketika terjadi perubahan akreditasi. Bahwa Pasal 4 2 ayat (1) \nmenghubungkan pemberian ijazah dengan penyelesaian Program Stud i \nterakreditasi. Bahwa konstruksi demikian menyebabkan Pemohon IX  tidak \ndapat mengetahui secara pasti apakah status akreditasi A yang b erlaku \nketika dirinya diterima tetap mempunyai relevansi hukum terhada p \nkedudukannya sebagai mahasiswa existing, atau seluruh akibat hukum \nkemudian ditentukan semata-mata berdasarkan status B yang muncu l \nsetelah proses reakreditasi. Bahwa ketidakpastian tersebut memp unyai \nkonsekuensi langsung terhadap rencana Pemohon IX mengikuti CPNS  jalur \ncumlaude. Bahwa apabila persyaratan seleksi mensyaratkan akreditasi A dan \nstatus yang digunakan adalah status pada saat lulus, maka perub ahan \nakreditasi menjadi B berpotensi menghilangkan kesempatan Pemoho n IX \nuntuk mengikuti jalur tersebut, meskipun ketika Pemohon IX meng ambil \nkeputusan pendidikan, Program Studi masih berstatus A. Bahwa ke rugian \ntersebut bukan disebabkan oleh rendahnya prestasi akademik Pemo hon IX, \nbukan disebabkan oleh pelanggaran Pemohon IX, dan bukan pula \ndisebabkan oleh perubahan pilihan Pemohon IX, melainkan akibat \nperubahan status institusional yang terjadi selama masa pendidi kan. Bahwa \nkeadaan tersebut menunjukkan adanya hubungan sebab-akibat yang nyata \nantara ketidakjelasan norma dengan kerugian Pemohon IX. Bahwa k arena \ntidak ada kepastian mengenai perlakuan terhadap mahasiswa existing, \nPemohon IX harus menanggung risiko yang seharusnya dapat ditent ukan \nsecara jelas oleh hukum. Bahwa keadaan tersebut bertentangan de ngan \nprinsip kepastian hukum yang adil sebagaimana Pasal 28D ayat (1) UUD NRI \n1945.",
+      "start_line": 574,
+      "end_line": 618
+    },
+    {
+      "heading": "16. Bahwa perubahan status akreditasi Program Studi dari A menj adi B",
+      "slug": "16-bahwa-perubahan-status-akreditasi-program-studi-dari-a-menj-adi-b",
+      "text": "berpotensi menciptakan perbedaan konsekuensi antara mahasiswa y ang \nmenyelesaikan pendidikan sebelum berlakunya status akreditasi B  dengan \nmahasiswa yang menyelesaikan pendidikan setelah status B berlak u, \nmeskipun para mahasiswa tersebut pada dasarnya menempuh Program  \nStudi yang sama, kurikulum yang sama atau relevan, lingkungan a kademik \nyang sama, serta memilih Program Studi berdasarkan status akreditasi yang \nberlaku pada saat mereka diterima. Bahwa Pemohon IX berada pada  \n\n \n \n18 \nkelompok mahasiswa yang sangat dekat dengan tahap kelulusan, se hingga \nperubahan status akreditasi yang berlaku mulai 21 April 2026 da pat \nmenempatkannya pada posisi yang berbeda dengan mahasiswa yang t elah \nlulus sebelum tanggal tersebut. Bahwa apabila status akreditasi  pada saat \nlulus yang dijadikan satu-satunya dasar untuk memenuhi persyara tan \nadministratif tertentu, maka Pemohon IX dapat kehilangan kesemp atan \nmengikuti jalur CPNS cumlaude hanya karena dirinya lulus setelah \nperubahan akreditasi, sementara mahasiswa lain yang lulus sebel umnya \ndapat menggunakan status A. Bahwa perbedaan tersebut tidak berk aitan \ndengan kualitas akademik individual Pemohon IX karena Pemohon I X justru \nsedang mempertahankan IPK cumlaude. Bahwa perbedaan tersebut juga \ntidak berkaitan dengan pilihan Pe mohon IX karena sejak awal Pem ohon IX \ntelah memilih Program Studi ketik a akreditasinya A. Bahwa perbe daan \ntersebut semata-mata lahir dari perubahan status akreditasi yan g terjadi \nselama masa pendidikan. Bahwa apabila hukum tidak memberikan \nmekanisme perlindungan terhadap keadaan demikian, maka mahasisw a \ndapat mengalami perbedaan perlakuan berdasarkan faktor waktu ya ng \nberada di luar kendalinya. Bahwa Pasal 28I ayat (2) UUD NRI 1945 menjamin \nsetiap orang bebas dari perlakuan yang bersifat diskriminatif a tas dasar apa \npun. Bahwa prinsip tersebut tidak berarti seluruh mahasiswa har us selalu \nmemperoleh hasil yang identik dalam segala keadaan, tetapi perb edaan \nperlakuan harus mempunyai alasan yang objektif dan dapat \ndipertanggungjawabkan. Bahwa dalam perkara Pemohon IX, perbedaa n \nyang mungkin terjadi bukan akibat perbedaan kemampuan akademik atau \ntindakan mahasiswa, melainkan akibat perubahan akreditasi yang terjadi \nsetelah mahasiswa masuk. Bahwa oleh sebab itu, norma a quo berpotensi \nmenimbulkan perlakuan berbeda yang tidak mempunyai hubungan ras ional \ndengan prestasi atau kesalahan Pemohon IX. Bahwa kondisi terseb ut \nmemperkuat adanya kerugian konstitusional Pemohon IX berdasarkan Pasal \n28I ayat (2) UUD NRI 1945 sekaligus memperlihatkan mengapa perlindungan \ntransisional terhadap mahasiswa existing diperlukan dalam sistem akreditasi \npendidikan tinggi.",
+      "start_line": 620,
+      "end_line": 662
+    },
+    {
+      "heading": "17. Bahwa Pemohon IX telah menyusun rencana pascastudi dengan",
+      "slug": "17-bahwa-pemohon-ix-telah-menyusun-rencana-pascastudi-dengan",
+      "text": "mempertimbangkan prestasi akademik berupa IPK cumlaude d a n  s t a t u s  \n\n \n \n19 \nakreditasi Program Studi ketika Pemohon IX pertama kali masuk k uliah. \nBahwa rencana tersebut merupakan bagian yang wajar dari penggunaan hak \nuntuk memperoleh pendidikan karena pendidikan tinggi pada akhir nya tidak \nhanya bertujuan menghasilkan pengetahuan, tetapi juga menjadi d asar bagi \nseseorang untuk memasuki dunia kerja dan mengikuti berbagai kesempatan \nprofesional. Bahwa Pemohon IX mempertahankan IPK cumlaude dengan \ntujuan agar setelah lulus dapat mendaftarkan diri melalui jalur  CPNS \ncumlaude yang mensyaratkan akreditasi Program Studi A. Bahwa dengan \nberubahnya akreditasi Program Studi menjadi B, Pemohon IX mengh adapi \nrisiko bahwa salah satu syarat administratif yang sebelumnya dapat dipenuhi \nmenjadi tidak dapat dipenuhi. Bahwa perubahan tersebut menyebab kan \ninvestasi akademik Pemohon IX berupa mempertahankan IPK tinggi \nberpotensi tidak dapat digunakan untuk tujuan yang sejak awal \ndirencanakannya. Bahwa kerugian tersebut menjadi semakin nyata karena \nPemohon IX telah berada pada semester VIII dan tidak mempunyai \nkesempatan realistis untuk mengubah Program Studi tanpa kehilan gan \nsebagian besar waktu pendidikan yang telah ditempuh. Bahwa Pemo hon IX \njuga tidak mempunyai kewenangan untuk mempengaruhi hasil reakre ditasi. \nBahwa Pasal 33 ayat (6) memang memberikan mekanisme akreditasi ulang, \ntetapi tidak menentukan perlindungan terhadap mahasiswa yang te lah \nberada dalam Program Studi sebelum hasil reakreditasi berubah. Bahwa \nPasal 42 ayat (1) juga menggunakan frasa Program Studi terakreditasi dalam \nkaitannya dengan pemberian ijazah, tetapi tidak menjelaskan dimensi waktu \nstatus akreditasi tersebut. Bahwa akibatnya Pemohon IX tidak me mperoleh \nkepastian apakah status A yang berlaku ketika dirinya masuk tet ap dapat \nmenjadi dasar bagi kepentingannya setelah lulus atau apakah status B yang \nmuncul kemudian akan sepenuhnya menggantikan keadaan hukum \nsebelumnya. Bahwa ketidakpastian tersebut secara nyata menggang gu \nperencanaan karier Pemohon IX dan berpotensi menyebabkan hilang nya \nkesempatan untuk mengikuti seleksi yang mensyaratkan akreditasi A. Bahwa \nkesempatan mengikuti seleksi merupakan kesempatan yang mempunyai nilai \nhukum dan ekonomi karena menentukan ruang kompetisi yang dapat \ndimasuki seseorang. Bahwa hilangnya kesempatan tersebut bukan k arena \nPemohon IX gagal mencapai prestasi akademik, melainkan karena \n\n \n \n20 \nperubahan status akreditasi yang terjadi setelah keputusan pend idikan \ndibuat. Bahwa dengan demikian terdapat hubungan sebab-akibat yang jelas \nantara ketidakjelasan norma dengan kerugian Pemohon IX berupa \nketidakpastian hukum dan potensi hilangnya kesempatan yang tela h \ndirencanakan.",
+      "start_line": 664,
+      "end_line": 711
+    },
+    {
+      "heading": "18. Bahwa seluruh Pemohon, yang terdiri atas Pemohon I dan Pemo hon IX",
+      "slug": "18-bahwa-seluruh-pemohon-yang-terdiri-atas-pemohon-i-dan-pemo-hon-ix",
+      "text": "sebagai mahasiswa semester VIII, Pemohon II sebagai mahasiswa semester \nVII, Pemohon III, Pemohon IV, Pemohon V, dan Pemohon VI sebagai  \nmahasiswa semester V, serta Pemohon VII dan Pemohon VIII sebaga i \nmahasiswa semester III, berada dalam posisi sebagai mahasiswa yang telah \nterlebih dahulu diterima dan sedang menjalani pendidikan ketika  perubahan \nstatus akreditasi Program Studi terjadi atau berpotensi terjadi. Bahwa seluruh \nPemohon tidak memiliki kewenangan untuk menentukan hasil akreditasi dan \ntidak dapat mengendalikan waktu maupun hasil proses reakreditas i. Bahwa \nmeskipun demikian, seluruh Pemohon dapat menerima konsekuensi d ari \nperubahan tersebut karena Pasal 42 ayat (1) menghubungkan penga kuan \nterhadap penyelesaian pendidikan dengan Program Studi terakredi tasi. \nBahwa UU 12/2012 tidak memberikan ketentuan yang secara tegas \nmenyatakan bahwa perubahan status akreditasi setelah mahasiswa diterima \ntidak boleh mengurangi hak atau pengakuan terhadap pendidikan mahasiswa \ntersebut. Bahwa ketiadaan ketentuan transisional tersebut menye babkan \nposisi hukum mahasiswa bergantung pada status akreditasi yang d apat \nberubah selama masa studi tanpa adanya parameter yang jelas men genai \nstatus yang harus digunakan untuk mahasiswa existing. Bahwa keadaan \ntersebut menimbulkan ketidakpastian yang berbeda tingkatannya s esuai \nsemester masing-masing Pemohon, tetapi mempunyai akar masalah y ang \nsama. Bahwa Pemohon I dan Pemohon IX yang berada pada semester VIII \nmenghadapi persoalan yang paling dekat dengan kelulusan dan pen erbitan \nijazah; Pemohon II pada semester VII menghadapi persoalan yang hampir \nsama karena telah berada pada tahap akhir; Pemohon III sampai d engan \nPemohon VI pada semester V menghadapi ketidakpastian pada pertengahan \nmasa studi; sedangkan Pemohon VII dan Pemohon VIII pada semeste r III \nmenghadapi risiko jangka panjang karena masih mempunyai masa \npendidikan yang cukup panjang. Bahwa perbedaan semester tersebut justru \n\n \n \n21 \nmenunjukkan bahwa persoalan ini bukan persoalan individual satu Pemohon, \nmelainkan persoalan struktural mengenai perlindungan mahasiswa dalam \nperubahan status akreditasi. Bahwa tanpa adanya ketentuan yang jelas, \nmahasiswa dapat menerima konsekuensi berbeda berdasarkan kapan \nmereka lulus, bukan berdasarkan kualitas atau prestasi mereka. Bahwa hal \ntersebut berpotensi menimbulkan perlakuan berbeda yang tidak me mpunyai \ndasar objektif dan rasional. Bahwa oleh sebab itu, ketidakjelas an norma a \nquo menimbulkan kerugian terhadap hak atas kepastian hukum yang ad il \nberdasarkan Pasal 28D ayat (1) dan berpotensi menimbulkan perla kuan \ndiskriminatif berdasarkan Pasal 28I ayat (2) UUD NRI 1945.",
+      "start_line": 713,
+      "end_line": 754
+    },
+    {
+      "heading": "19. Bahwa kerugian konstitusional yang dialami Para Pemohon mem punyai",
+      "slug": "19-bahwa-kerugian-konstitusional-yang-dialami-para-pemohon-mem-punyai",
+      "text": "hubungan sebab-akibat ( causal verband ) dengan berlakunya norma yang \ndiuji karena sumber persoalan bukan semata-mata keputusan admin istratif \nmengenai hasil akreditasi, melainkan tidak adanya kepastian dalam Undang-\nUndang mengenai akibat perubahan akreditasi terhadap mahasiswa yang \ntelah terlebih dahulu diterima dan sedang menempuh pendidikan. Bahwa \nPasal 33 ayat (3) mengatur bahwa Program Studi diselenggarakan atas izin \nMenteri setelah memenuhi persyaratan minimum akreditasi, sedang kan \nPasal 33 ayat (6) mengatur bahwa Program Studi wajib diakredita si ulang \nketika jangka waktu akreditasi berakhir. Bahwa norma tersebut m emberikan \nruang bagi terjadinya perubahan status akreditasi melalui mekan isme \nreakreditasi, tetapi tidak secara tegas memberikan konsekuensi transisional \nbagi mahasiswa existing. Bahwa pada saat yang sama Pasal 42 ayat (1) \nmenentukan bahwa ijazah diberikan sebagai pengakuan terhadap pr estasi \nbelajar dan/atau penyelesaian Program Studi terakreditasi. Bahw a akibat \nkombinasi norma tersebut, mahasiswa yang telah masuk berdasarkan status \nakreditasi tertentu tidak memperoleh kepastian apakah status ya ng berlaku \nketika mereka diterima tetap mempunyai akibat hukum terhadap pe ndidikan \nmereka setelah terjadi perubahan akreditasi. Bahwa jika norma t ersebut \nmemberikan ketentuan yang jelas mengenai perlindungan mahasiswa  \nexisting, maka ketidakpastian tersebut tidak akan terjadi atau setidak-\ntidaknya dapat diminimalkan. Bahwa oleh sebab itu, kerugian Para Pemohon \nbukan merupakan kerugian yang semata-mata disebabkan oleh tinda kan \npihak lain yang tidak berkaitan dengan norma a quo , melainkan lahir dari \n\n \n \n22 \nkekosongan pengaturan yang melekat pada konstruksi norma terseb ut. \nBahwa apabila Mahkamah memberikan tafsir konstitusional yang me njamin \nbahwa perubahan status akreditasi tidak boleh mengurangi hak ma hasiswa \nyang telah diterima berdasarkan status akreditasi sebelumnya, maka sumber \nketidakpastian yang dialami Para Pemohon dapat dihilangkan. Bah wa \ndengan demikian terdapat hubungan kausal yang cukup antara norm a yang \ndiuji dengan kerugian konstitusional Para Pemohon. Bahwa kerugi an \ntersebut juga bersifat aktual dan/atau setidak-tidaknya potensi al yang \nmenurut penalaran yang wajar akan terjadi, khususnya terhadap P emohon I \ndan Pemohon IX yang telah berada pada semester VIII. Bahwa kond isi \ntersebut memenuhi karakter kerugian konstitusional yang konkret  dan tidak \nsekadar berupa kekhawatiran abstrak.",
+      "start_line": 756,
+      "end_line": 794
+    },
+    {
+      "heading": "20. Bahwa apabila Mahkamah Konstitusi mengabulkan permohonan Pa ra",
+      "slug": "20-bahwa-apabila-mahkamah-konstitusi-mengabulkan-permohonan-pa-ra",
+      "text": "Pemohon, maka kerugian konstitusional yang dialami Para Pemohon berupa \nketidakpastian hukum dan potensi perlakuan diskriminatif akibat  perubahan \nstatus akreditasi Program Studi dapat dipulihkan, tanpa mengham bat \nkewenangan negara untuk melaksanakan akreditasi ulang, sehingga  h a k  \nmahasiswa yang telah diterima sebelum perubahan status akredita si tetap \nmemperoleh perlindungan dan pengakuan hukum yang adil. \nIII. ALASAN PERMOHONAN  \nA. PASAL 33 AYAT (3), PASAL 33 AYAT (6), DAN PASAL 42 AYAT (1) UU \nNOMOR 12 TAHUN 2012 BERTENTANGAN DENGAN PASAL 28D AYAT \n(1) UUD NRI 1945",
+      "start_line": 796,
+      "end_line": 805
+    },
+    {
+      "heading": "1. Tidak adanya kepastian hukum mengenai akibat perubahan akred itasi",
+      "slug": "1-tidak-adanya-kepastian-hukum-mengenai-akibat-perubahan-akred-itasi",
+      "text": "terhadap mahasiswa yang telah diterima \n Bahwa Pasal 33 ayat (3) UU Nomor 12 Tahun 2012 menentukan bahw a \nProgram Studi diselenggarakan atas izin Menteri setelah memenuh i \npersyaratan minimum akreditasi, sedangkan Pasal 33 ayat (6) \nmenentukan bahwa Program Studi wajib diakreditasi ulang pada sa at \njangka waktu akreditasinya berakhir. Bahwa kedua ketentuan ters ebut \nmemberikan dasar mengenai legalitas penyelenggaraan Program Stu di \ndan mekanisme keberlanjutan akreditasi, tetapi tidak memberikan  \nketentuan mengenai akibat hukum terhadap mahasiswa yang telah \n\n \n \n23 \nditerima sebelum perubahan status akreditasi terjadi. Bahwa kekosongan \ntersebut menjadi persoalan konstitusional karena mahasiswa meng ambil \nkeputusan untuk memasuki suatu Program Studi berdasarkan keadaa n \nhukum yang berlaku pada saat penerimaan, sementara status akred itasi \ndapat berubah ketika mahasiswa telah berada di tengah proses \npendidikan. Bahwa mahasiswa tidak mempunyai kewenangan untuk \nmenentukan hasil reakreditasi dan tidak dapat mengendalikan apa kah \nstatus akreditasi Program Studi akan tetap sama atau berubah. B ahwa \nsekalipun demikian, perubahan tersebut dapat mempunyai akibat \nterhadap pengakuan pendidikan mahasiswa karena Pasal 42 ayat (1 ) \nmengaitkan pemberian ijazah dengan penyelesaian Program Studi \nterakreditasi. Bahwa keadaan tersebut menyebabkan mahasiswa tid ak \nmempunyai parameter hukum yang jelas mengenai status akreditasi  \nmana yang relevan terhadap dirinya, apakah status pada saat dit erima, \nstatus selama menjalani pendidikan, atau status pada saat \nmenyelesaikan pendidikan. Bahwa ketidakjelasan tersebut secara \nlangsung bertentangan dengan hak atas kepastian hukum yang adil  \nsebagaimana dijamin Pasal 28D ayat (1) UUD NRI 1945. Bahwa \nkepastian hukum dalam pendidikan tinggi tidak cukup hanya denga n \nmemastikan bahwa suatu Program Studi mempunyai akreditasi, teta pi \njuga harus memberikan kepastian mengenai konsekuensi hukum dari  \nperubahan akreditasi terhadap mahasiswa yang telah berada dalam  \nproses pendidikan. Bahwa tanpa kepastian tersebut, mahasiswa \nmenanggung risiko perubahan kebijakan dan status kelembagaan ya ng \nsepenuhnya berada di luar kendalinya. Bahwa oleh karena itu, no rma a \nquo sepanjang tidak memberikan perlindungan hukum terhadap \nmahasiswa yang telah diterima sebelum perubahan status akredita si \nterjadi harus dinyatakan bertentangan dengan Pasal 28D ayat (1)  UUD \nNRI 1945.",
+      "start_line": 807,
+      "end_line": 848
+    },
+    {
+      "heading": "2. Norma a quo tidak memberikan kepastian mengenai status akreditasi",
+      "slug": "2-norma-a-quo-tidak-memberikan-kepastian-mengenai-status-akreditasi",
+      "text": "pada saat mahasiswa masuk dan pada saat lulus \n Bahwa sistem yang dibentuk Pasal 33 ayat (3) dan ayat (6) UU N omor 12 \nTahun 2012 mengenal keadaan bahwa status akreditasi Program Stu di \ndapat mempunyai periode keberlakuan tertentu dan dapat dilakuka n \n\n \n \n24 \nakreditasi ulang setelah jangka waktu tersebut berakhir. Bahwa Pasal 42 \nayat (1) kemudian menentukan bahwa ijazah diberikan sebagai \npengakuan terhadap prestasi belajar dan/atau penyelesaian suatu  \nProgram Studi terakreditasi. Bahwa persoalan muncul ketika maha siswa \nditerima pada saat Program Studi mempunyai status akreditasi te rtentu, \ntetapi sebelum mahasiswa menyelesaikan pendidikannya terjadi \nreakreditasi yang menghasilkan status berbeda. Bahwa UU a quo tidak \nmenentukan secara eksplisit hubungan temporal antara status akr editasi \nketika penerimaan mahasiswa dan status akreditasi ketika mahasi swa \nmenyelesaikan pendidikan. Bahwa keadaan tersebut menimbulkan \nketidakpastian mengenai ukuran hukum yang harus digunakan terha dap \nmahasiswa yang telah masuk dalam sistem pendidikan berdasarkan \nkeadaan akreditasi sebelumnya. Bahwa ketidakpastian tersebut bu kan \nsekadar persoalan administratif karena status akreditasi mempun yai \nhubungan dengan pengakuan terhadap Program Studi dan dapat menjadi \ninformasi yang digunakan dalam berbagai kepentingan setelah \nmahasiswa lulus. Bahwa mahasiswa tidak dapat secara rasional \nmemperkirakan konsekuensi hukum dari perubahan akreditasi ketik a \nundang-undang sendiri tidak menentukan bagaimana perubahan tersebut \ndiperlakukan terhadap mahasiswa existing. Bahwa kepastian hukum \nmenghendaki agar konsekuensi hukum suatu keadaan dapat diperkirakan \nsecara wajar oleh subjek hukum. Bahwa dalam konteks ini, seoran g \nmahasiswa yang telah diterima seharusnya dapat mengetahui apaka h \nperubahan status akreditasi setelah penerimaan akan mempengaruh i \nkedudukannya ketika lulus. Bahwa karena Pasal 33 dan Pasal 42 t idak \nmemberikan jawaban normatif yang jelas atas persoalan tersebut,  maka \nnorma q menimbulkan ketidakpastian hukum yang merugikan mahasiswa. \nBahwa dengan demikian, Pasal 33 ayat (3), Pasal 33 ayat (6), dan Pasal \n42 ayat (1) sepanjang tidak dimaknai memberikan kepastian menge nai \nakibat perubahan akreditasi terhadap mahasiswa existing bertentangan \ndengan Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 850,
+      "end_line": 888
+    },
+    {
+      "heading": "3. Mahasiswa dibebani akibat perubahan yang berada di luar kend alinya",
+      "slug": "3-mahasiswa-dibebani-akibat-perubahan-yang-berada-di-luar-kend-alinya",
+      "text": "Bahwa perubahan status akreditasi Program Studi merupakan bagi an dari \nmekanisme kelembagaan pendidikan tinggi yang tidak berada dalam  \n\n \n \n25 \nkewenangan individual mahasiswa. Bahwa mahasiswa tidak menentukan \ninstrumen akreditasi, tidak menetapkan hasil penilaian, tidak menentukan \nkeputusan lembaga akreditasi, dan tidak mempunyai kewenangan un tuk \nmempertahankan status akreditasi Program Studi. Bahwa Pasal 33 ayat \n(6) justru menempatkan kewajiban akreditasi ulang kepada Program Studi \nketika masa akreditasi berakhir. Bahwa apabila hasil proses ter sebut \nmenyebabkan perubahan status akreditasi, mahasiswa yang telah \nterlebih dahulu diterima dapat ikut menanggung konsekuensi dari  \nperubahan tersebut meskipun tidak mempunyai kontribusi terhadap  \nterjadinya perubahan. Bahwa kondisi tersebut menjadi tidak adil  apabila \nhukum tidak menyediakan mekanisme untuk melindungi mahasiswa \nexisting. Bahwa seorang mahasiswa yang telah menjalani pendidikan \nselama beberapa semester telah menginvestasikan waktu, biaya, tenaga, \ndan kesempatan berdasarkan keadaan hukum pada saat penerimaan. \nBahwa tidak patut apabila risiko perubahan institusional yang b erada di \nluar kendali mahasiswa kemudian dibebankan sepenuhnya kepada \nmahasiswa tanpa adanya ketentuan transisional. Bahwa Pasal 42 ayat (1) \nmemperkuat persoalan tersebut karena pengakuan atas penyelesaia n \npendidikan melalui ijazah dikaitkan dengan Program Studi terakr editasi. \nBahwa tanpa aturan yang menentukan perlakuan terhadap mahasiswa  \nexisting, mahasiswa tidak dapat mengetahui secara pasti apakah \nperubahan status akreditasi akan mempengaruhi kedudukan \npendidikannya. Bahwa keadaan tersebut menciptakan ketidakpastia n \nhukum yang bukan berasal dari tindakan mahasiswa, melainkan dar i \nperubahan status kelembagaan yang tidak dapat dikendalikan \nmahasiswa. Bahwa Pasal 28D ayat (1) UUD NRI 1945 menghendaki \nadanya jaminan dan perlindungan kepastian hukum yang adil. Bahw a \nkepastian hukum yang adil tidak dapat dibangun dengan cara \nmenempatkan seluruh risiko perubahan kelembagaan kepada mahasiswa \nyang tidak mempunyai kewenangan untuk mencegah perubahan \ntersebut. Bahwa oleh sebab itu, norma a quo harus dimaknai sedemikian \nrupa sehingga perubahan status akreditasi tidak menimbulkan \nketidakpastian terhadap mahasiswa yang telah diterima sebelumnya. \n\n \n \n26",
+      "start_line": 890,
+      "end_line": 932
+    },
+    {
+      "heading": "4. Tidak terdapat perlindungan terhadap ekspektasi hukum mahasiswa pada",
+      "slug": "4-tidak-terdapat-perlindungan-terhadap-ekspektasi-hukum-mahasiswa-pada",
+      "text": "saat penerimaan \n Bahwa penerimaan seseorang sebagai mahasiswa pada suatu Progra m \nStudi merupakan peristiwa hukum dan akademik yang menimbulkan \nhubungan antara mahasiswa dengan Perguruan Tinggi. Bahwa pada saat \nseseorang diterima, mahasiswa membuat keputusan berdasarkan \nberbagai informasi mengenai Program Studi, termasuk legalitas \npenyelenggaraan dan status akreditasinya. Bahwa Pasal 33 ayat ( 3) \nsendiri menempatkan izin Menteri dan persyaratan minimum akredi tasi \nsebagai bagian dari dasar penyelenggaraan Program Studi. Bahwa \ndengan demikian, keadaan hukum Program Studi pada saat penerima an \nmerupakan bagian dari lingkungan hukum yang melandasi keputusan  \nmahasiswa untuk menempuh pendidikan. Bahwa ketika mahasiswa telah \nditerima dan menjalani pendidikan, perubahan status akreditasi dapat \nterjadi berdasarkan mekanisme yang tidak dikendalikan mahasiswa . \nBahwa UU a quo  tidak menentukan sejauh mana keadaan hukum pada \nsaat penerimaan harus dihormati terhadap mahasiswa tersebut sam pai \nmenyelesaikan pendidikannya. Bahwa akibatnya, mahasiswa tidak \nmendapatkan perlindungan yang memadai terhadap ekspektasi hukum  \nyang terbentuk secara wajar ketika mengambil keputusan pendidik an. \nBahwa hal tersebut berbeda dengan tuntutan agar status akreditasi tidak \npernah berubah karena perubahan akreditasi tetap dapat dilakuka n \nsesuai mekanisme penjaminan mutu. Bahwa yang dimohonkan \nperlindungan adalah kepastian terhadap akibat perubahan tersebu t bagi \nmahasiswa yang sudah berada dalam sistem pendidikan. Bahwa \nperlindungan tersebut penting karena mahasiswa telah mengorbank an \nwaktu dan sumber daya untuk menyelesaikan pendidikan dan tidak \nmempunyai kesempatan yang sama untuk mengambil keputusan ulang \nsetelah beberapa semester berlalu. Bahwa tanpa perlindungan demikian, \nkepastian hukum mahasiswa menjadi bergantung pada peristiwa \nadministratif yang terjadi setelah keputusan pendidikan dibuat.  Bahwa \nkondisi tersebut tidak sejalan dengan Pasal 28D ayat (1) UUD NR I 1945 \nkarena kepastian hukum harus memberikan perlindungan terhadap \nsubjek hukum dalam menjalankan haknya. Bahwa oleh karena itu, P asal \n\n \n \n27 \n33 ayat (3), Pasal 33 ayat (6), dan Pasal 42 ayat (1) perlu dib erikan \npemaknaan konstitusional yang menjamin akibat perubahan akredit asi \nterhadap mahasiswa existing dapat diprediksi secara hukum.",
+      "start_line": 934,
+      "end_line": 973
+    },
+    {
+      "heading": "5. Frasa “Program Studi terakreditasi” tidak menentukan dimensi waktu yang",
+      "slug": "5-frasa-program-studi-terakreditasi-tidak-menentukan-dimensi-waktu-yang",
+      "text": "relevan \n Bahwa Pasal 42 ayat (1) menggunakan frasa “program studi terak reditasi” \nsebagai bagian dari dasar pemberian ijazah. Bahwa frasa tersebu t \nmenentukan keadaan bahwa Program Studi harus terakreditasi, tet api \ntidak menentukan secara eksplisit periode atau titik waktu akreditasi yang \nharus digunakan ketika status akreditasi berubah selama masa st udi \nmahasiswa. Bahwa persoalan tersebut menjadi penting karena akreditasi \nmempunyai masa berlaku dan Pasal 33 ayat (6) mengatur dilakukan nya \nakreditasi ulang ketika jangka waktu akreditasi berakhir.  Bahw a apabila \nseorang mahasiswa diterima ketika Program Studi mempunyai statu s \nakreditasi A kemudian status tersebut berubah menjadi B sebelum  \nmahasiswa lulus, frasa “Program Studi terakreditasi” tidak deng an \nsendirinya memberikan jawaban mengenai kedudukan mahasiswa \ntersebut. Bahwa ketidakjelasan tersebut mempunyai konsekuensi n yata \nkarena status akreditasi dapat digunakan sebagai informasi yang  \nmembedakan kualitas atau kelayakan suatu Program Studi dalam konteks \ntertentu. Bahwa mahasiswa tidak memperoleh kepastian apakah sta tus \nyang berlaku ketika ia masuk tetap menjadi dasar bagi dirinya atau status \nyang berlaku pada saat ia lulus menjadi satu-satunya status yang relevan. \nBahwa hukum yang memberikan hak tetapi tidak menentukan secara \njelas parameter pelaksanaannya dapat menciptakan ketidakpastian  bagi \npemegang hak. Bahwa dalam konteks pendidikan tinggi, kepastian \ntersebut semakin penting karena pendidikan berlangsung selama \nbeberapa tahun dan perubahan akreditasi dapat terjadi di antara  waktu \npenerimaan dan kelulusan. Bahwa Pasal 28D ayat (1) UUD NRI 1945  \nmenghendaki adanya kepastian hukum yang adil, bukan sekadar \nkeberadaan norma yang secara formal mengatur akreditasi. Bahwa oleh \nkarena itu, frasa “program studi terakreditasi” sepanjang tidak  \nmemberikan kepastian mengenai akibat perubahan status akreditas i \n\n \n \n28 \nterhadap mahasiswa yang telah diterima harus dimaknai secara \nkonstitusional.",
+      "start_line": 975,
+      "end_line": 1009
+    },
+    {
+      "heading": "6. Perubahan akreditasi dapat mengubah konsekuensi hukum pendid ikan",
+      "slug": "6-perubahan-akreditasi-dapat-mengubah-konsekuensi-hukum-pendid-ikan",
+      "text": "setelah mahasiswa tidak lagi memiliki pilihan realistis \n Bahwa mahasiswa yang telah menjalani pendidikan selama beberap a \nsemester pada umumnya telah menginvestasikan sumber daya yang \nsignifikan dan telah menempatkan dirinya dalam jalur pendidikan tertentu. \nBahwa semakin lama masa studi berlangsung, semakin besar pula \nkonsekuensi apabila mahasiswa dipaksa mengubah Program Studi hanya \nkarena terjadi perubahan status akreditasi. Bahwa Pemohon I dan  \nPemohon IX yang telah mencapai semester VIII secara khusus bera da \npada tahap ketika sebagian besar proses pendidikan telah selesai. Bahwa \nPemohon II yang berada pada semester VII juga telah mendekati \npenyelesaian pendidikan, sedangkan Pemohon III sampai Pemohon V I \ntelah berada pada semester V dan Pemohon VII serta Pemohon VIII telah \nberada pada semester III. Bahwa keadaan tersebut menunjukkan ba hwa \nperubahan akreditasi dapat terjadi pada berbagai tahap pendidik an \nmahasiswa. Bahwa Pasal 33 ayat (3) dan ayat (6) tidak menyediak an \nketentuan yang membedakan perlindungan berdasarkan tahap \npendidikan mahasiswa ketika perubahan akreditasi terjadi. Bahwa  \nketiadaan tersebut menyebabkan mahasiswa dapat menghadapi pilih an \nyang tidak seimbang, yaitu menerima konsekuensi perubahan akred itasi \natau meninggalkan pendidikan yang telah dijalani. Bahwa keadaan  \ndemikian tidak mencerminkan kepastian hukum yang adil karena \nmahasiswa seharusnya dapat mengetahui sejak awal bagaimana \nperubahan akreditasi akan mempengaruhi kedudukannya. Bahwa apabila \nhukum memberikan perlindungan transisional, mahasiswa dapat \nmenyelesaikan pendidikan tanpa harus menanggung akibat perubaha n \nyang tidak berasal dari dirinya. Bahwa sebaliknya, apabila tida k ada \nperlindungan, mahasiswa menghadapi risiko yang tidak dapat dihi tung \nketika pertama kali mengambil keputusan pendidikan. Bahwa Pasal  28D \nayat (1) UUD NRI 1945 tidak hanya melindungi kepastian terhadap aturan \nyang berlaku pada saat ini, tetapi juga menghendaki agar konsek uensi \nhukum terhadap seseorang dapat dipahami secara wajar. Bahwa kar ena \n\n \n \n29 \nitu, norma a quo  harus dibaca sebagai satu kesatuan yang wajib \nmemberikan kepastian mengenai kedudukan mahasiswa existing ketika \nstatus akreditasi berubah.",
+      "start_line": 1011,
+      "end_line": 1048
+    },
+    {
+      "heading": "7. Status akreditasi berpotensi mempengaruhi pengakuan terhadap",
+      "slug": "7-status-akreditasi-berpotensi-mempengaruhi-pengakuan-terhadap",
+      "text": "dokumen pendidikan \n Bahwa Pasal 42 ayat (1) secara normatif menghubungkan pemberia n \nijazah dengan penyelesaian Program Studi terakreditasi, sedangkan ayat \n(2) menentukan bahwa ijazah diterbitkan oleh Perguruan Tinggi d an \nmemuat Program Studi serta gelar yang berhak dipakai lulusan. B ahwa \ndalam praktik yang dialami Pemohon VII, ijazah dari dua Perguruan Tinggi \ntempat Pemohon VII sebelumnya menyelesaikan pendidikan \nmencantumkan status akreditasi Program Studi. Bahwa fakta terse but \nmenunjukkan bahwa status akreditasi dapat menjadi bagian yang secara \nnyata terdapat pada dokumen pendidikan yang diterima lulusan. B ahwa \noleh karena itu, perubahan status akreditasi selama masa studi \nmempunyai relevansi langsung terhadap kepentingan mahasiswa yan g \npada akhirnya akan memperoleh dokumen pendidikan. Bahwa apabila  \nstatus yang tercantum atau digunakan pada saat kelulusan berbed a \ndengan status yang diketahui mahasiswa ketika diterima, maka \nmahasiswa memerlukan kepastian mengenai dasar hukum perubahan \ntersebut. Bahwa Pasal 33 ayat (3) dan ayat (6) tidak mengatur \nkonsekuensi tersebut secara spesifik. Bahwa keadaan tersebut \nmenimbulkan ruang ketidakpastian mengenai hubungan antara statu s \nakreditasi pada saat mahasiswa masuk dengan status akreditasi y ang \nberlaku pada saat mahasiswa menyelesaikan pendidikan. Bahwa \nkepastian tersebut penting karena ijazah merupakan dokumen yang  \ndigunakan untuk menunjukkan penyelesaian pendidikan dan dapat \ndigunakan dalam berbagai proses administratif maupun profesiona l. \nBahwa ketidakjelasan mengenai status akreditasi yang menjadi re levan \nterhadap dokumen pendidikan dapat mengurangi kemampuan \nmahasiswa untuk memprediksi akibat hukum dari pendidikan yang \nsedang ditempuh. Bahwa hal tersebut bertentangan dengan prinsip  \nkepastian hukum yang adil sebagaimana Pasal 28D ayat (1) UUD NR I",
+      "start_line": 1050,
+      "end_line": 1078
+    },
+    {
+      "heading": "1945. Bahwa karena itu, norma a quo harus memberikan kepastian bahwa",
+      "slug": "1945-bahwa-karena-itu-norma-a-quo-harus-memberikan-kepastian-bahwa",
+      "text": "30 \nperubahan status akreditasi tidak boleh menghasilkan ketidakjel asan \nmengenai pengakuan terhadap pendidikan mahasiswa yang telah \nditerima sebelum perubahan tersebut.",
+      "start_line": 1080,
+      "end_line": 1086
+    },
+    {
+      "heading": "8. Norma a quo tidak membedakan mahasiswa existing dengan mahasiswa",
+      "slug": "8-norma-a-quo-tidak-membedakan-mahasiswa-existing-dengan-mahasiswa",
+      "text": "baru \n Bahwa salah satu persoalan mendasar dalam norma a quo adalah tidak \nadanya pengaturan yang secara eksplisit membedakan antara \nmahasiswa yang sudah diterima sebelum perubahan akreditasi dan \nmahasiswa yang baru diterima setelah perubahan akreditasi. Bahw a \nkedua kelompok tersebut secara faktual berada dalam keadaan yan g \nberbeda karena kelompok pertama mengambil keputusan pendidikan \nberdasarkan status akreditasi sebelumnya, sedangkan kelompok ke dua \nmengambil keputusan setelah mengetahui status akreditasi yang b aru. \nBahwa Pasal 33 ayat (6) hanya mengatur kewajiban reakreditasi k etika \njangka waktu akreditasi berakhir dan tidak menentukan akibat hu kum \nperubahan tersebut terhadap kelompok mahasiswa yang telah ada. \nBahwa Pasal 42 ayat (1) juga hanya mensyaratkan Program Studi \nterakreditasi tanpa memberikan pengaturan mengenai posisi mahas iswa \nberdasarkan waktu penerimaannya. Bahwa akibatnya, mahasiswa \nexisting tidak memperoleh kepastian apakah dirinya tetap dilindungi ole h \nstatus akreditasi ketika diterima atau harus tunduk sepenuhnya kepada \nstatus baru. Bahwa ketidakjelasan tersebut berimplikasi langsun g \nterhadap kepastian hukum karena waktu penerimaan merupakan fakt a \nobjektif yang mudah ditentukan dan seharusnya dapat digunakan o leh \nhukum untuk memberikan perlindungan. Bahwa negara mempunyai \nkemampuan untuk menentukan aturan transisional yang membedakan \nkedua kelompok tersebut tanpa mengganggu kewenangan lembaga \nakreditasi untuk melakukan penilaian. Bahwa ketiadaan pengatura n \ndemikian menyebabkan mahasiswa menanggung ketidakpastian yang \nsebenarnya dapat dihindari melalui norma yang sederhana dan jel as. \nBahwa Pasal 28D ayat (1) UUD NRI 1945 menuntut adanya kepastian  \nhukum yang adil. Bahwa keadilan dalam hal ini menghendaki agar \nmahasiswa tidak diperlakukan seolah-olah baru masuk setelah \nperubahan akreditasi, padahal keputusan pendidikannya telah dib uat \n\n \n \n31 \nsebelum perubahan tersebut. Bahwa oleh sebab itu, norma a quo  \nsepanjang tidak memberikan perlindungan khusus bagi mahasiswa \nexisting bertentangan dengan Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 1088,
+      "end_line": 1124
+    },
+    {
+      "heading": "9. Ketidakpastian tersebut berpotensi mengurangi nilai guna pen didikan",
+      "slug": "9-ketidakpastian-tersebut-berpotensi-mengurangi-nilai-guna-pen-didikan",
+      "text": "yang telah ditempuh \n Bahwa pendidikan tinggi merupakan proses yang membutuhkan wakt u \nbertahun-tahun dan menghasilkan kompetensi serta dokumen pengakuan \nberupa ijazah. Bahwa ketika status akreditasi berubah selama pr oses \ntersebut, ketidakpastian mengenai akibat perubahan dapat \nmempengaruhi nilai guna pendidikan yang telah ditempuh mahasisw a \ndalam konteks tertentu. Bahwa Pasal 42 ayat (1) menempatkan sta tus \nterakreditasi sebagai salah satu kondisi yang berkaitan dengan \npengakuan atas penyelesaian pendidikan. Bahwa oleh karena itu, \nmahasiswa mempunyai kepentingan yang sah untuk mengetahui \nbagaimana status tersebut diperlakukan ketika terjadi perubahan. Bahwa \nPemohon IX memberikan contoh paling konkret karena ketika perta ma \nkali masuk, Program Studi berakreditasi A, sementara kemudian t erjadi \nreakreditasi yang mengubah status menjadi B berlaku mulai 21 April 2026 \nsampai 21 April 2031. Bahwa Pemohon IX telah berada pada semest er \nVIII dan mempertahankan IPK cumlaude dengan rencana mengikuti \nCPNS jalur cumlaude yang mensyaratkan akreditasi Program Studi A. \nBahwa perubahan tersebut dapat menyebabkan pendidikan dan prest asi \nakademik yang telah dicapai Pemohon IX tidak dapat digunakan un tuk \nmemasuki kesempatan tertentu sebagaimana rencana yang dibuat \nberdasarkan kondisi ketika ia masuk. Bahwa sekalipun syarat CPN S \nmerupakan aturan tersendiri, kerugian Pemohon IX menunjukkan \npentingnya kepastian mengenai status akreditasi mahasiswa yang telah \nditerima sebelum perubahan. Bahwa tanpa kepastian tersebut, \nmahasiswa harus menghadapi kemungkinan bahwa keadaan hukum \nyang menjadi dasar keputusan pendidikan berubah dan menghasilka n \nkonsekuensi yang tidak dapat diperkirakan. Bahwa keadaan demiki an \nbertentangan dengan Pasal 28D ayat (1) UUD NRI 1945 karena huku m \nseharusnya memberikan perlindungan terhadap kepentingan yang timbul \nsecara wajar dari suatu hubungan pendidikan. Bahwa dengan demik ian, \n\n \n \n32 \nnorma a quo  perlu diberikan pemaknaan yang melindungi mahasiswa \nexisting dari akibat yang mereduksi pengakuan terhadap pendidikan yang \ntelah ditempuh.",
+      "start_line": 1126,
+      "end_line": 1162
+    },
+    {
+      "heading": "10. Perubahan akreditasi tidak boleh menghapus kepastian atas s tatus",
+      "slug": "10-perubahan-akreditasi-tidak-boleh-menghapus-kepastian-atas-s-tatus",
+      "text": "mahasiswa yang telah memenuhi kewajibannya \n Bahwa mahasiswa yang telah diterima pada Program Studi mempuny ai \nkewajiban untuk mengikuti proses pendidikan sesuai kurikulum, \nmemenuhi beban studi, mengikuti evaluasi, dan menyelesaikan \npersyaratan kelulusan. Bahwa Pemohon I sampai dengan Pemohon IX  \ntelah menjalani proses tersebut sesuai tahap pendidikannya masi ng-\nmasing. Bahwa mahasiswa pada dasarnya dapat dimintai \npertanggungjawaban atas prestasi dan kewajiban akademiknya, tet api \ntidak dapat dibebani tanggung jawab atas hasil reakreditasi kar ena hasil \ntersebut bukan merupakan kewenangan mahasiswa. Bahwa Pasal 33 \nayat (6) mengatur kewajiban Program Studi untuk menjalani akred itasi \nulang ketika masa akreditasi berakhir. Bahwa apabila hasil reak reditasi \nberubah, mahasiswa yang telah memenuhi kewajiban akademiknya tetap \nmembutuhkan kepastian bahwa penyelesaian pendidikan mereka \nmemperoleh pengakuan sesuai hukum. Bahwa Pasal 42 ayat (1) \nmemberikan dasar pengakuan melalui ijazah bagi penyelesaian Program \nStudi terakreditasi, tetapi tidak menentukan perlindungan bagi mahasiswa \nketika status tersebut berubah setelah mahasiswa diterima. Bahw a \nkeadaan tersebut menyebabkan hubungan antara kewajiban mahasisw a \ndan pengakuan negara atas hasil pendidikan menjadi tidak sepenu hnya \npasti. Bahwa mahasiswa telah memenuhi kewajiban yang dibebankan  \nkepadanya, tetapi konsekuensi dari perubahan akreditasi tetap d apat \nmempengaruhi posisi pendidikan mereka. Bahwa prinsip kepastian \nhukum yang adil menghendaki adanya hubungan yang rasional antar a \nkewajiban yang dipenuhi dengan pengakuan yang diterima. Bahwa \nkarena itu, perubahan akreditasi tidak seharusnya menimbulkan \nketidakpastian mengenai pengakuan atas pendidikan mahasiswa yan g \ntelah diterima dan sedang memenuhi seluruh persyaratan akademik . \nBahwa sepanjang norma a quo  tidak memberikan jaminan demikian, \nnorma tersebut bertentangan dengan Pasal 28D ayat (1) UUD NRI 1945. \n\n \n \n33",
+      "start_line": 1164,
+      "end_line": 1197
+    },
+    {
+      "heading": "11. Tidak adanya aturan transisional menyebabkan risiko hukum bergantung",
+      "slug": "11-tidak-adanya-aturan-transisional-menyebabkan-risiko-hukum-bergantung",
+      "text": "pada waktu kelulusan \n Bahwa dalam keadaan perubahan akreditasi selama masa studi, \nmahasiswa yang lulus sebelum perubahan dapat berada dalam kondi si \nyang berbeda dengan mahasiswa yang lulus setelah perubahan, \nmeskipun keduanya telah diterima pada Program Studi yang sama d an \nmenjalani pendidikan berdasarkan kurikulum serta sistem akademik yang \nsama. Bahwa perbedaan waktu kelulusan semata-mata dapat menjadi  \nfaktor yang menentukan status akreditasi yang kemudian dikaitka n \ndengan dokumen atau kepentingan pendidikan. Bahwa Pasal 33 ayat (6) \ntidak mengatur mekanisme transisional yang menjelaskan bagaiman a \nmahasiswa yang masa studinya melintasi periode akreditasi diperlakukan. \nBahwa Pasal 42 ayat (1) juga tidak menjelaskan status waktu ter sebut \nkarena hanya menggunakan frasa Program Studi terakreditasi. Bah wa \nkeadaan tersebut menciptakan ketidakpastian karena mahasiswa ti dak \ndapat menentukan kapan suatu status akreditasi mempunyai akibat  \nterhadap dirinya. Bahwa mahasiswa semester VIII berada pada ris iko \npaling dekat karena segera memasuki tahap kelulusan, sementara \nmahasiswa semester III sampai VII menghadapi risiko yang dapat muncul",
+      "start_line": 1199,
+      "end_line": 1216
+    },
+    {
+      "heading": "di kemudian hari. Bahwa hukum dapat dengan mudah menentukan aturan",
+      "slug": "di-kemudian-hari-bahwa-hukum-dapat-dengan-mudah-menentukan-aturan",
+      "text": "yang objektif, misalnya berdasarkan tanggal penerimaan atau \nberdasarkan periode ketika mahasiswa terdaftar, tetapi norma a quo tidak \nmemberikan parameter tersebut. Bahwa akibatnya, mahasiswa dapat  \nmemperoleh konsekuensi berbeda bukan karena perbedaan akademik,  \nmelainkan karena kebetulan waktu kelulusannya berada sebelum at au \nsesudah perubahan akreditasi. Bahwa keadaan demikian menunjukka n \nbahwa ketidakpastian bukan berasal dari kompleksitas akademik, \nmelainkan dari kekosongan pengaturan hukum. Bahwa Pasal 28D aya t \n(1) UUD NRI 1945 menuntut kepastian hukum yang adil. Bahwa huku m \nyang membiarkan akibat suatu perubahan status bergantung pada waktu \ntanpa memberikan aturan transisional tidak memenuhi tuntutan te rsebut. \nBahwa dengan demikian, norma a quo perlu dinyatakan inkonstitusional \nbersyarat sepanjang tidak memberikan perlindungan kepada mahasi swa \nyang telah diterima sebelum perubahan akreditasi. \n\n \n \n34",
+      "start_line": 1218,
+      "end_line": 1235
+    },
+    {
+      "heading": "12. Norma a quo tidak memberikan standar objektif untuk menentukan",
+      "slug": "12-norma-a-quo-tidak-memberikan-standar-objektif-untuk-menentukan",
+      "text": "perlakuan terhadap mahasiswa terdampak \n Bahwa kepastian hukum mensyaratkan adanya parameter objektif y ang \ndapat digunakan untuk menentukan bagaimana suatu keadaan hukum \ndiperlakukan. Bahwa dalam persoalan perubahan akreditasi, terda pat \nbeberapa titik waktu yang secara objektif dapat digunakan, anta ra lain \ntanggal penerimaan mahasiswa, periode masa studi, tanggal berla kunya \nhasil reakreditasi, dan tanggal kelulusan. Bahwa Pasal 33 ayat (3) dan \nayat (6) mengatur keberadaan serta perubahan status akreditasi,  tetapi \ntidak menentukan titik waktu mana yang menjadi dasar perlindung an \nmahasiswa existing. Bahwa Pasal 42 ayat (1) juga tidak memberikan \nparameter temporal ketika menghubungkan ijazah dengan Program Studi \nterakreditasi. Bahwa akibatnya, mahasiswa tidak dapat mengetahu i \nsecara pasti konsekuensi hukum yang akan diterima. Bahwa \nketidakpastian demikian dapat melahirkan penerapan yang berbeda-beda \nkarena pihak pelaksana dapat menggunakan interpretasi yang berb eda \nmengenai status akreditasi yang relevan. Bahwa kondisi demikian  \nberbahaya bagi kepastian hukum karena hak mahasiswa tidak boleh  \nbergantung pada penafsiran yang berubah-ubah. Bahwa Pemohon IX \nmisalnya telah berada pada semester VIII dan status Program Stu dinya \nberubah menjadi B sejak 21 April 2026, sehingga membutuhkan kejelasan \napakah status tersebut harus diterapkan terhadap dirinya sebaga i \nmahasiswa yang telah diterima ketika status sebelumnya masih A. Bahwa \ntanpa parameter objektif, persoalan tersebut tidak mempunyai ja waban \nyang pasti dalam UU. Bahwa Pasal 28D ayat (1) UUD NRI 1945 \nmenghendaki agar warga negara memperoleh jaminan dan perlindungan \nkepastian hukum yang adil. Bahwa karena itu, norma  a quo  h a r u s  \ndimaknai dengan parameter yang jelas sehingga mahasiswa dapat \nmengetahui akibat perubahan akreditasi terhadap kedudukannya se jak \nawal.",
+      "start_line": 1237,
+      "end_line": 1265
+    },
+    {
+      "heading": "13. Ketidakpastian hukum semakin berat bagi mahasiswa pada tahap akhir",
+      "slug": "13-ketidakpastian-hukum-semakin-berat-bagi-mahasiswa-pada-tahap-akhir",
+      "text": "Bahwa tingkat kerugian akibat perubahan akreditasi tidak selal u sama \nbagi setiap mahasiswa karena bergantung pada tahap pendidikan y ang \nsedang ditempuh ketika perubahan terjadi. Bahwa Pemohon I dan \n\n \n \n35 \nPemohon IX telah berada pada semester VIII, Pemohon II pada semester \nVII, Pemohon III sampai Pemohon VI pada semester V, dan Pemohon VII \nserta Pemohon VIII pada semester III. Bahwa mahasiswa semester VIII \nsecara objektif mempunyai ruang yang paling kecil untuk merespo ns \nperubahan karena sebagian besar masa pendidikan telah selesai d an \nproses kelulusan telah dekat. Bahwa apabila perubahan akreditas i \nmempunyai konsekuensi terhadap pengakuan pendidikan atau \nkesempatan setelah lulus, mahasiswa pada tahap akhir tidak memi liki \nkesempatan realistis untuk memilih kembali Program Studi tanpa \nmengorbankan pendidikan yang telah ditempuh. Bahwa Pasal 33 ayat (3) \ndan ayat (6) tidak memberikan perlindungan berdasarkan tahap \npendidikan tersebut. Bahwa Pasal 42 ayat (1) juga tidak memberi kan \nperlakuan khusus terhadap mahasiswa yang telah hampir menyelesaikan \npendidikan. Bahwa keadaan tersebut menunjukkan pentingnya \nperlindungan transisional agar mahasiswa tidak kehilangan manfa at dari \npendidikan yang telah hampir selesai hanya karena perubahan sta tus \nyang terjadi pada penghujung masa studi. Bahwa kepastian hukum \nseharusnya semakin kuat ketika seseorang telah hampir memenuhi \nseluruh kewajiban yang ditentukan oleh sistem pendidikan. Bahwa  \nmahasiswa yang telah mencapai tahap akhir seharusnya dapat \nmengetahui secara pasti akibat hukum dari kelulusannya. Bahwa \nketidakpastian tersebut merupakan kerugian konstitusional yang relevan \ndengan Pasal 28D ayat (1) UUD NRI 1945. Bahwa oleh karena itu, norma \na quo harus memberikan kepastian bahwa mahasiswa yang telah diterima \nsebelum perubahan akreditasi tetap memperoleh pengakuan atas \npendidikan yang ditempuh berdasarkan keadaan hukum ketika \npenerimaan.",
+      "start_line": 1267,
+      "end_line": 1300
+    },
+    {
+      "heading": "14. Norma a quo menghasilkan ketidakpastian terhadap rencana profesional",
+      "slug": "14-norma-a-quo-menghasilkan-ketidakpastian-terhadap-rencana-profesional",
+      "text": "setelah lulus \n Bahwa status akreditasi Program Studi dalam praktik dapat menj adi salah \nsatu persyaratan atau pertimbangan dalam proses setelah mahasis wa \nmenyelesaikan pendidikan, termasuk dalam proses seleksi tertent u. \nBahwa Pemohon IX merupakan contoh konkret karena ketika pertama kali \nmasuk kuliah Program Studi berakreditasi A dan Pemohon IX kemud ian \n\n \n \n36 \nmempertahankan IPK cumlaude dengan rencana mendaftarkan diri pada \nCPNS jalur cumlaude yang mensyaratkan akreditasi Program Studi A. \nBahwa kemudian terjadi reakreditasi yang menyebabkan status Pro gram \nStudi berubah menjadi B dan berlaku sejak 21 April 2026 sampai dengan \n21 April 2031. Bahwa perubahan tersebut terjadi ketika Pemohon IX telah \nberada pada semester VIII. Bahwa Pasal 33 ayat (6) memberikan d asar \nmengenai dilakukannya akreditasi ulang, tetapi tidak memberikan  \nkepastian mengenai perlindungan terhadap mahasiswa yang telah \nditerima sebelum perubahan tersebut. Bahwa Pasal 42 ayat (1) ju ga \nmengaitkan ijazah dengan Program Studi terakreditasi tanpa menentukan \nstatus waktu yang relevan terhadap mahasiswa yang masa studinya  \nmelintasi perubahan akreditasi. Bahwa akibatnya Pemohon IX \nmenghadapi ketidakpastian mengenai kemampuan menggunakan hasil \npendidikan yang telah ditempuh untuk kepentingan profesional yang telah \ndirencanakan. Bahwa sekalipun persyaratan CPNS berasal dari rez im \nhukum tersendiri, kerugian Pemohon IX menunjukkan adanya akibat  \nnyata dari ketidakpastian status akreditasi terhadap masa depan lulusan. \nBahwa kepastian hukum tidak dapat dipisahkan dari kemampuan war ga \nnegara untuk merencanakan tindakannya berdasarkan hukum yang \nberlaku. Bahwa oleh karena itu, ketidakjelasan akibat perubahan  \nakreditasi terhadap mahasiswa existing bertentangan dengan Pasal 28D \nayat (1) UUD NRI 1945.",
+      "start_line": 1302,
+      "end_line": 1333
+    },
+    {
+      "heading": "15. Norma a quo harus diberikan pemaknaan konstitusional untuk melindungi",
+      "slug": "15-norma-a-quo-harus-diberikan-pemaknaan-konstitusional-untuk-melindungi",
+      "text": "mahasiswa existing \n Bahwa berdasarkan seluruh uraian tersebut, persoalan konstitus ional \ndalam Pasal 33 ayat (3), Pasal 33 ayat (6), dan Pasal 42 ayat ( 1) UU \nNomor 12 Tahun 2012 bukan terletak pada kewenangan negara untuk  \nmelakukan akreditasi ulang atau kewenangan lembaga akreditasi u ntuk \nmenilai Program Studi, melainkan pada tidak adanya kepastian mengenai \nakibat perubahan status akreditasi terhadap mahasiswa yang tela h \nditerima sebelum perubahan tersebut. Bahwa akreditasi ulang tet ap \nmerupakan bagian dari sistem penjaminan mutu pendidikan tinggi dan \ntidak dipersoalkan keberadaannya. Bahwa yang dipersoalkan adala h \nketika perubahan hasil akreditasi menimbulkan akibat terhadap \n\n \n \n37 \nmahasiswa yang tidak mempunyai kewenangan untuk mempengaruhi \nproses tersebut. Bahwa Pasal 42 ayat (1) menggunakan frasa Prog ram \nStudi terakreditasi sebagai dasar pengakuan terhadap penyelesai an \npendidikan, tetapi tidak memberikan aturan temporal mengenai st atus \nakreditasi mahasiswa existing. Bahwa keadaan tersebut menimbulkan \nketidakpastian hukum yang nyata dan potensial sebagaimana diala mi \nPara Pemohon dengan tingkat pendidikan yang berbeda-beda. Bahwa  \nPasal 28D ayat (1) UUD NRI 1945 menjamin pengakuan, jaminan, \nperlindungan, dan kepastian hukum yang adil. Bahwa perlindungan  \ntersebut menghendaki adanya aturan yang dapat memberikan kepast ian \nkepada mahasiswa sejak diterima sampai menyelesaikan pendidikan . \nBahwa oleh karena itu, Para Pemohon memohon agar Mahkamah \nmemberikan pemaknaan konstitusional terhadap norma a quo sehingga \nperubahan status akreditasi Program Studi setelah mahasiswa dit erima \ntidak mengurangi atau menghilangkan hak dan pengakuan terhadap \npendidikan mahasiswa tersebut berdasarkan status akreditasi yan g \nberlaku pada saat mahasiswa diterima, tanpa menghalangi pelaksa naan \nakreditasi ulang terhadap Program Studi. Bahwa pemaknaan demiki an \ntidak menghapus kewenangan negara untuk melakukan penjaminan \nmutu, tetapi justru memberikan keseimbangan antara kepentingan \npeningkatan mutu pendidikan dengan perlindungan kepastian hukum  \nmahasiswa. Bahwa dengan demikian, norma a quo  sepanjang tidak \ndimaknai demikian bertentangan dengan Pasal 28D ayat (1) UUD NR I \n1945. \nB. PASAL 33 AYAT (3), PASAL 33 AYAT (6), DAN PASAL 42 AYAT (1) UU \nNOMOR 12 TAHUN 2012 BERTENTANGAN DENGAN PASAL 28I AYAT \n(2) UUD NRI 1945",
+      "start_line": 1335,
+      "end_line": 1376
+    },
+    {
+      "heading": "1. Perubahan akreditasi dapat menghasilkan perlakuan berbeda te rhadap",
+      "slug": "1-perubahan-akreditasi-dapat-menghasilkan-perlakuan-berbeda-te-rhadap",
+      "text": "mahasiswa dalam Program Studi yang sama \n Bahwa Pasal 28I ayat (2) UUD NRI 1945 menjamin setiap orang be bas \ndari perlakuan yang bersifat diskriminatif atas dasar apa pun. Bahwa \npersoalan diskriminasi dalam perkara a quo  tidak didasarkan pada \nperbedaan identitas pribadi Para Pemohon, melainkan pada \nkemungkinan adanya perbedaan konsekuensi hukum terhadap \n\n \n \n38 \nmahasiswa yang berada dalam Program Studi yang sama hanya karen a \nmereka menyelesaikan pendidikan pada periode akreditasi yang berbeda. \nBahwa Pasal 33 ayat (6) memungkinkan terjadinya akreditasi ulan g \nsetelah jangka waktu akreditasi berakhir, sedangkan Pasal 42 ay at (1) \nmengaitkan ijazah dengan Program Studi terakreditasi. Bahwa apa bila \nmahasiswa yang diterima dalam periode yang sama kemudian lulus pada \nwaktu berbeda dan memperoleh konsekuensi berbeda akibat perubah an \nakreditasi, maka perbedaan tersebut tidak lahir dari prestasi a kademik, \nkemampuan, atau kesalahan mahasiswa. Bahwa mahasiswa tidak \nmempunyai kewenangan untuk mempengaruhi hasil reakreditasi \nsehingga waktu perubahan tersebut merupakan keadaan eksternal b agi \nmahasiswa. Bahwa perbedaan perlakuan yang timbul hanya karena \nwaktu kelulusan harus mempunyai dasar objektif dan rasional. Ba hwa \ntanpa perlindungan transisional, mahasiswa yang lulus setelah perubahan \ndapat menerima konsekuensi yang lebih berat daripada mahasiswa yang \nlulus sebelumnya meskipun keduanya telah menjalani pendidikan p ada \nProgram Studi yang sama. Bahwa keadaan demikian berpotensi \nmenimbulkan perlakuan berbeda yang tidak proporsional. Bahwa ol eh \nkarena itu, norma a quo harus memberikan perlindungan agar perubahan \nakreditasi tidak mengakibatkan mahasiswa existing diperlakukan seolah-\nolah mereka sejak awal memilih Program Studi dengan status akre ditasi \nyang baru.",
+      "start_line": 1378,
+      "end_line": 1409
+    },
+    {
+      "heading": "2. Mahasiswa tidak boleh dibedakan berdasarkan peristiwa yang tidak dapat",
+      "slug": "2-mahasiswa-tidak-boleh-dibedakan-berdasarkan-peristiwa-yang-tidak-dapat",
+      "text": "mereka kendalikan \n Bahwa Para Pemohon tidak mempunyai kewenangan untuk menentukan  \nkapan proses reakreditasi dilakukan, bagaimana asesmen dilakuka n, \nmaupun apa hasil akhirnya. Bahwa seluruh aspek tersebut berada dalam \nmekanisme kelembagaan pendidikan tinggi sebagaimana diatur mela lui \nsistem akreditasi. Bahwa Pasal 33 ayat (6) membebankan kewajiba n \nakreditasi ulang kepada Program Studi ketika masa akreditasi be rakhir. \nBahwa mahasiswa hanya menerima akibat dari perubahan tersebut tanpa \nmempunyai kemampuan untuk mengendalikannya. Bahwa apabila \nperubahan tersebut kemudian digunakan untuk memberikan konsekuensi \nyang berbeda kepada mahasiswa, maka mahasiswa dapat dibedakan \n\n \n \n39 \nberdasarkan suatu keadaan yang sepenuhnya berada di luar \nkehendaknya. Bahwa prinsip non-diskriminasi menuntut agar perbe daan \nperlakuan mempunyai hubungan yang rasional dengan karakteristik atau \nkeadaan yang memang relevan. Bahwa dalam perkara a quo , status \nmahasiswa sebagai mahasiswa existing justru merupakan keadaan yang \nrelevan karena keputusan pendidikan telah dibuat sebelum peruba han \nakreditasi. Bahwa memperlakukan mahasiswa existing sama dengan \nmahasiswa baru setelah perubahan akreditasi dapat mengabaikan \nperbedaan keadaan faktual yang sangat penting. Bahwa Pemohon IX  \nmisalnya memilih Program Studi ketika akreditasi A, sedangkan \nperubahan menjadi B terjadi ketika dirinya telah semester VIII.  B a h w a  \nmenjadikan Pemohon IX sepenuhnya tunduk kepada status baru tanp a \nmemperhitungkan status ketika penerimaan dapat menghasilkan \nperlakuan berbeda yang tidak mencerminkan keadaan objektif Pemo hon \nIX. Bahwa Pasal 28I ayat (2) UUD NRI 1945 menghendaki adanya \nperlindungan dari perlakuan diskriminatif. Bahwa oleh sebab itu, norma a \nquo harus ditafsirkan dengan memperhatikan posisi mahasiswa existing \nagar tidak terjadi perlakuan berbeda berdasarkan keadaan yang t idak \ndapat mereka kendalikan.",
+      "start_line": 1411,
+      "end_line": 1444
+    },
+    {
+      "heading": "3. Perbedaan waktu kelulusan bukan dasar yang cukup untuk mengu rangi",
+      "slug": "3-perbedaan-waktu-kelulusan-bukan-dasar-yang-cukup-untuk-mengu-rangi",
+      "text": "pengakuan pendidikan \n Bahwa mahasiswa dalam Program Studi yang sama dapat \nmenyelesaikan pendidikan pada waktu berbeda karena perbedaan \nsemester, beban studi, atau waktu pemenuhan persyaratan akademi k. \nBahwa perbedaan waktu tersebut tidak dengan sendirinya menunjuk kan \nadanya perbedaan kualitas pendidikan. Bahwa apabila perubahan status \nakreditasi terjadi di antara waktu kelulusan mahasiswa, maka mahasiswa \nyang lulus sebelum dan sesudah perubahan dapat memperoleh \nkonsekuensi berbeda. Bahwa Pasal 33 ayat (6) tidak menentukan \nperlindungan terhadap mahasiswa yang masa studinya melintasi \nperubahan tersebut. Bahwa Pasal 42 ayat (1) juga tidak membedak an \nmahasiswa berdasarkan waktu penerimaan ketika mengaitkan ijazah  \ndengan Program Studi terakreditasi. Bahwa akibatnya, waktu kelu lusan \ndapat menjadi faktor yang menentukan konsekuensi status akredit asi. \n\n \n \n40 \nBahwa apabila perbedaan tersebut berdampak pada kesempatan \npendidikan atau profesional setelah lulus, maka mahasiswa yang \nterlambat lulus karena alasan yang sah dapat mengalami kerugian  \ndibandingkan mahasiswa yang lulus sebelumnya. Bahwa perbedaan \ntersebut harus diuji berdasarkan Pasal 28I ayat (2) UUD NRI 1945 karena \nhukum tidak boleh menciptakan perlakuan berbeda yang tidak \nmempunyai dasar objektif. Bahwa dalam konteks Para Pemohon, mereka \nberada dalam berbagai tingkat semester dan masing-masing mempunyai \nkemungkinan menyelesaikan pendidikan pada periode yang berbeda.  \nBahwa ketentuan yang tidak menyediakan perlindungan transisiona l \nberpotensi membuat status akreditasi menjadi pembeda utama anta ra \nmahasiswa yang sebenarnya mempunyai dasar penerimaan dan proses  \npendidikan yang sama. Bahwa karena itu, perlakuan tersebut perl u \ndiperbaiki melalui pemaknaan konstitusional yang mengakui kedud ukan \nmahasiswa berdasarkan keadaan akreditasi ketika mereka diterima.",
+      "start_line": 1446,
+      "end_line": 1478
+    },
+    {
+      "heading": "4. Mahasiswa existing merupakan kelompok yang secara objektif berbeda",
+      "slug": "4-mahasiswa-existing-merupakan-kelompok-yang-secara-objektif-berbeda",
+      "text": "dari mahasiswa baru \n Bahwa mahasiswa yang diterima sebelum perubahan akreditasi \nmempunyai keadaan yang berbeda secara objektif dari mahasiswa y ang \nbaru mendaftar setelah perubahan akreditasi. Bahwa mahasiswa existing \ntelah mengambil keputusan berdasarkan status akreditasi sebelum nya \ndan telah memulai proses pendidikan, sedangkan mahasiswa baru dapat \nmengetahui status akreditasi yang telah berubah sebelum memilih  \nProgram Studi. Bahwa Pasal 33 ayat (3) dan ayat (6) tidak membe rikan \nkonsekuensi hukum berbeda berdasarkan perbedaan tersebut. Bahwa  \ntidak adanya perlindungan terhadap kelompok existing dapat \nmenyebabkan mereka menerima perlakuan seolah-olah berada dalam \nkondisi yang sama dengan mahasiswa baru. Bahwa keadaan tersebut  \njustru mengabaikan perbedaan faktual yang relevan secara hukum.  \nBahwa mahasiswa existing tidak dapat mengubah keputusan pendidikan \nsecara mudah setelah menjalani beberapa semester. Bahwa mereka \ntelah menginvestasikan waktu dan sumber daya serta telah memenu hi \nkewajiban akademik. Bahwa mahasiswa baru belum mempunyai investasi \npendidikan yang sama dan dapat memilih berdasarkan keadaan terb aru. \n\n \n \n41 \nBahwa dengan demikian, perbedaan perlakuan yang seharusnya \ndibangun oleh hukum justru tidak tersedia dalam norma  a quo . Bahwa \nPasal 28I ayat (2) tidak hanya relevan ketika terdapat pembedaan secara \neksplisit, tetapi juga ketika suatu norma menghasilkan dampak b erbeda \nterhadap kelompok yang secara objektif berbeda tanpa alasan yan g \nmemadai. Bahwa oleh karena itu, norma a quo  perlu ditafsirkan untuk \nmemberikan perlindungan terhadap mahasiswa existing sebagai \nkelompok yang mempunyai keadaan khusus akibat perubahan akreditasi \nsetelah penerimaan.",
+      "start_line": 1480,
+      "end_line": 1510
+    },
+    {
+      "heading": "5. Potensi diskriminasi terhadap mahasiswa yang mempertahankan prestasi",
+      "slug": "5-potensi-diskriminasi-terhadap-mahasiswa-yang-mempertahankan-prestasi",
+      "text": "akademik \n Bahwa Pemohon IX secara khusus mempertahankan IPK cumlaude \ndengan tujuan menggunakan prestasi akademik tersebut dalam renc ana \nmengikuti CPNS jalur cumlaude yang mensyaratkan akreditasi Program \nStudi A. Bahwa ketika Pemohon IX pertama kali masuk kuliah, Pro gram \nStudi tersebut berakreditasi A, sedangkan kemudian hasil reakre ditasi \nmenyebabkan statusnya berubah menjadi B sejak 21 April 2026 sam pai \n21 April 2031. Bahwa Pemohon IX telah mencapai semester VIII sehingga \nperubahan tersebut terjadi setelah sebagian besar pendidikan te lah \nditempuh. Bahwa apabila Pemohon IX kemudian tidak dapat memenuh i \npersyaratan tertentu hanya karena status akreditasi berubah set elah \ndirinya diterima, maka Pemohon IX dapat berada dalam posisi yan g \nberbeda dengan mahasiswa yang lulus sebelum perubahan, meskipun  \nprestasi akademiknya setara atau bahkan sama-sama memenuhi predikat \ncumlaude. Bahwa perbedaan tersebut tidak berasal dari kualitas \nakademik Pemohon IX, melainkan dari perubahan status institusio nal \nyang berada di luar kendalinya. Bahwa keadaan demikian menunjuk kan \npentingnya perlindungan terhadap mahasiswa agar prestasi akademiknya \ntidak kehilangan manfaat karena perubahan status akreditasi yang terjadi \nsetelah penerimaan. Bahwa Pasal 28I ayat (2) UUD NRI 1945 \nmenghendaki agar seseorang tidak mengalami perlakuan diskrimina tif. \nBahwa perbedaan akibat yang ditanggung Pemohon IX dibandingkan \nmahasiswa lain harus mempunyai dasar yang objektif dan rasional . \nBahwa jika satu-satunya pembeda adalah tanggal kelulusan yang \n\n \n \n42 \nberkaitan dengan perubahan akreditasi, maka pembeda tersebut pa tut \ndipersoalkan karena tidak mencerminkan kualitas atau prestasi \nmahasiswa. Bahwa norma a quo  sepanjang memungkinkan keadaan \ndemikian tanpa memberikan perlindungan transisional bertentanga n \ndengan Pasal 28I ayat (2) UUD NRI 1945.",
+      "start_line": 1512,
+      "end_line": 1544
+    },
+    {
+      "heading": "6. Perbedaan akibat berdasarkan status akreditasi dapat mencipt akan",
+      "slug": "6-perbedaan-akibat-berdasarkan-status-akreditasi-dapat-mencipt-akan",
+      "text": "diskriminasi antarangkatan \n Bahwa perubahan akreditasi dapat menyebabkan mahasiswa dari \nangkatan berbeda menerima konsekuensi berbeda meskipun berada \npada Program Studi yang sama. Bahwa mahasiswa yang diterima ket ika \nakreditasi A dapat berada dalam satu lingkungan pendidikan deng an \nmahasiswa yang masuk setelah status berubah menjadi B. Bahwa apabila \nstatus akreditasi pada saat lulus kemudian digunakan untuk menentukan \nkonsekuensi terhadap dokumen atau kesempatan setelah pendidikan , \nmaka mahasiswa dari angkatan berbeda dapat menerima perlakuan \nberbeda. Bahwa Pasal 33 ayat (6) tidak memberikan aturan yang \nmenjelaskan bagaimana mahasiswa dari angkatan sebelum perubahan  \nharus diperlakukan. Bahwa Pasal 42 ayat (1) hanya menggunakan f rasa \nProgram Studi terakreditasi dan tidak memberikan pembedaan \nberdasarkan angkatan. Bahwa keadaan tersebut dapat menimbulkan \nperbedaan akibat berdasarkan faktor waktu masuk atau lulus, pad ahal \nmahasiswa tidak memilih kapan lembaga akreditasi menyelesaikan \nproses penilaian. Bahwa perbedaan antarangkatan memang dapat \ndibenarkan apabila terdapat alasan objektif yang berkaitan deng an \nkualitas pendidikan yang berbeda. Namun, apabila mahasiswa existing \ntetap menjalani Program Studi yang sama dan perbedaannya hanya \ntimbul karena hasil reakreditasi setelah mereka diterima, maka diperlukan \nmekanisme transisional agar perubahan tersebut tidak menghasilk an \nketidakadilan. Bahwa Pasal 28I ayat (2) memberikan dasar konstitusional \nuntuk mencegah perlakuan diskriminatif tersebut. Bahwa oleh seb ab itu, \nnorma a quo  harus dimaknai sedemikian rupa sehingga perubahan \nakreditasi tidak serta-merta membedakan mahasiswa existing \nberdasarkan angkatan mereka. \n\n \n \n43",
+      "start_line": 1546,
+      "end_line": 1576
+    },
+    {
+      "heading": "7. Status akreditasi tidak boleh menjadi sumber diskriminasi ya ng tidak",
+      "slug": "7-status-akreditasi-tidak-boleh-menjadi-sumber-diskriminasi-ya-ng-tidak",
+      "text": "berkaitan dengan kesalahan mahasiswa \n Bahwa perubahan status akreditasi bukan merupakan akibat dari \npelanggaran atau kesalahan individual mahasiswa. Bahwa mahasisw a \ntidak mempunyai kewenangan terhadap standar kelembagaan yang \nmenjadi objek penilaian akreditasi. Bahwa Pasal 33 ayat (6) men gatur \nkewajiban Program Studi melakukan akreditasi ulang, bukan kewaj iban \nindividual mahasiswa untuk mempertahankan status akreditasi ter sebut. \nBahwa oleh karena itu, setiap akibat yang dibebankan kepada mahasiswa \nberdasarkan perubahan akreditasi harus memperhatikan prinsip ba hwa \nmahasiswa bukan pihak yang bertanggung jawab terhadap hasil \nreakreditasi. Bahwa apabila mahasiswa kemudian memperoleh \nkonsekuensi yang lebih buruk hanya karena status akreditasi ber ubah, \nmaka keadaan tersebut berpotensi menyerupai pemberian sanksi \nterhadap pihak yang tidak melakukan perbuatan yang menjadi penyebab \nperubahan. Bahwa Pasal 28I ayat (2) melindungi setiap orang dar i \nperlakuan diskriminatif. Bahwa perbedaan perlakuan yang timbul karena \nkeadaan kelembagaan dapat diterima apabila mempunyai dasar obje ktif, \ntetapi tidak adil apabila mahasiswa existing diposisikan lebih buruk hanya \nkarena perubahan yang tidak dapat mereka kendalikan. Bahwa Pemohon \nI sampai Pemohon IX telah menempatkan diri dalam proses pendidi kan \nsecara sah dan memenuhi kewajiban akademik sesuai tahap masing-\nmasing. Bahwa oleh karena itu, perubahan status akreditasi tida k \nsemestinya menjadi dasar untuk memberikan konsekuensi yang \nmerugikan kepada mereka tanpa perlindungan transisional. Bahwa norma \na quo sepanjang tidak memberikan perlindungan demikian bertentangan \ndengan Pasal 28I ayat (2) UUD NRI 1945.",
+      "start_line": 1578,
+      "end_line": 1603
+    },
+    {
+      "heading": "8. Pemohon VII mempunyai pengalaman konkret mengenai pencantuma n",
+      "slug": "8-pemohon-vii-mempunyai-pengalaman-konkret-mengenai-pencantuma-n",
+      "text": "akreditasi pada ijazah \n Bahwa Pemohon VII merupakan mahasiswa semester III yang sebelu m \nmenjalani pendidikan pada Perguruan Tinggi saat ini telah perna h \nmenempuh dan menyelesaikan pendidikan pada dua Perguruan Tinggi  \nberbeda dan telah memperoleh ijazah dari kedua Perguruan Tinggi  \ntersebut. Bahwa pada kedua ijazah tersebut dicantumkan status \n\n \n \n44 \nakreditasi Program Studi, sehingga Pemohon VII mempunyai \npengalaman konkret bahwa status akreditasi dapat menjadi bagian  dari \ndokumen pendidikan yang diterima lulusan. Bahwa fakta tersebut \nmenjadikan kepentingan Pemohon VII terhadap kepastian status \nakreditasi bukan sekadar dugaan abstrak. Bahwa Pemohon VII \nmengetahui dari pengalaman langsung bahwa status akreditasi dap at \ntampil pada dokumen hasil pendidikan dan karenanya dapat mempun yai \nrelevansi dalam penggunaan dokumen tersebut setelah lulus. Bahw a \napabila status akreditasi Program Studi yang sedang ditempuh Pemohon \nVII berubah selama masa studi, maka Pemohon VII berpotensi \nmemperoleh dokumen pendidikan dengan keadaan akreditasi yang \nberbeda dari keadaan ketika dirinya mengambil keputusan untuk \nmenempuh pendidikan. Bahwa Pasal 42 ayat (1) menghubungkan ijaz ah \ndengan Program Studi terakreditasi, sedangkan Pasal 33 ayat (6)  \nmengatur akreditasi ulang. Bahwa tidak adanya perlindungan terh adap \nmahasiswa existing dapat menyebabkan Pemohon VII diperlakukan \nberbeda dari lulusan sebelumnya yang memperoleh ijazah ketika s tatus \nakreditasinya masih berbeda. Bahwa perbedaan tersebut tidak ber asal \ndari prestasi atau kualitas ind ividual Pemohon VII. Bahwa karen a itu, \nPasal 28I ayat (2) relevan untuk memastikan bahwa perubahan sta tus \nakreditasi tidak menghasilkan perlakuan berbeda terhadap Pemoho n VII \nyang tidak mempunyai dasar objektif yang memadai.",
+      "start_line": 1605,
+      "end_line": 1636
+    },
+    {
+      "heading": "9. Perbedaan perlakuan tidak boleh ditentukan semata-mata oleh tanggal",
+      "slug": "9-perbedaan-perlakuan-tidak-boleh-ditentukan-semata-mata-oleh-tanggal",
+      "text": "penerbitan ijazah \n Bahwa apabila status akreditasi pada saat penerbitan ijazah di jadikan \ndasar untuk membedakan lulusan, maka tanggal penerbitan ijazah dapat \nmenjadi faktor yang menentukan konsekuensi terhadap mahasiswa. \nBahwa dua mahasiswa dapat menyelesaikan Program Studi yang sama  \ndengan prestasi yang sama tetapi memperoleh konsekuensi berbeda  \nkarena salah satunya lulus sebelum perubahan akreditasi dan yan g \nlainnya lulus setelah perubahan. Bahwa Pasal 42 ayat (1) tidak \nmemberikan aturan yang secara tegas menyelesaikan persoalan \ntersebut. Bahwa Pasal 33 ayat (6) juga hanya mengatur kewajiban  \nreakreditasi dan tidak memberikan perlindungan terhadap mahasis wa \n\n \n \n45 \nyang sedang berada dalam masa studi. Bahwa keadaan tersebut dap at \nmenciptakan perbedaan akibat yang tidak berkaitan dengan kualit as",
+      "start_line": 1638,
+      "end_line": 1654
+    },
+    {
+      "heading": "m a h a s i s w a . B a h w a P a s a l 2 8 I a y a t ( 2 ) U U D N R I 1 9 4 5 m e m b e r i k a n",
+      "slug": "m-a-h-a-s-i-s-w-a-b-a-h-w-a-p-a-s-a-l-2-8-i-a-y-a-t-2-u-u-d-n-r-i-1-9-4-5-m-e-m-b-e-r-i-k-a-n",
+      "text": "perlindungan terhadap perlakuan diskriminatif. Bahwa perbedaan \nberdasarkan tanggal memang dapat dibenarkan dalam keadaan tertentu, \ntetapi harus mempunyai hubungan yang relevan dengan tujuan huku m. \nBahwa dalam konteks ini, tujuan akreditasi adalah memastikan kelayakan \ndan mutu Program Studi, bukan memberikan kerugian kepada mahasiswa \nyang telah masuk ketika status sebelumnya masih berlaku. Bahwa karena \nitu, status akreditasi baru seharusnya tidak secara otomatis menghasilkan \nperlakuan berbeda terhadap mahasiswa existing. Bahwa perlindungan \ntersebut tidak menghalangi akreditasi baru untuk berlaku terhad ap \nmahasiswa yang baru memilih Program Studi setelah status baru \ndiketahui. Bahwa justru pembedaan demikian akan lebih objektif karena \nmemperhatikan keadaan ketika keputusan pendidikan dibuat. Bahwa  \nnorma a quo sepanjang tidak memungkinkan perlindungan tersebut \nberpotensi bertentangan dengan Pasal 28I ayat (2) UUD NRI 1945.",
+      "start_line": 1656,
+      "end_line": 1669
+    },
+    {
+      "heading": "10. Perubahan akreditasi tidak boleh menciptakan “penalti” terh adap",
+      "slug": "10-perubahan-akreditasi-tidak-boleh-menciptakan-penalti-terh-adap",
+      "text": "mahasiswa yang masuk lebih dahulu \n Bahwa mahasiswa yang masuk lebih dahulu pada saat Program Stud i \nberstatus akreditasi tertentu pada dasarnya tidak mempunyai pil ihan \nuntuk memprediksi hasil reakreditasi di masa mendatang. Bahwa mereka \ntelah mengambil keputusan berdasarkan informasi dan keadaan huk um \nyang tersedia pada saat penerimaan. Bahwa apabila perubahan \nakreditasi kemudian menyebabkan mereka menerima konsekuensi yan g \nlebih buruk daripada mahasiswa yang lulus sebelumnya, maka seca ra \nsubstantif mereka dapat mengalami keadaan yang menyerupai penal ti \nkarena menjadi mahasiswa pada periode perubahan tersebut. Bahwa  \nPasal 33 ayat (6) tidak mengatur bahwa mahasiswa harus menanggu ng \nakibat dari hasil reakreditasi. Bahwa Pasal 42 ayat (1) juga ti dak \nmemberikan dasar eksplisit untuk membebankan konsekuensi terseb ut \nkepada mahasiswa. Bahwa karena itu, jika dalam penerapannya \nmahasiswa existing memperoleh akibat yang lebih buruk, maka keadaan \ntersebut tidak mempunyai basis normatif yang memadai. Bahwa Pasal 28I \n\n \n \n46 \nayat (2) UUD NRI 1945 menuntut perlindungan dari perlakuan \ndiskriminatif. Bahwa perlindungan tersebut relevan karena mahas iswa \ntidak seharusnya dibedakan hanya karena kebetulan proses reakre ditasi \nberlangsung ketika mereka sedang menempuh pendidikan. Bahwa \nmahasiswa yang masuk sebelum perubahan dan mahasiswa yang masuk \nsetelah perubahan memang dapat dibedakan secara rasional, tetap i \nmahasiswa yang masuk sebelum perubahan tidak semestinya diposisikan \nlebih buruk karena perubahan tersebut. Bahwa oleh karena itu, n orma a \nquo perlu diberikan pemaknaan yang menjamin bahwa perubahan \nakreditasi tidak menjadi dasar untuk mengurangi hak mahasiswa existing.",
+      "start_line": 1671,
+      "end_line": 1700
+    },
+    {
+      "heading": "11. Perbedaan perlakuan harus berkaitan dengan tujuan akreditasi",
+      "slug": "11-perbedaan-perlakuan-harus-berkaitan-dengan-tujuan-akreditasi",
+      "text": "Bahwa akreditasi pada hakikatnya merupakan bagian dari penjami nan \nmutu eksternal pendidikan tinggi, sedangkan Pasal 33 ayat (6) m engatur \npelaksanaan akreditasi ulang ketika masa akreditasi berakhir. B ahwa \ntujuan tersebut berkaitan dengan kelayakan dan mutu Program Stu di, \nbukan dengan pemberian konsekuensi negatif kepada mahasiswa yan g \ntelah diterima sebelum perubahan status. Bahwa apabila hasil ak reditasi \nbaru kemudian digunakan untuk memberikan perlakuan berbeda kepa da \nmahasiswa existing, maka harus dapat dijelaskan hubungan rasional \nantara perbedaan tersebut dengan tujuan peningkatan mutu. Bahwa  \napabila mahasiswa tetap menjalani pendidikan dalam Program Studi yang \nsama dan telah memenuhi standar akademik yang ditentukan, perbedaan \nstatus akreditasi yang muncul kemudian tidak dengan sendirinya \nmenunjukkan bahwa mahasiswa tersebut memiliki kualitas yang leb ih \nrendah. Bahwa karena itu, menggunakan perubahan akreditasi untu k \nmembedakan mahasiswa tanpa mempertimbangkan waktu penerimaan \ndapat menghasilkan perbedaan yang tidak sejalan dengan tujuan \nakreditasi. Bahwa Pasal 28I ayat (2) UUD NRI 1945 menuntut agar setiap \norang bebas dari perlakuan diskriminatif. Bahwa perbedaan perla kuan \nharus mempunyai dasar objektif, bukan sekadar akibat mekanis da ri \nperubahan administratif. Bahwa norma a quo  tidak memberikan \nparameter tersebut. Bahwa keadaan demikian membuka ruang bagi \nmunculnya perlakuan yang berbeda terhadap mahasiswa yang secara  \nsubstansial berada dalam keadaan pendidikan yang sama. Bahwa ol eh \n\n \n \n47 \nkarena itu, perlindungan terhadap mahasiswa existing merupakan \nkonsekuensi yang diperlukan agar sistem akreditasi tidak mengha silkan \ndiskriminasi yang tidak mempunyai hubungan dengan tujuan penjaminan \nmutu.",
+      "start_line": 1702,
+      "end_line": 1732
+    },
+    {
+      "heading": "12. Mahasiswa tidak boleh kehilangan kesempatan hanya karena perubahan",
+      "slug": "12-mahasiswa-tidak-boleh-kehilangan-kesempatan-hanya-karena-perubahan",
+      "text": "status institusi \n Bahwa status akreditasi Program Studi dapat mempunyai relevans i \nterhadap berbagai kesempatan setelah mahasiswa menyelesaikan \npendidikan, termasuk ketika pihak tertentu menetapkan persyarat an \nadministratif berdasarkan akreditasi. Bahwa Pemohon IX mengalam i \nkeadaan konkret karena rencana mengikuti CPNS jalur cumlaude \nmensyaratkan akreditasi Program Studi A, sementara Program Stud i \ntempat Pemohon IX menempuh pendidikan berubah menjadi B setelah  \ndirinya diterima. Bahwa apabila status baru diterapkan secara m utlak \nkepada Pemohon IX tanpa mempertimbangkan status ketika penerimaan, \nmaka Pemohon IX berpotensi kehilangan kesempatan yang sebelumny a \nsecara rasional direncanakan berdasarkan keadaan akreditasi ket ika \nmemilih pendidikan. Bahwa mahasiswa yang lulus sebelum perubaha n \ndapat mempunyai kesempatan yang tidak lagi tersedia bagi Pemoho n IX \nhanya karena waktu kelulusan. Bahwa Pasal 33 ayat (6) tidak \nmemberikan mekanisme untuk mencegah akibat demikian. Bahwa Pasa l \n42 ayat (1) juga tidak menentukan bagaimana status akreditasi \nmahasiswa existing harus diperlakukan. Bahwa keadaan tersebut \nberpotensi menciptakan perlakuan berbeda yang tidak didasarkan pada \nprestasi akademik Pemohon IX, melainkan pada perubahan institusional. \nBahwa Pasal 28I ayat (2) UUD NRI 1945 memberikan dasar perlindungan \nterhadap keadaan demikian. Bahwa negara tidak harus menjamin bahwa \nsetiap lulusan pasti diterima dalam suatu seleksi, tetapi negar a wajib \nmemastikan bahwa sistem hukum tidak menciptakan ketidaksetaraan  \nyang berasal dari perubahan status yang terjadi setelah mahasis wa \nmembuat keputusan pendidikan. Bahwa karena itu, norma a quo harus \nmemberikan perlindungan terhadap mahasiswa existing agar perubahan \nakreditasi tidak secara otomatis menghilangkan kesempatan yang secara \n\n \n \n48 \nobjektif telah dapat direncanakan berdasarkan status ketika mah asiswa \nditerima.",
+      "start_line": 1734,
+      "end_line": 1767
+    },
+    {
+      "heading": "13. Pemohon VII dan mahasiswa dengan pengalaman pendidikan",
+      "slug": "13-pemohon-vii-dan-mahasiswa-dengan-pengalaman-pendidikan",
+      "text": "sebelumnya menunjukkan adanya kepentingan yang konkret \n Bahwa Pemohon VII mempunyai pengalaman sebelumnya \nmenyelesaikan pendidikan pada dua Perguruan Tinggi berbeda dan \nmemperoleh ijazah yang mencantumkan akreditasi Program Studi, \nsehingga Pemohon VII mempunyai dasar pengalaman konkret mengenai \nrelevansi status akreditasi terhadap dokumen pendidikan. Bahwa \nPemohon VII saat ini kembali menempuh pendidikan pada semester III \ndan menghadapi kemungkinan bahwa status akreditasi Program Stud i \nyang sedang ditempuh dapat berbeda ketika dirinya lulus. Bahwa apabila \nperubahan tersebut menghasilkan konsekuensi berbeda terhadap \ndokumen atau kesempatan setelah lulus dibandingkan lulusan yang  \nmenyelesaikan pendidikan sebelum perubahan, maka Pemohon VII dapat \nmengalami perlakuan berbeda berdasarkan waktu kelulusan. Bahwa \nPasal 28I ayat (2) UUD NRI 1945 memberikan jaminan terhadap \nkebebasan dari perlakuan diskriminatif. Bahwa pengalaman konkre t \nPemohon VII menunjukkan bahwa akreditasi dapat menjadi bagian d ari \ndokumen pendidikan, sehingga perubahan status akreditasi selama masa \nstudi mempunyai relevansi langsung terhadap kepentingan Pemohon VII. \nBahwa Pasal 33 ayat (6) mengatur mekanisme reakreditasi tetapi tidak \nmemberikan perlindungan terhadap mahasiswa existing. Bahwa Pasal 42 \nayat (1) menghubungkan pengakuan penyelesaian pendidikan dengan  \nProgram Studi terakreditasi tetapi tidak membedakan status maha siswa \nberdasarkan waktu penerimaan. Bahwa akibatnya, Pemohon VII dapa t \nberada dalam posisi yang berbeda dari lulusan sebelumnya hanya karena \ndirinya menyelesaikan pendidikan pada periode akreditasi yang berbeda. \nBahwa perbedaan demikian harus mempunyai alasan objektif yang \nberkaitan dengan tujuan hukum dan tidak cukup hanya didasarkan pada \ntanggal kelulusan. Bahwa karena itu, perlindungan terhadap maha siswa \nexisting diperlukan untuk mencegah terjadinya diskriminasi akibat \nperubahan akreditasi yang terjadi setelah mahasiswa diterima. \n\n \n \n49",
+      "start_line": 1769,
+      "end_line": 1802
+    },
+    {
+      "heading": "14. Para Pemohon berada pada tahap pendidikan berbeda tetapi",
+      "slug": "14-para-pemohon-berada-pada-tahap-pendidikan-berbeda-tetapi",
+      "text": "menghadapi sumber persoalan yang sama \n Bahwa Para Pemohon terdiri atas mahasiswa semester VIII, semes ter VII, \nsemester V, dan semester III, sehingga masing-masing mempunyai jarak \nwaktu yang berbeda menuju kelulusan. Bahwa perbedaan semester \ntersebut tidak menghilangkan adanya keadaan yang sama, yaitu se luruh \nPemohon telah menjadi mahasiswa sebelum mengetahui bagaimana \nstatus akreditasi Program Studi akan berlaku pada saat mereka \nmenyelesaikan pendidikan. Bahwa Pemohon I dan Pemohon IX berada  \npada tahap paling dekat dengan kelulusan, Pemohon II hampir \nmenyelesaikan pendidikan, Pemohon III sampai Pemohon VI berada di \npertengahan masa studi, sedangkan Pemohon VII dan Pemohon VIII \nmasih mempunyai masa pendidikan yang lebih panjang. Bahwa apabi la \ntidak terdapat perlindungan transisional, masing-masing kelompo k dapat \nmengalami konsekuensi yang berbeda sesuai dengan kapan mereka \nlulus. Bahwa keadaan tersebut justru memperlihatkan potensi diskriminasi \nyang bersifat struktural karena akibat hukum ditentukan oleh wa ktu \nkelulusan, bukan oleh kualitas atau kesalahan mahasiswa. Bahwa Pasal \n33 ayat (6) tidak menyediakan mekanisme untuk mencegah keadaan \ntersebut. Bahwa Pasal 42 ayat (1) juga tidak menentukan status akreditasi \nyang harus digunakan terhadap mahasiswa yang masa studinya melewati \nperubahan akreditasi. Bahwa Pasal 28I ayat (2) menghendaki agar hukum \nmemberikan perlindungan dari perlakuan diskriminatif. Bahwa \nperlindungan tersebut dapat diwujudkan dengan menetapkan bahwa \nmahasiswa yang telah diterima sebelum perubahan status akreditasi tetap \nmemperoleh perlakuan berdasarkan status yang berlaku ketika \npenerimaan, sekurang-kurangnya dalam hal pengakuan terhadap \npendidikan yang telah ditempuh. Bahwa mekanisme demikian tidak \nmenghalangi negara melakukan akreditasi ulang dan tidak menghap us \nstatus baru bagi mahasiswa yang memilih Program Studi setelah \nperubahan. Bahwa justru mekanisme tersebut membedakan secara \nobjektif kelompok yang memang berada dalam keadaan berbeda dan \nmencegah diskriminasi terhadap mahasiswa existing. \n\n \n \n50",
+      "start_line": 1804,
+      "end_line": 1839
+    },
+    {
+      "heading": "15. Norma a quo harus dimaknai untuk mencegah diskriminasi akibat",
+      "slug": "15-norma-a-quo-harus-dimaknai-untuk-mencegah-diskriminasi-akibat",
+      "text": "perubahan akreditasi \n Bahwa berdasarkan seluruh uraian tersebut, persoalan konstitus ional \nPasal 33 ayat (3), Pasal 33 ayat (6), dan Pasal 42 ayat (1) UU Nomor 12 \nTahun 2012 bukanlah keberadaan akreditasi maupun kewajiban \nmelakukan reakreditasi, melainkan tidak adanya jaminan bahwa \nperubahan status akreditasi tidak menghasilkan perlakuan diskri minatif \nterhadap mahasiswa yang telah diterima sebelum perubahan terseb ut. \nBahwa akreditasi ulang tetap dapat dilakukan sebagai instrumen \npenjaminan mutu, tetapi akibatnya terhadap mahasiswa existing h a r u s  \ndibatasi secara adil. Bahwa Pasal 42 ayat (1) menghubungkan \npengakuan pendidikan dengan Program Studi terakreditasi, tetapi  t idak \nmemberikan perlindungan terhadap perbedaan konsekuensi yang tim bul \nakibat perubahan status akreditasi selama masa studi. Bahwa kea daan \ntersebut dapat menyebabkan mahasiswa yang masuk pada keadaan \nakreditasi yang sama memperoleh konsekuensi berbeda hanya karen a \nwaktu kelulusan mereka berbeda. Bahwa mahasiswa tidak mempunyai  \nkendali terhadap waktu maupun hasil reakreditasi. Bahwa karenan ya, \nmenjadikan perubahan tersebut sebagai dasar untuk memberikan \nkonsekuensi yang lebih merugikan kepada mahasiswa existing berpotensi \nmenimbulkan perlakuan diskriminatif sebagaimana dilarang Pasal 28I \nayat (2) UUD NRI 1945. Bahwa perlindungan yang dimohonkan Para \nPemohon bukanlah hak untuk mempertahankan nilai akreditasi suat u \nProgram Studi selamanya, melainkan hak agar perubahan status \nakreditasi tidak diberlakukan secara merugikan terhadap mahasiswa yang \ntelah diterima sebelum perubahan tersebut. Bahwa pemaknaan demikian \ntetap memberikan ruang bagi negara untuk meningkatkan mutu \npendidikan, melakukan evaluasi, dan melakukan reakreditasi, tetapi pada \nsaat yang sama memberikan perlindungan kepada mahasiswa sebagai  \npihak yang tidak mengendalikan proses akreditasi. Bahwa dengan \ndemikian, Pasal 33 ayat (3), Pasal 33 ayat (6), dan Pasal 42 ay at (1) UU \nNomor 12 Tahun 2012 sepanjang tidak dimaknai demikian bertentan gan \ndengan Pasal 28I ayat (2) UUD NRI 1945. \n\n \n \n51 \nIV. PETITUM \nBahwa dari seluruh dalil-dalil yang diuraikan di atas dan bukti -bukti terlampir, \ndengan ini  Para Pemohon memohon kepada Yang Mulia Majelis Hakim \nMahkamah Konstitusi untuk kiranya memberikan putusan sebagai berikut:",
+      "start_line": 1841,
+      "end_line": 1880
+    },
+    {
+      "heading": "2. Menyatakan Pasal 33 ayat (3) Undang-Undang Nomor 12 Tahun 20 12",
+      "slug": "2-menyatakan-pasal-33-ayat-3-undang-undang-nomor-12-tahun-20-12",
+      "text": "tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia T ahun \n2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nom or \n5336) bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 secara bersyarat ( conditionally unconstitutional ) \nsepanjang tidak dimaknai bahwa persyaratan minimum akreditasi s ebagai \ndasar penyelenggaraan Program Studi juga harus memberikan kepas tian \ndan perlindungan terhadap mahasiswa yang telah diterima pada Pr ogram \nStudi tersebut sebelum terjadi perubahan status akreditasi;",
+      "start_line": 1883,
+      "end_line": 1890
+    },
+    {
+      "heading": "3. Menyatakan Pasal 33 ayat (6) Undang-Undang Nomor 12 Tahun 20 12",
+      "slug": "3-menyatakan-pasal-33-ayat-6-undang-undang-nomor-12-tahun-20-12",
+      "text": "tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia T ahun \n2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nom or \n5336) bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 secara bersyarat ( conditionally unconstitutional ) \nsepanjang tidak dimaknai bahwa pelaksanaan akreditasi ulang dan  \nperubahan status akreditasi Program Studi tidak boleh mengurang i atau \nmenghilangkan hak mahasiswa yang telah diterima sebelum perubah an \nstatus akreditasi tersebut;",
+      "start_line": 1892,
+      "end_line": 1899
+    },
+    {
+      "heading": "4. Menyatakan Pasal 42 ayat (1) Undang-Undang Nomor 12 Tahun 20 12",
+      "slug": "4-menyatakan-pasal-42-ayat-1-undang-undang-nomor-12-tahun-20-12",
+      "text": "tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia T ahun \n2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nom or \n5336) bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 secara bersyarat ( conditionally unconstitutional ) \nsepanjang frasa “program studi terakreditasi” tidak dimaknai ba hwa \nmahasiswa yang telah diterima pada suatu Program Studi sebelum \nperubahan status akreditasi tetap memperoleh pengakuan atas penyelesaian \npendidikannya dan tidak dirugikan semata-mata karena perubahan status \nakreditasi yang terjadi setelah mahasiswa tersebut diterima; \n\n \n \n52",
+      "start_line": 1901,
+      "end_line": 1913
+    },
+    {
+      "heading": "5. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "5-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya.  \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain  mohon \nputusan yang seadil-adilnya (ex aequo et bono).  \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon  telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-6, sebagai \nberikut:",
+      "start_line": 1915,
+      "end_line": 1920
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Republik Indonesia Nomor 12",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-republik-indonesia-nomor-12",
+      "text": "Tahun 2012 tentang Pendidikan Tinggi;",
+      "start_line": 1922,
+      "end_line": 1922
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 Dalam Satu Naskah;",
+      "start_line": 1924,
+      "end_line": 1924
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama S elfi",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-s-elfi",
+      "text": "Yurika;",
+      "start_line": 1926,
+      "end_line": 1926
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama N ovia",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-n-ovia",
+      "text": "Indri Apsari;",
+      "start_line": 1928,
+      "end_line": 1928
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama",
+      "slug": "5-bukti-p-5-fotokopi-kartu-tanda-penduduk-ktp-atas-nama",
+      "text": "Ekwala Nurcahyani;",
+      "start_line": 1930,
+      "end_line": 1930
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama",
+      "slug": "6-bukti-p-6-fotokopi-kartu-tanda-penduduk-ktp-atas-nama",
+      "text": "Najwa Adriana Putri;",
+      "start_line": 1932,
+      "end_line": 1932
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama",
+      "slug": "7-bukti-p-7-fotokopi-kartu-tanda-penduduk-ktp-atas-nama",
+      "text": "Widiati Helmida Juliana;",
+      "start_line": 1934,
+      "end_line": 1934
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama",
+      "slug": "8-bukti-p-8-fotokopi-kartu-tanda-penduduk-ktp-atas-nama",
+      "text": "Maratun Soleha Salsa;",
+      "start_line": 1936,
+      "end_line": 1936
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama",
+      "slug": "9-bukti-p-9-fotokopi-kartu-tanda-penduduk-ktp-atas-nama",
+      "text": "Matius Rangga Wicaksono;",
+      "start_line": 1938,
+      "end_line": 1938
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama",
+      "slug": "10-bukti-p-10-fotokopi-kartu-tanda-penduduk-ktp-atas-nama",
+      "text": "Claudio Ali Zein Tanjung;",
+      "start_line": 1940,
+      "end_line": 1940
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Serti fikat Akreditasi Badan Akreditasi Nasional",
+      "slug": "12-bukti-p-12-fotokopi-serti-fikat-akreditasi-badan-akreditasi-nasional",
+      "text": "Perguruan Tinggi (BAN-PT) berdasarkan Surat \nKeputusan Direktur Eksekutif BAN-PT Nomor \n2199/SK/BAN-PT/Akred/S/IV/2021 tanggal 20 April \n2021, Program Studi Ilmu Hukum pada Program Sarjana \nUniversitas Terbuka, Kota Tangerang Selatan;",
+      "start_line": 1943,
+      "end_line": 1947
+    },
+    {
+      "heading": "13. Bukti P-13 : Fotokopi Serti fikat Akreditasi Badan Akreditasi Nasional",
+      "slug": "13-bukti-p-13-fotokopi-serti-fikat-akreditasi-badan-akreditasi-nasional",
+      "text": "Perguruan Tinggi (BAN-PT) berdasarkan Surat \n\n \n \n53 \nKeputusan Direktur Eksekutif BAN-PT Nomor \n6413/SK/BAN-PT/PEPA-Ppj/S/IV/2026 tanggal 21 April \n2026, Program Studi Ilmu Hukum pada Program Sarjana \nUniversitas Terbuka, Kota Tangerang Selatan;",
+      "start_line": 1949,
+      "end_line": 1957
+    },
+    {
+      "heading": "14. Bukti P-14 : Fotokopi Kartu Tanda Penduduk (KTP) dan Kartu Tanda",
+      "slug": "14-bukti-p-14-fotokopi-kartu-tanda-penduduk-ktp-dan-kartu-tanda",
+      "text": "mahasiswa (KTM) atas nama Esri Setianingsih;",
+      "start_line": 1959,
+      "end_line": 1959
+    },
+    {
+      "heading": "15. Bukti P-15 : Tangkapan layar laman Sistem Informasi Akadem ik",
+      "slug": "15-bukti-p-15-tangkapan-layar-laman-sistem-informasi-akadem-ik",
+      "text": "Universitas Terbuka atas nama Esri Setianingsih;",
+      "start_line": 1961,
+      "end_line": 1961
+    },
+    {
+      "heading": "16. Bukti P-16 : Fotokopi Ijazah Pemohon VII dari 2 (dua) Perg uruan",
+      "slug": "16-bukti-p-16-fotokopi-ijazah-pemohon-vii-dari-2-dua-perg-uruan",
+      "text": "Tinggi berbeda yang memuat status akreditasi Program \nStudi, sebagai bukti bahwa Pemohon VII sebelumnya \ntelah menyelesaikan pendidikan pada 2 (dua) Perguruan \nTinggi dan bahwa status akreditasi Program Studi \ndicantumkan dalam dokumen ijazah yang diterima oleh \nPemohon VII;",
+      "start_line": 1963,
+      "end_line": 1968
+    },
+    {
+      "heading": "17. Bukti P-17 : Fotokopi Pengumuman Seleksi CPNS BKN yang",
+      "slug": "17-bukti-p-17-fotokopi-pengumuman-seleksi-cpns-bkn-yang",
+      "text": "mensyaratkan akreditasi Program Studi dan Universitas \nbagi pelamar dengan kriteria Cumlaude.  \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1970,
+      "end_line": 1974
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \n\n \n \n54 \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945.  \n[3.2] Menimbang bahwa oleh karena permohonan para Pemohon adalah \npengujian konstitusionalitas undang-undang, in casu norma Pasal 33 ayat (3) dan \nayat (6) serta Pasal 42 ayat (1) Undang-Undang Nomor 12 Tahun 2 012 tentang \nPendidikan Tinggi (Lembaran Negara Republik Indonesia Tahun 201 2 Nomor 158, \nTambahan Lembaran Negara Republik Indonesia Nomor 5336, selanjutnya disebut \ndengan UU 12/2012) terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang \nmengadili permohonan  a quo. \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan para Pemohon, namun sebelum mempertimbangkan lebih l anjut \npermohonan a quo, Mahkamah akan mempertimbangkan hal-hal sebagai berikut.  \n[3.3.1] Bahwa sesuai dengan ketentuan hukum acara pengujian undang-und ang, \nMahkamah telah memeriksa permohonan a quo  dalam sidang pemeriksaan \npendahuluan dengan agenda mendengarkan pokok-pokok permohonan p ada hari \nSelasa, tanggal 18 Agustus 2026. Berdasarkan ketentuan Pasal 39  U U  M K  d a n  \nPasal 36 ayat (3) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2 025 tentang \nTata Beracara Dalam Perkara Pengujian Undang-Undang (PMK 7/2025 ), \nMahkamah telah memberikan nasihat kepada para Pemohon untuk mem perbaiki \ndan melengkapi sekaligus memperjelas hal-hal yang berkaitan dengan kewenangan \nMahkamah, kedudukan hukum, alasan-alasan permohonan (posita), d an hal-hal \nyang dimohonkan untuk diputus (petitum) [vide Risalah Sidang, tanggal 18 Agustus \n2026, hlm. 5-16]. Terhadap nasihat yang disampaikan dalam sidan g pemeriksaan \npendahuluan tersebut, para Pemohon telah menyampaikan perbaikan permohonan \nyang diterima Mahkamah pada tanggal 31 Agustus 2026. \n[3.3.2] Bahwa ihwal uraian dalam Sub-paragraf [3.3.1] tersebut di atas, \nMahkamah akan menilai syarat formil suatu permohonan terutama berkaitan dengan \nuraian yang jelas perihal pengujian undang-undang terhadap UUD NRI Tahun 1945 \nsesuai dengan ketentuan Pasal 30 huruf a dan Pasal 31 ayat (1) UU MK serta Pasal \n10 ayat (3) dan Pasal 36 ayat (1) PMK 7/2025, sebagai berikut: \n\n \n \n55 \nPasal 30 huruf a UU MK  \nPermohonan wajib dibuat dengan uraian yang jelas mengenai:  \na. pengujian undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; \nPasal 31 ayat (1) UU MK \n(1) Permohonan sekurang-kurangnya harus memuat:  \na. nama dan alamat pemohon;  \nb. uraian mengenai perihal yang menjadi dasar permohonan \nsebagaimana dimaksud dalam Pasal 30; dan",
+      "start_line": 1976,
+      "end_line": 2034
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025 \n(3)  Permohonan sebagaimana dimaksud pada ayat (1), sekurang-\nkurangnya memuat nama dan alamat Pemohon dengan menguraikan \nhal-hal antara lain:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 2036,
+      "end_line": 2041
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025 \n(1) Dalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam Pa sal \n35 ayat (1) huruf a, Mahkamah memeriksa identitas Pemohon denga n \nkelengkapan dan kejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 2044,
+      "end_line": 2049
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "[3.3.3] Bahwa terhadap persyaratan formil suatu permohonan, in casu \nsistematika permohonan, permohonan a quo telah disusun sesuai dengan format \npermohonan sebagaimana diatur dalam Pasal 31 ayat (1) UU MK dan Pasal 10 ayat \n(3) PMK 7/2025. Namun demikian, sekalipun secara formil permoho nan telah \ndisusun sesuai dengan sistematika permohonan sebagaimana diatur  d a l a m  \nketentuan dimaksud, dalam menilai perihal keterpenuhan syarat f ormil, penilaian \nMahkamah tidak semata-mata berdasar pada sistematika saja, teta pi juga menilai \nperihal keterpenuhan dan ketepatan materi atau substansi dari m asing-masing \nbagian dalam sistematika dimaksud. \n[3.4] Menimbang bahwa berdasarkan uraian sebagaimana termaktub pada \nParagraf [3.3] di atas dan setelah membaca secara saksama permohonan a quo, \nMahkamah mempertimbangkan sebagai berikut: \n[3.4.1] Bahwa para Pemohon dalam permohonan awal bertanggal 4 Agustus \n2026 mengajukan pengujian konstitusionalitas norma Pasal 55 ayat (2) UU 12/2012 \n\n \n \n56 \ndengan norma yang dijadikan dasar pengujian adalah Pasal 28D ayat (1) UUD NRI \nTahun 1945. Terhadap permohonan tersebut, Mahkamah dalam sidang  \npendahuluan pada tanggal 18 Agustus 2026 telah memberikan penas ihatan agar \npara Pemohon memperbaiki atau menyempurnakan permohonan dimaksu d. \nMeskipun demikian, dalam perbaikan Permohonan bertanggal 31 Agu stus 2026, \nsecara substansial, para Pemohon telah mengganti objek permohon an menjadi \npengujian norma Pasal 33 ayat (3) dan ayat (6) serta Pasal 42 ayat (1) UU 12/2012 \ndan tidak lagi menguji norma Pasal 55 ayat (2) UU 12/2012 sebag aimana yang \nterdapat dalam permohonan awal [vide Risalah Sidang, tanggal 31  Agustus 2026, \nhlm. 1-2]. Selain itu, para Pemohon juga menambahkan norma yang dijadikan dasar \npengujian, yaitu Pasal 28I ayat (2) UUD NRI Tahun 1945. \n Bahwa terhadap fakta hukum sebagaimana dikemukakan tersebut di  atas, \nMahkamah perlu mempertimbangkan Pasal 38 PMK 7/2025 yang menyatakan, \n(1) Perbaikan Permohonan dapat dilakukan terhadap hal-hal sebag aimana \ndimaksud dalam Pasal 36 ayat (1) berdasarkan nasihat atau saran dalam \nPemeriksaan Pendahuluan. \n(2) Dalam hal perbaikan Permohonan sebagaimana dimaksud pada ayat (1) \nberkenaan dengan penambahan norma yang dimohonkan pengujian, \ndapat dilakukan sepanjang berkaitan dengan substansi norma dala m \nundang-undang atau Perppu yang dimohonkan pengujian dalam \nPermohonan awal. \nBerdasarkan ketentuan Pasal 38 PMK 7/2025 di atas, menurut \nMahkamah, perbaikan Permohonan hanya dapat dilakukan terhadap h al-hal yang \nterkait dengan kewenangan Mahkamah, kedudukan hukum Pemohon, al asan \npermohonan (posita) dan hal-hal yang diminta untuk diputus berd asarkan nasihat \natau saran Mahkamah dalam Pemeriksaan Pendahuluan yang tujuanny a untuk \nmelengkapi dan memperjelas materi permohonan. Selain itu, dalam  perbaikan \npermohonan hanya diperkenankan menambah norma yang dimohonkan p engujian \nsepanjang norma yang ditambahkan berkaitan dengan substansi nor ma dalam \nundang-undang/Perppu yang dimohonkan pengujian dalam Permohonan awal. \nApabila dibaca secara saksama, dikaitkan dengan permohonan awal , \ntelah ternyata para Pemohon tidak menambah norma yang dimohonka n pengujian \ndalam perbaikan Permohonan bertanggal 31 Agustus 2026 sebagaima na yang \ndiperbolehkan menurut ketentuan Pasal 38 ayat (2) PMK 7/2025, t etapi para \nPemohon mengganti norma yang dimohonkan pengujian tanpa mengiku tkan \n\n \n \n57 \nkembali norma Pasal 55 ayat (2) UU 12/2012 sebagai norma yang d iajukan dalam \npermohonan awal. Terhadap fakta hukum tersebut, dalam batas pen alaran yang \nwajar, permohonan para Pemohon adalah permohonan baru karena no rma yang \ndimohonkan pengujian dalam perbaikan permohonan sama sekali berbeda dengan \npermohonan awal. Bahkan, pada perbaikan permohonan, norma undan g-undang \nyang dimohonkan dalam permohonan awal sama sekali tidak diuji \nkonstitusionalitasnya. Artinya, terlepas dari fakta hukum bahwa  norma baru yang \ndimohonkan pengujian masih memiliki keterkaitan dengan yang dia jukan pada \npermohonan awal, dengan mengajukan norma yang sama sekali baru,  perbaikan \natau perubahan norma yang diuji konstitusionalitasnya tersebut tidak sesuai dengan \nperbaikan yang dimaksudkan ketentuan Pasal 38 PMK 7/2025. \n[3.4.2] Bahwa selain fakta penggantian secara keseluruhan objek permoho nan \nyang dimohonkan pengujian dalam perbaikan Permohonan, Mahkamah juga \nmencermati petitum angka 2, angka 3, dan angka 4, yang menyatak an sebagai \nberikut:",
+      "start_line": 2052,
+      "end_line": 2123
+    },
+    {
+      "heading": "2. Menyatakan Pasal 33 ayat (3) Undang-Undang Nomor 12 Tahun 20 12",
+      "slug": "2-menyatakan-pasal-33-ayat-3-undang-undang-nomor-12-tahun-20-12",
+      "text": "tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia T ahun \n2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nom or \n5336) bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 secara bersyarat ( conditionally unconstitutional ) \nsepanjang tidak dimaknai bahwa persyaratan minimum akreditasi s ebagai \ndasar penyelenggaraan Program Studi juga harus memberikan kepas tian \ndan perlindungan terhadap mahasiswa yang telah diterima pada Pr ogram \nStudi tersebut sebelum terjadi perubahan status akreditasi;",
+      "start_line": 2126,
+      "end_line": 2133
+    },
+    {
+      "heading": "3. Menyatakan Pasal 33 ayat (6) Undang-Undang Nomor 12 Tahun 20 12",
+      "slug": "3-menyatakan-pasal-33-ayat-6-undang-undang-nomor-12-tahun-20-12",
+      "text": "tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia T ahun \n2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nom or \n5336) bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 secara bersyarat ( conditionally unconstitutional ) \nsepanjang tidak dimaknai bahwa pelaksanaan akreditasi ulang dan  \nperubahan status akreditasi Program Studi tidak boleh mengurang i atau \nmenghilangkan hak mahasiswa yang telah diterima sebelum perubah an \nstatus akreditasi tersebut;",
+      "start_line": 2135,
+      "end_line": 2142
+    },
+    {
+      "heading": "4. Menyatakan Pasal 42 ayat (1) Undang-Undang Nomor 12 Tahun 20 12",
+      "slug": "4-menyatakan-pasal-42-ayat-1-undang-undang-nomor-12-tahun-20-12",
+      "text": "tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia T ahun \n2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nom or \n5336) bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 secara bersyarat ( conditionally unconstitutional ) \nsepanjang frasa “program studi terakreditasi” tidak dimaknai ba hwa \nmahasiswa yang telah diterima pada suatu Program Studi sebelum \nperubahan status akreditasi tetap memperoleh pengakuan atas penyelesaian \n\n \n \n58 \npendidikannya dan tidak dirugikan semata-mata karena perubahan status \nakreditasi yang terjadi setelah mahasiswa tersebut diterima; \n Bahwa berkenaan dengan petitum permohonan para Pemohon tersebu t, \nMahkamah mempertimbangkan ketentuan Pasal 51A ayat (5) huruf b dan huruf c \nUU MK yang menyatakan: \nDalam hal permohonan pengujian berupa permohonan pengujian materiil, \nhal yang dimohonkan untuk diputus dalam Permohonan pengujian \nsebagaimana dimaksudkan dalam Pasal 31 ayat (1) huruf c meliputi: \na. … \nb. menyatakan bahwa materi muatan ayat, pasal, dan/atau bagian dari \nundang-undang dimaksud bertentangan dengan Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945; dan",
+      "start_line": 2144,
+      "end_line": 2166
+    },
+    {
+      "heading": "c. menyatakan bahwa materi muatan ayat, pasal, dan/atau bagian dari",
+      "slug": "c-menyatakan-bahwa-materi-muatan-ayat-pasal-dan-atau-bagian-dari",
+      "text": "undang-undang dimaksud tidak mempunyai kekuatan hukum \nmengikat. \n Bahwa setelah memeriksa secara komprehensif petitum permohonan  \npara Pemohon, Mahkamah menemukan fakta hukum para Pemohon dalam  \nmenguraikan pemaknaan terhadap norma undang-undang yang dimohon kan \npengujian hanya memohonkan agar norma sebagaimana disebutkan dalam petitum \nangka 2, angka 3, dan angka 4 adalah “…bertentangan dengan Unda ng-Undang \nDasar Negara Republik Indonesia Tahun 1945 secara bersyarat ( conditionally \nunconstitutional) sepanjang …”. Rumusan petitum demikian, menurut Mahkamah \nadalah uraian petitum yang tidak lengkap dan tidak lazim karena petitum yang benar \nseharusnya disertai dengan pencantuman frasa “… dan tidak memil iki kekuatan \nhukum mengikat secara bersyarat …”, sehingga apabila dituliskan  secara lengkap \nmaka rumusan petitum berbunyi “…bertentangan dengan Undang-Unda ng Dasar \nNegara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuat an hukum \nmengikat secara bersyarat sepanjang tidak dimaknai …”. \n Bahwa berdasarkan fakta hukum sebagaimana diuraikan tersebut d i atas, \ntelah ternyata para Pemohon dalam perbaikan permohonan telah me ngganti objek \npermohonan tanpa mengikutkan dan menyisakan objek permohonan ya ng \ndimohonkan pengujian dalam permohonan awal sehingga tidak sesua i dengan \nPasal 38 PMK 7/2025. Selain itu, terdapat ketidaklengkapan urai an petitum \npermohonan para Pemohon sehingga tidak sesuai dengan kelaziman petitum dalam \nPasal 51A ayat (5) UU MK. Berdasarkan fakta hukum demikian, tid ak terdapat \n\n \n \n59 \nkeraguan bagi Mahkamah untuk menyatakan permohonan para Pemohon  adalah \ntidak jelas atau kabur (obscuur). \n[3.5] Menimbang bahwa berdasarkan uraian pertimbangan hukum tersebut  di \natas, meskipun Mahkamah berwenang untuk mengadili permohonan a quo, namun \noleh karena permohonan para Pemohon tidak jelas atau kabur ( obscuur) maka \nMahkamah tidak mempertimbangkan lebih lanjut permohonan para Pemohon. \n[3.6] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 2168,
+      "end_line": 2201
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Mahkamah \nberkesimpulan:  \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Permohonan  para Pemohon tidak jelas atau kabur (obscuur); \n[4.3] Permohonan para  Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 2203,
+      "end_line": 2216
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan para Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \n\n \n \n60 \nAdies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Y usmic P. Foekh,  \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, pada hari Selasa, tanggal satu, bulan September, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Rabu, tanggal enam belas, bulan September, tahun dua \nribu dua puluh enam, selesai diucapkan pukul  14.28 WIB , oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Sald i Isra, Adies \nKadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Yusmic P. Foekh,  \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, dengan dibantu oleh Fransisca sebagai Panitera Pengganti, serta dihadiri \noleh Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden a tau yang \nmewakili, tanpa dihadiri para Pemohon dan/atau kuasanya. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nAdies Kadir  \nttd. \nLiliek Prisbawono Adi \nttd. \nEnny Nurbaningsih \nttd. \nDaniel Yusmic P. Foekh \n ttd. \nM. Guntur Hamzah \nttd. \nRidwan Mansyur \n ttd. \nArsul Sani  \n\n \n \n61 \nPANITERA PENGGANTI, \nttd. \nFransisca",
+      "start_line": 2218,
+      "end_line": 2268
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Novia Indri Apsari",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Selfi Yurika",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Ekwala Nurcahyani",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Najwa Adriana Putri",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Widiati Helmida Juliana",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Maratun Soleha Salsa",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Matius Rangga Wicaksono",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Claudio Ali Zein Tanjung",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Esri Setianingsih",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 12/2012 tentang Pendidikan Tinggi"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 28I ayat (2)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 36 ayat (3)",
+      "Pasal 2 ayat (1)",
+      "Pasal 4 ayat (2)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-6",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "BUKTI P-13",
+      "BUKTI P-14",
+      "BUKTI P-15",
+      "BUKTI P-16",
+      "BUKTI P-17",
+      "REFERENSI:300/PUU-XXIV/2026",
+      "REFERENSI:300/PUU/PAN.MK/AP3/08/2026",
+      "REFERENSI:2199/SK/BAN-PT/Akred/S/IV/2021",
+      "REFERENSI:6413/SK/BAN-PT/PEPA-Ppj/S/IV/2026"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "Pemeriksaan Pendahuluan."
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Fransisca"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "300/PUU-XXIV/2026",
+      "300/PUU/PAN.MK/AP3/08/2026",
+      "2199/SK/BAN-PT/Akred/S/IV/2021",
+      "6413/SK/BAN-PT/PEPA-Ppj/S/IV/2026"
+    ],
+    "referenced_cases": [
+      "300/PUU-XXIV/2026",
+      "300/PUU/PAN.MK/AP3/08/2026",
+      "2199/SK/BAN-PT/Akred/S/IV/2021",
+      "6413/SK/BAN-PT/PEPA-Ppj/S/IV/2026"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

@@ -1,0 +1,1066 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14741_1785396550.pdf",
+    "file_name": "putusan_mkri_14741_1785396550.pdf",
+    "page_count": 49,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14741_1785396550.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "241/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-07-30",
+    "decision_date_raw": "tiga puluh, bulan Juli, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 241/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,  \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional d an Undang-\nUndang Nomor 14 Tahun 2005 tentang Guru dan Dosen terhadap Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:  \nNama : Jangkung Sido Sentosa \nPekerjaan : Pegawai/Karyawan Swasta (Kepala PKBM Aji Sakti \nMigunani) \nAlamat : Dusun Krajan, RT/RW 004/003, Kelurahan \nNgendrokilo, Kecamatan Kaliangkrik, Kabupaten \nMagelang, Jawa Tengah \nBerdasarkan Surat Kuasa Khusus bertanggal 19 Juni 2026, memberi kan kuasa \nkepada: Zico Leonard Djagardo Simanjuntak, Leon Maulana Mirza P asha, Priskila \nOctaviani, Ratu Eka Shaira, Ni Kadek Sri Yulianti, dan Gusti Putu Agung Cinta Arya \nDiningrat, kesemuanya merupakan advokat dan konsultan hukum pad a Kantor \nHukum Leo & Partners, beralamat di Grand Slipi Tower Lantai 5 U nit F, Jalan S. \nParman Kav. 22-24, Kelurahan Palmerah, Kecamatan Palmerah, Jakarta Barat, DKI \nJakarta, bertindak bersama-sama maupun sendiri-sendiri, untuk d an atas nama \nPemberi Kuasa;  \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon. \n \n \n\n\n2",
+      "start_line": 6,
+      "end_line": 36
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n22 Juni 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pad a tanggal 22 \nJuni 2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor 2 40/PUU/ \nPAN.MK/AP3/06/2026 dan telah dicatat dalam Buku Registrasi Perk ara Konstitusi \nElektronik (e-BRPK) dengan Permohonan Nomor 241/PUU-XXIV/2026 p ada \ntanggal 22 Juni 2026 yang telah diperbaiki dan diterima Mahkamah pada tanggal 15 \nJuli 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 38,
+      "end_line": 45
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD NRI Tahun 1945) \nmenyatakan: \n“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada di bawahnya dalam lingkungan peradi lan \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkama h \nKonstitusi”;",
+      "start_line": 47,
+      "end_line": 53
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Mahkamah Konstitusi (selanjutnya disebut M K) sebagai",
+      "slug": "2-bahwa-selanjutnya-mahkamah-konstitusi-selanjutnya-disebut-m-k-sebagai",
+      "text": "salah satu pelaku kekuasaan kehakiman diberikan kewenangan \nkonstitusional yang tertuang pada Pasal 24 C ayat (1) Perubahan Keempat \nUUD NRI Tahun 1945: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-Undang \nDasar, memutus pembubaran partai politik dan memutus perselisih an \ntentang hasil Pemilihan Umum”",
+      "start_line": 55,
+      "end_line": 63
+    },
+    {
+      "heading": "3. Bahwa berdasarkan Pasal 9 ayat (1) Undang-Undang Nomor 12 Ta hun",
+      "slug": "3-bahwa-berdasarkan-pasal-9-ayat-1-undang-undang-nomor-12-ta-hun",
+      "text": "2011 tentang Pembentukan Peraturan Perundang-Undangan sebagaimana \ntelah diubah terakhir dalam Undang-Undang Nomor 13 Tahun 2022 tentang \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-Undangan menegaskan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 65,
+      "end_line": 71
+    },
+    {
+      "heading": "4. Bahwa berdasarkan ketentuan diatas selanjutnya Pasal 29 ayat (1) Undang-",
+      "slug": "4-bahwa-berdasarkan-ketentuan-diatas-selanjutnya-pasal-29-ayat-1-undang",
+      "text": "Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (selanjutnya \n\n3 \n \n \ndisebut UU Kekuasaan Kehakiman), menyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; \nb. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945; c. memutus pembubaran partai politik; d. memutus \nperselisihan tentang hasil pemilihan umum; dan e. Kewenangan lain yang \ndiberikan oleh undang-undang”;",
+      "start_line": 73,
+      "end_line": 86
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-t-ahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah terakhir \ndengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketig a \natas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \n(selanjutnya disebut UU MK), menyatakan sebagai berikut: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; \nb. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara   Republik   \nIndonesia   Tahun   1945;   c. Memutus pembubaran partai politi k; dan d. \nmemutus perselisihan tentang hasil pemilihan umum”;",
+      "start_line": 88,
+      "end_line": 98
+    },
+    {
+      "heading": "6. Bahwa dalam melaksanakan kewenangannya dalam melakukan pengu jian",
+      "slug": "6-bahwa-dalam-melaksanakan-kewenangannya-dalam-melakukan-pengu-jian",
+      "text": "undang-undang terhadap UUD NRI Tahun 1945, MK memiliki 5 (lima)  \nfungsi, antara lain: \n1) Mahkamah Konstitusi sebagai Pengawal Konstitusi atau The Gua rdian \nof Constitution \n2) Mahkamah Konstitusi sebagai Penafsir Akhir Konstitusi atau T he Final \nInterpreter of Constitution \n3) Mahkamah Konstitusi sebagai Pengawal Demokrasi atau The Guar dian \nof Democracy \n4) Mahkamah Konstitusi sebagai Pelindung Hak Konstitusional War ga \nNegara atau The Protector of Citizens Constitutional Rights \n5) Mahkamah Konstitusi sebagai Pelindung Hak Asasi Manusia atau  The \nProtector of Human Rights;",
+      "start_line": 100,
+      "end_line": 111
+    },
+    {
+      "heading": "7. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konsti tusi",
+      "slug": "7-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konsti-tusi",
+      "text": "Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujia n \nUndang-Undang, menyatakan bahwa: \n“Objek Permohonan PUU adalah undang-undang dan Perppu”;",
+      "start_line": 113,
+      "end_line": 115
+    },
+    {
+      "heading": "8. Bahwa permohonan Pemohon adalah permohonan Undang-Undang Nom or",
+      "slug": "8-bahwa-permohonan-pemohon-adalah-permohonan-undang-undang-nom-or",
+      "text": "4 \n \n \n20 Tahun 2003 tentang Sistem Pendidikan Nasional terhadap Undan g-\nUndang Dasar Negara Republik Indonesia Tahun 1945, khususnya \nberkaitan dengan pengujian konstitusionalitas Pasal 26 ayat (6) , Pasal 35 \nayat (1) dan Pasal 1 Angka 1 Undang-Undang Nomor 14 Tahun 2005 \nTentang Guru dan Dosen terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 karena dianggap bertentangan dengan Pasal 28C \nayat (1), Pasal 28D ayat (1), Pasal 31 ayat (1) UUD NRI Tahun 1945;",
+      "start_line": 117,
+      "end_line": 127
+    },
+    {
+      "heading": "9. Bahwa terhadap permohonan a quo, Pemohon perlu menegaskan bahwa",
+      "slug": "9-bahwa-terhadap-permohonan-a-quo-pemohon-perlu-menegaskan-bahwa",
+      "text": "permohonan ini tidak bersifat nebis in idem, sebagaimana diuraikan berikut \nini: \na) Bahwa ketentuan mengenai larangan pengajuan kembali permohon an \npengujian undang-undang (nebis in idem)  diatur dalam Pasal 60 UU \nMahkamah Konstitusi dan Pasal 78 Peraturan Mahkamah Konstitusi \nNomor 2 Tahun 2021 tentang Tata Beracara Dalam Perkara Pengujia n \nUndang-Undang (PMK 2/2021), menyatakan:",
+      "start_line": 129,
+      "end_line": 135
+    },
+    {
+      "heading": "1. Terhadap materi muatan ayat, pasal, dan/atau bagian dalam",
+      "slug": "1-terhadap-materi-muatan-ayat-pasal-dan-atau-bagian-dalam",
+      "text": "Undang-Undang yang telah diuji, tidak dapat dimohonkan \npengujian kembali;",
+      "start_line": 137,
+      "end_line": 138
+    },
+    {
+      "heading": "2. Ketentuan sebagaimana dimaksud pada ayat (1) dapat",
+      "slug": "2-ketentuan-sebagaimana-dimaksud-pada-ayat-1-dapat",
+      "text": "dikecualikan jika materi muatan dalam Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 yang dijadikan dasar \npengujian berbeda. \nb) Bahwa Pemohon menyadari Pasal 1 Angka 1 UU Guru dan Dosen \npernah diuji dalam Perkara Nomor 2/PUU-XVII/2019 yang diajukan oleh \nseorang pendidik Pendidikan Anak Usia Dini (PAUD) jalur nonformal; \nc) Bahwa walaupun objek pengujian dalam Perkara Nomor 2/PUU-\nXVII/2019 bersinggungan dengan Pasal 1 Angka 1 UU Guru dan Dosen, \npermohonan a quo memuat alasan yang secara substansial berbeda,  \ndengan uraian sebagai berikut: \n1) Pertama, dari segi batu uji, Perkara Nomor 2/PUU-XVII/2019 \nmenggunakan Pasal 27 ayat (2), Pasal 28D ayat (1), dan Pasal 28 I \nayat (2) UUD NRI Tahun 1945, sementara permohonan a quo \nmenggunakan Pasal 28C ayat (1), Pasal 28D ayat (1), dan Pasal 31 \nayat (1) UUD NRI Tahun 1945.  \n2) Kedua, dari segi objek pengujian, permohonan a quo turut men guji \nPasal 26 ayat (6) dan Pasal 35 ayat (1) UU Sisdiknas yang \n\n5 \n \n \nberkelindan dengan Pasal 1 Angka 1 UU Guru dan Dosen, norma \nyang sama sekali tidak diuji dalam Perkara Nomor 2/PUU-XVII/2019 \nyang hanya menguji Pasal 1 angka 1 dan Pasal 2 ayat (1) UU Guru  \ndan Dosen; \n3) Ketiga, dari segi kualifikasi Pemohon dan kerugian konstitus ional \nyang didalilkan, Perkara Nomor 2/PUU-XVII/2019 diajukan oleh \npendidik pada jalur Pendidikan Anak Usia Dini (PAUD) nonformal,  \nsedangkan Pemohon dalam perkara a quo berkedudukan sebagai \nTutor pada jalur Pendidikan Kesetaraan (Paket A/B/C) di Pusat \nKegiatan Belajar Masyarakat (PKB M), suatu jenjang dan konteks \npenyelenggaraan pendidikan yang berbeda secara faktual dan \nyuridis, dengan mekanisme kelulusan, kurikulum rujukan, dan \nsasaran peserta didik yang berbeda pula; \n4) Keempat, dari segi dasar kerugian, permohonan a quo mendasarkan \nkerugian konstitusionalnya pada kekosongan norma (rechtsvacuum) \nmengenai Rekognisi Pembelajaran Lampau (RPL) dan ketiadaan \npengaturan setingkat undang-undang mengenai pengakuan Tutor \nKesetaraan sebagai pendidik profesional, dimensi konstitusional  \nyang tidak pernah dipertimbangkan dalam perkara terdahulu; \nBahwa berdasarkan uraian di atas, permohonan a quo memenuhi ketentuan \nPasal 60 UU MK juncto PMK Nomor 7 Tahun 2025, sehingga dapat diajukan \nke hadapan Mahkamah Konstitusi.",
+      "start_line": 140,
+      "end_line": 182
+    },
+    {
+      "heading": "10. Bahwa berdasarkan seluruh uraian di atas, maka Mahkamah Kon stitusi",
+      "slug": "10-bahwa-berdasarkan-seluruh-uraian-di-atas-maka-mahkamah-kon-stitusi",
+      "text": "berwenang untuk memeriksa, mengadili, dan memutus perkara pengu jian \nkonstitusionalitas UU Sisdiknas dan UU Guru dan Dosen terhadap UUD NRI \nTahun 1945. \nII. KEDUDUKAN  HUKUM ( LEGAL STANDING ) DAN KERUGIAN",
+      "start_line": 184,
+      "end_line": 187
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU MK menyatakan bahwa Pemohon adalah pihak",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mk-menyatakan-bahwa-pemohon-adalah-pihak",
+      "text": "yang menganggap hak dan/atau kewenangan konstitusionalnya dirug ikan \noleh berlakunya undang-undang, yaitu: \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip negara \nkesatuan RI yang diatur dalam undang-undang; \n\n6",
+      "start_line": 190,
+      "end_line": 199
+    },
+    {
+      "heading": "2. Bahwa dalam Penjelasan Pasal 51 ayat (1) UU MK ditegaskan ba hwa",
+      "slug": "2-bahwa-dalam-penjelasan-pasal-51-ayat-1-uu-mk-ditegaskan-ba-hwa",
+      "text": "\"…yang dimaksud dengan hak konstitusional adalah hak-hak yang d iatur \ndalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945” . \nSelanjutnya, dalam penjelasan huruf a ketentuan a quo dinyataka n bahwa \n“yang dimaksud dengan perorangan termasuk kelompok orang yang \nmempunyai kepentingan sama”.",
+      "start_line": 203,
+      "end_line": 207
+    },
+    {
+      "heading": "3. Bahwa untuk memenuhi syarat kedudukan hukum (legal standing)",
+      "slug": "3-bahwa-untuk-memenuhi-syarat-kedudukan-hukum-legal-standing",
+      "text": "sebagaimana diatur dalam Pasal 51 ayat (1) UU MK, Pemohon  perlu \nmenguraikan mengenai kualifikasi kedudukan hukumnya, sebagai berikut:  \na. Bahwa Pemohon merupakan perseorangan Warga Negara Indonesia \n(WNI) yang telah sah memiliki Kartu Tanda Penduduk (KTP) (Bukti  P-\n4); \nb. Bahwa Pemohon menjabat sebagai Kepala Satuan Pendidikan \nsekaligus aktif secara nyata dan berkala sebagai Tutor pada PKB M Aji \nSakti Migunani Kabupaten Blora dalam pelaksanaan proses belajar  \nmengajar Program Pendidikan Kesetaraan, sebagaimana tertera dalam \nSurat Keterangan Aktif Nomor 400.3.2/76.3 yang diterbitkan oleh Kepala \nBidang PAUD dan DIKMAS Dinas Pendidikan Kabupaten Blora (Bukti \nP-5), serta selaku tenaga pendidik, Pemohon memiliki Nomor Unik  \nPendidik dan Tenaga Kependidikan (NUPTK) dengan nomor \n2854767668130332 yang terdaftar dalam sistem Data Pokok \nPendidikan (Dapodik) Kemendikdasmen (Bukti P-12) sehingga \nPemohon secara langsung terlibat dalam penyelenggaraan pendidik an \nnonformal di Indonesia;",
+      "start_line": 209,
+      "end_line": 225
+    },
+    {
+      "heading": "c. Bahwa Pemohon merupakan lulusan Sarjana (S1) Ilmu Komunikasi",
+      "slug": "c-bahwa-pemohon-merupakan-lulusan-sarjana-s1-ilmu-komunikasi",
+      "text": "yang dibuktikan dengan Ijazah S1 yang sah (Bukti P-6). Meskipun  \nsecara akademik Pemohon telah memenuhi syarat kualifikasi sebag ai \npendidik, namun Pemohon terhalang untuk mengakses hak \npengembangan profesi seperti Pendidikan Profesi Guru (PPG) kare na \nstatus Pemohon sebagai tutor di jalur nonformal belum diakui se tara \nsecara otomatis oleh norma yang diuji dalam permohonan a quo;",
+      "start_line": 227,
+      "end_line": 232
+    },
+    {
+      "heading": "d. Bahwa Pemohon, meskipun secara substansial menjalankan fungs i",
+      "slug": "d-bahwa-pemohon-meskipun-secara-substansial-menjalankan-fungs-i",
+      "text": "yang identik dengan guru dalam sistem pendidikan nasional, seca ra \n\n7 \n \n \nhukum tidak dapat dikategorikan sebagai \"Guru\" sebagaimana \ndimaksud dalam Pasal 1 Angka 1 UU Guru dan Dosen, yang \nmendefinisikan guru secara eksklusif sebagai pendidik profesional pada \njalur pendidikan formal saja. Akibatnya, Pemohon sebagai Tutor pada \njalur pendidikan nonformal (Pendidikan Kesetaraan) tidak memenu hi \nsyarat administratif untuk mengakses Pendidikan Profesi Guru (P PG), \nmengingat Surat Direktorat Jenderal GTK Nomor \n0212/B2/GT.00.02/2026 (Bukti P-7) menetapkan bahwa peserta PPG \nwajib terdaftar di Data Pokok Pendidikan (Dapodik) pada satuan \npendidikan formal dan aktif mengajar pada jalur tersebut. Denga n \ndemikian, frasa \"pada pendidikan anak usia dini jalur pendidikan formal, \npendidikan dasar, dan pendidikan menengah\" dalam Pasal 1 Angka 1 \nUU Guru dan Dosen menjadi batu penghalang yang mengunci mati \nakses Pemohon terhadap pengakuan profesi dan pengembangan karier \nsebagai pendidik;",
+      "start_line": 234,
+      "end_line": 253
+    },
+    {
+      "heading": "4. Bahwa Pemohon adalah Warga Negara Indonesia yang secara nyat a,",
+      "slug": "4-bahwa-pemohon-adalah-warga-negara-indonesia-yang-secara-nyat-a",
+      "text": "spesifik, dan langsung berada dalam sistem pendidikan nasional pada jalur \npendidikan nonformal sebagai Kepala PKBM Aji Sakti Migunani, se hingga \nmemiliki keterkaitan langsung dengan berlakunya norma yang diuj i dalam \npermohonan a quo;",
+      "start_line": 255,
+      "end_line": 258
+    },
+    {
+      "heading": "5. Bahwa uraian sebagaimana disebutkan pada angka 1 sampai deng an",
+      "slug": "5-bahwa-uraian-sebagaimana-disebutkan-pada-angka-1-sampai-deng-an",
+      "text": "angka 4 diatas menegaskan bahwa Pemohon telah memenuhi dan memiliki \nkedudukan hukum (legal standing) sebagai perseorangan warga neg ara \nIndonesia, sehingga Pemohon dapat mengajukan permohonan penguji an \nundang-undang terhadap UUD NRI Tahun 1945. Selanjutnya, Pemohon  \nakan menguraikan kerugian konstitusional yang dialami sehubunga n \ndengan berlakunya undang-undang yang diujikan konstitusionalita snya \ndalam perkara a quo;.",
+      "start_line": 260,
+      "end_line": 266
+    },
+    {
+      "heading": "6. Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi N o. 7 Tahun",
+      "slug": "6-bahwa-dalam-pasal-4-ayat-2-peraturan-mahkamah-konstitusi-n-o-7-tahun",
+      "text": "2025 tentang Pedoman Beracara Dalam Perkara Pengujian Undang \nUndang  ditentukan 5 syarat mengenai kerugian konstitusional, yaitu:  \na. Adanya hak konstitusional Pemohon yang diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia 1945. \nb. Bahwa hak konstitusional Pemohon tersebut dianggap oleh \nPemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 268,
+      "end_line": 273
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional Pemohon yang dimaksud bersifat",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat",
+      "text": "8 \n \n \nspesifik atau khusus dan aktual atau setidaknya bersifat potens ial \nyang menurut penalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 275,
+      "end_line": 280
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan untuk diuji. \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian konstitusional yang didalilkan tidak akan atau ti dak \nterjadi lagi.",
+      "start_line": 282,
+      "end_line": 285
+    },
+    {
+      "heading": "7. Bahwa dalam hal ini terdapat kerugian hak dan/atau kewenanga n",
+      "slug": "7-bahwa-dalam-hal-ini-terdapat-kerugian-hak-dan-atau-kewenanga-n",
+      "text": "konstitusional Pemohon yang digunakan sebagai dasar pengujian d alam \nperkara a quo, yaitu:  \nPasal 28C ayat (1) UUD NRI Tahun 1945 \n“Setiap orang berhak mengembangkan diri melalui pemenuhan \nkebutuhan dasarnya, berhak mendapat pendidikan dan memperoleh \nmanfaat dari ilmu pengetahuan dan teknologi, seni dan budaya, d emi \nmeningkatkan kualitas hidupnya dan demi kesejahteraan umat \nmanusia.” \nPasal 28D ayat (1) UUD NRI Tahun 1945  \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum” \nPasal 31 ayat (1): \n“Setiap warga negara berhak mendapat pendidikan.”",
+      "start_line": 287,
+      "end_line": 300
+    },
+    {
+      "heading": "8. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam UUD",
+      "slug": "8-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam-uud",
+      "text": "NRI Tahun 1945 tersebut telah dirugikan dengan pasal sebagai berikut:  \nPasal 26 ayat (6) UU Sisdiknas \n“Hasil pendidikan nonformal dapat dihargai setara dengan hasil \npendidikan formal setelah melalui proses penilaian penyetaraan oleh \nlembaga yang ditunjuk oleh Pemerintah atau Pemerintah Daerah \ndengan mengacu pada standar nasional pendidikan.” \nPasal 35 ayat (1) UU Sisdiknas \n“Standar nasional pendidikan terdiri atas standar isi, proses, kompetensi \nlulusan, tenaga kependidikan, sarana dan prasarana, pengelolaan , \npembiayaan, dan penilaian pendidikan yang harus ditingkatkan se cara \nberencana dan berkala.” \nPasal 1 Angka 1 UU Guru dan Dosen \n\"Guru adalah pendidik profesional dengan tugas utama mendidik, \nmengajar, membimbing, mengarahkan, melatih, menilai, dan \nmengevaluasi peserta didik pada pendidikan anak usia dini jalur  \npendidikan formal, pendidikan dasar, dan pendidikan menengah.\"",
+      "start_line": 302,
+      "end_line": 317
+    },
+    {
+      "heading": "9. Bahwa dengan berlakunya Pasal 26 ayat (6), 35 ayat (1) UU Si sdiknas,",
+      "slug": "9-bahwa-dengan-berlakunya-pasal-26-ayat-6-35-ayat-1-uu-si-sdiknas",
+      "text": "dan Pasal 1 Angka 1 UU Guru dan Dosen Pemohon mengalami \nkerugian konstitusional yang bersifat aktual dan potensial yang  a k a n  \n\n9 \n \n \ndijelaskan sebagai berikut:  \na) Kerugian terhadap Hak atas Pendidikan (Pasal 31 ayat (1) UUD  NRI  \nTahun 1945) \n- Bahwa hak atas pendidikan sebagaimana dijamin dalam Pasal 31 \nayat (1) UUD NRI Tahun 1945 tidak hanya mencakup akses \nterhadap pendidikan, tetapi juga mencakup pengakuan yang setara \natas hasil pendidikan yang telah ditempuh. Namun demikian, \nberlakunya norma Pasal 26 ayat (6) UU Sisdiknas menyebabkan:",
+      "start_line": 319,
+      "end_line": 332
+    },
+    {
+      "heading": "1. Hasil pendidikan nonformal tidak diakui setara secara langsu ng",
+      "slug": "1-hasil-pendidikan-nonformal-tidak-diakui-setara-secara-langsu-ng",
+      "text": "dengan pendidikan formal;",
+      "start_line": 334,
+      "end_line": 334
+    },
+    {
+      "heading": "2. Pengakuan hasil pendidikan nonformal bergantung pada proses",
+      "slug": "2-pengakuan-hasil-pendidikan-nonformal-bergantung-pada-proses",
+      "text": "administratif penyetaraan yang repetitif dan memakan waktu, \nbukan pada substansi kompetensi yang telah diraih;",
+      "start_line": 336,
+      "end_line": 337
+    },
+    {
+      "heading": "3. Frasa \"dapat dihargai setara\" secara inheren mengandung sifa t",
+      "slug": "3-frasa-dapat-dihargai-setara-secara-inheren-mengandung-sifa-t",
+      "text": "opsional dan tidak mengikat bagi negara, yang memberikan \ndiskresi berlebihan kepada penyelenggara negara untuk \nmenentukan pengakuan hasil belajar seseorang; \n- Bahwa perlakuan tersebut merupakan bentuk diskriminasi struktu ral \nterhadap jalur pendidikan nonformal. Pendidikan formal diakui \nsecara otomatis tanpa syarat tambahan, sementara pendidikan \nnonformal diposisikan sebagai \"jalur subordinat\" yang pemenuhan  \nhak konstitusionalnya atas pengakuan pendidikan terhambat oleh \nsekat-sekat birokrasi. Kondisi ini nyata-nyata bertentangan den gan \nprinsip kepastian hukum yang adil dan hak setiap warga negara \nuntuk mendapatkan pendidikan yang setara; \n- Bahwa sebagai Kepala PKBM Aji S akti Migunani, Pemohon secara \nlangsung mengalami kerugian nyata akibat terhambatnya warga \nbelajar untuk mendaftar dan mengikuti pendidikan nonformal. \nSistem pendidikan kesetaraan yang mensyaratkan waktu mengikuti \nStandar Nasional Pendidikan selama tiga tahun tidak sejalan \ndengan kebutuhan warga belajar dewasa yang membutuhkan \npengakuan pendidikan secara cepat untuk kepentingan pekerjaan. \nAkibatnya, berpotensi meningkatnya calon warga belajar yang batal \nmendaftar ke PKBM karena mempertimbangkan lamanya waktu \n\n10 \n \n \ntempuh pendidikan yang tidak memberikan kepastian akses kerja \ndalam waktu dekat. Hal ini secara langsung merugikan Pemohon \nkarena menghambat penyelenggaraan pendidikan nonformal, \nmengurangi partisipasi warga belajar, serta melemahkan fungsi \nPKBM sebagai instrumen negara dalam menjamin hak atas \npendidikan; \n- Bahwa sebagai contoh konkret, terdapat kondisi di mana seorang  \npekerja dengan posisi awal sebagai Office Boy (OB) memperoleh \nkesempatan untuk naik jabatan menjadi General Affair (GA) yang \nmensyaratkan ijazah SMA atau Paket C. Namun karena yang \nbersangkutan harus menempuh pendidikan kesetaraan selama tiga \ntahun dalam sistem nonformal, kesempatan tersebut menjadi \ntertunda bahkan hilang. Kondisi ini menunjukkan bahwa norma a \nquo tidak hanya menimbulkan ketidakpastian hukum, tetapi juga \nsecara langsung menghambat mobilitas sosial dan akses pekerjaan \nwarga negara; \nb) Kerugian terhadap Kepastian Hukum (Pasal 28D ayat (1) UUD NR I \nTahun 1945) \n- Bahwa frasa \"dapat dihargai setara\" dalam Pasal 26 ayat (6) UU  \nSisdiknas mengandung ketidakpastian yang serius, karena: a.Tidak \nbersifat pasti dan tidak menjamin pengakuan hasil pendidikan \nnonformal; b.Membuka ruang penafsiran yang berbeda di antara \npara penyelenggara negara; c.Bergantung pada proses \nadministratif yang tidak memiliki jangka waktu yang jelas dan \nterukur, dengan kondisi demikian secara nyata bertentangan \ndengan hak Pemohon atas kepastian hukum yang adil   \n- Bahwa ditengah ketidakpastian hukum tersebut, negara justru \nmenuntut kepastian pelaksanaan kewajiban administratif dari \nPemohon secara sangat ketat dan terukur selayaknya pendidikan \nformal, melalui Peraturan Menteri Pendidikan Dasar dan Menengah \nNomor 8 Tahun 2026 tentang Petunjuk Teknis Pengelolaan Dana \nBantuan Operasional Satuan Pendidikan (BOSP). Regulasi ini \nsecara tegas mensyaratkan bahwa satuan pendidikan penerima \nDana BOP Kesetaraan wajib melakukan pemutakhiran data pada \n\n11 \n \n \nAplikasi Dapodik paling lambat tanggal 31 Agustus tahun anggaran \nberjalan sebagai syarat pencairan dana, serta mewajibkan \npenyampaian laporan realisasi tahap I paling lambat 31 Juli dan  \nlaporan tahunan paling lambat 31 Januari tahun berikutnya, dengan \nkonsekuensi pemotongan alokasi dana tahap berikutnya sebesar 2-\n4% apabila Kepala Satuan Pendidikan (dalam hal ini Pemohon) \nterlambat melapor.  \n- Bahwa selain itu, sesuai Peraturan Presiden Nomor 3 Tahun 2026  \ntentang Pencegahan dan Penanganan Anak Tidak Sekolah (ATS), \nyang menempatkan pendidikan kesetaraan, termasuk PKBM yang \ndipimpin Pemohon, sebagai instrumen utama pelaksana kebijakan \npenuntasan ATS nasional. Dengan diterbitkannya Perpres a quo, \nsemakin nyata bahwa negara secara resmi membebankan \ntanggung jawab pencapaian target makro pendidikan nasional \nkepada Pemohon selaku pendidik nonformal, sejajar dengan beban \nyang dipikul oleh satuan pendidikan formal, namun tanpa \nmemberikan pengakuan status profesi yang setara sebagaimana \ndidefinisikan dalam Pasal 1 angka 1 UU Guru dan Dosen. \n- Bahwa dengan demikian, tuntutan kedisiplinan administratif, \nverifikasi faktual, dan tenggat waktu ketat yang dialami merupa kan \nkewajiban hukum yang sama sama dilakukan oleh tenaga pengajar \npendidikan formal dan nonformal, yang memperkuat dalil \nketimpangan hak yang diberikan kepada tenaga pengajar nonformal \npadahal memiliki beban kerja yang sama dengan pendidikan formal. \nHal ini bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun \n1945.  \nc) Kerugian terhadap Hak Mengembangkan Diri (Pasal 28C ayat (1)  UUD \nNRI Tahun 1945) \n- Bahwa ketidaksetaraan pengakuan hasil pendidikan nonformal \nsebagaimana diatur dalam norma a quo berdampak langsung pada:",
+      "start_line": 339,
+      "end_line": 430
+    },
+    {
+      "heading": "1. Terbatasnya akses Pemohon terhadap pengembangan profesi,",
+      "slug": "1-terbatasnya-akses-pemohon-terhadap-pengembangan-profesi",
+      "text": "termasuk Pendidikan Profesi Guru (PPG), yang merupakan hak \nyang seharusnya dapat diakses oleh setiap tenaga pendidik;",
+      "start_line": 432,
+      "end_line": 433
+    },
+    {
+      "heading": "2. Tidak diakuinya status Pemohon sebagai tutor di jalur nonfor mal",
+      "slug": "2-tidak-diakuinya-status-pemohon-sebagai-tutor-di-jalur-nonfor-mal",
+      "text": "12 \n \n \nsetara dengan guru pada pendidikan formal, meskipun fungsi \nyang dijalankan secara substansial sama, yaitu melaksanakan \nproses pembelajaran, membimbing peserta didik, serta \nmengembangkan kompetensi warga belajar;",
+      "start_line": 435,
+      "end_line": 442
+    },
+    {
+      "heading": "3. Terbatasnya kesempatan kerja dan pengembangan karier",
+      "slug": "3-terbatasnya-kesempatan-kerja-dan-pengembangan-karier",
+      "text": "Pemohon dalam bidang pendidikan akibat ketiadaan pengakuan \nyang setara; \n- Bahwa pembedaan status yang tidak didasarkan pada perbedaan \nfungsi substantif merupakan bentuk diskriminasi yang bertentangan \ndengan prinsip persamaan di hadapan hukum sebagaimana dijamin \ndalam Pasal 28D ayat (1) UUD NRI Tahun 1945; \n- Bahwa pembatasan definisi \"Guru\" dalam Pasal 1 Angka 1 UU Guru  \ndan Dosen yang mengunci ruang lingkup profesi guru hanya pada \njalur pendidikan formal merupakan penyebab struktural utama dar i \nseluruh kerugian konstitusional Pemohon. Frasa \"pada pendidikan  \nanak usia dini jalur pendidikan formal, pendidikan dasar, dan \npendidikan menengah\" secara linguistik dan yuridis telah \nmengeksklusi tutor pendidikan non formal dari kategori \"Guru\", \ndengan akibat hukum sebagai berikut: pertama, Pemohon tidak \ndapat terdaftar di Dapodik sebagai guru pada satuan pendidikan,  \nkarena PKBM bukan merupakan satuan pendidikan formal; kedua, \nPemohon tidak memenuhi syarat administratif PPG sebagaimana \nditetapkan dalam Surat Direktorat Jenderal GTK Nomor \n0212/B2/GT.00.02/2026 yang mensyaratkan peserta aktif terdaftar",
+      "start_line": 444,
+      "end_line": 462
+    },
+    {
+      "heading": "di Dapodik dan aktif mengajar pada tahun ajaran 2023/2024 di",
+      "slug": "di-dapodik-dan-aktif-mengajar-pada-tahun-ajaran-2023-2024-di",
+      "text": "satuan pendidikan formal; ketiga, tiadanya akses PPG secara \nlangsung mengakibatkan Pemohon tidak dapat memperoleh \nSertifikat Pendidik yang merupakan prasyarat pengakuan \nprofesionalitas dan tunjangan profesi. Pembedaan perlakuan ini \ntidak didasarkan pada perbedaan fungsi substantif antara guru \nformal dan tutor nonformal, melainkan semata-mata pada \nperbedaan jalur kelembagaan, yang merupakan bentuk diskriminasi \nyang bertentangan dengan Pasal 28C ayat (1) dan Pasal 28D ayat \n(1) UUD NRI Tahun 1945; \n\n13 \n \n \n- Bahwa pembatasan akses PPG hanya bagi jalur formal \nmenyebabkan Pemohon, meski secara substantif menjalankan \nfungsi pendidik profesional, justru dikecualikan dari mekanisme  \npeningkatan mutu yang disediakan negara bagi profesi yang sama \nsecara substansi tugas dan fungsinya. \n- Bahwa hak atas pengembangan kompetensi profesional \nberkelanjutan bagi tenaga pendidik juga merupakan bagian dari \npemenuhan hak atas pendidikan yang layak, sebagaimana \nsemangat yang terkandung dalam Kovenan Internasional tentang \nHak-Hak Ekonomi, Sosial, dan Budaya yang telah diratifikasi \nIndonesia melalui Undang-Undang Nomor 11 Tahun 2005. \nPengecualian sepihak terhadap Pemohon dari akses PPG \nmerupakan bentuk pembatasan yang tidak proporsional atas hak \ndimaksud, sehingga bertentangan dengan Pasal 28C ayat (1) UUD \nNRI Tahun 1945. \nd) Kerugian terhadap Hak atas Pekerjaan dan Penghidupan Layak ( Pasal \n27 ayat (2) UUD NRI Tahun 1945) \n- Bahwa warga belajar dewasa yang menjadi sasaran pendidikan \nyang dikelola Pemohon juga mengalami kerugian konstitusional \nsecara langsung. Warga belajar yang telah memiliki pengalaman \nkerja dan kompetensi tertentu tetap diwajibkan mengikuti proses  \npendidikan kesetaraan dalam jangka waktu yang relatif lama (3 \ntahun) tanpa adanya mekanisme Rekognisi Pembelajaran Lampau \n(Recognition of Prior Learning/RPL) yang efektif. Akibatnya, mereka \ntidak dapat memenuhi persyaratan administratif dunia kerja yang  \nmensyaratkan ijazah pendidikan menengah (SMA atau Paket C), \nsehingga kehilangan kesempatan kerja maupun peningkatan karier. \nKondisi ini secara nyata bertentangan dengan hak konstitusional  \nwarga negara atas pekerjaan dan penghidupan yang layak \nsebagaimana dijamin dalam Pasal 27 ayat (2) UUD NRI Tahun \n1945; \n- Bahwa selain kerugian yang dialami warga belajar sebagaimana \ndiuraikan di atas, Pemohon secara pribadi turut mengalami kerugian \nnyata dan terukur dalam hal penghidupan yang layak secara \n\n14 \n \n \nkuantitatif antara honorarium yang diterima Pemohon dengan \nstandar upah minimum yang berlaku di wilayah domisili Pemohon. \n- Bahwa berdasarkan penetapan Dewan Pengupahan Kabupaten \nBlora, Upah Minimum Kabupaten (UMK) Blora Tahun 2025 \nditetapkan sebesar Rp2.238.430,- (dua juta dua ratus tiga puluh  \ndelapan ribu empat ratus tiga puluh rupiah) yang diubah menjadi  \nRp2.345.695,57 atau naik 4,79 persen pada tahun 2026. Sumber: \nhttps://www.antaranews.com/berita/5318170/umk-blora-2026-\ndisepakati-sebesar-rp234-juta-atau-naik-479-persen  \n- Bahwa honorarium pokok yang diterima Pemohon selaku Tutor \nPendidik dan Kepala PKBM, sebagaimana tertuang dalam \nRKAS/RAPBS PKBM Aji Sakti Migunani, hanya sebesar \nRp300.000,00 (tiga ratus ribu rupiah) per bulan, atau hanya set ara \ndengan kurang lebih 12,8% (dua belas koma delapan persen) dari \nUpah Minimum Kabupaten (UMK) Blora Tahun 2026 sebesar \nRp2.345.695,57, yang berlaku bagi pekerja pada umumnya di \nwilayah yang sama. Bahwa disparitas ini menunjukkan kerugian \nkonstitusional yang bersifat nyata, terukur, dan bukan sekadar \npersepsi subjektif Pemohon: seorang tenaga profesional pendidik  \nyang memikul tanggung jawab administratif, akuntabilitas anggaran \nnegara, dan kewajiban standar mutu nasional yang setara dengan \nguru formal, justru menerima penghasilan jauh di bawah standar \nupah minimum yang berlaku bagi pekerja pada sektor non-\npendidikan sekalipun (Bukti P-13)  \n- Bahwa kondisi ini semakin menegaskan dalil Pemohon bahwa \npenutupan akses PPG bagi Pendidik Nonformal bukan sekadar \nhambatan administratif, melainkan penyebab struktural yang \nmengunci Pemohon dalam jerat penghasilan di bawah standar \nkelayakan hidup minimum, sehingga bertentangan dengan jaminan \nhak atas pekerjaan dan penghidupan yang layak sebagaimana \ndimaksud dalam Pasal 27 ayat (2) UUD NRI 1945. \ne) Bahwa terdapat hubungan sebab-akibat (causal verband)  yang jelas \nantara berlakunya norma a quo dengan kerugian konstitusional \nPemohon, sebagai berikut: \n\n15",
+      "start_line": 464,
+      "end_line": 552
+    },
+    {
+      "heading": "1. Pasal 26 ayat (6) UU Sisdiknas mensyaratkan proses penyetara an",
+      "slug": "1-pasal-26-ayat-6-uu-sisdiknas-mensyaratkan-proses-penyetara-an",
+      "text": "sebagai syarat pengakuan pendidikan nonformal, yang \nmengakibatkan posisi subordinat pendidikan nonformal secara \nsistemik;",
+      "start_line": 554,
+      "end_line": 556
+    },
+    {
+      "heading": "2. Pasal 35 ayat (1) UU Sisdiknas menetapkan Standar Nasional",
+      "slug": "2-pasal-35-ayat-1-uu-sisdiknas-menetapkan-standar-nasional",
+      "text": "Pendidikan sebagai acuan tunggal yang bersifat monolitik, yang \ndalam praktiknya disusun berdasarkan paradigma pendidikan formal \ndan diterapkan secara seragam tanpa mempertimbangkan \nkarakteristik khusus pendidikan nonformal;",
+      "start_line": 558,
+      "end_line": 561
+    },
+    {
+      "heading": "3. Pasal 1 Angka 1 UU Guru dan Dosen membatasi definisi \"Guru\"",
+      "slug": "3-pasal-1-angka-1-uu-guru-dan-dosen-membatasi-definisi-guru",
+      "text": "hanya pada pendidik yang mengajar pada jalur pendidikan formal,  \nsehingga secara normatif mengeksklusi tutor pendidikan nonforma l \ndari pengakuan sebagai guru profesional, yang berakibat tertutupnya \nakses terhadap pengembangan profesi, sertifikasi, dan hak-hak \nprofesional lainnya;",
+      "start_line": 563,
+      "end_line": 567
+    },
+    {
+      "heading": "4. Gabungan ketiga norma a quo mengakibatkan pendidikan nonformal",
+      "slug": "4-gabungan-ketiga-norma-a-quo-mengakibatkan-pendidikan-nonformal",
+      "text": "harus memenuhi standar yang tidak dirancang untuknya, sehingga \nhasil pendidikan nonformal tetap tidak diakui setara secara langsung;",
+      "start_line": 569,
+      "end_line": 570
+    },
+    {
+      "heading": "10. Bahwa apabila permohonan ini dikabulkan, maka: a.Pengakuan pendidikan",
+      "slug": "10-bahwa-apabila-permohonan-ini-dikabulkan-maka-a-pengakuan-pendidikan",
+      "text": "nonformal menjadi setara dengan pendidikan formal; b.Ketidakpas tian \nhukum atas frasa \"dapat dihargai setara\" menjadi terhapus; c. P osisi \npendidikan nonformal dalam sistem pendidikan nasional menjadi \nproporsional; d. Pemohon selaku tutor dan kepala PKBM memperole h \npengakuan status hukum yang setara dan akses terhadap pengemban gan \nprofesi; e. Warga belajar dapat memperoleh pengakuan atas \nkompetensinya secara cepat melalui mekanisme Rekognisi Pembelaj aran \nLampau (RPL) yang sah;",
+      "start_line": 572,
+      "end_line": 579
+    },
+    {
+      "heading": "11. Bahwa berdasarkan seluruh uraian di atas, Pemohon memiliki kedudukan",
+      "slug": "11-bahwa-berdasarkan-seluruh-uraian-di-atas-pemohon-memiliki-kedudukan",
+      "text": "hukum (legal standing) untuk mengajukan permohonan a quo. Terda pat \nhubungan sebab-akibat yang jelas dan langsung antara berlakunya  norma \nPasal 26 ayat (6), Pasal 35 ayat (1) UU Sisdiknas, dan Pasal 1 angka 1 \nUndang-Undang Nomor 14 Tahun 2005 Tentang Guru dan Dosen terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dengan  \nkerugian konstitusional Pemohon yang bersifat nyata, spesifik, dan \n\n16 \n \n \nberkelanjutan, serta terdapat kemungkinan kerugian tersebut tid ak akan \nterjadi lagi apabila permohonan ini dikabulkan. \nIII. POSITA \nA. Inkonstitusionalitas Pasal 26 Ayat (6) UU Sisdiknas terhadap Pasal 31 Ayat \n(1) dan Pasal 28D Ayat (1) UUD NRI Tahun 1945",
+      "start_line": 581,
+      "end_line": 595
+    },
+    {
+      "heading": "1. Bahwa Pasal 26 ayat (6) UU Nomor 20 Tahun 2003 menyatakan: “Has il",
+      "slug": "1-bahwa-pasal-26-ayat-6-uu-nomor-20-tahun-2003-menyatakan-has-il",
+      "text": "pendidikan nonformal dapat dihargai setara dengan hasil pendidikan formal \nsetelah melalui proses penilaian penyetaraan...”. Penggunaan di ksi \"dapat \ndihargai setara\" secara inheren mengandung sifat opsional dan t idak \nmengikat bagi negara, yang memberikan diskresi berlebihan kepad a \npenyelenggara negara untuk menentukan pengakuan hasil belajar \nseseorang;",
+      "start_line": 597,
+      "end_line": 602
+    },
+    {
+      "heading": "2. Bahwa norma tersebut menciptakan ketidakpastian hukum yang nyat a bagi",
+      "slug": "2-bahwa-norma-tersebut-menciptakan-ketidakpastian-hukum-yang-nyat-a-bagi",
+      "text": "Pemohon dan peserta didik di PKBM Aji Sakti Migunani, karena pengakuan \nhak atas pendidikan digantungkan pada proses administratif peny etaraan \nyang repetitif, bukan pada substansi kompetensi yang telah diraih;",
+      "start_line": 604,
+      "end_line": 606
+    },
+    {
+      "heading": "3. Bahwa perlakuan demikian merupakan bentuk diskriminasi struktur al",
+      "slug": "3-bahwa-perlakuan-demikian-merupakan-bentuk-diskriminasi-struktur-al",
+      "text": "terhadap jalur pendidikan nonformal. Pendidikan formal diakui s ecara \notomatis tanpa syarat tambahan, sementara pendidikan nonformal \ndiposisikan sebagai \"jalur subordinat\" yang pemenuhan hak \nkonstitusionalnya atas pengakuan pendidikan terhambat oleh seka t-sekat \nbirokrasi. Kondisi ini nyata-nyata bertentangan dengan prinsip kepastian \nhukum yang adil dan hak setiap warga negara untuk mendapatkan \npendidikan yang setara sebagaimana dijamin dalam Pasal 31 ayat (1) dan \nPasal 28D ayat (1) UUD NRI Tahun 1945; \nB. Inkonstitusionalitas Pasal 35 Ayat (1) UU Sisdiknas terhadap  Pasal 28C \nAyat (1) dan Pasal 28D Ayat (1) UUD NRI Tahun 1945",
+      "start_line": 608,
+      "end_line": 617
+    },
+    {
+      "heading": "4. Bahwa Pasal 35 ayat (1) UU Sisdiknas menetapkan Standar Nasiona l",
+      "slug": "4-bahwa-pasal-35-ayat-1-uu-sisdiknas-menetapkan-standar-nasiona-l",
+      "text": "Pendidikan (SNP) sebagai acuan tunggal. Dalam praktiknya, stand ar ini \ndisusun berdasarkan paradigma pendidikan formal yang kaku dan \nditerapkan secara seragam tanpa mempertimbangkan karakteristik khusus, \nfleksibilitas, dan kearifan lokal yang menjadi marwah pendidikan nonformal;",
+      "start_line": 619,
+      "end_line": 622
+    },
+    {
+      "heading": "5. Bahwa pemaksaan standar yang tidak proporsional ini menimbulkan",
+      "slug": "5-bahwa-pemaksaan-standar-yang-tidak-proporsional-ini-menimbulkan",
+      "text": "hambatan struktural bagi Pemohon dalam mengembangkan diri dan \n\n17 \n \n \nlembaga pendidikan yang dikelolanya. Penyeragaman standar ini j ustru \nmematikan inklusivitas pendidikan dan melanggar hak atas perlin dungan \nhukum yang adil, karena negara gagal memberikan perlakuan yang berbeda \nterhadap hal-hal yang secara karakteristik memang berbeda (trea ting \ndifferent things differently), bertentangan dengan Pasal 28C ay a t  ( 1 )  d a n  \nPasal 28D ayat (1) UUD NRI Tahun 1945;",
+      "start_line": 624,
+      "end_line": 634
+    },
+    {
+      "heading": "6. Bahwa pendidikan formal dan nonformal memiliki perbedaan mendasar, baik",
+      "slug": "6-bahwa-pendidikan-formal-dan-nonformal-memiliki-perbedaan-mendasar-baik",
+      "text": "dari segi tujuan, metode pembelajaran, karakteristik peserta di dik, maupun \nkonteks sosialnya. Pendidikan nonformal secara khusus melayani warga \nbelajar dewasa, anak putus sekolah, dan kelompok rentan lainnya  y a n g  \nmembutuhkan pendekatan fleksibel dan adaptif. Standar Nasional \nPendidikan secara konstitusional seharusnya dimaknai tidak seba gai \nstandar tunggal, melainkan sebagai standar yang terdiferensiasi antara jalur \npendidikan formal dan nonformal; \nC. Inkonstitusionalitas Pasal 1 Angka 1 UU Guru dan Dosen terha dap Pasal \n28C Ayat (1) dan Pasal 28D Ayat (1) UUD NRI Tahun 1945",
+      "start_line": 636,
+      "end_line": 644
+    },
+    {
+      "heading": "7. Bahwa diskriminasi sistemik yang dialami Pemohon tidak semata bersumber",
+      "slug": "7-bahwa-diskriminasi-sistemik-yang-dialami-pemohon-tidak-semata-bersumber",
+      "text": "dari UU Sisdiknas, melainkan diperkuat dan dilanggengkan oleh k onstruksi \nnormatif dalam Undang-Undang Nomor 14 Tahun 2005 tentang Guru d an \nDosen (selanjutnya disebut UU Guru dan Dosen), khususnya pada P asal 1 \nAngka 1 yang mendefinisikan \"Guru\" secara rigid dan eksklusif. Pembatasan \ndefinitif dalam UU a quo berfungsi sebagai pengunci kedua yang menutup \nsegala kemungkinan bagi Tutor nonformal untuk diakui sebagai pe ndidik \nprofesional meskipun telah dipenuhinya syarat kompetensi, kuali fikasi \nakademik, dan fungsi substantif yang setara;",
+      "start_line": 646,
+      "end_line": 653
+    },
+    {
+      "heading": "8. Bahwa Pasal 1 Angka 1 UU Nomor 14 Tahun 2005 tentang Guru dan Dosen",
+      "slug": "8-bahwa-pasal-1-angka-1-uu-nomor-14-tahun-2005-tentang-guru-dan-dosen",
+      "text": "mendefinisikan \"Guru\" sebagai pendidik profesional yang menjala nkan \ntugasnya semata-mata \"pada pendidikan anak usia dini jalur pend idikan \nformal, pendidikan dasar, dan pendidikan menengah.\" Pembatasan normatif \nmelalui frasa tersebut secara definitif mengeksklusi tutor pada  jalur \npendidikan nonformal dari kategori profesi guru, termasuk Pemoh on selaku \nTutor Pendidikan Kesetaraan pada PKBM Aji Sakti Migunani;",
+      "start_line": 655,
+      "end_line": 660
+    },
+    {
+      "heading": "9. Bahwa pembatasan tersebut menimbulkan diskriminasi sistematis y ang",
+      "slug": "9-bahwa-pembatasan-tersebut-menimbulkan-diskriminasi-sistematis-y-ang",
+      "text": "berdampak ganda. Pertama, Pemohon tertutup aksesnya terhadap \n\n18 \n \n \nPendidikan Profesi Guru (PPG) sebagai satu-satunya jalur resmi negara \nuntuk memperoleh pengakuan profesional sebagai pendidik. Hal in i \ndibuktikan dengan Surat Direktorat Jenderal GTK Nomor \n0212/B2/GT.00.02/2026 (Bukti P-7) yang secara eksplisit mensyar atkan \nketerdaftaran peserta PPG di Dapodik pada satuan pendidikan for mal dan \naktif mengajar pada tahun ajaran 2023/2024, syarat yang secara sistematis \ntidak dapat dipenuhi oleh Tutor pada lembaga nonformal. Kedua, \npembatasan normatif tersebut menciptakan ketidakpastian hukum mengenai \nstatus profesional Pemohon, padahal secara substansial Tutor no nformal \nmenjalankan fungsi yang identik dengan guru formal: mendidik, \nmembimbing, mengarahkan, dan mengevaluasi peserta didik berdasa rkan \nkurikulum nasional (Standar Kompetensi Lulusan), dengan output berupa \nijazah negara yang berlaku secara nasional (Paket A/B/C);",
+      "start_line": 662,
+      "end_line": 679
+    },
+    {
+      "heading": "10. Bahwa dalil Pemohon mengenai tertutupnya akses Pendidikan Profesi Guru",
+      "slug": "10-bahwa-dalil-pemohon-mengenai-tertutupnya-akses-pendidikan-profesi-guru",
+      "text": "(PPG) bagi Tutor pada jalur pendidikan nonformal bukan sekadar dalil, \nmelainkan telah terbukti secara konkret dan aktual melalui hasil pengecekan \nkelayakan pendaftaran Pemohon pada sistem resmi Kementerian \nPendidikan Dasar dan Menengah, yaitu platform Sistem Informasi \nManajemen Pengembangan Keprofesian Berkelanjutan (SIMPKB) pada \ntautan ppg.simpkb.id, sebagaimana diakses Pemohon pada tanggal 2 Juli \n2026 (Bukti P-10);",
+      "start_line": 681,
+      "end_line": 687
+    },
+    {
+      "heading": "11. Bahwa berdasarkan hasil pengecekan pada sistem SIMPKB tersebut (Bukti",
+      "slug": "11-bahwa-berdasarkan-hasil-pengecekan-pada-sistem-simpkb-tersebut-bukti",
+      "text": "P-10), tercatat bahwa Pemohon dengan SIMPKB ID 201901274177, \ndinyatakan memenuhi seluruh persyaratan administratif Pendaftaran Seleksi \nAdministrasi PPG bagi Guru Tertentu Tahun 2026, yaitu: belum be rusia 60 \n(enam puluh) tahun; terdaftar di 1 (satu) induk satuan pendidik an; belum \nmemiliki sertifikat pendidik; bukan peserta PPG periode sebelum nya; aktif \nmengajar pada tahun ajaran 2024/2025; serta bukan peserta selek si \nadministrasi PPG bagi Guru Tertentu pada tahun 2024 maupun 2025;",
+      "start_line": 689,
+      "end_line": 695
+    },
+    {
+      "heading": "12. Bahwa diantara seluruh persyaratan yang dinyatakan terpenuhi te rsebut,",
+      "slug": "12-bahwa-diantara-seluruh-persyaratan-yang-dinyatakan-terpenuhi-te-rsebut",
+      "text": "terdapat satu-satunya persyaratan yang dinyatakan tidak terpenuhi (ditandai \ntanda silang merah pada sistem), yaitu persyaratan \"Berstatus s ebagai \nGuru/Kepala Sekolah di satuan pendidikan formal\", dengan ketera ngan \nsistem yang secara eksplisit mencantumkan kedudukan Pemohon seb agai \n\n19 \n \n \n\"Kepala Sekolah di PKBM Aji Sakti Migunani\" (Bukti P-10);",
+      "start_line": 697,
+      "end_line": 705
+    },
+    {
+      "heading": "13. Bahwa fakta ini membuktikan secara empiris dan tidak terbantahkan bahwa",
+      "slug": "13-bahwa-fakta-ini-membuktikan-secara-empiris-dan-tidak-terbantahkan-bahwa",
+      "text": "satu-satunya penghalang Pemohon untuk dapat mendaftar seleksi \nadministrasi PPG bukanlah kualifikasi akademik, pengalaman meng ajar, \nmaupun kompetensi, melainkan semata-mata status kelembagaan PKB M \nsebagai satuan pendidikan nonformal yang tidak diakui setara de ngan \nsatuan pendidikan formal, konsekuensi hukum yang lahir langsung  d a r i  \npembatasan definisi \"Guru\" dalam Pasal 1 Angka 1 UU Guru dan Do sen a \nquo. Dengan demikian, hubungan sebab akibat (causal verband) an tara \nberlakunya norma a quo dengan kerugian konstitusional Pemohon tidak lagi \nbersifat potensial, melainkan telah terjadi secara nyata dan aktual;",
+      "start_line": 707,
+      "end_line": 715
+    },
+    {
+      "heading": "14. Bahwa Bukti P-5 berupa Surat Keterangan Aktif Nomor 400.3.2/76. 3 yang",
+      "slug": "14-bahwa-bukti-p-5-berupa-surat-keterangan-aktif-nomor-400-3-2-76-3-yang",
+      "text": "diterbitkan Dinas Pendidikan Kabupaten Blora membuktikan bahwa \nPemohon secara nyata berstatus sebagai Tutor aktif pada jalur P endidikan \nNonformal (Kesetaraan). Kedudukan ini secara hukum berbeda mutl ak \ndengan instruktur bimbingan belajar (bimbel) maupun les privat yang \ntergolong dalam kategori pendidikan informal sebagaimana diatur  dalam \nPasal 27 UU Sisdiknas. Tutor Ke setaraan pada PKBM terikat denga n \nkurikulum nasional yang mengacu pada Standar Kompetensi Lulusan (SKL), \nterdaftar dalam sistem Data Pokok Pendidikan (Dapodik) Kemendikdasmen, \nbernaung di bawah lembaga berizin resmi negara, dan berwenang \nmeluluskan peserta didik dengan ijazah negara (Paket A/B/C). Fakta yuridis \nini memberikan kedudukan hukum (legal standing) yang kokoh seka ligus \nmembuktikan kerugian konstitusional langsung dan aktual bagi Pe mohon \nuntuk memperjuangkan pengakuan profesi Tutor nonformal setara d engan \nguru formal dalam undang-undang",
+      "start_line": 717,
+      "end_line": 730
+    },
+    {
+      "heading": "15. Bahwa yang membedakan tutor nonformal dengan instruktur bimbing an",
+      "slug": "15-bahwa-yang-membedakan-tutor-nonformal-dengan-instruktur-bimbing-an",
+      "text": "belajar atau les privat adalah sifat kelembagaannya yang diakui  negara. \nTutor kesetaraan terikat pada lembaga PKBM yang memiliki izin operasional \nresmi, terdaftar dan diakui oleh pemerintah, mengacu pada kurik ulum \nnasional, tercatat dalam sistem administrasi negara (Dapodik), dan memiliki \nkewenangan meluluskan peserta didik dengan ijazah negara yang b erlaku \nsecara nasional. Sebaliknya, instruktur bimbingan belajar tidak  m e m i l i k i  \notoritas kelulusan negara, tidak memakai sistem Dapodik, dan ba ru dapat \n\n20 \n \n \ndiakui melalui mekanisme Rekognisi Pembelajaran Lampau (RPL) ap abila \ningin masuk ke jalur pendidikan nonformal. Perbedaan mendasar i ni \nmembuktikan bahwa eksklusivitas definisi \"Guru\" dalam Pasal 1 Angka 1 UU \nGuru dan Dosen yang mengabaikan tutor nonformal tidak memiliki justifikasi \nkonstitusional yang proporsional;",
+      "start_line": 732,
+      "end_line": 747
+    },
+    {
+      "heading": "16. Bahwa perlu dicatat lebih lanjut, keberadaan Petunjuk Teknis Pe nempatan",
+      "slug": "16-bahwa-perlu-dicatat-lebih-lanjut-keberadaan-petunjuk-teknis-pe-nempatan",
+      "text": "Murid pada Pendidikan Kesetaraan dan Sekolah Rakyat Tahun 2026 yang \nditerbitkan Badan Standar, Kurikulum, dan Asesmen Pendidikan (B SKAP) \nKemendikdasmen (Bukti P-8) membuktikan bahwa pemerintah \nsesungguhnya telah mengakui kebutuhan mendesak atas mekanisme R PL \nyang terintegrasi dalam sistem pendidikan nasional. Namun demikian, juknis \ndimaksud hanya bersifat petunjuk teknis tanpa landasan materiil  setingkat \nundang-undang yang memadai, UU Sisdiknas tidak secara tegas men gatur \nRPL, dan UU Guru dan Dosen sama sekali tidak mengakui eksistens i tutor \nnonformal. Kondisi demikian menciptakan kekosongan norma \n(rechtsvacuum) yang menimbulkan ketidakpastian hukum bertentang an \ndengan Pasal 28D ayat (1) UUD NRI Tahun 1945, sekaligus mengakibatkan \nrentan batalnya mekanisme RPL tersebut apabila tidak segera dip erkuat \ndengan pengaturan setingkat undang-undang. Kondisi ini secara l angsung \nmerugikan Pemohon yang dalam kapasitasnya sebagai Tutor aktif \nbergantung pada kepastian hukum atas mekanisme tersebut untuk \nmenjalankan fungsi kelembagaannya secara efektif dan berkesinambungan;",
+      "start_line": 749,
+      "end_line": 764
+    },
+    {
+      "heading": "17. Bahwa argumentasi inkonstitusionalitas Pasal 1 Angka 1 UU Guru dan",
+      "slug": "17-bahwa-argumentasi-inkonstitusionalitas-pasal-1-angka-1-uu-guru-dan",
+      "text": "Dosen a quo semakin diperkuat oleh adanya kontradiksi kebijakan  \n(contradictio in terminis) yang justru datang dari cabang kekuasaan eksekutif \nsendiri, sebagaimana termuat dalam Peraturan Menteri Pendidikan  Dasar \ndan Menengah Republik Indonesia Nomor 13 Tahun 2026 tentang \nOrganisasi dan Tata Kerja Kementerian Pendidikan Dasar dan Mene ngah \n(selanjutnya disebut Permen Dikdasmen 13/2026) (Bukti P-11);",
+      "start_line": 766,
+      "end_line": 771
+    },
+    {
+      "heading": "18. Bahwa Pasal 78 huruf d menyatakan bahwa susunan organisasi Direktorat",
+      "slug": "18-bahwa-pasal-78-huruf-d-menyatakan-bahwa-susunan-organisasi-direktorat",
+      "text": "Jenderal Guru dan Tenaga Kependidikan terdiri atas, antara lain : \"d. \nDirektorat Guru Pendidikan Anak Usia Dini dan Pendidikan Nonfor mal\". \nKetentuan ini membuktikan bahwa Pemerintah telah membentuk unit eselon \nII khusus yang menaungi pembinaan guru pada jalur pendidikan nonformal, \n\n21 \n \n \nditempatkan dalam satu kesatuan struktural dengan Direktorat Je nderal \nGuru dan Tenaga Kependidikan (Ditjen GTK), direktorat jenderal yang sama \ndengan pembina guru jalur formal;",
+      "start_line": 773,
+      "end_line": 783
+    },
+    {
+      "heading": "19. Bahwa Pasal 106 Permen Dikdasmen 13/2026 menyatakan: \"Direktora t",
+      "slug": "19-bahwa-pasal-106-permen-dikdasmen-13-2026-menyatakan-direktora-t",
+      "text": "Guru Pendidikan Anak Usia Dini dan Pendidikan Nonformal mempuny ai \ntugas melaksanakan perumusan dan pelaksanaan kebijakan di bidang guru \ndan pendidik lainnya pada pendidikan anak usia dini dan pendidi kan \nnonformal.\" Ketentuan ini secara eksplisit menggunakan diksi \"guru\"  bukan \nistilah lain seperti \"pamong belajar\" untuk merujuk pada pendid ik jalur \nnonformal, menunjukkan bahwa secara kebijakan dan nomenklatur \nkelembagaan, Pemerintah sesungguhnya telah mengakui pendidik \nnonformal sebagai bagian dari kategori guru;",
+      "start_line": 785,
+      "end_line": 792
+    },
+    {
+      "heading": "20. Bahwa Pasal 107 huruf a dan huruf b Permen Dikdasmen 13/2026",
+      "slug": "20-bahwa-pasal-107-huruf-a-dan-huruf-b-permen-dikdasmen-13-2026",
+      "text": "menyatakan bahwa Direktorat a quo  menyelenggarakan fungsi: \"a. \npenyiapan perumusan kebijakan di bidang perencanaan kebutuhan, \npengendalian formasi, pendistribusian, pemindahan lintas daerah  provinsi, \npembelajaran, pengembangan karier, pengembangan kompetensi \nnonvokasional, peningkatan kualifikasi, kesejahteraan, pengharg aan, dan \npelindungan guru dan pendidik lainnya pada pendidikan anak usia  dini dan \npendidikan nonformal; b. pelaksanaan kebijakan di bidang perenc anaan \nkebutuhan, pengendalian formasi, pendistribusian, pemindahan li ntas \ndaerah provinsi, pembelajaran, pengembangan karier, pengembanga n \nkompetensi nonvokasional, peningkatan kualifikasi, kesejahteraa n, \npenghargaan, dan pelindungan guru dan pendidik lainnya pada pen didikan \nanak usia dini dan pendidikan nonformal\". Ketentuan a quo secar a tegas \nmemberi mandat kepada negara untuk mengembangkan karier dan \nmeningkatkan kualifikasi pendidik nonformal,  sesuatu yang must ahil \ndilaksanakan secara utuh tanpa akses terhadap Pendidikan Profes i Guru \n(PPG) sebagai satu-satunya jalur negara untuk pengembangan kual ifikasi \nprofesional pendidik;",
+      "start_line": 794,
+      "end_line": 810
+    },
+    {
+      "heading": "21. Bahwa Pasal 108 Permen Dikdasmen 13/2026 menegaskan susunan",
+      "slug": "21-bahwa-pasal-108-permen-dikdasmen-13-2026-menegaskan-susunan",
+      "text": "organisasi Direktorat a quo yang terdiri atas \"a. Subdirektorat  Peningkatan \nKapasitas, Pelindungan, dan Pengendalian; b. Subbagian Tata Usa ha; dan",
+      "start_line": 812,
+      "end_line": 813
+    },
+    {
+      "heading": "c. jabatan fungsional dan jabatan pelaksana\" struktur yang iden tik dengan",
+      "slug": "c-jabatan-fungsional-dan-jabatan-pelaksana-struktur-yang-iden-tik-dengan",
+      "text": "22 \n \n \nstruktur direktorat pembina guru jalur formal lainnya di lingku ngan Ditjen \nGTK, sebagaimana diatur dalam Pasal 100 (Direktorat Kepala Seko lah, \nPengawas Sekolah, dan Tenaga Kependidikan), Pasal 116 (Direktorat Guru \nPendidikan Dasar), dan Pasal 124 (Direktorat Guru Pendidikan Me nengah \ndan Pendidikan Khusus) Permen Dikdasmen 13/2026, yang seluruhnya juga \nmenggunakan nomenklatur Subdirektorat Peningkatan Kapasitas, \nPelindungan, dan Pengendalian yang sama;",
+      "start_line": 815,
+      "end_line": 825
+    },
+    {
+      "heading": "22. Bahwa dengan demikian terdapat kontradiksi, di satu sisi Pemerintah melalui",
+      "slug": "22-bahwa-dengan-demikian-terdapat-kontradiksi-di-satu-sisi-pemerintah-melalui",
+      "text": "Permen Dikdasmen 13/2026 telah membentuk kelembagaan resmi setingkat \ndirektorat untuk mengembangkan karier dan kualifikasi guru/pend idik jalur \nnonformal secara setara-struktural dengan jalur formal; namun d i sisi lain, \nPasal 1 Angka 1 UU Guru dan Dosen tetap mengunci definisi \"Guru\" secara \neksklusif hanya pada jalur pendidikan formal, sehingga menutup akses \npendidik nonformal, termasuk Pemohon, terhadap PPG yang notaben e \nmerupakan instrumen \"peningkatan kualifikasi\" yang justru menja di mandat \ndirektorat yang dibentuk khusus untuk membina mereka. Kontradik si \nkebijakan lintas cabang kekuasaan negara ini menegaskan bahwa \np e m b a t a s a n  n o r m a  P a s a l  1  A n g k a  1  U U  G u r u  d a n  D o s e n  a  q u o  t e l a h  \nkehilangan relevansi dan justifikasi konstitusionalnya, serta b ertentangan \ndengan prinsip kepastian hukum yang adil sebagaimana dijamin Pa sal 28D \nayat (1) UUD NRI Tahun 1945;",
+      "start_line": 827,
+      "end_line": 839
+    },
+    {
+      "heading": "23. Bahwa Mahkamah Konstitusi seyogianya memaknai frasa \"pada pendidikan",
+      "slug": "23-bahwa-mahkamah-konstitusi-seyogianya-memaknai-frasa-pada-pendidikan",
+      "text": "anak usia dini jalur pendidikan formal, pendidikan dasar, dan p endidikan \nmenengah\" dalam Pasal 1 Angka 1 UU Guru dan Dosen sebagai bersy arat \nkonstitusional (conditionally constitutional), tidak mempunyai kekuatan \nhukum mengikat sepanjang dimaknai mengeksklusi tutor pada jalur  \npendidikan nonformal yang diakui negara, mengacu pada kurikulum  \nnasional, dan memiliki kewenangan meluluskan peserta didik dengan ijazah \nnegara; \nD. Dampak Sistemik terhadap Kesetaraan Pendidik, Hak atas Pendidikan, dan \nPengembangan Diri Warga Negara",
+      "start_line": 841,
+      "end_line": 849
+    },
+    {
+      "heading": "24. Bahwa keterkaitan sistemik antara Pasal 26 ayat (6) dan Pasal 3 5 ayat (1)",
+      "slug": "24-bahwa-keterkaitan-sistemik-antara-pasal-26-ayat-6-dan-pasal-3-5-ayat-1",
+      "text": "UU Sisdiknas serta Pasal 1 Angka 1 UU Guru dan Dosen berimplika si \nlangsung pada tidak diakuinya status hukum tutor sebagai pendid ik yang \n\n23 \n \n \nsetara. Tutor pada pendidikan nonformal memiliki fungsi yang se cara \nsubstansial sama dengan guru pada pendidikan formal, yaitu melaksanakan \nproses pembelajaran, membimbing peserta didik, serta mengembang kan \nkompetensi warga belajar. Namun demikian, akibat konstruksi norma a quo, \ntutor tidak memperoleh pengakuan yang setara sebagai pendidik, baik \ndalam aspek status hukum maupun akses terhadap pengembangan profesi;",
+      "start_line": 851,
+      "end_line": 862
+    },
+    {
+      "heading": "25. Bahwa dampak nyata dari ketidaksetaraan tersebut adalah tertutu pnya",
+      "slug": "25-bahwa-dampak-nyata-dari-ketidaksetaraan-tersebut-adalah-tertutu-pnya",
+      "text": "akses tutor terhadap pengembangan profesi, termasuk Pendidikan Profesi \nGuru (PPG), yang merupakan bentuk pengabaian negara terhadap \nkesejahteraan dan kualitas hidup tenaga pendidik nonformal. Pem bedaan \nstatus yang tidak didasarkan pada perbedaan fungsi substantif m erupakan \nbentuk diskriminasi yang bertentangan dengan prinsip persamaan di \nhadapan hukum sebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI \nTahun 1945. Hal ini terbukti secara konkret melalui Surat Direktorat Jenderal \nGTK Nomor 0212/B2/GT.00.02/2026 (Bukti P-7) yang menetapkan sel eksi \npeserta PPG dengan kriteria mutlak keterdaftaran di Dapodik dan  keaktifan \nmengajar di satuan pendidikan formal, sehingga PKBM dan tutornya secara \nstruktural tersingkir dari program tersebut;",
+      "start_line": 864,
+      "end_line": 874
+    },
+    {
+      "heading": "26. Bahwa berdasarkan Pasal 31 ayat (1) UUD NRI Tahun 1945, setiap warga",
+      "slug": "26-bahwa-berdasarkan-pasal-31-ayat-1-uud-nri-tahun-1945-setiap-warga",
+      "text": "negara berhak mendapatkan pendidikan. Hak ini tidak dapat dimak nai \nsecara sempit sebagai sekadar pemberian akses awal, melainkan \nmencakup kewajiban negara untuk menjamin keberlanjutan dan keterikatan \nwarga negara dalam sistem pendidikan nasional secara utuh;",
+      "start_line": 876,
+      "end_line": 879
+    },
+    {
+      "heading": "27. Bahwa dalam praktiknya, terdapat kondisi di mana anak usia seko lah",
+      "slug": "27-bahwa-dalam-praktiknya-terdapat-kondisi-di-mana-anak-usia-seko-lah",
+      "text": "terlepas dari jalur pendidikan formal karena faktor ekonomi, so sial, maupun \ngeografis. Dalam kondisi demikian, pendidikan nonformal bukanlah alternatif \nsekunder, melainkan merupakan bagian integral dari sistem pendi dikan \nnasional yang berfungsi sebagai jalur pemulihan hak konstitusio nal warga \nnegara;",
+      "start_line": 881,
+      "end_line": 885
+    },
+    {
+      "heading": "28. Bahwa norma Pasal 26 ayat (6) UU Sisdiknas yang mensyaratkan pr oses",
+      "slug": "28-bahwa-norma-pasal-26-ayat-6-uu-sisdiknas-yang-mensyaratkan-pr-oses",
+      "text": "penyetaraan administratif telah menjadi hambatan struktural yan g \nmenghambat fungsi tersebut, sehingga bertentangan dengan kewaji ban \nkonstitusional negara dalam menjamin hak atas pendidikan. Ketik a anak \nusia sekolah terlepas dari sistem pendidikan dan tidak dapat segera kembali \n\n24 \n \n \nmelalui jalur nonformal akibat hambatan struktural, maka negara  s e c a r a  \nnyata telah membiarkan terjadinya pelanggaran hak konstitusiona l atas \npendidikan;",
+      "start_line": 887,
+      "end_line": 897
+    },
+    {
+      "heading": "29. Bahwa dalam praktik pendidikan nonformal telah berkembang pende katan",
+      "slug": "29-bahwa-dalam-praktik-pendidikan-nonformal-telah-berkembang-pende-katan",
+      "text": "proaktif untuk menjangkau anak tidak sekolah (ATS), termasuk me lalui \npendataan awal ke dalam sistem pendidikan nasional (Dapodik) se bagai \nupaya memastikan anak tidak terlepas dari sistem. Namun mekanis me \ntersebut pada kenyataannya belum memiliki dasar hukum yang jela s dan \ntegas dalam kerangka UU Sisdiknas, sehingga menimbulkan dilema yuridis \nbagi penyelenggara pendidikan nonformal;",
+      "start_line": 899,
+      "end_line": 904
+    },
+    {
+      "heading": "30. Bahwa kondisi tersebut menunjukkan adanya kekosongan norma",
+      "slug": "30-bahwa-kondisi-tersebut-menunjukkan-adanya-kekosongan-norma",
+      "text": "(rechtsvacuum) dalam UU Sisdiknas, di mana kebutuhan faktual di lapangan \ntidak diakomodasi oleh pengaturan hukum yang ada. Norma a quo t idak \nhanya menciptakan hambatan struktural dalam pengakuan pendidika n \nnonformal, tetapi juga gagal memberikan dasar hukum yang memada i bagi \nmekanisme pemulihan hak pendidikan bagi anak yang telah terlepa s dari \nsistem;",
+      "start_line": 906,
+      "end_line": 911
+    },
+    {
+      "heading": "31. Bahwa dalam konteks hak untuk mengembangkan diri sebagaimana dijamin",
+      "slug": "31-bahwa-dalam-konteks-hak-untuk-mengembangkan-diri-sebagaimana-dijamin",
+      "text": "dalam Pasal 28C ayat (1) UUD NRI Tahun 1945, setiap warga negara berhak \nmemperoleh pengakuan atas kompetensi yang diperoleh melalui ber bagai \njalur, baik formal, nonformal, maupun pengalaman kerja. Konsep Rekognisi \nPembelajaran Lampau (Recognition of Prior Learning/RPL) merupak an \nmekanisme yang mengakui hasil belajar berbasis pengalaman sebag ai \nbagian dari sistem pendidikan yang sah;",
+      "start_line": 913,
+      "end_line": 918
+    },
+    {
+      "heading": "32. Bahwa ketiadaan pengakuan yang tegas terhadap RPL dalam UU Sisdiknas",
+      "slug": "32-bahwa-ketiadaan-pengakuan-yang-tegas-terhadap-rpl-dalam-uu-sisdiknas",
+      "text": "telah mengakibatkan warga negara dewasa kehilangan haknya untuk  \nmemperoleh pengakuan atas kompetensi yang dimilikinya, sehingga  \nmenghambat akses terhadap pendidikan lanjutan maupun pengembang an \nprofesi. Pengakuan RPL secara konstitusional merupakan bagian d ari hak \natas pendidikan dan hak mengembangkan diri, yang wajib dijamin oleh \nnegara;",
+      "start_line": 920,
+      "end_line": 925
+    },
+    {
+      "heading": "33. Bahwa Pemohon selaku Tutor Pendidikan Kesetaraan pada PKBM Aji Sakti",
+      "slug": "33-bahwa-pemohon-selaku-tutor-pendidikan-kesetaraan-pada-pkbm-aji-sakti",
+      "text": "Migunani menemukan sejumlah fakta lapangan yang secara langsung  \nmenggambarkan dampak nyata dari inkonstitusionalitas norma a qu o \n\n25 \n \n \nterhadap hak warga negara atas pendidikan, sebagaimana tertuang  dalam \nTemuan Faktual Lapangan yang telah dibuat dan ditandatangani ol eh \nPemohon dengan materai sah pada tanggal 5 Juni 2026 (Bukti P-9):",
+      "start_line": 927,
+      "end_line": 935
+    },
+    {
+      "heading": "34. Bahwa dalam pengamatan dan pengalaman langsung Pemohon selaku",
+      "slug": "34-bahwa-dalam-pengamatan-dan-pengalaman-langsung-pemohon-selaku",
+      "text": "Tutor Pendidikan Kesetaraan, terdapat seorang anak berinisial R N yang \nhanya menempuh pendidikan sampai pada jenjang Sekolah Menengah \nPertama atau setara dengan sembilan tahun pendidikan. Bahwa set elah \nmenyelesaikan jenjang tersebut, RN tidak melanjutkan pendidikan ke tingkat \nSekolah Menengah Atas maupun pendidikan kesetaraan. Bahwa Pemoh on \nbersama pengelola PKBM telah melakukan pendekatan secara langsu ng \nkepada RN dengan tujuan agar yang bersangkutan dapat melanjutka n \npendidikan melalui program keseta raan Paket C sebagai jalur alt ernatif \nuntuk menyelesaikan program wajib belajar dua belas tahun. Bahw a dalam \npraktiknya RN memilih untuk tidak melanjutkan pendidikan, dan p ada usia \nyang masih berada dalam rentang usia wajib belajar, RN akhirnya  bekerja \nsebagai penjaga usaha minuman di lingkungan sekitarnya. Bahwa peristiwa \nini membuktikan secara konkret bahwa ketika seorang anak keluar  dari \nsistem pendidikan formal, tidak terdapat mekanisme sistemik yan g efektif \nuntuk memastikan anak tersebut kembali masuk ke dalam sistem pendidikan \nmelalui jalur nonformal, suatu kekosongan yang secara langsung berkaitan \ndengan lemahnya pengakuan normatif terhadap pendidikan nonforma l \ndalam UU Sisdiknas;",
+      "start_line": 937,
+      "end_line": 954
+    },
+    {
+      "heading": "35. Bahwa Pemohon juga menemukan fakta serupa pada seorang anak",
+      "slug": "35-bahwa-pemohon-juga-menemukan-fakta-serupa-pada-seorang-anak",
+      "text": "berinisial S yang sebelumnya menempuh pendidikan pada jenjang S ekolah \nMenengah Atas. Bahwa S mengalami perundungan (bullying) di lingkungan \nsekolah yang menyebabkan trauma psikologis dan akhirnya memutus kan \nberhenti sekolah ketika masih duduk di kelas X. Bahwa setelah k eluar dari \nsistem pendidikan formal, S tidak melanjutkan pendidikan melalu i jalur \npendidikan kesetaraan, dan dalam kondisi tersebut S kemudian me milih \nmenikah pada usia muda. Bahwa Pemohon bersama pengelola PKBM telah \nmelakukan kunjungan dan pendekatan kepada S beserta keluarganya untuk \nmemberikan pemahaman mengenai pentingnya melanjutkan pendidikan  \nmelalui program kesetaraan, namun keluarga yang bersangkutan \nmemutuskan untuk tidak melanjutkan pendidikan bagi S. Bahwa kas us ini \n\n26 \n \n \nmenunjukkan bahwa ketika peserta didik mengalami kegagalan dala m \nsistem pendidikan formal, jalur pendidikan nonformal belum sepe nuhnya \nberfungsi sebagai mekanisme pemulihan pendidikan (educational recovery) \nyang efektif, kondisi yang secara struktural diperparah oleh ke tiadaan \npengakuan yang kuat atas kapasitas dan otoritas lembaga nonformal dalam \nUU Sisdiknas;",
+      "start_line": 956,
+      "end_line": 976
+    },
+    {
+      "heading": "36. Bahwa Pemohon turut menemukan fakta pada seorang warga berinisial MS",
+      "slug": "36-bahwa-pemohon-turut-menemukan-fakta-pada-seorang-warga-berinisial-ms",
+      "text": "dari Kabupaten Blora, yang merupakan anak yatim piatu dan sejak  u s i a  \nmuda menghadapi kondisi sosial ekonomi yang sangat terbatas, se hingga \nhanya mampu menyelesaikan pendidikan sampai pada jenjang Sekola h \nMenengah Pertama. Bahwa setelah  tidak lagi memiliki tempat ting gal yang \ntetap, MS merantau untuk mencari pekerjaan dengan berbekal ijazah SMP, \nnamun ketika memperoleh kesempatan bekerja pada sebuah perusaha an, \nkesempatan tersebut tidak dapat dimanfaatkan secara optimal kar ena \nketerbatasan kualifikasi pendidikan formal yang dimilikinya. Ba hwa dalam \npengamatan Pemohon selaku tutor pendidikan kesetaraan, kondisi MS \nmenunjukkan adanya hambatan struktural bagi warga negara dewasa yang \ningin memperbaiki taraf hidupnya namun tidak memiliki pengakuan  \npendidikan formal yang memadai. Bahwa sistem pendidikan kesetar aan \ndalam praktiknya masih cenderung menggunakan pola pembelajaran yang \nmenyerupai sekolah reguler, tanpa mekanisme yang cukup fleksibe l untuk \nmengakui pengalaman kerja, pengalaman hidup, maupun kompetensi riil \nyang telah dimiliki oleh warga negara dewasa, suatu kelemahan yang secara \nlangsung bersumber pada tidak adanya pengaturan RPL yang memili ki \nkekuatan hukum setingkat undang-undang;",
+      "start_line": 978,
+      "end_line": 995
+    },
+    {
+      "heading": "37. Bahwa Pemohon juga menemukan fakta pada seorang warga berinisia l JS",
+      "slug": "37-bahwa-pemohon-juga-menemukan-fakta-pada-seorang-warga-berinisia-l-js",
+      "text": "dari Kabupaten Blora, yang pernah putus sekolah akibat berbagai persoalan \nkenakalan remaja pada masa mudanya. Bahwa ketika berusia sekita r dua \npuluh empat tahun, JS menyadari pentingnya pendidikan dan memil iki \nkeinginan untuk melanjutkan pendidikan melalui program Paket C.  Bahwa \nsetelah mencari informasi mengenai program tersebut, JS mengeta hui \nbahwa pendidikan kesetaraan harus ditempuh dalam jangka waktu s ekitar \ntiga tahun, yang dirasakan memberatkan karena pada saat yang sama yang \nbersangkutan harus bekerja untuk memenuhi kebutuhan hidup. Bahw a \n\n27 \n \n \nketerbatasan fleksibilitas dalam sistem pendidikan kesetaraan a khirnya \nmembuat JS memilih bekerja sebagai tenaga migran secara ilegal di \nM a l a y s i a .  B a h w a  k a s u s  J S  s e c a r a  k h u s u s  m e m b u k t i k a n  b a h w a  \nketidakfleksibelan dan ketiadaan mekanisme RPL yang sah dalam U U \nSisdiknas tidak hanya berdampak pada kegagalan warga negara \nmenyelesaikan pendidikan, tetapi juga secara nyata mendorong wa rga \nnegara mengambil pilihan pekerjaan yang berisiko tinggi dan ber potensi \nmelanggar hukum demi mempertahankan kehidupan ekonominya, suatu  \nakibat konstitusional yang sepenuhnya dapat dihindari apabila s istem \npendidikan nonformal diakui dan diperkuat secara setara dalam u ndang-\nundang;",
+      "start_line": 997,
+      "end_line": 1019
+    },
+    {
+      "heading": "38. Bahwa rangkaian fakta lapangan tersebut membuktikan secara konk ret",
+      "slug": "38-bahwa-rangkaian-fakta-lapangan-tersebut-membuktikan-secara-konk-ret",
+      "text": "bahwa ketidaksetaraan normatif dalam UU Sisdiknas bukan sekadar  \npersoalan abstrak yuridis, melainkan telah mengakibatkan kerugi an nyata \ndan berulang bagi warga negara yang paling rentan, dan bahwa Pe mohon \nsebagai Tutor yang aktif di lapangan memiliki kerugian konstitusional aktual \nyang terkait langsung dengan berlakunya norma a quo;",
+      "start_line": 1021,
+      "end_line": 1025
+    },
+    {
+      "heading": "39. Bahwa praktik di berbagai negara menunjukkan adanya kecenderung an",
+      "slug": "39-bahwa-praktik-di-berbagai-negara-menunjukkan-adanya-kecenderung-an",
+      "text": "untuk mengakui kompetensi yang diperoleh melalui jalur pendidikan formal, \nnonformal, maupun informal berdasarkan capaian pembelajaran (le arning \noutcomes), sehingga pengakuan tidak semata-mata didasarkan pada  jalur \npendidikan yang ditempuh;",
+      "start_line": 1027,
+      "end_line": 1030
+    },
+    {
+      "heading": "40. Bahwa di Australia, pengakuan terhadap kompetensi yang diperoleh melalui",
+      "slug": "40-bahwa-di-australia-pengakuan-terhadap-kompetensi-yang-diperoleh-melalui",
+      "text": "jalur formal, nonformal, dan informal dilakukan melalui mekanis me \nRecognition of Prior Learning (RPL) dalam Australian Qualificat ions \nFramework (AQF), yang memberikan pengakuan terhadap kompetensi \nberdasarkan hasil asesmen;",
+      "start_line": 1032,
+      "end_line": 1035
+    },
+    {
+      "heading": "41. Bahwa praktik tersebut menunjukkan adanya perkembangan sistem",
+      "slug": "41-bahwa-praktik-tersebut-menunjukkan-adanya-perkembangan-sistem",
+      "text": "pendidikan yang memberikan ruang bagi pengakuan kompetensi \nberdasarkan kemampuan nyata, sehingga pengaturan yang membedaka n \nsecara kaku antara pendidikan formal dan pendidikan nonformal \nsebagaimana diatur dalam UU Sisdiknas a quo tidak sejalan denga n \nperkembangan tersebut;",
+      "start_line": 1037,
+      "end_line": 1041
+    },
+    {
+      "heading": "42. Bahwa secara filosofis, pemberlakuan Standar Nasional Pendidika n yang",
+      "slug": "42-bahwa-secara-filosofis-pemberlakuan-standar-nasional-pendidika-n-yang",
+      "text": "28 \n \n \nsama terhadap pendidikan formal dan pendidikan nonformal berten tangan \ndengan prinsip Keadilan Distributif menurut Aristoteles, karena  keadilan \nmenuntut perlakuan yang berbeda terhadap keadaan yang berbeda (treating \nlike cases alike and unlike cases differently);",
+      "start_line": 1043,
+      "end_line": 1050
+    },
+    {
+      "heading": "43. Bahwa menurut Teori Hukum Progresif yang dikemukakan oleh Satji pto",
+      "slug": "43-bahwa-menurut-teori-hukum-progresif-yang-dikemukakan-oleh-satji-pto",
+      "text": "Rahardjo, hukum harus memberikan perlindungan dan kemanfaatan b agi \nmanusia. Oleh karena itu, apabila ketentuan Pasal 26 ayat (6), Pasal 35 ayat \n(1) UU Sisdiknas, dan Pasal 1 Angka 1 UU Guru dan Dosen justru \nmenghambat pemenuhan hak atas pendidikan dan pekerjaan, maka \nMahkamah Konstitusi perlu memberikan penafsiran konstitusional terhadap \nnorma a quo;",
+      "start_line": 1052,
+      "end_line": 1057
+    },
+    {
+      "heading": "44. Bahwa berdasarkan teori 4A yang dikemukakan oleh Katarina Tomas evski,",
+      "slug": "44-bahwa-berdasarkan-teori-4a-yang-dikemukakan-oleh-katarina-tomas-evski",
+      "text": "pendidikan harus memenuhi prinsip Availability, Accessibility, Acceptability, \ndan Adaptability. Oleh karena itu, pengaturan yang tidak mengak omodasi \nkarakteristik pendidikan nonformal berpotensi mengurangi akses \nmasyarakat untuk memperoleh layanan pendidikan yang sesuai deng an \nkebutuhannya;",
+      "start_line": 1059,
+      "end_line": 1063
+    },
+    {
+      "heading": "45. Bahwa berdasarkan seluruh uraian di atas, terdapat konstruksi",
+      "slug": "45-bahwa-berdasarkan-seluruh-uraian-di-atas-terdapat-konstruksi",
+      "text": "inkonstitusionalitas yang jelas dan sistemik dari Pasal 26 ayat  (6), Pasal 35 \nayat (1) UU Sisdiknas, dan Pasal 1 angka 1 UU Guru dan Dosen te rhadap \nPasal 28C ayat (1), Pasal 28D ayat (1), dan Pasal 31 ayat (1) U UD NRI \nTahun 1945. Oleh karena itu, sudah sepatutnya Mahkamah Konstitu si \nmemberikan penafsiran konstitusional terhadap norma-norma a quo  a g a r  \nsistem pendidikan nasional tidak  lagi bersifat eksklusif dan fo rmalistik, \nmelainkan adaptif terhadap realitas sosial, serta mampu menjami n bahwa \ntidak ada satu pun warga negara, khususnya anak usia sekolah, y ang \nberada di luar sistem pendidikan nasional. \nIV. PETITUM \nBerdasarkan dari seluruh dalil-dalil yang diuraikan di atas dan  bukti-bukti terlampir, \ndengan ini Pemohon memohon kepada Yang Mulia Majelis Hakim Mahk amah \nKonstitusi Republik Indonesia untuk memberikan putusan sebagai berikut:",
+      "start_line": 1065,
+      "end_line": 1077
+    },
+    {
+      "heading": "2. Menyatakan Pasal 1 Angka 1 Undang-Undang Nomor 14 Tahun 2005 tentang",
+      "slug": "2-menyatakan-pasal-1-angka-1-undang-undang-nomor-14-tahun-2005-tentang",
+      "text": "Guru dan Dosen (Lembaran Negara Republik Indonesia Tahun 2005 N omor \n\n29 \n \n \n157, Tambahan Lembaran Negara Republik Indonesia Nomor 4586) \nbertentangan dengan  Undang-Undang Dasar Negara Republik Indone sia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat sepanjan g tidak \ndimaknai bahwa frasa \"jalur pendidikan formal\" mencakup pula jalur pendidikan \nnonformal yang diakui dan diselenggarakan oleh negara sehingga pendidik \nyang bertugas pada satuan pendidikan nonformal penyelenggara pe ndidikan \nkesetaraan yang terdaftar secara resmi dan memenuhi kualifikasi  a k a d e m i k  \nsebagaimana ditentukan oleh peraturan perundang-undangan berhak  \nmemperoleh akses secara setara terhadap Pendidikan Profesi Guru  ( P P G )  \nsebagai sarana untuk memperoleh pengakuan sebagai pendidik profesional;",
+      "start_line": 1080,
+      "end_line": 1094
+    },
+    {
+      "heading": "3. Menyatakan Pasal 26 ayat (6) Undang-Undang Nomor 20 Tahun 20 03 tentang",
+      "slug": "3-menyatakan-pasal-26-ayat-6-undang-undang-nomor-20-tahun-20-03-tentang",
+      "text": "Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 \nNomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 430 1) \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat sepanjan g  tidak \ndimaknai \"Hasil pendidikan nonformal wajib dihargai setara deng an hasil \nprogram pendidikan formal.\";",
+      "start_line": 1096,
+      "end_line": 1101
+    },
+    {
+      "heading": "4. Menyatakan Pasal 35 ayat (1) Undang-Undang Nomor 20 Tahun 20 03 tentang",
+      "slug": "4-menyatakan-pasal-35-ayat-1-undang-undang-nomor-20-tahun-20-03-tentang",
+      "text": "Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 \nNomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 430 1) \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat sepanjan g frasa \n\"Standar nasional pendidikan\" tidak dimaknai sebagai standar ya ng \nterdiferensiasi dan diterapkan secara proporsional sesuai karak teristik masing-\nmasing jalur pendidikan formal dan nonformal, sehingga penerapa nnya \nterhadap pendidikan nonformal wajib disesuaikan dengan kekhusus an \nkarakteristik, fleksibilitas, dan kebutuhan peserta didik pada jalur nonformal;",
+      "start_line": 1103,
+      "end_line": 1111
+    },
+    {
+      "heading": "5. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik Indonesia",
+      "slug": "5-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik-indonesia",
+      "text": "sebagaimana mestinya; \nAtau apabila Mahkamah Konstitusi berpendapat lain, mohon putusa n yang seadil-\nadilnya   (ex aequo et bono). \n\n30 \n \n \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon  telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 1 3 ,  \nsebagai berikut:",
+      "start_line": 1113,
+      "end_line": 1122
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 20 Tahun 2003 tent ang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-20-tahun-2003-tent-ang",
+      "text": "Sistem Pendidikan Nasional;",
+      "start_line": 1124,
+      "end_line": 1124
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Nomor 14 Tahun 2005 tent ang",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-nomor-14-tahun-2005-tent-ang",
+      "text": "Guru dan Dosen;",
+      "start_line": 1126,
+      "end_line": 1126
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Dasar Negara Republik",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945;",
+      "start_line": 1128,
+      "end_line": 1128
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Penduduk a.n Jangkung Sido",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-penduduk-a-n-jangkung-sido",
+      "text": "Sentosa;",
+      "start_line": 1130,
+      "end_line": 1130
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Surat Keterangan Aktif Nomor 400.3 .2/76.3",
+      "slug": "5-bukti-p-5-fotokopi-surat-keterangan-aktif-nomor-400-3-2-76-3",
+      "text": "yang diterbitkan  oleh  Kepala  Bidang  PAUD  dan  DIKMAS \nDinas Pendidikan Kabupaten Blora;",
+      "start_line": 1132,
+      "end_line": 1133
+    },
+    {
+      "heading": "6. Bukti P-6 : Salinan Ijazah S1 milik Pemohon a.n Jangkung Si do",
+      "slug": "6-bukti-p-6-salinan-ijazah-s1-milik-pemohon-a-n-jangkung-si-do",
+      "text": "Sentosa;",
+      "start_line": 1135,
+      "end_line": 1135
+    },
+    {
+      "heading": "7. Bukti P-7 : Salinan Surat Direktorat Jenderal GTK Nomor",
+      "slug": "7-bukti-p-7-salinan-surat-direktorat-jenderal-gtk-nomor",
+      "text": "0212/B2/GT.00.02/2026; \n8 .   B u k t i  P - 8  :  F o t o k o p i  P e t u n j u k   T e k n i s   P e n e m p a t a n   M u r i d   pada  \nPendidikan Kesetaraan  dan  Sekolah  Rakyat  Tahun  2026  \nyang diterbitkan  Badan  Standar,  Kurikulum,  dan  \nAsesmen Pendidikan (BSKAP) Kemendikdasmen;",
+      "start_line": 1137,
+      "end_line": 1141
+    },
+    {
+      "heading": "9. Bukti P-9 : Salinan Dokumen Temuan Faktual Lapangan Terkait",
+      "slug": "9-bukti-p-9-salinan-dokumen-temuan-faktual-lapangan-terkait",
+      "text": "Hambatan Akses dan Keberlanjutan Pendidikan \nKesetaraan;",
+      "start_line": 1143,
+      "end_line": 1144
+    },
+    {
+      "heading": "10. Bukti P-10 : Tangkapan layar Kelayakan pendaftaran Pemohon pada",
+      "slug": "10-bukti-p-10-tangkapan-layar-kelayakan-pendaftaran-pemohon-pada",
+      "text": "sistem resmi Kementerian Pendidikan Dasar dan \nMenengah, yaitu platform Sistem Informasi Manajemen \nPengembangan Keprofesian Berkelanjutan (SIMPKB) pada \ntautan ppg.simpkb.id",
+      "start_line": 1146,
+      "end_line": 1149
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Peraturan Menteri Pendidikan Dasar d an",
+      "slug": "11-bukti-p-11-fotokopi-peraturan-menteri-pendidikan-dasar-d-an",
+      "text": "Menengah Republik Indonesia Nomor 13 Tahun 2026 \ntentang Organisasi dan Tata Kerja Kementerian Pendidikan \nDasar dan Menengah; \n\n31",
+      "start_line": 1151,
+      "end_line": 1157
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Kartu Nomor Unik Pendidik dan Tenaga",
+      "slug": "12-bukti-p-12-fotokopi-kartu-nomor-unik-pendidik-dan-tenaga",
+      "text": "Kependidikan (NUTPTK) a.n. Jangkung Sido Sentosa;",
+      "start_line": 1159,
+      "end_line": 1159
+    },
+    {
+      "heading": "13. Bukti P-13 : Fotokopi Kertas Kerja Rencana Kegiatan dan An ggaran",
+      "slug": "13-bukti-p-13-fotokopi-kertas-kerja-rencana-kegiatan-dan-an-ggaran",
+      "text": "Sekolah (RKAS) Tahun 2026. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1161,
+      "end_line": 1164
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 26 ayat (6) dan Pasal 35 \nayat (1) Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendi dikan \nNasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan \nLembaran Negara Republik Indonesia Nomor 4301, selanjutnya disebut dengan UU \n20/2003) serta Pasal 1 angka 1 Undang-Undang Nomor 14 Tahun 200 5 tentang \nGuru dan Dosen (Lembaran Negara Republik Indonesia Tahun 2005 N omor 157, \nTambahan Lembaran Negara Republik Indonesia Nomor 4586, selanjutnya disebut \n\n32 \n \n \ndengan UU 14/2005) terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang \nmengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1166,
+      "end_line": 1203
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap UUD \nNRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007, serta putusan-putusan selanjutnya berpendirian bahwa kerugian \nhak dan/atau kewenangan konstitusional sebagaimana dimaksud dal am Pasal 51 \nayat (1) UU MK harus memenuhi lima syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \n\n33 \n \n \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1206,
+      "end_line": 1228
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1230,
+      "end_line": 1231
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon sebagai berikut:",
+      "start_line": 1233,
+      "end_line": 1239
+    },
+    {
+      "heading": "1. Bahwa Pemohon mengajukan pengujian konstitusionalitas norma Pasal 26 ayat",
+      "slug": "1-bahwa-pemohon-mengajukan-pengujian-konstitusionalitas-norma-pasal-26-ayat",
+      "text": "(6) UU 20/2003, Pasal 35 ayat (1) UU 20/2003, dan Pasal 1 angka 1 UU 14/2005 \nyang menyatakan sebagai berikut: \nPasal 26 ayat (6) UU 20/2003 \nHasil pendidikan nonformal dapat dihargai setara dengan hasil pendidikan \nformal setelah melalui proses penilaian penyetaraan oleh lembag a yang \nditunjuk oleh Pemerintah atau Pemerintah Daerah dengan mengacu pada \nstandar nasional pendidikan. \nPasal 35 ayat (1) UU 20/2003 \nStandar nasional pendidikan terdiri atas standar isi, proses, k ompetensi \nlulusan, tenaga kependidikan, sarana dan prasarana, pengelolaan , \npembiayaan, dan penilaian pendidikan yang harus ditingkatkan se cara \nberencana dan berkala. \nPasal 1 Angka 1 UU 14/2005 \nGuru adalah pendidik profesional dengan tugas utama mendidik, \nmengajar, membimbing, mengarahkan, melatih, menilai, dan \nmengevaluasi peserta didik pada pendidikan anak usia dini jalur  \npendidikan formal, pendidikan dasar, dan pendidikan menengah.",
+      "start_line": 1241,
+      "end_line": 1257
+    },
+    {
+      "heading": "2. Bahwa Pemohon menerangkan memiliki hak konstitusional sebaga imana",
+      "slug": "2-bahwa-pemohon-menerangkan-memiliki-hak-konstitusional-sebaga-imana",
+      "text": "dijamin antara lain dalam Pasal 28C ayat (1), Pasal 28D ayat (1), dan Pasal 31 \nayat (1) UUD NRI Tahun 1945.",
+      "start_line": 1259,
+      "end_line": 1260
+    },
+    {
+      "heading": "3. Bahwa Pemohon menerangkan kualifikasi kedudukan hukumnya seb agai",
+      "slug": "3-bahwa-pemohon-menerangkan-kualifikasi-kedudukan-hukumnya-seb-agai",
+      "text": "perseorangan warga negara Indonesia yang menjabat sebagai Kepal a Pusat \nKegiatan Belajar Masyarakat (PKBM) Aji Sakti Migunani.  \n\n34",
+      "start_line": 1262,
+      "end_line": 1267
+    },
+    {
+      "heading": "4. Bahwa dengan berlakunya frasa “dapat dihargai setara” dalam norma Pasal 26",
+      "slug": "4-bahwa-dengan-berlakunya-frasa-dapat-dihargai-setara-dalam-norma-pasal-26",
+      "text": "ayat (6) UU 20/2003 menyebabkan hasil pendidikan nonformal tida k diakui \nsetara secara langsung dengan hasil pendidikan formal, sehingga  \nmengakibatkan terhambatnya warga belajar untuk mendaftar dan me ngikuti \npendidikan nonformal. Sistem pendidikan kesetaraan mensyaratkan  w a k t u  \nmengikuti Standar Nasional Pendidikan selama tiga tahun yang ti dak sejalan \ndengan kebutuhan warga belajar dewasa yang membutuhkan pengakua n \npendidikan secara cepat untuk kepentingan pekerjaan. Oleh karen a itu, frasa \n“dapat dihargai setara” dalam norma Pasal 26 ayat (6) UU 20/200 3 \nmenimbulkan  ketidakpastian hukum karena tidak bersifat pasti d an tidak \nmenjamin pengakuan hasil pendidikan nonformal, membuka ruang pe nafsiran \nyang berbeda, serta bergantung pada proses administratif yang t idak jelas dan \nterukur, sehingga merugikan hak Pemohon untuk mengembangkan profesi  dan \nkarier sebagai tutor karena terbatasnya kesempatan kerja pendid ikan \nnonformal. Demikian pula halnya dengan berlakunya norma Pasal 3 5 ayat (1) \nUU 20/2003 yang menetapkan standar nasional pendidikan sebagai acuan \ntunggal yang bersifat monolitik, yang dalam praktik disusun ber dasarkan \npendidikan formal dan diterapkan secara seragam tanpa mempertim bangkan \nkarakteristik untuk standar nasional pendidikan non formal sehi ngga norma \ntersebut tidak sejalan dengan Pasal 27 ayat (2), Pasal 28C ayat  (1), dan Pasal \n28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 1269,
+      "end_line": 1288
+    },
+    {
+      "heading": "5. Bahwa dengan berlakunya rumusan definisi “Guru” dalam norma Pasal 1 angka",
+      "slug": "5-bahwa-dengan-berlakunya-rumusan-definisi-guru-dalam-norma-pasal-1-angka",
+      "text": "1 UU 14/2005 telah mengunci ruang lingkup profesi guru hanya pa da jalur \npendidikan formal menjadi penyebab struktural utama dari seluru h kerugian \nkonstitusional Pemohon. Dengan definisi tersebut menyebabkan Pemohon tidak \ndapat terdaftar di Dapodik sebagai guru pada satuan pendidikan,  tidak dapat \nmemenuhi syarat administratif PPG, serta  tidak dapat memperole h sertifikat \npendidik. Pembedaan perlakuan ini merupakan bentuk diskriminasi  y a n g  \nbertentangan dengan Pasal 28C ayat (1) dan Pasal 28D ayat (1) U UD NRI \nTahun 1945. Selain itu, norma a quo berpotensi menghambat pemenuhan hak \natas penghidupan yang layak sebagaimana dijamin dalam Pasal 27 ayat (1) \nUUD NRI Tahun 1945.",
+      "start_line": 1290,
+      "end_line": 1299
+    },
+    {
+      "heading": "6. Bahwa apabila permohonan ini dikabulkan pengakuan pendidikan nonformal",
+      "slug": "6-bahwa-apabila-permohonan-ini-dikabulkan-pengakuan-pendidikan-nonformal",
+      "text": "menjadi setara dengan pendidikan formal, maka menurut  Pemohon \n\n35 \n \n \nketidakpastian hukum atas frasa “dapat dihargai setara” menjadi  terhapus, \nposisi pendidikan nonformal dalam sistem pendidikan nasional me njadi \nproporsional, Pemohon selaku tutor dan kepala PKBM dapat memper oleh \npengakuan status hukum yang setara dan akses terhadap pengemban gan \nprofesi, serta warga belajar dapat memperoleh pengakuan atas kompetensinya \nsecara cepat melalui mekanisme Rekognisi Pembelajaran Lampau (R PL) yang \nsah. \nBerdasarkan seluruh uraian dalam menjelaskan kedudukan hukum \nsebagaimana tersebut di atas, menurut Mahkamah Pemohon telah me mbuktikan \nkualifikasinya sebagai perseorangan warga negara Indonesia [vid e Bukti P-4] yang \nmenjelaskan memiliki hak konstit usional sebagaimana dijamin dal am Pasal 28C \nayat (1), Pasal 28D ayat (1), dan Pasal 31 ayat (1) UUD NRI Tah un 1945. Oleh \nkarena norma yang dimohonkan pengujian terdiri atas lebih dari satu norma dari dua \nundang-undang yang berbeda, maka berkenaan dengan anggapan keru gian hak \nkonstitusional karena berlakunya norma yang dimohonkan pengujia n Mahkamah \nmempertimbangkan berdasarkan masing-masing norma yang dimohonka n \npengujian.  \nBerkenaan dengan berlakunya norma Pasal 26 ayat (6) UU 20/2003,  \nPemohon telah dapat menjelaskan kualifikasinya sebagai Kepala P KBM dan \nsekaligus sebagai tutor [vide Bukti P-5, Bukti P-10, dan Bukti P-13] dalam lembaga \npendidikan non formal, namun Pemohon tidak dapat menerangkan an ggapan \nkerugian hak konstitusionalnya dalam kualifikasinya tersebut ya ng memiliki \nketerkaitan dengan berlakunya norma Pasal 26 ayat (6) UU 20/200 3. Menurut \nMahkamah, Pasal 26 ayat (6) UU 20/2003 yang mengatur mengenai s alah satu \nsyarat penyetaraan hasil pendidikan nonformal dalam uraian keru gian hak \nkonstitusional Pemohon lebih tepat diuraikan sebagai kerugian t erhadap para \npeserta didik, atau masyarakat yang mengikuti pendidikan nonformal yang menjadi \nsubjek pengaturan norma a quo.  Pemohon tidak dapat menguraikan secara \nmeyakinkan bahwa norma Pasal 26 ayat (6) UU 20/2003 memiliki hubungan sebab-\nakibat dengan pekerjaan Pemohon sebagai tutor, baik secara aktu al maupun \npotensial. Dalam hal ini secara aktual, Pemohon tidak dapat men unjukkan adanya \nuraian atau bukti berkenaan dengan hasil pendidikan nonformal y ang tidak \nmendapatkan penyetaraan dikarenakan keberlakuan norma a quo . Begitupun \nsecara potensial, Pemohon tidak dapat menguraikan anggapan pote nsi kerugian \n\n36 \n \n \nhak konstitusional dengan relevansi hak Pemohon selaku tutor, k arena syarat \npenyetaraan sebagaimana diatur dalam norma a quo  tidak serta merta \nmempengaruhi pelaksanaan tugas Pemohon sebagai tutor maupun seb agai \npengelola PKBM. Oleh karena itu, Mahkamah berpendapat Pemohon t idak \nmemenuhi persyaratan adanya anggapan kerugian hak konstitusiona l dengan \nberlakunya norma Pasal 26 ayat (6) UU 20/2003 yang dimohonkan p engujian, \nsehingga terkait dengan syarat selebihnya, yaitu adanya anggapa n kerugian \nkonstitusional yang bersifat spesifik dan adanya hubungan sebab -akibat ( causal \nverband) yang ditimbulkan antara hak konstitusional yang diberikan ole h UUD NRI \nTahun 1945 dengan berlakunya norma undang-undang yang dimohonka n \npengujian, serta syarat jika permohonan tersebut dikabulkan mak a anggapan \nkerugian hak konstitusional dimaksud tidak terjadi lagi atau tidak akan terjadi dengan \nsendirinya tidak relevan lagi untuk dipertimbangkan, karena syarat-syarat anggapan \nkerugian konstitusional dimaksud adalah bersifat kumulatif. Den gan demikian, \nMahkamah berpendapat Pemohon tidak memiliki kedudukan hukum unt uk \nmengajukan permohonan pengujian norma Pasal 26 ayat (6) UU 20/2003. \nSementara itu, berkenaan dengan pengujian norma Pasal 35 ayat (1) UU \n20/2003 dan Pasal 1 angka 1 UU 14/2005, menurut Mahkamah Pemoho n telah \ndapat menerangkan secara spesifik kualifikasinya sebagai tutor dan pengelola \nPKBM sebagai lembaga pendidikan nonformal [vide Bukti P-5, Bukti P-10, dan Bukti \nP-13], yang menurut anggapannya hak konstitusional tersebut pot ensial dirugikan \nakibat ketentuan mengenai Standar Nasional Pendidikan yang diat ur dalam Pasal \n35 ayat (1) UU 20/2003 dan definisi guru dan dosen sebagaimana diatur dalam \nPasal 1 angka 1 UU 14/2005. Menurut Mahkamah, Pemohon memiliki keterkaitan \nerat dengan materi muatan dalam norma-norma a quo, karena sebagai tutor dan \npengelola pada lembaga pendidikan nonformal, Pemohon beraktivit as dalam \ninstitusi yang potensial menjadi objek pengaturan norma a quo . Dalam hal ini, \ntermasuk mengenai potensi kerugian karena tidak terdapatnya pen didikan \nnonformal dalam definisi guru dan dosen sebagaimana diatur dalam Pasal 1 angka \n1 UU 14/2005. Berdasarkan hal tersebut di atas, telah tampak ad anya keterkaitan \nlogis dan hubungan kausal ( causal verband ) antara anggapan kerugian hak \nkonstitusional Pemohon dengan berlakunya norma Pasal 35 ayat (1 ) UU 20/2003 \ndan Pasal 1 angka 1 UU 14/2005. Oleh karena itu, apabila permoh onan a quo  \ndikabulkan, maka anggapan kerugian hak konstitusional dimaksud tidak akan \n\n37 \n \n \nterjadi. Dengan demikian, terlepas dari terbukti atau tidaknya inkonstitusionalitas \nnorma Pasal 35 ayat (1) UU 20/2003 dan Pasal 1 angka 1 UU 14/20 05 yang \ndimohonkan pengujian, Mahkamah berpendapat Pemohon memiliki ked udukan \nhukum untuk bertindak sebagai Pemohon dalam mengajukan permohon an \npengujian sepanjang norma Pasal 35 ayat (1) UU 20/2003 dan Pasal 1 angka 1 UU \n14/2005. \n[3.6] Menimbang bahwa oleh karena Mahkamah berwenang mengadili \npermohonan a quo dan Pemohon memiliki kedudukan hukum untuk mengajukan \npermohonan sepanjang mengenai pengujian norma Pasal 35 ayat (1)  UU 20/2003 \ndan Pasal 1 angka 1 UU 14/2005, maka selanjutnya Mahkamah akan \nmempertimbangkan pokok permohonan sepanjang terkait dengan norm a-norma  \na quo. Sedangkan, berkenaan dengan pengujian konstitusionalitas norma Pasal 26 \nayat (6) UU 20/2003 tidak dipertimbangkan lebih lanjut. \nPokok Permohonan \n[3.7] Menimbang bahwa dalam mendalilk an norma Pasal 35 ayat (1) UU \n20/2003 dan Pasal 1 angka 1 UU 14/2005 bertentangan dengan Pasal 28C ayat (1), \nPasal 28D ayat (1), dan Pasal 31 ayat (1) UUD NRI Tahun 1945, P emohon \nmengemukakan dalil-dalil (selengkapnya dimuat dalam bagian Duduk Perkara) yang \napabila dipahami dan dirumuskan oleh Mahkamah pada pokoknya sebagai berikut:",
+      "start_line": 1301,
+      "end_line": 1400
+    },
+    {
+      "heading": "1. Bahwa menurut Pemohon, norma Pasal 35 ayat (1) UU 20/2003 me netapkan",
+      "slug": "1-bahwa-menurut-pemohon-norma-pasal-35-ayat-1-uu-20-2003-me-netapkan",
+      "text": "Standar Nasional Pendidikan (SNP) sebagai acuan tunggal. Standar ini disusun \nberdasarkan paradigma pendidikan formal yang kaku dan diterapka n secara \nseragam tanpa mempertimbangkan karakteristik khusus, fleksibili tas, dan \nkearifan lokal yang menjadi marwah pendidikan nonformal. Pemaksaan standar \nini menimbulkan hambatan struktural bagi Pemohon dalam mengembangkan diri \ndan lembaga pendidikan yang dikelolanya, sehingga mematikan ink lusivitas \npendidikan dan melanggar hak atas perlindungan hukum yang adil,  sehingga \nbertentangan dengan Pasal 28C ayat (1) dan Pasal 28D ayat (1) UUD NRI Tahun",
+      "start_line": 1402,
+      "end_line": 1409
+    },
+    {
+      "heading": "1945. Oleh karena itu menurut Pemohon SNP secara konstitusional seharusnya",
+      "slug": "1945-oleh-karena-itu-menurut-pemohon-snp-secara-konstitusional-seharusnya",
+      "text": "dimaknai tidak sebagai standar tunggal, melainkan sebagai stand ar yang \nterdiferensiasi antara jalur pendidikan formal dan nonformal; \n\n38",
+      "start_line": 1411,
+      "end_line": 1416
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, norma Pasal 1 angka 1 UU 14/2005 mend efinisikan",
+      "slug": "2-bahwa-menurut-pemohon-norma-pasal-1-angka-1-uu-14-2005-mend-efinisikan",
+      "text": "“Guru” secara rigid dan ekslusif. Pembatasan definitif dalam un dang-undang  \na quo menjadi pengunci kedua yang menutup segala kemungkinan bagi tu tor \nnonformal untuk diakui sebagai pendidik profesional meskipun telah dipenuhinya \nsyarat kompetensi, kualifikasi akademik, dan fungsi substantif yang setara. \nPembatasan tersebut menimbulkan diskriminasi sistematis yang be rdampak \nganda sehingga menutup akses Pemohon terhadap pendidikan profes i guru \n(PPG) sehingga menciptakan ketidakpastian hukum mengenai status profesional \nPemohon. Sebab, definisi “Guru” dalam norma Pasal 1 angka 1 UU 14/2005 \ntelah mengabaikan tutor nonformal yang tidak memiliki justifika si konstitusional \nyang proporsional;",
+      "start_line": 1418,
+      "end_line": 1427
+    },
+    {
+      "heading": "3. Bahwa menurut Pemohon, norma yang dimohonkan berimplikasi pa da tidak",
+      "slug": "3-bahwa-menurut-pemohon-norma-yang-dimohonkan-berimplikasi-pa-da-tidak",
+      "text": "diakuinya status hukum tutor sebagai pendidik yang setara. Tuto r pada \npendidikan nonformal memiliki fungsi yang secara substansial sa ma dengan \nguru pada pendidikan formal, yaitu melaksanakan proses pembelaj aran, \nmembimbing peserta didik, serta mengembangkan kompetensi warga negara. \nDampak nyata dari ketidaksetaraan tersebut adalah tertutupnya a kses tutor \nterhadap pengembangan profesi, termasuk PPG. Hal ini bertentang an dengan \nPasal 28D ayat (1) dan Pasal 31 ayat (1) UUD NRI Tahun 1945 ber kenaan \ndengan jaminan hak atas persamaan di hadapan hukum dan hak warg a negara \nuntuk mendapatkan pendidikan. \nBahwa berdasarkan dalil-dalil tersebut, Pemohon dalam petitumny a \nmemohon kepada Mahkamah pada pokoknya untuk menyatakan:",
+      "start_line": 1429,
+      "end_line": 1439
+    },
+    {
+      "heading": "1. Pasal 1 angka 1 UU 14/2005 bertentangan dengan UUD NRI Tahun 1945 dan",
+      "slug": "1-pasal-1-angka-1-uu-14-2005-bertentangan-dengan-uud-nri-tahun-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimakna i bahwa \nfrasa “jalur pendidikan formal” mencakup pula jalur pendidikan nonformal yang \ndiakui dan diselenggarakan oleh negara sehingga pendidik yang bertugas pada \nsatuan pendidikan nonformal penyelenggara pendidikan kesetaraan  yang \nterdaftar secara resmi dan memenuhi kualifikasi akademik sebaga imana \nditentukan oleh peraturan perundang-undangan berhak memperoleh akses \nsecara setara terhadap Pendidikan Profesi Guru (PPG) sebagai sa rana untuk \nmemperoleh pengakuan sebagai pendidik profesional; \n\n39",
+      "start_line": 1441,
+      "end_line": 1452
+    },
+    {
+      "heading": "2. Pasal 35 ayat (1) UU 20/2003 bertentangan dengan UUD NRI Tah un 1945 dan",
+      "slug": "2-pasal-35-ayat-1-uu-20-2003-bertentangan-dengan-uud-nri-tah-un-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat sepanjang frasa “Standar nasional \npendidikan” tidak dimaknai sebagai standar yang terdiferensiasi dan diterapkan \nsecara proporsional sesuai karakteristik masing-masing jalur pendidikan formal \ndan nonformal, sehingga penerapannya terhadap pendidikan nonfor mal wajib \ndisesuaikan dengan kekhususan kar akteristik, fleksibilitas, dan  kebutuhan \npeserta didik pada jalur nonformal. \n[3.8] Menimbang bahwa untuk membuktikan dalil-dalil permohonannya, \nPemohon telah mengajukan alat bukti yang diberi tanda Bukti P-1  sampai dengan \nBukti P-13 sebagaimana telah disahkan dalam persidangan Mahkama h pada \ntanggal 15 Juli 2026 (selengkapnya dimuat dalam bagian Duduk Perkara). \n[3.9] Menimbang bahwa oleh karena permohonan a quo  t e l a h  j e l a s ,  m a k a  \nMahkamah berpendapat tidak terdapat urgensi maupun relevansinya  untuk \nmendengar keterangan pihak-pihak sebagaimana dimaksud dalam Pas al 54  \nUU MK.  \n[3.10] Menimbang bahwa sebelum mempertimbangkan lebih lanjut dalil \npermohonan Pemohon a quo, Mahkamah terlebih dahulu akan mempertimbangkan \nperihal dapat atau tidaknya diajukan kembali pengujian norma Pa sal 1 angka 1 UU \n14/2005 karena sebelumnya norma a quo telah pernah diuji konstitusionalitasnya \ndan telah diputus oleh Mahkamah dalam Putusan Mahkamah Konstitu si Nomor \n2/PUU-XVII/2019, yang diucapkan dalam sidang pleno yang terbuka  untuk umum \npada tanggal 21 Mei 2019. Berkenaan dengan hal tersebut, Mahkam ah terlebih \ndahulu perlu menilai keterpenuhan syarat yang termaktub dalam P asal 60 UU MK \ndan Pasal 72 Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 t entang Tata \nBeracara Dalam Perkara Pengujian Undang-Undang (PMK 7/2025), ya ng masing-\nmasing menyatakan. \nPasal 60 UU MK menyatakan.  \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang-undang \nyang telah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2)  Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecua likan jika \nmateri muatan dalam Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 yang dijadikan dasar pengujian berbeda.  \n \n\n40 \n \n \nPasal 72 PMK 7/2025 menyatakan.  \n(1)  Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang-undang \natau Perppu yang telah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecual ikan jika \nmateri muatan dalam UUD NRI Tahun 1945 yang dijadikan dasar pen gujian \nberbeda atau terdapat alasan permohonan yang berbeda.  \n Berdasarkan ketentuan tersebut, terhadap pasal yang telah dila kukan \npengujian konstitusionalitasnya dan telah diputus oleh Mahkamah  h a n y a  d a p a t  \ndimohonkan pengujian kembali apabila terdapat dasar pengujian d an/atau alasan \npermohonan yang berbeda. Terhadap hal tersebut, kemudian Mahkamah membaca \nsecara saksama materi permohonan Pemohon dalam permohonan a quo  d a n  \nmenyandingkan dengan permohonan sebelumnya dalam Permohonan Nom or \n2/PUU-XVII/2019. Dalam Permohonan Nomor 2/PUU-XVII/2019 ketentu an Pasal 1 \nangka 1 UU 14/2005 diuji dengan dasar pengujian Pasal 27 ayat (2), Pasal 28D ayat \n(1), dan Pasal 28I ayat (2) UUD NRI Tahun 1945. Sedangkan, perm ohonan \nPemohon a quo menggunakan dasar pengujian Pasal 28C ayat (1), Pasal 28D ayat \n(1), dan Pasal 31 ayat (1) UUD NRI Tahun 1945.  Dengan demikian, dasar pengujian \nyang digunakan dalam permohonan Pemohon a quo  berbeda dengan dasar \npengujian yang digunakan dalam Permohonan Nomor 2/PUU-XVII/2019. Selain itu, \nalasan konstitusional dalam Permohonan Nomor 2/PUU-XVII/2019 berbeda dengan \nyang dipersoalkan dalam permohonan a quo. Permohonan Nomor 2/PUU-XVII/2019",
+      "start_line": 1454,
+      "end_line": 1510
+    },
+    {
+      "heading": "di antaranya mempersoalkan Pasal 1 angka 1 UU 14/2005 yang hany a",
+      "slug": "di-antaranya-mempersoalkan-pasal-1-angka-1-uu-14-2005-yang-hany-a",
+      "text": "menyebutkan pendidikan anak usia dini jalur pendidikan formal s ebagai salah satu \ndefinisi guru tanpa mengakomodasi pendidikan anak usia dini jal ur pendidikan non \nformal. Berdasarkan uraian tersebut, terlepas substansi permoho nan a quo  \nberalasan atau tidak, karena adanya dasar pengujian dan alasan konstitusionalitas \nyang berbeda, Mahkamah berpendapat secara formil permohonan a quo  tidak \nterhalang dengan ketentuan Pasal 60 UU MK dan Pasal 72 PMK 7/20 25, sehingga \nterhadap ketentuan norma Pasal 1 angka 1 UU 14/2005 dapat dimoh onkan \npengujian kembali. Oleh karenanya, Mahkamah mempertimbangkan po kok \npermohonan lebih lanjut. \n[3.11] Menimbang bahwa setelah membaca secara saksama permohonan \nPemohon beserta alat-alat bukti yang diajukan, persoalan konsti tusionalitas norma \nyang harus dijawab Mahkamah adalah apakah dengan tidak dimasukk annya kata \n\n41 \n \n \n“tutor” sebagai pendidik dari jalur non formal dalam definisi “ guru” dalam norma \nPasal 1 angka 1 UU 14/2005 menimbulkan diskriminasi dan ketidak pastian status \nprofesi tutor serta apakah frasa “Standar nasional pendidikan” dalam norma Pasal \n35 ayat (1) UU 20/2003 menimbulkan ketidakpastian hukum karena tidak \nmengakomodasi pendidikan nonformal sehingga bertentangan dengan  UUD NRI \nTahun 1945 apabila tidak dimaknai sebagaimana petitum Pemohon.  \nTerhadap persoalan konstitusionalitas norma Pasal 35 ayat (1) UU 20/2003 \ndan Pasal 1 angka 1 UU 14/2005 tersebut, Mahkamah mempertimbangkan sebagai \nberikut. \n[3.11.1] Bahwa norma Pasal 35 ayat (1) UU 20/2003 didalilkan Pemohon \nmerupakan acuan tunggal standar nasional pendidikan (SNP), yang  menurut \nPemohon menimbulkan hambatan struktural bagi Pemohon dalam \nmengembangkan diri dan lembaga pendidikan yang dikelolanya, seh ingga \nmematikan inklusivitas pendidikan dan melanggar hak atas perlin dungan hukum \nyang adil, sehingga bertentangan dengan Pasal 28C ayat (1) dan Pasal 28D ayat \n(1) UUD NRI Tahun 1945. Dalam kait an ini, penting bagi Mahkamah  menegaskan \nbahwa norma Pasal 35 ayat (1) UU 20/2003 merupakan bagian dari Bab IX yang \nmengatur mengenai SNP, yang menyatakan, “Standar nasional pendi dikan terdiri \natas standar isi, proses, kompetensi lulusan, tenaga kependidik an, sarana dan \nprasarana, pengelolaan, pembiayaan, dan penilaian pendidikan ya ng harus \nditingkatkan secara berencana dan berkala”. Pengaturan SNP dima ksud pada \ndasarnya juga merupakan bagian dari amanat Pasal 31 UUD NRI Tahun 1945 yang",
+      "start_line": 1512,
+      "end_line": 1549
+    },
+    {
+      "heading": "di dalamnya termaktub prinsip-prinsip konstitusi mengenai pemen uhan hak atas",
+      "slug": "di-dalamnya-termaktub-prinsip-prinsip-konstitusi-mengenai-pemen-uhan-hak-atas",
+      "text": "pendidikan dan penyelenggaraan sistem pendidikan nasional. Dala m hal ini, Pasal \n31 ayat (3) UUD NRI Tahun 1945 mengamanatkan bahwa Pemerintah \nmengusahakan dan menyelenggarakan satu sistem pendidikan nasion al, yang \nmeningkatkan keimanan dan ketakwaan serta akhlak mulia dalam ra ngka \nmencerdaskan kehidupan bangsa, yang diatur dengan undang-undang  [vide Pasal \n31 ayat (3) UUD NRI Tahun 1945]. Oleh karena itu, UU 20/2003 a quo merupakan \nundang-undang yang menjadi dasar hukum sistem pendidikan nasion al, di mana \ndalam norma Pasal 1 angka 3 UU 20/2003 menyatakan bahwa, “Sistem pendidikan \nnasional adalah keseluruhan komponen pendidikan yang saling ter kait secara \nterpadu untuk mencapai tujuan pendidikan nasional”. Lebih lanju t, norma Pasal 1 \nangka 17 UU 20/2003 menentukan definisi standar nasional pendid ikan, yang \n\n42 \n \n \ndidefinisikan sebagai, kriteria minimal tentang sistem pendidikan di seluruh wilayah \nhukum Negara Kesatuan Republik Indonesia (NKRI). Oleh karena it u, keberadaan \nSNP merupakan salah satu sarana penting dalam keterpaduan kompo nen \npendidikan dalam sistem pendidikan nasional agar dapat mencapai  tujuan \npendidikan nasional [vide Pasal 1 angka 17 UU 20/2003]. \n Berkenaan dengan hal tersebut, norma Pasal 35 UU 20/2003 menga tur \nlebih lanjut mengenai SNP dalam sistem pendidikan nasional, yan g di dalamnya   \nmenguraikan mengenai unsur-unsur dari SNP yang terdiri atas: standar isi, proses, \nkompetensi lulusan, tenaga kependidikan, sarana dan prasarana, pengelolaan, \npembiayaan, dan penilaian pendidikan yang harus ditingkatkan se cara berencana \ndan berkala [vide Pasal 35 ayat (1) UU 20/2003]. Adapun, norma Pasal 35 ayat (2) \nmenentukan penggunaan dari SNP sebagai acuan pengembangan kurik ulum, \ntenaga kependidikan, sarana dan prasarana, pengelolaan, dan pem biayaan, dan \nayat (3) mengatur mengenai pengembangan SNP yang dilakukan oleh suatu badan \nstandardisasi, penjaminan, dan pengendalian mutu pendidikan. No rma Pasal 35  \na quo juga mendelegasikan ketentuan mengenai standar nasional pendid ikan agar \ndiatur lebih lanjut dalam peraturan pemerintah [vide Pasal 35 ayat (4) UU 20/2003]. \nSelain itu, dalam Penjelasan Pasal 35 ayat (1) UU 20/2003 a quo telah dijelaskan \nmaksud masing-masing unsur SNP sebagai berikut: \nStandar isi mencakup ruang lingkup materi dan tingkat kompetens i yang \ndituangkan ke dalam persyaratan tentang kompetensi tamatan, kom petensi \nbahan kajian, kompetensi mata pelajaran, dan silabus pembelajar an yang \nharus dipenuhi peserta didik pada jenjang dan jenis pendidikan tertentu.  \nKompetensi lulusan merupakan kualifikasi kemampuan lulusan yang  \nmencakup sikap, pengetahuan, dan keterampilan sesuai dengan sta ndar \nnasional yang telah disepakati. \nStandar tenaga kependidikan mencakup persyaratan pendidikan pra jabatan \ndan kelayakan, baik fisik maupun mental, serta pendidikan dalam jabatan. \nStandar sarana dan prasarana pendidikan mencakup ruang belajar,  tempat \nberolahraga, tempat beribadah, perpustakaan, laboratorium, beng kel kerja, \ntempat bermain, tempat berkreasi dan berekreasi, dan sumber bel ajar lain \nyang diperlukan untuk menunjang proses pembelajaran, termasuk \npenggunaan teknologi informasi dan komunikasi. \nPeningkatan secara berencana dan berkala dimaksudkan untuk \nmeningkatkan keunggulan lokal, kepentingan nasional, keadilan, dan \nkompetensi antar bangsa dalam peradaban dunia.  \n Oleh karena itu, menurut Mahkamah pengaturan mengenai SNP dala m \nUU 20/2003, baik dalam ketentuan umum maupun dalam norma Pasal 35 ayat (1) \nsampai dengan ayat (4) beserta Penjelasannya telah jelas dan me madai, dengan \n\n43 \n \n \npengaturan ihwal teknis  penggunaan, pengawasan, pengembangan serta delegasi \npengaturan pelaksanaan SNP dalam peraturan pemerintah. Sebagaim ana telah \nMahkamah pertimbangkan di atas, undang-undang menyatakan bahwa SNP \ndiperlukan sebagai kriteria minimal tentang sistem pendidikan d i seluruh wilayah \nhukum NKRI dan merupakan mekanisme yang tidak dapat dipisahkan dalam \npembentukan suatu sistem pendidikan nasional yang terpadu. Deng an demikian, \nmenurut Mahkamah, tidak terdapat pertentangan terhadap asas kep astian hukum \nyang adil dalam bentuk ketidakjelasan norma undang-undang menge nai SNP, \nkhususnya pada norma Pasal 35 ayat (1) UU 20/2003 yang dimohonkan pengujian. \n[3.11.2] Bahwa berkenaan dengan uraian pertimbangan di atas, apabila dikaitkan \ndengan petitum  Pemohon yang memohon agar frasa “Standar nasional pendidikan” \ndalam norma Pasal 35 ayat (1) UU 20/2003 dimaknai sebagai stand ar yang \nterdiferensiasi dan diterapkan secara proporsional sesuai karak teristik masing-\nmasing jalur pendidikan formal dan nonformal, sehingga penerapa nnya terhadap \npendidikan nonformal wajib disesuaikan dengan kekhususan karakt eristik, \nfleksibilitas, dan kebutuhan peserta didik pada jalur nonformal, menurut Mahkamah, \npemaknaan yang demikian justru akan menciptakan ketidakjelasan norma. Dalam \nhal ini, jika memaknai SNP sebagai standar yang terdiferensiasi  dalam norma \nundang-undang justru berpotensi menyebabkan ketidakjelasan pene rapan standar \ntersebut. Apabila tidak terdapat kepastian mengenai standar, se bagaimana telah \nditentukan oleh badan yang berwenang, justru akan tercipta keti dakpastian hukum \nmengenai penggunaan standar nasional pendidikan sehingga akan m enimbulkan \npersoalan yang menghambat capaian tujuan pendidikan nasional. M enurut \nMahkamah, penerapan SNP terhadap pendidikan nonformal yang wajib disesuaikan \ndengan kekhususuan karakteristik, fleksibilitas, dan kebutuhan peserta didik pada \njalur nonformal apabila ditentukan dalam pemaknaan norma a quo  justru akan \nmenghilangkan makna dari standar tersebut, sehingga berpotensi mengancam \nkeutuhan sistem pendidikan nasional karena hilangnya SNP yang b erkepastian \nhukum. Selain itu, UU 20/2003 tidak menentukan SNP sebagai suat u standar yang \nrigid atau kaku, karena Pasal 35 ayat (3) UU 20/2003 juga meneg askan bahwa \nnegara juga melakukan peningkatan standar secara berencana dan berkala, dan \ndimaksudkan untuk meningkatkan keunggulan lokal, kepentingan na sional, \nkeadilan, dan kompetensi antarbangsa dalam peradaban dunia [vid e Penjelasan \nPasal 35 ayat (1) UU 20/2003]. Berkenaan dengan hal tersebut, i hwal penerapan \n\n44 \n \n \npengembangan standar, termasuk m engenai fleksibilitas penerapan  S N P ,  b a i k  \nterhadap pendidikan formal maupun informal lebih tepat diatur dan diuraikan dalam \nperaturan pelaksana sebagaimana didelegasikan oleh Pasal 35 aya t (4) UU \n20/2003. Penerapan SNP sebagaimana diatur dalam Pasal 35 UU 20/ 2003 pada \ndasarnya tidak menghambat atau menghalangi hak setiap warga neg ara untuk \nmendapatkan pendidikan sebagaimana didalilkan Pemohon, justru S NP tersebut \nbertujuan untuk memastikan agar setiap warga negara mendapatkan  pendidikan \nyang memenuhi standar nasional dalam berbagai aspek.  \n Berdasarkan pertimbangan hukum di atas, dalil Pemohon yang \nmempersoalkan konstitusionalitas norma Pasal 35 ayat (1) UU 20/ 2003 karena \nmenurut Pemohon tidak menjamin hak untuk mengembangkan diri, me ndapat \npendidikan dan memperoleh manfaat dari ilmu pengetahuan dan ber tentangan \ndengan prinsip kepastian hukum yang adil sebagaimana dijamin da lam Pasal 28C \nayat (1) dan Pasal 28D ayat (1) UUD NRI Tahun 1945 adalah dalil  yang tidak \nberdasar, sehingga harus dinyatakan tidak beralasan menurut hukum. \n[3.12] Menimbang bahwa Pemohon juga mendalilkan norma Pasal 1 angka 1  \nUU 14/2005 telah mendefinisikan “Guru” secara rigid dan ekslusif sehingga menutup \nkemungkinan bagi tutor nonformal untuk diakui sebagai pendidik profesional \nmeskipun telah dipenuhinya syarat kompetensi, kualifikasi akade mik, dan fungsi \nsubstantif yang setara. Berkenaan dengan dalil a quo, Mahkamah perlu mengutip \nterlebih dahulu pertimbangan hukum Putusan Mahkamah Konstitusi Nomor 2/PUU-\nXVII/2019, ihwal pengujian konstitusionalitas norma Pasal 1 ang ka 1 UU 14/2005, \nyang menyatakan antara lain sebagai berikut: \n[3.11] … Pendidik yang dimaksudkan oleh UU Sisdiknas adalah tenaga \nkependidikan yang berkualifikasi sebagai guru, dosen, konselor,  p a m o n g  \nbelajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai \ndengan kekhususannya serta berpartisipasi dalam menyelenggaraka n \npendidikan dan seluruh hal-hal terkait dengan pendidik secara umum tunduk \npada UU Sisdiknas [vide Pasal 1 angka 6 UU Sisdiknas]. Lebih la njut \npembentuk undang-undang juga memberlakukan UU Guru dan Dosen ya ng \nkemudian ditindaklanjuti dengan peraturan pelaksanaannya untuk \nmemberikan pengaturan tidak hanya mengenai hak-hak guru dan dos en \ntetapi juga standar atau kualifikasi dan kewajiban yang harus d ipenuhi \nsebagai seorang guru dan dosen. Konsekuensi logis dengan diakui nya \npendidik sebagai guru maka tentu saja tidak hanya melekat hak-haknya saja \ntetapi juga kewajibannya. Secara formal UU Guru dan Dosen merup akan \nundang-undang yang memang mengatur bagi pendidik khususnya guru  dan \n\n45 \n \n \ndosen, sedangkan bagi pendidik di luar guru dan dosen maka \npengaturannya tidak tunduk kepada UU a quo tetapi tunduk pada \nundang-undang maupun peraturan perundang-undangan lainnya  [vide \nPutusan Mahkamah Konstitusi Nomor 2/PUU-XVII/2019, hlm. 116-117] \n Berdasarkan kutipan uraian pertimbangan hukum tersebut, Mahkam ah \ntelah menegaskan terdapat pembedaan definisi guru dalam UU 14/2 005 dengan \npendidik pada UU 20/2003, di mana guru merupakan bagian dari te naga \nkependidikan yang memiliki syarat serta kualifikasi tertentu se hingga harus \ndibedakan dengan definisi tutor atau sebutan lainnya yang tidak memiliki kualifikasi \nyang sama dengan guru. Pembedaan tersebut bukanlah bentuk perla kuan \ndiskriminatif sebagaimana dida lilkan Pemohon, karena dalam defi nisi guru dan \ndosen sebagaimana diatur dalam UU 14/2005 terkandung pula penga turan tidak \nhanya mengenai hak-hak guru dan dosen tetapi juga standar atau kualifikasi dan \nkewajiban yang harus dipenuhi oleh guru dan dosen, sehingga definisi tersebut tidak \nserta merta dapat diperluas bagi tenaga kependidikan lainnya. S elain itu, dalam \nPutusan yang sama, Mahkamah juga mempertimbangkan sebagai berikut: \n…pembedaan perlakuan antara pendidik jalur formal dan jalur non formal \ntidaklah merupakan persoalan diskriminasi. Sebab tidak setiap p erbedaan \nperlakuan adalah serta-merta berarti diskriminasi. Jalur pendid ikan formal \ndan jalur pendidikan nonformal serta jalur pendidikan informal merupakan \njalur-jalur pendidikan yang memiliki karakteristik yang berbeda  sehingga \nterhadap sesuatu yang berbeda tentunya sudah tepat jika dilakuk an \npengaturan secara berbeda pula. Justru akan menjadi tidak tepat  d a n  \nsekaligus tidak adil jika terhadap sesuatu yang memang berbeda \ndiperlakukan sama. [vide Putusan Mahkamah Konstitusi Nomor 2/PU U-\nXVII/2019, halaman 119-120] \n Berdasarkan kutipan uraian pertimbangan hukum tersebut jika no rma \nPasal 1 angka 1 UU 14/2005 dimaknai  sebagaimana petitum permohonan, menurut \nMahkamah, justru akan merusak konstruksi keseluruhan UU 14/2005. Dalam hal ini, \nobjek pengaturan UU 14/2005 secara khusus ditujukan untuk tenaga pendidik yang \nmemiliki kualifikasi sebagai guru  dan dosen yang karakteristikn ya ditujukan untuk \njalur pendidikan formal, sehingga tidak tepat memaknai norma te rsebut dengan \nmencantumkan dan memasukkan jalur pendidikan nonformal sebagai bagian dari \ndefinisi guru. Selain itu, norma Pasal 1 angka 1 UU 14/2005 merupakan norma yang \ndimaktubkan dalam Ketentuan Umum. Sebagaimana disebutkan dalam Undang-\nUndang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perund ang-\nUndangan sebagaimana diubah terakhir dengan Undang-Undang Nomor 13 Tahun \n2022 tentang Perubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 \n\n46 \n \n \ntentang Pembentukan Peraturan Perundang-Undangan (UU 12/2011) b ahwa \nKetentuan Umum berisi tentang batasan pengertian atau definisi,  singkatan atau \nakronim yang digunakan dalam peraturan, dan hal-hal lain yang bersifat umum dan \nberlaku bagi pengaturan di dalam pasal-pasal berikutnya, antara  lain, ketentuan \nyang mencerminkan asas, maksud, dan tujuan tanpa dirumuskan ter sendiri dalam \npasal atau bab [vide Lampiran I C.1. angka 98 UU 12/2011]. Dalam hal ini, Ketentuan \nUmum yang dimaksud dalam suatu peraturan perundang-undangan dim aksudkan \nagar batas pengertian atau definisi, singkatan atau akronim yan g berfungsi untuk \nmenjelaskan makna suatu kata atau istilah harus dirumuskan sede mikian rupa \nsehingga tidak menimbulkan pengertian ganda [vide Lampiran I C.1. angka 107 UU \n12/2011]. Dengan kata lain, Pasal 1 angka 1 UU 14/2005 yang dim ohonkan \npengujian oleh Pemohon merupakan norma yang memberikan batasan arah \npengaturan dan subjek yang diatur dalam keseluruhan norma UU 14/2005, dengan \nmaksud untuk menghindarkan makna ganda atau ketidakjelasan dalam pengaturan",
+      "start_line": 1551,
+      "end_line": 1743
+    },
+    {
+      "heading": "di dalam pasal-pasal selanjutnya, agar memberikan kepastian hukum. Dalam hal ini,",
+      "slug": "di-dalam-pasal-pasal-selanjutnya-agar-memberikan-kepastian-hukum-dalam-hal-ini",
+      "text": "apabila pemaknaan yang dimohonkan oleh Pemohon dikabulkan justr u akan \nmenimbulkan ketidakpastian hukum karena menimbulkan distorsi ma kna guru \ndalam Pasal 1 angka 1 UU 14/2005 di mana pemaknaan tersebut aka n \nmempengaruhi keseluruhan norma dalam undang-undang a quo.  \n Berdasarkan pertimbangan hukum tersebut di atas, dalil Pemohon  yang \nmempersoalkan konstitusionalitas norma Pasal 1 angka 1 UU 14/2005 bertentangan \ndengan hak untuk mengembangkan diri, mendapat pendidikan dan me mperoleh \nmanfaat dari ilmu pengetahuan dan teknologi, seni dan budaya da n tidak \nmemberikan kepastian hukum yang adil sebagaimana dijamin dalam Pasal 28C ayat \n(1), Pasal 28D ayat (1), dan Pasal 31 ayat (1) UUD NRI Tahun 19 45 adalah dalil \nyang tidak berdasar sehingga harus dinyatakan tidak beralasan menurut hukum. \n[3.13] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum d i \natas, Mahkamah berpendapat norma Pasal 35 ayat (1) UU 20/2003 d an Pasal 1 \nangka 1 UU 14/2005 telah ternyata tidak bertentangan dengan hak  u n t u k  \nmengembangkan diri, mendapat pendidikan dan memperoleh manfaat dari ilmu \npengetahuan dan teknologi, seni dan budaya dan tidak bertentang an dengan asas \nkepastian hukum yang adil sebagaimana dijamin dalam Pasal 28C a yat (1), Pasal \n28D ayat (1), dan Pasal 31 ayat (1) UUD NRI Tahun 1945, bukan sebagaimana yang \n\n47 \n \n \ndidalilkan oleh Pemohon. Dengan demikian, dalil Pemohon sepanjang norma Pasal \n35 ayat (1) UU 20/2003 dan Pasal 1 angka 1 UU 14/2005 adalah da lil yang tidak \nberalasan menurut hukum. Sementara itu, berkenaan dengan norma Pasal 26 ayat \n(6) UU 20/2003 oleh karena Pemohon tidak memiliki kedudukan huk um maka \npermohonan tidak dipertimbangkan lebih lanjut. \n[3.14] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1745,
+      "end_line": 1773
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, M ahkamah \nberkesimpulan:  \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon tidak memiliki kedudukan hukum sepanjang berkaitan den gan \npermohonan pengujian norma Pasal 26 ayat (6) UU 20/2003; \n[4.3] Pemohon memiliki kedudukan hukum  untuk mengajukan permohonan \npengujian sepanjang berkaitan dengan norma Pasal 35 ayat (1) UU  \n20/2003 dan Pasal 1 angka 1 UU 14/2005; \n[4.4] Permohonan Pemohon sepanjang berkaitan dengan pengujian norma \nPasal 26 ayat (6) UU 20/2003 tidak dipertimbangkan lebih lanjut; \n[4.5] Permohonan Pemohon sepanjang berkaitan dengan norma Pasal 35 a yat \n(1) UU 20/2003 dan Pasal 1 angka 1 UU 14/2005 adalah tidak bera lasan \nmenurut hukum. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \n\n48 \n \n \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1775,
+      "end_line": 1800
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili:",
+      "start_line": 1802,
+      "end_line": 1802
+    },
+    {
+      "heading": "1. Menyatakan permohonan Pemohon sepanjang pengujian Pasal 26 a yat (6)",
+      "slug": "1-menyatakan-permohonan-pemohon-sepanjang-pengujian-pasal-26-a-yat-6",
+      "text": "Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nas ional \n(Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambah an \nLembaran Negara Republik Indonesia Nomor 4301) tidak dapat diterima;",
+      "start_line": 1804,
+      "end_line": 1806
+    },
+    {
+      "heading": "2. Menolak permohonan Pemohon untuk selain dan selebihnya.",
+      "slug": "2-menolak-permohonan-pemohon-untuk-selain-dan-selebihnya",
+      "text": "Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,  \nM. Guntur Hamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai \nAnggota, pada hari Kamis, tanggal enam belas, bulan Juli, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Kamis, tanggal tiga puluh, bulan Juli, tahun dua ribu dua \npuluh enam, selesai diucapkan pukul 14.09 WIB, oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Enn y Nurbaningsih, \nRidwan Mansyur, Arsul Sani, Daniel Yusmic P. Foekh, M. Guntur H amzah, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu \noleh Ery Satria Pamungkas sebagai Panitera Pengganti, serta dih adiri oleh \nPemohon dan/atau kuasanya, Dewan Perwakilan Rakyat atau yang me wakili, dan \nPresiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nEnny Nurbaningsih  \n\n49 \n \n \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nDaniel Yusmic P. Foekh \n ttd. \nM. Guntur Hamzah \nttd. \nAdies Kadir \n ttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nEry Satria Pamungkas",
+      "start_line": 1808,
+      "end_line": 1849
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Jangkung Sido Sentosa",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 20/2003 tentang Sistem Pendidikan Nasional"
+    ],
+    "constitutional_articles": [
+      "Pasal 28C",
+      "Pasal 28D ayat (1)",
+      "Pasal 28C ayat (1)",
+      "Pasal 31 ayat (1)",
+      "Pasal 27 ayat (2)",
+      "Pasal 28D Ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 28I ayat (2)",
+      "Pasal 31",
+      "Pasal 1",
+      "Pasal 35 ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 78",
+      "Pasal 72",
+      "Pasal 2 ayat (1)",
+      "Pasal 4 ayat (2)"
+    ],
+    "evidence": [
+      "BUKTI P- 4",
+      "BUKTI P-5",
+      "BUKTI P-12",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-13",
+      "BUKTI P-10",
+      "BUKTI P-8",
+      "BUKTI P-11",
+      "BUKTI P-9",
+      "BUKTI P-1",
+      "BUKTI P-4",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "REFERENSI:241/PUU-XXIV/2026",
+      "REFERENSI:40/PUU/PAN.MK/AP3/06/2026",
+      "REFERENSI:2/PUU-XVII/2019",
+      "REFERENSI:0212/B2/GT.00.02/2026",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:20/2003danPasal1angka1UU14/2005",
+      "REFERENSI:20/2003dandefinisigurudandosensebagaimanadiaturdalamPasal1angka1UU14/2005",
+      "REFERENSI:14/2005karenasebelumnyanormaaquotelahpernahdiujikonstitusionalitasnyadantelahdiputusolehMahkamahdalamPutusanMahkamahKonstitusiNomor2/PUU-XVII/2019",
+      "REFERENSI:2/PUU-XVII/2019.DalamPermohonanNomor2/PUU-XVII/2019ketentuanPasal1angka1UU14/2005",
+      "REFERENSI:2/PUU-XVII/2019berbedadenganyangdipersoalkandalampermohonanaquo.PermohonanNomor2/PUU-XVII/2019",
+      "REFERENSI:20/2003.PenerapanSNPsebagaimanadiaturdalamPasal35UU20/2003",
+      "REFERENSI:14/2005denganpendidikpadaUU20/2003",
+      "REFERENSI:14/2005yangdimohonkanpengujianolehPemohonmerupakannormayangmemberikanbatasanarahpengaturandansubjekyangdiaturdalamkeseluruhannormaUU14/2005",
+      "REFERENSI:0212/B2/GT.00.02/2026yangmensyaratkanpesertaaktifterdaftardiDapodikdanaktifmengajarpadatahunajaran2023/2024",
+      "REFERENSI:2/PUU-XVII/2019berbedadenganyangdipersoalkandalampermohonanaquo.PermohonanNomor2/PUU-XVII/2019diantaranyamempersoalkanPasal1angka1UU14/2005"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon sepanjang pengujian Pasal 26 a yat (6) Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nas ional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambah an Lembaran Negara Republik Indonesia Nomor 4301) tidak dapat diterima;",
+      "Menolak permohonan Pemohon untuk selain dan selebihnya."
+    ],
+    "summary": "Menyatakan sebagian permohonan tidak dapat diterima; menolak permohonan untuk selain dan selebihnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Ery Satria Pamungkas"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "241/PUU-XXIV/2026",
+      "40/PUU/PAN.MK/AP3/06/2026",
+      "2/PUU-XVII/2019",
+      "0212/B2/GT.00.02/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "20/2003danPasal1angka1UU14/2005",
+      "20/2003dandefinisigurudandosensebagaimanadiaturdalamPasal1angka1UU14/2005",
+      "14/2005karenasebelumnyanormaaquotelahpernahdiujikonstitusionalitasnyadantelahdiputusolehMahkamahdalamPutusanMahkamahKonstitusiNomor2/PUU-XVII/2019",
+      "2/PUU-XVII/2019.DalamPermohonanNomor2/PUU-XVII/2019ketentuanPasal1angka1UU14/2005",
+      "2/PUU-XVII/2019berbedadenganyangdipersoalkandalampermohonanaquo.PermohonanNomor2/PUU-XVII/2019",
+      "20/2003.PenerapanSNPsebagaimanadiaturdalamPasal35UU20/2003",
+      "14/2005denganpendidikpadaUU20/2003",
+      "14/2005yangdimohonkanpengujianolehPemohonmerupakannormayangmemberikanbatasanarahpengaturandansubjekyangdiaturdalamkeseluruhannormaUU14/2005",
+      "0212/B2/GT.00.02/2026yangmensyaratkanpesertaaktifterdaftardiDapodikdanaktifmengajarpadatahunajaran2023/2024",
+      "2/PUU-XVII/2019berbedadenganyangdipersoalkandalampermohonanaquo.PermohonanNomor2/PUU-XVII/2019diantaranyamempersoalkanPasal1angka1UU14/2005"
+    ],
+    "referenced_cases": [
+      "241/PUU-XXIV/2026",
+      "40/PUU/PAN.MK/AP3/06/2026",
+      "2/PUU-XVII/2019",
+      "0212/B2/GT.00.02/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "20/2003danPasal1angka1UU14/2005",
+      "20/2003dandefinisigurudandosensebagaimanadiaturdalamPasal1angka1UU14/2005",
+      "14/2005karenasebelumnyanormaaquotelahpernahdiujikonstitusionalitasnyadantelahdiputusolehMahkamahdalamPutusanMahkamahKonstitusiNomor2/PUU-XVII/2019",
+      "2/PUU-XVII/2019.DalamPermohonanNomor2/PUU-XVII/2019ketentuanPasal1angka1UU14/2005",
+      "2/PUU-XVII/2019berbedadenganyangdipersoalkandalampermohonanaquo.PermohonanNomor2/PUU-XVII/2019",
+      "20/2003.PenerapanSNPsebagaimanadiaturdalamPasal35UU20/2003",
+      "14/2005denganpendidikpadaUU20/2003",
+      "14/2005yangdimohonkanpengujianolehPemohonmerupakannormayangmemberikanbatasanarahpengaturandansubjekyangdiaturdalamkeseluruhannormaUU14/2005",
+      "0212/B2/GT.00.02/2026yangmensyaratkanpesertaaktifterdaftardiDapodikdanaktifmengajarpadatahunajaran2023/2024",
+      "2/PUU-XVII/2019berbedadenganyangdipersoalkandalampermohonanaquo.PermohonanNomor2/PUU-XVII/2019diantaranyamempersoalkanPasal1angka1UU14/2005"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

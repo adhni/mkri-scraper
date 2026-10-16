@@ -1,0 +1,605 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14800_1786521202.pdf",
+    "file_name": "putusan_mkri_14800_1786521202.pdf",
+    "page_count": 22,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14800_1786521202.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "270/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "269/PUU/PAN.MK/AP3/07/2026"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2026-08-12",
+    "decision_date_raw": "dua belas, bulan Agustus, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 270/PUU-XXIV/2026",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,  \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat  \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 7 Tahun 2017 tentang Pemilihan Umum terhadap Undan g-Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh: \nNama : Fikri Haikal Harahap \nPekerjaan : Penulis/Peneliti \nAlamat : Jalan Sutan Sori Padamulia Nomor 2, Kelurahan \nSadabuan, Kecamatan Padangsidimpuan Utara, Kota \nPadangsidimpuan, Provinsi Sumatera Utara \nSelanjutnya disebut sebagai –----------------------------------------- Pemohon;\n [1.2] Membaca permohonan Pemohon;  \n Mendengar keterangan Pemohon; \n Memeriksa bukti-bukti Pemohon.",
+      "start_line": 5,
+      "end_line": 18
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan yang \nditerima Kepaniteraan Mahkamah pada tanggal 16 Juli 2026 berdas arkan Akta \nPengajuan Permohonan Pemohon Nomor 269/PUU/PAN.MK/AP3/07/2026 d an \ndicatat dalam Buku Registrasi Perkara Konstitusi Elektronik (e- BRPK) dengan \nPermohonan Nomor 270/PUU-XXIV/2026 pada tanggal 16 Juli 2026, d an telah \ndiperbaiki dengan perbaikan permohonan bertanggal 2 Agustus 2026 yang diterima \nMahkamah pada tanggal 3 Agustus 2026, pada pokoknya menguraikan  hal-hal \nsebagai berikut. \nI. Kewenangan Mahkamah Konstitusi",
+      "start_line": 20,
+      "end_line": 28
+    },
+    {
+      "heading": "1. Bahwa Negara Kesatuan Republik Indonesia merupakan negara hu kum",
+      "slug": "1-bahwa-negara-kesatuan-republik-indonesia-merupakan-negara-hu-kum",
+      "text": "sebagaimana ditegaskan dalam Pasal 1 ayat (3) Undang-Undang Dasar \nNegara Republik Indonesia  Tahun 1945. Sebagai negara hukum, \n\n\n2 \n \nseluruh penyelenggaraan kekuasaan negara harus tunduk pada \nkonstitusi sebagai hukum tertinggi (the supreme law of the land).",
+      "start_line": 30,
+      "end_line": 37
+    },
+    {
+      "heading": "2. Bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang Dasar Neg ara",
+      "slug": "2-bahwa-berdasarkan-pasal-24c-ayat-1-undang-undang-dasar-neg-ara",
+      "text": "Republik Indonesia  Tahun 1945 ditegaskan “Mahkamah Konstitusi \nberwenang mengadili pada tingkat pertama dan terakhir yang putusannya \nbersifat final untuk menguji undang-undang terhadap Undang-Unda ng \nDasar”",
+      "start_line": 39,
+      "end_line": 42
+    },
+    {
+      "heading": "3. Bahwa ketentuan tersebut dipertegas kembali dalam Pasal 10 a yat (1)",
+      "slug": "3-bahwa-ketentuan-tersebut-dipertegas-kembali-dalam-pasal-10-a-yat-1",
+      "text": "huruf a Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi sebagaimana telah diubah terakhir dengan Undang-Unda ng \nNomor 7 Tahun 2020.",
+      "start_line": 44,
+      "end_line": 46
+    },
+    {
+      "heading": "4. Bahwa Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48 Tahun 2009",
+      "slug": "4-bahwa-pasal-29-ayat-1-huruf-a-undang-undang-nomor-48-tahun-2009",
+      "text": "tentang Kekuasaan Kehakiman juga memberikan kewenangan kepada \nMahkamah Konstitusi untuk menguji undang-undang terhadap Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 48,
+      "end_line": 50
+    },
+    {
+      "heading": "5. Bahwa objek permohonan a quo adalah pengujian konstitusionalitas Pasal",
+      "slug": "5-bahwa-objek-permohonan-a-quo-adalah-pengujian-konstitusionalitas-pasal",
+      "text": "240 ayat (1) Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan  \nUmum terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945.",
+      "start_line": 52,
+      "end_line": 54
+    },
+    {
+      "heading": "6. Bahwa dengan demikian Mahkamah Konstitusi berwenang memeriks a,",
+      "slug": "6-bahwa-dengan-demikian-mahkamah-konstitusi-berwenang-memeriks-a",
+      "text": "mengadili, dan memutus permohonan a quo. \nII. Kedudukan Hukum ( Legal Standing) Pemohon \nA. Kedudukan Hukum Pemohon",
+      "start_line": 56,
+      "end_line": 58
+    },
+    {
+      "heading": "1. Bahwa berdasarkan Pasal 51 ayat (1) Undang-Undang Nomor 24",
+      "slug": "1-bahwa-berdasarkan-pasal-51-ayat-1-undang-undang-nomor-24",
+      "text": "Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah  \nterakhir dengan Undang-Undang Nomor 7 Tahun 2020, pihak yang \ndapat mengajukan permohonan pengujian undang-undang terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 adalah \npihak yang menganggap hak dan/atau kewenangan konstitusionalnya  \ndirugikan oleh berlakunya suatu undang-undang, yaitu: \na. perseorangan warga negara Indonesia;  \nb. kesatuan masyarakat hukum adat;",
+      "start_line": 60,
+      "end_line": 67
+    },
+    {
+      "heading": "c. badan hukum publik atau privat; atau",
+      "slug": "c-badan-hukum-publik-atau-privat-atau",
+      "text": "3",
+      "start_line": 69,
+      "end_line": 71
+    },
+    {
+      "heading": "2. Bahwa Pemohon adalah perseorangan warga negara Indonesia yan g",
+      "slug": "2-bahwa-pemohon-adalah-perseorangan-warga-negara-indonesia-yan-g",
+      "text": "memiliki hak konstitusional sebagaimana dijamin oleh Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, sehingga \nmemenuhi kualifikasi sebagai Pemohon sebagaimana\n dimaksud \ndalam Pasal 51 ayat (1) huruf a Undang-Undang Mahkamah Konstitusi.",
+      "start_line": 74,
+      "end_line": 78
+    },
+    {
+      "heading": "3. Bahwa Mahkamah Konstitusi dalam Putusan Nomor 006/PUU-III/20 05",
+      "slug": "3-bahwa-mahkamah-konstitusi-dalam-putusan-nomor-006-puu-iii-20-05",
+      "text": "dan Putusan Nomor 011/PUU-V/2007 telah merumuskan lima syarat \nkerugian konstitusional yang harus dipenuhi oleh setiap Pemohon , \nyaitu: \na. adanya hak dan/atau kewenangan konstitusional yang diberikan  \noleh UUD 1945; \nb. hak dan/atau kewenangan konstitusional tersebut dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan \npengujian;",
+      "start_line": 80,
+      "end_line": 87
+    },
+    {
+      "heading": "c. kerugian tersebut bersifat spesifik (khusus) dan aktual atau setidak-",
+      "slug": "c-kerugian-tersebut-bersifat-spesifik-khusus-dan-aktual-atau-setidak",
+      "text": "tidaknya potensial yang menurut penalaran yang wajar dapat \ndipastikan akan terjadi;",
+      "start_line": 89,
+      "end_line": 90
+    },
+    {
+      "heading": "d. terdapat hubungan sebab akibat ( causal verband) antara kerugian",
+      "slug": "d-terdapat-hubungan-sebab-akibat-causal-verband-antara-kerugian",
+      "text": "konstitusional dan berlakunya norma yang dimohonkan pengujian; \ne. terdapat kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian konstitusional tersebut tidak lagi terjadi. \nB. Hak Konstitusional Pemohon",
+      "start_line": 92,
+      "end_line": 95
+    },
+    {
+      "heading": "1. Bahwa sebagai warga negara Indonesia, Pemohon memiliki hak",
+      "slug": "1-bahwa-sebagai-warga-negara-indonesia-pemohon-memiliki-hak",
+      "text": "konstitusional untuk memperoleh kepastian hukum yang adil \nsebagaimana dijamin oleh Pasal 28D ayat (1) UUD Negara Republik  \nIndonesia Tahun 1945.",
+      "start_line": 97,
+      "end_line": 99
+    },
+    {
+      "heading": "2. Bahwa Pemohon bukan hanya merupakan warga negara Indonesia",
+      "slug": "2-bahwa-pemohon-bukan-hanya-merupakan-warga-negara-indonesia",
+      "text": "yang memiliki hak konstitusional sebagaimana dijamin oleh UUD \nNegara Republik Indonesia Tahun 1945, tetapi juga merupakan \nwarga negara yang secara aktif melakukan penelitian, advokasi \nkebijakan publik, serta pendampingan masyarakat dalam berbagai \npersoalan penyelenggaraan pemerintahan. \n\n4",
+      "start_line": 101,
+      "end_line": 108
+    },
+    {
+      "heading": "3. Bahwa salah satu bentuk aktivitas tersebut adalah advokasi t erhadap",
+      "slug": "3-bahwa-salah-satu-bentuk-aktivitas-tersebut-adalah-advokasi-t-erhadap",
+      "text": "masyarakat petani di Kecamatan Batunadua, Kota Padangsidimpuan,  \nyang selama kurang lebih empat tahun mengalami kerusakan \njaringan irigasi sehingga mengganggu aktivitas pertanian dan \nberdampak terhadap mata pencaharian masyarakat.",
+      "start_line": 110,
+      "end_line": 113
+    },
+    {
+      "heading": "4. Bahwa dalam proses advokasi tersebut, Pemohon melakukan",
+      "slug": "4-bahwa-dalam-proses-advokasi-tersebut-pemohon-melakukan",
+      "text": "penyampaian aspirasi kepada pemerintah daerah dan DPRD, \nmengorganisasi masyarakat, serta mengawal tindak lanjut \npenyelesaian persoalan sebagai bagian dari pelaksanaan hak \nkonstitusional untuk berpartisipasi dalam kehidupan bernegara.",
+      "start_line": 115,
+      "end_line": 118
+    },
+    {
+      "heading": "5. Bahwa pengalaman tersebut memberikan kepada Pemohon",
+      "slug": "5-bahwa-pengalaman-tersebut-memberikan-kepada-pemohon",
+      "text": "pemahaman langsung mengenai pentingnya kualitas pelaksanaan \nfungsi legislasi, fungsi anggaran, dan fungsi pengawasan oleh \nlembaga perwakilan, karena ketiga fungsi tersebut berpengaruh \nterhadap perumusan kebijakan, pengalokasian anggaran, dan \npengawasan atas pelaksanaan pembangunan yang menyangkut \nkepentingan masyarakat.",
+      "start_line": 120,
+      "end_line": 125
+    },
+    {
+      "heading": "6. Bahwa sebagai warga negara Indonesia, Pemohon juga berada",
+      "slug": "6-bahwa-sebagai-warga-negara-indonesia-pemohon-juga-berada",
+      "text": "dalam posisi yang akan terikat oleh seluruh undang-undang yang \ndibentuk oleh Dewan Perwakilan Rakyat.",
+      "start_line": 127,
+      "end_line": 128
+    },
+    {
+      "heading": "7. Bahwa seluruh produk legislasi yang dibentuk oleh DPR berlak u",
+      "slug": "7-bahwa-seluruh-produk-legislasi-yang-dibentuk-oleh-dpr-berlak-u",
+      "text": "mengikat bagi Pemohon sebagai w arga negara, sehingga kualitas \npembentukan undang-undang memiliki hubungan langsung dengan \nhak-hak konstitusional Pemohon.",
+      "start_line": 130,
+      "end_line": 132
+    },
+    {
+      "heading": "8. Bahwa selain menjalankan fungsi legislasi, DPR juga memiliki fungsi",
+      "slug": "8-bahwa-selain-menjalankan-fungsi-legislasi-dpr-juga-memiliki-fungsi",
+      "text": "anggaran dan fungsi pengawasan sebagaimana diatur dalam Pasal \n20A ayat (1) UUD Negara Republik Indonesia Tahun 1945, yang \npelaksanaannya berdampak terhadap penyelenggaraan pemerintahan \ndan penggunaan keuangan negara.",
+      "start_line": 134,
+      "end_line": 137
+    },
+    {
+      "heading": "9. Bahwa oleh karena itu, Pemohon mempunyai kepentingan",
+      "slug": "9-bahwa-oleh-karena-itu-pemohon-mempunyai-kepentingan",
+      "text": "konstitusional agar pengaturan mengenai persyaratan calon anggo ta \nDPR disusun secara selaras dengan fungsi konstitusional lembaga  \ntersebut sebagaimana ditentukan oleh UUD Negara Republik \n\n5 \n \nIndonesia Tahun 1945. \nC. Kerugian Konstitusional Pemohon",
+      "start_line": 139,
+      "end_line": 146
+    },
+    {
+      "heading": "1. Bahwa kerugian konstitusional yang didalilkan Pemohon bukan bersifat",
+      "slug": "1-bahwa-kerugian-konstitusional-yang-didalilkan-pemohon-bukan-bersifat",
+      "text": "hipotetis semata, melainkan bertumpu pada pengalaman konkret \nPemohon sebagai pendamping masyarakat yang terdampak oleh \nlemahnya fungsi pengawasan lembaga perwakilan, sebagaimana \ndiuraikan pada bagian II.B di atas.",
+      "start_line": 148,
+      "end_line": 151
+    },
+    {
+      "heading": "2. Bahwa Pemohon berpendapat terdapat hubungan sebab akibat ( causal",
+      "slug": "2-bahwa-pemohon-berpendapat-terdapat-hubungan-sebab-akibat-causal",
+      "text": "verband) antara desain norma Pasal 240 ayat (1) huruf e Undang-\nUndang Nomor 7 Tahun 2017 yang belum menunjukkan keterkaitan \ndengan fungsi konstitusional DPR dengan risiko berulangnya persoalan \nyang telah dialami Pemohon dan masyarakat yang didampingin, yai tu \nlemahnya pelaksanaan fungsi pengawasan dan anggaran oleh anggota \nlembaga perwakilan.",
+      "start_line": 153,
+      "end_line": 158
+    },
+    {
+      "heading": "3. Bahwa kerugian tersebut bersifat aktual sepanjang menyangkut",
+      "slug": "3-bahwa-kerugian-tersebut-bersifat-aktual-sepanjang-menyangkut",
+      "text": "pengalaman yang telah terjadi, dan bersifat potensial untuk ke depan \nsepanjang norma a quo  tetap berlaku tanpa penafsiran yang \nmenghubungkan persyaratan pencalonan dengan fungsi konstitusion al \nDPR, sehingga menurut penalaran yang wajar dapat dipastikan \npersoalan serupa berpotensi terulang.",
+      "start_line": 160,
+      "end_line": 164
+    },
+    {
+      "heading": "4. Bahwa kerugian konstitusio nal yang didalilkan Pemohon bukan",
+      "slug": "4-bahwa-kerugian-konstitusio-nal-yang-didalilkan-pemohon-bukan",
+      "text": "didasarkan pada ketidaksetujuan terhadap kebijakan hukum terbuk a \n(open legal policy ) pembentuk undang-undang, melainkan pada dalil \nbahwa pelaksanaan kebijakan hukum tersebut, sebagaimana \ndituangkan dalam norma a quo, belum memenuhi batas rasionalitas dan \nketerkaitan fungsional yang dipersyaratkan oleh prinsip negara hukum \ndan kepastian hukum yang adil.",
+      "start_line": 166,
+      "end_line": 171
+    },
+    {
+      "heading": "5. Bahwa kerugian konstitusio nal yang didalilkan Pemohon dalam",
+      "slug": "5-bahwa-kerugian-konstitusio-nal-yang-didalilkan-pemohon-dalam",
+      "text": "permohonan a quo tidak didasarkan pada dalil bahwa taraf pendidikan \nSMA/sederajat terlalu rendah atau perlu dinaikkan, dalil demiki an telah \nbeberapa kali dipertimbangkan dan ditolak Mahkamah dalam perkar a-\nperkara sebelumnya atas dasar kebijakan hukum terbuka ( open legal \npolicy). \n\n6",
+      "start_line": 173,
+      "end_line": 180
+    },
+    {
+      "heading": "6. Bahwa kerugian konstitusio nal yang didalilkan Pemohon dalam",
+      "slug": "6-bahwa-kerugian-konstitusio-nal-yang-didalilkan-pemohon-dalam",
+      "text": "permohonan a quo  bersumber dari hal yang berbeda dari perkara-\nperkara terdahulu, yaitu perlakuan yang tidak setara oleh pembe ntuk \nundang-undang terhadap dua jabatan publik strategis dalam satu \nundang-undang yang sama.",
+      "start_line": 182,
+      "end_line": 185
+    },
+    {
+      "heading": "7. Bahwa apabila Mahkamah Konstitusi mengabulkan permohonan a quo,",
+      "slug": "7-bahwa-apabila-mahkamah-konstitusi-mengabulkan-permohonan-a-quo",
+      "text": "maka terbuka kemungkinan bagi pembentuk undang-undang untuk \nmenyempurnakan desain persyaratan pencalonan anggota DPR \nsehingga pelaksanaan fungsi pengawasan dan anggaran ke depan \ndapat lebih efektif, dan kerugian konstitusional yang didalilkan Pemohon \nberpotensi untuk tidak terulang.",
+      "start_line": 187,
+      "end_line": 191
+    },
+    {
+      "heading": "8. Bahwa berdasarkan seluruh uraian tersebut, Pemohon memiliki",
+      "slug": "8-bahwa-berdasarkan-seluruh-uraian-tersebut-pemohon-memiliki",
+      "text": "kedudukan hukum ( legal standing ) untuk mengajukan permohonan \npengujian konstitusionalitas Pasal 240 ayat (1) huruf e Undang-Undang \nNomor 7 Tahun 2017 terhadap UUD Negara Republik Indonesia Tahun \n1945. \nIII. Alasan Permohonan (Posita) \nA. Norma Pasal 240 ayat (1) Huruf e Belum Sepenuhnya Mewujudkan  \nHubungan Rasional antara Persyaratan Jabatan dan Fungsi \nKonstitusional DPR",
+      "start_line": 193,
+      "end_line": 200
+    },
+    {
+      "heading": "1. Bahwa Pasal 240 ayat (1) huruf e Undang-Undang Nomor 7 Tahun",
+      "slug": "1-bahwa-pasal-240-ayat-1-huruf-e-undang-undang-nomor-7-tahun",
+      "text": "2017 mengatur bahwa salah satu syarat menjadi calon anggota Dewan \nPerwakilan Rakyat adalah “berpendidikan paling rendah tamat sekolah \nmenengah atas, madrasah aliyah, sekolah menengah kejuruan, \nmadrasah aliyah kejuruan, atau sekolah lain yang sederajat.” \nPemohon tidak mempersoalkan konstitusionalitas persyaratan \npendidikan paling rendah Sekolah Menengah Atas atau sederajat \nsebagai syarat administratif pencalonan anggota DPR, yang \ndipersoalkan oleh Pemohon adalah norma tersebut belum mengatur \nadanya hubungan yang memadai antara persyaratan pencalonan \ndengan fungsi konstitusional anggota DPR sebagaimana ditentukan  \ndalam Pasal 20 ayat (1) dan Pasal 20A ayat (1) UUD Negara Republik \nIndonesia Tahun 1945. \n\n7",
+      "start_line": 202,
+      "end_line": 216
+    },
+    {
+      "heading": "2. Bahwa Pasal 20 ayat (1) UUD Negara Republik Indonesia Tahun 1945",
+      "slug": "2-bahwa-pasal-20-ayat-1-uud-negara-republik-indonesia-tahun-1945",
+      "text": "menegaskan “Dewan Perwakilan Rakyat memegang kekuasaan \nmembentuk undang-undang.” Pasal 20A ayat (1) UUD Negara \nRepublik Indonesia Tahun 1945 menegaskan “Dewan Perwakilan \nRakyat memiliki fungsi legislasi, fungsi anggaran, dan fungsi \npengawasan.” \nBahwa berdasarkan ketentuan tersebut, anggota DPR bukan hanya \nmenjalankan fungsi representasi politik, tetapi juga memegang \nkewenangan konstitusional yang berdampak langsung terhadap \npembentukan norma hukum, pengelolaan keuangan negara, dan \npengawasan terhadap jalannya pemerintahan.",
+      "start_line": 218,
+      "end_line": 227
+    },
+    {
+      "heading": "3. Bahwa setiap undang-undang yang dibentuk oleh DPR akan mengi kat",
+      "slug": "3-bahwa-setiap-undang-undang-yang-dibentuk-oleh-dpr-akan-mengi-kat",
+      "text": "seluruh warga negara, setiap keputusan mengenai anggaran negara  \nakan memengaruhi penyelenggaraan pemerintahan dan pelayanan \npublik, sedangkan fungsi pengawasan DPR berperan dalam menjaga \nakuntabilitas penyelenggaraan kekuasaan eksekutif. \nOleh karena itu, menurut Pemohon, pengaturan mengenai persyaratan \ncalon anggota DPR seharusnya disusun dengan memperhatikan \nketerkaitan yang rasional antara persyaratan tersebut dengan fu ngsi \nkonstitusional yang akan dijalankan.",
+      "start_line": 229,
+      "end_line": 236
+    },
+    {
+      "heading": "4. Bahwa hubungan yang rasional tersebut tidak dimaksudkan untu k",
+      "slug": "4-bahwa-hubungan-yang-rasional-tersebut-tidak-dimaksudkan-untu-k",
+      "text": "membatasi hak politik warga negara secara sewenang-wenang, \nmelainkan untuk memastikan bahwa persyaratan yang ditetapkan oleh \npembentuk undang-undang memiliki tujuan yang objektif, proporsional, \ndan selaras dengan amanat konstitusi. \nBahwa prinsip hubungan rasional antara persyaratan jabatan dan \nfungsi jabatan merupakan bagian dari prinsip negara hukum \nsebagaimana diatur dalam Pasal 1 ayat (3) UUD Negara Republik \nIndonesia Tahun 1945, yang menghendaki agar setiap norma hukum \ndisusun berdasarkan pertimbangan yang dapat \ndipertanggungjawabkan secara konstitusional.",
+      "start_line": 238,
+      "end_line": 247
+    },
+    {
+      "heading": "5. Bahwa menurut Pemohon, persyaratan pendidikan formal semata",
+      "slug": "5-bahwa-menurut-pemohon-persyaratan-pendidikan-formal-semata",
+      "text": "belum cukup menjelaskan keterkaitannya dengan pelaksanaan fungs i \n\n8 \n \nlegislasi, fungsi anggaran, dan fungsi pengawasan yang menjadi \nkewenangan konstitusional DPR. \nPemohon tidak mendalilkan bahwa tingkat pendidikan tertentu sec ara \notomatis menjamin kualitas seseorang sebagai anggota DPR, maupun \nmendalilkan bahwa lulusan Sekolah Menengah Atas tidak mampu \nmenjalankan tugas sebagai anggota DPR. \nYang dipersoalkan Pemohon adalah tidak adanya pengaturan yang \nmenunjukkan hubungan normatif antara persyaratan yang ditetapka n \noleh Pasal 240 ayat (1) huruf e dengan fungsi  konstitusional DPR, \nsehingga norma tersebut menurut Pemohon belum sepenuhnya \nmemenuhi prinsip rasionalitas dalam pembentukan peraturan \nperundang-undangan. \nB. Adanya Kekurangan Pengaturan yang Relevan Secara Konstitusional",
+      "start_line": 249,
+      "end_line": 265
+    },
+    {
+      "heading": "1. Bahwa menurut Pemohon, pembentuk undang-undang memiliki",
+      "slug": "1-bahwa-menurut-pemohon-pembentuk-undang-undang-memiliki",
+      "text": "kewenangan untuk menentukan persyaratan pencalonan anggota \nDPR sebagai bagian dari kebijakan hukum (legal policy), namun \nkewenangan tersebut tetap harus dilaksanakan dalam koridor Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945. \nBahwa dalam perkara a quo , Pemohon berpendapat terdapat \nkekurangan pengaturan terhadap aspek yang berkaitan dengan \nhubungan antara persyaratan pencalonan dan fungsi konstitusiona l \nanggota DPR. \nBahwa kekurangan pengaturan tersebut bukan berarti seluruh norm a \nPasal 240 ayat (1) huruf e bertentangan dengan UUD Negara Republik \nIndonesia Tahun 1945, melainkan menunjukkan bahwa norma tersebut \nbelum sepenuhnya mengakomodasi prinsip-prinsip konstitusional yang \nmenjadi dasar penyelenggaraan jabatan anggota DPR.",
+      "start_line": 267,
+      "end_line": 279
+    },
+    {
+      "heading": "2. Bahwa oleh karena itu, Pemohon tidak memohon agar Mahkamah",
+      "slug": "2-bahwa-oleh-karena-itu-pemohon-tidak-memohon-agar-mahkamah",
+      "text": "Konstitusi menghapus syarat pendidikan paling rendah Sekolah \nMenengah Atas atau sederajat. Pemohon juga tidak memohon agar \nMahkamah Konstitusi menetapkan bentuk teknis persyaratan baru, \ntermasuk tidak meminta Mahkamah untuk merancang mekanisme \ntertentu yang menjadi kewenangan pembentuk undang-undang. \n\n9 \n \nBahwa Pemohon hanya memohon agar Mahkamah memberikan \npenafsiran konstitusional terhadap norma a quo sehingga pengaturan \nmengenai persyaratan calon anggot a DPR memiliki hubungan yang \nselaras dengan fungsi konstitusional DPR sebagaimana dimaksud \ndalam Pasal 20 ayat (1) dan Pasal 20A ayat (1) UUD Negara Republik \nIndonesia Tahun 1945. \nBahwa dengan demikian, permohonan Pemohon tidak dimaksudkan \nuntuk menjadikan Mahkamah Konstitusi sebagai pembentuk norma \nbaru, melainkan untuk menjalankan fungsi Mahkamah sebagai \npenjaga konstitusi (the guardian of the Constitution) melalui pengujian \nkonstitusionalitas norma undang-undang. \nC. Inkonsistensi Pengaturan Persyaratan Jabatan dalam Undang-\nUndang Nomor 7 Tahun 2017",
+      "start_line": 281,
+      "end_line": 301
+    },
+    {
+      "heading": "1. Bahwa Undang-Undang Nomor 7 Tahun 2017 tidak hanya mengatur",
+      "slug": "1-bahwa-undang-undang-nomor-7-tahun-2017-tidak-hanya-mengatur",
+      "text": "mengenai persyaratan calon anggota DPR, tetapi juga mengatur \npersyaratan pengisian jabatan penyelenggara Pemilu, termasuk \nanggota Komisi Pemilihan Umum (KPU). \nBahwa Pasal 21 huruf e Undang-Undang Nomor 7 Tahun 2017 \nmengatur “memiliki pengetahuan dan keahlian yang berkaitan dengan \npenyelenggaraan Pemilu, ketatanegaraan, dan kepartaian.” \nBahwa Pasal 21 huruf f Undang-Undang Nomor 7 Tahun 2017 \nmengatur “berpendidikan paling rendah strata satu (S-1).”",
+      "start_line": 303,
+      "end_line": 310
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, pengaturan tersebut menunjukkan bahwa",
+      "slug": "2-bahwa-menurut-pemohon-pengaturan-tersebut-menunjukkan-bahwa",
+      "text": "pembentuk undang- undang telah mempertimbangkan adanya \nhubungan antara persyaratan jabatan dengan karakteristik tugas dan \nfungsi jabatan tertentu. \nPemohon tidak bermaksud menyamakan kedudukan konstitusional \nanggota KPU dengan anggota DPR ka rena keduanya memiliki dasar \nkewenangan, fungsi, dan kedudukan yang berbeda dalam sistem \nketatanegaraan Indonesia. \nBahwa yang hendak ditunjukkan oleh Pemohon adalah adanya \nperbedaan pendekatan dalam pembentukan norma oleh pembentuk \nundang-undang, yaitu pada satu jabatan publik tertentu pembentu k \n\n10 \n \nundang-undang menghubungkan persyaratan dengan tugas jabatan, \nsedangkan terhadap jabatan anggota DPR yang memegang \nkewenangan konstitusional membentuk undang-undang, pendekatan \ntersebut belum tampak secara eksplisit dalam Pasal 240 ayat (1)   \nhuruf e. \nBahwa menurut Pemohon, perbedaan pendekatan tersebut \nmenimbulkan pertanyaan mengenai konsistensi pembentuk undang-\nundang dalam merumuskan persyaratan jabatan publik yang memilik i \nfungsi strategis dalam penyelenggaraan negara.",
+      "start_line": 312,
+      "end_line": 333
+    },
+    {
+      "heading": "3. Bahwa sebagai lembaga yang memegang kekuasaan membentuk",
+      "slug": "3-bahwa-sebagai-lembaga-yang-memegang-kekuasaan-membentuk",
+      "text": "undang-undang sebagaimana dimaksud dalam Pasal 20 ayat (1) UUD \nNegara Republik Indonesia Tahun 1945, DPR memiliki kedudukan \nyang sangat strategis dalam menentukan arah kehidupan berbangsa  \ndan bernegara. \nBahwa setiap undang-undang yang dibentuk DPR akan menjadi dasar \nhukum bagi penyelenggaraan pemerintahan, perlindungan hak warga  \nnegara, penegakan hukum, pembangunan ekonomi, pendidikan, \nkesehatan, lingkungan hidup, serta berbagai aspek kehidupan \nmasyarakat lainnya.",
+      "start_line": 335,
+      "end_line": 343
+    },
+    {
+      "heading": "4. Bahwa oleh karena itu, menurut Pemohon, adalah wajar apabila",
+      "slug": "4-bahwa-oleh-karena-itu-menurut-pemohon-adalah-wajar-apabila",
+      "text": "pengaturan mengenai persyaratan pencalonan anggota DPR \ndirumuskan sedemikian rupa sehingga memiliki hubungan yang \nrasional dengan fungsi konstitusional yang akan dijalankan. \nBahwa hubungan rasional tersebut tidak harus diwujudkan dalam satu \nbentuk mekanisme tertentu, karena penentuan bentuk pengaturan \ntetap merupakan kewenangan pembentuk undang-undang. \nBahwa yang menjadi persoalan konstitusional menurut Pemohon \nadalah belum adanya pengaturan yang menunjukkan hubungan \ntersebut dalam norma Pasal 240 ayat (1) huruf e Undang-Undang \nNomor 7 Tahun 2017. \nD. Bertentangan dengan Prinsip Negara Hukum sebagaimana Pasal 1  \nayat (3) UUD Negara Republik Indonesia Tahun 1945",
+      "start_line": 345,
+      "end_line": 356
+    },
+    {
+      "heading": "1. Bahwa Pasal 1 ayat (3) UUD Negara Republik Indonesia Tahun 1 945",
+      "slug": "1-bahwa-pasal-1-ayat-3-uud-negara-republik-indonesia-tahun-1-945",
+      "text": "11 \n \nmenyatakan “Negara Indonesia adalah negara hukum.” \nBahwa prinsip negara hukum menghendaki agar setiap norma hukum \ndibentuk secara rasional, proporsional, konsisten, dan selaras dengan \ntujuan yang hendak dicapai oleh norma tersebut. \nBahwa dalam negara hukum, pembentukan norma tidak cukup hanya \nmemenuhi prosedur formal pembentukan undang-undang, tetapi juga  \nharus memenuhi aspek substansi yang sesuai dengan prinsip-prins ip \nkonstitusi.",
+      "start_line": 358,
+      "end_line": 368
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, persyaratan pencalonan anggota DPR",
+      "slug": "2-bahwa-menurut-pemohon-persyaratan-pencalonan-anggota-dpr",
+      "text": "yang hanya berorientasi pada jenjang pendidikan formal tanpa \nmemperlihatkan hubungan normatif dengan fungsi konstitusional DPR \nbelum sepenuhnya mencerminkan prinsip rasionalitas dalam \npembentukan norma hukum. \nBahwa rasionalitas dalam pembentukan norma merupakan bagian dari \nasas pembentukan peraturan perundang-undangan yang baik, karena \nsetiap persyaratan yang dibentuk oleh pembentuk undang-undang \nharus memiliki tujuan yang objektif dan relevan dengan fungsi j abatan \nyang akan diemban.",
+      "start_line": 370,
+      "end_line": 378
+    },
+    {
+      "heading": "3. Bahwa oleh karena itu, menurut Pemohon, norma Pasal 240 ayat (1)",
+      "slug": "3-bahwa-oleh-karena-itu-menurut-pemohon-norma-pasal-240-ayat-1",
+      "text": "huruf e Undang-Undang Nomor 7 Tahun 2017 belum sepenuhnya \nmemenuhi prinsip negara hukum sebagaimana dimaksud dalam Pasal \n1 ayat (3) UUD Negara Republik Indonesia Tahun 1945. \nE. Norma a quo Bertentangan dengan Pasal 20 ayat (1) dan Pasal 20A \nayat (1) UUD Negara Republik Indonesia Tahun 1945",
+      "start_line": 380,
+      "end_line": 384
+    },
+    {
+      "heading": "1. Bahwa Pasal 20 ayat (1) Undang-Undang Dasar Negara Republik",
+      "slug": "1-bahwa-pasal-20-ayat-1-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 menegaskan “Dewan Perwakilan Rakyat \nmemegang kekuasaan membentuk undang- undang.” \nKetentuan tersebut menunjukkan bahwa konstitusi memberikan \nkewenangan yang sangat fundamental kepada DPR sebagai lembaga \npembentuk undang-undang. \nBahwa kewenangan membentuk undang-undang bukan merupakan \nkewenangan administratif semata, melainkan kewenangan \nkonstitusional yang secara langsung memengaruhi hak, kewajiban,  \n\n12 \n \ndan kepentingan seluruh warga negara.",
+      "start_line": 386,
+      "end_line": 397
+    },
+    {
+      "heading": "2. Bahwa selain memegang kekuasaan membentuk undang-undang,",
+      "slug": "2-bahwa-selain-memegang-kekuasaan-membentuk-undang-undang",
+      "text": "Pasal 20A  ayat (1) Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945 menentukan  “Dewan Perwakilan Rakyat memiliki fungsi  \nlegislasi, fungsi anggaran, dan fungsi pengawasan.” Bahwa fungs i \nlegislasi mengharuskan anggota DPR membahas, merumuskan, \nmengubah, dan menetapkan norma hukum yang berlaku secara \numum. \nBahwa fungsi anggaran mengharuskan anggota DPR membahas dan \nmemberikan persetujuan terhadap Anggaran Pendapatan dan Belanja \nNegara sebagai instrumen utama pembiayaan penyelenggaraan \nnegara. \nBahwa fungsi pengawasan mengharuskan anggota DPR mengawasi \npelaksanaan undang- undang dan kebijakan pemerintah agar tetap \nsesuai dengan prinsip negara hukum dan konstitusi. \nBahwa ketiga fungsi tersebut menunjukkan jabatan anggota DPR \nmerupakan jabatan konstitusional yang memiliki tingkat tanggung  \njawab yang sangat tinggi terhadap kehidupan berbangsa dan \nbernegara.",
+      "start_line": 399,
+      "end_line": 415
+    },
+    {
+      "heading": "3. Bahwa menurut Pemohon, adanya fungsi konstitusional tersebut",
+      "slug": "3-bahwa-menurut-pemohon-adanya-fungsi-konstitusional-tersebut",
+      "text": "menuntut agar pengaturan mengenai persyaratan calon anggota DPR \ndirumuskan secara selaras dengan fungsi yang akan dijalankan. \nBahwa keselarasan tersebut tidak dimaksudkan untuk membatasi hak \npolitik warga negara secara berlebihan, melainkan untuk memasti kan \nbahwa norma yang dibentuk memiliki hubungan yang objektif denga n \ntujuan pengaturannya. \nOleh karena itu, menurut Pemohon, pengaturan mengenai persyaratan \npencalonan anggota DPR seharusnya tidak hanya memenuhi aspek \nadministratif, tetapi juga mencerminkan hubungan normatif denga n \nfungsi konstitusional DPR sebagaimana diatur dalam Pasal 20 ayat (1) \ndan Pasal 20A ayat (1) UUD Negara Republik Indonesia Tahun 1945. \nF. Norma a quo Bertentangan dengan Pasal 28D ayat (1) UUD Negara \nRepublik Indonesia Tahun 1945 \n\n13",
+      "start_line": 417,
+      "end_line": 432
+    },
+    {
+      "heading": "1. Bahwa Pasal 28D ayat (1) Undang-Undang Dasar Negara Republik",
+      "slug": "1-bahwa-pasal-28d-ayat-1-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 menyatakan “Setiap orang berhak atas \npengakuan, jaminan, perlindungan, dan kepastian hukum yang adil  \nserta perlakuan yang sama di hadapan hukum.” \nBahwa kepastian hukum yang adil tidak hanya berarti adanya suat u \nnorma hukum, tetapi juga menghendaki agar norma tersebut disusu n \nsecara rasional, konsisten, dan selaras dengan tujuan \npembentukannya. \nMenurut Pemohon, suatu norma yang menetapkan persyaratan \njabatan publik tanpa menunjukkan hubungan yang memadai dengan \nfungsi jabatan yang akan dijalankan berpotensi menimbulkan \npersoalan dari sudut kepastian hukum yang adil.",
+      "start_line": 434,
+      "end_line": 444
+    },
+    {
+      "heading": "2. Bahwa Pemohon tidak mendalilkan setiap calon anggota DPR har us",
+      "slug": "2-bahwa-pemohon-tidak-mendalilkan-setiap-calon-anggota-dpr-har-us",
+      "text": "memenuhi bentuk persyaratan tertentu yang ditentukan oleh \nMahkamah Konstitusi. \nBahwa Pemohon hanya memohon agar Mahkamah menilai apakah \ndesain norma dalam Pasal 240 ayat (1) huruf e telah memenuhi prinsip \nkepastian hukum yang adil sebagaimana dijamin oleh Pasal 28D ay at \n(1) UUD Negara Republik Indonesia Tahun 1945. \nBahwa menurut Pemohon, pengaturan yang menghubungkan \npersyaratan jabatan dengan fungsi konstitusionalnya akan lebih \nmencerminkan kepastian hukum yang adil karena norma tersebut \nmemiliki tujuan yang jelas, rasional, dan dapat \ndipertanggungjawabkan. \nG. Norma a quo  Tidak Bertentangan dengan Hak Politik, Melainkan \nSejalan dengan Pasal 28J ayat (2) UUD Negara Republik Indonesia  \nTahun 1945",
+      "start_line": 446,
+      "end_line": 459
+    },
+    {
+      "heading": "1. Bahwa Pemohon menyadari bahwa hak untuk dipilih dalam jabata n",
+      "slug": "1-bahwa-pemohon-menyadari-bahwa-hak-untuk-dipilih-dalam-jabata-n",
+      "text": "publik merupakan bagian dari hak konstitusional warga negara ya ng \nharus dihormati dan dilindungi. \nAkan tetapi, UUD Negara Republik  Indonesia Tahun 1945 juga \nmemberikan ruang bagi pembatasan terhadap pelaksanaan hak dan \nkebebasan warga negara sepanjang memenuhi syarat-syarat \n\n14 \n \nkonstitusional. \nBahwa Pasal 28J ayat (2) UUD Negara Republik Indonesia Tahun \n1945 menyatakan “Dalam menjalankan hak dan kebebasannya, setiap \norang wajib tunduk kepada pembatasan yang ditetapkan dengan \nundang-undang dengan maksud semata-mata untuk menjamin \npengakuan serta penghormatan atas hak dan kebebasan orang lain \ndan untuk memenuhi tuntutan yang adil sesuai dengan pertimbanga n \nmoral, nilai-nilai agama, keamanan, dan ketertiban umum dalam suatu \nmasyarakat demokratis.” \nBahwa berdasarkan ketentuan tersebut, pembatasan terhadap hak \npolitik bukanlah sesuatu yang dilarang oleh konstitusi, sepanja ng \npembatasan tersebut ditetapkan dengan undang- undang, memiliki \ntujuan  yang sah,  dilakukan secara proporsional, dan tidak  be rsifat \ndiskriminatif.",
+      "start_line": 461,
+      "end_line": 482
+    },
+    {
+      "heading": "2. Bahwa bahkan Pasal 240 ayat (1) Undang-Undang Nomor 7 Tahun",
+      "slug": "2-bahwa-bahkan-pasal-240-ayat-1-undang-undang-nomor-7-tahun",
+      "text": "2017 sendiri telah memuat berbagai persyaratan bagi calon anggo ta \nDPR, seperti persyaratan usia, kewarganegaraan, kesehatan jasma ni \ndan rohani, tidak pernah dipidana untuk tindak pidana tertentu sesuai \nketentuan yang berlaku, serta persyaratan lainnya. \nBahwa dengan demikian, secara prinsip pembentuk undang-undang \nmemang telah melakukan pembatasan terhadap hak untuk dipilih \nmelalui penetapan persyaratan pencalonan. \nBahwa oleh karena itu, permohonan Pemohon tidak bertujuan \nmenciptakan pembatasan baru terhadap hak politik warga negara, \nmelainkan memohon agar setiap persyaratan yang ditetapkan oleh \npembentuk undang-undang memiliki hubungan yang rasional dengan \nfungsi konstitusional jabatan anggota DPR, sehingga pembatasan \ntersebut memenuhi prinsip negara hukum, kepastian hukum yang adil, \ndan proporsionalitas sebagaimana dijamin oleh UUD Negara Republik \nIndonesia Tahun 1945. \nH. Permohonan a quo  Tidak Meminta Mahkamah Konstitusi Menjadi \nPositive Legislator",
+      "start_line": 484,
+      "end_line": 500
+    },
+    {
+      "heading": "1. Bahwa Pemohon memahami pembentukan norma hukum pada",
+      "slug": "1-bahwa-pemohon-memahami-pembentukan-norma-hukum-pada",
+      "text": "15 \n \nprinsipnya merupakan kewenangan pembentuk undang-undang, yaitu \nDewan Perwakilan Rakyat bersama Presiden sebagaimana diatur \ndalam UUD Negara Republik Indonesia Tahun 1945. \nBahwa Mahkamah Konstitusi dalam berbagai putusannya telah \nmenegaskan kebijakan hukum ( open legal policy ) pada dasarnya \nmerupakan kewenangan pembentuk undang- undang. \nBahwa demikian pula Mahkamah telah memberikan batasan bahwa \nkebijakan hukum tersebut tidak bersifat mutlak dan tetap dapat diuji \napabila didalilkan bertentangan dengan norma, prinsip, atau hak  \nkonstitusional yang dijamin oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945.",
+      "start_line": 502,
+      "end_line": 515
+    },
+    {
+      "heading": "2. Bahwa permohonan Pemohon tidak mempersoalkan pilihan politik",
+      "slug": "2-bahwa-permohonan-pemohon-tidak-mempersoalkan-pilihan-politik",
+      "text": "hukum pembentuk undang-undang semata, melainkan \nmempersoalkan apakah norma Pasal 240 ayat (1) huruf e telah \nmemenuhi prinsip negara hukum, kepastian hukum yang adil, serta  \nhubungan yang rasional dengan fungsi konstitusional anggota DPR.",
+      "start_line": 517,
+      "end_line": 520
+    },
+    {
+      "heading": "3. Bahwa Pemohon tidak memohon agar Mahkamah menentukan bentuk",
+      "slug": "3-bahwa-pemohon-tidak-memohon-agar-mahkamah-menentukan-bentuk",
+      "text": "persyaratan tertentu, tidak meminta Mahkamah menetapkan standar  \npendidikan tertentu, tidak meminta Mahkamah mewajibkan uji \nkompetensi, maupun merumuskan mekanisme seleksi tertentu bagi \ncalon anggota DPR. \nBahwa bentuk pengaturan mengenai persyaratan calon anggota DPR \nsepenuhnya tetap merupakan kewenangan pembentuk undang-\nundang.",
+      "start_line": 522,
+      "end_line": 528
+    },
+    {
+      "heading": "4. Bahwa yang dimohonkan Pemohon hanyalah agar Mahkamah",
+      "slug": "4-bahwa-yang-dimohonkan-pemohon-hanyalah-agar-mahkamah",
+      "text": "menyatakan bahwa norma Pasal 240 ayat (1) huruf e harus dimakna i \nsecara konstitusional sehingga pembentuk undang-undang dalam \nmengatur persyaratan calon anggota DPR wajib memperhatikan \nhubungan yang rasional antara persyaratan jabatan dan fungsi \nkonstitusional DPR. \nBahwa dengan demikian, apabila Mahkamah mengabulkan \npermohonan ini, Mahkamah tidak sedang membentuk norma baru, \nmelainkan menjalankan fungsi konstitusionalnya sebagai pengawal  \n\n16 \n \nkonstitusi ( the guardian of the Constitution )  dan penafsir terakhir \nkonstitusi (the sole interpreter of the Constitution). \nI. Permohonan a quo Sejalan dengan Prinsip Constitutional Review",
+      "start_line": 530,
+      "end_line": 543
+    },
+    {
+      "heading": "1. Bahwa kewenangan Mahkamah Konstitusi untuk menguji undang-",
+      "slug": "1-bahwa-kewenangan-mahkamah-konstitusi-untuk-menguji-undang",
+      "text": "undang terhadap UUD Negara Republik Indonesia Tahun 1945 \nbertujuan memastikan bahwa setiap norma undang-undang selaras \ndengan nilai, prinsip, dan ketentuan konstitusi. \nBahwa pengujian konstitusionalitas tidak hanya dilakukan terhad ap \nnorma yang secara eksplisit bertentangan dengan bunyi konstitus i, \ntetapi juga terhadap norma yang didalilkan tidak memenuhi prins ip-\nprinsip konstitusional yang berkembang dalam praktik ketatanegaraan.",
+      "start_line": 545,
+      "end_line": 551
+    },
+    {
+      "heading": "2. Bahwa dalam perkara a quo , Pemohon berpendapat bahwa",
+      "slug": "2-bahwa-dalam-perkara-a-quo-pemohon-berpendapat-bahwa",
+      "text": "pengaturan mengenai persyaratan calon anggota DPR belum \nsepenuhnya mencerminkan hubungan yang memadai dengan fungsi \nkonstitusional DPR sebagaimana diatur dalam Pasal 20 ayat (1) d an \nPasal 20A ayat (1) UUD Negara Republik Indonesia Tahun 1945. \nBahwa oleh sebab itu, Mahkamah memiliki kewenangan untuk menilai \napakah norma tersebut telah memenuhi prinsip negara hukum, \nkepastian hukum yang adil, serta proporsionalitas sebagaimana \ndijamin oleh UUD Negara Republik Indonesia Tahun 1945.",
+      "start_line": 553,
+      "end_line": 560
+    },
+    {
+      "heading": "3. Bahwa apabila Mahkamah berpendapat terdapat persoalan",
+      "slug": "3-bahwa-apabila-mahkamah-berpendapat-terdapat-persoalan",
+      "text": "konstitusional dalam norma a quo , Mahkamah dapat memberikan \nputusan yang tetap menghormati kewenangan pembentuk undang-\nundang untuk menyusun pengaturan lebih lanjut sesuai dengan ama r \nputusan Mahkamah. \nBahwa berdasarkan seluruh uraian tersebut, menurut Pemohon Pasa l 240 \nayat (1) huruf e Undang-Undang Nomor 7 Tahun 2017 belum sepenuh nya \nmemenuhi prinsip negara hukum sebagaimana Pasal 1 ayat (3), bel um \nsepenuhnya memberikan kepastian hukum yang adil sebagaimana Pasal 28D \nayat (1), serta belum menunjukkan hubungan yang rasional dengan  fungsi \nkonstitusional DPR sebagaimana Pasal 20 ayat (1) dan Pasal 20A ayat (1) \nUUD Negara Republik Indonesia Tahun 1945. \nBahwa Pemohon tidak memohon agar Mahkamah menetapkan bentuk \n\n17 \n \npersyaratan tertentu bagi calon anggota DPR, melainkan memohon agar \nMahkamah memberikan penafsiran konstitusional terhadap norma a quo  \nsehingga pengaturan persyaratan pencalonan anggota DPR tetap be rada \ndalam koridor konstitusi. \nBahwa dengan demikian, demi tegaknya supremasi konstitusi, perl indungan \nhak konstitusional warga negara, dan terwujudnya prinsip negara  h u k u m ,  \nsudah sepatutnya Mahkamah Konstitusi mengabulkan permohonan \nPemohon untuk seluruhnya atau setidak-tidaknya menyatakan Pasal 240 ayat \n(1) huruf e Undang-Undang Nomor 7 Tahun 2017 bertentangan dengan UUD \nNegara Republik Indonesia Tahun 1945 secara bersyarat sesuai de ngan \namar putusan yang dimohonkan. \nIV. PETITUM \nBerdasarkan seluruh uraian tersebut di atas, Pemohon memohon ke pada \nMahkamah Konstitusi Republik Indonesia untuk menjatuhkan putusa n \nsebagai berikut:",
+      "start_line": 562,
+      "end_line": 591
+    },
+    {
+      "heading": "2. Menyatakan Pasal 240 ayat (1) huruf e Undang-Undang Nomor 7 Tahun",
+      "slug": "2-menyatakan-pasal-240-ayat-1-huruf-e-undang-undang-nomor-7-tahun",
+      "text": "2017 tentang Pemilihan Umum bertentangan dengan Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 secara bersyarat \n(conditionally unconstitutional ) sepanjang tidak dimaknai bahwa \npengaturan persyaratan calon anggota Dewan Perwakilan Rakyat ha rus \nmemiliki hubungan yang rasional dengan fungsi konstitusional an ggota \nDewan Perwakilan Rakyat sebagaimana diatur dalam Pasal 20 ayat (1) \ndan Pasal 20A ayat (1) Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945.",
+      "start_line": 594,
+      "end_line": 601
+    },
+    {
+      "heading": "3. Menyatakan Pasal 240 ayat (1) huruf e Undang-Undang Nomor 7 Tahun",
+      "slug": "3-menyatakan-pasal-240-ayat-1-huruf-e-undang-undang-nomor-7-tahun",
+      "text": "2017 tetap mempunyai kekuatan hukum mengikat sepanjang dimaknai  \nsebagaimana amar putusan Mahkamah.",
+      "start_line": 603,
+      "end_line": 604
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan Putusan ini dalam Berita Negara Repub lik",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila Mahkamah Konstitusi berpendapat lain, mohon putusan yang seadil-\nadilnya (ex aequo et bono) sesuai dengan prinsip-prinsip konstitusi. \n\n18 \n \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat Bukti P-1 sampai dengan Bukti P-11, namun alat bukti yang \ndisampaikan tidak dibubuhi meterai dan tidak di-nazegel.  \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 606,
+      "end_line": 617
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a \nUndang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembar an Negara \nRepublik Indonesia Nomor 5076), Mahkamah berwenang, antara lain , mengadili \npada tingkat pertama dan terakhir yang putusannya bersifat fina l untuk menguji \nundang-undang terhadap UUD NRI Tahun 1945. \n[3.2]  Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu  norma Pasal 240 ayat (1) huruf e \nUndang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum (Lembaran Negara \nRepublik Indonesia Tahun 2017 Nomor 182, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6109, selanjutnya disebut UU 7/2017) terhadap U UD NRI Tahun \n1945 maka Mahkamah berwenang mengadili permohonan a quo. \n\n19 \n \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo, namun sebelum mempertimbangkan lebih lanjut permohonan    \na quo, Mahkamah mempertimbangkan hal-hal sebagai berikut.  \n[3.3.1]  Bahwa Pemohon mengajukan permohonan awal melalui daring ( online) \npada tanggal 16 Juli 2026. Berdasarkan Akta Pengajuan Permohona n Pemohon \nNomor 269/PUU/PAN.MK/AP3/07/2026, permohonan a quo  diterima Mahkamah \npada tanggal 16 Juli 2026 dan dengan berdasarkan Daftar Kelengkapan Pengajuan \nPermohonan Pemohon (DKP3), permohonan Pemohon tidak disertai de ngan alat \nbukti yang dibubuhi meterai; \n[3.3.2]  Bahwa sesuai dengan  ketentuan hukum acara pengujian undang-\nundang, Mahkamah telah melaksanakan sidang pemeriksaan pendahuluan dengan \nagenda mendengarkan pokok-pokok permohonan, memeriksa kelengkap an dan \nkejelasan materi permohonan pada tanggal 23 Juli 2026.  Dalam persidangan \ntersebut, sesuai dengan ketentuan Pasal 39 UU MK dan Pasal 36 a yat (3) PMK \n7/2025, Mahkamah telah memberikan nasihat kepada Pemohon agar memperbaiki \nsekaligus memperjelas perihal kewenangan Mahkamah, kedudukan hu kum (legal \nstanding), alasan-alasan permohonan (posita), dan hal-hal yang dimohonkan untuk \ndiputus (petitum) sehingga permohonan Pemohon a quo sesuai dengan sistematika \npermohonan sebagaimana diatur dalam PMK 7/2025 [vide Risalah Sidang, tanggal \n23 Juli 2026, hlm. 5-13]. Sesuai dengan ketentuan hukum acara, Mahkamah telah \nmemberikan kesempatan kepada Pemohon untuk memperbaiki pemohona n paling \nlama 14 (empat belas) hari sejak sidang pemeriksaan pendahuluan  dengan batas \nwaktu penyerahan perbaikan paling lambat pada hari Rabu, tanggal 5 Agustus 2026 \npukul 12.00 WIB. Berkenaan dengan batas waktu perbaikan tersebu t, Pemohon \ntelah menyampaikan perbaikan permohonan yang diterima Mahkamah pada tanggal \n3 Agustus 2026.  \n[3.3.3] Bahwa dalam menilai perihal permohonan pengujian undang-undang,  \nMahkamah akan mempertimbangkan keterpenuhan ihwal syarat formil  pengajuan \nPermohonan antara lain sebagaimana dimaksudkan dalam Pasal 10 d an Pasal 12 \nPeraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 tentang Tata Beracara dalam \nPerkara Pengujian Undang-Undang (selanjutnya disebut PMK 7/2025).  Berkenaan \ndengan keterpenuhan syarat formil pengajuan permohonan, salah satu kelengkapan \n\n20 \n \nyang harus disampaikan pada saat pengajuan permohonan adalah al at bukti yang \nmendukung permohonan [vide Pasal 10 ayat (4) PMK 7/2025] dan be rdasarkan \nPasal 12 ayat (3) PMK 7/2025 terhadap permohonan yang diajukan secara daring \n(online), pengajuan permohonan disertai alat bukti sebanyak satu eksem plar yang \ntelah dibubuhi meterai. Sesuai dengan PMK 7/2025 tersebut, sete lah Mahkamah \nmencermati secara saksama, ketika menyampaikan permohonan awal,  Pemohon \nhanya menyerahkan permohonan tanpa disertai alat bukti yang dib ubuhi meterai. \nBahkan, dalam perbaikan permohonan, setelah Mahkamah mencermati  dengan \nsaksama, alat bukti disampaikan melalui e-mail dalam bentuk softfile dan belum \ndibubuhi meterai. Terhadap hal tersebut pada sidang pemeriksaan  pendahuluan \ndengan agenda memeriksa perbaikan permohonan pada tanggal 5 Agu stus 2026, \nMahkamah telah melakukan konfirmasi terkait alat bukti yang dis ampaikan dan \nPemohon menyatakan alat bukti yang disampaikan melalui e-mail belum dibubuhi \nmeterai dan bukti fisik yang belum dikirimkan kepada Mahkamah p un belum \ndibubuhi meterai  [vide Risalah Sidang, tanggal 5 Agustus 2026 hlm. 5].  \n Berdasarkan fakta-fakta hukum tersebut di atas, sekalipun Pemo hon telah \nmenyampaikan perbaikan permohonan yang disertai alat bukti dalam bentuk softfile, \nnamun oleh karena alat bukti yang disampaikan tidak dibubuhi meterai seperti yang \ndimaksud dalam Pasal 12 ayat (3) PMK 7/2025 sehingga tidak terd apat keraguan \nbagi Mahkamah untuk menyatakan permohonan Pemohon tidak memenuh i syarat \nformil pengajuan permohonan pengujian undang-undang. \n[3.4] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum di \natas, meskipun Mahkamah berwenang mengadili permohonan Pemohon,  n a m u n  \noleh karena permohonan tidak memenuhi persyaratan formil pengaj uan \npermohonan pengujian undang-undang maka Mahkamah tidak mempertimbangkan \nlebih lanjut permohonan Pemohon. \n[3.5] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya. \n \n \n\n21",
+      "start_line": 619,
+      "end_line": 709
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 711,
+      "end_line": 711
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan Pemohon; \n[4.2] Permohonan Pemohon tidak memenuhi syarat formil pengajuan \npermohonan; \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554) da n Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 713,
+      "end_line": 725
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nAdies Kadir,  Liliek Prisbawono Adi,  Enny Nurbaningsih, Daniel  Yusmic P. Foekh, \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, pada hari Kamis, tanggal enam, bulan Agustus, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Rabu, tanggal dua belas, bulan Agustus, tahun dua ribu \ndua puluh enam, selesai diucapkan pukul  14.28 WIB , oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Sald i Isra, Adies \nKadir,  Liliek Prisbawono Adi,  Enny Nurbaningsih, Daniel Yusmi c P. Foekh, M. \n\n22 \n \nGuntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing se bagai \nAnggota, dengan dibantu oleh Ria Indriyani sebagai Panitera Pen gganti, serta \ndihadiri oleh Pemohon, Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden \natau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nAdies Kadir  \nttd. \nLiliek Prisbawono Adi \nttd. \nEnny Nurbaningsih \nttd. \nDaniel Yusmic P. Foekh \nttd. \nM. Guntur Hamzah \nttd. \nRidwan Mansyur \nttd. \nArsul Sani  \nPANITERA PENGGANTI, \nttd. \nRia Indriyani",
+      "start_line": 727,
+      "end_line": 770
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Fikri Haikal Harahap",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 7/2017 tentang Pemilihan Umum"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 20 ayat (1)",
+      "Pasal 20A ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 240 ayat (1) hur",
+      "Pasal 28J ayat (2)",
+      "Pasal 10 ayat (1) hur"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "ALAT BUKTI P-1",
+      "BUKTI P-11",
+      "REFERENSI:270/PUU-XXIV/2026",
+      "REFERENSI:269/PUU/PAN.MK/AP3/07/2026",
+      "REFERENSI:011/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danPutusanNomor011/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Ria Indriyani"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "270/PUU-XXIV/2026",
+      "269/PUU/PAN.MK/AP3/07/2026",
+      "011/PUU-V/2007",
+      "006/PUU-III/2005danPutusanNomor011/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "270/PUU-XXIV/2026",
+      "269/PUU/PAN.MK/AP3/07/2026",
+      "011/PUU-V/2007",
+      "006/PUU-III/2005danPutusanNomor011/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

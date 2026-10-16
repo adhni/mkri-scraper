@@ -1,0 +1,625 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14742_1785395340.pdf",
+    "file_name": "putusan_mkri_14742_1785395340.pdf",
+    "page_count": 50,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14742_1785395340.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "244/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-07-30",
+    "decision_date_raw": "tiga puluh, bulan Juli, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 244/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 1 Tahun 2024 tentang Perubahan Kedua Atas Undang-U ndang \nNomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 6,
+      "end_line": 11
+    },
+    {
+      "heading": "1. Nama : Nova Ayu Br Simanjuntak",
+      "slug": "1-nama-nova-ayu-br-simanjuntak",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Nginden 6 Nomor 21 \nselanjutnya disebut sebagai ------------------------------------------------- Pemohon I;",
+      "start_line": 13,
+      "end_line": 15
+    },
+    {
+      "heading": "2. Nama : Diva Maharani Dewiantoro",
+      "slug": "2-nama-diva-maharani-dewiantoro",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Tambak Selatan, Krian. \nselanjutnya disebut sebagai ------------------------------------------------ Pemohon II;",
+      "start_line": 17,
+      "end_line": 19
+    },
+    {
+      "heading": "3. Nama : Trilas Pilda Faulisa",
+      "slug": "3-nama-trilas-pilda-faulisa",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Wonorejo Permai Timur II \nselanjutnya disebut sebagai ------------------------------------------------ Pemohon III;",
+      "start_line": 21,
+      "end_line": 23
+    },
+    {
+      "heading": "4. Nama Marsha Widya Asmoro",
+      "slug": "4-nama-marsha-widya-asmoro",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Tembarak Gang 4 Nomor 26 \nselanjutnya disebut sebagai ----------------------------------------------- Pemohon IV;",
+      "start_line": 25,
+      "end_line": 27
+    },
+    {
+      "heading": "5. Nama Malik Fahad",
+      "slug": "5-nama-malik-fahad",
+      "text": "Pekerjaan : Mahasiswa \nselanjutnya disebut sebagai ------------------------------------------------ Pemohon V;\nSelanjutnya Pemohon I sampai dengan Pemohon V disebut sebagai -------------------\n---------------------------------------------------------------------------------------- para Pemohon; \n \n\n\n \n \n2 \n[1.2] Membaca permohonan para Pemohon;  \n Mendengar keterangan para Pemohon.",
+      "start_line": 29,
+      "end_line": 40
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 23 April 2026 yang diterima Kepaniteraan Mahkamah Ko nstitusi pada \ntanggal 22 Juni 2026 berdasarkan Akta Pengajuan Permohonan Pemo hon Nomor \n243/PUU/PAN.MK/AP3/06/2026, dan telah dicatat dalam Buku Regist rasi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 244/PUU- XXIV/2026 \npada tanggal 23 Juni 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nA. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 42,
+      "end_line": 48
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 24C ayat (1) Undang-Undang Dasar Negar a",
+      "slug": "1-bahwa-ketentuan-pasal-24c-ayat-1-undang-undang-dasar-negar-a",
+      "text": "Republik Indonesia Tahun 1945 secara tegas memberikan kewenanga n \nkonstitusional kepada Mahkamah Konstitusi untuk mengadili pada tingkat \npertama dan terakhir, yang putusannya bersifat final, dalam per kara \npengujian undang-undang terhadap UUD 1945. Ketentuan ini menunjukkan \nbahwa Mahkamah Konstitusi merupakan satu-satunya lembaga negara  \nyang memiliki kompetensi absolut dalam melakukan judicial review  \nterhadap undang-undang, sehingga tidak terdapat upaya hukum lai n yang \ndapat ditempuh setelah putusan dijatuhkan. Dengan demikian, \nkewenangan ini bersifat eksklusif  dan menjadi landasan utama ba gi Para \nPemohon dalam mengajukan permohonan a quo , karena objek yang \ndimohonkan pengujian merupakan norma undang-undang yang diduga \nbertentangan dengan konstitusi.",
+      "start_line": 50,
+      "end_line": 61
+    },
+    {
+      "heading": "2. Bahwa ketentuan Pasal 29 ayat (1) Undang-Undang Nomor 48 Tahun 2009",
+      "slug": "2-bahwa-ketentuan-pasal-29-ayat-1-undang-undang-nomor-48-tahun-2009",
+      "text": "tentang Kekuasaan Kehakiman juga mempertegas kedudukan Mahkamah  \nKonstitusi dalam sistem peradilan di Indonesia. Dalam pasal ter sebut \ndinyatakan bahwa Mahkamah Konstitusi berwenang mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final, termasuk d alam hal \nmenguji undang-undang terhadap UUD 1945. Ketentuan ini menegask an \nharmonisasi antara norma konstitusi dan norma undang-undang di \nbawahnya, sekaligus memperkuat legitimasi Mahkamah Konstitusi sebagai \n\n \n \n3 \npenjaga konstitusi ( the guardian of the constitution ). Oleh karena itu, \npermohonan yang diajukan oleh Para Pemohon memiliki dasar hukum yang \nkuat dalam kerangka sistem kekuasaan kehakiman di Indonesia.",
+      "start_line": 63,
+      "end_line": 76
+    },
+    {
+      "heading": "3. Bahwa selanjutnya, Pasal 10 ayat (1) huruf a Undang-Undang N omor 24",
+      "slug": "3-bahwa-selanjutnya-pasal-10-ayat-1-huruf-a-undang-undang-n-omor-24",
+      "text": "Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah  \nterakhir dengan Undang-Undang Nomor 7 Tahun 2020 kembali \nmenegaskan kewenangan Mahkamah Konstitusi untuk menguji undang-\nundang terhadap UUD 1945. Norma ini tidak hanya mengatur kewenangan \nsecara umum, tetapi juga memberikan landasan operasional bagi \nMahkamah Konstitusi dalam menjalankan fungsi pengujian tersebut . \nDengan adanya pengaturan ini, maka secara yuridis tidak terdapa t \nkeraguan mengenai kompetensi Mahkamah Konstitusi dalam memeriks a, \nmengadili, dan memutus permohonan pengujian materiil yang diajukan oleh \nPara Pemohon.",
+      "start_line": 78,
+      "end_line": 87
+    },
+    {
+      "heading": "4. Bahwa selain itu, Pasal 9 ayat (1) Undang-Undang Nomor 12 Ta hun 2011",
+      "slug": "4-bahwa-selain-itu-pasal-9-ayat-1-undang-undang-nomor-12-ta-hun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-undangan secara eksplis it \nmenyatakan bahwa dalam hal suatu undang-undang diduga bertentan gan \ndengan UUD 1945, maka pengujiannya dilakukan oleh Mahkamah \nKonstitusi. Ketentuan ini menunjukkan adanya mekanisme kontrol \nkonstitusional terhadap produk legislasi, sehingga setiap norma  undang-\nundang yang berlaku tetap berada dalam koridor konstitusi. Deng an \ndemikian, apabila terdapat dugaan ketidaksesuaian antara undang-undang \ndengan UUD 1945, maka Mahkamah Konstitusi merupakan forum yang \ntepat dan sah untuk menyelesaikan persoalan tersebut melalui mekanisme \njudicial review.",
+      "start_line": 89,
+      "end_line": 98
+    },
+    {
+      "heading": "5. Bahwa berdasarkan seluruh ketentuan hukum tersebut, Para Pem ohon",
+      "slug": "5-bahwa-berdasarkan-seluruh-ketentuan-hukum-tersebut-para-pem-ohon",
+      "text": "mengajukan permohonan pengujian materiil terhadap Pasal 27A dan Pasal \n45 ayat (4) Undang-Undang Informasi dan Transaksi Elektronik (U U ITE), \nkhususnya yang berkaitan dengan norma pencemaran nama baik. Par a \nPemohon menilai bahwa ketentuan tersebut mengandung potensi \npelanggaran terhadap hak konstitusional warga negara, terutama dalam \nhal kebebasan berekspresi dan kepastian hukum yang adil. Oleh k arena \nitu, pengujian ini diajukan sebagai upaya konstitusional untuk memastikan \nbahwa norma yang berlaku tidak bertentangan dengan prinsip-prinsip dasar \n\n \n \n4 \nyang dijamin dalam UUD 1945 serta untuk mencegah terjadinya \npenyalahgunaan norma dalam praktik penegakan hukum di masyarakat.",
+      "start_line": 100,
+      "end_line": 113
+    },
+    {
+      "heading": "6. Bahwa Para Pemohon menilai ketentuan Pasal 27A dan Pasal 45 ayat (4)",
+      "slug": "6-bahwa-para-pemohon-menilai-ketentuan-pasal-27a-dan-pasal-45-ayat-4",
+      "text": "Undang-Undang Informasi dan Transaksi Elektronik memiliki poten si yang \nsignifikan dalam melanggar hak atas kebebasan berpendapat \nsebagaimana dijamin dalam Pasal 28E ayat (3) Undang-Undang Dasa r \nNegara Republik Indonesia Tahun 1945. Hak tersebut merupakan ba gian \ndari hak asasi manusia yang bersifat fundamental dan tidak dapat dikurangi \nsecara sewenang-wenang oleh negara. Dalam praktiknya, rumusan norma \nyang tidak jelas dan cenderung multitafsir berpotensi menimbulk an \npembatasan yang berlebihan terhadap kebebasan individu dalam \nmenyampaikan pendapat, terutama di ruang digital. Kondisi ini d apat \nmenciptakan rasa takut di tengah masyarakat untuk menyampaikan kritik \natau aspirasi, sehingga menghambat kehidupan demokrasi yang sehat.",
+      "start_line": 115,
+      "end_line": 125
+    },
+    {
+      "heading": "7. Bahwa Mahkamah Konstitusi dalam menjalankan kewenangannya ti dak",
+      "slug": "7-bahwa-mahkamah-konstitusi-dalam-menjalankan-kewenangannya-ti-dak",
+      "text": "hanya terbatas pada menyatakan suatu norma bertentangan atau ti dak \ndengan UUD 1945, tetapi juga memiliki kewenangan untuk memberik an \nputusan konstitusional bersyarat ( conditionally unconstitutional ). Melalui \nmekanisme ini, Mahkamah dapat mempersempit atau memberikan \npenafsiran tertentu terhadap suatu pasal agar tetap konstitusio nal \nsepanjang dimaknai sesuai dengan batasan yang ditentukan. Dalam  \nkonteks permohonan a quo , Para Pemohon memandang bahwa \npendekatan ini relevan untuk mencegah penyalahgunaan norma yang  \ndapat membungkam kritik publik, sekaligus menjaga keseimbangan antara \nperlindungan reputasi individu dan kebebasan berekspresi warga negara.",
+      "start_line": 127,
+      "end_line": 136
+    },
+    {
+      "heading": "8. Bahwa Mahkamah Konstitusi ju ga memiliki peran penting dalam",
+      "slug": "8-bahwa-mahkamah-konstitusi-ju-ga-memiliki-peran-penting-dalam",
+      "text": "mempertegas batasan terhadap apa yang dikenal sebagai “pasal ka ret” \ndalam peraturan perundang-undangan, termasuk dalam Undang-Undan g \nITE. Istilah “pasal karet” merujuk pada norma yang memiliki rum usan tidak \ntegas sehingga dapat ditafsirkan secara luas dan fleksibel sesu ai \nkepentingan tertentu. Dalam konteks ini, Mahkamah berwenang \nmemberikan interpretasi konstitusional yang membatasi ruang lin gkup \nnorma tersebut agar tidak digunakan secara sewenang-wenang. Den gan \ndemikian, perlindungan terhadap partisipasi aktif warga negara dalam \n\n \n \n5 \nmenyampaikan pendapat, kritik, dan informasi dapat tetap terjam in tanpa \nrasa takut akan kriminalisasi.",
+      "start_line": 138,
+      "end_line": 151
+    },
+    {
+      "heading": "9. Bahwa Mahkamah Konstitusi juga berwenang untuk memberikan",
+      "slug": "9-bahwa-mahkamah-konstitusi-juga-berwenang-untuk-memberikan",
+      "text": "penegasan bahwa suatu perbuatan tidak dapat dikualifikasikan se bagai \ntindak pidana pencemaran nama baik apabila dilakukan dalam rang ka \nkepentingan umum atau sebagai bentuk pembelaan diri. Prinsip ini sejalan \ndengan nilai-nilai keadilan substantif yang mengutamakan kontek s dan \ntujuan dari suatu perbuatan. Dalam hal ini, penyampaian kritik terhadap \nkebijakan publik, pengungkapan fakta untuk kepentingan masyarakat, atau \nupaya mempertahankan diri dari serangan terhadap reputasi tidak  \nseharusnya dipidana. Oleh karena itu, Mahkamah diharapkan dapat  \nmemberikan batasan yang jelas agar norma hukum tidak disalahgun akan \nuntuk membungkam suara kritis.",
+      "start_line": 153,
+      "end_line": 162
+    },
+    {
+      "heading": "10. Bahwa Mahkamah Konstitusi juga perlu mempertimbangkan perli ndungan",
+      "slug": "10-bahwa-mahkamah-konstitusi-juga-perlu-mempertimbangkan-perli-ndungan",
+      "text": "khusus terhadap pejuang lingkungan hidup sebagaimana diamanatka n \ndalam Pasal 66 Undang-Undang Nomor 32 Tahun 2009 tentang \nPerlindungan dan Pengelolaan Lingkungan Hidup. Ketentuan terseb ut \nsecara tegas menyatakan bahwa setiap orang yang memperjuangkan hak \natas lingkungan hidup yang baik dan sehat tidak dapat dituntut secara \npidana maupun digugat secara perdata. Dalam praktiknya, tidak j arang \naktivis lingkungan menghadapi ancaman hukum, termasuk melalui \npenggunaan pasal-pasal dalam UU ITE. Oleh karena itu, Mahkamah perlu \nmenegaskan bahwa norma dalam Pasal 27A dan Pasal 45 ayat (4) ti dak \nboleh digunakan untuk mengkriminalisasi individu yang bertindak  demi \nkepentingan lingkungan dan kepentingan publik secara luas.",
+      "start_line": 164,
+      "end_line": 174
+    },
+    {
+      "heading": "11. Bahwa Mahkamah Konstitusi memiliki kewenangan konstitusiona l untuk",
+      "slug": "11-bahwa-mahkamah-konstitusi-memiliki-kewenangan-konstitusiona-l-untuk",
+      "text": "memastikan bahwa setiap norma hukum tidak disalahgunakan sebagai alat \npembungkaman partisipasi masyarakat, khususnya dalam konteks \nkebebasan berekspresi di ruang publik. Prinsip ini dikenal luas  sebagai \nperlindungan terhadap praktik Strategic Lawsuit Against Public Participation \n(Anti-SLAPP), yaitu upaya hukum y ang digunakan untuk menekan at au \nmembungkam kritik masyarakat. Dalam konteks ini, Mahkamah Konst itusi \nberperan penting dalam memberikan perlindungan terhadap warga negara \nagar tetap dapat menyampaikan aspirasi, kritik, dan pengawasan terhadap \n\n \n \n6 \nkebijakan publik tanpa rasa takut akan ancaman pidana. Oleh kar ena itu, \nkeberadaan Mahkamah Konstitusi menjadi sangat krusial dalam men jaga \nruang demokrasi yang sehat dan partisipatif.",
+      "start_line": 176,
+      "end_line": 190
+    },
+    {
+      "heading": "12. Bahwa Mahkamah Konstitusi juga berwenang untuk memberikan r ambu-",
+      "slug": "12-bahwa-mahkamah-konstitusi-juga-berwenang-untuk-memberikan-r-ambu",
+      "text": "rambu hukum yang jelas terkait penerapan Pasal 27A Undang-Undan g \nInformasi dan Transaksi Elektronik agar tidak disalahgunakan un tuk \nmenghalangi masyarakat dalam menyampaikan laporan atau pengadua n \natas dugaan pelanggaran hukum kepada pihak yang berwenang. Dala m \npraktiknya, tidak jarang ketentuan pencemaran nama baik digunakan untuk \nmengkriminalisasi pihak yang melaporkan suatu perbuatan melawan  \nhukum, sehingga menimbulkan efek jera bagi masyarakat untuk \nberpartisipasi dalam penegakan hukum. Oleh karena itu, Mahkamah  perlu \nmenegaskan batasan bahwa penyampaian laporan atau aduan yang \ndilakukan dengan itikad baik demi kepentingan hukum tidak dapat dipidana \nberdasarkan ketentuan a quo.",
+      "start_line": 192,
+      "end_line": 202
+    },
+    {
+      "heading": "13. Bahwa pengujian materiil yang diajukan oleh Para Pemohon in i bertujuan",
+      "slug": "13-bahwa-pengujian-materiil-yang-diajukan-oleh-para-pemohon-in-i-bertujuan",
+      "text": "untuk menjaga dan memastikan terwujudnya kepastian hukum yang a dil \nsebagaimana dijamin dalam Pasal 28D ayat (1) Undang-Undang Dasa r \nNegara Republik Indonesia Tahun 1945. Kepastian hukum yang adil  tidak \nhanya berkaitan dengan keberadaan norma hukum itu sendiri, teta pi juga \nmencakup kejelasan rumusan, konsistensi penerapan, serta perlin dungan \nterhadap hak-hak warga negara. Dalam hal ini, norma yang kabur dan \nmultitafsir justru berpotensi menimbulkan ketidakpastian hukum dan \nketidakadilan dalam praktik penegakan hukum. Oleh karena itu, p engujian \nini menjadi langkah penting untuk memastikan bahwa setiap norma  yang \nberlaku telah sesuai dengan prinsip-prinsip konstitusional.",
+      "start_line": 204,
+      "end_line": 213
+    },
+    {
+      "heading": "14. Bahwa Mahkamah Konstitusi m emiliki peran strategis dalam me njaga",
+      "slug": "14-bahwa-mahkamah-konstitusi-m-emiliki-peran-strategis-dalam-me-njaga",
+      "text": "keseimbangan antara perlindungan terhadap reputasi individu dan  \nkebebasan berekspresi dalam sistem demokrasi. Kedua kepentingan  \ntersebut sama-sama penting dan dijamin dalam konstitusi, sehing ga tidak \ndapat ditempatkan secara saling meniadakan. Dalam konteks ini, \nMahkamah dituntut untuk memberikan penafsiran yang proporsional  da n \nberkeadilan agar perlindungan terhadap nama baik tidak dijadika n alasan \nuntuk membatasi kebebasan berpendapat secara berlebihan. Dengan  \n\n \n \n7 \ndemikian, keseimbangan tersebut akan menciptakan ruang publik y ang \nsehat, di mana individu tetap terlindungi dari serangan yang tidak berdasar, \nnamun masyarakat juga tetap bebas dalam menyampaikan kritik yan g \nkonstruktif.",
+      "start_line": 215,
+      "end_line": 229
+    },
+    {
+      "heading": "15. Bahwa oleh karena permohonan yang diajukan oleh Para Pemoho n",
+      "slug": "15-bahwa-oleh-karena-permohonan-yang-diajukan-oleh-para-pemoho-n",
+      "text": "merupakan pengujian materiil terhadap ketentuan dalam Undang-Un dang \nInformasi dan Transaksi Elektronik terhadap Undang-Undang Dasar  \nNegara Republik Indonesia Tahun 1945, maka secara jelas Mahkama h \nKonstitusi memiliki kewenangan untuk mengadili permohonan ini. \nKewenangan tersebut juga relevan dalam konteks perkara yang mem iliki \nkesamaan substansi, seperti dalam Perkara Nomor 78/PUU-XXII/202 4, \nyang menunjukkan bahwa Mahkamah Konstitusi secara konsisten \nmenangani permohonan pengujian norma undang-undang yang berkait an \ndengan kebebasan berekspresi dan kepastian hukum. Dengan demiki an, \ntidak terdapat keraguan bahwa permohonan a quo  berada dalam ruang \nlingkup kewenangan absolut Mahkamah Konstitusi untuk diperiksa,  diadili, \ndan diputus. \nB. KEDUDUKAN HUKUM PEMOHON",
+      "start_line": 231,
+      "end_line": 243
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 51 ayat (1) Undang-Undang Nomor 24 Tahun 2003",
+      "slug": "1-bahwa-ketentuan-pasal-51-ayat-1-undang-undang-nomor-24-tahun-2003",
+      "text": "tentang Mahkamah Konstitusi sebagaimana telah diubah terakhir d engan \nUndang-Undang Nomor 7 Tahun 2020 (selanjutnya disebut UU MK) \nmerupakan landasan yuridis yang sangat fundamental dalam \nmenentukan kedudukan hukum ( legal standing ) bagi setiap pihak yang \nhendak mengajukan permohonan pengujian undang-undang di hadapan  \nMahkamah Konstitusi. Norma ini menegaskan bahwa hanya pihak yan g \nmenganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh \nberlakunya suatu undang-undang yang dapat bertindak sebagai Pemohon. \nDengan demikian, ketentuan ini tidak hanya bersifat administrat if, \nmelainkan juga substantif karena berkaitan langsung dengan eksi stensi \nkerugian konstitusional yang harus dapat dijelaskan secara rasional, aktual, \nmaupun potensial oleh Pemohon. \nPengaturan ini mencerminkan prinsip bahwa Mahkamah Konstitusi \ntidak berfungsi sebagai forum abstrak untuk menguji setiap norma undang-\nundang tanpa adanya kepentingan hukum yang jelas, melainkan seb agai \n\n \n \n8 \nlembaga yang menangani persoalan konstitusional yang nyata dan \nberdampak langsung terhadap subjek hukum tertentu. Oleh karena itu, \nunsur kerugian konstitusional menjadi kunci utama dalam menentu kan \napakah suatu permohonan dapat diterima untuk diperiksa lebih la njut. \nKerugian tersebut harus memiliki hubungan sebab-akibat (causal verband) \ndengan berlakunya norma yang diuji, serta memiliki kemungkinan untuk \ndipulihkan melalui putusan Mahkamah Konstitusi. \nAdapun ketentuan Pasal 51 ayat (1) UU MK tersebut secara eksplisit \nmenyatakan bahwa Pemohon adalah pihak yang menganggap hak \ndan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya undang-\nundang, yaitu: \na. perorangan warga negara Indonesia; \nBahwa yang dimaksud dengan perorangan warga negara Indonesia \nadalah setiap individu yang secara sah memiliki status \nkewarganegaraan Indonesia dan memiliki hak-hak konstitusional \nsebagaimana dijamin dalam Und ang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945. Dalam konteks ini, individu sebagai \nsubjek hukum memiliki legitimasi untuk mengajukan permohonan \napabila dapat menunjukkan bahwa hak konstitusionalnya, seperti \nhak atas kebebasan berpendapat, hak atas perlindungan hukum, \natau hak atas perlakuan yang sama di hadapan hukum, telah \ndirugikan oleh berlakunya suatu undang-undang. Kategori ini \nmerupakan yang paling umum dalam praktik pengujian undang-\nundang di Mahkamah Konstitusi karena sifatnya yang langsung dan \npersonal terhadap hak-hak dasar warga negara. \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip Negara \nKesatuan Republik Indonesia yang diatur dalam Undang-Undang; \nBahwa kesatuan masyarakat hukum adat diakui sebagai subjek \nhukum sepanjang keberadaannya masih hidup secara nyata, \nmemiliki struktur sosial dan norma adat yang masih dijalankan, serta \ntidak bertentangan dengan perkembangan masyarakat modern dan \nprinsip Negara Kesatuan Republik Indonesia. Pengakuan ini \nmenunjukkan bahwa negara memberikan ruang bagi komunitas adat \n\n \n \n9 \nuntuk mempertahankan identitas, budaya, serta hak-hak kolektifnya. \nDalam hal suatu undang-undang dianggap merugikan hak-hak \ntersebut, seperti hak atas tanah ulayat atau hak atas lingkunga n \nhidup, maka masyarakat hukum adat memiliki kedudukan hukum \nuntuk mengajukan permohonan pengujian materiil ke Mahkamah \nKonstitusi.",
+      "start_line": 245,
+      "end_line": 307
+    },
+    {
+      "heading": "c. badan hukum publik atau privat; atau",
+      "slug": "c-badan-hukum-publik-atau-privat-atau",
+      "text": "Bahwa badan hukum, baik yang bersifat publik maupun privat, jug a \ntermasuk dalam kategori Pemohon yang diakui oleh UU MK. Badan \nhukum publik dapat berupa lembaga pemerintah atau institusi \nnegara yang memiliki kewenangan tertentu berdasarkan peraturan \nperundang-undangan, sedangkan badan hukum privat meliputi \nperseroan terbatas, yayasan, koperasi, maupun organisasi \nkemasyarakatan. Sebagai entitas hukum, badan hukum memiliki \nhak dan kewajiban yang dilindungi oleh konstitusi. Apabila hak atau \nkewenangan tersebut dirugikan oleh berlakunya suatu undang-\nundang, maka badan hukum tersebut berhak mengajukan \npermohonan pengujian materiil sebagai bentuk perlindungan \nterhadap kepentingan hukumnya.",
+      "start_line": 309,
+      "end_line": 320
+    },
+    {
+      "heading": "d. lembaga negara.",
+      "slug": "d-lembaga-negara",
+      "text": "Bahwa lembaga negara juga memiliki kedudukan hukum sebagai \nPemohon apabila merasa kewenangan konstitusionalnya dirugikan \noleh suatu undang-undang. Dalam sistem ketatanegaraan \nIndonesia, setiap lembaga negara memiliki fungsi, tugas, dan \nkewenangan yang diatur secara konstitusional. Apabila terdapat \nundang-undang yang dianggap mengurangi, mengganggu, atau \nmelampaui batas kewenangan tersebut, maka lembaga negara yang \nbersangkutan dapat mengajukan permohonan ke Mahkamah \nKonstitusi. Ketentuan ini penting dalam menjaga prinsip checks and \nbalances serta memastikan bahwa tidak terjadi penyimpangan \ndalam pembagian kekuasaan antar lembaga negara. \nDengan demikian, keseluruhan pengaturan dalam Pasal 51 ayat (1) \nUU MK memberikan kerangka hukum yang jelas mengenai siapa saja yang \nberhak mengajukan permohonan pengujian undang-undang, sekaligus  \n\n \n \n10 \nmenegaskan pentingnya adanya kerugian konstitusional sebagai da sar \nutama dalam mengakses mekanisme pengujian di Mahkamah Konstitusi.",
+      "start_line": 322,
+      "end_line": 341
+    },
+    {
+      "heading": "2. Penjelasan Pasal 51 ayat (1) Undang-Undang Mahkamah Konstitu si",
+      "slug": "2-penjelasan-pasal-51-ayat-1-undang-undang-mahkamah-konstitu-si",
+      "text": "ditegaskan bahwa yang dimaksud dengan “hak konstitusional” adalah hak-\nhak yang diatur dan dijamin dalam Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945. \nPenegasan ini memiliki makna yang sangat penting karena menjadi  \ntolok ukur utama dalam menilai ada atau tidaknya kerugian yang dialami \noleh Pemohon dalam suatu permohonan pengujian undang-undang. \nDengan kata lain, tidak setiap kerugian dapat dijadikan dasar p engajuan \npermohonan ke Mahkamah Konstitusi, melainkan hanya kerugian yan g \nberkaitan langsung dengan pelanggaran atau pengurangan terhadap  hak-\nhak yang bersumber dari konstitusi. Hak konstitusional tersebut mencakup \nberbagai bentuk hak asasi manusia dan hak warga negara yang tel ah \nsecara eksplisit diatur dalam UUD 1945, seperti hak atas kebeba san \nberpendapat, hak atas kepastian hukum yang adil, hak atas perli ndungan \nhukum, hak untuk memperoleh keadilan, serta hak untuk bebas dar i \nperlakuan diskriminatif. Hak-hak ini bersifat fundamental karen a menjadi \ndasar dalam kehidupan berbangsa dan bernegara, serta menjadi batas bagi \nnegara dalam menjalankan kekuasaannya. \nSetiap bentuk pembatasan terhadap hak konstitusional harus \ndilakukan secara hati-hati, proporsional, dan berdasarkan keten tuan yang \njelas. Konsep hak konstitusional juga menegaskan bahwa hubungan  \nantara warga negara dan negara tidak bersifat sepihak, melainka n timbal \nbalik. Negara memiliki kewajiban untuk menghormati, melindungi,  d a n  \nmemenuhi hak-hak konstitusional warga negara, sementara warga n egara \nmemiliki hak untuk menuntut apabila hak tersebut dilanggar. Dalam konteks \nini, Mahkamah Konstitusi berfungsi sebagai penjaga terakhir ( the guardian \nof the constitution) yang memastikan bahwa setiap produk undang-undang \ntidak bertentangan dengan hak-hak yang dijamin dalam konstitusi . Untuk \ndapat mengajukan permohonan pengujian undang-undang, Pemohon \nharus mampu menguraikan secara jelas hak konstitusional apa yang dimiliki \ndan bagaimana hak tersebut dirugikan oleh berlakunya undang-und ang \nyang diuji. Kerugian tersebut dapat bersifat aktual maupun pote nsial, \n\n \n \n11 \nnamun harus memiliki hubungan sebab-akibat yang logis dengan no rma \nyang dipersoalkan. \nPenjelasan mengenai hak konstitusional tidak hanya bersifat teoritis, \ntetapi juga memiliki implikasi praktis dalam menentukan diterim a atau \ntidaknya suatu permohonan di Mahkamah Konstitusi. Pemaknaan terhadap \nhak konstitusional juga tidak dapat dilepaskan dari perkembanga n \npenafsiran konstitusi oleh Mahkamah Konstitusi melalui putusan-\nputusannya. Mahkamah seringkali memberikan tafsir progresif ter hadap \nhak-hak yang dijamin dalam UUD 1945, sehingga cakupan perlindun gan \nterhadap warga negara menjadi lebih luas dan adaptif terhadap \nperkembangan zaman. Hal ini menunjukkan bahwa hak konstitusiona l \nbersifat dinamis dan terus berkembang sesuai dengan kebutuhan \nmasyarakat dan nilai-nilai keadilan. Dapat dipahami bahwa hak \nkonstitusional merupakan fondasi utama dalam sistem pengujian u ndang-\nundang di Indonesia. Keberadaan hak ini tidak hanya memberikan \nperlindungan bagi individu dan kelompok, tetapi juga menjadi pa rameter \ndalam menilai konstitusionalitas suatu norma hukum. Setiap upay a \npengujian undang-undang di Mahkamah Konstitusi harus berangkat dari \npemahaman yang jelas mengenai hak konstitusional yang dijamin o leh \nUUD 1945 serta bentuk kerugian yang ditimbulkan oleh berlakunya  norma \nyang diuji.",
+      "start_line": 343,
+      "end_line": 398
+    },
+    {
+      "heading": "3. Bahwa merujuk pada Putusan Mahkamah Konstitusi Nomor 006/PUU -",
+      "slug": "3-bahwa-merujuk-pada-putusan-mahkamah-konstitusi-nomor-006-puu",
+      "text": "III/2005 tanggal 31 Mei 2005 dan Putusan Nomor 11/PUU-V/2007 ta nggal \n20 September 2007 serta berbagai putusan Mahkamah Konstitusi. \nSelanjutnya, telah dibangun suatu doktrin yang konsisten dan mapan \nmengenai syarat-syarat kerugian hak dan/atau kewenangan konstit usional \nsebagai dasar kedudukan hukum (legal standing) Pemohon dalam perkara \npengujian undang-undang.  Doktrin  ini  bukan  hanya  sekadar  pedoman  \nteknis,  melainkan  telah berkembang menjadi prinsip fundamenta l dalam \npraktik beracara di Mahkamah Konstitusi, yang menentukan apakah  suatu \npermohonan layak untuk diperiksa lebih lanjut atau harus dinyat akan tidak \ndapat diterima. Mahkamah secara konsisten menegaskan bahwa kerugian \nkonstitusional tidak dapat didasarkan pada asumsi, kekhawatiran  abstrak, \natau dugaan yang tidak berdasar, melainkan harus memenuhi krite ria \n\n \n \n12 \ntertentu yang bersifat kumulatif, sistematis, dan dapat \ndipertanggungjawabkan secara hukum. \nBahwa pentingnya doktrin ini terletak pada fungsinya sebagai \nmekanisme penyaring ( filter mechanism) agar Mahkamah Konstitusi tidak \ndibanjiri oleh permohonan yang tidak memiliki dasar kerugian konstitusional \nyang jelas. Dengan demikian, hanya permohonan yang benar-benar \nmemiliki relevansi langsung dengan perlindungan hak konstitusio nal yang \ndapat diperiksa, sehingga menjaga marwah Mahkamah sebagai the \nguardian of the constitution . Selain itu, doktrin ini juga memberikan \nkepastian hukum bagi para pencari keadilan mengenai standar yang harus \ndipenuhi dalam mengajukan permohonan pengujian undang-undang. \nMahkamah Konstitusi dalam berbagai putusannya juga menekankan \nbahwa kelima syarat tersebut harus dipenuhi secara kumulatif, artinya tidak \ncukup hanya memenuhi sebagian, melainkan seluruh unsur harus da pat \ndibuktikan secara argumentatif oleh Pemohon. Hal ini menunjukkan bahwa \nbeban pembuktian ( burden of proof ) berada pada Pemohon untuk \nmenjelaskan secara rinci dan logis mengenai adanya kerugian \nkonstitusional yang dialami. Permohonan tidak hanya bersifat no rmatif, \ntetapi juga harus didukung oleh argumentasi yang konkret, siste matis, dan \nrelevan dengan norma yang diuji. \nAdapun syarat-syarat tersebut meliputi: \na. Adanya Hak Dan/Atau Kewenangan Konstitusional Pemohon Yang \nDiberikan Oleh UUD 1945; \nBahwa pada tahap awal, Pemohon wajib mengidentifikasi secara \ntegas dan rinci hak dan/atau kewenangan konstitusional apa yang  \ndimilikinya, yang secara eksplisit dijamin oleh Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945. Hak konstitusional ini dapat \nberupa hak asasi manusia, seperti kebebasan berekspresi, hak atas \nperlindungan hukum, maupun hak atas kepastian hukum, atau \nkewenangan tertentu bagi lembaga negara yang diatur dalam \nkonstitusi. Penegasan ini penting untuk menunjukkan bahwa \nPemohon memiliki dasar konstitusional yang sah dalam mengajukan \npermohonan. Tanpa adanya hak yang jelas dan diakui oleh UUD \n1945, maka tidak terdapat pijakan hukum yang kuat untuk mengklaim \n\n \n \n13 \nadanya kerugian konstitusional, sehingga permohonan menjadi tidak \nrelevan untuk diperiksa. \nb. Hak dan/atau kewenangan tersebut dianggap dirugikan oleh \nberlakunya undang-undang yang dimohonkan pengujian; \nBahwa setelah hak konstitusional tersebut diidentifikasi, Pemoh on \nharus mampu menguraikan secara argumentatif bahwa hak tersebut \ntelah atau berpotensi dirugikan oleh berlakunya norma undang-\nundang yang diuji. Kerugian ini harus memiliki keterkaitan lang sung \ndengan norma yang dipersoalkan, sehingga tidak bersifat spekula tif \natau tidak berdasar. Dalam praktiknya, kerugian dapat berupa \npembatasan terhadap hak, pengurangan perlindungan hukum, atau \nbahkan ancaman kriminalisasi yang timbul akibat ketentuan dalam  \nundang-undang tersebut. Oleh karena itu, Pemohon harus \nmenjelaskan secara logis bagaimana norma tersebut berdampak \nnegatif terhadap hak konstitusional yang dimilikinya.",
+      "start_line": 400,
+      "end_line": 468
+    },
+    {
+      "heading": "c. kerugian tersebut bersifat spesifik dan aktual atau setidak- tidaknya",
+      "slug": "c-kerugian-tersebut-bersifat-spesifik-dan-aktual-atau-setidak-tidaknya",
+      "text": "potensial;  \nBahwa Mahkamah mensyaratkan agar kerugian yang dialami oleh \nPemohon bersifat spesifik, artinya memiliki kekhususan yang dap at \ndibedakan dari kerugian yang dialami oleh masyarakat secara \numum. Kerugian tidak boleh bersifat abstrak atau hipotetis sema ta, \nmelainkan harus dapat diidentifikasi secara konkret. Selain itu , \nkerugian tersebut harus bersifat aktual, yaitu telah terjadi, a tau \nsetidak-tidaknya potensial, yaitu memiliki kemungkinan besar un tuk \nterjadi dalam waktu dekat berdasarkan kondisi yang nyata. \nDengan demikian, Mahkamah dapat menilai bahwa kerugian \ntersebut benar-benar relevan dan tidak bersifat spekulatif. \ne. Adanya hubungan sebab akibat antara kerugian dan berlakunya \nundang-undang; \nBahwa syarat selanjutnya adalah adanya hubungan kausalitas \n(causal verband ) antara kerugian yang dialami oleh Pemohon \ndengan berlakunya undang-undang yang dimohonkan pengujian. \nHubungan ini harus dapat dijelaskan secara logis dan rasional, \nsehingga dapat dipahami bahwa kerugian tersebut merupakan \n\n \n \n14 \nakibat dari norma yang diuji, bukan disebabkan oleh faktor lain di luar \nketentuan tersebut. Tanpa adanya hubungan sebab-akibat yang \njelas, maka klaim kerugian konstitusional menjadi lemah dan tid ak \ndapat dijadikan dasar untuk mengajukan permohonan. \nf. Adanya kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian tersebut tidak akan terjadi lagi.  \nBahwa syarat terakhir menekankan adanya relevansi praktis dari \npermohonan yang diajukan, yaitu bahwa apabila Mahkamah \nKonstitusi mengabulkan permohonan tersebut, maka kerugian \nkonstitusional yang dialami atau berpotensi dialami oleh Pemoho n \ndapat dihindari atau tidak akan terjadi kembali. Hal ini menunj ukkan \nbahwa permohonan tidak hanya bersifat teoritis, tetapi memiliki  \nmanfaat nyata bagi Pemohon dalam melindungi hak \nkonstitusionalnya. Dengan demikian, Mahkamah dapat memastikan \nbahwa putusan yang dihasilkan memberikan dampak yang efektif \ndan konkret dalam menyelesaikan persoalan konstitusional yang \ndiajukan. \nBahwa secara keseluruhan, kelima syarat tersebut membentuk \nsuatu kerangka analisis yang komprehensif dalam menilai ada ata u \ntidaknya kerugian konstitusional. Doktrin ini tidak hanya berfu ngsi sebagai \nalat uji formal, tetapi juga sebagai instrumen untuk menjaga ag ar setiap \npermohonan yang diajukan benar-b enar memiliki dasar yang kuat d an \nrelevansi yang nyata dalam sistem ketatanegaraan Indonesia. Den gan \ndemikian, penerapan doktrin ini menjadi sangat penting dalam me njaga \nkualitas dan integritas proses pengujian undang-undang di Mahka mah \nKonstitusi.",
+      "start_line": 470,
+      "end_line": 517
+    },
+    {
+      "heading": "4. Selanjutnya, Para Pemohon dalam perkara a quo merupakan perorangan",
+      "slug": "4-selanjutnya-para-pemohon-dalam-perkara-a-quo-merupakan-perorangan",
+      "text": "warga negara Indonesia sebagaimana dimaksud dalam Pasal 51 ayat  (1) \nhuruf a Undang-Undang Mahkamah Konstitusi, yang secara sah memi liki \nkedudukan hukum ( legal standing ) untuk mengajukan permohonan \npengujian undang-undang. \nSebagai subjek hukum yang dijamin oleh konstitusi, Para Pemohon  \nmemiliki hak-hak dasar yang melekat dan tidak dapat dikurangi s ecara \nsewenang-wenang oleh negara. Dalam konteks ini, Para Pemohon \n\n \n \n15 \nmenegaskan bahwa berlakunya norma undang-undang yang dimohonkan  \npengujian telah dan/atau berpotensi merugikan hak konstitusiona l yang \nmereka miliki sebagaimana dijamin dalam Undang-Undang Dasar Neg ara \nRepublik Indonesia Tahun 1945. Bahwa hak-hak konstitusional ter sebut \ntidak hanya bersifat abstrak, melainkan memiliki implikasi lang sung dalam \nkehidupan sehari-hari, khususnya dalam era digital yang ditanda i dengan \nberkembangnya teknologi informasi dan komunikasi. Dalam situasi  \ntersebut, kebebasan berekspresi dan kepastian hukum menjadi dua  \naspek yang sangat penting dalam menjamin terciptanya ruang publ ik \nyang sehat, demokratis, dan berkeadilan. Oleh karena itu, setia p \npembatasan terhadap hak-hak tersebut harus dilakukan secara hat i-hati, \nproporsional, dan tidak melampaui batas yang diperbolehkan oleh  \nkonstitusi. \nAdapun hak konstitusional yang dimiliki oleh Para Pemohon antara lain: \na. Pasal 28E ayat (3) UUD 1945 t entang kebebasan mengeluarkan \npendapat; \nBahwa hak atas kebebasan mengeluarkan pendapat merupakan \nsalah satu hak fundamental yang menjadi pilar utama dalam siste m \ndemokrasi. Hak ini memberikan jaminan kepada setiap warga negar a \nuntuk menyampaikan pikiran, gagasan, opini, serta kritik terhad ap \nberbagai persoalan, baik yang berkaitan dengan kebijakan publik  \nmaupun kehidupan sosial secara umum. Kebebasan ini dapat dilakukan \nmelalui berbagai sarana, termasuk secara lisan, tulisan, maupun  \nmelalui media elektronik yang saat ini menjadi ruang utama inte raksi \npublik. Dalam konteks perkembangan teknologi digital, kebebasan  \nberekspresi tidak lagi terbatas pada ruang fisik, melainkan telah meluas \nk e  r u a n g  v i r t u a l  y a n g  m e m u n g k i n kan partisipasi masyarakat secar a \nlebih luas dan cepat. Namun demikian, keberadaan norma hukum yang \ntidak jelas dan berpotensi multitafsir, seperti dalam ketentuan yang diuji, \ndapat menimbulkan pembatasan yang berlebihan terhadap kebebasan \ntersebut. \nHal ini berpotensi menciptakan chilling effect , yaitu kondisi di \nmana masyarakat menjadi enggan atau takut untuk menyampaikan \npendapat karena khawatir akan dikenakan sanksi hukum. Bahwa Par a \n\n \n \n16 \nPemohon sebagai warga negara yang aktif dalam ruang publik, \nkhususnya dalam menyampaikan pendapat dan kritik melalui media \nelektronik, memiliki kepentingan langsung terhadap perlindungan  hak \nini. Oleh karena itu, setiap norma yang berpotensi membatasi \nkebebasan berekspresi secara tidak proporsional harus diuji \nkonstitusionalitasnya agar tidak bertentangan dengan prinsip-pr insip \ndemokrasi yang dijamin oleh UUD 1945. \nb. Pasal 28D ayat (1) UUD 1945 tentang hak atas kepastian hukum  yang \nadil. \nBahwa hak atas kepastian hukum yang adil merupakan jaminan \nkonstitusional yang memastikan setiap warga negara memperoleh \nperlindungan hukum yang jelas, tegas, dan tidak diskriminatif. \nKepastian hukum ini mencakup kejelasan norma, konsistensi dalam  \npenerapan, serta perlakuan yang sama di hadapan hukum ( equality \nbefore the law). Tanpa adanya\n kepastian hukum, maka akan timbul \nketidakpastian yang dapat merugikan masyarakat dan membuka \npeluang terjadinya penyalahgunaan kewenangan. Dalam hal ini, Pa ra \nPemohon menilai bahwa norma yang dimohonkan pengujian memiliki \nrumusan yang tidak tegas dan berpotensi menimbulkan berbagai \ninterpretasi dalam praktik penegakan hukum. \nKetidakjelasan tersebut dapat mengakibatkan perbedaan \nperlakuan terhadap kasus yang serupa, serta membuka ruang bagi \nsubjektivitas aparat penegak hukum dalam menentukan apakah suat u \nperbuatan termasuk dalam kategori pelanggaran atau tidak. Bahwa  \nkondisi tersebut pada akhirnya dapat merugikan Para Pemohon \nsebagai warga negara, karena mereka tidak memperoleh kepastian \nmengenai batasan perilaku yang diperbolehkan dan yang dilarang oleh \nhukum. Oleh karena itu, pengujian terhadap norma tersebut menja di \npenting untuk memastikan bahwa setiap ketentuan hukum yang berlaku \ntelah memenuhi prinsip kepastian hukum yang adil sebagaimana \ndijamin dalam UUD 1945, serta memberikan perlindungan yang optimal \nterhadap hak-hak konstitusional warga negara. \n \n \n\n \n \n17",
+      "start_line": 519,
+      "end_line": 606
+    },
+    {
+      "heading": "5. Bahwa Pemohon I (Nova Ayu Br. Simanjuntak)",
+      "slug": "5-bahwa-pemohon-i-nova-ayu-br-simanjuntak",
+      "text": "Merupakan mahasiswa aktif yang tidak hanya berfokus pada \nkegiatan akademik semata, tetapi juga memiliki keterlibatan yan g tinggi \ndalam dinamika sosial kemasyarakatan, khususnya melalui pemanfa atan \nmedia elektronik dan media sosial sebagai sarana utama dalam \nmengekspresikan pemikiran, gagasan, serta sikap kritis terhadap berbagai \nisu publik. Dalam perkembangan era digital saat ini, media sosi al telah \nbertransformasi menjadi ruang publik yang sangat strategis, di mana setiap \nindividu memiliki kesempatan yang sama untuk berpartisipasi dal am \ndiskursus publik tanpa dibatasi oleh ruang dan waktu. Dalam kon teks \ntersebut, Pemohon I secara aktif memanfaatkan berbagai platform  digital \nsebagai medium untuk menyampaikan pendapat, melakukan advokasi,  \nserta mengedukasi masyarakat terkait isu-isu yang dianggap pent ing dan \nrelevan. \nBahwa sebagai mahasiswa Fakultas Hukum, Pemohon I memiliki \nkapasitas intelektual serta pemahaman yang cukup terhadap berba gai \naspek hukum, termasuk isu-isu yang berkaitan dengan hak asasi manusia, \nkebijakan publik, serta perlindungan lingkungan hidup. Dengan l atar \nbelakang tersebut, Pemohon I tidak hanya berperan sebagai pengg una \nmedia sosial secara pasif, melainkan juga sebagai individu yang  secara \naktif membangun narasi kritis dan argumentatif terhadap berbaga i \nkebijakan yang dinilai berdampak pada kepentingan masyarakat lu as. \nAktivitas ini dilakukan dalam bentuk penulisan opini, unggahan analisis \nsingkat, partisipasi dalam diskusi daring, serta penyebarluasan  in f ormas i \nyang bertujuan untuk meningkatkan kesadaran publik. \nBahwa dalam praktiknya, Pemohon I kerap menyampaikan kritik \nterhadap kebijakan pemerintah maupun pihak-pihak tertentu yang dianggap \ntidak sejalan dengan prinsip keadilan, transparansi, dan keberl anjutan, \nkhususnya dalam isu lingkungan hidup dan tata kelola kebijakan publik. \nKritik tersebut disampaikan secara konstruktif dan bertanggung jawab, \ndengan tujuan untuk mendorong perbaikan kebijakan serta memasti kan \nbahwa kepentingan masyarakat tetap menjadi prioritas utama. Dal am hal \nini, Pemohon I menjalankan peran sebagai bagian dari masyarakat  s i p i l  \nyang aktif, yang tidak hanya menjadi objek kebijakan, tetapi ju ga subjek \n\n \n \n18 \nyang memiliki hak untuk menyuarakan aspirasi dan melakukan kont rol \nsosial. Bahwa aktivitas Pemohon I dalam menggunakan media elekt ronik \nsebagai sarana berekspresi merupakan manifestasi langsung dari \npelaksanaan hak konstitusional yang dijamin oleh Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945, khususnya hak atas kebeba san \nmengeluarkan pendapat. Hak ini merupakan salah satu pilar utama  dalam \nsistem demokrasi, yang memungkinkan terjadinya pertukaran ide, kritik, \ndan gagasan secara terbuka. Tanpa adanya jaminan terhadap kebeb asan \nini, maka ruang publik akan menjadi sempit dan tidak lagi mence rminkan \nprinsip demokrasi yang sehat. \nKeberadaan ketentuan dalam Undang-Undang Informasi dan \nTransaksi Elektronik, khususnya yang berkaitan dengan pencemaran nama \nbaik, menimbulkan kekhawatiran yang nyata bagi Pemohon I dalam \nmenjalankan aktivitas tersebut. Rumusan norma yang tidak tegas dan \ncenderung multitafsir berpotensi menimbulkan ketidakpastian huk um, \nsehingga setiap pernyataan atau kritik yang disampaikan melalui  m e d i a  \nsosial dapat ditafsirkan secara berbeda oleh pihak lain. Hal ini menimbulkan \nrisiko kriminalisasi terhadap ekspresi yang seharusnya dilindun gi oleh \nkonstitusi. Bahwa kondisi tersebut menciptakan apa yang dikenal  sebagai \nchilling effect, yaitu suatu keadaan di mana individu menjadi enggan atau \ntakut untuk menyampaikan pendapat karena adanya ancaman sanksi \nhukum. Dalam konteks ini, Pemohon I sebagai pengguna aktif media sosial \nmerasakan adanya tekanan psikologis dan kekhawatiran bahwa \naktivitasnya dalam menyampaikan pendapat dapat berujung pada \nkonsekuensi hukum. Hal ini secara langsung menghambat kebebasan  \nberekspresi yang seharusnya dijamin dan dilindungi oleh negara. \nSebagai individu yang terlibat dalam isu lingkungan hidup, Pemohon \nI juga sering menyuarakan kritik terhadap berbagai kebijakan at au praktik \nyang berpotensi merusak lingkungan. Dalam konteks ini, keberanian untuk \nmenyampaikan pendapat menjadi sangat penting, mengingat isu \nlingkungan seringkali melibatkan kepentingan yang besar dan kom pleks. \nNamun, dengan adanya potensi penggunaan pasal-pasal dalam UU IT E \nuntuk membungkam kritik, maka ruang bagi advokasi lingkungan me njadi \nsemakin terbatas. Bahwa Pemoho n I juga memiliki peran sebagai b agian \n\n \n \n19 \ndari generasi muda yang diharapkan dapat menjadi agen perubahan (agent \nof change ) dalam masyarakat. Peran ini tidak hanya diwujudkan melalui \nkegiatan akademik, tetapi juga melalui partisipasi aktif dalam ruang publik, \ntermasuk di media sosial. Oleh karena itu, pembatasan terhadap \nkebebasan berekspresi tidak hanya berdampak pada individu Pemoh on I, \ntetapi juga pada peran strategis generasi muda dalam pembanguna n \ndemokrasi. \nBahwa secara faktual, aktivitas Pemohon I dalam menggunakan \nmedia elektronik sebagai sarana untuk menyampaikan pendapat tel ah \nberlangsung secara konsisten dan berkelanjutan. Hal ini menunju kkan \nbahwa terdapat hubungan langsung antara norma yang diuji dengan  \npotensi kerugian konstitusional yang dialami oleh Pemohon I. De ngan \ndemikian, Pemohon I memiliki kepentingan hukum yang nyata dan relevan \ndalam mengajukan permohonan penguj ian materiil terhadap ketentu an \nyang dimaksud. Dapat disimpulkan bahwa Pemohon I memenuhi selur uh \nunsur kerugian konstitusional sebagaimana disyaratkan dalam dok trin \nMahkamah Konstitusi, baik dari segi keberadaan hak konstitusion al, \nadanya potensi kerugian, maupun hubungan sebab akibat antara no rma \nyang diuji dengan kerugian yang dialami. Dengan demikian, Pemoh on I \nmemiliki kedudukan hukum ( legal standing) yang sah untuk mengajukan \npermohonan dalam perkara a quo, demi melindungi hak konstitusionalnya \nserta memastikan bahwa norma hukum yang berlaku tidak bertentan gan \ndengan prinsip-prinsip yang dijamin dalam Undang-Undang Dasar N egara \nRepublik Indonesia Tahun 1945.",
+      "start_line": 608,
+      "end_line": 706
+    },
+    {
+      "heading": "6. Bahwa dengan berlakunya Pasal 27A dan Pasal 45 ayat (4) Unda ng-",
+      "slug": "6-bahwa-dengan-berlakunya-pasal-27a-dan-pasal-45-ayat-4-unda-ng",
+      "text": "Undang Informasi dan Transaksi Elektronik, Pemohon I secara nya ta \nberada dalam posisi yang rentan terhadap terjadinya kerugian \nkonstitusional, khususnya dalam menjalankan hak atas kebebasan \nberpendapat dan hak atas kepastian hukum yang adil. \nKetentuan tersebut, yang pada dasarnya mengatur mengenai \npencemaran nama baik di ruang digital, memiliki rumusan yang ti dak \nsepenuhnya memberikan batasan yang jelas dan tegas, sehingga \nberpotensi menimbulkan berbagai penafsiran dalam praktiknya. Da lam \nkonteks ini, Pemohon I sebagai individu yang aktif menyampaikan pendapat \n\n \n \n20 \nmelalui media elektronik berada dalam situasi di mana setiap ekspresi yang \ndisampaikan berpotensi dinilai sebagai pelanggaran hukum, meski pun \npada dasarnya merupakan bentuk kritik yang sah dan dilindungi o leh \nkonstitusi. Kondisi demikian tidak hanya berdampak pada aspek h ukum \nsemata, tetapi juga memengaruhi kebebasan psikologis Pemohon I dalam \nberpartisipasi di ruang publik. \nAdapun bentuk kerugian konstitusional yang berpotensi dialami o leh \nPemohon I antara lain: \na. adanya ketidakjelasan batas antara kritik dan pencemaran nam a \nbaik; \nBahwa salah satu permasalahan mendasar dari ketentuan yang diuji \nadalah tidak adanya parameter yang tegas dan objektif dalam \nmembedakan antara kritik yang sah sebagai bagian dari kebebasan  \nberekspresi dengan perbuatan yang dapat dikategorikan sebagai \npencemaran nama baik. Dalam praktiknya, kritik terhadap kebijakan \npublik, tindakan pejabat, maupun fenomena sosial seringkali \nmelibatkan penilaian subjektif dan penggunaan bahasa yang bersifat \nevaluatif. Namun, dengan rumusan norma yang kabur, terdapat \nkemungkinan bahwa kritik tersebut justru ditafsirkan sebagai be ntuk \npenghinaan atau pencemaran nama baik oleh pihak tertentu. \nKetidakjelasan ini menimbulkan ketidakpastian hukum bagi \nPemohon I, karena tidak terdapat standar yang dapat dijadikan \npedoman dalam menentukan batasan perilaku yang diperbolehkan. \nAkibatnya, Pemohon I berada dalam posisi yang dilematis antara \nmenjalankan hak konstitusionalnya atau menghindari risiko hukum  \nyang tidak pasti. \nb. potensi kriminalisasi terhadap pendapat yang disampaikan di ruang \ndigital;  \nBahwa ketentuan dalam Pasal 27A dan Pasal 45 ayat (4) UU ITE \nmembuka peluang terjadinya kriminalisasi terhadap individu yang  \nmenyampaikan pendapat di ruang digital, termasuk Pemohon I. \nKriminalisasi dalam konteks ini tidak selalu berarti bahwa indi vidu \ntersebut benar-benar melakukan perbuatan yang melanggar \nhukum secara substansial, tetapi lebih kepada\n adanya \n\n \n \n21 \npenggunaan norma hukum untuk membatasi atau menekan \nekspresi yang tidak sejalan dengan kepentingan tertentu. Dalam \npraktiknya, laporan pencemaran nama baik seringkali diajukan \nsebagai respons terhadap kritik atau perbedaan pendapat, sehingga \nmenggeser fungsi hukum dari alat perlindungan menjadi alat \npembatasan. Bagi Pemohon I, kondisi ini menciptakan risiko nyat a \nbahwa setiap unggahan, komentar, atau opini yang disampaikan \ndapat berujung pada proses hukum, meskipun dilakukan dengan \nitikad baik dan untuk kepentingan publik. Hal ini tentu bertent angan \ndengan prinsip perlindungan hak konstitusional warga negara.",
+      "start_line": 708,
+      "end_line": 769
+    },
+    {
+      "heading": "c. timbulnya rasa takut untuk menyampaikan pendapat secara beba s.",
+      "slug": "c-timbulnya-rasa-takut-untuk-menyampaikan-pendapat-secara-beba-s",
+      "text": "Bahwa akibat dari ketidakjelasan norma dan potensi kriminalisas i \ntersebut, timbul rasa takut ( chilling effect ) yang secara nyata \nmemengaruhi kebebasan Pemohon I dalam menyampaikan \npendapat. Rasa takut ini tidak hanya bersifat hipotetis, tetapi  \nmerupakan konsekuensi logis dari adanya ancaman sanksi pidana \nyang dapat dikenakan sewaktu-waktu. Dalam kondisi demikian, \nPemohon I menjadi cenderung membatasi diri, mengurangi \nintensitas partisipasi, atau bahkan memilih untuk tidak \nmenyampaikan pendapat sama sekali demi menghindari risiko \nhukum. Hal ini pada akhirnya menghambat pelaksanaan hak \nkonstitusional yang seharusnya dijamin oleh negara, serta \nmengurangi kualitas partisipasi masyarakat dalam kehidupan \ndemokrasi. Apabila kondisi ini terus berlangsung, maka ruang publik \nakan kehilangan dinamika kritis yang diperlukan untuk menjaga \nakuntabilitas dan transparansi dalam penyelenggaraan \npemerintahan. \nBahwa dengan demikian, dapat disimpulkan bahwa berlakunya \nketentuan Pasal 27A dan Pasal 45 ayat (4) UU ITE tidak hanya be rpotensi \nmenimbulkan kerugian konstitusional bagi Pemohon I secara indiv idual, \ntetapi juga berdampak lebih luas terhadap iklim kebebasan berek spresi di \nmasyarakat. Oleh karena itu, pengujian terhadap norma tersebut menjadi \nsangat penting untuk memastikan bahwa perlindungan terhadap hak  \nkonstitusional tetap terjaga dan tidak tergerus oleh ketentuan hukum yang \n\n \n \n22 \ntidak proporsional.",
+      "start_line": 771,
+      "end_line": 798
+    },
+    {
+      "heading": "7. Bahwa kondisi sebagaimana telah diuraikan sebelumnya secara nyata",
+      "slug": "7-bahwa-kondisi-sebagaimana-telah-diuraikan-sebelumnya-secara-nyata",
+      "text": "menempatkan Pemohon I dalam situasi yang tidak memperoleh jamin an \nkepastian hukum yang adil sebagaimana diatur dalam Pasal 28D ay at (1) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945. \nKetidakjelasan norma yang terkandung dalam Pasal 27A dan Pasal \n45 ayat (4) Undang-Undang Informasi dan Transaksi Elektronik te lah \nmenciptakan ruang interpretasi yang luas dan tidak seragam, seh ingga \nberpotensi menimbulkan perbedaan penerapan hukum dalam kasus \nyang serupa. Dalam keadaan demikian, Pemohon I sebagai warga ne gara \ntidak memiliki kepastian mengenai batasan perilaku yang diperbo lehkan \ndan yang dilarang oleh hukum, khususnya dalam menyampaikan pendapat \nmelalui media elektronik. Ketidakpastian ini bertentangan denga n prinsip \ndasar negara hukum yang mensyaratkan bahwa setiap norma hukum harus \ndirumuskan secara jelas, tegas, dan dapat dipahami oleh setiap orang. \nBahwa kepastian hukum yang adil tidak hanya berkaitan dengan \nkeberadaan aturan tertulis, tetapi juga mencakup aspek kejelasa n norma, \nkonsistensi dalam penegakan, serta perlindungan terhadap hak-ha k \nindividu dari tindakan sewenang-wenang. \nDalam konteks ini, Pemohon I menghadapi risiko bahwa penilaian \nterhadap suatu pernyataan atau pendapat sangat bergantung pada \nsubjektivitas pihak lain, baik pelapor maupun aparat penegak hu kum. Hal \nini membuka peluang terjadinya penegakan hukum yang tidak konsi sten \ndan berpotensi diskriminatif, yang pada akhirnya merugikan Pemo hon I \nsebagai subjek hukum yang seharusnya dilindungi oleh konstitusi . Bahwa \nlebih lanjut, kondisi tersebut juga secara langsung mengancam h ak \nkebebasan berpendapat Pemohon I sebagaimana dijamin dalam Pasal 28E \nayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 19 45. \nHak ini merupakan salah satu hak fundamental yang memungkinkan setiap \nwarga negara untuk menyampaikan pikiran, gagasan, serta kritik terhadap \nberbagai persoalan tanpa rasa takut akan adanya tekanan atau ancaman. \nAdanya norma yang tidak memberikan batasan yang jelas, \nkebebasan tersebut menjadi tereduksi secara tidak langsung, kar ena \nPemohon I harus mempertimbangkan risiko hukum dalam setiap \n\n \n \n23 \npernyataan yang disampaikan. Bahwa ancaman terhadap kebebasan \nberpendapat ini tidak selalu berbentuk pembatasan secara ekspli sit, \nmelainkan seringkali muncul dalam bentuk tekanan psikologis yang dikenal \nsebagai chilling effect. Dalam situasi ini, Pemohon I menjadi enggan untuk \nmenyampaikan pendapat secara terbuka karena adanya kekhawatiran  \nakan kemungkinan diproses secara hukum. Rasa takut tersebut pad a \nakhirnya membatasi ruang gerak Pemohon I dalam mengekspresikan diri, \nsehingga hak konstitusional yang seharusnya dapat dinikmati secara penuh \nmenjadi tereduksi secara signifikan. Bahwa dalam konteks kehidu pan \ndemokrasi, kondisi demikian sangat merugikan tidak hanya bagi P emohon \nI secara individu, tetapi juga bagi masyarakat secara keseluruhan. \nKebebasan berpendapat merupakan salah satu pilar utama dalam \nmenjaga keberlangsungan demokrasi, karena memungkinkan adanya \npertukaran ide, kritik terhadap kebijakan, serta partisipasi ak tif warga \nnegara dalam proses pengambilan keputusan. Apabila kebebasan \ntersebut terhambat akibat ketidakpastian hukum, maka kualitas d emokrasi \nitu sendiri akan mengalami penurunan. Bahwa Pemohon I sebagai \nmahasiswa dan bagian dari masyarakat sipil memiliki peran penti ng dalam \nmenyuarakan aspirasi serta melakukan kontrol sosial terhadap ke bijakan \npublik. Namun, dengan adanya potensi ancaman hukum yang timbul dari \nketentuan yang diuji, peran tersebut menjadi tidak optimal karena dibayangi \noleh risiko yang tidak jelas. \nHal ini menunjukkan bahwa norma yang diuji tidak hanya berdampak \npada aspek hukum, tetapi juga pada fungsi sosial dan demokratis  y a n g  \nseharusnya dijalankan oleh warga negara. Bahwa oleh karena itu,  dapat \ndisimpulkan bahwa berlakunya ketentuan Pasal 27A dan Pasal 45 ayat (4) \nUndang-Undang Informasi dan Transaksi Elektronik telah menimbul kan \nkondisi yang merugikan Pemohon I secara konstitusional, baik dalam aspek \nkepastian hukum maupun kebebasan berpendapat. Ketidakjelasan no rma \ntersebut menciptakan ketidakpastian hukum yang tidak adil, seka ligus \nmengancam kebebasan berekspresi yang dijamin oleh konstitusi. pengujian \nterhadap ketentuan tersebut menjadi sangat penting untuk memast ikan \nbahwa setiap norma hukum yang berlaku telah sesuai dengan prins ip-\nprinsip konstitusional, serta memberikan perlindungan yang opti mal \n\n \n \n24 \nterhadap hak-hak warga negara. Pemohon I sebagai pihak yang sec ara \nlangsung terdampak memiliki kepentingan yang nyata dan relevan untuk \nmengajukan permohonan ini, guna memperoleh jaminan kepastian hu kum \nyang adil serta perlindungan terhadap kebebasan berpendapat \nsebagaimana dijamin dalam Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945.",
+      "start_line": 800,
+      "end_line": 879
+    },
+    {
+      "heading": "8. Bahwa Pemohon II (Diva Maharani Dewiantoro) juga merupakan",
+      "slug": "8-bahwa-pemohon-ii-diva-maharani-dewiantoro-juga-merupakan",
+      "text": "mahasiswa yang memiliki kepentingan konstitusional yang sama de ngan \nPemohon I, yaitu sebagai bagian dari masyarakat yang aktif dala m ruang \ndigital serta secara langsung memanfaatkan perkembangan teknolo gi \ninformasi sebagai sarana untuk berpartisipasi dalam kehidupan s osial dan \ndemokrasi. \nDalam konteks perkembangan era digital saat ini, ruang digital tidak \nlagi sekadar menjadi media komunikasi, melainkan telah bertrans formasi \nmenjadi ruang publik yang strategis, di mana setiap individu me miliki \nkesempatan untuk menyampaikan pendapat, bertukar gagasan, serta  \nterlibat dalam berbagai isu yang berkaitan dengan kepentingan masyarakat \nluas. Dalam posisi tersebut, Pemohon II tidak hanya berperan se bagai \npengguna pasif, tetapi juga sebagai individu yang aktif berkontribusi dalam \ndinamika diskursus publik melalui media elektronik. Bahwa sebag ai \nmahasiswa, Pemohon II memiliki kesadaran intelektual dan tanggung jawab \nmoral untuk terlibat dalam pembahasan isu-isu yang berkembang d i \nmasyarakat, termasuk isu hukum, sosial, kebijakan publik, serta  i s u - i s u  \nyang berkaitan dengan kepentingan umum. Partisipasi tersebut diwujudkan \nmelalui aktivitas di media sosial, seperti menyampaikan opini, memberikan \ntanggapan terhadap kebijakan, serta berinteraksi dalam diskusi publik yang \nberkembang di ruang digital. \nDalam hal ini, Pemohon II menjalankan fungsi sebagai bagian dar i \nmasyarakat sipil yang memiliki peran penting dalam menjaga akun tabilitas \ndan transparansi dalam penyelenggaraan pemerintahan. Bahwa akti vitas \nPemohon II dalam ruang digital merupakan bentuk konkret dari \npelaksanaan hak konstitusional sebagaimana dijamin dalam Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945, khususnya ha k \natas kebebasan mengeluarkan pendapat dan hak untuk memperoleh serta \n\n \n \n25 \nmenyampaikan informasi. Hak tersebut menjadi sangat relevan dal am era \ndigital, di mana akses terhadap informasi dan kebebasan bereksp resi \nmenjadi elemen utama dalam membangun masyarakat yang demokratis  \ndan partisipatif. Setiap individu, termasuk Pemohon II, memiliki kepentingan \nuntuk memastikan bahwa ruang digital tetap menjadi ruang yang a man, \nterbuka, dan tidak dibatasi secara berlebihan oleh norma hukum yang tidak \njelas. \nBerlakunya ketentuan dalam Undang-Undang Informasi dan \nTransaksi Elektronik, khususnya Pasal 27A dan Pasal 45 ayat (4) , \nPemohon II menghadapi potensi risiko hukum yang dapat memengaru hi \nkebebasannya dalam menyampaikan pendapat. Ketentuan tersebut, y ang \nmengatur mengenai pencemaran nama baik di ruang digital, memili ki \nrumusan yang berpotensi menimbulkan multitafsir, sehingga membu ka \nkemungkinan bahwa setiap pendapat atau kritik yang disampaikan dapat \ndianggap sebagai pelanggaran hukum. Kondisi ini menimbulkan \nkekhawatiran yang nyata bagi Pemohon II dalam menjalankan aktivitasnya",
+      "start_line": 881,
+      "end_line": 927
+    },
+    {
+      "heading": "di ruang digital. Bahwa sebagai individu yang aktif dalam menya mpaikan",
+      "slug": "di-ruang-digital-bahwa-sebagai-individu-yang-aktif-dalam-menya-mpaikan",
+      "text": "pendapat melalui media elektronik, Pemohon II berada dalam posi si yang \nrentan terhadap potensi kriminalisasi akibat penerapan norma ya ng tidak \njelas tersebut. \nRisiko ini tidak hanya bersifat teoritis, tetapi merupakan konsekuensi \nnyata dari adanya ketentuan hukum yang dapat digunakan secara l uas \nuntuk menafsirkan berbagai bentuk ekspresi sebagai pelanggaran.  Dalam \nsituasi demikian, Pemohon II menghadapi dilema antara menjalank an hak \nkonstitusionalnya atau menghindari potensi risiko hukum yang da pat \ntimbul. Bahwa lebih lanjut, kondisi tersebut juga menimbulkan t ekanan \npsikologis yang memengaruhi kebebasan Pemohon II dalam berekspr esi, \nyang dikenal sebagai chilling effect . Pemohon II menjadi cenderung \nmembatasi diri dalam menyampaikan pendapat, mengurangi partisip asi \ndalam diskursus publik, atau bahkan memilih untuk tidak menyamp aikan \nopini sama sekali demi menghindari kemungkinan diproses secara hukum. \nHal ini menunjukkan bahwa norma yang diuji tidak hanya berdampak pada \naspek hukum, tetapi juga pada aspek kebebasan individu dalam \nmenjalankan hak konstitusionalnya. Bahwa sebagai bagian dari ge nerasi \n\n \n \n26 \nmuda, Pemohon II memiliki peran strategis dalam pembangunan \ndemokrasi, khususnya dalam mendorong terciptanya ruang publik y ang \nkritis, terbuka, dan partisipatif. \nAdanya potensi pembatasan yang timbul dari norma yang diuji, \nperan tersebut menjadi terhambat, sehingga kontribusi Pemohon I I dalam \nkehidupan demokrasi tidak dapat berjalan secara optimal. Hal in i pada \nakhirnya tidak hanya merugikan Pemohon II secara individu, teta pi juga \nberdampak pada kualitas partisipasi masyarakat secara keseluruh an. \nBahwa secara faktual dan yuridis, Pemohon II memiliki kepenting an \nlangsung terhadap pengujian norma yang dimohonkan dalam perkara  a \nquo, mengingat aktivitasnya yang aktif dalam ruang digital memilik i \nketerkaitan erat dengan potensi kerugian konstitusional yang di timbulkan \noleh berlakunya ketentuan tersebut. Pemohon II memenuhi unsur s ebagai \npihak yang dirugikan secara konstitusional sebagaimana disyaratkan dalam \nhukum acara Mahkamah Konstitusi. Bahwa oleh karena itu, dapat \ndisimpulkan bahwa Pemohon II memiliki kedudukan hukum (legal standing) \nyang sah untuk mengajukan permohonan ini, karena memiliki hak \nkonstitusional yang dijamin oleh UUD 1945 serta menghadapi pote nsi \nkerugian yang nyata akibat berlakunya norma yang diuji. Keterli batan \nPemohon II dalam permohonan ini merupakan bentuk upaya konstitusional \nuntuk melindungi hak-haknya sebagai warga negara serta untuk \nmemastikan bahwa norma hukum yang berlaku tetap sejalan dengan \nprinsip-prinsip konstitusi.",
+      "start_line": 929,
+      "end_line": 972
+    },
+    {
+      "heading": "9. Bahwa Pemohon II berpotensi mengalami kerugian konstitusiona l akibat",
+      "slug": "9-bahwa-pemohon-ii-berpotensi-mengalami-kerugian-konstitusiona-l-akibat",
+      "text": "berlakunya Pasal a quo, yaitu Pasal 27A dan Pasal 45 ayat (4) Undang-\nUndang Informasi dan Transaksi Elektronik, yang dalam praktikny a \nmenimbulkan berbagai permasalahan yuridis maupun sosiologis, \nkhususnya terkait dengan perlindungan terhadap kebebasan bereks presi \ndan kepastian hukum yang adil. \nSebagai individu yang aktif dalam ruang digital, Pemohon II ber ada \ndalam posisi yang secara langsung terdampak oleh keberlakuan no rma \ntersebut, karena setiap aktivitasnya dalam menyampaikan pendapat, kritik, \nmaupun opini melalui media elektronik berpotensi dikaitkan deng an \nketentuan pencemaran nama baik. Dalam konteks ini, ketidakjelasan norma \n\n \n \n27 \nserta potensi penyalahgunaan dalam penerapannya menimbulkan ris iko \nnyata terhadap hak konstitusional Pemohon II, baik secara aktua l maupun \npotensial. \nAdapun bentuk kerugian konstitusional yang berpotensi dialami o leh \nPemohon II antara lain sebagai berikut: \na. adanya sifat multitafsir dalam norma pencemaran nama baik; \nBahwa salah satu persoalan utama dalam ketentuan Pasal a quo  \nadalah adanya sifat multitafsir dalam perumusan norma pencemaran \nnama baik, yang tidak memberikan batasan yang jelas dan tegas \nmengenai unsur-unsur perbuatan yang dilarang. Rumusan norma \nyang demikian membuka ruang interpretasi yang luas, baik oleh \nmasyarakat maupun oleh aparat penegak hukum, sehingga \nmemungkinkan terjadinya perbedaan penafsiran terhadap suatu \nperbuatan yang sama. Dalam praktiknya, suatu pernyataan yang \ndimaksudkan sebagai kritik konstruktif dapat dengan mudah \nditafsirkan sebagai penghinaan atau pencemaran nama baik oleh \npihak tertentu, tergantung pada sudut pandang yang digunakan. \nKondisi ini menimbulkan ketidakpastian hukum bagi Pemohon II, \nkarena tidak terdapat parameter objektif yang dapat dijadikan \npedoman dalam menentukan batasan antara ekspresi yang sah dan \nperbuatan yang dilarang. Akibatnya, Pemohon II berada dalam posisi \nyang tidak pasti dalam menjalankan haknya untuk menyampaikan \npendapat di ruang digital. \nb. potensi penyalahgunaan pasal untuk membatasi kritik terhadap  \nkebijakan publik; \nBahwa ketentuan dalam Pasal a quo  juga membuka peluang \nterjadinya penyalahgunaan norma hukum untuk tujuan yang tidak \nsejalan dengan semangat perlindungan hak asasi manusia, \nkhususnya dalam konteks pembatasan kritik terhadap kebijakan \npublik. Dalam praktiknya, tidak jarang ketentuan pencemaran nam a \nbaik digunakan sebagai alat untuk merespons kritik yang \ndisampaikan oleh masyarakat terhadap pejabat publik atau kebijakan \ntertentu. Hal ini berpotensi menggeser fungsi hukum dari instru men \nperlindungan menjadi instrumen pembatasan, yang pada akhirnya \n\n \n \n28 \ndapat membungkam suara kritis masyarakat. Bagi Pemohon II, \nkondisi ini menimbulkan kekhawatiran bahwa setiap kritik yang \ndisampaikan, meskipun dilakukan dengan itikad baik dan \nberdasarkan fakta, dapat dianggap sebagai pelanggaran hukum dan \nberujung pada proses pidana. Risiko ini tidak hanya menghambat \nkebebasan berekspresi, tetapi juga mengurangi partisipasi \nmasyarakat dalam proses demokrasi, yang seharusnya dijamin dan \ndilindungi oleh konstitusi.",
+      "start_line": 974,
+      "end_line": 1033
+    },
+    {
+      "heading": "c. ketidakpastian hukum dalam menentukan batas antara kritik da n",
+      "slug": "c-ketidakpastian-hukum-dalam-menentukan-batas-antara-kritik-da-n",
+      "text": "penghinaan. Bahwa ketidakjelasan norma dalam Pasal a quo  \njuga berimplikasi pada munculnya ketidakpastian hukum dalam \nmenentukan batas antara kritik yang sah dengan penghinaan yang \ndapat dipidana. Dalam sistem hukum yang ideal, setiap norma \nharus dirumuskan secara jelas dan dapat dipahami oleh \nmasyarakat, sehingga memberikan kepastian mengenai apa yang \ndiperbolehkan dan apa yang dilarang. Namun, dalam ketentuan \nyang diuji, batas tersebut menjadi kabur, sehingga menimbulkan \nkesulitan bagi Pemohon II dalam menilai apakah suatu pernyataan  \nyang disampaikan masih berada dalam koridor kebebasan \nberekspresi atau telah melampaui batas menjadi penghinaan. \nKetidakpastian ini tidak hanya berdampak pada aspek hukum, \ntetapi juga menciptakan tekanan psikologis yang membuat \nPemohon II cenderung membatasi diri dalam menyampaikan \npendapat. Dalam jangka panjang, kondisi ini dapat menghambat \nperkembangan ruang publik yang sehat dan demokratis, karena \nmasyarakat menjadi enggan untuk berpartisipasi secara aktif dal am \ndiskursus publik. \nBahwa dengan demikian, dapat disimpulkan bahwa berlakunya Pasal \na quo telah menimbulkan potensi kerugian konstitusional yang nyata b agi \nPemohon II, baik dalam aspek kebebasan berekspresi maupun kepas tian \nhukum yang adil. Oleh karena itu, pengujian terhadap norma ters ebut \nmenjadi sangat penting untuk memastikan bahwa setiap ketentuan hukum \nyang berlaku telah sesuai dengan prinsip-prinsip konstitusional  serta tidak \n\n \n \n29 \nmenimbulkan pembatasan yang berlebihan terhadap hak-hak warga \nnegara.",
+      "start_line": 1035,
+      "end_line": 1064
+    },
+    {
+      "heading": "10. Bahwa dengan demikian, Pemohon II secara nyata berada dalam kondisi",
+      "slug": "10-bahwa-dengan-demikian-pemohon-ii-secara-nyata-berada-dalam-kondisi",
+      "text": "yang menghadapi ancaman serius terhadap hak kebebasan berpendap at \nserta hak atas kepastian hukum yang adil sebagaimana dijamin da lam \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945. \nAncaman tersebut tidak hanya bersifat teoritis atau abstrak, \nmelainkan memiliki potensi konkret untuk terjadi dalam setiap a ktivitas \nPemohon II di ruang digital, khususnya ketika menyampaikan pend apat, \nkritik, maupun aspirasi terkait isu-isu publik. Dalam konteks ini, keberlakuan \nnorma dalam Pasal a quo  telah menciptakan situasi yang tidak kondusif \nbagi pelaksanaan hak konstitusional, karena adanya ketidakjelas an \nbatasan hukum serta potensi penafsiran yang luas dan tidak sera gam. \nBahwa hak kebebasan berpendapat merupakan salah satu hak \nfundamental yang menjadi pilar utama dalam sistem demokrasi, ya ng \nmemberikan jaminan kepada setiap warga negara untuk menyampaika n \npikiran, gagasan, serta kritik secara bebas dan bertanggung jaw ab. \nKeberadaan norma yang tidak jelas dan berpotensi multitafsir te lah \nmenimbulkan pembatasan tidak langsung terhadap hak tersebut. \nPemohon II sebagai individu yang aktif dalam ruang digital menj adi \nberada dalam posisi yang rentan, di mana setiap pernyataan yang  \ndisampaikan dapat ditafsirkan secara berbeda dan berpotensi \nmenimbulkan konsekuensi hukum. Hal ini secara nyata mengurangi ruang \nkebebasan yang seharusnya dimilik i oleh Pemohon II sebagai warg a \nnegara. Bahwa lebih lanjut, ancaman terhadap hak kebebasan \nberpendapat tersebut juga menimbulkan dampak psikologis yang \nsignifikan, yang dikenal sebagai chilling effect. Dalam kondisi ini, Pemohon \nII menjadi cenderung menahan diri, membatasi ekspresi, atau bah kan \nmenghindari penyampaian pendapat secara terbuka demi menghindar i \nrisiko hukum yang tidak pasti. Rasa takut ini tidak hanya berda mpak pada \nindividu Pemohon II, tetapi juga berimplikasi pada berkurangnya partisipasi \nmasyarakat dalam ruang publik, yang pada akhirnya dapat melemah kan \nkualitas demokrasi secara keseluruhan. \nBahwa di sisi lain, hak atas kepastian hukum yang adil sebagaimana \n\n \n \n30 \ndijamin dalam UUD 1945 juga menjadi terancam akibat keberlakuan norma \nyang tidak memberikan kejelasan mengenai batasan antara perbuat an \nyang diperbolehkan dan yang dilarang. Kepastian hukum merupakan  \nprinsip dasar dalam negara hukum yang mengharuskan setiap norma  \ndirumuskan secara jelas, tegas, dan tidak menimbulkan ambiguita s. \nNamun, dalam hal ini, Pemohon II tidak memperoleh kepastian ter sebut, \nkarena norma yang diuji membuka ruang interpretasi yang luas da n \nberpotensi menimbulkan perbedaan penerapan dalam praktik penega kan \nhukum. Bahwa ketidakpastian hukum ini juga berpotensi menimbulk an \nperlakuan yang tidak adil dan tidak konsisten terhadap individu yang berada \ndalam situasi yang sama. Penilaian terhadap suatu pernyataan at au \npendapat menjadi sangat bergantung pada subjektivitas pihak lai n, baik \npelapor maupun aparat penegak hukum, sehingga membuka peluang \nterjadinya penyalahgunaan kewenangan. Dalam kondisi demikian, \nPemohon II tidak hanya menghadapi risiko hukum yang tidak pasti , tetapi \njuga tidak memperoleh jaminan perlindungan hukum yang seharusny a \ndiberikan oleh negara. Bahwa sebagai mahasiswa dan bagian dari \nmasyarakat sipil, Pemohon II memiliki peran penting dalam menyampaikan \naspirasi, melakukan kontrol sosial, serta berpartisipasi dalam pembentukan \nopini publik. \nAdanya ancaman terhadap hak kebebasan berpendapat dan \nkepastian hukum tersebut, peran tersebut menjadi tidak dapat di jalankan \nsecara optimal. Pemohon II menjadi dihadapkan pada dilema antar a \nmenjalankan hak konstitusionalnya atau menghindari potensi risi ko hukum \nyang dapat timbul dari setiap ekspresi yang disampaikan. Bahwa kondisi ini \npada akhirnya menunjukkan bahwa norma yang diuji tidak hanya \nberdampak pada aspek hukum semata, tetapi juga memengaruhi dinamika \nsosial dan demokrasi secara lebih luas. Pembatasan terhadap keb ebasan \nberekspresi serta ketidakpastian hukum yang timbul dapat mengha mbat \nterciptanya ruang publik yang terbuka, kritis, dan partisipatif . Hal ini \nbertentangan dengan semangat konstitusi yang menjamin perlindun gan \nterhadap hak-hak warga negara serta mendorong partisipasi aktif  d a l a m  \nkehidupan berbangsa dan bernegara. \nDisimpulkan bahwa Pemohon II secara nyata mengalami ancaman \n\n \n \n31 \nterhadap hak konstitusionalnya, baik dalam hal kebebasan berpen dapat \nmaupun kepastian hukum yang adil, akibat berlakunya ketentuan P asal a \nquo. Ancaman tersebut memiliki hubungan langsung dengan aktivitas \nPemohon II di ruang digital, sehingga memenuhi unsur kerugian \nkonstitusional sebagaimana disyaratkan dalam hukum acara Mahkam ah \nKonstitusi. Dengan demikian, Pemohon II memiliki kepentingan hu kum \nyang sah dan relevan untuk mengajukan permohonan pengujian materiil ini, \nsebagai bentuk upaya konstitusional untuk melindungi hak-haknya  s e r t a  \nmemastikan bahwa setiap norma hukum yang berlaku telah sesuai dengan \nprinsip-prinsip yang dijamin dalam Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945.",
+      "start_line": 1066,
+      "end_line": 1149
+    },
+    {
+      "heading": "11. Bahwa menurut Para Pemohon, ketentuan Pasal 27A dan Pasal 45 ayat (4)",
+      "slug": "11-bahwa-menurut-para-pemohon-ketentuan-pasal-27a-dan-pasal-45-ayat-4",
+      "text": "Undang-Undang Informasi dan Transaksi Elektronik telah menimbul kan \npersoalan serius dalam tataran konstitusional, khususnya terkai t dengan \njaminan kepastian hukum yang adil serta perlindungan terhadap \nkebebasan berekspresi warga negara. \nNorma yang terkandung dalam pasal-pasal tersebut tidak \ndirumuskan secara jelas dan tegas, sehingga membuka ruang inter pretasi \nyang sangat luas dalam praktik penegakan hukum. Ketidakjelasan ini pada \nakhirnya menciptakan kondisi di mana warga negara, termasuk Par a \nPemohon, tidak memiliki pedoman yang pasti dalam menentukan batasan \nantara perbuatan yang diperbolehkan dengan yang dilarang, khusu snya \ndalam menyampaikan pendapat melalui media elektronik. Bahwa \nketidakpastian hukum tersebut tidak hanya bersifat normatif, te tapi juga \nberdampak nyata dalam kehidupan sehari-hari, terutama dalam kon teks \npenggunaan ruang digital yang semakin intensif. Dalam situasi d i mana \nmasyarakat активно berinteraksi dan menyampaikan pendapat melal ui \nmedia sosial, keberadaan norma yang multitafsir berpotensi meni mbulkan \nkekhawatiran bahwa setiap ekspresi, kritik, atau opini yang dis ampaikan \ndapat dianggap sebagai pelanggaran hukum. \nKondisi ini menimbulkan ketidakpastian yang signifikan bagi Par a \nPemohon dalam menjalankan hak konstitusionalnya, karena tidak a danya \nbatasan yang jelas mengenai apa yang dimaksud dengan pencemaran  \nnama baik dalam konteks digital. Bahwa lebih lanjut, ketentuan tersebut \n\n \n \n32 \njuga berpotensi membatasi kebebasan berekspresi warga negara se cara \ntidak proporsional. Kebebasan berekspresi sebagaimana dijamin d alam \nPasal 28E ayat (3) Undang-Undang Dasar Negara Republik Indonesi a \nTahun 1945 merupakan salah satu hak fundamental yang menjadi da sar \ndalam kehidupan demokrasi. Hak ini memberikan ruang bagi setiap  warga \nnegara untuk menyampaikan pendapat, gagasan, serta kritik terha dap \nberbagai persoalan, termasuk kebijakan publik. Namun, dengan ad anya \nnorma yang tidak memberikan batasan yang jelas, kebebasan terse but \nmenjadi tereduksi karena adanya ancaman sanksi pidana yang dapa t \ndikenakan sewaktu-waktu. Bahwa dalam praktiknya, kondisi ini \nmenimbulkan apa yang dikenal sebagai chilling effect, yaitu situasi di mana \nindividu menjadi enggan atau takut untuk menyampaikan pendapat karena \nkhawatir akan konsekuensi hukum yang mungkin timbul. \nPara Pemohon sebagai individu yang aktif dalam ruang digital \nmerasakan adanya tekanan untuk membatasi diri dalam menyampaika n \nopini, khususnya yang bersifat kritis terhadap kebijakan atau pihak tertentu. \nHal ini menunjukkan bahwa norma yang diuji tidak hanya membatasi secara \nlangsung, tetapi juga menciptakan pembatasan tidak langsung mel alui \ntekanan psikologis yang memengaruhi kebebasan individu. Bahwa d i sisi \nlain, ketidakpastian hukum yang ditimbulkan oleh ketentuan ters ebut juga \nbertentangan dengan prinsip kepastian hukum yang adil sebagaima na \ndijamin dalam Pasal 28D ayat (1) UUD 1945. Kepastian hukum yang  adil \nmensyaratkan bahwa setiap norma hukum harus dirumuskan secara jelas, \ntidak multitafsir, serta dapat dipahami oleh masyarakat secara umum. \nSelain itu, penerapan hukum juga harus dilakukan secara konsist en dan \ntidak diskriminatif. Namun, dalam konteks Pasal 27A dan Pasal 45 ayat (4) \nUU ITE, ketidakjelasan norma justru membuka peluang terjadinya \npenegakan hukum yang tidak seragam dan bergantung pada subjekti vitas \naparat penegak hukum. Bahwa kondisi tersebut berpotensi menimbu lkan \nketidakadilan, karena individu yang berada dalam situasi yang sama dapat \ndiperlakukan secara berbeda tergantung pada penafsiran yang digunakan. \nHal ini tidak hanya merugikan Para Pemohon secara individu, tetapi \njuga menciptakan ketidakpercayaan masyarakat terhadap sistem hu kum \nsecara keseluruhan. Dalam jangka panjang, ketidakpastian hukum yang \n\n \n \n33 \ndemikian dapat melemahkan prinsip negara hukum yang seharusnya \nmenjamin perlindungan terhadap hak-hak warga negara. Bahwa Para  \nPemohon juga berpendapat bahwa pembatasan terhadap kebebasan \nberekspresi memang dimungkinkan dalam kerangka hukum, namun har us \ndilakukan secara ketat, proporsional, dan berdasarkan alasan ya ng sah \nsebagaimana diatur dalam konstitusi. Pembatasan tersebut harus \ndirumuskan secara jelas agar tidak menimbulkan penyalahgunaan d alam \npraktiknya. Namun, dalam hal ini, ketentuan yang diuji justru t idak \nmemenuhi kriteria tersebut, sehingga berpotensi digunakan secar a luas \nuntuk membatasi ekspresi yang seharusnya dilindungi. \nBahwa sebagai warga negara yang aktif dalam menyampaikan \npendapat, Para Pemohon memiliki kepentingan langsung terhadap \nperlindungan hak kebebasan berekspresi serta kepastian hukum yang adil. \nKeberlakuan norma yang tidak jelas tersebut telah menimbulkan \nkekhawatiran yang nyata dalam menjalankan aktivitas di ruang di gital, \nsehingga menghambat partisipasi Para Pemohon dalam diskursus pu blik. \nHal ini menunjukkan adanya hubungan langsung antara norma yang diuji \ndengan kerugian konstitusional yang dialami oleh Para Pemohon. Dapat \ndisimpulkan bahwa ketentuan Pasal 27A dan Pasal 45 ayat (4) UU ITE telah \nmenimbulkan ketidakpastian hukum serta berpotensi membatasi \nkebebasan berekspresi warga negara secara tidak proporsional. Kondisi ini \nsecara nyata merugikan hak konstitusional Para Pemohon sebagaim ana \ndijamin dalam Pasal 28E ayat (3) dan Pasal 28D ayat (1) UUD 194 5. \nPengujian terhadap norma tersebut menjadi sangat penting untuk \nmemastikan bahwa setiap ketentuan hukum yang berlaku telah sesu ai \ndengan prinsip-prinsip konstitusional serta memberikan perlindungan yang \noptimal terhadap hak-hak warga negara, khususnya dalam menjaga \nkeseimbangan antara kebebasan berekspresi dan kepastian hukum y ang \nadil dalam sistem hukum Indonesia.",
+      "start_line": 1151,
+      "end_line": 1243
+    },
+    {
+      "heading": "12. Bahwa apabila permohonan pengujian materiil ini dikabulkan oleh",
+      "slug": "12-bahwa-apabila-permohonan-pengujian-materiil-ini-dikabulkan-oleh",
+      "text": "Mahkamah Konstitusi, maka akan tercipta suatu kondisi hukum yan g lebih \nselaras dengan prinsip-prinsip konstitusional sebagaimana dijam in dalam \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945. \nPutusan Mahkamah Konstitusi dalam perkara a quo  tidak hanya \n\n \n \n34 \nakan berdampak pada Para Pemohon secara individual, tetapi juga memiliki \nimplikasi yang luas terhadap sistem hukum nasional serta perlin dungan \nhak-hak warga negara, khususnya dalam konteks kebebasan bereksp resi",
+      "start_line": 1245,
+      "end_line": 1255
+    },
+    {
+      "heading": "di era digital. Dengan dikabulkannya permohonan ini, Mahkamah Konstitusi",
+      "slug": "di-era-digital-dengan-dikabulkannya-permohonan-ini-mahkamah-konstitusi",
+      "text": "diharapkan dapat memberikan penegasan terhadap batasan norma hukum \nyang selama ini bersifat multitafsir, sehingga tercipta keseimbangan antara \nperlindungan terhadap kepentingan individu dan kebebasan warga negara \ndalam menyampaikan pendapat. Putusan Mahkamah Konstitusi yang \nmengabulkan permohonan ini akan menjadi landasan penting dalam \nmembangun sistem hukum yang lebih adil, transparan, dan tidak r epresif \nterhadap kebebasan berekspresi. Dalam konteks ini, Mahkamah Konstitusi \nmemiliki peran strategis sebagai penjaga konstitusi ( the guardian of the \nconstitution) untuk memastikan bahwa setiap norma hukum yang berlaku \ntidak bertentangan dengan nilai-nilai dasar yang dijamin dalam UUD 1945. \nPengabulan permohonan ini tidak hanya bersifat korektif terhada p norma \nyang diuji, tetapi juga preventif dalam mencegah terjadinya pel anggaran \nhak konstitusional di masa yang akan datang. \nAdapun apabila permohonan ini dikabulkan, maka akan terwujud: \na. perlindungan terhadap kebebasan berpendapat di ruang digital ; \nBahwa dikabulkannya permohonan ini akan memberikan jaminan \nperlindungan yang lebih kuat terhadap kebebasan berpendapat, \nkhususnya dalam ruang digital yang saat ini menjadi sarana utam a \nbagi masyarakat dalam berinteraksi dan menyampaikan aspirasi. \nDengan adanya penegasan atau pembatasan terhadap norma yang \nselama ini bersifat multitafsir, masyarakat tidak lagi dibayang i oleh \nketakutan akan ancaman kriminalisasi dalam menyampaikan \npendapat. Hal ini akan menciptakan ruang publik digital yang le bih \nterbuka, inklusif, dan demokratis, di mana setiap individu dapa t \nmenyampaikan gagasan, kritik, maupun opini secara bebas dan \nbertanggung jawab. Selain itu, perlindungan ini juga akan mendorong \npartisipasi aktif masyarakat dalam diskursus publik, sehingga \nmemperkuat fungsi kontrol sosial terhadap kebijakan pemerintah dan \npihak-pihak yang memiliki kekuasaan. \nb. kepastian hukum yang adil; \n\n \n \n35 \nBahwa dengan dikabulkannya permohonan ini, akan tercipta \nkepastian hukum yang lebih jelas dan adil bagi seluruh warga negara, \nkhususnya dalam memahami batasan antara perbuatan yang \ndiperbolehkan dan yang dilarang oleh hukum. Kepastian hukum ini  \nsangat penting dalam menjamin bahwa setiap individu dapat bertindak \ntanpa rasa khawatir terhadap konsekuensi hukum yang tidak jelas . \nMahkamah Konstitusi melalui putusannya dapat memberikan \npenafsiran yang tegas terhadap norma yang diuji, sehingga \nmenghilangkan ambiguitas yang selama ini menimbulkan \nketidakpastian dalam praktik penegakan hukum. Dengan demikian, \nhukum tidak lagi menjadi alat yang menakutkan bagi masyarakat, \nmelainkan menjadi sarana perlindungan yang memberikan rasa \nkeadilan dan kepastian bagi setiap warga negara.",
+      "start_line": 1257,
+      "end_line": 1303
+    },
+    {
+      "heading": "c. serta pencegahan terhadap penyalahgunaan norma hukum sebagai",
+      "slug": "c-serta-pencegahan-terhadap-penyalahgunaan-norma-hukum-sebagai",
+      "text": "alat pembungkaman kritik publik. \nBahwa salah satu dampak penting dari dikabulkannya permohonan ini \nadalah pencegahan terhadap potensi penyalahgunaan norma hukum, \nkhususnya dalam konteks penggunaan pasal-pasal tertentu sebagai  \nalat untuk membungkam kritik publik. Dalam praktiknya, ketentua n \nyang tidak jelas seringkali digunakan untuk merespons kritik ya ng \ndisampaikan oleh masyarakat, sehingga menghambat kebebasan \nberekspresi dan partisipasi publik. Dengan adanya putusan \nMahkamah Konstitusi yang memperjelas batasan norma tersebut, \nmaka peluang terjadinya penyalahgunaan akan semakin kecil. Hal ini \nakan memastikan bahwa hukum digunakan secara proporsional dan \ntidak dijadikan alat untuk melindungi kepentingan tertentu deng an \nmengorbankan hak-hak warga negara. Selain itu, pencegahan ini juga \nakan memperkuat kepercayaan masyarakat terhadap sistem hukum, \nkarena hukum dipandang sebagai instrumen yang adil dan tidak \ndiskriminatif. \nBahwa secara keseluruhan, pengabulan permohonan ini akan \nmemberikan kontribusi yang signifikan dalam memperkuat prinsip negara \nhukum yang demokratis, di mana kebebasan berpendapat dan kepast ian \nhukum menjadi dua pilar utama yang saling melengkapi. Dengan \n\n \n \n36 \ndemikian, Mahkamah Konstitusi melalui putusannya diharapkan dap at \nmenciptakan tatanan hukum yang lebih berkeadilan, memberikan \nperlindungan yang optimal terhadap hak konstitusional warga neg ara, \nserta memastikan bahwa setiap norma hukum yang berlaku tidak \nbertentangan dengan nilai-nilai dasar yang terkandung dalam Und ang-\nUndang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 1305,
+      "end_line": 1334
+    },
+    {
+      "heading": "13. Bahwa berdasarkan seluruh uraian yang telah dikemukakan sec ara",
+      "slug": "13-bahwa-berdasarkan-seluruh-uraian-yang-telah-dikemukakan-sec-ara",
+      "text": "komprehensif dan sistematis dalam permohonan ini, Para Pemohon \ndengan tegas menyatakan memiliki kedudukan hukum ( legal standing ) \nyang sah untuk mengajukan permohonan a quo di hadapan Mahkamah \nKonstitusi Republik Indonesia. \nKedudukan hukum tersebut tidak hanya didasarkan pada ketentuan \nnormatif sebagaimana diatur dalam peraturan perundang-undangan yang \nberlaku, tetapi juga didukung oleh argumentasi konstitusional y ang kuat \nserta fakta-fakta yang menunjukkan adanya keterkaitan langsung antara \nnorma yang diuji dengan potensi kerugian yang dialami oleh Para  \nPemohon. Bahwa Para Pemohon merupakan perorangan warga negara \nIndonesia yang secara jelas termasuk dalam kategori subjek huku m yang \nmemiliki hak untuk mengajukan permohonan pengujian undang-undan g \nsebagaimana dimaksud dalam ketentuan Pasal 51 ayat (1) Undang-\nUndang tentang Mahkamah Konstitusi. Dalam hal ini, Para Pemohon  tidak \nhanya memenuhi syarat formal sebagai subjek hukum, tetapi juga memiliki \nkepentingan konstitusional yang nyata terhadap berlakunya norma  yang \ndimohonkan pengujian. Kepentingan tersebut muncul dari aktivita s Para \nPemohon sebagai individu yang aktif dalam ruang digital, yang s ecara \nlangsung bersinggungan dengan ketentuan dalam Pasal 27A dan Pasal 45 \nayat (4) Undang-Undang Informasi dan Transaksi Elektronik. \nBahwa lebih lanjut, Para Pemohon telah menguraikan secara rinci  \nmengenai hak-hak konstitusional yang dimiliki dan dijamin oleh Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, khususnya ha k \natas kebebasan berpendapat sebagaimana diatur dalam Pasal 28E a yat \n(3), serta hak atas kepastian hukum yang adil sebagaimana diatu r dalam \nPasal 28D ayat (1). Hak-hak tersebut merupakan hak fundamental yang \ntidak hanya bersifat deklaratif, tetapi juga harus dijamin pela ksanaannya \n\n \n \n37 \ndalam kehidupan bernegara. Dalam konteks ini, Para Pemohon tela h \nmenunjukkan bahwa berlakunya norma yang diuji berpotensi mengganggu, \nmembatasi, bahkan mereduksi pelaksanaan hak-hak tersebut secara  \nnyata. Bahwa selain itu, Para Pemohon juga telah memenuhi selur uh \nkriteria kerugian konstitusional sebagaimana telah dirumuskan d alam \nberbagai putusan Mahkamah Konstitusi, yang meliputi adanya hak \nkonstitusional yang dijamin oleh UUD 1945, adanya kerugian yang  \nditimbulkan oleh berlakunya undang-undang yang diuji, sifat kerugian yang \nspesifik dan aktual atau setidak-tidaknya potensial, adanya hub ungan \nsebab akibat antara kerugian dan norma yang diuji, serta adanya  \nkemungkinan bahwa kerugian tersebut dapat dihindari apabila permohonan \ndikabulkan. Seluruh unsur tersebut telah diuraikan secara jelas  d a n  \nterstruktur oleh Para Pemohon, sehingga menunjukkan bahwa \npermohonan ini memiliki dasar hukum yang kuat dan layak untuk diperiksa \nlebih lanjut. \nBahwa kedudukan hukum Para Pemohon juga diperkuat oleh fakta \nbahwa aktivitas yang dilakukan oleh Para Pemohon dalam menyampaikan \npendapat melalui media elektronik merupakan bagian dari pelaksanaan hak \nkonstitusional yang secara langsung terdampak oleh keberlakuan norma \nyang diuji. Dengan demikian, terdapat hubungan yang nyata dan t idak \nterpisahkan antara norma yang dimohonkan pengujian dengan poten si \nkerugian yang dialami oleh Para Pemohon, sehingga memenuhi unsu r \ncausal verband sebagaimana disyaratkan dalam doktrin Mahkamah \nKonstitusi. Bahwa dalam perspektif yang lebih luas, pengakuan t erhadap \nkedudukan hukum Para Pemohon dalam perkara ini juga sejalan den gan \nprinsip perlindungan hak asasi manusia dan penguatan demokrasi.  \nMahkamah Konstitusi sebagai penjaga konstitusi memiliki tanggun g jawab \nuntuk memastikan bahwa setiap warga negara yang merasa hak \nkonstitusionalnya dirugikan memiliki akses untuk mengajukan permohonan \npengujian undang-undang. Oleh karena itu, pengakuan terhadap legal \nstanding Para Pemohon tidak hanya penting bagi kepentingan individu, \ntetapi juga bagi kepentingan publik dalam menjaga supremasi konstitusi. \nBahwa apabila kedudukan hukum Para Pemohon diakui, maka \nMahkamah Konstitusi dapat melanjutkan pemeriksaan terhadap poko k \n\n \n \n38 \npermohonan, sehingga memungkinkan adanya penilaian substantif \nterhadap konstitusionalitas norma yang diuji. Hal ini penting u ntuk \nmemastikan bahwa setiap norma hukum yang berlaku telah sesuai dengan \nprinsip-prinsip yang terkandung dalam UUD 1945, serta tidak menimbulkan \npembatasan yang tidak proporsional terhadap hak-hak warga negar a. \nBahwa dengan demikian, tidak terdapat alasan hukum untuk menola k \nkedudukan hukum Para Pemohon dalam perkara ini, mengingat selur uh \npersyaratan yang ditentukan oleh hukum telah dipenuhi secara lengkap dan \nmeyakinkan. Para Pemohon telah menunjukkan bahwa mereka bukan \nhanya memiliki kepentingan umum sebagai warga negara, tetapi ju ga \nmengalami atau berpotensi mengalami kerugian konstitusional sec ara \nlangsung akibat berlakunya norma yang diuji. \nBahwa oleh karena itu, berdasarkan seluruh uraian tersebut, Par a \nPemohon dengan tegas menyatakan bahwa mereka memiliki kedudukan  \nhukum (legal standing) yang sah dan memenuhi syarat untuk mengajukan \npermohonan a quo di hadapan Mahkamah Konstitusi Republik Indonesia, \nsehingga permohonan ini patut untuk diterima, diperiksa, dan di putus oleh \nMahkamah Konstitusi demi tegaknya konstitusi serta perlindungan  \nterhadap hak-hak konstitusional warga negara. \nC. POKOK PERMOHONAN",
+      "start_line": 1336,
+      "end_line": 1424
+    },
+    {
+      "heading": "1. Bahwa pokok permohonan dalam perkara a quo adalah pengujian materiil",
+      "slug": "1-bahwa-pokok-permohonan-dalam-perkara-a-quo-adalah-pengujian-materiil",
+      "text": "terhadap ketentuan Pasal 27A dan Pasal 45 ayat (4) Undang-Undan g \nNomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang \nNomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE), \nyang oleh Para Pemohon dinilai mengandung permasalahan konstitusional \nyang serius. Pengujian materiil ini diajukan karena norma yang terkandung \ndalam pasal-pasal tersebut tidak hanya berdampak pada tataran n ormatif, \ntetapi juga telah menimbulkan implikasi nyata dalam praktik keh idupan \nbermasyarakat, khususnya dalam penggunaan ruang digital sebagai  \nsarana berekspresi. Dalam konteks ini, Para Pemohon memandang bahwa \nketentuan tersebut perlu diuji kesesuaiannya dengan Undang-Unda ng \nDasar Negara Republik Indonesia Tahun 1945, guna memastikan bah wa \nsetiap norma hukum yang berlaku tidak bertentangan dengan prins ip-\n\n \n \n39 \nprinsip konstitusional serta tetap memberikan perlindungan yang  o pt im a l  \nterhadap hak-hak warga negara.",
+      "start_line": 1426,
+      "end_line": 1443
+    },
+    {
+      "heading": "2. Bahwa Pemohon mendalilkan bahwa Pasal a quo bertentangan dengan",
+      "slug": "2-bahwa-pemohon-mendalilkan-bahwa-pasal-a-quo-bertentangan-dengan",
+      "text": "Pasal 28E ayat (3) UUD 1945 yang secara tegas menjamin hak setiap orang \nuntuk berserikat, berkumpul, dan mengeluarkan pendapat. Hak ini  \nmerupakan bagian dari hak asasi manusia yang fundamental dan me njadi \nsalah satu pilar utama dalam sistem demokrasi. Dalam praktiknya , \nkebebasan mengeluarkan pendapat tidak hanya dilakukan dalam rua ng \nfisik, tetapi juga berkembang secara signifikan dalam ruang digital sebagai \nkonsekuensi dari kemajuan teknologi informasi. Namun demikian, \nkeberadaan norma dalam Pasal 27A dan Pasal 45 ayat (4) UU ITE y ang \ntidak memberikan batasan yang jelas berpotensi membatasi pelaks anaan \nhak tersebut secara tidak proporsional. Para Pemohon berpendapat bahwa \nsetiap pembatasan terhadap kebebasan berpendapat harus dilakuka n \nsecara ketat, jelas, dan berdasarkan alasan yang sah, sehingga tidak \nmengarah pada pembungkaman ekspresi yang seharusnya dilindungi oleh \nkonstitusi.",
+      "start_line": 1445,
+      "end_line": 1458
+    },
+    {
+      "heading": "3. Bahwa selain itu, Pemohon juga mendalilkan adanya pertentang an antara",
+      "slug": "3-bahwa-selain-itu-pemohon-juga-mendalilkan-adanya-pertentang-an-antara",
+      "text": "ketentuan Pasal a quo dengan Pasal 28D ayat (1) UUD 1945 yang \nmenjamin hak atas pengakuan, jaminan, perlindungan, dan kepasti an \nhukum yang adil. Kepastian hukum merupakan prinsip dasar dalam negara \nhukum yang mengharuskan setiap norma dirumuskan secara jelas, t egas, \ndan tidak menimbulkan ambiguitas. Namun, dalam ketentuan yang d iuji, \nrumusan norma yang tidak spesifik dan cenderung multitafsir jus tru \nmenimbulkan ketidakpastian hukum bagi masyarakat. Kondisi ini \nmenyebabkan masyarakat, termasuk Para Pemohon, tidak memiliki \nkepastian mengenai batasan perilaku yang diperbolehkan dan yang  \ndilarang, sehingga berpotensi menimbulkan ketidakadilan dalam \npenerapan hukum. Oleh karena itu, Para Pemohon memandang bahwa \nketentuan tersebut tidak sejalan dengan prinsip kepastian hukum yang adil \nsebagaimana dijamin dalam konstitusi.",
+      "start_line": 1460,
+      "end_line": 1472
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon, Pasal 27A UU ITE memiliki rumusan yan g",
+      "slug": "4-bahwa-menurut-pemohon-pasal-27a-uu-ite-memiliki-rumusan-yan-g",
+      "text": "multitafsir atau sering disebut sebagai “pasal karet”, karena t idak \nmemberikan definisi yang jelas mengenai unsur-unsur pencemaran nama \n\n \n \n40 \nbaik dalam konteks digital. Istilah “pasal karet” merujuk pada norma hukum \nyang dapat ditarik ke berbagai arah penafsiran, sehingga membuk a \npeluang penyalahgunaan dalam praktik penegakan hukum. Dalam konteks \nini, suatu kritik yang disampaikan dengan itikad baik dapat den gan mudah \nditafsirkan sebagai penghinaan atau pencemaran nama baik oleh p ihak \ntertentu. Hal ini menimbulkan kekhawatiran bahwa norma tersebut  dapat \ndigunakan sebagai alat untuk mengkriminalisasi ekspresi yang sa h, \nkhususnya kritik terhadap kebijakan publik atau tindakan pihak tertentu. \nDengan demikian, keberadaan norma yang multitafsir ini tidak ha nya \nmenimbulkan ketidakpastian hukum, tetapi juga berpotensi membat asi \nkebebasan berekspresi secara tidak proporsional.",
+      "start_line": 1474,
+      "end_line": 1490
+    },
+    {
+      "heading": "5. Bahwa implementasi Pasal a quo dalam praktiknya telah menimbulkan",
+      "slug": "5-bahwa-implementasi-pasal-a-quo-dalam-praktiknya-telah-menimbulkan",
+      "text": "kerugian nyata bagi Pemohon, yang dapat dilihat dari adanya kas us di \nmana kritik terhadap pencemaran lingkungan di Karimunjawa justr u \nberujung pada pemidanaan. Peristiwa tersebut menunjukkan bahwa norma \nyang seharusnya digunakan untuk melindungi kehormatan dan reput asi \nseseorang justru digunakan untuk merespons kritik yang berkaitan dengan \nkepentingan publik, khususnya dalam isu lingkungan hidup. Dalam konteks \nini, Pemohon menilai bahwa penerapan norma tersebut tidak sejal an \ndengan prinsip keadilan dan perlindungan terhadap hak konstitus ional \nwarga negara. Kritik terhadap isu lingkungan seharusnya dilindungi sebagai \nbagian dari partisipasi masyarakat dalam menjaga kelestarian li ngkungan, \nbukan justru dijadikan dasar untuk melakukan kriminalisasi. Oleh karena itu, \npengalaman tersebut menjadi bukti konkret bahwa ketentuan Pasal  a quo \nmemiliki dampak nyata yang merugikan Para Pemohon, sehingga per lu \ndilakukan pengujian konstitusional oleh Mahkamah Konstitusi.",
+      "start_line": 1492,
+      "end_line": 1505
+    },
+    {
+      "heading": "6. Bahwa Pemohon berargumen bahwa kritik yang dilakukan demi",
+      "slug": "6-bahwa-pemohon-berargumen-bahwa-kritik-yang-dilakukan-demi",
+      "text": "kepentingan umum seharusnya tidak dapat dikategorikan sebagai \npencemaran nama baik, karena pada hakikatnya kritik tersebut merupakan \nbagian dari mekanisme kontrol sosial dalam suatu negara demokratis. Kritik \nyang disampaikan dengan itikad baik, berdasarkan fakta, dan dit ujukan \nuntuk mendorong perbaikan kebijakan atau tindakan tertentu, mem iliki \nfungsi yang sangat penting dalam menjaga akuntabilitas serta transparansi \npenyelenggaraan pemerintahan. Dalam konteks ini, Pemohon menila i \n\n \n \n41 \nbahwa menyamakan kritik publik dengan pencemaran nama baik \nmerupakan suatu kekeliruan yang dapat mengaburkan batas antara \nperlindungan reputasi individu dengan perlindungan terhadap kep entingan \npublik. Oleh karena itu, seharusnya terdapat pembedaan yang tegas antara \nekspresi yang bertujuan menyerang kehormatan pribadi secara tid ak \nberdasar dengan kritik yang disampaikan untuk kepentingan umum,  \nsehingga tidak terjadi kriminalisasi terhadap partisipasi masya rakat dalam \nruang publik.",
+      "start_line": 1507,
+      "end_line": 1525
+    },
+    {
+      "heading": "7. Bahwa keberadaan pasal tersebut telah menimbulkan rasa takut di tengah",
+      "slug": "7-bahwa-keberadaan-pasal-tersebut-telah-menimbulkan-rasa-takut-di-tengah",
+      "text": "masyarakat, termasuk Pemohon, untuk berpartisipasi secara aktif  dalam \npengawasan terhadap isu-isu publik dan lingkungan hidup. Rasa t akut ini \nmuncul akibat adanya ancaman sanksi pidana yang dapat dikenakan  \nsewaktu-waktu terhadap setiap bentuk ekspresi yang dianggap mel anggar \nnorma tersebut. Kondisi ini menciptakan fenomena chilling effect, di mana \nmasyarakat menjadi enggan untuk menyampaikan pendapat, mengkrit ik \nkebijakan, atau mengungkapkan permasalahan yang terjadi di seki tarnya. \nDalam jangka panjang, hal ini dapat menghambat terbentuknya masyarakat \nyang kritis dan partisipatif, serta melemahkan fungsi kontrol s osial yang \nseharusnya dijalankan oleh warga negara dalam sistem demokrasi.  \nDengan demikian, keberadaan norma tersebut tidak hanya berdampa k \npada individu, tetapi juga pada kualitas kehidupan demokrasi se cara \nkeseluruhan.",
+      "start_line": 1527,
+      "end_line": 1539
+    },
+    {
+      "heading": "8. Bahwa Pasal 27A UU ITE dianggap tidak memberikan batasan yan g jelas",
+      "slug": "8-bahwa-pasal-27a-uu-ite-dianggap-tidak-memberikan-batasan-yan-g-jelas",
+      "text": "antara penghinaan yang bersifat personal dengan kritik terhadap kebijakan \natau tindakan yang memiliki dam pak luas terhadap masyarakat. \nKetidakjelasan ini menimbulkan ambiguitas dalam penerapan norma , \nsehingga suatu pernyataan yang seharusnya dipahami sebagai krit ik \nterhadap kebijakan publik dapat dengan mudah ditafsirkan sebaga i \npenghinaan terhadap individu tertentu. Dalam praktiknya, hal in i seringkali \nmenimbulkan ketidakpastian hukum, karena tidak adanya parameter  \nobjektif yang dapat digunakan untuk membedakan kedua hal terseb ut. \nAkibatnya, Pemohon dan masyarakat pada umumnya berada dalam posisi \nyang tidak pasti dalam menyampaikan pendapat, karena tidak mengetahui \nsecara jelas batasan yang diperbolehkan oleh hukum. Kondisi ini  \n\n \n \n42 \nbertentangan dengan prinsip kepastian hukum yang adil sebagaima na \ndijamin dalam konstitusi.",
+      "start_line": 1541,
+      "end_line": 1557
+    },
+    {
+      "heading": "9. Bahwa pemidanaan terhadap Pemohon dianggap sebagai bentuk",
+      "slug": "9-bahwa-pemidanaan-terhadap-pemohon-dianggap-sebagai-bentuk",
+      "text": "pembungkaman terhadap ekspresi digital yang seharusnya dijamin dan \ndilindungi oleh konstitusi. Dalam hal ini, Pemohon menilai bahw a proses \nhukum yang dialaminya bukan semata-mata merupakan penegakan hukum \nyang objektif, melainkan juga mencerminkan adanya penggunaan no rma \nhukum untuk membatasi kebebasan berekspresi. Ekspresi digital y ang \ndilakukan oleh Pemohon pada dasarnya merupakan bagian dari hak \nkonstitusional untuk menyampaikan pendapat, khususnya dalam \nmenyuarakan isu yang berkaitan dengan kepentingan publik. Namun , \ndengan adanya pemidanaan tersebut, ruang kebebasan berekspresi \nmenjadi tereduksi secara signifikan, sehingga menimbulkan kekha watiran \nbahwa hukum dapat digunakan sebagai alat untuk membungkam suara  \nkritis masyarakat. Hal ini tentu bertentangan dengan prinsip ne gara \ndemokratis yang menjamin kebebasan berpendapat sebagai salah satu hak \nfundamental warga negara.",
+      "start_line": 1559,
+      "end_line": 1572
+    },
+    {
+      "heading": "10. Bahwa Pemohon menilai bahwa Pasal a quo mengabaikan prinsip",
+      "slug": "10-bahwa-pemohon-menilai-bahwa-pasal-a-quo-mengabaikan-prinsip",
+      "text": "perlindungan terhadap pejuang lingkungan sebagaimana diatur dal am \nmekanisme Anti-SLAPP ( Strategic Lawsuit Against Public Participation ), \nyang bertujuan untuk melindungi individu atau kelompok yang \nmenyampaikan kritik atau advokasi terkait kepentingan publik da ri upaya \nhukum yang bersifat membungkam. Dalam konteks perlindungan \nlingkungan hidup, hukum seharusnya memberikan jaminan bahwa set iap \nindividu yang berperan dalam mengungkap atau mengkritisi kerusa kan \nlingkungan tidak akan dikenakan sanksi hukum yang tidak propors ional. \nNamun, dalam praktiknya, keberadaan Pasal 27A dan Pasal 45 ayat (4) UU \nITE justru berpotensi digunakan untuk menjerat pejuang lingkung an yang \nmenyuarakan kepentingan publik. Hal ini menunjukkan bahwa norma  \ntersebut belum sejalan dengan prinsip perlindungan terhadap par tisipasi \nmasyarakat dalam isu lingkungan, sehingga berpotensi menghambat upaya \nperlindungan dan pelestarian lingkungan hidup yang seharusnya didukung \noleh hukum.",
+      "start_line": 1574,
+      "end_line": 1588
+    },
+    {
+      "heading": "11. Bahwa ketentuan tersebut pada kenyataannya menciptakan ketidakpastian",
+      "slug": "11-bahwa-ketentuan-tersebut-pada-kenyataannya-menciptakan-ketidakpastian",
+      "text": "43 \nhukum yang serius, karena standar mengenai “pencemaran nama bai k” \ndalam ruang digital sering kali tidak memiliki ukuran yang obje ktif dan \ncenderung digunakan secara subjektif oleh pihak pelapor. Dalam \npraktiknya, penilaian terhadap suatu pernyataan sangat bergantu ng pada \npersepsi individu yang merasa dirugikan, sehingga membuka ruang  yang \nsangat luas bagi penafsiran yang berbeda-beda terhadap suatu ek spresi \nyang sama. Akibatnya, suatu kritik yang disampaikan dengan itik ad baik \ndan berbasis fakta dapat dianggap sebagai pencemaran nama baik hanya \nkarena dinilai merugikan pihak tertentu. Kondisi ini menimbulka n \nketidakpastian hukum bagi masyarakat, termasuk Pemohon, karena tidak \nadanya standar yang jelas dan seragam dalam menentukan batasan antara \nekspresi yang sah dengan perbuatan yang dapat dipidana. Ketidak pastian \nini bertentangan dengan prinsip negara hukum yang menuntut adan ya \nkejelasan, konsistensi, dan prediktabilitas dalam penerapan norma hukum.",
+      "start_line": 1590,
+      "end_line": 1607
+    },
+    {
+      "heading": "12. Bahwa perlindungan terhadap harkat dan martabat manusia sebagaimana",
+      "slug": "12-bahwa-perlindungan-terhadap-harkat-dan-martabat-manusia-sebagaimana",
+      "text": "diatur dalam Pasal 28G ayat (1) UUD 1945 pada dasarnya merupakan hak \nfundamental yang harus dijunjung tinggi dalam kehidupan bernega ra. \nNamun demikian, Pemohon berpendapat bahwa perlindungan tersebut  \ntidak seharusnya ditafsirkan secara berlebihan hingga dijadikan  sebagai \nalat untuk membatasi atau bahkan mematikan prinsip-prinsip demo krasi \ndan transparansi. Dalam konteks ini, terdapat kebutuhan untuk \nmenyeimbangkan antara perlindungan terhadap reputasi individu d engan \nhak masyarakat untuk memperoleh informasi dan menyampaikan krit ik \nterhadap isu-isu publik. Apabila perlindungan terhadap harkat dan martabat \ndigunakan secara tidak proporsional, maka hal tersebut justru b erpotensi \nmenghambat kebebasan berekspresi serta mengurangi ruang partisi pasi \npublik dalam mengawasi kebijakan dan tindakan yang berdampak lu as. \nOleh karena itu, diperlukan penafsiran yang tepat agar perlindu ngan \ntersebut tidak disalahgunakan untuk kepentingan yang bertentang an \ndengan semangat demokrasi.",
+      "start_line": 1609,
+      "end_line": 1623
+    },
+    {
+      "heading": "13. Bahwa oleh karena itu, Pemohon memohon agar Mahkamah Konsti tusi",
+      "slug": "13-bahwa-oleh-karena-itu-pemohon-memohon-agar-mahkamah-konsti-tusi",
+      "text": "memberikan tafsir konstitusional bersyarat ( conditionally constitutional \ninterpretation) terhadap ketentuan Pasal a quo, sehingga norma tersebut \ntetap dapat berlaku namun dengan batasan yang jelas dan tegas. Tafsir \n\n \n \n44 \nbersyarat ini diharapkan dapat mempersempit ruang lingkup pener apan \npasal tersebut, sehingga tidak mencakup kritik yang disampaikan  d e m i  \nkepentingan umum atau dalam rangka pembelaan diri. Dengan adany a \npenafsiran yang demikian, Mahkamah Konstitusi dapat memastikan \nbahwa norma hukum tidak digunakan secara sewenang-wenang, serta  \ntetap sejalan dengan prinsip perlindungan terhadap hak kebebasa n \nberpendapat. Selain itu, penafsiran ini juga akan memberikan pe doman \nyang jelas bagi aparat penegak hukum dalam menerapkan ketentuan  \ntersebut, sehingga mengurangi potensi penyalahgunaan dan \nketidakpastian hukum.",
+      "start_line": 1625,
+      "end_line": 1641
+    },
+    {
+      "heading": "14. Bahwa tanpa adanya batasan yang tegas dari Mahkamah Konstit usi,",
+      "slug": "14-bahwa-tanpa-adanya-batasan-yang-tegas-dari-mahkamah-konstit-usi",
+      "text": "ketentuan dalam Pasal 27A dan Pasal 45 ayat (4) UU ITE akan ter us \nmenjadi ancaman nyata bagi kebebasan berpendapat di Indonesia. Norma \nyang bersifat multitafsir dan tidak memiliki parameter yang jelas berpotensi \ndigunakan secara berulang untuk menjerat individu yang menyampa ikan \nkritik, khususnya dalam ruang digital yang saat ini menjadi sar ana utama \ndalam berinteraksi dan berpartisipasi dalam kehidupan publik. K ondisi ini \ndapat menciptakan iklim ketakutan di masyarakat, di mana individu menjadi \nenggan untuk menyampaikan pendapat karena khawatir akan konsekuensi \nhukum yang tidak pasti. Dalam jangka panjang, hal ini dapat men ghambat \nperkembangan demokrasi, karena berkurangnya ruang bagi masyarak at \nuntuk berpartisipasi secara aktif dalam diskursus publik. Oleh karena itu, \nintervensi Mahkamah Konstitusi menjadi sangat penting untuk memberikan \nkepastian hukum dan perlindungan terhadap hak-hak konstitusional warga \nnegara.",
+      "start_line": 1643,
+      "end_line": 1656
+    },
+    {
+      "heading": "15. Bahwa berdasarkan seluruh uraian yang telah disampaikan sec ara",
+      "slug": "15-bahwa-berdasarkan-seluruh-uraian-yang-telah-disampaikan-sec-ara",
+      "text": "menyeluruh, sistematis, dan argumentatif di atas, Pemohon berkesimpulan \nbahwa ketentuan Pasal 27A dan Pasal 45 ayat (4) UU ITE bertenta ngan \ndengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 , \nkhususnya dalam hal perlindungan terhadap kebebasan berpendapat  dan \nkepastian hukum yang adil. Ketentuan tersebut dinilai tidak mem enuhi \nprinsip kejelasan norma, proporsionalitas, serta perlindungan terhadap hak \nasasi manusia, sehingga berpotensi menimbulkan kerugian konstit usional \nbagi warga negara. Oleh karena itu, Pemohon memohon agar Mahkam ah \n\n \n \n45 \nKonstitusi menyatakan bahwa pasal-pasal tersebut tidak memiliki kekuatan \nhukum mengikat sepanjang tidak dimaknai sesuai dengan tafsir \nkonstitusional yang diberikan oleh Mahkamah. Dengan demikian, \ndiharapkan akan tercipta suatu tatanan hukum yang lebih adil, p asti, dan \nselaras dengan nilai-nilai yang terkandung dalam UUD 1945, serta mampu \nmemberikan perlindungan yang optimal terhadap hak-hak konstitus ional \nwarga negara. \nD.  Petitum \nBerdasarkan alasan-alasan hukum sebagaimana telah diuraikan di atas, Pemohon \nmemohon kepada Mahkamah Konstitusi agar memberikan putusan sebagai berikut:",
+      "start_line": 1658,
+      "end_line": 1679
+    },
+    {
+      "heading": "2. Menyatakan Pasal 27A dan Pasal 45 ayat (4) Undang-Undang Nom or 1 Tahun",
+      "slug": "2-menyatakan-pasal-27a-dan-pasal-45-ayat-4-undang-undang-nom-or-1-tahun",
+      "text": "2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 \ntentang Informasi dan Transaksi Elektronik bertentangan dengan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 1682,
+      "end_line": 1684
+    },
+    {
+      "heading": "3. Menyatakan Pasal 27A UU ITE tidak memiliki kekuatan hukum me ngikat secara",
+      "slug": "3-menyatakan-pasal-27a-uu-ite-tidak-memiliki-kekuatan-hukum-me-ngikat-secara",
+      "text": "bersyarat ( conditionally unconstitutional ) sepanjang tidak dimaknai: \"bahwa \nperbuatan yang dilakukan demi kepentingan umum, pembelaan diri,  atau kritik \nterhadap kebijakan publik bukan merupakan tindak pidana pencema ran nama \nbaik\".",
+      "start_line": 1686,
+      "end_line": 1689
+    },
+    {
+      "heading": "4. Menyatakan bahwa kritik yang disampaikan oleh pejuang lingkungan hidup demi",
+      "slug": "4-menyatakan-bahwa-kritik-yang-disampaikan-oleh-pejuang-lingkungan-hidup-demi",
+      "text": "kelestarian ekosistem dilindungi oleh konstitusi dan tidak dapa t dipidana \nberdasarkan Pasal 27A UU ITE.",
+      "start_line": 1691,
+      "end_line": 1692
+    },
+    {
+      "heading": "5. Menegaskan perlindungan hukum bagi setiap warga negara yang menggunakan",
+      "slug": "5-menegaskan-perlindungan-hukum-bagi-setiap-warga-negara-yang-menggunakan",
+      "text": "haknya untuk menyampaikan pendapat dan fakta di ruang digital sesuai dengan \nmandat Pasal 28E ayat (3) UUD 1945.",
+      "start_line": 1694,
+      "end_line": 1695
+    },
+    {
+      "heading": "6. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik Indonesia",
+      "slug": "6-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik-indonesia",
+      "text": "sebagaimana mestinya. \n[2.2] Menimbang bahwa para Pemohon tidak mengajukan alat bukti untuk  \nmembuktikan dalil-dalil permohonannya. \n\n \n \n46 \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1697,
+      "end_line": 1706
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), salah satu kewenangan konstitusional Mah kamah adalah \nmengadili pada tingkat pertama dan terakhir yang putusannya ber sifat final untuk \nmenguji undang-undang terhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian  \nkonstitusionalitas undang-undang, in casu norma Pasal 27A dan Pasal 45 ayat (4) \nUndang-Undang Nomor 1 Tahun 2024 tentang Perubahan Kedua atas U ndang-\nUndang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elek tronik \n(Lembaran Negara Republik Indonesia Tahun 2024 Nomor 1, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6905, selanjutnya disebut UU 1/ 2024) terhadap \nUUD NRI Tahun 1945 maka Mahkamah berwenang mengadili permohonan a quo. \n[3.3] Menimbang bahwa berkenaan dengan permohonan para Pemohon a quo, \nsebelum mempertimbangkan lebih lanjut, Mahkamah mempertimbangka n hal-hal \nsebagai berikut. \n[3.3.1] Bahwa para Pemohon mengajukan permohonan bertanggal 23 April 2026 \nmelalui daring (online) yang diterima Mahkamah pada tanggal 22 Juni 2026 sesuai \n\n \n \n47 \nAkta Pengajuan Permohonan Pemohon Nomor 243/PUU/PAN.MK/AP3/06/2 026 \nbertanggal 22 Juni 2026. Berdasarkan Daftar Kelengkapan Pengajuan Permohonan \nPemohon (DKP3), para Pemohon mengajukan softcopy permohonan dalam bentuk \n.pdf dan dalam bentuk .doc/.docx, tanpa disertai daftar alat bukti dan alat bukti untuk \nmendukung permohonan. \n[3.3.2] Bahwa perihal permohonan a quo, Mahkamah telah menyelenggarakan \nsidang pemeriksaan pendahuluan pada tanggal 6 Juli 2026 dengan agenda \nmendengarkan pokok-pokok permohonan para Pemohon, memeriksa kelengkapan \ndan kejelasan materi permohonan. Berdasarkan ketentuan Pasal 39  UU MK dan \nPasal 36 ayat (3) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2 025 tentang \nTata Beracara Dalam Perkara Pengujian Undang-Undang (PMK 7/2025 ), \nMahkamah telah memberikan nasihat yang pada pokoknya agar para Pemohon \nmemperbaiki dan melengkapi permohonan dengan memperjelas ihwal kewenangan \nMahkamah, kedudukan hukum para Pemohon ( legal standing ), alasan-alasan \npermohonan (posita), dan hal-hal yang dimohonkan untuk diputus (petitum) agar \nsesuai dengan sistematika permohonan sebagaimana diatur dalam P MK 7/2025. \nSelain itu, Mahkamah juga memberikan nasihat kepada para Pemoho n agar \nmelengkapi permohonan dengan menyertakan alat bukti guna memper kuat dalil \npermohonan [vide Risalah Sidang, tanggal 6 Juli 2026, hlm. 11 -  27]. Selanjutnya, \nMahkamah menyampaikan para Pemohon memiliki kesempatan untuk memperbaiki \ndan mengajukan perbaikan permohonan paling 14 (empat belas) hari terhitung sejak  \ntanggal 6 Juli 2026, yaitu paling lambat pada tanggal 20 Juli 2026, pukul 12.00 WIB \ndengan perbaikan permohonan yang telah dibubuhi tanda-tangan serta melengkapi \nalat-alat bukti sesuai dengan peraturan perundang-undangan. \n[3.3.3] Bahwa ihwal tenggat waktu pengajuan perbaikan permohonan dimak sud, \nhingga batas waktu penyerahan perbaikan permohonan yaitu tangga l 20 Juli 2026, \npukul 12.00 WIB, para Pemohon tidak mengajukan perbaikan permoh onan, daftar \nalat bukti, dan alat bukti untuk mendukung permohonan sebagaimana dinasihatkan \ndalam sidang pendahuluan yang dilaksanakan pada tanggal 6 Juli 2026. \n[3.3.4] Bahwa berkenaan dengan hal tersebut di atas, pada tanggal 20 J uli 2026 \npukul 14.48 WIB, Mahkamah menyelenggarakan sidang pemeriksaan pendahuluan \ndengan agenda memeriksa perbaikan permohonan serta pengesahan a lat bukti. \nNamun, sampai dengan penyelenggaraan sidang tersebut berakhir, para Pemohon \n\n \n \n48 \ntidak hadir meskipun telah dipanggil secara patut berdasarkan S urat Mahkamah \nKonstitusi Nomor 1063.244/PUU/PAN.MK/PS/07/2026 tanggal  14 Juli 2026 perihal \nPanggilan Sidang. Selain itu, para Pemohon tidak menyerahkan al at bukti kepada \nMahkamah [vide Risalah Sidang, tanggal 20 Juli 2026, hlm. 1-3]. \n[3.4] Menimbang bahwa berdasarkan uraian fakta hukum tersebut di atas , \ndalam mengajukan permohonan pengujian undang-undang, salah satu syarat formil \nberkenaan dengan permohonan pengujian undang-undang, Pasal 10 ayat (4) PMK \n7/2025 menyatakan, “Pengajuan permohonan sebagaimana dimaksud pada ayat (1) \ndisertai dengan alat bukti dan daftar alat bukti yang mendukung  permohonan”. \nSelanjutnya, Pasal 12 ayat (3) PMK 7/2025 menyatakan, “Pengajua n Permohonan \nsecara daring ( online) sebagaimana dimaksud pada ayat (2) disertai dengan \npenyampaian berkas alat bukti kepada Mahkamah sebanyak 1 (satu)  e k s e m p l a r  \nyang telah dibubuhi meterai sebagaimana yang ditentukan dalam p eraturan \nperundang-undangan”. Namun, berkaitan dengan hal tersebut, para Pemohon saat \nmengajukan permohonan awal tidak mengajukan alat bukti. Selain itu, telah ternyata \npara Pemohon tidak pula menyerahkan perbaikan permohonan dan ti dak pula \nmenyertakan alat bukti yang mendukung permohonan sebagaimana di tentukan \ndalam PMK 7/2025 dimaksud. Berkenaan dengan hal tersebut, sekal ipun para \nPemohon tidak menyerahkan perbaikan permohonan dan Mahkamah dap at \nmempertimbangkan permohonan awal, namun oleh karena permohonan para \nPemohon tidak disertai dengan alat bukti yang sah walaupun telah dinasihatkan agar \ndilengkapi sesuai dengan ketentuan PMK tersebut maka tidak terd apat keraguan \nbagi Mahkamah untuk menyatakan bahwa permohonan para Pemohon ti dak \nmemenuhi syarat formil pengajuan permohonan pengujian undang-undang. \n[3.5] Menimbang bahwa berdasarkan seluruh pertimbangan hukum di atas,  \nmeskipun Mahkamah berwenang mengadili permohonan a quo, namun oleh karena \npermohonan para Pemohon tidak memenuhi syarat formil pengajuan permohonan \npengujian undang-undang maka Mahkamah tidak mempertimbangkan le bih lanjut \npermohonan para Pemohon. \n[3.6] Menimbang bahwa terhadap hal-hal selain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya. \n\n \n \n49",
+      "start_line": 1708,
+      "end_line": 1809
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an",
+      "start_line": 1811,
+      "end_line": 1811
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Permohonan para Pemohon tidak memenuhi syarat formil pengajuan \npermohonan; \n[4.3]  Permohonan para Pemohon tidak dipertimbangkan lebih lanjut.  \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 1813,
+      "end_line": 1825
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan para Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,             \nM. Guntur Hamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai \nAnggota, pada hari Selasa, tanggal dua puluh satu, bulan Juli, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka  \nuntuk umum pada hari Kamis, tanggal tiga puluh, bulan Juli, tahun dua ribu dua \npuluh enam, selesai diucapkan pukul 13.54 WIB, oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Enn y Nurbaningsih, \nRidwan Mansyur, Arsul Sani, Daniel Yusmic P. Foekh, M. Guntur H amzah, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu  \n\n \n \n50 \noleh Hani Adhani sebagai Panitera Pengganti, serta dihadiri oleh Dewan Perwakilan \nRakyat atau yang mewakili, dan Presiden atau yang mewakili, tan pa dihadiri para \nPemohon. \nKETUA, \nttd.  \nSuhartoyo \n ANGGOTA-ANGGOTA, \n ttd. \nSaldi Isra \n ttd. \nEnny Nurbaningsih  \nttd.  \nRidwan Mansyur  \nttd.  \nArsul Sani \n ttd. \nDaniel Yusmic P. Foekh \nttd.  \nM. Guntur Hamzah \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd.  \nHani Adhani",
+      "start_line": 1827,
+      "end_line": 1870
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Nova Ayu Br Simanjuntak",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Diva Maharani Dewiantoro",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Trilas Pilda Faulisa",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Marsha Widya Asmoro",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Malik Fahad",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 1/2024 tentang Perubahan Kedua atas UU 11/2008 tentang Informasi dan Transaksi Elektronik"
+    ],
+    "constitutional_articles": [
+      "Pasal 28E ayat (3)",
+      "Pasal 28D ayat (1)",
+      "Pasal 28G ayat (1)",
+      "Pasal 10 ayat (1) hur"
+    ],
+    "procedural_articles": [
+      "Pasal 36 ayat (3)"
+    ],
+    "evidence": [
+      "REFERENSI:244/PUU-XXIV/2026",
+      "REFERENSI:243/PUU/PAN.MK/AP3/06/2026",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:244/PUU/PAN.MK/PS/07/2026",
+      "REFERENSI:006/PUU-III/2005tanggal31Mei2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Hani Adhani"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "244/PUU-XXIV/2026",
+      "243/PUU/PAN.MK/AP3/06/2026",
+      "11/PUU-V/2007",
+      "244/PUU/PAN.MK/PS/07/2026",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "244/PUU-XXIV/2026",
+      "243/PUU/PAN.MK/AP3/06/2026",
+      "11/PUU-V/2007",
+      "244/PUU/PAN.MK/PS/07/2026",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

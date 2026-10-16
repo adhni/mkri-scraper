@@ -1,0 +1,527 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_7301.pdf",
+    "file_name": "putusan_mkri_7301.pdf",
+    "page_count": 18,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_7301.pdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:decision_date_missing"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "94/PUU-XVIII/2020",
+    "related_case_numbers": [
+      "190/PAN.MK/2020dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal27Oktober2020denganNomor94/PUU-XVIII/2020"
+    ],
+    "title": "SALINA N",
+    "decision_date": "2021-01-14",
+    "decision_date_raw": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "SALINA N",
+      "slug": "salina-n",
+      "text": "",
+      "start_line": 2,
+      "end_line": 3
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 94/PUU-XVIII/2020",
+      "start_line": 5,
+      "end_line": 5
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan d alam perkara pengujian Undang-Undang Nomor 14 Tahun \n2005 tentang Guru dan Dosen  terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945, yang diajukan oleh:  \n Nama : Ahmad Amin, S.ST. \nAlamat : Lembah Desa Padangan Kecamatan Winong, \nKabupaten Pati, Jawa Tengah \nPekerjaan : Pegawai Negeri Sipil \nSelanjutnya disebut sebagai -------------------------------------------------------- Pemohon; \n [1.2] Membaca permohonan Pemohon; \n  Mendengar keterangan Pemohon; \n  Memeriksa bukti-bukti Pemohon.",
+      "start_line": 8,
+      "end_line": 19
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal \n4 Oktober 2020  yang diterima di Kepaniteraan Mahkamah Konstitusi (selanjutnya \ndisebut Kepaniteraan Mahkamah) pada tanggal 4 Oktober 2020 berdasarkan Akta \nPenerimaan Berkas Permohonan Nomor 190/PAN.MK/2020 dan t elah dicatat \ndalam Buku Registrasi Perkara Konstitusi pada tanggal 27 Oktober 2020  dengan \nNomor 94/PUU-XVIII/2020, yang telah diperbaiki dengan permohonan bertanggal \n25 November 2020  dan diterima Kepaniteraan Mahkamah pada tanggal 27 \nNovember 2020, yang pada pokoknya menguraikan hal-hal sebagai berikut: \nA. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 21,
+      "end_line": 29
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) UUD 1945: “Kekuasaan kehakiman dilakukan oleh",
+      "slug": "1-bahwa-pasal-24-ayat-2-uud-1945-kekuasaan-kehakiman-dilakukan-oleh",
+      "text": "sebuah Mahkamah Agung dan badan peradilan yang berada di bawahnya \n\n \n \n \n2 \ndalam lingkungan peradilan umum, lingkungan peradilan agama, lingkungan \nperadilan militer, lingkungan peradilan tata usaha negara, dan oleh sebuah \nMahkamah Konstitusi”;",
+      "start_line": 31,
+      "end_line": 39
+    },
+    {
+      "heading": "2. Bahwa Pasal 24C ayat (1) UUD 1945 menyatakan: “ Mahkamah Konstitusi",
+      "slug": "2-bahwa-pasal-24c-ayat-1-uud-1945-menyatakan-mahkamah-konstitusi",
+      "text": "berwenang mengadili pada tingkat pertama dan terakhir yang p utusannya \nbersifat final untuk menguji undang -undang terhadap Undang -Undang \nDasar”;",
+      "start_line": 41,
+      "end_line": 43
+    },
+    {
+      "heading": "3. Bahwa Pasal 10 ayat (1) huruf a Undang -Undang Nomor 24 Tahun 2003",
+      "slug": "3-bahwa-pasal-10-ayat-1-huruf-a-undang-undang-nomor-24-tahun-2003",
+      "text": "sebagaimana diubah terakhir dengan Undang -Undang Nomor 7 Tahun \n2020 tentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun \n2003 tentang Mahkamah Konstitusi (UU MK): “Mahkamah Konstitusi \nberwenang mengadili pada tingkat pertama dan terakhir yang putusannya \nbersifat final untuk: a. menguji undang -undang terhadap Undang -Undang \ndasar Negara Republik Indonesia Tahun 1945”;",
+      "start_line": 45,
+      "end_line": 50
+    },
+    {
+      "heading": "4. Bahwa permohonan pengujian Undang-Undang dapat menguji",
+      "slug": "4-bahwa-permohonan-pengujian-undang-undang-dapat-menguji",
+      "text": "pembentukan Undang-Undang dan materi pasal, ayat atau bagian \nsebagaimana dalam UU MK Pasal 51 ayat (3) menyatakan: “Dalam \npermohonan sebagaimana dimaksud pada ayat (2), pemohon wajib \nmenguraikan dengan jelas bahwa: \na.  pembentukan undang -undang tidak memenuhi ketentuan berdasarkan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945; \ndan/atau  \nb. materi muatan dalam ayat, pasal, dan/atau bagian undang -undang \ndianggap berten -tangan denga n Undang-Undang Dasar Negar a \nRepublik Indonesia Tahun 1945”.",
+      "start_line": 52,
+      "end_line": 61
+    },
+    {
+      "heading": "5. Bahwa objek pengajuan permohonan judicial review dilakukan terhadap",
+      "slug": "5-bahwa-objek-pengajuan-permohonan-judicial-review-dilakukan-terhadap",
+      "text": "ketentuan Pasal 16 ayat (2), Pasal 18 ayat (2), Pasal 53 ayat (2), Pasal 55 \nayat (2) dan Pasal 56 ayat (1) Undang-Undang Nomor 14 Tahun 2005 \ntentang Guru dan Dosen terhadap Pasal 4 ayat (1), Pasal 20A ayat (1), \nPasal 23 ayat (1) dan ayat (2), Pasal 28D ayat (1) UUD 1945;",
+      "start_line": 63,
+      "end_line": 66
+    },
+    {
+      "heading": "6. Bahwa berdasarkan hal di atas Pemohon berpandangan Mahkamah",
+      "slug": "6-bahwa-berdasarkan-hal-di-atas-pemohon-berpandangan-mahkamah",
+      "text": "Konstitusi berwenang memeriksa, mengadili, dan mem utus permohonan \npengujian Undang-Undang ini.  \n\n \n \n \n3 \nB. KEDUDUKAN PEMOHON (LEGAL STANDING) DAN KERUGIAN PEMOHON",
+      "start_line": 68,
+      "end_line": 75
+    },
+    {
+      "heading": "7. Bahwa Pasal 51 ayat (1) UU MK menyatakan: “Pemohon adalah pihak yang",
+      "slug": "7-bahwa-pasal-51-ayat-1-uu-mk-menyatakan-pemohon-adalah-pihak-yang",
+      "text": "menganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh \nberlakunya undang -undang, yaitu: (a) perorangan WNI, (b) kesatuan \nmasyarakat hukum adat sepanjang masih hidup dan sesuai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan RI yang diatur \ndalam undang-undang, (c) badan hukum publik dan privat, atau (d) lembaga \nnegara”;",
+      "start_line": 77,
+      "end_line": 82
+    },
+    {
+      "heading": "8. Bahwa penjelasan Pasal 51 ayat (1) UU MK menyatakan “yang dimaksud",
+      "slug": "8-bahwa-penjelasan-pasal-51-ayat-1-uu-mk-menyatakan-yang-dimaksud",
+      "text": "dengan hak konstitusional adalah hak -hak yang diatur dalam Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945”;",
+      "start_line": 84,
+      "end_line": 85
+    },
+    {
+      "heading": "9. Bahwa Yurisprudensi tetap Mahkamah yang tertuang dalam Putusan",
+      "slug": "9-bahwa-yurisprudensi-tetap-mahkamah-yang-tertuang-dalam-putusan",
+      "text": "Perkara Nomor 006/PUU -III/2005 juncto Perkara Nomor 11/PUU -V/2007 \ndan putusan -putusan setelahnya memberikan batasan tentang kualifikasi \nPemohon dalam mengajukan permohonan pengujian undang -undang harus \nmemenuhi syarat:  \na. Adanya hak konstitusional Pemohon yang  diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945;  \nb. Hak konstitusional Pemohon tersebut dianggap oleh para Pemohon telah \ndirugikan oleh suatu undang-undang yang diuji;",
+      "start_line": 87,
+      "end_line": 94
+    },
+    {
+      "heading": "c. Kerugian konstitusional Pemohon dimaksud bersifat spesifik atau khusus",
+      "slug": "c-kerugian-konstitusional-pemohon-dimaksud-bersifat-spesifik-atau-khusus",
+      "text": "dan aktual atau setidaknya bersifat potensial berdasarkan penalaran \nyang wajar dapat dipastikan akan terjadi;",
+      "start_line": 96,
+      "end_line": 97
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya undang -",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya-undang",
+      "text": "undang yang dimohonkan untuk diuji;  \ne. Adanya kemungkinan bahwa dengan di kabulkannya permohonan maka \nkerugian konstitusional yang didalilkan tidak akan atau tidak lagi terjadi.",
+      "start_line": 99,
+      "end_line": 101
+    },
+    {
+      "heading": "10. Bahwa Mahkamah melalui Putusan Perkara Nomor 27/PUU -VII/2009",
+      "slug": "10-bahwa-mahkamah-melalui-putusan-perkara-nomor-27-puu-vii-2009",
+      "text": "tentang pengujian Perubahan Kedua UU MK pada halaman 59 memberikan \nperluasan terhadap kual ifikasi Pemohon selengkapnya berbunyi, “dari \npraktik Mahkamah (2003 - 2009), perorangan WNI, terutama pembayar \npajak ( tax payer ; vide Putusan Nomor 003/PUU -I/2003) berbagai asosiasi \ndan NGO/LSM yang concern terhadap suatu undang -undang demi \nkepentingan publik, badan hukum, pemerintahan daerah, lembaga negara, \n\n \n \n \n4 \ndan lain -lain, oleh Mahkamah dianggap memiliki legal standing  untuk \nmengajukan permohonan pengujian, baik formil maupun materil undang -\nundang terhadap UUD 1945 ”. Yang mana Putusan tersebut telah menjad i \nYurisprudensi tetap Mahkamah;",
+      "start_line": 103,
+      "end_line": 117
+    },
+    {
+      "heading": "11. Bahwa Pemohon merupakan perorangan warga negara Indonesia, PNS",
+      "slug": "11-bahwa-pemohon-merupakan-perorangan-warga-negara-indonesia-pns",
+      "text": "Daerah Kabupaten Pati yang menerima gaji pokok PNS berdasar Peraturan \nPemerintah Nomor 15 Tahun 2019 tentang Perubahan kedelapan belas \natas PP Nomor 7 Tahun 197 7 tentang Peraturan Gaji Pegawai Negeri Sipil \nmenganggap dan meyakini ketentuan a quo  merugikan hak konstitusional \npemohon mendapatkan jaminan, perlindungan, dan kepastian hukum yang \nadil serta perlakuan yang sama di hadapan hukum sebagaimana diatur \ndalam Pasal 28D ayat (1) UUD 1945.",
+      "start_line": 119,
+      "end_line": 125
+    },
+    {
+      "heading": "12. Bahwa berlakunya ketentuan a quo Pemohon menganggap tidak adanya",
+      "slug": "12-bahwa-berlakunya-ketentuan-a-quo-pemohon-menganggap-tidak-adanya",
+      "text": "kedaulatan Presiden dalam menjalankan Pemerintahan, yaitu dalam \nmelaksanakan kekuasaan keuangan negara dan managemen kepegawaian \nASN. Ketentuan a quo  memerintahkan kepada Pemerintah untuk \nmemberikan tunjangan profesi dan khusus kepada Guru dan Dosen \nsebesar satu kali gaji pokok dan tunjangan kehormatan kepada Profesor \nsebesar dua kali gaji pokok. Ketentuan sejak 2005 ini telah mengintervensi \nhak Presiden sebagai p emegang kekuasaan Pemerintahan keuangan \nnegara untuk merencanakan dan melaksanakan pengelolaan keuangan \nperiodik tahunan.  Hal ini menimbulkan ketidakpastian hukum kedaulatan \npresiden dalam menyusun dan mengajukan Rancangan Anggaran dan \nBelanja Negara, kepa stian batas kewenangan DPR membahas usulan \nPresiden untuk menyetujui atau menolak usulan RUU APBN karena adanya \nketentuan a quo  DPR telah memerintah Pemerintah belanja keuangan \nnegara.",
+      "start_line": 127,
+      "end_line": 140
+    },
+    {
+      "heading": "13. Bahwa perbedaan materi Undang-Undang a quo terutama Pasal 16 ayat",
+      "slug": "13-bahwa-perbedaan-materi-undang-undang-a-quo-terutama-pasal-16-ayat",
+      "text": "(2), Pasal 18 ayat (2), Pasal 53 ayat (2), Pasal 55 ayat (2) dan Pasal 56 \nayat (1)  dengan Pasal 4 ayat (1), Pasal 20A ayat (1), Pasal 23 ayat (1) dan \nayat (2) UUD 1945 serta Putusan Mahkamah Konstitusi Nomor 35/PUU -\nXI/2013 dalam pembagian kekuasaan keuangan n egara yang merupakan \nbagian kekuasaan pemerintahan telah menimbulkan ketidakpastian hukum \n\n \n \n \n5 \nsehingga perlu diuji oleh Mahkamah Konstitusi untuk mendapatkan \nkepastian hukum pembagian kekuasaan berdasar Konstitusi UUD 1945.",
+      "start_line": 142,
+      "end_line": 153
+    },
+    {
+      "heading": "14. Jika mahkamah mengabulkan permohona n Pemohon, maka akan",
+      "slug": "14-jika-mahkamah-mengabulkan-permohona-n-pemohon-maka-akan",
+      "text": "menimbulkan kepastian hukum kewenangan Presiden dan DPR dalam \nkeuangan negara dan kepegawaian negara serta  kerugian konstitusional \npemohon tidak terjadi lagi. \nC. NORMA- NORMA YANG DIAJUKAN UNTUK DIUJI",
+      "start_line": 155,
+      "end_line": 158
+    },
+    {
+      "heading": "15. Materi muatan dalam ayat, pasal, dan/ atau bagian undang -undang",
+      "slug": "15-materi-muatan-dalam-ayat-pasal-dan-atau-bagian-undang-undang",
+      "text": "dianggap bertentangan dengan Undang -Undang Dasar Negara Republik \nIndonesia Tahun 1945 berikut:   \na. Pasal 16 ayat (2), Tunjangan profesi sebagaimana dimaksud pada ayat \n(1) diberikan setara dengan 1 (satu) kali gaji pokok guru yang di angkat \noleh satuan pendidikan yang diselenggarakan oleh Pemerintah atau \npemerintah daerah pada tingkat, masa kerja, dan kualifikasi yang sama.  \nb. Pasal 18 ayat (2) , Tunjangan khusus sebagaimana dimaksud pada ayat \n(1) diberikan setara dengan 1 (satu) kali gaj i pokok guru yang diangkat \noleh satuan pendidikan yang diselenggarakan oleh Pemerintah atau \npemerintah daerah pada tingkat, masa kerja, dan kualifikasi yang sama.",
+      "start_line": 160,
+      "end_line": 169
+    },
+    {
+      "heading": "c. Pasal 53 ayat (2) , Tunjangan profesi sebagaimana dimaksud pada ayat",
+      "slug": "c-pasal-53-ayat-2-tunjangan-profesi-sebagaimana-dimaksud-pada-ayat",
+      "text": "(1) diberikan setara dengan 1 (satu) kali gaji pokok dosen yang diangkat \noleh Pemerintah pada tingkat, masa kerja, dan kualifikasi yang sama.",
+      "start_line": 171,
+      "end_line": 172
+    },
+    {
+      "heading": "d. Pasal 55 ayat (2), Tunjangan khusus sebagaimana dimaksud pada ayat",
+      "slug": "d-pasal-55-ayat-2-tunjangan-khusus-sebagaimana-dimaksud-pada-ayat",
+      "text": "(1) diberikan setara dengan 1 (satu) kali gaji pokok dosen yang diang kat \noleh Pemerintah atau pemerintah daerah pada tingkat, masa kerja, dan \nkualifikasi yang sama.  \ne. Pasal 56 ayat (1) , Pemerintah memberikan tunjangan kehormatan \nkepada profesor yang diangkat oleh penyelenggara pendidikan atau \nsatuan pendidikan tinggi setara 2 (dua) kali gaji pokok profesor yang \ndiangkat oleh Pemerintah pada tingkat, masa kerja, dan kualifikasi yang \nsama.",
+      "start_line": 174,
+      "end_line": 181
+    },
+    {
+      "heading": "16. Norma UUD 1945 Penguji, yaitu:",
+      "slug": "16-norma-uud-1945-penguji-yaitu",
+      "text": "a. Pasal 4 ayat (1), Presiden Republik Indonesia memegang kekuasaan \npemerintahan menurut Undang- Undang Dasar; \n\n \n \n \n6 \nb. Pasal 20A ayat (1), Dewan Perwakilan Rakyat memiliki fungsi legislasi, \nfungsi anggaran, dan fungsi pengawasan;",
+      "start_line": 183,
+      "end_line": 191
+    },
+    {
+      "heading": "c. Pasal 23 ayat (1), Anggaran pendapatan dan belanja negara sebagai",
+      "slug": "c-pasal-23-ayat-1-anggaran-pendapatan-dan-belanja-negara-sebagai",
+      "text": "wujud dari pengelolaan keuangan negara ditetapkan setiap tahun \ndengan undang -undang dan dilaksanakan secara terbuka dan \nbertanggung jawab untuk sebesar-besarnya kemakmuran rakyat;",
+      "start_line": 193,
+      "end_line": 195
+    },
+    {
+      "heading": "d. Pasal 23 ayat (2), Rancangan undang -undang anggaran pendapatan",
+      "slug": "d-pasal-23-ayat-2-rancangan-undang-undang-anggaran-pendapatan",
+      "text": "dan belanja negara diajukan oleh Presiden untuk dibahas bersama \nDewan Perwakilan Rakyat dengan memperhatikan pertimbangan Dewan \nPerwakilan Daerah;   \ne. Pasal 28D ayat  (1) Setiap orang berhak atas pengakuan, jaminan, \nperlindungan, dan kepastian hukum yang adil serta perlakuan yang \nsama di hadapan hukum.     \nD. POSITA",
+      "start_line": 197,
+      "end_line": 203
+    },
+    {
+      "heading": "17. Bahwa pada permohonan perbaikan i ni telah mengikuti beberapa nasehat",
+      "slug": "17-bahwa-pada-permohonan-perbaikan-i-ni-telah-mengikuti-beberapa-nasehat",
+      "text": "Panel Hakim Konstitusi pada Sidang Pendahuluan I tanggal 17 November",
+      "start_line": 205,
+      "end_line": 205
+    },
+    {
+      "heading": "2020. Pemohon berpendapat bahwa dasar hukum Undang-Undang a quo",
+      "slug": "2020-pemohon-berpendapat-bahwa-dasar-hukum-undang-undang-a-quo",
+      "text": "dapat diuji secara materi karena bagian dari Undang -Undang yang telah \ndiatur secara khu sus di Pasal 22D UUD 1945 dan Pasal 22D bukanlah \npasal hukum acara, tetapi hukum konstitusi yang wajib dilaksanakan dalam \nkehidupan berbangsa dan bernegara. Pemohon mengikuti nasehat panel \nhakim tidak menguji dasar hukum, karena masih perlu kajian mendalam  \nantara formil atau materiil. Permohonan juga agar disusun secara \nsederhana dan fokus pada satu isu sehingga alasan dan dasar hukum tidak \nmelebar, dapat dipertahankan dan dipertanggungjawabkan baik posita \nmaupun petitum.",
+      "start_line": 207,
+      "end_line": 215
+    },
+    {
+      "heading": "18. Bahwa materi Undang-Undang a quo Pasal 16 ayat (2), Pasal 18 (2), Pasal",
+      "slug": "18-bahwa-materi-undang-undang-a-quo-pasal-16-ayat-2-pasal-18-2-pasal",
+      "text": "53 (2), Pasal 55 ayat (2) serta Pasal 56 ayat (1) telah memerintahkan \nkepada Pemerintah untuk memberikan tunjangan profesi, khusus dan \nkehormatan sebesar dengan satu kali atau dua kali gaji pokok guru, dosen \natau profesor. Hal ini menunjukkan bahwa DPR sebagai lembaga legislatif \ntelah memerintah Presiden untuk belanja keuangan negara dengan \nkegiatan dan rincian besaran anggaran tertentu, untuk kelompok \nmasyarakat tertentu sebagaimana ditetapkan oleh DPR pada Undang-\n\n \n \n \n7 \nUndang a quo  tahun 2005 melalui kewenangannya membentuk Undang -\nUndang. Hal itu tidak sesuai kesetaraan kedudukan lembaga tinggi negara, \nprinsip pembagian kekuasaan berdasar UUD 1945 yaitu check and \nbalances.",
+      "start_line": 217,
+      "end_line": 232
+    },
+    {
+      "heading": "19. Di antara Undang-Undang yang berasal dari DPR hanya Undang-Undang",
+      "slug": "19-di-antara-undang-undang-yang-berasal-dari-dpr-hanya-undang-undang",
+      "text": "a quo yang memerintahkan pembiayaan atau pembayaran secara langsung \ndari APBN tanpa ada data dukung jumlah guru dosen profesional serta \nperkiraan anggaran yang dibutuhkan untuk membayarnya. Hal ini beda \ndengan Undang-Undang lainnya se perti Undang-Undang Nomor 5 Tahun \n2014 tentang Aparatur Sipil Negara, Undang-Undang Nomor 34 Tahun \n2004 tentang Tentara Nasional Indonesia dan Undang-Undang Nomor 2 \nTahun 2002 tentang Kepolisian Republik Indonesia yang tidak menyebut \nlangsung besaran pembi ayaan yang harus dibayar oleh Pemerintah, tetapi \ndiserahkan pada Peraturan Pemerintah untuk mengatur hal yang menjadi \nkewenangan Presiden tersebut. Materi Undang-Undang a quo  yang \nberbeda dengan materi Undang-Undang lainnya menunjukkan adanya \nperlakuan tidak sama di hadapan hukum terhadap warga negara Indonesia.   \nUndang-Undang a quo menggunakan gaji pokok sebagai satuan besaran \ntunjangan pada Pasal 16 ayat (2), Pasal 18 ayat (2), Pasal 53 ayat (2), \nPasal 55 ayat (2) dan Pasal 56 ayat (1) tidak sesuai dengan prinsip adil. Adil \nadalah menempatkan sesuatu sesuai tempatnya, menggunakan gaji pokok \nsebagai tunjangan adalah kebijakan zalim. Dengan memerintahkan \npembayaran tunjangan sebesar gaji pokok pada pasal UU Guru dan Dosen \na quo adalah tidak ada  perlindungan dan kepastian hukum yang adil serta \nperlakuan yang sama di hadapan  hukum bagi warga negara, hal ini  tidak \nsesuai dengan Pasal 28D ayat (1) UUD 1945.",
+      "start_line": 234,
+      "end_line": 254
+    },
+    {
+      "heading": "20. Bahwa ketentuan belanja keuangan negara terkait proses pengajuan dan",
+      "slug": "20-bahwa-ketentuan-belanja-keuangan-negara-terkait-proses-pengajuan-dan",
+      "text": "penetapan APBN telah diatur pasal 23 UUD 1945, yang menyatakan: \n(1) Anggaran pendapatan dan belanja negara sebagai wujud dari \npengelolaan keuangan negara ditetapkan setiap tahun dengan undang -\nundang dan dilaksanakan secara terbuka dan bertanggung jawab untuk \nsebesar-besarnya kemakmuran rakyat. \n(2) Rancangan undang -undang anggaran pendapatan dan belanja negara \ndiajukan oleh Presiden untuk dibahas bersama Dewan Perwakilan \n\n \n \n \n8 \nRakyat dengan memperhatikan pertimbangan Dewan Perwakilan \nDaerah. \n(3) Apabila Dewan Perwakilan Rakyat tidak menyetujui rancangan anggaran \npendapatan dan belanja negara yang diusulkan oleh Presiden, \nPemerintah menjalankan Anggaran Pendapatan dan Belanja Negara \ntahun lalu. \nMahkamah Konstitusi dalam Putusan Nomor 35/PUU -XVI/2013 (P -9) \nhalaman 143 memberikanpenjelasan Pasal 23 UUD 1945 berikut:  \nMakna Pasal 23 ayat (2) dan ayat (3), pada pokoknya berarti Presiden \nmengajukan anggaran dan DPR menyetujui anggaran tersebut. Pasal 23 \nini memberikan deskripsi bahwa Presiden selaku pemegang kekuasaan \npemerintahan negara yang bertanggung jawab atas pela ksanaan \npemerintahan sebagaimana diamanatkan oleh Pasal 4 UUD 1945 adalah \nyang paling mengetahui hal ihwal program pembangunan yang hendak \ndilaksanakannya sehingga oleh Konstitusi diberikan kewenangan \nkonstitusional yang bersifat eksklusif kepada Presiden untuk mengajukan \nrancangan anggaran pendapatan dan Belanja Negara (RAPBN) yang \nkemudian dibahas bersama dan disetujui oleh DPR. Hal ini pula yang \nmembedakan Rancangan Undang -Undang (RUU) lainnya yang diajukan \nbaik oleh DPR, Presiden atau RUU tertentu oleh DPD dengan RUU APBN. \nKetentuan tersebut sesuai dengan sistem pemerintahan yang dianut \nIndonesia, yaitu sistem presidental. UUD 1945 memberikan kewenangan \nkepada Presiden untuk menjalankan kekuasaan penggunaan anggaran, \ntermasuk merencanakan program dan ang garan pemerintahan yang akan \ndilaksanakan setiap tahun. Anggaran tersebut diajukan oleh Presiden \ndalam bentuk RUU.",
+      "start_line": 256,
+      "end_line": 293
+    },
+    {
+      "heading": "21. DPR menetapkan anggaran belanja negara yang harus dibayar oleh",
+      "slug": "21-dpr-menetapkan-anggaran-belanja-negara-yang-harus-dibayar-oleh",
+      "text": "Pemerintah, yang telah ditetapkan sejak tahun 2005 dalam Undang-Undang       \na quo yang berasal dari DPR atas usulan DPD, dan bukan UU APBN tidak \nsesuai dengan Pasal 23 ayat (1) dan ayat (2) UUD 1945 di  mana anggaran \npendapatan dan belanja negara ditetapkan setiap tahun serta diusulkan \noleh Presiden untuk dibahas bersama DPR dengan memperhatikan \npertimbangan DPD.  \n\n \n \n \n9",
+      "start_line": 295,
+      "end_line": 305
+    },
+    {
+      "heading": "22. Bahwa DPR telah menetapkan program peningkatan kesejahteraan guru",
+      "slug": "22-bahwa-dpr-telah-menetapkan-program-peningkatan-kesejahteraan-guru",
+      "text": "dan dosen melalui kegiatan tunjangan profesi, tunjangan khusus dan \ntunjangan kehormatan dengan besaran satu kali dan dua kali gaji pokok \ndalam Undang-Undang a quo telah menjadikan DPR memasuki \nkewenangan Pemerintah. Sebab program dan kegiatan haruslah \nsepenuhnya wewenang Pemerintah untuk menyusun penentuannya. DPR \nmenentukan program dan kegiatan dan rincian anggaran tetap dalam \nUndang-Undang a quo  telah menjad ikan DPR sebagai Pemerintah atau \neksekutif. Dengan tindakan itu DPR kehilangan legitimasi untuk \nmelaksanakan fungsi pengawasan. Penetapan anggaran dalam Undang-\nUndang a quo telah merusak dan merobohkan prinsip check and balances  \nantara DPR dan Pemerintah d alam proses penyusunan dan pengelolaan \nanggaran. Hal ini berdasar kesaksian atas nama Saldi Isra di  dalam \nPutusan MK Nomor 35/PUU-XI/2013 (P-9).",
+      "start_line": 307,
+      "end_line": 319
+    },
+    {
+      "heading": "23. Bahwa Prinsip pembagian kekuasaan antar -lembaga negara yang berdasar",
+      "slug": "23-bahwa-prinsip-pembagian-kekuasaan-antar-lembaga-negara-yang-berdasar",
+      "text": "UUD 1945 menganut prinsip check and bala nces antar-lembaga negara \nyaitu hubungan satu lembaga negara dengan lembaga negara lainnya \ndilakukan berdasarkan prinsip kekuasaan dibatasi kekuasaan (power limited \nby power), bukan kekuasaan mengawasi kekuasaan lain ( power supervises \nother power ) apalagi kekuasaan dikontrol oleh kekuasaan lain ( power \ncontrol power ). DPR mengamanatkan kegiatan dan belanja negara dalam \nUU a quo  yang harus ditaati oleh Presiden/ pemerintah telah membatasi \nkedaulatan dan independensi penyusunan rencana kerja tahunan, target \npembangunan serta pengelolaan keuangan negara oleh Pemerintah. DPR \nmelalui Undang-Undang a quo  telah mengontrol fungsi Pemerintah dalam \nperencanaan dan pengelolaan keuangan negara terutama anggaran \npendidikan. Kewenangan DPR membentuk Undang -Undang telah \ndisalahgunakan untuk membatasi kewenangan dan kedaulatan Presiden \nsebagai pemegang kekuasaan Pemerintahan menurut UUD, terutama \ndalam pengelolaan anggaran pendidikan dalam upaya mencapai tujuan \nnegara mencerdaskan kehidupan bangsa. Tindakan DPR tersebut \ncenderung mengontrol kekuasaan Presiden tidak sesuai dengan pembagian \nkekuasaan berdasar UUD 1945 prinsip check and balances . Prinsip \npembagian kekuasaan ini telah dijelaskan dalam Putusan MK Nomor \n\n \n \n \n10 \n35/PUU-XI/2013 (P -9) di pendapat umum MK mengenai penyelenggaraa n \nkekuasaan dalam penyusunan dan penetapan anggaran negara menurut \nkonstitusi.",
+      "start_line": 321,
+      "end_line": 347
+    },
+    {
+      "heading": "24. Bahwa Presiden adalah pemegang kekuasaan pemerintahan berdasar UUD",
+      "slug": "24-bahwa-presiden-adalah-pemegang-kekuasaan-pemerintahan-berdasar-uud",
+      "text": "sesuai Pasal 4 ayat (1) UUD 1945. Kekuasaan Pemerintahan termasuk \nkekuasaan atas keuangan negara (Pasal 6 Undang-Undang Nomor 17 \nTahun 2003 tentang Keuangan Negara, P-3) dan kebijakan, pembinaan dan \nmanagemen kepegawaian ASN [Pasal 25 ayat (1) Undang-Undang Nomor \n5 Tahun 2014 tentang ASN, P -7], serta Militer (Pasal 10 UUD 1945, P -1). \nPemerintah dengan kekuasaan ya ng dimiliki adalah lembaga negara yang \nbertanggung jawab untuk melaksanakan rencana kerja Pemerintahan untuk \nmencapai tujuan bernegara. Presiden mengajukan kerangka ekonomi \nmakro dan pokok -pokok kebijakan fiskal kepada DPR untuk dibahas \nbersama. Berdasar h al tersebut dilanjutkan pembahasan kebijakan umum \ndan prioritas anggaran untuk dijadikan acuan kementerian/lembaga negara \nmenyususn usulan anggaran. Kebijakan umum dan prioritas anggaran \nadalah dinamis setiap tahun . Hal ini sesuai UUD 1945 yang memberikan \nkewenangan kepada Presiden menjalankan kekuasaan penggunaan \nanggaran, termasuk merencanakan program dan anggaran pemerintahan \nnegara yang akan dilaksanakan setiap tahun. DPR menetapkan rincian \nbelanja negara satuan gaji pokok dalam Undang-Undang a quo tahun 2005 \nadalah bentuk pembatasan kekuasaan Presiden dalam menjalankan \namanat Pasal 4 dan Pasal 23 UUD 1945.",
+      "start_line": 349,
+      "end_line": 367
+    },
+    {
+      "heading": "25. Bahwa Undang-Undang sebagai produk hukum DPR mencerminkan fungsi,",
+      "slug": "25-bahwa-undang-undang-sebagai-produk-hukum-dpr-mencerminkan-fungsi",
+      "text": "kewenangan dan tugas DPR  yang diberikan Konstitusi UUD 1945. Sesuai \nUUD 1945 Pasal 20A ayat (1) menyatakan Dewan Perwakilan Rakyat \nmemiliki fungsi legislasi, fungsi anggaran, dan fungsi pengawasan . Fungsi \nanggaran DPR dilaksanakan untuk membahas dan memberikan \npersetujuan atau tidak memberikan persetujuan terhadap rancangan \nundang-undang tentang APBN yang diajukan oleh Presiden sesuai pasal 23 \nayat (2) UUD 1945. Hal tersebut juga ditegaskan dalam Pasal 70 ayat (2) \nUndang-Undang Nomor 17 Tahun 2014 tentang MD3. Fungsi anggaran \nDPR juga telah dijelaskan dalam Putusan MK Nomor 35/PUU -XI/2013 \ndalam pendapat umum menyatakan kewenangan DPR membahas, \n\n \n \n \n11 \nmemberikan persetujuan dan otorisasi terhadap rancangan anggaran yang \ndiajukan oleh Presiden. Selanjutnya DPR selaku wakil rakyat melakukan \nkontrol dan pengawasan atas penggunaan anggaran yang telah disetujui \nbersama. Norma itulah yang pada hakikatnya menjelaskan makna fungsi \nanggaran DPR yang dinyatakan dalam Pasal 20A UUD 1945, sebagaimana \ndijelaskan dalam pendapat umum Putusan MK Nomor 35/PUU-XI/2013.",
+      "start_line": 369,
+      "end_line": 389
+    },
+    {
+      "heading": "26. Memperhatikan kewenangan konstitusional DPR dal am menjalankan fungsi",
+      "slug": "26-memperhatikan-kewenangan-konstitusional-dpr-dal-am-menjalankan-fungsi",
+      "text": "anggaran yang fokus membahas dan menyetujui usulan RAPBN, maka \npenetapan belanja dalam Undang-Undang a quo  telah menimbulkan \npersoalan konstitusional. Persoalan tersebut bersumber dari tindakan DPR \nmemposisikan sebagai perencana serta  menetapkan besaran rincian tanpa \ndata dukung terukur untuk belanja keuangan negara multitahun yang \nmerupakan kekuasaan Presiden dalam Undang-Undang a quo merupakan \nbentuk intervensi DPR kepada Presiden. Tindakan DPR menyalahi dan \ntidak sesuai prosedur pen etapan APBN, prinsip check and balances  \npembagian kekuasaan serta kesetaraan kedudukan antara Presiden dan \nDPR.",
+      "start_line": 391,
+      "end_line": 400
+    },
+    {
+      "heading": "27. Bahwa dengan berdasar Pasal 4 ayat (1), Pasal 20A ayat (1), Pasal 23 ayat",
+      "slug": "27-bahwa-dengan-berdasar-pasal-4-ayat-1-pasal-20a-ayat-1-pasal-23-ayat",
+      "text": "(1) dan ayat (2), Pasal 28D ayat (1) serta nilai -nilai Putusan Mahkama h \nKonstitusi Nomor 35/PUU -XI/2013, maka sewajarnya Mahkamah Konstitusi \nmemutuskan bahwa pasal -pasal yang memerintahkan Belanja negara \nkepada Presiden pada Undang-Undang a quo Pasal 16 ayat (2), Pasal 18 \nayat (2), Pasal 53 ayat (2), Pasal 55 ayat (2) dan Pa sal 56 ayat (1) adalah \nbertentangan dengan UUD 1945. Agar pasal -pasal tersebut dapat menjadi \nkonstitusional maka harus  memenuhi syarat menghapus frasa  yang \nmemerintahkan atau mewajibkan Presiden pemegang kekuasaan \nPemerintahan membayar keuangan negara sebe sar kelipatan gaji pokok \nguru, dosen atau profesor. Penentuan besaran tunjangan pada pasal -pasal \ntersebut diatur lebih lanjut dengan peraturan sesuai kewenangan Presiden. \nPemerintah melaksanakan pembiayaan tiap tahun menyesuaikan \nkeseimbangan pendapatan dan belanja negara, sesuai kemampuan belanja \nnegara dalam rencana kerja yang disetujui oleh DPR setiap tahun melalui \nusulan RUU APBN.  \n\n \n \n \n12 \nE. PETITUM  \nBerdasarkan uraian diatas, mohon yang Mulia Hakim Konstitusi memutuskan:",
+      "start_line": 402,
+      "end_line": 423
+    },
+    {
+      "heading": "2. Pasal 16 ayat (2), Pasal 18 ayat (2), Pasal 53 ayat (2), Pasal 55 ayat (2),",
+      "slug": "2-pasal-16-ayat-2-pasal-18-ayat-2-pasal-53-ayat-2-pasal-55-ayat-2",
+      "text": "Pasal 56 ayat (1) Undang-Undang Nomor 14 Tahun 2005 tentang Guru dan \nDosen (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 157, \nTambahan Lembaran Negara Republik I ndonesia Nomor 4586) harus \ndinyatakan konstitusional bersyarat ( conditionally constitusional) sepanjang \nmemenuhi syarat tidak ada kewajiban atau perintah kepada Presiden atas \nketetapan besaran belanja keuangan negara sehingga frase “setara dengan \n1 (satu) kali gaji pokok atau “setara 2 (dua) kali gaji pokok”   pada pasal dan \nayat tersebut adalah tidak berkekuatan hukum mengikat;",
+      "start_line": 426,
+      "end_line": 433
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan Putus an dalam Berita Negara Republik",
+      "slug": "3-memerintahkan-pemuatan-putus-an-dalam-berita-negara-republik",
+      "text": "Indonesia. \nBilamana Mahkamah Konstitusi memiliki pendapat lain, mohon putusan yang \nseadil- adilnya, ex aequo et bono. \n[2.2]  Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti surat/tulisan yang diberi tanda bukti P -1 sampai dengan \nbukti P-9 sebagai berikut:",
+      "start_line": 435,
+      "end_line": 440
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Da sar Negara Republik",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-da-sar-negara-republik",
+      "text": "Indonesia Tahun 1945;",
+      "start_line": 442,
+      "end_line": 442
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Nomor 14 Tahun 2005 tentang",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-nomor-14-tahun-2005-tentang",
+      "text": "Guru dan Dosen;",
+      "start_line": 444,
+      "end_line": 444
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Nomor 17 Tahun 2003 tentang",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-nomor-17-tahun-2003-tentang",
+      "text": "Keuangan Negara;",
+      "start_line": 446,
+      "end_line": 446
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Undang-Undang Nomor 12 Tah un 2011",
+      "slug": "4-bukti-p-4-fotokopi-undang-undang-nomor-12-tah-un-2011",
+      "text": "Tentang Peraturan Pembentukan Perundang-undangan;",
+      "start_line": 448,
+      "end_line": 448
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Undang-Undang Nomor 17 Tahun 2014 tentang",
+      "slug": "5-bukti-p-5-fotokopi-undang-undang-nomor-17-tahun-2014-tentang",
+      "text": "Majelis Permusyawaratan Rakyat, Dewan Perwakilan \nRakyat, Dewan Perwakilan Daerah, dan Dewan \nPerwakilan Rakyat Daerah;",
+      "start_line": 450,
+      "end_line": 452
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Undang-Undang Nomor 20 Tahun 2003 tentang",
+      "slug": "6-bukti-p-6-fotokopi-undang-undang-nomor-20-tahun-2003-tentang",
+      "text": "Sistem Pendidikan Nasional; \n\n \n \n \n13",
+      "start_line": 454,
+      "end_line": 459
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Undang-Undang Nomor 5 Tahun 2014 tentang",
+      "slug": "7-bukti-p-7-fotokopi-undang-undang-nomor-5-tahun-2014-tentang",
+      "text": "Aparatur Sipil Negara;",
+      "start_line": 461,
+      "end_line": 461
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi KTP, Kartu pegawai, NPWP , dan SK Pangkat",
+      "slug": "8-bukti-p-8-fotokopi-ktp-kartu-pegawai-npwp-dan-sk-pangkat",
+      "text": "PNS Terakhir;",
+      "start_line": 463,
+      "end_line": 463
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Putusan MK Nomor 35/PUU -XI/2013 halaman",
+      "slug": "9-bukti-p-9-fotokopi-putusan-mk-nomor-35-puu-xi-2013-halaman",
+      "text": "85-86, halaman 141-144, dan halaman 155-161. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam Berita Acara \nPersidangan, ya ng merupakan satu kesatuan yang tidak  terpisahkan dengan \nputusan ini.",
+      "start_line": 465,
+      "end_line": 469
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD 1945) ,  \nPasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Undang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Le mbaran Negara Republik Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor \n6554), dan Pasal 29 ayat (1) huruf a Undang -Undang Nomor 48 Tahun 2009 \ntentang Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun \n2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 5076), \nMahkamah berwenang mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji Undang-Undang terhadap UUD 1945; \n[3.2]   Menimbang bahwa oleh karena permohonan Pemoh on adalah \npermohonan untuk menguji konstitusionalitas norma Undang -Undang, in casu  \nUndang-Undang 14 Tahun 2005 tentang Guru dan Dosen  (Lembaran Negara \nRepublik Indonesia Tahun 2005 Nomor 157, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 4586 selanjutnya disebut UU 14/2005) terhadap UUD \n1945, maka Mahkamah berwenang mengadili permohonan a quo; \n\n \n \n \n14 \n[3.3]   Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo , namun sebelum mempertimbangkan kedudukan hukum \nPemohon untuk mengajukan perm ohonan a quo  dan pokok permohonan, \nMahkamah terlebih dahulu akan mempertimbangkan permohonan Pemohon \nsebagai berikut: \n[3.3.1]  Bahwa Mahkamah telah memeriksa permohonan a quo  dalam sidang \npemeriksaan pendahuluan pada tanggal 17 November  2020. Sesuai dengan  \nketentuan Pasal 39 UU MK, Majelis Panel sesuai dengan kewajibannya telah \nmemberikan nasihat kepada Pemohon untuk memperbaiki sekaligus memperjelas \nhal-hal yang berkaitan dengan permohonan Pemohon sesuai dengan sistematika \npermohonan sebagaimana diatur dalam Pasal 31 ayat (1) UU MK dan Pasal 5 ayat \n(1) huruf a, huruf b, huruf c, dan huruf d Peraturan Mahkamah Konstitusi Nomor \n06/PMK/2005 tentang Pedoman Beracara dalam Perkara Pengujian Undang -\nUndang (selanjutnya disebut PMK 6/2005); \n[3.3.2]  Bahwa Pemohon telah memperbaiki permohonannya sebagaimana telah \nditerima di Kepaniteraan Mahkamah tanggal 27 November  2020 dan diperiksa \ndalam sidang pemeriksaan perbaikan permohonan pada tanggal 8 Desember 2020 \ndan Pemohon dalam perbaikan permohonannya men guraikan dengan sistematika: \nJudul, Identitas Pemohon, Kewenangan Mahkamah Konstitusi, Kedudukan Hukum \nPemohon, Posita, dan Petitum; \n[3.3.3]  Bahwa meskipun format perbaikan permohonan Pemohon sebagaimana \ndimaksud pada Paragraf [3.3.2] pada dasarnya telah sesuai dengan  format \npermohonan pengujian undang -undang sebagaimana diatur dalam Pasal 31 ayat \n(1) UU MK dan Pasal 5 ayat (1) huruf a, huruf b, huruf c, dan huruf d PMK 6/2005, \nnamun setelah Mahkamah memeriksa dengan saksama  pada bagian kedu dukan \nhukum, Pemohon tidak me nguraikan secara spesifik adanya hubungan kausalitas \nbahwa dengan berlakunya pasal -pasal yang dimohonkan pengujian dianggap \nmerugikan Pemohon sebagai warga negara Indonesia selaku pegawai negeri sipil \n(PNS) yang tidak mem eroleh kenaikan gaji karena anggara nnya digunakan untuk \ntunjangan profesi dan tunjangan khusus bagi guru dan dosen, serta tunjangan \nkehormatan bagi profesor. Dalam menjelaskan ihwal kerugian hak \nkonstitusionalnya Pemohon antara lain mengemukakan: \n\n \n \n \n15 \n“…ketentuan a q uo Pemohon menganggap tidak a danya kedaulatan \nPresiden dalam menjalankan Pemerintahan, yaitu dalam melaksanakan \nkekuasaan keuangan negara dan managemen kepegawaian ASN. Ketentuan \na quo  memerintahkan kepada Pemerintah untuk memberikan tunjangan \nprofesi dan khusus kepada Guru dan Dosen sebesar satu kali gaji pokok dan \ntunjangan kehormatan kepada Profesor sebesar dua kali gaji pokok. \nKetentuan sejak 2005 ini telah mengintervensi hak Presiden sebagai \npemegang kekuasaan Pemerintahan keuangan negara untuk merenca nakan \ndan melaksanakan pengelolaan keuangan periodik tahunan. \nPenjelasan dimaksud sama sekali tidak menjelaskan kerugian hak konstitusional \nPemohon dengan berlakunya norma yang dimohonkan pengujian tetapi sebaliknya \njustru mendalilkan adanya ketidakpastian hukum kewenangan antarlembaga tinggi \nnegara yang menetapkan besaran anggaran dimaksud . Apabila dikaitkan dengan \nkewajiban menjelaskan kerugian hak konstitusional Pemohon sebagai salah satu \nsyarat formal yang harus dikemukakan Pemohon, sesungguhnya dalam ka pasitas \napa Pemohon menjelas kan keberadaan norma yang dimohonkan pengujian telah \nmengintervensi hak Presiden dan sekaligus merugikan hak konstitusional Presiden \ndalam merencanakan dan melaksanakan pengelolaan keuangan negara.  \nSelain itu, merujuk norma yan g diuji konstitusionalitasny a, yaitu norma \ndalam Pasal 16 ayat (2), Pasal 18 ayat (2), Pasal 53 ayat (2), Pasal 55  ayat (2), \ndan Pasal 56 ayat (1) UU 14/2005 yang dimohonkan, sebagaimana dimaktubkan \ndalam Petitum, yaitu: “dinyatakan konstitusional bersyarat ( conditionally \nconstitusional) s epanjang memenuhi syarat tidak ada kewajiban atau perintah \nkepada Presiden atas ketetapan besaran belanja keuangan negara sehingga frasa \n“setara dengan 1 (satu) kali gaji pokok  atau “setara 2 (dua) kali gaji pokok ” pada \npasal dan ayat tersebut adala h tidak berkekuatan hukum mengikat” adalah \nkehendak yang saling bertentangan. Pada satu sisi, Pemohon menghendaki \nnorma-norma a quo adalah konstitusional bersyarat, dan sisi lain memohon agar \nnorma-norma a quo  adalah bertentangan den gan UUD 1945. Tidak han ya \npertentangan itu, jikalau Pemohon menghendaki frasa “setara dengan 1 (satu) kali \ngaji pokok ” dan “setara 2 (dua) kali gaji pokok”  diberikan pemaknaan baru, \nmestinya dikemukakan perumusan makna baru yang dikehendaki Pemohon \nsehingga norma tersebut menjad i konst itusional sesuai dengan penalaran \nPemohon. Namun dalam Posita Pemohon sama sekali tidak mengemukakan \nrumusan baru terhadap frasa “setara dengan 1 (satu) kali gaji pokok atau “setara 2 \n(dua) kali gaji pokok” tetapi justru menghendaki Presiden tidak berkewajiban untuk \nmemenuhi kewajiban sebagaimana dimaktubkan dalam Pasal 16 ayat (2), Pasal \n\n \n \n \n16 \n18 ayat (2), Pasal 53 ayat (2), Pasal 55 ayat (2), dan Pasal 56 ayat (1) UU \n14/2005;     \nBerdasarkan uraian pertimbangan hukum tersebut di at as, menurut \nMahkamah pe rmohonan Pemohon adalah tidak jelas ( kabur) karena tidak \nmemenuhi syarat formal permohonan sebagaimana dimaksud dalam Pasal 31 ayat \n(1) UU MK dan Pasal 5 ayat (1) PMK 6/2005. \n[3.4]  Menimbang bahwa berdasarkan pertimba ngan di atas, meski pun \nMahkamah berwenang mengadili permohonan a quo, namun karena permohonan \nPemohon tidak jelas ( kabur) sehingga tidak memenuhi persyaratan formal \npermohonan sebagaimana dimaksud dalam Pasal 31 ayat (1) UU MK  dan Pasal 5 \nayat (1) PMK 6/2005 . Oleh karena itu , Mahkamah tidak me mpertimbangkan \npermohonan Pemohon lebih lanjut.",
+      "start_line": 471,
+      "end_line": 585
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan",
+      "start_line": 587,
+      "end_line": 587
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Permohonan Pemohon tidak jelas (kabur); \n[4.3] Pokok permohonan Pemohon tidak dipertimbangkan lebih lanjut; \nBerdasarkan Undang -Undang Dasar Negara Republik Indonesia Tahun \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5076); \n \n \n\n \n \n \n17",
+      "start_line": 589,
+      "end_line": 607
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dal am Rapat P ermusyawaratan Hakim oleh sembilan \nHakim Konstitusi yaitu Anwar Usman, selaku Ketua merangkap Anggota, Aswanto,  \nSaldi Isra, Daniel Yusmic P. Foekh,  Suhartoyo, Arief Hidayat, Enny Nurbaningsih,  \nManahan M .P. Sitompu l, dan Wahiduddin Adam s, masing-masing seb agai \nAnggota, pada hari Kamis, tanggal sepuluh, bulan Desember, tahun dua ribu \ndua puluh, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Kamis, tanggal empat bela s, bulan Januari, tahun dua \nribu dua puluh satu,  selesai diucapkan pukul 14.47 WIB, oleh sembilan Hakim \nKonstitusi yaitu Anwar Usman, selaku Ketua merangkap Anggota, Aswanto, Saldi \nIsra, Daniel Yusmic P. Foekh,  Suhartoyo, Arief Hidayat , Enny Nurbaningsih,  \nManahan M .P. Sitompu l, dan Wahiduddin Adam s, masing-masing seb agai \nAnggota, dengan dibantu oleh Nurlidya Stephanny Hikmah  sebagai Panitera \nPengganti, serta dihadiri oleh Pemohon, Dewan Perwakilan Rakyat atau yang \nmewakili, Presiden atau yang mewakili. \n \nKETUA, \nttd.  \nAnwar Usman \nANGGOTA-ANGGOTA, \nttd.  \nAswanto \nttd.  \nSaldi Isra \n ttd. \nDaniel Yusmic P. Foekh \nttd.  \nSuhartoyo \n\n \n \n \n18 \n ttd. \nArief Hidayat \nttd.  \nEnny Nurbaningsih \nttd.  \nManahan M.P. Sitompul \nttd.  \nWahiduddin Adams \nPANITERA PENGGANTI, \nttd. \nNurlidya Stephanny Hikmah",
+      "start_line": 609,
+      "end_line": 657
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Ahmad Amin, S.ST",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 14/2005 tentang Guru dan Dosen"
+    ],
+    "constitutional_articles": [
+      "Pasal 23 ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 22D",
+      "pasal 23",
+      "Pasal 23",
+      "Pasal 4",
+      "Pasal 4 ayat (1)",
+      "Pasal 10",
+      "Pasal 20A ayat (1)",
+      "Pasal 70 ayat (2)",
+      "Pasal 20A",
+      "Pasal 24 ayat (2)",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P -1",
+      "BUKTI P-9",
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "REFERENSI:94/PUU-XVIII/2020",
+      "REFERENSI:190/PAN.MK/2020dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal27Oktober2020denganNomor94/PUU-XVIII/2020",
+      "REFERENSI:006/PUU-III/2005junctoPerkaraNomor11/PUU-V/2007",
+      "REFERENSI:003/PUU-I/2003",
+      "REFERENSI:35/PUU-XI/2013",
+      "REFERENSI:35/PUU-XVI/2013",
+      "REFERENSI:06/PMK/2005",
+      "REFERENSI:27/PUU-VII/2009"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Anwar Usman",
+      "Aswanto",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "Suhartoyo",
+      "Arief Hidayat",
+      "Enny Nurbaningsih",
+      "Manahan M.P. Sitompul",
+      "Wahiduddin Adams"
+    ],
+    "clerks": [
+      "Nurlidya Stephanny Hikmah"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "94/PUU-XVIII/2020",
+      "190/PAN.MK/2020dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal27Oktober2020denganNomor94/PUU-XVIII/2020",
+      "006/PUU-III/2005junctoPerkaraNomor11/PUU-V/2007",
+      "003/PUU-I/2003",
+      "35/PUU-XI/2013",
+      "35/PUU-XVI/2013",
+      "06/PMK/2005",
+      "27/PUU-VII/2009"
+    ],
+    "referenced_cases": [
+      "94/PUU-XVIII/2020",
+      "190/PAN.MK/2020dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal27Oktober2020denganNomor94/PUU-XVIII/2020",
+      "006/PUU-III/2005junctoPerkaraNomor11/PUU-V/2007",
+      "003/PUU-I/2003",
+      "35/PUU-XI/2013",
+      "35/PUU-XVI/2013",
+      "06/PMK/2005",
+      "27/PUU-VII/2009"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

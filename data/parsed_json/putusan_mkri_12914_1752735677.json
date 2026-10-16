@@ -1,0 +1,1457 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_12914_1752735677.pdf",
+    "file_name": "putusan_mkri_12914_1752735677.pdf",
+    "page_count": 53,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_12914_1752735677.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "21/PUU-XXIII/2025",
+    "related_case_numbers": [
+      "21/PUU/PAN.MK/AP3/02/2025"
+    ],
+    "title": "1",
+    "decision_date": "2025-07-17",
+    "decision_date_raw": "tujuh belas, bulan Juli, tahun dua ribu dua puluh lima",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "1",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 21/PUU-XXIII/2025",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan ter akhir, \nmenjatuhkan putusan dalam perkara pengujian Undang-Undang Nomor  39 Tahun \n2008 tentang Kementerian Negara terhadap Undang-Undang Dasar Ne gara \nRepublik Indonesia Tahun 1945, yang diajukan oleh:  \n Nama : Juhaidy Rizaldy Roringkon \nPekerjaan  : Direktur Eksekutif Indonesia Law & Democracy \nStudies (ILDES) \nAlamat : Jaga II, RT. 000/RW. 000, Desa Sarani Matani, \nKecamatan Tombariri, Kabupaten Minahasa, \nProvinsi Sulawesi Utara \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon; \nMendengar keterangan Pemohon; \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 7,
+      "end_line": 20
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal \n26 Februari 2024 yang diterima di Kepaniteraan Mahkamah Konstit usi (selanjutnya \ndisebut Kepaniteraan Mahkamah) pada tanggal 26 Februari 2025, berdasarkan Akta \nPengajuan Permohonan Pemohon Nomor 21/PUU/PAN.MK/AP3/02/2025 dan telah \ndicatat dalam Buku Registrasi Perkara Konstitusi Elektronik (e-BRPK) pada tanggal \n10 Maret 2025 dengan Nomor 21/PUU-XXIII/2025, yang telah diperb aiki dengan \nperbaikan permohonan bertanggal 28 April 2025, yang diterima Ma hkamah pada \ntanggal 30 April 2025, pada pokoknya menguraikan hal-hal sebagai berikut: \n\n\n2 \nA. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 22,
+      "end_line": 33
+    },
+    {
+      "heading": "1. Bahwa Ketentuan Pasal 24 ayat (2) Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-ketentuan-pasal-24-ayat-2-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 menegaskan “Kekuasaan kehakiman \ndilakukan oleh sebuah Mahkamah Agung dan badan peradilan yang \nberada di bawahnya dalam lingkungan peradilan umum, lingkungan \nperadilan agama, lingkungan per adilan militer, lingkungan perad ilan tata \nusaha negara, dan oleh sebuah Mahkamah Konstitusi”, sehingga \nMahkamah Konstitusi adalah salah satu cabang kekuasaan kehakima n \nyang menyelenggarakan peradilan.",
+      "start_line": 35,
+      "end_line": 41
+    },
+    {
+      "heading": "2. Bahwa perubahan ketiga Undang-Undang Dasar Negara Republik",
+      "slug": "2-bahwa-perubahan-ketiga-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 pada Pasal 24C ayat (1) telah menyatakan, \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji Undang-Un dang \nterhadap Undang-Undang Dasar”.",
+      "start_line": 43,
+      "end_line": 46
+    },
+    {
+      "heading": "3. Bahwa berdasarkan Undang-Undang Nomor 48 Tahun 2009 tentang",
+      "slug": "3-bahwa-berdasarkan-undang-undang-nomor-48-tahun-2009-tentang",
+      "text": "Kekuasaan Kehakiman, wewenang yang sama juga ditegaskan dalam \nPasal 29 ayat (1), yakni “Mahkamah Konstitusi berwenang mengadili pada \ntingkat pertama dan terakhir yang putusannya bersifat final unt uk: (a) \nmenguji Undang-Undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945”.",
+      "start_line": 48,
+      "end_line": 52
+    },
+    {
+      "heading": "4. Bahwa Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah",
+      "slug": "4-bahwa-undang-undang-nomor-24-tahun-2003-tentang-mahkamah",
+      "text": "Konstitusi yang kemudian diubah terakhir dengan Undang-Undang Nomor \n7 Tahun 2020 tentang Perubahan Ketiga atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (“Undang-Undang Mahkamah  \nKonstitusi”) pada Ketentuan Pasal 10 ayat (1) huruf a kembali menegaskan \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: menguji Undang-U ndang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945”.",
+      "start_line": 54,
+      "end_line": 60
+    },
+    {
+      "heading": "5. Bahwa begitupun ketentuan Pasal 9 ayat (1) Undang-Undang Nom or 12",
+      "slug": "5-bahwa-begitupun-ketentuan-pasal-9-ayat-1-undang-undang-nom-or-12",
+      "text": "Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan yan g \nkemudian diubah terakhir dengan Undang-Undang Nomor 13 Tahun 2022 \ntentang Perubahan Kedua Atas Undang-Undang Nomor 12 Tahun 2011 \nTentang Pembentukan Peraturan Perundang-undangan (“UU \n\n3 \nPembentukan Peraturan Perundang-undangan”) menyebutkan pula \n“Dalam hal suatu undang-undang diduga bertentangan dengan Undan g-\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi”.",
+      "start_line": 62,
+      "end_line": 71
+    },
+    {
+      "heading": "6. Bahwa merujuk kepada ketentuan Pasal 1 ayat (3) Peraturan Ma hkamah",
+      "slug": "6-bahwa-merujuk-kepada-ketentuan-pasal-1-ayat-3-peraturan-ma-hkamah",
+      "text": "Konstitusi Nomor 2 Tahun 2021 tentang Tata Beracara dalam Perka ra \nPengujian Undang-Undang (PMK Nomor 2 Tahun 2021) menegaskan, \n\"Pengujian Undang-Undang terhadap UUD 1945 yang selanjutnya disebut \nPUU adalah perkara konstitusi yang menjadi kewenangan Mahkamah \nKonstitusi sebagaimana dimaksud dalam UUD 1945 dan Undang-Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana tel ah \ndiubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 tentang  \nPerubahan Ketiga atas Undang-Undang Nomor 24 Tahun 2003 Tentang  \nMahkamah Konstitusi (UU MK), termasuk pengujian Peraturan Pemerintah \nPengganti Undang-Undang (Perppu) sebagaimana dimaksud dalam \nPutusan Mahkamah Konstitusi”.",
+      "start_line": 73,
+      "end_line": 83
+    },
+    {
+      "heading": "7. Bahwa berdasarkan ketentuan di atas, permohonan a quo yang",
+      "slug": "7-bahwa-berdasarkan-ketentuan-di-atas-permohonan-a-quo-yang",
+      "text": "merupakan pengujian materiil berkenaan dengan muatan kata Mente ri \nharus dimaknai Menteri dan Wakil Menteri (konstitusional bersyarat) dalam \nPasal 23 Undang-Undang Nomor 39 Tahun 2008  yang dianggap \nbertentangan dengan Pasal 1 ayat (3), Pasal 17, Pasal 27 ayat ( 1), Pasal \n28D ayat (3) UUD NRI 1945 adalah merupakan kewenangan MK.",
+      "start_line": 85,
+      "end_line": 89
+    },
+    {
+      "heading": "8. Bahwa oleh karena permohonan Pemohon adalah mengenai penguji an",
+      "slug": "8-bahwa-oleh-karena-permohonan-pemohon-adalah-mengenai-penguji-an",
+      "text": "materiil Pasal 23 UU Kementerian Negara terhadap UUD NRI 1945, maka \nMahkamah Konstitusi berwenang mengadili permohonan ini. \nB. KEDUDUKAN HUKUM ( LEGAL STANDING)",
+      "start_line": 91,
+      "end_line": 93
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU MK beserta Penjelasannya menyatak an,",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mk-beserta-penjelasannya-menyatak-an",
+      "text": "Pemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya Undang-Undang, yaitu:  \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip Negara \nKesatuan Republik Indonesia yang diatur dalam Undang-Undang;  \n\n4",
+      "start_line": 95,
+      "end_line": 102
+    },
+    {
+      "heading": "2. Bahwa di dalam Penjelasan Pasal 51 ayat (1) UU MK dinyatakan bahwa",
+      "slug": "2-bahwa-di-dalam-penjelasan-pasal-51-ayat-1-uu-mk-dinyatakan-bahwa",
+      "text": "yang dimaksud dengan hak konstitusional adalah hak yang diatur dalam \nUUD 1945;",
+      "start_line": 106,
+      "end_line": 107
+    },
+    {
+      "heading": "3. Bahwa Putusan Mahkamah Konstitusi Nomor 06/PUU-III/ dan Perk ara",
+      "slug": "3-bahwa-putusan-mahkamah-konstitusi-nomor-06-puu-iii-dan-perk-ara",
+      "text": "Nomor 11/PUU-V/2007, juga menyebutkan tentang kapasitas Pemohon  \ndalam mengajukan permohonan pengujian undang-undang terhadap \nundang-undang dasar, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh Undang-Undang Dasar 1945;  \nb. hak dan/atau kewenangan konstitusional tersebut dianggap tel ah \ndirugikan oleh berlakunya undang-undang yang dimohonkan \npengujian;",
+      "start_line": 109,
+      "end_line": 116
+    },
+    {
+      "heading": "c. kerugian hak dan/atau kewenangan konstitusional tersebut",
+      "slug": "c-kerugian-hak-dan-atau-kewenangan-konstitusional-tersebut",
+      "text": "bersifat spesifik dan aktual, setidak-tidaknya bersifat potensi al \nyang menurut penalaran yang wajar dapat dipastikan akan terjadi;",
+      "start_line": 118,
+      "end_line": 119
+    },
+    {
+      "heading": "d. ada hubungan sebab akibat (causal verband) antara kerugian hak",
+      "slug": "d-ada-hubungan-sebab-akibat-causal-verband-antara-kerugian-hak",
+      "text": "dan/atau kewenangan konstitusional dengan undang-undang \nyang dimohonkan pengujian; \ne. ada kemungkinan bahwa dengan dikabulkannya permohonan, \nmaka kerugian hak dan/atau kewenangan konstitusional yang \ndidalilkan tidak akan atau tidak lagi terjadi;",
+      "start_line": 121,
+      "end_line": 125
+    },
+    {
+      "heading": "4. Bahwa Pemohon sejatinya adalah warga negara pencari keadilan y a n g",
+      "slug": "4-bahwa-pemohon-sejatinya-adalah-warga-negara-pencari-keadilan-y-a-n-g",
+      "text": "sering beracara di Mahkamah Konstitusi, dengan berlakunya norma  yang \ndiuji di atas, dengan ini Pemohon merasa mendapatkan ketidakpas tian \nhukum dan ketidakadilan, ketika adanya pertimbangan hukum dalam  \nPutusan Mahkamah Konstitusi Nomor 80/PUU-XVII/2019, yang telah \nsecara tegas melarang rangkap jabatan wakil menteri, tetapi hal  ini tidak \ndilaksanakan oleh pemerintah dan semua pihak yang berkepentingan;",
+      "start_line": 127,
+      "end_line": 132
+    },
+    {
+      "heading": "5. Bahwa ketidakpastian hukum dan ketidakadilan ini terjadi kar ena tidak",
+      "slug": "5-bahwa-ketidakpastian-hukum-dan-ketidakadilan-ini-terjadi-kar-ena-tidak",
+      "text": "diamarkannya larangan rangkap jabatan wakil menteri dalam Putus an \nMahkamah Konstitusi, sehingga anggapan sebagian pihak, hal ini tidak \n\n5 \nmemiliki kekuatan hukum yang mengikat bagi (dalam hal ini Pemer intah \ndan DPR);",
+      "start_line": 134,
+      "end_line": 139
+    },
+    {
+      "heading": "6. Bahwa sejatinya pertimbangan hukum merupakan satu kesatuan y ang",
+      "slug": "6-bahwa-sejatinya-pertimbangan-hukum-merupakan-satu-kesatuan-y-ang",
+      "text": "tidak dapat dipisahkan dalam suatu Putusan Mahkamah konstitusi,  yang \ndimana pertimbangan hukum sebagai alasan atau penalaran yang menjadi \npokok suatu putusan (ratio decidendi). Di samping itu, Putusan Mahkamah \nKonstitusi yang sifatnya erga omnes atau dapat diartikan bahwa (putusan \ntersebut berkekuatan hukum mengikat dan karena sifat hukumnya secara \npublik maka berlaku pada siapa saja, tidak hanya berlaku bagi p ara pihak \nyang berperkara). Oleh sebab itu, maka Putusan Mahkamah Konstit usi \nbukan hanya amar putusannya saja yang berlaku asas erga omnes, akan \ntetapi segala hal yang diatur dan ditentukan dalam pertimbangan  hukum, \nberlaku juga asas erga omnes tersebut;",
+      "start_line": 141,
+      "end_line": 150
+    },
+    {
+      "heading": "7. Bahwa sejak jabatan wakil menteri dibentuk, secara otomatis struktur",
+      "slug": "7-bahwa-sejak-jabatan-wakil-menteri-dibentuk-secara-otomatis-struktur",
+      "text": "organisasi kementerian negara menjadi bertambah. Penambahan struktur \norganisasi di kementerian negara berimplikasi pada struktur org anisasi \nkementerian negara secara keseluruhan. Melihat pada tugas, fung si, dan \nkewenangan, maka jabatan wakil menteri merupakan jabatan dalam \nstruktur organisasi kementerian negara berada satu tingkat di b awah \nmenteri dan juga berada satu tingkat di atas sekretariat jender al, \ninspektorat jenderal, dan direktorat jenderal, serta terdapat p enambahan \nsatu nomenklatur pada kementerian negara sejak dibentuknya jaba tan \nwakil menteri. Secara teoritis, hal ini akan berdampak pada str uktur \norganisasi kementerian negara secara keseluruhan;",
+      "start_line": 152,
+      "end_line": 161
+    },
+    {
+      "heading": "8. Bahwa sebagaimana diuraikan sebelumnya, konstitusionalitas",
+      "slug": "8-bahwa-sebagaimana-diuraikan-sebelumnya-konstitusionalitas",
+      "text": "keberadaan wakil menteri ini pernah digugat dalam permohonan pengujian \nundang-undang. MK melalui Putusan Nomor 80/PUU-XVII/2019 mengutip \nkembali pertimbangan hukum dalam putusan sebelumnya dan tetap \nkonsisten pada pendiriannya mengenai konstitusionalitas jabatan  w a k i l  \nmenteri. Hal ini merupakan pertimbangan hukum MK terhadap dalil -dalil \npermohonan yang pada pokoknya menginginkan agar keberadaaan wak il \nmenteri dinyatakan inkonstitusional. Sementara itu, berkenaan dengan isu \nkonstitusionalitas terkait rangkap jabatan, MK memberikan penilaian yang \npada pokoknya menyatakan bahwa larangan yang berlaku bagi mente ri \n\n6 \njuga berlaku terhadap wakil menteri. Berdasarkan Pasal 23 UU 39 /2008, \nseorang menteri dilarang merangkap jabatan sebagai pejabat nega ra \nlainnya sesuai dengan peraturan perundang-undangan, komisaris, atau \ndireksi pada perusahaan negara, atau perusahaan swasta, atau pimpinan \norganisasi yang dibiayai dari APBN dan/atau APBD. Dengan adanya  \npenegasan Putusan MK sebagaimana dikemukakan di atas, maka tera ng \nbahwa wakil menteri juga dilarang merangkap jabatan lain sebaga imana \ndisebutkan dalam Pasal 23 UU 39/2008;",
+      "start_line": 163,
+      "end_line": 181
+    },
+    {
+      "heading": "9. Bahwa dijatuhkannya Putusan Mahkamah Konstitusi Nomor 80/PUU -",
+      "slug": "9-bahwa-dijatuhkannya-putusan-mahkamah-konstitusi-nomor-80-puu",
+      "text": "XVII/2019 tersebut seharusnya dilaksanakan dengan baik oleh \npemerintah. Namun demikian, pada pelaksanaannya masih terdapat wakil \nmenteri yang rangkap jabatan sebagai komisaris di perusahaan mi lik \nnegara. Hal ini tentu saja tidak bersesuaian dengan amanat yang terdapat \ndalam Putusan MK tersebut;",
+      "start_line": 183,
+      "end_line": 187
+    },
+    {
+      "heading": "10. Bahwa padahal terdapat adagium yang menyatakan bahwa putusa n",
+      "slug": "10-bahwa-padahal-terdapat-adagium-yang-menyatakan-bahwa-putusa-n",
+      "text": "pengadilan apakah benar atau salah dan baik atau buruk harus te tap \ndilaksanakan. Putusan MK itu sendiri sudah jelas menyampaikan b ahwa \nwakil menteri dilarang rangkap jabatan sebagai komisaris di per usahaan \nnegara maupun swasta. Pengabaian terhadap putusan tersebut sala h \nsatunya didasarkan pada alasan bahwa amar putusan dari perkara \ntersebut “tidak dapat diterima” dan tidak menyatakan ketentuan terkait \nlarangan rangkap jabatan tersebut inkonstitusional. Meskipun dalam amar \nPutusan MK permohonannya tidak dapat diterima, tetapi dalam membaca \nputusan juga sudah seharusnya membaca dan melihat ratio decidendi-\nnya. Dengan kata lain, bukan berarti amar putusan tidak diterima l alu \nmengabaikan ratio decidendi dalam putusannya;",
+      "start_line": 189,
+      "end_line": 199
+    },
+    {
+      "heading": "11. Bahwa dalam putusan tersebut bahkan secara eksplisit menyeb utkan",
+      "slug": "11-bahwa-dalam-putusan-tersebut-bahkan-secara-eksplisit-menyeb-utkan",
+      "text": "kedudukan wakil menteri itu sama dengan posisi menteri, mulai d ari \npersyaratan dan kriteria sampai dengan larangannya. Sebab, posi si wakil \nmenteri bisa saja menggantikan menteri apabila menteri berhalan gan, \nsehingga tidak ada perbedaan terkait dari persyaratan maupun \nlarangannya pada saat menjabat. Penegasan MK terkait dengan larangan \nrangkap jabatan menteri dan wakil menteri yang tertuang di dala m \npertimbangan hukum Putusan MK Nomor 80/PUU-XVII/2019 dipandang \n\n7 \noleh pemerintah hanya bersifat saran dan tidak memiliki kekuata n \nmengikat. Pandangan demikian tentu sangat keliru dan perlu dilu ruskan. \nPertimbangan hukum dalam putusan MK itu bersifat mengikat karen a \npertimbangan hukum dalam putusan juga merupakan bagian dari putusan, \nsebab semua bagian yang ada dalam putusan tersebut merupakan sa tu \nkesatuan. Sehingga, jelas bahwa sejak putusan dibacakan maka pu tusan \ntersebut bersifat mengikat dan harus dilaksanakan sesuai dengan  ya n g \ntertulis dalam putusan tersebut;",
+      "start_line": 201,
+      "end_line": 217
+    },
+    {
+      "heading": "12. Bahwa sejalan dengan hakikat putusan MK yang bersifat final d a n",
+      "slug": "12-bahwa-sejalan-dengan-hakikat-putusan-mk-yang-bersifat-final-d-a-n",
+      "text": "mengikat serta berlaku umum (erga omnes) , maka putusan MK \nsemestinya mengakhiri perdebatan dan perbedaan tafsir yang munc ul. \nOleh karenanya, tiada tafsir lain selain mengikuti kehendak put usan \nMahkamah Konstitusi. Sebab, tidak dilaksanakannya putusan Mahka mah \nKonstitusi dapat dikualifisir sebagai pembangkangan terhadap ko nstitusi \n(constitutional disobedience);",
+      "start_line": 219,
+      "end_line": 224
+    },
+    {
+      "heading": "13. Bahwa sebagai warga negara Indonesia yang baik dan tunduk p ada",
+      "slug": "13-bahwa-sebagai-warga-negara-indonesia-yang-baik-dan-tunduk-p-ada",
+      "text": "konstitusi, maka sudah semestinya seluruh pihak menghormati put usan \nMK. Sebab, apa yang telah diputus oleh MK selaku penjaga konstitusi (the \nguardian of the constitution) pada hakikatnya merupakan kehendak hukum \ntertinggi bernegara, yakni konstitusi (UUD NRI 1945). Oleh kare nanya, \nseluruh warga negara, terutama addressat putusan MK, wajib \nmenghormati dan melaksanakan putusan tersebut sesuai dengan \nketentuan yang berlaku;",
+      "start_line": 226,
+      "end_line": 232
+    },
+    {
+      "heading": "14. Bahwa terkait adanya larangan rangkap jabatan bagi wakil me nteri",
+      "slug": "14-bahwa-terkait-adanya-larangan-rangkap-jabatan-bagi-wakil-me-nteri",
+      "text": "seharusnya sudah tidak menimbulkan perbedaan pandangan lagi, ba ik di \nkalangan pemerintah maupun masyarakat umum, dikarenakan telah j elas \ndan terang bahwa Putusan MK bersifat final dan mengikat serta b erlaku \numum (erga omnes). Apabila masih terdapat perbedaan pandangan dalam \nmenafsirkan putusan tersebut, hal ini tentu saja harus segera d iakhiri \nmengingat bahwa MK merupakan penafsir akhir konstitusi (the final \ninterpreter of the Constitution). Dalam hal tidak dilaksanakannya Putusan \nMK maka pejabat terkait dapat dikualifisir telah melakukan \npembangkangan terhadap konstitusi; \n\n8",
+      "start_line": 234,
+      "end_line": 244
+    },
+    {
+      "heading": "15. Bahwa pelaksanaan amanat putusan Mahkamah Konstitusi terhad ap",
+      "slug": "15-bahwa-pelaksanaan-amanat-putusan-mahkamah-konstitusi-terhad-ap",
+      "text": "larangan rangkap jabatan yang dilakukan oleh wakil menteri belu m \ndilaksanakan dengan baik dikarenakan pada pelaksanaannya masih ada \nwakil menteri yang menduduki rangkap jabatan sebagai komisaris dan \nwakil komisaris di perusahaan milik negara. Hal demikian dapat dikualifisir \nsebagai suatu bentuk ketidakpatuhan terhadap Putusan Mahkamah \nKonstitusi. Akibat hukum dan sanksi dari rangkap jabatan yang d ilakukan \noleh wakil menteri, yaitu berupa pemberian sanksi administratif yang salah \nsatu sanksinya berupa pemberhentian dari jabatannya. Selain itu , wakil \nmenteri yang rangkap jabatan juga dapat diberikan sanksi berupa  \nkewajiban mengganti kerugian keuangan negara karena mendapatkan gaji \ndan pendapat serta fasilitas ganda yang tidak seharusnya yang b erasal \ndari keuangan negara, baik langsung maupun tidak langsung;",
+      "start_line": 246,
+      "end_line": 257
+    },
+    {
+      "heading": "16. Bahwa Pemohon selain sebagai warga negara pencari keadilan yang",
+      "slug": "16-bahwa-pemohon-selain-sebagai-warga-negara-pencari-keadilan-yang",
+      "text": "sering beracara di Mahkamah konstitusi, Pemohon juga turut akti f dalam \nkomunitas pencinta hukum tata negara yang bernama Indonesia Law & \nDemocracy Studies (ILDES) yang memiliki konsentrasi berbagai isu hukum \ndan demokrasi yang ada di Indonesia sesuai dengan Anggaran Dasar dan \nAnggaran Rumah Tangga Indonesia Law & Democracy Studies (ILDES);",
+      "start_line": 259,
+      "end_line": 263
+    },
+    {
+      "heading": "17. Bahwa dengan adanya ketidakpastian hukum dan ketidakadilan terhadap",
+      "slug": "17-bahwa-dengan-adanya-ketidakpastian-hukum-dan-ketidakadilan-terhadap",
+      "text": "pertimbangan hukum MK yang tidak ditaati oleh semua pihak, permohonan \na quo sejalan dengan tujuan Indonesia Law & Democracy Studies (ILDES) \nsesuai dengan Pasal 7 ayat (4) Anggaran Dasar: “Mengawal dan \nMengambil peran terhadap setiap permasalahan konstitusional yan g ada",
+      "start_line": 265,
+      "end_line": 268
+    },
+    {
+      "heading": "di Indonesia baik di lingkungan kekuasaan eksekutif, legislatif , dan",
+      "slug": "di-indonesia-baik-di-lingkungan-kekuasaan-eksekutif-legislatif-dan",
+      "text": "yudikatif;",
+      "start_line": 270,
+      "end_line": 270
+    },
+    {
+      "heading": "18. Bahwa kedudukan Pemohon di ILDES sendiri sebagai Direktur E ksekutif,",
+      "slug": "18-bahwa-kedudukan-pemohon-di-ildes-sendiri-sebagai-direktur-e-ksekutif",
+      "text": "menegaskan bahwa dapat bertindak juga untuk dan atas nama ILDES  \ndalam keadaan apapun sesuai Pasal 4 Anggaran Rumah Tangga soal \nTugas dan Tanggungjawab Pengurus, “Direktur Eksekutif: Bertangg ung \njawab atas kebijakan strategis or ganisasi, mewakili organisasi di dalam \nmaupun di luar Pengadilan”; \n\n9",
+      "start_line": 272,
+      "end_line": 278
+    },
+    {
+      "heading": "19. Bahwa Pemohon juga lewat ILDES, selalu aktif menyuarakan ra ngkap",
+      "slug": "19-bahwa-pemohon-juga-lewat-ildes-selalu-aktif-menyuarakan-ra-ngkap",
+      "text": "jabatan wakil menteri sekaligus Komisaris BUMN sejak Februari 2 025, \nlewat rilis berita online, yang dapat dilihat sebagai berikut: \n1) Artikel ini telah tayang di tvonenews.com dengan judul Tiga Wamen \nDiangkat Jadi Komisaris BRI dan Bank Mandiri, IlDES Beri Sorota n \nTajam, https://www.tvonenews.com/ekonomi/315100-tiga-wamen-\ndiangkat-jadi-komisaris-bri-dan-bank-mandiri-ildes-beri-sorotan-\ntajam?page=1, Reporter: Tim tvonenews.com, Editor: Rilo Pambudi; \n2) Artikel ini telah tayang di tirto.id dengan judul 3 Wamen Ja di Komisiaris \nBRI & Mandiri, ILDES: Tak Konstitusional, https://tirto.id/3-wamen-jadi-\nkomisiaris-bri-mandiri-ildes-tak-konstitusional-g9Wy, Reporter: Nabila \nRamadhanty; \n3) Artikel ini telah tayang di investor.id dengan judul Persoal kan Wamen \nRangkap Jabatan, Ildes Uji Materi UU No 39/2008 ke MK, \nhttps://investor.id/national/390501/persoalkanwamen-rangkap-\njabatan-ildes-uji-materi-uu-no-392008ke-mk, Penulis: Yustinus P atris \nPaat; \n4) Artikel ini telah tayang di manadopost.jawapost.com dengan j udul \nILDES Siap Gugat UU Kementerian ke MK, Persoalkan 6 Wamen \nPrabowo Rangkap Jabatan jadi Komisaris BUMN, \nhttps://manadopost.jawapos.com/nasional/285698515/ildes-siap-\ngugat-uu-kementerian-ke-mk-persoalkan-5-wamen-prabowo-\nrangkap-jabatan-jadi-komisaris-bumn, Reporter: Kenjiro Tanos; \n5) Artikel ini telah tayang di Kompas.id dengan judul Ada Wamen  Jadi \nPimpinan BUMN, MK Diminta Pertegas Larangan Rangkap Jabatan, \nhttps://www.kompas.id/artikel/ada-wamen-jadi-pimpinan-bumn-mk-\ndiminta-pertegas-larangan-rangkap-jabatan, Reporter: Susana Rit a \nKumalasanti; \n6) Artikel ini telah tayang di rri.co.id dengan judul Pemerhati  Minta MK \nLarang Wakil Menteri Rangkap Jabatan, \nhttps://rri.co.id/nasional/1389523/pemerhati-minta-mk-larang-wakil-\nmeteri-rangkap-jabatan, Reporter: Achmat Zaini; \n7) Artikel ini telah tayang di jpnn.comdengan judul ILDES Siap Gugat UU \nKementerian ke MK Soal 5 Wamen Rangkap Jabatan Jadi Komisaris \n\n10 \nBUMN, https://m.jpnn.com/news/ildes-siap-gugat-uu-kementerian-k e-\nmk-soal-5-wamen-rangkap-jabatan-jadi-komisaris-bumn, Reporter: \nZaki Ibrahim; \n8) Video podcast Youtube TribunNews Channel dengan Judul (FULL)  UU \nKementerian Digugat ILDES, Endus Konflik Kepentingan Wamen \nBanyak yang Rangkap Jabatan, \nhttps://youtu.be/wh6xCa1zAtc?si=C4qyA5NFN_q4OPYV, Tribunnews \nOn Focus, tayang perdana 10 Maret 2025.",
+      "start_line": 280,
+      "end_line": 322
+    },
+    {
+      "heading": "20. Bahwa selain itu, Pemohon juga selalu aktif terlibat dalam isu hukum tata",
+      "slug": "20-bahwa-selain-itu-pemohon-juga-selalu-aktif-terlibat-dalam-isu-hukum-tata",
+      "text": "negara dan BUMN, yang dimana saat ini BUMN sedang bertransforma si \ndalam pengelolaannya yang dikelola oleh BPI Danaantara lewat ha dirnya \nUndang-Undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga Atas \nUndang-Undang Nomor 19 Tahun 2003 Tentang Badan Usaha Milik \nNegara, serta Pemohon juga aktif menyuarakan perihal opini lewa t rilis \nberita online, yang dapat dilihat sebagai berikut: \n1) Artikel ini telah tayang di Tribunnews.com dengan judul ILDE S: \nDanantara Bentuk Paripurna dari Kelembagaan BUMN, Dikelola \nS e c a r a  P r o f e s i o n a l  d a n  K e b a l  H u k u m ,  \nhttps://www.tribunnews.com/bisnis/2025/02/24/ildes-danantara-\nbentuk-paripurna-dari-kelembagaan-bumn-dikelola-secara-\nprofesional-dan-kebal-hukum, Reporter: Hasanudin Aco; \n2) Artikel ini tayang di Beritamoneter.com dengan judul “ILDES Ungkap \nDanantara Bentuk Paripurna Dari Pengelolaan BUMN”, \nhttps://beritamoneter.com/ildes-ungkap-danantara-bentuk-paripurna-\ndari-pengelolaan-bumn/, Reporter: Lita; \n3) Artikel ini tayang di antaranews.com dengan judul: “ILDES ni lai \npembentukan BP Investasi Danantara wujud demokrasi ekonomi”, \nhttps://www.antaranews.com/berita/4422949/ildes-nilai-\npembentukan-bp-investasi-danantara-wujud-demokrasi-ekonomi, \nReporter: Uyu Septiyati Liman;  \n4) Artikel ini tayang di beritasatu.com dengan judul: “Publik T ak Perlu \nKhawatir, Danantara Tetap Bisa Diawasi dan Diaudit”, \nhttps://www.beritasatu.com/ekonomi/2873793/publik-tak-perlu-\n\n11 \nkhawatir-danantara-tetap-bisa-diawasi-dan-diaudit, Reporter: Yu s \nPaat; \n5) Artikel ini tayang di investor.id dengan judul: “Lembaga Baru Prabowo, \nBP Investasi Danantara Perlu Diperkuat dengan UU”, \nhttps://investor.id/macroeconomy/378000/lembaga-baru-prabowo-bp-\ninvestasi-danantara-perlu-diperkuat-dengan-uu, Reporter: Elina Suter.",
+      "start_line": 324,
+      "end_line": 355
+    },
+    {
+      "heading": "21. Bahwa dengan tidak masukannya wakil menteri sebagai subjek untuk",
+      "slug": "21-bahwa-dengan-tidak-masukannya-wakil-menteri-sebagai-subjek-untuk",
+      "text": "dilarang merangkap jabatan, salah satunya sebagai komisaris di \nperusahaan negara maupun swasta, padahal telah dilarang dalam \nPutusan MK Nomor 80 Tahun 2019, hal ini menimbulkan potensi kerugian \nkonstitusional bagi Pemohon, dengan tidak larangan dalam Undang -\nUndang Kementerian Negara, Pemohon yang juga nantinya \nberkesempatan menjadi Komisaris dan/atau Dewan Pengawas BUMN \nakan tertutup karena akan bersaing dengan para wakil menteri yang telah \ndekat dengan kekuasaan, dan tidak dapat lagi menjadi kandidat komisaris \nyang seperti harapan Pemohon di masa depan nanti;",
+      "start_line": 357,
+      "end_line": 365
+    },
+    {
+      "heading": "22. Bahwa selain itu, kerugian konstitusional Pemohon dalam men gajukan",
+      "slug": "22-bahwa-selain-itu-kerugian-konstitusional-pemohon-dalam-men-gajukan",
+      "text": "permohonan a quo adalah dalam rangka menegakkan kedaulatan rakyat \nyang merupakan hak mutlak rakyat Indonesia, sebagaimana diatur dalam \nPasal 1 ayat (2) UUD 1945, yang berbunyi sebagai berikut:  \nPasal 1 (2) \"Kedaulatan berada di tangan rakyat dan dilaksanaka n \nmenurut Undang-Undang Dasar.” \n \nHal ini juga dalam rangka menegakkan hukum dan pemerintahan \nsebagaimana diatur dalam Pasal 27 ayat (1) UUD 1945 juncto Pasal 1 ayat \n(3) UUD 1945, yang berbunyi sebagai berikut:  \nPasal 27 (1) “Segala warga negara bersamaan kedudukannya di \ndalam hukum dan pemerintahan dan wajib menjunjung hukum dan \npemerintahan itu dengan tidak ada kecualinya.\" \n \nSedangkan Pasal 1 ayat (3) UUD 1945 berbunyi sebagai berikut: \nPasal 1 (3) “Negara Indonesia adalah negara hukum.\"",
+      "start_line": 367,
+      "end_line": 382
+    },
+    {
+      "heading": "23. Bahwa peran serta masyarakat dalam penyelenggaraan pemerint ahan",
+      "slug": "23-bahwa-peran-serta-masyarakat-dalam-penyelenggaraan-pemerint-ahan",
+      "text": "adalah merupakan hak dan tanggung jawab masyarakat sebagaimana \ndiatur dalam Pasal 27 ayat (1) UUD 1945, yang dipertegas dalam Pasal 8 \n\n12 \nUndang-Undang Nomor 28 Tahun 1999 tentang Penyelenggara Negara \nYang Bersih dan Bebas Dari Korupsi, adalah sebagai berikut: \nPasal 8  \n1) Peran serta masyarakat dalam penyelenggaraan negara \nmerupakan hak dan tanggung jawab masyarakat untuk ikut \nmewujudkan penyelenggara negara yang bersih. \n2) Hubungan antara penyelenggara negara dan masyarakat \ndilaksanakan dengan berpegang teguh pada asas-asas umum \npenyelenggaraan Negara sebagaimana dimaksud Pasal 3. \n \nDan juga dalam Pasal 9 Undang-Undang Nomor 28 Tahun 1999 tentan g \nPenyelenggara Negara Yang Bersih dan Bebas Dari Korupsi, adalah  \nsebagai berikut:  \n1) Peran serta masyarakat sebagaimana dimaksud dalam Pasal 8 \ndiwujudkan dalam bentuk:  \na. Hak mencari, memperoleh, dan memberikan informasi tentang \npenyelenggaraan negara;  \nb. Hak untuk memperoleh pelayanan yang sama dan adil dari \npenyelenggara negara;",
+      "start_line": 384,
+      "end_line": 406
+    },
+    {
+      "heading": "c. Hak menyampaikan saran dan pendapat secara bertanggung jawab",
+      "slug": "c-hak-menyampaikan-saran-dan-pendapat-secara-bertanggung-jawab",
+      "text": "terhadap kebijakan penyelenggara negara; dan",
+      "start_line": 408,
+      "end_line": 408
+    },
+    {
+      "heading": "d. Hak memperoleh perlindungan hukum dalam hal:",
+      "slug": "d-hak-memperoleh-perlindungan-hukum-dalam-hal",
+      "text": "1) Melaksanakan haknya sebagaimana dimaksud dalam huruf a, \nhuruf b, dan huruf c;  \n2) Diminta hadir dalam proses penyelidikan, penyidikan, dan di \nsidang pengadilan sebagai saksi pelapor, saksi, dan saksi ahli,  \nsesuai dengan ketentuan peraturan perundang-undangan yang \nberlaku.  \n2) Hak sebagaimana dimaksud dalam ayat (1) dilaksanakan sesuai \ndengan ketentuan peraturan perundang-undangan yang berlaku \ndengan menaati norma agama dan norma sosial lainnya. \n3) Ketentuan mengenai tata cara pelaksanaan peran serta masyara kat \ndalam penyelenggaraan Negara sebagaimana dimaksud dalam ayat \n(1) diatur lebih lanjut dengan Peraturan Pemerintah.",
+      "start_line": 410,
+      "end_line": 422
+    },
+    {
+      "heading": "24. Bahwa Pemohon sebagai pecinta hukum tata negara yang fokus terhadap",
+      "slug": "24-bahwa-pemohon-sebagai-pecinta-hukum-tata-negara-yang-fokus-terhadap",
+      "text": "berbagai isu konstitusi dan hukum mempunyai maksud dan tujuan u ntuk \nmelaksanakan peran serta masyarakat dalam penyelenggara negara,  \nyaitu dengan cara selalu aktif mengawasi jalannya pemerintahan,  d a n  \nmemastikan Putusan Mahkamah Konstitusi dilaksanakan sebagaimana  \nmestinya oleh Pemerintah dan juga sebagai wadah kontrol masyara kat \nterhadap penyelenggaraan pemerintahan yang merupakan hak dan \nkewajiban konstitusionai seluruh warga negara tanpa kecuali \nsebagaimana diatur dalam Pasal 27 ayat (1) UUD 1945; \n\n13",
+      "start_line": 424,
+      "end_line": 433
+    },
+    {
+      "heading": "25. Bahwa secara jelas, dengan tidak adanya larangan wakil ment eri untuk",
+      "slug": "25-bahwa-secara-jelas-dengan-tidak-adanya-larangan-wakil-ment-eri-untuk",
+      "text": "merangkap jabatan sebagaimana dalam pasal a quo , maka  praktik \nrangkap jabatan kian dipandang sebagai hal lumrah dalam \npenyelenggaraan pemerintah kekinian. Secara sederhana, rangkap \njabatan dimaknai sebagai kondisi seseorang di mana ia menempati  lebih \ndari satu jabatan pada waktu yang bersamaan, baik bidang yang s ama \nmaupun berbeda. Mengutip pernyataan Lord Acton “power tends to \ncorrupt. Absolute power corrupts absolutely,” maka setiap kekuasaan yang \ndiperoleh, apalagi lebih dari satu jabatan sebagaimana rangkap jabatan, \nberpotensi terjadinya penyalahgunaan kekuasaan;",
+      "start_line": 435,
+      "end_line": 443
+    },
+    {
+      "heading": "26. Bahwa meski (larangan rangkap jabatan) bukan merupakan suat u tindak",
+      "slug": "26-bahwa-meski-larangan-rangkap-jabatan-bukan-merupakan-suat-u-tindak",
+      "text": "pidana atau bahkan perilaku korup, konflik kepentingan dalam be ntuk \nrangkap jabatan menghadirkan kerentanan-kerentanan tersendiri a pabila \ntidak diregulasi secara ketat. Misalnya, kekhawatiran mengenai integritas \npengambilan keputusan atau proteksi kepentingan dari publik ser ta \npemegang saham untuk konteks privat. Ini dapat berujung pada di storsi \nfungsi rule of law, pasar, hingga alokasi sumber daya publik yang mungkin \nsaja tidak legitim, mengedepankan fairness dan imparsialitas \n(Organisation for Economic Co-operation and Development, Managing \nConflict of Interest in the Public Service: OECD Guidelines and Country \nExperiences, hlm. 22);",
+      "start_line": 445,
+      "end_line": 454
+    },
+    {
+      "heading": "27. Bahwa pada tahun 2023, ICW (Penelitian: Rangkap Jabatan Kom isaris",
+      "slug": "27-bahwa-pada-tahun-2023-icw-penelitian-rangkap-jabatan-kom-isaris",
+      "text": "dan Dewan Pengawas Badan Usaha Milik Negara: Kegagalan Pemerintah \nMengelola Konflik Kepentingan, 2023, hlm. 28) menemukan fakta menarik \nyang ditemukan dalam pemantauan ini ialah diangkatnya 4 orang w akil \nmenteri sebagai komisaris BUMN, diantaranya:  \n- Rosan P. Roeslani (Wakil Menteri BUMN) sebagai komisaris PT \nPertamina;  \n- Suahasil Nazara (Wakil Menteri Keuangan) sebagai komisaris PT  \nPLN;  \n- Muhammad Herindra (Wakil Menteri Pertahanan) sebagai \nkomisaris PT Len Industri;  \n- Kartika Wirjoatmodjo (Wakil Menteri BUMN) sebagai komisaris P T \nBRI. \n\n14",
+      "start_line": 456,
+      "end_line": 469
+    },
+    {
+      "heading": "28. Bahwa jika dilihat, telah ada Putusan Mahkamah Konstitusi ( MK) Nomor",
+      "slug": "28-bahwa-jika-dilihat-telah-ada-putusan-mahkamah-konstitusi-mk-nomor",
+      "text": "80/PUU-XVII/2019, dalam pertimbangan hukumnya Mahkamah \nsebenarnya telah melarang wakil menteri rangkap jabatan pada \nperusahaan negara atau swasta. Alasannya, posisi wakil menteri,  karena \nsama dengan menteri yang diangkat oleh presiden, maka harus jug a \ntunduk pada Pasal 23 huruf b UU 39/2008. Di mana aturan itu mel arang \nmelakukan rangkap jabatan. Alasan MK pun rasional dan dapat dit erima, \nyakni, agar wakil menteri fokus pada beban kerja yang memerluka n \npenanganan secara khusus di kementeriannya sebagai alasan perlu nya \ndiangkat wakil menteri di kementerian tertentu;",
+      "start_line": 471,
+      "end_line": 479
+    },
+    {
+      "heading": "29. Bahwa pasal yang kami mohonkan agar di uji materiil adalah Pasal 23",
+      "slug": "29-bahwa-pasal-yang-kami-mohonkan-agar-di-uji-materiil-adalah-pasal-23",
+      "text": "Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara \n(Lembaran Negara Republik Indonesia Tahun 2008, Nomor 166, \nTambahan Lembaran Negara Nomor 4916), berbunyi:  \nMenteri dilarang merangkap jabatan sebagai: \na. pejabat negara lainnya sesuai dengan peraturan perundang-\nundangan; \nb. komisaris atau direksi pada perusahaan negara atau perusahaa n \nswasta; atau",
+      "start_line": 481,
+      "end_line": 488
+    },
+    {
+      "heading": "c. pimpinan organisasi yang dibiayai dari Anggaran Pendapatan",
+      "slug": "c-pimpinan-organisasi-yang-dibiayai-dari-anggaran-pendapatan",
+      "text": "Belanja Negara dan/atau Anggaran Pendapatan Belanja Daerah. \nPasal ini, Pemohon anggap bertentangan dengan UUD NRI 1945, yaitu:  \nPasal 1 ayat (3) UUD NRI 1945 \nIndonesia adalah Negara Hukum. \n \nPasal 17 UUD NRI 1945 \n1) Presiden dibantu oleh menteri-menteri negara. Menteri-\nmenteri itu diangkat dan diberhentikan oleh Presiden.  \n2) Setiap menteri membidangi urusan tertentu dalam \npemerintahan. \n3) Pembentukan, pengubahan, dan pembubaran kementerian \nnegara diatur dalam undang-undang. \n \nPasal 27 ayat (1) UUD NRI 1945 \nSegala warga negara bersamaan kedudukannya di dalam \nhukum dan pemerintahan dan wajib menjunjung hukum dan \npemerintahan itu dengan tidak ada kecualinya. \n \n \n\n15 \nPasal 28D ayat (3) UUD NRI 1945 \nSetiap warga negara berhak memperoleh kesempatan yang \nsama dalam pemerintahan.",
+      "start_line": 490,
+      "end_line": 514
+    },
+    {
+      "heading": "30. Bahwa yang kami uji adalah kata “Menteri”, yang dimana nant inya Pasal",
+      "slug": "30-bahwa-yang-kami-uji-adalah-kata-menteri-yang-dimana-nant-inya-pasal",
+      "text": "23 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara  \n(Lembaran Negara Republik Indonesia Tahun 2008 Nomor 166, \nTambahan Lembaran Negara Nomor 4916) bertentangan dengan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan tidak \nmempunyai kekuatan hukum yang mengikat sepanjang tidak dimaknai  \n“Menteri dan Wakil Menteri.” Sehingga Pasal 23 Undang-Undang No mor \n39 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor \n166, Tambahan Lembaran Negara Nomor 4916), berbunyi:  \nMenteri dan Wakil Menteri dilarang merangkap jabatan sebagai: \na) pejabat negara lainnya sesuai dengan peraturan perundang-\nundangan; \nb) komisaris atau direksi pada perusahaan negara atau perusahaa n \nswasta; atau \nc) pimpinan organisasi yang dibiayai dari Anggaran Pendapatan \nBelanja Negara dan/atau Anggaran Pendapatan Belanja Daerah. \n \nC. ALASAN PERMOHONAN  \nC.1. KEDUDUKAN WAKIL MENTERI DIAKUI DALAM TAFSIRAN PASAL 17 \nUUD NRI TAHUN 1945",
+      "start_line": 516,
+      "end_line": 534
+    },
+    {
+      "heading": "31. Bahwa berdasarkan Pasal 17 UUD NRI 1945 hanya menyebutkan m enteri-",
+      "slug": "31-bahwa-berdasarkan-pasal-17-uud-nri-1945-hanya-menyebutkan-m-enteri",
+      "text": "menteri negara, tanpa menyebutkan wakil menteri, akan tetapi da lam \nPutusan Mahkamah Konstitusi Nomor 79/PUU-IX/2011, yang menyatakan:  \n(3).(1) Menimbang, bahwa karena ketentuan Pasal 17 UUD 1945 \nhanya menyebutkan menteri-menteri negara, tanpa \nmenyebutkan wakil menteri, maka menurut Mahkamah kalau \nmenteri dapat diangkat oleh Presiden, logikanya bahwa \nPresiden pun tentu dapat mengangkat wakil menteri;",
+      "start_line": 536,
+      "end_line": 543
+    },
+    {
+      "heading": "32. Bahwa UUD NRI Tahun 1945 diketahui hanya mengatur hal-hal y ang",
+      "slug": "32-bahwa-uud-nri-tahun-1945-diketahui-hanya-mengatur-hal-hal-y-ang",
+      "text": "pokok sehingga untuk pelaksanaan lebih lanjut diatur dengan Und ang-\nUndang. Berdasarkan ketentuan konstitusi pengangkatan wakil menteri itu \nadalah bagian dari kewenangan presiden untuk melaksanakan tugas -\ntugasnya. Tidak adanya perintah maupun larangan di dalam UUD 19 45 \nmemberi arti berlakunya asas umum di dalam hukum bahwa “sesuatu yang \ntidak diperintahkan dan tidak dilarang itu boleh dilakukan” dan dimasukkan \n\n16",
+      "start_line": 545,
+      "end_line": 552
+    },
+    {
+      "heading": "di dalam undang-undang sepanjang tidak berpotensi melanggar hak -hak",
+      "slug": "di-dalam-undang-undang-sepanjang-tidak-berpotensi-melanggar-hak-hak",
+      "text": "konstitusional atau ke tentuan-ketentuan lain di dalam UUD 1945.  Hal ini \nbisa dilihat dalam Putusan Mahkamah Konstitusi Nomor 79/PUU-IX/2011, \nyang menyatakan:  \n(3).(2) …Menurut Mahkamah, baik diatur maupun tidak diatur di \ndalam Undang-Undang, pengangkatan wakil menteri \nsebenarnya merupakan bagian dari kewenangan Presiden \nsehingga, dari sudut substansi, tidak terdapat persoalan \nkonstitusionalitas dalam konteks ini. Hal tersebut berarti \nbahwa bisa saja sesuatu yang tidak disebut secara tegas di \ndalam UUD 1945 kemudian diatur dalam Undang-Undang, \nsepanjang hal yang diatur dalam Undang-Undang tersebut \ntidak bertentangan dengan UUD 1945;",
+      "start_line": 554,
+      "end_line": 566
+    },
+    {
+      "heading": "33. Bahwa UUD NRI 1945 juga tidak menentukan adanya Komisi",
+      "slug": "33-bahwa-uud-nri-1945-juga-tidak-menentukan-adanya-komisi",
+      "text": "Pemberantasan Tindak Pidana Korupsi yang lebih dikenal dengan sebutan \nKomisi Pemberantasan Korupsi (KPK), namun dengan TAP MPR Nomor \nVIII/MPR/2001 tentang Rekomendasi Arah Kebijakan Pemberantasan dan \nPencegahan Korupsi, Kolusi, dan Nepotisme, yang kemudian \nditindaklanjuti dengan pembentukan Undang-Undang Nomor 30 Tahun  \n2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi dibentu klah \nKomisi Pemberantasan Tindak Pidana Korupsi, untuk menyidik dan \nmenuntut tindak pidana korupsi tertentu. Padahal di dalam tata \npemerintahan kita sudah ada kepolisian sebagai penyidik dan kej aksaan \nsebagai penuntut umum perkara pidana;",
+      "start_line": 568,
+      "end_line": 577
+    },
+    {
+      "heading": "34. Bahwa karena pengangkatan wakil menteri itu boleh dilakukan o l e h",
+      "slug": "34-bahwa-karena-pengangkatan-wakil-menteri-itu-boleh-dilakukan-o-l-e-h",
+      "text": "Presiden, terlepas dari soal diatur atau tidak diatur dalam Undang-Undang, \nmaka mengenai orang yang dapat diangkat sebagai wakil menteri menurut \nMahkamah, dapat berasal dari pegawai negeri sipil, anggota Tent ara \nNasional Indonesia, anggota Kepolisian Republik Indonesia, bahk an \nwarga negara biasa, sebab Presiden yang mengangkat wakil menter i \nadalah pemegang kekuasaan pemerintahan menurut Undang-Undang \nDasar [vide Pasal 4 ayat (1) dan Pasal 17 ayat (2) UUD 1945];",
+      "start_line": 579,
+      "end_line": 585
+    },
+    {
+      "heading": "35. Bahwa Pasal 10 UU 39/2008 yang menyatakan, “Dalam hal terda pat",
+      "slug": "35-bahwa-pasal-10-uu-39-2008-yang-menyatakan-dalam-hal-terda-pat",
+      "text": "beban kerja yang membutuhkan penanganan secara khusus, Presiden  \ndapat mengangkat wakil Menteri pada Kementerian tertentu”, meru pakan \nketentuan khusus dari Pasal 9 ayat (1) dan ayat (2) Undang-Undang a quo \nyang tidak mencantumkan wakil menteri dalam susunan organisasi \n\n17 \nkementerian. Oleh karena undang-undang tidak menjelaskan mengen ai \napa yang dimaksud “beban kerja yang membutuhkan penanganan khusus” \nmaka hal tersebut menjadi wewenang Presiden untuk menentukannya  \nsebelum mengangkat wakil menteri. Presiden-lah yang menilai seb erapa \nberat beban kerja sehingga memerlukan pengangkatan wakil menter i. \nBegitu pula jika beban kerja dianggap sudah tidak memerlukan wa kil \nmenteri;",
+      "start_line": 587,
+      "end_line": 599
+    },
+    {
+      "heading": "36. Bahwa berdasarkan pertimbangan hukum dalam Putusan MK No. 7 9/PUU-",
+      "slug": "36-bahwa-berdasarkan-pertimbangan-hukum-dalam-putusan-mk-no-7-9-puu",
+      "text": "IX/2011, wakil menteri perlu diatur lebih lanjut kedepannya, ya ng \nmenyatakan: \n(3).(16) …Oleh karena keberadaan wakil menteri yang ada sekarang \nini diangkat antara lain berdasar Pasal 10 dan Penjelasannya \ndalam Undang-Undang a quo, menurut Mahkamah posisi \nwakil menteri perlu segera disesuaikan kembali sebagai \nkewenangan eksklusif Presiden menurut putusan Mahkamah \nini. Oleh sebab itu, semua Keppres pengangkatan masing-\nmasing wakil menteri perlu diperbarui agar menjadi produk \nyang sesuai dengan kewenangan eksklusif Presiden dan \nagar tidak lagi mengandung ketidakpastian hukum;",
+      "start_line": 601,
+      "end_line": 612
+    },
+    {
+      "heading": "37. Bahwa setelah Putusan MK di atas, maka saat ini wakil mente ri adalah",
+      "slug": "37-bahwa-setelah-putusan-mk-di-atas-maka-saat-ini-wakil-mente-ri-adalah",
+      "text": "unsur pimpinan yang merupakan satu kesatuan yang tidak dapat \ndipisahkan, sebagaimana dalam konstruksi pasal demi pasal Perat uran \nPresiden Nomor 140 Tahun 2024 tentang Organisasi Kementerian Negara \nyang menyatakan, bahwa: \nPasal 7 \n(1) Susunan organisasi Kemente rian Kelompok I terdiri atas:  \na. unsur pemimpin; \n… \nPasal 8 \n(1) Susunan organisasi Kemente rian Kelompok II terdiri atas:  \nb. unsur pemimpin; \n… \nPasal 9 \n(1) Unsur pemimpin sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf \na dan Pasal 8 ayat (f) huruf a yaitu Menteri. \n(2) Menteri mempunyai tugas memimpin Kementerian. \n \nPasal 66 \n“Menteri Koordinator atau Menteri dan Wakil Menteri merupakan s atu \nkesatuan unsur pemimpin dalam Kementerian Koordinator atau \nKementerian.” \n\n18",
+      "start_line": 614,
+      "end_line": 636
+    },
+    {
+      "heading": "38. Bahwa jika dilihat Pasal 65 Peraturan Presiden Nomor 140 Ta hun 2024",
+      "slug": "38-bahwa-jika-dilihat-pasal-65-peraturan-presiden-nomor-140-ta-hun-2024",
+      "text": "tentang Organisasi Kementerian Negara, yang menyatakan keduduka n \nWakil Menteri, sebagai berikut:",
+      "start_line": 638,
+      "end_line": 639
+    },
+    {
+      "heading": "BAB VI WAKIL MENTERI",
+      "slug": "bab-vi-wakil-menteri",
+      "text": "Pasal 65",
+      "start_line": 641,
+      "end_line": 641
+    },
+    {
+      "heading": "1. Dalam melaksanakan tugas Menteri Koordinator atau Menteri da pat",
+      "slug": "1-dalam-melaksanakan-tugas-menteri-koordinator-atau-menteri-da-pat",
+      "text": "dibantu oleh wakil menteri sesuai dengan penunjukan Presiden.",
+      "start_line": 643,
+      "end_line": 643
+    },
+    {
+      "heading": "3. Wakil menteri berada di bawah dan bertanggung jawab kepada",
+      "slug": "3-wakil-menteri-berada-di-bawah-dan-bertanggung-jawab-kepada",
+      "text": "Menteri Koordinator atau Menteri.",
+      "start_line": 646,
+      "end_line": 646
+    },
+    {
+      "heading": "4. Wakil menteri mempunyai tugas membantu Menteri Koordinator a tau",
+      "slug": "4-wakil-menteri-mempunyai-tugas-membantu-menteri-koordinator-a-tau",
+      "text": "Menteri dalam memimpin pelaksanaan tugas Kementerian Koordinator \natau Kementerian.",
+      "start_line": 648,
+      "end_line": 649
+    },
+    {
+      "heading": "5. Ruang lingkup bidang tugas wakil menteri sebagaimana dimaksu d",
+      "slug": "5-ruang-lingkup-bidang-tugas-wakil-menteri-sebagaimana-dimaksu-d",
+      "text": "pada ayat (4), meliputi:  \na. membantu Menteri Koordinator atau Menteri dalam perumusan \ndan/atau pelaksanaan kebijakan Kementerian Koordinator atau \nKementerian; dan  \nb. membantu Menteri Koordinator atau Menteri dalam \nmengoordinasikan pencapaian kebijakan strategis lintas unit \norganisasi dalam jabatan pimpinan tinggi madya atau eselon I di  \nlingkungan Kementerian Koordinator. atau Kementerian.",
+      "start_line": 651,
+      "end_line": 659
+    },
+    {
+      "heading": "39. Bahwa jika dilihat dengan cermat, dalam Pasal 66 Peraturan Presiden",
+      "slug": "39-bahwa-jika-dilihat-dengan-cermat-dalam-pasal-66-peraturan-presiden",
+      "text": "Nomor 140 Tahun 2024 tentang Organisasi Kementerian Negara tela h \nmenegaskan wakil menteri adalah unsur pemimpin, yaitu sejatinya  wakil \nmenteri dan menteri merupakan satu kesatuan yang tidak dapat \ndipisahakan dalam suatu kementerian negara; \nC.2. FENOMENA JUMLAH WAKIL MENTERI YANG SANGAT BANYAK,",
+      "start_line": 661,
+      "end_line": 665
+    },
+    {
+      "heading": "40. Bahwa jika melihat hari ini, perihal Kabinet Merah Putih ya ng jumlahnya",
+      "slug": "40-bahwa-jika-melihat-hari-ini-perihal-kabinet-merah-putih-ya-ng-jumlahnya",
+      "text": "justru lebih banyak daripada jumlah menteri dan ada beberapa \nkementerian yang memiliki 3 (tiga) wakil menteri sekaligus, dengan rincian \nsebagai berikut: \nDAFTAR WAKIL MENTERI KABINET MERAH PUTIH PERIODE 2024-2029",
+      "start_line": 669,
+      "end_line": 672
+    },
+    {
+      "heading": "1. Lodewijk F. Paulus, Wakil Menteri Koordinator Bidang Politik dan",
+      "slug": "1-lodewijk-f-paulus-wakil-menteri-koordinator-bidang-politik-dan",
+      "text": "Keamanan;",
+      "start_line": 674,
+      "end_line": 674
+    },
+    {
+      "heading": "2. Otto Hasibuan, Wakil Menteri Koordinator Bidang Hukum, Hak",
+      "slug": "2-otto-hasibuan-wakil-menteri-koordinator-bidang-hukum-hak",
+      "text": "Asasi Manusia, Imigrasi, dan Pemasyarakatan; \n\n19",
+      "start_line": 676,
+      "end_line": 678
+    },
+    {
+      "heading": "21. Stella Christie, Wakil Menteri Pendidikan Tinggi, Sains, da n",
+      "slug": "21-stella-christie-wakil-menteri-pendidikan-tinggi-sains-da-n",
+      "text": "Teknologi;",
+      "start_line": 698,
+      "end_line": 698
+    },
+    {
+      "heading": "26. Christina Aryani, Wakil Menteri Perlindungan Pekerja Migran",
+      "slug": "26-christina-aryani-wakil-menteri-perlindungan-pekerja-migran",
+      "text": "Indonesia/Wakil Kepala Badan Perlindungan Pekerja Migran \nIndonesia;",
+      "start_line": 704,
+      "end_line": 705
+    },
+    {
+      "heading": "27. Dzulfikar Ahmad Tawalla, Wakil Menteri Perlindungan Pekerja",
+      "slug": "27-dzulfikar-ahmad-tawalla-wakil-menteri-perlindungan-pekerja",
+      "text": "Migran Indonesia/Wakil Kepala Badan Perlindungan Pekerja Migran \nIndonesia;",
+      "start_line": 707,
+      "end_line": 708
+    },
+    {
+      "heading": "32. Fahri Hamzah, Wakil Menteri Perumahan dan Kawasan",
+      "slug": "32-fahri-hamzah-wakil-menteri-perumahan-dan-kawasan",
+      "text": "Permukiman;",
+      "start_line": 714,
+      "end_line": 714
+    },
+    {
+      "heading": "33. Ahmad Riza Patria, Wakil Menteri Desa dan Pembangunan Daerah",
+      "slug": "33-ahmad-riza-patria-wakil-menteri-desa-dan-pembangunan-daerah",
+      "text": "Tertinggal; \n\n20",
+      "start_line": 716,
+      "end_line": 718
+    },
+    {
+      "heading": "41. Ossy Dermawan, Wakil Menteri Agraria dan Tata Ruang/Wakil",
+      "slug": "41-ossy-dermawan-wakil-menteri-agraria-dan-tata-ruang-wakil",
+      "text": "Kepala Badan Pertanahan Nasional;",
+      "start_line": 727,
+      "end_line": 727
+    },
+    {
+      "heading": "42. Febrian Alphyanto Ruddyard, Wakil Menteri Perencanaan",
+      "slug": "42-febrian-alphyanto-ruddyard-wakil-menteri-perencanaan",
+      "text": "Pembangunan Nasional/Wakil Kepala Badan Perencaaan \nPembangunan Nasional;",
+      "start_line": 729,
+      "end_line": 730
+    },
+    {
+      "heading": "43. Purwadi Arianto, Wakil Menteri Pendayagunaan Aparatur Negar a",
+      "slug": "43-purwadi-arianto-wakil-menteri-pendayagunaan-aparatur-negar-a",
+      "text": "dan Reformasi Birokrasi;",
+      "start_line": 732,
+      "end_line": 732
+    },
+    {
+      "heading": "47. Ratu Ayu Isyana Bagoes Oka, Wakil Menteri Kependudukan dan",
+      "slug": "47-ratu-ayu-isyana-bagoes-oka-wakil-menteri-kependudukan-dan",
+      "text": "Pembangunan Keluarga/Wakil Kepala Badan Kependudukan dan \nKeluarga Berencana Nasional;",
+      "start_line": 737,
+      "end_line": 738
+    },
+    {
+      "heading": "48. Diaz Faisal Malik Hendropriyono, Wakil Menteri Lingkungan",
+      "slug": "48-diaz-faisal-malik-hendropriyono-wakil-menteri-lingkungan",
+      "text": "Hidup/Wakil Kepala Badan Pengendalian Lingkungan Hidup;",
+      "start_line": 740,
+      "end_line": 740
+    },
+    {
+      "heading": "49. Todotua Pasaribu, Wakil Menteri Investasi dan Hilirisasi/Wa kil",
+      "slug": "49-todotua-pasaribu-wakil-menteri-investasi-dan-hilirisasi-wa-kil",
+      "text": "Kepala Badan Koordinasi Penanaman Modal;",
+      "start_line": 742,
+      "end_line": 742
+    },
+    {
+      "heading": "53. Irene Umar, Wakil Menteri Ekonomi Kreatif/Wakil Kepala Bada n",
+      "slug": "53-irene-umar-wakil-menteri-ekonomi-kreatif-wakil-kepala-bada-n",
+      "text": "Ekonomi Kreatif;",
+      "start_line": 747,
+      "end_line": 747
+    },
+    {
+      "heading": "54. Veronica Tan, Wakil Menteri Pemberdayaan Perempuan dan",
+      "slug": "54-veronica-tan-wakil-menteri-pemberdayaan-perempuan-dan",
+      "text": "Perlindungan Anak;",
+      "start_line": 749,
+      "end_line": 749
+    },
+    {
+      "heading": "55. Taufik Hidayat, Wakil Menteri Pemuda dan Olahraga.",
+      "slug": "55-taufik-hidayat-wakil-menteri-pemuda-dan-olahraga",
+      "text": "Sumber: https://setkab.go.id/presiden-prabowo-subianto-umumkan-\nsusunan-kabinet-merah-putih-di-istana-merdeka-jakarta/",
+      "start_line": 751,
+      "end_line": 752
+    },
+    {
+      "heading": "41. Bahwa menurut Pemohon bukan perihal banyak atau tidaknya jumlah wakil",
+      "slug": "41-bahwa-menurut-pemohon-bukan-perihal-banyak-atau-tidaknya-jumlah-wakil",
+      "text": "menteri dalam satu kabinet pemerintahan, akan tetapi yang menja di \npersoalan mendasar bahwa wakil menteri yang merangkap jabatan d i \ndalam berbagai jabatan yang layaknya jabatan menteri tidak bisa menjabat \n\n21 \nkarena dilarang Undang-Undang Kementerian Negara, seperti Komis aris \ndan/atau Dewan Pengawas pada Badan Usaha Milik Negara;",
+      "start_line": 754,
+      "end_line": 760
+    },
+    {
+      "heading": "42. Bahwa berdasarkan fakta, saat ini terdapat 9 (sembilan) wak il menteri yang",
+      "slug": "42-bahwa-berdasarkan-fakta-saat-ini-terdapat-9-sembilan-wak-il-menteri-yang",
+      "text": "merangkap jabatan sebagai Komasaris dan/atau Dewan Pengawas Badan \nUsaha Milk Negara, yaitu:",
+      "start_line": 762,
+      "end_line": 763
+    },
+    {
+      "heading": "NO NAMA JABATAN NEGARA JABATAN BUMN",
+      "slug": "no-nama-jabatan-negara-jabatan-bumn",
+      "text": "1 Kartika \nWirjoatmodjo  \nWakil Menteri BUMN  Komisaris PT Bank \nRakyat Indonesia \n(Persero) Tbk \n2 Aminuddin \nMa’ruf \nWakil Menteri BUMN Komisaris PT \nPerusahaan Listrik \nNegara (Persero)  \n3 Dony Oskaria  Wakil Menteri BUMN  Wakil Komisaris \nUtama PT Pertamina \n(Persero) \n4 Suahasil Nazara Wakil Menteri \nKeuangan  \nWakil Komisaris \nUtama PT Perusahaan \nListrik Negara \n(Persero)  \n5 Silmy Karim Wakil Menteri Imigrasi \n& Pemasyarakatan \nKomisaris PT Telkom \nIndonesia  \n6 Sudaryono Wakil Menteri \nPertanian \nKetua Dewan \nPengawas Perum",
+      "start_line": 765,
+      "end_line": 791
+    },
+    {
+      "heading": "BULOG",
+      "slug": "bulog",
+      "text": "7 Fahri Hamzah Wakil Menteri \nPerumahan dan \nKawasan \nPermukiman \nKomisaris PT Bank \nTabungan Negara \n(Persero) Tbk  \n8 Yuliot Wakil Menteri ESDM Komisaris PT Bank \nMandiri (Persero) Tbk \n9 Helvi Yuni \nMoraza \nWakil Menteri Usaha \nMikro, Kecil, dan \nMenengah  \nKomisaris PT Bank \nrakyat Indonesia \n(Persero) Tbk",
+      "start_line": 793,
+      "end_line": 809
+    },
+    {
+      "heading": "43. Bahwa salah satu dari wakil menteri tersebut di atas, yaitu : Dony Oskaria",
+      "slug": "43-bahwa-salah-satu-dari-wakil-menteri-tersebut-di-atas-yaitu-dony-oskaria",
+      "text": "saat ini juga menjabat sebagai Chief Operating Officer  ( C O O )  B a d a n  \nPengelola Investasi Daya Anagata Nusantara (BPI Danantara) yang  \n\n22 \ndibentuk berdasarkan Undang-Undang Nomor 1 Tahun 2025 tentang \nPerubahan Ketiga Atas Undang-Undang Nomor 19 Tahun 2003 tentang  \nBadan Usaha Milik Negara dan Perat uran Pemerintah Nomor 10 Tahu n \n2025 tentang Organisasi dan Tata Kelola Badan Pengelola Investasi Daya \nAnagata Nusantara (yang dilaunching oleh Presiden pada tanggal 24 \nFebruari 2025). Pengangkatan Dony Oskaria berdasarkan Keputusan  \nPresiden Nomor 30 Tahun 2025 tentang Pengangkatan Dewan Pengawas \ndan Badan Pelaksana Badan Pengelola Investasi Daya Anagata \nNusantara;",
+      "start_line": 811,
+      "end_line": 823
+    },
+    {
+      "heading": "44. Bahwa kedudukan jabatan wakil menteri setelah adanya Putusa n",
+      "slug": "44-bahwa-kedudukan-jabatan-wakil-menteri-setelah-adanya-putusa-n",
+      "text": "Mahkamah Konstitusi, yang secara eksplisit menyatakan bahwa wak il \nmenteri adalah anggota kabinet pemerintahan, sebagaimana dalam \nPutusan Mahkamah Konstitusi Nomor 79/PUU-IX/2011, yang menyatakan, \nyang menyatakan bahwa: \n(3.15) Menimbang pula bahwa Penjelasan Pasal 10 Undang-Undang \nNomor 39 Tahun 2008 yang menentukan bahwa wakil menteri adalah \npejabat karir dan bukan merupakan anggota kabinet adalah tidak \nsinkron dengan ketentuan Pasal 9 ayat (1) Undang-Undang Nomor \n39 Tahun 2008, sebab menurut pasal tersebut susunan organisasi \nkementerian terdiri dari atas unsur: pemimpin yaitu Menteri; \npembantu pemimpin yaitu sekretariat jenderal; pelaksana tugas \npokok, yaitu direktorat jenderal; pengawas yaitu inspektorat jenderal; \npendukung, yaitu badan atau pusat; dan pelaksana tugas pokok di  \ndaerah dan/atau perwakilan luar negeri sesuai dengan peraturan \nperundang-undangan. Apabila wakil menteri ditetapkan sebagai \npejabat karir, sudah tidak ada posisinya dalam susunan organisa si \nkementerian, sehingga hal tersebut menimbulkan ketidakpastian \nhukum yang adil, yang berarti bertentangan dengan Pasal 28D aya t \n(1) UUD 1945;",
+      "start_line": 825,
+      "end_line": 843
+    },
+    {
+      "heading": "45. Bahwa Mahkamah Konstitusi telah menegaskan bagaimana wakil menteri",
+      "slug": "45-bahwa-mahkamah-konstitusi-telah-menegaskan-bagaimana-wakil-menteri",
+      "text": "tidak bisa atau dilarang merangkap jabatan sebagai komisaris da n/atau \nDewan Pengawas Badan Usaha Milik Negara baik dalam Putusan \nMahkamah Konstitusi Nomor 80/PUU-XVII/2019;",
+      "start_line": 845,
+      "end_line": 847
+    },
+    {
+      "heading": "46. Bahwa berdasarkan Pasal 4 Peraturan Presiden Nomor 60 Tahun 2012,",
+      "slug": "46-bahwa-berdasarkan-pasal-4-peraturan-presiden-nomor-60-tahun-2012",
+      "text": "bahwa pengangkatan dan pemberhentian wakil menteri oleh presiden dan \nmasa jabatan wakil menteri paling lama sama dengan masa jabatan  atau \nberakhir bersamaan dengan masa jabatan presiden yang bersangkutan; \n\n23",
+      "start_line": 849,
+      "end_line": 853
+    },
+    {
+      "heading": "47. Bahwa Wakil Menteri adalah unsur pimpinan yang merupakan sa tu",
+      "slug": "47-bahwa-wakil-menteri-adalah-unsur-pimpinan-yang-merupakan-sa-tu",
+      "text": "kesatuan yang tidak dapat dipisahkan, sebagaimana dalam konstru ksi \npasal demi pasal Peraturan Presiden Nomor 140 Tahun 2024 tentan g \nOrganisasi Kementerian Negara yang menyatakan, bahwa: \nPasal 7 \nSusunan organisasi Kementerian Kelompok I terdiri atas:",
+      "start_line": 855,
+      "end_line": 859
+    },
+    {
+      "heading": "c. unsur pemimpin;",
+      "slug": "c-unsur-pemimpin",
+      "text": "… \n \nPasal 9 \n(1) Unsur pemimpin sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf \na dan Pasal 8 ayat (f) huruf a yaitu Menteri.  \n(2) Menteri mempunyai tugas memimpin Kementerian. \n \nPasal 66 \n“Menteri Koordinator atau Menteri dan Wakil Menteri merupakan s atu \nkesatuan unsur pemimpin dalam Kementerian Koordinator atau \nKementerian.” \nC.3. LEGALISASI PERTIMBANGAN PUTUSAN MK NOMOR 80/PUU-\nXVII/2019 YANG TELAH MENEGASKAN WAKIL MENTERI DILARANG \nRANGKAP JABATAN KOMISARIS DAN/ATAU DEWAN PENGAWAS",
+      "start_line": 861,
+      "end_line": 874
+    },
+    {
+      "heading": "BADAN USAHA MILIK NEGARA MENJADI NORMA BARU DALAM",
+      "slug": "badan-usaha-milik-negara-menjadi-norma-baru-dalam",
+      "text": "UNDANG-UNDANG (DIAMARKAN DALAM PUTUSAN MK)",
+      "start_line": 876,
+      "end_line": 876
+    },
+    {
+      "heading": "48. Bahwa dalam Putusan Mahkamah Konstitusi Nomor 80/PUU-XVII/2 019",
+      "slug": "48-bahwa-dalam-putusan-mahkamah-konstitusi-nomor-80-puu-xvii-2-019",
+      "text": "menegaskan bahwa: \n(13.3) …Namun demikian, penting bagi Mahkamah untuk \nmenegaskan perihal fakta yang dikemukakan oleh para Pemohon \nmengenai tidak adanya larangan rangkap jabatan wakil menteri yang \nmengakibatkan seorang wakil menteri dapat merangkap sebagai \nkomisaris atau direksi pada perusahaan negara atau swasta. \nTerhadap fakta demikian, sekalipun wakil menteri membantu menteri \ndalam memimpin pelaksanaan tugas kementerian, oleh karena \npengangkatan dan pemberhentian wakil menteri merupakan hak \nprerogatif Presiden sebagaimana halnya pengangkatan dan \npemberhentian menteri, maka wakil menteri haruslah ditempatkan \npula sebagai pejabat sebagaimana halnya status yang diberikan \nkepada menteri. Dengan status demikian, maka seluruh larangan \nrangkap jabatan yang berlaku bagi menteri sebagaimana yang diatur \ndalam Pasal 23 UU 39/2008 berlaku pula bagi wakil menteri. \nPemberlakuan demikian dimaksudkan agar wakil menteri fokus pada \nbeban kerja yang memerlukan penanganan secara khusus di \nkementeriannya sebagai alasan perlunya diangkat wakil menteri d i \nkementerian tertentu. \n\n24",
+      "start_line": 878,
+      "end_line": 898
+    },
+    {
+      "heading": "49. Bahwa sejatinya perihal larangan rangkap jabatan dalam Putu san 80/PUU-",
+      "slug": "49-bahwa-sejatinya-perihal-larangan-rangkap-jabatan-dalam-putu-san-80-puu",
+      "text": "XVII/2019 yang disamakan statusnya karena diangkat dan diberhen tikan \noleh Presiden sebagai Kepala Negara dan Kepala Pemerintahan, ag ar \npara wakil menteri fokus pada beban kerja yang memerlukan penanganan \nsecara khusus di kementeriannya sebagai alasan perlunya diangkat wakil \nmenteri di kementerian tertentu (vide Pertimbangan hukum 13.3 P utusan \n80/PUU-XVII/2019);",
+      "start_line": 900,
+      "end_line": 905
+    },
+    {
+      "heading": "50. Bahwa oleh karena dalam pertimbangan Mahkamah Konstitusi te rsebut",
+      "slug": "50-bahwa-oleh-karena-dalam-pertimbangan-mahkamah-konstitusi-te-rsebut",
+      "text": "telah jelas (expressive verbis), bahwa ketentuan Pasal 23 UU Nomor 39 \nTahun 2008 berlaku juga bagi para wakil menteri, maka melalui \npermohonan a quo , Mahkamah harus mengabulkan agar kata Menteri \ndalam Pasal 23 UU Nomor 39 Tahun 2008 bertentangan dengan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan tidak \nmempunyai kekuatan hukum mengikat, sepanjang tidak dimaknai “Menteri \ndan Wakil Menteri”;",
+      "start_line": 907,
+      "end_line": 913
+    },
+    {
+      "heading": "51. Bahwa norma ini harus hidup dalam Undang-Undang agar mengik at bagi",
+      "slug": "51-bahwa-norma-ini-harus-hidup-dalam-undang-undang-agar-mengik-at-bagi",
+      "text": "seluruh pihak (Pemerintah dalam arti luas) yang di mana ketika menjabat \nsebagai wakil menteri harus fokus dengan tugasnya yang diberika n \nkepadanya, karena dianggap beban kerja di kementerian tersebut sangat \nberat, sehingga presiden mengangkatnya sebagai wakil menteri, sehingga \nkedudukannya dari segi pengangkatan dan pemberhentian wakil men teri \nsesungguhnya sama dengan menteri;",
+      "start_line": 915,
+      "end_line": 920
+    },
+    {
+      "heading": "52. Bahwa alasannya posisi wakil menteri karena sama dengan men teri yang",
+      "slug": "52-bahwa-alasannya-posisi-wakil-menteri-karena-sama-dengan-men-teri-yang",
+      "text": "diangkat oleh presiden, maka harus juga tunduk pada Pasal 23 huruf b UU \n39/2008. Di mana aturan itu melarang melakukan rangkap jabatan.  \nPertimbangan Mahkamah Konstitusi rasional dan dapat diterima, y akni, \nagar wakil menteri fokus pada beban kerja yang memerlukan penanganan \nsecara khusus di kementeriannya sebagai alasan perlunya diangkat wakil \nmenteri di kementerian tertentu; \nC.4. PENGABAIAN PUTUSAN MAHKAMAH KONSTITUSI TERKAIT",
+      "start_line": 922,
+      "end_line": 928
+    },
+    {
+      "heading": "53. Bahwa hukum dapat dilihat bentuknya melalui kaidah yang dir umuskan",
+      "slug": "53-bahwa-hukum-dapat-dilihat-bentuknya-melalui-kaidah-yang-dir-umuskan",
+      "text": "secara eksplisit. Di dalam kaidah atau peraturan hukum tersebut , \nterkandung tindakan yang harus dilaksanakan dalam bentuk penega kan \n\n25 \nhukum. Hukum diciptakan untuk dilaksanakan, sehingga tidaklah \nmengherankan jika dikatakan bahwa hukum tidak bisa lagi disebut sebagai \nhukum apabila tidak pernah dilaksanakan. Pelaksanaan hukum sela lu \nmelibatkan manusia dan perilakunya, karena hukum tidak mampu \nmewujudkan sendiri janji serta kehendak yang tercantum dalam peraturan \nhukum itu;",
+      "start_line": 931,
+      "end_line": 940
+    },
+    {
+      "heading": "54. Bahwa secara etimologis, istilah rangkap jabatan terdiri da ri dua suku kata,",
+      "slug": "54-bahwa-secara-etimologis-istilah-rangkap-jabatan-terdiri-da-ri-dua-suku-kata",
+      "text": "yakni \"rangkap\" dan \"jabatan.\" Merujuk pada Kamus Besar Bahasa \nIndonesia (KBBI), kata \"rangkap\" merupakan turunan dari kata \n\"merangkap\" yang berarti menduduki jabatan lain di samping jabatan tetap \natau melakukan lebih dari satu pekerjaan. Sedangkan \"jabatan\" b erarti \npekerjaan atau tugas dalam pemerintahan atau organisasi yang berkaitan \ndengan pangkat dan kedudukan;",
+      "start_line": 942,
+      "end_line": 947
+    },
+    {
+      "heading": "55. Bahwa Utrecht dalam bukunya yang berjudul Pengantar Hukum",
+      "slug": "55-bahwa-utrecht-dalam-bukunya-yang-berjudul-pengantar-hukum",
+      "text": "Administrasi Negara menyatakan bahwa, jabatan adalah suatu lingkungan \npekerjaan tetap yang diadakan dan dijalankan guna kepentingan n egara \natau kepentingan umum. Jabatan bukan sekadar posisi, melainkan bagian \ndari mekanisme penyelenggaraan kepentingan publik;",
+      "start_line": 949,
+      "end_line": 952
+    },
+    {
+      "heading": "56. Bahwa menurut Logemann dalam bukunya yang diterjemahkan ole h",
+      "slug": "56-bahwa-menurut-logemann-dalam-bukunya-yang-diterjemahkan-ole-h",
+      "text": "Makkatutu dan Pangkerego, jabatan diartikan sebagai lingkungan kerja \nyang tetap, digaris bawahi batas-batasnya, dan disediakan untuk ditempati \noleh pemangku jabatan yang ditunjuk serta mewakili jabatan ters ebut \nsebagai pribadi. Dalam pembentukannya, jabatan harus dinyatakan  \ndengan jelas, menunjukkan pentingnya kepastian dan kontinuitas agar \norganisasi dapat berfungsi dengan baik. Jabatan dijalankan oleh  seorang \npribadi yang bertindak sebagai wakil dan bertugas atas nama jab atan, \nyang disebut sebagai pemangku jabatan;",
+      "start_line": 954,
+      "end_line": 961
+    },
+    {
+      "heading": "57. Bahwa perihal dapat atau tidaknya dilakukan pengangkatan wa kil menteri",
+      "slug": "57-bahwa-perihal-dapat-atau-tidaknya-dilakukan-pengangkatan-wa-kil-menteri",
+      "text": "sempat menjadi permasalahan yang diuji konstitusionalitasnya di  \nMahkamah Konstitusi (MK). Berdasarkan pertimbangan hukum yang \ndikeluarkan MK melalui Putusan No. 80/PUU-XVII/2019 pada Paragr af \n[3.13], MK menyatakan bahwa pengangkatan wakil menteri boleh \ndilakukan oleh presiden, terlepas dari soal diatur atau tidak d iatur dalam \nundang-undang. Mengenai siapa yang dapat diangkat sebagai wakil  \n\n26 \nmenteri, menurut MK, dapat berasal dari pegawai negeri sipil, a nggota \nTentara Nasional Indonesia, anggota Kepolisian Republik Indones ia, \nbahkan warga negara biasa. Alasannya, Presiden yang mengangkat wakil \nmenteri adalah pemegang kekuasaan pemerintahan berdasarkan Pasal 4 \nayat (1) dan Pasal 17 ayat (2) UUD 1945;",
+      "start_line": 963,
+      "end_line": 975
+    },
+    {
+      "heading": "58. Bahwa terkait Pasal 10 Undang-Undang Nomor 39 Tahun 2008 te ntang",
+      "slug": "58-bahwa-terkait-pasal-10-undang-undang-nomor-39-tahun-2008-te-ntang",
+      "text": "Kementerian Negara (UU 39/2008) yang menyatakan, \"Dalam hal terdapat \nbeban kerja yang membutuhkan penanganan secara khusus, Presiden  \ndapat mengangkat wakil menteri pada kementerian tertentu,\" MK m enilai \nbahwa ketentuan tersebut merupakan pengecualian khusus dari Pas al 9 \nayat (1) dan ayat (2) UU 39/2008 yang tidak mencantumkan wakil menteri \ndalam susunan organisasi kementerian. Oleh karena undang-undang  \ntersebut tidak memberikan definisi mengenai apa yang dimaksud d engan \n\"beban kerja yang membutuhkan penanganan khusus,\" maka MK \nberpendapat bahwa hal tersebut menjadi wewenang presiden untuk \nmenentukannya sebelum melakukan pengangkatan wakil menteri;",
+      "start_line": 977,
+      "end_line": 986
+    },
+    {
+      "heading": "59. Bahwa dengan demikian, presiden diberikan kewenangan untuk menilai",
+      "slug": "59-bahwa-dengan-demikian-presiden-diberikan-kewenangan-untuk-menilai",
+      "text": "seberapa berat beban kerja di suatu kementerian sehingga memerl ukan \nkehadiran wakil menteri. Begitu pula apabila beban kerja terseb ut \ndianggap sudah tidak membutuhkan wakil menteri, presiden berwen ang \nuntuk memberhentikan wakil menteri tersebut. Oleh sebab itu, \nkewenangan presiden dalam mengangkat wakil menteri guna menanga ni \nbeban kerja yang meningkat dinilai oleh MK tidak bertentangan d engan \nkonstitusi, terutama jika dipandang dari sudut pengutamaan tuju an yang \nhendak dicapai (doelmatigheid) atau nilai kemanfaatan dalam memenuhi \nharapan dan kebutuhan masyarakat yang terus berkembang;",
+      "start_line": 988,
+      "end_line": 996
+    },
+    {
+      "heading": "60. Bahwa namun demikian, Mahkamah Konstitusi (MK) telah member ikan",
+      "slug": "60-bahwa-namun-demikian-mahkamah-konstitusi-mk-telah-member-ikan",
+      "text": "pertimbangan hukum penting terkait fakta bahwa tidak terdapat l arangan \nrangkap jabatan bagi wakil menteri, yang dapat mengakibatkan se orang \nwakil menteri merangkap jabatan sebagai komisaris atau direksi pada \nperusahaan negara maupun swasta. Menanggapi fakta tersebut, MK \nberpendapat bahwa sekalipun wakil menteri bertugas membantu men teri \ndalam memimpin pelaksanaan tugas kementerian, karena pengangkat an \ndan pemberhentiannya merupakan hak prerogatif presiden, sebagaimana \n\n27 \njuga halnya dengan menteri, maka wakil menteri harus ditempatka n \nsebagai pejabat negara setara dengan menteri;",
+      "start_line": 998,
+      "end_line": 1008
+    },
+    {
+      "heading": "61. Bahwa dengan status tersebut, MK menegaskan bahwa seluruh l arangan",
+      "slug": "61-bahwa-dengan-status-tersebut-mk-menegaskan-bahwa-seluruh-l-arangan",
+      "text": "rangkap jabatan yang berlaku bagi menteri, sebagaimana diatur d alam \nPasal 23 Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian \nNegara (UU 39/2008), berlaku pula bagi wakil menteri. MK member ikan \npertimbangan ini agar wakil menteri dapat lebih fokus menjalank an \ntugasnya dalam menangani beban kerja kementerian yang memerluka n \npenanganan secara khusus, yang menjadi alasan awal diangkatnya wakil \nmenteri pada kementerian tertentu;",
+      "start_line": 1010,
+      "end_line": 1016
+    },
+    {
+      "heading": "62. Bahwa rangkap jabatan merupakan salah satu tindakan yang da pat",
+      "slug": "62-bahwa-rangkap-jabatan-merupakan-salah-satu-tindakan-yang-da-pat",
+      "text": "memicu adanya conflict of interest dalam penyelenggaraan pemerintahan \n(Lihat May Lim Charity, “Ironi Praktik Rangkap Jabatan dalam Sistem \nKetatanegaraan Indonesia,” Jurnal Legislasi Indonesia 13, no. 1 (2016): 5-",
+      "start_line": 1018,
+      "end_line": 1020
+    },
+    {
+      "heading": "6. Lihat juga Septiani, “Praktik Rangkap”) . Rangkap jabatan juga",
+      "slug": "6-lihat-juga-septiani-praktik-rangkap-rangkap-jabatan-juga",
+      "text": "merupakan sesuatu yang bertentangan dengan AUPB, khususnya pada  \nasas profesionalitas (Lihat Cekli Setya Pratiwi, et. al, Asas-asas Umum \nPemerintahan Yang Baik (AUPB) Hukum Administrasi Negara (Jakarta: \nLembaga Kajian dan Advokasi untuk Independensi Peradilan, 2016) . \nEksistensi kekuasaan yang dimiliki oleh setiap jabatan, baik scope of \npower ataupun domain of power  yang menyebabkan suatu jabatan \nberfungsi, telah melahirkan pemahaman yang meyakini jika tidak \nseharusnya jabatan publik dijabat  oleh seseorang yang memiliki jabatan \nlain dalam jabatan politik maupun jabatan birokrasi ataupun sebaliknya;",
+      "start_line": 1022,
+      "end_line": 1030
+    },
+    {
+      "heading": "63. Bahwa rangkap jabatan di Indonesia telah terjadi sejak masa",
+      "slug": "63-bahwa-rangkap-jabatan-di-indonesia-telah-terjadi-sejak-masa",
+      "text": "kepemimpinan Presiden Soekarno sampai dengan masa kepemimpinan \nPresiden Joko Widodo. Praktik-praktik konflik kepentingan diang gap \nsebagai warisan sejarah dan hal yang wajar dalam pemerintahan \nmeskipun hal ini dapat memengaruhi kinerja dan keputusan yang d ibuat \noleh seorang pejabat publik. Salah satu bentuk konflik kepentin gan yang \nsering terjadi adalah adanya rangkap jabatan di beberapa lembag a, \ninstansi, atau perusahaan yang memiliki hubungan langsung atau tidak \nlangsung, sejenis atau tidak sejenis, sehingga menyebabkan pemanfaatan \nsuatu jabatan untuk kepentingan jabatan lainnya; \n\n28",
+      "start_line": 1032,
+      "end_line": 1042
+    },
+    {
+      "heading": "64. Bahwa dalam regulasi yang lebih rendah, kehadiran Peraturan Presiden",
+      "slug": "64-bahwa-dalam-regulasi-yang-lebih-rendah-kehadiran-peraturan-presiden",
+      "text": "Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara \n(selanjutnya disebut Perpres 68/2019) yang juga norma sama deng an \nPeraturan Presiden Nomor 140 Tahun 2024 tentang Organisasi \nKementerian Negara turut memperkuat legalitas keberadaan wakil menteri \nini. Berdasarkan Pasal 64 Perpres 68/2019, wakil menteri diangk at dan \ndiberhentikan oleh presiden serta berada di bawah dan bertanggung jawab \nkepada menteri. Kemudian, Pasal 65 Perpres 68/2019 menyatakan bahwa \nmenteri dan wakil menteri merupakan satu kesatuan unsur pemimpi n \nkementerian;",
+      "start_line": 1044,
+      "end_line": 1052
+    },
+    {
+      "heading": "65. Bahwa sejak jabatan wakil menteri dibentuk, secara otomatis s t r u k t u r",
+      "slug": "65-bahwa-sejak-jabatan-wakil-menteri-dibentuk-secara-otomatis-s-t-r-u-k-t-u-r",
+      "text": "organisasi kementerian negara menjadi bertambah. Penambahan struktur \norganisasi di kementerian negara berimplikasi pada struktur org anisasi \nkementerian negara secara keseluruhan. Melihat pada tugas, fung si, dan \nkewenangan, maka jabatan wakil menteri merupakan jabatan dalam \nstruktur organisasi kementerian negara berada satu tingkat di b awah \nmenteri dan juga berada satu tingkat di atas sekretariat jender al, \ninspektorat jenderal, dan direktorat jenderal, serta terdapat p enambahan \nsatu nomenklatur pada kementerian negara sejak dibentuknya jaba tan \nwakil menteri. Secara teoritis, hal ini akan berdampak pada str uktur \norganisasi kementerian negara secara keseluruhan;",
+      "start_line": 1054,
+      "end_line": 1063
+    },
+    {
+      "heading": "66. Bahwa sebagaimana diuraikan sebelumnya, konstitusionalitas",
+      "slug": "66-bahwa-sebagaimana-diuraikan-sebelumnya-konstitusionalitas",
+      "text": "keberadaan wakil menteri ini pernah digugat dalam permohonan pengujian \nundang-undang. MK melalui Putusan No. 80/PUU-XVII/2019 mengutip  \nkembali pertimbangan hukum dalam putusan sebelumnya dan tetap \nkonsisten pada pendiriannya mengenai konstitusionalitas jabatan  w a k i l  \nmenteri. Hal ini merupakan pertimbangan hukum MK terhadap dalil -dalil \npermohonan yang pada pokoknya menginginkan agar keberadaaan wak il \nmenteri dinyatakan inkonstitusional. Sementara itu, berkenaan dengan isu \nkonstitusionalitas terkait rangkap jabatan, MK memberikan penilaian yang \npada pokoknya menyatakan bahwa larangan yang berlaku bagi mente ri \njuga berlaku terhadap wakil menteri. Berdasarkan Pasal 23 UU 39 /2008, \nseorang menteri dilarang merangkap jabatan sebagai pejabat nega ra \nlainnya sesuai dengan peraturan perundang-undangan, komisaris, atau \n\n29 \ndireksi pada perusahaan negara atau perusahaan swasta, atau pim pinan \norganisasi yang dibiayai dari APBN dan/atau APBD. Dengan adanya  \npenegasan Putusan MK sebagaimana dikemukakan di atas, maka tera ng \nbahwa wakil menteri juga dilarang merangkap jabatan lain sebaga imana \ndisebutkan dalam Pasal 23 UU 39/2008;",
+      "start_line": 1065,
+      "end_line": 1083
+    },
+    {
+      "heading": "67. Bahwa dijatuhkannya Putusan Mahkamah Konstitusi Nomor 80/PU U-",
+      "slug": "67-bahwa-dijatuhkannya-putusan-mahkamah-konstitusi-nomor-80-pu-u",
+      "text": "XVII/2019 tersebut seharusnya dilaksanakan dengan baik oleh \npemerintah. Namun demikian, pada pelaksanaannya masih terdapat wakil \nmenteri yang rangkap jabatan sebagai komisaris atau wakil komis aris di \nperusahaan milik negara. Hal ini tentu saja tidak bersesuaian d engan \namanat yang terdapat dalam putusan tersebut;",
+      "start_line": 1085,
+      "end_line": 1089
+    },
+    {
+      "heading": "68. Bahwa padahal terdapat adagium yang menyatakan bahwa putusa n",
+      "slug": "68-bahwa-padahal-terdapat-adagium-yang-menyatakan-bahwa-putusa-n",
+      "text": "pengadilan apakah benar atau salah dan baik atau buruk harus te tap \ndilaksanakan. Putusan MK itu sendiri sudah jelas menyampaikan b ahwa \nwakil menteri dilarang rangkap jabatan sebagai komisaris atau w akil \nkomisaris di perusahaan negara maupun swasta. Pengabaian terhad ap \nputusan tersebut salah satunya didasarkan pada alasan bahwa ama r \nputusan dari perkara tersebut “tidak diterima” dan tidak menyat akan \nketentuan terkait larangan rangkap jabatan tersebut inkonstitus ional. \nMeskipun dalam amar Putusan MK permohonannya tidak dapat diteri ma, \ntetapi dalam membaca putusan juga sudah seharusnya membaca dan \nmelihat ratio decidendi-nya. Dengan kata lain, bukan berarti amar putusan \ntidak diterima lalu mengabaikan ration decidendi dalam putusannya;",
+      "start_line": 1091,
+      "end_line": 1101
+    },
+    {
+      "heading": "69. Bahwa dalam putusan tersebut bahkan secara eksplisit menyeb utkan",
+      "slug": "69-bahwa-dalam-putusan-tersebut-bahkan-secara-eksplisit-menyeb-utkan",
+      "text": "kedudukan wakil menteri itu sama dengan posisi menteri, mulai d ari \npersyaratan dan kriteria sampai dengan larangannya. Sebab, posi si wakil \nmenteri bisa saja menggantikan menteri apabila menteri berhalan gan, \nsehingga tidak ada perbedaan terkait dari persyaratan maupun \nlarangannya pada saat menjabat. Penegasan MK terkait dengan larangan \nrangkap jabatan menteri dan wakil menteri yang tertuang di dala m \npertimbangan hukum Putusan Nomor 80/PUU-XVII/2019 dipandang ole h \npemerintah hanya bersifat saran dan tidak memiliki kekuatan men gikat. \nPandangan demikian tentu sangat keliru dan perlu diluruskan. \nPertimbangan hukum dalam putusan MK itu bersifat mengikat karen a \n\n30 \npertimbangan hukum dalam putusan juga merupakan bagian dari putusan, \nsebab semua bagian yang ada dalam putusan tersebut merupakan sa tu \nkesatuan. Sehingga, jelas bahwa sejak putusan dibacakan maka pu tusan \ntersebut bersifat mengikat dan harus dilaksanakan sesuai dengan  yang \ntertulis dalam putusan tersebut;",
+      "start_line": 1103,
+      "end_line": 1119
+    },
+    {
+      "heading": "70. Bahwa jika dilihat dengan saksama, Putusan MK tersebut juga tidak",
+      "slug": "70-bahwa-jika-dilihat-dengan-saksama-putusan-mk-tersebut-juga-tidak",
+      "text": "mencantumkan istilah saran atau himbauan, sehingga sifatnya imp eratif. \nDalam pertimbangan hukum Putusan MK pada halaman 96 dinyatakan, \n“…Dengan status demikian, maka seluruh larangan rangkap \njabatan yang berlaku bagi menteri sebagaimana yang diatur dalam  \nPasal 23 UU 39/2008 berlaku pula bagi wakil menteri.” Pertimbangan \nhukum ini tentu tidak dapat dikatakan sebagai saran tidak mengi kat \ndan justru putusan MK memiliki sifat putusan yang final dan mengikat. \nArtinya, putusan tersebut merupakan putusan akhir dan mengikat \nseluruh pihak. Kalaupun terdapat perubahan maka harus dengan \nputusan MK berikutnya, sehingga tidak bisa lagi ditafsirkan ole h \npernyataan dari pejabat negara lainnya.",
+      "start_line": 1121,
+      "end_line": 1132
+    },
+    {
+      "heading": "71. Bahwa sejalan dengan hakikat putusan MK yang bersifat final d a n",
+      "slug": "71-bahwa-sejalan-dengan-hakikat-putusan-mk-yang-bersifat-final-d-a-n",
+      "text": "mengikat serta berlaku umum (erga omnes) , maka putusan MK \nsemestinya mengakhiri perdebatan dan perbedaan tafsir yang munc ul. \nOleh karenanya, tiada tafsir lain selain mengikuti kehendak put usan \nMahkamah Konstitusi. Sebab, tidak dilaksanakannya putusan Mahka mah \nKonstitusi dapat dikualifisir sebagai pembangkangan terhadap ko nstitusi \n(constitutional disobedience);",
+      "start_line": 1134,
+      "end_line": 1139
+    },
+    {
+      "heading": "72. Bahwa lebih lanjut, beberapa peraturan perundang-undangan m engatur",
+      "slug": "72-bahwa-lebih-lanjut-beberapa-peraturan-perundang-undangan-m-engatur",
+      "text": "larangan rangkap jabatan selain yang diatur dalam Pasal 23 UU N o. \n39/2008 tentang Kementerian Negara, 29 di antaranya, yaitu: \n1) Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik \nNegara, khususnya dalam Pasal 25 dan Pasal 33 jo. Pasal 27B \nUndang-Undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga UU \nBUMN; \n2) Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik, \nkhususnya dalam Pasal 17;  \n3) Undang-Undang Nomor 5 Tahun 2014 tentang Aparatur Sipil Nega ra, \nkhususnya dalam Pasal 5 ayat (2) huruf h;  \n4) Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi \nPemerintahan, khususnya dalam Pasal 42-43; \n\n31 \n5) Undang-Undang Nomor 28 Tahun 1999 tentang Penyelenggaraan \nNegara yang Bersih dan Bebas dari Korupsi, Kolusi, dan Nepotism e, \nkhususnya dalam Pasal 5 butir 6; \n6) Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian Negara \nRepublik Indonesia, khususnya dalam Pasal 28 ayat (3);  \n7) Undang-Undang Nomor 34 Tahun 2004 tentang Tentara Nasional \nIndonesia, khususnya dalam Pasal 47 ayat (1); \n8) Peraturan Pemerintah Republik Indonesia Nomor 45 Tahun 2005 \ntentang Pendirian, Pengurusan, Pengawasan, dan Pembubaran \nBadan Usaha Milik Negara, khususnya dalam pasal 54; dan \n9) Peraturan Pemerintah Republik Indonesia Nomor 54 Tahun 2017 \ntentang Badan Usaha Milik Daerah (BUMD), khususnya dalam Pasal \n48 ayat (1) dan Pasal 49 ayat (1).",
+      "start_line": 1141,
+      "end_line": 1167
+    },
+    {
+      "heading": "73. Bahwa sejak dijatuhkannya Putusan MK No. 80/PUU-XVII/2019 p ada",
+      "slug": "73-bahwa-sejak-dijatuhkannya-putusan-mk-no-80-puu-xvii-2019-p-ada",
+      "text": "Kamis, 27 Agustus 2020 hingga permohonan ini disidangkan oleh M K, \nmasih terdapat 9 (sembilan) wakil menteri merangkap Komisaris B UMN, \nmisalnya berdasarkan hasil penelusuran tersebut maka jelas bahw a di \nKementerian BUMN ditemukan beberapa wakil menteri yang masih \nmerangkap jabatan sebagai dewan komisaris. Terkait dengan hal tersebut, \nterdapat pertanyaan apakah di Kementerian BUMN ada karakteristi k \nkhusus untuk dikecualikan dari Putusan MK? Dalam hal ini, Putus an MK \ntidak menyebut adanya pengecualian apapun dan bagi kementerian \nmanapun. Pada dasarnya, tujuan dari adanya larangan rangkap di Putusan \nMK agar wakil menteri dapat fokus dengan beban kerja tertentu y ang \nmemerlukan penanganan secara khusus di kementeriannya. Sebalikn ya, \napabila larangan rangkap jabatan wakil menteri tidak diatur maka bisa saja \nwakil menteri yang merangkap jabatan tersebut lebih fokus mengurus hal-\nhal yang berkaitan dengan perusahaannya dan berkurang fokusnya pada \nkementerian yang dipimpinnya; \nC.5. PERSAMAAN DAN PERBEDAAN MENTERI DAN WAKIL MENTERI, \nKONFLIK KEPENTINGAN, DAN PENYALAHGUNAAN KEWENANGAN",
+      "start_line": 1169,
+      "end_line": 1185
+    },
+    {
+      "heading": "74. Bahwa seperti diketahui dalam manajemen perusahan, komisari s memiliki",
+      "slug": "74-bahwa-seperti-diketahui-dalam-manajemen-perusahan-komisari-s-memiliki",
+      "text": "peranan yang sangat penting. Komisaris adalah orang yang ditunj uk oleh \nanggota (pemegang saham) untuk mewakili pemegang saham dalam \n\n32 \nmengawasi kegiatan dan operasional perusahaan. Pada umumnya, posisi \nkomisaris diisi oleh lebih dari satu orang sehingga disebut den gan dewan \nkomisaris. Di dalam Pasal 114 UU No. 40 Tahun 2007 tentang Pers eroan \nTerbatas (UU PT) terdapat beberapa tugas utama dan fungsi utama  \nseorang komisaris. Adapun tugas utama dan fungsi utama seorang \nkomisaris, yaitu sebagai berikut:  \n1) Dewan Komisaris dapat melakukan pengawasan pada kebijakan \npengurusan.  \n2) Dewan Komisaris dapat melakukan pengawasan jalannya pengurus an \npada umum, baik mengenai Perseroan maupun usaha Perseroan. \n3) Dewan Komisaris dapat memberi nasihat kepada Direksi. \n4) Pengawasan dan pemberian nasihat dilakukan untuk kepentingan  \nPerseroan dan sesuai dengan maksud dan tujuan Perseroan. \n5) Setiap anggota Dewan Komisaris wajib dengan itikad baik, keh ati-\nhatian, dan bertanggung jawab dalam menjalankan tugas pengawasan \ndan pemberian nasihat kepada Direksi. \n6) Setiap anggota Dewan Komisaris ikut bertanggung jawab secara  \npribadi atas kerugian Perseroan apabila yang bersangkutan bersa lah \natau lalai dalam menjalankan tugasnya.",
+      "start_line": 1187,
+      "end_line": 1209
+    },
+    {
+      "heading": "75. Bahwa menduduki posisi sebagai komisaris atau wakil komisar is di suatu",
+      "slug": "75-bahwa-menduduki-posisi-sebagai-komisaris-atau-wakil-komisar-is-di-suatu",
+      "text": "perusahaan tentu bukan pekerjaan yang mudah. Oleh karenanya, sa ma \nhalnya dengan pekerja pada umumnya, mereka juga berhak untuk \nmenerima gaji dari pekerjaan yang mereka lakukan. Besaran gaji seorang \nkomisaris tergantung pada kebijakan masing-masing perusahaan, n amun \nlazimnya dihitung berdasarkan persentase gaji direksi. Berdasar kan \nLaporan Tahunan 2021, PT Bank Rakyat Indonesia (Persero) Tbk. \nmengalokasikan jumlah gaji dan tunjangan untuk direksi sebesar \nRp177.412 miliar untuk tahun yang berakhir pada tanggal 31 Dese mber \n2021 dan Rp168.326 milia r untuk tahun yang berakhir pada tangga l 31 \nDesember 2020. Sedangkan, jumlah gaji dan tunjangan untuk dewan  \nkomisaris adalah sebesar Rp70.085 miliar untuk tahun yang berakhir pada \ntanggal 31 Desember 2021 dan Rp63.579 miliar untuk tahun yang berakhir \npada tanggal 31 Desember 2020. Selanjutnya, jumlah tantiem, bonus, dan \ninsentif direksi yang dibayarkan adalah sebesar Rp339.890 milia r untuk \n\n33 \ntahun yang berakhir pada tanggal 31 Desember 2021 dan Rp292.518  \nmiliar untuk tahun yang berakhir pada tanggal 31 Desember 2020.  \nSementara itu, jumlah tantiem, bonus, dan insentif dewan komisa ris yang \ndibayarkan adalah sebesar Rp135.632 miliar untuk tahun yang ber akhir \npada tanggal 31 Desember 2021 dan Rp136.333 miliar untuk tahun yang \nberakhir pada tanggal 31 Desember 2020 (Lihat Laporan Tahunan 2 021 \nPT Bank Rakyat Indonesia (Persero) Tbk., Bank Rakyat Indonesia, diakses \nterakhir 25 April 2025, https://bri.co.id/repodt, 299);",
+      "start_line": 1211,
+      "end_line": 1234
+    },
+    {
+      "heading": "76. Bahwa kemudian, pada Laporan Tahunan 2020 PT Pertamina (Per sero)",
+      "slug": "76-bahwa-kemudian-pada-laporan-tahunan-2020-pt-pertamina-per-sero",
+      "text": "dijelaskan bahwa besaran remunerasi bagi pekerja perseroan dite tapkan \nberdasarkan market review dengan memperhatikan ketentuan yang \nberlaku di PT Pertamina (Persero) sebagai induk perseroan. Remu nerasi \nyang diberikan didasarkan pada pertimbangan profesional dan \nmengabaikan faktor-faktor yang mengindikasikan diskriminasi den gan \ntetap mempertimbangkan internal equity. Remunerasi yang diterima \npegawai perseroan terdiri dari gaji pokok, tunjangan, insentif,  dan bonus. \nTunjangan yang diberikan didasarkan pada pertimbangan status \nkepegawaian, jabatan, masa kerja, dan penempatan. Adapun insentif dan \nbonus diberikan berdasarkan penilaian kinerja pekerja serta kin erja \nperseroan. Komponen remunerasi Dewan Komisaris PT Pertamina \n(Persero) terdiri dari: (1) Honorarium; (2) Tunjangan Transportasi; dan (3) \nTunjangan Hari Raya Keagamaan. Sementara itu, komposisi honorar ium \ndewan komisaris terdiri dari: (1) Honorarium Komisaris Utama: 4 5% dari \nGaji Direktur Utama dan (2) Honorarium Komisaris: 90% dari Hono rarium \nKomisaris Utama;",
+      "start_line": 1236,
+      "end_line": 1251
+    },
+    {
+      "heading": "77. Bahwa selanjutnya, manajemen kunci adalah direksi dan perso nil lain yang",
+      "slug": "77-bahwa-selanjutnya-manajemen-kunci-adalah-direksi-dan-perso-nil-lain-yang",
+      "text": "mempunyai peranan kunci dalam perusahaan. Kompensasi yang dibay ar \ndan terutang pada manajemen kunci pada periode yang berakhir 31  \nDesember 2021, yaitu sebesar US$14.773 atau sekitar Rp210.73 mi liar \ndengan kurs Rp14.265/UD$, sementara untuk dewan komisaris pada \nperiode yang berakhir 31 Desember 2021 US$16.048 atau sekitar \nRp228.92 miliar. Adapun pada tahun 2020 kompensasi yang dibayar pada \ndireksi yaitu sebesar US$27.828 atau sekitar Rp394.46 miliar da n untuk \ndewan komisaris yaitu sebesar US$11.064 atau sekitar Rp156.83 m iliar \n\n34 \n(Lihat Laporan Tahunan 2020 PT Pertamina (Persero), Pertamina, diakses \nterakhir 25 April 2025, https:// pep.pertamina.com/Annual);",
+      "start_line": 1253,
+      "end_line": 1264
+    },
+    {
+      "heading": "78. Bahwa uraian mengenai gaji dan pendapatan yang diperoleh de wan",
+      "slug": "78-bahwa-uraian-mengenai-gaji-dan-pendapatan-yang-diperoleh-de-wan",
+      "text": "komisaris atau direksi ini menjadi penting untuk dibandingkan d engan \npendapatan yang diterima oleh seorang menteri atau wakil menter i. \nKetentuan mengenai gaji yang diberikan kepada menteri diatur da lam \nPeraturan Pemerintah Republik Indonesia Nomor 60 Tahun 2000 ten tang \nPerubahan Atas Peraturan Pemerintah Nomor 50 Tahun 1980 tentang Hak \nKeuangan/Administratif Menteri Negara dan Bekas Menteri Negara serta \nJanda/Dudanya sebagaimana telah beberapa kali diubah terakhir d engan \nPeraturan Pemerintah Nomor 18 Tahun 1993. Pasal 2 Peraturan \nPemerintah tersebut menyatakan, “Kepada Menteri Negara diberika n gaji \npokok sebesar Rp5.040.000,00 (lima juta empat puluh ribu rupiah ) \nsebulan;",
+      "start_line": 1266,
+      "end_line": 1276
+    },
+    {
+      "heading": "79. Bahwa untuk gaji yang diberikan kepada menteri diatur dalam Keputusan",
+      "slug": "79-bahwa-untuk-gaji-yang-diberikan-kepada-menteri-diatur-dalam-keputusan",
+      "text": "Presiden Republik Indonesia Nomor 68 Tahun 2001 tentang Perubah an \nAtas Keputusan Presiden Nomor 168 Tahun 2000 Tentang Tunjangan \nJabatan Bagi Pejabat Negara Tertentu. Pasal 1 ayat (2) huruf e \nmenyatakan, “Menteri Negara, Jaksa Agung, dan Panglima Tentara \nNasional Indonesia dan Pejabat lain yang kedudukannya atau \npengangkatannya setingkat atau disetarakan dengan Menteri Negar a \nadalah sebesar Rp. 13.608.000,00 (tiga belas juta enam ratus delapan ribu \nrupiah)”;",
+      "start_line": 1278,
+      "end_line": 1285
+    },
+    {
+      "heading": "80. Bahwa untuk gaji dan tunjangan wakil menteri diatur dalam P eraturan",
+      "slug": "80-bahwa-untuk-gaji-dan-tunjangan-wakil-menteri-diatur-dalam-p-eraturan",
+      "text": "Menteri Keuangan Republik Indonesia Nomor 176/PMK.02/2015 tenta ng \nHak Keuangan dan Fasilitas Lainnya bagi Wakil Menteri. Pasal 1 \nmenyatakan, “Kepada wakil menteri diberikan hak keuangan dan fa silitas \nlainnya”. Kemudian pada Pasal 2 ayat (1) huruf a diatur, “85% ( delapan \npuluh lima persen) dari tunjangan jabatan menteri sebagaimana d i atur \ndalam Keputusan Presiden Nomor 68 Tahun 2001 mengenai Tunjangan  \nJabatan Bagi Pejabat Negara Tertentu”;",
+      "start_line": 1287,
+      "end_line": 1293
+    },
+    {
+      "heading": "81. Bahwa berdasarkan peraturan tersebut wakil menteri akan men dapat",
+      "slug": "81-bahwa-berdasarkan-peraturan-tersebut-wakil-menteri-akan-men-dapat",
+      "text": "tunjangan 85% dari tunjangan menteri sesuai dengan Peraturan Presiden \nRepublik Indonesia Nomor 68 Tahun 2001. Menurut Keputusan Presi den \n\n35 \ntersebut, jumlah tunjangan yang diberikan kepada menteri adalah sebesar \nRp13.608.000,00 (tiga belas juta enam ratus delapan ribu rupiah ) per \nbulan. Sehingga, tunjangan yang akan diberikan kepada wakil men teri \nmenjadi sebesar Rp11.566.800,00 (sebelas juta lima ratus enam p uluh \nenam ribu delapan ratus rupiah);",
+      "start_line": 1295,
+      "end_line": 1303
+    },
+    {
+      "heading": "82. Bahwa tak hanya itu, menteri negara juga mendapatkan tunjan gan kinerja",
+      "slug": "82-bahwa-tak-hanya-itu-menteri-negara-juga-mendapatkan-tunjan-gan-kinerja",
+      "text": "yang jumlahnya berbeda di setiap kementerian. Terdapat pula fasilitas lain \nyang disediakan negara untuk menteri, seperti kendaraan dinas, rumah \njabatan, jaminan kesehatan, tunjangan hari raya (THR) keagamaan , dan \ngaji ke-13. Adapun tunjangan kinerja bagi wakil menteri sebagai mana \ndiatur dalam Pasal 2 ayat (1) huruf b Permenkeu Nomor 176/PMK.02/2015 \nadalah 135 persen dari tunjangan kinerja pejabat struktural ese lon Ia \ndengan peringkat jabatan tertinggi;",
+      "start_line": 1305,
+      "end_line": 1311
+    },
+    {
+      "heading": "83. Bahwa wakil menteri juga diberikan fasilitas negara, sepert i kendaraan",
+      "slug": "83-bahwa-wakil-menteri-juga-diberikan-fasilitas-negara-sepert-i-kendaraan",
+      "text": "dinas, rumah jabatan, jaminan kesehatan, THR, dan gaji ke-13. N amun, \ndalam hal kementerian yang bersangkutan belum bisa menyediakan \nrumah jabatan, maka wakil menteri mendapatkan kompensasi berupa  \ntunjangan perumahan sebesar Rp35.000.000 per bulan;",
+      "start_line": 1313,
+      "end_line": 1316
+    },
+    {
+      "heading": "84. Bahwa dengan demikian dapat dilihat bahwa terdapat perbedaa n jumlah",
+      "slug": "84-bahwa-dengan-demikian-dapat-dilihat-bahwa-terdapat-perbedaa-n-jumlah",
+      "text": "pendapatan seorang komisaris atau wakil komisaris di suatu peru sahaan \nyang cukup mencolok dengan jumlah pendapatan menteri dan wakil \nmenteri. Hal ini kemungkinan menjadi salah satu alasan tidak \ndilepaskannya posisi dewan komisaris atau direksi oleh wakil menteri yang \nmasih aktif. Akan tetapi dengan melihat kondisi saat ini, di ma na masih \nterdapat wakil menteri yang rangkap jabatan sebagai dewan komis aris di \nperusahaan milik negara, maka selama itu pula wakil menteri yang ditunjuk \nbelum tentu dapat optimal dalam menjalankan tugas dan tanggung \njawabnya dikarenakan adanya beban kerja lain. Hal ini tentu saj a dapat \nmenimbulkan kerugian dikarenakan wakil menteri yang sepatutnya fokus \nbekerja sesuai dengan tugas pokok dan fungsinya (tupoksi), teta pi \nakhirnya harus merangkap tupoksi sebagai dewan komisaris di sua tu \nperusahaan;",
+      "start_line": 1318,
+      "end_line": 1330
+    },
+    {
+      "heading": "85. Bahwa saat ini, banyaknya kesamaan atribut dan perangkat pe ndukung",
+      "slug": "85-bahwa-saat-ini-banyaknya-kesamaan-atribut-dan-perangkat-pe-ndukung",
+      "text": "antara menteri dan wakil menteri: \n\n36 \nNO. KESAMAAN MENTERI  WAKIL MENTERI \n1 Penggunaan Nomor Polisi di \nmobil dinas (RI) \nAda Ada \n2 Protokol dan Pengawalan Ada Ada \n3 Pin Pejabat Nayaka Ada Ada",
+      "start_line": 1332,
+      "end_line": 1340
+    },
+    {
+      "heading": "86. Bahwa pada hakikatnya, dengan adanya rangkap jabatan maka k onflik",
+      "slug": "86-bahwa-pada-hakikatnya-dengan-adanya-rangkap-jabatan-maka-k-onflik",
+      "text": "kepentingan akan terjadi sehingga yang dimaksukan konflik kepen tingan \nmerupakan situasi yang terjadi pada semua tingkatan pemerintahan, mulai \ndari tingkat lokal hingga global, baik di lingkup publik maupun  privat. \nPemahaman global terkait dampak dari konflik kepentingan dapat \ndikatakan telah mencapai titik konsensus, di mana dipahami bahwa hingga \ntaraf tertentu, konflik kepentingan dapat saja mendistorsi pros es \npengambilan keputusan dan menghasilkan dampak yang tidak pantas  \nsehingga merusak berfungsinya institusi publik maupun pasar. Da lam \nkonteks pemberantasan korupsi, telah dipahami bersama bahwa kon flik \nkepentingan yang dibiarkan begitu saja merupakan indikator, pre kursor, \natau bahkan konsekuensi dari korupsi itu sendiri;",
+      "start_line": 1342,
+      "end_line": 1352
+    },
+    {
+      "heading": "87. Bahwa secara historis, konflik kepentingan sebagai sebuah i de juga dapat",
+      "slug": "87-bahwa-secara-historis-konflik-kepentingan-sebagai-sebuah-i-de-juga-dapat",
+      "text": "dilacak akarnya dari awal peradaban itu sendiri, sebagaimana keberadaan \nadagium-adagium klasik seperti “no one can serve two masters”  ataupun \nnemo judex in re sua (tidak ada yang boleh menjadi hakim dalam kasusnya \nsendiri). Namun demikian, sebagai sebuah konsep, konflik kepent ingan \nmerupakan suatu hal yang sukar didefinisikan karena kompleksita s serta \nlapisan yang termuat dalam setiap situasi konflik kepentingan. Pada \numumnya, konflik kepentingan kerap dimaknai sebagai situasi di mana \nkepentingan atau beberapa kepentingan yang dimiliki seseorang \ncenderung mengganggu pelaksanaan penilaiannya secara tepat demi  \nkepentingan orang lain;",
+      "start_line": 1354,
+      "end_line": 1363
+    },
+    {
+      "heading": "88. Bahwa sejumlah ahli dari berbagai latar belakang juga telah m e n c o b a",
+      "slug": "88-bahwa-sejumlah-ahli-dari-berbagai-latar-belakang-juga-telah-m-e-n-c-o-b-a",
+      "text": "menawarkan definisi konflik kepentingan dengan tingkat keragama nnya \nmasing-masing. Terdapat definisi yang bersifat terlalu luas unt uk \ndioperasionalkan, hingga definisi yang sangat spesifik sehingga  hanya \ndapat diterapkan dalam konteks-konteks tertentu saja. Misalnya,  terdapat \n\n37 \ndefinisi yang menjelaskan bahwa konflik kepentingan mengacu pad a \nsebuah situasi atau kondisi di mana penilaian profesional seseo rang \nmungkin dikaburkan oleh faktor eksternal yang memberikan keuntu ngan \npribadi baik dalam bentuk materi (uang atau barang) ataupun non -materi \n(pengaruh, asosiasi, dst.). Untuk konteks yang spesifik di ling kup privat \nseperti korporasi, definisi mengenai konflik kepentingan berkut at pada \npengambilan keputusan direktur, yakni objektivitas dan tingkat \nkepercayaan para pihak terhadap direktur untuk melaksanakan proper \nexercise of judgement ataupun memenuhi fiduciary duty-nya akan sangat \nterganggu dengan kepentingan finansial seperti kompensasi dan g aji; \nmengambil peluang bisnis perusahaan, dan merger, akuisisi, serta \npenjualan kendali perusahaan;",
+      "start_line": 1365,
+      "end_line": 1382
+    },
+    {
+      "heading": "89. Bahwa pada tataran global, sejumlah institusi internasional maupun",
+      "slug": "89-bahwa-pada-tataran-global-sejumlah-institusi-internasional-maupun",
+      "text": "regional telah berupaya untuk memberikan pengaturan atau setida k-\ntidaknya mendefinisikan konflik kepentingan yang lebih teknis-operasional \nyang diharapkan dapat dijadikan rujukan baku ke dalam dokumen-\ndokumen resmi atau produk hukum. Sebagai contoh, beberapa \ndiantaranya sebagai berikut: \n The United Nations Convention against Corruption (UNCAC): pada \nChapter II yang fokus pada upaya-upaya preventif, terdapat seju mlah \nnorma yang mendorong para negara anggota untuk mengadopsi, \nmenjaga, serta memperkuat sistem yang mencegah konflik kepentingan",
+      "start_line": 1384,
+      "end_line": 1392
+    },
+    {
+      "heading": "di sektor publik dan privat;",
+      "slug": "di-sektor-publik-dan-privat",
+      "text": " The United Nations General Assembly – International Code of \nConduct for Public Officials: prinsip pertama dan utama yang diadopsi \nmenegaskan bahwa jabatan publik sebagaimana didefinisikan oleh \nhukum nasional, merupakan posisi yang dipercayakan, sehingga \ntersirat kewajiban untuk bertindak demi kepentingan umum. Lebih lanjut \npada salah satu pasal di bawah bab “ Conflict of Interest and \nDisqualification,” dinormakan bahwa pejabat publik tidak boleh \nmenggunakan wewenang resmi untuk kepentingan pribadi atau \nfinansial yang tidak patut demi keuntungan pribadi atau keluarg a. \nMereka tidak boleh terlibat dalam transaksi apapun, memperoleh posisi \natau fungsi apapun, atau memiliki kepentingan finansial, komersial, atau \n\n38 \nkepentingan lain yang sebanding dan tidak sesuai dengan jabatan , \nfungsi, dan tugas mereka, atau pelaksanaan tugas mereka;  \n The G20 High-Level Principles on the Prevention of Conflict of \nInterests:  melalui The G20 Anti Corruption Working Group, diadopsi \nsejumlah prinsip-prinsip bagi negara anggota untuk diejawantahk an ke \ndalam standar yang spesifik, koheren, dan operasional melalui h ukum \natau kebijakan domestik. Adapun terdapat dua kategori konflik \nkepentingan: \n- Financial conflicts of interest: konflik kepentingan yang melibatkan \nkepentingan keuangan. Pejabat publik, anggota keluarga, atau rekan \ndekatnya dapat memeroleh keuntungan finansial atau menghindari \nkerugian finansial.  \n- Non-financial conflict of interest : konflik kepentingan di mana \nkepentingan kapasitas pribadi yang bersaing bersifat non-finans ial. \nKepentingan tersebut dapat muncul terkait hubungan pribadi, afiliasi, \natau ikatan lain yang dapat mengganggu pengambilan keputusan \nyang objektif dari pejabat tersebut. \n The Organisation for Economic Co-operation and Development \nGuidelines for Managing Conflict of  Interest in the Public Service : \nkonflik kepentingan dimaknai sebagai sebuah konflik antara tugas. \n Publik dan kepentingan pribadi pejabat publik , di mana pejabat \npublik memiliki kepentingan prib adi yang dapat secara tidak pat ut \nmemengaruhi pelaksanaan tugas dan tanggung jawab resminya.",
+      "start_line": 1394,
+      "end_line": 1429
+    },
+    {
+      "heading": "90. Bahwa di Indonesia aturan terkait pencegahan serta pengelol aan konflik",
+      "slug": "90-bahwa-di-indonesia-aturan-terkait-pencegahan-serta-pengelol-aan-konflik",
+      "text": "kepentingan juga tersebar di sejumlah peraturan perundang-undan gan, \nmeski belum sepenuhnya selaras dengan standar-standar global ya ng \nada. Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi \nPemerintahan (UU 30/2014) mengatur secara rinci mengenai konfli k \nkepentingan. Pasal 1 angka 14 pada regulasi itu menjelaskan bah wa \nkonflik kepentingan adalah kondisi pejabat pemerintahan yang me miliki \nkepentingan pribadi untuk menguntungkan diri sendiri dan/atau orang lain \ndalam penggunaan wewenang sehingga dapat memengaruhi netralitas  \ndan kualitas keputusan dan/atau tindakan yang dibuat dan/atau \ndilakukannya. Berdasarkan pengertian tersebut dapat dipahami ba hwa \n\n39 \nkonflik kepentingan bukan merupakan perbuatan, melainkan suatu kondisi \nyang sedang atau akan dialami oleh seorang pejabat pemerintahan;",
+      "start_line": 1431,
+      "end_line": 1444
+    },
+    {
+      "heading": "91. Bahwa untuk mengartikan frasa “Pejabat Pemerintahan,” dapat merujuk",
+      "slug": "91-bahwa-untuk-mengartikan-frasa-pejabat-pemerintahan-dapat-merujuk",
+      "text": "pada Pasal 1 angka 3 UU 30/2014. Di sana disebutkan bahwa pejab at \npemerintahan adalah unsur yang melaksanakan fungsi pemerintahan, baik",
+      "start_line": 1446,
+      "end_line": 1447
+    },
+    {
+      "heading": "di lingkungan pemerintah maupun penyelenggara negara lainnya. O leh",
+      "slug": "di-lingkungan-pemerintah-maupun-penyelenggara-negara-lainnya-o-leh",
+      "text": "sebab itu, maka setiap kementerian, termasuk yang mengurusi BUM N, \nberdasarkan Pasal 5 ayat (3) Undang-Undang Nomor 39 Tahun 2008 \ntentang Kementerian Negara termasuk diantaranya dan harus tunduk pada \nketentuan UU 30/2014;",
+      "start_line": 1449,
+      "end_line": 1452
+    },
+    {
+      "heading": "92. Bahwa unsur subjektivitas yang dikhawatirkan memengaruhi pe jabat",
+      "slug": "92-bahwa-unsur-subjektivitas-yang-dikhawatirkan-memengaruhi-pe-jabat",
+      "text": "pemerintahan sebelum pengambilan keputusan atau tindakan turut \ndiuraikan dalam Pasal 43 ayat (1) UU 30/2014. Di antaranya, ada nya \nkepentingan pribadi dan/atau bisnis, hubungan dengan kerabat da n \nkeluarga, hubungan dengan wakil pihak yang terlibat, hubungan d engan \npihak yang bekerja dan mendapat gaji dari pihak yang terlibat, hubungan \ndengan pihak yang memberikan rekomendasi terhadap pihak yang terlibat, \ndan hubungan dengan pihak-pihak lain yang dilarang oleh ketentu an \nperaturan perundang-undangan. Dalam regulasi itu juga disebutka n \nbahwa pejabat yang berpotensi memiliki konflik kepentingan dila rang \nmenetapkan dan/atau melakukan keputusan dan/atau tindakan \nsebagaimana disebutkan Pasal 42 ayat (1) UU 30/2014;",
+      "start_line": 1454,
+      "end_line": 1464
+    },
+    {
+      "heading": "93. Bahwa pada dasarnya, konflik kepentingan bukan merupakan su atu",
+      "slug": "93-bahwa-pada-dasarnya-konflik-kepentingan-bukan-merupakan-su-atu",
+      "text": "perbuatan, melainkan sebuah situasi. Maka, langkah yang bisa di ambil \nbukan sekadar pemidanaan, akan tetapi aturan khusus untuk \nmeminimalisirnya. Salah satu yang dapat diambil pejabat pemerin tahan, \njika dirinya mengetahui ada potensi konflik kepentingan saat in gin \nmelakukan tindakan atau mengeluarkan keputusan adalah melalui \nmekanisme deklarasi. Hal itu tertuang dalam Pasal 43 ayat (2) UU 30/2014 \ndengan bunyi sebagai berikut, “dalam hal terdapat konflik kepen tingan, \nmaka Pejabat Pemerintahan wajib memberitahukan kepada atasannya .” \nSecara tidak langsung, mekanisme deklarasi ini dapat dipandang sebagai \nalasan pembenar. Sepanjang pada saat proses pembahasan dan \npengambilan keputusan, pejabat terkait tidak lagi dilibatkan; \n\n40",
+      "start_line": 1466,
+      "end_line": 1478
+    },
+    {
+      "heading": "94. Bahwa sekalipun tidak disebut secara spesifik dengan termin ologi “Konflik",
+      "slug": "94-bahwa-sekalipun-tidak-disebut-secara-spesifik-dengan-termin-ologi-konflik",
+      "text": "Kepentingan,” melainkan “Benturan Kepentingan,” UU 19/2003 juga  turut \nmengaturnya. Dalam sebaran pasal, regulasi yang menyangkut BUMN ini \nmeletakkan aspek benturan kepentingan pada larangan rangkap jab atan \nbagi direksi, komisaris, dan dewan pengawas. Organ BUMN tersebu t \nsecara spesifik dilarang rangkap jabatan pada perusahaan-perusa haan \nyang memiliki benturan kepentingan dengan dirinya (Pasal 25 hur uf a \njuncto Pasal 33 ayat (1) juncto Pasal 62 huruf a UU 19/2003). Penjabaran \nmengenai benturan kepentingan juga ditemukan dalam penjelasan makna \nprinsip “kemandirian” yang disebut Pasal 5 ayat (3) UU 19/2003.  Aspek \nkemandirian diterjemahkan sebagai keadaan di mana perusahaan dikelola \nsecara profesional tanpa benturan kepentingan dan pengaruh/tekanan dari \npihak manapun yang tidak sesuai dengan peraturan perundang-undangan \ndan prinsip-prinsip korporasi yang sehat;",
+      "start_line": 1480,
+      "end_line": 1492
+    },
+    {
+      "heading": "95. Bahwa untuk keperluan permohonan a quo, Pemohon mengutip hasil riset",
+      "slug": "95-bahwa-untuk-keperluan-permohonan-a-quo-pemohon-mengutip-hasil-riset",
+      "text": "Indonesia Corruption Watch (ICW) yang tidak mengadopsi pemaknaa n \nkonflik kepentingan sebagai suatu perseteruan kepentingan antar a dua \natau lebih aktor eksternal terhadap suatu hal (conflicting interests) . \nPemohon cenderung mengambil definisi dari konflik kepentingan y ang \nmenekankan pada situasi atau kondisi di mana seorang individu a tau \nsebuah institusi yang mengemban fungsi-fungsi publik menjadi berpotensi \nuntuk terganggu imparsialitas atau profesionalitasnya karena te rdapat \nbenturan dengan tujuan personal atau privat dari aktor bersangk utan \n(konflik intrapersonal);",
+      "start_line": 1494,
+      "end_line": 1502
+    },
+    {
+      "heading": "96. Bahwa uraian mengenai konflik kepentingan juga dapat ditemu kan dalam",
+      "slug": "96-bahwa-uraian-mengenai-konflik-kepentingan-juga-dapat-ditemu-kan-dalam",
+      "text": "panduan penanganan konflik kepentingan bagi penyelenggara negar a \nyang dibuat oleh Komisi Pemberantasan Korupsi (KPK). Dokumen it u \nmenjelaskan mengenai konflik kepentingan, seperti bentuk-bentuk  d a n  \nsumber penyebab situasi tersebut. Dari 13 bentuk konflik kepent ingan, 5",
+      "start_line": 1504,
+      "end_line": 1507
+    },
+    {
+      "heading": "di antaranya sebagai berikut: penerimaan gratifikasi, rangkap j abatan,",
+      "slug": "di-antaranya-sebagai-berikut-penerimaan-gratifikasi-rangkap-j-abatan",
+      "text": "memberikan akses khusus kepada pihak tertentu, penyalahgunaan \njabatan, dan penggunaan aset jabatan untuk kepentingan pribadi atau \nkelompok. Sedangkan sumber penyebab konflik kepentingan, pandua n \ntersebut mengkategorikan menjadi 6 bagian. Diantaranya: kekuasaan dan \n\n41 \nkewenangan penyelenggara negara, perangkapan jabatan, hubungan \nafiliasi, gratifikasi, kelemahan sistem organisasi, dan kepentingan pribadi;",
+      "start_line": 1509,
+      "end_line": 1516
+    },
+    {
+      "heading": "97. Bahwa dengan adanya larangan rangkap jabatan berpotensi",
+      "slug": "97-bahwa-dengan-adanya-larangan-rangkap-jabatan-berpotensi",
+      "text": "penyalahgunaan kewenangan yang akan dilakukan oleh wakil menter i \nuntuk kepentingan BUMN atau kepentingan pribadinya sendiri, yan g \ndimana pendapatan komisaris yang lebih tinggi daripada pendapatan wakil \nmenteri; \nC.6. RANGKAP JABATAN WAKIL MENTERI DILARANG DALAM UNDANG-",
+      "start_line": 1518,
+      "end_line": 1522
+    },
+    {
+      "heading": "98. Bahwa pengertian dari dewan komisaris dan dewan pengawas da lam",
+      "slug": "98-bahwa-pengertian-dari-dewan-komisaris-dan-dewan-pengawas-da-lam",
+      "text": "Undang-Undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga Atas \nUndang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik \nNegara: \nPasal 1 angka 7 UU BUMN \nDewan Komisaris adalah organ persero yang bertugas \nmelakukan pengawasan sebagaimana dimaksud dalam \nundang-undang mengenai perseroan terbatas.  \n \nPasal 1 Angka 8 UU BUMN \nDewan Pengawas adalah organ Perum yang bertugas \nmelakukan pengawasan secara umum dan/atau khusus sesuai \ndengan anggaran dasar serta memberi nasihat kepada Direksi.",
+      "start_line": 1525,
+      "end_line": 1537
+    },
+    {
+      "heading": "99. Bahwa entitas dari Badan Usaha Milik Negara (BUMN) terbagi dari dua,",
+      "slug": "99-bahwa-entitas-dari-badan-usaha-milik-negara-bumn-terbagi-dari-dua",
+      "text": "yaitu: Perseroan Terbatas, yang dimana saham dari pemerintah te rhadap \nperusahaan tersebut minimal 51%, dan bentuk yang kedua adalah Perum, \nbentuk ini saham dari pemerintah terhadap perusahaan tersebut a dalah \n99% yang dimana seluruh keseluruhan dimiliki oleh negara, yang \nberhubungan dengan ketersediaan barang dan jasa untuk masyaraka t \nluas;",
+      "start_line": 1539,
+      "end_line": 1544
+    },
+    {
+      "heading": "100. Bahwa dewan komisaris atau dewan pengawas bahwa sejatinya sama",
+      "slug": "100-bahwa-dewan-komisaris-atau-dewan-pengawas-bahwa-sejatinya-sama",
+      "text": "dalam rangka mengawasi perusahaan negara atau dalam hal ini BUM N, \nDewan Komisaris untuk mengawasi Perseroan Terbatas dan Dewan \nPengawas untuk mengawasi Perum;",
+      "start_line": 1546,
+      "end_line": 1548
+    },
+    {
+      "heading": "101. Bahwa Komisaris atau Dewan Pengawas dilarang dalam undang- undang",
+      "slug": "101-bahwa-komisaris-atau-dewan-pengawas-dilarang-dalam-undang-undang",
+      "text": "lainnya, di antaranya yaitu: \n\n42 \nUndang-Undang Nomor 25 \nTahun 2009 tentang \nPelayanan Publik \nUndang-Undang Nomor 1 Tahun \n2025 tentang Perubahan Ketiga Atas \nUndang-Undang Nomor 19 Tahun \n2003 Tentang Badan Usaha Milik \nNegara \nPasal 1 Angka 5: \nPelaksana pelayanan publik \nyang selanjutnya disebut \nPelaksana adalah pejabat, \npegawai, petugas, dan setiap \norang yang bekerja di dalam \norganisasi penyelenggara yang \nbertugas melaksanakan \ntindakan atau serangkaian \ntindakan pelayanan publik. \n \nPasal 17 huruf (a)  \nPelaksana dilarang:  \na. merangkap sebagai \nkomisaris atau pengurus \norganisasi usaha bagi \npelaksana yang berasal dari \nlingkungan instansi \npemerintah, badan usaha \nmilik negara, dan badan \nusaha milik daerah; \nb. … \nPasal 27 B \nDewan Komisaris dilarang merangkap \njabatan sebagai:  \na. Anggota Direksi, Dewan Komisaris, \natau Dewan Pengawas pada BUMN \nlain, Anak Usaha BUMN dan \nturunannya badan usaha milik \ndaerah; dan/atau \nb. jabatan lain sesuai dengan \nketentuan peraturan perundang-\nundangan.",
+      "start_line": 1550,
+      "end_line": 1594
+    },
+    {
+      "heading": "102. Bahwa pelaksana yang dimaksudkan dalam UU Pelayanan Publik , salah",
+      "slug": "102-bahwa-pelaksana-yang-dimaksudkan-dalam-uu-pelayanan-publik-salah",
+      "text": "satunya masuk dalam kategorinya adalah wakil menteri;",
+      "start_line": 1596,
+      "end_line": 1596
+    },
+    {
+      "heading": "103. Bahwa secara jelas dan nyata (expressive verbis) komisaris dan/atau",
+      "slug": "103-bahwa-secara-jelas-dan-nyata-expressive-verbis-komisaris-dan-atau",
+      "text": "dewan pengawas dilarang merangkap jabatan komisaris, karena \nberhubungan dengan pelayanan publik (public service obligation), apalagi \nberpotensi besar masuknya konflik kepentingan apabila wakil men teri \nmenjadi komisaris dan/atau dewan pengawas di BUMN;",
+      "start_line": 1598,
+      "end_line": 1601
+    },
+    {
+      "heading": "104. Bahwa konflik kepentingan sangat kental terasa pada ketiga wakil menteri",
+      "slug": "104-bahwa-konflik-kepentingan-sangat-kental-terasa-pada-ketiga-wakil-menteri",
+      "text": "BUMN saat ini yang kesemuanya menjadi komisaris di BUMN yang besar, \nsehingga patut diminimalisir dengan berbagai aturan yang rigid, agar \nsegala kemungkinan buruk tidak akan terjadi terhadap BUMN itu s endiri, \napalagi saat ini semangat membangun BUMN sangatlah besar dengan  \ndidirikannya BPI Danantara dari hasil revisi UU BUMN; \n\n43",
+      "start_line": 1603,
+      "end_line": 1609
+    },
+    {
+      "heading": "105. Bahwa permasalahan pengangkatan komisaris dan dewan pengaw as",
+      "slug": "105-bahwa-permasalahan-pengangkatan-komisaris-dan-dewan-pengaw-as",
+      "text": "yang seringkali tidak transparan berdampak pada lemahnya pengaw asan",
+      "start_line": 1611,
+      "end_line": 1611
+    },
+    {
+      "heading": "di BUMN. Dalam catatan ICW, dari tahun 2016-2021 setidaknya ter dapat",
+      "slug": "di-bumn-dalam-catatan-icw-dari-tahun-2016-2021-setidaknya-ter-dapat",
+      "text": "119 perkara yang di perusahaan pelat merah itu. Jumlah kerugian  \nnegaranya pun terbilang besar, mencapai Rp49,7 triliun. Sedangk an \njumlah tersangka dari lingkungan BUMN sebanyak 210 orang dengan latar \nbelakang kepegawaian sebagai berikut: 83 orang pimpinan menengah, 76 \norang pegawai, dan 51 orang pada level direktur. Meskipun banyak faktor \nyang melatarbelakanginya, namun pengawasan oleh jajaran komisaris dan \ndewan pengawas mestinya bisa meminimalisir praktek korupsi di B UMN \n(Indonesia Corruption Watch, “Tren Penindakan Kasus Korupsi Bad an \nUsaha Milik Negara 2016-2021” 2022, diakses dari \n(https://antikorupsi.org/sites/default/files/dokumen/Tren%20Korupsi%20 \nBUMN%202016-2021a.pdf);",
+      "start_line": 1613,
+      "end_line": 1623
+    },
+    {
+      "heading": "106. Bahwa larangan untuk melakukan rangkap jabatan juga dipand ang dapat",
+      "slug": "106-bahwa-larangan-untuk-melakukan-rangkap-jabatan-juga-dipand-ang-dapat",
+      "text": "mengganggu persaingan usaha antar entitas perusahaan. Sebagai \ncontoh, Amerika Serikat dan Italia menaruh perhatian besar akan  \npermasalahan ini dan menuangkannya dalam hukum positif. Muara \npermasalahan rangkap jabatan ini berada pada konseptualisasi ko nflik \nkepentingan. Berbagai organisasi/forum internasional sudah mendetailkan \nmengenai hal tersebut misalnya, United Convention Against Corruption, \nUnited Nations General Assembly, G20, dan The Organisation for \nEconomic Co-operation and Development. Oleh sebab itu, konteks konflik \nkepentingan sebagaimana ada dan tertuang dalam UU 30/2014 tenta ng \nAdministrasi Pemerintahan belum cukup mengakomodir perluasan makna \nyang dikenal dalam aturan yang telah diterapkan di berbagai org anisasi \ninternasional;",
+      "start_line": 1625,
+      "end_line": 1636
+    },
+    {
+      "heading": "107. Bahwa rangkap jabatan berpotensi juga menghasilkan situasi diskriminatif",
+      "slug": "107-bahwa-rangkap-jabatan-berpotensi-juga-menghasilkan-situasi-diskriminatif",
+      "text": "antar birokrat, khususnya dalam kaitan dengan pendapatan ganda. Sebab, \nbirokrat yang menempati posisi sebagai komisaris dan dewan peng awas \nBUMN mendapatkan dua penghasilan secara berkala, baik dari \nperusahaan pelat merah tersebut dan instansi negara tempat ia b erasal. \nRemunerasi yang tinggi bagi jabatan direksi BUMN yang memiliki fungsi-\nfungsi esensial dalam hal pengawasan juga dapat menimbulkan kon flik \n\n44 \nkepentingan dikarenakan individu bersangkutan akan cenderung me miliki \nmotif untuk mendapatkan keuntungan sebesar-besarnya ketimbang \nsecara imparsial dan objektif melakukan tugas-tugas pengawasan (Lukas \nHandschin, “Conflict of interest related to management and board \npayments profit based remuneration systems make things worse,”  dalam \nAnne Peters (eds), et.al., hlm. 288);",
+      "start_line": 1638,
+      "end_line": 1651
+    },
+    {
+      "heading": "108. Bahwa rangkap jabatan ini juga berpotensi menyebabkan terg anggunya",
+      "slug": "108-bahwa-rangkap-jabatan-ini-juga-berpotensi-menyebabkan-terg-anggunya",
+      "text": "profesionalitas. Sebab, rangkap jabatan menimbulkan tuntutan me ngenai \nloyalitas terhadap masing-masing lembaga tempat orang yang \nbersangkutan bernaung. Bilamana dua institusi tersebut memiliki  tujuan \nyang berbanding terbalik, seperti BUMN sebagai entitas yang cen derung \nberorientasi mencari keuntungan, dengan kementerian atau lembag a \nnegara yang berfungsi sentral untuk memberikan pelayanan publik , maka \nbertindak demi kepentingan entitas yang satu dapat berpengaruh terhadap \nentitas lainnya. Utamanya saat keduanya memiliki irisan pekerjaan. Situasi \nini bertentangan dengan tujuan untuk meningkatkan kualitas \npenyelenggaraan pemerintahan yang tercantum dalam konsiderans U U \nNo. 30/2014 tentang Administrasi Pemerintahan. Selain itu, rang kap \njabatan juga tidak sejalan dengan agenda reformasi birokrasi ya ng \ndimaksudkan dalam rangka mewujudkan tata pemerintahan yang baik dan \nmeningkatkan profesionalisme aparatur negara.",
+      "start_line": 1653,
+      "end_line": 1666
+    },
+    {
+      "heading": "109. Bahwa jika kita melihat perbandingan dengan negara lain se perti Amerika",
+      "slug": "109-bahwa-jika-kita-melihat-perbandingan-dengan-negara-lain-se-perti-amerika",
+      "text": "Serikat dan Italia, rangkap jabatan juga dianggap berpotensi \nmenghilangkan adanya persaingan usaha yang berdampak pada indik asi \nmonopoli sebuah perusahaan. Oleh karenanya rangkap jabatan di d ua \nnegara ini dilarang. Di Amerika Serikat, pengaturan ini tertuan g dalam \nClayton Act sedangkan di Italia diatur dalam UU No. 201, 6 Dese mber",
+      "start_line": 1668,
+      "end_line": 1672
+    },
+    {
+      "heading": "2011. Pada ketentuan di Amerika Serikat, diatur bahwa seseorang tidak",
+      "slug": "2011-pada-ketentuan-di-amerika-serikat-diatur-bahwa-seseorang-tidak",
+      "text": "dapat menjabat pada saat yang sama sebagai direktur maupun peja bat \npada dua perusahaan (selain bank, asosiasi perbankan, dan perus ahaan \nperwalian). Salah satu kondisi penerapan ketentuan tersebut dis ebutkan \njika bisnis keduanya saling bersaing dan melalui kesepakatan ya ng \ndilakukan diantara mereka dapat menghapuskan persaingan sehingg a \ndapat menyebabkan pelanggaran terhadap peraturan perundang-\n\n45 \nundangan anti monopoli. Pada UU di Italia, ketentuan larangan r angkap \njabatan ini menjelaskan bahwa pemimpin kantor manajemen, \npengawasan, dan kontrol, serta para pejabat senior perusahaan y ang \nberoperasi di bidang kredit, asuransi dan keuangan, dilarang me ngambil \natau menjalankan posisi yang sama pada perusahaan atau kelompok  \nperusahaan pesaing (Dhaniswara K. Harjono, Aspek Hukum Rangkap \nJabatan pada Korporasi di Indonesia, Jakarta: UKI Press, 2022, hlm. 49-\n50). \nD. PETITUM  \nBerdasarkan seluruh uraian di atas dan bukti-bukti terlampir, dengan demikian, \nPemohon mohon kepada Majelis Hakim Konstitusi Yang Mulia berken an \nmemberikan putusan sebagai berikut:",
+      "start_line": 1674,
+      "end_line": 1693
+    },
+    {
+      "heading": "2. Menyatakan kata “Menteri” sebagaimana ditentukan dalam Pasal 23 Undang-",
+      "slug": "2-menyatakan-kata-menteri-sebagaimana-ditentukan-dalam-pasal-23-undang",
+      "text": "Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara \nRepublik Indonesia Tahun 2008, Nomor 166, Tambahan Lembaran Neg ara \nNomor 4916) bertentangan dengan Undang-Undang Dasar Negara Repu blik \nIndonesia Tahun 1945 dan tidak mempunyai kekuatan hukum sepanja ng tidak \ndimaknai “Menteri dan Wakil Menteri”. Sehingga Pasal 23 Undang- Undang \nNomor 39 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2 008, \nNomor 166, Tambahan Lembaran Negara Nomor 4916), berbunyi:  \nMenteri dan Wakil Menteri dilarang merangkap jabatan sebagai: \na. pejabat negara lainnya sesuai dengan peraturan perundang-undangan; \nb. komisaris atau direksi pada perusahaan negara atau perusahaa n \nswasta; atau",
+      "start_line": 1696,
+      "end_line": 1706
+    },
+    {
+      "heading": "c. pimpinan organisasi yang dibiayai dari Anggaran Pendapatan B elanja",
+      "slug": "c-pimpinan-organisasi-yang-dibiayai-dari-anggaran-pendapatan-b-elanja",
+      "text": "Negara dan/atau Anggaran Pendapatan Belanja Daerah.",
+      "start_line": 1708,
+      "end_line": 1708
+    },
+    {
+      "heading": "3. Memerintahkan untuk memuat putusan ini dalam Berita Negara R epublik",
+      "slug": "3-memerintahkan-untuk-memuat-putusan-ini-dalam-berita-negara-r-epublik",
+      "text": "Indonesia sebagaimana mestinya. \n\n46 \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon mengajukan \nalat bukti surat/tulisan yang diberi tanda Bukti P-1 sampai den gan Bukti P-12 \nsebagai berikut:",
+      "start_line": 1710,
+      "end_line": 1715
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Anggaran Dasar/Aanggaran Rumat Tangga",
+      "slug": "2-bukti-p-2-fotokopi-anggaran-dasar-aanggaran-rumat-tangga",
+      "text": "Indonesia Law & Democracy Studies (ILDES);",
+      "start_line": 1718,
+      "end_line": 1718
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 1720,
+      "end_line": 1720
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Undang-Undang Nomor 39 Tahun 2008 tenta ng",
+      "slug": "4-bukti-p-4-fotokopi-undang-undang-nomor-39-tahun-2008-tenta-ng",
+      "text": "Kementerian Negara;",
+      "start_line": 1722,
+      "end_line": 1722
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Undang-Undang Nomor 1 Tahun 2025 tentan g",
+      "slug": "5-bukti-p-5-fotokopi-undang-undang-nomor-1-tahun-2025-tentan-g",
+      "text": "Perubahan Ketiga Atas Undang-Undang Nomor 19 Tahun \n2003 Tentang Badan Usaha Milik Negara;",
+      "start_line": 1724,
+      "end_line": 1725
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Undang-Undang Nomor 25 Tahun 2009 tenta ng",
+      "slug": "6-bukti-p-6-fotokopi-undang-undang-nomor-25-tahun-2009-tenta-ng",
+      "text": "Pelayanan Publik;",
+      "start_line": 1727,
+      "end_line": 1727
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Peraturan Presiden Nomor 60 Tahun 2012 tentang",
+      "slug": "7-bukti-p-7-fotokopi-peraturan-presiden-nomor-60-tahun-2012-tentang",
+      "text": "Wakil Menteri;",
+      "start_line": 1729,
+      "end_line": 1729
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Peraturan Presiden Nomor 134 Tahun 2014 tentang",
+      "slug": "8-bukti-p-8-fotokopi-peraturan-presiden-nomor-134-tahun-2014-tentang",
+      "text": "Perubahan Atas Peraturan Presiden Nomor 60 Tahun 2012 \nTentang Wakil Menteri;",
+      "start_line": 1731,
+      "end_line": 1732
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Peraturan Presiden Nomor 77 Tahun 2021 tentang",
+      "slug": "9-bukti-p-9-fotokopi-peraturan-presiden-nomor-77-tahun-2021-tentang",
+      "text": "Perubahan Kedua Atas Peraturan Presiden Nomor 60 Tahun \n2012 Tentang Wakil Menteri;",
+      "start_line": 1734,
+      "end_line": 1735
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Penelitian ICW, “Rangkap Jabatan Komi saris dan",
+      "slug": "10-bukti-p-10-fotokopi-penelitian-icw-rangkap-jabatan-komi-saris-dan",
+      "text": "Dewan Pengawas Badan Usaha Milik Negara: Kegagalan \nPemerintah Mengelola Konflik Kepentingan”, (2023);",
+      "start_line": 1737,
+      "end_line": 1738
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Putusan Mahkamah Konstitusi Nomor 80/ PUU-",
+      "slug": "11-bukti-p-11-fotokopi-putusan-mahkamah-konstitusi-nomor-80-puu",
+      "text": "XVII/2019;",
+      "start_line": 1740,
+      "end_line": 1740
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Peraturan Presiden Nomor 140 Tahun 2024 tentang",
+      "slug": "12-bukti-p-12-fotokopi-peraturan-presiden-nomor-140-tahun-2024-tentang",
+      "text": "Organisasi Kementerian Negara. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara  Persidangan dan \nRisalah Persidangan yang merupakan satu kesatuan yang tidak terpisahkan dengan \nputusan ini. \n\n47",
+      "start_line": 1742,
+      "end_line": 1748
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), salah satu kewenangan konstitusional Mah kamah adalah \nmengadili pada tingkat pertama dan terakhir yang putusannya ber sifat final untuk \nmenguji undang-undang terhadap UUD NRI Tahun 1945. \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas norma undang-undang, in casu pengujian materiil  Undang-\nUndang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran  Negara \nRepublik Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran Negara Republik \nIndonesia Nomor 4916, selanjutnya disebut UU 39/2008), terhadap UUD NRI Tahun \n1945 maka Mahkamah berwenang mengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia (termasuk kelompok orang yang mempunyai \nkepentingan sama); \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \n\n48 \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1750,
+      "end_line": 1782
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya Undang -Undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, telah berpend irian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1785,
+      "end_line": 1803
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar da pat dipastikan \nakan terjadi;",
+      "start_line": 1805,
+      "end_line": 1806
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n\n49 \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1)  UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon yang pad a \npokoknya, sebagai berikut:",
+      "start_line": 1808,
+      "end_line": 1817
+    },
+    {
+      "heading": "1. Bahwa norma undang-undang yang dimohonkan pengujian dalam pe rmohonan",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-pengujian-dalam-pe-rmohonan",
+      "text": "a quo adalah Pasal 23 UU 39/2008, selengkapnya menyatakan sebagai berikut: \nPasal 23 UU 39/2008:  \nMenteri dilarang merangkap jabatan sebagai: \na. pejabat negara lainnya sesuai dengan peraturan perundang-undangan; \nb. komisaris atau direksi pada perusahaan negara atau perusahaa n \nswasta; atau",
+      "start_line": 1819,
+      "end_line": 1824
+    },
+    {
+      "heading": "2. Bahwa Pemohon menjelaskan memiliki hak konstitusional sebaga imana dijamin",
+      "slug": "2-bahwa-pemohon-menjelaskan-memiliki-hak-konstitusional-sebaga-imana-dijamin",
+      "text": "dalam Pasal 1 ayat (3), Pasal 17, Pasal 27 ayat (1), dan Pasal 28D ayat (3) UUD \nNRI Tahun 1945;",
+      "start_line": 1826,
+      "end_line": 1827
+    },
+    {
+      "heading": "3. Bahwa Pemohon adalah perseorangan Warga Negara Indonesia [vi de Bukti",
+      "slug": "3-bahwa-pemohon-adalah-perseorangan-warga-negara-indonesia-vi-de-bukti",
+      "text": "P-1], pencari keadilan yang sering beracara di Mahkamah Konstitusi, Pemohon \njuga turut aktif dalam komunitas pencinta hukum tata negara yan g bernama \nIndonesia Law & Democracy Studies (ILDES) yang memiliki konstrasi berbagai \nisu hukum dan demokrasi yang ada di Indonesia sesuai dengan Anggaran Dasar \ndan Anggaran Rumah Tangga Indonesia Law & Democracy Studies  (IILDS) \nsebagai Direktur Eksekutif, dengan berlakunya norma Pasal 23 UU  39/2008, \nPemohon merasa mendapatkan ketidakpastian hukum dan ketidakadil an, \napalagi ketika adanya pertimbangan hukum dalam Putusan Mahkamah  \nKonstitusi Nomor 80/PUU-XVII/2019, yang telah secara tegas mela rang \nrangkap jabatan wakil menteri, namun hal tersebut tidak dilaksa nakan oleh \npemerintah dan semua pihak yang berkepentingan. Menurut Pemohon  \nketidakpastian hukum dan ketidakadilan ini terjadi karena tidak  diamarkannya \nlarangan rangkap jabatan wakil menteri dalam Putusan Mahkamah K onstitusi, \nbagi sebagian pihak d ianggap tidak memiliki kekuatan hukum yang  mengikat \nbagi Pemerintah dan DPR. Padahal dengan sifat Putusan Mahkamah yang erga \nomnes, maka putusan Mahkamah Konstitusi bukan hanya amar putusannya \nsaja yang berlaku asas erga omnes, juga termasuk segala hal yang diatur dan \n\n50 \nditentukan dalam pertimbangan hukum;",
+      "start_line": 1829,
+      "end_line": 1848
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon, berkenaan dengan isu konstitusionalit as rangkap",
+      "slug": "4-bahwa-menurut-pemohon-berkenaan-dengan-isu-konstitusionalit-as-rangkap",
+      "text": "jabatan, Mahkamah Konstitusi memberikan penilaian yang pada pok oknya \nmenyatakan bahwa larangan yang berlaku bagi menteri juga berlak u terhadap \nwakil menteri. Berdasarkan Pasal 23 UU 3/2008, seorang menteri dilarang \nmerangkap jabatan sebagai pejabat negara lainnya sesuai dengan peraturan \nperundang-undangan, komisaris, atau direksi pada perusahaan neg ara, atau \nperusahaan swasta, atau pimpinan organisasi yang dibiayai dari APBN dan/atau \nAPBD. Dengan adanya penegasan Putu san Mahkamah Konstitusi Nomor  \n80/PUU-XVII/2019, maka terang bahwa wakil menteri juga dilarang merangkap \njabatan lain sebagaimana disebutkan dalam Pasal 23 UU 39/2008. Namun pada \npelaksanaannya, masih terdapat wakil Menteri yang rangkap jabat an sebagai \nkomisaris di perusahaan milik negara. Putusan Mahkamah Konstitu si Nomor \n80/PUU-XVII/2019 sudah jelas menyampaikan bahwa wakil menteri d ilarang \nrangkap jabatan sebagai komisaris di perusahaan negara maupun s wasta. \nPengabaian terhadap putusan tersebut salah satunya didasarkan p ada alasan \nbahwa amar putusan dari perkara tersebut “tidak dapat diterima”  d a n  t i d a k  \nmenyatakan ketentuan terkait larangan rangkap jabatan tersebut \ninskonstitusional. Meskipun dalam amar putusan a quo permohonannya tidak \ndapat diterima, tetapi dalam membaca putusan juga sudah seharus nya \nmembaca dan melihat ratio decidendi-nya;  \n Berdasarkan uraian alasan Pemohon dalam menjelaskan kedudukan \nhukum tersebut, Pemohon pada pokoknya memohon agar dinyatakan m emiliki \nkedudukan hukum untuk mengajukan permohonan a quo, dan memohon pula agar \nberkenaan dengan norma Pasal  23 UU 39/2008 sepanjang kata “menteri” agar  \ndimaknai “menteri dan wakil menteri”. Berkenaan dengan keduduka n hukum \nPemohon a quo Mahkamah mendapatkan bukti, bahwa Pemohon Juhaidy Rizaldy \nRoringkon telah meninggal dunia, berdasarkan surat keterangan d ari Rumah Sakit \nDr. Suyoto, Jakarta, bahwa Pemohon Juhaidy Rizaldy Roringkon te lah meninggal \ndunia pada tanggal 22 Juni 2025, pukul 12.55 WIB [vide Surat Keterangan Kematian \nNomor SKPM/200169/VI/RSDS/2025, b ertanggal 22 Juni 2025]. Oleh karena itu, \nmenurut Mahkamah berkenaan dengan kedudukan hukum Pemohon yang telah \nmeninggal dunia, tidak dapat dipertimbangkan lebih lanjut karen a syarat anggapan \nkerugian hak konstitusional yang dimiliki oleh Pemohon dalam pe rmohonan \n\n51 \npengujian undang-undang di Mahkamah Konsitusi harus relevan dan  \nberkesinambungan dengan keberadaan Pemohon, mengingat syarat lain yang juga \nharus terpenuhi untuk dapat diberikan kedudukan hukum bagi Pemo hon adalah \napabila permohonan dikabulkan, maka anggapan kerugian hak konstitusional yang \ndialami oleh Pemohon tidak lagi terjadi atau tidak akan terjadi . Dengan demikian, \ndikarenakan Pemohon telah meninggal dunia maka keseluruhan syar at anggapan \nkerugian yang didalilkan Pemohon dalam menjelaskan kedudukan hukumnya yang \nbersifat kumulatif tersebut tidak terpenuhi oleh Pemohon, sebagaimana dikehendaki \ndalam Putusan Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan Nomor 11/PUU-\nV/2007. \n Berdasarkan seluruh uraian pertimbangan hukum tersebut di atas , \nmenurut Mahkamah, Pemohon tidak memiliki kedudukan hukum untuk bertindak \nsebagai Pemohon dalam mengajukan permohonan a quo; \n[3.6] Menimbang bahwa oleh karena Pe mohon tidak memiliki kedudukan \nhukum untuk bertindak sebagai Pemohon dalam mengajukan permohon an dalam \nperkara a quo, maka pokok permohonan tidak dipertimbangkan lebih lanjut.    \n[3.7] Menimbang bahwa terhadap hal-hal lain tidak dipertimbangkan le bih \nlanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1850,
+      "end_line": 1901
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 1903,
+      "end_line": 1903
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1]  Mahkamah berwenang mengadili permohonan a quo;  \n[4.2]  Pemohon tidak memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Pokok permohonan Pemohon tidak dipertimbangkan. \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \n\n52 \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 1905,
+      "end_line": 1919
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggot a, Saldi Isra, \nArief Hidayat, Daniel Yusmic P. Foekh, Anwar Usman, Enny Nurban ingsih, M. \nGuntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing se bagai \nAnggota, pada hari Rabu, tanggal sembilan, bulan Juli, tahun dua ribu dua puluh \nlima, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka  untuk \numum pada hari Kamis, tanggal tujuh belas, bulan Juli, tahun dua ribu dua puluh \nlima, selesai diucapkan pukul  13.47 WIB , oleh sembilan Hakim Konstitusi, yaitu \nSuhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Arief Hid ayat, Daniel \nYusmic P. Foekh, Anwar Usman, Enny Nurbaningsih, M. Guntur Hamz ah, Ridwan \nMansyur, dan Arsul Sani, masing-masing sebagai Anggota, dengan dibantu oleh \nWilma Silalahi sebagai Panitera Pengganti, serta dihadiri oleh Dewan Perwakilan \nRakyat atau yang mewakili, Presiden atau yang mewakili, serta t anpa dihadiri oleh \nPemohon. \nKETUA, \nttd. \nSuhartoyo  \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra  \nttd. \nArief Hidayat \n\n53 \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nAnwar Usman \nttd. \nEnny Nurbaningsih  \nttd. \nM. Guntur Hamzah \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nWilma Silalahi",
+      "start_line": 1921,
+      "end_line": 1962
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Juhaidy Rizaldy Roringkon",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 39/2008 tentang Kementerian Negara"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C ayat (1)",
+      "Pasal 23",
+      "Pasal 1 ayat (2)",
+      "Pasal 27 ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 17",
+      "Pasal 28D ayat (3)",
+      "Pasal 4 ayat (1)",
+      "Pasal 17 ayat (2)",
+      "Pasal 10 ayat (1) hur"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-12",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "REFERENSI:21/PUU-XXIII/2025",
+      "REFERENSI:21/PUU/PAN.MK/AP3/02/2025",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:80/PUU-XVII/2019",
+      "REFERENSI:79/PUU-IX/2011",
+      "REFERENSI:39/2008berlakupulabagiwakilmenteri.Pemberlakuandemikiandimaksudkanagarwakilmenterifokuspadabebankerjayangmemerlukanpenanganansecarakhususdikementeriannyasebagaialasanperlunyadiangkatwakilmenteridikementeriantertentu.24XVII/2019",
+      "REFERENSI:176/PMK.02/2015",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:200169/VI/RSDS/2025",
+      "REFERENSI:006/PUU-III/2005danNomor11/PUU-V/2007",
+      "REFERENSI:06/PUU-III/danPerkaraNomor11/PUU-V/2007",
+      "REFERENSI:9/PUU-IX/2011",
+      "REFERENSI:39/2008berlakupulabagiwakilmenteri.Pemberlakuandemikiandimaksudkanagarwakilmenterifokuspadabebankerjayangmemerlukanpenanganansecarakhususdikementeriannyasebagaialasanperlunyadiangkatwakilmenteridikementeriantertentu.2449.BahwasejatinyaperihallaranganrangkapjabatandalamPutusan80/PUU-XVII/2019"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Arief Hidayat",
+      "Daniel Yusmic P. Foekh",
+      "Anwar Usman",
+      "Enny Nurbaningsih",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Wilma Silalahi"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "21/PUU-XXIII/2025",
+      "21/PUU/PAN.MK/AP3/02/2025",
+      "11/PUU-V/2007",
+      "80/PUU-XVII/2019",
+      "79/PUU-IX/2011",
+      "39/2008berlakupulabagiwakilmenteri.Pemberlakuandemikiandimaksudkanagarwakilmenterifokuspadabebankerjayangmemerlukanpenanganansecarakhususdikementeriannyasebagaialasanperlunyadiangkatwakilmenteridikementeriantertentu.24XVII/2019",
+      "176/PMK.02/2015",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "200169/VI/RSDS/2025",
+      "006/PUU-III/2005danNomor11/PUU-V/2007",
+      "06/PUU-III/danPerkaraNomor11/PUU-V/2007",
+      "9/PUU-IX/2011",
+      "39/2008berlakupulabagiwakilmenteri.Pemberlakuandemikiandimaksudkanagarwakilmenterifokuspadabebankerjayangmemerlukanpenanganansecarakhususdikementeriannyasebagaialasanperlunyadiangkatwakilmenteridikementeriantertentu.2449.BahwasejatinyaperihallaranganrangkapjabatandalamPutusan80/PUU-XVII/2019"
+    ],
+    "referenced_cases": [
+      "21/PUU-XXIII/2025",
+      "21/PUU/PAN.MK/AP3/02/2025",
+      "11/PUU-V/2007",
+      "80/PUU-XVII/2019",
+      "79/PUU-IX/2011",
+      "39/2008berlakupulabagiwakilmenteri.Pemberlakuandemikiandimaksudkanagarwakilmenterifokuspadabebankerjayangmemerlukanpenanganansecarakhususdikementeriannyasebagaialasanperlunyadiangkatwakilmenteridikementeriantertentu.24XVII/2019",
+      "176/PMK.02/2015",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "200169/VI/RSDS/2025",
+      "006/PUU-III/2005danNomor11/PUU-V/2007",
+      "06/PUU-III/danPerkaraNomor11/PUU-V/2007",
+      "9/PUU-IX/2011",
+      "39/2008berlakupulabagiwakilmenteri.Pemberlakuandemikiandimaksudkanagarwakilmenterifokuspadabebankerjayangmemerlukanpenanganansecarakhususdikementeriannyasebagaialasanperlunyadiangkatwakilmenteridikementeriantertentu.2449.BahwasejatinyaperihallaranganrangkapjabatandalamPutusan80/PUU-XVII/2019"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

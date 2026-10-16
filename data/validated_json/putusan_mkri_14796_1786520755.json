@@ -1,0 +1,764 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14796_1786520755.pdf",
+    "file_name": "putusan_mkri_14796_1786520755.pdf",
+    "page_count": 21,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14796_1786520755.pdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:applicants_missing"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "264/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-08-12",
+    "decision_date_raw": "dua belas, bulan Agustus, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "PUTUSAN \nNOMOR 264/PUU-XXIV/2026",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat  \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah Haji d an Umrah \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 14 Tahun 2025 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 8 Tahun 2019 tentang \nPenyelenggaraan Ibadah Haji dan Umrah terhadap Undang-Undang Da sar Negara \nRepublik Indonesia Tahun 1945, yang diajukan oleh: \n N a m a  : Hermawanto \n Pekerjaan : Advokat \n Alamat : Taman Royal 3 Akasia 2 Blok AS 14 Nomor 7, \nKelurahan Tanah Tinggi, Tangerang, Kota Tangerang, \nProvinsi Banten \nBerdasarkan Surat Kuasa Khusus bertanggal 13 Mei 2026 memberi k uasa kepada \nJoddy Mulyasetya Putra, S.H., M.H., Bachtiar Putra Arvianto, S. H., M.Kn., Chaerul \nAbdul Rahman, S.H., Billy Mulia Agustinus, S.H., Agus Komsi, S. H., Bsc., Ahmad \nZul Haji Harahap, S.H., dan Fahmi Nur Huda, S.H., para Advokat/Konsultan Hukum \nyang tergabung dalam Ikatan Pengabdian Hukum Indonesia, beralam at di Rumah \nIKADIN, Graha Slipi Lantai 41 Suite L, Jalan Letjen S. Parman K av. 22-24, \nRT.1/RW.4, Palmerah, Jakarta Barat, Daerah Khusus Ibukota Jakar ta, baik \nbersama-sama ataupun sendiri-sendiri bertindak untuk dan atas n ama Pemberi \nKuasa; \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon. \n\n\n 2",
+      "start_line": 4,
+      "end_line": 32
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n8 Juli 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada  tanggal 8 Juli \n2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor 263/PU U/ \nPAN.MK/AP3/07/2026 dan telah dicatat dalam Buku Registrasi Perk ara Konstitusi \nElektronik (e-BRPK) dengan Permohonan Nomor 264/PUU-XXIV/2026 p ada \ntanggal 9 Juli 2026, yang telah diperbaiki dan diterima Mahkama h pada tanggal 3 \nAgustus 2026, yang pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 34,
+      "end_line": 41
+    },
+    {
+      "heading": "1. Bahwa Pasal 24C ayat (1) Undang-Undang Dasar Negara Republik",
+      "slug": "1-bahwa-pasal-24c-ayat-1-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945 (selanjutnya disebut “UUD NRI 1945”) menen tukan \nbahwa Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap UUD NRI 1945.",
+      "start_line": 43,
+      "end_line": 46
+    },
+    {
+      "heading": "2. Bahwa kewenangan tersebut ditegaskan dalam Pasal 10 ayat (1) h u r u f a",
+      "slug": "2-bahwa-kewenangan-tersebut-ditegaskan-dalam-pasal-10-ayat-1-h-u-r-u-f-a",
+      "text": "Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah beberapa kali diubah, terakhir dengan Undang- Undang \nNomor 7 Tahun 2020 (selanjutnya disebut “UU Mahkamah Konstitusi”).",
+      "start_line": 48,
+      "end_line": 50
+    },
+    {
+      "heading": "3. Bahwa Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48 Tahun 2 0 0 9",
+      "slug": "3-bahwa-pasal-29-ayat-1-huruf-a-undang-undang-nomor-48-tahun-2-0-0-9",
+      "text": "tentang Kekuasaan Kehakiman menegaskan kewenangan Mahkamah \nKonstitusi untuk menguji undang-undang terhadap UUD NRI 1945.",
+      "start_line": 52,
+      "end_line": 53
+    },
+    {
+      "heading": "4. Bahwa Pasal 9 ayat (1) Undang-Undang Nomor 12 Tahun 2011 ten tang",
+      "slug": "4-bahwa-pasal-9-ayat-1-undang-undang-nomor-12-tahun-2011-ten-tang",
+      "text": "Pembentukan Peraturan Perundang-undangan sebagaimana telah beberapa \nkali diubah, terakhir dengan Undang-Undang Nomor 13 Tahun 2022,  \nmenentukan bahwa pengujian undang-undang yang diduga bertentang an \ndengan UUD NRI 1945 dilakukan oleh Mahkamah Konstitusi. \n5 .  B a h w a  P a s a l  1  a n g k a  3  juncto Pasal 2 ayat (1) Peraturan Mahkamah \nKonstitusi Nomor 7 Tahun 2025 tentang Tata Beracara dalam Perka ra \nPengujian Undang-Undang (selanjutnya disebut “PMK 7/2025”) \nmenempatkan pengujian materiil norma undang-undang sebagai perk ara \nyang menjadi kewenangan Mahkamah Konstitusi.",
+      "start_line": 55,
+      "end_line": 63
+    },
+    {
+      "heading": "6. Bahwa objek permohonan a quo adalah Pasal 64 ayat (2) Undang-Undang",
+      "slug": "6-bahwa-objek-permohonan-a-quo-adalah-pasal-64-ayat-2-undang-undang",
+      "text": "Nomor 8 Tahun 2019 sebagaimana telah beberapa kali diubah terak hir \n\n 3\ndengan Undang-Undang Nomor 14 Tahun 2025, sedangkan batu ujinya  \nadalah UUD NRI 1945. Dengan demikian, Mahkamah Konstitusi berwe nang \nmemeriksa, mengadili, dan memutus permohonan a quo. \nII. KEDUDUKAN HUKUM PEMOHON",
+      "start_line": 65,
+      "end_line": 71
+    },
+    {
+      "heading": "7. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menentukan ba hwa",
+      "slug": "7-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menentukan-ba-hwa",
+      "text": "Pemohon dalam pengujian undang-undang adalah pihak yang menganggap \nhak dan/atau kewenangan konstitusionalnya dirugikan oleh berlak unya \nundang-undang, termasuk perorangan warga negara Indonesia.",
+      "start_line": 73,
+      "end_line": 75
+    },
+    {
+      "heading": "8. Bahwa Mahkamah Konstitusi sejak Putusan Nomor 006/PUU-III/20 05 dan",
+      "slug": "8-bahwa-mahkamah-konstitusi-sejak-putusan-nomor-006-puu-iii-20-05-dan",
+      "text": "Putusan Nomor 11/PUU-V/2007 secara tetap mensyaratkan: (i) adan ya hak \nkonstitusional yang diberikan oleh UUD NRI 1945; (ii) hak tersebut dianggap \ndirugikan oleh norma yang diuji; (iii) kerugian bersifat spesifik dan aktual atau \nsetidak-tidaknya potensial yang menurut penalaran wajar dapat d ipastikan \nterjadi; (iv) terdapat hubungan sebab-akibat antara kerugian dan norma yang \ndiuji; dan (v) terdapat kemungkinan kerugian tidak lagi terjadi  apabila \npermohonan dikabulkan.",
+      "start_line": 77,
+      "end_line": 83
+    },
+    {
+      "heading": "9. Bahwa Pemohon adalah perorangan warga negara Indonesia yang",
+      "slug": "9-bahwa-pemohon-adalah-perorangan-warga-negara-indonesia-yang",
+      "text": "beragama Islam dan telah terdaftar sebagai calon jemaah haji re guler \nberdasarkan Surat Pendaftaran Pergi Haji yang diterbitkan Kanto r \nKementerian Agama Kota Tangerang pada tanggal 29 September 2016  \ndengan Nomor Porsi 2800233551.",
+      "start_line": 85,
+      "end_line": 88
+    },
+    {
+      "heading": "10. Bahwa berdasarkan pemeriksaan estimasi keberangkatan terakh ir pada",
+      "slug": "10-bahwa-berdasarkan-pemeriksaan-estimasi-keberangkatan-terakh-ir-pada",
+      "text": "Maret 2026, Pemohon diperkirakan berangkat pada tahun 2033. Den gan \ndemikian, Pemohon menghadapi masa tunggu kurang lebih 17 (tujuh  belas) \ntahun. Fakta ini menunjukkan bahwa kerugian Pemohon bukan sekad ar \nkekhawatiran abstrak, melainkan keadaan aktual dalam sistem ant rean haji \nreguler.",
+      "start_line": 90,
+      "end_line": 94
+    },
+    {
+      "heading": "11. Bahwa hak konstitusional Pemohon yang dirugikan adalah: (i) hak atas",
+      "slug": "11-bahwa-hak-konstitusional-pemohon-yang-dirugikan-adalah-i-hak-atas",
+      "text": "kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum \nsebagaimana Pasal 28D ayat (1) UUD NRI 1945; (ii) hak untuk beb as dari \nperlakuan yang bersifat diskriminatif sebagaimana Pasal 28I aya t (2) UUD \nNRI 1945; dan (iii) hak untuk memperoleh jaminan negara dalam b eribadat \nmenurut agamanya sebagaimana Pasal 29 ayat (2) UUD NRI 1945. \n\n 4",
+      "start_line": 96,
+      "end_line": 102
+    },
+    {
+      "heading": "12. Bahwa kerugian Pemohon bersifat spesifik karena Pemohon ber ada dalam",
+      "slug": "12-bahwa-kerugian-pemohon-bersifat-spesifik-karena-pemohon-ber-ada-dalam",
+      "text": "antrean haji reguler. Pasal 64 ayat (2) secara imperatif memisa hkan 8% \n(delapan persen) dari kuota haji Indonesia untuk haji khusus. A kibatnya, \nkapasitas yang setiap tahun tersedia untuk melayani antrean reg uler, \ntermasuk antrean Pemohon, menjadi lebih kecil daripada keseluruhan kuota \nhaji Indonesia.",
+      "start_line": 104,
+      "end_line": 108
+    },
+    {
+      "heading": "13. Bahwa hubungan sebab-akibat tersebut dapat dilihat secara k onkret pada",
+      "slug": "13-bahwa-hubungan-sebab-akibat-tersebut-dapat-dilihat-secara-k-onkret-pada",
+      "text": "penyelenggaraan haji tahun 2025. Dari total 221.000 kuota haji Indonesia, \nsebanyak 203.320 dialokasikan untuk haji reguler dan 17.680 dia lokasikan \nuntuk haji khusus. Dengan demikian, 17.680 tempat yang merupakan 8% dari \nkuota nasional tidak digunakan untuk melayani antrean reguler t empat \nPemohon terdaftar.",
+      "start_line": 110,
+      "end_line": 114
+    },
+    {
+      "heading": "14. Bahwa Pemohon tidak mendalilkan bahwa seluruh masa tunggu 1 7 tahun",
+      "slug": "14-bahwa-pemohon-tidak-mendalilkan-bahwa-seluruh-masa-tunggu-1-7-tahun",
+      "text": "semata-mata disebabkan oleh kuota haji khusus. Pemohon menyadar i \nadanya faktor keterbatasan kuota dari Pemerintah Arab Saudi dan besarnya \njumlah pendaftar. Namun, secara matematis dan normatif, pengura ngan \nkapasitas reguler sebanyak 8% setiap tahun memperkecil kesempat an \nPemohon untuk dilayani berdasarkan urutan porsi. Penambahan 17. 680 \ntempat pada kapasitas reguler 203.320 setara dengan peningkatan kapasitas \npelayanan reguler sekitar 8,70%.",
+      "start_line": 116,
+      "end_line": 122
+    },
+    {
+      "heading": "15. Bahwa untuk membuktikan hubungan kausal dalam kedudukan huk um,",
+      "slug": "15-bahwa-untuk-membuktikan-hubungan-kausal-dalam-kedudukan-huk-um",
+      "text": "Pemohon tidak harus menunjukkan tanggal pasti keberangkatan yan g akan \nmaju apabila permohonan dikabulkan. Data individual seluruh ant rean, \ndistribusi provinsi, pembatalan, prioritas lanjut usia, dan fak tor teknis lain \nberada dalam penguasaan penyelenggara. Yang relevan adalah bahw a \nnorma a quo secara langsung dan berulang mengurangi jumlah tempat yang \ntersedia bagi kelompok antrean Pemohon.",
+      "start_line": 124,
+      "end_line": 129
+    },
+    {
+      "heading": "16. Bahwa apabila permohonan dikabulkan dengan pemaknaan yang mencegah",
+      "slug": "16-bahwa-apabila-permohonan-dikabulkan-dengan-pemaknaan-yang-mencegah",
+      "text": "kuota haji khusus mengurangi kuota haji reguler, kapasitas antr ean reguler \nakan terlindungi dan peluang Pemohon untuk memperoleh pelayanan  \nberdasarkan urutan porsi tidak lagi dikurangi oleh klasifikasi berbasis \nkemampuan membayar. Dengan demikian, terdapat kemungkinan nyata  \nkerugian konstitusional Pemohon tidak lagi terjadi atau setidak -tidaknya \nberkurang. \n\n 5",
+      "start_line": 131,
+      "end_line": 138
+    },
+    {
+      "heading": "17. Bahwa berdasarkan seluruh uraian tersebut, Pemohon memenuhi kualifikasi",
+      "slug": "17-bahwa-berdasarkan-seluruh-uraian-tersebut-pemohon-memenuhi-kualifikasi",
+      "text": "sebagai perorangan warga negara Indonesia serta memenuhi seluruh syarat \nkerugian konstitusional sebagaimana Pasal 51 ayat (1) UU Mahkam ah \nKonstitusi, yurisprudensi Mahkamah Konstitusi, dan Pasal 4 PMK 7/2025. \nOleh karena itu, Pemohon memiliki kedudukan hukum untuk mengaju kan \npermohonan a quo. \nIII. ALASAN-ALASAN PERMOHONAN \nA. Norma yang Diuji dan Isu Konstitusional",
+      "start_line": 140,
+      "end_line": 146
+    },
+    {
+      "heading": "18. bahwa Norma yang dimohonkan pengujian adalah Pasal 64 ayat (2) Undang-",
+      "slug": "18-bahwa-norma-yang-dimohonkan-pengujian-adalah-pasal-64-ayat-2-undang",
+      "text": "Undang Nomor 8 Tahun 2019 sebagaimana telah beberapa kali diuba h \nterakhir dengan Undang-Undang Nomor 14 Tahun 2025 (selanjutnya disebut \nPasal 64 ayat (2) UU Haji), yang berbunyi: “Kuota haji khusus ditetapkan 8% \n(delapan persen) dari kuota haji Indonesia.”",
+      "start_line": 148,
+      "end_line": 151
+    },
+    {
+      "heading": "19. Bahwa Undang-Undang Nomor 14 Tahun 2025 mengubah Pasal 64 Undang-",
+      "slug": "19-bahwa-undang-undang-nomor-14-tahun-2025-mengubah-pasal-64-undang",
+      "text": "Undang Nomor 8 Tahun 2019. Rumusan Pasal 64 ayat (2) yang berlaku saat \nini adalah: “Kuota haji khusus ditetapkan 8% (delapan persen) dari kuota haji \nIndonesia.” Rumusan tersebut tidak lagi memuat kata “sebesar” \nsebagaimana rumusan sebelumnya.",
+      "start_line": 153,
+      "end_line": 156
+    },
+    {
+      "heading": "20. Bahwa Penjelasan Pasal 64 ayat (2) Undang-Undang Nomor 14 Tahun 2025",
+      "slug": "20-bahwa-penjelasan-pasal-64-ayat-2-undang-undang-nomor-14-tahun-2025",
+      "text": "menyatakan bahwa yang dimaksud dengan “kuota haji Indonesia” ad alah \nkuota haji aktual yang dihasilkan dari keputusan Pemerintah Arab Saudi dan \nPemerintah Indonesia. Penjelasan ini memastikan bahwa angka 8% dihitung \ndari kuota nasional aktual, bukan merupakan kuota yang berdiri sendiri di luar \nkuota nasional.",
+      "start_line": 158,
+      "end_line": 162
+    },
+    {
+      "heading": "21. Bahwa secara sistematis, Pasal 64 ayat (1) memberi kewenang an kepada",
+      "slug": "21-bahwa-secara-sistematis-pasal-64-ayat-1-memberi-kewenang-an-kepada",
+      "text": "Menteri untuk menetapkan kuota haji khusus; ayat (2) menetapkan  \nbesarannya 8%; ayat (3) membagi kuota tersebut untuk jemaah haj i khusus \ndan petugas haji khusus; ayat (4) memerintahkan pengisian berda sarkan \nurutan pendaftaran nasional; dan ayat (5) mendelegasikan pengat uran lebih \nlanjut.",
+      "start_line": 164,
+      "end_line": 168
+    },
+    {
+      "heading": "22. Bahwa isu konstitusional dalam permohonan a quo dirumuskan secara",
+      "slug": "22-bahwa-isu-konstitusional-dalam-permohonan-a-quo-dirumuskan-secara",
+      "text": "tunggal dan tegas: apakah pengalokasian secara tetap 8% dari ku ota \nnasional aktual kepada jalur haji khusus, yang secara faktual h anya dapat \ndiakses melalui kemampuan membayar biaya layanan khusus yang le bih \n\n 6\nmahal, merupakan pembedaan yang objektif, rasional, dan proporsional; atau \njustru melanggar hak atas perlakuan yang sama, larangan perlaku an \ndiskriminatif, dan jaminan negara dalam pelaksanaan ibadah haji. \nB. Makna Konstitusional Batu Uji",
+      "start_line": 170,
+      "end_line": 178
+    },
+    {
+      "heading": "23. Bahwa Pemohon menggunakan tiga batu uji yang berkaitan langsung dengan",
+      "slug": "23-bahwa-pemohon-menggunakan-tiga-batu-uji-yang-berkaitan-langsung-dengan",
+      "text": "objek permohonan, yaitu Pasal 28D ayat (1), Pasal 28I ayat (2), dan Pasal 29 \nayat (2) UUD NRI 1945, yang rumusannya sebagai berikut : \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum. (Pasal 28D ayat (1) UUD NRI 1945).  \n“Setiap orang berhak bebas dari perlakuan yang bersifat diskrim inatif \natas dasar apa pun dan berhak mendapatkan perlindungan terhadap  \nperlakuan yang bersifat diskriminatif itu. (Pasal 28I ayat (2) UUD NRI \n1945)” . \n“Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk \nagamanya masing-masing dan untuk beribadat menurut agamanya \ndan kepercayaannya itu. (Pasal 29 ayat (2) UUD NRI 1945)”",
+      "start_line": 180,
+      "end_line": 191
+    },
+    {
+      "heading": "24. Bahwa prinsip perlakuan yang sama tidak meniadakan seluruh kemungkinan",
+      "slug": "24-bahwa-prinsip-perlakuan-yang-sama-tidak-meniadakan-seluruh-kemungkinan",
+      "text": "pembedaan. Pembentuk undang-undang dapat membentuk klasifikasi \napabila terdapat tujuan yang sah, dasar pembedaan yang objektif  d a n  \nrelevan, serta hubungan yang proporsional antara cara yang dipi lih dan \ntujuan yang hendak dicapai. Sebaliknya, pembedaan menjadi \ninkonstitusional ketika warga yang berada dalam keadaan relevan yang sama \ndiperlakukan berbeda tanpa pembenaran objektif yang memadai.",
+      "start_line": 193,
+      "end_line": 198
+    },
+    {
+      "heading": "25. Bahwa jaminan Pasal 29 ayat (2) tidak dapat dimaknai sebaga i hak absolut",
+      "slug": "25-bahwa-jaminan-pasal-29-ayat-2-tidak-dapat-dimaknai-sebaga-i-hak-absolut",
+      "text": "untuk berangkat haji pada waktu yang dikehendaki, sebab kuota b ersifat \nterbatas dan negara berwenang mengaturnya. Namun, ketika pelaks anaan \nibadah haji hanya dapat dilakukan melalui sistem kuota, pendaft aran, dan \npenyelenggaraan yang dikuasai negara, jaminan konstitusional te rsebut \nmewajibkan negara mengatur akses secara adil, transparan, dan t idak \ndiskriminatif. \nC. Kuota Haji Khusus Merupakan Bagian dari Kuota Nasional Aktua l dan \nMengurangi Kapasitas Reguler",
+      "start_line": 200,
+      "end_line": 207
+    },
+    {
+      "heading": "26. Bahwa penggunaan frasa “8% ... dari kuota haji Indonesia” secara gramatikal",
+      "slug": "26-bahwa-penggunaan-frasa-8-dari-kuota-haji-indonesia-secara-gramatikal",
+      "text": "menunjukkan hubungan bagian terhadap keseluruhan. Makna tersebu t \ndipertegas oleh Penjelasan Pasal 64 ayat (2), yaitu kuota aktua l hasil \n\n 7\nkeputusan Pemerintah Arab Saudi dan Pemerintah Indonesia. Karen a \nkeseluruhannya bersifat tetap pada setiap musim haji, pengalokasian bagian \nkepada haji khusus secara langsung mengurangi bagian yang dapat  \ndigunakan bagi haji reguler.",
+      "start_line": 209,
+      "end_line": 216
+    },
+    {
+      "heading": "27. Bahwa praktik pembagian kuota dalam tiga musim haji terakhi r sebelum",
+      "slug": "27-bahwa-praktik-pembagian-kuota-dalam-tiga-musim-haji-terakhi-r-sebelum",
+      "text": "berlakunya perubahan Undang-Undang Nomor 14 Tahun 2025 \nmemperlihatkan akibat konkret sebagai berikut: \nTahun Kuota \nIndonesia \nKuota \nReguler \nKuota \nKhusus Keterangan \n2023 221.000 203.320 17.680 Pembagian kuota pokok; \nkuota khusus = 8% dari total.\n2024 241.000 213.320 27.680 \nKuota pokok 221.000 dibagi \n203.320 reguler dan 17.680 \nkhusus; tambahan 20.000 \nkemudian dibagi 10.000 \nre\nguler dan 10.000 khusus.\n2025 221.000 203.320 17.680 Kuota khusus = 8% dari total \nkuota Indonesia. \nSumber data: Keputusan Menteri Agama Nomor 189 Tahun 2023 dan \npublikasi resmi Kementerian Agama RI tentang kuota haji tahun 2023, 2024, \ndan 2025. Data 2024 mencakup tambahan kuota 20.000 jemaah.",
+      "start_line": 218,
+      "end_line": 239
+    },
+    {
+      "heading": "28. Bahwa data tersebut membuktikan kuota haji khusus bukan kuota tambahan",
+      "slug": "28-bahwa-data-tersebut-membuktikan-kuota-haji-khusus-bukan-kuota-tambahan",
+      "text": "yang berdiri di luar kuota nasional. Pada tahun 2025, misalnya,  \npengalokasian 17.680 tempat untuk haji khusus menyebabkan kuota reguler \nberjumlah 203.320 dari total 221.000. Tanpa pengalokasian bagian tersebut, \nkapasitas yang secara matematis dapat tersedia bagi antrean reg uler \nbertambah 17.680 tempat.",
+      "start_line": 241,
+      "end_line": 245
+    },
+    {
+      "heading": "29. Bahwa akibat norma a quo bukan semata-mata perbedaan fasilitas. Norma a",
+      "slug": "29-bahwa-akibat-norma-a-quo-bukan-semata-mata-perbedaan-fasilitas-norma-a",
+      "text": "quo membentuk dua pintu masuk terhadap sumber daya publik yang sam a \ndan terbatas: antrean reguler dengan kapasitas sekitar 92%, ser ta antrean \nkhusus dengan kapasitas 8%. Pemisahan tersebut menentukan waktu  \nkesempatan untuk menunaikan ibadah haji, bukan sekadar kenyaman an \nsetelah jemaah memperoleh giliran. \nD. Pembedaan Berdasarkan Kemampuan Membayar Tidak Memiliki \nPembenaran Objektif untuk Akses Lebih Cepat atas Kuota Nasional",
+      "start_line": 247,
+      "end_line": 253
+    },
+    {
+      "heading": "30. Bahwa jemaah haji reguler dan jemaah haji khusus berada dal am keadaan",
+      "slug": "30-bahwa-jemaah-haji-reguler-dan-jemaah-haji-khusus-berada-dal-am-keadaan",
+      "text": "yang relevan sama: keduanya warga negara Indonesia beragama Isl am, \n\n 8\nhendak menjalankan ibadah haji yang sama, dan menggunakan kuota  \nnasional yang berasal dari keputusan antar-pemerintah. Perbedaa n paket \nlayanan dan biaya, baru relevan terhadap kualitas pelayanan, bu kan \nterhadap hak memperoleh bagian tersendiri dari kuota publik.",
+      "start_line": 255,
+      "end_line": 261
+    },
+    {
+      "heading": "31. Bahwa akses ke jalur haji khusus pada hakikatnya mensyaratk an",
+      "slug": "31-bahwa-akses-ke-jalur-haji-khusus-pada-hakikatnya-mensyaratk-an",
+      "text": "kemampuan membayar biaya layanan khusus yang lebih tinggi. Kare na itu, \nnorma a quo menjadikan kemampuan ekonomi sebagai pintu untuk masuk \nke antrean yang terpisah dari antrean reguler, dan dalam praktik mempunyai \nmasa tunggu yang lebih singkat.",
+      "start_line": 263,
+      "end_line": 266
+    },
+    {
+      "heading": "32. Bahwa kemampuan ekonomi bukan kriteria yang mempunyai hubun gan",
+      "slug": "32-bahwa-kemampuan-ekonomi-bukan-kriteria-yang-mempunyai-hubun-gan",
+      "text": "rasional dengan kebutuhan untuk didahulukan dalam akses terhada p kuota \nnasional, yang merupakan sumber daya negara. Norma a quo  t i d a k  \nmengutamakan orang yang paling lama menunggu, lanjut usia, peny andang \ndisabilitas, atau orang yang menghadapi hambatan khusus. Keisti mewaan \nakses lahir dari pilihan paket layanan yang hanya dapat dijangk au oleh \nkelompok dengan daya bayar lebih tinggi.",
+      "start_line": 268,
+      "end_line": 273
+    },
+    {
+      "heading": "33. Bahwa negara dapat membenarkan perbedaan kualitas akomodasi ,",
+      "slug": "33-bahwa-negara-dapat-membenarkan-perbedaan-kualitas-akomodasi",
+      "text": "konsumsi, transportasi, atau pembimbingan karena layanan tersebut dibayar \nsecara berbeda. Akan tetapi, perbedaan layanan tidak serta-mert a \nmembenarkan pengurangan kuota reguler untuk menyediakan antrean  \ntersendiri yang lebih cepat. Dengan kata lain, “layanan lebih baik” tidak identik \ndengan “hak lebih dahulu atas kuota publik”.",
+      "start_line": 275,
+      "end_line": 279
+    },
+    {
+      "heading": "34. Bahwa tujuan menyediakan variasi layanan dapat dicapai melalui cara yang",
+      "slug": "34-bahwa-tujuan-menyediakan-variasi-layanan-dapat-dicapai-melalui-cara-yang",
+      "text": "tidak mengurangi kapasitas reguler, antara lain melalui peningkatan layanan \nsecara sukarela bagi jemaah yang telah memperoleh nomor porsi r eguler, \npenggunaan kuota tambahan, atau penyelenggaraan haji nonkuota s esuai \nhukum. Alternatif-alternatif tersebut menunjukkan bahwa pengurangan kuota \nreguler bukan satu-satunya cara.",
+      "start_line": 281,
+      "end_line": 285
+    },
+    {
+      "heading": "35. Bahwa perlu menjadi perhatian, permohonan ini tidak mempert entangkan",
+      "slug": "35-bahwa-perlu-menjadi-perhatian-permohonan-ini-tidak-mempert-entangkan",
+      "text": "martabat jemaah reguler dengan jemaah khusus dan tidak menilai niat ibadah \nsiapa pun. Yang diuji adalah pilihan pembentuk undang-undang da lam \nmembagi sumber daya publik yang terbatas dengan dasar yang pada  \nakibatnya berkorelasi langsung dengan kemampuan membayar. \n\n 9\nE. Pertentangan Norma A quo Pasal 64 ayat (2) UU Haji dengan Masing-\nMasing Batu Uji",
+      "start_line": 287,
+      "end_line": 294
+    },
+    {
+      "heading": "36. Bahwa Pasal 28D ayat (1) menjamin kepastian hukum yang adil d a n",
+      "slug": "36-bahwa-pasal-28d-ayat-1-menjamin-kepastian-hukum-yang-adil-d-a-n",
+      "text": "perlakuan yang sama di hadapan hukum. Dalam konteks kuota haji,  \nkepastian hukum yang adil mensyaratkan aturan distribusi yang \nmenggunakan kriteria objektif dan relevan terhadap tujuan penyelenggaraan.",
+      "start_line": 297,
+      "end_line": 299
+    },
+    {
+      "heading": "37. Bahwa norma a quo memperlakukan dua kelompok yang sama-sama",
+      "slug": "37-bahwa-norma-a-quo-memperlakukan-dua-kelompok-yang-sama-sama",
+      "text": "menggunakan kuota nasional secara berbeda dalam hal kesempatan waktu \nkeberangkatan. Perbedaan tersebut tidak didasarkan pada urutan \npendaftaran yang sama, melainkan pada pemisahan antrean yang sa lah \nsatunya hanya dapat dimasuki dengan biaya layanan khusus. Pembedaan ini \ntidak mempunyai hubungan yang memadai dengan tujuan pemerataan akses \nterhadap ibadah haji.",
+      "start_line": 301,
+      "end_line": 306
+    },
+    {
+      "heading": "38. Bahwa akibatnya, Pemohon yang telah mendaftar sejak 2016 ti dak dinilai",
+      "slug": "38-bahwa-akibatnya-pemohon-yang-telah-mendaftar-sejak-2016-ti-dak-dinilai",
+      "text": "dalam satu sistem urutan dengan seluruh pengguna kuota nasional . \nSebagian kuota lebih dahulu dipisahkan untuk kelompok yang masuk melalui \nskema pembiayaan khusus. Keadaan ini mengurangi fairness d a r i  s i s t e m  \nurutan porsi dan melanggar hak Pemohon atas perlakuan yang sama  serta \nkepastian hukum yang adil.",
+      "start_line": 308,
+      "end_line": 312
+    },
+    {
+      "heading": "39. Bahwa Pasal 28I ayat (2) menjamin setiap orang bebas dari p erlakuan",
+      "slug": "39-bahwa-pasal-28i-ayat-2-menjamin-setiap-orang-bebas-dari-p-erlakuan",
+      "text": "diskriminatif atas dasar apa pun. Diskriminasi tidak hanya dapat muncul dari \nrumusan yang secara eksplisit menyebut status tertentu, tetapi juga dari \nakibat norma yang memberikan keuntungan atau beban berbeda tanp a \njustifikasi objektif dan proporsional.",
+      "start_line": 315,
+      "end_line": 318
+    },
+    {
+      "heading": "40. Bahwa norma a quo secara formal menyebut jenis penyelenggaraan, tetapi",
+      "slug": "40-bahwa-norma-a-quo-secara-formal-menyebut-jenis-penyelenggaraan-tetapi",
+      "text": "akibat faktualnya membedakan akses berdasarkan daya bayar. Kelo mpok \nyang mampu membiayai layanan khusus memperoleh jalur kuota terp isah, \nsedangkan Pemohon dan jemaah reguler lainnya menanggung berkurangnya \nkapasitas antrean umum.",
+      "start_line": 320,
+      "end_line": 323
+    },
+    {
+      "heading": "41. Bahwa pembedaan tersebut tidak bersifat korektif terhadap ketimpangan dan",
+      "slug": "41-bahwa-pembedaan-tersebut-tidak-bersifat-korektif-terhadap-ketimpangan-dan",
+      "text": "tidak diarahkan kepada kelompok yang menghadapi hambatan. Sebal iknya, \nnorma memberi keuntungan struktural kepada kelompok yang telah memiliki \n\n 10\nkemampuan ekonomi lebih besar. Oleh karena itu, akibat diskriminatif norma \na quo tidak memiliki pembenaran konstitusional yang memadai.",
+      "start_line": 325,
+      "end_line": 330
+    },
+    {
+      "heading": "42. Bahwa Pasal 29 ayat (2) mewajibkan negara menjamin penduduk u n t u k",
+      "slug": "42-bahwa-pasal-29-ayat-2-mewajibkan-negara-menjamin-penduduk-u-n-t-u-k",
+      "text": "beribadat menurut agamanya. Dalam penyelenggaraan haji, negara tidak \nhanya berperan sebagai regulator, tetapi mengelola pendaftaran,  urutan \nporsi, pembagian kuota, pembia yaan, pelayanan, dan hubungan den gan \nPemerintah Arab Saudi. Karena itu, cara negara mendistribusikan  k u o t a  \nmerupakan bagian dari pemenuhan jaminan konstitusional tersebut.",
+      "start_line": 333,
+      "end_line": 337
+    },
+    {
+      "heading": "43. Bahwa keterbatasan kuota membenarkan adanya antrean, tetapi t i d a k",
+      "slug": "43-bahwa-keterbatasan-kuota-membenarkan-adanya-antrean-tetapi-t-i-d-a-k",
+      "text": "membenarkan antrean publik dipecah berdasarkan kemampuan membay ar \ntanpa alasan yang terkait dengan kebutuhan ibadah. Jaminan beri badah \ntidak menjanjikan keberangkatan seketika, namun menjamin agar n egara \ntidak menciptakan hambatan atau prioritas yang diskriminatif da lam sistem \nyang dikuasainya.",
+      "start_line": 339,
+      "end_line": 343
+    },
+    {
+      "heading": "44. Bahwa dengan mengambil 8% dari kuota nasional aktual untuk jalur khusus,",
+      "slug": "44-bahwa-dengan-mengambil-8-dari-kuota-nasional-aktual-untuk-jalur-khusus",
+      "text": "norma a quo mengurangi kesempatan jemaah reguler termasuk Pemohon \nuntuk menjalankan ibadah haji berdasarkan urutan pendaftaran. Oleh karena \nitu, negara belum menjalankan jaminan Pasal 29 ayat (2) secara setara dan \nadil.  \nF. Norma A quo Tidak Memenuhi Prinsip Proporsionalitas",
+      "start_line": 345,
+      "end_line": 349
+    },
+    {
+      "heading": "45. Bahwa sekalipun tujuan menyediakan variasi pelayanan haji dapat dianggap",
+      "slug": "45-bahwa-sekalipun-tujuan-menyediakan-variasi-pelayanan-haji-dapat-dianggap",
+      "text": "sebagai tujuan yang sah, cara berupa pemisahan 8% kuota nasiona l harus \ntetap dinilai dari segi kesesuaian, kebutuhan, dan keseimbangan  m a n f a a t  \nserta kerugiannya.",
+      "start_line": 351,
+      "end_line": 353
+    },
+    {
+      "heading": "46. Bahwa dari segi kesesuaian, pemisahan kuota tidak menambah jumlah",
+      "slug": "46-bahwa-dari-segi-kesesuaian-pemisahan-kuota-tidak-menambah-jumlah",
+      "text": "keseluruhan jemaah yang dapat berangkat. Norma hanya memindahka n \nsebagian kapasitas dari antrean reguler ke antrean khusus. Oleh  karena itu, \nnorma tidak menyelesaikan keterbatasan kuota, melainkan mendistribusikan \nkelangkaan secara berbeda.",
+      "start_line": 355,
+      "end_line": 358
+    },
+    {
+      "heading": "47. Bahwa dari segi kebutuhan, variasi layanan dapat diberikan setelah jemaah",
+      "slug": "47-bahwa-dari-segi-kebutuhan-variasi-layanan-dapat-diberikan-setelah-jemaah",
+      "text": "memperoleh giliran berdasarkan satu sistem antrean, atau dapat \nmenggunakan kuota tambahan dan skema nonkuota. Karena tersedia cara \nlain yang tidak mengurangi kapasitas reguler. \n\n 11",
+      "start_line": 360,
+      "end_line": 364
+    },
+    {
+      "heading": "48. Bahwa dari segi keseimbangan, manfaat berupa layanan khusus b a g i",
+      "slug": "48-bahwa-dari-segi-keseimbangan-manfaat-berupa-layanan-khusus-b-a-g-i",
+      "text": "sebagian kecil jemaah harus dibandingkan dengan beban yang dita nggung \nseluruh antrean reguler berupa berkurangnya kapasitas tahunan. Beban \ntersebut berulang setiap musim haji dan dialami oleh jutaan pen daftar, \nsedangkan keuntungan utamanya adalah percepatan akses bagi kelo mpok \nyang mampu membayar lebih tinggi.",
+      "start_line": 366,
+      "end_line": 370
+    },
+    {
+      "heading": "49. Bahwa dengan demikian, pembedaan yang dibentuk Pasal 64 aya t (2) UU",
+      "slug": "49-bahwa-dengan-demikian-pembedaan-yang-dibentuk-pasal-64-aya-t-2-uu",
+      "text": "haji – objek permohonan, tidak proporsional dan telah melampaui  ruang \nkebijakan hukum pembentuk undang-undang. Kebijakan hukum terbuka tidak \ndapat digunakan untuk membenarkan pembedaan yang melanggar hak \nkonstitusional. \nG. Bentuk Putusan yang Dimohonkan Untuk Menghindari Kekosongan dan \nKetidakpastian Hukum Baru",
+      "start_line": 372,
+      "end_line": 377
+    },
+    {
+      "heading": "50. Bahwa Pemohon menyadari Putusan Mahkamah yang menyatakan ob jek",
+      "slug": "50-bahwa-pemohon-menyadari-putusan-mahkamah-yang-menyatakan-ob-jek",
+      "text": "permohonan a quo  Pasal 64 ayat (2) UU Haji bertentangan dengan UUD \n1945 dan tidak memiliki kekuatan hukum mengikat berpotensi meni mbulkan \npersoalan kekosongan atau ketidakpastian hukum baru, karena Pas al 64 \nayat (1) tetap memberi kewenangan kepada Menteri menetapkan kuo ta haji \nkhusus tanpa batas angka, sedangkan ayat (3) secara langsung me rujuk \nkepada ayat (2). Putusan tersebut juga dapat menimbulkan risiko  besaran \nkuota khusus ditetapkan lebih dari 8% serta membuat rujukan nor ma lain \nkehilangan pijakan, termasuk berbagai rumusan pasal yang tercan tum frase \n“kuota haji khusus”.",
+      "start_line": 379,
+      "end_line": 387
+    },
+    {
+      "heading": "51. Bahwa untuk menghindari risiko tersebut, Pemohon memperbaik i petitum",
+      "slug": "51-bahwa-untuk-menghindari-risiko-tersebut-pemohon-memperbaik-i-petitum",
+      "text": "dari semula hanya untuk Pasal 64 ayat (2) UU haji, menjadi bert ambah \ntermasuk semua frase “kuota haji khusus” pada UU haji, seperti tercantum \npada Pasal 8 ayat (3), Pasal 64 ayat (1), ayat (3), ayat (4), Pasal 65 ayat (1), \nayat (2), ayat (3) dan ayat (4), Pasal 66, dan Pasal 73 ayat (6).",
+      "start_line": 389,
+      "end_line": 392
+    },
+    {
+      "heading": "52. Bahwa perubahan petitum tersebut masih sejalan dengan keten tuan Pasal",
+      "slug": "52-bahwa-perubahan-petitum-tersebut-masih-sejalan-dengan-keten-tuan-pasal",
+      "text": "38 PMK No. 7/2025, yang merumuskan : (1) Perbaikan permohonan d apat \ndilakukan terhadap hal-hal sebagaimana dimaksud dalam pasal 36 ayat (1) \nberdasarkan nasihat atau saran dalam Pemeriksaan Pendahuluan (2) Dalam \nhal perbaikan Permohonan sebagaimana dimaksud pada ayat (1) berkenaan \ndengan penambahan norma yang dimohonkan pengujian, dapat dilaku kan \n\n 12\nsepanjang berkaitan dengan substansi norma dalam undang-undang atau \nPerpu yang dimohonkan pengujian dalam permohonan awal.",
+      "start_line": 394,
+      "end_line": 402
+    },
+    {
+      "heading": "53. Bahwa Pemohon memastikan perubahan tersebut berdasarkan nas ihat",
+      "slug": "53-bahwa-pemohon-memastikan-perubahan-tersebut-berdasarkan-nas-ihat",
+      "text": "Majelis Hakim dalam Sidang Pendahuluan I, dan penambahan norma yang \ndimohonkan sangat berkaitan dengan substansi norma dalam permoh onan \nawal yakni “Kuota Haji Khusus” pada Pasal 64 ayat (2) UU Haji, sebagaimana \ndisyaratkan dalam Pasal 38 PMK No. 7/2025 tersebut, serta untuk  \nmenghindari kekosongan norma atau ketidakpastian hukum baru apa bila \nobjek permohonan Pasal 64 ayat (2) UU haji dikabulkan oleh Mahkamah. \nIV. PETITUM \nBerdasarkan seluruh uraian tersebut, Pemohon memohon kepada Mah kamah \nKonstitusi untuk memeriksa, mengadili, dan menjatuhkan putusan sebagai \nberikut:",
+      "start_line": 404,
+      "end_line": 413
+    },
+    {
+      "heading": "2. Menyatakan Pasal 64 ayat (2) Undang-Undang Nomor 8 Tahun 2019 tentang",
+      "slug": "2-menyatakan-pasal-64-ayat-2-undang-undang-nomor-8-tahun-2019-tentang",
+      "text": "Penyelenggaraan Ibadah Haji dan Umrah (Lembaran Negara Republik  \nIndonesia Tahun 2019 Nomor 75, Tambahan Lembaran Negara Republi k \nIndonesia Nomor 6338) sebagaimana telah beberapa kali diubah, t erakhir \ndengan Undang-Undang Nomor 14 Tahun 2025 tentang Perubahan Keti ga \natas Undang-Undang Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah \nHaji dan Umrah (Lembaran Negara Republik Indonesia Tahun 2025 N omor \n139, Tambahan Lembaran Negara Republik Indonesia Nomor 7132), \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat.",
+      "start_line": 416,
+      "end_line": 424
+    },
+    {
+      "heading": "3. Menyatakan Frase “kuota haji khusus” pada Pasal 8 ayat (3), Pasal 64 ayat",
+      "slug": "3-menyatakan-frase-kuota-haji-khusus-pada-pasal-8-ayat-3-pasal-64-ayat",
+      "text": "(1), ayat (3), ayat (4), Pasal 65 ayat (1), ayat (2), ayat (3) dan ayat (4), Pasal \n66, dan Pasal 73 ayat (6) Undang-Undang Nomor 8 Tahun 2019 tent ang \nPenyelenggaraan Ibadah Haji dan Umrah (Lembaran Negara Republik  \nIndonesia Tahun 2019 Nomor 75, Tambahan Lembaran Negara Republi k \nIndonesia Nomor 6338) sebagaimana telah beberapa kali diubah, t erakhir \ndengan Undang-Undang Nomor 14 Tahun 2025 tentang Perubahan Keti ga \natas Undang-Undang Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah \nHaji dan Umrah (Lembaran Negara Republik Indonesia Tahun 2025 N omor \n139, Tambahan Lembaran Negara Republik Indonesia Nomor 7132), \n\n 13\nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat.",
+      "start_line": 426,
+      "end_line": 438
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila Mahkamah Konstitusi berpendapat lain, mohon putusan yan g seadil-\nadilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, Pemohon tela h \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 2 0 ,  \nsebagai berikut:",
+      "start_line": 440,
+      "end_line": 445
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Kartu Tanda Penduduk atas nama Hermawan to,",
+      "slug": "1-bukti-p-1-fotokopi-kartu-tanda-penduduk-atas-nama-hermawan-to",
+      "text": "NIK 3671012106780011;",
+      "start_line": 447,
+      "end_line": 447
+    },
+    {
+      "heading": "2. Bukti P-2 : Printout Surat Pendaftaran Pergi Haji (SPPH) atas nama",
+      "slug": "2-bukti-p-2-printout-surat-pendaftaran-pergi-haji-spph-atas-nama",
+      "text": "Hermawanto yang diterbitkan oleh Kantor Kementerian \nAgama Kota Tangerang pada tanggal 29 September 2016, \ndengan Nomor Porsi 2800233551;",
+      "start_line": 449,
+      "end_line": 451
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Advokat Ikatan Advokat Indonesia (IKADIN)",
+      "slug": "3-bukti-p-3-fotokopi-kartu-advokat-ikatan-advokat-indonesia-ikadin",
+      "text": "atas nama Dr. Hermawanto, S.H., M.H., dengan NIA \n4498.11.07.07;",
+      "start_line": 453,
+      "end_line": 454
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Berita Acara Pengambilan Sumpah Advokat a t a s",
+      "slug": "4-bukti-p-4-fotokopi-berita-acara-pengambilan-sumpah-advokat-a-t-a-s",
+      "text": "nama Hermawanto, S.H., pada Pengadilan Tinggi Jakarta \ntanggal 7 Agustus 2007;",
+      "start_line": 456,
+      "end_line": 457
+    },
+    {
+      "heading": "5. Bukti P-5 : Printout artikel pada laman resmi Badan Pengelola",
+      "slug": "5-bukti-p-5-printout-artikel-pada-laman-resmi-badan-pengelola",
+      "text": "Keuangan Haji (BPKH) berjudul “5 Perbedaan Haji Furoda \ndan Haji Plus yang Perlu Dipahami”;",
+      "start_line": 459,
+      "end_line": 460
+    },
+    {
+      "heading": "6. Bukti P-6 : Printout artikel DetikHikmah berjudul “Ketua Asosiasi",
+      "slug": "6-bukti-p-6-printout-artikel-detikhikmah-berjudul-ketua-asosiasi",
+      "text": "Pertanyakan Kenapa Haji Khusus Dibatasi Maksimal yang \nLain Tidak?”;",
+      "start_line": 462,
+      "end_line": 463
+    },
+    {
+      "heading": "7. Bukti P-7 : Printout artikel NU Online berjudul “Komnas Haji Desak",
+      "slug": "7-bukti-p-7-printout-artikel-nu-online-berjudul-komnas-haji-desak",
+      "text": "Penghapusan Ibadah Haji Khusus”;",
+      "start_line": 465,
+      "end_line": 465
+    },
+    {
+      "heading": "8. Bukti P-8 : Printout brosur promosi program Haji Khusus dari AlBahjah",
+      "slug": "8-bukti-p-8-printout-brosur-promosi-program-haji-khusus-dari-albahjah",
+      "text": "Tour & Travel;",
+      "start_line": 467,
+      "end_line": 467
+    },
+    {
+      "heading": "9. Bukti P-9 : Printout brosur promosi program Haji Khusus Tahun 2026",
+      "slug": "9-bukti-p-9-printout-brosur-promosi-program-haji-khusus-tahun-2026",
+      "text": "dari PT Asia Utama Wisata;",
+      "start_line": 469,
+      "end_line": 469
+    },
+    {
+      "heading": "10. Bukti P-10 : Printout brosur promosi program Haji Tahun 2026 dengan",
+      "slug": "10-bukti-p-10-printout-brosur-promosi-program-haji-tahun-2026-dengan",
+      "text": "Visa Mujamalah/Furoda;",
+      "start_line": 471,
+      "end_line": 471
+    },
+    {
+      "heading": "11. Bukti P-11 : Printout artikel pada laman resmi Kementerian Agama",
+      "slug": "11-bukti-p-11-printout-artikel-pada-laman-resmi-kementerian-agama",
+      "text": "Republik Indonesia berjudul “Menag Minta Siapkan Layanan \nPrima untuk Jemaah Haji Sejak di Embarkasi”;",
+      "start_line": 473,
+      "end_line": 474
+    },
+    {
+      "heading": "12. Bukti P-12 : Printout artikel Detik Hikmah berjudul “3 Kisah Perjuangan",
+      "slug": "12-bukti-p-12-printout-artikel-detik-hikmah-berjudul-3-kisah-perjuangan",
+      "text": "Jemaah Haji, Nabung Puluhan Tahun demi ke Tanah Suci”; \n\n 14",
+      "start_line": 476,
+      "end_line": 478
+    },
+    {
+      "heading": "13. Bukti P-13 : Printout artikel Tempo berjudul “Cerita Tukang Sampah",
+      "slug": "13-bukti-p-13-printout-artikel-tempo-berjudul-cerita-tukang-sampah",
+      "text": "Berangkat Haji dari Nabung Seribu Sehari”;",
+      "start_line": 480,
+      "end_line": 480
+    },
+    {
+      "heading": "14. Bukti P-14 : Printout artikel NU Online berjudul “Kisah Jamaah Berangkat",
+      "slug": "14-bukti-p-14-printout-artikel-nu-online-berjudul-kisah-jamaah-berangkat",
+      "text": "Haji di Usia Senja: Menabung Sejak 2001, Menunggu \nAntrean 12 Tahun”;",
+      "start_line": 482,
+      "end_line": 483
+    },
+    {
+      "heading": "15. Bukti P-15 : Printout Salinan Undang-Undang Dasar Negara Republik",
+      "slug": "15-bukti-p-15-printout-salinan-undang-undang-dasar-negara-republik",
+      "text": "Indonesia Tahun 1945;",
+      "start_line": 485,
+      "end_line": 485
+    },
+    {
+      "heading": "16. Bukti P-16 : Printout Salinan Keputusan Presiden Republik Indonesia",
+      "slug": "16-bukti-p-16-printout-salinan-keputusan-presiden-republik-indonesia",
+      "text": "Nomor 34 Tahun 2025 tentang Biaya Penyelenggaraan \nIbadah Haji Tahun 1447 Hijriah/2026 Masehi yang \nBersumber dari Biaya Perjalanan Ibadah Haji dan Nilai \nManfaat;",
+      "start_line": 487,
+      "end_line": 490
+    },
+    {
+      "heading": "17. Bukti P-17 : Printout Salinan Undang-Undang Nomor 8 Tahun 2019",
+      "slug": "17-bukti-p-17-printout-salinan-undang-undang-nomor-8-tahun-2019",
+      "text": "tentang Penyelenggaraan Ibadah Haji dan Umrah;",
+      "start_line": 492,
+      "end_line": 492
+    },
+    {
+      "heading": "18. Bukti P-18 : Printout laman Data dan Informasi Kementerian Haji dan",
+      "slug": "18-bukti-p-18-printout-laman-data-dan-informasi-kementerian-haji-dan",
+      "text": "Umrah Republik Indonesia mengenai pelunasan jemaah haji \nreguler dan haji khusus Tahun 1447 H/2026 М;",
+      "start_line": 494,
+      "end_line": 495
+    },
+    {
+      "heading": "19. Bukti P-19 : Printout hasil estimasi keberangkatan haji atas nama",
+      "slug": "19-bukti-p-19-printout-hasil-estimasi-keberangkatan-haji-atas-nama",
+      "text": "Hermawanto dengan Nomor Porsi 2800233551 pada laman \nData dan Informasi Kementerian Haji dan Umrah Republik \nIndonesia;",
+      "start_line": 497,
+      "end_line": 499
+    },
+    {
+      "heading": "20. Bukti P-20 : Fotokopi Undang-Undang Republik Indonesia Nomo r 14",
+      "slug": "20-bukti-p-20-fotokopi-undang-undang-republik-indonesia-nomo-r-14",
+      "text": "Tahun 2025 tentang Perubahan Ketiga Atas Undang-\nUndang Nomor 8 Tahun 2019 tentang Penyelenggaraan \nIbadah Haji dan Umrah. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 501,
+      "end_line": 506
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n\n 15\n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia \nNomor 5076), Mahkamah berwenang, antara lain, mengadili pada ti ngkat pertama \ndan terakhir yang putusannya bersifat final untuk menguji undang-undang terhadap \nUUD NRI Tahun 1945.  \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu frasa “kuota haji khusus” dalam norma \nPasal 66 Undang-Undang Nomor 8 Tahun 2019 tentang Penyelenggara an Ibadah \nHaji dan Umrah [(Lembaran Negara Republik Indonesia Tahun 2019 Nomor 75, \nTambahan Lembaran Negara Republik Indonesia Nomor 6338) sebagaimana telah \ndiubah terakhir dengan Undang-Undang Nomor 14 Tahun 2025 tentang Perubahan \nKetiga Atas Undang-Undang Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah \nHaji dan Umrah (Lembaran Negara Republik Indonesia Tahun 2025 N omor 139, \nTambahan Lembaran Negara Republik Indonesia Nomor 7132, selanjutnya disebut \nUU PIHU)] dan norma Pasal 64 ayat (2) serta frasa “kuota haji khusus” dalam norma \nPasal 8 ayat (3), Pasal 64 ayat (1), ayat (3), ayat (4), Pasal 65 ayat (1), ayat (2), ayat \n(3) dan ayat (4), dan Pasal 73 ayat (6) Undang-Undang Nomor 14 Tahun 2025 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 8 Tahun 2019 tentang \nPenyelenggaraan Ibadah Haji dan Umrah (Lembaran Negara Republik  Indonesia \nTahun 2025 Nomor 139, Tambahan Lembaran Negara Republik Indones ia Nomor \n7132, selanjutnya disebut UU PIHU) terhadap UUD NRI Tahun 1945 maka \nMahkamah berwenang mengadili permohonan a quo.  \n[3.3]  Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan Pemohon, namun demikian sebelum mempertimbangkan leb ih lanjut \npermohonan Pemohon, Mahkamah mempertimbangkan hal-hal sebagai berikut.  \n[3.3.1]  Bahwa Mahkamah telah memeriksa permohonan a quo  dalam sidang \npemeriksaan pendahuluan dengan agenda mendengarkan pokok permoh onan \nPemohon pada tanggal 20 Juli 2026. Berdasarkan ketentuan Pasal 39 UU MK dan \nPasal 36 ayat (3) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 tentang Tata \nBeracara Dalam Perkara Pengujian Undang-Undang (disebut PMK 7/2 025), \nMahkamah memberikan nasihat kepada Pemohon untuk memperbaiki se kaligus \n\n 16\nmemperjelas objek permohonan, sistematika permohonan, substansi  kedudukan \nhukum, alasan-alasan permohonan (posita) khusus pertentangan an tara norma \nyang dimohonkan pengujian dengan dasar pengujian dalam UUD NRI Tahun 1945, \ndan hal-hal yang dimohonkan untuk diputus (petitum) agar sesuai  dengan PMK \n7/2025 [vide Risalah Sidang, tanggal 20 Juli 2026, hlm. 6-13]. Terhadap nasihat \nMahkamah, Pemohon diberikan kesempatan memperbaiki permohonan paling lama \n14 (empat belas) hari, yaitu hingga paling lama tanggal 3 Agustus 2026, pukul 12.00 \nWIB. Berkenaan dengan batas waktu dimaksud, Pemohon telah menya mpaikan \nperbaikan permohonan yang diterima Mahkamah pada tanggal 3 Agustus 2026 dan \npada hari yang sama Mahkamah menyelenggarakan sidang pendahulua n dengan \nagenda mendengarkan pokok-pokok perbaikan permohonan dan penges ahan alat \nbukti. \n[3.3.2]  Bahwa perihal uraian sebagaimana dikemukakan pada Sub-paragra f \n[3.3.1] di atas, Mahkamah menilai syarat formil suatu permohonan terut ama \nberkaitan dengan uraian yang jelas ihwal pengujian undang-undang terhadap UUD \nNRI Tahun 1945, berdasarkan Pasal 31 ayat (1) UU MK serta Pasal 10 ayat (3) dan \nPasal 36 ayat (1) PMK 7/2025 sebagai berikut: \nPasal 31 ayat (1) UU MK \n(1) Permohonan sekurang-kurangnya harus memuat:  \na. nama dan alamat pemohon;  \nb. uraian mengenai perihal yang menjadi dasar permohonan sebaga imana \ndimaksud dalam Pasal 30; dan",
+      "start_line": 508,
+      "end_line": 573
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025  \nPermohonan sebagaimana dimaksud pada ayat (1), sekurang-kurangn ya \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antara lain:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 575,
+      "end_line": 579
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025  \nDalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam Pasal 35 ayat \n(1) huruf a, Mahkamah memeriksa identitas Pemohon dengan kelengkapan dan \nkejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 582,
+      "end_line": 587
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Bahwa berdasarkan ketentuan persyaratan formil tersebut di atas , pada \ndasarnya permohonan Pemohon telah disusun dengan sistematika at au format \n\n 17\npermohonan. Dalam hal ini, permohonan Pemohon a quo telah menguraikan perihal \nkewenangan Mahkamah, kedudukan hukum Pemohon, alasan-alasan permohonan \n(posita), dan hal-hal yang dimohonkan untuk diputus (petitum). \n[3.3.3]  Bahwa meskipun secara formil permohonan Pemohon telah disusun  \nsesuai dengan format atau sistematika permohonan sebagaimana di atur dalam \nketentuan dimaksud di atas, namun Mahkamah juga akan menilai ke terpenuhan \npersyaratan formil dari aspek ketepatan dan kejelasan uraian materi atau substansi \ndari masing-masing bagian pada sistematika maupun dari aspek kesesuaian antara \nposita dan petitum. Artinya, sekalipun permohonan Pemohon telah  disusun dan \nmemuat sistematika atau format permohonan secara benar, penilaian keterpenuhan \nsyarat formil suatu permohonan tidak hanya sampai pada sistemat ika an sich , \nnamun Mahkamah juga akan menilai keterpenuhan kejelasan dan ket epatan \nisi/substansi dari setiap bagian dalam sistematika serta kesesu aian antara posita \ndan petitum permohonan. Penilaian tersebut didasarkan pada kete ntuan Pasal 51 \nayat (3) huruf b UU MK dan Pasal 68 PMK 7/2025 sebagai berikut: \nPasal 51 ayat (3) huruf b UU MK  \nDalam permohonan sebagaimana dimaksud pada ayat (2), pemohon wa jib \nmenguraikan dengan jelas bahwa:  \nb. materi muatan dalam ayat, pasal, dan/atau bagian undang-unda ng dianggap \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945. \nPasal 68 PMK 7/2025  \nMahkamah dapat menyatakan Permohonan tidak jelas atau kabur ant ara lain \nkarena: \na. adanya ketidaksesuaian antara dalil Permohonan dalam posita dengan \npetitum;  \nb. dalil tidak terdapat dalam posita tetapi terdapat dalam peti tum atau \nsebaliknya;",
+      "start_line": 590,
+      "end_line": 621
+    },
+    {
+      "heading": "c. adanya permintaan Pemohon dalam petitum yang saling bertentangan antara",
+      "slug": "c-adanya-permintaan-pemohon-dalam-petitum-yang-saling-bertentangan-antara",
+      "text": "satu dengan yang lainnya dan tidak memberikan pilihan alternatif.  \n[3.3.4]  Bahwa berdasarkan ketentuan sebagaimana telah dikemukakan pad a \nSub-paragraf [3.3.2] dan Sub-paragraf [3.3.3] tersebut di atas, setelah Mahkamah \nmencermati dengan saksama ihwal permohonan a quo, Mahkamah mendapatkan \nfakta hukum sebagai berikut. \nBahwa pada bagian uraian alasan-alasan permohonan (posita), ter lepas \nada atau tidaknya persoalan konstitusionalitas norma yang dimoh onkan pengujian, \ntelah ternyata Pemohon tidak menguraikan secara memadai pertent angan setiap \nnorma pasal dalam UU PIHU yang dimohonkan pengujian dalam setiap norma pasal \n\n 18\nyang digunakan sebagai dasar pengujian dalam UUD NRI Tahun 1945 . Dalam \npermohonan a quo, meskipun telah mencantumkan dasar pengujian dalam UUD \nNRI Tahun 1945, secara faktual Pemohon tidak menguraikan argume ntasi hukum \nyang jelas dan memadai perihal pertentangan antara norma yang d imohonkan \npengujian dengan pasal yang dijadikan dasar pengujian, in casu  u r a i a n  \npertentangan antara norma Pasal 64 ayat (2) UU PIHU dengan dasa r pengujian \nyaitu Pasal 28D ayat (1), Pasal 28I ayat (2), dan Pasal 29 ayat  (2) UUD NRI Tahun",
+      "start_line": 623,
+      "end_line": 640
+    },
+    {
+      "heading": "1945. Ketiadaan uraian tersebut menyebabkan Mahkamah tidak dapa t menilai",
+      "slug": "1945-ketiadaan-uraian-tersebut-menyebabkan-mahkamah-tidak-dapa-t-menilai",
+      "text": "pertentangan antara norma yang dimohonkan pengujian dengan UUD NRI Tahun",
+      "start_line": 642,
+      "end_line": 642
+    },
+    {
+      "heading": "1945. Berkenaan dengan ini, Mahkamah perlu menegaskan, uraian yang memadai",
+      "slug": "1945-berkenaan-dengan-ini-mahkamah-perlu-menegaskan-uraian-yang-memadai",
+      "text": "ihwal pertentangan antara norma yang dimohonkan pengujian denga n dasar \npengujian dalam UUD NRI Tahun 1945 merupakan hal esensial dalam menilai ada-\ntidaknya pertentangan antara norma yang dimohonkan pengujian de ngan dasar \npengujian dalam UUD NRI Tahun 1945. \nSelanjutnya, pada uraian alasan-alasan permohonan ihwal penguji an \nfrasa “kuota haji khusus” dalam norma Pasal 8 ayat (3), Pasal 6 4 ayat (1), ayat (3), \nayat (4), Pasal 65 ayat (1), ayat (2), ayat (3) dan ayat (4), P asal 66, serta Pasal 73 \nayat (6) UU PIHU, Mahkamah tidak menemukan uraian pertentangan norma-norma \na quo  dengan dasar pengujian dalam UUD NRI Tahun 1945. Dalam hal ini , \npermohonan a quo  hanya menguraikan bahwa dalam persidangan pendahuluan \nMahkamah memberikan nasihat untuk memperbaiki permohonan agar t erdapat \nkeselarasan dengan ketentuan-ketentuan lain yang berkaitan dengan Pasal 64 ayat \n(2) UU PIHU. Terlebih, Pemohon tidak memberikan argumentasi yan g memadai \nmengapa frasa “kuota haji khusus” dalam norma pasal-pasal a quo harus dinyatakan \nbertentangan dengan UUD NRI Tahun 1945 sehingga harus dinyataka n pula tidak \nmempunyai kekuatan hukum mengikat sebagaimana dimohonkan dalam Petitum \nAngka 3. Terlebih lagi, apabila dibaca secara keseluruhan UU PI HU, frasa “kuota \nhaji khusus” berkaitan dengan frasa “haji khusus” yang tidak ha nya terdapat dalam \nnorma Pasal 8 ayat (3), Pasal 64 ayat (1), ayat (3), ayat (4), Pasal 65 ayat (1), ayat \n(2), ayat (3) dan ayat (4), Pasal 66, serta Pasal 73 ayat (6). Oleh karena itu, adanya \nketidaksesuaian antara dalil permohonan pada bagian posita deng an hal-hal yang \ndimohonkan dalam petitum, telah menimbulkan ketidakjelasan meng enai hal yang \nsebenarnya diinginkan atau dimohonkan oleh Pemohon.  \n\n 19\nBahwa berdasarkan uraian fakta hukum tersebut di atas, oleh kar ena \nPemohon tidak menguraikan dengan jelas pertentangan antara norm a yang \ndimohonkan pengujian konstitusionalitas dengan dasar pengujian dalam UUD NRI \nTahun 1945, serta adanya pertentangan antara uraian dalam posit a dan petitum, \nmaka berdasarkan ketentuan Pasal 51 ayat (3) huruf b UU MK dan Pasal 68 PMK \n7/2025, tidak terdapat keraguan bagi Mahkamah untuk menyatakan permohonan \nPemohon adalah tidak jelas atau kabur (obscuur). \n[3.4]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum  \ntersebut di atas, meskipun Mahkamah berwenang mengadili permoho nan \nPemohon, namun oleh karena permohonan Pemohon tidak jelas atau kabur \n(obscuur) maka Mahkamah tidak mempertimbangkan lebih lanjut permohonan \nPemohon. \n[3.5]  Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 644,
+      "end_line": 682
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 684,
+      "end_line": 684
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo;  \n[4.2]  Permohonan Pemohon tidak jelas atau kabur ( obscuur);  \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076); \n\n 20",
+      "start_line": 686,
+      "end_line": 699
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nAdies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Y usmic P. Foekh,  \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota pada hari Selasa, tanggal empat, bulan Agustus, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka \nuntuk umum pada hari Rabu, tanggal dua belas, bulan Agustus, tahun dua ribu \ndua puluh enam, selesai diucapkan pukul  1 4 . 2 8  W I B oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Adies Kadir, \nLiliek Prisbawono Adi, Enny Nurbaningsih, Daniel Yusmic P . Foek h, M. Guntur \nHamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing sebagai A nggota, \ndengan dibantu oleh Nurlidya Stephanny Hikmah sebagai Panitera Pengganti, serta \ndihadiri oleh Pemohon dan/atau kuasanya, Dewan Perwakilan Rakya t atau yang \nmewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nAdies Kadir  \nttd. \nLiliek Prisbawono Adi \nttd. \nEnny Nurbaningsih \nttd. \nDaniel Yusmic P. Foekh \nttd. \nM. Guntur Hamzah \n\n 21\nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nNurlidya Stephanny Hikmah",
+      "start_line": 701,
+      "end_line": 742
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Hermawanto",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 8/2019 tentang Penyelenggaraan Ibadah Haji dan Umrah"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 28I",
+      "Pasal 29 ayat (2)",
+      "Pasal 28I ayat (2)",
+      "Pasal 64 ayat (2)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 31 ayat (1)",
+      "PASAL 28D AYAT (1)",
+      "PASAL 28I AYAT (2)",
+      "PASAL 29 AYAT (2)"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)",
+      "Pasal 36 ayat (3)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "BUKTI P-13",
+      "BUKTI P-14",
+      "BUKTI P-15",
+      "BUKTI P-16",
+      "BUKTI P-17",
+      "BUKTI P-18",
+      "BUKTI P-19",
+      "BUKTI P-20",
+      "REFERENSI:264/PUU-XXIV/2026",
+      "REFERENSI:263/PUU/PAN.MK/AP3/07/2026",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Nurlidya Stephanny Hikmah"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "264/PUU-XXIV/2026",
+      "263/PUU/PAN.MK/AP3/07/2026",
+      "11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "264/PUU-XXIV/2026",
+      "263/PUU/PAN.MK/AP3/07/2026",
+      "11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanNomor11/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

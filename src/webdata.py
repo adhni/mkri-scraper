@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Any
 from .library import Library, apply_corrections
 from .normalizers import normalize_case_number
+from .search import matches_case_number, normalize_search_text, search_query
 
 SOURCE_PRIORITY = ["review_queue", "validated_json", "parsed_json"]
 OUTCOME_LABELS = {
@@ -153,6 +154,7 @@ def summarize_case(record: CaseRecord) -> dict[str, Any]:
     fields["featured_rank"] = payload.get('insights', {}).get('featured_rank')
     fields["impact"] = payload.get('insights', {}).get('impact')
     fields["_search_text"] = " ".join(text.casefold().split())
+    fields["_normalized_search_text"] = normalize_search_text(text)
     return fields
 
 
@@ -165,7 +167,7 @@ def filter_case_summaries(
     source: str = "", review_flag: str = "", review_only: bool = False,
     topic: str = "", year: str = "", outcome: str = "",
 ) -> list[dict[str, Any]]:
-    terms = query.casefold().split()
+    reference, terms = search_query(query)
     out = []
     for item in summaries:
         if any(value and item.get(key) != value for key, value in [
@@ -178,7 +180,11 @@ def filter_case_summaries(
             continue
         if review_only and not item.get("needs_manual_review"):
             continue
-        haystack = item.get("_search_text") or " ".join(str(item.get(key) or "") for key in ["case_number", "title", "outcome_summary", "file_name", "document_type"]).casefold()
+        if reference and not matches_case_number(item.get('case_number') or '', reference):
+            continue
+        haystack = item.get('_normalized_search_text')
+        if haystack is None:
+            haystack = normalize_search_text(item.get("_search_text") or " ".join(str(item.get(key) or "") for key in ["case_number", "title", "outcome_summary", "file_name", "document_type"]))
         if terms and not all(term in haystack for term in terms):
             continue
         out.append(item)
