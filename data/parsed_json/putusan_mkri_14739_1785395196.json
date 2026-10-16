@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14739_1785395196.pdf",
+    "file_name": "putusan_mkri_14739_1785395196.pdf",
+    "page_count": 5,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14739_1785395196.pdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:applicants_missing"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "ketetapan",
+    "case_type": "PUU",
+    "case_number": "254/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "253/PUU/PAN.MK/AP3/06/2026"
+    ],
+    "title": "KETETAPAN",
+    "decision_date": "2026-07-30",
+    "decision_date_raw": "tiga puluh, bulan Juli, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "KETETAPAN",
+      "slug": "ketetapan",
+      "text": "NOMOR 254/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,  \nYang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan Ketetapan dalam Permohonan Pe ngujian \nUndang-Undang Nomor 17 Tahun 2014 tentang Majelis Permusyawarat an Rakyat, \nDewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Per wakilan \nRakyat Daerah sebagaimana telah diubah terakhir dengan Undang-Undang Nomor \n13 Tahun 2019 tentang Perubahan Ketiga Atas Undang-Undang Nomor  17 Tahun \n2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan \nPerwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah terhadap Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, sebagai berikut. \nMenimbang :  a.  bahwa Mahkamah Konstitusi (selanjutnya disebut  Mahkamah) \ntelah menerima permohonan bertanggal 25 Juni 2026 yang \ndiajukan oleh Isma Maulana Ihsan (selanjutnya disebut \nPemohon). Permohonan a quo diterima Mahkamah pada tanggal \n27 Juni 2026 berdasarkan Akta Pengajuan Permohonan \nPemohon Nomor 253/PUU/PAN.MK/AP3/06/2026 dan telah \ndicatat dalam Buku Registrasi Perkara Konstitusi Elektronik  \n(e-BRPK) pada tanggal 29 Juni 2026 dengan Permohonan Nomor \n254/PUU-XXIV/2026 perihal Permohonan Pengujian Materiil \nUndang-Undang Nomor 17 Tahun 2014 tentang Majelis \nPermusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan \nPerwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah \nsebagaimana telah diubah terakhir dengan Undang-Undang \nNomor 13 Tahun 2019 tentang Perubahan Ketiga atas Undang-\nUndang Nomor 17 Tahun 2014 tentang Majelis Permusyawaratan \nRakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, \ndan Dewan Perwakilan Rakyat Daerah terhadap Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945;  \n \n\n\n \n \n2\nb.  bahwa sesuai dengan ketentuan Pasal 28 ayat (4) dan Pasal 3 4 \nayat (1) Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan \nUndang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga \nAtas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2020 \nNomor 216, Tambahan Lembaran Negara Republik Indonesia \nNomor 6554, selanjutnya disebut UU MK), terhadap Permohonan \nNomor 254/PUU-XXIV/2026 tersebut Mahkamah telah \nmenerbitkan:",
+      "start_line": 6,
+      "end_line": 49
+    },
+    {
+      "heading": "1. Ketetapan Ketua Mahkamah Konstitusi Nomor",
+      "slug": "1-ketetapan-ketua-mahkamah-konstitusi-nomor",
+      "text": "254.254/PUU/TAP.MK/Panel/06/2026 tentang Pembentukan \nPanel Hakim Untuk Memeriksa Permohonan Nomor 254/PUU-\nXXIV/2026, bertanggal 29 Juni 2026;",
+      "start_line": 51,
+      "end_line": 53
+    },
+    {
+      "heading": "2. Ketetapan Ketua Panel Hakim Mahkamah Konstitusi Nomor",
+      "slug": "2-ketetapan-ketua-panel-hakim-mahkamah-konstitusi-nomor",
+      "text": "254.254/PUU/TAP.MK/HS/06/2026 tentang Penetapan Hari \nSidang Pertama Mahkamah Konstitusi, bertanggal 29 Juni \n2026;",
+      "start_line": 55,
+      "end_line": 57
+    },
+    {
+      "heading": "c. bahwa terhadap permohonan a quo , pada tanggal 7 Juli 2026",
+      "slug": "c-bahwa-terhadap-permohonan-a-quo-pada-tanggal-7-juli-2026",
+      "text": "Mahkamah telah menyelenggarakan sidang panel pemeriksaan \npendahuluan dengan agenda mendengarkan pokok-pokok \npermohonan, memeriksa kelengkapan, dan kejelasan materi \npermohonan Pemohon. Dalam persidangan tersebut, Mahkamah \ntelah memberikan nasihat sesuai dengan ketentuan Pasal 39 UU \nMK dan Pasal 36 ayat (3) Peraturan Mahkamah Konstitusi Nomor \n7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujian \nUndang-Undang serta memberikan kesempatan kepada Pemohon \nuntuk memperbaiki permohonan;",
+      "start_line": 59,
+      "end_line": 67
+    },
+    {
+      "heading": "d. bahwa pada tanggal 20 Juli 2026 Mahkamah telah menjadwalkan",
+      "slug": "d-bahwa-pada-tanggal-20-juli-2026-mahkamah-telah-menjadwalkan",
+      "text": "persidangan pemeriksaan pendahuluan dengan agenda \npemeriksaan perbaikan permohonan, namun Pemohon tidak hadir \ndalam persidangan dan telah menyampaikan surat bertanggal 20 \n\n \n \n3\nJuli 2026 yang pada pokoknya memohon agar Permohonan Nomor \n254/PUU-XXIV/2026 ditarik dengan alasan sakit sehingga tidak \nmemungkinkan untuk melaksanakan kegiatan sebagaimana \nbiasanya; \ne.  bahwa terhadap penarikan kembali permohonan Pemohon \ntersebut, Pasal 35 ayat (1) UU MK menyatakan, “Pemohon dapat \nmenarik kembali Permohonan sebelum atau selama pemeriksaan \nMahkamah Konstitusi dilakukan”, dan Pasal 35 ayat (2) UU MK \nmenyatakan, “Penarikan kembali sebagaimana dimaksud pada \nayat (1) mengakibatkan Permohonan tidak dapat diajukan \nkembali”; \nf. bahwa berdasarkan fakta hukum dan ketentuan sebagaimana",
+      "start_line": 69,
+      "end_line": 87
+    },
+    {
+      "heading": "d i m a k s u d p a d a h u r u f d d a n h u r u f e d i a t a s , R a p a t",
+      "slug": "d-i-m-a-k-s-u-d-p-a-d-a-h-u-r-u-f-d-d-a-n-h-u-r-u-f-e-d-i-a-t-a-s-r-a-p-a-t",
+      "text": "Permusyawaratan Hakim pada tanggal 21 Juli 2026 telah \nberkesimpulan penarikan kembali Permohonan Nomor 254/PUU-\nXXIV/2026 adalah beralasan menurut hukum. Oleh karena itu, \nPemohon tidak dapat mengajukan kembali permohonan a quo; \ng. bahwa berdasarkan pertimbangan hukum pada huruf f di atas, \nRapat Permusyawaratan Hakim memerintahkan Panitera \nMahkamah Konstitusi untuk mencatat perihal penarikan kembali \npermohonan Pemohon dalam e-BRPK dan mengembalikan \nsalinan berkas permohonan kepada Pemohon; \nMengingat : 1. Undang-Undang Dasar Negara Republik Indonesia Ta hun 1945;",
+      "start_line": 89,
+      "end_line": 98
+    },
+    {
+      "heading": "2. Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah",
+      "slug": "2-undang-undang-nomor-24-tahun-2003-tentang-mahkamah",
+      "text": "Konstitusi sebagaimana telah diubah terakhir dengan Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2020 \nNomor 216, Tambahan Lembaran Negara Republik Indonesia \nNomor 6554);",
+      "start_line": 100,
+      "end_line": 105
+    },
+    {
+      "heading": "3. Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan",
+      "slug": "3-undang-undang-nomor-48-tahun-2009-tentang-kekuasaan",
+      "text": "Kehakiman (Lembaran Negara Republik Indonesia Tahun 2009 \n\n \n \n4\nNomor 157, Tambahan Lembaran Negara Republik Indonesia \nNomor 5076);",
+      "start_line": 107,
+      "end_line": 113
+    },
+    {
+      "heading": "4. Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 tentang T ata",
+      "slug": "4-peraturan-mahkamah-konstitusi-nomor-7-tahun-2025-tentang-t-ata",
+      "text": "Beracara Dalam Perkara Pengujian Undang-Undang. \nMENETAPKAN:",
+      "start_line": 115,
+      "end_line": 116
+    },
+    {
+      "heading": "4. Memerintahkan Panitera Mahkamah Konstitusi untuk mencatat perihal penarikan",
+      "slug": "4-memerintahkan-panitera-mahkamah-konstitusi-untuk-mencatat-perihal-penarikan",
+      "text": "kembali Permohonan Nomor 254/PUU-XXIV/2026 dalam Buku Registras i \nPerkara Konstitusi Elektronik dan mengembalikan salinan berkas permohonan \nkepada Pemohon. \n Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggot a, Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masi ng sebagai \nAnggota, pada hari Selasa, tanggal dua puluh satu, bulan Juli, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka  \nuntuk umum pada hari Kamis, tanggal tiga puluh, bulan Juli, tahun dua ribu dua \npuluh enam, selesai diucapkan pukul 13.38 WIB, oleh sembilan Hakim Konstitusi, \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Dan iel Yusmic P. \nFoekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu \noleh Indah Karmadaniah sebagai Panitera Pengganti, serta dihadiri oleh Pemohon, \nDewan Perwakilan Rakyat atau yang mewakili dan Presiden atau yang mewakili. \nKETUA, \nttd. \n \nSuhartoyo \n\n \n \n5\nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \nttd. \nEnny Nurbaningsih \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nIndah Karmadaniah",
+      "start_line": 121,
+      "end_line": 164
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Isma Maulana Ihsan",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 17/2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah"
+    ],
+    "constitutional_articles": [],
+    "procedural_articles": [
+      "Pasal 36 ayat (3)"
+    ],
+    "evidence": [
+      "REFERENSI:254/PUU-XXIV/2026",
+      "REFERENSI:253/PUU/PAN.MK/AP3/06/2026",
+      "REFERENSI:254/PUU/TAP.MK/Panel/06/2026tentangPembentukanPanelHakimUntukMemeriksaPermohonanNomor254/PUU-XXIV/2026",
+      "REFERENSI:254/PUU/TAP.MK/HS/06/2026"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "Sidang Pertama Mahkamah Konstitusi, bertanggal 29 Juni",
+    "Mahkamah telah menyelenggarakan sidang panel pemeriksaan",
+    "permohonan Pemohon. Dalam persidangan tersebut, Mahkamah",
+    "persidangan pemeriksaan pendahuluan dengan agenda",
+    "pemeriksaan perbaikan permohonan, namun Pemohon tidak hadir",
+    "dalam persidangan dan telah menyampaikan surat bertanggal 20",
+    "menarik kembali Permohonan sebelum atau selama pemeriksaan"
+  ],
+  "outcome": {
+    "decision_type": "ketetapan",
+    "dictum": [
+      "Mengabulkan penarikan kembali permohonan Pemohon;",
+      "Menyatakan Permohonan Nomor 254/PUU-XXIV/2026 ditarik kembal i;",
+      "Menyatakan Pemohon tidak dapat mengajukan kembali permohonan a quo;",
+      "Memerintahkan Panitera Mahkamah Konstitusi untuk mencatat perihal penarikan kembali Permohonan Nomor 254/PUU-XXIV/2026 dalam Buku Registras i Perkara Konstitusi Elektronik dan mengembalikan salinan berkas permohonan kepada Pemohon."
+    ],
+    "summary": "Mengabulkan penarikan kembali permohonan."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Indah Karmadaniah"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "254/PUU-XXIV/2026",
+      "253/PUU/PAN.MK/AP3/06/2026",
+      "254/PUU/TAP.MK/Panel/06/2026tentangPembentukanPanelHakimUntukMemeriksaPermohonanNomor254/PUU-XXIV/2026",
+      "254/PUU/TAP.MK/HS/06/2026"
+    ],
+    "referenced_cases": [
+      "254/PUU-XXIV/2026",
+      "253/PUU/PAN.MK/AP3/06/2026",
+      "254/PUU/TAP.MK/Panel/06/2026tentangPembentukanPanelHakimUntukMemeriksaPermohonanNomor254/PUU-XXIV/2026",
+      "254/PUU/TAP.MK/HS/06/2026"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [
+      "applicants_missing"
+    ],
+    "needs_manual_review": true
+  }
+}

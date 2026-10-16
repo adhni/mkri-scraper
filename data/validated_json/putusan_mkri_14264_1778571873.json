@@ -1,0 +1,965 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14264_1778571873.pdf",
+    "file_name": "putusan_mkri_14264_1778571873.pdf",
+    "page_count": 39,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14264_1778571873.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "88/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-05-12",
+    "decision_date_raw": "dua belas, bulan Mei, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 88/PUU-XXIV/2026",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1]  Yang mengadili pengujian undang-undang pada tingkat pertama dan  \nterakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang \nNomor 14 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang  Nomor 8 \nTahun 2019 tentang Penyelenggaraan Ibadah Haji dan Umrah terhad ap Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh: \nPT. Zidna Alfarizi International (Zai Travel), dalam hal ini diwakili oleh: \nNama : Anwari  \nJabatan \nAlamat \n: Direktur Utama \n: Dusun Naga RT/RW 004/002, Kelurahan Ketawang \nKaray, Kecamatan Ganding, Kabupaten Sumenep, \nProvinsi Jawa Timur \nBerdasarkan Surat Kuasa Khusus bertanggal 28 Februari 2026 memb eri kuasa \nkepada Moh. Qusyairi, S.H., M.H. dan A. Fahrur Rozi, S.H., yait u advokat dan \nparalegal pada Kantor Hukum Liberte Law, beralamat di Jalan H, Kelurahan Kebon \nBaru, Kecamatan Tebet, Kota Jakarta Selatan, Provinsi DKI Jakar ta, bertindak \nuntuk dan atas nama Pemberi Kuasa; \nselanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon; \n Mendengar keterangan Pemohon; \n Memeriksa bukti-bukti Pemohon;",
+      "start_line": 5,
+      "end_line": 27
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa Pemohon mengajukan permohonan dengan surat \npermohonan bertanggal 1 Maret 2026 yang diterima Kepaniteraan M ahkamah \nKonstitusi pada tanggal 3 Maret 2026 berdasarkan Akta Pengajuan  Permohonan \nPemohon Nomor 86/PUU/PAN.MK/AP3/03/2026 dan telah dicatat dalam  B u k u  \n\n\n \n \n \n2\nRegistrasi Perkara Konstitusi Elektronik (e-BRPK) pada tanggal 3 Maret 2026 \ndengan Nomor 88/PUU-XXIV/2026, yang telah diperbaiki dan diteri ma Mahkamah \npada tanggal 25 Maret 2026, pada pokoknya menguraikan hal-hal sebagai berikut: \nA. Kewenangan Mahkamah Konstitusi",
+      "start_line": 29,
+      "end_line": 42
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Undang-Undang Dasar Negara Republik Indonesia",
+      "slug": "1-bahwa-pasal-24-ayat-2-undang-undang-dasar-negara-republik-indonesia",
+      "text": "Tahun 1945 (Selanjutnya disebut UUD NRI 1945) menyatakan; “Kekuasaan \nkehakiman dilakukan oleh sebuah Mahkamah Agung dan badan peradi lan \nyang berada di bawahnya dalam lingkungan peradilan umum, lingku ngan \nperadilan agama, lingkungan peradilan militer, lingkungan perad ilan tata \nusaha negara, dan oleh sebuah Mahkamah Konstitusi”;",
+      "start_line": 44,
+      "end_line": 48
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) UUD 1945 menyatakan; “M ahkamah",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-uud-1945-menyatakan-m-ahkamah",
+      "text": "Konstitusi berwenang mengadili pada tingkat pertama dan terakhi r yang \nputusannya bersifat final untuk menguji undang-undang terhadap Undang-\nUndang Dasar, memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar, memutus \npembubaran partai politik dan memutus perselisihan tentang hasil Pemilihan \nUmum”;",
+      "start_line": 50,
+      "end_line": 55
+    },
+    {
+      "heading": "3. Bahwa berdasarkan ketentuan Pasal 29 ayat (1) UU No. 48 Tahu n 2009",
+      "slug": "3-bahwa-berdasarkan-ketentuan-pasal-29-ayat-1-uu-no-48-tahu-n-2009",
+      "text": "tentang Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia  \nTahun 2009 Nomor 157, Tambahan Lembaran Republik Indonesa Tahun  \n5076) yang menyatakan; “Mahkamah Konstitusi berwenang mengadili pada \ntingkat pertama dan terakhir yang putusannya bersifat final untuk: a. menguji \nundang-undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945; b. memutus sengketa kewenangan lembaga negara \nyang kewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai pol itik; e. \nmemutus perselisihan tentang hasil pemilihan umum; dan f. kewenangan lain \nyang diberikan oleh undang-undang”;",
+      "start_line": 57,
+      "end_line": 66
+    },
+    {
+      "heading": "4. Bahwa berdasarkan ketentuan di atas, Mahkamah Konstitusi mem punyai",
+      "slug": "4-bahwa-berdasarkan-ketentuan-di-atas-mahkamah-konstitusi-mem-punyai",
+      "text": "kewenangan untuk melakukan pengujian undang-undang terhadap UUD  \n1945 yang juga didasarkan pada Pasal 10 ayat (1) huruf a Undang -Undang \nNomor 7 Tahun 2020 tentang Perubahan ketiga Atas UU No. 24 Tahun 2003 \ntentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun \n2020, Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor \n\n \n \n \n3\n6554) (selanjutnya disebut UU 7/2020) yang menyatakan; “Mahkama h \nKonstitusi berwenang mengadili pada tingkat pertama dan terakhi r yang \nputusannya bersifat final untuk: (a) menguji undang-undang (UU)  terhadap \nUUD RI Tahun 1945”;",
+      "start_line": 68,
+      "end_line": 81
+    },
+    {
+      "heading": "5. Bahwa demikian pula kewenangan Mahkamah Konstitusi dalam men guji",
+      "slug": "5-bahwa-demikian-pula-kewenangan-mahkamah-konstitusi-dalam-men-guji",
+      "text": "undang-undang terhadap UUD juga diatur dalam Pasal 9 Undang-Und ang \nNomor 12 tahun 2011 tentang Pembentukan Peraturan Perundang-\nundangan sebagaimana telah diubah dengan UU No. 13 Tahun 2022 tentang \nPerubahan Kedua atas UU No. 12 Tahun 2011 tentang Pembentukan \nPeraturan Perundang-undangan, menyatakan; “Dalam hal suatu Unda ng-\nUndang diduga bertentangan dengan Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945, pengujiannya dilakukan oleh Mahk amah \nKonstitusi;",
+      "start_line": 83,
+      "end_line": 90
+    },
+    {
+      "heading": "6. Bahwa kewenangan Mahkamah Konstitusi dalam melakukan penguji an",
+      "slug": "6-bahwa-kewenangan-mahkamah-konstitusi-dalam-melakukan-penguji-an",
+      "text": "undang-undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 juga diatur dalam Pasal 2 ayat (1) Peratur an \nMahkamah Konstitusi Nomor 07 Tahun 2025 tentang Tata Beracara d alam \nPerkara Pengujian Undang-Undang (“PMK 7/2025”) yang menyatakan,  \n“Objek Permohonan PUU adalah undang-undang dan Perppu”;",
+      "start_line": 92,
+      "end_line": 96
+    },
+    {
+      "heading": "7. Bahwa berdasarkan ketentuan yang telah dijabarkan, maka hal ini semakin",
+      "slug": "7-bahwa-berdasarkan-ketentuan-yang-telah-dijabarkan-maka-hal-ini-semakin",
+      "text": "mempertegas kewenangan Mahkamah sebagai satu-satunya lembaga yang \nberwenang untuk menguji konstitusionalitas suatu Undang-Undang terhadap \nUUD NRI 1945, in casu terhadap frasa “sesuai dengan proporsinya” pada \nPasal 9 ayat (3) UU 14/2025 yang selengkapnya berbunyi: \nPasal 9 ayat (3) UU 14/2025 \nPengisian kuota haji tambahan sebagaimana dimaksud pada ayat (1 ) \ndiperuntukkan bagi kuota haji reguler dan haji khusus sesuai de ngan \nproporsinya serta wajib diinformasikan secara daring dan berkala. \nBertentangan dengan: \nPasal 28D ayat (1) UUD NRI 1945 \nSetiap orang berhak atas pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil, serta perlakuan yang sama di depan \nhukum. \n\n \n \n \n4",
+      "start_line": 98,
+      "end_line": 115
+    },
+    {
+      "heading": "8. Bahwa oleh karena permohonan a quo menguji konstitusionalitas suatu",
+      "slug": "8-bahwa-oleh-karena-permohonan-a-quo-menguji-konstitusionalitas-suatu",
+      "text": "norma undang-undang terhadap UUD NRI 1945 sebagaimana diuraikan  di \natas, maka Mahkamah berwenang untuk mengadili dan memeriksa \npermohonan pengujian undang-undang a quo. \nB. KEDUDUKAN HUKUM (LEGAL STANDING) PEMOHON",
+      "start_line": 117,
+      "end_line": 120
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 51 ayat (1) UU MK mengatur Pemohon ada lah pihak",
+      "slug": "1-bahwa-ketentuan-pasal-51-ayat-1-uu-mk-mengatur-pemohon-ada-lah-pihak",
+      "text": "yang menganggap hak dan/atau kewenangan konstitusionalnya dirug ikan \noleh berlakunya undang-undang, yaitu: \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip negara kesatuan RI yang \ndiatur dalam undang-undang;",
+      "start_line": 122,
+      "end_line": 127
+    },
+    {
+      "heading": "2. Bahwa, dalam penjelasan Pasal 51 ayat (1) UU MK dinyatakan b ahwa “Yang",
+      "slug": "2-bahwa-dalam-penjelasan-pasal-51-ayat-1-uu-mk-dinyatakan-b-ahwa-yang",
+      "text": "dimaksud dengan “hak konstitusional” adalah hak-hak yang diatur  dalam \nUndang-Undang Dasar Republik Indonesia Tahun 1945”;",
+      "start_line": 131,
+      "end_line": 132
+    },
+    {
+      "heading": "3. Bahwa terhadap syarat kedudukan Pemohon juga diatur dalam Pa sal 4 ayat",
+      "slug": "3-bahwa-terhadap-syarat-kedudukan-pemohon-juga-diatur-dalam-pa-sal-4-ayat",
+      "text": "(1) PMK No 7 Tahun 2025, yang menyatakan, Permohon sebagaimana \ndimaksud dalam Pasal 3 huruf a adalah Pihak yang menganggap hak  \ndan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya  undang-\nundang atau perppu, yaitu: \na. perorangan warga negara Indonesia atau kelompok orang yang \nmempunyai kepentingan sama; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 134,
+      "end_line": 142
+    },
+    {
+      "heading": "4. Bahwa selanjutnya untuk memenuhi syarat kedudukan hukum seba gaimana",
+      "slug": "4-bahwa-selanjutnya-untuk-memenuhi-syarat-kedudukan-hukum-seba-gaimana",
+      "text": "dimaksud Pasal 51 ayat (1) UU MK dan Pasal 4 ayat (1) PMK No 7 Tahun \n2025 tersebut diatas, perlu dijelaskan bahwa Pemohon merupakan sebuah \nbadan hukum berbentuk perseoran terbatas (PT) berdasarkan Akta \nPendirian Perseroan Terbatas Nomor 127 bertanggal 13 Oktober 2025 yang \n\n \n \n \n5\ndibuat dihadapan Notaris Hartini, S.H., M.Kn. (vide Bukti P-3) jo. Keputusan \nMenteri Hukum Republik Indonesia Nomor AHU-0087991.AH.01.01.Tah un \n2025 tentang Pengesahan Pendirian Badan Hukum Perseoran Terbatas PT \nZidna Alfarizi International bertanggal 14 Oktober 2025 (vide Bukti P-4);",
+      "start_line": 146,
+      "end_line": 158
+    },
+    {
+      "heading": "5. Bahwa selain itu, Pasal 4 ayat (2) Peraturan Mahkamah Konsti tusi No. 07",
+      "slug": "5-bahwa-selain-itu-pasal-4-ayat-2-peraturan-mahkamah-konsti-tusi-no-07",
+      "text": "Tahun 2025 tentang Pedoman Beracara Dalam Perkara Pengujian Undang-\nUndang ditentukan 5 syarat mengenai kerugian konstitusional, yakni sebagai \nberikut: \na. ada hak dan/atau kewenangan konstitusional Pemohon yang dibe rikan \noleh UUD NRI 1945; \nb. hak dan/atau kewenangan konstitusional tersebut dianggap tel ah \ndirugikan oleh berlakunya undang-undang atau Perppu yang \ndimohonkan pengujian;",
+      "start_line": 160,
+      "end_line": 167
+    },
+    {
+      "heading": "c. kerugian hak dan/atau kewenangan konstitusional tersebut ber sifat",
+      "slug": "c-kerugian-hak-dan-atau-kewenangan-konstitusional-tersebut-ber-sifat",
+      "text": "spesifik (khusus) dan aktual, setidak-tidaknya bersifat potensi al yang \nmenurut penalaran yang wajar dapat dipastikan akan terjadi;",
+      "start_line": 169,
+      "end_line": 170
+    },
+    {
+      "heading": "d. Ada hubungan sebab akibat antara kerugian hak dan/atau kewen angan",
+      "slug": "d-ada-hubungan-sebab-akibat-antara-kerugian-hak-dan-atau-kewen-angan",
+      "text": "konstitusional dengan undang-undang atau Perppu yang dimohonkan  \npengujian; \ne. ada kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian hak dan/atau kewenangan konstitusional yang didalilkan tidak \nakan atau tidak lagi terjadi.",
+      "start_line": 172,
+      "end_line": 176
+    },
+    {
+      "heading": "6. Bahwa untuk menguraikan kedudukan Pemohon dalam kaitannya de ngan",
+      "slug": "6-bahwa-untuk-menguraikan-kedudukan-pemohon-dalam-kaitannya-de-ngan",
+      "text": "lima syarat kerugian konstitusional di atas, maka akan diuraika n secara \ntersendiri keterpenuhan Pemohon dengan lima kualifikasi syarat kerugian \nsebagaimana dimaksud di atas;",
+      "start_line": 178,
+      "end_line": 180
+    },
+    {
+      "heading": "7. Bahwa pertama, untuk menjelaskan adanya hak konstitusional y ang dimiliki",
+      "slug": "7-bahwa-pertama-untuk-menjelaskan-adanya-hak-konstitusional-y-ang-dimiliki",
+      "text": "Pemohon sebagaimana dimaksud pada Pasal 4 ayat (2) huruf a PMK 7/2025, \nperlu dijelaskan bahwa Pemohon merupakan badan hukum berbentuk \nperseroan terbatas yang didirikan sebagai badan usaha di bidang  jasa biro \nperjalanan. Mengacu pada Pasal 3 angka 1 Akta Pendirian Persero an, \nPemohon menjalankan usaha di bidang aktivitas biro perjalanan w isata \n(KBLI 79121) dan aktivitas biro perjalanan ibadah umroh dan haj i khusus \n(KBLI 79122); \n\n \n \n \n6",
+      "start_line": 182,
+      "end_line": 193
+    },
+    {
+      "heading": "8. Bahwa dalam menjalankan aktivitas usaha sebagaimana dimaksud s e r t a",
+      "slug": "8-bahwa-dalam-menjalankan-aktivitas-usaha-sebagaimana-dimaksud-s-e-r-t-a",
+      "text": "tindakan lain untuk kepentingan Pemohon sebagai Perseroan, seor ang \nDireksi berhak mewakili Pemohon baik di dalam maupun di luar pe ngadilan \ntentang segala hal dan kejadian yang menyangkut kepentingan Pem ohon. \nKetentuan ini jelas diatur secara eksplisit dalam Pasal 12 angk a 1 Akta \nPendirian Perseroan yang mengatur tentang tugas dan wewenang se orang \ndireksi, sebagaimana berikut: “Direksi berhak mewakili Perseroa n di dalam \ndan di luar Pengadilan tentang segala hal dan dalam segala keja dian, \nmengikat Perseroan dengan pihak lain dan pihak lain dengan Pers eroan, \nserta menjalankan segala tindakan, baik yang mengenai kepenguru san \nmaupun kepemilikan, akan tetapi dengan pembatasan bahwa untuk:…\"",
+      "start_line": 195,
+      "end_line": 204
+    },
+    {
+      "heading": "9. Bahwa berdasarkan ketentuan dimaksud di atas, perorangan war ga negara",
+      "slug": "9-bahwa-berdasarkan-ketentuan-dimaksud-di-atas-perorangan-war-ga-negara",
+      "text": "Indonesia atas nama Anwari (vide Bukti P-5) dalam hal ini sebag ai Direktur \nUtama berhak untuk mewakili Pemohon, in casu dalam melakukan pengujian \nmateriil Pasal 9 ayat (3) UU 14/2025 terhadap UUD NRI 1945;",
+      "start_line": 206,
+      "end_line": 208
+    },
+    {
+      "heading": "10. Bahwa terhadap aktivitas usaha di bidang biro perjalanan ibadah haji khusus,",
+      "slug": "10-bahwa-terhadap-aktivitas-usaha-di-bidang-biro-perjalanan-ibadah-haji-khusus",
+      "text": "Pemohon berhak untuk turut serta bertindak sebagai penyelenggara ibadah \nhaji khusus (PIHK) sebagaimana diatur dalam Pasal 57 Undang-Und ang \nNomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah Haji dan Umra h. \nSebagai badan usaha, Pemohon sejatinya dapat menjadi bagian pihak yang \nmenyediakan fasilitas khusus untuk memberikan layanan alternati f di luar \nhaji reguler dengan standar pelayanan yang lebih tinggi kepada masyarakat;",
+      "start_line": 210,
+      "end_line": 215
+    },
+    {
+      "heading": "11. Bahwa terhadap kedudukan dimaksud, Pemohon berhak atas jami nan",
+      "slug": "11-bahwa-terhadap-kedudukan-dimaksud-pemohon-berhak-atas-jami-nan",
+      "text": "kepastian hukum yang adil sebagaimana diatur pada Pasal 28D aya t (1) \nUUD NRI 1945, in casu kepastian hukum tentang ketentuan pelaksanaan \nhaji khusus melalui undang-undang. Pasalnya, sebagai badan usah a yang \nnantinya ikut serta dalam penyelenggaraan haji khusus, Pemohon harus \ndijamin terlebih dahulu tidak dirugikan dengan berlakunya suatu  n o r m a  \nundang-undang akibat tidak memberikan kepastian hukum bagi \npenyelenggaraan haji khusus, in casu berkenaan dengan ketentuan jumlah \nkuota jamaan haji khusus dalam konteks pemerintah memperoleh kuota haji \ntambahan dari pemerintah Arab Saudi;",
+      "start_line": 217,
+      "end_line": 225
+    },
+    {
+      "heading": "12. Bahwa kedua, untuk menjelaskan adanya hak Pemohon dirugikan o l e h",
+      "slug": "12-bahwa-kedua-untuk-menjelaskan-adanya-hak-pemohon-dirugikan-o-l-e-h",
+      "text": "berlakunya undang-undang yang diujikan sebagaimana dimaksud pad a \n\n \n \n \n7\nPasal 4 ayat (2) huruf b PMK 7/2025, perlu dijelaskan bahwa ker ugian \nkonstitusional Pemohon timbul sebagai akibat langsung dari tida k adanya \nkepastian hukum pasal a quo yang mengatur proporsi pembagian kuota haji \ntambahan. Pasalnya, ketentuan pada pasal a quo  h a n y a  m e m u a t  f r a s a  \n“sesuai dengan proporsinya” tanpa diikuti dengan frasa lanjutan  y a n g  \nmenjelaskan rujukan normatifnya;",
+      "start_line": 227,
+      "end_line": 238
+    },
+    {
+      "heading": "13. Bahwa frasa sebagaimana dimaksud secara normatif tidak memb erikan",
+      "slug": "13-bahwa-frasa-sebagaimana-dimaksud-secara-normatif-tidak-memb-erikan",
+      "text": "kejelasan mengenai proporsi yang dimaksud. Ketidakjelasan tersebut dapat \nmenimbulkan ambiguitas interpretasi terhadap proporsi pembagian  k u o t a  \nhaji khusus, apakah yang dimaksud “sesuai dengan proporsinya” m erujuk \npada skema pembagian kuota haji pokok pada Pasal 64 ayat (2) UU  \n14/2025—di mana kuota haji khusus 8% dan kuota haji reguler 92%, ataukah \nproporsi dimaksud dapat ditentukan lain secara aktual berdasark an \nkeputusan Menteri setelah melalui pembahasan dengan DPR sebagaimana \ndiatur Pasal 9 ayat (1). Ketidakjelasan inilah yang menjadi sum ber kerugian \nkonstitusional Pemohon;",
+      "start_line": 240,
+      "end_line": 248
+    },
+    {
+      "heading": "14. Bahwa pasalnya, ketentuan Pasal 9 ayat (1) memberikan kewen angan",
+      "slug": "14-bahwa-pasalnya-ketentuan-pasal-9-ayat-1-memberikan-kewen-angan",
+      "text": "kepada Menteri untuk menetapkan pembagian kuota haji tambahan, bahkan \nmelalui pembahasan dengan DPR. Ketentuan norma ini pada hakikat nya \nmemberikan ruang wewenang yang memungkinkan menteri menentukan \nkembali/lain proporsi kuota haji tambahan berdasarkan kebutuhan  dan \npertimbangan faktual di luar dari pada proporsi kuota haji tamb ahan. \nSeharusnya, jika memang frasa “sesuai dengan proporsinya” pada pasal a \nquo mengacu pada ketentuan yang berlaku pada kuota haji pokok, mak a \ntidak diperlukan lagi sejatinya Pasal 9 ayat (1) yang memberikan wewenang \npembagian kuota tambahan kepada seorang menteri, terlebih harus dibahas \ndengan DPR. Situasi demikian menciptakan ketidakpastian hukum y ang \nnyata bagi Pemohon sebagai badan usaha yang bergerak di bidang \npenyelenggaraan ibadah haji khusus;",
+      "start_line": 250,
+      "end_line": 261
+    },
+    {
+      "heading": "15. Bahwa dalam konteks a quo , frasa “sesuai dengan proporsinya” tidak",
+      "slug": "15-bahwa-dalam-konteks-a-quo-frasa-sesuai-dengan-proporsinya-tidak",
+      "text": "mengandung rujukan normatif yang tegas, sehingga membuka ruang \npenafsiran yang berbeda-beda dalam implementasinya. Pasalnya, \nketidakjelasan norma frasa “sesuai dengan proporsinya” telah menimbulkan \n\n \n \n \n8\nimplikasi serius dalam praktik penyelenggaraan pemerintahan. Ha l itu \nmembuka ruang interpretasi yang berbeda dalam pelaksanaannya;",
+      "start_line": 263,
+      "end_line": 272
+    },
+    {
+      "heading": "16. Bahwa salah satu kasus konkretnya adalah ketika Komisi Pemb erantasan",
+      "slug": "16-bahwa-salah-satu-kasus-konkretnya-adalah-ketika-komisi-pemb-erantasan",
+      "text": "Korupsi (KPK) menjadikan proporsi pembagian kuota haji pokok pada Pasal \n64 UU 14/2025 sebagai acuan bagi proporsi kuota haji tambahan d alam \nkasus Mantan Menteri Agama, Yaqut Cholil Qoumas, sebagaimana be rikut \n(vide Bukti P-6); \nKomisi Pemberantasan Korupsi  (KPK) mengungkap alasan bisa \nterjadinya jual beli kuota haji tambahan di Kementerian Agama \n(Kemenag). Permainan kotor itu bisa terjadi gegara adanya Surat  \nKeputusan (SK) Menteri Agama (Menag) Nomor 130 Tahun 2024 \ntentang Kuota Haji Tambahan Tahun 1445 Hijriah buatan eks Mente ri \nAgama Yaqut Cholil Qoumas. \n“Kita fokuskan dulu di hulunya, yaitu terkait dengan diskresi pembagian \nkuota tambahan di Kementerian Agama yang kemudian di hilirnya \nadalah terkait dengan jual beli kuota tambahan, khususnya yang kuota \nkhusus yang dilakukan oleh para biro perjalanan,” kata juru bicara KPK \nBudi Prasetyo di Gedung Merah Putih KPK, Jakarta Selatan, Rabu, 17 \nSeptember 2025. Budi menjelaskan, pembagian kuota tambahan \nharusnya menggunakan skema 92 persen untuk jamaah reguler, dan \ndelapan persen untuk khusus. Namun, Yaqut malah membuat \nkebijakan membagi rata 50 persen untuk reguler dan khusus, deng an \ndalih adanya diskresi menteri. \nKarenanya, kuota haji khusus menjadi membeludak. Tambahan yang \nbanyak itu membuat pejabat di Kemenag sampai pengusaha biro \nperjalanan haji dan umrah melakukan transaksi untuk mendapatkan  \nkuota tambahan. \n“Dalam jual belinya ini kan ada yang diperjualbelikan kepada pihak biro \nperjalanan lain, ataupun diperjualbelikan langsung kepada para calon \njamaah,” ucap Budi. \nSumber: KPK: Jual Beli Kuota Haji Terjadi Karena Diskresi Yaqut  \ndiakses melalui https://www.metrotvnews.com/play/NgxCDgQ6-kpk-\njual-beli-kuota-haji-terjadi-karena-diskresi-yaqut  \n\n \n \n \n9",
+      "start_line": 274,
+      "end_line": 308
+    },
+    {
+      "heading": "17. Bahwa fakta tersebut menunjukkan secara nyata bagaimana nor ma yang",
+      "slug": "17-bahwa-fakta-tersebut-menunjukkan-secara-nyata-bagaimana-nor-ma-yang",
+      "text": "tidak memberikan kepastian hukum pada pasal a quo  dalam \npelaksanaannya menimbulkan sejumlah interpretasi dalam konteks \npenegakan hukum. Dari sana dapa t dilihat, bahwa KPK sebagai pen egak \nhukum menjadikan proporsi 92% kuota reguler dan 8% kuota khusus—yang \nberlaku untuk pembagian kuota haji pokok—sebagai proporsi yang juga \nberlaku juga untuk proporsi pembagian kuota haji tambahan. Kete ntuan itu \ndijadikan sebagai fenomena hulu adanya unsur melawan hukum dala m \nsebuah kebijakan menteri;",
+      "start_line": 310,
+      "end_line": 317
+    },
+    {
+      "heading": "18. Bahwa hal demikian jelas menimbulkan persoalan ketidakpasti an hukum",
+      "slug": "18-bahwa-hal-demikian-jelas-menimbulkan-persoalan-ketidakpasti-an-hukum",
+      "text": "bagi Pemohon. Pemohon sungguh tidak mendapat kepastian bagaiman a \nseharusnya proporsi kuota haji tambahan dibagi, in casu dalam memaknai \nfrasa “sesuai dengan proporsinya” sebagaimana dimaksud pada Pas al 9 \nayat (3). Pasalnya, tindakan KPK di atas jelas menyebut pembagi an kuota \nhaji tambahan yang tidak sesuai dengan proporsi 92% kuota reguler dan 8% \nkuota khusus merupakan satu kesatuan rangkaian tindakan yang me lawan \nhukum;",
+      "start_line": 319,
+      "end_line": 325
+    },
+    {
+      "heading": "19. Bahwa hal penting yang harus ditegaskan, dengan ini bukan b erarti",
+      "slug": "19-bahwa-hal-penting-yang-harus-ditegaskan-dengan-ini-bukan-b-erarti",
+      "text": "Pemohon setuju atau seolah-olah membenarkan tindakan jual beli kuota haji \nyang didasarkan pada penerapan kewenangan yang secara sewenang-\nwenang sebagaimana kasus yang terjadi. Sungguhlah tidak sama se kali. \nPermohonan a quo  diajukan Pemohon semata-mata karena menuntut \nkepastian hukum yang adil terkait proporsi pembagian kuota haji tambahan. \nKarena sungguh Pemohon bingung dengan adanya penegakan hukum \nterkait pelaksanaan haji yang isunya berkenaan dengan proporsi pembagian \nkuota haji tambahan. Pemohon semakin bertanya-tanya karena kete ntuan \nitu menyangkut ekosistem dan peluang berusaha Pemohon ke depan.  \nApakah proporsi itu baku dengan formasi 92% dan 9%, atau dapat \nditentukan lain secara aktual oleh menteri ke depan;",
+      "start_line": 327,
+      "end_line": 337
+    },
+    {
+      "heading": "20. Bahwa bagi Pemohon, kepastian mengenai proporsi kuota haji khusus",
+      "slug": "20-bahwa-bagi-pemohon-kepastian-mengenai-proporsi-kuota-haji-khusus",
+      "text": "bukanlah persoalan administratif semata, melainkan menyangkut \nkeberlangsungan usaha, perencanaan bisnis, komitmen kontraktual dengan \ncalon jamaah, serta investasi yang telah dan akan dilakukan. Ke tika norma \ntidak memberikan kepastian apakah kuota tambahan akan dibagikan  \n\n \n \n \n10\nmengikuti komposisi kuota pokok atau dapat ditentukan lain seca ra aktual \noleh kebijakan tahunan Menteri, maka Pemohon tidak memiliki dasar hukum \nyang pasti untuk merencanakan kapasitas layanan, menghitung pot ensi \njumlah jamaah, maupun menyusun strategi bisnis. Dengan demikian , \nketidakjelasan frasa “sesuai dengan proporsinya” secara langsun g \nberdampak pada hak Pemohon untuk memperoleh jaminan kepastian hukum \nyang adil;",
+      "start_line": 339,
+      "end_line": 354
+    },
+    {
+      "heading": "21. Bahwa ketiga, untuk menjelaskan adanya sifat dari kerugian konstitusional",
+      "slug": "21-bahwa-ketiga-untuk-menjelaskan-adanya-sifat-dari-kerugian-konstitusional",
+      "text": "Pemohon sebagaimana dimaksud pada Pasal 4 ayat (2) huruf c PMK 7/2025, \nperlu dijelaskan bahwa kerugian konstitusional Pemohon bersifat  potensial \nyang menurut penalaran yang wajar dapat dipastikan terjadi, seb agaimana \nhal tersebut juga menjadi bagian dalam doktrin kerugian konstit usional \nMahkamah selama ini. Sifat kerugian yang potensial sebagaimana dimaksud \nmenjadi konsekuensi logis dari ketidakjelasan norma yang mengat ur \nproporsi pembagian kuota haji tambahan;",
+      "start_line": 356,
+      "end_line": 362
+    },
+    {
+      "heading": "22. Bahwa pasalnya, sebagai badan hukum privat yang bergerak di bidang",
+      "slug": "22-bahwa-pasalnya-sebagai-badan-hukum-privat-yang-bergerak-di-bidang",
+      "text": "penyelenggaraan ibadah haji khusus, Pemohon sebelum secara efek tif \nmenjalankan dan mengembangkan kegiatan usaha haji khusus, secar a \nrasional harus terlebih dahulu memastikan bahwa kerangka regula si yang \nmenjadi dasar operasionalnya memberikan jaminan kepastian hukum  yang \nadil. Kepastian mengenai proporsi pembagian kuota, termasuk dal am hal \nadanya kuota tambahan, merupakan elemen fundamental dalam \nperencanaan usaha, pengikatan kontrak dengan calon jamaah, penyusunan \nproyeksi keuangan, serta pengambilan keputusan investasi. Tanpa  \nkepastian normatif tersebut, Pemohon berada dalam situasi ketid akpastian \nstruktural yang secara inheren mengancam keberlangsungan dan keamanan \nhukum usahanya;",
+      "start_line": 364,
+      "end_line": 374
+    },
+    {
+      "heading": "23. Bahwa hal yang perlu ditekankan, Pemohon tidak semata-mata sebagai",
+      "slug": "23-bahwa-hal-yang-perlu-ditekankan-pemohon-tidak-semata-mata-sebagai",
+      "text": "pelaku usaha, melainkan merupakan bagian integral dari ekosiste m \npenyelenggaraan ibadah haji yang secara konstitusional berkaitan langsung \ndengan pemenuhan hak warga negara untuk menjalankan ibadah. Dal am \nkerangka yang demikian, penyelenggaraan ibadah haji merupakan b entuk \npelayanan publik yang memiliki dimensi konstitusional sebagaimana dijamin \ndalam UUD NRI 1945. Oleh karena itu, keberadaan badan usaha sep erti \n\n \n \n \n11\nPemohon yang bergerak dalam penyelenggaraan haji khusus sesungguhnya \nberperan sebagai mitra strategis negara dalam menyediakan alter natif \nlayanan bagi masyarakat, khususnya dalam rangka mengatasi keterbatasan \nkuota dan panjangnya antrean haji reguler. Dalam konteks demiki an, \nkepastian hukum mengenai pengaturan kuota, termasuk kuota haji \ntambahan, tidak hanya berdampak pada aspek bisnis Pemohon, teta pi juga \nsecara langsung mempengaruhi kualitas, aksesibilitas, dan keadilan layanan \nibadah haji bagi masyarakat luas. Untuk itu, kerugian Pemohon a kibat \nketidakjelasan norma a quo tidak dapat dipandang sebagai kerugian privat \nsemata, melainkan sebagai bagian dari terganggunya ekosistem pelayanan \nibadah yang memiliki dimensi konstitusional, sehingga secara la ngsung \nberkaitan dengan jaminan kepastian hukum yang adil bagi seluruh  warga \nnegara;",
+      "start_line": 376,
+      "end_line": 399
+    },
+    {
+      "heading": "24. Bahwa ketidakjelasan frasa “sesuai dengan proporsinya” memb uka ruang",
+      "slug": "24-bahwa-ketidakjelasan-frasa-sesuai-dengan-proporsinya-memb-uka-ruang",
+      "text": "interpretasi yang simpang siur. Ketika norma a quo tidak memberikan acuan \nyang pasti, maka pelaku usaha seperti halnya Pemohon yang berga ntung \npada kebijakan tersebut berada dalam posisi rentan, karena kepu tusan \nadministratif yang diambil dalam kerangka norma yang kabur berp otensi \nmenimbulkan persoalan hukum di kemudian hari;",
+      "start_line": 401,
+      "end_line": 405
+    },
+    {
+      "heading": "25. Bahwa oleh karena itu, meskipun Pemohon belum sepenuhnya",
+      "slug": "25-bahwa-oleh-karena-itu-meskipun-pemohon-belum-sepenuhnya",
+      "text": "melaksanakan penyelenggaraan haji khusus selama ini, risiko kerugian yang \ndihadapi dapat diterima secara rasional. Berdasarkan pengalaman  praktik \ndan dinamika penegakan hukum di sektor penyelenggaraan haji, sa ngat \nmungkin bahwa ketidakjelasan penormaan mengenai proporsi kuota \ntambahan dapat berimplikasi pada sengketa administratif, kerugian finansial, \natau bahkan konsekuensi hukum terhadap pihak-pihak yang terliba t dalam \npelaksanaannya, tidak terkecuali Pemohon. Dengan demikian, terd apat \nkemungkinan yang rasional dan dapat dipastikan menurut logika h ukum \nbahwa Pemohon dapat terdampak atau bahkan menjadi korban dari \nketidakjelasan norma tersebut;",
+      "start_line": 407,
+      "end_line": 416
+    },
+    {
+      "heading": "26. Bahwa dalam perspektif perlindungan konstitusional, Pemohon tidak harus",
+      "slug": "26-bahwa-dalam-perspektif-perlindungan-konstitusional-pemohon-tidak-harus",
+      "text": "menunggu sampai kerugian aktual benar-benar terjadi atau sampai  terjerat \ndalam persoalan hukum untuk memperoleh perlindungan atas hak \nkonstitusionalnya. Justru sebelum menjalankan kegiatan usaha se cara \n\n \n \n \n12\npenuh, Pemohon berhak memastikan bahwa norma yang menjadi dasar  \noperasionalnya telah memenuhi prinsip kepastian hukum yang adil . Oleh \nkarena itu, kerugian yang didalilkan Pemohon jelas merupakan ke rugian \npotensial yang menurut penalaran yang wajar dapat dipastikan te rjadi \napabila norma a quo  tetap dibiarkan dalam keadaan tidak jelas dan \nmultitafsir;",
+      "start_line": 418,
+      "end_line": 431
+    },
+    {
+      "heading": "27. Bahwa keempat, untuk menjelaskan adanya hubungan sebab akib at antara",
+      "slug": "27-bahwa-keempat-untuk-menjelaskan-adanya-hubungan-sebab-akib-at-antara",
+      "text": "kerugian yang didalikan dengan pasal yang diujikan sebagaimana dimaksud \npada Pasal 4 ayat (2) huruf d PMK7/2025, maka perlu dijelaskan bahwa \nketentuan pasal a quo  mengatur pembagian kuota tambahan antara haji \nreguler dan haji khusus dilakukan “sesuai dengan proporsinya”, namun tidak \nmemberikan kepastian apakah yang dimaksud proporsi adalah propo rsi \nsebagaimana pembagian kuota haji pokok dalam Pasal 64 ayat (2),  a t a u  \nproporsi lain yang ditentukan secara aktual oleh menteri bersam a-sama \ndengan DPR. Ketidakjelasan ini menimbulkan ambiguitas mengenai standar \nproporsi yang harus dijadikan acuan;",
+      "start_line": 433,
+      "end_line": 441
+    },
+    {
+      "heading": "28. Bahwa akibat langsung dari ambiguitas tersebut adalah tidak adanya",
+      "slug": "28-bahwa-akibat-langsung-dari-ambiguitas-tersebut-adalah-tidak-adanya",
+      "text": "kepastian hukum mengenai besaran kuota yang secara normatif men jadi \nbagian haji khusus ketika terdapat kuota tambahan. Bagi Pemohon sebagai \npelaku usaha di bidang penyelenggaraan haji khusus, ketidakpast ian \nmengenai besaran kuota tersebut berdampak langsung pada kepastian hak \ndan posisi hukumnya dalam sistem pembagian kuota nasional. Seti daknya, \nhal itu berimplikasi pada dua hal penting bagi Pemohon;",
+      "start_line": 443,
+      "end_line": 448
+    },
+    {
+      "heading": "29. Bahwa pertama, ketidakjelasan frasa “sesuai dengan proporsinya” pada",
+      "slug": "29-bahwa-pertama-ketidakjelasan-frasa-sesuai-dengan-proporsinya-pada",
+      "text": "pasal a quo mengakibatkan Pemohon sebagai badan usaha yang bergerak \ndalam logika bisnis tidak dapat menghitung secara pasti adanta peluang \nusaha yang akan dijalankan. Pemohon pada hakikatnya membutuhkan suatu \nparameter yang pasti dan terukur untuk melakukan perencanaan us aha, \nkhususnya terkait dengan estimasi pangsa pasar dan kapasitas la yanan. \nNamun demikian, dengan tidak adanya kejelasan apakah proporsi kuota haji \ntambahan akan tetap mengacu pada komposisi kuota haji pokok, yakni 92% \nuntuk haji reguler dan 8% untuk haji khusus, atau justru dapat ditentukan \nsecara berbeda oleh kebijakan pemerintah setiap tahunnya, Pemoh on \nberada dalam kondisi ketidakpastian hukum; \n\n \n \n \n13",
+      "start_line": 450,
+      "end_line": 464
+    },
+    {
+      "heading": "30. Bahwa pasalnya, apabila ternyata proporsi tersebut tetap me ngikuti skema",
+      "slug": "30-bahwa-pasalnya-apabila-ternyata-proporsi-tersebut-tetap-me-ngikuti-skema",
+      "text": "92% dan 8%, maka secara rasional peluang usaha yang ada cenderu ng \nstagnan dan tidak mengalami peluang yang signifikan, karena tam bahan \nkuota tidak memberikan peningkatan berarti bagi segmen haji khu sus. \nSebaliknya, apabila terdapat kemungkinan bahwa kuota haji tambahan dapat \ndialokasikan dengan proporsi yang lebih besar untuk haji khusus , maka hal \ntersebut sejatinya membuka peluang ekspansi usaha yang lebih lu as bagi \nPemohon. Akan tetapi, karena norma tidak memberikan kepastian mengenai \nhal tersebut, Pemohon tidak dapat secara rasional menentukan st rategi \nbisnisnya, baik dalam hal ekspansi, investasi, maupun pengemban gan \nkapasitas layanan;",
+      "start_line": 466,
+      "end_line": 475
+    },
+    {
+      "heading": "31. Bahwa akibat hal itu, ketidakjelasan norma a quo secara langsung",
+      "slug": "31-bahwa-akibat-hal-itu-ketidakjelasan-norma-a-quo-secara-langsung",
+      "text": "menyebabkan terhambatnya kemampuan Pemohon dalam melakukan \nperencanaan dan pengambilan keputusan bisnis yang berbasis pada  \nkepastian;",
+      "start_line": 477,
+      "end_line": 479
+    },
+    {
+      "heading": "32. Bahwa kedua, ketidakjelasan norma a quo berimplikasi langsung terhadap",
+      "slug": "32-bahwa-kedua-ketidakjelasan-norma-a-quo-berimplikasi-langsung-terhadap",
+      "text": "ketidakmampuan Pemohon dalam memitigasi risiko hukum dan administrasi \ndalam menjalankan kegiatan usahanya. Dalam praktik penyelenggaraan haji \nkhusus, kepastian mengenai alokasi kuota merupakan aspek fundam ental \nyang berkaitan erat dengan aspek perizinan, kontraktual dengan calon \njamaah, serta kepatuhan terhadap regulasi yang berlaku. Ketika norma yang \nmengatur proporsi kuota haji tambahan tidak memberikan kejelasa n, maka \nPemohon dihadapkan pada dilema hukum yang serius. Di satu sisi,  apabila",
+      "start_line": 481,
+      "end_line": 487
+    },
+    {
+      "heading": "di kemudian hari pemerintah menetapkan proporsi kuota haji khus us yang",
+      "slug": "di-kemudian-hari-pemerintah-menetapkan-proporsi-kuota-haji-khus-us-yang",
+      "text": "lebih besar dari 8% dalam kuota tambahan, maka secara bisnis hal tersebut \nmerupakan peluang yang menguntungkan dan patut untuk dimanfaatk an. \nNamun di sisi lain, Pemohon menghadapi risiko bahwa partisipasinya dalam \nmemanfaatkan kuota tersebut justru dapat ditafsirkan sebagai tindakan yang \nbertentangan dengan hukum di kemudian hari;",
+      "start_line": 489,
+      "end_line": 493
+    },
+    {
+      "heading": "33. Bahwa dalam kondisi demikian, Pemohon tidak memiliki dasar hukum yang",
+      "slug": "33-bahwa-dalam-kondisi-demikian-pemohon-tidak-memiliki-dasar-hukum-yang",
+      "text": "pasti untuk menentukan apakah akan mengambil peluang tersebut a tau \njustru menghindarinya demi mengurangi risiko hukum. Apabila Pem ohon \nmemilih untuk mengambil kuota dengan proporsi yang lebih besar,  terdapat \npotensi Pemohon akan terseret dalam persoalan hukum akibat perb edaan \n\n \n \n \n14\ninterpretasi norma. Sebaliknya, apabila Pemohon memilih untuk t idak \nmengambil peluang tersebut, maka Pemohon secara nyata kehilanga n \nkesempatan usaha;",
+      "start_line": 495,
+      "end_line": 506
+    },
+    {
+      "heading": "34. Bahwa oleh karena itu, ketidakjelasan frasa “sesuai dengan proporsinya”",
+      "slug": "34-bahwa-oleh-karena-itu-ketidakjelasan-frasa-sesuai-dengan-proporsinya",
+      "text": "tidak hanya menimbulkan ketidakpastian dalam tataran normatif, tetapi juga \nsecara langsung menciptakan risiko hukum dan administratif yang  tidak \ndapat dimitigasi secara wajar oleh Pemohon sebagai pelaku usaha. Dengan \ndemikian, terdapat hubungan sebab-akibat yang nyata dan logis a ntara \nberlakunya norma pasal a quo dengan kerugian konstitusional yang dialami \nPemohon. Ketidakjelasan norma tersebut menjadi sebab langsung y ang \nmenghambat kemampuan Pemohon dalam merencanakan usaha, sekaligus \nmenciptakan ketidakpastian hukum yang menempatkan Pemohon dalam  \nposisi rentan terhadap potensi kerugian ekonomi maupun risiko h ukum di \nmasa yang akan datang;",
+      "start_line": 508,
+      "end_line": 517
+    },
+    {
+      "heading": "35. Bahwa Pemohon sungguh takut, ketidakpastian hukum dari pasa l a quo",
+      "slug": "35-bahwa-pemohon-sungguh-takut-ketidakpastian-hukum-dari-pasa-l-a-quo",
+      "text": "dapat berujung pada penegakan hukum terhadap Pemohon di kemudia n \nhari. Tentu akibat tidak jelasnya norma, ketika Pemohon telah m enjadi \npenyelenggara ibadah haji khusus, Pemohon tidak ingin menjadi bagian dari \npihak-pihak yang tidak tertutup kemungkinan dapat turut terseret atau dijerat \nsecara hukum sebagaimana pernah terjadi sebelumnya dalam prakti k \npembagian kuota tambahan;",
+      "start_line": 519,
+      "end_line": 524
+    },
+    {
+      "heading": "36. Bahwa kelima, untuk menjelaskan adanya kemungkinan dengan",
+      "slug": "36-bahwa-kelima-untuk-menjelaskan-adanya-kemungkinan-dengan",
+      "text": "dikabulkannya permohonan, maka kerugian hak konstitusional yang  \ndidalilkan tidak akan lagi terjadi sebagaimana dimaksud pada Pa sal 4 ayat \n(2) PMK 7/2025, maka perlu dijelaskan bahwa apabila frasa “sesuai dengan \nproporsinya” dimaknai secara tegas sebagai proporsi yang mengac u pada \nkeputusan Menteri yang telah dibahas bersama DPR sebagai repres entasi \nrakyat, maka kerugian yang didalilkan Pemohon dipastikan tidak akan terjadi. \nProporsi pembagian kuota tambahan akan memperoleh legitimasi \ninstitusional yang jelas, karena ditetapkan melalui mekanisme konstitusional \nyang melibatkan cabang kekuasaan eksekutif dan legislatif. Dengan adanya \nrujukan yang eksplisit tersebut, tidak lagi terdapat ambiguitas  mengenai \ndasar penentuan proporsi; \n\n \n \n \n15",
+      "start_line": 526,
+      "end_line": 541
+    },
+    {
+      "heading": "37. Bahwa pemaknaan demikian akan menciptakan kepastian hukum k arena",
+      "slug": "37-bahwa-pemaknaan-demikian-akan-menciptakan-kepastian-hukum-k-arena",
+      "text": "setiap pembagian kuota tambahan memiliki landasan keputusan yan g \nformal, transparan, dan dapat ditelusuri dasar pertimbangannya.  B a g i  \nPemohon, kejelasan ini memberikan jaminan bahwa keterlibatannya  dalam \npenyelenggaraan haji khusus berjalan dalam koridor kebijakan negara yang \nsah dan terlegitimasi;",
+      "start_line": 543,
+      "end_line": 547
+    },
+    {
+      "heading": "38. Bahwa dengan demikian, apabila Mahkamah menafsirkan frasa a quo",
+      "slug": "38-bahwa-dengan-demikian-apabila-mahkamah-menafsirkan-frasa-a-quo",
+      "text": "merujuk pada keputusan diskresi Menteri yang telah dibahas deng an DPR, \nmaka ketidakpastian hukum yang dikhawatirkan Pemohon tidak lagi  terjadi. \nPemohon tidak perlu berada dalam situasi kekhawatiran atau ketakutan akan \nrisiko kriminalisasi di kemudian hari, karena setiap tindakan d an \npartisipasinya dalam penyelenggaraan haji khusus bertumpu pada \nkeputusan yang memiliki dasar hukum yang jelas dan mekanisme \npengawasan politik yang sah;",
+      "start_line": 549,
+      "end_line": 555
+    },
+    {
+      "heading": "39. Bahwa berdasarkan seluruh uraian dalil kerugian konstitusio nal di atas,",
+      "slug": "39-bahwa-berdasarkan-seluruh-uraian-dalil-kerugian-konstitusio-nal-di-atas",
+      "text": "Pemohon mempunyai kedudukan hukum untuk bertindak sebagai Pemohon \ndalam pengujian materiil Pasal 9 ayat (3) UU 14/2025 terhadap U UD NRI \n1945; \nC. Alasan-Alasan Permohonan \nPasal a quo sepanjang frasa “sesuai dengan proporsinya” bertentangan dengan \nPasal 28D ayat (1) UUD NRI 1945 karena tidak menjamin kepastian hukum yang \nadil",
+      "start_line": 557,
+      "end_line": 563
+    },
+    {
+      "heading": "1. Bahwa Pasal 28D ayat (1) UUD NRI 1945 menegaskan: “Setiap or ang",
+      "slug": "1-bahwa-pasal-28d-ayat-1-uud-nri-1945-menegaskan-setiap-or-ang",
+      "text": "berhak atas pengakuan, jaminan, perlindungan, dan kepastian huk um yang \nadil serta perlakuan yang sama di hadapan hukum.” Ketentuan nor ma \nkonstitusional tersebut setidak-tidaknya mengandung dua dimensi  \nfundamental, yakni dimensi kepastian hukum ( legal certainty) dan dimensi \nkeadilan ( justice), yang tidak dapat dipisahkan satu sama lain dalam \nkerangka negara hukum;",
+      "start_line": 565,
+      "end_line": 570
+    },
+    {
+      "heading": "2. Bahwa secara filosofis, prinsip kepastian hukum merupakan el emen esensial",
+      "slug": "2-bahwa-secara-filosofis-prinsip-kepastian-hukum-merupakan-el-emen-esensial",
+      "text": "dari konsep negara hukum (rechtstaat) yang dianut Indonesia sebagaimana \nditegaskan dalam Pasal 1 ayat (3) UUD NRI 1945. Dalam negara hu kum, \nhukum harus dapat dipahami, diprediksi, dan dijadikan pedoman p erilaku \noleh setiap subjek hukum. Hukum tidak boleh bersifat kabur ( vague), \n\n \n \n \n16\nmultitafsir, atau membuka ruang ketidakjelasan yang berlebih, k arena hal \ndemikian akan menempatkan warga negara dalam situasi ketidakpas tian \nnormatif. Kepastian hukum memberikan jaminan bahwa tindakan pemerintah \ndan warga negara sama-sama tunduk pada norma yang jelas, rasional, dan \ndapat dipertanggungjawabkan satu sama lain;",
+      "start_line": 572,
+      "end_line": 585
+    },
+    {
+      "heading": "3. Bahwa kendati demikian, kepastian hukum dalam desaian konsti tusi UUD",
+      "slug": "3-bahwa-kendati-demikian-kepastian-hukum-dalam-desaian-konsti-tusi-uud",
+      "text": "NRI 1945 bukanlah bentuk kepastian yang bersifat kaku atau form alistik. \nPasal 28D ayat (1) secara eksplisit mengaitkan kepastian hukum dengan \nsifat “yang adil”. Ini menegaskan bahwa kepastian hukum yang di maksud \nbukan sekadar keberadaan norma tertulis, melainkan norma yang \ndirumuskan secara jelas, tidak ambigu, dan tidak menimbulkan ketidakadilan \ndalam penerapannya. Kepastian tanpa keadilan berpotensi melahir kan \nkesewenang-wenangan yang dilegalkan, sedangkan keadilan tanpa \nkepastian akan menimbulkan ketidakstabilan hukum. Oleh karena i tu, \nkonstitusi mensyaratkan integrasi antara keduanya;",
+      "start_line": 587,
+      "end_line": 595
+    },
+    {
+      "heading": "4. Bahwa selain itu, prinsip kepastian hukum yang adil menuntut agar setiap",
+      "slug": "4-bahwa-selain-itu-prinsip-kepastian-hukum-yang-adil-menuntut-agar-setiap",
+      "text": "peraturan perundang-undangan memenuhi asas kejelasan rumusan ( lex \ncerta) dan tidak menimbulkan multitafsir yang berimplikasi pada \nketidakpastian hak dan kewajiban subjek hukum. Norma yang kabur  at au \nmembuka ruang penafsiran yang tidak terukur berpotensi melangga r hak \nkonstitusional warga negara, karena subjek hukum tidak dapat me ngetahui \nsecara pasti batasan hak dan kewajibannya. Dalam konteks demiki an, \nketidakjelasan norma bukan hanya persoalan teknis legislasi, me lainkan \npersoalan konstitusional karena menyentuh jaminan hak dasar ata s \nkepastian hukum yang adil;",
+      "start_line": 597,
+      "end_line": 605
+    },
+    {
+      "heading": "5. Bahwa hal ini berkelindan langsung dengan prinsip predictability of law, yaitu",
+      "slug": "5-bahwa-hal-ini-berkelindan-langsung-dengan-prinsip-predictability-of-law-yaitu",
+      "text": "kemampuan hukum untuk diprediksi akibat dan konsekuensinya. Set iap \norang, termasuk badan hukum privat, harus dapat memperkirakan s ecara \nrasional konsekuensi hukum dari tindakannya berdasarkan norma y ang \nberlaku. Apabila suatu norma dirumuskan secara tidak tegas sehi ngga \nmembuka kemungkinan perubahan tafsir atau penerapan yang tidak \nkonsisten, maka hak atas kepastian hukum yang adil menjadi terc ederai. \nDalam konstruksi yang demikian, Pasal 28D ayat (1) UUD NRI 1945  \nmengandung kewajiban konstitusional bagi pembentuk undang-undan g \n\n \n \n \n17\nuntuk merumuskan norma secara jelas, tegas, dan tidak ambigu, s erta \nmenjamin bahwa penerapannya tidak menimbulkan ketidakpastian ya ng \nmerugikan subjek hukum. Setiap norma yang tidak memenuhi standa r \ntersebut berpotensi bertentangan dengan prinsip kepastian hukum yang adil \nsebagaimana dijamin oleh konstitusi;",
+      "start_line": 607,
+      "end_line": 624
+    },
+    {
+      "heading": "6. Bahwa apabila prinsip kepastian hukum yang adil sebagaimana dimaksud",
+      "slug": "6-bahwa-apabila-prinsip-kepastian-hukum-yang-adil-sebagaimana-dimaksud",
+      "text": "dalam Pasal 28D ayat (1) UUD NRI 1945 dihubungkan dengan ketent uan \npasal yang diujikan konstitusionalitasnya, maka frasa “sesuai d engan \nproporsinya” dalam Pasal a quo justru menimbulkan problem konstitusional \nkarena tidak memberikan kejelasan mengenai mekanisme proporsi y ang \ndimaksud. Sebelum menguraikan titik persoalan konstitusionalita snya, \npenting terlebih dahulu diuraikan beberapa hal berikut ini;",
+      "start_line": 626,
+      "end_line": 631
+    },
+    {
+      "heading": "7. Bahwa hakikat adanya kuota haji tambahan dari Pemerintah Ara b Saudi",
+      "slug": "7-bahwa-hakikat-adanya-kuota-haji-tambahan-dari-pemerintah-ara-b-saudi",
+      "text": "pada dasarnya merupakan konsekuensi dari sifat penyelenggaraan ibadah \nhaji yang berskala global dan berbasis kuota nasional, di mana setiap \nnegara, termasuk Indonesia, memperoleh alokasi jamaah berdasark an \nkebijakan otoritas Arab Saudi. Dalam konteks Indonesia sebagai negara \ndengan jumlah penduduk muslim terbesar di dunia, permintaan ter hadap \npelaksanaan ibadah haji jauh melampaui kuota reguler yang ditet apkan \nsetiap tahunnya. Hal ini menyebabkan terjadinya antrean ( waiting list) yang \nsangat panjang, bahkan di beberapa daerah dapat mencapai puluhan tahun. \nOleh karena itu, pemberian kuota haji tambahan oleh Pemerintah Arab Saudi \nsejatinya memiliki fungsi strategis sebagai instrumen untuk men gurangi \nbacklog atau penumpukan antrean jamaah haji yang terus meningka t dari \ntahun ke tahun.",
+      "start_line": 633,
+      "end_line": 644
+    },
+    {
+      "heading": "8. Bahwa secara konseptual, kuota haji tambahan tidak bersifat tetap maupun",
+      "slug": "8-bahwa-secara-konseptual-kuota-haji-tambahan-tidak-bersifat-tetap-maupun",
+      "text": "terjadwal, melainkan bersifat kontingensi yang diberikan berdas arkan \nkebijakan dan pertimbangan tertentu dari Pemerintah Arab Saudi,  seperti \nkapasitas layanan di Tanah Suci, kesiapan infrastruktur, serta situasi global. \nDalam perspektif kebijakan publik nasional, keberadaan kuota tambahan ini \nseharusnya dimanfaatkan secara optimal untuk mempercepat \npemberangkatan jamaah yang telah lama menunggu, sehingga dapat \nmeningkatkan aksesibilitas dan keadilan dalam penyelenggaraan i badah \nhaji. Dengan demikian, kuota tambahan bukan sekadar “bonus administratif”, \n\n \n \n \n18\nmelainkan merupakan bagian dari mekanisme korektif terhadap \nketimpangan antara tingginya permintaan dan terbatasnya kuota reguler;",
+      "start_line": 646,
+      "end_line": 660
+    },
+    {
+      "heading": "9. Bahwa lebih jauh, dalam kerangka negara hukum dan pelayanan publik,",
+      "slug": "9-bahwa-lebih-jauh-dalam-kerangka-negara-hukum-dan-pelayanan-publik",
+      "text": "keberadaan kuota haji tambahan juga berkaitan erat dengan kewaj iban \nnegara untuk menjamin hak warga negara dalam menjalankan ibadah , \nsebagaimana dilindungi oleh konstitusi. Antrean yang terlalu pa njang \nberpotensi menimbulkan ketidakpastian bahkan ketidakadilan, terutama bagi \ncalon jamaah yang secara usia atau kondisi kesehatan memiliki \nketerbatasan waktu. Oleh karena itu, distribusi kuota tambahan harus \ndikelola dengan prinsip transparansi, akuntabilitas, dan kepast ian hukum, \nagar benar-benar berfungsi sebagai solusi terhadap panjangnya a ntrean, \nbukan justru menimbulkan persoalan baru dalam bentuk ketidakjel asan \nkebijakan atau potensi penyimpangan;",
+      "start_line": 662,
+      "end_line": 671
+    },
+    {
+      "heading": "10. Bahwa oleh karena itu, dalam kerangka pengaturan kuota haji tambahan",
+      "slug": "10-bahwa-oleh-karena-itu-dalam-kerangka-pengaturan-kuota-haji-tambahan",
+      "text": "yang bersifat dinamis dan kontingensi, pembentuk undang-undang melalui \nPasal 9 ayat (1) dan ayat (2) UU 14/2025 secara sadar mengatrib usikan \nkewenangan kepada Menteri untuk menetapkan pembagian kuota haji  \ntambahan. Atribusi kewenangan tersebut tidak diberikan secara a bsolut, \nmelainkan dibatasi dan dikendalikan melalui mekanisme pembahasa n \nbersama Dewan Perwakilan Rakyat sebagai representasi kedaulatan rakyat. \nKonstruksi demikian menunjukkan bahwa pembagian kuota haji tamb ahan \ntidak dimaksudkan untuk mengikuti pola yang bersifat statis ata u otomatis, \nmelainkan merupakan hasil dari suatu proses kebijakan yang \nmempertimbangkan kondisi faktual, kebutuhan jamaah, serta kepen tingan \nnasional secara menyeluruh;",
+      "start_line": 673,
+      "end_line": 683
+    },
+    {
+      "heading": "11. Bahwa atribusi kewenangan kepada Menteri yang disertai deng an",
+      "slug": "11-bahwa-atribusi-kewenangan-kepada-menteri-yang-disertai-deng-an",
+      "text": "keharusan pembahasan bersama DPR mencerminkan adanya mekanisme \nchecks and balances  dalam pengambilan kebijakan publik yang strategis. \nHal ini sekaligus menegaskan bahwa penentuan proporsi kuota haj i \ntambahan merupakan domain kebijakan ( policy discretion ) yang bersifat \nadaptif terhadap situasi konkret, bukan sekadar implementasi te knis dari \nnorma yang telah ditentukan secara rigid. Dengan demikian, kebe radaan \nPasal 9 ayat (1) dan ayat (2) tersebut secara sistematis menunjukkan bahwa \npembentuk undang-undang menghendaki adanya fleksibilitas dalam \n\n \n \n \n19\npenentuan proporsi kuota haji tambahan, sepanjang tetap berada dalam \nkoridor legitimasi konstitusional melalui pembahasan dengan DPR;",
+      "start_line": 685,
+      "end_line": 699
+    },
+    {
+      "heading": "12. Bahwa lebih lanjut, pengaturan demikian juga mengandung mak na bahwa",
+      "slug": "12-bahwa-lebih-lanjut-pengaturan-demikian-juga-mengandung-mak-na-bahwa",
+      "text": "setiap penetapan proporsi kuota haji tambahan harus memiliki da sar \npertimbangan yang rasional, transparan, dan dapat dipertanggungjawabkan \nsecara politik maupun hukum. Dengan kata lain, atribusi kewenan gan \nkepada Menteri bukanlah bentuk delegasi yang tanpa batas, melai nkan \nkewenangan yang dilekatkan dengan tanggung jawab konstitusional  untuk \nmemastikan bahwa pembagian kuota haji tambahan benar-benar digunakan \nsebagai instrumen untuk menjawab persoalan antrean haji dan \nmeningkatkan keadilan distribusi jamaah. Oleh karena itu, secara sistematis \ndan teleologis, Pasal 9 ayat (1) dan ayat (2) menegaskan bahwa proporsi \nkuota haji tambahan merupakan hasil dari keputusan kebijakan ya ng \nditetapkan melalui mekanisme institusional antara eksekutif dan  legislatif, \nbukan ditentukan secara otomatis oleh formula tertentu yang bersifat tetap;",
+      "start_line": 701,
+      "end_line": 712
+    },
+    {
+      "heading": "13. Bahwa terlebih, Mahkamah dalam Putusan Nomor 237/PUU-XXIII/2025 juga",
+      "slug": "13-bahwa-terlebih-mahkamah-dalam-putusan-nomor-237-puu-xxiii-2025-juga",
+      "text": "menegaskan tentang atribusi kewenangan penentuan kuota haji tam bahan \nyang terbatas dan harus dipertanggungjawabkan secara rasional d an \nkonstitusional: \n“Frasa “sesuai dengan proporsinya”, menurut Mahkamah mengandung \nmakna normatif yang tegas bahwa distribusi kuota tambahan harus  \ndilakukan secara adil berdasarkan komposisi yang dapat \ndipertanggungjawabkan dengan tetap memperhatikan proporsi yang \ndiatur dalam undang-undang, bukan secara sewenang-wenang, \napalagi dialihkan untuk menguntungkan salah satu jenis \npenyelenggaraan haji. Oleh karena itu, kuota tambahan menurut \nMahkamah tidak boleh dipermainkan, dimanipulasi, atau didistribusikan \nsecara tidak bertanggung jawab, termasuk tidak boleh dijadikan objek \nyang bersifat transaksional atau sarana memperjualbelikan akses  \nkeberangkatan haji yang menguntungkan pihak tertentu yang \nmerugikan calon jemaah haji reguler. Sebab, hal tersebut jelas \nbertentangan dengan desain pengaturan UU 14/2025 yang \nmengedepankan prinsip transparansi, proporsionalitas, dan \nberkeadilan dalam pembagian kuota haji reguler. Selain itu, nor ma \n\n \n \n \n20\nPasal 9 ayat (2) UU 14/2025 juga secara tegas telah memberikan batas \nwaktu terhadap penetapan kuota haji tambahan oleh menteri yang \nwajib dilakukan paling lambat 7 (tujuh) hari terhitung sejak me nteri \nmenerima penambahan kuota haji dari pemerintah Kerajaan Arab \nSaudi. Ketentuan batas waktu tersebut merupakan norma baru dala m \nUU 14/2025 yang tidak dapat dinilai sebagai aturan administratif biasa, \nmelainkan sebagai batas hukum yang bersifat imperatif untuk \nmenjamin kepastian hukum yang adil, kecepatan, dan akuntabilita s \ndalam pengelolaan kuota haji tambahan dengan mengutamakan \nkepentingan calon jemaah haji reguler. Apalagi, UU 14/2025 juga telah \nmenentukan bahwa yang dimaksud dengan “Hari” adalah hari kalender \n[vide Pasal 1 angka 29 UU 14/2025], sehingga tenggang waktu tersebut \nharus dihitung secara nyata, pasti, dan tidak dapat diperluas s ecara \nsewenang-wenang melalui penundaan administratif. Konstruksi hukum \ndemikian mengandung makna, bahwa sejak tambahan kuota diterima,  \nmenteri tidak dibenarkan menunda-nunda penetapannya tanpa dasar  \nyang sah, karena penundaan demikian justru akan membuka ruang \nketidakpastian bagi calon jemaah haji reguler, mengganggu prose s \npengisian kuota, dan berpotensi menciptakan celah penyalahgunaa n \nkewenangan. Bahkan, dalam Penjelasan Pasal 9 ayat (1) UU 14/202 5 \ndinyatakan bahwa pembahasan dengan DPR dapat dilakukan secara \nluring dan/atau daring. Adanya batas waktu yang ditetapkan dalam UU \n14/2025 menimbulkan konsekuensi bahwa pembahasan dapat \ndilakukan meskipun DPR tidak dalam masa bersidang. Hal ini \nmenunjukkan bahwa UU 14/2025 sejak awal telah mengantisipasi \nkebutuhan percepatan, sehingga tidak ada alasan untuk menunda \npenetapan melampaui batas waktu yang telah ditentukan. Oleh seb ab \nitu, pembatasan waktu tersebut harus dipahami sebagai instrumen  \nhukum untuk menutup peluang permainan kuota, baik melalui \npengaturan tertutup, pengutamaan pihak tertentu, maupun pencipt aan \nruang tawar-menawar yang tidak sah atas kuota haji tambahan. Ol eh \nkarena itu, menteri yang khusus diberi kewenangan urusan haji d an \numrah perlu menyusun langkah antisipatif sejak dini dalam beber apa \nskenario kemungkinan yang memuat perencanaan ibadah haji regule r \n\n \n \n \n21\ndengan berlandaskan asas-asas umum penyelenggaraan haji yang \nbaik, misalnya antisipasi perencanaan penyediaan akomodasi, \ntransportasi, konsumsi dan kesehatan, termasuk penetapan pagu biaya \npenyelenggaraan ibadah haji (BPIH) dan penetapan petugas \npenyelenggara ibadah haji (PPIH) [vide Pasal 11 UU 14/2025]. Dengan \ndemikian, diterapkannya Pasal 9 UU 14/2025 dan ketentuan terkai t \ndengan kuota haji tambahan, menurut Mahkamah, merupakan \nmekanisme pencegahan fraud atau yang bersifat koruptif dan \npenyalahgunaan kewenangan karena telah menentukan forum \npembahasan, prinsip distribusi, kewajiban keterbukaan, dan jang ka \nwaktu penetapan yang dapat mencegah terjadinya penyimpangan \ndalam penyelenggaraan ibadah haji dan umrah. Dengan kata lain, \nketentuan kuota haji tambahan merupakan rangkaian pengaturan yang \nharus cepat dan tepat dilaksanakan dengan tetap diawasi, agar t ujuan \ndiberikannya kuota haji tambahan tidak berubah menjadi objek diskresi \nyang tidak bertanggung jawab sehingga melanggar prinsip \ntransparansi, proporsionalitas, dan keadilan dalam pembagian ku ota \nhaji reguler”.",
+      "start_line": 714,
+      "end_line": 793
+    },
+    {
+      "heading": "14. Bahwa Pemohon sependapat dengan pandangan Mahkamah yang",
+      "slug": "14-bahwa-pemohon-sependapat-dengan-pandangan-mahkamah-yang",
+      "text": "menegaskan bahwa pelaksanaan diskresi Menteri dalam menentukan \nproporsi pembagian kuota haji tambahan harus senantiasa berland askan \npada prinsip transparansi, proporsionalitas, dan keadilan masa tunggu bagi \ncalon jamaah haji, sehingga setiap kebijakan yang diambil tidak  h a n y a  \nmemiliki legitimasi hukum, tetapi juga dapat dipertanggungjawabkan secara \nmoral dan administratif. Prinsip-prinsip tersebut menjadi sanga t penting \nuntuk memastikan bahwa kuota haji tambahan benar-benar dimanfaa tkan \nsebagai instrumen untuk mengurangi antrean secara adil dan terukur, bukan \njustru membuka ruang penyimpangan. Terlebih lagi, tanpa pengatu ran dan \npelaksanaan yang transparan dan akuntabel, diskresi tersebut be rpotensi \ndisalahgunakan menjadi ladang koruptif, termasuk praktik \nmemperjualbelikan kuota haji yang pada akhirnya merugikan masya rakat \nluas dan mencederai tujuan utama penyelenggaraan ibadah haji se bagai \npelayanan publik yang berkeadilan; \n\n \n \n \n22",
+      "start_line": 795,
+      "end_line": 813
+    },
+    {
+      "heading": "15. Bahwa kendati Pemohon sependapat dengan Mahkamah mengenai",
+      "slug": "15-bahwa-kendati-pemohon-sependapat-dengan-mahkamah-mengenai",
+      "text": "pentingnya pelaksanaan diskresi Menteri yang berlandaskan prins ip \ntransparansi, proporsionalitas, dan keadilan, namun hal tersebut sama sekali \ntidak menghilangkan persoalan konstitusional yang menjadi pokok  \npermohonan a quo. Permasalahan mendasarnya terletak pada frasa “sesuai \ndengan proporsinya” dalam Pasal 9 ayat (3) yang secara tekstual  dan \nsistematis justru menimbulkan kesan adanya rujukan pada suatu p roporsi \nyang bersifat statis dan telah ditentukan sebelumnya. Dalam pra ktik \npenafsiran yang wajar, frasa tersebut dengan mudah dapat dimakn ai \nsebagai merujuk pada proporsi pembagian kuota haji pokok yang telah baku, \nyaitu 92% untuk haji reguler dan 8% untuk haji khusus. Padahal,  secara \nkonseptual dan teleologis, kuota haji tambahan berada dalam rez im yang \nberbeda, yakni rezim yang bersifat dinamis, kontingensi, dan ad aptif \nterhadap kondisi faktual, sehingga tidak semestinya terikat pad a formula \nproporsi yang bersifat tetap;",
+      "start_line": 815,
+      "end_line": 828
+    },
+    {
+      "heading": "16. Bahwa ketegangan antara sifat dinamis kuota haji tambahan d engan frasa",
+      "slug": "16-bahwa-ketegangan-antara-sifat-dinamis-kuota-haji-tambahan-d-engan-frasa",
+      "text": "yang terkesan statis tersebut pada akhirnya melahirkan ambiguitas normatif \nyang nyata dalam praktik. Hal ini terbukti secara konkret dalam  penegakan \nhukum, di mana Komisi Pemberantasan Korupsi (KPK) secara ekspli sit \nmenjadikan proporsi pembagian kuota haji pokok, yakni 92% dan 8 %, \nsebagai rujukan untuk menilai pembagian kuota haji tambahan. Fa kta \ntersebut menunjukkan bahwa frasa “sesuai dengan proporsinya” te lah \nditafsirkan sebagai kewajiban mengikuti proporsi baku yang berl aku \nsebelumnya, meskipun norma tidak secara tegas menyatakannya. \nAkibatnya, norma a quo  tidak hanya menimbulkan ketidakpastian hukum \ndalam tataran teoritis, tetapi juga telah menghasilkan praktik penerapan \nhukum yang mengunci fleksibilitas kebijakan dan berpotensi meni mbulkan \nkonsekuensi hukum bagi pihak-pihak yang justru menjalankan disk resi \ndalam kerangka kewenangan yang diberikan undang-undang; \n\n \n \n \n23",
+      "start_line": 830,
+      "end_line": 848
+    },
+    {
+      "heading": "17. Bahwa dalam konteks a quo , menjadi krusial untuk memberikan jawaban",
+      "slug": "17-bahwa-dalam-konteks-a-quo-menjadi-krusial-untuk-memberikan-jawaban",
+      "text": "konstitusional mengenai bagaimana seharusnya frasa “sesuai deng an \nproporsinya” ditafsirkan agar tidak menimbulkan ketidakpastian hukum. \nSecara gramatikal, penggunaan kata “proporsi” yang diikuti deng an akhiran \n“-nya” mengandung makna referensial, yakni menunjuk pada suatu proporsi \ntertentu yang telah ada, telah diketahui, dan telah ditentukan sebelumnya. \nDengan demikian, frasa tersebut secara linguistik cenderung dip ahami \nsebagai merujuk pada proporsi yang bersifat baku ( fixed proportion), bukan \nproporsi yang ditentukan secara dinamis berdasarkan kebutuhan f aktual. \nInilah yang kemudian menjadi sumber persoalan, karena dalam kon teks \nkuota haji tambahan yang secara inheren berada dalam rezim kebi jakan \nyang fleksibel dan kontingensi, penggunaan frasa tersebut justr u \nmenciptakan kesan adanya pengikatan pada formula proporsi yang telah \nberlaku sebelumnya, yakni 92% untuk haji reguler dan 8% untuk haji khusus;",
+      "start_line": 850,
+      "end_line": 862
+    },
+    {
+      "heading": "18. Bahwa padahal, secara sistematis dan teleologis, pembentuk undang-",
+      "slug": "18-bahwa-padahal-secara-sistematis-dan-teleologis-pembentuk-undang",
+      "text": "undang melalui Pasal 9 ayat (1) dan ayat (2) telah secara tegas menghendaki \nadanya ruang kewenangan bagi Menteri untuk menetapkan proporsi kuota \nhaji tambahan berdasarkan hasil pembahasan dengan DPR. Oleh karena itu, \napabila frasa “sesuai dengan proporsinya” tetap dimaknai sebaga i merujuk \npada proporsi baku yang telah ada sebelumnya, maka hal tersebut  t i d a k  \nhanya mengabaikan konstruksi sistematis undang-undang, tetapi j uga \nmeniadakan makna atribusi kewenangan yang telah diberikan. Dala m titik \ninilah diperlukan penafsiran konstitusional (constitutional interpretation) yang \n\n\n \n \n \n24\nbersifat korektif, yakni dengan memaknai frasa tersebut bukan s ebagai \nproporsi yang telah ditentukan sebelumnya, melainkan sebagai pr oporsi \nyang ditetapkan secara sah melalui mekanisme keputusan Menteri setelah \npembahasan dengan DPR. Dengan penafsiran demikian, frasa “proporsinya” \ntidak lagi menunjuk pada angka yang statis, melainkan pada prop orsi yang \nmemperoleh legitimasi institusional dalam setiap penetapannya, sehingga \ntetap menjaga fleksibilitas kebijakan sekaligus menjamin kepast ian hukum \nyang adil;",
+      "start_line": 864,
+      "end_line": 885
+    },
+    {
+      "heading": "19. Bahwa jika hal ini dibiarkan, maka pemaknaan terhadap frasa “ s e s u a i",
+      "slug": "19-bahwa-jika-hal-ini-dibiarkan-maka-pemaknaan-terhadap-frasa-s-e-s-u-a-i",
+      "text": "dengan proporsinya” akan terus simpang siur untuk dimaknai oleh  \nmasyarakat, terlebih bagi Pemohon yang merupakan penyelenggara haji. \nAkibatnya, apabila frasa “sesuai dengan proporsinya” dimaknai s ebagai \nmerujuk pada proporsi pembagian kuota haji pokok sebagaimana di atur \ndalam Pasal 64 ayat (2), maka secara sistematis menjadi tidak s elaras \ndengan Pasal 9 ayat (1) yang justru mengatribusikan kewenangan kepada \nMenteri untuk menetapkan pembagian kuota haji tambahan melalui \nmekanisme pembahasan dengan DPR. Jika proporsinya telah “ditent ukan” \nmengikuti skema kuota pokok, maka atribusi kewenangan diskresi tersebut \nmenjadi tidak relevan, karena Menteri pada dasarnya hanya tingg al \nmengikuti formula yang sudah baku. Dengan demikian, konstruksi norma \nmenjadi tidak konsisten secara inheren dengan konstruksi normat if yang \nberlaku;",
+      "start_line": 887,
+      "end_line": 899
+    },
+    {
+      "heading": "20. Bahwa situasi ini pada gilirannya akan menimbulkan ambiguit as normatif",
+      "slug": "20-bahwa-situasi-ini-pada-gilirannya-akan-menimbulkan-ambiguit-as-normatif",
+      "text": "yang berdampak langsung pada kepastian hukum yang adil. Jika pembagian \nkuota tambahan harus mengikuti Pasal 64 ayat (2), maka atribusi  \nkewenangan dalam Pasal 9 ayat (1) kehilangan makna substantifny a. \nAmbiguitas inilah yang menimbulkan ketidakpastian hukum, karena  subjek \nhukum tidak dapat memastikan proporsi seperti apa yang secara s ah dapat \ndijadikan acuan;",
+      "start_line": 901,
+      "end_line": 906
+    },
+    {
+      "heading": "21. Bahwa jika ditelusuri secara seksama, perubahan pengaturan dari Undang-",
+      "slug": "21-bahwa-jika-ditelusuri-secara-seksama-perubahan-pengaturan-dari-undang",
+      "text": "Undang Nomor 8 Tahun 2019 ke Undang-Undang Nomor 14 Tahun 2025 \npada dasarnya memang menunjukkan adanya upaya pembentuk undang-\nundang untuk memperkuat tata kelola kuota haji tambahan, khusus nya \nmelalui penambahan mekanisme pembahasan bersama DPR, penetapan \n\n \n \n \n25\nbatas waktu, serta pengaturan transparansi. Namun demikian, per ubahan \ntersebut ternyata tidak serta-merta menghilangkan persoalan men dasar \nterkait kepastian hukum dalam pembagian kuota haji tambahan. Ju stru \nsebaliknya, dengan ditambahkannya ketentuan Pasal 9 ayat (3) ya ng \nmemuat frasa “sesuai dengan proporsinya”, norma a quo menjadi semakin \nproblematik karena memperkenalkan variabel baru yang tidak memi liki \nrujukan normatif yang jelas. Jika pada rezim Undang-Undang Nomo r 8 \nTahun 2019 persoalan lebih terletak pada ketiadaan pengaturan r inci \nmengenai mekanisme pembagian kuota tambahan, maka dalam Undang-\nUndang Nomor 14 Tahun 2025 persoalan tersebut berkembang menjad i \nambiguitas normatif yang lebih kompleks, yakni terkait acuan pr oporsi yang \nharus digunakan dalam pembagian kuota haji tambahan;",
+      "start_line": 908,
+      "end_line": 928
+    },
+    {
+      "heading": "22. Bahwa frasa “sesuai dengan proporsinya” dalam Pasal 9 ayat (3) secara",
+      "slug": "22-bahwa-frasa-sesuai-dengan-proporsinya-dalam-pasal-9-ayat-3-secara",
+      "text": "inheren membuka ruang tafsir yang berlapis, karena tidak secara  eksplisit \nmenentukan apakah yang dimaksud proporsi tersebut merujuk pada \nkomposisi kuota haji pokok sebagaimana diatur dalam Pasal 64 (y aitu 92% \nuntuk reguler dan 8% untuk khusus), ataukah merujuk pada propor si yang \nditentukan secara dinamis melalui diskresi Menteri berdasarkan \npembahasan dengan DPR sebagaimana diatur dalam Pasal 9 ayat (1) . \nKondisi ini menciptakan situasi di mana satu norma mengandung l ebih dari \nsatu kemungkinan rujukan yang sama-sama rasional, sehingga tida k \nmemberikan pedoman yang pasti bagi subjek hukum dalam menentuka n \npembagian kuota. Alih-alih menyelesaikan kekosongan norma pada rezim \nsebelumnya, perubahan dalam Undang-Undang Nomor 14 Tahun 2025 \njustru memperluas spektrum ketidakpastian hukum dengan menghadi rkan \nkonflik penafsiran antara rezim proporsi yang bersifat statis d an rezim \nproporsi yang bersifat dinamis;",
+      "start_line": 930,
+      "end_line": 943
+    },
+    {
+      "heading": "23. Bahwa lebih jauh, keberadaan Pasal 64 akhirnya menjadi ruan g potensi",
+      "slug": "23-bahwa-lebih-jauh-keberadaan-pasal-64-akhirnya-menjadi-ruan-g-potensi",
+      "text": "terjadinya tarik-menarik penafsiran bagi frasa “sesuai dengan p roporsinya”. \nDalam praktik, hal ini dapat dengan mudah mendorong penggunaan proporsi \nkuota haji pokok sebagai acuan pembagian kuota tambahan, meskip un \nsecara sistematis kedua jenis kuota tersebut berada dalam rezim  yang \nberbeda. Akibatnya, norma Pasal 9 ayat (3) tidak hanya gagal me mberikan \nkepastian hukum, tetapi juga berpotensi menimbulkan ketidakpastian dalam \n\n \n \n \n26\npenerapan hukum, karena membuka kemungkinan adanya standar gand a \ndalam menentukan proporsi kuota haji tambahan; \nUU 8/2019 UU 14/2025 \nPasal 9  \n(1) Dalam hal terdapat penambahan kuota \nhaji Indonesia setelah Menteri \nmenetapkan kuota haji sebagaimana \ndimaksud dalam Pasal 8 ayat (2), Menteri \nmenetapkan kuota haji tambahan. \n(2) Ketentuan mengenai pengisian kuota \nhaji tambahan diatur dengan Peraturan \nMenteri.  \nPasal 9  \n(1) Dalam hal terdapat penambahan \nkuota haji Indonesia setelah Menteri \nmenetapkan kuota haji \nsebagaimana dimaksud dalam \npasal 8 ayat (2), Menteri membahas \npenambahan kuota haji bersama \ndengan DPR RI dan ditetapkan \nsebagai kuota haji tambahan. \n(2) Penetapan kuota haji tambahan \nsebagaimana dimaksud pada ayat \n(1) dilakukan oleh Menteri paling \nlambat 7 (tujuh) Hari terhitung sejak \nMenteri menerima penambahan \nkuota haji dari Pemerintah Kerajaan \nArab Saudi. \n(3) Pengisian kuota haji tambahan \nsebagaimana dimaksud pada ayat \n(1) diperuntukkan bagi kuota haji \nreguler dan haji khusus sesuai \ndengan proporsinya serta wajib \ndiinformasikan secara daring dan \nberkala. \n(4) Ketentuan lebih lanjut mengenai \ntata cara pengisian kuota haji \ntambahan sebagaimana dimaksud \npada ayat (1) sampai dengan ayat \n(3) diatur dalam Peraturan Menteri. \nPasal 64  \n(1) Menteri menetapkan kuota haji khusus \n(2) Kuota haji khusus ditetapkan sebesar 8% \n(delapan persen) dari kuota haji \nIndonesia. \n(3) Kuota haji khusus sebagaimana \ndimaksud pada ayat (2) terdiri atas kuota:\na. Jemaah Haji Khusus; dan \nb. petugas haji khusus. \n(4) Pengisian kuota haji khusus dilakukan \nberdasarkan urutan pendaftaran secara \nnasional. \n \nPasal 64  \n(1) Menteri menetapkan kouta haji \nkhusus \n(2) Kuota haji khusus ditetapkan 8% \n(delapan persen) dari kuota haji \nIndonesia \n(3) Kuota haji khusus sebgaimana \ndimaksud pada ayat 2 terdiri atas \nkuota: \na. Jamaah haji khusus; dan \nb. Petugas haji khusus. \n(4) Pengisian kuota haji khusus \ndilakukan secara \nbertanggungjawab sesuai urutan \npendaftaran secara nasional \n(5) Ketentuan lebih lanjut mengenai \npengisian kuota sebagaiamana \ndimaksud pada ayat 4 diatur dalam \nPeraturan Menteri.",
+      "start_line": 945,
+      "end_line": 1027
+    },
+    {
+      "heading": "24. Bahwa dari sana, menurut Pemohon, frasa “sesuai dengan prop orsinya”",
+      "slug": "24-bahwa-dari-sana-menurut-pemohon-frasa-sesuai-dengan-prop-orsinya",
+      "text": "dalam pasal a quo  gagal memenuhi standar kepastian hukum yang adil, \nkarena tidak secara tegas menentukan apakah proporsi pembagian kuota \nhaji tambahan harus identik dengan kuota pokok, sedangkan di satu sisi juga \ntidak menegaskan adanya ruang kewenangan penentuan proporsi \n\n \n \n \n27\npembagian melalui keputusan Menteri setelah melalui pembahasan dengan \nDPR. Ketidakjelasan tersebut menciptakan ruang tafsir yang berp otensi \nmerugikan hak konstitusional warga negara, dan pada akhirnya \nmenempatkan pelaku kebijakan maupun pihak yang terlibat dalam \npenyelenggaraan haji khusus, in casu Pemohon dalam situasi ketidakpastian \nhukum yang nyata;",
+      "start_line": 1029,
+      "end_line": 1043
+    },
+    {
+      "heading": "25. Bahwa selanjutnya, untuk menilai konstitusionalitas frasa “ sesuai dengan",
+      "slug": "25-bahwa-selanjutnya-untuk-menilai-konstitusionalitas-frasa-sesuai-dengan",
+      "text": "proporsinya” dalam pasal a quo, sejatinya juga tidak dapat dilepaskan dari \nstandar pembentukan peraturan perundang-undangan yang baik dan benar \nsebagaimana diatur dalam Undang-Undang Nomor 12 Tahun 2011 tent ang \nPembentukan Peraturan Perundang-undangan sebagaimana telah diub ah \nterakhir dengan Undang-Undang Nomor 13 Tahun 2022 (selanjutnya disebut \nUU 12/2011). Undang-undang tersebut merupakan instrumen normatif yang \nmenetapkan prinsip, asas, dan teknik perumusan agar setiap produk legislasi \nmemenuhi kualitas konstitusional;",
+      "start_line": 1045,
+      "end_line": 1052
+    },
+    {
+      "heading": "26. Bahwa Pasal 5 UU 12/2011 menyatakan bahwa dalam membentuk",
+      "slug": "26-bahwa-pasal-5-uu-12-2011-menyatakan-bahwa-dalam-membentuk",
+      "text": "peraturan perundang-undangan harus dilakukan berdasarkan asas \npembentukan peraturan perundang-undangan yang baik, yang melipu ti \nantara lain: \na. kejelasan tujuan; \nb. kesesuaian antara jenis, hierarki, dan materi muatan;",
+      "start_line": 1054,
+      "end_line": 1058
+    },
+    {
+      "heading": "d. kedayagunaan dan kehasilgunaan;",
+      "slug": "d-kedayagunaan-dan-kehasilgunaan",
+      "text": "e. kejelasan rumusan; dan \nf. keterbukaan.",
+      "start_line": 1061,
+      "end_line": 1062
+    },
+    {
+      "heading": "27. Bahwa secara khusus, Pasal 5 huruf f menegaskan berlakunya asas",
+      "slug": "27-bahwa-secara-khusus-pasal-5-huruf-f-menegaskan-berlakunya-asas",
+      "text": "“kejelasan rumusan”, yang menghendaki agar setiap norma memenuh i \npersyaratan teknis penyusunan, s istematika, pilihan kata atau i stilah, serta \nbahasa hukum yang jelas dan tidak menimbulkan multitafsir. Dalam konteks \nini, frasa “sesuai dengan proporsinya” dalam pasal a quo tidak memenuhi \nasas dimaksud karena: \na. tidak menjelaskan proporsi yang dimaksud merujuk pada norma mana; \nb. tidak memberikan rujukan eksplisit apakah proporsi tersebut identik \ndengan pembagian kuota pokok dalam Pasal 64 ayat (2); \n\n \n \n \n28",
+      "start_line": 1064,
+      "end_line": 1076
+    },
+    {
+      "heading": "c. tidak menegaskan apakah proporsi dimaksud merupakan hasil",
+      "slug": "c-tidak-menegaskan-apakah-proporsi-dimaksud-merupakan-hasil",
+      "text": "keputusan Menteri berdasarkan Pasal 9 ayat (1).",
+      "start_line": 1078,
+      "end_line": 1078
+    },
+    {
+      "heading": "28. Bahwa akibatnya, norma tersebut membuka ruang interpretasi ganda:",
+      "slug": "28-bahwa-akibatnya-norma-tersebut-membuka-ruang-interpretasi-ganda",
+      "text": "(1) proporsi statis mengikuti kuota pokok; atau (2) proporsi di namis \nberdasarkan kebijakan hasil pembahasan Menteri dan DPR. Keadaan  \ndemikian secara teknis legislasi menunjukkan cacat perumusan ( legislative \ndefect), karena suatu norma yang memuat konsekuensi hukum penting \nseharusnya dirumuskan secara eksplisit dan tidak menyisakan ambiguitas;",
+      "start_line": 1080,
+      "end_line": 1084
+    },
+    {
+      "heading": "29. Bahwa selain itu, Pasal 6 ayat (1) huruf I UU 12/2011 mengatur bahwa materi",
+      "slug": "29-bahwa-selain-itu-pasal-6-ayat-1-huruf-i-uu-12-2011-mengatur-bahwa-materi",
+      "text": "muatan peraturan perundang-undangan harus mencerminkan asas-asa s \ntertentu, salah satunya adalah asas ketertiban dan kepastian hu kum. Asas \nkepastian hukum dalam konteks ini mensyaratkan bahwa rumusan no rma \nsetidak-tidaknya harus: \na. konsisten secara sistematis dengan norma lain dalam undang-u ndang \nyang sama; \nb. tidak menimbulkan kontradiksi internal;",
+      "start_line": 1086,
+      "end_line": 1092
+    },
+    {
+      "heading": "30. Bahwa dalam konteks pasal a quo, terdapat ambiguitas antara Pasal 9 ayat",
+      "slug": "30-bahwa-dalam-konteks-pasal-a-quo-terdapat-ambiguitas-antara-pasal-9-ayat",
+      "text": "(1) yang mengatribusikan kewenangan kepada Menteri untuk meneta pkan \npembagian kuota tambahan melalui pembahasan dengan DPR dan fras a \n“sesuai dengan proporsinya” yang berpotensi ditafsirkan dengan mengacu \npada komposisi kuota pokok Pasal 64 ayat (2). Persoalannya, jik a proporsi \ndimaksud harus selalu identik mengacu pada Pasal 64 ayat (2), m aka \natribusi kewenangan dalam Pasal 9 ayat (1) menjadi kehilangan m akna \nsubstantif. Sebaliknya, jika proporsi merupakan hasil keputusan  M e n t e r i ,  \nmaka seharusnya norma tersebut menyatakan demikian secara tegas untuk \nmenghindari konflik tafsir dengan Pasal 64 ayat (2). Ketidakteg asan inilah \nyang menunjukkan tidak terpenuhinya asas kepastian hukum sebaga imana \ndimaksud Pasal 6 ayat (1) huruf i UU 12/2011;",
+      "start_line": 1095,
+      "end_line": 1105
+    },
+    {
+      "heading": "31. Bahwa secara metodologis, UU 12/2011 menghendaki agar perat uran",
+      "slug": "31-bahwa-secara-metodologis-uu-12-2011-menghendaki-agar-perat-uran",
+      "text": "perundang-undangan disusun secara sistematis dan harmonis. Dala m \nkonteks pasal a quo, pembentuk undang-undang menggunakan frasa yang \ntidak merujuk secara eksplisit pada norma tertentu, sedangkan p ada saat \nyang sama juga memberikan atribusi kewenangan yang dapat dipaha mi \n\n \n \n \n29\nberbeda dari rumusan frasa tersebut. Hal ini tentu menimbulkan ambivalensi,",
+      "start_line": 1107,
+      "end_line": 1116
+    },
+    {
+      "heading": "di mana norma menjadi tidak self-explanatory dan membutuhkan interpretasi",
+      "slug": "di-mana-norma-menjadi-tidak-self-explanatory-dan-membutuhkan-interpretasi",
+      "text": "tambahan yang justru membuka potensi perbedaan penerapan. Kondi si \ndemikian tentu bertentangan dengan prinsip predictability of law  yang \nmenjadi roh dari asas kepastian hukum;",
+      "start_line": 1118,
+      "end_line": 1120
+    },
+    {
+      "heading": "32. Bahwa pada titik tersebut, frasa “sesuai dengan proporsinya ” pada Pasal 9",
+      "slug": "32-bahwa-pada-titik-tersebut-frasa-sesuai-dengan-proporsinya-pada-pasal-9",
+      "text": "ayat (3) yang dirumuskan tanpa kejelasan rujukan normatif menye babkan \nlahirnya norma yang tidak memberikan kepastian mengenai standar  \npembagian kuota haji tambahan, sehingga subjek hukum tidak dapa t \nmemastikan secara tegas hak dan kewajibannya. Dalam keadaan demikian, \nPasal 9 ayat (3) menjadi tidak berkepastian hukum, dan oleh kar enanya \nbertentangan dengan prinsip kepastian hukum yang adil sebagaima na \ndijamin dalam Pasal 28D ayat (1) UUD NRI 1945;",
+      "start_line": 1122,
+      "end_line": 1128
+    },
+    {
+      "heading": "33. Bahwa secara sistematis dan teleologis, proporsi pembagian kuota haji",
+      "slug": "33-bahwa-secara-sistematis-dan-teleologis-proporsi-pembagian-kuota-haji",
+      "text": "tambahan pada Pasal 9 ayat (3) seharusnya dimaknai secara ekspl isit \nmengacu pada keputusan Menteri berdasarkan hasil pembahasannya \ndengan DPR sebagaimana dimaksud dalam Pasal 9 ayat (1) sebagai rujukan \nnormatifnya, bukan pada ketentuan Pasal 64 yang secara khusus mengatur \nkuota haji pokok;",
+      "start_line": 1130,
+      "end_line": 1134
+    },
+    {
+      "heading": "34. Bahwa dari perspektif sistematika peraturan perundang-undan gan, Pasal 9",
+      "slug": "34-bahwa-dari-perspektif-sistematika-peraturan-perundang-undan-gan-pasal-9",
+      "text": "merupakan satu kesatuan pengaturan yang secara khusus mengatur rezim \nkuota haji tambahan. Oleh karena itu, ayat (3) dalam pasal yang  s a m a  \nselayaknya ditafsirkan dalam satu tarikan nafas dengan ayat (1) , karena \nberada dalam konteks pengaturan yang identik. Ketentuan pada ay at (3) \ntidak dapat ditafsirkan dengan Pasal 64 karena justru akan meng abaikan \nstruktur normatif undang-undang, sebab Pasal 64 mengatur pembag ian \nkuota haji pokok yang bersifat reguler dan permanen, sedangkan kuota \ntambahan bersifat kontingensi dan insidentil. Dengan demikian, ratio legis \nsistematisnya adalah menjaga konsistensi internal norma agar ke tentuan \ndalam satu pasal tidak dipahami atau ditarik keluar dari kontek s \npengaturannya sendiri;",
+      "start_line": 1136,
+      "end_line": 1146
+    },
+    {
+      "heading": "35. Bahwa selain itu, secara teleologis, atribusi kewenangan ke pada Menteri",
+      "slug": "35-bahwa-selain-itu-secara-teleologis-atribusi-kewenangan-ke-pada-menteri",
+      "text": "dalam Pasal 9 ayat (1) dalam penentuan proporsi kuota haji tambahan yang \ndilakukan melalui mekanisme pembahasan dengan DPR mencerminkan \n\n \n \n \n30\nkehendak pembentuk undang-undang untuk memberikan fleksibilitas dalam \nmerespons dinamika faktual terkait kuota tambahan. Kuota haji t ambahan \npada hakikatnya tidak bersifat tetap, melainkan bergantung pada  kebijakan \nPemerintah Arab Saudi dan kondisi tertentu yang tidak selalu da pat \ndiprediksi. Oleh karena itu, pembagian proporsinya memerlukan r uang \npenyesuaian yang mempertimbangkan kebutuhan riil, daftar tunggu, kondisi \njamaah, kesiapan penyelenggara, serta kepentingan nasional seca ra \nkeseluruhan. Mekanisme keputusan Menteri yang dibahas dengan DP R \nmemberikan legitimasi politik sekaligus akuntabilitas publik, s ehingga \nproporsi yang ditetapkan memiliki dasar pertimbangan yang kontekstual dan \nresponsif;",
+      "start_line": 1148,
+      "end_line": 1165
+    },
+    {
+      "heading": "36. Bahwa dengan demikian, ratio legis pengaturan Pasal 9 ayat (1) dan ayat (3)",
+      "slug": "36-bahwa-dengan-demikian-ratio-legis-pengaturan-pasal-9-ayat-1-dan-ayat-3",
+      "text": "harus dipahami sebagai satu kesatuan norma yang memberikan ruan g \npenetapan proporsi kuota haji tambahan melalui keputusan Menter i \nberdasarkan pembahasan dengan DPR, tentu dengan tetap memperhatikan \nsejumlah prinsip agar kewenangan tersebut tidak tejebak pada kesewenang-\nwenangan tanpa batas, seperi tranparansi, proporsionalitas, dan  keadilan \nmasa tunggu. Penafsiran inilah yang selaras dengan sistematika undang-\nundang, karakter kuota tambahan yang bersifat dinamis, serta tu juan \npembentuk undang-undang untuk menghadirkan mekanisme yang adapt if \ndan tetap akuntabel dalam pembagian kuota haji tambahan;",
+      "start_line": 1167,
+      "end_line": 1175
+    },
+    {
+      "heading": "37. Bahwa oleh karena itu, untuk menghilangkan ambiguitas norma tif dan",
+      "slug": "37-bahwa-oleh-karena-itu-untuk-menghilangkan-ambiguitas-norma-tif-dan",
+      "text": "menjamin konsistensi yang sistematis dalam konstruksi norma Pas al 9 ayat \n(3), diperlukan pemaknaan yang eksplisit dan limitatif terhadap frasa “sesuai \ndengan proporsinya” dengan pemaknaan sebagai proporsi kuota haj i \ntambahan yang ditetapkan melalui keputusan Menteri setelah mela lui \npembahasan dengan DPR sebagaimana dimaksud pada Pasal 9 ayat (1 ). \nPemaknaan demikian menempatkan Pasal 9 ayat (3) dalam satu rezi m \npengaturan yang utuh dengan Pasal 9 ayat (1), sehingga tidak te rjadi \npenarikan makna ke luar konteks, khususnya kepada Pasal 64 yang secara \nkhusus mengatur kuota haji pokok;",
+      "start_line": 1177,
+      "end_line": 1185
+    },
+    {
+      "heading": "38. Bahwa melalui penafsiran eksplisit dan limitatif tersebut, proporsi pembagian",
+      "slug": "38-bahwa-melalui-penafsiran-eksplisit-dan-limitatif-tersebut-proporsi-pembagian",
+      "text": "kuota haji tambahan dapat memberikan kepastian hukum yang adil karena \nsecara tegas menentukan acuan dan rujukan pembagian kuota tamba han, \n\n \n \n \n31\nsehingga tidak lagi menimbulkan multitafsir mengenai dasar prop orsi yang \ndigunakan. Subjek hukum, baik penyelenggara negara maupun pelak u \nusaha memiliki kejelasan mengenai mekanisme dan sumber legitima si \npenetapan proporsi tersebut. Dengan demikian, norma menjadi dap at \ndiprediksi (predictable), terukur, dan konsisten dalam penerapannya;",
+      "start_line": 1187,
+      "end_line": 1198
+    },
+    {
+      "heading": "39. Bahwa di sisi lain, pemaknaan tersebut tetap mempertahankan fleksibilitas",
+      "slug": "39-bahwa-di-sisi-lain-pemaknaan-tersebut-tetap-mempertahankan-fleksibilitas",
+      "text": "yang memang menjadi karakter dari kuota haji tambahan. Karena k uota \ntambahan bersifat kontingensi dan bergantung pada kondisi terte ntu, maka \npenetapannya melalui keputusan Menteri yang dibahas bersama DPR  \nmemungkinkan penyesuaian proporsi berdasarkan kebutuhan faktual , \nseperti dinamika daftar tunggu, kesiapan penyelenggara, atau pertimbangan \nkepentingan nasional. Mekanisme ini sekaligus memberikan legitimasi politik \ndan akuntabilitas publik terhadap setiap keputusan yang diambil;",
+      "start_line": 1200,
+      "end_line": 1206
+    },
+    {
+      "heading": "40. Bahwa terlebih, pemaknaan demikian juga menjadi daya protek si normatif,",
+      "slug": "40-bahwa-terlebih-pemaknaan-demikian-juga-menjadi-daya-protek-si-normatif",
+      "text": "karena memastikan bahwa pembagian kuota haji tambahan tidak ditentukan \nsecara arbitrer, melainkan melalui prosedur yang jelas dan sah secara \nkonstitusional. Dengan demikian, frasa “sesuai dengan proporsin ya” tidak \nlagi menjadi sumber ketidakpastian, melainkan menjadi norma yan g \noperasional, adaptif, dan tetap menjamin perlindungan hukum bag i seluruh \npihak yang berkepentingan sesuai dengan prinsip kepastian hukum yang adil \ndalam Pasal 28D ayat (1) UUD NRI 1945;",
+      "start_line": 1208,
+      "end_line": 1214
+    },
+    {
+      "heading": "41. Bahwa berdasarkan seluruh uraian dalil argumentasi hukum di atas, menjadi",
+      "slug": "41-bahwa-berdasarkan-seluruh-uraian-dalil-argumentasi-hukum-di-atas-menjadi",
+      "text": "sangat beralasan secara hukum untuk menyatakan frasa “sesuai de ngan \nproporsinya” pada Pasal 9 ayat (3) UU 14/2025 bertentangan deng an UUD \nNRI dan oleh karenanya harus dinyatakan tidak mempunyai kekuatan hukum \nmengikat sepanjang tidak dimaknai “sesuai dengan proporsi yang ditetapkan \nberdasarkan keputusan Menteri setelah melalui pembahasan dengan  DPR \nsebagaimana dimaksud pada ayat (1)”. \nD. Petitum \nBerdasarkan seluruh uraian-uraian sebagaimana disebutkan di ata s, Pemohon \ndengan ini memohon kepada Majelis Hakim Mahkamah Konstitusi yan g \nmemeriksa dan mengadili permohonan ini untuk berkenan memutuskan:",
+      "start_line": 1216,
+      "end_line": 1225
+    },
+    {
+      "heading": "1. Mengabulkan permohonan Pemohon untuk seluruhnya;",
+      "slug": "1-mengabulkan-permohonan-pemohon-untuk-seluruhnya",
+      "text": "32",
+      "start_line": 1227,
+      "end_line": 1231
+    },
+    {
+      "heading": "2. Menyatakan frasa “sesuai dengan proporsinya” pada Pasal 9 ay at (3)",
+      "slug": "2-menyatakan-frasa-sesuai-dengan-proporsinya-pada-pasal-9-ay-at-3",
+      "text": "Undang-Undang Nomor 14 Tahun 2025 tentang Perubahan Ketiga Atas  \nUndang-Undang Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah Haji \ndan Umrah (Lembaran Negara Republik Indonesia Tahun 2025 Nomor 139, \nTambahan Lembaran Negara Republik Indonesia 7132) bertentangan \ndengan UUD NRI 1945 dan tidak mempunyai kekuatan hukum mengikat  \nsepanjang tidak dimaknai “sesuai dengan proporsi yang ditetapka n \nberdasarkan keputusan Menteri setelah melalui pembahasan dengan  DPR \nsebagaimana dimaksud pada ayat (1)”;",
+      "start_line": 1233,
+      "end_line": 1240
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila Majelis Hakim Konstitusi Republik Indonesia berpendapat  lain, mohon \nputusan yang seadil-adilnya (ex aequo et bono). \n[2.2]  Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  Bukti P-6, \nsebagai berikut:",
+      "start_line": 1242,
+      "end_line": 1247
+    },
+    {
+      "heading": "1. Bukti P-1 Fotokopi Undang-Undang Nomor 14 Tahun 2025 tentang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-14-tahun-2025-tentang",
+      "text": "Perubahan Ketiga Atas Undang-Undang Nomor 8 Tahun 2019 \ntentang Penyelenggaraan Ibadah Haji dan Umrah;",
+      "start_line": 1249,
+      "end_line": 1250
+    },
+    {
+      "heading": "2. Bukti P-2 Fotokopi Undang-Undang Dasar Negara Republik Indon esia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-indon-esia",
+      "text": "Tahun 1945 (UUD NRI 1945);",
+      "start_line": 1252,
+      "end_line": 1252
+    },
+    {
+      "heading": "3. Bukti P-3 Fotokopi Akta Pendirian Perseroan Terbatas Nomor 1 27",
+      "slug": "3-bukti-p-3-fotokopi-akta-pendirian-perseroan-terbatas-nomor-1-27",
+      "text": "tanggal 13 Oktober 2025;",
+      "start_line": 1254,
+      "end_line": 1254
+    },
+    {
+      "heading": "4. Bukti P-4 Fotokopi Surat Keputusan Menteri Hukum Republik In donesia",
+      "slug": "4-bukti-p-4-fotokopi-surat-keputusan-menteri-hukum-republik-in-donesia",
+      "text": "No: AHU-0087991.AH.01.01.TAHUN 2025 tentang \nPengesahan Pendirian Badan Hukum PT Zidna Alfarizi \nInternasional;",
+      "start_line": 1256,
+      "end_line": 1258
+    },
+    {
+      "heading": "6. Bukti P-6 Fotokopi artikel b erita mengenai pernyataan KPK pe rihal",
+      "slug": "6-bukti-p-6-fotokopi-artikel-b-erita-mengenai-pernyataan-kpk-pe-rihal",
+      "text": "pembagian kuota haji yang menjelaskan tentang diskresi \nseorang menteri. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup merujuk kepada  Berita Acara \n\n \n \n \n33\nPersidangan, yang merupakan satu kesatuan yang tidak terpisahka n dengan \nputusan ini.",
+      "start_line": 1261,
+      "end_line": 1271
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut  U U D  N R I  \nTahun 1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 T ahun 2003 \ntentang Mahkamah Konstitusi sebagaimana telah diubah terakhir k ali dengan \nUndang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-\nUndang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembara n Negara \nRepublik Indonesia Tahun 2020 Nomor 216, Tambahan Lembaran Nega ra \nRepublik Indonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat \n(1) huruf a Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman \n(Lembaran Negara Republik Indonesia Tahun 2009 Nomor 157, Tamba han \nLembaran Negara Republik Indonesia Nomor 5076), Mahkamah berwenang, antara \nlain, mengadili pada tingkat pertama dan terakhir yang putusann ya bersifat final \nuntuk menguji undang-undang terhadap UUD NRI Tahun 1945; \n[3.2] Menimbang bahwa oleh karena permohonan Pemohon adalah \npermohonan pengujian konstitusionalitas undang-undang, in casu norma Pasal 9 \nayat (3) Undang-Undang Nomor 14 Tahun 2025 tentang Perubahan Ke tiga Atas \nUndang-Undang Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah  Haji dan \nUmrah (Lembaran Negara Republik Indonesia Tahun 2025 Nomor 139, Tambahan \nLembaran Negara Republik Indonesia Nomor 7132, selanjutnya dise but UU \n14/2025) terhadap Pasal 28D ayat (1) UUD NRI Tahun 1945, maka M ahkamah \nberwenang mengadili permohonan a quo; \nKedudukan Hukum Pemohon \n[3.3]  Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \n\n \n \n \n34\nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na.  perorangan warga negara Indonesia (termasuk kelompok orang yang \nmempunyai kepentingan sama); \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan se suai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1273,
+      "end_line": 1310
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  UUD NRI \nTahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya Undang -Undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a; \n[3.4]  Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuka untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, telah berpend irian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na.  adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI Tahun 1945; \nb.  hak dan/atau kewenangan konstitusional tersebut oleh Pemoho n dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1313,
+      "end_line": 1331
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1333,
+      "end_line": 1334
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \n\n \n \n \n35\ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi; \n[3.5]  Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU MK \ndan syarat-syarat kerugian hak dan/atau kewenangan konstitusional sebagaimana \ndiuraikan pada Paragraf [3.3], sampai dengan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon sebagai berikut:",
+      "start_line": 1336,
+      "end_line": 1347
+    },
+    {
+      "heading": "1. Bahwa Pemohon mengajukan pengujian materiil norma Pasal 9 ay at (3) UU",
+      "slug": "1-bahwa-pemohon-mengajukan-pengujian-materiil-norma-pasal-9-ay-at-3-uu",
+      "text": "14/2025 sebagai berikut: \nPasal 9 ayat (3) \nPengisian kuota haji tambahan sebagaimana dimaksud pada ayat (1 ) \ndiperuntukkan bagi kuota haji reguler dan haji khusus sesuai de ngan \nproporsinya serta wajib diinformasikan secara daring dan berkala.",
+      "start_line": 1349,
+      "end_line": 1353
+    },
+    {
+      "heading": "2. Bahwa Pemohon menerangkan mem iliki hak konstitusional sebagaimana diatur",
+      "slug": "2-bahwa-pemohon-menerangkan-mem-iliki-hak-konstitusional-sebagaimana-diatur",
+      "text": "dalam Pasal 28D ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 1355,
+      "end_line": 1355
+    },
+    {
+      "heading": "3. Bahwa Pemohon mendalilkan dir i sebagai badan usaha yang berg erak di",
+      "slug": "3-bahwa-pemohon-mendalilkan-dir-i-sebagai-badan-usaha-yang-berg-erak-di",
+      "text": "bidang layanan perjalanan ibadah umrah dan haji khusus.",
+      "start_line": 1357,
+      "end_line": 1357
+    },
+    {
+      "heading": "4. Bahwa Pemohon merasa hak konstitusionalnya dirugikan secara potensial oleh",
+      "slug": "4-bahwa-pemohon-merasa-hak-konstitusionalnya-dirugikan-secara-potensial-oleh",
+      "text": "berlakunya norma Pasal 9 ayat (3) UU 14/2025, karena frasa “ses uai dengan \nproporsinya” membuka interpretasi yang menimbulkan ketidakpasti an hukum, \nyaitu apakah proporsi demikian merujuk pada Pasal 64 ayat (2) U U 14/2025 \nataukah proporsi demikian ditentukan oleh menteri bersama dengan DPR [vide \nPermohonan, hlm. 11]. Ketidakpastian demikian mengakibatkan Pem ohon \nsebagai pelaku usaha layanan perjalanan haji khusus kesulitan d alam \nmelakukan perencanaan usaha, pengikatan kontrak dengan calon ja maah, \npenyusunan proyeksi keuangan, serta pengambilan keputusan investasi.",
+      "start_line": 1359,
+      "end_line": 1366
+    },
+    {
+      "heading": "5. Bahwa menurut Pemohon, apabila Mahkamah memutus frasa “sesua i dengan",
+      "slug": "5-bahwa-menurut-pemohon-apabila-mahkamah-memutus-frasa-sesua-i-dengan",
+      "text": "proporsinya” dimaknai secara tegas sebagai proporsi yang mengac u pada \nkeputusan menteri yang telah dibahas bersama DPR, maka potensi kerugian \nhak konstitusional Pemohon tidak akan terjadi. \nBerdasarkan seluruh uraian yang dikemukakan dalam menjelaskan \nkedudukan hukum tersebut di atas, menurut Mahkamah, Pemohon tel ah dapat \nmembuktikan dirinya sebagai badan hukum privat, yaitu badan usa ha berbentuk \nperseroan terbatas [vide Bukti P-4], yang bergerak di bidang la yanan perjalanan \n\n \n \n \n36\nibadah umrah dan haji khusus [vide Bukti P-3]. Di samping itu, Pemohon juga telah \nmenjelaskan secara spesifik dan a ktual bahwa Pemohon mempunyai hak \nkonstitusional yang dijamin dalam Pasal 28D ayat (1) UUD NRI Ta hun 1945, serta \ntelah menjelaskan adanya anggapan kerugian hak konstitusional s ecara potensial \nyang disebabkan berlakunya norma Pasal 9 ayat (3) UU 14/2025 yang dimohonkan \npengujian. Anggapan kerugian hak konstitusional secara potensial dimaksud timbul \nkarena adanya ketidakpastian hukum terkait interpretasi frasa “ sesuai dengan \nproporsinya” dalam norma Pasal 9 ayat (3) UU 14/2025, apakah proporsi demikian \nmerujuk pada norma Pasal 64 ayat (2) UU 14/2025 ataukah propors i demikian \nditentukan oleh menteri bersama dengan DPR, sehingga ketidakjel asan \npengaturan proporsi tersebut mengakibatkan Pemohon kesulitan un tuk \nmerencanakan kegiatan-kegiatan yang menjadi bidang usahanya. \nSebagai badan usaha yang bidang kegiatannya adalah layanan umra h \ndan haji khusus, Pemohon seolah-olah mempunyai hubungan sebab-akibat dengan \nkeberadaan Pasal 9 ayat (3) UU 14/2025 yang didalilkan bersifat multi tafsir, yang \nberanggapan dirugikan oleh keberadaan norma a quo. Akan tetapi Pemohon sendiri \nmenjelaskan bahwa kerugian hak konstitusionalitas yang dialaminya adalah bersifat \npotensial, yang artinya belum pernah terjadi secara nyata atau secara aktual. \nTerkait dengan hal demikian, karena anggapan kerugian secara ak tual tidak \ndidalilkan oleh Pemohon, dan memang tidak dibuktikan, maka Mahk amah tidak \nakan menilai apakah ada kerugian faktual yang dialami Pemohon. \nSifat kerugian hak konstitusionalitas yang didalilkan Pemohon d alam \npermohonannya adalah kerugian potensial. Kerugian potensial menurut Mahkamah \nadalah kerugian yang dalam batas penalaran wajar dapat dipastik an akan terjadi. \nUntuk itu Mahkamah harus mendalami apakah benar Pemohon, yang mendalilkan \ndirinya sebagai badan usaha di bidang layanan haji khusus, seca ra potensial \ndirugikan oleh keberadaan norma Pasal 9 ayat (3) UU 14/2025. Da lil potensi \nkerugian hak konstitusionalitas Pemohon demikian dilandaskan pada norma Pasal \n9 ayat (3) UU 14/2025 yang mengatur mengenai proporsi pembagian antara jamaah \nhaji reguler dengan jamaah haji khusus dalam hal terdapat kuota haji tambahan. \nPersentuhan antara suatu badan usaha layanan haji khusus dengan  \nproporsi pembagian kuota haji tambahan yang diatur dalam Pasal 9 ayat (3) UU \n14/2025 menurut Mahkamah baru akan terjadi setelah badan usaha bersangkutan \nbenar-benar berada dalam tahap/fase siap mendaftarkan diri kepada Kementerian \n\n \n \n \n37\nyang berwenang untuk memperoleh kuota haji tambahan. Tahap/fase  demikian \nmenurut keyakinan Mahkamah adalah ketika badan usaha sudah meme nuhi \nberbagai persyaratan administratif lanjutan selain memenuhi sya rat pertama, yaitu \nberbentuk badan hukum yang dimiliki warga negara Indonesia bera gama Islam. \nKetentuan administratif lanjutan yang harus dipenuhi Pemohon, s ebelum berhak \nmenyelenggarakan layanan haji khusus dan memperoleh kuota haji khusus, antara \nlain adalah status Pemohon harus terlebih dulu ditingkatkan men jadi \nPenyelenggara Ibadah Haji Khusus (PIHK) yang memiliki perizinan berusaha untuk \nmelaksanakan ibadah haji khusus. \nDalam permohonan a quo , Pemohon tidak menguraikan maupun \nmembuktikan bahwa Pemohon merupakan badan hukum yang sudah memperoleh \nstatus sebagai PIHK. Dengan mengingat proses atau tahap-tahap y ang harus \ndijalani sejak perolehan status sebagai badan hukum (badan usaha) hingga badan \nhukum tersebut benar-benar dapat menjalankan layanan haji khusu s (dalam arti \nmemperoleh kuota haji khusus dari Kementerian Haji atau sebelum nya dari \nKementerian Agama), Mahkamah menilai Pemohon tidak dapat dikual ifikasikan \nsebagai pihak yang berpotensi mengalami kerugian hak konstitusi onal akibat \nberlakunya norma Pasal 9 ayat (3) UU 14/2025. \nBerdasarkan pertimbangan hukum demikian, walaupun Pemohon dapat \nmembuktikan dirinya sebagai badan hukum yang mempunyai hak kons titusional, \ndan telah menjelaskan pula anggapan kerugian konstitusionalitas  atas haknya, \nnamun Mahkamah tidak dapat menemukan argumentasi maupun bukti b ahwa \nPemohon potensial dirugikan oleh berlakunya norma Pasal 9 ayat (3) UU 14/2025. \nOleh karenanya, Pemohon juga tidak dapat menjelaskan adanya hubungan sebab-\nakibat ( causal verband ) antara anggapan kerugian hak konstitusional dengan \nberlakunya norma undang-undang yang dimohonkan pengujian, di ma na uraian \nkerugian hak konstitusional demikian merupakan satu kesatuan ya ng saling \nberkaitan dan bersifat kumulatif. Dengan demikian, tidak terdap at keraguan bagi \nMahkamah untuk menyatakan Pemohon tidak memiliki kedudukan huku m untuk \nbertindak sebagai Pemohon dalam mengajukan permohonan a quo.  \n[3.6] Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo, namun oleh karena Pemohon tidak memiliki kedudukan hukum \n\n \n \n \n38\nuntuk mengajukan permohonan a quo maka Mahkamah tidak mempertimbangkan \nlebih lanjut permohonan Pemohon. \n[3.7] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1368,
+      "end_line": 1459
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an",
+      "start_line": 1461,
+      "end_line": 1461
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1]  Mahkamah berwenang mengadili permohonan a quo; \n[4.2]  Pemohon tidak memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Nega ra \nRepublik Indonesia Nomor 5076).",
+      "start_line": 1463,
+      "end_line": 1475
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggot a, Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,  \nM. Guntur Hamzah, Adies Kadir, dan Liliek Prisbawono Adi, masin g-masing \nsebagai Anggota, pada hari Rabu, tanggal lima belas, bulan April, tahun dua ribu \ndua puluh enam yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \n\n \n \n \n39\nterbuka untuk umum pada hari Selasa, tanggal dua belas, bulan Mei, tahun dua \nribu dua puluh enam, selesai diucapkan pukul  14.33 WIB  oleh sembilan Hakim \nKonstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggota, Sal di Isra, Enny \nNurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P. Foek h, M. Guntur \nHamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, \ndengan dibantu oleh Mardian Wibowo sebagai Panitera Pengganti, dengan dihadiri \noleh Pemohon dan/atau kuasanya, Dewan Perwakilan Rakyat atau yang mewakili, \ndan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nEnny Nurbaningsih \nttd. \nRidwan Mansyur  \nttd. \nArsul Sani  \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nMardian Wibowo",
+      "start_line": 1477,
+      "end_line": 1521
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "PT Zidna Alfarizi International (Zai Travel)",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 14/2025 tentang Perubahan Ketiga atas UU 8/2019 tentang Penyelenggaraan Ibadah Haji dan Umrah"
+    ],
+    "constitutional_articles": [
+      "Pasal 10 ayat (1) hur",
+      "Pasal 9",
+      "Pasal 2 ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 9 ayat (3)",
+      "Pasal 1 ayat (3)",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (2)"
+    ],
+    "evidence": [
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "REFERENSI:88/PUU-XXIV/2026",
+      "REFERENSI:86/PUU/PAN.MK/AP3/03/2026",
+      "REFERENSI:14/2025dinyatakanbahwapembahasandenganDPRdapatdilakukansecaraluringdan/ataudaring.AdanyabataswaktuyangditetapkandalamUU14/2025menimbulkankonsekuensibahwapembahasandapatdilakukanmeskipunDPRtidakdalammasabersidang.HalinimenunjukkanbahwaUU14/2025",
+      "REFERENSI:8/2019UU14/2025",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:237/PUU-XXIII/2025"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Mardian Wibowo"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "88/PUU-XXIV/2026",
+      "86/PUU/PAN.MK/AP3/03/2026",
+      "14/2025dinyatakanbahwapembahasandenganDPRdapatdilakukansecaraluringdan/ataudaring.AdanyabataswaktuyangditetapkandalamUU14/2025menimbulkankonsekuensibahwapembahasandapatdilakukanmeskipunDPRtidakdalammasabersidang.HalinimenunjukkanbahwaUU14/2025",
+      "8/2019UU14/2025",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "237/PUU-XXIII/2025"
+    ],
+    "referenced_cases": [
+      "88/PUU-XXIV/2026",
+      "86/PUU/PAN.MK/AP3/03/2026",
+      "14/2025dinyatakanbahwapembahasandenganDPRdapatdilakukansecaraluringdan/ataudaring.AdanyabataswaktuyangditetapkandalamUU14/2025menimbulkankonsekuensibahwapembahasandapatdilakukanmeskipunDPRtidakdalammasabersidang.HalinimenunjukkanbahwaUU14/2025",
+      "8/2019UU14/2025",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "237/PUU-XXIII/2025"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

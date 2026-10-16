@@ -1,0 +1,756 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14407_1781684918.pdf",
+    "file_name": "putusan_mkri_14407_1781684918.pdf",
+    "page_count": 55,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14407_1781684918.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "126/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "diperbaiki dengan",
+    "decision_date": "2026-06-17",
+    "decision_date_raw": "tujuh belas, bulan Juni, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "diperbaiki dengan \nmenambahkan \n“dan 14 April \n2026” serta \n“Priskila \nOctaviani, S.H.,”",
+      "start_line": 1,
+      "end_line": 8
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 126/PUU-XXIV/2026",
+      "start_line": 10,
+      "end_line": 10
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang -undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 18 Tahun 2003  tentang Advokat terhadap Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945, yang diajukan oleh:  \nNama : Zico Leonard Djagardo Simanjuntak \nPekerjaan : Advokat \nAlamat : Jalan Aries Asri VI E 16/3, RT 009/RW 008, \nMeruya Utara, Kembangan, Jakarta Barat \nBerdasarkan surat kuasa khusus bertanggal 19 Maret 2026  dan 14 April 2026 , \nmemberikan kuasa kepada Leon Maulana Mirza Pasha, S.H., Ratu Eka Shaira, S.H., \nPriskila Octaviani, S.H., Gusti Putu Agung Cinta Arya Diningrat, dan Ni Kadek Sri \nYulianti yang kesemuanya adalah Advokat dan Konsultan Hukum ya ng tergabung \ndalam Kantor Hukum Leo & Partners yang beralamat di Grand Slipi Tower Lantai 5 \nUnit F, Jalan S. Parman Kav. 22 -24, Kelurahan Palmerah, Kecamatan Palmerah, \nJakarta Barat, baik bersama-sama maupun sendiri-sendiri bertindak untuk dan atas \nnama Pemberi Kuasa; \nSelanjutnya disebut sebagai --------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \n Mendengar keterangan Pemohon;   \n Memeriksa bukti-bukti Pemohon.",
+      "start_line": 12,
+      "end_line": 32
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal \n2 April 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada tanggal 2 April \n2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor 124/PUU/ \nPAN.MK/AP3/04/2026 dan telah dicatat dalam Buku Registrasi Perkara Konstitusi \n\n\n \n 2 \nElektronik (e-BRPK) dengan Nomor 126/PUU-XXIV/2026 pada tanggal 2 April 2026, \nyang telah diperbaiki dan diterima Mahkamah pada tanggal 27 April 2026 , pada \npokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 34,
+      "end_line": 45
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI 1945) \nmenyatakan: \n“kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung \ndan badan peradilan yang berada dibawahnya dalam lingkungan \nperadilan umum, lingkungan peradilan agama, lingkungan \nperadilan militer, lingkungan peradilan tata usaha negara, dan \noleh sebuah Mahkamah Konstitusi”;",
+      "start_line": 47,
+      "end_line": 53
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) Perubahan Keempat UUD NRI 1945",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-perubahan-keempat-uud-nri-1945",
+      "text": "menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama \ndan terakhir yang putusannya bersifat final untuk menguji \nundang-undang terhadap Undang -Undang Dasar, memutus \nsengketa kewenangan lembaga negara yang kewenangannya \ndiberikan oleh Unda ng-Undang Dasar, memutus perubahan \npartai politik dan  memutus perselisihan tentang hasil pemilihan \numum”;",
+      "start_line": 55,
+      "end_line": 62
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 Tahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-tahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang -Undangan sebagaimana \ntelah diubah terakhir dalam Undang -Undang Nomor 13 Tahun 2022 \ntentang Perubahan Kedua atas Undang -Undang Nomor 12 Tahun 2011 \ntentang Pembentukan Peraturan Perundang -Undangan menegaskan \nbahwa: \n“Dalam hal suatu Undang -Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 64,
+      "end_line": 71
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang -Undang Nomor 48 Tahun",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-tahun",
+      "text": "2009 tentang Kekuasaan Kehakiman, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk: a. \nmenguji undang -undang terhadap Undang -Undang Dasar \nNegara Republik Indonesia Tahun 1945;  b. memutus sengketa \nkewenangan lembaga negara yang k ewenangannya diberikan \noleh Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945; c. memutus pembubaran partai politik; d. memutus \nperselisihan tentang hasil pemilihan umum; dan e. kewenangan \nlain yang diberikan oleh undang-undang”; \n\n \n 3",
+      "start_line": 73,
+      "end_line": 85
+    },
+    {
+      "heading": "5. Bahwa berdasarkan P asal 10 ayat (1) Undang -Undang Nomor 24 Tahun",
+      "slug": "5-bahwa-berdasarkan-p-asal-10-ayat-1-undang-undang-nomor-24-tahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah \nterakhir dengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan \nKetiga atas Undang -Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama \ndan terakhir yang putusannya bersifat final untuk: a. menguji \nundang-undang terhadap Undang -Undang Dasar Negara \nRepublik Indonesia Tahun 1945; b. memutus sengketa \nkewenangan lembaga negar a yang kewenangannya diberikan \noleh Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945; c. memutus pembubaran partai politik; dan d. memutus \nperselisihan tentang hasil pemilihan umum;”",
+      "start_line": 87,
+      "end_line": 98
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi",
+      "slug": "6-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konstitusi",
+      "text": "Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujian \nUndang-Undang, menyatakan: \n“Objek Permohonan PUU adalah Undang-Undang dan Perppu”;",
+      "start_line": 100,
+      "end_line": 102
+    },
+    {
+      "heading": "7. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah nyata",
+      "slug": "7-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-nyata",
+      "text": "bahwa objek permohonan a quo  memenuhi syarat sebagai objek \npermohonan pengujian materiil Undang-Undang terhadap UUD NRI 1945. \nOleh karenanya, Mahkamah Konstitusi berwenang untuk memeriksa, \nmengadili, dan memutus konstitusionalitas Undang-Undang terhadap UUD \nNRI 1945 dalam perkara a quo yang diajukan oleh PEMOHON. \nII. KEDUDUKAN HUKUM ( LEGAL STANDING ) DAN KERUGIAN",
+      "start_line": 104,
+      "end_line": 109
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan bahwa",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menyatakan-bahwa",
+      "text": "PEMOHON adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip negara kesatuan RI \nyang diatur dalam undang-undang;",
+      "start_line": 112,
+      "end_line": 117
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, maka terlebih dahulu PEMOHON",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-maka-terlebih-dahulu-pemohon",
+      "text": "menguraikan kedudukan hukum (legal standing)  sebagai berikut, \nPEMOHON merupakan perseoranga n warga negara Indonesia yang \n\n \n 4 \ndibuktikan dengan kepemilikan Kartu Tanda Penduduk (Bukti P -3). \nPEMOHON merupakan seorang advokat yang dalam menjalankan \nprofesinya tunduk pada Kode Etik dan Ketentuan Peraturan Perundang -\nundangan Advokat. Adapun status keaktifan PEMOHON sebagai advokat \ndibuktikan dengan Kartu Tanda Anggota Advokat yang masih \nberlaku/Surat Keterangan Aktif sebagai Advokat (Bukti P-5);",
+      "start_line": 121,
+      "end_line": 131
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2) menegaskan",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaskan",
+      "text": "PEMOHON memenuhi dan memiliki kedudukan hukum (legal standing)  \nsebagai perseorangan warga negara Indonesia sehingga PEMOHON \ndapat mengajukan permohonan pengujian UU terhadap UUD NRI 1945. \nSelanjutnya, PEMOHON akan menguraikan kerugian konstitusionalnya \nyang dialami sehubungan dengan berlakunya UU yang diu jikan \nkonstitusionalitasnya dalam perkara a quo;",
+      "start_line": 133,
+      "end_line": 138
+    },
+    {
+      "heading": "4. Bahwa Putusan Mahkamah Konstitusi Nomor 006/PUU - III/2005 dan",
+      "slug": "4-bahwa-putusan-mahkamah-konstitusi-nomor-006-puu-iii-2005-dan",
+      "text": "Perkara Nomor 11/PUU - V/2007, juga menyebutkan tentang kapasitas \npemohon dalam mengajukan permohonan pengujian undang -undang \nterhadap undang-undang dasar, yaitu: \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia 1945. \nb. Bahwa hak konstitusional pemohon tersebut dianggap oleh para \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 140,
+      "end_line": 146
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat",
+      "text": "spesifik atau khusus dan aktual atau setidaknya potensial yang \nmenurut penalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 148,
+      "end_line": 149
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan untuk diuji. \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian konstitusional yang didalilkan tidak akan atau tidak \nterjadi lagi.",
+      "start_line": 151,
+      "end_line": 154
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional PEMOHON dijamin oleh",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-pemohon-dijamin-oleh",
+      "text": "UUD NRI 1945 yang telah dia tur dalam beberapa pasal yang digunakan \nsebagai dasar pengujian dalam perkara a quo, yaitu:  \na. Pasal 27 ayat (1) UUD NRI 1945, menyatakan “Segala warga negara \nbersamaan kedudukannya di dalam hukum dan pemerintahan dan \n\n \n 5 \nwajib menjunjung hukum dan pemerintahan itu dengan tidak ada \nkecualinya”; \nb. Pasal 28D ayat (1) UUD NRI 1945, menyatakan “Setiap orang berhak \natas pengakuan, jaminan, perlindungan, dan kepastian hukum yang \nadil serta perlakuan yang sama di hadapan hukum”.",
+      "start_line": 156,
+      "end_line": 167
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin dalam UUD",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-dalam-uud",
+      "text": "NRI 1945 tersebut telah dirugikan dengan pasal sebagai berikut: \na. Pasal 12 ayat (1), yang menyatakan “Pengawasan terhadap Advokat \ndilakukan oleh Organisasi Advokat”. \nb. Pasal 28 ayat (1) yang menyatakan “Organisasi Advokat merupakan \nsatu-satunya wadah profesi Advokat yang bebas dan mandiri yang \ndibentuk sesuai dengan ketentuan Undang -Undang ini dengan \nmaksud dan tujuan untuk meningkatkan kualitas profesi Advokat”",
+      "start_line": 169,
+      "end_line": 175
+    },
+    {
+      "heading": "c. Penjelasan Pasal 28 ayat (1) UU Advokat yang menyata kan \"Cukup",
+      "slug": "c-penjelasan-pasal-28-ayat-1-uu-advokat-yang-menyata-kan-cukup",
+      "text": "jelas\", yang sesungguhnya tidak memberikan definisi yang memadai \nsehingga menimbulkan ketidakpastian hukum mengenai organisasi \nadvokat mana yang dimaksud sebagai satu -satunya wadah profesi \nadvokat sebagaimana yang telah terbukti menimbulkan frag mentasi \norganisasi advokat pasca-2019.",
+      "start_line": 177,
+      "end_line": 181
+    },
+    {
+      "heading": "7. Bahwa dengan berlakunya pasal-pasal sebagaimana tersebut dalam poin",
+      "slug": "7-bahwa-dengan-berlakunya-pasal-pasal-sebagaimana-tersebut-dalam-poin",
+      "text": "6), PEMOHON telah mengalami kerugian konstitusional, baik yang bersifat \nspesifik (aktual) maupun potensial yang akan dijelaskan sebagai berikut:  \na) Bahwa, PEMOHON selaku perseorangan warga negara Indonesia \nyang berprofesi sebagai advokat, menjunjung tinggi kode etik advokat, \ndan memiliki hak konstitusional dan kepentingan hukum yang sah \nterhadap keberadaan Organisasi Advokat untuk mendapatkan \npengawasan dari Organisasi Advokat yang sah dan berwenang secara \nkonstitusional;  \nb) Bahwa, PEMOHON secara konstitusional berhak mendapatkan \nkepastian hukum dari suatu Organisasi Advokat yang kedudukan \nhukum kelembagaannya tidak dipersoalkan, sehingga setiap tindakan \nyang dilakukan oleh PEMOHON memiliki dasar keabsahan yang tidak \nterbantahkan di hadapan hukum. Adapun hak konstitusional yang \ndimaksud telah dijamin dalam Pasal 27 ayat (1) dan Pasal 28D ayat \n\n \n 6 \n(1) UUD NRI 1945 yang telah dirugikan dengan berlakunya Pasal 1 2 \nayat (1), Pasal 28 ayat (1), serta Penjelasan Pasal 28 ayat (1) UU \nAdvokat yang tidak memberikan kepastian tentang organisasi advokat \nmana yang sesungguhnya sah, berwenang, dan memiliki legitimasi \nuntuk melaksanakan fungsi pengawasan, pembinaan, dan \nperlindungan bagi advokat-advokat yang terdaftar di dalamnya; \nc) Bahwa PEMOHON pernah berhadapan dengan advokat bermasalah. \nSangat jelas dalam pasal 7 huruf f Kode Etik Advokat, apabila prinsipal \npihak berperkara telah menunjuk kuasa hukum, maka kuasa hukum \ntidak boleh lagi menghubungi prinsipal lawan. Namun dalam perkara \nyang PEMOHON hadapi, kuasa hukum lawan masih terus saja \nmenghubungi prinsipal klien PEMOHON. Ketika PEMOHON menegur \ndan memperingatkan melalui Whatsapp bahwa hal ini bisa dibawa ke \nranah etik advokat, dengan entengnya kuasa hukum lawan menjawab, \n“pertimbangin aja mas, tidak apa2”; (Bukti P-4). \nd) PEMOHON selaku advokat yang menjunjung tinggi kode etik, tidak \nmendapat perlindungan hukum yang adil, karena dengan banyaknya \ndan gampangnya organisasi advokat dibentuk, jika ada advokat lawan \nyang melanggar kode etik, mereka tidak perlu takut. Tinggal pindah \norganisasi atau membuat organisasi baru. Akhirnya banyaklah \nadvokat tidak berintegritas.",
+      "start_line": 183,
+      "end_line": 220
+    },
+    {
+      "heading": "8. Bahwa oleh karena kerugian konstitusional yang telah dijabarkan telah",
+      "slug": "8-bahwa-oleh-karena-kerugian-konstitusional-yang-telah-dijabarkan-telah",
+      "text": "nyata dialami PEMOHON, maka PEMOHON memiliki kedudukan hukum \n(legal standing)  sebagai PEMOHON Pengujian Undang -Undang dalam \nperkara a quo telah memenuhi ketentuan Pasal 51 ayat (1) UU Mahkamah \nKonstitusi beserta penjelasannya dan syarat kerugian hak konstitusional \nsebagaimana tertuang dalam Putusan Mahkamah Konstitusi Nomor \n006/PUU-III/2005 dan Nomor 011/PUU-V/2007. \nIII. ALASAN PERMOHONAN \nA. Permohonan A Quo Tidak Nebis in Idem \n1) Bahwa ketentuan mengenai larangan pengajuan Kembali permohonan \npengujian undang -undang (nebis in idem)  diatur dalam Pasal 60 UU \nMahkamah Konstitusi juncto Pasal 78 Peraturan Mahkamah Konstitusi \n\n \n 7 \nNomor 2 Tahun 2021 tentang Tata Beracara Dalam Perkara Pengujian \nUndang-Undang (PMK 2/2021), menyatakan: \n1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam \nUndang-Undang yang telah diuji, tidak dapat dimohonkan pengujian \nkembali;  \n2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan \njika materi muatan dalam Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 yang dijadikan dasar pengujian berbeda. \nLebih lanjut dalam Pasal 78 PMK 2/2021, menyatakan bahwa \n1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam \nundang-undang atau Perpp u yang telah diuji, tidak dapat \ndimohonkan pengujian kembali; \n2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan \njika materi muatan dalam UUD 1945 yang dijadikan dasar pengujian \nberbeda atau terdapat alasan permohonan yang berbeda.  \n2) Bahwa Mahkamah Konstitusi dalam praktiknya telah menafsirkan \nketentuan a quo  tidak semata -mata secara formal, melainkan juga \nsecara substansial, yakni dengan menilai apakah terdapat perbedaan \nmendasar antara permohonan sebelumnya dengan permohonan yang \ndiajukan; \n3) Bahwa PEMOHON menyadari bahwa Pasal 12 ayat (1) UU Advokat \ntelah diuji sebanyak tujuh (7) kali, dan Pasal 28 ayat (1) UU Advokat \ntelah diuji sebanyak tujuh belas (17) kali di hadapan Mahkamah \nKonstitusi. Walaupun demikian, permohonan a quo  memuat al asan \nyang secara substansial berbeda dari seluruh permohonan yang telah \ndiputus sebelumnya, sebagaimana diuraikan di bawah ini; \n4) Bahwa walaupun dasar pengujian permohonan a quo  menggunakan \nPasal 27 ayat (1) dan Pasal 28D ayat (1) yang telah pernah digunakan  \nsebagai dasar pengujian dalam permohonan -permohonan yang telah \ndiputus oleh Mahkamah Konstitusi, yaitu Pasal 28D ayat (1) UUD 1945 \ndalam Putusan Nomor 014/PUU-IV/2006, Pasal 28D ayat (1) UUD 1945 \ndalam Putusan Nomor 35/PUU-XVI/2018), Pasal 27 ayat (1) dan  Pasal \n28D ayat (1) UUD 1945 (Permohonan Nomor 91/PUU -XX/2022), serta \nPasal 27 ayat (1) dan Pasal 28D ayat (1) UUD 1945 (Permohonan \n\n \n 8 \nNomor 22/PUU -XXII/2024), tetapi dalam permohonan a quo  \nmenggunakan alasan yang berbeda dengan permohonan -permohonan \nyang telah diputus oleh Mahkamah; \n5) Bahwa alasan konstitusional yang digunakan dalam Permohonan \nNomor 014/PUU-IV/2006 pada intinya adalah larangan rangkap jabatan \npimpinan organisasi advokat sebagai pengurus partai politik, sementara \ndalam Permohonan Nomor 35/PUU -XVI/2018 menggunakan alasan \npada intinya berkenaan dengan pembentukan organisasi advokat, \nsedangkan dalam Permohonan Nomor 91/PUU-XX/2022 menggunakan \nalasan pada intinya berkenaan dengan masa jabatan pimpinan \norganisasi advokat dan Permohonan Nomor 22/PUU -XXII/2024 \nmenggunakan alasan pada intinya berkenaan dengan larangan rangkap \njabatan pimpinan organisasi advokat sebagai tim pemenangan calon \nPresiden dan Wakil Presiden sementara alasan dalam permohonan a \nquo adalah terkait dengan larangan rangkap jabatan pi mpinan \norganisasi advokat sebagai pejabat negara;  \n6) Bahwa untuk memperkuat dalil bahwa permohonan a quo tidak bersifat \nnebis in idem dan sekaligus membuktikan urgensi konstitusional dari \npermohonan ini, PEMOHON merujuk pada praktik perbandingan hukum",
+      "start_line": 222,
+      "end_line": 291
+    },
+    {
+      "heading": "di berbagai negara yang menunjukkan adanya kecenderungan terhadap",
+      "slug": "di-berbagai-negara-yang-menunjukkan-adanya-kecenderungan-terhadap",
+      "text": "sistem pengawasan profesi advokat yang tidak terfragmentasi dan \nbersifat terpusat secara fungsional. Di Amerika Serikat, meskipun \nstruktur kelembagaan berbeda antar negara bagian, terdapat sistem \nintegrated bar di banyak yurisdiksi, di mana organisasi seperti State Bar \nof California menjalankan fungsi regulasi, pengawasan, dan penegakan \nkode etik advokat secara terkoordinasi di bawah otoritas Mahkamah \nAgung negara bagian. Di Inggris, pengawasan profesi hukum dilakukan \nmelalui regulator tunggal untuk masing -masing cabang profesi, yakni \nBar Standards Board bagi barrister dan Solicitors Regulation Authority \nbagi solicitor, yang menunjukkan tidak adanya fragmentasi otoritas \npengawasan dalam masing -masing domain profesi. Sementara itu, di \nAustralia, meskipun melibatkan lebih dari satu institusi, sistem \npengawasan profesi hukum tetap dijalankan secara terkoordinasi antara \norganisasi profesi, badan regulator, dan Mahkamah, sehingga \n\n \n 9 \nmenciptakan kerangka peng awasan yang terpusat secara fungsional \ndan tidak terfragmentasi. Praktik -praktik tersebut menunjukkan bahwa \nkebutuhan fundamental dalam pengaturan profesi advokat bukan \nsemata-mata terletak pada bentuk single bar secara formal, melainkan \npada adanya sistem pengawasan yang terintegrasi, otoritatif, dan tidak \nterfragmentasi guna menjamin kepastian hukum, standar etik yang \nseragam, serta perlindungan yang efektif bagi pencari keadilan. Dalam \nkonteks Indonesia, kondisi pasca-2019 justru menunjukkan fragmentasi \norganisasi advokat yang berdampak pada ketidakpastian dalam \npengawasan dan penegakan kode etik, sehingga menempatkan \nIndonesia sebagai outlier yang merugikan pencari keadilan. Oleh \nkarenanya, argumentasi perbandingan hukum ini merupakan alasan \nbaru yang be rsifat substantif dan belum pernah diajukan dalam \npermohonan sebelumnya;  \n7) Bahwa ada relevansi langsung antara larangan rangkap jabatan sebagai \npejabat negara dengan masalah fragmentasi organisasi advokat yang \nmenjadi inti permohonan a quo : apabila pimpinan  organisasi advokat \nmerangkap sebagai pejabat negara, maka (a) pejabat tersebut memiliki \nkepentingan untuk mempertahankan status quo yang menguntungkan \npemerintah; (b) pengawasan terhadap advokat yang berperkara \nmelawan pemerintah menjadi tidak independen; dan (c) kebijakan terkait \nadvokat dapat dipengaruhi oleh kepentingan politik. Ketiganya secara \nlangsung memperparah ketidakpastian hukum yang dialami klien \npengguna jasa advokat. Oleh karenanya, alasan permohonan a quo  \nbukan sekadar berbeda secara formal, melainkan mengungkap dimensi \nkonstitusional baru yang belum pernah dipertimbangkan Mahkamah; \n8) Bahwa berdasarkan uraian di atas, setelah membandingkan alasan \ndalam permohonan -permohonan sebelumnya dengan permohonan         \na quo, di mana Pemohon menginginka n pimpinan organisasi advokat \ntidak diperbolehkan merangkap sebagai pejabat  negara, maka alasan \npermohonan a quo menegaskan adanya perbedaan alasan \nkonstitusional dengan permohonan -permohonan sebelumnya yang \ntelah diputus oleh Mahkamah sehingga telah memen uhi ketentuan \n\n \n 10 \nPasal 60 UU MK dan Pasal 78 PMK 2/2021 dan oleh karenanya \npermohonan a quo dapat diajukan kembali.   \nB. Keabsahan PERADI diatur di dalam Pasal 28 ayat (1) Undang -Undang \nNomor 18 Tahun 2003 Tentang Advokat dan Penjelasannya adalah \nbentuk perlindungan hukum yang adil sebagaimana diamanatkan Pasal \n28 Ayat (1) UUD NRI 1945 \n1) Bahwa persoalan konstitusionalitas organisasi advokat sebagaimana \ndimaksudkan dalam Pasal 28 ayat (1) UU Advokat sesungguhnya telah \nselesai dan telah dipertimbangkan secara tegas oleh Mahkamah, yakni \nPERADI yang merupakan singkatan (akronim dari Perhimpunan \nAdvokat Indonesia sebagai organisasi advokat yang merupakan satu -\nsatunya wadah profesi advokat [ vide Putusan Mahkamah Konstitusi \nNomor 014/PUU-IV/2006 bertanggal 30 November 2006]; \n2) Namun, satu hal masih menjadi masalah dalam perspektif \nketatanegaraan: Lembaga apa yang berwenang menentukan PERADI \nmana yang sah? \n3) Advokat sebagai penegak hukum, tentu seharusnya tidak dapat \ndiintervensi oleh penegak hukum lainnya, dan juga peme rintah. Hal ini \ndikarenakan advokat adalah penegak hukum yang independen dan \nbukan merupakan subordinasi dari penegak hukum lainnya, maupun \npemerintah itu sendiri. Dan karenanya, sangat mungkin advokat \nbersengketa dengan penegak hukum lainnya ataupun pemer intah itu \nsendiri. (E.g.  menjadi kuasa hukum dari klien yang sedang menjalani \nsidang pidana); \n4) Karenanya menjadi contradictio in terminis , apabila profesi advokat \nsebagai officium nobile yang independen, tetapi keabsahannya justru \nditentukan oleh pemerintah yang bisa menjadi pihak berseberangan; \n5) Oleh karenanya, jika tidak ada ketentuan yang jelas terkait hal ini, maka \nsampai kapanpun akan menjadi permasalahan ketatanegaraan tanpa \nujung yang tidak memberikan perlindungan hukum yang adil bagi para \nklien pengguna jasa advokat, maupun advokat berintegritas, sehingga \nmasalah ini harus ada ujungnya dengan di -address dalam Undang -\nUndang Advokat itu sendiri; \n\n \n 11 \n6) Jalan keluar yang tepat adalah keabsahan PERADI diatur dalam UU, \ndimana PERADI yang dimaksud adalah PERADI yan g terdaftar pada \nkementerian yang mengurusi pemerintahan di bidang hukum. Namun \ndalam pertimbangan Mahkamah nanti, Mahkamah menegaskan bahwa \n“terdaftar” di sini bukan berarti merupakan bentuk superioritas \nKementrian terhadap PERADI, namun kementrian hanya menjalankan \ntugasnya, yakni untuk “mendaftarkan”, dan tidak berwenang \n“menentukan”. Apabila ada sengketa terhadap pendaftaran tersebut, \nmaka kemudian Badan Peradilan sebagai lembaga yang memiliki tugas \nmemutus perkara lah yang menentukan; \n7) Dengan adanya ket entuan yang demikian dalam UU Advokat, maka \nmenjadi jelas bahwa Advokat tetap menjadi penegak hukum yang \nindependen dan tidak subordinat dengan penegak hukum lainnya. \nKementerian dan Badan Peradilan tidak memiliki “kewenangan” \nmenentukan PERADI mana yang s ah, namun hanya semata -mata \nmenjalankan “tugas” mereka; \n8) Sebagaimana asas lex specialis, sebagai bentuk pengakuan terhadap \nindependensi advokat, maka hal ini harus diatur di  dalam Undang -\nUndang Advokat, sekalipun Undang -Undang lain telah mengatur \ntentang ke wenangan pencatatan oleh kementerian hukum, dan \nkewenangan memutus perkara oleh badan peradilan; \n9) Dengan demikian, demi perlindungan hukum yang adil bagi para klien \npengguna jasa advokat, dan para advokat berintegritas, maka \nkeabsahan PERADI ini harus diatu r jelas di dalam Undang -Undang \nAdvokat, yang juga untuk sekaligus menunjukkan independensi advokat \nsebagai penegak hukum; \n10) Bahwa Penjelasan Pasal 28 ayat (1) UU Advokat yang menyatakan \n\"Cukup jelas\" sesungguhnya tidak memberikan kepastian hukum yang \nmemadai dalam konteks faktual pasca -2019. Norma yang secara \ntekstual dinyatakan \"cukup jelas\" dapat diuji konstitusionalitasnya \napabila dalam implementasinya ternyata menimbulkan multitafsir dan \nketidakpastian yang merugikan. Fakta bahwa PERADI mengalami \nfragmentasi menjadi beberapa pecahan membuktikan bahwa \npenjelasan yang menyatakan \"cukup jelas\" itu tidaklah cukup jelas \n\n \n 12 \ndalam pra ktiknya. Oleh karenanya, Mahkamah perlu memberikan \npemaknaan konstitusional terhadap Penjelasan Pasal 28 ayat (1) untuk \nmengisi kekosongan normatif tersebut, tanpa hal mana norma itu akan \nterus merugikan kepastian hukum. Pemaknaan ini tidak mempersempit \nnorma Pasal 28 ayat (1), melainkan justru memberikan batas \nkonstitusional yang jelas mengenai PERADI yang dimaksud, sehingga \nkonflik antara ketentuan umum dan ketentuan pasal ini dapat dihindari \nmelalui penunjukan PERADI yang terdaftar pada kementerian yang \nberwenang sebagaimana diuraikan dalam Petitum; \nC. Keabsahan satu Dewan Etik Nasional bagi Advokat dituangkan di dalam \nPasal 12 ayat (1) adalah keniscayaan demi perlindungan hukum yang \nadil sebagaimana amanat Pasal 28D ayat (1) UUD NRI 1945 \n1) Bahwa Pasal 28D aya t (1) UUD NRI 1945 secara tegas menjamin \nbahwa \"Setiap orang berhak atas pengakuan, jaminan, perlindungan, \ndan kepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum.\" Jaminan konstitusional tersebut merupakan hak asasi yang \ntidak dapat dikur angi dalam keadaan apapun dan mengikat seluruh \npenyelenggara negara maupun pembentuk undang -undang untuk \nmemastikan kepastian hukum bagi seluruh warga negara, termasuk \nmasyarakat yang memanfaatkan jasa hukum advokat; \n2) Bahwa hak atas kepastian hukum sebagaimana dijamin dalam Pasal \n28D ayat (1) UUD NRI 1945 mengandung makna bahwa setiap norma \nhukum yang dibentuk oleh pembentuk undang -undang harus memiliki \nkejelasan, ketegasan, dan tidak menimbulkan multitafsir ( vague norm) \nyang dapat merugikan masyarak at. Norma yang kabur dan tidak \nterstandar secara langsung mencederai kepastian hukum yang dijamin \noleh konstitusi, karena menciptakan ruang ketidakpastian dalam \nimplementasinya di lapangan. \n3) Bahwa Pasal 12 ayat (1) UU Advokat menyatakan bahwa \"Pengawasan \nterhadap Advokat dilakukan oleh Organisasi Advokat.\"  Frasa \n\"Organisasi Advokat\" dalam pasal tersebut tidak memberikan definisi \nyang tegas dan terstandar mengenai organisasi advokat mana yang \nberwenang melakukan pengawasan, sehingga ketentuan ini \nmengandung n orma yang kabur ( vague norm ) dan terbuka terhadap \n\n \n 13 \nmultitafsir yang berakibat pada lemahnya sistem pengawasan terhadap \nadvokat di Indonesia. Padahal Advokat mendirikan berbagai organisasi \nAdvokat sepanjang tidak menjalankan fungsi pelantikan, adalah \nkebolehan; \n4) Bahwa PEMOHON perlu men egaskan yang dimohonkan PEMOHON  \nbukanlah agar hanya boleh ada satu organisasi advokat di Indonesia. \nSebagaimana Putusan MK sebelumnya juga, keberadaan organisasi -\norganisasi advokat lain dibolehkan sepanjang organisasi -organisasi \ntersebut tidak menjalankan fungsi-fungsi yang oleh UU Advokat secara \neksklusif diberikan kepada PERADI. Yang PEMOHON mohonkan \nadalah: (a) hanya PERADI yang berhak menjalankan fungsi eksklusif; \ndan (b) pengawasan terhadap advokat dilaksanakan oleh satu Dewan \nKehormatan Advokat Nasional yang anggotanya berasal dari  berbagai \nunsur advokat. Hal ini diperlukan untuk menegaskan bahwa terlepas \ndari keanggotaan organisasi advokat apapun, mereka tetap tunduk pada \nsatu Dewan Kehormatan Advokat Nasional yang dibentuk oleh PERADI. \nSelain itu, anggota Dewan Kehormatan ini hany a boleh dari unsur \nadvokat saja;5 \n5) Bahwa “Sumpah atau janji sebagaimana dimaksud pada ayat (1), \nlafalnya sebagai berikut : “Demi Allah saya bersumpah/saya berjanji : \nbahwa saya akan memegang teguh dan mengamalkan Pancasila \nsebagai dasar negara dan Undang -Undang Dasar Negara Republik \nIndonesia; - bahwa saya untuk memperoleh profesi ini, langsung atau \ntidak langsung dengan menggunakan nama atau cara apapun juga, \ntidak memberikan atau menjanjikan barang sesuatu kepada siapapun \njuga; - bahwa saya dalam melaksanakan tugas profesi sebagai pemberi \njasa hukum akan bertindak jujur, adil, dan bertanggung jawab \nberdasarkan hukum dan keadilan; - bahwa saya dalam melaksanakan \ntugas profesi di dalam atau di luar pengadilan tidak akan memberikan \natau menjanjikan sesuatu kep ada hakim, pejabat pengadilan atau \npejabat lainnya agar memenangkan atau menguntungkan bagi perkara \nKlien yang sedang atau akan saya tangani; - bahwa saya akan menjaga \ntingkah laku saya dan akan menjalankan kewajiban saya sesuai dengan \nkehormatan, martabat , dan tanggung jawab saya sebagai Advokat; - \n\n \n 14 \nbahwa saya tidak akan menolak untuk melakukan pembelaan atau \nmemberi jasa hukum di dalam suatu perkara yang menurut hemat saya \nmerupakan bagian  daripada tanggung jawab profesi saya sebagai \nseorang Advokat”; \n6) Bahwa pada praktiknya banyak pengacara yang menggunakan kasus \nyang dikerjakannya untuk viralitas semata contohnya yaitu Razman Arif \nNasution yang pada saat itu menjadi kuasa hukum Vadel Badjideh \nhingga kasusnya yang ramai yaitu naik ke atas meja pengadilan. \nPerbuatan ini secara nyata bertentangan dengan Pasal 8 huruf f KEAI  \nyang menyatakan “Advokat tidak dibenarkan melalui media massa \nmencari publitas bagi dirinya dan atau untuk menarik perhatian \nmasyarakat mengenai tindakan -tindakannya sebagai Advokat \nmengenai perkara yang sedang atau telah ditanganinya, kecuali apabila \nketerangan-keterangan yang ia berikan itu bertujuan untuk menegakkan \nprinsip-prinsip hukum yang wajib diperjuangkan oleh setiap Advokat”; \n7) Bahwa hal tersebut dilarang dalam KEAI yakni Pasal 6 UU Advokat yang \nmenyatakan “Advokat dapat dikenai tindakan dengan alasan: b. berbuat \natau bertingkah laku yang tidak patut terhadap lawan atau rekan \nseprofesinya”; dan (iv) hilangnya kepercayaan terhadap sistem hukum \ndan profesi advokat secara keseluruhan; \n8) Bahwa pelanggaran yang dilakukan oleh advokat tersebut tidak hanya \nbertentangan dengan ketentuan normatif dalam UU Advokat dan KEAI, \ntetapi juga mencederai hakikat profesi advokat sebagai profesi \nterhormat ( officium nobile ) sebagaimana ditegaskan dalam Pasal  3 \nhuruf g KEAI. Konsepsi officium nobile menempatkan advokat sebagai \npenegak hukum yang menjunjung tinggi integritas, moralitas, dan \nkepercayaan publik, sehingga setiap tindakan seperti mencari publisitas \npribadi, dan menelantarkan kepentingan klien merup akan bentuk \ndegradasi serius terhadap kehormatan profesi tersebut; \n9) Bahwa berdasarkan fakta kasus tersebut di atas, terlihat dengan jelas \nbahwa sistem pengawasan advokat sebagaimana diatur dalam Pasal 12 \nayat (1) UU Advokat telah gagal melindungi kepentinga n masyarakat \npencari keadilan. Kegagalan ini terjadi karena norma pasal dimaksud \ntidak mengatur secara tegas: (i) organisasi advokat mana yang \n\n \n 15 \nberwenang melakukan pengawasan; (ii) mekanisme pengaduan yang \nmudah diakses oleh masyarakat awam; (iii) batas wak tu penanganan \npengaduan; dan (iv) sanksi yang terukur dan berkepastian hukum atas \npelanggaran yang dilakukan; \n10) Bahwa dalam sistem multi -organisasi advokat yang tidak terkendali \nsebagaimana uraian tersebut di atas, kualitas standar advokat menjadi \ntidak ters tandar dan cenderung menurun secara sistemis. Seorang \nadvokat yang tidak diterima dalam satu organisasi advokat dapat \ndengan mudah membentuk atau bergabung dengan organisasi advokat \nlain yang lebih longgar standar keanggotaan dan penegakan etiknya, \nsehingga profesi advokat tidak lagi dapat menjamin kompetensi dan \nintegritas anggotanya kepada masyarakat luas; \n11) Bahwa Mahkamah Konstitusi dalam Putusan Nomor 35/PUU -XVI/2018 \nhalaman 272, melalui keterangan Ahli Dr. Zainal Arifin Mochtar, telah \nmengakui secara eks plisit bahwa kondisi multi -organisasi advokat \nsangat dapat merugikan masyarakat luas para pencari keadilan, oleh \nkarena dilayani oleh advokat yang tidak berinduk pada wadah tunggal, \nsehingga ketika advokat tersebut melakukan pelanggaran etik, proses \npenegakan etiknya menjadi tidak jelas. Pengakuan Mahkamah \nKonstitusi ini secara a contrario membuktikan bahwa norma yang kabur \ndalam Pasal 12 ayat (1) dan Pasal 28 ayat (1) UU Advokat secara \nlangsung merugikan kepastian hukum masyarakat; \n12) Bahwa fragmentasi organi sasi advokat akibat norma kabur Pasal 28 \nayat (1) UU Advokat telah menurunkan kualitas teknik kerja dan standar \nintegritas profesi secara keseluruhan, sehingga menimbulkan kerugian \nkonstitusional berupa hilangnya kepastian hukum bagi klien \nsebagaimana diamanatkan Pasal 28D ayat (1) UUD NRI 1945. Fauziah \nLubis dkk., dalam kajiannya menyatakan bahwa “kode etik memiliki \nperan strategis dalam meningkatkan kualitas kerja advokat, antara lain: \n(1) memberikan panduan perilaku profesional, (2) meningkatkan \nkepercayaan klien, (3) menjamin kualitas layanan hukum, (4) \nmenegakkan tanggung jawab profesional, (5) mengatur mekanisme \nsanksi pelanggaran, dan (6) mendorong pendidikan berkelanjutan.” \nNamun demikian, “kode etik tidak sekadar aturan, tetapi instrumen untuk \n\n \n 16 \nmenjaga integritas, profesionalisme, dan kredibilitas advokat dalam \nsistem hukum” (Fauziah Lubis dkk., “Peran Kode Etik Dalam \nMeningkatkan Kualitas Teknik Kerja Advokat”, Jurnal Multidisiplin \nInovatif, Vol. 9 No. 1, Januari 2025, hlm. 186 –187). Ketidakjelasan \nnorma organisasi tunggal justru menghilangkan instrumen tersebut, \nsehingga advokat yang tidak berkualitas tetap dapat berpraktik dan \nmerugikan klien; \n13) Bahwa Mahkamah Konstitusi dalam Putusan Nomor 014/PUU -IV/2006 \ntanggal 30 November 2006 juncto Putusan Nomor  35/PUU-XVI/2018 \nhalaman 318-319 paragraf [3.25] butir 1, telah secara tegas menyatakan \nbahwa PERADI (Perhimpunan Advokat Indonesia) adalah satu-satunya \nwadah profesi advokat yang memiliki 8 (delapan) kewenangan \nberdasarkan UU Advokat, yaitu: (a) melaksana kan pendidikan khusus \nprofesi advokat; (b) melaksanakan pengujian calon advokat; (c) \nmelaksanakan pengangkatan advokat; (d) membuat kode etik; (e) \nmembentuk Dewan Kehormatan; (f) membentuk Komisi Pengawas; (g) \nmelakukan pengawasan; dan (h) memberhentikan a dvokat. Namun \ndemikian, fakta pasca-2019 menunjukkan bahwa amanat konstitusional \ntersebut tidak dapat dilaksanakan secara efektif akibat fragmentasi; \n14) Bahwa kondisi fragmentasi organisasi advokat pasca -2019 merupakan \nkerugian konstitusional baru yang belum pernah dipertimbangkan oleh \nMahkamah Konstitusi dalam putusan -putusan sebelumnya. Meskipun \nMahkamah Konstitusi dalam Putusan Nomor 35/PUU -XVI/2018 \nmenolak permohonan dengan alasan persoalan konstitusionalitas telah \nselesai, fakta lapangan justru membuktikan sebaliknya bahwa Pasal 28 \nayat (1) UU Advokat tidak lagi mampu menjamin adanya satu wadah \ntunggal organisasi advokat yang efektif, sehingga kerugian \nkonstitusional yang dialami masyarakat terus berlangsung dan tidak \ndapat diselesaikan melalui mekanisme lama; \n15) Bahwa Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham), \nsebagaimana diatur dalam sistem advokat yang berlaku saat ini, hanya \nberfungsi sebagai pencatat administrasi organisasi advokat tanpa \nmemiliki kewenangan untuk melakukan pengendalian kualita s maupun \npenegakan standar profesi advokat. Ketidakjelasan pembagian fungsi \n\n \n 17 \nantara pengawasan yang dilakukan oleh organisasi advokat dan \npencatatan yang dilakukan oleh Kemenkumham menciptakan \nkekosongan pengawasan yang efektif, sehingga masyarakat yang \ndirugikan oleh tindakan advokat yang tidak profesional seperti yang \ndialami di atas tidak memiliki kepastian tentang kemana dan kepada \nsiapa pengaduan harus diajukan; \n16) Bahwa ketidakpastian mengenai mekanisme pengawasan dan \npenegakan kode etik advokat sebagaima na diurai di atas telah secara \nnyata dan langsung mengakibatkan kerugian konstitusional bagi \nPEMOHON. Kerugian tersebut bersifat aktual, spesifik, dan memiliki \nhubungan kausalitas langsung dengan berlakunya Pasal 12 ayat (1) UU \nAdvokat yang tidak mengatur secara tegas mekanisme pengawasan \nyang terstandar, sehingga pelanggaran kode etik yang dilakukan oleh \nadvokat tidak dapat ditindaklanjuti secara efektif dan berkepastian \nhukum; \n17) Bahwa berbeda dengan profesi hukum lainnya seperti Hakim yang \nberada di bawah M ahkamah Agung dan Komisi Yudisial, serta Jaksa \nyang berada di bawah Kejaksaan Agung dalam satu komando yang \nterstruktur dan terstandar, profesi advokat justru terfragmentasi dalam \nsistem multi -organisasi yang tidak terkendali. Ketidaksepadanan \nstruktur kel embagaan ini menciptakan perlakuan yang tidak setara \ndalam konteks penegakan hukum di Indonesia, karena pencari keadilan \nyang menggunakan jasa advokat mendapatkan perlindungan yang jauh \nlebih lemah dibandingkan ketika berhadapan dengan hakim atau jaksa \nyang pengawasannya lebih terstruktur dan berkepastian hukum; \n18) Bahwa norma yang kabur ( vague norm ) dalam ketiga pasal yang \ndiujikan, yaitu Pasal 12 ayat (1) dan Pasal 28 ayat (1) UU Advokat, tidak \nhanya merugikan PEMOHON secara individual, tetapi juga berpotens i \nmerugikan seluruh masyarakat Indonesia yang menggunakan jasa \nhukum advokat. Hal ini disebabkan karena ketidakjelasan norma \npengawasan dan standar organisasi advokat membuka celah bagi \nadvokat-advokat yang tidak berkualitas dan tidak berintegritas untuk \ntetap dapat berpraktik tanpa pengawasan yang efektif, sehingga hak \n\n \n 18 \nkonstitusional masyarakat atas kepastian hukum sebagaimana dijamin \nPasal 28D ayat (1) UUD NRI 1945 menjadi tidak terlindungi; \n19) Bahwa berdasarkan seluruh uraian di atas, PEMOHON berpendapat \nbahwa di tengah banyaknya organisasi advokat, harus ada satu Dewan \nEtik Nasional Advokat yang mengawasi seluruh advokat. Tidak masalah \nbanyak organisasi advokat (yang tidak menjalankan fungsi pelantikan), \nnamun tetap harus satu Dewan Kehormatan Nasional. \nD. Pasal 12 ayat (1) dan Pasal 28 ayat (1) Undang-Undang Nomor 18 Tahun \n2003 tentang Advokat Bertentangan dengan Pasal 27 ayat (1) UUD NRI \n1945 karena Menciptakan Perlakuan Hukum yang Tidak Setara \ndikarenakan tidak setaranya kualitas Advokat dan pengawasannya \n1) Bahwa Pasal 27 ayat (1) UUD NRI 1945 menjamin : \"Segala warga \nnegara bersamaan kedudukannya di dalam hukum dan pemerintahan \ndan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada \nkecualinya.” Secara konstitusional mengandung makna bahwa setiap \nwarga negara berhak memperoleh perlindungan hukum yang setara, \ntermasuk dalam hal mengakses layanan bantuan hukum yang \nprofesional; \n2) Bahwa ketidakjelasan norma dalam Pasal 12 ayat (1) dan Pasal 28 ayat \n(1) UU Advokat telah mengakibatkan tidak adanya standar perlindungan \nhukum yang seragam bagi masyarakat pencari keadilan, sehingga hak \nkonstitusional atas persamaan kedudukan di hadapan hukum \nsebagaimana dijamin dalam Pasal 27 ayat (1) UUD NRI 1945 menjadi \ntereduksi, karena kualitas perlindungan h ukum yang diterima sangat \nbergantung pada advokat dan organisasi tempat advokat tersebut \nbernaung; \n3) Bahwa dalam kondisi multi-organisasi advokat yang tidak terstandar dan \ntidak terintegrasi, klien tidak memiliki jaminan bahwa advokat yang \ndigunakannya tunduk pada standar etik, pengawasan, dan penegakan \ndisiplin yang sama dengan advokat lainnya, sehingga menciptakan \nketidaksetaraan perlakuan hukum secara de facto antar warga negara \ndalam mengakses keadilan, yang bertentangan dengan prinsip equality \nbefore the law dalam Pasal 27 ayat (1) UUD NRI 1945; \n\n \n 19 \n4) Bahwa lemahnya sistem pengawasan yang bersumber dari norma yang \nkabur telah menyebabkan pelanggaran etik yang dilakukan oleh advokat \nyang menangani perkara klien tidak dapat ditindak secara efektif dan \nberkepastian hukum, sementara dalam kondisi lain pelanggaran serupa \ndapat ditindak berbeda oleh organisasi advokat yang berbeda, sehingga \nmenimbulkan disparitas penegakan etik yang melanggar prinsip \npersamaan di hadapan hukum; \n5) Bahwa akibat langsung dari kaburnya norma tersebut, klien tidak \nmemiliki akses yang jelas, pasti, dan setara terhadap mekanisme \npengaduan dan penegakan kode etik advokat, sehingga ketika haknya \ndilanggar oleh advokat yang tidak profesional, kien tidak memperoleh \nperlindungan hukum yang sama sebagaimana warga negara lainnya \ndalam sistem hukum yang terstandar, yang secara nyata merupakan \npelanggaran terhadap Pasal 27 ayat (1) UUD NRI 1945; \n6) Bahwa hak atas persamaan kedudukan di hadapan hukum \nsebagaimana dijamin Pasal 27 ayat (1) UUD NRI 1945 buk an sekadar \npersamaan formal di atas kertas, melainkan juga mencakup dimensi \nsubstantif, yakni setiap warga negara berhak mendapatkan \nperlindungan hukum yang setara dalam kualitas dan aksesibilitasnya. \nMahkamah Konstitusi dalam berbagai putusannya telah men egaskan \nbahwa equality before the law menghendaki tidak hanya persamaan di \nmuka aturan tertulis, tetapi juga persamaan dalam implementasi dan \npenegakan hukumnya. Oleh karenanya, norma yang secara struktural \nmemungkinkan terjadinya disparitas perlindungan a ntar warga negara \nadalah norma yang bertentangan dengan hakikat persamaan hak yang \ndijamin konstitusi dan karenanya harus dinyatakan inkonstitusional; \n7) Bahwa sistem multi -organisasi advokat yang timbul akibat kaburnya \nnorma Pasal 12 ayat (1) dan Pasal 28 ay at (1) UU Advokat secara \nsistemis telah menciptakan dua kelas masyarakat pencari keadilan: \npertama, mereka yang beruntung menggunakan jasa advokat dari \norganisasi dengan standar etik yang ketat dan dapat \ndipertanggungjawabkan; dan kedua, mereka yang bernas ib serupa \ndengan klien yang menggunakan jasa advokat dari organisasi dengan \npenegakan etik yang lemah dan tidak berkepastian hukum. Pembedaan \n\n \n 20 \nkelas perlindungan hukum ini sama sekali tidak didasarkan pada pilihan \natau kesalahan warga negara bersangkutan, m elainkan semata -mata \nakibat kekaburan norma yang bersumber dari undang -undang itu \nsendiri. Kondisi demikian secara terang -benderang melanggar prinsip \npersamaan kedudukan di hadapan hukum sebagaimana dimandatkan \nPasal 27 ayat (1) UUD NRI 1945; \n8) Bahwa Pasal 2 7 ayat (1) UUD NRI 1945 mengandung dua dimensi \nkewajiban konstitusional yang bersifat timbal balik, di satu sisi setiap \nwarga negara wajib menjunjung hukum, namun di sisi lain negara \nmelalui undang-undangnya wajib menjamin bahwa hukum yang harus \ndijunjung tersebut memberikan perlakuan yang setara kepada seluruh \nwarga negara tanpa terkecuali. Ketika undang -undang justru \nmengandung norma yang kabur dan membiarkan ketimpangan \nperlindungan hukum secara terstruktur, maka negara telah gagal \nmemenuhi kewajiban kon stitusionalnya. Dalam perkara a quo , \npembentuk undang -undang telah menciptakan norma yang secara \nstruktural membiarkan advokat tidak berkualitas tetap berpraktik tanpa \npengawasan yang efektif, sehingga masyarakat pencari keadilan \nmenanggung beban ketidakse taraan yang sesungguhnya merupakan \ntanggung jawab konstitusional negara; \n9) Bahwa berdasarkan perbandingan dengan profesi hukum lainnya, \nketimpangan perlakuan yang dialami pengguna jasa advokat semakin \ntampak nyata. Seorang warga negara yang perkara pidananya ditangani \noleh Jaksa mendapatkan jaminan bahwa Jaksa tersebut berada di \nbawah pengawasan berjenjang Kejaksaan Agung dengan standar yang \nseragam dan mekanisme pengaduan yang terstruktur. Demikian pula \nwarga negara yang berperkara di hadapan Hakim mendapatkan jaminan \npengawasan oleh Mahkamah Agung dan Komisi Yudisial. Sebaliknya, \nwarga negara yang menggunakan jasa advokat sebagai bagian integral \nsistem peradilan justru tidak mendapatkan jaminan serupa. Disparitas \nstruktural ini tidak memiliki justifikasi kon stitusional yang dapat \ndibenarkan dan merupakan pelanggaran nyata terhadap prinsip equality \nbefore the law dalam Pasal 27 ayat (1) UUD NRI 1945; \n\n \n 21 \n10) Bahwa PEMOHON selaku advokat yang menjalankan profesinya secara \nsungguh-sungguh dengan menjunjung tinggi standar etika dan integritas \nprofesi juga mengalami kerugian konstitusional atas hak persamaannya",
+      "start_line": 293,
+      "end_line": 751
+    },
+    {
+      "heading": "di hadapan hukum. Dalam lingkungan multi -organisasi yang tidak",
+      "slug": "di-hadapan-hukum-dalam-lingkungan-multi-organisasi-yang-tidak",
+      "text": "terstandar, PEMOHON sebagai advokat yang taat dan profesional \ndiperlakukan sama di hadapan hukum deng an advokat -advokat yang \nberada di bawah organisasi tanpa standar pengawasan yang memadai. \nKetidakmampuan sistem untuk membedakan advokat yang taat etik \ndengan yang tidak, secara paradoks justru merugikan advokat yang \nsungguh-sungguh menjalankan profesinya karena kehilangan \nkeunggulan kompetitif yang berbasis pada integritas. Kondisi ini \nmenciptakan insentif yang terdistorsi dalam profesi dan merupakan \npelanggaran terhadap hak persamaan kedudukan di hadapan hukum \nsebagaimana dijamin Pasal 27 ayat (1) UUD NRI 1945. \nIV. PETITUM \nBahwa dari seluruh dalil -dalil yang diuraikan di  atas dan bukti -bukti terlampir, \ndengan ini PEMOHON mohon kepada Yang Mulia Majelis Hakim Mahkamah \nKonstitusi untuk kiranya memberikan putusan sebagai berikut:",
+      "start_line": 753,
+      "end_line": 766
+    },
+    {
+      "heading": "2. Menyatakan Pasal 12 ayat (1) Undang -Undang Nomor 18 Tahun 2003",
+      "slug": "2-menyatakan-pasal-12-ayat-1-undang-undang-nomor-18-tahun-2003",
+      "text": "tentang Advokat (Lembaran Negara Tahun 2003, Nomor 49, Tambahan \nLembaran Negara Nomor 4288) bertentangan dengan Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945 dan tidak mempunyai \nkekuatan hukum mengikat sepanjang tidak dimaknai “ Pengawasan \nterhadap Advokat dilakukan hanya oleh satu Dewan Kehormatan Advokat \nNasional yang anggotanya terdiri dari berbagai unsur advokat”;",
+      "start_line": 769,
+      "end_line": 774
+    },
+    {
+      "heading": "3. Menyatakan frasa “Organisasi Advokat” dalam Pasal 28 ayat (1) Undang -",
+      "slug": "3-menyatakan-frasa-organisasi-advokat-dalam-pasal-28-ayat-1-undang",
+      "text": "Undang Nomor 18 Tahun 2003 tentang Advokat (Lembaran Negara Tahun \n2003, Nomor 49, Tambahan Lembaran Negara Nomor 4288) bertentangan \ndengan Undang -Undang Dasar Negara Republik Indonesia Tahun 19 45 \ndan tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimaknai \nsebagai “Perhimpunan Advokat Indonesia (PERADI)”;",
+      "start_line": 776,
+      "end_line": 780
+    },
+    {
+      "heading": "4. Menyatakan penjelasan Pasal 28 ayat (1) Undang -Undang Nomor 18",
+      "slug": "4-menyatakan-penjelasan-pasal-28-ayat-1-undang-undang-nomor-18",
+      "text": "Tahun 2003 tentang Advokat (Lembaran Negara Tahun 2003, Nomor 49, \n\n \n 22 \nTambahan Lembaran Negara Nomor 4288) bertentangan dengan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan tidak \nmempunyai kekuatan hukum mengikat sepanjang tidak dimaknai sebagai \n“Perhimpunan Advokat Indonesia (PERADI) yang dimaksud adalah yang \nterdaftar pada kementerian yang menyelenggarakan urusan pemerintahan",
+      "start_line": 782,
+      "end_line": 790
+    },
+    {
+      "heading": "di bidang hukum. Dalam hal terjadi sengketa terhadap status keterdaftaran",
+      "slug": "di-bidang-hukum-dalam-hal-terjadi-sengketa-terhadap-status-keterdaftaran",
+      "text": "tersebut, penyelesaiannya dilakukan melalui pengadilan yang berwenang \nsesuai dengan ketentuan peraturan perundang-undangan.” \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain mohon \nputusan yang seadil-adilnya (ex aequo et bono). \n [2.2] Menimbang bahwa untuk membuktikan dalil -dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-5, sebagai \nberikut:",
+      "start_line": 792,
+      "end_line": 798
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 18 Tahun 2003 tentang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-18-tahun-2003-tentang",
+      "text": "Advokat;",
+      "start_line": 800,
+      "end_line": 800
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Indonesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-indonesia",
+      "text": "Tahun 1945;",
+      "start_line": 802,
+      "end_line": 802
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk atas nama Zico Leonard",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-atas-nama-zico-leonard",
+      "text": "Djagardo Simanjuntak;",
+      "start_line": 804,
+      "end_line": 804
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Tanda Advokat a tas nama Zico Leonard",
+      "slug": "5-bukti-p-5-fotokopi-kartu-tanda-advokat-a-tas-nama-zico-leonard",
+      "text": "Djagardo Simanjuntak. \n[2. 3] Menimbang bahwa  untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 807,
+      "end_line": 810
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang -Undang Nomor 24 Tahun 2003 tentang \n\n \n 23 \nMahkamah Konstitusi sebagaimana telah diub ah terakhir dengan Undang -Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang -Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang -Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076, selanjutnya disebut UU 48/2009), Mahkamah berwenang, \nantara lain, mengadili pada tingkat pertama dan terakhir yang putusannya bersifat \nfinal untuk menguji undang-undang terhadap UUD NRI Tahun 1945; \n[3.2] Menimbang bahwa oleh karena permohonan a quo adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 12 ayat (1) dan Pasal 28 \nayat (1) serta Penjelasannya Undang -undang Nomor 18 Tahun 2003 tentang \nAdvokat (Lembaran Negara Tahun 2003, Nomor 49, Tambahan Lembaran Negara \nNomor 4288, selanjutnya disebut UU 18/2003) terhadap UUD NRI Tahun 1945 maka \nMahkamah berwenang mengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undang -undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak dan/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik Indonesia \nyang diatur dalam undang-undang;",
+      "start_line": 812,
+      "end_line": 844
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap UUD \nNRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat \n(1) UU MK; \n\n \n 24 \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang-undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005, yang diucapkan dalam sidang pleno terbuka untuk umum \npada tanggal  31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU -\nV/2007, yang diucapkan dalam sidang pleno terbuka untuk umum pada tanggal 20 \nSeptember 2007, serta putusan -putusan selanjutnya berpendirian bahwa kerugian \nhak dan/atau kewenangan konstitusional seba gaimana dimaksud dalam Pasal 51 \nayat (1) UU MK harus memenuhi lima syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 847,
+      "end_line": 868
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (khusus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-khusus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 870,
+      "end_line": 871
+    },
+    {
+      "heading": "d. adanya hubungan sebab -akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat -syarat kerugian hak dan/atau kewenangan konstitusional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon, sebagai berikut.",
+      "start_line": 873,
+      "end_line": 879
+    },
+    {
+      "heading": "1. Bahwa hak dan/atau kewenangan konstitusional Pemohon yang dijamin dalam",
+      "slug": "1-bahwa-hak-dan-atau-kewenangan-konstitusional-pemohon-yang-dijamin-dalam",
+      "text": "Pasal 27 ayat (1) dan Pasal 28D ayat (1) UUD NRI Tahun 1945 telah dirugikan \ndengan berlakunya Pasal 12 ayat (1), Pasal 28 ayat (1) serta Penjelasan UU  \n18/2003, yang selengkapnya menyatakan sebagai berikut:  \nPasal 12 ayat (1) UU 18/2003 \n“Pengawasan terhadap Advokat dilakukan oleh Organisasi Advokat”  \n \n\n \n 25 \nPasal 28 ayat (1) UU 18/2003 \n“(1) Organisasai Advokat merupakan satu-satunya wadah profesi Advokat \nyang bebas dan mandiri yang dibentuk sesuai dengan ketentuan \nUndang-Undang ini dengan maksud dan tujuan untuk meningkatkan \nkualitas profesi Advokat” \n \nPenjelasan Pasal 28 ayat (1) UU 18/2003 \nAyat (1) Cukup jelas.",
+      "start_line": 881,
+      "end_line": 898
+    },
+    {
+      "heading": "2. Bahwa Pemohon merupakan perseorangan warga negara Indonesia yang",
+      "slug": "2-bahwa-pemohon-merupakan-perseorangan-warga-negara-indonesia-yang",
+      "text": "berprofesi sebagai advokat, sehingga menjunjung tinggi kode etik advokat, dan \nmemiliki hak konstitusional dan kepentingan hukum yang sah terhadap \nkeberadaan Organisasi Advokat, yakni untuk mendapatkan pengawasan dari \nOrganisasi Advokat yang sah dan berwenang secara konstitusional.",
+      "start_line": 900,
+      "end_line": 903
+    },
+    {
+      "heading": "3. Bahwa berlakunya Pasal 12 ayat (1), Pasal 28 ayat (1) serta Penjelasan UU",
+      "slug": "3-bahwa-berlakunya-pasal-12-ayat-1-pasal-28-ayat-1-serta-penjelasan-uu",
+      "text": "18/2003 tidak memberikan kepastian tentang organisasi advokat mana yang \nsesungguhnya sah, berwenang, dan memiliki legitimasi untuk mel aksanakan \nfungsi pengawasan, pembinaan, dan perlindungan bagi advokat -advokat yang \nterdaftar di dalamnya. Padah al secara konstitusional Pemohon  berhak atas \nkepastian hukum suatu organisasi advokat, yang kedudukan nhukum \nkelambagaanya tidak dipersoalkan seh ingga setiap tindakan yang dilakukan \nPemohon selaku advokat memiliki dasar keabsahan yang tidak terbantahkan di \nhadapan hukum.",
+      "start_line": 905,
+      "end_line": 912
+    },
+    {
+      "heading": "4. Bahwa Pemohon pernah berhadapan dengan advokat bermasalah. Dalam",
+      "slug": "4-bahwa-pemohon-pernah-berhadapan-dengan-advokat-bermasalah-dalam",
+      "text": "perkara yang Pemohon hadapi, kuasa hukum lawan masih terus saja  \nmenghubungi prinsipal klien Pemohon, sehingga melanggar Pasal 7 huruf f \nKode Etik Advokat, yakni apabla prinsipal pihak berperkara telah menunjuk \nkuasa hukum, maka kuasa hukum tidak boleh lagi menghubungi prinsipal lawan.   \nBahwa berdasarkan uraian yang d ikemukakan dalam menjelaskan \nkedudukan hukum tersebut di atas, menurut Mahkamah Pemohon sebagai \nperseorangan warga negara Indonesia telah dapat menguraikan atau menjelaskan \nadanya anggapan kerugian hak konstitusional yang dialami karena berlakunya \nnorma Pasal 12 ayat (1) dan Pasal 28 ayat (1) serta  Penjelasannya dalam  UU \n18/2003, di mana berlakunya norma Pasal 12 ayat (1) dan Pasal 28 ayat (1)  serta \nPenjelasan UU a quo menyebabkan Pemohon sebagai advokat yang menjunjung \ntinggi kode etik, tidak mendap atkan perlindungan dan kepastian hukum yang adil \nmengenai organisasi advokat mana yang sesungguhnya sah dan memiliki \n\n \n 26 \nkewenangan untuk melaksanakan fungsi pengawasan, pembinaan, dan \nperlindungan bagi advokat yang terdaftar di dalamnya. Di samping  itu, uraian \nberkenaan dengan anggapan kerugian hak konstitusional Pemohon dimaksud, \nmenurut Mahkamah bersifat spesifik atau khusus  dan aktual yang mempunyai \nhubungan sebab -akibat ( causal verband ) dengan norma undang -undang dan \npenjelasan yang dimohonkan pengujian. Oleh karena itu, jika permohonan \nPemohon dikabulkan, maka  anggapan kerugian yang bersifat aktual yang dialami \noleh Pemohon tersebut, tidak terjadi lagi. Dengan demikian, terlepas dari terbukti \natau tidaknya berkaitan dengan inkonstitusionalitas norma yang dimoh onkan \npengujian, Mahkamah berpendapat Pemohon memiliki kedudukan hukum untuk \nbertindak sebagai pemohon dalam permohonan a quo. \n[3.6] Menimbang oleh karena Mahkamah berwenang untuk mengadili \npermohonan a quo  dan Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai Pemohon dalam permohonan a quo, maka selanjutnya Mahkamah akan \nmempertimbangkan pokok Permohonan Pemohon.  \nPokok Permohonan  \n[3.7] Menimbang bahwa Pemohon mendalilkan norma Pasal 12 ayat (1) dan \nPasal 28 ayat (1) serta Penjelasan UU 18/2003 bertentangan dengan Pasal 27 ayat \n(1) dan Pasal 28D ayat (1) UUD NRI Tahun 1945 dengan dalil -dalil permohonan \n(selengkapnya dimuat dalam bagian Duduk Perka ra) yang apabila dipahami dan \ndirumuskan Mahkamah pada pokoknya sebagai berikut:",
+      "start_line": 914,
+      "end_line": 950
+    },
+    {
+      "heading": "1. Bahwa menurut Pemohon, keabsahan Peradi sebagaimana diatur dalam Pasal",
+      "slug": "1-bahwa-menurut-pemohon-keabsahan-peradi-sebagaimana-diatur-dalam-pasal",
+      "text": "28 ayat (1) serta Penjelasan UU 18/2003 merupakan bentuk perlindungan \nhukum yang adil sebagaimana diamanatkan dalam Pasal 28 ayat (1) UUD NRI \nTahun 1945.",
+      "start_line": 952,
+      "end_line": 954
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, Putusan Mahkamah Konstitusi Nomor 014/PUU -",
+      "slug": "2-bahwa-menurut-pemohon-putusan-mahkamah-konstitusi-nomor-014-puu",
+      "text": "IV/2026 (sic) yang diucapkan dalam sidang Pleno terbuka untuk umum pada \ntanggal 30 November 2006 telah memutus mengenai persoalan \nkonstitusionalitas organisasi advokat sebagaimana dimaksudkan dalam Pasal \n28 ayat (1) UU 18/2003, yang dalam pertimbangan putusan a quo telah secara \ntegas menyatakan bahwa Peradi sebagai organisasi advokat yang merupakan \nsatu-satunya wadah organisasi profesi advokat.  \n\n \n 27",
+      "start_line": 956,
+      "end_line": 964
+    },
+    {
+      "heading": "3. Bahwa menurut Pemohon, dalam perspektif ketetanegaraan, lembaga mana",
+      "slug": "3-bahwa-menurut-pemohon-dalam-perspektif-ketetanegaraan-lembaga-mana",
+      "text": "yang berwenang menentukan Peradi mana yang sah. Advokat sebagai \npenegak hukum, seharusnya tidak dapat diintervensi oleh Pemerintah, \nsehingga menjadi contradictio interminis , apabila pro fesi advokat sebagai \nofficium nobile  yang independen, tetapi keabsahannya justru ditentukan oleh \npemerintah yang bisa saja menjadi pihak yang berseberangan.",
+      "start_line": 966,
+      "end_line": 970
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon, jika tidak ada ketentuan yang jelas terkait",
+      "slug": "4-bahwa-menurut-pemohon-jika-tidak-ada-ketentuan-yang-jelas-terkait",
+      "text": "keabsahan Peradi, maka hal dem ikian akan menjadi permasalahan \nketetanegaraan yang tiada akhir sehingga mengakibatkan tidak adanya \nperlindungan hukum yang  adil bagi para klien sebagai pengguna jasa advokat. \nSelain itu berdampak pula pada advokat yang memiliki integritas, sehingga \nperlu jalan keluar yang tepat berkenaan dengan keabsahan Peradi dimaksud, \nyakni perlu pengaturan mengenai keabsahan Peradi yang dimuat dalam \nUndang-Undang Advokat itu sendiri.",
+      "start_line": 972,
+      "end_line": 978
+    },
+    {
+      "heading": "5. Bahwa menurut Pemohon, pengaturan mengenai keabsahan Peradi dimuat",
+      "slug": "5-bahwa-menurut-pemohon-pengaturan-mengenai-keabsahan-peradi-dimuat",
+      "text": "dalam UU 18/2003, dimana Peradi yang dimaksud adalah Peradi yang terdaftar \npada kementerian yang mengurusi pemerintahan di bidang hukum, sehingga \njelas bahwa advokat tetap menjadi penegak hukum yang independen dan tidak \nsubordinat dengan penegak hukum lainnya. Sebagaimana asas lex specialis, \nmaka bentuk pengakuan terhadap independensi advokat harus diatur dalam \nUU 18/2003, sekalipun telah terdapat undang -undang lain yang mengatur \nmengenai kewenangan pencatatan oleh kementerian hukum, dan kewenangan \nmemutus perkara oleh badan peradilan.",
+      "start_line": 980,
+      "end_line": 987
+    },
+    {
+      "heading": "6. Bahwa menurut Pemohon, Penjelasan Pasal 28 ayat (1) UU 18/2003 yang",
+      "slug": "6-bahwa-menurut-pemohon-penjelasan-pasal-28-ayat-1-uu-18-2003-yang",
+      "text": "menyatakan, “Cukup jelas”, sesungguhnya tidak memberikan kepastian hukum \nyang memadai. Sec ara tekstual frasa “cukup jelas”  dalam Penjelasan Pasal \n28 ayat (1) dalam implementasinya mengakibatkan terjadinya multiafsir dan \nketidakpastian yang merugikan. Hal demikian dikarenakan secara faktual, \nPeradi mengalami fragmentasi menjadi beberapa pecahan . Oleh karenanya, \nMahkamah perlu memberikan pemaknaan terhadap Penjelasan Pasal 28 ayat \n(1) UU 18/2003 guna mengisi kekosongan normatif tersebut. Diberikannya \npemaknaan terhadap Penjelasan Pasal 28 ayat (1) UU 18/2003 justru \nmemberikan batas konstitusional yang jelas mengenai Peradi yang dimaksud, \nsehingga konflik antara ketentuan umum dan ketentuan pasal dapat dihindari \n\n \n 28 \nmelalui penunjukan Peradi yang terdaftar pada kementerian yang berwenang \nsebagaimana diuraikan di Petitum.",
+      "start_line": 989,
+      "end_line": 1003
+    },
+    {
+      "heading": "7. Bahwa menurut Pemohon, frasa “Organisasi Advokat” dalam Pasal 12 ayat (1)",
+      "slug": "7-bahwa-menurut-pemohon-frasa-organisasi-advokat-dalam-pasal-12-ayat-1",
+      "text": "UU 18/2003 tidak memberikan definisi yang tegas dan terstandar mengenai \norganisasi advokat mana yang berwenang melakukan pengawasan. Ketentuan \nini mengandung norma yang kabur ( vague norm ) dan terbuka terhadap \nmultitafsir yang berakibat pada lemahnya sistem pengawasan terhadap \nadvokat di Indonesia.",
+      "start_line": 1005,
+      "end_line": 1009
+    },
+    {
+      "heading": "8. Bahwa menurut Pemohon, terdapat pelanggaran yang dilakukan oleh advokat",
+      "slug": "8-bahwa-menurut-pemohon-terdapat-pelanggaran-yang-dilakukan-oleh-advokat",
+      "text": "lain, misalnya melakukan tindakan yang tidak hanya bertentangan dengan \nPasal 6 UU 18/2003 dan Pa sal 8 huruf f Kode Etik Advokat Indonesia (KEAI)  \ntetapi juga mencederai hakikat profesi advokat sebagai profesi terhormat \n(officium nobile). Sehingga terlihat jelas bahwa sistem pengawasan advokat \nsebagaimana diatur dalam Pasal 12 ayat (1) UU 18/2003 tela h gagal \nmelindungi kepentingan masyarakat pencari keadilan.",
+      "start_line": 1011,
+      "end_line": 1016
+    },
+    {
+      "heading": "9. Bahwa menurut Pemohon, norma yang kabur ( vague norm) dalam Pasal 12",
+      "slug": "9-bahwa-menurut-pemohon-norma-yang-kabur-vague-norm-dalam-pasal-12",
+      "text": "ayat (1), Pasal 28 ayat (1) serta Penjelasan UU 18/2003, tidak hanya \nmerugikan Pemohon secara individual tetapi juga berpotensi  merugikan \nseluruh masyarakat Indonesia yang menggunakan jasa advokat. Hal demikian \nterjadi sebagai akibat dari ketidakjelasan norma pengawasan dan standar \norganisasi advokat yang  membuka celah bagi pada advokat yang tidak \nberkualitas dan tidak berintegri tas untuk melakukan praktik namun tanpa \npengawasan yang efektif, sehingga hak konstitusional masyarakat atas \nkepastian hukum sebagaiamana dijamin dalam Pasal 28D  ayat (1) UUD NRI \nTahun 1945 menjadi tidak terlindungi.",
+      "start_line": 1018,
+      "end_line": 1026
+    },
+    {
+      "heading": "10. Bahwa menurut Pemohon, dalam kondisi multi-organisasi, advokat yang tidak",
+      "slug": "10-bahwa-menurut-pemohon-dalam-kondisi-multi-organisasi-advokat-yang-tidak",
+      "text": "terstandar dan tidak memiliki integritas mengakibatkan tidak adanya jaminan \nbagi klien pengguna jasa advokat bahwa advokat yang digunakannya tunduk \npada standar etik, pengawasan, dan penegakan disiplin yang sama dengan \nadvokat lainnya, sehingga menciptakan ketidaksetaraan perlakuan hukum \nsecara de facto antar warga negara dalam mengakses kekadilan. Dalam hal \ndemikian menjadi bertentangan dengan prinsip equality before the law  \nsebagaimana dijamin dalam Pasal 27 ayat (1) UUD NRI Tahun 1945.  \n\n \n 29",
+      "start_line": 1028,
+      "end_line": 1037
+    },
+    {
+      "heading": "11. Bahwa menurut Pemohon, sebagai penegasan yang dimohonkan Pemohon",
+      "slug": "11-bahwa-menurut-pemohon-sebagai-penegasan-yang-dimohonkan-pemohon",
+      "text": "adalah: (a) hanya PERADI yang berhak menjalankan fungsi yang oleh UU \nAdvokat secara eksklusif diberikan kepada PERADI, sebagaimana juga dalam \nputusan MK sebelumnya; dan (b) pengawasan terhadap advokat dilaksanakan \noleh satu Dewan Kehormatan Advokat Nasional yang anggotanya berasal dari \nberbagai unsur advokat. Hal ini diperlukan untuk menegaskan bahwa terlepas \ndari keanggotaan organisasi advokat apapun, mereka tetap tunduk p ada satu \nDewan Kehormatan Advokat Nasional yang dibentuk oleh PERADI dan yang \nanggotanya hanya boleh dari unsur advokat saja. \nBahwa berdasarkan dalil -dalil permohonan di atas, Pemohon dalam \npetitum permohonan pada pokoknya memohon kepada Mahkamah agar \nmenjatuhkan putusan, sebagai berikut:",
+      "start_line": 1039,
+      "end_line": 1049
+    },
+    {
+      "heading": "1. Menyatakan Pasal 12 ayat (1) UU 18/2003 bertentangan dengan U UD NRI",
+      "slug": "1-menyatakan-pasal-12-ayat-1-uu-18-2003-bertentangan-dengan-u-ud-nri",
+      "text": "Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang tidak \ndimaknai “pengawasan terhadap advokat dilakukan hanya oleh satu Dewan \nKehormatan Advokat Nasional yang anggotanya terdiri dari berbagai unsur \nadvokat”;",
+      "start_line": 1051,
+      "end_line": 1054
+    },
+    {
+      "heading": "2. Menyatakan frasa “Organisasi Advokat” dalam Pasal 28 ayat (1) UU 18/2003",
+      "slug": "2-menyatakan-frasa-organisasi-advokat-dalam-pasal-28-ayat-1-uu-18-2003",
+      "text": "bertentangan dengan U UD NRI Tahun 1945 dan tidak mempunyai kekuatan \nhukum mengikat sepanjang tidak dimaknai seba gai “Perhimpunan Advokat \nIndonesia (PERADI)”;",
+      "start_line": 1056,
+      "end_line": 1058
+    },
+    {
+      "heading": "3. Menyatakan Penjelasan Pasal 28 ayat (1) UU 18/2003 bertentangan dengan",
+      "slug": "3-menyatakan-penjelasan-pasal-28-ayat-1-uu-18-2003-bertentangan-dengan",
+      "text": "UUD NRI  Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat \nsepanjang tidak dimaknai sebagai “Perhimpunan Advokat Indonesia \n(PERADI) yan g dimaksud adalah yang terdaftar pada kementerian yang \nmenyelenggarakan urusan pemerintahan di bidang hukum. Dalam hal terjadi \nsengketa terhadap status keterdaftaran tersebut, penyelesaiannya dilakukan \nmelalui pengadilan yang berwenang sesuai dengan ketent uan peraturan \nperundang-undangan.” \n[3.8] Menimbang bahwa untuk membuktikan dalil -dalil permohonannya, \nPemohon telah mengajukan alat bukti surat/tulisan yang diberi tanda Bukti P -1 \nsampai dengan Bukti P-5, yang telah disahkan dalam persidangan pada tanggal 27 \nApril 2026 (selengkapnya dimuat dalam bagian Duduk Perkara).  \n\n \n 30 \n[3.9] Menimbang bahwa karena permohonan a quo  telah jelas, Mahkamah \nberpendapat bahwa tidak terdapat kebutuhan maupun urgensi untuk mendengarkan \nketerangan pihak-pihak sebagaimana dimaksud dalam Pasal 54 UU MK. \n[3.10]  Menimbang bahwa sebelum menilai konstitusionalitas norma pasal-pasal \nyang dimohonkan pengujian, terlebih dahulu Mahkamah akan mempertimbangkan \npermohonan Pemohon dikaitkan dengan ketentuan Pasal 60 UU MK dan Pasal 72  \nPeraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 tentang Tata Beracara Dalam \nPerkara Pengujian Undang -Undang (PMK 7/2025), apakah terhadap norma a quo \ndapat dimohonkan pengujian kembali.  \nPasal 60 UU MK  \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang -\nundang yang telah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan jika \nmateri muatan dalam Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945 yang dijadikan dasar pengujian berbeda.  \nPasal 72 PMK 7/2025  \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang -\nundang atau Perppu yang telah diuji, tidak dapat dimohonkan pengujian \nkembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan jika \nmateri muatan dalam UUD NRI Tahun 1945 yang dijadikan dasar \npengujian berbeda atau terdapat alasan permohonan yang berbeda. \nBerdasarkan ketentuan sebagaimana tersebut di atas, terhadap pasal \nyang telah diuji konstitusionalitasnya dan telah diputus oleh Mahkamah, maka hanya \ndapat dimohonkan pengujian kembali jika terdapat dasar pengujian dan/atau alasan \npermohonan yang berbeda. Berkenaan dengan hal tersebut, setelah Mahkamah \nmembaca dengan saksama permohonan Pemohon dan menyandingkannya dengan \npermohonan sebelumnya, yakni yang berkaitan dengan konstitusionalitas norma \nPasal 12 ayat (1) dan Pasal 28 ayat (1) UU 18/2003 dengan alasan diantaranya \nberkaitan dengan makna frasa “Organisasi Advokat” yang diatur dalam UU 18/2003 \nbersifat multitafsir atau dapat ditafsirkan lain atau yang menurut para Pemohon telah \ndimanipulasi oleh berbagai pihak sehingga memungkinkan munculnya berbagai \norganisasi advokat yang mengklaim dirinya seolah-oleh berwenang dan sah sebagai \npelaksana wewenang sebagaimana diatur dalam UU 18/2003, sebagaimana \ntermuat dalam Putusan Mahkamah Konstitusi Nomor 35/PUU -XVI/2018 yang \ndiucapkan dalam sidang pleno terbuka untuk umum pada tanggal 28 November",
+      "start_line": 1060,
+      "end_line": 1109
+    },
+    {
+      "heading": "2019. Lebih lanjut, berkenaan dengan perm ohonan sebelumnya yakni pengujian",
+      "slug": "2019-lebih-lanjut-berkenaan-dengan-perm-ohonan-sebelumnya-yakni-pengujian",
+      "text": "31 \nkonstitusionalitas norma Pasal 28 ayat (1) UU 18/2003 dengan alasan di antaranya \nberkenaan dengan terbentuknya organisasi advokat Peradi yang menurut anggapan \npara Pemohon merugikan Ikadin yang telah didirikan dengan susah  payah. Para \nPemohon juga mengkhawatirkan kebijakan pendaftaran ulang advokat yang \ndilakukan oleh Peradi akan merugikan hak-hak konstitusionalnya sebagai WNI dan \nsebagai advokat yang telah diangkat secara resmi oleh Pemerintah, sebagaimana \ntermuat dalam Pu tusan Mahkamah Konstitusi Nomor 014/PUU -IV/2006 yang \ndiucapkan dalam sidang pleno terbuka untuk umum pada tanggal 30 November \n2006; Berikutnya, terdapat pula permohonan yang menguji konstitusionalitas Pasal \n28 ayat (1) para Pemohon yang adalah Advokat dan tergabung dalam Persatuan \nAdvokat Indonesia, merasa hak konstitusional mereka terganggu oleh adanya \nketentuan Pasal 28 ayat (1) yaitu keharusan satu -satunya wadah organisasi \nadvokat, Pasal 30 ayat (2) yakni kewajiban setiap advokat menjadi anggota \norganisasi advokat, dan Pasal 32 ayat (4) UU 18/2003 yang memberi limit waktu \npaling lambat 2 (dua) tahun sejak berlakunya UU 18/2003 organisasi advokat sudah \nharus terbentuk karena menurut para Pemohon ketentuan -ketentuan tersebut \nbertentangan dengan semboyan Bhi nneka Tunggal Ika, bertentangan dengan hak \ntiap-tiap warga negara atas pekerjaan dan penghidupan yang layak bagi \nkemanusiaan, serta bertentangan dengan pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil yang dijamin dalam UUD 1945. Menurut Mah kamah, \npada hakikatnya alasan -alasan permohonan para Pemohon sama dengan dalam \nPutusan Mahkamah Konstitusi Nomor 014/PUU -IV/2006, sehingga permohonan \npara Pemohon sebagian ne bis in idem , sebagaimana termuat dalam Putusan \nMahkamah Konstitusi Nomor 66/PUU-VIII/2010, di mana dalam salah satu amarnya, \nputusan a quo  menyatakan, “ Permohonan para Pemohon sepanjang mengenai \npengujian Pasal 28 ayat (1) dan Pasal 32 ayat (4) Undang-Undang Nomor 18 Tahun \n2003 tentang Advokat (Lembaran Negara Republik Indonesia Tahun 2003 Nomor \n49, Tambahan Lembaran Negara Republik Indonesia Nomor 4288) tidak dapat \nditerima”, sebagaimana telah diucapkan dalam sidang terbuka untuk umum pada \ntanggal 27 Juni 2011. Pada hari yang sama, Mahkamah juga memutus Permohonan \nNomor 71/PUU -VIII/2010, yang menguji konstitusionalitas Pasal 28 ayat (1) UU \n18/2003 dan Putusan Mahkamah Konstitusi Nomor 79/PUU-VIII/2010, yang menguji \nkonstitusionalitas frasa, “satu -satunya” yang terdapat dalam Pasal 28 ayat (1) UU \n18/2003. Dalam Putusan Mahkamah Konstitusi Nomor 71/PUU -VIII/2010 a quo , \n\n \n 32 \ntelah ternyata bahwa alasan permohonan para Pemohon ne bis in idem untuk \nseluruhnya dengan Putusan Mahkamah Konstitusi Nomor 014/PUU -IV/2006 dan \nPutusan Mahkamah Konstitusi Nomor 66/PUU -VIII/2010, sehingga permohonan \npara Pemohon tidak dapat diterima. Demikian halnya dengan Putusan Mahkamah \nKonstitusi Nomor 79/PUU-VIII/2010, menyatakan bahwa pengujian seluruh Pasal 28 \nayat (1) UU 18/2003 telah diajukan dan telah diputus oleh Mahkamah dalam \nPutusan Nomor 014/PUU-IV/2006 bertanggal 30 November 2006, Putusan Nomor \n66/PUUVIII/2010 dan Putusan Nomor 71/PUU -VIII/2010 bertanggal 27 Juni 2011, \nmaka pengajuan permohonan   a quo khususnya frasa, “satu-satunya” yang terdapat \ndalam Pasal 28 ayat (1) UU 18/2003 dinyatakan ne bis in idem , sehingga amar \nPutusan Permohonan Nomor 71/PUU -VIII/2010 dan Nomor 79/PUU -VIII/2010, \nmasing-masing adalah tidak dapat diterima. Lebih lanjut, masih berkenaan dengan \npengujian konstitusionalitas norma Pasal 28 ayat (1) UU 18/2003 dengan alasan di  \nantaranya berkenaan tidak adanya pengaturan lebih lanjut tentang proses \npembentukan organisasi advokat, te rmasuk tidak menegaskan sistem pemilihan \npengurus pusat organisasi advokat sehingga terjadi kekosongan hukum tentang tata \ncara pembentukan organisasi advokat termasuk sistem pemilihan pengurus \npusatnya, sebagaimana termuat dalam Putusan Mahkamah Konstitusi  Nomor \n32/PUU-XIII/2015 yang diucapkan dalam sidang pleno terbuka untuk umum pada \ntanggal 28 Juli 2016. Selain itu, terdapat pengujian konstitusionalitas Pasal 28 ayat \n(1) UU 18/2003 terhadap UUD NRI Tahun 1945, yang dinyatakan gugur dikarenakan \nPemohon be rhalangan hadir dan meminta agar perkaranya digugurkan, \nsebagaimana termuat dalam Ketetapan Nomor 79/PUU -XX/2022 yang diucapkan \ndalam sidang pleno terbuka untuk umum pada tanggal 29 September 2022, \nsehingga Mahkamah belum dapat menilai alasan-alasan permohonan pemohon. \nBerdasarkan uraian sebagaimana tersebut di atas, oleh karena \nberkenaan dengan alasan permohonan dalam permohonan a quo yakni di antaranya \nberkaitan dengan pengaturan profesi advokat  tidak hanya terkait pada bentuk \norganisasi advokat yang single bar  secara formal, melainkan berkenaan dengan \nadanya sistem pengawasan yang terintegrasi, otoritatif, dan tidak terfragmentasi \nsehingga kepastian hukum, standar etik yang seragam, serta pelindungan yang \nefektif bagi pencari keadilan, dapat terjamin. Hal ini dikarenakan kondisi pasca-2019 \njustru menunjukkan fragmentasi organisasi advokat menimbulkan dampak pada \nketidakpastian dalam pengawasan dan penegakan kode etik, sehingga berdasarkan \n\n \n 33 \noutlier di Indonesia, para pencari keadilan mengalami kerugian. Oleh  karena itu, \nterdapat perbedaan dengan alasan -alasan permohonan sebelumnya. Dengan \ndemikian, oleh karena ketentuan Pasal 60 UU MK dan Pasal 72 PMK 7/2025 bersifat \nalternatif, menurut Mahkamah dengan telah terdapat adanya alasan permohonan \nyang berbeda maka terhadap ada atau tidaknya dasar pengujian yang berbeda tidak \nrelevan lagi untuk dibuktikan, sehingga terlepas secara substansial permohonan        \na quo beralasan atau tidak,  Mahkamah berpendapat secara formal  permohonan      \na quo tidak terhalang dengan ketentuan Pasal 60 UU MK dan Pasal 72 PMK 7/2025, \noleh karenanya terhadap permohonan a quo dapat diajukan kembali.  \n[3.11]  Menimbang bahwa oleh karena permohonan Pemohon dapat diajukan \nkembali, selanjutnya Mahkamah mempertimbangkan pokok permohonan berkaitan \ndengan persoalan konstitusionalitas norma yang dimohonkan pengujian oleh \nPemohon. Dalam hal ini, persoalan konstitusionalitas norma yang harus dijawab \noleh Mahkamah adalah apakah ketentuan Pasal 12 ayat (1) dan Pasal 28 ayat (1) \nserta Penjelasannya dalam UU 18/2003 mengandung norma yang kabur, sehingga \ndapat merugikan seluruh rakyat Indonesia ketika menggunakan jasa advokat karena \nketidakjelasan norma pengawasan serta kondisi multi-organisasi advokat yang tidak \nmemiliki standardis asi sehingga norma pasal dan Penjelasan UU a quo  \nbertentangan dengan UUD NRI Tahun 1945  apabila tidak dimaknai sebagaimana \npetitum Pemohon.  \n[3.12]  Menimbang bahwa sebelum mempertimbangkan dalil permohonan \nPemohon, Mahkamah perlu menguraikan hal-hal sebagai berikut. \n[3.12.1] Bahwa jika mendasarkan pada UU 18/2003, maka UU a quo  \nmenghendaki agar organisasi advokat merupakan wadah tunggal bagi profesi \nadvokat yang bebas dan mandiri guna meningkatkan kualitas profesi advokat \nsebagaimana termuat dalam Pasal 28 ayat (1) UU 18/2003. Namun demikian, dalam \nkenyataannya, terdapat beberap a kondisi yang menimbulkan persoalan \nkonstitusional, sehingga terhadap UU 18/2003 a quo telah diajukan pengujian ke \nMahkamah yang antara lain menguji konsitusionalitas organisasi advokat dan \npengaturan mengenai profesi advokat,  pengawasan termasuk di  antaranya \nberkenaan dengan pengucapan sumpah advokat di pengadilan tinggi dan \npendidikan bagi calon advokat.  \n\n \n 34 \n[3.12.2] Bahwa b erkenaan dengan organisasi advokat, Mahkamah merujuk \npada pertimbangan hukum  dalam Putusan Mahkamah Konstitusi Nomor 019/PUU-\nI/2003, yang diucapkan dalam sidang pleno terbuka untuk umum pada tanggal 18 \nOktober 2004 [vide Putusan Mahkamah Konstitusi Nomor 019/PUU-I/2003, hlm. 26-\n27], menyatakan sebagai berikut: \n “Menimbang, bahwa dalam kaitan ini Para Pemohon perlu memahami bahwa \nRancangan UU tentang Advokat telah mulai disusun sejak tahun 1999. Pada \nsaat itu baru terdapat beberapa organisasi advokat. Kemudian sesudah \nRancangan Undang -undang Advokat selesai dirumuskan, bahkan di saat \nRancangan Undang-undang ini tengah dibahas di DPR, muncullah beberapa \norganisasi advokat baru, yang diantaranya merupakan pecahan dari \norganisasi advokat yang telah ada. Sebagaimana dapat disimak dari \nketerangan Suhadi Somomoeljono, S.H. sebagai saksi yang diajukan oleh \nPara Pemohon dalam persidangan, dimasukka n atau tidaknya organisasi \nadvokat dalam pasal tersebut, bergantung kepada inisiatif dan kepedulian \norganisasi advokat yang bersangkutan untuk turut berpartisipasi dalam \nproses pembahasan RUU tersebut di DPR. Sebagaimana dialami oleh saksi, \ndimasukkannya organisasi advokat yang dijumpainya dalam pasal tersebut, \nkarena saksi aktif berpartisipasi dalam proses pembahasan RUU a quo; \n  Menimbang bahwa jika membaca pasal tersebut secara sepintas \nmemang dapat ditafsirkan seolah -olah tersirat adanya perlakuan yang \ndiskriminatif terhadap organisasi advokat tertentu, tetapi setelah dilihat \nproses pembahasannya, tidak ada maksud pembuat undang -undang untuk \nmengadakan perlakuan diskriminatif. Karena pengertian “untuk sementara” \nyang tercantum dalam Pasal 32 ayat (3) UU a quo harus dibaca tidak limitatif \nhanya pada delapan organisasi yang disebut di dalam pasal a quo akan tetapi \nterbuka pada organisasi advokat lain yang telah terbentuk sebelum UU a quo \ndiundangkan. \n  Menimbang bahwa berdasarkan pertimbangan -pertimbangan \nsebagaimana tersebut di atas maka Mahkamah berpendapat bahwa dalil-dalil \npermohonan Pemohon yang pada pokoknya menyatakan bahwa Penjelasan \nPasal 2 ayat (1), Pasal 14 sampai 17, Pasal 32 ayat (2), Pasal 3 ayat (1) dan \nPasal 32 ayat (3) UU No. 18 Tahun 2003 bertentangan dengan UUD 1945 \nadalah tidak beralasan dan oleh karenanya harus dinyatakan ditolak. \n Dalam Putusan 019/PUU -I/2003 a quo, berkenaan dengan organisasi \nadvokat, Mahkamah menyatakan bahwa norma Pasal 32 ayat (3) UU 18/2003 yang",
+      "start_line": 1111,
+      "end_line": 1258
+    },
+    {
+      "heading": "di dalamnya memuat tentang 8 (delapan) organisasi advokat yang untuk sementara",
+      "slug": "di-dalamnya-memuat-tentang-8-delapan-organisasi-advokat-yang-untuk-sementara",
+      "text": "menjalankan tugas dan wewenang Organisasi Advokat, tetap konstitusion al. \nSelanjutnya, Mahkamah dalam pertimbangan hukum dalam Putusan Mahkamah \nKonstitusi Nomor 006/PUU -II/2004 yang diucapkan dalam sidang pleno terbuka \nuntuk umum pada tanggal 13 Desember 2004 [vide Putusan Mahkamah Konstitusi \nNomor 006/PUU-II/2004, hlm. 32], menyatakan sebagai berikut:  \n\n \n 35 \n“... Bahkan, andaikatapun maksud demikian tidak ada, sebagaimana \nditerangkan wakil Pemerintah (c.q. Dirjen Hukum dan Perundang-undangan) \npada persidangan tanggal 23 Agustus 2004, rumusan Pasal 31 undang -\nundang a quo dapat melahirkan penafsiran yang lebih luas daripada maksud \npembentuk undang -undang ( original intent ) yang dalam pelaksanaannya \ndapat menimbulkan ketidakpastian hukum dan ketidakadilan bagi banyak \nanggota masyarakat yang membutuhkan jasa pelayanan dan bantuan hukum \nkarena Pasal 31 UU No.18 Tahun 2003 dimaksud dapat menjadi hambatan \nbagi banyak anggota masyarakat yang tak mampu menggunakan jasa \nadvokat, baik karena alasan finansial maupun karena berada di wilayah \ntertentu yang belum ada advokat yang berpraktik di wila yah itu, sehingga \nakses masyarakat terhadap keadilan menjadi makin sempit bahkan tertutup. \nPadahal, akses pada keadilan adalah bagian tak terpisahkan dari ciri lain \nnegara hukum yaitu bahwa hukum harus transparan dan dapat diakses oleh \nsemua orang ( accessible to all ), sebagaimana diakui dalam perkembangan \npemikiran kontemporer tentang negara hukum. Jika seorang warga negara \nkarena alasan finansial tidak memiliki akses demikian maka adalah kewajiban \nnegara, dan sesungguhnya juga kewajiban para  advokat untuk \nmemfasilitasinya, bukan justru menutupnya (vide Barry M. Hager, The Rule \nof Law, 2000, hal. 33); \n Berdasarkan kutipan  uraian pertimbangan hukum dalam Putusan \nMahkamah Konstitusi Nomor 006/PUU-II/2004, Mahkamah menjelaskan kedudukan \norganisasi advokat, dengan menyatakan bahwa organisasi advokat merupakan \norgan negara dalam arti luas karena memiliki kewajiban yang sama dengan negara \ndalam hal memfasilitasi akses pada keadilan bagi semua orang. Pertimbangan \nhukum demikian, dik uatkan lagi melalui pertimbangan hukum Putusan Mahkamah \nKonstitusi Nomor 014/PUU-IV/2006, yang diucapkan dalam sidang pleno terbuka \nuntuk umum pada tanggal 30 November 2006 [vide Putusan Mahkamah Konstitusi \nNomor 014/PUU-IV/2006, angka 2 dan angka 4, hlm. 56-57], yang menyatakan \nsebagai berikut. \n“1. …",
+      "start_line": 1260,
+      "end_line": 1298
+    },
+    {
+      "heading": "2. bahwa Pasal 28 Ayat (1) UU Advokat yang arahnya menuju “single bar",
+      "slug": "2-bahwa-pasal-28-ayat-1-uu-advokat-yang-arahnya-menuju-single-bar",
+      "text": "organization”, tetapi dari fakta persidangan menurut keterangan PERADI \ndan delapan organisasi yang mengemban tugas sementara Organisasi \nAdvokat sebelum organisasi dimaksud terbentuk [vide Pasal 32 Ayat (3) \ndan Ayat (4) UU Advokat], yakni Ikadin, AAI, IPHI, SPI, HAPI, AKHI, \nHKHPM, dan APSI, kedelapan organisasi pendiri PERADI tersebut tetap \neksis namun kewenangannya sebagai organisasi profes i Advokat, yaitu \ndalam hal kewenangan membuat kode etik, menguji, mengawasi, dan \nmemberhentikan Advokat [vide Pasal 26 Ayat (1), Pasal 3 Ayat (1) huruf \nf, Pasal 2 Ayat (2), Pasal 12 Ayat (1), dan Pasal 9 Ayat (1) UU Advokat], \nsecara resmi kewenangan terseb ut telah menjadi kewenangan PERADI \nyang telah terbentuk. Adapun kedelapan Organisasi Advokat pendiri \nPERADI tetap memiliki kewenangan selain kewenangan yang telah \n\n \n 36 \nmenjadi kewenangan PERADI, sehingga tidak dapat dikatakan bahwa \nPasal 28 Ayat (1) UU Advokat meniadakan eksistensi kedelapan \norganisasi, yang karenanya melanggar prinsip kebebasan berserikat dan \nberkumpul sebagaimana diatur UUD 1945 (vide  Putusan Mahkamah \nNomor 019/PUU -I/2003). Dengan demikian, dalil Pemohon yang \nmenyatakan bahwa Pasal 28 Ayat (1)  UU Advokat bertentangan dengan \nUUD 1945 tidak beralasan;",
+      "start_line": 1300,
+      "end_line": 1321
+    },
+    {
+      "heading": "4. bahwa ketentuan Pasal 5 Ayat (1) UU Advokat yang memberikan status",
+      "slug": "4-bahwa-ketentuan-pasal-5-ayat-1-uu-advokat-yang-memberikan-status",
+      "text": "kepada Advokat sebagai penegak hukum yang mempunyai kedudukan \nsetara dengan penegak hukum lainnya dalam menegakkan hukum dan \nkeadilan menunjukkan bahwa karena kedudukannya itu diperlukan suatu \norganisasi yang merupakan satu -satunya wadah profesi Advokat \nsebagaimana dimaksud dalam Pasal 28 Ayat (1) UU Advokat. Karena, \nPasal 28 Ayat (1) UU Advokat menyebutkan, ”Organisasi Advokat \nmerupakan satu-satunya wadah profesi Advokat yang bebas dan mandiri \nyang dibentuk sesuai dengan ketentuan Undang -Undang ini dengan \nmaksud dan tujuan untuk meningkatkan kualitas profesi Advokat”, maka \norganisasi PERADI sebagai satu -satunya wadah profesi Advok at pada \ndasarnya adalah organ negara dalam arti luas yang bersifat mandiri \n(independent state organ ) yang juga melaksanakan fungsi negara (vide \nPutusan Mahkamah Nomor 066/PUU-II/2004); bahwa penyebutan secara \neksplisit nama delapan organisasi yang tercantu m dalam Pasal 32 Ayat \n(3) dan Pasal 33 UU Advokat tidaklah menyalahi hakikat suatu aturan \nperalihan yang oleh ahli dari Pemohon dianggap memihak kelompok \ntertentu, melainkan hanya untuk mengukuhkan fakta hukum tertentu \n(legal fact ) yang ada dan peralihanny a ke dalam fakta hukum baru \nmenurut UU Advokat; \n Berdasarkan kutipan uraian pertimbangan hukum dalam Putusan \nMahkamah Konstitusi Nomor 014/PUU-IV/2006, Mahkamah bukan hanya \nmenjelaskan kedudukan Peradi, namun juga menyatakan bahwa Peradi terbentuk \natas prakarsa 8 (delapan) organisasi advokat, yakni Ikatan Advokat Indonesia \n(IKADIN), Asosiasi Advokat Indonesia (AAI), Ikatan Penasihat Hukum Indonesia \n(IPHI), Himpunan Advokat dan Pengacara Indonesia (HAPI), Serikat Pengacara \nIndonesia (SPI), Asosiasi Konsultan Hukum Indonesia (AKHI), Himpunan Konsultan \nHukum Pasar Modal (HKHPM), dan Asosiasi Pengacara Syariah Indonesia (APSI), \nyang tetap eksis, yang kewenan gannya dalam menjalankan tugas organisasi \nadvokat secara resmi telah menjadi kewenangan Peradi, namun kedelapan \norganisasi advokat tersebut tetap memiliki kewenangan selain kewenangan yang \ntelah menjadi kewenangan Peradi. Oleh sebab itu, Peradi merupakan w adah \ntunggal organisasi advokat yang bebas dan mandiri ( independent state organ) dan \nyang juga melaksanakan fungsi negara dalam hal memberikan akses untuk \nmendapatkan keadilan bagi semua masyarakat. Meskipun, dalam perjalanannya, \n\n \n 37 \nPeradi dianggap belum mamp u untuk mewadahi semua kepentingan profesi \nadvokat, sehingga memunculkan organisasi advokat yang lain, yang juga \nmelakukan kewenangan selayaknya Peradi. Terlebih, karena munculnya persoalan \ndalam im plementasi norma Pasal 4 ayat (1) UU 18/2003 sebagai akiba t adanya \nsurat edaran Mahkamah Agung yang melarang Pengadilan Tinggi mengambil \nsumpah para calon advokat sebelum bersatunya organisasi advokat tersebut. \nTerhadap kondisi demikian, berkenaan dengan pengucapan sumpah advokat oleh \npengadilan tinggi dikaitkan dengan kondisi organisasi advokat pada saat itu, melalui \npertimbangan hukum pada Paragraf [3.14] huruf d sampai dengan huruf i Putusan \nMahkamah Konstitusi Nomor 101/PUU -VII/2009, yang diucapkan dalam sidang \npleno terbuka untuk umum pada tanggal 30 Desember  2009 [vide Putusan \nMahkamah Konstitusi Nomor 101/PUU -VII/2009, hlm.  35-36], Mahkamah \nmenyatakan sebagai berikut.  \n [3.14] ... \nf. Bahwa penyelenggaran sidang terbuka Pengadilan Tinggi \nuntuk mengambil sumpah bagi para Advokat sebelum \nmenjalankan profesinya sebagaimana yang tercantum \ndalam Pasal 4 ayat (1) UU Advokat merupakan kewajiban \natributif yang diperintahkan oleh Undang-Undang, sehingga \ntidak ada alasan untuk tidak menyelenggarakannya. Namun \ndemikian, Pasal 28 ayat (1) UU Advokat juga \nmengamanatkan ada nya Organisasi Advokat yang \nmerupakan satu-satunya wadah profesi Advokat, sehingga \npara Advokat dan organisasiorganisasi Advokat yang saat \nini secara de facto ada, yaitu Perhimpunan Advokat \nIndonesia (PERADI) dan Kongres Advokat Indonesia (KAI), \nharus meng upayakan terwujudnya Organisasi Advokat \nsebagaimana dimaksud Pasal 28 ayat (1) UU Advokat; \ng. Berdasarkan uraian tersebut di atas, Pasal 4 ayat (1) UU \nAdvokat adalah konstitusional sepanjang frasa “di sidang \nterbuka Pengadilan Tinggi di wilayah domisili hukumnya” \nharus dimaknai sebagai kewajiban yang diperintahkan oleh \nUndang-Undang untuk dilaksana kan oleh Pengadilan \nTinggi tanpa mengaitkannya dengan adanya dua organisasi \nAdvokat yang secara de facto  ada dan sama -sama \nmengklaim sebagai organisasi Advokat yang sah menurut \nUU Advokat; \nh. Bahwa untuk mendorong terbentuknya Organisasi Advokat \nyang merupaka n satu -satunya wadah profesi Advokat \nsebagaimana ditentukan dalam Pasal 28 ayat (1) UU \nAdvokat, maka kewajiban Pengadilan Tinggi untuk \nmengambil sumpah terhadap para calon Advokat tanpa \nmemperhatikan Organisasi Advokat yang saat ini secara de \nfacto ada seb agaimana dimaksud pada paragraf [3.14] \n\n \n 38 \nhuruf g di atas yang hanya bersifat sementara untuk jangka \nwaktu selama 2 (dua) tahun sampai terbentuknya \nOrganisasi Advokat yang merupakan satu -satunya wadah \nprofesi Advokat melalui kongres para Advokat yang \ndiselenggarakan bersama oleh organisasi advokat yang \nsecara de facto saat ini ada;",
+      "start_line": 1323,
+      "end_line": 1412
+    },
+    {
+      "heading": "i. Bahwa apabila setelah jangka waktu dua tahun Organisasi",
+      "slug": "i-bahwa-apabila-setelah-jangka-waktu-dua-tahun-organisasi",
+      "text": "Advokat sebagaimana dimaksud Pasal 28 ayat (1) UU \nAdvokat belum juga terbentuk, maka perselisihan tentang \norganisasi Advokat yang sah diselesaikan melalui Peradilan \nUmum; \n Bahkan agar tidak terjadi lagi persoalan di level implementasi, Mahkamah \nkemudian memuat pertimbangan hukum a quo  dalam amar putusannya, yang \nselengkapnya sebagai berikut.  \n     Mengadili,  \n Menyatakan mengabulkan permohonan para Pemohon untuk sebagian; \n Menyatakan Pasal 4 ayat (1) Undang-Undang Nomor 18 Tahun 2003 tentang \nAdvokat (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 49, \nTambahan Lembaran Negara Republik Indonesia Nomor 4288) adalah \nbertentangan dengan Undang -Undang Dasar Negara Republik Indonesia \nTahun 1945 sepanjang tidak dipenuhi syarat bahwa frasa “di sidang terbuka \nPengadilan Tinggi di wilayah domisili hukumnya” tidak dimaknai bahwa \n“Pengadilan Tinggi atas perintah Undang -Undang wajib mengambil sumpah \nbagi para Advokat sebelum menjalankan profesinya tanpa mengaitkan \ndengan keanggotaan Organisasi Advokat yang pada saat ini secara de facto \nada, dalam jangka waktu 2 (dua) tahun sejak Amar Putusan ini diucapkan”; \n Menyatakan Pasal 4 ayat (1) Undang-Undang Nomor 18 Tahun 2003 tentang \nAdvokat (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 49, \nTambahan Lembaran Negara Republik Indonesia Nomor 4288) tidak \nmempunyai kekuatan hukum mengikat sepanjang frasa “di sidang terbuka \nPengadilan Tinggi  di wilayah domisili hukumnya” tidak dimaknai bahwa \n“Pengadilan Tinggi atas perintah Undang -Undang wajib mengambil sumpah \nbagi para Advokat sebelum menjalankan profesinya tanpa mengaitkan \ndengan keanggotaan Organisasi Advokat yang pada saat ini secara de facto \nada, dalam jangka waktu 2 (dua) tahun sejak Amar Putusan ini diucapkan”; \n Menyatakan apabila setelah jangka waktu dua tahun Organisasi Advokat \nsebagaimana dimaksud Pasal 28 ayat (1) UU Advokat belum juga terbentuk, \nmaka perselisihan tentang organisasi Advokat yang sah diselesaikan melalui \nPeradilan Umum; \n Menolak permohonan para Pemohon untuk selain dan selebihnya;  \n Memerintahkan pemuatan amar Putusan ini dalam Berita Negara Republik \nIndonesia sebagaimana mestinya \n Berdasarkan kutipan uraian pertimbangan  hukum dan  amar Putusan \nMahkamah Konstitusi Nomor 101/PUU-VII/2009, sebagaimana telah disebutkan di \natas, meskipun Mahkamah telah menyatakan secara tegas dalam putusan \n\n \n 39 \nsebelumnya bahwa Peradi merupakan wadah organisasi tunggal advokat, namun \ndikarenakan terjadinya dualisme, maka dalam putusan a quo Mahkamah kembali \nmengingatkan para advokat dan organisasi advokat yang ada secara de facto, yaitu \nmerujuk pada Peradi dan KAI, agar secara bersama -sama mengupayakan \nterwujudnya organisasi advokat sebagaimana amanat yang dimaksud dalam Pasal \n28 ayat (1) UU 18/2003.  \n[3.12.3] Bahwa masih berkenaan dengan keabsahan Peradi sebagai wadah \ntunggal organisasi advokat, melalui Putusan Mahkamah Konstitusi Nomor 66/PUU-\nVIII/2010, yang diucapkan dalam sidang pleno terbuka untuk umum pada  tanggal \n27 Juni 2011, Mahkamah kembali menyatakan pendirian dalam pertimbangan \nhukum pada Sub -paragraf [3.9.7] dengan merujuk pada Putusan Mahkamah \nKonstitusi Nomor 014/PUU-IV/2006 [vide Putusan Mahkamah Konstitusi Nomor \n66/PUU-VIII/2010, hlm. 341-342], dengan menyatakan sebagai berikut. \n[3.9.7] Bahwa Pasal 28E ayat (3) dan Pasal 28D ayat (1) UUD 1945, yang \ndiajukan oleh para Pemohon dalam permohonan Nomor 014/PUU -\nIV/2006, 342 Mahkamah telah memberikan pertimbangan, antara lain, \n“Bahwa ketentuan Pasal 5 ayat (1) UU Advokat yang memberikan status \nkepada Advokat sebagai penegak hukum yang mempunyai kedudukan \nsetara dengan penegak hukum lainnya dalam menegakkan hukum dan \nkeadilan menunjukkan bahwa karena kedudukannya itu diperlukan suatu \norganisasi yang merupakan satu-satunya wadah profesi Advokat. Karena \nPasal 28 ayat (1) UU Advokat menyebutkan, Organisasi Advokat  \nmerupakan satu-satunya wadah profesi Advokat yang bebas dan mandiri \nyang dibentuk sesuai dengan ketentuan Undang -Undang ini, dengan \nmaksud dan tujuan untuk meningkatkan kualitas profesi Adv okat, maka \norganisasi PERADI sebagai satu -satunya wadah profesi Advokat pada \ndasarnya adalah organ negara dalam arti luas yang bersifat mandiri \n(independent state organ ) yang juga melaksanakan fungsi negara (vide \nPutusan Mahkamah Nomor 066/PUU -II/2004)”. S atu-satunya wadah \nprofesi Advokat sebagaimana dimaksud dalam UU Advokat adalah \nsatusatunya wadah profesi Advokat yang memiliki wewenang untuk \nmelaksanakan pendidikan khusus profesi Advokat [Pasal 2 ayat (1)], \npengujian calon Advokat [Pasal 3 ayat (1) huruf f], pengangkatan Advokat \n[Pasal 2 ayat (2)], membuat kode etik [Pasal 26 ayat (1)], membentuk \nDewan Kehormatan [Pasal 27 ayat (1)], membentuk Komisi Pengawas \n[Pasal 13 ayat (1)], melakukan pengawasan [Pasal 12 ayat (1)], dan \nmemberhentikan Advokat [Pasal 9 ayat (1), UU Advokat]. UU Advokat \ntidak memastikan apakah wadah profesi advokat lain yang tidak \nmenjalankan wewenang -wewenang tersebut berhak untuk tetap eksis \natau tetap dapat dibentuk. Memperhatikan seluruh ketentuan dan norma \ndalam UU Advokat serta ke nyataan pada wadah profesi Advokat, \nmenurut Mahkamah, satu-satunya wadah profesi Advokat yang dimaksud \nadalah hanya satu wadah profesi Advokat yang menjalankan 8 (delapan) \n\n \n 40 \nkewenangan a quo , yang tidak menutup kemungkinan adanya wadah \nprofesi advokat lain y ang tidak menjalankan 8 (delapan) kewenangan \ntersebut berdasarkan asas kebebasan berkumpul dan berserikat menurut \nPasal 28 dan Pasal 28E ayat (3) UUD 1945. Hal ini diperkuat dengan \nfakta bahwa dalam pembentukan PERADI, 8 (delapan) organisasi \nadvokat yang a da sebelumnya tidak membubarkan diri dan tidak \nmeleburkan diri pada PERADI; \n Lebih lanjut, masih dalam dalam pertimbangan hukum Putusan \nMahkamah Konstitusi Nomor 66/PUU-VIII/2010, dalam Sub -paragraf [3.9.11], \nMahkamah menyatakan sebagai berikut.  \n[3.9.11]  Bahwa mengenai pengujian Pasal 32 ayat (4) UU Advokat telah pernah \ndimohonkan pengujian dan telah diputus oleh Mahkamah dalam \nPutusan Nomor 014/PUU-IV/2006, tanggal 30 November 2006 tersebut",
+      "start_line": 1414,
+      "end_line": 1513
+    },
+    {
+      "heading": "di atas, Mahkamah dalam pertimbangannya antara lain menyatakan,",
+      "slug": "di-atas-mahkamah-dalam-pertimbangannya-antara-lain-menyatakan",
+      "text": "“Bahwa Pasal 32 ayat (3) dan ayat (4) UU Advokat sesungguhnya \nmerupakan pasal yang sudah selesai dilaksanakan dengan telah \nberlalunya tenggat dua tahun dan dengan telah terbentuknya PERADI \nsebagai Organisasi Advokat yang merupakan satu -satunya wadah \nprofesi Advokat, sehingga tidak relevan lagi untuk dipersoalkan \nkonstitusionalitasnya”; \n Berdasarkan kutipan uraian pertimbangan hukum dalam Putusan \nMahkamah Konstitusi Nomor 66/PUU -VIII/2010 sebagaimana tersebut di atas, \nMahkamah kembali menyatakan Peradi sebagai organisasi tunggal profesi Advokat, \nyang memiliki 8 (delapan) kewenangan sebagaimana termuat dalam UU 18/2003, \nyakni kewenangan untuk i) melaksanakan pendidikan khusus profesi Advokat, ii) \npengujian calon Advokat, iii) pengangkatan Advokat, iv) membuat kode etik, v) \nmembentuk Dewan Kehormatan, vi) membentuk Komisi Pengawas, vii) melakukan \npengawasan, dan viii) memberhentikan Advokat. \n[3.12.4] Bahwa dalam perkembangannya, meskipun Mahkamah dalam beberapa \nputusan telah menyatakan Peradi sebagai organisasi tunggal, namun realita \ndualisme bahkan pluralisme organisasi advokat tidak dapat dihindari, maka \npersoalan pengucapan sumpah profesi advokat terulang kembali. Adapun \npersoalannya disebabkan pengadilan tinggi tidak bersedia untuk menyelenggarakan \nsumpah advokat bagi advokat yang bukan merupakan anggota Peradi. Pemohon \nmendalilkan bahwa hak konstitusionalnya sebagai warga negara Indonesia yang \nberprofesi sebagai advokat telah dirugikan secara spesifik karena berlakunya norma \nPasal 4 ayat (1) UU 18/2003 yang dianggap oleh para Pemohon menghalang -\nhalangi haknya untuk bekerja sebagai advokat, sebagaimana termuat dalam \n\n \n 41 \nPermohonan Nomor 112/PUU -XII/2014. Selanj utnya, terdapat persoalan \nkonstitusional lainnya yakni dalam Permohonan Nomor 36/PUU -XIII/2015, secara \nfaktual Pemohon dirugikan dengan keberlakuan UU 18/2003, di mana terdapat \ntindakan sepihak untuk mendiskriminasi anggota advokat non -Peradi dengan \nterbitnya Surat Keputusan Mahkamah Agung Nomor 089/KMA/2010 bertanggal 25 \nJuni 2010, yang pada pokoknya melarang anggota advokat non-Peradi beracara di \nseluruh tingkat peradilan mulai dari Pengadilan Negeri, Pengadilan Agama, \nPengadilan Tata Usaha Negara, jika tidak dapat menunjukkan Berita Acara Sumpah \nyang dikeluarkan oleh Ketua Pengadilan Tinggi di wilayah hukumnya. Berdasarkan \nkedua permohonan a quo, dapat disimpulkan bahwa persoalan konstitusionalitas \nnorma yang diuji dikarenakan berlakunya norma Pasal 4 ayat (1) UU 18/2003 yang \ndikaitkan dengan perselisihan antara Peradi dan KAI. Terhadap persoalan \nkonstitusionalitas a quo , Mahkamah dalam pertimbangan hukum pada Paragraf \n[3.14] Putusan Mahkamah Konstitusi Nomor 112/PUU -XII/2014 dan Putusan \nMahkamah Konstitus i Nomor 36/PUU -XIII/2015, yang diucapkan dalam sidang \npleno terbuka untuk umum pada tanggal 29 September 2015 [vide Putusan \nMahkamah Konstitusi Nomor 112/PUU-XII/2014 dan Putusan Mahkamah Konstitusi \nNomor 36/PUU -XIII/2015, huruf b s.d. huruf d, hlm. 87 -90], menyatakan sebagai \nberikut. \n [3.14] ...",
+      "start_line": 1515,
+      "end_line": 1561
+    },
+    {
+      "heading": "2. bahwa, sebagaimana telah dinyatakan oleh Mahkamah dalam",
+      "slug": "2-bahwa-sebagaimana-telah-dinyatakan-oleh-mahkamah-dalam",
+      "text": "putusan-putusan sebelumnya, wadah tunggal advokat yaitu Peradi, \nadalah konstitusional. Namun sebagai satu -satunya wadah profesi \nadvokat yang memiliki wewenang untuk melaksanakan pendidikan \nkhusus prof esi advokat [Pasal 2 ayat (1) UU Advokat], pengujian \ncalon advokat [Pasal 3 ayat (1) huruf f UU Advokat], pengangkatan \nadvokat [Pasal 2 ayat (2) UU Advokat], membuat kode etik [Pasal 26 \nayat (1) UU Advokat], membentuk Dewan Kehormatan [Pasal 27 \nayat (1) UU Advokat], membentuk Komisi Pengawas [Pasal 13 ayat \n(1) UU Advokat], melakukan pengawasan [Pasal 12 ayat (1) UU \nAdvokat], dan memberhentikan Advokat [Pasal 9 ayat (1) UU \nAdvokat] (vide Putusan Nomor 66/PUU-VIII/2010 bertanggal 27 Juni \n2011), Peradi tidak m emiliki wewenang untuk menyumpah calon \nadvokat. Meskipun Mahkamah Agung dalam persidangan perkara a \nquo telah emnyatakan tidak masalah jika pengambilan sumpah tidak \nharus dilakukan di hadapan sidang Pengadilan Tinggi karena \nMahkamah Agung bersifat tidak be rpihak dan penyumpahan \ndiserahkan kepada profesi advokat itu sendiri, Mahkamah tetap \nmengacu dan konsisten pada pertimbangan hukum Putusan Nomor \n\n \n 42 \n101/PUU-VII/2009 a quo yang menjadi landasan hukum pentingnya \npenyumpahan calon advokat dilakukan oleh Pengadil an Tinggi, \nantara lain karena profesi advokat telah diposisikan secara formal \nsebagai penegak hukum (vide Pasal 5 UU Advokat) dan dalam \nrangka melindungi para klien dari kemungkinan penyalahgunaan \nprofesi advokat. Selain itu, penyumpahan calon advokat oleh  \nPengadilan Tinggi adalah guna melindungi kemuliaan profesi \nadvokat itu sendiri; sebagaimana nilai penting perihal pelantikan \nadvokat tersebut telah dipertimbangkan oleh Mahkamah dalam \nPutusan Nomor 103/PUU-XI/2013, bertanggal 11 September 2014, \npada Pragraf [3.16] yang menyatakan bahwa, “…pengangkatan dan \npelantikan advokat merupakan perwujudan untuk peningkatan \nkualitas profesi advokat yang menjalankan profesi mulia (officium \nnobile), yang pada akhirnya ke depan para advokat dapat \nmembangun keadilan di tengah-tengah masyarakat dalam perannya \npada proses pengakan hukum di Indonesia… ” sehingga ketentuan \nyang tercantum dalam Pasal 4 ayat (1) UU Advokat tersebut \nkonstitusional; \nBahwa dalam Putusan Nomor 101/PUU -VII/2009 tersebut pula, \nMahkamah menyatakan bahwa  ketentuan yang mewajibkan para \nAdvokat sebelum menjalankan profesinya harus mengambil sumpah \nsebagaimana diatur dalam Pasal 4 ayat (1) UU Advokat, tidak boleh \nmenimbulkan hambatan bagi para advokat untuk bekerja atau \nmenjalankan profe sinya yang dijamin ol eh UUD 1945. Oleh \nkarenanya, dengan mendasarkan pada pertimbangan hukum \ntersebut, Amar Putusan Nomor 101/PUU -VII/2009 menyatakan, \nPengadilan Tinggi atas perintah Undang -Undang wajib mengambil \nsumpah bagi para Advokat sebelum menjalankan profesinya tanpa \nmengaitkan dengan keanggotaan Organisasi Advokat yang pada \nsaat ini secara de facto ada, dalam jangka waktu 2 (dua) tahun sejak \namar putusan tersebut diucapkan. Selain itu, Mahkamah juga \nmenyatakan apabila setelah jangka waktu dua tahun Organisasi \nAdvokat se bagaimana dimaksud  Pasal 28 ayat (1)  UU Advokat \nbelum juga terbentuk, maka perselisihan tentang organisasi Advokat \nyang sah diselesaikan melalui Peradilan Umum;",
+      "start_line": 1563,
+      "end_line": 1619
+    },
+    {
+      "heading": "3. bahwa, meskipun pasca Putusan Nomor 101/PUU -VII/2009 a quo",
+      "slug": "3-bahwa-meskipun-pasca-putusan-nomor-101-puu-vii-2009-a-quo",
+      "text": "telah ada piagam perdamaian/nota ke sepahaman antara PERADI \ndan KAI bertanggal  24 Juni 2010 yang piagam tersebut juga \ndiketahui dan ditandatangani pula oleh Ketua Mahkamah Agung saat \nitu, Dr. H. Arifin A. Tumpa, S.H., M.H. dan proses penandatanganan \npiagam tersebut dihadiri dan diketahui pula oleh Menteri Hukum dan \nHAM saat itu, Patrialis Akbar (vide alat bukti tertulis bertanda PT -8 \ndan PT -10) yang menandai bersatunya para advokat dalam satu \nwadah organisasi, namun para Pemohon pada faktanya masih \nmengalami kesulitan beracara di pengadilan karena Pengadilan \nTinggi tidak bersedia menyumpah para advokat yang bukan berasal \ndari PERADI; \n… \n\n \n 43 \nMahkamah berpendapat, demi terwujudnya asas kemanfaatan \n(kemaslahatan) hukum dan terjaminnya asas keadilan serta \nterlaksananya asas kepastian hukum khususnya b agi para calon \nadvokat, bahwa dengan telah lewatnya masa dua tahun \nsebagaimana amar putusan Mahkamah dalam Perkara Nomor \n101/PUU-VII/2009, Mahkamah perlu memperkuat kembali amar \nputusan tersebut dan mempedomani kembali ketentuan Pasal 4 ayat \n(1) UU Advokat  sebagaimana telah diputus Mahkamah dalam \nPutusan Nomor 101/PUU-VII/2009 a quo, yaitu bahwa Pasal 4 ayat \n(1) UU Advokat sepanjang frasa “di sidang terbuka Pengadilan \nTinggi” bertentangan dengan UUD 1945 sepanjang tidak dimaknai \n“Pengadilan Tinggi atas peri ntah Undang-Undang wajib mengambil \nsumpah bagi para Advokat sebelum menjalankan profesinya tanpa \nmengaitkan dengan keanggotaan Organisasi Advokat yang pada \nsaat ini secara de facto ada” dan Mahkamah tidak perlu lagi \nmemberikan jangka waktu penyelesaian kon flik internal organisasi \nadvokat yang terus muncul karena pada dasarnya persoalan \neksistensi kepengurusan yang sah dari lembaga advokat tersebut \nadalah menjadi tanggung jawab sepenuhnya dari lembaga tersebut \nselaku organisasi yang bebas dan mandiri yang di bentuk dengan \nmaksud dan tujuan untuk meningkatkan kualitas profesi advokat \n[vide Pasal 28 ayat (1) UU Advokat] yang dapat dimaknai pula bahwa \nnilai profesionalitas tersebut mencakup pula kemampuan para \nadvokat untuk menyelesaikan konflik internal lembaga tersebut. \nDalam kaitannya untuk mewujudkan asas kemanfaatan hukum, \nkeharusan mengambil sumpah para advokat oleh Pengadilan Tinggi \ntanpa mengaitkan dengan keanggotaan Organisasi Advokat yang \npada saat ini secara de facto ada, adalah supaya tidak mengganggu \nproses pencarian keadilan (access to justice) bagi masyarakat yang \nmembutuhkan jasa advokat dan tidak pula menghalang-halangi hak \nkonstitusional para advokat sebagaimana telah diuraikan pada \nparagraf [3.14] huruf a di atas. Selain itu, yang dimaksud dengan  \nfrasa “Organisasi Advokat yang pada saat ini secara de facto ada” \ndalam Putusan Nomor 101/PUU-VII/2009 di atas, konteksnya adalah \nmerujuk pada Organisasi PERADI dan KAI;",
+      "start_line": 1621,
+      "end_line": 1670
+    },
+    {
+      "heading": "4. bahwa Mahkamah Agung menegaskan tidak memiliki kepentingan",
+      "slug": "4-bahwa-mahkamah-agung-menegaskan-tidak-memiliki-kepentingan",
+      "text": "untuk mempertahankan pasa l mengenai advokat tergabung dalam \nwadah tunggal ( singlebar) atau multibar dan menyerahkan \nsepenuhnya persoalan tersebut kepada Mahkamah. Terhadap hal \ntersebut, Mahkamah berpendapat, meskipun pada pertimbangan \nhukum Mahkamah dalam putusan sebelumnya pada p okoknya \nmenyatakan bahwa wadah tunggal organisasi adalah konstitusional, \nnamun hal tersebut esensinya menjadi bagian dari kebijakan hukum \nyang terbuka yang menjadi kewenangan bagi pembentuk Undang -\nUndang (Presiden dan DPR) beserta pemangku kepentingan (par a \nadvokat dan organisasi advokat) untuk menentukan apakah \nselamanya organisasi advokat akan menjadi organisasi tunggal atau \nberubah menjadi multi organ. Oleh karenanya, masih terdapat upaya \nhukum lainnya yaitu melalui proses legislative review  yang juga \nmenjadi bagian dari tindakan konstitusional yang dapat dilakukan \noleh para advokat untuk menentukan solusi yang terbaik bagi \n\n \n 44 \neksistensi organisasi advokat serta untuk menjamin dan melindungi \nhak-hak konstitusional para advokat dalam menjalankan profesinya; \n Berdasarkan kutipan uraian pertimbangan hukum dalam Putusan \nMahkamah Konstitusi Nomor 112/PUU-XII/2014 dan Putusan Mahkamah Konstitusi \nNomor 36/PUU -XIII/2015 sebagaimana tersebut di atas, Mahkamah menjawab \npolemik tentang pengucapan sumpah adv okat dengan tetap menjaga konsistensi \npertimbangan hukum mengenai konstitusionalitas norma Pasal 4 ayat (1) UU \n18/2003, yakni dengan merujuk pada Putusan Mahkamah Konstitusi Nomor \n101/PUU-VII/2009. Namun demikian, dalam Putusan Mahkamah Konstitusi Nomor \n112/PUU-XII/2014 dan Putusan Mahkamah Konstitusi Nomor 36/PUU -XIII/2015 \ntersebut di atas, Mahkamah menyadari bahwa realita pluralisme organisasi advokat \ntidak dapat dihindari, sehingga dalam praktik sulit untuk mewujudkan desain single \nbar. Namun demikian, di satu sisi kebutuhan terhadap standardisasi profesi advokat, \nyang salah satunya berkenaan dengan pengucapan sumpah advokat di dalam \nsidang pengadilan tinggi sebagaimana dimaksud dalam Pasal 4 ayat (1) UU \n18/2003, tetap harus dijaga, mengingat advokat meru pakan officium nobile. Oleh \nkarenanya, Mahkamah mengakui bahwa meskipun dalam putusan -putusan \nsebelumnya menyatakan bahwa Peradi merupakan wadah tunggal organisasi \nprofesi advokat, namun dikarenakan adanya benturan antara desain normatif single \nbar dalam UU Advokat dengan adanya realita pluralisme organisasi advokat dalam \npraktik, maka Mahkamah menyerahkan status organisasi advokat apakah akan \ntetap menjadi single bar ataupun multibar yang pada pokoknya menjadi kebijakan \nhukum terbuka pembentuk undang-undang.  \n[3.13]  Menimbang bahwa selanjutnya, Mahkamah mempertimbangkan \nberkenaan dengan konstitusionalitas norma Pasal 28 ayat (1) serta Penjelasan UU \n18/2003 terlebih dahulu, yakni berkenaan dengan keabsahan Peradi sebagai satu -\nsatunya wadah organ isasi profesi advokat. Pasca berlakunya UU 18/2003, \ndibentuklah Peradi dalam rangka mewujudkan amanat Pasal 28 ayat (1) UU \n18/2003, di mana pembentukan Peradi diprakarsai oleh 8 (delapan) organisasi \nadvokat yang saat itu telah eksis, dan kedelapan organisa si advokat a quo  \ndisebutkan namanya dalam Pasal 32 ayat (3) UU 18/2003, yaitu IKADIN, AAI, IPHI, \nHAPI, SPI, AKHI, HKHPM, dan APSI. Secara historis dapat dikatakan bahwa \npembentukan Peradi bersumber langsung dari delegasi UU 18/2003. Namun, \nseiring berjalannya waktu, ternyata keabsahan Peradi masih terus dipertanyakan, \n\n \n 45 \nhingga terdapat beberapa kali pengujian konstitusionalitas UU 18/2003 khususnya \nyang berkaitan dengan Peradi. Terhadap persoalan tersebut, dalam beberapa \nputusan, Mahkamah secara konsisten telah menyatakan pendiriannya, yakni bahwa \nPeradi merupakan wadah tunggal organisasi profesi advokat. Hal demikian \ndinyatakan kembali dengan Putusan Mahkamah Konstitusi yang menafsirkan bahwa \narah organisasi Peradi adalah single bar [vide Putusan Mahkamah Konstitusi Nomor \n014/PUU-IV/2006]. Dalam hal ini, karena Peradi merupakan satu -satunya wadah \norganisasi advokat, maka Peradi memiliki kewenangan untuk menjalankan fungsi \norganisasi profesi advokat, sebagaimana dimaksud dalam UU 18/2003, yakni \nkewenangan untuk melaksanakan pendidikan khusus profesi Advokat, pengujian \ncalon Advokat, pengangkatan Advokat, menetapkan kode etik, membentuk Dewan \nKehormatan, membentuk Komisi Pengawas, melakukan pengawasan, dan \nmemberhentikan Advokat. Dalam perkembangannya , keberadaan Peradi ternyata \nbelum mampu menyelesaikan persoalan kelembagaan di dalam Peradi. Keadaan di \nmana para advokat  dan organisasi advokat tidak berhasil membentuk organisasi \nadvokat yang bersifat tunggal sebagaimana amanat UU 18/2003, justru membuat \nsemakin banyak organisasi advokat bermunculan bahkan sampai dengan saat ini, \ndan masing -masing organisasi advokat terseb ut mengklaim dirinya sebagai \norganisasi profesi yang absah dan sesuai dengan amanat UU 18/2003. Bahkan, \nberbagai organisasi advokat tersebut menjalankan kewenangan organisasi profesi \nsebagaimana yang termuat dalam UU 18/2003, yakni menyelenggarakan \npendidikan profesi, pengujian, pengangkatan, membentuk kode etik,  melakukan \npengawasan, membentuk Dewan Kehormatan, membentuk Komisi Pengawas, dan \nmemberhentikan advokat. \n Berkenaan dengan kondisi demikian, Mahkamah berpendapat bahwa \ndalam konstruksi awal UU 18/2 003, Peradi memang dibentuk sebagai organisasi \ntunggal (single bar organization), hal ini dikarenakan Peradi diberikan kewenangan \nuntuk menjalankan tugas sebagai organisasi profesi, yang antara lain kewenangan \nuntuk melakukan pengangkatan advokat, melakuka n pelaksanaan Pendidikan \nKhusus Profesi Advokat (PKPA), melaksanakan ujian profesi, kode etik serta \npengawasan profesi. Namun, dengan munculnya benturan antara desain normatif \nUU 18/2003 dan realita banyaknya organisasi profesi advokat yang baru, maka \nmelalui Putusan Mahkamah Konstitusi Nomor 112/PUU -XII/2014 dan Putusan \nMahkamah Konstitusi Nomor 36/PUU -XIII/2015, Mahkamah menyerahkan status \n\n \n 46 \norganisasi advokat apakah akan tetap menjadi single bar ataupun multibar menjadi \nkebijakan hukum terbuka pembentuk un dang-undang. Dalam hal ini, Mahkamah \ntidak membatalkan konstitusionalitas norma Pasal 28 ayat (1) UU 18/2003, namun \nMahkamah tidak pula hendak menutup eksistensi dari organisasi advokat lainnya. \nPeradi tetap sah dan konstitusional sebagai organisasi advokat karena memperoleh \nlegitimasi historis dan normatif langsung dari UU 18/2003, yakni sebagai organisasi \nprofesi advokat awal yang didesain sebagai organisasi tunggal. Mahkamah justru \nmenyatakan bahwa pengadilan tinggi wajib mengambil sumpah advokat tanpa \nmelihat asal keanggotaan organisasi advokat yang secara de facto ada. Keadaan \ndemikian dikaitkan dengan perkembangan praktik ketatanegaraan dan adanya \ndinamika profesi dan organisasi advokat, mengakibatkan legitimasi yang dimiliki \noleh Peradi tidak lagi dapat dimaknai sebagai kewenangan yang bersifat monopoli, \nhadirnya organisasi-organisasi advokat lainnya yang menjalankan organisasi profesi \nadvokat di Indonesia, di samping sebagai manifestasi prinsip kebebasan bersikap \ndan berkumpul yang dijamin oleh konstitusi. Namun demikian, banyaknya organisasi \nprofesi advokat yang ada, tidak serta merta menjamin adanya peningkatan kualitas \npada profesi advokat. Faktanya justru sebaliknya, semakin banyak anggota profesi \nadvokat, tidak terdapat standar rujukan yang sama dalam mengimplementasikan \nkebijakan, antara lain untuk merekrut anggota advokat, menyelenggarakan \npendidikan advokat, mengangkat anggota advokat hingga menegakkan kode etik \nadvokat. Masing-masing organisasi advokat mengklaim dirinya memiliki legitimasi \nberdasarkan UU 18/2003, sehingga menimbulkan fragmentasi di antara organisasi \nadvokat.  \n Dalam kondisi demikian, desain normatif dan desain kelembagaan \norganisasi advokat yang semula dibangun dengan perspektif dari pembentuk \nundang-undang mengenai desain organisasi profesi advokat yang tunggal dan yang \nmenjalankan fungsi organisasi profesi oleh satu organisasi tunggal dengan \nstandardisasi dan pengawasan etik yang terpadu dan terpusat sesuai dengan UU \n18/2003, ternyata konsep atau desain tentang wadah tunggal bagi organisasi profesi \nadvokat tidak lagi memadai untuk menjawab dinamika dan realita praktik profesi dan \norganisasi advokat saat ini, sehingga diperlukan perubahan untuk dapat menjawab \ndinamika dan persoalan yang terjadi berkenaan dengan organisasi advokat. \nMenurut Mahkamah, persoalan utama organisasi advokat saat ini  bukan lagi \nmengenai keabsahan organisasi advokat tertentu, tetapi lebih kepada ketiadaan \n\n \n 47 \nperaturan perundang-undangan yang mampu memisahkan fungsi representatif dan \nfungsi regulatif dalam organisasi advokat. Perlunya pemisahan fungsi demikian, \ndidasarkan pada praktik organisasi advokat selama ini, di mana organisasi advokat \nmerangkap sebagai regulator, penguji, pengawas sekaligus penegak etik. Padahal, \nbeberapa fungsi tersebut memiliki peran dan fungsi yang tidak sama. Dalam hal ini, \nfungsi representatif d imaksud adalah fungsi organisasi profesi yang antara lain \nbersifat representatif, asosiatif, mampu mengadvokasi anggota serta memiliki visi \ndan misi bagi pengembangan profesi advokat. Sementara fungsi regulatif, antara \nlain bersifat independen, netral, mem iliki standardisasi, pengawasan dan \npenegakan disiplin. Dengan adanya pemisahan fungsi representatif dan fungsi \nregulatif, maka konflik kepentingan dalam mengelola organisasi advokat, baik \nsecara internal maupun antarorganisasi seharusnya dapat dihindari.  \n Dengan berdasar pada kebutuhan untuk memperbaiki tata kelola \norganisasi advokat, maka Mahkamah mendorong pembentuk undang-undang untuk \nsegera melakukan perubahan UU 18/2003. Perubahan dimaksud bukan untuk \nmenghapus kebebasan berserikat para advokat, namun lebih kepada pembentukan \nperaturan atau regulasi yang proporsional, terintegrasi, independen, dan akuntabel \nguna menjamin adanya kepastian hukum yang berkeadilan dan dapat melindungi \nhak-hak konstitusional para advokat dan hak -hak konstitusional warga nega ra \nsebagai pencari keadilan. Perubahan UU 18/2003 tersebut dilakukan dengan \nmengatur, antara lain: 1) desain kelembagaan organisasi advokat; 2) pengaturan \nmengenai pemisahan fungsi, yakni antara organisasi profesi dan regulator profesi; \n3) bentuk regulator, misalnya dewan, konsil atau majelis; 4) kewenangan regulator; \n5) hubungan antara regulator dan organisasi; dan 6) mekanisme akuntabilitas \nregulator dan organisasi advokat. Selain keenam hal tersebut, dalam revisi UU \n18/2003 juga perlu menetapkan hal-hal yang terkait dengan standar nasional profesi \nadvokat, yaitu apa saja yang menjadi standar konstitusional minimum dari profesi \nadvokat yang antara lain meliputi prinsip standardisasi kompetensi yang berlaku \nsecara seragam dan nasional; prinsip standardisasi  pendidikan profesi dengan \nkurikulum minimum yang memenuhi standar kompetensi nasional dan kualitas \nlembaga penyelenggara; prinsip ujian profesi nasional yang harus seragam, objektif, \ntransparan dan akuntabel; prinsip rekrutmen anggota advokat; prinsip pengawasan \ndan disiplin yang menyangkut standar etik dan due procces dalam pemeriksaan etik; \nprinsip independensi profesi; dan prinsip akuntabilitas dan transparansi. Prinsip \n\n \n 48 \nstandar nasional profesi advokat tersebut harus diatur dalam revisi UU 18/2003 \ndikarenakan undang-undang yang harus menentukan bagaimana profesi advokat \ntersebut diatur, sejauh mana hak profesi advokat tersebut dibatasi dan bagaimana \nperan negara untuk mengawasi profesi advokat tersebut. Dalam hal ini, meskipun \norganisasi advokat independen, namun peran negara tetap diperlukan, bukan untuk \nmengontrol independensi advokat, namun karena profesi advokat menjalankan \nfungsi publik yang berkaitan langsung dengan sistem peradilan, akses terhadap \nkeadilan ( access to justice ), dan perlindungan terh adap hak konstitusional warga \nnegara. Oleh karena itu, negara memiliki kewajiban untuk menjamin kualitas \npelayanan hukum, integritas profesi advokat, serta perlindungan terhadap hak -hak \nmasyarakat pencari keadilan dalam kerangka negara hukum dan peradilan yang adil \n(fair trial).  \n[3.14]  Menimbang bahwa berdasarkan uraian fakta hukum tersebut di atas, \nselanjutnya Mahkamah mempertimbangkan isu konstitusionalitas yang dipersoalkan \noleh Pemohon berkaitan dengan norma Pasal 28 ayat (1) UU 18/2003 beserta \nPenjelasannya, yaitu berkaitan dengan organisasi advokat dan norma Pasal 12 ayat \n(1) UU 18/2003, yaitu berkaitan dengan pengawasan advokat. Berkenaan dengan \nhal tersebut, oleh karena berkaitan dengan isu konstitusionalitas organisasi advokat \nbeserta kewenangannya, termasuk soal pengawasan yang dipersoalkan Pemohon \ndalam permohonan a quo , telah berkali -kali dinilai oleh Mahkamah dan telah \nberulang kali Mahkamah menegaskan baik dalam pertimbangan hukum maupun \namar putusan, namun secara faktual organisasi advokat yang ada tidak memiliki \nkesadaran untuk melaksanakannya, sehingga persoalan yang muncul dalam praktik \nbukan menjadi kewenangan Mahkamah kembali untuk menilainya. Oleh karena itu, \npenyelesaian yang paling tepat dan relevan menurut Mahkamah adalah mendorong \npenyelesaian masalah dimaksud kepad a pembentuk undang -undang untuk \nditindaklanjuti. Terlebih, pada saat ini UU 18/2003 sedang dalam proses \npembahasan untuk dilakukan perubahan. Dengan demikian, dalam proses \nperubahan UU 18/2003 dimaksud pembentuk undang-undang berpedoman kepada \nputusan-putusan Mahkamah, terutama terkait dengan substansi organisasi advokat \ndan pengawasan serta hal-hal lain yang telah pernah diputus atau dipertimbangkan \nsecara yuridis dan telah menjadi pendirian Mahkamah.  \n\n \n 49 \n  Berdasarkan uraian pertimbangan hukum dan fakta hukum tersebut di \natas, dengan memperhatikan seluruh putusan Mahkamah sebagaimana telah \ndiuraikan di atas dan hal tersebut telah menjadi pendirian Mahkamah yang hingga \nsaat ini Mahkamah belum memiliki alasan yang kuat dan mendasar untuk berubah \npendirian dan secara faktual berkaitan dengan hal tersebut tidak pernah dijadikan \nrujukan oleh para advokat di dalam menjalankan profesinya termasuk dalam hal ini \ndalam melaksanakan organisasinya. Oleh karena itu, hal -hal isu konstitusionalitas \nyang harus dipedomani untuk dijadikan rujukan dalam perubahan UU 18/2003 \nberdasarkan pendirian-pendirian Mahkamah dimaksud adalah, sebagai berikut:",
+      "start_line": 1672,
+      "end_line": 1881
+    },
+    {
+      "heading": "1. Berkenaan dengan organisasi advokat dalam Putusan Mahkamah Konstitusi",
+      "slug": "1-berkenaan-dengan-organisasi-advokat-dalam-putusan-mahkamah-konstitusi",
+      "text": "Nomor 019/PUU-I/2003, Mahkamah menyatakan bahwa norma Pa sal 32 ayat \n(3) UU 18/2003 yang di dalamnya memuat tentang 8 (delapan) organisasi \nadvokat yang untuk sementara menjalankan tugas dan wewenang Organisasi \nAdvokat, tetap konstitusional. Namun, melalui pertimbangan hukum dalam \nPutusan Mahkamah Konstitusi Nomo r 014/PUU-IV/2006, Mahkamah bukan \nhanya menjelaskan bagaimana kedudukan Peradi, namun juga menyatakan \nbahwa Peradi terbentuk atas prakarsa 8 (delapan) organisasi advokat,  yakni \nIKADIN, AAI, IPHI, HAPI, SPI, AKHI, HKHPM, dan APSI, yang tetap eksis, \nnamun kewenangannya dalam menjalankan tugas organisasi advokat secara \nresmi telah menjadi kewenangan Peradi, yaitu berkenaan dengan kewenangan \nmembuat kode etik, menguji, mengawasi, dan memberhentikan Advokat [vide \nPasal 26 ayat (1), Pasal 3 ayat (1) huruf f, Pasa l 2 ayat (2), Pasal 12 ayat (1), \ndan Pasal 9 ayat (1) UU Advokat], secara resmi kewenangan tersebut telah \nmenjadi kewenangan Peradi yang telah terbentuk, namun kedelapan organisasi \nadvokat tersebut tetap memiliki kewenangan selain kewenangan yang telah \nmenjadi kewenangan Peradi, karena eksistensinya dijamin oleh prinsip \nkebebasan berserikat dan berkumpul sebagaimana diatur UUD NRI Tahun \n1945.",
+      "start_line": 1883,
+      "end_line": 1900
+    },
+    {
+      "heading": "2. Dalam Putusan Mahkamah Konstitusi Nomor 101/PUU -VII/2009, Mahkamah",
+      "slug": "2-dalam-putusan-mahkamah-konstitusi-nomor-101-puu-vii-2009-mahkamah",
+      "text": "menegaskan kembali  meskipun Mahkamah telah menyatakan secara tegas \ndalam putusan sebelumnya bahwa Peradi merupakan wadah tunggal organisasi \nadvokat, namun dikarenakan terjadinya dualisme, maka dalam putusan a quo \nMahkamah kembali mengingatkan para advokat dan organisasi adv okat yang \nada secara de facto, yaitu merujuk pada Peradi dan KAI, agar secara bersama-\n\n \n 50 \nsama mengupayakan terwujudnya organisasi advokat sebagaimana amanat \nyang dimaksud dalam Pasal 28 ayat (1) UU 18/2003. Dalam hal ini, \npertimbangan hukum Putusan Mahkamah K onstitusi Nomor 66/PUU -VIII/2010, \nMahkamah kembali menyatakan Peradi sebagai organisasi tunggal profesi \nAdvokat, yang memiliki 8 (delapan) kewenangan sebagaimana termuat dalam \nUU 18/2003, yakni kewenangan untuk melaksanakan pendidikan khusus profesi \nAdvokat, pengujian calon advokat, pengangkatan advokat, membuat kode etik, \nmembentuk dewan kehormatan, membentuk komisi pengawas, melakukan \npengawasan, dan memberhentikan advokat.",
+      "start_line": 1902,
+      "end_line": 1918
+    },
+    {
+      "heading": "3. Berkenaan dengan pengucapan sumpah advokat, dalam pertimbangan hukum",
+      "slug": "3-berkenaan-dengan-pengucapan-sumpah-advokat-dalam-pertimbangan-hukum",
+      "text": "Putusan Mahkamah Konstitusi Nomor 112/PUU -XII/2014 dan Putusan \nMahkamah Konstitusi Nomor 36/PUU -XIII/2015, Mahkamah menjawab polemik \ntentang pengucapan sumpah advokat dengan tetap menjaga konsistensi \npertimbangan hukum mengenai konstitusionalitas norma Pasal 4 aya t (1) UU \n18/2003, yakni dengan merujuk pada Putusan Mahkamah Konstitusi Nomor \n101/PUU-VII/2009. Namun demikian, dalam Putusan Mahkamah Konstitusi \nNomor 112/PUU-XII/2014 dan Putusan Mahkamah Konstitusi Nomor 36/PUU -\nXIII/2015 tersebut di atas, Mahkamah menya dari bahwa realita s pluralisme \norganisasi advokat tidak dapat dihindari, sehingga sulit untuk mewujudkan \ndesain single bar  dalam praktiknya, namun di satu sisi kebutuhan terhadap \nstandardisasi profesi advokat, yang salah satunya berkenaan dengan \npengucapan sumpah advokat di dalam sidang pengadilan tinggi sebagaimana \ndimaksud dalam Pasal 4 ayat (1) UU 18/2003, tetap harus dijaga, mengingat \nadvokat merupakan officium nobile.",
+      "start_line": 1920,
+      "end_line": 1933
+    },
+    {
+      "heading": "4. Berkenaan dengan wadah tunggal sekalipun dalam pendirian Mahkamah dalam",
+      "slug": "4-berkenaan-dengan-wadah-tunggal-sekalipun-dalam-pendirian-mahkamah-dalam",
+      "text": "putusan-putusan sebelumnya menyatakan bahwa Peradi merupakan wadah \norganisasi tunggal profesi advokat, namun dikarenakan adanya benturan antara \ndesain normatif single bar dalam UU 18/2003 dengan adanya realita pluralisme \norganisasi advokat dalam tataran empiriknya, maka Mahkamah menyerahkan \npengaturan status organisasi advokat apakah akan tetap menjadi single bar  \nataupun multibar menjadi bagian dari kebijakan hukum pembentuk undang -\nundang. Namun demikian, apabila pilihan pembentuk undang -undang adalah \norganisasi advokat dalam bentuk multibar maka pembentuk undang -undang \n\n \n 51 \nmengupayakan multibar sederhana, yaitu dengan jumlah organisasi advokat \nyang terbatas.",
+      "start_line": 1935,
+      "end_line": 1947
+    },
+    {
+      "heading": "5. Hal-hal yang terkait dengan standardisasi pendidikan calon advokat,",
+      "slug": "5-hal-hal-yang-terkait-dengan-standardisasi-pendidikan-calon-advokat",
+      "text": "standardisasi pelaksanaan profesi advokat, kode etik, pengawasan harus \ndilaksanakan oleh satu lembaga yang terdiri dari perwakilan organisasi advokat. \nKhusus untuk penegakkan kode etik, unsur -unsur penegak kode etik dimaksud \nmemasukkan unsur masyarakat dan perguruan tinggi. \n[3.15]  Menimbang bahwa berdasarkan hal -hal sebagaimana dikemukakan di \natas, terlepas dari persoalan sebagaimana yang telah diuraikan Mahkamah pada \nparagraf sebelumnya, dalam kedudukan sebagai badan peradilan konstitusi yang \ndiberi kewenangan oleh UUD NRI Tahun 1945, Mahkamah tidak dapat membiarkan \nkondisi organisasi advokat yang terjadi hingga saat ini, yang jika dibiarkan berlarut-\nlarut akan berdampak pada terjadinya ketidakpastian hukum yang adil, baik bagi \nprofesi advokat itu sendiri dan juga masyarakat pencari keadilan ( justiciabellen). \nOleh karena itu, dengan mempertimbangkan bahwa norma -norma yang terdapat \ndalam UU 18/2003 telah sering dilakukan pengujian di Mahkamah, khususnya pada \nnorma-norma yang mengatur hal-hal yang bersifat fundamental, misalnya berkaitan \ndengan : 1) organisasi advokat, termasuk pimpinannya; 2) pengangkatan, sumpah, \nstatus, penindakan, dan pemberhentian advokat; 3) pengawasan advokat; 4) hak \ndan kewajiban advokat; 5) ketentuan pidana dan lain -lainnya, maka guna \nmendapatkan kepastian hukum yang adil dan guna segera dapat diatasi kondisi \norganisasi advokat saat ini agar tidak semakin berlarut -larut, serta guna  \nmendapatkan suatu undang -undang yang bersifat komprehensif d an dapat \nmengakomodir kebutuhan ketentuan -ketentuan yang bersifat adaptif, khususnya \ndengan telah berlakunya Undang -Undang Nomor 1 Tahun 2023 tentang Kitab \nUndang-Undang Hukum Pidana (KUHP) dan Undang -Undang Nomor 20 Tahun \n2025 tentang Kitab Undang -Undang Hukum Acara Pidana (KUHAP), Mahkamah \nberpendapat agar terhadap UU 18/2003 segera dilakukan perubahan antara lain \ndengan memasukkan putusan -putusan yang telah menjadi pendirian Mahkamah \nsebagaimana diuraikan di atas. Berkenaan dengan hal tersebut, agar kond isi yang \nberkaitan dengan advokat tidak semakin berlarut -larut dan segera mendapatkan \nkepastian hukum yang adil, maka menurut Mahkamah penting diberikan batas waktu \nkepada pembentuk undang -undang agar dalam waktu paling lama 2 (dua) tahun \n\n \n 52 \nsejak putusan diu capkan telah selesai dilakukan perubahan/penggantian terhadap \nUU 18/2003. \n Berdasarkan hal -hal tersebut, Mahkamah berkesimpulan bahwa oleh \nkarena berkenaan dengan norma Pasal 12 ayat (1) dan Pasal 28 ayat (1) serta \nPenjelasannya dalam UU 18/2003  yang diper soalkan konsitusionalitasnya oleh \nPemohon merupakan bagian dari UU 18/2003, dan berkenaan dengan UU 18/2003 \noleh Mahkamah telah ditegaskan agar dilakukan perubahan sebagaimana \ndipertimbangkan di atas, maka dengan sendirinya keinginan Pemohon telah \nterabsorpsi dalam penegasan Mahkamah a quo . Oleh karena itu, terhadap UU \n18/2003 harus dinyatakan bertentangan dengan UUD NRI Tahun 1945 dan tidak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang tidak dimaknai \n“apabila dalam waktu paling lama 2 (dua) tahun sejak putusan a quo diucapkan tidak \ndilakukan perubahan/penggantian terhadap Undang-Undang Nomor 18 Tahun 2003 \ntentang Advokat dengan antara lain berpedoman pada putusan-putusan Mahkamah \nKonstitusi”. Dengan demikian, dalil Pemohon berkenaan dengan UU 18/2003 \nbertentangan dengan UUD NRI Tahun 1945 adalah dalil yang berdasar. Namun oleh \nkarena pemaknaan yang dilakukan oleh Mahkamah tidak sebagaimana yang \ndimohonkan Pemohon, maka permohonan Pemohon adalah beralasan menurut \nhukum untuk sebagian.  \n[3.16] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, telah ternyata UU 18/2003 bertentangan dengan hak atas \npersamaan kedudukan di dalam hukum dan pemerintahan sebagaimana diatur \ndalam Pasal 27 ayat (1) UUD NRI Tahun 1945 dan hak atas pengakuan jaminan, \nperlindungan, dan kepastian hukum yang adil serta perlakuan  yang sama di \nhadapan hukum sebagaimana diatur dalam Pasal 28D ayat (1) UUD NRI Tahun \n1945, sebagaimana yang didalilkan oleh Pemohon adalah dalil yang be rdasar \nmenurut hukum. Namun, oleh karena pemaknaan Mahkamah tidak sebagaimana \nyang dimohonkan, maka permohonan Pemohon adalah beralasan menurut hukum \nuntuk sebagian. \n[3.17] Menimbang bahwa terhadap hal -hal selain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.  \n\n \n 53",
+      "start_line": 1949,
+      "end_line": 2015
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan di atas, \nMahkamah berkesimpulan: \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon memiliki kedudukan hukum  untuk mengajukan permohonan  \na quo; \n[4.3]  Permohonan Pemohon beralasan menurut hukum untuk sebagian; \nBerdasarkan Undang -Undang Dasar Negara Republik Indonesia Tahun \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undang -Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran Negara Republik In donesia Tahun 2020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang -\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 2017,
+      "end_line": 2031
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili:",
+      "start_line": 2033,
+      "end_line": 2033
+    },
+    {
+      "heading": "2. Menyatakan Undang-Undang Nomor 18 Tahun 2003 tentang Advokat",
+      "slug": "2-menyatakan-undang-undang-nomor-18-tahun-2003-tentang-advokat",
+      "text": "(Lembaran Negara Tahun 2003, Nomor 49, Tambahan Lembaran Negara \nNomor 4288) bertentangan dengan Undang -Undang Dasar Negara Republik \nIndonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat secara \nbersyarat sepanjang tidak dimaknai  “apabila dalam waktu paling lama 2 (dua) \ntahun sejak putusan a quo diucapkan tidak dilakukan perubahan/penggantian \nterhadap Undang-Undang Nomor 18 Tahun 2003 tentang Advokat  dengan \nantara lain berpedoman pada putusan-putusan Mahkamah Konstitusi”;",
+      "start_line": 2036,
+      "end_line": 2042
+    },
+    {
+      "heading": "3. Menolak permohonan Pemohon untuk selain dan selebihnya.",
+      "slug": "3-menolak-permohonan-pemohon-untuk-selain-dan-selebihnya",
+      "text": "54 \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembilan \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir dan Liliek Prisbawono Adi , masing -masing sebagai \nAnggota, pada hari  Rabu, tanggal dua puluh sembilan , bulan April, tahun dua \nribu dua puluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \nterbuka untuk umum pada hari Rabu, tanggal tujuh belas, bulan Juni, tahun dua \nribu dua puluh enam, selesai diucapkan pukul 15.14 WIB oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Daniel \nYusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, Arsul \nSani, Adies Kadir dan Liliek Prisbawono Adi , masing -masing sebagai Anggota, \ndengan dibantu oleh Siska Yosephin Sirait  sebagai Panitera Pengganti,  serta \ndihadiri oleh Pemohon dan/atau kuasanya, Dewan Perwakilan Rakyat atau yang \nmewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd.  \nSaldi Isra  \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \n ttd. \nEnny Nurbaningsih  \nttd. \n   Ridwan Mansyur \nttd. \nArsul Sani \nttd. \n   Adies Kadir \nttd. \n   Liliek Prisbawono Adi \n \n\n \n 55 \nPANITERA PENGGANTI, \nttd. \nSiska Yosephin Sirait",
+      "start_line": 2044,
+      "end_line": 2088
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Zico Leonard Djagardo Simanjuntak",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Leon Maulana Mirza Pasha, S.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Ratu Eka Shaira, S.H",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 18/2003 tentang Advokat"
+    ],
+    "constitutional_articles": [
+      "Pasal 27 ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 1",
+      "Pasal 28D",
+      "Pasal 2",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 28 ayat (1)",
+      "Pasal 32 ayat (3)",
+      "Pasal 28E ayat (3)",
+      "Pasal 28",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 78",
+      "Pasal 31",
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P -3",
+      "BUKTI P-5",
+      "BUKTI P-4",
+      "BUKTI P-1",
+      "BUKTI P -1",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "REFERENSI:126/PUU-XXIV/2026",
+      "REFERENSI:124/PUU/PAN.MK/AP3/04/2026",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danNomor011/PUU-V/2007",
+      "REFERENSI:014/PUU-IV/2006",
+      "REFERENSI:35/PUU-XVI/2018",
+      "REFERENSI:91/PUU-XX/2022",
+      "REFERENSI:22/PUU-XXII/2024",
+      "REFERENSI:91/PUU-XX/2022menggunakanalasanpadaintinyaberkenaandenganmasajabatanpimpinanorganisasiadvokatdanPermohonanNomor22/PUU-XXII/2024",
+      "REFERENSI:014/PUU-IV/2006tanggal30November2006junctoPutusanNomor35/PUU-XVI/2018",
+      "REFERENSI:006/PUU-III/2005",
+      "REFERENSI:18/2003bersifatmultitafsirataudapatditafsirkanlainatauyangmenurutparaPemohontelahdimanipulasiolehberbagaipihaksehinggamemungkinkanmunculnyaberbagaiorganisasiadvokatyangmengklaimdirinyaseolah-olehberwenangdansahsebagaipelaksanawewenangsebagaimanadiaturdalamUU18/2003",
+      "REFERENSI:66/PUU-VIII/2010",
+      "REFERENSI:71/PUU-VIII/2010",
+      "REFERENSI:18/2003danPutusanMahkamahKonstitusiNomor79/PUU-VIII/2010",
+      "REFERENSI:18/2003.DalamPutusanMahkamahKonstitusiNomor71/PUU-VIII/2010",
+      "REFERENSI:014/PUU-IV/2006danPutusanMahkamahKonstitusiNomor66/PUU-VIII/2010",
+      "REFERENSI:79/PUU-VIII/2010",
+      "REFERENSI:18/2003telahdiajukandantelahdiputusolehMahkamahdalamPutusanNomor014/PUU-IV/2006",
+      "REFERENSI:66/PUUVIII/2010danPutusanNomor71/PUU-VIII/2010",
+      "REFERENSI:71/PUU-VIII/2010danNomor79/PUU-VIII/2010",
+      "REFERENSI:32/PUU-XIII/2015",
+      "REFERENSI:79/PUU-XX/2022",
+      "REFERENSI:019/PUU-I/2003",
+      "REFERENSI:006/PUU-II/2004",
+      "REFERENSI:066/PUU-II/2004",
+      "REFERENSI:101/PUU-VII/2009",
+      "REFERENSI:112/PUU-XII/2014",
+      "REFERENSI:36/PUU-XIII/2015",
+      "REFERENSI:089/KMA/2010",
+      "REFERENSI:112/PUU-XII/2014danPutusanMahkamahKonstitusiNomor36/PUU-XIII/2015",
+      "REFERENSI:103/PUU-XI/2013",
+      "REFERENSI:18/2003yangdipersoalkankonsitusionalitasnyaolehPemohonmerupakanbagiandariUU18/2003",
+      "REFERENSI:006/PUU-III/2005danPerkaraNomor11/PUU-V/2007",
+      "REFERENSI:014/PUU-IV/2026"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "sidang pidana);",
+    "f. Bahwa penyelenggaran sidang terbuka Pengadilan Tinggi",
+    "Advokat adalah konstitusional sepanjang frasa “di sidang",
+    "advokat. Meskipun Mahkamah Agung dalam persidangan perkara a",
+    "harus dilakukan di hadapan sidang Pengadilan Tinggi karena",
+    "(1) UU Advokat sepanjang frasa “di sidang terbuka Pengadilan"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Mengabulkan permohonan Pemohon untuk sebagian;",
+      "Menyatakan Undang-Undang Nomor 18 Tahun 2003 tentang Advokat (Lembaran Negara Tahun 2003, Nomor 49, Tambahan Lembaran Negara Nomor 4288) bertentangan dengan Undang -Undang Dasar Negara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat secara bersyarat sepanjang tidak dimaknai “apabila dalam waktu paling lama 2 (dua) tahun sejak putusan a quo diucapkan tidak dilakukan perubahan/penggantian terhadap Undang-Undang Nomor 18 Tahun 2003 tentang Advokat dengan antara lain berpedoman pada putusan-putusan Mahkamah Konstitusi”;",
+      "Menolak permohonan Pemohon untuk selain dan selebihnya."
+    ],
+    "summary": "Mengabulkan permohonan untuk sebagian."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Siska Yosephin Sirait"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "126/PUU-XXIV/2026",
+      "124/PUU/PAN.MK/AP3/04/2026",
+      "11/PUU-V/2007",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "014/PUU-IV/2006",
+      "35/PUU-XVI/2018",
+      "91/PUU-XX/2022",
+      "22/PUU-XXII/2024",
+      "91/PUU-XX/2022menggunakanalasanpadaintinyaberkenaandenganmasajabatanpimpinanorganisasiadvokatdanPermohonanNomor22/PUU-XXII/2024",
+      "014/PUU-IV/2006tanggal30November2006junctoPutusanNomor35/PUU-XVI/2018",
+      "006/PUU-III/2005",
+      "18/2003bersifatmultitafsirataudapatditafsirkanlainatauyangmenurutparaPemohontelahdimanipulasiolehberbagaipihaksehinggamemungkinkanmunculnyaberbagaiorganisasiadvokatyangmengklaimdirinyaseolah-olehberwenangdansahsebagaipelaksanawewenangsebagaimanadiaturdalamUU18/2003",
+      "66/PUU-VIII/2010",
+      "71/PUU-VIII/2010",
+      "18/2003danPutusanMahkamahKonstitusiNomor79/PUU-VIII/2010",
+      "18/2003.DalamPutusanMahkamahKonstitusiNomor71/PUU-VIII/2010",
+      "014/PUU-IV/2006danPutusanMahkamahKonstitusiNomor66/PUU-VIII/2010",
+      "79/PUU-VIII/2010",
+      "18/2003telahdiajukandantelahdiputusolehMahkamahdalamPutusanNomor014/PUU-IV/2006",
+      "66/PUUVIII/2010danPutusanNomor71/PUU-VIII/2010",
+      "71/PUU-VIII/2010danNomor79/PUU-VIII/2010",
+      "32/PUU-XIII/2015",
+      "79/PUU-XX/2022",
+      "019/PUU-I/2003",
+      "006/PUU-II/2004",
+      "066/PUU-II/2004",
+      "101/PUU-VII/2009",
+      "112/PUU-XII/2014",
+      "36/PUU-XIII/2015",
+      "089/KMA/2010",
+      "112/PUU-XII/2014danPutusanMahkamahKonstitusiNomor36/PUU-XIII/2015",
+      "103/PUU-XI/2013",
+      "18/2003yangdipersoalkankonsitusionalitasnyaolehPemohonmerupakanbagiandariUU18/2003",
+      "006/PUU-III/2005danPerkaraNomor11/PUU-V/2007",
+      "014/PUU-IV/2026"
+    ],
+    "referenced_cases": [
+      "126/PUU-XXIV/2026",
+      "124/PUU/PAN.MK/AP3/04/2026",
+      "11/PUU-V/2007",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "014/PUU-IV/2006",
+      "35/PUU-XVI/2018",
+      "91/PUU-XX/2022",
+      "22/PUU-XXII/2024",
+      "91/PUU-XX/2022menggunakanalasanpadaintinyaberkenaandenganmasajabatanpimpinanorganisasiadvokatdanPermohonanNomor22/PUU-XXII/2024",
+      "014/PUU-IV/2006tanggal30November2006junctoPutusanNomor35/PUU-XVI/2018",
+      "006/PUU-III/2005",
+      "18/2003bersifatmultitafsirataudapatditafsirkanlainatauyangmenurutparaPemohontelahdimanipulasiolehberbagaipihaksehinggamemungkinkanmunculnyaberbagaiorganisasiadvokatyangmengklaimdirinyaseolah-olehberwenangdansahsebagaipelaksanawewenangsebagaimanadiaturdalamUU18/2003",
+      "66/PUU-VIII/2010",
+      "71/PUU-VIII/2010",
+      "18/2003danPutusanMahkamahKonstitusiNomor79/PUU-VIII/2010",
+      "18/2003.DalamPutusanMahkamahKonstitusiNomor71/PUU-VIII/2010",
+      "014/PUU-IV/2006danPutusanMahkamahKonstitusiNomor66/PUU-VIII/2010",
+      "79/PUU-VIII/2010",
+      "18/2003telahdiajukandantelahdiputusolehMahkamahdalamPutusanNomor014/PUU-IV/2006",
+      "66/PUUVIII/2010danPutusanNomor71/PUU-VIII/2010",
+      "71/PUU-VIII/2010danNomor79/PUU-VIII/2010",
+      "32/PUU-XIII/2015",
+      "79/PUU-XX/2022",
+      "019/PUU-I/2003",
+      "006/PUU-II/2004",
+      "066/PUU-II/2004",
+      "101/PUU-VII/2009",
+      "112/PUU-XII/2014",
+      "36/PUU-XIII/2015",
+      "089/KMA/2010",
+      "112/PUU-XII/2014danPutusanMahkamahKonstitusiNomor36/PUU-XIII/2015",
+      "103/PUU-XI/2013",
+      "18/2003yangdipersoalkankonsitusionalitasnyaolehPemohonmerupakanbagiandariUU18/2003",
+      "006/PUU-III/2005danPerkaraNomor11/PUU-V/2007",
+      "014/PUU-IV/2026"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

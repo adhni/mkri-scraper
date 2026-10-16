@@ -1,0 +1,1124 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14694_1784790878.pdf",
+    "file_name": "putusan_mkri_14694_1784790878.pdf",
+    "page_count": 54,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14694_1784790878.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "216/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-07-23",
+    "decision_date_raw": "dua puluh tiga, bulan Juli, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 216/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang  Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 6,
+      "end_line": 10
+    },
+    {
+      "heading": "1. Nama : Bernita Matondang",
+      "slug": "1-nama-bernita-matondang",
+      "text": "Pekerjaan : Mahasiswa \nAlamat : Jalan Kemang Swatama, Gg. Toni \nNomor 82, Kelurahan Cilodong, \nKecamatan Cilodong. \nSelanjutnya disebut sebagai ---------------------------------------- Pemohon I;",
+      "start_line": 12,
+      "end_line": 16
+    },
+    {
+      "heading": "2. Nama : Hania Lestari",
+      "slug": "2-nama-hania-lestari",
+      "text": "Pekerjaan : Mahasiswa \nAlamat : Gang Ikhlas Nomor 18, Kelurahan \nCiawi, Kecamatan Ciawi. \nSelanjutnya disebut sebagai ---------------------------------------- Pemohon II;",
+      "start_line": 18,
+      "end_line": 21
+    },
+    {
+      "heading": "3. Nama : Putri Salsabila",
+      "slug": "3-nama-putri-salsabila",
+      "text": "Pekerjaan : Mahasiswa \nAlamat : Cluster Ruby Barat II, Nomor 21, PHG \nGading Serpong, Kelurahan Curug \nSangereng, Kecamatan Kelapa Dua. \nSelanjutnya disebut sebagai --------------------------------------- Pemohon III;",
+      "start_line": 23,
+      "end_line": 27
+    },
+    {
+      "heading": "4. Nama : Evelyn Amanda",
+      "slug": "4-nama-evelyn-amanda",
+      "text": "Pekerjaan : Mahasiswa \nAlamat : Kp. Krendang Pulo, Nomor 48, \nKelurahan Duri Utara, Kecamatan \nTambora. \nSelanjutnya disebut sebagai --------------------------------------- Pemohon IV;\n\n\n \n2 \nBerdasarkan Surat Kuasa bertanggal 1 Juli 2026, memberi kuasa k epada Gabby \nMayang Sari, bertindak untuk dan atas nama Pemberi Kuasa; \nSelanjutnya Pemohon I sampai dengan Pemohon IV disebut sebagai ------------------\n---------------------------------------------------------------------------------------- para Pemohon. \n[1.2] Membaca permohonan para Pemohon;  \nMendengar keterangan para Pemohon; \nMemeriksa bukti-bukti para Pemohon.",
+      "start_line": 29,
+      "end_line": 44
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]      Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 11 Juni 2026 yang diterima Kepaniteraan Mahkamah Kon stitusi pada \ntanggal 11 Juni 2026 berdasarkan Akta Pengajuan Permohonan Pemo hon Nomor \n214/PUU/PAN.MK/AP3/06/2026, dan telah dicatat dalam Buku Regist rasi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 216/PUU- XXIV/2026 \npada tanggal 12 Juni 2026, yang telah diperbaiki dan diterima M ahkamah pada \ntanggal 7 Juli 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 46,
+      "end_line": 53
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (Selanjutnya disebut UUD NRI 1945 ) \nmenyatakan:   \n“kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada dibawahnya dalam lingkungan peradilan \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah \nKonstitusi”.",
+      "start_line": 55,
+      "end_line": 61
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) Perubahan Keempat UUD NRI 1945:",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-perubahan-keempat-uud-nri-1945",
+      "text": "“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-\nUndang Dasar, memutus perubahan partai politik dan memutus \nperselisihan tentang hasil pemilihan umum”.",
+      "start_line": 63,
+      "end_line": 68
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-t-ahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana telah \ndiubah terakhir dalam Undang-Undang (UU) Nomor 13 Tahun 2022 tentang \n\n \n3 \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-Undangan menegaskan bahwa:   \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi”.",
+      "start_line": 70,
+      "end_line": 79
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 T ahun",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-t-ahun",
+      "text": "2009 tentang Kekuasaan Kehakiman, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai \npolitik; d. memutus perselisihan tentang hasil pemilihan umum; dan e. \nkewenangan lain yang diberikan oleh undang-undang”.",
+      "start_line": 81,
+      "end_line": 89
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-t-ahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah \nterakhir dengan Undang-undang (UU) Nomor 7 Tahun 2020 tentang \nPerubahan Ketiga atas Undang-Undang Nomor 24 Tahun 2003 tentang  \nMahkamah Konstitusi, menyatakan:  \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai \npolitik; dan d. memutus perselisihan tentang hasil pemilihan umum.”",
+      "start_line": 91,
+      "end_line": 101
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konst itusi",
+      "slug": "6-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konst-itusi",
+      "text": "Nomor 7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujia n \nUndang-Undang, menyatakan :   \n“Objek Permohonan PUU adalah Undang-Undang dan Perppu”;   \nOleh karenanya, Mahkamah Konstitusi berwenang mengadili perkara a quo \nkarena Para Pemohon mengajukan permohonan pengujian \nkonstitusionalitas undang-undang yaitu: Undang-Undang Republik \nIndonesia Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasiona l \n(Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambah an \nLembaran Negara Republik Indonesia Nomor 4301);",
+      "start_line": 103,
+      "end_line": 111
+    },
+    {
+      "heading": "7. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah n y a t a",
+      "slug": "7-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-n-y-a-t-a",
+      "text": "bahwa objek permohonan a quo  memenuhi syarat sebagai objek \n\n \n4 \npermohonan pengujian materiil Undang-Undang terhadap UUD NRI 19 45. \nOleh karenanya, Mahkamah Konstitusi berwenang untuk memeriksa, \nmengadili, dan memutus konstitusionalitas Undang-Undang terhadap UUD \nNRI 1945 dalam perkara a quo yang diajukan oleh PARA PEMOHON.    \nII. KEDUDUKAN HUKUM (LEGAL STANDING) DAN KERUGIAN",
+      "start_line": 113,
+      "end_line": 121
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan ba hwa",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menyatakan-ba-hwa",
+      "text": "PARA PEMOHON adalah pihak yang menganggap hak dan/atau \nkewenangan konstitusionalnya dirugikan oleh berlakunya undang-u ndang, \nyaitu:  \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip negara \nkesatuan RI yang diatur dalam undang-undang;",
+      "start_line": 124,
+      "end_line": 130
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, maka terlebih dahulu P ara",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-maka-terlebih-dahulu-p-ara",
+      "text": "Pemohon menguraikan kedudukan hukum (legal standing), sebagai berikut, \nPara Pemohon merupakan perseorangan warga negara Indonesia yang  \ndibuktikan dengan kepemilikan Kartu Tanda Penduduk (vide p s.d p-) dan \nberstatus sebagai Mahasiswa Ilmu Hukum dibuktikan dengan Kartu Tanda \nMahasiswa (vide p-);",
+      "start_line": 134,
+      "end_line": 138
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2) menegaskan Para",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaskan-para",
+      "text": "Pemohon memenuhi dan memiliki kedudukan hukum ( legal standing ) \nsebagai perseorangan warga negara Indonesia  sehingga Para Pemohon \ndapat mengajukan permohonan pengujian UU terhadap UUD NRI 1945.  \nSelanjutnya, Para Pemohon  akan menguraikan kerugian konstitusional \nyang dialami sehubungan dengan berlakunya Undang-Undang yang \ndiujikan konstitusionalitasnya dalam perkara a quo.",
+      "start_line": 140,
+      "end_line": 145
+    },
+    {
+      "heading": "4. Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi N o. 07",
+      "slug": "4-bahwa-dalam-pasal-4-ayat-2-peraturan-mahkamah-konstitusi-n-o-07",
+      "text": "Tahun 2025 tentang Pedoman Beracara Dalam Perkara Pengujian \nUndang-Undang ditentukan 5 syarat mengenai kerugian konstitusio nal, \nyaitu:  \n\n \n5 \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia 1945.  \nb. Bahwa hak konstitusional pemohon  tersebut dianggap oleh para \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 147,
+      "end_line": 156
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat",
+      "text": "spesifik atau khusus dan aktual atau setidaknya potensial yang menurut \npenalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 158,
+      "end_line": 159
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan untuk diuji.  \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan mak a \nkerugian konstitusional yang didalilkan tidak akan atau tidak terjadi lagi.",
+      "start_line": 161,
+      "end_line": 163
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional Para Pemohon dijamin",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-para-pemohon-dijamin",
+      "text": "oleh UUD NRI 1945 yang telah diatur dalam beberapa pasal yang \ndigunakan sebagai dasar pengujian dalam perkara a quo, yaitu:  \na. Pasal 28D ayat (1) UUD NRI 1945, menyatakan “Setiap orang be rhak \natas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil \nserta perlakuan yang sama di hadapan hukum.”  \nb. Pasal 31 ayat (1) UUD NRI 1945,menyatakan “Setiap warga nega ra \nberhak mendapat pendidikan”",
+      "start_line": 165,
+      "end_line": 171
+    },
+    {
+      "heading": "c. Pasal 31 ayat (4) UUD NRI 1945, menyatakan “Negara memprioritaskan",
+      "slug": "c-pasal-31-ayat-4-uud-nri-1945-menyatakan-negara-memprioritaskan",
+      "text": "anggaran pendidikan sekurang-kurangnya dua puluh persen dari \nanggaran pendapatan dan belanja negara serta dari anggaran \npendapatan dan belanja daerah untuk memenuhi kebutuhan \npenyelenggaraan pendidikan nasional”",
+      "start_line": 173,
+      "end_line": 176
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam UUD",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam-uud",
+      "text": "NRI 1945 tersebut telah dirugikan dengan pasal sebagai berikut: \nPasal 12 ayat (2) dan  (1) Undang-Undang Republik Indonesia Nom or 20 \nTahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara \nRepublik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran Negar a \nRepublik Indonesia Nomor 4301) yang menyatakan:  \n“Setiap peserta didik berkewajiban :",
+      "start_line": 178,
+      "end_line": 183
+    },
+    {
+      "heading": "d. ikut menanggung biaya penyelenggaraan pendidikan, kecuali ba gi",
+      "slug": "d-ikut-menanggung-biaya-penyelenggaraan-pendidikan-kecuali-ba-gi",
+      "text": "peserta didik yang dibebaskan dari kewajiban tersebut sesuai \ndengan peraturan perundang-undangan yang berlaku.”  \n\n \n6 \nPasal 46 ayat (1) dan  (1) Undang-Undang Republik Indonesia Nom or 20 \nTahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara \nRepublik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran Negar a \nRepublik Indonesia Nomor 4301) yang menyatakan:  \n(1) Pendanaan pendidikan menjadi tanggung jawab bersama antara \nPemerintah, Pemerintah Daerah, dan masyarakat.",
+      "start_line": 185,
+      "end_line": 195
+    },
+    {
+      "heading": "7. Bahwa Pemohon adalah mahasiswa aktif pada perguruan tinggi y ang telah",
+      "slug": "7-bahwa-pemohon-adalah-mahasiswa-aktif-pada-perguruan-tinggi-y-ang-telah",
+      "text": "memenuhi kewajiban pembayaran Uang Kuliah Tunggal (UKT) \nsebagaimana ditetapkan oleh pemerintah sebagai satu-satunya komponen \nbiaya yang seharusnya ditanggung oleh mahasiswa dalam \npenyelenggaraan pendidikan tinggi negeri, sehingga Pemohon I sa mpai \nPemohon IV memiliki kedudukan hukum yang langsung bersentuhan \ndengan norma a quo.",
+      "start_line": 197,
+      "end_line": 202
+    },
+    {
+      "heading": "8. Bahwa Pemohon I sebagai mahasiswa telah memenuhi kewajiban",
+      "slug": "8-bahwa-pemohon-i-sebagai-mahasiswa-telah-memenuhi-kewajiban",
+      "text": "konstitusional dan yuridisnya untuk ikut menanggung biaya \npenyelenggaraan pendidikan melalui pembayaran Uang Kuliah Tungg al \n(UKT). Namun, ketentuan Pasal 12 ayat (2) huruf b Undang-Undang Nomor \n20 Tahun 2003 tentang Sistem Pendidikan Nasional yang mewajibka n \npeserta didik \"ikut menanggung biaya penyelenggaraan pendidikan \", \napabila dibaca bersama dengan Pasal 46 ayat (1) yang menyatakan bahwa \npendanaan pendidikan menjadi tanggung jawab bersama antara \nPemerintah, Pemerintah Daerah, dan masyarakat, tidak memberikan  \nbatasan yang jelas mengenai ruang lingkup maupun batas akhir kewajiban \nfinansial peserta didik. Akibatnya, kedua norma tersebut membuk a ruang \npenafsiran yang luas sehingga peserta didik tetap dapat dibebani berbagai \nbiaya pendidikan meskipun telah memenuhi kewajibannya melalui \npembayaran UKT.",
+      "start_line": 204,
+      "end_line": 216
+    },
+    {
+      "heading": "9. Bahwa kerugian konstitusional Pemohon I bersifat nyata dan a ktual karena",
+      "slug": "9-bahwa-kerugian-konstitusional-pemohon-i-bersifat-nyata-dan-a-ktual-karena",
+      "text": "setelah membayar UKT, Pemohon I masih diwajibkan membayar berbagai \nbiaya lain yang berkaitan langsung dengan penyelenggaraan pendi dikan, \nantara lain biaya Tutorial Webinar (TuWeb), biaya wisuda, biaya  legalisir \nijazah dan transkrip akademik, biaya remedial, biaya perubahan skema \nujian, serta berbagai biaya akademik lainnya. Berbagai pungutan  tersebut \npada hakikatnya merupakan bagian dari biaya penyelenggaraan \n\n \n7 \npendidikan, namun tetap dibebankan kepada peserta didik tanpa a danya \nbatasan yang tegas dalam Pasal 12 ayat (2) huruf b dan Pasal 46  ayat (1) \nUU Sisdiknas mengenai sejauh mana kewajiban pendanaan berada pa da \npeserta didik dan sejauh mana menjadi tanggung jawab Pemerintah  dan \nPemerintah Daerah. Kondisi demikian menimbulkan ketidakpastian hukum \nserta mengakibatkan Pemohon I harus menanggung beban finansial yang \nterus bertambah dalam memperoleh hak konstitusional atas pendidikan.",
+      "start_line": 218,
+      "end_line": 233
+    },
+    {
+      "heading": "10. Bahwa ketidakjelasan norma tersebut semakin diperkuat oleh ketentuan",
+      "slug": "10-bahwa-ketidakjelasan-norma-tersebut-semakin-diperkuat-oleh-ketentuan",
+      "text": "Pasal 46 ayat (1) Undang-Undang Nomor 20 Tahun 2003 tentang Sis tem \nPendidikan Nasional yang menyatakan bahwa pendanaan pendidikan \nmenjadi tanggung jawab bersama antara Pemerintah, Pemerintah Daerah, \ndan masyarakat, namun tidak memberikan batasan maupun proporsi yang \njelas mengenai pembagian tanggung jawab tersebut. Ketiadaan bat asan \ntersebut telah memberikan ruang bagi penyelenggara pendidikan u ntuk \nmembebankan berbagai biaya penyelenggaraan pendidikan kepada \npeserta didik di luar Uang Kuliah Tunggal (UKT), padahal Pemeri ntah dan \nPemerintah Daerah berdasarkan Pasal 46 ayat (2) memiliki kewaji ban \nmenyediakan anggaran pendidikan sebagaimana amanat Pasal 31 ayat (4) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945. Akibatnya, \nPemohon I sebagai mahasiswa tetap menanggung beban finansial \ntambahan yang secara langsung memengaruhi pemenuhan hak \nkonstitusionalnya untuk memperoleh pendidikan, sehingga menimbu lkan \nketidakpastian hukum dan bertentangan dengan prinsip negara huk um \nyang menjamin kepastian hukum yang adil.",
+      "start_line": 235,
+      "end_line": 250
+    },
+    {
+      "heading": "11. Bahwa Pemohon II merupakan mahasiswa yang masih menempuh",
+      "slug": "11-bahwa-pemohon-ii-merupakan-mahasiswa-yang-masih-menempuh",
+      "text": "pendidikan pada Semester II, sehingga masih memiliki perjalanan  \nakademik yang panjang hingga menyelesaikan pendidikan tinggi. S eluruh \nbiaya pendidikan Pemohon II ditanggung secara mandiri tanpa ada nya \npenanggung biaya lain. Untuk dapat memenuhi kewajiban pembayara n \nbiaya pendidikan, Pemohon II harus berupaya memperoleh penghasi lan \ndengan membuat konten afiliasi (affiliate content) yang hasilnya tidak tetap \ndan bergantung pada tingkat penjualan maupun komisi yang diperoleh(vide \np-). \n\n \n8",
+      "start_line": 252,
+      "end_line": 262
+    },
+    {
+      "heading": "12. Bahwa penghasilan yang diperoleh Pemohon II dari kegiatan tersebut tidak",
+      "slug": "12-bahwa-penghasilan-yang-diperoleh-pemohon-ii-dari-kegiatan-tersebut-tidak",
+      "text": "hanya digunakan untuk membiayai pendidikan Pemohon II sendiri, tetapi \njuga harus dibagi untuk membantu biaya pendidikan adik Pemohon II yang \nsaat ini masih menempuh pendidikan (vide p-) di tingkat Sekolah Menengah \nAtas (SMA), serta memenuhi kebutuhan rumah tangga sehari-hari. Kondisi \ntersebut menyebabkan kemampuan ekonomi Pemohon II menjadi sanga t \nterbatas dalam memenuhi kebutuhan pendidikan tinggi secara \nberkelanjutan.",
+      "start_line": 264,
+      "end_line": 270
+    },
+    {
+      "heading": "13. Bahwa berlakunya Pasal 12 ayat (2) huruf b dan Pasal 46 ayat (1) Undang-",
+      "slug": "13-bahwa-berlakunya-pasal-12-ayat-2-huruf-b-dan-pasal-46-ayat-1-undang",
+      "text": "Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional t elah \nmenimbulkan kerugian konstitusional bagi Pemohon II karena norm a \ntersebut tidak memberikan batasan yang jelas mengenai sejauh ma na \npeserta didik wajib menanggung biaya penyelenggaraan pendidikan  d a n \nsejauh mana tanggung jawab Pemerintah serta Pemerintah Daerah d alam \npendanaan pendidikan. Akibat ketidakjelasan tersebut, Pemohon I I tetap \nberpotensi dibebani berbagai biaya pendidikan di luar Uang Kuliah Tunggal \n(UKT), sehingga beban ekonomi yang harus ditanggung semakin berat dan \nsecara langsung memengaruhi kemampuan Pemohon II untuk \nmempertahankan keberlangsungan pendidikannya.",
+      "start_line": 272,
+      "end_line": 281
+    },
+    {
+      "heading": "14. Bahwa kondisi tersebut mengakibatkan hak konstitusional Pem ohon II",
+      "slug": "14-bahwa-kondisi-tersebut-mengakibatkan-hak-konstitusional-pem-ohon-ii",
+      "text": "untuk memperoleh pendidikan sebagaimana dijamin dalam Pasal 31 ayat \n(1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 \nberpotensi terhambat akibat beban biaya pendidikan yang terus bertambah. \nSelain itu, ketidakjelasan pembagian tanggung jawab pendanaan \npendidikan antara negara dan masyarakat sebagaimana diatur dalam Pasal \n46 ayat (1) bertentangan dengan prinsip kepastian hukum yang ad il \nsebagaimana dijamin dalam Pasal 28D ayat (1) Undang-Undang Dasa r \nNegara Republik Indonesia Tahun 1945. Padahal, berdasarkan Pasa l 31 \nayat (4) Undang-Undang Dasar Negara Republik Indonesia Tahun 19 45, \nnegara berkewajiban memprioritaskan anggaran pendidikan sebagai  \nbentuk tanggung jawab konstitusional dalam penyelenggaraan pend idikan \nnasional, sehingga beban pendanaan pendidikan tidak seharusnya \ndibebankan secara tidak terbatas kepada peserta didik. \n\n \n9",
+      "start_line": 283,
+      "end_line": 298
+    },
+    {
+      "heading": "15. Bahwa Pemohon III merupakan mahasiswa yang hingga saat ini masih",
+      "slug": "15-bahwa-pemohon-iii-merupakan-mahasiswa-yang-hingga-saat-ini-masih",
+      "text": "menempuh pendidikan tinggi dengan seluruh biaya pendidikannya m asih \nditanggung oleh orang tua. Me skipun demikian, Pemohon III tetap  \nmerupakan subjek hukum yang secara langsung dikenai ketentuan P asal \n12 ayat (2) huruf b dan Pasal 46 ayat (1) Undang-Undang Nomor 20 Tahun \n2003 tentang Sistem Pendidikan Nasional, karena kewajiban ikut \nmenanggung biaya penyelenggaraan pendidikan melekat pada status nya \nsebagai peserta didik.",
+      "start_line": 300,
+      "end_line": 306
+    },
+    {
+      "heading": "16. Bahwa dalam pelaksanaan pendidikan tinggi, orang tua Pemoho n III tidak",
+      "slug": "16-bahwa-dalam-pelaksanaan-pendidikan-tinggi-orang-tua-pemoho-n-iii-tidak",
+      "text": "hanya menanggung pembayaran Uang Kuliah Tunggal (UKT), tetapi j uga \nberbagai biaya lain yang berkaitan dengan penyelenggaraan pendi dikan, \nsehingga beban pembiayaan pendidikan menjadi semakin besar. Kon disi \ntersebut merupakan akibat dari tidak adanya batasan yang jelas mengenai \nruang lingkup kewajiban peserta didik dalam menanggung biaya \npenyelenggaraan pendidikan sebagaimana dimaksud dalam Pasal 12 ayat \n(2) huruf b, serta tidak adanya kejelasan pembagian tanggung ja wab \npendanaan pendidikan antara Pemerintah, Pemerintah Daerah, dan \nmasyarakat sebagaimana diatur dalam Pasal 46 ayat (1).",
+      "start_line": 308,
+      "end_line": 316
+    },
+    {
+      "heading": "17. Bahwa Pemohon IV juga merupakan mahasiswa yang masih menemp uh",
+      "slug": "17-bahwa-pemohon-iv-juga-merupakan-mahasiswa-yang-masih-menemp-uh",
+      "text": "pendidikan tinggi dengan biaya pendidikan yang sepenuhnya masih  \nditanggung oleh orang tua. Sebagai peserta didik, Pemohon IV be rada \ndalam kondisi yang sama, yaitu tetap berpotensi dibebani berbag ai biaya \npendidikan di luar UKT sebagai konsekuensi dari berlakunya norm a yang \ndiuji, sehingga keberlangsungan pendidikan Pemohon IV sangat \nbergantung pada kemampuan ekonomi orang tua dalam memenuhi \nberbagai kewajiban pembiayaan tersebut.",
+      "start_line": 318,
+      "end_line": 324
+    },
+    {
+      "heading": "18. Bahwa terhadap Pemohon III dan Pemohon IV, ketidakjelasan n orma",
+      "slug": "18-bahwa-terhadap-pemohon-iii-dan-pemohon-iv-ketidakjelasan-n-orma",
+      "text": "dalam Pasal 12 ayat (2) huruf b dan Pasal 46 ayat (1) Undang-Un dang \nNomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional telah \nmenimbulkan kerugian konstitusional berupa ketidakpastian menge nai \nbatas kewajiban pembiayaan pendidikan yang harus ditanggung pes erta \ndidik dan keluarganya. Kondisi tersebut berpotensi menghambat \npemenuhan hak konstitusional para Pemohon untuk memperoleh \npendidikan sebagaimana dijamin dalam Pasal 31 ayat (1) Undang-Undang \n\n \n10 \nDasar Negara Republik Indonesia Tahun 1945, bertentangan dengan  \nprinsip kepastian hukum yang adil sebagaimana diatur dalam Pasa l 28D \nayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 19 45, \nserta tidak sejalan dengan kewajiban negara untuk memprioritask an \npendanaan pendidikan sebagaimana diamanatkan dalam Pasal 31 ayat (4) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945. \nIII. ALASAN PERMOHONAN  \nA. Ketiadaan Batasan Norma Pembiayaan Pendidikan Menimbulkan \nKetidakpastian Hukum yang Adil Bagi Peserta Didik",
+      "start_line": 326,
+      "end_line": 344
+    },
+    {
+      "heading": "1. Bahwa Negara Kesatuan Republik Indonesia secara tegas",
+      "slug": "1-bahwa-negara-kesatuan-republik-indonesia-secara-tegas",
+      "text": "mengonstruksikan dirinya sebagai negara hukum yang demokratis, di \nmana pilar utamanya adalah jaminan terhadap hak asasi manusia \nberupa kepastian hukum yang adil dan perlakuan yang sama di \nhadapan hukum sebagaimana termaktub dalam Pasal 28D ayat (1) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 (UUD \n1945). Jaminan ini menghendaki agar setiap produk legislasi yan g \nditerbitkan oleh pembentuk undang-undang memiliki derajat kejel asan \nnormatif yang sempurna, tidak multitafsir, serta mampu memberik an \nperlindungan hukum yang dapat diprediksi oleh setiap warga nega ra. \nDalam konteks penyelenggaraan pendidikan nasional, kepastian \nhukum yang adil wajib mewujud dalam bentuk regulasi yang menjamin \nketerjangkauan, transparansi, dan akuntabilitas pembiayaan \npendidikan, sehingga hak konstitusional warga negara untuk \nmencerdaskan kehidupan bangsa tidak tereduksi oleh kalkulasi \nekonomi yang tidak terukur.",
+      "start_line": 346,
+      "end_line": 360
+    },
+    {
+      "heading": "2. Bahwa pemenuhan kepastian hukum dalam regulasi pembiayaan",
+      "slug": "2-bahwa-pemenuhan-kepastian-hukum-dalam-regulasi-pembiayaan",
+      "text": "pendidikan merupakan prasyarat mutlak untuk mewujudkan tata kelola \npendidikan yang berkeadilan sosial, mengingat pendidikan adalah  \nbarang publik (public goods) yang pemenuhannya menjadi tanggung  \njawab mendasar negara. Ketika norma hukum yang mengatur \npembiayaan pendidikan dirumuskan tanpa batasan yang rigid dan \nterukur, maka hak atas kepastian hukum yang adil bagi peserta d idik \nsecara seketika runtuh, berganti dengan kerentanan atas tindaka n \n\n \n11 \nsewenang-wenang dari pemangku kebijakan di tingkat operasional.  \nOleh karena itu, batu uji Pasal 28D ayat (1) UUD 1945 harus dipandang \nsebagai instrumen korektif untuk memastikan bahwa tidak ada satu pun \nfrasa dalam undang-undang yang memberikan cek kosong bagi \npenyelenggara pendidikan untuk membebankan biaya di luar batas \nkemampuan dan kepatutan yang sah.",
+      "start_line": 362,
+      "end_line": 377
+    },
+    {
+      "heading": "3. Bahwa esensi dari keadilan yang terkandung dalam frasa \"kepa stian",
+      "slug": "3-bahwa-esensi-dari-keadilan-yang-terkandung-dalam-frasa-kepa-stian",
+      "text": "hukum yang adil\" menuntut adanya pembagian beban yang \nproporsional antara negara dan warga negara, di mana negara \nmemegang peran utama sebagai penyedia dana dan pelindung akses \nuniversal. Kepastian hukum tidak boleh hanya dimaknai sebagai \nadanya bentuk formal suatu peraturan, melainkan materi muatan \nperaturan tersebut harus mencerminkan nilai-nilai kepatutan, \nprediktabilitas, dan pelarangan terhadap eksploitasi finansial terhadap \npeserta didik. Pemohon menegaskan bahwa kepastian hukum yang \nhakiki dalam dunia pendidikan tercapai apabila seorang peserta didik \ndan keluarganya dapat merencanakan masa depan pendidikan mereka \ndengan kepastian biaya yang transparan sejak awal hingga akhir masa \nstudi, tanpa dibayangi oleh ancaman munculnya pungutan-pungutan  \nsusulan yang tidak terprediksi.",
+      "start_line": 379,
+      "end_line": 391
+    },
+    {
+      "heading": "4. Pelanggaran Asas Lex Certa dan Lex Stricta Akibat Ambiguitas Frasa",
+      "slug": "4-pelanggaran-asas-lex-certa-dan-lex-stricta-akibat-ambiguitas-frasa",
+      "text": "\"Ikut Menanggung Biaya\" dan \"Tanggung Jawab Bersama\"",
+      "start_line": 393,
+      "end_line": 393
+    },
+    {
+      "heading": "5. Bahwa dalam doktrin hukum tata negara dan pengujian undang-",
+      "slug": "5-bahwa-dalam-doktrin-hukum-tata-negara-dan-pengujian-undang",
+      "text": "undang, suatu norma hukum wajib memenuhi asas lex certa \n(keterangan norma yang jelas) dan lex stricta (penafsiran yang ketat) \nguna mencegah terjadinya kesewenang-wenangan ( arbitrary action ) \noleh penguasa maupun penyelenggara institusi publik. Frasa \"iku t \nmenanggung biaya penyelenggaraan pendidikan\" dalam Pasal 12 ayat \n(2) huruf b serta frasa \"pendanaan pendidikan menjadi tanggung jawab \nbersama antara Pemerintah, Pemerintah Daerah, dan masyarakat\" \ndalam Pasal 46 ayat (1) merupakan bentuk nyata dari rumusan norma \nyang kabur, elastis, dan tidak memiliki batas akhir (open-ended norm). \nKetiadaan indikator kuantitatif, kualitatif, maupun batasan ruang lingkup \nmengenai apa yang dimaksud dengan \"ikut menanggung\" dan \n\n \n12 \n\"tanggung jawab bersama\" secara langsung melanggar hak atas \nkepastian hukum karena menyerahkan penafsiran besaran biaya \nsepenuhnya kepada subjektivitas institusi pendidikan.",
+      "start_line": 395,
+      "end_line": 411
+    },
+    {
+      "heading": "6. Bahwa ambiguitas normatif ini memicu lahirnya ruang gelap hu kum",
+      "slug": "6-bahwa-ambiguitas-normatif-ini-memicu-lahirnya-ruang-gelap-hu-kum",
+      "text": "(legal vacuum of limitation) yang melonggarkan batas-batas kewajiban \nkeuangan peserta didik, sehingga kedudukan hukum peserta didik \nmenjadi sangat lemah menghadapi dominasi institusi pendidikan y ang \nmembutuhkan pendanaan. Ketidakjelasan mengenai ruang lingkup \nkomponen biaya apa saja yang boleh dan tidak boleh dibebankan \nkepada masyarakat membuat batas antara partisipasi sukarela dan  \npembebanan wajib menjadi kabur, yang mana hal ini sangat \nbertentangan dengan prinsip kepastian hukum yang adil. Hukum \nseharusnya bertindak sebagai pembatas kekuasaan dan pelindung \nwarga negara, namun pasal-pasal yang diuji ini justru bertindak  \nsebaliknya, yaitu melegitimasi penarikan dana tanpa batas dari \nmasyarakat dengan dalih amanat undang-undang tentang tanggung \njawab bersama.",
+      "start_line": 413,
+      "end_line": 425
+    },
+    {
+      "heading": "7. Bahwa apabila membenturkan rumusan tersebut dengan asas",
+      "slug": "7-bahwa-apabila-membenturkan-rumusan-tersebut-dengan-asas",
+      "text": "kepastian hukum yang adil, tampak jelas bahwa pembentuk undang-\nundang telah mengabaikan kewajiban konstitusionalnya untuk \nmerumuskan hukum yang memberikan ketenangan dan perlindungan \nbagi subjek hukumnya. Kalimat \"tanggung jawab bersama\" telah \ndieksploitasi sebagai tameng pembenaran untuk menggeser beban \nfinansial yang seharusnya dipikul oleh negara melalui Anggaran \nPendapatan dan Belanja Negara (APBN) kepada pundak orang tua \nmurid. Karakteristik norma yang tidak memberikan ukuran propors i \nyang jelas—apakah masyarakat menanggung 1%, 10%, atau bahkan \nmayoritas dari total biaya operasional—secara mutlak mengonfirm asi \nterjadinya pelanggaran terhadap Pasal 28D ayat (1) UUD 1945, karena \nmembiarkan peserta didik berada dalam kondisi ketidakpastian \nfinansial yang permanen.",
+      "start_line": 427,
+      "end_line": 439
+    },
+    {
+      "heading": "8. Distorsi Filosofi Uang Kuliah Tunggal (UKT) Sebagai Komponen",
+      "slug": "8-distorsi-filosofi-uang-kuliah-tunggal-ukt-sebagai-komponen",
+      "text": "Tunggal Pembiayaan Pendidikan Tinggi \n\n \n13",
+      "start_line": 441,
+      "end_line": 444
+    },
+    {
+      "heading": "9. Bahwa secara yuridis-filosofis, Pemerintah telah mengintrodu sir sistem",
+      "slug": "9-bahwa-secara-yuridis-filosofis-pemerintah-telah-mengintrodu-sir-sistem",
+      "text": "Uang Kuliah Tunggal (UKT) berdasarkan Permendikbud Nomor 55 \nTahun 2013 yang mendefinisikan UKT sebagai satu-satunya \nkomponen biaya yang wajib dibayarkan oleh mahasiswa di setiap \nsemester pada Perguruan Tinggi Negeri (PTN). Kehadiran UKT \nsejatinya dirancang untuk memberikan kepastian hukum yang adil bagi \nmahasiswa agar terbebas dari berbagai pungutan tambahan yang \nmeresahkan seperti uang pangkal, uang gedung, biaya praktikum, atau \nbiaya Satuan Kredit Semester (SKS) yang dipisahkan secara sporadis. \nPembayaran satu komponen tunggal ini ditujukan untuk menciptaka n \ntransparansi dan prediktabilitas keuangan, di mana seluruh kebutuhan \noperasional mahasiswa telah dilebur ke dalam satu tarif terinte grasi \nyang disesuaikan dengan kemampuan ekonomi orang tua melalui \nmekanisme subsidi silang yang berkeadilan.",
+      "start_line": 446,
+      "end_line": 458
+    },
+    {
+      "heading": "10. Bahwa keluhuran filosofi sistem UKT tersebut kini mengalami distorsi",
+      "slug": "10-bahwa-keluhuran-filosofi-sistem-ukt-tersebut-kini-mengalami-distorsi",
+      "text": "dan kelumpuhan total akibat dari adanya celah hukum yang dibuka oleh \nPasal 12 ayat (2) huruf b dan Pasal 46 ayat (1) undang-undang a quo. \nKarenanya undang-undang memberikan legitimasi normatif yang \nlonggar mengenai “tanggung jawab bersama”, banyak perguruan tinggi \nnegeri yang menerbitkan kebijakan penarikan iuran di luar UKT, seperti \nIuran Pengembangan Institusi (IPI), uang pangkal jalur mandiri yang \nfantastis, hingga sumbangan wajib berkedok sukarela. Tindakan \ninstitusional ini secara nyata meruntuhkan makna hakiki dari ka ta \n“Tunggal” dalam UKT, dan mengembalikan lanskap pembiayaan \npendidikan tinggi ke era komersialisasi yang sarat dengan \nketidakpastian hukum, di mana mahasiswa tetap dituntut membayar  \nkomponen biaya lain di luar tarif semesteran resmi.",
+      "start_line": 460,
+      "end_line": 471
+    },
+    {
+      "heading": "11. Bahwa benturan nyata terjadi ketika hak peserta didik untuk",
+      "slug": "11-bahwa-benturan-nyata-terjadi-ketika-hak-peserta-didik-untuk",
+      "text": "mendapatkan tarif tunggal yang berkepastian hukum dilanggar ole h \nkebijakan kampus yang bersandarkan pada pasal pembiayaan \nbersama dalam undang-undang sistem pendidikan nasional. \nKetidakjelasan batasan akhir dari frase “menanggung biaya” dala m \nundang-undang mengalahkan kepastian hukum setingkat peraturan \nmenteri, sehingga institusi pendidikan merasa memiliki \n\n \n14 \nkewenangannya sendiri untuk menciptakan jenis-jenis pungutan ba ru \ndengan dalih kekurangan dana operasional. Berdasarkan hal tersebut, \nkepastian hukum yang adil hanya dapat dipulihkan apabila Mahkamah \nKonstitusi menyatakan bahwa tanggung jawab keuangan peserta didik \nbersifat limitatif dan terbatas hanya pada satu komponen biaya tunggal \nyang telah disesuaikan dengan kemampuan ekonominya, tanpa ada \nruang bagi pungutan tambahan dalam bentuk apa pun.",
+      "start_line": 473,
+      "end_line": 488
+    },
+    {
+      "heading": "12. 4. Ketidakpastian Hubungan Matematis Antara Biaya Kuliah Tu nggal",
+      "slug": "12-4-ketidakpastian-hubungan-matematis-antara-biaya-kuliah-tu-nggal",
+      "text": "(BKT), BOPTN, dan Penetapan Golongan UKT",
+      "start_line": 490,
+      "end_line": 490
+    },
+    {
+      "heading": "13. Bahwa dalam struktur pengelolaan keuangan perguruan tinggi,",
+      "slug": "13-bahwa-dalam-struktur-pengelolaan-keuangan-perguruan-tinggi",
+      "text": "terdapat rumusan baku yang menempatkan Biaya Kuliah Tunggal \n(BKT) sebagai keseluruhan biaya riil operasional per mahasiswa per \nsemester pada suatu program studi. Berdasarkan formulasi hukum \nyang ideal, nilai Uang Kuliah Tunggal (UKT) yang dibebankan kep ada \nmahasiswa dirumuskan melalui persamaan matematis: \nDi mana BOPTN adalah Bantuan Operasional Perguruan Tinggi Negeri \nyang bersumber dari subsidi langsung Pemerintah. Formulasi ini \nmenunjukkan bahwa porsi pembiayaan yang ditanggung oleh \nmahasiswa seharusnya bersifat residual dan dependen terhadap \nseberapa besar tanggung jawab finansial yang dipenuhi oleh nega ra \nmelalui alokasi subsidi BOPTN demi mencapai pemenuhan Standar \nNasional Pendidikan.",
+      "start_line": 492,
+      "end_line": 503
+    },
+    {
+      "heading": "14. Bahwa dalam praktiknya, akibat tidak adanya batasan propors i yang",
+      "slug": "14-bahwa-dalam-praktiknya-akibat-tidak-adanya-batasan-propors-i-yang",
+      "text": "jelas dalam Pasal 46 ayat (1) undang-undang a quo, variabel BOPTN \ndari pemerintah sering kali tidak mencukupi untuk menutup selisih BKT, \nsehingga beban kekurangan tersebut dialihkan secara sewenang-\nwenang kepada mahasiswa melalui peningkatan tarif UKT dan \npembukaan golongan-golongan UKT baru yang bernilai tinggi. \nKetidakpastian hubungan matematis ini merugikan hak konstitusio nal \npeserta didik karena mereka tidak pernah mengetahui apakah besaran \nUKT yang ditetapkan telah mencerminkan nilai objektif kemampuan  \nekonomi orang tua, ataukah sekadar instrumen bagi universitas u ntuk \nmenutupi defisit anggaran akibat minimnya subsidi negara. Kondi si ini \n\n \n15 \nmenempatkan mahasiswa sebagai objek pemerasan legal akibat \nregulasi tingkat undang-undang yang gagal menetapkan batas bawa h \nketerlibatan finansial negara.",
+      "start_line": 505,
+      "end_line": 520
+    },
+    {
+      "heading": "15. Bahwa ketidakpastian hukum semakin meruncing ketika penempa tan",
+      "slug": "15-bahwa-ketidakpastian-hukum-semakin-meruncing-ketika-penempa-tan",
+      "text": "mahasiswa ke dalam kelompok atau golongan UKT (Kelompok I hingga \nKelompok Penuh) dilakukan melalui parameter yang tidak transpar an \ndan tidak akuntabel oleh pihak universitas. Ketiadaan ukuran uk uran \nyang jelas mengenai ruang lingkup pembiayaan bersama dalam \nundang-undang mengakibatkan tidak adanya standarisasi nasional \ndalam verifikasi data sosial-ekonomi mahasiswa, sehingga banyak  \nmahasiswa dari keluarga kurang mampu ditempatkan pada golongan \nUKT tinggi yang tidak realistis. Fenomena penolakan sanggahan U KT \ndan keharusan mengambil “UKT Penuh” bagi yang enggan melewati \nbirokrasi pengisian formulir yang rumit mengonfirmasi bahwa \nketidakjelasan norma undang-undang telah melahirkan praktik \npengelolaan pendidikan yang tidak berperikemanusiaan dan \nmelanggar jaminan kepastian hukum yang adil.",
+      "start_line": 522,
+      "end_line": 534
+    },
+    {
+      "heading": "16. Kontradiksi Norma Antara Tanggung Jawab Bersama dan Prinsip",
+      "slug": "16-kontradiksi-norma-antara-tanggung-jawab-bersama-dan-prinsip",
+      "text": "Nirlaba Serta Akses Berkeadilan",
+      "start_line": 536,
+      "end_line": 536
+    },
+    {
+      "heading": "17. Bahwa dalam Pasal 49 ayat (2) huruf a Peraturan Pemerintah Nomor",
+      "slug": "17-bahwa-dalam-pasal-49-ayat-2-huruf-a-peraturan-pemerintah-nomor",
+      "text": "66 Tahun 2010 tentang Perubahan atas PP Nomor 17 Tahun 2010, \nditegaskan bahwa pengelolaan satuan pendidikan wajib didasarkan  \npada prinsip nirlaba, yaitu prinsip kegiatan yang bertujuan uta ma tidak \nmencari keuntungan, sehingga seluruh sisa lebih hasil kegiatan harus \ndikembalikan untuk meningkatkan kapasitas layanan pendidikan. Lebih \nlanjut, huruf e pasal tersebut dan Pasal 53 ayat (1) mewajibkan  \npenyediaan akses berkeadilan tanpa memandang kemampuan \nekonomi peserta didik. Namun, keberadaan Pasal 12 ayat (2) huru f b \ndan Pasal 46 ayat (1) UU Sisdiknas yang membuka kran pembiayaan  \ntak berbatas dari masyarakat secara diam-diam menggeser orienta si \nsatuan pendidikan dari institusi nirlaba pengemban misi sosial menjadi \nkorporasi berorientasi profit (market-driven institution). \n\n \n16",
+      "start_line": 538,
+      "end_line": 552
+    },
+    {
+      "heading": "18. Bahwa pembiayaan bersama tanpa batas proporsi memicu kontradiksi",
+      "slug": "18-bahwa-pembiayaan-bersama-tanpa-batas-proporsi-memicu-kontradiksi",
+      "text": "norma yang akut, di mana di satu sisi lembaga pendidikan diwaji bkan \nmemberikan layanan tanpa memandang status ekonomi, tetapi di si si \nlain mereka diberikan keleluasaan undang-undang untuk \nmengeksploitasi dana masyarakat guna membangun sarana fisik \nmewah yang melampaui Standar Nasional Pendidikan. Hal ini \nmenciptakan diskriminasi sistemik di mana akses terhadap pendidikan \nbermutu tinggi hanya tersedia bagi calon peserta didik yang mam pu \nmembayar sumbangan institusi dalam nominal besar. Ketika \nkapitalisasi pendidikan dilegimitasi oleh undang-undang, maka h ak \natas kepastian hukum yang adil bagi warga negara miskin untuk \nmemperoleh pendidikan tinggi yang setara secara otomatis tereliminasi \noleh tembok tebal komersialisasi.",
+      "start_line": 554,
+      "end_line": 565
+    },
+    {
+      "heading": "19. Bahwa benturan kepentingan antara pemenuhan hak konstitusio nal",
+      "slug": "19-bahwa-benturan-kepentingan-antara-pemenuhan-hak-konstitusio-nal",
+      "text": "warga negara dan pencarian dana operasional mandiri oleh instit usi \npendidikan merupakan akibat langsung dari kegagalan Pasal 46 ay at \n(1) UU Sisdiknas dalam menggariskan garis demarkasi yang tegas \nantara wilayah pembiayaan publik dan privat. Satuan pendidikan \nnegeri, yang seharusnya dibiayai penuh oleh negara untuk menjam in \nkepastian hukum pelayanan publik, justru dipaksa bertindak \nmenyerupai entitas bisnis swasta yang berburu surplus finansial  dari \nmahasiswa melalui instrumen pungutan legal berkamuflase “tanggu ng \njawab bersama”. Oleh sebab itu, untuk menyelaraskan kembali tat a \nkelola pendidikan dengan prinsip nirlaba dan akses berkeadilan,  \nMahkamah Konstitusi harus membatasi keabsahan pasal a quo agar \ntidak lagi dijadikan instrumen komersialisasi pendidikan yang \neksploitatif.",
+      "start_line": 567,
+      "end_line": 579
+    },
+    {
+      "heading": "20. Manifestasi Kerugian Konstitusional: Data Empiris Penyelewe ngan",
+      "slug": "20-manifestasi-kerugian-konstitusional-data-empiris-penyelewe-ngan",
+      "text": "Dana Pendidikan dan Pungutan Liar (Pungli)",
+      "start_line": 581,
+      "end_line": 581
+    },
+    {
+      "heading": "21. Bahwa argumen Pemohon mengenai adanya ketidakpastian hukum",
+      "slug": "21-bahwa-argumen-pemohon-mengenai-adanya-ketidakpastian-hukum",
+      "text": "yang adil akibat ambiguitas norma bukan sekadar kekhawatiran teoretis \nbelaka, melainkan sebuah realitas objektif yang telah menimbulk an \nkerugian konstitusional secara masif di seluruh wilayah Indones ia. \nBerdasarkan laporan pemantauan ilmiah yang dirilis oleh Jaringa n \n\n \n17 \nPemantau Pendidikan Indonesia (JPPI), tercatat setidaknya terjadi 218 \nkasus dugaan penyelewengan dana pendidikan di Indonesia. Fakta \nyang paling mengejutkan dan relevan dengan permohonan ini adala h \nbahwa jenis penyelewengan dana pendidikan terbesar didominasi oleh \nPraktik Pungutan Liar (Pungli) dengan persentase mencapai 47% d ari \ntotal kasus, yang secara eksplisit digambarkan oleh JPPI sebaga i \nbentuk “pemalakan langsung terhadap siswa dan orang tua”.",
+      "start_line": 583,
+      "end_line": 596
+    },
+    {
+      "heading": "22. Bahwa tingginya angka pungutan liar yang mencapai hampir se paruh",
+      "slug": "22-bahwa-tingginya-angka-pungutan-liar-yang-mencapai-hampir-se-paruh",
+      "text": "dari total penyelewengan dana pendidikan merupakan bukti tak \nterbantahkan bahwa frasa “ikut menanggung biaya” dan “tanggung \njawab bersama” dalam undang-undang telah disalahgunakan di tingkat \nimplementasi sebagai legitimasi moral dan hukum untuk melakukan  \npungutan di luar ketentuan resmi. Ketidakjelasan batasan akhir \ntanggung jawab peserta didik meruntuhkan kepastian hukum dan \ndimanfaatkan oleh oknum birokrasi sekolah maupun kampus untuk \nmelegalisasi penarikan uang dari orang tua murid dengan berbaga i \ndalih kebersamaan, sumbangan sukarela, uang komite, atau iuran \nperpisahan. Ketiadaan legal barrier yang tegas dalam undang-und ang \na quo membuat praktik pungli tumbuh subur dalam wilayah abu-abu \nhukum (gray area) yang mengorbankan kepastian hukum dan finansial \nwali murid.",
+      "start_line": 598,
+      "end_line": 610
+    },
+    {
+      "heading": "di mana hukum gagal memberikan fungsi proteksi, regulasi, dan",
+      "slug": "di-mana-hukum-gagal-memberikan-fungsi-proteksi-regulasi-dan",
+      "text": "distribusi keadilan bagi peserta didik akibat rumusan kalimat u ndang-\nundang yang cacat sejak dalam kandungan normatifnya. Ketika 47%  \npenyelewengan berbentuk pungli langsung kepada siswa, hal tersebut \nmenunjukkan bahwa ketidakjelasan ruang lingkup dan proporsi \npembiayaan dalam Pasal 12 ayat (2) huruf b dan Pasal 46 ayat (1) UU \nSisdiknas telah bertindak sebagai faktor pemicu (enabling facto r) \nterjadinya korupsi kasatmata di lingkungan pendidikan tinggi da n \nmenengah. Dengan demikian, benturan antara realitas empiris \npenyelewengan dana ini dengan batu uji Pasal 28D ayat (1) UUD 1945 \ntelah mencapai derajat kedaruratan konstitusional yang mewajibk an \n\n \n18 \nMahkamah Konstitusi mengintervensi demi menyelamatkan masa \ndepan generasi bangsa dari pemerasan terselubung.",
+      "start_line": 613,
+      "end_line": 627
+    },
+    {
+      "heading": "24. Penggeseran Kewajiban Negara (Shifting of State Obligation) Kepada",
+      "slug": "24-penggeseran-kewajiban-negara-shifting-of-state-obligation-kepada",
+      "text": "Warga Negara yang Melanggar Hak Konstitusional",
+      "start_line": 629,
+      "end_line": 629
+    },
+    {
+      "heading": "25. Bahwa konstitusi melalui Pasal 31 ayat (2), (3), dan (4) UU D 1945",
+      "slug": "25-bahwa-konstitusi-melalui-pasal-31-ayat-2-3-dan-4-uu-d-1945",
+      "text": "secara imperatif meletakkan kewajiban pembiayaan pendidikan das ar \nsecara mutlak di tangan negara, serta mewajibkan negara \nmenyelenggarakan satu sistem pendidikan nasional dengan \nmengalokasikan anggaran pendidikan sekurang-kurangnya 20% dari \nAPBN dan APBD. Mandat konstitusional ini mengisyaratkan bahwa \nnegara harus bertindak sebagai penyandang dana utama (primary \nfunder) untuk memastikan setiap warga negara dapat mengakses \npendidikan tanpa hambatan finansial. Namun, keberadaan frasa \n“pendanaan pendidikan menjadi tanggung jawab bersama antara \nPemerintah, Pemerintah Daerah, dan masyarakat” telah dijadikan \ninstrumen hukum untuk melakukan tindakan penggeseran kewajiban \nnegara ( shifting of state obligation ) kepada warga negara secara \nsistemik.",
+      "start_line": 631,
+      "end_line": 643
+    },
+    {
+      "heading": "26. Bahwa dengan dalih “tanggung jawab bersama” yang tidak diba tasi",
+      "slug": "26-bahwa-dengan-dalih-tanggung-jawab-bersama-yang-tidak-diba-tasi",
+      "text": "proporsinya, negara secara perlahan melepaskan tanggung jawab \nanggarannya dan membiarkan institusi pendidikan negeri mencari \npendanaan mandiri dengan cara memeras kemampuan ekonomi \npeserta didiknya. Tindakan penggeseran kewajiban ini merupakan \npengkhianatan terhadap kontrak sosial yang tertuang dalam UUD 1945 \ndan secara telanjang melanggar hak atas kepastian hukum yang ad il, \nk a r e n a  w a r g a  n e g a r a  d i p a k s a  m e m b a y a r  g a n d a :  p e r t a m a  m e l a l u i  \npembayaran pajak kepada negara, dan kedua melalui pembayaran \nberbagai pungutan pendidikan yang tiada berakhir. Ketidakpastia n \nhukum terjadi karena porsi peran negara menjadi bersifat elasti s dan \nfluktuatif, bergantung pada kemauan politik anggaran penguasa, \nsementara beban masyarakat terus merangkak naik tanpa batas \nproteksi yang pasti. \n\n \n19",
+      "start_line": 645,
+      "end_line": 660
+    },
+    {
+      "heading": "27. Bahwa apabila mencermati ketentuan Pasal 58H PP Nomor 66 Tahun",
+      "slug": "27-bahwa-apabila-mencermati-ketentuan-pasal-58h-pp-nomor-66-tahun",
+      "text": "2010, dinyatakan bahwa Pemerintah menanggung biaya investasi dan \noperasional satuan pendidikan tinggi “sesuai dengan kemampuan \nkeuangan negara”. Frasa elastis dalam peraturan turunan ini, ya ng \nbersumber dari ketidakjelasan Pasal 46 ayat (1) UU Sisdiknas, menjadi \npintu masuk bagi pemangkasan subsidi pendidikan tinggi (BOPTN) \nsecara sepihak dengan alasan efisiensi anggaran negara. Ketika \nsubsidi negara mengecil, institusi pendidikan mengeksploitasi f rasa \n“tanggung jawab masyarakat” untuk menaikkan UKT dan \nmembebankan biaya kuliah yang mahal, yang mana tindakan \npengalihan beban operasional negara kepada individu warga negar a \nini melanggar asas keadilan hukum yang terkandung dalam Pasal 28D \nayat (1) UUD 1945.",
+      "start_line": 662,
+      "end_line": 673
+    },
+    {
+      "heading": "28. Ancaman Terhadap Kuota Mahasiswa Kurang Mampu dan Kegagalan",
+      "slug": "28-ancaman-terhadap-kuota-mahasiswa-kurang-mampu-dan-kegagalan",
+      "text": "Sistem Subsidi Silang yang Adil",
+      "start_line": 675,
+      "end_line": 675
+    },
+    {
+      "heading": "29. Bahwa kepastian hukum yang adil dalam pendidikan menuntut adanya",
+      "slug": "29-bahwa-kepastian-hukum-yang-adil-dalam-pendidikan-menuntut-adanya",
+      "text": "perlindungan afirmatif bagi kelompok masyarakat yang lemah seca ra \nekonomi agar tetap dapat menikmati hak atas pendidikan tinggi melalui \njaminan kuota dan subsidi yang berkepastian. Berdasarkan Pasal 53A \nayat (1) dan (4) Peraturan Pemerintah Nomor 66 Tahun 2010, seti ap \nsatuan pendidikan tinggi yang diselenggarakan oleh Pemerintah w ajib \nmengalokasikan tempat dan menyediakan bantuan biaya pendidikan \nbagi calon peserta didik yang memiliki potensi akademik memadai  \nnamun kurang mampu secara ekonomi, sekurang-kurangnya 20% dari \njumlah keseluruhan peserta didik baru. Kebijakan afirmatif ini dirancang \nagar sistem UKT berkeadilan dapat berjalan melalui mekanisme subsidi \nsilang yang presisi, di mana kelompok kaya menyubsidi kelompok \nmiskin.",
+      "start_line": 677,
+      "end_line": 688
+    },
+    {
+      "heading": "30. Bahwa akibat ketiadaan batasan dan ukuran yang jelas mengen ai",
+      "slug": "30-bahwa-akibat-ketiadaan-batasan-dan-ukuran-yang-jelas-mengen-ai",
+      "text": "ruang lingkup pembiayaan bersama dalam undang-undang yang diuji , \nsistem subsidi silang yang adil tersebut mengalami keruntuhan \nstruktural di lapangan. Ketika universitas diberikan kebebasan tak \nterbatas untuk menetapkan iuran di luar UKT (seperti uang pangk al \njalur mandiri), institusi pendidikan cenderung memprioritaskan \n\n \n20 \npenerimaan mahasiswa baru dari jalur yang mampu memberikan \nsumbangan finansial terbesar demi mendongkrak pendapatan kampus. \nPraktik ini secara langsung mengancam pemenuhan kuota minimal \n20% bagi mahasiswa kurang mampu, karena ruang bagi mahasiswa \nmiskin tereliminasi oleh komersialisasi penerimaan mahasiswa ba ru \nyang didorong oleh kebutuhan institusi untuk menutup biaya \noperasional yang tidak ditanggung negara.",
+      "start_line": 690,
+      "end_line": 704
+    },
+    {
+      "heading": "31. Bahwa ketidakjelasan norma ini juga mengakibatkan kegagalan fungsi",
+      "slug": "31-bahwa-ketidakjelasan-norma-ini-juga-mengakibatkan-kegagalan-fungsi",
+      "text": "jaminan perlindungan bagi mahasiswa miskin yang mengalami \npenurunan kemampuan ekonomi di tengah masa studi (misalnya akibat \norang tua meninggal dunia atau terkena pemutusan hubungan kerja ). \nTanpa adanya ukuran batasan akhir tanggung jawab yang diatur dalam \ntingkat undang-undang, proses pengajuan penurunan golongan UKT \natau permohonan pembebasan biaya sering kali menghadapi jalan \nbuntu birokrasi kampus yang kaku dan tidak bersahabat. Mahasisw a \ndipaksa untuk memilih antara membayar UKT yang tidak lagi sesua i \nkemampuan ekonominya atau melakukan drop out  (putus kuliah), \nsebuah realitas memilukan yang membuktikan bahwa Pasal 12 ayat (2) \nhuruf b dan Pasal 46 ayat (1) UU Sisdiknas secara nyata melangg ar \nhak atas kepastian hukum yang adil dan memutus rantai mobilitas  \nsosial warga negara.",
+      "start_line": 706,
+      "end_line": 718
+    },
+    {
+      "heading": "32. Korupsi Administratif “Rapi di Atas Kertas” Sebagai Dampak",
+      "slug": "32-korupsi-administratif-rapi-di-atas-kertas-sebagai-dampak",
+      "text": "Kekosongan Batasan Hukum yang Tegas",
+      "start_line": 720,
+      "end_line": 720
+    },
+    {
+      "heading": "33. Bahwa berdasarkan laporan JPPI tahun 2025, selain praktik p ungli,",
+      "slug": "33-bahwa-berdasarkan-laporan-jppi-tahun-2025-selain-praktik-p-ungli",
+      "text": "ditemukan pula penyelewengan dana bantuan pendidikan sebesar \n24%, korupsi pengadaan proyek pendidikan sebesar 17%, \npenyalahgunaan kekuasaan sebesar 11%, serta praktik korupsi \nadministratif dan fiktif sebesar 1%. JPPI menggarisbawahi bahwa  \npenyelewengan ini sering kali dikategorikan sebagai korupsi yang “rapi",
+      "start_line": 722,
+      "end_line": 726
+    },
+    {
+      "heading": "di atas kertas”, di mana secara administratif seluruh Laporan",
+      "slug": "di-atas-kertas-di-mana-secara-administratif-seluruh-laporan",
+      "text": "Pertanggungjawaban (LPJ) dan Surat Pertanggungjawaban (SPJ) \ndimanipulasi sedemikian rupa sehingga tampak memenuhi standar \nmalaadministrasi yang rapi, namun secara sistemik merugikan kualitas \n\n \n21 \npendidikan nasional, menghasilkan bangunan sekolah rusak, saran a \nfiktif, dan bocornya dana BOS, PIP, maupun DAK.",
+      "start_line": 728,
+      "end_line": 735
+    },
+    {
+      "heading": "34. Bahwa Pemohon berargumen terdapat hubungan kausalitas yang kuat",
+      "slug": "34-bahwa-pemohon-berargumen-terdapat-hubungan-kausalitas-yang-kuat",
+      "text": "antara karakteristik norma yang kabur dalam pasal yang diuji de ngan \nmaraknya korupsi administratif yang “rapi di atas kertas” terse but. \nKarena undang-undang tidak menetapkan ruang lingkup komponen \nbiaya secara limitatif, institusi pendidikan memiliki kebebasan  u n t u k  \nmencampuradukkan dana yang bersumber dari anggaran negara \n(APBN/APBD) dengan dana yang dipungut dari masyarakat dalam satu \nkantong pengelolaan yang tidak transparan. Kekosongan batasan \nhukum yang tegas ini menyulitkan lembaga pengawas eksternal \n(seperti BPK, BPKP, atau akuntan publik) untuk melakukan audit \ninvestigatif yang mendalam, sebab institusi pendidikan selalu d apat \nberlindung di balik dalih bahwa penggunaan dana yang bermasalah  \ntersebut bersumber dari partisipasi dana masyarakat yang fleksibel dan \ntidak seketat aturan keuangan negara.",
+      "start_line": 737,
+      "end_line": 749
+    },
+    {
+      "heading": "35. Bahwa ketidakpastian hukum ini menciptakan situasi di mana",
+      "slug": "35-bahwa-ketidakpastian-hukum-ini-menciptakan-situasi-di-mana",
+      "text": "akuntabilitas publik yang diamanatkan oleh Pasal 49 ayat (2) hu ruf b \nPP 66/2010 menjadi sekadar formalitas administratif di atas ker tas \ntanpa substansi kejujuran hukum. Peserta didik dan orang tua mu rid, \nselaku penyumbang dana di bawah payung “tanggung jawab bersama”, \ntidak pernah diberikan hak akses informasi yang transparan untu k \nmengaudit ke mana setiap rupiah uang yang mereka bayarkan \ndialokasikan. Ketika hukum membiarkan sebuah sistem pengelolaan  \nkeuangan publik berjalan tanpa kejelasan batasan antara hak pub lik \ndan kewajiban privat, maka jaminan terhadap kepastian hukum yan g \nadil telah gagal total diwujudkan oleh negara, sehingga pembata lan \natau pemberian tafsir konstitusional bersyarat atas pasal-pasal  a quo \nmenjadi sebuah keniscayaan hukum.",
+      "start_line": 751,
+      "end_line": 762
+    },
+    {
+      "heading": "36. Urgensi Koreksi Konstitusional Demi Mengembalikan Kepastian",
+      "slug": "36-urgensi-koreksi-konstitusional-demi-mengembalikan-kepastian",
+      "text": "Hukum yang Adil dalam Sistem Pembiayaan Pendidikan",
+      "start_line": 764,
+      "end_line": 764
+    },
+    {
+      "heading": "37. Bahwa seluruh jalinan argumen hukum, landasan filosofis, da n bukti",
+      "slug": "37-bahwa-seluruh-jalinan-argumen-hukum-landasan-filosofis-da-n-bukti",
+      "text": "empiris penyelewengan dana yang telah Pemohon paparkan di atas \n\n \n22 \nbermuara pada satu kesimpulan konstitusional yang solid: Pasal 12 \nayat (2) huruf b dan Pasal 46 ayat (1) Undang-Undang Nomor 20 Tahun \n2003 tentang Sistem Pendidikan Nasional terbukti secara sah dan  \nmeyakinkan bertentangan dengan Pasal 28D ayat (1) UUD 1945 \nsepanjang tidak dimaknai secara limitatif dan ketat. Ketidakjel asan \nnorma yang terkandung dalam frasa “ikut menanggung biaya” dan \n“tanggung jawab bersama” telah menjadi akar penyebab runtuhnya \nkepastian hukum yang adil, suburnya komersialisasi pendidikan, serta \nmeluasnya praktik pungutan liar dan korupsi sistemik yang membebani \npeserta didik di Indonesia. \nB. Ketidakpastian Hukum Proproporsionalitas Pendanaan sebagai \nBentuk Pengabaian Tanggung Jawab Negara dalam Menjamin Hak \nKonstitusional Atas Pendidikan yang Berkeadilan",
+      "start_line": 766,
+      "end_line": 782
+    },
+    {
+      "heading": "1. Ketidakpastian Hukum Proproporsionalitas Pendanaan sebagai Bentuk",
+      "slug": "1-ketidakpastian-hukum-proproporsionalitas-pendanaan-sebagai-bentuk",
+      "text": "Pengabaian Tanggung Jawab Negara dalam Menjamin Hak \nKonstitusional Atas Pendidikan yang Berkeadilan",
+      "start_line": 784,
+      "end_line": 785
+    },
+    {
+      "heading": "2. Bahwa ketentuan Pasal 46 ayat (1) Undang-Undang Nomor 20 Tah un",
+      "slug": "2-bahwa-ketentuan-pasal-46-ayat-1-undang-undang-nomor-20-tah-un",
+      "text": "2003 tentang Sistem Pendidikan Nasional (UU Sisdiknas) yang \nmenyatakan bahwa pendanaan pendidikan menjadi tanggung jawab \nbersama antara Pemerintah, Pemerintah Daerah, dan masyarakat, \ntelah melahirkan kekosongan hukum ( rechtsvacuüm) yang secara \nnyata membentur jaminan konstitusional hak atas pendidikan dala m \nPasal 31 ayat (1) UUD NRI 1945. Ketiadaan klausul yang mengatur  \nproporsi, batas, dan pembagian tanggung jawab finansial yang ri gid \nantara sektor publik dan privat memberikan ruang bagi pelepasan  \ntanggung jawab negara secara terstruktur. Ketika hukum normatif  \nmembiarkan frasa “tanggung jawab bersama” tanpa demarkasi limit s \nyang absolut, negara secara sengaja melegitimasi terjadinya \npengalihan beban finansial kepada masyarakat, yang berimplikasi  \nlangsung pada runtuhnya kepastian hukum yang adil. Ketiadaan \nparameter baku mengenai berapa persentase maksimal yang boleh \ndibebankan kepada masyarakat dan berapa kewajiban minimum yang \nwajib dipikul oleh instrumen kekuasaan eksekutif, memicu anarki  \nkebijakan pembiayaan di tingkat implementasi empiris. Satuan \n\n \n23 \npendidikan, baik di tingkat dasar, menengah, hingga pendidikan tinggi, \nmemanfaatkan ambiguitas pasal ini sebagai dasar hukum untuk \nmembebankan defisit anggaran operasional mereka kepada dompet \norang tua peserta didik. Ketidakjelasan pemisahan lokus pendanaan ini \ntidak boleh dianggap sebagai fle ksibilitas regulatif semata, me lainkan \nharus dinilai secara kritis sebagai cacat substansial rancangan undang-\nundang ( legislative defect ) yang melanggar prinsip the rule of law . \nAkibat hukumnya, hak konstitusional warga negara untuk mendapatkan \npendidikan yang layak dan bebas dari hambatan ekonomi tidak lag i \ndijamin oleh konstitusi, melainkan dinegosiasikan melalui kapas itas \nfinansial individual. Kondisi ini secara nyata mereduksi hak as asi \nmanusia yang bersifat universal menjadi sebuah komoditas komers ial \nprivat yang hanya dapat diakses oleh segelintir kelompok yang memiliki \nprivilege ekonomi. Ketika hak konstitusional yang dijamin oleh naskah \nfundamental negara digantungkan pada ketiadaan pembatasan \nproporsi dalam undang-undang organik, maka undang-undang \ntersebut secara nyata telah mengkhianati perintah tertinggi kon stitusi \nyang mengamanatkan negara untuk mencerdaskan kehidupan bangsa \nmelalui pembiayaan publik yang total, inklusif, berkelanjutan, dan \nbebas dari diskriminasi struktural.",
+      "start_line": 787,
+      "end_line": 826
+    },
+    {
+      "heading": "3. Komersialisasi Sistemik dan Legitimasi Pungutan Liar yang",
+      "slug": "3-komersialisasi-sistemik-dan-legitimasi-pungutan-liar-yang",
+      "text": "Terselubung Akibat Ambiguitas Pembagian Beban Finansial \nPendidikan",
+      "start_line": 828,
+      "end_line": 829
+    },
+    {
+      "heading": "4. Bahwa ambiguitas absolut dalam Pasal 46 ayat (1) UU Sisdikna s",
+      "slug": "4-bahwa-ambiguitas-absolut-dalam-pasal-46-ayat-1-uu-sisdikna-s",
+      "text": "secara langsung menjadi akar kausalitas suburnya berbagai pungutan",
+      "start_line": 831,
+      "end_line": 831
+    },
+    {
+      "heading": "di luar Uang Kuliah Tunggal (UKT) dan Sumbangan Pembinaan",
+      "slug": "di-luar-uang-kuliah-tunggal-ukt-dan-sumbangan-pembinaan",
+      "text": "Pendidikan (SPP) resmi, yang s ecara eksponens ial mengancam \neksistensi Pasal 31 ayat (1) UUD NRI 1945. Norma ini memberikan  \ntameng legalitas bagi institusi pendidikan untuk memformulasika n \nberagam biaya terselubung, seperti uang pangkal, iuran komite \nsekolah, iuran pengembangan institusi, biaya praktikum siluman,  \nhingga biaya pengadaan seragam dan buku teks yang kian kompleks . \nData empiris menunjukkan bahwa eskalasi biaya pendidikan langsung \ndan tidak langsung ini meningkat tajam dengan laju inflasi sekt oral \n\n \n24 \nmencapai 10% hingga 15% per tahun, sebuah angka yang sangat tidak \nproporsional jika dibandingkan dengan kenaikan upah riil masyar akat \natau Upah Minimum Regional (UMR) yang hanya merangkak di kisaran \n3% hingga 5% per tahun. Ketimpangan matematis ini membuktikan \nadanya pergeseran paksa (forced shifting) beban fiskal dari neg ara ke \nrumah tangga, yang dimungkinkan karena Pasal 46 ayat (1) tidak \nmenetapkan batas akhir (boundary line) kapan masyarakat boleh \ndimintai kontribusi dan kapan masyarakat harus dibebaskan secar a \nmutlak dari kewajiban keuangan. Frasa “tanggung jawab masyaraka t” \ndalam ketentuan a quo  telah disalahartikan secara sistematis oleh \nbirokrasi pendidikan sebagai cek kosong untuk menarik dana publ ik \ntanpa batas kendali. Konsekuensinya, proses seleksi masuk dan \nkeberlanjutan studi di lembaga pendidikan tidak lagi murni meng uji \nkapasitas intelektual dan potensi akademik peserta didik, melai nkan \nberalih menjadi kompetisi daya beli finansial keluarga. Negara dalam \nhal ini telah melakukan pembiaran regulatif terhadap komersiali sasi \npendidikan, yang mengubah corak institusi akademik dari ruang publik \nyang inklusif menjadi korporasi pasar yang berorientasi laba. Benturan \nnorma ini sangat benderang: di satu sisi Pasal 31 ayat (1) UUD NRI \n1945 memberikan jaminan mutlak bahwa setiap warga negara berhak  \nmendapat pendidikan, namun di sisi lain undang-undang organik d i \nbawahnya justru menciptakan rintangan ekonomi sistemik yang \nmenggagalkan hak tersebut di pintu gerbang sekolah dan kampus. \nOleh karena itu, membiarkan Pasal 46 ayat (1) tetap berlaku tan pa \npembatasan proporsi pendanaan publik yang dominan sama saja \ndengan melegalkan pengosongan makna substantif dari hak \nkonstitusional atas pendidikan itu sendiri.",
+      "start_line": 833,
+      "end_line": 870
+    },
+    {
+      "heading": "5. Kegagalan Alokasi Anggaran Pendidikan 20 Persen Akibat Misal okasi",
+      "slug": "5-kegagalan-alokasi-anggaran-pendidikan-20-persen-akibat-misal-okasi",
+      "text": "Fiskal ke Sekolah Kedinasan dan Disfungsi Anggaran Negara",
+      "start_line": 872,
+      "end_line": 872
+    },
+    {
+      "heading": "6. Bahwa fakta empiris mengenai tidak tepat sasarannya alokasi",
+      "slug": "6-bahwa-fakta-empiris-mengenai-tidak-tepat-sasarannya-alokasi",
+      "text": "anggaran pendidikan sekurang-kurangnya 20 persen dari Anggaran \nPendapatan Belanja Negara ( APBN) dan Anggaran Pendapatan \nBelanja Daerah (APBD) merupakan akibat langsung dari kegagalan \nPasal 46 ayat (1) UU Sisdiknas dalam membatasi ruang lingkup \n\n \n25 \noperasional pendanaan, yang melanggar Pasal 31 ayat (4) UUD NRI",
+      "start_line": 874,
+      "end_line": 881
+    },
+    {
+      "heading": "1945. Konstitusi secara imperatif memerintahkan bahwa prioritas",
+      "slug": "1945-konstitusi-secara-imperatif-memerintahkan-bahwa-prioritas",
+      "text": "anggaran 20 persen wajib difokuskan untuk memenuhi kebutuhan \npenyelenggaraan pendidikan nasional yang mencakup jalur pendidikan \nformal dari tingkat paling bawah (pendidikan anak usia dini dan  dasar) \nhingga tingkat pendidikan tinggi umum. Namun, karena undang-\nundang tidak memberikan demarkasi batas tanggung jawab yang \ntegas, ruang fiskal pendidikan nasional senilai ratusan triliun  r u p i a h  \ntersebut mengalami dilusi dan fragmentasi, di mana dana pendidi kan \njustru dialokasikan secara masif  untuk mendanai sekolah-sekolah  \nkedinasan di bawah kementerian/lembaga sektoral non-pendidikan \nyang secara eksklusif hanya melayani kepentingan korps birokras i \ntertentu. Misalokasi struktural ini menciptakan ketidakadilan a nggaran \n(budgetary injustice) yang mendalam, di mana sekolah kedinasan \nmenerima fasilitas asrama, uang saku, dan pembebasan biaya tota l \nyang bersumber dari rumpun anggaran pendidikan, sementara institusi \npendidikan tinggi negeri umum (PTN) dan sekolah-sekolah umum di  \ndaerah tertinggal dipaksa mengalami kelangkaan fiskal parah. De fisit \nanggaran pada jalur pendidikan umum inilah yang kemudian menjad i \nalasan pembenar bagi kampus-kampus umum untuk menaikkan UKT \nsecara ugal-ugalan dan menciptakan pungutan liar terstruktur ya ng \nmemeras mahasiswa. Benturan konstitusional terjadi ketika amanat 20 \npersen APBN yang seharusnya diprioritaskan untuk menjamin akses  \npendidikan yang setara bagi seluruh rakyat Indonesia tanpa terkecuali, \njustru didegradasi menjadi instrumen pembiayaan aparatur negara  \neksklusif, sementara hak anak-anak dari kelompok masyarakat sip il \numum dikorbankan. Kegagalan Pasal 46 ayat (1) UU Sisdiknas dala m \nmengunci distribusi anggaran 20 persen agar fokus pada core-\neducation system (pendidikan dasar hingga tinggi umum) membuktikan \nbahwa pasal tersebut bertentangan secara diametral dengan semangat \nperlindungan hak asasi manusia dan keadilan sosial yang terkand ung \ndalam Pasal 31 ayat (4) UUD NRI 1945.",
+      "start_line": 883,
+      "end_line": 912
+    },
+    {
+      "heading": "7. Diskriminasi Finansial dan Penghancuran Mobilitas Sosial Vertikal Bagi",
+      "slug": "7-diskriminasi-finansial-dan-penghancuran-mobilitas-sosial-vertikal-bagi",
+      "text": "Rumah Tangga Miskin dan Kelompok Rentan \n\n \n26",
+      "start_line": 914,
+      "end_line": 917
+    },
+    {
+      "heading": "8. Bahwa ketentuan Pasal 46 ayat (1) UU Sisdiknas secara nyata telah",
+      "slug": "8-bahwa-ketentuan-pasal-46-ayat-1-uu-sisdiknas-secara-nyata-telah",
+      "text": "memperdalam jurang stratifikasi sosial dan memperkuat mekanisme  \nreproduksi kemiskinan antargenerasi, sebuah kondisi yang \nbertentangan dengan semangat inklusivitas Pasal 31 ayat (1) UUD NRI",
+      "start_line": 919,
+      "end_line": 921
+    },
+    {
+      "heading": "1945. Ketika biaya pendidikan melesat tinggi akibat absennya",
+      "slug": "1945-ketika-biaya-pendidikan-melesat-tinggi-akibat-absennya",
+      "text": "kepastian batas pendanaan oleh negara, kelompok masyarakat \nberpendapatan rendah (40% rumah tangga terbawah) mengalami \ntekanan finansial yang luar biasa ekstrem. Data sosiologis \nmenunjukkan bahwa keluarga miskin terpaksa mengambil keputusan \nadaptif yang bersifat defensif dan destruktif, seperti menarik anak \nmereka dari sekolah untuk dipekerjakan dalam sektor informal, a tau \nmemindahkan anak ke satuan pendidikan berkualitas rendah demi \nmenghindari pungutan sekolah yang mencekik. Pendidikan yang \nseharusnya berfungsi sebagai elevator sosial utama untuk memutu s \nrantai kemiskinan struktural, kini berubah menjadi instrumen segregasi \nkelas, di mana fasilitas pendidikan bermutu tinggi dengan saran a \nprasarana modern hanya menjadi hak eksklusif anak-anak dari kel as \natas (20% rumah tangga teratas). Kondisi ini melanggar jaminan \nnondiskriminasi yang inheren dalam pemenuhan hak atas pendidika n \nyang diatur dalam konstitusi. Pelepasan tanggung jawab negara dalam \nmembatasi beban biaya personal peserta didik menyebabkan akses \nterhadap ilmu pengetahuan dan teknologi terfragmentasi berdasar kan \ntebal tipisnya dompet orang tua. Ketika anak dari keluarga misk in \ntersingkir dari sistem pendidikan akibat tidak mampu membayar u ang \npangkal atau iuran komite, negara telah melakukan pelanggaran h ak \nasasi manusia melalui pembiaran regulatif ( violation by omission ). \nKetidakjelasan proporsi tanggung jawab dalam Pasal 46 ayat (1) UU \nSisdiknas memberikan legitimasi bagi berlakunya hukum pasar beb as",
+      "start_line": 923,
+      "end_line": 945
+    },
+    {
+      "heading": "di sektor pendidikan, yang secara langsung melumpuhkan keadilan",
+      "slug": "di-sektor-pendidikan-yang-secara-langsung-melumpuhkan-keadilan",
+      "text": "sosial dan menghancurkan masa depan modal manusia ( human \ncapital) nasional, sehingga pasal tersebut wajib dinyatakan \ninkonstitusional karena merusak tatanan hak warga negara untuk \nmendapatkan kesempatan hidup yang setara melalui jalur edukasi. \n\n \n27",
+      "start_line": 947,
+      "end_line": 953
+    },
+    {
+      "heading": "9. Fenomena “Squeezed Middle” dan Kerentanan Ekonomi Kelas",
+      "slug": "9-fenomena-squeezed-middle-dan-kerentanan-ekonomi-kelas",
+      "text": "Menengah Akibat Absennya Batas Perlindungan Fiskal Negara",
+      "start_line": 955,
+      "end_line": 955
+    },
+    {
+      "heading": "10. Bahwa keberlakuan Pasal 46 ayat (1) UU Sisdiknas telah menciptakan",
+      "slug": "10-bahwa-keberlakuan-pasal-46-ayat-1-uu-sisdiknas-telah-menciptakan",
+      "text": "kepunahan perlindungan ekonomi bagi kelompok masyarakat kelas \nmenengah, yang melahirkan fenomena tragis berupa “squeezed \nmiddle” (kelas menengah yang terjepit), sebuah kondisi yang \nmenegasikan keadilan hukum dalam Pasal 31 ayat (1) UUD NRI 1945. \nKelompok kelas menengah berada dalam posisi sosiologis yang sangat \nrentan: mereka tidak dikategorikan sebagai kelompok miskin ekst rem \nsehingga secara otomatis tereksklusi dari berbagai skema bantua n \nsosial pendidikan seperti Program Indonesia Pintar (PIP) atau K artu \nIndonesia Pintar (KIP) Kuliah yang berbasis Data Terpadu \nKesejahteraan Sosial (DTKS). Namun di sisi lain, pendapatan rii l \nmereka sangat tidak memadai untuk menanggung lonjakan \neksponensial UKT dan biaya “tersembunyi” pendidikan yang \ndilepaskan tanpa kontrol oleh undang-undang a quo. Akibatnya, demi \nmempertahankan anak-anak mereka di bangku kuliah atau sekolah \nmenengah berkualitas, keluarga kelas menengah dipaksa melakukan  \npengorbanan fiskal rumah tangga yang tidak sehat, seperti mengu ras \ntabungan masa depan, memotong anggaran kebutuhan dasar pangan \ndan nutrisi, hingga terjebak dalam lingkaran setan utang konsumtif dan \npinjaman online ilegal. Tekanan finansial yang destruktif ini \nmenurunkan kualitas hidup dan ketahanan ekonomi keluarga kelas \nmenengah secara masif. Negara, melalui Pasal 46 ayat (1) UU \nSisdiknas, telah gagal menjalankan fungsi perlindungannya (to protect) \nkepada warga negara yang produktif, dengan membiarkan biaya \npendidikan bergeser menjadi beban personal yang menghancurkan \nstabilitas ekonomi makro rumah tangga. Ketidakjelasan batas tanggung \njawab finansial ini membuktikan bahwa undang-undang tidak memil iki \nsensitivitas sosiologis terhadap struktur demografi masyarakat \nIndonesia. Ketika kelompok penyangga utama perekonomian nasional \njustru jatuh miskin akibat biaya pendidikan anak-anak mereka ya ng \ntidak terkendali, maka hal tersebut menjadi bukti tak terbantah kan \nbahwa regulasi pendanaan pendidikan yang ada saat ini bertentangan \n\n \n28 \nsecara fundamental dengan tujuan konstitusional Pasal 31 ayat ( 1) \nUUD NRI 1945 yang menghendaki pendidikan sebagai instrumen \nkesejahteraan, bukan instrumen pemiskinan sistemik.",
+      "start_line": 957,
+      "end_line": 993
+    },
+    {
+      "heading": "11. Dampak Transformasi Perguruan Tinggi Negeri Badan Hukum (PT N-",
+      "slug": "11-dampak-transformasi-perguruan-tinggi-negeri-badan-hukum-pt-n",
+      "text": "BH) Sebagai Katalisator Eksklusi Pendidikan Tinggi Umum",
+      "start_line": 995,
+      "end_line": 995
+    },
+    {
+      "heading": "12. Bahwa ketidakjelasan proporsi pendanaan dalam Pasal 46 ayat (1) UU",
+      "slug": "12-bahwa-ketidakjelasan-proporsi-pendanaan-dalam-pasal-46-ayat-1-uu",
+      "text": "Sisdiknas menjadi pembenaran doktrinal bagi gelombang transformasi \nPerguruan Tinggi Negeri menjadi Perguruan Tinggi Negeri Badan \nHukum (PTN-BH), yang secara agresif mengancam keterjangkauan \nakses pendidikan tinggi sebagaimana dijamin Pasal 31 ayat (1) U UD \nNRI 1945. Status PTN-BH yang menekankan otonomi keuangan dan \nmodel tata kelola universitas korporat ( corporate university) memaksa \nkampus-kampus negeri untuk mencari sumber pendanaan swadaya di \nluar subsidi APBN yang kian menyusut. Karena undang-undang tida k \nmengunci kewajiban negara untuk menanggung mayoritas unit cost \npendidikan tinggi, maka PTN-BH secara rasional mengalihkan defi sit \nanggarannya langsung kepada mahasiswa melalui instrumen kenaikan \nUKT, penetapan uang pangkal jalur mandiri yang fantastis, dan \nkomersialisasi aset akademik. Kampus negeri yang sejatinya didi rikan \ndengan uang rakyat untuk kepentingan rakyat, kini berubah watak  \nmenjadi entitas bisnis yang sangat eksklusif. Mahasiswa dari la tar \nbelakang ekonomi bawah dan menengah bawah secara sistematis \ntersingkir dari program studi strategis dan favorit karena tida k mampu \nmemenuhi syarat nominal uang pangkal yang ditentukan secara \nsepihak oleh otoritas kampus. Praktik penahanan ijazah bagi yan g \nmenunggak, ancaman putus kuliah (drop out) karena kendala finansial, \nhingga tekanan mental yang memicu depresi di kalangan mahasiswa  \nmiskin menjadi pemandangan empiris yang memilukan. Benturan pasal \nyang diuji dengan konstitusi sangat nyata: Pasal 46 ayat (1) UU  \nSisdiknas membiarkan perguruan tinggi negeri bertindak layaknya  \nagen pasar bebas yang mematok harga berdasarkan kekuatan \npenawaran dan permintaan, sementara Pasal 31 ayat (1) UUD NRI \n1945 menggariskan dengan tegas bahwa pendidikan adalah hak publik \nyang pemenuhannya wajib dijamin dan difasilitasi oleh otoritas negara \n\n \n29 \nsecara berkeadilan tanpa adanya hambatan komersial yang \ndiskriminatif.",
+      "start_line": 997,
+      "end_line": 1029
+    },
+    {
+      "heading": "13. Perluasan Beban Finansial ke Sektor Digital Pasca-Pandemi y ang",
+      "slug": "13-perluasan-beban-finansial-ke-sektor-digital-pasca-pandemi-y-ang",
+      "text": "Memperparah Jurang Kesenjangan Pembelajaran (Digital Divide)",
+      "start_line": 1031,
+      "end_line": 1031
+    },
+    {
+      "heading": "14. Bahwa ketentuan Pasal 46 ayat (1) UU Sisdiknas yang tidak a daptif",
+      "slug": "14-bahwa-ketentuan-pasal-46-ayat-1-uu-sisdiknas-yang-tidak-a-daptif",
+      "text": "dan kabur dalam pembagian tanggung jawab finansial, telah \nmemperparah dampak kesenjangan digital ( digital divide ) pasca-\npandemi, yang secara langsung mencederai hak atas pendidikan yang \nsetara dalam Pasal 31 ayat (1) UUD NRI 1945. Transformasi metod e \npembelajaran modern yang kini berbasis hybrid dan membutuhkan \ninfrastruktur teknologi informasi yang canggih (seperti laptop spesifikasi \ntinggi, gawai digital, kuota internet bulanan, serta akses pera ngkat \nlunak premium) telah memperluas spektrum komponen biaya \npendidikan dari lingkungan sekolah ke dalam wilayah domestik ru mah \ntangga. Namun, karena undang-undang a quo  membiarkan beban \ntersebut mengambang sebagai “tanggung jawab bersama”, negara \nmelepaskan diri dari kewajiban menyediakan infrastruktur digita l \npersonal bagi peserta didik. Beban pengadaan perangkat teknolog i \ncanggih ini sepenuhnya ditumpuk di atas pundak orang tua. Bagi \nkeluarga miskin dan pedesaan, tuntutan digitalisasi ini menjadi  \nmalapetaka finansial baru yang memperdalam ketertinggalan anak-\nanak mereka. Terjadi ketimpangan kualitas pembelajaran yang sangat \nekstrem antara siswa kaya perkotaan yang memiliki akses perangk at \ndigital paripurna dengan siswa miskin daerah tertinggal yang te risolasi \ndari teknologi. Fenomena ini membuktikan bahwa biaya pendidikan  \ntidak lagi sekadar urusan membayar SPP, melainkan mencakup \nekosistem pendukung digital yang sangat mahal. Ketiadaan regula si \ndalam UU Sisdiknas yang mewajibkan anggaran publik untuk \nmengintervensi dan mensubsidi penuh kebutuhan teknologi digital bagi \npeserta didik miskin membuktikan adanya cacat bawaan dalam Pasa l \n46 ayat (1) yang tidak lagi relevan dengan perkembangan zaman, dan \nsecara nyata melanggar hak konstitusional anak bangsa untuk \nmemperoleh kualitas pendidikan yang setara dan kompetitif di er a \nmodern. \n\n \n30",
+      "start_line": 1033,
+      "end_line": 1064
+    },
+    {
+      "heading": "15. Disparitas Pembiayaan Wilayah dan Kesenjangan Kelembagaan",
+      "slug": "15-disparitas-pembiayaan-wilayah-dan-kesenjangan-kelembagaan",
+      "text": "Antara Sekolah Negeri, Swasta, Serta Pendidikan Keagamaan",
+      "start_line": 1066,
+      "end_line": 1066
+    },
+    {
+      "heading": "16. Bahwa ketidakjelasan formulasi pembagian pendanaan dalam Pasal 46",
+      "slug": "16-bahwa-ketidakjelasan-formulasi-pembagian-pendanaan-dalam-pasal-46",
+      "text": "ayat (1) UU Sisdiknas telah memicu disparitas pembiayaan \nantarwilayah dan kesenjangan mutu kelembagaan yang akut, yang \nbertentangan dengan prinsip keadilan sosial dalam Pasal 31 ayat  (1) \nUUD NRI 1945. Absennya standar proporsi kontribusi yang mengika t \nantara Pemerintah Pusat dan Pemerintah Daerah melahirkan \nketimpangan kualitas pendidikan yang dramatis antarprovinsi dan  \nantarkabupaten/kota. Daerah yang memiliki Pendapatan Asli Daera h \n(PAD) tinggi mampu memberikan subsidi tambahan melalui skema \nBOS Daerah, sedangkan daerah tertinggal, terdepan, dan terluar (3T) \nyang kapasitas fiskalnya lemah terpaksa membiarkan satuan \npendidikannya merana dalam keterbatasan anggaran, yang berujung  \npada pembebanan biaya operasional secara brutal kepada masyarakat",
+      "start_line": 1068,
+      "end_line": 1079
+    },
+    {
+      "heading": "l o k a l y a n g m i s k i n . K e t i d a k a d i l a n i n i s e m a k i n m e n g a n g a j i k a k i t a",
+      "slug": "l-o-k-a-l-y-a-n-g-m-i-s-k-i-n-k-e-t-i-d-a-k-a-d-i-l-a-n-i-n-i-s-e-m-a-k-i-n-m-e-n-g-a-n-g-a-j-i-k-a-k-i-t-a",
+      "text": "menelaah posisi lembaga pendidikan swasta kecil dan lembaga \npendidikan keagamaan (seperti madrasah dan pesantren) yang \nseringkali dianaktirikan dalam distribusi anggaran publik, mesk ipun \nmereka memikul beban nyata dalam mencerdaskan sebagian besar \nanak bangsa. Sekolah swasta pinggiran dipaksa menetapkan biaya \ntinggi kepada siswanya demi menjaga kelangsungan hidup institus i, \ntanpa adanya intervensi jaminan fiskal yang memadai dari negara . \nAkibat hukum dari Pasal 46 ayat (1) ini adalah terjadinya kasta nisasi \nsistem pendidikan nasional: kasta sekolah negeri unggulan perko taan \nyang melimpah fasilitas, kasta sekolah swasta elite yang super mahal, \ndan kasta sekolah pinggiran/madrasah yang kumuh dan kekurangan \ndana. Kastanisasi struktural yang didorong oleh cacatnya regula si \npendanaan ini secara telak menabrak filosofi Pasal 31 ayat (1) UUD \nNRI 1945 yang menghendaki satu sistem pendidikan nasional yang \ntunggal, setara, berkeadilan, dan merata bagi seluruh tumpah da rah \nIndonesia tanpa memandang batas geografis maupun status \nkelembagaan. \n\n \n31",
+      "start_line": 1081,
+      "end_line": 1100
+    },
+    {
+      "heading": "17. Ketidaktepatan Sasaran Skema Bantuan Sosial Pendidikan Seba gai",
+      "slug": "17-ketidaktepatan-sasaran-skema-bantuan-sosial-pendidikan-seba-gai",
+      "text": "Akibat Hukum Lemahnya Akuntabilitas dan Transparansi Fiskal",
+      "start_line": 1102,
+      "end_line": 1102
+    },
+    {
+      "heading": "18. Bahwa kegagalan efektivitas program bantuan sosial pendidik an",
+      "slug": "18-bahwa-kegagalan-efektivitas-program-bantuan-sosial-pendidik-an",
+      "text": "seperti Dana Bantuan Operasional Sekolah (BOS), Program Indonesia \nPintar (PIP), dan KIP Kuliah dalam meredam dampak kenaikan biay a \npendidikan adalah implikasi logis dari cacat normatif Pasal 46 ayat (1) \nUU Sisdiknas yang tidak menuntut akuntabilitas proporsi pembiay aan \nsecara ketat, sehingga melanggar semangat Pasal 31 ayat (4) UUD  \nNRI 1945. Karena undang-undang tidak menetapkan bahwa anggaran \nnegara wajib menjadi penyangga utama (primary sustainer) dengan  \npersentase di atas 80% dari total unit cost riil pendidikan per  s i s wa ,  \nmaka skema bantuan yang ada saat ini diproduksi dengan nominal \nyang sangat tidak realistis dan jauh di bawah kebutuhan riil operasional \nsatuan pendidikan. Dana BOS yang disalurkan pemerintah seringka li \nhabis hanya untuk membiayai komponen administrasi minor dan \nhonorarium guru non-ASN, tanpa menyisakan ruang fiskal untuk \nmembebaskan biaya personal siswa. Lebih jauh lagi, sistem \npenyaluran bantuan ini dikotori oleh problem salah sasaran akib at \nburuknya sinkronisasi data kemiskinan dan intervensi politik anggaran. \nBanyak anak dari keluarga miskin tidak menerima bantuan karena \nhambatan birokrasi, sementara anak dari keluarga mampu justru \nmenikmati fasilitas beasiswa. Kelemahan tata kelola dan transpa ransi \nini membuktikan bahwa rancangan kebijakan pendanaan dalam UU \nSisdiknas lebih berorientasi pada pemenuhan kewajiban formal \npenyerapan anggaran secara kuantitatif, alih-alih berfokus pada  \ndampak kualitatif pembebasan beban finansial rumah tangga. \nKetidakmampuan regulasi organik ini untuk menciptakan sistem ja ring \npengaman fiskal (fiscal safety net) yang presisi dan total bagi  peserta \ndidik rentan, membentur amanat Pasal 31 ayat (4) UUD NRI 1945 yang \nmenghendaki pemanfaatan anggaran pendidikan sebesar-besarnya \nuntuk pemenuhan hak dasar rakyat secara transparan, akuntabel, \nberdaya guna, dan bebas dari distorsi struktural.",
+      "start_line": 1104,
+      "end_line": 1132
+    },
+    {
+      "heading": "19. Erosi Kepercayaan Publik Terhadap Otoritas Negara dan Pelanggaran",
+      "slug": "19-erosi-kepercayaan-publik-terhadap-otoritas-negara-dan-pelanggaran",
+      "text": "Hak Atas Pendidikan Sebagai Kewajiban Hukum Internasional \n\n \n32",
+      "start_line": 1134,
+      "end_line": 1137
+    },
+    {
+      "heading": "20. Bahwa keberlakuan Pasal 46 ayat (1) UU Sisdiknas yang membiarkan",
+      "slug": "20-bahwa-keberlakuan-pasal-46-ayat-1-uu-sisdiknas-yang-membiarkan",
+      "text": "eskalasi biaya pendidikan tanpa batas perlindungan yang jelas, telah \nmemicu erosi kepercayaan publik secara masif terhadap legitimas i \nnegara dan secara internasional melanggar komitmen pemenuhan hak \nasasi manusia, sebuah kondisi yang bertentangan dengan esensi \nPasal 31 ayat (1) UUD NRI 1945. Gelombang protes mahasiswa yang  \nmeluas di berbagai kota, jeritan orang tua di media sosial, ser ta \nmeningkatnya skeptisisme masyarakat terhadap institusi sekolah \nmembuktikan bahwa rakyat merasa dikhianati oleh kebijakan \npembiayaan pendidikan yang bercorak neoliberal. Negara dinilai telah \nmelakukan pengelakan kewajiban hukum ( evasion of legal obligation ) \nyang diamanatkan oleh konstitusi untuk melindungi warga negaran ya \ndari kemiskinan edukatif. Dalam dimensi hukum internasional, sebagai \nnegara yang telah meratifikasi Kovenan Internasional tentang Hak-Hak \nEkonomi, Sosial, dan Budaya (ICESCR) melalui Undang-Undang \nNomor 11 Tahun 2005, Indonesia terikat kewajiban hukum untuk \nmewujudkan pendidikan tinggi secara Cuma-Cuma secara progresif \n(progressive introduction of free education). Namun, keberadaan Pasal \n46 ayat (1) UU Sisdiknas justru melegalkan langkah mundur \n(retrogressive measures) berupa pelepasan kendali harga pendidikan \nyang memiskinkan rakyat. Ketidakselarasan antara retorika polit ik \n“Indonesia Emas 2045” dengan realitas “Krisis Keterjangkauan Bi aya \nPendidikan\" di lapangan membuktikan bahwa pasal yang diuji tela h \ngagal total menjadi jembatan kesejahteraan. Apabila Mahkamah \nKonstitusi tidak segera membatalkan atau memberikan tafsir bersyarat \nyang ketat terhadap Pasal 46 ayat (1) UU Sisdiknas dengan \nmenegaskan batas dominasi tanggung jawab finansial negara, maka  \nhak atas pendidikan dalam Pasal 31 ayat (1) UUD NRI 1945 akan \nselamanya terdegradasi menjadi teks mati yang tidak memiliki da ya \nlaku empiris, dan negara akan terus terjebak dalam siklus pelanggaran \nhak konstitusional terhadap generasi mudanya sendiri.. \nC. Bahwa Ketentuan Pasal 12 ayat (2) Huruf b dan Pasal 46 ayat (1) UU \nSisdiknas Melanggengkan Pembebanan Biaya Pendidikan Secara \nTerus-Menerus Kepada Peserta Didik dan Secara Nyata Bertentangan \n\n \n33 \ndengan Kewajiban Absolut Negara dalam Menjamin Hak \nKonstitusional Atas Pendidikan Tanpa Diskriminasi Ekologis-\nEkonomis",
+      "start_line": 1139,
+      "end_line": 1177
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 12 ayat (2) huruf b dan Pasal 46 ayat (1)",
+      "slug": "1-bahwa-ketentuan-pasal-12-ayat-2-huruf-b-dan-pasal-46-ayat-1",
+      "text": "Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan \nNasional (UU Sisdiknas) telah menciptakan sebuah pembiaran hukum \nyang bersifat sistemik dan eksploitatif terhadap warga negara, \nkhususnya para Pemohon, dengan melegalkan penarikan kontribusi \ndana dari peserta didik guna menutupi ketidakmampuan tata kelol a \nanggaran negara. Pembebanan biaya penyelenggaraan pendidikan \nsecara terus-menerus ini merupakan bentuk pengingkaran radikal \nterhadap esensi Pasal 31 ayat (1) dan ayat (2) Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 (UUD NRI 1945) yang secara  \neksplisit menyatakan bahwa setiap warga negara berhak mendapat \npendidikan dan negara wajib membiayai pendidikan dasar tanpa \nkecuali. Norma yang diuji ini mereduksi kewajiban absolut negara (state \nobligation) menjadi sekadar fungsi fasilitasi yang opsional, di mana \ntanggung jawab finansial dialihkan secara sepihak ke pundak \nmasyarakat yang secara struktural sudah tidak berdaya. Benturan  \nantara teks undang-undang dan teks konstitusi ini melahirkan si tuasi \nanomali di mana hak asasi warga negara untuk mencerdaskan \nkehidupan bangsa disandera oleh kemampuan finansial individu, yang \npada gilirannya melahirkan segregasi sosial-ekonomi yang akut d i \ndalam ruang lingkup akademis. Ketika negara gagal menyediakan \npayung hukum yang memadai untuk membebaskan biaya pendidikan, \nmaka ketentuan a quo secara inheren telah cacat moral konstitusional \nkarena mengorbankan masa depan generasi muda demi efisiensi \nanggaran yang semu. Ketidakmampuan regulasi ini dalam memberikan \nperlindungan hukum yang kuat menyebabkan para Pemohon berada \ndalam kondisi ketidakpastian hukum yang permanen, di mana \nkeberlangsungan hak atas pendidikan mereka selalu dibayangi ole h \nancaman putus sekolah akibat ketidakmampuan membayar pungutan \nyang dikemas sebagai biaya operasional atau komite. Oleh karena itu, \nmembenturkan pasal-pasal yang melegalkan pungutan ini dengan cita-\n\n \n34 \ncita Welfare State yang digagas oleh para pendiri bangsa di dal am \nPembukaan UUD NRI 1945 memperlihatkan secara benderang bahwa \nPasal 12 ayat (2) huruf b dan Pasal 46 ayat (1) UU Sisdiknas tidak lagi \nmemiliki legitimasi hukum untuk dipertahankan, melainkan harus \ndinyatakan tidak mempunyai kekuatan hukum mengikat karena telah  \nmengkhianati substansi keadilan distributif yang menjadi pilar utama \npemenuhan hak asasi manusia di Indonesia.",
+      "start_line": 1179,
+      "end_line": 1218
+    },
+    {
+      "heading": "2. Bahwa Terdapat Anomali Struktural dan Inkonsistensi Regulasi",
+      "slug": "2-bahwa-terdapat-anomali-struktural-dan-inkonsistensi-regulasi",
+      "text": "Penganggaran di Dalam UU Sisdiknas yang Mengaburkan Batasan \nHakiki Alokasi Anggaran Pendidikan Minimal 20 Persen Sehingga \nMenghasilkan Ketidakpastian Hukum yang Merugikan Hak Finansial \nSektor Pendidikan",
+      "start_line": 1220,
+      "end_line": 1223
+    },
+    {
+      "heading": "3. Bahwa terjadi kontradiksi internal yang sangat parah di dalam tubuh UU",
+      "slug": "3-bahwa-terjadi-kontradiksi-internal-yang-sangat-parah-di-dalam-tubuh-uu",
+      "text": "Sisdiknas itu sendiri, khususnya ketika membenturkan rumusan Pa sal \n46 ayat (2) dengan Pasal 49 ayat (1), yang secara nyata meruntuhkan \nkepastian hukum yang adil sebagaimana dijamin dalam Pasal 28D ayat \n(1) UUD NRI 1945. Di satu sisi,  undang-undang memerintahkan \npemenuhan alokasi anggaran 20 persen dari Anggaran Pendapatan \ndan Belanja Negara (APBN) serta Anggaran Pendapatan dan Belanja \nDaerah (APBD) sesuai amanat Pasal 31 ayat (4) UUD NRI 1945, \nnamun di sisi lain, penyelundupan frasa \"dana pendidikan selain  gaji \npendidik dan biaya pendidikan kedinasan\" di dalam regulasi \nturunannya telah mengacaukan basis kalkulasi matematis finansia l \nnegara. Inkonsistensi normatif ini telah dimanfaatkan secara \nmanipulatif oleh otoritas birokrasi untuk memasukkan komponen-\nkomponen anggaran non-instruksional yang tidak berkaitan langsu ng \ndengan peningkatan kualitas intelektual peserta didik ke dalam pos \nanggaran pendidikan. Interpretasi yang bercabang-cabang dan sal ing \nmenegasikan ini berakibat pada menggelembungnya angka anggaran \npendidikan secara nominal di atas kertas hingga mencapai ratusa n \ntriliun rupiah, tetapi secara riil substansial, dana yang benar -benar \nmenyentuh kebutuhan ruang kelas dan pembebasan biaya siswa \nsangatlah minim. Ketentuan hukum yang ambigu ini memicu \nperselisihan tafsir yang berkepanjangan di tingkat implementasi  \n\n \n35 \nkebijakan, di mana Mahkamah Konstitusi melalui Putusan Nomor \n026/PUU-IV/2006 sebenarnya telah memberikan rambu-rambu \nmengenai batasan penganggaran yang berfokus pada pre-service \nprogram, namun regulasi operasional yang diuji tetap mempertahankan \ncelah kedinasan (in-service training) dan pengeluaran sektoral \nkementerian lain untuk membebani kuota 20 persen tersebut. \nManipulasi semantik dalam undang-undang ini secara langsung \nmerugikan para Pemohon karena hak atas alokasi anggaran \npendidikan yang bersih, efektif, dan terfokus menjadi terdistor si oleh \nego sektoral berbagai lembaga pemerintahan non-kementerian. \nKeberadaan norma Pasal 46 ayat (1) UU Sisdiknas yang tidak tegas ini \nmengesahkan suatu sistem pembiayaan yang rapuh, di mana \nanggaran jumbo yang selalu diklaim oleh Menteri Keuangan tidak \npernah sejalan dengan hilangnya beban biaya di tingkat tapak, \nsehingga pengujian konstitusionalitas terhadap norma ini menjadi satu-\nsatunya jalan keluar  untuk membersihkan APBN dari praktik \npenyelundupan anggaran yang merugikan hak-hak fundamental \npeserta didik.",
+      "start_line": 1225,
+      "end_line": 1266
+    },
+    {
+      "heading": "4. Bahwa Terjadi Fragmentasi Akut dan Pemencaran Alokasi Anggar an",
+      "slug": "4-bahwa-terjadi-fragmentasi-akut-dan-pemencaran-alokasi-anggar-an",
+      "text": "Pendidikan ke Berbagai Kementerian dan Lembaga Non-Pendidikan \nyang Mengakibatkan Disfungsi Otoritas Kementerian Pendidikan da n \nKebudayaan Serta Ketidakefektifan Belanja Negara",
+      "start_line": 1268,
+      "end_line": 1270
+    },
+    {
+      "heading": "5. Bahwa fakta hukum dan empiris menunjukkan pengelolaan anggar an",
+      "slug": "5-bahwa-fakta-hukum-dan-empiris-menunjukkan-pengelolaan-anggar-an",
+      "text": "pendidikan di Indonesia berada dalam kondisi disorientasi tata kelola \n(governance failure) yang disebabkan oleh tersebarnya dana 20 persen \nAPBN tersebut ke belasan kemente rian dan lembaga non-pendidikan, \nsehingga mereduksi peran Kementerian Pendidikan dan Kebudayaan \nmenjadi sekadar pengamat administrasi tanpa otoritas eksekusi y ang \npenuh. Penyerapan dana pendidikan oleh lembaga kedinasan dan \nkementerian sektoral untuk membiayai program pelatihan internal  \npegawainya secara nyata telah menabrak filosofi pendidikan nasi onal \nyang bertujuan untuk membentuk karakter dan mencerdaskan generasi \nmuda secara universal, bukan membiayai birokrasi aparatur sipil  \nnegara. Situasi ironis ini dikonfirmasi langsung oleh Menteri Keuangan \n\n \n36 \nSri Mulyani yang menyatakan bahwa sebagian besar porsi anggaran  \npendidikan justru tidak dipegang dan dikendalikan oleh kementer ian \nyang membidangi urusan pendidikan, sebuah pengakuan yang \nmembongkar kenyataan bahwa kebijakan fiskal pendidikan di \nIndonesia dijalankan secara tidak efisien dan salah sasaran. \nPemencaran anggaran ini melanggar prinsip kepastian hukum dan \nketerpaduan sistem pendidikan nasional sebagaimana diatur dalam  \nPasal 1 Angka 3 UU Sisdiknas yang menghendaki keseluruhan \nkomponen pendidikan saling terkait secara terpadu untuk mencapa i \ntujuan nasional. Pembenturan realitas fragmentasi ini dengan am anat \nPasal 31 ayat (4) UUD NRI 1945 membuktikan bahwa pasal-pasal \ndalam UU Sisdiknas yang diuji telah gagal total dalam memposisi kan \nkementerian pendidikan sebagai panglima tertinggi dalam pengelolaan \ndana pendidikan nasional. Dampak langsung dari lemahnya \ncengkeraman otoritas tunggal ini adalah lahirnya kebijakan-kebi jakan \npenganggaran daerah yang tidak sinkron, di mana dana transfer k e \ndaerah sering kali dialihkan untuk urusan kosmetik infrastruktur daerah \nyang diklaim secara paksa sebagai penunjang pendidikan, seperti  \nusulan jalur jalan menuju sekolah yang dimasukkan dalam klaster  \nanggaran pendidikan. Otonomi pengelolaan yang kebablasan tanpa \nadanya standardisasi yang kokoh di bawah satu komando kementerian \npendidikan telah merugikan hak para Pemohon untuk mendapatkan \nkeadilan anggaran, sehingga norma Pasal 46 ayat (1) yang \nmembiarkan pembiayaan pendidikan tersebar tanpa kendali sentral  \nyang ketat harus dinyatakan inkonstitusional karena terbukti me micu \npemborosan fiskal yang masif.",
+      "start_line": 1272,
+      "end_line": 1311
+    },
+    {
+      "heading": "6. Bahwa Kegagalan Struktural Pendanaan Pendidikan Berdampak",
+      "slug": "6-bahwa-kegagalan-struktural-pendanaan-pendidikan-berdampak",
+      "text": "Langsung pada Rendahnya Mutu Pendidikan Nasional dan Penurunan \nDrastis Daya Saing Global Indonesia Berdasarkan Parameter \nInternasional Seperti Skor PISA",
+      "start_line": 1313,
+      "end_line": 1315
+    },
+    {
+      "heading": "7. Bahwa ketidakmemadaian perlindungan hukum dalam Pasal 12 aya t",
+      "slug": "7-bahwa-ketidakmemadaian-perlindungan-hukum-dalam-pasal-12-aya-t",
+      "text": "(2) huruf b dan Pasal 46 ayat (1) UU Sisdiknas terhadap pembiay aan \npendidikan berbanding lurus dengan kemerosotan kualitas intelek tual \ngenerasi muda Indonesia di panggung internasional, yang merupak an \n\n \n37 \nbukti nyata dari pelanggaran negara terhadap hak atas pendidika n \nyang bermutu. Ketidakmampuan instrumen hukum nasional dalam \nmengonversi anggaran jumbo 20 persen APBN menjadi output kualitas \npembelajaran yang nyata teperdaya oleh fakta bahwa skor The \nProgram for International Student Assessment (PISA) yang dirili s oleh \nOECD secara konsisten menempatkan Indonesia di jurang terdalam,  \nyakni peringkat 72 dari 78 negara. Kegagalan ini merupakan ironi yang \nsangat memprihatinkan sekaligus bukti konkret bahwa klaim \npemenuhan kewajiban 20 persen anggaran oleh pemerintah hanyalah  \npemenuhan formalitas angka akuntansi fiskal, sementara substans i \nkualitas pembelajaran diabaikan tanpa adanya evaluasi hukum yan g \nmengikat. Ketika undang-undang membiarkan sekolah-sekolah terus  \nmenarik pungutan dari orang tua dengan dalih keterbatasan dana,  \nfokus institusi pendidikan bergeser dari inovasi pedagogis dan literasi \nsains menjadi urusan penagihan sengketa finansial internal. \nMembenturkan potret buram skor PISA ini dengan janji konstitusi onal \nuntuk \"mencerdaskan kehidupan bangsa\" yang termaktub dalam \nPembukaan UUD NRI 1945 memperlihatkan adanya kesenjangan \n(gap) yang sangat lebar antara cita-cita idealisme hukum dan re alitas \nsosiologis yang dihadapi para Pemohon. Sumber daya manusia \nIndonesia dipaksa masuk ke dalam golongan peringkat yang paling  \nrendah secara rata-rata global karena sistem pendidikan tidak disokong \noleh kepastian pendanaan operasional yang memerdekakan siswa dari \nbeban biaya. Dengan demikian, jika norma-norma yang membolehkan \npenarikan biaya penyelenggaraan pendidikan ini tetap dipertahan kan, \nmaka negara secara sengaja membiarkan bangsa ini mengalami \npembodohan struktural dan kalah dalam persaingan global di era \ndigital, yang secara langsung melanggar hak konstitusional para  \nPemohon untuk tumbuh berkembang dan memiliki daya saing yang adil \nsebagai warga dunia.",
+      "start_line": 1317,
+      "end_line": 1352
+    },
+    {
+      "heading": "8. Bahwa Ketidakmemadaian Norma yang Diuji Mengakibatkan Masifn ya",
+      "slug": "8-bahwa-ketidakmemadaian-norma-yang-diuji-mengakibatkan-masifn-ya",
+      "text": "Kerusakan Sarana dan Prasarana Fisik Pendidikan di Seluruh Wilayah \nIndonesia Sebagai Akibat dari Salah Sasaran Pengelolaan Dana \nAlokasi Khusus \n\n \n38",
+      "start_line": 1354,
+      "end_line": 1359
+    },
+    {
+      "heading": "9. Bahwa kegagalan perlindungan norma Pasal 12 ayat (2) huruf b dan",
+      "slug": "9-bahwa-kegagalan-perlindungan-norma-pasal-12-ayat-2-huruf-b-dan",
+      "text": "Pasal 46 ayat (1) UU Sisdiknas dalam menjamin ketersediaan sara na \ndan prasarana pendidikan dasar dan menengah telah menciptakan \nkondisi lingkungan belajar yang tidak layak, membahayakan \nkeselamatan jiwa peserta didik, serta melanggar hak atas lingku ngan \npendidikan yang aman. Data nasional dari Laporan Kilasan Kinerj a \nKementerian Pendidikan dan Kebudayaan secara telanjang \nmengungkap potret hancurnya infrastruktur pendidikan kita, di m ana \n1,2 juta ruang kelas atau sekitar 69% dari total ruang kelas di  seluruh \npenjuru Indonesia berada dalam kondisi mengalami kerusakan, dengan \nrincian persentase kerusakan yang sangat masif di tingkat Sekol ah \nDasar mencapai 74% ruang kelas, di mana 10% di antaranya \nmengalami rusak berat yang mengancam keselamatan fisik siswa. \nKondisi serupa terjadi pada jenjang Sekolah Menengah Pertama (SMP) \ndengan 70% ruang kelas rusak, Sekolah Menengah Atas (SMA) \ndengan 55% kerusakan, dan Sekolah Menengah Kejuruan (SMK) \ndengan 53% kerusakan, serta Sekolah Luar Biasa (SLB) bagi anak-\nanak berkebutuhan khusus yang justru mengalami kerusakan ruang \nkelas hingga 64%. Ketidakmampuan pemerintah dalam menyelesaikan \nrehabilitasi dan renovasi bangunan sekolah ini dengan dalih kes ulitan \nakses transportasi dan kondisi geografis merupakan argumen \napologetik yang tidak dapat diterima secara hukum, karena angga ran \npendidikan yang dialokasikan seharusnya mampu melampaui \nhambatan fisik tersebut jika dikelola dengan ketat. Kegagalan \ninfrastruktur ini membuktikan bahwa dana pendidikan yang melimp ah \ntidak pernah diprioritaskan untuk pemenuhan standar pelayanan \nminimal sekolah, melainkan habis menguap dalam labirin birokras i \nyang koruptif dan tidak akuntabel. Ketika para Pemohon dipaksa untuk \nbelajar di bawah atap sekolah yang nyaris runtuh dan dinding ya ng \nretak tanpa jaminan keselamatan, maka hak konstitusional mereka atas \nperlindungan diri, keluarga, kehormatan, martabat, dan harta be nda \nsebagaimana diatur dalam Pasal 28G ayat (1) UUD NRI 1945 telah \ndiabaikan secara sengaja oleh negara akibat berlakunya norma \n\n \n39 \nundang-undang yang melonggarkan tanggung jawab pembiayaan \nsarana prasarana ini.",
+      "start_line": 1361,
+      "end_line": 1397
+    },
+    {
+      "heading": "10. Bahwa Terdapat Kebocoran Anggaran Secara Sistemik dan Suburnya",
+      "slug": "10-bahwa-terdapat-kebocoran-anggaran-secara-sistemik-dan-suburnya",
+      "text": "Praktik Korupsi Sektor Pendidikan dari Tingkat Pusat Hingga Tin gkat \nSekolah Akibat Lemahnya Fungsi Pengawasan Hukum dan \nAkuntabilitas Publik",
+      "start_line": 1399,
+      "end_line": 1401
+    },
+    {
+      "heading": "11. Bahwa longgarnya rumusan norma mengenai tanggung jawab",
+      "slug": "11-bahwa-longgarnya-rumusan-norma-mengenai-tanggung-jawab",
+      "text": "pembiayaan pendidikan di dalam UU Sisdiknas telah menjadikan sektor \npendidikan sebagai wilayah yang paling rentan terhadap tindak pidana \nkorupsi, yang secara langsung merampas hak-hak finansial yang \nseharusnya dialokasikan untuk membebaskan biaya pendidikan para  \nPemohon. Laporan resmi dari Indonesia Corruption Watch (ICW) \nmencatat statistik yang mengerikan mengenai realitas korupsi in i, di \nmana terdapat sedikitnya 425 kasus korupsi yang berkaitan langs ung \ndengan anggaran pendidikan dalam kurun waktu satu dekade, dengan \nakumulasi kerugian keuangan negara mencapai angka 1,3 triliun rupiah \ndan nilai suap sebesar 55 miliar rupiah. Penegasan dari Wakil K etua \nKomisi Pemberantasan Korupsi (KPK) yang menyebut sektor \npendidikan sebagai lahan yang paling empuk bagi perilaku korupt if \ndikarenakan besarnya kucuran dana tanpa diimbangi oleh sistem \ninterdisipliner pengawasan yang ketat, membongkar kepalsuan tat a \nkelola keuangan pendidikan nasional. Praktik korupsi anggaran ini tidak \nhanya terjadi di koridor kementerian yang megah, melainkan tela h \nmerangsek turun ke tingkat birokrasi daerah hingga ke level sek olah \nmelalui pemotongan liar dana Bantuan Operasional Sekolah (BOS) \noleh oknum dinas pendidikan maupun manipulasi pengadaan barang \noleh komite sekolah dan kepala sekolah. Keberadaan Pasal 46 ayat (1) \nUU Sisdiknas yang membagi tanggung jawab pendanaan secara kabur \nantara pemerintah dan masyarakat telah memberikan legitimasi \nterselubung bagi oknum sekolah untuk terus melakukan pungutan l iar \ndengan dalih menutupi kekurangan dana BOS yang telah dikorupsi di \ntengah jalan. Benturan antara kenyataan suburnya korupsi ini de ngan \nprinsip pengelolaan dana pendidikan yang berasaskan keadilan, \nefisiensi, transparansi, dan akuntabilitas publik sebagaimana d iatur \n\n \n40 \ndalam Pasal 48 ayat (1) UU Sisdiknas menunjukkan adanya \nkemunafikan hukum yang luar biasa, di mana para Pemohon dijadikan \ntameng finansial untuk membiayai gaya hidup koruptif para oknum  \nbirokrat pendidikan, sehingga penghapusan norma yang membolehkan \npungutan menjadi imperatif demi menutup celah korupsi struktura l \ntersebut.",
+      "start_line": 1403,
+      "end_line": 1438
+    },
+    {
+      "heading": "12. Bahwa Berdasarkan Doktrin Negara Kesejahteraan (Welfare Sta te)",
+      "slug": "12-bahwa-berdasarkan-doktrin-negara-kesejahteraan-welfare-sta-te",
+      "text": "Serta Mandat Pasal 34 ayat (1) UUD NRI 1945 Negara Wajib \nMelakukan Intervensi Aktif Untuk Mengeliminasi \"Resource Barrie rs\" \nMelalui Kebijakan Pembiayaan Pendidikan yang Holistik",
+      "start_line": 1440,
+      "end_line": 1442
+    },
+    {
+      "heading": "13. Bahwa secara filosofis yuridis, keberadaan Pasal 12 ayat (2 ) huruf b",
+      "slug": "13-bahwa-secara-filosofis-yuridis-keberadaan-pasal-12-ayat-2-huruf-b",
+      "text": "dan Pasal 46 ayat (1) UU Sisdiknas sangat bertentangan dengan \nDoktrin Negara Kesejahteraan (Welfare State atau Verzorgingssta at) \nyang dianut secara resmi oleh Negara Kesatuan Republik Indonesi a \nsebagaimana tertuang dalam nilai-nilai Pancasila dan Pembukaan \nUUD NRI 1945. Doktrin ini menuntut negara untuk menanggalkan \nperan pasif sebagai penjaga malam (Nachtwächterstaat) dan bertindak \nsecara agresif serta intervensif dalam menjamin kesejahteraan s osial, \ntermasuk di dalamnya adalah pemenuhan hak atas pendidikan tanpa  \nmembiarkan mekanisme pasar atau kemampuan ekonomi individu \nmendikte akses tersebut. Benturan fundamental terjadi ketika Pasal 34 \nayat (1) UUD NRI 1945 secara imperatif memerintahkan bahwa \"fak ir \nmiskin dan anak-anak yang terlantar dipelihara oleh negara,\" ya ng \nartinya pemeliharaan tersebut harus mencakup penyediaan akses \npendidikan yang bebas dari segala jenis biaya tersembunyi ( hidden \ncosts). Namun, undang-undang yang diuji justru membiarkan anak-\nanak dari keluarga miskin terjebak dalam lingkaran kemiskinan \nintergenerasional karena mereka tidak mampu membayar biaya \noperasional non-spp seperti biaya transportasi, seragam, buku, dan \npemeliharaan gedung yang dilegalkan oleh Pasal 46 ayat (1) UU \nSisdiknas. Kegagalan pemenuhan hak ini diperkuat oleh data \nsosiologis yang menunjukkan bahwa sekitar 19,2% anak usia 16 \nhingga 18 tahun di Indonesia terpaksa keluar dari sistem sekola h, di \nmana 76% dari keluarga mereka secara tegas menyatakan bahwa \n\n \n41 \nfaktor kesulitan ekonomi murni menjadi penyebab utama kegagalan  \nanak-anak mereka melanjutkan pendidikan. Negara tidak boleh \nberlindung di balik retorika program sukarela atau bantuan sosial yang \nsifatnya tidak mengikat, melainkan harus menginstitusikan hak b ebas \nbiaya pendidikan ini sebagai hak hukum yang dapat dituntut di m uka \npengadilan (justiciable right), sehingga pembongkaran terhadap norma \nundang-undang yang membolehkan pembebanan biaya ini menjadi \nwajib demi menegakkan supremasi hukum yang berpihak pada kaum \nmarjinal.",
+      "start_line": 1444,
+      "end_line": 1478
+    },
+    {
+      "heading": "14. Bahwa Putusan Mahkamah Konstitusi Terdahulu Termasuk Putusa n",
+      "slug": "14-bahwa-putusan-mahkamah-konstitusi-terdahulu-termasuk-putusa-n",
+      "text": "Nomor 3/PUU-XXII/2024 Telah Memperluas Tafsir Konstitusional \nMengenai Kewajiban Absolut Negara Membiayai Pendidikan Dasar \nBaik di Sekolah Negeri Maupun Swasta Tanpa Pungutan Biaya",
+      "start_line": 1480,
+      "end_line": 1482
+    },
+    {
+      "heading": "15. Bahwa Mahkamah Konstitusi sebagai pengawal konstitusi (guardian of",
+      "slug": "15-bahwa-mahkamah-konstitusi-sebagai-pengawal-konstitusi-guardian-of",
+      "text": "the constitution ) dalam yurisprudensi terbarunya, khususnya melalui \nPutusan Nomor 3/PUU-XXII/2024, te lah membuat lompatan hukum \nyang sangat revolusioner dengan memperluas tafsir kewajiban \npembiayaan pendidikan oleh negara yang mencakup lembaga \npendidikan swasta atau yang dikelola oleh masyarakat. Mahkamah \nmenegaskan bahwa kewajiban konstitusional negara yang termaktub  \ndalam Pasal 31 ayat (2) UUD NRI 1945 bersifat melekat pada obje k \nwarga negaranya, bukan pada status kepemilikan institusi sekolahnya, \nsehingga negara wajib mendanai pelaksanaan pendidikan dasar \nsembilan tahun tanpa memungut biaya baik di sekolah negeri maupun \nswasta. Namun, realitas normatif dalam Pasal 46 ayat (1) UU Sisdiknas \nmasih mempertahankan dikotomi yang usang dan membiarkan \nsekolah-sekolah swasta menarik biaya operasional yang sangat ti nggi \ndari masyarakat dengan alasan ketiadaan subsidi penuh dari \npemerintah. Benturan antara perluasan tafsir konstitusional ole h \nMahkamah Konstitusi dan ketegaran norma undang-undang yang kolot \nini menciptakan situasi kekosongan hukum yang merugikan para \nPemohon yang kebetulan menempuh pendidikan di lembaga swasta \nkarena keterbatasan daya tampung sekolah negeri. Hambatan fiska l \ndan regionalitas tidak boleh dijadikan alasan pembenar oleh \n\n \n42 \npemerintah untuk menunda eksekusi putusan Mahkamah a quo , \nkarena putusan Mahkamah Konstitusi bersifat final dan mengikat sejak \ndiucapkan. Dengan tetap berlakunya norma yang diuji, pemerintah  \nsecara terang-terangan telah melakukan pembangkangan terhadap \nkonstitusi ( constitutional disobedience ) dengan membiarkan praktik \npemungutan biaya pendidikan terus berjalan di lapangan, sehingg a \nMahkamah harus menyatakan Pasal 46 ayat (1) UU Sisdiknas \ninkonstitusional sepanjang tidak dimaknai bahwa pembiayaan \npendidikan dasar wajib ditanggung sepenuhnya oleh negara tanpa \nmembedakan status negeri atau swasta.",
+      "start_line": 1484,
+      "end_line": 1516
+    },
+    {
+      "heading": "16. Bahwa Implementasi Kebijakan Program Sekolah Rakyat Pada Er a",
+      "slug": "16-bahwa-implementasi-kebijakan-program-sekolah-rakyat-pada-er-a",
+      "text": "Pemerintahan Presiden Prabowo Subianto dengan Lonjakan Anggaran \nyang Masif Membuktikan Bahwa Negara Memiliki Kemampuan Fiskal \nUntuk Menghapuskan Hambatan Sumber Daya Secara Total",
+      "start_line": 1518,
+      "end_line": 1520
+    },
+    {
+      "heading": "17. Bahwa dinamika hukum tata negara kontemporer di tahun 2026 ini, di",
+      "slug": "17-bahwa-dinamika-hukum-tata-negara-kontemporer-di-tahun-2026-ini-di",
+      "text": "bawah kepemimpinan Presiden Prabowo Subianto, memberikan bukti \nempiris yang tidak terbantahkan bahwa negara sebenarnya memilik i \nkapasitas fiskal yang sangat memadai untuk melakukan pembiayaan  \npendidikan secara holistik dan membebaskan biaya secara total \nmelalui peluncuran Program Sekolah Rakyat. Berdasarkan Nota \nKeuangan dan Dokumen Perancangan APBN Tahun Anggaran 2026, \nterjadi lonjakan alokasi anggaran yang sangat dramatis sebesar \n255,71% khusus untuk Program Sekolah Rakyat, yang meroket tajam  \ndari angka 7 triliun rupiah di tahun 2025 menjadi 24,9 triliun rupiah pada \ntahun anggaran berikutnya, di dalam total pagu anggaran pendidi kan \nnasional yang menyentuh angka fantastis sebesar 757,8 triliun r upiah. \nKeberhasilan ekspansi Program Sekolah Rakyat yang mengadopsi \nmodel sekolah berasrama ( boarding school ) dengan menyediakan \nfasilitas tempat tinggal, seragam, buku, hingga pemenuhan nutri si \nmakanan bergizi secara gratis bagi anak-anak dari keluarga ultr a-\nmiskin dari tingkat SD, SMP, hingga SMA membuktikan bahwa \n\"hambatan sumber daya\" ( resource barriers ) dapat dihancurkan jika \nada kemauan politik ( political will ) yang dituangkan dalam kebijakan \nanggaran. Namun, keberadaan program yang sangat progresif ini justru \n\n \n43 \nmembentur dinding ketidakpastian hukum karena ia hanya didasarkan \npada instrumen hukum yang rapuh berupa Instruksi Presiden Nomor 8 \nTahun 2025 dan kebijakan diskresioner eksekutif yang rentan dih apus \nketika terjadi suksesi kepemimpinan di masa depan. Kegagalan \nundang-undang Sisdiknas dalam menyerap model Sekolah Rakyat ini  \nke dalam norma hukum yang permanen menyebabkan hak para \nPemohon atas fasilitas pendidikan gratis yang paripurna ini ber ada \ndalam bahaya likuidasi politik, sehingga pengujian terhadap Pas al 12 \nayat (2) huruf b dan Pasal 46 ayat (1) UU Sisdiknas menjadi san gat \nkrusial untuk memaksa negara mentransformasikan program \nkesejahteraan opsional ini menjadi kewajiban hukum yang mengika t \ndan permanen di dalam batang tubuh undang-undang.",
+      "start_line": 1522,
+      "end_line": 1555
+    },
+    {
+      "heading": "18. Bahwa Ketiadaan Institasionalisasi Hukum yang Permanen Terh adap",
+      "slug": "18-bahwa-ketiadaan-institasionalisasi-hukum-yang-permanen-terh-adap",
+      "text": "Model Pemenuhan Hak Pendidikan Gratis Menjadikan Hak \nKonstitusional Warga Negara Rentan Terdistorsi Menjadi Komodita s \nPolitik Transaksional yang Mengancam Keberlanjutan Pembangunan \nManusia",
+      "start_line": 1557,
+      "end_line": 1560
+    },
+    {
+      "heading": "19. Bahwa alasan mendasar para Pemohon mengajukan permohonan in i",
+      "slug": "19-bahwa-alasan-mendasar-para-pemohon-mengajukan-permohonan-in-i",
+      "text": "adalah untuk mencegah hak atas pendidikan dijadikan sebagai \ninstrumen komodifikasi politik transaksional oleh pemegang kekuasaan \neksekutif akibat tiadanya aturan hukum yang kokoh di tingkat un dang-\nundang yang mewajibkan pembebanan biaya pendidikan dihapuskan \nsecara absolut. Sepanjang Pasal 12 ayat (2) huruf b dan Pasal 46 ayat \n(1) UU Sisdiknas masih memberikan celah hukum bagi penarikan biaya \ndari peserta didik, maka jaminan pendidikan gratis akan selalu \nbermutasi menjadi janji-janji kampanye politik yang sifatnya sementara \ndan tidak memiliki kepastian hukum yang berkelanjutan. Pembentu ran \nantara kepentingan jangka pendek elite politik dan kepentingan \nstrategis pembangunan jangka panjang sumber daya manusia \nIndonesia di era digital ini memperlihatkan betapa berbahayanya  \nmembiarkan pemenuhan hak asasi manusia bergantung pada \nkebaikan hati seorang presiden atau kepala daerah yang sedang \nmenjabat. Teori Human Capital yang dikembangkan oleh Theodore \nSchultz secara tegas menyatakan bahwa investasi pendidikan haru s \n\n \n44 \nbersifat konstan, prediktif, dan terlembaga secara kuat karena ia \nmerupakan determinan utama dari produktivitas ekonomi negara dalam \nmemutus mata rantai kemiskinan struktural. Kegagalan perlindung an \nhukum dalam undang-undang a quo  mengakibatkan tidak adanya \nstandardisasi akreditasi dan kendali mutu yang merata di seluru h \ndaerah terpencil di Indonesia, yang pada akhirnya melahirkan \ndiskriminasi geografis di mana anak-anak di pedalaman Papua, \nMaluku, dan Sulawesi tidak mendapatkan kualitas pendidikan yang  \nsetara dengan anak-anak di pulau Jawa. Oleh karena itu, untuk \nmengakhiri era simbolisme konstitusional di mana hak pendidikan  \nhanya indah di dalam teks UUD 1945 namun pahit dalam realitas \nkehidupan para Pemohon, Mahkamah Konstitusi harus mengambil \ntindakan hukum yang tegas dengan menyatakan pasal-pasal yang diuji \nbertentangan dengan UUD NRI 1945 dan tidak memiliki kekuatan \nhukum mengikat. \nIV. PETITUM \nBahwa dari seluruh dalil-dalil yang diuraikan di atas dan bukti-bukti terlampir, dengan \nini  Para Pemohon memohon kepada Yang Mulia Majelis Hakim Mahkamah \nKonstitusi untuk kiranya memberikan putusan sebagai berikut:",
+      "start_line": 1562,
+      "end_line": 1599
+    },
+    {
+      "heading": "2. Menyatakan Pasal 12 ayat (2) huruf b Undang-Undang Nomor 20 Tahun 2003",
+      "slug": "2-menyatakan-pasal-12-ayat-2-huruf-b-undang-undang-nomor-20-tahun-2003",
+      "text": "tentang Sistem Pendidikan Nasional bertentangan dengan Undang-U ndang \nDasar Negara Republik Indonesia Tahun 1945 sepanjang tidak dimaknai bahwa \nKewajiban peserta didik untuk ikut menanggung biaya penyelengga raan \npendidikan telah dipenuhi melalui pembayaran biaya pendidikan yang ditetapkan \nsesuai ketentuan peraturan perundang-undangan dan tidak dapat d ijadikan \ndasar pembebanan biaya penyelenggaraan pendidikan lainnya yang bersifat \nwajib kepada peserta didik, kecuali yang secara tegas diperinta hkan oleh \nundang-undang;",
+      "start_line": 1602,
+      "end_line": 1609
+    },
+    {
+      "heading": "3. Menyatakan Pasal 46 ayat (1) Undang-Undang Nomor 20 Tahun 20 03 tentang",
+      "slug": "3-menyatakan-pasal-46-ayat-1-undang-undang-nomor-20-tahun-20-03-tentang",
+      "text": "Sistem Pendidikan Nasional bertentangan dengan Undang-Undang Da sar \nNegara Republik Indonesia Tahun 1945 sepanjang tidak dimaknai b ahwa \nTanggung jawab bersama antara Pemerintah, Pemerintah Daerah, da n \n\n \n45 \nmasyarakat dalam pendanaan pendidikan harus dilaksanakan dengan  \npembagian tanggung jawab yang jelas, sehingga masyarakat tidak dapat \ndibebani biaya penyelenggaraan pendidikan yang menjadi kewajiba n \nPemerintah dan Pemerintah Daerah berdasarkan ketentuan peratura n \nperundang-undangan;",
+      "start_line": 1611,
+      "end_line": 1621
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik Indonesia",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik-indonesia",
+      "text": "sebagaimana mestinya.  \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain mohon putusan \nyang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon  telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 1 2 ,  \nsebagai berikut:",
+      "start_line": 1623,
+      "end_line": 1628
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang RI Nomor 20 Tahun 2003 Tentang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-ri-nomor-20-tahun-2003-tentang",
+      "text": "Sistem Pendidikan Nasional;",
+      "start_line": 1630,
+      "end_line": 1630
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang – Undang Dasar Negara Republik I ndonesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-i-ndonesia",
+      "text": "Tahun 1945;",
+      "start_line": 1632,
+      "end_line": 1632
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Kartu Tanda Mahasiswa(KTM) Pemohon I s. d",
+      "slug": "7-bukti-p-7-fotokopi-kartu-tanda-mahasiswa-ktm-pemohon-i-s-d",
+      "text": "Pemohon V;",
+      "start_line": 1638,
+      "end_line": 1638
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Tangkapan layar (screenshot) laman pemb ayaran",
+      "slug": "8-bukti-p-8-fotokopi-tangkapan-layar-screenshot-laman-pemb-ayaran",
+      "text": "mahasiswa Universitas Terbuka atas nama Pemohon I yang \nmenunjukkan adanya berbagai tagihan biaya pendidikan \nselain Uang Kuliah Tunggal (UKT), antara lain biaya Tutorial \nTatap Muka (TTM) Atpem dan biaya Perubahan UTM ke UO, \nyang telah dibayarkan oleh Pemohon I dalam proses \npenyelenggaraan pendidikan;  \n\n \n46",
+      "start_line": 1640,
+      "end_line": 1648
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Kartu Tanda Peserta Ujian Online (KTPUO )",
+      "slug": "9-bukti-p-9-fotokopi-kartu-tanda-peserta-ujian-online-ktpuo",
+      "text": "Universitas Terbuka Semester 2025/2026 Genap yang \nmemuat ketentuan bahwa mahasiswa yang mengajukan \nperpindahan jadwal Ujian Online (UO) setelah tanggal 9 Juni \n2026 dikenakan biaya sebesar Rp150.000,00 (seratus lima \npuluh ribu rupiah);",
+      "start_line": 1650,
+      "end_line": 1654
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Tarif Layanan Akademik yang menetapka n biaya",
+      "slug": "10-bukti-p-10-fotokopi-tarif-layanan-akademik-yang-menetapka-n-biaya",
+      "text": "wisuda bagi mahasiswa sebagai syarat memperoleh layanan \nakademik tertentu dalam tahap akhir pendidikan;",
+      "start_line": 1656,
+      "end_line": 1657
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Bukti transfer, kuitansi, atau pembay aran SPP, uang",
+      "slug": "11-bukti-p-11-fotokopi-bukti-transfer-kuitansi-atau-pembay-aran-spp-uang",
+      "text": "sekolah, atau kebutuhan pendidikan yang dibayarkan oleh \nPemohon II;",
+      "start_line": 1659,
+      "end_line": 1660
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Laporan pendapatan ( earning report) akun affiliate",
+      "slug": "12-bukti-p-12-fotokopi-laporan-pendapatan-earning-report-akun-affiliate",
+      "text": "milik Pemohon II. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1662,
+      "end_line": 1665
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \n\n \n47 \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang-undang \nterhadap UUD NRI Tahun 1945.  \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu  norma Pasal 12 ayat (2) huruf b dan \nPasal 46 ayat (1) Undang-Undang Nomor 20 Tahun 2003 tentang Sis tem \nPendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, \nTambahan Lembaran Negara Republik Indonesia Nomor 4301, selanjutnya disebut \nUU 20/2003) maka Mahkamah berwenang mengadili permohonan a quo.  \n[3.3]  Menimbang bahwa meskipun berwe nang untuk mengadili permohonan \nPemohon, namun demikian sebelum mempertimbangkan lebih lanjut m engenai \nkedudukan hukum dan pokok permohonan, Mahkamah mempertimbangkan hal-hal \nsebagai berikut.  \n[3.3.1]  Bahwa Mahkamah telah memeriksa permohonan a quo  dalam sidang \npemeriksaan pendahuluan dengan agenda mendengarkan pokok-pokok \npermohonan, memeriksa kelengkapan, dan kejelasan materi permoho nan pada \ntanggal 24 Juni 2026. Berdasarkan ketentuan Pasal 39 UU MK dan Pasal 36 ayat \n(3) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 tentang Ta ta Beracara \nDalam Perkara Pengujian Undang-Undang (disebut PMK 7/2025), Mah kamah \nmemberikan nasihat kepada para Pemohon untuk memperbaiki substa nsi \nkedudukan hukum, alasan-alasan permohonan (posita) khusus pertentangan antara \nnorma yang dimohonkan pengujian dengan dasar pengujian dalam UUD NRI Tahun \n1945, dan memperjelas hal-hal yang dimohonkan untuk diputus (pe titum) agar \nsesuai dengan PMK 7/2025 [vide Risalah Sidang, tanggal 24 Juni 2026, hlm. 17-30]. \nTerhadap nasihat yang disampaikan Mahkamah, para Pemohon diberi kan \nkesempatan memperbaiki permohonan paling lama 14 (empat belas) hari, yaitu \nhingga paling lama tanggal 7 Juli 2026, pukul 12.00 WIB. Berkenaan dengan batas \nwaktu dimaksud, para Pemohon telah menyampaikan perbaikan permohonan yang \nditerima Mahkamah pada tanggal 7 Juli 2026. Selanjutnya, pada tanggal 7 Juli 2026, \nMahkamah menyelenggarakan sidang pendahuluan dengan agenda meme riksa \nperbaikan permohonan dan pengesahan alat bukti. \n[3.3.2]  Bahwa perihal uraian sebagaimana dikemukakan pada Sub- \nparagraf [3.3.1] di atas, Mahkamah akan menilai syarat formil suatu permohonan \n\n \n48 \nterutama berkaitan dengan uraian yang jelas ihwal pengujian und ang-undang \nterhadap UUD NRI Tahun 1945, berdasarkan Pasal 31 ayat (1) UU MK serta Pasal \n10 ayat (3) dan Pasal 36 ayat (1) PMK 7/2025 sebagai berikut: \nPasal 31 ayat (1) UU MK  \n(1) Permohonan sekurang-kurangnya harus memuat:  \na. nama dan alamat pemohon;  \nb. uraian mengenai perihal yang menjadi dasar permohonan \nsebagaimana dimaksud dalam Pasal 30; dan",
+      "start_line": 1667,
+      "end_line": 1724
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025  \nPermohonan sebagaimana dimaksud pada ayat (1), sekurang-kurangn ya \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antara lain:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 1726,
+      "end_line": 1730
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025  \nDalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam Pasal 35 \nayat (1) huruf a, Mahkamah memeriksa identitas Pemohon dengan \nkelengkapan dan kejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 1733,
+      "end_line": 1738
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum)",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "[3.3.3] Bahwa terhadap keterpenuhan persyaratan formil yang berkaitan dengan \nsistematika permohonan, setelah Mahkamah mencermati dengan saks ama \npermohonan para Pemohon, in casu sistematika Permohonan a quo, pada dasarnya \nsecara formil telah disusun sesuai dengan format permohonan pen gujian undang-\nundang sebagaimana diatur dalam Pasal 31 ayat (1) UU MK dan Pas al 10 ayat (3)  \nPMK 7/2025, yaitu telah menguraikan perihal kewenangan Mahkamah  (hlm. 2-4), \nkedudukan hukum pemohon (vide Permohonan para Pemohon hlm. 4-10 ), dan \nalasan permohonan (vide Permohonan para Pemohon hlm. 10-41). Ba hkan, \nsebelum menguraikan ketiga hal tersebut, para Pemohon pun telah  menguraikan \nperihal identitas para Pemohon (vide Permohonan para Pemohon hlm. 1-2). Selain \nitu, sebagai bagian dari sistematika yang harus dipenuhi dalam suatu permohonan, \npara Pemohon pun telah memuat petitum, yaitu hal-hal yang dimoh onkan kepada \nMahkamah (vide Permohonan para Pemohon hlm. 42). Namun demikian, sekalipun \ntelah disusun dan memuat sistematika permohonan secara benar, penilaian perihal \nketerpenuhan syarat formil suatu permohonan tidak hanya sampai pada sistematika \n\n \n49 \nan sich. Dalam hal ini, Mahkamah juga akan menilai keterpenuhan isi/substansi dari \nsistematika dimaksud. \n[3.3.4]   Bahwa berdasarkan ketentuan pada Sub-paragraf [3.3.3] tersebut di atas \ndan setelah membaca secara saksama permohonan a quo , Mahkamah \nmendapatkan fakta petitum permohonan angka 2 dan angka 3 seleng kapnya \nsebagai berikut:",
+      "start_line": 1741,
+      "end_line": 1764
+    },
+    {
+      "heading": "2. Menyatakan Pasal 12 ayat (2) huruf b Undang-Undang Nomor 20",
+      "slug": "2-menyatakan-pasal-12-ayat-2-huruf-b-undang-undang-nomor-20",
+      "text": "Tahun 2003 tentang Sistem Pendidikan Nasional bertentangan \ndengan Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945 sepanjang tidak dimaknai bahwa Kewajiban peserta didik untuk \nikut menanggung biaya penyelenggaraan pendidikan telah dipenuhi  \nmelalui pembayaran biaya pendidikan yang ditetapkan sesuai \nketentuan peraturan perundang-undangan dan tidak dapat dijadika n \ndasar pembebanan biaya penyelenggaraan pendidikan lainnya yang \nbersifat wajib kepada peserta didik, kecuali yang secara tegas \ndiperintahkan oleh undang-undang;",
+      "start_line": 1767,
+      "end_line": 1775
+    },
+    {
+      "heading": "3. Menyatakan Pasal 46 ayat (1) Undang-Undang Nomor 20 Tahun",
+      "slug": "3-menyatakan-pasal-46-ayat-1-undang-undang-nomor-20-tahun",
+      "text": "2003 tentang Sistem Pendidikan Nasional bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 \nsepanjang tidak dimaknai bahwa Tanggung jawab bersama antara \nPemerintah, Pemerintah Daerah, dan masyarakat dalam pendanaan \npendidikan harus dilaksanakan dengan pembagian tanggung jawab \nyang jelas, sehingga masyarakat tidak dapat dibebani biaya \npenyelenggaraan pendidikan yang menjadi kewajiban Pemerintah \ndan Pemerintah Daerah berdasarkan ketentuan peraturan \nperundang-undangan;  \n Berkenaan dengan rumusan petitum dimaksud, Pasal 51A ayat (5) h uruf \nb dan huruf c UU MK menyatakan: \n “Dalam hal permohonan pengujian berupa permohonan pengujian materiil, \nhal yang dimohonkan untuk diputus dalam Permohonan bahwa hal ya ng \ndimohonkan untuk diputus dalam Permohonan pengujian sebagaimana  \ndimaksudkan dalam Pasal 31 ayat (1) huruf c meliputi: \na. … \nb. menyatakan bahwa materi muatan ayat, pasal, dan/atau bagian dari \nundang-undang dimaksud bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945; dan",
+      "start_line": 1777,
+      "end_line": 1795
+    },
+    {
+      "heading": "c. menyatakan bahwa materi muatan ayat, pasal, dan/atau bagian dari",
+      "slug": "c-menyatakan-bahwa-materi-muatan-ayat-pasal-dan-atau-bagian-dari",
+      "text": "undang-undang dimaksud tidak mempunyai kekuatan hukum mengikat. \n Setelah membaca rumusan petitum angka 2 dan angka 3 tersebut d i atas \ndikaitkan dengan Pasal 51A ayat (5) huruf c UU MK, telah ternya ta para Pemohon \ntidak mencantumkan frasa “tidak mempunyai kekuatan hukum mengik at”. \nBerkenaan dengan rumusan petitum demikian, menurut Mahkamah, ru musan \n\n \n50 \ntersebut tidak sesuai dengan kelaziman rumusan petitum dalam pengujian undang-\nundang, karena meskipun para Pemohon telah memohon agar norma y ang \ndimohonkan pengujian dinyatakan bertentangan dengan UUD NRI Tah un 1945, \nnamun para Pemohon tidak memohon agar norma yang sama dinyataka n tidak \nmempunyai kekuatan hukum mengikat. Artinya, petitum para Pemoho n hanya \nmemohon adanya pernyataan mengenai pertentangan norma dengan UU D NRI \nTahun 1945, tanpa diikuti dengan akibat hukum dari pernyataan inkonstitusionalitas \nnorma dimaksud. Padahal, berdasarkan Pasal 24C ayat (1) UUD NRI  Tahun 1945 \ndan Pasal 10 ayat (1) UU MK, pada pokoknya menyatakan bahwa Mah kamah \nberwenang mengadili pada tingkat pertama dan terakhir yang putu sannya bersifat \nfinal. Sifat final tersebut tidak hanya mengandung makna bahwa putusan Mahkamah \ntidak dapat ditempuh upaya hukum lebih lanjut, tetapi juga meng andung \nkonsekuensi bahwa putusan tersebut mempunyai kekuatan hukum men gikat (final \nand binding ). Oleh karena itu, dalam konteks pengujian undang-undang, \npermohonan yang diajukan kepada Mahkamah tidak cukup hanya memo hon agar \nsuatu norma dinyatakan bertentangan dengan UUD NRI Tahun 1945, melainkan \njuga harus memohon agar norma tersebut dinyatakan tidak mempuny ai kekuatan \nhukum mengikat sebagai konsekuensi yuridis dari dikabulkannya s uatu \npermohonan. Frasa \"tidak mempunyai kekuatan hukum mengikat\" mer upakan \nbagian yang tidak dapat dipisahkan dari petitum pengujian undan g-undang karena \nfrasa tersebut menegaskan akibat hukum yang dimohonkan oleh par a Pemohon \nterhadap norma yang dimohonkan pengujian.  \n Pada hakikatnya, tujuan para Pemohon mengajukan permohonan \npengujian undang-undang kepada Mahkamah adalah untuk memohon ag ar norma \nyang dianggap bertentangan dengan Undang-Undang Dasar Negara Re publik \nIndonesia Tahun 1945 dinyatakan tidak lagi berlaku atau diberla kukan sesuai \ndengan makna konstitusional sebagaimana dimohonkan. Oleh karena  itu, petitum \ndalam permohonan pengujian undang-undang tidak cukup hanya memo hon agar \nnorma yang diuji dinyatakan \"bertentangan dengan UUD NRI Tahun 1945\", tetapi \njuga harus memohon agar norma tersebut dinyatakan \"tidak mempun yai kekuatan \nhukum mengikat\" sebagai konsekuensi yuridis dari pernyataan ink onstitusionalitas \ndimaksud. Kedua frasa tersebut merupakan satu kesatuan yang tid ak terpisahkan \ndalam petitum permohonan karena mencerminkan tujuan hukum yang hendak \ndicapai oleh para Pemohon, yaitu tidak hanya memperoleh pernyat aan mengenai \n\n \n51 \ninkonstitusionalitas suatu norma, tetapi juga menegaskan agar n orma yang \ndimohonkan pengujian tersebut tidak berlaku lagi. Oleh karena i tu, Kedua frasa ini \nmerupakan “jantung” dari permohonan yang mencerminkan tujuan ut ama \npermohonan pengujian undang-undang, yakni memperoleh putusan ya ng tidak \nhanya menyatakan adanya pertent angan norma dengan UUD NRI Tahun  1 9 4 5 ,  \ntetapi juga menimbulkan akibat hukum berupa hilangnya daya ikat  norma yang \ndimohonkan pengujian. Oleh karena itu, rumusan petitum permohon an a quo tidak \nsebagaimana kelaziman perumusan petitum yang dimaksudkan dalam Pasal 51A \nayat (5) huruf c UU MK. \n[3.3.5]   Bahwa selain fakta hukum tersebut di atas, berkenaan dengan uraian \nalasan-alasan permohonan (posita) pada pokoknya menjelaskan adanya persoalan \nterkait pembebanan biaya pendidikan lainnya yang dibebankan kep ada peserta \ndidik selain biaya penyelenggaraan pedidikan berupa uang kuliah  tunggal (UKT). \nSetelah membaca posita yang dikemukakan oleh para Pemohon terse but dan \ndikaitkan dengan rumusan petitum pada angka 2 permohonan a quo, para Pemohon \nbermaksud memberikan batasan normatif terkait kewajiban peserta  didik dalam \nmenanggung biaya penyelenggaraan pendidikan yang diatur dalam P asal 12 ayat \n(2) huruf b UU 20/2003 dengan menambahkan frasa “... telah dipe nuhi melalui \npembayaran biaya pendidikan yang ditetapkan sesuai dengan ketentuan peraturan \nperundang-undangan dan tidak dapat dijadikan dasar pembebanan b iaya \npenyelenggaraan pendidikan lainnya yang bersifat wajib kepada p eserta didik, \nkecuali yang secara tegas diperintahkan oleh undang-undang”. Ak an tetapi, pada \nrumusan yang dimohonkan pada pasal a quo, para Pemohon justru menghilangkan \nfrasa “... kecuali bagi peserta didik yang dibebaskan dari kewajiban tersebut sesuai \ndengan peraturan perundang-undangan” yang menimbulkan penafsira n bahwa \nberkenaan dengan ketentuan norma Pasal a quo, hanya mengatur mengenai subjek \nhukum terhadap peserta didik yang diwajibkan menanggung biaya penyelenggaraan \npendidikan saja, sehingga tidak lagi mengatur berkenaan dengan pengecualian \nkewajiban bagi peserta didik tertentu terkait pembiayaan penyel enggaraan \npendidikan. Dalam hal ini, Mahkamah tidak memperoleh uraian dan kejelasan dalam \nalasan permohonan a quo, mengenai maksud sesungguhnya dari petitum angka 2 \npermohon para Pemohon. Terlebih, ketidakjelasan maksud petitum para Pemohon \ntersebut semakin bertambah jika dikaitkan dengan pemaknaan yang diinginkan oleh \npara Pemohon berkenaan dengan Pasal 46 ayat (1) UU 20/2003 yang  k e m b a l i  \n\n \n52 \nmemohon batasan normatif berupa “pembagian tanggung jawab yang jelas” namun \ndalam petitum angka 2 justru menghilangkan salah satu esensi da lam pembagian \ntanggung jawab yakni berupa adanya “pengecualian kewajiban pemb ayaran biaya \npendidikan terhadap peserta didik tertentu”. Hal ini semakin me nunjukkan adanya \nketidakjelasan para Pemohon dalam merumuskan petitum.  \n Berdasarkan seluruh uraian pertimbangan hukum tersebut di atas , oleh \nkarena rumusan petitum yang tidak lazim sebagaimana diatur dalam Pasal 51A ayat \n(5) huruf c UU MK, Pasal 10 ayat (3), Pasal 36 ayat (1) PMK 7/2 025 dan \nketidakjelasan para Pemohon dalam merumuskan petitum permohonan  a quo , \nsehingga tidak terdapat keraguan bagi Mahkamah untuk menyatakan  permohonan \npara Pemohon tidak jelas atau kabur (obscuur). \n[3.4]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, meskipun Mahkamah berwenang mengadili permoho nan \nPemohon, namun oleh karena permohonan para Pemohon tidak jelas atau kabur \n(obscuur) maka Mahkamah tidak mempertimbangkan lebih lanjut permohonan para \nPemohon. \n[3.5]  Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1797,
+      "end_line": 1896
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Mahkamah \nberkesimpulan:  \n[4.1]  Mahkamah berwenang mengadili permohonan a quo;  \n[4.2]  Permohonan para Pemohon tidak jelas atau kabur ( obscuur);  \n[4.3] Permohonan para Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n\n \n53 \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1898,
+      "end_line": 1914
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan para Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo, selaku Ketua merangkap Anggot a, Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,  \nM. Guntur Hamzah, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai \nAnggota, pada hari Rabu, tanggal delapan, bulan Juli, tahun dua ribu dua puluh \nenam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka u ntuk \numum pada hari Kamis, tanggal dua puluh tiga, bulan Juli, tahun dua ribu dua \npuluh enam, selesai diucapkan pukul 14.00 WIB, oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo, selaku Ketua merangkap Anggota, Saldi Isra, En ny Nurbaningsih, \nRidwan Mansyur, Arsul Sani, Daniel Yusmic P. Foekh, M. Guntur H amzah, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu \noleh I Made Gede Widya Tanaya Kabinawa sebagai Panitera Penggan ti, serta \ndihadiri oleh para Pemohon dan/atau kuasanya, Dewan Perwakilan Rakyat atau \nyang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nEnny Nurbaningsih  \n\n \n54 \n ttd. \nRidwan Mansyur  \nttd. \nArsul Sani \n ttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah \n ttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nI Made Gede Widya Tanaya Kabinawa",
+      "start_line": 1916,
+      "end_line": 1958
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Bernita Matondang",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Hania Lestari",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Putri Salsabila",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Evelyn Amanda",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 20/2003 tentang Sistem Pendidikan Nasional"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D ayat (1)",
+      "Pasal 31 ayat (1)",
+      "Pasal 31 ayat (4)",
+      "Pasal 28G ayat (1)",
+      "Pasal 34 ayat (1)",
+      "Pasal 31 ayat (2)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)",
+      "Pasal 4 ayat (2)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "REFERENSI:216/PUU-XXIV/2026",
+      "REFERENSI:214/PUU/PAN.MK/AP3/06/2026",
+      "REFERENSI:026/PUU-IV/2006",
+      "REFERENSI:3/PUU-XXII/2024"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "I Made Gede Widya Tanaya Kabinawa"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "216/PUU-XXIV/2026",
+      "214/PUU/PAN.MK/AP3/06/2026",
+      "026/PUU-IV/2006",
+      "3/PUU-XXII/2024"
+    ],
+    "referenced_cases": [
+      "216/PUU-XXIV/2026",
+      "214/PUU/PAN.MK/AP3/06/2026",
+      "026/PUU-IV/2006",
+      "3/PUU-XXII/2024"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

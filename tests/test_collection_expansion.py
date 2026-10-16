@@ -25,13 +25,14 @@ class CollectionExpansionTests(unittest.TestCase):
         data = ROOT/'data'
         cls.records = build_case_catalog(data/'parsed_json', data/'validated_json', data/'review_queue', library_dir=cls.storage.name)
         cls.manifest = json.loads((data/'editorial/collection_sources.json').read_text())
+        cls.growth_manifest = json.loads((data/'editorial/collection_200_sources.json').read_text())
 
     @classmethod
     def tearDownClass(cls):
         cls.storage.cleanup()
 
-    def test_collection_has_100_unique_described_cases_and_official_sources(self):
-        self.assertEqual(len(self.records), 100)
+    def test_collection_has_200_unique_described_cases_and_official_sources(self):
+        self.assertEqual(len(self.records), 200)
         identities = set()
         for record in self.records:
             item = summarize_case(record)
@@ -44,9 +45,44 @@ class CollectionExpansionTests(unittest.TestCase):
                 source = urlsplit(pdf_source(record.payload))
                 self.assertEqual(source.scheme, 'https')
                 self.assertIn(source.hostname, {'s.mkri.id', 'www.mkri.id'})
-        self.assertEqual(len(identities), 100)
+        self.assertEqual(len(identities), 200)
         self.assertEqual(len(self.manifest), 62)
         self.assertEqual(Counter(e['batch'] for e in self.manifest), {'recent': 40, 'history': 22})
+
+    def test_growth_adds_100_cases_and_fills_thinner_topics(self):
+        self.assertEqual(len(self.growth_manifest), 100)
+        numbers = [entry['case_number'] for entry in self.growth_manifest]
+        self.assertEqual(len(set(numbers)), 100)
+        self.assertFalse(set(numbers) & {entry['case_number'] for entry in self.manifest})
+        topics = Counter(topic for record in self.records for topic in summarize_case(record)['topics'])
+        self.assertEqual(topics['Haji & umrah'], 5)
+        self.assertEqual(topics['BUMN'], 11)
+        self.assertEqual(topics['Pendidikan'], 25)
+        cases = {record.payload['document']['case_number']:record.payload for record in self.records}
+        for entry in self.growth_manifest:
+            with self.subTest(case=entry['case_number']):
+                payload = cases[entry['case_number']]
+                self.assertRegex(entry['sha256'], r'^[a-f0-9]{64}$')
+                self.assertEqual(pdf_source(payload), entry['url'])
+                for group, fields in entry['facts'].items():
+                    for key, value in fields.items():
+                        self.assertEqual(payload[group][key], value)
+
+    def test_checked_growth_facts_preserve_pdf_names_dates_and_rulings(self):
+        cases = {record.payload['document']['case_number']:record.payload for record in self.records}
+        for number, date in {'94/PUU-XVIII/2020':'2021-01-14', '2/PUU-XIX/2021':'2021-08-31',
+                             '12/PUU-V/2007':'2007-10-03', '5/PUU-X/2012':'2013-01-08',
+                             '225/PUU-XXIV/2026':'2026-07-30'}.items():
+            self.assertEqual(cases[number]['document']['decision_date'], date)
+        for number, count in {'300/PUU-XXIV/2026':9, '76/PUU-XXIV/2026':5,
+                              '244/PUU-XXIV/2026':5, '37/PUU-XIX/2021':4,
+                              '47/PUU-XXIV/2026':3}.items():
+            self.assertEqual(len(cases[number]['parties']['applicants']), count)
+        self.assertEqual(cases['116/PUU-XXII/2024']['parties']['applicants'][0]['name'], 'Yasrizal')
+        self.assertIn('AMPHURI', cases['47/PUU-XXIV/2026']['parties']['applicants'][0]['name'])
+        record = next(r for r in self.records if r.payload['document']['case_number']=='184/PUU-XXIII/2025')
+        self.assertEqual(summarize_case(record)['outcome_key'], 'mixed')
+        self.assertEqual(cases['12/PUU-V/2007']['outcome']['dictum'], ['Menyatakan Permohonan Pemohon ditolak.'])
 
     def test_every_pdf_redirects_to_official_source_without_local_pdfs(self):
         app = create_app(library_dir=self.storage.name)

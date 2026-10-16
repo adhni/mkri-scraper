@@ -1,0 +1,537 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_11168_1729054428.pdf",
+    "file_name": "putusan_mkri_11168_1729054428.pdf",
+    "page_count": 17,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_11168_1729054428.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "116/PUU-XXII/2024",
+    "related_case_numbers": [
+      "111/PAN.MK/AP3/08/2024dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusiElektronikdenganAktaRegistrasiPerkaraKonstitusiNomor116/PUU-XXII/2024"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2024-10-16",
+    "decision_date_raw": "enam belas, bulan Oktober, tahun dua ribu dua puluh empat",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor  116/PUU-XXII/2024",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam perkara Pengujian Undang-Undang Nomor 5 Tahun \n1960 tentang Peraturan Dasar Pokok -Pokok Agraria terhadap Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh: \n Nama : Yasrizal; \n Kewarganegaraan : Indonesia; \n Alamat : Jalan Kampung Setu Golf Cilangkap Tapos Depok. \n \nSelanjutnya disebut sebagai -------------------------------------------------------  Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon;  \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 7,
+      "end_line": 18
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal \n5 Agustus 2024 yang diterima di Kepaniteraan Mahkamah Konstitusi (selanjutnya \ndisebut Kepaniteraan Mahkamah) pada tanggal 9 Agustus 2024 berdasarkan Akta \nPengajuan Permohonan Pemohon  Nomor 111/PAN.MK/AP3/08/2024 dan telah \ndicatat dalam Buku Registrasi Perkara Konstitusi Elektronik dengan Akta Registrasi \nPerkara Konstitusi Nomor 116/PUU-XXII/2024 pada tanggal 24 Agustus 2024, yang \npermohonannya telah diperbaiki dan diterima Kepaniteraan Mahkamah pada \ntanggal 23 September 2024 pada pokoknya sebagai berikut: \n\n\n \n \n2 \n \nA. Kewenangan Mahkamah Konstitusi",
+      "start_line": 20,
+      "end_line": 34
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (1) Undang-Undang Dasar 1945 (UUD 1945) mengatur",
+      "slug": "1-bahwa-pasal-24-ayat-1-undang-undang-dasar-1945-uud-1945-mengatur",
+      "text": "bahwa Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang dibawahnya dalam lingkungan peradilan umum, \nlingkungan peradilan agama, lingkungan  peradilan militer, lingkungan \nperadilan Tata Usaha Negada dan oleh sebuah Mahkamah Konstitusi;",
+      "start_line": 36,
+      "end_line": 39
+    },
+    {
+      "heading": "2. Bahwa Pemohon a quo adalah permohonan pengujian konstitusionalitas",
+      "slug": "2-bahwa-pemohon-a-quo-adalah-permohonan-pengujian-konstitusionalitas",
+      "text": "Undang0Undang Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok -\nPokok Agraria Pasal 2 ayat (2) huruf c, Pasal 17 ayat (3);",
+      "start_line": 41,
+      "end_line": 42
+    },
+    {
+      "heading": "3. Bahwa selain itu, ketentuan Pasal 7 ayat (1) dan (2) dan Pasal 9 ayat (1)",
+      "slug": "3-bahwa-selain-itu-ketentuan-pasal-7-ayat-1-dan-2-dan-pasal-9-ayat-1",
+      "text": "Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan \nPerundang-Undangan, telah mengatur tata urutan dan hierarkis kedudukan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 lebih tinggi \ndari undang -undang. Oleh karena itu setiap ketentuan dalam undang -\nundang termasuk Putusan Mahkamah Konstitusi yang bertentangan dan \ntidak sejalan/selaras dengan UUD 1945, maka ketentuan tersebut dapat  \ndimohonkan untuk diuji melalui mekanisme pengujian undang-undang yang \ndilakukan oleh Mahkamah Konstitusi;",
+      "start_line": 44,
+      "end_line": 51
+    },
+    {
+      "heading": "4. Bahwa berdasarkan ketentuan di atas, maka Mahkamah Konstitusi",
+      "slug": "4-bahwa-berdasarkan-ketentuan-di-atas-maka-mahkamah-konstitusi",
+      "text": "mempunya kewenangan untuk melakukan pengujian undang-undang. \nB. Kedudukan Hukum (Legal Standing) Kuasa Pemohon (sic)",
+      "start_line": 53,
+      "end_line": 54
+    },
+    {
+      "heading": "1. Bahwa berdasarkan ketentuan Pasal 51 ayat (1) Undang-Undang Nomor 24",
+      "slug": "1-bahwa-berdasarkan-ketentuan-pasal-51-ayat-1-undang-undang-nomor-24",
+      "text": "Tahun 2003 tentang Mahkamah Konstitusi beserta penjelasannya, jo Pasal \n3 Peraturan Mahkamah Konstitusi Nomor 6/PMK/2005 tentang Pedoman \nBeracara dalam Perkar a Pengujian Undang -Undang, mengatur bahwa \nPemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na. Perorangan Warga Negara Indonesia; \nb. Kesatuan Masyarakat Hukum Adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang; \n\n \n \n3",
+      "start_line": 56,
+      "end_line": 68
+    },
+    {
+      "heading": "2. Bahwa berpijak pada ketentuan di atas, sebagai Pemohon atas permohonan",
+      "slug": "2-bahwa-berpijak-pada-ketentuan-di-atas-sebagai-pemohon-atas-permohonan",
+      "text": "saya adalah Warga Negara Indonesia berdasarkan Kartu Tanda Penduduk \n(NIK.1304010506770002) atas nama Yasrizak. Maka dengan demikian, \ntelah memenuhi kualifikasi sebagai Pemohon dalam permohonan a quo \nsebagaimana diatur dalam Pasal 51 ayat (1) huruf a UU No.24 Tahun 200 3 \ntentang Mahkamah Konstitusi, beserta penjelasannya sebagaimana telah \ndiubah dengan Undang-Undang No. 8 Tahun 2011 tentang Perubahan atas \nUndang-Undang No. 24 Tahun 2003 tentang Mahkamah Konstitusi, jo Pasal \n3 huruf a Peraturan Mahkamah Konstitusi No. 6/P MK/2005 tentang \nPedoman Beracara Dalam Perkara Pengujian Undang-Undang;",
+      "start_line": 72,
+      "end_line": 80
+    },
+    {
+      "heading": "3. Bahwa di dalam penjelasan ketentuan Pasal 51 ayat (1) Undang -Undang",
+      "slug": "3-bahwa-di-dalam-penjelasan-ketentuan-pasal-51-ayat-1-undang-undang",
+      "text": "Mahkamah Konstitusi menyatakan bahwa yang dimaksud dengan hak \nkonstitusional adalah hak yang diatur dalam UUD 1945;",
+      "start_line": 82,
+      "end_line": 83
+    },
+    {
+      "heading": "4. Bahwa ketentuan pasal dalam Undang -Undang Dasar Negara Republik",
+      "slug": "4-bahwa-ketentuan-pasal-dalam-undang-undang-dasar-negara-republik",
+      "text": "Indonesia (UUD 1945) yang mengatur  hak konstitusional PEMOHON dan \ndijadikan sebagai Dasar Utama dalam Penguj ian Undang-Undang (Judicial \nReview) Putusan Mahkamah Konstitusi Nomor : 90/PUU/-XXI/2023 tanggal \n16 Oktober 2023;",
+      "start_line": 85,
+      "end_line": 88
+    },
+    {
+      "heading": "5. Bahwa sesuai dengan Legal-Standing Pemohon yang telah bekerja sama",
+      "slug": "5-bahwa-sesuai-dengan-legal-standing-pemohon-yang-telah-bekerja-sama",
+      "text": "dengan Instansi dan Lembaga Negara, yaitu: 1) Kementerian Sekretaris \nNegara; 2) Ombudsman ORI Pusat; 3) Kementerian ATR/BPN Pusat; 4) \nInspektorat Jenderal Kementerian ATR/BPN Pusat; 5) Kemenko Polhukam; \n6) Kementerian Keuangan/Direktorat Jenderal Kekayaan Negara Pusat \n(Bukti P-9 dan P-4); \nC. Norma Yang Diajukan Untuk Diuji",
+      "start_line": 90,
+      "end_line": 95
+    },
+    {
+      "heading": "1. Norma Materiil",
+      "slug": "1-norma-materiil",
+      "text": "Pengujian Undang-Undang Nomor 5 Tahun 1960 tentang PEraturan Dasar \nPokok-Pokok Agraria Pasal 2 Ayat (2) huruf c yang berbunyi menentkan dan \nmengatur hubungan-hubungan hukum antara orang -orang dan perbuatan -\n\n \n \n4 \nperbuatan hukum yang mengenai bumi, air dan ruang angkasa, (dalam \nPeraturan Dasar Pokok-Pokok Agraria tidak dinyataka n secara jelas hanya \nmemberikan ruang lingkup araria yang termasuk dalam konsideran \nberpendapat bahwa bumi, air dan ruang angkasa yang terkandung di \ndalamnya), dan Undang -Undang Nomor 5 Tahun 1960 tentang Peraturan \nDasar Pokok-Pokok Agraria Pasal 17 ayatt (3) yang berbunyi tanah -tanah \nyang merupakan kelebihan dari batas maksimum termasuk dalam ayat (2) \npasal ini diambil oleh pemerintah dengan ganti kerugian, untuk selanjutnya \ndibagikan kepada rakyat yang membutuhkan menurut ketentuan -ketenautn \ndalam peratur an pemerintah. Negara t idak boleh membatasi pribumi \nmemiliki hak atas tanah bertentangan dengan UUD 1945 Pasal 27 ayat (1) \n(Bukti P-8).",
+      "start_line": 97,
+      "end_line": 115
+    },
+    {
+      "heading": "2. Norma Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "slug": "2-norma-undang-undang-dasar-negara-republik-indonesia-tahun-1945",
+      "text": "Yang Mejadi Penguji \nUndang-Undang Dasar Republik Indonesi a Tahun 1945 Pasal 33 ayat (3) \nyang berbunyi Bumi dan air dan kekayaan alam yang terkandung \ndidalamnya dikuasai oleh negara dan dipergunakan untuk sebesar -besar \nkemakmuran rakyat, dan Pasal 27 ayat (1) menegaskan bahwa posisi rakyat \nyang substansial (utama ). Hal ini demokrasi ekonomi memperoleh \njustifikasinya, yaitu bahwa kepentingan masyarakat lebih utama dari \nkepentingan orang -seorang Demokrasi Ekonomi, yang mengutamakan \nkebersamaan (mutualisme), bukan berdasar individualism. Pengutamaan \nkepentingan masya rakat ini tidak mengabaikan hak -hak individu secara \nsemena-mena sebagaimana dikemukakan Mohammad Hatta dalam Sidang \nBPUPKI tanggal 15 Juli 1945 tentang perlunya melindungai hak -hak warga \nnegara (Bukti P -8) Undang-Undang Nomor 2 Tahun 2012 Pasal 9 ayat (1) \nyang berbunyi Penyelenggaraan Pengadaan Tanah untuk Kepentingan \nUmum memperhatikan kesinambungan antara kepentingan pembangunan \ndan kepentingan masyarakat, ayat (2) berbunyi Pengadaan Tanah untuk \nKepentingan Umum dilaksanakan degnan pemberian Ganti Kerugia n yang \nlayak dan adil, (Pelaksanaannya bertolak belakang (Bukti P-5 dan P=7)). \n \n\n \n \n5 \nD. Duduk Perkara",
+      "start_line": 117,
+      "end_line": 140
+    },
+    {
+      "heading": "1. Bahwa Pemohon telah mengajukan permohonan dengan surat",
+      "slug": "1-bahwa-pemohon-telah-mengajukan-permohonan-dengan-surat",
+      "text": "permohonannya bertanggal 05 Agustus 2024 yang diterima dan terdaftar di \nKepaniteraan Mahkamah Konstitusi (selanjutnya disebut sebagai \nKepaniteran Mahkamah) sebagaimana mestinya dan pada sidang 9 \nSeptember 2024, yang mulia Ketua Hakim Panel menasehati dan \nmenyarankan agar merevisi surat permohonan dan surat kuasa Pemohon \nagar mengikuti aturan mahkamah konstitusi.",
+      "start_line": 142,
+      "end_line": 147
+    },
+    {
+      "heading": "2. Bahwa PEmohon sudah mengikuti sidang pertama pada tanggal 9",
+      "slug": "2-bahwa-pemohon-sudah-mengikuti-sidang-pertama-pada-tanggal-9",
+      "text": "September 2024 dan sudah memaparkan legalitas badan hukum data \ndokumen pemohon dalam menempati tanah tersebut ada pada (Bukti P -9, \nP-4).",
+      "start_line": 149,
+      "end_line": 151
+    },
+    {
+      "heading": "3. Bahwa Pemohon mendapatkan informasi, pada 2 Mei 2024 beredar di Media",
+      "slug": "3-bahwa-pemohon-mendapatkan-informasi-pada-2-mei-2024-beredar-di-media",
+      "text": "bahwa Kemenko Polhukam sudah melahirkan Hak Atas Tanah tersebut HPL \nuntuk TNI dan HGB untuk Masyarakat). Dan inilah pokok persoalan besar \nbagi negara kalua kebijakan penyelenggara ini tidak mempertimbangkan \nasas hukum dan asal usul tanah yang ditempati masyarakat tersebut (Bukti \nP-12).",
+      "start_line": 153,
+      "end_line": 157
+    },
+    {
+      "heading": "4. Bahwa Pemohon selanjutnya ada bukti ganti rugi di IKN dan daerah lainnya",
+      "slug": "4-bahwa-pemohon-selanjutnya-ada-bukti-ganti-rugi-di-ikn-dan-daerah-lainnya",
+      "text": "yang tidak bisa diterima masyarakat (Bukti P-5 dan P-7).",
+      "start_line": 159,
+      "end_line": 159
+    },
+    {
+      "heading": "5. Bahwa Pemohon berpendapat penyelenggara negara sudah melakukan",
+      "slug": "5-bahwa-pemohon-berpendapat-penyelenggara-negara-sudah-melakukan",
+      "text": "perampasan hak ta nah masyarakat secara sepihak terjadi dimana -mana \nbeberapa bukti ada pada (Bukti P-4, P-10, P-11, P-12) \nE. Alasan-Alasan Permohonan",
+      "start_line": 161,
+      "end_line": 163
+    },
+    {
+      "heading": "1. Bahwa hal -hal yang telah dikemukakan dalam kedudukan hukum dan",
+      "slug": "1-bahwa-hal-hal-yang-telah-dikemukakan-dalam-kedudukan-hukum-dan",
+      "text": "kewenangan Mahkamah sebagaimana diuraikan di atas adalah merupak an \nbagian yang tidak terpisahkan dari pokok permohonan ini;",
+      "start_line": 165,
+      "end_line": 166
+    },
+    {
+      "heading": "2. Bahwa Undang -Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "slug": "2-bahwa-undang-undang-dasar-negara-republik-indonesia-tahun-1945",
+      "text": "(UUD 1945) adalah konstitusi yang menajdi landasan hidup berbangsa dan \n\n \n \n6 \nbernegara Indonesia karenanya UUD 1945 haruslah dipahami secar a \nkomprehensif, tidak hanya dari segi formil semata. Sebagai negara yang \nberdasarkan atas hukum dan menjunjung tinggi keadilan, tidak bisa hanya \nterikat dengan hukum itu sendiri, namun juga terikat dengan rasa keadilan \nsehingga hukum harus dipandang dan di tempatkan sebagai serana untuk \nmenjamin perlindungan dan kepastian hukum terhadap hak -hak warga \nnegara;",
+      "start_line": 168,
+      "end_line": 179
+    },
+    {
+      "heading": "3. Bahwa salah satu prinsip keadilan dan atau kepastian hukum yang secara",
+      "slug": "3-bahwa-salah-satu-prinsip-keadilan-dan-atau-kepastian-hukum-yang-secara",
+      "text": "jelas diatur dalam Undang -Undang Nomor 2 Tahun 2012 Pasal 9 ayat (1) \ndan ayat (2) dan Pasal 10 huruf a tapi pelaksanaannya bertentnagan dengan \namanat Undang-Undang Dasar Republik Indonesia, yaitu UUD 1945 Pasal \n33 ayat (3) dan Pasal 27 ayat (1), dikarenakan oleh UU Peraturan Dasar \nPokok-Pokok Agraria Pasal 2 ayat (2) tidak ada dimunculkan tanah, ini wajib \ndimunculkan dan huruf c berbunyi menentuan dan mengatur hubungan -\nhubungan hukum antara orang -orang dan perbuatan hukum yang \nterjadinmya konflik dimana -mana, karena pelaksanaan kerja dari BPN \nselaku eksekutor dalam Undang -Undang Peratur an Dasar Pokok -Pokok \nAgraria Pasal 2 ayat (2) hutuf c tidak berkekuatan hukum yang jelas, sebab \nyang terjadi dilapangan perampasan hak tanah warga masyarakat secara \nsepihak dan BPN tidak mau tau dokumen data yang dimiliki warga \nmasyarakat, dan yang lebih parah lagi kalua tanah sudah diberikan hak oleh \nBPN, selanjutnya BPN tidak bisa lagi berbuat apa -apa, masyarakat \ndiarahkan ke pengadilan, dan di pengadilan masyarakat pasti tidak akan \nendapatkan keadilan, karena tanah itu diberikan hak pada warga negara \nasing, mereka macam-macam di atas tanah tersebut bisa saja terjadi segala \nkemungkinan yang tidak kita harapkan bisa membahayakan lingkungan \nsekitarnya dan Degnan artian sangat luas bisa membahayakan kedaulatan \nNKRI. Sementara BPN tidak bisa berbuat apa apa selain membebnark an \npendaftaran tanah tersebut. Selain itu tanah yang sudah tercatat dan \ndidaftarkan melalui simak BMN Kemenkeu karena sudah ada Pola Ruang \noleh BPN dan dilegalkan oleh Kemenko Polhukan starus HPL terhadap \ntanah tersebut untuk TNI AL dan HGB untuk masyaraka t yang sudah \nberdomisili di atas lahan tersebut berpuluhan tahun (Bukti P-12). \n\n \n \n7",
+      "start_line": 181,
+      "end_line": 209
+    },
+    {
+      "heading": "4. Bahwa Pemohon sudah mengupayakan berbagai macam upaya sesuai",
+      "slug": "4-bahwa-pemohon-sudah-mengupayakan-berbagai-macam-upaya-sesuai",
+      "text": "norma aturan kesetiap instansi dan Kementerian, Kepala Daerah tapi semua \nbungkam tidka ada kepastian hukum yang didapat (Bukti P-3, P-4, P-6, P-\n9).",
+      "start_line": 211,
+      "end_line": 213
+    },
+    {
+      "heading": "5. Bahwa Pemohon atas uraian di ayas akibat berlakunya UU Nomor 5 Tahun",
+      "slug": "5-bahwa-pemohon-atas-uraian-di-ayas-akibat-berlakunya-uu-nomor-5-tahun",
+      "text": "1960 tentang Peraturan Dasar Pokok -Pokok Agraria Pasal 2 ayat (2) huruf",
+      "start_line": 215,
+      "end_line": 215
+    },
+    {
+      "heading": "c sesuai informasi (Bukti P -12), Pemohon berpendapat perbuatan dan",
+      "slug": "c-sesuai-informasi-bukti-p-12-pemohon-berpendapat-perbuatan-dan",
+      "text": "pelaksanaan kebijakan yang dilakukan oleh Kemenko Polhukam, \nBPN/Kekantah Tarakan, Kanwil BPN Kalimantan Utara/Timur dan \nKementerian ATR/BPN Pusat, dan Kementerian Keuangan/DJKN Pusat \nserta KPKNL, sudah merugikan Pemohon dan bertentangan dengan UU \nNomor 2 Tahun 2012 Penyelenggaraan Pengadaan Tanah Pasal 10, tanah \nuntuk kepentingan umum sebagaimana dimaksud dalam Pasal 4 ayat (1) \ndigunakan untuk pembangunan huruf (a) pertahanan dan keamanan nasinal \nsudah menyalahi amanat UUD 1945, Pasal 33 ayat (3) dan Pasal 27 ayat \n(1) terhadap Undang-Undang Dasar Republik Indonesia Tahun 1945; dan \n(2) Perbuatan dan kebijakan pejabat penyelenggara negara atas berlakunya \nUU Peraturan Dasar Pokok -Pokok Agraria Nomor 5 Tahun 1960 Pasal 2 \nayat (2) huruf c, Pemohon dirugikan karena Pasal 2 ayat (2) huruf c ini hanya \nuntuk mengatur, peruntukan, pemberian hak pada pengguna tanpa ada \nkepedulian terhadap asas hukum yang mengasai menempati tanah tersebut, \ndan UU Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria \nini Pasal 2 ayat (2) hur uf c, Pemohon mengusulkan Uji Materiil UU Penguji \nPasal 33 ayat (3)  dan Pasal 27 ayat (1) UUD 1945;",
+      "start_line": 217,
+      "end_line": 233
+    },
+    {
+      "heading": "6. Bahwa Pemohon bunya (Bukti P-3, P-4, P-5, P-6, P-7, P-8, P-9, P-10, P-11,",
+      "slug": "6-bahwa-pemohon-bunya-bukti-p-3-p-4-p-5-p-6-p-7-p-8-p-9-p-10-p-11",
+      "text": "P-12), BPD tidak peduli asas hukum pada tanah yang ditempati masyarakat, \nBPN lah yang jadi pelaku sumber lahirnya konflik antara pemerintah dan \nkonflik antar masyarakat dengan perusahaan bersifat umum. Dan Pemohon \nberkesimpulan kalau tidak diperkuat hukum pertanahan kit aini ancaman \nbersidat umum sudah didepan mat akita , dengan adanya kebijakan \npemerintah memberikan ha katas  tanah 90 tahun, apalagi ditempati oleh \nwarga negara asing nantinya terjadi apa-apa diatas tanah tersebut atau ada \norang melakukan perbuatan -perbuatan hukum, sementara BPN tidak bisa \n\n \n \n8 \nberbuat apa apalagi maka perbuata n tersebut bisa saja terjadi sementara \nhukum atas tanah itu tidak ada (Bukti P -4) tanah ulaya adat yang sudah \ndirampas oleh negara dan terjad apa diatas lahan tersebut semua pihak \ndiam, ada program Pemohon di PUPR, pembuatan embung dan saluran \nirigasi dibatas lahan tersebut taka da satupun pihak yang berpihak kepada \nmasyarakat. Maka dari itu Pemohon mengusulkan, Pasal 2 ayat (2) huruf c \ndiganti (Pasal pengganti: memberikan hak dan mencabut hak pada badan -\nbadan hukum juga terhadap orang -orang dan perbuatan p erbuatan hukum \nmengenai bumi, tanah, air dan luar angkasa);",
+      "start_line": 235,
+      "end_line": 255
+    },
+    {
+      "heading": "7. Bahwa Pemoho sangat prihatin terhadap tanah Garapan masayarkat yang",
+      "slug": "7-bahwa-pemoho-sangat-prihatin-terhadap-tanah-garapan-masayarkat-yang",
+      "text": "diperuntukan bagi pembangunan untuk kepentingan umum, yang ganti \nruginya sangat bertentangan dengan UU Nomor 2 Tahun 2012 Pasal 9 ayat \n(1) dan ayat (2), Pemohon mengajukan uji materiil Undang-Undang Penguji \nPasal 33 ayat (3) dan Pasal 27 ayat (1) terhadap Undang -Undang Dasar \nRepublik Indonesia Tahun 1945 (Bukti P-5, P-7);",
+      "start_line": 257,
+      "end_line": 261
+    },
+    {
+      "heading": "8. Bahwa Pemoho mengajukan pasal pengganti terhadap Pasal 17 ay at (3)",
+      "slug": "8-bahwa-pemoho-mengajukan-pasal-pengganti-terhadap-pasal-17-ay-at-3",
+      "text": "Undang-Undang Peraturan Dasar Pokok -Pokok Agraria Nomor 5 Tahun \n1960, karena pasal ini negara mencabut ha katas tanah pada pribumi \nsementara perusahaan ataupun badan hukum lainnya diberikan berates \nhektar, sedangkan banyak yang tidak dimanfaatkan, U ndang-Undang \nNomor 5 Tahun 1960 Peraturan Dasar Pokok -Pokok Agraria Pasal 17 ayat \n(3) berbunyi tanah-tanah yang merupakan kelebihan maksimum dalam ayat \n(2) pasal ini diambil oleh pemerintah dengan ganti kerugian untuk \nselanjutnya dibagikan kepada rakyat ya ng membutuhkan menurut \nketentuan-ketentuan hukum dalam pemerintah, Undang -Undang ini sudah \nmenjadi pro-kontra di masyarakat dan negara tidak boleh lagi membatasi \nmasyarakat pribumi memiiliki ha katas tanah, Pasal Pengganti, Pasal 17 ayat \n(3) dalam UU Nomor 5 Tahun 1960 terhadap Peraturan Dasar Pokok-Pokok \nAgraria, tanah -tanah yang merupakan kelebihan dari batas maksimum \ntermaksud pada ayat (2) pas aini wajib harus melalui badan hukum bertujuan \nbisa memberdayakkan masyarakat setempat uji materiil pasal pengg anti \nUndang-Undang penguji UUD 1945 Pasal 33 ayat (3) dan UUD 1945 Pasal \n27 ayat (1). \n\n \n \n9 \n \nF. Petitum",
+      "start_line": 263,
+      "end_line": 285
+    },
+    {
+      "heading": "2. Menyatakan agar Undang-Undang Nomor 5 Tahun 1960 tentang Peraturan",
+      "slug": "2-menyatakan-agar-undang-undang-nomor-5-tahun-1960-tentang-peraturan",
+      "text": "Dasar Pokok -Pokok Agraria Pasal 2 a yat (2) huruf c, (Menentukan dan \nmengatur hubungan hubungan hukum antara orang orang. Dan perbuatan \nperbuatan hukum yang mengenai bumi, air dan ruangan angkasa) dihapus, \nkarena Peraturan Dasar Pokok-Pokok Agraria Nomor 5 Tahun 1960 Pasal 2 \nayat (2) huruf c, tidak ada asas tanah dan jelas pelaksanaannya melanggar \nkonstitusi, sehingga pelaksanaan UU Peraturan Dasar Pokok-Pokok Agraria \nNomor 5 Tahun 1960 Pasal 2 ayat (2) huruf c oleh penyelenggara negara \nmengabaikan badan hukum penguasaan tanah oleh Pemohon (Bukti P-2, P-\n4, P -5, P -6, P -7, P -8, P -9, P -10, P -11, P -12) dan bertentangan dengan \namanat UUD 1945 Pasal 27 ayat (1), dan Pemohon dirugikan, agar \nkepastian hukum terhadap UU Peraturan Dasar Pokok -Pokok Agraria \nNomor 5 Tahun 1960 Pasal 2 ayat (2) huruf c ada dan jelas berbunyi \n(memberikan hak dan mencabut h ak pada badan -badan hukum juga \nterhadap orang -orang dan perbuatan -perbuatan hukum mengenai bumi, \ntanah, air dan liang angkasa, dikabulkan);",
+      "start_line": 288,
+      "end_line": 302
+    },
+    {
+      "heading": "3. Menyatakan bahwa pada Pasal 17 ayat (3) tanah -tanah yang merupakan",
+      "slug": "3-menyatakan-bahwa-pada-pasal-17-ayat-3-tanah-tanah-yang-merupakan",
+      "text": "berkelebihan dari batas maksimum termasuk dalam ayat (2) pasal ini diambil \noleh pemerintah dengan ganti rugi kerugian untuk selanjutnya dibagikan \nrakyat yang membutuhkan menurut ketentuan -ketentuan dalam peraturan \npemerintah, hapus, Pasal Pengganti Pasal 17 ayat (3) kalau masyarakat \npribumi melebihi dari  batas maksimum dalam ayat (2) pasal ini, wajib ada \nbadan hukum, bertujuan untuk memberdayakan masyarakat;",
+      "start_line": 304,
+      "end_line": 309
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan dalam Berita Negara Republik Indonesia",
+      "slug": "4-memerintahkan-pemuatan-putusan-dalam-berita-negara-republik-indonesia",
+      "text": "sebagaimana mestinya atau Hakim Konstitusi berpendapat lain, agar \nPemohon mendapatkan putusan yang seadil-adilnya. \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, Pemohon telah \nmengajukan alat bukti surat/tulisan yang diberi tanda bukti P-1 sampai dengan bukti \n\n \n \n10 \nP-12 yang telah disahkan dalam persidangan  pada tanggal 24 September 2024, \nsebagai berikut:",
+      "start_line": 311,
+      "end_line": 320
+    },
+    {
+      "heading": "1. Bukti P-1 : : Fotokopi Undang -Undang Nomor 5 Tahun 1960 tentang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-5-tahun-1960-tentang",
+      "text": "Peraturan Dasar Pokok-Pokok Agraria;",
+      "start_line": 322,
+      "end_line": 322
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang -Undang Nomor 2 Tahun 2012 tentang",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-nomor-2-tahun-2012-tentang",
+      "text": "Pengadaan Tanah;",
+      "start_line": 324,
+      "end_line": 324
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Surat Pengaduan Nomor B-63/Kemensetneg/D-",
+      "slug": "3-bukti-p-3-fotokopi-surat-pengaduan-nomor-b-63-kemensetneg-d",
+      "text": "2/Dumas/DM.05/09/2020;",
+      "start_line": 326,
+      "end_line": 326
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Surat Kemenkeu Nomor 04/LKP/Kemenkeu/",
+      "slug": "4-bukti-p-4-fotokopi-surat-kemenkeu-nomor-04-lkp-kemenkeu",
+      "text": "VII/JKT/2023 YASRIZAL;",
+      "start_line": 328,
+      "end_line": 328
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi bukti perampasan tanah oleh perusahaan dan Bupati",
+      "slug": "7-bukti-p-7-fotokopi-bukti-perampasan-tanah-oleh-perusahaan-dan-bupati",
+      "text": "Bulungan;",
+      "start_line": 332,
+      "end_line": 332
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Undang-Undang Dasar Negara Republik Indonesia",
+      "slug": "8-bukti-p-8-fotokopi-undang-undang-dasar-negara-republik-indonesia",
+      "text": "Tahun 1945;",
+      "start_line": 334,
+      "end_line": 334
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Surat Kemenko Polhukam kepada Yasrizal Nomor",
+      "slug": "9-bukti-p-9-fotokopi-surat-kemenko-polhukam-kepada-yasrizal-nomor",
+      "text": "B.1079/HK.02.01/4/2022;",
+      "start_line": 336,
+      "end_line": 336
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Surat BPN/Kakantar Kota Tarakan Nomor",
+      "slug": "10-bukti-p-10-fotokopi-surat-bpn-kakantar-kota-tarakan-nomor",
+      "text": "HP.03.02/224/64.73.100/V/2022;",
+      "start_line": 338,
+      "end_line": 338
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Surat Pernyataan Kesaksian Masyarakat Pribumi",
+      "slug": "11-bukti-p-11-fotokopi-surat-pernyataan-kesaksian-masyarakat-pribumi",
+      "text": "tidak bisa urus sertifikat;",
+      "start_line": 340,
+      "end_line": 340
+    },
+    {
+      "heading": "12. Bukti P-12 : Print Out Berita “Rakor Penyelesaian Masalah Lahan Antara",
+      "slug": "12-bukti-p-12-print-out-berita-rakor-penyelesaian-masalah-lahan-antara",
+      "text": "Masyarakat Tarakan dan TNI AL”. \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 342,
+      "end_line": 345
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf  a Undang-Undang Nomor 24 Tahun 2003 tentang \n\n \n \n11 \nMahkamah Konstitusi sebagaimana telah diubah  terakhir dengan Undang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Atas Undang -Undang Nomor 24 Tahun \n2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indones ia Tahun \n2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554, \nselanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor \n48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor  157, Tambahan Lembaran  Negara Republik \nIndonesia Nomor 5076, selanjutnya disebut UU 48/2009 ), salah satu kewenangan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji Undang-Undang terhadap Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (UUD NRI Tahun 1945). \n[3.2] Menimbang bahwa oleh karena permohonan  Pemohon adalah \npermohonan untuk menguji konstitusionalitas norma undang -undang, in casu \nPengujian Materiil Undang-Undang Nomor 5 Tahun 1960 tentang Peraturan Dasar \nPokok-Pokok Agraria (Lembaran Negara Republik Indonesia Tahun 1960 Nomor \n104, Tambahan Lembaran Negara Republik Indonesia Nomor 2043, selanjutnya \ndisebut UU 5/1960) terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang \nmengadili permohonan a quo; \n[3.3]  Menimbang bahwa sebelum mempertimbangkan ihwal kedudukan hukum \nPemohon dan pokok permohonan, Mahkamah terlebih dahulu mempertimbangkan \nhal-hal sebagai berikut. \n[3.3.1] Bahwa Mahkamah telah memeriksa permohonan a quo  dalam sidang \nPemeriksaan Pendahuluan dengan agenda untuk mendengarkan pokok -pokok \npermohonan, memeriksa kelengkapan dan kejelasan materi permohonan pada \ntanggal 9 September 2024. Berdasarkan ketentuan Pasal 39 UU MK dan Pasal 41 \nayat (3) Peraturan Mahkama h Konstitusi Nomor 2 Tahun 2021 tentang Tata \nBeracara Dalam Perkara Pengujian Undang -Undang (selanjutnya disebut PMK \n2/2021), Mahkamah telah memberikan saran dan nasihat kepada Pemohon untuk \nmemperbaiki surat kuasa sekaligus memperjelas hal-hal yang berkai tan dengan \nPemohon dan permohonannya sesuai dengan sistematika permohonan \nsebagaimana diatur dalam Pasal 31 ayat (1) UU MK  dan Pasal 10 ayat (2) PMK \n2/2021. Dalam persidangan tersebut, Mahkamah telah menjelaskan bahwa \n\n \n \n12 \nPemohon dapat menyampaikan perbaikan p ermohonan kepada Mahkamah \nselambat-lambatnya pada tanggal 23 September 2024, yaitu 14 (empat belas) hari \nsejak sidang Pemeriksaan Pendahuluan sesuai ketentuan Pasal 39 ayat (2) UU MK \ndan Pasal 42  ayat (1) PMK 2/2021 [ vide Risalah Sidang Perkara 116/PUU-\nXXII/2024, 9 September 2024, hlm.12 - hlm. 60]. Selanjutnya, terhadap saran dan \nnasihat yang disampaikan dalam Sidang Pemeriksaan Pendahuluan tersebut , \nPemohon telah menyampaikan dokumen perbaikan pemohonan dan surat kuasa \nyang diterima Mahkamah pada Senin, 23 September 2024 pukul 13.34 WIB; \n[3.3.2]    Bahwa selanjutnya Mahkamah akan menilai mengenai syarat formal suatu \npermohonan yaitu  berkenaan dengan sistematika atau format dan substansi dari \npermohonan Pemohon. Dalam hal ini, Pasal 31 ayat (1) UU MK dan Pasal 10 ayat \n(2) PMK 2/2021, sebagai berikut: \nPasal 31 ayat (1) UU MK \nPermohonan sekurang-kurangnya harus memuat: \na. Nama dan alamat pemohon; \nb. Uraian mengenai perihal yang menjadi dasar permohonan sebagaimana \ndimaksud dalam Pasal 30; dan",
+      "start_line": 347,
+      "end_line": 406
+    },
+    {
+      "heading": "c. Hal-hal yang diminta untuk diputus",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (2) PMK 2/2021 \nPermohonan yang diajukan oleh Pemohon dan/atau kuasa hukum sebagaimana \ndimaksud pada ayat (1) sekurang-kurangnya memuat: \na. Nama Pemohon dan/atau kuasa hukum, pekerjaan, kewarganegaraan, alamat \nrumah/kantor, dan alamat surat elektronik; \nb. uraian yang jelas mengenai:",
+      "start_line": 408,
+      "end_line": 413
+    },
+    {
+      "heading": "1. kewenangan Mahkamah, yang memuat penjelasan mengenai kewenangan",
+      "slug": "1-kewenangan-mahkamah-yang-memuat-penjelasan-mengenai-kewenangan",
+      "text": "Mahkamah dalam mengadili perkara PUU sebagaimana diatur dalam \nperaturan perundang-undangan serta objek permohonan;",
+      "start_line": 415,
+      "end_line": 416
+    },
+    {
+      "heading": "2. kedudukan hukum Pemohon, yang memuat penjelasan mengenai hak",
+      "slug": "2-kedudukan-hukum-pemohon-yang-memuat-penjelasan-mengenai-hak",
+      "text": "dan/atau kewenangan konstitusional Pemohon yang dianggap dirugikan \ndengan berlakunya undang -undang atau Perppu yang dimohonkan \npengujian sebagaimana dimaksud dalam Pasal 4; dan",
+      "start_line": 418,
+      "end_line": 420
+    },
+    {
+      "heading": "3. alasan permohonan, yang memuat penjelasan mengenai pembentukan",
+      "slug": "3-alasan-permohonan-yang-memuat-penjelasan-mengenai-pembentukan",
+      "text": "undang-undang atau Perppu yang tidak memenuhi ketentuan pembentukan \nundang-undang atau Perppu berdasarkan UUD 1945 dan/atau bahwa materi \nmuatan ayat, pasal, dan/atau bagian dari undang -undang a tau Perppu \nbertentangan dengan UUD 1945.",
+      "start_line": 422,
+      "end_line": 425
+    },
+    {
+      "heading": "c. petitum, yang memuat hal -hal yang diminta untuk diputus dalam permohonan",
+      "slug": "c-petitum-yang-memuat-hal-hal-yang-diminta-untuk-diputus-dalam-permohonan",
+      "text": "pengujian formil sebagaimana dimaksud dalam Pasal 2 ayat (3), yaitu:",
+      "start_line": 427,
+      "end_line": 427
+    },
+    {
+      "heading": "d. petitum, yang memuat hal -hal yang diminta untuk diputus da lam permohonan",
+      "slug": "d-petitum-yang-memuat-hal-hal-yang-diminta-untuk-diputus-da-lam-permohonan",
+      "text": "pengujian materiil sebagaimana dimaksud dalam Pasal 2 ayat (4), yaitu: \n\n \n \n13",
+      "start_line": 431,
+      "end_line": 435
+    },
+    {
+      "heading": "2. menyatakan bahwa materi muatan ayat, pasal, dan/atau bagian undang -",
+      "slug": "2-menyatakan-bahwa-materi-muatan-ayat-pasal-dan-atau-bagian-undang",
+      "text": "undang atau Perppu yang dimohonkan pengujian bertentangan dengan \nUUD 1945 dan tidak mempunyai kekuatan hukum mengikat;",
+      "start_line": 438,
+      "end_line": 439
+    },
+    {
+      "heading": "3. memerintahkan pemuatan Putusan dalam Berita Negara Republik",
+      "slug": "3-memerintahkan-pemuatan-putusan-dalam-berita-negara-republik",
+      "text": "Indonesia; \natau dalam hal Mahkamah berpendapat lain, mohon Putusan yang seadil -\nadilnya (ex aequo et bono). \n[3.3.3] Bahwa terhadap persyaratan form al permohonan, in casu  sistematika \npermohonan a quo, pada dasarnya telah disusun sesuai dengan format permohonan \npengujian undang-undang sebagaimana diatur dalam Pasal 31 ayat (1) UU MK dan \nPasal 10  ayat (2)  PMK 2/2021. Namun demikian, sekalipun telah disusun dan \nmemuat sistematika permohonan sebagaimana diatur dalam ketentuan dimaksud , \npenilaian perihal syarat formal suatu permohonan tidak hanya semata-mata pada \nsistematika saja tetapi Mahkamah juga akan menilai keterpenuhan dan ketepatan \nsubstansi dari bagian sistematika dimaksud. \n Bahwa setelah Mahkamah mencermati lebih lanjut permohonan a quo \npada uraian di setiap bagian, Mahkamah mendapatkan adanya ketidakjelasan pada \nbagian yang memuat identitas Pemohon. Dalam sidang  Perbaikan Permohonan \ntanggal 23 September 2024, Mahkamah kembali mengkonfirmasi kepada Pemohon \nterkait dengan perubahan dalam bagian identitas Pemohon dan dokumen surat \nkuasa yang diserahkan kepada Mahkamah karena dalam perbaikan \npermohonannya, Pemohon bertindak sendiri tanpa didampingi kuasa hukum. Dalam \nsidang perbaikan permohonan, Pemohon menyatakan bahwa surat kuasa tersebut \nmerupakan bukti Pemohon mewakili Harmiati dalam mengajukan permohonan [vide \nRisalah Sidang tanggal 24 September 2024, hlm.4 – 5]. Padahal sebelumnya dalam \npersidangan pendahuluan , Pemohon adalah penerima kuasa dari Harmiati. Oleh \nkarena itu, menjadi tidak jelas siapa yang bertindak menjadi Pemohon, sehingga \nPemohon tidak menyertakan surat kuasa kembali pada perbaikan permohonannya. \n Bahwa pada bagian kedudukan hukum, Pemohon tidak memberikan \nargumentasi hukum yang jelas mengenai keterkaitan antara hak konstitusional dan \nkerugian yang dialami oleh Pemohon, adanya unsur sebab-akibat dari keberlakuan \nnorma a quo terhadap hak konstitusio nalnya. Kemudian pada bagian posita \npermohonan, Pemohon lebih banyak menerangkan persoalan konkrit yang dialami \ntanpa disertai argumentasi yang menerangkan pertentangan pasal a quo dengan \n\n \n \n14 \nUUD NRI Tahun 1945. Selain itu, Pemohon juga menguraikan penjelasan yang \nkurang relevan dengan norma a quo, karena itu sulit bagi Mahkamah untuk dapat \nmengetahui dan memahami dengan jelas keterkaitan antara keberlakuan norma \nyang diujikan dengan hak konstitusional yang dimaksud Pemohon. Mahkamah pun \ntidak menemukan argumentasi mengenai pertentangan antara norma yang diujikan \ndengan UUD NRI Tahun 1945 padahal hal tersebut penting bagi Mahkamah untuk \nmenilai norma yang dimohonkan Pemohon.  \n Selanjutnya, pada bagian hal -hal yang diminta untuk diputus (petitum), \npada pokoknya, dalam petitum angka 2 dan angka 3 Pemohon memohon kepada \nMahkamah untuk:",
+      "start_line": 441,
+      "end_line": 484
+    },
+    {
+      "heading": "2. Menyatakan agar Undang -Undang Nomor 5 Tahun 1960 tentang",
+      "slug": "2-menyatakan-agar-undang-undang-nomor-5-tahun-1960-tentang",
+      "text": "Peraturan Dasar Pokok -Pokok Agraria Pasal 2 ayat (2) huruf c, \n(Menentukan dan mengatur hubungan hubungan hukum antara orang \norang. Dan perbuatan perbuatan hukum yang mengenai bumi, air dan \nruangan angkasa) dihapus, karena Peraturan Dasar Pokok -Pokok \nAgraria Nomor 5 Tahun 1960 Pasal 2 ayat (2) huruf c, tidak ada asas \ntanah dan jelas pelaksanaannya melanggar konstitusi, sehingga \npelaksanaan UU Peraturan Dasar Pokok -Pokok Agraria Nomor 5 \nTahun 1960 Pasal 2 ayat (2) huruf c oleh penyelenggara negara \nmengabaikan badan hukum penguasaan tanah oleh Pemohon (Bukti \nP-2, P-4, P-5, P-6, P-7, P-8, P-9, P-10, P-11, P-12) dan bertentangan \ndengan amanat UUD 1945 Pasal 27 ayat (1), dan Pemohon dirugikan, \nagar kepastian hukum terhadap UU Peraturan Dasar Pokok -Pokok \nAgraria Nomor 5 Tahun 1960 Pasal 2 ayat (2) huruf c ada dan jelas \nberbunyi (memberikan hak dan mencabut hak pada badan -badan \nhukum juga terhadap orang -orang dan perbuatan -perbuatan hukum \nmengenai bumi, tanah, air dan liang angkasa, dikabulkan);",
+      "start_line": 486,
+      "end_line": 501
+    },
+    {
+      "heading": "3. Menyatakan bahwa pada Pasal 17 ayat (3) tanah -tanah yang",
+      "slug": "3-menyatakan-bahwa-pada-pasal-17-ayat-3-tanah-tanah-yang",
+      "text": "merupakan berkelebihan dari batas maksimum termasuk dalam ayat \n(2) pasal ini diambil oleh pemerintah dengan ganti rugi kerugian untuk \nselanjutnya dibagikan rakyat yang membutuhkan menurut ketentuan -\nketentuan dalam peraturan pemerintah, hapus, Pasal Pengganti Pasal \n17 ayat (3) kalau masyarakat pribumi melebihi dari batas maksimum \ndalam ayat (2) pasal ini, wajib ada badan hukum, bertujuan untuk \nmemberdayakan masyarakat. \n Perihal petitum yang dimaksud Pemohon tersebut sulit dipahami oleh \nMahkamah karena bukan merupakan  bentuk petitum yang lazim digunakan dalam \npengujian undang-undang di Mahkamah Konstitusi sebagaimana diatur dalam Pasal \n10 ayat (2) huruf d PMK 2/2021 yaitu antara lain tidak mencantumkan frasa \n”bertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai kekuatan hukum \nmengikat”. \n\n \n \n15 \n Berdasarkan uraian pertimbangan hukum tersebut di atas,  secara \nkeseluruhan substansi permohonan Pemohon tidak memenuhi Pasal 10 ayat (2) \nPMK 2/2021, karena dalam permohonan Pemohon tidak memberikan argumentasi \nyang jelas mengenai pertentangan norma a quo dengan pasal dalam UUD NRI \nTahun 1945 dan Mahkamah sulit untuk memahami seluruh rumusan permohonan. \nSelain itu, s ecara formal rumusan petitum Pemohon bukanlah rumusan petitum \nsebagaimana dimaksud dalam Pasal 10 ayat (2) huruf d PMK 2/2021 dan tidak \nsesuai dengan kelaziman petitum dalam perkara pengujian undang-undang di \nMahkamah Konstitusi.  Dengan demikian, Mahkamah berpendapat permohonan \nPemohon tidak jelas atau kabur (obscuur). \n[3.4]  Menimbang bahwa  berdasarkan seluruh pertimbangan hukum di atas, \nmeskipun Mahkamah berwenang mengadili permohonan a quo, namun oleh karena \npermohonan Pemohon tidak jelas atau kabur ( obscuur) sehingga tidak memenuhi \nsyarat formil permohonan sebagaimana dimaksud  Pasal 10 ayat (2) PMK 2/2021, \nsehingga Mahkamah tidak mempertimbangkan kedudukan hukum dan permohonan \nlebih lanjut. \n[3.5]  Menimbang bahwa terhadap hal -hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 503,
+      "end_line": 537
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Mahkamah \nberkesimpulan: \n[4.1] Mahkamah berwenang mengadili permohonan Pemohon; \n[4.2] Permohonan Pemohon tidak jelas atau kabur (obscuur); \n[4.3] Kedudukan hukum Pemohon dan pokok permohonan tidak \ndipertimbangkan lebih lanjut. \n  Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945, Undang -Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun 20 03 tentang \n\n \n \n16 \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang -\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 539,
+      "end_line": 557
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh delapan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Enny Nurbaningsih , \nM. Guntur Hamzah, Anwar Usman, Arief Hidayat, Daniel Yusmic P. Foekh, Ridwan \nMansyur, dan Arsul Sani, masing-masing sebagai Anggota, pada hari Kamis, \ntanggal tiga, bulan Oktober, tahun dua ribu dua puluh empat , yang diucapkan \ndalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari  Rabu, \ntanggal enam belas, bulan Oktober, tahun dua ribu dua puluh empat , selesai \ndiucapkan pukul 11.50 WIB, oleh sembilan Hakim Konstitusi yaitu Suhartoyo selaku \nKetua merangkap Anggota, Saldi Isra , Enny Nurbaningsih , M. Guntur Hamzah , \nAnwar Usman, Arief Hidayat, Daniel Yusmic P. Foekh, Ridwan Mansyur, dan Arsul \nSani, masing-masing sebagai Anggota, dengan dibantu oleh Dian Chusnul \nChatimah sebagai Panitera Pengganti, ser ta dihadiri oleh Pemohon, Dewan \nPerwakilan Rakyat atau yang mewakili, Presiden atau yang mewakili.  \nKETUA, \nttd.  \nSuhartoyo  \n ANGGOTA-ANGGOTA, \n ttd. \nSaldi Isra \n ttd. \nEnny Nurbaningsih  \n \n\n \n \n17 \nttd.  \nM. Guntur Hamzah  \nttd.  \nAnwar Usman  \n ttd. \nArief Hidayat  \nttd.  \nDaniel Yusmic P. Foekh  \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd.  \nDian Chusnul Chatimah",
+      "start_line": 559,
+      "end_line": 604
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Yasrizal",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 5/1960 tentang Peraturan Dasar Pokok-Pokok Agraria"
+    ],
+    "constitutional_articles": [
+      "Pasal 27 ayat (1)",
+      "Pasal 33 ayat (3)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24 ayat (1)"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-9",
+      "BUKTI P-8",
+      "BUKTI P -8",
+      "BUKTI P-5",
+      "BUKTI P -9",
+      "BUKTI P-12",
+      "BUKTI P-4",
+      "BUKTI P-3",
+      "BUKTI P -4",
+      "BUKTI P-2",
+      "BUKTI P-1",
+      "BUKTI 10",
+      "BUKTI P -12",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "REFERENSI:116/PUU-XXII/2024",
+      "REFERENSI:111/PAN.MK/AP3/08/2024dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusiElektronikdenganAktaRegistrasiPerkaraKonstitusiNomor116/PUU-XXII/2024",
+      "REFERENSI:6/PMK/2005",
+      "REFERENSI:90/PUU/-XXI/2023",
+      "REFERENSI:2/Dumas/DM.05/09/2020",
+      "REFERENSI:1079/HK.02.01/4/2022",
+      "REFERENSI:02/224/64.73.100/V/2022",
+      "REFERENSI:63/Kemensetneg/D-2/Dumas/DM.05/09/2020",
+      "REFERENSI:04/LKP/Kemenkeu/VII/JKT/2023"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "Kepaniteran Mahkamah) sebagaimana mestinya dan pada sidang 9"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "M. Guntur Hamzah",
+      "Anwar Usman",
+      "Arief Hidayat",
+      "Daniel Yusmic P. Foekh",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Dian Chusnul Chatimah"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "116/PUU-XXII/2024",
+      "111/PAN.MK/AP3/08/2024dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusiElektronikdenganAktaRegistrasiPerkaraKonstitusiNomor116/PUU-XXII/2024",
+      "6/PMK/2005",
+      "90/PUU/-XXI/2023",
+      "2/Dumas/DM.05/09/2020",
+      "1079/HK.02.01/4/2022",
+      "02/224/64.73.100/V/2022",
+      "63/Kemensetneg/D-2/Dumas/DM.05/09/2020",
+      "04/LKP/Kemenkeu/VII/JKT/2023"
+    ],
+    "referenced_cases": [
+      "116/PUU-XXII/2024",
+      "111/PAN.MK/AP3/08/2024dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusiElektronikdenganAktaRegistrasiPerkaraKonstitusiNomor116/PUU-XXII/2024",
+      "6/PMK/2005",
+      "90/PUU/-XXI/2023",
+      "2/Dumas/DM.05/09/2020",
+      "1079/HK.02.01/4/2022",
+      "02/224/64.73.100/V/2022",
+      "63/Kemensetneg/D-2/Dumas/DM.05/09/2020",
+      "04/LKP/Kemenkeu/VII/JKT/2023"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

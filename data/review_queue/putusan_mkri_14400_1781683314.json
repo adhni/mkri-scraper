@@ -1,0 +1,537 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14400_1781683314.pdf",
+    "file_name": "putusan_mkri_14400_1781683314.pdf",
+    "page_count": 22,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14400_1781683314.pdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:applicant_count_high"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "160/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-06-17",
+    "decision_date_raw": "tujuh belas, bulan Juni, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 160/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,  \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat  \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara terhada p Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 6,
+      "end_line": 10
+    },
+    {
+      "heading": "1. Nama : Hambali Julianto",
+      "slug": "1-nama-hambali-julianto",
+      "text": "Pekerjaan : Karyawan Swasta \n Alamat  : Jalan Cinta Damai RT 010/RW 002, Kelurahan \nPadang Lekat, Kecamatan Kepahiang, Kabupaten \nKepahiang, Provinsi Bengkulu \n sebagai ------------------------------------------------------ -------- Pemohon I",
+      "start_line": 12,
+      "end_line": 16
+    },
+    {
+      "heading": "2. Nama : A. Adi Suseta",
+      "slug": "2-nama-a-adi-suseta",
+      "text": "Pekerjaan : Karyawan BUMD \n Alamat  : Keban Agung, Kelurahan Keban Agung, Kecamatan \nBermani Ilir, Kabupaten Kepahiang, Provinsi \nBengkulu \n sebagai ------------------------------------------------------ ------- Pemohon II",
+      "start_line": 18,
+      "end_line": 22
+    },
+    {
+      "heading": "3. Nama : Nining Lestari",
+      "slug": "3-nama-nining-lestari",
+      "text": "Pekerjaan : Mengurus Rumah Tangga \n Alamat  : Tebat Monok, Kelurahan Tebat Monok, Kecamatan \nKepahiang, Kabupaten Kepahiang, Provinsi \nBengkulu \n sebagai ------------------------------------------------------ ------ Pemohon III",
+      "start_line": 24,
+      "end_line": 28
+    },
+    {
+      "heading": "4. Nama : Yayan Yuliansyah",
+      "slug": "4-nama-yayan-yuliansyah",
+      "text": "Pekerjaan : Wiraswasta \n Alamat  : Suka Bumi, Kelurahan Suka Bumi, Kecamatan \nLebong Sakti, Kabupaten Lebong, Provinsi Bengkulu\n sebagai ------------------------------------------------------ ----- Pemohon IV \n \n\n\n2",
+      "start_line": 30,
+      "end_line": 38
+    },
+    {
+      "heading": "5. Nama : Hendri Markose",
+      "slug": "5-nama-hendri-markose",
+      "text": "Pekerjaan : Wiraswasta \n Alamat  : Jalan Raya Curup Kepahiang, RT 004/RW 001, \nKelurahan Daspetah, Kecamatan Ujan Mas, \nKabupaten Kepahiang, Provinsi Bengkulu \n sebagai ------------------------------------------------------ ------- Pemohon V",
+      "start_line": 40,
+      "end_line": 44
+    },
+    {
+      "heading": "6. Nama : Bambang Sumantri",
+      "slug": "6-nama-bambang-sumantri",
+      "text": "Pekerjaan : Petani/Pekebun \n Alamat  : Jalan Mepati 12, RT 007/RW 002, Kelurahan Rawa \nMakmur, Kecamatan Muara Bangkahulu, Kota \nBengkulu \n sebagai ------------------------------------------------------ ------ Pemohon VI\n7. \n Nama : Robi Sugara \n Pekerjaan : Belum Bekerja \n Alamat  : Kelobak, Kelurahan Kelobak, Kecamatan \nKepahiang, Kabupaten Kepahiang, Provinsi \nBengkulu \n sebagai ------------------------------------------------------ ----- Pemohon VII",
+      "start_line": 46,
+      "end_line": 57
+    },
+    {
+      "heading": "8. Nama : Gusti Hariansyah",
+      "slug": "8-nama-gusti-hariansyah",
+      "text": "Pekerjaan : Karyawan BUMD \n Alamat  : Jalan Ahmad Marzuki, RT 005/RW 002, Kelurahan \nTalang Rimbo Baru, Kecamatan Curup Tengah, \nKabupaten Rejang Lebong, Provinsi  Bengkulu \n sebagai ------------------------------------------------------ ----- Pemohon VIII",
+      "start_line": 59,
+      "end_line": 63
+    },
+    {
+      "heading": "9. Nama : Marion Angkasa Putra",
+      "slug": "9-nama-marion-angkasa-putra",
+      "text": "Pekerjaan : Karyawan Swasta \n Alamat  : Jalan A. Yani Nomor 438, RT 005/RW 002, \nKelurahan Kesambe Baru, Kecamatan Curup Timur, \nKabupaten Rejang Lebong, Provinsi  Bengkulu \n sebagai ------------------------------------------------------ ------ Pemohon IX",
+      "start_line": 65,
+      "end_line": 69
+    },
+    {
+      "heading": "10. Nama : Ade Saputra",
+      "slug": "10-nama-ade-saputra",
+      "text": "Pekerjaan : Petani/Pekebun  \n\n3 \n \n Alamat  : Jalan Cinta Damai, Kelurahan Padang Lekat, \nKecamatan Kepahiang, Kabupaten Kepahiang, \nProvinsi Bengkulu \n sebagai ------------------------------------------------------ ------ Pemohon X",
+      "start_line": 71,
+      "end_line": 78
+    },
+    {
+      "heading": "11. Nama : Marlia",
+      "slug": "11-nama-marlia",
+      "text": "Pekerjaan : Mengurus Rumah Tangga \n Alamat  : Perumahan Pesona Kepahiang Blok B9, Kelurahan \nTaba Tebelet, Kecamatan Kepahiang, Kabupaten \nKepahiang, Provinsi Bengkulu \n sebagai ------------------------------------------------------ ----- Pemohon XI \n12. \n Nama : Eva Nelly \n Pekerjaan : Guru \n Alamat  : Assolihin, RT 002/RW 001, Kelurahan Pensiunan, \nKecamatan Kepahiang, Kabupaten Kepahiang, \nProvinsi Bengkulu \n sebagai ------------------------------------------------------ ----- Pemohon XII\n13. \n Nama : Radius Saputra \n Pekerjaan : Wiraswasta \n Alamat  : Perumnas Citra Arkha Griya, RT 005/RW 000, \nKelurahan Padang Lekat, Kecamatan Kepahiang, \nKabupaten Kepahiang, Provinsi Bengkulu \n sebagai ------------------------------------------------------ ----- Pemohon XII\n14. \n Nama : Doni Suparman \n Pekerjaan : Petani/Pekebun \n Alamat  : Desa Kuto Rejo, Kelurahan Kuto Rejo, Kecamatan \nKepahiang, Kabupaten Kepahiang, Provinsi \nBengkulu \n sebagai ------------------------------------------------------ ---- Pemohon XIV",
+      "start_line": 80,
+      "end_line": 105
+    },
+    {
+      "heading": "15. Nama : Wiwik Mayang Sari",
+      "slug": "15-nama-wiwik-mayang-sari",
+      "text": "Pekerjaan : Petani/Pekebun \n Alamat  : Taba Tebelet, Kelurahan Taba Tebelet, Kecamatan \nKepahiang, Kabupaten Kepahiang, Provinsi \nBengkulu \n\n4 \n \n sebagai ------------------------------------------------------ ---- Pemohon XV",
+      "start_line": 107,
+      "end_line": 114
+    },
+    {
+      "heading": "16. Nama : Nodi Putra",
+      "slug": "16-nama-nodi-putra",
+      "text": "Pekerjaan : Karyawan BUMD \n Alamat  : Desa Taba Tebelet, Kelurahan Taba Tebelet, \nKecamatan Kepahiang, Kabupaten Kepahiang, \nProvinsi Bengkulu \n sebagai ------------------------------------------------------ ---- Pemohon XVI\nBerdasarkan Surat Kuasa Khusus bertanggal 30 April 2026, memberi kuasa kepada \nMuhammad Ade Afriansyah, S.H., C.NS., C.PM., adalah Advokat, Me diator, dan \nKonsultan Hukum pada kantor Ade & Associate yang beralamat di Jalan Pematang \nKeramat, Kelurahan Betungan, Kecamatan Selebar, Kota Bengkulu, Provinsi \nBengkulu, bertindak baik secara bersama-sama maupun sendiri-sen diri untuk dan \natas nama Pemberi Kuasa;  \nSelanjutnya Pemohon I sampai dengan Pemohon XVI disebut sebagai ----------------\n---------------------------------------------------------------------------------------- para Pemohon; \n[1.2] Membaca permohonan para Pemohon;  \n Mendengar keterangan para Pemohon;  \n Memeriksa bukti-bukti para Pemohon.",
+      "start_line": 116,
+      "end_line": 131
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 1 Mei 2026 yang diterima Kepaniteraan Mahkamah Konst itusi pada \ntanggal 2 Mei 2026 berdasarkan Akta Pengajuan Permohonan Pemoho n Nomor \n158/PUU/PAN.MK/AP3/05/2026 dan dicatat dalam Buku Registrasi Pe rkara \nKonstitusi Elektronik (e-BRPK)  dengan Nomor 160/PUU-XXIV/2026 p ada tanggal            \n4 Mei 2026, yang telah diperbaiki dengan perbaikan permohonan bertanggal 14 Mei \n2026 dan diterima Mahkamah pada tanggal 18 Mei 2026, pada pokok nya \nmenguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI \nBahwa berdasarkan Pasal 24C ayat (1) UUD NRI 1945, Mahkamah Konstitusi \nberwenang mengadili pada tingkat pertama dan terakhir yang putu sannya \n\n5 \n \nbersifat final untuk menguji undang-undang terhadap Undang-unda ng Dasar \n1945. \nDan berdasarkan Pasal 10 ayat (1) huruf a UU Nomor 24 tahun 200 3 tentang \nMahkamah Konstitusi sebagaimana telah diubah dengan Undang-unda ng \nNomor 7 Tahun 2020 disebutkan bahwa Mahkamah Konstitusi berwena ng \nmengadili pada tingkat pertama dan terakhir yang putusannya ber sifat final \nuntuk ; \na. Menguji undang-undang terhadap Undang-undang Dasar Negara \nRepublik Indonesia Tahun 1945 \nBahwa mengingat permohonan uji materil ini adalah untuk menguji  Pasal 50 \nhuruf (c dan d) Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan \nNegara terhadap UUD 1945, maka berdasarkan ketentuan a quo  s e c a r a  \nkompetensi absolut Mahkamah Konstitusi berwenang memeriksa, men gadili, \ndan memutus permohonan ini. \nII. KEDUDUKAN HUKUM ( LEGAL STANDING) \nBahwa berdasarkan Pasal 51 ayat (1) Undang-undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi sebagaimana telah diubah terakhir d engan \nUndang-Undang Nomor 7 Tahun 2020, Pemohon adalah pihak yang \nmenganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh \nberlakunya suatu undang-undang, yaitu; perorangan warga negara Indonesia, \nkesatuan masyarakat hukum adat, badan hukum publik atau privat dan/atau \nlembaga negara.  \nBahwa selanjutnya Mahkamah Konstitusi Republik Indonesia melalu i Putusan \nMahkamah Konstitusi Nomor 006/PUU-III/2005, Putusan Mahkamah Konstitusi \nNomor 003/PUU-IV/2006 telah merumuskan syarat kerugian konstitu sional, \nyaitu;",
+      "start_line": 133,
+      "end_line": 172
+    },
+    {
+      "heading": "1. Adanya hak konstitusional yang diberikan oleh UUD 1945",
+      "slug": "1-adanya-hak-konstitusional-yang-diberikan-oleh-uud-1945",
+      "text": "- Bahwa para Pemohon merupakan warga Negara Kesatuan Republik \nIndonesia yang harus dilindungi Hak atas kepastian hukum yang adil \n- Serta para Pemohon juga mempunyai Hak untuk memperoleh imbala n \ndan perlakuan yang kayak dalam hubungan kerja",
+      "start_line": 174,
+      "end_line": 177
+    },
+    {
+      "heading": "2. Adanya kerugian konstitusional",
+      "slug": "2-adanya-kerugian-konstitusional",
+      "text": "- Bahwa para Pemohon bekerja tidak menerima upah selama +- 4 ta hun \n\n6 \n \n- Dan para Pemohon Diberhentikan sepihak \n- Para Pemohon telah berupaya mencari keadilan dan telah Memili ki \nputusan pengadilan yang telah berkekuatan hukum tetap",
+      "start_line": 179,
+      "end_line": 185
+    },
+    {
+      "heading": "4. Adanya hubungan sebab akibat langsung ( causal verband)",
+      "slug": "4-adanya-hubungan-sebab-akibat-langsung-causal-verband",
+      "text": "- Bahwa atas tidak terlaksananya putusan secara langsung diseba bkan \noleh larangan normatif dalam Pasal 50 huruf c dan d UU Nomor 1 Tahun \n2004 tentang Perbendaharaan Negara.",
+      "start_line": 188,
+      "end_line": 190
+    },
+    {
+      "heading": "5. Para Pemohon telah memperoleh Putusan PHI pada Pengadilan Ne geri",
+      "slug": "5-para-pemohon-telah-memperoleh-putusan-phi-pada-pengadilan-ne-geri",
+      "text": "Bengkulu Nomor 1/Pdt.Sus-PHI.PB.EKS/2026/PNBgl tertanggal 23 \nFebruari 2026 yang telah berkekuatan hukum tetap, namun pelaksa naan \neksekusi tidak dapat dilakukan karena adanya larangan penyitaan terhadap \naset BUMD berdasarkan Pasal 50 huruf c dan d UU Nomor 1 tentang  \nPerbendaharaan Negara.",
+      "start_line": 192,
+      "end_line": 196
+    },
+    {
+      "heading": "6. Bahwa kerugian para Pemohon akan hilang apabila permohonan",
+      "slug": "6-bahwa-kerugian-para-pemohon-akan-hilang-apabila-permohonan",
+      "text": "dikabulkan. \nBahwa hak konstitusional para Pemohon yang dijamin oleh UUD 1945 meliputi; \nhak atas pengakuan, jaminan, perlindungan dan kepastian hukum y ang adil \nsebagaimana dijamin Pasal 28D ayat (1) UUD 1845, hak untuk beke rja serta \nmemperoleh imbalan dan perlakuan yang adil dan layak dalam hubungan kerja \nsebagaimana dijamin Pasal 28D ayat (2) UUD 1945, serta perlindungan dalam \nnegara hukum sebagaimana dijamin Pasal 1 ayat (3) UUD 1945. \nDengan demikian, para Pemohon memiliki legal standing yang sah dan tidak \nterbantahkan secara konstitusional. \nIII. ALASAN-ALASAN PERMOHONAN \nBahwa norma yang dimohonkan pengujian konstitusional adalah ket entuan \nPasal 50 huruf c dan d Undang-undang Nomor 1 Tahun 2004 tentang  \nPerbendaharaan Negara yang pada pokoknya melarang;  \n- Penyitaan terhadap uang atau barang milik negara/daerah \n- Serta tindakan lain yang mengakibatkan terganggunya pelaksana an tugas \npemerintah \nDalam praktik, norma tersebut telah digunakan sebagai dasar unt uk menolak \neksekusi, menghalangi pelaksanaan putusan pengadilan dan menyeb abkan \n\n7 \n \nhak warga negara yang telah diputus pengadilan menjadi tidak da pat \ndirealisasikan. \na. Bertentangan dengan Pasal 1 ayat (3) UUD 1945  \nPasal 1 ayat (3) UUD 1945 menyatakan “Negara Indonesia adalah n egara \nhukum” dengan konsekuensi utama negara hukum adalah supremasi \nhukum, persamaan dihadapan hukum, dan adanya daya paksa terhada p \nsetiap subjek hukum, termasuk negara. Sehingga dalam negara huk um \nputusan pengadilan tidak boleh berhenti hanya sebagai dokumen f ormal, \nmelainkan harus dapat dilaksanakan secara nyata. \nNamun keberadaan Pasal 50 huruf c dan d UU Nomor 1 Tahun 2004 \ntentang Perbendaharaan Negara justru terbalik dan menciptakan k ondisi \ndimana negara dapat kalah di pengadilan, tetapi tidak dapat dip aksa \nmelaksanakan putusan. Akibatnya negara memperoleh kekebalan abs olut \nterhadap pelaksanaan putusan, sedangkan warga negara kehilangan  \nperlindungan hukum yang efektif. Dengan demikian kondisi terseb ut \nbertentangan dengan prinsip supremacy of law, equality before the law dan \ndue process of law . Karena dalam praktik, negara ditempatkan diatas \nhukum dengan demikian, Pasal 50 huruf c dan d telah mereduksi k onsep \nnegara hukum menjadi sekedar formalitas tanpa mekanisme pemaksa an \nhukum terhadap negara. \nb. Bertentangan dengan Pasal 24 ayat (1) UUD 1945 \nPasal 24 ayat (1) UUD 1945 menegaskan “kekuasaan kehakiman \nmerupakan kekuasaan yang merdeka untuk menyelenggarakan peradil an \nguna menegakkan hukum dan keadilan”, makna dari menegakkan huku m \ndan keadilan tidak hanya terbatas pada proses pemeriksaan atau \npembacaan putusan melainkan juga mencakup efektivitas dan \npelaksanaan putusan pengadilan. Sebab putusan pengadilan yang t idak \ndapat dilaksanakan kehilangan daya paksa, kehilangan efektivita s dan \npada akhirnya menghilangkan makna kekuasaan kehakiman itu sendi ri. \nSehingga dalam perkara a quo para Pemohon telah memperoleh putusan \nyang berkekuatan hukum tetap namun putusan tersebut menjadi tid ak \nbernilai karena terhalang Pasal 50 huruf c dan d UU No 1 Tahun 2004 \ntentang Perbendaharaan Negara, yang akibatnya kekuasaan kehakim an \n\n8 \n \ndireduksi hanya menjadi kekuasaan simbolik tanpa kemampuan memaksa \nnegara tunduk pada hukum. Padahal dalam negara demokratis \nberdasarkan hukum tidak boleh ada pihak, termasuk negara yang k ebal \nterhadap putusan pengadilan. \nOleh karena itu, Pasal 50 huruf c dan d UU No 1 Tahun 2004 tent ang \nPerbendaharaan Negara secara nyata bertentangan dengan prinsip \nkekuasaan kehakiman yang merdeka sebagaimana dijamin Pasal 24 a yat \n(1) UUD 1945.",
+      "start_line": 198,
+      "end_line": 262
+    },
+    {
+      "heading": "c. Bertentangan dengan Pasal 28D ayat (1) UUD 1945",
+      "slug": "c-bertentangan-dengan-pasal-28d-ayat-1-uud-1945",
+      "text": "Pasal 28D ayat (1) UUD 1945 meny atakan “setiap orang berhak ata s \npengakuan, jaminan, perlindungan, dan kepastian hukum yang adil ”, \nkepastian hukum yang adil tidak dapat dimaknai hanya sebatas ad anya \nputusan pengadilan, melainkan harus mencakup kepastian bahwa putusan \ntersebut dapat dilaksanakan. Apabila putusan pengadilan yang te lah \ninkracht tidak dapat dieksekusi, tidak memiliki daya paksa maka  w a r g a  \nnegara hanya memperoleh kemenangan formal tanpa perlindungan hukum \nyang nyata. Hal tersebut merupakan bentuk ketidakpastian hukum,  \nketidakadilan dan pengingkaran terhadap hak konstitusional warga negara. \nDengan demikian Pasal 50 huruf c dan d UU Nomor 1 Tahun 2004 tentang \nPerbendaharaan Negara telah menciptakan keadaan dimana hak \nkonstitusional warga negara bergantung pada kehendak sukarela n egara \nuntuk melaksanakan putusan. Padahal pelaksanaan putusan pengadi lan \ntidak boleh bergantung pada belas kasihan pihak yang kalah.",
+      "start_line": 264,
+      "end_line": 277
+    },
+    {
+      "heading": "d. Bertentangan dengan Pasal 28D ayat (2) UUD 1945",
+      "slug": "d-bertentangan-dengan-pasal-28d-ayat-2-uud-1945",
+      "text": "Pasal 28D ayat (2) UUD 1945 menyatakan “setiap orang berhak unt uk \nbekerja serta mendapat imbalan dan perlakuan yang adil dan laya k dalam \nhubungan kerja”. Hak atas upah bukan sekedar hak keperdataan bi asa \nmelainkan hak konstitusional yang berkaitan langsung dengan \nkelangsungan hidup, martabat manusia dan kehidupan yang kayak. Dalam \nperkara a quo para Pemohon telah memperoleh putusan pengadilan \nmengenai hak upah namun hak tersebut tidak dapat dipenuhi akiba t \nterhadalang Pasal 50 huruf c dan d UU Nomor 1 Tahun 2004 tentan g \n\n9 \n \nPerbendaharaan Negara, yang akibatnya hak konstitusional para Pemohon \nmenjadi tidak terlindungi, bahkan kehilangan makna secara nyata. \nDengan demikian Pasal 50 huruf c dan d secara langsung telah \nmenghalangi pemenuhan hak upah dan bertentangan dengan Pasal 28 D \nayat (2) UUD 1945. \nBahwa terhadap kemungkinan dalil yang menyatakan aset BUMD meru pakan \naset negara yang kebal dari pelaksanaan putusan pengadilan, par a Pemohon \nberpendapat bahwa pandangan demikian tidak dapat dimaknai secara absolut \nmenurut konstitusi. \nBahwa BUMD pada hakikatnya merupakan badan hukum yang menjalank an \nkegiatan usaha dan melakukan hubungan keperdataan dengan masyar akat, \ntermasuk hubungan kerja dengan pekerja. Dalam kedudukannya seba gai \nbadan hukum, BUMD tidak semata-mata menjalankan fungsi pemerint ahan, \nmelainkan juga bertindak sebagai subjek hukum perdata yang dapat membuat \nperjanjian, memperoleh keuntungan, menanggung kewajiban, serta dapat \ndigugat di hadapan pengadilan. \nBahwa kekayaan negara yang telah dipisahkan pada BUMD secara yu ridis \ntelah ditempatkan sebagai modal usaha badan hukum yang terpisah  dari \nkeuangan negara yang digunakan secara langsung untuk menjalanka n fungsi \npemerintahan. Oleh karena itu, perlindungan terhadap aset negara tidak dapat \ndimaknai secara mutlak hingga menghilangkan hak konstitusional warga \nnegara yang memperoleh putusan pengadilan berkekuatan hukum tetap. \nBahwa apabila seluruh aset BUMD diperlakukan secara absolut kebal terhadap \npelaksanaan putusan pengadilan, maka keadaan demikian akan menimbulkan \nketimpangan konstitusional, karena :  \n- BUMD dapat melakukan hubungan hukum privat \n- BUMD dapat dinyatakan kalah di pengadilan \n- Namun kewajibannya tidak dapat dipaksa untuk dilaksanakan \nKeadaan demikian bertentangan dengan prinsip equality before the law  dan \nmenempatkan BUMD dalam posisi memperoleh keistimewaan yang \nmelampaui prinsip negara hukum demokratis. \nBahwa perlindungan terhadap pelayanan publik memang penting, na mun \nperlindungan tersebut tidak boleh berubah menjadi impunitas put usan \n\n10 \n \npengadilan, terlebih dalam perkara hak upah pekerja yang merupa kan hak \nkonstitusional yang berkaitan langsung dengan kelangsungan hidup manusia. \nBahwa perlindungan terhadap aset negara memang diperlukan untuk menjaga \npelayanan publik, namun perlindungan tersebut tidak boleh menjadi kekebalan \nabsolut negara terhadap hukum. Dalam praktik akibat Pasal 50 hu ruf c dan d \nUU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara, negara dapat kalah",
+      "start_line": 279,
+      "end_line": 331
+    },
+    {
+      "heading": "di pengadilan tetapi tetap tidak dapat dipaksa melaksanakan kew ajibannya.",
+      "slug": "di-pengadilan-tetapi-tetap-tidak-dapat-dipaksa-melaksanakan-kew-ajibannya",
+      "text": "Kondisi tersebut menciptakan state immunity against judicial enforcement yang \nbertentangan dengan prinsip negara hukum, prinsip persamaan dih adapan \nhukum dan prinsip keadilan konstitusional. \nBahwa Pasal 50 huruf c dan d UU Nomor 1 Tahun 2004 tentang \nPerbendaharaan Negara telah menghilangkan daya paksa putusan \npengadilan, mereduksi kekuasaan kehakiman, menciptakan ketidakp astian \nhukum, menghalangi pemenuhan hak atas upah serta menempatkan ne gara \nseolah kebal terhadap hukum. Oleh karena itu, Pasal 50 huruf c dan d UU \nNomor 1 Tahun 2004 tentang Perbendaharaan Negara bertentangan d engan \nPasal 1 ayat (3), Pasal 24 ayat (1), Pasal 28D ayat (1), dan Pasal 28D ayat (2) \nUUD 1945, serta patut dinyatakan inkonstitusional bersyarat sep anjang \ndimaknai menghalangi pelaksanaan pengadilan yang telah berkekua tan \nhukum tetap, khususnya terkait pemenuhan hak upah pekerja pada \nBUMN/BUMD. \nBahwa potensi dalil ini adalah ma salah teknis pelaksanaan adala h keliru \nsecara konstitusional karena, hambatan tidak berasal dari aparat tetapi berasal \ndari norma larangan eksplisit yang struktur kausalnya adalah Pasal 50 huruf c \ndan d UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara laran gan \npenyitaan, tidak ada eksekusi dan hak hilang. Jika tanpa Pasal 50 huruf c dan",
+      "start_line": 333,
+      "end_line": 351
+    },
+    {
+      "heading": "d UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara eksekusi dapat",
+      "slug": "d-uu-nomor-1-tahun-2004-tentang-perbendaharaan-negara-eksekusi-dapat",
+      "text": "dilakukan dan hak pemohon dapat dipenuhi dengan demikian, ini a dalah \nconstitutional defect of norm, bukan persoalan praktik. \nBahwa hak upah memiliki karakter bukan utang komersial biasa, m erupakan \nhak konstitusional dan bersifat mendesak dan menyangkut hidup. Namun jika \nupah disamakan dengan utang negara adalah bentuk reduksi terhad ap \n\n11 \n \nkonstitusional warga negara, oleh karena itu hak upah harus dikecualikan dari \nperlindungan Pasal 50 huruf c dan d Undang-undang No. 1 Tahun 2004. \nBahwa selain bertentangan secara langsung dengan ketentuan Pasa l 1 ayat \n(3), Pasal 24 ayat (1), Pasal 28D ayat (1) dan Pasal 28D ayat ( 2) Undang-\nundang Dasar Negara Republik Indonesia Tahun 1945, norma Pasal 50 huruf",
+      "start_line": 353,
+      "end_line": 365
+    },
+    {
+      "heading": "c dan d Undang-undang Nomor 1 Tahun 2004 tentang Perbendaharaan",
+      "slug": "c-dan-d-undang-undang-nomor-1-tahun-2004-tentang-perbendaharaan",
+      "text": "Negara juga bertentangan dengan prinsip-prinsip konstitusional yang telah \nditegaskan secara konsisten dalam berbagai putusan Mahkamah Kon stitusi \nRepublik Indonesia sebagai the guardian of constitution dan the sole interpreter \nof constitution. \nBahwa dalam Putusan Mahkamah Konstitusi Nomor 012-016-019/PUU-\nIV/2006, Mahkamah pada pokoknya menegaskan bahwa konsep negara \nhukum sebagaimana dimaksud Pasal 1 ayat (3) UUD 1945 mengandung  \nsupremasi hukum, persamaan dihadapan hukum, perlindungan hak as asi \nmanusia, dan kepastian hukum yang adil.  \nBahwa berdasarkan prinsip negara hukum tersebut, tidak boleh terdapat subjek \nhukum yang memperoleh kekebalan absolut terhadap hukum, termasu k \nnegara itu sendiri. Oleh karena itu, apabila negara dapat dinya takan kalah \nmelalui putusan pengadilan yang telah berkekuatan hukum tetap n amun tidak \ndapat dipaksa melaksanakan kewajibannya akibat hambatan normati f, maka \nkeadaan demikian nyata-nyata bertentangan dengan prinsip supremacy of law \ndan equality before the law. \nBahwa keberadaan Pasal 50 huruf c dan d Undang-undang Nomor 1 T ahun \n2004 tentang Perbendaharaan Negara dalam praktik telah menciptakan bentuk \nimmunity against judicial enforcement , yaitu keadaan di mana negara tetap \ndapat menghindari pelaksanaan putusan pengadilan melalui perlin dungan \nnormatif terhadap aset negara/daerah. Kondisi demikian tidak se jalan dengan \nprinsip negara hukum dalam UUD 1945. \nBahwa Mahkamah Konstitusi dalam Putusan Nomor 001-021-022/PUU-I/2003 \npada pokoknya menegaskan bahwa kekuasaan kehakiman merupakan \nkekuasaan yang merdeka untuk menegakkan hukum dan keadilan seca ra \nnyata, bukan sekedar menghasilkan putusan formal tanpa efektivi tas \npelaksanaan. \n\n12 \n \nBahwa makna “menegakkan hukum dan keadilan” sebagaimana dimaksu d \nPasal 24 ayat (1) UUD 1945 tidak dapat dipisahkan dari kemampua n putusan \npengadilan untuk dilaksanakan secara efektif. Sebab putusan pengadilan yang \ntidak dapat dieksekusi pada hakikatnya kehilangan daya paksa hu kum dan \nhanya menyisakan kemenangan formal semata. \nBahwa dalam perkara a quo , para Pemohon telah memperoleh putusan \npengadilan yang berkekuatan hukum tetap terkait hak upah para p emohon, \nnamun pelaksanaannya terhalang secara normatif akibat ketentuan  Pasal 50 \nhuruf c dan d UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara. \nDengan demikian, norma a quo  secara nyata telah mereduksi fungsi \nkekuasaan kehakiman menjadi simbolik dan bertentangan dengan pr insip \nindependent and effective judiciary  sebagaimana dijamin oleh Pasal 24 ayat \n(1) UUD 1945. \nBahwa Mahkamah Konstitusi dalam Putusan Nomor 67/PUU-XI/2013 te lah \nmenegaskan bahwa hak pekerja atas upah merupakan hak konstitusional yang \nberkaitan langsung dengan kelangsungan hidup, martabat manusia,  d a n  \nperlindungan terhadap kehidupan yang layak.  \nBahwa Mahkamah juga menegaskan bahwa hak pekerja tidak dapat \ndiposisikan semata-mata sebagai hak keperdataan biasa, melainka n \nmerupakan bagian dari perlindungan konstitusional sebagaimana d ijamin \nPasal 28D ayat (2) UUD 1945. \nBahwa oleh karena itu, ketika para Pemohon yang telah memperoleh putusan \npengadilan berkekuatan hukum tetap mengenai hak upah ternyata t etap tidak \ndapat memperoleh realisasi haknya akibat hambatan normatif Pasal 50 huruf c \ndan d UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara, maka  \nkeadaan tersebut telah menimbulkan kerugian konstitusional yang  nyata bagi \npara Pemohon.  \nDengan demikian, norma a quo  telah bertentangan dengan kewajiban \nkonstitusional negara untuk memberikan perlindungan nyata terha dap hak \npekerja atas imbalan dan perlakuan yang adil dan layak dalam hubungan kerja. \nBahwa Mahkamah Konstitusi melalui Putusan Nomor 003/PUU-IV/2006  da n \nputusan-putusan setelahnya telah merumuskan syarat kerugian konstitusional \nyang meliputi :  \n\n13 \n \n- Adanya hak konstitusional yang diberikan UUD 1945 \n- Adanya kerugian konstitusional \n- Kerugian bersifat spesifik dan aktual atau setidak-tidaknya p otensial yang \nmenurut penalaran wajar dapat dipastikan terjadi \n- Adanya hubungan sebab akibat ( causal verband) \n- Adanya kemungkinan bahwa kerugian tersebut tidak akan terjadi  apabila \npermohonan dikabulkan \nBahwa seluruh syarat tersebut telah dipenuhi para Pemohon, karena :  \n- Para Pemohon memiliki hak konstitusional atas kepastian hukum  yang adil \ndan hak atas upah \n- Para Pemohon mengalami kerugian nyata berupa tidak terpenuhin ya hak \nupah meskipun telah memperoleh putusan pengadilan berkekuatan hukum \ntetap \n- Kerugian tersebut secara langsung disebabkan oleh keberlakuan  Pasal 50 \nhuruf c dan d UU Nomor 1 Tahun 2004 tentang Perbendaharaan Nega ra \nyang menghambat pelaksanaan eksekusi \n- Dan kerugian konstitusional tersebut akan hilang apabila Mahk amah \nmengabulkan permohonan a quo \nBahwa permohonan a quo  pada hakikatnya tidak sekedar menyangkut \npersoalan administratif pengelolaan keuangan negara, melainkan menyangkut \neksistensi prinsip negara hukum itu sendiri, yaitu apakah negar a dapat \ndibenarkan untuk tidak tunduk terhadap putusan pengadilan yang telah \nberkekuatan hukum tetap. \nBahwa apabila Pasal 50 huruf c dan d UU Nomor 1 Tahun 2004 tent ang \nPerbendaharaan negara dimaknai secara absolut sehingga menghala ngi \npelaksanaan putusan pengadilan, maka :  \n- Negara memperoleh kekebalan terhadap hukum \n- Putusan pengadilan kehilangan daya paksa \n- Kekuasaan kehakiman kehilangan efektivitas \n- Dan hak konstitusional warga negara kehilangan perlindungan n yata \nKeadaan demikian jelas bertentangan dengan prinsip constitutional supremacy \ndan due process of law  dalam negara hukum demokratis berdasarkan UUD \n1945. \n\n14 \n \nOleh karena itu, demi menjaga wibawa konstitusi, menjaga efekti vitas \nkekuasaan kehakiman, serta memastikan perlindungan nyata terhad ap hak \nkonstitusional warga negara, Mahkamah Konstitusi berasalan menurut hukum \nuntuk menyatakan Pasal 50 huruf c dan d UU Nomor 1 Tahun 2004 t entang \nPerbendaharaan Negara inkonstitusional bersyarat sepanjang dima knai \nmenghalangi pelaksanaan putusan pengadilan yang telah berkekuatan hukum \ntetap terkait pemenuhan hak konstitusional warga negara, khususnya hak upah \npekerja. \nBahwa dalam negara hukum modern, pelaksanaan putusan pengadilan  \nmerupakan bagian yang tidak terpisahkan dari hak atas peradilan yang adil (fair \ntrial) dan perlindungan hukum yang efektif (effective legal protection). \nBahwa putusan pengadilan yang tidak dapat dilaksanakan pada hak ikatnya \nsama dengan pengingkaran terhadap keadilan itu sendiri, karena hukum \nkehilangan daya paksa dan warga negara kehilangan perlindungan nyata atas \nhak-haknya. \nBahwa secara konstitusional kekuasaan kehakiman tidak berhenti pada \npembacaan putusan, melainkan harus dipahami mencakup constituti onal \nenforcement, yaitu kemampuan negara hukum untuk memastikan seti ap \nputusan pengadilan dilaksanakan secara efektif terhadap siapapu n tanpa \npengecualian. \nBahwa apabila negara atau badan usaha milik negara/daerah dapat dinyatakan \nkalah melalui putusan pengadilan yang berkekuatan hukum tetap namun tetap \ntidak dapat dipaksa melaksanakan kewajibannya akibat perlindungan normatif \nyang absolut, maka keadaan demikian:  \n- Mereduksi supremasi konstitusi \n- Menghilangkan efektivitas kekuasaan kehakiman \n- Menciptakan constitutional immunity \n- Dan pada akhirnya menghilangkan makna negara hukum sebagaiman a \ndijamin Pasal 1 ayat (3) UUD 1945 \nBahwa oleh karena itu, Mahkamah Konstitusi sebagai the guardian of \nconstitution memiliki kewajiban konstitusional untuk memastikan tidak terdapat \nnorma undang-undang yang menghalangi efektivitas putusan pengadilan serta \nmenghilangkan perlindungan nyata terhadap hak konstitusional warga negara. \n\n15",
+      "start_line": 367,
+      "end_line": 504
+    },
+    {
+      "heading": "PETITUM",
+      "slug": "petitum",
+      "text": "Berdasarkan seluruh uraian fakta, argumentasi konstitusional, s erta alasan \nhukum yang telah dikemukakan, para Pemohon memohon kepada Majel is \nHakim Konstitusi pada Mahkamah Konstitusi Republik Indonesia un tuk \nmenjatuhkan putusan sebagai berikut:",
+      "start_line": 506,
+      "end_line": 509
+    },
+    {
+      "heading": "2. Menyatakan Pasal 50 huruf c dan d UU Nomor 1 Tahun 2004 tent ang",
+      "slug": "2-menyatakan-pasal-50-huruf-c-dan-d-uu-nomor-1-tahun-2004-tent-ang",
+      "text": "Perbendaharaan Negara bertentangan secara bersyarat dengan Unda ng-\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan tidak \nmempunyai kekuatan hukum mengikat sepanjang tidak dimaknai: “larangan \npenyitaan terhadap uang, barang milik negara/daerah maupun tindakan lain \nyang mengakibatkan terganggunya pelaksanaan tugas pemerintah ti dak \nberlaku terhadap pelaksanaan putusan pengadilan yang telah berkekuatan \nhukum tetap dalam pemenuhan hak konstitusional warga negara, \nkhususnya hak upah pekerja pada BUMN/BUMD yang bertindak dalam \nhubungan hukum keperdataan”.",
+      "start_line": 512,
+      "end_line": 520
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila yang Mulia Majelis Hakim Mahkamah Konstitusi berpendapa t lain \nmohon menjatuhkan putusan yang seadil-adilnya (ex aequo et bono).",
+      "start_line": 522,
+      "end_line": 524
+    },
+    {
+      "heading": "PENUTUP",
+      "slug": "penutup",
+      "text": "Bahwa permohonan a quo bukan sekedar perkara mengenai hak upah atau \nsengketa keperdataan biasa, melainkan menyangkut prinsip fundam ental \nnegara hukum “apakah putusan pengadilan masih memiliki daya pak sa \nterhadap negara”, dalam kenyataannya keberadaan Pasal 50 Huruf c dan d UU \nNo. 1 Tahun 2004 tentang Perbendaharaan Negara telah menyebabka n \nputusan pengadilan yang telah berkekuatan hukum tetap tidak dap at \ndilaksanakan, hak konstitusional warga negara kehilangan perlindungan nyata, \ndan kekuasaan kehakiman kehilangan efektivitasnya. Apabila kead aan \ndemikian terus dibiarkan maka, hukum hanya berhenti pada putusan, keadilan \nhanya menjadi formalitas dan negara hukum kehilangan makna \nsubstansialnya.  \n\n16 \n \nPara Pemohon meyakini bahwa Mahkamah Konstitusi Republik Indone sia \nsebagai penjaga konstitusi ( the guardian of constitution ) memiliki tanggung \njawab konstitusional untuk memastikan tidak ada kekuasaan yang kebal \nterhadap hukum, setiap putusan pengadilan tetap memiliki daya p aksa, dan \nhak konstitusional warga negara memperoleh perlindungan yang ny ata dan \nefektif. Oleh karena itu, para Pemohon memohon agar Mahkamah Ko nstitusi \nberkenan mengabulkan permohonan a quo  d e m i  t e g a k n y a  s u p r e m a s i  \nkonstitusi, kepastian hukum, keadilan dan kewibawaan hukum di N egara \nRepublik Indonesia. \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, para Pemohon \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-6, sebagai \nberikut: \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 526,
+      "end_line": 554
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun",
+      "start_line": 556,
+      "end_line": 558
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Surat Perjanjian Kontrak Kerja Badan Us aha",
+      "slug": "3-bukti-p-3-fotokopi-surat-perjanjian-kontrak-kerja-badan-us-aha",
+      "text": "Milik Daerah (BUMD), PDAM Kepahiang;",
+      "start_line": 562,
+      "end_line": 562
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Re laas Pemberitahuan Panggilan Aanmaning",
+      "slug": "4-bukti-p-4-fotokopi-re-laas-pemberitahuan-panggilan-aanmaning",
+      "text": "(Surat Tercatat) Nomor 1/Pdt.Sus-PHI.PB.Eks/2026/PN \nBgl;",
+      "start_line": 564,
+      "end_line": 565
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Penetapan Ketua Pengadilan Negeri Bengk ulu",
+      "slug": "5-bukti-p-5-fotokopi-penetapan-ketua-pengadilan-negeri-bengk-ulu",
+      "text": "Nomor 1/Pdt.Sus-PHI.PB.EKS/2026/PN Bgl tertanggal \n23 Februari 2026;",
+      "start_line": 567,
+      "end_line": 568
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Daftar Tunggakan Gaji Karyawan PDAM Tir ta",
+      "slug": "6-bukti-p-6-fotokopi-daftar-tunggakan-gaji-karyawan-pdam-tir-ta",
+      "text": "Alami Kabupaten Kepahiang. \n\n17 \n \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a \nUndang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembar an Negara \nRepublik Indonesia Nomor 5076), Mahkamah berwenang, antara lain , mengadili \npada tingkat pertama dan terakhir yang putusannya bersifat fina l untuk menguji \nundang-undang terhadap UUD NRI Tahun 1945. \n[3.2]  Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu  norma Pasal 50 huruf c dan huruf d \nUndang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara (Lembaran \nNegara Republik Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran  Negara \nRepublik Indonesia Nomor 4355, selanjutnya disebut UU 1/2004) terhadap UUD NRI \nTahun 1945 maka Mahkamah berwenang mengadili permohonan a quo. \n[3.3]  Menimbang bahwa meskipun ber wenang untuk mengadili permohonan  \npara Pemohon, namun demikian sebelum mempertimbangkan lebih lanjut mengenai \nkedudukan hukum dan pokok permohonan, Mahkamah mempertimbangkan hal-hal \nsebagai berikut. \n[3.3.1]  Bahwa sesuai dengan  ketentuan hukum acara pengujian undang-\nundang, Mahkamah telah melaksanakan sidang pemeriksaan pendahuluan dengan \nagenda mendengarkan pokok-pokok permohonan, memeriksa kelengkap an dan \nkejelasan materi permohonan pada tanggal 11 Mei 2026.  Dalam persidangan \ntersebut, sesuai dengan Pasal 39 UU MK dan Pasal 36 ayat (3) PM K 7/2025 , \nMahkamah telah memberikan nasihat kepada para Pemohon agar memp erbaiki \nsekaligus memperjelas hal-hal yang berkaitan dengan permohonan para Pemohon, \nyakni perihal kewenangan Mahkamah, kedudukan hukum ( legal standing), alasan-\nalasan permohonan (posita), dan hal-hal yang dimohonkan untuk d iputus (petitum) \nsehingga permohonan a quo sesuai dengan sistematika permohonan sebagaimana \n\n18 \n \ndiatur dalam PMK 7/2025 [vide Risalah Sidang, tanggal 11 Mei 20 26, hlm. 8-19]. \nSesuai dengan ketentuan hukum acara, Mahkamah telah memberikan kesempatan \nkepada para Pemohon untuk memperbaiki pemohonan paling lama 14 (empat \nbelas) hari sejak sidang pemeriksaan pendahuluan dengan batas waktu penyerahan \nperbaikan pada hari Senin, tanggal 25 Mei 2026 pukul 12.00 WIB.  Berkenaan \ndengan batas waktu dimaksud, para Pemohon telah menyampaikan pe rbaikan \npermohonan yang diterima Mahkamah pada tanggal 18 Mei 2026.  \n[3.3.2] Bahwa selanjutnya, berkenaan dengan uraian dalam Sub-paragraf [3.3.1] \ntersebut di atas, Mahkamah akan menilai perihal syarat formal s uatu permohonan \nterutama berkaitan dengan uraian yang jelas ihwal pengujian und ang-undang \nterhadap UUD NRI Tahun 1945 sesuai dengan ketentuan Pasal 30 hu ruf a dan \nPasal 31 ayat (1) UU MK serta Pasal 10 ayat (3) dan Pasal 36 ayat (1) PMK 7/2025, \nsebagai berikut: \nPasal 30 huruf a UU MK  \nPermohonan wajib dibuat dengan uraian yang jelas mengenai:  \na. pengujian undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; \nPasal 31 ayat (1) UU MK \n(1) Permohonan sekurang-kurangnya harus memuat:  \na. nama dan alamat pemohon;  \nb. uraian mengenai perihal yang menjadi dasar permohonan \nsebagaimana dimaksud dalam Pasal 30; dan",
+      "start_line": 570,
+      "end_line": 629
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025 \n(3)  Permohonan sebagaimana dimaksud pada ayat (1), sekurang-\nkurangnya memuat nama dan alamat Pemohon dengan menguraikan \nhal-hal antara lain:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 631,
+      "end_line": 636
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025 \n(1) Dalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam Pa sal \n35 ayat (1) huruf a, Mahkamah memeriksa identitas Pemohon denga n \nkelengkapan dan kejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 639,
+      "end_line": 644
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "19 \n \n[3.3.3] Bahwa terhadap persyaratan formal permohonan tersebut di atas,  pada \ndasarnya permohonan para Pemohon telah disusun sesuai dengan sistematika atau \nformat permohonan sebagaimana diatur dalam Pasal 31 ayat (1) UU MK dan Pasal \n10 ayat (3) PMK 7/2025. Secara formil permohonan telah menguraikan kewenangan \nMahkamah, kedudukan hukum para Pemohon, alasan-alasan permohonan (posita), \ndan hal-hal yang dimohonkan untuk diputus (petitum). Namun demi kian, sekalipun \nsecara formil permohonan telah disusun sesuai dengan sistematik a permohonan \nberdasarkan PMK 7/2025, namun Mahkamah menilai perihal keterpen uhan syarat \nformil suatu permohonan tidak hanya semata-mata pada sistematika an sich, tetapi \njuga menilai keterpenuhan dan ketepatan isi/substansi dari setiap bagian yang ada \ndalam sistematika dimaksud. \n[3.3.4]   Bahwa berdasarkan ketentuan pada Sub-paragraf [3.3.2] tersebut di atas \ndan setelah membaca secara saksama permohonan a quo, Mahkamah menemukan \nfakta hukum antara lain sebagai berikut. \nBahwa setelah membaca secara komprehensif uraian bagian keduduk an \nhukum, para Pemohon menyatakan kualifikasinya sebagai perseoran gan warga \nnegara Indonesia yang memiliki hak untuk memperoleh imbalan dan perlakuan yang \nlayak dalam hubungan kerja. Dalam hal ini, para Pemohon meneran gkan telah \ndiberhentikan secara sepihak dan tidak menerima upah selama kurang lebih empat \ntahun. Berkenaan dengan hal tersebut, para Pemohon telah memper juangkan \nhaknya dengan mengajukan gugatan ke pengadilan dan memperoleh P enetapan \ndari Pengadilan Negeri Bengkulu Nomor 1/Pdt.Sus-PHI.PB.EKS/2026 /PNBgl \ntertanggal 23 Februari 2026. Namun demikian, pelaksanaan ekseku si penetapan \ndimaksud terhambat karena adanya larangan penyitaan terhadap aset BUMD yang \ndiatur dalam norma Pasal 50 huruf c dan huruf d UU 1/2004. Dala m hal ini, setelah \nmembaca lebih lanjut bagian kedudukan hukum, Mahkamah tidak men emukan \nuraian yang menjelaskan anggapan kerugian hak konstitusional pa ra Pemohon \ndengan berlakunya norma undang-undang yang dimohonkan pengujian. Berkenaan \ndengan hal tersebut, norma Pasal 50 huruf c dan huruf d UU 1/20 04 yang \nmenyatakan, “c. barang bergerak milik negara/daerah baik yang b erada pada \ninstansi Pemerintah maupun pada pihak ketiga; d. barang tidak b ergerak dan hak \nkebendaan lainnya milik negara/daerah”, tidak jelas hubungannya  antara norma  \na quo dengan anggapan kerugian hak konstitusional yang dialami oleh p ara \n\n20 \n \nPemohon. Dalam hal ini, uraian para Pemohon pada bagian keduduk an hukum \nangka 1 sampai dengan angka 5 tidak menunjukkan adanya hubungan sebab-akibat \n(causal verband) antara berlakunya norma Pasal 50 huruf c dan huruf d UU 1/2004 \ndengan anggapan kerugian hak konstitusional dalam UUD NRI Tahun 1945.   \nBahwa selanjutnya, berkenaan dengan uraian alasan-alasan permohonan \n(posita), setelah Mahkamah membaca secara saksama, terlepas ada atau tidaknya \npersoalan konstitusionalitas norma yang dimohonkan pengujian, telah ternyata pada \nbagian alasan-alasan permohonan (posita) tidak terdapat uraian yang jelas dan \nmemadai perihal pertentangan antara norma yang dimohonkan pengu jian dengan \npasal yang dijadikan dasar pengujian, in casu uraian pertentangan antara norma \nPasal 50 huruf c dan huruf d UU 1/2004 dengan dasar pengujian, yaitu Pasal 1 ayat \n(3), Pasal 24 ayat (1), Pasal 28D ayat (1) dan ayat (2) UUD NRI  Tahun 1945. \nPadahal, uraian yang jelas dan memadai perihal pertentangan ant ara norma yang \ndimohonkan pengujian dengan dasar pengujian merupakan hal yang esensial dalam \nbagian alasan-alasan permohonan (posita). Tanpa uraian yang jel as dan memadai \ndimaksud, Mahkamah tidak dapat menilai perihal ada atau tidakny a pertentangan \nantara norma undang-undang yang dimohonkan pengujian konstitusi onalitasnya \ndengan dasar pengujian dalam UUD NRI Tahun 1945. Bahkan, sebagi an uraian \npada alasan-alasan permohonan dapat dinilai sebagai penjelasan lebih lanjut dari \nisi/substansi yang seharusnya dimuat dalam bagian kedudukan hukum.     \nBahwa berdasarkan uraian fakta dan pertimbangan hukum sebagaima na",
+      "start_line": 647,
+      "end_line": 706
+    },
+    {
+      "heading": "di atas, oleh karena uraian ihwal kedudukan hukum dan alasan-alasan permohonan",
+      "slug": "di-atas-oleh-karena-uraian-ihwal-kedudukan-hukum-dan-alasan-alasan-permohonan",
+      "text": "tidak jelas, tidak terdapat keraguan bagi Mahkamah untuk menyatakan permohonan \nPemohon tidak jelas atau kabur (obscuur). \n[3.4] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, meskipun Mahkamah berwenang mengadili permoho nan para \nPemohon, namun oleh karena permohonan para Pemohon tidak jelas atau kabur \n(obscuur), maka Mahkamah tidak mempertimbangkan lebih lanjut permohonan para \nPemohon. \n[3.5] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya. \n\n21",
+      "start_line": 708,
+      "end_line": 719
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 721,
+      "end_line": 721
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan  a quo; \n[4.2]  Permohonan para Pemohon tidak jelas atau kabur ( obscuur); \n[4.3]  Permohonan para Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554) da n Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 723,
+      "end_line": 734
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan para Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nAdies Kadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Y usmic P. Foekh,  \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \nAnggota, pada hari Selasa, tanggal dua puluh enam , bulan Mei, tahun dua ribu \ndua puluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \nterbuka untuk umum pada hari Rabu, tanggal tujuh belas, bulan Juni, tahun dua \nribu dua puluh enam, selesai diucapkan pukul  14.25 WIB , oleh sembilan Hakim \nKonstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Sald i Isra, Adies \nKadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Yusmic P. Foekh,  \nM. Guntur Hamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing  sebagai \n\n22 \n \nAnggota, dengan dibantu oleh Ria Indriyani sebagai Panitera Pen gganti, serta \ndihadiri Dewan Perwakilan Rakyat atau yang mewakili dan Preside n atau yang \nmewakili, tanpa dihadiri oleh para Pemohon dan/atau kuasanya. \nKETUA, \nttd \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd \nSaldi Isra \nttd \nAdies Kadir \nttd \nLiliek Prisbawono Adi \nttd \nEnny Nurbaningsih \nttd \nDaniel Yusmic P. Foekh \nttd \nM. Guntur Hamzah \nttd \nRidwan Mansyur \nttd \nArsul Sani \nPANITERA PENGGANTI, \nttd \nRia Indriyani",
+      "start_line": 736,
+      "end_line": 778
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Hambali Julianto",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "A. Adi Suseta",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Nining Lestari",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Yayan Yuliansyah",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Hendri Markose",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Bambang Sumantri",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Robi Sugara",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Gusti Hariansyah",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Marion Angkasa Putra",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Ade Saputra",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Marlia",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Eva Nelly",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Radius Saputra",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Doni Suparman",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Wiwik Mayang Sari",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Nodi Putra",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Muhammad Ade Afriansyah, S.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "C.NS",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "C.PM",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "adalah Advokat",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Me diator",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 1/2004 tentang Perbendaharaan Negara"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 28D ayat (2)",
+      "Pasal 1 ayat (3)",
+      "Pasal 24 ayat (1)",
+      "Pasal 50 hur",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 30 hu r"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-6",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "REFERENSI:160/PUU-XXIV/2026",
+      "REFERENSI:158/PUU/PAN.MK/AP3/05/2026",
+      "REFERENSI:006/PUU-III/2005",
+      "REFERENSI:003/PUU-IV/2006",
+      "REFERENSI:1/Pdt.Sus-PHI.PB.EKS/2026",
+      "REFERENSI:019/PUU-IV/2006",
+      "REFERENSI:022/PUU-I/2003",
+      "REFERENSI:67/PUU-XI/2013",
+      "REFERENSI:1/Pdt.Sus-PHI.PB.Eks/2026"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "pembacaan putusan"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Ria Indriyani"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "160/PUU-XXIV/2026",
+      "158/PUU/PAN.MK/AP3/05/2026",
+      "006/PUU-III/2005",
+      "003/PUU-IV/2006",
+      "1/Pdt.Sus-PHI.PB.EKS/2026",
+      "019/PUU-IV/2006",
+      "022/PUU-I/2003",
+      "67/PUU-XI/2013",
+      "1/Pdt.Sus-PHI.PB.Eks/2026"
+    ],
+    "referenced_cases": [
+      "160/PUU-XXIV/2026",
+      "158/PUU/PAN.MK/AP3/05/2026",
+      "006/PUU-III/2005",
+      "003/PUU-IV/2006",
+      "1/Pdt.Sus-PHI.PB.EKS/2026",
+      "019/PUU-IV/2006",
+      "022/PUU-I/2003",
+      "67/PUU-XI/2013",
+      "1/Pdt.Sus-PHI.PB.Eks/2026"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [
+      "applicant_count_high"
+    ],
+    "needs_manual_review": true
+  }
+}

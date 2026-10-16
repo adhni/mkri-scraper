@@ -227,7 +227,7 @@ def _render_dashboard(summaries: list[dict[str, Any]], stats: dict[str, Any], qu
     body = f'''
     <section class="browse-intro"><div><span class="eyebrow">Mahkamah Konstitusi · koleksi perkara</span><h1>Temukan perkara konstitusi.</h1><p>Cari topik, nomor perkara, undang-undang, atau nama pemohon.</p></div><p><strong>{stats['total_cases']}</strong> perkara · {len(stats['topic_counts'])} topik<br><span>Koleksi pilihan, bukan arsip lengkap.</span></p></section>
     <form method="get" action="/cases#results" class="search-panel panel compact-search">
-      <div class="search-line"><label class="field"><span class="field-label">Cari perkara</span><input type="search" name="q" value="{_safe(query.get('q',''))}" placeholder="Coba: hutan adat, batas usia, Cipta Kerja…"></label><button type="submit">Cari perkara</button></div>
+      <div class="search-line"><label class="field"><span class="field-label">Cari perkara</span><input type="search" name="q" value="{_safe(query.get('q',''))}" placeholder="Coba: 35/2012, UU ITE, hutan adat…"></label><button type="submit">Cari perkara</button></div>
       <div class="filter-line">
         <label id="topik" class="field"><span class="field-label">Topik</span>{_select('topic', query.get('topic',''), ['']+list(stats['topic_counts']), empty_label='Semua topik')}</label>
         <label class="field"><span class="field-label">Tahun putusan</span>{_select('year', query.get('year',''), ['']+stats['years'], empty_label='Semua tahun')}</label>

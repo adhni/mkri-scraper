@@ -1,0 +1,1116 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_12917_1752738518.pdf",
+    "file_name": "putusan_mkri_12917_1752738518.pdf",
+    "page_count": 48,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_12917_1752738518.pdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:applicants_contains_suspicious_text"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "89/PUU-XXIII/2025",
+    "related_case_numbers": [],
+    "title": "F",
+    "decision_date": "2025-07-17",
+    "decision_date_raw": "tujuh belas bulan Juli, tahun dua ribu dua puluh lima",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "F",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 89/PUU-XXIII/2025",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan tera khir, \nmenjatuhkan putusan dalam perkara Pengujian Undang-Undang Nomor  24 Tahun \n2011 tentang Badan Penyelenggara Jaminan Sosial terhadap Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:  \n N a m a  :  Muh. Arief Rosyid Hasan \nPekerjaan : Dokter \nAlamat : Jalan Lembang, Nomor 37, RT/RW 006/005, \nKelurahan Menteng, Kecamatan Menteng, Kota \nAdministratif Jakarta Pusat, Provinsi Jakarta. \nDalam hal ini berdasarkan Surat Kuasa Khusus bertanggal 12 Mei 2025, memberi \nkuasa kepada Sirajuddin, S.H.,  M.H., Azhar R. Rivai, S.H., M.H ., Muhammad \nNuzul Aksar, S.H., Sarah Shafiyah, S.H., Jerrymia Anggoro P. S. H., Muhammad \nAldi, S.H., dan Imam Fadhilah, S.H., kesemuanya adalah advokat dan konsultan \nhukum pada Kantor Hukum Deni Bakri & Partner Law Firm, beralama t di World \nCapital Tower, Lantai 9 Unit 07, Jalan Mega Kuningan Barat, Kun ingan, \nKecamatan Setiabudi, Jakarta Selatan, baik bersama-sama atau se ndiri-sendiri \nbertindak untuk dan atas nama pemberi kuasa; \nSelanjutnya disebut sebagai ------------------------------------------------------ Pemohon;\n[1.2] Membaca permohonan Pemohon; \n  Mendengar keterangan Pemohon; \n  Memeriksa bukti-bukti Pemohon; \n \n \n\n\n2",
+      "start_line": 6,
+      "end_line": 34
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan tanggal 22   \nMei 2025 yang diterima di Kepaniteraan Mahkamah Konstitusi (selanjutnya disebut \nKepaniteraan Mahkamah) pada 22 Mei 2025 berdasarkan Akta Pengaj uan \nPermohonan Pemohon Nomor 93/PUU/PAN.MK/AP3/05/2025 dan telah di catat \ndalam Buku Registrasi Perkara Konstitusi Elektronik (e-BRPK) pa da 27 Mei 2025 \ndengan Nomor 89/PUU-XXIII/2025, yang telah diperbaiki dengan pe rmohonan \nbertanggal 22 Mei 2025 yang diterima Kepaniteraan Mahkamah pada 17 Juni 2025, \nyang pada pokoknya menguraikan hal-hal sebagai berikut:    \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 36,
+      "end_line": 44
+    },
+    {
+      "heading": "1. Bahwa transisi politik dari otoritarian ke demokrasi yang be rujung pada",
+      "slug": "1-bahwa-transisi-politik-dari-otoritarian-ke-demokrasi-yang-be-rujung-pada",
+      "text": "amandemen Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945 ( selanjutnya disebut “UUD NRI 1945” ), salah satunya \nmenghasilkan perubahan terhadap Pasal 24 ayat (2) UUD NRI 1945, yang \nmenyatakan “Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah \nAgung dan badan peradilan umum, lingkungan peradilan agama, \nlingkungan peradilan militer, lingkungan peradilan tata usaha Negara, dan \noleh sebuah Mahkamah Konstitusi”;",
+      "start_line": 46,
+      "end_line": 52
+    },
+    {
+      "heading": "2. Bahwa kewenangan Mahkamah Konstitusi untuk melaksanakan peng ujian",
+      "slug": "2-bahwa-kewenangan-mahkamah-konstitusi-untuk-melaksanakan-peng-ujian",
+      "text": "undang-undang terhadap UUD NRI 1945 secara eksplisit diatur dal am \nPasal 24C ayat (1) UUD NRI 1945 yang menyatakan, “Mahkamah \nKonstitusi berwenang mengadili pa da tingkat pertama dan terakhi r yang \nputusannya bersifat final untuk menguji Undang-Undang terhadap \nUndang-Undang Dasar , memutus sengketa kewenangan lembaga \nNegara yang kewenangannya diberikan oleh Undang-Undang Dasar, \nmemutus pembubaran partai politik, dan memutus perselisihan ten tang \nhasil pemilihan umum.”",
+      "start_line": 54,
+      "end_line": 61
+    },
+    {
+      "heading": "3. Bahwa kewenangan ini ditegaskan lebih lanjut dalam Undang-Un dang",
+      "slug": "3-bahwa-kewenangan-ini-ditegaskan-lebih-lanjut-dalam-undang-un-dang",
+      "text": "Nomor 24 Tahun 2003 tentang Mahkamah Konsitusi sebagaimana tela h \ndiubah dengan Undang-Undang Nomor 8 Tahun 2011 dan dengan \nperubahan terakhir oleh Undang-Undang Nomor 7 Tahun 2020 \n(selanjutnya disebut “UU MK” ) pada Pasal 10 ayat (1) huruf a juncto \nUndang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman \n\n3 \n \n \n(selanjutnya disebut “ UU KK”) pada Pasal 29 ayat (1) huruf a,  mengatur \nsebagai berikut: \nMahkamah Konstitusi berwenang pada tingkat pertama dan terakhir  yang \nputusannya bersifat final untuk:  \na. menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945",
+      "start_line": 63,
+      "end_line": 77
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Undang-Undang Nomor 12 Tahun 2011 tentang",
+      "slug": "4-bahwa-berdasarkan-undang-undang-nomor-12-tahun-2011-tentang",
+      "text": "Pembentukan Peraturan Perundang-undangan sebagaimana telah diubah \ndengan Undang-Undang Nomor 15 Tahun 2019 dan dengan perubahan \nterakhir oleh Undang-Undang Nomor 13 Tahun 2022 (selanjutnya disebut \n“UU P3”),  secara hierarki kedudukan UUD NRI 1945 lebih tinggi dari \nUndang-Undang. Oleh karena itu, setiap ketentuan Undang-Undang tidak \nboleh bertentangan dengan UUD NRI 1945. Jika terdapat ketentuan dalam \nUndang-Undang yang bertentangan dengan UUD NRI 1945, maka \nketentuan tersebut dapat dimohonkan untuk diuji oleh Mahkamah \nKonstitusi melalui mekanisme pengujian Undang – Undang. Sebagaimana \ndiatur dalam pada Pasal 9 ayat (1) yang menyatakan “Dalam hal s uatu \nUndang-Undang diduga bertentantang dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945, pengujiannya dilakukan oleh \nMahkamah Konstitusi”.",
+      "start_line": 79,
+      "end_line": 91
+    },
+    {
+      "heading": "5. Bahwa peran Mahkamah Konstitusi sebagai pengawal konstitusi (the",
+      "slug": "5-bahwa-peran-mahkamah-konstitusi-sebagai-pengawal-konstitusi-the",
+      "text": "guardian of constitution ) tidak hanya bersifat prosedural, tetapi juga \nsubstantif. Mahkamah Konstitusi berhak memberikan penafsiran terhadap \nsebuah ketentuan pasal-pasal dalam suatu Undang-Undang agar \nberkesesuaian dengan nilai-nilai konstitusi. Tafsir Mahkamah Ko nstitusi \nterhadap konstituonalitas pasal-pasal dalam Undang-Undang terse but \nmerupakan tafsir satu-satunya (the sole interpreter of constitution) yang \nmemiliki kekuatan hukum. Oleh karenanya terhadap pasal-pasal ya ng \nmemiliki makna ambigu, tidak jelas, atau multitafsir dapat pula dimintakan \npenafsirannya kepada Mahkamah Konstitusi;",
+      "start_line": 93,
+      "end_line": 101
+    },
+    {
+      "heading": "6. Bahwa Undang-Undang Nomor 24 Tahun 2011 tentang Badan",
+      "slug": "6-bahwa-undang-undang-nomor-24-tahun-2011-tentang-badan",
+      "text": "Penyelenggara Jaminan Sosial (selanjutnya disebut “UU BPJS” ) \nmerupakan salah satu payung hukum nasional yang dibentuk guna \nmemberikan kepastian hukum demi terselenggaranya sistem jaminan  \n\n4 \n \n \nkesejahteraan sosial bagi seluruh rakyat Indonesia. Namun salah  s a t u  \npasal dalam UU BPJS yaitu Pasal 25 ayat (1) huruf f merupakan s uatu \nketentuan yang menunjukkan tidak adanya persamaan dan kesetaraa n \ndihadapan hukum dan bertentangan dengan nilai-nilai konstitusi;",
+      "start_line": 103,
+      "end_line": 113
+    },
+    {
+      "heading": "7. Bahwa berdasarkan hal-hal tersebut di atas dan mengingat kew enangan",
+      "slug": "7-bahwa-berdasarkan-hal-hal-tersebut-di-atas-dan-mengingat-kew-enangan",
+      "text": "yang dimandatkan kepada Mahkamah Konstitusi adalah melakukan \npengujian Undang-Undang terhadap UUD NRI 1945, maka Pemohon a \nquo mengajukan permohonan pengujian  P a s al 25 ayat (1) huruf f \nUndang-Undang Nomor 24 Tahun 2011 tentang Badan Penyelenggara \nJaminan Sosial (Lembaran Negara Republik Indonesia Tahun 2011 \nNomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor \n5256) terhadap UUD NRI 1945.  \nOleh karenanya, Mahkamah Konstitusi berwenang untuk memeriksa, \nmengadili dan memutus permohonan a quo. \nII. KEDUDUKAN HUKUM ( LEGAL STANDING) PEMOHON",
+      "start_line": 115,
+      "end_line": 124
+    },
+    {
+      "heading": "1. Bahwa Berdasarkan Pasal 51 Ayat (1) UU MK menyatakan bahwa, yang",
+      "slug": "1-bahwa-berdasarkan-pasal-51-ayat-1-uu-mk-menyatakan-bahwa-yang",
+      "text": "dapat mengajukan permohonan pengujian Undang-Undang terhadap UUD \nNRI 1945 adalah mereka yang menganggap hak dan/atau kewenangan \nKonstitusionalnya yang diberikan oleh UUD 1945 dirugikan oleh \nberlakunya suatu Undang-Undang, yaitu: \na. perororangan warga Negara Indonesia (termasuk orang yang \nmempunyai kepentingan yang sama); \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip Negara \nKesatuan Republik Indonesia yang diatur dalam Undang Undang;",
+      "start_line": 126,
+      "end_line": 134
+    },
+    {
+      "heading": "d. lembaga Negara.",
+      "slug": "d-lembaga-negara",
+      "text": "Bahwa dalam penjelasan Pasal 51 ayat (1) UU MK mengatakan “yang  \ndimaksud dengan hak konstitusional adalah hak-hak yang diatur d alam \nUndang –Undang Dasar 1945”;",
+      "start_line": 137,
+      "end_line": 139
+    },
+    {
+      "heading": "2. Bahwa kemudian kerugian hak dan/atau kewenangan konstitusion al",
+      "slug": "2-bahwa-kemudian-kerugian-hak-dan-atau-kewenangan-konstitusion-al",
+      "text": "sebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK ditegaskan dalam \nPutusan Mahkamah Konstitusi Nomor 006/PUUIII/2005 dan Putusan \nNomor 11/PUU-V/2007, yang menentukan 5 (lima) syarat, sebagai berikut: \n\n5 \n \n \na. adanya hak dan/atau kewenangan konstitusional pemohon yang \ndiberikan oleh UUD 1945; \nb. hak dan/atau kewenangan konstitusional tersebut, dianggap te lah \ndirugikan oleh berlakunya undang-undang yang dimohonkan \npengujian;",
+      "start_line": 141,
+      "end_line": 152
+    },
+    {
+      "heading": "c. hak dan/atau kewenangan tersebut harus bersifat spesifik (kh usus)",
+      "slug": "c-hak-dan-atau-kewenangan-tersebut-harus-bersifat-spesifik-kh-usus",
+      "text": "dan aktual atau setidak-tidaknya potensial yang menurut penalar an \nyang wajar dapat dipastikan akan terjadi;",
+      "start_line": 154,
+      "end_line": 155
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat (causal verband) antara kerugia n",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugia-n",
+      "text": "dimaksud dengan berlakunya undang-undang yang dimohonkan \npengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan \nmaka kerugian konstitusional tersebut tidak akan atau tidak lagi terjadi.",
+      "start_line": 157,
+      "end_line": 160
+    },
+    {
+      "heading": "di atas, objek permohonan yang diajukan Pemohon untuk dilakukan u j i",
+      "slug": "di-atas-objek-permohonan-yang-diajukan-pemohon-untuk-dilakukan-u-j-i",
+      "text": "materiil adalah Pasal 25 ayat (1) huruf f UU BPJS yang mengatur sebagai \nberikut: \nUntuk dapat diangkat sebagai anggota Dewan Pengawas atau \nanggota Direksi, calon yang bersa ngkutan harus memenuhi syarat \nsebagai berikut: \nf. berusia paling rendah 40 (empat puluh) tahun dan paling tinggi 60 \n(enam puluh) tahun pada saat dicalonkan menjadi anggota;",
+      "start_line": 163,
+      "end_line": 169
+    },
+    {
+      "heading": "4. Bahwa oleh karena itu, Pemohon menguraikan kedudukan hukum (Legal",
+      "slug": "4-bahwa-oleh-karena-itu-pemohon-menguraikan-kedudukan-hukum-legal",
+      "text": "Standing) \ndalam mengajukan permohonan dalam perkara a quo, sebagai berikut: \nPertama: Kualifikasi sebagai Pemohon \nKedua: Kerugian Konstitusional Pemohon. \nDalam hal ini, Pemohon adalah perorangan Warga Negara Indonesia yang \ndibuktikan dengan Kartu Tanda Penduduk yang merasa hak \nkonstitusionalnya dirugikan dengan berlakunya Pasal 25 ayat (1)  huruf f \nUU BPJS;",
+      "start_line": 171,
+      "end_line": 178
+    },
+    {
+      "heading": "5. Bahwa Pemohon dalam waktu dekat dan pada kesempatan yang aka n",
+      "slug": "5-bahwa-pemohon-dalam-waktu-dekat-dan-pada-kesempatan-yang-aka-n",
+      "text": "datang, berniat untuk mencalonkan diri sebagai anggota Dewan Pengawas \natau anggota Direksi BPJS Kesehatan. Namun ketentuan batas usia paling \n\n6 \n \n \nrendah 40 (empat puluh) tahun sebagaimana diatur dalam Pasal 25  ayat \n(1) huruf f UU BPJS, menutup kesempatan Pemohon untuk mencalonk an \ndiri sebagai anggota Dewan Pengawas atau anggota Direksi BPJS, karena \nsaat ini Pemohon masih berusia 39 (tiga puluh sembilan) tahun. Sehingga \nsebagaimana dimaksud pada Pasal 51 ayat (1) UU MK juncto Putusan \nMahkamah Konstitusi Nomor 006/PUUIII/2005 dan Putusan Nomor \n11/PUU-V/2007, secara potensial norma tersebut dapat menimbulka n \nkerugian konstitusional Pemohon;",
+      "start_line": 180,
+      "end_line": 193
+    },
+    {
+      "heading": "6. Bahwa mengingat BPJS merupakan lembaga publik yang dibentuk oleh",
+      "slug": "6-bahwa-mengingat-bpjs-merupakan-lembaga-publik-yang-dibentuk-oleh",
+      "text": "pemerintah dan menjalankan fungsi pelayanan publik di bidang ja minan \nsosia, maka jelas bahwa ketentuan Pasal 25 ayat (1) huruf UU BPJS telah \nbertentangan dengan hak-hak konstitusional Pemohon yang diatur dan \ndilindungi oleh UUD NRI 1945 yaitu:  \na. Pasal 27 ayat (1) UUD NRI 1945 yang berbunyi: “Segala warga negara \nbersamaan kedudukannya di dalam hukum dan pemerintahan dan \nwajib menjunjung hukum dan pemerintahan itu dengan tidak ada \nkecualinya” \nb. Pasal 28D ayat (1) UUD NRI 1945 yang berbunyi: “Setiap orang  \nberhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum \nyang adil serta perlakuan yang sama di hadapan hukum”",
+      "start_line": 195,
+      "end_line": 205
+    },
+    {
+      "heading": "c. Pasal 28D ayat (3) UUD NRI 1945 yang berbunyi: “Setiap warga",
+      "slug": "c-pasal-28d-ayat-3-uud-nri-1945-yang-berbunyi-setiap-warga",
+      "text": "negara berhak atas kesempatan yang sama dalam pemerintahan”",
+      "start_line": 207,
+      "end_line": 207
+    },
+    {
+      "heading": "7. Bahwa Pemohon adalah representasi generasi muda profesional yang",
+      "slug": "7-bahwa-pemohon-adalah-representasi-generasi-muda-profesional-yang",
+      "text": "aktif dalam pembangunan nasional, dengan rekam jejak pendidikan , \npengalaman kerja, dan kontribusi nyata di bidang pelayanan publ ik serta \ntata kelola institusi strategis, yang akan dijabarkan lebih lanjut pada Bagian \nIII Posita, maka dengan kualifikasi tersebut, Pemohon memiliki kapasitas \nkonstitusional dan legitimasi moral untuk mengajukan permohonan  \npengujian undang-undang terhadap norma a quo yang dinilai menghambat \nperan serta generasi muda produktif dalam pengelolaan institusi publik; \nDengan demikian, Pemohon memenuhi syarat kedudukan hukum \n(legal standing) untuk mengajukan permohonan a quo, dan apabila \npermohonan ini dikabulkan, maka kerugian konstitusional tersebu t \ntidak akan terjadi. \n\n7 \n \n \nIII. ALASAN – ALASAN PERMOHONAN (POSITA)",
+      "start_line": 209,
+      "end_line": 224
+    },
+    {
+      "heading": "1. Bahwa uraian dalam Kedudukan Hukum ( legal standing) dan Kewenangan",
+      "slug": "1-bahwa-uraian-dalam-kedudukan-hukum-legal-standing-dan-kewenangan",
+      "text": "Mahkamah sebagaimana yang telah dikemukakan di atas adalah \nmerupakan bagian yang tidak terpisahkan dari Pokok Permohonan ini;",
+      "start_line": 226,
+      "end_line": 227
+    },
+    {
+      "heading": "2. Bahwa Badan Penyelenggara Jaminan Sosial Kesehatan (BPJS",
+      "slug": "2-bahwa-badan-penyelenggara-jaminan-sosial-kesehatan-bpjs",
+      "text": "Kesehatan) adalah badan hukum publik yang dibentuk pemerintah \nIndonesia untuk menyelenggarakan program Jaminan Kesehatan \nNasional (JKN) guna menjamin akses pelayanan kesehatan yang lay ak \nbagi seluruh rakyat Indonesia. Sebagaimana disebutkan dalam Pas al 20 \nUU BPJS, BPJS memiliki struktur organisasi yang terdiri dari De wan \nPengawas dan Direksi;",
+      "start_line": 229,
+      "end_line": 234
+    },
+    {
+      "heading": "3. Bahwa Pemohon akan mencalonkan diri sebagai anggota Dewan",
+      "slug": "3-bahwa-pemohon-akan-mencalonkan-diri-sebagai-anggota-dewan",
+      "text": "Pengawas atau Direksi BPJS, dan telah memenuhi seluruh kualifik asi \nkompetensi serta integritas yang diperlukan, namun terhalang ol eh \nkeberlakuan norma Pasal 25 ayat (1) huruf f UU BPJS karena usia  \nPemohon 39 (tiga puluh sembilan) tahun. Maka, kerugian konstitu sional \nyang dialami Pemohon secara potensial, spesifik, dan nyata;",
+      "start_line": 236,
+      "end_line": 240
+    },
+    {
+      "heading": "4. Bahwa ketentuan Pasal 25 ayat (1) huruf f UU BPJS tersebut b erpotensi",
+      "slug": "4-bahwa-ketentuan-pasal-25-ayat-1-huruf-f-uu-bpjs-tersebut-b-erpotensi",
+      "text": "menimbulkan hambatan administratif yang bersifat absolut, tanpa  \nmengindahkan kualitas, integritas, dan kompetensi calon secara lebih \nobjektif;",
+      "start_line": 242,
+      "end_line": 244
+    },
+    {
+      "heading": "5. Bahwa adapun dasar hukum dan alasan-alasan permohonan yang",
+      "slug": "5-bahwa-adapun-dasar-hukum-dan-alasan-alasan-permohonan-yang",
+      "text": "diajukan oleh Pemohon dengan pendekatan secara filosofis, yurid is-\nkonstitusional, sosiologis-empiris dan perbandingan dengan nega ra lain, \nyang selanjutnya akan diuraikan lebih lanjut sebagai berikut:  \nALASAN PERTAMA, SECARA FILOSOFIS  SYARAT USIA DALAM UNDANG-\nUNDANG NOMOR 24 TAHUN 2011 TENTANG BPJS BERTENTANGAN DENGAN \nKEADILAN, PERSAMAAN DAN KESETARAAN DALAM PRINSIP NEGARA \nHUKUM;  \na. Bertentangan dengan Prinsip Negara Hukum dan Asas Persamaan \ndihadapan Hukum (Equality Before the Law)",
+      "start_line": 246,
+      "end_line": 254
+    },
+    {
+      "heading": "1. Bahwa secara filosofis, hak asasi manusia adalah hak yang me lekat pada",
+      "slug": "1-bahwa-secara-filosofis-hak-asasi-manusia-adalah-hak-yang-me-lekat-pada",
+      "text": "setiap individu berdasarkan harkat dan martabat manusia sebagai makhluk \nciptaan Tuhan Yang Maha Esa, yang harus dihormati, dijunjung tinggi, dan \n\n8 \n \n \ndilindungi oleh negara, hukum, pemerintah, dan setiap orang dem i \nkehormatan serta perlindungan harkat dan martabat manusia. Hak asasi \nmanusia bersifat universal dan tidak boleh dibatasi atau dibedakan secara \ntidak sah atas da sar apapun, termasuk atas dasar usia;",
+      "start_line": 256,
+      "end_line": 265
+    },
+    {
+      "heading": "2. Bahwa pembatasan berdasarkan usia dan tidak mempertimbangkan",
+      "slug": "2-bahwa-pembatasan-berdasarkan-usia-dan-tidak-mempertimbangkan",
+      "text": "proporsionalitas kemampuan individu pada prinsipnya bertentanga n \ndengan nilai-nilai keadilan dan kemanusiaan yang adil dan berad ab \nsebagaimana tercermin dalam sila kedua Pancasila. Pancasila seb agai \nsumber dari segala sumber hukum nasional mewajibkan seluruh pro duk \nhukum, termasuk Undang-Undang, untuk menghormati nilai kesetara an, \nkeadilan, dan penghormatan terhadap martabat manusia;",
+      "start_line": 267,
+      "end_line": 272
+    },
+    {
+      "heading": "3. Bahwa berdasarkan Pasal 1 ayat (3) Undang-Undang Dasar Negar a",
+      "slug": "3-bahwa-berdasarkan-pasal-1-ayat-3-undang-undang-dasar-negar-a",
+      "text": "Republik Indonesia Tahun 1945, dinyatakan bahwa \"Negara Indones ia \nadalah negara hukum.\" Prinsip negara hukum ( rechtsstaat) menuntut \nbahwa seluruh tindakan negara, termasuk dalam pembentukan norma  \nhukum, harus tunduk kepada prinsip-prinsip keadilan, rasionalit as, \npenghormatan terhadap hak asasi manusia, serta kesetaraan di ha dapan \nhukum;",
+      "start_line": 274,
+      "end_line": 279
+    },
+    {
+      "heading": "4. Bahwa salah satu prinsip fundamental dalam negara hukum adal ah asas",
+      "slug": "4-bahwa-salah-satu-prinsip-fundamental-dalam-negara-hukum-adal-ah-asas",
+      "text": "equality before the law  atau persamaan di hadapan hukum. Prinsip ini \nbermakna bahwa setiap warga negara memiliki kedudukan yang sama  di \nhadapan hukum, baik dalam hak maupun kewajiban, tanpa pembatasa n \natas dasar usia, jenis kelamin, agama, latar belakang sosial, a tau \nkarakteristik lainnya, kecuali apabila pembedaan itu dilakukan secara \nproporsional, rasional, dan konstitusional;",
+      "start_line": 281,
+      "end_line": 286
+    },
+    {
+      "heading": "5. Bahwa prinsip equality before the law juga diakui secara universal sebagai",
+      "slug": "5-bahwa-prinsip-equality-before-the-law-juga-diakui-secara-universal-sebagai",
+      "text": "bagian integral dari hak asasi manusia, sebagaimana diatur dala m Pasal \n7 Deklarasi Universal Hak Asasi Manusia (Universal Declaration of Human \nRights - UDHR) yang menyatakan:  \n\"All are equal before the law…” (Semua orang sama di hadapan \nhukum) dst...  \nDemikian pula dalam International Covenant on Civil and Politic al \nRights (ICCPR), yang telah diratifikasi oleh Indonesia, Pasal 2 6 \nmenegaskan bahwa: \n\n9 \n \n \n\"All persons are equal before the law…” (Semua orang sama di \nhadapan hukum) … dst. \nBahwa poin substansi dari Universal Declaration of Human Rights \n– UDHR dan Covenant on Civil and Political Rights  (ICCPR), \nadalah mengenai persamaan, kesetraan dan kesempatan sama \ndalam pandangan hukum.",
+      "start_line": 288,
+      "end_line": 305
+    },
+    {
+      "heading": "6. Bahwa dalam konteks norma yang dipersoalkan, ketentuan Pasal 25 ayat",
+      "slug": "6-bahwa-dalam-konteks-norma-yang-dipersoalkan-ketentuan-pasal-25-ayat",
+      "text": "(1) huruf f UU BPJS yang mensyaratkan bahwa calon anggota Dewan  \nPengawas atau anggota Direksi BPJS harus berusia paling rendah 40 \n(empat puluh) tahun, secara nyata mengabaikan asas kesetaraan \ntersebut. Pasal tersebut tidak memberikan ruang alternatif bagi  w a r g a  \nnegara yang belum berusia 40 (e mpat puluh) tahun namun memiliki  \npengalaman, kualitas, integritas, dan kompetensi yang dapat \ndipertimbangkan sebagai ukuran utama dalam pengisian jabatan publik;",
+      "start_line": 307,
+      "end_line": 313
+    },
+    {
+      "heading": "7. Bahwa pengaturan semacam ini tidak sesuai dengan konsep nega ra",
+      "slug": "7-bahwa-pengaturan-semacam-ini-tidak-sesuai-dengan-konsep-nega-ra",
+      "text": "hukum yang menghendaki bahwa setiap pembatasan terhadap hak \nkonstitusional warga negara harus didasarkan pada alasan yang s ah \n(legitimate aim)  dan proporsionalitas (principle of proportionality) . Usia, \nsebagai suatu kategori biologis, tidak secara inheren menentuka n \nkompetensi atau kapabilitas seseorang untuk menduduki jabatan s ebagai \nanggota Dewan Pengawas atau anggota Direksi BPJS;",
+      "start_line": 315,
+      "end_line": 320
+    },
+    {
+      "heading": "8. Bahwa pembentukan norma hukum, sebagaimana perubahan norma",
+      "slug": "8-bahwa-pembentukan-norma-hukum-sebagaimana-perubahan-norma",
+      "text": "hukum, harus senantiasa bersandar pada nilai-nilai filosofis da sar negara \nhukum, termasuk prinsip keadilan, rasionalitas, dan kesetaraan.  O l e h  \nkarena itu, mempertahankan syarat usia minimal 40 (empat puluh)  tahun \ndalam Pasal 25 ayat (1) huruf f UU BPJS bertentangan dengan pri nsip \nnegara hukum, karena secara jelas dan nyata: \na. Menciptakan perlakuan hukum yang tidak setara; \nb. Menghambat warga negara untuk memperoleh hak dalam \npemerintahan atau pelayanan publik;",
+      "start_line": 322,
+      "end_line": 329
+    },
+    {
+      "heading": "c. Tidak proporsional dan tidak relevan dengan tujuan jabatan D ewan",
+      "slug": "c-tidak-proporsional-dan-tidak-relevan-dengan-tujuan-jabatan-d-ewan",
+      "text": "Pengawas atau Direksi BPJS. \n\n10",
+      "start_line": 331,
+      "end_line": 335
+    },
+    {
+      "heading": "9. Bahwa dalam negara hukum yang demokratis, hukum tidak boleh",
+      "slug": "9-bahwa-dalam-negara-hukum-yang-demokratis-hukum-tidak-boleh",
+      "text": "digunakan untuk membatasi secara absolut hak-hak warga negara a tas \ndasar klasifikasi yang tidak proporsional. Secara filosofis, seharusnya: \n“Negara hukum bukan sekadar hukum yang tertulis, melainkan hukum \nyang adil. Keadilan menuntut persamaan kesempatan, bukan \npembatasan berdasarkan usia semata.”",
+      "start_line": 337,
+      "end_line": 341
+    },
+    {
+      "heading": "10. Bahwa berdasarkan seluruh uraian tersebut, norma batas usia",
+      "slug": "10-bahwa-berdasarkan-seluruh-uraian-tersebut-norma-batas-usia",
+      "text": "sebagaimana diatur dalam Pasal 25 ayat (1) huruf f UU BPJS terb ukti \nsecara filosofis bertentangan dengan prinsip negara hukum, prin sip \nequality before the law, dan prinsip perlindungan hak asasi manusia. Oleh \nkarena itu, norma tersebut harus dinyatakan bertentangan dengan  UUD \n1945 dan tidak mempunyai kekuatan hukum mengikat, atau setidakn ya \nperlu dimaknai ulang agar sejalan dengan prinsip persamaaan dan  \nkesetaraan dalam konteks negara hukum kerena bertentangan denga n \nhak konsitusional Pemohon; \nb. Bertentangan dengan Prinsip Keadilan dan Rasionalitas dalam Fondasi \nFilosofis Pembentukan Undang-Undang",
+      "start_line": 343,
+      "end_line": 352
+    },
+    {
+      "heading": "11. Bahwa pembentukan suatu norma dalam Undang-Undang, terlebih yang",
+      "slug": "11-bahwa-pembentukan-suatu-norma-dalam-undang-undang-terlebih-yang",
+      "text": "berdampak pada pembatasan hak konstitusional warga negara, haru slah \ndilandasi oleh prinsip keadilan dan rasionalitas. Kedua prinsip  i n i  \nmerupakan bagian dari fondasi filsafat hukum dan moral yang mel ekat \ndalam setiap sistem hukum yang demokratis dan beradab. Norma ya ng \nmengatur pembatasan hak harus dapat dipertanggungjawabkan secar a \nrasional baik dari sisi tujuan, dampak, maupun proporsionalitas nya. \nSebaliknya, jika suatu norma dibentuk hanya berdasarkan asumsi umum, \ntanpa evaluasi terhadap konteks sosiologis dan dinamika masyara kat, \nmaka norma tersebut kehilangan dasar filosofisnya dan cenderung  \nmenjadi represif terhadap kelompok tertentu.",
+      "start_line": 354,
+      "end_line": 363
+    },
+    {
+      "heading": "12. Bahwa dalam Norma Pasal 25 ayat (1) huruf f UU BPJS, meneta pkan",
+      "slug": "12-bahwa-dalam-norma-pasal-25-ayat-1-huruf-f-uu-bpjs-meneta-pkan",
+      "text": "bahwa calon anggota Direksi dan Dewas BPJS wajib berusia minima l 40 \n(empat puluh) tahun. Namun norma tersebut: \na. Tidak menjelaskan rasionalitas angka 40 tahun secara terbuka  dalam \nNaskah Akademik maupun penjelasan UU; \n\n11 \n \n \nb. Tidak mempertimbangkan realitas meningkatnya kualitas dan \nkapasitas profesional generasi usia 30-an;",
+      "start_line": 365,
+      "end_line": 374
+    },
+    {
+      "heading": "c. Mengabaikan fakta bahwa pengalaman jabatan strategis tidak i dentik",
+      "slug": "c-mengabaikan-fakta-bahwa-pengalaman-jabatan-strategis-tidak-i-dentik",
+      "text": "dengan usia;",
+      "start_line": 376,
+      "end_line": 376
+    },
+    {
+      "heading": "d. Menutup kemungkinan rekognisi terhadap prestasi individual d an",
+      "slug": "d-menutup-kemungkinan-rekognisi-terhadap-prestasi-individual-d-an",
+      "text": "rekam jejak kepemimpinan teknokratis di kalangan usia muda. \nNorma tersebut melanggar asas rasionalitas, karena tidak memili ki \njustifikasi objektif yang dapat dipertanggungjawabkan secara il miah dan \nkonstitusional atas angka \"40 tahun\" sebagai batas minimum.",
+      "start_line": 378,
+      "end_line": 381
+    },
+    {
+      "heading": "13. Bahwa ketika suatu norma huk um tidak memiliki justifikasi r asional yang",
+      "slug": "13-bahwa-ketika-suatu-norma-huk-um-tidak-memiliki-justifikasi-r-asional-yang",
+      "text": "dapat dipertanggungjawabkan secara objektif, maka konsekuensiny a \nbukan hanya menimbulkan ketimpangan, tetapi dapat sampai pada t araf \nketidakadilan yang intolerable. Norma batas usia minimal 40 tahun \nmerupakan contoh konkret di mana pembatasan yang tidak rasional  \nmenghasilkan bentuk ketidakadilan yang melampaui ambang toleran si \nkonstitusional.",
+      "start_line": 383,
+      "end_line": 388
+    },
+    {
+      "heading": "14. Bahwa yang dimaksud dengan ketidakadilan yang intolerable d a l a m",
+      "slug": "14-bahwa-yang-dimaksud-dengan-ketidakadilan-yang-intolerable-d-a-l-a-m",
+      "text": "konteks pengujian konstitusional adalah bentuk ketidakadilan ya ng tidak \nlagi dapat ditoleransi secara moral, hukum, dan sosial. Berdasa rkan hal \ntersebut, norma usia minimal 40 (empat puluh) tahun telah menim bulkan \nketidakadilan yang intolerable, yang secara konkret tercermin dalam hal-\nhal berikut: \na. Menghapus hak konstitusional Pemohon secara mutlak , karena \nnorma tersebut tidak memberi ruang pengecualian berbasis kapasitas, \nprestasi, atau pengalaman. Pemoh on yang memiliki rekam jejak ku at \ndalam pelayanan publik sepenuhnya tertutup aksesnya untuk \nmencalonkan diri karena adanya norma usia “40 tahun”. \nb. Menciptakan penghalang administratif absolut , karena usia \ndijadikan satu-satunya filter tanpa mempertimbangkan kualitas \nindividu. Ini menjadikan norma a quo bukan sekadar membatasi, tapi \nmenyingkirkan secara total yang belum mencapai usia tersebut namun \nmemiliki kapasitas.",
+      "start_line": 390,
+      "end_line": 404
+    },
+    {
+      "heading": "c. Menghapus hak persamaan dan kesetaraan k e l o m p o k u s i a",
+      "slug": "c-menghapus-hak-persamaan-dan-kesetaraan-k-e-l-o-m-p-o-k-u-s-i-a",
+      "text": "produktif 30–39 tahun secara struktural dan tidak proporsional. Norma \n\n12 \n \n \nini mengabaikan fakta bahwa kelompok ini justru sedang berada pada \npuncak kapasitas profesional dan sangat relevan untuk jabatan publik \nseperti Direksi atau Dewan Pengawas BPJS.",
+      "start_line": 406,
+      "end_line": 413
+    },
+    {
+      "heading": "d. Menutup peluang koreksi hukum dari dalam sistem , karena norma",
+      "slug": "d-menutup-peluang-koreksi-hukum-dari-dalam-sistem-karena-norma",
+      "text": "a quo  bersifat kaku, tunggal, dan tidak membuka jalur alternatif \nberbasis kompetensi. Akibatnya, hak konstitusional Pemohon \nhanya dapat dipulihkan melalui pengujian di \nMahkamah Konstitusi.",
+      "start_line": 415,
+      "end_line": 418
+    },
+    {
+      "heading": "15. Bahwa intolerable ini tidak identik dengan ketidakadilan biasa ( ordinary",
+      "slug": "15-bahwa-intolerable-ini-tidak-identik-dengan-ketidakadilan-biasa-ordinary",
+      "text": "unfairness), karena bentuknya lebih berat dan berdampak sistemik, serta \nmenghapuskan hak persamaan dan kesetaraan secara total terhadap  \nkelompok tertentu dalam sistem hukum. Norma semacam ini menciptakan \nsemacam legal exclusion  yang tidak dapat dijustifikasi dalam sistem \nhukum yang menghormati hak asasi dan prinsip konstitusionalisme.",
+      "start_line": 420,
+      "end_line": 424
+    },
+    {
+      "heading": "16. Bahwa dengan demikian, ketika norma batas usia dalam perkar a a quo",
+      "slug": "16-bahwa-dengan-demikian-ketika-norma-batas-usia-dalam-perkar-a-a-quo",
+      "text": "telah menciptakan ketidakadilan yang bersifat intolerable, maka tidak \ncukup hanya dinilai dari segi keabsahan prosedural atau legalitas formilnya \nsemata. Justru dalam situasi seperti inilah, pengujian konstitusional harus \nmenggunakan parameter keadilan yang lebih mendalam dan esensial , \nyaitu: \n Keadilan, yang menuntut perlakuan hukum yang setara antar warg a \nnegara; \n Keadilan substantif, yaitu bentuk keadilan yang mempertimbangk an \nkeberagaman kapasitas individu, proporsionalitas pembatasan hak , \ndan pengakuan terhadap kontribusi konkret terhadap \nkepentingan publik.",
+      "start_line": 426,
+      "end_line": 436
+    },
+    {
+      "heading": "17. Bahwa keadilan sebagai prinsip universal tidak hanya berbic ara tentang",
+      "slug": "17-bahwa-keadilan-sebagai-prinsip-universal-tidak-hanya-berbic-ara-tentang",
+      "text": "persamaan formal, melainkan juga persamaan substantial, yaitu \npemberian perlakuan yang sesuai berdasarkan kemampuan, kapasita s, \ndan integritas setiap individu, bukan semata-mata berdasarkan k ategori \nusia. Dalam konteks ini, pembatasan yang bersifat mutlak berdas arkan \numur biologis justru menafikan keadilan karena:  \na. Tidak mengakomodasi ragam kualitas individu;  \n\n13 \n \n \nb. Mengabaikan potensi riil kontribusi publik dari kelompok usi a produktif \nmuda;",
+      "start_line": 438,
+      "end_line": 449
+    },
+    {
+      "heading": "c. Bertentangan dengan prinsip inclusive governance yang merupakan",
+      "slug": "c-bertentangan-dengan-prinsip-inclusive-governance-yang-merupakan",
+      "text": "bagian dari demokrasi modern.",
+      "start_line": 451,
+      "end_line": 451
+    },
+    {
+      "heading": "18. Bahwa sejalan dengan prinsip negara hukum ( rechtstaat) dan asas",
+      "slug": "18-bahwa-sejalan-dengan-prinsip-negara-hukum-rechtstaat-dan-asas",
+      "text": "equality before the law  yang dijamin dalam konstitusi dan instrumen hak \nasasi manusia, setiap pembentukan dan perubahan Undang-Undang tidak \nboleh memuat ketentuan yang bertentangan dengan prinsip kesetaraan di \nhadapan hukum. Oleh karena itu, penyusunan norma hukum harus \ndilakukan dengan menjamin perlakuan yang adil dan setara bagi s etiap \nwarga negara, guna memastikan hukum nasional selaras dengan nilai-nilai \nkonstitusional dan prinsip penghormatan terhadap hak asasi manusia;",
+      "start_line": 453,
+      "end_line": 459
+    },
+    {
+      "heading": "19. Bahwa pembentukan dan perubahan Undang-Undang di Indonesia harus",
+      "slug": "19-bahwa-pembentukan-dan-perubahan-undang-undang-di-indonesia-harus",
+      "text": "selalu dilandaskan pada nilai-nilai filosofis yang bersumber dari Pancasila \nsebagai philosophische grondslag  (dasar filsafat negara), yang \nmencerminkan cita-cita keadilan, kesetaraan, dan penghormatan terhadap \nharkat dan martabat manusia serta nilai-nilai keadilan universa l. Prof. Dr. \nJimly Asshiddiqie, S.H., M.H., menyatakan bahwa dalam setiap pr oses \npembentukan hukum nasional, perlu diperhatikan tiga aspek yakni filosofis, \nyuridis, dan sosiologis, di mana aspek filosofis mencerminkan n ilai dasar \nkeadilan dan kemanusiaan (Jimly Asshiddiqie, Perihal Undang-Undang , \n2006);",
+      "start_line": 461,
+      "end_line": 469
+    },
+    {
+      "heading": "20. Bahwa secara filosofis, lahirnya Undang-Undang Nomor 24 Tah un 2011",
+      "slug": "20-bahwa-secara-filosofis-lahirnya-undang-undang-nomor-24-tah-un-2011",
+      "text": "tentang Badan Penyelenggara Jaminan Sosial merupakan perwujudan  \ndari amanat Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, khususnya Pasal 28H ayat (3) dan Pasal 34 ayat (2), yang pada \npokoknya menegaskan bahwa setiap orang berhak atas jaminan sosi al \nuntuk memenuhi kebutuhan dasar hidup yang layak. Undang-Undang ini \nlahir dari kesadaran bahwa negara memiliki tanggung jawab konstitusional \nuntuk melindungi seluruh warga negaranya melalui sistem jaminan  sosial \nyang menyeluruh dan berkeadilan;",
+      "start_line": 471,
+      "end_line": 478
+    },
+    {
+      "heading": "21. Bahwa manifestasi dari pendekatan filosofis lahirnya Undang -Undang",
+      "slug": "21-bahwa-manifestasi-dari-pendekatan-filosofis-lahirnya-undang-undang",
+      "text": "BPJS tersebut adalah sebagai jaminan sosial yang merupakan hak dasar \nmanusia, dan negara berkewajiban untuk memberikan perlindungan \n\n14 \n \n \ndengan persamaan dan kesetaraan di hadapan hukum. Oleh karena i tu, \npengaturan mengenai tata kelola BPJS harus mencerminkan semanga t \nkesetaraan dan inklusivitas, yang seharusnya juga termasuk dala m hal \nseleksi dan pengangkatan anggota Dewan Pengawas atau anggota \nDireksi;",
+      "start_line": 480,
+      "end_line": 490
+    },
+    {
+      "heading": "22. Bahwa tujuan dari jaminan sosial adalah untuk mencapai kese jahteraan",
+      "slug": "22-bahwa-tujuan-dari-jaminan-sosial-adalah-untuk-mencapai-kese-jahteraan",
+      "text": "sosial yang menyeluruh bagi seluruh rakyat Indonesia. Dalam pandangan \nJohn Rawls, negara harus memastikan prinsip fair equality of opportunity  \n(kesetaraan kesempatan yang adil) dan equal basic liberties for all citizens \n(kebebasan dasar yang setara bagi seluruh warga negara). Konsep  i n i  \nmenggarisbawahi pentingnya keadilan distributif, di mana negara  t i d a k  \nhanya memberikan peluang yang setara, tetapi juga memberikan jaminan \nkepada warganya agar dapat memenuhi kebutuhan hidup yang layak dan \nterjamin dengan menjunjung keadilan;",
+      "start_line": 492,
+      "end_line": 499
+    },
+    {
+      "heading": "23. Bahwa dalam kerangka teori keadilan menurut Gustav Radbruch , hukum",
+      "slug": "23-bahwa-dalam-kerangka-teori-keadilan-menurut-gustav-radbruch-hukum",
+      "text": "yang adil haruslah memadukan tiga nilai fundamental, yaitu kead ilan \n(gerechtigkeit), kepastian hukum ( rechtssicherheit), dan kemanfaatan \n(zweckmäßigkeit). Norma yang membatasi usia calon anggota Dewan \nPengawas atau anggota Direksi tanpa memperhitungkan faktor \npengalaman, kompetensi, atau integritas profesional gagal menca pai \nkeseimbangan nilai tersebut, sebab mengabaikan dimensi kemanfaa tan \n(potensi kontribusi individu terhadap tujuan badan hukum) serta  keadilan \n(pengakuan atas prestasi dan kemampuan personal yang tidak sela lu \nberbanding lurus dengan usia);",
+      "start_line": 501,
+      "end_line": 509
+    },
+    {
+      "heading": "24. Bahwa keadilan kaitannya dengan kebijakan negara, persamaan , dan",
+      "slug": "24-bahwa-keadilan-kaitannya-dengan-kebijakan-negara-persamaan-dan",
+      "text": "kesetaraan dihadapan hukum. Ronald Dworkin dalam Taking Rights \nSeriously menekankan bahwa setiap kebijakan publik harus menjamin \nperlakuan setara terhadap semua warga negara. Sebagaimana Ronal d \nmenyatakan:  \n“Government must treat all those in its power as individuals with equal \nconcern and respect.” \n(Pemerintah harus memperlakukan setiap orang yang berada dalam \nkekuasaannya sebagai individu yang setara, dengan kepedulian da n \n\n15 \n \n \npenghormatan yang sama) (Ronald Dworkin, Taking Rights Seriously, \n1977) \nHal tersebut selaras dengan kerangka human rights constitutionalism , \nbatasan administratif seperti usia tidak boleh menyingkirkan ha k \nseseorang untuk berpartisipasi dalam urusan publik selama ia \nmenunjukkan kapasitas yang dibutuhkan. Maka, ketentuan umur \nseharusnya bersifat fleksibel dan terbuka terhadap pengecualian berbasis \nkompetensi dan pengalaman professional;",
+      "start_line": 511,
+      "end_line": 530
+    },
+    {
+      "heading": "25. Bahwa dalam kerangka teori hukum responsif seperti dikemuka kan oleh",
+      "slug": "25-bahwa-dalam-kerangka-teori-hukum-responsif-seperti-dikemuka-kan-oleh",
+      "text": "Philippe Nonet dan Philip  Selznick, hukum tidak boleh membeleng gu diri \npada prosedur yang rigid, melainkan harus adaptif terhadap kebu tuhan \ndan dinamika sosial. Sebagaimana pula kembali ditegaskan oleh S atjipto \nRahardjo yang menyatakan bahwa hukum harus menyesuaikan diri \ndengan perubahan masyarakat dan memperjuangkan keadilan substantif:  \n“Hukum tidak boleh semata-mata menjadi teks, tetapi harus bergerak \nmengikuti denyut kehidupan.” (Satjipto Rahardjo, Hukum Progresif, \n2009). \nMaka jelas bahwa hukum tidak boleh kaku dan hanya berpijak pada bunyi \npasal semata (legalistik formal), melainkan harus adaptif, huma nistik, dan \nresponsif terhadap perubahan sosial serta kebutuhan keadilan su bstantif \ndalam Masyarakat;",
+      "start_line": 532,
+      "end_line": 543
+    },
+    {
+      "heading": "26. Bahwa dengan demikian, berdasarkan fondasi filosofis pembentukan dan",
+      "slug": "26-bahwa-dengan-demikian-berdasarkan-fondasi-filosofis-pembentukan-dan",
+      "text": "perubahan Undang-Undang, norma syarat usia minimum 40 tahun dal am \nPasal 25 ayat (1) huruf f UU BPJS mengandung problem filosofis serius, \nkarena tidak mempertimbangkan prinsip rasionalitas, keadilan da n \npersamaan. Berangkat dari hal tersebut diatas, maka perubahan Undang-\nUndang merupakan keniscayaan dalam rangka menyesuaikan hukum \ntertulis dengan dinamika Masyarakat;",
+      "start_line": 545,
+      "end_line": 550
+    },
+    {
+      "heading": "27. Bahwa dalam konteks perubahan Undang-Undang, pembentuk Unda ng-",
+      "slug": "27-bahwa-dalam-konteks-perubahan-undang-undang-pembentuk-unda-ng",
+      "text": "Undang maupun Mahkamah Konstitusi sebagai penjaga konstitusi \nmemiliki legitimasi konstitusional untuk melakukan pengujian te rhadap \nnorma yang tidak lagi sesuai dengan nilai-nilai keadilan. Jeremy Bentham \nmengemukakan bahwa hukum yang baik adalah hukum yang memberikan \nkebahagiaan sebesar-besarnya bagi sebanyak-banyaknya orang ( the \n\n16 \n \n \ngreatest happiness of the greatest number ). Maka, jika ketentuan usia \nmenjadi penghambat hadirnya calon-calon terbaik yang memiliki r ekam \njejak dan pengalaman mumpuni, perubahan norma adalah langkah \nfilosofis yang tepat;",
+      "start_line": 552,
+      "end_line": 564
+    },
+    {
+      "heading": "28. Bahwa berdasarkan uraian tersebut diatas, dengan demikian p erubahan",
+      "slug": "28-bahwa-berdasarkan-uraian-tersebut-diatas-dengan-demikian-p-erubahan",
+      "text": "terhadap suatu Undang-Undang bukan hanya dimungkinkan tetapi pe rlu \ndilakukan apabila terdapat ketidaksesuaian antara norma hukum d engan \nprinsip-prinsip dasar keadilan dan hak asasi manusia. Oleh kare na itu, \nnorma batas usia sebagaimana diatur dalam Pasal 25 ayat (1) hur uf f UU \nBPJS terbukti secara filosofis bertentangan dengan prinsip Kead ilan dan \nRasionalitas dalam Fondasi Filosofis Pembentukan Undang-Undang,  \nsehingga merugikan hak konstitusional Pemohon; \nALASAN KEDUA, SECARA YURIDIS-KONSITITUSONAL NORMA SYARAT USIA \nMINIMAL DALAM PASAL 25 AYAT (1) HURUF F UNDANG-UNDANG NOMOR 24 \nTAHUN 2011 TENTANG BPJS MERUGIKAN HAK KONSTITUSIONAL PEMOHON \nMENGENAI PERSAMAAN, KESETARAAN, PERLAKUAN DAN KESEMPATAN \nYANG SAMA;",
+      "start_line": 566,
+      "end_line": 577
+    },
+    {
+      "heading": "29. Bahwa objek permohonan tersebut telah bertentangan dengan h ak-hak",
+      "slug": "29-bahwa-objek-permohonan-tersebut-telah-bertentangan-dengan-h-ak-hak",
+      "text": "konstitusional Pemohon yang diatur dan dilindungi oleh UUD NRI 1945 \nyaitu:  \nPasal 27 ayat (1) UUD NRI 1945 \n“Segala warga negara bersamaan kedudukannya di dalam hukum dan \npemerintahan dan wajib menjunjung hukum dan pemerintahan itu \ndengan tidak ada kecualinya” \nPasal 28D ayat (1) UUD NRI 1945  \n“setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum” \nPasal 28D ayat (3) UUD NRI 1945  \n“Setiap warga negara berhak atas kesempatan yang sama dalam \npemerintahan”",
+      "start_line": 579,
+      "end_line": 591
+    },
+    {
+      "heading": "30. Bahwa untuk diketahui, landasan prosedur seleksi calon angg ota Dewan",
+      "slug": "30-bahwa-untuk-diketahui-landasan-prosedur-seleksi-calon-angg-ota-dewan",
+      "text": "Pengawas atau anggota Direksi BPJS tertuang dalam Pasal 28 hingga 31 \nUU BPJS, yang pada pokoknya memiliki tahapan yakni:  \n\n17 \n \n \n1) Pengumuman resmi seleksi terbuka oleh Pansel bentukan Presid en; \n2) Pendaftaran mandiri secara daring; \n3) Seleksi administrasi dan kompetensi ( fit and proper test); \n4) Penetapan calon. Pansel mengusulkan nama-nama calon kepada \nPresiden; \n5) Presiden memilih dan menetapkan anggota Dewan Pengawas dan \nDireksi. \nTahapan tersebut menunjukkan bahwa jabatan anggota Dewan Pengawas \natau anggota Direksi BPJS bukan merupakan jabatan elected (dipilih \nlangsung oleh rakyat), dan juga bukan appointed semata (diangkat \nlangsung tanpa seleksi), melainkan selected, yaitu diisi melalui sistem \nseleksi terbuka bagi yang terlebih dahulu memenuhi syarat-syara t \nyang terdapat dalam Pasal 25 UU BPJS.  Namun, status “dicalonkan” \nbaru disematkan setelah lolos seleksi oleh Panitia Seleksi (Pan sel) dan \ndiusulkan kepada Presiden.",
+      "start_line": 593,
+      "end_line": 613
+    },
+    {
+      "heading": "31. Bahwa adapun Persyaratan untuk dapat mencalonkan diri sebag ai",
+      "slug": "31-bahwa-adapun-persyaratan-untuk-dapat-mencalonkan-diri-sebag-ai",
+      "text": "anggota Dewan Pengawas atau anggota Direksi, diatur dalam Pasal  2 5 \nsampai dengan Pasal 27 UU BPJS antara lain: \nPasal 25 UU BPJS \n(1) Untuk dapat diangkat sebagai anggota Dewan Pengawas atau anggota \nDireksi, calon yang bersangkutan harus memenuhi syarat sebagai \nberikut: \na. warga negara Indonesia; \nb. bertakwa kepada Tuhan Yang Maha Esa;",
+      "start_line": 615,
+      "end_line": 622
+    },
+    {
+      "heading": "d. memiliki integritas dan kepr ibadian yang tidak tercela;",
+      "slug": "d-memiliki-integritas-dan-kepr-ibadian-yang-tidak-tercela",
+      "text": "e. memiliki kualifikasi dan kompetensi yang sesuai untuk pengel olaan \nprogram Jaminan Sosial; \nf. berusia paling rendah 40 (empat puluh) tahun dan paling ting gi 60 \n(enam puluh) tahun pada saat dicalonkan menjadi anggota \ng. tidak menjadi anggota atau menjabat sebagai pengurus partai \npolitik; \nh. tidak sedang menjadi tersangka atau terdakwa dalam proses \nperadilan;",
+      "start_line": 625,
+      "end_line": 632
+    },
+    {
+      "heading": "i. tidak pernah dipidana penjara berdasarkan putusan pengadilan",
+      "slug": "i-tidak-pernah-dipidana-penjara-berdasarkan-putusan-pengadilan",
+      "text": "yang telah memperoleh kekuatan hukum tetap karena melakukan \ntindak pidana kejahatan yang diancam dengan pidana penjara 5 \n(lima) tahun atau lebih; dan/atau \nj. tidak pernah menjadi anggota direksi, komisaris, atau dewan \npengawas pada suatu badan hukum yang dinyatakan pailit karena \nkesalahan yang bersangkutan. \n\n18 \n \n \n(2) Selama menjabat, anggota Dewan Pengawas dan anggota Direksi tidak \nboleh merangkap jabatan di pemerintahan atau badan hukum lainnya. \n \nPasal 26 UU BPJS \nSelain harus memiliki persyaratan sebagaimana dimaksud dalam Pasal 25, \ncalon anggota Dewan Pengawas harus memenuhi persyaratan khusus,  \nyaitu memiliki kompetensi dan pengalaman di bidang manajemen, \nkhususnya di bidang pengawasan paling sedikit 5 (lima) tahun. \nPasal 27 UU BPJS \nSelain harus memiliki persyaratan sebagaimana dimaksud dalam Pasal 25, \ncalon anggota Direksi harus memenuhi persyaratan khusus, yaitu memiliki \nkompetensi yang terkait untuk jabatan direksi yang bersangkutan  dan \nmemiliki pengalaman manajerial paling sedikit 5 (lima) tahun",
+      "start_line": 634,
+      "end_line": 656
+    },
+    {
+      "heading": "32. Bahwa Pemohon merupakan warga negara Indonesia yang ingin",
+      "slug": "32-bahwa-pemohon-merupakan-warga-negara-indonesia-yang-ingin",
+      "text": "berpartisipasi secara aktif dan bertanggung jawab dalam penyelenggaraan \npemerintahan, khususnya pada sektor pelayanan publik di bidang jaminan \nsosial. Keinginan ini didasarkan pada kapasitas dan pengalaman konkret \nPemohon sebagaimana yang telah dikemukakan dalam legal standing \npermohonan ini. Namun demikian, pencapaian dan keberhasilan \nselama menjabat dalam usia yang masih muda, Pemohon tidak \nmemiliki ruang untuk ikut serta dalam proses seleksi anggota Dewan \nPengawas atau anggota Direksi BPJS karena adanya ketentuan Pasal \n25 ayat (1) huruf f UU BPJS sebagai salah satu syarat seleksi, yang \nmenetapkan:  \n“berusia paling rendah 40 (empat puluh) tahun…”",
+      "start_line": 658,
+      "end_line": 668
+    },
+    {
+      "heading": "33. Bahwa prinsip efisiensi, efektivitas, dan akuntabilitas dal am",
+      "slug": "33-bahwa-prinsip-efisiensi-efektivitas-dan-akuntabilitas-dal-am",
+      "text": "penyelenggaraan BPJS tersebut menuntut adanya kepemimpinan yang  \nberkompeten dan adaptif, termasuk dari generasi muda profesiona l yang \nmemiliki rekam jejak pelayanan publik sebagaimana dimiliki oleh  \nPemohon. Namun, dengan diberlakukannya batas usia secara mutlak  \ntanpa mempertimbangkan pengalaman dan kapasitas, norma tersebut  \njustru bertentangan dengan semangat UU BPJS itu sendiri, yang \nmenghendaki pengelolaan lembaga secara inklusif dan berorientas i pada \npelayanan kepada seluruh rakyat;",
+      "start_line": 670,
+      "end_line": 677
+    },
+    {
+      "heading": "34. Bahwa sekalipun Pemohon saat ini berusia 39 (tiga puluh sembilan) tahun",
+      "slug": "34-bahwa-sekalipun-pemohon-saat-ini-berusia-39-tiga-puluh-sembilan-tahun",
+      "text": "dan secara kalkulatif akan memenuhi syarat usia 40 tahun dalam waktu 1 \n\n19 \n \n \n(satu) tahun, namun hal tersebut tidak serta-merta menghilangkan urgensi \nkonstitusional dari permohonan a quo. Hal ini karena: \nPertama, norma yang diuji berlaku absolut dan memiliki daya berlaku \njangka panjang, sehingga akan terus membatasi warga negara lain nya di \nmasa mendatang yang berada dalam posisi serupa dengan Pemohon, \nkhususnya generasi muda produktif; \nKedua, proses seleksi calon anggota Direksi dan Dewan Pengawas BPJS \nbersifat periodik dan terjadwal yakni 5 tahun sekali sebagaimana ketentuan \nPasal 21 ayat (5) dan Pasal 23 ayat (4) UU BPJS, yang berbunyi: \nPasal 21 ayat (5) UU BPJS \n“Anggota Dewan Pengawas sebagaimana dimaksud pada ayat (1) \ndiangkat untuk j a n g k a  w a k t u  5  ( l i m a )  t a h u n dan dapat diusulkan \nuntuk diangkat kembali untuk 1 (satu) kali masa jabatan berikutnya” \nPasal 23 ayat (4) UU BPJS \n“Anggota Direksi diangkat untuk jangka waktu 5 (lima) tahun  d a n  \ndapat diusulkan untuk diangkat kembali untuk 1 (satu) kali masa  \njabatan berikutnya” \nSehingga keterlambatan dalam menguji norma dapat berdampak pada  \nhilangnya peluang potensial Pemohon untuk mencalonkan diri dala m \nseleksi terdekat tahun 2025. \nKetiga, permohonan ini tidak hanya berdasar pada kepentingan individual, \ntetapi juga menyentuh isu konstitusional yang lebih luas yang d apat \nmencederai prinsip persamaan dan kesetaraan di hadapan hukum \nsebagaimana dimaksud dalam Pasal 27 ayat (1), Pasal 28D ayat (1 ), dan \n(3) UUD NRI 1945.",
+      "start_line": 679,
+      "end_line": 708
+    },
+    {
+      "heading": "35. Bahwa oleh karena itu, alasan-alasan yang diuraiakan diatas mengenai",
+      "slug": "35-bahwa-oleh-karena-itu-alasan-alasan-yang-diuraiakan-diatas-mengenai",
+      "text": "batas usia minimal 40 Tahun dalam Undang-Undang a quo , Pemohon \nberpendapat bahwa meskipun norma a quo berasal dari kebijakan hukum \nterbuka (opened legal policy)  yang menjadi kewenangan pembentuk \nUndang-Undang, namun dalam perkara a quo norma syarat usia tersebut \ntelah menimbulkan pelanggaran terhadap prinsip persamaan, keadi lan, \nkesetaraan, dan perlindungan hak konstitusional warga negara, \nsebagaimana yang telah dikemukakan sebelumnya dalam permohonan \nini; \n\n20",
+      "start_line": 710,
+      "end_line": 721
+    },
+    {
+      "heading": "36. Dengan demikian, tetap terdapat ruang konstitusional bagi M ahkamah",
+      "slug": "36-dengan-demikian-tetap-terdapat-ruang-konstitusional-bagi-m-ahkamah",
+      "text": "Konstitusi untuk menguji dan menilai apakah norma tersebut mela nggar \nprinsip-prinsip konstitusional. Dalam kaitan ini, perlu dikaji lebih lanjut \nposisi Mahkamah terhadap pengaturan syarat usia dalam berbagai \nputusannya terdahulu yakni:  \n1) Putusan Nomor 15/PUU-V/2007  \nPengujian Undang-Undang Nomor 32 Tahun 2004 tentang \nPemerintahan Daerah terhadap UUD NRI 1945 (terkait syarat batas  \nusia kepala daerah) yang pada pokoknya  telah mempertimbangkan \nbahwa dalam kaitannya dengan kriteria usia UUD NRI 1945 tidak \nmenentukan batasan usia minimum tertentu untuk menduduki semja \njabatan dan aktivitas pemerintahan. Hal ini merupakan kebijakan  \nhukum terbuka (opened legal policy ), yang sewaktu-waktu dapat \ndiubah oleh pembentuk Undang-Undang sesuai dengan tuntutan \nkebutuhan perkembangan yang ada. Hal tersebut sepenuhnya \nmerupakan kewenangan pembentuk Undang-Undang yang apapun \npilihannya, tidak dilarang dan tidak bertentangan dengan UUD NR I \n1945 \n2) Putusan Nomor 37-39/PUU-VIII/2010  \nPenguian Undang-Undang Nomor 30 Tahun 2002 tentang Komisi \nPemberantasan Tindak Pidana Korupsi (KPK) terhadap UUD NRI 1945 \n(terkait syarat batas usia pimp inan KPK) yang pada pokoknya UUD  \nNRI 1945 tidak menetapkan batasan usia minimum tertentu untuk \nmenduduki jabatan atau menjalankan aktivitas pemerintahan. Hal ini \nmencerminkan kebijakan hukum yang terbuka (open legal policy ), \nyang memungkinkan perubahan oleh pembentuk Undang-Undang \nsesuai dengan perkembangan dan kebutuhan yang ada. Perubahan \ntersebut sepenuhnya merupakan wewenang pembentuk Undang-\nUndang dan tidak bertentangan atau dilarang oleh UUD NRI 1945 \n3) Putusan Nomor 26/PUU-VII/2009 \nPengujian Undang-Undang Nomor 42 Tahun 2008 tentang PEMILU \nterhadap UUD NRI 1945 (terkait syarat minimal perolehan suara) yang \npada pokoknya Mahkmah Konstitusi menyatakan: “Bahwa Mahkamah \ndalam fungsinya sebagai pengawal konstitusi tidak mungkin untuk  \n\n21 \n \n \nmembatalkan Undang-Undang jika kalua norma tersebut merupakan \ndelegasi kewenangan terbuka yang dapat ditentukan sebagai legal \npolicy oleh pembentuk Undang-Undang. Meskipun seandainya isi \nsuatu Undang-Undang dinilai buruk, maka Mahkamah tidak dapat \nmembatalkannya, sebab yang dinilai buruk tidak selalu berarti \ninkonstitusional, kecuali produk legal policy tersebut jelas-jelas \nmelanggar moralitas, rasionalitas, dan ketidakadilan yang intolerable. \nSepanjang pilihan kebijakan tidak merupakan hal yang melampaui \nkewenangan pembentuk Undang-Undang, tidak merupakan \npenyalahgunaan kewenangan, serta tidak nyata-nyata bertentangan  \ndengan UUD 1945, maka pilihan kebijakan demikian tidak dapat \ndibatalkan oleh Mahkamah” \n4) Putusan Nomor 7/PUU-XI/2013 \nPengujian Undang-Undang Nomor 8 Tahun 2011 tentang Perubahan \natas Undang-Undang Nomor 24 tahun 2003 tentang MK terhadap UUD \nNRI 1945 (terkait syarat batas usia hakim konstitusi) yang pada  \npokoknya Mahkamah Konstitusi menyatakan: “Terhadap kriteria usi a \nyang UUD 1945 tidak menentukan batasan usia tertentu untuk \nmenduduki semua jabatan dan aktivitas pemerintahan, hal ini \nmerupakan kebijakan hukum ( legal policy ) pembentuk Undang-\nUndang, yang sewaktu-waktu dapat diubah oleh pembentuk Undang-\nUndang sesuai dengan tuntutan kebutuhan perkembangan yang ada. \nHal tersebut sepenuhnya merupakan kewenangan pembentuk \nUndang-Undang yang apapun pilihannya, tidak dilarang dan tidak \nbertentangan dengan UUD NRI 1945”",
+      "start_line": 723,
+      "end_line": 784
+    },
+    {
+      "heading": "37. Bahwa oleh karena itu, meskipun pada dasarnya Mahkamah Kons titusi",
+      "slug": "37-bahwa-oleh-karena-itu-meskipun-pada-dasarnya-mahkamah-kons-titusi",
+      "text": "berpendapat bahwa penetapan syarat usia untuk jabatan publik \nmerupakan bagian dari kebijakan hukum ( legal policy ) yang ditentukan \noleh pembentuk Undang-Undang dan apapun pilihan yang diambil ol eh \npembentuk Undang-Undang, hal tersebut tidak dilarang dan tidak \nbertentangan dengan UUD NRI 1945, namun masih terdapat ruang \nkonstitusional bagi Mahkamah Konstitusi untuk menguji dan menil ai \napakah norma tersebut melanggar prinsip-prinsip konstitusional.  \n\n22 \n \n \nSebagaimana dalam Putusan MK Nomor 7/PUU-XI/2013, MK memberikan \ntambahan pandangan yakni: \n“Namun demikian, menurut Mahkamah hal tersebut dapat menjadi \npermasalahan konstitusional jika aturan tersebut menimbulkan \nproblematika kelembagaan, yaitu tidak dapat dilaksanakan, atura nnya \nmenyebabkan kebuntuan hukum (dead lock) dan menghambat \nmelaksanakan kinerja lembaga negara yang bersangkutan yang pada  \nakhirnya menimbulkan kerugian konstitusionalitas warga negara.”",
+      "start_line": 786,
+      "end_line": 805
+    },
+    {
+      "heading": "38. Bahwa apabila ketentuan Pasal 25 ayat (1) huruf f UU BPJS t etap",
+      "slug": "38-bahwa-apabila-ketentuan-pasal-25-ayat-1-huruf-f-uu-bpjs-t-etap",
+      "text": "diberlakukan dan dipertahankan, maka berpotensi untuk menimbulk an \nproblematika kelembagaan sebagaimana Putusan MK Nomor 7/PUU-\nXI/2013. Seperti kita ketahui bersama, bahwa transformasi digit al dalam \npelayanan publik, termasuk sistem informasi BPJS, menuntut \nkepemimpinan yang responsif terhadap perkembangan teknologi \ninformasi, big data, dan sistem pelayanan berbasis digital. Dalam hal ini \ngenerasi muda merupakan segmen populasi yang secara umum lebih \nadaptif terhadap perubahan teknologi, sehingga dalam situasi di mana \nkebutuhan akan anak muda yang inovatif dan melek digital terutama untuk \nmengelola sistem BPJS yang kompleks, pembatasan usia justru dap at \nmengeliminasi calon-calon potensial yang secara sejatinya memil iki \nkeahlian, pengalaman, dan kapabilitas untuk memastikan bahwa BP JS \nmenjadi lembaga publik yang inklusif dan modern. Akibatnya, pro ses \nseleksi dapat terkendala atau bahkan gagal memperoleh kandidat yang \nideal, yang pada gilirannya menghambat pelaksanaan fungsi BPJS \nsebagai lembaga publik penyelenggara jaminan sosial;",
+      "start_line": 807,
+      "end_line": 822
+    },
+    {
+      "heading": "39. Bahwa sebagaimana pemohon a quo sampaikan, apabila organ BPJS",
+      "slug": "39-bahwa-sebagaimana-pemohon-a-quo-sampaikan-apabila-organ-bpjs",
+      "text": "seperti anggota Dewan Komisaris dan anggota Direksi tidak dapat  d i i s i  \noleh sosok muda di bawah 40 (empat puluh) tahun padahal telah memiliki \nlatar belakang akademik, pengalaman manajerial, serta wawasan \nteknologi yang sangat relevan dengan perkembangan jaman, maka sangat \ndisayangkan jika norma ketentuan pembatasan usia tersebut berpo tensi \nmenjadi hambatan untuk membuat BPJS menjadi lembaga yang responsif \nterhadap kemajuan dan tantangan di masa depan.",
+      "start_line": 824,
+      "end_line": 830
+    },
+    {
+      "heading": "40. Bahwa untuk memperjelas posisi konstitusional permohonan a quo ,",
+      "slug": "40-bahwa-untuk-memperjelas-posisi-konstitusional-permohonan-a-quo",
+      "text": "penting untuk Pemohon tegaskan bahwa Mahkamah sebelumnya pernah  \nmemutus permohonan terhadap norma yang sama yakni Pasal 25 ayat (1) \n\n23 \n \n \nhuruf f UU BPJS dalam Putus an No. 47/PUU-XIII/2015, namun \npermohonan a quo  berbeda secara pendekatannya. Pertama, \npermohonan ini tidak hanya menyoal legal policy , tetapi juga \nmengemukakan substansial norma usia dari sisi keadilan, kesetaraan, dan \npersamaan berbasis usia. Kedua, permohonan ini didukung oleh \npendekatan yang lebih komprehensif: filosofis, yuridis, dan emp iris. Oleh \nkarena itu, permohonan ini bukan pengulangan, melainkan menghadirkan \nisu konstitusional baru yang relevan dan layak diperiksa;",
+      "start_line": 832,
+      "end_line": 845
+    },
+    {
+      "heading": "41. Bahwa berdasarkan seluruh pertimbangan tersebut, Mahkamah Konstitusi",
+      "slug": "41-bahwa-berdasarkan-seluruh-pertimbangan-tersebut-mahkamah-konstitusi",
+      "text": "dalam perkara a quo  seharusnya memberikan tafsir bersyarat terhadap \nketentuan Pasal 25 ayat (1) huruf f UU BPJS, yakni dengan menya takan \n“berusia paling rendah 40 (empat puluh) tahun atau memiliki \npengalaman dalam jabatan manajerial pada institusi atau entitas yang \nmenyelenggarakan pelayanan publik dan paling tinggi 60 (enam \npuluh) tahun pada saat dicalonkan”.",
+      "start_line": 847,
+      "end_line": 852
+    },
+    {
+      "heading": "42. Bahwa berkaitan dengan “tafsir bersyarat” tersebut, Pemohon dengan ini",
+      "slug": "42-bahwa-berkaitan-dengan-tafsir-bersyarat-tersebut-pemohon-dengan-ini",
+      "text": "menyampaikan penegasan batasan makna dari frasa-frasa dimaksud,  \nagar tidak menimbulkan ketidakpastian hukum dan tetap sejalan d engan \nprinsip lex certa dalam pembentukan norma hukum, yaitu sebagai berikut: \n “Pengalaman dalam jabatan manajerial”  dimaknai sebagai \npengalaman nyata dan terukur dalam memimpin, mengatur, serta \nmengambil keputusan strategis pada suatu unit, departemen, \nlembaga, atau organisasi baik di sektor publik maupun privat, d engan \ntanggung jawab atas sumber daya manusia, keuangan, dan/atau \nkebijakan organisasi; \n “Entitas yang menyelenggarakan pelayanan publik”  d i m a k n a i  \nsebagai lembaga, organisasi, a tau badan hukum, baik milik negar a, \nswasta, maupun organisasi non-pemerintah, yang secara langsung \nmemberikan layanan dasar atau strategis kepada masyarakat luas \ndalam bidang kesehatan, pendidikan, keuangan, sosial, transport asi, \natau bidang lain yang menyangkut hajat hidup orang banyak atau \nkepentingan umum;",
+      "start_line": 854,
+      "end_line": 869
+    },
+    {
+      "heading": "43. Bahwa sebagai penguatan atas permohonan tafsir bersyarat ya ng",
+      "slug": "43-bahwa-sebagai-penguatan-atas-permohonan-tafsir-bersyarat-ya-ng",
+      "text": "diajukan, Pemohon juga telah melakukan penelusuran terhadap dokumen \n\n24 \n \n \npembentukan UU BPJS khususnya terkait ketentuan Pasal 25 ayat ( 1) \nhuruf f, terhadap risalah rapat DPR dan Naskah Akademik RUU BPJ S, \ntidak ditemukan alasan eksplisit maupun argumentasi normatif ya ng \nmenjelaskan secara rinci latar belakang penetapan usia minimal 40 tahun \nsebagai syarat menjadi anggota Dewan Pengawas atau Direksi BPJS . \nKetentuan tersebut tampak dimuat sebagai standar administratif semata, \ntanpa dukungan analisis filosofis, yuridis, atau sosiologis yan g memadai. \nKetiadaan dasar tersebut menunjukkan lemahnya ratio legis dari norma a \nquo, dan semakin menegaskan bahwa pembatasan usia ini tidak memiliki \nlegitimasi konstitusional;",
+      "start_line": 871,
+      "end_line": 885
+    },
+    {
+      "heading": "44. Bahwa Bahwa dengan demikian, norma a quo h a r u s d i n y a t a k a n",
+      "slug": "44-bahwa-bahwa-dengan-demikian-norma-a-quo-h-a-r-u-s-d-i-n-y-a-t-a-k-a-n",
+      "text": "bertentangan dengan UUD 1945 secara bersyarat  ( conditionally \nunconstitutional), sepanjang tidak dimaknai sebagaimana tersebut di atas, \nguna menjamin perlindungan hak konstitusional warga negara, pri nsip \nkeadilan substantif, serta untuk menghindari ketidakadilan yang  \nintolerable. \nALASAN KETIGA, SECARA EMPIRIS-SOSIOLOGIS NORMA SYARAT USIA \nDALAM Pasal 25 ayat (1) huruf f UNDANG-UNDANG NOMOR 24 TAHUN 20 11",
+      "start_line": 887,
+      "end_line": 893
+    },
+    {
+      "heading": "45. Bahwa dalam dinamika perkembangan sosial dan kependudukan",
+      "slug": "45-bahwa-dalam-dinamika-perkembangan-sosial-dan-kependudukan",
+      "text": "Indonesia saat ini, terjadi fenomena bonus demografi yang sanga t \nsignifikan. Berdasarkan data Badan Pusat Statistik (BPS) dan Ba ppenas, \nIndonesia tengah memasuki periode bonus demografi sejak tahun 2 020 \nyang diproyeksikan mencapai puncaknya pada tahun 2030, dengan sekitar \n70% penduduk Indonesia berada dalam usia produktif (15–64 tahun). Data \nmenunjukkan bahwa: \n Lebih dari 50% penduduk merupakan Generasi Z dan Milenial, yang \nsedang atau akan memasuki usia 25–40 tahun; \n Piramida penduduk menunjukkan penyempitan pada kelompok usia \nmuda (0–14 tahun) dan pelebaran pada usia produktif. \n\n25 \n \n \nKetentuan dalam Pasal 25 ayat (1) huruf f UU BPJS yang menetapk an \nbatas usia minimal 40 tahun untuk calon anggota Dewan Pengawas atau \nanggota Direksi BPJS berpotensi menghambat partisipasi generasi  \nproduktif, serta tidak sejalan dengan arah kebijakan pembangunan sumber \ndaya manusia berbasis demografi.",
+      "start_line": 898,
+      "end_line": 916
+    },
+    {
+      "heading": "46. Bahwa jumlah penduduk usia produktif Indonesia pada tahun 2 025",
+      "slug": "46-bahwa-jumlah-penduduk-usia-produktif-indonesia-pada-tahun-2-025",
+      "text": "diperkirakan mencapai 191 juta orang dari total proyeksi pendud uk \nsebanyak 273 juta orang, menunjukkan dominasi kelompok usia pro duktif \nyang seharusnya menjadi kekuatan nasional dalam berbagai bidang , \ntermasuk sektor pelayanan publik dan jaminan sosial. Dalam kont eks \ntersebut, generasi muda profesional yang berusia di bawah 40 tahun justru \nmerupakan bagian terpenting dalam pembangunan nasional ke depan , \nyang memiliki karakteristik: \n1) Tingkat pendidikan formal yang lebih tinggi dibandingkan gen erasi \nsebelumnya, \n2) Penguasaan teknologi informasi dan digitalisasi pelayanan pu blik, \n3) Pengalaman profesional yang diperoleh lebih dini melalui din amika \nindustri, ekonomi kreatif, dan lembaga publik.",
+      "start_line": 918,
+      "end_line": 929
+    },
+    {
+      "heading": "8. Bahwa Pemohon secara pribadi merupakan representasi konkret dari",
+      "slug": "8-bahwa-pemohon-secara-pribadi-merupakan-representasi-konkret-dari",
+      "text": "generasi muda profesional Indones ia, yang memiliki pengalaman d an \nkompetensi relevan dalam bidang pelayanan publik serta pengelol aan \ninstitusi strategis. Pemohon merupakan bagian dari kelompok usi a \nproduktif yang menjadi kekuatan utama dalam pembangunan nasiona l \nsaat ini, bukan hanya sekedar usia akan tetapi berkesesuaian de ngan \nPendiidikan, Pengalaman dan bahkan prestasi sebagai bukti empiris yang \ntelah dicapai oleh Pemohon, yang selanjutnya akan kami uraiakn sebagai \nberikut: \na. Pengalaman Pekerjaan Profesional \n1) Pemohon pernah menjabat sebagai Komisaris PT Bank Syariah \nMandiri dan Komisaris Independen PT Bank Syariah Indonesia. \nRekam jejak ini menunjukkan keterpaduan antara pemahaman teknis \npelayanan publik dan kemampuan dalam tata kelola keuangan; \n\n26 \n \n \n2) Pemohon Pernah juga menjabat pada sektor privat di PT Merial Insan \nMedika/Merial Health dan PT. Merial Media Utama, masing-masing \nsebagai komisaris. Yang berdampak bagi bagi masyarakat umum; \nb. Pendidikan Formal dan Non Formal \nPemohon memiliki latar belakang pendidikan formal di Pendidikan  \nDokter Gigi Universitas Hasanuddin. Magister bidang kesehatan \nmasyarakat  di Universitas Indonesia jurusan Administrasi Dan \nKebijakan Kesehatan. Doktor Ilmu Kesehatan Masyarakat dari \nUniversitas Indonesia dengan disertasi berjudul \"Rumusan Kebijakan \nAsuransi Kesehatan Tambahan Peserta Jaminan Kesehatan \nNasional\". Disertasi tersebut mengkaji kebutuhan masyarakat \nterhadap asuransi kesehatan tambahan yang dapat melengkapi \ncakupan layanan JKN, dengan pendekatan kuantitatif dan kualitat if \nyang melibatkan analisis data Survei Sosial Ekonomi Nasional se rta \nwawancara mendalam dengan pemangku kepentingan;",
+      "start_line": 931,
+      "end_line": 962
+    },
+    {
+      "heading": "c. Kontribusi dan Penghargaan",
+      "slug": "c-kontribusi-dan-penghargaan",
+      "text": "1) Bahwa Pemohon menjabat sebagai Komisaris Independen PT Bank \nSyariah Indonesia Tbk (BSI) sejak 1 Februari 2021 hingga November",
+      "start_line": 964,
+      "end_line": 965
+    },
+    {
+      "heading": "2023. Selama masa jabatan Pemohon tersebut, BSI mencatatkan",
+      "slug": "2023-selama-masa-jabatan-pemohon-tersebut-bsi-mencatatkan",
+      "text": "pertumbuhan signifikan sebagaimana dalam laporan keuangan \npublikasi triwulan 31 maret 2021 hingga 30 september 2023 telah  \ntercatat adanya peningkatan aset sebesar 36%, liabilitas 33%, \nekuitas 65%, dan modal 56%. Pertumbuhan tersebut mencerminkan \nkontribusi Pemohon dalam penguatan tata kelola dan strategi bis nis \nbank syariah terbesar di Indonesia; \n2) Bahwa selanjutnya keberhasilan Pemohon terhadap kontribusi \nsebagai komisaris BSI dalam mendorong literasi dan inklusi \nkeuangan syariah di Indonesia juga dibuktikan dengan penerimaan  \npenghargaan sebagai Tokoh Penggiat Ekonomi Syariah Terbaik dari \nBank Indonesia pada tahun 2021 dan penghargaan Ten Outstanding \nYoung Person (TOYP) Indonesia kategori Prestasi Bisnis, Ekonomi, \ndan Kewirausahaan oleh Junior Chamber International  ( J C I )  \nIndonesia pada tahun 2022, sebagai pengakuan atas kiprah dan \n\n27 \n \n \ninspirasi yang diberikan kepada pemuda Indonesia dalam bidang \nekonomi dan kewirausahaan; \nBahwa seluruh rekam jejak, sertifikasi, dan pengakuan resmi \ntersebut mempertegas bahwa Pemohon memiliki kapasitas \nteknis, pengalaman manajerial, serta pemahaman tata kelola \nkelembagaan yang memadai dan sesuai dengan fungsi serta \ntanggung jawab jabatan anggota Dewan Pengawas atau anggota \nDireksi atau Dewan Pengawas BPJS. Kemampuan dalam \nmanajemen risiko, good corporate governance , serta integrasi \nsektor kesehatan dan keuangan menjadi nilai tambah signifikan;",
+      "start_line": 967,
+      "end_line": 994
+    },
+    {
+      "heading": "9. Bahwa Pemohon merupakan bagian dari generasi profesional mud a",
+      "slug": "9-bahwa-pemohon-merupakan-bagian-dari-generasi-profesional-mud-a",
+      "text": "Indonesia yang menjadi bagian dari bonus demografi nasional 2020–2035. \nNorma usia ini tidak hanya merugikan hak Pemohon secara individ ual, \ntetapi juga membatasi hak struktural generasi muda untuk terlib at dalam \njabatan strategis publik;",
+      "start_line": 996,
+      "end_line": 999
+    },
+    {
+      "heading": "47. Bahwa perkembangan dunia profesional di Indonesia juga menu njukkan",
+      "slug": "47-bahwa-perkembangan-dunia-profesional-di-indonesia-juga-menu-njukkan",
+      "text": "pergeseran signifikan, di mana generasi muda usia 30–40 tahun t elah \nmendominasi posisi strategis di berbagai sektor, termasuk sekto r \nkeuangan, teknologi, dan pelayanan publik. Data LinkedIn Workfo rce \nReport 2024 memperlihatkan bahwa rata-rata usia pemimpin profes ional",
+      "start_line": 1001,
+      "end_line": 1004
+    },
+    {
+      "heading": "di Indonesia kini berada pada rentang usia tersebut, mencermink an",
+      "slug": "di-indonesia-kini-berada-pada-rentang-usia-tersebut-mencermink-an",
+      "text": "akselerasi kompetensi dan kematangan generasi muda. Contoh konk ret \nkeberhasilan generasi muda dalam mengemban jabatan publik dan \nmanajerial strategis, antara lain:  \n Yuliandre Darwis, yang pada usia 36 tahun menjabat sebagai Ketua \nKomisi Penyiaran Indonesia (KPI) Pusat periode 2016–2019. Ia juga \ndipercaya sebagai Presiden OIC Broadcasting Forum pada 2017. \nCapaian ini menunjukkan bahwa usia bukan indikator tunggal \nkepemimpinan publik, dan profesional muda terbukti mampu \nmemimpin lembaga strategis dengan akuntabilitas tinggi; \n Angela Tanoesoedibjo, diangkat sebagai Wakil Menteri Pariwisata \ndan Ekonomi Kreatif pada usia 32 tahun dan terbukti mampu \nmenjalankan peran strategis dalam pemulihan sektor pariwisata d an \nekonomi kreatif. Ini menunjukkan bahwa usia muda bukan hambatan \n\n28 \n \n \nuntuk kontribusi pemerintahan, dan pembatasan usia justru beris iko \nmenghalangi partisipasi SDM potensial dalam \npembangunan nasional; \n Bahwa di tingkat global, terdapat pula Jacinda Ardern  menjadi \nPerdana Menteri Selandia Baru pada usia 37 tahun dan Sebastian \nKurz menjadi Kanselir Austria pada usia 31 tahun;",
+      "start_line": 1006,
+      "end_line": 1028
+    },
+    {
+      "heading": "48. Bahwa perkembangan tersebut menunjukkan bahwa faktor usia b iologis",
+      "slug": "48-bahwa-perkembangan-tersebut-menunjukkan-bahwa-faktor-usia-b-iologis",
+      "text": "bukanlah indikator utama dari kompetensi, kapasitas manajerial,  maupun \nkesiapan memimpin lembaga publik, termasuk lembaga strategis se perti \nBPJS yang mengelola sistem jaminan sosial nasional;",
+      "start_line": 1030,
+      "end_line": 1032
+    },
+    {
+      "heading": "49. Bahwa norma Pasal 25 ayat (1) huruf (f) UU BPJS yang menetapkan usia",
+      "slug": "49-bahwa-norma-pasal-25-ayat-1-huruf-f-uu-bpjs-yang-menetapkan-usia",
+      "text": "minimal 40 tahun tidak mempertimbangkan perubahan sosial, dinam ika \nkompetensi profesional, serta transformasi kebutuhan pelayanan publik di \nera digital dan teknologi informasi. Bahwa secara empiris, kete ntuan \ntersebut membatasi partisipasi generasi muda yang potensial, \nmenghambat regenerasi kepemimpinan dalam lembaga publik, \nmenciptakan hambatan administratif tanpa korelasi langsung deng an \nkompetensi substantif;",
+      "start_line": 1034,
+      "end_line": 1040
+    },
+    {
+      "heading": "50. Bahwa dengan mempertimbangkan prinsip keseimbangan generasi dan",
+      "slug": "50-bahwa-dengan-mempertimbangkan-prinsip-keseimbangan-generasi-dan",
+      "text": "memperluas partisipasi berdasarkan kompetensi, lembaga seperti BPJS \njustru akan memperoleh manfaat dari keragaman usia dan pengalam an, \nserta mempercepat inovasi dalam penyelenggaraan jaminan sosial \nnasional;",
+      "start_line": 1042,
+      "end_line": 1045
+    },
+    {
+      "heading": "51. Bahwa dengan demikian, mempertahankan batas usia absolut 40 tahun",
+      "slug": "51-bahwa-dengan-demikian-mempertahankan-batas-usia-absolut-40-tahun",
+      "text": "tanpa pengecualian bertentangan dengan realitas sosial masyarak at \nIndonesia kontemporer dan tidak sejalan dengan cita-cita negara  u n t u k  \nmembangun pemerintahan yang inklusif, partisipatif, dan adaptif. \nALASAN KEEMPAT, PERBANDINGAN DI BEBERAPA NEGARA MENGENAI \nJABATAN YANG SETARA DENGAN BPJS ATAU PELAYANAN PUBLIK;",
+      "start_line": 1047,
+      "end_line": 1051
+    },
+    {
+      "heading": "52. Bahwa dalam praktik ketatanegaraan modern, negara-negara de mokratis",
+      "slug": "52-bahwa-dalam-praktik-ketatanegaraan-modern-negara-negara-de-mokratis",
+      "text": "menunjukkan kecenderungan untuk tidak memberlakukan batas usia \nminimum yang rigid dan absolut dalam pengisian jabatan publik s trategis, \nmelainkan mempertimbangkan faktor kapasitas kepemimpinan, \npengalaman profesional, serta menyelenggarakan pelayanan publik . \n\n29 \n \n \nPendekatan ini mendorong meritokrasi dan keterbukaan partisipasi generasi \nmuda dalam pemerintahan. Hal ini ditunjukkan oleh beberapa cont oh \nnegara, yaitu: \na. Jabatan Publik Yang Menjalankan Fungsi Pemerintahan (Setera \nBPJS) \n1) Prancis: Tidak terdapat batas usia dalam pengangkatan Direktur \nCNAM (setara BPJS), hanya mensyaratkan integritas dan kompetensi; \n2) Inggris: Penunjukan CEO National Health Service (NHS) didasarkan \npada pengalaman, banyak yang berasal dari usia 30-an; \n3) Selandia Baru : Jabatan strategis teknokratis di Kementerian \nPembangunan Sosial terbuka tanpa pembatasan umur; \n4) Singapura: Badan seperti Central Provident Fund (CPF) menunjuk \nprofesional muda sebagai eksekutif senior tanpa syarat usia; \n5) Indonesia: Mahkamah Konstitusi sendiri telah memberikan tafsir \nkonstitusional terkait usia dalam Putusan MK terdahulu bahwa us ia \nbukanlah syarat mutlak apabila terdapat pengalaman dalam jabata n \npublik; \nMaka, pembatasan usia minimal 40 tahun dalam Pasal 25 ayat (1) huruf \nf UU BPJS bertentangan dengan praktik konstitusional modern dan  \ntidak memenuhi asas proporsionalitas serta inklusivitas yang di akui \nsecara global. \nb. Jabatan Publik dan Pemerintahan  \n1) Emmanuel Macron , terpilih sebagai Presiden Prancis pada tahun \n2017 dalam usia 39 tahun, menjadikannya presiden termuda dalam \nsejarah modern Prancis. Dalam kerangka hukum Prancis, setelah \nreformasi konstitusi tahun 2011, usia minimum calon presiden ha nya \nditetapkan 18 tahun. Pemilihan Macron menunjukkan bahwa faktor \nutama yang dipertimbangkan adalah visi, kapasitas kepemimpinan,  \ndan pengalaman relevan, bukan usia biologis; \nBahwa keberhasilan kepemimpinan Macron tercermin dalam berbagai  \nkebijakan reformis yang berdampak signifikan terhadap perekonomian \nPrancis, termasuk reformasi pasar tenaga kerja, penguatan sekto r \nenergi terbarukan, serta kebijakan fiskal yang berorientasi pad a \npertumbuhan dan stabilitas. Selama masa jabatannya, tingkat \n\n30 \n \n \npengangguran Prancis tercatat menurun ke level terendah sejak 2008. \nHal ini membuktikan bahwa usia muda bukanlah hambatan dalam \nmenjalankan tugas kepemimpinan negara secara efektif, apabila \ndidukung oleh kapasitas dan komitmen publik yang kuat; \n2) Jacinda Ardern, Bahwa selain Prancis, Selandia Baru yang dilantik \nsebagai Perdana Menteri pada usia 37 tahun pada tahun 2017, jug a \nmemberikan contoh konkret keberhasilan pemimpin muda. Selandia \nBaru tidak memberlakukan batas usia minimum yang kaku untuk \njabatan perdana menteri, dan penilaian terhadap calon pemimpin \ndidasarkan pada kapasitas politik, pengalaman, serta komitmen \nterhadap kesejahteraan rakyat; \nBahwa di bawah kepemimpinan Jacinda Ardern, Selandia Baru berhasil \nmendapatkan pengakuan internasional dalam penanganan pandemi \nCOVID-19 secara cepat, humanis, dan efektif, dengan angka infek si \ndan kematian yang relatif rendah dibandingkan banyak negara maj u \nlainnya. Ardern juga dikenal memperjuangkan isu kesejahteraan sosial, \nkeberlanjutan lingkungan, dan kesetaraan gender. Ini membuktika n \nbahwa keterbukaan terhadap pemimpin muda membawa pembaruan \ndan responsivitas dalam menghadapi tantangan sosial modern;",
+      "start_line": 1053,
+      "end_line": 1117
+    },
+    {
+      "heading": "53. Bahwa berbagai contoh tersebut diatas menunjukkan bahwa fle ksibilitas",
+      "slug": "53-bahwa-berbagai-contoh-tersebut-diatas-menunjukkan-bahwa-fle-ksibilitas",
+      "text": "dalam pengaturan usia jabatan publik memberikan peluang kepada \ngenerasi muda yang memiliki kapasitas profesional dan integrita s untuk \nberkontribusi secara nyata terhadap kemajuan negara. Bahwa \nkeberhasilan tersebut bukan sekadar persoalan usia, tetapi lebi h pada \nkualitas kepemimpinan, pengalaman relevan, dan visi strategis;",
+      "start_line": 1119,
+      "end_line": 1123
+    },
+    {
+      "heading": "54. Bahwa berdasarkan prinsip hukum perbandingan ( comparative",
+      "slug": "54-bahwa-berdasarkan-prinsip-hukum-perbandingan-comparative",
+      "text": "constitutional law ), praktik konstitusional di Prancis dan Selandia Baru \nddapat dan beberara negara lainnya dengan jabatan setara BPJS j uga \ndapat dijadikan rujukan bahwa pengaturan syarat usia secara fleksibel dan \nberbasis meritokrasi lebih sejalan dengan prinsip demokrasi mod ern, \nkeadilan substantif, serta perlindungan hak-hak konstitusional warga \nnegara;",
+      "start_line": 1125,
+      "end_line": 1130
+    },
+    {
+      "heading": "55. Bahwa oleh karena itu, ketentuan Pasal 25 ayat (1) huruf (f ) Undang-",
+      "slug": "55-bahwa-oleh-karena-itu-ketentuan-pasal-25-ayat-1-huruf-f-undang",
+      "text": "Undang Nomor 24 Tahun 2011 tentang BPJS yang membatasi usia \n\n31 \n \n \nminimal secara absolut tanpa mempertimbangkan kapasitas individ u, \nharus ditafsirkan secara bersyarat ( conditionally unconstitutio nal), untuk \ntetap membuka peluang partisipasi generasi muda profesional dal am \njabatan strategis yang berdampak luas bagi kesejahteraan publik. \nIV. PETITUM \nBahwa berdasarkan kewenangan Mahkamah dan setelah memperhatikan  \nkedudukan hukum ( legal standing ) dan alasan-alasan hukum baik secara \nfilosofis, yurids-konstitusional, empiris-sosiologis dan perban dingan \ndiberbagai negara (Comparative Constituinal Law), yang telah Pemohon \nuraikan tersebut di atas, maka Pemohon dengan ini memohon kepad a \nMahkamah Konstitusi dapat mengabulkan hal-hal sebagai berikut:",
+      "start_line": 1132,
+      "end_line": 1147
+    },
+    {
+      "heading": "2. Menyatakan pada Pasal 25 ayat (1) huruf f Undang-Undang Nomo r 24",
+      "slug": "2-menyatakan-pada-pasal-25-ayat-1-huruf-f-undang-undang-nomo-r-24",
+      "text": "Tahun 2011 tentang Badan Penyelenggara Jaminan Sosial (Lembaran  \nNegara Republik Indonesia Tahun 2011 Nomor 116, Tambahan Lembaran \nNegara Republik Indonesia Nomor 5256) bertentangan dengan Undan g-\nUndang Dasar Negara Republik Indonesia Tahun 1945 secara bersya rat \n(conditionally unconstitutional ) dan tidak mempunyai kekuatan hukum \nmengikat sepanjang tidak dimaknai dengan “berusia paling rendah  4 0  \n(empat puluh) tahun atau memiliki pengalaman dalam jabatan manajerial \npada institusi atau entitas yang menyelenggarakan pelayanan publik dan \npaling tinggi 60 (enam puluh) tahun pada saat dicalonkan”.",
+      "start_line": 1150,
+      "end_line": 1158
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagimana mestinya. \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain , mohon \nputusan yang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuk tikan dalilnya, Pemohon telah \nmengajukan alat bukti surat/tulisan yang diberi tanda Bukti P-1 sampai dengan Bukti \nP-12 sebagai berikut:",
+      "start_line": 1160,
+      "end_line": 1165
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 1167,
+      "end_line": 1167
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Nomor 24 Tahun 2011 tentang",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-nomor-24-tahun-2011-tentang",
+      "text": "Badan Penyelenggara Jaminan Sosial (BPJS); \n\n32",
+      "start_line": 1169,
+      "end_line": 1173
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Undang-Undang Nomor 39 Tahun 1999 tenta ng",
+      "slug": "4-bukti-p-4-fotokopi-undang-undang-nomor-39-tahun-1999-tenta-ng",
+      "text": "HAM;",
+      "start_line": 1176,
+      "end_line": 1176
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi SK OJK No. 14/KDK.03/2021 tentang",
+      "slug": "5-bukti-p-5-fotokopi-sk-ojk-no-14-kdk-03-2021-tentang",
+      "text": "Pengangkatan Pemohon sebagai Komisaris BSI;",
+      "start_line": 1178,
+      "end_line": 1178
+    },
+    {
+      "heading": "6. Bukti P-6A : Fotokopi Sertifikat Pelatihan Dasar Perbankan S yariah (April",
+      "slug": "6-bukti-p-6a-fotokopi-sertifikat-pelatihan-dasar-perbankan-s-yariah-april",
+      "text": "2020);",
+      "start_line": 1180,
+      "end_line": 1180
+    },
+    {
+      "heading": "8. Bukti P-6C : Fotokopi Sertifikasi Kompetensi Komisaris Level 2 o l e h",
+      "slug": "8-bukti-p-6c-fotokopi-sertifikasi-kompetensi-komisaris-level-2-o-l-e-h",
+      "text": "BNSP;",
+      "start_line": 1183,
+      "end_line": 1183
+    },
+    {
+      "heading": "9. Bukti P-6D : Fotokopi Sertifikasi General Banking Syariah Ti ngkat 1",
+      "slug": "9-bukti-p-6d-fotokopi-sertifikasi-general-banking-syariah-ti-ngkat-1",
+      "text": "(LPPI);",
+      "start_line": 1185,
+      "end_line": 1185
+    },
+    {
+      "heading": "10. Bukti P-6E : Fotokopi Sertifikasi General Banking Syariah T ingkat 2",
+      "slug": "10-bukti-p-6e-fotokopi-sertifikasi-general-banking-syariah-t-ingkat-2",
+      "text": "(LPPI);",
+      "start_line": 1187,
+      "end_line": 1187
+    },
+    {
+      "heading": "11. Bukti P-6F : Fotokopi Sertifikasi General Banking Syariah T ingkat 3",
+      "slug": "11-bukti-p-6f-fotokopi-sertifikasi-general-banking-syariah-t-ingkat-3",
+      "text": "(LPPI);",
+      "start_line": 1189,
+      "end_line": 1189
+    },
+    {
+      "heading": "12. Bukti P-6G : Fotokopi Sertifikasi Manajemen Risiko Perbanka n Tingkat 1",
+      "slug": "12-bukti-p-6g-fotokopi-sertifikasi-manajemen-risiko-perbanka-n-tingkat-1",
+      "text": "(PT Peak Pratama Indonesia);",
+      "start_line": 1191,
+      "end_line": 1191
+    },
+    {
+      "heading": "13. Bukti P-6H : Fotokopi Sertifikasi Manajemen Risiko Perbanka n Tingkat 2",
+      "slug": "13-bukti-p-6h-fotokopi-sertifikasi-manajemen-risiko-perbanka-n-tingkat-2",
+      "text": "(PT Peak Pratama Indonesia);",
+      "start_line": 1193,
+      "end_line": 1193
+    },
+    {
+      "heading": "15. Bukti P-6J : Fotokopi Curiculum Vitae (CV) Muhammad Arief Rosyid",
+      "slug": "15-bukti-p-6j-fotokopi-curiculum-vitae-cv-muhammad-arief-rosyid",
+      "text": "Hasan;",
+      "start_line": 1196,
+      "end_line": 1196
+    },
+    {
+      "heading": "20. Bukti P-11 : Fotokopi Put usan MK Nomor 90/PUU-XXI/2023;",
+      "slug": "20-bukti-p-11-fotokopi-put-usan-mk-nomor-90-puu-xxi-2023",
+      "text": "33",
+      "start_line": 1202,
+      "end_line": 1205
+    },
+    {
+      "heading": "21. Bukti P-12 : Fotokopi Statistik Demografi Indonesia (Hasil Sensus",
+      "slug": "21-bukti-p-12-fotokopi-statistik-demografi-indonesia-hasil-sensus",
+      "text": "Penduduk 2020); \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam  Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahka n dengan \nputusan ini.",
+      "start_line": 1207,
+      "end_line": 1211
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076, selanjutnya disebut UU 48/2009), salah sa tu kewenangan \nkonstitusional Mahkamah antara lain, mengadili pada tingkat per tama dan terakhir \nyang putusannya bersifat final untuk menguji undang-undang terh adap UUD NRI \nTahun 1945. Dengan demikian, Mahkamah berwenang untuk memeriksa , \nmengadili, dan memutus pengujian UUD NRI Tahun 1945; \n[3.2] Menimbang bahwa oleh karena permohonan Pemohon adalah \npermohonan untuk menguji konstitusionalitas norma undang-undang , in casu  \npengujian materiil Pasal 25 ayat (1) huruf f Undang-Undang Nomo r 24 Tahun 2011 \ntentang Badan Penyelenggara Jaminan Sosial (Lembaran Negara Rep ublik \nIndonesia Tahun 2011 Nomor 116, Tambahan Lembaran Negara Republik Indonesia \nNomor 5256) (selanjutnya disebut UU BPJS) terhadap Undang-Undan g Dasar, \nmaka Mahkamah berwenang mengadili permohonan a quo; \n \n\n34 \n \n \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na.  perorangan warga negara Indonesia (termasuk kelompok orang yang \nmempunyai kepentingan sama); \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan se suai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1213,
+      "end_line": 1252
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap UUD \nNRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya Undang -Undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a;  \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, telah berpend irian bahwa \nkerugian hak dan/atau kewenangan konstitusional sebagaimana dim aksud dalam \nPasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na.  adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI Tahun 1945; \nb.  hak dan/atau kewenangan konstitusional tersebut oleh Pemoho n dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian; \n\n35",
+      "start_line": 1255,
+      "end_line": 1277
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1279,
+      "end_line": 1280
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi; \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1)  UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan dalam Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan mengenai kedudukan hukum Pemohon  \nsebagai berikut:",
+      "start_line": 1282,
+      "end_line": 1289
+    },
+    {
+      "heading": "1. Bahwa norma undang-undang yang dimohonkan pengujian oleh Pem ohon",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-pengujian-oleh-pem-ohon",
+      "text": "dalam permohonan a quo adalah norma Pasal 25 ayat (1) huruf f UU BPJS yang \nmenyatakan: \n“Untuk dapat diangkat sebagai anggota Dewan Pengawas atau anggota Direksi, \ncalon yang bersangkutan harus memenuhi syarat sebagai berikut: \nf. berusia paling rendah 40 (empat puluh) tahun dan paling ting gi 60 (enam \npuluh) tahun pada saat dicalonkan menjadi anggota;”",
+      "start_line": 1291,
+      "end_line": 1296
+    },
+    {
+      "heading": "2. Bahwa Pemohon mengkualifikasikan diri sebagai perorangan war ga negara",
+      "slug": "2-bahwa-pemohon-mengkualifikasikan-diri-sebagai-perorangan-war-ga-negara",
+      "text": "Indonesia yang dibuktikan dengan Kartu Tanda Penduduk;",
+      "start_line": 1298,
+      "end_line": 1298
+    },
+    {
+      "heading": "3. Bahwa Pemohon dalam waktu dekat dan pada kesempatan yang aka n datang,",
+      "slug": "3-bahwa-pemohon-dalam-waktu-dekat-dan-pada-kesempatan-yang-aka-n-datang",
+      "text": "berniat untuk mencalonkan diri sebagai anggota Dewan Pengawas atau anggota \nDireksi BPJS Kesehatan. Namun, ketentuan batas usia paling rendah 40 (empat \npuluh) tahun sebagaimana diatur dalam Pasal 25 ayat (1) huruf f   UU BP JS ,  \nmenutup kesempatan Pemohon untuk mencalonkan diri sebagai anggota Dewan \nPengawas atau anggota Direksi BPJS, karena saat ini Pemohon mas ih berusia \n39 (tiga puluh sembilan) tahun;",
+      "start_line": 1300,
+      "end_line": 1305
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon, BPJS merupakan lembaga publik yang di bentuk oleh",
+      "slug": "4-bahwa-menurut-pemohon-bpjs-merupakan-lembaga-publik-yang-di-bentuk-oleh",
+      "text": "pemerintah dan menjalankan fungsi pelayanan publik di bidang ja minan sosial, \nmaka jelas bahwa ketentuan Pasal 25 ayat (1) huruf f UU BPJS te lah \nbertentangan dengan hak-hak konstitusional Pemohon yang diatur dan \ndilindungi oleh UUD NRI Tahun 1945, yaitu Pasal 27 ayat (1), Pasal 28D ayat (1) \ndan  Pasal 28D ayat (3) UUD NRI Tahun 1945; \n\n36",
+      "start_line": 1307,
+      "end_line": 1315
+    },
+    {
+      "heading": "5. Bahwa menurut Pemohon, Pemohon adalah representasi generasi muda",
+      "slug": "5-bahwa-menurut-pemohon-pemohon-adalah-representasi-generasi-muda",
+      "text": "profesional yang aktif dalam pembangunan nasional, dengan rekam  jejak \npendidikan, pengalaman kerja, dan kontribusi nyata di bidang pe layanan publik \nserta tata kelola institusi strategis.  Maka dengan kualifikasi  tersebut, Pemohon \nmemiliki kapasitas konstitusional dan legitimasi moral untuk me ngajukan \npermohonan pengujian undang-undang terhadap norma a quo yang dinilai \nmenghambat peran serta generasi muda produktif dalam pengelolaa n institusi \npublik. \n Berdasarkan uraian yang dikemukakan oleh Pemohon dalam \nmenjelaskan kedudukan hukumnya, menurut Mahkamah, Pemohon telah  dapat \nmenguraikan berkenaan dengan anggapan kerugian hak konstitusional yang dimiliki \ndengan berlakunya norma undang-undang yang dimohonkan pengujian. Berkenaan \ndengan hal tersebut, Pemohon sebagai perseorangan warga negara telah dapat \nmenjelaskan memiliki hak konstitusional yang dijamin oleh UUD N RI Tahun 1945 \nyang merasa dirugikan dengan berlakunya norma Pasal 25 ayat (1)  h u r u f  f  U U  \nBPJS, di mana berkaitan dengan usia sebagai salah satu syarat u ntuk dapat \ndiangkat sebagai anggota Dewan Pengawas atau anggota Direksi BP JS, telah \nmenghambat Pemohon mencalonkan diri pada jabatan-jabatan terseb ut. Dalam \nkualifikasi demikian, Pemohon telah dapat menguraikan adanya anggapan kerugian \nhak konstitusional Pemohon yang dialami serta adanya hubungan s ebab akibat \n(causal verband) antara anggapan kerugian hak konstitusional yang dimiliki oleh \nPemohon dengan berlakunya norma Pasal 25 ayat (1) huruf f UU BP JS yang \ndimohonkan pengujian. Anggapan kerugian hak konstitusional yang  d i a l a m i  o l e h  \nPemohon tersebut bersifat spesifik, aktual, atau setidak-tidakn ya potensial akan \nterjadi. Oleh karena itu, apabila permohonan Pemohon dikabulkan oleh Mahkamah \nmaka anggapan kerugian hak konstitusional yang dialami Pemohon tidak terjadi lagi \nataupun tidak akan terjadi. Dengan demikian, terlepas dari terb ukti atau tidak \nterbuktinya inkonstitusionalitas norma yang didalilkan Pemohon,  menurut \nMahkamah, Pemohon memiliki kedudukan hukum untuk bertindak seba gai \nPemohon dalam mengajukan permohonan a quo. \n[3.6] Menimbang bahwa oleh karena Mahkamah berwenang mengadili \npermohonan a quo dan Pemohon memiliki kedudukan hukum untuk mengajukan \n\n37 \n \n \npermohonan a quo , selanjutnya Mahkamah mempertimbangkan pokok \npermohonan. \nPokok Permohonan \n[3.7] Menimbang bahwa dala m mendalilkan norma Pasal 25 ayat (1) huruf f UU \nBPJS bertentangan dengan Pasal 27 ayat (1), Pasal 28D ayat (1) dan ayat (3) UUD \nNRI Tahun 1945, Pemohon mengemukakan dalil-dalil permohonan (se lengkapnya \ndimuat pada bagian Duduk Perkara) yang apabila dipahami dan dir umuskan oleh \nMahkamah pada pokoknya sebagai berikut.",
+      "start_line": 1317,
+      "end_line": 1359
+    },
+    {
+      "heading": "1. Bahwa menurut Pemohon, Pemohon akan mencalonkan diri sebaga i anggota",
+      "slug": "1-bahwa-menurut-pemohon-pemohon-akan-mencalonkan-diri-sebaga-i-anggota",
+      "text": "Dewan Pengawas atau anggota Direksi BPJS, dan telah memenuhi se luruh \nkualifikasi kompetensi serta integritas yang diperlukan, namun terhalang oleh \nkeberlakuan norma Pasal 25 ayat (1) huruf f UU BPJS karena usia Pemohon 39 \n(tiga puluh sembilan) tahun.",
+      "start_line": 1361,
+      "end_line": 1364
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, ketentuan Pasal 25 ayat (1) huruf f U U BPJS yang",
+      "slug": "2-bahwa-menurut-pemohon-ketentuan-pasal-25-ayat-1-huruf-f-u-u-bpjs-yang",
+      "text": "mensyaratkan bahwa calon anggota Dewan Pengawas atau anggota Di reksi \nBPJS harus berusia paling rendah 40 (empat puluh) tahun, secara  n y a t a  \nmengabaikan asas kesetaraan. Pasal tersebut tidak memberikan ruang alternatif \nbagi warga negara yang belum berusia 40 (empat puluh) tahun nam un memiliki \npengalaman, kualitas, integritas, dan kompetensi yang dapat dip ertimbangkan \nsebagai ukuran utama dalam pengisian jabatan publik. Hal tersebut tidak sesuai \ndengan konsep negara hukum yang menghendaki bahwa setiap pembat asan \nterhadap hak konstitusional warga negara harus didasarkan pada alasan yang \nsah (legitimate aim) dan proporsionalitas (principle of proportionality).",
+      "start_line": 1366,
+      "end_line": 1374
+    },
+    {
+      "heading": "3. Bahwa menurut Pemohon, pembentukan norma hukum ataupun perub ahan",
+      "slug": "3-bahwa-menurut-pemohon-pembentukan-norma-hukum-ataupun-perub-ahan",
+      "text": "norma hukum, harus senantiasa bersandar pada nilai-nilai filosofis dasar negara \nhukum, termasuk prinsip keadilan, rasionalitas, dan kesetaraan. Oleh karena itu, \nmempertahankan syarat usia minimal 40 (empat puluh) tahun dalam  Pasal 25 \nayat (1) huruf f UU BPJS bertentangan dengan prinsip negara huk um, karena \nsecara jelas dan nyata menciptakan perlakuan hukum yang tidak s etara, \nmenghambat warga negara untuk memperoleh hak dalam pemerintahan  at a u \npelayanan publik, tidak proporsional dan tidak relevan dengan t ujuan jabatan \nDewan Pengawas atau Direksi BPJS; \n\n38",
+      "start_line": 1376,
+      "end_line": 1387
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon, ketika suatu norma hukum tidak memili ki justifikasi",
+      "slug": "4-bahwa-menurut-pemohon-ketika-suatu-norma-hukum-tidak-memili-ki-justifikasi",
+      "text": "rasional yang dapat dipertanggungjawabkan secara objektif, maka  \nkonsekuensinya bukan hanya menimbulkan ketimpangan, tetapi dapa t sampai \npada taraf ketidakadilan yang intolerable. Norma batas usia minimal 40 tahun \nmerupakan contoh konkret di mana pembatasan yang tidak rasional  \nmenghasilkan bentuk ketidakadilan yang melampaui ambang toleran si \nkonstitusional;",
+      "start_line": 1389,
+      "end_line": 1394
+    },
+    {
+      "heading": "5. Bahwa menurut Pemohon, meskipun norma a quo berasal dari kebijakan hukum",
+      "slug": "5-bahwa-menurut-pemohon-meskipun-norma-a-quo-berasal-dari-kebijakan-hukum",
+      "text": "terbuka (opened legal policy ) yang menjadi kewenangan pembentuk Undang-\nUndang, namun dalam perkara a quo  norma syarat usia tersebut telah \nmenimbulkan pelanggaran terhadap prinsip persamaan, keadilan, k esetaraan, \ndan perlindungan hak konstitusional warga negara;",
+      "start_line": 1396,
+      "end_line": 1399
+    },
+    {
+      "heading": "6. Bahwa menurut Pemohon, norma Pasal 25 ayat (1) huruf f UU BP JS yang",
+      "slug": "6-bahwa-menurut-pemohon-norma-pasal-25-ayat-1-huruf-f-uu-bp-js-yang",
+      "text": "menetapkan usia minimal 40 tahun tidak mempertimbangkan perubah an sosial, \ndinamika kompetensi profesional, serta transformasi kebutuhan p elayanan \npublik di era digital dan teknologi informasi. Bahwa secara emp iris, ketentuan \ntersebut membatasi partisipasi generasi muda yang potensial, me nghambat \nregenerasi kepemimpinan dalam lembaga publik, menciptakan hamba tan \nadministratif tanpa korelasi langsung dengan kompetensi substantif;",
+      "start_line": 1401,
+      "end_line": 1406
+    },
+    {
+      "heading": "7. Bahwa menurut Pemohon, ketentuan Pasal 25 ayat (1) huruf f U U BPJS yang",
+      "slug": "7-bahwa-menurut-pemohon-ketentuan-pasal-25-ayat-1-huruf-f-u-u-bpjs-yang",
+      "text": "membatasi usia minimal secara absolut tanpa mempertimbangkan ka pasitas \nindividu, harus ditafsirkan secara bersyarat (conditionally unconstitutional), untuk \ntetap membuka peluang partisipasi generasi muda profesional dal am jabatan \nstrategis yang berdampak luas bagi kesejahteraan publik. \n   Berdasarkan dalil-dalil di atas, Pemohon memohon kepada Mahkamah agar \nmenyatakan materi muatan Pasal 25 ayat (1) huruf f UU BPJS bertentangan dengan \nUUD NRI Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang \ntidak dimaknai, “berusia paling rendah 40 (empat puluh) tahun a tau memiliki \npengalaman dalam jabatan manajerial pada institusi atau entitas  y a n g  \nmenyelenggarakan pelayanan publik dan paling tinggi 60 (enam puluh) tahun pada \nsaat dicalonkan”. \n\n39 \n \n \n[3.8] Menimbang bahwa untuk  mendukung dan membuktikan dalil-dalilnya , \nPemohon telah mengajukan alat bukti surat/tulisan yang diberi t anda Bukti P-1 \nsampai dengan Bukti P-12 yang telah disahkan dalam persidangan Mahkamah pada \ntanggal 17 Juni 2025 (selengkapnya dimuat pada bagian Duduk Perkara).  \n[3.9] Menimbang bahwa oleh karena permohonan a quo telah jelas, Mahkamah \nberpendapat tidak terdapat urgensi dan relevansinya untuk mendengar keterangan \npihak-pihak sebagaimana disebutkan dalam Pasal 54 UU MK. \n[3.10]  Menimbang bahwa sebelum memper timbangkan lebih lanjut dalil \npermohonan Pemohon a quo, Mahkamah terlebih dahulu akan mempertimbangkan \npermohonan Pemohon berkaitan dengan ketentuan Pasal 60 UU MK dan/atau Pasal \n78 Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2021 tentang Tat a Beracara \nDalam Perkara Pengujian Undang-Undang (PMK 2/2021), sehingga te rhadap \nnorma a quo dapat dimohonkan pengujian kembali. \n Pasal 60 UU MK menyatakan: \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam u ndang-\nundang yang telah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecual ikan jika \nmateri muatan dalam Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945 yang dijadikan dasar pengujian berbeda. \n \n Pasal 78 PMK 2/2021 menyatakan: \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam U U yang \ntelah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecual ikan jika \nmateri muatan dalam UUD NRI Tahun 1945 yang dijadikan dasar \npengujian berbeda atau terdapat alasan permohonan yang berbeda. \n  Berdasarkan ketentuan tersebut, terhadap pasal yang telah dil akukan \npengujian konstitusionalitasnya dan telah diputus oleh Mahkamah  hanya dapat \ndimohonkan pengujian kembali apabila terdapat dasar pengujian d an/atau alasan \npermohonan yang berbeda. Berkenaan dengan norma Pasal 25 ayat (1) huruf f UU \nBPJS, Mahkamah telah memeriksa dan memutus konstitusionalitas n orma \ndimaksud dalam Putusan Mahkamah Konstitusi Nomor 47/PUU-XIII/20 15 yang \ndiucapkan dalam sidang pleno terbuka untuk umum pada tanggal 13 Oktober 2016, \ndengan menggunakan dasar pengujian Pasal 28C, Pasal 28D dan Pas al 28H ayat \n(2) UUD NRI Tahun 1945. Sedangkan, dalam permohonan a quo, beberapa norma \n\n40 \n \n \nUUD NRI Tahun 1945 yang digunakan sebagai dasar pengujian adala h Pasal 27 \nayat (1), Pasal 28D ayat (1), dan Pasal 28D ayat (3) UUD NRI Ta hun 1945, yang \nbelum pernah digunakan dalam Perkara Nomor 47/PUU-XIII/2015. Di  samping itu,  \nberkenaan dengan alasan permohonan,  Pemohon  dalam perkara  a quo hanya \nmempersoalkan batas usia terendah yakni 40 (empat puluh) tahun untuk dapat \ndiangkat sebagai anggota Dewan Pengawas atau anggota Direksi BP JS, \nsedangkan berkaitan dengan batas usia tertinggi 60 (enam puluh) tahun untuk dapat \ndiangkat sebagai anggota Dewan Pengawas atau anggota Direksi BP JS tidak \ndipersoalkan oleh Pemohon. Sementara itu, dalam permohonan Perk ara Nomor \n47/PUU-XIII/2015, mempersoalkan batas terendah dan batas tertin ggi usia untuk \ndapat diangkat sebagai anggota Dewan Pengawas atau anggota Dire ksi BPJS, \nsehingga terhadap permohonan Pemohon a quo  memiliki dasar pengujian yang \nberbeda dan alasan-alasan permohonan yang berbeda pula. Oleh ka rena itu, \npermohonan Pemohon a quo , terlepas secara substansial dapat dibuktikan atau \ntidak, namun secara formal permohonan a quo dapat diajukan kembali, tanpa \nterhalang ketentuan Pasal 60 ayat (2) UU MK dan Pasal 78 ayat ( 2) PMK 2/2021. \nDengan demikian, selanjutnya Mahkamah akan mempertimbangkan isu  \nkonstitusionalitas norma Pasal 25 ayat (1) huruf f UU BPJS yang  dimohonkan \npengujian oleh Pemohon. \n[3.11] Menimbang bahwa setelah memeriksa dengan saksama permohonan \nPemohon dan bukti-bukti yang diajukan, menurut Mahkamah isu kon stitusionalitas \nyang dipersoalkan oleh Pemohon adalah berkenaan dengan norma Pa sal 25 ayat \n(1) huruf f UU BPJS yang menurut Pemohon syarat usia paling ren dah 40 (empat \npuluh) tahun untuk dapat diangkat sebagai anggota Dewan Pengawas atau anggota \nDireksi BPJS telah menimbulkan diskriminasi maupun ketidakpasti an hukum yang \nadil sehingga bertentangan dengan  UUD NRI Tahun 1945. Berkaitan  dengan dalil \nPemohon tersebut, Mahkamah mempertimbangkan lebih lanjut, sebagai berikut. \n[3.11.1] Bahwa berkenaan dengan penentuan syarat usia untuk menduduki \njabatan tertentu acapkali menjadi objek pengujian di Mahkamah d an telah pula \ndipertimbangkan Mahkamah dalam beberapa putusan sebelumnya, di antaranya \nPutusan Mahkamah Konstitusi Nomor 15/PUU-V/2007, yang diucapkan  d a l a m  \nsidang pleno terbuka untuk umum tanggal 27 November 2007, Putusan Mahkamah \nKonstitusi Nomor 37-39/PUU-VIII/2010, yang diucapkan dalam sidang pleno terbuka \n\n41 \n \n \nuntuk umum tanggal 15 Oktober 2010, Putusan Mahkamah Konstitusi  N o m o r  \n49/PUU-IX/2011,  yang diucapkan dalam sidang pleno terbuka untuk umum tanggal \n18 Oktober 2011, dan Putusan Mahkamah Konstitusi Nomor 102/PUU- XIV/2016, \nyang diucapkan dalam sidang pleno terbuka untuk umum tanggal 5 April 2017. \nDalam putusan-putusan tersebut, berkenaan dengan syarat usia paling rendah dan \npaling tinggi dalam jabatan tertentu telah diatur dalam undang- undang, dan \nMahkamah telah berpendirian bahwa hal tersebut menjadi kewenang an \nsepenuhnya pembentuk undang-undang yang lazim disebut sebagai k ebijakan \nhukum terbuka. Lebih dari itu, UUD NRI Tahun 1945 sebagai norma  yang menjadi \ndasar pengujian dalam pengujian undang-undang tidak mengatur se cara spesifik \nterkait dengan usia paling rendah ataupun paling tinggi bagi se seorang untuk \nmendaftarkan diri sebagai calon dan/atau menduduki jabatan tert entu, in casu \nsebagai  anggota Dewan Pengawas atau anggota Direksi BPJS. Oleh  karena itu,  \ndengan tidak adanya pengaturan dan pedoman dalam UUD NRI Tahun 1945 yang \nberkaitan dengan syarat usia sebagaimana yang dimohonkan Pemoho n, hal \ntersebut dapat menjadi dasar pertimbangan Mahkamah bahwa berken aan dengan \nisu konstitusionalitas syarat usia paling rendah dan paling tin ggi untuk menjadi \nanggota Dewan Pengawas atau anggota Direksi BPJS menjadi kewena ngan \npembentuk undang-undang untuk mengaturnya, sebagai bagian bentuk pelimpahan \nkewenangan oleh UUD NRI Tahun 1945. Lebih lanjut, berkenaan dengan persoalan \nusia yang dipersoalkan oleh Pemohon, di antara beberapa putusan Mahkamah yang \ntelah disebutkan di atas, salah satu putusan yang menegaskan ha l tersebut, yaitu \nPutusan Mahkamah Konstitusi Nomor 15/PUU-V/2007 yang dalam sala h satu \npertimbangan hukumnya pada Paragraf [3.20] menyatakan, sebagai berikut. \n\"........bahwa pemenuhan hak untuk memperoleh kesempatan yang sama \ndalam pemerintahan bukan berarti negara tidak boleh mengatur da n \nmenentukan syarat-syaratnya, sepanjang syarat-syarat demikian s ecara \nobjektif memang merupakan kebutuhan yang dituntut oleh jabatan atau \naktivitas pemerintahan yang bersangkutan dan tidak mengandung unsur \ndiskriminasi. Dengan demikian yang menjadi pertanyaan sehubunga n \ndengan permohonan a quo adalah apakah persyaratan usia minimum 30 \ntahun untuk menjadi kepala daerah atau wakil kepala daerah, \nsebagaimana ditentukan dalam Pasal 58 huruf d UU Pemda, merupakan \nkebutuhan objektif bagi jabatan kepala daerah atau wakil kepala daerah. \nDalam hubungan ini, Mahkamah menegaskan kembali bahwa jabatan \nmaupun aktivitas pemerintahan itu banyak macam-ragamnya, sehing ga \nkebutuhan dan ukuran yang menjadi tuntutannya pun berbeda-beda di \nantara bermacam-macam jabatan atau aktivitas pemerintahan terse but. \nDalam kaitannya dengan kriteria usia, UUD 1945 tidak menentukan  \n\n42 \n \n \nbatasan usia minimum tertentu sebagai kriteria yang berlaku umum untuk \nsemua jabatan atau aktivitas pemerintahan. Hal itu berarti, UUD  1945 \nmenyerahkan penentuan batasan usia tersebut kepada pembentuk \nundang-undang untuk mengaturnya. Dengan kata lain, oleh UUD 194 5 \nhal itu dianggap sebagai bagian dari kebijakan hukum (legal pol icy) \npembentuk undang-undang. Oleh sebab itulah, persyaratan usia \nminimum untuk masing-masing jabatan atau aktivitas pemerintahan  \ndiatur secara berbeda-beda dalam berbagai peraturan perundang-\nundangan. Misalnya, batas usia minimum untuk menjadi Hakim Konstitusi \nditentukan 40 tahun [vide Pasal 16 Ayat (1) huruf c UU MK], bat as usia \nminimum untuk menjadi Hakim Agung ditentukan 50 tahun [vide Pas al 7 \nAyat (1) huruf d Undang-Undang Nomor 5 Tahun 2004 tentang \nPerubahan Undang-Undang Nomor 14 Tahun 1985 tentang Mahkamah \nAgung], batas usia minimum untuk berhak memilih dalam pemilihan  \numum ditentukan 17 tahun atau sudah kawin atau sudah pernah kaw in \n[vide Pasal 7 Undang-Undang Nomor 23 Tahun 2003 tentang Pemilih an \nUmum Presiden dan Wakil Presiden dan Pasal 13 Undang-Undang \nNomor 12 Tahun 2003 tentang Pemilihan Umum Anggota Dewan \nPerwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakila n \nRakyat Daerah]. Mungkin saja batas usia minimum bagi keikutsert aan \nwarga negara dalam jabatan atau kegiatan pemerintahan itu diuba h \nsewaktu-waktu oleh pembentuk undang-undang sesuai dengan tuntut an \nkebutuhan perkembangan yang ada. Hal itu sepenuhnya merupakan \nkewenangan pembentuk undang-undang yang tidak dilarang. Bahkan,  \nseandainya pun suatu undang-undang tidak mencantumkan syarat us ia \nminimum (maupun maksimum) tertentu bagi warga negara untuk dapa t \nmengisi suatu jabatan atau turut serta dalam kegiatan pemerinta han \ntertentu, melainkan menyerahkan pengaturannya kepada peraturan \nperundang-undangan di bawahnya, hal demikian pun merupakan \nkewenangan pembentuk undang-undang dan tidak bertentangan dengan \nUUD 1945.\"  \n Di samping itu, berkenaan dengan persoalan isu konstitusionali tas syarat \nbatas usia paling rendah dan paling tinggi untuk menduduki jaba tan tertentu juga \nditegaskan dalam Putusan Mahkamah Konstitusi Nomor 37-39/PUU-VIII/2010, yaitu \nberkaitan dengan batas usia minimal dan maksimal pimpinan Komis i \nPemberantasan Korupsi (KPK), Mahk amah mempertimbangkan pada Par agraf \n[3.14] yang menyatakan, sebagai berikut. \n“…Dalam kaitannya dengan kriteria usia, UUD 1945 tidak menentuk an \nbatasan usia minimal atau maksimal tertentu sebagai kriteria ya ng \nberlaku umum untuk semua jabatan atau aktivitas pemerintahan.  Hal itu \nberarti, UUD 1945 menyerahkan penentuan batasan usia tersebut \nkepada pembentuk Undang-Undang untuk mengaturnya.  Dengan kata \nlain, oleh UUD 1945 hal itu dianggap sebagai bagian dari kebija kan \nhukum ( legal policy ) pembentuk Undang-Undang.  Oleh sebab itulah, \npersyaratan usia minimal untuk masing-masing jabatan atau aktiv itas \npemerintahan diatur secara berbeda-beda dalam berbagai peratura n \n\n43 \n \n \nperundang-undangan sesuai dengan karakteristik kebutuhan jabata n \nmasing-masing;” \n Selanjutnya, Mahkamah juga menegaskan dalam Putusan Mahkamah \nKonstitusi Nomor 49/PUU-IX/2011, berkaitan dengan syarat usia h akim konstitusi, \nMahkamah mempertimbangkan pada Paragraf [3.11] yang menyatakan, sebagai \nberikut. \n“…Bahwa pemenuhan hak untuk memperoleh kesempatan yang sama \ndalam pemerintahan bukan berarti negara tidak boleh mengatur da n \nmenentukan syarat-syaratnya, sepanjang syarat-syarat demikian secara \nobjektif memang merupakan kebutuhan yang dituntut oleh jabatan atau \naktivitas pemerintahan yang bersangkutan dan tidak mengandung unsur \ndiskrimintatif. Dalam kaitan dengan kriteria usia, UUD 1945 tid ak \nmenentukan batasan usia minimum tertentu sebagai kriteria yang \nberlaku umum untuk semua jabatan atau aktivitas pemerintahan. 6 9 \nArtinya, UUD 1945 menyerahkan kepada pembentuk Undang-Undang \nuntuk mengaturnya. Selain itu, Mahkamah dalam putusan Nomor \n15/PUU-V/2007, tanggal 27 November 2007 dan putusan Nomor 37-\n39/PUU-VIII/2010, tanggal 15 Oktober 2010 pada intinya telah \nmempertimbangkan bahwa dalam kaitannya dengan kriteria usia UUD  \n1945 tidak menentukan batasan usia minimum tertentu untuk menduduki \nsemua jabatan dan aktivitas pemerintahan. Hal ini merupakan kebijakan \nhukum terbuka (opened legal policy), yang sewaktu-waktu dapat diubah \noleh pembentuk Undang-Undang sesuai dengan tuntutan kebutuhan \nperkembangan yang ada. Hal tersebut sepenuhnya merupakan \nkewenangan pembentuk Undang-Undang yang, apapun pilihannya, tidak \ndilarang dan tidak bertentangan dengan UUD 1945;’ \n Lebih lanjut, Mahkamah melalui Putusan Mahkamah Konstitusi Nom or \n102/PUU-XIV/2016, juga menegaskan kembali  berkaitan dengan bat as usia calon \nanggota Komisi Pemilihan Umum. Berkaitan dengan hal tersebut, d alam Paragraf \n[3.13] Mahkamah mempertimbangkan sebagai berikut. \n“…Mahkamah berkesimpulan bahwa sikap pembentuk undang-undang \nmengenai syarat batas usia pencalonan seseorang pejabat adalah suatu \nkebijakan hukum terbuka (open legal policy) yang berapa pun syarat usia \npencalonan yang ditetapkan tidak dapat dikategorikan sebagai \nketentuan yang tidak konstitusional. Hal demikian sesungguhnya telah \nbeberapa kali dipertimbangkan dalam putusan-putusan Mahkamah \nsebelumnya. \nSelain itu, menurut Mahkamah pemenuhan hak untuk memperoleh \nkesempatan yang sama dalam pemerintahan bukan berarti negara tidak \nboleh mengatur dan menentukan syarat-syaratnya, sepanjang syara t-\nsyarat demikian secara objektif memang merupakan kebutuhan yang  \ndituntut oleh jabatan atau aktivitas pemerintahan yang bersangkutan dan \ntidak mengandung unsur diskriminatif. Dalam kaitan dengan kriteria usia, \nUUD 1945 tidak menentukan batasan  usia minimum tertentu sebagai  \n\n44 \n \n \nkriteria yang berlaku umum untuk semua jabatan atau aktivitas \npemerintahan. Artinya, UUD 1945 menyerahkan kepada pembentuk \nUndang-Undang untuk mengaturnya. Terlebih lagi, Mahkamah dalam \nPutusan Mahkamah Konstitusi Nomor 15/PUU-V/2007, tanggal 27 \nNovember 2007 dan Putusan Mahkamah Konstitusi Nomor 37-39/PUU-\nVIII/2010, tanggal 15 Oktober 2010 pada intinya telah \nmempertimbangkan bahwa dalam kaitannya dengan kriteria usia, UU D \n1945 tidak menentukan batasan usia minimum tertentu untuk \nmenduduki semua jabatan dan aktivitas pemerintahan;” \n Berdasarkan uraian kutipan pertimbangan hukum putusan-putusan \ntersebut di atas, Mahkamah telah memberikan penegasan berkenaan dengan batas \nusia paling rendah (minimal) dan paling tinggi (maksimal) untuk  menjadi syarat \ndalam mencalonkan diri atau menduduki jabatan tertentu adalah m enjadi \nkewenangan pembentuk undang-undang yang merupakan kebijakan huk um \nterbuka. Berkenaan dengan kewenangan pembentuk undang-undang di maksud, \nMahkamah pada konteks syarat usia paling rendah dan syarat usia  paling tinggi, \npada pokoknya menyerahkan sepenuhnya hal tersebut kepada pembentuk undang-\nundang untuk merumuskannya, sepanjang berkenaan dengan kewenang an \nkebijakan hukum terbuka tersebut norma yang dirumuskan tidak me nimbulkan \nproblematika kelembagaan, yaitu tidak dapat dilaksanakan, atura nnya \nmenyebabkan kebuntuan hukum (deadlock) dan menghambat pelaksanaan kinerja \nlembaga negara yang bersangkutan yang pada akhirnya menimbulkan  k e r u g i a n  \nkonstitusionalitas warga negara. Terlebih, ihwal penentuan batas usia paling rendah \ndan paling tinggi untuk menduduki jabatan tertentu untuk dilaku kan penyepadanan \natau pengalternatifan sebagaimana yang didalilkan oleh Pemohon, Mahkamah juga \ntelah secara tegas mempertimbangkan dalam pertimbangan hukum Pu tusan \nMahkamah Konstitusi Nomor 141/PUU-XXI/2023, yang telah diucapka n dalam \nsidang pleno terbuka untuk umum pada tanggal 29 November 2023, Mahkamah \ndalam Paragraf [3.15] menyatakan, sebagai berikut. \n”....upaya menyesuaikan batas usia calon presiden dan calon wak il \npresiden sebagaimana termaktub dalam Pasal 169 huruf q UU 7/201 7 \nsebagaimana telah dimaknai dalam Putusan Mahkamah Konstitusi \nNomor 90/PUU-XXI/2023, atau upaya menyepadankan dengan pejabat \nnegara atau penyelenggara negara (public official) , dan termasuk \nmenyepadankan atau mengalternatifkan dengan jabatan yang berasa l \ndari hasil pemilihan umum (elected official) masih tetap merupakan dan \nberada di ranah pembentuk undang-undang….”.   \n Berdasarkan uraian kutipan pertimbangan hukum tersebut di atas , \nberkenaan dengan penyepadanan atau pengalternatifan usia untuk menduduki \n\n45 \n \n \njabatan yang disepadankan atau dialternatifkan dengan jabatan tertentu, Mahkamah \ntelah berpendirian bahwa hal tersebut menjadi kewenangan pemben tuk undang-\nundang. Meskipun berkaitan dengan esensi yang terdapat dalam pe rtimbangan \nhukum Putusan Mahkamah Konstitusi Nomor 141/PUU-XXI/2023 tidak sama persis \ndengan esensi dalam pertimbangan hukum putusan-putusan yang tel ah dikutip di \natas, namun Mahkamah berpendapat hal  tersebut memiliki semangat  yang sama \nbahwa berkenaan dengan penentuan syarat usia paling rendah dan paling tinggi \nuntuk menduduki jabatan tertentu, termasuk dalam hal ini menyep adankan atau \nmengalternatifkan dengan pengalaman pernah menduduki jabatan lain, hal tersebut \nadalah menjadi kewenangan pembentuk undang-undang untuk merumuskannya. \n[3.11.2] Bahwa selanjutnya berkaitan dengan argumentasi dalil Pemohon y ang \nmenyatakan mempertahankan syarat usia minimal 40 (empat puluh) tahun dalam \nPasal 25 ayat (1) huruf f UU BPJS bertentangan dengan prinsip n egara hukum, \nkarena secara jelas dan nyata menciptakan perlakuan hukum yang tidak setara, \nmenghambat warga negara terutama generasi muda untuk memperoleh hak dalam \npemerintahan atau pelayanan publik, tidak proporsional dan tida k relevan dengan \ntujuan jabatan anggota Dewan Pengawas atau anggota Direksi BPJS  [vide \npermohonan Pemohon hlm. 8]. Terhadap dalil Pemohon  a quo, Mahkamah dapat \nmemahami argumentasi Pemohon yang menghendaki agar generasi mud a dapat \nmenduduki jabatan anggota Dewan Pengawas atau anggota Direksi B PJS, namun \njika dilihat dalam konteks dan kepentingan yang lebih besar, ti dak atau belum \nadanya kesempatan Pemohon dan juga generasi muda lainnya untuk mengikuti \npencalonan dan menduduki jabatan sebagai anggota Dewan Pengawas  a t a u  \nanggota Direksi BPJS pada periode saat ini, hal tersebut tidak serta merta \nmenghalangi hak konstitusional generasi muda untuk berpartisipa si dalam jabatan \ntertentu. Sebab, di samping persoalan syarat usia yang acapkali  diterapkan untuk \nmenduduki jabatan tertentu, hal yang paling mendasar sebenarnya  a d a l a h  \nbagaimana proses seleksi bisa menghasilkan calon pejabat yang b erintegritas dan \nmemiliki kompetensi yang sesuai dengan bidangnya.  \n Berdasarkan uraian pertimbangan hukum tersebut di atas, berken aan \ndengan penentuan batasan usia paling rendah ataupun batasan usi a paling tinggi \nbertentangan dengan UUD NRI Tahun 1945 sebagaimana yang didalil kan oleh \nPemohon adalah tidak beralasan menurut hukum. \n\n46 \n \n \n[3.12] Menimbang  bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, telah ternyata ketentuan norma Pasal 25 ayat (1) huruf f UU BPJS  \ntelah menciptakan kepastian hukum yang adil dan persamaan kesem patan dalam \npemerintahan sebagaimana diatur dalam Pasal 27 ayat (1), Pasal 28D ayat (1), \nPasal 28D ayat (3) UUD NRI Tahun 1945, bukan sebagaimana yang didalilkan oleh \nPemohon. Dengan demikian, dalil Pemohon adalah tidak beralasan menurut hukum \nuntuk seluruhnya. \n[3.13]  Menimbang bahwa terhadap hal-hal selain dan selebihnya tidak \ndipertimbangkan lebih lanjut oleh Mahkamah karena dinilai tidak ada relevansinya.",
+      "start_line": 1408,
+      "end_line": 1728
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an",
+      "start_line": 1730,
+      "end_line": 1730
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Pemohon memiliki kedudukan hukum  untuk mengajukan permohonan  \na quo; \n[4.3] Pokok permohonan Pemohon tidak beralasan menurut hukum untuk \nseluruhnya. \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076); \n\n47",
+      "start_line": 1732,
+      "end_line": 1749
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan Pemohon untuk seluruhnya. \n Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembil an \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Anwar Usman, Arief Hi dayat, Enny \nNurbaningsih, Ridwan Mansyur dan Arsul Sani, masing-masing seba gai Anggota, \npada hari Kamis, tanggal sembilan belas, bulan Juni, tahun dua ribu dua puluh \nlima, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk \numum pada hari Kamis, tanggal tujuh belas bulan Juli, tahun dua ribu dua puluh \nlima, selesai diucapkan pukul 14.41 WIB, oleh sembilan Hakim Konstitusi yaitu \nSuhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Daniel Yu smic P. Foekh, \nM. Guntur Hamzah,  Anwar Usman, Arief Hidayat, Enny Nurbaningsi h, Ridwan \nMansyur dan Arsul Sani, masing-masing sebagai Anggota, dengan d ibantu oleh \nAgusniwan Etra sebagai Panitera Pengganti, serta dihadiri oleh Pemohon, Dewan \nPerwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd.  \nSuhartoyo  \nANGGOTA-ANGGOTA, \nttd.  \nSaldi Isra \nttd.  \nDaniel Yusmic P. Foekh \nttd. \nM. Guntur Hamzah \nttd.  \nAnwar Usman  \n ttd. \nArief Hidayat \nttd.  \nEnny Nurbaningsih  \n\n48 \n \n \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nAgusniwan Etra",
+      "start_line": 1751,
+      "end_line": 1793
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Muh. Arief Rosyid Hasan",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Sirajuddin, S.H., M.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Azhar R. Rivai, S.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "M.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Muhammad",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 24/2011 tentang Badan Penyelenggara Jaminan Sosial"
+    ],
+    "constitutional_articles": [
+      "Pasal 24 ayat (2)",
+      "Pasal 24C ayat (1)",
+      "Pasal 27 ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 28H ayat (3)",
+      "Pasal 28D ayat (3)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 27"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-12",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6A",
+      "BUKTI P-6B",
+      "BUKTI P-6C",
+      "BUKTI P-6D",
+      "BUKTI P-6E",
+      "BUKTI P-6F",
+      "BUKTI P-6G",
+      "BUKTI P-6H",
+      "BUKTI P-6I",
+      "BUKTI P-6J",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "REFERENSI:89/PUU-XXIII/2025",
+      "REFERENSI:93/PUU/PAN.MK/AP3/05/2025",
+      "REFERENSI:006/PUUIII/2005danPutusanNomor11/PUU-V/2007",
+      "REFERENSI:15/PUU-V/2007",
+      "REFERENSI:39/PUU-VIII/2010",
+      "REFERENSI:26/PUU-VII/2009",
+      "REFERENSI:7/PUU-XI/2013",
+      "REFERENSI:47/PUU-XIII/2015",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:49/PUU-IX/2011",
+      "REFERENSI:102/PUU-XIV/2016",
+      "REFERENSI:141/PUU-XXI/2023",
+      "REFERENSI:7/2017sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor90/PUU-XXI/2023",
+      "REFERENSI:14/KDK.03/2021",
+      "REFERENSI:26/PUU-XI/2009",
+      "REFERENSI:90/PUU-XXI/2023"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Anwar Usman",
+      "Arief Hidayat",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Agusniwan Etra"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "89/PUU-XXIII/2025",
+      "93/PUU/PAN.MK/AP3/05/2025",
+      "006/PUUIII/2005danPutusanNomor11/PUU-V/2007",
+      "15/PUU-V/2007",
+      "39/PUU-VIII/2010",
+      "26/PUU-VII/2009",
+      "7/PUU-XI/2013",
+      "47/PUU-XIII/2015",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "49/PUU-IX/2011",
+      "102/PUU-XIV/2016",
+      "141/PUU-XXI/2023",
+      "7/2017sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor90/PUU-XXI/2023",
+      "14/KDK.03/2021",
+      "26/PUU-XI/2009",
+      "90/PUU-XXI/2023"
+    ],
+    "referenced_cases": [
+      "89/PUU-XXIII/2025",
+      "93/PUU/PAN.MK/AP3/05/2025",
+      "006/PUUIII/2005danPutusanNomor11/PUU-V/2007",
+      "15/PUU-V/2007",
+      "39/PUU-VIII/2010",
+      "26/PUU-VII/2009",
+      "7/PUU-XI/2013",
+      "47/PUU-XIII/2015",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "49/PUU-IX/2011",
+      "102/PUU-XIV/2016",
+      "141/PUU-XXI/2023",
+      "7/2017sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor90/PUU-XXI/2023",
+      "14/KDK.03/2021",
+      "26/PUU-XI/2009",
+      "90/PUU-XXI/2023"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

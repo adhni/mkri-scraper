@@ -1,0 +1,1244 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14798_1786521635.pdf",
+    "file_name": "putusan_mkri_14798_1786521635.pdf",
+    "page_count": 51,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14798_1786521635.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "259/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-08-12",
+    "decision_date_raw": "dua belas, bulan Agustus, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 1
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 259/PUU-XXIV/2026",
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 7 Tahun 2017 tentang Pemilihan Umum dan Undang-Und ang \nNomor 8 Tahun 2015 tentang Perubahan Atas Undang-Undang Nomor 1  Tahun \n2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Un dang Nomor \n1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota M enjadi Undang-\nUndang terhadap Undang-Undang Dasar Negara Republik Indonesia T ahun 1945, \nyang diajukan oleh:",
+      "start_line": 5,
+      "end_line": 13
+    },
+    {
+      "heading": "1. Nama : Zico Leonard Djagardo Simanjuntak",
+      "slug": "1-nama-zico-leonard-djagardo-simanjuntak",
+      "text": "Pekerjaan  : Advokat \n Alamat :  Jalan Aried Asri VIE 16/3, RT/RW 009/008, Meruya\nUtara, Kembangan, Kota Jakarta Barat \nSelanjutnya disebut sebagai ---------------------------------------- Pemohon I;",
+      "start_line": 15,
+      "end_line": 18
+    },
+    {
+      "heading": "2. Nama : Elias Petege",
+      "slug": "2-nama-elias-petege",
+      "text": "Pekerjaan  : Ketua Komisi P emilihan Umum Kabupaten Dogiyai\n Alamat :  Gabaikunu RT/RW 001/001, Gabaikunu, Mapia\nTengah, Kabupaten Dogiyai \nSelanjutnya disebut sebagai --------------------------------------- Pemohon II;\nBerdasarkan Surat Kuasa masing-masing bertanggal 30 Juni 2026 dan 13 Juli 2026 \nmemberikan kuasa Leon Maulana Mirza Pasha, Priskila Octaviani, Ratu Eka Shaira, \nNi Kadek Sri Yulianti, dan Gusti Putu Agung Cinta Arya Diningrat, kesemuanya Tim \npada Kantor Hukum Leo & Partners, yang beralamat di Grand Slipi  Tower Lantai 5 \nUnit F, Jalan S. Parman Kav. 22-24, Kelurahan Palmerah, Kecamat an Palmerah, \nJakarta Barat, Jakarta, baik secara bersama-sama maupun sendiri-sendiri bertindak \nuntuk dan atas nama Pemberi Kuasa;  \nSelanjutnya Pemohon I dan Pemohon II disebut sebagai ------------ para Pemohon; \n \n\n\n2 \n \n[1.2] Membaca permohonan para Pemohon;  \n Mendengar keterangan para Pemohon;  \n Memeriksa bukti-bukti para Pemohon.",
+      "start_line": 20,
+      "end_line": 39
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 2 Juli 2026 yang diterima Kepaniteraan Mahkamah Kons titusi pada \ntanggal 2 Juli 2026 berdasarkan Akta Pengajuan Permohonan Pemoh on Nomor \n258/PUU/PAN.MK/AP3/07/2026 dan telah dicatat dalam Buku Registr asi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Permohonan Nomor 259/PUU- XXIV/2026 \npada tanggal 2 Juli 2026, yang telah diperbaiki dan diterima Ma hkamah pada \ntanggal 20 Juli 2026, pada pokoknya menguraikan hal-hal sebagai berikut. \nI. KEWENANGAN MAHKAMAH",
+      "start_line": 41,
+      "end_line": 48
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI 1945 ) \nmenyatakan: \n“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada dibawahnya dalam lingkungan peradil an \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkama h \nKonstitusi”;",
+      "start_line": 50,
+      "end_line": 56
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Pasal 24C ayat (1) Perubahan Keempat UUD N RI 1945",
+      "slug": "2-bahwa-selanjutnya-pasal-24c-ayat-1-perubahan-keempat-uud-n-ri-1945",
+      "text": "menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-Undang \nDasar, memutus pembubaran partai politik dan memutus perselisih an \ntentang hasil pemilihan umum”;",
+      "start_line": 58,
+      "end_line": 64
+    },
+    {
+      "heading": "3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 T ahun 2011",
+      "slug": "3-bahwa-lebih-lanjut-pasal-9-ayat-1-undang-undang-nomor-12-t-ahun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana te lah \ndiubah terakhir dalam Undang-Undang Nomor 13 Tahun 2022 tentang  \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-Undangan menegaskan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi”; \n\n3",
+      "start_line": 66,
+      "end_line": 75
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 T ahun",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-t-ahun",
+      "text": "2009 tentang Kekuasaan Kehakiman, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai politik;",
+      "start_line": 77,
+      "end_line": 83
+    },
+    {
+      "heading": "d. memutus perselisihan tentang hasil pemilihan umum; dan e.",
+      "slug": "d-memutus-perselisihan-tentang-hasil-pemilihan-umum-dan-e",
+      "text": "kewenangan lain yang diberikan oleh undang-undang”;",
+      "start_line": 85,
+      "end_line": 85
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 T ahun",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-t-ahun",
+      "text": "2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah terakhir \ndengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketig a \natas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstit usi, \nmenyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: a. menguji undan g-\nundang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; c. memutus pembubaran partai politik; \ndan d. memutus perselisihan tentang hasil pemilihan umum;”",
+      "start_line": 87,
+      "end_line": 97
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konsti tusi Nomor",
+      "slug": "6-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konsti-tusi-nomor",
+      "text": "7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujian Unda ng-\nUndang, menyatakan: \n“Objek Permohonan PUU adalah Undang-Undang dan Perppu”;",
+      "start_line": 99,
+      "end_line": 101
+    },
+    {
+      "heading": "7. Bahwa model petitum dalam permohonan ini merupakan petitum y ang lazim",
+      "slug": "7-bahwa-model-petitum-dalam-permohonan-ini-merupakan-petitum-y-ang-lazim",
+      "text": "karena mengikuti amar putusan Mahkamah Konstitusi sebagaimana y ang \ntermaktub dalam Putusan Mahkamah Nomor 126/PUU-XXIV/2026 yang \nmenyatakan bahwa:  \n“.... Menyatakan Undang-Undang Nomor 18 Tahun 2003 tentang \nAdvokat (Lembaran Negara Tahun 2003, Nomor 49, Tambahan \nLembaran Negara Nomor 4288) bertentangan dengan Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 dan tidak mempunyai \nkekuatan hukum mengikat secara bersyarat sepanjang tidak dimakn ai \n“apabila dalam waktu paling lama 2 (dua) tahun sejak putusan a quo \ndiucapkan tidak dilakukan perubahan/penggantian terhadap Undang -\nUndang Nomor 18 Tahun 2003 tentang Advokat dengan antara lain \nberpedoman pada putusan-putusan Mahkamah Konstitusi….”",
+      "start_line": 103,
+      "end_line": 114
+    },
+    {
+      "heading": "8. Bahwa Permohonan A Quo Tidak Nebis In Idem",
+      "slug": "8-bahwa-permohonan-a-quo-tidak-nebis-in-idem",
+      "text": "a. Bahwa ketentuan mengenai larangan pengajuan kembali permohon an \npengujian undang-undang 1) (nebis in idem)  diatur dalam Pasal 60 UU \n\n4 \n \nMahkamah Konstitusi juncto Pasal 78 Peraturan Mahkamah Konstitusi \nNomor 2 Tahun 2021 tentang Tata Beracara Dalam Perkara Pengujia n \nUndang-Undang (PMK 2/2021), menyatakan:",
+      "start_line": 116,
+      "end_line": 123
+    },
+    {
+      "heading": "1. Terhadap materi muatan ayat, pasal, dan/atau bagian dalam Un dang-",
+      "slug": "1-terhadap-materi-muatan-ayat-pasal-dan-atau-bagian-dalam-un-dang",
+      "text": "Undang yang telah diuji, tidak dapat dimohonkan pengujian kembali;",
+      "start_line": 125,
+      "end_line": 125
+    },
+    {
+      "heading": "2. Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecuali kan",
+      "slug": "2-ketentuan-sebagaimana-dimaksud-pada-ayat-1-dapat-dikecuali-kan",
+      "text": "jika materi muatan dalam Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 yang dijadikan dasar pengujian berbeda. \nLebih lanjut dalam Pasal 78 PMK 2/2021, menyatakan bahwa:",
+      "start_line": 127,
+      "end_line": 129
+    },
+    {
+      "heading": "1. Terhadap materi muatan ayat, pasal, dan/atau bagian dalam un dang-",
+      "slug": "1-terhadap-materi-muatan-ayat-pasal-dan-atau-bagian-dalam-un-dang",
+      "text": "undang atau Perppu yang telah diuji, tidak dapat dimohonkan \npengujian kembali;",
+      "start_line": 131,
+      "end_line": 132
+    },
+    {
+      "heading": "2. Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecuali kan",
+      "slug": "2-ketentuan-sebagaimana-dimaksud-pada-ayat-1-dapat-dikecuali-kan",
+      "text": "jika materi muatan dalam UUD 1945 yang dijadikan dasar pengujia n \nberbeda atau terdapat alasan permohonan yang berbeda. \nb. Bahwa PARA PEMOHON menyadari Pasal 167 ayat (3) dan Pasal 34 7 \nayat (1) UU Pemilu telah diuji di hadapan Mahkamah Konstitusi m elalui \nsejumlah permohonan, antara lain dalam Perkara Nomor 14/PUU-\nXI/2013, Perkara Nomor 55/PUU- XVII/2019, Perkara Nomor 135/PUU-\nXXII/2024, Perkara Nomor 120/PUU-XXIII/2025, dan Perkara Nomor \n124/PUU-XXIII/2025. Walaupun demikian, permohonan a quo  memuat \nalasan yang secara substansial berbeda dari seluruh permohonan yang \ntelah diputus sebelumnya, sebagaimana diuraikan di bawah ini;",
+      "start_line": 134,
+      "end_line": 143
+    },
+    {
+      "heading": "c. Bahwa walaupun dasar pengujian permohonan a quo menggunakan",
+      "slug": "c-bahwa-walaupun-dasar-pengujian-permohonan-a-quo-menggunakan",
+      "text": "Pasal 22E ayat (1) dan Pasal 28D ayat (1) UUD 1945 yang pernah \nmenjadi dasar pengujian dalam permohonan-permohonan sebelumnya,  \nyakni Pasal 22E ayat (1) dan (2) UUD 1945 dalam Putusan Nomor \n14/PUU-XI/2013, Pasal 22E ayat (1) dan (2) UUD 1945 dalam Putus an \nNomor 55/PUU-XVII/2019, Pasal 22E ayat (1) dan Pasal 1 ayat (2)  UUD \n1945 dalam Putusan Nomor 135/PUU-XXII/2024, serta Pasal 22E dan  \nPasal 28D ayat (1) UUD 1945 dalam Putusan Nomor 120/PUU-\nXXIII/2025, namun permohonan a quo menggunakan alasan yang secara \nsubstansial berbeda dari seluruh permohonan tersebut;",
+      "start_line": 145,
+      "end_line": 153
+    },
+    {
+      "heading": "d. Bahwa alasan konstitusional yang digunakan dalam permohonan-",
+      "slug": "d-bahwa-alasan-konstitusional-yang-digunakan-dalam-permohonan",
+      "text": "permohonan sebelumnya berbeda secara fundamental dari permohona n \na quo. Permohonan dalam Perkara Nomor 14/PUU-XI/2013 pada intinya \nmenggunakan alasan penguatan sistem presidensial dan original intent \nPasal 22E UUD 1945 guna memerintahkan keserentakan antara Pilpr es \n\n5 \n \ndan Pileg dalam satu hari pemungutan suara. Permohonan dalam \nPerkara Nomor 55/PUU-XVII/2019 menggunakan alasan pada intinya \nberkenaan dengan irasionalitas desain pemilu lima kotak dan \nkegagalannya memperkuat sistem presidensial, di mana Mahkamah \nmenolak permohonan namun menawarkan enam model keserentakan \nyang konstitusional. Permohonan dalam Perkara Nomor 135/PUU-\nXXII/2024 menggunakan alasan kegagalan pembentuk undang-undang \nmenindaklanjuti Putusan 55/2019 selama lebih dari lima tahun se rta \ndampak pemilu lima kotak terhadap beban fisik penyelenggara dan  \nkualitas kedaulatan rakyat, yang dikabulkan Mahkamah dengan \nmenetapkan model pemisahan Pemilu Nasional dan Pemilu Daerah \nberjeda 2-2,5 tahun. Permohonan dalam Perkara Nomor 120/PUU-\nXXIII/2025 menggunakan alasan bahwa pemisahan Pemilu Nasional dan \nDaerah sebagaimana dimaknai Putusan 135/2024 seharusnya diperlu as \nmenjadi pemisahan antara pemilu eksekutif dan pemilu legislatif  \nsebagaimana diterapkan di Korea Selatan, namun Mahkamah menolak  \npermohonan tersebut sebagai tidak beralasan menurut hukum. Adap un \npermohonan dalam Perkara Nomor 124/PUU-XXIII/2025 dinyatakan tidak \ndapat diterima (niet ontvankelijk verklaard) oleh Mahkamah karena norma \npasca Putusan 135/2024 yang dipersoalkan belum dinormakan oleh \npembentuk undang-undang sehingga kerugian konstitusional PARA \nPEMOHON belum dapat dinilai. Sementara alasan permohonan a quo  \nadalah kelalaian konstitusional pembentuk undang-undang yang se cara \naktif membiarkan norma “serentak” dalam Pasal 167 ayat (3) dan Pasal \n347 ayat (1) UU Pemilu tetap berlaku dalam teks aslinya tanpa \npenyesuaian pasca Putusan 135/PUU-XXII/2024, sehingga menimbulkan \nkerugian konstitusional yang nyata, langsung, dan aktual bagi PEMOHON \nselaku warga negara yang berhak atas kepastian hukum dan \npenyelenggaraan pemilihan umum yang konstitusional sebagaimana \ndijamin oleh Pasal 28D ayat (1) UUD 1945; \ne. Bahwa untuk memperkuat dalil bahwa permohonan a quo tidak bersifat \nnebis in idem  sekaligus untuk membuktikan urgensi konstitusional \npermohonan ini, PARA PEMOHON merujuk pada fakta bahwa seluruh \npermohonan pengujian sebelumnya bertolak dari premis bahwa fras a \n\n6 \n \n“serentak” dalam Pasal 167 ayat (3) dan Pasal 347 ayat (1) UU P emilu \nmerupakan persoalan desain kelembagaan  penyelenggaraan pemilu \nsemata, yakni kapan dan bagaimana pemilu dilaksanakan secara \nserentak. Permohonan a quo  berbeda secara fundamental karena \nmempersoalkan kelalaian konstitusional pembentuk undang-undang,  \nyakni kegagalan DPR dan Pemerintah untuk menindaklanjuti Putusan MK \nNomor 135/PUU-XXII/2024 ke dalam perubahan normatif UU Pemilu, \npadahal putusan tersebut telah diucapkan sejak 26 Juni 2025 dan bersifat \nfinal serta mengikat. Akibat kela laian tersebut, norma “serenta k” dalam \nPasal 167 ayat (3) dan Pasal 347 ayat (1) UU Pemilu masih tertulis dalam \nteks aslinya yang telah dinyatakan inkonstitusional bersyarat, sehingga \nmenciptakan dualisme normatif yang merugikan hak konstitusional PARA \nPEMOHON atas kepastian hukum yang adil sebagaimana dijamin Pasa l \n28D ayat (1) UUD 1945. Dimensi kelalaian konstitusional pembent uk \nundang-undang ini sama sekali belum pernah menjadi isu dalam satu pun \npermohonan yang telah diputus sebelumnya permohonan-permohonan \nterdahulu seluruhnya mempermasalahkan konstitusionalitas piliha n \nmodel keserentakan, bukan akibat hukum dari tidak ditindaklanju tinya \nsuatu putusan MK yang telah berkekuatan hukum tetap. Argumentas i a \nquo merupakan alasan baru yang bersifat substantif dan belum perna h \ndiajukan dalam permohonan-permohonan yang telah diputus \nsebelumnya; \nf. Bahwa perlu dicermati pula bahwa pasca Putusan MK Nomor 135/ PUU-\nXXII/2024 yang diucapkan pada 26 Juni 2025, norma keserentakan dalam \nPasal 167 ayat (3) dan Pasal 347 ayat (1) UU Pemilu telah mempe roleh \npemaknaan konstitusional baru yang bersifat conditionally constitutional, \nnamun pembentuk undang-undang hingga kini belum menindaklanjuti  \ntafsir konstitusional tersebut ke dalam perubahan normatif. Keadaan inilah \nyang melahirkan dimensi konstitusional baru atas pasal-pasal a quo yang \nbelum pernah dipertimbangkan dalam satu pun permohonan sebelumnya, \nyakni persoalan timbulnya kerugian konstitusional aktual PARA \nPEMOHON sebagai akibat langsung dari sikap diam pembentuk undang-\nundang dalam tidak merevisi norma “serentak” pasca Putusan MK Nomor \n135/PUU-XXII/2024. Perlu ditegaskan bahwa Mahkamah sendiri dala m \n\n7 \n \npertimbangan Putusan Nomor 135/PUU-XXII/2024 secara eksplisit \nmenyebut reaksi pembentuk undang-undang selama lebih dari 5 (li ma) \ntahun pasca Putusan Nomor 55/PUU-XVII/2019 sebagai salah satu \njustifikasi utama untuk mengabulkan permohonan. Dengan demikian , \npreseden Mahkamah sendiri mengakui bahwa kelalaian pembentuk \nundang-undang merupakan dimensi konstitusional tersendiri yang dapat \nmenjadi dasar permohonan baru. Dalam konteks a quo, kelalaian serupa \nkini terulang: Putusan Nomor 135/PUU-XXII/2024 telah berusia lebih dari \nsatu tahun namun UU Pemilu tidak kunjung direvisi, sehingga nor ma \n“serentak” dalam Pasal 167 ayat (3) dan Pasal 347 ayat (1) yang  telah \ndinyatakan inkonstitusional bersyarat tetap menimbulkan ketidak pastian \nhukum yang nyata bagi PARA PEMOHON. Oleh karenanya, alasan \npermohonan a quo  bukan sekadar berbeda secara formal, melainkan \nmengungkap dimensi konstitusional baru yang belum pernah \ndipertimbangkan Mahkamah; \ng. Bahwa berdasarkan uraian di atas, setelah membandingkan alasan dalam \npermohonan-permohonan sebelumnya dengan permohonan a quo, maka \nalasan permohonan a quo  menegaskan adanya perbedaan alasan \nkonstitusional yang substantif dengan permohonan-permohonan \nsebelumnya yang telah diputus oleh Mahkamah, sehingga telah \nmemenuhi ketentuan Pasal 60 UU MK dan Pasal 78 PMK 2/2021, dan \noleh karenanya permohonan a quo dapat diajukan kembali ke hadapan \nMahkamah Konstitusi.",
+      "start_line": 155,
+      "end_line": 258
+    },
+    {
+      "heading": "9. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah nyata bahwa",
+      "slug": "9-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-nyata-bahwa",
+      "text": "objek permohonan a quo  memenuhi syarat sebagai objek permohonan \npengujian materiil Undang-Undang terhadap UUD NRI 1945. Oleh \nkarenanya, Mahkamah Konstitusi berwenang untuk memeriksa, menga dili, \ndan memutus konstitusionalitas Undang-Undang terhadap UUD NRI 1 945 \ndalam perkara a quo yang diajukan oleh PEMOHON. \nII. KEDUDUKAN HUKUM (LEGAL STANDING)  DAN KERUGIAN",
+      "start_line": 260,
+      "end_line": 265
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan ba hwa",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menyatakan-ba-hwa",
+      "text": "PEMOHON adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \n\n8 \n \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip negara kesatuan RI yang \ndiatur dalam undang-undang;",
+      "start_line": 268,
+      "end_line": 276
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, maka terlebih dahulu P ARA",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-maka-terlebih-dahulu-p-ara",
+      "text": "PEMOHON menguraikan kedudukan hukum (legal standing) sebagai berikut: \na. Bahwa, PEMOHON I merupakan perseorangan warga negara Indones ia \nyang dibuktikan dengan kepemilikan Kartu Tanda Penduduk (Bukti P-4). \nPEMOHON I merupakan seorang advokat yang dalam menjalankan \nprofesinya tunduk pada Kode Etik dan Ketentuan Peraturan Perund ang-\nundangan Advokat. Adapun status keaktifan PEMOHON sebagai advokat \ndibuktikan dengan Bukti P-5 (Kartu Tanda Anggota Advokat yang m asih \nberlaku/Surat Keterangan Aktif sebagai Advokat);   \nb. Bahwa, PEMOHON II merupakan perseorangan Warga Negara Indonesia \nyang dibuktikan dengan kepemilikan Kartu Tanda Penduduk (Bukti P-6), \nserta aktif sebagai   yang dibuktikan dengan Surat Keputusan Ko misi \nPemilihan Umum Nomor 1649 Tahun 2023 tentang Penetapan Ketua \nKomisi Pemilihan Umum Provinsi pada 1 (satu) Provinsi dan Komis i \nPemilihan Umum Kabupaten/Kota pada 8 (delapan) Kabupaten/Kota di 4 \n(empat) Provinsi Periode 2023 - 2028 (Bukti P-7).",
+      "start_line": 280,
+      "end_line": 294
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2) menegaskan PARA",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaskan-para",
+      "text": "PEMOHON memenuhi dan memiliki kedudukan hukum (legal standing)  \nsebagai perseorangan warga negara Indonesia sehingga PARA PEMOHON \ndapat mengajukan permohonan pengujian UU terhadap UUD NRI 1945.  \nSelanjutnya, PARA PEMOHON akan menguraikan kerugian \nkonstitusionalnya yang dialami sehubungan dengan berlakunya UU yang \ndiujikan konstitusionalitasnya dalam perkara a quo;",
+      "start_line": 296,
+      "end_line": 301
+    },
+    {
+      "heading": "4. Bahwa Putusan Mahkamah Konsti tusi Nomor 006/PUU- III/2005 dan Perkara",
+      "slug": "4-bahwa-putusan-mahkamah-konsti-tusi-nomor-006-puu-iii-2005-dan-perkara",
+      "text": "Nomor 11/PUU- V/2007, juga menyebutkan tentang kapasitas pemoho n \ndalam mengajukan permohonan pengujian undang-undang terhadap \nundang-undang dasar, yaitu: \n\n9 \n \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang-Undang \nDasar Negara Republik Indonesia 1945. \nb. Bahwa hak konstitusional pemohon tersebut dianggap oleh para  \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 303,
+      "end_line": 312
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat spesifik",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat-spesifik",
+      "text": "atau khusus dan aktual atau setidaknya potensial yang menurut \npenalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 314,
+      "end_line": 315
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya Undang-",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya-undang",
+      "text": "Undang yang dimohonkan untuk diuji. \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan mak a \nkerugian konstitusional yang didalilkan tidak akan atau tidak terjadi lagi.",
+      "start_line": 317,
+      "end_line": 319
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional PEMOHON dijamin oleh",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-pemohon-dijamin-oleh",
+      "text": "UUD NRI 1945 yang telah diatur dalam beberapa pasal yang diguna kan \nsebagai dasar pengujian dalam perkara a quo, yaitu: \na. Pasal 167 ayat (3) UU Pemilu menyatakan “Pemungutan suara \ndilaksanakan secara serentak pada hari libur atau hari yang dil iburkan \nsecara nasional”. \nb. Pasal 347 ayat (1) UU Pemilu menyatakan “Pemungutan suara Pe milu \ndiselenggarakan secara serentak”.",
+      "start_line": 321,
+      "end_line": 327
+    },
+    {
+      "heading": "c. Pasal 3 ayat (1) UU Pilkada menyatakan “Pemilihan dilaksanak an setiap",
+      "slug": "c-pasal-3-ayat-1-uu-pilkada-menyatakan-pemilihan-dilaksanak-an-setiap",
+      "text": "5 (lima) tahun sekali secara serentak di seluruh wilayah Negara Kesatuan \nRepublik Indonesia”.",
+      "start_line": 329,
+      "end_line": 330
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam UUD",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam-uud",
+      "text": "NRI 1945 tersebut telah dirugikan dengan pasal sebagai berikut: \na. Pasal 18 ayat (4) UUD NRI 1945, menyatakan “Gubernur, Bupati , dan \nWalikota masing-masing sebagai kepala pemerintah daerah provins i, \nkabupaten, dan kota dipilih secara demokratis”. \nb. Pasal 22E ayat (1) UUD NRI 1945, menyatakan “Pemilihan umum \ndilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil \nsetiap lima tahun sekali”.",
+      "start_line": 332,
+      "end_line": 338
+    },
+    {
+      "heading": "c. Pasal 28D ayat (1) UUD NRI 1945, menyatakan “Setiap orang berhak atas",
+      "slug": "c-pasal-28d-ayat-1-uud-nri-1945-menyatakan-setiap-orang-berhak-atas",
+      "text": "pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta \nperlakuan yang sama di hadapan hukum”. \n\n10",
+      "start_line": 340,
+      "end_line": 344
+    },
+    {
+      "heading": "7. Bahwa dengan berlakunya pasal-pasal sebagaimana tersebut dal am poin 6),",
+      "slug": "7-bahwa-dengan-berlakunya-pasal-pasal-sebagaimana-tersebut-dal-am-poin-6",
+      "text": "PARA PEMOHON telah mengalami kerugian konstitusional, baik yang  \nbersifat spesifik (aktual) maupun potensial yang akan dijelaska n sebagai \nberikut: \na) Bahwa PEMOHON I adalah warga negara Indonesia, dalam \nkedudukannya bukan hanya merupakan seorang voter yang terdaftar \ndalam Daftar Pemilih Tetap (DPT), melainkan juga merupakan seor ang \nadvokat yang memiliki perhatian (concern) khusus terhadap penegakan \nnilai-nilai konstitusi juga dalam bidang kepemiluan; \nb) Bahwa, kapasitas PEMOHON I sebagai advokat yang concern terhadap \nisu kepemiluan tersebut bukanlah hal baru, sebagaimana PEMOHON I \npernah pula mengajukan permohonan pengujian atas nama norma UU \nPemilu yang objeknya serupa dengan permohonan a quo, yakni pengujian \na t a s  P a s a l  1 6 7  a y a t  ( 3 ) ,  P a s a l  3 4 7  a y a t  ( 1 )  U U  P e m i l u  d a n  d a l a m \npermohonan tersebut Mahkamah telah menyatakan PEMOHON I memiliki \nkedudukan hukum (legal standing) untuk bertindak sebagai PEMOHON, \nsebagaimana termuat dalam Putusan Nomor 120/PUU-XXIII/2025; \nc) Bahwa PEMOHON I mencatat Putusan MK Nomor 135/PUU-XXII/2024,  \nterlepas dari tujuannya untuk memperbaiki desain keserentakan p emilu, \nmenghadirkan konsekuensi berupa dua agenda pemilihan besar (pem ilu \nnasional dan pemilu daerah) dalam satu siklus lima tahunan dengan jeda \nwaktu yang signifikan di antara keduanya. Dalam paragraf [3.16. 5] \nPutusan a quo , PEMOHON I mengindikasikan akan adanya persoalan \nkejenuhan pemilih yang timbul dari kompleksitas penyelenggaraan pemilu \nsebelumnya, namun belum terdapat kepastian maupun fakta empirik yang \nmenunjukkan bahwa desain baru ini secara efektif mengatasi pers oalan \ntersebut, dan bukan justru menggeser maupun memperpanjangnya \ndalam bentuk yang berbeda. Bahwa persoalan ini menjadi bagian d ari \nkegelisahan PEMOHON I yang mendasari permohonan a quo , yang \nsecara spesifik ditujukan pada persoalan berbeda, yaitu ketiada an \nkepastian hukum akibat kelalaian pembentuk undang-undang dalam \nmenindaklanjuti Putusan Nomor 135/PUU-XXII/2024; \nd) Bahwa dasar dan kepentingan hukum PEMOHON II dalam mengajuka n \npermohonan pengujian a quo  adalah untuk memperkuat kapasitas \n\n11 \n \nkelembagaan dan instrumen-instrumen pemilu yang jujur dan adil,  \nmelembagakan prinsip-prinsip atau nilai-nilai pemilu yang berin tegritas, \nserta mendorong inovasi-inovasi pemilu kabupaten yang ideal;  \ne) Bahwa PEMOHON II telah mengabdikan dirinya serta berkontribusi dalam \nrangka melakukan pengawasan dan menjadi mitra strategis dalam proses \ntahapan penyelenggaraan pemilu sejak tahun 2023 sebagai Ketua K PU \nKabupaten Dogiyai. Selain itu, PEMOHON II juga berkontribusi da lam \nrangka edukasi dan diseminasi mengenai pemilu kepada masyarakat  \nsalah satunya melakukan sosialisasi berkaitan dengan pemilu kabupaten; \nf) Bahwa PEMOHON II berencana untuk masih terus mengabdikan dir i dan \nberkontribusi di dunia kepemiluan dengan cara terus berpartisip asi \nsebagai penyelenggara pemilu untuk pemilu-pemilu mendatang; \ng) Bahwa, PEMOHON II memiliki karakter yang lebih spesifik dan langsung \ndibandingkan sekedar kedudukannya sebagai voter terdaftar, mengingat \nkapasitasnya selaku Ketua KPU Kabupaten Dogiyai menempatkannya \nsebagai unsur penyelenggara pemilu yang secara struktural dan \nfungsional bertanggung jawab langsung atas pelaksanaan teknis tahapan \nPemilu dan Pilkada. Bahwa sebagaimana ditegaskan Mahkamah dalam  \nPutusan Nomor 101/PUU-XXII/2024, penilaian atas ada tidaknya \nkedudukan hukum seorang pemohon perseorangan tidak semata-mata \nbertumpu pada anggapan kerugian yang bersifat umum sebagaimana \ndialami setiap warga negara, melainkan turut mempertimbangkan \nkapasitas dan keterlibatan pemohon yang bersangkutan dengan obj ek \nyang dimohonkan pengujiannya sejalan dengan asas point d’interet poin \nd’action dalam hukum acara (Bisariyadi, Hak Konstitusional: 2023). Dalam \nhal ini, kedudukan PEMOHON II sebagai penyelenggara pemilu di tingkat \nkabupaten menjadikan kerugian yang dialaminya bukan lagi sebata s \nketidakpastiannya sebagai voter, melainkan ketidakpastian yang bersifat \noperasional dan struktural dalam menjalankan kewenangan dan \nkewajibannya menyusun serta melaksanakan tahapan Pemilu dan \nPilkada 2029 berdasarkan norma acuan yang hingga permohonan a quo \ndiajukan masih mengandung dualisme antara norma asli dalam pasa l \npengujian a quo  dengan pemaknaan baru dalam Putusan Mahkamah \nNomor 135/PUU-XXII/2024; \n\n12 \n \nh) Bahwa ketidakpastian mengenai norma yang harus diikuti dalam  \npenyelenggaraan Pemilu dan Pilkada 2029, apakah tetap berpedoma n \npada norma asli pasal pengujian a quo , ataukah pemaknaan baru \nsebagaimana ditetapkan dalam Putusan Mahkamah Nomor 135/PUU-\nXXII/2024 turut merugikan hak konstitusional PEMOHON II untuk \nmenyusun skema dan mekanisme penyelenggaran pemilu secara \nterencana dan berkepastian hukum. Bahwa selama ketidakjelasan i ni \ndibiarkan berlarut-larut tanpa diakhiri melalui revisi normatif  o l e h  \npembentuk undang-undang, keadaan tersebut secara nyata telah \nmerugikan PEMOHON II, karena hal tersebut bertentangan dengan \naktivisme yang telah dijalankan PEMOHON II sejak tahun 2023 dal am \nupaya mewujudkan sebuah sistem kepemiluan yang adil, demokratis, dan \nproporsional; \ni) Bahwa syarat kerugian konstitusional sebagaimana ditegaskan dalam \nPutusan Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan Nomor \n011/PUU-V/2007 tidak mensyaratkan kerugian yang telah terjadi s ecara \nkonkret, melainkan cukup bersifat potensial yang menurut penalaran yang \nwajar dapat dipastikan akan terjadi. Dalam perkara a quo , potensi \nkerugian tersebut bukan bersifat spekulatif, melainkan didukung oleh fakta \nhukum bahwa hingga permohonan ini diajukan, DPR dan Pemerintah \nbelum juga menjadikan revisi UU Pemilu dan UU Pilkada sebagai agenda \nprioritas. Sebagaimana diberitakan secara luas, pimpinan DPR se cara \nterbuka menyatakan bahwa pembahasan RUU Pemilu belum menjadi \nprioritas utama karena DPR dan Pemerintah tengah memfokuskan \nperhatian pada penanganan pemutusan hubungan kerja (PHK) dan \npemulihan ekonomi, sehingga pembahasan substansial atas norma \nkeserentakan pemilu pasca Putusan MK Nomor 135/PUU-XXII/2024 terus \ntertunda tanpa kepastian waktu. Padahal, sebagaimana dikemukaka n \noleh peneliti Perkumpulan untuk Pemilu dan Demokrasi (Perludem) , \npembahasan UU Pemilu dan UU Pilkada semestinya dilakukan secara  \nbersamaan agar tidak menimbulkan fragmentasi pengaturan, \ninkonsistensi prinsip, dan disharmoni norma yang berkepanjangan pasca \nPutusan MK Nomor 135/PUU-XXII/2024, sementara kenyataan yang \nterjadi justru sebaliknya. Fakta-fakta tersebut menegaskan bahw a \n\n13 \n \nkerugian potensial yang didalilkan PARA PEMOHON bukan merupakan  \nsesuatu yang belum ada wujudnya sama sekali, melainkan konsekue nsi \nyang menurut penalaran yang wajar dapat dipastikan akan terjadi  dari \nkelambanan pembentuk undang-undang yang telah berlangsung dan \ndiakui secara terbuka oleh pembentuk undang-undang itu sendiri; \nj) Bahwa kerugian konstitusional  PARA PEMOHON bersumber dari f akta \nbahwa Pasal 167 ayat (6) UU Pemilu mensyaratkan tahapan \npenyelenggaraan pemilu dimulai paling lambat 20 bulan sebelum h ari \npemungutan suara, sementara norma acuan pelaksanaan pemilu \nnasional dan pemilu daerah sebagaimana dimaksud pada Pasal 167 ayat \n(3) dan Pasal 347 ayat (1) UU Pemilu telah dinyatakan Mahkamah harus \ndimaknai berbeda melalui Putusan Nomor 135/PUU-XXII/2024, namun  \nhingga permohonan a quo  diajukan belum dinormakan dalam bentuk \nperubahan undang-undang oleh DPR dan Pemerintah; \nk) Bahwa apabila kelalaian ini terus berlangsung hingga mendeka ti \ndimulainya tahapan Pemilu dan Pilkada 2029, PARA PEMOHON dalam \nkapasitasnya selaku pemilih maupun penyelenggara akan dihadapka n \npada ketidakpastian hukum yang nyata mengenai dasar hukum \npenyelenggaraan pemilu yang akan digunakan KPU, apakah berdasarkan \nnorma UU Pemilu yang secara tekstual belum diubah, ataukah \nberdasarkan tafsir Mahkamah dalam Putusan Nomor 135/PUU-XXII/2024 \nyang belum berbentuk norma undang-undang. Ketidakpastian ini se cara \nlangsung merugikan hak PARA PEMOHON untuk mengetahui secara \npasti kapan, berapa kali, dan berdasarkan aturan main yang mana ia akan \nmenggunakan hak pilihnya, sebagaimana dijamin Pasal 22E ayat (1) dan \nPasal 28D ayat (1) UUD NRI 1945; \nl) Bahwa, kelalaian pembentuk undang-undang dalam menyediakan n orma \npengganti dalam jangka waktu yang wajar turut berdampak pada \nkesiapan teknis penyelenggara pemilu, mengingat penyusunan Peraturan \nKPU turunan, pemutakhiran data pemilih, dan sosialisasi kepada pemilih \nmemerlukan kepastian norma acuan sejak dini. Semakin lama \nkekosongan ini dibiarkan, semakin sempit waktu yang tersedia ba gi \npenyelenggara untuk mempersiapkan pemilu secara matang, yang pa da \nakhirnya berpotensi menurunkan kualitas penyelenggaraan pemilu yang \n\n14 \n \nlangsung dialami PARA PEMOHON sebagai pemilih maupun \npenyelenggara termasuk potensi kesalahan administratif yang \nmempengaruhi keabsahan penggunaan hak pilihnya.",
+      "start_line": 346,
+      "end_line": 495
+    },
+    {
+      "heading": "8. Bahwa oleh karena kerugian konstitusional yang telah dijabar kan telah nyata",
+      "slug": "8-bahwa-oleh-karena-kerugian-konstitusional-yang-telah-dijabar-kan-telah-nyata",
+      "text": "dialami PEMOHON, maka PEMOHON memiliki kedudukan hukum (legal \nstanding) sebagai PEMOHON Pengujian Undang-Undang dalam perkara a \nquo telah memenuhi ketentuan Pasal 51 ayat (1) UU Mahkamah Konstit usi \nbeserta penjelasannya dan syarat kerugian hak konstitusional se bagaimana \ntertuang dalam Putusan Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan \nNomor 011/PUU-V/2007. \nIII. ALASAN PERMOHONAN \nA. Tidak dilakukan Perubahan terhadap UU Pemilu dan UU Pilkada \nbertentangan dengan Pasal 22E ayat (1) UUD 1945",
+      "start_line": 497,
+      "end_line": 505
+    },
+    {
+      "heading": "1. Bahwa Pasal 22E ayat (1) UUD NRI 1945 menyatakan: \"Pemilihan umum",
+      "slug": "1-bahwa-pasal-22e-ayat-1-uud-nri-1945-menyatakan-pemilihan-umum",
+      "text": "dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil \nsetiap lima tahun sekali.\"",
+      "start_line": 507,
+      "end_line": 508
+    },
+    {
+      "heading": "2. Bahwa prinsip \"jujur dan adil\" (jurdil) sebagaimana diamanat kan Pasal",
+      "slug": "2-bahwa-prinsip-jujur-dan-adil-jurdil-sebagaimana-diamanat-kan-pasal",
+      "text": "22E ayat (1) UUD 1945 bukan sekadar prinsip prosedural, melaink an \nmerupakan jaminan konstitusional atas kepastian hukum bagi selu ruh \npenyelenggara, peserta, dan pemilih dalam setiap siklus pemilihan umum. \nPrinsip jurdil menghendaki adanya satu acuan normatif yang tung gal, \nterang, dan dapat diprediksi (legal certainty) sebagai fondasi pelaksanaan \npemilu. Tanpa kepastian normatif demikian, tidak mungkin terwuj ud \nkeadilan elektoral (electoral justice) yang sesungguhnya;",
+      "start_line": 510,
+      "end_line": 516
+    },
+    {
+      "heading": "3. Bahwa pasca diucapkannya Putusan MK Nomor 135/PUU-XXII/2024",
+      "slug": "3-bahwa-pasca-diucapkannya-putusan-mk-nomor-135-puu-xxii-2024",
+      "text": "pada tanggal 26 Juni 2025, norma keserentakan pemilu dalam Pasal 167 \na y a t  ( 3 )  d a n  P a s a l  3 4 7  a y a t  ( 1 )  U U  7 / 2 0 1 7  s e r t a  P a s a l  3  a y a t  ( 1) UU \n8/2015 telah dinyatakan bertentangan dengan UUD 1945 secara \nbersyarat (inkonstitusional bersyarat). Mahkamah telah menetapk an \npemaknaan konstitusional baru bahwa pemilu harus dipisahkan men jadi \ndua gelombang: Pemilu Nasional (DPR, DPD, Presiden/Wakil Presid en) \ndan Pemilu Daerah (DPRD, Kepala Daerah) yang berjeda paling sin gkat \n2 (dua) tahun dan paling lama 2 (dua) tahun 6 (enam) bulan; \n\n15",
+      "start_line": 518,
+      "end_line": 528
+    },
+    {
+      "heading": "4. Bahwa meskipun demikian, lebih dari satu tahun pascaputusan",
+      "slug": "4-bahwa-meskipun-demikian-lebih-dari-satu-tahun-pascaputusan",
+      "text": "diucapkan, BELUM terdapat perubahan yang dilakukan oleh pembent uk \nundang-undang.",
+      "start_line": 530,
+      "end_line": 531
+    },
+    {
+      "heading": "5. Bahwa yang lebih krusial dari sekadar ketiga pasal yang tela h diuji",
+      "slug": "5-bahwa-yang-lebih-krusial-dari-sekadar-ketiga-pasal-yang-tela-h-diuji",
+      "text": "tersebut, adalah fakta bahwa frasa \"serentak\" dengan makna lama  (lima \njenis pemilihan dalam satu hari) MASIH TERSEBAR DI PASAL LAIN \ndalam UU 7/2017 dan UU 8/2015 yang belum tersentuh oleh putusan  \nMahkamah. Kondisi demikian menciptakan disharmoni normatif yang  \nbersifat sistemik di dalam kedua undang-undang tersebut, antara lain: \na. Pasal 1 ayat (1) UU 7/2017 yang mendefinisikan \"Pemilihan Um um\" \nsebagai pemilu yang memilih angg ota DPR, DPD, Presiden/Wakil \nPresiden, dan DPRD secara bersamaan, tanpa membedakan antara \n\"Pemilu Nasional\" dan \"Pemilu Daerah\" sebagaimana dikehendaki \nPutusan MK 135/2024. Selama definisi dasar ini tidak diubah, seluruh \nnorma operasional UU 7/2017 kehilangan basis konseptual untuk \nmodel dua gelombang; \nb. Pasal 167 ayat (4) UU 7/2017 yang mengatur tahapan \npenyelenggaraan pemilu mencakup pencalonan Presiden/Wakil \nPresiden sekaligus anggota DPR, DPD, DPRD Provinsi, dan DPRD \nKabupaten/Kota dalam satu siklus tahapan yang sama, padahal \npasca-Putusan MK 135/2024 kedua kelompok ini harus memiliki siklus \ntahapan yang terpisah;",
+      "start_line": 533,
+      "end_line": 550
+    },
+    {
+      "heading": "c. Pasal 167 ayat (6) UU 7/2017 yang mewajibkan tahapan",
+      "slug": "c-pasal-167-ayat-6-uu-7-2017-yang-mewajibkan-tahapan",
+      "text": "penyelenggaraan pemilu dimulai paling lambat 20 (dua puluh) bul an \nsebelum hari pemungutan suara, yang didesain untuk satu siklus \npemilu tunggal. Pasca-Putusan MK 135/2024, Pemilu Nasional dan \nPemilu Daerah masing-masing membutuhkan siklus persiapan 20 \nbulan yang terpisah, sehingga tanpa revisi norma ini KPU tidak \nmemiliki payung hukum untuk memb uat dua jadwal persiapan yang \nberbeda;",
+      "start_line": 552,
+      "end_line": 558
+    },
+    {
+      "heading": "d. Pasal 267 ayat (2) UU 7/2017 yang menyatakan kampanye pemilu",
+      "slug": "d-pasal-267-ayat-2-uu-7-2017-yang-menyatakan-kampanye-pemilu",
+      "text": "dilaksanakan secara serentak antara kampanye Pilpres dan \nkampanye Pileg DPR, DPD, dan DPRD. Norma ini menjadi tidak \nkonstitusional apabila dibaca bersamaan dengan amar Putusan MK \n\n16 \n \n135/2024, karena kampanye Pemilu Nasional dan Pemilu Daerah \nseharusnya dilaksanakan dalam siklus yang terpisah; \ne. Pasal 341 ayat (1) dan Pasal 344 ayat (2) UU 7/2017 yang men gatur \nperlengkapan pemungutan suara berupa 5 (lima) jenis surat suara  \ndalam satu TPS sekaligus beserta ketentuan pencetakan dan \ncadangannya. Dengan model dua gelombang, spesifikasi pengadaan \nsurat suara harus diubah: Pemilu Nasional hanya membutuhkan 3 \njenis surat suara (DPR, DPD, Presiden/Wakil Presiden) dan Pemil u \nDaerah hanya membutuhkan 3 jenis surat suara (DPRD Provinsi, \nDPRD Kabupaten/Kota, Kepala Daerah); \nf. Pasal 398 sampai dengan Pasal 406 UU 7/2017 tentang mekanism e \nrekapitulasi suara yang mengatur penghitungan berjenjang dari T PS, \nPPK, KPU Kabupaten/Kota, KPU Provinsi, hingga KPU Pusat untuk 5 \n(lima) jenis pemilihan secara bersamaan. Pasca-Putusan MK \n135/2024, terdapat dua siklus rekapitulasi berbeda yang masing-\nmasing berlaku untuk Pemilu Nasional dan Pemilu Daerah, sehingg a \nseluruh ketentuan rekapitulasi dan sertifikasi hasil harus diat ur ulang \nsecara terpisah per siklus; \ng. Pasal 3 ayat (1) UU 8/2015 yang telah dinyatakan inkonstitus iinal \nbersyarat, Pasal 5, Pasal 201, dan Pasal 202 UU 8/2015 yang \nmengatur tahapan dan kompensasi jabatan berdasarkan asumsi \nkeserentakan pilkada dengan pemilu nasional, yang seluruhnya belum \ndisesuaikan dengan amar Putusan MK 135/2024 mengenai \npemisahan Pemilu Daerah dari Pemilu Nasional;",
+      "start_line": 560,
+      "end_line": 589
+    },
+    {
+      "heading": "6. Bahwa keadaan disharmoni normatif yang bersifat sistemik dan",
+      "slug": "6-bahwa-keadaan-disharmoni-normatif-yang-bersifat-sistemik-dan",
+      "text": "menyeluruh sebagaimana diuraikan di atas membuktikan bahwa \npermasalahan konstitusionalitas Pasal 167 ayat (3), Pasal 347 a yat (1) \nUU 7/2017, dan Pasal 3 ayat (1) UU 8/2015 tidak dapat dipandang  \nsebagai persoalan tiga pasal yang berdiri sendiri, melainkan me rupakan \ncermin dari inkonstitusionalitas sistemik yang timbul akibat si kap diam \npembentuk undang-undang dalam tidak menindaklanjuti Putusan MK \n135/2024 secara menyeluruh ke dalam perubahan normatif;",
+      "start_line": 591,
+      "end_line": 597
+    },
+    {
+      "heading": "7. Bahwa dalam perspektif ilmu hukum pemilu (electoral law), k e p a s t i a n",
+      "slug": "7-bahwa-dalam-perspektif-ilmu-hukum-pemilu-electoral-law-k-e-p-a-s-t-i-a-n",
+      "text": "norma tertulis merupakan prasyarat mutlak bagi terwujudnya pemilu yang \n\n17 \n \njujur dan adil. Sebagaimana ditegaskan oleh Hasyim Asy'ari, reg ulasi \npemilu yang bersumber dari UU, Putusan MK, dan peraturan pelaks ana \n(PKPU) harus berada dalam hubungan yang harmonis dan tidak sali ng \nbertentangan. Kondisi di mana teks UU masih memuat norma \"seren tak\" \ndengan makna lama serta proses dan mekanisme pemilu nasional da n \ndaerah belum dirumuskan, sementara Putusan MK telah menetapkan \npemaknaan konstitusional yang berbeda, menciptakan dualisme sum ber \nnorma yang membuka ruang ketidakseragaman penerapan di lapangan;",
+      "start_line": 599,
+      "end_line": 610
+    },
+    {
+      "heading": "8. Bahwa risiko ketidakseragaman penerapan tersebut bukan perso alan",
+      "slug": "8-bahwa-risiko-ketidakseragaman-penerapan-tersebut-bukan-perso-alan",
+      "text": "yang bersifat hipotetis. Berdasarkan pengalaman tindak lanjut P utusan \nMK dalam bidang pemilu, sebagaimana dikaji oleh Sihombing dan Hadita, \nperbedaan penafsiran antara penyelenggara pemilu di tingkat pus at dan \ndaerah atas norma yang belum direvisi secara tekstual telah ter bukti \nmenimbulkan sengketa hukum yang melemahkan legitimasi pemilu. Tidak \nmenutup kemungkinan penyelenggara pemilu di tingkat daerah (KPU D, \nPPK) masih merujuk pada teks asli UU yang belum disesuaikan, \nsementara penyelenggara di tingkat pusat merujuk pada tafsir \nkonstitusional terbaru. Kondisi ini secara langsung bertentanga n dengan \nprinsip jurdil yang menghendaki perlakuan yang seragam bagi sel uruh \npenyelenggara, peserta, dan pemilih di seluruh wilayah Indonesia;",
+      "start_line": 612,
+      "end_line": 622
+    },
+    {
+      "heading": "9. Bahwa prinsip pemilu yang jujur dan adil sebagaimana dijamin Pasal 22E",
+      "slug": "9-bahwa-prinsip-pemilu-yang-jujur-dan-adil-sebagaimana-dijamin-pasal-22e",
+      "text": "ayat (1) UUD 1945 juga menghendaki adanya equal playing field b agi \nseluruh peserta pemilu. Dualisme normatif yang ada sekarang berpotensi \nmenguntungkan atau merugikan peserta tertentu secara asimetris \ntergantung dari penafsiran norma mana yang digunakan oleh \npenyelenggara setempat — sebuah kondisi yang secara fundamental  \nmerusak asas keadilan elektoral yang menjadi jiwa Pasal 22E aya t (1) \nUUD 1945;",
+      "start_line": 624,
+      "end_line": 630
+    },
+    {
+      "heading": "10. Bahwa berdasarkan seluruh uraian di atas, sepanjang Pasal 167 ayat (3),",
+      "slug": "10-bahwa-berdasarkan-seluruh-uraian-di-atas-sepanjang-pasal-167-ayat-3",
+      "text": "Pasal 347 ayat (1) UU 7/2017, dan Pasal 3 ayat (1) UU 8/2015 be serta \npasal-pasal terkait lainnya belum disesuaikan teksnya secara si stematis \ndengan amar Putusan MK 135/2024, norma-norma tersebut tetap \nbertentangan dengan prinsip pemilu yang jujur dan adil sebagaim ana \ndijamin Pasal 22E ayat (1) UUD NRI 1945. \n\n18 \n \nB. Tidak dilakukan Perubahan terhadap UU Pemilu dan UU Pilkada \nbertentangan dengan Pasal 18 ayat (4) UUD 1945",
+      "start_line": 632,
+      "end_line": 641
+    },
+    {
+      "heading": "1. Bahwa Pasal 18 ayat (4) UUD NRI 1945 menyatakan:",
+      "slug": "1-bahwa-pasal-18-ayat-4-uud-nri-1945-menyatakan",
+      "text": "\"Gubernur, Bupati, dan Walikota masing-masing sebagai kepala \npemerintah daerah provinsi, kabupaten, dan kota dipilih secara \ndemokratis.\"",
+      "start_line": 643,
+      "end_line": 645
+    },
+    {
+      "heading": "2. Bahwa Pasal 18 ayat (4) UUD 1945 mengandung jaminan konstitu sional",
+      "slug": "2-bahwa-pasal-18-ayat-4-uud-1945-mengandung-jaminan-konstitu-sional",
+      "text": "yang bersifat fundamental, yaitu warga negara di setiap daerah berhak \nmemilih kepala daerahnya melalui mekanisme yang demokratis, yan g di \ndalamnya terkandung syarat kepastian hukum atas kapan, bagaiman a, \ndan dalam kerangka norma apa pemilihan kepala daerah tersebut \ndiselenggarakan. Jaminan \"dipilih secara demokratis\" tidak dapa t \ndireduksi menjadi sekadar ada atau tidaknya pemilihan, ia mensyaratkan \nadanya norma yang terang dan pasti sebagai fondasi demokratis d ari \nproses pemilihan itu sendiri;",
+      "start_line": 647,
+      "end_line": 654
+    },
+    {
+      "heading": "3. Bahwa Pasal 3 ayat (1) UU 8/2015 yang menyatakan \"Pemilihan",
+      "slug": "3-bahwa-pasal-3-ayat-1-uu-8-2015-yang-menyatakan-pemilihan",
+      "text": "dilaksanakan setiap 5 (lima) tahun sekali secara serentak di se luruh \nwilayah Negara Kesatuan Republik Indonesia\" telah dinyatakan \ninkonstitusional bersyarat oleh Putusan MK 135/2024, dengan \npemaknaan bahwa Pilkada (kini disebut Pemilu Daerah) wajib \ndilaksanakan dalam jangka waktu paling singkat 2 (dua) tahun atau paling \nlama 2 (dua) tahun 6 (enam) bulan sejak pelantikan hasil Pemilu Nasional. \nNamun hingga permohonan ini diajukan, undang-undang tersebut ma sih \nbelum direvisi;",
+      "start_line": 656,
+      "end_line": 663
+    },
+    {
+      "heading": "4. Bahwa Pilkada selama ini diatur dalam rezim hukum tersendiri melalui UU",
+      "slug": "4-bahwa-pilkada-selama-ini-diatur-dalam-rezim-hukum-tersendiri-melalui-uu",
+      "text": "8/2015. Pasca-Putusan MK 135/2024, Pilkada tidak lagi diperlaku kan \nsebagai entitas yang terpisah dari Pemilu, melainkan menjadi bagian dari \ndesain besar Pemilu Daerah yang terintegrasi dalam satu siklus \nkonstitusional pasca-Pemilu Nasional. Namun pengintegrasian nor matif \nini hanya ada dalam amar Putusan MK 135/2024, BUKAN dalam teks UU \n8/2015 yang masih berlaku dengan kerangka hukum lama. Kondisi i ni \nmenciptakan kekosongan normatif operasional yang secara langsun g \nmengancam kepastian penyelenggaraan Pilkada menjelang Pemilu 2029;",
+      "start_line": 665,
+      "end_line": 672
+    },
+    {
+      "heading": "5. Bahwa selain Pasal 3 ayat (1) UU 8/2015, terdapat ketentuan- ketentuan",
+      "slug": "5-bahwa-selain-pasal-3-ayat-1-uu-8-2015-terdapat-ketentuan-ketentuan",
+      "text": "lain dalam UU 8/2015 yang juga belum disesuaikan dengan Putusan  MK \n\n19 \n \n135/2024 dan secara langsung berimplikasi pada jaminan hak warg a \nnegara untuk memilih kepala daerahnya secara demokratis, antara lain: \na. Pasal 5 UU 8/2015 yang mengatur tahapan Pemilihan melalui du a \ntahapan yaitu tahapan persiapan dan tahapan penyelenggaraan, \ntanpa mengaitkan jadwal dimulainya tahapan Pemilu Daerah dengan  \nwaktu pelantikan hasil Pemilu Nasional sebagaimana dikehendaki \noleh Putusan MK 135/2024. Tanpa keterkaitan normatif ini, tidak  ada \nkepastian kapan persiapan Pilkada/Pemilu Daerah harus dimulai, \nyang berarti tidak ada kepastian kapan warga negara dapat \nmenggunakan hak pilihnya untuk memilih kepala daerah; \nb. Pasal 201 UU 8/2015 yang mengatur jadwal pemungutan suara \nserentak berdasarkan tahun berakhirnya masa jabatan kepala daerah, \nyang seluruh pengaturannya didasarkan pada asumsi bahwa Pilkada  \nadalah entitas mandiri yang tidak terhubung dengan siklus Pemil u \nNasional. Ketentuan ini secara struktural bertentangan dengan model \nPemilu Daerah pasca-Putusan MK 135/2024 yang mengharuskan \nadanya jeda terukur dari Pemilu Nasional;",
+      "start_line": 674,
+      "end_line": 694
+    },
+    {
+      "heading": "c. Pasal 202 ayat (4) UU 8/2015 yang mengatur kompensasi bagi k epala",
+      "slug": "c-pasal-202-ayat-4-uu-8-2015-yang-mengatur-kompensasi-bagi-k-epala",
+      "text": "daerah yang masa jabatannya diperpendek akibat pelaksanaan \nPilkada serentak — ketentuan yang kini menjadi tidak relevan ta npa \nkepastian norma baru mengenai model Pemilu Daerah yang berlaku \nuntuk Pemilu 2029;",
+      "start_line": 696,
+      "end_line": 699
+    },
+    {
+      "heading": "6. Bahwa ketidakpastian normatif tersebut di atas secara langsu ng",
+      "slug": "6-bahwa-ketidakpastian-normatif-tersebut-di-atas-secara-langsu-ng",
+      "text": "menimbulkan kerugian konstitusional yang nyata bagi PEMOHON dan  \nseluruh warga negara atas hak mereka untuk memilih kepala daera hnya \n\"secara demokratis\" sebagaimana dijamin Pasal 18 ayat (4) UUD 1 945. \nTanpa kepastian norma tertulis mengenai kapan dan dalam kerangk a \nhukum apa Pemilu Daerah/Pilkada 2029 akan diselenggarakan, hak pilih \nwarga negara di daerah menjadi tergantung pada norma yang tidak  \ntertulis dan tidak pasti, yang secara inheren bertentangan dengan prinsip \ndemokratis yang disyaratkan Pasal 18 ayat (4) UUD 1945;",
+      "start_line": 701,
+      "end_line": 708
+    },
+    {
+      "heading": "7. Bahwa dalam doktrin peradilan konstitusi komparatif, situasi di mana hak",
+      "slug": "7-bahwa-dalam-doktrin-peradilan-konstitusi-komparatif-situasi-di-mana-hak",
+      "text": "konstitusional warga negara bergantung pada norma yang sedang dalam \nkondisi limbo antara teks lama yang inkonstitusional dan pemaknaan baru \n\n20 \n \nyang belum dinormakan, dikenal sebagai kondisi normative vacuum yang \nwajib diatasi oleh pengadilan konstitusi melalui kewenangan yan g \ndimilikinya. Sebagaimana dikaji oleh Sihombing dan Hadita dalam  \nperbandingan praktik Mahkamah Konstitusi di Slovenia, Ceko, Rum ania, \ndan Amerika Serikat, pengadilan konstitusi tidak boleh membiark an \nkondisi vacuum normatif berlanjut ketika hal tersebut secara la ngsung \nmencederai hak-hak fundamental warga negara;",
+      "start_line": 710,
+      "end_line": 721
+    },
+    {
+      "heading": "8. Bahwa hak warga negara di daerah untuk memilih kepala daerah nya",
+      "slug": "8-bahwa-hak-warga-negara-di-daerah-untuk-memilih-kepala-daerah-nya",
+      "text": "secara demokratis bukan hak yang dapat ditangguhkan sambil menunggu \npembentuk undang-undang berkenan melakukan revisi. Ia adalah ha k \nkonstitusional yang bersifat langsung dan operasional, yang \nmensyaratkan tersedianya norma tertulis yang jelas sebagai pras yarat \npelaksanaannya. Pemilihan kepala daerah yang dilaksanakan tanpa  \nkepastian norma tertulis yang memadai, karena pembentuk undang-\nundang tidak juga merevisi UU 8/2015 pasca-Putusan MK 135/2024 \nbukan merupakan \"pemilihan secar a demokratis\" dalam makna \nkonstitusional Pasal 18 ayat (4) UUD 1945;",
+      "start_line": 723,
+      "end_line": 731
+    },
+    {
+      "heading": "9. Bahwa Putusan MK 135/2024 sendiri secara eksplisit menyerahk an",
+      "slug": "9-bahwa-putusan-mk-135-2024-sendiri-secara-eksplisit-menyerahk-an",
+      "text": "pengaturan masa transisi jabatan kepala daerah kepada pembentuk  \nundang-undang melalui mekanisme constitutional engineering. Nam un \nlebih dari satu tahun sejak putusan diucapkan, DPR dan Pemerintah tidak \nmenjalankan amanat tersebut. Kondisi ini mengakibatkan salah sa tu \nelemen paling fundamental dari hak demokratis warga negara di d aerah, \nkepastian norma atas pemilihan kepala daerahnya, menjadi tergan tung \npada inisiatif yang tidak kunjung hadir dari lembaga yang berwenang;",
+      "start_line": 733,
+      "end_line": 739
+    },
+    {
+      "heading": "10. Bahwa Pasal 167 ayat (3) dan Pasal 347 ayat (1) UU 7/2017 m emiliki",
+      "slug": "10-bahwa-pasal-167-ayat-3-dan-pasal-347-ayat-1-uu-7-2017-m-emiliki",
+      "text": "keterkaitan struktural yang langsung dengan Pasal 3 ayat (1) UU  8/2015 \ndalam konteks Pasal 18 ayat (4) UUD 1945. Ketiga pasal tersebut  \nmerupakan satu kesatuan kerangka normatif yang mengatur \nkeserentakan penyelenggaraan pemilu, dan ketiganya sama-sama \nmenciptakan ketidakpastian mengenai posisi dan waktu penyelenggaraan \nPemilu Daerah/Pilkada pasca-Putusan MK 135/2024. Selama ketiga \npasal tersebut beserta seluruh pasal terkait dalam kedua undang-undang \ntidak direvisi secara sistematis, hak warga negara untuk memili h kepala \n\n21 \n \ndaerahnya secara demokratis sebagaimana dijamin Pasal 18 ayat ( 4) \nUUD 1945 tidak akan memiliki dasar normatif yang kokoh;",
+      "start_line": 741,
+      "end_line": 753
+    },
+    {
+      "heading": "11. Bahwa berdasarkan seluruh uraian di atas, Pasal 167 ayat (3), Pasal 347",
+      "slug": "11-bahwa-berdasarkan-seluruh-uraian-di-atas-pasal-167-ayat-3-pasal-347",
+      "text": "ayat (1) UU 7/2017, dan Pasal 3 ayat (1) UU 8/2015, dalam konte ks \nkeseluruhan sistem norma yang belum direvisi pasca-Putusan MK \n135/2024, bertentangan dengan Pasal 18 ayat (4) UUD NRI 1945 ya ng \nmenjamin hak warga negara di daerah untuk memilih kepala daerah nya \nsecara demokratis, karena kondisi disharmoni normatif yang ada \nmengakibatkan tidak tersedianya norma tertulis yang pasti sebag ai \nfondasi demokratis dari pemilihan kepala daerah yang akan datang. \nC. Tidak dilakukan Perubahan terhadap UU Pemilu dan UU Pilkada \nbertentangan dengan Pasal 28D ayat (1) UUD 1945",
+      "start_line": 755,
+      "end_line": 763
+    },
+    {
+      "heading": "1. Bahwa Pasal 28D ayat (1) UUD NRI 1945 menyatakan: \"Setiap or ang",
+      "slug": "1-bahwa-pasal-28d-ayat-1-uud-nri-1945-menyatakan-setiap-or-ang",
+      "text": "berhak atas pengakuan, jaminan, perlindungan, dan kepastian huk um \nyang adil serta perlakuan yang sama di hadapan hukum.\"",
+      "start_line": 765,
+      "end_line": 766
+    },
+    {
+      "heading": "2. Bahwa hak atas kepastian hukum yang adil sebagaimana dijamin Pasal",
+      "slug": "2-bahwa-hak-atas-kepastian-hukum-yang-adil-sebagaimana-dijamin-pasal",
+      "text": "28D ayat (1) UUD 1945 merupakan salah satu hak konstitusional y ang \npaling fundamental dalam sistem negara hukum Indonesia. Sebagaimana \nditegaskan oleh Sugianto, Arista, dan Amin (2026), hak-hak konstitusional \nyang termaktub dalam Bab XA UUD 1945 tidak bersifat deklaratif semata, \nmelainkan menuntut adanya mekanisme penegakan yang efektif dan \ndapat diakses oleh warga negara dan tanpa kepastian norma tertu lis, \njaminan konstitusional tersebut berpotensi menjadi ketentuan ya ng \nkehilangan daya paksa (non-self executing provisions).",
+      "start_line": 768,
+      "end_line": 775
+    },
+    {
+      "heading": "3. Bahwa kepastian hukum dalam perspektif konstitusional tidak hanya",
+      "slug": "3-bahwa-kepastian-hukum-dalam-perspektif-konstitusional-tidak-hanya",
+      "text": "bermakna adanya norma hukum yang berlaku, tetapi juga mensyarat kan \nbahwa norma tersebut bersifat jelas, dapat diprediksi, tidak me ngandung \ndualisme pemaknaan, dan mampu menjadi rujukan tunggal bagi semu a \npihak yang terikat olehnya. Ukuran kepastian hukum yang demikia n \nsecara tegas menjadi jiwa dari Pasal 28D ayat (1) UUD 1945.",
+      "start_line": 777,
+      "end_line": 781
+    },
+    {
+      "heading": "4. Bahwa Putusan MK Nomor 135/PUU-XXII/2024 yang diucapkan pada",
+      "slug": "4-bahwa-putusan-mk-nomor-135-puu-xxii-2024-yang-diucapkan-pada",
+      "text": "tanggal 26 Juni 2025 telah menyatakan Pasal 167 ayat (3) UU 7/2 017 \nbertentangan dengan UUD NRI 1945 dan tidak mempunyai kekuatan \nhukum mengikat secara bersyarat, sepanjang ke depan tidak dimak nai \n\n22 \n \nsebagai pemungutan suara serentak untuk memilih DPR, DPD, dan \nPresiden/Wakil Presiden yang diikuti dalam jangka waktu paling singkat 2 \n(dua) tahun atau paling lama 2 (dua) tahun 6 (enam) bulan denga n \npemungutan suara serentak untuk memilih DPRD Provinsi, DPRD \nKabupaten/Kota, dan kepala daerah. Pemaknaan bersyarat serupa \ndiberikan pula terhadap Pasal 347 ayat (1) UU 7/2017 dan Pasal 3 ayat \n(1) UU 8/2015.",
+      "start_line": 783,
+      "end_line": 795
+    },
+    {
+      "heading": "5. Bahwa Putusan MK Nomor 135/PUU-XXII/2024 tersebut, sebagaima na",
+      "slug": "5-bahwa-putusan-mk-nomor-135-puu-xxii-2024-tersebut-sebagaima-na",
+      "text": "seluruh putusan Mahkamah Konstitusi, bersifat final and binding  sesuai \nPasal 24C ayat (1) UUD 1945 jo. Pasal 47 Undang-Undang Nomor 24  \nTahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah  \ndengan Undang-Undang Nomor 7 Tahun 2020. Dengan sifat demikian,  \ntafsir konstitusional yang ditetapkan oleh Mahkamah melalui put usan \ntersebut merupakan sumber norma yang memiliki kekuatan mengikat  \nsetara dengan undang-undang terhadap seluruh pihak, yaitu: \npenyelenggara negara, lembaga legislatif, penyelenggara pemilu, peserta \npemilu, maupun warga negara selaku pemilih.",
+      "start_line": 797,
+      "end_line": 805
+    },
+    {
+      "heading": "6. Bahwa meskipun demikian, pemaknaan bersyarat ( inkonstitusiinal",
+      "slug": "6-bahwa-meskipun-demikian-pemaknaan-bersyarat-inkonstitusiinal",
+      "text": "bersyarat) yang ditetapkan oleh Mahkamah tidak secara otomatis \nmengubah teks undang-undang. Hingga permohonan ini diajukan, le bih \ndari satu tahun sejak putusan diucapkan, teks asli Pasal 167 ayat (3) yang \nberbunyi \"pemungutan suara dilaksanakan secara serentak pada ha ri \nlibur atau hari yang diliburkan secara nasional\" dan Pasal 347 ayat (1) \nyang berbunyi \"pemungutan suara Pemilu diselenggarakan secara \nserentak\" masih tertulis utuh dalam UU 7/2017 tanpa ada perubah an \nredaksional apapun. Demikian pula Pasal 3 ayat (1) UU 8/2015 ya ng \nberbunyi \"Pemilihan dilaksanakan setiap 5 (lima) tahun sekali s ecara \nserentak di seluruh wilayah Negara Kesatuan Republik Indonesia\" masih \nberlaku dalam kerangka hukum yang belum disesuaikan.",
+      "start_line": 807,
+      "end_line": 817
+    },
+    {
+      "heading": "7. Bahwa keadaan sebagaimana diuraikan di atas menciptakan dual isme",
+      "slug": "7-bahwa-keadaan-sebagaimana-diuraikan-di-atas-menciptakan-dual-isme",
+      "text": "normatif yang nyata: di satu sisi, tafsir konstitusional yang b ersifat final \ndan mengikat mewajibkan pemilu diselenggarakan dalam dua gelombang \nterpisah (Pemilu Nasional dan Pemilu Daerah); di sisi lain, tek s undang-\nundang yang masih berlaku mengatur seolah-olah penyelenggaraan tetap \n\n23 \n \ndilaksanakan dalam satu hari serentak untuk lima jenis pemiliha n \nsekaligus. Dua sumber norma yang saling bertentangan ini, kedua nya \nmemiliki kekuatan mengikat secara hukum, tidak dapat diberlakuk an \nsecara bersamaan tanpa menimbulkan kebingungan dan ketidakpasti an \nyang fundamental.",
+      "start_line": 819,
+      "end_line": 830
+    },
+    {
+      "heading": "8. Bahwa dalam kerangka hukum pidana maupun hukum administrasi,",
+      "slug": "8-bahwa-dalam-kerangka-hukum-pidana-maupun-hukum-administrasi",
+      "text": "inkonsistensi antara putusan Mahkamah Konstitusi dan teks undan g-\nundang yang belum direvisi telah terbukti secara empiris menimb ulkan \ndualisme penerapan oleh para penegak dan pelaksana hukum. \nSebagaimana dikaji oleh Wulandari, Putri, Sulistyani, dan Chand ra \n(2021), meskipun putusan MK bersifat final and binding , fakta \nmenunjukkan bahwa tidak semua putusan MK ditindaklanjuti dengan  \nperubahan undang-undang secara formil, dan kondisi tersebut \nmenimbulkan berbagai perbedaan dalam penerapan hukum yang pada \nakhirnya melanggar kepastian hukum dan hak-hak warga negara. \nKerangka analitis yang sama berlaku mutatis mutandis dalam kont eks \nnorma penyelenggaraan pemilu yang sedang dipersoalkan dalam \npermohonan a quo.",
+      "start_line": 832,
+      "end_line": 843
+    },
+    {
+      "heading": "9. Bahwa ketidakpastian hukum akibat dualisme normatif ini buka n",
+      "slug": "9-bahwa-ketidakpastian-hukum-akibat-dualisme-normatif-ini-buka-n",
+      "text": "persoalan yang bersifat spekulatif atau hipotetis, melainkan be rdampak \nkonkret dan langsung pada penyusunan tahapan penyelenggaraan \nPemilu 2029. Pasal 167 ayat (6) UU 7/2017 mengatur bahwa tahapa n \npenyelenggaraan pemilu dimulai paling lambat 20 (dua puluh) bul an \nsebelum hari pemungutan suara, sebuah ketentuan yang didesain u ntuk \nsatu siklus tahapan tunggal, bukan dua siklus yang terpisah sebagaimana \ndiperintahkan oleh Putusan MK 135/2024. Tanpa revisi normatif, Komisi \nPemilihan Umum tidak memiliki payung hukum tertulis yang cukup untuk \nmenyusun dua jadwal tahapan yang terpisah, sehingga ketidakpast ian \nhukum atas pelaksanaan Pemilu 2029 menjadi nyata dan aktual.",
+      "start_line": 845,
+      "end_line": 854
+    },
+    {
+      "heading": "10. Bahwa dalam doktrin peradilan konstitusi komparatif, situasi di mana hak",
+      "slug": "10-bahwa-dalam-doktrin-peradilan-konstitusi-komparatif-situasi-di-mana-hak",
+      "text": "konstitusional warga negara bergantung pada norma yang berada dalam \nkondisi limbo, antara teks lama yang inkonstitusional dan pemaknaan \nbaru yang belum dinormakan, dikenal sebagai kondisi normative vacuum \nyang wajib diatasi oleh pengadilan konstitusi. Kondisi ini secara langsung \n\n24 \n \nmenjadi bagian dari persoalan yang dipermasalahkan dalam permohonan \na quo.",
+      "start_line": 856,
+      "end_line": 864
+    },
+    {
+      "heading": "11. Bahwa kelalaian DPR dan Pemerintah selaku pembentuk undang-undang",
+      "slug": "11-bahwa-kelalaian-dpr-dan-pemerintah-selaku-pembentuk-undang-undang",
+      "text": "dalam menindaklanjuti Putusan MK Nomor 135/PUU-XXII/2024 ke dalam \nrevisi normatif UU 7/2017 dan UU 8/2015 merupakan sumber mandiri dari \nkerugian konstitusional PEMOHON atas hak kepastian hukum yang a dil \nsebagaimana dijamin Pasal 28D ayat (1) UUD 1945. Kerugian dimak sud \nbukan hanya derivat dari ketidak konstitusional pasal-pasal yan g telah \ndiputus, melainkan timbul secara spesifik dari sikap diam pembe ntuk \nundang-undang yang membiarkan kondisi dualisme normatif tersebu t \nberlanjut melampaui satu tahun sejak putusan diucapkan.",
+      "start_line": 866,
+      "end_line": 873
+    },
+    {
+      "heading": "12. Bahwa preseden Mahkamah sendiri mengakui bahwa kelalaian",
+      "slug": "12-bahwa-preseden-mahkamah-sendiri-mengakui-bahwa-kelalaian",
+      "text": "pembentuk undang-undang merupakan dimensi konstitusional tersen diri \nyang dapat menjustifikasi pengajuan permohonan baru. Dalam Putu san \nMK Nomor 135/PUU-XXII/2024, Mahkamah secara eksplisit menyebut \nkelalaian pembentuk undang-undang yang tidak menindaklanjuti Putusan \nNomor 55/PUU-XVII/2019 selama lebih dari lima tahun sebagai salah satu \njustifikasi utama untuk mengabulkan permohonan. Dengan demikian , \nMahkamah sendiri telah mengakui bahwa kegagalan legislatif untu k \nmerespons putusan konstitusional yang telah berkekuatan hukum t etap \nmenciptakan persoalan konstitusional baru yang mandiri, dan itulah persis \ndimensi yang kini terulang dalam konteks permohonan a quo.",
+      "start_line": 875,
+      "end_line": 884
+    },
+    {
+      "heading": "13. Bahwa sifat putusan MK yang final and binding sebagaimana ditegaskan",
+      "slug": "13-bahwa-sifat-putusan-mk-yang-final-and-binding-sebagaimana-ditegaskan",
+      "text": "dalam Pasal 24C ayat (1) UUD 1945 dan diperkuat oleh Pasal 47 UU MK \nmengandung konsekuensi logis bahwa norma konstitusional baru ya ng \nlahir dari putusan tersebut harus dapat diimplementasikan secara efektif. \nSebagaimana ditegaskan oleh Sugianto, Arista, dan Amin (2026), \nefektivitas putusan MK sangat bergantung pada kepatuhan seluruh  \nlembaga negara terhadap putusannya, dan penguatan independensi \nserta kepatuhan tersebut merupakan kunci agar perlindungan hak \nkonstitusional warga negara dapat terwujud secara berkelanjutan. Ketika \npembentuk undang-undang mengabaikan kewajiban tersebut, maka \nterjadilah kekosongan perlindungan konstitusional yang secara l angsung \nmelanggar hak PEMOHON atas kepastian hukum yang adil. \n\n25",
+      "start_line": 886,
+      "end_line": 899
+    },
+    {
+      "heading": "14. Bahwa selain dimensi kepastian hukum, Pasal 28D ayat (1) UU D 1945",
+      "slug": "14-bahwa-selain-dimensi-kepastian-hukum-pasal-28d-ayat-1-uu-d-1945",
+      "text": "juga menjamin perlakuan yang sama di hadapan hukum. Dalam konte ks \npenyelenggaraan pemilu, jaminan perlakuan yang sama berarti bah wa \nseluruh penyelenggara pemilu di tingkat pusat maupun daerah, se luruh \npeserta pemilu, dan seluruh pem ilih di seluruh wilayah Indonesi a berhak \nmendapatkan kepastian norma yang seragam sebagai dasar \npelaksanaan hak-hak elektoral mereka.",
+      "start_line": 901,
+      "end_line": 906
+    },
+    {
+      "heading": "15. Bahwa dualisme normatif yang ada sekarang, di mana teks und ang-",
+      "slug": "15-bahwa-dualisme-normatif-yang-ada-sekarang-di-mana-teks-und-ang",
+      "text": "undang masih memuat norma \"serentak\" dengan makna lama sementara \ntafsir konstitusional Mahkamah mewajibkan model dua gelombang y ang \nterpisah, membuka potensi nyata perbedaan penerapan antara \npenyelenggara di tingkat pusat dan penyelenggara di tingkat dae rah. \nTidak menutup kemungkinan bahwa KPU Daerah, PPK, dan KPPS di \nberbagai wilayah masih merujuk pada teks asli undang-undang yan g \nbelum disesuaikan, sementara penyelenggara di tingkat pusat mer ujuk \npada tafsir konstitusional terbaru. Kondisi demikian secara inh eren \nmelanggar asas perlakuan yang sama di hadapan hukum sebagaimana  \ndijamin Pasal 28D ayat (1) UUD 1945.",
+      "start_line": 908,
+      "end_line": 917
+    },
+    {
+      "heading": "16. Bahwa selain itu, ketiadaan norma tertulis yang pasti juga berpotensi",
+      "slug": "16-bahwa-selain-itu-ketiadaan-norma-tertulis-yang-pasti-juga-berpotensi",
+      "text": "menciptakan equal playing field  yang tidak seimbang bagi para peserta \npemilu, di mana perbedaan penafsiran atas norma yang belum dire visi \ndapat menguntungkan atau merugikan pihak tertentu secara asimet ris, \nsebuah kondisi yang secara fundamental bertentangan dengan jami nan \nperlakuan yang sama di hadapan hukum.",
+      "start_line": 919,
+      "end_line": 923
+    },
+    {
+      "heading": "17. Bahwa berdasarkan seluruh uraian di atas, sepanjang Pasal 167 ayat (3)",
+      "slug": "17-bahwa-berdasarkan-seluruh-uraian-di-atas-sepanjang-pasal-167-ayat-3",
+      "text": "dan Pasal 347 ayat (1) UU 7/2017 serta Pasal 3 ayat (1) UU 8/20 15 \nbeserta seluruh pasal terkait lainnya dalam kedua undang-undang  \ntersebut belum disesuaikan secara sistematis dengan amar Putusa n MK \nNomor 135/PUU-XXII/2024, maka norma-norma tersebut dalam kondis i \nkeberlakuannya yang sekarang bertentangan dengan hak atas kepastian \nhukum yang adil dan perlakuan yang sama di hadapan hukum \nsebagaimana dijamin Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 925,
+      "end_line": 931
+    },
+    {
+      "heading": "18. Bahwa untuk memulihkan jaminan Pasal 28D ayat (1) UUD 1945 tersebut,",
+      "slug": "18-bahwa-untuk-memulihkan-jaminan-pasal-28d-ayat-1-uud-1945-tersebut",
+      "text": "Mahkamah perlu menyatakan bahwa kondisi dualisme normatif yang \n\n26 \n \ntimbul akibat tidak ditindaklanjutinya Putusan MK 135/2024 meru pakan \nbentuk inkonstitusionalitas tersendiri, dan memerintahkan pembe ntuk \nundang-undang untuk segera melakukan penyesuaian norma secara \nmenyeluruh sebelum tahapan Pemilu 2029 dimulai, dengan demikian  \nmemastikan bahwa hak konstitusional PEMOHON dan seluruh warga \nnegara atas kepastian hukum yang adil dapat terwujud secara nya ta, \nbukan sekadar normatif. \nD. Dampak Pasca Putusan MK 135/PUU-XXII/2024",
+      "start_line": 933,
+      "end_line": 944
+    },
+    {
+      "heading": "1. Bahwa perkembangan melalui Putusan Mahkamah Konstitusi Nomor",
+      "slug": "1-bahwa-perkembangan-melalui-putusan-mahkamah-konstitusi-nomor",
+      "text": "135/PUU-XXII/2024 yang diucapkan pada tanggal 26 Juni 2025 (Putusan MK \n135/2024). Putusan ini secara langsung menyangkut konstitusiona litas Pasal \n167 ayat (3) dan Pasal 347 ayat (1) UU 7/2017 serta Pasal 3 aya t (1) UU \n8/2015 yakni norma-norma yang sama dengan yang dimohonkan PEMOHON \ndalam perkara a quo;",
+      "start_line": 946,
+      "end_line": 950
+    },
+    {
+      "heading": "2. Bahwa dalam amar putusannya, Mahkamah menyatakan:",
+      "slug": "2-bahwa-dalam-amar-putusannya-mahkamah-menyatakan",
+      "text": "a. Pasal 167 ayat (3) UU 7/2017 bertentangan dengan UUD NRI 194 5 dan \ntidak mempunyai kekuatan hukum mengikat secara bersyarat \n(inkonstitusional bersyarat) sepanjang ke depan tidak dimaknai:  \n\"Pemungutan suara dilaksanakan secara serentak untuk memilih anggota \nDewan Perwakilan Rakyat, anggota Dewan Perwakilan Daerah, \nPresiden/Wakil Presiden, dan setelahnya dalam waktu paling sing kat 2 \n(dua) tahun atau paling lama 2 (dua) tahun 6 (enam) bulan sejak pelantikan \nanggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan \nDaerah atau sejak pelantikan Presiden/Wakil Presiden dilaksanak an \npemungutan suara secara serentak untuk memilih anggota Dewan \nPerwakilan Rakyat Daerah provinsi, anggota Dewan Perwakilan Rak yat \nDaerah kabupaten/kota, dan gubernur/wakil gubernur, bupati/wakil bupati, \ndan walikota/wakil walikota pada hari libur atau hari yang diliburkan secara \nnasional\"; \nb. Pasal 347 ayat (1) UU 7/2017 bertentangan dengan UUD NRI 194 5 dan \ntidak mempunyai kekuatan hukum mengikat secara bersyarat sepanj ang \nke depan tidak dimaknai dengan makna yang substansially sama, yait u \npemilu nasional terlebih dahulu, diikuti pemilu daerah dalam jangka waktu \n\n27 \n \npaling singkat 2 (dua) tahun atau paling lama 2 (dua) tahun 6 (enam) bulan \nsetelahnya; dan",
+      "start_line": 952,
+      "end_line": 974
+    },
+    {
+      "heading": "c. Pasal 3 ayat (1) UU 8/2015 bertentangan dengan UUD NRI 1945 dan tidak",
+      "slug": "c-pasal-3-ayat-1-uu-8-2015-bertentangan-dengan-uud-nri-1945-dan-tidak",
+      "text": "mempunyai kekuatan hukum mengikat secara bersyarat sepanjang ke  \ndepan tidak dimaknai: \"Pemilihan dilaksanakan secara serentak di seluruh \nwilayah Negara Kesatuan Republik Indonesia untuk memilih anggot a \nDewan Perwakilan Rakyat Daerah provinsi, anggota Dewan Perwakil an \nRakyat Daerah kabupaten/kota dan gubernur/wakil gubernur, bupati/wakil \nbupati, dan walikota/wakil walikota yang dilaksanakan dalam waktu paling \nsingkat 2 (dua) tahun atau paling lama 2 (dua) tahun 6 (enam) bulan sejak \npelantikan anggota Dewan Perwakilan Rakyat dan anggota Dewan \nPerwakilan Daerah atau sejak pelantikan Presiden/Wakil Presiden\".",
+      "start_line": 976,
+      "end_line": 984
+    },
+    {
+      "heading": "3. Bahwa ratio decidendi Putusan MK 135/2024 yang paling mendasar tertuang",
+      "slug": "3-bahwa-ratio-decidendi-putusan-mk-135-2024-yang-paling-mendasar-tertuang",
+      "text": "dalam Paragraf [3.17], di mana Mahkamah menegaskan bahwa keserentakan \npenyelenggaraan pemilihan umum yang konstitusional ke depan ada lah \ndengan memisahkan penyelenggaraan pemilu anggota DPR, DPD, dan \nPresiden/Wakil Presiden (Pemilu Nasional) dari penyelenggaraan pemilu \nanggota DPRD Provinsi, DPRD Kabupaten/Kota, dan kepala daerah ( Pemilu \nDaerah). Mahkamah sekaligus menegaskan bahwa penyelenggaraan \npemilihan umum berformat Pemilu Lima Kotak ditambah Pilkada dal am satu \ntahun yang sama telah terbukti menimbulkan impitan beban kerja \npenyelenggara, melemahkan kualitas kedaulatan rakyat, serta mel emahkan \npelembagaan partai politik;",
+      "start_line": 986,
+      "end_line": 995
+    },
+    {
+      "heading": "4. Bahwa dalam pertimbangan Paragraf [3.16.1] sampai dengan [3. 16.5],",
+      "slug": "4-bahwa-dalam-pertimbangan-paragraf-3-16-1-sampai-dengan-3-16-5",
+      "text": "Mahkamah secara empiris mengidentifikasi lima masalah konstitus ional dari \nformat Pemilu Lima Kotak, yaitu: (1) tumpukan beban kerja penye lenggara \nyang membahayakan keselamatan jiwa; (2) kekosongan tugas inti \npenyelenggara pemilu yang bersifat tetap selama hampir 3 (tiga)  tahun tidak \nefisien dan tidak efektif; (3) pelemahan pelembagaan dan kaderi sasi partai \npolitik; (4) minimnya waktu bagi rakyat untuk menilai kinerja p emerintahan \nhasil pemilu; dan (5) tingginya persentase suara tidak sah yang secara faktual \nmelemahkan kualitas kedaulatan rakyat;",
+      "start_line": 997,
+      "end_line": 1004
+    },
+    {
+      "heading": "5. Bahwa melalui Putusan MK 135/2024, Mahkamah juga memerintahk an agar",
+      "slug": "5-bahwa-melalui-putusan-mk-135-2024-mahkamah-juga-memerintahk-an-agar",
+      "text": "penyelenggaraan Pemilu 2029 menggunakan model Pemilu Nasional y ang \n\n28 \n \nterpisah dari Pemilu Daerah, dengan jangka waktu paling singkat  2  ( d u a )  \ntahun atau paling lama 2 (dua) tahun 6 (enam) bulan setelah pel antikan hasil \nPemilu Nasional. Mahkamah sekaligus menyerahkan pengaturan masa  \ntransisi jabatan kepada pembentuk undang-undang melalui mekanis me \nrekayasa konstitusional (constitutional engineering).",
+      "start_line": 1006,
+      "end_line": 1014
+    },
+    {
+      "heading": "6. Bahwa kendati Putusan MK 135/2024 telah memberikan pemaknaan",
+      "slug": "6-bahwa-kendati-putusan-mk-135-2024-telah-memberikan-pemaknaan",
+      "text": "bersyarat atas Pasal 167 ayat (3), Pasal 347 ayat (1) UU 7/2017, dan Pasal 3 \nayat (1) UU 8/2015, masih terdapat sejumlah pasal lain dalam kedua undang-\nundang tersebut yang memuat frasa \"serentak\" dengan makna yang belum \ndisesuaikan dengan tafsir konstitusional Mahkamah serta mekanis me dan \ntahapan dari pengimplementasian pemilu yang belum disesuaikan d engan \ntafsir konstitusional Mahkamah. Kondisi ini menimbulkan ketidak pastian \nhukum yang bertentangan dengan Pasal 28D ayat (1) UUD NRI 1945, karena \nterdapat disharmoni antara norma-norma yang masih berlaku dengan putusan \nMahkamah yang telah memperoleh kekuatan hukum tetap;",
+      "start_line": 1016,
+      "end_line": 1024
+    },
+    {
+      "heading": "7. Bahwa pasal-pasal dalam UU 7/2017 dan UU 8/2015 yang memerlukan revisi",
+      "slug": "7-bahwa-pasal-pasal-dalam-uu-7-2017-dan-uu-8-2015-yang-memerlukan-revisi",
+      "text": "pemaknaan ulang secara sistematis antara lain meliputi, sebagai berikut:  \nTabel 2. Pasal dalam UU 7/2017 dan UU 8/2015 yang harus direvisi Pasca Putusan \nMK 135/2024 \nNO PASAL UU 7/2017 \n& UU 8/2015",
+      "start_line": 1026,
+      "end_line": 1030
+    },
+    {
+      "heading": "PASCA PUTUSAN MK",
+      "slug": "pasca-putusan-mk",
+      "text": "135/2024 \n1 Pasal 1 ayat (1) \nUU 7/2017 \n\"...untuk memilih \nanggota DPR, anggota \nDPD, Presiden dan \nWakil Presiden, dan \nuntuk memilih anggota \nDPRD, yang \ndilaksanakan secara \nlangsung...\" \nDefinisi Pemilu dalam Pasal \n1ayat (1) tidak membedakan \nantara 'Pemilu Nasional' dan \n'Pemilu Daerah'. Pasca MK \n135/2024, pemilu harus \ndibagi dua rezim yang \nterpisah waktu. Tanpa \nperubahan definisi ini, \nseluruh UU 7/2017 tidak \npunya basis konseptual \nuntuk model dua-tahap \n2 Pasal 167 ayat (3) \nUU 7/2017 [TELAH",
+      "start_line": 1035,
+      "end_line": 1058
+    },
+    {
+      "heading": "INKONSTITUSION",
+      "slug": "inkonstitusion",
+      "text": "AL BERSYARAT] \n\"Pemungutan suara \ndilaksanakan secara \nserentak pada hari libur \natau hari yang \ndiliburkan secara \nnasional.\" \nSesuai amar MK 135/2024 \npemilu harus dimaknai \nmengandung dua gelombang \nyaitu Pemilu Nasional (DPR, \nDPD, dan Presiden/Wapres) \nserentak, dan Pemilu Daerah \n(DPRD dan Kepala Daerah ) \n\n29 \n \nserentak namun dipisahkan \nwaktunya 2-2,5 tahun. \n3 Pasal 167 ayat (4) \nUU 7/2017 \n\"Tahapan \nPenyelenggaraan \nP e m i l u  m e l i p u t i :  . . .  ( f )  \npencalonan Presiden \ndan Wakil Presiden \nserta anggota DPR, \nDPD, DPRD provinsi, \ndan DPRD \nkabupaten/kota...\" \nTahapan pencalonan yang \nmencakup semua jenis \nsekaligus harus dipisah \nmenjadi dua siklus tahapan \nyang berbeda yaitu siklus \nP e m i l u  N a s i o n a l  d a n  s i k l u s  \nPemilu Daerah. \n4 Pasal 167 ayat (6) \nUU 7/2017 \n\"Tahapan \nPenyelenggaraan \nPemilu dimulai paling \nlambat 20 (dua puluh) \nbulan sebelum hari \npemungutan suara.\" \nKetentuan ini berlaku \nseragam untuk semua jenis \npemilu. Pasca MK 135, \nPemilu Nasional dan Pemilu \nDaerah masing-masing \nbutuh siklus 20 bulan \npersiapan yang terpisah. \nTanpa revisi, KPU tidak \npunya payung hukum untuk \nmembuat dua jadwal \npersiapan terpisah \n5 Pasal 267 ayat (2) \nUU 7/2017 \n\"Kampanye Pemilu \ndilaksanakan secara \nserentak antara \nKampanye Pemilu \nPresiden dan Wakil \nPresiden dengan \nKampanye Pemilu \nanggota DPR, DPD, \ndan DPRD.\" \nPasca MK 135 yaitu \nkampanye Pemilu Nasional \n(Presiden, DPR, dan DPD) \ndan kampanye DPRD dan \nKepala Daerah harus dipisah \ndan disesuaikan kembali. \n6 Pasal 341 ayat (1) \nUU 7/2017 \nPerlengkapan \npemungutan suara \nmeliputi: surat suara \nDPR, DPD, \nPresiden/Wapres, \nDPRD Provinsi, DPRD \nKab/Kota (5 jenis \nsekaligus di satu TPS) \nPasca MK 135, Pemilu \nNasional hanya butuh 3 jenis \nsurat suara (DPR, DPD, \nPresiden/Wapres). Pemilu \nDaerah hanya butuh 3 jenis \n(DPRD Prov, DPRD \nKab/Kota, Kepala Daerah). \n7 Pasal 344 ayat (2) \nUU 7/2017 \n\"Jumlah surat suara \nyang dicetak sama \ndengan jumlah Pemilih \ntetap ditambah 2% dari \njumlah Pemilih tetap...\" \n(untuk 5 jenis surat \nsuara) \nDengan model dua-tahap, \nspesifikasi pengadaan surat \nsuara harus diubah yaitu  \nmasing-masing Pemilu \nNasional dan Pemilu Daerah \npunya ketentuan percetakan \ndan cadangan sendiri. \n\n30 \n \n8 Pasal 347 ayat (1) \nUU 7/2017 [TELAH",
+      "start_line": 1061,
+      "end_line": 1171
+    },
+    {
+      "heading": "INKONSTITUSION",
+      "slug": "inkonstitusion",
+      "text": "AL BERSYARAT] \n\"Pemungutan suara \nPemilu \ndiselenggarakan \nsecara serentak.\" \nSesuai amar MK 135/2024 \nfrasa 'serentak' tidak lagi \nbermakna semua jenis \npemilu dalam satu hari. \nHarus dimaknai dua \ngelombang serentak yang \nterpisah. UU harus \nmerumuskan ulang dengan \njelas definisi dua gelombang \nini agar ada kepastian hukum \nbagi penyelenggara dan \npemilih. \n9 Pasal 398-406 UU \n7/2017 \n(Rekapitulasi \nSuara) \nKetentuan rekapitulasi \nberlaku untuk semua 5 \njenis pemilu secara \nbersamaan, berjenjang",
+      "start_line": 1174,
+      "end_line": 1198
+    },
+    {
+      "heading": "d a r i T P S k e m u d i a n k e",
+      "slug": "d-a-r-i-t-p-s-k-e-m-u-d-i-a-n-k-e",
+      "text": "PPK kemudian KPU \nKab/Kota kemudian \nProv, dan akhirnya ke \nPusat \nPasca MK 135, terdapat dua \nsiklus rekapitulasi berbeda \nyang masing-masing untuk \nPemilu Nasional dan Pemilu \nDaerah. Seluruh ketentuan \nrekapitulasi dan sertifikasi \nhasil harus dibuat terpisah \nper siklus. \n10 Pasal 3 ayat (1) \nUU 8/2015 [TELAH",
+      "start_line": 1200,
+      "end_line": 1213
+    },
+    {
+      "heading": "INKONSTITUSION",
+      "slug": "inkonstitusion",
+      "text": "AL BERSYARAT] \n\"Pemilihan \ndilaksanakan setiap 5 \n(lima) tahun sekali \nsecara serentak di \nseluruh wilayah \nNegara Kesatuan \nRepublik Indonesia.\" \nPilkada (Pemilu Daerah) \ntidak lagi serentak dengan \nPemilu Nasional yaitu \nberjarak 2-2,5 tahun. UU \nPilkada harus direvisi untuk \nmencerminkan posisi Pemilu \nDaerah sebagai siklus \nterpisah yang mengikuti \nPemilu Nasional. \n11 Pasal 5 UU 8/2015 \n(Tahapan Pilkada)\n\"Pemilihan \ndiselenggarakan \nmelalui 2 (dua) \ntahapan yaitu tahapan \npersiapan dan tahapan \npenyelenggaraan.\" \nPerlu ada ketentuan yang \nmengaitkan jadwal tahapan \nPilkada/Pemilu Daerah \ndengan jadwal pelantikan \nhasil Pemilu Nasional. Pasal \n5 harus direvisi agar siklus \npersiapan Pemilu Daerah \ndimulai sejak waktu yang \nterukur dari pelantikan \nPresiden/DPR/DPD \nAdapun perbedaan tahapan dan mekanisme Pasca Putusan MK 135/202 4 dapat \ndilihat sebagai berikut:  \nTabel 1. Perbandingan Model Pemilu dan Pilkada Serentak dan Tidak Serentak",
+      "start_line": 1216,
+      "end_line": 1253
+    },
+    {
+      "heading": "NDING",
+      "slug": "nding",
+      "text": "AN",
+      "start_line": 1257,
+      "end_line": 1257
+    },
+    {
+      "heading": "SERENTAK",
+      "slug": "serentak",
+      "text": "(UU 32/2004)",
+      "start_line": 1261,
+      "end_line": 1261
+    },
+    {
+      "heading": "TERPISAH",
+      "slug": "terpisah",
+      "text": "(UU 10/2008",
+      "start_line": 1264,
+      "end_line": 1264
+    },
+    {
+      "heading": "SERENTAK",
+      "slug": "serentak",
+      "text": "(UU 1/2015, \nUU 8/2015",
+      "start_line": 1267,
+      "end_line": 1268
+    },
+    {
+      "heading": "PEMILU",
+      "slug": "pemilu",
+      "text": "SERENTAK 5 \nKOTAK (UU \n7/2017)",
+      "start_line": 1270,
+      "end_line": 1272
+    },
+    {
+      "heading": "PUTUSAN MK",
+      "slug": "putusan-mk",
+      "text": "135/2024 \n\n31 \n \n& UU \n42/2008) \ndan UU \n10/2016) \nDasar \nHukum \nUU 32/2004 \ntentang \nPemerintahan \nDaerah \nUU 10/2008 \n(Pileg) dan UU \n42/2008 \n(Pilpres) \nUU 1/2015,  \nUU 8/2015, \ndan  UU \n10/2016 \ntentang \nPilkada \nUU 7/2017 \ntentang \nPemilihan \nUmum yang \nmengintegrasik\nan Pileg,  \nPilpres, dan \nDPRD \n-            \nJenis \nPemilu \nyang \nDiatur \nPilkada \nGubernur, \nBupati, \nWalikota \n(terpisah dari \nPileg & Pilpres) \nPileg (DPR, \nDPD, DPRD) \nterpisah dari \nPilpres \nPilkada \nserentak \nnasional yaitu \nGubernur, \nBupati, \nWalikota \nserentak se-\nNKRI \nPileg DPR, \nDPD, DPRD \nProv, DPRD \nKab/Kota, dan \nPilpres dalam 1 \nhari (Lima \nKotak)",
+      "start_line": 1276,
+      "end_line": 1337
+    },
+    {
+      "heading": "PEMILU",
+      "slug": "pemilu",
+      "text": "NASIONAL: \nyaitu DPR, \nDPD, \nPresiden/Wapr\nes (serentak).",
+      "start_line": 1339,
+      "end_line": 1343
+    },
+    {
+      "heading": "PEMILU",
+      "slug": "pemilu",
+      "text": "DAERAH yaitu: \nDPRD, Kepala \nDaerah \n(serentak, tapi",
+      "start_line": 1345,
+      "end_line": 1348
+    },
+    {
+      "heading": "TERPISAH",
+      "slug": "terpisah",
+      "text": "dari Pemilu \nNasional) \nWaktu \nPenyel\nenggar\naan \nMengikuti masa \nberakhir \njabatan \nmasing-masing \ndaerah \n(berbeda-beda \ntiap daerah) \nPileg \ndilaksanakan \nApril \nsedangkan \nPilpres \ndilaksanakan \nJuli (jeda ±3 \nbulan dalam \ntahun yang \nsama) \nSerentak 1 \nhari di \nseluruh NKRI \nper 5 tahun \n1 hari yang \nsama dengan 5 \njenis surat suara \nsekaligus \nPemilu \nNasional \ndilaksanakan \n2029 dan jeda \n2  t a h u n  -  2  \ntahun 6 bulan \ndengan Pemilu \nDaerah (Pasal \n167 ayat (3) \ntafsir MK \n135/2024) \nDasar \nPasal \nKesere\nntakan \nTidak ada pasal \nserentak (Pasal \n56 hanya \nmengatur \nmekanisme \npemilihan \nlangsung) \nDalam Pasal 3 \nayat (5) UU \n42/2008 \nmenyatakan \nPilpres \ndilaksanakan",
+      "start_line": 1350,
+      "end_line": 1408
+    },
+    {
+      "heading": "SETELAH",
+      "slug": "setelah",
+      "text": "Pileg (terpisah)\nPasal 3 ayat \n(1) UU \n8/2015 \npemilihan \ndilaksanakan \nserentak di \nseluruh \nwilayah NKRI\nPasal 167(3) \ndan  Pasal \n347(1) UU \n7/2017 yang \nberisikan \npemungutan \nsuara serentak. \nPasal 267 ayat \n(2) menyatakan \nkampanye \nserentak antara \nPilpres dan \nPileg \nharus dimaknai \nulang \n\n32 \n \nJumlah \nSurat \nSuara",
+      "start_line": 1410,
+      "end_line": 1439
+    },
+    {
+      "heading": "di TPS",
+      "slug": "di-tps",
+      "text": "1 surat suara \n(hanya Pilkada \nsetempat) \nPileg terdapat \n3 surat suara \n(DPR, DPD, \nDPRD). \nPilpres \n(terpisah) \nterdapat 1 \nsurat suara \n1 surat suara \n(hanya \npasangan \ncalon kepala \ndaerah) \n5 surat suara \nsekaligus: DPR, \nDPD, \nPresiden/Wapre\ns, DPRD Prov, \nDPRD Kab/Kota \n( P a s a l  3 4 1  U U  \n7/2017) \nPemilu \nNasional \nterdapat 3 \nsurat suara \n(DPR, DPD, \nPresiden/Wapr\nes) dan Pemilu \nDaerah \n(terpisah \nterdapat 3 \nsurat suara \n(DPRD Prov, \nDPRD \nKab/Kota, \nKepala \nDaerah) \nDurasi \nKampa\nnye \nDiatur KPUD, \ntidak serentak \nKampanye \nPileg dan \nPilpres \nterpisah \nKampanye \nkepala \ndaerah saja \nKampanye \nPasal 267(2) \nUU 7/2017 \ndilaksanakan",
+      "start_line": 1441,
+      "end_line": 1496
+    },
+    {
+      "heading": "SERENTAK",
+      "slug": "serentak",
+      "text": "antara \nkampanye \nPilpres dan \nPileg \nDPR/DPD/DPR\nD \nKampanye \nPemilu \nNasional dan \nDaerah \nterpisah. \nPenyel\nenggar\na \n(KPUD/\nKPPS) \nKPUD \nbertanggung \njawab ke DPRD \n(Pasal 57 ayat \n(1) UU \n32/2004) \nKPU pusat \nmandiri  \nmenjadikan \nbeban terbagi \nantara pileg \ndan pilpres \nKPU mandiri \nmenjadikan \nbeban kerja \npilkada saja \nKPPS \nmengelola 5 \njenis surat \nsuara, 5 formulir \nberita acara, 5 \nsertifikat \npenghitungan \ndalam 1 hari \n( P a s a l  3 9 8  U U  \n7/2017) \nKPPS Pemilu \nNasional \nmengelola 3 \njenis surat \nsuara & KPPS \nPemilu Daerah \nmengelola 3 \njenis surat \nsuara \nMasa \nJabata\nn \nPenyel\nenggar\na vs \nTugas \nInti \nTugas tersebar \nsepanjang \nperiode \nAda 2 \ngelombang \ntugas besar \ndalam satu \nsiklus \nSatu \ngelombang \nbesar tapi \nhanya \nPilkada \nMasa jabatan \nKPU/Bawaslu 5 \ntahun (Pasal \n22E(5) UUD \n1945), tapi \ntugas inti hanya \n±2 tahun dari 5 \ntahun \nTerdapat jeda",
+      "start_line": 1498,
+      "end_line": 1578
+    },
+    {
+      "heading": "8. Bahwa ketidakharmonisan sistematis di berbagai pasal UU 7/20 17 dan UU",
+      "slug": "8-bahwa-ketidakharmonisan-sistematis-di-berbagai-pasal-uu-7-20-17-dan-uu",
+      "text": "8/2015 dengan pemaknaan bersyarat yang telah ditetapkan Mahkama h \ndalam Putusan MK 135/2024 menunjukkan bahwa persoalan \n\n33 \n \nkonstitusionalitas yang dihadapi bukan sekadar persoalan tekstu al pada \npasal-pasal yang telah dimohonkan pengujian dalam perkara sebel umnya, \nmelainkan merupakan persoalan sistemik yang memerlukan pembenaa han \nmenyeluruh melalui proses legislasi;",
+      "start_line": 1580,
+      "end_line": 1588
+    },
+    {
+      "heading": "9. Bahwa kekosongan hukum operasional tersebut, apabila dibiark an hingga",
+      "slug": "9-bahwa-kekosongan-hukum-operasional-tersebut-apabila-dibiark-an-hingga",
+      "text": "mendekati tahapan Pemilu 2029, berpotensi mengakibatkan putusan  \nMahkamah Konstitusi sendiri tidak dapat dilaksanakan secara efektif, sebuah \nkonsekuensi yang nyata-nyata bertentangan dengan kedudukan putusan MK \nyang final dan mengikat sebagaimana dijamin Pasal 24C ayat (1) UUD NRI \n1945.",
+      "start_line": 1590,
+      "end_line": 1594
+    },
+    {
+      "heading": "10. Bahwa tanpa perevisian secara sistematis atas seluruh keten tuan yang",
+      "slug": "10-bahwa-tanpa-perevisian-secara-sistematis-atas-seluruh-keten-tuan-yang",
+      "text": "maka norma-norma tersebut akan terus bertentangan dengan tafsir  \nkonstitusional yang telah ditetapkan Mahkamah, yang pada akhirn ya \nmerugikan hak konstitusional PEMOHON dan seluruh warga negara a tas \nkepastian hukum yang adil.",
+      "start_line": 1596,
+      "end_line": 1599
+    },
+    {
+      "heading": "11. Bahwa PEMOHON memohon agar Mahkamah memerintahkan pembentuk",
+      "slug": "11-bahwa-pemohon-memohon-agar-mahkamah-memerintahkan-pembentuk",
+      "text": "undang-undang menyelesaikan revisi UU Pemilu dan UU Pilkada pal ing \nlambat dalam jangka waktu tertentu dan sebelum tahapan Pemilu 2 029 \ndimulai, dengan pertimbangan sebagai berikut: a. Bahwa Pasal 16 7 ayat (6) \nUU 7/2017 mensyaratkan tahapan pemilu dimulai paling lambat 20 (dua \npuluh) bulan sebelum hari pemungutan suara. Apabila revisi undang-undang \nbaru dilakukan mendekati atau bahkan setelah tahapan dimulai, m aka \npenyelenggara pemilu akan bekerja tanpa kepastian hukum yang me madai; \nb. Bahwa pengalaman pembentukan UU Cipta Kerja yang dinyatakan cacat \nformil dalam Putusan MK Nomor 91/PUU-XVIII/2020 telah membuktik an \nbahwa proses legislasi yang dikerjakan dalam tekanan waktu cend erung \nmengabaikan partisipasi masyarakat yang bermakna ( meaningful \nparticipation), yaitu hak masyarakat untuk didengar, dipertimbangkan, dan \ndiberi penjelasan atas pendapatnya. Pemberian batas waktu yang tegas dan \ncukup oleh Mahkamah akan mencegah pembentuk undang-undang \nmengulangi kesalahan serupa dalam merevisi UU Pemilu dan UU Pilkada; c. \nBahwa perubahan model dari pemilu lima kotak menjadi dua gelomb ang \nterpisah merupakan perubahan struktural yang memerlukan sosiali sasi \nmemadai kepada penyelenggara di daerah, partai politik, dan pem ilih, \n\n34 \n \nsebagaimana menjadi salah satu pertimbangan Mahkamah dalam Putu san \n135/2024 mengenai tingginya suara tidak sah akibat kompleksitas  p e m i l u  \nlima kotak; d. Bahwa Mahkamah dalam Putusan 135/2024 telah meng kritik \nkelalaian pembentuk undang-undang yang membiarkan Putusan 55/20 19 \ntidak ditindaklanjuti selama lebih dari lima tahun. Tanpa adanya batas waktu \nyang tegas dan terukur dalam putusan a quo, terdapat risiko nya ta kelalaian \nyang sama akan berulang menjelang Pemilu 2029.",
+      "start_line": 1601,
+      "end_line": 1628
+    },
+    {
+      "heading": "12. Bahwa berdasarkan seluruh uraian di atas, terdapat pertentangan yang jelas",
+      "slug": "12-bahwa-berdasarkan-seluruh-uraian-di-atas-terdapat-pertentangan-yang-jelas",
+      "text": "antara fakta hukum kelalaian pembentuk undang-undang menindakla njuti \nPutusan MK Nomor 135/PUU-XXII/2024 dengan prinsip kepastian huk um \nyang adil (Pasal 28D ayat (1)), prinsip pemilu yang jujur dan a dil (Pasal 22E \nayat (1)), serta hak atas pemilihan kepala daerah secara demokr atis (Pasal \n18 ayat (4)) sebagaimana dijamin UUD NRI 1945. Oleh karena itu,  sudah \nsepatutnya Mahkamah Konstitusi menyatakan kelalaian tersebut se bagai \nbentuk inkonstitusionalitas tersendiri dan memerintahkan pemben tuk \nundang-undang untuk segera melakukan penyesuaian norma sebelum \ntahapan Pemilu 2029 dimulai. \nE. Konsekuensi jika UU Pemilu dan UU Pilkada tidak segera direv isi dalam \njangka waktu sesuai dengan Petitum dalam permohonan a quo.",
+      "start_line": 1630,
+      "end_line": 1640
+    },
+    {
+      "heading": "1. Bahwa pembentuk undang-undang dalam hal ini kembali lalai da n tidak",
+      "slug": "1-bahwa-pembentuk-undang-undang-dalam-hal-ini-kembali-lalai-da-n-tidak",
+      "text": "menindaklanjuti, maka dalam hal ini PARA PEMOHON memberikan ops i \ninterpretasi konstitusional mengenai dampak atau konsekuensi hu kum \napabila undang-undang yang dinyatakan inkonstitusional bersyara t tidak \nditindaklanjuti dalam tenggat waktu pelaksanaannya. \na. Undang-Undang tersebut “mati” secara mutlak dan tidak lagi m empunyai \nkekuatan hukum mengikat. Dalam beberapa preseden, apabila tengg at \nwaktu yang diberikan Mahkamah terlampaui tanpa adanya revisi, m aka \nsifat \"bersyarat\" dari inkonstitusionalitas tersebut gugur, seh ingga demi \nhukum norma a quo menjadi inkonstitusional secara permanen dan tidak \nmemiliki daya laku lagi. Akibatnya, terkait substansi tersebut sepenuhnya \nhanya mengacu pada Putusan Mahkamah Konstitusi, tidak lagi pada  \nsubstansi Undang-Undang karena sudah dimatikan; \nb. Berlakunya kembali undang-undang atau norma yang lama. Opsi ini kerap \ndigunakan Mahkamah dalam rangka mencegah kekosongan hukum \n\n35 \n \n(normative vacuum ), di mana pemadaman suatu norma baru yang \ndinyatakan inkonstitusional akan menghidupkan kembali ( revival) norma \nlama yang pernah berlaku sebelum undang-undang tersebut diubah,  \nnamun norma lama tersebut berlaku secara mutatis mutandis dengan \nPutusan Mahkamah Konstitusi terkait, agar norma lama tersebut t idak \nbertentangan dengan konstitusi;",
+      "start_line": 1642,
+      "end_line": 1664
+    },
+    {
+      "heading": "c. Norma dilaksanakan sepenuhnya berdasarkan pemaknaan dan peri ntah",
+      "slug": "c-norma-dilaksanakan-sepenuhnya-berdasarkan-pemaknaan-dan-peri-ntah",
+      "text": "yang termaktub dalam pertimbangan hukum Putusan Mahkamah \nKonstitusi. Artinya, meskipun norma dalam undang-undang tidak d iubah \nsecara formal oleh DPR dan Pemerintah, penyelenggara pemilu waj ib \nmenerapkan secara langsung desain yang diputus oleh Mahkamah dalam \nputusannya.",
+      "start_line": 1666,
+      "end_line": 1670
+    },
+    {
+      "heading": "2. Bahwa khusus dalam konteks hukum kepemiluan ( electoral law ) untuk",
+      "slug": "2-bahwa-khusus-dalam-konteks-hukum-kepemiluan-electoral-law-untuk",
+      "text": "Pemilu dan Pilkada Serentak tahun 2029 mendatang, konsekuensi h ukum \ndari kelalaian pembentuk undang-undang tidak boleh dibiarkan menciptakan \nkebuntuan hukum ( deadlock) yang dapat menggagalkan agenda \nketatanegaraan nasional. Apabila dalam jangka waktu 1 (satu) ta hun \npembentuk undang-undang tidak kunjung merampungkan revisi UU Pe milu \ndan UU Pilkada, maka konsekuensi logis demi kepastian hukum yan g adil \ndan keberlangsungan demokrasi adalah mengembalikan pengaturan t eknis \noperasionalnya secara atribusi kepada Komisi Pemilihan Umum (KPU) untuk \ndiatur lebih lanjut melalui Peraturan KPU (PKPU), dengan wajib berpedoman \nsepenuhnya pada imbangan desain gelombang Pemilu Nasional dan Pemilu \nDaerah yang telah ditetapkan Mahkamah dalam Putusan Nomor 135/P UU-\nXXII/2024;",
+      "start_line": 1672,
+      "end_line": 1683
+    },
+    {
+      "heading": "3. Bahwa berdasarkan prinsip independensi kekuasaan kehakiman d an sifat",
+      "slug": "3-bahwa-berdasarkan-prinsip-independensi-kekuasaan-kehakiman-d-an-sifat",
+      "text": "putusan MK yang final and binding , PARA PEMOHON secara sadar tidak \nmemintakan atau mendikte bentuk konsekuensi kaku tersebut di da lam \nPetitum. PARA PEMOHON menyerahkan sepenuhnya orkestrasi hukum dan \nconstitutional engineering  ini kepada kebijaksanaan konstitusional Majelis \nHakim Mahkamah Konstitusi. Mahkamah-lah yang memiliki otoritas penuh \nuntuk menentukan dan memformulasikan konsekuensi hukum tersebut  d i  \ndalam Pertimbangan Hukum Putusan a quo; \n\n36",
+      "start_line": 1685,
+      "end_line": 1694
+    },
+    {
+      "heading": "4. Bahwa terhadap bentuk konsekuensi hanya ditentukan dalam per timbangan",
+      "slug": "4-bahwa-terhadap-bentuk-konsekuensi-hanya-ditentukan-dalam-per-timbangan",
+      "text": "dan bukan amar putusan, Mahkamah juga sudah pernah melakukannya  \nseperti dalam putusan 168/PUU-XXI/2023, dimana Mahkamah \nmemerintahkan dibentuk Undang-Undang baru untuk mengeluarkan kl uster \nketenagakerjaan dari Undang-Undang Cipta Kerja. Pada putusan it u, \nMahkamah dalam pertimbangan maupun amar tidak menyebutkan \nkonsekuensi jika tidak dilaksanakan. Barulah pada pertimbangan dalam \nputusan 167/PUU-XXIV/2026, Mahkamah menyebutkan konsekuensinya.  \nNamun di sisi lain, ada juga putusan yang mana Mahkamah menyebu tkan \nsecara tegas konsekuensi jika tidak dilaksanakan, seperti putus an 91/PUU-\nXVIII/2020. Oleh karena itu, sebagaimana sudah disebutkan di at as, PARA \nPEMOHON mengembalikan sepenuhnya terkait konsekuensi ini kepada  \nMahkamah;",
+      "start_line": 1696,
+      "end_line": 1707
+    },
+    {
+      "heading": "5. Bahwa, langkah ini penting agar Mahkamah dapat memberikan pa nduan",
+      "slug": "5-bahwa-langkah-ini-penting-agar-mahkamah-dapat-memberikan-pa-nduan",
+      "text": "yang tegas bagi penyelenggara pemilu (KPU, Bawaslu, DKPP) dalam  \nmenyusun tahapan Pemilu 2029. Dengan diserahkannya perumusan \nkonsekuensi ini ke dalam pertimbangan hukum Mahkamah, maka apab ila \npembentuk undang-undang membiarkan batas waktu revisi terlampaui, KPU \nmemiliki landasan hukum yang kokoh dan tidak ragu untuk langsun g \nmengeksekusi tahapan pemilu dua gelombang (Pemilu Nasional dan Pemilu \nDaerah) demi tegaknya jaminan kepastian hukum yang adil bagi se luruh \nrakyat Indonesia sebagaimana diamanatkan Pasal 28D ayat (1) UUD  NRI \n1945.  \nIV. PETITUM \nBahwa dari seluruh dalil-dalil yang diuraikan diatas dan bukti-bukti terlampir, \ndengan ini PARA PEMOHON mohon kepada Yang Mulia Majelis Hakim \nMahkamah Konstitusi untuk kiranya memberikan putusan sebagai berikut:",
+      "start_line": 1709,
+      "end_line": 1721
+    },
+    {
+      "heading": "1. Menerima dan mengabulkan permohonan PARA PEMOHON untuk",
+      "slug": "1-menerima-dan-mengabulkan-permohonan-para-pemohon-untuk",
+      "text": "seluruhnya;",
+      "start_line": 1723,
+      "end_line": 1723
+    },
+    {
+      "heading": "2. Menyatakan Pasal 167 ayat (3) dan 347 ayat (l) Undang-Undang Republik",
+      "slug": "2-menyatakan-pasal-167-ayat-3-dan-347-ayat-l-undang-undang-republik",
+      "text": "Indonesia Nomor 7 Tahun 2017 Tentang Pemilihan Umum (Lembaran \nNegara Republik Indonesia Tahun 2017 Nomor 182, Tambahan \nLembaran Negara Republik Indonesia Nomor 6109) Dan Pasal 3 ayat (1) \nUndang-Undang Nomor 8 Tahun 2015 Tentang Perubahan Atas Undang-\n\n37 \n \nUndang Nomor 1 Tahun 2015 Tentang Penetapan Peraturan Pemerintah \nPengganti Undang-Undang Nomor 1 Tahun 2014 Tentang Pemilihan \nGubernur, Bupati, dan Walikota Menjadi Undang-Undang (Lembaran \nNegara Republik Indonesia Tahun 2015 Nomor 57, Tambahan Lembar \nNegara Nomor 5678)  sebagaimana telah dimaknai dalam Putusan \nMahkamah Konstitusi Nomor 135/PUU-XXII/2024 bertentangan dengan  \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan tidak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang ti dak \ndimaknai “dilakukan revisi dalam waktu paling lama 1 (satu) tah un sejak \nputusan a quo  diucapkan dengan berpedoman pada putusan-putusan \nMahkamah Konstitusi”;  \nATAU  \nMenyatakan Undang Undang Republik Indonesia Nomor 7 Tahun 2017 \nTentang Pemilihan Umum (Lembaran Negara Republik Indonesia Tahu n \n2017 Nomor 182, Tambahan Lembaran Negara Republik Indonesia \nNomor 6109) Dan Undang-Undang Nomor 8 Tahun 2015 Tentang \nPerubahan Atas Undang-Undang Nomor 1 Tahun 2015 Tentang \nPenetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 \nTahun 2014 Tentang Pemilihan Gubernur, Bupati, dan Walikota Men jadi \nUndang-Undang (Lembaran Negara Republik Indonesia Tahun 2015 \nNomor 57, Tambahan Lembar Negara Nomor 5678) sebagaimana telah \ndimaknai dalam Putusan Mahkamah Konstitusi Nomor 135/PUU-\nXXII/2024 bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengika t \nsecara bersyarat sepanjang tidak dimaknai “dilakukan revisi dalam waktu \npaling lama 1 (satu) tahun sejak putusan a quo  diucapkan dengan \nberpedoman pada putusan-putusan Mahkamah Konstitusi”;  \nATAU \nMenyatakan Undang Undang Republik Indonesia Nomor 7 Tahun 2017 \nTentang Pemilihan Umum (Lembaran Negara Republik Indonesia Tahu n \n2017 Nomor 182, Tambahan Lembaran Negara Republik Indonesia \nNomor 6109) Dan Undang-Undang Nomor 8 Tahun 2015 Tentang \nPerubahan Atas Undang-Undang Nomor 1 Tahun 2015 Tentang \nPenetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 \n\n38 \n \nTahun 2014 Tentang Pemilihan Gubernur, Bupati, dan Walikota Men jadi \nUndang-Undang (Lembaran Negara Republik Indonesia Tahun 2015 \nNomor 57, Tambahan Lembar Negara Nomor 5678) sebagaimana telah \ndimaknai dalam Putusan Mahkamah Konstitusi Nomor 135/PUU-\nXXII/2024 bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengika t \nsecara bersyarat sepanjang tidak dimaknai “dilakukan revisi dalam waktu \npaling lama 20 (dua puluh) bulan sebelum dilaksanakannya Pemilu Tahun \n2029 dengan berpedoman pada putusan-putusan Mahkamah Konstitusi”;  \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain  \nmohon putusan yang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-7, sebagai \nberikut:",
+      "start_line": 1725,
+      "end_line": 1782
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 7 Tahun 2017 tentang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-7-tahun-2017-tentang",
+      "text": "Pemilihan Umum;",
+      "start_line": 1784,
+      "end_line": 1784
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Nomor 8 Tahun 2015 tenta ng",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-nomor-8-tahun-2015-tenta-ng",
+      "text": "Perubahan Atas Undang-Undang Nomor 1 Tahun 2015 \ntentang Penetapan Peraturan Pemerintah Pengganti Undang-\nUndang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, \nBupati, dan Walikota Menjadi Undang-Undang;",
+      "start_line": 1786,
+      "end_line": 1789
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Dasar Negara Republik In donesia",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-dasar-negara-republik-in-donesia",
+      "text": "Tahun 1945;",
+      "start_line": 1791,
+      "end_line": 1791
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Penduduk atas nama Zico Le onard",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-penduduk-atas-nama-zico-le-onard",
+      "text": "Djagardo;",
+      "start_line": 1793,
+      "end_line": 1793
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Petikan Keputusan Komisi Pemilihan Umu m Nomor",
+      "slug": "7-bukti-p-7-fotokopi-petikan-keputusan-komisi-pemilihan-umu-m-nomor",
+      "text": "1649 tentang Penetapan Ketua Komisi Pemilihan Umum \nProvinsi Pada 1 (Satu) Provinsi dan Komisi Pemilihan Umum \nKabupaten/Kota Pada 8 (Delapan) Kabupaten/Kota di 4 \n(Empat) Provinsi Periode 2023-2028 bertanggal 17 November \n2023. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.  \n\n39",
+      "start_line": 1797,
+      "end_line": 1807
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republi k Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indones ia Nomor \n6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a  Undang-Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076), salah satu kewenangan konstitusional Mah kamah adalah \nmengadili pada tingkat pertama dan terakhir yang putusannya ber sifat final untuk \nmenguji undang-undang terhadap UUD NRI Tahun 1945.  \n[3.2] Menimbang bahwa oleh karena permohonan a quo  adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 167 ayat (3) dan Pasal 347 \nayat (1) Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum (Lembaran \nNegara Republik Indonesia Tahun 2017 Nomor 182, Tambahan Lembar an Negara \nRepublik Indonesia Nomor 6109, selanjutnya disebut UU 7/2017) serta Pasal 3 ayat \n(1) Undang-Undang Nomor 8 Tahun 2015 tentang Perubahan Atas Undang-Undang \nNomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-\nUndang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, d an Walikota \nMenjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun  2 0 1 5  \nNomor 57, Tambahan Lembaran Negara Republik Indonesia Nomor 567 8, \nselanjutnya disebut UU 8/2015) sebagaimana telah dimaknai dalam  Putusan \nMahkamah Konstitusi Nomor 135/PUU-XXII/2024 terhadap UUD NRI Ta hun 1945, \nmaka Mahkamah berwenang mengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \n\n40 \n \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 1809,
+      "end_line": 1848
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  UUD NRI \nTahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuk a untuk umum \npada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU-\nV/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pad a tanggal 20 \nSeptember 2007 serta putusan-putusan selanjutnya, Mahkamah telah berpendirian \nbahwa anggapan kerugian hak dan/atau kewenangan konstitusional sebagaimana \ndimaksud dalam Pasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1851,
+      "end_line": 1869
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1871,
+      "end_line": 1872
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dan be rlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-be-rlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \n\n41 \n \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, ma ka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan ketentuan Pasal 51 ayat (1) UU MK dan \nuraian perihal syarat-syarat kerugian hak dan/atau kewenangan k onstitusional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon I dan Pe mohon \nII yang pada pokoknya sebagai berikut:",
+      "start_line": 1874,
+      "end_line": 1884
+    },
+    {
+      "heading": "1. Bahwa permohonan Pemohon I dan Pemohon II adalah pengujian P asal 167",
+      "slug": "1-bahwa-permohonan-pemohon-i-dan-pemohon-ii-adalah-pengujian-p-asal-167",
+      "text": "ayat (3) dan Pasal 347 ayat (1) UU 7/2017 serta Pasal 3 ayat (1 ) UU 8/2015 \nsebagaimana telah dimaknai melalui Putusan Mahkamah Konstitusi Nomor \n135/PUU-XXII/2024, yang masing-masing menyatakan sebagai berikut. \nPasal 167 ayat (3) UU 7/2017 \nPemungutan suara dilaksanakan secara serentak untuk memilih anggota \nDewan Perwakilan Rakyat, anggota Dewan Perwakilan Daerah, \nPresiden/Wakil Presiden, dan setelahnya dalam waktu paling sing kat 2 \n(dua) tahun atau paling lama 2 (dua) tahun 6 (enam) bulan sejak  \npelantikan anggota Dewan Perwakilan Rakyat dan anggota Dewan \nPerwakilan Daerah atau sejak pelantikan Presiden/Wakil Presiden  \ndilaksanakan pemungutan suara secara serentak untuk memilih ang gota \nDewan Perwakilan Rakyat Daerah provinsi, anggota Dewan Perwakil an \nRakyat Daerah kabupaten/kota, dan gubernur/wakil gubernur, \nbupati/wakil bupati, dan walikota/wakil walikota pada hari libu r atau hari \nyang diliburkan secara nasional. \nPasal 347 ayat (1) UU 7/2017 \nPemungutan suara diselenggarakan secara serentak untuk memilih \nanggota Dewan Perwakilan Rakyat, anggota Dewan Perwakilan Daera h, \nPresiden/Wakil Presiden, dan setelahnya dalam waktu paling sing kat 2 \n(dua) tahun atau paling lama 2 (dua) tahun 6 (enam) bulan sejak  \npelantikan anggota Dewan Perwakilan Rakyat dan anggota Dewan \nPerwakilan Daerah atau sejak pelantikan Presiden/Wakil Presiden  \ndiselenggarakan pemungutan suara secara serentak untuk memilih \nanggota Dewan Perwakilan Rakyat Daerah provinsi, anggota Dewan \nPerwakilan Rakyat Daerah kabupaten/kota, dan gubernur/wakil gubernur, \nbupati/wakil bupati, dan walikota/wakil walikota. \nPasal 3 ayat (1) UU 8/2015 \nPemilihan dilaksanakan secara serentak di seluruh wilayah Negar a \nKesatuan Republik Indonesia untuk memilih anggota Dewan Perwaki lan \nRakyat Daerah provinsi, anggota Dewan Perwakilan Rakyat Daerah \nkabupaten/kota dan gubernur/wakil gubernur, bupati/wakil bupati , dan \nwalikota/wakil walikota yang dilaksanakan dalam waktu paling si ngkat 2 \n(dua) tahun atau paling lama 2 (dua) tahun 6 (enam) bulan sejak  \n\n42 \n \npelantikan anggota Dewan Perwakilan Rakyat dan anggota Dewan \nPerwakilan Daerah atau sejak pelantikan Presiden/Wakil Presiden.",
+      "start_line": 1886,
+      "end_line": 1923
+    },
+    {
+      "heading": "2. Bahwa Pemohon I dan Pemohon II menjelaskan memiliki hak kons titusional",
+      "slug": "2-bahwa-pemohon-i-dan-pemohon-ii-menjelaskan-memiliki-hak-kons-titusional",
+      "text": "yang dijamin dalam Pasal 18 ayat (4), Pasal 22E ayat (1) dan Pa sal 28D ayat \n(1) UUD NRI Tahun 1945;",
+      "start_line": 1925,
+      "end_line": 1926
+    },
+    {
+      "heading": "3. Bahwa Pemohon I adalah perseorangan warga negara Indonesia m erupakan",
+      "slug": "3-bahwa-pemohon-i-adalah-perseorangan-warga-negara-indonesia-m-erupakan",
+      "text": "advokat  [vide Bukti P-4 dan Bukti P-5], yang memiliki perhatian khusus terhadap \npenegakan nilai-nilai konstitusi dan bidang kepemiluan. Sedangkan Pemohon II \nadalah perseorangan warga negara Indonesia dan Ketua Komisi Pem ilihan \nUmum Kabupaten Dogiyai Provinsi Papua Tengah Periode 2023 – 202 8 [vide \nBukti P-6 dan Bukti P-7];",
+      "start_line": 1928,
+      "end_line": 1932
+    },
+    {
+      "heading": "4. Bahwa Pemohon I menyatakan te rdapat ketidakpastian hukum akibat kelalaian",
+      "slug": "4-bahwa-pemohon-i-menyatakan-te-rdapat-ketidakpastian-hukum-akibat-kelalaian",
+      "text": "pembentuk undang-undang menindaklanjuti Putusan Mahkamah Konsti tusi \nNomor 135/PUU-XXII/2024. Terlebih, bagi Pemohon II, ketidakpast ian hukum \ntersebut bersifat operasional dan struktural dalam menjalankan kewenangan \ndan kewajibannya menyusun serta melaksanakan tahapan Pemilu dan Pilkada \n2029 berdasarkan norma acuan yang hingga permohonan a quo diajukan masih \nmengandung dualisme antara norma asli sebelum dimaknai Mahkamah dengan \nmakna baru dalam Putusan Mahkamah Konstitusi Nomor 135/PUU-XXII/2024;",
+      "start_line": 1934,
+      "end_line": 1940
+    },
+    {
+      "heading": "5. Bahwa Pemohon I dan Pemohon II menyatakan kerugian konstitus ional yang",
+      "slug": "5-bahwa-pemohon-i-dan-pemohon-ii-menyatakan-kerugian-konstitus-ional-yang",
+      "text": "dialami bersumber dari fakta Pasal 167 ayat (6) UU 7/2017 mensy aratkan \ntahapan penyelenggaraan pemilu dimulai paling lambat 20 bulan s ebelum hari \npemungutan suara, sementara norma acuan pelaksanaan pemilu nasional dan \npemilu daerah sebagaimana dimaksud pada Pasal 167 ayat (3) dan Pasal 347 \nayat (1) UU 7/2017 telah dinyatakan Mahkamah dimaknai melalui P utusan \nMahkamah Konstitusi Nomor 135/PUU-XXII/2024, namun hingga permo honan \na quo  diajukan belum dinormakan dalam bentuk perubahan undang-undang  \noleh DPR dan Pemerintah. Ketidakpastian ini secara langsung mer ugikan hak \nPemohon I dan Pemohon II untuk mengetahui secara pasti kapan, b erapa kali, \ndan berdasarkan aturan mana Pemohon I dan Pemohon II akan menggunakan \nhak pilihnya, sebagaimana dijamin Pasal 22E ayat (1) dan Pasal 28D ayat (1) \nUUD NRI Tahun 1945. \n\n43 \n \n Berdasarkan uraian dalam menjelaskan kedudukan hukum tersebut d i \natas, menurut Mahkamah, Pemohon I dan Pemohon II telah dapat me njelaskan \nkualifikasi sebagai perseorangan warga negara Indonesia, yang m emiliki hak \nkonstitusional sebagaimana dijamin dalam UUD NRI Tahun 1945 unt uk \nmendapatkan kepastian hukum perihal pelaksanaan pemilu secara l angsung, \numum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali.  Ihwal ini, Pemohon I \ndan Pemohon II menganggap hak konstitusionalnya dirugikan denga n berlakunya \nnorma Pasal 167 ayat (3) dan Pasal 347 ayat (1) UU 7/2017 serta  Pasal 3 ayat (1) \nUU 8/2015 sebagaimana telah dimaknai dalam Putusan Mahkamah Kon stitusi \nNomor 135/PUU-XXII/2024 namun hingga saat ini pembentuk undang- undang \nbelum melakukan perubahan terhadap materi undang-undang dimaksu d pasca \nPutusan Mahkamah Konstitusi Nomor 135/PUU-XXII/2024. Oleh karen a itu, \nPemohon I dan Pemohon II telah dapat menjelaskan ihwal adanya hubungan sebab-\nakibat (causal verband) anggapan kerugian hak konstitusional yang dialami dengan \nberlakunya norma Pasal 167 ayat (3) dan Pasal 347 ayat (1) UU 7/2017 serta Pasal \n3 ayat (1) UU 8/2015 sebagaimana telah dimaknai dalam Putusan M ahkamah \nKonstitusi Nomor 135/PUU-XXII/2024 yang dimohonkan pengujian, s ehingga jika \npermohonan a quo dikabulkan Mahkamah maka anggapan potensi kerugian hak \nkonstitusional tersebut tidak akan terjadi. Dengan demikian, te rlepas dari terbukti \natau tidak terbuktinya ihwal masalah konstitusionalitas norma y ang dimohonkan \npengujian, menurut Mahkamah, Pemohon I dan Pemohon II (selanjut nya disebut \nsebagai para Pemohon) memiliki kedudukan hukum untuk bertindak sebagai \nPemohon dalam mengajukan permohonan a quo. \n[3.6] Menimbang bahwa oleh karena Mahkamah berwenang untuk mengadili  \npermohonan a quo dan para Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai Pemohon, maka selanjutnya Mahkamah akan mempertimbangkan pokok \npermohonan. \nPokok Permohonan \n[3.7] Menimbang bahwa dalam mendalilkan ihwal inkonstitusionalitas n orma \nPasal 167 ayat (3) dan Pasal 347 ayat (1) UU 7/2017 serta Pasal  3 ayat (1) UU \n8/2015 sebagaimana telah dimaknai dalam Putusan Mahkamah Konsti tusi Nomor \n135/PUU-XXII/2024, yang dianggap bertentangan dengan Pasal 18 a yat (4), Pasal \n\n44 \n \n22E ayat (1) dan Pasal 28D ayat (1) UUD NRI Tahun 1945, para Pe mohon \nmengemukakan dalil-dalil (selengka pnya dimuat dalam bagian Dudu k Perkara), \nyang apabila dipahami dan dirumuskan oleh Mahkamah pada pokokny a sebagai \nberikut:",
+      "start_line": 1942,
+      "end_line": 1995
+    },
+    {
+      "heading": "1. Bahwa menurut para Pemohon, pasca Putusan Mahkamah Konstitus i Nomor",
+      "slug": "1-bahwa-menurut-para-pemohon-pasca-putusan-mahkamah-konstitus-i-nomor",
+      "text": "135/PUU-XXII/2024, yang diucapkan dalam sidang pleno terbuka un tuk umum \npada tanggal 26 Juni 2025, norma keserentakan pemilu dalam Pasa l 167 ayat \n(3) dan Pasal 347 ayat (1) UU 7/2017 serta Pasal 3 ayat (1) UU 8/2015 telah \ndinyatakan bertentangan dengan UUD NRI Tahun 1945 dan tidak mem iliki \nkekuatan hukum mengikat secara bersyarat atau inkonstitusional bersyarat. \nDalam hal ini, Mahkamah menyatakan pemaknaan konstitusional bar u, yaitu \npenyelenggaraan pemilu harus dipisahkan menjadi dua gelombang. Pertama, \nPemilu Nasional, yaitu pemilu untuk memilih DPR, anggota DPD, d an pemilu \nuntuk memilih Presiden/Wakil Presiden. Kedua, Pemilu Daerah, yaitu pemilu \nuntuk memilih anggota DPRD dan kepala daerah yang masa jeda paling singkat \n2 (dua) tahun dan paling lama 2 (dua) tahun 6 (enam) bulan deng an pemilu \nnasional. Meskipun demikian, setelah melewati waktu satu tahun sejak Putusan \nMahkamah Konstitusi Nomor 135/PUU-XXII/2024 diucapkan pembentuk  \nundang-undang belum melakukan perubahan atas undang-undang yang  \nterdampak oleh Putusan Mahkamah Konstitusi Nomor 135/PUU-XXII/2 024          \na quo;",
+      "start_line": 1997,
+      "end_line": 2012
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, kata \"serentak\" dengan makna lam a (lima jenis",
+      "slug": "2-bahwa-menurut-para-pemohon-kata-serentak-dengan-makna-lam-a-lima-jenis",
+      "text": "pemilihan dalam satu hari) masih tersebar di pasal lain dalam U U 7/2017 dan \nUU 8/2015 yang belum tersentuh oleh Putusan Mahkamah Konstitusi  Nomor \n135/PUU-XXII/2024. Kondisi demikian menciptakan disharmoni norm atif yang \nbersifat sistemik di dalam kedua undang-undang tersebut. Keadaan disharmoni \nnormatif yang bersifat sistemik dan menyeluruh itu membuktikan permasalahan \nkonstitusionalitas norma Pasal 167 ayat (3) dan Pasal 347 ayat (1) UU 7/2017 \nserta Pasal 3 ayat (1) UU 8/2015 tidak dapat dipandang sebagai persoalan tiga \npasal yang berdiri sendiri, melainkan merupakan cermin dari inkonstitusionalitas \nsistemik yang timbul akibat sikap diam pembentuk undang-undang dalam tidak \nmenindaklanjuti Putusan Mahkamah Konstitusi Nomor 135/PUU-XXII/ 2024 \nsecara menyeluruh ke dalam perubahan normatif. Dualisme normatif dimaksud  \npotensial menguntungkan atau merugikan peserta pemilu yang secara asimetris \n\n45 \n \ntergantung dari penafsiran isi norma yang digunakan penyelengga ra setempat \nakan menjadi sebuah kondisi yang secara fundamental merusak asas keadilan \nelektoral yang menjadi jiwa Pasal 22E ayat (1) UUD NRI Tahun 1945;",
+      "start_line": 2014,
+      "end_line": 2031
+    },
+    {
+      "heading": "3. Bahwa menurut para Pemohon, pilkada yang diatur rezim hukum tersendiri, in",
+      "slug": "3-bahwa-menurut-para-pemohon-pilkada-yang-diatur-rezim-hukum-tersendiri-in",
+      "text": "casu melalui UU 8/2015, dengan adanya Putusan Mahkamah Konstitusi Nomor \n135/PUU-XXII/2024, pilkada tidak lagi diperlakukan sebagai entitas terpisah dari \npemilu, melainkan menjadi bagian dari desain besar pemilu yang terintegrasi \ndalam satu siklus konstitusional pasca-pemilu nasional. Namun, \npengintegrasian normatif tersebut hanya ada dalam amar Putusan Mahkamah \nKonstitusi Nomor 135/PUU-XXII/2024, bukan dalam teks UU 8/2015 yang masih \nberlaku kerangka hukum lama. Kondisi ini menciptakan kekosongan  normatif \noperasional yang mengancam asas kepastian hukum penyelenggaraan pilkada. \nTanpa kepastian norma ihwal waktu dan kerangka hukum pemilu \ndaerah/pilkada, hak pilih warga negara di daerah tergantung pad a norma yang \ntidak tertulis dan tidak pasti, yang secara inheren bertentanga n dengan prinsip \ndemokratis yang disyaratkan Pasal 18 ayat (4) UUD NRI Tahun 1945;",
+      "start_line": 2033,
+      "end_line": 2044
+    },
+    {
+      "heading": "4. Bahwa menurut para Pemohon, dalam konteks ketentuan Pasal 18 ayat (4) UUD",
+      "slug": "4-bahwa-menurut-para-pemohon-dalam-konteks-ketentuan-pasal-18-ayat-4-uud",
+      "text": "NRI Tahun 1945, norma Pasal 167 ayat (3) dan Pasal 347 ayat (1)  UU 7/2017 \nmemiliki keterkaitan struktural secara langsung dengan norma Pa sal 3 ayat (1) \nUU 8/2015. Ketiga norma tersebut merupakan satu kesatuan kerangka normatif \nyang mengatur keserentakan penyelenggaraan pemilu, dan ketigany a sama-\nsama menciptakan ketidakpastian mengenai posisi dan waktu penyelenggaraan \nterhadap pemilu daerah pasca Putusan Mahkamah Konstitusi Nomor 135/PUU-\nXXII/2024. Selama ketiga norma tersebut dan seluruh norma terdampak dalam \nkedua undang-undang tidak direvisi secara sistematis, hak warga negara untuk \nmemilih kepala daerah secara demokratis sebagaimana dijamin ole h Pasal 18 \nayat (4) UUD NRI Tahun 1945 tidak akan memiliki dasar normatif yang kokoh;",
+      "start_line": 2046,
+      "end_line": 2055
+    },
+    {
+      "heading": "5. Bahwa menurut para Pemohon, selama norma Pasal 167 ayat (3) dan Pasal",
+      "slug": "5-bahwa-menurut-para-pemohon-selama-norma-pasal-167-ayat-3-dan-pasal",
+      "text": "347 ayat (1) UU 7/2017 serta Pasal 3 ayat (1) UU 8/2015 beserta seluruh pasal \nterdampak lainnya dalam kedua undang-undang dimaksud belum dise suaikan \nsecara sistematis dengan substansi/isi Putusan Mahkamah Konstit usi Nomor \n135/PUU-XXII/2024, norma-norma tersebut dalam kondisi keberlakuannya yang \nsekarang akan bertentangan dengan hak atas kepastian hukum yang  adil dan \n\n46 \n \nperlakuan yang sama di hadapan hukum sebagaimana dijamin oleh P asal 28D \nayat (1) UUD NRI Tahun 1945. \nBahwa berdasarkan uraian dalil-dalil permohonan tersebut di atas, dalam \npetitum permohonan, para Pemohon pada pokoknya memohon kepada Mahkamah \nuntuk menyatakan: \nPasal 167 ayat (3) dan Pasal 347 ayat (1) UU 7/2017 serta Pasal  3 ayat (1) \nUU 8/2015 sebagaimana telah dimaknai dalam Putusan Mahkamah \nKonstitusi Nomor 135/PUU-XXII/2024 bertentangan dengan UUD NRI Tahun \n1945 dan tidak mempunyai kekuatan hukum mengikat secara bersyar at \nsepanjang tidak dimaknai, “dilakukan revisi dalam waktu paling lama 1 (satu) \ntahun sejak putusan a quo diucapkan dengan berpedoman pada putusan-\nputusan Mahkamah Konstitusi”; \nAtau \nUU 7/2017 dan UU 8/2015 sebagaimana telah dimaknai dalam Putusa n \nMahkamah Konstitusi Nomor 135/PUU-XXII/2024 bertentangan dengan  \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan ti dak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang ti dak \ndimaknai “dilakukan revisi dalam waktu paling lama 1 (satu) tah un sejak \nputusan a quo  diucapkan dengan berpedoman pada putusan-putusan \nMahkamah Konstitusi”; \nAtau \nUU 7/2017 dan UU 8/2015 sebagaimana telah dimaknai dalam Putusa n \nMahkamah Konstitusi Nomor 135/PUU-XXII/2024 bertentangan dengan  \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan ti dak \nmempunyai kekuatan hukum mengikat secara bersyarat sepanjang ti dak \ndimaknai “dilakukan revisi dalam waktu paling lama 20 (dua pulu h) bulan \nsebelum dilaksanakannya Pemilu Tahun 2029 dengan berpedoman pad a \nputusan-putusan Mahkamah Konstitusi”. \n[3.8] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  Bukti P-7 yang \ndisahkan dalam persidangan Mahkamah pada tanggal 22 Juli 2026 ( selengkapnya \ndimuat dalam bagian Duduk Perkara). \n[3.9] Menimbang bahwa oleh karena permohonan para Pemohon a quo telah \njelas, tidak terdapat urgensi dan relevansi meminta keterangan pihak-pihak \nsebagaimana dimaksudkan dalam Pasal 54 UU MK. \n\n47 \n \n[3.10] Menimbang bahwa setelah Mahkamah memeriksa dan membaca secara \nsaksama permohonan a quo beserta bukti-bukti yang diajukan, menurut Mahkamah, \npersoalan utama yang dipersoalkan para Pemohon adalah apakah norma Pasal 167 \nayat (3) dan Pasal 347 ayat (1) UU 7/2017 serta Pasal 3 ayat (1 ) UU 8/2015 \nsebagaimana telah dimaknai dalam Putusan Mahkamah Konstitusi No mor \n135/PUU-XXII/2024, bertentangan dengan UUD NRI Tahun 1945 apabi la tidak \ndinyatakan sebagaimana hal-hal yang dimohonkan untuk diputus ol eh Mahkamah \nseperti yang termaktub dalam rumusan petitum para Pemohon.  \nBerkenaan dengan konstitusionalitas norma Pasal 167 ayat (3) dan Pasal \n347 ayat (1) UU 7/2017 serta Pasal 3 ayat (1) UU 8/2015 sebagai mana telah \ndimaknai dalam Putusan Mahkamah Konstitusi Nomor 135/PUU-XXII/2024 dengan \namar putusan antara lain sebagai berikut:",
+      "start_line": 2057,
+      "end_line": 2114
+    },
+    {
+      "heading": "2. Menyatakan Pasal 167 ayat (3) Undang-Undang Nomor 7 Tahun 20 17",
+      "slug": "2-menyatakan-pasal-167-ayat-3-undang-undang-nomor-7-tahun-20-17",
+      "text": "tentang Pemilihan Umum (Lembaran Negara Republik Indonesia Tahu n \n2017 Nomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor \n6109) bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengika t \nsecara bersyarat sepanjang ke depan tidak dimaknai, “Pemungutan  suara \ndilaksanakan secara serentak untuk memilih anggota Dewan Perwak ilan \nRakyat, anggota Dewan Perwakilan Daerah, Presiden/Wakil Presiden, dan \nsetelahnya dalam waktu paling singkat 2 (dua) tahun atau paling  lama 2 \n(dua) tahun 6 (enam) bulan sejak pelantikan anggota Dewan Perwa kilan \nRakyat dan anggota Dewan Perwakilan Daerah atau sejak pelantika n \nPresiden/Wakil Presiden dilaksanakan pemungutan suara secara serentak \nuntuk memilih anggota Dewan Perwakilan Rakyat Daerah provinsi, anggota \nDewan Perwakilan Rakyat Daerah kabupaten/kota, dan gubernur/wak il \ngubernur, bupati/wakil bupati, dan walikota/wakil walikota pada  hari libur \natau hari yang diliburkan secara nasional;",
+      "start_line": 2117,
+      "end_line": 2131
+    },
+    {
+      "heading": "3. Menyatakan Pasal 347 ayat (1) Undang-Undang Nomor 7 Tahun 20 17",
+      "slug": "3-menyatakan-pasal-347-ayat-1-undang-undang-nomor-7-tahun-20-17",
+      "text": "tentang Pemilihan Umum (Lembaran Negara Republik Indonesia Tahu n \n2017 Nomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor \n6109) bertentangan dengan Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 dan tidak mempunyai kekuatan hukum mengika t \nsecara bersyarat sepanjang ke depan tidak dimaknai, “Pemungutan  suara \ndiselenggarakan secara serentak untuk memilih anggota Dewan \nPerwakilan Rakyat, anggota Dewan Perwakilan Daerah, Presiden/Wa kil \nPresiden, dan setelahnya dalam waktu paling singkat 2 (dua) tah un atau \npaling lama 2 (dua) tahun 6 (enam) bulan sejak pelantikan anggota Dewan \nPerwakilan Rakyat dan anggota Dewan Perwakilan Daerah atau seja k \npelantikan Presiden/Wakil Presiden diselenggarakan pemungutan s uara \nsecara serentak untuk memilih anggota Dewan Perwakilan Rakyat Daerah \nprovinsi, anggota Dewan Perwakilan Rakyat Daerah kabupaten/kota , dan \ngubernur/wakil gubernur, bupati/wakil bupati, dan walikota/wakil walikota”; \n\n48",
+      "start_line": 2133,
+      "end_line": 2149
+    },
+    {
+      "heading": "4. Menyatakan Pasal 3 ayat (1) Undang-Undang Nomor 8 Tahun 2015 tentang",
+      "slug": "4-menyatakan-pasal-3-ayat-1-undang-undang-nomor-8-tahun-2015-tentang",
+      "text": "Perubahan Atas Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan \nPeraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014  \ntentang Pemilihan Gubernur, Bupati, dan Walikota Menjadi Undang -\nUndang (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 57,  \nTambahan Lembaran Negara Republik Indonesia Nomor 5678) \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 dan tidak mempunyai kekuatan hukum mengikat secara \nbersyarat sepanjang ke depan tidak dimaknai, “Pemilihan dilaksa nakan \nsecara serentak di seluruh wilayah Negara Kesatuan Republik Ind onesia \nuntuk memilih anggota Dewan Perwakilan Rakyat Daerah provinsi, anggota \nDewan Perwakilan Rakyat Daerah kabupaten/kota dan gubernur/waki l \ngubernur, bupati/wakil bupati, dan walikota/wakil walikota yang  \ndilaksanakan dalam waktu paling singkat 2 (dua) tahun atau pali ng lama 2 \n(dua) tahun 6 (enam) bulan sejak pelantikan anggota Dewan Perwa kilan \nRakyat dan anggota Dewan Perwakilan Daerah atau sejak pelantika n \nPresiden/Wakil Presiden; ... \n Berdasarkan kutipan amar putusan tersebut di atas, secara kons titusional \nsubstansi norma Pasal 167 ayat (3) dan Pasal 347 ayat (1) UU 7/ 2017 serta Pasal \n3 ayat (1) UU 8/2015 telah berubah sesuai dengan Putusan Mahkam ah Konstitusi \nNomor 135/PUU-XXII/2024. Secara konstitusional pula, sesuai dengan karakter sifat \nfinal putusan Mahkamah Konstitusi sebagaimana dimaktubkan dalam Pasal  2 4 C  \nayat (1) UUD NRI Tahun 1945, putusan Mahkamah termasuk Putusan Mahkamah \nKonstitusi Nomor 135/PUU-XXII/2024 mempunyai kekuatan hukum yan g mengikat \n(binding) sejak diucapkan dalam sidang pleno yang terbuka untuk umum. Berkenaan \ndengan sifat final dan mengikat tersebut, oleh karena Putusan Mahkamah Konstitusi \nNomor 135/PUU-XXII/2024 diucapkan dalam Sidang Pleno Mahkamah K onstitusi \nterbuka untuk umum pada hari Kamis, tanggal 26 Juni 2025, selesai diucapkan pukul \n14.42 WIB, secara konstitusional putusan a quo mengikat semua penyelenggara \nnegara sejak tanggal 26 Juni 2025, pukul 14.42 WIB dimaksud. Bahkan penegasan \nwaktu dimaksud, Putusan Mahkamah Konstitusi Nomor 135/PUU-XXII/2024 secara \nterang-benderang menegaskan penyelenggaraan pemilihan umum pres iden/wakil \npresiden, anggota DPR, dan anggota DPD yang terpisah dari penye lenggaraan \npemilihan gubernur/wakil gubernur, bupati/wakil bupati, dan walikota/wakil walikota, \ndan anggota DPRD provinsi/kabupaten/kota dilaksanakan sejak Pem ilihan Umum",
+      "start_line": 2151,
+      "end_line": 2184
+    },
+    {
+      "heading": "2029. Artinya, dengan penegasan tersebut, tidak terdapat alasan atau pilihan selain",
+      "slug": "2029-artinya-dengan-penegasan-tersebut-tidak-terdapat-alasan-atau-pilihan-selain",
+      "text": "menuntaskan semua kerangka hukum penyelenggaraan pemilihan umum terutama \nkerangka hukum berupa undang-undang sebelum dimulainya tahapan Pemilihan \nUmum Tahun 2029.  \n\n49 \n \n Dengan menggunakan logika tersebut di atas, dengan belum dilak ukan \natau belum selesainya proses perubahan undang-undang yang merup akan tindak \nlanjut atas Putusan Mahkamah Konstitusi Nomor 135/PUU-XXII/2024 dan putusan-\nputusan lain yang berkenaan dengan substansi penyelenggaraan pemilihan umum, \ntidak berarti Mahkamah harus merumuskan pemaknaan baru terhadap norma yang \ntelah dimaknai tersebut. Dalam hal ini, penegasan ihwal penyelenggaraan pemilihan \numum presiden/wakil presiden, anggota DPR, dan anggota DPD yang terpisah dari \npenyelenggaraan pemilihan kepala daerah dan anggota DPRD dilaksanakan sejak \nPemilihan Umum 2029 sudah cukup untuk menentukan batas waktu di lakukannya \nperubahan terhadap sejumlah undang-undang yang berkenaan dengan  pemilihan \numum. Artinya, Mahkamah tidak perlu menentukan batas/tenggat waktu baru seperti \nyang dimohonkan para Pemohon karena pemaknaan atas norma Pasal 167 ayat (3) \ndan Pasal 347 ayat (1) UU 7/2017 serta Pasal 3 ayat (1) UU 8/2015 harus mengikuti \nmakna dalam Putusan Mahkamah Konstitusi Nomor 135/PUU-XXII/2024.   \n Berdasarkan uraian di atas, tidak terdapat dua pengaturan yang  memiliki \nkedudukan setara, melainkan hanya terdapat satu norma yang berlaku, yaitu norma \nPasal 167 ayat (3) dan Pasal 347 ayat (1) UU 7/2017 serta Pasal  3 ayat (1) UU \n8/2015 sebagaimana telah dimaknai dalam Putusan Mahkamah Konsti tusi Nomor \n135/PUU-XXII/2024. Dengan demikian, dalil para Pemohon mengenai  belum \nberubahnya teks ketiga pasal tersebut menciptakan dua norma yan g sama-sama \nberlaku dan saling bertentangan adalah dalil yang tidak berdasa r dan oleh \nkarenanya harus dinyatakan tidak beralasan menurut hukum. \n[3.11] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, menurut Mahkamah norma Pasal 167 ayat (3) dan  Pasal 347 ayat \n(1) UU 7/2017 serta Pasal 3 ayat (1) UU 8/2015 sebagaimana tela h dimaknai oleh \nMahkamah melalui Putusan Mahkamah Konstitusi Nomor 135/PUU-XXII/2024, telah \nternyata tidak bertentangan dengan  prinsip pemilihan umum dan pemilihan kepala \ndaerah yang demokratis serta kepastian hukum yang adil sebagaim ana dijamin \ndalam Pasal 18 ayat (4), Pasal 22E ayat (1) dan Pasal 28D ayat (1) UUD NRI Tahun \n1945, bukan sebagaimana yang didalilkan oleh para Pemohon. Deng an demikian, \ndalil para Pemohon adalah tidak beralasan menurut hukum untuk seluruhnya. \n\n50 \n \n[3.12] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 2186,
+      "end_line": 2227
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an di \natas, Mahkamah berkesimpulan:  \n[4.1]  Mahkamah berwenang mengadili permohonan a quo;  \n[4.2]  Para Pemohon memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3]  Permohonan para Pemohon tidak beralasan menurut hukum untuk \nseluruhnya. \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 2229,
+      "end_line": 2244
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan para Pemohon untuk seluruhnya. \n Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nEnny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Daniel Yusmic P.  Foekh,  \nM. Guntur Hamzah, Adies Kadir, dan Liliek Prisbawono Adi  masing-masing sebagai \nAnggota, pada hari Senin, tanggal tiga bulan Agustus, tahun dua ribu dua puluh \nenam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk \numum pada hari Rabu, tanggal dua belas, bulan Agustus, tahun dua ribu dua \n\n51 \n \npuluh enam, selesai diucapkan pukul 14.36 WIB, oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Enn y Nurbaningsih, \nRidwan Mansyur, Arsul Sani, Daniel Yusmic P. Foekh, M. Guntur H amzah, Adies \nKadir, dan Liliek Prisbawono Adi  masing-masing sebagai Anggota, dengan dibantu \noleh Aqmarina Rasika sebagai Panitera Pengganti, serta dihadiri  oleh para \nPemohon dan/atau kuasanya, Dewan Perwakilan Rakyat atau yang me wakili, dan \nPresiden atau yang mewakili. \nKETUA, \nttd.  \nSuhartoyo  \nANGGOTA-ANGGOTA, \nttd.  \nSaldi Isra \nttd.  \nEnny Nurbaningsih  \n ttd. \nRidwan Mansyur \nttd.  \nArsul Sani \n ttd. \nDaniel Yusmic P. Foekh \nttd.  \nM. Guntur Hamzah \n ttd. \nAdies Kadir \nttd.  \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nAqmarina Rasika",
+      "start_line": 2246,
+      "end_line": 2288
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Zico Leonard Djagardo Simanjuntak",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Elias Petege",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 7/2017 tentang Pemilihan Umum; UU 8/2015 tentang Perubahan atas UU 1/2015 tentang Penetapan Perppu 1/2014 tentang Pemilihan Gubernur, Bupati, dan Walikota Menjadi Undang-Undang"
+    ],
+    "constitutional_articles": [
+      "Pasal 22E ayat (1)",
+      "Pasal 22E",
+      "Pasal 28D ayat (1)",
+      "Pasal 18 ayat (4)",
+      "Pasal 24C ayat (1)",
+      "Pasal 167 ayat (3)",
+      "Pasal 347 ayat (1)",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 3 ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 78",
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "REFERENSI:259/PUU-XXIV/2026",
+      "REFERENSI:258/PUU/PAN.MK/AP3/07/2026",
+      "REFERENSI:126/PUU-XXIV/2026",
+      "REFERENSI:14/PUU-XI/2013",
+      "REFERENSI:55/PUU-XVII/2019",
+      "REFERENSI:135/PUU-XXII/2024",
+      "REFERENSI:120/PUU-XXIII/2025",
+      "REFERENSI:124/PUU-XXIII/2025",
+      "REFERENSI:14/PUU-XI/2013padaintinyamenggunakanalasanpenguatansistempresidensialdanoriginalintentPasal22EUUD1945gunamemerintahkankeserentakanantaraPilpres5danPilegdalamsatuharipemungutansuara.PermohonandalamPerkaraNomor55/PUU-XVII/2019",
+      "REFERENSI:135/PUU-XXII/2024menggunakanalasankegagalanpembentukundang-undangmenindaklanjutiPutusan55/2019",
+      "REFERENSI:120/PUU-XXIII/2025menggunakanalasanbahwapemisahanPemiluNasionaldanDaerahsebagaimanadimaknaiPutusan135/2024",
+      "REFERENSI:135/PUU-XXII/2024.PerluditegaskanbahwaMahkamahsendiridalam7pertimbanganPutusanNomor135/PUU-XXII/2024",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:101/PUU-XXII/2024",
+      "REFERENSI:006/PUU-III/2005danNomor011/PUU-V/2007",
+      "REFERENSI:7/2017danUU8/2015",
+      "REFERENSI:8/2015besertapasal-pasalterkaitlainnyabelumdisesuaikanteksnyasecarasistematisdenganamarPutusanMK135/2024",
+      "REFERENSI:8/2015.Pasca-PutusanMK135/2024",
+      "REFERENSI:8/2015yangjugabelumdisesuaikandenganPutusanMK19135/2024",
+      "REFERENSI:8/2015pasca-PutusanMK135/2024",
+      "REFERENSI:135/PUU-XXII/2024kedalamrevisinormatifUU7/2017danUU8/2015",
+      "REFERENSI:8/2015besertaseluruhpasalterkaitlainnyadalamkeduaundang-undangtersebutbelumdisesuaikansecarasistematisdenganamarPutusanMKNomor135/PUU-XXII/2024",
+      "REFERENSI:135/PUU-XXII/2024135/PUU-XXII/2024",
+      "REFERENSI:7/2017danUU8/2015yangharusdirevisiPascaPutusanMK135/2024NOPASALUU7/2017",
+      "REFERENSI:8/2015135/2024",
+      "REFERENSI:32/2004tentangPemerintahanDaerahUU10/2008",
+      "REFERENSI:10/2016tentangPilkadaUU7/2017",
+      "REFERENSI:8/2015denganpemaknaanbersyaratyangtelahditetapkanMahkamahdalamPutusanMK135/2024",
+      "REFERENSI:91/PUU-XVIII/2020",
+      "REFERENSI:168/PUU-XXI/2023",
+      "REFERENSI:167/PUU-XXIV/2026",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:8/2015sebagaimanatelahdimaknaimelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:7/2017telahdinyatakanMahkamahdimaknaimelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:8/2015sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024namunhinggasaatinipembentukundang-undangbelummelakukanperubahanterhadapmateriundang-undangdimaksudpascaPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:8/2015sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:7/2017danUU8/2015yangbelumtersentuholehPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:8/2015besertaseluruhpasalterdampaklainnyadalamkeduaundang-undangdimaksudbelumdisesuaikansecarasistematisdengansubstansi/isiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:7/2017danUU8/2015sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:8/2015telahberubahsesuaidenganPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:8/2015harusmengikutimaknadalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:8/2015sebagaimanatelahdimaknaiolehMahkamahmelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:006/PUU-III/2005danPerkaraNomor11/PUU-V/2007",
+      "REFERENSI:8/2015.5.BahwaPutusanMKNomor135/PUU-XXII/2024",
+      "REFERENSI:135/PUU-XXII/20241.BahwaperkembanganmelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "REFERENSI:8/2015BUNYINORMAYANGBERMASALAHALASANHARUSDIUBAHPASCAPUTUSANMK135/2024",
+      "REFERENSI:7/2017danUU8/2015denganpemaknaanbersyaratyangtelahditetapkanMahkamahdalamPutusanMK135/2024"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan para Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Aqmarina Rasika"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "259/PUU-XXIV/2026",
+      "258/PUU/PAN.MK/AP3/07/2026",
+      "126/PUU-XXIV/2026",
+      "14/PUU-XI/2013",
+      "55/PUU-XVII/2019",
+      "135/PUU-XXII/2024",
+      "120/PUU-XXIII/2025",
+      "124/PUU-XXIII/2025",
+      "14/PUU-XI/2013padaintinyamenggunakanalasanpenguatansistempresidensialdanoriginalintentPasal22EUUD1945gunamemerintahkankeserentakanantaraPilpres5danPilegdalamsatuharipemungutansuara.PermohonandalamPerkaraNomor55/PUU-XVII/2019",
+      "135/PUU-XXII/2024menggunakanalasankegagalanpembentukundang-undangmenindaklanjutiPutusan55/2019",
+      "120/PUU-XXIII/2025menggunakanalasanbahwapemisahanPemiluNasionaldanDaerahsebagaimanadimaknaiPutusan135/2024",
+      "135/PUU-XXII/2024.PerluditegaskanbahwaMahkamahsendiridalam7pertimbanganPutusanNomor135/PUU-XXII/2024",
+      "11/PUU-V/2007",
+      "101/PUU-XXII/2024",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "7/2017danUU8/2015",
+      "8/2015besertapasal-pasalterkaitlainnyabelumdisesuaikanteksnyasecarasistematisdenganamarPutusanMK135/2024",
+      "8/2015.Pasca-PutusanMK135/2024",
+      "8/2015yangjugabelumdisesuaikandenganPutusanMK19135/2024",
+      "8/2015pasca-PutusanMK135/2024",
+      "135/PUU-XXII/2024kedalamrevisinormatifUU7/2017danUU8/2015",
+      "8/2015besertaseluruhpasalterkaitlainnyadalamkeduaundang-undangtersebutbelumdisesuaikansecarasistematisdenganamarPutusanMKNomor135/PUU-XXII/2024",
+      "135/PUU-XXII/2024135/PUU-XXII/2024",
+      "7/2017danUU8/2015yangharusdirevisiPascaPutusanMK135/2024NOPASALUU7/2017",
+      "8/2015135/2024",
+      "32/2004tentangPemerintahanDaerahUU10/2008",
+      "10/2016tentangPilkadaUU7/2017",
+      "8/2015denganpemaknaanbersyaratyangtelahditetapkanMahkamahdalamPutusanMK135/2024",
+      "91/PUU-XVIII/2020",
+      "168/PUU-XXI/2023",
+      "167/PUU-XXIV/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "8/2015sebagaimanatelahdimaknaimelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "7/2017telahdinyatakanMahkamahdimaknaimelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024namunhinggasaatinipembentukundang-undangbelummelakukanperubahanterhadapmateriundang-undangdimaksudpascaPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "7/2017danUU8/2015yangbelumtersentuholehPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015besertaseluruhpasalterdampaklainnyadalamkeduaundang-undangdimaksudbelumdisesuaikansecarasistematisdengansubstansi/isiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "7/2017danUU8/2015sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015telahberubahsesuaidenganPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015harusmengikutimaknadalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015sebagaimanatelahdimaknaiolehMahkamahmelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "006/PUU-III/2005danPerkaraNomor11/PUU-V/2007",
+      "8/2015.5.BahwaPutusanMKNomor135/PUU-XXII/2024",
+      "135/PUU-XXII/20241.BahwaperkembanganmelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015BUNYINORMAYANGBERMASALAHALASANHARUSDIUBAHPASCAPUTUSANMK135/2024",
+      "7/2017danUU8/2015denganpemaknaanbersyaratyangtelahditetapkanMahkamahdalamPutusanMK135/2024"
+    ],
+    "referenced_cases": [
+      "259/PUU-XXIV/2026",
+      "258/PUU/PAN.MK/AP3/07/2026",
+      "126/PUU-XXIV/2026",
+      "14/PUU-XI/2013",
+      "55/PUU-XVII/2019",
+      "135/PUU-XXII/2024",
+      "120/PUU-XXIII/2025",
+      "124/PUU-XXIII/2025",
+      "14/PUU-XI/2013padaintinyamenggunakanalasanpenguatansistempresidensialdanoriginalintentPasal22EUUD1945gunamemerintahkankeserentakanantaraPilpres5danPilegdalamsatuharipemungutansuara.PermohonandalamPerkaraNomor55/PUU-XVII/2019",
+      "135/PUU-XXII/2024menggunakanalasankegagalanpembentukundang-undangmenindaklanjutiPutusan55/2019",
+      "120/PUU-XXIII/2025menggunakanalasanbahwapemisahanPemiluNasionaldanDaerahsebagaimanadimaknaiPutusan135/2024",
+      "135/PUU-XXII/2024.PerluditegaskanbahwaMahkamahsendiridalam7pertimbanganPutusanNomor135/PUU-XXII/2024",
+      "11/PUU-V/2007",
+      "101/PUU-XXII/2024",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "7/2017danUU8/2015",
+      "8/2015besertapasal-pasalterkaitlainnyabelumdisesuaikanteksnyasecarasistematisdenganamarPutusanMK135/2024",
+      "8/2015.Pasca-PutusanMK135/2024",
+      "8/2015yangjugabelumdisesuaikandenganPutusanMK19135/2024",
+      "8/2015pasca-PutusanMK135/2024",
+      "135/PUU-XXII/2024kedalamrevisinormatifUU7/2017danUU8/2015",
+      "8/2015besertaseluruhpasalterkaitlainnyadalamkeduaundang-undangtersebutbelumdisesuaikansecarasistematisdenganamarPutusanMKNomor135/PUU-XXII/2024",
+      "135/PUU-XXII/2024135/PUU-XXII/2024",
+      "7/2017danUU8/2015yangharusdirevisiPascaPutusanMK135/2024NOPASALUU7/2017",
+      "8/2015135/2024",
+      "32/2004tentangPemerintahanDaerahUU10/2008",
+      "10/2016tentangPilkadaUU7/2017",
+      "8/2015denganpemaknaanbersyaratyangtelahditetapkanMahkamahdalamPutusanMK135/2024",
+      "91/PUU-XVIII/2020",
+      "168/PUU-XXI/2023",
+      "167/PUU-XXIV/2026",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "8/2015sebagaimanatelahdimaknaimelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "7/2017telahdinyatakanMahkamahdimaknaimelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024namunhinggasaatinipembentukundang-undangbelummelakukanperubahanterhadapmateriundang-undangdimaksudpascaPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "7/2017danUU8/2015yangbelumtersentuholehPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015besertaseluruhpasalterdampaklainnyadalamkeduaundang-undangdimaksudbelumdisesuaikansecarasistematisdengansubstansi/isiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "7/2017danUU8/2015sebagaimanatelahdimaknaidalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015telahberubahsesuaidenganPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015harusmengikutimaknadalamPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015sebagaimanatelahdimaknaiolehMahkamahmelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "006/PUU-III/2005danPerkaraNomor11/PUU-V/2007",
+      "8/2015.5.BahwaPutusanMKNomor135/PUU-XXII/2024",
+      "135/PUU-XXII/20241.BahwaperkembanganmelaluiPutusanMahkamahKonstitusiNomor135/PUU-XXII/2024",
+      "8/2015BUNYINORMAYANGBERMASALAHALASANHARUSDIUBAHPASCAPUTUSANMK135/2024",
+      "7/2017danUU8/2015denganpemaknaanbersyaratyangtelahditetapkanMahkamahdalamPutusanMK135/2024"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

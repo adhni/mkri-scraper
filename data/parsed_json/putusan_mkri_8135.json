@@ -1,0 +1,861 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_8135.pdf",
+    "file_name": "putusan_mkri_8135.pdf",
+    "page_count": 41,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_8135.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "26/PUU-XIX/2021",
+    "related_case_numbers": [],
+    "title": "SALINAN",
+    "decision_date": "2021-09-29",
+    "decision_date_raw": "dua puluh sembilan, bulan September, tahun dua ribu dua puluh satu",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "SALINAN",
+      "slug": "salinan",
+      "text": "",
+      "start_line": 2,
+      "end_line": 3
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor  26/PUU-XIX/2021",
+      "start_line": 5,
+      "end_line": 5
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam perkara Pengujian Undang-Undang Nomor 15 Tahun \n2006 tentang Badan Pemeriksa Keuangan terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945, yang diajukan oleh:  \nNama : Muhammad Helmi Kamal \nAlamat : Jalan H. Ramli , Nomor 59 RT 004, RW 003, \nMenteng Dalam, Tebet, Jakarta Selatan \nBerdasarkan Surat Kuasa Khusus bertanggal 20 Mei 2021 memberi kuasa kepada \nIwan Gunawan, S.H., M.H., Dr. Suartini, S.H., M.H., Virza Roy Hizzal Lubis, S.H., \nM.H., dan Ade Yan Yan Hasbullah, S.H., seluruhnya adalah  para advokat dan \nkonsultan hukum pada Kantor Hukum Sugiharto, Gunawan & Partner (SGP Law \nOffice), yang beralamat di  Jalan M.T. Haryono Kav. 10, Cawang, Jakarta Timur , \nbertindak untuk dan atas nama pemberi kuasa; \nSelanjutnya disebut sebagai -------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon; \nMendengar keterangan Pemohon; \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 7,
+      "end_line": 24
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal \n4 Juni  2021 yang diterima di Kepaniteraan Mahkamah Konstitusi (selanjutnya \ndisebut Kepaniteraan Mahkamah) pada tanggal 4 Juni  2021 berdasarkan Akta \nPengajuan Permohonan Pemohon  Nomor 18/PUU/PAN.MK/AP3/6/2021 dan telah \ndicatat dalam Buku Registrasi Perkara Konstitusi Elektronik (e -BRPK) dengan \n\n \n \n2 \nNomor 26/PUU-XIX/2021 pada tanggal 10 Juni  2021, yang telah diperbaiki dan \nditerima Kepaniteraan Mahkamah pada tanggal 5 Juli 2021 pada pokoknya sebagai \nberikut: \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 26,
+      "end_line": 38
+    },
+    {
+      "heading": "1. Bahwa berdasarkan ketentuan Pasal 24C ayat ( 1) UUD 1945 yang",
+      "slug": "1-bahwa-berdasarkan-ketentuan-pasal-24c-ayat-1-uud-1945-yang",
+      "text": "menyatakan; \"Mahkamah Konstitusi berwenang mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk menguji  Undang-\nUndang terhadap Undang -Undang Dasar, memutus sengketa  kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar, \nmemutus pembubaran partai politik, dan  memutus perselisihan tentang hasil \npemilihan umum\";",
+      "start_line": 40,
+      "end_line": 45
+    },
+    {
+      "heading": "2. Bahwa Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003",
+      "slug": "2-bahwa-pasal-10-ayat-1-huruf-a-undang-undang-nomor-24-tahun-2003",
+      "text": "juncto Undang-Undang Nomor 8 Tahun 2011 juncto Undang-Undang Nomor 4 \nTahun 2014 tentang Perubahan Kedua Atas Undang-Undang Nomor 24 Tahun \n2003 tentang Mahkamah Konstitusi juncto Undang-Undang Nomor 7 Tahun \n2020 tentang Perubahan Ketiga atas Undang -Undang Nomor 24 Tahun 2003 \nTentang Mahkamah Konstitusi, menyatakan: \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji Undang-Undang \nterhadap Undang-Undang Dasar Negara RI Tahun 1945\";",
+      "start_line": 47,
+      "end_line": 54
+    },
+    {
+      "heading": "3. Bahwa penegasan serupa juga diatur dalam Pasal 29 Undang-Undang Nomor",
+      "slug": "3-bahwa-penegasan-serupa-juga-diatur-dalam-pasal-29-undang-undang-nomor",
+      "text": "48 Tahun 2009 tentang Kekuasaan Kehakiman. Sementara ketentuan Pasal 9 \nayat (1) Undang -Undang Nomor 12 Tahun 2011 tentang  Pembentukan \nPeraturan Perundang-Undangan juncto Undang-Undang Nomor 15 Tahun \n2019 tentang Perubahan Atas Undang -Undang Nomor 12 Tahun 2011 \nTentang Pembentukan Peraturan Perundang-Undangan menyatakan, “Dalam \nhal suatu Undang-Undang diduga bertentangan dengan Undang -Undang \nDasar Negara Republik Indonesia  Tahun 1945, pengujiannya dilakukan oleh \nMahkamah Konstitusi”;",
+      "start_line": 56,
+      "end_line": 63
+    },
+    {
+      "heading": "4. Bahwa Pasal 1 angka 3 huruf a Undang-Undang Nomor 24 Tahun 2003 juncto",
+      "slug": "4-bahwa-pasal-1-angka-3-huruf-a-undang-undang-nomor-24-tahun-2003-juncto",
+      "text": "Undang-Undang Nomor 8 Tahun 2011 juncto Undang-Undang Nomor 4 Tahun \n2014 tentang Perubahan Kedua Atas Undang-Undang Nomor 24 Tahun 2003 \n\n \n \n3 \ntentang Mahkamah Konstitusi  juncto Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun 2003 \nTentang Mahkamah Konstitusi, menyatakan: \n“Permohonan adalah permintaan yang diajukan secara tertulis kepada \nMahkamah Konstitusi mengenai: Pengujian undang -undang terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945”",
+      "start_line": 65,
+      "end_line": 76
+    },
+    {
+      "heading": "5. Bahwa Pasal 29 ayat (1) Undang-Undang Nomor 24 Tahun 2003 juncto",
+      "slug": "5-bahwa-pasal-29-ayat-1-undang-undang-nomor-24-tahun-2003-juncto",
+      "text": "Undang-Undang Nomor 8 Tahun 2011 juncto Undang-Undang Nomor 4 Tahun \n2014 tentang Perubahan Kedua Atas Undang-Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi  juncto Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 \nTentang Mahkamah Konstitusi, menyatakan: \n\"Permohonan diajukan  secara tertulis dalam  Bahasa Indonesia oleh  \npemohon atau kuasanya kepada Mahkamah Konstitusi\".",
+      "start_line": 78,
+      "end_line": 84
+    },
+    {
+      "heading": "6. Bahwa sebagai pelindung konstitusi (guardian of constitution ), Mahkamah",
+      "slug": "6-bahwa-sebagai-pelindung-konstitusi-guardian-of-constitution-mahkamah",
+      "text": "Konstitusi juga berhak memberikan penafsiran terhadap sebuah ketentuan \npasal dalam undang-undang agar berkesesuaian dengan nilai-nilai konstitusi. \nTafsir Mahkamah Konstitusi merupakan tafsir satu-satunya (the sole interpreter \nof constitution) yang memiliki kekuatan hukum. Sehingga terhadap pasal-pasal \nyang memiliki makna ambigu, tidak jelas, dan/atau multi tafsir dapat pula \ndimintakan penafsirannya, Mahkamah Konstitusi juga telah beberapa kali \nmenyatakan sebuah bagian dari undang -undang konstitusio nal bersyarat \n(conditionally constitutional) sepanjang ditafsirkan sesuai dengan tafsir yang \ndiberikan Mahkamah Konstitusi atau sebaliknya, tidak konstitusional jika tidak \ndiartikan sesuai dengan penafsiran Mahkamah Konstitusi;",
+      "start_line": 86,
+      "end_line": 95
+    },
+    {
+      "heading": "7. Bahwa F rasa “lembaga atau ba dan lain yang mengelola keuangan negara”",
+      "slug": "7-bahwa-f-rasa-lembaga-atau-ba-dan-lain-yang-mengelola-keuangan-negara",
+      "text": "dalam Pasal 6 ayat (1) Undang-Undang Nomor 15 Tahun 2006 tentang Badan \nPemeriksa Keuangan, yang berbunyi: \n“BPK bertugas memeriksa pengelolaan dan tanggung jawab keuangan \nnegara yang dilakukan oleh Pemerintah Pusat, Pemerintah Daerah, \nLembaga Negara lainnya, Bank Indonesia, Badan Usaha Milik Negara, \nBadan Layanan Umum, Badan Usaha Milik Daerah, dan lembaga atau \nbadan lain yang mengelola keuangan negara” \n\n \n \n4 \nJuncto Frasa “lembaga atau badan lain yang menyelenggarakan pengelolaan \nkeuangan negara” dalam Pasal 10 ayat (1) Undang-Undang Nomor 15 Tahun \n2006 tentang Badan Pemeriksa Keuangan, yang berbunyi: \n    “BPK menilai dan/atau menetapkan jumlah kerugian negara yang \ndiakibatkan oleh perbuatan melawan hukum baik sengaja maupun  \nlalai yang dilakukan oleh bendahara, pengelola BUMN/BUMD, dan \nlembaga atau badan lain yang menyelenggarakan pengelolaan \nkeuangan negara.” \ndianggap bertentangan dengan Pasal 1 ayat (3), Pasal 28D ayat (1)  dan \nPasal 28G ayat (1) Undang -Undang Dasar 1945, sepanjang tidak dimaknai \nsebagai adanya penyertaan modal Pemerintah Pusat/Daerah secara \nlangsung terhadap BUMN/BUMD dan mendapatkan penugasan Pemerintah \natau melaksanakan pelayanan umum terhadap lembaga atau badan lain \nyang mengelola keuangan negara;",
+      "start_line": 97,
+      "end_line": 121
+    },
+    {
+      "heading": "8. Berdasarkan hal-hal tersebut di atas, maka Mahkamah Konstitusi berwenang",
+      "slug": "8-berdasarkan-hal-hal-tersebut-di-atas-maka-mahkamah-konstitusi-berwenang",
+      "text": "untuk memeriksa dan memutus permohonan pengujian undang-undang ini; \nII. LEGAL STANDING PEMOHON",
+      "start_line": 123,
+      "end_line": 124
+    },
+    {
+      "heading": "1. Bahwa Negara Republik Indonesia merupakan Negara Hukum yang",
+      "slug": "1-bahwa-negara-republik-indonesia-merupakan-negara-hukum-yang",
+      "text": "melindungi Hak Konstitusional Warga Negara berdasarkan hukum Peraturan \ndan ketentuan yang berlaku, di mana setiap warga negara dipandang memiliki \nkedudukan yang sama di  depan hukum, pemerintahan, termasuk dan tidak \nterbatas pada kesempatan yang sama untuk mendapatkan perlindungan \nhukum baik dalam melakukan kegiatan sehari -hari maupun pada saat \ndilakukan pemeriksaan, baik itu sebagai subjek hukum perseorangan dan atau \nsuatu badan hukum privat yang didirikan berdasarkan ketentuan hukum yang \nberlaku di Indonesia;",
+      "start_line": 126,
+      "end_line": 133
+    },
+    {
+      "heading": "2. Bahwa meskipun demikian dal am pelaksanaannya terdapat perlakuan",
+      "slug": "2-bahwa-meskipun-demikian-dal-am-pelaksanaannya-terdapat-perlakuan",
+      "text": "berbeda yang dialami oleh Pemohon sebagai warga negara dengan warga \nnegara lainnya yang seharusnya memiliki hak konstitusional yang sama dan \nmendapatkan perlakukan sama di  depan hukum, perbedaan perlakuan \ntersebut sebag ai akibat dari perbedaa n dalam penafsiran dan penerapan \nhukum, sehingga menimbulkan ketidak pastian hukum bagi masyarakat; \n\n \n \n5",
+      "start_line": 135,
+      "end_line": 143
+    },
+    {
+      "heading": "3. Bahwa berdasarkan Ketentuan Pasal 6 ayat (1) U ndang-Undang Nomor 15",
+      "slug": "3-bahwa-berdasarkan-ketentuan-pasal-6-ayat-1-u-ndang-undang-nomor-15",
+      "text": "Tahun 2006 tentang Badan Pemeriksa Keuangan (BPK) Republik Indone sia, \nmemberikan kewenangan kepada BPK untuk bertugas memeriksa \npengelolaan dan tanggung jawab keuangan negara yang dilakukan oleh \nPemerintah Pusat, Pemerintah Daerah, Lembaga Negara lainnya, Bank \nIndonesia, Badan Usaha Milik Negara, Badan Layanan Umum, Badan Usaha \nMilik Daerah, dan lembaga atau badan lain yang mengelola keuangan \nnegara”;",
+      "start_line": 145,
+      "end_line": 151
+    },
+    {
+      "heading": "4. Bahwa selanjutnya di dalam Ketentuan P asal 10 a yat (1) Undang -Undang",
+      "slug": "4-bahwa-selanjutnya-di-dalam-ketentuan-p-asal-10-a-yat-1-undang-undang",
+      "text": "Nomor 15 Tahun 2006 t entang Badan pemeriksa Keuangan, mengatur \nmengenai wewenang BPK RI untuk menilai d an/atau menetapkan jumlah \nkerugian negara yang diakibatkan oleh perbuatan melawan hukum baik \nsengaja maupun lalai yang dilakukan oleh bendahara, pengelola \nBUMN/BUMD, dan lembaga atau badan lain yang menyelenggarakan \npengelolaan keuangan negara”;",
+      "start_line": 153,
+      "end_line": 158
+    },
+    {
+      "heading": "5. Bahwa berdasarkan ketentuan sebagaimana tersebut di atas, secara normatif",
+      "slug": "5-bahwa-berdasarkan-ketentuan-sebagaimana-tersebut-di-atas-secara-normatif",
+      "text": "BPK RI hanya memiliki tugas dan kewenangan dalam memeriksa sampai \ndengan Badan Usaha Milik Negara atau Badan Usaha Milik Daerah atau \nbadan lain yang mengelola Keuangan Negara;",
+      "start_line": 160,
+      "end_line": 162
+    },
+    {
+      "heading": "6. Bahwa tidak adan ya tafsir yang jelas dan tegas mengenai ketentuan",
+      "slug": "6-bahwa-tidak-adan-ya-tafsir-yang-jelas-dan-tegas-mengenai-ketentuan",
+      "text": "sebagaimana tersebut di atas, dalam prakteknya menimbulkan kesewenang -\nwenangan hukum, yang mengakibatkan adanya perlakukan yang berbeda \nantara Anak perusahaan BUMN yang satu dengan Anak Perusahaan BUMN \nyang lain, bahkan terhadap perusahaan yang secara jelas dan tegas dalam \nAnggaran dasar bukan merupakan anak perusahaan BUMN dan bukan \nmengelola keuangan negara, melainkan mengelola dana pensiun suatu \nBadan Usaha Milik Negara yang berasal dari i uran Pegawai Bad an Usaha \nMilik Negara justru dikategorikan sebagai keuangan negara, sehingga dalam \nhal terjadi penyimpangan, dianggap sebagai perbuatan tindak pidana korupsi \nmeskipun bukan perbuatan tindak pidana korupsi yang dikehendaki oleh \nundang-undang;",
+      "start_line": 164,
+      "end_line": 174
+    },
+    {
+      "heading": "7. Bahwa sesuai d engan Prinsip hukum dan keadilan yang dianut secara",
+      "slug": "7-bahwa-sesuai-d-engan-prinsip-hukum-dan-keadilan-yang-dianut-secara",
+      "text": "universal menyatakan bahwa tidak seorangpun boleh diuntungkan oleh \n\n \n \n6 \npenyimpangan dan pelanggaran yang dilakukannya diri sendiri dan tidak \nseorangpun boleh dirugikan oleh penyimpangan dan pelanggaran yang \ndilakukan oleh orang lain “( nullus/nemo commodum copere potest de injuria \nsua propia)”, maka dalam rangka memberikan kepastian hukum bagi setiap \nwarga negara sebagai cerminan dari adanya persamaan di muka hukum \ndiperlukan adanya penafsiran yang nyata dan pasti terhadap kewenangan \nBPK RI dalam menghitung kerugian negara;",
+      "start_line": 176,
+      "end_line": 187
+    },
+    {
+      "heading": "8. Bahwa berdasarkan Pasal 51 ayat (1) Undang-Undang Nomor 24 Tahun 2003",
+      "slug": "8-bahwa-berdasarkan-pasal-51-ayat-1-undang-undang-nomor-24-tahun-2003",
+      "text": "sebagaimana diubah dengan Undang-Undang Nomor 8 Tahun 2011 tentang \nPerubahan Atas Undang-Undang Nomor 24 Tahun 2003 ten tang Mahkamah \nKonstitusi lalu diubah kembali dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi yang menyatakan: \nPemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang -undang, yaitu :              \n(a) perseorangan WNI, (b) kesatuan masyarakat hukum adat sepanjang \nmasih hidup dan sesuai dengan perkembangan masyar akat dan prinsip \nnegara kesatuan RI yang diatur didalam Undang-Undang, (c) badan hukum \npublik dan hukum privat, atau (d) Lembaga Negara”;",
+      "start_line": 189,
+      "end_line": 199
+    },
+    {
+      "heading": "9. Bahwa selanjutnya, dalam Penjelasan Pasal 51 ayat (1) Undang-Undang",
+      "slug": "9-bahwa-selanjutnya-dalam-penjelasan-pasal-51-ayat-1-undang-undang",
+      "text": "Nomor 24 Tahun 2003 sebagaimana diubah dengan Undang-Undang Nomor \n8 Tahun 2011 tentang Perubahan Atas UU Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi lalu diubah kembali dengan Undang-Undang Nomor 7 \nTahun 2020 tentang Perubahan Ketiga Atas Undang -Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitu si (Untuk selanjutnya disebut UU \nMK), menyatakan: “Yang dimaksud dengan ‘hak konstitusional’ adalah hak -\nhak yang diatur dalam Undang -Undang Dasar Negar a Republik Indonesia \nTahun 1945;",
+      "start_line": 201,
+      "end_line": 208
+    },
+    {
+      "heading": "10. Bahwa selanjutnya dalam Putusa n Mahkamah Konstitusi Nomor 006/PUU -",
+      "slug": "10-bahwa-selanjutnya-dalam-putusa-n-mahkamah-konstitusi-nomor-006-puu",
+      "text": "III/2005 dan Putusan Mahkamah Konstitusi Nomor 10/PUU -III/2005, \nMahkamah telah memberikan penjelasan mengenai hak konstitusional dan \nkerugian konstiusional sebagai berikut: \n\n \n \n7 \n1) Adanya hak konstitusional Pemohon yang diberikan oleh Undang -\nUndang Dasar 1945; \n2) Hak Kon stitusional Pemohon tersebut dianggap oleh Pemohon telah \ndirugikan oleh suatu Undang-Undang yang diuji; \n3) Bahwa kerugian Konstitusional Pemohon yang dimaksud bersifat spesifik \n(khusus) dan aktual atau setidaknya bersifat potensial yang menurut \npenalaran yang wajar dapat dipastikan akan terjadi; \n4) Adanya hubungan sebab -akibat ( causal verban d) antara kerugian dan \nberlakunya undang-undang yang dimohonkan untuk diuji; \n5) Adanya kemungkinan dengan dikabulkannya permohonan maka  \nkerugian konstitusional yang didalilkan tidak akan atau tidak terjadi.",
+      "start_line": 210,
+      "end_line": 227
+    },
+    {
+      "heading": "11. Bahwa berdasarkan Pasal 51 ayat (1) U U MK dan Penjelasannya",
+      "slug": "11-bahwa-berdasarkan-pasal-51-ayat-1-u-u-mk-dan-penjelasannya",
+      "text": "menegaskan, \n“Pemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya Undang-Undang, yaitu: \na. Perorangan warga Negara Indonesia; \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip Negara \nKesatuan Republik Indonesia yang diatur dalam Undang-Undang;",
+      "start_line": 229,
+      "end_line": 235
+    },
+    {
+      "heading": "d. Lembaga Negara.",
+      "slug": "d-lembaga-negara",
+      "text": "• Penjelasan Pasal 51 ayat (1) menegaskan, \nYang dimaksud dengan “hak konstitusional” adalah hak -hak \nyang diatur dalam Undang -Undang Dasar Negara Republik \nIndonesia Tahun 1945. \n• Bahwa adapun uraian mengenai kerugian hak dan/atau \nkewenangan konstitusional Pemohon akan disampaikan dalam \nPosita Permohonan pada bagian berikutnya;",
+      "start_line": 238,
+      "end_line": 244
+    },
+    {
+      "heading": "12. Bahwa Pemohon adalah perorangan warga Negara Indonesia sebagaimana",
+      "slug": "12-bahwa-pemohon-adalah-perorangan-warga-negara-indonesia-sebagaimana",
+      "text": "dimaksud pada Pasal 51 ayat (1) UU MK yang hak dan/atau kewenangan \nkonstitusionalnya telah dirugikan;",
+      "start_line": 246,
+      "end_line": 247
+    },
+    {
+      "heading": "13. Bahwa sejak bulan Agustus 2013, Pemohon telah ditunjuk sebagai Presiden",
+      "slug": "13-bahwa-sejak-bulan-agustus-2013-pemohon-telah-ditunjuk-sebagai-presiden",
+      "text": "Direktur (Presdir) Dana Pensiun Pertamina ( selanjutnya disebut DP \n\n \n \n8 \nPertamina) dan “berhenti” terhitung sejak tanggal 12 Januari 2016 dan \nsekarang sedang menjalani hukuman dari Putusan Pengadilan TIPIKOR pada \nPengadilan Negeri Jakarta Pusat Nomor 107/PID.SUS/TPK/ 2017/PN.Jkt.Pst \njuncto Putusan Pengadilan Tinggi DKI Jakarta Nomor 7/Pid.TPK/2018/PT DKI \njuncto Putusan Mahkamah Agung Nomor 2088 K/PID.SUS/2018, karena \ndianggap telah melakukan perbuatan Tindak Pidana Korupsi;",
+      "start_line": 249,
+      "end_line": 259
+    },
+    {
+      "heading": "14. Bahwa selama menjabat sebagai Presdir DP Pertamina, Pemohon tidak",
+      "slug": "14-bahwa-selama-menjabat-sebagai-presdir-dp-pertamina-pemohon-tidak",
+      "text": "pernah menyimpang dan melanggar hukum, terutama tidak menyimpang dari \nUU 11/1992, Ketentuan Otoritas Jasa Keuangan (OJK), maupun ketentuan \nhukum lainnya. Di mana hal ini dapat diketahui dari hasil pemeriksaan Kantor \nAkuntan Publik terhadap DP Pertamina pada periode Pemohon mengurus DP \nPertamina, yaitu: \na. Pemeriksaan (audit) Akuntan Publik tahun buku 2014 dengan opini \nWajar Tanpa Pengecualian; \nb. Pemeriksaan (audit) Akuntan Publik tahun buku 2015 dengan opini \nWajar Tanpa Pengecualian;",
+      "start_line": 261,
+      "end_line": 269
+    },
+    {
+      "heading": "15. Bahwa Badan Pemeriksa Keuangan (selanjutnya disebut BPK) melakukan",
+      "slug": "15-bahwa-badan-pemeriksa-keuangan-selanjutnya-disebut-bpk-melakukan",
+      "text": "“pemeriksaan investigatif” terhadap DP Pertamina, khususnya te rkait dengan \npembelian saham PT Sugih Energy, Tbk di BEI adalah dengan sebutan SUGI \n(selanjutnya dalam Permohonan ini disebut saham SUGI);",
+      "start_line": 271,
+      "end_line": 273
+    },
+    {
+      "heading": "16. Bahwa pemeriksaan BPK dan tuduhan Korupsi keuangan negara di DP",
+      "slug": "16-bahwa-pemeriksaan-bpk-dan-tuduhan-korupsi-keuangan-negara-di-dp",
+      "text": "Pertamina yang dialamatkan kepada Pemohon bermula dari adanya audit \nBPK dan pemahaman bahwa kekayaan DP Pertamina adalah bagian dari \nkekayaan negara dan/atau keuangan negara padahal kekayaan DP \nPertamina antara lain dihimpun dari “iuran pemberi kerja” in casu  PT \nPertamina. Kekayaan DP Pertamina “terpisah” dari kekayaan pendirinya in \ncasu pemberi kerja (i.c PT. Pertamina), pemeriksaan dan pengawasan teknis \ndilakukan oleh OJK. Sedangkan mengenai pemeriksaan keuangan  internal \ndilakukan oleh Akuntan Publik bukan oleh BPK RI;",
+      "start_line": 275,
+      "end_line": 282
+    },
+    {
+      "heading": "17. Bahwa selanjutnya BPK menganggap berwenang melakukan pemeriksaan",
+      "slug": "17-bahwa-selanjutnya-bpk-menganggap-berwenang-melakukan-pemeriksaan",
+      "text": "terhadap DP Pertamina, karena itu pula akhirnya Pemoho n menjalani proses \nhukum di Pengadilan Tipikor dengan tuduhan melakukan tindak pidana \nkorupsi karena merugikan keuangan negara yang ada di DP Pertamina; \n\n \n \n9",
+      "start_line": 284,
+      "end_line": 290
+    },
+    {
+      "heading": "18. Bahwa Badan Pemeriksa Keuangan Republik Indononesia (BPK RI)",
+      "slug": "18-bahwa-badan-pemeriksa-keuangan-republik-indononesia-bpk-ri",
+      "text": "melakukan Pemeriksaan terhadap perkara a quo berdasarkan ketentuan \nPasal 6 ayat (1) juncto Pasal 10 ayat (1) Undang -Undang Nomor 15 tahun \n2006 tentang Badan Pemeriksa Keuangan;",
+      "start_line": 292,
+      "end_line": 294
+    },
+    {
+      "heading": "19. Bahwa tidak adanya tafsir yang tegas dari tugas dan kewenangan BPK RI",
+      "slug": "19-bahwa-tidak-adanya-tafsir-yang-tegas-dari-tugas-dan-kewenangan-bpk-ri",
+      "text": "dalam melakukan pemeriksaan sebagaimana tersebut di  atas telah \nmenyebabkan tindakan sewenang -wenang, karena secara nyata dan pasti \ntidak ada batasan terhadap pengelolaan keuangan negara yang seharusnya \ndimaknai sebagai adanya penyertaan modal Pemerintah Pusat/Daerah secara \nlangsung terhadap BUMN/BUMD atau Lembaga lain yang mendapatkan \npenugasan untuk mengelola sumber daya alam dan atau mendapatkan \nfasilitas untuk melaksanakan pelayanan umum terhadap masyarakat;",
+      "start_line": 296,
+      "end_line": 302
+    },
+    {
+      "heading": "20. Bahwa telah menjadi fakta, Pemohon menjadi terpidana melakukan korupsi",
+      "slug": "20-bahwa-telah-menjadi-fakta-pemohon-menjadi-terpidana-melakukan-korupsi",
+      "text": "oleh Badan Negara, disebab kan norma hukum (objek uji mater iil) tersebut di \natas tidak jelas dan tidak tegas sehingga dapat ditafsirkan secara berbeda \noleh badan negara, dalam hal ini BPK. Sudah seharusnya BPK taat terhadap \nnorma-norma hukum yang berlaku agar tidak melampui kewenang annya \nmelakukan pemeriksaan audit investigative terhadap DP Pertamina. Sehingga \nkarenanya hak dan/atau kewenangan konstitusional Pemohon dirugikan. Hal \nini tentunya bertentangan dengan norma dalam Pasal 1 ayat (3) UUD 1945 \nyang menegaskan: “Negara Indonesia adalah Negara Hukum”;",
+      "start_line": 304,
+      "end_line": 311
+    },
+    {
+      "heading": "21. Bahwa selain itu, akibat adanya multi tafsir tersebut yang dijalankan BPK",
+      "slug": "21-bahwa-selain-itu-akibat-adanya-multi-tafsir-tersebut-yang-dijalankan-bpk",
+      "text": "sehingga melebihi kewenangannya untuk melakukan pemeriksaaan audit \ninvestigative terhadap DP Pertamina, berakibat proses hukum tipikor yang \ndialami Pemohon menjadi suatu kesesatan dalam bernegara hukum. \nPemohon telah kehilangan hak konstitusionalnya untuk mendapat pengakuan, \njaminan, perlindungan dan kepastian hukum yang adil, sebagaimana Pasal \n28D ayat (1) yang menyebutkan : “Setiap orang berhak atas pengakua n, \njaminan, perlindungan, dan kepastian hukum yang adil serta perla kuan yang \nsama dihadapan hukum”;",
+      "start_line": 313,
+      "end_line": 320
+    },
+    {
+      "heading": "22. Bahwa padahal berdasarkan norma-norma yang ada, sudah jelas bahwa anak",
+      "slug": "22-bahwa-padahal-berdasarkan-norma-norma-yang-ada-sudah-jelas-bahwa-anak",
+      "text": "perusahaan BUMN bukanlah BUMN, maka segala konsekuensi hukum \nterhadap anak perusahaan  BUMN tidak sama dengan BUMN, termasuk \n\n \n \n10 \nbahwa BPK tidak berwenang untuk melakukan pemeriksaan audit \ninvestigative terhadap DP PERTAMINA sepanjang tidak dimaknai sebagai \nadanya penyertaan modal Pemerintah Pusat/Daerah secara langsung \nterhadap BUMN/BUMD dan m endapatkan penugasan Pemerintah atau \nmelaksanakan pelayanan umum terhadap lembaga atau badan lain yang \nmengelola keuangan negara, jikapun terjadi suatu hal         di dalamnya seperti \npenyelewengan, penggelapan dan lain-lain -quod    non-, maka tidak tergolong \nsebagai Tindak Pidana Korupsi (TIPIKOR);",
+      "start_line": 322,
+      "end_line": 335
+    },
+    {
+      "heading": "23. Bahwa setelah menjadi terdakwa korupsi dan dihukum pidana, Pemohon dan",
+      "slug": "23-bahwa-setelah-menjadi-terdakwa-korupsi-dan-dihukum-pidana-pemohon-dan",
+      "text": "keluarganya juga menanggung malu serta menjadi rusak harkat dan \nmartabatnya di kalangan masyarakat, termasuk mengalami rasa tidak aman \nakibat kewenangan berlebihan BPK dalam melakukan audit pemeriksaan \ninvestigative di DP Pertamina. Padahal UUD 1945 menegaskan, \nPasal 28G ayat (1) : “Setiap orang berhak atas perlindungan diri pribadi, \nkeluarga, kehormatan, martabat, dan harta benda yang di bawah \nkekuasaannya, serta berhak atas rasa aman dan perlindungan dari \nancaman ketakutan untuk berbuat atau tidak berbuat sesuatu yang \nmerupakan hak asasi”.",
+      "start_line": 337,
+      "end_line": 345
+    },
+    {
+      "heading": "24. Bahwa berdasarkan uraian di atas, dapat disimpulkan bahwa Pemohon",
+      "slug": "24-bahwa-berdasarkan-uraian-di-atas-dapat-disimpulkan-bahwa-pemohon",
+      "text": "memiliki kedudukan hukum (legal standing) dalam mengajukan permohonan \nini sesuai dengan Pasal 51 ayat (1) UU MK juncto Pasal 4 Peraturan \nMahkamah Konstitusi Nomor 2 Tahun 2021  tentang Tata Beracara Dalam \nPerkara Pengujian Undang-Undang; \nIII. POKOK PERMOHONAN",
+      "start_line": 347,
+      "end_line": 351
+    },
+    {
+      "heading": "1. Bahwa Undang -Undang Nomor 15 Tahun 2016 tentang Badan Pemeriksa",
+      "slug": "1-bahwa-undang-undang-nomor-15-tahun-2016-tentang-badan-pemeriksa",
+      "text": "Keuangan Republik Indonesia mengatur ketentuan sebagai berikut: \nPasal 6 Ayat (1) \n“BPK bertugas memeriksa pengelolaan dan tanggung jawab keuangan \nnegara yang dilakukan oleh Pemerintah Pusat, Pemerintah  Daerah, \nLembaga Negara lainnya, Bank Indonesia, Badan Usaha Milik Negara, \nBadan Layanan Umum, Badan Usaha Milik Daerah, dan lembaga atau \nbadan lain yang mengelola keuangan negara” \n \n\n \n \n11 \nPasal 10 Ayat (1) \n“BPK menilai dan/atau menetapkan jumlah kerugian negara yang \ndiakibatkan oleh perbuatan melawan hukum baik sengaja maupun \nlalai yang dilakukan oleh bendahara, pengelola BUMN/BUMD, dan \nlembaga atau badan lain yang menyelenggarakan pengelolaan \nkeuangan negara”",
+      "start_line": 353,
+      "end_line": 370
+    },
+    {
+      "heading": "2. Bahwa frasa “lembaga atau badan lain yang mengelola k euangan negara”",
+      "slug": "2-bahwa-frasa-lembaga-atau-badan-lain-yang-mengelola-k-euangan-negara",
+      "text": "dalam Pasal 6 ayat (1) juncto Frasa “Lembaga atau badan lain yang \nmenyelenggarakan pengelolaan keuangan negara” dalam Pasal 10 ayat (1), \nsepanjang tidak dimaknai dengan Adanya Penyertaan Modal secara \nLangsung dari pemerintah Pusat dan Pemerintah Daerah, Penugasan \nPengelolaan Sumber Daya Alam atau Pemberian fasilitas untuk pelayanan \nkepentingan Umum adalah bertentangan dengan Undang-Undang Dasar \nRepublik Indonesia 1945  karena tidak memberikan Kepastian dan \nPersamaan di muka Hukum padahal Indonesia merupakan negara Hukum;",
+      "start_line": 372,
+      "end_line": 379
+    },
+    {
+      "heading": "3. Bahwa berdasarkan hal tersebut batu uji dalam Permohonan a quo adalah",
+      "slug": "3-bahwa-berdasarkan-hal-tersebut-batu-uji-dalam-permohonan-a-quo-adalah",
+      "text": "Undang-Undang Dasar 1945 Pasal 1 ayat (3), Pasal 28D ayat (1), Pasal 28G \nayat (1) sebagai berikut: \n- Pasal 1 Ayat (3)  : “Negara Indonesia Adalah Negara Hukum” \n- \nPasal 28D  ayat \n(1) \n: Setiap Orang berhak atas pengakuan, Jaminan, \nPerlindungan, dan Kepastian hukum yang adil \nserta perlakuan yang sama dihadapan hukum” \n- \nPasal 28G ayat \n(1) \n: “Setiap orang berhak atas perlindungan diri \npribadi, keluarga , kehormatan, martabat, dan \nharta benda yang dibawah kekuasaannya, serta \nberhak atas rasa aman dan perlindungan dari \nancaman ketakutan untuk berbuat atau tidak \nberbuat sesuatu yang merupakan hak asasi”.",
+      "start_line": 381,
+      "end_line": 398
+    },
+    {
+      "heading": "4. Bahwa Frasa “Lembaga atau badan lain yang mengelola keuangan negara”",
+      "slug": "4-bahwa-frasa-lembaga-atau-badan-lain-yang-mengelola-keuangan-negara",
+      "text": "dalam Pasal 6 ayat (1) juncto Frasa “lembaga atau badan lain yang \nmenyelenggarakan pengelolaan keuangan negara”  dalam Pasal 10 ayat (1) \nUndang-Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa \nKeuangan, dalam prakteknya tidak  memperlihatkan kejelasan makna dan \n\n \n \n12 \nbatasan sehingga warga negara tidak mendapatkan kepastian atas frasa \ntersebut. Hal ini tentu  tidak mencerminkan prinsip negara hukum  di mana \nsebagai negara yang berdasarkan h ukum, seharusnya dapat  memberikan \nketeraturan serta kepastian hukum bagi setiap warga negara, mengingat \ndalam penerapannya untuk anak perusahaan BUMN atau badan lain yang \nmengelola dana pensiun dari karyawan BUMN, meskipun tidak ada \npenyertaan modal dari Pemerintah, tidak mendapat tugas dan fasilitas dari \npemerintah, justru dianggap dan diperlakukan sama dengan Badan Usaha \nMilik Negara;",
+      "start_line": 400,
+      "end_line": 416
+    },
+    {
+      "heading": "5. Bahwa BPK RI atas permintaan dari Penyidik, akan melakukan audit",
+      "slug": "5-bahwa-bpk-ri-atas-permintaan-dari-penyidik-akan-melakukan-audit",
+      "text": "investigatif terhadap anak perusahaan BUMN dan badan lain   yang \nmengelola uang dari karyawan BUMN, kemu dian hasil dari audit BPK RI \nmenjadi legitimasi bagi Penyidik bahwa dalam kegiatan tersebut terdapat \nkerugian negara karena telah dilakukan perhitungan oleh BPK RI;",
+      "start_line": 418,
+      "end_line": 421
+    },
+    {
+      "heading": "6. Bahwa Pemeriksaan BPK RI terhadap anak perusahaan BUMN dan/ atau",
+      "slug": "6-bahwa-pemeriksaan-bpk-ri-terhadap-anak-perusahaan-bumn-dan-atau",
+      "text": "badan lain yang mengelola uang dari karyawan BUMN seperti dana pensiun \npertamina dan menyatakan ada kerugian negara dalam kegiatan tersebut, \ntelah bertentangan dengan ketentuan Pasal 28D ayat (1) Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945 yang dengan tegas \nmenyatakan: “Setiap Orang berhak atas pengakuan, Jaminan, Perlindungan, \ndan Kepastian hukum yang adil serta perlakuan yang sama dihadapan \nhukum”;",
+      "start_line": 423,
+      "end_line": 429
+    },
+    {
+      "heading": "7. Bahwa anak perusahaan BUMN/BUMD yang modalnya bukan bersumber",
+      "slug": "7-bahwa-anak-perusahaan-bumn-bumd-yang-modalnya-bukan-bersumber",
+      "text": "dari APBN/APBD atau bukan penyertaan modal dari BUMN/BUMD dan tidak \nmenerima/menggunakan fasilitas negara, bukan termasuk keuangan negara. \nModal anak perusahaan BUMN/BUMD adalah dari BUMN/BUMD, bukan dari \nkekayaan negara. Hal ini jelas berbeda dengan modal BUMN/BUMD yang \nberasal dari kekayaan negara yang dipisahkan . Kekayaan negara yang \ndipisahkan adalah kekayaan negara yang berasal dari APBN/APBD atau \nperolehan lainnya yang sah dan dijadikan penyertaan modal negara kepada \nBUMN/BUMD secara korporasi. Menempatkan kekayaan negara untuk \ndikelola secara korporasi mengha silkan manfaat bagi peningkatan \nperekonomian negara. Oleh karena itu, apabila dibentuk sebuah anak \n\n \n \n13 \nperusahaan BUMN/BUMD dan BUMN/BUMD tersebut melakukan \npenyertaan modal sebagai perusahaan induk, hal itu berarti bahwa modal \ntersebut bukan berasal dari nega ra, melainkan dari BUMN/BUMD tersebut \nyang berbentuk PT (Perseroan Terbatas) sebagai badan hukum yang \nmemiliki kekayaan terpisah dari pemegang saham. Dalam hal laporan \nkeuangan pun, anak perusahaan BUMN/BUMD melapor ke BUMN/BUMD \nselaku pemegang sahamnya da n bukan ke negara. Berdasarkan konstruksi \ntersebut dapat diartikan bahwa apabila BUMN/BUMD sebagai badan hukum \nmembentuk anak perusahaan serta memiliki saham di dalamnya, maka \npemilikan saham dalam anak perusahaan tersebut berasal dari kekayaan \nBUMN/BUMD, bukan dari kekayaan negara. Dapat dikatakan juga bahwa \nanak perusahaan BUMN/BUMD tidak tunduk pada Undang -Undang Badan \nUsaha Milik Negara, melainkan tunduk pada Undang -Undang Perseroan \nTerbatas;",
+      "start_line": 431,
+      "end_line": 458
+    },
+    {
+      "heading": "8. Bahwa anak perusahaan adalah perusahaan yang lebih dari separ uh",
+      "slug": "8-bahwa-anak-perusahaan-adalah-perusahaan-yang-lebih-dari-separ-uh",
+      "text": "sahamnya dimiliki oleh perusahaan lain atau sepenuhnya dimiliki oleh \nperusahaan lain. Perusahaan lain itu disebut perusahaan induk atau induk \nperusahaan. BUMN adalah badan usaha yang seluruh atau sebagian besar \nmodalnya dimiliki oleh Negara melalui peny ertaan secara langsung yang \nberasal dari kekayaan negara yang dipisahkan. Sementara apabila dibentuk \nanak perusahaan BUMN dan adanya penyertaan modal dari BUMN sebagai \nperusahaan induk, itu artinya modal tersebut yang berbentuk PT (Perseroan \nTerbatas) seba gai badan hukum yang memiliki kekayaan terpisah dari \npemegang saham. BUMN merupakan badan usaha yang pembentukannya \ntunduk pada Undang -undang (Badan Hukum Publik) tetapi aturannya atau \nseluruh kegiatan pengelolaannya tunduk dan diatur dalam hukum privat;",
+      "start_line": 460,
+      "end_line": 470
+    },
+    {
+      "heading": "9. Bahwa kekayaan BUMN terpisah dari kekayaan Negara karena kekayaan",
+      "slug": "9-bahwa-kekayaan-bumn-terpisah-dari-kekayaan-negara-karena-kekayaan",
+      "text": "Negara di dalam BUMN hanya sebatas saham, sehingga jika pada suatu saat \nBUMN mengalami kerugian, maka bukan merupakan kerugian Negara. \nDengan mendasarkan pada teori dan doktrin hukum perseroa n maka jelas \nbahwa BUMN Persero merupakan suatu badan hukum mandiri. Berdasarkan \nkedudukannya sebagai badan hukum mandiri maka demi hukum modal \nBUMN yang bersumber dari kekayaan negara semestinya ditafsirkan sebagai \n\n \n \n14 \nkekayaan BUMN, terpisah dari rezim kekay aan negara. Berdasarkan \npengertian anak perusahaan BUMN tersebut dapat diartikan bahwa BUMN \nberbentuk Perseroan Terbatas dan dikendalikan oleh BUMN. Mengenai \ntanggung jawab BUMN sebagai Perusahaan yang mengendalikan anak \nperusahaan, sehingga BUMN berperan aktif terhadap perusahaan, bukan \nhanya sebagai pemegang saham yang pasif, sehingga dengan adanya \npengendalian BUMN tersebut dapat dibuktikan tanggung jawab status \nkepemilikan anak perusahaan BUMN terhadap anak Perusahaan BUMN \ntidak terbatas, karenanya dapa t dikatakan bahwa anak perusahaan BUMN \nbukanlah milik negara;",
+      "start_line": 472,
+      "end_line": 491
+    },
+    {
+      "heading": "10. Bahwa Negara sudah memasukan modal dan modalnya akan menjadi dalam",
+      "slug": "10-bahwa-negara-sudah-memasukan-modal-dan-modalnya-akan-menjadi-dalam",
+      "text": "bentuk saham, maka negara sudah tidak dapat menganggap bahwa modal \nyang sudah dimasukan dalam sebuah kegiatan usaha tidak lagi menjadi \nkeuangan negara. Jelas bahwa perseroan sebagai Badan Hukum. Salah satu \nkarakteristik Badan Hukum adalah memiliki kekayaannya sendiri. Sehingga \njelas bahwa ketika modal yang sudah dimasukan dalam perseroan akan \nsecara utuh menjadi kekayaan atas perseroan itu sendiri. Penyertaan Modal \nBUMN tersebut harus dimaknai sebagai suatu keikutsert aan dalam suatu \nbadan hukum PT. Hal ini menimbulkan suatu konsekuensi yuridis bahwa \nsegala permodalan dalam suatu PT yang termanifestasi dalam wujud saham \nrnerupakan milik dari badan hukum PT itu sendiri;",
+      "start_line": 493,
+      "end_line": 502
+    },
+    {
+      "heading": "11. Bahwa menurut pendapat hukum Professor Arifin Soeria Atmadja, S.H.,",
+      "slug": "11-bahwa-menurut-pendapat-hukum-professor-arifin-soeria-atmadja-s-h",
+      "text": "dalam bukunya berjudul: “Keuangan Publik dalam Perspektif Hukum” , \nhalaman 399, bahwa sesuai dengan Pasal 4 ayat (3) UU BUMN, negara pada \nsaat memisahkan kekayaannya dalam rangka pendirian BUMN/Persero yang \ndananya berasal dari APBN wajib dilakukan dengan Peraturan Pemerintah \ndan ini masih bertindak dalam ranah lingkungan kuasa hukum \npublik/keuangan negara ( publiekrechtelijke rachtgebeid ). Namun, Ketika  \nnegara menyampaikan kehendaknya ( wilsvorming) mendirikan \nBUMN/persero di hadapan notaris maka seketika itu pula negara \nmenundukkan dirinya secara sukarela dan diam -diam pada hukum perdata, \ndan kedudukan yuridis negara adalah sebagai subjek hukum perdata b iasa \ndan kehilangan imunitas publiknya. Negara sebagai pemegang saham sama \n\n \n \n15 \nkedudukan hukumnya dengan anggota masyarakat biasa pemegang saha m \nlainnya (hubungan horizontal);",
+      "start_line": 504,
+      "end_line": 520
+    },
+    {
+      "heading": "12. Bahwa terkait status dari anak perusahaan BUMN sebenarnya Mahkamah",
+      "slug": "12-bahwa-terkait-status-dari-anak-perusahaan-bumn-sebenarnya-mahkamah",
+      "text": "Konstitusi dalam Putusan Nomor 01/PHPU-PRES/XVII/2019 tanggal 27 Juni \n2019,  halaman 1936 telah memberikan Pertimbangan Hukum sebagai \nberikut: \nBahwa terhadap dalil Pemohon berkenaan dengan persyaratan Calon Wakil \nPresiden Paslon 01 di atas, Mahkamah mempertimbangkan sebagai berikut:  \n(1) bahwa Pasal 1 Undang -Undang Nomor 19 Tahun 2003 tentang \nBadan Usaha Milik Negara (UU BUMN) mendefinisikan BUMN adalah \nbadan usaha yang seluruh atau sebagian modalnya dimiliki oleh \nnegara melalui penyertaan secara langsung yang berasal dari \nkekayaan negara yang dipisahkan. Berdasarkan definisi tersebut \nmaka untuk dapat mengetahui apakah Bank BNI Syariah dan Bank \nSyariah Mandiri merupakan BUMN atau bukan salah satunya adalah \ndengan cara mengetahui komposisi modal atau saham dari kedua \nbank tersebut;  \n(2) bahwa modal atau saham Bank BNI Syariah dimiliki oleh PT Bank \nNegara Indonesia (Persero) Tbk dan PT BNI Life Insurance (bukti PT-\n20). Adapun komposisi pemegang saham Bank Syariah Mandiri \nadalah PT Bank Mandiri (Persero) Tbk dan PT Mandiri Sekuritas  \n(bukti PT-21). Dengan demikian, oleh karena tidak ada modal atau \nsaham dari negara yang bersifat langsung yang jumlahnya sebagian \nbesar dimiliki oleh negara maka kedua bank tersebut tidak dapat \ndidefinisikan sebagai BUMN, melainkan berstatus anak perusaha an \nBUMN karena didirikan melalui penyertaan saham yang dimiliki oleh \nBUMN atau dengan kata lain modal atau saham kedua bank tersebut \nsebagian besar dimiliki oleh BUMN;",
+      "start_line": 522,
+      "end_line": 546
+    },
+    {
+      "heading": "13. Bahwa berdasarkan pertimbangan hukum Mahkamah Konstitusi",
+      "slug": "13-bahwa-berdasarkan-pertimbangan-hukum-mahkamah-konstitusi",
+      "text": "sebagaimana tersebut di atas, terdapat entitas subjek hukum  berbeda antara \nBUMN dengan Anak Perusahaan BUMN, di  mana keduanya dipisahkan \ndengan ada atau tidaknya Penyertaan Modal Secara Langsung yang \ndilakukan oleh Pemerintah , penyertaan Badan Usaha Milik Negara pada \nsuatu perseroan tidak serta merta menjadikan perseroan tersebut sebagai \nBadan Usaha Milik Negara, akan tetapi statusnya tetap sebagai anak \nperusahaan Badan Usaha Milik Negara;",
+      "start_line": 548,
+      "end_line": 554
+    },
+    {
+      "heading": "14. Bahwa selain itu, dalam perkara di atas, Dr. W. Riawan Tjandra, S.H.,",
+      "slug": "14-bahwa-selain-itu-dalam-perkara-di-atas-dr-w-riawan-tjandra-s-h",
+      "text": "M.Hum, dalam Salinan putusan  Mahkamah Konstitusi aquo memberikan \npendapat perbedaan antara BUMN dan anak perusahaan BUMN, yaitu: \n\n \n \n16 \n“maka, disinilah letak perbedaan antara BUMN dengan anak perusahaan \nBUMN, karena yang menentukan badan usaha itu merupakan BUMN \nadalah sebagian besar modal nya dimiliki oleh negara melalui penyertaan \nsecara langsung, sedangkan anak perusahaan BUMN didirikan melalui \npenyertaan saham milik negara pada BUMN pada BUMN lain sehingga \nsebagian saham dimiliki oleh BUMN lain yang menjadi anak perusahaan \nBUMN (penyerta an modal negara secara tak langsung). Dengan tafsir \ngramatikal dan teleologis dapat dikatakan di sini bahwa BUMN dengan anak \nperusahaan BUMN merupakan entitas hukum yang berbeda. Namun ada 2 \n(dua) kriteria secara bersyarat yang dapat memperlakukan anak \nperusahaan BUMN sama dengan BUMN yaitu, jika pada suatu saat: 1. \nMendapat penugasan Pemerintah atau melaksanakan pelayanan umum; \ndan/atau 2. Mendapatkan kebijakan khusus negara dan/atau Pemerintah, \ntermasuk dalam pengelolaan sumber daya alam dengan perlakuan tertentu \nsebagaimana diberlakukan bagi BUMN.”",
+      "start_line": 556,
+      "end_line": 576
+    },
+    {
+      "heading": "15. Bahwa dengan Putusan M ahkamah Konstitusi Nomor 01/PHPU -PRES/",
+      "slug": "15-bahwa-dengan-putusan-m-ahkamah-konstitusi-nomor-01-phpu-pres",
+      "text": "XVII/2019, anak perusahaan BUMN bukanlah BUMN. Regulasi putusan \ntersebut juga bermakna BUMN dan anak perusahaan BUMN merupakan \nentitas hukum yang berbeda dan terpisah dalam tata kelola, regulasi dan \nresikonya terhadap negara. Ini merupakan implikasi dari diputuskannya \nPutusan Mahkamah Konstitusi Nomor 01/PHPU-PRES/XVII/2019;",
+      "start_line": 578,
+      "end_line": 582
+    },
+    {
+      "heading": "16. Bahwa berdasarkan Putusan Mahkamah Konstitusi Nomor 01/PHPU-PRES/",
+      "slug": "16-bahwa-berdasarkan-putusan-mahkamah-konstitusi-nomor-01-phpu-pres",
+      "text": "XVII/2019 tersebut, permodalan Anak Perusahaan BUMN tidak dari negara \nmelainkan dari pemisahan kekayaan induk perusahaan, yaitu BUMN. \nPemisahan kekayaan itu menyebabkan anak perusahaan BUMN tidak \nmemiliki keterkaitan hubungan dengan negara. Sehingga apabila terjadi  \npenyelewengan di dalam anak perusahaan BUMN tidak merugikan keuangan \nnegara. Maka undang-undang yang diberlakukan bukan Undang-Undang \nTindak Pidana Korupsi, melainkan Undang-Undang Pidana Umum (KUHP);",
+      "start_line": 584,
+      "end_line": 590
+    },
+    {
+      "heading": "17. Bahwa Majelis Hakim Mahkamah Agung Republik Indonesia juga sudah",
+      "slug": "17-bahwa-majelis-hakim-mahkamah-agung-republik-indonesia-juga-sudah",
+      "text": "mengikuti Pertimbangan Mahkamah Konstitusi seb agaimana tercantum \ndalam halaman 37 Putusan Mahkamah Agung Republik Indonesia Perkara \nNomor 121 K/Pid.Sus/2020 tanggal 9 Maret 2020 atas nama Terdakwa Karen \nAgustiawan sebagai Berikut: \n “Bahwa alasan  kasasi Penuntut Umum tidak dapat dibenarkan \nkarena berat ringannya hukuman adalah kewenangan Judex Facti \ndan hukuman tambahan tidak dibebankan kepada Terdakwa \nkarena sejatinya  kerugian yang diderita oleh PT  Pertamina Hulu \n\n \n \n17 \nEnergi sebagai anak perusahaan PT Pertamina (Persero) bukanlah \nmerupakan kerugian keuangan negara yang rill (hanya merupakan \npenurunan nilai yang fluktuatif) dan sebagaimana Putusan \nMahkamah Konstitusi Nomor 01/PHPU -Pres/XVI/2019 tanggal 27 \nJuni 2019 menyatakan bahwa “Penyertaan dan penempatan modal \nBUMN dalam anak Perusahaan BUMN tidak menjadikan anak \nperusahaan menjadi BUMN”",
+      "start_line": 592,
+      "end_line": 610
+    },
+    {
+      "heading": "18. Bahwa terkait dengan adanya penyertaan modal yang dikeluarkan oleh",
+      "slug": "18-bahwa-terkait-dengan-adanya-penyertaan-modal-yang-dikeluarkan-oleh",
+      "text": "Pemerintah, Mahkamah K onstitusi di dalam Putusan Mahkamah Konstitusi \nNomor 77/PUU-IX/2011 yang di putus Pada Tanggal 25 September 2012 \ndengan Pertimbangan Hukum Sebagai berikut: \n[3.17] Menimbang bahwa berdasarkan Undang-Undang Nomor 19 Tahun \n2003 tentang Badan Usaha Milik Negara (selanjutnya disebut UU BUMN), \nPasal 1 angka 1 dan angka 10 menyatakan bahwa Badan Usaha Milik \nNegara adalah badan usaha yang seluruh atau sebagian besar modalnya \ndimiliki oleh negara melalui penyertaan secara langsung yang berasal dari \nkekayaan negara yang dipisahkan, yaitu kekayaan negara yang berasal \ndari Anggaran Pendapat an dan Belanja Negara (APBN) untuk dijadikan \npenyertaan modal negara pada Persero dan/atau Perum serta perseroan \nterbatas lainnya. Dengan demikian BUMN adalah badan usaha yang \nmemiliki kekayaan terpisah dari kekayaan negara, sehingga kewenangan \npengurusan kekayaan, usaha, termasuk penyelesaian utang-utang BUMN \ntunduk pada hukum perseroan terbatas berdasarkan Undang -Undang \nNomor 40 Tahun 2007 tentang Perseroan Terbatas (selanjutnya disebut \nUU PT);",
+      "start_line": 612,
+      "end_line": 628
+    },
+    {
+      "heading": "19. Bahwa terhadap Putusan Mahkamah Konstitusi Republik Indonesia Nomor",
+      "slug": "19-bahwa-terhadap-putusan-mahkamah-konstitusi-republik-indonesia-nomor",
+      "text": "01/PHPU-PRES/XVII/2019, tidak harus dimaknai bertentangan dengan \nPutusan Mahkamah Konstitusi Nomor 48/PUU -XI/2013 dan Putusan \nMahkamah Konstitusi Nomor 62/PUU-XI/2013 yang menegaskan Keuangan \nNegara yang dikelola oleh BUMN tetap terletak di ranah keuangan negara, \nkarena apabila kita telaah lebih jauh kedua putusan terdahulu belum \nmengatur secara eksplisit status keuangan yang dikelola oleh BUMN yang \nmelakukan penyertaan modal terhadap Anak Perusahaan BUMN, belum ada \n\n \n \n18 \npula ketentuan anak perusahaan BUMN sebagaimana yang diperlakukan \nsama dengan BUMN sehingga termasuk di dalam keuangan Negara;",
+      "start_line": 630,
+      "end_line": 642
+    },
+    {
+      "heading": "20. Bahwa dalam rangka mengisi kekosongan hukum tersebut, Pemerintah",
+      "slug": "20-bahwa-dalam-rangka-mengisi-kekosongan-hukum-tersebut-pemerintah",
+      "text": "sebenarnya telah mengeluarkan  Peraturan Pemerintah Nomor  72 Tahun \n2016 tentang Perubahan atas P eraturan Pemerintah Nomor 44 Tahun 2005 \ntentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada \nBadan Usaha Milik Negara dan Perseroan Terbatas, sehingga menjadi jelas \nkriteria dan syarat Anak Perusahaan BUMN yang diperlakukan sama dengan \nBUMN;",
+      "start_line": 644,
+      "end_line": 649
+    },
+    {
+      "heading": "21. Bahwa di dalam Peraturan Pemerintah Republik Indonesia Nomor 72 Tahun",
+      "slug": "21-bahwa-di-dalam-peraturan-pemerintah-republik-indonesia-nomor-72-tahun",
+      "text": "2016 tentang Perubahan Atas Peraturan Pemerintah Nomor 44 Tahun 2005 \ntentang Tata Cara Penyertaan Dan Penatausahaan Modal Negara Pada \nBadan Usaha Milik Negara Dan Perseroan Terbatas, di  mana di dalam \nKetentuan Pasal 2A, mengatur ketentuan sebagai berikut: \n(1) Penyertaan Modal Negara yang berasal dari kekayaan negara berupa \nsaham milik negara pada BUMN atau Perseroan Terbatas sebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf d kepada BUMN atau Perseroan \nTerbatas lain, dilakukan oleh Pemerintah Pusat tanpa melalui \nmekanisme Anggaran Pendapatan dan Belanja Negara;  \n(2) Dalam hal kekayaan negara berupa saham milik negara pada BUMN \nsebagaimana dimaksud dalam Pasal 2 ayat (2) huruf d dijadikan \npenyertaan modal negara pada BUMN lain sehingga sebagian besar \nsaham dimiliki oleh BUMN lain, maka BUMN tersebut menjadi anak \nperusahaan BUMN dengan ketentuan negara wajib memiliki saham \ndengan hak istimewa yang diatur dalam anggaran dasar;  \n(3) Kekayaan Negara sebagaimana dimaksud dalam Pasal 2 ayat (2) yang \ndijadikan penyertaan modal negara pada BUMN atau Perseroan \nTerbatas, bertransformasi menjadi saham/modal negara pada BUMN \natau Perseroan Terbatas tersebut;  \n(4) Kekayaan negara yang bertransformasi sebagaimana dimaksud pada \nayat (3), menjadi kekayaan BUMN atau Perseroan Terbatas tersebut;  \n(5) Kepemilikan atas saham/modal negara pada BUMN atau Perseroan \nTerbatas dicatat sebagai investasi jangka panjang sesuai dengan \n\n \n \n19 \npresentase kepemilikan Pemerintah pada BUMN atau Perseroan \nTerbatas; \n(6) Anak perusahaan BUMN sebagaimana dimaksud pada ayat (2), \nkepemilikan sebagian besar saham tetap dimiliki oleh BUMN lain \ntersebut;  \n(7) Anak perusahaan BUMN sebagaimana dimaksud pada ayat (2) \ndiperlakukan sama dengan BUMN untuk hal sebagai berikut:  \na. Mendapatkan penugasan Pemerintah atau melaksanakan \npelayanan umum; dan/atau  \nb. Mendapatkan kebijakan khusus negara dan/atau Pemerintah, \ntermasuk dalam pengelolaan sumber daya alam dengan perlakuan \ntertentu sebagaimana diberlakukan bagi BUMN;",
+      "start_line": 651,
+      "end_line": 689
+    },
+    {
+      "heading": "22. Bahwa berdasarkan ketentuan Pasal 2A PP Nomor 72 Tahun 2016",
+      "slug": "22-bahwa-berdasarkan-ketentuan-pasal-2a-pp-nomor-72-tahun-2016",
+      "text": "sebagaimana tersebut di  atas, Pemerintah sebenarnya mengehendaki \nadanya pengelolaan terpisah antara keuangan negara dengan BUMN, \nsebagaimana ketentuan ayat (4) yang menyatakan harta benda yang sudah \ndiserahkan ked alam BUMN menjadi harta benda milik dari BUMN, karena \nyang dicatat dalam keuangan negara bukan lagi jumlah yang disetorkan, \nmelainkan jumlah kepemilikan sahamnya sehingga mengenai keuntungan \ndan kerugian BUMN tidak dicatat dalam keuangan negara;",
+      "start_line": 691,
+      "end_line": 697
+    },
+    {
+      "heading": "di Indonesia belum dapat memberlakukan prinsip hukum Lex specialis",
+      "slug": "di-indonesia-belum-dapat-memberlakukan-prinsip-hukum-lex-specialis",
+      "text": "derogat legi generali , karena penegak h ukum ketika melihat peluang untuk \nmelakukan penafsiran atas suatu ketentuan terutama ketentuan pidana,  \nsecara serta-merta akan menafsirkan untuk memberlakukan hukum pidana \ndengan hukuman pidana yang seberat -beratnya sebagai sebuah  bentuk \n“prestasi”,  sehingga semangat untuk mempidanakan lebih besar ketimbang \nmenegakan hukum sesuai dengan ketentuan yang berlaku;",
+      "start_line": 700,
+      "end_line": 705
+    },
+    {
+      "heading": "24. Bahwa Menurut pendapat Prof. Dr. Eddy O.S Hiariej, S.H., M.Hum di dalam",
+      "slug": "24-bahwa-menurut-pendapat-prof-dr-eddy-o-s-hiariej-s-h-m-hum-di-dalam",
+      "text": "Putusan Mahkamah Konstitusi Nomor 25/PUU -XIV/2016 hal . 35, \nmemberikan pendapatnya mengenai suatu delik terdapat delik sebagai \nTatbestandmassigkeit dan delik sebagai  weseschau, secara sederhana \ntatbestandmassigkeit dapat diartikan sebagai perbuatan yang memenuhi \n\n \n \n20 \nunsur delik yang dirumuskan, sedangkan wesenschau mengandung makna \nsuatu perbuatan dikatakan telah memenuhi unsur delik tidak hanya karena \nperbuatan tersebut telah sesuai dengan rumusan delik tetapi perbuatan \ntersebut juga di maksudkan oleh pembentuk undang -undang, meskipun \ndemikian dalam prakteknya seringkali para pene gak hukum tidak \nmelaksanakan ketentuan tersebut dengan tetap memberikan hukuman \nmeskipun hal tersebut bukan merupakan perbuatan tindak pidana;",
+      "start_line": 707,
+      "end_line": 721
+    },
+    {
+      "heading": "25. Bahwa hal tersebut dapat terlihat dalam penanganan tindak pidana korupsi",
+      "slug": "25-bahwa-hal-tersebut-dapat-terlihat-dalam-penanganan-tindak-pidana-korupsi",
+      "text": "beberapa tahun belakang ini , di mana semangat menghukum dengan delik \nperbuatan tindak pidana korupsi lebih besar , ketimbang memberlakukan \nundang-undang yang  seharusnya mengatur tindakan tersebut, seperti \nmisalnya yang dilanggar adalah per aturan internal perusahaan . \nSebagaimana yang terjadi dalam perkara tindak pidana korupsi PT jiwasraya \n(BUMN), perkara tindak pidana korupsi PT Danareksa Sekuritas (Anak \nperusahaan BUMN), Dapen Pertamina (Bukan BUMN dan Bukan Anak \nPerusahaan BUMN), perkara Dapen PKT (Anak Perusahaan BUMN);",
+      "start_line": 723,
+      "end_line": 730
+    },
+    {
+      "heading": "26. Bahwa dari beberapa contoh penanganan tindak pidana korupsi",
+      "slug": "26-bahwa-dari-beberapa-contoh-penanganan-tindak-pidana-korupsi",
+      "text": "sebagaimana tersebut di atas, dan dengan Badan Pemeriksa Keuangan yang \nmenafsirkan tugas dan wewenang nya secara umum , hal ini akan berakibat \npada timbulnya  ketidakpastian h ukum.  A pabila ini dibiarkan secara terus \nmenerus tanpa ada tafsir yang jelas dan pasti atas kewenangan BPK \nsebagaimana tercantum di  dalam Pasal 6 ayat (1) dan Pasal 10 Ayat (1) \nUndang-Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa Keuangan \nRepublik Indonesia, di mana BPK seakan memiliki ruang lingkup yang sangat \nluas, pada akhirnya semua akan  dinyatakan menjadi kerugian negara dan \nsemua akan menjadi tindak pidana korupsi pada akhirnya;",
+      "start_line": 732,
+      "end_line": 740
+    },
+    {
+      "heading": "27. Bahwa meskipun terdapat beberapa Putusan Mahkamah Agung Republik",
+      "slug": "27-bahwa-meskipun-terdapat-beberapa-putusan-mahkamah-agung-republik",
+      "text": "Indonesia baik dalam tingkat kasasi maupun permohonan peninjauan \nkembali yang pada akhirnya memperbaiki Putusan Pengadilan Negeri dan \nPengadilan Tinggi seperti dalam Putusan Mahkamah Agung Republik \nIndonesia Nomor 121K/Pid.Sus/2020 tanggal 9 Maret 2020 atas nama \nTerdakwa Karen Agustiawan (mantan Direktur Utama Pertam ina), Putusan \nMahkamah Agung Nomor  3849/K/Pid.Sus/2019 tanggal 2 Desember 2019 \n\n \n \n21 \natas nama Terdakwa Ferederick ST Siahaan  (mantan Direktur Keuangan \nPertamina), Putusan Mahkamah Agung dalam Perkara Nomor 1555 \nK/Pid.Sus/2019, akan tetapi terdakwa harus dirampas kemerdekaannya dan \nmenempuh proses serta tahapan yang panjang untuk mendapatkan keadilan \natas suatu hal yang sejak awal dapat dinyatakan secara tegas dan pasti \nbahwa perbuatan tersebut bukan merupakan tindak pidana korupsi;",
+      "start_line": 742,
+      "end_line": 757
+    },
+    {
+      "heading": "28. Bahwa dalam pertimbangan hukum Majelis hakim Mahkamah Agung yang",
+      "slug": "28-bahwa-dalam-pertimbangan-hukum-majelis-hakim-mahkamah-agung-yang",
+      "text": "memeriksa dan mengadili perkara Nomor 121 K/Pid.Sus/2020 atas Terdakwa \nKaren Agustiawan, memberikan beberapa pertimbangan terkait Anak \nPerusahaan BUMN sebagai berikut: \n- Bahwa Penyertaan dan penempatan modal BUMN dalam anak \nPerusahaan BUMN tidak serta merta menjadikan anak perusahaan \nmenjadi BUMN  Sebagaimana tercantum didalam halaman 37 Putusan \nMahkamah Agung Republik Indonesia Nomor 121 K/Pid.Sus sebagai \nBerikut: \n “Bahwa alasan kasasi Penuntut Umum tid ak dapat dibenarkan \nkarena berat ringannya hukuman adalah kewenangan Judex \nFacti dan hukuman tambahan tidak dibebankan kepada \nTerdakwa karena sejatinya kerugian yang diderita oleh                \nPT Pertamina Hulu En ergi sebagai anak perusahaan                   \nPT Pertamina (Persero) bukanlah merupakan kerugian \nkeuangan negara yang rill (hanya merupakan penurunan nilai \nyang fluktuatif) dan sebagaimana Putusan Mahkamah \nKonstitusi Nomor 01/PHPU -Pres/XVI/2019 tanggal 27 Juni \n2019 menyatakan bahwa “Penyertaan dan penempatan modal \nBUMN dalam anak Perusahaan BUMN tidak menjadikan anak \nperusahaan menjadi BUMN” \n- Bahwa terkait dengan kerugian yang dialami oleh anak perusahaan \nBUMN tidak serta merta dapat digolongkan ke  dalam kerugian \nkeuangan negara  Sebagaimana tercantum di  dalam pertimbangan \nhukum pada halaman 38 Putusan Mahkamah Agung Republik Indonesia \nNomor 121 K/Pid.Sus Sebagai Berikut: \n\n \n \n22 \n“Bahwa Keuangan Anak Perusahaan BUMN tidak termasuk \nkeuangan negara sebagaiamana Putusan Mahkamah Konstitusi \nNomor 01/PHPU -Pres/XVI/2019 tanggal 27 Juni 2019 sehingga  \nkerugian yang dialami oleh PT Pertamina Hulu Ene rgi sebagai \nanak Perusahaan PT Pertamina (Persero) bukanlah Kerugian \nKeuangan Negara oleh karena PT. Pertamina Hulu Energi sebagai \nanak Perusahaan PT Pertamina tida k tunduk kepada Undang -\nUndang Nomor 17 tahun 2003 tentang Keuangan Negara dan \nUndang-Undang Nomor 19 tahun 2003 tentang BUMN” \n- Bahwa adanya kerugian yang dialami oleh PT Pertamina Hulu Energi \n(PT PHE) dalam melakukan kegiatan bisnis merupakan Resiko Bisnis,  \nSebagaimana tercantum didalam halaman 38 Putusan Mahkamah \nAgung Republik Indonesia Nomor 121 K/Pid.Sus, sebagai berikut: \nBahwa adalah fakta ( Notoire Feiten) bahwa Oil Company penuh \ndengan resiko karena tidak ada parameter yang pasti untuk \nmenentukan berhasil atau gagalnya suatu explorasi sehingga apa \nyang terjadi di Blok BMG Australia sebagaimana yang idalami oleh \nseluruh perusahaan migas dunia merupakan hal yang lumrah \nsehingga Adagium no risk no business berlaku lebih nyata. \n- Bahwa perbuatan yang dil akukan oleh Terdakwa Karen Agustiawan, \nmerupakan Pengejawantahan dari prinsip Business Judgment Rule  \nyang dilakukan semata -mata demi kepentingan perusahaan sehingga \ntidak dapat dituntut secara pidana,  Sebagaimana tercantum di  dalam \nhalaman 38 Putusan Mahkamah Agung Republik Indonesia Nomor 121 \nK/Pid.Sus, sebagai berikut: \n“Bahwa yang dilakukan oleh Terdakwa dan jajaran Direksi PT  \nPertamina lainnya semata -mata dalam rangka mengembangkan \nPT Pertamina yakni berupaya menambah cadangan migas \nsehingga Langkah-langkah yang dilakukan oleh Terdakwa selaku \nDirektur Utama PT Pertamina dan Komisaris Utama PT Pertamina \nHulu Energi tidak keluar dari ranah Business Judgment Rule , \nditandai tiadanya unsur kecurangan ( Freud), benturan \nkepentingan (conflict of interest), perbuatan melawan hukum dan \nkesalahan yang disengaja”. \n\n \n \n23 \n- Bahwa majelis Hakim dalam pertimbangan hukumnya menilai Terdakwa \nKaren Agustiawan terbukti melakukan Perbuatan sebagaimana \ndidakwakan dalam dakwaan penuntut umum, tetapi perbuatan tersebut \nbukan merupakan suatu tindak pidana.",
+      "start_line": 759,
+      "end_line": 829
+    },
+    {
+      "heading": "di dalam website Mahkamah Agung yang mencantumkan hasil penelitian",
+      "slug": "di-dalam-website-mahkamah-agung-yang-mencantumkan-hasil-penelitian",
+      "text": "putusan terkait dengan kekayaan negara yang dipisahkan dengan",
+      "start_line": 832,
+      "end_line": 832
+    },
+    {
+      "heading": "di antaranya mencantumkan sebagai berikut: “Bahwa diperlukan sosialisasi",
+      "slug": "di-antaranya-mencantumkan-sebagai-berikut-bahwa-diperlukan-sosialisasi",
+      "text": "yang meluas dan dengan berbagai macam cara dan bentuk untuk \nmenegaskan kembali arti dan makna uang negara serta kerugian negara \nsecara benar dan dapat diterima secara akademis, bahwa secara ilmiah dan \nuniversal kekayaan negara yang dipisahkan adalah bukan lagi sebagai uang \nNegara dengan segala konsekwensinya yang harus dianut dan ditaati. Juga \nperlu didorong keberanian para hakim untuk memulai secara professional , \nuntuk memberi putusan-putusan yang mendukung pemahaman atas makna \nuang Negara/kerugian Negara secara benar. Bahwasannya kekayaan \nNegara/uang Negara yang dipisahkan adalah bukan uang negara , dengan \nakibat hukum harus membebaskan seseorang sekalipun, bila nyata -nyata \nklaim pemidanaan tersebut atas kekayaan Negara yang telah dipisahkan \natau dalam sebuah BUMN” (Sumber:https://bldk.mahkamahagung.go.id/ \nid/puslitbang-id/dok-keg-puslitbang-id/762-interpretasi-tentang-makna-uang-\nnegara-dan-kerugian-negara-dalam-perkara-pidana-korupsi-terkait-bumn);",
+      "start_line": 834,
+      "end_line": 847
+    },
+    {
+      "heading": "30. Bahwa di dalam Surat Edaran Mahkamah Agung Republik Indonesia Nomor",
+      "slug": "30-bahwa-di-dalam-surat-edaran-mahkamah-agung-republik-indonesia-nomor",
+      "text": "10 Tahun 2020 tentang Pemberlakukan Rumusan Hasil Rapat Pleno kamar \nMahkamah Agung Tahun 2020 Sebagai Pedoman pelaksanaan Tugas Bagi \nPengadilan huruf A mengenai Rumusan Kamar Pidana, dalam Point ke 4 \ndisebutkan; “Kerugian ya ng timbul pada anak perusahaan BUMN/BUMD \nyang modalnya bukan bersumber dari APBN/APBD atau bukan Penyertaan \nmodal dari BUMN/BUMD dan tidak menerima/menggunakan fasilitas negara, \nbukan termasuk keuangan negara”;",
+      "start_line": 849,
+      "end_line": 855
+    },
+    {
+      "heading": "31. Bahwa keluarnya Surat Edaran Mahkamah Agung Republik Indonesia Nomor",
+      "slug": "31-bahwa-keluarnya-surat-edaran-mahkamah-agung-republik-indonesia-nomor",
+      "text": "10 Tahun 2020 di  dalam kamar pidana , tentu seharus dimaknai dengan \nadanya ketentuan Putusan Mahkamah Konstitusi Nomor 01/PHPU -\n\n \n \n24 \nPres/XVI/2019 tanggal 27 Juni 2019, yang telah dikuti oleh Mahkamah Agung \nRepublik Indonesia didalam Putusan Nomor 121 K/Pid.Sus/2020 Atas Nama \nTerdakwa Ir. Galaila Karen Kardinah Alias Karen Galaila Agustiawan Alias \nKaren Agustiawan dan Putusan Mahkamah  Agung Republik Indonesia \nNomor: 3849 K/Pid.Sus/2019 Atas nama Terdakwa Ferederick St Siahaan \nyang pada Poko knya Anak Perusahaan BUMN tidak dapat dipersamakan \ndengan BUMN, sehingga Kerugian Anak perusahaan BUMN bukanlah \nmerupakan Kerugian Negara;",
+      "start_line": 857,
+      "end_line": 870
+    },
+    {
+      "heading": "32. Bahwa dengan adanya Surat Edaran Mahkamah Agung Republik Indonesia",
+      "slug": "32-bahwa-dengan-adanya-surat-edaran-mahkamah-agung-republik-indonesia",
+      "text": "Nomor 10 Tahun 2020 dapat menjadi acuan dalam melakukan penafsiran \nterhadap ketentuan kerugian Anak Perusahaan BUMN yang bukan \nmerupakan Negara, terkecuali bagi anak perusahaan BUMN yang \ndiperlakukan sama dengan BUMN sebagaimana ketentuan yang terdapat \ndidalam Pasal 2A ay at (7)  Peraturan Pemerintah N omor 72 Tahun 2016 \ntentang Perubahan atas Peraturan Pemerintah Nomor  44 Tahun 2005 \ntentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada \nBadan Usaha Milik Negara dan Perseroan Terbatas;",
+      "start_line": 872,
+      "end_line": 879
+    },
+    {
+      "heading": "33. Bahwa di dalam Ketentuan Peraturan Pemerintah Nomor 72 Tahu n 2016",
+      "slug": "33-bahwa-di-dalam-ketentuan-peraturan-pemerintah-nomor-72-tahu-n-2016",
+      "text": "tentang Perubahan atas Peraturan Pemerintah Nomor  44 Tahun 2005 \ntentang Tata Cara Penyertaan dan Penatausahaan Modal Negara pada \nBUMN mengatur ketentuan sebagai berikut: \n(7) Anak perusahaan BUMN sebagaimana dimaksud pada ayat (2) \ndiperlakukan sama dengan BUMN untuk hal sebagai berikut:  \na. Mendapatkan penugasan Pemerintah atau melaksanakan \npelayanan umum; dan/atau  \nb. Mendapatkan kebijakan khusus negara dan/atau Pemerintah, \ntermasuk dalam pengelolaan sumber daya alam dengan \nperlakuan tertentu sebagaimana diberlakukan bagi BUMN;",
+      "start_line": 881,
+      "end_line": 890
+    },
+    {
+      "heading": "34. Bahwa meskipun demikian BPK RI dalam melakukan tugas dan",
+      "slug": "34-bahwa-meskipun-demikian-bpk-ri-dalam-melakukan-tugas-dan",
+      "text": "wewenangnya berdasarkan ketentuan pasal 6 ayat (1) juncto Pasal 10 ayat \n(1) Undang-Undang nomor 15 Tahun Tahun 2006 tentang Badan pemeriksa \nKeuangan Republik Indonesia, yang tetap melakukan pemeriksaan terhadap \nanak perusahaan BUMN dan atau badan Usaha yang mengelola Keuangan \n\n \n \n25 \nKaryawan BUMN seperti dana pensiun Pertamina, dan menganggap ada \nkerugian negara dalam kegiatan tersebut karena ada pelanggaran peraturan \ninternal perusa haan sehingga dianggap melakukan perbuatan melawan \nhukum dan dipidana dengan perbuatan tindak pidana korupsi;",
+      "start_line": 892,
+      "end_line": 903
+    },
+    {
+      "heading": "35. Bahwa Tindakan Pemeriksaan BPK RI terhadap anak perusahaan BUMN",
+      "slug": "35-bahwa-tindakan-pemeriksaan-bpk-ri-terhadap-anak-perusahaan-bumn",
+      "text": "atau badan usaha yang mengelola keuangan karyawan BUMN yang tidak \ntermasuk di  dalam Peraturan Pemerintah Nomor  72 Tahun 2016, telah \nmenimbulkan ketidak pastian hukum dan telah secara nyata bertentangan \ndengan jaminan bahwa setiap orang berhak atas rasa aman perlindungan \ndari ancaman ketakutan sebagaimana ditentukan dalam Pasal 28G ayat ( 1) \nUUD 1945, selain itu pemeriksaan yang dilakukan BPK RI juga, bertentangan \ndengan Prinsip Perumusan Tindak Pidana yang harus memenuhi prinsip \nhukum tertulis (Lex Scripta), harus ditafsirkan seperti dibaca (Lex Stricta) dan \ntidak Multitafsir (Lex Certa)  oleh karenanya bertentangan dengan prinsip \nnegara hukum sebagaimana ditentukan dalam Pasal 1 ayat (3) UUD 1945;",
+      "start_line": 905,
+      "end_line": 914
+    },
+    {
+      "heading": "36. Bahwa pemeriksaan dan p erhitungan BPK RI seharusnya menjadi peran",
+      "slug": "36-bahwa-pemeriksaan-dan-p-erhitungan-bpk-ri-seharusnya-menjadi-peran",
+      "text": "penting dalam menentukan ada atau tidaknya kerugian negara dalam suatu \nperbuatan bukan justru dipakai untuk mengaminkan adanya suatu tindak \npidana sehingga atas adanya perhitungan BPK RI tersebut kemudian \nmenjadi perbuatan tindak pidana korupsi, terlebih setelah adanya  Putusan \nMahkamah Konstitu si Nomor 25/PUU-XIV/2016, di mana unsu r merugikan \nkeuangan negara tidak lagi dipahami sebagai perkiraan ( potential loss ) \nnamun harus dipahami benar-benar sudah terjadi atau nyata (actual loss);",
+      "start_line": 916,
+      "end_line": 922
+    },
+    {
+      "heading": "37. Bahwa berdasarkan hal tersebut Pemohon merasa dirugikan hak",
+      "slug": "37-bahwa-berdasarkan-hal-tersebut-pemohon-merasa-dirugikan-hak",
+      "text": "konstitusionalnya untuk memperoleh perli ndungan, kepastian hukum, dan \nperlakuan yang sama di hadapan hukum serta merasa dirugikan hak \nkonstitusionalnya sebagai akibat dari tindakan BPK RI yang melakukan \npemeriksaan meskipun bukan merupakan tugas dan wewenanganya, hal ini \nmengingat pada saat dila kukan pemeriksaan Pemohon bukan merupakan \npejabat negara, Bukan pegawai BUMN dan bukan mengelola keuangan \nnegara;",
+      "start_line": 924,
+      "end_line": 930
+    },
+    {
+      "heading": "38. Bahwa atas hal tersebut ketentuan frasa “Lembaga atau badan lain yang",
+      "slug": "38-bahwa-atas-hal-tersebut-ketentuan-frasa-lembaga-atau-badan-lain-yang",
+      "text": "mengelola keuangan negara” dalam Pasal 6 ayat (1)  juncto frasa “lembaga \n\n \n \n26 \natau badan lain yang menyelenggarakan pengelolaan keuangan negara”  \ndalam Pasal 10 ayat (1) Undang -Undang Nomor 15 Tahun 2006 tentang \nBadan Pemeriksa Keuangan, sepanjang tidak dimaknai sebagai Adanya \nPenyertaan Modal Secara Langsung yang diberikan oleh peme rintah baik \npemerintah pusat maupun pemerintah daerah, mendapatkan tugas untuk \nmengelola sumber daya alam atau kepentingan umam, mendapatkan fasilitas \nnegara dalam mengelola keuangan negara maka demi kepastian hukum \nharus dinyatakan bertentangan dengan Pasal 1 ayat (3), Pasal 28D ayat (1) \ndan Pasal 28G ayat (1) Undang-Undang Dasar Republik Indonesia 1945; \nIV. PETITUM \nBahwa dari seluruh dalil-dalil yang diuraikan di atas dan bukti-bukti terlampir, \ndengan ini Pemohon mengajukan permohonan kepada  yang Mulia M ajelis \nHakim Mahkamah Konstitusi, agar kiranya dapat berkenan memberikan \nputusan sebagai berikut: \nDalam Pokok Permohonan",
+      "start_line": 932,
+      "end_line": 951
+    },
+    {
+      "heading": "2. Menyatakan frasa “lembaga atau badan lain yang mengelola keuangan",
+      "slug": "2-menyatakan-frasa-lembaga-atau-badan-lain-yang-mengelola-keuangan",
+      "text": "negara” dalam Pasal 6 ayat (1) juncto frasa “lembaga atau badan lain yang \nmenyelenggarakan pengelolaan keuangan negara”  dalam Pasal 10 ayat \n(1) Undang -Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa \nKeuangan Republik Indonesia Bertentangan dengan Pasal 1 ayat (3), \nPasal 28D ayat (1) dan Pasal 28G ayat (1) Undang -Undang dasar 1945, \nserta tidak mempunyai kekuatan hukum mengikat , sepanjang tidak \ndimaknai sebagai adanya penyertaan modal Pemerintah Pusat/Daerah \nsecara langsung terhadap BUMN/BUMD, mendapatkan penugasan \nsecara langsung dari Pemerintah untuk mengelola Sumber Daya Alam \natau melaksanakan pelayanan umum atau Mendapatkan fasilitas dari \npemerintah untuk mengelola keuangan negara;",
+      "start_line": 954,
+      "end_line": 964
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam berita Negara Republik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik",
+      "text": "Indonesia sebagaimana mestinya. \nApabila mahkamah berpendapat lain mohon putusan seadil -adilnya ( ex \naequo et bono). \n\n \n \n27 \n[2.2] Menimbang bahwa untuk me nguatkan dalilnya, Pemohon telah \nmengajukan alat bukti surat/tulisan yang diberi tanda bukti P-1 sampai dengan bukti \nP-3 yang telah disahkan dalam persidangan, sebagai berikut:",
+      "start_line": 966,
+      "end_line": 975
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi NPWP atas nama Pemohon dan Myrna D. Armaya",
+      "slug": "2-bukti-p-2-fotokopi-npwp-atas-nama-pemohon-dan-myrna-d-armaya",
+      "text": "(istri);",
+      "start_line": 978,
+      "end_line": 978
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Nomor 15 Tahun 2006 tentang",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-nomor-15-tahun-2006-tentang",
+      "text": "Badan Pemeriksa Keuangan; \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 980,
+      "end_line": 983
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Udang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD 1945), Pasal 10 \nayat (1) huruf a Undang -Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi s ebagaimana telah diubah  terakhir dengan Undang -Undang Nomor 7 \nTahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 \nNomor 216, Tambahan Lembaran Negara Republik  Indonesia Nomor 6554 , \nselanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor \n48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk menguji undang -undang \nterhadap UUD 1945; \n[3.2]   Menimbang bahwa oleh karena permohonan Pemohon adalah \npermohonan untuk menguji konstitusionalitas norma undang -undang, in casu  \nUndang-Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa Keuangan  \n\n \n \n28 \n(Lembaran Negara Republik Indonesia Tahun 2006 Nomor 85, Tambahan \nLembaran Negara Republik Indonesia Nomor 4654 , selanjutnya di sebut UU \n15/2006) terhadap UUD 1945, maka Mahkamah berwenang mengadili permohonan \na quo; \nKedudukan Hukum Pemohon \n[3.3]   Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undang -undang \nterhadap UUD 1945 adalah mereka yang menganggap hak dan/atau kewenangan \nkonstitusionalnya yang diberikan oleh UUD 1945 dirugikan oleh berlakunya suatu \nundang-undang, yaitu: \na.  perorangan warga negara Indonesia (termasuk kelompok orang yang    \nmempunyai kepentingan sama); \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik Indonesia \nyang diatur dalam undang-undang;",
+      "start_line": 985,
+      "end_line": 1020
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang -undang terhadap \nUUD 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional ya ng diberikan \noleh UUD 1945 yang diakibatkan oleh berlakunya undang -undang yang \ndimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada huruf a; \n[3.4]  Menimbang bahwa Mahkamah sejak Putusan  Mahkamah Konstitusi  \nNomor 006/PUU-III/2005 tanggal 31 Mei 2 005 dan Putusan Mahkamah Konstitusi \nNomor 11/PUU -V/2007 tanggal 20 September 2007 serta putusan -putusan \nselanjutnya, telah berpendirian bahwa kerugian hak dan/atau kewenangan \nkonstitusional sebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK harus \nmemenuhi 5 (lima) syarat, yaitu: \n\n \n \n29 \na.  adanya hak dan/atau kewenangan konstitusional para Pemohon yang diberikan \noleh UUD 1945; \nb.  hak dan/atau kewenangan konstitusional tersebut oleh para Pemohon dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1023,
+      "end_line": 1043
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (khusus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-khusus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1045,
+      "end_line": 1046
+    },
+    {
+      "heading": "d. adanya hubungan sebab -akibat antara kerugian dimaksud dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi; \n[3.5]  Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat -syarat kerugian hak dan/atau kewenangan konstitusional \nsebagaimana diuraikan di atas, selanjutnya Mahkamah akan mempertimbangkan \nkedudukan hukum Pemohon sebagai berikut:",
+      "start_line": 1048,
+      "end_line": 1054
+    },
+    {
+      "heading": "1. Bahwa norma undang-undang yang dimohonkan pengujian dalam permohonan",
+      "slug": "1-bahwa-norma-undang-undang-yang-dimohonkan-pengujian-dalam-permohonan",
+      "text": "a quo adalah frasa “lembaga atau badan lain yang mengelola keuangan negara” \ndalam Pasal 6 ayat (1) juncto frasa “lembaga atau badan lain yang \nmenyelenggarakan pengelolaan keuangan negara” dalam Pasal 10 ayat (1) UU \n15/2006, yang menyatakan sebagai berikut: \nPasal 6 ayat (1) \nBPK bertugas memeriksa pengelolaan dan tanggung jawab keuangan \nnegara yang dilakukan oleh Pemerintah Pusat, Pemerintah Daerah, \nLembaga Negara lainnya, Bank Indonesia, Badan Usaha Milik Negara, \ndan lembaga atau badan lain yang mengelola keuangan negara. \nPasal 10 ayat (1) \nBPK menilai dan/atau menetapkan jumlah kerugian negara yang \ndiakibatkan oleh perbuatan melawan hukum baik sengaja maupun lalai \nyang dilakukan oleh bendahara, pengelola Badan Usaha Milik Negara/ \nBadan Usaha Milik Daerah, dan lembaga atau badan lain yang \nmenyelenggarakan pengelolaan keuangan negara.",
+      "start_line": 1056,
+      "end_line": 1070
+    },
+    {
+      "heading": "2. Bahwa Pemohon, Muhammad Helmi Kamal, dalam kualifikasinya sebagai",
+      "slug": "2-bahwa-pemohon-muhammad-helmi-kamal-dalam-kualifikasinya-sebagai",
+      "text": "perseorangan warga negara Indonesia, menganggap hak konstitusionalnya \nsebagaimana diatur dalam Pasal 1 ayat (3), Pasal 28D ayat (1), dan Pasal 28G \nayat (1) UUD 1945, potensial dirugikan oleh berlakunya norma undang-undang \n\n \n \n30 \nyang dimohonkan pengujian dengan penjelasan yang pada pokoknya sebagai \nberikut: \na. Bahwa Pemohon sejak Agustus 2013 ditunjuk sebagai Presiden Direktur \nDana Pensiun Pertamina (DP Pertamina) kemudian berhenti sejak 12 \nJanuari 2016, dan saat ini sedang menjalani hukuman karena dianggap \ntelah melakukan perbuatan tindak pidana korupsi, padahal selama \nmenjabat, hasil pemeriksaan (audit) terhadap DP Pertamina tel ah \nmendapatkan status Opini Wajar Tanpa Pengecualian pada tahun buku \n2014 dan 2015 berdasarkan hasil pemeriksaan dari Kantor Akuntan Publik; \nb. Bahwa pemeriksaan Badan Pemeriksa Keuangan (BPK) dan tuduhan \nkorupsi keuangan negara terhadap DP Pertamina yang dialamatkan kepada \nPemohon bermula dari adanya pemeriksaan investigatif terhadap DP \nPertamina, khususnya terkait dengan pembelian saham PT Sugih Energy, \nTbk (saham SUGI) di BEI dan adanya pemahaman BPK mengenai \nkekayaan DP Pertamina adalah bagian dari keka yaan negara dan/atau \nkeuangan negara. P adahal kekayaan DP Pertamina antara lain dihimpun \ndari iuran pemberi kerja, sedangkan kekayaan DP Pertamina te rpisah dari \nkekayaan pendirinya  maka dalam pemeriksaan dan pengawasan teknis \ndilakukan oleh Otoritas Jasa K euangan (OJK), sedangkan pemeriksaan \nkeuangan internal dilakukan oleh akuntan publik dan bukan BPK;",
+      "start_line": 1072,
+      "end_line": 1098
+    },
+    {
+      "heading": "c. Bahwa kewenangan BPK diatur berdasarkan Pasal 6 ayat (1) dan Pasal 10",
+      "slug": "c-bahwa-kewenangan-bpk-diatur-berdasarkan-pasal-6-ayat-1-dan-pasal-10",
+      "text": "ayat (1) UU 15/2006, secara normatif BPK hanya memiliki tugas dan \nkewenangan dalam memeriksa sampai dengan Badan Usaha Milik Negara \n(BUMN) atau Badan Usaha Milik Daerah (BUMD) atau badan lain yang \nmengelola keuangan negara;",
+      "start_line": 1100,
+      "end_line": 1103
+    },
+    {
+      "heading": "d. Bahwa dengan tidak adanya tafsir yang jelas dan tegas terhadap ketentuan",
+      "slug": "d-bahwa-dengan-tidak-adanya-tafsir-yang-jelas-dan-tegas-terhadap-ketentuan",
+      "text": "sebagaimana tersebut di atas, dalam praktik dapat menimbulkan \nkesewenang-wenangan hukum ya ng mengakibatkan adanya perlaku an \nyang berbeda antara anak perusahaan BUMN yang satu dengan  anak \nperusahaan BUMN yang lain. B ahkan terhadap perusahaan yang secara \njelas dan tegas dalam Anggaran Dasar bukan merupakan anak perusahaan \nBUMN dan tidak mengelola keuangan negara, melainkan mengelola dana \npensiun suatu BUMN yang berasal dari iuran pegawai BUMN, namun justru \ndikategorikan sebagai keuangan negara  dan menjadi objek pemeriksaan. \n\n \n \n31 \nBPK menemukan adanya penyimpangan dan Pemohon faktanya telah \nmenjadi terpidana korupsi karena disebabkan oleh norma hukum yang tidak \njelas atau tidak tegas yang ditafsirkan secara berbeda oleh badan negara \n(dalam hal ini BPK) yang melebihi kewenangannya untuk melakukan audit \ninvestigatif yang berdampak merugikan  hak dan/atau kewenangan \nkonstitusional Pemohon; \ne. Bahwa setelah menjadi terdakwa korupsi dan dihukum pidana, Pemohon \ndan keluarganya juga menanggung malu serta menjadi rusak harkat dan \nmartabatnya di kalangan masyarakat, termasuk mengalami rasa tidak aman \nakibat kewenangan berlebihan BPK dalam melakukan audit investigatif di \nDP Pertamina; \n Bahwa berdasarkan uraian di atas, Pemohon telah cukup jelas dalam \nmenerangkan kedudukan hukumnya berkenaan dengan pengujian Pasal 6 ayat \n(1) juncto Pasal 10 ayat (1) UU  15/2016. Dalam hal ini, Pemohon menyatakan \ndiri sebagai perseorangan warga negara Indonesia yang potensial dirugikan hak \nkonstitusionalnya dengan berlakunya Pasal 6 ayat (1) juncto Pasal 10 ayat (1) \nUU 15/2016. Pemohon juga telah dapat menjelaskan adanya hubungan sebab \nakibat (causal verband) antara anggapan kerugian konstitusional yang bersifat \npotensial yang akan dialami dengan berlakunya norma pasal yang dimohonkan \npengujian. Dengan demikian terlepas dari terbukti atau tidakny a dalil \npermohonan Pemohon perihal pertentangan norma dalam Pasal 6 ayat (1) \njuncto Pasal 10 ayat (1) UU  15/2016 yang dimohonkan pengujian dalam \npermohonan a quo, Mahkamah berpendapat, Pemohon memiliki kedudukan \nhukum untuk bertindak sebagai Pemohon dalam permohonan a quo.  \n[3.6]  Menimbang bahwa oleh karena Mahkamah berwenang mengadili  \nPermohonan a quo dan Pemohon memiliki kedudukan hukum untuk mengajukan \npermohonan, selanjutnya Mahkamah akan mempertimbangkan pokok permohonan. \nPokok Permohonan \n[3.7]  Menimbang bahwa dalam mendalilkan inkonstitusionalitas Pasal 6 ayat \n(1) juncto Pasal 10 ayat (1) UU  15/2016, Pemohon mengemukakan argumentasi \n\n \n \n32 \nsebagaimana selengkapnya telah dimuat dalam bagian Duduk Perkara yang pada \npokoknya sebagai berikut:",
+      "start_line": 1105,
+      "end_line": 1152
+    },
+    {
+      "heading": "1. Bahwa menurut Pemohon, frasa “Lembaga atau badan lain yang mengelola",
+      "slug": "1-bahwa-menurut-pemohon-frasa-lembaga-atau-badan-lain-yang-mengelola",
+      "text": "keuangan negara” dalam Pasal 6 ayat (1) juncto frasa “lembaga atau badan lain \nyang menyelenggarakan pengelolaan keuangan negara” dalam Pasal 10 ayat (1) \nUU 15/2006, dalam  praktiknya tidak  memperlihatkan kejelasan makna dan \nbatasan sehingga warga negara tidak mendapatkan kepastian atas frasa \ntersebut. Hal ini tidak mencerminkan prinsip negara hukum  yang seharusnya \nmemberikan jaminan keteraturan serta kepastian hukum bagi setiap warga \nnegara. Hal ini mengingat dalam penerapan ketentuan tersebut  untuk anak \nperusahaan BUMN atau badan lain yang mengelola dana pensiun dari karyawan \nBUMN, meskipun tidak ada penyertaan modal dari Pemerintah, tidak mendapat \ntugas dan fasilitas dari pemerintah, tetapi justru dianggap dan diperlakukan sama \ndengan BUMN;",
+      "start_line": 1154,
+      "end_line": 1164
+    },
+    {
+      "heading": "2. Bahwa menurut Pemohon, BPK atas permintaan dari Penyidik dapat melakukan",
+      "slug": "2-bahwa-menurut-pemohon-bpk-atas-permintaan-dari-penyidik-dapat-melakukan",
+      "text": "audit investigatif terhadap anak perusahaan BUMN dan badan lain yang \nmengelola uang dari Karyawan BUMN. K emudian hasil dari  audit BPK menjadi \nlegitimasi bagi Penyidik menyidik kerugian negara yang telah dilakukan \nperhitungannya oleh BPK;",
+      "start_line": 1166,
+      "end_line": 1169
+    },
+    {
+      "heading": "3. Bahwa menurut Pemohon, anak perusahaan BUMN/BUMD yang modalnya",
+      "slug": "3-bahwa-menurut-pemohon-anak-perusahaan-bumn-bumd-yang-modalnya",
+      "text": "bukan bersumber dari APBN/APBD atau bukan penyertaan modal dari \nBUMN/BUMD dan tidak menerima/menggunakan fasilitas negara, bukan \ntermasuk keuangan negara. Modal anak perusahaan BUMN/BUMD adalah dari \nBUMN/BUMD, bukan dari kekayaan negara. Hal ini jelas berbeda dengan modal \nBUMN/BUMD yang berasal dari kekayaan negara yang dipisahkan. Kekayaan \nnegara yang dipisahkan adalah kekayaan negara yang berasal dari APBN/APBD \natau perolehan lainnya yang sah dan dijadikan penyertaan modal negara kepada \nBUMN/BUMD secara korporasi. Menempatkan kekayaan negara untuk dikelola \nsecara korporasi menghasilkan manfaat bagi peningkatan perekonomian negara. \nOleh karena itu, apabila dibentuk sebuah anak perusahaan BUMN/BUMD dan \nBUMN/BUMD tersebut melakukan penyertaan modal sebagai perusahaan induk, \nhal itu berarti modal tersebut bukan berasal dari negara, mela inkan dari \nBUMN/BUMD tersebut yang berbentuk PT (Perseroan Terbatas) sebagai badan \n\n \n \n33 \nhukum yang memiliki kekayaan terpisah dari pemegang saham. Dalam hal \nlaporan keuangan pun, anak perusahaan BUMN/BUMD melapor ke \nBUMN/BUMD selaku pemegang sahamnya dan bukan ke negara;",
+      "start_line": 1171,
+      "end_line": 1190
+    },
+    {
+      "heading": "4. Bahwa menurut Pemohon, kekayaan BUMN terpisah dari kekayaan negara",
+      "slug": "4-bahwa-menurut-pemohon-kekayaan-bumn-terpisah-dari-kekayaan-negara",
+      "text": "karena kekayaan n egara di dalam BUMN hanya sebatas saham, sehingga jika \npada suatu saat BUMN mengalami kerugian, maka bukan merupakan kerugian \nnegara. BUMN adalah badan hukum man diri maka demi hukum modal BUMN \nyang bersumber dari kekayaan negara semestinya ditafsirkan sebagai kekayaan \nBUMN dan terpisah dari rezim kekayaan negara;",
+      "start_line": 1192,
+      "end_line": 1196
+    },
+    {
+      "heading": "5. Bahwa berdasarkan alasan -alasan tersebut di atas Pemohon memohon pada",
+      "slug": "5-bahwa-berdasarkan-alasan-alasan-tersebut-di-atas-pemohon-memohon-pada",
+      "text": "pokoknya agar Mahkamah menyataka n, frasa “Lembaga atau badan lain yang \nmengelola keuangan negara” dalam Pasal 6 ayat (1) juncto  frasa “lembaga atau \nbadan lain yang menyelenggarakan pengelolaan keuangan negara” dalam Pasal \n10 ayat (1) UU 15/2006 bertentangan dengan Pasal 1 ayat (3), Pasa l 28D ayat \n(1) dan Pasal 28G ayat (1) UUD 1945, serta tidak mempunyai kekuatan hukum \nmengikat, sepanjang tidak dimaknai sebagai adanya penyertaan modal \nPemerintah Pusat/Daerah secara langsung terhadap BUMN/BUMD, \nmendapatkan penugasan secara langsung dari Pemerintah untuk mengelola \nSumber Daya Alam atau melaksanakan pelayanan umum atau mendapatkan \nfasilitas dari Pemerintah untuk mengelola keuangan negara. \n[3.8]  Menimbang bahwa untuk mendukung permohonannya, Pemohon telah \nmengajukan alat bukti surat/tulisan  yang diberi tanda bukti P -1 sampai dengan         \nbukti P-3. \n[3.9]  Menimbang bahwa oleh karena permohonan a quo  telah jelas maka \ndengan bersandar pada Pasal 54 UU MK, Mahkamah berpendapat tidak terdapat \nurgensi maupun kebutuhan untuk mendengar keterangan pihak-pihak sebagaimana \ndisebut dalam Pasal 54 UU MK dimaksud. \n[3.10]  Menimbang bahwa setelah membaca secara saksama permohonan \nPemohon beserta bukti-bukti yang diajukan, terhadap permohonan Pemohon a quo \nMahkamah mempertimbangkan sebagai berikut: \n\n \n \n34 \n[3.10.1] Bahwa sesungguhnya persoalan inti dari permohonan a quo adalah \napakah BPK berwenang melakukan audit investigasi terhadap DP Pertamina, yang \npada akhirnya berdasarkan hasil audit tersebut telah merugikan hak konstitusional \nPemohon karena telah dijadikan sebagai terpidana dalam kasus korupsi; \n[3.10.2] Bahwa sebelum mempertimbangkan lebih lanjut pokok permohonan \nmengenai konstitusionalitas norma yang dipermasalahkan oleh Pemohon, oleh \nkarena terhadap permasalahan yang serupa telah pernah dimohonkan pengujian \nsebelumnya oleh Muhammad Helmi Kamal Lubis  dalam Perkara Nomor 59/PUU -\nXVI/2018 mengenai pengujian Undang -Undang Nomor 11 Tahun 1992 tentang \nDana Pensiun, yang diakui dalam Persidangan oleh Kuasa Pemohon adalah orang \nyang sama dengan orang yang mengajukan permohonan a quo (Muhammad Helmi \nKamal). Di samping itu, Mahkamah telah pernah mempertimbangkan  dalam \nPutusan Mahkamah Konstitusi Nomor 62/PUU -XI/2013 mengenai pengujian \nsepanjang frasa “kekayaan pihak lain” dalam Pasal 2 huruf g dan huruf i Undang -\nUndang Nomor 17 Tahun 2003 tentang Keuangan Negara , dan pe ngujian \nsepanjang frasa “Badan Usaha Milik Negara” dalam Pasal  6 ayat (1), Pasal 9 ayat \n(1) huruf b, dan sepanjang frasa “Badan Usaha Milik Negara/Badan Usaha Milik \nDaerah” dalam  Pasal 10 ayat (1) dan ayat (3), serta Pasal 11 huruf a  Undang-\nUndang Nomor 15 Tahun 2006 tentang Badan Pemeriksa Keuangan terhadap Pasal \n23 ayat (1), Pasal 23E ayat (1), dan Pasal 28D ayat (1) UUD 1945 yang dimohonkan \noleh Forum Hukum Badan Usaha Milik Negara, dkk . Oleh karenanya, Mahkamah \nterlebih dahulu aka n mempertimbangkan apakah permohonan a quo  memenuhi \nkriteria sebagaimana ketentuan Pasal 60 UU MK dan Pasal 78 Peraturan \nMahkamah Konstitusi Nomor 2 Tahun 2021 tenta ng Tata Beracara Dalam Perkara \nPengujian Undang-Undang (PMK 2/2021), sehingga terhadap norm a a quo dapat \ndimohonkan kembali. \nPasal 60 UU MK menyatakan: \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang -\nundang yang telah diuji, tidak dapat dimohonkan pengujian kembali.  \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan jika \nmateri muatan dalam Undang -Undang Dasar Negara Republik Indonesia \nTahun 1945 yang dijadikan dasar pengujian berbeda. \nPasal 78 PMK 2/2021 menyatakan: \n(1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam UU yang telah \ndiuji, tidak dapat dimohonkan pengujian kembali.  \n\n \n \n35 \n(2) Ketentuan sebagaimana dimaksud pada ayat (1) dapat dikecualikan jika \nmateri muatan dalam UUD 1945 yang dijadikan dasar pengujian berbeda \natau terdapat alasan permohonan yang berbeda. \n Bahwa setelah mencermati dasar pengujian yang digunakan oleh Pemohon \npada permohonan a quo , dasar pengujian yang digunakan dalam permohonan \nsebelumnya adalah Pasal 23 ayat (1), Pasal 23E ayat (1), dan Pasal 28D ayat (1) \nUUD 1945 , sementara untuk permohonan a quo  menggunakan dasar pengujian \nyaitu Pasal 1 ayat (3), Pasal 28D ayat (1) dan Pasal 28G ayat (1) UUD 1945. Dengan \ndemikian, oleh karena pasal yang dijadikan dasar pengujian dalam perkara a quo \nberbeda dengan dasar pengujian yang digunakan dalam perkara sebelumnya maka \nterlepas secara substansial permohonan a quo beralasan atau tidak, secara formal \npermohonan a quo berdasarkan Pasal 60 ayat (2) UU MK dan Pasal 78 ayat (2) \nPMK 2/2021 beralasan untuk dapat diajukan kembali.  \n[3.10.3] Bahwa berkaitan dengan perkara a quo Mahkamah telah menyatakan \npendiriannya terkait dengan pengertian keuangan negara sebagaimana tertuang \ndalam Putusan Mahkamah Konstitusi Nomor 62/PUU -XI/2013, bertanggal 18 \nSeptember 2014, khususnya dalam Paragraf [3.23] dan ditegaskan kembali dalam \nPutusan Mahkamah Konstitusi Nomor 59/PUU-XVI/2018, bertanggal 21 Mei 2019 \ndalam Paragraf [3.18] yang menyatakan: \n[3.18] … \n[3.18.1] … \n [3.23] Menimbang bahwa Pasal 6 ayat (1) UU BPK mengandung \nmateri muatan dua norma: Pertama, norma yang menentukan Badan \nPemeriksa Keuangan (BPK) adalah memeriksa pengelolaan dan tanggung \njawab keuangan negara. Kedua, norma yang menentukan keuangan \nnegara yang menjadi objek pemeriksaan BPK adalah keuangan negara \nyang dikelola oleh Pemerintah Pus at, Pemerintah Daerah, Lembaga \nNegara lainnya, Bank Indonesia, Badan Usaha Milik Negara, Badan \nLayanan Umum, Badan Usaha Milik Daerah, dan lembaga atau badan lain \nyang mengelola keuangan negara; \n Bahwa kedua norma tersebut merupakan tindak lanjut dari Pasal 23E ayat \n(1) dan Pasal 23G ayat (2) UUD 1945. Dengan perkataan lain, ketentuan \nPasal 6 ayat (1) UU BPK merupakan kebijakan hukum terbuka ( opened \nlegal policy) yang diberikan oleh UUD 1945 kepada pembentuk Undang -\nUndang sepanjang berkaitan dengan pengelol aan keuangan negara. \nMenurut Mahkamah, subjek hukum yang dapat menjadi objek \npemeriksaan oleh BPK adalah semua lembaga yang mengelola keuangan \nnegara, baik keuangan negara yang dikelola secara langsung maupun \nkeuangan negara yang dipisahkan; \n\n \n \n36 \n Pertanyaannya adalah apakah kekayaan negara yang telah dipisahkan, \nyang kemudian menjadi modal usaha BUMN dan BUMD tersebut adalah \ntetap sebagai keuangan negara dan dengan demikian BPK berwenang \nmemeriksanya. Pertanyaan lainnya, apakah dengan demikian secara \numum berlaku sistem dan mekanisme Pasal 23 UUD 1945, padahal BUMN \natau BUMD tersebut adalah entitas usaha, yang dengan demikian \nkekayaan negara yang telah dipisahkan tersebut bertransformasi menjadi \nbukan lagi keuangan negara, yang secara konstitusional BPK tidak la gi \nberwenang memeriksa pengelolaannya, tapi pemeriksa (internal audit) \nyang berwenang; \n Bahwa, menurut Mahkamah, pemisahan kekayaan negara dimaksud \ndilihat dari perspektif transaksi bukanlah merupakan transaksi yang \nmengalihkan suatu hak, sehingga akibat hukumnya tidak terjadi peralihan \nhak dari negara kepada BUMN, BUMD, atau nama lain yang sejenisnya. \nDengan demikian kekayaan negara yang dipisahkan tersebut masih tetap \nmenjadi kekayaan negara. Terkait dengan kewenangan BPK untuk \nmemeriksa, menurut Mahkamah , oleh karena masih tetap sebagai \nkeuangan negara dan BUMN atau BUMD sesungguhnya adalah milik \nnegara dan, sebagaimana dipertimbangkan di atas, adalah juga \nkepanjangan tangan negara maka tidak terdapat alasan bahwa BPK tidak \nberwenang lagi memeriksanya. Me skipun demikian, supaya BUMN dan \nBUMD dapat berjalan sesuai dengan prinsip good corporate governance, \npengawas internal, selain Dewan Komisaris atau Dewan Pengawas masih \ntetap relevan; \n Bahwa Pasal 9 ayat (1) UU BPK, sesungguhnya memuat norma yang \nmengenai kewenangan BPK meminta keterangan dan/atau dokumen, \nyang dengan demikian memuat pula norma yang mewajibkan kepada \nlembaga yang diperiksa untuk menyerahkannya, menurut Mahkamah, \nmerupakan konsekuensi hukum dari tugasnya yang diatur dalam Pasal 6, \nyaitu memeriksa pengelolaan dan pertanggungjawaban keuangan negara, \nyang juga merupakan tindak lanjut dari Pasal 23E UUD 1945; \n  Bahwa Pasal 11 huruf a UU BPK yang di dalamnya memuat norma \nmengenai kewenangan BPK dapat memberikan pendapat kepada DPR, \nDPD, DPRD, lem baga pemerintah dan lembaga lainnya. Pendapat BPK \nmerupakan produk dari proses pemeriksaan, sehingga norma tersebut \nsesungguhnya merupakan hal yang harus ada karena BPK memiliki \nkewenangan memeriksa. Selain itu, mengenai kewenangan memberi \npendapat tersebut ditentukan oleh Undang-Undang karena secara hukum \ndianggap menjadi keperluan lembaga/organ yang menyelenggarakan \nfungsi negara dan/atau fungsi pemerintahan; \nBerdasarkan Putusan Mahkamah Konstitusi tersebut, pemisahan \nkekayaan negara tidak dapat diartikan  sebagai putusnya kaitan negara \ndengan BUMN atau nama lain yang sejenisnya, karena pemisahan \nkekayaan negara hanyalah untuk memudahkan pengelolaan usaha \n(bisnis). Badan usaha dapat saja menjalankan usaha bisnisnya untuk \nmencapai tujuan memperoleh keuntungan asalkan mempedomani prinsip \n“duty of care” yang di dalamnya termuat unsur kehati-hatian dan itikad baik, \nsehingga kebijakan badan usaha yang dijalankan oleh pimpinannya tetap \nberpedoman kepada business judgement rule. Namun berdasarkan Pasal \n\n \n \n37 \n1 angka 13 d an Pasal 6 ayat (3) Undang -Undang Nomor 15 Tahun 2006 \ntentang Badan Pemeriksa Keuangan (UU BPK) dan ditegaskan oleh \nMahkamah dalam Putusan Nomor 62/PUU-XI/2013 tersebut bahwa yang \ndapat menjadi objek pemeriksaan BPK adalah semua lembaga yang \nmengelola keuangan negara, baik keuangan negara yang dikelola secara \nlangsung maupun keuangan negara yang dipisahkan.  Oleh karena itu \nsepanjang lembaga yang mengelola keuangan negara diduga melakukan \nperbuatan yang merugikan keuangan negara maka BPK berwenang \nmelakukan pemeriksaan dan salah satu jenis pemeriksaannya  adalah \naudit investigatif yang mana hasil pemeriksaannya disebut Pemeriksaan \nPenghitungan Kekayaan Negara (PPKN). Pemeriksaan oleh BPK jenis ini \ndilakukan atas permintaan dari Kejaksaan Agung. Oleh karena itu  \nkewenangan PPKN ini adalah kewenangan atribusi BPK dalam proses \npenegakan hukum. \nLebih lanjut, dalam  Putusan Mahkamah Konstitusi Nomor 62/PUU -XI/2013, \nParagraf [3.24] menegaskan pula: \n“[3.24] Menimbang bahwa Pasal 10 ayat (1) pada pokoknya memuat \nnorma mengenai kewenangan BPK menilai dan/atau menetapkan jumlah \nkerugian oleh perbuatan melawan hukum baik sengaja maupun lalai yang \ndilakukan oleh bendahara pengelola lembaga yang menyelenggarakan \npengelolaan keuangan negara. Berdasarkan penilaian dan penetapa n \njumlah kerugian negara tersebut, norma pada ayat (3) menentukan \nkewenangan BPK memantau penyelesaian dan pelaksanaan pengenaan \nganti kerugian negara/daerah, baik yang ditetapkan oleh Pemerintah, BPK, \nmaupun pengadilan. Menilai dan menetapkan jumlah ganti  kerugian \nmerupakan kewenangan yang menurut hukum dapat dibenarkan, karena \nujung dari suatu penilaian, terlebih lagi terkait dengan kerugian negara, \nadalah penetapan berapa jumlah kerugiannya. Secara hukum hal tersebut \ndapat dikonstruksikan sebagai tindak lanjut dari kewenangan \nkonstitusional pemeriksaan yang dimiliki oleh BPK…” \nOleh karenanya berkenaan dengan pengertian “keuangan negara” sesungguhnya \nsudah tidak terdapat lagi persoalan konstitusionalitas norma  sebagaimana yang \ndipermasalahkan oleh Pemohon. \n[3.10.4] Bahwa terhadap dalil Pemohon berkenaan dengan frasa “Lembaga atau \nbadan lain yang mengelola keuangan negara”  dalam Pasal 6 ayat (1) juncto frasa \n“lembaga atau badan lain yang menyelenggarakan pengelolaan keuangan negara”  \ndalam Pasal 10 ayat (1) UU 15/2006 apabila dikabulkan oleh Mahkamah hal tersebut \njustru akan membatasi kewenangan BPK dalam melakukan pemeriksaan keuangan \nterhadap lembaga atau badan lain yang mengelola keuangan negara  termasuk \nkewenangan untuk menilai dan/atau menetapkan jumlah kerugian yang dilakukan \noleh bendahara pengelola lembaga yang menyelenggarakan pengelolaan keuangan \n\n \n \n38 \nnegara. Oleh karenanya, apabila norma a quo diubah maka akan berakibat tidak \nutuhnya, bahkan berubahnya konstruksi hukum tugas dan kewenangan BPK dalam \nmemeriksa pengelolaan dan tanggung jawab keuangan negara, termasuk dalam \npelaksanaan audit keuangan terhadap lembaga atau badan lain yang mengelola \nkeuangan negara.  Dalil Pemohon dalam permohonan a quo adalah bentuk \nkekhawatiran Pemohon atas keterlibatan BPK dalam pemeriksaan terhadap \nkeuangan Dana Pensiun yang pendirinya adalah BUMN sebagaimana kasus \nkonkret yang dihadapi Pemohon. Dalam kaitan ini, Mahkamah tidak berwenang \nmenilai suatu kasus konkret. Kewenangan Mahkamah adalah menguji norma suatu \nundang-undang terhadap UUD 1945, yang mana Putusan Mahkamah atas \npengujian tersebut bersifat final dan mengikat serta berlaku dengan prinsip erga \nomnes. \nBahwa berkenaan dengan dalil Pemohon a quo , penting bagi Mahkamah \nuntuk menegaskan kembali putusan-putusan Mahkamah sebelumnya yaitu Putusan \nMahkamah Konstitusi Nomor 62/PUU-XI/2013 dan Putusan Mahkamah Konstitusi \nNomor 59/PUU-XVI/2018, karena ihwal yang dipersoalkan oleh Pemohon sejatinya \ntidak dapat dilepaskan dari pertimbangan hukum Mahkamah dalam putusan -\nputusan tersebut bahwa BPK berwenang melakukan pemeriksaan terhadap semua \nsubjek hukum apapun sepanjang di dalamnya terdapat pengelolaan  keuangan \nnegara, baik langsung maupun tidak langsung.  Terlebih lagi jika ada dugaan \nperbuatan penyalahgunaan keuangan negara  maka BPK berwenang melakukan \npemeriksaan (audit).  \nBerdasarkan pertimbangan hukum di atas, oleh karena secara substansial \ntidak terda pat alasan konstitusional baru yang secara fundamental berbeda bagi \nMahkamah untuk mengubah pendiriannya terhadap isu pokok yang berkaitan \ndengan norma a quo sehingga Mahkamah tetap pada pendiriannya sebagaimana \ntelah dinyatakan dalam putusan -putusan Mahka mah sebelumnya yang telah \ndiuraikan pada Sub-paragraf [3.10.3] di atas. Oleh karenanya, berkenaan dengan \npengertian keuangan negara dan ruang lingkup kewenangan BPK dalam memeriksa \nkeuangan negara, tidak ada relevansinya lagi untuk mempersoalkan \nkonstitusionalitas norma dimaksud. \n\n \n \n39 \n[3.11]  Menimbang bahwa terhadap hal -hal lain dari dalil Pemohon tidak \ndipertimbangkan karena tidak ada relevansinya sehingga sesungguhnya dalil yang \ntidak dipertimbangkan tersebut adalah dalil yang dengan sendirinya sudah tercakup \ndalam persoalan pokok permohonan a quo  yang pada hakikatnya merupakan \npengertian keuangan negara dan kewenangan BPK untuk memeriksa (audit) \npengelolaan keuangan negara yang telah dipertimbangkan Mahkamah dalam \nPutusan Mahkamah Konstitusi Nomor 62/PUU-XI/2013, Putusan Mahkamah \nKonstitusi Nomor 59/PUU-XVI/2018 dan ditegaskan kembali dalam putusan a quo. \nSedangkan, dalil -dalil lain yang berkaitan dengan kasus konkret yang dialami \nmaupun yang dijadikan contoh oleh Pemohon dalam permohonan a quo  adalah \nbukan kewenangan Mahkamah untuk menilainya. \n[3.12]  Menimbang bahwa berdasarkan pertimbangan hukum sebagaimana \ndiuraikan pada paragraf -paragraf di atas, Mahkamah menilai menyatakan \ninkonstitusional ketentuan Pasal 6 ayat (1) juncto Pasal 10 ayat (1)  UU 15/2016 \njustru akan bertentangan dengan prinsip negara hukum sebagaimana diatur dalam \nPasal 1 ayat (3) UUD 1945 serta dapat menimbulkan ketidakpastian hukum dan \ntidak memberikan perlindungan hukum dalam pemeriksaan pengelolaan keuangan \nnegara sebagaimana termaktub dalam Pasal 28D ayat (1) dan Pasal 28G ayat (1) \nUUD 1945. Oleh karena itu, permohonan Pemohon berkenaan dengan Pasal 6 ayat \n(1) juncto Pasal 10 ayat (1) UU  15/2016 bertentangan dengan UUD 1945 adalah \ntidak beralasan menurut hukum.",
+      "start_line": 1198,
+      "end_line": 1457
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan",
+      "start_line": 1459,
+      "end_line": 1459
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2]  Pemohon memiliki  kedudukan  hukum  untuk  mengajukan  permohonan      \na quo; \n[4.3]  Permohonan Pemohon tidak beralasan menurut hukum untuk seluruhnya. \n\n \n \n40 \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana \ntelah diubah  terakhir dengan Undang -Undang Nomor 7 Tahun 2020 tentang \nPerubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 216, Tambahan \nLembaran Negara Republik Indonesia Nomor 6554), dan Undang-Undang Nomor 48 \nTahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia \nTahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor \n5076).",
+      "start_line": 1461,
+      "end_line": 1477
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan Pemohon untuk seluruhnya. \nDemikian diputus  dalam Rapat Permusyawaratan Hakim oleh sembilan \nHakim Konstitusi yaitu Anwar Usman selaku Ketua merangkap Anggota , Aswanto, \nEnny Nurbaningsih, Wahiduddin Adams, Saldi Isra, Daniel Yusmic P. Foekh, Arief \nHidayat, Manahan M.P. Sitompul, dan Suhartoyo, masing-masing sebagai Anggota, \npada hari Senin, tanggal sembilan, bulan Agustus, tahun dua ribu dua puluh \nsatu, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk \numum pada hari Rabu, tanggal dua puluh sembilan, bulan September, tahun dua \nribu dua puluh satu , selesai diucapkan pukul 12.39 WIB, oleh sembilan Hakim \nKonstitusi yaitu Anwar Usman selaku Ketua merangkap Anggota , Aswanto, Enny \nNurbaningsih, Wahiduddin Adams, Saldi Isra, Daniel Yusmic P. Foekh, Arief \nHidayat, Manahan M.P. Sitompul, dan Suhartoyo, masing-masing sebagai Anggota, \ndengan dibantu oleh Anak Agung Dian Onita sebagai Panitera Pengganti, serta \ndihadiri oleh Pemohon, Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden \natau yang mewakili.  \nKETUA, \nttd. \nAnwar Usman \n\n \n \n41 \nANGGOTA-ANGGOTA, \n ttd. \nAswanto            \nttd. \nEnny Nurbaningsih  \n \nttd. \nWahiduddin Adams   \nttd. \nSaldi Isra  \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nArief Hidayat  \nttd. \nManahan M.P. Sitompul \nttd. \nSuhartoyo \nPANITERA PENGGANTI, \nttd. \nAnak Agung Dian Onita",
+      "start_line": 1479,
+      "end_line": 1524
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Muhammad Helmi Kamal",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Iwan Gunawan, S.H., M.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Dr. Suartini, S.H., M.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Virza Roy Hizzal Lubis, S.H",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 15/2006 tentang Badan Pemeriksa Keuangan"
+    ],
+    "constitutional_articles": [
+      "Pasal 28G ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 28D ayat (1)",
+      "Pasal 10",
+      "Pasal 23E ayat (1)",
+      "Pasal 23G ayat (2)",
+      "Pasal 23",
+      "Pasal 23E",
+      "Pasal 6",
+      "Pasal 10 ayat (1)",
+      "Pasal 24C"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-3",
+      "BUKTI P -1",
+      "BUKTI P-2",
+      "REFERENSI:26/PUU-XIX/2021",
+      "REFERENSI:18/PUU/PAN.MK/AP3/6/2021",
+      "REFERENSI:10/PUU-III/2005",
+      "REFERENSI:107/PID.SUS/TPK/2017/PN.Jkt.PstjunctoPutusanPengadilanTinggiDKIJakartaNomor7/Pid.TPK/2018/PTDKIjunctoPutusanMahkamahAgungNomor2088K/PID.SUS/2018",
+      "REFERENSI:01/PHPU-PRES/XVII/2019",
+      "REFERENSI:01/PHPU-Pres/XVI/2019",
+      "REFERENSI:77/PUU-IX/2011",
+      "REFERENSI:48/PUU-XI/2013danPutusanMahkamahKonstitusiNomor62/PUU-XI/2013",
+      "REFERENSI:25/PUU-XIV/2016",
+      "REFERENSI:3849/K/Pid.Sus/2019",
+      "REFERENSI:01/PHPU-24Pres/XVI/2019",
+      "REFERENSI:006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:59/PUU-XVI/2018",
+      "REFERENSI:62/PUU-XI/2013",
+      "REFERENSI:62/PUU-XI/2013danPutusanMahkamahKonstitusiNomor59/PUU-XVI/2018",
+      "REFERENSI:006/PUU-III/2005danPutusanMahkamahKonstitusiNomor10/PUU-III/2005"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "bahwa BPK tidak berwenang untuk melakukan pemeriksaan audit",
+    "P-3 yang telah disahkan dalam persidangan, sebagai berikut:",
+    "konstitusional pemeriksaan yang dimiliki oleh BPK…”",
+    "pemeriksaan (audit)."
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Anwar Usman",
+      "Aswanto",
+      "Enny Nurbaningsih",
+      "Wahiduddin Adams",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "Arief Hidayat",
+      "Manahan M.P. Sitompul",
+      "Suhartoyo"
+    ],
+    "clerks": [
+      "Anak Agung Dian Onita"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "26/PUU-XIX/2021",
+      "18/PUU/PAN.MK/AP3/6/2021",
+      "10/PUU-III/2005",
+      "107/PID.SUS/TPK/2017/PN.Jkt.PstjunctoPutusanPengadilanTinggiDKIJakartaNomor7/Pid.TPK/2018/PTDKIjunctoPutusanMahkamahAgungNomor2088K/PID.SUS/2018",
+      "01/PHPU-PRES/XVII/2019",
+      "01/PHPU-Pres/XVI/2019",
+      "77/PUU-IX/2011",
+      "48/PUU-XI/2013danPutusanMahkamahKonstitusiNomor62/PUU-XI/2013",
+      "25/PUU-XIV/2016",
+      "3849/K/Pid.Sus/2019",
+      "01/PHPU-24Pres/XVI/2019",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "59/PUU-XVI/2018",
+      "62/PUU-XI/2013",
+      "62/PUU-XI/2013danPutusanMahkamahKonstitusiNomor59/PUU-XVI/2018",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor10/PUU-III/2005"
+    ],
+    "referenced_cases": [
+      "26/PUU-XIX/2021",
+      "18/PUU/PAN.MK/AP3/6/2021",
+      "10/PUU-III/2005",
+      "107/PID.SUS/TPK/2017/PN.Jkt.PstjunctoPutusanPengadilanTinggiDKIJakartaNomor7/Pid.TPK/2018/PTDKIjunctoPutusanMahkamahAgungNomor2088K/PID.SUS/2018",
+      "01/PHPU-PRES/XVII/2019",
+      "01/PHPU-Pres/XVI/2019",
+      "77/PUU-IX/2011",
+      "48/PUU-XI/2013danPutusanMahkamahKonstitusiNomor62/PUU-XI/2013",
+      "25/PUU-XIV/2016",
+      "3849/K/Pid.Sus/2019",
+      "01/PHPU-24Pres/XVI/2019",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "59/PUU-XVI/2018",
+      "62/PUU-XI/2013",
+      "62/PUU-XI/2013danPutusanMahkamahKonstitusiNomor59/PUU-XVI/2018",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor10/PUU-III/2005"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

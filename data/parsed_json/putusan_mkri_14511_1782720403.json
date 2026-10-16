@@ -1,0 +1,923 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14511_1782720403.pdf",
+    "file_name": "putusan_mkri_14511_1782720403.pdf",
+    "page_count": 33,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14511_1782720403.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "186/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2026-06-29",
+    "decision_date_raw": "dua puluh sembilan, bulan Juni, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "PUTUSAN \nNOMOR 186/PUU-XXIV/2026",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1]  Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 6 Tahun 2014 tentang Desa sebagaimana telah diubah  dengan \nUndang-Undang Nomor 3 Tahun 2024 tentang Perubahan Kedua Atas U ndang-\nUndang Nomor 6 Tahun 2014 tentang Desa terhadap Undang-Undang D asar \nNegara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 4,
+      "end_line": 10
+    },
+    {
+      "heading": "1. Nama : Putri Naylarizki Lasamano",
+      "slug": "1-nama-putri-naylarizki-lasamano",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Desa Ponelo, Kecamatan Ponelo Kepulauan \nKabupaten Gorontalo Utara, Provinsi Gorontalo \nSelanjutnya disebut sebagai ---------------------------------------- Pemohon I;",
+      "start_line": 12,
+      "end_line": 15
+    },
+    {
+      "heading": "2. Nama : Muthi’ah Alamri",
+      "slug": "2-nama-muthi-ah-alamri",
+      "text": "Pekerjaan : Mahasiswa \n Alamat : Jalan Rajawali, Heledulaa Selatan, Kota Timur, \nGorontalo \nSelanjutnya disebut sebagai --------------------------------------- Pemohon II;\nSelanjutnya Pemohon I dan Pemohon II disebut sebagai -------------- para Pemohon; \n[1.2] Membaca permohonan para Pemohon; \n Mendengar keterangan para Pemohon; \n Memeriksa bukti-bukti para Pemohon.",
+      "start_line": 17,
+      "end_line": 24
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]  Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 1 Februari 2026 yang diterima Kepaniteraan Mahkamah Konstitusi pada \ntanggal 21 Mei 2026 berdasarkan Akta Pengajuan Permohonan Pemoh on Nomor \n184/PUU/PAN.MK/AP3/05/2026 dan telah dicatat dalam Buku Registrasi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Nomor 186/PUU-XXIV/2026 pada tanggal \n\n\n 2\n22 Mei 2026, yang telah diperbaiki dengan perbaikan permohonan bertanggal 1 \nFebruari 2026 dan diterima Mahkamah pada tanggal 22 Juni 2026, pada pokoknya \nmenguraikan hal-hal sebagai berikut. \nA. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 26,
+      "end_line": 37
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 24 ayat (2) UUD NRI 1945 menyatakan, “Kekuasaan",
+      "slug": "1-bahwa-ketentuan-pasal-24-ayat-2-uud-nri-1945-menyatakan-kekuasaan",
+      "text": "Kehakiman dilakukan oleh sebuah Mahkamah Agung dan badan peradilan di \nbawahnya dalam lingkungan Peradilan Umum, lingkungan Peradilan Agama, \nlingkungan Peradilan Militer, lingkungan Peradilan Tata Usaha N egara dan \noleh sebuah Mahkamah Konstitusi”;",
+      "start_line": 39,
+      "end_line": 42
+    },
+    {
+      "heading": "2. Bahwa ketentuan Pasal 24C ayat (1) UUD NRI 1945 menyatakan b ahwa:",
+      "slug": "2-bahwa-ketentuan-pasal-24c-ayat-1-uud-nri-1945-menyatakan-b-ahwa",
+      "text": "“…Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji Undang-Un dang \nterhadap Undang-Undang Dasar…”",
+      "start_line": 44,
+      "end_line": 46
+    },
+    {
+      "heading": "3. Bahwa kewenangan konstitusional Mahkmah Konstitusi untuk men guji",
+      "slug": "3-bahwa-kewenangan-konstitusional-mahkmah-konstitusi-untuk-men-guji",
+      "text": "Undang-Undang terhadap Undang-Undang Dasar semakin dipertegas \nmelalui ketentuan Pasal 29 ayat (1) Huruf a UU No. 48 Tahun 200 9 tentang \nKekuasaan Kehakiman, yang menyebutkan bahwa salah satu kewenang an \nkonstitusional Mahkamah Konstitusi adalah mengadili pada tingka t pertama \ndan terakhir yang putusannya bersifat final untuk menguji Undan g-Undang \nterhadap Undang- Undang Dasar; Pasal 10 ayat (1) huruf a UU No. 24 Tahun \n2003 tentang Mahkamah Konstitusi sebagaimana yang telah diubah terakhir \ndengan UU No. 7 Tahun 2020 tentang perubahan ketiga UU No. 24 T ahun \n2003 tentang Mahkamah Konstitusi, yang menyatakan bahwa, “Mahka mah \nKonstitusi berwenang mengadili pada tingkat pertama dan terakhi r yang \nputusannya bersifat final untuk: a. Menguji Undang-Undang terha dap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945…”;",
+      "start_line": 48,
+      "end_line": 59
+    },
+    {
+      "heading": "4. Bahwa selain itu terdapat pula ketentuan di dalam Pasal 9 ay at (1) UU No.",
+      "slug": "4-bahwa-selain-itu-terdapat-pula-ketentuan-di-dalam-pasal-9-ay-at-1-uu-no",
+      "text": "12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan \nsebagaimana yang telah diubah dengan UU No. 13 Tahun 2022 tenta ng \nPerubahan Kedua Atas UU No. 12 Tahun 2011 tentang Pembentukan \nPeraturan Perundang-Undangan, yang menyatakan bahwa: “Dalam hal  \nsuatu Undang-Undang diduga bertentangan dengan Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945, pengujiannya dilakukan ol eh \nMahkamah Konstitusi”. \n\n 3",
+      "start_line": 61,
+      "end_line": 69
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 1 angka 3 Peraturan Mahkamah Konstit usi (PMK)",
+      "slug": "5-bahwa-berdasarkan-pasal-1-angka-3-peraturan-mahkamah-konstit-usi-pmk",
+      "text": "No. 7 Tahun 2025, menjelaskan “Pengujian Undang-Undang terhadap  UUD \nNRI Tahun 1945 yang selanjutnya disebut PUU adalah perkara kons titusi \nyang menjadi kewenangan Mahkamah sebagaimana dimaksud dalam UUD  \nNRI Tahun 1945 dan Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-\nUndang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (UU MK),  \ntermasuk pengujian Peraturan Pemerintah Pengganti Undang-Undang  \n(Perppu) sebagaimana dimaksud dalam putusan Mahkamah Konstitusi”.",
+      "start_line": 71,
+      "end_line": 79
+    },
+    {
+      "heading": "6. Bahwa sebagai pelindung konstitusi (The Guardian of the Constitution) , MK",
+      "slug": "6-bahwa-sebagai-pelindung-konstitusi-the-guardian-of-the-constitution-mk",
+      "text": "juga berwenang untuk memberikan tafsiran terhadap ketentuan pas al-pasal \ndalam suatu Undang-Undang agar relevan dengan nilai-nilai dalam ketentuan \npada UUD 1945. Tafsir MK terhadap konstitusionalitas pasal-pasa l dalam \nUndang-Undang tersebut merupakan tafsir tunggal (the sole interpreter of the \nconstitution) yang memiliki kekuatan hukum. Oleh karenanya, terhadap \npasal-pasal yang memiliki makna bercabang, ambigu, dan/atau tid ak jelas, \ndapat pula dimintakan penafsirannya kepada MK. Dalam sejumlah p erkara \nPengujian Undang-Undang, MK juga telah beberapa kali menyatakan sebuah \nbagian dari Undang-Undang konstitusional bersyarat (conditionally \nconstitutional) sepanjang ditafsirkan sesuai dengan tafsir yang diberikan MK; \natau sebaliknya tidak konstitusional jika tidak diartikan sesua i dengan \npenafsiran MK;",
+      "start_line": 81,
+      "end_line": 92
+    },
+    {
+      "heading": "7. Oleh karena permohonan yang diajukan oleh para Pemohon ini a dalah",
+      "slug": "7-oleh-karena-permohonan-yang-diajukan-oleh-para-pemohon-ini-a-dalah",
+      "text": "permohonan pengujian Undang-Undang terhadap Undang-Undang Dasar  \nNegara Republik Indonesia Tahun 1945 in casu Pasal 33 Huruf e Undang-\nUndang No. 3 Tahun 2024 tentang Perubahan Kedua atas Undang-Und ang \nNomor 6 Tahun 2014 tentang Desa (Lembaran Negara Republik Indon esia \nTahun 2024 Nomor 77, Tambahan Lembaran Negara Nomor 6914) \nbertentangan dengan Pasal 27 ayat (1), Pasal 28D ayat (1), Pasa l 28D ayat \n(3) Undang-Undang Dasar 1945, maka menurut Pemohon, Mahkamah \nmemiliki kewenagan untuk meneri ma, memeriksa, dan memutus \npermohonan a quo. \n\n 4\nB. KEDUDUKAN HUKUM PEMOHON (LEGAL STANDING) DAN KEPENTINGAN",
+      "start_line": 94,
+      "end_line": 105
+    },
+    {
+      "heading": "1. Dimilikinya kedudukan hukum/ legal standing merupakan syarat yang harus",
+      "slug": "1-dimilikinya-kedudukan-hukum-legal-standing-merupakan-syarat-yang-harus",
+      "text": "dipenuhi oleh setiap Pemohon untuk mengajukan permohonan penguj ian \nUndang-Undang, dimilikinya kedudukan hukum/ legal standing  merupakan \nsyarat yang harus diuji terhadap UUD 1945 kepada Mahkamahn Kons titusi \nsebagaimana diatur dalam Pasal 51 ayat (1) UU MK yang berbunyi Hak \nkonstitusionalnya dirugikan oleh berlakunya Undang-Undang, yaitu: \n“Pemohon adalah pihak yang menganggap hak dan/atau \na. Perorangan warga negara Indonesia ; \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai dengan perkembangan masyarakat dan prinsip Negara \nKesatuan Republik Indonesia yang diatur dalam Undang-Undang",
+      "start_line": 108,
+      "end_line": 117
+    },
+    {
+      "heading": "2. Dalam penjelasan Pasal 51 ayat (1) Undang-Undang Mahkamah Ko nstitusi",
+      "slug": "2-dalam-penjelasan-pasal-51-ayat-1-undang-undang-mahkamah-ko-nstitusi",
+      "text": "menyatakan bahwa yang dimaksud dengan “Hak Konstitusional” adalah hak-\nhak yang diatur dalam Undang-Undang Dasar Negara Republik Indon esia \nTahun 1945",
+      "start_line": 121,
+      "end_line": 123
+    },
+    {
+      "heading": "3. Bahwa atas ketentuan di atas, maka terdapat dua syarat yang harus dipenuhi",
+      "slug": "3-bahwa-atas-ketentuan-di-atas-maka-terdapat-dua-syarat-yang-harus-dipenuhi",
+      "text": "untuk menguji apakah Pemohon memiliki legal standing (dikualifikasi sebagai \nPemohon) dalam permohonan pengujian Undang-Undang tersebut. Ada pun \nsyarat yang pertama adalah kualifikasi bertindak sebagai Pemoho n \nsebagaimana diatur dalam Pasal 51 ayat (1) Undang-Undang Mahkam ah \nKonstitusi. Syarat kedua adalah adanya kerugian Pemohon atas te rbitnya \nUndang-Undang tersebut.",
+      "start_line": 125,
+      "end_line": 130
+    },
+    {
+      "heading": "4. Bahwa selaras dengan itu, terhadap syarat kedudukan para Pem ohon juga",
+      "slug": "4-bahwa-selaras-dengan-itu-terhadap-syarat-kedudukan-para-pem-ohon-juga",
+      "text": "diatur dalam Pasal 4 angka 1 PMK No. 7 Tahun 2025, yang menyatakan: \n“Pemohon sebagaimana dimaksud dalam Pasal 3 Huruf a adalah \nPihak yang menganggap hak dan/atau kewenangan konstitusionalnya \ndirugikan oleh berlakunya Undang-Undang atau Perppu, yaitu: \na. Perorangan warga negara Indonesia atau kelompok orang yang \nmempunyai kepentingan sama; \nb. Kesatuan masyarakat hukum adat sepanjang masih hidup dan \nsesuai",
+      "start_line": 132,
+      "end_line": 139
+    },
+    {
+      "heading": "c. dengan perkembangan masyarakat dan prinsip Negara Kesatuan",
+      "slug": "c-dengan-perkembangan-masyarakat-dan-prinsip-negara-kesatuan",
+      "text": "Republik Indonesia yang diatur dalam Undang-Undang;",
+      "start_line": 141,
+      "end_line": 141
+    },
+    {
+      "heading": "d. Badan hukum publik atau badan hukum privat; atau",
+      "slug": "d-badan-hukum-publik-atau-badan-hukum-privat-atau",
+      "text": "e. Lembaga negara.” \n\n 5",
+      "start_line": 143,
+      "end_line": 145
+    },
+    {
+      "heading": "5. Bahwa sebagai warga negara Indonesia yang dapat di buktikan dengan Kartu",
+      "slug": "5-bahwa-sebagai-warga-negara-indonesia-yang-dapat-di-buktikan-dengan-kartu",
+      "text": "Tanda Penduduk (KTP) (Lampiran Bukti P-4), serta merujuk pada uraian poin \n4 di atas, maka kualifikasi Pemohon adalah perorangan Warga Neg ara \nIndonesia yang memiliki hak konstitusional warga negara sebagaimana yang \ndiatur dalam Pasal 27 ayat (1), Pasal 28 D ayat (1), Pasal 28 D  a y a t  ( 3 )  \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 147,
+      "end_line": 151
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Putusan Mahkamah Konstitusi Nomor 006/PUU- III/2005",
+      "slug": "6-bahwa-berdasarkan-putusan-mahkamah-konstitusi-nomor-006-puu-iii-2005",
+      "text": "tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor \n11/PUUV/2007 tanggal 20 September 2007 serta putusan-putusan \nselanjutnya, Mahkamah Konstitusi telah berpendirian bahwa kerug ian hak \ndan/atau kewenangan konstitusional sebagaimana dimaksud dalam Pasal 51 \nayat (1) Undang-Undang Mahkamah Konstitusi harus memenuhi 5 (li ma) \nsyarat, yaitu: \na. Adanya hak konstitusional Pemohon yang diberikan oleh UUD 19 45.  \nb. Bahwa hak konstitusional Pemohon tersebut dianggap oleh Pemo hon \ntelah dirugikan oleh Undang-Undang yang diuji.",
+      "start_line": 153,
+      "end_line": 161
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional Pemohon yang dimaksud bersifat spesifik",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat-spesifik",
+      "text": "(khusus) dan aktual atau setidak-tidaknya bersifat potensial yang menurut \npenalaran yang wajar (logis) dapat dipastikan akan terjadi.",
+      "start_line": 163,
+      "end_line": 164
+    },
+    {
+      "heading": "d. Adanya hubungan sebab-akibat (causal verband) antara kerugian dan",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian-dan",
+      "text": "berlakunya Undang-Undang yang dimohonkan untuk diuji.  \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan \ntersebut maka kerugian konstitusional yang didalilkan tidak akan tidak lagi \nterjadi.",
+      "start_line": 166,
+      "end_line": 169
+    },
+    {
+      "heading": "7. Bahwa Pemohon yang memiliki hak konstitusional yang secara t egas dijamin",
+      "slug": "7-bahwa-pemohon-yang-memiliki-hak-konstitusional-yang-secara-t-egas-dijamin",
+      "text": "oleh Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Yaitu:  \na. Hak atas persamaan kedudukan dalam hukum dan pemerintahan \nsebagaimana dijamin Pasal 27 ayat (1) UUD 1945, yang menyatakan ; \n“Segala warga negara bersamaan kedudukannya di dalam \nhukum dan pemerintahan dan wajib menjunjung hukum dan \npemerintahan itu dengan tidak ada kecualinya” \nBatas usia 25 (dua puluh lima) tahun menciptakan pengecualian b agi \nindividu yang masih berusia di bawah 25 tahun (dua puluh lima) tahun \nyang sudah punya hak pilih aktif. Demikian norma ini melanggar prinsip \n\n 6\nkesetaraan formal. Norma ini bertentangan karena hak politik wa rga \nnegara terbatas secara asumtif dan bersifat absolut. \nb. Hak atas pengakuan, jaminan, perlindungan, dan kepastian huk um yang \nadil, serta perlakuan yang sama di hadapan hukum, sebagaimana d ijami \npasal 28D ayat (1) yang menyatakan: \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, \ndan kepastian hukum yang adil, serta perlakuan yang sama di \nhadapan hukum” \nKetentuan \"Tiap orang berhak mengakui derajat kemanusiaannya ya ng \nberadab serta mendapat perlakuan yang sesuai dengan derajatnya dalam \nkehidupan negara\" mensyaratkan akses jabatan publik berdasarkan merit \ndan kompetensi, bukan umur arbitrer. Syarat usia minimum menghalangi \npotensi ke pemimpinan desa dari generasi muda berbakat, melangg ar \nmeritokrasi konstitusional. Dengan demikian, norma tersebut \ninkonstitusional sebab bertolak belakang dengan tujuan negara \nmewujudkan keadilan sosial.",
+      "start_line": 171,
+      "end_line": 197
+    },
+    {
+      "heading": "c. Serta hak untuk memperoleh kesempatan yang sama dalam",
+      "slug": "c-serta-hak-untuk-memperoleh-kesempatan-yang-sama-dalam",
+      "text": "pemerintahan sebagaimana ditegaskan dalam Pasal 28D ayat (3) UU D",
+      "start_line": 199,
+      "end_line": 199
+    },
+    {
+      "heading": "1945. yang menyatakan:",
+      "slug": "1945-yang-menyatakan",
+      "text": "“Setiap warga negara berhak memperoleh kesempatan yang \nsama dalam pemerintahan” \nPengecualian calon kepala desa berusia di bawah 25 tahun meniad akan \nkesempatan yang sama di tingkat Desa. Oleh karena itu, Pasal 33  Huruf \ne dapat dianggap inkonstitusional karena menghambat realisasi \npartisipasi deliberatif yang menjadi inti demokrasi konstitusional Indonesia",
+      "start_line": 201,
+      "end_line": 206
+    },
+    {
+      "heading": "8. Bahwa para Pemohon, yang merupakan warga negara Indonesia be rusia di",
+      "slug": "8-bahwa-para-pemohon-yang-merupakan-warga-negara-indonesia-be-rusia-di",
+      "text": "bawah 25 (dua puluh lima) tahun, mengalami kerugian nyata karena batasan \nusia minimal 25 tahun sebagaimana diatur dalam Pasal 33 Huruf e  Undang-\nUndang Nomor 3 Tahun 2024 tentang Perubahan Kedua atas Undang-\nUndang No. 6 Tahun 2024 Desa. Kerugian nyata tersebut meliputi: \na. Bahwa pemohon I, yang berencana mencalonkan diri sebagai Kep ala \nDesa pada pemilihan mendatang, tidak bisa mendaftar akibat \npembatasan usia. Hal ini mengakibatkan hilangnya kesempatan pol itik \ndan potensi pemimpin muda yang siap mengabdi untuk desa mereka. \n\n 7\nb. Bahwa ini menciptakan ketidakadilan dalam akses partisipasi politik, yang \nmerupakan hak fundamental Pemohon. Kehadiran Pemohon dalam \nstruktur pemerintahan desa penting untuk perwakilan suara gener asi \nmuda.",
+      "start_line": 208,
+      "end_line": 221
+    },
+    {
+      "heading": "c. Kesulitan dalam Mewujudkan Aspirasi:",
+      "slug": "c-kesulitan-dalam-mewujudkan-aspirasi",
+      "text": "Pembatasan usia ini membuat para Pemohon tidak dapat mewujudkan  \naspirasi mereka untuk berkontribusi dalam pembangunan masyaraka t \ndesa.",
+      "start_line": 223,
+      "end_line": 225
+    },
+    {
+      "heading": "9. Bahwa dengan berlakunya Pasal 33 Huruf e Undang-Undang Nomor 3 Tahun",
+      "slug": "9-bahwa-dengan-berlakunya-pasal-33-huruf-e-undang-undang-nomor-3-tahun",
+      "text": "2024 tentang Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 2014 \ntentang Desa (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 77, \nTambahan Lembaran Negara Nomor 6914), hak-hak konstitusional Pemohon \ntersebut telah dirugikan. Norma a quo secara nyata telah membatasi ruang \npartisipasi Pemohon sebagai warga negara dalam pemerintahan des a, \nmempersempit kesempatan Pemohon sebagai warga desa untuk terlib at \nsecara setara dalam penyelenggaraan pemerintahan, serta mencipt akan \nkonsentrasi kekuasaan yang bertentangan dengan prinsip demokras i desa. \nAkibat keberlakuan norma tersebut, Pemohon berada dalam posisi yang tidak \nlagi memiliki kesempatan yang sama dalam pemerintahan desa \nsebagaimana dijamin oleh Undang-Undang Dasar 1945.",
+      "start_line": 227,
+      "end_line": 237
+    },
+    {
+      "heading": "10. Bahwa berlakunya Pasal 33 Huruf e Undang-Undang No. 3 Tahun 2024 yang",
+      "slug": "10-bahwa-berlakunya-pasal-33-huruf-e-undang-undang-no-3-tahun-2024-yang",
+      "text": "mensyaratkan usia paling rendah 25 (dua puluh lima) tahun untuk  \nmencalonkan diri sebagai Kepala Desa, secara langsung menutup a kses \npara Pemohon untuk menggunakan haknya untuk dipilih. Dengan ada nya \nketentuan tersebut, Pemohon I yang berencana mencalonkan diri s ebagai \nKepala Desa pada pemilihan Kepala Desa Ponelo tahun 2026 secara aktual \ntidak dapat mencalonkan diri karena Pemohon pada saat pendaftar an \nberusia 21-22 tahun. Serta kerugian konstitusional yang bersifa t potensial \nmenghambat pemohon II yang ingin mencalonkan diri sebagai Kepala Desa.",
+      "start_line": 239,
+      "end_line": 246
+    },
+    {
+      "heading": "11. Bahwa terdapat banyak daftar pemuda yang berusia di bawah 25 (dua puluh",
+      "slug": "11-bahwa-terdapat-banyak-daftar-pemuda-yang-berusia-di-bawah-25-dua-puluh",
+      "text": "lima) tahun yang secara faktual dan konstitusional telah diberi kan \nkepercayaan untuk menduduki jabatan publik, salah satunya Annis a \nMaharani Alzahra Mahesa yang menjabat sebagai Anggota Dewan \nPerwakilan Rakyat (DPR) Republik Indonesia pada usia sekitar 23 (dua puluh \n\n 8\ntiga) tahun. Fakta tersebut, menurut Pemohon perlu dijadikan la ndasan \nobjektif bahwa kapasitas, kecakapan, dan legitimasi konstitusional seseorang \nuntuk berpartisipasi dalam pemerintahan tidak semata-mata diten tukan oleh \nbatas usia tertentu, melainkan oleh terpenuhinya syarat hukum, mandat \nrakyat, serta prinsip persamaan kedudukan warga negara dalam hukum dan \npemerintahan sebagaimana dijamin oleh Undang-Undang Dasar Negar a \nRepublik Indonesia Tahun 1945.",
+      "start_line": 248,
+      "end_line": 260
+    },
+    {
+      "heading": "12. Bahwa keberhasilan keterpilihan figur pemuda dalam jabatan publik yang",
+      "slug": "12-bahwa-keberhasilan-keterpilihan-figur-pemuda-dalam-jabatan-publik-yang",
+      "text": "bersifat jamak ( kolektif-kolegial) seperti Anggota DPR RI di atas usia 21 \ntahun, sejatinya mematahkan kekhawatiran psikologis maupun sosi ologis \nmengenai ketidakmatangan usia dalam memikul tanggung jawab \nkenegaraan. Justru terdapat inkonsistensi logika hukum ( contradictio in \nterminis) yang fundamental ketika negara mempercayakan perumusan \nkebijakan makro nasional (Undang-Undang dan APBN) yang berdampa k \npada seluruh rakyat Indonesia kepada pemuda berusia 23 tahun, n amun di \nsisi lain menutup rapat-rapat pintu kepemimpinan eksekutif mikr o di tingkat \ndesa melalui batas usia minimal 25 tahun bagi calon Kepala Desa;",
+      "start_line": 262,
+      "end_line": 270
+    },
+    {
+      "heading": "13. Bahwa argumentasi klasik yang menyatakan bahwa posisi Kepal a Desa",
+      "slug": "13-bahwa-argumentasi-klasik-yang-menyatakan-bahwa-posisi-kepal-a-desa",
+      "text": "memerlukan kematangan mutlak di atas usia 25 tahun karena \nkarakteristiknya sebagai jabatan tunggal (single-executive) tidak lagi memiliki \nlandasan rasionalitas yang adil. Karakteristik jabatan tunggal eksekutif pada \nlevel pemerintahan terkecil (desa) secara faktual diimbangi dan  d i a w a s i  \nsecara melekat (checks and balances) oleh Badan Permusyawaratan Desa \n(BPD) selaku representasi jamak dari masyarakat desa, serta dib antu oleh \ninstrumen Sekretaris Desa dan Perangkat Desa yang bersifat prof esional-\nbirokratis. Dengan demikian, risiko mutlak dari pergeseran keputusan mandiri \nseorang Kepala Desa muda telah diredam oleh sistem ketatanegaraan desa \nitu sendiri;",
+      "start_line": 272,
+      "end_line": 281
+    },
+    {
+      "heading": "di tingkat lokal ini sejalan dengan tren global. Sebagai kompar asi, Negara",
+      "slug": "di-tingkat-lokal-ini-sejalan-dengan-tren-global-sebagai-kompar-asi-negara",
+      "text": "Vietnam melalui Nghị định 185/2026/NĐ-CP secara progresif menur unkan \nbatas usia Kepala Desa ( Trưởng thôn ) menjadi 21 tahun dengan \nmenitikberatkan pada kapasitas kepemimpinan kepemudaan. Oleh ka rena \n\n 9\nitu, memberikan ruang bagi pemuda berpengalaman organisasi dala m \nPetitum Alternatif merupakan langkah konstitusional untuk memas tikan \npemerintahan desa dipimpin oleh figur muda yang tidak hanya visioner, tetapi \njuga matang secara manajerial.",
+      "start_line": 284,
+      "end_line": 292
+    },
+    {
+      "heading": "15. Bahwa terdapat hubungan sebab-akibat (causal verband) yang jelas dan",
+      "slug": "15-bahwa-terdapat-hubungan-sebab-akibat-causal-verband-yang-jelas-dan",
+      "text": "langsung antara berlakunya Pasal 33 Huruf e Undang-Undang Nomor  3  \nTahun 2024 dengan timbulnya kerugian konstitusional yang dialam i \nPemohon. Hilangnya atau tereduksinya hak Pemohon untuk memperol eh \nkesempatan yang sama dalam pemerintahan desa bukan disebabkan o leh \nfaktor lain, melainkan merupakan konsekuensi langsung dari kebe rlakuan \nnorma Undang-Undang yang dimohonkan pengujian. Tanpa keberlakua n \nnorma a quo,  kerugian konstitusional tersebut tidak akan dialami oleh \nPemohon.",
+      "start_line": 294,
+      "end_line": 301
+    },
+    {
+      "heading": "16. Bahwa Pemohon secara aktual dan spesifik dirugikan oleh keb erlakuan",
+      "slug": "16-bahwa-pemohon-secara-aktual-dan-spesifik-dirugikan-oleh-keb-erlakuan",
+      "text": "norma a quo karena meskipun telah memiliki pengalaman kepemimpi nan \nsosial di lingkungan desa, Pemohon tetap kehilangan hak konstit usional \nuntuk mencalonkan diri sebagai Kepala Desa semata-mata akibat t idak \nterpenuhinya batas usia minimum. Kerugian tersebut bersifat nya ta, \nlangsung, dan berpotensi berulang sepanjang norma dimaksud teta p \ndiberlakukan.",
+      "start_line": 303,
+      "end_line": 308
+    },
+    {
+      "heading": "17. Bahwa berdasarkan uraian argumentasi di atas tentang kedudu kan hukum",
+      "slug": "17-bahwa-berdasarkan-uraian-argumentasi-di-atas-tentang-kedudu-kan-hukum",
+      "text": "Pemohon di dalam mengajukan permohonan ini di Mahkamah Konstitu si, \nPemohon meyakini bahwa Pemohon memiliki kedudukan hukum untuk \nmengajukan permohonan ini. \nC. PENEGASAN TERHADAP PERMOHONAN YANG PERNAH DIAJUKAN \nSEBELUMNYA (NE BIS IN IDEM)",
+      "start_line": 310,
+      "end_line": 314
+    },
+    {
+      "heading": "1. Bahwa Pemohon sebelumnya pernah mengajukan permohonan penguj ian",
+      "slug": "1-bahwa-pemohon-sebelumnya-pernah-mengajukan-permohonan-penguj-ian",
+      "text": "konstitusional terhadap norma a quo dengan Pemohon yang sama (Putusan \nNOMOR 259/PUU-XXIII/2025). Namun demikian, permohonan tersebut telah \ndiputus oleh Mahkamah Konstitusi dengan amar “Tidak Dapat Diter ima” \nkarena adanya cacat formil dalam penyusunan permohonan, sehingg a \nMahkamah belum pernah melakukan pemeriksaan maupun memberikan \npertimbangan terhadap pokok perkara a quo. \n\n 10",
+      "start_line": 316,
+      "end_line": 323
+    },
+    {
+      "heading": "2. Bahwa secara doktrinal, asas ne bis in idem hanya dapat diterapkan apabila",
+      "slug": "2-bahwa-secara-doktrinal-asas-ne-bis-in-idem-hanya-dapat-diterapkan-apabila",
+      "text": "telah terdapat putusan yang bersifat final terhadap substansi perkara. Dalam \nkonteks pengujian Undang-Undang, putusan “Tidak Dapat Diterima”  \nmerupakan putusan yang bersifat prosedural ( procedural dismissal), bukan \nputusan yang menilai konstitusionalitas norma. Oleh karena itu,  pengajuan \nkembali permohonan ini tidak dapat dikualifikasikan sebagai ne bis in idem.",
+      "start_line": 325,
+      "end_line": 329
+    },
+    {
+      "heading": "3. Bahwa sejalan dengan doktrin hukum acara konstitusi, permoho nan yang",
+      "slug": "3-bahwa-sejalan-dengan-doktrin-hukum-acara-konstitusi-permoho-nan-yang",
+      "text": "sebelumnya diputus tidak dapat diterima tetap membuka ruang pen gajuan \nkembali sepanjang Pemohon telah memperbaiki kekurangan formal y ang \nmenjadi dasar putusan sebelumnya. Dalam permohonan a quo , Pemohon \ntelah melakukan perbaikan menyeluruh, khususnya terkait perumus an \nkerugian konstitusional yang aktual dan spesifik, koherensi antara posita dan \npetitum, serta kejelasan amar permohonan.",
+      "start_line": 331,
+      "end_line": 336
+    },
+    {
+      "heading": "4. Bahwa dengan demikian, permohonan ini merupakan permohonan b aru",
+      "slug": "4-bahwa-dengan-demikian-permohonan-ini-merupakan-permohonan-b-aru",
+      "text": "secara yuridis, yang tidak hanya berbeda dari segi konstruksi f ormal, tetapi \njuga telah memenuhi standar argumentasi konstitusional, sehingg a layak \nuntuk diperiksa dan dipertimbangkan pokok perkaranya oleh Mahka mah \nKonstitusi. \nD. ALASAN-ALASAN PERMOHONAN/ POKOK-POKOK PERMOHONAN \nKerangka Acuan Permohonan adalah Undang-Undang Pasal 33 Huruf e  \nUndang-Undang Nomor 3 Tahun 2024 Perubahan Kedua Atas Undang-\nUndang Nomor 6 Tahun 2014 tentang Desa terhadap Pasal 27 ayat (1), Pasal \n28D ayat (1) Pasal 28D ayat (3) Undang-Undang Dasar 1945.",
+      "start_line": 338,
+      "end_line": 346
+    },
+    {
+      "heading": "1. Bahwa hal-hal yang telah dikemukakan dalam kedudukan hukum d an",
+      "slug": "1-bahwa-hal-hal-yang-telah-dikemukakan-dalam-kedudukan-hukum-d-an",
+      "text": "kewenangan Mahkamah sebagaimana diuraikan di atas adalah merupa kan \nbagian yang tidak terpisahkan dari pokok permohonan ini.",
+      "start_line": 348,
+      "end_line": 349
+    },
+    {
+      "heading": "2. Ruang Lingkup Pasal yang Diuji",
+      "slug": "2-ruang-lingkup-pasal-yang-diuji",
+      "text": "a. Bahwa Pemohon dalam pengujian ini mengajukan permohonan tent ang \nkonstitusionalitas Undang-Undang Pasal 33 Huruf e Undang-Undang  \nNomor 3 Tahun 2024 Perubahan Kedua atas Undang-Undang Nomor 6 \nTahun 2014 tentang Desa (Lembaran Negara Republik Indonesia Tah un \n2024 Nomor 77, Tambahan Lembaran Negara Nomor 6914) yang \nberbunyi; “Berusia paling rendah 25 (dua puluh lima) tahun pada  saat \nmendaftar…” \n\n 11\nb. Bahwa Pasal 33 Huruf e Undang-Undang Nomor 3 Tahun 2024 tent ang \nPerubahan Kedua atas Undang-Undang Nomor 6 Tahun 2014 tentang \nDesa, khususnya frasa “berusia paling rendah 25 (dua puluh lima ) tahun \npada saat mendaftar…”, merupakan norma hukum yang secara langsung \nmengatur syarat konstitusional bagi warga negara untuk mencalonkan diri \nsebagai Kepala Desa. Norma a quo bukanlah norma administratif biasa, \nmelainkan norma yang membatasi hak politik warga negara untuk d ipilih \n(right to be elected).",
+      "start_line": 351,
+      "end_line": 367
+    },
+    {
+      "heading": "c. Bahwa dalam teori negara hukum demokratis, setiap norma yang",
+      "slug": "c-bahwa-dalam-teori-negara-hukum-demokratis-setiap-norma-yang",
+      "text": "membatasi hak konstitusional warga negara harus tunduk pada pengujian \nkonstitusional yang ketat (strict scrutiny), khususnya apabila pembatasan \ntersebut bersifat absolut bagi kelompok warga negara tertentu. Oleh \nkarena itu, pengujian terhadap norma a quo tidak dapat diletakkan \nsemata-mata sebagai perbedaan pandangan kebijakan ( policy \ndisagreement), melainkan harus dipahami sebagai persoalan \nkonstitusional yang menyentuh substansi jaminan hak politik war ga \nnegara sebagaimana dijamin oleh Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945.",
+      "start_line": 369,
+      "end_line": 377
+    },
+    {
+      "heading": "d. Bahwa dalam doktrin hukum tata negara, penentuan batas usia bagi",
+      "slug": "d-bahwa-dalam-doktrin-hukum-tata-negara-penentuan-batas-usia-bagi",
+      "text": "pengisian jabatan publik pada prinsipnya termasuk dalam ruang kebijakan \npembentuk Undang-Undang ( open legal policy ) .  D o k t r i n  i n i  m e n g a k u i  \nadanya diskresi konstitusional bagi pembentuk Undang-Undang unt uk \nmerumuskan pilihan-pilihan kebijakan tertentu sepanjang berada dalam \nkerangka kewenangannya. Namun demikian, keberadaan open legal \npolicy tidak serta-merta menempatkan suatu norma di luar jangkauan \npengujian konstitusional oleh Mahkamah Konstitusi. \ne. Bahwa mengenai open legal policy dalam poin 118 halaman 32 putusan \nMahkamah Konstitusi Nomor 22/PUU-XV/2017, Mahkamah Konstitusi \nRepublik Indonesia menyatakan ; \n“…Mahkamah tidak dapat membatalkannya, sebab yang dinilai \nburuk tidak selalu berarti inkonstitusional, kecuali produk legal policy \ntersebut jelas-jelas melanggar moralitas, rasionalitas, dan \nketidakadilan yang intolerable...\". \nf. Bahwa Mahkamah Konstitusi dalam Putusan Nomor 90/PUU-XXI/202 3 \n(Lampiran Bukti P-3) pernah membatalkan pembatasan usia karena \n\n 12\ndianggap tidak rasional dan menghambat hak konstitusional. Putu san ini \nmerupakan preseden langsung bahwa Mahkmah Konstitusi dapat \nmengoreksi batas usia jika norma tersebut tidak proporsional \ng. Bahwa secara teoritik, pembatasan hak konstitusional melalui  kebijakan \nhukum terbuka hanya dapat dibenarkan apabila kebijakan tersebut  \nmemiliki justifikasi konstitusional yang memadai dan dapat \ndipertanggungjawabkan secara rasional. Dan mengenai Pasal 33 Huruf e \nUndang-Undang No. 3 Tahun 2024, pembentuk Undang-Undang tidak \nmemberikan dasar akademis, data empiris, maupun alasan rasional yang \nmenjelaskan penetapan usia minimal 25 tahun. Ketiadaan dasar tersebut \nmenjadikan pembatasan usia ini tidak rasional, sementara Mahkam ah \nKonstitusi dalam berbagai putusannya menegaskan bahwa pembatasa n \nhak konstitusional harus memiliki justifikasi yang memadai, yan g dalam \nnorma ini tidak terpenuhi. Dengan demikian, norma usia 25 (dua puluh \nlima) tahun gagal memenuhi standar open legal policy  dan karenanya \ntidak layak dipertahankan. \nh. Dari aspek legitimate aim , pembatasan hak politik hanya dapat \ndibenarkan apabila bertujuan melindungi kepentingan publik yang benar-\nbenar penting, seperti menjaga stabilitas pemerintahan atau memastikan \nkualitas kepemimpinan. Dalam hal ini pembentuk Undang-Undang ti dak \nmenjelaskan secara jelas tujuan penting yang hendak dicapai mel alui \nbatas usia 25 (dua puluh lima) tahun. Ketiadaan dasar tersebut \nmenyebabkan kebijakan a quo tidak memenuhi standar kebijakan hukum \nterbuka yang rasional, melainkan cenderung berubah menjadi \npembatasan hak yang bersifat kaku dan tidak dapat diuji secara objektif.",
+      "start_line": 379,
+      "end_line": 421
+    },
+    {
+      "heading": "i. Bahwa ketiadaan dasar akademik, rasionalitas objektif, serta t u j u a n",
+      "slug": "i-bahwa-ketiadaan-dasar-akademik-rasionalitas-objektif-serta-t-u-j-u-a-n",
+      "text": "konstitusional yang jelas dalam penetapan batas usia minimal 25  (dua \npuluh lima) tahun tersebut menjadikan norma a quo  bukan sekadar \nkebijakan hukum terbuka ( open legal policy ), melainkan kebijakan yang \nbersifat sewenang-wenang ( arbitrary). Pembatasan hak konstitusional \nyang dilakukan secara absolut tanpa parameter yang dapat diuji dan \ntanpa mekanisme pengecualian yang rasional bertentangan dengan \nprinsip negara hukum (rechtstaat) yang menuntut setiap pembatasan hak",
+      "start_line": 423,
+      "end_line": 429
+    },
+    {
+      "heading": "di dasarkan pada alasan yang masuk akal, dapat",
+      "slug": "di-dasarkan-pada-alasan-yang-masuk-akal-dapat",
+      "text": "13\ndipertanggungjawabkan, dan proporsional. Oleh karena itu, norma a quo \ntidak hanya tidak rasional, tetapi juga mencerminkan bentuk kesewenang-\nwenangan pembentuk Undang-Undang yang tidak dapat dibenarkan \ndalam sistem konstitusi Indonesia. \nj. Bahwa oleh karena itu, norma a quo tidak dapat lagi diposisikan semata-\nmata sebagai open legal policy  yang harus dihormati tanpa syarat. \nSebaliknya, norma tersebut telah melampaui batas toleransi kebi jakan \nhukum terbuka karena berdampak langsung pada peniadaan hak poli tik \nwarga negara tertentu tanpa mekanisme penilaian alternatif yang  l e b i h  \nproporsional. Dalam keadaan demikian, Mahkamah Konstitusi tidak  \nhanya berwenang, tetapi juga berkewajiban untuk melakukan pengu jian \nkonstitusional terhadap norma tersebut. \nk. Bahwa dengan demikian, permohonan a quo  tidak dimaksudkan untuk \nmenegasikan kewenangan pembentuk Undang-Undang dalam \nmerumuskan kebijakan, melainkan untuk memastikan bahwa kebijaka n \ntersebut tetap berada dalam koridor konstitusi. Pengujian terhadap Pasal \n33 Huruf e Undang-Undang Nomor 3 Tahun 2024 justru penegasan peran \nMahkamah Konstitusi sebagai penjaga konstitusi ( the guardian of the \nconstitution) agar kebijakan hukum terbuka tidak berubah menjadi \ninstrumen pembatasan hak yang sewenang-wenang.",
+      "start_line": 431,
+      "end_line": 452
+    },
+    {
+      "heading": "3. Bahwa dalam negara hukum demokratis, setiap pembatasan terha dap hak",
+      "slug": "3-bahwa-dalam-negara-hukum-demokratis-setiap-pembatasan-terha-dap-hak",
+      "text": "konstitusional warga negara hanya dapat dibenarkan apabila meme nuhi \nprinsip proporsionalitas. Prinsip ini merupakan instrumen pengu jian \nkonstitusional yang digunakan untuk memastikan bahwa pembatasan  h a k  \ntidak dilakukan secara berlebihan dan tetap berada dalam korido r keadilan \nsubstantif. Mahkamah Konstitusi dalam berbagai putusannya telah  \nmenggunakan pendekatan proporsionalitas untuk menilai konstitus ionalitas \nnorma yang membatasi hak, khususnya hak politik warga negara. D alam uji \nproporsionalitas secara doktrinal terdiri atas empat tahapan, yaitu: legitimate \naim, suitability, necessity, dan balancing. Keempat tahapan tersebut harus \ndipenuhi secara kumulatif. Kegagalan memenuhi salah satu tahapa n saja \nsudah cukup untuk menyatakan bahwa pembatasan hak yang diuji ti dak \nproporsional dan dengan demikian bertentangan dengan Undang-Und ang \nDasar Negara Republik Indonesia Tahun 1945. \n\n 14\na. Bahwa dari aspek legitimate aim, pembatasan hak politik warga negara \nhanya dapat dibenarkan apabila bertujuan melindungi kepentingan publik \nyang benar-benar penting dan bersifat konstitusional. Dalam norma Pasal \n33 Huruf e Undang-Undang Nomor 3 Tahun 2024, pembentuk Undang-\nUndang tidak menjelaskan secara eksplisit tujuan konstitusional  yang \nhendak dicapai melalui penetapan batas usia minimal 25 (dua puluh lima) \ntahun bagi calon Kepala Desa. Ketiadaan tujuan yang jelas terse but \nmenyebabkan pembatasan hak dalam norma a quo  kehilangan dasar \nlegitimasi konstitusionalnya \nb. Bahwa dari aspek suitability, suatu pembatasan hak harus memiliki \nhubungan yang rasional dan relevan dengan tujuan yang hendak dicapai. \nPenetapan usia minimal 25 tahun sebagai syarat pencalonan Kepal a \nDesa tidak menunjukkan hubungan kausal yang niscaya dengan \npeningkatan kualitas kepemimpinan atau efektivitas pemerintahan  desa. \nUsia sebagai variabel biologis tidak secara otomatis mencermink an \nkapasitas kepemimpinan, integritas moral, maupun kemampuan \nadministratif seseorang.",
+      "start_line": 454,
+      "end_line": 485
+    },
+    {
+      "heading": "c. Bahwa dari aspek necessity, pembatasan hak hanya dapat dibenarkan",
+      "slug": "c-bahwa-dari-aspek-necessity-pembatasan-hak-hanya-dapat-dibenarkan",
+      "text": "apabila tidak terdapat alternatif kebijakan lain yang lebih rin gan namun \ntetap efektif untuk mencapai tujuan yang sama. Dalam konteks no rma a \nquo, terdapat berbagai alternatif yang lebih proporsional, antara lain \ndengan mempertimbangkan pengalaman kepemimpinan, keterlibatan \natau organisasi kemasyarakatan tingkat desa. Oleh karena itu, \npenggunaan usia sebagai satu-satunya indikator kelayakan jabatan tidak \ndapat dianggap sebagai langkah yang niscaya.",
+      "start_line": 487,
+      "end_line": 493
+    },
+    {
+      "heading": "d. Bahwa dari aspek balancing, pembatasan hak harus menghasilkan",
+      "slug": "d-bahwa-dari-aspek-balancing-pembatasan-hak-harus-menghasilkan",
+      "text": "keseimbangan yang adil antara kepentingan individu yang dibatas i \ndengan kepentingan publik yang hendak dilindungi. Norma a quo  \nmenimbulkan kerugian yang bersifat absolut terhadap hak politik  P a r a  \nPemohon karena menutup akses mereka secara total untuk mencalonkan \ndiri sebagai Kepala Desa. Sebaliknya, manfaat yang diklaim dari  \npembatasan usia tersebut bersifat asumtif dan tidak didukung ol eh bukti \nempiris yang meyakinkan. \n\n 15\nDengan demikian, norma Pasal 33 huruf e Undang-Undang Nomor 3 \nTahun 2024 gagal memenuhi seluruh tahapan uji proporsionalitas dan \nkarenanya tidak dapat dipertahankan konstitusionalitasnya. Kega galan ini \nmenegaskan bahwa pembatasan usia minimal 25 (dua puluh lima) tahun bagi \ncalon Kepala Desa merupakan pembatasan hak politik yang tidak \nproporsional, sehingga menuntut koreksi melalui pengujian oleh Mahkamah \nKonstitusi demi menjaga supremasi konstitusi dan perlindungan h ak \nkonstitusional warga negara.",
+      "start_line": 495,
+      "end_line": 511
+    },
+    {
+      "heading": "4. Bahwa Pasal 33 Huruf e Undang-Undang Nomor 3 Tahun 2024 Peru bahan",
+      "slug": "4-bahwa-pasal-33-huruf-e-undang-undang-nomor-3-tahun-2024-peru-bahan",
+      "text": "Kedua Atas Undang-Undang Nomor 6 Tahun 2014 juga telah bertenta ngan \ndengan hak-hak konstitusional Pemohon yang diatur dan dilindungi Undang-\nUndang Dasar 1945 yaitu: \na. Hak atas persamaan kedudukan dalam hukum dan pemerintahan (P asal \n27 ayat (1) UUD 1945) menyatakan: \n“Segala warga negara bersamaan kedudukannya di dalam \nhukum dan pemerintahan dan wajib menjunjung hukum dan \npemerintahan itu dengan tidak ada kecualinya.” \n1) Bahwa Pasal 27 ayat (1) Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945 menegaskan prinsip fundamental bahwa segala \nwarga negara bersamaan kedudukannya di dalam hukum dan \npemerintahan. Prinsip ini merupakan salah satu pilar utama nega ra \nhukum demokratis yang menjamin bahwa setiap warga negara \ndiperlakukan secara setara oleh hukum, tanpa pembedaan yang tidak",
+      "start_line": 513,
+      "end_line": 526
+    },
+    {
+      "heading": "di dasarkan pada alasan konstitusional yang sah dan rasional.",
+      "slug": "di-dasarkan-pada-alasan-konstitusional-yang-sah-dan-rasional",
+      "text": "2) Bahwa norma a quo  telah menciptakan perlakuan yang tidak sama \n(Unequal Treatment) terhadap warga negara yang belum mencapai \nusia 25 (dua puluh lima) tahun, meskipun secara hukum telah cak ap \ndan memenuhi persyaratan lain untuk mencalonkan diri sebagai \nKepala Desa. Persamaan kedudukan dalam hukum dan pemerintahan \ntidak berarti meniadakan seluruh bentuk pembedaan, melainkan \nmelarang pembedaan yang bersifat sewenang-wenang dan tidak \nproporsional. Dalam teori hukum konstitusi, suatu pembedaan han ya \ndapat dibenarkan apabila didasarkan pada kriteria objektif, ras ional, \ndan memiliki hubungan yang relevan dengan tujuan konstitusional  \nyang hendak dicapai. \n\n 16\n3) Bahwa dengan demikian, Pasal 33 Huruf e Undang-Undang Nomor 3 \nTahun 2024, sepanjang dimaknai sebagai pembatasan absolut \nberbasis usia, telah melanggar prinsip persamaan kedudukan huku m \ndan pemerintahan. Norma a quo menciptakan perlakuan yang tidak \nsetara terhadap warga negara yang secara hukum telah cakap, \nsehingga bertentangan dengan Pasal 27 ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945. \nb. Hak untuk mendapatkan kepastian hukum yang merata sebagai \nperwujudan kedaulatan Rakyat (Pasal 28D ayat (1) UUD 1945) yang  \nmenyatakan : \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, \ndan kepastian hukum yang adil serta perlakuan yang sama di \nhadapan hukum.”",
+      "start_line": 528,
+      "end_line": 553
+    },
+    {
+      "heading": "1. Bahwa Mahkamah Konstitusi dalam berbagai putusannya telah",
+      "slug": "1-bahwa-mahkamah-konstitusi-dalam-berbagai-putusannya-telah",
+      "text": "menegaskan bahwa “kepastian hukum yang adil” tidak dapat dimaknai \nsemata-mata sebagai kepastian normatif berbasis teks, melainkan  \nharus mengandung unsur reasonableness dan fairness. Dalam \nPutusan Nomor 011-017/PUU-I/2003 dan Putusan Nomor 21/PUU-\nXII/2014, Mahkamah menyatakan bahwa suatu norma yang \nmemberikan kepastian hukum secara formal tetapi tidak rasional atau \nmenimbulkan ketidakadilan substantif tetap dapat dinilai bertentangan \ndengan Pasal 28D ayat (1) UUD 1945. Oleh karena itu, kepastian \nhukum harus berjalan seiring dengan keadilan dan rasionalitas",
+      "start_line": 555,
+      "end_line": 563
+    },
+    {
+      "heading": "2. Bahwa Mahkamah Konstitusi dalam Putusan Nomor 90/PUU-",
+      "slug": "2-bahwa-mahkamah-konstitusi-dalam-putusan-nomor-90-puu",
+      "text": "XXI/2023 menegaskan bahwa “pembatasan hak konstitusional yang \ntidak didasarkan pada rasionalitas yang dapat diuji dan tidak \nproporsional berpotensi melanggar prinsip kepastian hukum yang \nadil”. Meskipun konteks putusan tersebut berbeda, Mahkamah secara \nprinsip menilai bahwa penggunaan batas usia sebagai syarat jaba tan \npublik tidak boleh bersifat se wenang-wenang dan harus memiliki \njustifikasi yang jelas agar tidak mencederai Pasal 28D ayat (1)  UUD \n1945.",
+      "start_line": 565,
+      "end_line": 572
+    },
+    {
+      "heading": "3. Bahwa secara filosofis, hukum yang adil tidak boleh memperla kukan",
+      "slug": "3-bahwa-secara-filosofis-hukum-yang-adil-tidak-boleh-memperla-kukan",
+      "text": "warga negara sebagai objek angka normatif semata, melainkan \nsebagai subjek hukum yang memiliki kapasitas, martabat, dan potensi \n\n 17\nyang dinamis. Norma a quo  yang menutup akses warga negara di \nbawah usia 25 tahun secara total menciptakan situasi di mana hukum \ntidak lagi berfungsi sebagai pelindung hak, melainkan sebagai \npenghalang partisipasi, sehingga bertentangan dengan makna \nkeadilan substantif yang menjadi roh Pasal 28D ayat (1) UUD 1945.",
+      "start_line": 574,
+      "end_line": 582
+    },
+    {
+      "heading": "4. Bahwa oleh karena itu, Pasal 33 Huruf e Undang-Undang Nomor 3",
+      "slug": "4-bahwa-oleh-karena-itu-pasal-33-huruf-e-undang-undang-nomor-3",
+      "text": "Tahun 2024, sepanjang dimaknai sebagai pembatasan usia yang kaku \ndan tanpa dasar rasional yang memadai, telah bertentangan denga n \nPasal 28D ayat (1) UUD 1945. Norma a quo gagal menjamin kepastian \nhukum yang adil dan perlakuan yang setara di hadapan hukum, \nsehingga Mahkamah Konstitusi beralasan secara konstitusional untuk \nmenyatakan norma tersebut inkonstitusional, setidak-tidaknya se cara \nbersyarat, demi memulihkan prinsip keadilan dan kepastian hukum  \nbagi warga negara.",
+      "start_line": 584,
+      "end_line": 591
+    },
+    {
+      "heading": "c. Hak untuk memperoleh kesempatan yang sama dalam pemerintahan",
+      "slug": "c-hak-untuk-memperoleh-kesempatan-yang-sama-dalam-pemerintahan",
+      "text": "(Pasal 28D ayat (3) UUD 1945) menyatakan : \n“Setiap warga negara berhak memperoleh kesempatan yang \nsama dalam pemerintahan.”",
+      "start_line": 593,
+      "end_line": 595
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 33 Huruf e No.3 Tahun 2024 a quo secara",
+      "slug": "1-bahwa-ketentuan-pasal-33-huruf-e-no-3-tahun-2024-a-quo-secara",
+      "text": "langsung menutup kesempatan para Pemohon untuk memperoleh \nakses yang setara dalam pemerintahan desa, karena Para Pemohon \nkehilangan hak untuk mencalonkan diri sebagai Kepala Desa semata-\nmata akibat pembatasan usia.",
+      "start_line": 597,
+      "end_line": 600
+    },
+    {
+      "heading": "2. Bahwa secara teoritik, hak atas kesempatan yang sama dalam",
+      "slug": "2-bahwa-secara-teoritik-hak-atas-kesempatan-yang-sama-dalam",
+      "text": "pemerintahan merupakan bagian integral dari hak politik warga negara \ndalam negara demokratis. Hak tersebut tidak hanya berkaitan dengan \naspek prosedural pengisian jabatan, tetapi juga menyangkut substansi \nkeadilan akses (fair access) terhadap kekuasaan publik. Oleh karena \nitu, setiap pembatasan terhadap hak ini harus dirancang menurut  \nrasionalitas dan keadilan agar tidak menutup peluang warga nega ra \nuntuk berpartisipasi secara setara dalam pemerintahan.",
+      "start_line": 602,
+      "end_line": 608
+    },
+    {
+      "heading": "3. Bahwa dengan demikian, Pasal 33 Huruf e Undang-Undang Nomor 3",
+      "slug": "3-bahwa-dengan-demikian-pasal-33-huruf-e-undang-undang-nomor-3",
+      "text": "Tahun 2024, sepanjang dimaknai sebagai pembatasan absolut \nterhadap pencalonan Kepala Desa berdasarkan usia, telah \nbertentangan dengan hak atas kesempatan yang sama dalam \n\n 18\npemerintahan sebagaimana dijamin dalam Pasal 28D ayat (3) UUD",
+      "start_line": 610,
+      "end_line": 615
+    },
+    {
+      "heading": "1945. Norma a quo tidak hanya merugikan Para Pemohon secara",
+      "slug": "1945-norma-a-quo-tidak-hanya-merugikan-para-pemohon-secara",
+      "text": "individual, tetapi juga mencederai prinsip keadilan akses dalam sistem \npemerintahan demokratis Indonesia.",
+      "start_line": 617,
+      "end_line": 618
+    },
+    {
+      "heading": "4. Pembatasan tersebut tidak proporsional, mengingat secara fak tual",
+      "slug": "4-pembatasan-tersebut-tidak-proporsional-mengingat-secara-fak-tual",
+      "text": "negara pernah dan masih memberikan kepercayaan jabatan publik \nkepada warga negara di bawah usia 25 (dua puluh lima) tahun, \ntermasuk pada jabatan dengan tingkat kompleksitas dan tanggung \njawab yang lebih luas dibandingkan pemerintahan desa.",
+      "start_line": 620,
+      "end_line": 623
+    },
+    {
+      "heading": "5. Para Pemohon juga mencatat bahwa dalam praktik ketatanegaraa n",
+      "slug": "5-para-pemohon-juga-mencatat-bahwa-dalam-praktik-ketatanegaraa-n",
+      "text": "Indonesia terdapat figur pejabat publik yang menjabat sebelum \nmencapai usia 25 (dua puluh lima) tahun, antara lain Putri Inda hsari \nTanjung yang diangkat sebagai Staf Khusus Presiden Republik \nIndonesia pada usia sekitar 23 (dua puluh tiga) tahun, serta An nisa \nMahesa yang dilantik sebagai Anggota Dewan Perwakilan Rakyat \nRepublik Indonesia pada usia sekitar 23 (dua puluh tiga) tahun. Fakta \ntersebut menunjukkan bahwa negara pernah dan masih memberikan \nkepercayaan kepada warga negara yang berusia di bawah 25 (dua \npuluh lima) tahun untuk menduduki jabatan publik.",
+      "start_line": 625,
+      "end_line": 633
+    },
+    {
+      "heading": "5. Bahwa secara filosofis, hukum yang adil menuntut adanya hubu ngan yang",
+      "slug": "5-bahwa-secara-filosofis-hukum-yang-adil-menuntut-adanya-hubu-ngan-yang",
+      "text": "masuk akal antara norma yang ditetapkan dengan tujuan yang ingin dicapai. \nApabila suatu norma membatasi hak warga negara tanpa menunjukka n \nketerkaitan rasional dengan tujuan publik yang sah, maka norma tersebut \nkehilangan legitimasi kepastian, kemanfaatan, dan keadilan. Dal am konteks \nini, penetapan usia minimal 25 tahun sebagai syarat absolut pen calonan \nKepala Desa tidak menunjukkan korelasi yang niscaya dengan peni ngkatan \nkualitas pemerintahan desa atau perlindungan kepentingan publik yang lebih \nluas.",
+      "start_line": 635,
+      "end_line": 642
+    },
+    {
+      "heading": "6. Bahwa secara teoritik, penggunaan usia sebagai satu-satunya indikator",
+      "slug": "6-bahwa-secara-teoritik-penggunaan-usia-sebagai-satu-satunya-indikator",
+      "text": "kelayakan jabatan publik mengandung kelemahan mendasar karena u sia \nmerupakan variabel biologis yang tidak secara otomatis mencermi nkan \nkapasitas kepemimpinan, integritas moral, maupun kemampuan administratif \nseseorang. Dalam teori hukum administrasi negara, syarat jabata n \nseharusnya dirumuskan berdasarkan kriteria objektif yang releva n dengan \n\n 19\nfungsi dan tanggung jawab jabatan tersebut, bukan berdasarkan generalisasi \nyang menyederhanakan kompleksitas kemampuan individu menjadi an gka \nnormatif yang kaku.",
+      "start_line": 644,
+      "end_line": 653
+    },
+    {
+      "heading": "7. Bahwa menurut analisis ilmiah dan pendekatan teoritik dalam ilmu psikologi",
+      "slug": "7-bahwa-menurut-analisis-ilmiah-dan-pendekatan-teoritik-dalam-ilmu-psikologi",
+      "text": "perkembangan, pembatasan usia minimal 25 (dua puluh lima) tahun  tidak \nmemenuhi prinsip proporsionalitas, karena asumsi mengenai kemat angan \nusia tidak lagi relevan secara ilmiah. Erik Erikson dalam teori  psychosocial \ndevelopment (Lampiran Bukti P-7) menjelaskan bahwa individu pada rentang \nusia sekitar 20–21 tahun telah melewati tahap identity versus role confusion \ndan memasuki tahap intimacy versus isolation , yang ditandai dengan \nterbentuknya identitas diri yang stabil, kemampuan membangun relasi sosial \nyang sehat, tanggung jawab moral, serta konsistensi karakter. K ondisi \npsikososial tersebut menunjukkan bahwa individu dalam kelompok usia di \nbawah 25 tahun secara teoritik telah memiliki kapasitas kepemim pinan dan \nkemampuan pengambilan keputusan yang rasional untuk memimpin \nkomunitas, termasuk pada tingkat desa. Oleh karena itu, penetap an batas \nusia minimal 25 tahun secara generalisasi tanpa mempertimbangka n \nkapasitas individual merupakan bentuk klasifikasi berbasis usia  (age-based \ndiscrimination a t a u  ageism) yang tidak didukung oleh dasar ilmiah yang \nmemadai.",
+      "start_line": 655,
+      "end_line": 670
+    },
+    {
+      "heading": "8. Selain itu, menurut teori psikososial Erik Erikson (Bukti P- 7) pengalaman",
+      "slug": "8-selain-itu-menurut-teori-psikososial-erik-erikson-bukti-p-7-pengalaman",
+      "text": "individu adalah faktor utama dan paling penting atas pembanguna n \nkedewasaan emosional seseorang, sehingga lebih rasional jika syarat batas \nusia calon kepala desa di tambahkan dengan pengalaman dalam organisasi \nsetingkat desa, misalnya Karang Taruna Remaja Desa, Pegiat Desa , atau \nyang sederajat.",
+      "start_line": 672,
+      "end_line": 676
+    },
+    {
+      "heading": "9. Bahwa penetapan syarat usia minimal 25 (dua puluh lima) tahu n bagi calon",
+      "slug": "9-bahwa-penetapan-syarat-usia-minimal-25-dua-puluh-lima-tahu-n-bagi-calon",
+      "text": "Kepala Desa sebagaimana diatur dalam Pasal 33 huruf e Undang-Un dang \nNomor 3 Tahun 2024 merupakan norma yang bersifat sewenang-wenan g \n(arbitrary) (Lampiran Bukti P-10) karena tidak dibangun di atas rasionali tas \nkonstitusional yang memadai. Jimly Asshiddiqie menegaskan bahwa  dalam \nnegara hukum yang demokratis, setiap pembatasan hak konstitusional warga \nnegara harus didasarkan pada alasan yang objektif, rasional, da n \nproporsional, serta tidak boleh lahir dari kehendak sepihak pem bentuk \n\n 20\nUndang-Undang yang mengabaikan prinsip keadilan substantif. Sej alan \ndengan itu, Mahfud MD menyatakan bahwa hukum yang baik bukanlah  \nhukum yang semata-mata legal secara formal, melainkan hukum yan g \nmencerminkan nilai keadilan dan tidak menimbulkan perlakuan yan g tidak \nmasuk akal ( unreasonable classification ) terhadap warga negara. \nPenggunaan usia sebagai satu-satunya tolok ukur kelayakan jabatan Kepala \nDesa telah mereduksi kompleksitas kapasitas individu menjadi an gka \nnormatif yang kaku, tanpa mempertimbangkan kompetensi, integrit as, dan \nlegitimasi sosial yang nyata di masyarakat desa. Dalam perspekt if negara \nhukum Pancasila sebagaimana dikemukakan oleh Satjipto Rahardjo, hukum \nseharusnya melayani manusia dan realitas sosialnya, bukan justr u \nmembelenggu hak politik warga negara melalui generalisasi norma tif yang \ntidak berdasar (Lampiran Bukti P-10). Oleh karena itu, norma a quo  t i d a k  \nhanya membatasi hak Pemohon secara tidak proporsional, tetapi j uga \nbertentangan dengan prinsip negara hukum demokratis Indonesia y ang \nmenolak segala bentuk kesewenang-wenangan dalam pembentukan hukum \nmenurut para ahli.",
+      "start_line": 678,
+      "end_line": 703
+    },
+    {
+      "heading": "10. Bahwa ketiadaan dasar akademik dan rasionalitas objektif te rsebut juga",
+      "slug": "10-bahwa-ketiadaan-dasar-akademik-dan-rasionalitas-objektif-te-rsebut-juga",
+      "text": "berimplikasi pada lahirnya klasifikasi hukum yang tidak wajar ( unreasonable \nclassification). Norma a quo  membagi warga negara ke dalam kategori \nberdasarkan usia semata, tanpa mempertimbangkan faktor lain yan g lebih \nrelevan dengan kapasitas kepemimpinan.",
+      "start_line": 705,
+      "end_line": 708
+    },
+    {
+      "heading": "11. Bahwa masa jabatan serta penentuan batas usia dalam pengisi an jabatan",
+      "slug": "11-bahwa-masa-jabatan-serta-penentuan-batas-usia-dalam-pengisi-an-jabatan",
+      "text": "publik menurut perspektif hukum administrasi negara merupakan b entuk \nrealisasi dan konkretisasi atas hak setiap warga negara untuk m enduduki \njabatan pemerintahan, yang diwujudkan dalam format norma admini strasi \nnegara yang bersifat umum, objektif, dan berlaku bagi setiap or ang secara \nnyata serta pasti. Pengaturan tersebut pada prinsipnya harus di rumuskan \nsecara jelas, rasional, dan konsisten, sehingga tidak membuka r uang \npenafsiran yang beragam, tidak menimbulkan ketidakpastian hukum , serta \ntidak bertentangan dengan ketentuan peraturan perundang-undanga n lain \nmaupun prinsip-prinsip konstitusional yang menjamin persamaan kedudukan \nwarga negara dalam hukum dan pemerintahan \n\n 21",
+      "start_line": 710,
+      "end_line": 721
+    },
+    {
+      "heading": "12. Bahwa kapasitas kepemimpinan seseorang pada hakikatnya tida k hanya",
+      "slug": "12-bahwa-kapasitas-kepemimpinan-seseorang-pada-hakikatnya-tida-k-hanya",
+      "text": "dibentuk oleh pertambahan usia biologis, tetapi juga oleh penga laman \nempiris dalam mengelola organisasi dan berinteraksi dengan masy arakat. \nPengalaman kepemimpinan dalam organisasi kemasyarakatan atau \nkepemudaan tingkat desa merupakan bentuk pembelajaran sosial ya ng \nmemungkinkan seseorang mengembangkan kemampuan manajerial, \nkoordinasi, komunikasi, pengambilan keputusan, penyelesaian \npermasalahan, serta tanggung jawab terhadap kepentingan bersama . \nKemampuan-kemampuan tersebut merupakan unsur yang juga diperluk an \ndalam penyelenggaraan pemerintahan desa.",
+      "start_line": 723,
+      "end_line": 731
+    },
+    {
+      "heading": "13. Bahwa melalui organisasi organisasi-organisasi, seseorang t idak hanya",
+      "slug": "13-bahwa-melalui-organisasi-organisasi-organisasi-seseorang-t-idak-hanya",
+      "text": "memperoleh pengalaman memimpin anggota organisasi, tetapi juga terlibat \ndalam perencanaan kegiatan, pengelolaan program, pemberdayaan \nmasyarakat, serta koordinasi dengan berbagai unsur masyarakat d esa. \nPengalaman demikian menunjukkan adanya keterampilan sosial dan \nkepemimpinan yang relevan dengan tugas dan fungsi Kepala Desa \nsebagaimana diatur dalam Undang-Undang tentang Desa.",
+      "start_line": 733,
+      "end_line": 738
+    },
+    {
+      "heading": "14. Bahwa apabila tujuan pembentuk Undang-Undang dalam menetapkan batas",
+      "slug": "14-bahwa-apabila-tujuan-pembentuk-undang-undang-dalam-menetapkan-batas",
+      "text": "usia minimum 25 (dua puluh lima) tahun adalah untuk menjamin ad anya \ntingkat kematangan dan kemampuan memimpin yang memadai, maka tujuan \ntersebut sesungguhnya dapat dicapai melalui mekanisme yang lebi h \nproporsional dengan mempertimbangkan pengalaman kepemimpinan dalam \norganisasi kemasyarakatan atau kepemudaan tingkat desa sebagai salah \nsatu indikator kapasitas seseorang. Dengan demikian, penilaian terhadap \nkelayakan calon Kepala Desa tidak semata-mata didasarkan pada u kuran \nusia biologis yang bersifat umum dan abstrak, tetapi juga mempe rhatikan \nrekam jejak kepemimpinan yang dapat dibuktikan secara sah dan objektif.",
+      "start_line": 740,
+      "end_line": 748
+    },
+    {
+      "heading": "15. Bahwa oleh karena itu, pengalaman kepemimpinan dalam organi sasi",
+      "slug": "15-bahwa-oleh-karena-itu-pengalaman-kepemimpinan-dalam-organi-sasi",
+      "text": "kemasyarakatan atau kepemudaan tingkat desa dapat dijadikan sal ah satu \nsyarat alternatif dalam pencalonan Kepala Desa, karena ukuran t ersebut \nlebih mencerminkan pendekatan berbasis kapasitas (capacity-base d \napproach) dan prinsip meritokrasi, sehingga sejalan dengan jaminan hak atas \npersamaan kedudukan dalam hukum dan pemerintahan serta hak \nmemperoleh kesempatan yang sama dalam pemerintahan sebagaimana \n\n 22\ndijamin oleh Pasal 27 ayat (1), Pasal 28D ayat (1), dan Pasal 2 8D ayat (3) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 750,
+      "end_line": 759
+    },
+    {
+      "heading": "16. Bahwa dengan demikian, kegagalan norma Pasal 33 Huruf e Und ang-",
+      "slug": "16-bahwa-dengan-demikian-kegagalan-norma-pasal-33-huruf-e-und-ang",
+      "text": "Undang Nomor 3 Tahun 2024 dalam memenuhi standar rasionalitas d an \ndasar akademik menjadikannya tidak layak dipertahankan secara \nkonstitusional. Norma tersebut telah melampaui batas kebijakan hukum yang \nwajar dan berubah menjadi pembatasan hak politik warga negara yang tidak \ndapat dipertanggungjawabkan secara teoritik maupun konstitusion al, \nsehingga menuntut koreksi melalui pengujian oleh Mahkamah Konstitusi.",
+      "start_line": 761,
+      "end_line": 766
+    },
+    {
+      "heading": "17. Bahwa Pemohon sebagai bagian dari generasi muda memiliki le gitimasi",
+      "slug": "17-bahwa-pemohon-sebagai-bagian-dari-generasi-muda-memiliki-le-gitimasi",
+      "text": "konstitusional untuk berpartisipasi dalam pemerintahan desa kar ena telah \nmemenuhi standar kecakapan hukum dan politik yang diakui negara , serta \nmemiliki pengalaman dalam mengurus organisasi Tingkat Desa. Sec ara \nkonstitusional, setiap warga negara yang telah dewasa berhak di pilih tanpa \npembatasan usia yang tidak memenuhi secara proporsionalitas, se mentara \nfakta empiris menunjukkan bahwa generasi muda usia di bawah 25 tahun \nmampu menduduki di berbagai tingkat pemerintahan. Karena itu, P emohon \nmemiliki kepentingan langsung dan sah secara konstitusional untuk menolak \npembatasan usia yang tidak rasional, sebagai bagian dari upaya \nmemperjuangkan akses politik yang lebih inklusif dan demokratis.",
+      "start_line": 768,
+      "end_line": 777
+    },
+    {
+      "heading": "18. Bahwa permohonan a quo t i d a k d i m a k s u d k a n u n t u k m e m i n t a M a h k a m a h",
+      "slug": "18-bahwa-permohonan-a-quo-t-i-d-a-k-d-i-m-a-k-s-u-d-k-a-n-u-n-t-u-k-m-e-m-i-n-t-a-m-a-h-k-a-m-a-h",
+      "text": "Konstitusi membentuk norma hukum baru atau mengambil alih kewenangan \npembentuk undang-undang. Permohonan ini diajukan dalam kerangka  \nmenjaga kemurnian fungsi Mahkamah sebagai “ the guardian of the \nconstitution”, yakni memastikan agar norma Undang-Undang tetap berada \ndalam koridor konstitusional dan tidak menimbulkan pelanggaran terhadap \nhak-hak konstitusional warga negara.",
+      "start_line": 779,
+      "end_line": 784
+    },
+    {
+      "heading": "19. Bahwa dalam konteks Pasal 33 Huruf e Undang-Undang Nomor 3 Tahun",
+      "slug": "19-bahwa-dalam-konteks-pasal-33-huruf-e-undang-undang-nomor-3-tahun",
+      "text": "2024, permasalahan konstitusional tidak terletak pada keberadaa n syarat \nusia itu sendiri, melainkan pada pemaknaan syarat usia yang ber sifat kaku, \nabsolut, dan menutup seluruh kemungkinan partisipasi warga nega ra di \nbawah usia 25 (dua puluh lima) tahun. Oleh karena itu, koreksi konstitusional \nyang dimohonkan tidak menghapus norma a quo  secara keseluruhan, \n\n 23\nmelainkan menata ulang pemaknaannya agar sejalan dengan prinsip  \nproporsionalitas dan keadilan konstitusional.",
+      "start_line": 786,
+      "end_line": 794
+    },
+    {
+      "heading": "20. Bahwa kapasitas kepemimpinan dan kecakapan publik pada prinsipnya tidak",
+      "slug": "20-bahwa-kapasitas-kepemimpinan-dan-kecakapan-publik-pada-prinsipnya-tidak",
+      "text": "semata-mata ditentukan oleh usia biologis tertentu, melainkan juga berkaitan \ndengan kualitas personal, pengalaman sosial, kemampuan mengambi l \nkeputusan, serta keterlibatan dalam kehidupan masyarakat. Oleh karena itu, \npembatasan hak politik warga negara berdasarkan usia harus diru muskan \nsecara proporsional dan tidak boleh menutup kesempatan warga ne gara \nsecara absolut tanpa dasar rasional yang memadai.",
+      "start_line": 796,
+      "end_line": 801
+    },
+    {
+      "heading": "21. Bahwa dengan demikian, permohonan agar Pasal 33 Huruf e Und ang-",
+      "slug": "21-bahwa-dengan-demikian-permohonan-agar-pasal-33-huruf-e-und-ang",
+      "text": "Undang Nomor 3 Tahun 2024 dinyatakan inkonstitusional bersyarat  \nmerupakan bentuk “constitutional remedy” yang proporsional, moderat, dan \nsesuai dengan fungsi Mahkamah Konstitusi. Model putusan ini tid ak hanya \nmelindungi hak konstitusional Para Pemohon, tetapi juga menjaga  \nkeseimbangan antara kewenangan legislasi dan supremasi konstitu si \nsebagaimana dikehendaki oleh Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945.",
+      "start_line": 803,
+      "end_line": 809
+    },
+    {
+      "heading": "22. Bahwa pembatasan usia minimum 25 (dua puluh lima) tahun seb agai satu-",
+      "slug": "22-bahwa-pembatasan-usia-minimum-25-dua-puluh-lima-tahun-seb-agai-satu",
+      "text": "satunya indikator kelayakan calon Kepala Desa merupakan bentuk \npembatasan hak konstitusional yang bersifat terlalu kaku ( over-restrictive), \nkarena menyederhanakan kapasitas kepemimpinan hanya pada faktor  usia \nbiologis. Padahal dalam negara hukum demokratis, penilaian terh adap \nkapasitas seseorang untuk berpartisipasi dalam pemerintahan seh arusnya \ndilakukan secara lebih proporsional, rasional, dan tidak diskriminatif.",
+      "start_line": 811,
+      "end_line": 816
+    },
+    {
+      "heading": "23. Bahwa oleh karena itu, Mahkamah Konstitusi perlu memberikan t a f s i r",
+      "slug": "23-bahwa-oleh-karena-itu-mahkamah-konstitusi-perlu-memberikan-t-a-f-s-i-r",
+      "text": "konstitusional terhadap norma a quo agar tidak dimaknai secara kaku dan \nabsolut dalam membatasi hak warga negara untuk memperoleh kesempatan \nyang sama dalam pemerintahan sebagaimana dijamin oleh Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945.",
+      "start_line": 818,
+      "end_line": 821
+    },
+    {
+      "heading": "24. Bahwa dengan demikian, permohonan a quo tidak dimaksudkan untuk",
+      "slug": "24-bahwa-dengan-demikian-permohonan-a-quo-tidak-dimaksudkan-untuk",
+      "text": "meniadakan pembatasan, melainkan untuk menyempurnakan norma aga r \nselaras dengan prinsip proporsionalitas, persamaan di hadapan hukum, dan \nhak atas kesempatan yang sama dalam pemerintahan. Pemohon tidak  \nmemohon agar Mahkamah mengambil alih fungsi legislasi, melainka n agar \n\n 24\nMahkamah memberikan koreksi konstitusional terhadap norma a quo agar \ntetap sejalan dengan prinsip negara hukum demokratis dan perlindungan hak \nkonstitusional warga negara. \nE. PETITUM \nBerdasarkan seluruh uraian serta penjelasan mengenai Pasal-Pasa l terkait, \ndengan demikian, Para Pemohon memohon kepada Majelis Hakim Kons titusi \nYang Mulia berkenan memberikan putusan sebagai berikut:",
+      "start_line": 823,
+      "end_line": 835
+    },
+    {
+      "heading": "2. Menyatakan frasa “berusia paling rendah 25 (dua puluh lima) tahun pada",
+      "slug": "2-menyatakan-frasa-berusia-paling-rendah-25-dua-puluh-lima-tahun-pada",
+      "text": "saat mendaftar ...\" dalam Pasal 33 Huruf e Undang-Undang Nomor 6 Tahun \n2014 tentang Desa sebagaimana telah diubah dengan Undang-Undang  \nNomor 3 Tahun 2024 (Lembaran Negara Republik Indonesia Tahun 20 24 \nNomor 77, Tambahan Lembaran Negara Nomor 6914) tidak mempunyai \nkekuatan hukum mengikat sepanjang tidak dimaknai:  \n“berusia paling rendah 25 (dua puluh lima) tahun atau telah mem iliki \npengalaman kepemimpinan dalam organisasi kemasyarakatan atau \nkepemudaan setingkat desa yang dapat dibuktikan secara sah dan objektif”",
+      "start_line": 838,
+      "end_line": 845
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nAtau; \nApabila Mahkamah Berpendapat lain lain mohon putusan seadil-adi lnya (ex \naequo et bono)  \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, para Pemohon \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  B u k t i  P - 1 4 ,  \nsebagai berikut:",
+      "start_line": 847,
+      "end_line": 853
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 3 Tahun 2024 tentan g",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-3-tahun-2024-tentan-g",
+      "text": "Desa;",
+      "start_line": 855,
+      "end_line": 855
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 857,
+      "end_line": 857
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Ikhtisar Putusan Perkara Nomor 90/PUU-XXI/2023",
+      "slug": "3-bukti-p-3-fotokopi-ikhtisar-putusan-perkara-nomor-90-puu-xxi-2023",
+      "text": "tentang Persyaratan Batas Usia Minimal Calon Presiden dan \nWakil Presiden; \n\n 25",
+      "start_line": 859,
+      "end_line": 862
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi KTP para Pemohon atas nama Putri Naylar izki",
+      "slug": "4-bukti-p-4-fotokopi-ktp-para-pemohon-atas-nama-putri-naylar-izki",
+      "text": "Lasamano dan Muthi’ah Alamri;",
+      "start_line": 864,
+      "end_line": 864
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Keluarga para Pemohon atas nama P utri",
+      "slug": "5-bukti-p-5-fotokopi-kartu-keluarga-para-pemohon-atas-nama-p-utri",
+      "text": "Naylarizki Lasamano dan Muthi’ah Alamri;",
+      "start_line": 866,
+      "end_line": 866
+    },
+    {
+      "heading": "6. Bukti P-6 : Print out Data Usia Produktif Penduduk Indonesia",
+      "slug": "6-bukti-p-6-print-out-data-usia-produktif-penduduk-indonesia",
+      "text": "PerFebruai 2025;",
+      "start_line": 868,
+      "end_line": 868
+    },
+    {
+      "heading": "7. Bukti P-7 : Print out Artikel Justin T. Sokol, dengan Judul: Identity",
+      "slug": "7-bukti-p-7-print-out-artikel-justin-t-sokol-dengan-judul-identity",
+      "text": "Development Throughout the Lifetime: An Examination \nEriksonian Theory;",
+      "start_line": 870,
+      "end_line": 871
+    },
+    {
+      "heading": "8. Bukti P-8 : Print out Artikel dengan judul: Evaluation of the Regional",
+      "slug": "8-bukti-p-8-print-out-artikel-dengan-judul-evaluation-of-the-regional",
+      "text": "Head Age Limit Policy in Indonesia After the Supreme Court \nDecision Number 23 P / HUM / 2024;",
+      "start_line": 873,
+      "end_line": 874
+    },
+    {
+      "heading": "9. Bukti P-9 : Print out Artikel dengan judul: Batas Usia Calon Kepala",
+      "slug": "9-bukti-p-9-print-out-artikel-dengan-judul-batas-usia-calon-kepala",
+      "text": "Daerah: Studi Perbandingan Hukum Tata Negara dan \nImplikasinya bagi Kepemimpinan Daerah;",
+      "start_line": 876,
+      "end_line": 877
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Artikel dengan judul: Konsep Pengujia n Formil",
+      "slug": "10-bukti-p-10-fotokopi-artikel-dengan-judul-konsep-pengujia-n-formil",
+      "text": "Undang-Undang di Mahkamah Konstitusi (The Concept of \nJudicial Review of the Legislative Process in the \nConstitutional Court);",
+      "start_line": 879,
+      "end_line": 881
+    },
+    {
+      "heading": "11. Bukti P-11 : Print out Naskah Akademik Rancangan Undang-Undang",
+      "slug": "11-bukti-p-11-print-out-naskah-akademik-rancangan-undang-undang",
+      "text": "Nomor … Tahun … Tentang Perubahan Kedua Atas Undang-\nUndang Nomor 3 Tahun 2024 tentang Desa;",
+      "start_line": 883,
+      "end_line": 884
+    },
+    {
+      "heading": "12. Bukti P-12 : Print out Putusan Mahkamah Konstitusi Nomor 259/PUU-",
+      "slug": "12-bukti-p-12-print-out-putusan-mahkamah-konstitusi-nomor-259-puu",
+      "text": "XXIII/2025;",
+      "start_line": 886,
+      "end_line": 886
+    },
+    {
+      "heading": "13. Bukti P-13 : Print out Keputusan Dekan Fakultas Hukum Universitas",
+      "slug": "13-bukti-p-13-print-out-keputusan-dekan-fakultas-hukum-universitas",
+      "text": "Negeri Gorontalo Nomor 0131/UN47.B9/HK.04/2025 \ntentang Pengurus Kelompok Studi Keilmuan Rumah Perdata \nFakultas Hukum Universitas Negeri Gorontalo Tahun 2025;",
+      "start_line": 888,
+      "end_line": 890
+    },
+    {
+      "heading": "14. Bukti P-14 : Print out Keputusan Kepala Desa Poneli Kecamatan Ponelo",
+      "slug": "14-bukti-p-14-print-out-keputusan-kepala-desa-poneli-kecamatan-ponelo",
+      "text": "Kepulauan Kabupaten Gorontalo Utara Nomor: 19 Tahun \n2021 tentang Pembentukan Pengurus Karang Taruna \nJangkar Muda Desa Ponelo Masa Bakti 2021-2026. \n\n 26\n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 892,
+      "end_line": 899
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun 1945), \nPasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi sebagaimana telah diubah terakhir dengan Undang-Unda ng Nomor 7 \nTahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia  Tahun 2020 \nNomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor 65 54, \nselanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor \n48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Repu blik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia \nNomor 5076, selanjutnya disebut UU 48/2009), salah satu kewenan gan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji undang-undang terhadap UUD NRI Tahun \n1945.  \n[3.2] Menimbang bahwa oleh karena permohonan a quo adalah pengujian \nkonstitusionalitas undang-undang, in casu norma Pasal 33 huruf e Undang-Undang \nNomor 3 Tahun 2024 tentang Perubahan Kedua Atas Undang-Undang N omor 6 \nTahun 2014 tentang Desa (Lembaran Negara Republik Indonesia Tah un 2024 \nNomor 77, Tambahan Lembaran Negara Republik Indonesia Nomor 691 4, \nselanjutnya disebut UU 3/2024) terhadap UUD NRI Tahun 1945 maka  Mahkamah \nberwenang mengadili permohonan a quo. \nKedudukan Hukum Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \n\n 27\nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 901,
+      "end_line": 934
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap  \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang terbuka untu k umum pada \ntanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PU U-V/2007 \nyang diucapkan dalam sidang terbuka untuk umum pada tanggal 20 September \n2007, serta putusan-putusan selanjutnya berpendirian bahwa kerugian hak dan/atau \nkewenangan konstitusional sebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK \nharus memenuhi lima syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 937,
+      "end_line": 955
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 957,
+      "end_line": 958
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \n\n 28\ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU \nMK dan syarat-syarat kerugian hak dan/atau kewenangan konstitus ional \nsebagaimana diuraikan pada Paragraf [3.3] dan Paragraf [3.4] di atas, selanjutnya \nMahkamah akan mempertimbangkan kedudukan hukum Pemohon I dan Pe mohon \nII sebagai berikut:",
+      "start_line": 960,
+      "end_line": 969
+    },
+    {
+      "heading": "1. Bahwa Pemohon I dan Pemohon II mengajukan pengujian materil Pasal 33",
+      "slug": "1-bahwa-pemohon-i-dan-pemohon-ii-mengajukan-pengujian-materil-pasal-33",
+      "text": "huruf e UU 3/2024 yang menyatakan sebagai berikut: \n“Calon Kepala Desa wajib memenuhi persyaratan: e. berusia palin g rendah 25 \n(dua puluh lima) tahun pada saat mendaftar”.",
+      "start_line": 971,
+      "end_line": 973
+    },
+    {
+      "heading": "2. Bahwa Pemohon I dan Pemohon II menjelaskan memiliki hak kons titusiojnal",
+      "slug": "2-bahwa-pemohon-i-dan-pemohon-ii-menjelaskan-memiliki-hak-kons-titusiojnal",
+      "text": "sebagaimana dijamin dalam Pasal 27 ayat (1), Pasal 28D ayat (1) , dan Pasal \n28D ayat (3) UUD NRI Tahun 1945;",
+      "start_line": 975,
+      "end_line": 976
+    },
+    {
+      "heading": "3. Bahwa Pemohon I dan Pemohon II adalah perseorangan warga neg ara",
+      "slug": "3-bahwa-pemohon-i-dan-pemohon-ii-adalah-perseorangan-warga-neg-ara",
+      "text": "Indonesia yang dibuktikan dengan kepemilikan Kartu Tanda Pendud uk (KTP) \n[vide Bukti P-4]. Pemohon I dan Pemohon II menjelaskan mengalam i kerugian \nkonstitusional akibat berlakunya norma Pasal 33 huruf e UU 3/20 24 yang \nmensyaratkan usia paling rendah 25 (dua puluh lima) tahun untuk mencalonkan \ndiri sebagai kepala desa, sehingga norma tersebut menutup akses  Pemohon I \ndan Pemohon II untuk menggunakan haknya untuk dipilih sebagai kepala desa. \nMenurut Pemohon I, kerugian konstitusionalnya bersifat nyata karena Pemohon \nI berencana mencalonkan diri sebagai Kepala Desa Ponelo tahun 2026, namun \nPemohon I tidak dapat mencalonkan dirinya karena baru berusia 2 1-22 tahun \npada saat pendaftaran. Sedangkan menurut Pemohon II, kerugian \nkonstitusionalnya bersifat potensial karena menghambat Pemohon II yang ingin \nmencalonkan diri sebagai kepala desa. Meskipun telah memiliki p engalaman \nkepemimpinan sosial di lingkungan desa, Pemohon I dan Pemohon I I \nkehilangan hak konstitusional untuk mencalonkan diri sebagai ke pala desa \nakibat tidak terpenuhinya batas usia minimum. Oleh karena itu, terdapat \nhubungan sebab-akibat (causal verband) antara kerugian konstitusional \nPemohon I dan Pemohon II dengan berlakunya norma Pasal 33 huruf  e  UU \n3/20024 yang berdampak pada tereduksinya hak Pemohon I dan Pemo hon II \nuntuk memperoleh kesempatan yang sama dalam pemerintahan desa. Tanpa \n\n 29\nberlakunya norma a quo, kerugian konstitusional Pemohon I dan Pemohon II \ntidak lagi terjadi atau tidak akan terjadi. \n[3.6] Menimbang bahwa berdasarkan uraian yang dikemukakan oleh \nPemohon I dan Pemohon II dalam menjelaskan kedudukan hukumnya t ersebut di \natas, Mahkamah mempertimbangkan sebagai berikut: \n[3.6.1] Bahwa dalam pengujian undang-undang di Mahkamah, Pemohon I dan \nPemohon II harus memenuhi syarat formil dan syarat materiil ter kait dengan \nkedudukan hukum sebagaimana telah diuraikan pada Paragraf [3.3] dan [3.4] di \natas. Oleh karena itu, Mahkamah akan menilai keterpenuhan syara t formil dan \nsyarat materiil tersebut untuk menentukan apakah Pemohon I dan Pemohon II \nmemiliki kedudukan hukum untuk mengajukan permohonan a quo. \n[3.6.2] Bahwa terkait dengan syarat formil mengenai kualifikasi Pemohon dalam \npengujian undang-undang sebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK, \nPemohon I dan Pemohon II dalam permohonannya telah mengkualifikasikan dirinya \nsebagai perseorangan warga negara Indonesia [vide Bukti P-4] da n mahasiswa \nFakultas Hukum Universitas Negeri Gorontalo. Oleh karena itu, menurut Mahkamah, \nPemohon I dan Pemohon II telah memenuhi syarat formil terkait d engan kualifikasi \nperseorangan warga negara Indonesia. \n[3.6.3] Bahwa selanjutnya terkait dengan syarat materiil yang berkenaan dengan \nada atau tidaknya hak konstitusional Pemohon yang dianggap diru gikan secara \nfaktual atau potensial, maka Pemohon harus memenuhi 5 (lima) sy arat \nsebagaimana disebutkan dalam Paragraf [3.4] di atas secara kumulatif. Oleh \nkarenanya, Pemohon dalam pengujian undang-undang memiliki kewaj iban untuk \nmenjelaskan persyaratan yang telah ditentukan tersebut, yang secara umum dibagi \nmenjadi 2 (dua) unsur, yaitu uraian mengenai adanya (i) hak dan/atau kewenangan \nkonstitusional serta (ii) anggapan kerugian atau potensi kerugian hak konstitusional \nyang diderita/dialami atau yang akan dialami oleh Pemohon denga n berlakunya \nnorma undang-undang yang dimohonkan pengujian, in casu norma Pasal 33 huruf \ne UU 3/2024. Berkenaan dengan unsur pertama, Pemohon I dan Pemo hon II telah \nmenjelaskan perihal hak konstitusionalnya yang menurut Pemohon I dan Pemohon \nII dianggap dirugikan dengan berlakunya norma undang-undang yan g dimohonkan \npengujian, yakni Pasal 27 ayat (1), Pasal 28D ayat (1), dan Pasal 28D ayat (3) UUD \nNRI Tahun 1945. Terhadap hak konstitusional yang dijelaskan oleh Pemohon I dan \n\n 30\nPemohon II, menurut Mahkamah, alasan hak konstitusional tersebut sejalan dengan \nkeinginan Pemohon I dan Pemohon II agar memiliki persamaan kedudukan di dalam \nhukum dan pemerintahan, memperoleh hak atas pengakuan, jaminan,  \nperlindungan, kepastian hukum yang adil, dan perlakuan yang sam a di hadapan \nhukum, serta memperoleh kesempatan yang sama dalam pemerintahan, khususnya \nuntuk mencalonkan diri sebagai kepala desa. Dengan demikian, me nurut \nMahkamah, unsur pertama dari salah satu syarat materiil mengena i kedudukan \nhukum Pemohon telah terpenuhi. \n[3.6.4] Bahwa selanjutnya berkenaan dengan unsur adanya anggapan kerugian \natau potensi kerugian hak konstitusional untuk memiliki persama an kedudukan di \ndalam hukum dan pemerintahan, memperoleh hak atas pengakuan, ja minan, \nperlindungan, kepastian hukum yang adil, dan perlakuan yang sam a di hadapan \nhukum, serta memperoleh kesempatan yang sama dalam pemerintahan  \nsebagaimana ketentuan Pasal 27 ayat (1), Pasal 28D ayat (1), da n Pasal 28D ayat \n(3) UUD NRI Tahun 1945, menurut Mahkamah, uraian anggapan kerug ian hak \nkonstitusional Pemohon I secara potensial lebih banyak ditekank an mengenai \nrencana Pemohon I untuk mencalonkan diri sebagai Kepala Desa Po nelo tahun \n2026 namun pencalonan tersebut tidak dapat dilakukan karena bar u berusia 21-22 \ntahun pada saat pendaftaran. Sedangkan uraian anggapan kerugian  h a k  \nkonstitusional Pemohon II secara potensial hanya didasarkan pad a keinginan \nPemohon II untuk mencalonkan diri sebagai kepala desa. Bukti-bukti yang diajukan \noleh Pemohon I dan Pemohon II berkenaan dengan pengalaman kepem impinan \nsosial di lingkungan desa hanyalah Bukti P-13 dan Bukti P-14 be rdasarkan bukti \nyang diajukan Pemohon I dan Pemohon II. Terhadap uraian keduduk an hukum \nPemohon I dan Pemohon II tersebut, menurut Mahkamah, uraian berkenaan dengan \nanggapan kerugian atau potensi kerugian hak konstitusional yang dialami Pemohon \nI dan Pemohon II tidak memiliki hubungan sebab-akibat dengan be rlakunya norma \nPasal 33 huruf e UU 3/2024 karena bukti-bukti yang diajukan par a Pemohon \nberdasarkan bukti, yakni Bukti P-13 dan Bukti P-14 hanya menunj ukkan aktivitas \nPemohon I dan Pemohon II sebagai pengurus kelompok studi keilmu an rumah \nperdata Fakultas Hukum Universitas Negeri Gorontalo dan aktivit as Pemohon I \nsebagai pengurus Karang Taruna Jangkar Muda Desa Ponelo di bida ng \nkesejahteraan sosial. Kedua bukti tersebut tidak meyakinkan Mah kamah meskipun \ndokumen dimaksud menunjukkan pengalaman organisasi Pemohon I dan Pemohon \n\n 31\nII yang belum berusia 25 (dua puluh lima) tahun, karena Pemohon  I dan Pemohon \nII sama sekali tidak menunjukkan bukti telah berupaya mencalonk an diri sebagai \nkepala desa pada daerah tertentu. Dengan demikian, menurut Mahk amah, \nPemohon I dan Pemohon II tidak dapat menunjukkan anggapan kerug ian atau \npotensi kerugian hak konstitusional dimaksud memang benar-benar dapat ditelusuri \n(traceable), atau setidak-tidaknya dalam batas penalaran yang wajar dapat \ndipastikan akan terjadi dan memiliki hubungan sebab-akibat deng an pasal yang \ndimohonkan pengujian konstitusionalitasnya. Dalam konteks ini, kerugian \nkonstitusional yang diuraikan oleh Pemohon I dan Pemohon II tid ak meyakinkan \nMahkamah sebagai anggapan kerugian hak konstitusional yang bers ifat spesifik \n(khusus) dan aktual atau setidak-tidaknya potensial yang menuru t penalaran yang \nwajar dapat dipastikan akan terjadi, sehingga tidak terdapat hubungan sebab-akibat \n(causal verband) antara kerugian konstitusional Pemohon I dan Pemohon II dengan \nberlakunya norma Pasal 33 huruf e UU 3/2024. \n[3.6.5] Bahwa berdasarkan pertimbangan hukum di atas, walaupun Pemohon I \ndan Pemohon II telah menguraikan kualifikasinya sebagai perseor angan warga \nnegara Indonesia dan mahasiswa serta telah menjelaskan adanya h ak \nkonstitusional yang dijamin dalam UUD NRI Tahun 1945, akan teta pi menurut \nMahkamah Pemohon I dan Pemohon II tidak memiliki bukti adanya a nggapan \nkerugian hak konstitusional yang diakibatkan oleh berlakunya ke tentuan undang-\nundang yang dimohonkan pengujian konstitusionalitasnya karena t idak memenuhi \nsyarat-syarat kerugian konstitusional antara lain sebagaimana y ang dikehendaki \ndalam Putusan Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan Pu tusan \nMahkamah Konstitusi Nomor 11/PUU-V/2007 serta putusan-putusan s elanjutnya. \nDengan demikian, tidak ada keraguan bagi Mahkamah untuk menyatakan Pemohon \nI dan Pemohon II (selanjutnya disebut para Pemohon) tidak memil iki kedudukan \nhukum untuk bertindak sebagai Pemohon dalam permohonan a quo. \n[3.7]  Menimbang bahwa meskipun Mahkamah berwenang mengadili \npermohonan a quo, namun oleh karena para Pemohon tidak memiliki kedudukan \nhukum untuk mengajukan permohonan a quo  maka Mahkamah tidak \nmempertimbangkan lebih lanjut permohonan Pemohon. \n\n 32\n[3.8]  Menimbang bahwa terhadap hal-hal selain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 978,
+      "end_line": 1104
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 1106,
+      "end_line": 1106
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Para Pemohon tidak memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Permohonan para Pemohon tidak dipertimbangkan lebih lanjut. \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1108,
+      "end_line": 1120
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan para Pemohon tidak dapat diterima. \n Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembil an \nHakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggot a, Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, \npada hari Senin, tanggal dua puluh dua , bulan Juni, tahun dua ribu dua puluh \nenam yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka u ntuk \numum pada hari Senin, tanggal dua puluh sembilan, bulan Juni, tahun dua ribu \ndua puluh enam , selesai diucapkan pukul 14.25 WIB  oleh sembilan Hakim \nKonstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggota, Sal di Isra, Daniel \n\n 33\nYusmic P . Foekh, M. Guntur Hamzah, Enny Nurbaningsih, Ridwan Ma nsyur, Arsul \nSani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masing seb agai Anggota \ndengan dibantu oleh Dewi Nurul Savitri sebagai Panitera Penggan ti, serta dihadiri \noleh para Pemohon, Dewan Perwakilan Rakyat atau yang mewakili, dan Presiden \natau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra  \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \nttd. \nEnny Nurbaningsih  \nttd. \nRidwan Mansyur  \nttd. \nArsul Sani \nttd. \nAdies Kadir  \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nDewi Nurul Savitri",
+      "start_line": 1122,
+      "end_line": 1163
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Putri Naylarizki Lasamano",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Muthi’ah Alamri",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 6/2014 tentang Desa"
+    ],
+    "constitutional_articles": [
+      "Pasal 33 Hur",
+      "Pasal 27 ayat (1)",
+      "Pasal 28D ayat (3)",
+      "Pasal 28D ayat (1)",
+      "Pasal 24 ayat (2)",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 1"
+    ],
+    "evidence": [
+      "BUKTI P-4",
+      "BUKTI P-3",
+      "BUKTI P-7",
+      "BUKTI P-10",
+      "BUKTI P-1",
+      "BUKTI P-13",
+      "BUKTI P-14",
+      "BUKTI P- 7",
+      "BUKTI P-2",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-11",
+      "BUKTI P-12",
+      "REFERENSI:186/PUU-XXIV/2026",
+      "REFERENSI:184/PUU/PAN.MK/AP3/05/2026",
+      "REFERENSI:11/PUUV/2007",
+      "REFERENSI:259/PUU-XXIII/2025",
+      "REFERENSI:22/PUU-XV/2017",
+      "REFERENSI:017/PUU-I/2003danPutusanNomor21/PUU-XII/2014",
+      "REFERENSI:0131/UN47.B9/HK.04/2025",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUUV/2007",
+      "REFERENSI:90/PUU-XXI/2023"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Dewi Nurul Savitri"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "186/PUU-XXIV/2026",
+      "184/PUU/PAN.MK/AP3/05/2026",
+      "11/PUUV/2007",
+      "259/PUU-XXIII/2025",
+      "22/PUU-XV/2017",
+      "017/PUU-I/2003danPutusanNomor21/PUU-XII/2014",
+      "0131/UN47.B9/HK.04/2025",
+      "006/PUU-III/2005yangdiucapkandalamsidangterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUUV/2007",
+      "90/PUU-XXI/2023"
+    ],
+    "referenced_cases": [
+      "186/PUU-XXIV/2026",
+      "184/PUU/PAN.MK/AP3/05/2026",
+      "11/PUUV/2007",
+      "259/PUU-XXIII/2025",
+      "22/PUU-XV/2017",
+      "017/PUU-I/2003danPutusanNomor21/PUU-XII/2014",
+      "0131/UN47.B9/HK.04/2025",
+      "006/PUU-III/2005yangdiucapkandalamsidangterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUUV/2007",
+      "90/PUU-XXI/2023"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

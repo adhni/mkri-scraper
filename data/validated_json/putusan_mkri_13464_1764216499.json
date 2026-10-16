@@ -1,0 +1,1091 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_13464_1764216499.pdf",
+    "file_name": "putusan_mkri_13464_1764216499.pdf",
+    "page_count": 45,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_13464_1764216499.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "190/PUU-XXIII/2025",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2025-11-27",
+    "decision_date_raw": "dua puluh tujuh, bulan November, tahun dua ribu dua puluh lima",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 190/PUU-XXIII/2025",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili pengujian undang-undang pada tingkat pertama da n \nterakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang \nNomor 2 Tahun 2025 tentang Perubahan Keempat Atas Undang-Undang  Nomor 4 \nTahun 2009 tentang Pertambangan Mineral dan Batubara terhadap Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 7,
+      "end_line": 11
+    },
+    {
+      "heading": "1. Nama : Fathur Jihadulloh",
+      "slug": "1-nama-fathur-jihadulloh",
+      "text": "Pekerjaan : Pelajar/Mahasiswa Universitas Islam Negeri \nSyarif Hidayatullah Jakarta \n A l a m a t  :  Blok Janggot, RT 013, RW 008, Desa Mekar \nJaya, Kecamatan Gantar, Indramayu, Jawa Barat\n Selanjutnya disebut ------------------------------------------ ----------- Pemohon I;",
+      "start_line": 13,
+      "end_line": 17
+    },
+    {
+      "heading": "2. Nama : Dzakwan Fadhil Putra Kusuma",
+      "slug": "2-nama-dzakwan-fadhil-putra-kusuma",
+      "text": "Pekerjaan : Pelajar/Mahasiswa Universitas Islam Negeri \nSyarif Hidayatullah Jakarta \n A l a m a t  :  Jalan Masjid, Kp Kemang, Jati Cempaka, Pondok \nGede, Kota Bekasi \n Selanjutnya disebut ------------------------------------------ ---------- Pemohon II;\n3 Nama : Muhammad Jundi Fathi Rizky \n Pekerjaan : Pelajar/Mahasiswa Universitas Islam Negeri \nSyarif Hidayatullah Jakarta \n A l a m a t  :  Griya Pedurenan 9, Jatilihur, Jatiasih, Kota \nBekasi \n Selanjutnya disebut ------------------------------------------ --------- Pemohon III;\n4 Nama : Azmi Aryanti \n Pekerjaan : Pelajar/Mahasiswa Universitas Islam Negeri \nSyarif Hidayatullah Jakarta \n\n\n2 \n \n \n A l a m a t  :  Jalan H. Irin RT 001/RW 008, Karang Tengah, \nLebak Bulus, Cilandak, Jakarta Selatan \n Selanjutnya disebut ------------------------------------------ --------- Pemohon IV;\n5 Nama : Rikza Anung Andita Putra \n P e k e r j a a n  :  Pelajar/Mahasiswa Universitas Islam Negeri \nSyarif Hidayatullah Jakarta \n A l a m a t  :  Perum Taman Griya Kencana Blok A13/19, \nKelurahan Kencana, Kecamatan Tanah Sareal, \nKota Bogor, Jawa Barat \n Selanjutnya disebut ------------------------------------------ ---------- Pemohon V;\nSelanjutnya Pemohon I sampai dengan Pemohon V disebut sebagai -------------------\n---------------------------------------------------------------------------------------- para Pemohon \n[1.2] Membaca permohonan para Pemohon;  \n Mendengar keterangan para Pemohon;  \n Memeriksa bukti-bukti para Pemohon;",
+      "start_line": 19,
+      "end_line": 52
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 13 Oktober 2025 yang diterima Kepaniteraan Mahkamah Konstitusi pada \ntanggal 13 Oktober 2025 berdasarkan Akta Pengajuan Permohonan P emohon \nNomor 193/PUU/PAN.MK/AP3/10/2025  dan dicatat dalam Buku Registrasi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Nomor 190/PUU-XXIII/2025 pada tanggal 14 \nOktober 2025, yang telah diperbaiki dan diterima Mahkamah pada tanggal 7 \nNovember 2025, yang pada pokoknya menguraikan hal-hal sebagai berikut. \nA. KEWENANGAN MAHKAMAH",
+      "start_line": 54,
+      "end_line": 61
+    },
+    {
+      "heading": "1. Bahwa berdasarkan ketentuan yang termaktub dalam Pasal 24 ay at (2) UUD",
+      "slug": "1-bahwa-berdasarkan-ketentuan-yang-termaktub-dalam-pasal-24-ay-at-2-uud",
+      "text": "NRI 1945 yang menyatakan, \"Kekuasaan kehakiman dilakukan oleh s ebuah \nMahkamah Agung dan badan peradilan yang di bawahnya dan oleh se buah \nMahkamah Konstitusi\".",
+      "start_line": 63,
+      "end_line": 65
+    },
+    {
+      "heading": "2. Bahwa selanjutnya ketentuan Pasal 24C ayat (1) UUD NRI 1945 yang",
+      "slug": "2-bahwa-selanjutnya-ketentuan-pasal-24c-ayat-1-uud-nri-1945-yang",
+      "text": "menyatakan, \"Mahkamah Konstitusi berwenang mengadili pada tingk at \n\n3 \n \n \npertama dan terakhir yang putusannya bersifat final untuk mengu ji undang- \nundang terhadap Undang-Undang Dasar, memutus sengketa kewenanga n \nLembaga negara yang kewenangannya diberikan oleh Undang-Undang \nDasar, memutus pembubaran partai politik dan memutus perselisihan tentang \nPemilihan Umum\".",
+      "start_line": 67,
+      "end_line": 76
+    },
+    {
+      "heading": "3. Bahwa Pasal 29 ayat (1) Undang-Undang Nomor 48 Tahun 2009 te ntang",
+      "slug": "3-bahwa-pasal-29-ayat-1-undang-undang-nomor-48-tahun-2009-te-ntang",
+      "text": "Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun 2 009 \nNomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 50 76) \nmenyatakan, \"Mahkamah Konstitusi berwenang mengadili pada tingk at \npertama dan terakhir yang putusannya bersifat final untuk: a. menguji undang \nundang terhadap Undang-Undang Dasar Negara Republik Indonesia T ahun \n1945\".",
+      "start_line": 78,
+      "end_line": 83
+    },
+    {
+      "heading": "4. Bahwa berdasarkan ketentuan tersebut di atas, Mahkamah Konst itusi",
+      "slug": "4-bahwa-berdasarkan-ketentuan-tersebut-di-atas-mahkamah-konst-itusi",
+      "text": "mempunyai kewenangan untuk melakukan pengujian undang-undang \nterhadap UUD NRI 1945 ( judicial review), demikian pula berdasarkan Pasal \n10 ayat (1) huruf a Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan \nKetiga atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nmenyatakan, “Mahkamah Konstitusi berwenang mengadili pada tingk at \npertama dan terakhir yang putusannya bersifat final untuk: a. m enguji \nundang- undang terhadap Undang-Undang Dasar Negara Republik \nIndonesia Tahun 1945”.",
+      "start_line": 85,
+      "end_line": 92
+    },
+    {
+      "heading": "5. Bahwa berdasarkan ketentuan Pasal 9 ayat (1) Undang-Undang N omor 13",
+      "slug": "5-bahwa-berdasarkan-ketentuan-pasal-9-ayat-1-undang-undang-n-omor-13",
+      "text": "Tahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 12 \nTahun 2011 tentang Pembentukan Peraturan Perundang-undangan \n(Lembaran Negara Republik Indonesia Tahun 2022 Nomor 143, Tamba han \nLembaran Negara Republik Indonesia Nomor 6801) menyatakan, \"Dalam hal \nsuatu Undang-Undang diduga bertentangan dengan Undang-Undang Da sar \nNegara Republik Indonesia Tahun 1945, pengujiannya dilakukan ol eh \nMahkamah Konstitusi\".",
+      "start_line": 94,
+      "end_line": 100
+    },
+    {
+      "heading": "6. Bahwa Mahkamah Konstitusi juga menegaskan kewenangan penguji an",
+      "slug": "6-bahwa-mahkamah-konstitusi-juga-menegaskan-kewenangan-penguji-an",
+      "text": "materiil undang-undang terhadap Undang-Undang Dasar Negara Repu blik \nIndonesia Tahun 1945 sebagaimana diatur dalam Pasal 2 ayat (1) Peraturan \nMahkamah Konstitusi Nomor 07 Tahun 2025 tentang Tata Beracara d alam \n\n4 \n \n \nPerkara Pengujian Undang-Undang (\"PMK 7/2025\") yang menyatakan,  \n“Objek Permohonan PUU adalah undang-undang dan Perppu”.",
+      "start_line": 102,
+      "end_line": 110
+    },
+    {
+      "heading": "7. Bahwa berdasarkan ketentuan yang telah dijabarkan, maka hal ini semakin",
+      "slug": "7-bahwa-berdasarkan-ketentuan-yang-telah-dijabarkan-maka-hal-ini-semakin",
+      "text": "mempertegas kewenangan Mahkamah Konstitusi sebagai satu-satunya  \nlembaga yang berwenang untuk menguji konstitusionalitas suatu U ndang- \nUndang terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945.",
+      "start_line": 112,
+      "end_line": 115
+    },
+    {
+      "heading": "8. Bahwa permohonan a quo menguji Pasal 51A ayat (1), Pasal 51A ayat (3),",
+      "slug": "8-bahwa-permohonan-a-quo-menguji-pasal-51a-ayat-1-pasal-51a-ayat-3",
+      "text": "Pasal 51A ayat (4), Pasal 51A ayat (5), Pasal 60A  ayat (1), Pas al 60A ayat \n(3), Pasal 60A ayat (4), Pasal 60A ayat (5),Pasal 75A ayat (1), Pasal 75A ayat \n(3), Pasal 75A ayat (4), dan Pasal 75A ayat (5) Undang-Undang N omor 2 \nTahun 2025 tentang Perubahan Keempat Atas Undang-Undang Nomor 4  \nTahun 2009 tentang Pertambangan Mineral dan Batubara",
+      "start_line": 117,
+      "end_line": 121
+    },
+    {
+      "heading": "1. Pasal 51A ayat (1)",
+      "slug": "1-pasal-51a-ayat-1",
+      "text": "Dalam rangka meningkatkan kemandirian dan keunggulan perguruan \ntinggi, Pemerintah Pusat memberikan WIUP Mineral logam dengan cara \nprioritas untuk kepentingan perguruan tinggi kepada BUMN, badan  \nusaha milik daerah, atau Badan Usaha swasta.",
+      "start_line": 123,
+      "end_line": 126
+    },
+    {
+      "heading": "2. Pasal 51A ayat (3)",
+      "slug": "2-pasal-51a-ayat-3",
+      "text": "BUMN, badan usaha milik daerah, atau Sadan Usaha swasta yang \nmendapatkan WIUP Mineral logam dengan cara prioritas untuk \nkepentingan perguruan tinggi sebagaimana dimaksud pada ayat (1)  \nmemberikan sebagian keuntungan kepada perguruan tinggi sesuai \ndengan perjanjian kerja sama.",
+      "start_line": 128,
+      "end_line": 132
+    },
+    {
+      "heading": "3. Pasal 51A ayat (4)",
+      "slug": "3-pasal-51a-ayat-4",
+      "text": "Dalam rangka akuntabilitas keu angan, Badan Pemeriksa Keuangan \nmelakukan pemeriksaan keuangan terhadap BUMN, badan usaha milik \ndaerah, Badan Usaha swasta, dan perguruan tinggi sebagaimana \ndimaksud pada ayat (3) secara berkala.",
+      "start_line": 134,
+      "end_line": 137
+    },
+    {
+      "heading": "4. Pasal 51A ayat (5)",
+      "slug": "4-pasal-51a-ayat-5",
+      "text": "Ketentuan lebih lanjut mengenai pemberian WIUP Mineral logam \ndengan cara prioritas kepada BUMN, badan usaha milik daerah, at au \nBadan Usaha swasta dan pemberian sebagian keuntungan kepada \nperguruan tinggi sebagaimana dimaksud pada ayat {1) sampai deng an \nayat (4) diatur dengan atau berdasarkan Peraturan Pemerintah.",
+      "start_line": 139,
+      "end_line": 143
+    },
+    {
+      "heading": "5. Pasal 60A ayat (1)",
+      "slug": "5-pasal-60a-ayat-1",
+      "text": "Dalam rangka meningkatkan kemandirian dan keunggulan perguruan \ntinggi, Pemerintah Pusat memberikan WIUP Batubara dengan cara \nprioritas untuk kepentingan perguruan tinggi kepada BUMN, badan  \n\n5 \n \n \nusaha milik daerah, atau Sadan Usaha swasta.",
+      "start_line": 145,
+      "end_line": 152
+    },
+    {
+      "heading": "6. Pasal 60A ayat (3)",
+      "slug": "6-pasal-60a-ayat-3",
+      "text": "BUMN, badan usaha milik daerah, atau Badan Usaha swasta yang \nmendapatkan WIUP Batubara dengan cara prioritas untuk kepenting an \nperguruan tinggi sebagaimana dimaksud pada ayat (I) memberikan \nsebagian keuntungan kepada perguruan tinggi sesuai dengan perjanjian \nkerja sama.",
+      "start_line": 154,
+      "end_line": 158
+    },
+    {
+      "heading": "7. Pasal 60A ayat (4)",
+      "slug": "7-pasal-60a-ayat-4",
+      "text": "Dalam rangka akuntabilitas keu angan, Badan Pemeriksa Keuangan \nmelakukan pemeriksaan keuangan terhadap BUMN, badan usaha milik \ndaerah, Badan Usaha swasta, dan perguruan tinggi sebagaimana \ndimaksud pada ayat (3) secara berkala.",
+      "start_line": 160,
+      "end_line": 163
+    },
+    {
+      "heading": "8. Pasal 60A ayat (5)",
+      "slug": "8-pasal-60a-ayat-5",
+      "text": "Ketentuan lebih lanjut mengenai pemberian WIUP Batubara dengan \ncara prioritas kepada BUMN, badan usaha milik daerah, atau Bada n \nUsaha swasta dan pemberian bagian keuntungan kepada perguruan \ntinggi sebagaimana dimaksud pada ayat (I) sampai dengan ayat (4 ) \ndiatur dengan atau berdasarkan Peraturan Pemerintah.",
+      "start_line": 165,
+      "end_line": 169
+    },
+    {
+      "heading": "9. Pasal 75A ayat (1)",
+      "slug": "9-pasal-75a-ayat-1",
+      "text": "Dalam rangka meningkatkan kemandirian dan keunggulan perguruan \ntinggi, Pemerintah Pusat memberikan WIUPK dengan cara prioritas  \nuntuk kepentingan perguruan tinggi kepada BUMN, badan usaha mil ik \ndaerah, atau Badan Usaha swasta.",
+      "start_line": 171,
+      "end_line": 174
+    },
+    {
+      "heading": "10. Pasal 75A ayat (3)",
+      "slug": "10-pasal-75a-ayat-3",
+      "text": "BUMN, badan usaha milik daerah, atau Badan Usaha swasta yang \nmendapatkan WIUPK dengan cara prioritas untuk kepentingan \nperguruan tinggi sebagaimana dimaksud pada ayat (1) memberikan \nsebagian keuntungan kepada perguruan tinggi sesuai dengan perjanjian \nkerja sama.",
+      "start_line": 176,
+      "end_line": 180
+    },
+    {
+      "heading": "11. Pasal 75 ayat (4)",
+      "slug": "11-pasal-75-ayat-4",
+      "text": "Dalam rangka akuntabilitas keu angan, Badan Pemeriksa Keuangan \nmelakukan pemeriksaan keuangan terhadap BUMN, badan usaha milik \ndaerah, Badan Usaha swasta, dan perguruan tinggi sebagaimana \ndimaksud pada ayat (3) secara berkala.",
+      "start_line": 182,
+      "end_line": 185
+    },
+    {
+      "heading": "12. Pasal 75A ayat (5)",
+      "slug": "12-pasal-75a-ayat-5",
+      "text": "Ketentuan lebih lanjut mengenai pemberian WIUPK dengan cara \nprioritas kepada BUMN, badan usaha milik daerah, atau Badan Usa ha \nswasta dan pemberian sebagian keuntungan kepada perguruan tingg i \nsebagaimana dimaksud pada ayat (1) sampai dengan ayat (4) diatu r \ndengan atau berdasarkan Peraturan Pemerintah. \nYang pada intinya keseluruhan Pasal tersebut, mengandung Isu utama \nyaitu Pemberian izin konsensi tambang kepada perguruan tinggi m elalui \n\n6 \n \n \nskema kerjasama dengan BUMN, BUMD, maupun BUMS bertentangan \ndengan Pasal 28C ayat (1), Pasal 28D ayat (1), Pasal 31 Ayat (3 ) UUD NRI \n1945, yang selengkapnya berbunyi sebagai berikut:",
+      "start_line": 187,
+      "end_line": 200
+    },
+    {
+      "heading": "1. Pasal 28 C Ayat (1) UUD NRI 1945",
+      "slug": "1-pasal-28-c-ayat-1-uud-nri-1945",
+      "text": "“Setiap orang berhak mengembangkan diri melalui pemenuhan \nkebutuhan   dasarnya, berhak mendapat pendidikan dan memperoleh  \nmanfaat dari ilmu   pengetahuan dan teknologi, seni dan budaya,  demi \nmeningkatkan kualitas hidupnya dan demi kesejahteraan umat manusia.”",
+      "start_line": 202,
+      "end_line": 205
+    },
+    {
+      "heading": "2. Pasal 28 D Ayat (1) UUD NRI 1945",
+      "slug": "2-pasal-28-d-ayat-1-uud-nri-1945",
+      "text": "“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama dihadapan \nhukum.”",
+      "start_line": 207,
+      "end_line": 209
+    },
+    {
+      "heading": "3. Pasal 31 Ayat (3) UUD NRI 1945",
+      "slug": "3-pasal-31-ayat-3-uud-nri-1945",
+      "text": "“Pemerintah mengusahakan dan menyelenggarakan satu sistem \npendidikan nasional, yang meningkatkan keimanan dan ketakwaan \nserta akhlak mulia dalam rangka mencerdaskan kehidupan bangsa, \nyang diatur dengan undang undang” \nB. KEDUDUKAN HUKUM (LEGAL STANDING) PEMOHON",
+      "start_line": 211,
+      "end_line": 215
+    },
+    {
+      "heading": "1. Bahwa berdasarkan ketentuan Pasal 51 ayat (1) UU MK jo Pasal 4 ayat (1)",
+      "slug": "1-bahwa-berdasarkan-ketentuan-pasal-51-ayat-1-uu-mk-jo-pasal-4-ayat-1",
+      "text": "PMK 7/2025 dinyatakan bahwa: Pemohon adalah pihak yang menganggap \nhak dan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya \nundang-undang yaitu: \na. perorangan warga negara Indonesia atau kelompok orang yang \nmempunyai kepentingan sama; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 217,
+      "end_line": 224
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan dimaksud, perlu dijelaskan bahwa pa ra",
+      "slug": "2-bahwa-berdasarkan-ketentuan-dimaksud-perlu-dijelaskan-bahwa-pa-ra",
+      "text": "Pemohon adalah perorangan warga negara Indonesia yang dibuktika n \ndengan kepunyaan kartu tanda penduduk (Bukti P-3)",
+      "start_line": 228,
+      "end_line": 229
+    },
+    {
+      "heading": "3. Bahwa dalam Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi No. 07",
+      "slug": "3-bahwa-dalam-pasal-4-ayat-2-peraturan-mahkamah-konstitusi-no-07",
+      "text": "Tahun 2025 tentang Pedoman Beracara Dalam Perkara Pengujian Undang-\nUndang ditentukan 5 syarat mengenai kerugian konstitusional, ya kni \nsebagai berikut: \n\n7 \n \n \na) ada hak dan/atau kewenangan konstitutional Pemohon yang \ndiberikan oleh UUD 1945; \nb) hak dan/atau kewenangan konstitusional tersebut dianggap tel ah \ndirugikan oleh berlakunya undang-undang atau Perppu yang \ndimohonkan pengujian; \nc) kerugian hak dan/atau kewenangan konstitusional tersebut ber sifat \nspesifik (khusus) dan aktual, setidak-tidaknya bersifat potensial yang \nmenurut penalaran yang wajar dapat dipastikan akan terjadi; \nd) Ada hubungan sebab akibat antara kerugian hak dan/atau \nkewenangan konstitusional dengan undang-undang atau Perppu \nyang dimohonkan pengujian \ne) ada kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian konstitusional yang didalilkan tidak lagi atau tidak a kan \nterjadi.",
+      "start_line": 231,
+      "end_line": 251
+    },
+    {
+      "heading": "4. Bahwa untuk mengukur adanya kerugian konstitusional sebagaimana",
+      "slug": "4-bahwa-untuk-mengukur-adanya-kerugian-konstitusional-sebagaimana",
+      "text": "dimaksud pada ketentuan di atas, Maka akan diuraikan kedudukan para \nPemohon yang dirugikan dengan berlakunya ketentuan pasal yang diujikan.",
+      "start_line": 253,
+      "end_line": 254
+    },
+    {
+      "heading": "5. Bahwa untuk menjelaskan adanya hak dan/atau kewenangan",
+      "slug": "5-bahwa-untuk-menjelaskan-adanya-hak-dan-atau-kewenangan",
+      "text": "konstitusional Pemohon yang diberikan oleh UUD NRI Tahun 1945 \nsebagaimana dimaksud pada Pasal 4 ayat (2) PMK 07/2025 huruf a.  maka \nperlu diuraikan sebagai berikut. Para Pemohon merupakan peroran gan \nwarga negara Indonesia yang dibuktikan dengan kepemilikan Kartu  Tanda \nPenduduk [vide Bukti P-3] dan berstatus sebagai mahasiswa aktif  p a d a  \nUniversitas Islam Negeri Syarif Hidayatullah Jakarta [vide Bukti P-4]. Status \ntersebut tidak hanya menunjukkan kedudukan administratif semata , \nmelainkan menegaskan posisi Para Pemohon sebagai bagian dari \nkomunitas akademik yang secara langsung dijamin hak-hak \nkonstitusionalnya oleh Undang-Undang Dasar Negara Republik Indo nesia \nTahun 1945.",
+      "start_line": 256,
+      "end_line": 266
+    },
+    {
+      "heading": "6. Bahwa Pasal 28C ayat (1) UUD NRI 1945 dengan tegas menyatakan:",
+      "slug": "6-bahwa-pasal-28c-ayat-1-uud-nri-1945-dengan-tegas-menyatakan",
+      "text": "“Setiap orang berhak mengembangkan diri melalui pemenuhan \nkebutuhan dasarnya, berhak mendapat pendidikan, dan memperoleh \nmanfaat dari ilmu pengetahuan dan teknologi, seni dan budaya, d emi \nmeningkatkan kualitas hidupnya dan demi kesejahteraan umat \nmanusia.” \n\n8 \n \n \nSedangkan Pasal 31 ayat (3) UUD NRI 1945 menegaskan: \n“Pemerintah mengusahakan dan menyelenggarakan satu sistem \npendidikan nasional, yang meningkatkan keimanan dan ketakwaan \nserta akhlak mulia dalam rangka mencerdaskan kehidupan bangsa, \nyang diatur dengan undang-undang”.",
+      "start_line": 268,
+      "end_line": 281
+    },
+    {
+      "heading": "7. Bahwa kedua pasal tersebut menunjukkan adanya keterkaitan yang bersifat",
+      "slug": "7-bahwa-kedua-pasal-tersebut-menunjukkan-adanya-keterkaitan-yang-bersifat",
+      "text": "substantif dan saling melengkapi antara hak konstitusional warg a negara \nuntuk mengembangkan diri dengan tanggung jawab konstitusional \npemerintah dalam menyelenggarakan sistem pendidikan nasional. \nPengembangan diri sebagaimana dimaksud dalam Pasal 28C ayat (1) tidak \nakan dapat terwujud tanpa adanya sistem pendidikan yang menjami n \nkebebasan berpikir, otonomi akademik, dan lingkungan belajar ya ng \nberintegritas serta berlandaskan nilai keimanan, ketakwaan, dan  a k h l a k  \nmulia sebagaimana diperintahkan oleh Pasal 31 ayat (3) UUD 1945 . \nDengan kata lain, Pasal 31 ayat (3) menegaskan bukan sekadar ha k atas \npendidikan, melainkan juga kewajiban konstitusional pemerintah untuk \nmewujudkan sistem pendidikan yang bermoral, berkeadilan, dan \nberorientasi pada kemerdekaan berpikir serta pembentukan karakt er \nbangsa yang cerdas dan berakhlak mulia.",
+      "start_line": 283,
+      "end_line": 295
+    },
+    {
+      "heading": "8. Bahwa frasa “mencerdaskan kehidupan bangsa” dalam prembule",
+      "slug": "8-bahwa-frasa-mencerdaskan-kehidupan-bangsa-dalam-prembule",
+      "text": "pembukaan UUD NRI 1945   tidak sekadar dimaknai sebagai kewajib an \nnegara untuk menyediakan pendidikan secara formal, tetapi juga sebagai \ntanggung jawab konstitusional untuk mewujudkan sistem pendidika n yang \nberkualitas, mandiri, dan berorientasi pada kebebasan akademik serta \npengembangan daya kritis warga negara. Dengan demikian, hak ata s \npendidikan dalam UUD NRI 1945 tidak dapat dipisahkan dari hak a tas \npengembangan diri. keduanya saling berkelindan dan menjadi land asan \nbagi terwujudnya warga negara yang cerdas, merdeka dalam berpik ir, dan \nberdaya dalam kehidupan berbangsa dan bernegara.",
+      "start_line": 297,
+      "end_line": 305
+    },
+    {
+      "heading": "9. Bahwa dalam konteks ini, Para Pemohon sebagai mahasiswa aktif d i",
+      "slug": "9-bahwa-dalam-konteks-ini-para-pemohon-sebagai-mahasiswa-aktif-d-i",
+      "text": "bidang Hukum Tata Negara memiliki hak konstitusional untuk memperoleh \npendidikan yang bermutu, terbebas dari intervensi kepentingan n on-\nakademik, dan menjunjung tinggi independensi keilmuan.  Dengan \ndemikian, jelas bahwa Para Pemohon memiliki hak konstitusional yang sah \n\n9 \n \n \ndan relevan untuk mengajukan permohonan pengujian undang-undang  a \nquo, karena pemohon merasa dengan keberlakuan norma tersebut \nberpotensi menghambat pelaksanaan hak atas pendidikan yang bebas dan \nindependen serta mengganggu proses pengembangan diri sebagai wa rga \nnegara dan insan akademik yang dijamin oleh konstitusi",
+      "start_line": 307,
+      "end_line": 319
+    },
+    {
+      "heading": "10. Bahwa di samping perannya sebagai mahasiswa aktif pada Universi tas",
+      "slug": "10-bahwa-di-samping-perannya-sebagai-mahasiswa-aktif-pada-universi-tas",
+      "text": "Islam Negeri Syarif Hidayatullah Jakarta, Para Pemohon juga mer upakan \nindividu yang aktif dalam kegiatan intelektual dan advokasi ketatanegaraan \nmelalui forum DISTRIK institute, yakni sebuah wadah kajian dan diskursus \nkonstitusional yang berfokus pada analisis struktur ketatanegar aan, \ndinamika kekuasaan negara, serta implikasi yuridis dari setiap \npembentukan kebijakan publik terhadap prinsip-prinsip dasar kon stitusi. \nKeterlibatan Para Pemohon dalam forum tersebut merupakan bentuk  dari \nmanifestasi kesadaran konstitusional warga negara untuk menjala nkan \nperan pengawasan terhadap pelaksanaan kekuasaan negara sebagaimana \ndijamin dalam prinsip negara hukum (rechtstaat). Dalam kapasitas itu, Para \nPemohon memiliki dasar moral, akademik, dan intelektual yang sa h untuk \nmenilai kesesuaian antara norma undang-undang dengan nilai-nila i \nkonstitusi, khususnya yang berkaitan dengan prinsip independens i dan \nkepastian hukum bagi warga negara.",
+      "start_line": 321,
+      "end_line": 334
+    },
+    {
+      "heading": "11. Bahwa untuk menunjukkan perhatian nyata para Pemohon terhadap i su",
+      "slug": "11-bahwa-untuk-menunjukkan-perhatian-nyata-para-pemohon-terhadap-i-su",
+      "text": "konstitusionalitas pengaturan dalam Undang-Undang Nomor 3 Tahun 2020 \ntentang Pertambangan Mineral dan Batubara (UU Minerba), khususn ya \nterkait keterlibatan perguruan tinggi dalam aktivitas pertamban gan, para \nPemohon telah menggagas dan melaksanakan sebuah diskusi strateg is \nbertajuk “Ketika Kampus Menjadi Alat Negara: Antara Dilema Konstitusional \nUU Minerba dan Kedaulatan Kampus”, yang diselenggarakan pada Ra bu, \n5 November 2025. Dalam diskusi tersebut, para Pemohon bersama \nakademisi dan mahasiswa lain menguraikan bahwa peran perguruan tinggi \nsebagai penjaga kebebasan akademik dan pengembangan ilmu \npengetahuan berpotensi tereduksi ketika universitas diposisikan  sebagai \ninstrumen implementatif kebijakan ekonomi negara, terlebih di s ektor \npertambangan yang sarat dengan kepentingan politik dan kapital.  P a r a  \n\n10 \n \n \nPemohon memandang bahwa bentuk relasi seperti ini tidak hanya menodai \nasas independensi akademik, tetapi juga berpotensi menggerus fungsi etik \nuniversitas sebagai pengawal rasionalitas publik dan kritik sos ial terhadap \nnegara.",
+      "start_line": 336,
+      "end_line": 355
+    },
+    {
+      "heading": "12. Bahwa diskusi strategis tersebut menjadi manifestasi konkret da ri",
+      "slug": "12-bahwa-diskusi-strategis-tersebut-menjadi-manifestasi-konkret-da-ri",
+      "text": "kepedulian, keterlibatan aktif, dan tanggung jawab moral-konsti tusional \npara Pemohon dalam menjaga kemurnian mandat pendidikan tinggi. \nKegiatan tersebut menunjukkan bahwa para Pemohon tidak semata \nbersikap reaktif terhadap keberlakuan norma dalam UU Minerba, t etapi \ntelah secara proaktif membangun ruang wacana ilmiah dan advokasi sosial \nuntuk memastikan agar kebijakan pertambangan nasional tetap sel aras \ndengan prinsip kedaulatan ilmu pengetahuan dan independensi kampus.",
+      "start_line": 357,
+      "end_line": 363
+    },
+    {
+      "heading": "13. Bahwa keterlibatan aktif tersebut dapat dibuktikan secara konkr et.",
+      "slug": "13-bahwa-keterlibatan-aktif-tersebut-dapat-dibuktikan-secara-konkr-et",
+      "text": "Pemohon V, misalnya, telah menulis dan menerbitkan sebuah artik el opini \nberjudul “Kampus dalam Bayang Oligarki Tambang” melalui kanal m edia \ndaring Retizen Republika.co.id \n(https://retizen.republika.co.id/posts/712712/kampus-dalam-bayang-\noligarki-tambang). Artikel tersebut berisi kritik tajam terhada p \nkecenderungan meningkatnya intervensi kepentingan ekonomi korpo ratif \nke dalam lingkungan akademik. Pemohon V menguraikan secara \nargumentatif bagaimana kolaborasi antara perguruan tinggi dan i ndustri \ntambang berpotensi menciptakan conflict of interes t yang menggerus \nidealisme akademik dan menodai prinsip independensi kampus. Tul isan \ntersebut menunjukkan bahwa Pemohon bukan hanya memiliki awarene ss \nterhadap isu publik, tetapi juga telah mengartikulasikan gagasa n kritisnya \ndalam ruang diskursus nasional yang sah dan terbuka.",
+      "start_line": 365,
+      "end_line": 377
+    },
+    {
+      "heading": "14. Bahwa hal serupa juga ditunjukkan oleh Pemohon III, yang sebelu mnya",
+      "slug": "14-bahwa-hal-serupa-juga-ditunjukkan-oleh-pemohon-iii-yang-sebelu-mnya",
+      "text": "telah mempublikasikan artikel bertajuk “Sudah Tepatkah Pemberia n Izin \nTambang kepada Ormas Keagamaan?” melalui kanal Kumparan.co.id \nhttps://kumparan.com/jundijunriz/sudah-tepatkah-pemberian-izintambang-\nkepada-ormas-keagamaan-22uaOpptWaC/full). Artikel tersebut meng ulas \nsecara mendalam permasalahan kebijakan pemerintah dalam memberikan \nkonsesi pertambangan kepada organisasi masyarakat keagamaan, da n \n\n11 \n \n \nmempertanyakan kesesuaiannya dengan prinsip keadilan sosial dan  \npengelolaan sumber daya alam. Walaupun konteks isu yang dibahas  \nberbeda dengan norma a quo, substansi kritiknya memiliki benang merah \nyang sama, yaitu penolakan terhadap praktik pencampuran kepenti ngan \nekonomi dengan lembaga sosial atau pendidikan yang seharusnya \nmenjalankan fungsi pemberdayaan masyarakat secara independen.",
+      "start_line": 379,
+      "end_line": 394
+    },
+    {
+      "heading": "15. Bahwa kedua artikel tersebut menggambarkan keterlibatan aktif P ara",
+      "slug": "15-bahwa-kedua-artikel-tersebut-menggambarkan-keterlibatan-aktif-p-ara",
+      "text": "Pemohon dalam mengawal nilai-nilai konstitusional, terutama terkait prinsip \nindependensi lembaga sosial dan pendidikan dari intervensi kepe ntingan \nekonomi yang dapat merusak integritas publik yang dalam hal ini  adalah \npersoalan pengeloaan mineral dan batu bara, Pemohon tidak sekad ar \nbereaksi terhadap isu yang bersifat sesaat, tetapi telah menunj ukkan \ncommitment of consistency  dalam memperjuangkan idealisme \nkonstitusional  bahwa pendidikan tinggi harus tetap menjadi rua ng bebas \nberpikir,",
+      "start_line": 396,
+      "end_line": 403
+    },
+    {
+      "heading": "16. Bahwa para Pemohon, sebagai warga negara Indonesia sekaligus",
+      "slug": "16-bahwa-para-pemohon-sebagai-warga-negara-indonesia-sekaligus",
+      "text": "mahasiswa aktif di bidang Hukum Tata Negara, merupakan subjek h ukum \nyang secara langsung dijamin oleh konstitusi untuk memperoleh \npengakuan, jaminan, perlindungan, dan kepastian hukum yang adil , \nsebagaimana secara eksplisit ditegaskan dalam Pasal 28D ayat (1 ) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang \nberbunyi: \n“Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan  \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum.”",
+      "start_line": 405,
+      "end_line": 413
+    },
+    {
+      "heading": "17. Bahwa norma konstitusional tersebut memberikan hak konstitusion al yang",
+      "slug": "17-bahwa-norma-konstitusional-tersebut-memberikan-hak-konstitusion-al-yang",
+      "text": "melekat kepada setiap warga negara yang dalam hal ini termasuk Para \nPemohon, untuk hidup dalam sistem hukum yang jelas, tidak ambigu, serta \nbebas dari ketidakpastian yang dapat menimbulkan ketidakadilan.  \nKepastian hukum sebagaimana dimaksud bukan sekadar konsep normatif, \nmelainkan jaminan substantif yang menjadi syarat utama bagi teg aknya \nprinsip negara hukum (rechtstaat), di mana seluruh tindakan penyelenggara \nnegara wajib dilandaskan pada asas kejelasan norma ( lex certa ) dan \nketerukuran tanggung jawab (accountability). \n\n12",
+      "start_line": 415,
+      "end_line": 426
+    },
+    {
+      "heading": "18. Bahwa sebagai mahasiswa Hukum Tata Negara sekaligus aktivis yang aktif",
+      "slug": "18-bahwa-sebagai-mahasiswa-hukum-tata-negara-sekaligus-aktivis-yang-aktif",
+      "text": "bergiat dalam forum DISTRIK Institute suatu wadah intelektual y ang fokus \npada kajian konstitusional, dinamika kekuasaan negara, dan impl ementasi \nprinsip negara hukum Para Pemohon memiliki kapasitas intelektua l dan \nkesadaran konstitusional yang tinggi untuk memahami, menilai, d an \nmengidentifikasi adanya potensi pelanggaran terhadap hak konsti tusional \ntersebut. Aktivitas Para Pemohon dalam forum tersebut bukanlah kegiatan \nsimbolik, melainkan perwujudan nyata dari partisipasi warga negara dalam \nmengawasi dan mengkaji pelaksanaan prinsip-prinsip konstitusi d alam \npraktik penyelenggaraan negara.  dengan demikian, hak konstitus ional \nPara Pemohon untuk memperoleh kepastian hukum yang adil \nsebagaimana dijamin oleh Pasal 28D ayat (1) UUD NRI 1945 merupa kan \ndasar yang sah dan relevan bagi kedudukan hukum (legal standing ) Para \nPemohon dalam perkara a quo.",
+      "start_line": 428,
+      "end_line": 440
+    },
+    {
+      "heading": "19. Bahwa pemohon yang dalam kapasitasnya sebagai mahasiswa memilik i",
+      "slug": "19-bahwa-pemohon-yang-dalam-kapasitasnya-sebagai-mahasiswa-memilik-i",
+      "text": "peran strategis yang secara sosiologis dan historis diakui sebagai agent of \nchange atau agen perubahan. Yang dimana Kedudukan ini mengandung \ntanggung jawab moral dan sosial untuk senantiasa aktif dalam me lakukan \nadvokasi, memberikan kritik konstruktif, serta peka terhadap be rbagai \ndinamika kehidupan berbangsa dan bernegara, termasuk dalam isu- isu \nstrategis seperti pengelolaan lingkungan hidup dan pertambangan .status \nagen of change yang melekat ini  menunutut mahasiswa  untuk tet ap \nindependen dalam berpikir dan bertindak, tanpa intervensi kekuasaan atau \nkepentingan ekonomi yang dapat menggerus idealisme perjuanganny a. \nDengan demikian, independensi yang dimiliki oleh mahasiswa meru pakan \nbagian integral dari hak konstitusional yang dijamin dan harus dilindungi \noleh negara sebagai prasyarat bagi terselenggaranya kehidupan \ndemokratis dan partisipasi publik yang bermakna.",
+      "start_line": 442,
+      "end_line": 454
+    },
+    {
+      "heading": "20. Bahwa untuk membuktikan unsur kedua sebagaimana dimaksud dalam",
+      "slug": "20-bahwa-untuk-membuktikan-unsur-kedua-sebagaimana-dimaksud-dalam",
+      "text": "Pasal 4 ayat (2) huruf b Peraturan Mahkamah Konstitusi (PMK) No mor 7 \nTahun 2025, Para Pemohon perlu menunjukkan adanya kerugian terhadap \nhak dan/atau kewenangan konstitusional yang dijamin oleh Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945, akibat langs ung \n\n13 \n \n \ndari berlakunya norma-norma dalam Pasal 51A ayat (1), (3), (4), (5); Pasal \n60A ayat (1), (3), (4), (5); dan Pasal 75A ayat (1), (3), (4), (5) UU Minerba \nmaka perlu diuraikan sebagai berikut",
+      "start_line": 456,
+      "end_line": 466
+    },
+    {
+      "heading": "21. Bahwa norma-norma a quo secara substansial memberikan kewenangan",
+      "slug": "21-bahwa-norma-norma-a-quo-secara-substansial-memberikan-kewenangan",
+      "text": "kepada Pemerintah Pusat untuk memberikan Wilayah Izin Usaha \nPertambangan (WIUP), Wilayah Izin Usaha Pertambangan Batubara \n(WIUP Batubara), dan Wilayah Izin Usaha Pertambangan Khusus (WIUPK) \ndengan cara prioritas kepada BUMN, BUMD, atau badan usaha swast a \nuntuk kepentingan perguruan tinggi, serta mewajibkan pihak penerima izin \ntersebut untuk memberikan sebagian keuntungan kepada perguruan tinggi \nmelalui perjanjian kerja sama.",
+      "start_line": 468,
+      "end_line": 474
+    },
+    {
+      "heading": "22. Bahwa secara tekstual, ketentuan tersebut tampak bertujuan mend ukung",
+      "slug": "22-bahwa-secara-tekstual-ketentuan-tersebut-tampak-bertujuan-mend-ukung",
+      "text": "kemandirian dan keunggulan perguruan tinggi, namun secara subst antif \njustru menimbulkan persoalan konstitusional karena tidak mengatur secara \ntegas bentuk, mekanisme, maupun batas kepentingan akademik dan \nekonomi dalam hubungan kerja sama tersebut. Ketiadaan kejelasan  i n i  \nmenimbulkan risiko terjadinya komersialisasi ruang akademik.",
+      "start_line": 476,
+      "end_line": 480
+    },
+    {
+      "heading": "23. Bahwa ketidakjelasan (vagueness) norma a quo berpotensi menimbulkan",
+      "slug": "23-bahwa-ketidakjelasan-vagueness-norma-a-quo-berpotensi-menimbulkan",
+      "text": "ketidakpastian hukum (legal uncertainty) sebagaimana dilarang oleh prinsip \nnegara hukum yang dijamin dalam Pasal 28D ayat (1) UUD NRI 1945 , \nkarena membuka ruang tafsir yang luas tanpa mekanisme pengawasa n \npublik dan tanpa menjamin perlindungan terhadap independensi akademik.",
+      "start_line": 482,
+      "end_line": 485
+    },
+    {
+      "heading": "24. Bahwa secara langsung, keberlakuan norma-norma a quo menimbulkan",
+      "slug": "24-bahwa-secara-langsung-keberlakuan-norma-norma-a-quo-menimbulkan",
+      "text": "potensi kerugian terhadap hak konstitusional Para Pemohon sebag ai \nmahasiswa, yang dijamin dalam Pasal 28C ayat (1) dan Pasal 31 a yat (3) \nUUD NRI 1945, untuk memperoleh pendidikan yang bermutu, merdeka, dan \nberorientasi pada pengembangan diri yang bebas dari intervensi politik \nmaupun ekonomi.",
+      "start_line": 487,
+      "end_line": 491
+    },
+    {
+      "heading": "25. Bahwa dengan dijadikannya perguruan tinggi sebagai penerima man faat",
+      "slug": "25-bahwa-dengan-dijadikannya-perguruan-tinggi-sebagai-penerima-man-faat",
+      "text": "ekonomi dari kegiatan pertambangan, maka posisi kampus berpoten si \nberubah dari lembaga keilmuan yang otonom menjadi entitas ekonomi yang \nmemiliki ketergantungan finansial terhadap pihak korporasi atau  n e g a r a .  \nHal initentu akan secara langsung mengancam kebebasan akademik \n\n14 \n \n \n(academic freedom ) dan otonomi keilmuan ( academic autonomy ) yang \nseharusnya diperoleh pemohon, kebebasan akademik dan otonomi \nkeilmuan yang seharunya keberadaan nya tidak bisa ditawar dan  menjadi \ndasar fondasi penyelenggaraan pendidikan tinggi.",
+      "start_line": 493,
+      "end_line": 504
+    },
+    {
+      "heading": "26. Bahwa perubahan orientasi tersebut akan berdampak langsung terh adap",
+      "slug": "26-bahwa-perubahan-orientasi-tersebut-akan-berdampak-langsung-terh-adap",
+      "text": "Para Pemohon, karena sebagai mahasiswa aktif di perguruan tingg i yang \nmenjadi bagian dari sistem pendidikan nasional, Para Pemohon se cara \npotensial akan menerima pendidikan dalam sistem yang telah kehi langan \nindependensi dan kemurnian akademik. kondisi ini mengakibatkan Para \nPemohon dirugikan secara konstitusional, karena hak mereka untu k \nmemperoleh pendidikan yang objektif, bebas, dan tidak berpihak \nsebagaimana dijamin dalam Pasal 28C ayat (1) dan Pasal 31 ayat (3) UUD \nNRI 1945 menjadi terancam akibat intervensi kepentingan ekonomi  yang \ndilegalkan oleh norma a quo.",
+      "start_line": 506,
+      "end_line": 514
+    },
+    {
+      "heading": "27. Bahwa ketika perguruan tinggi menjadi bagian dari mekanisme dis tribusi",
+      "slug": "27-bahwa-ketika-perguruan-tinggi-menjadi-bagian-dari-mekanisme-dis-tribusi",
+      "text": "keuntungan industri tambang, maka secara potensial akan muncul konflik \nkepentingan (conflict of interest)  antara kepentingan akademik dengan \nkepentingan ekonomi. Hal ini dapat memengaruhi arah penelitian,  \npenyusunan kurikulum, serta kebijakan internal kampus yang seha rusnya \nditentukan secara ilmiah dan independen. norma a quo  j e l a s  a k a n  \nberpotensi mengubah atmosfer akademik menjadi pragmatis dan \ntransaksional. Dimana Mahasiswa akan kehilangan ruang berpikir kritis dan \nidealisme akademik karena orientasi lembaga tempat mereka belajar telah \ndigeser dari fungsi edukatif menjadi fungsi ekonomis.",
+      "start_line": 516,
+      "end_line": 524
+    },
+    {
+      "heading": "28. Bahwa dengan demikian, keberlakuan Pasa l a quo secara nyata dan",
+      "slug": "28-bahwa-dengan-demikian-keberlakuan-pasa-l-a-quo-secara-nyata-dan",
+      "text": "langsung menimbulkan kerugian konstitusional terhadap hak Para \nPemohon sebagai mahasiswa, karena menempatkan mereka dalam sistem \npendidikan yang terancam kehilangan kebebasan akademik, integri tas \nilmiah, dan kepastian hukum.",
+      "start_line": 526,
+      "end_line": 529
+    },
+    {
+      "heading": "29. Bahwa untuk menjelaskan adanya sifat kerugian sebagaimana dimak sud",
+      "slug": "29-bahwa-untuk-menjelaskan-adanya-sifat-kerugian-sebagaimana-dimak-sud",
+      "text": "pada Pasal 4 ayat (2) huruf c PMK 7/2025, perlu dijelaskan bahw a dalam \nbatas penalaran yang wajar, keberlakuan Pasal 51A ayat (1), Pas al 51A \nayat (3), Pasal 51A ayat (4), Pasal 51A ayat (5), Pasal 60A aya t (1), Pasal \n\n15 \n \n \n60A ayat (3), Pasal 60A ayat (4), Pasal 60A ayat (5), Pasal 75A  ayat (2), \nPasal 75A ayat (3), Pasal 75A ayat (4), dan Pasal 75A ayat (5) UU Minerba \nsecara potensial dapat dipastikan terjadi akan menimbulkan keru gian \nkonstitusional bagi  Para Pemohon sebagai civitas akademika. Ba hwa \nnorma pengujian pasal a quo  telah mengindikasikan menciptakan \nkonstruksi hukum baru yang secara langsung mengubah arah fungsi  \npendidikan tinggi. Norma a quo mengatur bahwa perguruan tinggi dapat \nmenjadi pihak penerima manfaat ekonomi dari kegiatan pertambang an \nmelalui mekanisme kerja sama dengan BUMN, BUMD, atau badan usah a \nswasta yang memperoleh Wilayah Izin Usaha Pertambangan (WIUP), \nWilayah Izin Usaha Pertambangan Batubara (WIUP Batubara), dan \nWilayah Izin Usaha Pertambangan Khusus (WIUPK).",
+      "start_line": 531,
+      "end_line": 549
+    },
+    {
+      "heading": "30. Bahwa pada tataran normatif, ketentuan tersebut tampak dimaksud kan",
+      "slug": "30-bahwa-pada-tataran-normatif-ketentuan-tersebut-tampak-dimaksud-kan",
+      "text": "untuk memperkuat kapasitas pendanaan perguruan tinggi dan mendo rong \nsinergi antara dunia pendidikan dan dunia industri. Akan tetapi , secara \nsubstansial, norma a quo  telah mengaburkan identitas dan orientasi \nlembaga pendidikan tinggi sebagai lembaga akademik yang otonom yang \ndimana norma tersebut memberi ruang bagi keterlibatan langsung \nperguruan tinggi dalam mekanisme distribusi keuntungan ekonomi industri \ntambang tanpa pengaturan yang jelas mengenai bentuk kerja sama, batas \nkepentingan akademik, serta mekanisme pengawasan publik. \nKetidakjelasan ini menimbulkan potensi penyimpangan yang serius  \nterhadap hak konstitusional Para Pemohon.",
+      "start_line": 551,
+      "end_line": 560
+    },
+    {
+      "heading": "31. Bahwa kerugian yang dialami Para Pemohon bersifat spesifik kare na",
+      "slug": "31-bahwa-kerugian-yang-dialami-para-pemohon-bersifat-spesifik-kare-na",
+      "text": "mereka adalah pihak yang secara langsung hidup dan menjalani ak tivitas \nakademik di lembaga pendidikan tinggi yang menjadi subjek norma  a quo. \nDampak norma tersebut tidak bersifat abstrak, tetapi nyata dan dekat \ndengan kehidupan Para Pemohon yang di mana Perguruan tinggi seb agai \ntempat Para Pemohon menempuh pendidikan akan mengalami perubahan \nstruktural dan fungsional akibat keterlibatannya dalam aktivita s ekonomi \npertambangan.",
+      "start_line": 562,
+      "end_line": 568
+    },
+    {
+      "heading": "32. Bahwa ketika lembaga pendidikan dijadikan penerima keuntungan d ari",
+      "slug": "32-bahwa-ketika-lembaga-pendidikan-dijadikan-penerima-keuntungan-d-ari",
+      "text": "kegiatan industri, maka sistem pendidikan yang dijalani Para Pe mohon \n\n16 \n \n \ntidak lagi murni berlandaskan nilai keilmuan dan kebebasan akad emik. \nMahasiswa, termasuk Para Pemohon, akan hidup dalam lingkungan \nkampus yang diwarnai oleh tekanan kepentingan eksternal yang be rasal \ndari mitra ekonomi perguruan tinggi. Mereka akan menjadi bagian  d a r i  \nsistem yang diarahkan, baik secara langsung maupun tidak langsung, untuk \nmelayani kepentingan ekonomi tertentu. Keadaan ini menciptakan \nhubungan sebab-akibat yang jelas antara keberlakuan norma dan kerugian \nkonstitusional yang dialami Para Pemohon",
+      "start_line": 570,
+      "end_line": 582
+    },
+    {
+      "heading": "33. Bahwa kerugian konstitusional Para Pemohon juga bersifat aktual",
+      "slug": "33-bahwa-kerugian-konstitusional-para-pemohon-juga-bersifat-aktual",
+      "text": "dikarenakan norma a quo  telah menimbulkan keadaan ketidakpastian \nhukum ( legal uncertainty ) yang konkret terhadap keberlangsungan \nindependensi akademik. Ketentuan yang mewajibkan pemberian sebagian \nkeuntungan kepada perguruan tinggi tidak diikuti dengan penjela san \ntentang bentuk, besaran, mekanisme, dan pengawasan publik atas \npelaksanaannya. Kekosongan pengaturan ini menimbulkan kaburnya batas \nantara fungsi akademik dan fungsi ekonomi perguruan tinggi itu sendiri",
+      "start_line": 584,
+      "end_line": 590
+    },
+    {
+      "heading": "34. Bahwa ketidakpastian hukum ini berpotensi menciptakan kondisi sosial dan",
+      "slug": "34-bahwa-ketidakpastian-hukum-ini-berpotensi-menciptakan-kondisi-sosial-dan",
+      "text": "akademik yang berisiko tinggi. Para Pemohon, sebagai mahasiswa aktif, \ntelah merasakan munculnya situasi akademik yang tidak sepenuhny a \notonom. Kegiatan pendidikan, penelitian, dan pengabdian masyara kat \nberpotensi diarahkan untuk mendukung proyek-proyek ekonomi yang  \nmemberikan keuntungan bagi lembaga. Situasi seperti ini telah menggeser \nprinsip dasar penyelenggaraan pendidikan tinggi yang berlandask an pada \nkebebasan akademik dan objektivitas ilmiah.",
+      "start_line": 592,
+      "end_line": 598
+    },
+    {
+      "heading": "35. Bahwa keberlakuan norma a quo juga telah mengancam nilai independensi",
+      "slug": "35-bahwa-keberlakuan-norma-a-quo-juga-telah-mengancam-nilai-independensi",
+      "text": "akademik yang merupakan roh dari pendidikan tinggi. Independens i \nakademik bukan hanya kebebasan dosen dalam mengajar atau meneli ti, \ntetapi juga jaminan bagi mahasiswa untuk mendapatkan ilmu pengetahuan \ntanpa tekanan ideologis, politis, maupun ekonomis. Ketika lemba ga \npendidikan memperoleh keuntungan finansial dari industri pertam bangan, \nmaka objektivitas akademik yang seharusnya berdiri di atas nilai kebenaran \nilmiah menjadi rentan terhadap kepentingan material. Para Pemohon akan \nmenjadi pihak yang pertama kali merasakan degradasi tersebut di  ruang \n\n17 \n \n \nkuliah, laboratorium, dan lingkungan kampus mereka maka ini men jadi \nancaman yang serius.",
+      "start_line": 600,
+      "end_line": 613
+    },
+    {
+      "heading": "36. Bahwa dalam kondisi ini setiap aspek kehidupan akademik mulai dari arah",
+      "slug": "36-bahwa-dalam-kondisi-ini-setiap-aspek-kehidupan-akademik-mulai-dari-arah",
+      "text": "riset, topik skripsi dan tesis, kurikulum, hingga prioritas keb ijakan kampus   \nakan disesuaikan dengan kepentingan mitra ekonomi dimana lembag a \npendidikan akan terdorong untuk memilih proyek riset yang \nmenguntungkan secara finansial, bukan yang berorientasi pada \npengembangan ilmu pengetahuan. Mahasiswa akan diarahkan untuk \nmenulis, meneliti, dan berpikir dalam kerangka logika ekonomi, bukan \nlogika kebenaran ilmiah.  potensi kerugian ini dapat dipastikan  m e l a l u i  \npenalaran empiris yang dimana Sejarah hubungan antara pendidika n dan \nindustri menunjukkan bahwa ketika lembaga akademik terlalu dekat dengan \nkepentingan ekonomi, kebebasan berpikir akan menurun. Penelitia n-\npenelitian kritis terhadap dampak lingkungan, sosial, atau kebi jakan publik \ndari industri tambang akan melemah karena perguruan tinggi tida k ingin \nmerugikan sumber pendapatannya. Para Pemohon akan tumbuh dalam \natmosfer akademik yang pragmatis dan komersial, kehilangan ruan g \nberpikir kritis, dan kehilangan orientasi moral pendidikan sehi ngga para \npemohon akan terjebak dengan kondisi yang tertekan (Overmacht).",
+      "start_line": 615,
+      "end_line": 630
+    },
+    {
+      "heading": "37. Bahwa untuk mengukur adanya hubungan kausal ( causal verband )",
+      "slug": "37-bahwa-untuk-mengukur-adanya-hubungan-kausal-causal-verband",
+      "text": "berlakunya norma a quo  terhadap kerugian konstitusional terhadap para \nPemohon sebagaimana dimaksud pada Pasal 4 ayat (2) huruf d PMK \n7/2025, perlu dijelaskan dalam uraian sebagai berikut.  Bahwa ketentuan \ndalam Pasal 51A ayat (1), Pasal 51A ayat (3), Pasal 51A ayat (4), Pasal 51A \nayat (5), Pasal 60A ayat (1), Pasal 60A ayat (3), Pasal 60A aya t (4), Pasal \n60A ayat (5), Pasal 75A ayat (1), Pasal 75A ayat (3), Pasal 75A  ayat (4), \ndan Pasal 75A ayat (5) pada Undang-Undang Nomor 3 Tahun 2020 tentang \nPertambangan Mineral dan Batubara (UU Minerba), pada pokoknya t elah \nmenempatkan perguruan tinggi dalam posisi yang rentan terhadap \nkomersialisasi dan eksploitasi ekonomi institusional. Ketentuan -ketentuan \nini, baik secara eksplisit maupun implisit, membuka ruang bagi perguruan \ntinggi untuk terlibat langsung dalam kegiatan pertambangan mela lui kerja \nsama dengan Badan Usaha Milik Negara (BUMN), Badan Usaha Milik \n\n18 \n \n \nDaerah (BUMD), maupun Badan Usaha Milik Swasta (BUMS).",
+      "start_line": 632,
+      "end_line": 649
+    },
+    {
+      "heading": "38. Bahwa secara konseptual, norma tersebut menimbulkan masalah ser ius",
+      "slug": "38-bahwa-secara-konseptual-norma-tersebut-menimbulkan-masalah-ser-ius",
+      "text": "terhadap prinsip independensi perguruan tinggi. Perguruan tinggi, menurut \nhakikat dan mandat konstitusionalnya sebagaimana termaktub dalam Pasal \n31 ayat (5) UUD NRI 1945, seharusnya berfungsi sebagai ruang ya ng \nbebas dari intervensi kekuatan ekonomi, politik, dan kepentinga n \npragmatis. Namun melalui norma a quo justru memberikan peluang bagi \nkampus untuk menjadi bagian dari mekanisme pengelolaan sumber d aya \nalam, maka fungsi perguruan tinggi yang seharusnya menjadi inst itusi \npendidikan dan riset yang independen berpotensi bergeser menjadi entitas \nekonomi yang turut bermain dalam logika akumulasi modal.i kerja  s a m a  \ndengan BUMN, BUMD, maupun BUMS, akan menciptakan hubungan \nstruktural yang bersifat simbiotik tetapi berbahaya. Dalam rela si tersebut, \nperguruan tinggi akan terikat secara finansial dan kebijakan ke pada mitra \nkorporasinya. Kondisi ini secara rasional dapat mengakibatkan l ahirnya \nconflict of interest antara kepentingan akademik dan kepentingan ekonomi. \nDi satu sisi, perguruan tinggi berkewajiban melahirkan riset, k ritik, dan \ninovasi yang objektif terhadap berbagai isu publik, termasuk isu eksploitasi \nsumber daya alam. Namun di sisi lain, ketika universitas memili ki \nkepentingan ekonomi langsung dalam proyek pertambangan, maka \nkemampuan untuk bersikap independen dan kritis terhadap industr i \ntersebut akan tereduksi secara sistematis.",
+      "start_line": 651,
+      "end_line": 670
+    },
+    {
+      "heading": "39. Bahwa Sebagai mahasiswa yang berada dalam ekosistem akademik, Para",
+      "slug": "39-bahwa-sebagai-mahasiswa-yang-berada-dalam-ekosistem-akademik-para",
+      "text": "Pemohon memiliki hak konstitusional untuk memperoleh pendidikan  yang \nbebas dari tekanan kepentingan ekonomi sebagaimana dijamin Pasal 28C \nayat (1) dan Pasal 31 ayat (3) UUD NRI 1945. Namun, dengan \ndiberlakukannya norma a quo , ruang akademik yang pemohon tempati \nmenjadi berpotensi dan rentan terhadap kooptasi logika pasar. K etika \nperguruan tinggi menjalin kerja sama dengan BUMN, BUMD, maupun \nBUMS dalam pengelolaan tambang, maka secara inheren prioritas \npendidikan dan penelitian akan bergeser dari pengembangan ilmu \npengetahuan untuk kemanusiaan menjadi kegiatan riset terapan ya ng \nberorientasi pada profit. Dengan demikian, hak Para Pemohon untuk belajar \n\n19",
+      "start_line": 672,
+      "end_line": 685
+    },
+    {
+      "heading": "di lingkungan yang otonom dan berintegritas intelektual menjadi terancam",
+      "slug": "di-lingkungan-yang-otonom-dan-berintegritas-intelektual-menjadi-terancam",
+      "text": "secara nyata.",
+      "start_line": 687,
+      "end_line": 687
+    },
+    {
+      "heading": "40. Bahwa Kepentingan akademik yang seharusnya bersifat reflektif, bebas,",
+      "slug": "40-bahwa-kepentingan-akademik-yang-seharusnya-bersifat-reflektif-bebas",
+      "text": "dan berorientasi pada kebenaran ilmiah, dipaksa untuk beradaptasi dengan \nkepentingan ekonomi yang bersifat instrumentalis dan transaksional. Ketika \nuniversitas menjadi bagian dari industri pertambangan baik seba gai \npengelola, pemegang izin, maupun mitra korporasi maka akan lahi r \ninstitutional dependency yang mengikis integritas pendidikan tinggi. Proses \npembelajaran dan riset dapat kehilangan obyektivitas karena tun duk pada \nagenda ekonomi yang didanai oleh mitra tambang.",
+      "start_line": 689,
+      "end_line": 695
+    },
+    {
+      "heading": "41. Bahwa Mahasiswa sebagai civitas akademika, seperti Para Pemohon, akan",
+      "slug": "41-bahwa-mahasiswa-sebagai-civitas-akademika-seperti-para-pemohon-akan",
+      "text": "menjadi pihak pertama yang merasakan degradasi kualitas pendidi kan \nakibat keterikatan finansial kampus dengan entitas bisnis. kare na secara \nstruktural termasuk dalam lingkungan kampus. Kegiatan riset yan g \nseharusnya mendorong inovasi berkelanjutan dan kritik terhadap \neksploitasi lingkungan dapat berubah menjadi sekadar pembenaran  \nteknokratis bagi proyek industri tambang. Hal ini jelas merugik an hak \nkonstitusional Para Pemohon untuk memperoleh pendidikan yang \nbermartabat, bebas, dan berpihak pada nilai kemanusiaan sebagai mana \ndijamin oleh Pasal 28C ayat (1) dan Pasal 31 ayat (5) UUD NRI 1945.",
+      "start_line": 697,
+      "end_line": 705
+    },
+    {
+      "heading": "42. Bahwa bertolak dari pada itu, untuk menjelaskan adanya kemungki nan",
+      "slug": "42-bahwa-bertolak-dari-pada-itu-untuk-menjelaskan-adanya-kemungki-nan",
+      "text": "dengan dikabulkannya permohonan, maka kerugian konstitusional y ang \ndidalilkan tidak akan terjadi sebagaimana dimaksud pada Pasal 4  ayat (2) \nhuruf e PMK 7/2025. Bahwa dengan dikabulkannya permohonan ini, \nperguruan tinggi akan kembali pada fungsinya sebagai lembaga pendidikan \nyang bebas dari intervensi kepentingan ekonomi dan politik, sesuai dengan \nprinsip otonomi akademik yang dijamin oleh Pasal 28C ayat (1) serta Pasal \n31 ayat (3) UUD NRI 1945. Pendidikan tinggi akan tetap menjadi ruang \nnetral dan independen untuk pengembangan ilmu pengetahuan dan \npembentukan karakter bangsa, tanpa tekanan atau distorsi dari \nkepentingan korporasi pertambangan. Dengan demikian, hak konstitusional \nPara Pemohon sebagai bagian dari civitas akademika untuk memper oleh \npendidikan yang bermartabat, bebas, dan independen akan kembali  \n\n20 \n \n \nterlindungi secara penuh.",
+      "start_line": 707,
+      "end_line": 723
+    },
+    {
+      "heading": "43. Bahwa dikabulkannya permohonan ini juga akan mengembalikan kepastian",
+      "slug": "43-bahwa-dikabulkannya-permohonan-ini-juga-akan-mengembalikan-kepastian",
+      "text": "hukum yang adil sebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI",
+      "start_line": 725,
+      "end_line": 725
+    },
+    {
+      "heading": "1945. Penghapusan norma-norma yang multitafsir dan membuka pelu ang",
+      "slug": "1945-penghapusan-norma-norma-yang-multitafsir-dan-membuka-pelu-ang",
+      "text": "konflik kepentingan akan menutup celah penyalahgunaan wewenang,  \nsekaligus memulihkan asas-asas umum pemerintahan yang baik (AUP B) \ndalam sistem perundang-undangan nasional maka dengan itu, asas \nkepastian hukum, kecermatan, proporsionalitas, dan akuntabilita s akan \nkembali ditegakkan dalam kebijakan publik, terutama pada bidang  \npendidikan dan pengelolaan sumber daya alam yang merupakan bida ng-\nbidang yang perlu di jaga",
+      "start_line": 727,
+      "end_line": 733
+    },
+    {
+      "heading": "44. Bahwa secara substantif, dikabulkannya permohonan ini akan menc egah",
+      "slug": "44-bahwa-secara-substantif-dikabulkannya-permohonan-ini-akan-menc-egah",
+      "text": "semakin dalamnya degradasi moral dan intelektual dalam dunia pendidikan \ntinggi akibat penetrasi kepentingan ekonomi. Mahkamah melalui \nkewenangannya sebagai guardian of the constitution  berperan penting \ndalam memastikan agar pendidikan tidak tereduksi menjadi instru men \nekonomi, melainkan tetap menjadi benteng moral bangsa dengan demikian, \ndampak potensial berupa hilangnya kebebasan akademik, tereduksi nya \notonomi kampus, serta rusaknya sistem pendidikan nasional yang \nberorientasi pada kemakmuran rakyat sebagaimana dikhawatirkan P ara \nPemohon tidak akan atau tidak lagi terjadi.",
+      "start_line": 735,
+      "end_line": 743
+    },
+    {
+      "heading": "45. Bahwa oleh karena itu, terdapat hubungan kausal yang rasional d an logis",
+      "slug": "45-bahwa-oleh-karena-itu-terdapat-hubungan-kausal-yang-rasional-d-an-logis",
+      "text": "antara dikabulkannya permohonan ini dengan hilangnya kerugian h ak \ndan/atau kewenangan konstitusional Para Pemohon degan dihapusny a \nnorma-norma a quo, maka kepastian hukum, keadilan konstitusional, dan \nperlindungan terhadap hak atas pendidikan serta pengelolaan sumber daya \nalam yang berkeadilan akan pulih kembali. \nC. ALASAN ALASAN PERMOHONAN (POSITA) \nPerbedaan Permohonan Pemohon dengan Permohonan Pengujian Pasal  \na quo lainnya",
+      "start_line": 745,
+      "end_line": 752
+    },
+    {
+      "heading": "1. Bahwa sepanjang yang diketahui oleh para pemohon, Mahkamah k onstitusi",
+      "slug": "1-bahwa-sepanjang-yang-diketahui-oleh-para-pemohon-mahkamah-k-onstitusi",
+      "text": "telah menerima dua pengujian pasal yang pasalnya berkaitan deng an pasal \nyang dimohonkan pengujian oleh para pemohon  \n\n21",
+      "start_line": 754,
+      "end_line": 759
+    },
+    {
+      "heading": "2. Bahwa meskipun permohonan para Pemohon dalam perkara ini mem iliki",
+      "slug": "2-bahwa-meskipun-permohonan-para-pemohon-dalam-perkara-ini-mem-iliki",
+      "text": "kesamaan objek pengujian dengan beberapa perkara sebelumnya, ya kni \nPasal 51A, Pasal 60A, dan Pasal 75A Undang-Undang Nomor 3 Tahun 2020 \ntentang Pertambangan Mineral dan Batubara (UU Minerba), namun s ecara \nsubstansial, pokok permohonan ini memiliki lingkup dan orientas i \nkonstitusional yang berbeda secara mendasar dari permohonan-permohonan \nsebelumnya. \nTabel 1.1 \nNomor \nPerkara \nPasal yang dimohonkan \npengujian  (Pasal nya \nsama dengan pasal yang",
+      "start_line": 761,
+      "end_line": 772
+    },
+    {
+      "heading": "di uji oleh pemohon)",
+      "slug": "di-uji-oleh-pemohon",
+      "text": "Pokok Permohonan \n160/PUU-\nXXIII/2025 \nPasal 51A ayat (1), Pasal \n51A ayat (3), Pasal 51A ayat \n(4), Pasal 51A ayat (5), \nPasal 60A ayat (1), Pasal \n60A ayat (3), Pasal 60A ayat \n(4), Pasal 60A ayat \n(5),Pasal 75A ayat (1), \nPasal 75A ayat (3), Pasal \n75A ayat (4), dan Pasal 75A \nayat (5) \nDalam permohonan \npengujian UU Minerba \ntersebut, para Pemohon III, \nIV, dan V yang terdiri dari \nseorang dosen Fakultas \nHukum serta dua \nmahasiswa aktif. Mereka \nmempersoalkan ketentuan \ntersebut yang \nmenempatkan perguruan \ntinggi sebagai instrumen \nafirmatif bagi badan usaha \nswasta untuk memperoleh \nprioritas dalam pemberian \nIzin Usaha Pertambangan \n(IUP). \n \nOleh karena itu, para \nPemohon menilai bahwa \nfrasa “badan usaha swasta” \ndalam pasal-pasal tersebut \nharus dinyatakan \nbertentangan dengan UUD \n1945 dan tidak mempunyai \nkekuatan hukum mengikat. \nM e r e k a  m e m i n t a  a g a r  \nprioritas IUP untuk tujuan \nkemandirian dan \nkeunggulan perguruan \ntinggi hanya diberikan \nkepada BUMN atau BUMD,\n184/PUU-\nXXIII/2025 \nPasal 51A, Pasal 60A \n \nBagian permohonan ini \nberfokus pada pengujian \nkonstitusionalitas Pasal 51A \n\n22 \n \n \nUU Minerba, yang \nmemberikan prioritas \nWilayah Izin Usaha \nPertambangan (WIUP) \nmineral logam kepada \nbadan usaha swasta untuk \nkepentingan perguruan \ntinggi. \nSecara substansial, \nPemohon berpendapat \nbahwa ketentuan Pasal 51A \nUU Minerba mengabaikan \nmandat konstitusi tentang \npenguasaan negara atas \nsumber daya alam dan \nmenyimpang dari asas \ndemokrasi ekonomi. Negara \ndianggap melepaskan \nsebagian kendalinya \nkepada entitas privat yang \nberorientasi pada \nkeuntungan, bukan pada \nkemakmuran rakyat. \n \nKemudian untuk Pasal 60A, \nyang mengatur mengenai \npemberian Wilayah Izin \nUsaha Pertambangan \n(WIUP) batubara secara \nprioritas kepada badan \nusaha swasta untuk \nkepentingan perguruan \ntinggi. Pemohon \nmempersoalkan Pemberian \nWIUP   prioritas kepada \nbadan usaha swasta yang \ndinilai telah mengabaikan \ntanggung jawab \nkonstitusionalnya dalam \nmenjamin keadilan ekonomi \ndan kesejahteraan sosial. \nPemohon juga menilai \nbahwa mekanisme \npemberian WIUP batubara \nsecara prioritas  tersebut \ntidak memperhatikan \nkepentingan dan hak-hak \nwarga lokal maupun \nmasyarakat hukum adat di \n\n23 \n \n \nsekitar wilayah \npertambangan. \n190/PUU-\nXXIII/2025. \n(Pemohon) \nPasal 51A ayat (1), Pasal \n51A ayat (3), Pasal 51A ayat \n(4), Pasal 51A ayat (5), \nPasal 60A ayat (1), Pasal \n60A ayat (3), Pasal 60A ayat \n(4), Pasal 60A ayat \n(5),Pasal 75A ayat (1), \nPasal 75A ayat (3), Pasal \n75A ayat (4), dan Pasal 75A \nayat (5) \nPemohon Mempersoalkan \npemberian kewenangan \nkepada pemerintah untuk \nmemberikan izin \npertambangan (WIUP dan \nWIUPK) secara prioritas \nkepada BUMN, BUMD, atau \nbadan usaha swasta demi \nkepentingan perguruan \ntinggi. \nMenurut Pemohon, \nketentuan ini tidak jelas \nbatasannya dan justru \nmenimbulkan \nkomersialisasi perguruan \ntinggi. Perguruan tinggi \nyang seharusnya menjadi \nlembaga ilmiah independen \nberpotensi berubah menjadi \nentitas ekonomi yang \nbergantung pada industri \ntambang. Kondisi ini \nmengancam kebebasan \nakademik, otonomi \nkeilmuan, dan integritas \npendidikan tinggi.",
+      "start_line": 774,
+      "end_line": 922
+    },
+    {
+      "heading": "3. Bahwa dalam dua permohonan terdahulu, yaitu Perkara Nomor 16 0/PUU-",
+      "slug": "3-bahwa-dalam-dua-permohonan-terdahulu-yaitu-perkara-nomor-16-0-puu",
+      "text": "XXIII/2025 dan 184/PUU-XXIII/2025, fokus pengujian hanya terbat as pada \nfrasa “badan usaha swasta” (BUMS) yang dinilai bertentangan dengan UUD \nNRI 1945 karena dianggap berpotensi menyalahi prinsip penguasaan negara \natas sumber daya alam sebagaimana dimaksud dalam Pasal 33 ayat (3) UUD \nNRI 1945. Permohonan-permohonan tersebut memandang permasalahan  \nutama terletak pada privatisasi pengelolaan sumber daya alam me lalui \npelibatan entitas swasta yang berorientasi pada keuntungan privat, sehingga \nmengabaikan kepentingan publik dan kesejahteraan rakyat. Namun \ndemikian, permohonan para Pemohon dalam perkara ini (Nomor 190/ PUU-\nXXIII/2025) justru menghadirkan dimensi permasalahan yang lebih  \nmendalam dan komprehensif, yaitu menyangkut keruntuhan prinsip \nindependensi pendidikan tinggi akibat adanya potensi keterlibatan perguruan \ntinggi dalam praktik pengelolaan pertambangan tidak hanya denga n badan \n\n24 \n \n \nusaha swasta (BUMS), tetapi juga melalui Badan Usaha Milik Nega ra \n(BUMN) dan Badan Usaha Milik Daerah (BUMD).",
+      "start_line": 924,
+      "end_line": 942
+    },
+    {
+      "heading": "4. Bahwa sekalipun objek norma yang dimohonkan pengujian oleh P ara",
+      "slug": "4-bahwa-sekalipun-objek-norma-yang-dimohonkan-pengujian-oleh-p-ara",
+      "text": "Pemohon dalam perkara Nomor 190/PUU-XXIII/2025 secara tekstual serupa \ndengan yang telah diajukan dalam perkara Nomor 160/PUU-XXIII/20 25 dan \nNomor 184/PUU-XXIII/2025, yaitu pengujian terhadap Pasal 51A, Pasal 60A, \ndan Pasal 75A Undang-Undang Nomor 2 Tahun 2025 tentang Perubaha n \nKeempat atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan \nMineral dan Batubara, namun substansi konstitusional yang menja di dasar \nkeberatan Para Pemohon dalam perkara a quo berbeda secara fundamental \ndan memiliki karakter pengujian tersendiri, Perkara a quo tidak dimaksudkan \nuntuk mengulangi argumentasi yang telah diperiksa Mahkamah sebelumnya, \nmelainkan menghadirkan kerangka argumentatif baru yang menempatkan isu \nini dalam konteks perlindungan hak atas pendidikan dan kebebasa n \nakademik sebagai bagian dari hak konstitusional warga negara yang dijamin \noleh Pasal 28C ayat (1), Pasal 28D ayat (1), dan Pasal 31 ayat (3) Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut \nUUD NRI 1945).",
+      "start_line": 944,
+      "end_line": 958
+    },
+    {
+      "heading": "5. Bahwa dalam perkara 160/PUU-XXIII/2025 dan 184/PUU-XXIII/202 5, para",
+      "slug": "5-bahwa-dalam-perkara-160-puu-xxiii-2025-dan-184-puu-xxiii-202-5-para",
+      "text": "Pemohon menitikberatkan argumentasinya pada persoalan privatisa si \npengelolaan sumber daya alam (SDA), khususnya terhadap frasa “b adan \nusaha swasta” dalam pasal-pasal a quo yang dinilai bertentangan dengan \nprinsip penguasaan negara atas SDA sebagaimana dimaksud dalam P asal \n33 ayat (3) UUD NRI 1945. Permohonan tersebut berangkat dari pa radigma \nekonomi konstitusional, yaitu sejauh mana keterlibatan entitas swasta dalam \npengelolaan tambang dapat mengancam kedaulatan negara atas keka yaan \nalam. Dengan demikian, locus konstitusional dari kedua permohonan \ntersebut berada dalam ranah keadilan ekonomi dan kedaulatan neg ara atas \nsumber daya alam, bukan pada perlindungan hak warga negara di b idang \npendidikan.",
+      "start_line": 960,
+      "end_line": 970
+    },
+    {
+      "heading": "6. Bahwa berbeda dengan itu, permohonan Para Pemohon dalam perk ara a",
+      "slug": "6-bahwa-berbeda-dengan-itu-permohonan-para-pemohon-dalam-perk-ara-a",
+      "text": "quo berpijak pada paradigma yang sama sekali berlainan, yakni para digma \nhak konstitusional atas pendidikan constitutional right to education . Para \n\n25 \n \n \nPemohon tidak mempersoalkan siapa pihak yang memperoleh priorit as izin \npertambangan (apakah BUMN, BUMD, atau BUMS), melainkan \nmempersoalkan dampak konstitusional dari norma a quo  terhadap sistem \npendidikan nasional dan hak mahasiswa sebagai subjek konstitusi . Dalam \npandangan Para Pemohon, pemberian izin pertambangan “untuk \nkepentingan perguruan tinggi” sebagaimana dimaksud dalam Pasal 51A, \n60A, dan 75A UU Minerba justru menempatkan perguruan tinggi dalam posisi \nyang bertentangan dengan hakikatnya sebagai lembaga akademik ya ng \notonom, ilmiah, dan bebas dari kepentingan ekonomi. Perguruan tinggi yang \nmenerima keuntungan dari aktivitas tambang, secara hukum, telah  \ndiposisikan sebagai entitas ekonomi yang rentan terhadap konfli k \nkepentingan (conflict of interest) dengan dunia industri.",
+      "start_line": 972,
+      "end_line": 989
+    },
+    {
+      "heading": "7. Bahwa secara konstitusional, hal tersebut merupakan pelangga ran terhadap",
+      "slug": "7-bahwa-secara-konstitusional-hal-tersebut-merupakan-pelangga-ran-terhadap",
+      "text": "Pasal 28C ayat (1) UUD NRI 1945, karena hak untuk mengembangkan  diri \nmelalui pendidikan mensyaratkan tersedianya lingkungan belajar yang \nbebas, objektif, dan berintegritas. Kebebasan berpikir dan kebe basan \nakademik merupakan turunan langsung dari hak konstitusional ata s \npendidikan. Norma a quo , dengan membuka ruang bagi komersialisasi \npendidikan tinggi, telah mengancam kebebasan akademik tersebut dan \nsecara potensial mengubah ruang pendidikan menjadi instrumen ek onomi \nyang berorientasi profit, Dengan kata lain, perkara ini tidak hanya menyentuh \naspek ekonomi, tetapi langsung pada inti hak asasi konstitusion al warga \nnegara, yaitu kebebasan intelektual dan hak memperoleh pendidik an yang \nbermartabat, sebagaimana dijamin oleh Pasal 31 ayat (3) UUD NRI  1945 \nyang menegaskan bahwa penyelenggaraan pendidikan harus bertujua n \nmencerdaskan kehidupan bangsa dan membentuk akhlak mulia.",
+      "start_line": 991,
+      "end_line": 1003
+    },
+    {
+      "heading": "8. Bahwa perbedaan berikutnya terletak pada pendekatan analisis y a n g",
+      "slug": "8-bahwa-perbedaan-berikutnya-terletak-pada-pendekatan-analisis-y-a-n-g",
+      "text": "digunakan perkara 160/PUU dan 184/PUU menggunakan pendekatan \nstruktural-ekonomik dengan fokus pada distribusi kewenangan antara negara \ndan swasta dalam penguasaan SDA, Sedangkan perkara a quo  \nmenggunakan pendekatan berbasis hak (rights-based constitutional review), \ndengan menilai apakah norma yang diuji menimbulkan pelanggaran terhadap \nhak konstitusional Para Pemohon sebagai mahasiswa, khususnya ha k atas \n\n26 \n \n \npendidikan, hak atas kepastian hukum yang adil, serta hak untuk  \nmengembangkan diri secara intelektual dengan demikian, paramete r \nkonstitusional yang digunakan dalam permohonan a quo  berbeda secara \ntotal dengan perkara sebelumnya, karena berfokus pada constitutional harm \nterhadap individu warga negara, bukan terhadap fungsi negara se bagai \npengelola kekayaan alam.",
+      "start_line": 1005,
+      "end_line": 1020
+    },
+    {
+      "heading": "9. Bahwa secara teleologis, permohonan a quo menegaskan bahwa tujuan",
+      "slug": "9-bahwa-secara-teleologis-permohonan-a-quo-menegaskan-bahwa-tujuan",
+      "text": "utama pendidikan nasional menurut UUD NRI 1945 bukanlah menghas ilkan \nkeuntungan ekonomi, tetapi mencerdaskan kehidupan bangsa melalui proses \npembentukan akhlak, moral, dan kecerdasan yang merdeka. Norma a quo \njustru menyalahi tujuan konstitusional tersebut dengan menempat kan \nperguruan tinggi sebagai bagian dari mekanisme distribusi keunt ungan \nekonomi industri pertambangan. Dalam hal ini, konstitusi telah mengatur \nsecara tegas bahwa pendidikan adalah tanggung jawab negara untu k \nkepentingan publik ( public good), bukan sarana investasi ekonomi dengan \ndemikian, permohonan ini menguji norma bukan dari sisi distribu si ekonomi, \nmelainkan dari sisi deformasi fungsi lembaga pendidikan. Norma yang \nsemula berorientasi pada “kemandirian perguruan tinggi” justru berpotensi \nmenciptakan ketergantungan struktural pada sumber daya tambang,  yang \nbertentangan dengan prinsip otonomi akademik dan nilai-nilai da sar \npendidikan nasional.",
+      "start_line": 1022,
+      "end_line": 1035
+    },
+    {
+      "heading": "10. Bahwa berdasarkan seluruh uraian tersebut, jelas bahwa perm ohonan Para",
+      "slug": "10-bahwa-berdasarkan-seluruh-uraian-tersebut-jelas-bahwa-perm-ohonan-para",
+      "text": "Pemohon dalam perkara Nomor 190/PUU-XXIII/2025 memiliki novelty \n(kebaruan) dan distinct constitutional perspective  (sudut pandang \nkonstitusional yang berbeda) dibandingkan dua permohonan sebelumnya:  \na. Jika perkara 160/PUU dan 184/PUU berbicara tentang komersial isasi \nsumber daya alam, maka perkara ini berbicara tentang komersiali sasi \nruang akademik. \nb. Jika perkara sebelumnya memperdebatkan penguasaan negara \nterhadap tambang, maka perkara ini memperdebatkan kebebasan \nakademik terhadap intervensi ekonomi.",
+      "start_line": 1037,
+      "end_line": 1045
+    },
+    {
+      "heading": "c. Jika perkara terdahulu berangkat dari economic constitutionalism, maka",
+      "slug": "c-jika-perkara-terdahulu-berangkat-dari-economic-constitutionalism-maka",
+      "text": "perkara ini berangkat dari constitutional human rights framework  yakni \n\n27 \n \n \nperlindungan hak konstitusional warga negara atas pendidikan ya ng \nbermartabat.",
+      "start_line": 1047,
+      "end_line": 1053
+    },
+    {
+      "heading": "11. Bahwa menurut Pemohon, inti persoalan konstitusional dalam norma a quo",
+      "slug": "11-bahwa-menurut-pemohon-inti-persoalan-konstitusional-dalam-norma-a-quo",
+      "text": "tidak semata-mata terletak pada siapa yang diberi prioritas dalam izin usaha \npertambangan (swasta atau negara), melainkan pada cara pandang normatif \nyang menempatkan perguruan tinggi sebagai instrumen ekonomi, bu kan \nsebagai lembaga pendidikan yang independen, ilmiah, dan berorientasi pada \nkemaslahatan publik. \nTereduksinya Hakikat Pendidikan dan Ancaman terhadap Kebebasan \nAkademik",
+      "start_line": 1055,
+      "end_line": 1061
+    },
+    {
+      "heading": "12. Bahwa secara konstitusional dan filosofis, pendidikan tingg i di Indonesia",
+      "slug": "12-bahwa-secara-konstitusional-dan-filosofis-pendidikan-tingg-i-di-indonesia",
+      "text": "memiliki landasan yang kokoh dalam Pasal 31 ayat (3) dan Pasal 28C ayat \n(1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Pasal 31 \nayat (3) menegaskan kewajiban konstitusional pemerintah untuk \nmenyelenggarakan satu sistem pendidikan nasional yang berorient asi pada \npencerdasan kehidupan bangsa, sedangkan Pasal 28C ayat (1) menegaskan \nhak asasi setiap orang untuk mengembangkan diri, memperoleh pendidikan, \nserta memanfaatkan ilmu pengetahuan dan teknologi bagi peningka tan \nkualitas hidupnya, Kedua ketentuan ini membentuk fondasi filoso fis bahwa \npendidikan tinggi bukanlah alat ekonomi negara, melainkan public good yaitu \nbarang publik yang manfaatnya bersifat luas, inklusif, dan tidak dapat dibatasi \npada kepentingan kelompok tertentu. Pendidikan bukan komoditas ekonomi \nyang diperjualbelikan, melainkan hak konstitusional yang harus dijaga dari \npengaruh politik maupun penetrasi kepentingan kapital. Dalam konteks inilah, \npendidikan tinggi menjadi pilar utama untuk menjaga rasionalita s publik, \nmembangun nalar kritis warga negara, serta memelihara kemerdeka an \nberpikir sebagai basis peradaban demokratis.",
+      "start_line": 1063,
+      "end_line": 1078
+    },
+    {
+      "heading": "13. Bahwa dalam teori pendidikan tinggi modern, universitas dit empatkan",
+      "slug": "13-bahwa-dalam-teori-pendidikan-tinggi-modern-universitas-dit-empatkan",
+      "text": "sebagai lembaga otonom ( autonomous institution) yang memiliki hak untuk \nmenentukan arah keilmuan, kebijakan riset, dan pengelolaan inte rnalnya \nsecara bebas dari intervensi kekuasaan politik maupun ekonomi. Doktrin ini \nditegaskan secara universal dalam Magna Charta Universitatum (B ologna, \n1988), yang menyatakan “the university is an autonomous institution… \n\n28 \n \n \nmorally and intellectually independent of all political authority and economic \npower.” Yang memilki makna bahwa universitas harus memiliki otonom ata u \nkemandirian penuh, baik secara moral maupun intelektual, dari c ampur \ntangan otoritas politik dan kekuasaan ekonomi, pinsip tersebut telah menjadi \nnorma etik dan hukum internasional yang mengikat secara moral bagi setiap \nnegara yang menjunjung kebebasan akademik. (Magna Charta \nUniversitatum, Bologna, Italy, 18 September 1988, Preamble and \nFundamental Principles, butir 1).",
+      "start_line": 1080,
+      "end_line": 1096
+    },
+    {
+      "heading": "14. Bahwa secara substansi hukumnya prinsip ini juga telah diad opsi dalam",
+      "slug": "14-bahwa-secara-substansi-hukumnya-prinsip-ini-juga-telah-diad-opsi-dalam",
+      "text": "Pasal 9 ayat (1) Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan \nTinggi, yang menyatakan: “Kebebasan akademik adalah kebebasan s ivitas \nakademika dalam pendidikan tinggi untuk mendalami dan mengemban gkan \nilmu pengetahuan dan teknologi secara bertanggung jawab melalui  \npelaksanaan Tri Dharma Perguruan Tinggi.” Dengan demikian, kebe basan \nakademik dan otonomi perguruan tinggi adalah hak konstitusional  y a n g  \ndijamin oleh sistem hukum Indonesia dan merupakan manifestasi d ari hak \natas pendidikan yang merdeka sebagaimana termaktub dalam UUD NR I \n1945.",
+      "start_line": 1098,
+      "end_line": 1106
+    },
+    {
+      "heading": "15. Bahwa norma a quo dalam Pasal 51A, Pasal 60A, dan Pasal 75A Undang-",
+      "slug": "15-bahwa-norma-a-quo-dalam-pasal-51a-pasal-60a-dan-pasal-75a-undang",
+      "text": "Undang Nomor 2 Tahun 2025 tentang Perubahan Keempat atas Undang -\nUndang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batu bara \njustru bertentangan secara langsung dengan prinsip-prinsip tersebut, Norma \na quo  yang mengatur bahwa pemerintah dapat memberikan Wilayah Izin \nUsaha Pertambangan (WIUP), Wilayah Izin Usaha Pertambangan Batu bara \n(WIUP Batubara), maupun Wilayah Izin Usaha Pertambangan Khusus \n(WIUPK) kepada perguruan tinggi melalui mekanisme kerja sama de ngan \nBUMN, BUMD, atau badan usaha swasta. Perguruan tinggi bahkan diberi hak \nuntuk memperoleh sebagian keuntungan dari kegiatan pertambangan  \ntersebut sesuai perjanjian kerja sama, skema ini namun secara t ekstual, \nketentuan ini tampak dimaksudkan untuk “meningkatkan kemandiria n dan \nkeunggulan perguruan tinggi” akan tetapi, secara substantif, no rma ini \nmengandung defect of constitutional purpose  ( ketidaksempurnaan \n/kegagalan dalam mencapai tujuan konstitusi) , karena menempatkan \n\n29 \n \n \nuniversitas pada posisi yang bertentangan dengan kodratnya seba gai \nlembaga pencarian kebenaran ilmiah yang independen. Norma tersebut telah \nmengaburkan garis demarkasi antara fungsi akademik dan fungsi e konomi, \nserta mengubah orientasi pendidikan tinggi dari public service institution  \nmenjadi profit-driven institution.",
+      "start_line": 1108,
+      "end_line": 1130
+    },
+    {
+      "heading": "16. Bahwa keterlibatan universitas dalam aktivitas ekonomi pert ambangan",
+      "slug": "16-bahwa-keterlibatan-universitas-dalam-aktivitas-ekonomi-pert-ambangan",
+      "text": "secara inheren menimbulkan konflik kepentingan ( structural conflict of \ninterest). Sebab, lembaga yang memperoleh keuntungan dari kegiatan \ntambang akan kehilangan objektivitas ilmiah untuk meneliti, men ilai, dan \nmengkritik dampak negatif dari aktivitas tersebut. Bagaimana mu ngkin \nuniversitas dapat melakukan penelitian independen terkait kerus akan \nlingkungan, konflik agraria, atau pelanggaran hak asasi manusia oleh industri \ntambang, apabila pada saat yang sama ia menjadi mitra bisnis atau penerima \nmanfaat finansial dari entitas tambang tersebut? Kondisi ini me rupakan \nbentuk self-contradiction yang melemahkan integritas akademik dan merusak \nlegitimasi moral universitas di hadapan publik. Universitas yan g seharusnya \nmenjadi benteng moral bangsa dan ruang pembentukan rasionalitas  publik \njustru berpotensi menjadi pelaku yang menormalisasi eksploitati fisme \nekonomi dengan legitimasi ilmiah.",
+      "start_line": 1132,
+      "end_line": 1144
+    },
+    {
+      "heading": "17. Bahwa dampak dari norma a quo bukan hanya ekonomis, tetapi juga",
+      "slug": "17-bahwa-dampak-dari-norma-a-quo-bukan-hanya-ekonomis-tetapi-juga",
+      "text": "epistemik dan politis, karena secara langsung mengancam kebebas an \nakademik (academic freedom) dan otonomi keilmuan (academic autonomy), \nsebagaimana dikemukakan oleh Prof. Dr. Sigit Riyanto dalam orasi ilmiahnya",
+      "start_line": 1146,
+      "end_line": 1148
+    },
+    {
+      "heading": "di Sekolah Tinggi Hukum Indonesia Jentera (2021), kebebasan aka demik",
+      "slug": "di-sekolah-tinggi-hukum-indonesia-jentera-2021-kebebasan-aka-demik",
+      "text": "merupakan conditio sine qua non yang berartisuatu tindakan dapat dikatakan \nmenimbulkan akibat tertentu, sepanjang akibat tersebut tidak da pat \ndilepaskan dari tindakan pertama tersebut  maka bagi keberlangsungan \npendidikan tinggi tanpa kebebasan berpikir dan otonomi keilmuan , \nuniversitas akan kehilangan fungsi sosialnya sebagai ruang krit ik terhadap \nkekuasaan dan kepentingan ekonomi. Ia menegaskan bahwa “rule of law dan \ndemokrasi tidak mungkin ditegakkan tanpa kebebasan akademik, ka rena \nkebebasan berpikir adalah sumber utama dari kesadaran hukum dan  \nrasionalitas publik. ” ( P r o f .  D r .  S i g i t  R i y a n t o ,  S . H . ,  L L . M . ,  “Quo Vadis \n\n30 \n \n \nKebebasan Akademik dan Tanggung Jawab Intelektual: Menegakkan \nIndependensi Perguruan Tinggi di Tengah Krisis Demokrasi dan \nKomersialisasi Pendidikan”, Orasi Ilmiah pada Dies Natalis Seko lah Tinggi \nHukum Indonesia (STHI) Jentera ke-7, Jakarta, 9 Oktober 2021)",
+      "start_line": 1150,
+      "end_line": 1166
+    },
+    {
+      "heading": "18. Bahwa dalam konteks norma a quo, ketika universitas diposisikan sebagai",
+      "slug": "18-bahwa-dalam-konteks-norma-a-quo-ketika-universitas-diposisikan-sebagai",
+      "text": "aktor ekonomi yang mencari keuntungan melalui eksploitasi sumbe r daya \nalam, maka secara otomatis ia akan menghadapi tekanan finansial dan politis \nuntuk menyesuaikan arah riset, kurikulum, maupun kebijakan akad emik \ndengan kepentingan mitra tambang. Dosen dan peneliti akan menga lami \ntekanan struktural untuk tidak mengkritik mitra korporatif kamp usnya. \nMahasiswa akan kehilangan ruang belajar yang bebas dari interve nsi \nekonomi, dan ruang diskursus akademik akan dibungkam oleh logik a \npendanaan, kondisi ini justru menciptakan chilling effect atau efek gentar \nyang menimbulkan pembungkaman intelektual terselubung. Di bawah  \nbayang-bayang kerja sama ekonomi, sivitas akademika tidak lagi memiliki \nkeberanian untuk bersikap kritis terhadap kekuasaan. Kebebasan akademik \nyang dijamin konstitusi berubah menjadi kebebasan semu yang dik ekang \noleh kepentingan material lembaga. Hal ini secara langsung mere duksi hak \nkonstitusional mahasiswa dan dosen sebagaimana dijamin oleh Pas al 28C \nayat (1) dan Pasal 31 ayat (3) UUD NRI 1945.",
+      "start_line": 1168,
+      "end_line": 1182
+    },
+    {
+      "heading": "19. Bahwa norma a quo juga menimbulkan ketidakpastian hukum ( legal",
+      "slug": "19-bahwa-norma-a-quo-juga-menimbulkan-ketidakpastian-hukum-legal",
+      "text": "uncertainty) yang bertentangan dengan prinsip rule of law  sebagaimana \ndijamin oleh Pasal 28D ayat (1) UUD NRI 1945, dimana Ketentuan Pasal 51A, \n60A, dan 75A UU Minerba tidak menjelaskan secara jelas dan rinci mengenai \nbentuk, tata cara, batas, dan mekanisme kerja sama antara perguruan tinggi \ndan badan usaha pertambangan. Norma tersebut tidak memberikan batasan \nyang tegas tentang: \na. Menghilangkan independensi dan kebebasan akademik perguruan tinggi \nb. Menurunkan pendidikan tinggi dari ruang publik menjadi entit as ekonomi",
+      "start_line": 1184,
+      "end_line": 1191
+    },
+    {
+      "heading": "c. Menciptakan ketidakpastian hukum yang bertentangan dengan prins ip",
+      "slug": "c-menciptakan-ketidakpastian-hukum-yang-bertentangan-dengan-prins-ip",
+      "text": "rule of law",
+      "start_line": 1193,
+      "end_line": 1193
+    },
+    {
+      "heading": "d. Mengancam fungsi universitas sebagai benteng moral bangsa da n ruang",
+      "slug": "d-mengancam-fungsi-universitas-sebagai-benteng-moral-bangsa-da-n-ruang",
+      "text": "rasionalitas publik \n\n31 \n \n \nMaka ketiadaan penjelasan tersebut menimbulkan normative vagueness atau \nkekaburan norma, yang berpotensi menimbulkan interpretasi sewen ang-\nwenang oleh penguasa dan korporasi dalam sistem hukum yang menjunjung \nprinsip lex certa dan rechtstaat, norma hukum yang tidak jelas merupakan \nbentuk pelanggaran terhadap kepastian hukum yang adil. Norma yang kabur \nmembuka ruang bagi penyalahgunaan wewenang ( abuse of power ), serta \nmemungkinkan universitas dijadikan perantara formal untuk membe rikan \nlegitimasi akademik terhadap eksploitasi sumber daya alam oleh kepentingan \nprivat, dengan demikian norma a quo  tidak hanya berpotensi menggerus \nindependensi akademik, tetapi juga menciptakan sistem hukum yan g tidak \npasti dan rawan disalahgunakan, yang secara langsung bertentang an \ndengan amanat Pasal 28D ayat (1) UUD NRI 1945.",
+      "start_line": 1195,
+      "end_line": 1211
+    },
+    {
+      "heading": "20. Bahwa secara filosofis dan empirisnya keterlibatan universi tas dalam",
+      "slug": "20-bahwa-secara-filosofis-dan-empirisnya-keterlibatan-universi-tas-dalam",
+      "text": "aktivitas pertambangan merupakan bentuk pengingkaran terhadap h akikat \npendidikan tinggi sebagai lembaga moral yang menjaga kemurnian ilmu \npengetahuan, dalam Magna Charta Universitatum, universitas diga mbarkan \nsebagai penjaga tradisi humanisme dan kebebasan berpikir, yang harus \n“morally and intellectually independent of all political authority and economic \npower.” Yang ber artikan mandiri secara moral dan intelektual dari semu a \notoritas politik dan kekuatan ekonomi maka ketika negara justru  \nmenempatkan universitas sebagai bagian dari jaringan ekonomi ta mbang, \nmaka negara telah melanggar mandat konstitusionalnya sendiri un tuk \nmenjaga kemerdekaan pendidikan dan kebebasan berpikir warga negara.",
+      "start_line": 1213,
+      "end_line": 1222
+    },
+    {
+      "heading": "21. Bahwa secara empiris, kerja sama universitas dengan industr i ekstraktif",
+      "slug": "21-bahwa-secara-empiris-kerja-sama-universitas-dengan-industr-i-ekstraktif",
+      "text": "berisiko menciptakan fenomena academic capitalism, yakni proses  di mana \nnilai-nilai akademik tunduk pada logika kapitalisasi. Dalam situasi ini, kampus \nkehilangan integritas ilmiah karena riset, publikasi, dan kebijakan pendidikan \ndiarahkan untuk mendukung kepentingan korporatif, bukan untuk p encarian \nkebenaran atau kepentingan publik. Perguruan tinggi, alih-alih menjadi \nlembaga pengetahuan, berubah menjadi entitas ekonomi yang tundu k pada \nlogika keuntungan (profit-seeking logic).",
+      "start_line": 1224,
+      "end_line": 1230
+    },
+    {
+      "heading": "22. Bahwa dengan demikian, norma a quo secara keseluruhan telah",
+      "slug": "22-bahwa-dengan-demikian-norma-a-quo-secara-keseluruhan-telah",
+      "text": "menimbulkan ancaman ganda: Pertama, terhadap hak konstitusional  a t a s  \n\n32 \n \n \npendidikan yang bebas, bermutu, dan berlandaskan independensi akademik, \nKedua, terhadap prinsip kepastian hukum dan asas kejelasan norm a yang \nmerupakan elemen esensial dalam sistem negara hukum demokratis.",
+      "start_line": 1232,
+      "end_line": 1239
+    },
+    {
+      "heading": "23. Bahwa norma-norma a quo tersebut telah menggeser paradigma pendidikan",
+      "slug": "23-bahwa-norma-norma-a-quo-tersebut-telah-menggeser-paradigma-pendidikan",
+      "text": "tinggi dari public good menjadi private profit, menciptakan konflik kepentingan \nyang sistemik, membuka ruang penyalahgunaan kekuasaan, dan \nmenghilangkan makna kebebasan akademik sebagai syarat bagi tega knya \ndemokrasi konstitusional. \nKegagalan Tata Kelola Tambang dan Erosi Hak Konstitusional",
+      "start_line": 1241,
+      "end_line": 1245
+    },
+    {
+      "heading": "24. Bahwa norma-norma a quo yang memberikan ruang bagi perguruan tinggi",
+      "slug": "24-bahwa-norma-norma-a-quo-yang-memberikan-ruang-bagi-perguruan-tinggi",
+      "text": "untuk terlibat dalam kegiatan usaha pertambangan melalui kerja sama \ndengan badan usaha negara, daerah, maupun swasta, pada dasarnya  \ndidasarkan pada asumsi bahwa keterlibatan tersebut akan memperk uat \ninovasi, transfer pengetahuan, dan kesejahteraan masyarakat. Na mun, \nasumsi ini secara empiris tidak terbukti. Realitas tata kelola pertambangan \nnasional menunjukkan bahwa baik entitas swasta, BUMN, maupun BU MD \njustru menjadi sumber utama bencana ekologis dan sosial akibat lemahnya \nakuntabilitas serta kaburnya norma hukum dalam pengawasan dan \npelaksanaan kegiatan pertambangan.",
+      "start_line": 1247,
+      "end_line": 1255
+    },
+    {
+      "heading": "25. Bahwa data dan laporan dari berbagai lembaga menunjukkan ad anya krisis",
+      "slug": "25-bahwa-data-dan-laporan-dari-berbagai-lembaga-menunjukkan-ad-anya-krisis",
+      "text": "tata kelola ekstraktif nasional yang bersifat sistemik dan lint as sektor. Kasus \nkorupsi tata niaga timah di bawah PT Timah Tbk (BUMN) menjadi bukti paling \nkonkret atas kegagalan tersebut, dengan kerugian ekologis mencapai Rp271 \ntriliun sebagaimana dihitung oleh ahli lingkungan IPB, Bambang Hero \nSaharjo. Nilai tersebut mencakup kerusakan ekologis sebesar Rp1 57,83 \ntriliun, kehilangan ekonomi lingkungan senilai Rp60,27 triliun,  d a n  b i a y a  \npemulihan hanya sekitar Rp5,25 triliun, menandakan bahwa sebagian besar \nkerusakan bersifat permanen. Kegagalan ini bukan hanya kealpaan  teknis, \ntetapi mencerminkan hilangnya fungsi negara dalam menjamin kepa stian \nhukum lingkungan dan tanggung jawab sosial korporasi sebagaimana dijamin \nPasal 28D ayat (1) UUD NRI 1945. (https://www.cnnindonesia.com/  \nnasional/20240402125244-121081748/kerugian-korupsi-pt-timah-rp271-\ntriliun-begini-rinciannya) \n\n33",
+      "start_line": 1257,
+      "end_line": 1273
+    },
+    {
+      "heading": "26. Bahwa situasi serupa juga terjadi pada perusahaan multinasional PT Freeport",
+      "slug": "26-bahwa-situasi-serupa-juga-terjadi-pada-perusahaan-multinasional-pt-freeport",
+      "text": "Indonesia, yang menghadapi dugaan pencemaran lingkungan akibat \nendapan tailing tanpa izin serta pengubahan metode pemanfaatan tanpa izin \nlingkungan yang sah. Potensi kerugian ekologis akibat pencemara n ini \ndiperkirakan mencapai Rp185 triliun. Fakta tersebut menunjukkan lemahnya \npenegakan hukum, sehingga korporasi raksasa dapat tetap beroperasi meski \nmenimbulkan dampak ekologis dan sosial yang masif. Ketiadaan penegakan \nhukum yang tegas dalam kasus-kasus ini memperlihatkan pelanggar an \nprinsip kepastian hukum yang adil sebagaimana dijamin dalam Pas al 28D \nayat (1) UUD NRI 1945. (https://money.kompas.com/ \nread/2018/03/19/171003726/bpk-kerugian-negara-rp-185-triliun-akibat-\nkerusakan-ekosistem-oleh-freepor)",
+      "start_line": 1275,
+      "end_line": 1285
+    },
+    {
+      "heading": "27. Bahwa kegagalan tata kelola pertambangan juga menimbulkan benca na",
+      "slug": "27-bahwa-kegagalan-tata-kelola-pertambangan-juga-menimbulkan-benca-na",
+      "text": "kemanusiaan. Berdasarkan data lapangan, di Kalimantan Timur, se banyak \n115 jiwa, sebagian besar anak-anak, meninggal dunia akibat lubang tambang \nbatubara yang dibiarkan terbuka tanpa reklamasi. Sementara di B angka \nBelitung, tercatat 16 korban jiwa akibat lubang tambang timah y ang \nterbengkalai, dengan 13 korban di antaranya anak-anak dan remaj a. Fakta \nini menunjukkan bentuk kelalaian struktural dari korporasi dan kegagalan \nnegara melindungi keselamatan warganya. Padahal, hak untuk hidu p aman \ndan berkeadilan merupakan bagian integral dari hak konstitusion al warga \nnegara untuk mengembangkan diri dan meningkatkan kualitas hidup nya \nsebagaimana dijamin Pasal 28C  ayat (1) UUD NRI Tahun 1945. \n(https://jatam.org/id/lengkap/143-anak-mati-sia-sia-di-lubang-tambang)",
+      "start_line": 1287,
+      "end_line": 1297
+    },
+    {
+      "heading": "28. Bahwa kegagalan sistematis ini juga berdampak langsung terhadap hak-hak",
+      "slug": "28-bahwa-kegagalan-sistematis-ini-juga-berdampak-langsung-terhadap-hak-hak",
+      "text": "ekonomi dan sosial masyarakat lokal. Aktivitas tambang yang tid ak dikelola \ndengan baik telah merusak ekosistem sungai dan laut, menghancurkan mata \npencaharian masyarakat nelayan dan petani. Misalnya, di Desa Pe tapahan, \nKabupaten Kampar, Riau, penurunan hasil tangkapan nelayan menca pai \nlebih dari 50% akibat sedimentasi dan pencemaran dari tambang p asir. Di \nSungai Baturusa, Bangka Belitung, tambang ilegal merusak habitat ikan dan \nmenyebabkan hilangnya pendapatan masyarakat pesisir. Keadaan in i jelas \nmenghambat warga dalam memenuhi kebutuhan dasarnya dan \n\n34 \n \n \nmengembangkan potensi diri sebagaimana dijamin oleh Pasal 28C a yat (1) \nUUD NRI Tahun 1945.",
+      "start_line": 1299,
+      "end_line": 1312
+    },
+    {
+      "heading": "29. Bahwa pelanggaran terhadap prinsip tata kelola lingkungan j uga terjadi",
+      "slug": "29-bahwa-pelanggaran-terhadap-prinsip-tata-kelola-lingkungan-j-uga-terjadi",
+      "text": "secara masif di sektor perizinan. Data Kementerian Energi dan Sumber Daya \nMineral (ESDM) menunjukkan bahwa 190 Izin Usaha Pertambangan (I UP) \nsempat dibekukan karena tidak memenuhi kewajiban Jaminan Reklam asi \nPascatambang (Jampost), namun 91 perusahaan tidak menindaklanju ti \nkewajiban tersebut sama sekali. Fakta ini memperlihatkan lemahn ya fungsi \npengawasan dan adanya impunitas regulatif yang dilegalkan melal ui UU \nMinerba, di mana pelanggar tetap dapat memperpanjang kontrak op erasi \nhingga dua kali sepuluh tahun. Bahkan, 14 perusahaan ilegal di kawasan \nhutan diakomodasi oleh KLHK untuk tetap beroperasi. Hal ini buk an hanya \nbentuk pembiaran terhadap kejahatan lingkungan, tetapi juga pel anggaran \nterhadap asas kepastian hukum dan keadilan sebagaimana dimandat kan \nPasal 28D ayat (1) UUD 1945. (https://www.tempo.co/ekonomi/6-izin-usaha-\npertambangan-kembali-aktif-setelah-bayar-jaminan-reklamasi-2086463)",
+      "start_line": 1314,
+      "end_line": 1326
+    },
+    {
+      "heading": "30. Bahwa dampak dari kegagalan tata kelola ini bukan hanya berupa kerusakan",
+      "slug": "30-bahwa-dampak-dari-kegagalan-tata-kelola-ini-bukan-hanya-berupa-kerusakan",
+      "text": "lingkungan dan korban jiwa, tetapi juga kerusakan moral dan aka demik \napabila norma a quo  dibiarkan. Ketika perguruan tinggi dilibatkan dalam \npraktik pertambangan yang sarat pelanggaran hukum, maka dunia \npendidikan kehilangan fungsi konstitusionalnya sebagai pelopor peradaban \ndan penjaga etika publik. Padahal, Pasal 31 ayat (3) UUD NRI Ta hun 1945 \nsecara eksplisit memerintahkan pemerintah untuk menyelenggarakan sistem \npendidikan nasional yang berorientasi pada keimanan, ketakwaan,  d a n  \nakhlak mulia dalam rangka mencerdaskan kehidupan bangsa. Mengarahkan \nlembaga pendidikan tinggi untuk ikut serta dalam sistem pertambangan yang \ntelah terbukti destruktif dan koruptif sama saja dengan mencabu t akar nilai \nmoral pendidikan itu sendiri.",
+      "start_line": 1328,
+      "end_line": 1338
+    },
+    {
+      "heading": "31. Bahwa kegagalan tata kelola oleh aktor-aktor tambang ini memper lihatkan",
+      "slug": "31-bahwa-kegagalan-tata-kelola-oleh-aktor-aktor-tambang-ini-memper-lihatkan",
+      "text": "hilangnya keseimbangan antara ilmu pengetahuan, kemanusiaan, da n \nkeadilan sosial, tiga unsur utama yang dijamin dalam Pasal 28C ayat (1), \nPasal 28D ayat (1), dan Pasal 31 ayat (3) UUD NRI Tahun 1945. K etika \nnegara melalui undang-undang justru mengarahkan dunia pendidika n untuk \n\n35 \n \n \nmasuk dalam sistem ekonomi ekstraktif yang sarat pelanggaran, m aka \nnegara telah gagal memberikan perlindungan hukum yang adil, menghambat \npengembangan diri warga negara, dan mengingkari tujuan pendidik an \nnasional. Oleh karena itu, norma a quo  nyata-nyata bertentangan dengan \nkonstitusi, baik secara substantif maupun moral. \nPerbandingan Dengan Praktik Internasional",
+      "start_line": 1340,
+      "end_line": 1353
+    },
+    {
+      "heading": "32. Bahwa relasi antara perguruan tinggi dan industri pertamban gan",
+      "slug": "32-bahwa-relasi-antara-perguruan-tinggi-dan-industri-pertamban-gan",
+      "text": "sebagaimana dimuat dalam norma pasal a quo yang membuka peluang bagi \nperguruan tinggi untuk mengelola wilayah izin pertambangan seca ra \nlangsung dan memperoleh manfaat finansial, bertentangan dengan prinsip \numum yang berlaku di berbagai yurisdiksi maju di dunia. Dalam p raktik \ninternasional, hubungan antara universitas dan sektor pertamban gan tidak \nbersifat finansial atau komersial, melainkan berorientasi pada pendidikan, \nriset ilmiah, dan pengembangan teknologi. Model ini menjaga kem urnian \nfungsi akademik serta menjamin independensi universitas dari ke pentingan \nekonomi ekstraktif.",
+      "start_line": 1355,
+      "end_line": 1363
+    },
+    {
+      "heading": "33. Bahwa di Amerika Serikat, sebagai salah satu negara dengan sistem tata",
+      "slug": "33-bahwa-di-amerika-serikat-sebagai-salah-satu-negara-dengan-sistem-tata",
+      "text": "kelola tambang paling matang, perguruan tinggi tidak diberikan kewenangan \nuntuk mengelola tambang secara langsung. Institusi seperti Univ ersity of \nArizona dan South Dakota School of Mines hanya berperan dalam \npenyelenggaraan pendidikan dan penelitian di bidang pertambangan, hukum \npertambangan, serta manajemen sumber daya mineral. Mereka tidak  \nmemegang izin operasi tambang, melainkan menyediakan tenaga ahl i dan \ninovasi teknologi yang mendukung efisiensi dan keberlanjutan industri. Model \nini didasarkan pada konsep Public Tenure (P-Tenure), yaitu instrumen hukum \nyang memungkinkan lembaga pendidikan menggunakan kawasan \npertambangan secara terbatas dan  eksklusif untuk tujuan non-kom ersial, \nseperti pelatihan praktis, penelitian terapan, dan pelestarian warisan industri.",
+      "start_line": 1365,
+      "end_line": 1375
+    },
+    {
+      "heading": "34. Bahwa contoh konkret penerapan P-Tenure dapat ditemukan pad a Montana",
+      "slug": "34-bahwa-contoh-konkret-penerapan-p-tenure-dapat-ditemukan-pad-a-montana",
+      "text": "Tech University, Amerika Serikat, melalui pengelolaan Orphan Boy Mine \nsebagai Underground Mine Education Center  ( U M E C ) .  F a s i l i t a s  i n i  \nsepenuhnya digunakan sebagai laboratorium pendidikan dan riset \ninterdisipliner yang melibatkan mahasiswa dan dosen di bidang t eknik \n\n36 \n \n \npertambangan, geologi, keselamatan tambang, hingga eksplorasi e nergi \npanas bumi. Dengan demikian, tidak terdapat motif komersial dalam kegiatan \nakademik tersebut, yang secara langsung menjaga integritas dan otonomi \nuniversitas dari pengaruh kepentingan ekonomi industri tambang.",
+      "start_line": 1377,
+      "end_line": 1388
+    },
+    {
+      "heading": "35. Bahwa praktik serupa juga dijumpai di Australia, di negara ini, hubungan",
+      "slug": "35-bahwa-praktik-serupa-juga-dijumpai-di-australia-di-negara-ini-hubungan",
+      "text": "antara universitas dan industri tambang dibangun atas dasar kol aborasi \nakademis dan profesional, bukan relasi finansial. Lembaga seper ti \nSustainable Minerals Institute (SMI) di University of Queenslan d berperan \nmengembangkan riset dan inovasi keberlanjutan, pendidikan profe sional, \nserta penilaian sosial terhadap aktivitas ekstraktif. Dalam kerangka tersebut, \nuniversitas bertindak sebagai penyedia pengetahuan dan tenaga ahli, namun \ntidak memiliki atau mengelola konsesi operasional komersial. Pe misahan ini \nmenjadi elemen kunci untuk memastikan universitas tetap menjadi  lembaga \npublik yang independen dari kepentingan bisnis industri.",
+      "start_line": 1390,
+      "end_line": 1398
+    },
+    {
+      "heading": "36. Bahwa di beberapa negara maju, terdapat pula mekanisme keua ngan yang",
+      "slug": "36-bahwa-di-beberapa-negara-maju-terdapat-pula-mekanisme-keua-ngan-yang",
+      "text": "memungkinkan universitas menerima manfaat ekonomi dari sektor ekstraktif \ntanpa mengorbankan independensi akademiknya, yakni melalui pengelolaan \ndana abadi (endowment fund). Sebagai contoh, Stanford University memiliki \ninvestasi dalam perusahaan tambang melalui mekanisme endowment yang \ndikelola oleh entitas keuangan independen di luar struktur akad emik \nuniversitas. Prinsip pemisahan ini memastikan bahwa walaupun un iversitas \nmemperoleh manfaat finansial secara tidak langsung, keputusan a kademik, \nriset, maupun kurikulum tetap steril dari pengaruh kepentingan korporasi \npertambangan. Dengan demikian, model pengelolaan seperti di Ind onesia \nyang justru menjadikan perguruan tinggi sebagai pemegang langsu ng \nwilayah izin usaha pertambangan (IUPK/WIUP) menyimpang jauh dari prinsip \ntata kelola akademik yang baik (good academic governance) dan melahirkan \nrisiko etis serta yuridis yang tinggi.",
+      "start_line": 1400,
+      "end_line": 1412
+    },
+    {
+      "heading": "37. Bahwa lebih jauh lagi, banyak universitas di Eropa dan Amer ika Utara kini",
+      "slug": "37-bahwa-lebih-jauh-lagi-banyak-universitas-di-eropa-dan-amer-ika-utara-kini",
+      "text": "mengambil langkah etis untuk melakukan divestasi dari investasi pada sektor \nbahan bakar fosil dan industri ekstraktif. Gerakan “fossil fuel divestment” yang \ndilakukan oleh kampus-kampus seperti Wageningen University di B elanda \ndan sejumlah universitas Ivy League di Amerika Serikat menunjuk kan \n\n37 \n \n \nkomitmen kuat dunia pendidikan tinggi untuk memisahkan diri dar i praktik \nekonomi yang merusak lingkungan dan berpotensi mencederai integ ritas \nakademik. Sementara itu, kebijakan Indonesia yang justru membuka peluang \nbagi perguruan tinggi menjadi pemegang aset tambang merupakan \nkemunduran etis dan bertentangan dengan arah moral global dalam  t a t a  \nkelola pendidikan tinggi yang berkelanjutan.",
+      "start_line": 1414,
+      "end_line": 1427
+    },
+    {
+      "heading": "38. Bahwa berdasarkan seluruh perbandingan tersebut, jelas bahw a",
+      "slug": "38-bahwa-berdasarkan-seluruh-perbandingan-tersebut-jelas-bahw-a",
+      "text": "menempatkan perguruan tinggi sebagai penerima manfaat langsung dari \nindustri pertambangan komersial merupakan kekeliruan normatif d an \nkelembagaan. Perguruan tinggi adalah entitas publik yang menjal ankan \nfungsi pendidikan, penelitian, dan pengabdian masyarakat, bukan instrumen \nekonomi negara. Keterlibatan perguruan tinggi dalam kegiatan bi snis \nekstraktif tidak hanya menimbulkan potensi konflik kepentingan,  tetapi juga \nmengancam independensi akademik, merusak integritas ilmiah, dan  \nmengaburkan fungsi utama pendidikan tinggi sebagai penjaga nala r publik \ndan etika ilmu pengetahuan. Oleh karena itu, norma pasal a quo harus dinilai \nbertentangan dengan prinsip-prinsip dasar tata kelola universit as modern \nserta menyimpang dari praktik-praktik terbaik ( best practices) internasional \ndalam hubungan antara dunia akademik dan industri pertambangan. \nD. PETITUM",
+      "start_line": 1429,
+      "end_line": 1441
+    },
+    {
+      "heading": "2. Menyatakan bahwa ketentuan Pasal 51A ayat (1), Pasal 51A ayat ( 3), Pasal",
+      "slug": "2-menyatakan-bahwa-ketentuan-pasal-51a-ayat-1-pasal-51a-ayat-3-pasal",
+      "text": "51A ayat (4), Pasal 51A ayat (5), Pasal 60A ayat (1), Pasal 60A ayat (3), Pasal \n60A ayat (4), Pasal 60A ayat (5), Pasal 75A ayat (1), Pasal 75A ayat (3), Pasal \n75A ayat (4), dan Pasal 75A ayat (5) Undang-Undang Nomor 2 Tahu n 2025 \ntentang Perubahan Keempat atas Undang-Undang Nomor 4 Tahun 2009  \ntentang Pertambangan Mineral dan Batubara (Lembaran Negara Repu blik \nIndonesia Tahun 2025 Nomor 29, Tambahan Lembaran Negara Republi k \nIndonesia Nomor 7100), bertentangan dengan Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945 dan  tidak mempunyai kekuatan huk um \nmengikat  sepanjang dimaknai memberikan kewenangan kepada Pemer intah \nuntuk memberikan Wilayah Izin Usaha Pertambangan (WIUP) dan/ata u \nWilayah Izin Usaha Pertambangan Khusus (WIUPK) secara prioritas  kepada \n\n38 \n \n \nBadan Usaha Milik Negara (BUMN), Badan Usaha Milik Daerah (BUMD ), \nmaupun Badan Usaha Swasta untuk dan atas nama perguruan tinggi dengan \ntujuan komersial;",
+      "start_line": 1444,
+      "end_line": 1461
+    },
+    {
+      "heading": "3. Memakanai bahwa frasa “kepentingan perguruan tinggi” sebagaiman a",
+      "slug": "3-memakanai-bahwa-frasa-kepentingan-perguruan-tinggi-sebagaiman-a",
+      "text": "dimaksud dalam pasal-pasal a quo  harus dimaknai terbatas pada kegiatan \nnon-komersial, yakni pendidikan, penelitian, dan pengabdian kep ada \nmasyarakat yang bersifat akademik dan bebas dari konflik kepent ingan \nekonomi;",
+      "start_line": 1463,
+      "end_line": 1466
+    },
+    {
+      "heading": "4. Memerintahkan pemuatan putusan ini dalam Berita Negara Republik Indonesia",
+      "slug": "4-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-republik-indonesia",
+      "text": "sebagaimana mestinya",
+      "start_line": 1468,
+      "end_line": 1468
+    },
+    {
+      "heading": "5. Atau, apabila Majelis Hakim Mahkamah Konstitusi Republik Indon esia",
+      "slug": "5-atau-apabila-majelis-hakim-mahkamah-konstitusi-republik-indon-esia",
+      "text": "berpendapat lain mohon putusan yang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalilnya, para Pemohon \nmengajukan bukti surat/tulisan yang diberi tanda Bukti P-1 samp ai dengan Bukti       \nP-4, sebagai berikut. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 1470,
+      "end_line": 1476
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang",
+      "start_line": 1478,
+      "end_line": 1481
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 2 Tahun 2025 tenta ng",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-2-tahun-2025-tenta-ng",
+      "text": "Perubahan Keempat atas Undang-Undang Nomor 4 Tahun \n2009 tentang Pertambangan Mineral dan Batubara;",
+      "start_line": 1483,
+      "end_line": 1484
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik In donesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-in-donesia",
+      "text": "Tahun 1945;",
+      "start_line": 1486,
+      "end_line": 1486
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Mahasiswa atas nama para P emohon.",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-mahasiswa-atas-nama-para-p-emohon",
+      "text": "39 \n \n \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a \nUndang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembar an Negara \nRepublik Indonesia Nomor 5076), Mahkamah berwenang, antara lain , mengadili \npada tingkat pertama dan terakhir yang putusannya bersifat fina l untuk menguji \nundang-undang terhadap UUD NRI Tahun 1945; \n[3.2] Menimbang bahwa oleh karena permohonan para Pemohon adalah \npermohonan untuk menguji konstitusionalitas norma undang-undang , in casu              \nPasal 51A ayat (1), ayat (3), ayat (4), dan ayat (5); Pasal 60A ayat (1), ayat (3), ayat \n(4), dan ayat (5); Pasal 75A ayat (1), ayat (3), ayat (4), dan ayat (5) Undang-Undang \nNomor 2 Tahun 2025 tentang Perubahan Keempat atas Undang-Undang  Nomor 4 \nTahun 2009 tentang Pertambangan Mineral dan Batubara (Lembaran Negara \nRepublik Indonesia Tahun 2025 Nomor 29, Tambahan Lembaran Negara Republik \nIndonesia Nomor 7100, selanjutnya disebut UU 2/2025)  terhadap Pasal 28C ayat \n( 1 ) ,  P a s a l  2 8 D  a y a t  ( 1 ) ,  P a s a l  3 1  a y a t  ( 3 )  U U D  N R I  1 9 4 5 ,  m a k a  Mahkamah \nberwenang mengadili permohonan a quo; \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo , namun sebelum mempertimbangkan kedudukan hukum dan \npokok permohonan, Mahkamah terlebih dahulu akan mempertimbangka n hal ihwal \npermohonan para Pemohon sebagai berikut. \n[3.3.1] Bahwa sesuai dengan hukum acara pengujian undang-undang, \nMahkamah telah memeriksa permohonan a quo  dalam Sidang Pemeriksaan \nPendahuluan dengan agenda mendengarkan pokok-pokok permohonan p ara \nPemohon pada hari Senin, tanggal 27 Oktober 2025. Dalam persida ngan tersebut, \nsesuai dengan ketentuan Pasal 39 UU MK dan Pasal 36 ayat (3) Pe raturan \nMahkamah Konstitusi Nomor 7 Tahun 2025 tentang Tata Beracara Da lam Perkara \nPengujian Undang-Undang (selanjutnya disebut PMK 7/2025) , Mahkamah telah \n\n40 \n \n \nmemberikan saran dan nasihat kepada para Pemohon agar memperbaiki sekaligus \nmemperjelas hal-hal yang berkaitan dengan permohonan para Pemoh on, yakni \nberkenaan dengan kewenangan Mahkamah, kedudukan hukum ( legal standing ), \nalasan permohonan (posita), dan hal-hal yang dimohonkan (petitu m) sehingga \npermohonan a quo  sesuai dengan sistematika permohonan sebagaimana diatur \ndalam PMK 7/2025 [vide Risalah sidang, tanggal 27 Oktober 2025,  hlm. 14-26]. \nSelanjutnya, pada hari Jumat, tanggal 7 November 2025, para Pem ohon telah \nmenyampaikan perbaikan permohonan kepada Mahkamah dan telah dip eriksa \ndalam Sidang Pemeriksaan Pendahuluan dengan agenda penyampaian pokok-\npokok perbaikan dan menerima perbaikan permohonan serta pengesa han bukti \nyang disampaikan para Pemohon pada hari Senin, tanggal 10 November 2025; \n[3.3.2] Bahwa setelah Mahkamah memeriksa secara saksama permohonan par a \nPemohon, in casu  sistematika permohonan a quo , pada dasarnya secara formal \ntelah disusun sesuai dengan sistematika permohonan sebagaimana ketentuan \ndalam Pasal 31 ayat (1) UU MK da n Pasal 10 ayat (3) PMK 7/2025,  y ai t u  t el a h \nmenguraikan perihal kewenangan Mahkamah (Permohonan hlm. 2-6), kedudukan \nhukum para Pemohon (Permohonan hlm. 7-21), dan alasan permohona n \n(Permohonan hlm. 21-41). Bahkan, sebelum menguraikan ihwal ketiga hal tersebut, \npara Pemohon pun telah menguraikan perihal identitas para Pemoh on \n(Permohonan hlm. 1). Selain itu, sebagai bagian dari sistematik a yang harus \ndipenuhi sesuai dengan PMK 7/2025, permohonan para Pemohon pun telah \nmemuat hal-hal yang dimohonkan kepada Mahkamah untuk diputus da lam petitum \n(Permohonan hlm. 41-42). Namun demikian, sekalipun telah disusu n dan memuat \nsistematika permohonan secara benar, penilaian perihal keterpenuhan syarat formal \nsuatu permohonan tidak hanya mengenai persoalan sistematika an sich. Dalam hal \nini, Mahkamah juga akan menilai keterpenuhan isi/substansi dari  m a s i n g - m a s i n g  \nsistematika dimaksud. \n[3.3.3] Bahwa berkenaan dengan hal-hal sebagaimana dikemukakan dalam \nSub-paragraf [3.3.2] di atas, Mahkamah akan menilai keterpenuhan substansi \nsyarat formal permohonan para Pemohon terutama berkenaan dengan uraian yang \ndikemukakan dalam alasan-alasan permohonan. Dalam hal ini, Pasa l 51 ayat (3) \nhuruf b UU MK menyatakan,  \n\n41 \n \n \n“Dalam permohonan sebagaimana dimaksud pada ayat (2), pemohon w ajib \nmenguraikan dengan jelas bahwa:  \na. ... \nb. materi muatan dalam ayat, pasal, dan/atau bagian undang-undang dianggap \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945”.  \n Selain itu, permohonan Pemohon harus pula memenuhi syarat form il \ndalam Pasal 10 ayat (3) PMK 7/2025 yang menyatakan sebagai berikut:  \n“Permohonan sebagaimana dimaksud pada ayat (1) sekurang-kurangn ya \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antara lain: \na. Kewenangan Mahkamah; \nb. Kedudukan hukum Pemohon;",
+      "start_line": 1489,
+      "end_line": 1575
+    },
+    {
+      "heading": "d. Hal-hal yang diminta untuk diputus (petitum).”",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Setelah Mahkamah memeriksa secara saksama permohonan para \nPemohon, menurut Mahkamah, dalam menguraikan mengenai alasan-al asan \npermohonan (Posita), telah ternyata para Pemohon tidak menguraikan secara jelas \npertentangan antara norma yang diuji konstitusionalitasnya deng an pasal dalam \nUUD NRI Tahun 1945 yang dijadikan sebagai dasar pengujian. Dala m hal ini,  \nMahkamah tidak mendapatkan uraian dan argumentasi hukum yang je las dan \nmemadai (komprehensif) ihwal pertentangan antara norma, in casu Pasal 51A ayat \n(1), ayat (3), ayat (4), dan ayat (5); Pasal 60A ayat (1), ayat  (3), ayat (4), dan ayat \n(5); Pasal 75A ayat (1), ayat (3), ayat (4), dan ayat (5)  UU 2/2025 terhadap Pasal \n28C ayat (1), Pasal 28D ayat (1), dan Pasal 31 ayat (3) UUD NRI  Tahun 1945. \nPadahal, uraian mengenai alasan pertentangan norma undang-undan g yang \ndimohonkan pengujian dengan dasar pengujian yang terdapat dalam  UUD NRI \nTahun 1945 dimaksud merupakan syarat mutlak dan fundamental yan g menjadi \ndasar dalam penilaian pengujian undang-undang di Mahkamah sebagaimana diatur \ndalam UU MK dan PMK 7/2025. Adapun dalam permohonan para Pemohon, uraian \npertentangan dengan dasar pengujian lebih dikaitkan dengan angg apan kerugian \nhak konstitusional para Pemohon yang lebih tepat berada pada ba gian Kedudukan \nHukum para Pemohon [vide angka 7 dan angka 12 Permohonan, hlm. 28 dan 30]. \nDengan tidak adanya penguraian ihwal pertentangan (kontestasi) antara norma \nyang dimohonkan pengujian dengan dasar pengujian pada bagian po kok \npermohonan, Mahkamah tidak dapat mengetahui ada atau tidaknya p ertentangan \nnorma yang dimohonkan pengujian dengan UUD NRI Tahun 1945.  \n\n42 \n \n \n[3.3.4] Bahwa selain hal tersebut di atas, setelah Mahkamah mencermati  \npetitum permohonan para Pemohon angka 2 (dua) yang menyatakan s ebagai \nberikut:",
+      "start_line": 1578,
+      "end_line": 1606
+    },
+    {
+      "heading": "2. Menyatakan bahwa ketentuan Pasal 51A ayat (1), Pasal 51A ayat (3), Pasal",
+      "slug": "2-menyatakan-bahwa-ketentuan-pasal-51a-ayat-1-pasal-51a-ayat-3-pasal",
+      "text": "51A ayat (4), Pasal 51A ayat (5), Pasal 60A ayat (1), Pasal 60A  ayat (3), \nPasal 60A ayat (4), Pasal 60A ayat (5), Pasal 75A ayat (1), Pas al 75A ayat \n(3), Pasal 75A ayat (4), dan Pasal 75A ayat (5) Undang-Undang N omor 2 \nTahun 2025 tentang Perubahan Keempat atas Undang-Undang Nomor 4  \nTahun 2009 tentang Pertambangan Mineral dan Batubara (Lembaran \nNegara Republik Indonesia Tahun 2025 Nomor 29, Tambahan Lembara n \nNegara Republik Indonesia Nomor 7100), bertentangan dengan Unda ng-\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan tidak mempunyai \nkekuatan hukum mengikat sepanjang dimaknai memberikan kewenanga n \nkepada Pemerintah untuk memberikan Wilayah Izin Usaha Pertamban gan \n(WIUP) dan/atau Wilayah Izin Usaha Pertambangan Khusus (WIUPK) \nsecara prioritas kepada Badan Usaha Milik Negara (BUMN), Badan Usaha \nMilik Daerah (BUMD), maupun Badan Usaha Swasta untuk dan atas n ama \nperguruan tinggi dengan tujuan komersial; \nTerhadap petitum angka 2 (dua) di atas, rumusan petitum yang demikian \ndapat dinilai sebagai rumusan petitum yang tidak lazim karena p ara Pemohon di \nsatu sisi, meminta Mahkamah agar norma Pasal-Pasal a quo  yang dimohonkan \npengujian dinyatakan bertentangan dengan UUD NRI Tahun 1945 sehingga menjadi \ninkonstitusional bersyarat, akan tetapi di sisi lain para Pemoh on kemudian justru \nmenggunakan rumusan frasa “sepanjang dimaknai” dalam petitum ya ng \nmenyebabkan pemaknaan yang dimohonkan oleh para Pemohon menjadi  \nbertentangan dengan UUD NRI Tahun 1945, yang seharusnya jika ingin dinyatakan \nbertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai kekuatan hukum \nmengikat secara bersyarat dengan menggunakan frasa “sepanjang tidak dimaknai”. \nDengan demikian, petitum a quo menjadi tidak jelas, apakah petitum permohonan \npara Pemohon meminta Mahkamah memutus suatu norma undang-undang  yang \npada dasarnya tidak bertentangan dengan UUD NRI Tahun 1945 namun ditafsirkan \ndengan syarat tertentu (konstitusional bersyarat) atau suatu norma undang-undang \nbertentangan dengan UUD NRI Tahun 1945 kecuali jika norma terse but ditafsirkan \natau diterapkan menurut syarat tertentu yang diminta para Pemohon agar ditetapkan \noleh Mahkamah (inkonstitusional bersyarat). Dalam batas penalar an yang wajar, \nMahkamah memahami pemaknaan sebagaimana yang dimohonkan oleh pa ra \nPemohon adalah bersifat ambigu karena rumusan petitum permohona n para \n\n43 \n \n \nPemohon yang demikian tidak dapat dibedakan secara tepat, ihwal  posisi norma \nyang hendak dikonstruksi oleh para Pemohon. \n[3.3.5] Bahwa selanjutnya perihal petitum permohonan para Pemohon angka  3 \n(tiga), setelah Mahkamah mencermati petitum sebagaimana dimaksu d, yang \nmenyatakan sebagai berikut:",
+      "start_line": 1608,
+      "end_line": 1649
+    },
+    {
+      "heading": "3. Memakanai [ sic!] bahwa frasa “kepentingan perguruan tinggi”",
+      "slug": "3-memakanai-sic-bahwa-frasa-kepentingan-perguruan-tinggi",
+      "text": "sebagaimana dimaksud dalam pasal-pasal a quo  h a r u s  d i m a k n a i  \nterbatas pada kegiatan non-komersial, yakni pendidikan, penelit ian, \ndan pengabdian kepada masyarakat yang bersifat akademik dan \nbebas dari konflik kepentingan ekonomi; \nTerhadap petitum angka 3 (tiga) di atas, pemaknaan yang dimohon kan \noleh para Pemohon tidak mencantumkan pertentangan dengan UUD NR I Tahun \n1945, seharusnya dalam petitum permohonan para Pemohon memuat hal-hal yang \ndimohonkan diputus dengan menyatakan bahwa materi muatan ayat, pasal, \ndan/atau bagian undang-undang yang dimohonkan pengujian bertentangan dengan \nUUD NRI Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat [vide Pasal \n51A ayat (5) huruf b dan huruf c UU MK]. Dengan demikian, telah  jelas bagi \nMahkamah untuk menilai rumusan petitum para Pemohon adalah tida k jelas atau \nkabur (obscuur). \nBerdasarkan uraian pertimbangan hukum pada Sub-paragraf [3.3.3] \nsampai dengan Sub-paragraf [3.3.5] tersebut di atas, dalam bagian alasan-alasan \nPermohonan (posita), para Pemohon tidak dapat menguraikan secar a jelas \nmengenai pertentangan norma yang diuji dengan dasar pengujian. Lebih lanjut, \nterhadap rumusan petitum para Pemohon selain kontradiktif juga tidak lazim dalam \npermohonan pengujian undang-undang. Dengan fakta hukum tersebut , tidak \nterdapat keraguan bagi Mahkamah untuk menyatakan permohonan para Pemohon \nadalah tidak jelas atau kabur (obscuur). \n[3.4] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum di \natas, meskipun Mahkamah berwenang mengadili permohonan para Pem ohon, \nnamun oleh karena permohonan para Pemohon tidak jelas atau kabu r (obscuur), \nMahkamah tidak mempertimbangkan kedudukan hukum dan pokok permo honan \npara Pemohon lebih lanjut. \n\n44 \n \n \n[3.5] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1651,
+      "end_line": 1682
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraik an",
+      "start_line": 1684,
+      "end_line": 1684
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1]   Mahkamah berwenang mengadili permohonan a quo; \n[4.2]  Permohonan para Pemohon tidak jelas atau kabur ( obscuur); \n[4.3] Kedudukan hukum dan pokok permohonan para Pemohon tidak \ndipertimbangkan lebih lanjut. \n Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahu n \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076).",
+      "start_line": 1686,
+      "end_line": 1698
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan Permohonan para Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh delapan  \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Arief \nHidayat, Enny Nurbaningsih, Daniel Yusmic P. Foekh, M. Guntur H amzah, Ridwan \nMansyur, dan Arsul Sani, masing-masing sebagai Anggota, pada ha ri Selasa, \ntanggal sebelas, bulan November, tahun dua ribu dua puluh lima, yang diucapkan \ndalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari Kamis, \ntanggal dua puluh tujuh, bulan November, tahun dua ribu dua puluh lima, selesai \n\n45 \n \n \ndiucapkan pukul 11.02 WIB, oleh sembilan Hakim Konstitusi yaitu Suhartoyo selaku \nKetua merangkap Anggota, Saldi Isra, Arief Hidayat, Enny Nurban ingsih, Anwar \nUsman, Daniel Yusmic P. Foekh, M. Guntur Hamzah, Ridwan Mansyur , dan Arsul \nSani, masing-masing sebagai Anggota, dengan dibantu oleh Fenny Tri Purnamasari \nsebagai Panitera Pengganti, serta dihadiri para Pemohon, Dewan Perwakilan \nRakyat atau yang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nArief Hidayat \nttd. \nEnny Nurbaningsih \nttd. \nAnwar Usman \nttd. \nDaniel Yusmic P. Foekh \nttd. \nM. Guntur Hamzah \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nFenny Tri Purnamasari",
+      "start_line": 1700,
+      "end_line": 1743
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Fathur Jihadulloh",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Dzakwan Fadhil Putra Kusuma",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Muhammad Jundi Fathi Rizky",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Azmi Aryanti",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Rikza Anung Andita Putra",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 2/2025 tentang Perubahan Keempat atas UU 4/2009 tentang Pertambangan Mineral dan Batubara"
+    ],
+    "constitutional_articles": [
+      "Pasal 2 ayat (1)",
+      "Pasal 28C ayat (1)",
+      "Pasal 31 ayat (3)",
+      "Pasal 28D ayat (1)",
+      "Pasal 33 ayat (3)",
+      "Pasal 31",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 24",
+      "Pasal 24C ayat (1)",
+      "Pasal 28",
+      "Pasal 31 Ayat (3)"
+    ],
+    "procedural_articles": [
+      "Pasal 4 ayat (2) hur",
+      "Pasal 4 ayat (2)"
+    ],
+    "evidence": [
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "REFERENSI:190/PUU-XXIII/2025",
+      "REFERENSI:193/PUU/PAN.MK/AP3/10/2025",
+      "REFERENSI:160/PUU-XXIII/2025",
+      "REFERENSI:184/PUU-XXIII/2025",
+      "REFERENSI:190/PUU-XXIII/2025secaratekstualserupadenganyangtelahdiajukandalamperkaraNomor160/PUU-XXIII/2025danNomor184/PUU-XXIII/2025",
+      "REFERENSI:2018/03/19/1710",
+      "REFERENSI:0/PUU-XXIII/2025dan184/PUU-XXIII/2025"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan Permohonan para Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Arief Hidayat",
+      "Enny Nurbaningsih",
+      "Anwar Usman",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Fenny Tri Purnamasari"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "190/PUU-XXIII/2025",
+      "193/PUU/PAN.MK/AP3/10/2025",
+      "160/PUU-XXIII/2025",
+      "184/PUU-XXIII/2025",
+      "190/PUU-XXIII/2025secaratekstualserupadenganyangtelahdiajukandalamperkaraNomor160/PUU-XXIII/2025danNomor184/PUU-XXIII/2025",
+      "2018/03/19/1710",
+      "0/PUU-XXIII/2025dan184/PUU-XXIII/2025"
+    ],
+    "referenced_cases": [
+      "190/PUU-XXIII/2025",
+      "193/PUU/PAN.MK/AP3/10/2025",
+      "160/PUU-XXIII/2025",
+      "184/PUU-XXIII/2025",
+      "190/PUU-XXIII/2025secaratekstualserupadenganyangtelahdiajukandalamperkaraNomor160/PUU-XXIII/2025danNomor184/PUU-XXIII/2025",
+      "2018/03/19/1710",
+      "0/PUU-XXIII/2025dan184/PUU-XXIII/2025"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

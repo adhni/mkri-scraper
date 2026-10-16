@@ -1,0 +1,960 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_11356_1735815751.pdf",
+    "file_name": "putusan_mkri_11356_1735815751.pdf",
+    "page_count": 40,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_11356_1735815751.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "164/PUU-XXII/2024",
+    "related_case_numbers": [
+      "02/ADV-TAFMI/X/2024"
+    ],
+    "title": "PUTUSAN",
+    "decision_date": "2025-01-02",
+    "decision_date_raw": "dua, bulan Januari, tahun dua ribu dua puluh lima",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 164/PUU-XXII/2024",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam perkara pengujian Undang-Undang Nomor 17 Tahun \n2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan \nPerwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah  terhadap Undang- \nUndang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 7,
+      "end_line": 11
+    },
+    {
+      "heading": "1. Nama : Indri Hafsari",
+      "slug": "1-nama-indri-hafsari",
+      "text": "Pekerjaan : Swasta/caleg DPRD Kota Bandung 2024 \n Alamat : Jalan Rajawali II No. 31 RT 004/002  Garuda-Andir, Kota \nBandung \nSelanjutnya disebut sebagai ------------------------------------------------ Pemohon I;",
+      "start_line": 13,
+      "end_line": 16
+    },
+    {
+      "heading": "2. Nama : Amul Hikmah",
+      "slug": "2-nama-amul-hikmah",
+      "text": "Pekerjaan : Swasta/kader partai politik \n Alamat : Perum Tomalia B/114 RT 000/RW 000 Keluarga \nAdatongeng Turikale Kabupaten Maros Provinsi Sulawesi \nSelatan \nSelanjutnya disebut sebagai ----------------------------------------------- Pemohon II; \nBerdasarkan Surat Kuasa Khusus Nomor  02/ADV-TAFMI/X/2024 bertanggal 6 \nNovember 2024 memberi kuasa kepada advokat dan konsultan hukum yang \ntergabung dalam “Tim Hukum dan Advokasi Forum Politisi Muda Indonesia ”, yakni \nH.M.I. El Hakim, S.H.,  M.H., Afriyandi Chair Samall o, S.H., Rudy Satria Mandala \nBonuot, S.H., dan Zaenal Sahar, S.H. , yang beralamat di Jalan Merkuri Tengah \nNomor 29, Bandung, Jawa Barat, baik secara sendiri -sendiri maupun bersama -\nsama mewakili/mendampingi/bertindak untuk dan atas nama Pemberi Kuasa; \nSelanjutnya disebut sebagai -------------------------------------------------- para Pemohon; \n\n\n 2 \n[1.2] Membaca permohonan para Pemohon; \n Mendengar keterangan para Pemohon; \n Memeriksa bukti-bukti para Pemohon;",
+      "start_line": 18,
+      "end_line": 36
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon  telah mengajukan permohonan \nbertanggal 6 November  2024 yang diterima Kepaniteraan Mahkamah Konstitusi \n(selanjutnya disebut Kepaniteraan Mahkamah)  pada tanggal 6 November  2024 \nberdasarkan Akta Pengajuan Permohonan Pemohon Nomor 1 58/PUU/PAN.MK/ \nAP3/11/2024 dan telah dicatat dalam Buku Registrasi Perkara Konstitusi Elektronik \n(e-BRPK) pada tanggal 18 November 2024 dengan Nomor 1 64/PUU-XXII/2024, \nyang telah diperbaiki dan diterima Mahkamah pada tanggal 16 Desember 2024, \npada pokoknya menguraikan hal-hal sebagai berikut: \nI.  KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 38,
+      "end_line": 46
+    },
+    {
+      "heading": "1. Bahwa berdasarkan ketentuan yang dalam Pasal 24 ayat (2) UUD NRI",
+      "slug": "1-bahwa-berdasarkan-ketentuan-yang-dalam-pasal-24-ayat-2-uud-nri",
+      "text": "Tahun 1945 yang menyatakan: \n\"Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang di bawahnya dan oleh sebuah Mahkamah \nKonstitusi.\"",
+      "start_line": 48,
+      "end_line": 51
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan Pasal 24C ayat (1) UUD NRI Tahun 1945",
+      "slug": "2-bahwa-berdasarkan-ketentuan-pasal-24c-ayat-1-uud-nri-tahun-1945",
+      "text": "yang menegaskan:  \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang -undang \nterhadap Und ang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang -Undang \nDasar, memutus pembubaran partai politik, dan memutus perselisihan \ntentang hasil pemilihan umum\"",
+      "start_line": 53,
+      "end_line": 59
+    },
+    {
+      "heading": "3. Bahwa berdasarkan Ketentuan Pasal 10 ayat (1) huruf a Undang-Undang",
+      "slug": "3-bahwa-berdasarkan-ketentuan-pasal-10-ayat-1-huruf-a-undang-undang",
+      "text": "Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara \nRepublik Indonesia Tahun 2003 Nomor 98, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 4316) sebagaimana terakhir diubah dengan \nUndang-Undang Nomor 7 Tahun 2020 tenta ng Perubahan Ketiga atas \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \n(Lembaran Negara Republik Indonesia Tahun 2020 Nomor 216, Tambahan \nLembaran Negara Republik Indonesia Nomor 6554) (untuk selanjutnya \ndisebut UU MK), yang berbunyi: \n\n 3 \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk:  \na. menguji undang -undang terhadap Undang -Undang Dasar Negara \nRepublik Indonesia Tahun 1945\" ;",
+      "start_line": 61,
+      "end_line": 74
+    },
+    {
+      "heading": "4. Bahwa berdasarkan ketentuan Pasal 29 ayat (1 ) huruf a Undang-Undang",
+      "slug": "4-bahwa-berdasarkan-ketentuan-pasal-29-ayat-1-huruf-a-undang-undang",
+      "text": "Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5076) (untuk selanjutnya disebut UU Kekuasaan \nKehakiman) menyatakan: \n\"Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: a. menguji undang undang \nterhadap Undang -Undang Dasar Negara Republik Indonesia Tahun \n1945\";",
+      "start_line": 76,
+      "end_line": 83
+    },
+    {
+      "heading": "5. Bahwa berdasarkan ketentuan Pasal 9 ayat (1) Undang-Undang Nomor 13",
+      "slug": "5-bahwa-berdasarkan-ketentuan-pasal-9-ayat-1-undang-undang-nomor-13",
+      "text": "Tahun 2022 tentang Perubahan Kedua atas Undang -Undang Nomor 12 \nTahun 2011 tentang Pembentukan Peraturan Perundang -undangan \n(Lembaran Negara Republik Indonesia Tahun 2022 Nomor 143, Tambahan \nLembaran Negara Republik Indonesia Nomor 6801) (unt uk selanjutnya \ndisebut UU PPP), menyatakan: \n\"Dalam hal suatu Undang-Undang diduga bertentangan dengan Undang- \nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya \ndilakukan oleh Mahkamah Konstitusi\";",
+      "start_line": 85,
+      "end_line": 92
+    },
+    {
+      "heading": "6. Bahwa berdasarkan Pasal 9 Undang-Undang Nomor 12 Tahun 2011 tentang",
+      "slug": "6-bahwa-berdasarkan-pasal-9-undang-undang-nomor-12-tahun-2011-tentang",
+      "text": "Pembentukan Peraturan Perundang -undangan sebagaimana telah diubah \ndengan Undang-Undang Nomor 13 Tahun 2022 tentang Perubahan Kedua \natas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan \nPerundang-undangan, menyatakan: \n\"Dalam hal suatu Undang-Undang diduga bertentangan dengan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya \ndilakukan oleh Mahkamah Konstitusi\";",
+      "start_line": 94,
+      "end_line": 100
+    },
+    {
+      "heading": "7. Bahwa dalam Pasal 1 angka (3) Peraturan Mahkamah Konstitusi Nomor 2",
+      "slug": "7-bahwa-dalam-pasal-1-angka-3-peraturan-mahkamah-konstitusi-nomor-2",
+      "text": "Tahun 2021 tentang Tata Beracara dalam Perkara Pengujian Undang-undang \n(selanjutnya disebut PMK 2/2021), yang menyatakan: \n\"Pengujian Undang -Undang terhadap UUD 1945 yang selanjutnya \ndisebut PUU adalah Perkara konstitusi yang menjadi kewenangan \nMahkamah Konstitusi sebagaimana dimaksud dalam UUD 1945 dan \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undang -Undang Nomor 7 \nTahun 2020 tentang Mahkamah Konstitusi (UU MK), termasuk pengujian \n\n 4 \nPeraturan Pemerintah Pengganti Undang -Undang (Perppu) \nsebagaimana dimaksud dalam Putusan Mahkamah Konstitusi\";",
+      "start_line": 102,
+      "end_line": 113
+    },
+    {
+      "heading": "8. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor",
+      "slug": "8-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konstitusi-nomor",
+      "text": "2 Tahun 2021 tentang Tata Beracara Dalam Perkara Pengujian Undang -\nUndang, menyatakan: \n(1) Objek Permohonan PUU adalah undang-undang dan Perppu.   \na. Bahwa objek pengujian a quo yang dimohonkan oleh para \npemohon merupakan undang -undang yang masih masuk dalam \nruang lingkup kewenangan Mahkamah Konstitusi sebagaimana \ndiatur dalam yang masuk dalam Pasal 24C ayat (1) UUD 1945, \nPasal 29 ayat (1) UU Kekuasaan Kehakiman, Pasal 10 ayat (1) \nhuruf a dan Pasal 51A aya t (3) UU Mahkamah Konstitusi serta \nPasal 9 ayat (1) UU PPP;",
+      "start_line": 115,
+      "end_line": 124
+    },
+    {
+      "heading": "9. Bahwa oleh karena Para Pemohon memohon untuk melakukan pengujian",
+      "slug": "9-bahwa-oleh-karena-para-pemohon-memohon-untuk-melakukan-pengujian",
+      "text": "konstitusionalitas dari Pasal 76 ayat (4), Pasal 252 ayat (5), Pasal 318 ayat \n(4) dan Pasal 367 ayat (4) Undang-Undang Nomor 17 Tahun 2014 tentang \nMajelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan \nPerwakilan Daerah dan Dewan Perwakilan Rakyat Daerah (Selanjutnya \ndisebut UU MD3) terhadap Undang -Undang Dasar Negara Republik \nIndonesia 1945 yang secara lengkap berbunyi: \nPasal 76 ayat (4) UU MD3 \n\"Masa jabatan anggota DPR adalah 5 (lima) tahun dan berakhir pada saat \nanggota DPR yang baru mengucapkan sumpah/janji\"; \nPasal 252 ayat (5) UU MD3 \n\"Masa jabatan anggota DPD adalah 5 (lima) tahun dan berakhir pada saat \nanggota DPD yang baru mengucapkan sumpah/janji\"; \nPasal 318 ayat (4) UU MD3 \n\"Masa jabatan anggota DPRD provinsi adalah 5 (lima) tahun dan berakhir \npada saat anggota DPRD provinsi yang baru mengucapkan sumpah/janji\"; \nPasal 367 ayat (4) UU MD3 \n\"Masa jabatan anggota DPRD kabupaten/kota adalah 5 (lima) tahun dan \nberakhir pada saat anggota DPRD kabupaten/kota yang  baru \nmengucapkan sumpah/janji\"; \nPengujian ketentuan Pasal-Pasal a quo dilakukan terhadap Pasal 28C ayat (2), \nPasal 28D ayat (1), Pasal 28D ayat (3) dan Pasal 28H ayat (2) UUD NRI Tahun \n1945 yang selengkapnya berbunyi sebagai berikut: \n \n \n\n 5 \nPasal 28C ayat (2) UUD NRI Tahun 1945 \n“Setiap orang berhak untuk memajukan dirinya dalam m emperjuangkan \nhaknya secara kolektif untuk membangun masyarakat, bangsa, dan \nnegaranya”; \nPasal 28D ayat (1) UUD NRI Tahun 1945 \n\"Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perla kuan yang sama dihadapan \nhukum\"; \nPasal 28D ayat (3) UUD NRI Tahun 1945 \n\"Setiap warga negara berhak memperoleh kesempatan yang sama dalam \npemerintahan\"; \nPasal 28H ayat (2) UUD NRI Tahun 1945 \n\"Setiap orang mendapat kemudahan dan perlakuan khusus untuk \nmemperoleh kesempatan dan manfaat yang sama guna m encapai \npersamaan dan keadilan\"; \nBahwa dengan demikian Mahkamah Konstitusi sebagai the guardian of the \nconstitution berwenang untuk menerima, memeriksa, mengadili dan memutus \npermohonan ini. \n \nII.  KEDUDUKAN HUKUM (LEGAL STANDING) PEMOHON DAN KEPENTINGAN",
+      "start_line": 126,
+      "end_line": 171
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU MK mengatur:",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mk-mengatur",
+      "text": "“Pemohon adalah pihak yang menganggap hak dan / atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na. Perorangan warga negara Indonesia;",
+      "start_line": 174,
+      "end_line": 176
+    },
+    {
+      "heading": "2. Selanjutnya Penjelasan Pasal 51 ayat (1) UU MK menyatakan:",
+      "slug": "2-selanjutnya-penjelasan-pasal-51-ayat-1-uu-mk-menyatakan",
+      "text": "“Yang dimaksud dengan hak konstitusional adalah hak -hak yang diatur \ndalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945”",
+      "start_line": 178,
+      "end_line": 179
+    },
+    {
+      "heading": "3. Bahwa kemudian, sejak Putusan Nomor 006/PUU -III/2005, Mahkamah",
+      "slug": "3-bahwa-kemudian-sejak-putusan-nomor-006-puu-iii-2005-mahkamah",
+      "text": "Konstitusi telah menentukan 5 (lima) syarat adanya kerugian konstitusional \nsebagaimana dimaksud dalam Pasal 51 ayat (1) Undang-undang Nomor 24 \nTahun 2003 sebagaimana diubah dengan Undang -Undang Nomor 8 Tahun \n2011 sebagai berikut:    \na.   Harus ada hak konstitusional pemohon yang diberikan oleh UUD 1945; \nb.  Hak konstitusional tersebut dianggap dirugikan oleh berlakunya suatu \nundang-undang;",
+      "start_line": 181,
+      "end_line": 187
+    },
+    {
+      "heading": "c. Kerugian hak konstitusional tersebut bersifat spesifik dan aktual, atau",
+      "slug": "c-kerugian-hak-konstitusional-tersebut-bersifat-spesifik-dan-aktual-atau",
+      "text": "setidak-tidaknya bersifat potensial yang menurut penalara n yang \nwajar dapat dipastikan akan terjadi;",
+      "start_line": 189,
+      "end_line": 190
+    },
+    {
+      "heading": "d. Ada hubungan sebab akibat (causal verband) antara kerugian hak",
+      "slug": "d-ada-hubungan-sebab-akibat-causal-verband-antara-kerugian-hak",
+      "text": "konstitusional dengan undang-undang yang dimohonkan pengujian; \n\n 6 \ne.  Ada kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian hak konstitusional yang didalilkan tidak akan atau tidak lagi \nterjadi;",
+      "start_line": 192,
+      "end_line": 197
+    },
+    {
+      "heading": "4. Bahwa para Pemohon mendasarkan pengujian terhadap Pasal dalam UUD",
+      "slug": "4-bahwa-para-pemohon-mendasarkan-pengujian-terhadap-pasal-dalam-uud",
+      "text": "NRI Tahun 1945 yang masing-masing berbunyi sebagai berikut: \nPasal 28D ayat (1) \n“Setiap warga negara berhak memperoleh kesempatan yang sama dalam \npemerintahan atas pengakuan, jaminan, perlindungan, dan kepastian \nhukum yang adil serta perlakuan yang sama di hadapan hukum.” \nPasal 28H ayat (2) \n“Setiap orang mendapat kemudahan dan perlakuan khusus untuk \nmemperoleh kesempatan dan manfaat  yang sama guna mencapai \npersamaan dan keadilan.” \nPasal 28J ayat (1) \n“Setiap orang wajib menghormati hak asasi manusia orang lain dalam \ntertib kehidupan bermasyarakat, berbangsa, dan bernegara.” \nPasal 28J ayat (2) \n“Dalam menjalankan hak dan kebebasannya, s etiap orang wajib tunduk \nkepada pembatasan yang ditetapkan dengan unda ng undang dengan \nmaksud semata- mata untuk menjamin pengakuan serta penghormatan \natas hak kebebasan orang lain dan untuk memenuhi tuntutan yang adil \nsesuai dengan pertimbangan moral, nila i nilai agama, keamanan, dan \nketertiban umum dalam suatu masyarakat demokratis.”",
+      "start_line": 199,
+      "end_line": 217
+    },
+    {
+      "heading": "5. Bahwa berdasarkan ketentuan Pasal 51 ayat (1) UU MK terdapat dua syarat",
+      "slug": "5-bahwa-berdasarkan-ketentuan-pasal-51-ayat-1-uu-mk-terdapat-dua-syarat",
+      "text": "yang harus terpenuhi untuk pengujian yakni:",
+      "start_line": 219,
+      "end_line": 219
+    },
+    {
+      "heading": "ii. Adanya kerugian hak konstitusional dan/atau anggapan kerugian hak",
+      "slug": "ii-adanya-kerugian-hak-konstitusional-dan-atau-anggapan-kerugian-hak",
+      "text": "konstitusional dari Para Pemohon dengan  berlakunya suatu Undang -\nUndang;",
+      "start_line": 222,
+      "end_line": 223
+    },
+    {
+      "heading": "6. Bahwa oleh karena itu para Pemohon akan menguraikan legal standing para",
+      "slug": "6-bahwa-oleh-karena-itu-para-pemohon-akan-menguraikan-legal-standing-para",
+      "text": "Pemohon dalam mengajukan Permohonan Penguj ian Materiil a quo antara \nlain sebagai berikut: \nPertama, Kualifikasi sebagai Pemohon; \nBahwa Kualifikasi para Pemohon baik Pemohon I  maupun Pemohon II  \nadalah benar masing -masing merupakan perorangan Warga Negara \nIndonesia (WNI) yang berkonsekuensi tunduk patuh dan mendapatkan hak -\nhaknya sebagai warga negara sebagaimana telah diatur dalam konstitusi \nmaupun peraturan perundang-undangan; \nKedua, Kerugian Konstitusional para Pemohon; \n\n 7 \nBahwa Pemohon I merupakan Calon Anggota DPRD Kota Bandung atau \nCaleg dari Partai Solidaritas Indonesia atau PSI ( vide Bukti P-4) yang \nberkontestasi dalam perhelatan Pemilihan Umum 2024. Bahwa Pemohon I \nsebagai Caleg telah menjala nkan peran dan tugasnya mulai dari menjalani \nproses seleksi internal di partai, pendaftaran secara administrasi hingga \nmelakukan kampanye di masyarakat hingga mengawal suara di TPS bahkan \nketika penetapan suara di penyelenggara pemilu ; \nAkan tetapi Pemohon I gagal mendapatkan hasil yang diharapkan dan \nditargetkan disebabkan terdapat kontestan Caleg yang merupakan \nincumbent atau petahana yang berstatus sebagai Anggota DPRD Kota \nBandung lebih dari dua (2) periode. Hal ini disebabkan para incumbent baik \nsecara materiil melalui program kedewanan seperti reses, hibah dan \nsebagainya, maupun immateriil dengan relasi k uasa senioritas atau orang \nlama; \nSelain itu tandem dari Pemohon I yang juga mencalonkan di DPR RI, DPD \ndan DPRD Provinsi juga kalah serta tidak dapat berbuat banyak mengingat \nmereka juga bersaing dengan petahana yang memiliki relasi kuasa serta \nadvantages sebagai dewan dengan jangka waktu yang lama yang hal ini \nberdampak langsung dengan kerugian konstitusional Pemohon I yang tidak \ndapat memaksimalkan tandem-tandemnya untuk mengadvokasi kepentingan \nwarga khususnya konstituen; \nAtas hal tersebut Pemohon I dirugikan secara konstitusional dengan tidak \nterpilih menjadi Anggota DPRD disebabkan para petahana dewan lebih dari \ndua periode yang diperbolehkan berkontestasi tanpa batas waktu ; \nBahwa Pemohon II adalah politisi muda (vide Bukti P-4) yang menjalani karir \npolitik sebagai bentuk bakti dan implementasi keterlibatan secara konkret \ndalam bernegara khususnya pemerintahan. Aktifitas Pemohon II  yang \nmerupakan ka der partai politik memiliki tujuan mulia untuk mengadvokasi \nkepentingan warga dan membutuhkan jenjang karir politik yang jelas.  \nAkan tetapi hal tersebut tidak terwujud disebabkan Pemohon II  selalu \ndinomorduakan jika dibandingkan dengan senior-senior politisi yang menjadi \nAnggota Dewan lebih dari dua (2) periode. Atas hal inilah Pemohon II \nmengajukan permohonan kepada Mahkamah agar ada kaderisasi karir politik \n\n 8 \nyang jelas dengan pembatasan periode jabatan Anggota Dewan baik di DPR, \nDPRD Provinsi, dan DPRD Kabupaten/Kota maupun DPD; \nBahwa atas hal tersebut di atas yang dijelaskan secara tegas dan \nmeyakinkan keberlakuan undang-undang a quo telah melanggar hak-hak dari \npara Pemohon sebagai Warga Negara Indonesia maupun kepentingannya \nmasing-masing untuk mendapatkan Kesempatan yang sama dalam \npemerintahan maupun hak-hak konstitusional; \nKetentuan a quo telah mereduksi partisipasi para Pemohon untuk turut serta \ndalam Pemilihan Anggota Legislatif yang mana sejatinya keikutsertaan ini \nmerupakan suatu upaya untuk memperoleh kesempatan dalam \npemerintahan yakni dalam kapasitas sebagai legislator maupun mengawal \nkebijakan pemerintah dengan penyampaian aspirasi oleh anggota Dewan \nmaupun berkai tan dengan kaderisasi kedewanan sebagai karir politik \nsebagai output dari kaderisasi partai guna membentuk kepemi mpinan \nbangsa di masa mendatang; \n III.  POSITA \nBahwa adapun yang menjadi alasan-alasan para Pemohon dalam mengajukan \nPermohonan Uji Materiil adalah:",
+      "start_line": 225,
+      "end_line": 288
+    },
+    {
+      "heading": "1. Ketiadaan Pembatasan Masa Jabatan Periode Anggota DPR, DPD, DPRD",
+      "slug": "1-ketiadaan-pembatasan-masa-jabatan-periode-anggota-dpr-dpd-dprd",
+      "text": "Provinsi dan DPRD Kabupaten/Kota dalam Pasal a quo bertentangan dengan \nPasal Pasal 28D ayat (1) UUD NRI Tahun 1945 yang memberikan hak \nmemajukan dan memperjuangkan hak secara kolektif u ntuk membangun \nmasyarakat, bangsa dan negara sebagai Anggota Dewan;",
+      "start_line": 290,
+      "end_line": 293
+    },
+    {
+      "heading": "2. Ketiadaan Pembatasan Masa Jabatan Periode Anggota DPR, DPD, DPRD",
+      "slug": "2-ketiadaan-pembatasan-masa-jabatan-periode-anggota-dpr-dpd-dprd",
+      "text": "Provinsi dan DPRD Kabupaten/Kota dalam Pasal a quo bertentangan dengan \nPasal Pasal 28C ayat (2) UUD NRI Tahun 1945 dengan t idak memberikan \njaminan, perlindungan dan kepastian hukum yang adil baik dalam kaderisasi \nserta pendidikan politik maupun keterpilihan sebagai Anggota Dewan;",
+      "start_line": 295,
+      "end_line": 298
+    },
+    {
+      "heading": "3. Ketiadaan Pembatasan Masa Jabatan Periode Anggota DPR, DPD, DPRD",
+      "slug": "3-ketiadaan-pembatasan-masa-jabatan-periode-anggota-dpr-dpd-dprd",
+      "text": "Provinsi dan DPRD Kabupaten/Kota dalam Pasal a quo bertentangan dengan \nPasal Pasal 28D ayat (3) UUD NRI Tahun 1945 yang memberikan hak \nkesempatan yang sama dalam pemerintahan sebagai Anggota Dewan;",
+      "start_line": 300,
+      "end_line": 302
+    },
+    {
+      "heading": "4. Ketiadaan Pembatasan Masa Jabatan Periode Anggota DPR, DPD, DPRD",
+      "slug": "4-ketiadaan-pembatasan-masa-jabatan-periode-anggota-dpr-dpd-dprd",
+      "text": "Provinsi dan DPRD Kabupaten/Kota dalam Pasal a quo bertentangan dengan \n\n 9 \nPasal Pasal 28H ayat (2) UUD NRI Tahun 1945 yang memberikan \nkemudahan dan perlakuan khusus untuk memperoleh kesempatan dan \nmanfaat yang sama dalam hal menjadi Anggota Dewan; \nBahwa berikut adalah uraian lengkap dari masing -masing argumentasi \nsebagaimana tersebut di atas:",
+      "start_line": 304,
+      "end_line": 311
+    },
+    {
+      "heading": "1. Bahwa Indonesia adalah negara hukum, seperti yang diatur dalam Pasal 1",
+      "slug": "1-bahwa-indonesia-adalah-negara-hukum-seperti-yang-diatur-dalam-pasal-1",
+      "text": "ayat (3) UUD 1945 yang artinya, semua tindakan, kebijakan, dan perilaku \nbaik dari pemerintah maupun warga negara harus sesua i dengan hukum. \nHukum dalam konstitusionalisme ada untuk mencegah penyalahgunaan \nkekuasaan dan memastikan bahwa semua pihak, termasuk pemerintah dan \nmasyarakat, bertindak dalam batasan hukum yang berlaku. Dengan \ndemikian, kekuasaan dapat dijalankan secara adil dan teratur untuk \nmewujudkan cita luhurnya dalam konstitusi ;",
+      "start_line": 313,
+      "end_line": 319
+    },
+    {
+      "heading": "2. Bahwa hal tersebut berkonsekuensi perlu adanya kepastian hukum dalam hal",
+      "slug": "2-bahwa-hal-tersebut-berkonsekuensi-perlu-adanya-kepastian-hukum-dalam-hal",
+      "text": "kekuasaan guna mewujudkan cita konstitusionalisme Indonesia;",
+      "start_line": 321,
+      "end_line": 321
+    },
+    {
+      "heading": "3. Bahwa adapun berikut merupakan Anggota DPR Periode 2024 -2029 yang",
+      "slug": "3-bahwa-adapun-berikut-merupakan-anggota-dpr-periode-2024-2029-yang",
+      "text": "menjabat lebih dari 2 (dua) periode:  \nDaftar Anggota DPR menjabat Lebih dari Dua Periode \nNo Nama Jabatan Partai Dapil Masa \nJabatan \n1 Guruh \nSoekarno \nDPR 1992-1997 \nDPR 1999-2004 \nDPR 2004-2009 \nDPR 2009-2014 \nDPR 2014-2019 \nDPR 2019-2024  \nPDI \nPDIP \nJawa Timur VI \nJawa Timur I \n7 Periode \n2 I Made Urip DPR 1999–2004 \nDPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nPDIP Bali 5 Periode \n3 Mindo \nSianipar \nDPR 1999–2004 \nDPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nPDIP Jawa Timur VIII 5 Periode \n4 Bambang \nWuryanto \nDPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nPDIP Jawa Tengah IV 5 Periode \n\n 10 \nDPR 2024–2029 \n5 Ahmad \nBasarah \nDPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nDPR 2024–2029 \nPDIP Jawa Timur V 5 Periode \n6 Aria Bima DPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nDPR 2024–2029 \nPDIP Jawa Tengah V 5 Periode \n7 Ramson \nSaigan \nDPR 1999–2004 \nDPR 2004–2009 \nDPR 2014–2019 \nDPR 2019–2024 \nDPR 2024–2029 \nPDIP \nGerindra \nJawa Tengah X 5 Periode \n8 Muhiddin \nMohamad \nSaid \nMPR 1992-1997 \nMPR 1997-1999 \nMPR1999-2004 \nDPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nDPR 2024–2029 \nGolkar Sulawesi \nTengah \n8 Periode \n9 Agun \nGunandjar \nSudarsa \nDPR 1997–1999 \nDPR 1999–2004 \nDPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nDPR 2024–2029  \nGolkar Jawa Barat IX \nJawa Barat X \n7 Periode \n10 Ferdiansyah DPR 1999–2004 \nDPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nDPR 2024–2029 \nGolkar Jawa Barat X \nJawa Barat XI  \n6 Periode \n11 Kahar Muzakir DPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nDPR 2024–2029 \nGolkar Sumatera \nSelatan \n5 Periode \n12 Hidayat Nur \nWahid \nDPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nDPR 2024–2029 \nPKS DKI Jakarta I 5 Periode \n\n 11 \n13 Muhammad \nNasir Jamil \nDPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPR 2019–2024 \nDPR 2024–2029 \nPKS Aceh II 5 Periode",
+      "start_line": 323,
+      "end_line": 449
+    },
+    {
+      "heading": "4. Bahwa berikut merupakan Anggota DPD RI yang menjabat lebih dari 2 (dua)",
+      "slug": "4-bahwa-berikut-merupakan-anggota-dpd-ri-yang-menjabat-lebih-dari-2-dua",
+      "text": "Periode: \nDaftar Anggota DPD RI menjabat Lebih dari Dua Periode \nNo Nama Jabatan Dapil Masa Jabatan \n1 G.K.R. Hemas DPD 2004–2009 \nDPD 2009–2014 \nDPD 2014–2019 \nDPD 2019–2024 \nDPD 2024–2029 \nD.I. Yogyakarta 6 Periode \n2 Abdullah \nPuteh \nMPR1977–1982 \nDPR 1982–1987 \nDPR 1987–1992 \nMPR1997–1999 \nDPD 2019–2024 \nDPD 2024–2029   \nAceh 6 Periode \n3 Maria Goreti DPD 2004–2009 \nDPD 2009–2014 \nDPD 2014–2019 \nDPD 2019–2024 \nDPD 2024–2029 \nKalimantan Barat 5 Periode \n4 Tamsil Linrung DPR 2004–2009 \nDPR 2009–2014 \nDPR 2014–2019 \nDPD 2019–2024 \nDPD 2024–2029 \nSulawesi Selatan 5 Periode",
+      "start_line": 451,
+      "end_line": 481
+    },
+    {
+      "heading": "5. Bahwa berikut Anggota DPRD yang menjabat lebih dari 2 Periode:",
+      "slug": "5-bahwa-berikut-anggota-dprd-yang-menjabat-lebih-dari-2-periode",
+      "text": "Daftar Anggota DPRD menjabat Lebih dari Dua Periode \nNo Nama Jabatan Partai Dapil Masa \nJabatan \n1 Sugianto DPRD 1997-\n1999 DPRD \n1999-2004 \nDPRD 2004-\n2009 DPRD \n2009-2014 \nDPRD 2014-\n2019 DPRD \n2019-2024 \nDPRD 2024-\n2029 \nGolkar Mamuju 7 Periode \n\n 12 \n2 Titiek Utami DPRD 2004–\n2009 DPRD \n2009–2014 \nDPRD 2014–\n2019 DPRD \n2019–2024 \nDPRD 2024-\n2029    \nGolkar Magelang 5 Periode \n3 Darwis Syam DPRD 2004-\n2009 DPRD \n2009-2014 \nDPRD 2014-\n2019 DPRD \n2019-2024 \nDPRD 2024-\n2029 \nGolkar Rokan Hilir 5 Periode \n4 Nursalam DPRD 2009-\n2014 DPRD \n2014-2019 \nDPRD 2019-\n2024 DPRD \n2024-2029 \nGolkar Bontang 4 Periode \n5 Edwin \nSandjaya \nDPRD 2009-\n2014 DPRD \n2014-2019 \nDPRD 2019-\n2024 DPRD \n2024-2029 \nGolkar Bandung 4 Periode \n6 Sallafudin DPRD 2004–\n2009 DPRD \n2009–2014 \nDPRD 2014–\n2019 DPRD \n2019–2024 \nDPRD 2024-\n2029 \nPKB Magelang 5 Periode \n7 Amansyah DPRD 2004-\n2009 DPRD \n2009-2014 \nDPRD 2014-\n2019 DPRD \n2019-2024 \nDPRD 2024-\n2029 \nPAN Rokan Hilir 5 Periode \n8 Nur Hasan DPRD 2004-\n2009 DPRD \n2009-2014 \nDPRD 2014-\n2019 DPRD \n2019-2024 \nHanura Rembang 5 Periode \n\n 13 \nDPRD 2024-\n2029 \n9 Isa Subagja DPRD 1989-\n1994 DPRD \n1994-1999 \nDPRD 1999-\n2004 DPRD \n2004-2009 \nDPRD 2009-\n2014 DPRD \n2014-2019 \nDPRD 2019-\n2024 DPRD \n2024-2029 \nPDIP Bandung 8 Periode \n10 Rieke \nSuryaningsih \nDPRD 2004-\n2009 DPRD \n2009-2014 \nDPRD 2014-\n2019 DPRD \n2019-2024 \nDPRD 2024-\n2029 \nPDIP Bandung 5 Periode \n11 Ridwan DPRD 2004-\n2009 DPRD \n2009-2014 \nDPRD 2014-\n2019 DPRD \n2019-2024 \nDPRD 2024-\n2029 \nPDIP Rembang 5 Periode",
+      "start_line": 483,
+      "end_line": 596
+    },
+    {
+      "heading": "6. Bahwa hal -hal tersebut d i atas menunjukkan potensi adanya kebuntuan",
+      "slug": "6-bahwa-hal-hal-tersebut-d-i-atas-menunjukkan-potensi-adanya-kebuntuan",
+      "text": "kaderisasi partai politik yang tidak dapat mengorbitkan kader-kader lain untuk \nmenjadi pejabat publik dalam hal ini anggota dewan;",
+      "start_line": 598,
+      "end_line": 599
+    },
+    {
+      "heading": "7. Bahwa hal inilah yang perlu diatur dalam regulasi dalam hal ini Undang -",
+      "slug": "7-bahwa-hal-inilah-yang-perlu-diatur-dalam-regulasi-dalam-hal-ini-undang",
+      "text": "Undang sebagai turunan dari amanah konstitusi dalam rangka menjaga \ndemokrasi, kaderisasi dan kualitas kepemimpinan di parlemen guna \nmewujudkan kepentingan bangsa;",
+      "start_line": 601,
+      "end_line": 603
+    },
+    {
+      "heading": "8. Bahwa DPR, DPD, dan DPRD juga harus mengikuti atur an, prinsip, dan",
+      "slug": "8-bahwa-dpr-dpd-dan-dprd-juga-harus-mengikuti-atur-an-prinsip-dan",
+      "text": "hukum yang berlaku. Ini juga penting dalam mengatur batasan masa kerja \nanggota DPR, DPD, dan DPRD. Dalam arti luas, seorang pemimpin adalah \nindividu yang memprakarsai tingkah laku sosial dengan mengatur, \nmengarahkan, mengorganisasi, dan me ngontrol upaya orang lain melalui \nprestise, kekuasaan, atau posisi. Sedangkan dalam arti sempit, seorang \n\n 14 \npemimpin adalah individu yang membimbing dan memimpin dengan berbagai \nkualitas persuasifnya, serta diterima secara sukarela oleh para pengikutnya \n(Suwatno, Pemimpin dan Kepemimpinan: dalam Organisasi Publik dan \nBisnis, Jakarta: Bumi Aksara, 2019, hlm. 4);",
+      "start_line": 605,
+      "end_line": 615
+    },
+    {
+      "heading": "9. Bahwa institusi negara sebagai pemimpin sangat erat kaitannya dengan",
+      "slug": "9-bahwa-institusi-negara-sebagai-pemimpin-sangat-erat-kaitannya-dengan",
+      "text": "kekuasaan negara. Pembentukan lembaga -lembaga negara merupakan \nupaya untuk menjalankan berbagai cabang kekuasaan dalam pemerintahan. \nKekuasaan negara dibagi menjadi dua, yaitu secara vertikal dan horizontal, \nuntuk menciptakan mekanisme checks and balances , di mana masing -\nmasing cabang kekuasaan saling mengimbangi dan mengendalikan satu \nsama lain. Dengan begitu, kekuasaan tidak hanya terpusat pada satu atau \ndua lembaga saja karena adanya pembatasan kekuasaan pada lembaga \nnegara. Tujuan dari pembatasan ini adalah untuk mencegah penyalahgunaan \nkekuasaan. (Jimly Asshiddiqie, Konstitusi Berne gara Praksis Kenegaraan \nBermartabat dan Demokratis, Malang: Setara Press, 2015, hlm. 151) ;",
+      "start_line": 617,
+      "end_line": 626
+    },
+    {
+      "heading": "10. Bahwa kekuasaan bisa menyebabkan lembaga bertindak dominan,",
+      "slug": "10-bahwa-kekuasaan-bisa-menyebabkan-lembaga-bertindak-dominan",
+      "text": "menguasai, dan mempengaruhi agar kokoh, yang dapat berujung pada \nkesewenang-wenangan dan korupsi. Lord A cton menyatakan, “power tends \nto corrupt, but absolute power corrupt absolutely ,” yang berarti kekuasaan \ncenderung korup, dan kekuasaan absolut pasti korup secara absolut (Mahfud \nMD, Membangun Politik Hukum Menegakkan Konstitusi, Jakarta: LP3ES, \n2006, hlm.  221). Mahfud MD menekankan bahwa untuk melindungi hak \nrakyat dari kesewenang -wenangan, tindakan pemegang kekuasaan harus \ndibatasi atau diawasi oleh hukum;",
+      "start_line": 628,
+      "end_line": 635
+    },
+    {
+      "heading": "11. Bahwa Jimly Asshiddiqie menggarisbawahi bahwa di era modern ini, dunia",
+      "slug": "11-bahwa-jimly-asshiddiqie-menggarisbawahi-bahwa-di-era-modern-ini-dunia",
+      "text": "menghadapi goncangan nilai dan norma yang mendasar. Krisis moral dan \netika dalam kehidupan berbangsa dan bernegara, terutama di bidang politik, \nsangat dirasakan saat ini. Penyimpangan etika publik dan privat semakin \nmeningkat, menyebabkan kekacauan norma dalam praktik pengelolaan \nnegara (Jimly Asshiddiqie, Menegakkan Etika Penyelenggara Pemilu, \nJakarta: Raja Grafindo, 2013, hlm. 22);",
+      "start_line": 637,
+      "end_line": 642
+    },
+    {
+      "heading": "12. Bahwa rendahnya kualitas, integritas, kompetensi/kapabilitas hingga",
+      "slug": "12-bahwa-rendahnya-kualitas-integritas-kompetensi-kapabilitas-hingga",
+      "text": "membuka peluang besar untuk korupsi kolusi nepotisme selaku lembaga \n\n 15 \nnegara legislatif disebabkan a quo yang tidak mencantumkan pembatasan \nperiodisasi sebagai persyaratan bakal calon anggota DPR, DPD, dan DPRD;",
+      "start_line": 644,
+      "end_line": 648
+    },
+    {
+      "heading": "13. Bahwa selanjutnya konsep negara yang demokratis ditandai dengan hak",
+      "slug": "13-bahwa-selanjutnya-konsep-negara-yang-demokratis-ditandai-dengan-hak",
+      "text": "warga negara untuk memilih dan dipilih dalam jabatan politik p emerintahan. \nSalah satu bentuk penerapan demokrasi adalah melalui pemilihan umum \n(pemilu) yang dijamin oleh Pasal 1 ayat (2) dan Pasal 22E UUD NRI Tahun",
+      "start_line": 650,
+      "end_line": 652
+    },
+    {
+      "heading": "1945. Demokrasi dan kedaulatan rakyat dalam pengambilan keputusan",
+      "slug": "1945-demokrasi-dan-kedaulatan-rakyat-dalam-pengambilan-keputusan",
+      "text": "negara didasarkan pada nilai keadilan . Hukum bertujuan memberikan \nkeadilan bagi seluruh rakyat Indonesia. Oleh karena itu, Indonesia sebagai \nnegara hukum dikembangkan sebagai negara hukum demokratis, bukan \nnegara hukum absolut (Jimly Asshiddiqie, Konstitusi Bernegara Praksis \nKenegaraan Bermartabat dan Demokratis, 2015, hlm. 153);",
+      "start_line": 654,
+      "end_line": 658
+    },
+    {
+      "heading": "14. Bahwa pembatasan kekuasaan melalui pembatasan periodesasi yang diatur",
+      "slug": "14-bahwa-pembatasan-kekuasaan-melalui-pembatasan-periodesasi-yang-diatur",
+      "text": "oleh hukum menjadi dasar konstitusionalisme modern. Julius Stahl \nmenekankan bahwa pemisahan kekuasaan adalah elemen penting dari teori \nnegara hukum  di Eropa Kontinental. Ajaran Trias Politica memisahkan \nkekuasaan menjadi legislatif, yudikatif, dan eksekutif;",
+      "start_line": 660,
+      "end_line": 663
+    },
+    {
+      "heading": "15. Bahwa Pasal 15 ayat (1) UU No mor 30 Tahun 2014 tentang Administrasi",
+      "slug": "15-bahwa-pasal-15-ayat-1-uu-no-mor-30-tahun-2014-tentang-administrasi",
+      "text": "Pemerintahan mengatur pembatasan wewenang Badan dan/atau Pejabat \nPemerintahan, mencakup masa jabatan, wilayah, dan cakupan materi \nwewenang. b) Pasal 18 ayat (1) UU ini menyatakan bahwa pelanggaran \nterhadap batas masa jabatan, wilayah, dan yang bertentangan dengan \nperaturan perundang -undangan dikategorikan sebagai melampaui \nwewenang. c) Pasal 18 ayat (2) mengatur bahwa pelanggaran terhadap \ncakupan materi wewenang dikategorikan sebagai mencampuradukkan \nwewenang;",
+      "start_line": 665,
+      "end_line": 672
+    },
+    {
+      "heading": "16. Bahwa pembatasan masa jabatan bertujuan mencegah penyalahgunaan",
+      "slug": "16-bahwa-pembatasan-masa-jabatan-bertujuan-mencegah-penyalahgunaan",
+      "text": "wewenang dan meningkatkan kualitas pemerintahan dengan mene rapkan \nkeadilan untuk regenerasi kepemimpinan di masa depan;",
+      "start_line": 674,
+      "end_line": 675
+    },
+    {
+      "heading": "17. Bahwa pembatasan kekuasaan negara sangat penting dan merupakan salah",
+      "slug": "17-bahwa-pembatasan-kekuasaan-negara-sangat-penting-dan-merupakan-salah",
+      "text": "satu ciri dari the rule of law . Pembatasan ini membantu menciptakan \nregenerasi kepemimpinan dan mencegah penyalahgunaan wewenang. Pasal \n28J ayat (2) UUD NRI Tahun 1945 menyatakan bahwa setiap orang harus \ntunduk kepada pembatasan yang ditetapkan dengan undang-undang; \n\n 16",
+      "start_line": 677,
+      "end_line": 682
+    },
+    {
+      "heading": "18. Bahwa pembatasan kekuasaan juga ada dalam konstitusi Indonesia, seperti",
+      "slug": "18-bahwa-pembatasan-kekuasaan-juga-ada-dalam-konstitusi-indonesia-seperti",
+      "text": "pada Pasal 7 UUD NRI Tahun 1945, yang memba tasi jabatan presiden \nmenjadi dua periode. Awalnya, pasal ini berbunyi bahwa presiden dan wakil \npresiden bisa dipilih kembali tanpa batasan, tetapi kemudian diubah menjadi \nhanya untuk satu kali masa jabatan setelah lima tahun;",
+      "start_line": 684,
+      "end_line": 687
+    },
+    {
+      "heading": "19. Bahwa pembatasan ini bertujua n untuk mencegah kekuasaan yang",
+      "slug": "19-bahwa-pembatasan-ini-bertujua-n-untuk-mencegah-kekuasaan-yang",
+      "text": "berlangsung terus -menerus dan peluang terjadinya penyalahgunaan \nkekuasaan. Dengan adanya aturan ini, masa jabatan presiden dibatasi \nhingga maksimal dua periode, sehingga kepemimpinan panjang seperti yang \nterjadi pada era Presiden Soeharto tidak akan terulang kembali di Indonesia;",
+      "start_line": 689,
+      "end_line": 692
+    },
+    {
+      "heading": "20. Bahwa berdasarkan argumen di atas, Pasal 76 ayat (4), Pasal 252 ayat (5),",
+      "slug": "20-bahwa-berdasarkan-argumen-di-atas-pasal-76-ayat-4-pasal-252-ayat-5",
+      "text": "Pasal 318 ayat (8), Pasal 318 ayat (8) UU MD3 harus dengan jelas \nmenyatakan bahwa anggota DPR, DPD, dan DPRD hanya boleh menj abat \nselama dua periode. Ini penting agar masa jabatan anggota parlemen yang \nsecara original intent memiliki kesetaraan dengan masa jabatan presiden dan \nwakil presiden maupun Kepala Daerah yakni sama -sama jabatan publik \ndengan segala kewenangannya, sehingga dapat mencegah kekuasaan yang \nabsolut dan penyalahgunaan wewenang;",
+      "start_line": 694,
+      "end_line": 700
+    },
+    {
+      "heading": "21. Bahwa secara tekstual sistematis, bunyi ketentuan pada pasal a quo yang",
+      "slug": "21-bahwa-secara-tekstual-sistematis-bunyi-ketentuan-pada-pasal-a-quo-yang",
+      "text": "diuji konstitusionalitasnya sebenarnya telah memberikan batasan masa \njabatan anggota DPR, DPD, DPRD Provinsi dan DP RD Kabupaten/Kota \nselama lima tahun dan selanjutnya digantikan oleh anggota yang baru. \nBatasan itu dapat ditarik atau dibaca dari bunyi frasa “dan berakhir pada saat \nanggota DPR, DPD, DPRD Provinsi atau DPRD Kabupaten/Kota yang baru \nmengucapkan sumpah/janj i”. Kata “anggota yang baru ” harus dimaknai \nsebagai “orang baru”, bukan “periode baru”. Namun demikian, ternyata frasa \nitu ditafsirkan bukan sebagai pembatasan masa jabatan, melainkan sebagai \njustifikasi/legitimasi dapat dipilihnya anggota berkali -kali (tanpa batas) \nsehingga anggota yang lama dapat kembali menjadi anggota untuk periode \nberikutnya tanpa ada pembatasan;",
+      "start_line": 702,
+      "end_line": 712
+    },
+    {
+      "heading": "22. Bahwa dengan adanya multitafsir tersebut, maka materi muatan pada pasal",
+      "slug": "22-bahwa-dengan-adanya-multitafsir-tersebut-maka-materi-muatan-pada-pasal",
+      "text": "a quo bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun 1945 karena \ntelah menimbulkan ketidakpastian hukum, di samping telah merugikan atau \n\n 17 \nberpotensi  merugikan  hak  konstitusional Warga Negara, termasuk \nPemohon;",
+      "start_line": 714,
+      "end_line": 719
+    },
+    {
+      "heading": "23. Bahwa masa jabatan yang dibatasi, telah diberlakukan untuk beberapa",
+      "slug": "23-bahwa-masa-jabatan-yang-dibatasi-telah-diberlakukan-untuk-beberapa",
+      "text": "jabatan meskipun jabatan tersebut sa ma-sama dipilih melalui proses \npemilihan umum, seperti Presiden/Wakil Presiden, Gubernur/Wakil Gubernur, \nBupati/Wakil Bupati, dan Walikota/Wakil Walikota. Bahkan, terhadap \nbeberapa jabatan lainnya dibatasi hanya untuk dua periode, misalnya \nanggota Komisi P emilihan Umum (KPU), Badan Pengawas Pemilu \n(Bawaslu), Hakim Konstitusi, dan Komisi Yudisial;",
+      "start_line": 721,
+      "end_line": 726
+    },
+    {
+      "heading": "24. Bahwa dengan demikian, Pasal 76 ayat (4), Pasal 252 ayat (5), Pasal 318",
+      "slug": "24-bahwa-dengan-demikian-pasal-76-ayat-4-pasal-252-ayat-5-pasal-318",
+      "text": "ayat (8), Pasal 318 ayat (8) UU/17/2014, secara jelas dan terang dapat \ndinyatakan bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun 1945. \nSebab, alih -alih memberikan kepastian hukum, pasal -pasal a quo justur \nmenimbulkan  ketidakpastian  dan  ambigutas dalam negara hukum \nIndonesia ;",
+      "start_line": 728,
+      "end_line": 732
+    },
+    {
+      "heading": "25. Bahwa selain dari pada itu, Pasal 76 ayat (4), Pasal 252 ayat (5), Pasal 318",
+      "slug": "25-bahwa-selain-dari-pada-itu-pasal-76-ayat-4-pasal-252-ayat-5-pasal-318",
+      "text": "ayat (8), Pasal 318 ayat (8) UU MD3 juga bertentangan dengan Pasal 28D \nayat (3) UUD NRI Tahun 1945 karena keberlakuan ketentuan pada pasal         \na quo mengakibatkan ruang keterpilihan anggota DPR, DPD, dan DPRD baru \nmenjadi sempit dan sir kulasi kekuasaan pada lembaga legislatif menjadi \nmacet ;",
+      "start_line": 734,
+      "end_line": 738
+    },
+    {
+      "heading": "26. Bahwa potensi kerugian konstitusional lebih lanjut dengan tidak adanya",
+      "slug": "26-bahwa-potensi-kerugian-konstitusional-lebih-lanjut-dengan-tidak-adanya",
+      "text": "pembatasan masa periode seseorang dapat menjabat sebagai anggota DPR, \nDPD, DPRD Provinsi, atau DPRD Kabupaten/Kota sebagai akiba t adanya \nmultitafsir tersebut adalah semakin sempit dan kecilnya kesempatan bagi \nwarga negara untuk dapat menduduki jabatan tersebut termasuk Para \nPemohon untuk memiliki calon yang lebih berkualitas, kredibel dan akuntabel. \nPadahal Pasal 28D ayat (3) UUD NRI Tahun 1945, setiap warga negara \nberhak untuk mendapatkan kesempatan yang sama dalam pemerintahan. \nHal itu terjadi karena anggota-anggota lama memiliki relasi kuasa yang lebih \ndibandingkan dengan orang-orang baru yang belum pernah menjabat. Tidak \nsedikit yang telah berkali -kali menjabat tetap terus dicalonkan atau \nmencalonkan, sehingga menutup atau setidak- tidaknya mengurangi peluang \n\n 18 \nbagi masuknya anggota DPR, DPD, DPRD Provinsi, DPRD Kabupaten/Kota \nyang baru ;",
+      "start_line": 740,
+      "end_line": 754
+    },
+    {
+      "heading": "27. Bahwa warga negara Indonesia memiliki hak k onstitusional yang bisa",
+      "slug": "27-bahwa-warga-negara-indonesia-memiliki-hak-k-onstitusional-yang-bisa",
+      "text": "dirugikan jika tidak ada batasan periode jabatan untuk anggota DPR, DPD, \ndan DPRD. Pasal 240 ayat (1) dan Pasal 258 ayat (1) Undang-Undang No. 7 \nTahun 2017 tentang Pemilihan Umum tidak mengatur batasan periode \njabatan anggota legisl atif seperti eksekutif. Ini bisa membatasi regenerasi \nanggota legislatif dan mencegah terjadinya disfungsi di kalangan anggota \nDPR maupun DPD. Jika ada batasan dua periode, hak konstitusional dan \nnilai keadilan bisa terjaga, dan generasi baru dengan energi  dan ide segar \nbisa mengisi jabatan di lembaga legislatif ;",
+      "start_line": 756,
+      "end_line": 763
+    },
+    {
+      "heading": "28. Bahwa selain membatasi hak konstitusional warga negara, pembatasan",
+      "slug": "28-bahwa-selain-membatasi-hak-konstitusional-warga-negara-pembatasan",
+      "text": "periode jabatan juga penting karena kondisi lembaga negara saat ini. Tidak \nada jaminan pembangunan dan peningkatan kesejahteraan,  salah satunya \nkarena kurangnya inovasi dan pembaruan di lembaga negara. Hal ini sejalan \ndengan pandangan Giovanni Sartori yang menyatakan bahwa masalah \ndalam sistem pemerintahan presidensial lebih terletak pada kekuasaan \nlegislatif daripada eksekutif (Saldi Isra, Pergeseran Fungsi Legislasi, Depok: \nRaja Grafindo Persada, 2010, hlm. 42);",
+      "start_line": 765,
+      "end_line": 771
+    },
+    {
+      "heading": "29. Bahwa calon anggota DPR, DPD, dan DPRD telah melalui seleksi ketat",
+      "slug": "29-bahwa-calon-anggota-dpr-dpd-dan-dprd-telah-melalui-seleksi-ketat",
+      "text": "sesuai peraturan pemilu. Namun, untuk menjalankan tugasnya yang luas dan \nberdampak pada masyarakat, partisipasi masyarakat sangat penting untuk \nmemastikan lembaga negara selalu mengutamakan kesejahteraan rakyat. \nPartisipasi ini bisa berupa masukan langsung, forum rapat kerja, rapat dengar \npendapat, dan kritik membangun sebagai bentuk pengawasan publik ;",
+      "start_line": 773,
+      "end_line": 777
+    },
+    {
+      "heading": "30. Bahwa berdasarkan uraian -uraian tersebut di atas, maka sangatlah jelas,",
+      "slug": "30-bahwa-berdasarkan-uraian-uraian-tersebut-di-atas-maka-sangatlah-jelas",
+      "text": "materi muatan Pasal 76 ayat (4), Pasal 252 ayat (5), Pasal 318 ayat (4), dan \nPasal 367 ayat (4) UU 17/2014 tidak memberikan kepastian hukum serta \nmenegakkan keadilan dan kesempatan yan g sama dalam pemerintahan \nsebagaimana ditentukan Pasal 28D ayat (1) dan (3) UUD NRI Tahun 1945, \npadahal negara (pemerintah) bertanggung jawab untuk memberikan \nperlindungan, pemajuan, penegakan dan pemenuhan hak asasi manusia, \nsalah satunya melalui peratura n perundang -undangan sebagaimana \nditentukan dalam Pasal 281 ayat (4) dan (5) UUD NRI Tahun 1945. \n\n 19",
+      "start_line": 779,
+      "end_line": 788
+    },
+    {
+      "heading": "31. Berdasarkan argumen di atas, Pasal 240 ayat (1) dan Pasal 258 ayat (1)",
+      "slug": "31-berdasarkan-argumen-di-atas-pasal-240-ayat-1-dan-pasal-258-ayat-1",
+      "text": "Undang-Undang No mor 7 Tahun 2017 tentang Pemilihan Umum jelas \nbertentangan dengan prinsi p kesetaraan dan kesempatan yang adil untuk \nberpartisipasi sebagai calon anggota DPR, DPD, dan DPRD seperti yang \ndijamin dalam Pasal 22E ayat (1) UUD NRI Tahun 1945;",
+      "start_line": 790,
+      "end_line": 793
+    },
+    {
+      "heading": "32. Partisipasi berarti peran serta seseorang atau kelompok masyarakat dalam",
+      "slug": "32-partisipasi-berarti-peran-serta-seseorang-atau-kelompok-masyarakat-dalam",
+      "text": "proses pembanguna n baik dalam bentuk pernyataan maupun bentuk \nkegiatan dengan memberi masukan pikiran, tenaga, waktu, keahlian, modal \ndan/atau materi, serta ikut memanfaatkan dan menikmati hasil -hasil \npembangunan [I Nyoman Sumaryadi, Sosiologi Pemerintahan (Bogor: \nPenerbit Ghalia, 2010), hlm. 46.];",
+      "start_line": 795,
+      "end_line": 799
+    },
+    {
+      "heading": "33. Partisipasi sendiri dapat dibedakan menjadi empat jenis, yaitu: [John M.",
+      "slug": "33-partisipasi-sendiri-dapat-dibedakan-menjadi-empat-jenis-yaitu-john-m",
+      "text": "Cohen dan Norman Uphoff, Participation’s Place in Rural Development: \nSeeking Clarity Throught Specificity, World Development Volume 8] yakni: \na)  Partisipasi dalam pengambilan keputusan \nPartisipasi masyarakat berupa penentuan alternatif dengan masyarakat \nyang berkaitan dengan gagasan atau ide yang menyangkut kepentingan \nbersama. Wujud partisipasi ini contohnya menyumbangkan gagasan atau \npemikiran, kehadiran dalam rapat, diskusi, dan tanggapan atau penolakan \nkebijakan yang ditawarkan; \nb)  Partisipasi dalam pelaksanaan \nPartisipasi atau keikutsertaan masyarakat dalam kegiatan operasional \npembangunan berdasarkan program yang telah ditetapkan. Hal ini \nmeliputi pen ggerakan sumber daya dana, kegiatan administrasi, \nkoordinasi, dan penjabaran program. Partisipasi ini merupakan kelanjutan \ndari rencana yang telah digagas sebelumnya; \nc)   Partisipasi dalam pengambilan manfaat \nPartisipasi masyarakat dalam hal ini berupa me nikmati atau \nmemanfaatkan hasil pembangunan yang dicapai dalam pelaksanaan \npembangunan, meliputi menikmati atau menggunakan hasil \npembangunan; \n \n \n\n 20 \nd)   Partisipasi dalam evaluasi \nBentuk partisipasi ini bertujuan untuk mengetahui ketercapaian program \nyang dir encanakan sebelumnya. Tahap ini digunakan sebagai umpan \nbalik untuk memberi saran bagi pelaksanaan kegiatan selanjutnya;",
+      "start_line": 801,
+      "end_line": 827
+    },
+    {
+      "heading": "34. Bahwa atas hal tersebut di atas ketentuan a quo yang dimohonkan oleh para",
+      "slug": "34-bahwa-atas-hal-tersebut-di-atas-ketentuan-a-quo-yang-dimohonkan-oleh-para",
+      "text": "Pemohon yakni tidak adanya pembatasan masa jabatan anggota dewan \nmenjadikan partisipasi masyarakat sangat terbatas baik secara aktif sebagai \nanggota partai dalam rangka sebagai kader yang dapat berkhidmat sebagai \npejabat publik maupun secara pasif sebagai obyek yang juga pemilih \nsehingga mendapatkan pelayanan terbaik jika anggota dewan sadar bahwa \nmasa jabatannya terbatas;",
+      "start_line": 829,
+      "end_line": 834
+    },
+    {
+      "heading": "35. Bahwa sementara itu, dalam jangka panjang, partisipasi publik meningkatkan",
+      "slug": "35-bahwa-sementara-itu-dalam-jangka-panjang-partisipasi-publik-meningkatkan",
+      "text": "kualitas demokrasi karena partisipasi publik secara teratur menunjukkan \nmasyarakat bahwa pendapat mereka dihargai dan pa ndangan mereka \npenting [DETR, Public Participation in Making Local Environmental Decision, \nThe Aarhus Convention Newcastle Workshop  (London: Crown, 2000), hlm. \n11-12.];",
+      "start_line": 836,
+      "end_line": 840
+    },
+    {
+      "heading": "36. Bahwa pendidikan adalah daya-upaya untuk memajukan bertumbuhnya budi",
+      "slug": "36-bahwa-pendidikan-adalah-daya-upaya-untuk-memajukan-bertumbuhnya-budi",
+      "text": "pekerti (kekuatan batin, karakter), pikiran (intelek), dan tubuh anak, dalam \nrangka kesempurnaan hidup dan keselarasan dengan dunianya. Pendidikan \nmembentuk manusia yang berbudi pekerti, berpikiran (pintar, cerdas) dan \nbertubuh sehat. [Dewantara, Ki Hadjar. 1962. Karja I (P endidikan). \nPertjetakan Taman Siswa, Jogjakarta, hal. 14-15.];",
+      "start_line": 842,
+      "end_line": 846
+    },
+    {
+      "heading": "37. Bahwa Nelson Mandela, mengatakan “pendidikan adalah senjata paling",
+      "slug": "37-bahwa-nelson-mandela-mengatakan-pendidikan-adalah-senjata-paling",
+      "text": "ampuh yang dapat Anda gunakan untuk mengubah dunia ”. Kata-kata \ntersebut berarti, pendidikan merupakan langkah fundamental yang  perlu \nditempuh oleh masyarakat. Dengan pendidikan, akan tercipta masyarakat \nyang terdidik dengan taraf hidup yang tinggi, yang bisa mengubah dunia \nmenjadi lebih baik dengan ilmu yang dimiliki;",
+      "start_line": 848,
+      "end_line": 852
+    },
+    {
+      "heading": "38. Bahwa pendidikan juga termasuk ke dalam tujuan bangsa Indonesi a yang",
+      "slug": "38-bahwa-pendidikan-juga-termasuk-ke-dalam-tujuan-bangsa-indonesi-a-yang",
+      "text": "tercantum dalam pembukaan Undang -Undang Dasar 1945 yaitu frasa \n“mencerdaskan kehidupan bangsa ”. Frasa dalam tujuan bangsa Indonesia \ntersebut diwujudkan dengan pengembangan potensi peserta didik agar \nmenjadi manusia yang beriman dan bertakwa kepada Tuhan Yang Maha Esa, \n\n 21 \nberakhlak mulia, sehat, berilmu, cakap, kreatif, mandiri, dan menjadi warga \nnegara yang demokratis serta bertanggung jawab. Dari frasa tersebut juga, \njelas ditunjukan bahwa “mencerdaskan kehidupan bangsa ” merupakan \ntugas, kewajiban, dan tanggung jawab Negara untuk mewujudkannya ;",
+      "start_line": 854,
+      "end_line": 863
+    },
+    {
+      "heading": "39. Bahwa dalam Pasal 4 Undang-Undang Nomor 20 Tahun 2003 tentang Sistem",
+      "slug": "39-bahwa-dalam-pasal-4-undang-undang-nomor-20-tahun-2003-tentang-sistem",
+      "text": "Pendidikan Nasional, diatur bahwa pada prinsipnya pendidikan \ndiselenggarakan secara demokratis dan berkeadilan serta tidak \ndiskriminatif dengan menjunjung tinggi hak asasi manusia, nilai keagamaan, \nnilai kultural, dan kemajemukan bangsa;",
+      "start_line": 865,
+      "end_line": 868
+    },
+    {
+      "heading": "40. Bahwa guna memajukan pendidikan politik yang inklusif dengan tersedianya",
+      "slug": "40-bahwa-guna-memajukan-pendidikan-politik-yang-inklusif-dengan-tersedianya",
+      "text": "ruang karir politik yang memiliki kepastian, hal inilah yang menjadikan \npembatasan masa  jabatan anggota dewan harus diatur guna membentuk \nsistem  pendidikan  politik  nasional  yang ber keadilan untuk generasi \nkedepan;",
+      "start_line": 870,
+      "end_line": 873
+    },
+    {
+      "heading": "41. Bahwa pembatasan periodesasi anggota legislatif memang harus diakui",
+      "slug": "41-bahwa-pembatasan-periodesasi-anggota-legislatif-memang-harus-diakui",
+      "text": "cukup jarang diterapkan di berbagai lembaga -lembaga legis latif di dunia, \nseperti Amerika Serikat sebagai champion of democracy , misalnya, yang \nkehidupan demokrasinya kerap menjadi role model bagi banyak negara di \ndunia. Negara -negara di Eropa juga belum ada yang menerapkannya \npembatasan masa jabatan legislatif s eperti Swiss yang pernah mengajukan \nproposal untuk membatasi dua periode masa jabatan anggota parlemen, \nnamun proposal itu tidak pernah diadopsi. Pun Perancis yang pernah \nmelakukan reformasi legislasi dengan mengajukan pembatasan dengan tiga \nkali masa periode, tetapi hal itu ditunda;",
+      "start_line": 875,
+      "end_line": 883
+    },
+    {
+      "heading": "di benua Amerika pembatasan masa periode anggota parlemen dapat",
+      "slug": "di-benua-amerika-pembatasan-masa-periode-anggota-parlemen-dapat",
+      "text": "dijumpai di Bolivia, Costa Rica, Ekuador dan Venezuela. Negara Bolivia \nmenerapkan pembatas an masa periode anggota parlemen untuk dua \nperiode. Sementara Costa Rica hanya untuk satu kali periode dan Ekuador \ndua kali masa periode sebagaimana Venezuela juga untuk dua kali masa \nperiode. Selain itu, di Asia, negara yang membatasi masa periode anggota  \nparlemen hanya ada satu, yaitu negara tetangga Pilipina dengan pembatasan \ndua kali masa periode. Sementara Korea Selatan, pembatasan untuk masa \ndua kali periode hanya diberlakukan untuk wakil -wakil rakyat di tingkat \n\n 22 \ndaerah. (“Report On Term -Limits Part II - Members Of Parliament Part III -\nRepresentatives Elected At Sub -National And Local Level And Executive \nOfficials Elected At Sub-National And Local Level”, European Commission for \nDemocracy Through Law [Venice Commission], Opinion No. 908/2017 ), \nSebagaimana telah diadopsi oleh Venice Commission pada Sidang Pleno ke-\n118 yang di dalamnya mengkaji iklim demokrasi negara-negara anggota Uni-\nEropa terkait dengan persoalan perlu tidaknya pembatasan bagi masa \njabatan anggota parlemen;",
+      "start_line": 886,
+      "end_line": 903
+    },
+    {
+      "heading": "43. Bahwa poin yang dihasilkan dari Komisi Venice memberikan peluang dapat",
+      "slug": "43-bahwa-poin-yang-dihasilkan-dari-komisi-venice-memberikan-peluang-dapat",
+      "text": "dilakukannya pembatasan masa periode anggota parlemen, yaitu untuk dua \nkali masa jabatan, sebagaimana diuraikan sebagai berikut: \n“If term limits are introduced, at least two consecutive terms should be \nallowed. This appears to be a reasonable mitigation of the adverse \neffects of term limits indicated above, and would preserve in particular \nthe need for accountability towards the electorate. It would also be more \nrespectful of the principle of proportionality in the in terference with the \nrights to vote and be elected. The introduction of term limits should be \napplied so as to allow for a gradual renewal of the MPs, thus \nguaranteeing continuity\".",
+      "start_line": 905,
+      "end_line": 914
+    },
+    {
+      "heading": "44. Bahwa tesis pembatasan anggota parlemen tersebut sangat relevan untuk",
+      "slug": "44-bahwa-tesis-pembatasan-anggota-parlemen-tersebut-sangat-relevan-untuk",
+      "text": "diberlakukan di Indonesia mengingat anggota parlemen dengan “wajah lama” \nmasih terus mendominasi. Selain mengakibatkan adanya sirkulasi \nkekuasaan menjadi macet dan ruang persamaan hak mendapatkan \nkesempatan yang sama dalam pemerintahan menjadi terbatas, ke tiadaan \npembatasan periodesasi anggota parlemen mengakibatkan corak kebijakan \nyang dihasilkan tidak begitu signifikan tanpa perubahan yang berarti terhadap \nkeberlangsungan hidup warga negara. Kultur yang demikian itu akhirnya \nmembentuk feodalisme dan eliti sme politik di mana aktor -aktor parlemen \nterus didominasi oleh segelintir orang yang tersebar di hampir semua partai \npolitik peserta Pemilu 2024;",
+      "start_line": 916,
+      "end_line": 925
+    },
+    {
+      "heading": "45. Bahwa menarik kesimpulan dan pertimbangan tersebut di atas dan dikaitkan",
+      "slug": "45-bahwa-menarik-kesimpulan-dan-pertimbangan-tersebut-di-atas-dan-dikaitkan",
+      "text": "dengan realitas yang terjadi terkait dengan menurunnya kinerja dan \nkredibilitas lembaga wakil rakyat serta meningkatnya persentase anggota -\nanggota lama terpilih kembali (tren sosial dan politis), maka sangatlah relevan \ndan urgen untuk membatasi periode jabatan anggota DPR, DPD, DPRD \nProvinsi dan DPRD Kabupaten/Kota, yaitu selama 2 kali masa jabatan. \nPembatasan periode tersebut tidaklah melanggar atau bertentangan dengan \n\n 23 \nhak-hak rakyat untuk memilih dan juga tidak mengurangi hak -hak untuk \ndipilih. Pembatasan itu justru akan menjamin dan melindu ngi hak -hak \nkonstitusional warga negara sebagaimana dijamin dalam Pasal 28D ayat (1) \ndan (3) UUD NRI Tahun 1945;",
+      "start_line": 927,
+      "end_line": 938
+    },
+    {
+      "heading": "46. Bahwa pada pokoknya, meskipun pembatasan masa jabatan parlemen",
+      "slug": "46-bahwa-pada-pokoknya-meskipun-pembatasan-masa-jabatan-parlemen",
+      "text": "masih sangat sedikit dan dinamis di negara -negara moderen, Indonesia \nsebagai negara berdaulat serta negara demokrasi yang besar dapat \nmemberikan terobosan serta tauladan dalam hal pentingnya membatasi \nkekuasaan parlemen guna mencegah absolutisme kekuasaan;",
+      "start_line": 940,
+      "end_line": 943
+    },
+    {
+      "heading": "47. Bahwa ketentuan a quo memang merupakan open legal policy yang secara",
+      "slug": "47-bahwa-ketentuan-a-quo-memang-merupakan-open-legal-policy-yang-secara",
+      "text": "asal pengaturannya ada pada pembentuk Undang-Undang akan tetapi dalam \nhal ini Mahkamah Konstitusi dapat memberikan pengaturan mengingat \nadanya potensi conflict of interest serta urgensi penting dan mendesak dalam \nrangka menyelamatkan kepentingan bangsa dan negara khususnya generasi \nmasa depan Indonesia;",
+      "start_line": 945,
+      "end_line": 949
+    },
+    {
+      "heading": "48. Bahwa intervensi Mahkamah dalam open legal policy sudah pernah",
+      "slug": "48-bahwa-intervensi-mahkamah-dalam-open-legal-policy-sudah-pernah",
+      "text": "dilakukan dalam Putusan Mahkamah Konstitusi baik yang berkaitan dengan \npengaturan ambang batas maupun hal lain yang dianggap bertentangan \ndengan konsti tusi oleh Mahkamah yang hal ini menunjukkan bahwa \nMahkamah Konstitusi demi menjalankan perannya sebagai the guardian of \nthe constitution  dalam melampaui constitutional restriction  dalam rangka \nmenyelamatkan kepentingan bangsa dan negara termasuk generasi m asa \ndepan Indonesia dalam sektor politik maupun kepemimpinan publik;",
+      "start_line": 951,
+      "end_line": 957
+    },
+    {
+      "heading": "49. Bahwa Mahkamah juga memberikan ruang kaderisasi partai dalam beberapa",
+      "slug": "49-bahwa-mahkamah-juga-memberikan-ruang-kaderisasi-partai-dalam-beberapa",
+      "text": "putusannya yang secara logis perintah tersebut membutuhkan ruang \npenyaluran kader partai politik dalam jabatan publik  baik kepala daerah \nmaupun anggota parlemen yang hal ini semakin masuk akal mengingat \njumlah anggota parlemen yang lebih banyak dari kepala daerah dan dapat \nmenjadi penyaluran kader potensial partai politik sebagaimana amanah \nMahkamah;",
+      "start_line": 959,
+      "end_line": 964
+    },
+    {
+      "heading": "50. Dengan demikian, materi muatan Pasal 76 ayat (4), Pasal 252 ayat (5), Pasal",
+      "slug": "50-dengan-demikian-materi-muatan-pasal-76-ayat-4-pasal-252-ayat-5-pasal",
+      "text": "318 ayat (4), dan Pasal 367 ayat (4) UU MD3 yang tidak membatasi masa \njabatan dan periodesasi Anggota DPR, DPD, DPRD Provinsi, dan DPRD \nKabupaten/Kota merugikan dan berpotensi merugikan hak setiap war ga \n\n 24 \nnegara sebagaimana yang telah diatur dalam ketentuan Pasal 28D ayat \n(1), Pasal 28D ayat (3), Pasal 28H ayat (2), Pasal 28J ayat (1) dan Pasal \n28J ayat (2) UUD NRI Tahun 1945;",
+      "start_line": 966,
+      "end_line": 973
+    },
+    {
+      "heading": "51. Bahwa maka dari itu materi muatan dari Pasal 76 ayat (4), Pasal 252 ayat",
+      "slug": "51-bahwa-maka-dari-itu-materi-muatan-dari-pasal-76-ayat-4-pasal-252-ayat",
+      "text": "(5), Pasal 318 ayat (4), dan Pasal 367 ayat (4) UU 17/2014 harus dinyatakan \nbertentangan dengan UUD NRI Tahun  1945 sepanjang tidak dimaknai \nanggota DPR, DPD, DPRD Provinsi dan DPRD Kabupaten/Kota hanya dapat \ndipilih untuk satu kali masa jabatan atau setidak -tidaknya dapat dipilih \nkembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan. \nIV.  PETITUM \nBahwa berdasarkan dari seluruh pokok argumentasi dan dalil yang telah \ndiuraikan tersebut oleh para Pemohon sebagaimana telah diuraikan pada \nPosita, maka para Pemohon mengajukan permohonan kepada Yang Mulia \nMajelis Hakim Mahkamah Konstitusi yang memeriksa, mengadili, dan menguji \nPermohonan para Pemohon untuk kiranya berkenan memberikan putusan \ndalam amar putusan sebagai berikut:",
+      "start_line": 975,
+      "end_line": 986
+    },
+    {
+      "heading": "2. Menyatakan bahwa Pasal 76 ayat (4) Undang -Undang Nomor 17 Tahun",
+      "slug": "2-menyatakan-bahwa-pasal-76-ayat-4-undang-undang-nomor-17-tahun",
+      "text": "2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, \nDewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah \n(Lembaran Negara Tahun 2014 N omor 182, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5568) bertentangan dengan UUD NRI Tahun \n1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang tidak \ndimaknai “dan dapat dipilih kembali pada jabatan yang sama, hanya \nuntuk satu kali masa jabatan”;",
+      "start_line": 989,
+      "end_line": 995
+    },
+    {
+      "heading": "3. Menyatakan bahwa Pasal 252 ayat (5) Undang -Undang Nomor 17 Tahun",
+      "slug": "3-menyatakan-bahwa-pasal-252-ayat-5-undang-undang-nomor-17-tahun",
+      "text": "2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, \nDewan Perwakilan Daerah, Dan Dewan Perwakilan Rakyat Daerah \n(Lembaran Negara Tahun 2014 Nomor 182, Tambahan Lem baran Negara \nRepublik Indonesia Nomor 5568) bertentangan dengan UUD NRI Tahun \n1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang tidak \ndimaknai “dan dapat dipilih kembali pada jabatan yang sama, hanya \nuntuk satu kali masa jabatan”; \n\n 25",
+      "start_line": 997,
+      "end_line": 1005
+    },
+    {
+      "heading": "4. Menyatakan bahwa Pasal 318 ayat (4) Undang -Undang Nomor 17 Tahun",
+      "slug": "4-menyatakan-bahwa-pasal-318-ayat-4-undang-undang-nomor-17-tahun",
+      "text": "2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, \nDewan Perwakilan Daerah, Dan Dewan Perwakilan Rakyat Daerah \n(Lembaran Negara Tahun 2014 Nomor 182, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5568) bertentangan dengan UUD NRI Tahun \n1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang tidak \ndimaknai “dan dapat dipilih kembali pada jabatan yang sama, hanya \nuntuk satu kali masa jabatan”;",
+      "start_line": 1007,
+      "end_line": 1013
+    },
+    {
+      "heading": "5. Menyatakan bahwa Pasal 367 ayat (4 ) Undang-Undang Nomor 17 Tahun",
+      "slug": "5-menyatakan-bahwa-pasal-367-ayat-4-undang-undang-nomor-17-tahun",
+      "text": "2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, \nDewan Perwakilan Daerah, Dan Dewan Perwakilan Rakyat Daerah \n(Lembaran Negara Tahun 2014 Nomor 182, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5568) bertentangan dengan UUD NRI Tahun \n1945 dan tidak mempunyai kekuatan hukum mengikat sepanjang tidak \ndimaknai “dan dapat dipilih kembali pada jabatan yang sama, hanya \nuntuk satu kali masa jabatan”;",
+      "start_line": 1015,
+      "end_line": 1021
+    },
+    {
+      "heading": "6. Memerintahkan pemuatan amar putusan Majelis Hakim Mahkamah",
+      "slug": "6-memerintahkan-pemuatan-amar-putusan-majelis-hakim-mahkamah",
+      "text": "Konstitusi dalam Berita Negara Republik Indonesia sebagaimana mestinya. \nAtau apabila Majelis Hakim Mahkamah Konstitusi memiliki  pendapat lain, \nmohon putusan yang seadil-adilnya (ex aequo et bono). \n[2.2] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon  \nmengajukan alat bukti surat atau tulisan yang diberi tanda Bukti P-1 sampai dengan \nBukti P -7, yang telah disahkan dalam persidangan Mahkamah pada tanggal 16 \nDesember 2024, sebagai berikut:",
+      "start_line": 1023,
+      "end_line": 1029
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang -Undang Nomor 17 Tahun 2014 tentang",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-17-tahun-2014-tentang",
+      "text": "Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, \nDewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat \nDaerah;",
+      "start_line": 1031,
+      "end_line": 1033
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi U ndang-Undang Dasar Negara Republik Indonesia",
+      "slug": "2-bukti-p-2-fotokopi-u-ndang-undang-dasar-negara-republik-indonesia",
+      "text": "Tahun 1945;",
+      "start_line": 1035,
+      "end_line": 1035
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Pemohon I atas nama",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-pemohon-i-atas-nama",
+      "text": "Indri Hafsari;",
+      "start_line": 1037,
+      "end_line": 1037
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Tanda Anggota (KTA) Pe mohon I atas nama",
+      "slug": "5-bukti-p-5-fotokopi-kartu-tanda-anggota-kta-pe-mohon-i-atas-nama",
+      "text": "Indri Hafsari; \n\n 26",
+      "start_line": 1040,
+      "end_line": 1042
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Keputusan Komisi Pemilihan Umum Kota Bandung",
+      "slug": "6-bukti-p-6-fotokopi-keputusan-komisi-pemilihan-umum-kota-bandung",
+      "text": "Nomor 253  Tahun 2023 tentang Daftar Calon Tetap Anggota \nDewan Perwakilan Rakyat Daerah Kota Bandung Dalam \nPemilihan Umum Tahun 2024;",
+      "start_line": 1044,
+      "end_line": 1046
+    },
+    {
+      "heading": "7. Bukti P-7 : Fotokopi Keputusan Komisi Pemilihan Umum Kota Bandung",
+      "slug": "7-bukti-p-7-fotokopi-keputusan-komisi-pemilihan-umum-kota-bandung",
+      "text": "Nomor 539 Tahun 2024 tentang Penetapan Hasil Pemilihan \nUmum Anggota Dewan Perwakilan Rakyat Daerah Kota \nBandung Tahun 2024. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam Berita Acara \nPersidangan, ya ng merupakan satu kesatuan yang tidak terpisahkan dengan \nputusan ini.",
+      "start_line": 1048,
+      "end_line": 1054
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah  \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun 1945), \nPasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi sebagaimana telah diub ah terakhir dengan Undang -Undang Nomor 7 \nTahun 2020 tentang Perubahan Atas Undang -Undang Nomor 24 Tahun 2003 \ntentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 \nNomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554, \nselanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor \n48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia \nNomor 5076, selanjutnya disebut UU 48/2 009), salah satu kewenangan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji undang -undang terhadap UUD NRI Tahun \n1945.  \n[3.2] Menimbang bahwa oleh karena permohonan yang diajukan a quo adalah \npengujian konstitusionalitas norma undang -undang, in casu pengujian materiil \nUndang-Undang Nomor  17 Tahun 2014 tentang Majelis Permusyawaratan Rakyat, \nDewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan \nRakyat Daerah (Lembaran N egara Republik Indonesia Tahun 201 4 Nomor 1 82, \n\n 27 \nTambahan Lembaran Negara Republik Indonesia Nomor 5568, selanjutnya disebut \nUU 17/2014),  terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang \nmengadili permohonan a quo. \nKedudukan Hukum Para Pemohon \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undang -undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak dan/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia (termasuk kelompok orang yang \nmempunyai kepentingan sama); \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai dengan \nperkembangan masyarakat  dan prinsip Negara Kesatuan Republik Indonesia \nyang diatur dalam undang-undang;",
+      "start_line": 1056,
+      "end_line": 1091
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, para Pemohon dalam pengujian undang-undang terhadap \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan peng ujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 yang diucapkan dalam sidang terbuka untuk umum pada \ntanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 1 1/PUU-V/2007 \nyang diucapkan dalam sidang terbuka untuk umum pada tanggal 20 September \n2007, serta putusan-putusan selanjutnya berpendirian bahwa kerugian hak dan/atau \nkewenangan konstitusional sebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK \nharus memenuhi lima syarat, yaitu: \n\n 28 \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD NRI 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 1094,
+      "end_line": 1114
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (khusus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-khusus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 1116,
+      "end_line": 1117
+    },
+    {
+      "heading": "d. adanya hubungan sebab -akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU MK \ndan syarat-syarat kerugian hak dan/atau kewenangan konstitusional sebagaimana \ndiuraikan pada Paragraf [3.3] dan Paragraf  [3.4] di atas, selanjutnya Mahkamah \nakan mempertimbangkan kedudukan hukum para Pemohon sebagai berikut:",
+      "start_line": 1119,
+      "end_line": 1125
+    },
+    {
+      "heading": "1. Bahwa para Pemohon mengajukan pengujian ma teriil pasal-pasal UU 17/2014",
+      "slug": "1-bahwa-para-pemohon-mengajukan-pengujian-ma-teriil-pasal-pasal-uu-17-2014",
+      "text": "yang menyatakan sebagai berikut:  \nPasal 76 ayat (4) \n“Masa jabatan anggota DPR adalah 5 (lima) tahun dan berakhir pada saat \nanggota DPR yang baru mengucapkan sumpah/janji.” \nPasal 252 ayat (5) \n“Masa jabatan anggota DPD adalah 5 (lima) tahun dan berakhir pada saat \nanggota DPD yang baru mengucapkan sumpah/janji.” \nPasal 318 ayat (4) \n“Masa jabatan anggota DPRD provinsi adalah 5 (lima) tahun dan berakhir \npada saat anggota DPRD provinsi yang baru mengucapkan sumpah/janji.” \nPasal 367 ayat (4) \n“Masa jabatan anggota DPRD kabupaten/kota adalah 5 (lima) tahun dan \nberakhir pada saat anggota DPRD kabupaten/kota yang baru mengucapkan \nsumpah/janji.”",
+      "start_line": 1127,
+      "end_line": 1141
+    },
+    {
+      "heading": "2. Bahwa Pemohon I dan Pemohon II menjelaskan memiliki hak konstitusional",
+      "slug": "2-bahwa-pemohon-i-dan-pemohon-ii-menjelaskan-memiliki-hak-konstitusional",
+      "text": "sebagaimana dijamin oleh Pasal 28D ayat (1) dan ayat (3), Pasal 28H ayat (2), \nPasal 28J ayat (1) dan ayat (2) UUD NRI Tahun 1945.",
+      "start_line": 1143,
+      "end_line": 1144
+    },
+    {
+      "heading": "3. Bahwa Pemohon I adalah perseorangan warga negara Indonesia yang",
+      "slug": "3-bahwa-pemohon-i-adalah-perseorangan-warga-negara-indonesia-yang",
+      "text": "dibuktikan dengan identitas kepemilikan Kartu Tanda Penduduk (KTP) [vide \n\n 29 \nBukti P-3] sebagai anggota Partai Solidaritas Indonesia (PSI) [vide Bukti P -5] \nyang merupakan calon anggota DPRD Kota Bandung dalam Pemilu 2024 [vide \nBukti P-6], namun tidak terpilih [vide Bukti P -7], sebab Pemohon I berhadapan \ndengan petahana yang berstatus sebagai anggota DPRD Kota Bandung lebih \ndari 2 (dua) periode yang memiliki relasi kuasa senioritas. Sedangkan Pemohon \nII adalah perseorangan warga negara Indonesia yang dibuktikan dengan \nidentitas kepemilikan KTP [vide Bukti P -4] sebagai kader partai politik yang \nbertujuan mulia untuk mengadvokasi kepentingan warga dan membutuhkan \njenjang karir politik yang jelas. Namun hal tersebut tidak terwujud karena \nPemohon II selalu dinomorduakan jika dibandingkan dengan senior -senior \npolitisi yang menjadi anggota legislatif lebih dari 2 (dua) periode.",
+      "start_line": 1146,
+      "end_line": 1159
+    },
+    {
+      "heading": "4. Bahwa Pemohon I dan Pemohon II mengalami atau setidak-tidaknya potensial",
+      "slug": "4-bahwa-pemohon-i-dan-pemohon-ii-mengalami-atau-setidak-tidaknya-potensial",
+      "text": "akan mengalami kerugian konstitusional akibat berlakunya Pasal 76 ayat (4), \nPasal 252 ayat (5), Pasal 318 ayat (4), dan Pasal 367 ayat (4) UU 17/2014, \nkarena menurut Pemohon  I dan Pemohon II , berlakunya norma pasal -pasal \ntersebut melanggar hak konstitusional Pemohon  I dan Pemohon II  untuk \nmendapatkan kesempatan yang sama dalam pemerintahan dan mereduksi \npartisipasi Pemohon  I dan Pemohon II  untuk turut se rta menjadi peserta \npemilihan anggota legislatif , karena pasal -pasal a quo tidak membatasi \nperiodisasi masa jabatan anggota legislatif. \n Bahwa setelah Mahkamah mencermati  dan membaca secara saksama \nuraian para Pemohon dalam menjelaskan kedudukan hukumnya d an bukti -bukti \nyang diajukan, berkenaan dengan pengujian norma Pasal 76 ayat (4), Pasal 252 \nayat (5), Pasal 318 ayat (4), dan Pasal 367 ayat (4) UU 17/2014, menurut \nMahkamah, Pemohon I yang berkeinginan untuk mencalonkan diri sebagai calon \nanggota legislatif (dalam hal ini calon anggota DPRD Kota Bandung) dan Pemohon \nII yang merupakan kader partai politik yang membutuhkan jenjang karir politik yang \njelas, telah dapat menguraikan hak konstitusionalnya yang dijamin oleh UUD NRI \nTahun 1945 yang dianggap dirugikan dengan berlakunya norma pasal -pasal yang \ndimohonkan pengujian. Pemohon  I dan Pemohon II  juga dapat menerangkan \nadanya hubungan sebab -akibat (causal verband) antara anggapan kerugian hak \nkonstitusional yang potensial terjadi dengan b erlakunya norma undang -undang \nyang dimohonkan pengujian tersebut yang menyebabkan Pemohon I dan Pemohon \nII terhalangi haknya untuk menjadi calon anggota legislatif dan berkesempatan \n\n 30 \nmengembangkan karir politiknya karena tidak adanya pembatasan masa jabatan  \nanggota legislatif. Dengan demikian, berdasarkan pertimbangan hukum tersebut, \nterlepas dari terbukti atau tidak terbuktinya dalil Pemohon I dan Pemohon II, menurut \nMahkamah, Pemohon I dan Pemohon II (yang selanjutnya disebut para Pemohon) \nmemiliki kedudukan hukum untuk mengajukan permohonan a quo.   \n[3.6] Menimbang bahwa oleh karena Mahkamah berwenang mengadili  \npermohonan a quo dan para Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai Pemohon dalam permohonan a quo maka selanjutnya Mahkamah akan \nmempertimbangkan pokok permohonan para Pemohon. \nPokok Permohonan \n[3.7]  Menimbang bahwa para Pemohon mendalilkan norma Pasal 76 ayat (4), \nPasal 252 ayat (5), Pasal 318 ayat (4), dan Pasal 367 ayat (4) UU 17/2014 yang \ndimohonkan pengujiannya bertentangan dengan Pasal 28D ayat (1) dan ayat (3), \nPasal 28H ayat (2), Pasal 28J ayat (1) dan ayat (2) UUD NRI  Tahun 1945 \n(selengkapnya dimuat pada bagian Duduk Perkara) yang apabila dipahami dan \ndirumuskan oleh Mahkamah pada pokoknya sebagai berikut.",
+      "start_line": 1161,
+      "end_line": 1200
+    },
+    {
+      "heading": "1. Bahwa menurut para Pemohon, ketiadaan pembatasan periodisasi masa",
+      "slug": "1-bahwa-menurut-para-pemohon-ketiadaan-pembatasan-periodisasi-masa",
+      "text": "jabatan anggota DPR, DPD, DPRD Provinsi dan DPRD Kabupaten/Kota \nmenyebabkan kebuntuan kaderisasi partai politik yang tidak dapat mengorbitkan \nkader-kader lain untuk menjadi pej abat publik, dalam hal ini anggota legislatif. \nHal ini juga membuka peluan g terjadinya korupsi, kolusi dan nepotisme di \nlembaga negara legislatif. Oleh karena itu, menurut para Pemohon, pembatasan \nperiodisasi yang diatur oleh hukum menjadi dasar konstitusionalisme modern \nyang bertujuan untuk mencegah penyalahgunaan wewenang, meningkatkan \nkualitas pemerintahan, dan menciptakan regenerasi kepemimpinan. \nPembatasan kekuasaan juga diatur dalam Pasal 7 UUD NRI  Tahun 1945 yang \nmembatasi masa jabatan presiden dan wakil presiden menjadi dua periode;",
+      "start_line": 1202,
+      "end_line": 1211
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, ketentuan Pasal 76 ayat (4), Pasal 252 ayat (5),",
+      "slug": "2-bahwa-menurut-para-pemohon-ketentuan-pasal-76-ayat-4-pasal-252-ayat-5",
+      "text": "Pasal 318 ayat (4), dan Pasal 367 ayat (4) UU 17/2014 harus membatasi masa \njabatan anggota DPR, DPD, dan DPRD selama 2 (dua) periode a gar masa \njabatan anggota parlemen memiliki kesetaraan dengan masa jabatan presiden \ndan wakil presiden, maupun kepala daerah yang kesemuanya merupakan \n\n 31 \njabatan publik dengan segala kewenangannya guna mencegah kekuasaan yang \nabsolut dan penyalahgunaan wewenan g. Bahkan, beberapa jabatan lainnya \nhanya dibatasi untuk dua periode, yakni anggota Komisi Pemilihan Umum \n(KPU), Badan Pengawas Pemilu (Bawaslu), Hakim Konstitusi, dan Komisi \nYudisial;",
+      "start_line": 1213,
+      "end_line": 1223
+    },
+    {
+      "heading": "3. Bahwa menurut para Pemohon, secara tekstual sistematis, bunyi ketentuan",
+      "slug": "3-bahwa-menurut-para-pemohon-secara-tekstual-sistematis-bunyi-ketentuan",
+      "text": "pada pasal -pasal a quo yang diuji konstitusionalitasnya sebenarnya telah \nmemberikan batasan masa jabatan anggota DPR, DPD, DPRD Provinsi dan \nDPRD Kabupaten/Kota selama lima tahun dan selanjutnya digantikan oleh \nanggota yang baru. Batasan tersebut dapat dibaca dari bunyi frasa “dan berakhir \npada saat anggota DPR, DPD, DPRD Provinsi atau DPRD Kabupaten/Kota \nyang baru mengucapkan sumpah/janji ”. Kata “anggota yang baru ” harus \ndimaknai sebagai “orang baru”, bukan “periode baru”. Namun demikian, ternyata \nfrasa i tu ditafsirkan bukan sebagai pembatasan masa jabatan, melainkan \nsebagai justifikasi/legitimasi dapat dipilihnya anggota berkali-kali (tanpa batas), \nsehingga anggota yang lama dapat kembali menjadi anggota untuk periode \nberikutnya tanpa adanya pembatasan;",
+      "start_line": 1225,
+      "end_line": 1235
+    },
+    {
+      "heading": "4. Bahwa menurut para Pemohon, ketiadaan pembatasan periodisasi masa",
+      "slug": "4-bahwa-menurut-para-pemohon-ketiadaan-pembatasan-periodisasi-masa",
+      "text": "jabatan anggota DPR, DPD, DPRD Provinsi, atau DPRD Kabupaten/Kota \nmengakibatkan kesempatan warga negara untuk menjadi anggota legislatif \ntersebut semakin sempit karena anggota legislatif yan g lama memiliki relasi \nkekuasaan lebih besar dibandingkan dengan anggota legislatif baru yang belum \npernah menjabat sebelumnya. Hal tersebut membatasi regenerasi anggota \nlegislatif, padahal pembatasan masa jabatan anggota legislatif dapat membawa \nide-ide baru dalam lembaga legislatif. \n Berdasarkan uraian dalil-dalil permohonan di atas, para Pemohon \nmemohon kepada Mahkamah agar menjatu hkan putusan yang pada pokoknya  \nmenyatakan sebagai berikut.",
+      "start_line": 1237,
+      "end_line": 1246
+    },
+    {
+      "heading": "1. Pasal 76 ayat (4) UU 17/2014 bertentangan dengan UUD NRI Tahun 1945 dan",
+      "slug": "1-pasal-76-ayat-4-uu-17-2014-bertentangan-dengan-uud-nri-tahun-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimaknai “dan \ndapat dipilih kembali pada jabatan yang sama, hanya untuk satu kali masa \njabatan”;",
+      "start_line": 1248,
+      "end_line": 1250
+    },
+    {
+      "heading": "2. Pasal 252 ayat (5) UU 17/2014 bertentangan dengan UUD NRI Tahun 1945 dan",
+      "slug": "2-pasal-252-ayat-5-uu-17-2014-bertentangan-dengan-uud-nri-tahun-1945-dan",
+      "text": "tidak mempunyai kekua tan hukum mengikat sepanjang tidak dimaknai “dan \n\n 32 \ndapat dipilih kembali pada jabatan yang sama, hanya untuk satu kali masa \njabatan”;",
+      "start_line": 1252,
+      "end_line": 1256
+    },
+    {
+      "heading": "3. Pasal 318 ayat (4) UU 17/2014 bertentangan dengan UUD NRI Tahun 1945 dan",
+      "slug": "3-pasal-318-ayat-4-uu-17-2014-bertentangan-dengan-uud-nri-tahun-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat sepanjang t idak dimaknai “dan \ndapat dipilih kembali pada jabatan yang sama, hanya untuk satu kali masa \njabatan”;",
+      "start_line": 1258,
+      "end_line": 1260
+    },
+    {
+      "heading": "4. Pasal 367 ayat (4) UU 17/2014 bertentangan dengan UUD NRI Tahun 1945 dan",
+      "slug": "4-pasal-367-ayat-4-uu-17-2014-bertentangan-dengan-uud-nri-tahun-1945-dan",
+      "text": "tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimaknai “dan \ndapat dipil ih kembali pada jabatan yang sama, hanya untuk satu kali masa \njabatan”; \n[3.8] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon \ntelah mengajukan alat bukti surat atau tulisan yang diberi tanda Bukti P -1 sampai \ndengan Bukti P-7 yang telah disahkan dalam persidangan Mahkamah pada tanggal \n16 Desember 2024 (selengkapnya dimuat pada bagian Duduk Perkara). \n[3.9] Menimbang bahwa sebelum mempertimbangkan lebih lanjut \npermohonan para Pemohon, oleh karena isu konstitusional yang dipermasalahkan \npara Pemohon  menurut Mahkamah telah jelas, sehingga tidak ada urgensi dan \nrelevansi lagi untuk meminta keterangan pihak -pihak sebagaimana yang \ndimaksudkan dalam Pasal 54 UU MK. \n[3.10] Menimbang bahwa pa ra Pemohon mendalilkan pada pokoknya norma \nPasal 76 ayat (4), Pasal 252 ayat (5), Pasal 318 ayat (4), dan Pasal 367 ayat (4) UU \n17/2014 menyebabkan kebuntuan kaderisasi partai politik yang tidak dapat \nmengorbitkan kader-kader lain untuk menjadi anggota legislatif, sehingga membuka \npeluang terjadinya korupsi, kolusi dan nepotisme di lembaga legislati f. Terlebih, \nketiadaan pembatasan periodisasi masa jabatan anggota DPR, DPD, DPRD \nProvinsi, atau DPRD Kabupaten/Kota mengakibatkan kesempatan warga negara \nuntuk menjadi anggota legislatif  semakin sempit. Terhadap hal tersebut, setelah \nmembaca secara saksama dalil -dalil permohonan para Pemohon dan bukti -bukti \nyang diajukan dalam persidangan, persoalan konstitusionalitas yang harus dijawab \noleh Mahkamah adalah berkaitan dengan isu yang sama, yaitu apakah ketiadaan \npembatasan periodisasi masa jabatan anggota DPR, DPD, DPRD Provinsi, atau \nDPRD Kabupaten/Kota sebagaimana ditentukan dalam Pasal 76 ayat (4), Pasal 252 \n\n 33 \nayat (5), Pasal 318 ayat (4), dan Pasal 367 ayat (4) UU 17/2014 bertentangan \ndengan UUD NRI Tahun 1945. \n[3.11] Menimbang bahwa para Pemohon mempersoalkan konstitusionalitas \nnorma Pasal 76 ayat (4), Pasal 252 ayat (5), Pasal 318 ayat (4), dan Pasal 367 ayat \n(4) UU 17/2014 yang pada pokoknya memohon kepada  Mahkamah agar anggota \nDPR, DPD, DPRD Provinsi, dan DPRD Kabupaten/Kota dapat dipilih kembali pada \njabatan yang sama, hanya untuk satu kali masa jabatan . Setelah Mahkamah \nmencermati secara saksama dalil para Pemohon a quo, telah ternyata substansi \nnorma Pasal 76 ayat (4), Pasal 252 ayat (5), Pasal 318 ayat (4), dan Pasal 367 ayat \n(4) UU 17/2014 yang dipersoalkan sama dengan yang telah diputus oleh Mahkamah \ndalam Putusan Mahkamah Konstitusi Nomor 1 57/PUU-XXII/2024 yang telah \ndiucapkan sebelumnya  dalam sidang pleno terbuka untuk umum pada tanggal 2 \nJanuari 2025, sebagaimana diuraikan sebagai berikut: \n[3.10]   Menimbang berkenaan dengan dalil Pemohon yang mengatakan \npembatasan periodisasi masa jabatan telah diberlakukan untuk beberapa jabatan \nyang dipilih melalui proses pemilihan umum ( elected official). Terhadap hal tersebut, \nterdapat salah satu pertimbangan hukum Mahkamah, yang terkait dengan dalil \nPemohon a quo yakni dalam Putusan Mahkamah Konstitusi Nomor 108/PUU-X/2012 \nyang diucapkan dalam sidang pleno terbuka untuk umum pada tanggal 13 Maret \n2013, pada Paragraf [3.16] antara lain menyatakan: \n“[3.16]  ... Pembatasan masa jabatan Presiden tidak dapat dipersamakan \ndengan pembatasan yang sama untuk masa jabatan anggota DPR dan DPRD \nkarena sifat jabatan dari kedua jabatan itu berbeda. Presiden adalah jabatan \ntunggal yang memiliki kewenangan penuh dalam menjalankan kekuasaan \npemerintahan, sehingga memang diperlukan adanya pembat asan untuk \nmenghindari kesewenang-wenangan. Adapun anggota DPR dan DPRD adalah \njabatan majemuk yang setiap pengambilan keputusan dalam menjalankan \nkewenangannya dilakukan secara kolektif, sehingga sangat kecil \nkemungkinannya untuk terjadinya kesewenang -wenangan. Bagi partai -partai \npolitik dapat saja melakukan pembatasan masa jabatan terhadap anggotanya \nuntuk duduk sebagai anggota DPR dan DPRD. Hal itu adalah kebijakan internal \nmasing-masing partai politik yang tidak bertentangan dengan konstitusi. Oleh \nkarena itu, pembatasan masa jabatan Presiden diatur secara tegas dalam UUD \n1945.”  \n Berdasarkan kutipan pertimbangan hukum tersebut di atas, menurut \nMahkamah, adanya ketentuan periodisasi masa jabatan Presiden telah diatur secara \ntegas dalam ketentuan Pasal 7 UUD NRI Tahun 1945. Namun, hal ini berbeda dengan \nketentuan terkait masa jabatan anggota legislatif, in casu anggota DPR, anggota DPD, \nanggota DPRD Provinsi, dan anggota DPRD Kabupaten/Kota, konstitusi tidak \nmengatur adanya pembatasan periodisasi masa jaba tan bagi anggota legislatif, \nkarena UUD NRI Tahun 1945 hanya menentukan pemilihan umum dilaksanakan \nsecara berkala setiap lima tahun sekali [vide Pasal 22E ayat (1) UUD NRI Tahun \n1945]. Lebih lanjut, pemilihan umum diselenggarakan untuk memilih anggota DPR , \nanggota DPD, Presiden dan Wakil Presiden, serta anggota DPRD [vide Pasal 22E \nayat (2) UUD NRI Tahun 1945]. Sejalan dengan hal itu, ketentuan terkait masa jabatan \n\n 34 \nanggota legislatif diatur kembali dalam Pasal 76 ayat (4), Pasal 252 ayat (5), Pasal \n318 ayat (4), dan Pasal 367 ayat (4) UU 17/2014 yang pada pokoknya menentukan \nmasa jabatan anggota legislatif adalah 5 (lima) tahun. Artinya, ihwal pembatasan \nperiodisasi masa jabatan anggota legislatif memang tidak diatur baik dalam ketentuan \nUUD NRI Tahun 1945 maupun dalam tataran undang -undang, in casu UU 17/2014, \nsedangkan yang diatur hanya ketentuan terkait masa jabatannya.  \n Sementara itu, apabila dikaitkan dengan sifat jabatan antara presiden dengan \nanggota legislatif, keduanya memiliki karakteristik kewena ngan dalam pengambilan \nkeputusan yang berbeda. Jabatan Presiden adalah jabatan tunggal yang memiliki \nwewenang penuh dalam menjalankan kekuasaan pemerintahan. Demikian pula \ndengan kepala daerah yang juga merupakan jabatan tunggal di mana dalam \npengambilan keputusan eksekutifnya dilakukan secara mandiri. Sedangkan, jabatan \nlegislatif in casu anggota DPR, anggota DPD, anggota DPRD Provinsi, dan anggota \nDPRD Kabupaten/Kota merupakan jabatan majemuk di mana setiap pengambilan \nkeputusan dalam rangka menjalankan t ugas dan wewenang dilakukan dengan \nmekanisme kerja kolektif. Artinya, setiap pengambilan keputusan sedapat mungkin \ndengan mengutamakan musyawarah mufakat. Oleh karenanya, pengambilan \nkeputusan dilakukan secara kolektif.  \n Bahwa dengan demikian, walaupun jabatan Presiden dan kepala daerah itu \nsama dengan jabatan anggota legislatif dipilih melalui proses pemilihan umum \n(elected official ), namun terkait ketentuan masa jabatan beserta periodesasi yang \nmelekat pada jabatan presiden dan kepala daerah, tidak dapat dipersamakan karena \nmasing-masing jabatan tersebut memiliki karakteristik dan sifat jabatan yang berbeda. \nTerlebih, ketentuan terkait dengan pembatasan periodisasi masa jabatan anggota \nlegislatif tidak diatur dalam UUD NRI Tahun 1945 maupun dalam undang-undang.  \n[3.11]   Menimbang bahwa selanjutnya Pemohon juga mendalilkan mengenai \nKetiadaan pembatasan periodisasi masa jabatan anggota legislatif, mengakibatkan \nanggota legislatif berpotensi memanfaatkan segala cara untuk memenangkan \nkontestasi pemilu legisl atif guna mempertahankan kekuasaannya selama mungkin . \nBerkenaan dengan dalil Pemohon a quo , Mahkamah telah memutus permohonan \nNomor 114/PUU-XX/2022 yang berkelindan dengan adanya praktik politik uang dalam \nproses pencalonan anggota DPR/DPRD. Dalam hal ini, paling tidak, kelindan tersebut \ndapat ditelusuri dari pertimbangan hukum yang termaktub dalam Sub -paragraf \n[3.31.4] Putusan Mahkamah Konstitusi Nomor 114/PUU -XX/2022 yang diucapkan \npada sidang pleno terbuka untuk umum pada tanggal 15 Juni 2023, yang antara lain \nmenyatakan: \n“[3.31.4] ... Bahwa karena praktik politik uang potensial terjadi dalam semua \nsistem pemilihan umum maka untuk menghilangkan atau setidak -tidaknya \nmeminimalisir terjadinya praktik politik uang dalam penyelenggaraan pemilihan \numum, seharusnya dilakukan 3 (tiga) langk ah konkret secara simultan. \nPertama, partai politik dan para calon anggota DPR/DPRD harus memperbaiki \ndan meningkatkan komitmen untuk menjauhi dan bahkan sama sekali tidak \nmenggunakan dan terjebak dalam praktik politik uang setiap tahapan \npenyelenggaraan p emilihan umum. Kedua, penegakan hukum harus benar -\nbenar dilaksanakan terhadap setiap pelanggaran pemilihan umum, khususnya \npelanggaran yang berkenaan dengan praktik politik uang, tanpa membeda -\nbedakan latar belakangnya baik penyelenggara maupun peserta pem ilihan \numum. Khusus calon anggota DPR/DPRD yang terbukti terlibat dalam praktik \npolitik uang harus dibatalkan sebagai calon dan diproses secara hukum sesuai \ndengan peraturan perundang-undangan yang berlaku. Bahkan, untuk efek jera, \npartai politik yang terb ukti membiarkan berkembangnya praktik politik uang \ndapat dijadikan alasan oleh Pemerintah untuk mengajukan permohonan \npembubaran partai politik yang bersangkutan. Ketiga, masyarakat perlu \ndiberikan kesadaran dan pendidikan politik untuk tidak menerima dan mentolerir \n\n 35 \npraktik money politics karena jelas -jelas merusak prinsip -prinsip pemilihan \numum yang demokratis. Peningkatan kesadaran dimaksud tidak saja menjadi \ntanggung jawab pemerintah dan negara serta penyelenggara pemilihan umum, \nnamun juga tanggung jawa b kolektif partai politik, civil society , dan pemilih . \nSikap inipun sesungguhnya merupakan penegasan Mahkamah, bahwa praktik \npolitik uang tidak dapat dibenarkan sama sekali.”  \n Berdasarkan kutipan pertimbangan hukum tersebut di atas, menurut Mahkamah, \npraktik politik uang untuk memenangkan kontestasi pemilu legislatif potensial terjadi \ndalam semua kategori pemilu, namun demikian, pada pemilu anggota DPR/DPRD \nsetidak-tidaknya, peran serta partai politik merupakan salah satu faktor penting dalam \nmewujudkan pemilu yang demokratis. Adapun peran serta dimaksud adalah peran \nserta partai politik dalam meningkatkan komitmen guna menghindari, melawan, dan \nmendukung penegakan hukum terhadap praktik politik uang dalam kontestasi pemilu. \nHal ini, sesuai dengan ketentuan  Pasal 22E ayat (3) UUD NRI Tahun 1945, yang \nmenyatakan “peserta pemilihan umum untuk memilih anggota Dewan Perwakilan \nRakyat dan anggota Dewan Perwakilan Rakyat Daerah adalah partai politik”. Artinya, \nkonstitusi telah memberikan peran kepada partai politi k guna menjamin proses \npencalonan anggota DPR/DPRD dilaksanakan melalui pemilu yang demokratis. \nDalam konteks ini, partai politik diharapkan memiliki desain kelembagaan yang ideal \ndalam pola rekrutmen dan mekanisme kaderisasi yang terukur, terstruktur, dan  \nsistematis guna mendapatkan calon -calon anggota DPR/DPRD yang memiliki \nintegritas dan kapasitas, dengan tetap mengedepankan prinsip -prinsip pemilu yang \ndemokratis. Hal ini sejalan dengan ketentuan Pasal 29 ayat (1) dan ayat (1a) Undang-\nUndang Nomor 2 Tahu n 2011 tentang Perubahan Atas Undang -Undang Nomor 2 \nTahun 2008 tentang Partai Politik (UU 2/2011), yang pada pokoknya partai politik \nmelakukan rekrutmen terhadap warga negara Indonesia, yang salah satunya untuk \nmenjadi bakal calon anggota DPR/DPRD, dan rek rutmen tersebut dilakukan melalui \nkaderisasi secara demokratis. \n Bahwa dalam kaitannya dengan proses pencalonan, partai politik juga \ndiharapkan dapat ikut serta memberikan pendidikan politik bagi masyarakat, dengan \nberlandaskan Demokrasi Pancasila dan UUD NRI Tahun 1945. Adanya pendidikan \npolitik yang dilakukan oleh partai politik, diharapkan dapat meningkatkan pemahaman \nmasyarakat terkait hak dan kewajiban sebagai warga negara serta membentuk pribadi \nmasyarakat yang memiliki tanggungjawab dalam kehidupan b erbangsa dan \nbernegara [vide Pasal 1 angka 4 UU 2/2011). Artinya, dengan adanya pendidikan \npolitik, diharapkan akan meningkatkan partisipasi dan kontrol sosial masyarakat \nterhadap penyelenggaraan pemilu, in casu pemilu anggota DPR/DPRD. Selain itu, \nadanya pelaksanaan pendidikan politik oleh partai politik, dapat juga sekaligus \nmeningkatkan pemahaman masyarakat dalam memahami visi dan misi partai politik \nserta langkah kebijakan partai politik ke depannya. Sejalan dengan itu, pendidikan \npolitik juga penting d ilakukan oleh calon anggota DPD dalam rangka memberikan \npemahaman kepada masyarakat pemilih guna mengetahui visi dan misi masing -\nmasing calon anggota DPD dalam memperjuangkan kepentingan daerah pada proses \nkebijakan di tingkat nasional nantinya.  \n Bahwa de ngan demikian, persoalan terkait anggota legislatif berpotensi \nmemanfaatkan segala cara untuk memenangkan kontestasi pemilu legislatif guna \nmempertahankan kekuasaannya, sebenarnya lebih disebabkan karena sifatnya yang \nstruktural, dan bukan sekadar disebabkan karena ketiadaan pembatasan periodisasi \nmasa jabatan anggota legislatif. Oleh karena itu, diperlukan adanya penguatan \nkelembagaan partai politik, melalui kerja sama antara partai politik dengan para \npemangku kepentingan guna menciptakan penyelenggaran pemilu yang berdasarkan \nprinsip-prinsip demokrasi. Dengan demikian, persoalan terkait anggota legislatif \nberpotensi memanfaatkan segala cara untuk memenangkan kontestasi pemilu \nlegislatif guna mempertahankan kekuasaannya tidak dapat dijadikan dasar untuk \n\n 36 \nmengarahkan tudingan disebabkan oleh ketiadaan pembatasan periodisasi masa \njabatan anggota legislatif. \n[3.12]  Menimbang bahwa selain kedua dalil di atas, Pemohon juga mendalilkan \nadanya kecenderungan perilaku tindak pidana korupsi yang melibatkan anggota DPR \ndan DPRD. Terhadap dalil Pemohon a quo, menurut Mahkamah, untuk menangani \npersoalan tersebut, diperlukan adanya kerjasama antara partai politik dengan para \npemangku kepentingan dalam menjaga dan mengawal kinerja anggota DPR/DPRD \nterpilih agar tidak terjebak dalam praktik-praktik yang bertentangan dengan peraturan \nperundang-undangan. Sementara itu, apabila terdapat anggota legislatif yang terbukti \nmelakukan tindak pidana maka hal tersebut tidaklah serta -merta disebabkan \nketiadaan pembatasan periodisasi masa jabatan anggota legislatif, melainkan \ndipengaruhi antara lain oleh integritas masing-masing anggota legislatif. \n Dalam kaitan ini, ketika terdapat anggota DPR/DPRD yang terbukti melakukan \ntindak pidana dan telah dijatuhi putusan pengadilan yang mempunyai kekuatan \nhukum tetap, kemudian telah selesai menjalani hukumannya, maka secara serta \nmerta dikenakan ketentuan terkait pembatasan hak politik sementara untuk turut serta \ndalam pemilu, terhadap tindak pidana yang terbukti ancaman pidananya 5 (lima) \ntahun ke atas. Berkenaan dengan hal tersebut, Mahkamah melalui Putusan \nMahkamah Kontitusi Nomor  87/PUU-XX/2022 yang diucapkan dalam sidang pleno \nterbuka untuk umum pada tanggal 30 November 2022, telah berpendirian \nsebagaimana diuraikan pada Paragraf [3.13], sebagai berikut: \n“[3.13] ... Mahkamah berpendapat terhadap ketentuan norma Pasal 240 ayat \n(1) huruf g UU 7/2017 perlu dilakukan penyelarasan dengan memberlakukan \npula untuk menunggu  jangka waktu 5 (lima) tahun setelah mantan terpidana \nselesai menjalani pidana penjara berdasarkan putusan pengadilan yang telah \nmempunyai kekuatan hukum tetap dan ada nya kejujuran atau keterbukaan \nmengenai latar belakang jati dirinya sebagai mantan terpidana sebagai syarat \ncalon anggota DPR, DPRD Provinsi, dan DPRD Kabupaten/Kota, di samping \nsyarat lain yang juga ditambahkan sebagaimana pemaknaan konstitusional \nsecara bersyarat yang terdapat dalam Pasal 7 ayat (2) huruf g UU 10/2016. \nSebab, sebagaimana telah dikutip dalam pertimbangan hukum putusan-putusan \nsebelumnya masa tunggu 5 (lima) tahun setelah terpidana menjalankan masa \npidana adalah waktu yang dipandang cukup u ntuk melakukan introspeksi diri \ndan beradaptasi dengan masyarakat lingkungannya bagi calon kepala daerah, \ntermasuk dalam hal ini calon anggota DPR, DPRD provinsi, dan DPRD \nkabupaten/kota. Demikian halnya persyaratan adanya keharusan menjelaskan \nsecara terb uka kepada publik tentang jati dirinya dan tidak menutupi latar \nbelakang kehidupannya adalah dalam rangka memberikan bahan pertimbangan \nbagi calon pemilih dalam menilai atau menentukan pilihannya. Sebab, terkait \ndengan hal ini, pemilih dapat secara kritis menilai calon yang akan dipilihnya \nsebagai pilihan baik yang memiliki kekurangan maupun kelebihan untuk \ndiketahui oleh masyarakat umum ( notoir feiten ). Oleh karena itu, hal ini \nterpulang kepada masyarakat atau rakyat sebagai pemilih untuk memberikan \nsuaranya kepada calon yang merupakan seorang mantan terpidana atau tidak \nmemberikan suaranya kepada calon tersebut. Selain itu, untuk pengisian \njabatan melalui pemilihan ( elected officials), pada akhirnya masyarakat yang \nmemiliki kedaulatan tertinggi yang akan menentukan pilihannya; \n Bahwa selanjutnya, berkaitan dengan syarat bukan sebagai pelaku tindak pidana \nsecara berulang-ulang penting bagi Mahkamah untuk menegaskan kembali  karena \nfakta empirik menunjukkan bahwa  terdapat beberapa calon kepala daerah yang \npernah menjalani pidana dan tidak diberi waktu yang  cukup untuk beradaptasi dan \nmembuktikan diri telah secara faktual melebur dalam masyarakat ternyata terjebak  \nkembali dalam perilaku tidak terpuji, bahkan mengulang kembali tindak pidana  yang \nsama (in casu secara faktual khususnya tindak pidana korupsi), sehingga makin jauh \n\n 37 \ndari tujuan menghadirkan pemimpin yang bersih, jujur, dan berintegritas. Oleh karena \nitu, demi melindungi kepentingan yang lebih besar, yaitu dalam hal ini kepentingan  \nmasyarakat akan pe mimpin yang bersih, berintegritas, dan mampu  memberi \npelayanan publik yang baik serta menghadirkan kesejahteraan bagi masyarakat yang \ndipimpinnya, Mahkamah tidak menemukan jalan lain kecuali  memberlakukan syarat \nkumulatif sebagaimana tertuang dalam  pertimbangan hukum putusan -putusan \nMahkamah Konstitusi yang telah dikutip tersebut di atas dan terakhir ditegaskan \ndalam amar Putusan Mahkamah Konstitusi Nomor 56/PUU -XVII/2019. Selain itu, \nlangkah demikian juga dipandang  penting oleh Mahkamah demi memberikan \nkepastian hukum serta mengembalikan makna esensial dari pemilihan calon anggota \nDPR, DPRD provinsi, dan DPRD kabupaten/kota, yakni menghasilkan  orang-orang \nyang memiliki kualitas dan integritas untuk menjadi pejabat publik dan pada saat yang \nsama tidak menghilangkan hak politik warga negara yang pernah menjadi terpidana \nuntuk tetap turut berpartisipasi di dalam pemerintahan.” \nBerdasarkan kutipan pertimbangan hukum sebagaimana dikemukakan di \natas, bagi calon anggota legislatif yang pernah menjadi terpidana harus telah melewati \njangka waktu 5 (lima) tahun setelah selesai menjalani pidana penjara guna melakukan \npenyesuaian (adaptasi) di tengah masyarakat untuk membuktikan bahwa setelah \nselesai menjalani masa pidananya yang bersangkutan benar -benar telah mengubah \ndirinya menjadi baik dan tidak akan mengulangi perbuatannya. Selain dikenakan \nmasa tunggu selama 5 (lima) tahun setelah mantan terpidana selesai menjalani \npidana penjara berdasarkan putusan pengadilan yang telah mempunyai kekuatan \nhukum tetap, mantan terpid ana juga diwajibkan memenuhi persyaratan terkait \nkeharusan menjelaskan secara terbuka kepada publik tentang jati dirinya dan tidak \nmenutupi latar belakang kehidupannya sebagai mantan terpidana. Dalam konteks itu, \npenting bagi Mahkamah untuk mengingatkan, p erihal keterpilihan berulang seorang \nanggota legislatif juga ditentukan oleh tingkat kekritisan pemilih dalam menilai \nintegritas dan rekam jejak calon anggota DPR/DPRD.  Terlebih lagi, dengan \ndigunakannya sistem pemilu proporsional dengan daftar terbuka saat ini, hal tersebut \ntentu berpengaruh terkait dengan pemberian ruang yang lebih luas bagi pemilih dalam \nmemilih calon anggota DPR/DPRD.  \nBerdasarkan seluruh pertimbangan hukum di atas, menurut Mahkamah, \nhingga saat ini belum terdapat  perkembangan dan kebut uhan hukum baru serta \nalasan yang kuat dan mendasar bagi Mahkamah untuk mengubah pendirian \nberkenaan dengan isu konstitusional pembatasan periodisasi masa jabatan anggota \nlegislatif sebagaimana telah dipertimbangkan dalam Putusan Mahkamah Konstitusi \nNomor 108/PUU-X/2012.  \n[3.13]  Menimbang bahwa berdasarkan seluruh pertimbangan hukum di atas, telah \nternyata ketentuan norma norma Pasal 76 ayat (4), Pasal 252 ayat (5), Pasal 318 ayat \n(4), dan Pasal 367 ayat (4) UU 17/2014 telah memberikan kepastian hukum dan tidak \nbertentangan dengan Pasal 1 ayat (3), Pasal 28D ayat (1), dan Pasal 28D ayat (3) \nUUD NRI Tahun 1945, bukan sebagaimana yang didalilkan oleh Pemohon. Dengan \ndemikian, menurut Mahkamah, dalil Pemohon adalah tidak beralasan menurut hukum \nuntuk seluruhnya. \n Berdasarkan kutipan pertimbangan hukum di atas, oleh karena substansi \nyang dipersoalkan oleh para Pemohon pada hakikatnya sama dengan yang telah \ndiputus dalam Putusan Mahkamah Konstitusi Nomor 157/PUU-XXII/2024, meskipun \ndengan dasar pengujian dan alasan konstitusional yang berbeda, namun esensi \nyang dimohonkan dalam perkara a quo adalah sama, yakni mempersoalkan masa \njabatan anggota legislatif, di  mana para Pemohon memohon kepada Mahkamah \n\n 38 \nagar periodisasi masa jabatan anggota legislatif dibatasi. Terhadap hal tersebut, \nMahkamah belum memiliki alasan yang mendasar untuk berubah pendirian. Dengan \ndemikian, berdasarkan fakta hukum tersebut, pertimbangan hukum dalam Putusan \nMahkamah Konstitusi Nomor 157/PUU-XXII/2024 mutatis mutandis berlaku sebagai \npertimbangan hukum dalam menjawab dalil permohonan a quo. \n[3.12] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum",
+      "start_line": 1262,
+      "end_line": 1561
+    },
+    {
+      "heading": "di atas, menurut Mahkamah permohonan para Pemohon tidak beralasan menurut",
+      "slug": "di-atas-menurut-mahkamah-permohonan-para-pemohon-tidak-beralasan-menurut",
+      "text": "hukum untuk seluruhnya.  \n[3.13] Menimbang bahwa terhadap hal -hal lain tidak dipertimbangkan oleh \nMahkamah karena dinilai tidak ada relevansinya.",
+      "start_line": 1563,
+      "end_line": 1565
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Mahkamah \nberkesimpulan: \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Para Pemohon memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3] Pertimbangan hukum Putusan Mahkamah Konstitusi Nomor  157/PUU-\nXXII/2024 mutatis mutandis  berlaku terhadap pertimbangan hukum \nPutusan a quo; \n [4.4] Pokok permohonan para Pemohon adalah tidak beralasan menurut \nhukum seluruhnya. \nBerdasarkan Undang -Undang Dasar Negara Republik Indonesia Tahun \n1945, Undang -Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undang -Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076); \n\n 39",
+      "start_line": 1567,
+      "end_line": 1587
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan para Pemohon untuk seluruhnya. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembilan \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Arief \nHidayat, Enny Nurbaningsih,  Ridwan Mansyur, Anwar Usman, Daniel Yusmic P. \nFoekh, M. Guntur Hamzah,  dan Arsul Sani masing-masing sebagai Anggota, pada \nhari Selasa, tanggal tujuh belas,  bulan Desember, tahun dua ribu dua puluh \nempat, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk \numum pada hari  Kamis, tanggal dua, bulan Januari, tahun dua ribu dua puluh \nlima, selesai diucapkan pukul 17.51 WIB, oleh sembil an Hakim Konstitusi yaitu \nSuhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Arief Hidayat, Enny \nNurbaningsih, Ridwan Mansyur, Anwar Usman, Daniel Yusmic P . Foekh, M. Guntur \nHamzah, dan Arsul Sani , masing -masing sebagai Anggota, dengan dibantu oleh \nDewi Nurul Savitri sebagai Panitera Pengganti, serta dihadiri oleh Pemohon, Dewan \nPerwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \n \n   KETUA, \nttd.  \nSuhartoyo \n ANGGOTA-ANGGOTA, \n ttd. \nSaldi Isra \n ttd. \nArief Hidayat  \nttd.  \nEnny Nurbaningsih  \nttd.  \nRidwan Mansyur  \n ttd. \nAnwar Usman \nttd.  \nDaniel Yusmic P. Foekh  \n\n 40 \nttd. \nM. Guntur Hamzah \nttd. \nArsul Sani \nPANITERA PENGGANTI, \nttd. \n     Dewi Nurul Savitri",
+      "start_line": 1589,
+      "end_line": 1630
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Indri Hafsari",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Amul Hikmah",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "advokat",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "konsultan hukum yang",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 17/2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 28C ayat (2)",
+      "Pasal 28D ayat (3)",
+      "Pasal 28H ayat (2)",
+      "Pasal 1 ayat (2)",
+      "Pasal 7",
+      "Pasal 281 ayat (4)",
+      "Pasal 22E ayat (1)",
+      "Pasal 28J ayat (1)",
+      "Pasal 22E ayat (3)",
+      "Pasal 24 ayat (2)",
+      "Pasal 76 ayat (4)",
+      "Pasal 252 ayat (5)",
+      "Pasal 318 ayat (4)",
+      "Pasal 367 ayat (4)"
+    ],
+    "procedural_articles": [
+      "Pasal 1",
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-4",
+      "BUKTI P-1",
+      "BUKTI P -7",
+      "BUKTI P-3",
+      "BUKTI P -5",
+      "BUKTI P-6",
+      "BUKTI P -4",
+      "BUKTI P -1",
+      "BUKTI P-7",
+      "BUKTI P-2",
+      "BUKTI P-5",
+      "REFERENSI:164/PUU-XXII/2024",
+      "REFERENSI:02/ADV-TAFMI/X/2024",
+      "REFERENSI:58/PUU/PAN.MK/AP3/11/2024",
+      "REFERENSI:64/PUU-XXII/2024",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:17/2014yangdipersoalkansamadenganyangtelahdiputusolehMahkamahdalamPutusanMahkamahKonstitusiNomor157/PUU-XXII/2024",
+      "REFERENSI:108/PUU-X/2012",
+      "REFERENSI:114/PUU-XX/2022",
+      "REFERENSI:87/PUU-XX/2022",
+      "REFERENSI:56/PUU-XVII/2019",
+      "REFERENSI:157/PUU-XXII/2024",
+      "REFERENSI:006/PUU-III/2005"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan para Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Arief Hidayat",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Anwar Usman",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Dewi Nurul Savitri"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "164/PUU-XXII/2024",
+      "02/ADV-TAFMI/X/2024",
+      "58/PUU/PAN.MK/AP3/11/2024",
+      "64/PUU-XXII/2024",
+      "006/PUU-III/2005yangdiucapkandalamsidangterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "17/2014yangdipersoalkansamadenganyangtelahdiputusolehMahkamahdalamPutusanMahkamahKonstitusiNomor157/PUU-XXII/2024",
+      "108/PUU-X/2012",
+      "114/PUU-XX/2022",
+      "87/PUU-XX/2022",
+      "56/PUU-XVII/2019",
+      "157/PUU-XXII/2024",
+      "006/PUU-III/2005"
+    ],
+    "referenced_cases": [
+      "164/PUU-XXII/2024",
+      "02/ADV-TAFMI/X/2024",
+      "58/PUU/PAN.MK/AP3/11/2024",
+      "64/PUU-XXII/2024",
+      "006/PUU-III/2005yangdiucapkandalamsidangterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "17/2014yangdipersoalkansamadenganyangtelahdiputusolehMahkamahdalamPutusanMahkamahKonstitusiNomor157/PUU-XXII/2024",
+      "108/PUU-X/2012",
+      "114/PUU-XX/2022",
+      "87/PUU-XX/2022",
+      "56/PUU-XVII/2019",
+      "157/PUU-XXII/2024",
+      "006/PUU-III/2005"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

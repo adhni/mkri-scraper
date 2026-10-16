@@ -1,0 +1,608 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14729_1785396252.pdf",
+    "file_name": "putusan_mkri_14729_1785396252.pdf",
+    "page_count": 24,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14729_1785396252.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "260/PUU-XXIV/2026",
+    "related_case_numbers": [],
+    "title": ".",
+    "decision_date": "2026-07-30",
+    "decision_date_raw": "tiga puluh, bulan Juli, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": ".",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 260/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili permohonan pengujian undang-undang pada tingkat \npertama dan terakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang-\nUndang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elek tronik \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 1 Tahun 2024 \ntentang Perubahan Kedua Atas Undang-Undang Nomor 11 Tahun 2008 tentang \nInformasi dan Transaksi Elektronik terhadap Undang-Undang Dasar  Negara \nRepublik Indonesia Tahun 1945, yang diajukan oleh:  \nNama : Ferdinandus Klau \nPekerjaan  : PNS \nAlamat : Jalan Ahmad Yani, RT/RW 028/004, Kelurahan \nKefamenanu Selatan, Kecamatan Kota \nKefamenanu, Kabupaten Timor Tengah Utara, \nProvinsi Nusa Tenggara Timur \nSelanjutnya disebut sebagai ---------------------------------------------------------- Pemohon; \n[1.2] Membaca permohonan Pemohon;  \nMendengar keterangan Pemohon; \nMemeriksa bukti-bukti Pemohon.",
+      "start_line": 6,
+      "end_line": 23
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa Pemohon telah mengajukan permohonan bertanggal  \n6 Juli 2026 yang diterima di Kepaniteraan Mahkamah Konstitusi pada tanggal 5 Juli \n2026 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor \n259/PUU/PAN.MK/AP3/07/2026 dan dic atat dalam Buku Registrasi Pe rkara \nKonstitusi Elektronik (e-BRPK) dengan Nomor 260/PUU-XXIV/2026 pada tanggal 6 \nJuli 2026, yang telah diperbaiki dengan Permohonan bertanggal 1 7 Juli 2026 dan \n\n\n \n \n2 \nditerima Mahkamah pada tanggal 23 Juli 2026, pada pokoknya menguraikan hal-hal \nsebagai berikut. \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 25,
+      "end_line": 38
+    },
+    {
+      "heading": "1. Bahwa ketentuan Pasal 24 ayat (2) Undang - Undang Dasar Nega ra",
+      "slug": "1-bahwa-ketentuan-pasal-24-ayat-2-undang-undang-dasar-nega-ra",
+      "text": "Republik Indonesia, yang selanjutnya disebut sebagai UUD NRI Ta hun \n1945 menyatakan bahwa:  \nKekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berbeda di bawahnya dalam lingkungan \nperadilan umum, lingkungan peradilan agama, lingkungan peradila n \nmiliter, lingkungan peradilan tata usaha negara, dan oleh sebua h \nMahkamah Konstitusi.",
+      "start_line": 40,
+      "end_line": 46
+    },
+    {
+      "heading": "2. Bahwa ketentuan Pasal 24C ayat (1) Undang - Undang Dasar Neg ara",
+      "slug": "2-bahwa-ketentuan-pasal-24c-ayat-1-undang-undang-dasar-neg-ara",
+      "text": "Republik Indonesia Tahun 1945 yang selanjutnya disebut sebagai UUD \nNRI Tahun 1945 menyatakan bahwa: \nMahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar.",
+      "start_line": 48,
+      "end_line": 52
+    },
+    {
+      "heading": "3. Bahwa selanjutnya, Pasal 10 ayat (1) huruf a Undang-Undang N omor 24",
+      "slug": "3-bahwa-selanjutnya-pasal-10-ayat-1-huruf-a-undang-undang-n-omor-24",
+      "text": "Tahun 2003 tentang Mahkamah Konstitusi sebagaimana diubah terak hir \ndengan Undang-Undang Nomor 7 Tahun 2020 Tentang Perubahan Ketiga \nAtas Undang-Undang Nomor 24 Tahun 2003 Tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 216, \nTambahan Lembaran Negara Republik Indonesia Nomor 6554) yang \nselanjutnya disebut sebagai UU MK menyatakan bahwa: \nMahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk:  \na. menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945",
+      "start_line": 54,
+      "end_line": 63
+    },
+    {
+      "heading": "4. Bahwa ketentuan Pasal 29 ayat (1) huruf a Undang-Undang Nomo r 48",
+      "slug": "4-bahwa-ketentuan-pasal-29-ayat-1-huruf-a-undang-undang-nomo-r-48",
+      "text": "Tahun 2009 Tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076) yang selanjutnya disebut sebagai UU 48/20 09 \nmenyatakan bahwa: \nMahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk: \na. menguji undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945",
+      "start_line": 65,
+      "end_line": 72
+    },
+    {
+      "heading": "5. Bahwa Mahkamah Konstitusi berwenang menguji dalam hal dugaan",
+      "slug": "5-bahwa-mahkamah-konstitusi-berwenang-menguji-dalam-hal-dugaan",
+      "text": "pertentangan norma Undang-Undang terhadap Undang-Undang Dasar \n\n \n \n3 \nNegara Republik Indonesia Tahun 1945 berdasarkan ketentuan Pasa l 9 \nayat (1) Undang-Undang Nomor 12 Tahun 2011 Tentang Pembentukan \nPeraturan Perundang-undangan sebagaimana diubah terakhir dengan  \nUndang-Undang Nomor 13 Tahun 2022 tentang Perubahan Kedua atas \nUndang-Undang Nomor 12 Tahun 2011 Tentang Pembentukan Peraturan \nPerundang-undangan (Lembaran Negara Republik Indonesia Tahun 2022 \nNomor 143, Tambahan Lembaran Negara Republik Indonesia Nomor \n6801) yang selanjutnya disebut sebagai UU 13/2022, yang menyata kan \nbahwa: \nDalam hal suatu Undang-Undang diduga bertentangan dengan \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, \npengujiannya dilakukan oleh Mahkamah Konstitusi.",
+      "start_line": 74,
+      "end_line": 90
+    },
+    {
+      "heading": "6. Bahwa Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor 7 Tahun",
+      "slug": "6-bahwa-pasal-2-ayat-1-peraturan-mahkamah-konstitusi-nomor-7-tahun",
+      "text": "2025 Tentang Tata Beracara Dalam Perkara Pengujian Undang-Undan g \n(yang selanjutnya disebut PMK 7/2025) menyatakan bahwa:  \nObjek Permohonan PUU adalah Undang-Undang dan Perppu.",
+      "start_line": 92,
+      "end_line": 94
+    },
+    {
+      "heading": "7. Bahwa Pemohon mengajukan per mohonan uji materiil pada Pasal 4 huruf",
+      "slug": "7-bahwa-pemohon-mengajukan-per-mohonan-uji-materiil-pada-pasal-4-huruf",
+      "text": "e Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi dan \nTransaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 \nNomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) \nyang selanjutnya disebut sebagai UU ITE, yang selengkapnya berb unyi \nsebagai berikut: \nPemanfaatan Teknologi Informasi dan Transaksi Elektronik \ndilaksanakan dengan tujuan untuk:  \ne. memberikan rasa aman, keadilan, dan kepastian hukum bagi \npengguna dan penyelenggara Teknologi Informasi.",
+      "start_line": 96,
+      "end_line": 104
+    },
+    {
+      "heading": "8. Bahwa berdasarkan wewenang konstitusional yang diuraikan dia tas,",
+      "slug": "8-bahwa-berdasarkan-wewenang-konstitusional-yang-diuraikan-dia-tas",
+      "text": "maka menurut Pemohon Mahkamah Konstitusi berwenang mengadili \npermohonan a quo. \nII. KEDUDUKAN HUKUM ( LEGAL STANDING) PEMOHON",
+      "start_line": 106,
+      "end_line": 108
+    },
+    {
+      "heading": "1. Dasar Kedudukan Hukum",
+      "slug": "1-dasar-kedudukan-hukum",
+      "text": "Bahwa berdasarkan Pasal 51 ayat (1) Undang – Undang Nomor 24 Tahun \n2003 Tentang Mahkamah Konstitusi (Lembaran Negara Republik \nIndonesia Tahun 2003 Nomor 98 dan Tambahan Lembaran Negara \nNomor 4316), sebagaimana telah diubah terakhir dengan Undang – \nUndang Nomor 7 Tahun 2020 (Lembaran Negara Republik Indonesia \n\n \n \n4 \nTahun 2020 Nomor 216 dan Tambahan Lembaran Negara Republik \nIndonesia Nomor 6554), yang selanjutnya disebut UU MK, menyatak an \nbahwa Pemohon adalah Perorangan Warga Negara Indonesia yang \nmenganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh \nberlakunya suatu Undang – Undang.",
+      "start_line": 110,
+      "end_line": 123
+    },
+    {
+      "heading": "2. Yurisprudensi Syarat Kerugian Konstitusional",
+      "slug": "2-yurisprudensi-syarat-kerugian-konstitusional",
+      "text": "Bahwa Mahkamah Konstitusi sejak adanya Putusan Nomor 006/PUU-\nIII/2005 dan Putusan Nomor 011/PUU-V/2007 telah menetapkan 5 (l ima) \nsyarat komulatif kerugian konstitusional yang harus dipenuhi ol eh \nPemohon, yaitu: \na. Adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD NRI Tahun 1945; \nb. Hak dan/atau kewenangan konstitusional tersebut dianggap dir ugikan \noleh berlakunya Undang – Undang yang dimohonkan pengujiannya;",
+      "start_line": 125,
+      "end_line": 132
+    },
+    {
+      "heading": "c. Kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan",
+      "text": "aktual, atau setidaknya bersifat potensial yang menurut penalar an \nyang wajar dipastikan akan terjadi;",
+      "start_line": 134,
+      "end_line": 135
+    },
+    {
+      "heading": "d. Adanya hubungan sebab-akibat (Causal verband) antara kerugian",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian",
+      "text": "konstitusional Pemohon dengan berlakunya Undang – Undang yang \ndimohonkan pengujiannya;  \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan \nPemohon, maka kerugian konstitusional yang didalilkan tidak aka n \natau tidak lagi terjadi.",
+      "start_line": 137,
+      "end_line": 141
+    },
+    {
+      "heading": "3. Pemenuhan Syarat Kedudukan Hukum Oleh Pemohon",
+      "slug": "3-pemenuhan-syarat-kedudukan-hukum-oleh-pemohon",
+      "text": "a. Pemenuhan Syarat Pertama (Kualifikasi Subjek Hukum):  \nBahwa Pemohon adalah perorangan warga negara Indonesia (Bukti \nKTP terlampir sebagai Bukti P-1), berprofesi sebagai Pegawai Negeri \nSipil (PNS), yang berdomisili di Jl. Ahmad Yani, Rt/Rw: 028/004 , \nKelurahan Kefamenanu Selatan, Kecamatan Kota Kefamenanu, \nKabupaten Timor Tengah Utara, Provinsi Nusa Tenggara Timur. \nPemohon merupakan subjek hukum yang sah demi hukum untuk \nbertindak sebagai Pemohon dalam pengujian Undang – Undang.  \n \n\n \n \n5 \nb. Pemenuhan Syarat Kedua (Adanya Hak Konstitusional):  \nBahwa Pemohon memiliki hak konstitusional atas perlindungan dan  \nkepastian hukum yang adil bagi diri pribadi, keluarga, kehormat an, \nmartabat, dan harta benda dibawah kekuasaannya, berhak atas ras a \naman serta perlindungan dari ancaman ketakutan untuk berbuat at au \ntidak berbuat sesuatu yang merupakan hak asasi manusia \nsebagaimana dijamin secara tegas dalam pasal 28D ayat (1) juncto \npasal 28G ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 143,
+      "end_line": 163
+    },
+    {
+      "heading": "c. Pemenuhan Syarat Ketiga (Kerugian Konstitusional yang Spesifik",
+      "slug": "c-pemenuhan-syarat-ketiga-kerugian-konstitusional-yang-spesifik",
+      "text": "dan Aktual) \nBahwa Pemohon mengalami kerugian konstitusional yang nyata, \nspesifik, dan aktual akibat dari ketidakjelasan serta kekosongan norma \nhukum. Seharusnya melalui Pasal 4 huruf e UU ITE (UU 11/2008) \ntentang asas dan tujuan dari pada Undang – Undang dimaksud, dapat \nmenjelaskan lebih lanjut tentang kewajiban pengguna platform me dia \nsosial untuk menggunakan foto dan atau identitas asli yang muda h \ndikenali atau diindentifikasi secara hukum, agar menjadi acuan dan \npayung hukum yang dapat menjamin hak akan rasa aman melalui \npenggunaan identitas yang terverifikasi, dan juga dapat \nmempersempit ruang gerak pelaku kejahatan dalam melakukan \naksinya. Undang – Undang dimaksud juga telah diubah terakhir \ndengan Undang – Undang Nomor 1 Tahun 2024 Tentang Perubahan \nKedua Atas Undang – Undang Nomor 11 Tahun 2008 Tentang \nInformasi dan Transaksi Elektronik, namun tidak ada satu Pasalp un \nyang menjelaskan tentang kewajiban pengguna platform media sosial \nagar menggunakan identitas yang terverifikasi, agar dapat digun akan \nsebagai payung hukum dalam menjamin hak akan rasa aman bagi \npengguna media sosial yang lainnya. Oleh karena ketiadaan jamin an \nakan rasa aman yang dijabarkan secara rinci dan kevakuman hukum  \ndimaksud,  telah memicu kerugian yang nyata bagi Pemohon, berupa:",
+      "start_line": 165,
+      "end_line": 185
+    },
+    {
+      "heading": "1. Kerugian Riil Kehormatan Pemohon Sebagai Warga Negara",
+      "slug": "1-kerugian-riil-kehormatan-pemohon-sebagai-warga-negara",
+      "text": "Indonesia: \n1.1. Foto pribadi Pemohon disebarluaskan tanpa izin oleh \npengguna media sosial tiktok anonim/palsu yang bernama \n\n \n \n6 \n“nobita.irmadewi.s”dengan menggunakan foto “boneka” \nsebagai profil identitas palsu dalam aksi melawan hukumnya, \nyang pada pokoknya dalam penyebarluasan foto Pemohon \ndimaksud dilakukan dengan membangun narasi secara \nmelawan hukum untuk mencemarkan nama baik, \nmerendahkan kehormatan, dan menyerang martabat \nPemohon, baik di lingkungan sosial maupun lingkungan kerja \nPemohon sebagai warga negara Indonesia (Bukti P-4). \n1.2.  Foto pribadi Pemohon disebarluaskan tanpa izin oleh \npengguna media sosial tiktok anonim/palsu yang bernama \n“lika.liku.admin.ntt” dengan menggunakan foto “komodo” \nsebagai prodil identitas palsu dalam aksi melawan \nhukumnya, yang pada pokoknya dalam penyebarluasan foto \nPemohon dimaksud dilakukan dengan membangun narasi \nsecara melawan hukum untuk mencemarkan nama baik, \nmerendahkan kehormatan, dan menyerang martabat \nPemohon, baik di lingkungan sosial maupun lingkungan kerja \nPemohon sebagai warga negara Indonesia (Bukti P-4).  \n1.3. Foto pribadi Pemohon disebarluaskan tanpa izin oleh pesert a \nanonim/palsu pada group media sosial facebook yang \nbernama “FLOBAMORA TABONGKAR” dengan \nmenggunakan foto profil pada group facebook tersebut \ndengan gambar “komodo” sebagai identitas palsu dalam \nmelakukan aksi melawan hukum melalui grup facebook \ntersebut, yang pada pokoknya dalam penyebarluasan foto \nPemohon dimaksud dilakukan dengan membangun narasi \nsecara melawan hukum untuk mencemarkan nama baik, \nmerendahkan kehormatan, dan menyerang martabat \nPemohon baik di lingkungan sosial maupun lingkungan kerja \nPemohon sebagai warga negara Indonesia (Bukti P-4). \n1.4. Bahwa Pemohon telah berupaya untuk melakukan \npermohonan kepada penyedia platform media sosial \nfacebook maupun tiktok melalui fitur “laporkan akun” untuk \nditindaklanjuti berupa pemblokiran dan penonaktifan akun, \n\n \n \n7 \nnamun platform media sosial beralasan bahwa postingan \nyang dilakukan tersebut tidak melanggar aturan komunitas \nmereka, sehingga menyulitkan Pemohon dalam melakukan \nupaya untuk menyelesaian permasalahan tersebut \nsebagaimana Pemohon buktikan pada (Bukti P-5).  \n1.5. Bahwa sebagai upaya dalam mempelopori penggunaan \nidentitas yang mudah diverifikasi pada paltform media sosial \nTiktok dan Facebook, Pemohon selalu menggunakan nama \nasli yang sebagaimana tertulis pada identitas diri Pemohon \n(Bukti P-1) dalam melakukan pendaftaran atau pembuatan \nakun pada platfrom media sosial dimaksud, yang \nsebagaimana Pemohon buktikan melalui (Bukti P-5).  \n1.6. Bahwa penyebarluasan foto Pemohon oleh akun media \nsosial tiktok yang palsu dan akun anonim pada group \nfacebook yang tidak terverifikasi keasliannya tersebut, \ndilakukan pada tanggal 6 Maret 2026, atau setidak – tidaknya",
+      "start_line": 187,
+      "end_line": 247
+    },
+    {
+      "heading": "di waktu lain pada tahun yang sama yang sebagaimana pada",
+      "slug": "di-waktu-lain-pada-tahun-yang-sama-yang-sebagaimana-pada",
+      "text": "bukti yang Pemohon lampirkan (Bukti P-4).   \n1.7. Bahwa Pemohon merupakan korban dari tindak pidana \npencemaran nama baik yang berada di wilayah hukum \nNegara Indonesia, maka secara yuridis seharusnya negara \nbisa menjamin dan memberikan perlindungan akan rasa \naman tersebut, sebagai bagian dari penegakan akan \nsupremasi hukum yang adil dan berkepastian hukum di \ndalam negara yang berdaulat.",
+      "start_line": 249,
+      "end_line": 256
+    },
+    {
+      "heading": "2. Kendala Penegakan Hukum Siber:",
+      "slug": "2-kendala-penegakan-hukum-siber",
+      "text": "2.1. Ketidakberdayaan Pemohon dalam menuntut hak akan rasa \namannya, dikarenakan platfrom media sosial yang \nmembiarkan pengguna identitas palsu (anonim), sehingga \nmenyulitkan aparat penegak hukum dalam melakukan \npembuktian digital guna melacak pelaku siber yang \nmerugikan Pemohon.  \n2.2. Bahwa karena platfrom media sosial tidak mewajibkan \npengguna media sosial menggunakan identitas yang \n\n \n \n8 \nterverifikasi keasliannya, membuat Pemohon melaporkan hal \ndimaksud berkali – kali kepada pihak kepolisian, namun tidak \nsatupun yang berhasil diungkap sebagaimana Pemohon \nbuktikan dengan Laporan Polisi (Bukti P-6).  \n2.3. Bahwa karena kemudahan aksesibilitas para pelaku dalam \nmengubah identitas dan menghapus postingan pada setiap \nplatform digital tiktok dan facebook sebagai bagian dalam \nupaya pelaku dalam menyembunyikan identitasnya, \npostingan pencemaran nama baik sebagaimana dilakukan \nmelalui group facebook “FLOBAMORA TABONGKAR”  telah \ndihapus/ take down , hal tersebut dilakukan dengan tujuan \nagar menyulitkan aparat penegak hukum dalam melacak dan \nmenelusuri keberadaan para pelaku kejahatan tersebut.",
+      "start_line": 258,
+      "end_line": 282
+    },
+    {
+      "heading": "d. Pemenuhan Syarat Keempat (Hubungan Sebab-Akibat/ Causal",
+      "slug": "d-pemenuhan-syarat-keempat-hubungan-sebab-akibat-causal",
+      "text": "Verband):",
+      "start_line": 284,
+      "end_line": 284
+    },
+    {
+      "heading": "1. Bahwa terdapat hubungan sebab-akibat secara langsung antara",
+      "slug": "1-bahwa-terdapat-hubungan-sebab-akibat-secara-langsung-antara",
+      "text": "kerugian Pemohon dengan berlakunya Pasal 4 huruf e Undang – \nUndang Nomor 11 Tahun 2008 sebagaimana telah diubah terakhir \ndengan Undang – Undang Nomor 1 Tahun 2024 Tentang \nPerubahan Kedua Atas Undang – Undang Nomor 11 Tahun 2008 \nTentang Informasi dan Traksaksi Elektronik. Walaupun secara \nprinsip Pasal a quo telah menjelaskan tentang asas dan tujuan dari \npada Undang – Undang dimaksud, namun tidak merincikan lebih \nlanjut tentang kewajiban bagi platform media sosial untuk \nmenerapkan verifikasi identitas yang dapat dikenali bagi pengguna \nsecara ketat, platfrom digital membiarkan akun – akun anonim \nbergerak bebas tanpa akuntabilitas hukum. Pembiaran regulasi \ninilah yang secara langsung menyebabkan foto Pemohon \ndisalahgunakan tanpa adanya suatu mekanisme perlindungan \nhukum yang efektif, sehingga jaminan “rasa aman” dalam Undang \n– Undang ITE menjadi bersifat ilusi (inkonstitusional bersyarat).",
+      "start_line": 286,
+      "end_line": 300
+    },
+    {
+      "heading": "2. Bahwa dengan ketiadaan kewajiban penggunaan identitas asli",
+      "slug": "2-bahwa-dengan-ketiadaan-kewajiban-penggunaan-identitas-asli",
+      "text": "yang terferifikasi bagi pengguna platfrom digital, membuat \nPemohon menjadi korban dari akun palsu/anonim yang \n\n \n \n9 \nsebagaimana Pemohon lampirkan sebagai bukti dalam \npermohonan ini (Bukti P-4), dimana keberadaan dari akun – akun \nanonim/palsu dimaksud sering digunakan untuk menyebarluaskan \nfoto orang lain termasuk Pemohon sendiri tanpa izin, digunakan \nuntuk menyerang kehormatan, dan melakukan pencemaran nama \nbaik, serta menyebarkan narasi yang pada pokoknya merugikan \nmartabat Pemohon tanpa bisa diidentifikasi oleh penegak hukum. \ne. Pemenuhan Syarat Kelima (Dampak Pengabulan Permohonan):",
+      "start_line": 302,
+      "end_line": 315
+    },
+    {
+      "heading": "1. Bahwa apabila permohonan Pemohon dikabulkan oleh Mahkamah",
+      "slug": "1-bahwa-apabila-permohonan-pemohon-dikabulkan-oleh-mahkamah",
+      "text": "Konstitusi yakni dengan menyatakan Pasal 4 huruf e UU ITE \nbertentangan dengan UUD NRI Tahun 1945 sepanjang tidak \ndimaknai mewajibkan penggunaan identitas asli yang terverifikas i \npada platfrom media sosial, maka kerugian konstitusional \nPemohon tidak akan terjadi lagi di masa mendatang. Pengabulan \nini akan menciptakan suatu kepastian hukum, meminimalisasi akun \nanonim, dan memberikan instrumen hukum yang nyata bagi \nPemohon serta masyarakat luas untuk mendapatkan hak atas rasa \naman.",
+      "start_line": 317,
+      "end_line": 325
+    },
+    {
+      "heading": "2. Bahwa dengan dikabulkan permohonan ini, negara akan memaksa",
+      "slug": "2-bahwa-dengan-dikabulkan-permohonan-ini-negara-akan-memaksa",
+      "text": "platfrom digital untuk membatasi ruang gerak akun – akun \nanonim/palsu sebagaimana pada bukti yang dilampirkan Pemohon \n(Bukti P-4),  sehingga kerugian konstitusional yang dialami oleh \nPemohon dan/atau masyarakat lainnya tidak akan terulang kembali \npada masa yang akan datang.  \nIII. ALASAN PERMOHONAN (POSITA) \nA. Ketidakjelasan Frasa “Memberikan Rasa Aman” dalam Pasal 4 huruf \ne UU ITE Menimbulkan Ketidakpastian Hukum \n1 .  B a h w a  P a s a l  4  h u r u f  e  U U  I T E menetapkan bahwa pemanfaatan \nTeknologi Informasi dan Transaski Elektronik dilaksanakan denga n \ntujuan untuk “memberikan rasa aman, keadilan, dan kepastian hukum \nbagi pengguna dan penyelenggara Teknologi Informasi”.",
+      "start_line": 327,
+      "end_line": 338
+    },
+    {
+      "heading": "2. Bahwa frasa “memberikan rasa aman” dalam Pasal a quo bersifat",
+      "slug": "2-bahwa-frasa-memberikan-rasa-aman-dalam-pasal-a-quo-bersifat",
+      "text": "sangat abstrak, multitafsir dan tidak diimplementasikan secara rinci di \ndalam pasal penjelasannya maupun Pasal – Pasal turunannya. \n\n \n \n10 \nKetidakjelasan batasan sejauh mana cakupan rasa aman yang dijamin \noleh negara ini yang mengakibatkan ketentuan tersebut kehilanga n \ndaya ikat operasionalnya (inkonstitusional bersyarat).",
+      "start_line": 340,
+      "end_line": 348
+    },
+    {
+      "heading": "3. Bahwa akibat dari ketiadaan detail operasional dari frasa “memberikan",
+      "slug": "3-bahwa-akibat-dari-ketiadaan-detail-operasional-dari-frasa-memberikan",
+      "text": "rasa aman”  tersebut, platfrom media sosial membiarkan para \npengguna membuat akun secara anonim atau menggunakan identitas \npalsu (fake accounts). Hal inilah yang membuka ruang seluas – \nluasnya bagi tindakan kriminal siber, perundungan digital \n(cyberbullying), dan penyebaran berita bohong (hoax) tanpa adanya \nakuntabilitas hukum yang jelas.  \nB. Urgensi Kewajiban Identitas Asli Yang Terverifikasi Demi Men jamin \nKonstitusionalitas Pasal 4 huruf e UU ITE.",
+      "start_line": 350,
+      "end_line": 357
+    },
+    {
+      "heading": "4. Bahwa prinsip negara hukum yang dianut Indonesia (Pasal 1 ay at (3)",
+      "slug": "4-bahwa-prinsip-negara-hukum-yang-dianut-indonesia-pasal-1-ay-at-3",
+      "text": "UUD NRI Tahun 1945) mensyaratkan adanya asas kepastian hukum \nyang adil serta jaminan perlindungan hukum yang efektif bagi se tiap \nwarga negaranya.",
+      "start_line": 359,
+      "end_line": 361
+    },
+    {
+      "heading": "5. Bahwa pembiaran terhadap akun – akun anonim di media sosial",
+      "slug": "5-bahwa-pembiaran-terhadap-akun-akun-anonim-di-media-sosial",
+      "text": "secara fundamental bertentangan dengan kewajiban negara dalam \nmemberikan  perlindungan terhadap hak warga negara  atas rasa \naman (Pasal 28D ayat (1) juncto Pasal 28G ayat (1) UUD NRI Tahun \n1945). Penegakan hukum digital sering kali membentur dinding te bal \nkarena kepolisian maupun pihak berwajib kesulitan dalam melacak  \npara pelaku kejahatan siber yang menyembunyikan identitas aslinya.",
+      "start_line": 363,
+      "end_line": 368
+    },
+    {
+      "heading": "6. Bahwa agar frasa “memberikan rasa aman” dalam pasal 4 huruf e UU",
+      "slug": "6-bahwa-agar-frasa-memberikan-rasa-aman-dalam-pasal-4-huruf-e-uu",
+      "text": "ITE memiliki kepastian hukum dan sejalan dengan UUD NRI Tahun \n1945, maka norma tersebut harus dimaknai secara tegas mewajibkan \npenyelenggara platform media sosial untuk memberlakukan sistem \nverifikasi identitas asli yang valid bagi penggunanya.",
+      "start_line": 370,
+      "end_line": 373
+    },
+    {
+      "heading": "7. Bahwa kewajiban penggunaan identitas asli ini bukan bertuju an",
+      "slug": "7-bahwa-kewajiban-penggunaan-identitas-asli-ini-bukan-bertuju-an",
+      "text": "melanggar privasi, melainkan bentuk pembatasan yang sah demi \nhukum (lawful restriction) sesuai dengan Pasal 28J ayat (2) UUD NRI \nTahun 1945 untuk menjamin perlindungan hak orang lain, ketertib an \numum, serta meminimalisasi ruang gerak pelaku kejahatan siber. \nPerlindungan data pribadi tetap menjadi tanggung jawab bersama \n\n \n \n11 \nantara pengguna, penyelenggara platform, dan lembaga pemerintah  \nyang terkait lainnya.",
+      "start_line": 375,
+      "end_line": 385
+    },
+    {
+      "heading": "8. Bahwa dengan merujuk pada hasil penelitian yang dipublikasik an oleh",
+      "slug": "8-bahwa-dengan-merujuk-pada-hasil-penelitian-yang-dipublikasik-an-oleh",
+      "text": "Gede Bisma Ariyoga Bagaskara (2025) dalam jurnal ilmiahnya (Jurnal \nPenelitian Nusantara, Vol.1; No.9;Oktober 2025; Page 297-308), yang \nmengatakan bahwa:  \nhambatan terbesar dalam mengungkap dan melacak akun palsu \nyang melakukan kejahatan melalui media sosial sering kali \nterbatas pada kemampuan forensik digital di tingkat Polres, dan  \nharus mengandalkan permintaan bantuan ke Subdit Cyber \nCryme di Tingkat Polda bahkan ke Mabes Polri. Tingkat birokrasi \nyang berjenjang seperti dimaksud sangat memakan waktu yang \ncukup lama sehingga dianggap tidak efektif dalam pembuktian \nyang cepat, sehingga oknum pelaku dapat berpotensi untuk \nmenonaktifkan akun media sosialnya serta merubah identitasnya \ndengan mudah dan cepat,",
+      "start_line": 387,
+      "end_line": 399
+    },
+    {
+      "heading": "9. Bahwa dengan adanya hambatan yang dihadapi oleh aparat peneg ak",
+      "slug": "9-bahwa-dengan-adanya-hambatan-yang-dihadapi-oleh-aparat-peneg-ak",
+      "text": "hukum dalam mengungkap pelaku kejahatan melalui media sosial \ndimaksud, seharusnya negara melalui Undang – Undang Nomor 11 \nTahun 2008 Tentang Infromasi dan Transaksi Elektronik yang \nsebagaimana diubah terakhir dengan Undang – Undang Nomor 1 \nTahun 20224 Tentang Perubahan Kedua Atas Undang – Undang \nNomor 11 Tahun 2008 Tentang Informasi dan Transaksi Elektronik,  \ndapat mewajibkan Penyedia Plaform media sosial untuk \nmengharuskan para penggunanya agar menggunakan identitas yang \nmudah teridentifikasi, agar bisa menjamin dan memberikan \nperlindungan akan rasa aman kepada pengguna media sosial lainnya, \ndan  semakin mempersempit ruang gerak pelaku dalam melakukan \naksinya melalui media sosial tersebut.",
+      "start_line": 401,
+      "end_line": 412
+    },
+    {
+      "heading": "10. Bahwa dengan kemudahan mengakses, mengubah dan memanipulasi",
+      "slug": "10-bahwa-dengan-kemudahan-mengakses-mengubah-dan-memanipulasi",
+      "text": "identitas pada platform media sosial, yang mana hal tersebut da pat \ndigunakan sebagai celah hukum oleh oknum pelaku kejahatan dalam  \nmenjalankan aksinya melalui media sosial, membuat Pemohon tidak  \nberdaya dalam menghadapi persoalan dimaksud, yang dimana \nPemohon telah melakukan pelaporan ke pihak kepolisian sebanyak \ndua kali, namun para pelaku tak kunjung teridentifikasi dan tertangkap, \nyang diakibatkan oleh kekosongan norma hukum dalam mewajibkan \n\n \n \n12 \npengguna media sosial untuk menggunakan indentitas yang mudah \nterverifikasi dan teridentifikasi.",
+      "start_line": 414,
+      "end_line": 426
+    },
+    {
+      "heading": "11. Bahwa Pasal 4 huruf e Undang-Undang Nomor 11 Tahun 2008 tentang",
+      "slug": "11-bahwa-pasal-4-huruf-e-undang-undang-nomor-11-tahun-2008-tentang",
+      "text": "Informasi dan Transaksi Elektronik beserta perubahannya (selanjutnya \ndisebut UU ITE) secara jelas menyatakan bahwa pemanfaatan \nTeknologi Informasi dan Transaksi Elektronik memiliki tujuan un tuk \nmemberikan rasa aman, keadilan, dan kepastian hukum bagi \npengguna dan penyelenggara Teknologi Informasi.",
+      "start_line": 428,
+      "end_line": 432
+    },
+    {
+      "heading": "12. Bahwa hak atas \"rasa aman\" dan \"kepastian hukum\" tersebut",
+      "slug": "12-bahwa-hak-atas-rasa-aman-dan-kepastian-hukum-tersebut",
+      "text": "merupakan hak konstitusional warga negara sebagaimana dijamin dan \ndilindungi oleh Pasal 28D ayat (1) dan Pasal 28G ayat (1) Undan g-\nUndang Dasar Negara Republik Indonesia Tahun 1945 (UUD NRI \nTahun 1945).",
+      "start_line": 434,
+      "end_line": 437
+    },
+    {
+      "heading": "13. Bahwa pada praktiknya, jaminan \"rasa aman\" tersebut bersifa t semu",
+      "slug": "13-bahwa-pada-praktiknya-jaminan-rasa-aman-tersebut-bersifa-t-semu",
+      "text": "dan tidak memiliki kepastian hukum yang mengikat karena UU ITE \ntidak menjabarkan secara rinci bentuk perlindungan tersebut. Undang-\nUndang a quo tidak memuat aturan, batasan, atau norma turunan yang \nsecara eksplisit mewajibkan pengguna platform media sosial untu k \nmenggunakan identitas asli yang mudah dikenali.",
+      "start_line": 439,
+      "end_line": 443
+    },
+    {
+      "heading": "14. Bahwa ketiadaan kewajiban penggunaan identitas asli ini tel ah",
+      "slug": "14-bahwa-ketiadaan-kewajiban-penggunaan-identitas-asli-ini-tel-ah",
+      "text": "disalahgunakan oleh pihak-pihak yang tidak bertanggung jawab untuk \nmenyebarkan berita bohong ( hoaks), melakukan perundungan siber \n(cyberbullying), serta menyerang kehormatan atau pencemaran nama \nbaik dengan menggunakan akun anonim atau palsu.",
+      "start_line": 445,
+      "end_line": 448
+    },
+    {
+      "heading": "15. Bahwa Pemohon seringkali tidak dapat meminta pertanggungjawaban",
+      "slug": "15-bahwa-pemohon-seringkali-tidak-dapat-meminta-pertanggungjawaban",
+      "text": "hukum secara adil karena ketiadaan kejelasan identitas pelaku \nkejahatan siber tersebut. Hal ini secara langsung merugikan Pemohon \ndan membuktikan bahwa tujuan hukum yang tertuang dalam Pasal 4 \nhuruf e UU ITE gagal diwujudkan dalam tataran implementasi.",
+      "start_line": 450,
+      "end_line": 453
+    },
+    {
+      "heading": "16. Bahwa berdasarkan yurisprudensi dan doktrin hukum tata nega ra,",
+      "slug": "16-bahwa-berdasarkan-yurisprudensi-dan-doktrin-hukum-tata-nega-ra",
+      "text": "suatu undang-undang yang menimbulkan kekosongan hukum \n(vacuum of law ) pada norma pelaksanaannya sehingga \nmengakibatkan hilangnya perlindungan hak konstitusional warga \n\n \n \n13 \nnegara dapat dinyatakan inkonstitusional bersyarat ( conditionally \nunconstitutional).",
+      "start_line": 455,
+      "end_line": 463
+    },
+    {
+      "heading": "17. Bahwa agar Pasal 4 huruf e UU ITE tidak kehilangan makna da n",
+      "slug": "17-bahwa-agar-pasal-4-huruf-e-uu-ite-tidak-kehilangan-makna-da-n",
+      "text": "sejalan dengan UUD 1945, norma tersebut harus dimaknai dengan \nmewajibkan adanya suatu norma turunan atau aturan yang jelas yang \nmewajibkan pengguna media sosial untuk menggunakan identitas asli \nyang sah dan dapat dipertanggungjawabkan.",
+      "start_line": 465,
+      "end_line": 468
+    },
+    {
+      "heading": "18. Bahwa dalam rangka menjamin perlindungan hukum, ketertiban",
+      "slug": "18-bahwa-dalam-rangka-menjamin-perlindungan-hukum-ketertiban",
+      "text": "umum, dan kepastian hukum bagi masyarakat di ruang siber, negar a \nmemiliki kewajiban konstitusional untuk menata ekosistem digita l. \nPraktik pelindungan warga negara dari bahaya anonimitas yang ti dak \nterkontrol (seperti penyebaran hoaks, penipuan, perundungan sib er, \ndan kejahatan asusila) telah menjadi kesepakatan hukum global.",
+      "start_line": 470,
+      "end_line": 474
+    },
+    {
+      "heading": "19. Bahwa berdasarkan perbandingan hukum (comparative law) dan studi",
+      "slug": "19-bahwa-berdasarkan-perbandingan-hukum-comparative-law-dan-studi",
+      "text": "yurisdiksi di berbagai negara, kebijakan untuk mewajibkan \npenggunaan identitas asli dan otentikasi pengguna di media sosi al \ntelah diakui dan diterapkan secara efektif, antara lain:  \n19.1. Republik Rakyat Cina: \nMelalui Undang-Undang Keamanan Siber (Cybersecurity Law), \npemerintah Cina mewajibkan penyedia layanan internet dan \nplatform media sosial untuk menerapkan sistem pendaftaran \nnama asli (real-name registration). Pengguna diharuskan untuk \nmemberikan informasi identitas asli dan nomor identitas kepada \noperator platform saat mendaftarkan akun. \n19.2. Republik Sosialis Vietnam: \nPemerintah Vietnam mengesahkan Dekrit 147/2024/ND-CP \nyang secara tegas mewajibkan seluruh platform media sosial \nuntuk melakukan verifikasi identitas pengguna menggunakan \nnomor telepon atau nomor identifikasi nasional. Hanya akun \nyang terverifikasi identitas aslinya yang diizinkan untuk \nmembuat konten, menulis artikel, memberikan komentar, \nmaupun melakukan siaran langsung (livestream).  \n \n \n\n \n \n14 \n19.3. Federal Demokratik Nepal: \nMahkamah Agung Nepal dan Pemerintah Nepal telah \nmengeluarkan arahan yang mewajibkan seluruh platform media \nsosial baik domestik maupun asing untuk mendaftarkan diri \nsecara resmi. Kebijakan ini diberlakukan untuk mengevaluasi \ndan memonitor konten yang tidak diinginkan, serta memastikan \nakuntabilitas hukum atas penggunaan identitas palsu.  \n19.4. Persemakmuran Australia: \nMelalui Undang-Undang Keamanan Daring ( Online Safety Act \n2021), Australia mengambil langkah progresif dengan \nmemberlakukan kerangka kerja usia minimum dan otentikasi \nidentitas untuk membatasi akses anak di bawah umur. Platform \nmedia sosial diwajibkan untuk mengambil langkah yang wajar \ndalam memverifikasi identitas dan usia pengguna.",
+      "start_line": 476,
+      "end_line": 513
+    },
+    {
+      "heading": "20. Bahwa dari preseden negara-negara tersebut, dapat ditarik",
+      "slug": "20-bahwa-dari-preseden-negara-negara-tersebut-dapat-ditarik",
+      "text": "kesimpulan bahwa kewajiban penggunaan identitas asli dan otentikasi",
+      "start_line": 515,
+      "end_line": 515
+    },
+    {
+      "heading": "di media sosial bukanlah pelanggaran hak asasi manusia, melaink an",
+      "slug": "di-media-sosial-bukanlah-pelanggaran-hak-asasi-manusia-melaink-an",
+      "text": "bentuk pelaksanaan tanggung jawab negara ( State responsibility ) \ndalam mewujudkan ruang siber yang aman, transparan, dan \nakuntabel. Oleh karena itu, pengaturan yang sejalan di Indonesi a \nmemiliki urgensi yang mendesak untuk menjaga moralitas, keamanan \nnasional, dan ketertiban umum.",
+      "start_line": 517,
+      "end_line": 521
+    },
+    {
+      "heading": "21. Bahwa berdasarkan Pasal 28D ayat (1) Undang-Undang Dasar",
+      "slug": "21-bahwa-berdasarkan-pasal-28d-ayat-1-undang-undang-dasar",
+      "text": "Negara Republik Indonesia Tahun 1945 dijamin hak konstitusional  \nsetiap warga negara atas pengakuan, jaminan, perlindungan, dan \nkepastian hukum yang adil serta perlakuan yang sama di hadapan \nhukum;",
+      "start_line": 523,
+      "end_line": 526
+    },
+    {
+      "heading": "22. Bahwa beradasakan Pasal 28G ayat (1) Undang – Undang Dasar",
+      "slug": "22-bahwa-beradasakan-pasal-28g-ayat-1-undang-undang-dasar",
+      "text": "Negara Republik Indonesia tahun 1945 menjamin hak setiap orang \natas perlindungan diri pribadi, keluarga, kehormatan, martabat,  d a n  \nharta benda yang dibawah kekuasannya, serta berhak atas rasa aman \ndan perlindungan dari ancaman ketakutan untuk berbuat atau tida k \nberbuat sesuatu yang merupakan hak asasi.     \n\n \n \n15",
+      "start_line": 528,
+      "end_line": 536
+    },
+    {
+      "heading": "23. Bahwa Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan",
+      "slug": "23-bahwa-undang-undang-nomor-11-tahun-2008-tentang-informasi-dan",
+      "text": "Transaksi Elektronik sebagaimana telah diubah terakhir melalui \nUndang-Undang Nomor 1 Tahun 2024 memiliki Asas dan Tujuan yang \ndiatur dalam Pasal 4 huruf e, yang pada pokoknya bertujuan untu k \nmelindungi kepentingan umum, menjaga ketertiban umum, dan \nmemberikan rasa aman dan keadilan di dalam ruang siber;",
+      "start_line": 538,
+      "end_line": 542
+    },
+    {
+      "heading": "24. Bahwa dalam praktiknya, ruang siber di Indonesia saat ini d iwarnai",
+      "slug": "24-bahwa-dalam-praktiknya-ruang-siber-di-indonesia-saat-ini-d-iwarnai",
+      "text": "oleh maraknya anonimitas yang disalahgunakan untuk menyebarkan \ninformasi bohong (hoaks), ujaran kebencian, pencemaran nama baik, \nhingga penipuan, yang kesemuanya sangat merugikan hak-hak \nkonstitusional Pemohon dan masyarakat luas;",
+      "start_line": 544,
+      "end_line": 547
+    },
+    {
+      "heading": "25. Bahwa meskipun muatan norma dalam Pasal 4 huruf e menegaska n",
+      "slug": "25-bahwa-meskipun-muatan-norma-dalam-pasal-4-huruf-e-menegaska-n",
+      "text": "bahwa pemanfaatan Teknologi Informasi dan Transaksi Elektronik \nberasaskan kepastian hukum, kemanfaatan, kehati-hatian, iktikad  \nbaik, dan kebebasan memilih teknologi yang netral, namun norma \ntersebut belum mengatur secara spesifik dan operasional mengena i \nkewajiban penggunaan identitas asli bagi pengguna media sosial;",
+      "start_line": 549,
+      "end_line": 553
+    },
+    {
+      "heading": "26. Bahwa ketiadaan norma turunan atau pasal spesifik di dalam UU ITE",
+      "slug": "26-bahwa-ketiadaan-norma-turunan-atau-pasal-spesifik-di-dalam-uu-ite",
+      "text": "yang mewajibkan penggunaan identitas asli dan dapat dikenali \nmenimbulkan kekosongan hukum ( vacuum of law ). Akibatnya, asas \niktikad baik dan kehati-hatian sebagaimana dimaksud dalam Pasal  4 \nhuruf e tidak dapat diimplementasikan secara maksimal;",
+      "start_line": 555,
+      "end_line": 558
+    },
+    {
+      "heading": "27. Bahwa untuk mewujudkan ruang digital yang sehat, akuntabel, serta",
+      "slug": "27-bahwa-untuk-mewujudkan-ruang-digital-yang-sehat-akuntabel-serta",
+      "text": "memberikan kepastian perlindungan bagi korban tindak pidana sib er, \nkeberadaan satu pasal turunan yang secara tegas mewajibkan setiap \npengguna media sosial untuk menggunakan identitas asli yang mudah \ndikenali adalah sebuah kebutuhan konstitusional yang mendesak;",
+      "start_line": 560,
+      "end_line": 563
+    },
+    {
+      "heading": "28. Bahwa oleh karena itu, demi menjamin kepastian hukum yang a dil",
+      "slug": "28-bahwa-oleh-karena-itu-demi-menjamin-kepastian-hukum-yang-a-dil",
+      "text": "serta memberikan perlindungan diri dan kehormatan sebagaimana \ndiatur dalam Pasal 28D ayat (1)  juncto Pasal 28G ayat (1) UUD NRI \n1945, norma dalam Pasal 4 UU ITE seharusnya dimaknai mencakup \nkewajiban penggunaan identitas asli bagi setiap pengguna media \nsosial guna menghindari penyalahgunaan akun anonim yang \nmerugikan. \n\n \n \n16 \nIV. PETITUM \nBerdasarkan seluruh uraian di atas, Pemohon memohon kepada Maje lis \nHakim Mahkamah Konstitusi untuk memeriksa dan menjatuhkan putus an \nsebagai berikut:",
+      "start_line": 565,
+      "end_line": 578
+    },
+    {
+      "heading": "2. Menyatakan Pasal 4 huruf e Undang-Undang Nomor 11 Tahun 2008",
+      "slug": "2-menyatakan-pasal-4-huruf-e-undang-undang-nomor-11-tahun-2008",
+      "text": "tentang Informasi dan Transaksi Elektronik (UU ITE) sebagaimana  telah \ndiubah terakhir dengan Undang-Undang Nomor 1 Tahun 2024 \nbertentangan dengan Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945 (UUD NRI Tahun 1945) dan tidak mempunyai kekuatan \nhukum mengikat sepanjang tidak dimaknai \"mewajibkan penyelengga ra \nplatform media sosial untuk memastikan setiap penggunanya \nmenggunakan identitas asli yang sah sebagai prasyarat dalam \nberaktivitas di media sosial demi memberikan perlindungan dan menjamin \nhak atas rasa aman sebagaimana dijamin dalam Pasal 28D ayat (1) juncto \nPasal 28G ayat (1) Undang-Undang Dasar Negara Republik Indonesi a \nTahun 1945 (UUD NRI Tahun 1945)\";",
+      "start_line": 581,
+      "end_line": 591
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya.  \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain , mohon \nputusan yang seadil – adilnya (ex aequo et bono).     \n [2.2] Menimbang bahwa untuk membuk tikan dalilnya, Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan Bukti P-6, sebagai \nberikut:",
+      "start_line": 593,
+      "end_line": 598
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Undang-Undang Nomor 11 Tahun 2008 tenta ng",
+      "slug": "3-bukti-p-3-fotokopi-undang-undang-nomor-11-tahun-2008-tenta-ng",
+      "text": "Informasi dan Transaksi Elektronik;",
+      "start_line": 602,
+      "end_line": 602
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi tangkapan layar akun anonim/ fake accounts yang",
+      "slug": "4-bukti-p-4-fotokopi-tangkapan-layar-akun-anonim-fake-accounts-yang",
+      "text": "digunakan untuk mencemarkan nama baik dan kehormatan \nPemohon; \n\n \n \n17",
+      "start_line": 604,
+      "end_line": 609
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi tangkapan layar akun media social Pemoh on, dan",
+      "slug": "5-bukti-p-5-fotokopi-tangkapan-layar-akun-media-social-pemoh-on-dan",
+      "text": "tangkapan layar laporan ke platform Tiktok untuk memblokir \nakun dimaksud;",
+      "start_line": 611,
+      "end_line": 612
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Laporan Polisi.",
+      "slug": "6-bukti-p-6-fotokopi-laporan-polisi",
+      "text": "[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan, yang \nmerupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.",
+      "start_line": 614,
+      "end_line": 616
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun \n1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2 003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir kali deng an Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang- Undang \nNomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negar a Republik \nIndonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a \nUndang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembar an Negara \nRepublik Indonesia Nomor 5076), Mahkamah berwenang, antara lain , mengadili \npada tingkat pertama dan terakhir yang putusannya bersifat fina l untuk menguji \nundang-undang terhadap UUD NRI Tahun 1945. \n[3.2]  Menimbang bahwa oleh karena permohonan Pemohon adalah pengujia n \nkonstitusionalitas undang-undang, in casu norma Pasal 4 huruf e Undang-Undang \nNomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran \nNegara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembara n Negara \nRepublik Indonesia Nomor 4843, selanjutnya disebut UU 11/2008) sebagaimana \ntelah diubah terakhir dengan Undang-Undang Nomor 1 Tahun 2024 t entang \nPerubahan Kedua Atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi \ndan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2024 Nomor \n\n \n \n18 \n1, Tambahan Lembaran Negara Republik Indonesia Nomor 6905) terh adap UUD \nNRI Tahun 1945, maka Mahkamah berwenang mengadili permohonan a quo. \n[3.3] Menimbang bahwa meskipun Mahkamah berwenang untuk mengadili \npermohonan a quo, namun sebelum mempertimbangkan lebih lanjut permohonan \nPemohon, Mahkamah mempertimbangkan hal-hal sebagai berikut. \n[3.3.1] Bahwa Mahkamah telah memeriksa permohonan a quo  dalam sidang \npemeriksaan pendahuluan dengan agenda mendengarkan pokok permoh onan \nPemohon pada tanggal 14 Juli 2026. Berdasarkan ketentuan Pasal 39 UU MK dan \nPasal 36 ayat (3) Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2 025 tentang \nTata Beracara Dalam Perkara Pengujian Undang-Undang (disebut PM K 7/2025), \nMahkamah memberikan nasihat kepada Pemohon untuk memperbaiki si stematika \npermohonan dan substansi sistematika dimaksud, yaitu ihwal berk enaan dengan \nkewenangan Mahkamah, kedudukan hukum, alasan-alasan permohonan (posita) \nkhusus pertentangan antara norma yang dimohonkan pengujian deng an dasar \npengujian dalam UUD NRI Tahun 1945, dan memperjelas hal-hal yang dimohonkan \nuntuk diputus (petitum) agar sesuai dengan PMK 7/2025 [vide Ris alah Sidang, \ntanggal 14 Juli 2026, hlm.10-23]. Berkenaan dengan nasihat yang  disampaikan \nMahkamah, Pemohon diberikan kesempatan memperbaiki permohonan paling lama \n14 (empat belas) hari sejak tanggal 14 Juli 2026, yaitu hingga paling lama tanggal \n27 Juli 2026, pukul 12.00 WIB. Berkaitan dengan batas waktu dimaksud, Pemohon \ntelah menyampaikan perbaikan permohonan yang diterima Mahkamah pada tanggal \n23 Juli 2026. Selanjutnya, pada tanggal 27 Juli 2026, Mahkamah menyelenggarakan \nsidang pendahuluan dengan agenda mendengarkan perbaikan permoho nan dan \npengesahan alat bukti. \n[3.3.2]  Bahwa selanjutnya, perihal uraian sebagaimana dikemukakan pad a Sub-\nparagraf [3.3.1] tersebut di atas, Mahkamah menilai syarat formil suatu permohonan \nterutama berkaitan dengan uraian yang jelas ihwal pengujian und ang-undang \nterhadap UUD NRI Tahun 1945, berdasarkan Pasal 30 huruf a dan P asal 31 ayat \n( 1 )  U U  M K ,  s e r t a  P a s a l  1 0  a y a t  ( 3 )  d a n  P a s a l  3 6  a y a t  ( 1 )  P M K  7 /2025 sebagai \nberikut: \nPasal 30 huruf a UU MK  \nPermohonan wajib dibuat dengan uraian yang jelas mengenai:  \n\n \n \n19 \na. pengujian undang-undang terhadap Undang-Undang Dasar Negara \nRepublik Indonesia Tahun 1945; \nPasal 31 ayat (1) UU MK \n(1) Permohonan sekurang-kurangnya harus memuat:  \na. nama dan alamat pemohon;  \nb. uraian mengenai perihal yang menjadi dasar permohonan \nsebagaimana dimaksud dalam Pasal 30; dan",
+      "start_line": 618,
+      "end_line": 686
+    },
+    {
+      "heading": "c. hal-hal yang diminta untuk diputus.",
+      "slug": "c-hal-hal-yang-diminta-untuk-diputus",
+      "text": "Pasal 10 ayat (3) PMK 7/2025 \nPermohonan sebagaimana dimaksud pada ayat (1), sekurang-kurangn ya \nmemuat nama dan alamat Pemohon dengan menguraikan hal-hal antara lain:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 688,
+      "end_line": 692
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum).",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Pasal 36 ayat (1) PMK 7/2025 \nDalam Pemeriksaan Pendahuluan sebagaimana dimaksud dalam Pasal 35 \nayat (1) huruf a, Mahkamah memeriksa identitas Pemohon dengan \nkelengkapan dan kejelasan materi Permohonan yang meliputi:  \na. kewenangan Mahkamah;  \nb. kedudukan hukum Pemohon;",
+      "start_line": 695,
+      "end_line": 700
+    },
+    {
+      "heading": "d. hal-hal yang diminta untuk diputus (petitum)",
+      "slug": "d-hal-hal-yang-diminta-untuk-diputus-petitum",
+      "text": "Bahwa berdasarkan ketentuan persyaratan formil tersebut di ata s, pada \ndasarnya permohonan Pemohon telah disusun sesuai dengan sistema tika atau \nformat permohonan. Dalam hal ini, permohonan Pemohon a quo telah menguraikan \nperihal kewenangan Mahkamah [vide Permohonan hlm. 1], kedudukan  h u k u m  \nPemohon [vide Permohonan hlm. 3], alasan-alasan permohonan (pos ita) [vide \nPermohonan hlm. 7], dan hal-hal yang dimohonkan untuk diputus ( petitum) [vide \nPermohonan hlm. 12].   \n[3.3.3] Bahwa meskipun secara formil permohonan Pemohon telah disusun \nsesuai dengan format atau sistematika permohonan sebagaimana di atur dalam \nketentuan dimaksud di atas, namun  Mahkamah juga akan menilai ke terpenuhan \npersyaratan formil dari aspek ketepatan dan kejelasan uraian materi atau substansi \ndari masing-masing bagian pada sistematika maupun dari aspek kesesuaian antara \nposita dan petitum. Artinya, sekalipun permohonan Pemohon telah  disusun dan \nmemuat sistematika atau format permohonan secara benar, penilai an perihal \nketerpenuhan syarat formil suatu permohonan tidak hanya sampai pada sistematika \nan sich , namun Mahkamah juga akan menilai keterpenuhan kejelasan dan \nketepatan isi/substansi dari setiap bagian dalam sistematika se rta kesesuaian \n\n \n \n20 \nantara posita dan petitum permohonan. Penilaian tersebut didasa rkan pada \nketentuan Pasal 51 ayat (3) huruf b UU MK dan Pasal 68 PMK 7/20 25 sebagai \nberikut: \nPasal 51 ayat (3) huruf b UU MK  \nDalam permohonan sebagaimana dimaksud pada ayat (2), pemohon wa jib \nmenguraikan dengan jelas bahwa: \nb. materi muatan dalam ayat, pasal, dan/atau bagian undang-undang dianggap \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945. \nPasal 68 PMK 7/2025 \nMahkamah dapat menyatakan Permohonan tidak jelas atau kabur ant ara lain \nkarena:  \na. adanya ketidaksesuaian antara dalil Permohonan dalam posita dengan \npetitum;  \nb. dalil tidak terdapat dalam posita tetapi terdapat dalam peti tum atau \nsebaliknya;",
+      "start_line": 703,
+      "end_line": 739
+    },
+    {
+      "heading": "c. adanya permintaan Pemohon dalam petitum yang saling bertenta ngan",
+      "slug": "c-adanya-permintaan-pemohon-dalam-petitum-yang-saling-bertenta-ngan",
+      "text": "antara satu dengan yang lainnya dan tidak memberikan pilihan alternatif. \n[3.3.4]  Bahwa berdasarkan ketentuan sebagaimana telah dikemukanan pad a \nSub-paragraf [3.3.2] sampai dengan Sub-paragraf [3.3.3] di atas, setelah \nMahkamah mencermati dengan saksama permohonan Pemohon, Mahkamah  \nmenemukan hal-hal sebagai berikut: \n1) Pada bagian posita permohonan menguraikan ketidakjelasan fra sa “memberi \nrasa aman” dalam norma Pasal 4 huruf e UU 11/2008, oleh karena itu Pemohon \nmenginginkan harus dimaknai secara tegas mewajibkan penyelenggara platform \nmedia sosial untuk memberlakukan sistem verifikasi identitas asli yang valid bagi \npenggunanya [vide Permohonan hlm. 7-8], akan tetapi pada bagian  p e t i t u m  \npermohonan, Pemohon memohon agar norma Pasal  4 huruf e UU 11/2 008 \nbertentangan dengan UUD NRI Tahun 1945 dan karenanya tidak memp unyai \nkekuatan hukum mengikat sepanjang tidak dimaknai \"mewajibkan \npenyelenggara platform media sosial untuk memastikan setiap pen ggunanya \nmenggunakan identitas asli yang sah sebagai prasyarat dalam ber aktivitas di \nmedia sosial demi memberikan perlindungan dan menjamin hak atas rasa aman \nsebagaimana dijamin dalam Pasal 28D ayat (1) juncto Pasal 28G ayat (1) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 (UUD N RI \nTahun 1945)\", tanpa mengaitkan kembali frasa “memberi rasa aman ” \nsebagaimana yang dipersoalkan dalam posita permohonan. Oleh kar ena itu, \n\n \n \n21 \nadanya perbedaan antara hal yang dimohonkan dalam petitum denga n \npenjelasan atau argumentasi yang disusun/diuraikan pada bagian posita, \nmenurut Mahkamah telah menimbulkan ketidakjelasan mengenai hal yang \nsebenarnya diinginkan atau dimohonkan oleh Pemohon, apakah Pemo hon \nhanya menginginkan  frasa “memberi rasa aman” dalam norma Pasal  4 huruf e \nUU 11/2008 diberi makna baru atau dinyatakan inkonstitusional, ataukah \nmenginginkan norma  Pasal 4 huruf e UU 11/2008 tersebut dibatalkan secara \nkeseluruhan dengan diberi pemaknaan secara bersyarat sebagaiman a petitum \ndimaksud. Dengan kata lain, uraian argumentasi dalam alasan-ala san \npermohonan Pemohon terdapat pertentangan ( contradictio in terminis ) dengan \nhal-hal yang dimohonkan untuk diputus. \n2) Pada bagian petitum permohonan, Mahkamah mendapatkan fakta p etitum \npermohonan angka 2 selengkapnya sebagai berikut:",
+      "start_line": 741,
+      "end_line": 777
+    },
+    {
+      "heading": "2. Menyatakan Pasal 4 huruf e Undang-Undang Nomor 11 Tahun 2008",
+      "slug": "2-menyatakan-pasal-4-huruf-e-undang-undang-nomor-11-tahun-2008",
+      "text": "tentang Informasi dan Transaksi Elektronik (UU ITE) sebagaimana  telah \ndiubah terakhir dengan Undang-Undang Nomor 1 Tahun 2024 \nbertentangan dengan Undang-Undang Dasar Negara Republik Indones ia \nTahun 1945 (UUD NRI Tahun 1945) dan tidak mempunyai kekuatan hukum \nmengikat sepanjang tidak dimaknai \"mewajibkan penyelenggara pla tform \nmedia sosial untuk memastikan setiap penggunanya menggunakan \nidentitas asli yang sah sebagai prasyarat dalam beraktivitas di media sosial \ndemi memberikan perlindungan dan menjamin hak atas rasa aman \nsebagaimana dijamin dalam Pasal 28D ayat (1) juncto Pasal 28G ayat (1) \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 (UUD NRI \nTahun 1945); \n  Berkenaan dengan rumusan petitum dimaksud, Pasal 51A ayat (5) huruf b \ndan huruf c UU MK menyatakan: \n Dalam hal permohonan pengujian berupa permohonan pengujian mat eriil, \nhal yang dimohonkan untuk diputus dalam Permohonan bahwa hal ya ng \ndimohonkan untuk diputus dalam Permohonan pengujian sebagaimana  \ndimaksudkan dalam Pasal 31 ayat (1) huruf c meliputi: \na. … \nb. menyatakan bahwa materi muatan ayat, pasal, dan/atau bagian dari \nundang-undang dimaksud bertentangan dengan Undang-Undang \nDasar Negara Republik Indonesia Tahun 1945; dan",
+      "start_line": 779,
+      "end_line": 799
+    },
+    {
+      "heading": "c. menyatakan bahwa materi muatan ayat, pasal, dan/atau bagian dari",
+      "slug": "c-menyatakan-bahwa-materi-muatan-ayat-pasal-dan-atau-bagian-dari",
+      "text": "undang-undang dimaksud tidak mempunyai kekuatan hukum mengikat. \n Setelah Mahkamah mempelajari dengan saksama pada bagian petitu m \nangka 2 tersebut di atas yang dikaitkan dengan ketentuan Pasal 51A ayat (5) huruf \nb dan huruf c UU MK, telah ternyata Pemohon mencantumkan/menambahkan frasa \n\n \n \n22 \n“sebagaimana dijamin dalam Pasal 28D ayat (1) juncto Pasal 28G ayat (1) Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 (UUD NRI Tahu n 1945)”. \nMenurut Mahkamah pencantuman/penambahan frasa/kalimat tersebut merupakan \nperumusan petitum yang tidak lazim, bukan sebagaimana yang dimaksudkan dalam \nketentuan Pasal 51A ayat (5) huruf b dan huruf c UU MK serta Pasal 68 PMK 7/2025.  \n  Bahwa berdasarkan uraian pertimbangan hukum tersebut di atas,  oleh \nkarena terdapat ketidakjelasan dan ketidakkonsistenan dalam menguraikan alasan-\nalasan permohonan dengan hal-hal yang dimohonkan, sebagaimana y ang \nditentukan dalam Pasal 68 PMK 7/2025 dan adanya rumusan petitum  yang tidak \nlazim, sebagaimana ditentukan dalam Pasal 68 PMK 7/2025 serta P asal 51A ayat \n(5) huruf b dan huruf c UU MK, tidak terdapat keraguan bagi Mah kamah untuk \nmenyatakan permohonan Pemohon adalah tidak jelas atau kabur (obscuur). \n[3.4] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum \ntersebut di atas, meskipun Mahkamah berwenang mengadili permoho nan \nPemohon, namun oleh karena permohonan Pemohon tidak jelas atau kabur \n(obscuur) maka Mahkamah tidak mempertimbangkan lebih lanjut permohonan \nPemohon. \n[3.5] Menimbang bahwa terhadap hal-hal lain dan selebihnya, tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 801,
+      "end_line": 827
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum tersebut di atas, Mahkamah \nberkesimpulan: \n[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Permohonan Pemohon tidak jelas atau kabur ( obscuur); \n[4.3] Permohonan Pemohon tidak dipertimbangkan lebih lanjut. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \n\n \n \n23 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 829,
+      "end_line": 846
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenyatakan permohonan Pemohon tidak dapat diterima. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota , Saldi Isra, \nDaniel Yusmic P. Foekh, M. Guntur Hamzah,  Enny Nurbaningsih, Ridwan Mansyur, \nArsul Sani, Adies Kadir, dan Liliek Prisbawono Adi, masing-masi ng sebagai \nAnggota, pada hari Senin, tanggal dua puluh tujuh, bulan Juli, tahun dua ribu dua \npuluh enam, yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka  \nuntuk umum pada hari Kamis, tanggal tiga puluh, bulan Juli, tahun dua ribu dua \npuluh enam, selesai diucapkan pukul  13.54 WIB, oleh sembilan Hakim Konstitusi \nyaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Dan iel Yusmic P. \nFoekh, M. Guntur Hamzah,  Enny Nurbaningsih, Ridwan Mansyur, Arsul Sani, Adies \nKadir, dan Liliek Prisbawono Adi, masing-masing sebagai Anggota, dengan dibantu \noleh Agusniwan Etra sebagai Panitera Pengganti, serta dihadiri oleh Pemohon, \nDewan Perwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra \nttd. \nDaniel Yusmic P. Foekh  \n\n \n \n24 \nttd. \nM. Guntur Hamzah  \nttd. \nEnny Nurbaningsih  \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nAdies Kadir \nttd. \nLiliek Prisbawono Adi \nPANITERA PENGGANTI, \nttd. \nAgusniwan Etra",
+      "start_line": 848,
+      "end_line": 890
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Ferdinandus Klau",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 11/2008 tentang Informasi dan Transaksi Elektronik"
+    ],
+    "constitutional_articles": [
+      "pasal 28G ayat (1)",
+      "Pasal 28D ayat (1)",
+      "Pasal 28J ayat (2)",
+      "Pasal 4",
+      "Pasal 10 ayat (1) hur",
+      "Pasal 30 hur"
+    ],
+    "procedural_articles": [
+      "Pasal 36 ayat (3)",
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-2",
+      "BUKTI P-3",
+      "REFERENSI:260/PUU-XXIV/2026",
+      "REFERENSI:259/PUU/PAN.MK/AP3/07/2026",
+      "REFERENSI:006/PUU-III/2005danPutusanNomor011/PUU-V/2007"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan permohonan Pemohon tidak dapat diterima."
+    ],
+    "summary": "Menyatakan permohonan tidak dapat diterima."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi"
+    ],
+    "clerks": [
+      "Agusniwan Etra"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "260/PUU-XXIV/2026",
+      "259/PUU/PAN.MK/AP3/07/2026",
+      "006/PUU-III/2005danPutusanNomor011/PUU-V/2007"
+    ],
+    "referenced_cases": [
+      "260/PUU-XXIV/2026",
+      "259/PUU/PAN.MK/AP3/07/2026",
+      "006/PUU-III/2005danPutusanNomor011/PUU-V/2007"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

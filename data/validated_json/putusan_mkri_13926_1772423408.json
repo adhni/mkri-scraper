@@ -1,0 +1,762 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_13926_1772423408.pdf",
+    "file_name": "putusan_mkri_13926_1772423408.pdf",
+    "page_count": 43,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_13926_1772423408.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "274/PUU-XXIII/2025",
+    "related_case_numbers": [],
+    "title": "1",
+    "decision_date": "2026-03-02",
+    "decision_date_raw": "dua, bulan Maret, tahun dua ribu dua puluh enam",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "1",
+      "start_line": 1,
+      "end_line": 5
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "NOMOR 274/PUU-XXIII/2025",
+      "start_line": 7,
+      "end_line": 7
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1]  Yang mengadili penguj ian undang-undang pada tingkat pertama dan  \nterakhir, menjatuhkan putusan dalam Permohonan Pengujian Undang -Undang \nNomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana ter hadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 9,
+      "end_line": 13
+    },
+    {
+      "heading": "1. Nama : Rahmat Najmu",
+      "slug": "1-nama-rahmat-najmu",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Gampong Dayah Meunara, Kecamatan Kuta \nMakmur, Kabupaten  Aceh utara, Provinsi Aceh \nSelanjutnya disebut ------------------------------------------------------------------ Pemohon I",
+      "start_line": 15,
+      "end_line": 18
+    },
+    {
+      "heading": "2. Nama : Nissa Sharfina Nayla",
+      "slug": "2-nama-nissa-sharfina-nayla",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Jalan Hidup Baru III/31, RT/RW 010/010, Kelurahan \nGandaria Utara, Kecamatan Kebayoran Baru, Jakarta \nSelatan, DKI Jakarta   \nSelanjutnya disebut ----------------------------------------------------------------- Pemohon II",
+      "start_line": 20,
+      "end_line": 24
+    },
+    {
+      "heading": "3. Nama : Wahyu Eka Jayanti",
+      "slug": "3-nama-wahyu-eka-jayanti",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Kp. Bend Melayu, RT 010/RW 005, Kelurahan Tugu \nSelatan, Kecamatan Koja, Jakarta Utara, DKI Jakarta\nSelanjutnya disebut ----------------------------------------------------------------- Pemohon III",
+      "start_line": 26,
+      "end_line": 29
+    },
+    {
+      "heading": "4. Nama : Scholastica Asyana Eka Putri P.",
+      "slug": "4-nama-scholastica-asyana-eka-putri-p",
+      "text": "Pekerjaan  : Mahasiswa  \n\n\n2 \n \n Alamat : Purwokinanti PA I/332, RT 019/RW 004 Purwokinanti, \nPakualaman, Yogyakarta \nSelanjutnya disebut ----------------------------------------------------------------- Pemohon IV",
+      "start_line": 31,
+      "end_line": 38
+    },
+    {
+      "heading": "5. Nama : Reni Rianti",
+      "slug": "5-nama-reni-rianti",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Dusun Kliwon, RT 001/RW 012, Andir, Jatiwangi, \nKabupaten Majalengka, Jawa Barat \nSelanjutnya disebut ------------------------------------------------------------------ Pemohon V",
+      "start_line": 40,
+      "end_line": 43
+    },
+    {
+      "heading": "6. Nama : Alliffah Wahyu Sanyoto T.",
+      "slug": "6-nama-alliffah-wahyu-sanyoto-t",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Dk Jatisawit, RT 001/RW 002, jatimulya, Kuwarasan, \nKebumen,Jawa Tengah \nSelanjutnya disebut ----------------------------------------------------------------- Pemohon VI",
+      "start_line": 45,
+      "end_line": 48
+    },
+    {
+      "heading": "7. Nama : Rifky Andy Darmawan",
+      "slug": "7-nama-rifky-andy-darmawan",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Jatimulya, RT 002/RW 007, Jati Mulya, Kosambi, \nKab. Tangerang Banten \nSelanjutnya disebut ---------------------------------------------------------------- Pemohon VII",
+      "start_line": 50,
+      "end_line": 53
+    },
+    {
+      "heading": "8. Nama : Safira Gita Rahmawati",
+      "slug": "8-nama-safira-gita-rahmawati",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Blok Mundu, RT 003/RW 004, Segeran Kidul, \nJuntinyuat, Indramayu, Jawa Barat \nSelanjutnya disebut --------------------------------------------------------------- Pemohon VIII",
+      "start_line": 55,
+      "end_line": 58
+    },
+    {
+      "heading": "9. Nama : Rizka Aliya Putri",
+      "slug": "9-nama-rizka-aliya-putri",
+      "text": "Pekerjaan  : Mahasiswa  \n Alamat : Lingkungan Cipayung RT 004/RW 001, Abadijaya, \nSukmajaya Depok, Jawa Barat \nSelanjutnya disebut ----------------------------------------------------------------- Pemohon IX \nBerdasarkan Surat Kuasa Khusus bertanggal 20 Desember 2025 dan 14 Januari \n2026 memberikan kuasa kepada: Zico Leonard Djagardo Simanjuntak , S.H., Leon \nMaulana Mirza Pasha, S.H., Priskila Octaviani, S.H., Ratu Eka S haira, S.H., Ni \n\n3 \n \nKadek Sri Yulianti, Gusti Putu Agung Cinta Arya Diningrat, dan Bernita Matondang \nyang kesemuanya merupakan Advokat dan Konsultan Hukum pada Kant or Hukum \nLeo & Partners, beralamat di Grand Slipi Tower Lantai 5 Unit F,  Jalan S. Parman \nKav. 22-24, Kel. Palmerah, Kec. Palmerah, Jakarta Barat, DKI Ja karta, bertindak \nbersama-sama maupun sendiri-sendiri, untuk dan atas nama pemberi kuasa; \nSelanjutnya Pemohon I sampai dengan Pemohon IX disebut -------- para Pemohon; \n [1.2] Membaca permohonan para Pemohon; \n Mendengar keterangan para Pemohon; \n Memeriksa bukti-bukti para Pemohon.",
+      "start_line": 60,
+      "end_line": 78
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1]   Menimbang bahwa para Pemohon telah mengajukan permohonan yan g \nditerima Kepaniteraan Mahkamah Konstitusi pada tanggal 28 Desem ber 2025   \nberdasarkan Akta Pengajuan  Permohonan Pemohon Nomor 280/PUU/PA N.MK/ \nAP3/12/2025 dan telah dicatat dalam Buku Registrasi Perkara Kon stitusi pada \ntanggal 29 Desember 2025  dengan Nomor 274/PUU-XXIII/2025, yang  t e l a h  \ndiperbaiki dan diterima Mahkamah pada tanggal 26 Januari 2026, pada pokoknya \nmenguraikan hal-hal sebagai berikut: \nI. KEWENANGAN MAHKAMAH KONSTITUSI",
+      "start_line": 80,
+      "end_line": 87
+    },
+    {
+      "heading": "1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara",
+      "slug": "1-bahwa-pasal-24-ayat-2-perubahan-ketiga-undang-undang-dasar-negara",
+      "text": "Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI 1945 ) \nmenyatakan: \n“Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan \nbadan peradilan yang berada di bawahnya dalam lingkungan peradi lan \numum, lingkungan peradilan agama, lingkungan peradilan militer,  \nlingkungan peradilan tata usaha negara, dan oleh sebuah Mahkama h \nKonstitusi”;",
+      "start_line": 89,
+      "end_line": 95
+    },
+    {
+      "heading": "2. Bahwa selanjutnya Mahkamah Konstitusi (selanjutnya disebut M K) sebagai",
+      "slug": "2-bahwa-selanjutnya-mahkamah-konstitusi-selanjutnya-disebut-m-k-sebagai",
+      "text": "salah satu pelaku kekuasaan kehakiman diberikan kewenangan konstitusional \nyang tertuang pada Pasal 24C ayat (1) Perubahan Keempat UUD NRI 1945: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama da n \nterakhir yang putusannya bersifat final untuk menguji undang-un dang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan \nlembaga negara yang kewenangannya diberikan oleh Undang-Undang \nDasar, memutus pembubaran partai politik dan memutus perselisih an \ntentang hasil Pemilihan Umum”; \n\n4",
+      "start_line": 97,
+      "end_line": 107
+    },
+    {
+      "heading": "3. Bahwa berdasarkan Pasal 9 ayat (1) Undang-Undang Nomor 12 Ta hun 2011",
+      "slug": "3-bahwa-berdasarkan-pasal-9-ayat-1-undang-undang-nomor-12-ta-hun-2011",
+      "text": "tentang Pembentukan Peraturan Perundang-Undangan sebagaimana te lah \ndiubah terakhir dalam Undang-Undang (UU) Nomor 13 Tahun 2022 te ntang \nPerubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang \nPembentukan Peraturan Perundang-Undangan menegaskan bahwa: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi”;",
+      "start_line": 109,
+      "end_line": 115
+    },
+    {
+      "heading": "4. Bahwa berdasarkan Pasal 29 ayat (1) Undang-Undang Nomor 48 Tahun 2009",
+      "slug": "4-bahwa-berdasarkan-pasal-29-ayat-1-undang-undang-nomor-48-tahun-2009",
+      "text": "tentang Kekuasaan Kehakiman, menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undang-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945; c. memutus pembubaran partai politik; d. memutus \nperselisihan tentang hasil pemilihan umum; dan e. kewenangan lain yang \ndiberikan oleh undang-undang”",
+      "start_line": 117,
+      "end_line": 125
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 10 ayat (1) Undang-Undang Nomor 24 Tahun 2003",
+      "slug": "5-bahwa-berdasarkan-pasal-10-ayat-1-undang-undang-nomor-24-tahun-2003",
+      "text": "tentang Mahkamah Konstitusi sebagaimana yang telah diubah terak hir \ndengan Undang-undang (UU) Nomor 7 Tahun 2020 tentang Perubahan Ketiga \natas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstit usi, \nmenyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama d an \nterakhir yang putusannya bersifat final untuk: a. menguji undang-undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945; b. memutus sengketa kewenangan lembaga negara yang \nkewenangannya diberikan oleh Undang-Undang Dasar Negara Republi k \nIndonesia Tahun 1945; c. memutus pembubaran partai politik; dan  d .  \nmemutus perselisihan tentang hasil pemilihan umum.”",
+      "start_line": 127,
+      "end_line": 137
+    },
+    {
+      "heading": "6. Bahwa dalam ketentuan Pasal 9 ayat (1) Undang-Undang Nomor 1 3 Tahun",
+      "slug": "6-bahwa-dalam-ketentuan-pasal-9-ayat-1-undang-undang-nomor-1-3-tahun",
+      "text": "2022 tentang Perubahan Kedua Atas Undang-Undang Nomor 12 Tahun 2011 \ntentang Pembentukan Peraturan Perundang-Undangan (UU No. 13 Tah un \n2022), menyatakan: \n“Dalam hal suatu Undang-Undang diduga bertentangan dengan Undan g-\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya  \ndilakukan oleh Mahkamah Konstitusi”.",
+      "start_line": 139,
+      "end_line": 144
+    },
+    {
+      "heading": "7. Bahwa dalam melaksanakan kewenangannya dalam melakukan pengu jian",
+      "slug": "7-bahwa-dalam-melaksanakan-kewenangannya-dalam-melakukan-pengu-jian",
+      "text": "Undang-Undang terhadap Undang-Undang Dasar Negara Republik Indonesia \nTahun 1945, MK memiliki 5 (lima) fungsi, antara lain: \n\n5 \n \n1) Mahkamah Konstitusi sebagai Pengawal Konstitusi atau The Guardian of \nConstitution, \n2) Mahkamah Konstitusi sebagai Penafsir Akhir Konstitusi atau The Final \nInterpreter of Constitution, \n3) Mahkamah Konstitusi sebagai Pengawal Demokrasi atau The Guardian \nof Democracy, \n4) Mahkamah Konstitusi sebagai Pelindung Hak Konstitusional War ga \nNegara atau The Protector of Citizens Constitutional Rights,  \n5) Mahkamah Konstitusi sebagai Pelindung Hak Asasi Manusia atau  The \nProtector of Human Rights.",
+      "start_line": 146,
+      "end_line": 160
+    },
+    {
+      "heading": "8. Bahwa berdasarkan Pasal 2 ayat (1) Peraturan Mahkamah Konsti tusi Nomor",
+      "slug": "8-bahwa-berdasarkan-pasal-2-ayat-1-peraturan-mahkamah-konsti-tusi-nomor",
+      "text": "7 Tahun 2025 tentang Tata Beracara Dalam Perkara Pengujian Unda ng-\nUndang, menyatakan: \n“Objek Permohonan PUU adalah undang-undang dan Perppu”;  \nOleh karenanya, Mahkamah Konstitusi berwenang mengadili perkara  a quo \nkarena para Pemohon mengajukan permohonan pengujian konstitusio nalitas \nundang-undang yaitu: Undang-Undang Nomor 1 Tahun 2023 tentang K itab \nUndang-Undang Hukum Pidana;",
+      "start_line": 162,
+      "end_line": 168
+    },
+    {
+      "heading": "9. Bahwa permohonan para Pemohon adalah permohonan pengujian Un dang-",
+      "slug": "9-bahwa-permohonan-para-pemohon-adalah-permohonan-pengujian-un-dang",
+      "text": "Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pid ana \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 19 45, \nkhususnya berkaitan dengan pengujian konstitusionalitas Pasal 3 02 ayat (1) \ndan (2) KUHP karena dianggap bertentangan dengan Pasal 28D ayat  ( 1 ) ,  \nPasal 28E ayat (1), Pasal 28E ayat (2), dan Pasal 28I ayat (1) UUD NRI 1945;",
+      "start_line": 170,
+      "end_line": 174
+    },
+    {
+      "heading": "10. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah nyata bahwa",
+      "slug": "10-bahwa-berdasarkan-uraian-sebagaimana-tersebut-di-atas-telah-nyata-bahwa",
+      "text": "objek permohonan a quo  memenuhi syarat sebagai objek permohonan \npengujian materiil Undang-Undang terhadap UUD 1945. Oleh karena nya, \nMahkamah Konstitusi berwenang untuk memeriksa, mengadili, dan memutus \nkonstitusionalitas Undang-Undang terhadap UUD 1945 dalam perkar a a quo \nyang diajukan oleh para Pemohon.   \n \n \n\n6 \n \nII. KEDUDUKAN HUKUM (LEGAL STANDING)  DAN KERUGIAN",
+      "start_line": 176,
+      "end_line": 186
+    },
+    {
+      "heading": "1. Bahwa Pasal 51 ayat (1) UU Mahkamah Konstitusi menyatakan ba hwa",
+      "slug": "1-bahwa-pasal-51-ayat-1-uu-mahkamah-konstitusi-menyatakan-ba-hwa",
+      "text": "pemohon adalah pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na. perorangan WNI; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai \ndengan perkembangan masyarakat dan prinsip negara kesatuan RI y ang \ndiatur dalam undang-undang;",
+      "start_line": 189,
+      "end_line": 194
+    },
+    {
+      "heading": "2. Bahwa berdasarkan ketentuan tersebut, maka terlebih dahulu p ara Pemohon",
+      "slug": "2-bahwa-berdasarkan-ketentuan-tersebut-maka-terlebih-dahulu-p-ara-pemohon",
+      "text": "menguraikan kedudukan hukum (legal standing), sebagai berikut: \na. Bahwa Pemohon I merupakan perseorangan WNI yang telah sah me miliki \nKartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prod i \nHukum, Fakultas Hukum Universitas Malikussaleh [Bukti P-3 dan P-12]; \nb. Bahwa Pemohon II merupakan perseorangan WNI yang telah sah m emiliki \nKartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prod i \nHukum Universitas Terbuka [Bukti P-4 dan P-13];",
+      "start_line": 198,
+      "end_line": 204
+    },
+    {
+      "heading": "c. Bahwa Pemohon III merupakan perseorangan WNI yang telah sah memiliki",
+      "slug": "c-bahwa-pemohon-iii-merupakan-perseorangan-wni-yang-telah-sah-memiliki",
+      "text": "Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prod i \nHukum Universitas Terbuka [Bukti P-5 dan P-14];",
+      "start_line": 206,
+      "end_line": 207
+    },
+    {
+      "heading": "d. Bahwa Pemohon IV merupakan perseorangan WNI yang telah sah memiliki",
+      "slug": "d-bahwa-pemohon-iv-merupakan-perseorangan-wni-yang-telah-sah-memiliki",
+      "text": "Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prod i \nHukum Universitas Terbuka [Bukti P-6 dan P-15]; \ne. Bahwa Pemohon V merupakan perseorangan WNI yang telah sah me miliki \nKartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prod i \nHukum Universitas Terbuka [Bukti P-7 dan P-16]; \nf. Bahwa Pemohon VI merupakan perseorangan WNI yang telah sah m emiliki \nKartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prod i \nHukum Universitas Terbuka [Bukti P-8 dan P-17]; \ng. Bahwa Pemohon VII merupakan perseorangan WNI yang telah sah \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa \nProdi Hukum Universitas Terbuka [Bukti P-9 dan P-18]; \n\n7 \n \nh. Bahwa Pemohon VIII merupakan perseorangan WNI yang telah sah  \nmemiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa \nProdi Hukum Universitas Terbuka [Bukti P-10 dan P-19];",
+      "start_line": 209,
+      "end_line": 225
+    },
+    {
+      "heading": "i. Bahwa Pemohon IX merupakan perseorangan WNI yang telah sah m emiliki",
+      "slug": "i-bahwa-pemohon-ix-merupakan-perseorangan-wni-yang-telah-sah-m-emiliki",
+      "text": "Kartu Tanda Penduduk (KTP) dan merupakan seorang mahasiswa Prod i \nHukum Universitas Terbuka [Bukti P-11 dan P-20].",
+      "start_line": 227,
+      "end_line": 228
+    },
+    {
+      "heading": "3. Bahwa uraian sebagaimana disebutkan dalam poin 2), menegaska n para",
+      "slug": "3-bahwa-uraian-sebagaimana-disebutkan-dalam-poin-2-menegaska-n-para",
+      "text": "Pemohon memenuhi dan memiliki kedudukan hukum (legal standing) sebagai \nperseorangan warga negara Indonesia sehingga pemohon dapat mengajukan \npermohonan pengujian UU terhadap UUD NRI 1945. Selanjutnya, par a \nPemohon akan menguraikan kerugian konstitusional yang dialami sehubungan \ndengan berlakunya UU yang diujikan konstitusionalitasnya dalam perkara  \na quo.",
+      "start_line": 230,
+      "end_line": 235
+    },
+    {
+      "heading": "4. Bahwa Putusan Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan Perkara",
+      "slug": "4-bahwa-putusan-mahkamah-konstitusi-nomor-006-puu-iii-2005-dan-perkara",
+      "text": "Nomor 11/PUU-V/2007, juga menyebutkan tentang kapasitas pemohon dalam \nmengajukan permohonan pengujian UU terhadap UUD NRI 1945, yaitu:  \na. Adanya hak konstitusional pemohon yang diberikan oleh Undang -\nUndang Dasar Negara Republik Indonesia 1945. \nb. Bahwa hak konstitusional pemohon tersebut dianggap oleh para  \npemohon telah dirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 237,
+      "end_line": 242
+    },
+    {
+      "heading": "c. Bahwa kerugian konstitusional pemohon yang dimaksud bersifat",
+      "slug": "c-bahwa-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat",
+      "text": "spesifik atau khusus dan aktual atau setidaknya bersifat potensial yang \nmenurut penalaran yang wajar dapat dipastikan akan terjadi.",
+      "start_line": 244,
+      "end_line": 245
+    },
+    {
+      "heading": "d. Adanya hubungan sebab akibat antara kerugian dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya",
+      "text": "Undang-Undang yang dimohonkan untuk diuji. \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan maka \nkerugian konstitusional yang didalilkan tidak akan atau tidak terjadi lagi.",
+      "start_line": 247,
+      "end_line": 249
+    },
+    {
+      "heading": "5. Bahwa hak dan/atau kewenangan konstitusional para Pemohon di jamin oleh",
+      "slug": "5-bahwa-hak-dan-atau-kewenangan-konstitusional-para-pemohon-di-jamin-oleh",
+      "text": "UUD NRI 1945 yang telah diatur dalam beberapa pasal yang diguna kan \nsebagai dasar pengujian dalam perkara a quo, yaitu: (Bukti P-2) \na) Pasal 28D Ayat (1) UUD NRI 1945, menyatakan “Setiap orang be rhak \natas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil \nserta perlakuan yang sama di hadapan hukum” \nb) Pasal 28E ayat (1)  UUD NRI 1945, menyatakan “Setiap orang bebas \nmemeluk agama dan beribadat menurut agamanya, memilih pendidikan \ndan pengajaran, memilih pekerjaan, memilih kewarganegaraan, memilih \ntempat tinggal di wilayah negara dan meninggalkannya, serta ber hak \nkembali”. \n\n8 \n \nc) Pasal 28E ayat (2)  UUD NRI 1945, menyatakan “Setiap orang berhak \natas kebebasan meyakini kepercayaan, menyatakan pikiran, dan si kap \nsesuai dengan hati nurani”. \nd) Pasal 28 I ayat (1) UUD NRI 1945, menyatakan “Hak untuk hidup, hak \nuntuk tidak disiksa, hak kemerdekaan pikiran dan hati nurani, h ak \nberagama, hak untuk tidak diperbudak, hak untuk diakui sebagai pribadi \ndihadapan hukum, dan hak untuk tidak dituntut atas dasar hukum yang \nberlaku surut adalah hak asasi manusia yang tidak dapat dikuran gi \ndalam keadaan apapun”.",
+      "start_line": 251,
+      "end_line": 272
+    },
+    {
+      "heading": "6. Bahwa hak dan/atau kewenangan konstitusional yang dijamin da lam UUD NRI",
+      "slug": "6-bahwa-hak-dan-atau-kewenangan-konstitusional-yang-dijamin-da-lam-uud-nri",
+      "text": "1945 tersebut telah dirugikan dengan pasal sebagai berikut: \nPasal 302 ayat (1) dan ayat (2) KUHP yang menyatakan: \n“(1) Setiap Orang yang Di Muka Umum menghasut dengan maksud aga r \nseseorang menjadi tidak beragama atau berkepercayaan  yang dianut",
+      "start_line": 274,
+      "end_line": 277
+    },
+    {
+      "heading": "di Indonesia, dipidana dengan pidana penjara paling lama 2 (dua) tahun",
+      "slug": "di-indonesia-dipidana-dengan-pidana-penjara-paling-lama-2-dua-tahun",
+      "text": "atau pidana denda paling banyak kategori III. \n(2) Setiap Orang yang dengan Kekerasan atau Ancaman Kekerasan \nmemaksa seseorang menjadi tidak beragama atau berkepercayaan at au \nberpindah agama atau kepercayaan yang dianut di Indonesia, dipi dana \ndengan pidana penjara paling lama 4 (empat) tahun atau pidana d enda \npaling banyak kategori IV.”",
+      "start_line": 279,
+      "end_line": 284
+    },
+    {
+      "heading": "7. Bahwa dengan berlakunya pasal sebagaimana tersebut dalam poi n 6), para",
+      "slug": "7-bahwa-dengan-berlakunya-pasal-sebagaimana-tersebut-dalam-poi-n-6-para",
+      "text": "Pemohon telah mengalami kerugian konstitusional, baik yang bersifat spesifik, \naktual, atau setidak-tidaknya potensial yang menurut penalaran wajar dapat \ndipastikan akan terjadi, serta adanya hubungan sebab akibat (causal verband) \nantara berlakunya pasal yang diuji dengan kerugian hak konstitu sional para \nPemohon, yang akan dijelaskan sebagai berikut: \na) Bahwa Pemohon I, Pemohon II, Pemohon III, Pemohon IV, Pemoho n VI, \nPemohon VII, Pemohon VIII, Pemohon IX  merupakan perorangan Warga \nNegara Indonesia (WNI) yang menganut agama mayoritas penduduk d i \nIndonesia, sedangkan Pemohon V  merupakan perorangan Warga Negara \nIndonesia (WNI) yang menganut agama minoritas yang diakui secar a sah",
+      "start_line": 286,
+      "end_line": 295
+    },
+    {
+      "heading": "di Negara Indonesia;",
+      "slug": "di-negara-indonesia",
+      "text": "b) Bahwa keberlakuan Pasal a quo, mengekang kebebasan para Pemohon \ndalam menjalankan imannya secara teguh terhadap kepercayaan mas ing-\nmasing, sebab pemerintah lah yang secara subjektif menentukan a gama \ndan kepercayaan mana yang sah ada di Indonesia. Artinya, pemeri ntah \n\n9 \n \nyang secara semena-mena dapat menentukan agama dan kepercayaan \nmana yang ada di Indonesia, tanpa pertimbangan maupun indikator ukuran \nyang jelas. Misalnya, saat ini keenam agama yang “diakui” di Indonesia, itu \npun berdasarkan produk hukum pemerintah yang sangat subjektif. Padahal \ndari enam agama yang “diakui” itu pun masing-masing memiliki aliran-aliran \nyang juga memiliki perbedaan ajaran dan keyakinan yang cukup signifikan. \nMisalnya, dalam agama Islam, dikenal Islam sunni, yang merupaka n \nmayoritas besar umat Muslim di dunia dengan mengakui empat khal ifah \npertama (Abu Bakar, Umar, Utsman, Ali) sebagai pemimpin sah set elah \nNabi, dan Islam Syiah yang percaya kepemimpinan harus di warisk an \nkepada keluarga Nabi, dimulai dari Ali bin Abi Thalib, dan meng anggap \niman (Imamah) sebagai bagian penting dari agama. Lalu, misalnya  dalam \nagama Kristen yang terbagi menjadi tiga yakni, Katolik, Protest an, dan \nOrtodoks, dan ada juga Saksi Yehuwa yang menganggap dirinya bag ian \ndari Kekristenan, sementara mayoritas umat Kristen tidak mengak ui \nmereka. Maka pertanyaannya, yang mana yang merupakan agama yang  \n“diakui” oleh pemerintah? Dan belum lagi soal kepercayaan. Akib atnya, \npemerintah dapat semena-mena kapan saja “menuduh” suatu agama atau \nkepercayaan bukanlah agama atau kepercayaan yang ada di Indonesia; \nc) Bahwa dalam Pasal a quo  dengan frasa “tidak beragama atau \nberkepercayaan yang dianut di Indonesia” tidak memiliki paramet er yang \njelas mengenai batasan antara perbedaan agama, perbedaan aliran dalam \nagama yang sama, atau perbedaan denominasi yang sah untuk disebarkan. \nAkibatnya, para Pemohon yang menjalankan imannya secara teguh d an \nberupaya menyebarkan ajaran agama dan kepercayaannya berpotensi  \ndikriminalisasi karena dianggap “menghasut agar seseorang menja di tidak \nberagama atau berkepercayaan yang dianut di Indonesia”, meskipu n yang \ndilakukan hanyalah menyampaikan pandangan aliran keagamaan yang  \nberbeda. Sebagai akibatnya, pemerintah bisa semena-mena menentu kan \nagama dan kepercayaan mana yang sah ada di Indonesia; \nd) Bahwa Pemohon  V yang merupakan penganut agama minoritas di \nIndonesia, berpotensi mengalami rasa takut dan chilling effect  dalam \nmenyampaikan pandangan  keagamaannya. Hal tersebut disebabkan \nkarena adanya kekhawatiran bahwa penyebaran ajaran agama atau \n\n10 \n \nkepercayaannya dapat ditafsirkan sebagai perbuatan “menghasut a gar \nseseorang menjadi tidak beragama atau berkepercayaan yang dianu t di \nIndonesia”. Kekhawatiran tersebut muncul karena norma a quo tidak \nmemberikan batasan yang jelas mengenai siapa yang berwenang \nmenentukan suatu aliran kepercayaan atau ajaran agama termasuk dalam \nkategori “yang dianut di Indonesia” atau tidak, sehingga Pemoho n V \nberpotensi dipidana, meskipun perbuatan yang dilakukan hanyalah  \nmemperkenalkan atau menyebarkan pandangan keagamaan;  \ne) Bahwa ketidakjelasan Pasal a quo membuka ruang penafsiran yang luas \ndan subjektif, sehingga norma a quo  berpotensi diterapkan secara \nsewenang-wenang dan tidak adil, di mana seseorang dapat dipidan a \nsemata-mata karena mendiskusikan atau menyatakan pandangan \nketidakpercayaan terhadap agama secara terbuka di ruang publik atau \nmuka umum. Selain itu, ketidakjelasan norma a quo melanggar prinsip lex \ncerta dan lex stricta  yang merupakan bagian dari asas legalitas \nsebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI 1945; \nf) Bahwa dengan berlakunya Pasal 302 ayat (1) dan ayat (2) KUHP , para \nPemohon berada dalam posisi yang rentan terhadap kriminalisasi ketika \nmenjalankan hak konstitusionalnya untuk menyatakan pendapat, pi kiran, \ndan keyakinan di muka umum. Norma a quo menempatkan ekspresi non-\nkoersif dan pertukaran gagasan sebagai perbuatan yang berisiko dipidana, \nsehingga membatasi ruang partisipasi warga negara dalam diskursus publik \nyang sah dalam negara demokratis. Akibatnya, berbagai bentuk ek spresi, \ntermasuk diskusi, ceramah ilmiah, presentasi, publikasi akademik, maupun \nekspresi personal yang dilakukan oleh para Pemohon berpotensi dianggap \nsebagai perbuatan pidana, meskipun dilakukan tanpa paksaan, tan pa \nkekerasan, dan dalam rangka pertukaran gagasan yang dilindungi oleh \nkonstitusi; \ng) Bahwa para Pemohon sebagai mahasiswa aktif sering mendapatka n \nkesempatan untuk melakukan public speaking  dalam berbagai kegiatan \nakademik. Dalam public speaking , tentu para Pemohon haruslah tetap \nberpegang teguh pada iman yang diyakini sehingga apapun yang pa ra \nPemohon sampaikan haruslah tetap didasari oleh iman masing-masi ng. \nNamun, keberlakuan pasal a quo , mengekang para Pemohon untuk \n\n11 \n \nmemegang teguh imannya masing-masing. Sebagai contoh, apabila dalam \nsuatu kompetisi debat, salah satu para Pemohon yang menganut ag ama \nmayoritas menyebutkan suatu tokoh agama sesuai dengan keyakinan nya \nsebagai “Nabi”, namun hal tersebut didengar oleh penonton yang menganut \nagama minoritas yang meyakini tokoh tersebut sebagai “Tuhan”, m aka \npenonton tersebut dapat menganggap para Pemohon telah melakukan  \nperbuatan penghasutan untuk tidak beragama atau berkepercayaan yang \ndianut di Indonesia karena perbedaan keyakinan tersebut. Sehing ga, para \nPemohon yang hanya menjalankan imannya secara teguh dalam ruang  \npublik berpotensi dikriminalisasi akibat perbedaan keyakinan teologis yang \nseharusnya dilindungi oleh konstitusi; \nh) Bahwa para Pemohon sebagai penganut agama yang beragam, memi liki \nhak konstitusional untuk menyebarkan dan mendakwahkan ajaran ag ama \ndan kepercayaannya masing-masing. Namun, dengan ketidakpastian \nnorma a quo , para Pemohon berpotensi dipidana semata-mata karena \nmenyampaikan pandangan keagamaan mereka yang berbeda dengan \npandangan yang dianggap “resmi” oleh pemerintah. Hal ini menunj ukkan \nbahwa norma a quo  menempatkan penafsiran mengenai agama dan \nkepercayaan yang sah sepenuhnya pada kehendak pemerintah;",
+      "start_line": 297,
+      "end_line": 396
+    },
+    {
+      "heading": "8. Bahwa oleh karena kerugian konstitusional yang telah dijabar kan telah nyata",
+      "slug": "8-bahwa-oleh-karena-kerugian-konstitusional-yang-telah-dijabar-kan-telah-nyata",
+      "text": "dialami para Pemohon, maka para Pemohon memiliki kedudukan hukum (legal \nstanding) sebagai pemohon Pengujian Undang-Undang dalam perkara a quo \nkarena telah memenuhi ketentuan Pasal 51 ayat (1) UU Mahkamah Konstitusi \nbeserta Penjelasannya dalam syarat kerugian hak konstitusional sebagaimana \ntertuang dalam Putusan Mahkamah Konstitusi Nomor 006/PUU-III/20 05 dan \nPutusan Mahkamah Konstitusi Nomor Nomor 011/PUU-V/2007.  \nIII. ALASAN PERMOHONAN \nA. Norma Pasal 302 ayat (1) dan (2) KUHP Menimbulkan Ketidakpas tian \nHukum dan Pembatasan yang berlebihan dan tidak proporsional \nterhadap Kebebasan Beragama dan Berkeyakinan sehingga \nbertentangan dengan Pasal 28D ayat (1) UUD NRI 1945 \n1) Bahwa Indonesia tidak hanya memiliki suku bangsa yang beraga m, \nnamun juga memiliki agama dan kepercayaan yang beragam. Terdapa t \n\n12 \n \nenam agama resmi di Indonesia, yakni agama Islam, Kristen Katol ik, \nKristen Protestan, Hindu,  \nBuddha, dan Konghucu. Di samping dari keenam agama yang resmi, \nIndonesia juga tumbuh dan berkembang dengan keyakinan lain yang  \ndisebut dengan kepercayaan tradisional; \n2) Bahwa dalam bagian Penjelasan Pasal 302 ayat (1) dan (2) KUH P \nmenegaskan bahwa “Ketentuan ini bukan merupakan pembatasan bagi  \nseseorang untuk berpindah agama atau kepercayaan yang ada di \nNegara Kesatuan Republik Indonesia”. Namun demikian, norma a quo \njustru memperlihatkan perbedaan perlakuan hukum yang signifikan; \na. Pasal 302 ayat (1) dan (2) KUHP tidak mengkriminalisasi perb uatan \nmendorong atau mengajak seseorang untuk berpindah dari satu \nagama ke agama lain. Sebaliknya, perbuatan mendorong atau \nmengajak orang lain meskipun dilakukan tanpa kekerasan atau \nancaman kekerasan, dikualifikasikan sebagai tindak pidana. Dan \npendasaran hal ini didasarkan pada rumusan yang memiliki \nketidakpastian hukum yakni “diakui di Indonesia”. Ini menunjukk an \nbahwa pembatasan tidak didasarkan pada cara atau akibat yang \nmembahayakan ketertiban umum, melainkan pada substansi \npandangan atau keyakinan pemerintah, sehingga bertentangan \ndengan prinsip persamaan di hadapan hukum dan kebebasan \nberkeyakinan; \nb. Bahwa mengenai “kepercayaan yang diakui di Indonesia” ini \nsangatlah memiliki ketidakpastian hukum. Begitu banyak \nkepercayaan yang memang ada di Indonesia, dan dengan adanya \npasal a quo , mengakibatkan pemerintah dapat semena-mena \nmenentukan kepercayaan mana yang diakui di Indonesia. Jika \nkepercayaan yang padahal memang ada di Indonesia, lalu tidak \nmendapat “stempel” legitimasi pemerintah, maka tidakkah \nkepercayaan tersebut akan dianggap sebagai kepercayaan yang \ntidak ada di Indonesia, atau bahkan parahnya sebagai ateisme? Oleh \nkarena itu, pemidanaan terhadap pihak yang dianggap \n“menyebabkan” orang lain menjadi tidak beragama atau \nberkepercayaan yang ada di Indonesia menimbulkan persoalan \n\n13 \n \nterkait dalam penerapan asas Nullum delictum nulla poena sine \npraevia lege poenali atau asas legalitas materiil hukum pidana dan \nasas tiada pidana tanpa kesalahan, khususnya ketika tidak terda pat \nhubungan kausal yang jelas dan niat yang ditujukan kepada subje k \ntertentu. \n3) Bahwa dalam Pasal 28D ayat (1) UUD NRI 1945 tidak hanya menj amin \nadanya hukum, melainkan kepastian hukum yang adil, yang \nmensyaratkan bahwa setiap norma pidana harus dirumuskan secara \njelas, tegas, dan dapat diprediksi akibat hukumnya (foreseeable). Norma \nyang tidak memberikan batasan yang pasti menempatkan warga negara \ndalam keadaan selalu terancam kriminalisasi , sehingga bertentangan \ndengan esensi negara hukum; \n4) Bahwa Indonesia sebagai negara hukum ( rechtstaat) sebagaimana \nditegaskan dalam Pasal 1 ayat (3) UUD NRI 1945 mensyaratkan set iap \npembatasan hak konstitusional warga negara dilakukan melalui no rma \nhukum yang jelas, tegas, dan dapat diprediksi ( clear, precise, and \nforeseeable). Prinsip ini merupakan bagian yang tidak terpisahkan dari \njaminan kepastian hukum yang adil sebagaimana dimaksud dalam Pasal \n28D ayat (1) UUD NRI 1945. Bahwa norma pidana yang dirumuskan \nsecara kabur, multitafsir, dan tanpa parameter objektif tidak hanya gagal \nmemberikan kepastian hukum, tetapi juga mendelegasikan kewenangan \npenafsiran secara berlebihan kepada aparat penegak hukum, sehin gga \nmembuka ruang terjadinya tindakan sewenang-wenang ( arbitrariness). \nKondisi demikian bertentangan dengan esensi negara hukum yang \nmenempatkan hukum sebagai pembatas kekuasaan negara, bukan \nsebagai alat kekuasaan itu sendiri; \n5) Bahwa frasa “tidak beragama atau berkepercayaan yang dianut di \nIndonesia” dalam Pasal 302 ayat (1) dan ayat (2) KUHP menimbulk an \npersoalan konstitusional yakni ketidakjelasan mengenai siapa ya ng \nberwenang menentukan agama atau kepercayaan mana yang dianut di  \nIndonesia, dan agama atau kepercayaan mana yang tidak termasuk \ndalam kategori tersebut. ketidakjelasan ini membuka ruang penaf siran \nsubjektif dan berpotensi menempatkan negara sebagai pihak yang \nsecara sepihak menentukan legitimasi suatu agama atau kepercayaan; \n\n14 \n \n6) Bahwa dalam Putusan Mahkamah Konstitusi Nomor 97/PUU-XIV/201 6, \nhalaman 137, Sub-paragraf [3.13.1], Mahkamah berpandangan bahwa  \nhak untuk menganut agama atau kepercayaan terhadap Tuhan Yang \nMaha Esa merupakan hak konstitusional (constitutional rights)  warga \nnegara, bukan pemberian negara. Sehingga, Pasal a quo secara implisit \njustru memberikan kewenangan kepada negara untuk menilai dan \nmembatasi agama atau kepercayaan tertentu sebagai “yang dianut di \nIndonesia”, sehingga berpotensi mereduksi hak konstitusional wa rga \nnegara dalam kebebasan beragama dan berkepercayaan; \n7) Bahwa dengan adanya perbedaan aliran dan denominasi dalam ag ama, \nfrasa “tidak beragama atau berkepercayaan yang dianut di Indone sia” \ndalam Pasal 302 ayat (1) dan ayat (2) KUHP tidak memiliki param eter \nyang jelas mengenai batasan antara perbedaan agama, perbedaan \naliran dalam agama yang sama, atau perbedaan denominasi yang sa h \nuntuk disebarkan. Berdasarkan hal tersebut, muncul satu pertany aan \nyang tidak terjawab oleh norma a quo yakni, “apabila seorang penganut \nsatu aliran menyampaikan pandangan atau dakwah yang mengkritisi  \najaran aliran lain dan mendorong penganut aliran tersebut untuk  \nmeninggalkan keyakinannya, atau apabila penganut agama mayorita s \nmenyebarkan ajarannya kepada penganut agama minoritas atau \nsebaliknya, apakah perbuatan tersebut dapat dikualifikasikan se bagai \n“menghasut agar seseorang menjadi tidak beragama atau \nberkepercayaan yang dianut di Indonesia?”.  Ketidakjelasan ini \nmenimbulkan ketidakpastian hukum, karena tidak ada otoritas yang jelas \ndan sah menurut konstitusi Indonesia untuk menentukan aliran at au \ndenominasi mana dalam suatu agama yang termasuk “yang dianut di  \nIndonesia” dan mana yang tidak. \nB .  N o r m a  P a s a l  3 0 2  a y a t  ( 1 )  d a n  a y a t  ( 2 )  K U H P  M e m b a t a s i  K e b e b a san \nBeragama dan Berkepercayaan sehingga Bertentangan dengan Pasal \n28E ayat (1) UUD NRI 1945 \n1) Bahwa Pasal 28E ayat (1) UUD NRI 1945 memberikan pengakuan \nterhadap hak setiap manusia untuk memeluk agama dan hak untuk \nmeyakini kepercayaan. Pengakuan tersebut membawa implikasi bahw a \n\n15 \n \nmemeluk agama dan meyakini kepercayaan merupakan hak yang \nmelekat pada setiap orang; \n2) Bahwa berdasarkan Putusan Mahkamah Konstitusi Nomor 97/PUU-\nXIV/2016, halaman 141, jelas bahwa kesakralan hak beragama tida k \nhanya ditujukan oleh Pancasila dan UUD NRI 1945, melainkan juga  \ndilindungi oleh berbagai instrument hak asasi manusia. Kebebasa n \nberagama dilindungi oleh Deklarasi Universal Hak-Hak Asasi Manu sia \n(DUHAM) pada Pasal 18 yang meliputi: memilih dan berpindah agam a, \nberibadah dan berdakwah baik secara pribadi maupun kelompok. \nJaminan tersebut selaras dan sejalan dengan Pasal 28E ayat (1) UUD \nNRI 1945, yang secara tegas menjamin kebebasan setiap orang unt uk \nmemeluk agama dan beribadat menurut agamanya. Oleh karena itu, \nsetiap pembatasan terhadap kebebasan beragama dan berkepercayaan, \ntermasuk melalui norma pidana harus dirumuskan secara jelas dan  tidak \nmenimbulkan ketakutan atau pembatasan secara tidak langsung terhadap \npelaksanaannya; \n3) Bahwa lebih lanjut dalam Putusan Mahkamah Konstitusi tersebu t dalam \nhalaman 98, Wolhof menyebutkan bahwa Hak Asasi Manusia (HAM) \nmerupakan kodrat yang tidak dapat dicabut ataupun dialihkan kep ada \norang lain. Frans Magnis Suseno pun menambahkan bahwa HAM \nbukanlah pemberian dari masyarakat atau negara tetapi merupakan  \nditerima dari Sang Pencipta kepada setiap manusia (universal). Di \nIndonesia, perlindungan HAM diatur dalam Undang-Undang Nomor 39  \nTahun 1999 tentang Hak Asasi Manusia. Pasal 1 menyatakan bahwa \nHAM berasal dari Tuhan yang melakat dan harus dijunjung tinggi dan \ndihormati oleh Negara. Hak beragama menjadi bagian penting dari  HAM \nkarena sebagai individu, hubungan dengan Tuhan haruslah ditempa tkan \ndalam satu kesatuan dengan hak untuk memilih satu agama dan \nkepercayaan sesuai dengan keimanannya. Hal tersebut berarti, se tiap \norang bebas menampakkan pilihan agama dan kepercayaannya dengan  \ndijamin keamanan dan ketenagannya dalam melaksanakan ibadat agama \ntersebut; \n4) Bahwa dalam Putusan Mahkamah Konstitusi Nomor 19/PUU-VI/2008 , \nhalaman 24, Paragraf [3.18], Mahkamah berpandangan bahwa Indonesia \n\n16 \n \nIndonesia merupakan negara yang ber-Ketuhanan Yang Maha Esa yan g \nmelindungi setiap pemeluk agama untuk melaksanakan ajaran agamanya \nmasing-masing; \n5) Bahwa norma a quo yang kemudian menderogasi legitimasi agama dan \nkeyakinan karena harus terlebih dahulu mendapat stempel dari \npemerintah sebagai “agama dan keyakinan yang ada di Indonesia”,  \nsangat jelas membatasi kebebasan beragama dan berkepercayaan yang \nada di Indonesia. \nC. Norma Pasal 302 ayat (1) dan (2) KUHP Mengkriminalisasi Kebe basan \nMeyakini Kepercayaan dan Menyatakan Sikap Berdasarkan Hati Nura ni \nsehingga Bertentangan dengan Pasal 28E ayat (2) UUD NRI 1945 \n1) Bahwa kebebasan meyakini kepercayaan, menyatakan sikap sesua i hati \nnurani merupakan hak konstitusional bagi seluruh warga negara \nIndonesia, termasuk dalam hal ini para Pemohon  yang bersifat \nfundamental, sebagaimana dijamin dalam Pasal 28E ayat (2) UUD N RI \n1945, yang tidak dapat dibatasi secara sewenang-wenang oleh \npembentuk undang-undang tanpa adanya parameter pembatasan yang \njelas dan proporsional; \n2) Bahwa apabila para Pemohon menyatakan sikap dan pendapat di muka \numum sesuai dengan hati nurani, dilakukan tanpa kekerasan, tanp a \nancaman kekerasan, tanpa ujaran kebencian, tanpa permusuhan, se rta \ntidak melawan hukum, dan pernyataan tersebut secara faktual \nmengakibatkan seseorang memilih untuk meninggalkan agama yang \nseharusnya dianutnya, maka keadaan tersebut tidak dapat serta m erta \ndijadikan alasan hukum yang cukup untuk mengkualifikasikan perbuatan \npara Pemohon sebagai tindak pidana. Sebagaimana hal ini dijamin  \ndalam Pasal 28E ayat (2) yang menyatakan “Setiap orang atas \nkebebasan meyakini kepercayaan, menyatakan pikiran dan sikap, sesuai \ndengan hati nuraninya”. \n3) Bahwa dalam General  Comment No. 22 (1993), United Nations Human \nRights Committee menegaskan bahwa: \n“Article 18 distinguishes the freedom of thought, conscience, religion \nor belief from the freedom to manifest religion or belief. It does not \npermit any limitations whatsoever on the freedom of thought and \nconscience or on the freedom to have or adopt a religion or belief of \n\n17 \n \none’s choice. These freedoms are protected unconditionally, as is \nthe right of everyone to hold opinions without interference in article \n19.1. In accordance with articles 18.2 and 17, no one can be \ncompelled to reveal his thoughts or adherence to a religion or belief.” \nBerdasarkan penegasan tersebut menunjukkan bahwa kebebasan \nberpikir, hati nurani, serta kebebasan untuk memiliki, mengadop si, atau \ntidak memiliki suatu agama atau kepercayaan merupakan hak yang \nbersifat absolut (forum internum) dan tidak dapat dikenai pembatasan \ndalam bentuk apapun oleh negara. Oleh karena itu, pengaturan Pa sal \n302 ayat (1) dan ayat (2) KUHP yang mengkriminalisasi perbuatan  \ndengan akibat seseorang menjadi tidak menganut agama atau \nkepercayaan telah memasuki wilayah kebebasan batin yang secara \nprinsipil tidak dapat dibatasi, sehingga bertentangan dengan ja minan \nkebebasan berkeyakinan sebagaimana diatur dalam Pasal 28E ayat (2) \nUUD NRI 1945; \n4) Bahwa lebih lanjut, United Nations Human Rights Committee dalam \nGeneral Comment No. 34  (2011) menegaskan bahwa ruang lingkup \nkebebasan berekspresi mencakup pula ekspresi yang bersifat tida k \npopuler, kontroversial, bahkan dapat dianggap ofensif oleh seba gian \npihak, dengan menyatakan: \n“The freedom of expression includes the expression that may be \nregarded as deeply offensive.” \nBahwa penegasan tersebut menunjukkan bahwa ukuran \nkonstitusionalitas suatu ekspresi tidak dapat ditentukan berdas arkan \nperasaan tersinggung, ketidaknyamanan psikologis, atau penilaia n \nsubjektif pihak tertentu, melainkan harus diuji secara objektif  \nberdasarkan apakah ekspresi tersebut secara nyata dan langsung \nmenimbulkan ancaman serius terhadap kepentingan yang sah \n(legitimate aim); \n5) Bahwa dalam Pasal 18 DUHAM menyatakan bahwa “setiap orang berhak \natas kemerdekaan berpikir, berkeyakinan dan beragama; hak ini \nmencakup kebebasan untuk berganti agama atau kepercayaan, dan \nkebebasan untuk menjalankan agama atau kepercayaan dalam kegiat an \npengajaran, peribadatan, pemujaan dan ketaatan, baik sendiri ma upun \nsecara bersama-sama dengan orang lain, di muka umum maupun seca ra \npribadi.” Hal tersebut juga selaras dengan Pasal 18 ayat (2) Ko nvenan \n\n18 \n \nInternasional tentang Hak-Hak Sipil dan Politik (ICCPR), yang menyatakan \n“tidak seorang pun boleh dipaksa sehingga mengganggu kebebasann ya \nuntuk menganut atau menerima suatu agama atau kepercayaannya sesuai \npilihannya”. Makna pasal tersebut menegaskan larangan adanya tekanan, \npaksaan atau ancaman termasuk melalui instrumen hukum pidana ya ng \nsecara tidak langsung memaksa seseorang untuk tetap berada dala m \nsuatu keyakinan tertentu untuk membatasi ruang untuk menerima \npandangan keagamaan lain. Terlebih, berkeyakinan ini harus lebih dahulu \ndiakui oleh pemerintah sebagai “agama atau kepercayaan” yang ad a di \nIndonesia, sehingga pasal a quo sangat jelas mengkriminalisasi \nkebebasan meyakini kepercayaan dan menyatakan sikap berdasarkan hati \nnurani. \nD. Norma Pasal 302 ayat (1) dan ayat (2) KUHP Menimbulkan Kriminalisasi \nEkspresi Keagamaan dan Kebebasan Berpendapat sehingga \nBertentangan dengan 28I ayat (1) UUD NRI 1945 \n1) Bahwa Pasal 28 I ayat (1) UUD NRI 1945 menegaskan hak untuk \nberagama merupakan hak asasi manusia yang tidak dapat dikurangi  \ndalam keadaan apapun (non-derogable rights) . Penegasan ini \nmenunjukkan bahwa kebebasan beragama dan berkepercayaan \nmenempati posisi fundamental dalam  konstitusi Indonesia dan tid ak \ndapat dibatasi secara sewenang-wenang; \n2) Bahwa dengan dirumuskannya frasa “tidak beragama atau \nberkepercayaan yang dianut di Indonesia”, Pasal 302 ayat (1) da n ayat \n(2) KUHP menempatkan negara sebagai penilai sah atau tidaknya suatu \nagama atau kepercayaan yang dianut. Kondisi tersebut pada hakikatnya \nmerupakan bentuk pembatasan substantif terhadap hak beragama at au \nberkepercayaan, karena membuka peluang kriminalisasi terhadap \npilihan keyakinan maupun ekspresi keagamaan tertentu; \n3) Bahwa hak beragama sebagaimana dijamin dalam Pasal 28 I ayat (1) \nUUD NRI 1945 tidak hanya mencakup kebebasan untuk memeluk dan \nmenjalankan ibadah sesuai agama yang dianut, tetapi juga mencak up \nkebebasan untuk menyebarkan dan mendakwahkan ajaran agama, \nberpindah agama, atau bahkan memilih untuk tidak beragama. Selu ruh \nspektrum pilihan tersebut merupakan manifestasi dari hak kemerdekaan \n\n19 \n \npikiran dan hati nurani yang bersifat absolut dan tidak dapat d ikurangi \ndalam keadaan apapun. Dengan mengkriminalisasi perbuatan yang \nberakibat seseorang menjadi \"tidak beragama atau berkepercayaan  \nyang dianut di Indonesia\", norma a quo pada hakikatnya telah melakukan \npembatasan terhadap hak yang secara konstitusional bersifat absolut; \n4) Bahwa dengan menempatkan penafsiran subjektif kepada pemerin tah \natau aparat yang berwenang untuk menentukan agama atau \nkepercayaan mana yang “dianut di Indonesia” tanpa kriteria yang  jelas, \nnorma a quo  mengkonstruksi hak beragama sebagai hak yang \nbersumber dari pengakuan negara, bukan sebagai hak alamiah yang  \nmelekat pada martabat kemanusiaan; \n5) Bahwa sebelumnya dalam Putusan Mahkamah Konstitusi Nomor \n78/PUU-XXI/2023, Mahkamah mematikan pasal pidana penyebaran \ninformasi hoaks atau  berita bohong karena Pemerintahlah yang seacara \nsubjektif dapat menentukan mana yang merupakan  kebenaran, \nsehingga kebenaran hanya bersumber dari pemerintah, sehingga \nakhirnya “... yang mungkin terjadi adalah justru penilaian yang  bersifat \nsubjektif dan berpotensi menciptakan kesewenang-wenangan” (vide  \nPutusan Mahkamah Konstitusi Nomor 78/PUU-XXI/2023, Sub-paragraf  \n[3.18.4], halaman 350). Dengan rasio legis yang sama, artinya \npemerintah tidak boleh menjadi pihak yang menentukan suatu \nkebenaran mutlak karena akan bersifat subjektif dan menciptakan  \nkesewenang-wenangan, dimana dalam perkara a quo, menentukan \nagama mana yang diakui di Indonesia. Ergo, norma a quo sangat jelas \nbertentangan dengan kebebasan berpendapat sebagai hak \nkonstitusional yang dijamin oleh UUD NRI 1945. \nIV.  PETITUM \nBerdasarkan seluruh dalil-dalil yang diuraikan di atas dan bukt i-bukti terlampir, \ndengan ini para Pemohon mohon kepada Yang Mulia Majelis Hakim Mahkamah \nKonstitusi untuk kiranya berkenan memberikan putusan sebagai berikut:",
+      "start_line": 398,
+      "end_line": 704
+    },
+    {
+      "heading": "2. Menyatakan Pasal 302 ayat (1) dan (2) Undang-Undang Nomor 1 Tahun",
+      "slug": "2-menyatakan-pasal-302-ayat-1-dan-2-undang-undang-nomor-1-tahun",
+      "text": "2023 tentang Kitab Undang-Undang Hukum Pidana (Lembaran Negara \nRepublik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara  \n\n20 \n \nRepublik Indonesia Nomor 6842) bertentangan dengan Undang-Undan g \nDasar Negara Republik Indonesia Tahun 1945 dan tidak memiliki k ekuatan \nhukum yang mengikat;",
+      "start_line": 707,
+      "end_line": 714
+    },
+    {
+      "heading": "3. Memerintahkan pemuatan putusan ini dalam Berita Negara Repub lik",
+      "slug": "3-memerintahkan-pemuatan-putusan-ini-dalam-berita-negara-repub-lik",
+      "text": "Indonesia sebagaimana mestinya. \nAtau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain  mohon \nputusan yang seadil-adilnya (Ex Aequo Et Bono). \n[2.2]  Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon telah \nmengajukan alat bukti yang diberi tanda Bukti P-1 sampai dengan  Bukti P-20  \nsebagai berikut:",
+      "start_line": 716,
+      "end_line": 721
+    },
+    {
+      "heading": "1. Bukti P-1 : Fotokopi Undang-Undang Nomor 1 Tahun 2023 Tentan g Kitab",
+      "slug": "1-bukti-p-1-fotokopi-undang-undang-nomor-1-tahun-2023-tentan-g-kitab",
+      "text": "Undang-Undang Hukum Pidana;",
+      "start_line": 723,
+      "end_line": 723
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Ind onesia",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-dasar-negara-republik-ind-onesia",
+      "text": "Tahun 1945;",
+      "start_line": 725,
+      "end_line": 725
+    },
+    {
+      "heading": "3. Bukti P-3 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ra hmat",
+      "slug": "3-bukti-p-3-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-ra-hmat",
+      "text": "Najmu;",
+      "start_line": 727,
+      "end_line": 727
+    },
+    {
+      "heading": "4. Bukti P-4 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Nissa",
+      "slug": "4-bukti-p-4-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-nissa",
+      "text": "Sharfina Nayla;",
+      "start_line": 729,
+      "end_line": 729
+    },
+    {
+      "heading": "5. Bukti P-5 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Wa hyu Eka",
+      "slug": "5-bukti-p-5-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-wa-hyu-eka",
+      "text": "Jayanti;",
+      "start_line": 731,
+      "end_line": 731
+    },
+    {
+      "heading": "6. Bukti P-6 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Sc holastica",
+      "slug": "6-bukti-p-6-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-sc-holastica",
+      "text": "Asyana Eka Putri P.;",
+      "start_line": 733,
+      "end_line": 733
+    },
+    {
+      "heading": "8. Bukti P-8 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Al liffah",
+      "slug": "8-bukti-p-8-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-al-liffah",
+      "text": "Wahyu Sanyoto T;",
+      "start_line": 736,
+      "end_line": 736
+    },
+    {
+      "heading": "9. Bukti P-9 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Ri fky Andy",
+      "slug": "9-bukti-p-9-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-ri-fky-andy",
+      "text": "Darmawan;",
+      "start_line": 738,
+      "end_line": 738
+    },
+    {
+      "heading": "10. Bukti P-10 : Fotokopi Kartu Tanda Penduduk (KTP) Atas Nama Safira Gita",
+      "slug": "10-bukti-p-10-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-safira-gita",
+      "text": "Rahmawati;",
+      "start_line": 740,
+      "end_line": 740
+    },
+    {
+      "heading": "11. Bukti P-11 : Fotokopi Kartu Tanda Penduduk ( KTP) Atas Nama Rizka Aliya",
+      "slug": "11-bukti-p-11-fotokopi-kartu-tanda-penduduk-ktp-atas-nama-rizka-aliya",
+      "text": "Putri;",
+      "start_line": 742,
+      "end_line": 742
+    },
+    {
+      "heading": "12. Bukti P-12 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Rahmat",
+      "slug": "12-bukti-p-12-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-rahmat",
+      "text": "Najmu;",
+      "start_line": 744,
+      "end_line": 744
+    },
+    {
+      "heading": "13. Bukti P-13 : Fotokopi Kartu T anda Mahasiswa (KTM) Atas Nama N i s s a",
+      "slug": "13-bukti-p-13-fotokopi-kartu-t-anda-mahasiswa-ktm-atas-nama-n-i-s-s-a",
+      "text": "Sharfina Nayla;",
+      "start_line": 746,
+      "end_line": 746
+    },
+    {
+      "heading": "14. Bukti P-14 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Wahyu",
+      "slug": "14-bukti-p-14-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-wahyu",
+      "text": "Eka Jayanti; \n\n21",
+      "start_line": 748,
+      "end_line": 751
+    },
+    {
+      "heading": "15. Bukti P-15 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama",
+      "slug": "15-bukti-p-15-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama",
+      "text": "Scholastica Asyana Eka Putri P.; \n16 Bukti P-16 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Reni \nRianti;",
+      "start_line": 753,
+      "end_line": 755
+    },
+    {
+      "heading": "17. Bukti P-17 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Alliffah",
+      "slug": "17-bukti-p-17-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-alliffah",
+      "text": "Wahyu Sanyoto T;",
+      "start_line": 757,
+      "end_line": 757
+    },
+    {
+      "heading": "18. Bukti P-18 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama R i f k y",
+      "slug": "18-bukti-p-18-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-r-i-f-k-y",
+      "text": "Andy Darmawan;",
+      "start_line": 759,
+      "end_line": 759
+    },
+    {
+      "heading": "19. Bukti P-19 : Fotokopi Kartu Tanda Mahasiswa (KTM) Atas Nama Safira Gita",
+      "slug": "19-bukti-p-19-fotokopi-kartu-tanda-mahasiswa-ktm-atas-nama-safira-gita",
+      "text": "Rahmawati;",
+      "start_line": 761,
+      "end_line": 761
+    },
+    {
+      "heading": "20. Bukti P-20 : Fotokopi Kartu T anda Mahasiswa (KTM) Atas Nama R i z k a",
+      "slug": "20-bukti-p-20-fotokopi-kartu-t-anda-mahasiswa-ktm-atas-nama-r-i-z-k-a",
+      "text": "Aliya Putri. \n[2.3] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan cukup ditunjuk dalam  Berita Acara \nPersidangan, yang merupakan satu kesatuan yang tidak terpisahka n dengan \nputusan ini.",
+      "start_line": 763,
+      "end_line": 767
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun 1945), \nPasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 ten tang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Un dang-Undang \nNomor 7 Tahun 2020 tentang Perubahan Atas Undang-Undang Nomor 2 4 Tahun \n2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indo nesia Tahun \n2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nom or 6554, \nselanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor \n48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Repu blik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republ ik \nIndonesia Nomor 5076, selanjutnya disebut UU 48/2009), salah sa tu kewenangan \nkonstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang \nputusannya bersifat final untuk menguji undang-undang terhadap UUD NRI Tahun \n1945. \n\n22 \n \n[3.2] Menimbang bahwa oleh karena permohonan yang diajukan para Pemohon \nadalah pengujian konstitusionalitas undang-undang, in casu norma Pasal 302 ayat \n(1) dan ayat (2) Undang-Undang Nomor 1 Tahun 2023 tentang Kitab  Undang-\nUndang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2023  Nomor \n1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842, sela njutnya \ndisebut UU 1/2023) terhadap UUD NRI Tahun 1945 maka Mahkamah be rwenang \nmengadili permohonan a quo. \nKedudukan Hukum  \n[3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian undan g-undang \nterhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak d an/atau \nkewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan \noleh berlakunya suatu undang-undang, yaitu: \na. perorangan warga negara Indonesia (termasuk kelompok orang y ang \nmempunyai kepentingan sama); \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik In donesia \nyang diatur dalam undang-undang;",
+      "start_line": 769,
+      "end_line": 804
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, para Pemohon dalam pengujian undang-undang terhadap \nUUD NRI Tahun 1945 harus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasa l 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional  yang diberikan \noleh UUD NRI Tahun 1945 yang diakibatkan oleh berlakunya undang -undang \nyang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada \nhuruf a. \n[3.4] Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi Nomor \n006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuka untu k umum pada \ntanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PU U-V/2007 \nyang diucapkan dalam sidang pleno terbuka untuk umum pada pleno 20 September \n\n23 \n \n2007, serta putusan-putusan selanjutnya berpendirian bahwa kerugian hak dan/atau \nkewenangan konstitusional sebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK \nharus memenuhi lima syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang d iberikan oleh \nUUD NRI Tahun 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon  dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 807,
+      "end_line": 828
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (kh usus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-kh-usus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 830,
+      "end_line": 831
+    },
+    {
+      "heading": "d. adanya hubungan sebab-akibat antara kerugian dimaksud dengan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dengan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian \nkonstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi. \n[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU MK \ndan syarat-syarat kerugian hak dan/atau kewenangan konstitusion al sebagaimana \ndiuraikan pada Paragraf [3.3] dan Paragraf  [3.4] di atas, selanjutnya Mahkamah \nakan mempertimbangkan kedudukan hukum para Pemohon sebagai berikut:",
+      "start_line": 833,
+      "end_line": 839
+    },
+    {
+      "heading": "1. Bahwa para Pemohon mengajukan pengujian materiil Pasal 302 a yat (1) dan",
+      "slug": "1-bahwa-para-pemohon-mengajukan-pengujian-materiil-pasal-302-a-yat-1-dan",
+      "text": "ayat (2)  UU 1/2023 yang menyatakan sebagai berikut: \n(1) Setiap Orang yang Di Muka Umum menghasut dengan maksud agar  \nseseorang menjadi tidak beragama atau berkepercayaan yang dianut",
+      "start_line": 841,
+      "end_line": 843
+    },
+    {
+      "heading": "di Indonesia, dipidana dengan pidana penjara paling lama 2 (dua )",
+      "slug": "di-indonesia-dipidana-dengan-pidana-penjara-paling-lama-2-dua",
+      "text": "tahun atau pidana denda paling banyak kategori III.  \n(2) Setiap Orang yang dengan Kekerasan atau Ancaman Kekerasan \nmemaksa seseorang menjadi tidak beragama atau berkepercayaan \natau berpindah agama atas kepercayaan yang dianut di Indonesia,  \ndipidana dengan pidana penjara paling lama 4 (empat) tahun atau  \npidana denda paling banyak kategori IV.",
+      "start_line": 845,
+      "end_line": 850
+    },
+    {
+      "heading": "2. Bahwa para Pemohon menjelaskan memiliki hak konstitusional s ebagaimana",
+      "slug": "2-bahwa-para-pemohon-menjelaskan-memiliki-hak-konstitusional-s-ebagaimana",
+      "text": "dijamin oleh Pasal 28D ayat (1), Pasal 28E ayat (1) dan ayat (2), serta Pasal 28I \nayat (1)  UUD NRI Tahun 1945.",
+      "start_line": 852,
+      "end_line": 853
+    },
+    {
+      "heading": "3. Pemohon I sampai dengan Pemohon IX merupakan perorangan warg a negara",
+      "slug": "3-pemohon-i-sampai-dengan-pemohon-ix-merupakan-perorangan-warg-a-negara",
+      "text": "Indonesia yang berstatus  sebagai Mahasiswa di Universitas Mali kussaleh \n(Pemohon I)  dan di Universitas Terbuka (Pemohon II sampai dengan Pemohon \nIX) [vide Bukti P-3 sampai dengan Bukti P-20] menjelaskan angga pan kerugian \n\n24 \n \nhak konstitusionalnya karena berlakunya  norma Pasal 302 ayat (1) dan ayat (2)  \nUU 1/2023   sebagai berikut (selengkapnya dimuat pada bagian Duduk Perkara): \na. Bahwa Pemohon I sampai dengan Pemohon IX memiliki  latar bel akang \nagama yang beragam yang diakui secara resmi di Indonesia. Menur ut \nPemohon I sampai dengan Pemohon IX keberlakuan norma Pasal 302 ayat \n(1) dan ayat (2)  UU 1/2023 menimbulkan pembatasan terhadap kebebasan \nmenjalankan dan mengekspresikan keyakinan agama masing-masing, \nkarena negara dianggap memiliki kewenangan subjektif dalam menentukan \nagama atau kepercayaan yang sah di Indonesia tanpa parameter yang jelas \ndan objektif. Kondisi ini dinilai problematis mengingat dalam s etiap agama \nterdapat perbedaan aliran, denominasi, dan penafsiran teologis yang \nsignifikan, sehingga sulit ditentukan batas antara perbedaan internal agama \ndan keberadaan agama atau kepercayaan yang berbeda. \nb. Ketidakjelasan norma tersebut semakin tampak pada penggunaan  f r a s a  \n“tidak beragama atau kepercayaan yang dianut di Indonesia”  dalam pasal  \na quo  yang menurut Pemohon I sampai dengan Pemohon IX tidak \nmemberikan ukuran pasti mengenai batasan antara penyebaran ajar an \nagama, perbedaan aliran, atau perbedaan denominasi dengan tinda kan \nyang dianggap menghasut seseorang agar tidak menganut agama ata u \nkepercayaan tertentu. Akibatnya, Pemohon I sampai dengan Pemoho n IX \nyang menjalankan iman dan menyampaikan ajaran atau pandangan \nkeagamaannya berpotensi dikriminalisasi, meskipun yang dilakuka n \nsemata-mata merupakan penyampaian keyakinan tanpa unsur paksaan. Hal  \ntersebut menimbulkan dampak psikologis berupa rasa takut dan ef ek \npembungkaman ( chilling effect ), terutama bagi Pemohon yang menganut \nagama minoritas, karena terdapat kekhawatiran bahwa penyampaian ajaran \nkeagamaannya dapat ditafsirkan sebagai pelanggaran pidana. \nKetidakjelasan mengenai siapa yang berwenang menentukan apakah suatu \najaran termasuk kepercayaan yang dianut di Indonesia menimbulka n \nketidakpastian hukum dan membuka ruang penerapan norma secara \nsubjektif.",
+      "start_line": 855,
+      "end_line": 891
+    },
+    {
+      "heading": "c. Pasal 302 ayat (1) dan ayat (2) UU 1/2023 bertentangan deng an prinsip",
+      "slug": "c-pasal-302-ayat-1-dan-ayat-2-uu-1-2023-bertentangan-deng-an-prinsip",
+      "text": "kepastian hukum dalam asas legalitas, khususnya prinsip lex certa dan lex \nstricta, karena membuka peluang penafsiran yang luas sehingga seseorang \n\n25 \n \ndapat dipidana hanya karena menyatakan pandangan atau keraguan \nterhadap agama di ruang publik, sehingga Pemohon I sampai denga n \nPemohon IX merasa berada dalam posisi rentan terhadap kriminali sasi \nketika menjalankan hak konstitusional untuk menyatakan pikiran, pendapat, \ndan keyakinan, termasuk dalam bentuk diskusi ilmiah, ceramah ak ademik, \npublikasi, maupun ekspresi personal yang bersifat non-koersif.",
+      "start_line": 893,
+      "end_line": 903
+    },
+    {
+      "heading": "d. Kerentanan tersebut semakin nyata dalam aktivitas akademik P emohon I",
+      "slug": "d-kerentanan-tersebut-semakin-nyata-dalam-aktivitas-akademik-p-emohon-i",
+      "text": "sampai dengan Pemohon IX sebagai mahasiswa yang kerap melakukan  \npublic speaking . Dalam kegiatan tersebut, penyampaian pandangan \nberdasarkan iman pribadi berpotensi menimbulkan perbedaan tafsir teologis",
+      "start_line": 905,
+      "end_line": 907
+    },
+    {
+      "heading": "di antara audiens yang berbeda keyakinan, sehingga ekspresi keagamaan",
+      "slug": "di-antara-audiens-yang-berbeda-keyakinan-sehingga-ekspresi-keagamaan",
+      "text": "yang seharusnya dilindungi justru dapat dianggap sebagai tindak an \npenghasutan dan berujung pada ancaman pidana. \nBerdasarkan seluruh uraian yang dikemukakan oleh Pemohon I samp ai \ndengan Pemohon IX dalam menjelaskan kedudukan hukumnya sebagaim ana \ndiuraikan di atas, menurut Mahkamah, Pemohon I sampai dengan Pemohon IX yang \nmerupakan perseorangan warga negara Indonesia berstatus sebagai  mahasiswa \ntelah dapat menguraikan anggapan kerugian hak konstitusionalnya  secara spesifik \ndan aktual atau setidak-tidaknya potensial akibat berlakunya no rma yang \ndimohonkan pengujian. Pemohon I sampai dengan Pemohon IX juga t elah dapat \nmenguraikan adanya hubungan sebab-akibat (causal verband) berkaitan dengan \nanggapan kerugian hak konstitusional akibat berlakunya norma ya ng dimohonkan \npengujian, karena norma undang-undang yang dimohonkan pengujian  tersebut \nsecara langsung maupun tidak langsung merugikan Pemohon I sampa i dengan \nPemohon IX sebagai mahasiswa yang aktif dalam lingkungan akadem ik untuk \nmenyampaikan pandangan, diskusi, maupun pertukaran gagasan meng enai \npersoalan keagamaan, keyakinan, dan nilai-nilai sosial dalam ruang publik maupun \nforum ilmiah yang menurut Pemohon I sampai dengan Pemohon IX dapat ditafsirkan \nsebagai bentuk penghasutan atau penyebaran ajaran agama serta b erujung pada \ntuduhan pelanggaran pidana. Oleh karena itu, jika permohonan a quo dikabulkan \nmaka anggapan kerugian hak konstitusional yang dalilkan oleh Pe mohon I sampai \ndengan Pemohon IX tidak terjadi lagi atau tidak akan terjadi. D engan demikian, \nterlepas terbukti atau tidak dalil Pemohon I sampai dengan Pemohon IX berkenaan \ndengan inkonstitusionalitas norma pasal yang dimohonkan penguji an, Mahkamah \n\n26 \n \nberpendapat Pemohon I sampai dengan Pemohon IX (selanjutnya dis ebut para \nPemohon) memiliki kedudukan hukum untuk bertindak sebagai Pemoh on dalam \npermohonan a quo. \n[3.6]  Menimbang bahwa oleh karena Mahkamah berwenang mengadili  \npermohonan a quo dan para Pemohon memiliki kedudukan hukum untuk bertindak \nsebagai Pemohon dalam permohonan a quo maka selanjutnya Mahkamah akan \nmempertimbangkan pokok permohonan para Pemohon. \nPokok Permohonan \n[3.7]  Menimbang bahwa dalam mendalilkan inkonstitusionalitas norma Pa sal \n302 ayat (1) dan ayat (2) UU 1/2023 bertentangan dengan Pasal 28D ayat (1), Pasal \n2 8 E  a y a t  ( 1 )  d a n  a y a t  ( 2 ) ,  s e r t a  P a s a l  2 8I ayat (1) UUD NRI Tahun 1945 yang \ndimohonkan pengujian, para Pemo hon mengemukakan dalil-dalil (se lengkapnya \ndimuat pada bagian Duduk Perkara) yang apabila dipahami dan dir umuskan oleh \nMahkamah pada pokoknya sebagai berikut: \na. Bahwa menurut para Pemohon, ketentuan Pasal 302 ayat (1) dan  ayat (2) UU \n1/2023  menimbulkan ketidakpastian hukum sekaligus membatasi ke bebasan \nberagama dan berkeyakinan secara tidak proporsional, sehingga bertentangan \ndengan Pasal 28D ayat (1) UUD NRI Tahun 1945, karena dalam real itas \npluralitas agama dan kepercayaan di Indonesia, norma a quo meskipun secara \ntekstual tidak melarang perpindahan agama, namun pada praktikny a justru \nmengkriminalisasi perbuatan yang dianggap menyebabkan seseorang tidak lagi \nmenganut agama atau kepercayaan yang diakui di Indonesia, dan pemidanaan \ntersebut tidak didasarkan pada adanya gangguan nyata terhadap k etertiban \numum, melainkan semata-mata pada substansi keyakinan. Selain it u frasa \n“tidak beragama atau berkepercayaan yang dianut di Indonesia” t idak disertai \ndengan parameter yang jelas, sehingga membuka ruang bagi negara  untuk \nsecara sepihak menentukan legitimasi suatu keyakinan. Keadaan d emikian \nbertentangan dengan prinsip negara hukum yang mensyaratkan rumu san \nnorma pidana yang jelas, tegas, dan dapat diprediksi, serta ber potensi \nmelahirkan penafsiran yang sewenang-wenang.  \nb. Bahwa menurut para Pemohon, Pasal 28E ayat (1) UUD NRI Tahun  1 9 4 5  \nmenjamin hak setiap orang untuk memeluk agama dan meyakini kepe rcayaan \n\n27 \n \nsebagai hak yang melekat pada manusia, sehingga negara berkewaj iban \nmenjamin keamanan dan ketenangan setiap orang dalam menjalankan  \nkeyakinannya.  Namun demikian, norma Pasal 302 ayat (1) dan aya t (2) UU \n1/2023  justru dinilai membatasi kebebasan beragama dan berkepe rcayaan \nkarena secara implisit mensyaratkan legitimasi negara terhadap agama atau \nkepercayaan yang diakui di Indonesia, sehingga berpotensi mende legitimasi \nkeyakinan tertentu dan menimbulkan pembatasan tidak langsung te rhadap \npelaksanaan kebebasan beragama, yang pada akhirnya bertentangan  dengan \njaminan konstitusional kebebasan beragama dan berkepercayaan \nsebagaimana dijamin dalam Pasal 28E ayat (1) UUD NRI Tahun 1945.",
+      "start_line": 909,
+      "end_line": 979
+    },
+    {
+      "heading": "c. Bahwa menurut para Pemohon, Pasal 28E ayat (2) UUD NRI Tahun 1 9 4 5",
+      "slug": "c-bahwa-menurut-para-pemohon-pasal-28e-ayat-2-uud-nri-tahun-1-9-4-5",
+      "text": "menjamin kebebasan setiap orang untuk meyakini kepercayaan sert a \nmenyatakan pikiran dan sikap sesuai hati nurani sebagai hak kon stitusional \nyang bersifat fundamental dan tidak dapat dibatasi secara sewen ang-wenang \ntanpa dasar pembatasan yang jelas dan proporsional, sehingga ke tika \nseseorang menyampaikan pendapat atau sikap secara damai, tanpa \nkekerasan, ancaman, ujaran kebencian, maupun pelanggaran hukum,  m a k a  \nakibat berupa perubahan pilihan keyakinan seharusnya  tidak dapat serta-merta \ndijadikan dasar pemidanaan. Oleh karena itu, Pasal 302 ayat (1)  dan ayat (2) \nUU 1/2023 dinilai memasuki ranah kebebasan batin individu denga n \nmengkriminalisasi tindakan yang berakibat seseorang tidak lagi menganut \nagama atau kepercayaan tertentu, terlebih ketika legitimasi aga ma atau \nkepercayaan tersebut bergantung pada pengakuan negara, sehingga  norma a \nquo secara nyata mengkriminalisasi kebebasan meyakini kepercayaan dan \nmenyatakan sikap berdasarkan hati nurani, yang pada akhirnya be rtentangan \ndengan jaminan konstitusional dalam Pasal 28E ayat (2) UUD NRI Tahun 1945.",
+      "start_line": 981,
+      "end_line": 995
+    },
+    {
+      "heading": "d. Bahwa menurut para Pemohon, Pasal 28 I ayat (1) UUD NRI Tahun 1945",
+      "slug": "d-bahwa-menurut-para-pemohon-pasal-28-i-ayat-1-uud-nri-tahun-1945",
+      "text": "menegaskan bahwa hak beragama merupakan hak asasi manusia yang bersifat \nnon-derogable atau tidak dapat dikurangi dalam keadaan apa pun, sehingga \nkebebasan beragama dan berkepercayaan menempati posisi fundamen tal \ndalam konstitusi dan tidak dapat dibatasi secara sewenang-wenan g,  namun \nPasal 302 ayat (1) dan ayat (2) UU 1/2023  dengan frasa “tidak beragama atau \nberkepercayaan yang dianut di Indonesia” justru menempatkan negara sebagai \npihak yang menentukan sah atau tidaknya suatu agama atau keperc ayaan, \n\n28 \n \nsehingga membuka peluang kriminalisasi terhadap pilihan keyakin an dan \nekspresi keagamaan tertentu, padahal hak beragama tidak hanya m encakup \nkebebasan memeluk dan menjalankan ibadah, tetapi juga kebebasan  \nmenyebarkan ajaran, berpindah agama, atau memilih untuk tidak b eragama \nsebagai bagian dari kemerdekaan pikiran dan hati nurani yang bersifat absolut, \nsehingga pemidanaan terhadap perbuatan yang berakibat seseorang  menjadi \ntidak menganut agama atau kepercayaan tertentu pada hakikatnya merupakan \npembatasan terhadap hak yang secara konstitusional tidak dapat dikurangi.  \n Bahwa berdasarkan dalil-dalil te rsebut di atas para Pemohon pa da \npokoknya memohon agar Mahkamah menyatakan Pasal 302 ayat (1) da n (2) UU \n1/2023 bertentangan dengan UUD NRI Tahun 1945 dan tidak memilik i kekuatan \nhukum yang mengikat. \n[3.8] Menimbang bahwa untuk membuktikan dalil-dalil permohonannya, pa ra \nPemohon telah mengajukan alat bukti yang diberi tanda Bukti P-1  sampai dengan \nBukti P-20 yang telah disahkan dalam persidangan Mahkamah pada tanggal 26  \nJanuari  2026 (selengkapnya dimuat pada bagian Duduk Perkara); \n[3.9] Menimbang bahwa oleh karena permohonan a quo  t e l a h  j e l a s ,  m a k a  \nMahkamah berpendapat tidak terdapat urgensi maupun kebutuhan un tuk \nmendengar keterangan pihak-pihak sebagaimana dimaksud dalam Pas al 54 UU \nMK; \n[3.10] Menimbang bahwa setelah Mahkamah memeriksa dengan saksama \npermohonan para Pemohon dan bukti-bukti yang diajukan oleh para  Pemohon \n(selengkapnya dimuat pada bagian Duduk Perkara), Mahkamah selan jutnya \nmempertimbangkan pokok permohonan para Pemohon. \n[3.11] Menimbang bahwa menurut Mahkamah, permasalahan utama yang haru s \ndijawab berdasarkan dalil permohonan para Pemohon adalah apakah norma Pasal \n302 ayat (1) dan ayat (2) UU 1/2023 bertentangan dengan UUD NRI  Tahun 1945 \nkarena pengaturan tersebut membatasi kebebasan beragama dan ber keyakinan \nsecara tidak proporsional serta menimbulkan ketidakpastian huku m, serta pasal  \na quo  berpotensi mengkriminalisasi perubahan keyakinan seseorang dan  f r a s a  \n\n29 \n \n“tidak beragama atau berkepercayaan yang dianut di Indonesia” dalam Pasal a quo \nmemberi ruang bagi negara menentukan legitimasi suatu agama atau kepercayaan.  \n[3.12]  Menimbang bahwa berkenan dengan dalil para Pemohon a quo, sebelum \nmempertimbangkan lebih lanjut, penting bagi Mahkamah untuk meng utip Putusan \nMahkamah Konstitusi Nomor 140/PUU-VII/2009 yang diucapkan dalam  s i d a n g  \npleno terbuka untuk umum pada tanggal 19 April 2010 dan Putusan  Mahkamah \nKonstitusi Nomor 146/PUU-XXII/2024 yang diucapkan dalam sidang pleno terbuka \nuntuk umum pada  tanggal 3 Januari 2025, mengingat kedua putusa n dimaksud \nrelevan dan memiliki keterkaitan erat dengan isu yang dipermasa lahkan oleh para \nPemohon, sebagai berikut:",
+      "start_line": 997,
+      "end_line": 1049
+    },
+    {
+      "heading": "1. Putusan Mahkamah Konstitusi Nomor 140/PUU-VII/2009:",
+      "slug": "1-putusan-mahkamah-konstitusi-nomor-140-puu-vii-2009",
+      "text": "[3.34.7] Menimbang bahwa Negara Indonesia adalah negara yang \nberdasarkan Ketuhanan Yang Maha Esa [alinea IV Pembukaan dan \nPasal 29 ayat (1) UUD 1945]. Bangsa Indonesia pun, mengakui \nkemerdekaan Indonesia tidak hanya dicapai dengan perjuangan panjang \nseluruh bangsa Indonesia, tetapi juga dicapai dengan rahmat Allah Yang \nMaha Kuasa (alinea III Pembukaan UUD 1945). Rumusan dasar falsafah \nNegara Indonesia yang terkandung dalam Pembukaan UUD 1945 ini \nlahir dari kompromi antara dua aliran pemikiran yang berkembang dalam \nperumusan dasar negara di BPUPK antara yang menghendaki negara \nsekuler dan negara Islam. Prinsip negara sekuler ditolak dan ne gara \nIslam pun tidak disetujui, akan tetapi Rapat Pleno BPUPK menyet ujui \nsecara bulat negara Indonesia adalah negara berdasarkan Ketuhan an, \ndengan kewajiban menjalankan syari’at Islam bagi para pemelukny a, \nyang kemudian disahkan pada Rapat Pleno PPKI tanggal 18 Agustus  \n1945, dengan mengubah rumusan “Ketuhanan dengan kewajiban \nmenjalankan syari’at Islam bagi pemeluk-pemeluknya” menjadi “ne gara \nberdasarkan Ketuhanan Yang Maha Esa”; \n[3.34.8] Dalam konstitusi, rumusan dasar falsafah negara tersebut \ntercermin dari adanya Pasal 29 ayat (1) UUD 1945 yang menyataka n, \n“Negara berdasar atas Ketuhanan Yang Maha Esa”. Selain itu, tercermin \njuga dari adanya Pasal 9 UUD 1945 yang mewajibkan Presiden atau  \nWakil Presiden bersumpah menurut agamanya, sebelum memangku \njabatan Presiden/Wakil Presiden. Pasal 28E ayat (1) UUD 1945 \nmenyatakan, “Setiap orang bebas memeluk agama dan beribadat \nmenurut agamanya, ...”. Pasal 28J ayat (2) UUD 1945 yang menentukan \nbahwa pertimbangan nilai-nilai agama adalah salah satu pertimba ngan \nuntuk dapat membatasi hak asasi manusia melalui Undang-Undang. \nDengan demikian, agama bukan hanya bebas untuk dipeluk, tetapi nilai-\nnilai agama menjadi salah satu pembatas bagi kebebasan asasi ya ng \nlain semata-mata untuk menjamin pengakuan dan penghormatan atas  \nhak dan kebebasan orang lain. Dalam tingkat praktik kenegaraan,  \nnegara membentuk satu kementerian khusus yang membidangi urusan  \nagama yaitu Kementerian Agama. Hari-hari besar keagamaan dihormati \n\n30 \n \ndalam praktik bernegara. Demikian pula hukum agama dalam hal in i \nsyari’at Islam yang terkait dengan nikah, talak, rujuk, waris, hibah, wasiat, \nwakaf, ekonomi syari’ah, dan lain-lain telah menjadi hukum nega ra \nkhususnya yang berlaku bagi pemeluk agama Islam; \n[3.34.9] Dasar falsafah negara, konstitusi negara, serta praktik dan \nkenyataan ketatanegaraan sebagaimana diuraikan di atas harus menjadi \ndasar dan cara pandang kita dalam melihat masalah yang dimohonk an \noleh para Pemohon dalam perkara ini. Penghormatan Negara Indonesia \natas berbagai konvensi serta perangkat hukum internasional term asuk \nhak asasi manusia haruslah tetap berdasarkan pada falsafah dan \nkonstitusi Negara Kesatuan Republik Indonesia; \n[3.34.10]  Dalam kerangka itulah kita memaknai prinsip negara hukum \nIndonesia yang tidak harus sama dengan prinsip negara hukum dal am \narti rechtsstaat maupun the rule of law. Prinsip negara hukum Indonesia  \nharus dilihat dengan cara pandang UUD 1945, yaitu negara hukum yang \nmenempatkan prinsip Ketuhanan Yang Maha Esa sebagai prinsip utama, \nserta nilai-nilai agama yang melandasi gerak kehidupan bangsa d an \nnegara, bukan negara yang memisahkan hubungan antara agama dan \nnegara ( separation of state and religion ), serta tidak semata-mata \nberpegang pada prinsip individualisme maupun prinsip komunalisme; \n[3.34.11] Konstitusi Negara Kesatuan Republik Indonesia tidak \nmemberikan kemungkinan adanya kampanye kebebasan untuk tidak \nberagama, kebebasan untuk promosi anti agama serta tidak \nmemungkinkan untuk menghina atau mengotori ajaran agama atau \nkitab-kitab yang menjadi sumber kepercayaan agama ataupun mengotori \nnama Tuhan. Elemen inilah yang merupakan salah satu elemen yang  \nmenandakan perbedaan pokok antara negara hukum Indonesia dengan \nnegara hukum Barat, sehingga dalam pelaksanaan pemerintahan \nnegara, pembentukan hukum, pelaksanaan pemerintahan serta \nperadilan, dasar ketuhanan dan ajaran serta nilai-nilai agama m enjadi \nalat ukur untuk menentukan hukum yang baik atau hukum yang buru k, \nbahkan untuk menentukan hukum yang konstitusional atau hukum yang \ntidak konstitusional. Dalam kerangka pemikiran seperti diuraikan di atas, \npembatasan hak asasi manusia atas dasar pertimbangan “nilai-nil ai \nagama” sebagaimana disebutkan dalam Pasal 28J ayat (2) UUD 1945  \nmerupakan salah satu pertimbangan untuk membatasi pelaksanaan hak \nasasi manusia. Hal tersebut berbeda dengan Article 18 ICCPR yang tidak \nmencantumkan nilai-nilai agama sebagai pembatasan kebebasan \nindividu; \n[3.34.12] Jaminan atas kebebasan beragama ini telah banyak \ndikonstruksi baik melalui instrumen hukum nasional maupun instr umen \nhukum internasional. Konstitusi sebagai hukum tertinggi ( the supreme \nlaw of the land ) di Indonesia merupakan Staatsfundamentalnorm yang \nmemberikan pedoman kebebasan beragama dalam tiga pasal sekaligus. \nPertama, adalah dalam Pasal 28E ayat (1) UUD 1945 yang menyatakan, \n“Setiap orang bebas memeluk agama dan beribadat menurut agamanya, \nmemilih pendidikan dan pengajaran, memilih pekerjaan, memilih \nkewarganegaraan, memilih tempat tinggal di wilayah negara dan \nmeninggalkannya, serta berhak kembali” . Kedua, adalah dalam Pasal \n28I ayat (1) UUD 1945 yang menyatakan, “Hak untuk hidup, hak untuk \n\n31 \n \ntidak disiksa, hak kemerdekaan pikiran dan hati nurani, hak beragama, \nhak untuk tidak diperbudak, hak untuk diakui sebagai pribadi di hadapan \nhukum, dan hak untuk tidak dituntut atas dasar hukum yang berlaku \nsurut, adalah hak asasi manusia yang tidak dapat dikurangi dalam \nkeadaan apa pun.” Ketiga, adalah dalam BAB XI yang berbicara khusus \ntentang agama yakni Pasal 29 ayat (2) UUD 1945 yang menyatakan,  \n“Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk \nagamanya masing-masing dan untuk beribadat menurut agamanya dan \nkepercayaannya itu”; \n[3.34.13] Kebebasan beragama ( freedom of religion ) merupakan salah \nsatu hak asasi manusia yang paling mendasar ( basic) dan fundamental \nbagi setiap manusia. Hak atas kebebasan beragama telah disepaka ti \noleh masyarakat dunia sebagai hak individu yang melekat secara \nlangsung, yang wajib dihormati, dijunjung tinggi dan dilindungi  o l e h  \nnegara, pemerintah, dan setiap orang demi kehormatan serta \nperlindungan harkat dan martabat manusia; \n[3.34.14] Dalam tataran instrumen hukum internasional, sejumlah \nDeklarasi dan Kovenan telah menunjukkan pentingnya jaminan \nkebebasan beragama sebagai standar dasar kemanusiaan dan HAM di  \ndunia. Pasal 18 Deklarasi Universal Hak Asasi Manusia (DUHAM), dan \nInternational Covenan on Civil and Political Rights  ( I C C P R )  y a n g  \nkeduanya telah diadopsi baik langsung maupun tidak langsung mel alui \nUndang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia \nserta Undang-Undang Nomor 12 Tahun 2005 tentang Pengesahan \nInternational Covenant on Civil and Political Rights  (Kovenan \nInternasional tentang Hak-Hak Sipil dan Politik), juga telah me mberikan \npengaturan atas jaminan memeluk agama bagi setiap manusia di dunia; \n[3.34.15] Bersamaan dengan diberikannya hak atas kebebasan \nberagama, negara juga berhak memberikan pengaturan dan batasan \natas pelaksanaan kebebasan beragama. Pembatasan itu secara \neksplisit terkandung dalam Pasal 28J ayat (2) UUD 1945 yang \nmenyatakan, “Dalam menjalankan hak dan kebebasannya, setiap orang \nwajib tunduk kepada pembatasan yang ditetapkan dengan undang-\nundang dengan maksud semata-mata untuk menjamin pengakuan serta \npenghormatan atas hak dan kebebasan orang lain dan untuk memenuhi \ntuntutan yang adil sesuai dengan pertimbangan moral, nilai-nilai agama, \nkeamanan, dan ketertiban umum dalam suatu masyarakat demokratis.” \n[3.34.16] Selain melindungi hak asasi manusia sebagai hak yang secara \nkodrati melekat dan bersifat universal, negara juga memberikan \nkewajiban dasar yang merupakan seperangkat kewajiban yang apabila \ntidak dilaksanakan, tidak memungkinkan terlaksana dan tegaknya hak \nasasi manusia (vide Pasal 1 angka 2 Undang-Undang Nomor 39 Tahun \n1999). Secara integral, UUD 1945 mengatur bahwa dalam menegakkan \nhak asasi, setiap elemen baik negara, pemerintah, maupun masyar akat \njuga memiliki kewajiban dasar yang mendukung penghormatan HAM itu \nsendiri; \n[3.34.17] Pembatasan lainnya juga diberikan dalam Pasal 19 ayat (3) \nICCPR yang menyatakan bahwa hak yang diberikan atas kekebasan \nberagama juga harus dilaksanakan dengan penuh rasa tanggung jawab. \n\n32 \n \nPembatasan ini dapat diberikan hanya dengan pengaturan menurut \nUndang-Undang yang ditujukan untuk: (a) menghormati hak dan reputasi \norang lain, (b) melindungi keamanan nasional, ketertiban umum, \nkesehatan masyarakat dan/atau moral. Selengkapnya Pasal 19 ayat (3) \nICCPR menyatakan, “The exercise of the rights provided for in paragraph \n2 of this article carries with it special duties and responsibilities. It may \ntherefore be subject to certain restrictions, but these shall only be such \nas are provided by law and are necessary: \n(a) For respect of the rights or reputations of others; \n(b)For the protection of national security or of public order (order public), \nor of public health or morals.” \n[3.34.18] Dari sudut pandang HAM, kebebasan beragama yang \ndiberikan kepada setiap manusia bukanlah merupakan kebebasan yang \nbebas nilai dan kebebasan an sich, melainkan kebebasan yang disertai \ndengan tanggung jawab sosial untuk mewujudkan HAM bagi setiap \norang; \n[3.34.19] Dalam hal ini negara memiliki peran sebagai penyeimbang \na n t a r a  h a k  a s a s i  d a n  k e w a j i b a n  d a s a r  u n t u k  m e w u j u d k a n  H A M  y a n g  \nberkeadilan. Negara memiliki peran untuk memastikan bahwa dalam  \npelaksanaan kebebasan beragama seseorang tidak melukai kebebasan \nberagama orang lain. Di sinilah negara akan mewujudkan tujuanny a \nyakni untuk mencapai kehidupan yang lebih baik (the best life possible); \n[3.34.20] Sesuai dengan Pasal 1 ayat (3) UUD 1945, Indonesia telah \nmendeklarasikan diri sebagai negara hukum. Konsep negara hukum ini \ndikenal juga dengan istilah ”rechtsstaat” dan ”the rule of law”. Konsep ini \nsekaligus menandakan bahwa penentu dalam penyelenggaraan \nkekuasaan negara adalah hukum ( supremacy of law ) dan bukan \nkekuasaan individu maupun kelompok semata-mata. Oleh karenanya,  \npelaksanaan maupun pembatasan HAM harus secara tegas dijalankan  \nmenurut hukum; \n[3.34.21] Agama, menurut Encylopedia of Philosophy  a d a l a h  \nkepercayaan kepada Tuhan yang selalu hidup, yakni kepada jiwa d an \nkehendak ilahi yang mengatur alam semesta dan mempunyai hubungan \nmoral dengan umat manusia. Agama ( religion) menurut Oxford English \nDictionary adalah “ (1) the belief in and worship of a superhuman \ncontrolling power, especially personal God or Gods (2) a particular \nsystem of faith and worship (3) a pursuit or interest followed with \ndevition”; \n[3.34.22] Dalam memandang agama, sering kali penafsiran didasarkan \npada konsep agama sebagai pengalaman individual dan personal at as \nkeberadaan Tuhan yang merupakan aspek privat semata. Padahal \nagama juga mengandung aspek-aspek sosiologis, kultural, dan his toris, \nidentitas tersendiri sebagai sebuah kepercayaan komunitas atau \nmasyarakat tertentu. Dengan demikian, selain menjadi nilai-nila i yang \nindividual dan personal, agama juga memiliki nilai sosial dan komunal; \n[3.34.23] Filosofi negara Indonesia sebagaimana yang termaktub dalam \nPembukaan UUD 1945 telah bersepakat atas tujuan atau cita-cita \nbersama (the general goals of society or general acceptance of the same \n\n33 \n \nphilosophy of government ),  yakni untuk “melindungi segenap bangsa \nIndonesia”. Perlindungan inilah yang dapat diartikan sebagai \nperlindungan atas identitas budaya, suku, agama, dan kekhasan bangsa \nIndonesia baik secara individual maupun komunal; \n[3.34.24] Pembatasan tidak selalu harus diartikan sebagai diskriminasi. \nSelama pembatasan yang diberikan adalah sebagai bentuk dari \nperlindungan terhadap hak orang lain dan dalam tertib kehidupan  \nbermasyarakat, berbangsa dan bernegara [vide Pasal 28J ayat (1) UUD \n1945], maka hal tersebut merupakan bentuk perlindungan terhadap hak \nasasi orang lain sekaligus merupakan atau kewajiban asasi bagi yang \nlainnya; \n[3.34.25] Dalam menilai pluralisme, liberalisme, ataupun \nfundamentalisme tidak dapat disikapi secara inklusif dan indivi dual \nmelainkan harus dikembalikan pada konstitusi yakni UUD 1945 seb agai \nkesepakatan bersama (general agreement) bangsa Indonesia. Apa pun \ndasar filosofi sebuah kepercayaan yang dikaitkan dengan prinsip  \nkebebasan di Indonesia tidak dapat diterjemahkan berlebihan ata u \nberkekurangan selain yang telah dijamin oleh UUD 1945;",
+      "start_line": 1051,
+      "end_line": 1260
+    },
+    {
+      "heading": "2. Putusan Mahkamah Konstitusi Nomor 146/PUU-XXII/2024",
+      "slug": "2-putusan-mahkamah-konstitusi-nomor-146-puu-xxii-2024",
+      "text": "[3.11.2]…maka jelas dan tegas bahwa agama dan prinsip berketuhanan \nmerupakan salah satu unsur penting yang membentuk karakter huku m \npositif di Indonesia. Penerapannya dalam hukum positif tersebut  \nmerupakan keniscayaan, karena UUD NRI Tahun 1945 yang merupakan \ndasar hukum Indonesia secara terang benderang meletakkan Ketuhanan \nYang Maha Esa sebagai dasar negara, di mana fakta tersebut bera kar \ndari prinsip yang terdapat dalam Pancasila yang telah disepakati sebagai \ndasar negara dan ideologi bangsa. Manifestasi prinsip ini dalam  hukum \npositif diwujudkan dalam bentuk perlindungan dan jaminan hak un tuk \nmenjalankan kehidupan beragama yang berkepercayaan terhadap \nTuhan Yang Maha Esa dalam berbagai lini kehidupan warga negara \nseperti keluarga, pendidikan, kesejahteraan dan perekonomian. \nPerlindungan ini bahkan termasuk juga perlindungan atas eksistensi atau \nkeberlangsungan kehidupan beragama tersebut, antara lain dengan  \nadanya larangan dalam hukum pidana berkenaan dengan tindak pidana \npenodaan agama dan larangan terhadap ajakan untuk tidak menganu t \nagama apapun juga yang bersendikan Ketuhanan Yang Maha Esa.  \n[3.12]…Pancasila dan UUD NRI Tahun 1945 telah menegaskan bahwa \nnegara Indonesia adalah negara yang berdasar kepada Ketuhanan Yang \nMaha Esa. Oleh karena itu, kepercayaan kepada adanya Tuhan Yang  \nMaha Esa merupakan salah satu karakter bangsa dan telah disepak ati \nsebagai ideologi atau kondisi ideal yang dicita-citakan. Bentuk keyakinan \ndan kepercayaan terhadap adanya Tuhan Yang Maha Esa diwujudkan \nsetiap warga negara dalam bentuk kehidupan beragama, yaitu deng an \nmeyakini dan memeluk agama yang memiliki nilai-nilai keyakinan kepada \nTuhan Yang Maha Esa sebagaimana dicita-citakan dalam Pancasila \nsebagai ideologi bangsa. Untuk menerapkannya, maka setiap warga  \nnegara diberi kebebasan memeluk agama dan kepercayaan terhadap \nTuhan Yang Maha Esa dan beribadat sesuai dengan agama dan \nkepercayaan tersebut, hal ini juga bermakna sebagai bagian dari  peran \n\n34 \n \ndan kewajiban dari setiap warga negara tersebut dalam menjaga d an \nmempertahankan karakter Ketuhanan Yang Maha Esa dalam ideologi \nbangsa. Oleh karena itu, kebebasan beragama sebagaimana dimaksu d \noleh Pasal 22 UU 39/1999 tidak dapat dimaknai lain selain dari \nkebebasan beragama sebagaimana dimaksud oleh Pancasila sebagai \nideologi bangsa dan UUD NRI Tahun 1945 sebagai dasar hukum, bukan \nkebebasan untuk tidak beragama atau tidak berkepercayaan terhad ap \nTuhan Yang Maha Esa.  \n Selain itu, bilamana tidak adanya kebebasan untuk tidak beraga ma \natau tidak berkepercayaan terhadap Tuhan Yang Maha Esa dianggap  \nsebagai suatu pembatasan hak asasi, maka pembatasan yang seperti itu \nsendiri selain diperlukan untuk menjaga dan mempertahankan kara kter \nbangsa, juga bukanlah bentuk pembatasan yang opresif atau sewenang-\nwenang dan bukanlah pembatasan yang tidak proporsional. Hal ini  \nkarena dalam penerapannya, hukum memberikan kemerdekaan bagi \nwarga negara untuk memilih agama dan meyakini kepercayaan terhadap \nTuhan Yang Maha Esa dan beribadat sesuai dengan keyakinannya \nsepanjang tidak melanggar pembatasan sebagaimana dinyatakan ole h \nPasal 28J UUD NRI Tahun 1945. Dalam hal ini, Pasal 28J ayat (2) UUD \nNRI Tahun 1945 sebagai dasar pembatasan penerapan hak \nkonstitusional pun menjadikan nilai agama sebagai salah satu da sar \npembatasan. Selengkapnya, Pasal 28J ayat (2) a quo menyatakan, \n“Dalam menjalankan hak dan kebebasannya, setiap orang wajib tun duk \nkepada pembatasan yang ditetapkan dengan undang-undang dengan \nmaksud semata-mata untuk menjamin pengakuan serta penghormatan \natas hak dan kebebasan orang lain dan untuk memenuhi tuntutan y ang \nadil sesuai dengan pertimbangan moral, nilai-nilai agama, keama nan \ndan ketertiban umum dalam suatu masyarakat demokratis”. Hal ini  \nberarti, karakter dan corak hak asasi manusia yang kita anut ti daklah \nbersifat liberal dan juga tidak bersifat universal. Sebab, hak asasi \nmanusia yang berkarakter ke-Indonesiaan haruslah sesuai dengan jiwa \nbangsa (volkgeist) yang religius dan bersifat partikular. Oleh karenanya, \nstandar moral dan nilai agama menjadi salah satu ukuran untuk m enilai \napakah suatu hak asasi manusia versi luar kompatibel atau tidak  untuk \nditerapkan di tataran domestik. Meskipun Mahkamah meyakini bahw a \nagama dan kepercayaan terhadap Tuhan Yang Maha Esa merupakan \nunsur terpenting dalam menjaga dan mempertahankan karakter bangsa \nsebagaimana diamanatkan Pancasila dan UUD NRI Tahun 1945, namun \ndalam praktiknya pun warga negara tetap diberi kebebasan untuk \nberagama atau menganut kepercayaan terhadap Tuhan Yang Maha Esa \nsesuai dengan keyakinannya masing-masing. Dalam konteks ini, ma ka \nimplementasi masing-masing individu dalam meyakini Ketuhanan Ya ng \nMaha Esa dalam hukum positif adalah beragama dan menganut \nkepercayaan terhadap Tuhan Yang Maha Esa secara merdeka, hal \nmana merupakan pilihan yang jauh lebih tepat daripada tidak beragama \natau tidak menganut kepercayaan terhadap Tuhan Yang Maha Esa. \nDengan demikian, pembatasan kebebasan beragama di mana tidak ada \nruang kebebasan bagi warga negara untuk tidak memeluk agama ata u \nkepercayaan terhadap Tuhan Yang Maha Esa adalah pembatasan yang \nproporsional dan bukanlah pembatasan yang bertentangan dengan \nKonstitusi. Oleh karena itu, dalil para Pemohon mengenai \n\n35 \n \ninkonstitusionalitas bersyarat Pasal 22 UU 39/1999 adalah tidak  \nberalasan menurut hukum; \n[3.13]  Menimbang bahwa para Pemoh on mendalilkan Pasal 61 ayat \n(1) dan Pasal 64 ayat (1) UU Administrasi Kependudukan yang telah diuji \ndan diputus Mahkamah Konstitusi dengan Putusan Mahkamah \nKonstitusi Nomor 97/PUU-XIV/2016 bertentangan dengan UUD NRI \nTahun 1945 karena seharusnya data kependudukan dan KTP-el dapat  \ntidak mencantumkan kolom agama atau kepercayaan bagi warga negara \nyang tidak ingin memeluk agama atau kepercayaan tertentu. Terha dap \nhal tersebut, sebagaimana telah Mahkamah pertimbangkan di atas,  \nkonsep kebebasan beragama yang dianut oleh konstitusi dan diterapkan \ndalam hukum positif di Indonesia bukanlah kebebasan yang memberikan \nruang bagi warga negara untuk tidak memeluk agama atau tidak \nmenganut kepercayaan terhadap Tuhan Yang Maha Esa. Hal ini \nmembentuk karakter bangsa Indonesia sebagai bangsa yang beragama \natau bangsa yang memiliki kepercayaan terhadap adanya Tuhan Yan g \nMaha Esa. Untuk itu, norma dalam undang-undang yang mengatur \nmengenai administrasi kependudukan mewajibkan bagi setiap warga  \nnegara untuk menyebutkan atau mendaftarkan diri sebagai pemeluk  \nagama atau penganut kepercayaan terhadap Tuhan Yang Maha Esa \nmerupakan norma yang berfungsi dan bertujuan untuk memfasilitasi dan \nmewujudkan karakter bangsa yang demikian.  \n Sebagaimana telah Mahkamah pertimbangkan di atas, pembatasan \nkebebasan bagi warga negara Indonesia, di mana setiap warga neg ara \nharus menyatakan memeluk agama atau kepercayaan terhadap Tuhan \nYang Maha Esa merupakan keniscayaan sebagaimana diharapkan oleh \nPancasila dan diamanatkan oleh Konstitusi. Pembatasan yang demikian \nmerupakan pembatasan yang proporsional, dan tidak diterapkan secara \nopresif dan sewenang-wenang. Setiap warga negara hanya diwajibk an \nmenyebutkan agama dan kepercayaannya untuk kemudian dicatat dan  \ndibubuhkan dalam data kependudukan tanpa adanya kewajiban hukum  \nlain yang dibebankan oleh negara dalam kaitannya dengan agama a tau \nkepercayaan yang dipilihnya selain kewajiban untuk menghormati \npembatasan sebagaimana dinyatakan dalam UUD NRI Tahun 1945 yang \njuga ditegaskan dalam Putusan Mahkamah Konstitusi Nomor 97/PUU-\nXIV/2016. Pertimbangan Mahkamah di atas telah menegaskan bahwa \nsebagaimana diamanatkan oleh UUD NRI Tahun 1945 dan dicita-citakan \ndalam ideologi bangsa, tidak beragama atau tidak menganut \nkepercayaan kepada Tuhan Yang Maha Esa tidak dapat dinilai seba gai \nkebebasan beragama atau kebebasan menganut kepercayaan terhadap \nTuhan Yang Maha Esa… \n Bahwa dari kutipan uraian pertimbangan hukum kedua putusan \nMahkamah Konstitusi tersebut, menurut Mahkamah, Konstitusi Nega ra Republik \nIndonesia sudah jelas menempatkan sila pertama dari Pancasila, yaitu Ketuhanan \nYang Maha Esa sebagai fondasi atau dasar pembentukan negara, sehingga struktur \nnegara hukum Indonesia tidak dapat dilepaskan dari dimensi reli gius yang telah \nmenjadi konsensus historis dan ideologis bangsa. Prinsip terseb ut bukan sekadar \n\n36 \n \nnorma deklaratif, melainkan juga mengandung nilai konstitusional yang membentuk \nkarakter hukum positif Indonesia, memengaruhi pembentukan perat uran \nperundang-undangan, praktik penyelenggaraan pemerintahan, serta penafsiran hak \ndan kewajiban warga negara. Oleh karena itu, kebebasan memeluk agama atau \nkepercayaan terhadap Tuhan Yang Maha Esa di Indonesia tidak dap at dimaknai \nsebagai kebebasan absolut sebagaimana yang berkembang dalam tra disi negara-\nnegara sekuler liberal, melainkan kebebasan beragama atau kepercayaan terhadap \nTuhan Yang Maha Esa dalam sistem konstitusi Indonesia yang mene mpatkannya \nsebagai hak fundamental yang melekat pada setiap individu, namu n tetap berada \ndalam konteks kehidupan sosial dan kebangsaan yang religius. Kebebasan tersebut \ndiberikan agar setiap warga negara dapat memilih, memeluk, dan menjalankan \najaran agama atau kepercayaan terhadap Tuhan Yang Maha Esa sesu ai \nkeyakinannya, sekaligus menjaga harmoni kehidupan masyarakat ya ng majemuk. \nSelain itu, negara tidak hanya bertindak sebagai pelindung kebe basan individu, \ntetapi juga sebagai penyeimbang antara hak dan kewajiban konsti tusional warga \nnegara untuk memastikan bahwa pelaksanaan kebebasan seseorang t idak \nmerugikan hak orang lain dan tidak merusak tatanan sosial yang telah menjadi \nkarakter bangsa. Dengan demikian, konstitusi secara tegas membe rikan ruang \npembatasan hak melalui undang-undang sepanjang pembatasan tersebut bertujuan \nmenjamin penghormatan terhadap hak dan kewajiban orang lain ser ta memenuhi \ntuntutan moral, nilai agama, keamanan, dan ketertiban umum dala m masyarakat \ndemokratis. Atau, dengan kata lain karakter dari konstitusi tel ah menunjukkan \nbahwa hak asasi manusia yang dianut dalam sistem hukum Indonesia bukanlah hak \nyang bebas tanpa batas, melainkan hak yang ditempatkan dalam ke seimbangan \nantara kebebasan individu dan tanggung jawab sosial. Oleh karena itu, hak tersebut \ntidak dapat dipahami secara individualistik semata, melainkan s ebagai hak yang \nhidup dalam komunitas bangsa yang memiliki identitas religius, kultural, dan historis, \nsehingga pemahaman dan penerapan hak asasi manusia tidak dapat dilepaskan \ndari jiwa bangsa yang menjadi dasar pembentukan negara. \n Bahwa selain itu, pengaturan hukum yang mengarahkan warga nega ra \nuntuk tetap berada dalam kerangka kehidupan beragama atau berke percayaan \nterhadap Tuhan Yang Maha Esa tidak dapat dipandang sebagai bentuk pemaksaan \nkeyakinan, melainkan sebagai konsekuensi logis dari karakter id eologis dan \nkonstitusi negara. Negara tidak menentukan agama yang harus dip eluk warganya, \n\n37 \n \ntetapi memfasilitasi dan menjaga keberlangsungan kehidupan bera gama sebagai \nbagian dari identitas kolektif bangsa. Dalam konteks tersebut, menurut Mahkamah \nkebebasan beragama tidak dapat ditafsirkan sebagai kebebasan un tuk menolak \nkeberadaan agama atau meniadakan dimensi religius dalam kehidup an publik \nberbangsa dan bernegara. Kebebasan yang dijamin adalah kebebasan memilih dan \nmenjalankan agama atau kepercayaan terhadap Tuhan Yang Maha Esa , bukan \nkebebasan untuk menghilangkan nilai ketuhanan yang menjadi dasa r ideologi \nnegara. Pembatasan yang demikian bukanlah pembatasan yang sewen ang-\nwenang, melainkan pembatasan yang proporsional, konstitusional,  dan diperlukan \nuntuk menjaga keberlangsungan kehidupan berbangsa yang harmonis  d a l a m  \nmasyarakat yang plural. Oleh karena itu konsistensi bahwa negara hukum Indonesia \nmemiliki karakter yang khas, berbeda dari konsep negara hukum l iberal yang \nmenempatkan agama sepenuhnya sebagai urusan privat. Di Indonesia, agama tidak \nhanya menjadi persoalan individu, tetapi juga menjadi unsur yan g membentuk \nidentitas sosial dan nasional, sehingga negara memiliki kepenti ngan konstitusional \nuntuk menjaga eksistensinya dalam kehidupan publik. Dengan demi kian, \nargumentasi konstitusional yang berkembang menunjukkan satu gar is pemikiran \nyang utuh bahwa kebebasan beragama di Indonesia harus dipahami dalam \nkerangka ideologi Pancasila dan konstitusi negara, yang menempa tkan nilai \nketuhanan sebagai unsur utama kehidupan berbangsa dan bernegara . Hak asasi \nmanusia tetap dijunjung tinggi, tetapi pelaksanaannya harus sel aras dengan nilai-\nnilai fundamental yang telah disepakati bersama sebagai dasar negara. Oleh karena \nitu, dengan mendasarkan kedua kutipan pertimbangan hukum terseb ut di atas, \nsecara konseptual dan konstitusional, Mahkamah tidak memiliki dasar pertimbangan \npendirian baru untuk bergeser dari pertimbangan hukum kedua put usan tersebut. \nSebab, setiap upaya untuk menafsirkan kebebasan beragama di lua r kerangka \nkonstitusional sebagaimana telah ditegaskan Mahkamah di atas da pat berpotensi \nmenegasikan konsensus ideologis dan dasar normatif pembentukan negara \nIndonesia itu sendiri. \n[3.13]  Menimbang bahwa setelah menguraikan dan mempertimbangkan hal- hal \ntersebut di atas, selanjutnya Mahkamah mempertimbangkan lebih l anjut dalil para \nPemohon yang menurut para Pemohon norma Pasal 302 ayat (1) dan ayat (2) UU  \n1/2023 bertentangan dengan UUD NRI Tahun 1945. Berkenaan dengan  dalil para \nPemohon tersebut, jika dicermati dengan saksama dan lebih jauh dikaitkan dengan \n\n38 \n \nkedua pertimbangan hukum Mahkamah tersebut, menurut Mahkamah norma Pasal  \na quo sebenarnya tidak mengandung adanya larangan atau membatasi hak  untuk \nmemeluk agama atau kepercayaan terhadap Tuhan Yang Maha Esa, un tuk \nmelakukan kegiatan diskusi akademik, dialog antaragama, kritik ilmiah, ataupun \nperdebatan teologis, serta juga tidak melarang seseorang untuk berpindah agama \natau kepercayaan. Oleh karena itu, jika dicermati secara saksam a masing-masing \nayat dari Pasal a quo, menurut Mahkamah norma Pasal 302 ayat (1) UU 1/2023 \nhanya menitikberatkan pada larangan tindakan menghasut di muka umum agar \nseseorang menjadi tidak beragama atau meninggalkan kepercayaann ya, di mana \nperbuatan menghasut secara terbuka tersebut berpotensi mencipta kan tekanan \nsosial terhadap individu atau kelompok tertentu mengenai keyaki nan yang \ndianutnya. Atau, dengan kata lain tindakan tersebut dapat dikat egorikan bersifat \nprovokatif, manipulatif, atau agitatif yang dapat mengganggu st abilitas sosial dan \nkebebasan individu dalam menjalankan keyakinannya, bukan melara ng kegiatan \ndiskusi akademik, dialog antaragama, kritik ilmiah, ataupun per debatan teologis \nyang dilakukan secara rasional dan tidak bersifat memaksakan ke hendak. \nBerkenaan dengan hal tersebut, dalam Penjelasan Pasal 302 ayat (1) UU 1/2023 \nmenegaskan secara eksplisit, bahwa “Ketentuan ini bukan merupakan pembatasan \nbagi seseorang untuk berpindah agama atau kepercayaan yang ada di Negara \nKesatuan Republik Indonesia.” Dengan demikian, norma ini tidak dapat dipahami \nsebagai larangan seseorang untuk mengganti keyakinannya, melain kan hanya \nmelarang tindakan menghasut secara terbuka agar seseorang menin ggalkan \nagama atau kepercayaannya, dengan alasan sebagaimana telah dipe rtimbangkan",
+      "start_line": 1262,
+      "end_line": 1495
+    },
+    {
+      "heading": "di atas.",
+      "slug": "di-atas",
+      "text": "Bahwa sementara itu, berkenaan dengan norma Pasal 302 ayat (2)  UU \n1/2023, menurut Mahkamah lebih mengatur mengenai larangan tindakan yang lebih \nserius/berat, yaitu pemaksaan dengan kekerasan atau ancaman kek erasan agar \nseseorang meninggalkan agama atau berpindah agama. Berkaitan de ngan hal \ntersebut, menurut Mahkamah keberadaan norma a quo telah sejalan dengan prinsip \ndasar perlindungan hak asasi manusia dalam kebebasan memeluk ag ama atau \nkepercayaannya terhadap Tuhan Yang Maha Esa, karena kekerasan dan ancaman \nkekerasan itu sendiri merupakan perbuatan yang dilarang dan sec ara hakiki \nmerupakan pelanggaran terhadap kebebasan kehendak manusia yang dijamin \nkonstitusi, terlebih dalam berkeyakinan yang dipilihnya. Dengan  demikian, adanya \n\n39 \n \nsanksi pidana atas perbuatan tersebut dalam ketentuan norma dim aksud, menurut \nMahkamah merupakan instrumen pencegahan dan penindakan untuk me mastikan \nbahwa pilihan agama atau kepercayaan bagi setiap warga negara benar-benar lahir \ndari kehendak bebas, bukan akibat tekanan fisik maupun psikolog is, sehingga \nkewajiban negara dalam melindungi kepentingan hukum masyarakat,  t e r m a s u k  \nmenjaga harmoni sosial dalam masyarakat plural agar tidak terja di konflik berbasis \nagama yang berpotensi menimbulkan kerusuhan sosial dapat terpenuhi.  \n[3.14] Menimbang bahwa selanjutnya berkenaan dengan frasa “tidak bera gama \natau berkepercayaan yang dianut di Indonesia” dalam norma Pasal 302 UU 1/2023 \nyang juga dipersoalkan oleh para Pemohon, menurut Mahkamah fras a dimaksud \ntelah memberikan batasan yang jelas mengenai perbuatan yang dilarang. Rumusan \nnorma yang mengandung frasa yang dimaksudkan oleh para Pemohon juga telah \nmenunjukkan bahwa objek larangan adalah tindakan yang mendorong  seseorang \nuntuk meninggalkan agama atau kepercayaannya hingga menjadi tid ak beragama, \nbukan sebaliknya yaitu sekadar perbedaan pandangan teologis, pe rbedaan aliran, \ndenominasi, atau aktivitas penyebaran ajaran agama yang dilakukan secara damai. \nOleh karena itu, frasa tersebut telah memberikan batasan/kriteria perbuatan hukum \nyang dilarang dan memberikan kepastian hukum perbedaan antara a ktivitas \npenyebaran ajaran agama yang sah dengan tindakan yang dapat dik ategorikan \nsebagai penghasutan agar seseorang tidak menganut agama atau ke percayaan \ntertentu. Oleh karena itu, argumentasi para Pemohon yang menyatakan bahwa frasa \n“tidak beragama atau berkepercayaan yang dianut di Indonesia” d alam Pasal 302 \nUU 1/2023 tidak memiliki parameter yang jelas sehingga membuka ruang bagi \nnegara untuk menentukan secara sepihak legitimasi suatu keyakin an,  menurut \nMahkamah adalah argumentasi yang tidak tepat, karena pemahaman para \nPemohon terhadap norma Pasal 302 UU 1/2023 hanya secara parsial  tanpa \nmenempatkannya dalam kerangka sistem hukum nasional secara utuh, baik dalam \nperspektif konstitusional maupun praktik ketatanegaraan, di man a berkenaan \ndengan hal tersebut telah dipertimbangkan Mahkamah sebelumnya, bahwa \nkonstitusi secara tegas telah menjamin kebebasan setiap orang u ntuk memeluk \nagama dan kepercayaannya, sebagaimana tercermin dalam Pasal 28E ayat (1) dan \nayat (2) serta Pasal 29 ayat (2) UUD NRI Tahun 1945. Di mana pengakuan tersebut \ntidak hanya berhenti pada tataran prinsip, melainkan telah dite rjemahkan dalam \nberbagai kebijakan hukum dan administrasi negara yang memberika n ruang \n\n40 \n \neksistensi bagi agama maupun kepercayaan yang ada dalam masyarakat. Dengan \ndemikian, frasa yang dipersoalkan oleh para Pemohon tidak dapat  d i t a f s i r k a n  \nseolah-olah negara memberikan kebebasan mutlak untuk menentukan  keabsahan \nsuatu keyakinan, sebab parameter mengenai agama dan kepercayaan  t e l a h  \nberkembang melalui praktik hukum, administrasi kependudukan, se rta putusan \npengadilan. Selain itu, norma pidana dalam norma Pasal 302 UU 1 /2023 menurut \nMahkamah tidak bertujuan menentukan benar atau tidaknya suatu k eyakinan, \nmelainkan bertujuan mengatur perilaku yang berpotensi menimbulkan permusuhan, \nkebencian, atau gangguan terhadap kehidupan beragama dan keruku nan \nmasyarakat. Terlebih lagi, objek perlindungan norma tersebut bu kanlah legitimasi \nsuatu ajaran, melainkan ketertiban umum dan kehidupan sosial ya ng harmonis di \ntengah masyarakat yang majemuk. Meskipun demikian, jika ada tin dakan pidana \nsebagaimana ditentukan dalam norma Pasal 302 UU 1/2023 tersebut , menurut \nMahkamah, aparat penegak hukum tetap harus membuktikan adanya u nsur \npenghasutan di muka umum atau pemaksaan melalui kekerasan atau ancaman \nkekerasan, sehingga norma a quo tidak dapat diterapkan secara sewenang-wenang \nterhadap perbedaan pandangan atau praktik keagamaan. Berdasarkan fakta hukum \ntersebut, dalam konteks kehidupan masyarakat Indonesia yang plu ral, keberadaan \nnorma Pasal 302 UU 1/2023 menurut Mahkamah masih relevan diperlukan sebagai \ninstrumen hukum untuk mencegah munculnya tekanan sosial maupun tindakan \nkekerasan yang dapat merusak kebebasan individu dalam menentuka n \nkeyakinannya. Selain itu, norma tersebut juga berfungsi untuk m enjaga \nkeseimbangan antara kebebasan beragama dan kepentingan ketertib an umum, \nsekaligus menjadi sarana perlindungan negara terhadap potensi k onflik berbasis \nagama di tengah masyarakat yang beragam, serta menjamin pelaksa naan \nkebebasan beragama yang berlangsung secara damai, sukarela, ser ta sejalan \ndengan prinsip perlindungan hak asasi manusia dan ketertiban sosial sebagaimana \ndijamin dalam UUD NRI Tahun 1945. \nBerdasarkan uraian pertimbangan hukum tersebut di atas, menurut  \nMahkamah, dalil para Pemohon yang  mempersoalkan konstitusionali tas norma \nPasal 302 ayat (1) dan ayat (2) UU 1/2023 bertentangan dengan Pasal 28D ayat (1), \nP asal 2 8E  ayat  (1) da n ay at  (2),  sert a P as al 28I ayat (1) UUD NRI Tahun 1945 \nadalah tidak beralasan menurut hukum. \n\n41 \n \n[3.15] Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum di \natas, menurut Mahkamah norma Pasal 302 ayat (1) dan ayat (2) UU 1/2023 ternyata \ntelah memberikan jaminan hukum yang adil dan perlakuan sama di hadapan hukum, \nprinsip negara hukum, serta perlindungan hak asasi dan rasa ama n yang dijamin \noleh UUD NRI Tahun 1945, bukan sebagaimana yang didalilkan para  Pemohon. \nDengan demikian, dalil para Pemohon adalah tidak beralasan menurut hukum untuk \nseluruhnya.  \n[3.16] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak \ndipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1497,
+      "end_line": 1591
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraika n",
+      "start_line": 1593,
+      "end_line": 1593
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Para Pemohon memiliki kedudukan hukum untuk mengajukan \npermohonan a quo; \n[4.3]    Permohonan para Pemohon tidak beralasan menurut hukum untuk  \nseluruhnya. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun  \n1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsti tusi \nsebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003  t e n t a n g  \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2 020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), d an Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembara n Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1595,
+      "end_line": 1608
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan para Pemohon untuk seluruhnya. \n\n42 \n \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh delapan  \nHakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggot a, Saldi Isra, \nDaniel Yusmic P. Foekh,  M. Guntur Hamzah, Anwar Usman, Enny Nu rbaningsih, \nRidwan Mansyur, dan Arsul Sani, masing-masing sebagai Anggota, pada hari \nKamis, tanggal lima, bulan Februari, tahun dua ribu dua puluh enam,  yang \ndiucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari \nSenin, tanggal dua, bulan Maret, tahun dua ribu dua puluh enam , selesai \ndiucapkan pukul 10.09 WIB, oleh sembilan Hakim Konstitusi, Suhartoyo selaku \nKetua merangkap Anggota, Saldi Isra, Daniel Yusmic P. Foekh,  M. Guntur Hamzah, \nAnwar usman, Enny Nurbaningsih, Ridwan Mansyur, Arsul Sani, dan  Adies Kadir, \nmasing-masing sebagai Anggota, dengan dibantu oleh Saiful Anwar  sebagai \nPanitera Pengganti, serta dihadiri oleh para Pemohon dan/atau k uasanya, Dewan \nPerwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \n \nKETUA, \nttd. \nSuhartoyo  \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra  \nttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \nttd. \nAnwar Usman \nttd. \nEnny Nurbaningsih \nttd. \nRidwan Mansyur \nttd. \nArsul Sani \nttd. \nAdies Kadir  \n\n43 \n \nPANITERA PENGGANTI, \nttd. \nSaiful Anwar",
+      "start_line": 1610,
+      "end_line": 1656
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Rahmat Najmu",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Nissa Sharfina Nayla",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Wahyu Eka Jayanti",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Scholastica Asyana Eka Putri P",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Reni Rianti",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Alliffah Wahyu Sanyoto T",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Rifky Andy Darmawan",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Safira Gita Rahmawati",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Rizka Aliya Putri",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "Zico Leonard Djagardo Simanjuntak, S.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "Leon",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 1/2023 tentang Kitab Undang-Undang Hukum Pidana"
+    ],
+    "constitutional_articles": [
+      "Pasal 24C ayat (1)",
+      "Pasal 28E ayat (1)",
+      "Pasal 28D Ayat (1)",
+      "Pasal 28E ayat (2)",
+      "Pasal 28",
+      "Pasal 28D ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 29 ayat (1)",
+      "Pasal 9",
+      "Pasal 28J ayat (2)",
+      "Pasal 29 ayat (2)",
+      "Pasal 28J ayat (1)",
+      "Pasal 28J"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P-3",
+      "BUKTI P-4",
+      "BUKTI P-5",
+      "BUKTI P-6",
+      "BUKTI P-7",
+      "BUKTI P-8",
+      "BUKTI P-9",
+      "BUKTI P-10",
+      "BUKTI P-11",
+      "BUKTI P-2",
+      "BUKTI P-1",
+      "BUKTI P-20",
+      "BUKTI P-16",
+      "BUKTI P-12",
+      "BUKTI P-13",
+      "BUKTI P-14",
+      "BUKTI P-15",
+      "BUKTI P-17",
+      "BUKTI P-18",
+      "BUKTI P-19",
+      "REFERENSI:274/PUU-XXIII/2025",
+      "REFERENSI:280/PUU/PAN.MK/AP3/12/2025dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal29Desember2025denganNomor274/PUU-XXIII/2025",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:006/PUU-III/2005danPutusanMahkamahKonstitusiNomorNomor011/PUU-V/2007",
+      "REFERENSI:97/PUU-XIV/2016",
+      "REFERENSI:19/PUU-VI/2008",
+      "REFERENSI:78/PUU-XXI/2023",
+      "REFERENSI:006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:140/PUU-VII/2009yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal19April2010danPutusanMahkamahKonstitusiNomor146/PUU-XXII/2024",
+      "REFERENSI:006/PUU-III/2005danPerkaraNomor11/PUU-V/2007",
+      "REFERENSI:140/PUU-VII/2009",
+      "REFERENSI:146/PUU-XXII/2024"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan para Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Anwar Usman",
+      "Enny Nurbaningsih",
+      "Ridwan Mansyur",
+      "Arsul Sani",
+      "Adies Kadir"
+    ],
+    "clerks": [
+      "Saiful Anwar"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "274/PUU-XXIII/2025",
+      "280/PUU/PAN.MK/AP3/12/2025dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal29Desember2025denganNomor274/PUU-XXIII/2025",
+      "11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomorNomor011/PUU-V/2007",
+      "97/PUU-XIV/2016",
+      "19/PUU-VI/2008",
+      "78/PUU-XXI/2023",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "140/PUU-VII/2009yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal19April2010danPutusanMahkamahKonstitusiNomor146/PUU-XXII/2024",
+      "006/PUU-III/2005danPerkaraNomor11/PUU-V/2007",
+      "140/PUU-VII/2009",
+      "146/PUU-XXII/2024"
+    ],
+    "referenced_cases": [
+      "274/PUU-XXIII/2025",
+      "280/PUU/PAN.MK/AP3/12/2025dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusipadatanggal29Desember2025denganNomor274/PUU-XXIII/2025",
+      "11/PUU-V/2007",
+      "006/PUU-III/2005danPutusanMahkamahKonstitusiNomorNomor011/PUU-V/2007",
+      "97/PUU-XIV/2016",
+      "19/PUU-VI/2008",
+      "78/PUU-XXI/2023",
+      "006/PUU-III/2005yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "140/PUU-VII/2009yangdiucapkandalamsidangplenoterbukauntukumumpadatanggal19April2010danPutusanMahkamahKonstitusiNomor146/PUU-XXII/2024",
+      "006/PUU-III/2005danPerkaraNomor11/PUU-V/2007",
+      "140/PUU-VII/2009",
+      "146/PUU-XXII/2024"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

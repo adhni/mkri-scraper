@@ -1,0 +1,940 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_9570_1706682806.pdf",
+    "file_name": "putusan_mkri_9570_1706682806.pdf",
+    "page_count": 35,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_9570_1706682806.pdf"
+  },
+  "parser": {
+    "status": "ok",
+    "warnings": [],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "164/PUU-XXI/2023",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2024-01-31",
+    "decision_date_raw": "tiga puluh satu, bulan Januari, tahun dua ribu dua puluh empat",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 5
+    },
+    {
+      "heading": "PUTUSAN",
+      "slug": "putusan",
+      "text": "Nomor 164/PUU-XXI/2023",
+      "start_line": 7,
+      "end_line": 7
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \n[1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam perkara Pengujian Undang-Undang Nomor 6 Tahun \n2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor \n2 Tahun 2022 tentang Cipta Kerja Menjadi Undang -Undang terhadap Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 9,
+      "end_line": 14
+    },
+    {
+      "heading": "1. Nama : Anisitus Amanat, S.H.",
+      "slug": "1-nama-anisitus-amanat-s-h",
+      "text": "Pekerjaan : Notaris \n Alamat : Jalan Puspogiwang Raya Nomor 18 RT/RW 004/002 \nGisikdrono, Semarang Barat, Kota Semarang, Jawa \nTengah \nSelanjutnya disebut sebagai------------------------------------------------Pemohon I",
+      "start_line": 16,
+      "end_line": 20
+    },
+    {
+      "heading": "2. Nama : Budi Winarno Soejanto",
+      "slug": "2-nama-budi-winarno-soejanto",
+      "text": "Pekerjaan : Wiraswasta \n Alamat : Jalan Taman Marina B6 -19 RT/RW 003/009, \nTawangsari, Semarang Barat, Kota Semarang, Jawa \nTengah \nSelanjutnya disebut sebagai-----------------------------------------------Pemohon II \nSelanjutnya Pemohon I dan Pemohon II disebut sebagai---------------para Pemohon; \n[1.2] Membaca permohonan para Pemohon;  \n Mendengar keterangan para Pemohon;  \n Memeriksa bukti-bukti para Pemohon. \n \n\n\n2",
+      "start_line": 22,
+      "end_line": 35
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 20 November 2023 yang diterima di Kepaniteraan Mahkamah Konstitusi \npada tanggal 20 November 2023 berdasarkan Akta Pengajuan Permohonan Nomor \n158/PUU/PAN.MK/AP3/11/2023 dan dicatat dalam Buku Registrasi Perkara \nKonstitusi Elektronik (e-BRPK) dengan Nomor 164/PUU-XXI/2023 pada tanggal 4 \nDesember 2023, yang telah diperbaiki dengan permohonan bertanggal 21 \nDesember 2023 dan diterima di Mahkamah pada tanggal 29 Desember 2023, yang \npada pokoknya menguraikan hal-hal sebagai berikut: \nI. KEWENANGAN MAHKAMAH KONSTITUSI REPUBLIK INDONESIA \n- Bahwa kewenangan Mahkamah Konstitusi untuk menguji materi muatan UU \nterhadap UUD NRI dapat diamati dalam rumusan pasal -pasal peraturan \nperundang-undangan sebagai berikut:",
+      "start_line": 37,
+      "end_line": 48
+    },
+    {
+      "heading": "1. Pasal 24 ayat (2) UUD NRI 1945 yang menyatakan bahwa Kekuasaan",
+      "slug": "1-pasal-24-ayat-2-uud-nri-1945-yang-menyatakan-bahwa-kekuasaan",
+      "text": "kehakiman dilakukan o leh sebuah Mahkamah Agung  dan badan peradilan \nyang berada di bawahnya dalam lingkungan peradilan umum, lingkungan \nperadilan agama, lingkungan peradilan militer, lingkungan peradilan tata \nusaha negara, dan oleh sebuah Mahkamah Konstitusi.",
+      "start_line": 50,
+      "end_line": 53
+    },
+    {
+      "heading": "2. Pasal 24C ayat (1) UUD NRI 1945 yang antara lain mengatakan bahwa",
+      "slug": "2-pasal-24c-ayat-1-uud-nri-1945-yang-antara-lain-mengatakan-bahwa",
+      "text": "Mahkamah Konstitusi berwenang  mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang -undang \nterhadap Undang-Undang Dasar.",
+      "start_line": 55,
+      "end_line": 57
+    },
+    {
+      "heading": "3. Pasal 29 ayat (1) huruf a Undang -Undang Nomo r 48 Tahun 2009 tentang",
+      "slug": "3-pasal-29-ayat-1-huruf-a-undang-undang-nomo-r-48-tahun-2009-tentang",
+      "text": "Kekuasaan KeHakiman  mengatakan bahwa Mahkamah Konstitusi \nberwenang mengadili pada tingkat pertama dan terakhir yang putusannya \nbersifat final untuk menguji undang-undang terhadap Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945.",
+      "start_line": 59,
+      "end_line": 62
+    },
+    {
+      "heading": "4. Pasal 10 ayat (1) huruf a Undang -Undang Nomor 24 Tahun 2003 tentang",
+      "slug": "4-pasal-10-ayat-1-huruf-a-undang-undang-nomor-24-tahun-2003-tentang",
+      "text": "Mahkamah Konstitusi yang selanjutnya disebut UU MK  yang menyatakan \nbahwa Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang -undang \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. \n\n3",
+      "start_line": 64,
+      "end_line": 70
+    },
+    {
+      "heading": "5. Pasal 9 ayat (1) Undang -Undang Nomor 12 Tahun 2011 tentang",
+      "slug": "5-pasal-9-ayat-1-undang-undang-nomor-12-tahun-2011-tentang",
+      "text": "Pembentukan Peraturan Perundang-undangan yang menyatakan bahwa \ndalam hal suatu Undang-Undang diduga bertentangan dengan Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945, pengujiannya \ndilakukan oleh Mahkamah Konstitusi.",
+      "start_line": 72,
+      "end_line": 75
+    },
+    {
+      "heading": "6. Pasal 5 huruf g UU Nomor 12 Tahun 2011 tentang Pembentukan Peraturan",
+      "slug": "6-pasal-5-huruf-g-uu-nomor-12-tahun-2011-tentang-pembentukan-peraturan",
+      "text": "Perundang-Undangan antara lain mengatakan bahwa pembentukan \nPeraturan Perundang -Undangan yang baik harus berdasarkan pada asas \nketerbukaan. Pengertian keterbukaan menurut penjelasan huruf g ini adalah \nbahwa dalam Pembentukan Peraturan  Perundang-undangan mulai dari \nperencanaan, penyusunan, pembahasan, pengesahan atau penetapan dan \npengundangan bersifat transparan dan terbuka. Dengan demikian seluruh \nlapisan masyarakat mempunyai kesempatan yang seluas -luasnya untuk \nmemberikan masukan dalam Pembentukan Peraturan Perundang-undangan.",
+      "start_line": 77,
+      "end_line": 84
+    },
+    {
+      "heading": "7. Pasal 2 ayat (1) Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2021",
+      "slug": "7-pasal-2-ayat-1-peraturan-mahkamah-konstitusi-nomor-2-tahun-2021",
+      "text": "tentang Tata Beracara Dalam Perkara Pengujian Undang -Undang yang \nmengatakan bahwa obyek permohonan Pengujian UU adalah Undang -\nUndang dan Perppu dan ayat 4 secara singkat mengatakan bahwa pengujian \nmateriil adalah pengujian yang berkenan dengan materi muatan dalam ayat, \npasal, dan/atau bagian dari UU atau Perppu yang dianggap bertentangan \ndengan UUD NRI 1945.",
+      "start_line": 86,
+      "end_line": 91
+    },
+    {
+      "heading": "8. Asas umum pembentukan UU yang m elarang UU berlaku surut, kecuali UU",
+      "slug": "8-asas-umum-pembentukan-uu-yang-m-elarang-uu-berlaku-surut-kecuali-uu",
+      "text": "tersebut mengaturnya.",
+      "start_line": 93,
+      "end_line": 93
+    },
+    {
+      "heading": "9. Putusan Mahkamah Konstitusi tentang kebolehan Mahkamah Konstitusi",
+      "slug": "9-putusan-mahkamah-konstitusi-tentang-kebolehan-mahkamah-konstitusi",
+      "text": "membuat putusan yang bersifat mengatur atau membuat norma hukum baru \nseperti akan dibentang pada bagian lain diawah ini.  \nBerdasarkan rumusan dalam pasal -pasal UUD NRI 1945 dan peraturan \nperundangan-undangan serta asas -asas pembentukan peraturan perundang -\nUndangan yang baik serta putusan MK tentang keoehan memuat norma baru \ntersebut di atas, maka para Pemohon tiba pada kesimpulan b ahwa Mahkamah \nKonstitusi memiliki kewenangan untuk melakukan  pengujian Pasal 137 ayat (2) \nhuruf b dan huruf c dan Pasal 138 Undang-Undang Nomor 6 Tahun 2023 tentang \nPenetapan Peraturan Pemerintah Pengganti Undang -Undang Nomor 2 Tahun \n2022 tentang Cipta Kerja Menjadi Undang-Undang terhadap Pasal 28D Undang-\n\n4 \n \nUndang Dasar Negara Republik Indonesia Tahun 1945 dan terhadap Asas \nPembentukan Peraturan Perundang -undangan Yang Baik sebagaimana \ndimaksud dalam Pasa l 5 huruf g Undang -Undang Nomor 12 Tahun 2011 yang \ntelah diubah dengan Undang-Undang Nomor 15 Tahun 2019 dan terakhir diubah \ndengan Undang-Undang Nomor 13 Tahun 2022 tentang Pembentukan \nPeraturan Perundang-undangan, putusan MK serta asas umum yang melarang \nUU berlaku surut.  \nKesimpulan para Pemohon tersebut di atas berdasarkan pada \npertimbangan-pertimbangan yang menurut para Pemohon bernilai hukum \nsebagai berikut:",
+      "start_line": 95,
+      "end_line": 117
+    },
+    {
+      "heading": "1. Bahwa Mahkamah Konstitusi sejak awal dirancang u ntuk tujuan melakukan",
+      "slug": "1-bahwa-mahkamah-konstitusi-sejak-awal-dirancang-u-ntuk-tujuan-melakukan",
+      "text": "pengujian legalitas tidaknya satu atau lebi h dan/atau keseluruhan norma \nhukum dalam suatu UU, sehingga lahirlah teori hukum yang mengatakan \nbahwa Mahkamah Konstitusi adalah lembaga negara pengawal konstitusi \n(the guardian of constitution ). Maksudnya, apabila terdapat ayat, pasal atau \nbagian tertent u dan/atau keseluruhan norma dalam suatu UU diduga \nbertentangan dengan konstitusi (unconstitutional), maka Mahkamah \nKonstitusi dapat menyatakan bahwa norma dalam ayat, pasal, atau bagian \ntertentu dan/atau keseluruhan norma kandungan sebuah UU tidak memilik i \nkekuatan hukum mengikat.",
+      "start_line": 119,
+      "end_line": 127
+    },
+    {
+      "heading": "2. Bahwa sebagai pengawal konstitusi (the guardian of constitution), para",
+      "slug": "2-bahwa-sebagai-pengawal-konstitusi-the-guardian-of-constitution-para",
+      "text": "Pemohon berpendapat bahwa Mahkamah Konstitusi juga berwenang \nmemberikan penafsiran terhadap ayat, pasal atau bagian tertentu dan/atau \nkeseluruhan dari sebuah UU apakah selaras atau tidak selaras dengan nilai-\nnilai yang terkandung dalam asas-asas pembentukan peraturan perundang-\nundangan yang baik serta asas lain yang sudah sepatutnya dipatuhi dalam \nproses pembentukan sebuah UU. Sehingga kalau Mahkamah Konstitus i \nberpendapat bahwa norma dalam ayat, pasal atau bagian tertentu dan/atau \nkeseluruhan batang tubuh sebuah UU tidak selaras dengan asas \npembentukan Peraturan Perundang -Undangan yang baik atau asas \nkepatutan yang seharusnya maka Mahkamah Konstitusi berwenang  \nmenyatakan norma dalam ayat, pasal atau bagian tertentu dan/atau \nkeseluruhan batang tubuh sebuah UU tidak memiliki kekuatan hukum \nmengikat.  \n\n5",
+      "start_line": 129,
+      "end_line": 144
+    },
+    {
+      "heading": "3. Bahwa meskipun Mahkamah Konstitusi sejak awal dirancang hanya punya",
+      "slug": "3-bahwa-meskipun-mahkamah-konstitusi-sejak-awal-dirancang-hanya-punya",
+      "text": "kewenangan untuk menguji konstitusionalitas no rma hukum dalam ayat, \npasal, bagian tertentu atau bagian keseluruhan dari sebuah UU (negative \nlegislature) seperti menyatakan tidak memiliki kekuatan hukum mengikat \nnorma hukum dalam ayat, pasal, bagian tertentu atau keseluruhan sebuah \nUU karena bertentang an dengan norma dalam UUD NRI 1945  dan tidak \nberwenang membuat norma baru atau norma yang mengatur ( positive \nlegislative) yang merupakan kewenangan lembaga pembentuk UU, yaitu \nPresiden dan Dewan Perwakilan Rakyat atau DPR , a kan tetapi dalam \nperkembangannya, MK telah melompat ke luar meninggalkan rambu \npembatas tersebut yang menurut Prof. DR. Moh. Mahfud MD dalam kata \npengantar buku karangan Prof. DR. Martitah, M. Hum bertujuan untuk meraih \nkeadilan substantif. Misalnya MK mengatur melalui putusan konstitusi onal \nbersyarat yang merupakan putusan MK yang menyatakan bahwa suatu \nketentuan UU tidak bertentangan dengan konstitusi, dengan memberi \npersyaratan pemaknaan dan keharusan  kepada lembaga negara untuk \nmemperhatikan penafsiran MK atas konstitusionalitas ketentuan UU yang \nsudah diuji dengan konsekwensi apabila syarat tersebut ditafsirkan lain atau \ntidak dipenuhi maka ketentuan UU yang sudah diuji dapat diuji kembali.",
+      "start_line": 146,
+      "end_line": 163
+    },
+    {
+      "heading": "4. Putusan Mahkamah Konstitusi tentang kebolehan Mahkamah Konstitusi",
+      "slug": "4-putusan-mahkamah-konstitusi-tentang-kebolehan-mahkamah-konstitusi",
+      "text": "membuat putusan yang bersifat mengatur atau membuat norma hukum baru \ndalam UU yang sudah ada. Hakim Konstitusi Maria Farida Indrati dalam Prof. \nDoktor Martitah, M. Hum: Mahkamah Konstitusi Dari Nega tive legislature ke \nPositive Legislature, 2023, hal.143 berkata bahwa dasar MK membuat \nputusan yang bersifat mengatur adalah unsur mendesak, unsur keadilan \nsubstansial serta unsur kemanfaatan. Hakim MK Muhammad Alim dalam \nbuku dan halaman yang sama juga be rkata bahwa putusan yang bersifat \nmengatur itu didasarkan pada Pasal 45 ayat 1 UU MK yang intinya MK \nmemutus perkara berdasrkan bukti dan keyakinan (kebenaran materiil), \nkeadilan dan kemanfaatan serta situasi hukum yang mendesak yang harus \ndiselesaikan. Hakim MK Harjono dalam buku dan halaman yang sama pun \nberkata bahwa putusan MK bukan persoalan benar atau salah, akan tetapi \nlebih cenderung untuk mewujudkan keadilan dan kemanfaatan bagi \nmasarakat untuk menyelesaikan problem hukum yan dialami denan cara \n\n6 \n \nmenafsir UUD 1945.  Selain alasan yuridis dalam Pasal 45 ayat 1 UU MK \ntersebut, Hakim MK Akil Mochtar dalam buku yang sama halaman 142 \nmengatakan bahwa putusan MK yang bersifat mengatur didasarkan atas \nhasil studi komparasi di berbagai negara seperti Amerika L atin, Jerman dan \nKorea, di mana di negara -negara tersebut, Hakim MK dapat membuat \nputusan yang bersifat mengatur atas dasar pertimbangan rasa keadilan dan \nkemanfaatan.  \nKesimpulan para Pemohon tersebut di atas berdasarkan sudut pandang \nsejarah hukum konstitusi sebagai berikut:",
+      "start_line": 165,
+      "end_line": 190
+    },
+    {
+      "heading": "5. Bahwa Mahkamah Konstitusi sejak awal dirancang u ntuk tujuan melakukan",
+      "slug": "5-bahwa-mahkamah-konstitusi-sejak-awal-dirancang-u-ntuk-tujuan-melakukan",
+      "text": "pengujian legalitas tidaknya satu atau lebih norma hukum dalam UU, \nsehingga lahirlah teori hukum yang mengatakan bahwa Mahkamah Konstitusi \nadalah lembaga negara pe ngawal konstitusi ( the guardian of constitution ). \nMaksudnya, apabila terdapat ayat, pasal dan/atau bagian tertentu dari \nundang-undang diduga bertentangan dengan konstitusi ( unconstitutional), \nmaka Mahkamah Konstitusi dapat menyatakan bahwa norma dalam ayat , \npasal, dan/atau bagian tertentu dari undang -undang tersebut tidak memiliki \nkekuatan hukum mengikat.",
+      "start_line": 192,
+      "end_line": 199
+    },
+    {
+      "heading": "6. Bahwa sebagai pengawal konstitusi (the guardian of constitution), Pemohon",
+      "slug": "6-bahwa-sebagai-pengawal-konstitusi-the-guardian-of-constitution-pemohon",
+      "text": "berpendapat bahwa Mahkamah Konstitusi juga berwenang memberikan \npenafsiran terh adap ayat, pasal dan/atau bagian tertentu dari sebuah \nundang-undang apakah selaras atau tidak selaras dengan nilai -nilai yang \nterkandung dalam asas-asas pembentukan peraturan perundang -undangan \nyang baik. Sehingga kalau Mahkamah Konstitusi berpendapat bahwa norma \ndalam ayat, pasal dan/atau bagian tertentu dari sebuah UU tidak selaras \ndengan asas pembentukan Peraturan Perundang-Undangan yang baik maka \nMahkamah Konstitusi berwenang menyatakan norma dalam ayat, pasal \ndan/atau bagian tertentu dari sebuah UU tid ak memiliki kekuatan hukum \nmengikat.",
+      "start_line": 201,
+      "end_line": 210
+    },
+    {
+      "heading": "7. Bahwa meskipun kewenangan awal MK dirancang untuk tujuan melakukan",
+      "slug": "7-bahwa-meskipun-kewenangan-awal-mk-dirancang-untuk-tujuan-melakukan",
+      "text": "pengujian legalitas tidaknya satu atau lebih norma hukum dalam UU  yang \nsudah ada tetapi dalam perkembangannya , Mahkamah Konstitusi membuat \nputusan yang bersifat mengatur atau membuat norma hukum baru dalam UU \nyang sudah ada. Sebagai contoh: \n\n7 \n \n- Pertama, putusan Nomor 102/PPU -VII/2009 yang menguji Pasal 28 dan \npasal 111 ayat (1) UU Nomor 42/2008 tentang Pemilihan Umum Presiden \nDan Wakil Presiden. Dalam putusan  tersebut, MK berpendapat bahwa \nnorma dalam kedua pasal UU tersebut adalah konstitusional, sepanjang \ndiartikan mencakup warga negara Indonesia yang tidak terdaftar sebagai \npemilih dalam daftar pemilih tetap (DPT) dapat ju ga ikut serta memilih \nPresiden dan Wakil Presiden berdasarkan KartuTanda Penduduk (KTP) \nyang masih berlaku atau paspor bagi WNI yang berada di luar negeri. MK \nvia putusan ini, MK telah membuat dan/atau membentuk norma hukum \nbaru, yaitu WNI yang tidak terdaftar dalam DPT bisa ikut gunakan haknya \nmemilih Presiden dan Wakil Presiden dengan mengunakan KTP dan \nPaspor bagi WNI yang tinggal di luar negeri.  \n- Kedua, Putusan MK Nomor 22/PUU - XV/2017 yang membatalkan norma \nhukum tentang batas minimal usia wanita untuk kawin adalah 16  \n(enambelas) tahun dan pria 19 (sembilanbelas) tahun karena merupakan \nwujud nyata dan konkret tidak tercapainya persamaan kedudukan di dalam \nhukum antara laki-laki dan perempuan yang diatur dalam Pasal 27 ayat (1) \nUUD NRI 1945 maupun Pasal 7 ayat (1) UU Perkawinan Nomor 1 Ta hun",
+      "start_line": 212,
+      "end_line": 236
+    },
+    {
+      "heading": "1974. Perbedaan batas usia perkawinan ini mengakibatkan anak",
+      "slug": "1974-perbedaan-batas-usia-perkawinan-ini-mengakibatkan-anak",
+      "text": "perempuan yang sudah kawin di usia tersebut  kehilangan hak -haknya \nsebagai anak sebab dianggap sudah dewasa oleh karena sudah menikah. \nDalam putusan ini jelas sekali kalau MK punya kewenangan untuk \nmembuat norma baru dari tidak ada norma menjadi ada norma baru \ntentang batas usia perkawianan antara pria dan wanita.  \n- Ketiga, Putusan MK Nomor 46/PUU -VIII/2010 yang membatalkan norma \nhukum dalam Pasal 42 UU Perkawinan Nomor 1 Tahun 1974 yang \nmenyatakan bahwa anak yang dilahirkan diluar perkawinan hanya \nmempunyai hubungan perdata dengan ibunya dan keluarga ibunya. MK \nlewat putusan tersebut menyatakan bahwa anak luar kawin tetap memiliki \nhubungan perdata tidak hanya dengan ibunya saja tetapi juga denga n \nayah biologisnya. Putusan ini pun tampak jelas sekali bahwa MK punya \nkewenangan untuk membetuk norma baru yang belum atau  tidak ada \ndalam UU yang sudah ada atas dasar pertimbanan demi meraih \n\n8 \n \nkemanfaatan dan kepentinanan urgent yang dituntut atau dimohon \nmasyarakat.",
+      "start_line": 238,
+      "end_line": 256
+    },
+    {
+      "heading": "8. Kewenangan MK untuk membuat dan/atau menetapkan norma baru dengan",
+      "slug": "8-kewenangan-mk-untuk-membuat-dan-atau-menetapkan-norma-baru-dengan",
+      "text": "berpedoman pada putusan -putusan MK seperti putusan Nomor 102/PUU -\nVII/2009, Putusan MK Nomor 22/PUU -XV/2017 dan Putusan MK Nomor \n46/PUU-VIII/2010 yang pada intinya bahwa MK punya kewenangan untuk \nmenetapkan norma baru yang menyimpang dari norma hukum yang sudah \nada atas dasar pertimbangan manfaat yang mendesak. Selain itu, sudah ada \nputusan-putusan MK yang membolehkan MK dalam situasi tertentu dapat \nkesampingan kewenangan Negative legislature untuk bergeser ke posisi \nPositive Legislature atau menerbitkan norma hukum baru dalam perkara -\nperkara tertentu guna mencapai unsur keadilan substansial serta unsur \nkemanfaatan. Putusan yang bersifat mengatur itu didasarkan pada Pasal 45 \nayat (1) UU MK yang intinya MK memutus perkara berdasarkan bukti dan \nkeyakinan (kebenaran materiil), keadilan dan kemanfaatan serta situasi \nhukum yang mendesak yang harus diselesaikan, sebab putusan MK bukan \npersoalan benar atau salah, melainkan untuk mewujudkan keadilan dan \nkemanfaatan bagi masyarakat. Sebagai penguat pendapat ini tentu patut \ndimaklumi ucapan Mantan Hakim MK Akil Mochtar tadi bahwa putusan MK \nyang bersifat mengatur didasarkan atas ha sil studi komparasi di berbagai \nnegara seperti Amerika Latin, Jerman dan Korea, di mana di negara -negara \ntersebut, Hakim MK dapat membuat putusan yang bersifat mengatur atas \ndasar pertimbangan rasa keadilan dan kemanfaatan.",
+      "start_line": 258,
+      "end_line": 277
+    },
+    {
+      "heading": "9. Bahwa norma dalam Pasal 138 ayat (1) UU Nomor 6/2023 yang mengatakan",
+      "slug": "9-bahwa-norma-dalam-pasal-138-ayat-1-uu-nomor-6-2023-yang-mengatakan",
+      "text": "bahwa penyerahan pemanfaatan bagian tanah Hak Pengelolaan kepada \npihak ketiga sebagaimana dimaksud dalam Pasal 137 ayat (2) huruf b \ndilakukan dengan perjanjian pemanfaatan tanah menurut para Pemohon \nadalah konstitusional, sepanjang ditambah dengan frasa yang menyatakan \nbahwa penyerahan bagian tanah Hak Pengelolaan kepada pihak ketiga dapat \njuga dilakukan dengan perjanjian jual beli tanah atau perjanjian lain yang \nsejenis.",
+      "start_line": 279,
+      "end_line": 285
+    },
+    {
+      "heading": "10. Sedangkan norma dalam Pasal 137 UU Nomor 6/2023 ayat (2) huruf c yang",
+      "slug": "10-sedangkan-norma-dalam-pasal-137-uu-nomor-6-2023-ayat-2-huruf-c-yang",
+      "text": "mengatakan bahwa Hak Pengeloaan memberi kewenangan untuk \nmenentukan tarif dan menerima uang pemasukan/ganti rugi dan/atau uang \n\n9 \n \nwajib tahunan  (UWT) dari pihak ketiga sesuai dengan perjanjian adalah \nkonstitusional, sepanjang ada frasa yang sekurang -kurangnya menyatakan \nbahwa kewajiban tersebut tidak berlaku bagi pihak ketiga yang menerima \npenyerahan bagian tanah HPL berdasarkan perjanjian jual beli tanah.",
+      "start_line": 287,
+      "end_line": 295
+    },
+    {
+      "heading": "11. Bahwa dalil-dalil para Pemohon dalam point 8 dan point 9 barusan di atas itu",
+      "slug": "11-bahwa-dalil-dalil-para-pemohon-dalam-point-8-dan-point-9-barusan-di-atas-itu",
+      "text": "tadi didasarkan pada bukti atau fakta hukum bahwa para konsumen \nPemohon I memperoleh penyerahan bagian tanah HPL berdasarkan \nperjanjian jual beli tanah atau perjanjian lain yang sejenis dan tidak diperoleh \nkarena penyerahan atas dasar perjan jian pemanfaatan tanah. Maka \nkewajiban membayar UWT bagi pihak ketiga yang menerima penyerahan \nbagian tanah HPL hanya konstitusional sepanjang untuk penerima \npenyerahan bagian tanah HPL berdasarkan perjanjian pemanfaatan tanah \ndan norma tersebut tidak kons titusional bagi pihak ketiga yang memperoleh \npenyerahan bagian tanah HPL berdasarkan perjanjian jual beli tanah. Sebab \nsudah menjadi norma umum dan bahkan norma universal yang masih sah \ndan berlaku mengikat bahwa perjanjian jual beli merupakan dasar hukum \nmutlak (conditio zine quo non) hapusnya hubungan hukum antara tanah yang \ndijual dengan pemilik tanah /penjual tanah sejak tanda tangan perjanjian jual \nbeli tanah. Bagi pihak ketiga yang memperoleh penyerahan bagian tanah \nHPL berdasarkan perjanjian pemanfaa tan tanah, hubungan hukum tersebut \ntidak hapus oleh karena posisi hukum pihak ketiga dalam perjanjian \npemanfaatan tanah hanya sebagai pihak pemanfaat tanah dan bukan \nsebagai pembeli tanah. Wajib bayar UWT adalah kompensasi dari \npemanfaatan bagian tanah HPL.  \n Berdasarkan uraian tersebut di atas, maka para Pemohon \nberpendapat bahwa Mahkamah Konstitusi berwenang melakukan pengujian \nnorma-norma hukum muatan dalam Pasal 137 ayat (2) huruf b dan huruf c \nserta Pasal 138 Undang -Undang Nomor 6 Tahun 2023 tentang Penetapan \nPeraturan Pemerintah Pengganti Undang -Undang Nomor 2 Tahun 2022 \ntentang Cipta Kerja Menjadi Undang-Undang Terhadap Pasal 28D Undang -\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan Terhadap Asas \nPembentukan Peraturan Perundang -undangan Yang Baik sebagaimana \ndimaksud dalam Pasal 5 huruf g  Undang-Undang Nomor 12 Tahun 2011 \nyang telah diubah dengan  Undang-Undang Nomor 15 Tahun 2019  dan \n\n10 \n \nterakhir diubah dengan  Undang-Undang Nomor 13 Tahun 2022 tentang \nPembentukan Peraturan Perundang -Undangan serta  asas yang melarang \nUU berlaku surut, kecuali UU itu sendiri yang mengaturnya.  \nII. KEDUDUKAN HUKUM ( LEGAL STANDING ) DAN KERUGIAN",
+      "start_line": 297,
+      "end_line": 332
+    },
+    {
+      "heading": "1. Bahwa kedudukan hukum ( legal standing ) merupakan syarat yang perlu",
+      "slug": "1-bahwa-kedudukan-hukum-legal-standing-merupakan-syarat-yang-perlu",
+      "text": "dipenuhi oleh setiap Pemohon untuk mengajukan Permohonan Pengujian \nUndang-Undang terhadap UUD NRI 1945 kepada Mahkamah Konstitusi \nsebagaimana diatur di dalam Pasal 51 ayat (1) UU MK yang menyatakan \nbahwa Pemohon adalah pihak yang menganggap hak dan/atau Hak \nKonstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu: \na. perorangan warga negara Indonesia; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 335,
+      "end_line": 343
+    },
+    {
+      "heading": "d. lembaga negara.",
+      "slug": "d-lembaga-negara",
+      "text": "- Hak konstitusional menurut penjelasan Pasal 51 ayat (1) UU MK adalah \nhak-hak yang diatur dalam Undang -Undang Dasar Negara Republik \nIndonesia Tahun 1945.  Dan perorangan menurut penjelasan pasal 51 \nayat 1 huruf a term asuk kelompok orang yang mempunyai kepentingan \nyang sama.",
+      "start_line": 346,
+      "end_line": 350
+    },
+    {
+      "heading": "2. Bahwa Pasal 4 ayat (1) Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2021",
+      "slug": "2-bahwa-pasal-4-ayat-1-peraturan-mahkamah-konstitusi-nomor-2-tahun-2021",
+      "text": "tentang Tata Beracara Dalam Perkara Pengujian Undang -Undang juga \nmengatur kembali syarat untuk menjadi Pemohon dalam pengujian UU \nterhadap UUD NRI 1945 yang rumusannya mengatakan bahwa pemohon \nsebagaimana dimaksud dalam Pasal huruf a adalah pihak yang menganggap \nhak dan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya \nundang-undang atau Perppu, yaitu: \na. perorangan warga negara Indonesia atau kelompok orang yang \nmempunyai kepentingan sama; \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;  \n\n11",
+      "start_line": 352,
+      "end_line": 365
+    },
+    {
+      "heading": "3. Bahwa Pasal 4 ayat (2) PMK 2/2021 Bis Putusan MK Nomor 006/PUU -",
+      "slug": "3-bahwa-pasal-4-ayat-2-pmk-2-2021-bis-putusan-mk-nomor-006-puu",
+      "text": "III/2005 dan Nomor 011/PUU -V/2007 menerangkan bahwa Hak dan/atau \nkewenangan konstitusional Pemohon sebagai dimaksud pada Pasal 4 ayat \n(1) dianggap dirugikan oleh berlakunya undang-undang atau Perppu apabila: \na. Ada hak dan/atau kewenangan konstitusional Pemohon yang diberikan \noleh UUD 1945. \nb. Hak dan/atau kewenangan konstitusional Pemohon dirugikan oleh \nberlakunya undang-undang atau Perppu yang dimohonkan pengujian;",
+      "start_line": 369,
+      "end_line": 375
+    },
+    {
+      "heading": "c. Kerugian konstitusional dimaksud bersifat spesifik (khusus) dan aktual",
+      "slug": "c-kerugian-konstitusional-dimaksud-bersifat-spesifik-khusus-dan-aktual",
+      "text": "atau setidak-tidaknya potensial yang menurut penalaran yang wajar dapat \ndipastikan akan terjadi;",
+      "start_line": 377,
+      "end_line": 378
+    },
+    {
+      "heading": "d. Ada hubungan sebab -akibat antara kerugian konstitusional dan",
+      "slug": "d-ada-hubungan-sebab-akibat-antara-kerugian-konstitusional-dan",
+      "text": "berlakunya undang -undang atau Perppu yang dimohonkan pengujian; \ndan \ne. Adanya kemungkinan bahwa dengan dikabulkannya Permohonan, \nkerugian konstitusional seperti yang didalilkan tidak lagi atau tidak akan \nterjadi. \n Bahwa untuk memastikan secara yuridis apakah para Pemohon \nmempunyai hak konstitusional sehingga mengajukan permohonan uji materi \nini maka para Pemohon terlebih dahulu menjelaskan apakah para pemohon \nmenderita kerugian atau potensial pasti menderita kerugian akibat \ndiberlakukannya UU yang menjadi obyek Permohonan uji materi ini sebagai \nberikut:  \na. Kerugian Pemohon II dapat dijelaskan sebagai berikut. \nBahwa Pemohon II memiliki sebuah bangunan rumah tinggal permanen \nyang berdiri di atas sebidang tanah eks HGB Nomor: 04031 dengan \npemegang Hak atas nama Nyonya Widiastuti Banju Kustendro, Bangunan \nrumah permanen tersebut sejak dibeli berdasarkan Akta Jual Beli No. \n215/SB/XII/1999, Pada hari senin Tanggal 27 Bulan Desember Tahun \n1999 sampai sekarang masih digunakan sebagai tempat tinggal bersama \nkeluarga, yaitu  istri, anak -anak dan cucu -cucu. Masa berlaku sertipikat \nHGB tersebut sudah berakhir pada tahun 2018 dan ketika hendak \n\n12 \n \nmengurus perpanjangan masa berlakunya barulah diketahui kala petugas \nKantor Pertanahan Kota Semarang memberitahu bahwa sertipikat tanah \nHGB tersebut diberikan di atas tanah HPL dan untuk mengurus \nperpanjangannya harus minta surat rekomendasi dari Pemerintah \nProvinsi Jawa Tengah selaku pemegang/pemilik tanah HPL yang tidak \npernah diberitahu pada waktu Pemohon II membeli tanah dan bangunan \ntersebut pada tahun 1999 dan bahkan PP 18/2021 yang kini telah diatur \ndalam Pasal 137 dan Pasal 138 UU Nomor 6 Tahun 2023, mewajibkan \nlagi kepada Pemohon II untuk menandatangani perjanjian pemanfaatan \ntanah dan harus membayar uang wajib tahunan  (UWT) lagi, p adahal \nPemohon II menerima penyerahan bagian tanah HPL tersebut dulu \nberdasarkan perjanjian jual beli tanah yang ditandatangani dihadapan \nPPAT yang berwenang di Kota Semarang dan bukan berdasarkan \nperjanjian pemanfaatan tanah seperti dimaksud dalam Pasal 137 dan \nPasal 138 UU Nomor 6/2023 tersebut. Menurut Pemohon II, norma-norma \nhukum yang mengharuskan Pemohon II bersama istri minta rekomendasi \nuntuk urus administrasi tanah miliknya, menandatangani perjanjian \npemanfaatan tanah lagi dan wajib membayar UWT ad alah bukti bahwa \nnorma-norma tersebut melanggar atau bertentangan dengan norma \nhukum kandungan Pasal 28D ayat (1) UUD NRI 1945 tentang hak setiap \norang untuk mendapat pengakuan, jaminan, perlindungan dan kepastian \nhukum yang adil serta perlakuan yang sama dihadapan hukum, sebab \nsetiap orang yang memperoleh bidang tanah berdasarkan perjanjian jual \nbeli sekaligus punya hak otonom untuk mengurus sendiri kepentingan \nadministrasi tanah yang sudah dibelinya tanpa perlu minta surat \nrekomendasi kepada penjual, tida k perlu buat perjanjian pemanfatan \ntanah dengan pihak penjual dan tidak ada kewajiban bayar UWT kepada \npembeli. Sehingga kalau sekarang ini, UU mengharuskan Pemohon II \nuntuk minta surat rekomendasi guna urus administrasi tanah yang sudah \ndibeli, wajib tand atangani surat perjanjian pemanfaatan tanah baru dan \nwajib bayar UWT maka menurut Pemohon II bahwa mekanisme ini \nbertentangan dengan Pasal 28D UUD NRI 1945 tentang hak setiap orang \nuntuk mendapat pengakuan, jaminan, perlindungan dan kepastian hukum \nyang adil serta perlakuan yang sama dihadapan hukum. Semua orang \n\n13 \n \nyang sudah membeli tanah punya hak dan otoritas sendiri untuk  \nmengurus administrasi tanah miliknya sesuai aturan hukum negara yang \nberlaku, tetapi  kepada Pemohon II oleh UU diharuskan minta surat \nrekomendasi, harus tanda tangan perjanjian pemanfaatan tanah baru dan \nharus membayar UWT lagi kepada penjual.  Maka menurut Pemohon II, \nNorma hukum kandungan dalam Pasal 137 ayat (2) huruf b dan c UU \nNomor 6/2023 tentang kewajiban membayar UWT dan norma hukum  \nkandungan dalam Pasal 138 UU Nomor 6/2023 tentang keharusan \nmenandatangani perjanjian pemanfaatan tanah apabila benar -benar \ndilaksanakan dikemudian hari maka Pemohon II menderita kerugian, yaitu \nselain kerugian riil karena sudah membayar uang harga jual beli tanah \nmasih harus membayar UWT tiap -tiap tahun lagi sebagai syarat untuk \nmendapat surat rekomendasi mengurus administrasi hak atas tanah dan \njuga harus tandatangan perjanjian pemanfaatan tanah baru s ebagai \nsyarat mutlak (conditio sine qua non ) untuk mendapat surat rekomendasi \nmengurus kepentingan administrasi hak atas tanah. Kedua, norma ini \nmenurut Pemohon II selain bertentangan dengan norma dalam Pasal 28D \nayat (1) UUD NRI 1945, juga bertentangan secara diametral dengan asas-\nasas pembentukan Peraturan Perundang-undangan yang baik, yaitu:  \n1.a.  asas yang mengatakan bahwa pembentukan Peraturan Perundang- \nUndangan yang baik harus berdasarkan pada asas ke terbukaan, \nyang artinya bahwa dalam membentuk Peraturan Perundang -\nundangan mulai dari perencanaan, p enyusunan, pembahasan, \npengesahan atau penetapan dan pengundangan bersifat transparan \ndan terbuka. Dengan demikian seluruh lapisan masyarakat \nmempunyai kesempatan yang seluas -luasnya untuk memberikan \nmasukan dalam Pembentukan Peraturan Perundang -undangan. \nTerus terang Yang Mulia Majelis Hakim Mahkamah Konstitusi, \nbahwa norma atau Pengaturan tentang perjanjian pemanfaatan \nbagian tanah HPL dan kewajiban membayar UWT dalam Pasal 137 \nayat (2) huruf c dan Pasal 138 UU Nomor 6/2023 tidak pernah \ndiberitahu kepada Pemohon II khususnya dan kepada semua warga",
+      "start_line": 380,
+      "end_line": 471
+    },
+    {
+      "heading": "di Kota Semarang khususnya yang sama -sama meperoleh bagian",
+      "slug": "di-kota-semarang-khususnya-yang-sama-sama-meperoleh-bagian",
+      "text": "14 \n \ntanah HPL berdasarkan perjanjian jual beli tanah dan tidak \nberdasarkan perjanjian pemanfaatan tanah. \n1.b.  asas yang melarang UU berlaku surut (retroaktif), sebab UU Nomor \n6/2023 baru diundangkan pada tanggal 30 Desember 2022 akan \ntetapi diberlakukan kepada Pemohon II dan warga -warga lain yang \nsudah membeli bagian tanah HPL pada tahun 1999 berdasarkan \nperjanjian jual beli.",
+      "start_line": 473,
+      "end_line": 482
+    },
+    {
+      "heading": "2. a. Bahwa Pemohon I telah men gajukan permohonan uji materiil ke",
+      "slug": "2-a-bahwa-pemohon-i-telah-men-gajukan-permohonan-uji-materiil-ke",
+      "text": "Mahkamah Agung/MA terhadap Peraturan Pemerintah Nomor 18 \nTahun 2021 tentang Hak Pengelolaan(HPL), Hak Atas Tanah, \nSatuan Rumah Susun Dan Pendaftaran Tanah yang diundangkan \npada tanggal 2 Februari 2021. \nb. Bahwa legal standing Pemohon I dalam permohonan uji materiil PP \n18/2021 ke MA tersebut adalah sebagai seorang warga negara \nIndonesia dengan profesi Notaris di Kabupaten Kendal, Wilayah \nJabatan Provinsi Jawa Tengah, Surat Keputusan Perpanjangan \nMasa Jabatan Notaris Menteri Hu kum Dan Hak Asasi Manusia \nRepublik Indonesia, tanggal 11 April 2023, Nomor: AHU -\n00018.AH.02.03 Tahun 2023 yang telah diberi kepercayaan \nberdasarkan kuasa lisan untuk mengurus pembaruan 750 (tujuh  \nratus lima puluh ) eks sertipikat HGB yang merupakan bagian Tanah \nHPL atas nama Pemerintah Provinsi Jawa Tengah di Kota \nSemarang.",
+      "start_line": 484,
+      "end_line": 498
+    },
+    {
+      "heading": "c. Bahwa kuasa lisan tersebut pada mulanya berlangsung baik dengan",
+      "slug": "c-bahwa-kuasa-lisan-tersebut-pada-mulanya-berlangsung-baik-dengan",
+      "text": "menghasilkan 42 (empatpuluh dua) sertipikat HGB hasil pembaruan \ndengan masa berlaku sampai tahun 2040 dan ada sebagian berlaku \nsampai tahun 2041. Sisanya sekitar 750 (tujuh ratus lima puluh) eks \nsertipikat HGB ditunda pengurusannya sampai batas waktu yang \ntidak ditentukan oleh Kantor Pertanahan Kota Semarang sebagai \npelaksanaan surat dari Sekretaris Daerah Pemerintah Provinsi Jawa \nTengah tanggal 27 Mei 2021, Nomor: 030/0008085 perihal Informasi \nPenundaan Pelayanan Penerbitan Rekomendasi Perpanjangan, \nPembaruan, Peralihan HGB di atas HPL. Penundaan tersebut \nsampai sekarang sudah berlangsung lebih dari 2  (dua) tahun dan \n\n15 \n \nbelum ada tanda -tanda untuk dimulai kembali oleh karena \nPemerintah Provinsi Jawa Tengah selaku pemegang HPL belum \njuga menerbitkan rekomendasi baru berdasarkan PP 18/2021 atas \ndasar alasan Kemeterian Agraria, Tata Ruang/Kepala Badan \nPertanahan Nasional belum j uga mengeluarkan aturan  tentang \nketentuan tarif uang wajib tahunan bagi pihak ketiga y ang \nmemperoleh bagian tanah HPL berdasarkan perjanjian pemanfaatan \ntanah;",
+      "start_line": 500,
+      "end_line": 520
+    },
+    {
+      "heading": "d. Bahwa terhadap permohonan uji materiil PP 18/2021 tersebut, MA",
+      "slug": "d-bahwa-terhadap-permohonan-uji-materiil-pp-18-2021-tersebut-ma",
+      "text": "telah memberi putusan pada tanggal 29 september 2023, Nomor: \n22P/HUM/2023 yang di halaman 87 alinea pertama Putusan \ntersebut, Majelis Hakim MA mengatakan bahwa permohonan \nterhadap obyek hak uji materiil diaju kan oleh Pemohon yang \nmempunyai legal standing maka permohonan aquo secara formal \ndapat diterima.  \ne. Akan tetapi dibagian substansi permohonan tersebut, yaitu di \nhalaman 89, Majelis Hakim MA berpendapat bahwa pengaturan \nmengenai rekomendasi dan tarif/uang  wajib tahunan (uwt) dalam \nPasal 7 ayat (1) dan Pasal 9 PP 18/2021 bukan merupakan norma \nbaru, melainkan telah diatur dalam UU Nomor 6 Tahun 2023, \nsehingga tidak tepat jika Pemohon mempersoalkan mengenai \nrekomendasi dan tarif/uang wajib tahunan (UWT) karen a Pasal 7 \nayat (1) dan Pasal 9 PP 18/2021 telah sesuai dan tidak bertentangan \ndengan ketentuan dalam Pasal 137 ayat (2) dan Pasal 138 Peraturan \nPemerintah Pengganti UU Nomor 2 Tahun 2022 pada la mpiran UU \nNomor 6 Tahun 2023;  \nf.  Bahwa pada bagian akhir hal aman 89 yang dilan jutkan pada \nhalaman 90 Putusan tersebut, Majelis Hakim MA mengatakan bahwa \nrekomendasi merupakan hal yang telah diperjanjikan antara \npemegang HPL dengan pihak ketiga yang ingin memanfaatkan \nbagian tanah HPL dan pengaturan mengenai rekomen dasi dan \npembebanan hak tanggungan terhadap hak atas tanah di atas HPL \nmerupakan norma yang diatur dalam UU Nomor 6/2023. \n\n16 \n \ng.  Bahwa dengan ditolaknya Permohonan uji materiil Pemohon I di MA \ntersebut maka hak Pemohon I dalam uji mareriil ini untuk mendapat \npekerjaan dan imbalan atau penghasilan dari pekerjaan belum dapat \ndirehabilitasi dan kerugian tersebut baru akan dapat direhabilitasi \napabila Permohonan uji materiil sekarang ini dikabulkan oleh Yang \nMulia Majelis Hakim Mahkamah ini.  \nBerdasarkan penjelasan tersebut di atas maka para Pemohon I dan II \nberpendapat bahwa para Pemohon sebagai perorangan Warga Negara \nIndonesia sesuai Kartu Tanda Penduduk (KTP) masing -masing yang akan \ndiajukan dalam surat bukti tersendiri yang merupakan bagia n yang tak \nterpisahkan dari surat permohonan ini merasa telah memenuhi syarat  untuk \nmenjadi Pemohon dalam Permohonan ini sesuai dengan ketentuan yang telah \ntertuang pada Pasal 51 ayat (1) UU MK dan Pasal 4 ayat (1) PMK 2/2021, yaitu: \n(1) Adanya hak dan/atau ke wenangan konstitusional para Pemohon yang \ndiberikan oleh undang-undang yang berlaku; \n(2) Adanya hak dan/atau kewenangan konstitusional para Pemohon yang \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujiannya; \n(3) Adanya kerugian konstitusional yang bersifat spesifik (khusus) dan aktual; \n(4) Adanya hubungan sebab -akibat antara kerugian konstitusional dan \nBerlakunya undang-undang yang dimohonkan pengujiannya; \n(5) Para Pemohon menganggap bahwa adanya kemungkinan dengan  \ndikabulkannya Permohonan para Pemohon maka kerugian konstitusional \nseperti yang dialami oleh para Pemohon diharapkan tidak akan terjadi lagi",
+      "start_line": 522,
+      "end_line": 571
+    },
+    {
+      "heading": "di masa yang akan datang.",
+      "slug": "di-masa-yang-akan-datang",
+      "text": "Berdasarkan dalil -dalil seperti telah dibentangkan di atas maka dapat \ndisimpulkan bahwa para Pemohon memiliki kedudukan hukum (legal standing) \nuntuk mengajukan Permohonan Pengujian muatan materi Pasal 137 ayat (2) \nhuruf b dan c serta Pasal 138 Undang-Undang Nomor 6 Tahun 2023 tentang \nPenetapan Peraturan Pemerintah Pengganti Undang -Undang Nomor 2 Tahun \n2022 tentang Cipta Kerja Menjadi Undang-Undang terhadap Pasal 28D \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan terhadap \nasas-asas Pembentukan Peraturan Perundang -Undangan yang baik \nsebagaimana dimaksud dalam Pasal 5 huruf g Undang -Undang Nomor  12 \nTahun 2011 yang diubah dengan Undang-Undang Nomor 15 Tahun 2019 dan \n\n17 \n \nterakhir diubah dengan  Undang-Undang Nomor 13 Tahun 2022 tentang \nPembentukan Peraturan Perundang -undangan dan asas hukum tentang \nlarangan UU berlaku surut.  \nIII. ALASAN- ALASAN PARA PERMOHON \na. Alasan-alasan Pemohon I",
+      "start_line": 573,
+      "end_line": 590
+    },
+    {
+      "heading": "1. Bahwa Pemohon I telah mengajukan permohonan uji materiil ke Mahkamah",
+      "slug": "1-bahwa-pemohon-i-telah-mengajukan-permohonan-uji-materiil-ke-mahkamah",
+      "text": "Agung/MA terhadap Peraturan Pemerintah Nomor 18 Tahun 2021 tentang \nHak Pengelolaan  (HPL), Hak Atas Tanah, Satuan Rumah Susun Dan \nPendaftaran Tanah yang diundangkan pada tanggal 2 Februari 2021;",
+      "start_line": 592,
+      "end_line": 594
+    },
+    {
+      "heading": "2. Bahwa legal standing Pemohon I dalam permohonan uji materiil PP 18/2021",
+      "slug": "2-bahwa-legal-standing-pemohon-i-dalam-permohonan-uji-materiil-pp-18-2021",
+      "text": "ke MA tersebut adalah sebagai seorang warga negara Indonesia dengan \nprofesi Notaris di Kabupaten Kendal, Wilayah Jabatan Provinsi Jawa Tengah, \nSurat Keputusan Perpanjangan Masa J abatan Notaris Menteri Hukum Dan \nHak Asasi Manusia Republik Indonesia, tanggal 11 April 2023, Nomor: AHU-\n00018.AH.02.03 Tahun 2023 yang telah diberi kepercayaan berdasarkan \nkuasa lisan untuk mengurus pembaruan 750 (tujuh  ratus lima  puluh) eks \nsertipikat HGB yang merupakan bagian Tanah HPL atas nama Pemerintah \nProvinsi Jawa Tengah di Kota Semarang;",
+      "start_line": 596,
+      "end_line": 603
+    },
+    {
+      "heading": "3. Bahwa kuasa lisan tersebut pada mulanya berlangsung baik dengan",
+      "slug": "3-bahwa-kuasa-lisan-tersebut-pada-mulanya-berlangsung-baik-dengan",
+      "text": "menghasilkan 42 (empat puluh dua) sertipikat HGB hasil pembaruan dengan \nmasa berlaku sampai tahun 2040 dan ada sebagian berlaku sampai tah un",
+      "start_line": 605,
+      "end_line": 606
+    },
+    {
+      "heading": "2041. Sisanya sekitar 750 (tujuh ratus lima puluh) eks sertipikat HGB ditunda",
+      "slug": "2041-sisanya-sekitar-750-tujuh-ratus-lima-puluh-eks-sertipikat-hgb-ditunda",
+      "text": "pengurusannya sampai batas waktu yang tidak ditentukan oleh Kantor \nPertanahan Kota Semarang sebagai pelaksanaan surat dari Sekretaris \nDaerah Pemerintah Provinsi Jawa Tengah tanggal 27 Mei 2021, Nomor: \n030/0008085 perihal Informasi Penundaan Pelayanan Penerbitan \nRekomendasi Perpanjangan, Pembaruan, Peralihan HGB di atas HPL. \nPenundaan tersebut sampai sekarang sudah berlangsung lebih dari 2  (dua) \ntahun dan belum ada tanda -tanda untuk dimulai kembali oleh karena \nPemerintah Provinsi Jawa Tengah selaku pemegang HPL belum juga \nmenerbitkan rekomendasi baru berdasarkan PP 18/2021 atas dasar alasan \nKemeterian Agraria, Tata Ruang/Kepala Badan Pertan ahan Nasional belum \njuga mengeluarkan aturan  tentang ketentuan tarif uang wajib tahunan bagi \n\n18 \n \npihak ketiga yang memperoleh bagian tanah hak pengelolaan berdasarkan \nperjanjian pemanfaatan tanah;",
+      "start_line": 608,
+      "end_line": 623
+    },
+    {
+      "heading": "4. Terhadap permohonan uji materiil PP 18/2021 tersebut, MA telah memberi",
+      "slug": "4-terhadap-permohonan-uji-materiil-pp-18-2021-tersebut-ma-telah-memberi",
+      "text": "putusan pada tanggal 29 september 2023, nomor: 22P/HUM/2023 yang di \nhalaman 87 alinea pertama Putusan tersebut, Majelis Hakim MA mengatakan \nbahwa permohonan terhadap obyek hak uji materiil diajukan oleh Pemohon \nyang mempunyai legal standing maka permohonan aquo secara formal dapat \nditerima;",
+      "start_line": 625,
+      "end_line": 629
+    },
+    {
+      "heading": "5. Akan tetapi dibagian substansi permohonan tersebut, yaitu di halaman 89,",
+      "slug": "5-akan-tetapi-dibagian-substansi-permohonan-tersebut-yaitu-di-halaman-89",
+      "text": "Majelis Hakim MA berpendapat bahwa pengaturan mengenai rekomendasi \ndan tarif/uang wajib tahunan (UWT) dalam Pasal 7 ayat (1) dan Pasal 9 PP \n18/2021 bukan merupakan norma baru, melainkan telah diatur dalam UU \nnomor 6 Tahun 2023, sehingga tidak tepat jika Pemohon mempersoalkan \nmengenai rekomendasi dan tarif/uang wajib tahunan (UWT) karena Pasal 7 \nayat (1) dan Pasal 9 PP 18/2021 telah sesuai dan tidak bertentangan dengan \nketentuan dalam Pasal 137 ayat (2) dan Pasal 138 Peraturan Pemerintah \nPengganti UU Nomor 2 Tahun 2022 pada lampiran UU Nomor 6 Tahun 2023;",
+      "start_line": 631,
+      "end_line": 638
+    },
+    {
+      "heading": "6. Bahwa pada bagian akhir halaman 89 yang dilanjutkan pada halaman 90",
+      "slug": "6-bahwa-pada-bagian-akhir-halaman-89-yang-dilanjutkan-pada-halaman-90",
+      "text": "Putusan tersebut, Majelis Hakim MA mengatakan bahwa rekomendasi \nmerupakan hal yang telah diperjanjikan antara pemegang hak pengelolaan \ndengan pihak ketiga yang ingin memanfaatkan bagian tanah hak pengelolan \ndan pengaturan mengenai rekomendasi dan pembebanan hak tanggungan \nterhadap hak atas tanah di atas hak pengelolaan merupakan norma yang \ndiatur dalam UU Nomor 6/2023. \nBahwa oleh karena MA lewat putusan tersebut sudah mengatakan bahwa \nPP 18/2021 sesuai dengan norma dalam UU 6/2023 tentang pengesahan \nPERPPU nomor 2/2022 menja di UU maka pendapat MA inilah yang menjadi \nalasan Pemohon mengajukan permohonan uji materiil norma -norma hukum \nkandungan dalam pasal 137 ayat 2 huruf b dan c serta pasal 138 UU nomor \n6/2023 terhadap pasal 28D UUD 1945 dan terhadap asas pembentukan \nperaturan perundang-undangan yang baik sebagaimana dimaksud dalam pasal \n5 huruf huruf g serta penjelasan huruf g UU Nomor 12 Tahun 2011 yang telah \ndiubah dengan UU Nomor 15/2019 dan terakhir diubah terakhir diubah dengan  \nUndang-Undang Nomor 13 Tahun 2022 tentang Pembentukan Peraturan \n\n19 \n \nPerundang-Undangan (UU PPP)  tentang Pembentukan Peraturan Perundang -\nundangan.  \nSedangkan alasan-alasan Pemohon II mengajukan Permohonan uji materiil ini \ndapat dijelaskan sebagai beriut:  \n- Bahwa Pemohon II memiliki sebuah bangunan rumah tinggal permanen yang \nberdiri di atas sebidang tanah eks HGB Nomor Nomor: 04031 dengan \npemegang Hak atas nama Nyonya Widiastuti Banju Kustendro, Bangunan \nrumah permanen tersebut sejak dibeli berdasarkan Akta Jual Beli No. \n215/SB/XII/1999, pada hari senin tanggal 27 Bulan Desember Tahun 1999 \nsampai sekarang masih digunakan sebagai tempat tinggal bersama keluarga, \nyaitu istri, anak -anak dan cucu -cucu. Masa berlaku sertipikat HGB tersebut \nsudah berakhir pada tahun 2018 dan ketika hendak mengurus perpanjangan \nmasa berlakunya barulah diketahui kala petugas Kantor Pertanahan Kota \nSemarang memberitahu bahwa sertipikat tanah HGB tersebut diberikan di \natas tanah HPL dan untuk mengurus perpanjangannya harus minta surat \nrekomendasi dari Pemerintah Provinsi Jawa Tengah  selaku \npemegang/pemilik tanah HPL yang tidak pernah diberitahu pada waktu \nPemohon II membeli tanah dan bangunan tersebut pada tahun 1999 dan \nbahkan PP 18/2021 yang kini telah diatur dalam Pasal 137 dan Pasal 138 UU \nNomor 6 Tahun 2023, mewajibkan lagi kepa da Pemohon II untuk \nmenandatangani perjanjian pemanfaatan tanah dan harus membayar uang \nwajib tahunan( UWT) lagi, padahal Pemohon II menerima penyerahan bagian \ntanah HPL tersebut dulu berdasarkan perjanjian jual beli tanah yang \nditandatangani dihadapan PPA T yang berwenang di Kota Semarang dan \nbukan berdasarkan perjanjian pemanfaatan tanah seperti dimaksud dalam \nPasal 137 dan Pasal 138 UU Nomor 6/2023 tersebut.  Menurut Pemohon II, \nnorma-norma hukum yang mengharuskan Pemohon II bersama istri minta \nrekomendasi untuk urus administrasi tanah miliknya, menandatangani \nperjanjian pemanfaatan tanah lagi dan wajib membayar UWT adalah  bukti \nbahwa norma-norma tersebut melanggar atau bertentangan dengan norma \nhukum kandungan Pasal 28D ayat (1) UUD NRI 1945 tentang hak se tiap \norang untuk mendapat pengakuan, jaminan, perlindungan dan kepastian \nhukum yang adil serta perlakuan yang sama dihadapan hukum, sebab setiap \norang yang memperoleh bidang tanah berdasarkan perjanjian jual beli \n\n20 \n \nsekaligus punya hak otonom untuk mengurus s endiri kepentingan \nadministrasi tanah yang sudah dibelinya tanpa perlu minta surat rekomendasi \nkepada penjual, tidak perlu buat perjanjian pemanfatan tanah dengan pihak \npenjual dan tidak ada kewajiban bayar UWT kepada pembeli. Sehingga kalau \nsekarang ini, UU mengharuskan Pemohon II untuk minta surat rekomendasi \nguna urus administrasi tanah yang sudah dibeli, wajib tandatangani surat \nperjanjian pemanfaatan tanah baru dan wajib bayar UWT maka menurut \nPemohon II bahwa mekanisme ini bertentangan dengan Pasal 28D UUD NRI \n1945 tentang hak setiap orang untuk mendapat pengakuan, jaminan, \nperlindungan dan kepastian hukum yang adil serta perlakuan yang sama \ndihadapan hukum. Semua orang yang sudah membeli tanah punya hak dan \notoritas sendiri untuk  mengurus administrasi  tanah miliknya sesuai aturan \nhukum negara yang berlaku, tetapi  kepada Pemohon II oleh UU diharuskan \nminta surat rekomendasi, harus tanda perjanjian pemanfaatan tanah baru \ndan harus membayar UWT lagi kepada penjual.  \nIV. PETITUM ATAU TUNTUTAN PEMOHON \nBerdasarkan penjelasan tersebut di atas maka para Pemohon dengan ini \nmohon perkenan Majelis Hakim Mahkamah Konstitusi Republik Indonesia agar \nberkenan memeriksa, mengadili dan memutus sebagai berikut:",
+      "start_line": 640,
+      "end_line": 714
+    },
+    {
+      "heading": "2. Menyatakan norma dalam Pasal 137 ayat (2) huruf c UU Nomor 6/2023",
+      "slug": "2-menyatakan-norma-dalam-pasal-137-ayat-2-huruf-c-uu-nomor-6-2023",
+      "text": "sebagai conditionally constitutional/konstitusional bersyarat sepanjang belum \nmencakup pengaturan bahwa kewajiban membayar uang wajib tahunan \nhanya berlaku bagi pihak ketiga yang memperoleh penyerahan bagian tanah \nHPL berdasarkan perjanjian pemanfaatan tanah dan tidak berlaku bagi pihak \nketiga yang memperoleh penyerahan bagian tanah HPL berdasarkan \nperjanjian jual beli tanah.",
+      "start_line": 717,
+      "end_line": 722
+    },
+    {
+      "heading": "3. Menyatakan Pasal 138 UU Nomor 6/2023 sebagai conditionally",
+      "slug": "3-menyatakan-pasal-138-uu-nomor-6-2023-sebagai-conditionally",
+      "text": "constitutional/konstitusional bersyarat sepanjang belum ada frasa yang \nmenyatakan bahwa perjanjian jual beli atau perjanjian lain yang serupa \ndengan perjanjian jual beli tanah mengakibatkan hapusnya hubungan hukum \nantara pemegang HPL dengan bagian tanah HPL yang telah diserahkan \nkepada pihak ketiga berdasarkan perjanjian jual beli tanah atau perjanjian lain \nyang serupa; \n\n21",
+      "start_line": 724,
+      "end_line": 732
+    },
+    {
+      "heading": "4. Mohon putusan lain yang dipandang adil, pasti, bermanf aat dan dapat",
+      "slug": "4-mohon-putusan-lain-yang-dipandang-adil-pasti-bermanf-aat-dan-dapat",
+      "text": "dilaksanakan \n[2.2]  Menimbang bahwa untuk membuktikan dalilnya, Pemohon I mengajukan \nbukti surat atau tulisan yang diberi tanda B ukti P-1 sampai dengan Bukti P -35 dan \nPemohon II mengajukan bukti surat atau tulisan yang diberi tanda Bukti P-1 sampai \ndengan Bukti P-5, sebagai berikut: \nDaftar Alat Bukti Pemohon I",
+      "start_line": 734,
+      "end_line": 739
+    },
+    {
+      "heading": "2. Bukti P- 2 : Fotokopi Kartu Tanda Penduduk sesuai aslinya atas nama",
+      "slug": "2-bukti-p-2-fotokopi-kartu-tanda-penduduk-sesuai-aslinya-atas-nama",
+      "text": "Pemohon;",
+      "start_line": 742,
+      "end_line": 742
+    },
+    {
+      "heading": "3. Bukti P- 3 : Fotokopi surat Keputusan Menteri Hukum Dan Hak Asasi",
+      "slug": "3-bukti-p-3-fotokopi-surat-keputusan-menteri-hukum-dan-hak-asasi",
+      "text": "Manusia Republik Indonesia Nomor: AHU -170. \nAH.02.01.Tahun 2008, tanggal 02 April 2008 tentang \nPengangkatan Pemohon sebagai Notaris di Kendal;",
+      "start_line": 744,
+      "end_line": 746
+    },
+    {
+      "heading": "4. Bukti P- 4 : Fotokopi surat Keputusan Menteri Hukum Dan Hak Asasi",
+      "slug": "4-bukti-p-4-fotokopi-surat-keputusan-menteri-hukum-dan-hak-asasi",
+      "text": "Manusia Republik Indonesia Nomor: AHU- \n00018.AH.02.03.Tahun 2023, tanggal 11 April 2023 tentang \nPerpanjangan Masa Jabatan Pemohon sebagai Notaris di \nKendal;",
+      "start_line": 748,
+      "end_line": 751
+    },
+    {
+      "heading": "6. Bukti P- 6 : Fotokopi Surat dari Sekretaris Daerah Pemerintah Provinsi",
+      "slug": "6-bukti-p-6-fotokopi-surat-dari-sekretaris-daerah-pemerintah-provinsi",
+      "text": "Jawa Tengah tanggal 8 Juli 2022, Nomor 030/0009790;",
+      "start_line": 754,
+      "end_line": 754
+    },
+    {
+      "heading": "7. Bukti P- 7 : Fotokopi Surat dari Menteri ATR/Kepala BPN RI tanggal 30",
+      "slug": "7-bukti-p-7-fotokopi-surat-dari-menteri-atr-kepala-bpn-ri-tanggal-30",
+      "text": "Mei 2023, Nomor: B/AT.02/1444/V/2023  kepada Gubernur \nJawa Tengah;",
+      "start_line": 756,
+      "end_line": 757
+    },
+    {
+      "heading": "8. Bukti P- 8 : Fotokopi Surat dari Menteri ATR/Kepala BPN RI tanggal",
+      "slug": "8-bukti-p-8-fotokopi-surat-dari-menteri-atr-kepala-bpn-ri-tanggal",
+      "text": "18 Agustus 2022, Nomor: AT.02/752 -400.5/VIII/2022 \nkepada Sekretaris Daerah Pemerintah Provinsi Jawa \nTengah;",
+      "start_line": 759,
+      "end_line": 761
+    },
+    {
+      "heading": "9. Bukti P- 9 : Fotokopi Surat dari Dirjen Penetapan Hak Dan Pendaftaran",
+      "slug": "9-bukti-p-9-fotokopi-surat-dari-dirjen-penetapan-hak-dan-pendaftaran",
+      "text": "Tanah Kementerian ATR/Kepala BPN RI tanggal 18 Agustus \n2022, Nomor: AT.02/753-400.5/VIII/2022 kepada Ka. Kanwil \nATR/BPN Jawa Tengah; \n\n22",
+      "start_line": 763,
+      "end_line": 768
+    },
+    {
+      "heading": "10. Bukti P- 10 : Fotokopi Surat dari Dirjen Penetapan Hak Dan Pendaftaran",
+      "slug": "10-bukti-p-10-fotokopi-surat-dari-dirjen-penetapan-hak-dan-pendaftaran",
+      "text": "Tanah Kementerian  ATR/Kepala BPN RI tanggal  8 \nSeptember 2023, Nomor: 178/UND.-400. 18. HK. 02/IX/2023;",
+      "start_line": 770,
+      "end_line": 771
+    },
+    {
+      "heading": "11. Bukti P- 11 : Fotokopi Surat Penundaan permohonan pembaharuan Eks",
+      "slug": "11-bukti-p-11-fotokopi-surat-penundaan-permohonan-pembaharuan-eks",
+      "text": "HGB Nomor: 03292/Tawangsari  tertanggal 08-10-2021, \nNomor: HP.01.01/4243-33.74/X/2021;",
+      "start_line": 773,
+      "end_line": 774
+    },
+    {
+      "heading": "12. Bukti P- 12 : Fotokopi Surat Penundaan permohonan p embaharuan Eks",
+      "slug": "12-bukti-p-12-fotokopi-surat-penundaan-permohonan-p-embaharuan-eks",
+      "text": "HGB Nomor: 3324 /Tawangsari tertanggal 08-10-2021 \nNomor: HP.01.01/4242.33-74/X/2021;",
+      "start_line": 776,
+      "end_line": 777
+    },
+    {
+      "heading": "13. Bukti P- 13 : Fotokopi Surat Penundaan permohonan pembaharuan Eks",
+      "slug": "13-bukti-p-13-fotokopi-surat-penundaan-permohonan-pembaharuan-eks",
+      "text": "HGB Nomor : 3395 Tawangsari  tertanggal 10-06-2021 \nNomor: HP.01.01/2365.33.74/VI/2021;",
+      "start_line": 779,
+      "end_line": 780
+    },
+    {
+      "heading": "14. Bukti P- 14 : Fotokopi Sertipikat Eks HGB Nomor: 4031/Tawangsari yang",
+      "slug": "14-bukti-p-14-fotokopi-sertipikat-eks-hgb-nomor-4031-tawangsari-yang",
+      "text": "belum diperbaharui yang diperoleh berdasarkan  Akta Jual \nBeli Nomor 215/SB/XII/1999 dan Peta Bidang Tanah Nomor \n38762020, tanggal 06 Januari 2021;",
+      "start_line": 782,
+      "end_line": 784
+    },
+    {
+      "heading": "15. Bukti P- 15 : Fotokopi Sertipikat Eks HGB Nomor: 4031/Tawangsari yang",
+      "slug": "15-bukti-p-15-fotokopi-sertipikat-eks-hgb-nomor-4031-tawangsari-yang",
+      "text": "belum diperbaharui yang diperoleh berdasarkan  Akta Jual \nBeli Nomor 215/SB/XII/1999 dan Peta Bidang Tanah Nomor \n38762020, tanggal 06 Januari 2021;",
+      "start_line": 786,
+      "end_line": 788
+    },
+    {
+      "heading": "16. Bukti P- 16 : Fotokopi Sertipikat Eks HGB Nomor: 4031/Tawangsari yang",
+      "slug": "16-bukti-p-16-fotokopi-sertipikat-eks-hgb-nomor-4031-tawangsari-yang",
+      "text": "belum diperbaharui yang diperoleh berdasarkan  Akta Jual \nBeli Nomor 215/SB/XII/1999 dan Peta Bidang Tanah Nomor \n38762020, tanggal 06 Januari 2021;",
+      "start_line": 790,
+      "end_line": 792
+    },
+    {
+      "heading": "17. Bukti P- 17 : Fotokopi Akta Jual Beli Nomor 30/SB/XI/1996 tentang",
+      "slug": "17-bukti-p-17-fotokopi-akta-jual-beli-nomor-30-sb-xi-1996-tentang",
+      "text": "Pembelian Sebagian eks HGB Nomor 3083/Tawangsari;",
+      "start_line": 794,
+      "end_line": 794
+    },
+    {
+      "heading": "19. Bukti P- 19 : Fotokopi Perjanjian Akan Jual Nomor 62, tanggal 11",
+      "slug": "19-bukti-p-19-fotokopi-perjanjian-akan-jual-nomor-62-tanggal-11",
+      "text": "Pebruari 1999 yang dibuat dihadapan Ny. F. Eka \nSumamingsih, SH, MH, pada waktu itu Notaris  di Kota \nSemarang;",
+      "start_line": 797,
+      "end_line": 799
+    },
+    {
+      "heading": "20. Bukti P- 20 : Fotokopi Peta bidang Nomor: 2436/2020 tertanggal 04",
+      "slug": "20-bukti-p-20-fotokopi-peta-bidang-nomor-2436-2020-tertanggal-04",
+      "text": "November 2020; \n\n23",
+      "start_line": 801,
+      "end_line": 804
+    },
+    {
+      "heading": "21. Bukti P- 21 : Fotokopi Eks SHGB Nomor 177/Tawangaglik Lor atas nama",
+      "slug": "21-bukti-p-21-fotokopi-eks-shgb-nomor-177-tawangaglik-lor-atas-nama",
+      "text": "Bambang Sulistio;",
+      "start_line": 806,
+      "end_line": 806
+    },
+    {
+      "heading": "22. Bukti P- 22 : Fotokopi Surat Persetujuan Pembaruan/rekomendasi",
+      "slug": "22-bukti-p-22-fotokopi-surat-persetujuan-pembaruan-rekomendasi",
+      "text": "pembaruan HGB Nomor 177 di atas HPL di Kawasan PRPP \ndari Sekretaris Pemerintah Provinsi Jateng, tanggal 22 \nSeptember 2020 Nomor 030/0013182;",
+      "start_line": 808,
+      "end_line": 810
+    },
+    {
+      "heading": "23. Bukti P- 23 : Fotokopi Sertipikat hasil Pembaruan menjadi Nomor:",
+      "slug": "23-bukti-p-23-fotokopi-sertipikat-hasil-pembaruan-menjadi-nomor",
+      "text": "02136/Tawangmas (nama kelurahan diubah menjadi  \nTawangmas dari sebelumnya bernama kelurahan \nTawangaglik Lor);",
+      "start_line": 812,
+      "end_line": 814
+    },
+    {
+      "heading": "24. Bukti P- 24 : Fotokopi Akta Jual Beli Nomor 26/SB/XI/1997 tentang",
+      "slug": "24-bukti-p-24-fotokopi-akta-jual-beli-nomor-26-sb-xi-1997-tentang",
+      "text": "Pembelian Sebagian eks HGB Nomor 3083/Tawangsari;",
+      "start_line": 816,
+      "end_line": 816
+    },
+    {
+      "heading": "25. Bukti P- 25 : Fotokopi eks SHGB Nomor 3419/Tawangsari atas nama",
+      "slug": "25-bukti-p-25-fotokopi-eks-shgb-nomor-3419-tawangsari-atas-nama",
+      "text": "Yusuf Setiadi dahulu Kwon Se Ting;",
+      "start_line": 818,
+      "end_line": 818
+    },
+    {
+      "heading": "26. Bukti P- 26 : Fotokopi Peta bidang Nomor: 2461/2020 tertanggal 04",
+      "slug": "26-bukti-p-26-fotokopi-peta-bidang-nomor-2461-2020-tertanggal-04",
+      "text": "November 2020;",
+      "start_line": 820,
+      "end_line": 820
+    },
+    {
+      "heading": "27. Bukti P- 27 : Fotokopi Surat Tanda Terima Berkas Pendaftaran untuk",
+      "slug": "27-bukti-p-27-fotokopi-surat-tanda-terima-berkas-pendaftaran-untuk",
+      "text": "mendapat surat rekomendasi Pembaruan eks SHGB Nomor \n3419 dari DPMPTSP;",
+      "start_line": 822,
+      "end_line": 823
+    },
+    {
+      "heading": "28. Bukti P- 28 : Fotokopi Surat Perjanjian Pemanfaatan Tanah Nomor",
+      "slug": "28-bukti-p-28-fotokopi-surat-perjanjian-pemanfaatan-tanah-nomor",
+      "text": "814/A3.5/L/1/2023;",
+      "start_line": 825,
+      "end_line": 825
+    },
+    {
+      "heading": "29. Bukti P- 29 : Fotokopi Putusan Uji Materi Mahkamah Agung Republik",
+      "slug": "29-bukti-p-29-fotokopi-putusan-uji-materi-mahkamah-agung-republik",
+      "text": "Indonesia Reg.No.22 P/HUM/2023  antara Anisitus Amanat, \nSH melawan Presiden Republik Indonesia;",
+      "start_line": 827,
+      "end_line": 828
+    },
+    {
+      "heading": "30. Bukti P- 30 : Fotokopi Undang-undang Nomor 6 Tahun 2023 tentang",
+      "slug": "30-bukti-p-30-fotokopi-undang-undang-nomor-6-tahun-2023-tentang",
+      "text": "Pengesahan PERPU Nomor: 2/2023;",
+      "start_line": 830,
+      "end_line": 830
+    },
+    {
+      "heading": "31. Bukti P- 31 : Fotokopi PP Nomor 18/2021 tentang Hak Pengelolaan, Hak",
+      "slug": "31-bukti-p-31-fotokopi-pp-nomor-18-2021-tentang-hak-pengelolaan-hak",
+      "text": "atas Tanah, Satuan Rumah Susun, dan Pendaftaran Tanah;",
+      "start_line": 832,
+      "end_line": 832
+    },
+    {
+      "heading": "32. Bukti P- 32 : Fotokopi Eks SHGB Nomor 157/Tawang ngaglik Lor atas",
+      "slug": "32-bukti-p-32-fotokopi-eks-shgb-nomor-157-tawang-ngaglik-lor-atas",
+      "text": "nama Muljono Hadi dahulu Tan The Min;",
+      "start_line": 834,
+      "end_line": 834
+    },
+    {
+      "heading": "33. Bukti P- 33 : Fotokopi Sertipikat hasil Pembaruan menjadi Nomor:",
+      "slug": "33-bukti-p-33-fotokopi-sertipikat-hasil-pembaruan-menjadi-nomor",
+      "text": "02183/Tawangmas (nama kelurahan  diubah menjadi \nTawangmas dari sebelumnya bemama kelurahan \nTawangaglik Lor); \n\n24 \n \n[2.3]  Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk Berita Acara Persidangan dan \nRisalah Persidangan yang merupakan satu kesatuan yang tidak terpisahkan dengan \nputusan ini.",
+      "start_line": 836,
+      "end_line": 845
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "Kewenangan Mahkamah \n[3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD 1945),  \nPasal 10 ayat (1) huruf a Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan Undang -Undang \nNomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang -Undang Nomor 24 \nTahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia \nTahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Ind onesia Nomor \n6554, selanjutnya disebut UU MK ), dan Pasal 29 ayat (1) huruf a Undang -Undang \nNomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik \nIndonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat",
+      "start_line": 847,
+      "end_line": 858
+    },
+    {
+      "heading": "34. Bukti P- 34 : Fotokopi Surat dari Pemerintah Provinsi Jawa Tengah",
+      "slug": "34-bukti-p-34-fotokopi-surat-dari-pemerintah-provinsi-jawa-tengah",
+      "text": "tertanggal 17 Januari 2022 Nomor: 594.3/0000880;",
+      "start_line": 860,
+      "end_line": 860
+    },
+    {
+      "heading": "35. Bukti P- 35 : Fotokopi Surat dari Dijen Penetapan Hak Dan Pendaftaran",
+      "slug": "35-bukti-p-35-fotokopi-surat-dari-dijen-penetapan-hak-dan-pendaftaran",
+      "text": "Tanah Kementerian ATR/Kepala BPN RI tanggal 18-08-\n2022, Nomor: AT.02/753-400.5/VIII/2022; \nDaftar Alat Bukti Pemohon II",
+      "start_line": 862,
+      "end_line": 864
+    },
+    {
+      "heading": "2. Bukti P- 2 : Fotokopi Kartu Tanda Penduduk sesuai aslinya atas nama",
+      "slug": "2-bukti-p-2-fotokopi-kartu-tanda-penduduk-sesuai-aslinya-atas-nama",
+      "text": "Pemohon;",
+      "start_line": 867,
+      "end_line": 867
+    },
+    {
+      "heading": "3. Bukti P- 3 : Fotokopi Akta Perkawinan Nomor 255/1987 sesuai aslinya",
+      "slug": "3-bukti-p-3-fotokopi-akta-perkawinan-nomor-255-1987-sesuai-aslinya",
+      "text": "atas nama Pemohon;",
+      "start_line": 869,
+      "end_line": 869
+    },
+    {
+      "heading": "5. Bukti P- 5 : Fotokopi Sertifikat Hak Guna Bangunan Nomor 4031",
+      "slug": "5-bukti-p-5-fotokopi-sertifikat-hak-guna-bangunan-nomor-4031",
+      "text": "Desa/Kelurahan Tawangsari, Semarang Barat, Kota Madya \nSemarang, Jawa Tengah. \n\n25 \n \npertama dan terakhir yang putusannya bersifat final untuk menguji undang -undang \nterhadap UUD 1945; \n[3.2]  Menimbang bahwa permohonan para Pemohon adalah permohonan \nuntuk menguji konstitusionalitas norma undang-undang, in casu Pasal 137 ayat (2) \nhuruf c dan Pasal 138 Undang -Undang Nomor 6 Tahun 2023 tentang Penetapan \nPeraturan Pemerintah Pengganti Undang -Undang Nomor 2 Tahun 2022 tentang \nCipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun \n2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6841, \nselanjutnya disebut UU 6/2023) , sehingga Mahkamah berwenang menguji \npermohonan a quo.  \nKedudukan Hukum Pemohon \n[3.3]  Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian Undang -Undang \nterhadap UUD 1945 adalah mereka yang menganggap hak dan/atau kewenangan \nkonstitusionalnya yang diberikan oleh UUD 194 5 dirugikan oleh berlakunya suatu \nundang-undang, yaitu: \na.  perorangan warga negara Indonesia (termasuk kelompok orang yang \nmempunyai kepentingan sama); \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik Indonesia \nyang diatur dalam undang-undang;",
+      "start_line": 872,
+      "end_line": 897
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Dengan demikian, Pemohon dalam pengujian undang-undang terhadap UUD 1945 \nharus menjelaskan terlebih dahulu: \na. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat \n(1) UU MK; \nb. ada tidaknya kerugian hak dan/atau kewenangan konstitusional yang diberikan \noleh UUD 1945 yang diakibatkan oleh berlakunya undang -undang yang \ndimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada huruf a; \n\n26 \n \n[3.4]  Menimbang bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU-III/2005 tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi \nNomor 11/PUU-V/2007 tanggal 20 September 2007 serta putusan -putusan \nselanjutnya, telah berpendirian bahwa kerugian hak dan/atau kewenangan \nkonstitusional sebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK harus \nmemenuhi 5 (lima) syarat, yaitu: \na. adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD 1945; \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon dianggap \ndirugikan oleh berlakunya undang-undang yang dimohonkan pengujian;",
+      "start_line": 900,
+      "end_line": 919
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut harus bersifat spesifik (khusus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-khusus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 921,
+      "end_line": 922
+    },
+    {
+      "heading": "d. adanya hubungan sebab -akibat antara kerugian dimaksud dan berlakunya",
+      "slug": "d-adanya-hubungan-sebab-akibat-antara-kerugian-dimaksud-dan-berlakunya",
+      "text": "undang-undang yang dimohonkan pengujian; \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi; \n[3.5] Menimbang bahwa berdasarkan pertimbangan sebagaimana diuraikan \npada Paragraf [3.3] dan Paragraf  [3.4] di atas, selanjutnya Mahkamah \nmempertimbangkan kedudukan hukum  para Pemohon yang pada pokoknya  \nsebagai berikut:",
+      "start_line": 924,
+      "end_line": 930
+    },
+    {
+      "heading": "1. Bahwa para Pemohon mengajukan pengujian norma Pasal 137 ayat (2) huruf c",
+      "slug": "1-bahwa-para-pemohon-mengajukan-pengujian-norma-pasal-137-ayat-2-huruf-c",
+      "text": "dan Pasal 138 UU 6/2023, masing-masing menyatakan sebagai berikut: \nPasal 137 ayat (2) huruf c UU 6/2023: \n“Hak pengelolaan sebagaimana dimaksud pada ayat (1) memberikan \nkewenangan untuk: \n…",
+      "start_line": 932,
+      "end_line": 936
+    },
+    {
+      "heading": "c. menentukan tarif dan menerima uang pemasukan/ganti rugi dan/atau uang",
+      "slug": "c-menentukan-tarif-dan-menerima-uang-pemasukan-ganti-rugi-dan-atau-uang",
+      "text": "wajib tahunan dari pihak ketiga sesuai dengan perjanjian.” \nPasal 138 UU 6/2023: \n“(1)  Penyerahan pemanfaatan bagian tanah hak pengelolaan kepada pihak \nketiga sebagaimana dimaksud dalam Pasal 137 ayat (2) huruf b dilakukan \ndengan perjanjian pemanfaatan tanah. \n(2) Di atas tanah hak pengelolaan yang pemanfaatannya diserahkan kepada \npihak ketiga baik sebagian atau seluruhnya, dapat diberikan hak guna \n\n27 \n \nusaha, hak guna ba ngunan, dan/atau hak pakai sesuai dengan ketentuan \nperaturan perundang-undangan.  \n(3) Jangka waktu hak guna bangunan di atas hak pengelolaan sebagaimana \ndimaksud pada ayat (2) dapat diberikan perpanjangan dan pembaruan hak \napabila sudah digunakan dan/atau dima nfaatkan sesuai dengan tujuan \npemberian haknya.  \n(4) Pemerintah Pusat melakukan pengawasan dan pengendalian atas \npenggunaan dan/atau pemanfaatan tanah di atas hak pengelolaan \nsebagaimana dimaksud pada ayat (3) sesuai dengan ketentuan peraturan \nperundang-undangan.  \n(5) Dalam hal hak atas tanah yang berada di atas  hak pengelolaan telah \nberakhir, tanahnya kembali menjadi tanah hak pengelolaan”. \nyang menurut para Pemohon bertentangan dengan Pasal 28 UUD 1945.",
+      "start_line": 938,
+      "end_line": 960
+    },
+    {
+      "heading": "2. Bahwa Pemohon I adalah perseorangan warga negara Indonesia berprofesi",
+      "slug": "2-bahwa-pemohon-i-adalah-perseorangan-warga-negara-indonesia-berprofesi",
+      "text": "sebagai notaris yang diberi kepercayaan berdasarkan kuasa lisan untuk \nmengurus pembaruan 750 (tujuh ratus lima puluh) eks sertifikat Hak Guna \nBangunan (HGB) yang merupakan bagian tanah dari H ak Pengelolaan (HPL) \natas nama Pemerintah Provinsi Jawa Tengah, akan tetapi tidak dapat \ndiselesaikan. Hal tersebut dikarenakan adanya pengaturan mengenai \nrekomendasi dan tarif/ uang Wajib Tahunan (UWT) yang ditentukan dalam \nPeraturan Pemerintah Nomor 18 Tah un 2021 tentang Hak Pengelolaan, Hak \nAtas Tanah, Satuan Rumah Susun, dan Pendaftaran Tanah (PP 18/2021) yang \nbelum diterbitkan aturan pelaksanaannya. Padahal PP a quo  merupakan \npelaksanaan norma UU Ciptaker yang lama yang sekarang ini diatur dalam UU \n6/2023. Belum diaturnya tari f/UWT menjadi alasan Pemohon I mengajukan \npemohonan uji materiil PP 18/2021 ke Mahkamah Agung (MA), namun ditolak. \nDengan tidak diselesaikannya pembaruan 750 (tujuh ratus lima puluh) eks \nsertifikat Hak Guna Bangunan (HGB) yang pengurusannya dipercayakan kepada \nPemohon I dan ditolaknya uji materi yang diajukan Pemohon I di MA, \nmenyebabkan Pemohon I tidak mendapatkan imbalan atau penghasilan dari \npekerjaan sehingga merugikan Pemohon I. Oleh karena itu, menurut Pemohon I \napabila permohonan uji materiil di Mahkamah Konstitusi sekarang ini dikabulkan, \nkerugian Pemohon I tidak akan terjadi.",
+      "start_line": 962,
+      "end_line": 980
+    },
+    {
+      "heading": "3. Bahwa Pemohon II adalah perseorangan warga negara Indonesia yang",
+      "slug": "3-bahwa-pemohon-ii-adalah-perseorangan-warga-negara-indonesia-yang",
+      "text": "menerangkan memiliki sertifikat tanah HBG yang dibeli ternyata diberikan di atas \ntanah HPL, sehingga untuk mengurus perpanjang annya harus meminta \nrekomendasi dari Pemerintah Provinsi Jawa Tengah selaku pemegang/pemilik \ntanah HPL berdasarkan PP 18/2021. Ketentuan dalam PP a quo kini juga diatur \n\n28 \n \ndalam Pasal 137 dan Pasal 138 UU 6/2023 yang mewajibkan Pemohon II untuk \nmenandatangani perjanjian pemanfaatan tanah dan harus membayar UWT, \npadahal Pemohon II memeroleh tanah sertifikat HGB tersebut berdasarkan \nperjanjian jual-beli di hadapan Pejabat Pembuat Akta Tanah (PPAT). Dengan \ndemikian, Pemohon II selain menderita kerugian riil karena harus membayar \nuang harga jual beli tanah juga masih harus membayar UWT setiap tahun \nsebagai syarat untuk mendapat surat rekomendasi mengurus administrasi hak \natas tanah dan juga harus menandatangani perjanjian pemanfaatan tanah.  \nBerdasarkan uraian yang dikemukakan oleh para Pemohon dalam \nmenjelaskan kedudukan hukumnya di atas, menurut Mahkamah, para Pemohon \ntelah menjelaskan memiliki hak konstitusional untuk mendapat pengakuan, jaminan, \nperlindungan dan kepastian hukum yang adil serta perlakuan yang sama dihadapan \nhukum sebagaimana dijamin dalam Pasal 28D ayat (1) UUD 1945 di mana hak \ndimaksud dianggap dirugikan dengan berlakunya norma Pasal 137 ayat (2) huruf c \ndan Pasal 138 UU 6/2023 yang dimohonkan pengujian. Anggapan kerugian \nPemohon I bersifat spesifik dan potensial karena belum memeroleh penghasilan \ndisebabkan tertundanya pembaruan 750 (tujuh ratus lima puluh) eks sertifikat HGB \nyang dipercayakan kepada Pemohon  I. Sementara itu,  Pemohon II juga telah \nmenguraikan anggapan kerugian hak konstitusionalnya yang bersifat spesifik dan \naktual karena berlakunya norma yang dimohonkan pengujian disebabkan saat ini \ndengan adanya aturan baru Pemohon II diwajibkan membuat perjanjian \npemanfaatan tanah dan membayar UWT atas tanah yang diperoleh berdasarkan \npenjanjian jual beli. Menurut Mahkamah, para Pemohon telah menguraikan secara \nspesifik hak konstitusionalnya yang oleh para Pemohon dianggap dirugikan secara \naktual atau setidak-tidaknya bersifat potensial menurut penalaran yang wajar dapat \ndipastikan akan terjadi karena berlakunya Pasal 137 ayat (2) huruf c dan Pasal 138  \nUU 6/2023. Di samping itu, telah dapat pula dibuktikan adanya hubungan kausalitas \nantara anggapan kerugian hak konstitusional p ara Pemohon dengan norma Pasal \n137 ayat (2) huruf c dan Pasal 138  UU 6/2023 yang dimohonkan pengujian. Oleh \nkarena itu, apabila permohonan a quo dikabulkan oleh Mahkamah maka anggapan \nkerugian hak konstitusional dimaksud tidak terjadi lagi atau tidak akan terjadi. \nDengan demikian, terlepas dari terbukti atau tidaknya persoalan konstitusionalitas \nnorma yang didalilkan para Pemohon, menurut Mahkamah, para Pemohon memiliki \nkedudukan hukum untuk bertindak sebagai Pemohon dalam permohonan a quo. \n\n29 \n \n[3.6]  Menimbang bahwa oleh karena Mahkamah berwenang mengadili \npermohonan a quo  dan para Pemohon memiliki kedudukan hukum untuk \nmengajukan permohonan a quo, selanjutnya Mahkamah akan mempertimbangkan \npokok permohonan. \nPokok Permohonan \n[3.7]  Menimbang bahwa dalam mendalilkan inkonstitusionalitas Pasal 137 ayat \n(2) huruf c dan Pasal 138 UU 6/2023, para Pemohon mengemukakan dalil-dalil  yang \npada pokoknya sebagai berikut (dalil -dalil para Pemohon selengkapnya termuat \ndalam bagian Duduk Perkara):",
+      "start_line": 982,
+      "end_line": 1034
+    },
+    {
+      "heading": "1. Bahwa menurut para Pemohon, penundaan perpanjangan atau pembaruan",
+      "slug": "1-bahwa-menurut-para-pemohon-penundaan-perpanjangan-atau-pembaruan",
+      "text": "HGB di atas HPL disebabkan belum adanya aturan tentang ketentuan tarif UWT \nbagi pihak ketiga yang memeroleh hak pengelolaan berdasarkan perjanjian \npemanfaatan tanah yang merupakan pelaksanaa n dari norma Pasal 137 ayat \n(2) huruf c dan Pasal 138 UU 6/2023;",
+      "start_line": 1036,
+      "end_line": 1039
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, norma Pasal 137 ayat (2) huruf c dan Pasal 138",
+      "slug": "2-bahwa-menurut-para-pemohon-norma-pasal-137-ayat-2-huruf-c-dan-pasal-138",
+      "text": "UU 6/2023  yang mengharuskan para Pemohon meminta rekomendasi untuk \nmengurus administrasi tanah miliknya, menandatangani perjanjian pemanfaatan \ntanah dan wajib membayar UWT adalah bukti bahwa norma tersebut \nbertentangan dengan esensi Pasal 28D ayat (1) UUD 1945. Sebab, setiap orang \nyang memeroleh bidang tanah berdasarkan perjanjian jual beli sekaligus punya \nhak otonom untuk mengurus sendiri kepentingan administrasi tanah yang sudah \ndibelinya tanpa perlu meminta surat rekomendasi kepada penjual, tidak perlu \nmembuat perjan jian pemanfatan tanah dengan pihak penjual dan tidak ada \nkewajiban membayar UWT kepada pembeli.",
+      "start_line": 1041,
+      "end_line": 1049
+    },
+    {
+      "heading": "3. Bahwa berdasarkan dalil -dalil di atas, para Pemohon memohon kepada",
+      "slug": "3-bahwa-berdasarkan-dalil-dalil-di-atas-para-pemohon-memohon-kepada",
+      "text": "Mahkamah agar: \na. Menyatakan norma dalam Pasal 137 ayat (2) huruf c UU 6/2023 sebagai \nconditionally constitutional /konstitusional bersyarat sepanjang belum \nmencakup pengaturan bahwa kewajiban membayar uang wajib tahunan \nhanya berlaku bagi pihak ketiga yang memeroleh penyerahan bagian tanah \nHPL berdasarkan perjanjian pemanfaatan tanah dan tidak berlaku bagi pihak \n\n30 \n \nketiga yang memeroleh penyerahan bagian tanah HPL berdasarkan \nperjanjian jual beli tanah. \nb. Menyatakan Pasal 138 UU Nomor 6/2023 sebagai conditionally \nconstitutional/konstitusional bersyarat sepanjang belum ada frasa yang \nmenyatakan ba hwa perjanjian jual beli atau perjanjian lain yang serupa \ndengan perjanjian jual beli tanah mengakibatkan hapusnya hubungan hukum \nantara pemegang HPL dengan bagian tanah HPL yang telah diserahkan \nkepada pihak ketiga berdasarkan perjanjian jual beli tanah atau perjanjian lain \nyang serupa. \n[3.8]  Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon telah \nmengajukan alat bukti surat/tulisan yang diberi tanda bukti P-1 sampai dengan bukti \nP-35 untuk Pemohon I dan bukti P -1 sampai dengan bukti P-5 untuk Pemohon II, \nyang disahkan dalam persidangan pada tanggal 17 Januari 2024, selengkapnya \ndimuat dalam bagian Duduk Perkara. \n[3.9]  Menimbang bahwa oleh karena permohonan a qu o telah jelas maka \nberdasarkan pada Pasal 54 UU MK, Mahkamah berpendapat tidak terdapat urgensi \ndan relevansinya untuk mendengar keterangan pihak-pihak sebagaimana dimaksud \ndalam Pasal 54 UU MK. \n[3.10]  Menimbang bahwa  setelah Mahkamah mencermati secara sak sama \npermohonan para Pemohon a quo  dan memeriksa bukti -bukti yang diajukan  \n(sebagaimana selengkapnya dimuat dalam bagian Duduk Perkara ), persoalan \nkonstitusional yang harus dijawab Mahkamah adalah apakah penentuan tarif dan \npembayaran UWT serta keberadaan perjanjian pemanfaatan tanah sebagaimana \nditentukan dalam norma Pasal 137 ayat (2) huruf c dan Pasal 138 UU 6/2023  \nbertentangan dengan UUD 1945 . Terhadap persoalan tersebut Mahkamah \nmempertimbangkan sebagai berikut: \n[3.10.1]  Bahwa hak pengelolaan atas tanah atau yang sering disebut HPL bukan \nmerupakan hak atas tanah sebagaimana Hak Milik (HM), Hak Guna Usaha (HGU), \nHak Guna Bangunan (HGB), dan Hak Pakai (HP) yang diatur dalam Undang-\nUndang Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria Tahun \n1960 (UUPA). HPL adalah sebagian dari tanah negara yang kewenangan \npelaksanaan Hak Menguasai Negara (HMN) dilimpahkan kepada pemegang HPL . \n\n31 \n \nDalam hal ini kewenangan pelaksanaan HPL sebagian dilimpahkan kepada \npemegang hak pen gelolaan. Negara sebagai pemegang hak dan pemerintah \nsebagai pelaksana organisasi kekuasaan negara dapat memberikan tanah dalam \nbentuk HPL. HPL dimaksud diberikan sepanjang tugas pokok dan fungsinya \nlangsung berhubungan dengan pengelolaan tanah. Pengaturan HPL bermuara pada \nkeinginan untuk mewujudkan ketentuan Pasal 33 ayat (3) UUD 1945 yang \nmenyatakan bahwa bumi dan air dan kekayaan alam yang terkandung di dalamnya \ndikuasai oleh negara dan dipergunakan untuk sebesar -besar kemakmuran rakyat. \nDalam konteks pertanahan di Indonesia, negara mempunyai hak menguasai tanah \nuntuk kemudian mengatur peruntukan, penggunaan, pemanfaatan , dan \npengawasan atas tanah tersebut. Berdasarkan hal tersebut maka terhadap tanah \nyang berada di atas HPL tidak dapat dialihkan menjadi  hak milik berdasarkan \nperjanjian jual beli, namun hanya sebatas dapat diberikan hak guna usaha, hak guna \nbangunan, dan/atau hak pakai sesuai dengan ketentuan peraturan perundang -\nundangan. Oleh karena itu, dalam hal hak atas tanah yang berada di atas HPL telah \nberakhir maka tanahnya kembali menjadi tanah pengelolaan. \n[3.10.2]   Bahwa HPL tidak secara spesifik ditentukan dalam UUPA, karena \npengelolaan yang dijelaskan dalam UUPA dimaksudkan negara dapat memberikan \ntanah yang demikian itu kepada seseorang atau badan hukum dengan sesuatu hak \nmenurut peruntukan dan keperluannya, misalnya Hak Milik, Hak Guna Usaha, Hak \nGuna Bangunan, Hak Pakai atau memberikannya dalam pengelolaan kepada suatu \nbadan penguasa (Departemen, Jawatan, atau Daerah Swatantra) untuk diguna kan \nbagi pelaksanaan tugasnya masing-masing [vide Penjelasan Umum Angka II Nomor \n2 UUPA]. HPL berkembang sedemikian rupa karena tuntutan kebutuhan \npembangunan yang pengaturannya semula didasarkan pada Peraturan Menteri \nAgraria yang kemudian diikuti oleh peraturan pemerintah, serta peraturan pelaksana \nlainnya. Saat ini HPL diakomodasi dalam UU 6/2023 namun aturan pelaksanaannya \nmasih menggunakan PP 18/2021. Dalam hal ini, Pasal 136 UU 6/2023 menyatakan \nbahwa, “Hak pengelolaan merupakan hak menguasai dari negara yang kewenangan \npelaksanaannya sebagian dilimpahkan kepada pemegang haknya”. Lebih lanjut, \nberdasarkan Pasal 137 ayat (2) huruf c  UU 6/2023 ditentukan bahwa hak \npengelolaan memberikan kewenangan untuk menentukan tarif dan menerima uang \npemasukan/ganti rugi dan/atau uang wajib tahunan dari pihak ketiga sesuai dengan \nperjanjian. Dalam hal penyerahan pemanfaatan bagian tanah hak pengelolaan \n\n32 \n \nkepada pihak ketiga maka harus dilakukan dengan perjanjian pemanfaatan tanah \n[vide Pasal 138 ayat (1) UU 6/2023]. Adapun mengenai aturan HPL oleh pihak ketiga \ndiatur pula dapat dilekatkan hak guna usaha, hak guna bangunan, dan/atau hak \npakai sepanjang tidak berakibat beralihnya hak tersebut menjadi hak privat sesuai \ndengan ketentuan peraturan perundang -undangan. Dalam ha l diberikan hak guna \nbangunan dapat diberikan perpanjangan dan pembaharuan hak apabila sudah \ndigunakan dan/atau dimanfatkan sesuai dengan tujuan pemberian haknya. \nSementara itu, mengenai pengawasan dan pengendalian atas penggunaan \ndan/atau pemanfaatan HPL merupakan kewenangan Pemerintah Pusat. \nPengaturan berikutnya berkaitan dengan berakhirnya hak atas tanah yang berada",
+      "start_line": 1051,
+      "end_line": 1141
+    },
+    {
+      "heading": "di atas tanah hak pengelolaan maka tanahnya kembali menjadi tanah HPL [vide",
+      "slug": "di-atas-tanah-hak-pengelolaan-maka-tanahnya-kembali-menjadi-tanah-hpl-vide",
+      "text": "Pasal 138 ayat (2) sampai dengan ayat (5) UU 6/2023].  \n[3.10.3]    Bahwa ketentuan-ketentuan di atas yang salah satunya mengatur tentang \nkewenangan negara menentukan biaya yang seharusnya dibayarkan sebagaimana \ntermuat dalam perjanjian pengelolaan tanah negara oleh pihak ketiga, sebagaimana \ndipersoalkan oleh para Pemo hon, menurut Mahkamah merupakan bentuk atau \nbagian dari penguatan pengaturan HPL agar memberikan jaminan perlindungan dan \nkepastian hukum. Karena, sebagai tanah yang melekat hak pengelolaan maka \nsudah semestinya pihak lain (pihak ketiga) yang memanfa atkan tanah HPL \nmembayar tarif dan/atau UWT sesuai dengan tujuan dari pemanfaatannya. \nDemikian halnya apabila yang memanfaatkan tanah adalah pemegang HPL maka \npembayaran tarif dan/atau UWT juga menjadi kewajibannya. Oleh karena itu, \nmengenai tarif dan/atau UWT merupakan kewajiban dari yang memanfaatkan tanah \nHPL, bukan kepada pemegang HPL. Untuk itu, dalam hal pemanfaatannya \ndilakukan oleh pihak lain  (pihak ketiga)  maka dilaksanakan dengan perjanjian \npemanfaatan tanah, bukan perjanjian jual beli (peralihan h ak) sebagaimana \ndidalilkan Pemohon II pada waktu memeroleh HGB yang telah berakhir masa \nberlakunya. Dalam kaitan ini, tanpa Mahkamah bermaksud menilai kasus konkret \nyang dialami Pemohon II, terhadap HGB yang telah habis masa berlakunya dan \ntidak segera dip erpanjang, dengan sendirinya tanah tersebut kembali kepada \npemegang HPL atau kembali kepada negara bilamana HPL telah berakhir. Berkaitan \ndengan tanah negara dapat ditetapkan sebagai tanah yang diberikan hak \npengelolaan, tanpa Mahkamah bermaksud menilai le galitas PP 18/2021, terhadap \ntanah yang diberikan hak pengelolaan tidak dapat dijadikan jaminan utang dengan \n\n33 \n \ndibebani hak tanggungan serta tidak dapat beralih dan dialihkan kepada pihak lain \n(pihak ketiga), kecuali dilepaskan untuk kepentingan umum sesuai dengan \nketentuan peraturan perundang-undangan [vide Pasal 12 ayat (1), ayat (2), dan ayat \n(3) PP 18/2021]. Dengan demikian, adanya ketentuan yang mengharuskan \nperjanjian pemanfaatan tanah oleh pihak lain (pihak ketiga), di antaranya memuat \nbesaran tarif dan/atau UWT yang disesuaikan dengan tujuan dari pemanfaatannya, \nhal tersebut dimaksudkan untuk memberikan perlindungan dan kepastian hukum \nantara pemegang HPL dengan pihak lain  (pihak ketiga) sebagai pemanfaat HPL, \ntermasuk terhadap tanah HPL yang dilekatkan HGB. \n[3.10.4]    Bahwa selain pertimbangan hukum sebagaimana diuraikan di atas, \npenting bagi Mahkamah menegaskan perihal dalil yang dijadikan dasar untuk \nmengajukan permohonan dalam perkara a quo sesungguhnya bermuara pada PP \n18/2021 yang menurut para Pemohon merupakan aturan pelaksana dari UU 6/2023. \nBerkenaan dengan hal tersebut, tanpa Mahkamah bermaksud menilai legalitas PP \n18/2021, hal demikian tidak dapat memengaruhi keberlakuan norma Pasal 137 ayat \n(2) huruf c dan Pasal 138 UU 6/2023 sebagai peraturan yang lebih tinggi. Selain itu, \njika dicermati petitum permohonan para Pemohon, yaitu petitum angka 2 dan angka \n3 yang pada pokoknya memohon kepada Mahkamah agar menyatakan norma \ndalam Pasal 137 ayat (2) huruf c dan Pasal 138 UU 6/2023 sebagai conditionally \nconstitutional, seandainya dikabulkan permohonan para Pemohon a quo justru akan \nmenimbulkan ketidakadilan dan ketidakpastian hukum. Sebab, selain sekedar \nmengakomodir kasus konkret yang dialami para Pemohon yang merupakan \nimplementasi norma, juga akan menimbulkan persoalan lain dengan munculnya \npenafsiran baru terhadap penerapan norma Pasal a quo . Dengan demikian, \nberkenaan dengan belum ditentukannya tarif UWT ataupun tertundanya \nperpanjangan/pembaruan sertifikat HGB yang diurus oleh Pemohon I atau dimi liki \noleh Pemohon II sebagaimana didalilkan hal tersebut merupakan persoalan \nimplementasi norma, bukan persoalan konstitusionalitas norma. \n[3.11]  Menimbang bahwa berdasarkan seluruh uraian pertimbangan hukum di \natas, Pasal 137 ayat (2) huruf c dan Pasal 138 UU 6/2023  telah ternyata tidak \nmelanggar hak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang \nadil serta perlakuan yang sama di hadapan hukum yang dijamin dalam Pasal 28D \nayat (1) UUD 1945, tidak sebagaimana didalilkan para Pemohon. Dengan demikian, \ndalil para Pemohon adalah tidak beralasan menurut hukum untuk seluruhnya. \n\n34 \n \n[3.12] Menimbang bahwa terhadap hal -hal lain tidak dipertimbangkan lebih \nlanjut karena dinilai tidak ada relevansinya.",
+      "start_line": 1143,
+      "end_line": 1207
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan",
+      "start_line": 1209,
+      "end_line": 1209
+    },
+    {
+      "heading": "di atas, Mahkamah berkesimpulan:",
+      "slug": "di-atas-mahkamah-berkesimpulan",
+      "text": "[4.1] Mahkamah berwenang mengadili permohonan a quo; \n[4.2] Para Pemohon memiliki kedudukan hukum untuk mengajukan permohonan           \na quo; \n[4.3] Pokok permohonan para Pemohon tidak beralasan menurut hukum untuk \nseluruhnya. \nBerdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun \n1945, Undang -Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi \nsebagaimana telah diubah terakhir dengan Undan g-Undang Nomor 7 Tahun 2020 \ntentang Perubahan Ketiga Atas Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang-\nUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5076);",
+      "start_line": 1211,
+      "end_line": 1224
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili: \nMenolak permohonan para Pemohon untuk seluruhnya. \nDemikian diputus dalam Rapat Permusyawaratan Hakim oleh sembilan \nHakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, \nEnny Nurbaningsih,  Anwar Usman, Arief Hidayat, Daniel Yusmic P. Foekh,  M. \nGuntur Hamzah , Ridwan Mansyur, dan Arsul  Sani, masing-masing sebagai \nAnggota, pada hari Selasa, tanggal dua puluh tiga, bulan Januari, tahun dua ribu \ndua puluh  empat yang diucapkan dalam Sidang Pleno Mahkamah Konstitusi \nterbuka untuk umum pada hari Rabu, tanggal tiga puluh satu, bulan Januari, tahun \ndua ribu dua puluh empat, selesai diucapkan pukul  13.29 WIB oleh sembilan \n\n35 \n \nHakim Konstitusi , yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, \nEnny Nurbaningsih,  Anwar Usman, Arief Hidayat, Daniel Yusmic P. Foekh,  M. \nGuntur Hamzah , Ridwan Mansyur, dan Arsul Sani, masing-masing sebagai \nAnggota, dengan dibantu oleh Syukri Asy’ari sebagai Panitera Pengganti, dengan \ndihadiri oleh para Pemohon, Dewan Perwakilan Rakya t atau yang mewakili, dan \nPresiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo  \nANGGOTA-ANGGOTA, \nttd. \nSaldi Isra  \nttd. \nEnny Nurbaningsih  \nttd.  \nAnwar Usman  \nttd. \nArief Hidayat \n ttd. \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah  \nttd. \nRidwan Mansyur \nttd.  \nArsul Sani \nPANITERA PENGGANTI, \nttd. \nSyukri Asy’ari",
+      "start_line": 1226,
+      "end_line": 1268
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Anisitus Amanat, S.H",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Budi Winarno Soejanto",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 6/2023 tentang Penetapan Perppu 2/2022 tentang Cipta Kerja Menjadi Undang-Undang"
+    ],
+    "constitutional_articles": [
+      "Pasal 45",
+      "Pasal 7 ayat (1)",
+      "pasal 51",
+      "Pasal 28D ayat (1)",
+      "Pasal 28D",
+      "pasal 28D",
+      "Pasal 28",
+      "Pasal 33 ayat (3)",
+      "Pasal 24 ayat (2)",
+      "Pasal 24C ayat (1)"
+    ],
+    "procedural_articles": [
+      "Pasal 2 ayat (1)",
+      "Pasal 4 ayat (1)"
+    ],
+    "evidence": [
+      "BUKTI P -35",
+      "BUKTI P-1",
+      "BUKTI P-5",
+      "BUKTI P-35",
+      "BUKTI P -1",
+      "BUKTI P- 1",
+      "BUKTI P- 2",
+      "BUKTI P- 3",
+      "BUKTI P- 4",
+      "BUKTI P- 5",
+      "BUKTI P- 6",
+      "BUKTI P- 7",
+      "BUKTI P- 8",
+      "BUKTI P- 9",
+      "BUKTI P- 10",
+      "BUKTI P- 11",
+      "BUKTI P- 12",
+      "BUKTI P- 13",
+      "BUKTI P- 14",
+      "BUKTI P- 15",
+      "BUKTI P- 16",
+      "BUKTI P- 17",
+      "BUKTI P- 18",
+      "BUKTI P- 19",
+      "BUKTI P- 20",
+      "BUKTI P- 21",
+      "BUKTI P- 22",
+      "BUKTI P- 23",
+      "BUKTI P- 24",
+      "BUKTI P- 25",
+      "BUKTI P- 26",
+      "BUKTI P- 27",
+      "BUKTI P- 28",
+      "BUKTI P- 29",
+      "BUKTI P- 30",
+      "BUKTI P- 31",
+      "BUKTI P- 32",
+      "BUKTI P- 33",
+      "BUKTI P- 34",
+      "BUKTI P- 35",
+      "REFERENSI:164/PUU-XXI/2023",
+      "REFERENSI:158/PUU/PAN.MK/AP3/11/2023",
+      "REFERENSI:102/PPU-VII/2009",
+      "REFERENSI:22/PUU-XV/2017",
+      "REFERENSI:46/PUU-VIII/2010yangmembatalkannormahukumdalamPasal42UUPerkawinanNomor1Tahun1974yangmenyatakanbahwaanakyangdilahirkandiluarperkawinanhanyamempunyaihubunganperdatadenganibunyadankeluargaibunya.MKlewatputusantersebutmenyatakanbahwaanakluarkawintetapmemilikihubunganperdatatidakhanyadenganibunyasajatetapijugadenganayahbiologisnya.PutusaninipuntampakjelassekalibahwaMKpunyakewenanganuntukmembetuknormabaruyangbelumatautidakadadalamUUyangsudahadaatasdasarpertimbanandemimeraih8kemanfaatandankepentinananurgentyangdituntutataudimohonmasyarakat.berpedomanpadaputusan-putusanMKsepertiputusanNomor102/PUU-VII/2009",
+      "REFERENSI:22/PUU-XV/2017danPutusanMKNomor46/PUU-VIII/2010",
+      "REFERENSI:011/PUU-V/2007",
+      "REFERENSI:215/SB/XII/1999",
+      "REFERENSI:6/2023tentangkewajibanmembayarUWTdannormahukumkandungandalamPasal138UUNomor6/2023",
+      "REFERENSI:6/2023.BahwaolehkarenaMAlewatputusantersebutsudahmengatakanbahwaPP18/2021sesuaidengannormadalamUU6/2023tentangpengesahanPERPPUnomor2/2022menjadiUUmakapendapatMAinilahyangmenjadialasanPemohonmengajukanpermohonanujimateriilnorma-normahukumkandungandalampasal137ayat2hurufbdancsertapasal138UUnomor6/2023terhadappasal28DUUD1945danterhadapasaspembentukanperaturanperundang-undanganyangbaiksebagaimanadimaksuddalampasal5hurufhurufgsertapenjelasanhurufgUUNomor12Tahun2011yangtelahdiubahdenganUUNomor15/2019",
+      "REFERENSI:02/1444/V/2023",
+      "REFERENSI:02/752-400.5/VIII/2022",
+      "REFERENSI:02/753-400.5/VIII/2022",
+      "REFERENSI:178/UND.-400.18.HK.02/IX/2023",
+      "REFERENSI:01/4243-33.74/X/2021",
+      "REFERENSI:01/4242.33-74/X/2021",
+      "REFERENSI:01/2365.33.74/VI/2021",
+      "REFERENSI:814/A3.5/L/1/2023",
+      "REFERENSI:006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "REFERENSI:6/2023.Belumdiaturnyatarif/UWTmenjadialasanPemohonImengajukanpemohonanujimateriilPP18/2021",
+      "REFERENSI:18/2021.KetentuandalamPPaquokinijugadiatur28dalamPasal137danPasal138UU6/2023",
+      "REFERENSI:6/2023sebagaiconditionallyconstitutional/konstitusionalbersyaratsepanjangbelummencakuppengaturanbahwakewajibanmembayaruangwajibtahunanhanyaberlakubagipihakketigayangmemerolehpenyerahanbagiantanahHPLberdasarkanperjanjianpemanfaatantanahdantidakberlakubagipihak30ketigayangmemerolehpenyerahanbagiantanahHPLberdasarkanperjanjianjualbelitanah.b.MenyatakanPasal138UUNomor6/2023",
+      "REFERENSI:6/2023namunaturanpelaksanaannyamasihmenggunakanPP18/2021",
+      "REFERENSI:18/2021yangmenurutparaPemohonmerupakanaturanpelaksanadariUU6/2023",
+      "REFERENSI:46/PUU-VIII/2010yangmembatalkannormahukumdalamPasal42UUPerkawinanNomor1Tahun1974yangmenyatakanbahwaanakyangdilahirkandiluarperkawinanhanyamempunyaihubunganperdatadenganibunyadankeluargaibunya.MKlewatputusantersebutmenyatakanbahwaanakluarkawintetapmemilikihubunganperdatatidakhanyadenganibunyasajatetapijugadenganayahbiologisnya.PutusaninipuntampakjelassekalibahwaMKpunyakewenanganuntukmembetuknormabaruyangbelumatautidakadadalamUUyangsudahadaatasdasarpertimbanandemimeraih8kemanfaatandankepentinananurgentyangdituntutataudimohonmasyarakat.8.KewenanganMKuntukmembuatdan/ataumenetapkannormabarudenganberpedomanpadaputusan-putusanMKsepertiputusanNomor102/PUU-VII/2009",
+      "REFERENSI:2/2021BisPutusanMKNomor006/PUU-III/2005danNomor011/PUU-V/2007",
+      "REFERENSI:6/2023sebagaiconditionallyconstitutional/konstitusionalbersyaratsepanjangbelummencakuppengaturanbahwakewajibanmembayaruangwajibtahunanhanyaberlakubagipihakketigayangmemperolehpenyerahanbagiantanahHPLberdasarkanperjanjianpemanfaatantanahdantidakberlakubagipihakketigayangmemperolehpenyerahanbagiantanahHPLberdasarkanperjanjianjualbelitanah.3.MenyatakanPasal138UUNomor6/2023",
+      "REFERENSI:4031/TawangsariyangbelumdiperbaharuiyangdiperolehberdasarkanAktaJualBeliNomor215/SB/XII/1999",
+      "REFERENSI:30/SB/XI/1996",
+      "REFERENSI:26/SB/XI/1997"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menolak permohonan para Pemohon untuk seluruhnya."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Enny Nurbaningsih",
+      "Anwar Usman",
+      "Arief Hidayat",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Syukri Asy’ari"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "164/PUU-XXI/2023",
+      "158/PUU/PAN.MK/AP3/11/2023",
+      "102/PPU-VII/2009",
+      "22/PUU-XV/2017",
+      "46/PUU-VIII/2010yangmembatalkannormahukumdalamPasal42UUPerkawinanNomor1Tahun1974yangmenyatakanbahwaanakyangdilahirkandiluarperkawinanhanyamempunyaihubunganperdatadenganibunyadankeluargaibunya.MKlewatputusantersebutmenyatakanbahwaanakluarkawintetapmemilikihubunganperdatatidakhanyadenganibunyasajatetapijugadenganayahbiologisnya.PutusaninipuntampakjelassekalibahwaMKpunyakewenanganuntukmembetuknormabaruyangbelumatautidakadadalamUUyangsudahadaatasdasarpertimbanandemimeraih8kemanfaatandankepentinananurgentyangdituntutataudimohonmasyarakat.berpedomanpadaputusan-putusanMKsepertiputusanNomor102/PUU-VII/2009",
+      "22/PUU-XV/2017danPutusanMKNomor46/PUU-VIII/2010",
+      "011/PUU-V/2007",
+      "215/SB/XII/1999",
+      "6/2023tentangkewajibanmembayarUWTdannormahukumkandungandalamPasal138UUNomor6/2023",
+      "6/2023.BahwaolehkarenaMAlewatputusantersebutsudahmengatakanbahwaPP18/2021sesuaidengannormadalamUU6/2023tentangpengesahanPERPPUnomor2/2022menjadiUUmakapendapatMAinilahyangmenjadialasanPemohonmengajukanpermohonanujimateriilnorma-normahukumkandungandalampasal137ayat2hurufbdancsertapasal138UUnomor6/2023terhadappasal28DUUD1945danterhadapasaspembentukanperaturanperundang-undanganyangbaiksebagaimanadimaksuddalampasal5hurufhurufgsertapenjelasanhurufgUUNomor12Tahun2011yangtelahdiubahdenganUUNomor15/2019",
+      "02/1444/V/2023",
+      "02/752-400.5/VIII/2022",
+      "02/753-400.5/VIII/2022",
+      "178/UND.-400.18.HK.02/IX/2023",
+      "01/4243-33.74/X/2021",
+      "01/4242.33-74/X/2021",
+      "01/2365.33.74/VI/2021",
+      "814/A3.5/L/1/2023",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "6/2023.Belumdiaturnyatarif/UWTmenjadialasanPemohonImengajukanpemohonanujimateriilPP18/2021",
+      "18/2021.KetentuandalamPPaquokinijugadiatur28dalamPasal137danPasal138UU6/2023",
+      "6/2023sebagaiconditionallyconstitutional/konstitusionalbersyaratsepanjangbelummencakuppengaturanbahwakewajibanmembayaruangwajibtahunanhanyaberlakubagipihakketigayangmemerolehpenyerahanbagiantanahHPLberdasarkanperjanjianpemanfaatantanahdantidakberlakubagipihak30ketigayangmemerolehpenyerahanbagiantanahHPLberdasarkanperjanjianjualbelitanah.b.MenyatakanPasal138UUNomor6/2023",
+      "6/2023namunaturanpelaksanaannyamasihmenggunakanPP18/2021",
+      "18/2021yangmenurutparaPemohonmerupakanaturanpelaksanadariUU6/2023",
+      "46/PUU-VIII/2010yangmembatalkannormahukumdalamPasal42UUPerkawinanNomor1Tahun1974yangmenyatakanbahwaanakyangdilahirkandiluarperkawinanhanyamempunyaihubunganperdatadenganibunyadankeluargaibunya.MKlewatputusantersebutmenyatakanbahwaanakluarkawintetapmemilikihubunganperdatatidakhanyadenganibunyasajatetapijugadenganayahbiologisnya.PutusaninipuntampakjelassekalibahwaMKpunyakewenanganuntukmembetuknormabaruyangbelumatautidakadadalamUUyangsudahadaatasdasarpertimbanandemimeraih8kemanfaatandankepentinananurgentyangdituntutataudimohonmasyarakat.8.KewenanganMKuntukmembuatdan/ataumenetapkannormabarudenganberpedomanpadaputusan-putusanMKsepertiputusanNomor102/PUU-VII/2009",
+      "2/2021BisPutusanMKNomor006/PUU-III/2005danNomor011/PUU-V/2007",
+      "6/2023sebagaiconditionallyconstitutional/konstitusionalbersyaratsepanjangbelummencakuppengaturanbahwakewajibanmembayaruangwajibtahunanhanyaberlakubagipihakketigayangmemperolehpenyerahanbagiantanahHPLberdasarkanperjanjianpemanfaatantanahdantidakberlakubagipihakketigayangmemperolehpenyerahanbagiantanahHPLberdasarkanperjanjianjualbelitanah.3.MenyatakanPasal138UUNomor6/2023",
+      "4031/TawangsariyangbelumdiperbaharuiyangdiperolehberdasarkanAktaJualBeliNomor215/SB/XII/1999",
+      "30/SB/XI/1996",
+      "26/SB/XI/1997"
+    ],
+    "referenced_cases": [
+      "164/PUU-XXI/2023",
+      "158/PUU/PAN.MK/AP3/11/2023",
+      "102/PPU-VII/2009",
+      "22/PUU-XV/2017",
+      "46/PUU-VIII/2010yangmembatalkannormahukumdalamPasal42UUPerkawinanNomor1Tahun1974yangmenyatakanbahwaanakyangdilahirkandiluarperkawinanhanyamempunyaihubunganperdatadenganibunyadankeluargaibunya.MKlewatputusantersebutmenyatakanbahwaanakluarkawintetapmemilikihubunganperdatatidakhanyadenganibunyasajatetapijugadenganayahbiologisnya.PutusaninipuntampakjelassekalibahwaMKpunyakewenanganuntukmembetuknormabaruyangbelumatautidakadadalamUUyangsudahadaatasdasarpertimbanandemimeraih8kemanfaatandankepentinananurgentyangdituntutataudimohonmasyarakat.berpedomanpadaputusan-putusanMKsepertiputusanNomor102/PUU-VII/2009",
+      "22/PUU-XV/2017danPutusanMKNomor46/PUU-VIII/2010",
+      "011/PUU-V/2007",
+      "215/SB/XII/1999",
+      "6/2023tentangkewajibanmembayarUWTdannormahukumkandungandalamPasal138UUNomor6/2023",
+      "6/2023.BahwaolehkarenaMAlewatputusantersebutsudahmengatakanbahwaPP18/2021sesuaidengannormadalamUU6/2023tentangpengesahanPERPPUnomor2/2022menjadiUUmakapendapatMAinilahyangmenjadialasanPemohonmengajukanpermohonanujimateriilnorma-normahukumkandungandalampasal137ayat2hurufbdancsertapasal138UUnomor6/2023terhadappasal28DUUD1945danterhadapasaspembentukanperaturanperundang-undanganyangbaiksebagaimanadimaksuddalampasal5hurufhurufgsertapenjelasanhurufgUUNomor12Tahun2011yangtelahdiubahdenganUUNomor15/2019",
+      "02/1444/V/2023",
+      "02/752-400.5/VIII/2022",
+      "02/753-400.5/VIII/2022",
+      "178/UND.-400.18.HK.02/IX/2023",
+      "01/4243-33.74/X/2021",
+      "01/4242.33-74/X/2021",
+      "01/2365.33.74/VI/2021",
+      "814/A3.5/L/1/2023",
+      "006/PUU-III/2005tanggal31Mei2005danPutusanMahkamahKonstitusiNomor11/PUU-V/2007",
+      "6/2023.Belumdiaturnyatarif/UWTmenjadialasanPemohonImengajukanpemohonanujimateriilPP18/2021",
+      "18/2021.KetentuandalamPPaquokinijugadiatur28dalamPasal137danPasal138UU6/2023",
+      "6/2023sebagaiconditionallyconstitutional/konstitusionalbersyaratsepanjangbelummencakuppengaturanbahwakewajibanmembayaruangwajibtahunanhanyaberlakubagipihakketigayangmemerolehpenyerahanbagiantanahHPLberdasarkanperjanjianpemanfaatantanahdantidakberlakubagipihak30ketigayangmemerolehpenyerahanbagiantanahHPLberdasarkanperjanjianjualbelitanah.b.MenyatakanPasal138UUNomor6/2023",
+      "6/2023namunaturanpelaksanaannyamasihmenggunakanPP18/2021",
+      "18/2021yangmenurutparaPemohonmerupakanaturanpelaksanadariUU6/2023",
+      "46/PUU-VIII/2010yangmembatalkannormahukumdalamPasal42UUPerkawinanNomor1Tahun1974yangmenyatakanbahwaanakyangdilahirkandiluarperkawinanhanyamempunyaihubunganperdatadenganibunyadankeluargaibunya.MKlewatputusantersebutmenyatakanbahwaanakluarkawintetapmemilikihubunganperdatatidakhanyadenganibunyasajatetapijugadenganayahbiologisnya.PutusaninipuntampakjelassekalibahwaMKpunyakewenanganuntukmembetuknormabaruyangbelumatautidakadadalamUUyangsudahadaatasdasarpertimbanandemimeraih8kemanfaatandankepentinananurgentyangdituntutataudimohonmasyarakat.8.KewenanganMKuntukmembuatdan/ataumenetapkannormabarudenganberpedomanpadaputusan-putusanMKsepertiputusanNomor102/PUU-VII/2009",
+      "2/2021BisPutusanMKNomor006/PUU-III/2005danNomor011/PUU-V/2007",
+      "6/2023sebagaiconditionallyconstitutional/konstitusionalbersyaratsepanjangbelummencakuppengaturanbahwakewajibanmembayaruangwajibtahunanhanyaberlakubagipihakketigayangmemperolehpenyerahanbagiantanahHPLberdasarkanperjanjianpemanfaatantanahdantidakberlakubagipihakketigayangmemperolehpenyerahanbagiantanahHPLberdasarkanperjanjianjualbelitanah.3.MenyatakanPasal138UUNomor6/2023",
+      "4031/TawangsariyangbelumdiperbaharuiyangdiperolehberdasarkanAktaJualBeliNomor215/SB/XII/1999",
+      "30/SB/XI/1996",
+      "26/SB/XI/1997"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}

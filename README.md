@@ -208,10 +208,16 @@ Workflow yang disarankan:
 ## MKRI — Case Explorer
 
 Viewer kini mengutamakan topik dan isi perkara: judul deskriptif, ringkasan bahasa
-Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi pilihan berisi 100
+Indonesia, hasil perkara, serta undang-undang yang diuji. Koleksi pilihan berisi 200
 perkara dalam 17 topik. Ini koleksi pilihan, bukan arsip lengkap MKRI.
 
 - Cari nomor perkara, nama pihak, undang-undang, atau kata dalam teks dokumen.
+- Nomor singkat seperti `35/2012`, `35 PUU 2012`, dan `35 / PUU - X / 2012`
+  menemukan perkara yang sama. Nomor lengkap dan angka nol di depan juga didukung.
+- Singkatan seperti `UU ITE`, `Sisdiknas`, `BUMN`, dan `BPJS` dicocokkan dengan
+  nama lengkapnya. Perbedaan kapital, tanda baca, dan spasi diabaikan; KUHP dan
+  KUHAP tetap dibedakan. Perkara yang langsung membahas pencarian diutamakan
+  di atas penyebutan dalam teks dokumen.
 - Gabungkan filter `topic`, `year` (tahun **putusan**, bukan tahun pendaftaran),
   dan `outcome`; urutan awal adalah putusan terbaru.
 - Daftar menampilkan 20 perkara per halaman; pencarian, filter, halaman, dan
@@ -281,14 +287,22 @@ tersedia tautan tab baru bila host resmi membatasi penyematan.
 
 ### Menambah koleksi melalui batch yang diperiksa
 
-62 tambahan (40 putusan/ketetapan terbaru dan 22 perkara lama) dicatat dalam
+Batch sebelumnya berisi 62 tambahan (40 putusan/ketetapan terbaru dan 22 perkara lama) dalam
 [`collection_sources.json`](data/editorial/collection_sources.json). Setiap entri
 memuat PDF resmi, checksum SHA-256, dan koreksi fakta inti yang diperiksa pada
 dokumen tersebut. Judul dan deskripsi faktual tetap terpisah di `cases.json`.
 
+100 tambahan berikutnya dicatat dalam
+[`collection_200_sources.json`](data/editorial/collection_200_sources.json).
+Batch ini memperluas seluruh topik, termasuk Haji & umrah dari 1 menjadi 5,
+BUMN dari 2 menjadi 11, dan Pendidikan dari 5 menjadi 25 perkara. Nomor, jenis,
+tanggal pengucapan, pemohon, undang-undang, dan amar diperiksa pada PDF resmi.
+
 ```bash
 python3 scripts/import_collection.py data/editorial/collection_sources.json --dry-run
 python3 scripts/import_collection.py data/editorial/collection_sources.json
+python3 scripts/import_collection.py data/editorial/collection_200_sources.json --dry-run
+python3 scripts/import_collection.py data/editorial/collection_200_sources.json
 ```
 
 Nomor dan jenis perkara yang sudah tersedia dilewati, termasuk bila nama PDF
@@ -343,7 +357,7 @@ Klik **Unduh cadangan** pada halaman Kelola untuk mendapatkan salinan database
 yang konsisten. Untuk restore, hentikan server, simpan salinan database lama,
 letakkan file cadangan sebagai `library.sqlite3` di direktori penyimpanan,
 lalu jalankan server kembali. Backup ini meliputi seluruh unggahan dan koreksi;
-100 snapshot bawaan tetap berasal dari repo.
+200 snapshot bawaan tetap berasal dari repo.
 
 ### Mengaktifkan pemilik di hosting
 

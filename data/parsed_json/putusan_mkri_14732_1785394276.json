@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/putusan_mkri_14732_1785394276.pdf",
+    "file_name": "putusan_mkri_14732_1785394276.pdf",
+    "page_count": 5,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14732_1785394276.pdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:decision_date_missing",
+      "review:applicants_contains_very_long_name"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "ketetapan",
+    "case_type": "PUU",
+    "case_number": "225/PUU-XXIV/2026",
+    "related_case_numbers": [
+      "224/PUU/PAN.MK/AP3/06/2026"
+    ],
+    "title": "KETETAPAN",
+    "decision_date": "2026-07-30",
+    "decision_date_raw": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "KETETAPAN",
+      "slug": "ketetapan",
+      "text": "NOMOR 225/PUU-XXIV/2026",
+      "start_line": 4,
+      "end_line": 4
+    },
+    {
+      "heading": "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA",
+      "slug": "demi-keadilan-berdasarkan-ketuhanan-yang-maha-esa",
+      "text": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA, \nYang mengadili permohonan pengujian undang-undang pada tingkat pertama \ndan terakhir, menjatuhkan Ketetapan dalam Permohonan Pengujian Undang-Undang \nNomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingku ngan Hidup \nterhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 19 45, sebagai \nberikut. \nMenimbang :  a.  bahwa Mahkamah Konstitusi (selanjutnya disebut Mahkamah) telah \nmenerima permohonan bertanggal 8 Mei 2026 yang diajukan oleh \nMuhamad Agni Airlangga Galuh Saputra, Rahmania Milla Asifah, \nJovanka Aulia Mardova, Tulus Budi Prasetyo Nugroho, Caila \nRenata Adjie Sekarwangi, dan Evelyn Alya Rahmadani (selanjutnya \ndisebut para Pemohon). Permohonan a quo  diterima Mahkamah \npada tanggal 13 Juni 2026 berdasarkan Akta Pengajuan \nPermohonan Pemohon Nomor 224/PUU/PAN.MK/AP3/06/2026 \ndan telah dicatat dalam Buku Registrasi Perkara Konstitusi \nElektronik (e-BRPK) dengan Permohonan Nomor 225/PUU-\nXXIV/2026 pada tanggal 15 Juni 2026, perihal permohonan \npengujian Materiil Undang-Undang Nomor 32 Tahun 2009 tentang \nPerlindungan dan Pengelolaan Lingkungan Hidup terhadap \nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945; \nb.  bahwa sesuai dengan ketentuan Pasal 28 ayat (4) dan Pasal 3 4 \nayat (1) Undang-Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi sebagaimana telah diubah terakhir dengan \nUndang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga \nAtas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2020 \nNomor 216, Tambahan Lembaran Negara Republik Indonesia \nNomor 6554, selanjutnya disebut UU MK), terhadap Permohonan \n \n\n\n \n \n2\nNomor 225/PUU-XXIV/2026 tersebut Mahkamah telah \nmenerbitkan:",
+      "start_line": 6,
+      "end_line": 41
+    },
+    {
+      "heading": "1. Ketetapan Ketua Mahkamah Konstitusi Nomor",
+      "slug": "1-ketetapan-ketua-mahkamah-konstitusi-nomor",
+      "text": "225.225/PUU/TAP.MK/Panel/06/2026 tentang Pembentukan \nPanel Hakim Untuk Memeriksa Perkara Nomor 225/PUU-\nXXIV/2026, bertanggal 15 Juni 2026;",
+      "start_line": 43,
+      "end_line": 45
+    },
+    {
+      "heading": "2. Ketetapan Ketua Panel Hakim Mahkamah Konstitusi Nomor",
+      "slug": "2-ketetapan-ketua-panel-hakim-mahkamah-konstitusi-nomor",
+      "text": "225.225/PUU/TAP.MK/HS/06/2026 tentang Penetapan Hari \nSidang Pertama Mahkamah Konstitusi, bertanggal 15 Juni \n2026;",
+      "start_line": 47,
+      "end_line": 49
+    },
+    {
+      "heading": "c. bahwa terhadap permohonan a quo , pada tanggal 25 Juni 2026,",
+      "slug": "c-bahwa-terhadap-permohonan-a-quo-pada-tanggal-25-juni-2026",
+      "text": "Mahkamah telah menyelenggarakan sidang pemeriksaan \npendahuluan dengan agenda mendengarkan pokok-pokok \npermohonan, memeriksa kelengkapan, dan kejelasan materi \npermohonan para Pemohon. Berkenaan dengan hal tersebut, \nMahkamah telah memberikan nasihat sesuai dengan ketentuan \nPasal 39 UU MK dan Pasal 36 ayat (3) Peraturan Mahkamah \nKonstitusi Nomor 7 Tahun 2025 tentang Tata Beracara Dalam \nPerkara Pengujian Undang-Undang serta memberikan kesempatan \nkepada para Pemohon untuk memperbaiki permohonan;",
+      "start_line": 51,
+      "end_line": 59
+    },
+    {
+      "heading": "d. bahwa pada tanggal 7 Juli 2026, Mahkamah menerima surat",
+      "slug": "d-bahwa-pada-tanggal-7-juli-2026-mahkamah-menerima-surat",
+      "text": "elektronik dari para Pemohon perihal Penarikan Kembali \nPermohonan bertanggal 29 Juni 2026. Melalui surat dimaksud, pada \npokoknya para Pemohon menyatakan menarik kembali permohonan \ndengan alasan antara lain bahwa dugaan kerugian konstitusional \nyang menjadi dasar pengajuan permohonan masih dapat diperoleh \npemulihannya melalui mekanisme atau upaya hukum maupun \nadministratif lain yang tersedia sesuai dengan ketentuan peratu ran \nperundang-undangan. \ne. bahwa selanjutnya berkenaan fakta hukum sebagaimana \ndikemukakan pada huruf d di atas, pada tanggal 8 Juli 2026, \n\n \n \n3\nMahkamah telah menyelenggarakan persidangan pemeriksaan \npendahuluan dengan agenda konfirmasi penarikan permohonan  a \nquo. Dalam persidangan tersebut, para Pemohon menyampaikan \nbahwa permohonan penarikan Permohonan Nomor 225/PUU-\nXXIV/2026 sebagaimana surat yang telah diterima Mahkamah \nadalah benar, dan dengan demikian para Pemohon memohon \nkepada Mahkamah untuk menarik permohonan a quo [vide Risalah \nSidang, tanggal 8 Juli 2026, hlm. 2-3]; \nf. bahwa terhadap penarikan kembali permohonan para Pemohon \ntersebut, Pasal 35 ayat (1) UU MK menyatakan, “Pemohon dapat \nmenarik kembali Permohonan sebelum atau selama pemeriksaan \nMahkamah Konstitusi dilakukan”, dan Pasal 35 ayat (2) UU MK \nmenyatakan, “Penarikan kembali sebagaimana dimaksud pada ayat \n(1) mengakibatkan Permohonan tidak dapat diajukan kembali”; \ng. bahwa berdasarkan fakta hukum dan ketentuan sebagaimana \ndimaksud pada huruf d, huruf e dan huruf f di atas, Rapat \nPermusyawaratan Hakim pada tanggal 9 Juli 2026 telah \nberkesimpulan penarikan kembali Permohonan Nomor 225/PUU-\nXXIV/2026 adalah beralasan menurut hukum. Oleh karena itu, para \nPemohon tidak dapat mengajukan kembali permohonan a quo; \nh. bahwa berdasarkan pertimbangan hukum pada huruf g di atas, \nRapat Permusyawaratan Hakim memerintahkan Panitera \nMahkamah Konstitusi untuk mencatat perihal penarikan kembali \npermohonan para Pemohon dalam e-BRPK dan mengembalikan \nsalinan berkas permohonan kepada para Pemohon; \nMengingat : 1. Undang-Undang Dasar Negara Republik Indonesia Ta hun 1945;",
+      "start_line": 61,
+      "end_line": 100
+    },
+    {
+      "heading": "2. Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah",
+      "slug": "2-undang-undang-nomor-24-tahun-2003-tentang-mahkamah",
+      "text": "Konstitusi sebagaimana telah diubah terakhir dengan Undang-\nUndang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor \n216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554); \n\n \n \n4",
+      "start_line": 102,
+      "end_line": 110
+    },
+    {
+      "heading": "3. Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan",
+      "slug": "3-undang-undang-nomor-48-tahun-2009-tentang-kekuasaan",
+      "text": "Kehakiman (Lembaran Negara Republik Indonesia Tahun 2009 \nNomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor \n5076);",
+      "start_line": 112,
+      "end_line": 114
+    },
+    {
+      "heading": "4. Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 tentang T ata",
+      "slug": "4-peraturan-mahkamah-konstitusi-nomor-7-tahun-2025-tentang-t-ata",
+      "text": "Beracara Dalam Perkara Pengujian Undang-Undang. \nMENETAPKAN:",
+      "start_line": 116,
+      "end_line": 117
+    },
+    {
+      "heading": "4. Memerintahkan Panitera Mahkamah Konstitusi untuk mencatat pe rihal penarikan",
+      "slug": "4-memerintahkan-panitera-mahkamah-konstitusi-untuk-mencatat-pe-rihal-penarikan",
+      "text": "kembali Permohonan Nomor 225/PUU-XXIV/2026 dalam Buku Registras i \nPerkara Konstitusi Elektronik dan mengembalikan salinan berkas permohonan \nkepada para Pemohon. \n Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembila n \nHakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Adies \nKadir, Liliek Prisbawono Adi, Enny Nurbaningsih, Daniel Yusmic P. Foekh,  M. Guntur \nHamzah, Ridwan Mansyur, dan Arsul Sani, masing-masing sebagai A nggota, pada \nhari Kamis, tanggal sembilan, bulan Juli, tahun dua ribu dua puluh enam , yang \ndiucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari \nKamis, tanggal tiga puluh, bulan Jul i , tahun dua ribu dua puluh enam , selesai \ndiucapkan pukul 13.38 WIB, oleh sembilan Hakim Konstitusi, yaitu Suhartoyo selaku \nKetua merangkap Anggota, Saldi Isra, Adies Kadir, Liliek Prisba wono Adi, Enny \nNurbaningsih, Daniel Yusmic P. Foekh, M. Guntur Hamzah, Ridwan Mansyur, dan \nArsul Sani, masing-masing sebagai Anggota, dengan dibantu oleh Muchtar Hadi \nSaputra sebagai Panitera Pengganti, serta dihadiri oleh para Pe mohon, Dewan \nPerwakilan Rakyat atau yang mewakili, dan Presiden atau yang mewakili. \nKETUA, \nttd. \nSuhartoyo \n\n \n \n5\nANGGOTA-ANGGOTA, \n \nttd. \nSaldi Isra \n \nttd. \nAdies Kadir  \nttd. \nLiliek Prisbawono Adi  \nttd. \nEnny Nurbaningsih  \nttd.  \nDaniel Yusmic P. Foekh  \nttd. \nM. Guntur Hamzah \nttd. \nRidwan Mansyur \nttd. \nArsul Sani  \nPANITERA PENGGANTI, \nttd. \nMuchtar Hadi Saputra",
+      "start_line": 122,
+      "end_line": 167
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "Muhamad Agni Airlangga Galuh Saputra",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Rahmania Milla Asifah",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Jovanka Aulia Mardova",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Tulus Budi Prasetyo Nugroho",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Caila Renata Adjie Sekarwangi",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "Evelyn Alya Rahmadani",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [],
+    "respondents": [
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 32/2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup"
+    ],
+    "constitutional_articles": [],
+    "procedural_articles": [
+      "Pasal 39"
+    ],
+    "evidence": [
+      "REFERENSI:225/PUU-XXIV/2026",
+      "REFERENSI:224/PUU/PAN.MK/AP3/06/2026",
+      "REFERENSI:225/PUU/TAP.MK/Panel/06/2026tentangPembentukanPanelHakimUntukMemeriksaPerkaraNomor225/PUU-XXIV/2026",
+      "REFERENSI:225/PUU/TAP.MK/HS/06/2026"
+    ]
+  },
+  "proceedings": [
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "Sidang Pertama Mahkamah Konstitusi, bertanggal 15 Juni",
+    "Mahkamah telah menyelenggarakan sidang pemeriksaan",
+    "Mahkamah telah menyelenggarakan persidangan pemeriksaan",
+    "quo. Dalam persidangan tersebut, para Pemohon menyampaikan",
+    "Sidang, tanggal 8 Juli 2026, hlm. 2-3];",
+    "menarik kembali Permohonan sebelum atau selama pemeriksaan"
+  ],
+  "outcome": {
+    "decision_type": "ketetapan",
+    "dictum": [
+      "Mengabulkan penarikan kembali permohonan para Pemohon;",
+      "Menyatakan Permohonan Nomor 225/PUU-XXIV/2026 ditarik kembal i;",
+      "Menyatakan para Pemohon tidak dapat mengajukan kembali permo honan a quo;",
+      "Memerintahkan Panitera Mahkamah Konstitusi untuk mencatat pe rihal penarikan kembali Permohonan Nomor 225/PUU-XXIV/2026 dalam Buku Registras i Perkara Konstitusi Elektronik dan mengembalikan salinan berkas permohonan kepada para Pemohon."
+    ],
+    "summary": "Mengabulkan penarikan kembali permohonan."
+  },
+  "adjudicators": {
+    "judges": [
+      "Suhartoyo",
+      "Saldi Isra",
+      "Adies Kadir",
+      "Liliek Prisbawono Adi",
+      "Enny Nurbaningsih",
+      "Daniel Yusmic P. Foekh",
+      "M. Guntur Hamzah",
+      "Ridwan Mansyur",
+      "Arsul Sani"
+    ],
+    "clerks": [
+      "Muchtar Hadi Saputra"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "225/PUU-XXIV/2026",
+      "224/PUU/PAN.MK/AP3/06/2026",
+      "225/PUU/TAP.MK/Panel/06/2026tentangPembentukanPanelHakimUntukMemeriksaPerkaraNomor225/PUU-XXIV/2026",
+      "225/PUU/TAP.MK/HS/06/2026"
+    ],
+    "referenced_cases": [
+      "225/PUU-XXIV/2026",
+      "224/PUU/PAN.MK/AP3/06/2026",
+      "225/PUU/TAP.MK/Panel/06/2026tentangPembentukanPanelHakimUntukMemeriksaPerkaraNomor225/PUU-XXIV/2026",
+      "225/PUU/TAP.MK/HS/06/2026"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [
+      "decision_date_missing",
+      "applicants_contains_very_long_name"
+    ],
+    "needs_manual_review": true
+  }
+}

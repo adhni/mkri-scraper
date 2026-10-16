@@ -1,0 +1,1403 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "pdf_path": "data/raw_pdfs/14_PUU-XII_2014.pdf",
+    "file_name": "14_PUU-XII_2014.pdf",
+    "page_count": 67,
+    "text_extraction_engine": "pypdf",
+    "download_url": "https://s.mkri.id/public/content/persidangan/putusan/14_PUU-XII_2014.pdf"
+  },
+  "parser": {
+    "status": "partial",
+    "warnings": [
+      "review:outcome_summary_not_in_amar_style"
+    ],
+    "failed_extractors": []
+  },
+  "document": {
+    "document_type": "putusan",
+    "case_type": "PUU",
+    "case_number": "14/PUU-XII/2014",
+    "related_case_numbers": [],
+    "title": "PUTUSAN",
+    "decision_date": "2015-04-20",
+    "decision_date_raw": "dua puluh, bulan April, tahun dua ribu lima belas",
+    "summary": null
+  },
+  "sections": [
+    {
+      "heading": "pembuka",
+      "slug": "pembuka",
+      "text": "PUTUSAN \nNomor 14/PUU-XII/2014",
+      "start_line": 1,
+      "end_line": 2
+    },
+    {
+      "heading": "MAHKAMAH KONSTITUSI REPUBLIK INDONESIA",
+      "slug": "mahkamah-konstitusi-republik-indonesia",
+      "text": "[1.1] Yang mengadili  perkara konstitusi pada tingkat pertama dan terakhir, \nmenjatuhkan putusan dalam permohonan Pengujian Undang -Undang Nomor  29 \nTahun 2004 tentang Praktik Kedokteran terhadap Undang- Undang Dasar Negara \nRepublik Indonesia Tahun 1945, yang diajukan oleh:",
+      "start_line": 5,
+      "end_line": 8
+    },
+    {
+      "heading": "1. Nama : dr. Agung Sapta Adi, Sp.An.",
+      "slug": "1-nama-dr-agung-sapta-adi-sp-an",
+      "text": "Pekerjaan : dokter \n  Alamat : Bekasi Timur Regency Blok L 1/01 RT.01 RW.07 \nBurangkeng, Bekasi, Jawa Barat \n  sebagai ---------------------------------------------------------------- Pemohon I;",
+      "start_line": 10,
+      "end_line": 13
+    },
+    {
+      "heading": "2. Nama : dr. Yadi Permana, Sp.B(K)Onk.",
+      "slug": "2-nama-dr-yadi-permana-sp-b-k-onk",
+      "text": "Pekerjaan : dokter \n  Alamat  : Jalan Cilitan Besar Nomor 7 RT.05 RW.03 Jakarta \nTimur, DKI Jakarta \n  sebagai --------------------------------------------------------------- Pemohon II;",
+      "start_line": 15,
+      "end_line": 18
+    },
+    {
+      "heading": "3. Nama : dr. Irwan Kreshnamurti, Sp.OG",
+      "slug": "3-nama-dr-irwan-kreshnamurti-sp-og",
+      "text": "Pekerjaan : dokter \n  Alamat  : Jalan Baiduri Bulan Nomor 15 RT.12 RW.11 \nBidaracina, Jatinegara, Jakarta Timur, DKI Jakarta \n  sebagai -------------------------------------------------------------- Pemohon III;",
+      "start_line": 20,
+      "end_line": 23
+    },
+    {
+      "heading": "4. Nama : dr. Eva Sridiana, Sp.P.",
+      "slug": "4-nama-dr-eva-sridiana-sp-p",
+      "text": "Pekerjaan : dokter \n  Alamat  : Jalan Kemuning Dalam I Nomor 110 RT.05 RW.06 \nPejaten Timur, DKI Jakarta \n  sebagai -------------------------------------------------------------- Pemohon IV;",
+      "start_line": 25,
+      "end_line": 28
+    },
+    {
+      "heading": "5. Nama : dr. Lewis Isnadi",
+      "slug": "5-nama-dr-lewis-isnadi",
+      "text": "Pekerjaan : dokter \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n2",
+      "start_line": 30,
+      "end_line": 37
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n  Alamat  : Jalan Putat Gede Timur 4/20 Surabaya, Jawa Timur \n  sebagai --------------------------------------------------------------- Pemohon V; \nDalam hal ini masing- masing berdasarkan Surat Kuasa Khusus bertanggal 9 \nDesember 2013 memberi kuasa kepada i)  M. Luthfie Hakim, S.H., M .H.; ii) M. \nSholeh Amin, S.H., M .Hum.; iii)  Wirawan Adnan, S.H.; iv) Nani Tasmani Izzi, \nS.H.; v) Iim Abdul Halim, S.H.; vi) Farah Dwinita, S.H.; dan vii) Rini Ariany, \nS.H., M .H., yaitu advokat yang tergabung dalam Masyarakat Medikolegal \nIndonesia (MMI), dengan alamat Gedung Graha Pratama Lt.  20, Jalan M. T. \nHaryono Kavling 15, Jakarta Selatan, baik sendiri-sendiri maupun bersama- sama \nbertindak untuk dan atas nama pemberi kuasa; \nSelanjutnya disebut sebagai ------------------------------------------------- para Pemohon; \n[1.2] Membaca permohonan para Pemohon; \n M endengar keterangan para Pemohon; \n Mendengar dan membaca keterangan Presiden; \n Membaca keterangan Dewan Perwakilan Rakyat; \n Mendengar keterangan Pihak Terkait Majelis Kehormatan Disiplin \nKedokteran Indonesia, Ikatan Dokter Indonesia, dan Konsil Kedokteran Indonesia; \n Mendengar keterangan ahli Pemohon dan Presiden serta saksi Pemohon; \n Memeriksa bukti-bukti para Pemohon; \n Membaca kesimpulan para Pemohon dan Presiden;",
+      "start_line": 39,
+      "end_line": 59
+    },
+    {
+      "heading": "2. DUDUK PERKARA",
+      "slug": "2-duduk-perkara",
+      "text": "[2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan \nbertanggal 29 Januari 2014 yang diterima di Kepaniteraan Mahkamah Konstitusi \n(selanjutnya disebut Kepaniteraan Mahkamah) pada tanggal 29 Januari 2014 \nberdasarkan Akta Penerimaan Berkas Permohonan Nomor 41/PAN.MK/ 2014 dan \ntelah dicatat dalam Buku Registrasi Perkara Konstitusi dengan Nomor 14/PUU -\nXII/2014 pada tanggal 12 Februari 201 4, yang telah diperbaiki dengan \npermohonan bertanggal 17 Maret 2014 yang diterima di Kepaniteraan Mahkamah \npada tanggal 17 Maret 2014, menguraikan hal-hal sebagai berikut: \n \n \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n3",
+      "start_line": 61,
+      "end_line": 77
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nI. Kewenangan Mahkamah Konstitusi",
+      "start_line": 79,
+      "end_line": 80
+    },
+    {
+      "heading": "1. Bahwa, Pasal 24C a yat (1) UUD 1945 juncto Pasal 10 Undang- Undang",
+      "slug": "1-bahwa-pasal-24c-a-yat-1-uud-1945-juncto-pasal-10-undang-undang",
+      "text": "Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi, sebagaimana telah \ndiubah dengan Undang -Undang Nomor 8 Tahun 2011 tentang Perubahan \nAtas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konsitusi \n(UU MK), menyatakan bahwa salah satu kewenangan MK adalah \nmelakukan pengujian Undang- Undang terhadap Undang- Undang Dasar \n(judicial review);",
+      "start_line": 82,
+      "end_line": 87
+    },
+    {
+      "heading": "2. Bahwa, adapun bunyi Pasal 24C ayat (1) UUD 1945 adalah sebagai berikut,",
+      "slug": "2-bahwa-adapun-bunyi-pasal-24c-ayat-1-uud-1945-adalah-sebagai-berikut",
+      "text": "”Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final untuk menguji undang- undang \nterhadap Undang-Undang Dasar, memutus sengketa kewenangan lembaga \nnegara yang kewenangannya diberikan oleh Undang -Undang Dasar, \nmemutus pembubaran partai politik, dan memutus perselisihan tentang hasil \npemilihan umum”;",
+      "start_line": 89,
+      "end_line": 94
+    },
+    {
+      "heading": "3. Kemudian Pasal 10 ayat (1) huruf a Undang-U ndang MK antara lain",
+      "slug": "3-kemudian-pasal-10-ayat-1-huruf-a-undang-u-ndang-mk-antara-lain",
+      "text": "menyatakan: \n“Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan \nterakhir yang putusannya bersifat final” \na. Menguji Undang- undang terhadap Undang- undang Dasar Negara \nRepublik Indonesia Tahun 1945,----- dst.“",
+      "start_line": 96,
+      "end_line": 100
+    },
+    {
+      "heading": "4. Bahwa, para Pemohon dalam perkara a quo memohon agar MK dengan",
+      "slug": "4-bahwa-para-pemohon-dalam-perkara-a-quo-memohon-agar-mk-dengan",
+      "text": "kewenangan yang dimilikinya melakukan pengujian terhadap UU Nomor 29 \nTahun 2004 tentang Praktik Kedokteran, khususnya Pasal 66 ayat (3);",
+      "start_line": 102,
+      "end_line": 103
+    },
+    {
+      "heading": "5. Bahwa berdasarkan Pasal 7 ayat (1) dan ayat (2) juncto Pasal 9 ayat (1)",
+      "slug": "5-bahwa-berdasarkan-pasal-7-ayat-1-dan-ayat-2-juncto-pasal-9-ayat-1",
+      "text": "Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan \nPerundang-Undangan, menyatakan bahwa secara hierarkis kedudukan \nUUD 1945 adalah lebih tinggi dari Undang- Undang, oleh karena itu setiap \nketentuan Undang -Undang tidak boleh bertentangan dengan UUD 1945 \n(constitutie is de hoogste wet ). Dalam hal suatu Undang- Undang diduga \nbertentangan dengan Undang- Undang Dasar Negara Republik Indonesia \nTahun 1945, pengujiannya dilakukan oleh Mahkamah Konstitusi; \nBerdasarkan hal-hal tersebut di atas, maka kami selaku Penerima Kuasa  para \nPemohon berpendapat bahwa Mahkamah Konstitusi berwenang untuk \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n4",
+      "start_line": 105,
+      "end_line": 120
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nmemeriksa, mengadili dan memutus Permohonan Pengujian UU Nomor 29 \nTahun 2004 tentang Praktik Kedokteran terhadap UUD 1945 yang d iajukan \npara Pemohon; \nII. Kedudukan Hukum (Legal Standing) Pemohon",
+      "start_line": 122,
+      "end_line": 126
+    },
+    {
+      "heading": "1. Bahwa dalam permohonan pengujian Undang-Undang terhadap UUD 1945,",
+      "slug": "1-bahwa-dalam-permohonan-pengujian-undang-undang-terhadap-uud-1945",
+      "text": "agar seseorang atau suatu pihak dapat diterima kedudukan hukum ( legal \nstanding)-nya di hadapan Mahkamah, maka berdasarkan Pasal  51 ayat (1) \nUU MK menyatakan, “ Pemohon adalah pihak yang menganggap hak \ndan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya undang -\nundang, yaitu:",
+      "start_line": 128,
+      "end_line": 132
+    },
+    {
+      "heading": "2. kesatuan masyarakat hukum adat sepanjang masih hidup dan ses uai",
+      "slug": "2-kesatuan-masyarakat-hukum-adat-sepanjang-masih-hidup-dan-ses-uai",
+      "text": "dengan perkembangan masyarakat dan prinsip Negara Kesatuan \nRepublik Indonesia yang diatur dalam undang-undang;",
+      "start_line": 135,
+      "end_line": 136
+    },
+    {
+      "heading": "2. Bahwa para Pemohon berprofesi sebagai dokter, yang mempunyai Kartu",
+      "slug": "2-bahwa-para-pemohon-berprofesi-sebagai-dokter-yang-mempunyai-kartu",
+      "text": "Tanda Penduduk Indonesia sehingga karenanya dikategorikan perorangan \nwarga negara Indonesia yang telah dirugikan hak dan/atau kewenangan \nkonstitusionalnya akibat berlakunya ketentuan Pasal 66 ayat (3) UU Nomor \n29 Tahun 2004 tentang Praktik Kedokteran (UU Praktik Kedokteran).",
+      "start_line": 140,
+      "end_line": 143
+    },
+    {
+      "heading": "3. Bahwa dalam Putusan MK Nomor 11/PUU -V/2007 tanggal 20 September",
+      "slug": "3-bahwa-dalam-putusan-mk-nomor-11-puu-v-2007-tanggal-20-september",
+      "text": "2007 dan putusan- putusan MK selanjutnya, dalam salah satu \npertimbangannya MK menyatakan, “Menimbang bahwa selain memenuhi \nkualifikasi sebagaimana dimaksud oleh Pasal 51 a yat (1) huruf a UU M K, \nuntuk menetapkan bahwa Pemohon telah mengalami kerugian \nkonstitusional yang disebabkan oleh berlakunya undang- undang yang \ndimohonkan untuk diuji haruslah dipenuhi lima syarat yang bersifat kumulatif \nyaitu: \na. adanya hak konstitusional yang diberikan oleh U ndang-Undang Dasar \nNegara Republik Indonesia Tahun 1945;  \nb. hak konstitusional Pemohon tersebut dianggap oleh Pemohon telah \ndirugikan oleh berlakunya undang-undang yang sedang diuji;  \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n5",
+      "start_line": 145,
+      "end_line": 162
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id",
+      "start_line": 164,
+      "end_line": 164
+    },
+    {
+      "heading": "c. kerugian konstitusional tersebut bersifat spesifik (khusus) dan aktual",
+      "slug": "c-kerugian-konstitusional-tersebut-bersifat-spesifik-khusus-dan-aktual",
+      "text": "atau setidak -tidaknya bersifat potensial yang menurut penalaran yang \nwajar dapat dipastikan akan terjadi;",
+      "start_line": 166,
+      "end_line": 167
+    },
+    {
+      "heading": "d. adanya hubungan sebab -akibat (causal verband) antara kerugian",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian",
+      "text": "konstitusional Pemohon dengan undang -undang yang dimohonkan \nuntuk diuji;  \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi \nterjadi”;",
+      "start_line": 169,
+      "end_line": 173
+    },
+    {
+      "heading": "4. Bahwa, selanjutnya Penjelasan Pasal 51 ayat (1) UU MK menyatakan,",
+      "slug": "4-bahwa-selanjutnya-penjelasan-pasal-51-ayat-1-uu-mk-menyatakan",
+      "text": "“Yang dimaksud dengan hak konstitusional adalah hak -hak yang diatur \ndalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945”;",
+      "start_line": 175,
+      "end_line": 176
+    },
+    {
+      "heading": "5. Bahwa, tentang adanya 5 (lima) syarat kerugian konstitusional para",
+      "slug": "5-bahwa-tentang-adanya-5-lima-syarat-kerugian-konstitusional-para",
+      "text": "Pemohon dalam pengajuan permohonan ini, dapat diuraikan sebagai \nberikut: \na. Adanya hak dan/atau kewenangan konstitusional Pemohon yang \ndiberikan oleh UUD 1945: \nBahwa hak konstitusional yang diberikan oleh UUD 1945 kepada para \nPemohon adalah hak untuk memperoleh kepastian hukum yang adil dan \nhak untuk memperoleh rasa aman dan perlindungan dari ancaman \nketakutan untuk berbuat atau tidak berbuat sesuatu, sebagaimana  \nditentukan dalam Pasal 28D dan Pasal 28G ayat (1) UUD 1945. \nb. Hak dan/atau kewenangan konstitusional tersebut, dianggap telah \ndirugikan oleh berlakunya Undang-Undang yang dimohonkan pengujian; \nBahwa dengan berlakunya Pasal 66 ayat (3) UU Nomor 29 Tahun 2004 \ntentang Praktik Kedokteran telah mengakibatkan hak konstitusional para \nPemohon hilang. Sebab dengan berlakunya Pasal 66 ayat (3) tersebut \ntelah menimbulkan ketidakpastian hukum, hilangnya rasa aman dan \ntimbulnya rasa takut pada diri para Pemohon.  \nKetidakpastian hukum timbul, ketika seseorang sudah diperiksa dan \ndinyatakan tidak bersalah melakukan pelanggaran disiplin oleh Majelis \nKehormatan Disiplin Kedokteran Indonesia (MKDKI), namun dinyatakan \nbersalah dalam peradilan pidana dan/atau peradilan perdata.   \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n6",
+      "start_line": 178,
+      "end_line": 204
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nKetidakpastian hukum yang lain terjadi karena masyarakat \ndimungkingkan untuk mengabaikan proses di MKDKI dengan langsung \nmengadukan seorang dokter langsung melalui proses pidana. Hal ini \nterjadi karena frasa “tidak menghilangkan hak setiap orang untuk \nmelaporkan adanya dugaan tindak pidana kepada pihak yang \nberwenang dan/atau menggugat kerugian perdata ke pengadilan. Atas \ndasar frasa ini masyarakat umum dapat langsung mengadukan para \nPemohon secara pidana ke Polisi sebagaimana yang terjadi terhadap \ndr.Dewa Ayu Sasiary Prawan (38 tahun) ketika bermaksud menolong \npersalinan seorang pasien bernama Julia Fransiska Makatey (26) di \nrumah sakit Dr Kandau Manado, dengan cara melakukan operasi caesar \ndarurat. Setelah operasi pasien Fransiska meinggal dunia kemudian \nkeluarga pasien mengadukan dr. Ayu secara pidana yang pada \npengadilan kasas di Mahkamah Agung dinyatakan bersalah. Ketidak \npastian bagi para Pemohon terjadi karena Pasal 66 ayat 3 aquo telah \nmemberi kemungkinan kesalahan profesional seorang dokter untuk \ndinilai dan diadili oleh profesi lain diluar dokter. Sehingga sekaligus hal \nini juga menimbulkan rasa takut pada diri para Pemohon untuk \nmelakukan pertolongan kepada pasien yang membutuhkan, karena \nmeskipun telah mematahui secara ketat segala prosedur medis, tidak \nakan pernah akan dapat menutup kemungkin timbulnya kematian.",
+      "start_line": 206,
+      "end_line": 227
+    },
+    {
+      "heading": "c. Kerugian konstitusional tersebut bersifat spesifik (khusus) dan aktual",
+      "slug": "c-kerugian-konstitusional-tersebut-bersifat-spesifik-khusus-dan-aktual",
+      "text": "atau setidak -tidaknya bersifat potensial yang menurut penalaran  yang \nwajar dapat dipastikan akan terjadi;  \nKerugian spesifik dan aktual adalah seperti dalam kasusnya d r Ayu \ndiatas, kerugian yang bersifat potensial pada para Pemohon adalah \nkarena berdasarkan ketentuan Pasal 66 ayat (3) Undang-Undang a quo \nmasyarakat umum masih dimungkinan untuk mengadukan para \nPemohon baik secara pidana maupun perdata atas profesi yang \ndijalankannya. Artinya meskipun para Pemohon telah menjalankan \npelayanan medis sesuai dengan standar profesi dan standar prosedur \noperasional serta kebutuhan medis pasien, para Pemohon tetap dapat \ndipastikan dapat diadukan ke polisi untuk diproses secara pidana dan \nbernasib sama seperti dr. Ayu dan kawan- kawan. Jika keadaan \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n7",
+      "start_line": 229,
+      "end_line": 247
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \ndemikian terjadi maka menurut penalaran yang wajar para Pemohon \nakan kehilangan reputasi baiknya bahkan dapat kehilangan \npekerjaannya atau profesinya yang pada gilirannya akan menimbulkan \nkerugian yang bersifat materiil.",
+      "start_line": 249,
+      "end_line": 253
+    },
+    {
+      "heading": "d. Adanya hubungan sebab -akibat ( causal verband ) antara kerugian",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian",
+      "text": "konstitusional Pemohon dengan Undang- Undang yang dim ohonkan \nuntuk diuji \nBahwa kerugian konstitusional para Pemohon berupa hilangnya \nkepastian hukum yang adil dan hak untuk memperoleh rasa aman dan \nperlindungan dari ancaman ketakutan untuk berbuat atau tidak berbuat \nsesuatu bisa terjadi hanyalah karena ada ketentuan Pasal 66 ayat (3) \nUU Praktik Kedokteran. Dengan perkataan lain Pasal 66 ayat ( 3) \nUndang-Undang a quo adalah merupakan pintu masuk satu- satunya \ntimbulnya kerugian konstitusional bagi para Pemohon. Sebab hanya \nmelalui Pasal 66 ayat (3) itulah maka pengaduan terhadap dokter atau \nterhadap para Pemohon tidak harus melalui MKDKI, sehingga \npengaduan di luar MKDKI menjadi dimungkinkan.  \ne. Adanya kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi \nterjadi; \nJika permohonan ini dikabulkan maka pengaduan dari masyarakat \nterhadap praktik kedokteran hanya dapat  dimungkinkan melalui MKDKI \nsehingga dengan demikian memberikan kepastian hukum, memberikan \nrasa aman dan juga menghilangkan rasa takut bagi para Pemohon \ndalam menjalankan praktik kedokterannya. Sementara bagi masyarakat \npengguna jasa medis tetap memperoleh perlindungan atas pelayanan \nmedis yang dilakukan oleh para Pemohon. Karena dokter atau dokter \ngigi harus disiplin menerapkan keilmuannya dan bertindak sesuai \ndengan standar pelayanan, standar profesi, kode etik, kode perilaku \nprofesional (code of professional conduct) , standar prosedur \noperasional, ketentuan- ketentuan lainnya yang berlaku, dan kebiasaan \numum (common practise) di bidang kedokteran dan kedokteran gigi.  \nDokter dan dokter gigi yang tidak disiplin dalam penerapan keilmuannya \ndan melakukan pelanggaran Disiplin Dokter dan Dokter Gigi dapat \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n8",
+      "start_line": 255,
+      "end_line": 290
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \ndikenakan sanksi disiplin sesuai dengan ketentuan peraturan \nperundang-undangan yang berlaku.  \nUntuk menegakkan disiplin dokter dan dokter gigi dalam \npenyelenggaraan praktik kedokteran, dibentuk Majelis Kehormatan \nDisiplin Kedokteran Indonesia atau disingkat MKDKI [Pasal 55 ayat (1) \nUU Praktik Kedokteran]. \nBerdasarkan hal-hal tersebut di atas, maka kami selaku Penerima Kuasa para \nPemohon berpendapat bahwa para Pemohon memiliki kedudukan hukum (legal \nstanding) untuk bertindak sebagai Pemohon dalam permohonan pengujian \nmateriil Undang-Undang a quo. \nIII. Alasan-Alasan Pengajuan Permohonan Peng ujian Materiil U U Praktik \nKedokteran",
+      "start_line": 292,
+      "end_line": 304
+    },
+    {
+      "heading": "1. Bahwa dasar dimohonkan pengujian materiil dalam perkara ini adalah",
+      "slug": "1-bahwa-dasar-dimohonkan-pengujian-materiil-dalam-perkara-ini-adalah",
+      "text": "ketentuan Pasal 66 ayat (3) UU Praktik Kedokteran yang selengkapnya \nberbunyi: \n“Pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak \nmenghilangkan hak setiap orang untuk melaporkan adanya dugaan tindak \npidana kepada pihak yang berwenang dan/atau menggugat kerugian \nperdata ke pengadilan”",
+      "start_line": 306,
+      "end_line": 311
+    },
+    {
+      "heading": "2. Bahwa norma dalam Pasal 66 ayat (3) UU Praktik Kedokteran bertentangan",
+      "slug": "2-bahwa-norma-dalam-pasal-66-ayat-3-uu-praktik-kedokteran-bertentangan",
+      "text": "dengan dua pasal dalam UUD 1945, yaitu: \na. Pasal 28D ayat (1) UUD 1945, ”Setiap orang berhak atas pengakuan, \njaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan \nyang sama di hadapan hukum; \nb. Pasal 28G a yat (1) UUD 1945 telah diatur, ”Setiap orang berhak atas \nperlindungan diri pribadi, keluarga, kehormatan, martabat, dan harta \nbenda yang dibawah kekuasaannya, serta berhak atas rasa aman dan \nperlindungan dari ancaman ketakutan untuk berbuat atau tidak berbuat \nsesuatu yang merupakan hak asasi”;",
+      "start_line": 313,
+      "end_line": 321
+    },
+    {
+      "heading": "3. Bahwa untuk tidak terjadi m isleading dalam memahami Pasal 66 ayat (3)",
+      "slug": "3-bahwa-untuk-tidak-terjadi-m-isleading-dalam-memahami-pasal-66-ayat-3",
+      "text": "tersebut perlu kami kemukakan juga bunyi P asal 66 selengkapnya sebagai \nberikut: \nPasal 66 ayat (1): \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n9",
+      "start_line": 323,
+      "end_line": 332
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n“Setiap orang yang mengetahui atau kepentingannya dirugikan atas \ntindakan dokter atau dokter gigi dalam menjalankan praktik kedokteran \ndapat mengadukan secara tertulis kepada Ketua Majelis Kehormatan \nDisiplin Kedokteran Indonesia”.  \nPasal 66 ayat (2): \nPengaduan sekurang-kurangnya harus memuat:  \na. identitas pengadu; \nb. nama dan alamat tempat praktik dokter atau dokter gigi dan waktu \ntindakan dilakukan; dan",
+      "start_line": 334,
+      "end_line": 343
+    },
+    {
+      "heading": "4. Bahwa sebagaimana telah kami kemukakan dalam Bab II. Kedudukan",
+      "slug": "4-bahwa-sebagaimana-telah-kami-kemukakan-dalam-bab-ii-kedudukan",
+      "text": "Hukum (Legal Standing)  Pemohon, ketentuan sebagaimana yang diatur \ndalam Pasal 66 ayat (3) UU Praktik Kedokteran tersebut potensial \nmenimbulkan ketidakpastian hukum, hilangnya rasa aman dan juga \nmenimbulkan rasa takut bagi para Pemohon dalam menjalankan praktik \nkedokteran;",
+      "start_line": 346,
+      "end_line": 350
+    },
+    {
+      "heading": "5. Bahwa adapun potensi timbulnya ketidakpastian hukum, hilangnya rasa",
+      "slug": "5-bahwa-adapun-potensi-timbulnya-ketidakpastian-hukum-hilangnya-rasa",
+      "text": "aman dan timbulnya rasa takut yang ditimbulkan da ri Pasal 66 ayat (3) UU \nPraktik Kedokteran khususnya frasa “tidak menghilangkan hak setiap orang \nuntuk melaporkan adanya dugaan tindak pidana kepada pihak yang \nberwenang dan/atau menggugat kerugian perdata ke pengadilan”,  adalah \nsebagai berikut: \na. Seorang dokter atau dokter gigi dalam melaksanakan praktik kedokteran \nwajib memberikan pelayanan medis sesuai dengan standar profesi dan \nstandar prosedur operasional serta kebutuhan medis pasien ( periksa \nPasal 51 huruf a UU 29/2004, di bawah paragraf 6 Hak dan Kewaj iban \nDokter atau Dokter Gigi); \nb. Di samping itu, dokter atau dokter gigi harus disiplin menerapkan \nkeilmuannya dan bertindak sesuai dengan standar pelayanan, standar \nprofesi, kode etik, kode perilaku profesional (code of professional \nconduct), standar prosedur operasional, ketentuan -ketentuan lainnya \nyang berlaku, dan kebiasaan umum (common practise)  di bidang \nkedokteran dan kedokteran gigi.  \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n10",
+      "start_line": 352,
+      "end_line": 374
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id",
+      "start_line": 376,
+      "end_line": 376
+    },
+    {
+      "heading": "c. Dokter dan dokter gigi yang tidak disiplin dalam penerapan keilmuannya",
+      "slug": "c-dokter-dan-dokter-gigi-yang-tidak-disiplin-dalam-penerapan-keilmuannya",
+      "text": "dan melakukan pelanggaran Disiplin Dokter dan Dokter Gigi dapat \ndikenakan sanksi disiplin sesuai dengan ketentuan peraturan \nperundang-undangan yang berlaku.",
+      "start_line": 378,
+      "end_line": 380
+    },
+    {
+      "heading": "d. Untuk menegakkan disiplin dokter dan dokter gigi dalam",
+      "slug": "d-untuk-menegakkan-disiplin-dokter-dan-dokter-gigi-dalam",
+      "text": "penyelenggaraan praktik kedokteran, dibentuk Majelis Kehormatan \nDisiplin Kedokteran Indonesia atau disngkat MK DKI [ Pasal 55 ayat (1) \nUU Praktik Kedokteran].  \ne. Sanksi disiplin yang dapat dikenakan oleh MKDKI berdasarkan Undang- \nUndang Praktik Kedokteran Pasal 69 ayat (3) adalah: \n1) Pemberian peringatan tertulis;  \n2) Rekomendasi pencabutan Surat Tanda Registrasi atau Surat Izin \nPraktik; dan/atau  \n3) Kewajiban mengikuti pendidikan atau pelatihan di institusi pendidikan \nkedokteran atau kedokteran gigi.  \nf. Rekomendasi pencabutan Surat Tanda Registrasi atau Surat Izin Praktik \nyang dimaksud dapat berupa: \n1) rekomendasi pencabutan Surat Tanda Registrasi atau Surat Izin \nPraktik sementara selama-lamanya 1 (satu) tahun, atau  \n2) rekomendasi pencabutan Surat Tanda Registrasi atau Surat Izin \nPraktik tetap atau selamanya; \ng. Ketidakpastian hukum timbul, ketika seseorang sudah diper iksa dan \ndinyatakan tidak bersalah melakukan pelanggaran disiplin oleh MKDKI, \nnamun dinyatakan bersalah dalam peradilan pidana dan/atau peradilan \nperdata.  \nh. Mengapa? Karena berdasarkan pasal -pasal yang mengatur 28 Bentuk \nPelanggaran Disiplin Profesional Dokter dan Dokter Gigi  [ Peraturan \nKonsil Kedokteran Indonesia Nomor 4 Tahun 2011 t entang Disiplin \nProfesional Dokter dan Dokter Gigi Pasal 3 ayat (2) ], setiap perbuatan \npidana dan/atau perbuatan melawan hukum yang menimbulkan kerugian \nperdata berkaitan dengan profesi dokter dan dokter gigi, pasti termasuk \npelanggaran disiplin profesional dokter dan dokter gigi.",
+      "start_line": 382,
+      "end_line": 408
+    },
+    {
+      "heading": "i. Di sisi lain, tidak ada ketentuan bahwa setiap pelaporan dugaan tindak",
+      "slug": "i-di-sisi-lain-tidak-ada-ketentuan-bahwa-setiap-pelaporan-dugaan-tindak",
+      "text": "pidana kepada pihak yang berwenang dan/atau gugatan kerugian \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n11",
+      "start_line": 410,
+      "end_line": 417
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nperdata ke pengadi lan, haruslah diperiksa terlebih dahulu ada atau \ntidaknya pelanggaran disiplin  profesional dokter atau dokter gigi terkait \noleh MKDKI. \nj. Dengan demikian maka dapat saja terjadi dokter atau dokter gigi yang \ndinyatakan tidak bersalah telah melakukan pelanggar an disiplin oleh \nMKDKI, ternyata dinyatakan bersalah melakukan tindak pidana dan/atau \ntelah melakukan perbuatan melawan hukum yang menimbulkan \nkerugian perdata oleh pengadilan negeri.  \nk. Atau, dapat saja terjadi seorang dokter atau dokter gigi dinyatakan \nbersalah secara pidana dan/atau telah menimbulkan kerugian perdata \noleh pengadilan tanpa terlebih dahulu melalui proses pemeriksaan \npelanggaran disiplin profesional dokter dan dokter gigi oleh MKDKI.",
+      "start_line": 419,
+      "end_line": 431
+    },
+    {
+      "heading": "l. Begitu pula tidak ada kepastian hukum dalam hal tindakan s erupa",
+      "slug": "l-begitu-pula-tidak-ada-kepastian-hukum-dalam-hal-tindakan-s-erupa",
+      "text": "apakah seorang dokter sebagaimana para Pemohon dapat dilaporkan \natas dugaan tindak pidana kepada yang berwenang. Seharusnyalah \ndilakukan pembatasan terhadap dugaan tindak pidana serupa apa yang \nmemberikan hak kepada seseorang untuk melaporkan adanya dugaan \ntindak pidana terhadap dokter atau dokter gigi kepada pihak yang \nberwenang;",
+      "start_line": 433,
+      "end_line": 438
+    },
+    {
+      "heading": "m. Perasaan tidak aman dan rasa takut itu semakin menguat dengan",
+      "slug": "m-perasaan-tidak-aman-dan-rasa-takut-itu-semakin-menguat-dengan",
+      "text": "adanya putusan Mahkamah Agung Nomor 90/PID.B/2011/PN.MDO yang \nmenjatuhkan hukuman pidana penjara selama 10 (sepuluh) bulan \nterhadap 3 (tiga) orang rekan p ara Pemohon yaitu Dokter Dewa Ayu \nSasiary Prawani, Dokter Hendry Simanjuntak dan Dokter Hendy Siagian \natas pelayanan medis yang telah mereka berikan terhadap seorang \npasien yang melahirkan namun jiwa pasien tersebut tidak terselamatkan; \nn. Bahwa di samping hal-hal yang telah kami uraikan di atas, frasa a quo \nmembuka interpretasi sedemikian luas terhadap tindakan kedokteran \nserupa apa yang dapat dikualifikasi sebagai tindak pidana.  \no. Bahwa sebagai contoh kasus, seorang dokter yang berusaha untuk \nmenyelamatkan jiwa pasien dalam keadaan gawat darurat tanpa terlebih \ndahulu mendapatkan persetujuan tindakan dari keluarga terdekat \npasien. Sekalipun menurut Penjelasan Pasal 45 ayat (1) UU Praktik \nKedokteran disebutkan “Dalam ke adaan gawat darurat, untuk \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n12",
+      "start_line": 440,
+      "end_line": 460
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nmenyelamatkan jiwa pasien tidak diperlukan persetujuan” , tetapi ketika \nternyata jiwa pasien tersebut tidak terselamatkan, terbuka kemungkinan \nkeluarga pasien tidak puas dan menjadikan ketiadaan persetujuan \ntindakan itu sebagai pintu masuk pengajuan laporan dugaan tindak \npidana; \np. Bahwa terlebih lagi apabila tindakan kedokteran itu dalam keadaan \nnormal memerlukan pemeriksaan penunjang, misalnya pemeriksaan \nkondisi jantung, tetapi hal itu tidak dilakukan karena keadaan mendesak \nuntuk segera melakukan tindakan penyelamatan jiwa pasien dan tidak \ntersedianya waktu untuk melakukan pemeriksaan penunjang lagi. Dokter \ndalam situasi ini berpotensi dipersalahkan telah melakukan kelalaian \nyang mengakibatkan kematian seseorang; \nq. Bahwa kondisi serupa ini tentu juga menimbulkan suasana tidak aman \ndan rasa takut sehingga menekan kepercayaan diri para dokter setiap \nmenghadapi kasus serius terlebih -lebih keadaan gawat darurat, yang \npada gilirannya secara kontra produktif justru dapat membahayakan \nkeselamatan jiwa pasien atau jiwa pasien yang seharusnya masih dapat \ndiupayakan untuk diselamatkan menjadi tidak terselamatkan; \nr. Bahwa situasi yang tidak menentu serupa ini dapat mengakibatkan \nseorang dokter atau dokter gigi melakukan segala upaya untuk \nmengurangi risiko terkena kasus malpraktik dengan cara melakukan apa \nyang disebut sebagai “defensive medicine” . Defensive medicine occurs \nwhen doctors order tests, procedures, or visits, or avoid high-risk \npatients or procedures, primarily (but not necessarily or s olely) to reduce \ntheir exposure to malpractice liability (Congressional Office of \nTechnology Assessment, 1994); \ns. Bahwa seharusnya tindakan kedokteran yang dapat dibawa ke ranah \nhukum pidana dibatasi hanya terhadap tindakan kedokteran dalam dua \nkondisi saja yaitu tindakan kedokteran yang mengandung kesengajaan \n(dolus/opzet) atas akibat yang diancamkan pidana atau tindakan \nkedokteran yang mengandung kelalaian nyata/berat (culpa lata). \nTindakan di luar kedua hal itu sudah seharusnya tidak tepat dan tidak \ndapat dijadikan obj ek tindak pidana, melainkan menjadi kompetensi \nMKDKI untuk pelanggaran disiplin profesional dokter dan dokter gigi \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n13",
+      "start_line": 462,
+      "end_line": 503
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \natau kompentensi MKEK (Majelis Kehormatan Etik Kedokteran) untuk \npelanggaran etik kedokteran.  \nt. Bahwa sebagai contoh kasus tindakan kedokteran yang mengandung \nkesengajaan atas akibat yang diancamkan pidana adalah melakukan \nperbuatan yang bertujuan untuk menghentikan kehamilan yang tidak \nsesuai dengan ketentuan peraturan perundang- undangan yang berlaku. \nAdapun contoh tindakan kedokteran yang mengandung kelalaian \nnyata/berat adalah tertinggalnya peralatan medis dalam tubuh pasien, \noperasi seharusnya pada kaki kanan keliru pada kaki kiri, dan \nseterusnya;",
+      "start_line": 505,
+      "end_line": 515
+    },
+    {
+      "heading": "6. Bahwa sebagaimana telah diuraikan di atas, seorang profesional dokter",
+      "slug": "6-bahwa-sebagaimana-telah-diuraikan-di-atas-seorang-profesional-dokter",
+      "text": "sebagaimana para Pemohon dapat diadukan, diadili dan diputus bersalah \noleh sebuah lembaga bernama MKDKI (Majelis Kehormatan Disiplin \nKedokteran Indonesia) atas adanya pengaduan masyarakat atau pihak \nyang kepentingannya dirugikan atas tindakan dokter atau dokter gigi  dalam \nmenjalankan praktik kedokteran;",
+      "start_line": 517,
+      "end_line": 521
+    },
+    {
+      "heading": "7. Bahwa menurut ketentuan Pasal 55 ayat (2) dan ayat (3) UU Praktik",
+      "slug": "7-bahwa-menurut-ketentuan-pasal-55-ayat-2-dan-ayat-3-uu-praktik",
+      "text": "Kedokteran, MKDKI merupakan lembaga otonom dari Konsil Kedokteran \nIndonesia atau disingkat KKI, dan dalam menjalankan tugasnya bersifat \nindependen;",
+      "start_line": 523,
+      "end_line": 525
+    },
+    {
+      "heading": "8. Bahwa menurut ketentuan Pasal 57 ayat (1) dan ayat (2) UU Praktik",
+      "slug": "8-bahwa-menurut-ketentuan-pasal-57-ayat-1-dan-ayat-2-uu-praktik",
+      "text": "Kedokteran, kedudukan MKDKI ada di ibu kota negara Republik Indonesia, \ndan di tingkat provinsi dapat dibentuk oleh KKI atas usul MKDKI;",
+      "start_line": 527,
+      "end_line": 528
+    },
+    {
+      "heading": "9. Bahwa sebagai lembaga independen, keanggotaan MKDKI terdiri dari 3",
+      "slug": "9-bahwa-sebagai-lembaga-independen-keanggotaan-mkdki-terdiri-dari-3",
+      "text": "(tiga) orang dokter dan 3 (tiga) orang dokter gigi dari organisasi profesi \nmasing-masing, seorang dokter dan seorang dokter gigi mewakili asosiasi \nrumah sakit, dan 3 (tiga) orang sarjana hukum (periksa Pasal 59 UU Praktik \nKedokteran);",
+      "start_line": 530,
+      "end_line": 533
+    },
+    {
+      "heading": "10. Bahwa pemeriksaan pengaduan di MKDKI melibatkan berbagai ahli yang",
+      "slug": "10-bahwa-pemeriksaan-pengaduan-di-mkdki-melibatkan-berbagai-ahli-yang",
+      "text": "berhubungan dengan kasus dugaan pelanggaran disiplin kedokteran yang \ndiadukan, guna membuktikan apakah teradu dapat dikenai sanksi salah \nsatu atau lebih dari 28 bentuk pelanggaran Disiplin Profesional Dokter dan \nDokter Gigi yang diatur dalam Peraturan Konsil Kedokteran Indonesia \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n14",
+      "start_line": 535,
+      "end_line": 545
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n(“PERKONSIL”) Nomor 4 Tahun 2011 tentang Disiplin Profesional Dokter \ndan Dokter Gigi;",
+      "start_line": 547,
+      "end_line": 549
+    },
+    {
+      "heading": "11. Bahwa adapun ke- 28 bentuk pelanggaran disiplin profesional dokter dan",
+      "slug": "11-bahwa-adapun-ke-28-bentuk-pelanggaran-disiplin-profesional-dokter-dan",
+      "text": "dokter gigi itu adalah: \na. melakukan Praktik Kedokteran dengan tidak kompeten;  \nb. tidak merujuk pasien kepada Dokter atau Dokter Gigi lain yang memiliki \nkompetensi yang sesuai;",
+      "start_line": 551,
+      "end_line": 554
+    },
+    {
+      "heading": "c. mendelegasikan pekerjaan kepada tenaga kesehatan tertentu yang tidak",
+      "slug": "c-mendelegasikan-pekerjaan-kepada-tenaga-kesehatan-tertentu-yang-tidak",
+      "text": "memiliki kompetensi untuk melaksanakan pekerjaan tersebut;",
+      "start_line": 556,
+      "end_line": 556
+    },
+    {
+      "heading": "d. menyediakan Dokter atau Dokter gigi pengganti sementara yang tidak",
+      "slug": "d-menyediakan-dokter-atau-dokter-gigi-pengganti-sementara-yang-tidak",
+      "text": "memiliki kompetensi dan kewenangan yang sesuai atau tidak melakukan \npemberitahuan perihal penggantian tersebut;  \ne. menjalankan Praktik Kedokteran dalam kondisi tingkat kesehatan fisik \nataupun mental sedemikian rupa sehingga tidak kompeten dan dapat \nmembahayakan pasien;  \nf. tidak melakukan tindakan/asuhan medis yang memadai pada situasi \ntertentu yang dapat membahayakan pasien;  \ng. melakukan pemeriksaan atau pengobatan berlebihan yang tidak sesuai \ndengan kebutuhan pasien;  \nh. tidak memberikan penjelasan yang jujur, etis, dan memadai (adequate \ninformation) kepada pasien atau keluarganya dalam melakukan Praktik \nKedokteran;",
+      "start_line": 558,
+      "end_line": 569
+    },
+    {
+      "heading": "i. melakukan tindakan/asuhan medis tanpa memperoleh persetujuan dari",
+      "slug": "i-melakukan-tindakan-asuhan-medis-tanpa-memperoleh-persetujuan-dari",
+      "text": "pasien atau keluarga dekat, wali, atau pengampunya; \nj. tidak membuat atau tidak menyimpan rekam medis dengan sengaja; \nk. melakukan perbuatan yang bertujuan untuk menghentikan kehamilan \nyang tidak sesuai dengan ketentuan peraturan perundang- undangan \nyang berlaku;",
+      "start_line": 571,
+      "end_line": 575
+    },
+    {
+      "heading": "l. melakukan perbuatan yang dapat mengakhiri kehidupan pasien atas",
+      "slug": "l-melakukan-perbuatan-yang-dapat-mengakhiri-kehidupan-pasien-atas",
+      "text": "permintaan sendiri atau keluarganya;",
+      "start_line": 577,
+      "end_line": 577
+    },
+    {
+      "heading": "m. menjalankan Praktik Kedokteran dengan menerapkan pengetahuan,",
+      "slug": "m-menjalankan-praktik-kedokteran-dengan-menerapkan-pengetahuan",
+      "text": "keterampilan, atau teknologi yang belum diterima atau di luar tata c ara \nPraktik Kedokteran yang layak; \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n15",
+      "start_line": 579,
+      "end_line": 587
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nn. melakukan penelitian dalam Praktik Kedokteran dengan menggunakan \nmanusia sebagai subjek penelitian tanpa memperoleh persetujuan etik \n(ethical clearance) dari lembaga yang diakui pemerintah; \no. tidak melakukan pertolongan darurat atas dasar perikemanusiaan, \npadahal tidak membahayakan dirinya, kecuali bila ia yakin ada orang \nlain yang bertugas dan mampu melakukannya;  \np. menolak atau menghentikan tindakan/asuhan medis atau tindakan \npengobatan terhadap pasien tanpa alasan yang layak dan sah sesuai \ndengan ketentuan etika profesi atau peraturan perundang- undangan \nyang berlaku;  \nq. membuka rahasia kedokteran;  \nr. membuat keterangan medis yang tidak didasarkan kepada hasil \npemeriksaan yang diketahuinya secara benar dan patut;  \ns. turut serta dalam perbuatan yang termasuk tindakan penyiksaan \n(torture) atau eksekusi hukuman mati;  \nt. meresepkan atau memberikan obat golongan narkotika, psikotropika, \ndan zat adiktif lainnya yang tidak sesuai dengan ketentuan etika profesi \natau peraturan perundang-undangan yang berlaku; \nu. melakukan pelecehan seksual, tindakan intimidasi, atau tindakan \nkekerasan terhadap pasien dalam penyelenggaraan Praktik Kedokteran;",
+      "start_line": 589,
+      "end_line": 609
+    },
+    {
+      "heading": "v. menggunakan gelar akademik atau sebutan profesi yang bukan haknya;",
+      "slug": "v-menggunakan-gelar-akademik-atau-sebutan-profesi-yang-bukan-haknya",
+      "text": "w. menerima imbalan sebagai hasil dari merujuk, meminta pemeriksaan, \natau memberikan resep obat/alat kesehatan;",
+      "start_line": 611,
+      "end_line": 612
+    },
+    {
+      "heading": "x. mengiklankan kemampuan/pelayanan atau kelebihan kemampuan/",
+      "slug": "x-mengiklankan-kemampuan-pelayanan-atau-kelebihan-kemampuan",
+      "text": "pelayanan yang dimiliki baik lisan ataupun tulisan yang tidak benar atau \nmenyesatkan; \ny. adiksi pada narkotika, psikotropika, alkohol, dan zat adiktif lainnya; \nz. berpraktik dengan menggunakan surat tanda registrasi, surat izin praktik, \ndan/atau sertifikat kompetensi yang tidak sah atau berpraktik tanpa \nmemiliki surat izin praktik sesuai dengan ketentuan peraturan \nperundang-undangan yang berlaku; \naa. tidak jujur dalam menentukan jasa medis; \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n16",
+      "start_line": 614,
+      "end_line": 628
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nbb. tidak memberikan informasi, dokumen, dan alat bukti lainnya yang \ndiperlukan MKDKI I MKDKI -P untuk pemeriksaan atas pengaduan \ndugaan pelanggaran Disiplin Profesional Dokter dan Dokter Gigi;",
+      "start_line": 630,
+      "end_line": 633
+    },
+    {
+      "heading": "12. Bahwa setiap perbuatan pidana yang mengandung kesengajaan ( dolus)",
+      "slug": "12-bahwa-setiap-perbuatan-pidana-yang-mengandung-kesengajaan-dolus",
+      "text": "atau adanya kelalaian nyata/berat ( culpa lata) dan/atau perbuatan \nmelawan hukum yang menimbulkan kerugian perdata berkaitan dengan \nprofesi dokter dan dokter gigi, pasti juga melanggar salah satu atau lebih \ndari 28 bentuk -bentuk pelanggaran disiplin profesional dokter dan dokter \ngigi tersebut;",
+      "start_line": 635,
+      "end_line": 639
+    },
+    {
+      "heading": "13. Bahwa oleh karena itu, demi kepastian hukum sebagaimana telah kami",
+      "slug": "13-bahwa-oleh-karena-itu-demi-kepastian-hukum-sebagaimana-telah-kami",
+      "text": "dalilkan di atas, laporan adanya dugaan tindak pidana di bidang praktik \nkedokteran dan/atau gugatan kerugian perdata ke pengadilan \nseharusnyalah baru dapat dilakukan setelah putusan MKDKI memutus \ndokter atau dokter gigi teradu telah bersalah melakukan pelanggaran \ndisiplin profesional dokter atau dokter gigi yang mengandung kesengajaan \n(dolus/opzet) atau kelalaian nyata/berat ( culpa lata) dan/atau menimbulkan \nkerugian perdata;",
+      "start_line": 641,
+      "end_line": 647
+    },
+    {
+      "heading": "14. Bahwa masalah ini dapat ditemukan padanannya dengan ketentuan yang",
+      "slug": "14-bahwa-masalah-ini-dapat-ditemukan-padanannya-dengan-ketentuan-yang",
+      "text": "diatur dalam UU Nomor 8 Tahun 1999 tentang Perlindungan Konsumen \nPasal 56 ayat (5) yang menyatakan: “ Putusan Badan Penyelesaian \nSengketa Konsumen (BPSK) sebagaimana dimaksud pada ayat ( 3) \nmerupakan bukti permulaan yang cukup bagi penyidik untuk melakukan \npenyidikan”;",
+      "start_line": 649,
+      "end_line": 653
+    },
+    {
+      "heading": "15. Bahwa demikian halnya dalam Pasal 29 UU Nomor 36 Tahun 2009",
+      "slug": "15-bahwa-demikian-halnya-dalam-pasal-29-uu-nomor-36-tahun-2009",
+      "text": "tentang Kesehatan mengatur bahwa, “Dalam hal tenaga kesehatan diduga \nmelakukan kelalaian dalam menjalankan profesinya, kelalaian tersebut \nharus diselesaikan terlebih dahulu melalui mediasi”;",
+      "start_line": 655,
+      "end_line": 657
+    },
+    {
+      "heading": "16. Bahwa, berdasarkan uraian alasan- alasan yuridis tersebut di atas sudah",
+      "slug": "16-bahwa-berdasarkan-uraian-alasan-alasan-yuridis-tersebut-di-atas-sudah",
+      "text": "selayaknya Pasal 66 ayat (3) UU Praktik Kedokteran yang berbunyi \n“Pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak \nmenghilangkan hak setiap orang untuk melaporkan adanya dugaan tindak \npidana kepada pihak yang berwenang dan/atau menggugat kerugian \nperdata ke pengadilan” dinyatakan bertentangan dengan UUD 1945 dan \ntidak memiliki kekuatan hukum mengikat sepanjang tidak dipenuhi syarat \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n17",
+      "start_line": 659,
+      "end_line": 671
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nbahwa laporan dugaan tindak pidana dan/atau gugatan kerugian perdata \nke pengadilan itu harus terlebih dahulu diadukan, diperiksa dan diputus \nMKDKI dengan putusan menyatakan teradu telah bersalah melakukan \npelanggaran disiplin profesional dokter atau dokter gigi yang mengandung \nkesengajaan (dolus/opzet) atau kelalaian nyata/berat ( culpa lata) dan/atau \nmenimbulkan kerugian perdata;",
+      "start_line": 673,
+      "end_line": 679
+    },
+    {
+      "heading": "17. Bahwa sehingga Pasal 66 ayat (3) tersebut harus dibaca , “Pengaduan",
+      "slug": "17-bahwa-sehingga-pasal-66-ayat-3-tersebut-harus-dibaca-pengaduan",
+      "text": "sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak menghilangkan \nhak setiap orang untuk melaporkan adanya dugaan tindak pidana kepada \npihak yang berwenang dan/atau menggugat kerugian perdata ke \npengadilan, dengan ketentuan dugaan tindak pidana dan/atau kerugian \nperdata itu harus terlebih dahulu diadukan, diperiksa dan diputus MKDKI \ndengan putusan menyatakan teradu telah bersalah melakukan \npelanggaran disiplin profesional dokter atau dokter gigi yang mengandung \nkesengajaan (dolus/opzet) atau kelalaian nyata/berat (culpa lata) dan/atau \nmenimbulkan kerugian perdata; \nBerdasarkan hal-hal tersebut di atas, para Pemohon memohon kepada Mahkamah \nKonstitusi berdasarkan kewenangan sebagaimana diatur dalam Pasal 24C \nUndang-Undang Dasar Negara Republik Indonesia 1945, berkenan memeriksa \npermohonan para Pemohon dan memutuskan sebagai berikut: \nMenyatakan: \n Mengabulkan permohonan para Pemohon seluruhnya;  \n Pasal 66 ayat (3) UU Nomor 29 Tahun 2004 tentang Praktik Kedokteran yang \nberbunyi “Pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak \nmenghilangkan hak setiap orang untuk melaporkan adanya dugaan tindak \npidana kepada pihak yang berwenang dan/atau menggugat kerugian perdata \nke pengadilan”  bertentangan dengan UUD 1945 dan tidak memiliki kekuatan \nhukum mengikat sepanjang tidak dipenuhi syarat bahwa laporan dugaan tindak \npidana dan/atau gugatan kerugian perdata ke pengadilan itu harus terlebih \ndahulu diadukan, diperiksa dan diputus MKDKI dengan putusan menyatakan \nteradu telah bersalah melakukan pelanggaran disiplin profesional dokter atau \ndokter gigi yang mengandung kesengajaan ( dolus/opzet) atau kelalaian \nnyata/berat (culpa lata) dan/atau menimbulkan kerugian perdata;  \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n18",
+      "start_line": 681,
+      "end_line": 713
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Pasal 66 ayat (3) UU Nomor 29 Tahun 2004 tentang Praktik Kedokteran a quo \nharus dibaca, “Pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) \ntidak menghilangkan hak setiap orang untuk melaporkan adanya dugaan tindak \npidana kepada pihak yang berwenang dan/atau menggugat kerugian perdata \nke pengadilan, dengan ketentuan dugaan tindak pidana dan/atau kerugian \nperdata itu harus terlebih dahulu diadukan, diperiksa dan diputus MKDKI \ndengan putusan menyatakan teradu telah bersalah melakukan pelanggaran \ndisiplin profesional dokter atau dokter gigi yang mengandung kesengajaan \n(dolus/opzet) atau kelalaian nyata/berat (culpa lata) dan/atau menimbulkan \nkerugian perdata”;  \n Memerintahkan untuk memuat putusan ini dalam Berita Negara Republik \nIndonesia sebagaimana mestinya. \napabila Mahkamah Konst itusi berpandangan lain mohon putusan yang seadil -\nadilnya (ex aequo et bono). \n[2.2]   Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon \ntelah mengajukan alat bukti surat/tulisan yang diberi tanda bukti P-1 dan bukti P-2, \nsebagai  berikut:",
+      "start_line": 715,
+      "end_line": 732
+    },
+    {
+      "heading": "2. Bukti P-2 : Fotokopi Undang-Undang Nomor 29 Tahun 2004 tentang Praktik",
+      "slug": "2-bukti-p-2-fotokopi-undang-undang-nomor-29-tahun-2004-tentang-praktik",
+      "text": "Kedokteran. \n Selain itu, para Pemohon juga mengajukan 3 orang ahli dan 2 orang saksi \nyang menyampaikan keterangan secara lisan dan/atau tertulis pada persidangan \nMahkamah pada tanggal 4 September 2014 dan 1 Oktober 2014, yang pada \npokoknya sebagai berikut.",
+      "start_line": 735,
+      "end_line": 739
+    },
+    {
+      "heading": "1. Dr. Muhammad Arif Setiawan, S.H., M.H.",
+      "slug": "1-dr-muhammad-arif-setiawan-s-h-m-h",
+      "text": " Pasal 66 ayat (3) berkaitan erat dengan ketentuan sebelumnya yang \nmenyatakan bahwa seseorang yang mengetahui atau kepentingannya \ndirugikan atas tindakan dokter atau dokter gigi dalam menjalankan praktik \nkedokteran dapat mengadukan secara tertulis kepada Ketua Majelis \nKehormatan Disiplin Kedokteran Indonesia. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n19",
+      "start_line": 742,
+      "end_line": 753
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Pasal 63 berisi norma mengenai cara penyelesaian perselisihan yang timbul \nantara tenaga kesehatan dengan pihak pasien berkaitan dengan praktik \npelayanan medis. \n Sengketa medik adalah sengketa antara pasien melawan tenaga kesehatan \nberkaitan dengan praktik pelayanan medis. \n Sengketa medis dapat terjadi karena i) ketidakpuasan pasien terhadap \nproses atau hasil pelayanan medis yang dilakukan oleh tenaga kesehatan \ndan/atau rumah sakit; ii) ketidakpuasan pasien terhadap penyelesaian \nsengketa yang dilakukan oleh dokter dan/atau rumah sakit; atau iii) \nketidaksesuaian pemahaman logika medis antara pasien dengan dokter \ndan/atau rumah sakit. \n Hubungan antara dokter dan pasien adalah hubungan kontraktual khusus \natau kontrak terapetikal ( inspanning verbintenis ) yang menekankan pada \nkewajiban dokter untuk melak ukan upaya maksimal untuk kesembuhan \npasien. Namun tidak ada kewajiban bagi dokter untuk mencapai hasil \ntertentu bagi pasien, karena hasil upaya dokter merupakan wilayah \nkekuasaan Tuhan. \n Kondisi atau hasil yang berbeda dengan hasil yang diharapkan oleh pas ien \ntidak selalu merupakan malpraktek karena bisa jadi hal demikian adalah \nresiko medis. \n Secara etis seorang dokter justru dilarang untuk menjanjikan kesembuhan \nkepada pasien. \n UU Praktik Kedokteran tidak mengenal konsep malraktik. Istilah yang ada \ndalam UU Kesehatan adalah kesalahan atau kelalaian. \n Pasal 50 UU Praktik Kedokteran menyatakan bahwa dokter dan dokter gigi \nberhak mendapatkan perlindungan hukum sepanjang mereka \nmelaksanakan tugas sesuai dengan standar profesi, standar prosedur \noperasional, serta memenuhi kepentingan pasien. \n Sulit membedakan antara risiko medis dengan malpraktik. \n Ri siko medis ada atau inheren pada setiap tindakan medis dengan \ntingkatan yang berbeda-beda. \n Terdapat tiga kemungkinan r isiko medis, yaitu i) r isiko dan keparahan \nminimal namun harus dilakukan tindakan medis ( foreeseable but \nunavoidable); ii) r isiko sangat bermakna dan diketahui sebelum tindakan \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n20",
+      "start_line": 755,
+      "end_line": 796
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \ntetapi tetap harus dilakukan tindakan karena itu adalah satu- satunya cara \nmenolong; dan iii) apabila dilakukan tindakan akan muncul r isiko yang tidak \nterduga dan mungkin muncul akibat yang tidak diinginkan, namun tindakan \nharus tetap dilakukan. \n Aparat hukum harus berhati -hati dalam menerapkan Pasal 359 dan Pasal \n360 KUHP terhadap dokter atau dokter gigi, karena kegagalan medis tidak \nselalu akibat dari tindakan dokter atau dokter gigi, melainkan bisa jadi  \nkarena resiko medis yang secara inheren ada pada setiap tindakan medis. \n Putusan MA Nomor 365K/Pid/2012 juncto  Putusan PN Manado Nomor \n90/Pid.B/2011/PN.MDO menjatuhkan hukuman 10 bulan penjara kepada \nketiga terdakwa (dr. Ayu dkk) atas dakwaan melanggar Pasal 359 KUHP, \ntelah menimbulkan rasa takut bagi para dokter lain. \n Kompolnas menemukan beberapa kesalahan dalam penanganan kasus dr. \nAyu, dkk oleh kepolisian, yaitu: \na. masih digunakan UU 32/1992 yang sebenarnya sudah tidak berlaku; \nb. penegak hukum tidak mendalami Permenkes 512/2011 dan 519/2007;",
+      "start_line": 798,
+      "end_line": 814
+    },
+    {
+      "heading": "c. penegak hukum tidak mendalami kausa emboli, ventrikel fibrilasi, serta",
+      "slug": "c-penegak-hukum-tidak-mendalami-kausa-emboli-ventrikel-fibrilasi-serta",
+      "text": "kaitannya dengan anestesi, sehingga delik materiil tidak terungkap;",
+      "start_line": 816,
+      "end_line": 816
+    },
+    {
+      "heading": "d. penyidik dan JPU tidak meminta keterangan ahli yang netral;",
+      "slug": "d-penyidik-dan-jpu-tidak-meminta-keterangan-ahli-yang-netral",
+      "text": "e. isu hukum penggantian penata anestesi, kedudukan hukum direktur RS, \ndan dekan Fakultas Kedokteran tidak terungkap; \nf. kemungkinan salah menyikapi perbedaan tafsir pembukaan; \ng. menafsirkan seolah-olah terjadi pembiaran sangat lama; \nh. mengabaikan pertanyaan mengenai peran dr.Sp.An., pencabutan ETT, \ndan penggunaan obat tertentu;",
+      "start_line": 818,
+      "end_line": 823
+    },
+    {
+      "heading": "i. gagal membuktikan dr. Ayu sebagai pihak yang harus bertanggung",
+      "slug": "i-gagal-membuktikan-dr-ayu-sebagai-pihak-yang-harus-bertanggung",
+      "text": "jawab atas terjadinya emboli udara; \nj. diabaikannya Pasal 46 UU RS; \nk. kemungkinan manipulasi informasi oleh RS, Kadep anastesi, dan penata \nlaksana anastesi;",
+      "start_line": 825,
+      "end_line": 828
+    },
+    {
+      "heading": "l. audit medik tidak dilakukan sebagaimana perintah UU 29/2004.",
+      "slug": "l-audit-medik-tidak-dilakukan-sebagaimana-perintah-uu-29-2004",
+      "text": " Penegak hukum menggunakan Pasal 76 UU 29/2004 yang sebenarnya oleh \nMK telah dinyatakan tidak mempunyai kekuatan hukum mengikat. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n21",
+      "start_line": 830,
+      "end_line": 838
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Terdapat kesalahan fatal penerapan Pasal 359 KUHP dalam kasus dr. Ayu, \ndkk yang seharusnya membutuhkan pembuktian kausalitas antara kematian \npasien dengan tindakan terdakwa. Menurut visum et repertum  penyebab \nkematian adalah timbulnya emboli udara.  Sementara dalam pengadilan \ntidak ada pembuktian adanya hubungan kausal antara tindakan dr. Ayu dkk \ndengan timbulnya emboli udara pada pasien. \n Diperlukan norma hukum khusus dalam hal penuntutan dokter atau dokter \ngigi dalam perkara pidana untuk menghindari  terulangnya kasus dr. Ayu \ndkk. \n Terdapat dua norma yang mengatur praktik kedokteran, yaitu i) norma \ninternal berupa kode etik, dan ii) norma eksternal berupa peraturan \nperundang-undangan bidang kedokteran (UU 29/2004). Namun ternyata di \nluar kedua norma tersebut berlaku juga norma pidana umum seperti KUHP. \n MKDKI seharusnya berfungsi sebagai filter apakah suatu tindakan dokter \natau dokter gigi dapat dibawa ke ranah pidana. \n Berdasarkan Pasal 3 ayat (2)  Perkonsil 4/2011 ditentukan 28 bentuk \npelanggaran disiplin profesional dokter atau dokter gigi. \n Setiap perbuatan pidana dan/atau perbuatan melawan hukum yang \nmenimbulkan kerugian perdata berkaitan dengan praktek profesi dokter dan \ndokter gigi, dapat dipastikan termasuk pelanggaran disiplin profesional \ndokter dan dokter gigi. \n Dengan tidak adanya ketentuan bahwa setiap laporan dugaan tindak pidana \nkepada pihak yang berwenang dan/atau gugatan kerugian perdata ke \npengadilan, terlebih dahulu wajib diperiksa dan diputus oleh MKDKI \nmengenai ada/tidaknya pelanggaran disiplin profesional dokter atau dokter \ngigi maka sangat mungkin mungkin terjadi perbedaan putusan antara \nMKDKI dengan pengadilan. \n Pasal 66 ayat (3) UU Praktik Kedokteran menimbulkan ketidakpastian \nhukum apabila: \ni) penggugat dalam mengajukan gugatan, atau penyidik dan/atau penuntut \numum sebelum melakukan penyidikan atau penuntutan tidak diwajibkan \nterlebih dahulu memperoleh keputusan MKDKI atas perkara yang \ndigugat atau dilaporkan tersebut; \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n22",
+      "start_line": 840,
+      "end_line": 880
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nii) tidak adanya kewajiban untuk terlebih dahulu menjadikan salinan \nputusan MKDKI sebagai dasar penentuan kesalahan dalam hukum \npidana maupun perdata; \niii) tidak adanya norma hukum yang menentukan bahwa tindakan dokter \nyang merupakan suatu r isiko medis tidak termasuk dalam pengertian \nkesalahan prakt ik profesi medis sepanjang sudah dilakukan dengan \nstandar profesi, standar prosedur operasional, dan kebutuhan pasien \nsudah dipenuhi sesuai dengan hasil keputusan MKDKI; dan \niv) tidak adanya pembatasan jenis tindak pidana khususnya pada bentuk \nkesalahan berupa kesengajaan dan kealpaan yang bersifat berat \nsehingga yang di luar itu sebaiknya cukup menjadi domain MKEK \ndan/atau MKDKI. \n Agar perlindungan kepada pasien terpenuhi tanpa mengabaikan \nperlindungan terhadap dokter atau  dokter gigi, maka perlu ditetapkan \nnorma sebagai berikut: \ni) setiap penegakan hukum pidana mutlak diperlukan bukti berupa putusan \nMKDKI yang menyatakan dokter atau dokter gigi bersalah; \nii) resiko medis tidak termasuk dalam pengertian kesalahan prakt ik profesi \nnedis sepanjang sudah dilakukan dengan standar profesi, SOP, dan \nkebutuhan pasien, sesuai keputusan MKDKI; \niii) membatasi jenis tindak pidana yang dapat dilaporkan dan/atau dituntut \npidana berupa tindak pidana yang kesalahannya dirumuskan dalam \nbentuk kesalahan, atau jika kealpaan maka kealpaan berat dan bukan \nkealpaan ringan. \n dr. Ayu, dkk belum pernah diperiksa oleh MKDKI. Dalam putusan Hakim \nPengadilan dinyatakan penyebab kematian pasien adalah emboli, \nsementara emboli bukan merupakan malpraktik melainkan adalah r isiko. \nHal demikian yang sulit dipahami oleh Hakim yang tidak memiliki \nkompetensi di bidang kedokteran. Seandainya MKDKI telah memeriksa dr. \nAyu dkk serta menemukan penyebab emboli, maka ada atau tidaknya \nkesalahan penerapan ilmu kedokteran sudah dapat diketahui sebelum \nmasuk persidangan. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n23",
+      "start_line": 882,
+      "end_line": 921
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Gagasan MKDKI sebagai institusi filter ( screening process ) bukan suatu \nbentuk pelanggaran terhadap asas persamaan di depan hukum, melainkan \nsebagai bentuk kekhususan.",
+      "start_line": 923,
+      "end_line": 926
+    },
+    {
+      "heading": "2. Dr. M. Nasser Sp.KK, FINSDV, AADV.",
+      "slug": "2-dr-m-nasser-sp-kk-finsdv-aadv",
+      "text": " Sengketa medis adalah sengketa antara pasien atau keluarga pasien \ndengan tenaga kesehatan dan/atau fasilitas kesehatan. \n Pada umumnya sengketa medis terjadi karena buruknya komunikasi dan \nketerbatasan pemahaman pasien akan adanya batasan- batasan \nkemampuan dokter/dokter gigi. \n Keterbatasan pemahaman dan pengetahuan penegak hukum \nmengakibatkan perkara, sengketa, atau pengaduan medik senantiasa \ndidekati dengan pendekatan pidana umum. \n Hampir tidak ada lagi negara yang menggunakan pidana umum bagi kasus \nmedis, baik dalam sistem common law maupun eropa kontinental. \n Tenaga kesehatan seharusnya hanya dipidana jika: i) melakukan prakt ik di \nluar kompetensi kecuali jika ada faktor pembenar atau faktor pemaaf; ii) ada \nunsur kesengajaan atau perencanaan untuk melanggar standar tertulis dan \nhasilnya merugikan penerima jasa pelayanan kesehatan; iii) ada pembiaran \nterencana atau kelalaian kasar yang seharusnya tidak dilakukan oleh \ntenaga terdidik; iv) kelalaian atau pembiaran medik dilakukan berulang kali; \nv) tindakan medis tidak didasarkan pada indikasi medis yang kuat \nmelainkan dipengaruhi pihak ketiga; vi) melakukan atau menyuruhlakukan \norang lain yang tidak memiliki kompetensi untuk menggantikan melakukan \ntindakan kedokteran tanpa didampingi; dan vii) memberikan jasa pelayanan \nkesehatan secara melawan hukum karena tidak sesuai standar \n(unprofessional misconduct). \n Jika tindakan medis didekati dengan Pasal 184 KUHP maka hukum tidak \nmemberikan manfaat bagi masyarakat. \n Menurut American College of Legal Medicine, terdapat empat elemen \npidana medik, yaitu: i) kewajiban hukum; ii) hal ada kegagalan atau tidak \nmemenuhi standar pelayanan oleh tenaga kesehaan; iii) pelanggaran \ndimaksud mengakibatkan terjadinya cedera ( causation) yang merupakan \nhubungan sebab akibat yang nyata; dan iv) pembuktian mutlak adanya \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n24",
+      "start_line": 928,
+      "end_line": 963
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nkerugian ( damage) aktual ekonomis dan non ekonomis terhadap \nkepentingan pasien akibat ketiga hal di atas. \n Keberadaan MKDI atau lembaga sejenis perlu diperkuat melalui kewajiban \nagar MKDKI memberikan pertimbangan hukum atas tindakan profesi \nkesehatan sebelum kepolisian melakukan penyelidikan dan penyidikan. \n Penanganan kasus  medis sebaiknya selain dilakukan oleh hakim organik \nyang memiliki kompetensi bidang medik, juga dilengkapi oleh hakim ad hoc  \nsarjana hukum yang memiliki latar belakang pendidikan dokter/dokter gigi. \n Sebaiknya kasus medis ditangani hanya oleh Polisi, Jaksa, dan Hakim yang \nmemiliki kompetensi atau terlatih. \n Perkara sengketa medik sebaiknya ditangani oleh pengadilan ad hoc atau \npengadilan khusus sengketa medik. \n Pasal 6 ayat (3) UU 29/2004 harus dimaknai bahwa dalam proses \npenegakan hukum yang adil (sepanjang memenuhi syarat -syarat tertentu) \nmaka penegak hukum agar menggunakan hasil investigasi, pemeriksaan, \ndan putusan MKDKI sebagai dasar penyelidikan -penyidikan, penyusunan \ndakwaan atau pertimbangan hakim dalam putusan, mengingat dari aturan \nhukum pidana bidang kedokteran dengan aturan disiplin kedokteran \nterdapat hubungan yang sangat erat dimana praktis setiap pelanggaran \npidana di bidang kedokteran pasti juga merupakan pelanggaran disiplin \nkedokteran. \n Syarat tertentu yang dimaksud di atas adalah: i) ada bukti  bahwa praktek \nkedokteran telah mengakibatkan kerugian nyata dan langsung bagi pasien; \nii) terpenuhi asas res ipsa liquotur ; iii) bukan merupakan r isiko medik atau \nkecelakaan medik; dan iv) merupakan delik aduan. \n Pelanggaran etik dan disiplin adalah pintu masuk pelanggaran hukum. Pada \numumnya pelanggar hukum adalah juga pelanggar etik dan/atau disiplin. \n Dalam kasus dr. Ayu dkk, penyidik melakukan setidaknya 13 kesalahan, \njaksa melakukan 5 kesalahan, dan hakim melakukan 2 kekeliruan/  \nkesalahan, sehingga dr. Ayu dkk dipidana. \n Dalam beberapa laporan malpraktik, sebenarnya yang terjadi adalah \nlaporan ketidakpuasan pasien, namun tidak diterbitkan SP3 karena tenaga \nmedis dan/atau rumah sakit dijadikan ATM. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n25",
+      "start_line": 965,
+      "end_line": 1005
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Seharusnya putusan MKDKI tidak sekadar menghukum dari sisi  disiplin \nsebagaimana diatur Pasal 67 UU Praktik Kedokteran. \n MKDKI dapat melakukan sesuatu untuk menertibkan dokter yang bertindak \ntidak benar dengan cara membuat putusan yang jelas dan detail agar \nputusan MKDKI dapat dianalisa oleh aparat penegak hukum, baik polisi \natau jaksa, sehingga menjadi alat bukti bagi proses hukum. \n Banyak putusan MKDKI yang jelas dan rinci, namun putusan yang demikian \nbelum menjadi pola semua putusan MKDKI.",
+      "start_line": 1007,
+      "end_line": 1015
+    },
+    {
+      "heading": "3. Prof. Dr. dr. R. Sjamsuhidajat, Sp.B.",
+      "slug": "3-prof-dr-dr-r-sjamsuhidajat-sp-b",
+      "text": " Pasal 70 UU 29/2004 memberikan mandat  kepada KKI agar mengatur \ndisiplin dokter dan dokter gigi. \n Pasal 1 ayat (1) Perkonsil 4/2011 mendefinisikan “disiplin profesional dokter \ndan dokter gigi” sebagai “ketaatan terhadap aturan -aturan dan/atau \nketentuan penerapan keilmuan dalam pelaksanaan praktik kedokteran” . \nDengan demikian disiplin profesional dokterdan dokter gigi meliputi i) disiplin \nkedokteran yaitu ketaatan terhadap aturan -aturan, dan ii) disiplin ilmu \nkedokteran yaitu ketaatan terhadap penerapan keilmuan bidang kedokteran. \n Pelanggaran disiplin profesional dokter dan dokter gigi yang diatur dalam \nPerkonsil 4/2011 diambil dan disusun dari ketentuan pidana dalam KUHP, \nUU Praktik Kedokteran, UU Kesehatan, Kode Etik Kedokteran, serta \nkebiasaan lain yang diterima di lingkungan profesi kedokteran dan \nkedokteran gigi. \n Melanggar ketentuan hukum pasti melanggar disiplin, tetapi melanggar \ndisiplin belum tentu melanggar hukum. \n Pasal 66 ayat (1) UU 29/2004 merupakan delik aduan. \n MKDKI seharusnya menemukan pelanggaran disiplin yang dilakukan dokter \ntanpa harus berawal dari adanya aduan. Pedoman MKDKI adalah Perkonsil \nNomor 4 Tahun 2011 yang mengandung 28 jenis pelanggaran. \n Hasil pemeriksaan MKDI dapat berupa: \na. tidak ditemukan pelanggaran terhadap disiplin kedokteran. \nb. ditemukan pelanggaran terhadap disiplin kedokteran. Pelanggaran ini \ntidak serta merta dapat menjadi sebab langsung ( direct causation) \ntimbulnya kerugian yang dapat berupa sakit berkepanjangan, cacat, atau \nmeninggal. Pembuktian yang demikian menjadi tugas pengadilan umum. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n26",
+      "start_line": 1017,
+      "end_line": 1048
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Penegak hukum menjadikan putusan MKDKI dalam penegakan disiplin \nkedokteran, yang memutuskan dokter teradu telah melanggar disiplin \nkedokteran, sebagai bahan permulaan dalam pembuktian ada atau tidaknya \ndirect causation dimaksud. \n Beberapa negara telah membentuk Medical Malpractic e Court (MMC) yang \nberwenang menangani perkara ranah civil code  atau penal code, dengan \nanggota majelis hakim adalah dokter dan ahli hukum. Indonesia baru \nmemiliki medical disciplinary tribunal yaitu MKDKI. \n Indonesia belum memiliki MMC sehingga sebelum suatu perkara dibawa ke \npengadilan  umum, harus terlebih dahulu diperiksa oleh MKDKI, dan \nputusan MKDKI menjadi bukti permulaan untuk penanganan perkara \nselanjutnya. \n Penegakan hukum di bidang kedokteran harus berhati -hati agar seimbang \nantara perlindungan hukum terhadap nyawa dan badan pasien dari \nkemungkinan kelalaian dalam tindakan kedokteran, dengan perlindungan \nprofesi kedokteran. \n Penggunaan ahli bidang ilmu kedokteran dalam persidangan yang seluruh \nanggota majelis hakim dari kalangan ahli hukum, sudah tidak memadai lagi \nuntuk menegakkan fakta yang tepat dan akurat ( beyond reasonable doubt )",
+      "start_line": 1050,
+      "end_line": 1069
+    },
+    {
+      "heading": "di bidang dugaan medical malpractice. Hal demikian karena pesatnya",
+      "slug": "di-bidang-dugaan-medical-malpractice-hal-demikian-karena-pesatnya",
+      "text": "perkembangan ilmu dan teknologi sehingga dibutuhkan hakim yang \nmengetahui secara langsung fakta medical practice. \n Praktik kedokteran defensif telah dilaksanakan oleh para dokter di Indonesia \nkarena adanya kekhawatiran tuntutan dari pasien atau keluarganya jika \npemeriksaan tidak mendukung penegakan diagnosis. \n Praktik kedokteran defensif berupa dokter meminta banyak jenis \npemeriksaan yang sebenarnya tidak diperlukan. \n Akibat praktik kedokteran defensif adalah biaya pelayanan tinggi dan praktik \nkedokteran keliru. \n Emboli adalah adanya benda lain selain darah di dalam pembuluh darah. \nEmboli yang cukup banyak dalam pembuluh balik akan berbahaya karena \nparu-paru tidak mendapat pasokan darah sehingga mengakibatkan \nkematian mendadak. \n Emboli kecil tidak menyebabkan kematian kecuali berada di titik kritis. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n27",
+      "start_line": 1071,
+      "end_line": 1091
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Penyebab emboli besar antara lain dalam operasi yang mengakibatk an \nterbukanya pembuluh darah besar. \n Ahli berpandangan bahwa operasi caesar  seperti yang dilakukan oleh dr. \nAyu tidak menyebabkan emboli. Untuk memastikan apakah emboli tersebut \ndiakibatkan oleh tindakan operasi atau bukan, hal demikian harus dilakukan \npemeriksaan. \n Defensive medicine negatif antara lain berupa dokter tidak bersedia \nmenangani atau merujuk ke dokter lain apabila dihadapkan pada kasus \nyang membuatnya ragu-ragu atau takut bertindak. \n Defensive medicine positif antara lain dalam bentuk pemeriksaan  yang \nberlebihan terhadap kasus yang sebenarnya tidak perlu pemeriksaan lebih. \nHal demikian mengakibatkan biaya tinggi. \n Undang-Undang menyatakan bahwa MKDKI dapat dibentuk di tingkat \nprovinsi. Di Amerika dan Australia hanya ada satu medical disciplinary \ntribunal di setiap negara bagian. \n Di negara lain pihak yang mengetahui/menilai tingkat disiplin profesional \nseorang dokter adalah lingkungannya, yaitu sesama dokter, perawat, dosen \npembimbing, mahasiswa, dekan, kepala rumah sakit, dsb, yang kemudian \nkesalahan disiplin tersebut dilaporkan kepada board untuk diambil tindakan. \nBoard tidak mungkin mengetahui disiplin seorang dokter karena board  \nberada jauh dari dokter bersangkutan. \n Board akan menjatuhkan hukuman disiplin yang hukumannya menyangkut \nizin praktik. \n M KEK (IDI) ada di setiap provinsi dan beberapa wilayah di bawah provinsi. \nMasalah etik diselesaikan di tingkat paing rendah. Jika terlalu berat akan \ndibawa ke tingkat provinsi, dan jika masih terlalu berat akan diselesaikan di \ntingkat pusat. Kode etik IDI disusun dan ditetapkan oleh para dokter sendiri \nuntuk kemudian disetujui dalam forum muktamar. Sedangkan pedoman \ndisiplin disusun oleh lingkungan tempat dokter tersebut bekerja, antara lain \nrumah sakit atau fakultas kedokteran. \n Fungsi majelis disiplin perlu  ditata ulang karena MKDKI seharusnya hanya \nmenyelesaikan masalah disiplin saja dan bukan menyelesaikan masalah \nhukum. \n \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n28",
+      "start_line": 1093,
+      "end_line": 1134
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id",
+      "start_line": 1136,
+      "end_line": 1136
+    },
+    {
+      "heading": "1. dr. Dewa Ayu Sasiary",
+      "slug": "1-dr-dewa-ayu-sasiary",
+      "text": " Pada April 2010, status saksi adalah peserta didik program spesialis di \nUniversitas Sam Ratulangi, Manado. \n Saat bekerja di RS, saksi menerima pasien rujukan dari Puskesmas. Saksi \nmemutuskan agar pasien menjalani persalinan secara normal. Proses \npersalinan awalnya lancar namun kemudian terjadi kamacetan janin \n(prolong), kemudian saksi sebagai dokter piket melapor kepada dosen \npembimbing, yang akhirnya diputuskan dilakukan operasi caesar. \n Operasi caesar pada awalnya berjalan lancar namun kemudian pasien \nmeninggal. \n Satu bulan kemudian saksi dipanggil oleh pihak kepolisian dan diperiksa. \n Saksi menerangkan kronologis kejadian dan menerangkan bahwa sudah \ndilakukan visum et repertum  terhadap pasien yang visum tersebut \nmenerangkan bahwa kematian pasien adalah akibat emboli, dan bukan \nakibat tindakan operasi. \n Kepolisian tidak memperdulikan hasil visum et repert um dan mengarahkan \npemeriksaan pada kompetensi saksi yang saat itu masih mahasiswa \nspesialis. \n Dalam persidangan, ahli yang diajukan saksi sudah menjelaskan bahwa \nkematian pasien adalah akibat emboli dan bukan akibat operasi, namun \njaksa tidak menggunakan keterangan/keahlian dari ahli. \n Saksi menyayangkan bahwa dirinya diperiksa dan diadili oleh aparat yang \ntidak mengerti mengenai ilmu kedokteran. Seharusnya saksi diperiksa oleh \nmajelis atau lembaga yang memiliki kompetensi di bidang kedokteran/  \nmedis. \n Pengadilan negeri menjatuhkan vonis bebas murni terhadap saksi. \n Terhadap putusan bebas tersebut jaksa mengajukan kasasi yang kemudian \nMA mengabulkan kasasi dengan menjatuhkan vonis kurungan 10 bulan \nterhadap saksi. \n Setelah keluar dari penjara saksi kembali praktek dengan lebih berhati -hati. \nSaksi melakukan praktik defensive medicine  berupa saksi memeriksa dan \nmenjelaskan perlunya suatu tindakan kepada pasien, yang jika pasien \nmenolak maka saksi tidak memaksa. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n29",
+      "start_line": 1139,
+      "end_line": 1177
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Sebelum dipidana, dalam prakteknya saksi selalu berusaha menerangkan \npentingnya tindakan medis yang direkomendasikannya.",
+      "start_line": 1179,
+      "end_line": 1181
+    },
+    {
+      "heading": "2. dr. Reza Kamal",
+      "slug": "2-dr-reza-kamal",
+      "text": " Pada Oktober 2009 saksi di RS didatangi pasien dengan keluhan terlambat \nhaid. \n Saksi memeriksa dengan USG dan menemukan kantong kehamilan di \nbagian tuba kiri. Ternyata kasus tersebut adalah kehamilan di luar \nkandungan dengan usia janin 7 minggu dan tidak ada denyut jantung, dan \nukuran kantung kehamilan 2,5 cm. \n Saksi menerangkan adanya dua pilihan, yang pertama adalah operasi atau \ndisuntik MTX. \n Saksi merekomendasikan agar pasien disuntik MTX. Karena tidak ada \nsuntikan MTX di RS saksi, kemudian pasien dirujuk ke RS lain. \n Dua hari kemudian pasien berobat ke RS lain dan dinyatakan kehamilan di \ndalam rahim. \n Saksi menyarankan agar pasien diperiksa USG di RS Cipto. Namun pasien \ntidak mau dan tetap pergi ke RS lain. \n Satu bulan kemudian pasien mendatangi saksi untuk meminta \npertanggungjawaban karena penggunaan MTX yang mengakibatkan \nkematian mudigah. \n Kemudian pasien dan kuasa hukumnya melaporkan dan menuntut saksi \nsecara pidana dan perdata, serta memberitakan hal tersebut di lima media \nmassa. \n Melalui bantuan kuasa hukum saksi, terjadi perdamaian dan pasien telah \nmeminta maaf serta menarik laporan ke polisi. Namun ternyata proses di \nkepolisian terus berjalan, dan berakhir setelah berjalan 2,5 tahun karena \ntidak ada alat bukti yang ditemukan polisi. \n Saksi merasa dirugikan karena kehilangan pasien, tertekan, tidak lagi \nbergairah bekerja, dan akhirnya pada bulan ini (Oktober 2014) \nmengundurkan diri dari RS tempatnya bekerja. \n Dari beberapa kasus  yang diamati saksi, perkara teman- teman saksi yang \ndilaporkan kepada MKDKI selesai lebih cepat dibanding pemeriksaan kasus \nsaksi oleh kepolisian. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n30",
+      "start_line": 1183,
+      "end_line": 1219
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n[2.3] Menimbang bahwa terhadap permohonan para Pemohon, Presiden  \nmenyampaikan keterangan dalam persidangan tanggal 8 April 2014 dan telah \nmenyampaikan keterangan secara  tertulis yang diterima di Kepaniteraan pada \ntanggal 19 Mei 2014 , yang pada pokoknya sebagai berikut. \nI.  Pokok Permohonan Pemohon",
+      "start_line": 1221,
+      "end_line": 1226
+    },
+    {
+      "heading": "1. Menurut Para Pemohon ketentuan Pasal 66 ayat (3) Undang- Undang",
+      "slug": "1-menurut-para-pemohon-ketentuan-pasal-66-ayat-3-undang-undang",
+      "text": "Praktik Kedokteran, khususnya frasa ”Pengaduan sebagaimana dimaksud \npada ayat (1) dan ayat (2) tidak menghilangkan hak setiap orang untuk \nmelaporkan adanya dugaan tindak pidana kepada pihak yang berwenang” \nmembuka interpretasi yang luas terhadap tindakan kedokteran yang dapat \ndikualifikasi sebagai tindak pidana.",
+      "start_line": 1228,
+      "end_line": 1232
+    },
+    {
+      "heading": "2. Bahwa menurut para Pemohon, seharusnya tindakan kedokteran yang",
+      "slug": "2-bahwa-menurut-para-pemohon-seharusnya-tindakan-kedokteran-yang",
+      "text": "dapat dibawa ke ranah hukum pidana hanya terhadap tindakan kedokteran \nyang mengandung unsur kesengajaan ( dolus/opzet) dan tindakan \nkedokteran yang mengandung unsur kelalaian nyata atau berat ( culpa lata) \nkarena di luar kedua hal itu tidak tepat dan tidak dapat dijadikan objek \ntindak pidana, melainkan menjadi kompetensi MKDKI untuk Pelanggaran \nDisiplin Profesi Kedokteran (28 bentuk pelanggaran disiplin kedokteran \ndalam Perkonsil Nomor 4 Tahun 2011) atau kompetensi MKEK (Majelis \nKehormatan Etik Kedokteran) untuk pelanggaran etik kedokteran.",
+      "start_line": 1234,
+      "end_line": 1241
+    },
+    {
+      "heading": "3. Bahwa demi kepastian hukum, maka seharusnya penyidikan atas laporan",
+      "slug": "3-bahwa-demi-kepastian-hukum-maka-seharusnya-penyidikan-atas-laporan",
+      "text": "dugaan pidana di bidang kedokteran baru dapat dimulai setelah adanya \nkeputusan Majelis Kehormatan Disiplin Kedokteran Indonesia (MKDKI) \nyang menyatakan dokter teradu bersalah dan kesalahan itu mengandung \nkesengajaan ( dolus) atau kelalalian ( culpa lata) yang menyebabkan rasa \ntakut bagi para Pemohon dalam menjalankan praktik kedokterannya \nsehingga dapat mengakibatkan kehilangan reputasi baik bahkan kehilangan \npekerjaannya.",
+      "start_line": 1243,
+      "end_line": 1249
+    },
+    {
+      "heading": "4. Bahwa menurut para Pemohon Ketentuan Pasal 66 ayat (3) Undang-",
+      "slug": "4-bahwa-menurut-para-pemohon-ketentuan-pasal-66-ayat-3-undang",
+      "text": "Undang Praktik Kedokteran bertentangan dengan Pasal 28D ayat  (1) dan \nPasal 28G ayat (1) Undang -Undang Dasar 1945 dan frasa ” Pengaduan \nsebagaimana dimaksud pada ayat (1) dan ayat (2) tidak menghilangkan hak \nsetiap orang untuk melaporkan adanya dugaan tindak pidana kepada pihak \nyang berwenang”, tidak mempunyai kekuatan hukum yang mengikat kecuali \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n31",
+      "start_line": 1251,
+      "end_line": 1262
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \ndimaknai ”pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) \ntidak menghilangkan hak setiap orang untuk melaporkan adanya dugaan \ntindak pidana kepada pihak yang berwenang, sebatas hanya berlaku \nterhadap tindakan kedokteran yang mengandung unsur kesengajaan \n(dolus/opzet) atau akibat yang diancamkan pidana atau tindakan \nkedokteran yang mengandung kelalaian nyata/berat ( culpa lata) dan telah \ndinyatakan terbukti demikian terlebih dahulu dalam persidangan MKDKI”. \nII. Kedudukan Hukum Pemohon \nSesuai dengan Ketentuan Pasal 51 ayat (1) Undang- Undang Nomor 24 Tahun \n2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan \nUndang-Undang Nomor 8 Tahun 2011 menyatakan bahwa Pemohon adalah \npihak yang menganggap hak dan/atau kewenangan konstitusionalnya dirugikan \noleh berlakunya Undang-Undang, yaitu: \na. p erorangan warga negara Indonesia. \nb. kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai \ndengan perkembangan masyarakat dan prinsip Negara Kesatuan Republik \nIndonesia yang diatur di dalam Undang-Undang.",
+      "start_line": 1264,
+      "end_line": 1281
+    },
+    {
+      "heading": "d. l embaga negara.",
+      "slug": "d-l-embaga-negara",
+      "text": "Ketentuan di atas dipertegas dalam penjelasannya bahwa yang dimaksud \ndengan hak konstitusional adalah hak -hak yang diatur dalam Undang- Undang \nDasar 1945, maka terlebih dahulu harus menjelaskan dan membuktikan: \na. Kualifikasinya dalam permohonan a quo sebagaimana disebut dalam Pasal \n51 ayat (1) Undang -Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi sebagaimana telah diubah dengan Undang- Undang Nomor 8 \nTahun 2011. \nb. Hak dan/atau kewenangan konstitusionalnya dalam kualifikasi dimaksud \nyang dianggap telah dirugikan oleh berlakunya Undang-Undang yang diuji.",
+      "start_line": 1284,
+      "end_line": 1292
+    },
+    {
+      "heading": "c. Kerugian hak dan/atau kewenangan konstitusional Pemohon sebagai akibat",
+      "slug": "c-kerugian-hak-dan-atau-kewenangan-konstitusional-pemohon-sebagai-akibat",
+      "text": "berlakunya Undang-Undang yang dimohonkan pengujian. \nLebih lanjut Mahkamah Konstitusi telah memberikan pengertian dan batasan \nkumulatif tentang kerugian hak dan/atau kewenangan konstitusional yang \ntimbul karena berlakunya suatu Undang- Undang, sebagaimana dimaksud \ndalam Pasal 51 ayat (1) Undang -Undang Nomor 24 Tahun 2003 tentang \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n32",
+      "start_line": 1294,
+      "end_line": 1305
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nMahkamah Konstitusi sebagaimana telah diubah dengan Undang- Undang \nNomor 8 Tahun 2011, maupun berdasarkan Putusan- Putusan Mahkamah \nKonstitusi terdahulu ( vide Putusan Nomor 006/PUU -III/2005 dan putusan -\nputusan berikutnya), harus memenuhi 5 syarat, yaitu: \na. a danya hak konstitusional Pemohon yang diberikan oleh Undang -Undang \nDasar Negara Republik Indonesia Tahun 1945. \nb. hak konstitusional Pemohon tersebut dianggap oleh Pemohon telah \ndirugikan oleh suatu Undang-Undang yang diuji.",
+      "start_line": 1307,
+      "end_line": 1315
+    },
+    {
+      "heading": "c. kerugian konstitusional Pemohon yang dimaksud bersifat spesifik dan aktual",
+      "slug": "c-kerugian-konstitusional-pemohon-yang-dimaksud-bersifat-spesifik-dan-aktual",
+      "text": "atau setidaknya bersifat potensial yang menurut penalaran yang wajar \ndapat dipastikan akan terjadi.",
+      "start_line": 1317,
+      "end_line": 1318
+    },
+    {
+      "heading": "d. a danya hubungan sebab- akibat antara kerugian dan berlakunya Undang -",
+      "slug": "d-a-danya-hubungan-sebab-akibat-antara-kerugian-dan-berlakunya-undang",
+      "text": "Undang yang dimohonkan untuk diuji, dan \ne. a danya kemungkinan bahwa dengan dikabulkannya permohonan, maka \nkerugian konstitusional yang didalilkan tidak akan atau tidak lagi terjadi. \nAtas hal -hal tersebut di atas kiranya perlu dipertanyakan kepentingan para \nPemohon, apakah sudah tepat sebagai pihak yang menganggap hak dan/atau \nkewenangan konstitusionalnya dirugikan atas berlakunya Ketentuan Pasal 66 \nayat (3) Undang-Undang Praktik Kedokteran. Terhadap kedudukan hukum para \nPemohon, Pemerintah menyerahkan sepenuhnya kepada Mahkamah untuk \nmenilai dan memutuskannya. \nIII. Keterangan Presiden atas Materi Permohonan yang Dimohonkan untuk \nDiuji \nPembangunan bidang kesehatan pada dasarnya ditujukan untuk meningkatkan \nkesadaran, kemauan, dan kemampuan hidup sehat bagi setiap orang untuk \nmewujudkan derajat kesehatan yang optimal sebagai salah satu unsur \nkesejahteraan, sebagaimana diamanatkan oleh Pembukaan Undang- Undang \nDasar Negara Republik Indonesia Tahun 1945. Untuk itu bidang kesehatan \nperlu ditegakkan melalui penyelenggaraan pembangunan di bidang kesehatan \nyang berkualitas dan terjangkau oleh masyarakat luas. \nDokter dan dokter gigi merupakan salah satu komponen utama pemberi \npelayanan kesehatan kepada masyarakat yang mempunyai peranan penting \nkarena terkait langsung dengan pemberian pelayanan kesehatan dan mutu \npelayanan sehingga wajib untuk memberikan layanan yang berkualitas bagi \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n33",
+      "start_line": 1320,
+      "end_line": 1348
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nmasyarakat. Dokter dan dokter gigi harus memiliki etik dan moral yang tinggi, \nkeahlian, dan kewenangan yang secara terus -menerus ditingkatkan mutunya \nmelalui pendidikan dan pelatihan berkelanjutan, sertifikasi, registrasi, lisensi, \nserta pembinaan, pengawasan, dan pemantauan, agar penyelenggaraan \npraktik kedokteran sesuai dengan perkembangan ilmu pengetahuan dan \nteknologi, serta kompetensi yang dimiliki. \nDokter dan dokter gigi dengan perangkat keilmuan yang dimilikinya mempunyai \nkarakteristik yang khas. Kekhasannya ini terlihat dari pembenaran yang \ndiberikan oleh hukum, yaitu diperkenankannya melakukan tindakan medis \nterhadap tubuh manusia dalam upaya memelihara dan meningkatkan derajat \nkesehatan. Oleh karena itu, tindakan medis terhadap tubuh manusia yang \ndilakukan bukan oleh dokter atau dokter gigi dapat digolongkan sebagai tindak \npidana. Berkurangnya kepercayaan masyarakat terhadap dokter dan dokter \ngigi, termanifestasi dengan maraknya tuntutan hukum yang diajukan \nmasyarakat dewasa ini, seringkali dipicu oleh kegagalan upaya penyembuhan \nyang dilakukan oleh dokter dan dokter gigi. Padahal dokter dan dokter gigi \ndengan perangkat ilmu pengetahuan dan teknologi yang dimilikinya hanya \nmampu berupaya untuk menyembuhkan dengan melakukan pengobatan yang \nterbaik bagi pasien, dan kegagalan penerapan ilmu kedokteran dan kedokteran \ngigi pada pasien tidak selalu identik dengan kesalahan dalam merencanakan \natau melakukan tindakan medis. \nMemerhatikan kenyataan dan kebutuhan untuk memberikan perlindungan dan \nkepastian hukum kepada penerima pelayanan kesehatan masyarakat, juga \ndalam rangka melindungi dokter dan dokter gigi sebagai pemberi pelayanan \nkesehatan, maka diperlukan pengaturan mengena i penyelenggaraan praktik \nkedokteran. \nDokter dan dokter gigi dalam menjalankan praktik kedokteran, selain tunduk \nkepada ketentuan hukum yang berlaku juga harus menaati ketentuan kode etik \nyang disusun oleh organisasi profesi dan ketentuan disiplin ilmu kedokteran \natau kedokteran gigi yang disusun oleh Konsil Kedokteran Indonesia. Dugaan \npelanggaran kode etik kedokteran akan disidangkan dan diberi sanksi oleh \nMajelis Kehormatan Etik Kedokteran, sedangkan dugaan pelanggaran \npenerapan disiplin kedokteran disidangkan dan diberi sanksi disiplin oleh \nMajelis Kehormatan Disiplin Kedokteran Indonesia. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n34",
+      "start_line": 1350,
+      "end_line": 1391
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nSehubungan dengan permohonan pengujian ketentuan Pasal 66 ayat (3) \nUndang-Undang Praktik Kedokteran yang menyatakan, ”Pengaduan \nsebagaimana dimaksud pada ayat (1) dan ayat (2) tidak menghilangkan hak \nsetiap orang untuk melaporkan adanya dugaan tindak pidana kepada pihak \nyang berwenang.” \nPasal 66 ayat (1) dan ayat (2) menyatakan: \nayat (1),  ”Setiap orang yang mengetahui atau kepentingannya dirugikan atas \ntindakan dokter atau dokter gigi dalam menjalankan praktik \nkedokteran dapat mengadukan secara tertulis kepada Ketua Majelis \nKehormatan Disiplin Kedokteran Indonesia”. \nayat (2), ”Pengaduan sekurang-kurangnya harus memuat: \na.  identitas pengadu; \nb.  nama dan alamat tempat praktik dokter atau dokter gigi dan waktu \ntindakan dilakukan; dan",
+      "start_line": 1393,
+      "end_line": 1407
+    },
+    {
+      "heading": "c. alasan pengaduan.”",
+      "slug": "c-alasan-pengaduan",
+      "text": "Adapun penjelasan Pasal 66 ayat (3) menyatakan sebagai berikut: \n”Yang dimaksud dengan ”setiap orang” adalah orang yang secara \nlangsung mengetahui atau kepentingannya dirugikan atas tindakan \ndokter atau dokter gigi yang menjalankan praktik kedokteran. \nTermasuk juga dalam pengertian ”orang” adalah korporasi (badan) \nyang dirugikan kepentingannya.” \nKetentuan a quo oleh Para Pemohon dianggap bertentangan dengan ketentuan \nPasal 28D ayat (1) dan Pasal 28G ayat (1) Undang- Undang Dasar 1945, yang \nmenyatakan: \nPasal 28D ayat (1) \n”Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian \nhukum yang adil serta perlakuan yang sama di hadapan hukum.” \nPasal 28G ayat (1) \n”Setiap orang berhak atas perlindungan diri pribadi, keluarga, kehormatan, \nmartabat, dan harta benda yang di bawah kekuasaannya, serta berhak atas \nrasa aman dan perlindungan dari ancaman ketakutan untuk berbuat atau tidak \nberbuat sesuatu yang merupakan hak asasi.” \nTerkait dengan permohonan Para Pemohon yang meminta ketentuan a quo \ndimaknai ”Pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n35",
+      "start_line": 1409,
+      "end_line": 1434
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nmenghilangkan hak setiap orang untuk melaporkan adanya dugaan tindak \npidana kepada pihak yang berwenang sebatas hanya berlaku terhadap \ntindakan kedokteran yang mengandung unsur kesengajaan (dolus/opzet)  atas \nakibat yang diancamkan pidana atau tindakan kedokteran yang mengandung \nkelalaian nyata/berat (culpa lata)  dan telah dinyatakan terbukti demikian \nterlebih dahulu dalam persidangan MKDKI”,  Pemerintah memberikan \nketerangannya sebagai berikut: \nTerhadap anggapan Pemohon yang mendalilkan kasus pidana dr. Dewa Ayu \nSasiary Prawani, Sp.OG., dan kawan- kawan sebagai dasar masyarakat umum \nuntuk dapat langsung mengadukan secara pidana ke polisi dengan \nmengabaikan proses di MKDKI, di mana dalam Putusan Peninjauan Kembali \nNomor 79 PK/PID/2013 tanggal 7 Februari 2014 telah memutus bebas dr. \nDewa Ayu Sasiary Prawani, Sp.OG., dan kawan- kawan. Dengan demikian \nkasus dr. Dewa Ayu bukanlah kasus yang terkait isu konstitusional, melainkan \npenerapan hukum yang keliru. \nOleh karena itu, berdasarkan hal tersebut di atas, Pemerintah berpendapat \npada dasarnya ketentuan a quo dibuat dalam rangka menjaga keseimbangan \nantara dokter dengan pasien agar dokter dalam melaksanakan tugasnya sesuai \ndengan perspektif praktik kedokteran yang ada. Di sisi lain, masyarakat \ndiberikan perlindungan dalam memperoleh tindakan kedokteran yang sesuai \ndengan Standar Operasional Prosedur (SOP). Oleh karena itu,  terhadap hal di \natas Pemerintah menyerahkan kepada Mahkamah Konstitusi untuk menilai, \napakah hal ini terkait dengan isu konstitusionalitas Pemohon terhadap \nketentuan a quo atau masalah implementasi oleh penegak hukum yang \nmenafsirkan norma dalam ketentuan a quo yang tidak sesuai, dimana para \npenegak hukum kurang jeli, kurang waspada, dan kurang sempurna dalam \nmelaksanakan atau melakukan penyelidikan dan penyidikan. Sehingga dari \ndalil Pemohon dianggap bertentangan dengan Pasal 28H ayat (1) Undang-\nUndang Dasar Tahun1945 yang menyatakan, “Setiap orang berhak hidup \nsejahtera lahir dan batin, bertempat tinggal, dan mendapatkan lingkungan \nhidup yang baik dan sehat serta berhak memperoleh pelayanan kesehatan”. \nIV. Petitum \nBerdasarkan keterangan tersebut di atas, Pemerintah menyerahkan \nsepenuhnya kepada Mahkamah Konstitusi untuk memeriksa, mengadili, dan \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n36",
+      "start_line": 1436,
+      "end_line": 1477
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nmemutus Permohonan Pengujian Undang- Undang Nomor 29 Tahun 2004 \ntentang Praktik Kedokteran terhadap Undang- Undang Dasar Negara Republik \nIndonesia Tahun 1945, dapat memberikan putusan yang bijaksana dan seadil -\nadilnya (ex aequo et bono). \n Selain itu , Presiden mengajukan seorang ahli bernama Dr. Suhariyono Ar, \nS.H., M.H., yang menyampaikan keterangan dalam persidangan tanggal 1 Oktober \n2014 dan telah menyerahkan keterangan tertulis bertanggal 23 September 2014 \nyang diterima dalam persidangan tanggal 1 Oktober 2014, pada pokoknya sebagai \nberikut. \n UU 29/2004 Bab VIII terutama Pasal 66 merupakan wujud dari perlindungan \ndan kepastian hukum kepada penerima pelayanan kesehatan dokter dan \ndokter gigi. \n Masyarakat diberikan hak untuk mendapatkan perlindungan hukum jika \nkepentingannya dirugikan oleh tindakan dokter atau dokter gigi dalam \nmenjalankan praktik kedokteran dengan cara mengadukan kepada Majelis \nKehormatan Disiplin Kedokteran Indonesia. Sementara di sisi lain dokter dan \ndokter gigi diberikan hak atau kesempatan untuk memberikan keterangan atau \nmelakukan pembelaan kepada Majelis Kehormatan Displin Kedokteran \nIndonesia. \n Sistematika Pasal 66 menunjukkan bahwa ayat (1) merupakan norma utama \natau norma kebijakan atas asas perlindungan bahwa jika masyarakat \nmengetahui atau kepentingannya dirugikan atas tindakan dokter atau dokter \ngigi dalam menjalankan praktik kedokteran, maka masyarakat dapat \nmengadukan secara tertulis kepada Majelis Kehormatan Displin Kedokteran \nIndonesia. \n Pasal 66 ayat (2) merupakan alur persyaratan yang harus dipenuhi untuk \nmelakukan pengaduan yang ditandai dengan kata dapat yang ditempatkan \npada ayat (1). \n Substansi Pasal 66 ayat (3) pada dasarnya tidak terka it langsung dengan \nketentuan ayat (1) dan ayat (2), dalam arti ketentuan tersebut berdiri sendiri \nsebagai norma umum. \n Secara sistematis Pasal 66 berada dalam kelompok yang mengatur disiplin \ndokter dan dokter gigi dengan judul Bab Disiplin Dokter dan Dokter Gigi. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n37",
+      "start_line": 1479,
+      "end_line": 1519
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Bab VIII tersebut memiliki lima bagian materi, yaitu i) tentang Majelis \nKehormatan Displin Kedokteran Indonesia; ii) tentang pengaduan; iii) tentang \npemeriksaan; iv) tentang keputusan; dan v) tentang pengaturan lebih lanjut. \n Norma umum dalam bidang hukum kadang diperlukan dan kadang tidak karena \nmasyarakat sudah paham bahwa jika terdapat dugaan tindak pidana dapat \ndilaporkan kepada pihak yang berwenang dan/atau menggugat kerugian \nperdata ke pengadilan. \n Walaupun ketentuan umum (hukum pidana dan hukum perdata) lengkap \nmengatur, namun masyarakat sering lupa akan hak -hak yang diberikan oleh \nUndang-Undang di luar UU 29/2004. Sehingga tidak ada salahnya jika Pasal 66 \nayat (3) UU 29/2004 dicantumkan untuk mengingatkan (norma pengingat) \nbahwa setiap orang mempunyai hak untuk melaporkan adanya dugaan tindak \npidana kepada pihak yang berwenang dan/atau menggugat kerugian perdata \nke pengadilan. \n Norma pengingat diperlukan dalam Pasal 66 UU 29/2004 karena beberapa \nbunyi kalimat dalam alinea penjelasan umum UU 29/2004 secara umum \nmenjelaskan pentingnya perlindungan hukum bagi masyarakat sebagai berikut. \ni) Dokter dan dokter gigi sebagai salah satu komponen utama pemberian \npelayanan kesehatan kepada masyarakat mempunyai peranan yang \nsangat penting karena terkait langsung dengan pemberian pelayanan \nkesehatan dan mutu pelayanan yang diberikan. \nii) Landasan utama bagi dokter dan dokter gigi untuk melakukan tindakan \nmedis terhadap orang lain adalah ilmu pengetahuan, teknologi, dan \nkompetensi yang dimiliki yang diperoleh melalui pendidikan dan pelatihan. \nPengetahuan yang dimiliki harus terus menerus dipertahankan dan \nditingkatkan sesuai dengan kemajuan ilmu pengetahuan dan teknologi itu \nsendiri. \niii) Dokter dan dokter gigi dengan perangkat keilmuan yang dimilikinya \nmempunyai karakteristik yang khas. Kekhasan ini terlihat dari pembenaran \nyang diberikan oleh hukum yaitu diperkenankannya melakukan tindakan \nmedis terhadap tubuh manusia dalam upaya memelihara dan \nmeningkatkan derajat kesehatan. \niv) Berkurangnya kepercayaan masyarakat terhadap dokter dan dokter gigi, \nmaraknya tuntutan hukum yang diajukan masyarakat dewasa ini sering \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n38",
+      "start_line": 1521,
+      "end_line": 1562
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \ndiidentikkan dengan kegagalan upaya penyembuhan yang dilakukan \ndokter dan dokter gigi. Sebaliknya, apabila tindakan medis yang dilakukan \ndapat berhasil, dianggap berlebihan, padahal dokter dan dokter gigi \ndengan perangkat ilmu pengetahuan dan teknologi yang dimilikinya hanya \nberupaya untuk menyembuhkan, dan kegagalan penerapan ilmu \nkedokteran dan kedokteran gigi tidak selalu identik dengan kegagalan \ndalam tindakan. \nv) Berbagai upaya hukum yang dilakukan dalam memberikan perlindungan \nmenyeluruh kepada masyarakat sebagai penerima pelayanan, dan dokter \nserta dokter gigi sebagai pemberi pelayanan telah banyak dilakukan, akan \ntetapi kemajuan ilmu pengetahuan dan teknologi kedokteran yang \nberkembang sangat cepat tidak seimbang dengan perkembangan hukum. \nvi) Oleh karena itu untuk menjembatani kepentingan kedua belah pihak serta \nuntuk memberikan penilaian obj ektif terhadap kemampuan dokter atau \ndokter gigi dalam memberikan pelayanan kepada masyarakat, diperlukan \npembentukan Konsil Kedokteran Indonesia yang terdiri atas Konsil \nKedokteran dan Kondil Kedokteran Gigi. Konsil Kedokteran Indonesia \nmerupakan suatu badan yang independen yang akan menjalankan fungsi \nregulator, yang terkait dengan peningkatan kemampuan dokter dan dokter \ngigi dalam pelaksanaan praktik kedokteran. \nvii) Dengan demikian dokter dan dokter gigi dalam menjalankan praktik \nkedokteran selain tunduk pada ketentuan hukum yang berlaku juga harus \nmenaati ketentuan kode etik yang disusun oleh organisasi profesi dan \ndidasarkan pada disiplin ilmu kedokteran atau kedokteran gigi. \n Jika praktik kedokteran dikaitkan dengan tindak pidana, harus dipahami bahwa \ntindakan tersebut harus dimaknai bahwa dokter dan dokter gigi dengan \nperangkat ilmu pengetahuan dan teknologi yang dimilikinya hanya berupaya \nuntuk menyembuhkan, dan kegagalan penerapan ilmu kedokteran dan \nkedokteran gigi tidak selalu identik dengan kegagalan dalam tindakan. \n Pasal 51 huruf a dan huruf b UU 29/2004 menentukan dokter dan dokt er gigi \ndalam melaksanakan praktik kedokteran mempunyai kewajiban: a) Memberikan \npelayanan medis sesuai dengan standar profesi dan standar prosedur \noperasional serta kebutuhan medis pasien; b) Merujuk pasien ke dokter atau \ndokter gigi lain yang mempunyai keahlian atau kemampuan yang lebih baik \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n39",
+      "start_line": 1564,
+      "end_line": 1605
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \napabila tidak mampu melakukan suatu pemeriksaan atau pengobatan. Di sisi \nlain, Pasal 50 UU 29/2004 menentukan bahwa dokter dan dokter gigi dalam \nmelaksanakan praktik kedokteran mempunyai hak memperoleh perlindungan \nhukum sepanjang melaksanakan tugas sesuai dengan standar profesi dan \nstandar prosedur operasional. \n Dari kewajiban dan hak dokter dan dokter gigi tersebut, jika dikaitkan dengan \nhukum pidana atau perdata, masyarakat kemudian mengaitkan dengan istilah \nmalpraktik dalam hal dokter atau dokter gigi melakukan kesalahan, kealpaan, \nketeledoran, kesembronoan, atau ketidakhati-hatian karena dalam memberikan \npelayanan medis yang tidak sesuai dengan standar profesi atau standar \nprosedural operasional. \n Pasal 359, Pasal 360, dan Pasal 361 KUHP tidak menjelaskan makna \nkealpaan. \n Pasal 359, Pasal 360, dan Pasal 361 KUHP secara umum bersinggungan \ndengan kasus malpraktik dokter dan dokter gigi karena terkait dengan mati atau \nlukanya seseorang perlu mendapatkan perhatian bagi penegak hukum. Namun \nuntuk sampai kepada sebab tersebut, perlu dibuktikan kesalahannya terlebih \ndahulu oleh Majelis Kehormatan Disiplin Kedokteran Indonesia. Hal demikian \nuntuk memenuhi ketentuan Pasal 50 UU 29/2004. \n Kesulitan untuk menentukan batas antara pelaksanaan tugas yang sesuai \ndengan standar profesi dan standar prosedur operasional serta kealpaan \nberdasarkan Pasal 359, Pasal 360, dan Pasal 361 KUHP merupakan \npermasalahan hukum tersendiri. \n MKDI harus objektif dalam memeriksa dan memutus pelanggaran dis iplin \ndokter dan dokter gigi, namun di sisi lain penegak hukum juga harus menyadari \nbahwa dokter dan dokter gigi mempunyai hak memperoleh perlindungan \nhukum sepanjang melaksanakan tugas sesuai dengan standar profesi dan \nstandar prosedur operasional. \n Pasal 359, Pasal 360, dan Pasal 361 KUHP merupakan klausula pencegahan \numum bagi siapa saja yang berprofesi dan bermata pencarian pekerjaan \ntertentu sesuai dengan kode etik profesi yang diembannya, keahliannya, dan \nmenaati semua standar yang dipersyaratkan agar selalu berhati -hati, cermat, \ndan bertanggung jawab dalam menjalankan tugasnya. \n Dari penjelasan tersebut, maka ketentuan Pasal 66 ayat (3) UU 29/2004: \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n40",
+      "start_line": 1607,
+      "end_line": 1648
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \na) Merupakan wujud dari bunyi konsiderans menimbang dan penjelasan umum \nUU 29/2004 dalam rangka penyeimbang antara perlindungan hukum \nmasyarakat dan perlindungan hukum dokter dan dokter gigi. \nb. Merupakan norma tambahan karena bukan termasuk dalam lingkup disiplin \ndokter dan dokter gigi serta tata cara pengaduan, pemeriksaan, dan \nbagaimana memberikan keputusan oleh MKDKI sebagaimana ditentukan \ndalam Bab VIII.",
+      "start_line": 1650,
+      "end_line": 1657
+    },
+    {
+      "heading": "c. Merupakan norma pengingat karena berhubungan dengan Pasal 108",
+      "slug": "c-merupakan-norma-pengingat-karena-berhubungan-dengan-pasal-108",
+      "text": "KUHAP serta Pasal 1365, Pasal 1366, dan Pasal 1367 KUH Perdata yang \nketentuan-ketentuan tersebut berada di luar UU 29/2004, serta Pasal 359,  \nPasal 360, dan Pasal 361 KUHP.",
+      "start_line": 1659,
+      "end_line": 1661
+    },
+    {
+      "heading": "d. Merupakan ketentuan terakhir setelah proses ayat (1) dan ayat (2) dilalui, itu",
+      "slug": "d-merupakan-ketentuan-terakhir-setelah-proses-ayat-1-dan-ayat-2-dilalui-itu",
+      "text": "pun jika diperlukan berdasarkan bunyi tidak menghilangkan hak setiap \norang. \n Dari sistematika bab dan bagian, serta bunyi Pasal 66, terbaca dengan jelas \nbahwa adanya hak masyarakat untuk mengadukan secara tertulis kepada \nKetua Majelis Kehormatan Disiplin Kedokteran Indonesia jika mengetahui atau \nkepentingannya dirugikan atas tindakan dokter atau dokter gigi. Pemberian hak \nmasyarakat untuk mengadukan kepada Majelis Kehormatan Disiplin \nKedokteran Indonesia diberikan terlebih dahulu, sedangkan pelaporan adanya \ndugaan tindak pidana kepada pihak yang berwenang dan/atau menggugat \nkerugian perdata ke pengadilan dilakukan setelah yang bersangkutan \nmelakukan pengaduan secara tertulis kepada Ketua Majelis Kehormatan \nDisiplin Kedokteran Indonesia. \n Hal demikian menunjukkan bahwa perlindungan terhadap kepentingan dokter \ndan dokter gigi juga diutamakan sepanjang dokter dan dokter gigi telah \nmenjalankan praktik kedokterannya sesuai dengan kode etik profesi yang \ndiembannya, keahliannya, dan menaati semua standar yang dipersyaratkan. \n Pasal 66 ayat (3) masih diperlukan sepanjang putusan MKDKI tetap dijadikan \npertimbangan terlebih dahulu, baik oleh penegak hukum peradilan pidana \nmaupun hakim dalam memutus gugatan perdata. \n Dalam kasus dr. Ayu, Ahli atau siapa pun yang dipanggil untuk menjadi saksi \natau saksi a de charge seharusnya meyakinkan hakim supaya hakim \nmemberikan semacam keringanan atau mungkin bebas. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n41",
+      "start_line": 1663,
+      "end_line": 1691
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n[2.4] Menimbang bahwa terhadap permohonan para Pemohon, Dewan \nPerwakilan Rakyat menyampaikan keterangan tertulis tanpa tanggal  bulan \nSeptember 2014 yang diterima pada tanggal 12 November 2014, pada pokoknya \nmenerangkan sebagai berikut:",
+      "start_line": 1693,
+      "end_line": 1697
+    },
+    {
+      "heading": "1. Kedudukan Hukum (Legal Standing) Para Pemohon",
+      "slug": "1-kedudukan-hukum-legal-standing-para-pemohon",
+      "text": "Menanggapi permohonan para Pemohon a quo, DPR berpandangan bahwa \npara Pemohon harus dapat membuktikan terlebih dahulu apakah benar para \nPemohon sebagai pihak yang menganggap hak dan/atau kewenangan \nkonstitusionalnya dirugikan atas berlakunya ketentuan yang dimohonkan untuk \ndiuji, khususnya dalam mengkonstruksikan adanya kerugian terhadap hak \ndan/atau kewenangan konstitusionalnya sebagai dampak dari diberlakukannya \nketentuan yang dimohonkan untuk diuji. Terhadap kedudukan hukum ( legal \nstanding) tersebut, DPR menyerahkan sepenuhnya kepada Mahkamah \nKonstitusi yang mulia untuk mempertimbangkan dan menilai apakah para \nPemohon memiliki kedudukan hukum ( legal standing) atau tidak sebagaimana \nyang diatur oleh Pasal 51 ayat (1) Undang- Undang tentang Mahkamah \nKonstitusi dan berdasarkan Putusan Mahkamah Konstitusi Nomor 006/PUU -\nIII/2005 dan Nomor 011/PUU-V/2007.",
+      "start_line": 1699,
+      "end_line": 1711
+    },
+    {
+      "heading": "2. Pengujian UU Praktik Kedokteran",
+      "slug": "2-pengujian-uu-praktik-kedokteran",
+      "text": "Terhadap permohonan pengujian Pasal 66 ayat (3) UU Praktik Kedokteran \nDPR menyampaikan keterangan sebagai berikut:",
+      "start_line": 1713,
+      "end_line": 1714
+    },
+    {
+      "heading": "1. Bahwa pembangunan bidang kesehatan pada dasarnya ditujukan untuk",
+      "slug": "1-bahwa-pembangunan-bidang-kesehatan-pada-dasarnya-ditujukan-untuk",
+      "text": "meningkatkan kesadaran, kemauan,  dan kemampuan hidup sehat bagi \nsetiap orang untuk mewujudkan derajat kesehatan yang optimal sebagai \nsalah satu unsur kesejahteraan sebagaimana diamanatkan oleh \nPembukaan Undang-Undang Dasar 1945.",
+      "start_line": 1716,
+      "end_line": 1719
+    },
+    {
+      "heading": "2. Bahwa untuk mewujudkan de rajat kesehatan yang optimal tersebut, maka",
+      "slug": "2-bahwa-untuk-mewujudkan-de-rajat-kesehatan-yang-optimal-tersebut-maka",
+      "text": "ketentuan Pasal 28H ayat (1) UUD 1945 telah mengamanatkan bahwa \nsetiap orang berhak atas hidup sehat dan mendapatkan pelayanan \nkesehatan. Untuk itu bidang kesehatan perlu ditegakkan melalui \npenyelenggaraan pembangunan di bidang kesehatan yang berkualitas dan \nterjangkau oleh masyarakat luas. Salah satu wujud pembangunan di  bidang \nkesehatan adalah menciptakan perangkat hukum yang dapat menjamin hak \nseseorang untuk mendapatkan pelayanan di bidang kesehatan. Perangkat \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n42",
+      "start_line": 1721,
+      "end_line": 1734
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nhukum dimaksud salah satunya adalah UU Praktik Kedokteran yang telah \ndibuat oleh DPR bersama dengan Presiden RI.",
+      "start_line": 1736,
+      "end_line": 1738
+    },
+    {
+      "heading": "3. Bahwa dokter dan dokter gigi merupakan salah satu komponen utama",
+      "slug": "3-bahwa-dokter-dan-dokter-gigi-merupakan-salah-satu-komponen-utama",
+      "text": "pemberi pelayanan kesehatan kepada masyarakat yang mempunyai \nperanan sangat penting karena terkait Iangsung dengan pemberian \npelayanan kesehatan dan mutu pelayanan sehingga wajib untuk \nmemberikan Iayanan yang berkualitas bagi masyarakat. Dokter dan dokter \ngigi harus memiliki etik dan moral yang tinggi, keahlian dan kewenangan \nyang secara terus menerus ditingkatkan mutunya melalui pendidikan dan \npelatihan berkelanjutan, sertifikasi, registrasi, lisensi, serta pembinaan, \npengawasan, dan pemantauan agar penyelenggaraan praktik kedokteran \nsesuai dengan perkembangan ilmu pengetahuan dan teknologi serta \nkompetensi yang dimiliki.",
+      "start_line": 1740,
+      "end_line": 1749
+    },
+    {
+      "heading": "4. Bahwa dokter dan dokter gigi dengan perangkat keilmuan yang dimilikinya",
+      "slug": "4-bahwa-dokter-dan-dokter-gigi-dengan-perangkat-keilmuan-yang-dimilikinya",
+      "text": "mempunyai karakteristik yang khas. Kekhasannya ini terlihat dari  \npembenaran yang diberikan oleh hukum yaitu diperkenankannya melakukan \ntindakan medis terhadap tubuh manusia dalam upaya memelihara dan \nmeningkatkan derajat kesehatan. Oleh karena itu, tindakan medis terhadap \ntubuh manusia yang dilakukan bukan oleh dokter atau dokter gigi dapat \ndigolongkan sebagai tindak pidana. Berkurangnya kepercayaan masyarakat \nterhadap dokter dan dokter gigi termanifestasi dengan maraknya tuntutan \nhukum yang diajukan masyarakat dewasa ini seringkali dipicu oleh \nkegagalan upaya penyembuhan yang dilakukan dokter dan dokter gigi. \nPadahal dokter dan dokter gigi dengan perangkat ilmu pengetahuan dan \nteknologi yang dimilikinya hanya mampu berupaya untuk menyembuhkan \ndengan melakukan pengobatan yang terbaik bagi pasien, dan kegagalan \npenerapan ilmu kedokteran dan kedokteran gigi pada pasien tidak selalu \nidentik dengan kesalahan dalam merencanakan atau melakukan tindakan \nmedis.",
+      "start_line": 1751,
+      "end_line": 1765
+    },
+    {
+      "heading": "5. Memperhatikan kenyataan dan kebutuhan untuk memberikan perlindungan",
+      "slug": "5-memperhatikan-kenyataan-dan-kebutuhan-untuk-memberikan-perlindungan",
+      "text": "dan kepastian hukum kepada penerima pelayanan kesehatan (masyarakat), \njuga dalam rangka melindungi dokter dan dokter gigi sebagai pemberi \npelayanan kesehatan, maka diperlukan pengaturan mengenai \npenyelenggaraan praktik kedokteran. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n43",
+      "start_line": 1767,
+      "end_line": 1777
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id",
+      "start_line": 1779,
+      "end_line": 1779
+    },
+    {
+      "heading": "6. Dokter atau dokter gigi dalam menjalankan praktik kedokteran selain tunduk",
+      "slug": "6-dokter-atau-dokter-gigi-dalam-menjalankan-praktik-kedokteran-selain-tunduk",
+      "text": "pada ketentuan hukum yang berlaku, juga harus menaati ketentuan kode \netik yang disusun oleh organisasi profesi dan ketentuan disiplin ilmu \nkedokteran atau kedokteran gigi yang disusun oleh Konsil Kedokteran \nIndonesia. Dugaan pelanggaran kode etik kedokteran akan disidangkan dan \ndiberi sanksi oleh Majelis Kehormatan Etik Kedokteran, sedangkan dugaan \npelanggaran penerapan disiplin kedokteran disidangkan dan diberi sanksi \ndisiplin oleh Majelis Kehormatan Disiplin Kedokteran Indonesia.",
+      "start_line": 1781,
+      "end_line": 1787
+    },
+    {
+      "heading": "7. Bahwa ketentuan Pasal 66 UU Praktik Kedokteran adalah salah satu wujud",
+      "slug": "7-bahwa-ketentuan-pasal-66-uu-praktik-kedokteran-adalah-salah-satu-wujud",
+      "text": "nyata pemberian jaminan hak setipa orang untuk mendapatkan pelayanan \nkesehatan yang baik dan dapat dipertanggungjawabkan baik secara hukum \nmaupun secara medis. Adapun ketentuan Pasal 66 Undang- Undang a quo \nberbunyi sebagai berikut: \n(1) Setiap orang yang mengetahui atau kepentingannya dirugikan atas \ntindakan dokter atau dokter gigi dalam menjalankan praktik kedokteran \ndapat mengadukan secara tertulis kepada Ketua Majelis Kehormatan \nDisiplin Kedokteran Indonesia. \n(2) Pengaduan sekurang-kurangnya harus memuat: \na.  identitas pengadu; \nb. nama dan alamat tempat praktik dokter atau dokter gigi dan waktu \ntindakan dilakukan; dan",
+      "start_line": 1789,
+      "end_line": 1800
+    },
+    {
+      "heading": "c. alasan pengaduan.",
+      "slug": "c-alasan-pengaduan",
+      "text": "(3) Pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak \nmenghilangkan hak setiap orang untuk melaporkan adanya dugaan \ntindak pidana kepada pihak yang berwenang.",
+      "start_line": 1802,
+      "end_line": 1804
+    },
+    {
+      "heading": "8. Ketentuan Pasal 66 Undang- Undang a quo memberikan jaminan kepada",
+      "slug": "8-ketentuan-pasal-66-undang-undang-a-quo-memberikan-jaminan-kepada",
+      "text": "setiap orang untuk mendapatkan pelayanan kesehatan oleh dokter dan \ndokter gigi yang baik dan dapat dipertanggungjawabkan secara medik, dan \njika dirugikan atas tindakan dokter atau dokter gigi setiap orang dapat \nmengadukan hal tersebut kepada Majelis Kehormatan Disiplin Kedokteran \nIndonesia (MKDKI) bahkan hal tersebut tidak menutup kemungkinan untuk \nmelaporkan kepada pejabat yang berwenang jika diduga telah terjadi \ndugaan tindak pidana. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n44",
+      "start_line": 1806,
+      "end_line": 1819
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id",
+      "start_line": 1821,
+      "end_line": 1821
+    },
+    {
+      "heading": "9. Bahwa terhadap pendapat Para Pemohon yang menyatakan ketentuan",
+      "slug": "9-bahwa-terhadap-pendapat-para-pemohon-yang-menyatakan-ketentuan",
+      "text": "a quo harus dimaknai “Pengaduan sebagaimana dimaksud pada ayat (1) \ndan ayat (2) tidak menghilangkan hak setiap orang untuk melaporkan \nadanya hak setiap orang untuk melaporkan adanya dugaan tindak pidana \nkepada pihak yang berwenang sebatas hanya berlaku terhadap tindakan \nkedokteran yang mengandung unsur kesengajaan ( dolus/opzet) atas akibat \nyang diancamkan pidana atau tindakan kedokteran yang mengandung \nkelalaian nyata/berat ( culpa lata) dan telah dinyatakan terbukti demikian \nterlebih dahulu dalam persidangan MKDKI”, DPR berpandangan bahwa \nketentuan a quo dibuat dalam rangka menjaga keseimbangan antara dokter \ndengan pasien agar dokter dalam melaksanakan tugasnya sesuai dengan \nperspektif praktik kedokteran yang ada. Di sisi lain, masyarakat diberikan \nperlindungan dalam memperoleh tindakan kedokteran yang sesuai dengan \nStandard Operasional Procedure (SOP).",
+      "start_line": 1823,
+      "end_line": 1835
+    },
+    {
+      "heading": "10. Bahwa berdasarkan uraian -uraian di atas, DPR berpendapat ketentuan",
+      "slug": "10-bahwa-berdasarkan-uraian-uraian-di-atas-dpr-berpendapat-ketentuan",
+      "text": "Pasal 66 ayat (3) UU Praktik  Kedokteran telah sejalan dengan ketentuan \nPasal 28D ayat (1) dan Pasal 28G ayat (1) UUD 1945. \n[2.5] Menimbang bahwa terkait dengan permohonan para Pemohon, Pi hak \nTerkait Majelis Kehormatan Disiplin Kedokteran Indonesia (MKDKI) \nmenyampaikan keterangan dalam persidangan Mahkamah pada tanggal  4 \nSeptember 2014, yang pada pokoknya sebagai berikut: \n Sejak lahirnya UU Praktik Kedokteran, terdapat tiga penegakan dalam dunia \nkedoteran, yaitu i) penegakan bidang etik, ii) penegakan bidang disiplin \nkeilmuan kedokteran, yang dalam UU tersebut bernama Majelis Kehormatan \nDisiplin Kedokteran, dan iii) penegakan hukum, yang antara lain diatur dalam \nPasal 66 ayat (3). \n Ketiga pila r tersebut memiliki tiga tolok ukur yang berbeda. Tolok ukur etik \nadalah kode etik, tolok  ukur disiplin ilmu kedokteran adalah prinsip, nilai, \nstandar, atau pedoman penerapan ilmu kedokteran, serta tolok ukur bidang \nhukum adalah KUHP, KUH Perdata, dan lain sebagainya. \n MKDKI murni melakukan penegakan keilmuan kedokteran. \n Pasal 1 angka 14 UU Praktik Kedokteran, menegaskan bahwa MKDKI adalah \nlembaga yang berwenang untuk menentukan ada tidaknya kesalahan yang \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n45",
+      "start_line": 1837,
+      "end_line": 1861
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \ndilakukan oleh dokter atau dokter gigi dalam penerapan disiplin ilmu kedokteran \ndan kedokteran gigi. \n Pasal 66 ayat (3) mengatur pengaduan sebagai dimaksud ayat (1) dan ayat (2) \nkepada MKDKI tidak menghilangkan hak setiap orang untuk melaporkan \nadanya dugaan tindakan pidana kepada pihak yang berwenang dan/atau \nmenggugat secara perdata ke pengadilan. \n Dari ketentuan tersebut terlihat bahwa pengaduan ke MKDKI diakui oleh UU \nsebagai pengaduan disiplin ilmu kedokteran. Tindakan kedokteran tidak \nterlepas dari perbuatan yang dapat masuk pada perbuatan melawan hukum  \nbaik pidana maupun perdata. \n Menurut MKDKI pelanggaran oleh dokter secara garis besar dapat dibagi \nmenjadi dua, yaitu:",
+      "start_line": 1863,
+      "end_line": 1875
+    },
+    {
+      "heading": "1. dokter melakukan tindakan kedokteran sengaja untuk membunuh orang",
+      "slug": "1-dokter-melakukan-tindakan-kedokteran-sengaja-untuk-membunuh-orang",
+      "text": "atau untuk memberikan kecacatan terhadap orang. Hal demikian murni \ntindakan kriminal, yang tidak masuk kategori malpraktik.",
+      "start_line": 1877,
+      "end_line": 1878
+    },
+    {
+      "heading": "2. dokter melakukan tindakan kedokteran dimana dokter dalam melakukan",
+      "slug": "2-dokter-melakukan-tindakan-kedokteran-dimana-dokter-dalam-melakukan",
+      "text": "praktik kedookteran melanggar antara lain: \na. dokter atau dokter gigi melakukan tindakan kedokteran tetapi tidak \nmematuhi (misconduct) standar, pedoman, dan nilai praktik kedokteran. \nb. dokter lalai ( culpa) dalam praktik kedokteran yang mengakibatkan mati \natau cacatnya pasien.",
+      "start_line": 1880,
+      "end_line": 1884
+    },
+    {
+      "heading": "c. dokter melakukan pelanggaran karena dalam praktik tidak memiliki",
+      "slug": "c-dokter-melakukan-pelanggaran-karena-dalam-praktik-tidak-memiliki",
+      "text": "kompetensi atau bukan kewenangannya secara keilmuan. \n MKDKI tidak menangani dokter yang melakukan pelanggaran hukum, namun \nMKDKI menangani dokter yang melakukan pelanggaran standar ilmu \nkedokteran atau dokter yang tidak memiliki kewenangan atau kompetensi. \n Terhadap Pasal 66 ayat (3) perlu dilakukan sinkronisasi  agar tidak terjadi \ntumpang tindih antara ketentuan mengenai tugas MKDKI dengan ketentuan \nhukum lain. \n Pasal 359 KUH Pidana mengatakan bahwa barang siapa karena kesalahannya \natau kealpaannya menyebabkan orang lain mati, diancam dengan pidana \npenjara paling lama lima tahun atau kurungan paling lama lima tahun. Pasal ini \nmenunjukkan bahwa jika kesalahan tersebut adalah murni hukum maka proses \npidana pasti akan berjalan. Tetapi kalau kesalahan tersebut adalah kesalahan \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n46",
+      "start_line": 1886,
+      "end_line": 1904
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nyang butuh pembuktian lebih dahulu, maka sebelum masuk proses pidana \nharus dibuktikan terlebih dahulu oleh MKDKI apakah betul ada kesalahan. \nSetelah terbukti ada kesalahan baru dapat masuk dalam ranah hukum untuk \nmembuktikan bahwa dari kesalahan yang sudah diakui secara keilmuan dapat \ndiproses secara hukum. \n MKDKI sudah menangani sekitar 280 kasus, yang 40% dari kasus tersebut \nadalah pelanggaran oleh dokter. Namun sifat sanksi memang belum sanksi \npidana tetapi hanya teguran, atau sanksi pencabutan Surat Izin Praktik (SIP) \ndan Surat Tanda Registrasi (STR). Sank si ketiga dapat berupa re-schooling \nberupa pendidikan dan pelatihan. \n Apa yang telah diputuskan oleh MKDKI tidak serta -merta merupakan \npelanggaran hukum karena tolok ukurnya berbeda. MKDKI menggunakan tolok \nukur berupa prinsip, nilai, dan standar  kedokteran. Tidak selamanya nilai \nstandar kedokteran yang dilanggar bisa menjadi pelanggaran hukum. Misalnya \ndisiplin ilmu kedokteran mewajibkan seorang dokter untuk mencuci tangan \nsebelum melakukan operasi. Namun tindakan dokter yang tidak mencuci \ntangan tapi pasien tetap sembuh, tidak menimbulkan akibat hukum. Tetapi \nsecara disiplin, MKDKI dapat memeriksanya karena pelanggaran disiplin ilmu \nkedokteran. \n Pemeriksa di MKDKI terdiri dari dokter yang profesional dengan didampingi \noleh ahli hukum, sedangkan di pengadilan, posisi dokter adalah sebagai ahli. \n Dalam Pasal 64 UU Praktik Kedokteran, MKDKI hanya diberi kewenangan \nmenerima pengaduan, bukan jemput bola. \n MKDKI memiliki kemampuan dalam menangani kasus. Terdapat 280 kasus \nyang pernah ditangani  MKDKI dan terselesaikan dengan baik. \n MKDKI tidak punya kewenangan untuk melaporkan atau mengadukan \npelanggaran hukum yang dilakukan oleh dokter atau dokter gigi. Dalam UU \nPraktik Kedokteran, kewenangan MKDKI hanya dua, yaitu melaksanakan tugas \npenegakan disiplin, dan yang kedua jika menemukan pelanggaran etik, maka \nMKDKI boleh melaporkan ke IDI sebagai penegak etik. \n Kewenangan MKDKI adalah menegakkan disiplin ilmu kedokteran yang sudah \ndiatur oleh Konsil Kedokteran melalui Perkonsil. Penegakan disiplin dilakukan \nterhadap dokter yang teregistrasi oleh KKI, sedangkan dokter yang tidak \nterregistrasi adalah dokter yang lepas dari syarat yang ditetapkan KKI. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n47",
+      "start_line": 1906,
+      "end_line": 1947
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Mekanisme pertama dalam MKDKI adalah menerima pengaduan. Kemudian \ndilakukan pemeriksaan awal untuk menentukan apakah pengaduan dimaksud \nmurni mengenai disiplin atau mengenai etik. Jika mengenai etik maka \ndiserahkan kepada IDI, namun jika mengenai disiplin maka proses dilanjutkan \noleh MKDKI. \n Dalam proses pemeriksaan, terdapat berbagai tahapan yang antara lain \npemanggilan semua pihak yang terlibat, termasuk memanggil ahli. \n Untuk menentukan ahli, MKDKI meminta daftar ahli dari IDI. \n Proses di MKDKI dilakukan dengan cara tertutup namun keputusan MKDKI \ndibacakan secara terbuka. Pemeriksaan dilakukan secara tertutup karena hal \nyang dibicarakan menyangkut rahasia kedokteran. \n Selanjutnya putusan diserahkan kepada KKI untuk dilaksanakan. \n Putusan pencabutan STR  dilaksanakan oleh KKI , sementara pencabutan SIP  \ndisampaikan kepada Dinas Kabupaten/Kota. \n[2.6] Menimbang bahwa terkait dengan permohonan para Pemohon, Pihak \nTerkait Ikatan Dokter Indonesia ( IDI) menyampaikan keterangan dalam \npersidangan Mahkamah pada tanggal 4 September 2014 dan telah menyampaikan \nketerangan secara tertulis yang diterima di Kepaniteraan pada tanggal 4 \nSeptember 2014, yang pada pokoknya sebagai berikut: \n Seseorang yang berprofesi sebagai dokter harus memiliki syarat:",
+      "start_line": 1949,
+      "end_line": 1969
+    },
+    {
+      "heading": "1. memiliki keilmuan dan keahlian atau kompetensi yang diperoleh dari",
+      "slug": "1-memiliki-keilmuan-dan-keahlian-atau-kompetensi-yang-diperoleh-dari",
+      "text": "pendidikan dan pelatihan yang sistematik dan terus-menerus,",
+      "start_line": 1971,
+      "end_line": 1971
+    },
+    {
+      "heading": "3. memiliki orientasi melayani dan menolong sesama.",
+      "slug": "3-memiliki-orientasi-melayani-dan-menolong-sesama",
+      "text": " Dari ketiga syarat profesi dokter sebagaimana disebutkan di atas maka \nseorang dokter memiliki kewajiban etik dan kewajiban profesional untuk \nsenantiasa memberikan pelayanan kedokteran atau menolong pasien atau \norang yang membutuhkan pertolongan medis haruslah dilaksanakan dengan \nniat yang tulus atas dasar kepercayaan yang diberikan oleh pasien dengan \nmenerapkan keahlian atau kompetensinya berdasarkan standar profesi \nkedokteran. \n Kewajiban etik dan kewajiban profesional juga mengharuskan dokter untuk \nmelakukan upaya yang maksimal, sekuat tenaga dengan segala keahlian/  \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n48",
+      "start_line": 1974,
+      "end_line": 1989
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nkompetensi yang dimilikinya dalam menolong pasien tanpa boleh memilih- milih \nkondisi pasien, apakah kondisi pasien bisa disembuhkan/diselamatkan, atau \nkondisi pasien tersebut sangat kecil harapannya untuk diselamatkan. \n Kewajiban dokter tersebut bahkan telah dikuatkan dengan lahirnya Undang -\nUndang Nomor 29 Tahun 2004 tentang Praktik Kedokteran sebagaimana \ntersebut dalam Pasal 51 yang berbunyi, \n“Dokter atau dokter gigi dalam melaksanakan praktik kedokteran mempunyai \nkewajiban: \na) memberikan pelayanan medis sesuai dengan standar profesi dan standar \nprosedur operasional, serta kebutuhan medis pasien; \nb) merujuk pasien ke dokter atau dokter gigi lain yang mempunyai keahlian \natau kemampuan yang lebih baik apabila tidak mampu melakukan suatu \npemeriksaan atau pengobatan; \nc) merahasiakan segala sesuatu yang diketahuinya tentang pasien, bahkan \njuga setelah pasien itu meninggal dunia; \nd) melakukan pertolongan gawat darurat atau atas dasar perikemanusiaan \nkecuali bila ia yakin ada orang lain yang bertugas dan mampu \nmelakukannya; dan \ne) menambah ilmu pengetahuan dan mengikuti perkembangan ilmu \nkedokteran dan kedokteran gigi.” \n Di sisi lain, hasil dari suatu upaya dokter dipandang secara keilmuan medis \ntidak dapat menjanjikan suatu hasil yang pasti sembuh sempurna atau selamat \ntanpa cacat apa pun. Hasil dari suatu upaya dokter tersebut menghasilkan \nbeberapa kemungkinan sebagai berikut: \na. sembuh sempurna tanpa cacat, \nb. sembuh dengan meninggalkan kecacatan, atau bahkan",
+      "start_line": 1991,
+      "end_line": 2017
+    },
+    {
+      "heading": "c. tidak dapat diselamatkan sama sekali.",
+      "slug": "c-tidak-dapat-diselamatkan-sama-sekali",
+      "text": " Berdasarkan keterangan di atas beberapa kemungkinan yang dapat terjadi \nsebagai hasil dari upaya dokter sangat tergantung atau bergantung pada: \na. tingkat keparahan penyakitnya, \nb. kondisi daya tahan tubuh pasien,",
+      "start_line": 2019,
+      "end_line": 2022
+    },
+    {
+      "heading": "c. ketersediaan alat fasilitas, alat kesehatan, dan obat-obatan yang memadai.",
+      "slug": "c-ketersediaan-alat-fasilitas-alat-kesehatan-dan-obat-obatan-yang-memadai",
+      "text": " Dari penjelasan di atas dapat ditarik makna bahwa adanya kewajiban etik dan \nkewajiban profesional yang pasti harus dijalankan oleh dokter dan hasil dari \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n49",
+      "start_line": 2024,
+      "end_line": 2032
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nupaya dokter yang memiliki ketidakpastian tersebut menimbulkan kondisi \ndilematis bagi dokter. Karena dalam kondisi apa pun pasien yang dihadapi \nbahkan dalam kondisi terburuk dimana pasien dalam kondisi sangat sulit, \nsangat kecil harapan untuk diselamatkan, dokter tetap memiliki kewajiban \nsecara etik dan profesional untuk dapat memberikan pertolongan sekuat \nkemampuannya berdasarkan keahlian atau kompetensi yang dimilikinya. \n Kondisi dilematis ini ditambah dengan pengharapan dan persepsi masyarakat \natau pasien yang berlebihan, yang masih menganggap dokter malaikat \npenyembuh, ia mengharuskan dokter selalu dapat menyembuhkan secara \nsempurna tanpa cacat atau harus selalu dapat menyelamatkan nyawa semua \npasien yang ditolongnya. \n Kondisi dilematis ini membuat dokter menjadi profesi yang rawan untuk \ndipersalahkan, bahkan rawan untuk digugat atau dituntut secara hukum oleh \nmasyarakat atau pasien. \n Negara seharusnya memberikan perlindungan kepada profesi yang sangat \ndibutuhkan oleh masyarakat, namun memiliki dilematis dalam m enjalankan \npekerjaan profesinya, seperti halnya profesi dokter. \n Hadirnya Undang-Undang Nomor 29 Tahun 2004 tentang Praktik Kedokteran, \ndiharapkaan Ikatan Dokter Indonesia dapat memberikan perlindungan hukum \nkepada dokter sebagai pelaksana dalam memberikan pelayanan kesehatan di \nsamping tentunya secara seimbang juga memberikan perlindungan kepada \nmasyarakat atau pasien sebagai penerima pelayanan kesehatan. Namun \ntampaknya Undang-Undang Nomor 29 Tahun 2004 tentang Praktik Kedokteran \njustru memberikan peluang yang sangat besar bagi dokter untuk gampang \ndiadukan, digugat, dan dituntut, baik secara etik, pelanggaran disiplin, dan \npelanggaran hukum sekaligus secara bersamaan, sebagaimana tersebut pada \nPasal 66 Undang-Undang Praktik Kedokteran yang menyatakan, \n1) Setiap orang yang mengetahui atau kepentingannya dirugikan atas tindakan \ndokter atau dokter gigi dalam menjalankan praktik kedokteran dapat \nmengadukan secara tertulis kepada Ketua Majelis Kehormatan Disiplin \nKedokteran Indonesia. \n2) Pengaduan sekurang-kurangnya harus memuat: \na. identitas pengadu; \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n50",
+      "start_line": 2034,
+      "end_line": 2074
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nb. nama dan alamat tempat praktik dokter atau dokter gigi dan waktu \ntindakan dilakukan; dan",
+      "start_line": 2076,
+      "end_line": 2078
+    },
+    {
+      "heading": "c. alasan pengaduan.",
+      "slug": "c-alasan-pengaduan",
+      "text": "3) Pengaduan sebagaimana yang dimaksud pada ayat (1) dan (2) tidak \nmenghilangkan hak setiap orang untuk melaporkan adanya dugaan tindak \npidana kepada pihak yang berwenang dan/atau menggugat kerugian \nperdata ke pengadilan. \n Hal tersebut dapat menimbulkan ketidaktenangan dan keraguan dokter dalam \nmelaksanakan tugasnya memberikan pelayanan kesehatan, serta dapat \nmenimbulkan apa yang disebut dengan defensive medicine. Defensive \nmedicine dapat digambarkan sebagai suatu bentuk praktik kedokteran dimana \nseorang dokter akan sangat berhati-hati dan sangat memperhitungkan langkah-\nlangkah aman bagi dirinya agar tidak gampang dipersalahkan atau dituntut \npasien. Beberapa tindakan dokter yang dilakukan sebagai manivestasi \ndefensive medicine adalah sebagai berikut: \na. Memilih-milih pasien yang memiliki kemungkinan besar untuk sembuh atau \nsembuh sempurna tanpa cacat, atau dapat diselamatkan, dan takut \nmelakukan pertolongan terhadap pasien gawat darurat yang memiliki \nkemungkinan kecil bisa diselamatkan. \nb. melakukan pemeriksaan selengkap- lengkapnya, malah terkadang \npemeriksaannya tidak terlalu diperlukan, yang menyebabkan mahalnya \nbiaya pengobatan dan perawatan, agar tidak disalahkan oleh pasien.",
+      "start_line": 2080,
+      "end_line": 2098
+    },
+    {
+      "heading": "c. menolak perawatan pasien karena fasilitas peralatan kesehatan yang",
+      "slug": "c-menolak-perawatan-pasien-karena-fasilitas-peralatan-kesehatan-yang",
+      "text": "kurang memadai, dan terpaksa pasien harus dirujuk ke sana kemari yang \ndapat menyebabkan terlambatnya pertolongan tindakan medis yang \ndibutuhkan oleh pasien.",
+      "start_line": 2100,
+      "end_line": 2102
+    },
+    {
+      "heading": "d. dan lain-lain.",
+      "slug": "d-dan-lain-lain",
+      "text": " Tentu praktik defensive medicine sebagaimana tersebut di atas sangat \nmerugikan masyarakat sebagai penerima layanan kesehatan. \n Untuk itu, dalam rangka memberikan perlindungan hukum terhadap dokter \nsebagai pelaksana pemberi pelayanan kesehatan, serta demi tercapainya \nderajat kesehatan masyarakat yang optimal, sebagaimana tujuan \npembangunan kesehatan, maka Ikatan Dokter Indonesia atas nama seluruh \ndokter Indonesia, memohon kepada Mahkamah Konstitusi agar memberikan \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n51",
+      "start_line": 2104,
+      "end_line": 2117
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \narahan atau memberikan ketetapan hukum tentang prosedur hukum yang \nkhusus ( lex specialis ) dalam menilai dan menentukan apakah seorang yang \nberprofesi dokter, benar ataukah salah dalam menjalankan pekerjaan \nprofesinya sebagai dokter dengan memberlakukan proses pemeriksaan yang \nberjenjang, bertingkat, dimulai dari proses pemeriksaan etik dan disiplin di \nMKEK dan MKDKI sebagai proses pemeriksaan tingkat pertama yang \nsekaligus berfungsi sebagai penapis atau penilai, apakah ada pelanggaran \nhukum atau tidak. Apabila tidak ditemukan indikasi pelanggaran hukum, maka \nproses pemeriksaan dan pemberian sanksi cukup diputuskan di MKEK dan \nMKDKI. Namun apabila dari hasil pemeriksaan di MKEK dan MKDKI ditemukan \nindikasi pelanggaran hukum, maka akan diteruskan atau diserahkan kepada \nkepolisian atau pengadilan. \n Tidak ada satu pun dokter dalam menjalankan pekerjaan profesinya \nmemberikan pelayanan kesehatan yang bermaksud buruk atau berniat jahat \nkepada pasiennya layaknya seorang kriminal. Oleh karena itu agar tidak \nmemberlakukan kepada profesi dokter ketentuan- ketentuan atau norma hukum \nyang biasanya diberlakukan untuk penjahat dan pelaku kriminal. \n IDI memiliki MKDKI dan MKEK di tingkat pusat, sementara di seluruh provinsi \ndan hampir seluruh cabang IDI Kabupaten/Kota terdapat Majelis Etik. \n P engaduan a da yang di selesaikan di tingkat cabang atau di provinsi,  namun \nada juga yang diperiksa di pusat. Pada prinsipnya jika ditemukan pelanggaran \ndisiplin maka akan di limpahkan ke MKDKI.  Adapun pelanggaran etik akan \ndisidangkan di MKEK. \n Sanksi etik tidak diumumkan tetapi jelas ada sanksinya. \n Ketakutan dokter terhadap UU Praktik Kedokteran meningkatkan \nkecenderungan defensive medicine. \n Defensive medicine merugikan masyarakat dan jika biaya kesehatan dibayar \noleh negara maka negara juga dirugikan. \n[2.7] Menimbang bahwa terkait dengan permohonan para Pemohon, Pihak \nTerkait Konsil Kedokteran Indonesia ( KKI) menyampaikan keterangan dalam \npersidangan Mahkamah pada tanggal 4 September 2014 dan telah menyampaikan \nketerangan secara tertulis yang diterima di Kepaniteraan pada tanggal 24 \nSeptember 2014, yang pada pokoknya sebagai berikut: \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n52",
+      "start_line": 2119,
+      "end_line": 2159
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n T ugas utama Konsil Kedokteran Indonesia adalah melindungi masyarakat dari \npraktisi, khususnya praktisi kedokteran dan kedokteran gigi, yang tidak \nprofesional melalui registrasi dan melalui  pembinaan. Artinya, hanya mereka \nyang kompeten dan berperilaku baik yang akan diperkenankan untuk \nmelakukan praktik kedokteran di Indonesia, sehingga untuk itu diterbitkan surat \ntanda registrasi. Di lain pihak adalah melakukan pembinaan dengan cara \nmelakukan peringatan suspensi atau pencabutan surat izin  registrasi untuk \nwaktu tertentu atau seterusnya, apabila dokter dinilai tidak  sesuai dengan \nprofesionalisme kedokteran, melanggar norma- norma disiplin. Penilaian ini \ndilakukan oleh Majelis Kehormatan Disiplin Kedokteran Indonesia. \n Selain itu, tugas utama KKI adalah menjaga keluhuran profesi melalui \npembinaan, atau how to enter to the profession (memasuki profesi) dan how to \nexpelled from the profession (mengeluarkan dari profesi). \n Ketika dokter bersangkutan dicabut STR -nya, maka yang bersangkutan tidak \nboleh praktik lagi dan dengan demikian masyarakat akan langsung terlindungi. \n Terkait dengan rumusan Pasal 66 ayat (3) UU Praktik Kedokteran, KKI \nmenyampaikan hal-hal sebagai berikut: \na. Karena MKDKI adalah badan otonom dalam lingkup organisasi Konsil \nKedokteran Indonesia, maka pada prinsipnya pandangan Konsil Kedokteran \nIndonesia tidak berbeda dengan MKDKI. \nb. Di dalam menjaga profesionalisme dokter, Konsil Kedokteran Indonesia \nbersama MKDKI bekerja di dalam lingkup norma- norma disiplin. Hal ini \nharus betul-betul dibedakan dengan norma- norma hukum karena KKI tidak \nmenyentuh norma-norma hukum. \n Sehingga tujuan dari MKDKI termasuk juga petugas dari Konsil Kedokteran \nIndonesia, bukan untuk memberikan keadilan, karena keadilan letaknya adalah",
+      "start_line": 2161,
+      "end_line": 2187
+    },
+    {
+      "heading": "di pengadilan. Hal yang dilakukan adalah melakukan pendisiplinan.",
+      "slug": "di-pengadilan-hal-yang-dilakukan-adalah-melakukan-pendisiplinan",
+      "text": " Norma etika adalah bagian dari norma pribadi  dan norma itu di mana pun di \ndunia ini tidak dapat diadili. Tidak ada yang bernama sengketa etika, yang ad a \nadalah dilema etika.  M isalnya, apabila ada seorang wanita hamil dengan \nkehamilan 16 minggu tetapi terdeteksi kelainan bawaan yang berat, maka ada \ndua pemikiran, yaitu a pakah kehamilan tersebut diakhiri ataukah dilanjutkan? \nHal ini akan sangat terkait dengan etika yang bersangkutan, kesadaran, dan \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n53",
+      "start_line": 2189,
+      "end_line": 2201
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \npemahaman banyak hal. Tetapi norma-norma etikanya tersebut tentu tidak \ndapat diadili. \n Harus dibedakan antara norma disiplin dan norma hukum. Analoginya sebagai \nberikut, jika anak laki -laki kita berusia 10 tahun melempar batu kena genting \ntetangga hingga pecah dan mungkin mencederai orang, kemudian tetangga \nmengklaim sejumlah uang tertentu, maka hal demikian adalah masalah hukum, \nbaik perdata ataupun pidana. Tetapi ketika si anak tadi pulang ke rumah, \napakah kita akan mengatakan, “Nak, lain kali setelah melempar batu,  maka lari \njangan sampai tertangkap!”  Tentunya hal tersebut tidak  dilakukan. Anak \nbersangkutan akan disidangkan dalam keluarga, a pabila ternyata yang \nbersangkutan melanggar  norma-norma dalam keluarga, maka keluarga bukan \nmenghukum melainkan melakukan tindakan disiplin.  Tindakan disiplin tersebut \ndapat berupa mencabut kebebasan anak untuk bermain di luar. \n Apabila dianalogikan dengan praktik kedokteran, maka seorang dokter  adalah \nanak dan rumahnya adalah K onsil Kedokteran Indonesia. Dokter yang \nmelakukan pelanggaran akan dibina , d an apabila terbukti melanggar disiplin \nmaka STR akan dicabut dulu, dilakukan pem binaan, dan akan dikembalikan \nkepada masyarakat setelah menjadi baik kembali. \n Apabila seorang dokter dinyatakan melanggar disiplin profesi kedokteran, maka \ndokter tersebut tidak serta- merta melanggar hukum. Untuk mencermati apakah \nada pelanggaran norma hukum, tentunya diperlukan forum selain forum disiplin \nkedokteran atau MKDKI. \n L ingkup, tugas, dan kewenangan Konsil Kedokteran tidak  serta- merta terkait \nlangsung dengan Pasal 66 ayat (3) Undang- Undang Praktik Kedokteran, \nkhususnya yang menyangkut norma-norma hukum. \n Terdapat tiga aspek utama praktik dokter yang terkait dengan bidang hukum, \nyaitu: \na. dokter bisa mengambil putusan klinis atas suatu kasus ( clinical judgement), \nyaitu apakah terhadap seseorang akan dilakukan tindakan tertentu. \nb. berkaitan dengan keterampilan dalam  melakukan suatu tindakan -tindakan \nmedis.",
+      "start_line": 2203,
+      "end_line": 2234
+    },
+    {
+      "heading": "c. terkait dengan perilaku, baik pribadi maupun profesional, terutama",
+      "slug": "c-terkait-dengan-perilaku-baik-pribadi-maupun-profesional-terutama",
+      "text": "hubungan dokter dengan pasiennya. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n54",
+      "start_line": 2236,
+      "end_line": 2243
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \n Terkait clinical judgement atau pengambilan putusan klinis, di banyak negara \npengambilan putusan klinis tidak dipidana karena hal  ini akan merugikan \nmasyarakat. Jika pengambilan putusan klinis dipidana m aka berdasarkan asas \nnon self incrimination petugas yang bersangkutan berhak untuk tidak  \nmemojokkan diri  sendiri, sehingga tidak melakukan tindakan apa pun, yang \nakibatnya masyarakat akan kehilangan keputusan profesional terbaik. \n UU Praktik Kedokteran menyatakan bahwa Konsil Kedokteran mempunyai \ntugas melakukan registrasi, yaitu membolehkan siapa- siapa yang praktik atau \ntidak, dan yang kedua adalah mencabut. Pihak yang mencabut surat tanda \nregistrasi adalah Konsil Kedokteran dengan dasar putusan MKDKI. \n MKDKI adalah salah satu tatanan dalam Konsil Kedokteran, dimana ketentuan-\nketentuan hukum acara, persidangan, dan lainnya ditetapkan oleh Konsil  \nKedokteran melalui Peraturan Konsil Kedokteran (Perkonsil) yang  merupakan \natribusi dari UU Praktik Kedokteran. \n Posisi KKI di Jakarta namun memiliki Divisi Pembinaan yang dapat proaktif \nmenjangkau seluruh wilayah Indonesia. \n Masih ada ruang dimana dokter harus bertanggung jawab secara hukum, dan \nMKDKI tidak pada tempatnya untuk melakukan penilaian terhadap pelanggaran \nnorma hukum. \n MKDKI tidak menghukum siapa pun, tetapi  melindungi masyarakat dengan \ncara mencabut registrasi. \n[2.8] Menimbang bahwa para Pemohon menyampaikan kesimpulan \nbertanggal 8 Oktober 2014 yang diterima Kepaniteraan Mahkamah pada tanggal 8 \nOktober 2014  d an Presiden menyampaikan kesimpulan tanpa tanggal bulan \nOktober 2014 yang keduanya diterima Kepaniteraan Mak hamah pada tanggal 21  \nOktober 2014, yang pada pokoknya masing-masing pihak tetap pada pendirian; \n[2.9] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, \nsegala sesuatu yang terjadi di persidangan merujuk berita acara persidangan, \nyang merupakan satu kesatuan yang tidak terpisahkan dengan putusan ini; \n \n \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n55",
+      "start_line": 2245,
+      "end_line": 2283
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id",
+      "start_line": 2285,
+      "end_line": 2285
+    },
+    {
+      "heading": "3. PERTIMBANGAN HUKUM",
+      "slug": "3-pertimbangan-hukum",
+      "text": "[3.1]  Menimbang bahwa maksud dan tujuan permohonan a quo adalah \nmemohon pengujian konstitusionalitas Pasal 66 ayat (3) Undang -Undang Nomor \n29 Tahun 2004 tentang Praktik Kedokteran (Lembaran Negara Republik Indonesia \nTahun 2004 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor \n4431, selanjutnya disebut UU 29/2004), yang menyatakan: \nPasal 66 ayat (3): “Pengaduan sebagaimana dimaksud pada ayat (1) dan ayat \n(2) tidak menghilangkan hak setiap orang untuk melaporkan \nadanya dugaan tindak pidana kepada pihak yang berwenang \ndan/atau menggugat kerugian perdata ke pengadilan”. \nterhadap Pasal 28D ayat (1) dan Pasal 28G ayat (1) Undang -Undang Dasar \nNegara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD 1945), yang \nmenyatakan: \nPasal 28D ayat (1): “Setiap orang berhak atas pengakuan, jaminan, perlindungan, \ndan kepastian hukum yang adil serta perlakuan yang sama di \nhadapan hukum”. \nPasal 28G ayat (1): “Setiap orang berhak atas perlindungan diri pribadi, keluarga, \nkehormatan, martabat, dan harta benda yang di bawah \nkekuasaannya, serta berhak atas rasa aman dan perlindungan  \ndari ancaman ketakutan untuk berbuat atau tidak berbuat \nsesuatu yang merupakan hak asasi”. \n[3.2] Menimbang bahwa sebelum mempertimbangkan pokok permohonan, \nMahkamah Konstitusi (selanjutnya disebut Mahkamah) terlebih dahulu akan \nmempertimbangkan: \na.  kewenangan Mahkamah untuk mengadili permohonan a quo; \nb. kedudukan hukum ( legal standing)  Pemohon untuk mengajukan permohonan     \na quo; \nTerhadap kedua hal tersebut, Mahkamah berpendapat sebagai berikut: \n \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n56",
+      "start_line": 2287,
+      "end_line": 2321
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nKewenangan Mahkamah \n[3.3]  Menimbang bahwa berdasarkan Pasal 24C ayat (1) UUD 1945 dan Pasal \n10 ayat (1) huruf a Undang- Undang Nomor 24 Tahun 2003 tentang Mahkamah \nKonstitusi (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 98, \nTambahan Lembaran Negara Republik Indonesia Nomor 4316) sebagaimana telah \ndiubah dengan Undang- Undang Nomor 8 Tahun 2011 tentang Perubahan Atas \nUndang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran \nNegara Republik Indonesia Tahun 2011 Nomor 70, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5226, selanjutnya diseb ut UU MK), serta Pasal 29 ayat \n(1) huruf a UU Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5076, selanjutnya disebut UU Nomor 48/2009), salah \nsatu kewenangan konstitusional Mahkamah adalah mengadili pada tingkat \npertama dan terakhir yang putusannya bersifat final untuk menguji Undang-\nUndang terhadap Undang-Undang Dasar; \n[3.4]  Menimbang bahwa permohonan para Pemohon adalah untuk menguji \nkonstitusionalitas norma Pasal 66 ayat (3) UU 29/2004 terhadap UUD 1945, yang \nmenjadi salah satu kewenangan Mahkamah, sehingga oleh karenanya Mahkamah \nberwenang untuk mengadili permohonan  a quo; \nKedudukan Hukum (Legal Standing) para Pemohon \n[3.5]  Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta \nPenjelasannya, yang dapat mengajukan permohonan pengujian Undang -Undang \nterhadap UUD 1945 adalah mereka yang menganggap hak dan/atau kewenangan \nkonstitusionalnya yang diberikan oleh UUD 1945 dirugikan oleh berlakunya suatu \nUndang-Undang, yaitu:  \na. perorangan warga negara Indonesia (termasuk kelompok orang yang \nmempunyai kepentingan sama);  \nb.  kesatuan masyarakat hukum adat sepanjang masih hidup dan sesuai dengan \nperkembangan masyarakat dan prinsip Negara Kesatuan Republik Indonesia \nyang diatur dalam Undang-Undang;",
+      "start_line": 2323,
+      "end_line": 2353
+    },
+    {
+      "heading": "d. lembaga negara;",
+      "slug": "d-lembaga-negara",
+      "text": "Untuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n57",
+      "start_line": 2356,
+      "end_line": 2362
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nDengan demikian, Pemohon dalam pengujian Undang- Undang terhadap UUD \n1945 harus menjelaskan dan membuktikan terlebih dahulu:  \na.  kedudukannya  sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat \n(1) UU MK;  \nb.  kerugian hak dan/atau kewenangan konstitusional yang diberikan oleh UUD \n1945 yang diakibatkan oleh berlakunya undang- undang yang dimohonkan \npengujian;  \n[3.6]  Menimbang pula bahwa Mahkamah sejak Putusan Mahkamah Konstitusi \nNomor 006/PUU -III/2005, bertanggal 31 Mei 2005,  dan Putusan Mahkamah \nKonstitusi Nomor 11/PUU -V/2007, bertanggal 20 September 2007, serta putusan \nselanjutnya berpendirian bahwa kerugian hak dan/atau kewenangan konsti tusional \nsebagaimana dimaksud dalam Pasal 51 ayat (1) UU MK harus memenuhi lima \nsyarat, yaitu:  \na.  adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh \nUUD 1945;  \nb. hak dan/atau kewenangan konstitusional tersebut oleh Pemohon dianggap \ndirugikan oleh berlakunya Undang-Undang yang dimohonkan pengujian;",
+      "start_line": 2364,
+      "end_line": 2381
+    },
+    {
+      "heading": "c kerugian konstitusional tersebut harus bersifat spesifik (khusus) dan aktual atau",
+      "slug": "c-kerugian-konstitusional-tersebut-harus-bersifat-spesifik-khusus-dan-aktual-atau",
+      "text": "setidak-tidaknya potensial yang menurut penalaran yang wajar dapat dipastikan \nakan terjadi;",
+      "start_line": 2383,
+      "end_line": 2384
+    },
+    {
+      "heading": "d. adanya hubungan sebab- akibat (causal verband) antara kerugian dimaksud",
+      "slug": "d-adanya-hubungan-sebab-akibat-causal-verband-antara-kerugian-dimaksud",
+      "text": "dan berlakunya Undang-Undang yang dimohonkan pengujian;  \ne. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka \nkerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi;  \n[3.7]  Menimbang bahwa berdasarkan uraian sebagaimana tersebut pada \nparagraf [3.5] dan [3.6] di atas, selanjutnya Mahkamah akan mempertimbangkan \nmengenai kedudukan hukum (legal standing) para Pemohon sebagai berikut:  \n[3.8] Menimbang bahwa pada pokoknya para Pemohon mendalilkan sebagai \nperseorangan warga negara Indonesia yang berprofesi sebagai dokter . Para \nPemohon mendalilkan memiliki hak konstitusional sebagaimana diatur dalam \nPasal 28D dan Pasal 28G ayat (1) UUD 1945, yang dirugikan akibat berlakunya \nketentuan Pasal 66 ayat (3) UU 29/2004. Hak konstitusional para Pemohon berupa \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n58",
+      "start_line": 2386,
+      "end_line": 2403
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nhak akan kepastian hukum, hak untuk memperoleh rasa aman, dan hak untuk \nbebas dari rasa takut, telah dirugikan atau berpotensi dirugikan oleh Pasal 66 ayat \n(3) ka rena ketentuan a quo mengakibatkan para Pemohon sebagai dokter tetap \ndapat dinyatakan bersalah oleh  pengadilan pidana maupun pengadilan perdata, \nmeskipun oleh Majelis Kehormatan Disiplin Kedokteran Indonesia (MKDKI) para \nPemohon telah diperiksa dan dinyatakan tidak bersalah melakukan pelanggaran \ndisiplin. \n[3.9] Menimbang bahwa kedudukan para Pemohon dalam kapasitasnya \nsebagai perseorangan warga negara Indonesia telah dibuktikan dengan identitas \ndiri berupa fotokopi kartu tanda penduduk atau KTP (vide bukti P-1). \nBahwa pasal yang dimohonkan pengujian konstitusionalitasnya oleh para \nPemohon, menurut Mahkamah memiliki hubungan sebab akibat ( causal verband) \nberupa potensi timbulnya kerugian konstitusional bagi para Pemohon. Potensi \nkerugian konstitusional tersebut memiliki kemungkinan untuk tidak terjadi \nseandainya Mahkamah mengabulkan permohonan para Pemohon agar ketentuan \nPasal 66 ayat (3) UU 29/2004 berlaku hanya jika MKDKI telah menyatakan bahwa \ndokter bersangkutan (yang dilaporkan secara pidana atau yang digugat secara \nperdata) bersalah melakukan pelanggaran disiplin profesional dokter atau dokter \ngigi yang mengandung kesengajaan ( dolus/opzet) atau kelalaian nyata/berat \n(culpa lata) dan/atau menimbulkan kerugian perdata. \nBerdasarkan pertimbangan tersebut, Mahkamah menilai para Pemohon \nmemiliki kedudukan hukum (legal standing) untuk mengajukan permohonan a quo. \n[3.10] Menimbang bahwa oleh karena Mahkamah berwenang mengadili \npermohonan a quo dan para Pemohon memiliki kedudukan hukum (legal standing) \nuntuk mengajukan permohonan a quo maka selanjutnya Mahkamah akan \nmempertimbangkan pokok permohonan; \nPokok Permohonan \nPendapat Mahkamah \n[3.11]  Menimbang bahwa para Pemohon pada pokoknya mendalilkan Pasal 66 \nayat (3) UU 29/2004 bertentangan dengan Pasal 28D ayat (1) dan Pasal 28G ayat \n(1) UUD 1945. \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n59",
+      "start_line": 2405,
+      "end_line": 2443
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nTerhadap permohonan pengujian konstitusional yang diajukan para \nPemohon tersebut, Mahkamah memberikan pertimbangan hukum sebagai berikut. \n[3.12] Menimbang bahwa Pasal 66 ayat (3) UU 29/2004 pada dasarnya \nmengatur pengaduan kepada MKDKI dari orang atau badan hukum (korporasi) \nyang mengetahui atau merasa dirugikan atas tindakan medis seorang dokter atau \ndokter gigi, tidak menghilangkan hak pengadu tersebut untuk melaporkan juga \nkepada pihak yang berwenang dan/atau menggugat secara perdata ke pengadilan \natas adanya dugaan tindak pidana dari dokter atau dokter gigi.  Ketentuan tersebut \nmenurut para Pemohon tidak memberikan kepastian hukum karena para Pemohon \nsebagai dokter tetap dapat dinyatakan bersalah oleh pengadilan pidana maupun \npengadilan perdata, meskipun sebelumnya oleh MKDKI para Pemohon telah \ndiperiksa dan dinyatakan tidak bersalah melakukan pelanggaran disiplin. Dengan \nkata lain, seorang dokter atau dokter gigi yang telah diperiksa oleh MKDKI dan \ndinyatakan tidak melakukan pelanggaran disiplin, ternyata masih dapat dinyatakan \nbersalah oleh pengadilan pidana maupun oleh pengadilan perdata. \nPara Pemohon juga menerangkan bahwa terjadinya hal demikian \ndisebabkan pula karena tidak adanya ketentuan yang mengatur agar setiap \npelaporan dugaan tindak pidana dimaksud harus terlebih dahulu dilaporkan dan \ndiperiksa oleh MKDKI untuk menentukan ada atau tidaknya pelanggaran disiplin \nprofesional dokter atau dokter gigi. \n[3.13] Menimbang bahwa Mahkamah berpendapat permasalahan \nkonstitusionalitas yang diuraikan oleh para Pemohon mengenai Pasal 66 ayat (3) \nberkaitan erat dengan keberadaan norma hukum (berupa undang -undang), etika \natau kode etik, serta disiplin profesi yang mengatur dokter dan dokter gigi, yang \nketiganya diatur dalam UU 29/2004. Untuk itu Mahkamah terlebih dahulu akan \nmemperjelas perbedaan antara ketiga hal tersebut dalam hubungannya dengan \nUU 29/2004. \n[3.13.1]  Etika/kode etik, disiplin profesi, maupun norma hukum  pada dasarnya \nadalah sebuah kaidah atau tata nilai yang memberikan arahan bagi manusia untuk \nberperilaku baik dalam hubungannya dengan sesama manusia dan lingkungan \nsekitarnya. Salah satu perbedaan antara etika dan norma hukum adalah pada \nkekuatan mengikat dan sanksinya. Kekuatan mengikat etika terhadap manusia \nrelatif lemah bahkan dapat dikatakan mengandalkan sifat sukarela. Hal ini \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n60",
+      "start_line": 2445,
+      "end_line": 2485
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nberkaitan dengan jenis sanksi dari etika yang relatif sulit untuk dipaksakan \npenerapannya. Adapun norma hukum memiliki daya ikat yang lebih kuat bagi \nmanusia karena norma hukum memiliki mekanisme untuk memaksakan sanksi \nbagi pelanggarnya dengan menggunakan kekuatan negara. \nEtika atau etika profesi dibentuk/disusun oleh suatu kelompok atau \nkomunitas profesi tertentu atas dasar kesepakatan. Dalam konteks praktik \nkedokteran, UU 29/2004 menyat akan, “Etika profesi adalah kode etik dokter dan \nkode etik dokter gigi yang disusun oleh Ikatan Dokter Indonesia (IDI) dan \nPersatuan Dokter Gigi Indonesia (PDGI) ” [vide Penjelasan Pasal 8 huruf f UU \n29/2004]. Adapun norma hukum dibentuk/disusun oleh entitas berbentuk Negara, \ndalam hal ini oleh pembentuk Undang-Undang yang terdiri dari DPR dan Presiden, \nyang norma demikian memiliki kekuatan pemaksa bagi warga negara dan/atau \npenduduk. Hal demikianlah yang memunculkan perbedaan mengenai jenis sanksi \ndan kekuatan pemaksa antara etika dengan norma hukum. \n[3.13.2]  Adapun disiplin profesi pada dasarnya adalah etika yang khusus berlaku \nbagi orang atau kelompok orang tertentu yang melakukan praktik profesi tertentu \npula, namun dengan bentuk dan kekuatan sanksi yang lebih tegas dibanding \nsanksi etika pada umumnya, meskipun tetap lebih “lunak” dibandingkan sanksi \nhukum. Sanksi yang diancamkan oleh suatu disiplin profesi relatif lebih keras \ndibandingkan sanksi etika pada umumnya, karena sanksi disiplin berkaitan dengan \ndapat atau tidaknya pemegang profesi tertentu untuk terus memegang atau \nmenjalankan profesinya. Dalam UU 29/2004 dapat diketahui bahwa arti disiplin \nprofesi adalah “ aturan-aturan dan/atau ketentuan penerapan keilmuan dalam \npelaksanaan pelayanan yang harus diikuti oleh dokter dan dokter gigi ” [vide \nPenjelasan Pasal 55 ayat (1) UU 29/2004]. \n[3.14] Menimbang bahwa tujuan utama ilmu pengetahuan, termasuk di \ndalamnya adalah ilmu pengetahuan kedokteran umum maupun kedokteran gigi, \nadalah memuliakan kehidupan manusia. Posisi ilmu pengetahuan kedokteran \nmenjadi istimewa, setidaknya di hadapan hukum, karena ilmu kedokteran dan \npraktiknya memiliki kaitan yang signifikan dengan kesehatan bahkan \nkehidupan/keselamatan manusia. Mahkamah sependapat dengan \nPresiden/Pemerintah yang menyatakan bahwa keistimewaan atau kekhasan \nprofesi dokter dan dokter gigi adalah adanya “ pembenaran yang diberikan oleh \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n61",
+      "start_line": 2487,
+      "end_line": 2527
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nhukum, yaitu diperkenankannya melakukan tindakan medis terhadap tubuh \nmanusia dalam upaya memelihara dan meningkatkan derajat kesehatan” . \nKeistimewaan tersebut terlihat manakala seseorang yang bukan dokter atau dokter \ngigi melakukan tindak an medis terhadap tubuh manusia, maka tindakan yang \ndemikian dapat digolongkan sebagai tindak pidana. \nOleh karena profesi  dokter dan dokter gigi merupakan profesi yang \nistimewa dalam hubungannya dengan nyawa manusia, maka sudah sewajarnya \njika profesi tersebut beserta masyarakat yang berkepentingan terhadap profesi \ntersebut diatur secara istimewa. Dengan demikian, selain diatur secara etika, \nprofesi dan praktik profesi kedokteran maupun kedokteran gigi diatur berdasarkan \nkaidah keilmuan (disiplin profesi) serta diatur pula menurut hukum. \n[3.15] Menimbang bahwa menurut Mahkamah, pembentuk undang- undang \nsecara tegas mengakomodasi atau mengatur keberadaan etika sebagai bagian \ndari norma hukum, dalam hal ini UU 29/2004. Hal demikian dapat dilihat antara lain \ndalam Pasal 30 ayat (2) huruf e dan Pasal 51 huruf a UU 29/2004. \nDalam kaitannya dengan pelanggaran yang dilakukan oleh dokter atau \ndokter gigi terh adap etika profesi, disiplin profesi, dan norma hukum, UU 29/2004 \nmengklasifikasi/mengkategorisasi serta mengatur alur pengaduan sebagai berikut: \na. Pelanggaran oleh dokter atau dokter gigi dapat berupa i) pelanggaran etika, ii) \npelanggaran disiplin profesi, dan/atau iii) pelanggaran hukum; \nb. Pengaduan terhadap pelanggaran disiplin profesi diperiksa dan diputus oleh \nMKDKI [vide Pasal 64 dan Pasal 67];",
+      "start_line": 2529,
+      "end_line": 2551
+    },
+    {
+      "heading": "c. Pengaduan terhadap pelanggaran kode etik profesi diteruskan oleh MKDKI",
+      "slug": "c-pengaduan-terhadap-pelanggaran-kode-etik-profesi-diteruskan-oleh-mkdki",
+      "text": "kepada organisasi profesi [vide Pasal 68];",
+      "start_line": 2553,
+      "end_line": 2553
+    },
+    {
+      "heading": "d. Pelanggaran terhadap norma hukum pidana dapat dilaporkan kepada",
+      "slug": "d-pelanggaran-terhadap-norma-hukum-pidana-dapat-dilaporkan-kepada",
+      "text": "kepolisian atau kejaksaan [vide Pasal 66 ayat (3)]; \ne. Pelanggaran terhadap norma hukum perdata dapat digugat ke pengadilan [vide \nPasal 66 ayat (3)]; \nDimasukkannya etika profesi dan disiplin profesi ke dalam suatu Undang-\nUndang menurut Mahkamah harus dipahami bahwa pembentuk U ndang-Undang \nmemberi penekanan pentingnya etika profesi dan disiplin profesi untuk \ndilaksanakan sebagai pedoman bagi perilaku dokter atau dokter gigi. Hal yang \nharus digarisbawahi adalah meskipun etika profesi dan disiplin profesi dimaksud \ndiatur/dimuat di dalam sebuah Undang- Undang, tidak dapat langsung diartikan \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n62",
+      "start_line": 2555,
+      "end_line": 2570
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nbahwa etika dan disiplin profesi dimaksud memiliki konsekuensi hukum yang sama \ndengan norma hukum yang berada di  dalam Undang- Undang yang sama. Jika \netika profesi dan disiplin profesi yang diatur dalam suatu Undang- Undang diberi \nkekuatan berlaku (dan mengikat) yang sama dengan norma hukum di dalam \nUndang-Undang, maka konsekuensinya adalah pelanggaran terhadap etika profesi \ndan disiplin profesi akan dikenai sanksi hukum, terutama sanksi pidana dan sanksi \nperdata, padahal pelanggaran atas etika profesi dan disiplin profesi hanya dapat \ndikenai sanksi secara etika pula dan/atau secara administratif. \nDengan kata lain meskipun etika profesi, disiplin profesi, dan norma \nhukum dimaksud ketiganya dimuat dalam Undang- Undang yang sama, namun \nsecara normatif tidak dapat saling meniadakan atau saling menggantikan. \n[3.16] Menimbang bahwa selanjutnya Mahkamah akan menjawab pertanyaan \nmendasar, yaitu apakah dari perspektif konstitusi telah mencukupi jika r isiko \nkeselamatan jiwa pasien, dalam konteks praktik kedokteran, hanya dilindungi oleh \netika profesi atau oleh disiplin profesi. \nBahwa etika profesi atau kode etik baru memiliki kekuatan pemaksa \nsetelah dokter atau dokter gigi tersebut bergabung dalam organisasi profesi yang \nmemberlakukan etika profesi atau kode etik tersebut. Keikutsertaan dokter atau \ndokter gigi ke dalam organisasi profesi merupakan perintah Undang- Undang. \nPerintah tersebut dimaksudkan untuk memenuhi persyaratan administrasi, berupa \ndokter atau dokter gigi harus bergabung dengan organisasi profesi yang diikat \ndengan kode etik, jika ingin melakukan praktik sebagai dokter atau dokter gigi. \nHal mendasar dari keberadaan kode etik yang pada akhirnya dapat \nmenimbulkan masalah perlindungan hukum untuk pasien (sebagai konsumen \nmedis) adalah bahwa kode etik tidak memiliki sanksi yang sepadan dengan risiko \nyang ditimbulkan akibat kelalaian yang dilakukan oleh dokter atau dokter  gigi, atau \nrisiko dari kesengajaan tindakan dokter atau dokter gigi yang menimbulkan \nkerugian bagi pasien. \nBerkenaan dengan disiplin profesi kedokteran, Mahkamah berpendapat \nsebagai sebuah peraturan atau ketentuan mengenai penerapan keilmuan dalam \npelaksanaan layanan medis, disiplin profesi kedokteran terlihat hanya sebagai \npembakuan prosedur ilmiah yang harus dilakukan oleh dokter atau dokter gigi \ndalam menjalankan tindakan medis. Namun justru karena tindakan dokter atau \ndokter gigi dilakukan berdasarkan prosedur baku keilmuan yang dituangkan dalam \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n63",
+      "start_line": 2572,
+      "end_line": 2613
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \ndisiplin profesi demikian, maka benar atau tidaknya tindakan dokter atau dokter \ngigi tersebut dari sudut pandang disiplin profesi, menurut Mahkamah, sudah \nsewajarnya dan seharusnya menjadi penapis atau penyaring dalam \nmengkualifikasikan apakah tindakan dokter atau dokter gigi tersebut termasuk \npelanggaran pidana dan/atau menimbulkan kerugian secara perdata. \nBahwa dalam kaitannya dengan perbedaan mendasar antara etika \nprofesi dan disiplin profesi kedokteran di satu sisi, dengan norma hukum di sisi \nlain, Mahkamah berpandangan keberadaan etika profesi, disiplin profesi, dan \nnorma hukum, yang masing- masing mengancamkan sanksi tertentu, serta diatur \nbersama-sama dalam Undang- Undang a quo,  bukan merupakan penjatuhan \nsanksi ganda bagi satu perbuatan. Jikalau dijatuhkan sanksi etika, sanksi disiplin, \ndan sanksi hukum, hal itu bukanlah sanksi ganda karena masing -masing memiliki \ndimensi berbeda. \n[3.17] Menimbang bahwa berdasarkan pertimbangan hukum sebagaimana \ndiuraikan di a tas, Mahkamah memahami bahwa sanksi pidana terhadap profesi \ndokter atau dokter gigi yang diatur oleh Undang- Undang a quo memang ditujukan \nuntuk melindungi dokter, pasien, serta pemangku kepentingan ( stake holder ) \ndalam konteks: \ni) mencegah pihak -pihak yang belum/tidak memiliki kelayakan kompetensi agar \ntidak berpraktik sebagai dokter atau dokter gigi; \nii) memberikan izin (legalitas) bagi dokter atau dokter gigi untuk melakukan praktik \nkedokteran; \niii) mencegah agar kemampuan dokter atau dokter gigi tidak digunakan untuk \nsecara sengaja merugikan pasien; dan \niv) Undang-Undang a quo memberikan rasa aman kepada dokter dan pasien \ndengan cara menunjukkan keberadaan dan kepedulian negara dalam hal \npraktik kedokteran; \n[3.18] Menimbang bahwa menurut Mahkamah pertanyaan selanjutnya a dalah, \napakah suatu tindakan dokter atau dokter gigi yang telah diperiksa dan diputus \noleh MKDKI, masih dapat diajukan pelaporannya kepada pihak berwenang \ndan/atau digugat secara perdata. \nDengan merujuk pada pertimbangan hukum yang telah diuraikan \nsebelumnya, Mahkamah berpendapat bahwa proses pengadilan baik dalam \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n64",
+      "start_line": 2615,
+      "end_line": 2655
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nperkara pidana maupun perkara perdata selama terkait dengan tindakan profesi \nkedokteran (baik dokter atau dokter gigi) harus dilakukan dalam lingkup profesi \nkedokteran. Artinya standar penilaian terhadap tindakan/asuhan dokter dan dokter \ngigi tidak boleh semata- mata dilihat dari kacamata Undang- Undang mengenai \nhukum pidana atau Kitab Undang-Undang Hukum Pidana (KUHP) pada umumnya, \nmelainkan harus didasarkan pada standar disiplin profesi kedokteran yang disusun \noleh lembaga resmi yang ditunjuk oleh peraturan perundang-undangan. \nHal demikian terkait dengan keistimewaan profesi dan ilmu kedokteran \nyang secara hakiki memang lebih dekat dengan risiko yang berakibat kecacatan \nbahkan hilangnya nyawa seseorang. Meskipun bisa jadi tindakan profesi \nkedokteran dan tindakan profesi lain sama- sama mengakibatkan atau \nmenimbulkan risiko cacat atau kematian, dan keduanya diatur dalam Undang-\nUndang yang sama, misalkan KUHP, tetapi tentu harus dibedakan konsekuensi \nhukumnya bagi dokter atau dokter gigi karena mereka memang diizinkan untuk \nmelakukan tindakan terhadap tubuh manusia, sementara profesi lain tidak \ndemikian adanya. \nPerbedaan tersebut menurut Mahkamah memberikan dasar yang kuat \nbagi penegak hukum yaitu kepoli sian dan kejaksaan untuk perkara pidana, \nmaupun pengadilan baik pidana maupun perdata, untuk memperlakukan dokter \ndan dokter gigi secara berbeda. Perbedaan demikian harus dilakukan atau \nditunjukkan dengan menjadikan ilmu kedokteran, khususnya yang tertuang dalam \nperaturan disiplin profesional dokter, sebagai rujukan utama dalam melakukan \npenyelidikan, penyidikan, penuntutan, serta pemeriksaan persidangan. \n[3.19] Menimbang, pertimbangan hukum yang demikian menegaskan pendapat \nMahkamah bahwa makna keadilan adalah memperlakukan sama terhadap yang \nsama dan memperlakukan berbeda terhadap dua hal yang memang berbeda. \nKonsep keadilan yang demikian merupakan pengetahuan yang bersifat umum \n(tacit knowledge) yang diyakini Mahkamah telah dimiliki dan disadari oleh semua \naparat penegak hukum, yaitu kepolisian, kejaksaan, serta pengadilan. \nTerkait dengan hal tersebut Mahkamah berpendapat bahwa proses \npidana dan/atau gugatan perdata yang diatur dalam Pasal 66 ayat (3) Undang-\nUndang a quo, secara kontekstual tidak memiliki makna lain selain menjadikan \nilmu kedokteran, khususnya kode etik dan disiplin profesi kedokteran, sebagai \nsalah satu rujukan dalam melakukan penyelidikan, penyidikan, penuntutan, serta \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n65",
+      "start_line": 2657,
+      "end_line": 2698
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \npemeriksaan sidang. Tindakan penyelidikan, penyidikan, penuntutan, ser ta \npemeriksaan sidang yang menjadikan kode etik dan disiplin profesi kedokteran \nsebagai salah satu rujukan, antara lain, dengan mendengarkan pendapat atau \nkeahlian dari pihak -pihak yang memiliki kompetensi di bidang kedokteran, ketika \naparat penegak hukum melakukan penafsiran terhadap peraturan hukum yang \nmengatur tindakan dokter atau dokter gigi, serta ketika melakukan penilaian \nterhadap tindakan dokter atau dokter gigi dimaksud. \nDilaksanakannya peradilan yang menjadikan ilmu kedokteran sebagai \nsalah satu rujukan dalam mengadili dokter dan/atau dokter gigi yang diduga \nmelakukan malpraktik, menurut Mahkamah telah membatasi risiko yang harus \nditanggung dokter dan/atau dokter gigi dari pelaporan pidana atau gugatan \nperdata. Artinya dalam proses pengadilan yang demikian akan tertutup \nkemungkinan dijatuhkannya sanksi pidana dan/atau perdata kepada dokter atau \ndokter gigi yang tindakan medisnya oleh MKDKI telah dinyatakan sesuai atau tidak \nmelanggar disiplin profesi kedokteran. \nAdapun ketentuan pelaporan secara pidana dan/atau gugatan secara \nperdata tentu tetap diperlukan untuk melindungi hak -hak pasien dan pemangku \nkepentingan pada umumnya dari tindakan dokter atau dokter gigi yang berada di \nluar cakupan disiplin profesi kedokteran, atau untuk melindungi hak pasien \nmanakala tindakan dokter atau dokter gigi yang dinyatakan oleh MKDKI melanggar \ndisiplin profesi kedokteran ternyata menimbulkan kerugian pada pasien. \nDalam konteks sebagaimana telah diuraikan oleh Mahkamah dalam \nrangkaian pertimbangan hukum di atas, ketakutan bahwa dokter dan/atau dokter \ngigi akan dikenai sanksi pidana dan/atau sanksi perdata jika melakukan tindakan \nkedokteran yang lebih lanjut menimbulkan praktik defensive medicine di kalangan \nmedis, menurut Mahkamah tidak berdasar dan tidak lagi memiliki relevansi untuk \ndipertimbangkan lebih lanjut. \n[3.20] Menimbang bahwa berdasarkan seluruh pertimbangan hukum di atas, \nMahkamah berpendapat pengujian konstitusionalitas Pasal 66 ayat (3) UU 29/2004 \nyang dimohonkan oleh para Pemohon tidak beralasan menurut hukum. \n \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n66",
+      "start_line": 2700,
+      "end_line": 2738
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id",
+      "start_line": 2740,
+      "end_line": 2740
+    },
+    {
+      "heading": "4. KONKLUSI",
+      "slug": "4-konklusi",
+      "text": "Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan di \natas, Mahkamah berkesimpulan: \n[4.1]   Mahkamah berwenang mengadili permohonan a quo; \n[4.2]  Para Pemohon memiliki kedudukan hukum ( legal standing) untuk  \nmengajukan permohonan a quo; \n[4.3]   P ermohonan para Pemohon tidak beralasan menurut hukum. \n Berdasarkan Undang-Undang Dasar Negara Re publik Ind onesia \nTahun 19 45, Undang-Undang Nomor 24 Ta hun 2 003 tentang Mahkamah \nKonstitusi sebagaimana telah diubah dengan Undang -Undang Nomor 8 Tahun \n2011 tentang Perubahan Atas Undang -Undang Nomor 24 Tahun 2003 tentang \nMahkamah Konstitusi ( Lembaran Ne gara Republik Indonesia Tahun 2 011 Nomor \n70, Tambahan Lem baran Ne gara Re publik Indonesia Nomor 5226), dan \nUndang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman \n(Lembaran Negara Republik Indonesia Tahun 2009 Nomor 157, Tambahan \nLembaran Negara Republik Indonesia Nomor 5076);",
+      "start_line": 2742,
+      "end_line": 2756
+    },
+    {
+      "heading": "5. AMAR PUTUSAN",
+      "slug": "5-amar-putusan",
+      "text": "Mengadili,  \nMenyatakan menolak permohonan para Pemohon. \nDemikian diputuskan dalam Rapat Permusyawaratan Hakim oleh \nsembilan Hakim Konstitusi yaitu Hamdan Zoelva, selaku Ketua merangkap \nAnggota, Arief Hidayat, Patrialis Akbar, Muhammad Alim,  Anwar Usman, Maria \nFarida Indrati , Ahmad Fadlil Sumadi , Aswanto, dan Wahiduddin Adams, masing-\nmasing sebagai Anggota, pada hari Kamis, tanggal dua puluh tiga,  bulan \nOktober, tahun dua ribu empat belas,  yang diucapkan dalam Sidang Pleno \nMahkamah Konstitusi terbuka untuk umum pada hari  Senin, tanggal dua puluh, \nbulan April, tahun dua ribu lima belas , selesai diucapkan pada pukul 14.57 \nWIB, oleh delapan Hakim Konstitusi, yaitu Arief Hidayat , selaku Ketua merangkap \nAnggota, Anwar Usman, Patrialis Akbar, Muhammad Alim,  Maria Farida Indrati, \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id \n \n\n \n67",
+      "start_line": 2758,
+      "end_line": 2776
+    },
+    {
+      "heading": "SALINAN PUTUSAN MAHKAMAH KONSTITUSI RI",
+      "slug": "salinan-putusan-mahkamah-konstitusi-ri",
+      "text": "Diunduh dari laman: www.mahkamahkonstitusi.go.id \nAswanto, Wahiduddin Adams, dan Suhartoyo, masing-masing sebagai Anggota, \ndengan didampingi oleh Mardian Wibowo sebagai Panitera Pengganti, serta \ndihadiri oleh para Pemohon/Kuasanya , Presiden atau yang mewakili, dan Dewan \nPerwakilan Rakyat atau yang mewakili, serta Pihak Terkait. \nKETUA, \nttd. \n \nArief Hidayat \nANGGOTA-ANGGOTA, \nttd. \nAnwar Usman \nttd. \nPatrialis Akbar  \nttd. \nMuhammad Alim \nttd. \nMaria Farida Indrati \nttd. \nAswanto \nttd. \nWahiduddin Adams \nttd. \nSuhartoyo \nPANITERA PENGGANTI,  \nttd. \nMardian Wibowo \n \n \n \nUntuk mendapatkan salinan resmi, hubungi Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia \nJl. Merdeka Barat No.6, Jakarta 10110, Telp. (021) 23529000, Fax (021) 3520177, Email: sekretariat@mahkamahkonstitusi.go.id",
+      "start_line": 2778,
+      "end_line": 2810
+    }
+  ],
+  "parties": {
+    "applicants": [
+      {
+        "name": "dr. Agung Sapta Adi, Sp.An",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "dr. Yadi Permana, Sp.B(K)Onk",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "dr. Irwan Kreshnamurti, Sp.OG",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "dr. Eva Sridiana, Sp.P",
+        "role": "Pemohon",
+        "description": null
+      },
+      {
+        "name": "dr. Lewis Isnadi",
+        "role": "Pemohon",
+        "description": null
+      }
+    ],
+    "legal_counsels": [
+      {
+        "name": "i) M. Luthfie Hakim, S.H",
+        "role": "legal_counsel",
+        "description": null
+      },
+      {
+        "name": "M .H",
+        "role": "legal_counsel",
+        "description": null
+      }
+    ],
+    "respondents": [
+      {
+        "name": "DPR",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Presiden",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pemerintah",
+        "role": "respondent",
+        "description": null
+      },
+      {
+        "name": "Pihak Terkait",
+        "role": "respondent",
+        "description": null
+      }
+    ],
+    "experts": [],
+    "witnesses": [],
+    "amicus_curiae": []
+  },
+  "legal_basis": {
+    "object_of_review": [
+      "UU 29/2004 tentang Praktik Kedokteran"
+    ],
+    "constitutional_articles": [
+      "Pasal 28D",
+      "Pasal 28D ayat (1)",
+      "Pasal 28G",
+      "Pasal 28G ayat (1)",
+      "Pasal 28H ayat (1)",
+      "Pasal 24C ayat (1)",
+      "Pasal 66 ayat (3)",
+      "Pasal 24C"
+    ],
+    "procedural_articles": [],
+    "evidence": [
+      "BUKTI P-1",
+      "BUKTI P-2",
+      "REFERENSI:14/PUU-XII/2014",
+      "REFERENSI:41/PAN.MK/2014dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusidenganNomor14/PUU-XII/2014",
+      "REFERENSI:90/PID.B/2011",
+      "REFERENSI:90/Pid.B/2011",
+      "REFERENSI:512/2011dan519/2007",
+      "REFERENSI:006/PUU-III/2005",
+      "REFERENSI:29/2004karenabeberapabunyikalimatdalamalineapenjelasanumumUU29/2004",
+      "REFERENSI:006/PUU-III/2005danNomor011/PUU-V/2007",
+      "REFERENSI:11/PUU-V/2007",
+      "REFERENSI:29/2004.UntukituMahkamahterlebihdahuluakanmemperjelasperbedaanantaraketigahaltersebutdalamhubungannyadenganUU29/2004"
+    ]
+  },
+  "proceedings": [
+    "mendengar keterangan ahli",
+    "sidang pleno",
+    "rapat permusyawaratan hakim",
+    "pemeriksaan yang diketahuinya secara benar dan patut;",
+    "diperlukan MKDKI I MKDKI -P untuk pemeriksaan atas pengaduan",
+    "masuk persidangan.",
+    " Hasil pemeriksaan MKDI dapat berupa:",
+    "pemeriksaan tidak mendukung penegakan diagnosis.",
+    "pemeriksaan yang sebenarnya tidak diperlukan.",
+    "pemeriksaan.",
+    "pemeriksaan atau pengobatan;"
+  ],
+  "outcome": {
+    "decision_type": "putusan",
+    "dictum": [
+      "Menyatakan menolak permohonan para Pemohon."
+    ],
+    "summary": "Menolak permohonan untuk seluruhnya."
+  },
+  "adjudicators": {
+    "judges": [
+      "Arief Hidayat",
+      "Anwar Usman",
+      "Patrialis Akbar",
+      "Muhammad Alim",
+      "Maria Farida Indrati",
+      "Aswanto",
+      "Wahiduddin Adams",
+      "Suhartoyo"
+    ],
+    "clerks": [
+      "Mardian Wibowo"
+    ]
+  },
+  "relations": {
+    "joined_cases": [
+      "14/PUU-XII/2014",
+      "41/PAN.MK/2014dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusidenganNomor14/PUU-XII/2014",
+      "90/PID.B/2011",
+      "90/Pid.B/2011",
+      "512/2011dan519/2007",
+      "006/PUU-III/2005",
+      "29/2004karenabeberapabunyikalimatdalamalineapenjelasanumumUU29/2004",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "11/PUU-V/2007",
+      "29/2004.UntukituMahkamahterlebihdahuluakanmemperjelasperbedaanantaraketigahaltersebutdalamhubungannyadenganUU29/2004"
+    ],
+    "referenced_cases": [
+      "14/PUU-XII/2014",
+      "41/PAN.MK/2014dantelahdicatatdalamBukuRegistrasiPerkaraKonstitusidenganNomor14/PUU-XII/2014",
+      "90/PID.B/2011",
+      "90/Pid.B/2011",
+      "512/2011dan519/2007",
+      "006/PUU-III/2005",
+      "29/2004karenabeberapabunyikalimatdalamalineapenjelasanumumUU29/2004",
+      "006/PUU-III/2005danNomor011/PUU-V/2007",
+      "11/PUU-V/2007",
+      "29/2004.UntukituMahkamahterlebihdahuluakanmemperjelasperbedaanantaraketigahaltersebutdalamhubungannyadenganUU29/2004"
+    ]
+  },
+  "validation": {
+    "schema_errors": [],
+    "business_rule_errors": [],
+    "review_flags": [],
+    "needs_manual_review": false
+  }
+}
