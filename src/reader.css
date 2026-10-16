@@ -122,3 +122,6 @@
 .story-context-chapter{display:block;color:var(--muted);font-size:12px;margin-top:5px}
 @media(max-width:900px){.story-contents-grouped{max-height:none;overflow:visible}}
 @media(max-width:650px){.story-part>header,.story-comparison{margin-left:0}.story-change{grid-template-columns:1fr}.story-part>header h2{font-size:29px}.story-comparison{padding:20px}}
+
+.language-switch{display:flex;align-items:center;gap:8px;font-size:11px;white-space:nowrap}.language-switch a{padding:7px 0}.language-switch a[aria-current]{font-weight:700;color:var(--ink)}.language-switch span{color:var(--muted)}.translation-missing{display:block;font-size:11px;font-weight:400;color:var(--muted);margin-top:4px}
+@media(max-width:720px){.site-header{flex-wrap:wrap;gap:12px}.language-switch{margin-left:auto;font-size:11px}.site-header nav{order:3;width:100%;flex-wrap:wrap}.language-switch{order:2}.site-header nav a:last-child{display:inline}}

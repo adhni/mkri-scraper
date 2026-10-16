@@ -392,6 +392,28 @@ Route utama:
 - `/api/cases` untuk daftar perkara dalam JSON
 - `/api/cases/<case_id>` untuk detail perkara dalam JSON
 
+### Bahasa Indonesia dan English
+
+Gunakan pilihan **Bahasa Indonesia | English** di bagian atas halaman publik.
+Tautan `/cases?lang=en` membuka koleksi dalam bahasa Inggris; pilihan bahasa
+ikut terbawa saat mencari, memakai filter, membuka perkara, dan membaca cerita.
+Tanpa parameter bahasa (atau dengan nilai yang tidak didukung), tampilan memakai
+bahasa Indonesia. Halaman pengelolaan tetap berbahasa Indonesia.
+
+Versi Inggris meliputi antarmuka, judul dan ringkasan 200 perkara, nama topik dan
+undang-undang, ringkasan hasil, penjelasan perkara, serta ketiga cerita. PDF,
+amar lengkap, dan teks hasil ekstraksi tetap merupakan sumber asli berbahasa
+Indonesia. API JSON tetap mengembalikan data sumber dengan struktur yang sama;
+pencarian pada halaman dan API mencakup metadata Indonesia dan Inggris.
+
+Terjemahan isi disimpan dalam `data/translations/en.json`, dengan teks Indonesia
+asli sebagai kunci. Saat menambahkan atau mengoreksi isi, tambahkan pasangan
+teks asli dan terjemahan Inggrisnya ke berkas tersebut. Teks yang berubah tidak
+memakai terjemahan lama: versi Inggris menampilkan teks terbaru dengan label
+**English translation not available** sampai terjemahannya ditambahkan.
+Terjemahan antarmuka dan fragmen tampilan berada di `src/i18n.py`. Tidak ada
+panggilan layanan terjemahan saat pengunjung membuka halaman.
+
 Viewer ini membaca sumber yang diprioritaskan sebagai berikut:
 
 1. `data/review_queue`
