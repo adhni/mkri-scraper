@@ -2,6 +2,7 @@
 from html import escape
 from urllib.parse import urlencode, urlsplit, quote
 import re
+from .i18n import content
 from .search import matches_case_number, normalize_search_text, search_query
 
 
@@ -50,6 +51,7 @@ def search_matches(items, query):
             ('Undang-undang', str(item.get('law') or ''), 15),
             ('Teks dokumen', item.get('_excerpt_text', ''), 1),
         ]
+        groups += item.get('_english_search_groups', [])
         score = 0
         candidates = []
         if reference and matches_case_number(str(item.get('case_number') or ''), reference):
@@ -66,6 +68,7 @@ def search_matches(items, query):
         copy = dict(item, _relevance=score)
         if candidates:
             _, _, label, text = max(candidates)
+            copy['_match_language'] = 'en' if any(label == group[0] and text == group[1] for group in item.get('_english_search_groups', [])) else 'id'
             if label != 'Teks dokumen':
                 text = ' '.join(text.split())
             folded = item.get('_search_text') if label == 'Teks dokumen' else None
@@ -118,7 +121,7 @@ def judges_html(names, insights):
     if not positions:
         names_html = ''.join(f'<span class="judge-name">{safe(n)}</span>' for n in names)
         note = court.get('note') or 'Panel pengucapan. Posisi individual belum diverifikasi; tidak diasumsikan dari tanda tangan.'
-        return f'<section id="hakim" class="judges-section reader-section"><div class="section-heading"><h2>Hakim dalam perkara</h2><span>{len(names)} hakim</span></div><div class="judge-name-list">{names_html or "Daftar hakim belum tersedia."}</div><p class="court-note">{safe(note)} {citation(court.get("page"))}</p></section>'
+        return f'<section id="hakim" class="judges-section reader-section"><div class="section-heading"><h2>Hakim dalam perkara</h2><span>{len(names)} hakim</span></div><div class="judge-name-list">{names_html or "Daftar hakim belum tersedia."}</div><p class="court-note">{content(note)} {citation(court.get("page"))}</p></section>'
     counts = {key: 0 for key in POSITION_LABELS}
     cards = []
     for name in names:
@@ -132,11 +135,11 @@ def judges_html(names, insights):
         cards.append(f'''<article class="judge-card position-{kind}">
         <div class="judge-identity"><span class="judge-avatar" aria-hidden="true">{safe(initials)}</span><h3>{safe(name)}</h3></div>
         <span class="position-label">{safe(POSITION_LABELS[kind])}</span>
-        <details><summary>Alasan & sumber</summary><p>{safe(explanation)}</p>{citation(position.get('page'))}</details></article>''')
+        <details><summary>Alasan & sumber</summary><p>{content(explanation)}</p>{citation(position.get('page'))}</details></article>''')
     tally = ''.join(f'<span class="tally position-{key}"><strong>{n}</strong> {safe(POSITION_LABELS[key])}</span>' for key, n in counts.items() if n)
     note = court.get('note') or 'Daftar panel pengucapan, bukan catatan voting. Posisi yang belum diverifikasi tidak dihitung sebagai dukungan atau penolakan.'
     return f'''<section id="hakim" class="judges-section reader-section"><div class="section-heading"><div><span class="eyebrow">Orang di balik putusan</span><h2>Hakim & posisi mereka</h2></div><span>{len(names)} hakim</span></div>
-    <div class="vote-tally">{tally}</div><p class="court-note">{safe(note)} {citation(court.get('page'))}</p>
+    <div class="vote-tally">{tally}</div><p class="court-note">{content(note)} {citation(court.get('page'))}</p>
     <div class="judge-grid">{''.join(cards) or '<p>Daftar hakim belum tersedia.</p>'}</div></section>'''
 
 
@@ -146,7 +149,7 @@ def change_html(insights):
         return ''
     sources = ' '.join(citation(page) for page in change.get('pages', [change.get('page')]))
     return f'''<section id="perubahan" class="reader-section"><div class="section-heading"><h2>Apa yang berubah?</h2><span class="story-sources">{sources}</span></div>
-    <div class="change-grid"><div><span class="eyebrow">Sebelum putusan</span><p>{safe(change.get('before'))}</p></div><div><span class="eyebrow">Setelah putusan</span><p>{safe(change.get('after'))}</p></div></div>
+    <div class="change-grid"><div><span class="eyebrow">Sebelum putusan</span><p>{content(change.get('before'))}</p></div><div><span class="eyebrow">Setelah putusan</span><p>{content(change.get('after'))}</p></div></div>
     <p class="historical-note">Perubahan pada tanggal putusan; bukan keterangan status hukum terkini.</p></section>'''
 
 
@@ -154,7 +157,7 @@ def reasoning_html(insights):
     points = insights.get('reasoning', [])
     if not points:
         return ''
-    cards = ''.join(f'<article><span class="eyebrow">{safe(p["label"])}</span><h3>{safe(p["title"])}</h3><p>{safe(p["text"])}</p>{citation(p.get("page"))}</article>' for p in points)
+    cards = ''.join(f'<article><span class="eyebrow">{content(p["label"])}</span><h3>{content(p["title"])}</h3><p>{content(p["text"])}</p>{citation(p.get("page"))}</article>' for p in points)
     return f'<section id="alasan" class="reader-section"><div class="section-heading"><h2>Di balik keputusan</h2></div><div class="reasoning-grid">{cards}</div></section>'
 
 

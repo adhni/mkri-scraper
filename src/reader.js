@@ -1,5 +1,9 @@
 /* Progressive enhancement: links and forms remain usable without JavaScript. */
 (() => {
+  const english = document.documentElement.lang === 'en';
+  document.querySelectorAll('[data-language]').forEach(link => link.addEventListener('click', () => {
+    if (location.hash) { const url = new URL(link.href); url.hash = location.hash; link.href = url.href; }
+  }));
   document.querySelectorAll('[data-open-ruling]').forEach(link => link.addEventListener('click', () => {
     const ruling = document.getElementById('amar');
     if (ruling) ruling.open = true;
@@ -85,8 +89,8 @@
         matches[current].classList.add('current-match');
         const mark = matches[current];
         text.scrollTop += mark.getBoundingClientRect().top - text.getBoundingClientRect().top - 60;
-        status.textContent = `${current + 1} dari ${matches.length} hasil · Temukan untuk berikutnya`;
-      } else status.textContent = query ? 'Tidak ditemukan dalam teks.' : 'Masukkan kata untuk mencari.';
+        status.textContent = english ? `${current + 1} of ${matches.length} results · Find for next` : `${current + 1} dari ${matches.length} hasil · Temukan untuk berikutnya`;
+      } else status.textContent = english ? (query ? 'Not found in the original text.' : 'Enter a word to search.') : (query ? 'Tidak ditemukan dalam teks.' : 'Masukkan kata untuk mencari.');
     });
   }
 })();

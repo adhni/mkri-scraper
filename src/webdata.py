@@ -4,6 +4,7 @@ import json
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
+from .i18n import english
 from .library import Library, apply_corrections
 from .normalizers import normalize_case_number
 from .search import matches_case_number, normalize_search_text, search_query
@@ -155,6 +156,22 @@ def summarize_case(record: CaseRecord) -> dict[str, Any]:
     fields["impact"] = payload.get('insights', {}).get('impact')
     fields["_search_text"] = " ".join(text.casefold().split())
     fields["_normalized_search_text"] = normalize_search_text(text)
+    groups = [
+        ('Judul', fields.get('title') or '', 50),
+        ('Topik', ' '.join(fields['topics']), 35),
+        ('Ringkasan', fields.get('description') or '', 20),
+        ('Undang-undang', fields.get('law') or '', 15),
+        ('Ringkasan', fields.get('outcome_summary') or '', 20),
+    ]
+    translated_topics = ' '.join(english(topic) for topic in fields['topics'])
+    fields['_english_search_groups'] = []
+    for label, original, weight in groups:
+        translated = translated_topics if label == 'Topik' else english(original)
+        if translated and translated != original:
+            fields['_english_search_groups'].append((label, translated, weight))
+    # Keep English metadata separate so the full judgment index is not duplicated.
+    fields['_english_search_text'] = normalize_search_text(
+        ' '.join(value for _, value, _ in fields['_english_search_groups']))
     return fields
 
 
@@ -185,7 +202,7 @@ def filter_case_summaries(
         haystack = item.get('_normalized_search_text')
         if haystack is None:
             haystack = normalize_search_text(item.get("_search_text") or " ".join(str(item.get(key) or "") for key in ["case_number", "title", "outcome_summary", "file_name", "document_type"]))
-        if terms and not all(term in haystack for term in terms):
+        if terms and not all(term in haystack or term in item.get('_english_search_text', '') for term in terms):
             continue
         out.append(item)
     return out
